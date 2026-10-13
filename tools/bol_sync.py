@@ -33,10 +33,10 @@ def search(tok, term):
     r = get(tok, "/products/search", {"search-term": term, "country-code": "NL", "page-size": 10, "include-image": "true", "include-offer": "true", "include-rating": "true"})
     return (r or {}).get("results") or (r or {}).get("products") or []
 
-BAD = ("filter", "geschikt voor", "compatibel", "hoes", "accessoire", "onderdeel", "vervang", "set van", "stuks", "zak", "borstel", "houder", "kabel", "oplader", "adapter", "cover", "case", "bescherm", "mondstuk", "opzet", "reserve", "navul", "cartridge", "sticker", "standaard", "stand ")
+BAD = ("filter", "geschikt voor", "compatibel", "hoes", "accessoire", "onderdeel", "vervang", "set van", "stuks", "zak", "borstel", "houder", "kabel", "oplader", "adapter", "cover", "bescherm", "mondstuk", "opzet", "reserve", "navul", "cartridge", "sticker", "standaard", "stand ")
 
-BAD = ("filter", "geschikt voor", "compatibel", "hoes", "accessoire", "onderdeel", "vervang", "set van", "stuks", "stofzak", "houder", "kabel", "oplader", "adapter", "cover", "case", "bescherm", "mondstuk", "opzet", "reserve", "navul", "cartridge", "sticker")
-VARIANTS = ("pro", "plus", "max", "ultra", "lite", "mini", "dual", "complete", "premium", "xl", "xxl", "kids", "slim", "go", "air")
+BAD = ("filter", "geschikt voor", "compatibel", "hoes", "accessoire", "onderdeel", "vervang", "set van", "stuks", "stofzak", "houder", "kabel", "oplader", "adapter", "cover", "bescherm", "mondstuk", "opzet", "reserve", "navul", "cartridge", "sticker")
+VARIANTS = ("pro", "plus", "max", "ultra", "lite", "mini", "dual", "complete", "premium", "xxl", "kids", "submarine")
 
 def norm(t): return re.sub(r"[^a-z0-9]", "", t.lower())
 
@@ -45,8 +45,8 @@ def strict_ok(p, title):
     t = norm(title); name = p["name"].replace("/", " ")
     toks = [w for w in re.split(r"[\s,()]+", name) if w]
     models = [norm(w) for w in toks if re.search(r"\d", w) and len(norm(w)) >= 3 and not re.fullmatch(r"\d{2,3}x\d{2,3}|\d+(cm|mm|l|w|kg|inch)?", norm(w))]
-    tl = title.lower(); nl = p["name"].lower()
-    if p["brand"].lower().split()[0] not in tl: return False
+    tl = re.split(r" [-|\u2013\u2014] ", title)[0].lower(); nl = p["name"].lower()  # alleen het naamdeel vóór het eerste streepje
+    if p["brand"].lower().split()[0] not in title.lower(): return False
     if any(b in tl for b in BAD if b not in nl): return False
     for v in VARIANTS:
         if re.search(r"\b%s\b" % v, tl) and not re.search(r"\b%s\b" % v, nl): return False
