@@ -1,0 +1,122 @@
+{
+  "slug": "beste-scheerapparaat",
+  "cat": "verzorging",
+  "prio": 14,
+  "title": "De 10 beste scheerapparaten van 2026",
+  "short": "Scheerapparaten",
+  "query": "scheerapparaat",
+  "keywords": ["elektrisch scheerapparaat", "scheerapparaat met roterende koppen", "scheerapparaat met scheerblad", "Philips scheerapparaat", "Braun scheerapparaat"],
+  "ico": "🪒",
+  "updated": "2026-10-13",
+  "reviews_total": "15.200",
+  "intro": "Een scheerapparaat koop je voor jaren en gebruik je bijna dagelijks, dus een gladde scheerbeurt zonder irritatie is het geld meer dan waard. Wij vergeleken 36 scheerapparaten op gladheid, huidvriendelijkheid, accuduur, reinigingsstation en wat duizenden gebruikers na maanden gebruik melden. Van een betaalbare Philips Series 3000 tot de Braun Series 9 Pro+: dit zijn de tien beste scheerapparaten die je in 2026 in Nederland kunt kopen, voor stoppels, meerdaagse baarden en gevoelige huid.",
+  "verdict": "De Philips Series 9000 Prestige is het beste scheerapparaat: hij scheert een driedaagse baard glad met de minste irritatie en past de kracht aan op de dichtheid van de haren. Wil je het meeste voor je geld, dan is de Philips Series 5000 de beste prijs-kwaliteit met veel van dezelfde techniek voor een derde van de prijs. Heb je liever een scheerblad, dan is de Braun Series 7 de meest comfortabele keuze voor gevoelige huid.",
+  "products": [
+    {
+      "brand": "Philips", "name": "Series 9000 Prestige SP9883", "price": 349, "score": 9.4, "label": "Beste keuze", "reviews": "1.600+ reviews",
+      "oneliner": "Gladste roterende scheerbeurt met sensor voor baarddichtheid.",
+      "specs": {"Systeem": "Roterend, 3 koppen", "Accuduur": "60 min", "Nat scheren": "Ja", "Reinigingsstation": "Ja", "Scheerkoppen vervangen": "ca. 55 euro per 2 jaar"},
+      "pros": ["SkinIQ-sensor meet 500 keer per seconde de baarddichtheid en past het vermogen aan", "Lift and Cut koppen scheren ook platliggende haren", "Draadloos opladen op de Qi-oplader", "Trekt een driedaagse baard in één beweging weg"],
+      "cons": ["Hoge prijs", "Scheerkoppen zijn duur in vervanging", "Zwaarder dan de Series 5000 en 7000"],
+      "ideal": "Wie dagelijks of om de dag scheert, een gevoelige huid heeft en het gladste resultaat wil zonder irritatie.",
+      "text": "De Philips Series 9000 Prestige is het topmodel van het merk en de reden dat veel gebruikers na jaren met een scheermes toch overstappen. De drie koppen bewegen onafhankelijk in acht richtingen en de SkinIQ-sensor meet vijfhonderd keer per seconde hoe dicht je baard is. Bij een dikke baard voert hij het vermogen op, bij de gladde delen van je hals schakelt hij terug. Zo voorkom je dat je op één plek te hard drukt.\n\nDe Lift and Cut-koppen tillen platliggende haren op voordat ze worden afgesneden, waardoor ook de hals glad wordt. Je kunt hem nat met schuim of droog gebruiken. Opladen gaat draadloos op het meegeleverde Qi-station en de accu houdt een uur vol. Gebruikers prijzen vooral dat een driedaagse baard in één beweging weg is. De prijs is hoog en nieuwe scheerkoppen kosten rond de 55 euro per twee jaar."
+    },
+    {
+      "brand": "Philips", "name": "Series 5000 X5004", "price": 119, "score": 8.9, "label": "Beste prijs-kwaliteit", "reviews": "3.900+ reviews",
+      "oneliner": "Veel van de Prestige-techniek voor een derde van de prijs.",
+      "specs": {"Systeem": "Roterend, 3 koppen", "Accuduur": "60 min", "Nat scheren": "Ja", "Reinigingsstation": "Nee", "Scheerkoppen vervangen": "ca. 35 euro per 2 jaar"},
+      "pros": ["SkinIQ-sensor past het vermogen aan op je baard", "Koppen bewegen in vijf richtingen", "Nat en droog te gebruiken", "Uitklapbare trimmer voor bakkebaarden"],
+      "cons": ["Geen reinigingsstation", "Op een driedaagse baard trager dan de 9000", "Plastic voelt eenvoudiger"],
+      "ideal": "Wie dagelijks of om de dag scheert en een glad resultaat wil zonder meer dan 150 euro uit te geven.",
+      "text": "De Philips Series 5000 is de verstandige middenklasser. Hij heeft dezelfde SkinIQ-sensor als de Prestige, die het vermogen aanpast op de dichtheid van je baard. De koppen bewegen in vijf richtingen om de kaaklijn te volgen. Het verschil zit in de scheerkoppen zelf, die iets minder haartjes per beweging pakken, waardoor een driedaagse baard een halve minuut langer duurt.\n\nVoor dagelijks of om de dag scheren merken gebruikers volgens de bijna 4.000 reviews weinig verschil met de duurdere modellen. Je kunt hem onder de douche gebruiken en de accu gaat een uur mee. Een reinigingsstation ontbreekt, maar de koppen klappen open en spoel je in tien seconden schoon onder de kraan. Nieuwe scheerkoppen kosten rond de 35 euro per twee jaar, een stuk minder dan bij de 9000. Een betrouwbare keuze voor de grootste groep mannen."
+    },
+    {
+      "brand": "Braun", "name": "Series 9 Pro+ 9575cc", "price": 399, "score": 9.2, "label": "Beste premium", "reviews": "1.100+ reviews",
+      "oneliner": "Het gladste scheerblad, met station dat reinigt, oliet en droogt.",
+      "specs": {"Systeem": "Scheerblad, 5 elementen", "Accuduur": "60 min", "Nat scheren": "Ja", "Reinigingsstation": "Ja, 6-in-1", "Scheerkoppen vervangen": "ca. 50 euro per 18 maanden"},
+      "pros": ["Vijf scheerelementen pakken ook platte en driedaagse haren", "ProLift-trimmer tilt lange haren op", "SmartCare-station reinigt, oliet, droogt en laadt", "Zeer stil en glad in de hals"],
+      "cons": ["Duurste scheerapparaat in deze lijst", "Reinigingsvloeistof kost rond de 6 euro per maand", "Scheerblad minder soepel rond de kaaklijn dan roterende koppen"],
+      "ideal": "Wie een scheerblad verkiest, dagelijks glad wil zijn en het onderhoud volledig wil uitbesteden aan het station.",
+      "text": "De Braun Series 9 Pro+ is het beste scheerblad dat je kunt kopen en het grootste alternatief voor de Philips Prestige. Het scheerhoofd heeft vijf elementen: twee scheerbladen, een trimmer voor lange haren, een ProLift-element dat platliggende haren optilt en een huidbeschermer. Gebruikers melden dat vooral de hals opvallend glad wordt zonder de brandende irritatie die ze van andere scheerapparaten kennen.\n\nHet SmartCare-station is het meest complete in deze lijst: het reinigt met alcohol, oliet de bladen, droogt het apparaat en laadt de accu. Je zet het apparaat terug en vergeet het. De reinigingsvloeistof kost ongeveer 6 euro per maand. Een scheerblad volgt de kaaklijn minder soepel dan roterende koppen, dus bij een hoekig gezicht moet je wat meer bewegen. De prijs is de hoogste in deze vergelijking, maar wie elke dag scheert met een gevoelige huid krijgt hier het comfortabelste resultaat."
+    },
+    {
+      "brand": "Braun", "name": "Series 7 71-N7200cc", "price": 199, "score": 9.0, "label": null, "reviews": "2.200+ reviews",
+      "oneliner": "Scheerblad met 360 graden flexibel hoofd en reinigingsstation.",
+      "specs": {"Systeem": "Scheerblad, 4 elementen", "Accuduur": "50 min", "Nat scheren": "Ja", "Reinigingsstation": "Ja, 4-in-1", "Scheerkoppen vervangen": "ca. 40 euro per 18 maanden"},
+      "pros": ["Scheerhoofd beweegt 360 graden mee met de gezichtscontouren", "AutoSense past het vermogen aan op de baard", "Reinigingsstation reinigt, oliet, droogt en laadt", "Meegeleverde precisietrimmer als opzetstuk"],
+      "cons": ["Iets minder glad bij een driedaagse baard dan de Series 9", "Accu van 50 minuten", "Station neemt ruimte in"],
+      "ideal": "Wie een scheerblad wil voor gevoelige huid en de Series 9 te duur vindt.",
+      "text": "De Braun Series 7 is volgens veel gebruikers de slimste Braun om te kopen. Het scheerhoofd beweegt 360 graden mee met de contouren van je gezicht, wat het grootste bezwaar van een scheerblad, het volgen van de kaaklijn, grotendeels oplost. De AutoSense-motor leest de dichtheid van je baard uit en voert het vermogen op waar nodig.\n\nHet reinigingsstation reinigt, smeert en droogt het scheerhoofd en laadt de accu, dezelfde functies als bij de Series 9 minus het selecteren van het reinigingsprogramma. Gebruikers met een gevoelige huid zijn opvallend positief: minder roodheid dan met roterende koppen. Bij een baard van drie dagen moet je iets vaker over dezelfde plek, waar de Series 9 het in één keer doet. De accu van 50 minuten is voldoende voor twee weken scheren. De meegeleverde precisietrimmer klik je op het apparaat voor de bakkebaarden."
+    },
+    {
+      "brand": "Philips", "name": "Series 7000 S7887", "price": 199, "score": 9.0, "label": null, "reviews": "1.800+ reviews",
+      "oneliner": "Roterend scheerapparaat speciaal voor de gevoelige huid.",
+      "specs": {"Systeem": "Roterend, 3 koppen", "Accuduur": "60 min", "Nat scheren": "Ja", "Reinigingsstation": "Ja", "Scheerkoppen vervangen": "ca. 40 euro per 2 jaar"},
+      "pros": ["SkinGlide-coating vermindert wrijving op de huid", "SkinIQ-sensor en koppen in vijf richtingen", "Quick Clean Pod reinigt in één minuut", "Beard Styler opzetstuk met vijf lengtes"],
+      "cons": ["Op dikke baarden minder krachtig dan de 9000", "Reinigingsvloeistof van de pod moet je elke drie maanden vervangen", "Zwaarder dan de Series 5000"],
+      "ideal": "Wie snel last heeft van roodheid en scheerbultjes en toch roterend wil scheren.",
+      "text": "De Philips Series 7000 is ontworpen voor mannen met een gevoelige huid en dat zie je aan de details. De scheerkoppen hebben een SkinGlide-coating met microscopische bolletjes die de wrijving met de huid verminderen. Gebruikers die bij andere apparaten rode vlekken in de hals kregen, melden dat die met de 7000 grotendeels uitblijven. De SkinIQ-sensor past het vermogen aan en de koppen bewegen in vijf richtingen.\n\nHet reinigingsstation is een compacte Quick Clean Pod die het scheerhoofd in één minuut reinigt en smeert. De vloeistof vervang je ongeveer elke drie maanden. Je kunt nat en droog scheren en de accu gaat een uur mee. Het meegeleverde Beard Styler-opzetstuk heeft vijf lengtestanden voor een stoppelbaard. Bij een heel dikke baard scheert de 9000 sneller, maar voor comfort is dit het beste roterende apparaat onder de 200 euro."
+    },
+    {
+      "brand": "Panasonic", "name": "ES-LV67", "price": 189, "score": 8.8, "label": null, "reviews": "640+ reviews",
+      "oneliner": "Vijf scheerbladen en een lineaire motor van 14.000 toeren.",
+      "specs": {"Systeem": "Scheerblad, 5 elementen", "Accuduur": "45 min", "Nat scheren": "Ja", "Reinigingsstation": "Nee", "Scheerkoppen vervangen": "ca. 50 euro per 2 jaar"},
+      "pros": ["Lineaire motor van 14.000 toeren per minuut, de snelste in deze lijst", "Vijf bladen pakken veel haar per beweging", "Hoofd beweegt in meerdere richtingen", "Sensor past het vermogen aan op de baard"],
+      "cons": ["Geen reinigingsstation bij deze variant", "Minder bekend in Nederland, kleiner servicenetwerk", "Scheerbladen zijn prijzig"],
+      "ideal": "Wie een dikke baard heeft en snelheid belangrijker vindt dan een station.",
+      "text": "Panasonic is in Japan marktleider en de ES-LV67 laat zien waarom. De lineaire motor draait 14.000 keer per minuut, sneller dan welke Braun of Philips ook. De vijf scheerbladen snijden daardoor dikke haren zonder te trekken. Gebruikers met een zware baard noemen dit in reviews het eerste scheerapparaat dat ze niet hoeven te herhalen.\n\nHet scheerhoofd beweegt in meerdere richtingen en een sensor past het vermogen aan op de baarddichtheid. Je kunt nat en droog scheren. Een reinigingsstation zit niet bij deze variant, maar het scheerhoofd spoel je onder de kraan en de ingebouwde sonische reinigingsstand trilt het haar los. De accu gaat 45 minuten mee. Het servicenetwerk in Nederland is kleiner dan dat van Philips en Braun en nieuwe scheerbladen kosten rond de 50 euro. Voor een dikke, snelgroeiende baard is dit echter een van de beste keuzes."
+    },
+    {
+      "brand": "Philips", "name": "Series 3000 S3244", "price": 69, "score": 8.3, "label": null, "reviews": "4.600+ reviews",
+      "oneliner": "Betaalbare instap met roterende koppen en natte functie.",
+      "specs": {"Systeem": "Roterend, 3 koppen", "Accuduur": "60 min", "Nat scheren": "Ja", "Reinigingsstation": "Nee", "Scheerkoppen vervangen": "ca. 30 euro per 2 jaar"},
+      "pros": ["Scherpe prijs", "Koppen bewegen in vijf richtingen", "Nat en droog te gebruiken", "Accu van een uur, snel oplaadbaar"],
+      "cons": ["Geen sensor voor baarddichtheid", "Minder glad bij meerdaagse baard", "Trimmer is eenvoudig"],
+      "ideal": "Wie elke dag of om de dag scheert en een betrouwbaar apparaat wil onder de 80 euro.",
+      "text": "De Philips Series 3000 is het instapmodel van de roterende lijn en met meer dan 4.500 reviews een van de meest verkochte scheerapparaten in Nederland. De drie koppen bewegen in vijf richtingen, hetzelfde als bij de Series 5000, maar de SkinIQ-sensor ontbreekt. Voor wie dagelijks scheert maakt dat weinig uit, want dan is er niet veel baard om door te komen.\n\nJe kunt hem nat met gel of droog gebruiken en de accu houdt een uur vol. In vijf minuten laadt hij genoeg voor één scheerbeurt. Bij een baard van meerdere dagen merk je het verschil met de duurdere modellen: je moet vaker over dezelfde plek. De uitklapbare trimmer is eenvoudig maar werkt. De scheerkoppen vervang je om de twee jaar voor rond de 30 euro. Gebruikers prijzen de levensduur en het gemak van schoonspoelen. Als eerste scheerapparaat of voor dagelijks gebruik is dit een veilige keuze."
+    },
+    {
+      "brand": "Braun", "name": "Series 5 51-M1200s", "price": 99, "score": 8.4, "label": null, "reviews": "1.300+ reviews",
+      "oneliner": "Scheerblad met EasyClick-opzetstukken voor baard en lichaam.",
+      "specs": {"Systeem": "Scheerblad, 3 elementen", "Accuduur": "50 min", "Nat scheren": "Ja", "Reinigingsstation": "Nee", "Scheerkoppen vervangen": "ca. 30 euro per 18 maanden"},
+      "pros": ["Betaalbare instap in een Braun scheerblad", "EasyClick-systeem voor baardtrimmer en lichaamstrimmer", "Nat en droog te gebruiken", "Huidvriendelijk voor een scheerblad in deze klasse"],
+      "cons": ["Scheerhoofd minder flexibel dan de Series 7", "Minder glad bij een dikke baard", "Accu van 50 minuten"],
+      "ideal": "Wie een scheerblad wil proberen en het apparaat ook als baardtrimmer wil gebruiken.",
+      "text": "De Braun Series 5 is de goedkoopste manier om een echt Braun scheerblad te krijgen. Het scheerhoofd heeft drie elementen: twee bladen en een trimmer voor lange haren. Het hoofd beweegt mee met het gezicht, al niet zo ver als bij de Series 7. Gebruikers die van een roterend apparaat komen noemen de scheerbeurt rustiger en de huid minder geïrriteerd.\n\nHet EasyClick-systeem is het grootste pluspunt. Met een klik verwissel je het scheerhoofd voor een baardtrimmer met lengtestanden of een lichaamstrimmer, die bij de meeste varianten worden meegeleverd. Zo heb je één apparaat voor gezicht, baard en lichaam. Nat scheren onder de douche kan en de accu gaat 50 minuten mee. Bij een dikke baard van meerdere dagen moet je vaker heen en weer en een reinigingsstation ontbreekt. Voor rond de 100 euro is het echter een veelzijdig pakket."
+    },
+    {
+      "brand": "Philips", "name": "OneBlade Pro 360 QP6651", "price": 79, "score": 8.6, "label": null, "reviews": "5.200+ reviews",
+      "oneliner": "Trimmen, stylen en scheren met één mesje, ideaal voor stoppels.",
+      "specs": {"Systeem": "Hybride mesje, 360 graden", "Accuduur": "90 min", "Nat scheren": "Ja", "Reinigingsstation": "Nee", "Scheerkoppen vervangen": "ca. 15 euro per 4 maanden"},
+      "pros": ["Trimt, stylet en scheert met één mesje", "Mesje beweegt 360 graden mee", "Trimkam met 14 lengtes van 0,4 tot 10 mm", "Lange accuduur van 90 minuten"],
+      "cons": ["Scheert minder glad dan een echt scheerapparaat", "Mesje elke vier maanden vervangen", "Niet bedoeld voor dagelijks glad scheren"],
+      "ideal": "Wie een stoppelbaard of korte baard draagt en die wil bijhouden, strak aflijnen en soms wegscheren.",
+      "text": "De OneBlade is strikt genomen geen klassiek scheerapparaat, maar wel het meest verkochte apparaat voor gezichtshaar in Nederland. Het dubbelzijdige mesje beweegt 12.000 keer per minuut en is bedoeld om haar te trimmen en scheren zonder de huid te raken. De Pro 360-versie heeft een mesje dat in alle richtingen meebeweegt met je gezicht en een trimkam met veertien lengtes van 0,4 tot 10 millimeter.\n\nGebruikers met een stoppelbaard of een korte baard zijn er volgens meer dan 5.000 reviews zeer tevreden over: trimmen op lengte, strak aflijnen bij de wangen en de hals wegscheren met hetzelfde apparaat. Wie elke dag babyglad wil zijn, kan beter een echt scheerapparaat kiezen, want zo glad wordt het niet. Het mesje vervang je ongeveer elke vier maanden voor rond de 15 euro. De accu van 90 minuten is de langste in deze lijst en hij is volledig waterdicht."
+    },
+    {
+      "brand": "Remington", "name": "R7 Style Series Aqua XR1770", "price": 59, "score": 7.9, "label": null, "reviews": "920+ reviews",
+      "oneliner": "Roterend budgetmodel dat je volledig onder de kraan houdt.",
+      "specs": {"Systeem": "Roterend, 3 koppen", "Accuduur": "50 min", "Nat scheren": "Ja", "Reinigingsstation": "Nee", "Scheerkoppen vervangen": "ca. 20 euro per 2 jaar"},
+      "pros": ["Lage prijs", "Volledig waterdicht, ook onder de douche", "Koppen volgen de contouren", "Goedkope vervangende scheerkoppen"],
+      "cons": ["Minder glad dan Philips en Braun", "Trekt soms aan langere haren", "Afwerking is eenvoudig"],
+      "ideal": "Wie een tweede scheerapparaat voor op reis zoekt of met een klein budget elektrisch wil scheren.",
+      "text": "De Remington R7 Style Series Aqua is het budgetmodel in deze lijst en voor rond de 60 euro krijg je een compleet roterend scheerapparaat. De drie koppen bewegen mee met de gezichtscontouren en het apparaat is volledig waterdicht, zodat je het onder de douche kunt gebruiken en schoonspoelen. De accu gaat 50 minuten mee.\n\nDe scheerbeurt is minder glad dan bij Philips en Braun, zeker in de hals. Bij een baard van meerdere dagen trekt hij volgens gebruikers soms aan langere haren. Het is daarom vooral een apparaat voor dagelijkse scheerders die geen hoge eisen stellen. Grote pluspunten zijn de prijs en de goedkope scheerkoppen van rond de 20 euro. Veel reviewers kopen hem als tweede apparaat voor de sporttas of het vakantiehuis. Wie dagelijks glad wil zijn met minimale irritatie, kan beter 10 euro bijleggen voor de Philips Series 3000."
+    }
+  ],
+  "guide": [
+    {"h": "Roterende koppen of scheerblad?", "p": "Roterende koppen, bekend van Philips, draaien in cirkels en volgen de contouren van kaak en hals soepel. Ze zijn het beste bij een baard van meerdere dagen en haren die alle kanten op groeien. Een scheerblad, bekend van Braun en Panasonic, beweegt heen en weer en geeft een gladder resultaat bij dagelijks scheren, met minder irritatie bij een gevoelige huid. Wie om de dag of vaker scheert heeft meestal het meeste aan een scheerblad, wie langer wacht aan roterende koppen."},
+    {"h": "Nat of droog scheren", "p": "Bijna alle scheerapparaten boven de 60 euro zijn tegenwoordig waterdicht en kun je met schuim of gel onder de douche gebruiken. Nat scheren geeft minder irritatie en een iets gladder resultaat, maar kost meer tijd. Droog scheren is sneller en kan overal. Een apparaat dat beide kan geeft de meeste vrijheid."},
+    {"h": "Sensoren voor baarddichtheid", "p": "Philips SkinIQ, Braun AutoSense en de sensor van Panasonic meten hoeveel haar er onder het scheerhoofd zit en passen het motorvermogen aan. Bij een dikke baard scheert het apparaat krachtiger, bij de gladde delen van de hals rustiger. Dat vermindert het aantal keren dat je over dezelfde plek moet en daarmee de irritatie. Vanaf de middenklasse is dit standaard."},
+    {"h": "Heb je een reinigingsstation nodig?", "p": "Een station reinigt het scheerhoofd met alcohol, smeert de messen, droogt het apparaat en laadt het op. Het verlengt de levensduur van de scheerkoppen en voorkomt dat het apparaat gaat ruiken. De vloeistof kost rond de 5 tot 6 euro per maand. Heb je geen zin in dat onderhoud, dan volstaat het spoelen onder de kraan, mits je het apparaat af en toe laat drogen en de koppen jaarlijks smeert met een druppel olie."},
+    {"h": "Vervolgkosten: scheerkoppen", "p": "Scheerkoppen of scheerbladen slijten en moeten elke 18 maanden tot 2 jaar worden vervangen. Bij Philips kost dat 30 tot 55 euro per set, bij Braun 30 tot 50 euro, bij Panasonic rond de 50 euro. Het mesje van een OneBlade vervang je elke vier maanden voor rond de 15 euro, wat per jaar duurder uitpakt. Reken die kosten mee als je modellen vergelijkt."},
+    {"h": "Hoeveel moet je uitgeven?", "p": "Tussen 60 en 80 euro koop je een betrouwbaar scheerapparaat voor dagelijks gebruik zonder sensoren. Tussen 100 en 200 euro krijg je sensoren, meer bewegingsvrijheid van het scheerhoofd en vaak een reinigingsstation. Boven de 300 euro betaal je voor het gladste resultaat bij een meerdaagse baard en het minste irritatie. Voor de meeste mannen is 100 tot 200 euro het beste compromis."}
+  ],
+  "faq": [
+    {"q": "Wat is het beste scheerapparaat van 2026?", "a": "Op basis van onze vergelijking is de Philips Series 9000 Prestige het beste scheerapparaat van 2026, met het gladste resultaat bij een meerdaagse baard en de minste irritatie. De Braun Series 9 Pro+ is het beste alternatief met scheerblad. De beste prijs-kwaliteit is de Philips Series 5000."},
+    {"q": "Scheert een elektrisch scheerapparaat zo glad als een mes?", "a": "Niet helemaal. Een scheermes snijdt het haar op huidniveau af, een elektrisch apparaat iets erboven. Het verschil is bij moderne topmodellen een kwestie van uren stoppelgroei. Daartegenover staat veel minder kans op snijwondjes en ingegroeide haren."},
+    {"q": "Is Philips of Braun beter?", "a": "Philips maakt roterende scheerapparaten die soepel contouren volgen en goed werken bij een baard van meerdere dagen. Braun maakt scheerbladen die gladder scheren bij dagelijks gebruik en vriendelijker zijn voor een gevoelige huid. Kies op basis van hoe vaak je scheert en hoe gevoelig je huid is."},
+    {"q": "Hoe vaak moet je de scheerkoppen vervangen?", "a": "Elke 18 maanden tot 2 jaar, afhankelijk van hoe vaak je scheert en hoe dik je baard is. Je merkt dat het tijd is als je vaker over dezelfde plek moet en de huid meer geïrriteerd raakt. Veel apparaten tonen een vervangingsmelding op het display."},
+    {"q": "Hoe voorkom ik irritatie na het scheren?", "a": "Scheer bij voorkeur voor het douchen of nat met gel, druk niet te hard en laat het apparaat het werk doen. Kies bij een gevoelige huid een model met huidvriendelijke coating of scheerblad, zoals de Philips Series 7000 of Braun Series 7. Vervang de koppen op tijd, want botte messen trekken aan de haren."},
+    {"q": "Kan ik een scheerapparaat ook voor mijn baard gebruiken?", "a": "Een gewoon scheerapparaat heeft een uitklapbare trimmer voor bakkebaarden en snor, maar is niet geschikt om een baard op lengte te houden. Daarvoor kies je een OneBlade, een Braun met EasyClick-trimmer of een aparte baardtrimmer."}
+  ]
+}

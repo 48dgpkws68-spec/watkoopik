@@ -1,0 +1,122 @@
+{
+  "slug": "beste-tondeuse",
+  "cat": "verzorging",
+  "prio": 16,
+  "title": "De 10 beste tondeuses van 2026",
+  "short": "Tondeuses",
+  "query": "tondeuse",
+  "keywords": ["haartrimmer", "baardtrimmer", "tondeuse kaalscheren", "draadloze tondeuse", "Wahl tondeuse"],
+  "ico": "✂️",
+  "updated": "2026-10-13",
+  "reviews_total": "13.700",
+  "intro": "Zelf je haar of baard knippen scheelt al snel 200 euro per jaar aan kappersbezoeken, maar alleen met een tondeuse die niet trekt, strak knipt en lang meegaat. Wij vergeleken 35 tondeuses op snijkwaliteit, lengtestanden, accuduur, onderhoud en wat duizenden gebruikers na maanden gebruik melden. Van een betaalbare Philips Series 3000 tot de professionele Wahl Magic Clip: dit zijn de tien beste tondeuses die je in 2026 in Nederland kunt kopen, voor hoofdhaar, baard en kaalscheren.",
+  "verdict": "De Philips Series 9000 HC9450 is de beste tondeuse voor thuis: hij knipt dik haar zonder te trekken, heeft 400 lengtestanden met geheugen en een accu van twee uur. Wil je het meeste voor je geld, dan is de Philips Series 5000 HC5650 de beste prijs-kwaliteit met een strakke snede, 28 standen en een lange accuduur voor rond de 50 euro. Wie zelf fades wil knippen of veel haar heeft, kiest de Wahl Magic Clip Cordless, de tondeuse van de kapper.",
+  "products": [
+    {
+      "brand": "Philips", "name": "Series 9000 HC9450", "price": 109, "score": 9.3, "label": "Beste keuze", "reviews": "1.700+ reviews",
+      "oneliner": "Motorsensor past de kracht aan, 400 lengtes met geheugen.",
+      "specs": {"Mes": "Staal, zelfslijpend", "Lengtes": "0,5 tot 42 mm, 400 standen", "Accuduur": "120 min", "Wasbaar": "Ja, mes afspoelbaar", "Snoer": "Draadloos + met snoer"},
+      "pros": ["Sensor meet de haardichtheid 400 keer per seconde en past het motorvermogen aan", "Digitaal display met 400 lengtes in stappen van 0,1 mm", "Drie geheugenstanden voor gezinsleden", "Twee uur accuduur, een uur opladen"],
+      "cons": ["Prijziger dan de meeste thuistondeuses", "Plastic opzetkammen, geen metaal", "Groter handvat dan de Series 5000"],
+      "ideal": "Gezinnen of mannen die regelmatig zelf knippen, dik haar hebben en een tondeuse willen die jarenlang strak blijft knippen.",
+      "text": "De Philips Series 9000 is het topmodel van de thuistondeuses en het verschil met goedkopere modellen zit in de motor. Een sensor meet vierhonderd keer per seconde hoeveel haar er tussen de messen zit en voert het vermogen op bij dikke plukken. Daardoor trekt hij niet en hoef je niet twee keer over dezelfde plek, iets wat gebruikers met dik haar in de reviews het vaakst noemen.\n\nDe lengte stel je in op het digitale display in stappen van 0,1 millimeter, van 0,5 tot 42 millimeter. Drie geheugenstanden onthouden de instellingen van verschillende gezinsleden. De zelfslijpende stalen messen hoef je niet te oliën en spoel je onder de kraan af. De accu gaat twee uur mee en laadt in een uur op, maar je kunt ook met snoer knippen als hij leeg is. De opzetkammen zijn van kunststof en het handvat is wat groter dan bij de Series 5000, maar wie vaak knipt krijgt hier de meest comfortabele tondeuse voor thuis."
+    },
+    {
+      "brand": "Philips", "name": "Series 5000 HC5650", "price": 49, "score": 8.9, "label": "Beste prijs-kwaliteit", "reviews": "5.400+ reviews",
+      "oneliner": "Strakke snede, 28 standen en 90 minuten accu voor 50 euro.",
+      "specs": {"Mes": "Staal, zelfslijpend", "Lengtes": "0,5 tot 28 mm, 28 standen", "Accuduur": "90 min", "Wasbaar": "Ja, mes afspoelbaar", "Snoer": "Draadloos + met snoer"},
+      "pros": ["Trim-n-Flow kam voorkomt dat haar vast komt te zitten", "28 lengtes via een draaiwiel met vergrendeling", "90 minuten accuduur, ook met snoer te gebruiken", "Messen hoef je niet te oliën"],
+      "cons": ["Geen display of geheugen", "Maximale lengte van 28 mm is krap voor lang haar", "Motor is minder krachtig dan de 9000 bij heel dik haar"],
+      "ideal": "Wie zelf of bij kinderen regelmatig knipt en een betrouwbare tondeuse wil zonder meer dan 60 euro uit te geven.",
+      "text": "De Philips Series 5000 is met ruim 5.000 reviews de populairste tondeuse van Nederland en de reden is eenvoudig: hij knipt strak, trekt niet en kost rond de 50 euro. De Trim-n-Flow-kam heeft openingen waardoor geknipt haar wegvalt in plaats van zich op te hopen, zodat je ook bij dik haar in één beweging kunt doorknippen. De 28 lengtestanden kies je met een draaiwiel dat vergrendelt, dus de lengte verschuift niet halverwege.\n\nDe accu gaat 90 minuten mee en als hij leeg is knip je gewoon met het snoer verder. De stalen messen slijpen zichzelf en hebben geen olie nodig; je spoelt ze af onder de kraan. Gebruikers die hun kinderen knippen prijzen vooral de rustige motor. Een display en geheugenstanden ontbreken en de maximale lengte van 28 millimeter is te kort voor wie het haar lang wil houden. Voor de meeste kapsels thuis is dit echter precies genoeg."
+    },
+    {
+      "brand": "Wahl", "name": "Magic Clip Cordless", "price": 139, "score": 9.2, "label": "Beste premium", "reviews": "1.300+ reviews",
+      "oneliner": "De tondeuse van de kapper, met verstelbaar mes voor fades.",
+      "specs": {"Mes": "Staal, verstelbaar 0,8 tot 2,5 mm", "Lengtes": "8 metalen kammen tot 25 mm", "Accuduur": "90 min", "Wasbaar": "Nee, mes afborstelen en oliën", "Snoer": "Draadloos + met snoer"},
+      "pros": ["Krachtige roterende motor van 5.500 toeren, trekt nooit", "Hendel om het mes traploos te verstellen voor fades", "Kappersstandaard: onderdelen en messen overal verkrijgbaar", "Met snoer en draadloos te gebruiken"],
+      "cons": ["Niet waterdicht, mes moet je borstelen en oliën", "Leercurve voor wie geen ervaring heeft", "Geen vaste lengtestanden op het apparaat zelf"],
+      "ideal": "Wie zelf fades of korte strakke kapsels knipt en een professioneel apparaat wil dat tien jaar meegaat.",
+      "text": "De Wahl Magic Clip is in Nederlandse barbershops de standaard en de draadloze versie brengt die kwaliteit naar huis. De roterende motor draait 5.500 toeren per minuut en snijdt daardoor ook dik, nat of kroezend haar zonder te trekken. Het verschil met een thuistondeuse zit in de hendel aan de zijkant: daarmee verstel je het mes traploos van 0,8 tot 2,5 millimeter, precies wat je nodig hebt om een fade zonder zichtbare lijnen te knippen.\n\nDe acht metalen opzetkammen lopen tot 25 millimeter. De messen kun je apart vervangen en Wahl-onderdelen zijn overal te krijgen. Het apparaat is niet waterdicht; je borstelt het mes schoon en smeert het af en toe met een druppel olie, wat gebruikers soms vergeten. Voor beginners is de leercurve groter dan bij een Philips met vaste standen. Wie echter strakke korte kapsels wil knippen zoals de kapper, komt bij deze tondeuse uit."
+    },
+    {
+      "brand": "Philips", "name": "Series 3000 HC3505", "price": 29, "score": 8.2, "label": null, "reviews": "4.800+ reviews",
+      "oneliner": "Betaalbare basis-tondeuse met 13 standen en lange accu.",
+      "specs": {"Mes": "Staal, zelfslijpend", "Lengtes": "0,5 tot 23 mm, 13 standen", "Accuduur": "75 min", "Wasbaar": "Ja, mes afspoelbaar", "Snoer": "Draadloos + met snoer"},
+      "pros": ["Zeer lage prijs", "Messen zonder olie en afspoelbaar", "Draadloos en met snoer", "Licht en handzaam"],
+      "cons": ["Vaste stappen van 2 mm, minder fijn instelbaar", "Trekt af en toe bij dik haar", "Maximale lengte 23 mm"],
+      "ideal": "Wie af en toe zijn eigen haar of dat van de kinderen bijknipt en niet meer dan 30 euro wil uitgeven.",
+      "text": "De Philips Series 3000 is het instapmodel van Philips en met bijna 5.000 reviews bewijst hij dat je voor minder dan 30 euro een goede tondeuse kunt kopen. De dertien lengtestanden lopen in stappen van ongeveer twee millimeter van 0,5 tot 23 millimeter, genoeg voor korte kapsels en het bijwerken van de zijkanten. De stalen messen slijpen zichzelf, hebben geen olie nodig en spoel je onder de kraan af.\n\nDe accu gaat 75 minuten mee en als hij leeg is knip je met snoer verder. Gebruikers prijzen het lage gewicht en de eenvoud. Bij heel dik haar trekt de motor volgens enkele reviewers af en toe, zeker als de kam vol zit. De stappen van twee millimeter zijn grover dan bij de Series 5000. Voor een gezin dat af en toe de kinderen knipt of een man die zijn kapsel om de paar weken bijwerkt, is dit een prima start."
+    },
+    {
+      "brand": "Braun", "name": "Series 7 HC7390", "price": 69, "score": 8.6, "label": null, "reviews": "1.100+ reviews",
+      "oneliner": "Sensor past het vermogen aan, 17 standen en volledig wasbaar.",
+      "specs": {"Mes": "Staal, levenslang scherp", "Lengtes": "1 tot 21 mm, 17 standen", "Accuduur": "70 min", "Wasbaar": "Ja, volledig onder de kraan", "Snoer": "Draadloos + met snoer"},
+      "pros": ["ProSense-sensor past het motorvermogen aan op de haardichtheid", "Volledig waterdicht, hele apparaat onder de kraan", "Twee opzetkammen voor 1 tot 11 en 11 tot 21 mm", "Snellaadfunctie: 5 minuten voor één knipbeurt"],
+      "cons": ["Maximaal 21 mm", "Lengtestappen van 1 mm pas vanaf de kam", "Accu van 70 minuten is korter dan Philips"],
+      "ideal": "Wie korte kapsels knipt en een robuuste, volledig wasbare tondeuse van een Duits merk wil.",
+      "text": "De Braun Series 7 HC7390 is de krachtigste thuistondeuse van Braun en heeft net als de Philips 9000 een sensor die het motorvermogen aanpast op de dikte van het haar. Daardoor hoef je bij dikke plukken niet te vertragen. Gebruikers melden volgens de reviews dat hij strak knipt en niet trekt, ook bij kroezend haar.\n\nDe zeventien lengtestanden van 1 tot 21 millimeter verdeel je over twee opzetkammen. Het hele apparaat is waterdicht, dus je spoelt niet alleen het mes maar de volledige tondeuse onder de kraan af. De messen zijn volgens Braun levenslang scherp zonder olie. De accu gaat 70 minuten mee en vijf minuten laden is genoeg voor één knipbeurt. Nadelen zijn de maximale lengte van 21 millimeter en de accu die korter meegaat dan bij Philips. Voor korte kapsels en mannen die hun tondeuse graag helemaal schoon willen houden is dit een betrouwbare keuze."
+    },
+    {
+      "brand": "BaByliss", "name": "E986E Super-X Metal", "price": 59, "score": 8.5, "label": null, "reviews": "720+ reviews",
+      "oneliner": "Metalen behuizing en 45 lengtes voor hoofd, baard en lichaam.",
+      "specs": {"Mes": "Japans staal, 45 mm breed", "Lengtes": "0,4 tot 24 mm, 45 standen", "Accuduur": "180 min", "Wasbaar": "Ja, mes afspoelbaar", "Snoer": "Draadloos + met snoer"},
+      "pros": ["Accu van drie uur, de langste in deze lijst", "Metalen behuizing die stevig in de hand ligt", "Opzetstukken voor baard en lichaam meegeleverd", "Breed mes van 45 mm knipt snel"],
+      "cons": ["Zwaarder dan de plastic tondeuses", "Mes moet je af en toe oliën", "Kammen passen soms wat los"],
+      "ideal": "Wie één apparaat wil voor hoofdhaar, baard en lichaam en een lange accuduur belangrijk vindt.",
+      "text": "De BaByliss Super-X Metal valt op door zijn metalen behuizing, die stevig en koel in de hand ligt. Onder de kap zit een breed mes van Japans staal van 45 millimeter dat in één haal meer haar meeneemt dan de smallere messen van Philips en Braun. Daardoor knip je volgens gebruikers sneller, vooral bij lange zijkanten en het achterhoofd.\n\nDe 45 lengtestanden van 0,4 tot 24 millimeter verdeel je over de opzetkammen. In de doos zitten ook een trimkop voor de baard en een opzetstuk voor het lichaam, zodat je met één apparaat alles doet. De accu gaat drie uur mee, de langste in deze vergelijking. Het mes spoel je af maar moet je af en toe oliën en de kammen klikken minder stevig vast dan bij Philips. Het gewicht is hoger dan bij de plastic tondeuses, wat sommige gebruikers juist prettig vinden."
+    },
+    {
+      "brand": "Philips", "name": "OneBlade Pro 360 QP6651", "price": 79, "score": 8.7, "label": null, "reviews": "5.200+ reviews",
+      "oneliner": "Trimmen, stylen en scheren van baard en lichaam met één mesje.",
+      "specs": {"Mes": "Hybride mesje, 360 graden", "Lengtes": "0,4 tot 10 mm, 14 standen", "Accuduur": "90 min", "Wasbaar": "Ja, volledig onder de kraan", "Snoer": "Alleen draadloos"},
+      "pros": ["Trimt, lijnt af en scheert met één mesje", "Kam met 14 lengtes voor een stoppelbaard", "Volledig waterdicht", "Display met accustatus"],
+      "cons": ["Maximaal 10 mm, niet voor hoofdhaar knippen", "Mesje elke vier maanden vervangen voor rond de 15 euro", "Alleen draadloos te gebruiken"],
+      "ideal": "Wie vooral een baard wil bijhouden en strak wil aflijnen in plaats van hoofdhaar knippen.",
+      "text": "De Philips OneBlade staat in deze lijst omdat hij voor baarden en stoppels de beste keuze is, ook al kun je er geen hoofdhaar mee knippen. Het dubbelzijdige mesje beweegt 12.000 keer per minuut en trimt, lijnt af en scheert met hetzelfde apparaat. De Pro 360-versie heeft een mesje dat in alle richtingen meebeweegt en een kam met veertien lengtes van 0,4 tot 10 millimeter.\n\nMet meer dan 5.000 reviews is het een van de populairste verzorgingsproducten in Nederland en gebruikers prijzen vooral het aflijnen van wangen en hals, dat met een gewone tondeuse lastig is. Het apparaat is volledig waterdicht en de accu gaat 90 minuten mee, maar hij werkt alleen draadloos. Het mesje vervang je ongeveer elke vier maanden voor rond de 15 euro. Wil je hoofdhaar knippen, kies dan een echte tondeuse; voor een baard tot een centimeter is dit het praktischste apparaat."
+    },
+    {
+      "brand": "Remington", "name": "HC5000 Pro Power", "price": 34, "score": 8.0, "label": null, "reviews": "2.100+ reviews",
+      "oneliner": "Titanium-gecoat mes, 25 standen en de kracht van het snoer.",
+      "specs": {"Mes": "Staal met titaniumcoating", "Lengtes": "1,5 tot 42 mm, 25 standen", "Accuduur": "60 min", "Wasbaar": "Ja, mes afspoelbaar", "Snoer": "Draadloos + met snoer"},
+      "pros": ["Lengtes tot 42 mm, geschikt voor langer haar", "Lage prijs", "Turbostand voor dik haar", "Opbergetui en schaar meegeleverd"],
+      "cons": ["Motor trekt soms bij dik haar", "Accu van 60 minuten", "Plastic kammen buigen bij druk"],
+      "ideal": "Wie een complete set met kammen tot 42 mm zoekt voor een laag bedrag.",
+      "text": "De Remington HC5000 Pro Power is een van de goedkoopste complete tondeusesets op de markt. Voor rond de 35 euro krijg je een tondeuse met 25 lengtestanden van 1,5 tot 42 millimeter, een opbergetui, een schaar en een kam. De grote maximale lengte maakt hem geschikt voor mannen die het haar bovenop langer dragen en alleen de zijkanten kort houden.\n\nHet mes heeft een titaniumcoating die volgens Remington langer scherp blijft en een turbostand voert het vermogen op bij dik haar. In de praktijk trekt de motor volgens gebruikers af en toe toch wanneer de kam vol zit, dus knip bij dik haar in kleinere stappen. De accu gaat een uur mee en je kunt met snoer doorwerken. De plastic kammen buigen een beetje als je drukt, wat de snede iets ongelijk maakt. Voor een budgetset met veel lengtes en accessoires is dit echter een eerlijke koop."
+    },
+    {
+      "brand": "Panasonic", "name": "ER-GP82", "price": 169, "score": 9.0, "label": null, "reviews": "380+ reviews",
+      "oneliner": "Professionele lineaire motor die 10.000 toeren constant houdt.",
+      "specs": {"Mes": "Carbon-titanium, X-Taper", "Lengtes": "0,8 tot 2 mm verstelbaar + kammen tot 15 mm", "Accuduur": "90 min", "Wasbaar": "Ja, mes afspoelbaar", "Snoer": "Draadloos + met snoer"},
+      "pros": ["Lineaire motor houdt 10.000 toeren constant, ook bij dik haar", "Mes van carbon-titanium blijft jaren scherp", "Zeer stil in gebruik", "Verstelbaar mes in vijf stappen"],
+      "cons": ["Hoge prijs", "Vooral bij kappersgroothandels verkrijgbaar", "Kammen lopen maar tot 15 mm"],
+      "ideal": "Wie zelf korte kapsels knipt en een stille, professionele tondeuse wil die een decennium meegaat.",
+      "text": "De Panasonic ER-GP82 is de tondeuse die veel Nederlandse kappers naast hun Wahl gebruiken. De lineaire motor draait 10.000 toeren per minuut en houdt dat toerental constant, ook als het mes door een dikke pluk gaat. Dat maakt hem volgens gebruikers een van de weinige tondeuses die nooit trekt. Het X-Taper mes van carbon-titanium blijft jaren scherp en spoel je gewoon af.\n\nHet mes verstel je in vijf stappen van 0,8 tot 2 millimeter en de meegeleverde kammen lopen tot 15 millimeter, wat laat zien dat deze tondeuse voor korte kapsels is gemaakt. Hij is opvallend stil, prettig voor wie kinderen knipt. De accu gaat 90 minuten mee en je kunt met snoer verder. De prijs is hoog en je vindt hem vooral bij kappersgroothandels en enkele webshops. Wie echter wekelijks zelf knipt en de beste snijkwaliteit wil, is hier tien jaar klaar."
+    },
+    {
+      "brand": "Philips", "name": "Multigroom Series 7000 MG7920", "price": 69, "score": 8.4, "label": null, "reviews": "3.600+ reviews",
+      "oneliner": "Alles-in-één set met 14 opzetstukken voor hoofd, baard, neus en lichaam.",
+      "specs": {"Mes": "Staal, zelfslijpend", "Lengtes": "0,5 tot 16 mm via kammen", "Accuduur": "120 min", "Wasbaar": "Ja, opzetstukken afspoelbaar", "Snoer": "Alleen draadloos"},
+      "pros": ["14 opzetstukken: tondeuse, baardtrimmer, neustrimmer, lichaamsscheerder", "Twee uur accuduur", "Metalen trimmer met stalen messen", "Reisetui meegeleverd"],
+      "cons": ["Smalle trimmer knipt hoofdhaar langzamer dan een echte tondeuse", "Alleen draadloos te gebruiken", "Veel losse onderdelen om te bewaren"],
+      "ideal": "Wie één apparaat wil voor alles van hoofdhaar tot neushaar en geen aparte tondeuse wil kopen.",
+      "text": "De Philips Multigroom 7000 is geen klassieke tondeuse maar een complete verzorgingsset met veertien opzetstukken. Je krijgt een metalen trimmer met stalen messen, kammen voor hoofdhaar tot 16 millimeter, baardkammen, een precisietrimmer, een neus- en oortrimmer en een lichaamsscheerder. Met meer dan 3.500 reviews is het een van de populairste verzorgingsproducten voor mannen in Nederland.\n\nHet hoofdhaar knippen gaat met de smalle trimmer langzamer dan met een echte tondeuse, dus voor wie wekelijks een volledig kapsel knipt is de Series 5000 handiger. Voor het bijhouden van een korte coupe, de baard en de rest van het lichaam is dit volgens gebruikers echter de praktischste oplossing. De accu gaat twee uur mee, maar het apparaat werkt alleen draadloos. Alle opzetstukken spoel je af. Het meegeleverde etui is nodig, want veertien losse onderdelen raak je anders snel kwijt."
+    }
+  ],
+  "guide": [
+    {"h": "Tondeuse, baardtrimmer of multigroomer?", "p": "Een tondeuse heeft een breed mes van 40 tot 45 millimeter en kammen tot 20 of 40 millimeter, bedoeld om hoofdhaar snel en gelijkmatig te knippen. Een baardtrimmer heeft een smal mes en fijne stappen tot ongeveer 10 millimeter. Een multigroomer combineert beide met een set opzetstukken, maar knipt hoofdhaar langzamer. Knip je vooral hoofdhaar, kies dan een echte tondeuse. Houd je vooral een baard bij, dan een trimmer of OneBlade."},
+    {"h": "Lengtestanden en wat je nodig hebt", "p": "Voor korte kapsels en de zijkanten heb je 0,5 tot 12 millimeter nodig in fijne stappen. Wil je bovenop langer, dan zijn kammen tot 25 of 40 millimeter handig. Een draaiwiel met vergrendeling of een digitaal display is nauwkeuriger dan losse kammen, omdat de lengte niet kan verschuiven. Kappers gebruiken een verstelbaar mes met hendel voor fades."},
+    {"h": "Motor: waarom dure tondeuses niet trekken", "p": "Goedkope tondeuses hebben een eenvoudige motor die vertraagt zodra er veel haar tussen de messen zit en dan gaat het apparaat trekken. Duurdere modellen hebben een sensor die het vermogen aanpast of een roterende of lineaire motor die zijn toerental vasthoudt. Heb je dik, kroezend of veel haar, dan is dit het belangrijkste punt om op te letten."},
+    {"h": "Onderhoud: wasbaar of oliën", "p": "Philips en Braun maken zelfslijpende messen die je niet hoeft te oliën en onder de kraan afspoelt. Kapperstondeuses van Wahl en sommige BaByliss-modellen gebruiken klassieke stalen messen die je afborstelt en af en toe smeert met een druppel olie. Dat kost een minuut per keer maar wordt vaak vergeten, waarna het mes bot wordt. Kies wat bij je discipline past."},
+    {"h": "Accu en snoer", "p": "Een knipbeurt duurt 15 tot 30 minuten, dus een accu van een uur is voldoende. Prettiger is een tondeuse die ook met het snoer aangesloten werkt, zodat een lege accu je niet halverwege stoort. Let op dat sommige multigroomers alleen draadloos werken. Een snellaadfunctie van vijf minuten voor één beurt is een handige extra."},
+    {"h": "Hoeveel moet je uitgeven?", "p": "Tussen 25 en 40 euro koop je een degelijke tondeuse die voor af en toe knippen prima werkt, al kan de motor bij dik haar trekken. Tussen 50 en 110 euro krijg je een sensor die het vermogen aanpast, meer standen en een langere accu. Boven de 130 euro betaal je voor kapperskwaliteit met een verstelbaar mes, bedoeld voor fades en wekelijks gebruik. Eén kappersbezoek minder per maand betaalt een middenklasser binnen een paar maanden terug."}
+  ],
+  "faq": [
+    {"q": "Wat is de beste tondeuse van 2026?", "a": "Op basis van onze vergelijking is de Philips Series 9000 HC9450 de beste tondeuse van 2026 voor thuisgebruik, dankzij de motorsensor die niet trekt en 400 lengtestanden met geheugen. Wie fades wil knippen kiest de Wahl Magic Clip Cordless. De beste prijs-kwaliteit is de Philips Series 5000 HC5650."},
+    {"q": "Kan ik mijn eigen haar knippen met een tondeuse?", "a": "Ja, zeker korte kapsels en de zijkanten. Gebruik een kam die twee standen langer is dan je denkt nodig te hebben en werk naar beneden toe. Een tweede spiegel voor het achterhoofd helpt. Voor een fade of een overgang zonder lijnen is oefening nodig of een verstelbaar mes zoals bij de Wahl."},
+    {"q": "Wat is het verschil tussen een tondeuse en een baardtrimmer?", "a": "Een tondeuse heeft een breed mes en lange kammen voor hoofdhaar, een baardtrimmer een smal mes met fijne stappen tot ongeveer 10 millimeter voor nauwkeurig werk in het gezicht. Multigroomers combineren beide, maar knippen hoofdhaar langzamer."},
+    {"q": "Moet ik het mes van mijn tondeuse oliën?", "a": "Bij Philips en Braun niet, die messen zijn zelfslijpend en spoel je af onder de kraan. Bij Wahl, Panasonic en veel BaByliss-modellen wel: een druppel tondeuse-olie na elke paar beurten houdt het mes scherp en de motor koel."},
+    {"q": "Welke tondeuse is geschikt voor kaalscheren?", "a": "Voor een echt kaal hoofd gebruik je een tondeuse zonder kam op 0,4 of 0,5 millimeter, zoals de Philips Series 5000 of 9000, of een stoppellengte met de OneBlade. Voor een babygladde schedel heb je daarna nog een scheerapparaat of mes nodig."},
+    {"q": "Hoe lang gaat een tondeuse mee?", "a": "Een thuistondeuse van Philips of Braun gaat gemiddeld vijf tot acht jaar mee; meestal is de accu het eerste wat achteruitgaat. Kapperstondeuses van Wahl en Panasonic halen tien jaar of meer omdat je messen en accu kunt vervangen. Haar uit het mes borstelen na elke beurt verlengt de levensduur aanzienlijk."}
+  ]
+}

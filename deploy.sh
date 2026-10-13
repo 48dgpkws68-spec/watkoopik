@@ -1,0 +1,8 @@
+#!/bin/zsh
+# Bouwt de site en pusht naar GitHub Pages. Gebruik: ./deploy.sh "commit-bericht"
+set -e
+cd "$(dirname "$0")"
+python3 build.py
+git add -A
+git commit -m "${1:-Update gidsen}" -m "Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>" || echo "niets te committen"
+git push origin main

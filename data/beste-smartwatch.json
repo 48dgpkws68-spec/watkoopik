@@ -1,0 +1,123 @@
+{
+  "slug": "beste-smartwatch",
+  "cat": "elektronica",
+  "prio": 20,
+  "title": "De 10 beste smartwatches van 2026",
+  "short": "Smartwatches",
+  "query": "smartwatch",
+  "keywords": ["sporthorloge", "smartwatch android", "smartwatch iphone", "slim horloge", "fitness horloge"],
+  "ico": "⌚",
+  "color": "#1b3fb3",
+  "updated": "2026-10-13",
+  "reviews_total": "11.700",
+  "intro": "Een smartwatch is in 2026 veel meer dan een stappenteller. De beste modellen meten je slaap, hartslag en stressniveau, waarschuwen bij een onregelmatig hartritme, navigeren tijdens het hardlopen en laten je betalen zonder telefoon. Maar welke je moet kiezen hangt sterk af van je telefoon en van wat je ermee wilt. Wij vergeleken 31 smartwatches op gezondheidsfuncties, accuduur, scherm, sporttracking en de ervaringen van duizenden gebruikers. Dit zijn de tien beste smartwatches die je nu in Nederland kunt kopen.",
+  "verdict": "De Apple Watch Series 11 is de beste smartwatch voor iPhone-gebruikers en daarmee voor de meeste Nederlanders: het volledigste pakket gezondheidsfuncties, eindelijk 24 uur accuduur en een vlekkeloze bediening. Voor Android is de Samsung Galaxy Watch8 het beste alternatief. Wie dagenlang wil sporten zonder oplader kiest de Garmin Fenix 8 als beste premium model. De Amazfit Active 2 bewijst dat je voor 99 euro al een complete smartwatch koopt en is daarmee de beste prijs-kwaliteit.",
+  "products": [
+    {
+      "brand": "Apple", "name": "Watch Series 11", "price": 449, "score": 9.4, "label": "Beste keuze", "reviews": "2.100+ reviews",
+      "oneliner": "Compleetste smartwatch voor iPhone, nu met 24 uur accuduur.",
+      "specs": {"Scherm": "AMOLED, altijd aan", "Accuduur": "tot 24 uur", "Compatibel": "Alleen iPhone", "GPS": "Ja, dual-frequency", "Betalen": "Apple Pay"},
+      "pros": ["Waarschuwt bij hoge bloeddruk, onregelmatig hartritme en slaapapneu", "Accuduur eindelijk 24 uur, met snelladen in 15 minuten voor 8 uur", "Glas twee keer krasbestendiger dan Series 10", "5G en de meest uitgebreide app-winkel"],
+      "cons": ["Werkt uitsluitend met een iPhone", "Accuduur blijft kort vergeleken met Garmin en Huawei", "Lichaamstemperatuur alleen tijdens de slaap"],
+      "ideal": "iPhone-gebruikers die gezondheid, sport, berichten en betalen in één horloge willen.",
+      "text": "De Apple Watch Series 11 verscheen in september 2025 en lost de grootste klacht van jaren op: de accu haalt nu 24 uur en laadt in een kwartier bij voor 8 uur. Daarmee kun je hem overdag dragen, een nacht laten meten en tijdens het douchen opladen. Nieuw is de melding bij tekenen van hoge bloeddruk, die naast de bestaande waarschuwingen voor onregelmatig hartritme, slaapapneu en lage zuurstofwaarden komt. De Sleep Score vat je nacht samen in één cijfer.\n\nHet scherm is helder en het Ion-X-glas is twee keer zo krasbestendig als bij de Series 10. Met watchOS 26 kreeg het horloge Workout Buddy, een coach die op basis van je data aanmoedigt tijdens het sporten. Gebruikers roemen de naadloze samenwerking met de iPhone: berichten beantwoorden, Apple Pay, de deur van je auto openen. Het enige echte bezwaar is dat Android-gebruikers er niets aan hebben. Voor iPhone-bezitters is er geen betere smartwatch."
+    },
+    {
+      "brand": "Amazfit", "name": "Active 2", "price": 99, "score": 8.5, "label": "Beste prijs-kwaliteit", "reviews": "1.600+ reviews",
+      "oneliner": "Complete smartwatch met 10 dagen accuduur voor 99 euro.",
+      "specs": {"Scherm": "AMOLED, 1,32 inch", "Accuduur": "tot 10 dagen", "Compatibel": "iPhone en Android", "GPS": "Ja, dual-band", "Betalen": "Zepp Pay (beperkt)"},
+      "pros": ["10 dagen accuduur bij normaal gebruik", "Dual-band GPS die duurdere horloges benadert", "Saffierglas bij de premium-versie voor 20 euro meer", "Werkt met iPhone en Android"],
+      "cons": ["Betalen via Zepp Pay werkt met weinig Nederlandse banken", "Minder apps dan Apple en Samsung", "Slaapmeting iets minder nauwkeurig dan de top"],
+      "ideal": "Wie een complete smartwatch met goede sporttracking wil zonder meer dan 100 euro uit te geven.",
+      "text": "Amazfit heeft met de Active 2 de lat voor goedkope smartwatches flink verhoogd. Voor 99 euro krijg je een rond AMOLED-scherm van 1,32 inch met een helderheid van 2.000 nits, een roestvrijstalen kast, dual-band GPS en meer dan 160 sportmodi. Dat zijn specificaties die een paar jaar geleden alleen bij horloges van 300 euro voorkwamen. De premium-versie met saffierglas en leren band kost 20 euro meer en is het volgens veel gebruikers waard.\n\nDe accu gaat 10 dagen mee bij normaal gebruik en nog altijd 5 dagen als je de altijd-aan-stand gebruikt. De Zepp-app geeft een duidelijk overzicht van slaap, hartslag en stress en biedt een AI-coach die trainingen voorstelt. Betalen via Zepp Pay werkt in Nederland met weinig banken en de app-winkel is klein. In reviews worden vooral de accuduur en de GPS-nauwkeurigheid geprezen. Wie geen Apple Pay of Google Wallet nodig heeft, krijgt hier erg veel voor zijn geld."
+    },
+    {
+      "brand": "Garmin", "name": "Fenix 8 AMOLED 47 mm", "price": 949, "score": 9.2, "label": "Beste premium", "reviews": "540+ reviews",
+      "oneliner": "Ultieme sporthorloge met 16 dagen accuduur en offline kaarten.",
+      "specs": {"Scherm": "AMOLED, 1,4 inch", "Accuduur": "tot 16 dagen", "Compatibel": "iPhone en Android", "GPS": "Ja, multi-band", "Betalen": "Garmin Pay"},
+      "pros": ["Tot 16 dagen accuduur, in GPS-modus 47 uur", "Offline topografische kaarten en navigatie", "Luidspreker en microfoon voor bellen en spraakbediening", "Duikfunctie tot 40 meter en titanium uitvoering beschikbaar"],
+      "cons": ["Duurste horloge in deze lijst", "Groot en zwaar voor smalle polsen", "Minder slimme functies dan Apple en Samsung"],
+      "ideal": "Serieuze sporters, wandelaars en avonturiers die weken wegblijven van een stopcontact.",
+      "text": "De Garmin Fenix 8 is het sporthorloge waar andere fabrikanten zich aan meten. De AMOLED-versie van 47 millimeter haalt 16 dagen accuduur als smartwatch en 47 uur met GPS aan, waarmee je een hele week wandelen op één lading doet. Multi-band GPS houdt het spoor ook tussen hoge gebouwen en in bossen strak. De offline topografische kaarten laten je navigeren zonder telefoon, inclusief automatisch routes maken op basis van afstand.\n\nNieuw ten opzichte van de Fenix 7 zijn de luidspreker en microfoon, waarmee je belt via je telefoon en het horloge met je stem bedient. De behuizing is waterdicht voor duiken tot 40 meter. Garmin levert bovendien de meest uitgebreide trainingsanalyse: belasting, herstel, slaapcoach en een trainingsgereedheidsscore. Gebruikers prijzen de betrouwbaarheid en de app zonder abonnement. Het horloge is groot, zwaar en duur. Maar wie serieus sport, krijgt nergens meer."
+    },
+    {
+      "brand": "Samsung", "name": "Galaxy Watch8 44 mm", "price": 299, "score": 9.0, "label": null, "reviews": "1.300+ reviews",
+      "oneliner": "Beste smartwatch voor Android, met Gemini en antioxidantmeting.",
+      "specs": {"Scherm": "AMOLED, 3.000 nits", "Accuduur": "tot 40 uur", "Compatibel": "Android (beste met Galaxy)", "GPS": "Ja, dual-frequency", "Betalen": "Samsung Wallet, Google Wallet"},
+      "pros": ["Dunner en lichter dan de Watch7 met helderder scherm", "Gemini als assistent en Running Coach", "Meet antioxidanten en vaatbelasting", "Google Wallet werkt met de meeste Nederlandse banken"],
+      "cons": ["Werkt niet met iPhone", "Hartritme- en ECG-functies alleen met Samsung-telefoon", "Accuduur van 40 uur blijft beperkt"],
+      "ideal": "Android-gebruikers en vooral Galaxy-bezitters die het volledigste pakket gezondheidsfuncties willen.",
+      "text": "De Galaxy Watch8 kwam in juli 2025 en kreeg het kussenvormige ontwerp van de Ultra, maar dunner en lichter. Het scherm haalt 3.000 nits en blijft leesbaar in fel zonlicht. Gemini vervangt Bixby als assistent en reageert op gesproken vragen, inclusief het starten van een training. De Running Coach bepaalt na een testloop je niveau en stelt een trainingsschema op.\n\nSamsung ging ook verder met gezondheidsmetingen: het horloge meet antioxidanten in je huid via de sensor, berekent de belasting van je bloedvaten tijdens de slaap en geeft een richtlijn voor je bedtijd. Hartritmewaarschuwingen, ECG en bloeddrukmeting werken alleen met een Samsung-telefoon. Betalen gaat via Samsung Wallet of Google Wallet. De accuduur van 40 uur is een dag langer dan bij Apple maar blijft achter bij Garmin en Huawei. In reviews wordt het horloge geroemd om het scherm en het comfort. Voor Android is dit de completeste keuze."
+    },
+    {
+      "brand": "Google", "name": "Pixel Watch 4 45 mm", "price": 399, "score": 8.8, "label": null, "reviews": "480+ reviews",
+      "oneliner": "Fitbit-gezondheid met Gemini, nu repareerbaar en met groter scherm.",
+      "specs": {"Scherm": "AMOLED, 3.000 nits, gebogen", "Accuduur": "tot 40 uur", "Compatibel": "Android", "GPS": "Ja, dual-frequency", "Betalen": "Google Wallet"},
+      "pros": ["Gebogen Actua 360-scherm met 10 procent meer oppervlak", "Fitbit-slaapanalyse en Dagelijkse gereedheid", "Eerste Pixel Watch die te repareren is", "Nood-sms via satelliet zonder telefoon"],
+      "cons": ["Werkt niet met iPhone", "Fitbit Premium nodig voor sommige inzichten", "Alleen eigen bandjes passen"],
+      "ideal": "Android-gebruikers die de Fitbit-aanpak van gezondheid en een strak rond ontwerp willen.",
+      "text": "De Pixel Watch 4 verscheen in oktober 2025 en is de eerste grote stap sinds het begin van de serie. Het gebogen Actua 360-scherm loopt door tot de rand en biedt 10 procent meer oppervlak en 3.000 nits helderheid. Google maakte het horloge voor het eerst repareerbaar: scherm en accu zijn te vervangen. De accuduur ging naar 40 uur bij de 45 millimeter versie en snelladen gaat in een kwartier van 0 naar 50 procent.\n\nDe gezondheidsfuncties komen van Fitbit: slaapfasen, Dagelijkse gereedheid, stressmanagement en een nieuwe sensor voor huidtemperatuur. Gemini draait op het horloge en je kunt vanaf de pols een nood-sms via satelliet sturen als je buiten bereik bent, een primeur in deze lijst. Google Wallet werkt met vrijwel alle Nederlandse banken. Kritiek is er op het bandsysteem, waar alleen eigen bandjes op passen. Gebruikers noemen het het mooiste ronde horloge voor Android."
+    },
+    {
+      "brand": "Garmin", "name": "Venu 3", "price": 399, "score": 8.9, "label": null, "reviews": "1.150+ reviews",
+      "oneliner": "Garmin-nauwkeurigheid met 14 dagen accuduur en bellen vanaf de pols.",
+      "specs": {"Scherm": "AMOLED, 1,4 inch", "Accuduur": "tot 14 dagen", "Compatibel": "iPhone en Android", "GPS": "Ja, multi-GNSS", "Betalen": "Garmin Pay"},
+      "pros": ["14 dagen accuduur, ook met altijd-aan-scherm 5 dagen", "Slaapcoach, dutjesdetectie en Body Battery", "Bellen via de telefoon met luidspreker en microfoon", "Werkt even goed met iPhone als Android"],
+      "cons": ["Minder apps en slimme functies dan Apple en Samsung", "Geen ECG in Nederland", "Prijs ligt dicht bij Apple Watch"],
+      "ideal": "Wie sport en gezondheid nauwkeurig wil volgen zonder elke dag op te laden, ongeacht de telefoon.",
+      "text": "De Garmin Venu 3 is het horloge voor wie de nauwkeurigheid van Garmin wil in een slank, alledaags ontwerp. Het AMOLED-scherm van 1,4 inch is helder en de accu gaat tot 14 dagen mee, of 5 dagen met het scherm altijd aan. Dat is een week langer dan de Apple Watch en Galaxy Watch samen. De Body Battery toont je energieniveau op een schaal van 1 tot 100 en de slaapcoach herkent zelfs dutjes overdag.\n\nMet luidspreker en microfoon beantwoord je oproepen vanaf de pols en bedien je de assistent van je telefoon. Garmin Pay werkt in Nederland met een beperkt aantal banken, dus check dat vooraf. Een rolstoelmodus en meer dan 30 sportprofielen maken hem breed inzetbaar. Gebruikers die van een Apple Watch overstappen, noemen de accuduur als grootste winst en de kleinere app-winkel als grootste gemis. Het is de beste keuze voor wie zowel iPhone als Android wil blijven ondersteunen."
+    },
+    {
+      "brand": "Garmin", "name": "Forerunner 570 47 mm", "price": 549, "score": 8.9, "label": null, "reviews": "390+ reviews",
+      "oneliner": "Hardloophorloge met AMOLED, trainingscoach en 11 dagen accuduur.",
+      "specs": {"Scherm": "AMOLED, 1,4 inch", "Accuduur": "tot 11 dagen", "Compatibel": "iPhone en Android", "GPS": "Ja, multi-band", "Betalen": "Garmin Pay"},
+      "pros": ["Multi-band GPS en de nieuwste Elevate v5-hartslagsensor", "Triathlonmodus, trainingsgereedheid en avondrapport", "Luidspreker en microfoon", "Lichte aluminium kast in frisse kleuren"],
+      "cons": ["Duur voor een horloge zonder kaarten", "Minder slimme functies dan een Apple Watch", "Scherm krast gemakkelijker dan saffierglas"],
+      "ideal": "Hardlopers en triatleten die een trainingsplan willen volgen en hun herstel willen bewaken.",
+      "text": "De Forerunner 570 is Garmins hardloophorloge van 2025 en combineert een helder AMOLED-scherm met de nieuwste sensoren. De Elevate v5-sensor meet hartslag, huidtemperatuur en ECG, al is de ECG-functie in Nederland nog niet beschikbaar. Multi-band GPS geeft nauwkeurige afstanden, ook in het bos en de stad. Nieuw zijn de luidspreker en microfoon, zodat je tijdens een duurloop een oproep kunt aannemen.\n\nDe trainingsfuncties zijn waar Garmin in uitblinkt: dagelijkse trainingsvoorstellen die zich aanpassen aan je herstel, een gereedheidsscore bij het opstaan en een avondrapport dat de dag samenvat en de volgende training voorstelt. De triathlonmodus wisselt met één druk tussen zwemmen, fietsen en lopen. De accu haalt 11 dagen als smartwatch en 18 uur met multi-band GPS. Gebruikers prijzen de lichte kast van 50 gram. Het ontbreken van kaarten bij deze prijs is het meest genoemde kritiekpunt; daarvoor moet je naar de Forerunner 970."
+    },
+    {
+      "brand": "Apple", "name": "Watch SE 3", "price": 269, "score": 8.7, "label": null, "reviews": "1.900+ reviews",
+      "oneliner": "Betaalbare Apple Watch met altijd-aan-scherm en slaapapneu-melding.",
+      "specs": {"Scherm": "Retina, altijd aan", "Accuduur": "tot 18 uur", "Compatibel": "Alleen iPhone", "GPS": "Ja", "Betalen": "Apple Pay"},
+      "pros": ["Nu met altijd-aan-scherm en snelladen", "Slaapapneu-melding en slaapscore", "S10-chip, dezelfde als in de Series 10", "Ideaal als eerste Apple Watch of voor kinderen via Gezinsconfiguratie"],
+      "cons": ["Geen ECG, bloeddruk- of zuurstofmeting", "Dikkere behuizing en grotere schermrand", "18 uur accuduur"],
+      "ideal": "iPhone-gebruikers die de basis van de Apple Watch willen voor een lagere prijs, of een eerste horloge voor een kind.",
+      "text": "De Apple Watch SE 3 is in september 2025 flink verbeterd. Hij kreeg de S10-chip, een altijd-aan-scherm, snelladen en de slaapapneu-melding van de duurdere modellen. Daarmee verdwijnt een groot deel van het verschil met de Series 11 voor wie geen ECG, bloeddrukmeldingen of zuurstofmeting nodig heeft. Het horloge meet hartslag, waarschuwt bij een hoge of lage hartslag en herkent een val of een auto-ongeluk.\n\nDe behuizing is dikker en de schermrand breder dan bij de Series 11, maar in gebruik merk je dat weinig. Met Gezinsconfiguratie stel je het horloge in voor een kind zonder eigen iPhone, waardoor de SE populair is als eerste horloge voor pubers. De accuduur blijft 18 uur, dus dagelijks opladen is nodig. Gebruikers prijzen de prijs-kwaliteit en de snelheid. Wie een iPhone heeft en minder dan 300 euro wil uitgeven, hoeft niet verder te kijken."
+    },
+    {
+      "brand": "Huawei", "name": "Watch GT 6 46 mm", "price": 249, "score": 8.6, "label": null, "reviews": "620+ reviews",
+      "oneliner": "21 dagen accuduur en fietsvermogensmeting zonder sensor.",
+      "specs": {"Scherm": "AMOLED, 1,47 inch, 3.000 nits", "Accuduur": "tot 21 dagen", "Compatibel": "iPhone en Android", "GPS": "Ja, Sunflower dual-band", "Betalen": "Nee in Nederland"},
+      "pros": ["Langste accuduur in deze lijst: 21 dagen", "Virtueel fietsvermogen zonder aparte vermogensmeter", "Helder scherm en luxe afwerking voor deze prijs", "Werkt met iPhone en Android"],
+      "cons": ["Geen contactloos betalen in Nederland", "App-winkel beperkt, installatie op Android via eigen app", "Sommige functies ontbreken bij gebruik met iPhone"],
+      "ideal": "Wie lange accuduur en sportfuncties belangrijker vindt dan betalen en apps.",
+      "text": "De Huawei Watch GT 6 verscheen in september 2025 en zet opnieuw de standaard voor accuduur: 21 dagen bij normaal gebruik en nog altijd 12 dagen met het scherm altijd aan. De 46 millimeter kast heeft een AMOLED-scherm van 1,47 inch met 3.000 nits, waarmee hij in fel zonlicht goed leesbaar blijft. De afwerking met metalen kast en stevig bandje voelt duurder dan de prijs.\n\nOpvallend is de virtuele vermogensmeting voor fietsers: het horloge berekent je wattage uit snelheid, hellingsgraad en wind, zonder dure vermogensmeter. Daarnaast zijn er golfkaarten, trailrunning-functies en een nauwkeurige slaapanalyse. Het Sunflower-GPS-systeem met dual-band houdt het spoor goed in de stad. De beperkingen zitten in het ecosysteem: betalen werkt in Nederland niet, de app-winkel is klein en met een iPhone mis je een deel van de functies. Gebruikers noemen de accuduur en de prijs als redenen om de beperkingen te accepteren."
+    },
+    {
+      "brand": "Xiaomi", "name": "Watch S4", "price": 149, "score": 8.2, "label": null, "reviews": "710+ reviews",
+      "oneliner": "Stijlvol rond horloge met verwisselbare rand en 15 dagen accuduur.",
+      "specs": {"Scherm": "AMOLED, 1,43 inch, 1.500 nits", "Accuduur": "tot 15 dagen", "Compatibel": "iPhone en Android", "GPS": "Ja, dual-band", "Betalen": "Nee in Nederland"},
+      "pros": ["Verwisselbare lunette om de wijzerplaat in een andere stijl te zetten", "15 dagen accuduur", "Dual-band GPS en 150 sportmodi", "Bellen via bluetooth met luidspreker"],
+      "cons": ["Geen contactloos betalen in Nederland", "Weinig apps van derden", "Slaapmeting minder gedetailleerd dan Garmin"],
+      "ideal": "Wie een klassiek uitziend horloge wil met lange accuduur en basisfuncties voor sport en gezondheid.",
+      "text": "De Xiaomi Watch S4 ziet er met zijn roestvrijstalen kast en ronde AMOLED-scherm uit als een klassiek horloge. Bijzonder is de verwisselbare lunette: de rand draai je los en vervang je door een andere kleur of een versie met cijfers, waarmee je het uiterlijk in een paar seconden aanpast. Het scherm van 1,43 inch haalt 1.500 nits en de accu gaat tot 15 dagen mee bij normaal gebruik.\n\nMet dual-band GPS, 150 sportmodi en bluetooth-bellen is de basis compleet. De Mi Fitness-app toont hartslag, slaap, stress en bloedzuurstof overzichtelijk, al is de slaapanalyse minder diepgaand dan bij Garmin. Betalen werkt in Nederland niet en apps van derden zijn er nauwelijks. Gebruikers prijzen het uiterlijk, de accuduur en de snelle bediening via HyperOS. Voor wie vooral een mooi horloge wil dat meldingen toont en sport bijhoudt, is dit een scherpe aanbieding onder de 150 euro."
+    }
+  ],
+  "guide": [
+    {"h": "iPhone of Android bepaalt je keuze", "p": "De belangrijkste vraag is welke telefoon je hebt. Een Apple Watch werkt uitsluitend met een iPhone. Samsung Galaxy Watch en Google Pixel Watch werken alleen met Android en sommige functies van Samsung alleen met een Galaxy-telefoon. Garmin, Amazfit, Huawei en Xiaomi werken met beide, al mis je met een iPhone soms functies zoals het beantwoorden van berichten. Wissel je binnenkort van telefoonmerk, kies dan een horloge dat met beide werkt."},
+    {"h": "Gezondheidsfuncties: wat is nuttig?", "p": "Hartslag, slaap en stappen meet elk horloge in deze lijst. Interessanter zijn de waarschuwingen: Apple en Samsung waarschuwen bij een onregelmatig hartritme, slaapapneu en, bij Apple, tekenen van hoge bloeddruk. Garmin en Amazfit zetten in op herstel en trainingsbelasting. Een ECG-functie is in Nederland niet bij alle merken vrijgegeven. Geen enkel horloge vervangt een arts, maar een melding kan wel reden zijn om er een te bezoeken."},
+    {"h": "Accuduur: van één dag tot drie weken", "p": "Apple en Samsung halen één tot twee dagen en moeten dagelijks aan de lader. Daar staan de snelste processors, de meeste apps en de helderste schermen tegenover. Garmin, Huawei, Amazfit en Xiaomi halen één tot drie weken door een zuiniger besturingssysteem met minder apps. Wil je slaap meten, dan telt de nacht ook mee: een horloge dat je overdag moet opladen, doe je in de praktijk tijdens het douchen aan de lader."},
+    {"h": "Betalen met je horloge", "p": "Apple Pay en Google Wallet werken met vrijwel alle Nederlandse banken. Samsung Wallet en Garmin Pay met een deel ervan, controleer dat vooraf bij je bank. Huawei, Xiaomi en Amazfit bieden in Nederland geen of nauwelijks betaalmogelijkheden. Betaal je graag zonder telefoon bij de bakker of in de sportschool, dan is dit een doorslaggevend criterium."},
+    {"h": "Sport: GPS en sensoren", "p": "Voor hardlopen en fietsen is dual-band of multi-band GPS het verschil tussen een strakke route en een lijn die door huizen slingert. Alle horloges in deze lijst hebben het, behalve de Apple Watch SE. Serieuze sporters kijken naar trainingsbelasting, hersteladvies en de mogelijkheid om een hartslagband of fietssensor te koppelen; daar is Garmin het sterkst in. Wie vooral wandelt en af en toe sport, heeft aan elk horloge hier genoeg."},
+    {"h": "Hoeveel moet je uitgeven?", "p": "Onder de 150 euro krijg je in 2026 een compleet horloge met AMOLED-scherm, GPS en twee weken accuduur, zoals de Amazfit Active 2 en de Xiaomi Watch S4, maar zonder betalen en met weinig apps. Tussen 250 en 450 euro zitten de Apple Watch, Galaxy Watch, Pixel Watch en Garmin Venu met het volledige pakket. Boven de 500 euro betaal je bij Garmin voor kaarten, titanium, saffierglas en weken accuduur. Een smartwatch gaat gemiddeld vier tot zes jaar mee voordat de accu of de software-ondersteuning ophoudt."}
+  ],
+  "faq": [
+    {"q": "Wat is de beste smartwatch van 2026?", "a": "Op basis van onze vergelijking is de Apple Watch Series 11 de beste smartwatch van 2026 voor iPhone-gebruikers en de Samsung Galaxy Watch8 voor Android. Wie een lange accuduur en topsportfuncties wil kiest de Garmin Fenix 8, wie weinig wil uitgeven de Amazfit Active 2."},
+    {"q": "Welke smartwatch werkt met een iPhone?", "a": "De Apple Watch werkt alleen met een iPhone en biedt daarmee de volledigste integratie. Garmin, Amazfit, Huawei en Xiaomi werken ook met een iPhone, maar je kunt dan meestal geen berichten beantwoorden. Samsung Galaxy Watch en Google Pixel Watch werken niet met een iPhone."},
+    {"q": "Welke smartwatch heeft de langste accuduur?", "a": "De Huawei Watch GT 6 haalt tot 21 dagen, gevolgd door de Garmin Fenix 8 met 16 dagen en de Xiaomi Watch S4 met 15 dagen. Apple Watch en Galaxy Watch halen één tot twee dagen, maar bieden daarvoor meer apps en snellere processors."},
+    {"q": "Kan ik met een smartwatch betalen in Nederland?", "a": "Met Apple Pay en Google Wallet bij vrijwel alle banken, met Samsung Wallet en Garmin Pay bij een deel van de banken. Huawei, Xiaomi en Amazfit bieden in Nederland geen of nauwelijks betaalmogelijkheden. Controleer de lijst van je bank voordat je kiest."},
+    {"q": "Is een smartwatch nauwkeurig genoeg voor gezondheid?", "a": "Hartslag en slaap meten de modellen in deze lijst betrouwbaar voor dagelijks gebruik, al blijft een borstband nauwkeuriger bij intensief sporten. Waarschuwingen voor hartritme en slaapapneu bij Apple en Samsung zijn medisch gecertificeerd. Een smartwatch is een hulpmiddel en geen vervanging voor onderzoek bij een arts."},
+    {"q": "Heb ik een abonnement nodig voor mijn smartwatch?", "a": "Nee. Apple, Samsung, Garmin, Huawei, Xiaomi en Amazfit bieden alle basisfuncties zonder abonnement. Alleen Google koppelt sommige Fitbit-inzichten op de Pixel Watch aan Fitbit Premium, maar de kernfuncties werken ook zonder."}
+  ]
+}

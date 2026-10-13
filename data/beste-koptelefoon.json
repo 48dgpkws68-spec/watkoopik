@@ -1,0 +1,123 @@
+{
+  "slug": "beste-koptelefoon",
+  "cat": "elektronica",
+  "prio": 18,
+  "title": "De 10 beste koptelefoons van 2026",
+  "short": "Koptelefoons",
+  "query": "koptelefoon",
+  "keywords": ["koptelefoon met noise cancelling", "over-ear koptelefoon", "draadloze koptelefoon", "bluetooth koptelefoon", "hoofdtelefoon"],
+  "ico": "🎶",
+  "color": "#1b3fb3",
+  "updated": "2026-10-13",
+  "reviews_total": "8.600",
+  "intro": "Een over-ear koptelefoon met noise cancelling is de beste manier om een drukke trein, een kantoortuin of een lange vlucht uit te zetten. Maar de verschillen tussen de modellen zijn groot: in geluid, in comfort en zeker in prijs. Wij vergeleken 29 draadloze over-ear koptelefoons op ruisonderdrukking, geluidskwaliteit, draagcomfort, accuduur en de ervaringen van duizenden gebruikers. Dit zijn de tien beste koptelefoons die je in 2026 in Nederland kunt kopen, van een scherp geprijsd instapmodel tot de absolute top.",
+  "verdict": "De Sony WH-1000XM6 is de beste koptelefoon van 2026: de sterkste noise cancelling, een rijk geluid en hij is eindelijk weer opvouwbaar. Wil je het mooiste materiaal en de beste integratie met een iPhone, dan is de Apple AirPods Max de beste premium keuze. Voor minder dan 150 euro komt de Soundcore Space One Pro verrassend dicht bij de topmodellen en dat maakt hem de beste prijs-kwaliteit.",
+  "products": [
+    {
+      "brand": "Sony", "name": "WH-1000XM6", "price": 449, "score": 9.5, "label": "Beste keuze", "reviews": "1.900+ reviews",
+      "oneliner": "Sterkste noise cancelling, rijk geluid en weer opvouwbaar.",
+      "specs": {"Noise cancelling": "Ja, adaptief, 12 microfoons", "Accuduur": "30 uur met ANC", "Gewicht": "254 g", "Codecs": "SBC, AAC, LDAC, LC3", "Opvouwbaar": "Ja"},
+      "pros": ["Beste ruisonderdrukking van alle koptelefoons in deze lijst", "Nieuwe QN3-processor is zeven keer sneller dan de vorige", "Opvouwbaar ontwerp met harde case en magneetsluiting", "Uitstekende gesprekskwaliteit met zes microfoons voor stem"],
+      "cons": ["Prijs 50 euro hoger dan bij de introductie van de XM5", "Accuduur gelijk gebleven op 30 uur", "Niet bruikbaar via kabel zonder stroom"],
+      "ideal": "Reizigers en forenzen die de meeste stilte en het beste totaalpakket willen, ongeacht het merk telefoon.",
+      "text": "De Sony WH-1000XM6 verscheen in mei 2025 en zette direct een nieuwe standaard. De nieuwe QN3-processor stuurt twaalf microfoons aan en de noise cancelling filtert niet alleen het gebrom van een vliegtuig weg, maar ook een groot deel van stemmen en hoge tonen. In vergelijkende reviews komt hij als sterkste uit de bus, net voor Bose. Sony luisterde naar kritiek op de XM5: de koptelefoon is weer opvouwbaar en komt met een harde case met magneetsluiting.\n\nHet geluid is afgestemd in samenwerking met mastering-engineers en klinkt vol en gedetailleerd, met LDAC voor hoge resolutie op Android. De accu haalt 30 uur met ruisonderdrukking aan en laadt in 3 minuten bij voor 3 uur. Gebruikers prijzen vooral de bredere hoofdband, die de druk beter verdeelt bij lang dragen. Het enige echte bezwaar is de prijs, die flink boven die van de XM5 ligt. Wie het beste wil, betaalt daarvoor."
+    },
+    {
+      "brand": "Soundcore by Anker", "name": "Space One Pro", "price": 149, "score": 8.6, "label": "Beste prijs-kwaliteit", "reviews": "1.200+ reviews",
+      "oneliner": "Noise cancelling en accuduur van de top voor een derde van de prijs.",
+      "specs": {"Noise cancelling": "Ja, adaptief", "Accuduur": "40 uur met ANC", "Gewicht": "286 g", "Codecs": "SBC, AAC, LDAC", "Opvouwbaar": "Ja, extra compact"},
+      "pros": ["Ruisonderdrukking die modellen van 300 euro benadert", "40 uur accuduur met noise cancelling aan", "Vouwt plat in een compacte case", "LDAC en uitgebreide equalizer in de app"],
+      "cons": ["Geluid minder verfijnd dan bij Sony en Sennheiser", "Oorkussens iets warm bij lang dragen", "Microfoons matig bij wind"],
+      "ideal": "Wie goede noise cancelling en lange accuduur zoekt zonder meer dan 150 euro uit te geven.",
+      "text": "Soundcore heeft met de Space One Pro de lat voor betaalbare koptelefoons flink verhoogd. De adaptieve noise cancelling meet 1.000 keer per seconde en past zich aan je omgeving aan. In reviews wordt de ruisonderdrukking regelmatig vergeleken met de Sony WH-1000XM5, een koptelefoon van twee keer de prijs. Daarbij komt een accuduur van 40 uur met ANC aan en zelfs 60 uur zonder, met een snellaadfunctie van 5 minuten voor 8 uur luisteren.\n\nHet geluid is vol met een stevige bas, maar met de equalizer in de app kun je het in elke richting bijstellen. LDAC is inbegrepen, iets wat in deze prijsklasse zeldzaam is. Het vouwmechanisme is slim: de oorschelpen draaien én klappen in, waardoor de case bijna de helft kleiner is dan bij de concurrentie. Nadelen zijn de iets warme oorkussens en de microfoons die bij wind tekortschieten. Voor deze prijs is dat gemakkelijk te vergeven."
+    },
+    {
+      "brand": "Apple", "name": "AirPods Max (USB-C)", "price": 579, "score": 9.0, "label": "Beste premium", "reviews": "1.400+ reviews",
+      "oneliner": "Luxe materialen, ruimtelijke audio en perfecte iPhone-koppeling.",
+      "specs": {"Noise cancelling": "Ja, adaptief, 9 microfoons", "Accuduur": "20 uur met ANC", "Gewicht": "385 g", "Codecs": "SBC, AAC, lossless via USB-C", "Opvouwbaar": "Nee, draaibaar"},
+      "pros": ["Aluminium oorschelpen en gebreide hoofdband voelen premium", "Lossless audio en lage latentie via de USB-C-kabel", "Ruimtelijke audio met hoofdtracking bij films", "Automatisch wisselen tussen Apple-apparaten"],
+      "cons": ["Zwaarste koptelefoon in deze lijst", "Hoesje beschermt nauwelijks", "Weinig meerwaarde voor Android-gebruikers"],
+      "ideal": "iPhone- en Mac-gebruikers die de beste bouwkwaliteit en integratie willen en het gewicht accepteren.",
+      "text": "De AirPods Max is in 2024 overgestapt op USB-C en kreeg in 2025 via een software-update lossless audio en ultralage latentie via de kabel. Dat maakt hem ook interessant voor wie muziek maakt of games speelt op een Mac. De bouwkwaliteit is ongeëvenaard: aluminium oorschelpen, een roestvrijstalen frame en een gebreide hoofdband die het gewicht van 385 gram verrassend goed verdeelt. Toch blijft het de zwaarste koptelefoon in deze vergelijking.\n\nDe noise cancelling blijft sterk, al zijn Sony en Bose inmiddels een stap verder. Ruimtelijke audio met hoofdtracking maakt films op een iPad of Apple TV bijzonder, want het geluid blijft op zijn plek als je je hoofd draait. De accuduur van 20 uur is korter dan bij de concurrentie en het meegeleverde hoesje biedt weinig bescherming. Gebruikers met een iPhone noemen de koppeling en het automatisch wisselen als grootste pluspunt. Voor Android-bezitters is de prijs moeilijk te verantwoorden."
+    },
+    {
+      "brand": "Bose", "name": "QuietComfort Ultra Headphones (2e generatie)", "price": 449, "score": 9.2, "label": null, "reviews": "860+ reviews",
+      "oneliner": "Comfortabelste koptelefoon met noise cancelling op topniveau.",
+      "specs": {"Noise cancelling": "Ja, adaptief, CustomTune", "Accuduur": "30 uur met ANC", "Gewicht": "252 g", "Codecs": "SBC, AAC, aptX Adaptive, USB-C audio", "Opvouwbaar": "Ja"},
+      "pros": ["Noise cancelling vrijwel gelijk aan Sony", "Lichtste topmodel met het meeste draagcomfort", "Nu met lossless audio via USB-C", "Cinema-modus voor films met Immersive Audio"],
+      "cons": ["Geluid iets minder gedetailleerd dan Sony en Sennheiser", "Prijs even hoog als de Sony", "Plastic voelt eenvoudiger dan het prijskaartje"],
+      "ideal": "Wie de hele dag een koptelefoon draagt en comfort net zo belangrijk vindt als stilte.",
+      "text": "De tweede generatie van de QuietComfort Ultra Headphones kwam in september 2025 en Bose heeft vooral de details aangepakt. Je kunt nu lossless luisteren via de USB-C-poort, de accuduur steeg van 24 naar 30 uur met ANC en een nieuwe Cinema-modus zet Immersive Audio in voor films. De ruisonderdrukking was al top en blijft dat: in de meeste tests zit hij op gelijke hoogte met Sony, met een klein voordeel bij stemmen.\n\nWaar Bose al jaren wint, is comfort. Met 252 gram en zachte eiwitleren kussens voelt de koptelefoon na een werkdag nog steeds prettig. Immersive Audio plaatst het geluid voor je in de ruimte, wat bij films en podcasts goed werkt, maar niet iedereen gebruikt het voor muziek. Het geluid zelf is warm en toegankelijk, iets minder gedetailleerd dan bij Sony en Sennheiser. Gebruikers die veel bellen prijzen de microfoons. Het is de beste keuze voor wie comfort op één zet."
+    },
+    {
+      "brand": "Sennheiser", "name": "Momentum 4 Wireless", "price": 279, "score": 8.9, "label": null, "reviews": "1.700+ reviews",
+      "oneliner": "60 uur accuduur en het mooiste geluid in de middenklasse.",
+      "specs": {"Noise cancelling": "Ja, adaptief", "Accuduur": "60 uur met ANC", "Gewicht": "293 g", "Codecs": "SBC, AAC, aptX Adaptive", "Opvouwbaar": "Nee, draaibaar"},
+      "pros": ["Langste accuduur van alle koptelefoons hier: 60 uur", "Gedetailleerd, neutraal geluid met 42 mm drivers", "Prijs flink gedaald sinds introductie", "Comfortabel met zachte hoofdband"],
+      "cons": ["Noise cancelling een stap minder dan Sony en Bose", "Niet opvouwbaar, dus grote case", "Touchbediening reageert soms onbedoeld"],
+      "ideal": "Muziekliefhebbers die lang willen luisteren zonder op te laden en geluid boven maximale stilte stellen.",
+      "text": "De Sennheiser Momentum 4 Wireless bestaat al een paar jaar en is in 2026 door prijsdalingen een van de slimste aankopen geworden. De 42 millimeter drivers leveren een neutraal, gedetailleerd geluid dat in reviews consequent als beter wordt beoordeeld dan dat van Bose en op gelijke hoogte met Sony. Met aptX Adaptive op een geschikte Android-telefoon haal je er het maximale uit.\n\nHet grootste praktische voordeel is de accu: 60 uur met noise cancelling aan is twee keer zoveel als bij de topmodellen. Je laadt hem dus hooguit eens per week op. De ruisonderdrukking is goed, maar in de trein en het vliegtuig blijft meer geluid over dan bij Sony en Bose. De koptelefoon is niet opvouwbaar, waardoor de case fors is. Gebruikers melden dat de touchbediening wel eens reageert op het verschuiven van de oorschelp. Voor dit bedrag krijg je nergens beter geluid."
+    },
+    {
+      "brand": "Sony", "name": "WH-1000XM5", "price": 299, "score": 8.8, "label": null, "reviews": "4.100+ reviews",
+      "oneliner": "Vorig topmodel, nu voor een veel lagere prijs.",
+      "specs": {"Noise cancelling": "Ja, adaptief, 8 microfoons", "Accuduur": "30 uur met ANC", "Gewicht": "250 g", "Codecs": "SBC, AAC, LDAC", "Opvouwbaar": "Nee, draaibaar"},
+      "pros": ["Noise cancelling nog altijd in de top drie", "150 euro goedkoper dan de XM6", "Zeer licht en comfortabel", "Enorm veel positieve reviews"],
+      "cons": ["Niet opvouwbaar, de grootste kritiek destijds", "Processor trager dan bij de XM6", "Oudere microfoontechniek bij wind"],
+      "ideal": "Wie Sony-topkwaliteit wil en de verbeteringen van de XM6 niet nodig heeft.",
+      "text": "Met de komst van de XM6 is de Sony WH-1000XM5 niet opeens slecht geworden. Integendeel: hij was tot medio 2025 de beste koptelefoon die je kon kopen en de prijs is sinds de opvolger met ruim 100 euro gedaald. De noise cancelling met acht microfoons zit nog altijd in de top drie van deze lijst en het geluid is vrijwel identiek aan dat van de XM6, met LDAC voor Android.\n\nMet 250 gram is hij een van de lichtste koptelefoons hier en het synthetisch leer van de kussens blijft lang comfortabel. Het grootste bezwaar is dat de oorschelpen alleen plat draaien en niet inklappen, waardoor de case veel ruimte inneemt in een tas. De XM6 heeft een snellere processor en betere microfoons, maar het verschil in het dagelijks gebruik is kleiner dan het prijsverschil. Met meer dan 4.000 reviews is dit de meest beoordeelde koptelefoon in deze vergelijking en het gemiddelde ligt hoog."
+    },
+    {
+      "brand": "Bowers & Wilkins", "name": "Px7 S3", "price": 429, "score": 9.0, "label": null, "reviews": "380+ reviews",
+      "oneliner": "Britse audiofiele klasse met sterk verbeterde noise cancelling.",
+      "specs": {"Noise cancelling": "Ja, adaptief, 8 microfoons", "Accuduur": "30 uur met ANC", "Gewicht": "300 g", "Codecs": "SBC, AAC, aptX Adaptive, aptX Lossless", "Opvouwbaar": "Nee, draaibaar"},
+      "pros": ["Meest gedetailleerde en dynamische weergave in deze lijst", "aptX Lossless voor compressievrij geluid op Android", "Slanker profiel dan de vorige generatie", "Prachtige afwerking in stof en metaal"],
+      "cons": ["Noise cancelling nog net onder Sony en Bose", "Zwaarder dan de concurrentie", "Niet opvouwbaar"],
+      "ideal": "Wie geluidskwaliteit op de eerste plaats zet en bereid is daar een premiumprijs voor te betalen.",
+      "text": "Bowers & Wilkins staat bij hifi-liefhebbers bekend om luidsprekers en die kennis zit in de Px7 S3. De 40 millimeter drivers worden aangestuurd door een aparte versterker per kanaal en dat hoor je: het geluid is dynamisch, ruimtelijk en gedetailleerd, met een strakke bas die niet overheerst. In reviews wordt hij regelmatig de best klinkende koptelefoon met noise cancelling onder de 500 euro genoemd.\n\nDe ruisonderdrukking was bij vorige generaties het zwakke punt, maar met acht microfoons en een nieuwe processor zit de Px7 S3 nu dicht achter Sony en Bose. De behuizing werd slanker en de hoofdband breder, waardoor hij ondanks 300 gram comfortabel zit. aptX Lossless werkt op een beperkt aantal Android-telefoons, maar via de USB-C-kabel luister je altijd zonder compressie. Het ontbreken van een opvouwmechanisme en de prijs zijn de enige echte bezwaren. Voor wie muziek het belangrijkste vindt, is dit de mooiste keuze."
+    },
+    {
+      "brand": "Sonos", "name": "Ace", "price": 399, "score": 8.7, "label": null, "reviews": "520+ reviews",
+      "oneliner": "Koppelt met je Sonos-soundbar en klinkt uitstekend.",
+      "specs": {"Noise cancelling": "Ja, adaptief, 8 microfoons", "Accuduur": "30 uur met ANC", "Gewicht": "312 g", "Codecs": "SBC, AAC, aptX Lossless, USB-C audio", "Opvouwbaar": "Nee, draaibaar"},
+      "pros": ["TV Audio Swap: geluid van je Sonos-soundbar naar de koptelefoon", "Helder, evenwichtig geluid met strakke bas", "Zeer comfortabel ondanks het gewicht", "Fraaie case met magnetisch kabelvakje"],
+      "cons": ["Meerwaarde zonder Sonos-soundbar beperkt", "Noise cancelling goed maar niet de beste", "Vrij zwaar"],
+      "ideal": "Bezitters van een Sonos-soundbar die laat op de avond films willen kijken zonder anderen te storen.",
+      "text": "De Sonos Ace is de eerste koptelefoon van het merk dat vooral om multiroom-speakers bekend is. De unieke functie is TV Audio Swap: met één druk op de knop verhuist het geluid van je Sonos Arc, Beam of Ray naar de koptelefoon, inclusief Dolby Atmos en hoofdtracking. Wie laat op de avond een film wil kijken terwijl de rest van het huis slaapt, heeft daar elke dag plezier van.\n\nOok als gewone bluetooth-koptelefoon doet de Ace het goed. Het geluid is helder en evenwichtig, met een strakke bas en veel ruimte. De noise cancelling is prima voor kantoor en stad, maar Sony en Bose doen het in de trein beter. Met 312 gram is hij aan de zware kant, al verdelen de brede hoofdband en zachte kussens dat goed. De prijs is sinds de introductie met 100 euro gedaald. Zonder Sonos-soundbar in huis zijn er voor minder geld betere alternatieven."
+    },
+    {
+      "brand": "JBL", "name": "Tour One M3", "price": 299, "score": 8.6, "label": null, "reviews": "410+ reviews",
+      "oneliner": "Smart Tx-zender maakt elke audiobron draadloos, 70 uur accuduur.",
+      "specs": {"Noise cancelling": "Ja, adaptief, True Adaptive", "Accuduur": "70 uur zonder ANC, 40 met", "Gewicht": "278 g", "Codecs": "SBC, AAC, LDAC, LC3", "Opvouwbaar": "Ja"},
+      "pros": ["Meegeleverde Smart Tx-zender met scherm voor vliegtuig of tv", "Tot 70 uur accuduur, 40 uur met noise cancelling", "Hoge resolutie via LDAC en toekomstvast met Auracast", "Opvouwbaar met stevige case"],
+      "cons": ["Geluid vol maar minder verfijnd dan de audiofiele merken", "Oorkussens worden warm", "App wat overladen met opties"],
+      "ideal": "Frequente vliegers die hun koptelefoon ook draadloos aan het entertainmentsysteem willen koppelen.",
+      "text": "JBL levert bij de Tour One M3 een Smart Tx-zender mee: een klein apparaatje met touchscreen dat je in de 3,5 millimeter aansluiting van een vliegtuigstoel, laptop of tv steekt. Het stuurt het geluid draadloos naar de koptelefoon en werkt ook als afstandsbediening. Voor wie veel vliegt is dit de handigste functie in deze hele lijst. De zender ondersteunt Auracast, zodat je in de toekomst ook openbare audiostromen kunt ontvangen.\n\nDe koptelefoon zelf heeft een accu die 70 uur meegaat zonder en 40 uur met noise cancelling, de langste in deze vergelijking na de Sennheiser. De ruisonderdrukking past zich automatisch aan en zit op een hoog niveau, net onder de top. Het geluid is typisch JBL met een volle bas die je in de uitgebreide app kunt temperen. Gebruikers prijzen de gesprekskwaliteit met acht microfoons. De oorkussens worden na een paar uur warm, iets wat bij meer kunstleren modellen speelt."
+    },
+    {
+      "brand": "Sennheiser", "name": "Accentum Plus", "price": 179, "score": 8.4, "label": null, "reviews": "690+ reviews",
+      "oneliner": "Sennheiser-geluid met 50 uur accuduur voor een middenklasseprijs.",
+      "specs": {"Noise cancelling": "Ja, adaptief hybride", "Accuduur": "50 uur met ANC", "Gewicht": "227 g", "Codecs": "SBC, AAC, aptX Adaptive", "Opvouwbaar": "Ja"},
+      "pros": ["Lichtste koptelefoon in deze lijst: 227 gram", "50 uur accuduur met noise cancelling aan", "Helder geluid met de kenmerkende Sennheiser-balans", "Opvouwbaar met stoffen case"],
+      "cons": ["Noise cancelling duidelijk minder dan de topmodellen", "Oorkussens aan de kleine kant voor grote oren", "Geen draagdetectie die muziek pauzeert"],
+      "ideal": "Wie het geluid van de Momentum 4 wil in een lichter en goedkoper pakket en genoegen neemt met iets minder stilte.",
+      "text": "De Accentum Plus is de kleine broer van de Momentum 4 en neemt veel van zijn goede eigenschappen over. De 37 millimeter drivers klinken helder en evenwichtig, met de neutrale balans waar Sennheiser bekend om staat. De accuduur van 50 uur met noise cancelling is de op één na langste in deze lijst. Met 227 gram is het bovendien de lichtste koptelefoon hier, wat je na een paar uur merkt.\n\nDe hybride ruisonderdrukking werkt goed op laag gebrom, maar laat meer stemmen en hoge tonen door dan Sony, Bose of de Soundcore. Anders dan de Momentum 4 is de Accentum Plus opvouwbaar en komt hij met een stoffen case. De touchbediening op de rechter oorschelp regelt volume en nummers. Gebruikers met grote oren melden dat de kussens aan de krappe kant zijn. Wie Sennheiser-geluid zoekt onder de 200 euro en vooral thuis of op kantoor luistert, zit hier goed."
+    }
+  ],
+  "guide": [
+    {"h": "Over-ear, on-ear of oordopjes?", "p": "Een over-ear koptelefoon omsluit je oor volledig. Dat geeft het beste geluid, de sterkste noise cancelling en het meeste comfort bij lang dragen, maar hij is groot en warm in de zomer. On-ear modellen liggen op het oor en zijn compacter, maar drukken na een uur en isoleren minder. Oordopjes passen in je zak en zijn ideaal voor sport, maar missen de volle klank en de lange accuduur van een over-ear. Voor kantoor, reizen en thuis is over-ear de beste keuze."},
+    {"h": "Noise cancelling: hoe goed moet het zijn?", "p": "Actieve ruisonderdrukking werkt het beste op constante lage tonen zoals vliegtuigmotoren, treinen en airco. Stemmen worden gedempt, niet weggehaald. Topmodellen van Sony en Bose halen ook een groot deel van spraak weg; betaalbare modellen laten daar meer van door. Pendel je dagelijks met het ov of vlieg je vaak, dan is de meerprijs voor topklasse ANC het waard. Werk je vooral thuis, dan voldoet een middenklasser. Adaptieve ANC past de sterkte automatisch aan de omgeving aan."},
+    {"h": "Geluid en codecs", "p": "Een goede koptelefoon klinkt evenwichtig: bas die je voelt zonder dat hij de zang overstemt. Merken als Sennheiser en Bowers & Wilkins stemmen neutraal af, Sony en JBL voller in de bas. Met een equalizer in de app pas je dat aan. De codec bepaalt hoeveel data via bluetooth gaat: AAC is standaard op iPhone, LDAC en aptX Adaptive sturen op Android meer detail door. Via een USB-C-kabel luister je bij steeds meer modellen helemaal zonder compressie."},
+    {"h": "Comfort en gewicht", "p": "Onder de 260 gram merk je een koptelefoon na een hele dag nauwelijks, boven de 300 gram wel. Een brede hoofdband verdeelt de druk beter en zachte kussens van eiwitleer of memory foam voorkomen pijnlijke plekken. Kunstleer isoleert goed maar wordt warm; stof ademt beter maar laat meer geluid door. Draag je een bril, kies dan zachte, diepe kussens zodat de pootjes niet drukken."},
+    {"h": "Accuduur en opladen", "p": "Topmodellen halen 30 uur met noise cancelling aan, wat genoeg is voor een week pendelen. Sennheiser en JBL gaan tot 60 of 70 uur. Belangrijker dan het totaal is snelladen: 3 tot 5 minuten voor 3 tot 8 uur luisteren redt je als de accu leeg is vlak voor vertrek. Controleer of de koptelefoon ook via kabel werkt als de accu leeg is; bij Sony kan dat bijvoorbeeld niet."},
+    {"h": "Hoeveel moet je uitgeven?", "p": "Onder de 150 euro krijg je in 2026 koptelefoons met goede noise cancelling en een lange accuduur, zoals de Soundcore Space One Pro. Tussen 180 en 300 euro zitten de slimste aankopen: vorige topmodellen zoals de Sony WH-1000XM5 en audiofiele middenklassers zoals de Sennheiser Momentum 4. Boven de 400 euro betaal je voor de allerbeste ruisonderdrukking, de nieuwste processors, lossless audio en premium materialen. Het verschil is hoorbaar, maar het grootste deel van de kwaliteit krijg je al in de middenklasse."}
+  ],
+  "faq": [
+    {"q": "Wat is de beste koptelefoon van 2026?", "a": "Op basis van onze vergelijking is de Sony WH-1000XM6 de beste koptelefoon van 2026, dankzij de sterkste noise cancelling, uitstekend geluid en een opvouwbaar ontwerp. Wie minder wil uitgeven kiest de Soundcore Space One Pro, iPhone-gebruikers met een ruim budget de Apple AirPods Max."},
+    {"q": "Welke koptelefoon heeft de beste noise cancelling?", "a": "De Sony WH-1000XM6 en de Bose QuietComfort Ultra Headphones (2e generatie) zitten op het hoogste niveau, met een klein voordeel voor Sony bij laag gebrom en voor Bose bij stemmen. De Sony WH-1000XM5 volgt op korte afstand voor een veel lagere prijs."},
+    {"q": "Is een koptelefoon van 150 euro goed genoeg?", "a": "Ja, voor de meeste mensen wel. Modellen als de Soundcore Space One Pro en de Sennheiser Accentum Plus bieden goede noise cancelling, prima geluid en een accuduur van 40 tot 50 uur. Het verschil met topmodellen zit in de laatste 20 procent ruisonderdrukking, verfijnder geluid en betere microfoons."},
+    {"q": "Hoe lang gaat een draadloze koptelefoon mee?", "a": "De accu verliest na drie tot vijf jaar merkbaar capaciteit. Bij de meeste merken kan een reparateur de accu vervangen. Oorkussens slijten sneller en zijn bij Sony, Bose, Sennheiser en Bowers & Wilkins los te bestellen. Een koptelefoon van een goed merk gaat met vervangen kussens gemakkelijk vijf tot acht jaar mee."},
+    {"q": "Kan ik een bluetooth-koptelefoon ook met een kabel gebruiken?", "a": "Bijna alle modellen in deze lijst komen met een 3,5 millimeter kabel voor het vliegtuig of een oude versterker. Steeds meer koptelefoons, zoals de Bose QuietComfort Ultra, de Apple AirPods Max en de Sonos Ace, spelen ook lossless audio af via de USB-C-kabel. Let op: bij Sony werkt de kabel niet als de accu leeg is."},
+    {"q": "Werkt noise cancelling ook zonder muziek?", "a": "Ja. Veel gebruikers zetten in de trein of op kantoor alleen de ruisonderdrukking aan om in stilte te werken of te lezen. Het dempt vooral laag en constant geluid; een gesprek naast je hoor je zachter maar niet helemaal niet. Sommige mensen ervaren een licht drukgevoel, dat na een paar dagen meestal verdwijnt."}
+  ]
+}

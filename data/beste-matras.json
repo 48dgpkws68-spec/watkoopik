@@ -1,0 +1,123 @@
+{
+  "slug": "beste-matras",
+  "cat": "slapen",
+  "prio": 22,
+  "title": "De 10 beste matrassen van 2026",
+  "short": "Matrassen",
+  "query": "matras",
+  "keywords": ["matras 140x200", "traagschuim matras", "pocketvering matras", "opgerold matras", "matras kopen"],
+  "ico": "🛏️",
+  "color": "#4a3fb3",
+  "updated": "2026-10-13",
+  "reviews_total": "31.800",
+  "intro": "Je ligt zo'n acht uur per nacht op je matras, dus een verkeerde keuze voel je elke ochtend. Wij vergeleken 42 matrassen in de referentiemaat 140x200 op ligcomfort, ondersteuning, ventilatie, levensduur en wat tienduizenden gebruikers er na maanden slapen van vinden. In deze lijst staan traagschuim, pocketvering en opgerolde matrassen naast elkaar, van een instapmodel onder de 200 euro tot een topmatras voor wie het beste wil. Elk model is in Nederland gewoon te bestellen en levert gratis thuis.",
+  "verdict": "De Emma One is de beste matras voor de meeste mensen: drie lagen schuim die zacht aanvoelen maar goed ondersteunen, 100 nachten proefslapen en een prijs die onder die van de grote merken blijft. Wil je zo min mogelijk uitgeven zonder op comfort in te leveren, dan is de IKEA Valevåg de beste prijs-kwaliteit met echte pocketvering voor minder dan 300 euro. Heb je het budget, dan blijft de Tempur Original de maatstaf voor drukverlaging.",
+  "products": [
+    {
+      "brand": "Emma", "name": "One Medium 140x200", "price": 449, "score": 9.3, "label": "Beste keuze", "reviews": "9.400+ reviews",
+      "oneliner": "Drie schuimlagen, 100 nachten proefslapen en een scherpe prijs.",
+      "specs": {"Type": "Traagschuim", "Hoogte": "18 cm", "Hardheid": "Medium", "Hoes afritsbaar": "Ja, wasbaar", "Proefslapen": "100 nachten"},
+      "pros": ["Past zich aan elke slaaphouding aan", "Hoes is afritsbaar en wasbaar op 60 graden", "100 nachten proefslapen met gratis retour", "Komt opgerold in een doos, dus eenvoudig naar boven"],
+      "cons": ["Rand is wat zacht als je op de zijkant zit", "Houdt iets meer warmte vast dan pocketvering", "Heeft 48 uur nodig om volledig uit te zetten"],
+      "ideal": "Wie één matras zoekt dat voor zij-, rug- en buikslapers goed werkt en niet te veel wil uitgeven.",
+      "text": "De Emma One is al jaren het meest verkochte matras van Nederland en de reden is simpel: het doet alles goed voor een prijs die ruim onder die van de klassieke bedwinkels ligt. De opbouw bestaat uit drie lagen. Bovenop ligt Airgocell-schuim dat vocht afvoert, daaronder een laag visco-elastisch traagschuim dat je schouders en heupen laat wegzakken en als basis een stevig koudschuim met zeven zones. Het resultaat is een medium ligcomfort dat voor ongeveer tachtig procent van de slapers goed uitpakt.\n\nGebruikers noemen vooral dat het matras direct comfortabel aanvoelt zonder de weken van gewenning die traagschuim soms vraagt. De afritsbare hoes kun je op 60 graden wassen, handig bij allergie of kinderen. De randondersteuning is het zwakke punt: wie op de zijkant zit zakt wat door. Met 100 nachten proefslapen en gratis ophalen bij twijfel is het risico klein."
+    },
+    {
+      "brand": "IKEA", "name": "Valevåg Pocketvering Medium 140x200", "price": 299, "score": 8.9, "label": "Beste prijs-kwaliteit", "reviews": "3.200+ reviews",
+      "oneliner": "Echte pocketvering met koudschuimtoplaag voor onder de 300 euro.",
+      "specs": {"Type": "Pocketvering", "Hoogte": "24 cm", "Hardheid": "Medium", "Hoes afritsbaar": "Nee", "Proefslapen": "90 nachten"},
+      "pros": ["Pocketveren volgen je lichaam onafhankelijk van elkaar", "Goede ventilatie, slaapt koel", "90 dagen omruilgarantie en 10 jaar garantie", "Verkrijgbaar in medium en stevig"],
+      "cons": ["Hoes niet afritsbaar", "Zwaar om te draaien, 32 kilo", "Minder drukverlaging dan traagschuim op schouders"],
+      "ideal": "Wie koel wil slapen en een degelijk matras zoekt zonder meer dan 300 euro uit te geven.",
+      "text": "IKEA verkoopt al tientallen jaren matrassen en de Valevåg is het model dat in reviews het meest geprezen wordt. Voor minder dan 300 euro krijg je een matras van 24 centimeter hoog met individueel verpakte pocketveren, afgedekt door een laag koudschuim en een comfortvulling van polyester. De veren bewegen los van elkaar, waardoor je partner nauwelijks merkt dat jij je omdraait.\n\nHet grote voordeel van pocketvering is ventilatie. Lucht stroomt vrij door de veren, waardoor dit matras duidelijk koeler slaapt dan traagschuim. Gebruikers melden dat het liggevoel stevig maar niet hard is en dat het matras na jaren nog weinig kuilvorming laat zien. De hoes kun je niet afritsen, dus een goede matrasbeschermer is aan te raden. Je mag hem 90 dagen uitproberen en omruilen voor een andere hardheid. Voor wie zoekt naar de beste prijs-kwaliteit is er in deze maat weinig concurrentie."
+    },
+    {
+      "brand": "Tempur", "name": "Original Medium 140x200", "price": 1799, "score": 9.1, "label": "Beste premium", "reviews": "1.100+ reviews",
+      "oneliner": "Het originele traagschuim met de beste drukverlaging die er is.",
+      "specs": {"Type": "Traagschuim", "Hoogte": "21 cm", "Hardheid": "Medium-stevig", "Hoes afritsbaar": "Ja, wasbaar", "Proefslapen": "100 nachten"},
+      "pros": ["Ongeëvenaarde drukverlaging op schouders en heupen", "10 jaar garantie en staat bekend om lange levensduur", "Vrijwel geen beweging voelbaar van je partner", "Aanbevolen door veel fysiotherapeuten bij rugklachten"],
+      "cons": ["Hoogste prijs in deze lijst", "Voelt in een koude slaapkamer eerst hard aan", "Omdraaien kost moeite door het trage schuim"],
+      "ideal": "Mensen met rug-, schouder- of heupklachten die het beste traagschuim willen en daar voor betalen.",
+      "text": "Tempur ontwikkelde het traagschuim dat tegenwoordig door iedereen gekopieerd wordt en de Original is nog altijd de zuiverste uitvoering ervan. Het materiaal reageert op warmte en gewicht en vormt zich langzaam naar je lichaam. Je zakt niet weg, je wordt gedragen. Wie 's ochtends wakker wordt met pijnlijke schouders of heupen merkt daar volgens reviews binnen een week verschil van.\n\nDe Original Medium is de stevigste variant uit de lijn en geschikt voor rug- en zijslapers. Het schuim beweegt nauwelijks door, waardoor een onrustige partner je niet wakker maakt. Nadelen zijn er ook: in een koude kamer voelt het matras eerst hard aan en omdraaien gaat traag omdat het schuim langzaam terugveert. Tempur geeft 10 jaar garantie en gebruikers melden dat het matras na die periode vaak nog prima ligt. De prijs is hoog, maar omgerekend per nacht valt dat mee."
+    },
+    {
+      "brand": "Simba", "name": "Hybrid Original 140x200", "price": 649, "score": 8.8, "label": null, "reviews": "2.700+ reviews",
+      "oneliner": "Hybride met 2.500 kleine veertjes bovenop koudschuim.",
+      "specs": {"Type": "Hybride, pocketvering + schuim", "Hoogte": "25 cm", "Hardheid": "Medium", "Hoes afritsbaar": "Ja, wasbaar", "Proefslapen": "200 nachten"},
+      "pros": ["2.500 kegelvormige mini-veren geven veerkracht zonder doorzakken", "200 nachten proefslapen, het langste in deze lijst", "Koelt beter dan volledig schuim", "Goede randondersteuning"],
+      "cons": ["Aanzienlijk duurder dan de Emma One", "Zwaar om te verplaatsen", "Niet voor wie heel stevig wil liggen"],
+      "ideal": "Wie de drukverlaging van schuim wil combineren met de veerkracht en ventilatie van veren.",
+      "text": "De Simba Hybrid probeert het beste van twee werelden te combineren en slaagt daar volgens duizenden reviews in. Onder de toplaag liggen 2.500 titanium mini-veren van drie centimeter hoog die ieder afzonderlijk meebewegen. Daaronder zorgt een laag koudschuim met zeven zones voor de ondersteuning. Bovenop ligt het Simbatex-schuim met open celstructuur dat warmte beter afvoert dan gewoon traagschuim.\n\nHet liggevoel is medium met een licht verend karakter, iets wat veel mensen prettiger vinden dan het wegzakgevoel van puur traagschuim. De randen zijn stevig, zodat je het hele oppervlak kunt gebruiken. Simba geeft 200 nachten proefslapen en 10 jaar garantie, meer dan de meeste concurrenten. Gebruikers prijzen de koelte en het gebrek aan kuilvorming na jaren. Het matras is wel zwaar en de prijs ligt een stuk boven die van de Emma One, maar voor warme slapers is dit een betere keuze."
+    },
+    {
+      "brand": "Auping", "name": "Vivo 140x200", "price": 1199, "score": 8.7, "label": null, "reviews": "860+ reviews",
+      "oneliner": "Nederlandse pocketvering met circulaire opbouw en 25 jaar garantie.",
+      "specs": {"Type": "Pocketvering", "Hoogte": "22 cm", "Hardheid": "Medium of stevig", "Hoes afritsbaar": "Ja, wasbaar", "Proefslapen": "100 nachten"},
+      "pros": ["25 jaar garantie op de veerkern", "Volledig recyclebaar ontwerp", "Zeer goede ventilatie door 3D-afstandsweefsel", "Keuze uit twee hardheden"],
+      "cons": ["Prijs ligt hoog voor een pocketveringmatras", "Toplaag is dun, weinig knuffelgevoel", "Alleen via Auping-winkels en de eigen webshop"],
+      "ideal": "Wie een matras zoekt dat decennia meegaat en Nederlandse kwaliteit boven een lage prijs stelt.",
+      "text": "Auping bouwt in Deventer matrassen die bewust zijn ontworpen om uit elkaar te halen en te recyclen. De Vivo is het instapmodel van die lijn, al voelt instap hier anders dan bij andere merken. De kern bestaat uit pocketveren in vijf zones, afgedekt met een dunne comfortlaag en een 3D-weefsel dat lucht laat circuleren. Het matras slaapt daardoor opvallend koel.\n\nHet liggevoel is helder en ondersteunend, zonder het ingezakte gevoel van dik schuim. Dat is precies waar reviews het over hebben: je ligt op het matras, niet erin. Rug- en buikslapers waarderen dat, zijslapers met brede schouders vinden het soms te direct. Auping geeft 25 jaar garantie op de veerkern, wat zegt hoeveel vertrouwen het merk in de levensduur heeft. De prijs is hoog voor wat op papier een eenvoudige pocketvering is, maar wie in één keer dertig jaar vooruit wil, betaalt dat terug."
+    },
+    {
+      "brand": "M line", "name": "Slow Motion 3 140x200", "price": 999, "score": 8.6, "label": null, "reviews": "1.400+ reviews",
+      "oneliner": "Nederlands sportmatras met zeven zones en koelend traagschuim.",
+      "specs": {"Type": "Traagschuim op koudschuim", "Hoogte": "22 cm", "Hardheid": "Medium", "Hoes afritsbaar": "Ja, wasbaar", "Proefslapen": "100 nachten"},
+      "pros": ["Zeven ergonomische zones met extra ondersteuning voor de lage rug", "Geventileerd traagschuim slaapt koeler dan klassiek traagschuim", "Officieel partner van Nederlandse topsporters", "Hoes verwijdert vocht snel"],
+      "cons": ["Prijs ligt fors boven vergelijkbare webmerken", "Vrij zwaar om te draaien", "Niet geschikt voor wie heel zacht wil liggen"],
+      "ideal": "Actieve mensen die herstel belangrijk vinden en een matras van Nederlandse makelij willen.",
+      "text": "M line profileert zich als het matras van de topsport en levert aan onder meer de KNVB en NOC*NSF. Dat is marketing, maar de techniek erachter is serieus. De Slow Motion 3 heeft een kern van koudschuim met zeven zones, waarbij de zone voor de lage rug extra stevig is. Daarbovenop ligt een laag geventileerd traagschuim met luchtkanalen, waardoor hij veel minder warmte vasthoudt dan traditioneel traagschuim.\n\nIn reviews springt vooral de combinatie van ondersteuning en zachtheid eruit. Je schouder zakt weg, je onderrug blijft recht. Mensen met rugklachten melden regelmatig verbetering. De hoes is afritsbaar en wasbaar en het matras heeft handvatten om het te draaien, wat je ook nodig hebt met een gewicht van ruim 30 kilo. De prijs is het grootste bezwaar: voor hetzelfde geld koop je bijna twee Emma One matrassen. Wie het verschil in ondersteuning wil voelen, kan 100 nachten proefslapen."
+    },
+    {
+      "brand": "Emma", "name": "Hybrid Premium 140x200", "price": 799, "score": 8.5, "label": null, "reviews": "2.100+ reviews",
+      "oneliner": "Emma met pocketveren erin, voor meer veerkracht en koelte.",
+      "specs": {"Type": "Hybride, pocketvering + schuim", "Hoogte": "25 cm", "Hardheid": "Medium-stevig", "Hoes afritsbaar": "Ja, wasbaar", "Proefslapen": "100 nachten"},
+      "pros": ["Pocketveren in vijf zones met schuimlagen eromheen", "Stevige randen, ook te gebruiken als zitrand", "Afneembare bovenlaag voor wassen", "Beter geventileerd dan de Emma One"],
+      "cons": ["Zwaar, ruim 35 kilo", "Prijsverschil met de One is groot", "Sommige gebruikers vinden hem te stevig"],
+      "ideal": "Wie het gevoel van de Emma One kent maar stevigere ondersteuning en meer koelte zoekt.",
+      "text": "De Hybrid Premium is de duurdere broer van de Emma One en richt zich op mensen die iets steviger en koeler willen liggen. In plaats van alleen schuim bestaat de kern uit pocketveren van 13 centimeter hoog in vijf zones. Daarbovenop liggen twee schuimlagen, waaronder een laag traagschuim met grafietdeeltjes die warmte afvoeren. Het matras is 25 centimeter hoog en heeft een versterkte rand.\n\nHet liggevoel is medium-stevig met de typische veerkracht van pocketvering. Gebruikers die van de One overstapten merken vooral dat ze minder wegzakken en dat het matras koeler blijft in de zomer. De bovenlaag kun je los afritsen om te wassen. Het gewicht van ruim 35 kilo maakt draaien lastig, al heeft hij handvatten. Of het prijsverschil van 350 euro met de One gerechtvaardigd is, hangt af van hoe warm je slaapt. Voor warme slapers en zwaardere mensen is de Hybrid Premium de betere Emma."
+    },
+    {
+      "brand": "Zinus", "name": "Green Tea Memory Foam 25 cm 140x200", "price": 249, "score": 8.2, "label": null, "reviews": "4.800+ reviews",
+      "oneliner": "Dik opgerold traagschuimmatras voor een opvallend lage prijs.",
+      "specs": {"Type": "Traagschuim, opgerold", "Hoogte": "25 cm", "Hardheid": "Medium-zacht", "Hoes afritsbaar": "Nee", "Proefslapen": "100 nachten"},
+      "pros": ["25 centimeter dik traagschuim voor minder dan 250 euro", "Groene thee-extract tegen geurtjes in het schuim", "Komt opgerold en past door elke deur", "Duizenden positieve reviews wereldwijd"],
+      "cons": ["Chemische geur in de eerste dagen", "Zacht liggevoel is niet voor iedereen", "Hoes niet afritsbaar"],
+      "ideal": "Logeerkamer, studentenkamer of eerste eigen huis waar je comfort zoekt voor weinig geld.",
+      "text": "Zinus is een van de grootste matrasverkopers van Amerika en verkoopt in Nederland via bol en Amazon. De Green Tea is hun bekendste model: een matras van 25 centimeter dik dat opgerold in een doos komt en na een dag volledig is uitgezet. De bovenste laag is traagschuim, daaronder volgen comfortschuim en een dikke basislaag van hoge-dichtheidsschuim. Het groene thee-extract in het schuim moet geurtjes tegengaan.\n\nVoor de prijs is het liggevoel verrassend goed: zacht, omhullend en zonder harde plekken. Gebruikers noemen het regelmatig beter dan matrassen die het dubbele kosten. Minpunt is de geur na het uitpakken, die meestal binnen een paar dagen weg is. Het schuim is zachter dan dat van Emma en zwaardere mensen melden na een paar jaar wat kuilvorming. Voor een logeerkamer of een eerste eigen plek is het de beste koop onder de 250 euro."
+    },
+    {
+      "brand": "JYSK", "name": "Dreamzone Gold S60 Dual 140x200", "price": 499, "score": 8.1, "label": null, "reviews": "720+ reviews",
+      "oneliner": "Dubbellaags pocketvering met latex toplaag van JYSK.",
+      "specs": {"Type": "Pocketvering, dubbellaags", "Hoogte": "27 cm", "Hardheid": "Medium", "Hoes afritsbaar": "Ja", "Proefslapen": "100 nachten"},
+      "pros": ["Twee lagen pocketveren voor fijnere aanpassing", "Toplaag van latex, duurzaam en koel", "Afritsbare hoes", "25 jaar garantie"],
+      "cons": ["Heel zwaar door de dubbele verenkern", "Liggevoel wat verend voor wie schuim gewend is", "JYSK-winkels hebben niet elke maat op voorraad"],
+      "ideal": "Wie een hoog, luxe aanvoelend pocketveringmatras wil zonder het prijskaartje van een bedspeciaalzaak.",
+      "text": "JYSK verkoopt onder de naam Dreamzone een complete lijn matrassen en de Gold S60 Dual zit aan de bovenkant daarvan. De naam Dual verwijst naar twee lagen pocketveren boven elkaar: een laag kleinere veren bovenop een laag grote veren. De kleine veren volgen de contouren van je lichaam, de grote dragen je gewicht. Daarop ligt een laag latex die veerkrachtig en koel is.\n\nMet 27 centimeter is dit een hoog matras dat luxe aanvoelt en goed bij een boxspring past. Reviews zijn positief over de ondersteuning en het ontbreken van kuilen na jaren gebruik. Het verende karakter is een kwestie van smaak: wie van het wegzakgevoel van traagschuim houdt, zal dit te levendig vinden. Het matras weegt bijna 40 kilo, dus draaien doe je met twee personen. JYSK geeft 25 jaar garantie en 100 nachten proefslapen. Een degelijke keuze als je in een winkel wilt proefliggen voordat je koopt."
+    },
+    {
+      "brand": "IKEA", "name": "Åbygda Schuimmatras Medium 140x200", "price": 179, "score": 7.9, "label": null, "reviews": "2.300+ reviews",
+      "oneliner": "Goedkoopste volwaardige matras, opgerold en direct bruikbaar.",
+      "specs": {"Type": "Koudschuim, opgerold", "Hoogte": "18 cm", "Hardheid": "Medium", "Hoes afritsbaar": "Ja, wasbaar", "Proefslapen": "90 nachten"},
+      "pros": ["Laagste prijs in deze lijst", "Hoes afritsbaar en wasbaar", "Licht, makkelijk zelf te draaien", "10 jaar garantie"],
+      "cons": ["Eenvoudige opbouw, weinig drukverlaging", "Minder geschikt voor zware personen", "Houdt wat warmte vast"],
+      "ideal": "Kinderkamer, logeerbed of tijdelijke woning waar je een fatsoenlijk matras wilt voor minimaal geld.",
+      "text": "De Åbygda is het matras dat je koopt als het budget echt beperkt is maar je niet op een goedkoop stuk schuim wilt slapen. Voor 179 euro krijg je een matras van 18 centimeter koudschuim met een geprofileerde toplaag die lucht laat circuleren. Het komt opgerold in een handzaam pakket en is na 72 uur volledig op hoogte. De hoes rits je af en was je op 60 graden.\n\nHet liggevoel is medium en redelijk ondersteunend, al mis je de drukverlaging van traagschuim of de veerkracht van pocketvering. Gebruikers die hem voor een kinderkamer of logeerkamer kochten zijn vrijwel zonder uitzondering positief. Wie er zelf elke nacht op slaapt en meer dan 90 kilo weegt, merkt na een paar jaar dat het schuim zachter wordt. IKEA geeft wel 10 jaar garantie en 90 dagen omruilrecht. Als instapmatras voor weinig geld is er weinig op aan te merken."
+    }
+  ],
+  "guide": [
+    {"h": "Traagschuim, pocketvering of hybride?", "p": "Traagschuim vormt zich naar je lichaam en verlaagt de druk op schouders en heupen. Het is ideaal voor zijslapers en mensen met gewrichtsklachten, maar houdt warmte vast. Pocketvering bestaat uit honderden los verpakte veertjes die onafhankelijk meebewegen. Het ventileert beter en voelt verend aan. Een hybride combineert beide: veren in de kern, schuim bovenop. Voor warme slapers en stellen met verschillend gewicht is dat vaak de beste oplossing."},
+    {"h": "Welke hardheid past bij jou?", "p": "Je gewicht en slaaphouding bepalen de hardheid. Tot 70 kilo kies je medium-zacht, tussen 70 en 90 kilo medium en boven 90 kilo medium-stevig of stevig. Zijslapers hebben baat bij een zachtere toplaag zodat de schouder kan wegzakken. Rugslapers liggen het best op medium. Buikslapers hebben juist een steviger matras nodig om een holle rug te voorkomen. Twijfel je, kies dan medium: dat past bij de grootste groep."},
+    {"h": "Opgerolde matrassen: net zo goed?", "p": "Schuimmatrassen die opgerold in een doos komen zijn in kwaliteit niet anders dan matrassen die plat geleverd worden. Het schuim wordt onder vacuüm samengeperst en zet na 24 tot 72 uur volledig uit. Het voordeel is dat je de doos zelf naar boven draagt. Let wel op de geur: nieuw schuim ruikt een paar dagen, zet de kamer dus even open. Pocketveringmatrassen worden ook steeds vaker opgerold geleverd zonder nadeel voor de veren."},
+    {"h": "Proefslapen en garantie", "p": "Bijna elk merk biedt tegenwoordig 90 tot 200 nachten proefslapen. Gebruik die periode, want je lichaam heeft twee tot vier weken nodig om aan een nieuw matras te wennen. Lees de voorwaarden: sommige merken halen gratis op, andere vragen dat je het matras zelf terugstuurt. Een garantie van 10 jaar is standaard, 25 jaar komt voor bij Auping en JYSK. Garantie dekt meestal alleen kuilvorming dieper dan 2 tot 3 centimeter."},
+    {"h": "Hoogte en je bedbodem", "p": "Een matras van 18 tot 22 centimeter is geschikt voor een lattenbodem. Op een boxspring kies je 22 tot 27 centimeter voor een goede verhouding. Controleer of je bodem geschikt is voor het type matras: traagschuim werkt het beste op een vlakke of fijnmazige bodem, pocketvering ook op een boxspring. Een oude lattenbodem met gebroken of te ver uit elkaar liggende latten verkort de levensduur van elk matras."},
+    {"h": "Hoeveel moet je uitgeven?", "p": "Onder de 250 euro vind je prima opgerolde schuimmatrassen voor een logeerkamer of een kind. Tussen 300 en 700 euro zit het grootste deel van de goede matrassen voor dagelijks gebruik, inclusief de populaire webmerken. Boven de 1.000 euro betaal je voor Nederlandse makelij, zeer lange garantie of het originele Tempur-schuim. Een duurder matras ligt niet automatisch beter; het verschil zit vooral in levensduur en materiaalkwaliteit."}
+  ],
+  "faq": [
+    {"q": "Wat is het beste matras van 2026?", "a": "Op basis van onze vergelijking is de Emma One het beste matras voor de meeste mensen: goed ligcomfort voor alle slaaphoudingen, een wasbare hoes en 100 nachten proefslapen voor een scherpe prijs. Zoek je de beste prijs-kwaliteit, kijk dan naar de IKEA Valevåg."},
+    {"q": "Hoe lang gaat een matras mee?", "a": "Een goed matras gaat 8 tot 10 jaar mee. Daarna verliest het schuim veerkracht of ontstaan kuilen. Draai je matras elke drie maanden van hoofd- naar voeteneinde om slijtage te verdelen. Pocketvering en latex gaan gemiddeld iets langer mee dan goedkoop schuim."},
+    {"q": "Is traagschuim te warm in de zomer?", "a": "Klassiek traagschuim houdt warmte vast. Moderne varianten met open celstructuur, grafiet of gel, zoals bij Emma, Simba en M line, lossen dat grotendeels op. Slaap je erg warm, kies dan een pocketvering- of hybridematras."},
+    {"q": "Welke maat matras heb ik nodig?", "a": "Voor één persoon is 90x200 standaard, voor een stel 140x200 of 160x200. Ben je langer dan 1,85 meter, kies dan 210 of 220 centimeter lang. Twee losse matrassen van 80x200 op een tweepersoonsbed zijn handig als jullie een verschillende hardheid willen."},
+    {"q": "Moet ik een matrasbeschermer gebruiken?", "a": "Ja, zeker bij matrassen zonder afritsbare hoes. Een molton of waterdichte beschermer houdt zweet en vocht uit het matras en verlengt de levensduur. Wassen kan op 60 graden, wat huisstofmijt doodt."},
+    {"q": "Hoe lang duurt het om aan een nieuw matras te wennen?", "a": "Reken op twee tot vier weken. Je lichaam is gewend aan je oude matras, ook als dat doorgezakt was. Geef het nieuwe matras de tijd voordat je oordeelt en gebruik de proefslaapperiode van het merk pas na die gewenningstijd."}
+  ]
+}

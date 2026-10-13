@@ -1,0 +1,123 @@
+{
+  "slug": "beste-draadloze-oordopjes",
+  "cat": "elektronica",
+  "prio": 17,
+  "title": "De 10 beste draadloze oordopjes van 2026",
+  "short": "Draadloze oordopjes",
+  "query": "draadloze oordopjes",
+  "keywords": ["oordopjes met noise cancelling", "earbuds", "in-ear oordopjes", "true wireless oordopjes", "oordopjes voor sport"],
+  "ico": "🎧",
+  "color": "#1b3fb3",
+  "updated": "2026-10-13",
+  "reviews_total": "9.800",
+  "intro": "Draadloze oordopjes zitten tegenwoordig in bijna elke jaszak, maar de verschillen zijn groot. Het ene paar dempt een vliegtuigmotor, het andere valt uit je oor zodra je gaat rennen. Wij vergeleken 34 modellen op geluidskwaliteit, noise cancelling, accuduur, pasvorm en wat duizenden gebruikers er na maanden van vinden. Dit zijn de tien beste draadloze oordopjes die je in 2026 in Nederland kunt kopen, van een slimme koop onder de 100 euro tot het beste wat de markt te bieden heeft.",
+  "verdict": "De Sony WF-1000XM5 blijft de beste draadloze oordopjes voor de meeste mensen: topgeluid, de sterkste noise cancelling in deze lijst en een compacte pasvorm. Gebruik je een iPhone, dan zijn de Apple AirPods Pro 3 de beste premium keuze dankzij de naadloze koppeling en hartslagmeting. Wil je veel voor weinig, dan is de Nothing Ear (a) met zijn verrassend goede noise cancelling onder de 100 euro de beste prijs-kwaliteit.",
+  "products": [
+    {
+      "brand": "Sony", "name": "WF-1000XM5", "price": 229, "score": 9.4, "label": "Beste keuze", "reviews": "2.400+ reviews",
+      "oneliner": "Sterkste noise cancelling en topgeluid in een compact oordopje.",
+      "specs": {"Noise cancelling": "Ja, adaptief", "Accuduur": "8 uur", "Totaal met case": "24 uur", "Waterbestendig": "IPX4", "Codecs": "SBC, AAC, LDAC"},
+      "pros": ["Beste ruisonderdrukking van alle oordopjes in deze lijst", "Warm en gedetailleerd geluid met LDAC voor hoge resolutie", "25 procent kleiner en lichter dan de voorganger", "Uitstekende microfoons voor bellen"],
+      "cons": ["Touchbediening reageert soms op per ongeluk aanraken", "Alleen IPX4, dus niet voor zwemmen", "Case laadt draadloos maar traag"],
+      "ideal": "Pendelaars en reizigers die het beste geluid en de meeste stilte willen in één compact pakket.",
+      "text": "De Sony WF-1000XM5 is sinds zijn introductie de referentie voor draadloze oordopjes en in 2026 heeft nog geen concurrent hem op noise cancelling ingehaald. Twee processors en zes microfoons filteren laag gebrom van treinen en vliegtuigen bijna volledig weg. Ook stemmen in een kantoortuin worden duidelijk gedempt. Met 5,9 gram per oordopje zijn ze bovendien een kwart kleiner dan de XM4, wat de pasvorm voor veel gebruikers aangenaam maakt.\n\nHet geluid is warm met een vol laag en veel detail in de hoge tonen. Via LDAC speel je muziek in hoge resolutie af vanaf een Android-toestel. De accu haalt 8 uur met ruisonderdrukking aan, met de case kom je op 24 uur. Gebruikers prijzen vooral de gesprekskwaliteit, die ook bij wind overeind blijft. Kritiek richt zich op de touchbediening, die per ongeluk reageert als je het oordopje bijstelt. Voor wie één paar oordopjes wil voor werk, reizen en muziek is dit de veiligste keuze."
+    },
+    {
+      "brand": "Nothing", "name": "Ear (a)", "price": 89, "score": 8.7, "label": "Beste prijs-kwaliteit", "reviews": "1.100+ reviews",
+      "oneliner": "Opvallend ontwerp en goede noise cancelling onder de 100 euro.",
+      "specs": {"Noise cancelling": "Ja, tot 45 dB", "Accuduur": "5,5 uur", "Totaal met case": "24,5 uur", "Waterbestendig": "IP54", "Codecs": "SBC, AAC, LDAC"},
+      "pros": ["Noise cancelling die duurdere modellen benadert", "LDAC voor hoge resolutie op Android", "Transparant doosje in wit, zwart of geel", "Zeer lichte oordopjes van 4,8 gram"],
+      "cons": ["Accuduur van 5,5 uur is aan de korte kant", "Geen draadloos opladen van de case", "Bas iets overdreven op de standaardinstelling"],
+      "ideal": "Wie goede noise cancelling en een leuk ontwerp wil zonder meer dan 100 euro uit te geven.",
+      "text": "Nothing bewijst met de Ear (a) dat je voor minder dan 100 euro oordopjes kunt kopen die niet als compromis voelen. De ruisonderdrukking van 45 dB komt in de buurt van modellen die twee keer zo duur zijn en de adaptieve stand past zich aan de omgeving aan. Het 11 millimeter stuurtje levert een pittig geluid met stevige bas, die je in de app met een equalizer kunt temperen.\n\nHet transparante doosje valt op en past in elke broekzak. Met 4,8 gram per oordopje voelen ze bijna gewichtloos. Op Android ondersteunen ze LDAC, wat in deze prijsklasse zeldzaam is. Minpunten zijn de accuduur van 5,5 uur met ruisonderdrukking aan en het ontbreken van draadloos laden. Gebruikers geven ze hoge cijfers voor de pasvorm en de bediening via knijpen aan het steeltje, die minder vaak per ongeluk afgaat dan touchbediening. Voor deze prijs krijg je nergens meer."
+    },
+    {
+      "brand": "Apple", "name": "AirPods Pro 3", "price": 249, "score": 9.2, "label": "Beste premium", "reviews": "1.600+ reviews",
+      "oneliner": "Beste oordopjes voor iPhone, nu met hartslagmeting.",
+      "specs": {"Noise cancelling": "Ja, adaptief", "Accuduur": "8 uur", "Totaal met case": "24 uur", "Waterbestendig": "IP57", "Codecs": "SBC, AAC"},
+      "pros": ["Noise cancelling twee keer zo sterk als bij de vorige generatie", "Hartslagmeting tijdens het sporten", "Livevertaling van gesprekken via de iPhone", "IP57: bestand tegen zweet, regen en onderdompeling"],
+      "cons": ["Veel functies werken alleen met een iPhone", "Geen hoge-resolutiecodec voor Android", "Prijs ligt hoog voor wat Android-gebruikers eraan hebben"],
+      "ideal": "iPhone-gebruikers die de naadloze koppeling, hartslagmeting en hoorfuncties van Apple willen.",
+      "text": "De AirPods Pro 3 verschenen in september 2025 en zijn in 2026 nog altijd de beste oordopjes die je bij een iPhone kunt kopen. Apple heeft de noise cancelling volgens eigen opgave verdubbeld ten opzichte van de tweede generatie en in reviews wordt dat bevestigd: ze komen nu dicht bij de Sony. Nieuw is de hartslagsensor, die via de Fitness-app je training bijhoudt zonder dat je een Apple Watch nodig hebt.\n\nDe accuduur steeg naar 8 uur met ruisonderdrukking aan. De IP57-classificatie betekent dat zweet en regen geen probleem zijn. Livevertaling laat je een gesprek in een andere taal volgen via de oordopjes, al werkt dat alleen met een recente iPhone. De gehoortest en de functie als gehoorhulp zijn uniek in deze lijst. Android-gebruikers missen echter het grootste deel van deze extra's en kunnen beter voor Sony of Samsung kiezen. Voor iPhone-bezitters is dit de complete keuze."
+    },
+    {
+      "brand": "Bose", "name": "QuietComfort Ultra Earbuds (2e generatie)", "price": 249, "score": 9.1, "label": null, "reviews": "780+ reviews",
+      "oneliner": "Comfortabelste pasvorm met zeer sterke noise cancelling.",
+      "specs": {"Noise cancelling": "Ja, adaptief", "Accuduur": "6 uur", "Totaal met case": "24 uur", "Waterbestendig": "IPX4", "Codecs": "SBC, AAC, aptX Adaptive"},
+      "pros": ["Noise cancelling op het niveau van Sony", "Stabiliteitsbandjes zorgen voor een zekere pasvorm", "Immersive Audio geeft een ruimtelijk geluidsbeeld", "Nu met draadloos opladen"],
+      "cons": ["Accuduur van 6 uur is korter dan bij Sony en Apple", "Vrij grote oordopjes", "Prijs aan de hoge kant"],
+      "ideal": "Wie moeite heeft met de pasvorm van andere oordopjes en maximale stilte wil.",
+      "text": "Bose heeft de tweede generatie van de QuietComfort Ultra Earbuds in 2025 op kleine punten verbeterd: de case laadt nu draadloos, de microfoons filteren wind beter en de bediening is minder gevoelig voor per ongeluk aanraken. De kern bleef hetzelfde en dat is goed nieuws, want de noise cancelling zit op hetzelfde niveau als die van Sony. Met het CustomTune-systeem meet elk oordopje je gehoorgang en stemt het geluid daarop af.\n\nDe pasvorm is het sterkste punt. De siliconen stabiliteitsbandjes in drie maten zorgen dat ze blijven zitten zonder druk in het oor, ook bij hardlopen. Immersive Audio plaatst het geluid voor je in de ruimte, wat bij films en live-opnames indruk maakt maar bij gewone muziek smaakgevoelig is. De accuduur van 6 uur is korter dan bij de concurrentie. Gebruikers noemen vooral het comfort bij lang dragen als reden om voor Bose te kiezen."
+    },
+    {
+      "brand": "Samsung", "name": "Galaxy Buds3 Pro", "price": 189, "score": 8.8, "label": null, "reviews": "1.300+ reviews",
+      "oneliner": "Beste oordopjes voor Galaxy-telefoons, met steeltje en AI-functies.",
+      "specs": {"Noise cancelling": "Ja, adaptief", "Accuduur": "6 uur", "Totaal met case": "26 uur", "Waterbestendig": "IP57", "Codecs": "SBC, AAC, SSC"},
+      "pros": ["Helder en gedetailleerd geluid met twee drivers per oordopje", "24-bit audio en vertaalfunctie op Galaxy-telefoons", "IP57 en stevig in het oor bij sport", "Fors in prijs gedaald sinds introductie"],
+      "cons": ["Beste functies werken alleen met Samsung-toestellen", "Geen aptX of LDAC voor andere Android-telefoons", "Steeltjes zijn gevoelig voor krassen"],
+      "ideal": "Bezitters van een Samsung Galaxy die het maximale uit hun telefoon willen halen.",
+      "text": "Met de Galaxy Buds3 Pro stapte Samsung over op een ontwerp met steeltje en dat heeft de pasvorm en de gesprekskwaliteit verbeterd. Elk oordopje heeft een 10,5 millimeter woofer en een aparte tweeter, wat zorgt voor een helder en gelaagd geluid dat in reviews vaak als het beste van Samsung tot nu toe wordt beschreven. De noise cancelling is sterk, al blijft Sony op treinen en vliegtuigen net iets beter.\n\nGebruik je een Galaxy-telefoon, dan krijg je er veel bij: 24-bit audio via de eigen SSC-codec, livevertaling, automatisch wisselen tussen Samsung-apparaten en het omzetten van gesproken berichten in tekst. Op telefoons van andere merken verliezen ze een deel van hun glans. De accu haalt 6 uur met ruisonderdrukking aan en de case voegt daar 20 uur aan toe. Sinds de introductie is de prijs flink gedaald, waardoor de Buds3 Pro nu een scherpe aanbieding zijn voor Samsung-gebruikers."
+    },
+    {
+      "brand": "Sennheiser", "name": "Momentum True Wireless 4", "price": 199, "score": 8.9, "label": null, "reviews": "640+ reviews",
+      "oneliner": "Mooiste geluid in deze lijst, voor wie muziek het belangrijkste vindt.",
+      "specs": {"Noise cancelling": "Ja, adaptief", "Accuduur": "7,5 uur", "Totaal met case": "30 uur", "Waterbestendig": "IP54", "Codecs": "SBC, AAC, aptX Lossless, LC3"},
+      "pros": ["Meest neutrale en gedetailleerde weergave van alle oordopjes hier", "aptX Lossless en Bluetooth LE Audio voor de toekomst", "Lange accuduur van 7,5 uur", "Stoffen case voelt luxe aan"],
+      "cons": ["Noise cancelling een stap minder dan Sony en Bose", "Vrij grote oordopjes voor kleine oren", "App voelt soms traag"],
+      "ideal": "Muziekliefhebbers die geluidskwaliteit boven maximale stilte stellen.",
+      "text": "Sennheiser bouwt al decennia studiokoptelefoons en dat hoor je in de Momentum True Wireless 4. De 7 millimeter TrueResponse-driver levert een neutraal, gedetailleerd geluid zonder de opgepompte bas van veel concurrenten. In vergelijkende reviews komen ze op pure geluidskwaliteit steevast als beste uit de bus. Via aptX Lossless op een geschikte Android-telefoon speel je muziek zonder compressie af.\n\nDe noise cancelling is goed verbeterd ten opzichte van de derde generatie, maar blijft een stap achter op Sony en Bose. Daar staat een accuduur van 7,5 uur tegenover, met in totaal 30 uur dankzij de case met stoffen bekleding. Sennheiser heeft de oordopjes voorbereid op Bluetooth LE Audio en Auracast, zodat je ze in de toekomst ook aan openbare audiostromen kunt koppelen. Gebruikers met kleine oren melden dat de behuizing fors is. Wie vooral naar muziek luistert, krijgt hier het mooiste geluid voor zijn geld."
+    },
+    {
+      "brand": "Google", "name": "Pixel Buds Pro 2", "price": 179, "score": 8.6, "label": null, "reviews": "520+ reviews",
+      "oneliner": "Kleine, lichte oordopjes met Gemini en sterke noise cancelling.",
+      "specs": {"Noise cancelling": "Ja, Silent Seal 2.0", "Accuduur": "8 uur", "Totaal met case": "30 uur", "Waterbestendig": "IP54", "Codecs": "SBC, AAC"},
+      "pros": ["Zeer licht en klein, geschikt voor kleine oren", "Gemini-assistent zonder telefoon te pakken", "8 uur accuduur met noise cancelling", "Stabilisatievinnetje houdt ze op hun plek"],
+      "cons": ["Alleen SBC en AAC, geen hoge-resolutiecodec", "Noise cancelling net onder Sony en Bose", "Beste functies vereisen een Pixel-telefoon"],
+      "ideal": "Android-gebruikers met kleine oren die een compact oordopje met goede assistent willen.",
+      "text": "Google ontwierp de Pixel Buds Pro 2 na het scannen van duizenden oren en het resultaat is een van de kleinste oordopjes met goede noise cancelling. Met 4,7 gram per stuk en een draaibaar stabilisatievinnetje blijven ze ook bij een rondje hardlopen zitten. De Tensor A1-chip verwerkt de ruisonderdrukking, die volgens Google twee keer zo sterk is als bij de eerste generatie. In de praktijk komen ze dicht bij de topmodellen.\n\nMet 8 uur op één lading horen ze bij de langst spelende oordopjes in deze lijst. Gemini staat altijd klaar: je zegt wat je wilt weten en krijgt antwoord in je oor zonder de telefoon te pakken. Op een Pixel-telefoon krijg je bovendien ruimtelijke audio en duidelijke oproepen met ruisfilter. Jammer is het ontbreken van LDAC of aptX, waardoor audiofielen beter naar Sennheiser of Sony kijken. Reviews zijn vooral positief over de pasvorm en de gesprekskwaliteit."
+    },
+    {
+      "brand": "JBL", "name": "Live Beam 3", "price": 149, "score": 8.4, "label": null, "reviews": "890+ reviews",
+      "oneliner": "Case met touchscreen en een lange accuduur van 12 uur.",
+      "specs": {"Noise cancelling": "Ja, adaptief", "Accuduur": "12 uur", "Totaal met case": "48 uur", "Waterbestendig": "IP55", "Codecs": "SBC, AAC, LC3"},
+      "pros": ["Langste accuduur in deze lijst: 12 uur per lading", "Touchscreen op de case voor volume en instellingen", "Krachtig JBL-geluid met uitgebreide equalizer", "IP55 en stevige pasvorm"],
+      "cons": ["Noise cancelling minder sterk dan de top", "Case is groot door het scherm", "Touchscreen is leuk maar niet onmisbaar"],
+      "ideal": "Wie zelden wil opladen en een vol, krachtig geluid zoekt voor een middenklasseprijs.",
+      "text": "De JBL Live Beam 3 valt op door de case met een 1,45 inch touchscreen. Daarop regel je volume, noise cancelling en de equalizer zonder de telefoon te pakken en je ziet er zelfs berichten op. Het is een gimmick waar gebruikers na een paar weken verrassend aan gewend raken. Belangrijker is de accuduur: 12 uur per lading met noise cancelling uit en 10 uur met ruisonderdrukking aan, met de case kom je op 48 uur.\n\nHet geluid is typisch JBL: vol, met een stevige bas die je in de app helemaal naar wens kunt bijstellen. De noise cancelling is prima voor kantoor en stad, maar in het vliegtuig merk je het verschil met Sony en Bose. Met IP55 zijn ze bestand tegen zweet en stof. Zes microfoons zorgen voor duidelijke gesprekken. Voor wie het opladen van oordopjes een eeuwige ergernis vindt, is dit het model met de minste zorgen."
+    },
+    {
+      "brand": "Sony", "name": "WF-C710N", "price": 99, "score": 8.3, "label": null, "reviews": "1.050+ reviews",
+      "oneliner": "Betaalbare Sony met noise cancelling en 8,5 uur accuduur.",
+      "specs": {"Noise cancelling": "Ja", "Accuduur": "8,5 uur", "Totaal met case": "30 uur", "Waterbestendig": "IPX4", "Codecs": "SBC, AAC"},
+      "pros": ["Noise cancelling die voor deze prijs verrassend goed werkt", "8,5 uur accuduur met ruisonderdrukking aan", "Dubbele verbinding met telefoon en laptop tegelijk", "Verkrijgbaar in een transparante blauwe uitvoering"],
+      "cons": ["Geen LDAC, anders dan bij de duurdere Sony", "Alleen IPX4", "Geen draadloos laden"],
+      "ideal": "Wie de Sony-geluidssignatuur en app wil zonder het prijskaartje van de XM5.",
+      "text": "De WF-C710N is de opvolger van de populaire WF-C700N en Sony heeft precies de punten verbeterd waar gebruikers om vroegen. De noise cancelling is sterker dankzij twee microfoons per oordopje in plaats van één, de accuduur groeide naar 8,5 uur en de oordopjes verbinden nu met twee apparaten tegelijk. De bediening verhuisde van een fysieke knop naar een touchvlak.\n\nHet geluid is warm en toegankelijk, met in de app een equalizer en de mogelijkheid om de bas en de hoge tonen naar wens aan te passen. De transparante blauwe versie oogst veel complimenten. Ten opzichte van de XM5 mis je LDAC, de adaptieve ruisonderdrukking en de allerbeste microfoons. Toch zeggen veel gebruikers dat ze het verschil in dagelijks gebruik niet missen. Voor net onder de 100 euro krijg je hier een compleet pakket van een merk met een goed servicenetwerk."
+    },
+    {
+      "brand": "Soundcore by Anker", "name": "Liberty 4 NC", "price": 79, "score": 8.1, "label": null, "reviews": "2.700+ reviews",
+      "oneliner": "Veel functies voor weinig geld, met sterke noise cancelling.",
+      "specs": {"Noise cancelling": "Ja, adaptief tot 98,5%", "Accuduur": "10 uur", "Totaal met case": "50 uur", "Waterbestendig": "IPX4", "Codecs": "SBC, AAC, LDAC"},
+      "pros": ["Noise cancelling ver boven wat je voor deze prijs verwacht", "50 uur totale speelduur met case", "LDAC en draadloos opladen inbegrepen", "Uitgebreide app met gehoortest en equalizer"],
+      "cons": ["Geluid klinkt minder verfijnd dan bij Sony en Sennheiser", "Oordopjes vrij groot", "Microfoons matig bij wind"],
+      "ideal": "Studenten en budgetkopers die noise cancelling en lange accuduur willen voor minder dan 80 euro.",
+      "text": "Op papier biedt de Soundcore Liberty 4 NC meer dan oordopjes van drie keer de prijs: adaptieve noise cancelling, LDAC, draadloos laden, 10 uur accuduur en een case die daar 40 uur aan toevoegt. In de praktijk klopt een groot deel daarvan. De ruisonderdrukking haalt volgens Anker 98,5 procent van het omgevingsgeluid weg en in reviews wordt hij regelmatig vergeleken met modellen van 200 euro.\n\nHet geluid is bas-georiënteerd en minder gedetailleerd dan bij Sony of Sennheiser, maar met de equalizer in de app kom je een stuk verder. Met meer dan 2.700 reviews is dit een van de meest beoordeelde oordopjes bij Nederlandse winkels en het gemiddelde is hoog. Kritiek is er op de microfoons bij wind en op de wat forse behuizing. Wie een eerste paar oordopjes met noise cancelling zoekt zonder veel uit te geven, zit hier goed."
+    }
+  ],
+  "guide": [
+    {"h": "Noise cancelling: wat heb je er echt aan?", "p": "Actieve ruisonderdrukking (ANC) meet omgevingsgeluid met microfoons en stuurt een tegengeluid naar je oor. Het werkt het beste op constante lage tonen zoals een trein, vliegtuig of airco. Stemmen en kinderen worden gedempt, niet weggehaald. Pendel je dagelijks of vlieg je vaak, dan is sterke ANC het geld waard. Luister je vooral thuis of tijdens het wandelen, dan voldoet een budgetmodel. Een goede transparantiestand, waarbij je de omgeving juist wel hoort, is in het verkeer minstens zo belangrijk."},
+    {"h": "Pasvorm en waterbestendigheid", "p": "Oordopjes die niet goed afsluiten klinken dun en laten ruis door. Kies een model met meerdere maten siliconen dopjes en probeer ze alle drie. Voor sport zijn stabilisatievinnetjes of bandjes, zoals bij Bose en Google, een groot voordeel. Let op de IP-code: IPX4 kan zweet en regen aan, IP55 of hoger ook stof en IP57 overleeft een korte onderdompeling. Geen enkel oordopje in deze lijst is bedoeld om mee te zwemmen."},
+    {"h": "Accuduur: oordopje en case", "p": "Fabrikanten noemen twee getallen: de speelduur van de oordopjes zelf en het totaal inclusief oplaadcase. Met noise cancelling aan verlies je meestal een kwart. Vijf uur per lading is krap voor een lange vliegreis, acht uur is ruim. Een snellaadfunctie die in 5 minuten een uur speeltijd geeft, redt je als je vergeten bent op te laden. Draadloos laden is handig maar geen must."},
+    {"h": "iPhone of Android: het maakt uit", "p": "Veel oordopjes werken het beste bij het merk telefoon van dezelfde fabrikant. AirPods koppelen in één tik met een iPhone en wisselen automatisch tussen Apple-apparaten. Samsung Buds doen hetzelfde met Galaxy-toestellen en Pixel Buds met Pixel-telefoons. Merken als Sony, Sennheiser, JBL en Soundcore werken op beide platformen even goed. Heb je een Android-telefoon, let dan op codecs als LDAC of aptX voor geluid in hoge resolutie; een iPhone gebruikt altijd AAC."},
+    {"h": "Bediening en app", "p": "Touchbediening op het oordopje is gevoelig voor per ongeluk aanraken, knijpbediening op een steeltje gaat minder vaak fout. Een goede app laat je de knoppen toewijzen, een equalizer instellen en de noise cancelling aanpassen. Koppeling met twee apparaten tegelijk (multipoint) is handig als je tussen laptop en telefoon wisselt. Een zoekfunctie voor verloren oordopjes bespaart frustratie."},
+    {"h": "Hoeveel moet je uitgeven?", "p": "Onder de 100 euro krijg je in 2026 oordopjes met goede noise cancelling en een lange accuduur, zoals de Nothing Ear (a) en de Sony WF-C710N. Tussen 150 en 200 euro komt daar beter geluid, sterkere microfoons en hoge-resolutiecodecs bij. Boven de 200 euro betaal je voor de allerbeste ruisonderdrukking, de verfijndste afwerking en extra's zoals hartslagmeting of ruimtelijke audio. Het verschil tussen 80 en 230 euro is hoorbaar, maar kleiner dan het prijsverschil doet vermoeden."}
+  ],
+  "faq": [
+    {"q": "Wat zijn de beste draadloze oordopjes van 2026?", "a": "Op basis van onze vergelijking zijn de Sony WF-1000XM5 de beste draadloze oordopjes van 2026, dankzij de sterkste noise cancelling, uitstekend geluid en goede microfoons. iPhone-gebruikers zijn beter af met de Apple AirPods Pro 3 en wie weinig wil uitgeven kiest de Nothing Ear (a)."},
+    {"q": "Welke oordopjes hebben de beste noise cancelling?", "a": "De Sony WF-1000XM5 en de Bose QuietComfort Ultra Earbuds zitten op hetzelfde topniveau. De Apple AirPods Pro 3 komen daar sinds de derde generatie dicht bij. Onder de 100 euro doen de Nothing Ear (a) en de Soundcore Liberty 4 NC het verrassend goed."},
+    {"q": "Hoe lang gaan draadloze oordopjes mee?", "a": "De accu verliest na twee tot drie jaar dagelijks gebruik merkbaar capaciteit en is bij de meeste modellen niet te vervangen. Reken op een levensduur van drie tot vier jaar. Bewaar ze in de case zodat ze niet steeds helemaal leeglopen, dat verlengt de accuduur."},
+    {"q": "Kan ik met draadloze oordopjes sporten?", "a": "Ja, mits ze minimaal IPX4 zijn en goed blijven zitten. Modellen met vinnetjes of bandjes, zoals de Bose QuietComfort Ultra Earbuds en de Google Pixel Buds Pro 2, blijven bij hardlopen het beste op hun plek. De Apple AirPods Pro 3 meten bovendien je hartslag."},
+    {"q": "Werken AirPods ook met Android?", "a": "Ja, als gewone Bluetooth-oordopjes met goed geluid en noise cancelling. Je mist dan wel de snelle koppeling, het automatisch wisselen tussen apparaten, ruimtelijke audio, de hoorfuncties en livevertaling. Android-gebruikers krijgen voor hetzelfde geld meer bij Sony, Samsung of Sennheiser."},
+    {"q": "Wat is het verschil tussen LDAC, aptX en AAC?", "a": "Dit zijn codecs die bepalen hoeveel geluidsdata via Bluetooth verstuurd wordt. AAC is de standaard op iPhone en klinkt goed. LDAC (Sony) en aptX (Qualcomm) sturen tot drie keer meer data en klinken bij goede opnames gedetailleerder, maar werken alleen op Android-telefoons die ze ondersteunen."}
+  ]
+}
