@@ -306,8 +306,9 @@ simple("404.html", "Pagina niet gevonden", '<div class="art-head prose"><h1>Deze
 # ---------- assets ----------
 wr("style.css", rd("style.css")); wr("app.js", rd("app.js"))
 wr("favicon.svg", '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b3fb3"/><stop offset="1" stop-color="#ff7a3d"/></linearGradient></defs><rect width="64" height="64" rx="16" fill="url(#g)"/><text x="32" y="46" font-family="Inter,Arial" font-weight="900" font-size="40" fill="#fff" text-anchor="middle">?</text></svg>')
+wr("stats.html", '<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><meta http-equiv="refresh" content="0;url=https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl"><title>Statistieken</title></head><body><a href="https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl">Naar het dashboard</a></body></html>')
 wr("CNAME", "watkoopik.nl\n"); wr(".nojekyll", "")
-wr("robots.txt", "User-agent: *\nAllow: /\nSitemap: %s/sitemap.xml\n" % SITE)
+wr("robots.txt", "User-agent: *\nAllow: /\nDisallow: /stats.html\nSitemap: %s/sitemap.xml\n" % SITE)
 urls = ["", "gidsen.html", "zo-kiezen-wij.html", "over-ons.html", "contact.html", "disclaimer.html", "privacy.html"] + ["categorie/%s.html" % k for k in CATS if by_cat.get(k)] + [g["url"] for g in guides]
 wr("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join("<url><loc>%s/%s</loc><lastmod>%s</lastmod></url>\n" % (SITE, u, TODAY.isoformat()) for u in urls) + "</urlset>\n")
 wr("search.json", json.dumps([{"t": g["title"], "u": g["url"], "c": CATS[g["cat"]][0], "k": " ".join([g["query"], g["short"]] + g.get("keywords", []) + ["%s %s" % (p["brand"], p["name"]) for p in g["products"]])} for g in guides], ensure_ascii=False))
