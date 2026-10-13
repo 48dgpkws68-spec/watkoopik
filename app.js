@@ -21,6 +21,7 @@
     document.addEventListener('click',function(e){if(!inp.closest('.search-wrap').contains(e.target))box.classList.remove('show');});
   });
 
+  var toc=document.getElementById('toc'); if(toc&&window.innerWidth>900) toc.open=true;
   // sticky mobiele koopknop op gidspagina's
   var s=document.getElementById('stickyCta');
   if(s){document.body.classList.add('has-sticky');

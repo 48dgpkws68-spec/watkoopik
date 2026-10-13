@@ -343,3 +343,78 @@ table.cmp td.name{min-width:170px}
 table.cmp td.name small{font-size:.8rem}
 .tbl-img{width:36px;height:36px;margin-right:8px}
 table.cmp .btn-sm{padding:7px 10px;font-size:.82rem}
+
+/* ===== mobiel: overzicht eerst ===== */
+.feat-img{overflow:hidden}
+.feat-img img{width:100%;height:100%}
+@media (max-width:900px){
+  .hero{padding:22px 0 18px}
+  .hero-grid{display:block}
+  .hero-card{display:none}
+  .hero .kick{display:none}
+  h1{font-size:1.9rem}
+  .hero p.lead{font-size:.95rem;margin:6px 0 12px}
+  .hero-search{margin-top:8px}
+  .pills{flex-wrap:nowrap;overflow-x:auto;gap:8px;padding:4px 16px 8px;margin:12px -16px 0;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+  .pills::-webkit-scrollbar{display:none}
+  .pill{flex:none;padding:8px 12px 8px 10px;font-size:.86rem}
+  section{padding:26px 0}
+  .sec-head{flex-direction:row;align-items:baseline;justify-content:space-between;margin-bottom:12px}
+  .sec-head h2{font-size:1.35rem}
+  .sec-head .kick{display:none}
+  .sec-head .more{font-size:.86rem}
+  .feat-grid{display:flex;flex-direction:column;gap:10px}
+  .feat{flex-direction:row;align-items:center;border-radius:16px}
+  .feat-img{width:96px;height:96px;flex:none;padding:8px;border-bottom:0;border-right:1px solid var(--line)}
+  .feat-img .ph{font-size:1.6rem;border-radius:10px}
+  .feat-body{padding:10px 14px;gap:3px;min-width:0}
+  .feat-body .kick{display:none}
+  .feat-body h3{font-family:"Sora",sans-serif;font-size:.98rem;line-height:1.25}
+  .feat-body p{display:none}
+  .feat-win{padding-top:4px;font-size:.8rem}
+  .rows{gap:8px;margin-top:10px}
+  .row{grid-template-columns:56px 1fr auto;gap:12px;padding:8px 12px 8px 8px;border-radius:14px}
+  .row-img{width:56px;height:56px}
+  .row h3{font-size:.95rem}
+  .row-win{font-size:.8rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .catsec{padding:22px 0}
+  .band{padding:30px 0;margin-top:10px}
+  .band h2{font-size:1.4rem}
+  .stats{grid-template-columns:1fr 1fr;gap:8px}
+  .stats div{padding:12px 14px;font-size:.8rem}
+  .stats b{font-size:1.4rem}
+  .newsletter{padding:18px}
+  .winners{gap:10px}
+  .win{padding:12px}
+  .win.first{padding:14px}
+  .win.first .win-img{height:150px}
+  .win-img{height:110px}
+  .art-head h1{font-size:1.7rem}
+  .art-head .intro{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+  .disc{font-size:.78rem;padding:8px 12px}
+  .toc{padding:12px 14px}
+  .toc ol{columns:1}
+  .prod{padding:14px;margin:14px 0}
+  .prod h2{font-size:1.15rem}
+}
+
+.toc summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center}
+.toc summary::-webkit-details-marker{display:none}
+.toc summary h4{margin:0}
+.toc summary::after{content:"+";font-weight:800;color:var(--brand)}
+.toc[open] summary::after{content:"−"}
+.toc[open] summary{margin-bottom:10px}
+@media (max-width:900px){
+  .win{display:grid;grid-template-columns:96px 1fr;gap:12px;align-items:center;padding:12px}
+  .win.first{grid-template-columns:120px 1fr;padding:14px}
+  .win-img,.win.first .win-img{height:96px;margin:0;grid-row:1/5}
+  .win.first .win-img{height:120px}
+  .win .tag{font-size:.66rem;padding:2px 8px;margin-bottom:4px}
+  .win h3{font-size:.95rem;margin:0}
+  .win.first h3{font-size:1.05rem}
+  .win .price,.win.first .price{font-size:1.05rem;margin:2px 0 4px}
+  .win p{display:none}
+  .win .btn{padding:7px 12px;font-size:.84rem;align-self:start}
+  .ribbon{top:8px;right:-6px;font-size:.6rem;padding:4px 8px}
+  .byline{display:none}
+}

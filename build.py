@@ -232,7 +232,7 @@ def guide_page(g):
 <div class="guide" id="koopgids"><h2>Koopgids: zo kies je de juiste %s</h2>%s</div>
 <div class="faq" id="faq"><h2>Veelgestelde vragen</h2>%s</div>
 </div>
-<aside class="side"><div class="toc"><h4>In deze gids</h4><ol><li><a href="#vergelijk">Vergelijkingstabel</a></li>%s<li><a href="#koopgids">Koopgids</a></li><li><a href="#faq">Veelgestelde vragen</a></li></ol></div>
+<aside class="side"><details class="toc" id="toc"><summary><h4>In deze gids</h4></summary><ol><li><a href="#vergelijk">Vergelijkingstabel</a></li>%s<li><a href="#koopgids">Koopgids</a></li><li><a href="#faq">Veelgestelde vragen</a></li></ol></details>
 <div class="box"><h4>Zo kwamen wij tot deze lijst</h4><ul><li>Specificaties van de fabrikant vergeleken</li><li>Gebruikersreviews bij bol en andere winkels geanalyseerd</li><li>Prijs afgezet tegen prestaties</li><li>Elke maand opnieuw gecheckt</li></ul></div></aside>
 </div>
 <section class="related"><div class="sec-head"><h2>Ook interessant</h2></div><div class="feat-grid">%s</div></section>
@@ -300,6 +300,7 @@ home = '''
 <div><span class="kick kick-light">Zo werken wij</span><h2>Geen betaalde plekken. Wel duidelijke keuzes.</h2><p>Merken kunnen geen positie kopen. We wegen prestaties, prijs-kwaliteit, betrouwbaarheid en gebruiksgemak. Prijzen checken we dagelijks bij bol.</p><a class="btn btn-ghost" href="zo-kiezen-wij.html">Lees onze methode</a></div>
 <div class="stats"><div><b>%d</b>top 10-gidsen</div><div><b>%d</b>producten vergeleken</div><div><b>4</b>criteria per product</div><div><b>Dagelijks</b>prijzen gecheckt</div></div>
 </div></section>
+<section class="seo"><div class="wrap narrow"><h2>Zo vind je snel wat je zoekt</h2><p>Typ een product in de zoekbalk, bijvoorbeeld <a href="beste/beste-airfryer.html">airfryer</a>, <a href="beste/beste-stofzuiger.html">stofzuiger</a> of <a href="beste/beste-koptelefoon.html">koptelefoon</a>, of kies een categorie. Elke gids begint met de drie winnaars (beste keuze, beste prijs-kwaliteit en beste premium), gevolgd door een vergelijkingstabel van alle tien modellen, een uitleg per product met plus- en minpunten, een koopgids en antwoorden op veelgestelde vragen. Prijzen worden dagelijks bij bol gecontroleerd.</p></div></section>
 <section><div class="wrap"><div class="newsletter"><div><h3 style="margin:0 0 4px">Nieuwe top 10's in je mailbox</h3><p style="margin:0;color:var(--ink2)">Eén mail per week met de nieuwste vergelijkingen en prijsdalingen.</p></div><form action="https://formsubmit.co/hallo@watkoopik.nl" method="POST"><input type="hidden" name="_subject" value="Nieuwsbrief aanmelding watkoopik"><input type="hidden" name="_next" value="%s/bedankt.html"><input type="email" name="email" placeholder="je@email.nl" required><button class="btn btn-brand" type="submit">Aanmelden</button></form></div></div></section>
 ''' % (cat_pills, hero_card, len(guides), feat_html, rows_html, cat_sections, len(guides), sum(len(g["products"]) for g in guides), SITE)
 page = head("De beste producten van %d vergeleken | watkoopik.nl" % YEAR, "Wat koop ik? Onafhankelijke top 10-lijsten met de beste stofzuigers, airfryers, föhns en meer. Specificaties, prijzen en reviews vergeleken.", SITE + "/", "",
@@ -312,7 +313,7 @@ simple("gidsen.html", "Alle top 10-gidsen", '<div class="art-head"><h1>Alle top 
 for k, v in CATS.items():
     gs = by_cat.get(k, [])
     root = "../"
-    body = '<nav class="crumbs"><a href="../index.html">Home</a> › %s</nav><div class="art-head"><div class="kicker">Categorie</div><h1>De beste %s van %d</h1><p class="intro">%s. %d top 10-gidsen in deze categorie.</p></div><div class="feat-grid">%s</div>' % (v[0], v[0].lower(), YEAR, v[2], len(gs), "".join(feature(g, root) for g in gs) or "<p>Binnenkort verschijnen hier de eerste gidsen.</p>")
+    body = '<nav class="crumbs"><a href="../index.html">Home</a> › %s</nav><div class="art-head"><div class="kicker">Categorie</div><h1>De beste %s van %d</h1><p class="intro">%s. In deze %d gidsen vergelijken we per productsoort de tien beste modellen op prijs, specificaties en gebruikersreviews, met een duidelijke winnaar, de beste prijs-kwaliteit en de beste premium keuze.</p></div><div class="feat-grid">%s</div>' % (v[0], v[0].lower(), YEAR, v[2], len(gs), "".join(feature(g, root) for g in gs) or "<p>Binnenkort verschijnen hier de eerste gidsen.</p>")
     page = head("Beste %s van %d | watkoopik.nl" % (v[0].lower(), YEAR), v[2] + ". Vergelijk de beste producten in top 10-lijsten.", SITE + "/categorie/%s.html" % k, root) + chrome("categorie/%s.html" % k, root) + '<main class="wrap">%s</main>' % body + footer(root, guides)
     check_copy(page, k); wr("categorie/%s.html" % k, page)
 
