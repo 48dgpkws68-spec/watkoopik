@@ -5,7 +5,14 @@
   "title": "De 10 beste keukenmachines van 2026",
   "short": "Keukenmachines",
   "query": "keukenmachine",
-  "keywords": ["kitchenaid keukenmachine", "kenwood keukenmachine", "foodprocessor", "keukenmachine voor deeg", "planetaire mixer", "bosch mum"],
+  "keywords": [
+    "kitchenaid keukenmachine",
+    "kenwood keukenmachine",
+    "foodprocessor",
+    "keukenmachine voor deeg",
+    "planetaire mixer",
+    "bosch mum"
+  ],
   "ico": "🥣",
   "updated": "2026-10-13",
   "reviews_total": "11.800",
@@ -13,110 +20,366 @@
   "verdict": "De KitchenAid Artisan 5KSM175PS is de beste keukenmachine van 2026: een ijzersterke motor, een kom van 4,8 liter en een bouwkwaliteit die generaties meegaat. De Bosch MUM Serie 4 is de beste prijs-kwaliteit, met kneedhaak, snijschijven en blender voor nog geen 250 euro. Wie het meest complete apparaat wil kiest de Kenwood Titanium Chef Patissier XL, de beste premium machine met ingebouwde weegschaal en verwarmde kom.",
   "products": [
     {
-      "brand": "KitchenAid", "name": "Artisan 5KSM175PS", "price": 549, "score": 9.3, "label": "Beste keuze", "reviews": "3.600+ reviews",
+      "brand": "KitchenAid",
+      "name": "Artisan 5KSM175PS",
+      "price": 484.0,
+      "score": 9.3,
+      "label": "Beste keuze",
+      "reviews": "3.600+ reviews",
       "oneliner": "Het icoon onder de keukenmachines, gebouwd voor decennia.",
-      "specs": {"Type": "Planetaire mixer", "Vermogen": "300 W, directe aandrijving", "Kom": "4,8 l rvs + 3 l", "Snelheden": "10", "Hulpstukken": "Kneedhaak, garde, klopper, spatdeksel"},
-      "pros": ["Gegoten metalen behuizing, staat muurvast bij zwaar deeg", "Twee kommen meegeleverd: 4,8 en 3 liter", "Meer dan vijftien optionele hulpstukken via de voorzijde", "Ruim 40 kleuren, onderdelen na twintig jaar nog leverbaar"],
-      "cons": ["Hoge prijs voor wat in de doos zit", "Zwaar: ruim 10 kilo", "Snijschijven en blender kosten extra"],
+      "specs": {
+        "Type": "Planetaire mixer",
+        "Vermogen": "300 W, directe aandrijving",
+        "Kom": "4,8 l rvs + 3 l",
+        "Snelheden": "10",
+        "Hulpstukken": "Kneedhaak, garde, klopper, spatdeksel"
+      },
+      "pros": [
+        "Gegoten metalen behuizing, staat muurvast bij zwaar deeg",
+        "Twee kommen meegeleverd: 4,8 en 3 liter",
+        "Meer dan vijftien optionele hulpstukken via de voorzijde",
+        "Ruim 40 kleuren, onderdelen na twintig jaar nog leverbaar"
+      ],
+      "cons": [
+        "Hoge prijs voor wat in de doos zit",
+        "Zwaar: ruim 10 kilo",
+        "Snijschijven en blender kosten extra"
+      ],
       "ideal": "Thuisbakkers die regelmatig brood en taart maken en één machine willen voor de rest van hun leven.",
-      "text": "De KitchenAid Artisan is al tientallen jaren het referentiepunt onder de keukenmachines en de 5KSM175PS is de meest gekochte uitvoering. Het vermogen van 300 watt klinkt laag naast concurrenten met 1.000 watt of meer, maar KitchenAid gebruikt een directe aandrijving zonder vermogensverlies. In de praktijk kneedt hij 1 kilo brooddeeg zonder te vertragen, bevestigen gebruikers. De gegoten metalen behuizing van ruim tien kilo blijft staan waar lichtere machines gaan wandelen.\n\nIn de doos zitten twee roestvrijstalen kommen van 4,8 en 3 liter, een kneedhaak, garde, platte klopper en een spatdeksel met vulschuit. Via de aansluiting aan de voorzijde passen meer dan vijftien hulpstukken, van pastamaker tot gehaktmolen, maar die kosten extra. Reviews prijzen vooral de levensduur: machines van twintig jaar oud worden nog dagelijks gebruikt en onderdelen zijn verkrijgbaar. Voor wie één keer goed wil kopen is dit nog altijd de beste keuze."
+      "text": "De KitchenAid Artisan is al tientallen jaren het referentiepunt onder de keukenmachines en de 5KSM175PS is de meest gekochte uitvoering. Het vermogen van 300 watt klinkt laag naast concurrenten met 1.000 watt of meer, maar KitchenAid gebruikt een directe aandrijving zonder vermogensverlies. In de praktijk kneedt hij 1 kilo brooddeeg zonder te vertragen, bevestigen gebruikers. De gegoten metalen behuizing van ruim tien kilo blijft staan waar lichtere machines gaan wandelen.\n\nIn de doos zitten twee roestvrijstalen kommen van 4,8 en 3 liter, een kneedhaak, garde, platte klopper en een spatdeksel met vulschuit. Via de aansluiting aan de voorzijde passen meer dan vijftien hulpstukken, van pastamaker tot gehaktmolen, maar die kosten extra. Reviews prijzen vooral de levensduur: machines van twintig jaar oud worden nog dagelijks gebruikt en onderdelen zijn verkrijgbaar. Voor wie één keer goed wil kopen is dit nog altijd de beste keuze.",
+      "ean": "5413184200466",
+      "url": "https://www.bol.com/nl/nl/p/kitchenaid-artisan-5ksm175psebk-keukenmachine-vulkaanzwart/9200000068046291/",
+      "image": "https://media.s-bol.com/ggr9K04kW4Q6/mq7963A/550x527.jpg",
+      "synced": "2026-10-13",
+      "bol_title": "Kitchenaid Artisan 5KSM175PSEBK - Keukenmachine - Vulkaanzwart"
     },
     {
-      "brand": "Bosch", "name": "MUM Serie 4 MUMS4EW20", "price": 229, "score": 8.8, "label": "Beste prijs-kwaliteit", "reviews": "2.100+ reviews",
+      "brand": "Bosch",
+      "name": "MUM Serie 4 MUMS4EW20",
+      "price": 229,
+      "score": 8.8,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "2.100+ reviews",
       "oneliner": "Compleet pakket met blender en snijschijven voor een scherpe prijs.",
-      "specs": {"Type": "Planetaire mixer", "Vermogen": "800 W", "Kom": "3,9 l kunststof", "Snelheden": "4 + puls", "Hulpstukken": "Kneedhaak, garde, klopper, snijschijven, blender"},
-      "pros": ["Blender en doorloopsnijder met drie schijven in de doos", "MultiMotion-drive beweegt in drie richtingen voor grondig mengen", "Licht en compact, past in een kast", "Degelijk Duits merk met onderdelen die lang leverbaar blijven"],
-      "cons": ["Kunststof kom van 3,9 liter in plaats van rvs", "Beweegt op het aanrecht bij zwaar deeg", "Vier snelheden is beperkt"],
+      "specs": {
+        "Type": "Planetaire mixer",
+        "Vermogen": "800 W",
+        "Kom": "3,9 l kunststof",
+        "Snelheden": "4 + puls",
+        "Hulpstukken": "Kneedhaak, garde, klopper, snijschijven, blender"
+      },
+      "pros": [
+        "Blender en doorloopsnijder met drie schijven in de doos",
+        "MultiMotion-drive beweegt in drie richtingen voor grondig mengen",
+        "Licht en compact, past in een kast",
+        "Degelijk Duits merk met onderdelen die lang leverbaar blijven"
+      ],
+      "cons": [
+        "Kunststof kom van 3,9 liter in plaats van rvs",
+        "Beweegt op het aanrecht bij zwaar deeg",
+        "Vier snelheden is beperkt"
+      ],
       "ideal": "Gezinnen die een complete keukenmachine zoeken voor bakken en koken zonder veel uit te geven.",
       "text": "De Bosch MUM Serie 4 is het antwoord op de vraag: welke keukenmachine doet alles voor een gezin zonder meer dan 250 euro te kosten? In de doos zitten een kneedhaak, garde en klopper, maar ook een doorloopsnijder met drie schijven voor raspen, snijden en schaven en een blender van 1,25 liter. Dat zijn hulpstukken waar je bij KitchenAid of Kenwood honderden euro's voor bijbetaalt.\n\nDe motor van 800 watt met MultiMotion-aandrijving beweegt het hulpstuk in drie richtingen door de kom, zodat alles wordt meegenomen. Brooddeeg van 1 kilo lukt, al moet je bij groter deeg de machine volgens gebruikers vasthouden omdat hij licht is. De kunststof kom van 3,9 liter is minder robuust dan rvs, maar wel vaatwasserbestendig. Vier snelheden volstaan voor het meeste werk. Reviews prijzen vooral de veelzijdigheid voor dit geld en het compacte formaat waardoor hij in een kast past."
     },
     {
-      "brand": "Kenwood", "name": "Titanium Chef Patissier XL KWL90.004SI", "price": 899, "score": 9.2, "label": "Beste premium", "reviews": "640+ reviews",
+      "brand": "Kenwood",
+      "name": "Titanium Chef Patissier XL KWL90.004SI",
+      "price": 899,
+      "score": 9.2,
+      "label": "Beste premium",
+      "reviews": "640+ reviews",
       "oneliner": "Ingebouwde weegschaal en verwarmde kom voor professionele patisserie.",
-      "specs": {"Type": "Planetaire mixer", "Vermogen": "1.400 W", "Kom": "7 l + 5 l rvs", "Snelheden": "Traploos", "Hulpstukken": "Kneedhaak, garde, klopper, flexibele klopper, spatdeksel"},
-      "pros": ["Verwarmde kom tot 65 graden voor meringue, chocolade en rijsdeeg", "Ingebouwde weegschaal weegt direct in de kom", "Grote kom van 7 liter kneedt tot 2,5 kilo deeg", "Touchscreen met recepten en automatische programma's"],
-      "cons": ["Hoogste prijs in deze lijst", "Groot en zwaar apparaat", "Hulpstukken zoals snijschijven kosten extra"],
+      "specs": {
+        "Type": "Planetaire mixer",
+        "Vermogen": "1.400 W",
+        "Kom": "7 l + 5 l rvs",
+        "Snelheden": "Traploos",
+        "Hulpstukken": "Kneedhaak, garde, klopper, flexibele klopper, spatdeksel"
+      },
+      "pros": [
+        "Verwarmde kom tot 65 graden voor meringue, chocolade en rijsdeeg",
+        "Ingebouwde weegschaal weegt direct in de kom",
+        "Grote kom van 7 liter kneedt tot 2,5 kilo deeg",
+        "Touchscreen met recepten en automatische programma's"
+      ],
+      "cons": [
+        "Hoogste prijs in deze lijst",
+        "Groot en zwaar apparaat",
+        "Hulpstukken zoals snijschijven kosten extra"
+      ],
       "ideal": "Serieuze thuisbakkers die regelmatig grote hoeveelheden bakken en patisserietechnieken willen beheersen.",
       "text": "De Kenwood Titanium Chef Patissier XL is gebouwd voor wie bakken serieus neemt. De kom van 7 liter wordt verwarmd tot 65 graden, waardoor je Zwitserse meringue maakt zonder au bain-marie, chocolade tempereert en brooddeeg laat rijzen in de machine. De ingebouwde weegschaal weegt ingrediënten direct in de kom, zodat je geen aparte weegschaal en kommetjes vuilmaakt. Dat zijn functies die geen andere machine in deze lijst biedt.\n\nDe motor van 1.400 watt kneedt tot 2,5 kilo deeg, genoeg voor vier broden tegelijk. Een tweede kom van 5 liter is meegeleverd. Het touchscreen begeleidt je door recepten en programma's. Via drie aansluitingen passen meer dan 25 hulpstukken, al kosten die extra. Gebruikers noemen de bouwkwaliteit en de stilte van de motor. De prijs is fors en het apparaat heeft een vaste plek nodig. Voor patissiers in de dop is dit het meest complete apparaat dat je kunt kopen."
     },
     {
-      "brand": "Kenwood", "name": "kMix KMX750AW", "price": 379, "score": 8.7, "label": null, "reviews": "1.400+ reviews",
+      "brand": "Kenwood",
+      "name": "kMix KMX750AW",
+      "price": 379,
+      "score": 8.7,
+      "label": null,
+      "reviews": "1.400+ reviews",
       "oneliner": "Krachtige planetaire mixer met retro-look en een kom van 5 liter.",
-      "specs": {"Type": "Planetaire mixer", "Vermogen": "1.000 W", "Kom": "5 l rvs", "Snelheden": "6 + puls", "Hulpstukken": "Kneedhaak, garde, klopper, spatdeksel"},
-      "pros": ["1.000 watt en een metalen behuizing voor zwaar deeg", "Kom van 5 liter met handgreep", "Zachte start voorkomt spatten", "Aansluiting voor Kenwood-hulpstukken zoals gehaktmolen en pastaroller"],
-      "cons": ["Hulpstukken niet meegeleverd", "Iets lawaaieriger dan KitchenAid", "Minder kleuren dan de concurrent"],
+      "specs": {
+        "Type": "Planetaire mixer",
+        "Vermogen": "1.000 W",
+        "Kom": "5 l rvs",
+        "Snelheden": "6 + puls",
+        "Hulpstukken": "Kneedhaak, garde, klopper, spatdeksel"
+      },
+      "pros": [
+        "1.000 watt en een metalen behuizing voor zwaar deeg",
+        "Kom van 5 liter met handgreep",
+        "Zachte start voorkomt spatten",
+        "Aansluiting voor Kenwood-hulpstukken zoals gehaktmolen en pastaroller"
+      ],
+      "cons": [
+        "Hulpstukken niet meegeleverd",
+        "Iets lawaaieriger dan KitchenAid",
+        "Minder kleuren dan de concurrent"
+      ],
       "ideal": "Wie KitchenAid-prestaties wil met meer vermogen en een grotere kom voor minder geld.",
       "text": "De Kenwood kMix is het directe alternatief voor de KitchenAid Artisan en wint op twee punten: een krachtiger motor van 1.000 watt en een kom van 5 liter in plaats van 4,8. De metalen behuizing staat stevig en de planetaire beweging neemt de hele kom mee. Brooddeeg van 1,5 kilo kneedt hij volgens gebruikers zonder te vertragen. De zachte start zorgt dat bloem niet uit de kom stuift.\n\nMeegeleverd zijn een kneedhaak, garde, klopper en spatdeksel. Via de aansluiting aan de voorkant passen de hulpstukken van Kenwood, zoals de gehaktmolen en de pastaroller, al moet je die apart kopen. Het retro-ontwerp is verkrijgbaar in wit, zwart en rood. In reviews scoort de kMix hoog op kracht en bouwkwaliteit, iets lager op geluid. Voor wie 150 euro minder wil uitgeven dan voor een KitchenAid en net zoveel of meer kracht wil, is dit de slimme keuze."
     },
     {
-      "brand": "Magimix", "name": "Cuisine Système 5200 XL", "price": 599, "score": 9.0, "label": null, "reviews": "920+ reviews",
+      "brand": "Magimix",
+      "name": "Cuisine Système 5200 XL",
+      "price": 599,
+      "score": 9.0,
+      "label": null,
+      "reviews": "920+ reviews",
       "oneliner": "De beste foodprocessor voor snijden, raspen en hakken, met 30 jaar garantie.",
-      "specs": {"Type": "Foodprocessor", "Vermogen": "1.100 W", "Kom": "3,6 l + 2,6 l + 1,2 l", "Snelheden": "Auto + puls", "Hulpstukken": "Hakmes, deegmes, 4 schijven, garde, blendermix"},
-      "pros": ["Drie kommen in elkaar: groot, middel en klein", "Industriële motor met 30 jaar garantie", "Snijdt, raspt, hakt en kneedt met minimale afwas", "Stil en traag draaiend voor meer controle"],
-      "cons": ["Geen planetaire mixer: kloppen en kneden zijn beperkter", "Hoge prijs", "Veel losse onderdelen om op te bergen"],
+      "specs": {
+        "Type": "Foodprocessor",
+        "Vermogen": "1.100 W",
+        "Kom": "3,6 l + 2,6 l + 1,2 l",
+        "Snelheden": "Auto + puls",
+        "Hulpstukken": "Hakmes, deegmes, 4 schijven, garde, blendermix"
+      },
+      "pros": [
+        "Drie kommen in elkaar: groot, middel en klein",
+        "Industriële motor met 30 jaar garantie",
+        "Snijdt, raspt, hakt en kneedt met minimale afwas",
+        "Stil en traag draaiend voor meer controle"
+      ],
+      "cons": [
+        "Geen planetaire mixer: kloppen en kneden zijn beperkter",
+        "Hoge prijs",
+        "Veel losse onderdelen om op te bergen"
+      ],
       "ideal": "Wie vooral kookt en groente, kaas en vlees wil verwerken in plaats van taarten bakken.",
       "text": "De Magimix 5200 XL is een ander type machine dan de planetaire mixers in deze lijst. Het is een foodprocessor, gebouwd om te snijden, raspen, hakken en pureren. Franse restaurantkeukens gebruiken dezelfde motoren en Magimix geeft er 30 jaar garantie op. Het systeem met drie in elkaar passende kommen is slim: hak uien in de kleine kom, rasp kaas in de middelste en maak deeg in de grote zonder tussendoor af te wassen.\n\nDe motor van 1.100 watt draait langzaam en stil, met slechts een automatische stand en puls. Dat geeft controle: een paar pulsen voor grof gehakte noten, langer voor een gladde pesto. Deeg kneden lukt tot 1 kilo met het kunststof deegmes, maar slagroom kloppen en luchtig cakebeslag zijn niet zijn sterkste kant. Gebruikers roemen de kwaliteit en de levensduur. Voor wie meer kookt dan bakt is dit de nuttigste machine in de lijst."
     },
     {
-      "brand": "Bosch", "name": "MultiTalent 8 MC812M844", "price": 189, "score": 8.5, "label": null, "reviews": "1.300+ reviews",
+      "brand": "Bosch",
+      "name": "MultiTalent 8 MC812M844",
+      "price": 169.0,
+      "score": 8.5,
+      "label": null,
+      "reviews": "1.300+ reviews",
       "oneliner": "Veelzijdige foodprocessor met 3,9 liter kom en blender voor een middenklasseprijs.",
-      "specs": {"Type": "Foodprocessor", "Vermogen": "1.250 W", "Kom": "3,9 l kunststof", "Snelheden": "Traploos + puls", "Hulpstukken": "Hakmes, kneedhaak, 5 schijven, garde, citruspers, blender"},
-      "pros": ["Vijftig functies met één apparaat", "Grote kom van 3,9 liter", "Blender van 1,5 liter en citruspers meegeleverd", "Opbergdoos voor alle schijven"],
-      "cons": ["Kunststof kom krast op termijn", "Veel onderdelen, veel afwas", "Geen planetaire beweging voor luchtig beslag"],
+      "specs": {
+        "Type": "Foodprocessor",
+        "Vermogen": "1.250 W",
+        "Kom": "3,9 l kunststof",
+        "Snelheden": "Traploos + puls",
+        "Hulpstukken": "Hakmes, kneedhaak, 5 schijven, garde, citruspers, blender"
+      },
+      "pros": [
+        "Vijftig functies met één apparaat",
+        "Grote kom van 3,9 liter",
+        "Blender van 1,5 liter en citruspers meegeleverd",
+        "Opbergdoos voor alle schijven"
+      ],
+      "cons": [
+        "Kunststof kom krast op termijn",
+        "Veel onderdelen, veel afwas",
+        "Geen planetaire beweging voor luchtig beslag"
+      ],
       "ideal": "Gezinnen die vooral snijden, raspen en hakken en soms een blender nodig hebben.",
-      "text": "De Bosch MultiTalent 8 is de foodprocessor voor wie veel wil voor weinig geld. Bosch telt vijftig functies, dankzij een hakmes, kneedhaak, garde, vijf snij- en raspschijven inclusief een friet- en juliennesnijder, een citruspers en een blender van 1,5 liter. De kom van 3,9 liter is groot genoeg voor een gezinsmaaltijd en de motor van 1.250 watt zorgt dat ook harde groente zoals knolselderij geen probleem is.\n\nHet traploze toerental en de pulsknop geven controle over de structuur. Deeg kneden lukt tot 1 kilo, maar voor luchtig cakebeslag en slagroom mist een foodprocessor de planetaire beweging van een mixer. De meegeleverde opbergdoos houdt de schijven bij elkaar, een detail dat gebruikers waarderen. Kritiek is er op de kunststof kom die na verloop van tijd dof wordt. Voor wie vooral kookt, is dit de meest complete set onder de 200 euro."
+      "text": "De Bosch MultiTalent 8 is de foodprocessor voor wie veel wil voor weinig geld. Bosch telt vijftig functies, dankzij een hakmes, kneedhaak, garde, vijf snij- en raspschijven inclusief een friet- en juliennesnijder, een citruspers en een blender van 1,5 liter. De kom van 3,9 liter is groot genoeg voor een gezinsmaaltijd en de motor van 1.250 watt zorgt dat ook harde groente zoals knolselderij geen probleem is.\n\nHet traploze toerental en de pulsknop geven controle over de structuur. Deeg kneden lukt tot 1 kilo, maar voor luchtig cakebeslag en slagroom mist een foodprocessor de planetaire beweging van een mixer. De meegeleverde opbergdoos houdt de schijven bij elkaar, een detail dat gebruikers waarderen. Kritiek is er op de kunststof kom die na verloop van tijd dof wordt. Voor wie vooral kookt, is dit de meest complete set onder de 200 euro.",
+      "ean": "4242005109340",
+      "url": "https://www.bol.com/nl/nl/p/bosch-multitalent-8-mc812m844-foodprocessor-zwart-rvs/9200000098451837/",
+      "image": "https://media.s-bol.com/7NAmEG5qE91/550x381.jpg",
+      "synced": "2026-10-13",
+      "bol_title": "Bosch MultiTalent 8 MC812M844 - Foodprocessor - Zwart/RVS"
     },
     {
-      "brand": "Smeg", "name": "SMF03 Keukenmachine", "price": 449, "score": 8.6, "label": null, "reviews": "580+ reviews",
+      "brand": "Smeg",
+      "name": "SMF03 Keukenmachine",
+      "price": 449,
+      "score": 8.6,
+      "label": null,
+      "reviews": "580+ reviews",
       "oneliner": "Italiaans design uit de jaren vijftig met een kom van 4,8 liter.",
-      "specs": {"Type": "Planetaire mixer", "Vermogen": "800 W", "Kom": "4,8 l rvs", "Snelheden": "10", "Hulpstukken": "Kneedhaak, garde, klopper, spatdeksel"},
-      "pros": ["Opvallend ontwerp in pastelkleuren", "Gegoten aluminium behuizing, stevig op het aanrecht", "Zachte start en tien snelheden", "Aansluiting voor hulpstukken zoals pastaroller en gehaktmolen"],
-      "cons": ["Hulpstukken kosten extra", "Prijs is deels voor het design", "Minder onderdelen op voorraad dan bij KitchenAid"],
+      "specs": {
+        "Type": "Planetaire mixer",
+        "Vermogen": "800 W",
+        "Kom": "4,8 l rvs",
+        "Snelheden": "10",
+        "Hulpstukken": "Kneedhaak, garde, klopper, spatdeksel"
+      },
+      "pros": [
+        "Opvallend ontwerp in pastelkleuren",
+        "Gegoten aluminium behuizing, stevig op het aanrecht",
+        "Zachte start en tien snelheden",
+        "Aansluiting voor hulpstukken zoals pastaroller en gehaktmolen"
+      ],
+      "cons": [
+        "Hulpstukken kosten extra",
+        "Prijs is deels voor het design",
+        "Minder onderdelen op voorraad dan bij KitchenAid"
+      ],
       "ideal": "Wie een keukenmachine wil die een blikvanger is en toch degelijk werk levert.",
       "text": "De Smeg SMF03 is in de eerste plaats een ontwerp. De ronde vormen en pastelkleuren verwijzen naar de Italiaanse jaren vijftig en passen bij de koelkasten en broodroosters van het merk. Maar onder de lak zit een serieuze machine: een gegoten aluminium behuizing, een motor van 800 watt met directe aandrijving en een roestvrijstalen kom van 4,8 liter, dezelfde inhoud als de KitchenAid Artisan.\n\nTien snelheden met een zachte start zorgen dat bloem niet rondstuift. Brooddeeg van 1 kilo en luchtig beslag lukken volgens gebruikers zonder moeite. Via de aansluiting aan de voorzijde passen hulpstukken als een pastaroller en gehaktmolen, al moet je die apart kopen. De prijs ligt onder die van de KitchenAid, maar boven de Kenwood kMix die meer vermogen biedt. Reviews zijn lovend over het uiterlijk en tevreden over de prestaties. Wie zijn keuken een stijl geeft, koopt hier zonder spijt."
     },
     {
-      "brand": "Kenwood", "name": "Prospero+ KHC29.W0SI", "price": 199, "score": 8.3, "label": null, "reviews": "1.100+ reviews",
+      "brand": "Kenwood",
+      "name": "Prospero+ KHC29.W0SI",
+      "price": 199,
+      "score": 8.3,
+      "label": null,
+      "reviews": "1.100+ reviews",
       "oneliner": "Compacte planetaire mixer met blender, foodprocessor en citruspers in de doos.",
-      "specs": {"Type": "Planetaire mixer", "Vermogen": "1.000 W", "Kom": "4,3 l rvs", "Snelheden": "Traploos + puls", "Hulpstukken": "Kneedhaak, garde, klopper, blender, foodprocessor, citruspers"},
-      "pros": ["Kom van 4,3 liter rvs in een compact apparaat", "Blender, foodprocessor met schijven en citruspers meegeleverd", "1.000 watt voor zwaar deeg", "Past onder een keukenkastje"],
-      "cons": ["Kunststof behuizing, licht bij zwaar deeg", "Hulpstukken van eenvoudiger kwaliteit dan het hoofdapparaat", "Lawaaierig op hoge stand"],
+      "specs": {
+        "Type": "Planetaire mixer",
+        "Vermogen": "1.000 W",
+        "Kom": "4,3 l rvs",
+        "Snelheden": "Traploos + puls",
+        "Hulpstukken": "Kneedhaak, garde, klopper, blender, foodprocessor, citruspers"
+      },
+      "pros": [
+        "Kom van 4,3 liter rvs in een compact apparaat",
+        "Blender, foodprocessor met schijven en citruspers meegeleverd",
+        "1.000 watt voor zwaar deeg",
+        "Past onder een keukenkastje"
+      ],
+      "cons": [
+        "Kunststof behuizing, licht bij zwaar deeg",
+        "Hulpstukken van eenvoudiger kwaliteit dan het hoofdapparaat",
+        "Lawaaierig op hoge stand"
+      ],
       "ideal": "Kleine keukens waar één compact apparaat zowel moet bakken als snijden en blenden.",
       "text": "De Kenwood Prospero+ richt zich op wie een planetaire mixer wil met alles erop en eraan, maar weinig ruimte heeft. Het apparaat is met 33 centimeter hoog laag genoeg om onder een bovenkastje te blijven staan. Toch zit er een roestvrijstalen kom van 4,3 liter in en een motor van 1.000 watt die 1 kilo brooddeeg kneedt.\n\nHet pakket is compleet: naast kneedhaak, garde en klopper krijg je een blender van 1,2 liter, een foodprocessor met snij- en raspschijven en een citruspers. Die hulpstukken zijn van kunststof en eenvoudiger dan het hoofdapparaat, maar doen hun werk. De behuizing is licht, waardoor hij bij zwaar deeg kan bewegen, melden gebruikers. Het geluid op hoge stand is fors. Daar staat tegenover dat je voor minder dan 200 euro een complete uitrusting hebt die bij andere merken het dubbele kost."
     },
     {
-      "brand": "KitchenAid", "name": "Classic 5K45SS", "price": 399, "score": 8.6, "label": null, "reviews": "2.200+ reviews",
+      "brand": "KitchenAid",
+      "name": "Classic 5K45SS",
+      "price": 357.8,
+      "score": 8.6,
+      "label": null,
+      "reviews": "2.200+ reviews",
       "oneliner": "De instap-KitchenAid met dezelfde motor en bouwkwaliteit, in wit.",
-      "specs": {"Type": "Planetaire mixer", "Vermogen": "275 W, directe aandrijving", "Kom": "4,3 l rvs", "Snelheden": "10", "Hulpstukken": "Kneedhaak, garde, klopper"},
-      "pros": ["Dezelfde metalen behuizing en aandrijving als de Artisan", "150 euro goedkoper dan de Artisan", "Alle KitchenAid-hulpstukken passen", "Bewezen levensduur van tientallen jaren"],
-      "cons": ["Alleen in wit leverbaar", "Kleinere kom van 4,3 liter zonder handgreep", "Geen spatdeksel in de doos"],
+      "specs": {
+        "Type": "Planetaire mixer",
+        "Vermogen": "275 W, directe aandrijving",
+        "Kom": "4,3 l rvs",
+        "Snelheden": "10",
+        "Hulpstukken": "Kneedhaak, garde, klopper"
+      },
+      "pros": [
+        "Dezelfde metalen behuizing en aandrijving als de Artisan",
+        "150 euro goedkoper dan de Artisan",
+        "Alle KitchenAid-hulpstukken passen",
+        "Bewezen levensduur van tientallen jaren"
+      ],
+      "cons": [
+        "Alleen in wit leverbaar",
+        "Kleinere kom van 4,3 liter zonder handgreep",
+        "Geen spatdeksel in de doos"
+      ],
       "ideal": "Wie de KitchenAid-kwaliteit wil en de kleur, de tweede kom en het spatdeksel niet nodig heeft.",
-      "text": "De KitchenAid Classic is de goedkoopste manier om een echte KitchenAid in huis te halen. De machine deelt de gegoten metalen behuizing, de directe aandrijving en de planetaire beweging met de duurdere Artisan. De verschillen zijn praktisch: een motor van 275 in plaats van 300 watt, een kom van 4,3 liter zonder handgreep, geen spatdeksel en alleen de kleur wit. Voor wie dat niet uitmaakt, scheelt het 150 euro.\n\nIn de praktijk kneedt de Classic volgens gebruikers 800 gram tot 1 kilo brooddeeg zonder problemen en klopt hij slagroom en eiwit tot stevige pieken. Alle hulpstukken voor de voorzijde passen, van gehaktmolen tot groentesnijder. Ruim 2.000 reviews bevestigen de reputatie: machines gaan tientallen jaren mee en onderdelen blijven leverbaar. Een spatdeksel koop je los bij. Voor wie met een beperkt budget toch de beste bouwkwaliteit wil, is dit de verstandige keuze."
+      "text": "De KitchenAid Classic is de goedkoopste manier om een echte KitchenAid in huis te halen. De machine deelt de gegoten metalen behuizing, de directe aandrijving en de planetaire beweging met de duurdere Artisan. De verschillen zijn praktisch: een motor van 275 in plaats van 300 watt, een kom van 4,3 liter zonder handgreep, geen spatdeksel en alleen de kleur wit. Voor wie dat niet uitmaakt, scheelt het 150 euro.\n\nIn de praktijk kneedt de Classic volgens gebruikers 800 gram tot 1 kilo brooddeeg zonder problemen en klopt hij slagroom en eiwit tot stevige pieken. Alle hulpstukken voor de voorzijde passen, van gehaktmolen tot groentesnijder. Ruim 2.000 reviews bevestigen de reputatie: machines gaan tientallen jaren mee en onderdelen blijven leverbaar. Een spatdeksel koop je los bij. Voor wie met een beperkt budget toch de beste bouwkwaliteit wil, is dit de verstandige keuze.",
+      "ean": "5413184602710",
+      "url": "https://www.bol.com/nl/nl/p/kitchenaid-5k45ssebm-classic-keukenmachine-mat-zwart/9300000038342437/",
+      "image": "https://media.s-bol.com/qVllVvnoGq73/550x658.jpg",
+      "synced": "2026-10-13",
+      "bol_title": "KitchenAid 5K45SSEBM Classic - Keukenmachine - Mat Zwart"
     },
     {
-      "brand": "Philips", "name": "Viva Collection Keukenmachine HR7510/00", "price": 99, "score": 7.9, "label": null, "reviews": "1.900+ reviews",
+      "brand": "Philips",
+      "name": "Viva Collection Keukenmachine HR7510/00",
+      "price": 109.0,
+      "score": 7.9,
+      "label": null,
+      "reviews": "1.900+ reviews",
       "oneliner": "Betaalbare compacte foodprocessor voor snijden, raspen en hakken.",
-      "specs": {"Type": "Foodprocessor", "Vermogen": "800 W", "Kom": "2,1 l kunststof", "Snelheden": "2 + puls", "Hulpstukken": "Hakmes, kneedhulpstuk, 2 schijven, garde"},
-      "pros": ["Compact en licht, makkelijk op te bergen", "PowerChop-technologie hakt gelijkmatig", "Schijven voor snijden en raspen meegeleverd", "Alle onderdelen vaatwasserbestendig"],
-      "cons": ["Kom van 2,1 liter is klein voor een gezin", "Deeg kneden beperkt tot circa 500 gram", "Twee snelheden"],
+      "specs": {
+        "Type": "Foodprocessor",
+        "Vermogen": "800 W",
+        "Kom": "2,1 l kunststof",
+        "Snelheden": "2 + puls",
+        "Hulpstukken": "Hakmes, kneedhulpstuk, 2 schijven, garde"
+      },
+      "pros": [
+        "Compact en licht, makkelijk op te bergen",
+        "PowerChop-technologie hakt gelijkmatig",
+        "Schijven voor snijden en raspen meegeleverd",
+        "Alle onderdelen vaatwasserbestendig"
+      ],
+      "cons": [
+        "Kom van 2,1 liter is klein voor een gezin",
+        "Deeg kneden beperkt tot circa 500 gram",
+        "Twee snelheden"
+      ],
       "ideal": "Kleine huishoudens die vooral groente willen snijden en hakken zonder een groot apparaat.",
-      "text": "De Philips Viva Collection HR7510 is de instapper in deze lijst en bewijst dat je voor minder dan 100 euro al veel keukenwerk kunt automatiseren. De compacte foodprocessor heeft een kom van 2,1 liter, een hakmes met PowerChop-technologie dat volgens gebruikers uien en kruiden gelijkmatig fijn maakt, twee omkeerbare schijven voor snijden en raspen en een garde voor slagroom.\n\nDe motor van 800 watt is voldoende voor groente, kaas en noten. Deeg kneden lukt tot circa 500 gram, genoeg voor een pizzabodem maar niet voor een brood. Twee snelheden en puls houden de bediening simpel. Alle onderdelen gaan in de vaatwasser. Reviews zijn positief over de prijs en het formaat, kritischer over de kleine kom en het geluid. Voor een stel dat vaak kookt en soms iets wil raspen of hakken, is dit de goedkoopste manier om tijd te winnen in de keuken."
+      "text": "De Philips Viva Collection HR7510 is de instapper in deze lijst en bewijst dat je voor minder dan 100 euro al veel keukenwerk kunt automatiseren. De compacte foodprocessor heeft een kom van 2,1 liter, een hakmes met PowerChop-technologie dat volgens gebruikers uien en kruiden gelijkmatig fijn maakt, twee omkeerbare schijven voor snijden en raspen en een garde voor slagroom.\n\nDe motor van 800 watt is voldoende voor groente, kaas en noten. Deeg kneden lukt tot circa 500 gram, genoeg voor een pizzabodem maar niet voor een brood. Twee snelheden en puls houden de bediening simpel. Alle onderdelen gaan in de vaatwasser. Reviews zijn positief over de prijs en het formaat, kritischer over de kleine kom en het geluid. Voor een stel dat vaak kookt en soms iets wil raspen of hakken, is dit de goedkoopste manier om tijd te winnen in de keuken.",
+      "ean": "8710103904939",
+      "url": "https://www.bol.com/nl/nl/p/philips-viva-collection-compacte-keukenmachine-800-w-met-29-functies/9200000121137477/",
+      "image": "https://media.s-bol.com/V6gnnNgnVBn5/WLgqkzJ/387x840.jpg",
+      "synced": "2026-10-13",
+      "bol_title": "Philips Viva HR7510/10 - Foodprocessor – Zwart"
     }
   ],
   "guide": [
-    {"h": "Planetaire mixer of foodprocessor?", "p": "Een planetaire mixer, zoals KitchenAid en Kenwood, heeft een grote kom en een hulpstuk dat in cirkels door de kom beweegt. Ideaal voor deeg, beslag, slagroom en eiwit. Een foodprocessor, zoals Magimix en de Bosch MultiTalent, heeft een lagere kom met een snel draaiend mes of schijf en is gemaakt voor snijden, raspen, hakken en pureren. Bak je vooral, kies een mixer. Kook je vooral, kies een foodprocessor. Veel mixers bieden een foodprocessor als los hulpstuk."},
-    {"h": "Vermogen zegt niet alles", "p": "KitchenAid werkt met 300 watt, Kenwood met 1.000 of meer. Toch kneden beide een kilo brooddeeg. Het verschil zit in de aandrijving: een directe metalen overbrenging verliest weinig kracht, een riemaandrijving meer. Let daarom vooral op reviews over zwaar deeg en op de hoeveelheid deeg die de fabrikant opgeeft. Voor wekelijks brood is 1 kilo deegcapaciteit het minimum, voor grotere hoeveelheden 1,5 kilo of meer."},
-    {"h": "Hoe groot moet de kom zijn?", "p": "Een kom van 4 tot 5 liter is voor de meeste huishoudens goed: genoeg voor een brood, een taart of een grote portie slagroom. Kleinere kommen van 3 liter zijn geschikt voor stellen en kleine keukens. Boven de 6 liter heb je alleen nodig als je meerdere broden tegelijk bakt. Een tweede kleine kom, zoals bij de KitchenAid Artisan, is handig voor eiwit of een kleine portie glazuur."},
-    {"h": "Hulpstukken: meegeleverd of bijkopen?", "p": "Bosch en Kenwood Prospero leveren blender, snijschijven en citruspers vaak standaard mee. KitchenAid, Smeg en de kMix leveren alleen de drie basishulpstukken en de rest koop je los, voor 60 tot 200 euro per stuk. Bedenk vooraf wat je echt gaat gebruiken. Een gehaktmolen of pastaroller is leuk maar wordt in de praktijk door weinig gebruikers meer dan een paar keer per jaar gepakt."},
-    {"h": "Materiaal en stabiliteit", "p": "Een gegoten metalen behuizing van 8 tot 10 kilo blijft staan bij zwaar deeg, een kunststof behuizing van 4 kilo kan over het aanrecht wandelen. Een roestvrijstalen kom is onverslijtbaar en kan in de koelkast voor het koelen van deeg. Kunststof kommen zijn lichter en doorzichtig, maar krassen en worden dof. Voor dagelijks gebruik is metaal het geld waard."},
-    {"h": "Wat kost een goede keukenmachine?", "p": "Rond de 100 euro krijg je een compacte foodprocessor voor snijden en hakken. Tussen 200 en 400 euro zit de middenklasse met planetaire mixers die een kilo deeg kneden, vaak met hulpstukken meegeleverd. Boven de 500 euro betaal je voor een metalen behuizing, een levensduur van twintig jaar en een breed assortiment hulpstukken. Een KitchenAid of Kenwood van 500 euro is per gebruiksjaar vaak goedkoper dan een plastic machine die na vijf jaar vervangen wordt."}
+    {
+      "h": "Planetaire mixer of foodprocessor?",
+      "p": "Een planetaire mixer, zoals KitchenAid en Kenwood, heeft een grote kom en een hulpstuk dat in cirkels door de kom beweegt. Ideaal voor deeg, beslag, slagroom en eiwit. Een foodprocessor, zoals Magimix en de Bosch MultiTalent, heeft een lagere kom met een snel draaiend mes of schijf en is gemaakt voor snijden, raspen, hakken en pureren. Bak je vooral, kies een mixer. Kook je vooral, kies een foodprocessor. Veel mixers bieden een foodprocessor als los hulpstuk."
+    },
+    {
+      "h": "Vermogen zegt niet alles",
+      "p": "KitchenAid werkt met 300 watt, Kenwood met 1.000 of meer. Toch kneden beide een kilo brooddeeg. Het verschil zit in de aandrijving: een directe metalen overbrenging verliest weinig kracht, een riemaandrijving meer. Let daarom vooral op reviews over zwaar deeg en op de hoeveelheid deeg die de fabrikant opgeeft. Voor wekelijks brood is 1 kilo deegcapaciteit het minimum, voor grotere hoeveelheden 1,5 kilo of meer."
+    },
+    {
+      "h": "Hoe groot moet de kom zijn?",
+      "p": "Een kom van 4 tot 5 liter is voor de meeste huishoudens goed: genoeg voor een brood, een taart of een grote portie slagroom. Kleinere kommen van 3 liter zijn geschikt voor stellen en kleine keukens. Boven de 6 liter heb je alleen nodig als je meerdere broden tegelijk bakt. Een tweede kleine kom, zoals bij de KitchenAid Artisan, is handig voor eiwit of een kleine portie glazuur."
+    },
+    {
+      "h": "Hulpstukken: meegeleverd of bijkopen?",
+      "p": "Bosch en Kenwood Prospero leveren blender, snijschijven en citruspers vaak standaard mee. KitchenAid, Smeg en de kMix leveren alleen de drie basishulpstukken en de rest koop je los, voor 60 tot 200 euro per stuk. Bedenk vooraf wat je echt gaat gebruiken. Een gehaktmolen of pastaroller is leuk maar wordt in de praktijk door weinig gebruikers meer dan een paar keer per jaar gepakt."
+    },
+    {
+      "h": "Materiaal en stabiliteit",
+      "p": "Een gegoten metalen behuizing van 8 tot 10 kilo blijft staan bij zwaar deeg, een kunststof behuizing van 4 kilo kan over het aanrecht wandelen. Een roestvrijstalen kom is onverslijtbaar en kan in de koelkast voor het koelen van deeg. Kunststof kommen zijn lichter en doorzichtig, maar krassen en worden dof. Voor dagelijks gebruik is metaal het geld waard."
+    },
+    {
+      "h": "Wat kost een goede keukenmachine?",
+      "p": "Rond de 100 euro krijg je een compacte foodprocessor voor snijden en hakken. Tussen 200 en 400 euro zit de middenklasse met planetaire mixers die een kilo deeg kneden, vaak met hulpstukken meegeleverd. Boven de 500 euro betaal je voor een metalen behuizing, een levensduur van twintig jaar en een breed assortiment hulpstukken. Een KitchenAid of Kenwood van 500 euro is per gebruiksjaar vaak goedkoper dan een plastic machine die na vijf jaar vervangen wordt."
+    }
   ],
   "faq": [
-    {"q": "Wat is de beste keukenmachine van 2026?", "a": "Op basis van onze vergelijking is de KitchenAid Artisan 5KSM175PS de beste keukenmachine van 2026, door de bouwkwaliteit, de twee meegeleverde kommen en het grootste assortiment hulpstukken. Zoek je de beste prijs-kwaliteit met blender en snijschijven in de doos, kijk dan naar de Bosch MUM Serie 4."},
-    {"q": "KitchenAid of Kenwood: wat is beter?", "a": "KitchenAid wint op bouwkwaliteit, kleuren en levensduur, Kenwood op vermogen, komgrootte en prijs. Voor zwaar brooddeeg in grote hoeveelheden is Kenwood praktischer, voor wie een machine voor twintig jaar zoekt is KitchenAid de klassieke keuze. Beide zijn uitstekende machines."},
-    {"q": "Hoeveel watt heeft een keukenmachine nodig voor brooddeeg?", "a": "Dat hangt af van de aandrijving. KitchenAid kneedt met 300 watt een kilo deeg dankzij directe metalen aandrijving. Machines met riemaandrijving en kunststof tandwielen hebben 800 tot 1.000 watt nodig voor hetzelfde werk. Kijk naar de opgegeven deegcapaciteit, niet alleen naar het wattage."},
-    {"q": "Kan een keukenmachine ook groente snijden?", "a": "Een foodprocessor doet dat standaard. Bij planetaire mixers heb je een los hulpstuk nodig: Bosch en Kenwood Prospero leveren dat mee, bij KitchenAid, Smeg en de Kenwood kMix koop je de groentesnijder apart voor 100 tot 150 euro."},
-    {"q": "Wat is het verschil tussen een keukenmachine en een foodprocessor?", "a": "In Nederland worden beide termen door elkaar gebruikt. Strikt genomen is een keukenmachine een planetaire mixer voor deeg en beslag. Een foodprocessor is een snij- en hakmachine. Veel apparaten combineren beide via hulpstukken."},
-    {"q": "Hoe lang gaat een keukenmachine mee?", "a": "Een metalen machine van KitchenAid, Kenwood of Smeg gaat bij huishoudelijk gebruik vijftien tot dertig jaar mee; Magimix geeft zelfs 30 jaar garantie op de motor. Kunststof machines van 100 tot 250 euro gaan gemiddeld vijf tot tien jaar mee. Het onderdeel dat het eerst slijt is meestal de kunststof kom of de tandwielen."}
+    {
+      "q": "Wat is de beste keukenmachine van 2026?",
+      "a": "Op basis van onze vergelijking is de KitchenAid Artisan 5KSM175PS de beste keukenmachine van 2026, door de bouwkwaliteit, de twee meegeleverde kommen en het grootste assortiment hulpstukken. Zoek je de beste prijs-kwaliteit met blender en snijschijven in de doos, kijk dan naar de Bosch MUM Serie 4."
+    },
+    {
+      "q": "KitchenAid of Kenwood: wat is beter?",
+      "a": "KitchenAid wint op bouwkwaliteit, kleuren en levensduur, Kenwood op vermogen, komgrootte en prijs. Voor zwaar brooddeeg in grote hoeveelheden is Kenwood praktischer, voor wie een machine voor twintig jaar zoekt is KitchenAid de klassieke keuze. Beide zijn uitstekende machines."
+    },
+    {
+      "q": "Hoeveel watt heeft een keukenmachine nodig voor brooddeeg?",
+      "a": "Dat hangt af van de aandrijving. KitchenAid kneedt met 300 watt een kilo deeg dankzij directe metalen aandrijving. Machines met riemaandrijving en kunststof tandwielen hebben 800 tot 1.000 watt nodig voor hetzelfde werk. Kijk naar de opgegeven deegcapaciteit, niet alleen naar het wattage."
+    },
+    {
+      "q": "Kan een keukenmachine ook groente snijden?",
+      "a": "Een foodprocessor doet dat standaard. Bij planetaire mixers heb je een los hulpstuk nodig: Bosch en Kenwood Prospero leveren dat mee, bij KitchenAid, Smeg en de Kenwood kMix koop je de groentesnijder apart voor 100 tot 150 euro."
+    },
+    {
+      "q": "Wat is het verschil tussen een keukenmachine en een foodprocessor?",
+      "a": "In Nederland worden beide termen door elkaar gebruikt. Strikt genomen is een keukenmachine een planetaire mixer voor deeg en beslag. Een foodprocessor is een snij- en hakmachine. Veel apparaten combineren beide via hulpstukken."
+    },
+    {
+      "q": "Hoe lang gaat een keukenmachine mee?",
+      "a": "Een metalen machine van KitchenAid, Kenwood of Smeg gaat bij huishoudelijk gebruik vijftien tot dertig jaar mee; Magimix geeft zelfs 30 jaar garantie op de motor. Kunststof machines van 100 tot 250 euro gaan gemiddeld vijf tot tien jaar mee. Het onderdeel dat het eerst slijt is meestal de kunststof kom of de tandwielen."
+    }
   ]
 }

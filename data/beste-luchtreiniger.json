@@ -5,7 +5,13 @@
   "title": "De 10 beste luchtreinigers van 2026",
   "short": "Luchtreinigers",
   "query": "luchtreiniger",
-  "keywords": ["luchtreiniger hepa", "luchtreiniger slaapkamer", "luchtreiniger hooikoorts", "luchtreiniger allergie", "stille luchtreiniger"],
+  "keywords": [
+    "luchtreiniger hepa",
+    "luchtreiniger slaapkamer",
+    "luchtreiniger hooikoorts",
+    "luchtreiniger allergie",
+    "stille luchtreiniger"
+  ],
   "ico": "🌬️",
   "color": "#2d9bb3",
   "updated": "2026-10-13",
@@ -14,110 +20,381 @@
   "verdict": "De Philips Series 3000i is de beste luchtreiniger voor de meeste woonkamers: hoge reinigingscapaciteit, een nauwkeurige sensor, stil in de nachtstand en een app die laat zien wat hij doet. Voor een slaapkamer of een klein budget is de Levoit Core 300S de beste prijs-kwaliteit, met een filter dat weinig kost. Wie ook wil koelen en formaldehyde wil afbreken, krijgt dat bij de Dyson Purifier Cool Formaldehyde, tegen een flinke meerprijs.",
   "products": [
     {
-      "brand": "Philips", "name": "Series 3000i AC3033/10", "price": 399, "score": 9.3, "label": "Beste keuze", "reviews": "2.800+ reviews",
+      "brand": "Philips",
+      "name": "Series 3000i AC3033/10",
+      "price": 399,
+      "score": 9.3,
+      "label": "Beste keuze",
+      "reviews": "2.800+ reviews",
       "oneliner": "Reinigt een grote woonkamer in minuten en is stil in de nacht.",
-      "specs": {"CADR": "520 m3/u", "Ruimte": "tot 135 m2", "Filter": "HEPA + actiefkool", "Geluid min": "15 dB", "App": "Ja, Air+"},
-      "pros": ["Reinigt 520 kubieke meter lucht per uur, genoeg voor een grote woonkamer", "Kleurring en app tonen fijnstof, gas en allergenen", "Slaapstand op 15 dB is nauwelijks hoorbaar", "Filter gaat drie jaar mee"],
-      "cons": ["Vervangingsfilter kost rond de 70 euro", "Hoog, 65 centimeter", "Op de hoogste stand luid, 55 dB"],
+      "specs": {
+        "CADR": "520 m3/u",
+        "Ruimte": "tot 135 m2",
+        "Filter": "HEPA + actiefkool",
+        "Geluid min": "15 dB",
+        "App": "Ja, Air+"
+      },
+      "pros": [
+        "Reinigt 520 kubieke meter lucht per uur, genoeg voor een grote woonkamer",
+        "Kleurring en app tonen fijnstof, gas en allergenen",
+        "Slaapstand op 15 dB is nauwelijks hoorbaar",
+        "Filter gaat drie jaar mee"
+      ],
+      "cons": [
+        "Vervangingsfilter kost rond de 70 euro",
+        "Hoog, 65 centimeter",
+        "Op de hoogste stand luid, 55 dB"
+      ],
       "ideal": "Een woonkamer of open keuken van 40 tot 80 vierkante meter waar je fijnstof en kookgeur wilt aanpakken.",
       "text": "Philips maakt al jaren de meest verkochte luchtreinigers van Nederland en de Series 3000i is het model dat alles goed doet. De reinigingscapaciteit van 520 kubieke meter per uur betekent dat een woonkamer van 50 vierkante meter in een kwartier schoon is. De sensor meet fijnstof tot 2,5 micrometer, gassen en allergenen apart en toont de luchtkwaliteit met een kleurring en in de app.\n\nIn de automatische stand regelt het apparaat zelf de snelheid. Gebruikers melden dat hij bij koken of stofzuigen direct opschakelt en daarna weer terugvalt naar een fluisterstille stand. De slaapstand van 15 decibel hoor je niet. Het gecombineerde filter van HEPA en actiefkool hoeft maar eens per drie jaar vervangen te worden, wat de hoge filterprijs relativeert. Mensen met hooikoorts noemen in reviews vaak dat ze binnen weer vrij ademen. Het apparaat is fors, maar voor een grote ruimte is dit de meest complete keuze."
     },
     {
-      "brand": "Levoit", "name": "Core 300S", "price": 129, "score": 8.9, "label": "Beste prijs-kwaliteit", "reviews": "7.400+ reviews",
+      "brand": "Levoit",
+      "name": "Core 300S",
+      "price": 149.0,
+      "score": 8.9,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "7.400+ reviews",
       "oneliner": "Compacte, stille luchtreiniger voor de slaapkamer met goedkope filters.",
-      "specs": {"CADR": "240 m3/u", "Ruimte": "tot 40 m2", "Filter": "HEPA H13 + actiefkool", "Geluid min": "22 dB", "App": "Ja, VeSync"},
-      "pros": ["Scherpe prijs voor een slim apparaat", "Vervangingsfilter kost rond de 30 euro", "Compact, past op een nachtkastje", "Werkt met Alexa en Google Home"],
-      "cons": ["Te klein voor een grote woonkamer", "Sensor minder nauwkeurig dan die van Philips", "Display niet dimbaar in alle standen"],
+      "specs": {
+        "CADR": "240 m3/u",
+        "Ruimte": "tot 40 m2",
+        "Filter": "HEPA H13 + actiefkool",
+        "Geluid min": "22 dB",
+        "App": "Ja, VeSync"
+      },
+      "pros": [
+        "Scherpe prijs voor een slim apparaat",
+        "Vervangingsfilter kost rond de 30 euro",
+        "Compact, past op een nachtkastje",
+        "Werkt met Alexa en Google Home"
+      ],
+      "cons": [
+        "Te klein voor een grote woonkamer",
+        "Sensor minder nauwkeurig dan die van Philips",
+        "Display niet dimbaar in alle standen"
+      ],
       "ideal": "Een slaapkamer, studeerkamer of kinderkamer tot 25 vierkante meter.",
-      "text": "De Levoit Core 300S is wereldwijd een van de best verkochte luchtreinigers en in Nederland niet anders. Het apparaat is een cilinder van 36 centimeter hoog die 240 kubieke meter lucht per uur door een HEPA H13-filter trekt. Voor een slaapkamer van 15 tot 20 vierkante meter is dat ruim voldoende om de lucht vier tot vijf keer per uur te verversen. Het filter combineert HEPA, actiefkool en een voorfilter in één cilinder.\n\nDe vervangingsfilters kosten rond de 30 euro en gaan zes tot acht maanden mee, waarmee de Levoit de laagste gebruikskosten in deze lijst heeft. De slaapstand van 22 decibel is zacht genoeg om naast te slapen. Via de VeSync-app stel je schema's in en zie je de luchtkwaliteit, al is de sensor wat grover dan die van duurdere modellen. Gebruikers met hooikoorts of een kat op de slaapkamer melden massaal verbetering. Voor een woonkamer is hij te klein, daarvoor heeft Levoit de Core 600S."
+      "text": "De Levoit Core 300S is wereldwijd een van de best verkochte luchtreinigers en in Nederland niet anders. Het apparaat is een cilinder van 36 centimeter hoog die 240 kubieke meter lucht per uur door een HEPA H13-filter trekt. Voor een slaapkamer van 15 tot 20 vierkante meter is dat ruim voldoende om de lucht vier tot vijf keer per uur te verversen. Het filter combineert HEPA, actiefkool en een voorfilter in één cilinder.\n\nDe vervangingsfilters kosten rond de 30 euro en gaan zes tot acht maanden mee, waarmee de Levoit de laagste gebruikskosten in deze lijst heeft. De slaapstand van 22 decibel is zacht genoeg om naast te slapen. Via de VeSync-app stel je schema's in en zie je de luchtkwaliteit, al is de sensor wat grover dan die van duurdere modellen. Gebruikers met hooikoorts of een kat op de slaapkamer melden massaal verbetering. Voor een woonkamer is hij te klein, daarvoor heeft Levoit de Core 600S.",
+      "ean": "0810043373814",
+      "url": "https://www.bol.com/nl/nl/p/levoit-core-300s-luchtreiniger/9300000074133165/",
+      "image": "https://media.s-bol.com/Rrl6YnDZ9NG0/zGM2kO/550x655.jpg",
+      "synced": "2026-10-13",
+      "bol_title": "Levoit Core 300S - Slimme Luchtreiniger"
     },
     {
-      "brand": "Dyson", "name": "Purifier Cool Formaldehyde TP09", "price": 649, "score": 9.0, "label": "Beste premium", "reviews": "1.100+ reviews",
+      "brand": "Dyson",
+      "name": "Purifier Cool Formaldehyde TP09",
+      "price": 649,
+      "score": 9.0,
+      "label": "Beste premium",
+      "reviews": "1.100+ reviews",
       "oneliner": "Reinigt, koelt en breekt formaldehyde af, met 350 graden luchtstroom.",
-      "specs": {"CADR": "ca. 290 m3/u", "Ruimte": "tot 80 m2", "Filter": "HEPA H13 + katalytisch", "Geluid min": "ca. 25 dB", "App": "Ja, MyDyson"},
-      "pros": ["Werkt in de zomer als krachtige ventilator", "Katalytisch filter breekt formaldehyde af zonder verzadiging", "Lcd-scherm toont elke stof afzonderlijk", "Volledig afgesloten filtersysteem, geen lekkage"],
-      "cons": ["Duurste in deze lijst", "Reinigingscapaciteit lager dan goedkopere Philips", "Ventilator in de winter minder nuttig"],
+      "specs": {
+        "CADR": "ca. 290 m3/u",
+        "Ruimte": "tot 80 m2",
+        "Filter": "HEPA H13 + katalytisch",
+        "Geluid min": "ca. 25 dB",
+        "App": "Ja, MyDyson"
+      },
+      "pros": [
+        "Werkt in de zomer als krachtige ventilator",
+        "Katalytisch filter breekt formaldehyde af zonder verzadiging",
+        "Lcd-scherm toont elke stof afzonderlijk",
+        "Volledig afgesloten filtersysteem, geen lekkage"
+      ],
+      "cons": [
+        "Duurste in deze lijst",
+        "Reinigingscapaciteit lager dan goedkopere Philips",
+        "Ventilator in de winter minder nuttig"
+      ],
       "ideal": "Wie één apparaat wil dat in de zomer koelt en het hele jaar de lucht reinigt, inclusief gassen uit nieuwe meubels.",
       "text": "De Dyson Purifier Cool Formaldehyde is twee apparaten in één: een luchtreiniger met HEPA H13-filter en een bladloze ventilator die lucht tot zes meter de kamer in blaast. In de zomer koelt hij, in de winter draai je de luchtstroom om zodat je geen tocht voelt. Het bijzondere zit in het katalytische filter dat formaldehyde afbreekt, een gas dat vrijkomt uit nieuwe meubels, laminaat en verf en dat gewone koolfilters snel verzadigt.\n\nHet lcd-scherm toont fijnstof, stikstofdioxide, vluchtige stoffen en formaldehyde afzonderlijk, met een grafiek over de dag. Gebruikers prijzen de afwerking, het stille draaien in de nachtstand en de 350 graden draaihoek die de hele kamer bedient. De pure reinigingscapaciteit is lager dan die van de Philips 3000i die bijna de helft kost. Je betaalt dus voor het design, de ventilator en de formaldehydefunctie. Wie dat alle drie waardeert, krijgt een apparaat dat jarenlang meegaat en volledig afgesloten is, zodat er geen vuile lucht langs het filter lekt."
     },
     {
-      "brand": "Blueair", "name": "Blue Max 3250i", "price": 229, "score": 8.8, "label": null, "reviews": "1.900+ reviews",
+      "brand": "Blueair",
+      "name": "Blue Max 3250i",
+      "price": 124.95,
+      "score": 8.8,
+      "label": null,
+      "reviews": "1.900+ reviews",
       "oneliner": "Zweedse luchtreiniger met wasbare stoffen voorfilter en app.",
-      "specs": {"CADR": "ca. 360 m3/u", "Ruimte": "tot 48 m2", "Filter": "HEPASilent + actiefkool", "Geluid min": "23 dB", "App": "Ja, Blueair"},
-      "pros": ["Stoffen voorfilter in kleuren, past in het interieur", "Zeer stil op lage stand", "Lage energiekosten, 2 tot 30 watt", "Automatische stand met fijnstofsensor"],
-      "cons": ["Filter gaat maar zes tot negen maanden mee", "Geen aparte gasmeting", "Sensor reageert wat traag"],
+      "specs": {
+        "CADR": "ca. 360 m3/u",
+        "Ruimte": "tot 48 m2",
+        "Filter": "HEPASilent + actiefkool",
+        "Geluid min": "23 dB",
+        "App": "Ja, Blueair"
+      },
+      "pros": [
+        "Stoffen voorfilter in kleuren, past in het interieur",
+        "Zeer stil op lage stand",
+        "Lage energiekosten, 2 tot 30 watt",
+        "Automatische stand met fijnstofsensor"
+      ],
+      "cons": [
+        "Filter gaat maar zes tot negen maanden mee",
+        "Geen aparte gasmeting",
+        "Sensor reageert wat traag"
+      ],
       "ideal": "Een woonkamer tot 40 vierkante meter waar het apparaat niet mag opvallen.",
-      "text": "Blueair is een Zweeds merk dat luchtreinigers maakt die eruitzien als een meubelstuk. De Blue Max 3250i heeft een stoffen voorfilter dat je in verschillende kleuren kunt kopen en in de wasmachine stopt. Daaronder zit het HEPASilent-filter dat elektrostatisch laden combineert met een mechanisch filter, waardoor hij met minder weerstand en dus stiller werkt dan een klassieke HEPA.\n\nDe reinigingscapaciteit van zo'n 360 kubieke meter per uur is ruim voldoende voor een woonkamer van 30 tot 40 vierkante meter. Op de laagste stand hoor je hem met 23 decibel nauwelijks en het verbruik is slechts 2 watt. Via de app zie je de fijnstofwaarde en stel je een nachtstand in. Gebruikers prijzen vooral het stille werken en het uiterlijk. Het filter moet vaker vervangen worden dan bij Philips, zo'n twee keer per jaar voor rond de 35 euro. Een goede keuze voor wie techniek wil zonder dat het eruitziet als techniek."
+      "text": "Blueair is een Zweeds merk dat luchtreinigers maakt die eruitzien als een meubelstuk. De Blue Max 3250i heeft een stoffen voorfilter dat je in verschillende kleuren kunt kopen en in de wasmachine stopt. Daaronder zit het HEPASilent-filter dat elektrostatisch laden combineert met een mechanisch filter, waardoor hij met minder weerstand en dus stiller werkt dan een klassieke HEPA.\n\nDe reinigingscapaciteit van zo'n 360 kubieke meter per uur is ruim voldoende voor een woonkamer van 30 tot 40 vierkante meter. Op de laagste stand hoor je hem met 23 decibel nauwelijks en het verbruik is slechts 2 watt. Via de app zie je de fijnstofwaarde en stel je een nachtstand in. Gebruikers prijzen vooral het stille werken en het uiterlijk. Het filter moet vaker vervangen worden dan bij Philips, zo'n twee keer per jaar voor rond de 35 euro. Een goede keuze voor wie techniek wil zonder dat het eruitziet als techniek.",
+      "ean": "2484118779887",
+      "bol_title": "Vervangingsfilters voor BLUEAIR Blue Max 3250 Car & 3250i, 2-Pack H13 HEPA Actieve Koolstof",
+      "url": "https://www.bol.com/nl/nl/p/vervangingsfilters-voor-blueair-blue-max-3250-car-3250i-2-pack-h13-hepa-actieve-koolstof/9300000403863074/",
+      "image": "https://media.s-bol.com/oxK14oZ079Nz/vQ9q2jV/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Xiaomi", "name": "Smart Air Purifier 4 Pro", "price": 199, "score": 8.6, "label": null, "reviews": "2.200+ reviews",
+      "brand": "Xiaomi",
+      "name": "Smart Air Purifier 4 Pro",
+      "price": 163.83,
+      "score": 8.6,
+      "label": null,
+      "reviews": "2.200+ reviews",
       "oneliner": "Veel capaciteit en een oled-scherm voor een middenklasseprijs.",
-      "specs": {"CADR": "500 m3/u", "Ruimte": "tot 60 m2", "Filter": "HEPA H13 + actiefkool", "Geluid min": "ca. 33 dB", "App": "Ja, Mi Home"},
-      "pros": ["500 kubieke meter per uur voor minder dan 200 euro", "Oled-aanraakscherm met fijnstofwaarde", "Lasersensor is nauwkeurig", "Werkt met Google Home en Alexa"],
-      "cons": ["Laagste stand luider dan de concurrentie", "Filter kost rond de 50 euro", "App vraagt veel rechten"],
+      "specs": {
+        "CADR": "500 m3/u",
+        "Ruimte": "tot 60 m2",
+        "Filter": "HEPA H13 + actiefkool",
+        "Geluid min": "ca. 33 dB",
+        "App": "Ja, Mi Home"
+      },
+      "pros": [
+        "500 kubieke meter per uur voor minder dan 200 euro",
+        "Oled-aanraakscherm met fijnstofwaarde",
+        "Lasersensor is nauwkeurig",
+        "Werkt met Google Home en Alexa"
+      ],
+      "cons": [
+        "Laagste stand luider dan de concurrentie",
+        "Filter kost rond de 50 euro",
+        "App vraagt veel rechten"
+      ],
       "ideal": "Een grote woonkamer of open ruimte waar je maximale capaciteit wilt voor een scherpe prijs.",
-      "text": "Xiaomi levert met de Smart Air Purifier 4 Pro de meeste reinigingscapaciteit per euro in deze lijst. Met 500 kubieke meter per uur zit hij dicht bij de Philips 3000i die het dubbele kost. De lasersensor meet fijnstof nauwkeurig en toont de waarde op een rond oled-aanraakscherm aan de voorkant, samen met temperatuur en luchtvochtigheid. Het HEPA H13-filter met actiefkool zit in een cilinder die je van onderen vervangt.\n\nHet apparaat is ontworpen voor grote ruimtes en dat merk je aan het geluid: op de laagste stand is hij met 33 decibel hoorbaar, al gaan de meeste gebruikers er prima naast slapen. Op vol vermogen blaast hij flink. De Mi Home-app werkt goed en koppelt met spraakassistenten, maar vraagt wel veel toestemmingen op je telefoon. Reviews noemen vooral de snelheid waarmee kookgeur verdwijnt. Wie een grote ruimte heeft en geen 400 euro wil uitgeven, komt hier uit."
+      "text": "Xiaomi levert met de Smart Air Purifier 4 Pro de meeste reinigingscapaciteit per euro in deze lijst. Met 500 kubieke meter per uur zit hij dicht bij de Philips 3000i die het dubbele kost. De lasersensor meet fijnstof nauwkeurig en toont de waarde op een rond oled-aanraakscherm aan de voorkant, samen met temperatuur en luchtvochtigheid. Het HEPA H13-filter met actiefkool zit in een cilinder die je van onderen vervangt.\n\nHet apparaat is ontworpen voor grote ruimtes en dat merk je aan het geluid: op de laagste stand is hij met 33 decibel hoorbaar, al gaan de meeste gebruikers er prima naast slapen. Op vol vermogen blaast hij flink. De Mi Home-app werkt goed en koppelt met spraakassistenten, maar vraagt wel veel toestemmingen op je telefoon. Reviews noemen vooral de snelheid waarmee kookgeur verdwijnt. Wie een grote ruimte heeft en geen 400 euro wil uitgeven, komt hier uit.",
+      "ean": "2919390431319",
+      "bol_title": "Compatibel met Xiaomi Smart Air Purifier 4 Pro HEPA H13 3 in 1 Filter met Actieve Koolstof Tegen Stof Pollen Huisdierharen Rook en Geuren",
+      "url": "https://www.bol.com/nl/nl/p/compatibel-met-xiaomi-smart-air-purifier-4-pro-hepa-h13-3-in-1-filter-met-actieve-koolstof-tegen-stof-pollen-huisdierharen-rook-en-geuren/9300000389381043/",
+      "image": "https://media.s-bol.com/oxvY76Dv1q73/579r8zX/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Winix", "name": "Zero Pro", "price": 229, "score": 8.5, "label": null, "reviews": "1.300+ reviews",
+      "brand": "Winix",
+      "name": "Zero Pro",
+      "price": 121.51,
+      "score": 8.5,
+      "label": null,
+      "reviews": "1.300+ reviews",
       "oneliner": "Koreaanse luchtreiniger met PlasmaWave en wasbaar koolfilter.",
-      "specs": {"CADR": "470 m3/u", "Ruimte": "tot 120 m2", "Filter": "HEPA + wasbaar koolfilter", "Geluid min": "27 dB", "App": "Nee"},
-      "pros": ["Grote capaciteit voor een middenklasseprijs", "Koolfilter is wasbaar, bespaart geld", "Geur- en fijnstofsensor met automatische stand", "Volledig te bedienen zonder app"],
-      "cons": ["Geen app of wifi", "Vrij groot en vierkant", "PlasmaWave-functie is omstreden, maar uitschakelbaar"],
+      "specs": {
+        "CADR": "470 m3/u",
+        "Ruimte": "tot 120 m2",
+        "Filter": "HEPA + wasbaar koolfilter",
+        "Geluid min": "27 dB",
+        "App": "Nee"
+      },
+      "pros": [
+        "Grote capaciteit voor een middenklasseprijs",
+        "Koolfilter is wasbaar, bespaart geld",
+        "Geur- en fijnstofsensor met automatische stand",
+        "Volledig te bedienen zonder app"
+      ],
+      "cons": [
+        "Geen app of wifi",
+        "Vrij groot en vierkant",
+        "PlasmaWave-functie is omstreden, maar uitschakelbaar"
+      ],
       "ideal": "Wie een krachtige luchtreiniger wil zonder app en met lage onderhoudskosten.",
-      "text": "Winix is een Koreaans merk dat in Nederland een trouwe aanhang heeft onder allergiepatiënten. De Zero Pro combineert een HEPA-filter met een wasbaar koolfilter en een voorfilter. Het koolfilter spoel je elke paar maanden af in plaats van het te vervangen, wat de gebruikskosten verlaagt. De capaciteit van 470 kubieke meter per uur is genoeg voor een grote woonkamer.\n\nHet apparaat heeft een fijnstof- en een geursensor en regelt in de automatische stand zelf de snelheid. Er is geen app, alles gaat via de knoppen bovenop en een afstandsbediening. Veel gebruikers zien dat als voordeel. De PlasmaWave-functie maakt geladen deeltjes die geuren en bacteriën moeten afbreken, maar kun je uitschakelen als je er geen vertrouwen in hebt. Reviews prijzen de snelle verbetering bij hooikoorts en huisdierengeur. Het ontwerp is wat zakelijk, maar voor de prijs krijg je veel schone lucht."
+      "text": "Winix is een Koreaans merk dat in Nederland een trouwe aanhang heeft onder allergiepatiënten. De Zero Pro combineert een HEPA-filter met een wasbaar koolfilter en een voorfilter. Het koolfilter spoel je elke paar maanden af in plaats van het te vervangen, wat de gebruikskosten verlaagt. De capaciteit van 470 kubieke meter per uur is genoeg voor een grote woonkamer.\n\nHet apparaat heeft een fijnstof- en een geursensor en regelt in de automatische stand zelf de snelheid. Er is geen app, alles gaat via de knoppen bovenop en een afstandsbediening. Veel gebruikers zien dat als voordeel. De PlasmaWave-functie maakt geladen deeltjes die geuren en bacteriën moeten afbreken, maar kun je uitschakelen als je er geen vertrouwen in hebt. Reviews prijzen de snelle verbetering bij hooikoorts en huisdierengeur. Het ontwerp is wat zakelijk, maar voor de prijs krijg je veel schone lucht.",
+      "ean": "2518885843325",
+      "bol_title": "Luchtreiniger HEPA-filter vervanging voor Winix HR950 & HR1000 ZERO PRO ZERO/j luchtreiniger Echte HEPA-filter en actieve koolfilter vervanging Vergelijken met onderdeel # 117130",
+      "url": "https://www.bol.com/nl/nl/p/luchtreiniger-hepa-filter-vervanging-voor-winix-hr950-hr1000-zero-pro-zero-j-luchtreiniger-echte-hepa-filter-en-actieve-koolfilter-vervanging-vergelijken-met-onderdeel-117130/9300000389611556/",
+      "image": "https://media.s-bol.com/V35nKOVpy7mo/K8ZgqMJ/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Philips", "name": "Series 800 AC0830/10", "price": 119, "score": 8.3, "label": null, "reviews": "4.600+ reviews",
+      "brand": "Philips",
+      "name": "Series 800 AC0830/10",
+      "price": 112.83,
+      "score": 8.3,
+      "label": null,
+      "reviews": "4.600+ reviews",
       "oneliner": "Kleine Philips voor de slaapkamer met kleurindicatie en nachtstand.",
-      "specs": {"CADR": "190 m3/u", "Ruimte": "tot 49 m2", "Filter": "HEPA + actiefkool", "Geluid min": "19 dB", "App": "Nee"},
-      "pros": ["Betrouwbaar merk met goed verkrijgbare filters", "Kleurring toont luchtkwaliteit in één blik", "Slaapstand van 19 dB", "Compact en licht"],
-      "cons": ["Alleen voor kleine ruimtes", "Geen app", "Filter kost relatief veel voor dit formaat"],
+      "specs": {
+        "CADR": "190 m3/u",
+        "Ruimte": "tot 49 m2",
+        "Filter": "HEPA + actiefkool",
+        "Geluid min": "19 dB",
+        "App": "Nee"
+      },
+      "pros": [
+        "Betrouwbaar merk met goed verkrijgbare filters",
+        "Kleurring toont luchtkwaliteit in één blik",
+        "Slaapstand van 19 dB",
+        "Compact en licht"
+      ],
+      "cons": [
+        "Alleen voor kleine ruimtes",
+        "Geen app",
+        "Filter kost relatief veel voor dit formaat"
+      ],
       "ideal": "Een slaapkamer of kinderkamer waar je een bekend merk zonder app wilt.",
-      "text": "De Philips Series 800 is de kleine broer van de 3000i en bedoeld voor een slaapkamer of kleine woonkamer. Met 190 kubieke meter per uur ververst hij de lucht in een kamer van 20 vierkante meter zo'n vier keer per uur. Het filter combineert HEPA en actiefkool en gaat ongeveer een jaar mee. De fijnstofsensor toont de luchtkwaliteit met een kleurring van blauw tot rood.\n\nHet apparaat heeft geen app, wat het eenvoudig maakt: aanzetten, automatische stand kiezen en vergeten. De slaapstand van 19 decibel is stil genoeg om naast te slapen en dimt het licht. Met duizenden reviews is dit een van de meest gekochte luchtreinigers van Nederland en gebruikers melden vooral minder nachtelijk niezen en frissere lucht in de ochtend. Het vervangingsfilter kost rond de 40 euro, wat voor dit formaat aan de hoge kant is. Voor wie Philips vertrouwt en een kleine ruimte wil reinigen is dit een veilige keuze."
+      "text": "De Philips Series 800 is de kleine broer van de 3000i en bedoeld voor een slaapkamer of kleine woonkamer. Met 190 kubieke meter per uur ververst hij de lucht in een kamer van 20 vierkante meter zo'n vier keer per uur. Het filter combineert HEPA en actiefkool en gaat ongeveer een jaar mee. De fijnstofsensor toont de luchtkwaliteit met een kleurring van blauw tot rood.\n\nHet apparaat heeft geen app, wat het eenvoudig maakt: aanzetten, automatische stand kiezen en vergeten. De slaapstand van 19 decibel is stil genoeg om naast te slapen en dimt het licht. Met duizenden reviews is dit een van de meest gekochte luchtreinigers van Nederland en gebruikers melden vooral minder nachtelijk niezen en frissere lucht in de ochtend. Het vervangingsfilter kost rond de 40 euro, wat voor dit formaat aan de hoge kant is. Voor wie Philips vertrouwt en een kleine ruimte wil reinigen is dit een veilige keuze.",
+      "ean": "2878698770059",
+      "bol_title": "Vervangingsfilter compatibel met Philips 800 Series AC0830/10 AC0820/10 AC0820/30 AC0819/10 luchtreiniger, 3-in-1 HEPA & actieve koolfilter AC0830, onderdeelnummer FY0293/30 FY019 4/30",
+      "url": "https://www.bol.com/nl/nl/p/vervangingsfilter-compatibel-met-philips-800-series-ac0830-10-ac0820-10-ac0820-30-ac0819-10-luchtreiniger-3-in-1-hepa-actieve-koolfilter-ac0830-onderdeelnummer-fy0293-30-fy019-4-30/9300000389585855/",
+      "image": "https://media.s-bol.com/oxvXyZMg0z7K/MZQ2DBm/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Levoit", "name": "Core 600S", "price": 249, "score": 8.7, "label": null, "reviews": "2.600+ reviews",
+      "brand": "Levoit",
+      "name": "Core 600S",
+      "price": 105.95,
+      "score": 8.7,
+      "label": null,
+      "reviews": "2.600+ reviews",
       "oneliner": "De grote Levoit: 410 kubieke meter per uur voor de woonkamer.",
-      "specs": {"CADR": "410 m3/u", "Ruimte": "tot 70 m2", "Filter": "HEPA H13 + actiefkool", "Geluid min": "26 dB", "App": "Ja, VeSync"},
-      "pros": ["Veel capaciteit voor de prijs", "Lasersensor met fijnstofwaarde op het display", "Dezelfde goede app als de Core 300S", "Filter rond de 50 euro, gaat een jaar mee"],
-      "cons": ["Fors formaat", "Hoogste stand luid, 54 dB", "Geen gasmeting"],
+      "specs": {
+        "CADR": "410 m3/u",
+        "Ruimte": "tot 70 m2",
+        "Filter": "HEPA H13 + actiefkool",
+        "Geluid min": "26 dB",
+        "App": "Ja, VeSync"
+      },
+      "pros": [
+        "Veel capaciteit voor de prijs",
+        "Lasersensor met fijnstofwaarde op het display",
+        "Dezelfde goede app als de Core 300S",
+        "Filter rond de 50 euro, gaat een jaar mee"
+      ],
+      "cons": [
+        "Fors formaat",
+        "Hoogste stand luid, 54 dB",
+        "Geen gasmeting"
+      ],
       "ideal": "Een woonkamer tot 50 vierkante meter waar je de lage filterkosten van Levoit wilt.",
-      "text": "Wie de Core 300S te klein vindt voor de woonkamer kan bij Levoit terecht voor de Core 600S. Het apparaat is een flink grotere cilinder met een reinigingscapaciteit van 410 kubieke meter per uur, genoeg voor een woonkamer van 40 tot 50 vierkante meter. Het HEPA H13-filter met actiefkool gaat ongeveer een jaar mee en kost rond de 50 euro, waardoor de gebruikskosten laag blijven.\n\nDe lasersensor toont de fijnstofwaarde op het display en regelt in de automatische stand de snelheid. De laagste stand is met 26 decibel stil genoeg voor een woonkamer in de avond, de hoogste stand blaast hard en hoorbaar. Via de VeSync-app stel je schema's in en koppel je met Alexa of Google. Gebruikers prijzen de snelheid waarmee kookgeur en rook verdwijnen. Het apparaat is groot en wit en valt op in de kamer, dat is het belangrijkste bezwaar. Als tegenhanger van de Philips 3000i voor 150 euro minder is hij lastig te negeren."
+      "text": "Wie de Core 300S te klein vindt voor de woonkamer kan bij Levoit terecht voor de Core 600S. Het apparaat is een flink grotere cilinder met een reinigingscapaciteit van 410 kubieke meter per uur, genoeg voor een woonkamer van 40 tot 50 vierkante meter. Het HEPA H13-filter met actiefkool gaat ongeveer een jaar mee en kost rond de 50 euro, waardoor de gebruikskosten laag blijven.\n\nDe lasersensor toont de fijnstofwaarde op het display en regelt in de automatische stand de snelheid. De laagste stand is met 26 decibel stil genoeg voor een woonkamer in de avond, de hoogste stand blaast hard en hoorbaar. Via de VeSync-app stel je schema's in en koppel je met Alexa of Google. Gebruikers prijzen de snelheid waarmee kookgeur en rook verdwijnen. Het apparaat is groot en wit en valt op in de kamer, dat is het belangrijkste bezwaar. Als tegenhanger van de Philips 3000i voor 150 euro minder is hij lastig te negeren.",
+      "ean": "2399815637883",
+      "bol_title": "Core 600S Replacement Filter for LEVOIT Core 600S & Core 600S-P Air Purifier, 3-in-1 H13 True HEPA Core 600S-RF - ShopVlot",
+      "url": "https://www.bol.com/nl/nl/p/core-600s-replacement-filter-for-levoit-core-600s-core-600s-p-air-purifier-3-in-1-h13-true-hepa-core-600s-rf-shopvlot/9300000359762392/",
+      "image": "https://media.s-bol.com/8QB9zv46QZ0r/Z88NO45/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Coway", "name": "Airmega 150", "price": 199, "score": 8.4, "label": null, "reviews": "780+ reviews",
+      "brand": "Coway",
+      "name": "Airmega 150",
+      "price": 219.99,
+      "score": 8.4,
+      "label": null,
+      "reviews": "780+ reviews",
       "oneliner": "Compacte Koreaanse luchtreiniger met vierlaags filter en stille werking.",
-      "specs": {"CADR": "ca. 300 m3/u", "Ruimte": "tot 33 m2", "Filter": "HEPA + actiefkool, 4 lagen", "Geluid min": "ca. 20 dB", "App": "Nee"},
-      "pros": ["Zeer stil op de lage stand", "Fijnstofsensor met kleurring en automatische stand", "Filterindicator vertelt wanneer je moet vervangen", "Strak ontwerp dat weinig ruimte inneemt"],
-      "cons": ["Geen app", "Filters minder breed verkrijgbaar", "Hoge stand hoorbaar"],
+      "specs": {
+        "CADR": "ca. 300 m3/u",
+        "Ruimte": "tot 33 m2",
+        "Filter": "HEPA + actiefkool, 4 lagen",
+        "Geluid min": "ca. 20 dB",
+        "App": "Nee"
+      },
+      "pros": [
+        "Zeer stil op de lage stand",
+        "Fijnstofsensor met kleurring en automatische stand",
+        "Filterindicator vertelt wanneer je moet vervangen",
+        "Strak ontwerp dat weinig ruimte inneemt"
+      ],
+      "cons": [
+        "Geen app",
+        "Filters minder breed verkrijgbaar",
+        "Hoge stand hoorbaar"
+      ],
       "ideal": "Een slaapkamer of kleine woonkamer waar stilte voorop staat.",
-      "text": "Coway is in Korea marktleider en wint in Europa langzaam terrein met apparaten die vooral opvallen door hun stilte. De Airmega 150 is een compacte luchtreiniger voor ruimtes tot ongeveer 30 vierkante meter. Het filter bestaat uit vier lagen: een wasbaar voorfilter, een geurfilter, een actiefkoollaag en een HEPA-laag. Een indicator geeft aan wanneer het filter aan vervanging toe is.\n\nDe laagste stand is met 20 decibel nauwelijks hoorbaar en de fijnstofsensor regelt in de automatische stand de snelheid, zichtbaar via een kleurring. Er is geen app en geen wifi, de bediening zit bovenop. Gebruikers prijzen de stilte en het strakke uiterlijk, dat eerder op een luidspreker lijkt dan op een luchtreiniger. Filters zijn in Nederland minder breed verkrijgbaar dan die van Philips of Levoit, dus bestel er bij aankoop meteen een bij. Een goede keuze voor een slaapkamer waar je niets wilt horen."
+      "text": "Coway is in Korea marktleider en wint in Europa langzaam terrein met apparaten die vooral opvallen door hun stilte. De Airmega 150 is een compacte luchtreiniger voor ruimtes tot ongeveer 30 vierkante meter. Het filter bestaat uit vier lagen: een wasbaar voorfilter, een geurfilter, een actiefkoollaag en een HEPA-laag. Een indicator geeft aan wanneer het filter aan vervanging toe is.\n\nDe laagste stand is met 20 decibel nauwelijks hoorbaar en de fijnstofsensor regelt in de automatische stand de snelheid, zichtbaar via een kleurring. Er is geen app en geen wifi, de bediening zit bovenop. Gebruikers prijzen de stilte en het strakke uiterlijk, dat eerder op een luidspreker lijkt dan op een luchtreiniger. Filters zijn in Nederland minder breed verkrijgbaar dan die van Philips of Levoit, dus bestel er bij aankoop meteen een bij. Een goede keuze voor een slaapkamer waar je niets wilt horen.",
+      "ean": "8809466829130",
+      "bol_title": "Coway Airmega 150 Luchtreiniger - Voor ruimtes tot 73m² - HEPA filter + koolstoffilter + Wasbaar pre-filter - 281 m³/u - Tegen stof, pollen en allergenen - Fluisterstil (20 dB) - ECARF & Quiet Mark gecertificeerd - Wit",
+      "url": "https://www.bol.com/nl/nl/p/coway-airmega-150-luchtreiniger-met-greenhepa-technologie-wit/9300000075750686/",
+      "image": "https://media.s-bol.com/qXgln7xLW3Bk/N3BXLv/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "IKEA", "name": "Förnuftig Luchtreiniger", "price": 69, "score": 7.8, "label": null, "reviews": "3.100+ reviews",
+      "brand": "IKEA",
+      "name": "Förnuftig Luchtreiniger",
+      "price": 69,
+      "score": 7.8,
+      "label": null,
+      "reviews": "3.100+ reviews",
       "oneliner": "Goedkoopste luchtreiniger met fijnstoffilter, hangt ook aan de muur.",
-      "specs": {"CADR": "ca. 100 m3/u", "Ruimte": "tot 10 m2", "Filter": "Fijnstoffilter + optioneel gasfilter", "Geluid min": "ca. 25 dB", "App": "Nee"},
-      "pros": ["Laagste prijs in deze lijst", "Kan aan de muur hangen of staan", "Filters kosten rond de 10 euro", "Ziet eruit als een designobject"],
-      "cons": ["Te klein voor meer dan een kleine kamer", "Geen sensor of automatische stand", "Filter is geen echte HEPA"],
+      "specs": {
+        "CADR": "ca. 100 m3/u",
+        "Ruimte": "tot 10 m2",
+        "Filter": "Fijnstoffilter + optioneel gasfilter",
+        "Geluid min": "ca. 25 dB",
+        "App": "Nee"
+      },
+      "pros": [
+        "Laagste prijs in deze lijst",
+        "Kan aan de muur hangen of staan",
+        "Filters kosten rond de 10 euro",
+        "Ziet eruit als een designobject"
+      ],
+      "cons": [
+        "Te klein voor meer dan een kleine kamer",
+        "Geen sensor of automatische stand",
+        "Filter is geen echte HEPA"
+      ],
       "ideal": "Een kleine studeerkamer, kinderkamer of toilet waar je iets wilt doen aan stof en pollen voor weinig geld.",
       "text": "De IKEA Förnuftig laat zien dat een luchtreiniger niet duur hoeft te zijn. Het is een plat, rechthoekig apparaat in een houtlook frame dat je neerzet of aan de muur hangt. Het fijnstoffilter vangt deeltjes tot 2,5 micrometer en je kunt er een apart gasfilter bij kopen tegen geurtjes. Filters kosten rond de 10 euro en gaan een half jaar mee.\n\nDe capaciteit is bescheiden: ongeveer 100 kubieke meter per uur, genoeg voor een kamer van 8 tot 10 vierkante meter. Er is geen sensor, je kiest zelf een van de drie standen met een draaiknop. Het filter is geen gecertificeerde HEPA, al vangt het volgens metingen het grootste deel van het fijnstof. Gebruikers kopen hem vooral voor een kinderkamer of werkkamer en zijn tevreden over de prijs en het uiterlijk. Verwacht geen wonderen bij hooikoorts in een grote kamer, maar als instap voor een kleine ruimte is dit een slimme koop."
     }
   ],
   "guide": [
-    {"h": "Wat betekent CADR en hoeveel heb je nodig?", "p": "CADR staat voor Clean Air Delivery Rate en geeft aan hoeveel kubieke meter schone lucht een apparaat per uur levert. Vuistregel: bereken de inhoud van je kamer in kubieke meter (oppervlakte maal hoogte) en vermenigvuldig met vier. Een woonkamer van 40 vierkante meter met een plafond van 2,6 meter heeft 104 kubieke meter inhoud en vraagt dus een CADR van ruim 400. Voor een slaapkamer van 15 vierkante meter volstaat 160 tot 200."},
-    {"h": "HEPA, actiefkool en wat ze doen", "p": "Een HEPA-filter vangt vaste deeltjes: fijnstof, pollen, huisstofmijt, schimmelsporen en huisdierenhaar. H13 vangt 99,95 procent van deeltjes van 0,3 micrometer. Actiefkool neemt gassen en geuren op, zoals kookgeur, rook en vluchtige stoffen uit meubels. Voor allergie is HEPA het belangrijkste. Voor geur heb je een dikke laag actiefkool nodig, een dun laagje raakt in weken verzadigd."},
-    {"h": "Geluid: let op de laagste stand", "p": "Fabrikanten noemen vaak het geluid van de laagste stand. Onder de 25 decibel kun je ernaast slapen, 30 tot 40 decibel is hoorbaar in een stille kamer en boven de 50 decibel is het een duidelijke ventilator. Een apparaat met een hoge CADR kan in de automatische stand rustig draaien en alleen opschakelen bij vuil. Een te klein apparaat moet juist voortdurend hard werken en is daardoor luider."},
-    {"h": "Filterkosten over vijf jaar", "p": "De aanschafprijs is maar een deel van het verhaal. Een filter kost 30 tot 70 euro en gaat zes maanden tot drie jaar mee. Over vijf jaar betaal je bij een goedkoop apparaat met dure filters soms meer dan bij een duurder apparaat met lange filterlevensduur. Reken uit: filterprijs gedeeld door levensduur in jaren, maal vijf. Wasbare voorfilters en koolfilters zoals bij Winix en Blueair verlagen de kosten."},
-    {"h": "Sensor, app en automatische stand", "p": "Een fijnstofsensor met automatische stand is de nuttigste functie: het apparaat schakelt zelf op bij koken of stofzuigen en draait stil als de lucht schoon is. Een app voegt schema's, luchtkwaliteitsgrafieken en spraakbediening toe. Dat is handig maar niet noodzakelijk. Een kleurring op het apparaat vertelt je in één blik hoe schoon de lucht is."},
-    {"h": "Waar zet je hem neer?", "p": "Zet de luchtreiniger in de kamer waar je de meeste tijd doorbrengt, dus overdag de woonkamer en 's nachts de slaapkamer, of koop er twee. Houd 30 centimeter afstand van muren en meubels zodat de lucht vrij kan circuleren. Sluit ramen en deuren niet hermetisch, maar laat ook niet voortdurend buitenlucht binnen tijdens het pollenseizoen. Laat het apparaat 24 uur per dag in de automatische stand draaien, dat kost een paar euro per maand."}
+    {
+      "h": "Wat betekent CADR en hoeveel heb je nodig?",
+      "p": "CADR staat voor Clean Air Delivery Rate en geeft aan hoeveel kubieke meter schone lucht een apparaat per uur levert. Vuistregel: bereken de inhoud van je kamer in kubieke meter (oppervlakte maal hoogte) en vermenigvuldig met vier. Een woonkamer van 40 vierkante meter met een plafond van 2,6 meter heeft 104 kubieke meter inhoud en vraagt dus een CADR van ruim 400. Voor een slaapkamer van 15 vierkante meter volstaat 160 tot 200."
+    },
+    {
+      "h": "HEPA, actiefkool en wat ze doen",
+      "p": "Een HEPA-filter vangt vaste deeltjes: fijnstof, pollen, huisstofmijt, schimmelsporen en huisdierenhaar. H13 vangt 99,95 procent van deeltjes van 0,3 micrometer. Actiefkool neemt gassen en geuren op, zoals kookgeur, rook en vluchtige stoffen uit meubels. Voor allergie is HEPA het belangrijkste. Voor geur heb je een dikke laag actiefkool nodig, een dun laagje raakt in weken verzadigd."
+    },
+    {
+      "h": "Geluid: let op de laagste stand",
+      "p": "Fabrikanten noemen vaak het geluid van de laagste stand. Onder de 25 decibel kun je ernaast slapen, 30 tot 40 decibel is hoorbaar in een stille kamer en boven de 50 decibel is het een duidelijke ventilator. Een apparaat met een hoge CADR kan in de automatische stand rustig draaien en alleen opschakelen bij vuil. Een te klein apparaat moet juist voortdurend hard werken en is daardoor luider."
+    },
+    {
+      "h": "Filterkosten over vijf jaar",
+      "p": "De aanschafprijs is maar een deel van het verhaal. Een filter kost 30 tot 70 euro en gaat zes maanden tot drie jaar mee. Over vijf jaar betaal je bij een goedkoop apparaat met dure filters soms meer dan bij een duurder apparaat met lange filterlevensduur. Reken uit: filterprijs gedeeld door levensduur in jaren, maal vijf. Wasbare voorfilters en koolfilters zoals bij Winix en Blueair verlagen de kosten."
+    },
+    {
+      "h": "Sensor, app en automatische stand",
+      "p": "Een fijnstofsensor met automatische stand is de nuttigste functie: het apparaat schakelt zelf op bij koken of stofzuigen en draait stil als de lucht schoon is. Een app voegt schema's, luchtkwaliteitsgrafieken en spraakbediening toe. Dat is handig maar niet noodzakelijk. Een kleurring op het apparaat vertelt je in één blik hoe schoon de lucht is."
+    },
+    {
+      "h": "Waar zet je hem neer?",
+      "p": "Zet de luchtreiniger in de kamer waar je de meeste tijd doorbrengt, dus overdag de woonkamer en 's nachts de slaapkamer, of koop er twee. Houd 30 centimeter afstand van muren en meubels zodat de lucht vrij kan circuleren. Sluit ramen en deuren niet hermetisch, maar laat ook niet voortdurend buitenlucht binnen tijdens het pollenseizoen. Laat het apparaat 24 uur per dag in de automatische stand draaien, dat kost een paar euro per maand."
+    }
   ],
   "faq": [
-    {"q": "Wat is de beste luchtreiniger van 2026?", "a": "Op basis van onze vergelijking is de Philips Series 3000i de beste luchtreiniger voor een woonkamer, met hoge capaciteit, een nauwkeurige sensor en een filter dat drie jaar meegaat. Voor een slaapkamer is de Levoit Core 300S de beste prijs-kwaliteit."},
-    {"q": "Helpt een luchtreiniger tegen hooikoorts?", "a": "Ja, mits de capaciteit past bij de kamer. Een HEPA-filter vangt pollen uit de lucht, waardoor klachten binnenshuis duidelijk afnemen. Zet het apparaat in de slaapkamer en laat het de hele dag draaien tijdens het pollenseizoen."},
-    {"q": "Hoe vaak moet je het filter vervangen?", "a": "Dat verschilt per merk: Levoit en Blueair elke zes tot twaalf maanden, Philips 800 ongeveer jaarlijks en Philips 3000i eens per drie jaar. Het apparaat geeft meestal zelf aan wanneer het tijd is. Stofzuig het voorfilter elke maand."},
-    {"q": "Hoeveel stroom verbruikt een luchtreiniger?", "a": "Op de laagste stand 2 tot 10 watt, op de hoogste stand 30 tot 60 watt. In de automatische stand kost 24 uur draaien ongeveer 2 tot 4 euro per maand aan stroom."},
-    {"q": "Kan een luchtreiniger de hele dag aan staan?", "a": "Ja, dat is zelfs de bedoeling. Fijnstof komt voortdurend binnen via kieren, kleding en ventilatie. Een apparaat in de automatische stand draait stil als de lucht schoon is en schakelt op zodra er vervuiling is."},
-    {"q": "Helpt een luchtreiniger tegen virussen en schimmel?", "a": "Een HEPA H13-filter vangt schimmelsporen en druppeltjes waarin virussen zitten. Het verlaagt de hoeveelheid in de lucht, maar vervangt geen ventilatie. Zorg altijd voor frisse buitenlucht naast de luchtreiniger."}
+    {
+      "q": "Wat is de beste luchtreiniger van 2026?",
+      "a": "Op basis van onze vergelijking is de Philips Series 3000i de beste luchtreiniger voor een woonkamer, met hoge capaciteit, een nauwkeurige sensor en een filter dat drie jaar meegaat. Voor een slaapkamer is de Levoit Core 300S de beste prijs-kwaliteit."
+    },
+    {
+      "q": "Helpt een luchtreiniger tegen hooikoorts?",
+      "a": "Ja, mits de capaciteit past bij de kamer. Een HEPA-filter vangt pollen uit de lucht, waardoor klachten binnenshuis duidelijk afnemen. Zet het apparaat in de slaapkamer en laat het de hele dag draaien tijdens het pollenseizoen."
+    },
+    {
+      "q": "Hoe vaak moet je het filter vervangen?",
+      "a": "Dat verschilt per merk: Levoit en Blueair elke zes tot twaalf maanden, Philips 800 ongeveer jaarlijks en Philips 3000i eens per drie jaar. Het apparaat geeft meestal zelf aan wanneer het tijd is. Stofzuig het voorfilter elke maand."
+    },
+    {
+      "q": "Hoeveel stroom verbruikt een luchtreiniger?",
+      "a": "Op de laagste stand 2 tot 10 watt, op de hoogste stand 30 tot 60 watt. In de automatische stand kost 24 uur draaien ongeveer 2 tot 4 euro per maand aan stroom."
+    },
+    {
+      "q": "Kan een luchtreiniger de hele dag aan staan?",
+      "a": "Ja, dat is zelfs de bedoeling. Fijnstof komt voortdurend binnen via kieren, kleding en ventilatie. Een apparaat in de automatische stand draait stil als de lucht schoon is en schakelt op zodra er vervuiling is."
+    },
+    {
+      "q": "Helpt een luchtreiniger tegen virussen en schimmel?",
+      "a": "Een HEPA H13-filter vangt schimmelsporen en druppeltjes waarin virussen zitten. Het verlaagt de hoeveelheid in de lucht, maar vervangt geen ventilatie. Zorg altijd voor frisse buitenlucht naast de luchtreiniger."
+    }
   ]
 }

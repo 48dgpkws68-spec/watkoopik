@@ -5,7 +5,13 @@
   "title": "De 10 beste elektrische tandenborstels van 2026",
   "short": "Elektrische tandenborstels",
   "query": "elektrische tandenborstel",
-  "keywords": ["sonische tandenborstel", "oscillerende tandenborstel", "Oral-B tandenborstel", "Philips Sonicare", "tandenborstel met app"],
+  "keywords": [
+    "sonische tandenborstel",
+    "oscillerende tandenborstel",
+    "Oral-B tandenborstel",
+    "Philips Sonicare",
+    "tandenborstel met app"
+  ],
   "ico": "🪥",
   "updated": "2026-10-13",
   "reviews_total": "21.600",
@@ -13,110 +19,391 @@
   "verdict": "De Philips Sonicare 9900 Prestige is de beste elektrische tandenborstel: hij meet je druk, beweging en dekking en past de intensiteit automatisch aan, met een accu die een maand meegaat. Wie het meeste voor zijn geld wil, kiest de Oral-B Pro 3 3000 met zichtbare druksensor en bewezen poetsresultaat voor rond de 50 euro. Voor een klein budget blijft de Philips Sonicare 3100 de veiligste instap.",
   "products": [
     {
-      "brand": "Philips", "name": "Sonicare 9900 Prestige", "price": 249, "score": 9.4, "label": "Beste keuze", "reviews": "1.400+ reviews",
+      "brand": "Philips",
+      "name": "Sonicare 9900 Prestige",
+      "price": 225.15,
+      "score": 9.4,
+      "label": "Beste keuze",
+      "reviews": "1.400+ reviews",
       "oneliner": "Past de intensiteit automatisch aan op je poetsdruk en beweging.",
-      "specs": {"Techniek": "Sonisch, 62.000 bewegingen/min", "Druksensor": "Ja, met lichtring", "Accuduur": "tot 4 weken", "Poetsstanden": "5 + 3 intensiteiten", "Opzetborstel": "ca. 12 euro per stuk"},
-      "pros": ["SenseIQ meet druk, beweging en dekking 100 keer per seconde", "Verlaagt zelf de intensiteit als je te hard poetst", "Eén opzetborstel voor plak, tandvlees en verkleuringen", "Luxe oplaadetui met usb"],
-      "cons": ["Hoge prijs", "Opzetborstels zijn duur", "App voegt voor veel gebruikers weinig toe"],
+      "specs": {
+        "Techniek": "Sonisch, 62.000 bewegingen/min",
+        "Druksensor": "Ja, met lichtring",
+        "Accuduur": "tot 4 weken",
+        "Poetsstanden": "5 + 3 intensiteiten",
+        "Opzetborstel": "ca. 12 euro per stuk"
+      },
+      "pros": [
+        "SenseIQ meet druk, beweging en dekking 100 keer per seconde",
+        "Verlaagt zelf de intensiteit als je te hard poetst",
+        "Eén opzetborstel voor plak, tandvlees en verkleuringen",
+        "Luxe oplaadetui met usb"
+      ],
+      "cons": [
+        "Hoge prijs",
+        "Opzetborstels zijn duur",
+        "App voegt voor veel gebruikers weinig toe"
+      ],
       "ideal": "Wie te hard poetst of gevoelig tandvlees heeft en de beste bescherming wil zonder erover na te denken.",
-      "text": "De Philips Sonicare 9900 Prestige is het topmodel van het merk en onderscheidt zich met SenseIQ: sensoren die honderd keer per seconde meten hoe hard je drukt, hoe je beweegt en welke delen van je gebit je raakt. Druk je te hard, dan verlaagt de borstel zelf de intensiteit en kleurt de lichtring paars. Gebruikers met teruggetrokken tandvlees melden in reviews dat dit het eerste apparaat is waarmee ze dat hebben afgeleerd.\n\nDe A3 Premium All-in-One opzetborstel combineert de functies van drie borstels in één kop, zodat je niet hoeft te wisselen. De accu gaat tot vier weken mee en de etui laadt via usb-c, handig op reis. De prijs is fors en de opzetborstels kosten rond de 12 euro per stuk. De app geeft een poetsrapport, maar veel gebruikers zetten hem na een paar weken niet meer aan. De borstel zelf doet het werk ook zonder."
+      "text": "De Philips Sonicare 9900 Prestige is het topmodel van het merk en onderscheidt zich met SenseIQ: sensoren die honderd keer per seconde meten hoe hard je drukt, hoe je beweegt en welke delen van je gebit je raakt. Druk je te hard, dan verlaagt de borstel zelf de intensiteit en kleurt de lichtring paars. Gebruikers met teruggetrokken tandvlees melden in reviews dat dit het eerste apparaat is waarmee ze dat hebben afgeleerd.\n\nDe A3 Premium All-in-One opzetborstel combineert de functies van drie borstels in één kop, zodat je niet hoeft te wisselen. De accu gaat tot vier weken mee en de etui laadt via usb-c, handig op reis. De prijs is fors en de opzetborstels kosten rond de 12 euro per stuk. De app geeft een poetsrapport, maar veel gebruikers zetten hem na een paar weken niet meer aan. De borstel zelf doet het werk ook zonder.",
+      "ean": "8720689043656",
+      "bol_title": "Philips Sonicare DiamondClean Prestige 9900 – Elektrische Tandenborstel met SenseIQ – AI - Zwart - 4 Opzetborstels - HX9992/43",
+      "url": "https://www.bol.com/nl/nl/p/philips-sonicare-diamondclean-prestige-9900-elektrische-tandenborstel-zwart-4-opzetborstels-hx9992-43/9300000229159793/",
+      "image": "https://media.s-bol.com/YLY68DEZY47n/qjLkzPy/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Oral-B", "name": "Pro 3 3000", "price": 54, "score": 9.0, "label": "Beste prijs-kwaliteit", "reviews": "6.800+ reviews",
+      "brand": "Oral-B",
+      "name": "Pro 3 3000",
+      "price": 51.39,
+      "score": 9.0,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "6.800+ reviews",
       "oneliner": "Zichtbare druksensor en bewezen poetskracht voor rond de 50 euro.",
-      "specs": {"Techniek": "Oscillerend, 3D-beweging", "Druksensor": "Ja, 360 graden lichtring", "Accuduur": "tot 2 weken", "Poetsstanden": "3", "Opzetborstel": "ca. 4 euro per stuk"},
-      "pros": ["Rode lichtring rondom waarschuwt bij te veel druk", "Ronde kop poetst elke tand afzonderlijk", "Opzetborstels zijn goedkoop en overal te koop", "Timer met signaal per kwadrant"],
-      "cons": ["Luider dan een sonische borstel", "Accu gaat twee weken mee, korter dan Philips", "Geen app of bluetooth"],
+      "specs": {
+        "Techniek": "Oscillerend, 3D-beweging",
+        "Druksensor": "Ja, 360 graden lichtring",
+        "Accuduur": "tot 2 weken",
+        "Poetsstanden": "3",
+        "Opzetborstel": "ca. 4 euro per stuk"
+      },
+      "pros": [
+        "Rode lichtring rondom waarschuwt bij te veel druk",
+        "Ronde kop poetst elke tand afzonderlijk",
+        "Opzetborstels zijn goedkoop en overal te koop",
+        "Timer met signaal per kwadrant"
+      ],
+      "cons": [
+        "Luider dan een sonische borstel",
+        "Accu gaat twee weken mee, korter dan Philips",
+        "Geen app of bluetooth"
+      ],
       "ideal": "Wie een degelijke elektrische tandenborstel wil zonder toeters en bellen, met lage vervolgkosten.",
-      "text": "De Oral-B Pro 3 3000 is de tandenborstel die tandartsen in Nederland het vaakst noemen als instapadvies en de bijna 7.000 reviews laten zien waarom. De ronde kop maakt een oscillerende en pulserende beweging die elke tand afzonderlijk omsluit. De druksensor is een lichtring rondom de hals die rood kleurt zodra je te hard drukt, zichtbaar in de spiegel zonder dat je op het handvat hoeft te kijken.\n\nDrie standen volstaan: dagelijks, gevoelig en whitening. De timer trilt elke dertig seconden zodat je elk kwadrant evenveel aandacht geeft. Opzetborstels kosten rond de 4 euro per stuk en liggen in elke supermarkt, een groot verschil met Philips. Minpunten zijn het duidelijk hoorbare geluid en de accu van twee weken. Voor wie geen app nodig heeft is dit de slimste koop in deze lijst."
+      "text": "De Oral-B Pro 3 3000 is de tandenborstel die tandartsen in Nederland het vaakst noemen als instapadvies en de bijna 7.000 reviews laten zien waarom. De ronde kop maakt een oscillerende en pulserende beweging die elke tand afzonderlijk omsluit. De druksensor is een lichtring rondom de hals die rood kleurt zodra je te hard drukt, zichtbaar in de spiegel zonder dat je op het handvat hoeft te kijken.\n\nDrie standen volstaan: dagelijks, gevoelig en whitening. De timer trilt elke dertig seconden zodat je elk kwadrant evenveel aandacht geeft. Opzetborstels kosten rond de 4 euro per stuk en liggen in elke supermarkt, een groot verschil met Philips. Minpunten zijn het duidelijk hoorbare geluid en de accu van twee weken. Voor wie geen app nodig heeft is dit de slimste koop in deze lijst.",
+      "ean": "8006540759790",
+      "bol_title": "ORAL-B Pro3 3000 Cross Action - Elektrische Tandenborstel - 2 opzetborstels",
+      "url": "https://www.bol.com/nl/nl/p/oral-b-pro3-3000-cross-action-elektrische-tandenborstel-2-opzetborstels/9300000116543476/",
+      "image": "https://media.s-bol.com/JX5EXoGo5Y02/gk8RqD/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Oral-B", "name": "iO Series 9", "price": 229, "score": 9.2, "label": "Beste premium", "reviews": "2.300+ reviews",
+      "brand": "Oral-B",
+      "name": "iO Series 9",
+      "price": 309.0,
+      "score": 9.2,
+      "label": "Beste premium",
+      "reviews": "2.300+ reviews",
       "oneliner": "Magnetische aandrijving, kleurenscherm en 3D-tracking van je gebit.",
-      "specs": {"Techniek": "Oscillerend, magnetisch (iO)", "Druksensor": "Ja, groen/rood", "Accuduur": "tot 2 weken", "Poetsstanden": "7", "Opzetborstel": "ca. 7 euro per stuk"},
-      "pros": ["Magnetische motor poetst stiller en zachter dan de klassieke Oral-B", "Kleurenscherm toont stand, timer en een smiley na goed poetsen", "Druksensor is groen bij de juiste druk", "3D-tracking in de app ziet welke tanden je mist"],
-      "cons": ["Duur", "Opzetborstels iO passen niet op oudere Oral-B modellen", "Accuduur blijft achter bij Philips"],
+      "specs": {
+        "Techniek": "Oscillerend, magnetisch (iO)",
+        "Druksensor": "Ja, groen/rood",
+        "Accuduur": "tot 2 weken",
+        "Poetsstanden": "7",
+        "Opzetborstel": "ca. 7 euro per stuk"
+      },
+      "pros": [
+        "Magnetische motor poetst stiller en zachter dan de klassieke Oral-B",
+        "Kleurenscherm toont stand, timer en een smiley na goed poetsen",
+        "Druksensor is groen bij de juiste druk",
+        "3D-tracking in de app ziet welke tanden je mist"
+      ],
+      "cons": [
+        "Duur",
+        "Opzetborstels iO passen niet op oudere Oral-B modellen",
+        "Accuduur blijft achter bij Philips"
+      ],
       "ideal": "Wie de Oral-B poetsstijl kent en wil upgraden naar het beste wat het merk maakt.",
-      "text": "De iO Series 9 is het topmodel van Oral-B en voelt totaal anders dan de klassieke modellen. De magnetische aandrijving maakt de beweging vloeiend en opvallend stil, het geratel van de Pro 3 is weg. Het kleurenschermpje op het handvat toont de stand en de timer en beloont je na twee minuten met een smiley, kinderachtig maar volgens reviews verrassend motiverend.\n\nDe druksensor werkt in twee richtingen: groen betekent precies goed, rood te hard. In de app zie je met 3D-tracking welke tanden je hebt overgeslagen. Dat werkt beter dan bij de meeste concurrenten, al vergt het dat je je telefoon bij de wastafel hebt. Minpunten zijn de prijs, de accu van twee weken en het feit dat iO-opzetborstels rond de 7 euro kosten en niet uitwisselbaar zijn met oudere Oral-B borstels. Wie de ronde kop gewend is krijgt hier wel de beste versie ervan."
+      "text": "De iO Series 9 is het topmodel van Oral-B en voelt totaal anders dan de klassieke modellen. De magnetische aandrijving maakt de beweging vloeiend en opvallend stil, het geratel van de Pro 3 is weg. Het kleurenschermpje op het handvat toont de stand en de timer en beloont je na twee minuten met een smiley, kinderachtig maar volgens reviews verrassend motiverend.\n\nDe druksensor werkt in twee richtingen: groen betekent precies goed, rood te hard. In de app zie je met 3D-tracking welke tanden je hebt overgeslagen. Dat werkt beter dan bij de meeste concurrenten, al vergt het dat je je telefoon bij de wastafel hebt. Minpunten zijn de prijs, de accu van twee weken en het feit dat iO-opzetborstels rond de 7 euro kosten en niet uitwisselbaar zijn met oudere Oral-B borstels. Wie de ronde kop gewend is krijgt hier wel de beste versie ervan.",
+      "ean": "4210201425496",
+      "bol_title": "Oral-B iO Series 9 Duo - Sonische Tandenborstel - 7 poetsmodi - Kleurendisplay & app - Druksensor - reisetui",
+      "url": "https://www.bol.com/nl/nl/p/oral-b-io-series-9-duo-sonische-tandenborstel-7-poetsmodi-kleurendisplay-app-druksensor-2-reisetuis/9300000258110377/",
+      "image": "https://media.s-bol.com/rO2g2A8LpoW2/6Rk9Nll/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Philips", "name": "Sonicare 3100 HX3671", "price": 44, "score": 8.6, "label": null, "reviews": "4.100+ reviews",
+      "brand": "Philips",
+      "name": "Sonicare 3100 HX3671",
+      "price": 41.99,
+      "score": 8.6,
+      "label": null,
+      "reviews": "4.100+ reviews",
       "oneliner": "De betaalbare instap in sonisch poetsen, met druksensor.",
-      "specs": {"Techniek": "Sonisch, 31.000 bewegingen/min", "Druksensor": "Ja, trilsignaal", "Accuduur": "tot 2 weken", "Poetsstanden": "1", "Opzetborstel": "ca. 7 euro per stuk"},
-      "pros": ["Sonische techniek voor een scherpe prijs", "Druksensor met trilsignaal", "EasyStart bouwt de kracht in 14 dagen op", "Stil en zacht voor het tandvlees"],
-      "cons": ["Maar één poetsstand", "Opzetborstels duurder dan Oral-B", "Accu niet zo lang als duurdere Sonicares"],
+      "specs": {
+        "Techniek": "Sonisch, 31.000 bewegingen/min",
+        "Druksensor": "Ja, trilsignaal",
+        "Accuduur": "tot 2 weken",
+        "Poetsstanden": "1",
+        "Opzetborstel": "ca. 7 euro per stuk"
+      },
+      "pros": [
+        "Sonische techniek voor een scherpe prijs",
+        "Druksensor met trilsignaal",
+        "EasyStart bouwt de kracht in 14 dagen op",
+        "Stil en zacht voor het tandvlees"
+      ],
+      "cons": [
+        "Maar één poetsstand",
+        "Opzetborstels duurder dan Oral-B",
+        "Accu niet zo lang als duurdere Sonicares"
+      ],
       "ideal": "Wie wil overstappen van een handtandenborstel en liever sonisch dan oscillerend poetst.",
-      "text": "De Philips Sonicare 3100 is de goedkoopste manier om in de Sonicare-wereld te stappen en dat maakt hem een van de best verkochte tandenborstels van Nederland. De borstelkop trilt 31.000 keer per minuut, waardoor je het handvat alleen langzaam langs je tanden hoeft te bewegen. Veel gebruikers ervaren dat als zachter en prettiger dan de ronddraaiende Oral-B.\n\nDe druksensor laat het handvat trillen als je te hard drukt en EasyStart bouwt de kracht in de eerste veertien dagen langzaam op, zodat je tandvlees eraan gewend raakt. Er is maar één poetsstand en de accu gaat twee weken mee. Opzetborstels kosten rond de 7 euro, duurder dan bij Oral-B, maar er zijn inmiddels goede huismerkvarianten. Voor nog geen 45 euro is dit een degelijke, stille tandenborstel die het verschil met een handborstel direct merkbaar maakt."
+      "text": "De Philips Sonicare 3100 is de goedkoopste manier om in de Sonicare-wereld te stappen en dat maakt hem een van de best verkochte tandenborstels van Nederland. De borstelkop trilt 31.000 keer per minuut, waardoor je het handvat alleen langzaam langs je tanden hoeft te bewegen. Veel gebruikers ervaren dat als zachter en prettiger dan de ronddraaiende Oral-B.\n\nDe druksensor laat het handvat trillen als je te hard drukt en EasyStart bouwt de kracht in de eerste veertien dagen langzaam op, zodat je tandvlees eraan gewend raakt. Er is maar één poetsstand en de accu gaat twee weken mee. Opzetborstels kosten rond de 7 euro, duurder dan bij Oral-B, maar er zijn inmiddels goede huismerkvarianten. Voor nog geen 45 euro is dit een degelijke, stille tandenborstel die het verschil met een handborstel direct merkbaar maakt.",
+      "ean": "8710103985587",
+      "bol_title": "Philips Sonicare Power Elektrische Tandenborstel Series 3100 - Zwart - HX3671/14",
+      "url": "https://www.bol.com/nl/nl/p/philips-sonicare-power-elektrische-tandenborstel-series-3100-hx3671-14-zwart/9300000043847489/",
+      "image": "https://media.s-bol.com/gPK0N5vnpMWG/pE9Eq2/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Oral-B", "name": "iO Series 4", "price": 89, "score": 8.8, "label": null, "reviews": "3.200+ reviews",
+      "brand": "Oral-B",
+      "name": "iO Series 4",
+      "price": 96.94,
+      "score": 8.8,
+      "label": null,
+      "reviews": "3.200+ reviews",
       "oneliner": "De iO-techniek zonder scherm, voor minder dan 100 euro.",
-      "specs": {"Techniek": "Oscillerend, magnetisch (iO)", "Druksensor": "Ja, groen/rood", "Accuduur": "tot 2 weken", "Poetsstanden": "4", "Opzetborstel": "ca. 7 euro per stuk"},
-      "pros": ["Dezelfde stille magnetische motor als de Series 9", "Druksensor met groen en rood licht", "Vier standen inclusief gevoelig en whitening", "App met poetsbegeleiding"],
-      "cons": ["Geen schermpje op het handvat", "Reisetui zonder oplaadfunctie", "Opzetborstels duurder dan de klassieke Oral-B"],
+      "specs": {
+        "Techniek": "Oscillerend, magnetisch (iO)",
+        "Druksensor": "Ja, groen/rood",
+        "Accuduur": "tot 2 weken",
+        "Poetsstanden": "4",
+        "Opzetborstel": "ca. 7 euro per stuk"
+      },
+      "pros": [
+        "Dezelfde stille magnetische motor als de Series 9",
+        "Druksensor met groen en rood licht",
+        "Vier standen inclusief gevoelig en whitening",
+        "App met poetsbegeleiding"
+      ],
+      "cons": [
+        "Geen schermpje op het handvat",
+        "Reisetui zonder oplaadfunctie",
+        "Opzetborstels duurder dan de klassieke Oral-B"
+      ],
       "ideal": "Wie de stille iO-techniek wil zonder het volledige bedrag voor de Series 9 te betalen.",
-      "text": "De iO Series 4 is het instapmodel van de iO-lijn en volgens veel reviewers het verstandigste model in die serie. Je krijgt dezelfde magnetische aandrijving als de Series 9, met de stille, vloeiende beweging en de tweekleurige druksensor die groen oplicht bij de juiste druk. Wat ontbreekt is het kleurenscherm en de 3D-tracking; de app geeft wel een poetsbegeleiding per zone.\n\nMet vier standen heb je genoeg keus voor dagelijks poetsen, gevoelige tanden, whitening en een intensieve stand. Gebruikers die overstappen van een Pro-model noemen vooral het comfort en de stilte. De accu gaat twee weken mee en het reisetui laadt niet op. De opzetborstels zijn dezelfde als bij de duurdere iO-modellen en kosten rond de 7 euro. Voor minder dan 100 euro krijg je hier het grootste deel van de topervaring."
+      "text": "De iO Series 4 is het instapmodel van de iO-lijn en volgens veel reviewers het verstandigste model in die serie. Je krijgt dezelfde magnetische aandrijving als de Series 9, met de stille, vloeiende beweging en de tweekleurige druksensor die groen oplicht bij de juiste druk. Wat ontbreekt is het kleurenscherm en de 3D-tracking; de app geeft wel een poetsbegeleiding per zone.\n\nMet vier standen heb je genoeg keus voor dagelijks poetsen, gevoelige tanden, whitening en een intensieve stand. Gebruikers die overstappen van een Pro-model noemen vooral het comfort en de stilte. De accu gaat twee weken mee en het reisetui laadt niet op. De opzetborstels zijn dezelfde als bij de duurdere iO-modellen en kosten rond de 7 euro. Voor minder dan 100 euro krijg je hier het grootste deel van de topervaring.",
+      "ean": "4210201415022",
+      "bol_title": "Oral-B iO Series 4N Black - Elektrische Tandenborstel - Reisetui",
+      "url": "https://www.bol.com/nl/nl/p/oral-b-io-series-4-mit-reiseetui-matt-black/9300000124900094/",
+      "image": "https://media.s-bol.com/vpx4KVZwpOw8/yP6owDg/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Philips", "name": "Sonicare 5300 ProtectiveClean HX6850", "price": 89, "score": 8.7, "label": null, "reviews": "2.900+ reviews",
+      "brand": "Philips",
+      "name": "Sonicare 5300 ProtectiveClean HX6850",
+      "price": 89,
+      "score": 8.7,
+      "label": null,
+      "reviews": "2.900+ reviews",
       "oneliner": "Drie standen, druksensor en opzetborstelherkenning voor gevoelig tandvlees.",
-      "specs": {"Techniek": "Sonisch, 62.000 bewegingen/min", "Druksensor": "Ja, trilsignaal", "Accuduur": "tot 2 weken", "Poetsstanden": "3", "Opzetborstel": "ca. 8 euro per stuk"},
-      "pros": ["Herkent de opzetborstel en kiest de passende stand", "Gum Care stand voor tandvlees", "Druksensor en vervangingsindicator", "Reisetui meegeleverd"],
-      "cons": ["Accu korter dan je bij deze prijs verwacht", "Opzetborstels aan de dure kant", "Geen intensiteitsregeling"],
+      "specs": {
+        "Techniek": "Sonisch, 62.000 bewegingen/min",
+        "Druksensor": "Ja, trilsignaal",
+        "Accuduur": "tot 2 weken",
+        "Poetsstanden": "3",
+        "Opzetborstel": "ca. 8 euro per stuk"
+      },
+      "pros": [
+        "Herkent de opzetborstel en kiest de passende stand",
+        "Gum Care stand voor tandvlees",
+        "Druksensor en vervangingsindicator",
+        "Reisetui meegeleverd"
+      ],
+      "cons": [
+        "Accu korter dan je bij deze prijs verwacht",
+        "Opzetborstels aan de dure kant",
+        "Geen intensiteitsregeling"
+      ],
       "ideal": "Wie gevoelig tandvlees heeft en een sonische borstel wil die meer kan dan de 3100.",
       "text": "De Sonicare 5300 ProtectiveClean zit precies tussen de instapmodellen en de topmodellen van Philips. Hij heeft drie standen: Clean, White en Gum Care. Die laatste stand voegt een minuut zachte massage van het tandvlees toe en is volgens gebruikers met bloedend tandvlees de reden om voor dit model te kiezen. De druksensor laat het handvat trillen en BrushSync herkent welke opzetborstel je plaatst en kiest daar de stand bij.\n\nDe borstel vertelt ook wanneer een opzetborstel versleten is, gebaseerd op gebruik en druk in plaats van een vaste termijn. De accu gaat ongeveer twee weken mee, wat voor een Sonicare in deze prijsklasse aan de korte kant is. De opzetborstels kosten rond de 8 euro. Het reisetui zit in de doos. Al met al een gerichte keuze voor wie zijn tandvlees wil beschermen en toch sonisch wil poetsen."
     },
     {
-      "brand": "Oclean", "name": "X Pro Elite", "price": 69, "score": 8.4, "label": null, "reviews": "780+ reviews",
+      "brand": "Oclean",
+      "name": "X Pro Elite",
+      "price": 49.69,
+      "score": 8.4,
+      "label": null,
+      "reviews": "780+ reviews",
       "oneliner": "Sonische borstel met touchscreen en 35 dagen accuduur.",
-      "specs": {"Techniek": "Sonisch, 42.000 bewegingen/min", "Druksensor": "Ja", "Accuduur": "tot 35 dagen", "Poetsstanden": "4 + 32 intensiteiten", "Opzetborstel": "ca. 5 euro per stuk"},
-      "pros": ["Lange accuduur van ongeveer vijf weken", "Touchscreen toont na het poetsen welke zones je hebt gemist", "Zeer stil, rond de 45 dB", "Opzetborstels goedkoop"],
-      "cons": ["Minder bekend merk, kleiner servicenetwerk", "App en instellingen zijn wat omslachtig", "Opzetborstels niet in de supermarkt"],
+      "specs": {
+        "Techniek": "Sonisch, 42.000 bewegingen/min",
+        "Druksensor": "Ja",
+        "Accuduur": "tot 35 dagen",
+        "Poetsstanden": "4 + 32 intensiteiten",
+        "Opzetborstel": "ca. 5 euro per stuk"
+      },
+      "pros": [
+        "Lange accuduur van ongeveer vijf weken",
+        "Touchscreen toont na het poetsen welke zones je hebt gemist",
+        "Zeer stil, rond de 45 dB",
+        "Opzetborstels goedkoop"
+      ],
+      "cons": [
+        "Minder bekend merk, kleiner servicenetwerk",
+        "App en instellingen zijn wat omslachtig",
+        "Opzetborstels niet in de supermarkt"
+      ],
       "ideal": "Wie veel reist of een lange accuduur wil en openstaat voor een minder bekend merk.",
-      "text": "Oclean is een Chinees merk dat in een paar jaar een trouwe aanhang heeft opgebouwd. De X Pro Elite valt op door een klein touchscreen op het handvat dat na het poetsen een kaartje van je gebit toont met de zones die je hebt overgeslagen. Dat werkt zonder telefoon, een voordeel ten opzichte van Oral-B en Philips waar je daarvoor de app nodig hebt.\n\nDe accu gaat ongeveer vijf weken mee, de langste in deze lijst. De borstel is met rond de 45 decibel bijzonder stil. Via de app kun je de intensiteit in 32 stappen afstellen. Gebruikers prijzen de prijs en de lage kosten van opzetborstels, rond de 5 euro. Minder goed zijn het servicenetwerk in Nederland en het feit dat je opzetborstels online moet bestellen. De app is uitgebreid maar niet heel intuïtief. Als je dat niet stoort, krijg je veel techniek voor weinig geld."
+      "text": "Oclean is een Chinees merk dat in een paar jaar een trouwe aanhang heeft opgebouwd. De X Pro Elite valt op door een klein touchscreen op het handvat dat na het poetsen een kaartje van je gebit toont met de zones die je hebt overgeslagen. Dat werkt zonder telefoon, een voordeel ten opzichte van Oral-B en Philips waar je daarvoor de app nodig hebt.\n\nDe accu gaat ongeveer vijf weken mee, de langste in deze lijst. De borstel is met rond de 45 decibel bijzonder stil. Via de app kun je de intensiteit in 32 stappen afstellen. Gebruikers prijzen de prijs en de lage kosten van opzetborstels, rond de 5 euro. Minder goed zijn het servicenetwerk in Nederland en het feit dat je opzetborstels online moet bestellen. De app is uitgebreid maar niet heel intuïtief. Als je dat niet stoort, krijg je veel techniek voor weinig geld.",
+      "ean": "2035513045840",
+      "bol_title": "6 stuks borstelkoppen, compatibel met Oclean elektrische tandenborstel, reserve- en opzetborstels, geschikt voor Oclean Flow, X Lite, XPro, X Pro Elite, X Pro Digital (zwart)",
+      "url": "https://www.bol.com/nl/nl/p/6-stuks-borstelkoppen-compatibel-met-oclean-elektrische-tandenborstel-reserve-en-opzetborstels-geschikt-voor-oclean-flow-x-lite-xpro-x-pro-elite-x-pro-digital/9300000389069218/",
+      "image": "https://media.s-bol.com/qz20VoZQY413/k2ZBmQ5/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Philips", "name": "Sonicare DiamondClean 9000 HX9911", "price": 169, "score": 9.0, "label": null, "reviews": "2.600+ reviews",
+      "brand": "Philips",
+      "name": "Sonicare DiamondClean 9000 HX9911",
+      "price": 119.99,
+      "score": 9.0,
+      "label": null,
+      "reviews": "2.600+ reviews",
       "oneliner": "Vier standen, drie intensiteiten en een glazen oplader.",
-      "specs": {"Techniek": "Sonisch, 62.000 bewegingen/min", "Druksensor": "Ja, lichtsignaal", "Accuduur": "tot 2 weken", "Poetsstanden": "4 + 3 intensiteiten", "Opzetborstel": "ca. 9 euro per stuk"},
-      "pros": ["Vier standen en drie intensiteiten", "Glazen oplaadbeker staat fraai op de wastafel", "Reisetui laadt op via usb", "Herkent de opzetborstel en past de stand aan"],
-      "cons": ["Accu van twee weken is kort voor dit bedrag", "Flinke prijs", "App heeft weinig toegevoegde waarde"],
+      "specs": {
+        "Techniek": "Sonisch, 62.000 bewegingen/min",
+        "Druksensor": "Ja, lichtsignaal",
+        "Accuduur": "tot 2 weken",
+        "Poetsstanden": "4 + 3 intensiteiten",
+        "Opzetborstel": "ca. 9 euro per stuk"
+      },
+      "pros": [
+        "Vier standen en drie intensiteiten",
+        "Glazen oplaadbeker staat fraai op de wastafel",
+        "Reisetui laadt op via usb",
+        "Herkent de opzetborstel en past de stand aan"
+      ],
+      "cons": [
+        "Accu van twee weken is kort voor dit bedrag",
+        "Flinke prijs",
+        "App heeft weinig toegevoegde waarde"
+      ],
       "ideal": "Wie een complete Sonicare wil met veel instelmogelijkheden en een luxe uitstraling, maar de Prestige te duur vindt.",
-      "text": "De DiamondClean 9000 is al jaren de populairste Sonicare in het hogere segment en de reden daarvoor is de combinatie van veel standen en een fraai ontwerp. Vier standen, Clean, White+, Gum Health en Deep Clean+, zijn elk in drie intensiteiten in te stellen, zodat je precies de kracht vindt die bij je past. De druksensor geeft een lichtsignaal en BrushSync herkent de opzetborstel.\n\nDe oplader is een glazen beker waarin je het handvat zet, een detail dat gebruikers vaak noemen. Het reisetui laadt via usb op, zodat je op vakantie geen lader hoeft mee te nemen. De accu gaat ongeveer twee weken mee, voor dit bedrag niet bijzonder. De opzetborstels kosten rond de 9 euro. De app met poetsbegeleiding gebruiken weinig mensen lang. Wie de Prestige te duur vindt maar wel het volledige Sonicare-pakket wil, zit hier goed."
+      "text": "De DiamondClean 9000 is al jaren de populairste Sonicare in het hogere segment en de reden daarvoor is de combinatie van veel standen en een fraai ontwerp. Vier standen, Clean, White+, Gum Health en Deep Clean+, zijn elk in drie intensiteiten in te stellen, zodat je precies de kracht vindt die bij je past. De druksensor geeft een lichtsignaal en BrushSync herkent de opzetborstel.\n\nDe oplader is een glazen beker waarin je het handvat zet, een detail dat gebruikers vaak noemen. Het reisetui laadt via usb op, zodat je op vakantie geen lader hoeft mee te nemen. De accu gaat ongeveer twee weken mee, voor dit bedrag niet bijzonder. De opzetborstels kosten rond de 9 euro. De app met poetsbegeleiding gebruiken weinig mensen lang. Wie de Prestige te duur vindt maar wel het volledige Sonicare-pakket wil, zit hier goed.",
+      "ean": "8720689000963",
+      "bol_title": "Philips Sonicare DiamondClean 9000 - Elektrische tandenborstel - Roze/Wit - Ombre - HX9911/84",
+      "url": "https://www.bol.com/nl/nl/p/philips-sonicare-diamondclean-9000-hx9911-84-elektrische-tandenborstel-gradientpink/9300000085671784/",
+      "image": "https://media.s-bol.com/xMWR0W3qogK9/lOkmAK6/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Oral-B", "name": "Vitality Pro", "price": 29, "score": 7.9, "label": null, "reviews": "5.600+ reviews",
+      "brand": "Oral-B",
+      "name": "Vitality Pro",
+      "price": 36.99,
+      "score": 7.9,
+      "label": null,
+      "reviews": "5.600+ reviews",
       "oneliner": "De goedkoopste manier om elektrisch te gaan poetsen.",
-      "specs": {"Techniek": "Oscillerend, 2D-beweging", "Druksensor": "Nee", "Accuduur": "tot 1 week", "Poetsstanden": "3", "Opzetborstel": "ca. 4 euro per stuk"},
-      "pros": ["Zeer lage prijs", "Timer van twee minuten", "Gevoelige stand", "Goedkope opzetborstels"],
-      "cons": ["Geen druksensor", "Accu van ongeveer een week", "Luid en minder krachtig dan de Pro 3"],
+      "specs": {
+        "Techniek": "Oscillerend, 2D-beweging",
+        "Druksensor": "Nee",
+        "Accuduur": "tot 1 week",
+        "Poetsstanden": "3",
+        "Opzetborstel": "ca. 4 euro per stuk"
+      },
+      "pros": [
+        "Zeer lage prijs",
+        "Timer van twee minuten",
+        "Gevoelige stand",
+        "Goedkope opzetborstels"
+      ],
+      "cons": [
+        "Geen druksensor",
+        "Accu van ongeveer een week",
+        "Luid en minder krachtig dan de Pro 3"
+      ],
       "ideal": "Wie voor het eerst elektrisch wil poetsen of een goedkope borstel voor het logeeradres zoekt.",
-      "text": "De Oral-B Vitality Pro is de goedkoopste elektrische tandenborstel van een groot merk en met meer dan 5.000 reviews ook een van de populairste. Voor rond de 30 euro krijg je een ronddraaiende kop met drie standen, een timer van twee minuten en de goedkope Oral-B opzetborstels die overal te koop zijn.\n\nJe moet een paar dingen missen. Er is geen druksensor, wat volgens tandartsen juist bij beginners belangrijk is, omdat die vaak te hard poetsen. De accu gaat ongeveer een week mee en de borstel is luid. De beweging is 2D in plaats van 3D, dus de poetskracht ligt onder die van de Pro 3. Toch poetst hij aantoonbaar beter dan een handtandenborstel en reviewers prijzen de levensduur. Voor 25 euro meer krijg je met de Pro 3 echter een veel completere borstel, dus kies de Vitality alleen als het budget echt krap is."
+      "text": "De Oral-B Vitality Pro is de goedkoopste elektrische tandenborstel van een groot merk en met meer dan 5.000 reviews ook een van de populairste. Voor rond de 30 euro krijg je een ronddraaiende kop met drie standen, een timer van twee minuten en de goedkope Oral-B opzetborstels die overal te koop zijn.\n\nJe moet een paar dingen missen. Er is geen druksensor, wat volgens tandartsen juist bij beginners belangrijk is, omdat die vaak te hard poetsen. De accu gaat ongeveer een week mee en de borstel is luid. De beweging is 2D in plaats van 3D, dus de poetskracht ligt onder die van de Pro 3. Toch poetst hij aantoonbaar beter dan een handtandenborstel en reviewers prijzen de levensduur. Voor 25 euro meer krijg je met de Pro 3 echter een veel completere borstel, dus kies de Vitality alleen als het budget echt krap is.",
+      "ean": "4210201432326",
+      "bol_title": "Oral-B Vitality Pro - Elektrische tandenborstel - Zwart - Extra opzetborstel",
+      "url": "https://www.bol.com/nl/nl/p/oral-b-vitality-pro-volwassene-roterende-oscillerende-tandenborstel-zwart/9300000075702279/",
+      "image": "https://media.s-bol.com/xj1Rkz72nlpq/yr40yE/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Philips", "name": "Sonicare for Kids HX6352", "price": 49, "score": 8.3, "label": null, "reviews": "3.400+ reviews",
+      "brand": "Philips",
+      "name": "Sonicare for Kids HX6352",
+      "price": 44.99,
+      "score": 8.3,
+      "label": null,
+      "reviews": "3.400+ reviews",
       "oneliner": "Kindertandenborstel met app die poetsen een spel maakt.",
-      "specs": {"Techniek": "Sonisch, 62.000 bewegingen/min", "Druksensor": "Nee", "Accuduur": "tot 2 weken", "Poetsstanden": "2", "Opzetborstel": "ca. 7 euro per stuk"},
-      "pros": ["App met Sparkly beloont twee minuten poetsen", "Twee kindvriendelijke standen", "Verwisselbare stickers voor het handvat", "Kleine, zachte opzetborstel vanaf 3 jaar"],
-      "cons": ["Geen druksensor", "Kinderen verliezen na een tijd de interesse in de app", "Opzetborstels vrij duur"],
+      "specs": {
+        "Techniek": "Sonisch, 62.000 bewegingen/min",
+        "Druksensor": "Nee",
+        "Accuduur": "tot 2 weken",
+        "Poetsstanden": "2",
+        "Opzetborstel": "ca. 7 euro per stuk"
+      },
+      "pros": [
+        "App met Sparkly beloont twee minuten poetsen",
+        "Twee kindvriendelijke standen",
+        "Verwisselbare stickers voor het handvat",
+        "Kleine, zachte opzetborstel vanaf 3 jaar"
+      ],
+      "cons": [
+        "Geen druksensor",
+        "Kinderen verliezen na een tijd de interesse in de app",
+        "Opzetborstels vrij duur"
+      ],
       "ideal": "Ouders die hun kind van 3 tot 10 jaar aan twee minuten poetsen willen laten wennen.",
-      "text": "De Sonicare for Kids is de bekendste kindertandenborstel in Nederland en volgens ouders in de reviews is de app de reden. Het figuurtje Sparkly moet tijdens het poetsen worden verzorgd en krijgt beloningen als je kind de volle twee minuten haalt. Daarmee verandert een dagelijkse strijd volgens veel ouders in iets waar kinderen zelf om vragen, al zakt dat enthousiasme bij oudere kinderen na enkele maanden.\n\nDe borstel heeft twee standen: een zachte voor jonge kinderen en een krachtigere vanaf zeven jaar. De sonische beweging is vriendelijk voor melktanden en de kleine opzetborstel past in een kindermond. De accu gaat twee weken mee. Een druksensor ontbreekt, wat jammer is omdat kinderen vaak te hard poetsen. De opzetborstels kosten rond de 7 euro. De stickers waarmee je het handvat kunt versieren zijn een kleinigheid die kinderen enorm waarderen."
+      "text": "De Sonicare for Kids is de bekendste kindertandenborstel in Nederland en volgens ouders in de reviews is de app de reden. Het figuurtje Sparkly moet tijdens het poetsen worden verzorgd en krijgt beloningen als je kind de volle twee minuten haalt. Daarmee verandert een dagelijkse strijd volgens veel ouders in iets waar kinderen zelf om vragen, al zakt dat enthousiasme bij oudere kinderen na enkele maanden.\n\nDe borstel heeft twee standen: een zachte voor jonge kinderen en een krachtigere vanaf zeven jaar. De sonische beweging is vriendelijk voor melktanden en de kleine opzetborstel past in een kindermond. De accu gaat twee weken mee. Een druksensor ontbreekt, wat jammer is omdat kinderen vaak te hard poetsen. De opzetborstels kosten rond de 7 euro. De stickers waarmee je het handvat kunt versieren zijn een kleinigheid die kinderen enorm waarderen.",
+      "ean": "8710103948469",
+      "bol_title": "Philips Sonicare For Kids - Elektrische tandenborstel voor kinderen - Roze - Met App - HX6352/42",
+      "url": "https://www.bol.com/nl/nl/p/philips-sonicare-for-kids-hx6352-42-elektrische-tandenborstel-roze/9300000005081673/",
+      "image": "https://media.s-bol.com/NAQylmR44Yj8/GZQRVWK/250x200.jpg",
+      "synced": "2026-10-13"
     }
   ],
   "guide": [
-    {"h": "Sonisch of oscillerend?", "p": "Oral-B gebruikt een ronde kop die snel heen en weer draait en elke tand afzonderlijk omsluit. Philips Sonicare gebruikt een langwerpige kop die tienduizenden keren per minuut trilt. Onderzoek laat zien dat beide duidelijk beter poetsen dan een handtandenborstel; het verschil onderling is klein. Oscillerend voelt grondiger en is luider, sonisch voelt zachter en is stiller. Kies wat je prettig vindt, want de borstel die je graag gebruikt poetst het beste."},
-    {"h": "Een druksensor is geen luxe", "p": "De meeste mensen poetsen te hard. Dat slijt het tandglazuur en duwt het tandvlees terug. Een druksensor die oplicht of trilt zodra je te veel kracht zet, is daarom het belangrijkste kenmerk na de poetstechniek zelf. Kies een model waarbij je de sensor in de spiegel kunt zien, zoals de lichtring van de Oral-B Pro 3 of de iO-modellen."},
-    {"h": "Kosten van opzetborstels", "p": "Een opzetborstel vervang je elke drie maanden. Bij Oral-B kost een klassieke opzetborstel rond de 4 euro, bij Philips en de iO-lijn 7 tot 12 euro. Over vijf jaar scheelt dat per persoon 60 tot 160 euro, meer dan het prijsverschil tussen veel modellen. Huismerkborstels passen vaak prima en kosten de helft."},
-    {"h": "Accuduur en opladen", "p": "Een accuduur van twee weken is standaard. Philips-topmodellen en Oclean halen vier tot vijf weken. Dat is vooral prettig op vakantie. Let op of het reisetui oplaadt via usb, dan hoef je de lader niet mee te nemen. Alle borstels in deze lijst hebben een lithium-ionaccu die jaren meegaat zonder merkbaar capaciteitsverlies."},
-    {"h": "Apps en poetsbegeleiding", "p": "Oral-B iO en Philips Sonicare volgen via de app welke delen van je gebit je poetst en welke je mist. Dat is leerzaam in de eerste weken, maar de meeste gebruikers zetten de app na een maand niet meer aan. Betaal er dus niet te veel voor. De sensoren in de borstel zelf, zoals druk en automatische intensiteit, werken ook zonder telefoon en zijn belangrijker."},
-    {"h": "Hoeveel moet je uitgeven?", "p": "Tussen 30 en 60 euro koop je een goede tandenborstel met timer en druksensor die aantoonbaar beter poetst dan een handborstel. Tussen 80 en 120 euro krijg je meer standen, een stillere motor en herkenning van opzetborstels. Boven de 150 euro betaal je voor automatische aanpassing van de intensiteit, een scherm en luxe accessoires. Voor de meeste mensen is de middenklasse de slimste koop."}
+    {
+      "h": "Sonisch of oscillerend?",
+      "p": "Oral-B gebruikt een ronde kop die snel heen en weer draait en elke tand afzonderlijk omsluit. Philips Sonicare gebruikt een langwerpige kop die tienduizenden keren per minuut trilt. Onderzoek laat zien dat beide duidelijk beter poetsen dan een handtandenborstel; het verschil onderling is klein. Oscillerend voelt grondiger en is luider, sonisch voelt zachter en is stiller. Kies wat je prettig vindt, want de borstel die je graag gebruikt poetst het beste."
+    },
+    {
+      "h": "Een druksensor is geen luxe",
+      "p": "De meeste mensen poetsen te hard. Dat slijt het tandglazuur en duwt het tandvlees terug. Een druksensor die oplicht of trilt zodra je te veel kracht zet, is daarom het belangrijkste kenmerk na de poetstechniek zelf. Kies een model waarbij je de sensor in de spiegel kunt zien, zoals de lichtring van de Oral-B Pro 3 of de iO-modellen."
+    },
+    {
+      "h": "Kosten van opzetborstels",
+      "p": "Een opzetborstel vervang je elke drie maanden. Bij Oral-B kost een klassieke opzetborstel rond de 4 euro, bij Philips en de iO-lijn 7 tot 12 euro. Over vijf jaar scheelt dat per persoon 60 tot 160 euro, meer dan het prijsverschil tussen veel modellen. Huismerkborstels passen vaak prima en kosten de helft."
+    },
+    {
+      "h": "Accuduur en opladen",
+      "p": "Een accuduur van twee weken is standaard. Philips-topmodellen en Oclean halen vier tot vijf weken. Dat is vooral prettig op vakantie. Let op of het reisetui oplaadt via usb, dan hoef je de lader niet mee te nemen. Alle borstels in deze lijst hebben een lithium-ionaccu die jaren meegaat zonder merkbaar capaciteitsverlies."
+    },
+    {
+      "h": "Apps en poetsbegeleiding",
+      "p": "Oral-B iO en Philips Sonicare volgen via de app welke delen van je gebit je poetst en welke je mist. Dat is leerzaam in de eerste weken, maar de meeste gebruikers zetten de app na een maand niet meer aan. Betaal er dus niet te veel voor. De sensoren in de borstel zelf, zoals druk en automatische intensiteit, werken ook zonder telefoon en zijn belangrijker."
+    },
+    {
+      "h": "Hoeveel moet je uitgeven?",
+      "p": "Tussen 30 en 60 euro koop je een goede tandenborstel met timer en druksensor die aantoonbaar beter poetst dan een handborstel. Tussen 80 en 120 euro krijg je meer standen, een stillere motor en herkenning van opzetborstels. Boven de 150 euro betaal je voor automatische aanpassing van de intensiteit, een scherm en luxe accessoires. Voor de meeste mensen is de middenklasse de slimste koop."
+    }
   ],
   "faq": [
-    {"q": "Wat is de beste elektrische tandenborstel van 2026?", "a": "Op basis van onze vergelijking is de Philips Sonicare 9900 Prestige de beste elektrische tandenborstel van 2026, omdat hij druk, beweging en dekking meet en de intensiteit zelf aanpast. De beste prijs-kwaliteit is de Oral-B Pro 3 3000."},
-    {"q": "Is Oral-B of Philips Sonicare beter?", "a": "Beide poetsen duidelijk beter dan een handtandenborstel en het verschil onderling is volgens onderzoek klein. Oral-B poetst oscillerend met een ronde kop en voelt grondiger, Philips poetst sonisch en voelt zachter en stiller. Oral-B opzetborstels zijn goedkoper."},
-    {"q": "Hoe vaak moet je een opzetborstel vervangen?", "a": "Elke drie maanden, of eerder als de haartjes uit elkaar gaan staan. Veel borstels hebben indicatorharen die verkleuren. Philips BrushSync en Oral-B iO houden het gebruik bij en waarschuwen op het handvat of in de app."},
-    {"q": "Is een dure tandenborstel beter voor je tanden?", "a": "Niet per se. Een goede poetstechniek, twee minuten poetsen en niet te hard drukken maken het grootste verschil. Een druksensor en timer helpen daarbij en die zitten al op modellen van rond de 50 euro. Dure modellen voegen comfort, stilte en begeleiding toe."},
-    {"q": "Is een elektrische tandenborstel geschikt voor kinderen?", "a": "Ja, vanaf ongeveer drie jaar met een kindermodel zoals de Philips Sonicare for Kids of de Oral-B Junior. Die hebben een kleinere, zachtere kop en een lagere kracht. Poets tot zeven jaar wel mee of na, omdat kinderen de achterste kiezen vaak overslaan."},
-    {"q": "Hoe lang gaat een elektrische tandenborstel mee?", "a": "Reken op vijf tot acht jaar. De accu is meestal het eerste onderdeel dat achteruitgaat. Spoel het handvat na gebruik af en laat het niet permanent op de lader staan, dat verlengt de levensduur van de accu."}
+    {
+      "q": "Wat is de beste elektrische tandenborstel van 2026?",
+      "a": "Op basis van onze vergelijking is de Philips Sonicare 9900 Prestige de beste elektrische tandenborstel van 2026, omdat hij druk, beweging en dekking meet en de intensiteit zelf aanpast. De beste prijs-kwaliteit is de Oral-B Pro 3 3000."
+    },
+    {
+      "q": "Is Oral-B of Philips Sonicare beter?",
+      "a": "Beide poetsen duidelijk beter dan een handtandenborstel en het verschil onderling is volgens onderzoek klein. Oral-B poetst oscillerend met een ronde kop en voelt grondiger, Philips poetst sonisch en voelt zachter en stiller. Oral-B opzetborstels zijn goedkoper."
+    },
+    {
+      "q": "Hoe vaak moet je een opzetborstel vervangen?",
+      "a": "Elke drie maanden, of eerder als de haartjes uit elkaar gaan staan. Veel borstels hebben indicatorharen die verkleuren. Philips BrushSync en Oral-B iO houden het gebruik bij en waarschuwen op het handvat of in de app."
+    },
+    {
+      "q": "Is een dure tandenborstel beter voor je tanden?",
+      "a": "Niet per se. Een goede poetstechniek, twee minuten poetsen en niet te hard drukken maken het grootste verschil. Een druksensor en timer helpen daarbij en die zitten al op modellen van rond de 50 euro. Dure modellen voegen comfort, stilte en begeleiding toe."
+    },
+    {
+      "q": "Is een elektrische tandenborstel geschikt voor kinderen?",
+      "a": "Ja, vanaf ongeveer drie jaar met een kindermodel zoals de Philips Sonicare for Kids of de Oral-B Junior. Die hebben een kleinere, zachtere kop en een lagere kracht. Poets tot zeven jaar wel mee of na, omdat kinderen de achterste kiezen vaak overslaan."
+    },
+    {
+      "q": "Hoe lang gaat een elektrische tandenborstel mee?",
+      "a": "Reken op vijf tot acht jaar. De accu is meestal het eerste onderdeel dat achteruitgaat. Spoel het handvat na gebruik af en laat het niet permanent op de lader staan, dat verlengt de levensduur van de accu."
+    }
   ]
 }

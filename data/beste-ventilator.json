@@ -5,7 +5,13 @@
   "title": "De 10 beste ventilatoren van 2026",
   "short": "Ventilatoren",
   "query": "ventilator",
-  "keywords": ["staande ventilator", "torenventilator", "stille ventilator", "ventilator slaapkamer", "ventilator met afstandsbediening"],
+  "keywords": [
+    "staande ventilator",
+    "torenventilator",
+    "stille ventilator",
+    "ventilator slaapkamer",
+    "ventilator met afstandsbediening"
+  ],
   "ico": "🌀",
   "color": "#1b8fb3",
   "updated": "2026-10-13",
@@ -14,110 +20,356 @@
   "verdict": "De Duux Whisper Flex Ultimate is de beste ventilator voor de meeste mensen: 30 standen, nauwelijks hoorbaar op de laagste stand, een accu voor in de tuin en een app. Wil je minder uitgeven, dan is de Honeywell QuietSet HYF290E4 de beste prijs-kwaliteit onder de torenventilatoren, stil en betrouwbaar. Voor wie het beste design en de beste afwerking wil, blijft de Dyson Cool AM07 de referentie onder de bladloze ventilatoren.",
   "products": [
     {
-      "brand": "Duux", "name": "Whisper Flex Ultimate", "price": 199, "score": 9.2, "label": "Beste keuze", "reviews": "4.300+ reviews",
+      "brand": "Duux",
+      "name": "Whisper Flex Ultimate",
+      "price": 199,
+      "score": 9.2,
+      "label": "Beste keuze",
+      "reviews": "4.300+ reviews",
       "oneliner": "30 standen, fluisterstil en met accu voor in de tuin.",
-      "specs": {"Type": "Staand, in hoogte verstelbaar", "Hoogte": "51 tot 88 cm", "Standen": "30", "Geluid min": "13 dB", "Afstandsbediening": "Ja + app"},
-      "pros": ["Laagste stand van 13 dB hoor je niet", "Accu geeft tot 14 uur zonder stopcontact", "Draait horizontaal en verticaal, bereik 15 meter", "Werkt als tafel- en als staande ventilator"],
-      "cons": ["Prijs ligt hoog voor een ventilator", "Plastic voelt licht aan", "App werkt niet altijd stabiel"],
+      "specs": {
+        "Type": "Staand, in hoogte verstelbaar",
+        "Hoogte": "51 tot 88 cm",
+        "Standen": "30",
+        "Geluid min": "13 dB",
+        "Afstandsbediening": "Ja + app"
+      },
+      "pros": [
+        "Laagste stand van 13 dB hoor je niet",
+        "Accu geeft tot 14 uur zonder stopcontact",
+        "Draait horizontaal en verticaal, bereik 15 meter",
+        "Werkt als tafel- en als staande ventilator"
+      ],
+      "cons": [
+        "Prijs ligt hoog voor een ventilator",
+        "Plastic voelt licht aan",
+        "App werkt niet altijd stabiel"
+      ],
       "ideal": "Wie één ventilator wil voor slaapkamer, woonkamer en tuin die 's nachts echt stil is.",
       "text": "Het Nederlandse Duux maakte met de Whisper Flex de populairste ventilator van de afgelopen jaren en de Ultimate is de meest complete versie. De gelijkstroommotor heeft 30 standen, waarvan de laagste met 13 decibel onhoorbaar is. Dat verschil met een gewone wisselstroomventilator, die op zijn laagste stand nog altijd zoemt, is precies waarom mensen hem kopen voor de slaapkamer. De bovenste stand verplaatst genoeg lucht voor een woonkamer, met een bereik van 15 meter.\n\nDe accu is het tweede verkoopargument: tot 14 uur op de laagste stand zonder stopcontact, dus mee naar de tuin of het balkon. Je bouwt hem als tafelventilator van 51 centimeter of als staande ventilator van 88 centimeter. Hij draait horizontaal en verticaal en bedient zo de hele kamer. Reviews prijzen de stilte en de veelzijdigheid, de app krijgt kritiek vanwege haperingen. Het plastic voelt wat licht aan voor de prijs. Toch is dit de ventilator die het meeste doet voor de meeste mensen."
     },
     {
-      "brand": "Honeywell", "name": "QuietSet HYF290E4 Torenventilator", "price": 109, "score": 8.9, "label": "Beste prijs-kwaliteit", "reviews": "8.100+ reviews",
+      "brand": "Honeywell",
+      "name": "QuietSet HYF290E4 Torenventilator",
+      "price": 109,
+      "score": 8.9,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "8.100+ reviews",
       "oneliner": "Stille torenventilator met acht standen en dimbaar display.",
-      "specs": {"Type": "Toren", "Hoogte": "102 cm", "Standen": "8", "Geluid min": "ca. 36 dB", "Afstandsbediening": "Ja"},
-      "pros": ["Acht standen van fluister tot krachtig", "Display dimt of gaat uit voor de slaapkamer", "Oscillatie en timer tot 8 uur", "Meer dan 8.000 positieve reviews"],
-      "cons": ["Laagste stand hoorbaar, geen gelijkstroommotor", "Niet in hoogte verstelbaar", "Minder luchtverplaatsing dan een grote statiefventilator"],
+      "specs": {
+        "Type": "Toren",
+        "Hoogte": "102 cm",
+        "Standen": "8",
+        "Geluid min": "ca. 36 dB",
+        "Afstandsbediening": "Ja"
+      },
+      "pros": [
+        "Acht standen van fluister tot krachtig",
+        "Display dimt of gaat uit voor de slaapkamer",
+        "Oscillatie en timer tot 8 uur",
+        "Meer dan 8.000 positieve reviews"
+      ],
+      "cons": [
+        "Laagste stand hoorbaar, geen gelijkstroommotor",
+        "Niet in hoogte verstelbaar",
+        "Minder luchtverplaatsing dan een grote statiefventilator"
+      ],
       "ideal": "Een slaapkamer of woonkamer waar je een slanke ventilator wilt die niet opvalt en betrouwbaar is.",
       "text": "De Honeywell QuietSet is de torenventilator waar vrijwel iedereen tevreden over is. Hij is 102 centimeter hoog, slank genoeg om naast een bed of bank te staan en heeft acht standen die oplopen van een zacht briesje tot een krachtige luchtstroom. De naam QuietSet verwijst naar de laagste standen die zijn afgestemd op slapen. Het display dim je in twee stappen of zet je uit, zodat er geen blauw licht in je slaapkamer schijnt.\n\nDe ventilator oscilleert, heeft een timer tot acht uur en een afstandsbediening die in een houder bovenop klikt. Met meer dan achtduizend reviews en een gemiddelde ruim boven de acht is dit een van de best beoordeelde ventilatoren in Nederland. Gebruikers prijzen de stilte op de lage standen en de degelijkheid na meerdere zomers. De motor is wisselstroom, dus de laagste stand is wel hoorbaar, maar als een rustig geruis. Voor rond de 100 euro krijg je een ventilator die jaren meegaat."
     },
     {
-      "brand": "Dyson", "name": "Cool AM07 Torenventilator", "price": 449, "score": 9.0, "label": "Beste premium", "reviews": "2.700+ reviews",
+      "brand": "Dyson",
+      "name": "Cool AM07 Torenventilator",
+      "price": 449,
+      "score": 9.0,
+      "label": "Beste premium",
+      "reviews": "2.700+ reviews",
       "oneliner": "Bladloze toren met gelijkmatige luchtstroom en premium afwerking.",
-      "specs": {"Type": "Toren, bladloos", "Hoogte": "100 cm", "Standen": "10", "Geluid min": "ca. 25 dB", "Afstandsbediening": "Ja, magnetisch"},
-      "pros": ["Geen bladen, veilig voor kinderen en makkelijk schoon", "Gelijkmatige luchtstroom zonder stotende wind", "Slaaptimer en afstandsbediening die magnetisch bovenop klikt", "Afwerking en design van hoog niveau"],
-      "cons": ["Duurste in deze lijst", "Verplaatst minder lucht dan een grote statiefventilator", "Op de hoogste stand hoorbaar"],
+      "specs": {
+        "Type": "Toren, bladloos",
+        "Hoogte": "100 cm",
+        "Standen": "10",
+        "Geluid min": "ca. 25 dB",
+        "Afstandsbediening": "Ja, magnetisch"
+      },
+      "pros": [
+        "Geen bladen, veilig voor kinderen en makkelijk schoon",
+        "Gelijkmatige luchtstroom zonder stotende wind",
+        "Slaaptimer en afstandsbediening die magnetisch bovenop klikt",
+        "Afwerking en design van hoog niveau"
+      ],
+      "cons": [
+        "Duurste in deze lijst",
+        "Verplaatst minder lucht dan een grote statiefventilator",
+        "Op de hoogste stand hoorbaar"
+      ],
       "ideal": "Wie een ventilator wil die in een strak interieur past en veilig is bij kleine kinderen.",
       "text": "De Dyson Cool AM07 is de ventilator die je in een modern interieur laat staan in plaats van wegzet in september. Het bladloze ontwerp werkt met een motor in de voet die lucht omhoog blaast door een smalle spleet in de ring, waarbij de omringende lucht wordt meegetrokken. Het resultaat is een gelijkmatige stroom lucht zonder het stotende gevoel van draaiende bladen. Voor kinderen en huisdieren is er niets om vingers of poten in te steken.\n\nDe tien standen loop je door met de magnetische afstandsbediening die bovenop de ring klikt. De slaaptimer schakelt uit na een gekozen tijd. Op de laagste standen is hij stil, bovenin hoor je een duidelijk geruis. Gebruikers melden dat de luchtverplaatsing lager is dan je op basis van de prijs verwacht, een grote statiefventilator blaast harder. Je betaalt bij Dyson voor ontwerp, veiligheid en afwerking. Wie dat zoekt, krijgt een ventilator die tien jaar meegaat en er dan nog goed uitziet."
     },
     {
-      "brand": "Rowenta", "name": "Turbo Silence Extreme VU5640 Statiefventilator", "price": 129, "score": 8.7, "label": null, "reviews": "5.200+ reviews",
+      "brand": "Rowenta",
+      "name": "Turbo Silence Extreme VU5640 Statiefventilator",
+      "price": 230.93,
+      "score": 8.7,
+      "label": null,
+      "reviews": "5.200+ reviews",
       "oneliner": "Krachtige statiefventilator die op de laagste stand stil blijft.",
-      "specs": {"Type": "Staand, in hoogte verstelbaar", "Hoogte": "110 tot 140 cm", "Standen": "5", "Geluid min": "ca. 35 dB", "Afstandsbediening": "Ja"},
-      "pros": ["Grote luchtverplaatsing, tot 80 kubieke meter per minuut", "Turbo Boost-stand voor hete dagen", "Vijf bladen van 40 centimeter", "In hoogte verstelbaar tot 140 cm"],
-      "cons": ["Neemt veel ruimte in", "Laagste stand hoorbaar ondanks de naam", "Montage kost een kwartier"],
+      "specs": {
+        "Type": "Staand, in hoogte verstelbaar",
+        "Hoogte": "110 tot 140 cm",
+        "Standen": "5",
+        "Geluid min": "ca. 35 dB",
+        "Afstandsbediening": "Ja"
+      },
+      "pros": [
+        "Grote luchtverplaatsing, tot 80 kubieke meter per minuut",
+        "Turbo Boost-stand voor hete dagen",
+        "Vijf bladen van 40 centimeter",
+        "In hoogte verstelbaar tot 140 cm"
+      ],
+      "cons": [
+        "Neemt veel ruimte in",
+        "Laagste stand hoorbaar ondanks de naam",
+        "Montage kost een kwartier"
+      ],
       "ideal": "Een grote woonkamer of zolderkamer waar je vooral veel lucht wilt verplaatsen.",
-      "text": "Als het echt heet is, telt maar één ding: hoeveel lucht een ventilator verplaatst. De Rowenta Turbo Silence Extreme wint daar met afstand. De vijf bladen van 40 centimeter en de 70 watt motor blazen tot 80 kubieke meter per minuut door de kamer, bijna het dubbele van een gemiddelde torenventilator. De Turbo Boost-stand haal je erbij op de heetste dagen. Op de laagste van de vijf standen is hij met 35 decibel rustig, al is het geen gelijkstroomstilte.\n\nDe ventilator is in hoogte verstelbaar van 110 tot 140 centimeter en oscilleert. De afstandsbediening heeft een timer. Met meer dan vijfduizend reviews is dit de populairste statiefventilator in Nederland en gebruikers noemen vooral de kracht en de degelijke bouw. Nadelen zijn het formaat (hij staat prominent in de kamer) en de montage die een kwartier vraagt. Voor een grote woonkamer of een zolder onder een plat dak is dit de ventilator die het verschil maakt."
+      "text": "Als het echt heet is, telt maar één ding: hoeveel lucht een ventilator verplaatst. De Rowenta Turbo Silence Extreme wint daar met afstand. De vijf bladen van 40 centimeter en de 70 watt motor blazen tot 80 kubieke meter per minuut door de kamer, bijna het dubbele van een gemiddelde torenventilator. De Turbo Boost-stand haal je erbij op de heetste dagen. Op de laagste van de vijf standen is hij met 35 decibel rustig, al is het geen gelijkstroomstilte.\n\nDe ventilator is in hoogte verstelbaar van 110 tot 140 centimeter en oscilleert. De afstandsbediening heeft een timer. Met meer dan vijfduizend reviews is dit de populairste statiefventilator in Nederland en gebruikers noemen vooral de kracht en de degelijke bouw. Nadelen zijn het formaat (hij staat prominent in de kamer) en de montage die een kwartier vraagt. Voor een grote woonkamer of een zolder onder een plat dak is dit de ventilator die het verschil maakt.",
+      "ean": "6154439185143",
+      "url": "https://www.bol.com/nl/nl/p/krachtige-stille-staande-ventilator-met-turbo-boost-en-automatische-oscillatie-40-cm/9300000242353027/",
+      "image": "https://media.s-bol.com/rwO1WKvwKmJ2/pQ514Yy/297x840.jpg",
+      "synced": "2026-10-13",
+      "bol_title": "Rowenta Turbo Silence Standing Fan VU5640F2 40 cm, Powerful Home Fan 75 m3/min, Quiet, Silent Night Mode, Turbo Boost, Automatic Oscillation and Orientation, Modern Design"
     },
     {
-      "brand": "Meaco", "name": "MeacoFan 1056P Statiefventilator", "price": 199, "score": 8.6, "label": null, "reviews": "1.100+ reviews",
+      "brand": "Meaco",
+      "name": "MeacoFan 1056P Statiefventilator",
+      "price": 199,
+      "score": 8.6,
+      "label": null,
+      "reviews": "1.100+ reviews",
       "oneliner": "Britse gelijkstroomventilator met 12 standen en laag verbruik.",
-      "specs": {"Type": "Staand, in hoogte verstelbaar", "Hoogte": "80 tot 115 cm", "Standen": "12", "Geluid min": "ca. 20 dB", "Afstandsbediening": "Ja"},
-      "pros": ["Gelijkstroommotor, stil en zuinig met 2 tot 25 watt", "Draait horizontaal en verticaal", "Nachtstand dimt het display en verlaagt de snelheid stapsgewijs", "Bereik van 15 meter"],
-      "cons": ["Minder bekend merk in Nederland", "Prijs ligt hoog", "Montage van de voet is wat priegelig"],
+      "specs": {
+        "Type": "Staand, in hoogte verstelbaar",
+        "Hoogte": "80 tot 115 cm",
+        "Standen": "12",
+        "Geluid min": "ca. 20 dB",
+        "Afstandsbediening": "Ja"
+      },
+      "pros": [
+        "Gelijkstroommotor, stil en zuinig met 2 tot 25 watt",
+        "Draait horizontaal en verticaal",
+        "Nachtstand dimt het display en verlaagt de snelheid stapsgewijs",
+        "Bereik van 15 meter"
+      ],
+      "cons": [
+        "Minder bekend merk in Nederland",
+        "Prijs ligt hoog",
+        "Montage van de voet is wat priegelig"
+      ],
       "ideal": "Wie de stilte van Duux wil met een stabielere, zwaardere statiefventilator.",
       "text": "Meaco is een Brits merk dat vooral bekend is van ontvochtigers, maar hun ventilatoren worden in het Verenigd Koninkrijk jaar na jaar als beste getipt. De MeacoFan 1056P is een statiefventilator met gelijkstroommotor, 12 standen en een verbruik van maar 2 tot 25 watt. Op de laagste stand hoor je hem nauwelijks. Hij draait horizontaal en verticaal en blaast lucht tot 15 meter ver.\n\nHet slimme zit in de nachtstand: de ventilator verlaagt elk half uur een stand en dimt het display, zodat je niet rillend wakker wordt om vier uur. De voet is zwaar en stabiel, een voordeel ten opzichte van de lichtere Duux. Gebruikers prijzen de stilte, het lage verbruik en de afstandsbediening die in een houder achterop zit. Het merk is in Nederland minder bekend, maar via bol goed verkrijgbaar. De montage van de voet vraagt wat geduld. Een uitstekende keuze voor wie een stille, degelijke ventilator wil zonder app-gedoe."
     },
     {
-      "brand": "Xiaomi", "name": "Smart Standing Fan 2 Pro", "price": 129, "score": 8.4, "label": null, "reviews": "2.400+ reviews",
+      "brand": "Xiaomi",
+      "name": "Smart Standing Fan 2 Pro",
+      "price": 129,
+      "score": 8.4,
+      "label": null,
+      "reviews": "2.400+ reviews",
       "oneliner": "Slimme statiefventilator met accu en natuurlijke-windstand.",
-      "specs": {"Type": "Staand, 2 hoogtes", "Hoogte": "64 of 100 cm", "Standen": "100", "Geluid min": "ca. 27 dB", "Afstandsbediening": "App + spraak"},
-      "pros": ["100 traploze standen via de app", "Accu tot 20 uur op de laagste stand", "Natuurlijke-windstand varieert de snelheid", "Strak ontwerp met magnetisch deksel"],
-      "cons": ["Geen fysieke afstandsbediening", "Oscillatie alleen horizontaal", "App vraagt veel rechten"],
+      "specs": {
+        "Type": "Staand, 2 hoogtes",
+        "Hoogte": "64 of 100 cm",
+        "Standen": "100",
+        "Geluid min": "ca. 27 dB",
+        "Afstandsbediening": "App + spraak"
+      },
+      "pros": [
+        "100 traploze standen via de app",
+        "Accu tot 20 uur op de laagste stand",
+        "Natuurlijke-windstand varieert de snelheid",
+        "Strak ontwerp met magnetisch deksel"
+      ],
+      "cons": [
+        "Geen fysieke afstandsbediening",
+        "Oscillatie alleen horizontaal",
+        "App vraagt veel rechten"
+      ],
       "ideal": "Wie zijn ventilator vanaf de bank of bed via de telefoon of spraak wil bedienen.",
       "text": "Xiaomi brengt de slimme-huis-aanpak naar de ventilator. De Smart Standing Fan 2 Pro heeft een gelijkstroommotor met 100 traploze standen die je in de Mi Home-app instelt of met Google Assistant en Alexa. Een natuurlijke-windstand varieert de snelheid willekeurig zodat het aanvoelt als een briesje in plaats van een constante stroom. De ingebouwde accu houdt het op de laagste stand tot 20 uur vol, dus de ventilator kan mee naar het terras.\n\nJe bouwt hem op twee hoogtes: 64 centimeter als tafelventilator of 100 centimeter staand. De zeven bladen zijn ontworpen voor een zachte luchtstroom en het ontwerp is strak wit met een magnetisch afdekkapje voor de bladen. Gebruikers prijzen de stilte en de accu. Minpunten zijn het ontbreken van een fysieke afstandsbediening, alles gaat via de knop bovenop of de app. Ook de oscillatie is beperkt, die alleen horizontaal is. Voor iemand met al een Xiaomi-huis is dit een logische aanvulling."
     },
     {
-      "brand": "Rowenta", "name": "Eole Infinite VU6670 Torenventilator", "price": 119, "score": 8.3, "label": null, "reviews": "1.900+ reviews",
+      "brand": "Rowenta",
+      "name": "Eole Infinite VU6670 Torenventilator",
+      "price": 119,
+      "score": 8.3,
+      "label": null,
+      "reviews": "1.900+ reviews",
       "oneliner": "Hoge torenventilator met lcd-display en drie standen.",
-      "specs": {"Type": "Toren", "Hoogte": "106 cm", "Standen": "3", "Geluid min": "ca. 45 dB", "Afstandsbediening": "Ja"},
-      "pros": ["Grote luchtverplaatsing voor een toren", "Timer tot 8 uur en oscillatie", "Lcd-display met temperatuur", "Stevige bouw"],
-      "cons": ["Maar drie standen", "Laagste stand vrij luid", "Display niet uit te zetten"],
+      "specs": {
+        "Type": "Toren",
+        "Hoogte": "106 cm",
+        "Standen": "3",
+        "Geluid min": "ca. 45 dB",
+        "Afstandsbediening": "Ja"
+      },
+      "pros": [
+        "Grote luchtverplaatsing voor een toren",
+        "Timer tot 8 uur en oscillatie",
+        "Lcd-display met temperatuur",
+        "Stevige bouw"
+      ],
+      "cons": [
+        "Maar drie standen",
+        "Laagste stand vrij luid",
+        "Display niet uit te zetten"
+      ],
       "ideal": "Een woonkamer waar je een toren wilt die vooral krachtig is.",
       "text": "De Rowenta Eole Infinite is een torenventilator voor wie meer lucht wil dan een gemiddelde toren levert. Met 106 centimeter hoogte en een stevige motor verplaatst hij duidelijk meer lucht dan de Honeywell, met als keerzijde dat hij ook luider is. Er zijn maar drie standen en de laagste is met rond de 45 decibel hoorbaar, dus voor een slaapkamer is dit niet de eerste keuze.\n\nIn de woonkamer is het een ander verhaal. De oscillatie bedient een brede hoek, de timer loopt tot acht uur en het lcd-display toont de kamertemperatuur. De afstandsbediening heeft dezelfde knoppen als het bedieningspaneel. Gebruikers roemen de kracht en de bouwkwaliteit, Rowenta staat bekend om ventilatoren die lang meegaan. Het display is niet uit te zetten, een gemiste kans. Wie 's avonds op de bank verkoeling zoekt in een warme woonkamer krijgt hier een stevige toren voor een redelijke prijs."
     },
     {
-      "brand": "Levoit", "name": "LTF-F361 Torenventilator", "price": 119, "score": 8.4, "label": null, "reviews": "3.600+ reviews",
+      "brand": "Levoit",
+      "name": "LTF-F361 Torenventilator",
+      "price": 45.85,
+      "score": 8.4,
+      "label": null,
+      "reviews": "3.600+ reviews",
       "oneliner": "Stille toren met gelijkstroommotor, 12 standen en app.",
-      "specs": {"Type": "Toren", "Hoogte": "91 cm", "Standen": "12", "Geluid min": "ca. 28 dB", "Afstandsbediening": "Ja + app"},
-      "pros": ["Gelijkstroommotor, stil op de lage standen", "12 standen en 90 graden oscillatie", "Display gaat uit in de slaapstand", "App met schema's en spraakbediening"],
-      "cons": ["Hoogste stand minder krachtig dan Rowenta", "Plastic voelt licht", "Minder bekend in Nederland"],
+      "specs": {
+        "Type": "Toren",
+        "Hoogte": "91 cm",
+        "Standen": "12",
+        "Geluid min": "ca. 28 dB",
+        "Afstandsbediening": "Ja + app"
+      },
+      "pros": [
+        "Gelijkstroommotor, stil op de lage standen",
+        "12 standen en 90 graden oscillatie",
+        "Display gaat uit in de slaapstand",
+        "App met schema's en spraakbediening"
+      ],
+      "cons": [
+        "Hoogste stand minder krachtig dan Rowenta",
+        "Plastic voelt licht",
+        "Minder bekend in Nederland"
+      ],
       "ideal": "Een slaapkamer waar je een slanke, stille toren met app wilt zonder Dyson-prijs.",
-      "text": "Levoit is in Nederland vooral bekend van luchtreinigers, maar hun torenventilator is in Amerika een bestseller. De LTF-F361 heeft een gelijkstroommotor met 12 standen, waardoor hij op de lage standen duidelijk stiller is dan de Honeywell en de Rowenta met wisselstroommotor. De toren is 91 centimeter hoog, oscilleert 90 graden en heeft een slaapstand die het display uitschakelt en de snelheid geleidelijk verlaagt.\n\nVia de VeSync-app stel je schema's in en koppel je hem aan Alexa of Google Home. Een fysieke afstandsbediening zit ook in de doos. Gebruikers prijzen de stilte en de prijs voor wat je krijgt. Op de hoogste stand blaast hij minder hard dan de Rowenta Eole, dus voor een grote woonkamer op een tropische dag is hij wat licht. Voor een slaapkamer is dit een van de beste torens onder de 150 euro."
+      "text": "Levoit is in Nederland vooral bekend van luchtreinigers, maar hun torenventilator is in Amerika een bestseller. De LTF-F361 heeft een gelijkstroommotor met 12 standen, waardoor hij op de lage standen duidelijk stiller is dan de Honeywell en de Rowenta met wisselstroommotor. De toren is 91 centimeter hoog, oscilleert 90 graden en heeft een slaapstand die het display uitschakelt en de snelheid geleidelijk verlaagt.\n\nVia de VeSync-app stel je schema's in en koppel je hem aan Alexa of Google Home. Een fysieke afstandsbediening zit ook in de doos. Gebruikers prijzen de stilte en de prijs voor wat je krijgt. Op de hoogste stand blaast hij minder hard dan de Rowenta Eole, dus voor een grote woonkamer op een tropische dag is hij wat licht. Voor een slaapkamer is dit een van de beste torens onder de 150 euro.",
+      "ean": "2543496551284",
+      "url": "https://www.bol.com/nl/nl/p/afstandsbediening-voor-levoit-91-cm-torenventilator-luchtreiniger-voor-slaapkamer-ltf-f361-wus-en-ltf-f361-kus-ltf-f362-wae/9300000389087322/",
+      "image": "https://media.s-bol.com/5NWGw2p6XQLx/BrL98kY/550x592.jpg",
+      "synced": "2026-10-13",
+      "bol_title": "Afstandsbediening voor LEVOIT 91 cm torenventilator & luchtreiniger voor slaapkamer LTF-F361-WUS en LTF-F361-KUS LTF-F362-WAE"
     },
     {
-      "brand": "Princess", "name": "Smart Tower Fan 350000", "price": 89, "score": 8.1, "label": null, "reviews": "2.100+ reviews",
+      "brand": "Princess",
+      "name": "Smart Tower Fan 350000",
+      "price": 89,
+      "score": 8.1,
+      "label": null,
+      "reviews": "2.100+ reviews",
       "oneliner": "Betaalbare slimme toren met app en 24 standen.",
-      "specs": {"Type": "Toren", "Hoogte": "110 cm", "Standen": "24", "Geluid min": "ca. 30 dB", "Afstandsbediening": "Ja + app"},
-      "pros": ["App en spraakbediening voor minder dan 90 euro", "24 standen via gelijkstroommotor", "Hoog, 110 centimeter", "Display dimbaar"],
-      "cons": ["Afwerking eenvoudig", "App soms traag", "Oscillatie kraakt bij sommige exemplaren"],
+      "specs": {
+        "Type": "Toren",
+        "Hoogte": "110 cm",
+        "Standen": "24",
+        "Geluid min": "ca. 30 dB",
+        "Afstandsbediening": "Ja + app"
+      },
+      "pros": [
+        "App en spraakbediening voor minder dan 90 euro",
+        "24 standen via gelijkstroommotor",
+        "Hoog, 110 centimeter",
+        "Display dimbaar"
+      ],
+      "cons": [
+        "Afwerking eenvoudig",
+        "App soms traag",
+        "Oscillatie kraakt bij sommige exemplaren"
+      ],
       "ideal": "Wie een slimme torenventilator wil en het budget beperkt is.",
       "text": "Princess is een Nederlands huishoudmerk dat zijn producten scherp prijst en met de Smart Tower Fan laat zien dat een slimme ventilator niet duur hoeft te zijn. De toren is 110 centimeter hoog, heeft een gelijkstroommotor met 24 standen en is te bedienen via de HomeWizard-app, Google Assistant en Alexa. Een afstandsbediening zit erbij. Het display dimt voor de slaapkamer.\n\nVoor minder dan 90 euro zijn de reviews positief: stil op de lage standen, veel instelmogelijkheden en een timer tot 12 uur. De afwerking is eenvoudiger dan bij Honeywell of Levoit, het plastic voelt dunner en bij sommige gebruikers kraakt de oscillatie na een seizoen. De app werkt, maar is traag in reageren. Wie dat accepteert, krijgt een slimme toren met veel standen voor de prijs van een gewone. Een goede keuze voor een tweede slaapkamer of een studentenkamer."
     },
     {
-      "brand": "Tristar", "name": "VE-5757 Statiefventilator", "price": 39, "score": 7.8, "label": null, "reviews": "6.800+ reviews",
+      "brand": "Tristar",
+      "name": "VE-5757 Statiefventilator",
+      "price": 39,
+      "score": 7.8,
+      "label": null,
+      "reviews": "6.800+ reviews",
       "oneliner": "Goedkoopste degelijke statiefventilator, al jaren een bestseller.",
-      "specs": {"Type": "Staand, in hoogte verstelbaar", "Hoogte": "105 tot 125 cm", "Standen": "3", "Geluid min": "ca. 50 dB", "Afstandsbediening": "Nee"},
-      "pros": ["Laagste prijs in deze lijst", "Bladen van 40 centimeter verplaatsen veel lucht", "In hoogte verstelbaar en kantelbaar", "Eenvoudig te monteren"],
-      "cons": ["Luid, ook op de laagste stand", "Geen afstandsbediening of timer", "Plastic voet, kan wankelen op tapijt"],
+      "specs": {
+        "Type": "Staand, in hoogte verstelbaar",
+        "Hoogte": "105 tot 125 cm",
+        "Standen": "3",
+        "Geluid min": "ca. 50 dB",
+        "Afstandsbediening": "Nee"
+      },
+      "pros": [
+        "Laagste prijs in deze lijst",
+        "Bladen van 40 centimeter verplaatsen veel lucht",
+        "In hoogte verstelbaar en kantelbaar",
+        "Eenvoudig te monteren"
+      ],
+      "cons": [
+        "Luid, ook op de laagste stand",
+        "Geen afstandsbediening of timer",
+        "Plastic voet, kan wankelen op tapijt"
+      ],
       "ideal": "Wie snel en goedkoop verkoeling wil voor een zolder, garage of logeerkamer.",
       "text": "De Tristar VE-5757 is de ventilator die elke zomer in de top drie van bestverkochte producten staat zodra het boven de 25 graden wordt. Voor rond de 40 euro krijg je een statiefventilator met bladen van 40 centimeter, drie standen, oscillatie en een in hoogte verstelbare stang van 105 tot 125 centimeter. De kop kantelt zodat je de lucht omhoog of omlaag richt.\n\nDe luchtverplaatsing is prima voor de prijs, hij blaast een kamer van 25 vierkante meter door. Het geluid is het grote nadeel: ook op de laagste stand hoor je een stevig geruis, voor een slaapkamer is dit niet geschikt. Er is geen afstandsbediening en geen timer. Gebruikers kopen hem voor een zolder, garage of werkkamer en zijn daar tevreden over, al meldt een deel dat de plastic voet op tapijt wat wankelt. Verwacht geen tien jaar, maar voor een paar zomers verkoeling tegen minimale kosten is het een eerlijke koop."
     }
   ],
   "guide": [
-    {"h": "Staand, toren of tafel?", "p": "Een staande ventilator met bladen van 40 centimeter verplaatst de meeste lucht en is in hoogte verstelbaar. Hij neemt wel ruimte in. Een torenventilator is slank, past naast een bed of bank en oscilleert over een brede hoek, maar verplaatst minder lucht. Een tafelventilator is goedkoop en compact, maar bedient alleen een werkplek. Voor een slaapkamer kies je een toren of een stille staande ventilator, voor een grote woonkamer een krachtige statiefventilator."},
-    {"h": "Gelijkstroom of wisselstroom?", "p": "Dit is het belangrijkste verschil tussen een stille en een lawaaiige ventilator. Een gelijkstroommotor (DC) heeft veel standen, verbruikt 2 tot 30 watt en kan op de laagste stand bijna onhoorbaar draaien. Een wisselstroommotor (AC) heeft drie standen, verbruikt 40 tot 70 watt en zoemt altijd hoorbaar. Voor de slaapkamer is gelijkstroom het geld meer dan waard. Voor een garage of zolder maakt het weinig uit."},
-    {"h": "Geluid: let op de laagste stand", "p": "Fabrikanten adverteren met het geluid van de laagste stand. Onder de 25 decibel is onhoorbaar, 30 tot 40 decibel is een zacht geruis waar de meeste mensen prima bij slapen en boven de 45 decibel is het een duidelijke ventilator. Een model met veel standen kun je precies afstemmen op het punt waar het geluid acceptabel is en de lucht nog beweegt."},
-    {"h": "Luchtverplaatsing en bereik", "p": "Hoeveel lucht een ventilator verplaatst wordt gemeten in kubieke meter per minuut of per uur. Een grote statiefventilator haalt 60 tot 80 kubieke meter per minuut, een toren 20 tot 40. Het bereik zegt hoe ver de luchtstroom voelbaar is: 10 tot 15 meter voor de beste modellen. Voor een grote woonkamer is luchtverplaatsing belangrijker dan stilte, voor een slaapkamer andersom."},
-    {"h": "Afstandsbediening, timer en app", "p": "Een afstandsbediening is onmisbaar bij een ventilator in de slaapkamer. Een timer die na een paar uur uitschakelt voorkomt dat je verkouden wakker wordt. Een nachtstand die de snelheid stapsgewijs verlaagt is nog beter. Een app voegt schema's en spraakbediening toe, handig maar niet nodig. Een accu maakt de ventilator bruikbaar in de tuin en op het balkon."},
-    {"h": "Hoeveel moet je uitgeven?", "p": "Onder de 50 euro koop je een lawaaiige maar krachtige statiefventilator voor de zolder of garage. Tussen 100 en 150 euro zitten de goede torenventilatoren en de eerste gelijkstroommodellen die stil genoeg zijn voor de slaapkamer. Boven de 180 euro betaal je voor de stilste motoren, een accu of design. Een ventilator koop je voor tien zomers, dus 150 euro is 15 euro per jaar."}
+    {
+      "h": "Staand, toren of tafel?",
+      "p": "Een staande ventilator met bladen van 40 centimeter verplaatst de meeste lucht en is in hoogte verstelbaar. Hij neemt wel ruimte in. Een torenventilator is slank, past naast een bed of bank en oscilleert over een brede hoek, maar verplaatst minder lucht. Een tafelventilator is goedkoop en compact, maar bedient alleen een werkplek. Voor een slaapkamer kies je een toren of een stille staande ventilator, voor een grote woonkamer een krachtige statiefventilator."
+    },
+    {
+      "h": "Gelijkstroom of wisselstroom?",
+      "p": "Dit is het belangrijkste verschil tussen een stille en een lawaaiige ventilator. Een gelijkstroommotor (DC) heeft veel standen, verbruikt 2 tot 30 watt en kan op de laagste stand bijna onhoorbaar draaien. Een wisselstroommotor (AC) heeft drie standen, verbruikt 40 tot 70 watt en zoemt altijd hoorbaar. Voor de slaapkamer is gelijkstroom het geld meer dan waard. Voor een garage of zolder maakt het weinig uit."
+    },
+    {
+      "h": "Geluid: let op de laagste stand",
+      "p": "Fabrikanten adverteren met het geluid van de laagste stand. Onder de 25 decibel is onhoorbaar, 30 tot 40 decibel is een zacht geruis waar de meeste mensen prima bij slapen en boven de 45 decibel is het een duidelijke ventilator. Een model met veel standen kun je precies afstemmen op het punt waar het geluid acceptabel is en de lucht nog beweegt."
+    },
+    {
+      "h": "Luchtverplaatsing en bereik",
+      "p": "Hoeveel lucht een ventilator verplaatst wordt gemeten in kubieke meter per minuut of per uur. Een grote statiefventilator haalt 60 tot 80 kubieke meter per minuut, een toren 20 tot 40. Het bereik zegt hoe ver de luchtstroom voelbaar is: 10 tot 15 meter voor de beste modellen. Voor een grote woonkamer is luchtverplaatsing belangrijker dan stilte, voor een slaapkamer andersom."
+    },
+    {
+      "h": "Afstandsbediening, timer en app",
+      "p": "Een afstandsbediening is onmisbaar bij een ventilator in de slaapkamer. Een timer die na een paar uur uitschakelt voorkomt dat je verkouden wakker wordt. Een nachtstand die de snelheid stapsgewijs verlaagt is nog beter. Een app voegt schema's en spraakbediening toe, handig maar niet nodig. Een accu maakt de ventilator bruikbaar in de tuin en op het balkon."
+    },
+    {
+      "h": "Hoeveel moet je uitgeven?",
+      "p": "Onder de 50 euro koop je een lawaaiige maar krachtige statiefventilator voor de zolder of garage. Tussen 100 en 150 euro zitten de goede torenventilatoren en de eerste gelijkstroommodellen die stil genoeg zijn voor de slaapkamer. Boven de 180 euro betaal je voor de stilste motoren, een accu of design. Een ventilator koop je voor tien zomers, dus 150 euro is 15 euro per jaar."
+    }
   ],
   "faq": [
-    {"q": "Wat is de beste ventilator van 2026?", "a": "Op basis van onze vergelijking is de Duux Whisper Flex Ultimate de beste ventilator voor de meeste mensen: 30 standen, 13 decibel op de laagste stand, een accu en een app. Zoek je een betaalbare torenventilator, kijk dan naar de Honeywell QuietSet HYF290E4."},
-    {"q": "Wat is het verschil tussen een torenventilator en een staande ventilator?", "a": "Een torenventilator is slank en past overal, maar verplaatst minder lucht. Een staande ventilator met grote bladen blaast harder en is in hoogte verstelbaar, maar neemt meer ruimte in. Voor de slaapkamer kies je vaak een toren, voor de woonkamer een staande."},
-    {"q": "Welke ventilator is het stilste?", "a": "Ventilatoren met een gelijkstroommotor, zoals de Duux Whisper Flex, de MeacoFan 1056P en de Levoit LTF-F361. Zij halen op de laagste stand 13 tot 28 decibel, waar een gewone wisselstroomventilator rond de 45 decibel zit."},
-    {"q": "Hoeveel stroom verbruikt een ventilator?", "a": "Een gelijkstroomventilator 2 tot 30 watt, een wisselstroomventilator 40 tot 70 watt. Een hele nacht draaien kost bij gelijkstroom een paar cent, bij wisselstroom 10 tot 15 cent."},
-    {"q": "Koelt een ventilator de kamer?", "a": "Nee, een ventilator verlaagt de temperatuur niet. Hij verplaatst lucht, waardoor zweet sneller verdampt en je huid afkoelt. Bij temperaturen boven de 35 graden werkt dat minder goed. Wil je echt koelen, dan heb je een airco nodig."},
-    {"q": "Is een ventilator veilig met kleine kinderen?", "a": "Bij een bladloze ventilator zoals de Dyson kunnen vingers er niet in. Bij een gewone ventilator zit een beschermrooster, maar kleine vingers passen soms door de spleten. Een torenventilator heeft smalle openingen en is daardoor veiliger dan een statiefventilator."}
+    {
+      "q": "Wat is de beste ventilator van 2026?",
+      "a": "Op basis van onze vergelijking is de Duux Whisper Flex Ultimate de beste ventilator voor de meeste mensen: 30 standen, 13 decibel op de laagste stand, een accu en een app. Zoek je een betaalbare torenventilator, kijk dan naar de Honeywell QuietSet HYF290E4."
+    },
+    {
+      "q": "Wat is het verschil tussen een torenventilator en een staande ventilator?",
+      "a": "Een torenventilator is slank en past overal, maar verplaatst minder lucht. Een staande ventilator met grote bladen blaast harder en is in hoogte verstelbaar, maar neemt meer ruimte in. Voor de slaapkamer kies je vaak een toren, voor de woonkamer een staande."
+    },
+    {
+      "q": "Welke ventilator is het stilste?",
+      "a": "Ventilatoren met een gelijkstroommotor, zoals de Duux Whisper Flex, de MeacoFan 1056P en de Levoit LTF-F361. Zij halen op de laagste stand 13 tot 28 decibel, waar een gewone wisselstroomventilator rond de 45 decibel zit."
+    },
+    {
+      "q": "Hoeveel stroom verbruikt een ventilator?",
+      "a": "Een gelijkstroomventilator 2 tot 30 watt, een wisselstroomventilator 40 tot 70 watt. Een hele nacht draaien kost bij gelijkstroom een paar cent, bij wisselstroom 10 tot 15 cent."
+    },
+    {
+      "q": "Koelt een ventilator de kamer?",
+      "a": "Nee, een ventilator verlaagt de temperatuur niet. Hij verplaatst lucht, waardoor zweet sneller verdampt en je huid afkoelt. Bij temperaturen boven de 35 graden werkt dat minder goed. Wil je echt koelen, dan heb je een airco nodig."
+    },
+    {
+      "q": "Is een ventilator veilig met kleine kinderen?",
+      "a": "Bij een bladloze ventilator zoals de Dyson kunnen vingers er niet in. Bij een gewone ventilator zit een beschermrooster, maar kleine vingers passen soms door de spleten. Een torenventilator heeft smalle openingen en is daardoor veiliger dan een statiefventilator."
+    }
   ]
 }

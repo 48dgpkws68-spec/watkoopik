@@ -5,7 +5,13 @@
   "title": "De 10 beste wasdrogers van 2026",
   "short": "Wasdrogers",
   "query": "wasdroger",
-  "keywords": ["warmtepompdroger", "wasdroger 9 kg", "zuinige wasdroger", "stille wasdroger", "wasdroger 8 kg"],
+  "keywords": [
+    "warmtepompdroger",
+    "wasdroger 9 kg",
+    "zuinige wasdroger",
+    "stille wasdroger",
+    "wasdroger 8 kg"
+  ],
   "ico": "🌀",
   "color": "#7c3aed",
   "updated": "2026-10-13",
@@ -14,110 +20,356 @@
   "verdict": "De Miele TWD 464 WP is de beste wasdroger van 2026: zuinig, zacht voor kleding en gebouwd voor twintig jaar gebruik. Voor de meeste gezinnen is de Bosch Serie 6 WQG245A0NL de beste prijs-kwaliteit, met klasse A+++, een zelfreinigende condensor en een stille motor. Wie het meeste comfort wil, kiest de Samsung Bespoke AI DV90BB9445GES3 met AI-droogprogramma en een filter dat je bijna nooit hoeft schoon te maken.",
   "products": [
     {
-      "brand": "Miele", "name": "TWD 464 WP", "price": 1149, "score": 9.3, "label": "Beste keuze", "reviews": "1.400+ reviews",
+      "brand": "Miele",
+      "name": "TWD 464 WP",
+      "price": 1149,
+      "score": 9.3,
+      "label": "Beste keuze",
+      "reviews": "1.400+ reviews",
       "oneliner": "Zuinigste en zachtste droger, gebouwd voor twintig jaar.",
-      "specs": {"Vulgewicht": "8 kg", "Energielabel": "A+++", "Geluid": "64 dB", "Verbruik per jaar": "176 kWh", "Droogtijd katoen": "ca. 2 u 40 min"},
-      "pros": ["PerfectDry meet de waterhardheid en droogt exact zoals ingesteld", "Honingraattrommel voorkomt pluizen en slijtage", "EcoDry-filtersysteem houdt het verbruik 20 jaar laag", "Zeer stil met 64 dB"],
-      "cons": ["Hoogste prijs in deze lijst", "Vulgewicht van 8 kilo is kleiner dan bij de concurrentie", "Geen app in deze uitvoering"],
+      "specs": {
+        "Vulgewicht": "8 kg",
+        "Energielabel": "A+++",
+        "Geluid": "64 dB",
+        "Verbruik per jaar": "176 kWh",
+        "Droogtijd katoen": "ca. 2 u 40 min"
+      },
+      "pros": [
+        "PerfectDry meet de waterhardheid en droogt exact zoals ingesteld",
+        "Honingraattrommel voorkomt pluizen en slijtage",
+        "EcoDry-filtersysteem houdt het verbruik 20 jaar laag",
+        "Zeer stil met 64 dB"
+      ],
+      "cons": [
+        "Hoogste prijs in deze lijst",
+        "Vulgewicht van 8 kilo is kleiner dan bij de concurrentie",
+        "Geen app in deze uitvoering"
+      ],
       "ideal": "Wie één droger wil kopen voor de komende twintig jaar en kleding wil beschermen.",
       "text": "Miele bouwt drogers zoals het wasmachines bouwt: op twintig jaar gebruik. De TWD 464 WP heeft de honingraattrommel die wasgoed op een luchtkussen laat rollen in plaats van tegen de wand te slaan. Daardoor pluist kleding minder en blijft hij langer mooi. PerfectDry meet de kalk in het restwater en bepaalt zo nauwkeurig wanneer de was precies kastdroog is, waardoor je nooit te natte of te droge was uit de trommel haalt.\n\nMet 176 kWh per jaar hoort hij bij de zuinigste drogers die er zijn en met 64 dB is hij nauwelijks hoorbaar. Het EcoDry-systeem met dubbel pluizenfilter houdt de warmtewisselaar schoon, waardoor het verbruik niet oploopt met de jaren. Het vulgewicht van 8 kilo is wat kleiner dan de 9 kilo van de concurrentie en een app ontbreekt. Gebruikers prijzen de rust, de degelijkheid en het feit dat de was zachter uit de droger komt. Een forse investering die per jaar gebruik vaak goedkoper uitpakt."
     },
     {
-      "brand": "Bosch", "name": "Serie 6 WQG245A0NL", "price": 799, "score": 9.0, "label": "Beste prijs-kwaliteit", "reviews": "2.100+ reviews",
+      "brand": "Bosch",
+      "name": "Serie 6 WQG245A0NL",
+      "price": 799,
+      "score": 9.0,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "2.100+ reviews",
       "oneliner": "A+++, zelfreinigende condensor en stil voor een gezinsprijs.",
-      "specs": {"Vulgewicht": "9 kg", "Energielabel": "A+++", "Geluid": "62 dB", "Verbruik per jaar": "193 kWh", "Droogtijd katoen": "ca. 2 u 50 min"},
-      "pros": ["AutoClean-condensor spoelt zichzelf schoon tijdens het drogen", "9 kilo vulgewicht", "Stilste droger in deze lijst met 62 dB", "AutoDry-sensoren voorkomen oververhitting van kleding"],
-      "cons": ["Pluizenfilter in de deur moet je na elke beurt leegmaken", "Langzamer dan de duurdere modellen", "Home Connect alleen bij de duurdere uitvoering"],
+      "specs": {
+        "Vulgewicht": "9 kg",
+        "Energielabel": "A+++",
+        "Geluid": "62 dB",
+        "Verbruik per jaar": "193 kWh",
+        "Droogtijd katoen": "ca. 2 u 50 min"
+      },
+      "pros": [
+        "AutoClean-condensor spoelt zichzelf schoon tijdens het drogen",
+        "9 kilo vulgewicht",
+        "Stilste droger in deze lijst met 62 dB",
+        "AutoDry-sensoren voorkomen oververhitting van kleding"
+      ],
+      "cons": [
+        "Pluizenfilter in de deur moet je na elke beurt leegmaken",
+        "Langzamer dan de duurdere modellen",
+        "Home Connect alleen bij de duurdere uitvoering"
+      ],
       "ideal": "Gezinnen die een zuinige, stille droger willen die lang goed blijft presteren zonder gedoe met de condensor.",
       "text": "Het grootste onderhoudsprobleem bij een warmtepompdroger is de condensor: als die vol pluizen zit, loopt de droogtijd op en stijgt het verbruik. De Bosch Serie 6 WQG245A0NL lost dat op met AutoClean, een systeem dat de condensor tijdens elke beurt met condenswater schoonspoelt. Je hoeft dus alleen het pluizenfilter in de deur leeg te maken.\n\nMet 9 kilo past een gezinswas in één keer en met 62 dB is dit de stilste droger van de tien, ideaal als hij in de keuken of bij de woonkamer staat. De AutoDry-sensoren meten het restvocht en stoppen op tijd, zodat kleding niet krimpt. De droogtijd van bijna drie uur voor een volle lading katoen is normaal voor klasse A+++ maar niet snel. Gebruikers noemen de betrouwbaarheid, het lage verbruik en de rust als voornaamste pluspunten. Voor dit geld is er geen completere droger."
     },
     {
-      "brand": "Samsung", "name": "Bespoke AI DV90BB9445GES3", "price": 1049, "score": 9.1, "label": "Beste premium", "reviews": "560+ reviews",
+      "brand": "Samsung",
+      "name": "Bespoke AI DV90BB9445GES3",
+      "price": 1049,
+      "score": 9.1,
+      "label": "Beste premium",
+      "reviews": "560+ reviews",
       "oneliner": "AI-droogprogramma en een filter dat je zelden hoeft schoon te maken.",
-      "specs": {"Vulgewicht": "9 kg", "Energielabel": "A+++", "Geluid": "62 dB", "Verbruik per jaar": "176 kWh", "Droogtijd katoen": "ca. 2 u 30 min"},
-      "pros": ["AI Dry past temperatuur en tijd aan op de stofsoort", "Zelfreinigend filter, handmatig schoonmaken eens per paar weken", "Snelle droogtijd voor A+++", "SmartThings koppelt met de wasmachine en neemt het programma over"],
-      "cons": ["Prijzig", "Vraagt een Samsung-account voor de app", "Servicenetwerk kleiner dan bij de Duitse merken"],
+      "specs": {
+        "Vulgewicht": "9 kg",
+        "Energielabel": "A+++",
+        "Geluid": "62 dB",
+        "Verbruik per jaar": "176 kWh",
+        "Droogtijd katoen": "ca. 2 u 30 min"
+      },
+      "pros": [
+        "AI Dry past temperatuur en tijd aan op de stofsoort",
+        "Zelfreinigend filter, handmatig schoonmaken eens per paar weken",
+        "Snelle droogtijd voor A+++",
+        "SmartThings koppelt met de wasmachine en neemt het programma over"
+      ],
+      "cons": [
+        "Prijzig",
+        "Vraagt een Samsung-account voor de app",
+        "Servicenetwerk kleiner dan bij de Duitse merken"
+      ],
       "ideal": "Wie een Samsung Bespoke-wasmachine heeft of wil en de droger volledig automatisch wil laten werken.",
       "text": "De Samsung Bespoke AI DV90BB9445GES3 is de slimste droger in onze vergelijking. AI Dry herkent de stofsoort en het restvocht en stelt daarop de temperatuur en de duur af, waardoor een volle lading katoen in ongeveer tweeënhalf uur klaar is, sneller dan de meeste A+++-drogers. Heb je de bijpassende Bespoke-wasmachine, dan geeft die het programma automatisch door en hoef je zelf niets meer te kiezen.\n\nHet filtersysteem vangt pluizen in een groot reservoir dat je volgens gebruikers maar eens in de paar weken leegt in plaats van na elke beurt. Met 176 kWh per jaar en 62 dB is hij even zuinig en stil als de allerbeste. De SmartThings-app toont het verbruik en stuurt een melding als de was klaar is. Je betaalt een premie en hebt een Samsung-account nodig, maar voor wie van automatisering houdt, is dit de meest comfortabele droger."
     },
     {
-      "brand": "AEG", "name": "8000 Series TR838P4B AbsoluteCare", "price": 879, "score": 8.9, "label": null, "reviews": "720+ reviews",
+      "brand": "AEG",
+      "name": "8000 Series TR838P4B AbsoluteCare",
+      "price": 879,
+      "score": 8.9,
+      "label": null,
+      "reviews": "720+ reviews",
       "oneliner": "Droogt wol en zijde zo zacht dat je ze in de droger durft te doen.",
-      "specs": {"Vulgewicht": "8 kg", "Energielabel": "A+++", "Geluid": "64 dB", "Verbruik per jaar": "177 kWh", "Droogtijd katoen": "ca. 2 u 35 min"},
-      "pros": ["AbsoluteCare-trommel beweegt wol en zijde als handdrogen", "Woolmark Blue-certificaat voor wol", "SensiDry droogt op lage temperatuur, zacht voor kleding", "Outdoor-programma herstelt de impregnering van buitenkleding"],
-      "cons": ["Vulgewicht 8 kilo", "Deur opent naar één kant, niet omkeerbaar", "Pluizenfilter heeft meerdere delen"],
+      "specs": {
+        "Vulgewicht": "8 kg",
+        "Energielabel": "A+++",
+        "Geluid": "64 dB",
+        "Verbruik per jaar": "177 kWh",
+        "Droogtijd katoen": "ca. 2 u 35 min"
+      },
+      "pros": [
+        "AbsoluteCare-trommel beweegt wol en zijde als handdrogen",
+        "Woolmark Blue-certificaat voor wol",
+        "SensiDry droogt op lage temperatuur, zacht voor kleding",
+        "Outdoor-programma herstelt de impregnering van buitenkleding"
+      ],
+      "cons": [
+        "Vulgewicht 8 kilo",
+        "Deur opent naar één kant, niet omkeerbaar",
+        "Pluizenfilter heeft meerdere delen"
+      ],
       "ideal": "Wie veel wol, sportkleding of buitenkleding draagt en die niet langer aan de lijn wil drogen.",
       "text": "De meeste mensen durven geen wollen trui in de droger te doen. AEG richt zich daar met de 8000 AbsoluteCare precies op. De trommel beweegt wol en zijde met een speciale beweging die het handdrogen op een handdoek nabootst en dat heeft het Woolmark Blue-certificaat gekregen. Gebruikers melden dat truien er zonder krimp of vervorming uit komen.\n\nSensiDry droogt op een lagere temperatuur dan gewone drogers, wat kleding spaart en kleur behoudt. Het Outdoor-programma activeert de waterafstotende laag van jassen en wandelkleding opnieuw. Met 177 kWh en 64 dB zit hij bij de zuinige en stille drogers. Het vulgewicht van 8 kilo is iets kleiner en de deur kun je niet verhangen, wat in een krappe opstelling kan tegenvallen. Voor wie veel kwetsbare kleding heeft, is dit de droger die de meeste zorgen wegneemt."
     },
     {
-      "brand": "Siemens", "name": "iQ500 WQ45G2D0NL", "price": 849, "score": 8.8, "label": null, "reviews": "640+ reviews",
+      "brand": "Siemens",
+      "name": "iQ500 WQ45G2D0NL",
+      "price": 849,
+      "score": 8.8,
+      "label": null,
+      "reviews": "640+ reviews",
       "oneliner": "Zelfreinigende condensor en Home Connect in een strak jasje.",
-      "specs": {"Vulgewicht": "9 kg", "Energielabel": "A+++", "Geluid": "62 dB", "Verbruik per jaar": "193 kWh", "Droogtijd katoen": "ca. 2 u 50 min"},
-      "pros": ["autoClean condensor spoelt zichzelf schoon", "Home Connect-app met programmaplanning en meldingen", "Tegen pluizen: filter met vlakke zeef dat snel schoon is", "Zeer stil"],
-      "cons": ["Vrij lange droogtijd", "Verbruik iets hoger dan de top", "Extra kosten voor wat vooral een app is"],
+      "specs": {
+        "Vulgewicht": "9 kg",
+        "Energielabel": "A+++",
+        "Geluid": "62 dB",
+        "Verbruik per jaar": "193 kWh",
+        "Droogtijd katoen": "ca. 2 u 50 min"
+      },
+      "pros": [
+        "autoClean condensor spoelt zichzelf schoon",
+        "Home Connect-app met programmaplanning en meldingen",
+        "Tegen pluizen: filter met vlakke zeef dat snel schoon is",
+        "Zeer stil"
+      ],
+      "cons": [
+        "Vrij lange droogtijd",
+        "Verbruik iets hoger dan de top",
+        "Extra kosten voor wat vooral een app is"
+      ],
       "ideal": "Wie de Bosch Serie 6 wil maar met app en een luxer uiterlijk.",
       "text": "De Siemens iQ500 WQ45G2D0NL komt uit dezelfde fabriek als de Bosch Serie 6 en deelt daarmee de belangrijkste techniek: de zelfreinigende condensor, de stille motor en de vochtsensoren. Het verschil zit in het uiterlijk, het touchdisplay en Home Connect, waarmee je de droger via de app start, programma's downloadt en een melding krijgt als de was klaar is.\n\nMet 9 kilo, klasse A+++ en 62 dB zijn de cijfers identiek aan die van Bosch. Het pluizenfilter heeft een vlakke zeef die je in een paar seconden schoon veegt. De droogtijd van bijna drie uur voor een volle lading katoen is aan de lange kant, wat typisch is voor zuinige drogers. Gebruikers waarderen de strakke vormgeving en de app, al vinden sommigen de meerprijs ten opzichte van Bosch lastig te verantwoorden. Wie de app wil, zit hier goed."
     },
     {
-      "brand": "LG", "name": "RH90V9AV2QR", "price": 749, "score": 8.7, "label": null, "reviews": "860+ reviews",
+      "brand": "LG",
+      "name": "RH90V9AV2QR",
+      "price": 749.0,
+      "score": 8.7,
+      "label": null,
+      "reviews": "860+ reviews",
       "oneliner": "Dual Inverter-warmtepomp met 10 jaar garantie en zelfreinigende condensor.",
-      "specs": {"Vulgewicht": "9 kg", "Energielabel": "A+++", "Geluid": "62 dB", "Verbruik per jaar": "194 kWh", "Droogtijd katoen": "ca. 2 u 45 min"},
-      "pros": ["Dual Inverter-compressor met 10 jaar garantie", "Zelfreinigende condensor", "Allergy Care-programma vermindert huisstofmijt", "Omkeerbare deur"],
-      "cons": ["Kunststof afwerking", "Programmakeuze met veel kleine iconen", "App vraagt om een account"],
+      "specs": {
+        "Vulgewicht": "9 kg",
+        "Energielabel": "A+++",
+        "Geluid": "62 dB",
+        "Verbruik per jaar": "194 kWh",
+        "Droogtijd katoen": "ca. 2 u 45 min"
+      },
+      "pros": [
+        "Dual Inverter-compressor met 10 jaar garantie",
+        "Zelfreinigende condensor",
+        "Allergy Care-programma vermindert huisstofmijt",
+        "Omkeerbare deur"
+      ],
+      "cons": [
+        "Kunststof afwerking",
+        "Programmakeuze met veel kleine iconen",
+        "App vraagt om een account"
+      ],
       "ideal": "Wie een complete warmtepompdroger met lange garantie wil voor rond de 750 euro.",
-      "text": "LG geeft 10 jaar garantie op de Dual Inverter-compressor, het hart van de warmtepomp. Dat is een sterk signaal, want de compressor is het duurste onderdeel om te vervangen. De RH90V9AV2QR combineert dat met een zelfreinigende condensor, waardoor je alleen het pluizenfilter hoeft te legen en met 9 kilo vulgewicht voor een gezinswas.\n\nHet Allergy Care-programma droogt op een temperatuur die huisstofmijt en pollen vermindert, nuttig voor allergiegevoelige huishoudens. De deur kun je verhangen, handig in een krappe wasruimte. Met 194 kWh en 62 dB zit hij bij de zuinige en stille modellen. Gebruikers prijzen het droogresultaat en de prijs, maar noemen de afwerking van kunststof en het drukke bedieningspaneel als minpunten. Voor de prijs krijg je een zeer complete droger van een merk dat zijn techniek durft te garanderen."
+      "text": "LG geeft 10 jaar garantie op de Dual Inverter-compressor, het hart van de warmtepomp. Dat is een sterk signaal, want de compressor is het duurste onderdeel om te vervangen. De RH90V9AV2QR combineert dat met een zelfreinigende condensor, waardoor je alleen het pluizenfilter hoeft te legen en met 9 kilo vulgewicht voor een gezinswas.\n\nHet Allergy Care-programma droogt op een temperatuur die huisstofmijt en pollen vermindert, nuttig voor allergiegevoelige huishoudens. De deur kun je verhangen, handig in een krappe wasruimte. Met 194 kWh en 62 dB zit hij bij de zuinige en stille modellen. Gebruikers prijzen het droogresultaat en de prijs, maar noemen de afwerking van kunststof en het drukke bedieningspaneel als minpunten. Voor de prijs krijg je een zeer complete droger van een merk dat zijn techniek durft te garanderen.",
+      "ean": "8806084942913",
+      "url": "https://www.bol.com/nl/nl/p/lg-rh90v9av2qr-vrijstaand-voorbelading-warmtepomp-wit-draaiknop-touch-rechts/9300000176604438/",
+      "image": "https://media.s-bol.com/mmzGYmyB3oE0/rkl1rPw/550x758.jpg",
+      "synced": "2026-10-13",
+      "bol_title": "LG RH90V9AV2QR - Warmtepompdroger - 9 kg"
     },
     {
-      "brand": "Bosch", "name": "Serie 4 WTH85V0PNL", "price": 599, "score": 8.4, "label": null, "reviews": "1.600+ reviews",
+      "brand": "Bosch",
+      "name": "Serie 4 WTH85V0PNL",
+      "price": 599,
+      "score": 8.4,
+      "label": null,
+      "reviews": "1.600+ reviews",
       "oneliner": "Betaalbare Bosch-warmtepomp met 8 kilo en A++.",
-      "specs": {"Vulgewicht": "8 kg", "Energielabel": "A++", "Geluid": "65 dB", "Verbruik per jaar": "235 kWh", "Droogtijd katoen": "ca. 2 u 35 min"},
-      "pros": ["Bosch-degelijkheid voor onder de 600 euro", "AutoDry-sensoren voorkomen te droge was", "Snel programma voor een kleine lading in 40 minuten", "Trommel met binnenverlichting"],
-      "cons": ["Klasse A++, verbruikt meer dan de A+++-modellen", "Condensor moet je zelf schoonmaken", "8 kilo"],
+      "specs": {
+        "Vulgewicht": "8 kg",
+        "Energielabel": "A++",
+        "Geluid": "65 dB",
+        "Verbruik per jaar": "235 kWh",
+        "Droogtijd katoen": "ca. 2 u 35 min"
+      },
+      "pros": [
+        "Bosch-degelijkheid voor onder de 600 euro",
+        "AutoDry-sensoren voorkomen te droge was",
+        "Snel programma voor een kleine lading in 40 minuten",
+        "Trommel met binnenverlichting"
+      ],
+      "cons": [
+        "Klasse A++, verbruikt meer dan de A+++-modellen",
+        "Condensor moet je zelf schoonmaken",
+        "8 kilo"
+      ],
       "ideal": "Wie een betrouwbare warmtepompdroger wil van een vertrouwd merk en de laagste aanschafprijs belangrijker vindt dan het laagste verbruik.",
       "text": "De Bosch Serie 4 WTH85V0PNL is al jaren de bestverkochte warmtepompdroger in Nederland en dat is geen toeval. Voor onder de 600 euro krijg je de degelijkheid van Bosch, een stille motor en AutoDry-sensoren die de was precies kastdroog maken. De trommel heeft binnenverlichting, waardoor je die laatste sok niet over het hoofd ziet.\n\nHet verschil met de Serie 6 zit in het verbruik en het onderhoud. Met klasse A++ en 235 kWh per jaar gebruikt hij ongeveer 40 kWh meer dan de A+++-modellen, zo'n 15 euro per jaar. De condensor is niet zelfreinigend, dus die maak je elke paar maanden zelf schoon. Het vulgewicht van 8 kilo is voldoende voor een klein gezin. Gebruikers prijzen de betrouwbaarheid en de eenvoud. Een eerlijke droger voor wie het verschil in verbruik niet in de prijs wil terugzien."
     },
     {
-      "brand": "Haier", "name": "HD90-A2979", "price": 599, "score": 8.3, "label": null, "reviews": "720+ reviews",
+      "brand": "Haier",
+      "name": "HD90-A2979",
+      "price": 599,
+      "score": 8.3,
+      "label": null,
+      "reviews": "720+ reviews",
       "oneliner": "A+++ en 9 kilo voor de prijs van een instapper.",
-      "specs": {"Vulgewicht": "9 kg", "Energielabel": "A+++", "Geluid": "65 dB", "Verbruik per jaar": "193 kWh", "Droogtijd katoen": "ca. 2 u 50 min"},
-      "pros": ["Energieklasse A+++ voor onder de 600 euro", "Grote trommel van 9 kilo met brede opening", "i-Refresh stoomprogramma frist kleding op", "Inverter-motor met 12 jaar garantie"],
-      "cons": ["Condensor zelf schoonmaken", "Pluizenfilter uit meerdere delen", "Minder bekend merk, kleiner servicenetwerk"],
+      "specs": {
+        "Vulgewicht": "9 kg",
+        "Energielabel": "A+++",
+        "Geluid": "65 dB",
+        "Verbruik per jaar": "193 kWh",
+        "Droogtijd katoen": "ca. 2 u 50 min"
+      },
+      "pros": [
+        "Energieklasse A+++ voor onder de 600 euro",
+        "Grote trommel van 9 kilo met brede opening",
+        "i-Refresh stoomprogramma frist kleding op",
+        "Inverter-motor met 12 jaar garantie"
+      ],
+      "cons": [
+        "Condensor zelf schoonmaken",
+        "Pluizenfilter uit meerdere delen",
+        "Minder bekend merk, kleiner servicenetwerk"
+      ],
       "ideal": "Wie het laagste verbruik wil zonder de prijs van de grote Duitse merken.",
       "text": "Haier levert met de HD90-A2979 een droger die op papier met de top meedoet, voor een instapperprijs. Klasse A+++, 193 kWh per jaar en 9 kilo vulgewicht: dat zijn de cijfers van drogers die 200 tot 300 euro meer kosten. Het i-Refresh-programma frist kleding met stoom op, zodat een trui of broek na één keer dragen weer fris ruikt zonder wassen.\n\nDe inverter-motor krijgt 12 jaar garantie en de trommel heeft een brede vulopening waar een dekbed makkelijk in gaat. De condensor is niet zelfreinigend en het pluizenfilter bestaat uit meerdere delen, waardoor het onderhoud iets meer tijd kost dan bij Bosch of LG. Gebruikers zijn verrast door het droogresultaat en de rust voor deze prijs. Het servicenetwerk is kleiner dan bij de Duitse merken, maar als zuinige koop is dit lastig te verslaan."
     },
     {
-      "brand": "Whirlpool", "name": "W6 D94WB EE", "price": 629, "score": 8.2, "label": null, "reviews": "480+ reviews",
+      "brand": "Whirlpool",
+      "name": "W6 D94WB EE",
+      "price": 629,
+      "score": 8.2,
+      "label": null,
+      "reviews": "480+ reviews",
       "oneliner": "6th Sense-droogsensoren en een zelfreinigende condensor.",
-      "specs": {"Vulgewicht": "9 kg", "Energielabel": "A+++", "Geluid": "63 dB", "Verbruik per jaar": "194 kWh", "Droogtijd katoen": "ca. 2 u 50 min"},
-      "pros": ["Zelfreinigende condensor voor deze prijs", "6th Sense meet vocht en past tijd en temperatuur aan", "FreshCare+ houdt was fris tot 6 uur na afloop", "Stil met 63 dB"],
-      "cons": ["Eenvoudige afwerking", "Programmaduur loopt soms uit", "Geen app"],
+      "specs": {
+        "Vulgewicht": "9 kg",
+        "Energielabel": "A+++",
+        "Geluid": "63 dB",
+        "Verbruik per jaar": "194 kWh",
+        "Droogtijd katoen": "ca. 2 u 50 min"
+      },
+      "pros": [
+        "Zelfreinigende condensor voor deze prijs",
+        "6th Sense meet vocht en past tijd en temperatuur aan",
+        "FreshCare+ houdt was fris tot 6 uur na afloop",
+        "Stil met 63 dB"
+      ],
+      "cons": [
+        "Eenvoudige afwerking",
+        "Programmaduur loopt soms uit",
+        "Geen app"
+      ],
       "ideal": "Wie een zuinige droger met weinig onderhoud wil en de was niet altijd direct uit de trommel haalt.",
       "text": "De Whirlpool W6 D94WB EE combineert functies die je vaak alleen in duurdere drogers vindt. De condensor reinigt zichzelf, waardoor het verbruik niet oploopt en je alleen het pluizenfilter leegt. 6th Sense meet continu het restvocht en past temperatuur en tijd aan, zodat een halve lading niet onnodig lang draait.\n\nFreshCare+ is net als bij de wasmachine van Whirlpool een praktische vondst: na afloop blijft de trommel af en toe draaien, zodat de was tot zes uur later nog fris en kreukvrij is. Met 9 kilo, klasse A+++ en 63 dB zijn de cijfers goed. De afwerking is eenvoudig en de resterende tijd op het display klopt volgens gebruikers niet altijd. Voor ongeveer 630 euro krijg je wel een zuinige droger met weinig onderhoud en een paar slimme functies die het dagelijkse gebruik makkelijker maken."
     },
     {
-      "brand": "Beko", "name": "B5T4824IF", "price": 519, "score": 8.0, "label": null, "reviews": "910+ reviews",
+      "brand": "Beko",
+      "name": "B5T4824IF",
+      "price": 549.0,
+      "score": 8.0,
+      "label": null,
+      "reviews": "910+ reviews",
       "oneliner": "Goedkoopste warmtepompdroger met A+++ en 8 kilo.",
-      "specs": {"Vulgewicht": "8 kg", "Energielabel": "A+++", "Geluid": "65 dB", "Verbruik per jaar": "176 kWh", "Droogtijd katoen": "ca. 2 u 45 min"},
-      "pros": ["Laagste prijs in de lijst met toch A+++", "IronFinish stoomprogramma vermindert kreuken", "Omkeerbare deur", "Zuinig verbruik van 176 kWh"],
-      "cons": ["Condensor zelf schoonmaken", "Kunststof afwerking en eenvoudig display", "Minder goed bij een volle lading dik katoen"],
+      "specs": {
+        "Vulgewicht": "8 kg",
+        "Energielabel": "A+++",
+        "Geluid": "65 dB",
+        "Verbruik per jaar": "176 kWh",
+        "Droogtijd katoen": "ca. 2 u 45 min"
+      },
+      "pros": [
+        "Laagste prijs in de lijst met toch A+++",
+        "IronFinish stoomprogramma vermindert kreuken",
+        "Omkeerbare deur",
+        "Zuinig verbruik van 176 kWh"
+      ],
+      "cons": [
+        "Condensor zelf schoonmaken",
+        "Kunststof afwerking en eenvoudig display",
+        "Minder goed bij een volle lading dik katoen"
+      ],
       "ideal": "Een eerste woning of een klein huishouden dat zuinig wil drogen voor het minste geld.",
-      "text": "Beko bewijst met de B5T4824IF dat een zuinige warmtepompdroger geen 800 euro hoeft te kosten. Voor ongeveer 520 euro krijg je klasse A+++ en een verbruik van 176 kWh per jaar, gelijk aan de duurste modellen in deze lijst. Het IronFinish-programma voegt aan het eind stoom toe, waardoor overhemden en broeken met minder kreuken uit de trommel komen.\n\nDe deur is omkeerbaar en de trommel van 8 kilo is voldoende voor een of twee personen of een klein gezin. De condensor moet je elke paar maanden zelf schoonmaken en de afwerking is eenvoudig. Bij een volle lading dik katoen, zoals handdoeken, melden gebruikers dat soms een tweede ronde nodig is. Voor dagelijkse was is het resultaat goed. Wie vooral zuinig wil drogen voor het minste geld, is hier aan het juiste adres."
+      "text": "Beko bewijst met de B5T4824IF dat een zuinige warmtepompdroger geen 800 euro hoeft te kosten. Voor ongeveer 520 euro krijg je klasse A+++ en een verbruik van 176 kWh per jaar, gelijk aan de duurste modellen in deze lijst. Het IronFinish-programma voegt aan het eind stoom toe, waardoor overhemden en broeken met minder kreuken uit de trommel komen.\n\nDe deur is omkeerbaar en de trommel van 8 kilo is voldoende voor een of twee personen of een klein gezin. De condensor moet je elke paar maanden zelf schoonmaken en de afwerking is eenvoudig. Bij een volle lading dik katoen, zoals handdoeken, melden gebruikers dat soms een tweede ronde nodig is. Voor dagelijkse was is het resultaat goed. Wie vooral zuinig wil drogen voor het minste geld, is hier aan het juiste adres.",
+      "ean": "8690842469619",
+      "url": "https://www.bol.com/nl/nl/p/beko-b5t4824if-warmtepompdroger-c-8-kg/9300000180317831/",
+      "image": "https://media.s-bol.com/wqplWzn7Xq5M/lY73Ejg/550x826.jpg",
+      "synced": "2026-10-13",
+      "bol_title": "BEKO B5T4824IF Warmtepompdroger C 8 kg"
     }
   ],
   "guide": [
-    {"h": "Warmtepomp of condens?", "p": "Een warmtepompdroger droogt op een lagere temperatuur en hergebruikt de warmte, waardoor hij 50 tot 60 procent minder stroom verbruikt dan een gewone condensdroger. Bij drie beurten per week bespaar je al snel 60 tot 80 euro per jaar, dus de hogere aanschafprijs heb je in twee tot drie jaar terug. Hij is ook zachter voor kleding. Het enige nadeel is een langere droogtijd. In 2026 is er eigenlijk geen reden meer om een condensdroger zonder warmtepomp te kopen."},
-    {"h": "Energielabel en verbruik", "p": "Drogers hebben nog het oude label met plusjes. A+++ is het zuinigst met ongeveer 175 tot 195 kWh per jaar, A++ zit rond de 235 kWh. Dat verschil is ongeveer 15 euro per jaar bij de huidige stroomprijzen. Belangrijker is of de condensor zelfreinigend is: een vervuilde condensor kan het verbruik met 30 procent laten oplopen."},
-    {"h": "Vulgewicht: kies iets groter dan de wasmachine", "p": "Natte was neemt meer ruimte in dan droge, dus een droger mag iets groter zijn dan je wasmachine. Bij een wasmachine van 8 kilo past een droger van 8 of 9 kilo. Een te volle droger droogt ongelijk en kreukt meer. Een of twee personen zitten goed bij 7 of 8 kilo, gezinnen bij 9 kilo."},
-    {"h": "Onderhoud: filter en condensor", "p": "Het pluizenfilter in de deur maak je na elke beurt leeg, dat kost tien seconden. De condensor achter het klepje onderin moet bij veel drogers elke paar maanden met de stofzuiger of onder de kraan schoon. Modellen van Bosch, Siemens, LG en Whirlpool reinigen de condensor zelf met condenswater. Dat scheelt gedoe en houdt het verbruik laag."},
-    {"h": "Geluid en opstelling", "p": "Een warmtepompdroger produceert 62 tot 66 dB, vergelijkbaar met een gesprek. Staat hij in een aparte wasruimte, dan maakt het weinig uit. In de keuken of bij een slaapkamer kies je een model van 62 of 63 dB. Let op de ventilatie: een warmtepompdroger geeft warmte af en heeft minstens een paar centimeter ruimte rondom nodig. Een omkeerbare deur is handig als de droger naast de wasmachine staat."},
-    {"h": "Hoeveel moet je uitgeven?", "p": "Tussen 500 en 600 euro krijg je al een warmtepompdroger met A++ of A+++ van Beko, Haier of Bosch Serie 4. Tussen 750 en 900 euro komen een zelfreinigende condensor, 9 kilo, app en speciale programma's voor wol of buitenkleding erbij. Boven de 1.000 euro betaal je voor de langste levensduur van Miele of de slimme automatisering van Samsung."}
+    {
+      "h": "Warmtepomp of condens?",
+      "p": "Een warmtepompdroger droogt op een lagere temperatuur en hergebruikt de warmte, waardoor hij 50 tot 60 procent minder stroom verbruikt dan een gewone condensdroger. Bij drie beurten per week bespaar je al snel 60 tot 80 euro per jaar, dus de hogere aanschafprijs heb je in twee tot drie jaar terug. Hij is ook zachter voor kleding. Het enige nadeel is een langere droogtijd. In 2026 is er eigenlijk geen reden meer om een condensdroger zonder warmtepomp te kopen."
+    },
+    {
+      "h": "Energielabel en verbruik",
+      "p": "Drogers hebben nog het oude label met plusjes. A+++ is het zuinigst met ongeveer 175 tot 195 kWh per jaar, A++ zit rond de 235 kWh. Dat verschil is ongeveer 15 euro per jaar bij de huidige stroomprijzen. Belangrijker is of de condensor zelfreinigend is: een vervuilde condensor kan het verbruik met 30 procent laten oplopen."
+    },
+    {
+      "h": "Vulgewicht: kies iets groter dan de wasmachine",
+      "p": "Natte was neemt meer ruimte in dan droge, dus een droger mag iets groter zijn dan je wasmachine. Bij een wasmachine van 8 kilo past een droger van 8 of 9 kilo. Een te volle droger droogt ongelijk en kreukt meer. Een of twee personen zitten goed bij 7 of 8 kilo, gezinnen bij 9 kilo."
+    },
+    {
+      "h": "Onderhoud: filter en condensor",
+      "p": "Het pluizenfilter in de deur maak je na elke beurt leeg, dat kost tien seconden. De condensor achter het klepje onderin moet bij veel drogers elke paar maanden met de stofzuiger of onder de kraan schoon. Modellen van Bosch, Siemens, LG en Whirlpool reinigen de condensor zelf met condenswater. Dat scheelt gedoe en houdt het verbruik laag."
+    },
+    {
+      "h": "Geluid en opstelling",
+      "p": "Een warmtepompdroger produceert 62 tot 66 dB, vergelijkbaar met een gesprek. Staat hij in een aparte wasruimte, dan maakt het weinig uit. In de keuken of bij een slaapkamer kies je een model van 62 of 63 dB. Let op de ventilatie: een warmtepompdroger geeft warmte af en heeft minstens een paar centimeter ruimte rondom nodig. Een omkeerbare deur is handig als de droger naast de wasmachine staat."
+    },
+    {
+      "h": "Hoeveel moet je uitgeven?",
+      "p": "Tussen 500 en 600 euro krijg je al een warmtepompdroger met A++ of A+++ van Beko, Haier of Bosch Serie 4. Tussen 750 en 900 euro komen een zelfreinigende condensor, 9 kilo, app en speciale programma's voor wol of buitenkleding erbij. Boven de 1.000 euro betaal je voor de langste levensduur van Miele of de slimme automatisering van Samsung."
+    }
   ],
   "faq": [
-    {"q": "Wat is de beste wasdroger van 2026?", "a": "Op basis van onze vergelijking is de Miele TWD 464 WP de beste wasdroger van 2026, dankzij het lage verbruik, de zachte honingraattrommel en de lange levensduur. Zoek je de beste prijs-kwaliteit, kijk dan naar de Bosch Serie 6 WQG245A0NL met zelfreinigende condensor."},
-    {"q": "Is een warmtepompdroger echt zuiniger?", "a": "Ja. Een warmtepompdroger verbruikt ongeveer 1,5 kWh per volle beurt tegenover 3,5 tot 4 kWh voor een condensdroger. Bij drie beurten per week scheelt dat 60 tot 80 euro per jaar."},
-    {"q": "Hoeveel kilo wasdroger heb ik nodig?", "a": "Kies een droger die even groot of iets groter is dan je wasmachine. Voor een of twee personen is 7 tot 8 kilo genoeg, voor een gezin 8 tot 9 kilo."},
-    {"q": "Wat is een zelfreinigende condensor?", "a": "De condensor is de warmtewisselaar waarin de vochtige lucht afkoelt. Pluizen die het filter passeren hopen zich daar op. Bij een zelfreinigende condensor spoelt de droger die tijdens elke beurt schoon met condenswater, zodat jij dat niet elke paar maanden zelf hoeft te doen."},
-    {"q": "Waarom duurt drogen met een warmtepomp zo lang?", "a": "Een warmtepompdroger droogt op ongeveer 50 graden in plaats van 70 tot 80 graden. Dat is zuiniger en zachter voor kleding, maar duurt wel tweeënhalf tot drie uur voor een volle lading katoen. Snelprogramma's voor kleine ladingen zijn er wel."},
-    {"q": "Mag een wasdroger op de wasmachine?", "a": "Ja, met een tussenstuk of stapelkit van hetzelfde merk. Een warmtepompdroger weegt 50 tot 60 kilo, dus zet hem nooit los op de wasmachine zonder stapelkit. Let ook op voldoende ventilatie rondom."}
+    {
+      "q": "Wat is de beste wasdroger van 2026?",
+      "a": "Op basis van onze vergelijking is de Miele TWD 464 WP de beste wasdroger van 2026, dankzij het lage verbruik, de zachte honingraattrommel en de lange levensduur. Zoek je de beste prijs-kwaliteit, kijk dan naar de Bosch Serie 6 WQG245A0NL met zelfreinigende condensor."
+    },
+    {
+      "q": "Is een warmtepompdroger echt zuiniger?",
+      "a": "Ja. Een warmtepompdroger verbruikt ongeveer 1,5 kWh per volle beurt tegenover 3,5 tot 4 kWh voor een condensdroger. Bij drie beurten per week scheelt dat 60 tot 80 euro per jaar."
+    },
+    {
+      "q": "Hoeveel kilo wasdroger heb ik nodig?",
+      "a": "Kies een droger die even groot of iets groter is dan je wasmachine. Voor een of twee personen is 7 tot 8 kilo genoeg, voor een gezin 8 tot 9 kilo."
+    },
+    {
+      "q": "Wat is een zelfreinigende condensor?",
+      "a": "De condensor is de warmtewisselaar waarin de vochtige lucht afkoelt. Pluizen die het filter passeren hopen zich daar op. Bij een zelfreinigende condensor spoelt de droger die tijdens elke beurt schoon met condenswater, zodat jij dat niet elke paar maanden zelf hoeft te doen."
+    },
+    {
+      "q": "Waarom duurt drogen met een warmtepomp zo lang?",
+      "a": "Een warmtepompdroger droogt op ongeveer 50 graden in plaats van 70 tot 80 graden. Dat is zuiniger en zachter voor kleding, maar duurt wel tweeënhalf tot drie uur voor een volle lading katoen. Snelprogramma's voor kleine ladingen zijn er wel."
+    },
+    {
+      "q": "Mag een wasdroger op de wasmachine?",
+      "a": "Ja, met een tussenstuk of stapelkit van hetzelfde merk. Een warmtepompdroger weegt 50 tot 60 kilo, dus zet hem nooit los op de wasmachine zonder stapelkit. Let ook op voldoende ventilatie rondom."
+    }
   ]
 }

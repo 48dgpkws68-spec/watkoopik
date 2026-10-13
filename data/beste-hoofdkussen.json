@@ -5,7 +5,13 @@
   "title": "De 10 beste hoofdkussens van 2026",
   "short": "Hoofdkussens",
   "query": "hoofdkussen",
-  "keywords": ["hoofdkussen traagschuim", "hoofdkussen zijslaper", "donzen hoofdkussen", "ergonomisch hoofdkussen", "hoofdkussen nekklachten"],
+  "keywords": [
+    "hoofdkussen traagschuim",
+    "hoofdkussen zijslaper",
+    "donzen hoofdkussen",
+    "ergonomisch hoofdkussen",
+    "hoofdkussen nekklachten"
+  ],
   "ico": "🛌",
   "color": "#2d6cb3",
   "updated": "2026-10-13",
@@ -14,110 +20,361 @@
   "verdict": "Het Emma Original Kussen is de beste keuze voor de meeste slapers omdat je de drie lagen zelf combineert en zo de hoogte precies afstemt op je houding. Wil je weinig uitgeven, dan is het IKEA Rumsmalva een verrassend goed ergonomisch kussen van traagschuim voor nog geen 25 euro. Voor wie nekklachten heeft en het beste wil, blijft het Tempur Original Pillow de maatstaf, met een vorm die de nek echt ondersteunt.",
   "products": [
     {
-      "brand": "Emma", "name": "Original Kussen 50x70", "price": 89, "score": 9.2, "label": "Beste keuze", "reviews": "6.800+ reviews",
+      "brand": "Emma",
+      "name": "Original Kussen 50x70",
+      "price": 89,
+      "score": 9.2,
+      "label": "Beste keuze",
+      "reviews": "6.800+ reviews",
       "oneliner": "Drie losse schuimlagen die je zelf combineert tot de juiste hoogte.",
-      "specs": {"Vulling": "3 lagen schuim", "Hoogte": "11 cm, verstelbaar", "Stevigheid": "Medium, instelbaar", "Wasbaar": "Hoes op 40 graden", "Geschikt voor": "Alle houdingen"},
-      "pros": ["Lagen uitnemen om de hoogte en stevigheid aan te passen", "Werkt voor zij-, rug- en buikslapers", "Hoes afritsbaar en wasbaar", "100 nachten proefslapen"],
-      "cons": ["Vrij zwaar, bijna 2 kilo", "Houdt wat warmte vast", "Geur bij uitpakken"],
+      "specs": {
+        "Vulling": "3 lagen schuim",
+        "Hoogte": "11 cm, verstelbaar",
+        "Stevigheid": "Medium, instelbaar",
+        "Wasbaar": "Hoes op 40 graden",
+        "Geschikt voor": "Alle houdingen"
+      },
+      "pros": [
+        "Lagen uitnemen om de hoogte en stevigheid aan te passen",
+        "Werkt voor zij-, rug- en buikslapers",
+        "Hoes afritsbaar en wasbaar",
+        "100 nachten proefslapen"
+      ],
+      "cons": [
+        "Vrij zwaar, bijna 2 kilo",
+        "Houdt wat warmte vast",
+        "Geur bij uitpakken"
+      ],
       "ideal": "Wie niet weet welke hoogte hij nodig heeft en één kussen wil dat zich laat afstemmen.",
       "text": "Het grootste probleem bij het kiezen van een kussen is dat je pas na een paar nachten weet of de hoogte klopt. Emma lost dat op met drie losse lagen schuim in één hoes: een laag traagschuim, een laag veerkrachtig Hypersoft-schuim en een stevige basislaag. Gebruik je ze alle drie, dan heb je een hoog kussen voor zijslapers. Haal je er één uit, dan past het voor rugslapers. Met één laag is het geschikt voor buikslapers.\n\nIn reviews is dit verstelbare systeem veruit het meest genoemde pluspunt. Mensen die jarenlang zochten naar het juiste kussen vinden hier binnen een week hun combinatie. De hoes is afritsbaar en wasbaar op 40 graden. Nadelen zijn het gewicht van bijna twee kilo en het feit dat schuim meer warmte vasthoudt dan dons. Emma geeft 100 nachten proefslapen, dus bij twijfel kun je het gratis terugsturen. Voor de meeste mensen is dit het slimste kussen om mee te beginnen."
     },
     {
-      "brand": "IKEA", "name": "Rumsmalva Ergonomisch Kussen", "price": 24.99, "score": 8.7, "label": "Beste prijs-kwaliteit", "reviews": "4.100+ reviews",
+      "brand": "IKEA",
+      "name": "Rumsmalva Ergonomisch Kussen",
+      "price": 24.99,
+      "score": 8.7,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "4.100+ reviews",
       "oneliner": "Ergonomisch traagschuimkussen voor minder dan 25 euro.",
-      "specs": {"Vulling": "Traagschuim", "Hoogte": "11 cm", "Stevigheid": "Medium-stevig", "Wasbaar": "Hoes op 60 graden", "Geschikt voor": "Zij- en rugslapers"},
-      "pros": ["Laagste prijs van alle traagschuimkussens", "Golfvorm steunt de nek", "Hoes wasbaar op 60 graden", "Twee kanten met verschillende hoogte"],
-      "cons": ["Vaste hoogte, niet verstelbaar", "Voelt bij kou hard aan", "Niet geschikt voor buikslapers"],
+      "specs": {
+        "Vulling": "Traagschuim",
+        "Hoogte": "11 cm",
+        "Stevigheid": "Medium-stevig",
+        "Wasbaar": "Hoes op 60 graden",
+        "Geschikt voor": "Zij- en rugslapers"
+      },
+      "pros": [
+        "Laagste prijs van alle traagschuimkussens",
+        "Golfvorm steunt de nek",
+        "Hoes wasbaar op 60 graden",
+        "Twee kanten met verschillende hoogte"
+      ],
+      "cons": [
+        "Vaste hoogte, niet verstelbaar",
+        "Voelt bij kou hard aan",
+        "Niet geschikt voor buikslapers"
+      ],
       "ideal": "Wie wil ontdekken of een ergonomisch kussen bij hem past zonder meer dan een tientje of twee uit te geven.",
       "text": "Het IKEA Rumsmalva bewijst dat een goed ergonomisch kussen niet duur hoeft te zijn. Het is gemaakt van één blok traagschuim in een golfvorm: een hogere en een lagere rand, zodat je de kant kiest die bij je past. De hogere rand van 11 centimeter is bedoeld voor zijslapers, de lagere van 9 centimeter voor rugslapers. Het schuim vormt zich langzaam naar je nek en schouders.\n\nVoor de prijs zijn de reviews opvallend positief. Veel gebruikers melden dat nekklachten verminderden en dat het kussen na twee jaar nog steeds zijn vorm houdt. Het is wel een stevig kussen dat in een koude slaapkamer eerst hard aanvoelt voordat het opwarmt. Buikslapers vinden het te hoog. De hoes rits je af en was je op 60 graden, wat huisstofmijt doodt. Wie nog nooit op traagschuim sliep en wil weten of het iets voor hem is, kan hier bijna risicoloos mee beginnen."
     },
     {
-      "brand": "Tempur", "name": "Original Pillow Medium", "price": 149, "score": 9.0, "label": "Beste premium", "reviews": "2.300+ reviews",
+      "brand": "Tempur",
+      "name": "Original Pillow Medium",
+      "price": 149,
+      "score": 9.0,
+      "label": "Beste premium",
+      "reviews": "2.300+ reviews",
       "oneliner": "Het klassieke nekkussen met de beste ondersteuning bij nekklachten.",
-      "specs": {"Vulling": "Tempur-traagschuim", "Hoogte": "10 cm", "Stevigheid": "Stevig", "Wasbaar": "Hoes op 60 graden", "Geschikt voor": "Zij- en rugslapers"},
-      "pros": ["Ergonomische vorm volgt de kromming van nek en schouder", "Houdt zijn vorm jarenlang, 3 jaar garantie", "Veel aanbevolen door fysiotherapeuten", "Verkrijgbaar in vier hoogtes"],
-      "cons": ["Duurste kussen in deze lijst", "Vorm vraagt een week of twee gewenning", "Niet voor buikslapers"],
+      "specs": {
+        "Vulling": "Tempur-traagschuim",
+        "Hoogte": "10 cm",
+        "Stevigheid": "Stevig",
+        "Wasbaar": "Hoes op 60 graden",
+        "Geschikt voor": "Zij- en rugslapers"
+      },
+      "pros": [
+        "Ergonomische vorm volgt de kromming van nek en schouder",
+        "Houdt zijn vorm jarenlang, 3 jaar garantie",
+        "Veel aanbevolen door fysiotherapeuten",
+        "Verkrijgbaar in vier hoogtes"
+      ],
+      "cons": [
+        "Duurste kussen in deze lijst",
+        "Vorm vraagt een week of twee gewenning",
+        "Niet voor buikslapers"
+      ],
       "ideal": "Mensen met nekklachten of een hernia in de nek die gericht ondersteuning zoeken.",
       "text": "Het Tempur Original Pillow is het kussen dat fysiotherapeuten het vaakst noemen bij nekklachten. De vorm is anders dan die van een gewoon kussen: een stevige rol onder de nek en een lagere uitsparing voor het hoofd. Dat houdt je wervelkolom in een rechte lijn, zowel op je rug als op je zij. Het Tempur-schuim reageert op lichaamswarmte en past zich langzaam aan zonder in te zakken.\n\nDe eerste nachten voelen vreemd, dat melden bijna alle gebruikers. Wie doorzet, ervaart na een tot twee weken vaak duidelijk minder stijfheid in de ochtend. Het kussen is er in vier hoogtes, van extra small voor smalle schouders tot large voor brede zijslapers. De medium van 10 centimeter past de meeste volwassenen. Tempur geeft drie jaar garantie en het schuim staat erom bekend na jaren nog vormvast te zijn. De prijs is hoog, maar wie elke ochtend met nekpijn wakker wordt, betaalt dat graag."
     },
     {
-      "brand": "Silvana", "name": "Support Royaal", "price": 109, "score": 8.8, "label": null, "reviews": "1.900+ reviews",
+      "brand": "Silvana",
+      "name": "Support Royaal",
+      "price": 109,
+      "score": 8.8,
+      "label": null,
+      "reviews": "1.900+ reviews",
       "oneliner": "Nederlands kussen met synthetische vulling en stevige nekondersteuning.",
-      "specs": {"Vulling": "Synthetische vezels", "Hoogte": "ca. 12 cm", "Stevigheid": "Stevig", "Wasbaar": "Volledig op 60 graden", "Geschikt voor": "Zij- en rugslapers"},
-      "pros": ["Volledig wasbaar op 60 graden, ideaal bij allergie", "Stevige ondersteuning voor brede schouders", "In Nederland gemaakt", "Blijft koeler dan traagschuim"],
-      "cons": ["Vrij hoog, te veel voor kleine mensen", "Verliest na een paar jaar wat veerkracht", "Minder vormvast dan schuim"],
+      "specs": {
+        "Vulling": "Synthetische vezels",
+        "Hoogte": "ca. 12 cm",
+        "Stevigheid": "Stevig",
+        "Wasbaar": "Volledig op 60 graden",
+        "Geschikt voor": "Zij- en rugslapers"
+      },
+      "pros": [
+        "Volledig wasbaar op 60 graden, ideaal bij allergie",
+        "Stevige ondersteuning voor brede schouders",
+        "In Nederland gemaakt",
+        "Blijft koeler dan traagschuim"
+      ],
+      "cons": [
+        "Vrij hoog, te veel voor kleine mensen",
+        "Verliest na een paar jaar wat veerkracht",
+        "Minder vormvast dan schuim"
+      ],
       "ideal": "Zijslapers met brede schouders die een stevig kussen willen dat volledig in de wasmachine kan.",
       "text": "Silvana is een Nederlands merk dat zijn kussens indeelt op kleur en stevigheid. De Support Royaal is de stevigste uit de Support-lijn en bedoeld voor zijslapers met brede schouders. De vulling bestaat uit holle polyestervezels die veerkrachtig blijven en lucht doorlaten. Anders dan traagschuim kun je het hele kussen in de wasmachine op 60 graden wassen, wat voor mensen met allergie een belangrijk voordeel is.\n\nGebruikers roemen de stevigheid en het feit dat het kussen koel blijft. Het veert terug als een klassiek kussen maar geeft duidelijk meer steun dan een goedkoop synthetisch kussen. Het is wel hoog, waardoor kleinere mensen en rugslapers beter de minder stevige Support Medium kunnen kiezen. Na een paar jaar neemt de veerkracht wat af, iets dat voor elke vezelvulling geldt. Silvana levert het kussen in 60x70 en in de tijkkwaliteit die je kiest. Een degelijk Nederlands product voor wie geen schuim wil."
     },
     {
-      "brand": "M line", "name": "Pillow You Medium", "price": 99, "score": 8.6, "label": null, "reviews": "1.200+ reviews",
+      "brand": "M line",
+      "name": "Pillow You Medium",
+      "price": 134.99,
+      "score": 8.6,
+      "label": null,
+      "reviews": "1.200+ reviews",
       "oneliner": "Geventileerd traagschuim met kanalen die warmte afvoeren.",
-      "specs": {"Vulling": "Geventileerd traagschuim", "Hoogte": "12 cm", "Stevigheid": "Medium", "Wasbaar": "Hoes op 60 graden", "Geschikt voor": "Zij- en rugslapers"},
-      "pros": ["Luchtkanalen maken het schuim koeler dan gewoon traagschuim", "Klassieke rechthoekige vorm, geen gewenning nodig", "In drie hoogtes te krijgen", "Hoes voert vocht af"],
-      "cons": ["Prijs ligt hoog voor een schuimkussen", "Vrij zwaar", "Zacht aanvoelend, niet voor wie heel stevig wil"],
+      "specs": {
+        "Vulling": "Geventileerd traagschuim",
+        "Hoogte": "12 cm",
+        "Stevigheid": "Medium",
+        "Wasbaar": "Hoes op 60 graden",
+        "Geschikt voor": "Zij- en rugslapers"
+      },
+      "pros": [
+        "Luchtkanalen maken het schuim koeler dan gewoon traagschuim",
+        "Klassieke rechthoekige vorm, geen gewenning nodig",
+        "In drie hoogtes te krijgen",
+        "Hoes voert vocht af"
+      ],
+      "cons": [
+        "Prijs ligt hoog voor een schuimkussen",
+        "Vrij zwaar",
+        "Zacht aanvoelend, niet voor wie heel stevig wil"
+      ],
       "ideal": "Wie het comfort van traagschuim wil zonder de warmte en zonder een ergonomische golfvorm.",
-      "text": "M line maakt niet alleen matrassen maar ook kussens en de Pillow You is hun bestseller. Het is een rechthoekig kussen van traagschuim met kanalen die dwars door het schuim lopen. Daardoor circuleert lucht en voert het kussen warmte af, het grootste bezwaar van veel traagschuimkussens. De hoes is van een vochtregulerende stof en kun je afritsen en wassen op 60 graden.\n\nHet liggevoel is zachter dan dat van Tempur: je hoofd zakt wat weg en wordt dan omhuld. Gebruikers die gewone kussens te slap vonden en ergonomische kussens te hard, komen hier vaak op uit. Het kussen is er in drie hoogtes: Low voor buik- en rugslapers, Medium voor de meeste volwassenen en High voor brede zijslapers. De prijs is aan de hoge kant voor een schuimkussen, maar het schuim is van dezelfde kwaliteit als in de matrassen van het merk en blijft jaren vormvast."
+      "text": "M line maakt niet alleen matrassen maar ook kussens en de Pillow You is hun bestseller. Het is een rechthoekig kussen van traagschuim met kanalen die dwars door het schuim lopen. Daardoor circuleert lucht en voert het kussen warmte af, het grootste bezwaar van veel traagschuimkussens. De hoes is van een vochtregulerende stof en kun je afritsen en wassen op 60 graden.\n\nHet liggevoel is zachter dan dat van Tempur: je hoofd zakt wat weg en wordt dan omhuld. Gebruikers die gewone kussens te slap vonden en ergonomische kussens te hard, komen hier vaak op uit. Het kussen is er in drie hoogtes: Low voor buik- en rugslapers, Medium voor de meeste volwassenen en High voor brede zijslapers. De prijs is aan de hoge kant voor een schuimkussen, maar het schuim is van dezelfde kwaliteit als in de matrassen van het merk en blijft jaren vormvast.",
+      "ean": "8720106335982",
+      "bol_title": "M line Pillow You ergonomisch hoofdkussen - medium – anti-allergeen – nek- en hoofdondersteuning – 11 cm hoog – schouderbreedte 39 - 43 cm",
+      "url": "https://www.bol.com/nl/nl/p/m-line-hoofdkussen-pillow-you-oranje-55-x-35-cm/9300000168702147/",
+      "image": "https://media.s-bol.com/3qKvLgWW5gDp/lYLLW3V/250x200.jpg",
+      "synced": "2026-10-13"
     },
     {
-      "brand": "Simba", "name": "Hybrid Pillow", "price": 119, "score": 8.5, "label": null, "reviews": "1.600+ reviews",
+      "brand": "Simba",
+      "name": "Hybrid Pillow",
+      "price": 119,
+      "score": 8.5,
+      "label": null,
+      "reviews": "1.600+ reviews",
       "oneliner": "Verstelbaar met schuimblokjes en een koelend bovenvlak.",
-      "specs": {"Vulling": "Schuimblokjes + koelende laag", "Hoogte": "Verstelbaar", "Stevigheid": "Medium, instelbaar", "Wasbaar": "Hoes op 40 graden", "Geschikt voor": "Alle houdingen"},
-      "pros": ["Vulling van losse schuimblokjes die je bijvult of verwijdert", "Stratos-laag voelt koel aan bij het neerleggen", "Ritsvak maakt verstellen eenvoudig", "Eén kant koel, één kant warm"],
-      "cons": ["Blokjes verschuiven en voelen soms klonterig", "Vrij duur", "Vulling zelf niet wasbaar"],
+      "specs": {
+        "Vulling": "Schuimblokjes + koelende laag",
+        "Hoogte": "Verstelbaar",
+        "Stevigheid": "Medium, instelbaar",
+        "Wasbaar": "Hoes op 40 graden",
+        "Geschikt voor": "Alle houdingen"
+      },
+      "pros": [
+        "Vulling van losse schuimblokjes die je bijvult of verwijdert",
+        "Stratos-laag voelt koel aan bij het neerleggen",
+        "Ritsvak maakt verstellen eenvoudig",
+        "Eén kant koel, één kant warm"
+      ],
+      "cons": [
+        "Blokjes verschuiven en voelen soms klonterig",
+        "Vrij duur",
+        "Vulling zelf niet wasbaar"
+      ],
       "ideal": "Warme slapers die de hoogte zelf willen bepalen en van een koel kussen houden.",
       "text": "De Simba Hybrid Pillow pakt het verstellen anders aan dan Emma. In plaats van hele lagen zit het kussen vol kleine schuimblokjes die je via een rits uitneemt of bijvult. Zo stem je de hoogte op de centimeter af. De bovenkant heeft een laag Stratos-stof die warmte opneemt en koel aanvoelt zodra je je hoofd neerlegt. Draai je het kussen om, dan ligt je op de warmere kant, handig in de winter.\n\nGebruikers noemen de koelte als groot pluspunt en het verstellen als praktisch, al melden sommigen dat de blokjes zich 's nachts verplaatsen en opgeschud moeten worden. Het kussen is daardoor minder vormvast dan een blok traagschuim. De hoes is wasbaar op 40 graden, de vulling niet. Met 119 euro is het een van de duurdere kussens, maar voor mensen die 's nachts warm worden en toch schuim willen, is dit een van de beste opties."
     },
     {
-      "brand": "Yumeko", "name": "Hoofdkussen Dons Medium 60x70", "price": 99, "score": 8.4, "label": null, "reviews": "940+ reviews",
+      "brand": "Yumeko",
+      "name": "Hoofdkussen Dons Medium 60x70",
+      "price": 149.95,
+      "score": 8.4,
+      "label": null,
+      "reviews": "940+ reviews",
       "oneliner": "Zacht donskussen met biologisch katoenen tijk en gerecycled dons.",
-      "specs": {"Vulling": "Gerecycled dons en veren", "Hoogte": "Vormt zich naar je hoofd", "Stevigheid": "Medium", "Wasbaar": "Volledig op 40 graden", "Geschikt voor": "Rug- en buikslapers"},
-      "pros": ["Dons geeft een zacht, luxe hotelgevoel", "Gerecycled dons en biologisch katoen", "Volledig wasbaar", "Licht en makkelijk op te schudden"],
-      "cons": ["Minder nekondersteuning dan schuim", "Moet je dagelijks opschudden", "Niet voor mensen met donsallergie"],
+      "specs": {
+        "Vulling": "Gerecycled dons en veren",
+        "Hoogte": "Vormt zich naar je hoofd",
+        "Stevigheid": "Medium",
+        "Wasbaar": "Volledig op 40 graden",
+        "Geschikt voor": "Rug- en buikslapers"
+      },
+      "pros": [
+        "Dons geeft een zacht, luxe hotelgevoel",
+        "Gerecycled dons en biologisch katoen",
+        "Volledig wasbaar",
+        "Licht en makkelijk op te schudden"
+      ],
+      "cons": [
+        "Minder nekondersteuning dan schuim",
+        "Moet je dagelijks opschudden",
+        "Niet voor mensen met donsallergie"
+      ],
       "ideal": "Wie van een zacht, klassiek kussen houdt en duurzaam materiaal belangrijk vindt.",
-      "text": "Niet iedereen wil op een blok schuim slapen. Voor wie het zachte, omhullende gevoel van dons zoekt, is het Yumeko Hoofdkussen de beste keuze in deze lijst. Het is gevuld met gerecycled dons en veren uit oude dekbedden en kussens, gewassen en gesteriliseerd. De tijk is van biologisch katoen. De Medium-variant heeft een vulling die je hoofd omsluit zonder helemaal plat te slaan.\n\nReviews spreken van een hotelgevoel en van een kussen dat licht en luchtig blijft. Het nadeel van dons is bekend: het geeft minder gerichte steun dan schuim en je moet het elke ochtend opschudden. Voor zijslapers met brede schouders is de Medium te laag, zij kunnen beter de Firm nemen. Het kussen kan volledig in de wasmachine op 40 graden en moet daarna goed gedroogd worden in de droger. Wie een klassiek kussen wil met een goed verhaal erachter, zit hier goed."
+      "text": "Niet iedereen wil op een blok schuim slapen. Voor wie het zachte, omhullende gevoel van dons zoekt, is het Yumeko Hoofdkussen de beste keuze in deze lijst. Het is gevuld met gerecycled dons en veren uit oude dekbedden en kussens, gewassen en gesteriliseerd. De tijk is van biologisch katoen. De Medium-variant heeft een vulling die je hoofd omsluit zonder helemaal plat te slaan.\n\nReviews spreken van een hotelgevoel en van een kussen dat licht en luchtig blijft. Het nadeel van dons is bekend: het geeft minder gerichte steun dan schuim en je moet het elke ochtend opschudden. Voor zijslapers met brede schouders is de Medium te laag, zij kunnen beter de Firm nemen. Het kussen kan volledig in de wasmachine op 40 graden en moet daarna goed gedroogd worden in de droger. Wie een klassiek kussen wil met een goed verhaal erachter, zit hier goed.",
+      "ean": "8719274627326",
+      "url": "https://www.bol.com/nl/nl/p/yumeko-hoofdkussen-recycled-dons-60x70-medium-biologisch-ecologisch/9200000103384876/",
+      "image": "https://media.s-bol.com/gy7EyjMJjzpZ/o0324B/550x387.jpg",
+      "synced": "2026-10-13",
+      "bol_title": "Yumeko hoofdkussen gerecycled dons 60x70 medium - Biologisch & ecologisch"
     },
     {
-      "brand": "Panda London", "name": "Memory Foam Bamboe Kussen", "price": 69, "score": 8.3, "label": null, "reviews": "3.400+ reviews",
+      "brand": "Panda London",
+      "name": "Memory Foam Bamboe Kussen",
+      "price": 69,
+      "score": 8.3,
+      "label": null,
+      "reviews": "3.400+ reviews",
       "oneliner": "Traagschuim met bamboehoes, koel en vochtregulerend.",
-      "specs": {"Vulling": "Traagschuim", "Hoogte": "12 cm", "Stevigheid": "Medium", "Wasbaar": "Hoes op 30 graden", "Geschikt voor": "Zij- en rugslapers"},
-      "pros": ["Bamboehoes voelt zacht en koel aan", "Goed geprijsd voor een merkkussen", "Komt opgerold, zet binnen een dag uit", "Hypoallergeen"],
-      "cons": ["Vaste hoogte", "Hoes alleen op 30 graden wasbaar", "Lichte geur na uitpakken"],
+      "specs": {
+        "Vulling": "Traagschuim",
+        "Hoogte": "12 cm",
+        "Stevigheid": "Medium",
+        "Wasbaar": "Hoes op 30 graden",
+        "Geschikt voor": "Zij- en rugslapers"
+      },
+      "pros": [
+        "Bamboehoes voelt zacht en koel aan",
+        "Goed geprijsd voor een merkkussen",
+        "Komt opgerold, zet binnen een dag uit",
+        "Hypoallergeen"
+      ],
+      "cons": [
+        "Vaste hoogte",
+        "Hoes alleen op 30 graden wasbaar",
+        "Lichte geur na uitpakken"
+      ],
       "ideal": "Wie een betaalbaar traagschuimkussen wil met een zachte, koele hoes.",
       "text": "Panda London is een Brits merk dat groot werd met kussens van traagschuim in een hoes van bamboeviscose. Die hoes is het grootste verkoopargument: bamboe voelt zijdezacht en koel aan en neemt vocht sneller op dan katoen. Het schuim zelf is van gemiddelde stevigheid en 12 centimeter hoog, waardoor het past bij de meeste zij- en rugslapers.\n\nMet duizenden reviews is dit een van de populairste traagschuimkussens online en de reacties zijn overwegend positief. Mensen roemen het comfort direct uit de doos en het verschil met goedkope synthetische kussens. Het kussen komt vacuüm verpakt en heeft een dag nodig om uit te zetten, met een lichte geur die snel verdwijnt. De hoogte is niet verstelbaar, dus wie heel smal of heel breed is, kan beter een kussen met lagen kiezen. De hoes is wasbaar op 30 graden, wat lager is dan bij de concurrentie. Een goede middenweg tussen prijs en comfort."
     },
     {
-      "brand": "Auping", "name": "Comfort Mix Soft", "price": 79, "score": 8.1, "label": null, "reviews": "680+ reviews",
+      "brand": "Auping",
+      "name": "Comfort Mix Soft",
+      "price": 79,
+      "score": 8.1,
+      "label": null,
+      "reviews": "680+ reviews",
       "oneliner": "Zacht, veerkrachtig kussen met mix van vezels en wasbaar op 60 graden.",
-      "specs": {"Vulling": "Synthetische vezelmix", "Hoogte": "Vormt zich naar je hoofd", "Stevigheid": "Zacht", "Wasbaar": "Volledig op 60 graden", "Geschikt voor": "Rug- en buikslapers"},
-      "pros": ["Volledig wasbaar op 60 graden", "Zacht en licht als dons, maar zonder dons", "Nederlandse kwaliteit met 2 jaar garantie", "Ook in Medium en Firm te koop"],
-      "cons": ["Te laag voor zijslapers", "Zakt na een jaar wat in", "Prijs hoog voor een vezelkussen"],
+      "specs": {
+        "Vulling": "Synthetische vezelmix",
+        "Hoogte": "Vormt zich naar je hoofd",
+        "Stevigheid": "Zacht",
+        "Wasbaar": "Volledig op 60 graden",
+        "Geschikt voor": "Rug- en buikslapers"
+      },
+      "pros": [
+        "Volledig wasbaar op 60 graden",
+        "Zacht en licht als dons, maar zonder dons",
+        "Nederlandse kwaliteit met 2 jaar garantie",
+        "Ook in Medium en Firm te koop"
+      ],
+      "cons": [
+        "Te laag voor zijslapers",
+        "Zakt na een jaar wat in",
+        "Prijs hoog voor een vezelkussen"
+      ],
       "ideal": "Buik- en rugslapers die een zacht kussen willen dat helemaal in de wasmachine kan.",
       "text": "Het Auping Comfort kussen is de synthetische tegenhanger van een donskussen. De vulling bestaat uit een mix van fijne polyestervezels die zacht aanvoelen en toch terugveren. De Soft-variant is de laagste en zachtste van de drie stevigheden en bedoeld voor buikslapers en rugslapers die hun hoofd niet te hoog willen. Het kussen kan compleet in de wasmachine op 60 graden en in de droger.\n\nGebruikers waarderen het lichte gevoel en het gebrek aan geur of allergische reacties. Het is een kussen dat je opschudt en dat zich naar je hoofd vormt, zonder de gerichte steun van schuim. Na een jaar of twee verliest de vulling wat volume, iets wat voor elke vezelvulling geldt. Voor zijslapers is de Soft duidelijk te laag, zij kiezen de Firm. De prijs is wat hoog voor een vezelkussen, maar de afwerking en wasbaarheid rechtvaardigen dat. Een goede keuze voor wie dons wil zonder dons."
     },
     {
-      "brand": "Cinderella", "name": "Medium Hoofdkussen 60x70", "price": 49, "score": 7.9, "label": null, "reviews": "1.100+ reviews",
+      "brand": "Cinderella",
+      "name": "Medium Hoofdkussen 60x70",
+      "price": 47.95,
+      "score": 7.9,
+      "label": null,
+      "reviews": "1.100+ reviews",
       "oneliner": "Betaalbaar Nederlands vezelkussen met een medium stevigheid.",
-      "specs": {"Vulling": "Holle polyestervezels", "Hoogte": "Vormt zich naar je hoofd", "Stevigheid": "Medium", "Wasbaar": "Volledig op 60 graden", "Geschikt voor": "Alle houdingen"},
-      "pros": ["Scherpe prijs voor een merkkussen", "Volledig wasbaar op 60 graden", "Katoenen tijk ademt goed", "Blijft koel"],
-      "cons": ["Beperkte ondersteuning voor de nek", "Slaat na een tot twee jaar platter", "Geen proefslapen"],
+      "specs": {
+        "Vulling": "Holle polyestervezels",
+        "Hoogte": "Vormt zich naar je hoofd",
+        "Stevigheid": "Medium",
+        "Wasbaar": "Volledig op 60 graden",
+        "Geschikt voor": "Alle houdingen"
+      },
+      "pros": [
+        "Scherpe prijs voor een merkkussen",
+        "Volledig wasbaar op 60 graden",
+        "Katoenen tijk ademt goed",
+        "Blijft koel"
+      ],
+      "cons": [
+        "Beperkte ondersteuning voor de nek",
+        "Slaat na een tot twee jaar platter",
+        "Geen proefslapen"
+      ],
       "ideal": "Wie een gewoon, degelijk kussen zoekt voor het logeerbed of een kind.",
-      "text": "Cinderella is een Nederlands beddengoedmerk dat je bij bol en de meeste beddenwinkels vindt. Het Medium Hoofdkussen is hun klassieke instapmodel: een tijk van katoen gevuld met holle polyestervezels die lucht doorlaten en snel terugveren. Het is zacht genoeg om prettig op te liggen en stevig genoeg om niet plat te slaan in één nacht.\n\nVoor minder dan 50 euro is dit een eerlijk kussen dat precies doet wat je verwacht. Reviews noemen het frisse gevoel en de wasbaarheid als pluspunten. Verwacht geen gerichte ondersteuning voor nekklachten, daarvoor moet je bij schuim zijn. Na een tot twee jaar is de vulling merkbaar platter, al blijft het kussen bruikbaar. Het is vooral een goede keuze voor een logeerkamer, een kinderkamer of voor wie gewoon een eenvoudig en schoon kussen wil zonder ingewikkelde keuzes."
+      "text": "Cinderella is een Nederlands beddengoedmerk dat je bij bol en de meeste beddenwinkels vindt. Het Medium Hoofdkussen is hun klassieke instapmodel: een tijk van katoen gevuld met holle polyestervezels die lucht doorlaten en snel terugveren. Het is zacht genoeg om prettig op te liggen en stevig genoeg om niet plat te slaan in één nacht.\n\nVoor minder dan 50 euro is dit een eerlijk kussen dat precies doet wat je verwacht. Reviews noemen het frisse gevoel en de wasbaarheid als pluspunten. Verwacht geen gerichte ondersteuning voor nekklachten, daarvoor moet je bij schuim zijn. Na een tot twee jaar is de vulling merkbaar platter, al blijft het kussen bruikbaar. Het is vooral een goede keuze voor een logeerkamer, een kinderkamer of voor wie gewoon een eenvoudig en schoon kussen wil zonder ingewikkelde keuzes.",
+      "ean": "8719638067942",
+      "url": "https://www.bol.com/nl/nl/p/cinderella-new-classic-medium-hoofdkussen-60x70-cm/9300000023502023/",
+      "image": "https://media.s-bol.com/gmpzwPLDYLor/793KDDG/550x547.jpg",
+      "synced": "2026-10-13",
+      "bol_title": "Cinderella Hoofdkussen New Classic - Slaapkussen - 60x70 cm - Anti-allergeen - Ideaal voor Rug-, Zij- en Buik- Slapers - Medium"
     }
   ],
   "guide": [
-    {"h": "Welke hoogte past bij jouw slaaphouding?", "p": "De regel is simpel: je nek moet in één rechte lijn liggen met je rug. Zijslapers hebben daarom een hoog kussen nodig, meestal 11 tot 14 centimeter, om de ruimte tussen schouder en hoofd op te vullen. Rugslapers liggen het best op een medium kussen van 8 tot 11 centimeter. Buikslapers hebben een laag, zacht kussen nodig van maximaal 7 centimeter of zelfs geen kussen. Verstelbare kussens met losse lagen nemen het gokken weg."},
-    {"h": "Traagschuim, vezels of dons?", "p": "Traagschuim geeft de meeste nekondersteuning en houdt jarenlang zijn vorm, maar is zwaarder en warmer. Synthetische vezels zijn licht, koel en volledig wasbaar, maar zakken na een tot twee jaar in. Dons is zacht en luxe, vraagt dagelijks opschudden en is niet voor mensen met allergie. Heb je nekklachten, begin dan bij traagschuim. Wil je een klassiek gevoel, kies vezels of dons."},
-    {"h": "Ergonomische vorm of rechthoekig?", "p": "Een ergonomisch kussen met een golf of nekrol dwingt je in een houding die goed is voor je wervelkolom. Dat werkt uitstekend bij klachten, maar vraagt een tot twee weken gewenning en past minder goed bij wie veel draait. Een rechthoekig kussen van traagschuim geeft ook steun, maar laat je vrijer bewegen. Twijfel je, kies dan rechthoekig."},
-    {"h": "Wasbaarheid en allergie", "p": "In een kussen van twee jaar oud leven duizenden huisstofmijten. Wassen op 60 graden doodt ze. Vezelkussens kun je volledig wassen, bij schuim en dons alleen de hoes of op lagere temperatuur. Heb je een allergie, kies dan een vezelkussen dat op 60 graden kan of een traagschuimkussen met een afritsbare hoes die op 60 graden mag."},
-    {"h": "Wanneer vervang je een kussen?", "p": "Vouw je kussen dubbel. Veert het niet terug, dan is het op. Vezelkussens gaan een tot twee jaar mee, dons drie tot vijf jaar en goed traagschuim drie tot vijf jaar. Gele vlekken die niet weggaan zijn ook een teken. Een goede kussenbeschermer onder de sloop verlengt de levensduur aanzienlijk."},
-    {"h": "Hoeveel moet je uitgeven?", "p": "Onder de 30 euro vind je prima vezelkussens en zelfs het ergonomische traagschuimkussen van IKEA. Tussen 60 en 120 euro zitten de beste traagschuimkussens en verstelbare modellen die jaren meegaan. Boven de 130 euro betaal je voor Tempur-schuim of luxe dons. Omdat een goed kussen drie tot vijf jaar meegaat, is 100 euro omgerekend minder dan 6 cent per nacht."}
+    {
+      "h": "Welke hoogte past bij jouw slaaphouding?",
+      "p": "De regel is simpel: je nek moet in één rechte lijn liggen met je rug. Zijslapers hebben daarom een hoog kussen nodig, meestal 11 tot 14 centimeter, om de ruimte tussen schouder en hoofd op te vullen. Rugslapers liggen het best op een medium kussen van 8 tot 11 centimeter. Buikslapers hebben een laag, zacht kussen nodig van maximaal 7 centimeter of zelfs geen kussen. Verstelbare kussens met losse lagen nemen het gokken weg."
+    },
+    {
+      "h": "Traagschuim, vezels of dons?",
+      "p": "Traagschuim geeft de meeste nekondersteuning en houdt jarenlang zijn vorm, maar is zwaarder en warmer. Synthetische vezels zijn licht, koel en volledig wasbaar, maar zakken na een tot twee jaar in. Dons is zacht en luxe, vraagt dagelijks opschudden en is niet voor mensen met allergie. Heb je nekklachten, begin dan bij traagschuim. Wil je een klassiek gevoel, kies vezels of dons."
+    },
+    {
+      "h": "Ergonomische vorm of rechthoekig?",
+      "p": "Een ergonomisch kussen met een golf of nekrol dwingt je in een houding die goed is voor je wervelkolom. Dat werkt uitstekend bij klachten, maar vraagt een tot twee weken gewenning en past minder goed bij wie veel draait. Een rechthoekig kussen van traagschuim geeft ook steun, maar laat je vrijer bewegen. Twijfel je, kies dan rechthoekig."
+    },
+    {
+      "h": "Wasbaarheid en allergie",
+      "p": "In een kussen van twee jaar oud leven duizenden huisstofmijten. Wassen op 60 graden doodt ze. Vezelkussens kun je volledig wassen, bij schuim en dons alleen de hoes of op lagere temperatuur. Heb je een allergie, kies dan een vezelkussen dat op 60 graden kan of een traagschuimkussen met een afritsbare hoes die op 60 graden mag."
+    },
+    {
+      "h": "Wanneer vervang je een kussen?",
+      "p": "Vouw je kussen dubbel. Veert het niet terug, dan is het op. Vezelkussens gaan een tot twee jaar mee, dons drie tot vijf jaar en goed traagschuim drie tot vijf jaar. Gele vlekken die niet weggaan zijn ook een teken. Een goede kussenbeschermer onder de sloop verlengt de levensduur aanzienlijk."
+    },
+    {
+      "h": "Hoeveel moet je uitgeven?",
+      "p": "Onder de 30 euro vind je prima vezelkussens en zelfs het ergonomische traagschuimkussen van IKEA. Tussen 60 en 120 euro zitten de beste traagschuimkussens en verstelbare modellen die jaren meegaan. Boven de 130 euro betaal je voor Tempur-schuim of luxe dons. Omdat een goed kussen drie tot vijf jaar meegaat, is 100 euro omgerekend minder dan 6 cent per nacht."
+    }
   ],
   "faq": [
-    {"q": "Wat is het beste hoofdkussen van 2026?", "a": "Op basis van onze vergelijking is het Emma Original Kussen het beste hoofdkussen voor de meeste mensen, omdat je de drie lagen zelf combineert tot de juiste hoogte. Heb je nekklachten, dan is het Tempur Original Pillow de beste optie. Zoek je iets goedkoops, kijk naar het IKEA Rumsmalva."},
-    {"q": "Welk hoofdkussen is het beste bij nekklachten?", "a": "Een ergonomisch kussen van traagschuim dat je nek in een rechte lijn met je rug houdt, zoals het Tempur Original Pillow of het IKEA Rumsmalva. Belangrijker dan het merk is de juiste hoogte voor jouw slaaphouding."},
-    {"q": "Hoe vaak moet je een hoofdkussen vervangen?", "a": "Vezelkussens elke een tot twee jaar, dons en traagschuim elke drie tot vijf jaar. Vouw het kussen dubbel: veert het niet terug, dan is het tijd voor een nieuw exemplaar."},
-    {"q": "Kun je een traagschuimkussen wassen?", "a": "Het schuim zelf niet, dat valt uit elkaar in de wasmachine. De hoes meestal wel, op 40 of 60 graden. Lucht het schuim regelmatig en gebruik een kussenbeschermer onder de sloop."},
-    {"q": "Is een hoog of laag kussen beter?", "a": "Dat hangt af van je slaaphouding. Zijslapers hebben een hoog kussen nodig, rugslapers medium en buikslapers laag. Een te hoog kussen buigt je nek omhoog, een te laag kussen laat je hoofd hangen. Beide geven klachten."},
-    {"q": "Wat is het verschil tussen 60x70 en 50x70?", "a": "60x70 is de klassieke Nederlandse maat en past op standaard kussenslopen. 50x70 is de maat die webmerken als Emma en Simba gebruiken en past ook in een 60x70 sloop, al zit die dan wat ruimer."}
+    {
+      "q": "Wat is het beste hoofdkussen van 2026?",
+      "a": "Op basis van onze vergelijking is het Emma Original Kussen het beste hoofdkussen voor de meeste mensen, omdat je de drie lagen zelf combineert tot de juiste hoogte. Heb je nekklachten, dan is het Tempur Original Pillow de beste optie. Zoek je iets goedkoops, kijk naar het IKEA Rumsmalva."
+    },
+    {
+      "q": "Welk hoofdkussen is het beste bij nekklachten?",
+      "a": "Een ergonomisch kussen van traagschuim dat je nek in een rechte lijn met je rug houdt, zoals het Tempur Original Pillow of het IKEA Rumsmalva. Belangrijker dan het merk is de juiste hoogte voor jouw slaaphouding."
+    },
+    {
+      "q": "Hoe vaak moet je een hoofdkussen vervangen?",
+      "a": "Vezelkussens elke een tot twee jaar, dons en traagschuim elke drie tot vijf jaar. Vouw het kussen dubbel: veert het niet terug, dan is het tijd voor een nieuw exemplaar."
+    },
+    {
+      "q": "Kun je een traagschuimkussen wassen?",
+      "a": "Het schuim zelf niet, dat valt uit elkaar in de wasmachine. De hoes meestal wel, op 40 of 60 graden. Lucht het schuim regelmatig en gebruik een kussenbeschermer onder de sloop."
+    },
+    {
+      "q": "Is een hoog of laag kussen beter?",
+      "a": "Dat hangt af van je slaaphouding. Zijslapers hebben een hoog kussen nodig, rugslapers medium en buikslapers laag. Een te hoog kussen buigt je nek omhoog, een te laag kussen laat je hoofd hangen. Beide geven klachten."
+    },
+    {
+      "q": "Wat is het verschil tussen 60x70 en 50x70?",
+      "a": "60x70 is de klassieke Nederlandse maat en past op standaard kussenslopen. 50x70 is de maat die webmerken als Emma en Simba gebruiken en past ook in een 60x70 sloop, al zit die dan wat ruimer."
+    }
   ]
 }
