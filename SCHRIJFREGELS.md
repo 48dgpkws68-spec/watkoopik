@@ -19,3 +19,5 @@ Taalregels (de build breekt af bij overtreding):
 - Alleen echte, bestaande producten met echte modelnamen die in Nederland (bol) te koop zijn. Geen verzonnen modellen.
 - Prijzen afronden op hele euro's of ,95/,99 zoals winkels doen.
 - Geen "2025" in titels, alleen 2026.
+
+Extra regel (13 okt 2026): nooit producten van Pegasus Depot of G&C Systems opnemen (eigen bol-verkoopaccount van Nick; affiliate-commissie op eigen producten is niet toegestaan).
