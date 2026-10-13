@@ -30,6 +30,15 @@ COLORS = ["#1b3fb3","#0f766e","#b4531b","#6d28d9","#be185d","#0e7490","#4d7c0f",
 
 BOL_SITE_ID = "1549706"  # watkoopik.nl in het bol Partnerprogramma
 
+def shop_attrs(p, g):
+    """data-attributen zodat Umami elke klik op een bol-knop meet (gids, product, positie)."""
+    return ' data-umami-event="bol-klik" data-umami-event-gids="%s" data-umami-event-product="%s" data-umami-event-positie="%s"' % (
+        g["slug"], e("%s %s" % (p["brand"], p["name"])), p.get("rank", ""))
+
+def shop_a(p, g):
+    """Volledige attributen voor een bol-knop: partnerlink + Umami-event."""
+    return 'href="%s" rel="sponsored nofollow noopener" target="_blank" data-shop%s' % (shop_link(p, g), shop_attrs(p, g))
+
 def shop_link(p, g):
     """Centrale plek voor de winkel-link: bol-partnerlink (deeplink naar product-URL of zoekresultaat)."""
     q = p.get("search") or ("%s %s" % (p["brand"], p["name"]))
@@ -71,6 +80,7 @@ def head(title, desc, canon, root, extra=""):
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="%sstyle.css">
 <script>window.ROOT=%s</script>
+<script defer src="https://cloud.umami.is/script.js" data-website-id="47030ca7-838e-4840-9d90-0c8b315ba5e8"></script>
 %s
 </head>
 <body>''' % (e(title), e(desc), canon, e(title), e(desc), canon, root, root, json.dumps(root), extra)
@@ -128,15 +138,15 @@ def guide_page(g):
 
     # winnaars
     labs = [p for p in ps if p.get("label")][:3]
-    wins = "".join('''<div class="win%s"><span class="tag">%s</span><h3>%s %s</h3><div class="price">%s</div><p>%s</p><a class="btn btn-shop btn-sm" href="%s" rel="sponsored nofollow noopener" target="_blank" data-shop>Bekijk bij bol</a></div>''' % (
-        " first" if i == 0 else "", e(p["label"]), e(p["brand"]), e(p["name"]), eur(p["price"]), e(p["oneliner"]), shop_link(p, g)) for i, p in enumerate(labs))
+    wins = "".join('''<div class="win%s"><span class="tag">%s</span><h3>%s %s</h3><div class="price">%s</div><p>%s</p><a class="btn btn-shop btn-sm" %s>Bekijk bij bol</a></div>''' % (
+        " first" if i == 0 else "", e(p["label"]), e(p["brand"]), e(p["name"]), eur(p["price"]), e(p["oneliner"]), shop_a(p, g)) for i, p in enumerate(labs))
 
     # tabel
     spec_keys = list(ps[0]["specs"].keys())[:3]
-    rows = "".join('<tr><td><span class="rank%s">%d</span></td><td class="name">%s<small>%s</small></td>%s<td>%s</td><td><span class="score%s">%s</span></td><td><a class="btn btn-shop btn-sm" href="%s" rel="sponsored nofollow noopener" target="_blank" data-shop>Bekijk</a></td></tr>' % (
+    rows = "".join('<tr><td><span class="rank%s">%d</span></td><td class="name">%s<small>%s</small></td>%s<td>%s</td><td><span class="score%s">%s</span></td><td><a class="btn btn-shop btn-sm" %s>Bekijk</a></td></tr>' % (
         " r1" if p["rank"] == 1 else "", p["rank"], e(p["brand"]), e(p["name"]),
         "".join("<td>%s</td>" % e(str(p["specs"].get(k, "-"))) for k in spec_keys), eur(p["price"]),
-        " hi" if p["score"] >= 9 else "", p["score"], shop_link(p, g)) for p in ps)
+        " hi" if p["score"] >= 9 else "", p["score"], shop_a(p, g)) for p in ps)
     table = '<div class="tbl-wrap"><table class="cmp"><thead><tr><th>#</th><th>Model</th>%s<th>Prijs</th><th>Score</th><th></th></tr></thead><tbody>%s</tbody></table></div>' % ("".join("<th>%s</th>" % e(k) for k in spec_keys), rows)
 
     # producten
@@ -155,10 +165,10 @@ def guide_page(g):
 <div class="txt">%s</div>
 <div class="pc"><div class="pros"><h4>Pluspunten</h4><ul>%s</ul></div><div class="cons"><h4>Minpunten</h4><ul>%s</ul></div></div>
 <div class="ideal"><b>Ideaal voor:</b> %s</div>
-<div class="prod-cta"><a class="btn btn-shop" href="%s" rel="sponsored nofollow noopener" target="_blank" data-shop>Bekijk prijs bij bol <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a><small>Prijs gecheckt op %s</small></div>
+<div class="prod-cta"><a class="btn btn-shop" %s>Bekijk prijs bij bol <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a><small>Prijs gecheckt op %s</small></div>
 </article>''' % (" top" if p["rank"] == 1 else "", p["rank"], g["color"], g["color"], p["rank"], g["ico"], e(p["brand"]), lab, p["rank"], e(p["brand"]), e(p["name"]),
             eur(p["price"]), stars(p["score"]), p["score"], e(p.get("reviews", "")), specs,
-            "".join("<p>%s</p>" % e(t) for t in p["text"].split("\n\n")), pros, cons, e(p["ideal"]), shop_link(p, g), e(g.get("updated", TODAY.isoformat()))))
+            "".join("<p>%s</p>" % e(t) for t in p["text"].split("\n\n")), pros, cons, e(p["ideal"]), shop_a(p, g), e(g.get("updated", TODAY.isoformat()))))
 
     toc = "".join('<li><a href="#p%d">%s %s</a></li>' % (p["rank"], e(p["brand"]), e(p["name"])) for p in ps)
     guide_html = "".join("<h3>%s</h3>%s" % (e(s["h"]), "".join("<p>%s</p>" % e(t) for t in s["p"].split("\n\n"))) for s in g["guide"])
@@ -189,7 +199,7 @@ def guide_page(g):
 <h2 id="vergelijk">Alle %d in één overzicht</h2>%s
 <h2 id="top10">De top 10 in detail</h2>
 %s
-<div class="verdict"><h2>Ons eindoordeel</h2><p>%s</p><a class="btn btn-shop" href="%s" rel="sponsored nofollow noopener" target="_blank" data-shop>Bekijk %s %s bij bol</a></div>
+<div class="verdict"><h2>Ons eindoordeel</h2><p>%s</p><a class="btn btn-shop" %s>Bekijk %s %s bij bol</a></div>
 <div class="guide" id="koopgids"><h2>Koopgids: zo kies je de juiste %s</h2>%s</div>
 <div class="faq" id="faq"><h2>Veelgestelde vragen</h2>%s</div>
 </div>
@@ -198,10 +208,10 @@ def guide_page(g):
 </div>
 <section class="related"><div class="sec-head"><h2>Ook interessant</h2></div><div class="grid">%s</div></section>
 </main>
-<div class="sticky-cta" id="stickyCta"><div class="in"><div><b>Onze nummer 1: %s %s</b>%s</div><a class="btn btn-shop btn-sm" href="%s" rel="sponsored nofollow noopener" target="_blank" data-shop>Bekijk bij bol</a></div></div>
+<div class="sticky-cta" id="stickyCta"><div class="in"><div><b>Onze nummer 1: %s %s</b>%s</div><a class="btn btn-shop btn-sm" %s>Bekijk bij bol</a></div></div>
 ''' % (g["cat"], CATS[g["cat"]][0], e(g["short"]), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(g.get("updated", TODAY.isoformat())), len(ps), e(g.get("reviews_total", "duizenden")),
-       wins, len(ps), table, "".join(blocks), e(g["verdict"]), shop_link(top, g), e(top["brand"]), e(top["name"]), e(g["query"]), guide_html, faq_html, toc, related,
-       e(top["brand"]), e(top["name"]), eur(top["price"]), shop_link(top, g)) + footer(root, guides)
+       wins, len(ps), table, "".join(blocks), e(g["verdict"]), shop_a(top, g), e(top["brand"]), e(top["name"]), e(g["query"]), guide_html, faq_html, toc, related,
+       e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g)) + footer(root, guides)
     check_copy(page, g["slug"])
     wr(g["url"], page)
 
