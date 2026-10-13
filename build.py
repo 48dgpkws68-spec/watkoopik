@@ -10,6 +10,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 SITE = "https://watkoopik.nl"
 NAME = "watkoopik"
 TODAY = datetime.date.today()
+BUILD_ID = datetime.datetime.now().strftime('%Y%m%d%H%M')
 YEAR = TODAY.year
 rd = lambda n: open(os.path.join(ROOT, "_src", n), encoding="utf-8").read()
 def wr(path, s):
@@ -102,12 +103,12 @@ def head(title, desc, canon, root, extra=""):
 <link rel="icon" href="%sfavicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@600;700;800&family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="%sstyle.css">
+<link rel="stylesheet" href="%sstyle.css?v=%s">
 <script>window.ROOT=%s</script>
 <script defer src="https://cloud.umami.is/script.js" data-website-id="47030ca7-838e-4840-9d90-0c8b315ba5e8"></script>
 %s
 </head>
-<body>''' % (e(title), e(desc), canon, e(title), e(desc), canon, root, root, json.dumps(root), extra)
+<body>''' % (e(title), e(desc), canon, e(title), e(desc), canon, root, root, BUILD_ID, json.dumps(root), extra)
 
 def chrome(active, root):
     links = "".join('<li><a href="%s%s"%s>%s</a></li>' % (root, h, ' class="active"' if h == active else "", t) for h, t in NAV)
@@ -135,8 +136,8 @@ def footer(root, guides):
 </div>
 <div class="fine">© %s watkoopik.nl · Wij ontvangen mogelijk een vergoeding als je via onze links iets koopt. Dit kost jou niets extra en beïnvloedt onze rangschikking niet. Prijzen zijn indicatief en kunnen afwijken van de actuele winkelprijs.</div>
 </div></footer>
-<script src="%sapp.js" defer></script>
-</body></html>''' % (pop, cats, root, root, root, root, root, YEAR, root)
+<script src="%sapp.js?v=%s" defer></script>
+</body></html>''' % (pop, cats, root, root, root, root, root, YEAR, root, BUILD_ID)
 
 # ---------- data ----------
 guides = []
