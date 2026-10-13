@@ -28,10 +28,14 @@ CATS = {
 }
 COLORS = ["#1b3fb3","#0f766e","#b4531b","#6d28d9","#be185d","#0e7490","#4d7c0f","#9a3412","#1e3a8a","#7c2d12"]
 
+BOL_SITE_ID = "1549706"  # watkoopik.nl in het bol Partnerprogramma
+
 def shop_link(p, g):
-    """Centrale plek voor de winkel-link. Later: bol-partnerlink via API."""
+    """Centrale plek voor de winkel-link: bol-partnerlink (deeplink naar product-URL of zoekresultaat)."""
     q = p.get("search") or ("%s %s" % (p["brand"], p["name"]))
-    return "https://www.bol.com/nl/nl/s/?searchtext=" + urllib.parse.quote_plus(q)
+    target = p.get("url") or ("https://www.bol.com/nl/nl/s/?searchtext=" + urllib.parse.quote_plus(q))
+    name = re.sub(r"[^A-Za-z0-9 ]", "", "%s %s" % (p["brand"], p["name"]))[:60]
+    return "https://partner.bol.com/click/click?p=2&t=url&s=%s&f=TXL&url=%s&name=%s" % (BOL_SITE_ID, urllib.parse.quote(target, safe=""), urllib.parse.quote_plus(name))
 
 def eur(v):
     s = ("%.2f" % v).replace(".", ",")
