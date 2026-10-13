@@ -35,6 +35,9 @@ def search(tok, term):
 
 BAD = ("filter", "geschikt voor", "compatibel", "hoes", "accessoire", "onderdeel", "vervang", "set van", "stuks", "zak", "borstel", "houder", "kabel", "oplader", "adapter", "cover", "case", "bescherm", "mondstuk", "opzet", "reserve", "navul", "cartridge", "sticker", "standaard", "stand ")
 
+BAD = ("filter", "geschikt voor", "compatibel", "hoes", "accessoire", "onderdeel", "vervang", "set van", "stuks", "stofzak", "houder", "kabel", "oplader", "adapter", "cover", "case", "bescherm", "mondstuk", "opzet", "reserve", "navul", "cartridge", "sticker")
+VARIANTS = ("pro", "plus", "max", "ultra", "lite", "mini", "dual", "complete", "premium", "xl", "xxl", "kids", "slim", "go", "air")
+
 def norm(t): return re.sub(r"[^a-z0-9]", "", t.lower())
 
 def strict_ok(p, title):
@@ -42,7 +45,11 @@ def strict_ok(p, title):
     t = norm(title); name = p["name"].replace("/", " ")
     toks = [w for w in re.split(r"[\s,()]+", name) if w]
     models = [norm(w) for w in toks if re.search(r"\d", w) and len(norm(w)) >= 3 and not re.fullmatch(r"\d{2,3}x\d{2,3}|\d+(cm|mm|l|w|kg|inch)?", norm(w))]
-    if p["brand"].lower().split()[0] not in title.lower(): return False
+    tl = title.lower(); nl = p["name"].lower()
+    if p["brand"].lower().split()[0] not in tl: return False
+    if any(b in tl for b in BAD if b not in nl): return False
+    for v in VARIANTS:
+        if re.search(r"\b%s\b" % v, tl) and not re.search(r"\b%s\b" % v, nl): return False
     if models: return all(m in t for m in models)
     words = [norm(w) for w in toks if len(w) > 2]
     return words and sum(1 for w in words if w in t) / len(words) >= 0.8
