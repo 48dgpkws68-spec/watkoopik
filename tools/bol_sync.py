@@ -44,7 +44,7 @@ def strict_ok(p, title):
     """Streng: elk modelnummer (token met cijfer) uit onze naam moet in de bol-titel staan; zonder modelnummer minstens 80% van de woorden."""
     t = norm(title); name = p["name"].replace("/", " ")
     toks = [w for w in re.split(r"[\s,()]+", name) if w]
-    models = [norm(w) for w in toks if re.search(r"\d", w) and len(norm(w)) >= 2 and not re.fullmatch(r"\d{2,3}x\d{2,3}|\d+(cm|mm|l|w|kg|inch)?", norm(w))]
+    models = [norm(w) for w in toks if re.search(r"\d", w) and len(norm(w)) >= 2 and not re.fullmatch(r"\d{2,3}x\d{2,3}|\d+(cm|mm|l|w|kg|inch|liter|watt)", norm(w))]
     tl = re.split(r" [-|\u2013\u2014] ", title)[0].lower(); nl = p["name"].lower()  # alleen het naamdeel vóór het eerste streepje
     if p["brand"].lower().split()[0] not in title.lower(): return False
     if any(b in tl for b in BAD if b not in nl): return False
