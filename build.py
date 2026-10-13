@@ -2,7 +2,9 @@
 """Bouwt watkoopik.nl: statische top 10-gidsen uit data/*.json.
 Gebruik: python3 build.py   (schrijft HTML in deze map + sitemap, search.json)
 Regels: Nederlands, geen em/en-dashes, geen ", en" in zichtbare tekst."""
-import os, re, json, glob, html, datetime, urllib.parse
+import os, re, sys, json, glob, html, datetime, urllib.parse
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "_src"))
+import logo as LOGO
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SITE = "https://watkoopik.nl"
@@ -14,6 +16,20 @@ def wr(path, s):
     p = os.path.join(ROOT, path); os.makedirs(os.path.dirname(p), exist_ok=True)
     open(p, "w", encoding="utf-8").write(s)
 e = html.escape
+
+ICONS = {
+    "huishouden": '<path d="M9 3h6l1 9H8z"/><path d="M8 12h8v3a4 4 0 0 1-8 0z"/><path d="M12 3V1"/>',
+    "keuken": '<path d="M4 12h16"/><path d="M6 12v6a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-6"/><path d="M8 12V8a4 4 0 0 1 8 0v4"/>',
+    "verzorging": '<path d="M6 4h8a5 5 0 0 1 0 10H9"/><path d="M9 14v6"/><path d="M14 9h4"/>',
+    "slapen": '<path d="M3 18V9a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v9"/><path d="M3 14h18"/><path d="M7 7V5h4v2"/>',
+    "elektronica": '<rect x="3" y="5" width="18" height="12" rx="2"/><path d="M8 21h8"/><path d="M12 17v4"/>',
+    "wonen": '<path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M10 20v-6h4v6"/>',
+    "sport": '<circle cx="12" cy="12" r="9"/><path d="M12 3v18"/><path d="M3 12h18"/>',
+    "kind": '<circle cx="12" cy="8" r="4"/><path d="M5 21a7 7 0 0 1 14 0"/>',
+    "klussen": '<path d="M14 4l6 6-9 9H5v-6z"/><path d="M12 6l6 6"/>',
+}
+def icon(cat, size=28):
+    return '<svg class="ico-line" width="%d" height="%d" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">%s</svg>' % (size, size, ICONS.get(cat, ICONS["huishouden"]))
 
 CATS = {
     "huishouden": ("Huishouden", "🧹", "Stofzuigers, wasmachines, strijkijzers en alles wat het huis schoon houdt"),
@@ -57,9 +73,10 @@ def eur(v):
     s = ("%.2f" % v).replace(".", ",")
     return "€ " + (s[:-3] if s.endswith(",00") else s)
 
+STAR = '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M12 2.5l2.9 6.1 6.7.8-4.9 4.6 1.3 6.6L12 17.3l-6 3.3 1.3-6.6L2.4 9.4l6.7-.8z" fill="%s"/></svg>'
 def stars(score):
     full = int(round(score / 2))
-    return '<span class="stars" aria-label="%s van 10">%s%s</span>' % (score, "★" * full, "☆" * (5 - full))
+    return '<span class="stars" aria-label="%s van 10">%s</span>' % (score, "".join(STAR % ("#f5b324" if i < full else "#dfe3ee") for i in range(5)))
 
 def check_copy(s, where):
     bad = []
@@ -84,7 +101,7 @@ def head(title, desc, canon, root, extra=""):
 <meta name="twitter:card" content="summary">
 <link rel="icon" href="%sfavicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="%sstyle.css">
 <script>window.ROOT=%s</script>
 <script defer src="https://cloud.umami.is/script.js" data-website-id="47030ca7-838e-4840-9d90-0c8b315ba5e8"></script>
@@ -97,13 +114,13 @@ def chrome(active, root):
     mm = "".join('<a href="%s%s">%s</a>' % (root, h, t) for h, t in NAV + [("over-ons.html", "Over ons"), ("contact.html", "Contact")])
     return '''<div class="topbar">Onafhankelijke top 10-gidsen<span class="tb-x"> · <strong>Elke dag nieuwe vergelijkingen</strong> · prijzen gecheckt in %s %s</span></div>
 <header class="nav"><div class="nav-in">
-<a class="brand" href="%sindex.html" aria-label="watkoopik, naar de homepage"><span class="mark">?</span><span>wat<b>koop</b>ik</span></a>
+<a class="brand" href="%sindex.html" aria-label="watkoopik, naar de homepage">%s</a>
 <ul class="nav-links">%s</ul>
 <div class="search-wrap"><label class="search"><span aria-hidden="true">🔍</span><input type="search" placeholder="Zoek een product…" data-search aria-label="Zoek een gids"></label><div class="search-results"></div></div>
 <button class="burger" id="burger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
 </div></header>
 <div class="mobile-menu" id="mobileMenu"><div class="search-wrap"><label class="search"><span aria-hidden="true">🔍</span><input type="search" placeholder="Zoek een product…" data-search aria-label="Zoek een gids"></label><div class="search-results"></div></div>%s</div>
-''' % (MONTHS[TODAY.month], YEAR, root, links, mm)
+''' % (MONTHS[TODAY.month], YEAR, root, LOGO.lockup(38), links, mm)
 
 MONTHS = ["", "januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
 
@@ -150,8 +167,8 @@ def guide_page(g):
 
     # winnaars
     labs = [p for p in ps if p.get("label")][:3]
-    wins = "".join('''<div class="win%s">%s<span class="tag">%s</span><h3>%s %s</h3><div class="price">%s</div><p>%s</p><a class="btn btn-shop btn-sm" %s>Bekijk bij bol</a></div>''' % (
-        " first" if i == 0 else "", ('<img class="win-img" src="%s" alt="" loading="lazy">' % e(p["image"])) if p.get("image") else ('<div class="win-img ph" style="background:linear-gradient(135deg,%s,%s99)">%s</div>' % (g["color"], g["color"], g["ico"])), e(p["label"]), e(p["brand"]), e(p["name"]), eur(p["price"]), e(p["oneliner"]), shop_a(p, g)) for i, p in enumerate(labs))
+    wins = "".join('''<div class="win%s">%s%s<span class="tag">%s</span><h3>%s %s</h3><div class="price">%s</div><p>%s</p><a class="btn btn-shop btn-sm" %s>Bekijk bij bol</a></div>''' % (
+        " first" if i == 0 else "", '<span class="ribbon">Onze keuze</span>' if i == 0 else "", ('<img class="win-img" src="%s" alt="" loading="lazy">' % e(p["image"])) if p.get("image") else ('<div class="win-img ph" style="background:linear-gradient(135deg,%s,%s99)">%s</div>' % (g["color"], g["color"], g["ico"])), e(p["label"]), e(p["brand"]), e(p["name"]), eur(p["price"]), e(p["oneliner"]), shop_a(p, g)) for i, p in enumerate(labs))
 
     # tabel
     spec_keys = list(ps[0]["specs"].keys())[:3]
@@ -243,16 +260,21 @@ def simple(fn, title, body, desc, active=None):
     check_copy(page, fn); wr(fn, page)
 
 # ---------- home ----------
-cat_cards = "".join('<a class="cat" href="categorie/%s.html"><span class="ico">%s</span>%s<small>%d gidsen</small></a>' % (k, v[1], v[0], len(by_cat.get(k, []))) for k, v in CATS.items() if by_cat.get(k))
+cat_cards = "".join('<a class="cat" href="categorie/%s.html"><span class="ico">%s</span>%s<small>%d gidsen</small></a>' % (k, icon(k, 30), v[0], len(by_cat.get(k, []))) for k, v in CATS.items() if by_cat.get(k))
 chips = "".join('<a class="chip" href="%s">%s</a>' % (g["url"], e(g["short"])) for g in guides[:8])
+hero_imgs = []
+for g in guides:
+    pr = next((p for p in g["products"][:3] if p.get("image")), None)
+    if pr and len(hero_imgs) < 7: hero_imgs.append((pr["image"], "%s %s" % (pr["brand"], pr["name"]), g["url"]))
+hero_collage = '<div class="hero-collage" aria-hidden="true">%s</div>' % "".join('<a href="%s" class="hc hc%d"><img src="%s" alt="%s" loading="%s"></a>' % (u, i, e(im), e(alt), "eager" if i < 3 else "lazy") for i, (im, alt, u) in enumerate(hero_imgs))
 home = '''
-<section class="hero"><div class="wrap">
+<section class="hero"><div class="wrap hero-grid"><div>
 <h1>Wat koop ik? Wij zochten het voor je uit.</h1>
 <p class="lead">Onafhankelijke top 10-lijsten van de beste producten van %d. Wij vergelijken specificaties, prijzen en duizenden reviews, zodat jij in vijf minuten de juiste keuze maakt.</p>
 <div class="hero-search search-wrap"><label class="search"><span aria-hidden="true">🔍</span><input type="search" placeholder="Bijvoorbeeld: stofzuiger, airfryer, föhn…" data-search aria-label="Zoek een gids"></label><div class="search-results"></div></div>
 <div class="chips">%s</div>
 <div class="trust"><span><b>%d</b> top 10-gidsen</span><span><b>%d</b> producten vergeleken</span><span><b>Elke dag</b> nieuwe vergelijkingen</span><span><b>Onafhankelijk</b>, merken betalen niet voor een plek</span></div>
-</div></section>
+</div>%s</div></section>
 <section style="background:var(--bg2)"><div class="wrap"><div class="sec-head"><div><h2>Kies een categorie</h2><p>Van keuken tot slaapkamer</p></div></div><div class="cat-grid">%s</div></div></section>
 <section><div class="wrap"><div class="sec-head"><div><h2>Nieuwste gidsen</h2><p>Vers vergeleken en geprijsd</p></div><a class="btn btn-ghost btn-sm" href="gidsen.html">Alle gidsen</a></div><div class="grid">%s</div></div></section>
 <section><div class="wrap"><div class="sec-head"><div><h2>Zo werkt watkoopik</h2><p>Geen gesponsorde plekken, wel duidelijke keuzes</p></div></div>
@@ -262,7 +284,7 @@ home = '''
 <div class="step"><div class="num">3</div><h3>Jij kiest</h3><p>Je ziet in één oogopslag de beste keuze, de beste prijs-kwaliteit en de beste premium optie. Klik door en bestel bij een vertrouwde winkel.</p></div>
 </div></div></section>
 <section><div class="wrap"><div class="newsletter"><div><h3 style="margin:0 0 4px">Nieuwe top 10's in je mailbox</h3><p style="margin:0;color:var(--ink2)">Eén mail per week met de nieuwste vergelijkingen en prijsdalingen.</p></div><form action="https://formsubmit.co/hallo@watkoopik.nl" method="POST"><input type="hidden" name="_subject" value="Nieuwsbrief aanmelding watkoopik"><input type="hidden" name="_next" value="%s/bedankt.html"><input type="email" name="email" placeholder="je@email.nl" required><button class="btn btn-brand" type="submit">Aanmelden</button></form></div></div></section>
-''' % (YEAR, chips, len(guides), sum(len(g["products"]) for g in guides), "".join(card(g, "") for g in guides[:9]), cat_cards, SITE)
+''' % (YEAR, chips, len(guides), sum(len(g["products"]) for g in guides), hero_collage, "".join(card(g, "") for g in guides[:9]), cat_cards, SITE)
 page = head("De beste producten van %d vergeleken | watkoopik.nl" % YEAR, "Wat koop ik? Onafhankelijke top 10-lijsten met de beste stofzuigers, airfryers, föhns en meer. Specificaties, prijzen en reviews vergeleken.", SITE + "/", "",
             '<script type="application/ld+json">%s</script>' % json.dumps({"@context": "https://schema.org", "@type": "WebSite", "name": "watkoopik.nl", "url": SITE + "/", "potentialAction": {"@type": "SearchAction", "target": SITE + "/gidsen.html?q={search_term_string}", "query-input": "required name=search_term_string"}}, ensure_ascii=False)) + chrome(None, "") + "<main>%s</main>" % home + footer("", guides)
 check_copy(page, "index"); wr("index.html", page)
@@ -322,7 +344,7 @@ simple("404.html", "Pagina niet gevonden", '<div class="art-head prose"><h1>Deze
 
 # ---------- assets ----------
 wr("style.css", rd("style.css")); wr("app.js", rd("app.js"))
-wr("favicon.svg", '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b3fb3"/><stop offset="1" stop-color="#ff7a3d"/></linearGradient></defs><rect width="64" height="64" rx="16" fill="url(#g)"/><text x="32" y="46" font-family="Inter,Arial" font-weight="900" font-size="40" fill="#fff" text-anchor="middle">?</text></svg>')
+wr("favicon.svg", LOGO.FAVICON)
 wr("stats.html", '<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><meta http-equiv="refresh" content="0;url=https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl"><title>Statistieken</title></head><body><a href="https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl">Naar het dashboard</a></body></html>')
 wr("CNAME", "watkoopik.nl\n"); wr(".nojekyll", "")
 wr("robots.txt", "User-agent: *\nAllow: /\nDisallow: /stats.html\nSitemap: %s/sitemap.xml\n" % SITE)
