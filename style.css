@@ -337,3 +337,9 @@ h2{font-size:clamp(1.6rem,3vw,2.2rem)}
 .feat-win{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block}
 .feat-win .dot{display:inline-block;margin-right:6px;vertical-align:middle}
 .feat-body h3{font-size:1.25rem}
+table.cmp{min-width:560px;font-size:.88rem}
+table.cmp th,table.cmp td{padding:9px 8px}
+table.cmp td.name{min-width:170px}
+table.cmp td.name small{font-size:.8rem}
+.tbl-img{width:36px;height:36px;margin-right:8px}
+table.cmp .btn-sm{padding:7px 10px;font-size:.82rem}
