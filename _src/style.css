@@ -222,3 +222,17 @@ footer .fine{border-top:1px solid rgba(255,255,255,.12);margin-top:30px;padding-
   .pimg{max-width:160px}
   body{font-size:16px}
 }
+
+/* foto's in kaarten, winnaars en tabel */
+.thumb.collage{background:#fff;display:grid;grid-template-columns:1.4fr 1fr;grid-template-rows:1fr 1fr;gap:6px;padding:10px;border-bottom:1px solid var(--line)}
+.thumb.collage img{width:100%;height:100%;object-fit:contain;min-height:0}
+.thumb.collage img:first-child{grid-row:1/3}
+.win{display:flex;flex-direction:column}
+.win-img{width:100%;height:150px;object-fit:contain;margin:0 0 10px;background:#fff;border-radius:10px}
+.win .btn{margin-top:auto;align-self:flex-start}
+.tbl-img{width:44px;height:44px;object-fit:contain;float:left;margin:0 10px 0 0;background:#fff;border:1px solid var(--line);border-radius:8px}
+table.cmp td.name{min-width:220px}
+.pimg .rk{left:8px;top:8px;box-shadow:0 2px 8px rgba(0,0,0,.18)}
+.pimg.photo img{padding:18px 12px 12px}
+.win .tag{align-self:flex-start}
+.win-img.ph{display:grid;place-items:center;font-size:3rem;color:#fff}

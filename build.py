@@ -46,6 +46,13 @@ def shop_link(p, g):
     name = re.sub(r"[^A-Za-z0-9 ]", "", "%s %s" % (p["brand"], p["name"]))[:60]
     return "https://partner.bol.com/click/click?p=2&t=url&s=%s&f=TXL&url=%s&name=%s" % (BOL_SITE_ID, urllib.parse.quote(target, safe=""), urllib.parse.quote_plus(name))
 
+def nldate(iso):
+    try:
+        y, m, d = [int(x) for x in str(iso)[:10].split("-")]
+        return "%d %s %d" % (d, MONTHS[m], y)
+    except Exception:
+        return str(iso)
+
 def eur(v):
     s = ("%.2f" % v).replace(".", ",")
     return "€ " + (s[:-3] if s.endswith(",00") else s)
@@ -143,13 +150,13 @@ def guide_page(g):
 
     # winnaars
     labs = [p for p in ps if p.get("label")][:3]
-    wins = "".join('''<div class="win%s"><span class="tag">%s</span><h3>%s %s</h3><div class="price">%s</div><p>%s</p><a class="btn btn-shop btn-sm" %s>Bekijk bij bol</a></div>''' % (
-        " first" if i == 0 else "", e(p["label"]), e(p["brand"]), e(p["name"]), eur(p["price"]), e(p["oneliner"]), shop_a(p, g)) for i, p in enumerate(labs))
+    wins = "".join('''<div class="win%s">%s<span class="tag">%s</span><h3>%s %s</h3><div class="price">%s</div><p>%s</p><a class="btn btn-shop btn-sm" %s>Bekijk bij bol</a></div>''' % (
+        " first" if i == 0 else "", ('<img class="win-img" src="%s" alt="" loading="lazy">' % e(p["image"])) if p.get("image") else ('<div class="win-img ph" style="background:linear-gradient(135deg,%s,%s99)">%s</div>' % (g["color"], g["color"], g["ico"])), e(p["label"]), e(p["brand"]), e(p["name"]), eur(p["price"]), e(p["oneliner"]), shop_a(p, g)) for i, p in enumerate(labs))
 
     # tabel
     spec_keys = list(ps[0]["specs"].keys())[:3]
-    rows = "".join('<tr><td><span class="rank%s">%d</span></td><td class="name">%s<small>%s</small></td>%s<td>%s</td><td><span class="score%s">%s</span></td><td><a class="btn btn-shop btn-sm" %s>Bekijk</a></td></tr>' % (
-        " r1" if p["rank"] == 1 else "", p["rank"], e(p["brand"]), e(p["name"]),
+    rows = "".join('<tr><td><span class="rank%s">%d</span></td><td class="name">%s%s<small>%s</small></td>%s<td>%s</td><td><span class="score%s">%s</span></td><td><a class="btn btn-shop btn-sm" %s>Bekijk</a></td></tr>' % (
+        " r1" if p["rank"] == 1 else "", p["rank"], ('<img class="tbl-img" src="%s" alt="" loading="lazy">' % e(p["image"])) if p.get("image") else "", e(p["brand"]), e(p["name"]),
         "".join("<td>%s</td>" % e(str(p["specs"].get(k, "-"))) for k in spec_keys), eur(p["price"]),
         " hi" if p["score"] >= 9 else "", p["score"], shop_a(p, g)) for p in ps)
     table = '<div class="tbl-wrap"><table class="cmp"><thead><tr><th>#</th><th>Model</th>%s<th>Prijs</th><th>Score</th><th></th></tr></thead><tbody>%s</tbody></table></div>' % ("".join("<th>%s</th>" % e(k) for k in spec_keys), rows)
@@ -173,7 +180,7 @@ def guide_page(g):
 <div class="prod-cta"><a class="btn btn-shop" %s>Bekijk prijs bij bol <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a><small>Prijs gecheckt op %s</small></div>
 </article>''' % (" top" if p["rank"] == 1 else "", p["rank"], pimg(p, g), lab, p["rank"], e(p["brand"]), e(p["name"]),
             eur(p["price"]), stars(p["score"]), p["score"], e(p.get("reviews", "")), specs,
-            "".join("<p>%s</p>" % e(t) for t in p["text"].split("\n\n")), pros, cons, e(p["ideal"]), shop_a(p, g), e(g.get("updated", TODAY.isoformat()))))
+            "".join("<p>%s</p>" % e(t) for t in p["text"].split("\n\n")), pros, cons, e(p["ideal"]), shop_a(p, g), e(nldate(nldate(g.get("updated", TODAY.isoformat()))))))
 
     toc = "".join('<li><a href="#p%d">%s %s</a></li>' % (p["rank"], e(p["brand"]), e(p["name"])) for p in ps)
     guide_html = "".join("<h3>%s</h3>%s" % (e(s["h"]), "".join("<p>%s</p>" % e(t) for t in s["p"].split("\n\n"))) for s in g["guide"])
@@ -214,7 +221,7 @@ def guide_page(g):
 <section class="related"><div class="sec-head"><h2>Ook interessant</h2></div><div class="grid">%s</div></section>
 </main>
 <div class="sticky-cta" id="stickyCta"><div class="in"><div><b>Onze nummer 1: %s %s</b>%s</div><a class="btn btn-shop btn-sm" %s>Bekijk bij bol</a></div></div>
-''' % (g["cat"], CATS[g["cat"]][0], e(g["short"]), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(g.get("updated", TODAY.isoformat())), len(ps), e(g.get("reviews_total", "duizenden")),
+''' % (g["cat"], CATS[g["cat"]][0], e(g["short"]), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(nldate(g.get("updated", TODAY.isoformat())))), len(ps), e(g.get("reviews_total", "duizenden")),
        wins, len(ps), table, "".join(blocks), e(g["verdict"]), shop_a(top, g), e(top["brand"]), e(top["name"]), e(g["query"]), guide_html, faq_html, toc, related,
        e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g)) + footer(root, guides)
     check_copy(page, g["slug"])
@@ -222,8 +229,13 @@ def guide_page(g):
 
 # ---------- listing helpers ----------
 def card(g, root):
-    return '<a class="card" href="%s%s"><div class="thumb" style="background:linear-gradient(135deg,%s,%s99)"><span class="n">Top %d</span>%s</div><div class="body"><h3>%s</h3><p>%s</p><div class="meta">%s · bijgewerkt %s</div></div></a>' % (
-        root, g["url"], g["color"], g["color"], len(g["products"]), g["ico"], e(g["title"]), e(g["intro"][:120].rsplit(" ", 1)[0] + "…"), CATS[g["cat"]][0], e(g.get("updated", TODAY.isoformat())))
+    imgs = [p["image"] for p in g["products"] if p.get("image")][:3]
+    if imgs:
+        thumb = '<div class="thumb collage"><span class="n">Top %d</span>%s</div>' % (len(g["products"]), "".join('<img src="%s" alt="" loading="lazy">' % e(i) for i in imgs))
+    else:
+        thumb = '<div class="thumb" style="background:linear-gradient(135deg,%s,%s99)"><span class="n">Top %d</span>%s</div>' % (g["color"], g["color"], len(g["products"]), g["ico"])
+    return '<a class="card" href="%s%s">%s<div class="body"><h3>%s</h3><p>%s</p><div class="meta">%s · bijgewerkt %s</div></div></a>' % (
+        root, g["url"], thumb, e(g["title"]), e(g["intro"][:120].rsplit(" ", 1)[0] + "…"), CATS[g["cat"]][0], e(nldate(g.get("updated", TODAY.isoformat()))))
 
 def simple(fn, title, body, desc, active=None):
     root = ""
@@ -241,8 +253,8 @@ home = '''
 <div class="chips">%s</div>
 <div class="trust"><span><b>%d</b> top 10-gidsen</span><span><b>%d</b> producten vergeleken</span><span><b>Elke dag</b> nieuwe vergelijkingen</span><span><b>Onafhankelijk</b>, merken betalen niet voor een plek</span></div>
 </div></section>
-<section><div class="wrap"><div class="sec-head"><div><h2>Nieuwste gidsen</h2><p>Vers vergeleken en geprijsd</p></div><a class="btn btn-ghost btn-sm" href="gidsen.html">Alle gidsen</a></div><div class="grid">%s</div></div></section>
 <section style="background:var(--bg2)"><div class="wrap"><div class="sec-head"><div><h2>Kies een categorie</h2><p>Van keuken tot slaapkamer</p></div></div><div class="cat-grid">%s</div></div></section>
+<section><div class="wrap"><div class="sec-head"><div><h2>Nieuwste gidsen</h2><p>Vers vergeleken en geprijsd</p></div><a class="btn btn-ghost btn-sm" href="gidsen.html">Alle gidsen</a></div><div class="grid">%s</div></div></section>
 <section><div class="wrap"><div class="sec-head"><div><h2>Zo werkt watkoopik</h2><p>Geen gesponsorde plekken, wel duidelijke keuzes</p></div></div>
 <div class="steps">
 <div class="step"><div class="num">1</div><h3>Wij verzamelen</h3><p>Per productsoort brengen we het complete aanbod in kaart: specificaties, prijzen en gebruikersreviews van grote winkels.</p></div>
