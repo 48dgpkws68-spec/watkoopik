@@ -285,6 +285,15 @@ feat_html = "".join(feature(g) for g in guides[:3])
 rows_html = "".join(row(g) for g in guides[3:11])
 cat_sections = "".join('''<section class="catsec"><div class="wrap"><div class="sec-head"><div><span class="kick">%s</span><h2>De beste %s</h2></div><a class="more" href="categorie/%s.html">Alle %d gidsen →</a></div><div class="feat-grid">%s</div></div></section>''' % (
     v[2], v[0].lower(), k, len(by_cat[k]), "".join(feature(g) for g in by_cat[k][:3])) for k, v in CATS.items() if by_cat.get(k) and k in ("keuken", "verzorging", "elektronica", "slapen"))
+mq_items = []
+for g in guides:
+    pr = next((p for p in g["products"][:3] if p.get("image")), None)
+    if pr: mq_items.append('<a class="mq-item" href="%s" title="%s"><img src="%s" alt="" loading="lazy"><span>%s</span></a>' % (g["url"], e(g["title"]), e(pr["image"]), e(g["short"])))
+half = max(1, len(mq_items) // 2)
+def mq_row(items, cls):
+    inner = "".join(items) * 2  # dubbel voor een naadloze lus
+    return '<div class="mq %s" aria-hidden="true"><div class="mq-track">%s</div></div>' % (cls, inner)
+marquee = '<section class="mq-wrap">%s%s</section>' % (mq_row(mq_items[:half], "mq-left"), mq_row(mq_items[half:], "mq-right"))
 home = '''
 <section class="hero"><div class="wrap hero-grid"><div>
 <span class="kick">Onafhankelijke koopgidsen</span>
@@ -293,6 +302,7 @@ home = '''
 <div class="hero-search search-wrap"><label class="search"><span aria-hidden="true">🔍</span><input type="search" placeholder="Zoek een product, bijvoorbeeld airfryer…" data-search aria-label="Zoek een gids"></label><div class="search-results"></div></div>
 <div class="pills">%s</div>
 </div>%s</div></section>
+%s
 <section><div class="wrap"><div class="sec-head"><div><span class="kick">Nieuw deze week</span><h2>De nieuwste gidsen</h2></div><a class="more" href="gidsen.html">Alle %d gidsen →</a></div>
 <div class="feat-grid">%s</div>
 <div class="rows">%s</div></div></section>
@@ -303,7 +313,7 @@ home = '''
 </div></section>
 <section class="seo"><div class="wrap narrow"><h2>Zo vind je snel wat je zoekt</h2><p>Typ een product in de zoekbalk, bijvoorbeeld <a href="beste/beste-airfryer.html">airfryer</a>, <a href="beste/beste-stofzuiger.html">stofzuiger</a> of <a href="beste/beste-koptelefoon.html">koptelefoon</a>, of kies een categorie. Elke gids begint met de drie winnaars (beste keuze, beste prijs-kwaliteit en beste premium), gevolgd door een vergelijkingstabel van alle tien modellen, een uitleg per product met plus- en minpunten, een koopgids en antwoorden op veelgestelde vragen. Prijzen worden dagelijks bij bol gecontroleerd.</p></div></section>
 <section><div class="wrap"><div class="newsletter"><div><h3 style="margin:0 0 4px">Nieuwe top 10's in je mailbox</h3><p style="margin:0;color:var(--ink2)">Eén mail per week met de nieuwste vergelijkingen en prijsdalingen.</p></div><form action="https://formsubmit.co/hallo@watkoopik.nl" method="POST"><input type="hidden" name="_subject" value="Nieuwsbrief aanmelding watkoopik"><input type="hidden" name="_next" value="%s/bedankt.html"><input type="email" name="email" placeholder="je@email.nl" required><button class="btn btn-brand" type="submit">Aanmelden</button></form></div></div></section>
-''' % (cat_pills, hero_card, len(guides), feat_html, rows_html, cat_sections, len(guides), sum(len(g["products"]) for g in guides), SITE)
+''' % (cat_pills, hero_card, marquee, len(guides), feat_html, rows_html, cat_sections, len(guides), sum(len(g["products"]) for g in guides), SITE)
 page = head("De beste producten van %d vergeleken | watkoopik.nl" % YEAR, "Wat koop ik? Onafhankelijke top 10-lijsten met de beste stofzuigers, airfryers, föhns en meer. Specificaties, prijzen en reviews vergeleken.", SITE + "/", "",
             '<script type="application/ld+json">%s</script>' % json.dumps({"@context": "https://schema.org", "@type": "WebSite", "name": "watkoopik.nl", "url": SITE + "/", "potentialAction": {"@type": "SearchAction", "target": SITE + "/gidsen.html?q={search_term_string}", "query-input": "required name=search_term_string"}}, ensure_ascii=False)) + chrome(None, "") + "<main>%s</main>" % home + footer("", guides)
 check_copy(page, "index"); wr("index.html", page)
