@@ -143,6 +143,8 @@ table.cmp td.name small{display:block;color:var(--ink2);font-weight:500}
 .pimg{aspect-ratio:1;border-radius:14px;display:grid;place-items:center;position:relative;overflow:hidden;color:#fff}
 .pimg .ico{font-size:3.6rem;filter:drop-shadow(0 6px 12px rgba(0,0,0,.25))}
 .pimg .br{position:absolute;left:0;right:0;bottom:0;background:rgba(0,0,0,.35);font-size:.8rem;font-weight:700;text-align:center;padding:6px;letter-spacing:.04em;text-transform:uppercase}
+.pimg.photo{background:#fff;border:1px solid var(--line)}
+.pimg.photo img{width:100%;height:100%;object-fit:contain;padding:12px}
 .pimg .rk{position:absolute;left:10px;top:10px;background:#fff;color:var(--ink);font-weight:900;border-radius:999px;width:34px;height:34px;display:grid;place-items:center}
 .prod h2{font-size:1.4rem;margin:0 0 4px}
 .prod .label{display:inline-block;font-size:.76rem;font-weight:800;color:var(--accent2);background:#fff1ea;border-radius:999px;padding:3px 10px;margin-bottom:8px;text-transform:uppercase;letter-spacing:.05em}

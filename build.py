@@ -131,6 +131,11 @@ for g in guides: by_cat.setdefault(g["cat"], []).append(g)
 by_slug = {g["slug"]: g for g in guides}
 
 # ---------- guide page ----------
+def pimg(p, g):
+    if p.get("image"):
+        return '<div class="pimg photo"><span class="rk">%d</span><img src="%s" alt="%s %s" loading="lazy" width="400" height="400"></div>' % (p["rank"], e(p["image"]), e(p["brand"]), e(p["name"]))
+    return '<div class="pimg" style="background:linear-gradient(135deg,%s,%s99)"><span class="rk">%d</span><span class="ico" aria-hidden="true">%s</span><span class="br">%s</span></div>' % (g["color"], g["color"], p["rank"], g["ico"], e(p["brand"]))
+
 def guide_page(g):
     root = "../"; ps = g["products"]; url = SITE + "/" + g["url"]
     title = "%s (%s) | watkoopik.nl" % (g["title"], YEAR) if str(YEAR) not in g["title"] else g["title"] + " | watkoopik.nl"
@@ -157,7 +162,7 @@ def guide_page(g):
         lab = '<span class="label%s">%s</span>' % (" gold" if p["rank"] == 1 else "", e(p["label"])) if p.get("label") else ""
         blocks.append('''<article class="prod%s" id="p%d">
 <div class="prod-head">
-<div class="pimg" style="background:linear-gradient(135deg,%s,%s99)"><span class="rk">%d</span><span class="ico" aria-hidden="true">%s</span><span class="br">%s</span></div>
+%s
 <div>%s<h2>%d. %s %s</h2>
 <div class="meta"><span class="price">%s</span><span>%s <b>%s</b>/10</span><span>%s</span></div>
 <div class="specs">%s</div>
@@ -166,7 +171,7 @@ def guide_page(g):
 <div class="pc"><div class="pros"><h4>Pluspunten</h4><ul>%s</ul></div><div class="cons"><h4>Minpunten</h4><ul>%s</ul></div></div>
 <div class="ideal"><b>Ideaal voor:</b> %s</div>
 <div class="prod-cta"><a class="btn btn-shop" %s>Bekijk prijs bij bol <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a><small>Prijs gecheckt op %s</small></div>
-</article>''' % (" top" if p["rank"] == 1 else "", p["rank"], g["color"], g["color"], p["rank"], g["ico"], e(p["brand"]), lab, p["rank"], e(p["brand"]), e(p["name"]),
+</article>''' % (" top" if p["rank"] == 1 else "", p["rank"], pimg(p, g), lab, p["rank"], e(p["brand"]), e(p["name"]),
             eur(p["price"]), stars(p["score"]), p["score"], e(p.get("reviews", "")), specs,
             "".join("<p>%s</p>" % e(t) for t in p["text"].split("\n\n")), pros, cons, e(p["ideal"]), shop_a(p, g), e(g.get("updated", TODAY.isoformat()))))
 
