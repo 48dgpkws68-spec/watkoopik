@@ -95,7 +95,7 @@ def head(title, desc, canon, root, extra=""):
 def chrome(active, root):
     links = "".join('<li><a href="%s%s"%s>%s</a></li>' % (root, h, ' class="active"' if h == active else "", t) for h, t in NAV)
     mm = "".join('<a href="%s%s">%s</a>' % (root, h, t) for h, t in NAV + [("over-ons.html", "Over ons"), ("contact.html", "Contact")])
-    return '''<div class="topbar">Onafhankelijke top 10-gidsen · <strong>Elke dag nieuwe vergelijkingen</strong> · prijzen gecheckt in %s %s</div>
+    return '''<div class="topbar">Onafhankelijke top 10-gidsen<span class="tb-x"> · <strong>Elke dag nieuwe vergelijkingen</strong> · prijzen gecheckt in %s %s</span></div>
 <header class="nav"><div class="nav-in">
 <a class="brand" href="%sindex.html" aria-label="watkoopik, naar de homepage"><span class="mark">?</span><span>wat<b>koop</b>ik</span></a>
 <ul class="nav-links">%s</ul>

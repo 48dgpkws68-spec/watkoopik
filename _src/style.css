@@ -236,3 +236,11 @@ table.cmp td.name{min-width:220px}
 .pimg.photo img{padding:18px 12px 12px}
 .win .tag{align-self:flex-start}
 .win-img.ph{display:grid;place-items:center;font-size:3rem;color:#fff}
+@media (max-width:600px){
+  .tb-x{display:none}
+  .hero{padding:34px 0 26px}
+  .hero h1{font-size:1.7rem}
+  .hero p.lead{font-size:1rem}
+  .art-head .intro{font-size:1rem}
+  .byline{gap:4px 14px;font-size:.84rem}
+}
