@@ -5,6 +5,7 @@ Regels: Nederlands, geen em/en-dashes, geen ", en" in zichtbare tekst."""
 import os, re, sys, json, glob, html, datetime, urllib.parse
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "_src"))
 import logo as LOGO
+import og as OG
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SITE = "https://watkoopik.nl"
@@ -17,6 +18,7 @@ def wr(path, s):
     p = os.path.join(ROOT, path); os.makedirs(os.path.dirname(p), exist_ok=True)
     open(p, "w", encoding="utf-8").write(s)
 e = html.escape
+OG.card(os.path.join(ROOT, "og/default.jpg"), "Wat koop ik? Onafhankelijke top 10-lijsten van %d" % YEAR, "Koopgidsen", "#5b3fd6")
 
 ICONS = {
     "huishouden": '<path d="M9 3h6l1 9H8z"/><path d="M8 12h8v3a4 4 0 0 1-8 0z"/><path d="M12 3V1"/>',
@@ -89,7 +91,8 @@ def check_copy(s, where):
 NAV = [("gidsen.html", "Alle gidsen"), ("categorie/huishouden.html", "Huishouden"), ("categorie/keuken.html", "Keuken"),
        ("categorie/verzorging.html", "Verzorging"), ("categorie/elektronica.html", "Elektronica"), ("zo-kiezen-wij.html", "Zo kiezen wij")]
 
-def head(title, desc, canon, root, extra=""):
+def head(title, desc, canon, root, extra="", img=None):
+    img = img or SITE + "/og/default.jpg"
     return '''<!doctype html>
 <html lang="nl">
 <head>
@@ -98,8 +101,8 @@ def head(title, desc, canon, root, extra=""):
 <title>%s</title>
 <meta name="description" content="%s">
 <link rel="canonical" href="%s">
-<meta property="og:title" content="%s"><meta property="og:description" content="%s"><meta property="og:url" content="%s"><meta property="og:type" content="article"><meta property="og:site_name" content="watkoopik.nl"><meta property="og:locale" content="nl_NL">
-<meta name="twitter:card" content="summary">
+<meta property="og:title" content="%s"><meta property="og:description" content="%s"><meta property="og:url" content="%s"><meta property="og:type" content="article"><meta property="og:site_name" content="watkoopik.nl"><meta property="og:locale" content="nl_NL"><meta property="og:image" content="%s"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="%s">
 <link rel="icon" href="%sfavicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@600;700;800&family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,900&display=swap" rel="stylesheet">
@@ -108,7 +111,7 @@ def head(title, desc, canon, root, extra=""):
 <script defer src="https://cloud.umami.is/script.js" data-website-id="47030ca7-838e-4840-9d90-0c8b315ba5e8"></script>
 %s
 </head>
-<body>''' % (e(title), e(desc), canon, e(title), e(desc), canon, root, root, BUILD_ID, json.dumps(root), extra)
+<body>''' % (e(title), e(desc), canon, e(title), e(desc), canon, e(img), e(img), root, root, BUILD_ID, json.dumps(root), extra)
 
 def chrome(active, root):
     links = "".join('<li><a href="%s%s"%s>%s</a></li>' % (root, h, ' class="active"' if h == active else "", t) for h, t in NAV)
@@ -213,9 +216,16 @@ def guide_page(g):
               {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"},
               {"@type": "ListItem", "position": 2, "name": CATS[g["cat"]][0], "item": SITE + "/categorie/%s.html" % g["cat"]},
               {"@type": "ListItem", "position": 3, "name": g["title"], "item": url}]}]
-    extra = "".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in ld)
     top = ps[0]
-    page = head(title, desc, url, root, extra) + chrome(None, root) + '''
+    og_rel = "og/%s.jpg" % g["slug"]
+    OG.card(os.path.join(ROOT, og_rel), g["title"], "Top 10 · %s" % CATS[g["cat"]][0], g.get("color"), top.get("image"))
+    upd = g.get("updated", TODAY.isoformat())
+    ld.append({"@context": "https://schema.org", "@type": "Article", "headline": g["title"], "description": desc, "image": SITE + "/" + og_rel,
+               "datePublished": g.get("published", upd), "dateModified": upd, "inLanguage": "nl-NL", "mainEntityOfPage": url,
+               "author": {"@type": "Organization", "name": "redactie watkoopik.nl", "url": SITE + "/over-ons.html"},
+               "publisher": {"@type": "Organization", "name": "watkoopik.nl", "url": SITE + "/", "logo": {"@type": "ImageObject", "url": SITE + "/og/default.jpg"}}})
+    extra = "".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in ld)
+    page = head(title, desc, url, root, extra, SITE + "/" + og_rel) + chrome(None, root) + '''
 <main class="wrap">
 <nav class="crumbs" aria-label="Kruimelpad"><a href="../index.html">Home</a> › <a href="../categorie/%s.html">%s</a> › %s</nav>
 <div class="art-head"><div class="kicker">Top 10 · %s</div><h1>%s</h1><p class="intro">%s</p>
