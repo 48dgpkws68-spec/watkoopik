@@ -132,22 +132,22 @@ def searchbox(cls="", ph="Zoek een product of merk", btn=True):
 
 def chrome(active, root):
     links = "".join('<li><a href="%s%s"%s>%s</a></li>' % (root, h, ' class="active"' if h == active else "", t) for h, t in NAV)
-    drawer = "".join('<a class="dl" href="%s%s">%s</a>' % (root, h, t) for h, t in [("index.html", "Home")] + NAV + [("categorie/%s.html" % k, v[0]) for k, v in CATS.items() if by_cat.get(k)] + [("over-ons.html", "Over ons"), ("contact.html", "Contact")])
+    drawer = "".join('<a class="dl" href="%s%s">%s</a>' % (root or ("./" if h == "" else ""), h, t) for h, t in [("", "Home")] + NAV + [("categorie/%s.html" % k, v[0]) for k, v in CATS.items() if by_cat.get(k)] + [("over-ons.html", "Over ons"), ("contact.html", "Contact")])
     return '''<header class="nav"><div class="nav-in">
-<a class="logo" href="%sindex.html" aria-label="watkoopik, naar home">%s<span class="logo-word">wat<b>koop</b>ik</span></a>
+<a class="logo" href="%s" aria-label="watkoopik, naar home">%s<span class="logo-word">wat<b>koop</b>ik</span></a>
 <ul class="nav-links">%s</ul>
 %s
 <a class="btn btn-purple btn-sm nav-cta magnet" href="%skeuzehulp.html">Help mij kiezen</a>
 <button class="burger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
 </div></header>
 <nav class="drawer" aria-label="Menu">%s%s</nav>
-''' % (root, LOGO, links, searchbox("search-nav", "Zoek…", False), root, searchbox(), drawer)
+''' % (root or "./", LOGO, links, searchbox("search-nav", "Zoek…", False), root, searchbox(), drawer)
 
 def footer(root):
     pop = "".join('<li><a href="%s%s">%s</a></li>' % (root, g["url"], e(g["short"])) for g in guides[:7])
     cats = "".join('<li><a href="%scategorie/%s.html">%s</a></li>' % (root, k, v[0]) for k, v in CATS.items() if by_cat.get(k))
     return '''<footer><div class="wrap"><div class="cols">
-<div><a class="logo" href="%sindex.html">%s<span class="logo-word">wat<b>koop</b>ik</span></a><p style="margin-top:12px;font-size:.92rem">Onafhankelijke top 10-gidsen. Wij vergelijken prijs, specificaties en reviews zodat jij in vijf minuten de juiste keuze maakt.</p></div>
+<div><a class="logo" href="%s">%s<span class="logo-word">wat<b>koop</b>ik</span></a><p style="margin-top:12px;font-size:.92rem">Onafhankelijke top 10-gidsen. Wij vergelijken prijs, specificaties en reviews zodat jij in vijf minuten de juiste keuze maakt.</p></div>
 <div><h4>Populair</h4><ul>%s</ul></div>
 <div><h4>Categorieën</h4><ul>%s</ul></div>
 <div><h4>watkoopik</h4><ul><li><a href="%skeuzehulp.html">Keuzehulp</a></li><li><a href="%sslimste-koop.html">Slimste koop</a></li><li><a href="%szo-kiezen-wij.html">Zo kiezen wij</a></li><li><a href="%sover-ons.html">Over ons</a></li><li><a href="%scontact.html">Contact</a></li><li><a href="%sprivacy.html">Privacy</a></li><li><a href="%sdisclaimer.html">Affiliate-disclaimer</a></li></ul></div>
@@ -156,7 +156,7 @@ def footer(root):
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
 <script src="https://unpkg.com/lenis@1.1.13/dist/lenis.min.js" defer></script>
 <script src="%sapp.js?v=%s" defer></script>
-</body></html>''' % (root, LOGO, pop, cats, root, root, root, root, root, root, root, YEAR, root, BUILD)
+</body></html>''' % (root or "./", LOGO, pop, cats, root, root, root, root, root, root, root, YEAR, root, BUILD)
 
 def page(path, title, desc, body, active=None, extra="", root=None, img=""):
     if root is None: root = "../" * path.count("/")
@@ -269,7 +269,7 @@ page("gidsen.html", "Alle top 10-gidsen | watkoopik", "Overzicht van alle top 10
 for k, v in CATS.items():
     gs = by_cat.get(k, [])
     if not gs: continue
-    body = '''<section style="padding-top:20px"><div class="wrap"><nav class="crumbs"><a href="../index.html">Home</a> › %s</nav>
+    body = '''<section style="padding-top:20px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › %s</nav>
 <span class="kick" style="margin-top:14px">Categorie</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">De beste %s van %d</h1>
 <p class="muted" style="max-width:700px">%s. In deze %d gidsen vergelijken we per productsoort de tien beste modellen op prijs, specificaties en gebruikersreviews, met een duidelijke winnaar, de slimste koop en de beste premium keuze.</p>
 <div class="gl" style="margin-top:22px">%s</div></div></section>''' % (v[0], v[0].lower(), YEAR, v[1], len(gs), "".join(gcard(g, "../") for g in gs))
@@ -333,7 +333,7 @@ for g in guides:
               {"@type": "ListItem", "position": 2, "name": CATS[g["cat"]][0], "item": SITE + "/categorie/%s.html" % g["cat"]},
               {"@type": "ListItem", "position": 3, "name": g["title"], "item": url_abs}]}]
     extra = "".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in ld)
-    body = '''<div class="wrap"><nav class="crumbs"><a href="../index.html">Home</a> › <a href="../categorie/%s.html">%s</a> › %s</nav>
+    body = '''<div class="wrap"><nav class="crumbs"><a href="../">Home</a> › <a href="../categorie/%s.html">%s</a> › %s</nav>
 <div class="ghero"><span class="kick">Top 10 · %s</span><h1 class="split">%s</h1><p class="intro">%s</p>
 <div class="meta-line"><span>Bijgewerkt <b>%s</b></span><span><b>%d</b> modellen</span><span><b>%s</b> reviews</span><span>Door <b>de redactie</b></span></div>
 <p class="disc">Wij ontvangen mogelijk een vergoeding als je via onze links iets koopt. Dit kost jou niets extra en bepaalt niet welke producten in de lijst staan. <a href="../zo-kiezen-wij.html">Zo kiezen wij</a>.</p></div>
@@ -413,7 +413,7 @@ prose("disclaimer.html", "Affiliate-disclaimer", "Hoe watkoopik geld verdient.",
 prose("privacy.html", "Privacy", "Privacybeleid van watkoopik.", '''<h1 style="font-size:2rem">Privacy en cookies</h1><p>Wij plaatsen geen volgcookies. Bezoekersstatistieken meten we anoniem en zonder cookies. Gegevens uit het contactformulier gebruiken we alleen om te reageren. Klik je door naar een winkel, dan geldt het privacybeleid van die winkel. Vragen: <a href="mailto:hallo@watkoopik.nl">hallo@watkoopik.nl</a>.</p>''')
 page("404.html", "Niet gevonden | watkoopik", "Pagina niet gevonden.", '<section style="padding-top:34px"><div class="wrap prose"><h1 style="font-size:2rem">Deze pagina bestaat niet</h1><p>Zoek hieronder of bekijk <a href="/gidsen.html">alle gidsen</a>.</p>' + searchbox() + '</div></section>', root="/")
 
-prose("bedankt.html", "Bedankt", "Bedankt voor je bericht.", '<h1 style="font-size:2rem">Bedankt!</h1><p>We hebben je bericht ontvangen en reageren binnen twee werkdagen. <a href="index.html">Terug naar home</a>.</p>')
+prose("bedankt.html", "Bedankt", "Bedankt voor je bericht.", '<h1 style="font-size:2rem">Bedankt!</h1><p>We hebben je bericht ontvangen en reageren binnen twee werkdagen. <a href="./">Terug naar home</a>.</p>')
 wr("stats.html", '<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><meta http-equiv="refresh" content="0;url=https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl"><title>Statistieken</title></head><body><a href="https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl">Naar het dashboard</a></body></html>')
 urls = [("", TODAY.isoformat(), "1.0"), ("gidsen.html", TODAY.isoformat(), "0.8"), ("keuzehulp.html", TODAY.isoformat(), "0.7"), ("slimste-koop.html", TODAY.isoformat(), "0.7"),
         ("zo-kiezen-wij.html", TODAY.isoformat(), "0.4"), ("over-ons.html", TODAY.isoformat(), "0.3"), ("contact.html", TODAY.isoformat(), "0.3")]
