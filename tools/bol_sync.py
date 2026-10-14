@@ -48,6 +48,11 @@ def strict_ok(p, title):
     tl = re.split(r" [-|\u2013\u2014] ", title)[0].lower(); nl = p["name"].lower()  # alleen het naamdeel vóór het eerste streepje
     if p["brand"].lower().split()[0] not in title.lower(): return False
     if any(b in tl for b in BAD if b not in nl): return False
+    # losse versienummers in de bol-naam die niet in onze naam staan (bv. "Curv 2", "Series 11") wijzen op een ander model
+    clean = lambda x: re.sub(r"/\d+|\d+[.,]\d+|-\d", " ", x)
+    name_nums = set(re.findall(r"\b\d{1,2}\b", clean(nl)))
+    for n in re.findall(r"\b\d{1,2}\b", clean(tl)):
+        if n not in name_nums and not re.search(r"\b%s\s*(mm|cm|l|liter|kg|w|inch|stuks|delig|jaar|x)\b" % n, tl): return False
     for v in VARIANTS:
         if re.search(r"\b%s\b" % v, tl) and not re.search(r"\b%s\b" % v, nl): return False
     if models: return all(m in t for m in models)
