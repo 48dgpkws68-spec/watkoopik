@@ -1,354 +1,369 @@
 {
- "slug": "beste-espressomachine",
- "cat": "keuken",
- "prio": 30,
- "title": "De 10 beste espressomachines van 2026",
- "short": "Espressomachines",
- "query": "espressomachine",
- "keywords": [
-  "espressomachine met bonenmaler",
-  "pistonmachine",
-  "sage barista express",
-  "delonghi dedica",
-  "espressomachine voor beginners"
- ],
- "ico": "☕",
- "updated": "2026-10-14",
- "reviews_total": "14.200",
- "intro": "Een pistonmachine geeft je meer controle over je koffie dan een volautomaat: jij bepaalt de maalgraad, de dosis en hoe je de melk opschuimt. Wij vergeleken 36 espressomachines op druk, temperatuurstabiliteit, opwarmtijd, stoomkracht, bouwkwaliteit en wat duizenden thuisbarista's na maanden gebruik melden. Hieronder vind je tien machines met en zonder ingebouwde bonenmaler, van een smalle instapper voor een kleine keuken tot een machine met warmtewisselaar die het niveau van een koffiebar benadert. Volautomaten vind je in een aparte gids.",
- "verdict": "De Sage Barista Express Impress is de beste espressomachine van 2026: de slimme tamphulp en de ingebouwde maler maken goede espresso haalbaar voor iedereen. De De'Longhi Dedica Style is de beste prijs-kwaliteit voor wie klein begint en weinig ruimte heeft. Wie het maximale wil en zelf een maler koopt, kiest de Lelit Mara X V2, de beste premium machine met een warmtewisselaar en E61-zetgroep.",
- "products": [
-  {
-   "brand": "Sage",
-   "name": "the Barista Express Impress SES876",
-   "price": 649.0,
-   "score": 9.3,
-   "label": "Beste keuze",
-   "reviews": "3.100+ reviews",
-   "oneliner": "Ingebouwde maler en slimme tamphulp, ideaal om mee te leren.",
-   "specs": {
-    "Type": "Piston met maler",
-    "Druk": "9 bar (extractie)",
-    "Verwarming": "Thermocoil",
-    "Opwarmtijd": "Ca. 1 min",
-    "Waterreservoir": "2 l"
-   },
-   "pros": [
-    "Assisted tamping zet steeds dezelfde druk en meet de dosis",
-    "Conische maler met 25 standen ingebouwd",
-    "PID-temperatuurregeling voor stabiele extractie",
-    "Krachtige stoompijp voor microfoam"
-   ],
-   "cons": [
-    "Neemt veel ruimte in op het aanrecht",
-    "Maler is minder fijn instelbaar dan een losse maler"
-   ],
-   "ideal": "Beginnende thuisbarista's die alles in één apparaat willen en snel goede espresso willen zetten.",
-   "text": "De Barista Express Impress is de opvolger van een van de best verkochte pistonmachines ooit. Het grote verschil zit in de tamphendel: je trekt hem naar beneden en de machine drukt de koffie aan met een vaste kracht van 10 kilo. Een indicator laat zien of de dosis te veel of te weinig is, waarna de machine de volgende keer automatisch bijstuurt. Juist dat maakt het verschil voor beginners, die anders weken bezig zijn met het vinden van de juiste dosis.\n\nDe ingebouwde conische maler heeft 25 standen en maalt direct in de portafilter. De PID-regeling houdt het water binnen een paar graden van de ingestelde temperatuur. De stoompijp is krachtig genoeg om in ongeveer 40 seconden een kan melk op te schuimen voor latte art. Gebruikers melden dat de maler bij heel lichte branding tekortschiet, maar voor gangbare espressobonen is hij ruim voldoende. Let op de afmetingen: met 41 cm hoogte past hij niet onder elk keukenkastje."
-  },
-  {
-   "brand": "De'Longhi",
-   "name": "La Specialista Arte EC9155.MB",
-   "price": 449.0,
-   "score": 9.0,
-   "label": null,
-   "reviews": "2.400+ reviews",
-   "oneliner": "Complete set met maler en tamper voor een scherpe prijs.",
-   "specs": {
-    "Type": "Piston met maler",
-    "Druk": "15 bar (pomp)",
-    "Verwarming": "Thermoblock",
-    "Opwarmtijd": "Ca. 1 min",
-    "Waterreservoir": "1,7 l"
-   },
-   "pros": [
-    "Ingebouwde conische maler met 8 standen",
-    "Tamper en doseertrechter meegeleverd",
-    "Drie temperatuurstanden voor verschillende branding",
-    "Compacter dan de meeste machines met maler"
-   ],
-   "cons": [
-    "Weinig maalstanden voor fijnafstemming",
-    "Stoompijp is trager dan bij Sage"
-   ],
-   "ideal": "Koffiedrinkers die een complete starterset met maler zoeken onder de 500 euro.",
-   "text": "De La Specialista Arte is De'Longhi's antwoord op de Sage Barista Express en hij doet het verrassend goed. Je krijgt een machine met ingebouwde conische maler, een metalen tamper, een tampmat en een doseertrechter, zodat je meteen aan de slag kunt. De maler heeft acht standen, wat weinig klinkt, maar de stappen zijn zo gekozen dat je met normale espressobonen goed uitkomt.\n\nVia drie temperatuurstanden pas je het water aan op lichte, middel of donkere branding. Het thermoblock is binnen een minuut op temperatuur. De stoompijp is een echte pannarello zonder kapje, dus je kunt zelf microfoam maken, al duurt het opschuimen iets langer dan bij duurdere machines. Gebruikers zijn positief over het gemak en de nette afwerking, minder over de beperkte instelmogelijkheden van de maler bij lichte bonen. Voor wie vooral cappuccino en flat white drinkt is dit een van de slimste aankopen in de klasse rond 450 euro."
-  },
-  {
-   "brand": "Sage",
-   "name": "the Bambino Plus SES500",
-   "price": 449.0,
-   "score": 8.9,
-   "label": null,
-   "reviews": "2.700+ reviews",
-   "oneliner": "Compact, binnen drie seconden klaar en automatisch melk opschuimen.",
-   "specs": {
-    "Type": "Piston zonder maler",
-    "Druk": "9 bar (extractie)",
-    "Verwarming": "Thermojet",
-    "Opwarmtijd": "Ca. 3 sec",
-    "Waterreservoir": "1,9 l"
-   },
-   "pros": [
-    "Op temperatuur in ongeveer drie seconden",
-    "Automatische melkopschuimer met temperatuursensor",
-    "Slechts 19,5 cm breed",
-    "Portafilter van 54 mm met professionele dosis"
-   ],
-   "cons": [
-    "Je hebt een losse bonenmaler nodig",
-    "Geen manometer of temperatuurinstelling"
-   ],
-   "ideal": "Melkkoffiedrinkers met weinig ruimte die al een goede maler hebben of willen kopen.",
-   "text": "De Bambino Plus is de favoriet van iedereen die snel een goede cappuccino wil zonder gedoe. Het Thermojet-systeem is in ongeveer drie seconden op temperatuur, dus je hoeft niet te wachten zoals bij een machine met boiler. De portafilter van 54 mm neemt een dosis van 19 gram, dezelfde hoeveelheid als in een koffiebar.\n\nHet sterkste punt is de automatische stoompijp. Je zet de kan op de lekbak, kiest temperatuur en schuimdikte en de machine stopt vanzelf wanneer de melk klaar is. Gebruikers noemen het resultaat vergelijkbaar met handmatig opschuimen. Je kunt nog steeds zelf schuimen als je latte art wilt oefenen. De machine heeft geen maler, dus reken op 100 tot 250 euro extra voor een goede losse maler. Met 19,5 cm breedte is hij een van de smalste machines in deze lijst."
-  },
-  {
-   "brand": "De'Longhi",
-   "name": "Dedica Style EC685.M",
-   "price": 169.0,
-   "score": 8.5,
-   "label": "Beste prijs-kwaliteit",
-   "reviews": "6.800+ reviews",
-   "oneliner": "Smalle instapper met goede espresso voor weinig geld.",
-   "specs": {
-    "Type": "Piston zonder maler",
-    "Druk": "15 bar (pomp)",
-    "Verwarming": "Thermoblock",
-    "Opwarmtijd": "Ca. 40 sec",
-    "Waterreservoir": "1,1 l"
-   },
-   "pros": [
-    "Maar 15 cm breed",
-    "Snel op temperatuur",
-    "Geschikt voor gemalen koffie en ESE-pads",
-    "Metalen behuizing voor deze prijs"
-   ],
-   "cons": [
-    "Drukloze filters geven minder controle",
-    "Pannarello schuimt grof"
-   ],
-   "ideal": "Beginners met een kleine keuken die voor weinig geld willen proeven aan echte espresso.",
-   "text": "De Dedica is al jaren de best verkochte pistonmachine van Nederland en dat is niet zonder reden. Met 15 cm breedte past hij overal, het thermoblock is in ongeveer 40 seconden klaar en de behuizing is van metaal. Je kunt gemalen koffie gebruiken of ESE-pads, wat handig is als je nog geen maler hebt.\n\nStandaard worden drukfilters meegeleverd die ook met grof gemalen supermarktkoffie een redelijke crema geven. Wie verder wil, koopt een bodemloze portafilter van 51 mm en een losse maler, waarna de Dedica verrassend goede espresso zet. De pannarello maakt grof schuim, maar veel gebruikers schroeven het kapje eraf voor fijner resultaat. Het waterreservoir van 1,1 liter is klein, reken op bijvullen na zes tot acht kopjes. Voor rond de 170 euro vind je geen betere instap in de wereld van zelf espresso zetten."
-  },
-  {
-   "brand": "Gaggia",
-   "name": "Classic Evo Pro RI9380/46",
-   "price": 449.0,
-   "score": 8.8,
-   "label": null,
-   "reviews": "1.500+ reviews",
-   "oneliner": "Italiaanse klassieker met commerciële zetgroep en eindeloos te upgraden.",
-   "specs": {
-    "Type": "Piston zonder maler",
-    "Druk": "9 bar (OPV)",
-    "Verwarming": "Boiler",
-    "Opwarmtijd": "Ca. 5 min",
-    "Waterreservoir": "2,1 l"
-   },
-   "pros": [
-    "Verchroomde zetgroep van 58 mm",
-    "Opnieuw ingestelde drukklep op 9 bar",
-    "Robuust en volledig te repareren",
-    "Grote community met upgrades zoals PID"
-   ],
-   "cons": [
-    "Temperatuur schommelt zonder PID-upgrade",
-    "Langere opwarmtijd dan thermoblock-machines"
-   ],
-   "ideal": "Hobbyisten die een degelijke machine zoeken die tientallen jaren meegaat.",
-   "text": "De Gaggia Classic wordt sinds 1991 in Italië gemaakt en de Evo Pro is de modernste versie. Hij heeft een commerciële zetgroep van 58 mm, dezelfde maat als in een koffiebar, waardoor je kiest uit een enorm aanbod aan portafilters, tampers en zeefjes. De drukklep staat af fabriek op 9 bar, wat betere espresso geeft dan de hogere druk van oudere versies.\n\nDe boiler van aluminium heeft ongeveer vijf minuten nodig om op temperatuur te komen en de temperatuur schommelt wat. Thuisbarista's lossen dat op met de truc van temperature surfing of met een PID-ombouwset van rond de 100 euro. Juist die maakbaarheid is de reden dat veel gebruikers de Classic na tien jaar nog steeds dagelijks gebruiken. De stoompijp is een professionele enkelgats pijp die goed microfoam maakt. Je hebt wel een losse maler nodig die fijn genoeg maalt voor espresso."
-  },
-  {
-   "brand": "Sage",
-   "name": "the Barista Pro SES878",
-   "price": 749.0,
-   "score": 8.9,
-   "label": null,
-   "reviews": "1.900+ reviews",
-   "oneliner": "Snellere Barista Express met display en fijnere maler.",
-   "specs": {
-    "Type": "Piston met maler",
-    "Druk": "9 bar (extractie)",
-    "Verwarming": "Thermojet",
-    "Opwarmtijd": "Ca. 3 sec",
-    "Waterreservoir": "2 l"
-   },
-   "pros": [
-    "Thermojet is in drie seconden klaar",
-    "Lcd-scherm met extractietimer",
-    "Maler met 30 standen",
-    "Direct schakelen tussen espresso en stoom"
-   ],
-   "cons": [
-    "Geen tamphulp zoals bij de Impress",
-    "Duurder dan de Barista Express"
-   ],
-   "ideal": "Thuisbarista's die snelheid en meer instelmogelijkheden willen in een machine met maler.",
-   "text": "De Barista Pro lijkt op de Barista Express, maar heeft een snellere verwarming en een overzichtelijk lcd-scherm. Het Thermojet-systeem is binnen drie seconden op temperatuur en schakelt na het zetten zonder wachttijd door naar stoom. Dat scheelt merkbaar als je meerdere cappuccino's achter elkaar maakt.\n\nDe ingebouwde maler heeft 30 standen, vijf meer dan bij de Impress, wat helpt bij het fijnafstemmen van lichte branding. Het scherm toont de extractietijd, de maaltijd en de temperatuur, zodat je beter leert wat je in het kopje proeft. Een tamphulp ontbreekt: je tampt zelf met de meegeleverde metalen tamper. Gebruikers prijzen de snelheid en het gebruiksgemak, kritiek gaat vooral over de prijs ten opzichte van de Impress. Kies de Pro als je al wat ervaring hebt en vooral tijd wilt winnen."
-  },
-  {
-   "brand": "Lelit",
-   "name": "Anna PL41TEM",
-   "price": 499.0,
-   "score": 8.6,
-   "label": null,
-   "reviews": "400+ reviews",
-   "oneliner": "Compacte Italiaan met PID en professionele 58 mm zetgroep.",
-   "specs": {
-    "Type": "Piston zonder maler",
-    "Druk": "9 bar (OPV)",
-    "Verwarming": "Boiler met PID",
-    "Opwarmtijd": "Ca. 4 min",
-    "Waterreservoir": "2,7 l"
-   },
-   "pros": [
-    "PID-regeling met display",
-    "Zetgroep en portafilter van 58 mm",
-    "Manometer voor zetdruk",
-    "Groot waterreservoir"
-   ],
-   "cons": [
-    "Eén boiler, dus wachten tussen zetten en stomen",
-    "Stoomkracht beperkt bij grote kannen"
-   ],
-   "ideal": "Espressodrinkers die een stabiele, compacte machine willen met professionele maten.",
-   "text": "Lelit bouwt in Italië machines die bij thuisbarista's hoog aangeschreven staan en de Anna is hun instapmodel met PID. Het display laat de boilertemperatuur zien en je stelt die in stappen van een graad in. Daardoor zet de Anna veel constantere espresso dan machines in dezelfde prijsklasse zonder temperatuurregeling.\n\nDe zetgroep van 58 mm en de manometer op de voorkant geven je de feedback die je nodig hebt om te leren. Omdat de Anna maar één boiler heeft, moet je na het zetten even wachten tot de stoomtemperatuur bereikt is. Voor één of twee cappuccino's is dat geen probleem, voor een volle tafel gasten wel. Het waterreservoir van 2,7 liter is ruim en van bovenaf te vullen. Gebruikers noemen de bouwkwaliteit uitstekend en de koffie vergelijkbaar met duurdere machines."
-  },
-  {
-   "brand": "Lelit",
-   "name": "Mara X V2 PL62X",
-   "price": 1499.0,
-   "score": 9.1,
-   "label": "Beste premium",
-   "reviews": "300+ reviews",
-   "oneliner": "E61-zetgroep en warmtewisselaar: tegelijk zetten en stomen.",
-   "specs": {
-    "Type": "Piston zonder maler",
-    "Druk": "9 bar (OPV)",
-    "Verwarming": "Warmtewisselaar",
-    "Opwarmtijd": "Ca. 20 min",
-    "Waterreservoir": "2,5 l"
-   },
-   "pros": [
-    "Tegelijk espresso zetten en melk stomen",
-    "Slimme regeling houdt de zetgroep stabiel",
-    "Klassieke E61-zetgroep van RVS",
-    "Zeer stil door aangepaste pomp"
-   ],
-   "cons": [
-    "Lange opwarmtijd",
-    "Hoge aanschafprijs plus losse maler"
-   ],
-   "ideal": "Gevorderde thuisbarista's die dagelijks meerdere melkdranken maken.",
-   "text": "De Mara X is een van de populairste machines met warmtewisselaar in Europa. De boiler van 1,8 liter levert stoom terwijl de warmtewisselaar vers water op zettemperatuur brengt, zodat je tegelijk een espresso zet en melk opschuimt. Lelit regelt de temperatuur via een sensor in de zetgroep in plaats van in de boiler, wat het bekende probleem van te heet water bij warmtewisselaars grotendeels oplost.\n\nDe E61-zetgroep is een klassieker die al zestig jaar in koffiebars staat en hij is eenvoudig te onderhouden. De machine is opvallend stil en de stoomkracht is royaal genoeg voor kannen van 600 ml. Nadeel is de opwarmtijd van ongeveer twintig minuten, al lossen veel gebruikers dat op met een slimme stekker. Reken naast de machine op een goede maler van minimaal 300 euro. Je krijgt er een machine voor die vrijwel het niveau van een kleine koffiebar haalt."
-  },
-  {
-   "brand": "De'Longhi",
-   "name": "La Specialista Prestigio EC9355.M",
-   "price": 599.0,
-   "score": 8.7,
-   "label": null,
-   "reviews": "1.300+ reviews",
-   "oneliner": "Maler, sensor en tamphendel in een strak RVS-ontwerp.",
-   "specs": {
-    "Type": "Piston met maler",
-    "Druk": "19 bar (pomp)",
-    "Verwarming": "Dubbel thermoblock",
-    "Opwarmtijd": "Ca. 1 min",
-    "Waterreservoir": "2 l"
-   },
-   "pros": [
-    "Ingebouwde tamphendel zonder knoeien",
-    "Twee thermoblocks voor zetten en stomen",
-    "Sensor past de maaldosis aan",
-    "Automatische en handmatige melkopschuiming"
-   ],
-   "cons": [
-    "Maler minder fijn dan bij Sage",
-    "Fors en zwaar apparaat"
-   ],
-   "ideal": "Wie gemak zoekt maar wel zelf de portafilter in handen wil houden.",
-   "text": "De Prestigio zit tussen de Arte en de topmodellen van De'Longhi in en biedt vooral veel gemak. Je maalt direct in de portafilter, waarna je met een hendel aan de zijkant tampt zonder de portafilter uit de machine te halen. Dat werkt netjes en voorkomt koffiegruis op het aanrecht.\n\nDoor twee aparte thermoblocks kun je direct na het zetten stomen. De Active Temperature Control houdt de watertemperatuur stabiel en de stoompijp heeft een stand voor automatisch opschuimen. Een sensor meet tijdens het malen de dosis en geeft aan of je moet bijstellen. Gebruikers zijn tevreden over het gebruiksgemak en de afwerking, kritiek gaat over de maler die bij lichte branding te grof blijft. Voor donkere Italiaanse branding en cappuccino's in de ochtend is het een fijne en betrouwbare machine met weinig rommel."
-  },
-  {
-   "brand": "Solis",
-   "name": "Barista Perfetta Plus 1170",
-   "price": 299.0,
-   "score": 8.2,
-   "label": null,
-   "reviews": "1.100+ reviews",
-   "oneliner": "Zwitserse middenklasser met PID en dubbel verwarmingssysteem.",
-   "specs": {
-    "Type": "Piston zonder maler",
-    "Druk": "15 bar (pomp)",
-    "Verwarming": "Dubbel thermoblock",
-    "Opwarmtijd": "Ca. 1 min",
-    "Waterreservoir": "1,7 l"
-   },
-   "pros": [
-    "PID-temperatuurregeling",
-    "Direct stomen na het zetten",
-    "Voorinfusie instelbaar",
-    "Heldere bediening met timer"
-   ],
-   "cons": [
-    "Portafilter van 54 mm met beperkt accessoire-aanbod",
-    "Lekbak loopt snel vol"
-   ],
-   "ideal": "Wie rond de 300 euro wil uitgeven en toch PID en snelle stoom wil.",
-   "text": "Solis is een Zwitsers merk dat in Nederland minder bekend is, maar de Barista Perfetta Plus haalt sterke reviews. Hij heeft twee thermoblocks, zodat je na de espresso meteen kunt stomen zonder te wachten. De temperatuur wordt met PID geregeld en is in stappen in te stellen, iets wat je in deze prijsklasse weinig ziet.\n\nVoorinfusie bevochtigt de koffie eerst een paar seconden met lage druk, wat helpt tegen channeling en een gelijkmatigere extractie geeft. Een ingebouwde timer laat zien hoe lang je shot loopt. De stoompijp is krachtig genoeg voor latte art. Minpunten zijn de kleine lekbak en de portafilter van 54 mm, waarvoor minder losse accessoires bestaan dan voor 58 mm. Gebruikers waarderen vooral de constante resultaten en de snelle opwarmtijd. Combineer hem met een losse maler van rond de 150 euro."
-  }
- ],
- "guide": [
-  {
-   "h": "Met of zonder ingebouwde bonenmaler?",
-   "p": "Een machine met maler is compact en praktisch: één stekker, één apparaat. Een losse maler is vaak beter en kun je later houden als je de machine vervangt. Voor beginners is een machine met maler de makkelijkste start. Wie al een goede maler heeft of serieus wil worden, haalt meer kwaliteit uit een machine zonder maler plus een losse maler van 150 euro of meer."
-  },
-  {
-   "h": "Thermoblock, boiler of warmtewisselaar",
-   "p": "Een thermoblock of thermojet verwarmt water op het moment zelf en is binnen seconden tot een minuut klaar. Een boiler houdt de temperatuur stabieler maar heeft enkele minuten nodig. Een warmtewisselaar laat je tegelijk zetten en stomen, maar is duurder en warmt langer op. Maak je vooral cappuccino voor meerdere mensen, dan is tegelijk stomen een groot voordeel."
-  },
-  {
-   "h": "Waarom PID belangrijk is",
-   "p": "PID is een elektronische regeling die de watertemperatuur binnen een of twee graden constant houdt. Zonder PID kan de temperatuur tussen shots vijf tot tien graden schommelen, wat je proeft als zuur of bitter. Bijna alle machines boven de 300 euro hebben PID. Bij goedkopere machines is het geen ramp, maar de resultaten zijn minder voorspelbaar."
-  },
-  {
-   "h": "Portafilter: 51, 54 of 58 mm",
-   "p": "De diameter van de portafilter bepaalt welke tampers, zeefjes en bodemloze filters passen. 58 mm is de standaard in koffiebars en heeft het grootste aanbod aan accessoires. 54 mm wordt gebruikt door Sage en is ook goed verkrijgbaar. 51 mm vind je bij instapmachines van De'Longhi en heeft het minste aanbod. Wil je kunnen upgraden, kies dan 54 of 58 mm."
-  },
-  {
-   "h": "Bar is niet alles",
-   "p": "Fabrikanten adverteren met 15 of 19 bar, maar goede espresso wordt gezet bij ongeveer 9 bar. Een hoger getal zegt alleen iets over de maximale pompdruk. Belangrijker zijn temperatuurstabiliteit, een goede maler en verse bonen. Een manometer helpt je om te zien wat er tijdens het zetten gebeurt."
-  },
-  {
-   "h": "Onderhoud en ontkalken",
-   "p": "Spoel na elk gebruik de zetgroep door en veeg de stoompijp direct af. Ontkalk elke een tot drie maanden afhankelijk van je waterhardheid, of gebruik een waterfilter in het reservoir. Machines met een E61-zetgroep moet je af en toe terugspoelen met reinigingstabletten. Wie dit bijhoudt, doet tien jaar of langer met een goede pistonmachine."
-  }
- ],
- "faq": [
-  {
-   "q": "Wat is de beste espressomachine van 2026?",
-   "a": "Uit onze vergelijking komt de Sage Barista Express Impress als beste espressomachine van 2026, dankzij de ingebouwde maler en de slimme tamphulp. Zoek je de beste prijs-kwaliteit, kijk dan naar de De'Longhi Dedica Style."
-  },
-  {
-   "q": "Wat is het verschil tussen een pistonmachine en een volautomaat?",
-   "a": "Bij een pistonmachine maal, doseer en tamp je zelf en schuim je de melk handmatig op. Een volautomaat doet alles met één druk op de knop. Een pistonmachine geeft meer controle en vaak betere espresso, maar vraagt oefening."
-  },
-  {
-   "q": "Heb ik een losse koffiemolen nodig?",
-   "a": "Alleen bij een machine zonder ingebouwde maler. Voorgemalen koffie verliest binnen een paar dagen veel smaak en is meestal te grof voor espresso. Een losse elektrische maler voor espresso kost vanaf ongeveer 120 euro."
-  },
-  {
-   "q": "Hoeveel moet ik uitgeven aan een espressomachine?",
-   "a": "Rond 170 euro heb je een prima instapper, tussen 400 en 700 euro zitten de beste machines met maler of PID. Boven de 1.000 euro betaal je voor een warmtewisselaar of dubbele boiler, vooral handig bij veel melkdranken."
-  },
-  {
-   "q": "Welke bonen zijn geschikt voor espresso?",
-   "a": "Kies bonen met een recente branddatum, liefst binnen vier weken. Donkere tot middelbranding is het makkelijkst om mee te beginnen. Lichte branding vraagt een fijne maler en een stabiele temperatuur."
-  },
-  {
-   "q": "Hoe vaak moet ik een espressomachine ontkalken?",
-   "a": "Bij gemiddeld Nederlands leidingwater elke twee tot drie maanden. Met hard water vaker, met een waterfilter of zacht water minder vaak. Veel machines geven zelf een melding wanneer het tijd is."
-  }
- ]
+  "slug": "beste-espressomachine",
+  "cat": "keuken",
+  "prio": 30,
+  "title": "De 10 beste espressomachines van 2026",
+  "short": "Espressomachines",
+  "query": "espressomachine",
+  "keywords": [
+    "espressomachine met bonenmaler",
+    "pistonmachine",
+    "sage barista express",
+    "delonghi dedica",
+    "espressomachine voor beginners"
+  ],
+  "ico": "☕",
+  "updated": "2026-10-14",
+  "reviews_total": "14.200",
+  "intro": "Een pistonmachine geeft je meer controle over je koffie dan een volautomaat: jij bepaalt de maalgraad, de dosis en hoe je de melk opschuimt. Wij vergeleken 36 espressomachines op druk, temperatuurstabiliteit, opwarmtijd, stoomkracht, bouwkwaliteit en wat duizenden thuisbarista's na maanden gebruik melden. Hieronder vind je tien machines met en zonder ingebouwde bonenmaler, van een smalle instapper voor een kleine keuken tot een machine met warmtewisselaar die het niveau van een koffiebar benadert. Volautomaten vind je in een aparte gids.",
+  "verdict": "De Sage Barista Express Impress is de beste espressomachine van 2026: de slimme tamphulp en de ingebouwde maler maken goede espresso haalbaar voor iedereen. De De'Longhi Dedica Style is de beste prijs-kwaliteit voor wie klein begint en weinig ruimte heeft. Wie het maximale wil en zelf een maler koopt, kiest de Lelit Mara X V2, de beste premium machine met een warmtewisselaar en E61-zetgroep.",
+  "products": [
+    {
+      "brand": "Sage",
+      "name": "the Barista Express Impress SES876",
+      "price": 649.0,
+      "score": 9.3,
+      "label": "Beste keuze",
+      "reviews": "3.100+ reviews",
+      "oneliner": "Ingebouwde maler en slimme tamphulp, ideaal om mee te leren.",
+      "specs": {
+        "Type": "Piston met maler",
+        "Druk": "9 bar (extractie)",
+        "Verwarming": "Thermocoil",
+        "Opwarmtijd": "Ca. 1 min",
+        "Waterreservoir": "2 l"
+      },
+      "pros": [
+        "Assisted tamping zet steeds dezelfde druk en meet de dosis",
+        "Conische maler met 25 standen ingebouwd",
+        "PID-temperatuurregeling voor stabiele extractie",
+        "Krachtige stoompijp voor microfoam"
+      ],
+      "cons": [
+        "Neemt veel ruimte in op het aanrecht",
+        "Maler is minder fijn instelbaar dan een losse maler"
+      ],
+      "ideal": "Beginnende thuisbarista's die alles in één apparaat willen en snel goede espresso willen zetten.",
+      "text": "De Barista Express Impress is de opvolger van een van de best verkochte pistonmachines ooit. Het grote verschil zit in de tamphendel: je trekt hem naar beneden en de machine drukt de koffie aan met een vaste kracht van 10 kilo. Een indicator laat zien of de dosis te veel of te weinig is, waarna de machine de volgende keer automatisch bijstuurt. Juist dat maakt het verschil voor beginners, die anders weken bezig zijn met het vinden van de juiste dosis.\n\nDe ingebouwde conische maler heeft 25 standen en maalt direct in de portafilter. De PID-regeling houdt het water binnen een paar graden van de ingestelde temperatuur. De stoompijp is krachtig genoeg om in ongeveer 40 seconden een kan melk op te schuimen voor latte art. Gebruikers melden dat de maler bij heel lichte branding tekortschiet, maar voor gangbare espressobonen is hij ruim voldoende. Let op de afmetingen: met 41 cm hoogte past hij niet onder elk keukenkastje."
+    },
+    {
+      "brand": "De'Longhi",
+      "name": "La Specialista Arte EC9155.MB",
+      "price": 373.0,
+      "score": 9.0,
+      "label": null,
+      "reviews": "2.400+ reviews",
+      "oneliner": "Complete set met maler en tamper voor een scherpe prijs.",
+      "specs": {
+        "Type": "Piston met maler",
+        "Druk": "15 bar (pomp)",
+        "Verwarming": "Thermoblock",
+        "Opwarmtijd": "Ca. 1 min",
+        "Waterreservoir": "1,7 l"
+      },
+      "pros": [
+        "Ingebouwde conische maler met 8 standen",
+        "Tamper en doseertrechter meegeleverd",
+        "Drie temperatuurstanden voor verschillende branding",
+        "Compacter dan de meeste machines met maler"
+      ],
+      "cons": [
+        "Weinig maalstanden voor fijnafstemming",
+        "Stoompijp is trager dan bij Sage"
+      ],
+      "ideal": "Koffiedrinkers die een complete starterset met maler zoeken onder de 500 euro.",
+      "text": "De La Specialista Arte is De'Longhi's antwoord op de Sage Barista Express en hij doet het verrassend goed. Je krijgt een machine met ingebouwde conische maler, een metalen tamper, een tampmat en een doseertrechter, zodat je meteen aan de slag kunt. De maler heeft acht standen, wat weinig klinkt, maar de stappen zijn zo gekozen dat je met normale espressobonen goed uitkomt.\n\nVia drie temperatuurstanden pas je het water aan op lichte, middel of donkere branding. Het thermoblock is binnen een minuut op temperatuur. De stoompijp is een echte pannarello zonder kapje, dus je kunt zelf microfoam maken, al duurt het opschuimen iets langer dan bij duurdere machines. Gebruikers zijn positief over het gemak en de nette afwerking, minder over de beperkte instelmogelijkheden van de maler bij lichte bonen. Voor wie vooral cappuccino en flat white drinkt is dit een van de slimste aankopen in de klasse rond 450 euro.",
+      "ean": "8004399021921",
+      "bol_title": "De'Longhi La Specialista Arte – Pistonmachine met bonenmaler, Handmatige espresso- en melkbereidingen, Inclusief professionele baristakit- Metal/Black - EC9155.MB",
+      "url": "https://www.bol.com/nl/nl/p/de-longhi-la-specialista-arte-ec9155-mb-espressomachine/9300000098721175/",
+      "image": "https://media.s-bol.com/wDL60zjMNk4r/NkPVY9N/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Sage",
+      "name": "the Bambino Plus SES500",
+      "price": 449.0,
+      "score": 8.9,
+      "label": null,
+      "reviews": "2.700+ reviews",
+      "oneliner": "Compact, binnen drie seconden klaar en automatisch melk opschuimen.",
+      "specs": {
+        "Type": "Piston zonder maler",
+        "Druk": "9 bar (extractie)",
+        "Verwarming": "Thermojet",
+        "Opwarmtijd": "Ca. 3 sec",
+        "Waterreservoir": "1,9 l"
+      },
+      "pros": [
+        "Op temperatuur in ongeveer drie seconden",
+        "Automatische melkopschuimer met temperatuursensor",
+        "Slechts 19,5 cm breed",
+        "Portafilter van 54 mm met professionele dosis"
+      ],
+      "cons": [
+        "Je hebt een losse bonenmaler nodig",
+        "Geen manometer of temperatuurinstelling"
+      ],
+      "ideal": "Melkkoffiedrinkers met weinig ruimte die al een goede maler hebben of willen kopen.",
+      "text": "De Bambino Plus is de favoriet van iedereen die snel een goede cappuccino wil zonder gedoe. Het Thermojet-systeem is in ongeveer drie seconden op temperatuur, dus je hoeft niet te wachten zoals bij een machine met boiler. De portafilter van 54 mm neemt een dosis van 19 gram, dezelfde hoeveelheid als in een koffiebar.\n\nHet sterkste punt is de automatische stoompijp. Je zet de kan op de lekbak, kiest temperatuur en schuimdikte en de machine stopt vanzelf wanneer de melk klaar is. Gebruikers noemen het resultaat vergelijkbaar met handmatig opschuimen. Je kunt nog steeds zelf schuimen als je latte art wilt oefenen. De machine heeft geen maler, dus reken op 100 tot 250 euro extra voor een goede losse maler. Met 19,5 cm breedte is hij een van de smalste machines in deze lijst."
+    },
+    {
+      "brand": "De'Longhi",
+      "name": "Dedica Style EC685.M",
+      "price": 134.0,
+      "score": 8.5,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "6.800+ reviews",
+      "oneliner": "Smalle instapper met goede espresso voor weinig geld.",
+      "specs": {
+        "Type": "Piston zonder maler",
+        "Druk": "15 bar (pomp)",
+        "Verwarming": "Thermoblock",
+        "Opwarmtijd": "Ca. 40 sec",
+        "Waterreservoir": "1,1 l"
+      },
+      "pros": [
+        "Maar 15 cm breed",
+        "Snel op temperatuur",
+        "Geschikt voor gemalen koffie en ESE-pads",
+        "Metalen behuizing voor deze prijs"
+      ],
+      "cons": [
+        "Drukloze filters geven minder controle",
+        "Pannarello schuimt grof"
+      ],
+      "ideal": "Beginners met een kleine keuken die voor weinig geld willen proeven aan echte espresso.",
+      "text": "De Dedica is al jaren de best verkochte pistonmachine van Nederland en dat is niet zonder reden. Met 15 cm breedte past hij overal, het thermoblock is in ongeveer 40 seconden klaar en de behuizing is van metaal. Je kunt gemalen koffie gebruiken of ESE-pads, wat handig is als je nog geen maler hebt.\n\nStandaard worden drukfilters meegeleverd die ook met grof gemalen supermarktkoffie een redelijke crema geven. Wie verder wil, koopt een bodemloze portafilter van 51 mm en een losse maler, waarna de Dedica verrassend goede espresso zet. De pannarello maakt grof schuim, maar veel gebruikers schroeven het kapje eraf voor fijner resultaat. Het waterreservoir van 1,1 liter is klein, reken op bijvullen na zes tot acht kopjes. Voor rond de 170 euro vind je geen betere instap in de wereld van zelf espresso zetten.",
+      "ean": "8004399331198",
+      "bol_title": "De'Longhi Dedica Style EC685.M - Pistonmachine - Metal",
+      "url": "https://www.bol.com/nl/nl/p/de-longhi-dedica-style-ec685-m-pistonmachine-zilver/9200000075880772/",
+      "image": "https://media.s-bol.com/KjqVMryQLjNx/v2OWlXM/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Gaggia",
+      "name": "Classic Evo Pro RI9380/46",
+      "price": 449.0,
+      "score": 8.8,
+      "label": null,
+      "reviews": "1.500+ reviews",
+      "oneliner": "Italiaanse klassieker met commerciële zetgroep en eindeloos te upgraden.",
+      "specs": {
+        "Type": "Piston zonder maler",
+        "Druk": "9 bar (OPV)",
+        "Verwarming": "Boiler",
+        "Opwarmtijd": "Ca. 5 min",
+        "Waterreservoir": "2,1 l"
+      },
+      "pros": [
+        "Verchroomde zetgroep van 58 mm",
+        "Opnieuw ingestelde drukklep op 9 bar",
+        "Robuust en volledig te repareren",
+        "Grote community met upgrades zoals PID"
+      ],
+      "cons": [
+        "Temperatuur schommelt zonder PID-upgrade",
+        "Langere opwarmtijd dan thermoblock-machines"
+      ],
+      "ideal": "Hobbyisten die een degelijke machine zoeken die tientallen jaren meegaat.",
+      "text": "De Gaggia Classic wordt sinds 1991 in Italië gemaakt en de Evo Pro is de modernste versie. Hij heeft een commerciële zetgroep van 58 mm, dezelfde maat als in een koffiebar, waardoor je kiest uit een enorm aanbod aan portafilters, tampers en zeefjes. De drukklep staat af fabriek op 9 bar, wat betere espresso geeft dan de hogere druk van oudere versies.\n\nDe boiler van aluminium heeft ongeveer vijf minuten nodig om op temperatuur te komen en de temperatuur schommelt wat. Thuisbarista's lossen dat op met de truc van temperature surfing of met een PID-ombouwset van rond de 100 euro. Juist die maakbaarheid is de reden dat veel gebruikers de Classic na tien jaar nog steeds dagelijks gebruiken. De stoompijp is een professionele enkelgats pijp die goed microfoam maakt. Je hebt wel een losse maler nodig die fijn genoeg maalt voor espresso."
+    },
+    {
+      "brand": "Sage",
+      "name": "the Barista Pro SES878",
+      "price": 749.0,
+      "score": 8.9,
+      "label": null,
+      "reviews": "1.900+ reviews",
+      "oneliner": "Snellere Barista Express met display en fijnere maler.",
+      "specs": {
+        "Type": "Piston met maler",
+        "Druk": "9 bar (extractie)",
+        "Verwarming": "Thermojet",
+        "Opwarmtijd": "Ca. 3 sec",
+        "Waterreservoir": "2 l"
+      },
+      "pros": [
+        "Thermojet is in drie seconden klaar",
+        "Lcd-scherm met extractietimer",
+        "Maler met 30 standen",
+        "Direct schakelen tussen espresso en stoom"
+      ],
+      "cons": [
+        "Geen tamphulp zoals bij de Impress",
+        "Duurder dan de Barista Express"
+      ],
+      "ideal": "Thuisbarista's die snelheid en meer instelmogelijkheden willen in een machine met maler.",
+      "text": "De Barista Pro lijkt op de Barista Express, maar heeft een snellere verwarming en een overzichtelijk lcd-scherm. Het Thermojet-systeem is binnen drie seconden op temperatuur en schakelt na het zetten zonder wachttijd door naar stoom. Dat scheelt merkbaar als je meerdere cappuccino's achter elkaar maakt.\n\nDe ingebouwde maler heeft 30 standen, vijf meer dan bij de Impress, wat helpt bij het fijnafstemmen van lichte branding. Het scherm toont de extractietijd, de maaltijd en de temperatuur, zodat je beter leert wat je in het kopje proeft. Een tamphulp ontbreekt: je tampt zelf met de meegeleverde metalen tamper. Gebruikers prijzen de snelheid en het gebruiksgemak, kritiek gaat vooral over de prijs ten opzichte van de Impress. Kies de Pro als je al wat ervaring hebt en vooral tijd wilt winnen."
+    },
+    {
+      "brand": "Lelit",
+      "name": "Anna PL41TEM",
+      "price": 499.0,
+      "score": 8.6,
+      "label": null,
+      "reviews": "400+ reviews",
+      "oneliner": "Compacte Italiaan met PID en professionele 58 mm zetgroep.",
+      "specs": {
+        "Type": "Piston zonder maler",
+        "Druk": "9 bar (OPV)",
+        "Verwarming": "Boiler met PID",
+        "Opwarmtijd": "Ca. 4 min",
+        "Waterreservoir": "2,7 l"
+      },
+      "pros": [
+        "PID-regeling met display",
+        "Zetgroep en portafilter van 58 mm",
+        "Manometer voor zetdruk",
+        "Groot waterreservoir"
+      ],
+      "cons": [
+        "Eén boiler, dus wachten tussen zetten en stomen",
+        "Stoomkracht beperkt bij grote kannen"
+      ],
+      "ideal": "Espressodrinkers die een stabiele, compacte machine willen met professionele maten.",
+      "text": "Lelit bouwt in Italië machines die bij thuisbarista's hoog aangeschreven staan en de Anna is hun instapmodel met PID. Het display laat de boilertemperatuur zien en je stelt die in stappen van een graad in. Daardoor zet de Anna veel constantere espresso dan machines in dezelfde prijsklasse zonder temperatuurregeling.\n\nDe zetgroep van 58 mm en de manometer op de voorkant geven je de feedback die je nodig hebt om te leren. Omdat de Anna maar één boiler heeft, moet je na het zetten even wachten tot de stoomtemperatuur bereikt is. Voor één of twee cappuccino's is dat geen probleem, voor een volle tafel gasten wel. Het waterreservoir van 2,7 liter is ruim en van bovenaf te vullen. Gebruikers noemen de bouwkwaliteit uitstekend en de koffie vergelijkbaar met duurdere machines."
+    },
+    {
+      "brand": "Lelit",
+      "name": "Mara X V2 PL62X",
+      "price": 1499.0,
+      "score": 9.1,
+      "label": "Beste premium",
+      "reviews": "300+ reviews",
+      "oneliner": "E61-zetgroep en warmtewisselaar: tegelijk zetten en stomen.",
+      "specs": {
+        "Type": "Piston zonder maler",
+        "Druk": "9 bar (OPV)",
+        "Verwarming": "Warmtewisselaar",
+        "Opwarmtijd": "Ca. 20 min",
+        "Waterreservoir": "2,5 l"
+      },
+      "pros": [
+        "Tegelijk espresso zetten en melk stomen",
+        "Slimme regeling houdt de zetgroep stabiel",
+        "Klassieke E61-zetgroep van RVS",
+        "Zeer stil door aangepaste pomp"
+      ],
+      "cons": [
+        "Lange opwarmtijd",
+        "Hoge aanschafprijs plus losse maler"
+      ],
+      "ideal": "Gevorderde thuisbarista's die dagelijks meerdere melkdranken maken.",
+      "text": "De Mara X is een van de populairste machines met warmtewisselaar in Europa. De boiler van 1,8 liter levert stoom terwijl de warmtewisselaar vers water op zettemperatuur brengt, zodat je tegelijk een espresso zet en melk opschuimt. Lelit regelt de temperatuur via een sensor in de zetgroep in plaats van in de boiler, wat het bekende probleem van te heet water bij warmtewisselaars grotendeels oplost.\n\nDe E61-zetgroep is een klassieker die al zestig jaar in koffiebars staat en hij is eenvoudig te onderhouden. De machine is opvallend stil en de stoomkracht is royaal genoeg voor kannen van 600 ml. Nadeel is de opwarmtijd van ongeveer twintig minuten, al lossen veel gebruikers dat op met een slimme stekker. Reken naast de machine op een goede maler van minimaal 300 euro. Je krijgt er een machine voor die vrijwel het niveau van een kleine koffiebar haalt."
+    },
+    {
+      "brand": "De'Longhi",
+      "name": "La Specialista Prestigio EC9355.M",
+      "price": 599.0,
+      "score": 8.7,
+      "label": null,
+      "reviews": "1.300+ reviews",
+      "oneliner": "Maler, sensor en tamphendel in een strak RVS-ontwerp.",
+      "specs": {
+        "Type": "Piston met maler",
+        "Druk": "19 bar (pomp)",
+        "Verwarming": "Dubbel thermoblock",
+        "Opwarmtijd": "Ca. 1 min",
+        "Waterreservoir": "2 l"
+      },
+      "pros": [
+        "Ingebouwde tamphendel zonder knoeien",
+        "Twee thermoblocks voor zetten en stomen",
+        "Sensor past de maaldosis aan",
+        "Automatische en handmatige melkopschuiming"
+      ],
+      "cons": [
+        "Maler minder fijn dan bij Sage",
+        "Fors en zwaar apparaat"
+      ],
+      "ideal": "Wie gemak zoekt maar wel zelf de portafilter in handen wil houden.",
+      "text": "De Prestigio zit tussen de Arte en de topmodellen van De'Longhi in en biedt vooral veel gemak. Je maalt direct in de portafilter, waarna je met een hendel aan de zijkant tampt zonder de portafilter uit de machine te halen. Dat werkt netjes en voorkomt koffiegruis op het aanrecht.\n\nDoor twee aparte thermoblocks kun je direct na het zetten stomen. De Active Temperature Control houdt de watertemperatuur stabiel en de stoompijp heeft een stand voor automatisch opschuimen. Een sensor meet tijdens het malen de dosis en geeft aan of je moet bijstellen. Gebruikers zijn tevreden over het gebruiksgemak en de afwerking, kritiek gaat over de maler die bij lichte branding te grof blijft. Voor donkere Italiaanse branding en cappuccino's in de ochtend is het een fijne en betrouwbare machine met weinig rommel."
+    },
+    {
+      "brand": "Solis",
+      "name": "Barista Perfetta Plus 1170",
+      "price": 399.9,
+      "score": 8.2,
+      "label": null,
+      "reviews": "1.100+ reviews",
+      "oneliner": "Zwitserse middenklasser met PID en dubbel verwarmingssysteem.",
+      "specs": {
+        "Type": "Piston zonder maler",
+        "Druk": "15 bar (pomp)",
+        "Verwarming": "Dubbel thermoblock",
+        "Opwarmtijd": "Ca. 1 min",
+        "Waterreservoir": "1,7 l"
+      },
+      "pros": [
+        "PID-temperatuurregeling",
+        "Direct stomen na het zetten",
+        "Voorinfusie instelbaar",
+        "Heldere bediening met timer"
+      ],
+      "cons": [
+        "Portafilter van 54 mm met beperkt accessoire-aanbod",
+        "Lekbak loopt snel vol"
+      ],
+      "ideal": "Wie rond de 300 euro wil uitgeven en toch PID en snelle stoom wil.",
+      "text": "Solis is een Zwitsers merk dat in Nederland minder bekend is, maar de Barista Perfetta Plus haalt sterke reviews. Hij heeft twee thermoblocks, zodat je na de espresso meteen kunt stomen zonder te wachten. De temperatuur wordt met PID geregeld en is in stappen in te stellen, iets wat je in deze prijsklasse weinig ziet.\n\nVoorinfusie bevochtigt de koffie eerst een paar seconden met lage druk, wat helpt tegen channeling en een gelijkmatigere extractie geeft. Een ingebouwde timer laat zien hoe lang je shot loopt. De stoompijp is krachtig genoeg voor latte art. Minpunten zijn de kleine lekbak en de portafilter van 54 mm, waarvoor minder losse accessoires bestaan dan voor 58 mm. Gebruikers waarderen vooral de constante resultaten en de snelle opwarmtijd. Combineer hem met een losse maler van rond de 150 euro.",
+      "ean": "7611210980810",
+      "bol_title": "Solis Barista Perfetta Plus 1170 V2 Pistonmachine - Heerlijke Koffie Binnen 1 Minuut - Compacte en Hoogwaardige Espressomachine - Melkschuimsysteem - Zilver",
+      "url": "https://www.bol.com/nl/nl/p/solis-barista-perfetta-plus-1170-v2-pistonmachine-espressomachine-koffiemachine-met-bonen-zilver/9300000125633867/",
+      "image": "https://media.s-bol.com/YXo1prDNNrx9/X7vXwW/250x200.jpg",
+      "synced": "2026-10-14"
+    }
+  ],
+  "guide": [
+    {
+      "h": "Met of zonder ingebouwde bonenmaler?",
+      "p": "Een machine met maler is compact en praktisch: één stekker, één apparaat. Een losse maler is vaak beter en kun je later houden als je de machine vervangt. Voor beginners is een machine met maler de makkelijkste start. Wie al een goede maler heeft of serieus wil worden, haalt meer kwaliteit uit een machine zonder maler plus een losse maler van 150 euro of meer."
+    },
+    {
+      "h": "Thermoblock, boiler of warmtewisselaar",
+      "p": "Een thermoblock of thermojet verwarmt water op het moment zelf en is binnen seconden tot een minuut klaar. Een boiler houdt de temperatuur stabieler maar heeft enkele minuten nodig. Een warmtewisselaar laat je tegelijk zetten en stomen, maar is duurder en warmt langer op. Maak je vooral cappuccino voor meerdere mensen, dan is tegelijk stomen een groot voordeel."
+    },
+    {
+      "h": "Waarom PID belangrijk is",
+      "p": "PID is een elektronische regeling die de watertemperatuur binnen een of twee graden constant houdt. Zonder PID kan de temperatuur tussen shots vijf tot tien graden schommelen, wat je proeft als zuur of bitter. Bijna alle machines boven de 300 euro hebben PID. Bij goedkopere machines is het geen ramp, maar de resultaten zijn minder voorspelbaar."
+    },
+    {
+      "h": "Portafilter: 51, 54 of 58 mm",
+      "p": "De diameter van de portafilter bepaalt welke tampers, zeefjes en bodemloze filters passen. 58 mm is de standaard in koffiebars en heeft het grootste aanbod aan accessoires. 54 mm wordt gebruikt door Sage en is ook goed verkrijgbaar. 51 mm vind je bij instapmachines van De'Longhi en heeft het minste aanbod. Wil je kunnen upgraden, kies dan 54 of 58 mm."
+    },
+    {
+      "h": "Bar is niet alles",
+      "p": "Fabrikanten adverteren met 15 of 19 bar, maar goede espresso wordt gezet bij ongeveer 9 bar. Een hoger getal zegt alleen iets over de maximale pompdruk. Belangrijker zijn temperatuurstabiliteit, een goede maler en verse bonen. Een manometer helpt je om te zien wat er tijdens het zetten gebeurt."
+    },
+    {
+      "h": "Onderhoud en ontkalken",
+      "p": "Spoel na elk gebruik de zetgroep door en veeg de stoompijp direct af. Ontkalk elke een tot drie maanden afhankelijk van je waterhardheid, of gebruik een waterfilter in het reservoir. Machines met een E61-zetgroep moet je af en toe terugspoelen met reinigingstabletten. Wie dit bijhoudt, doet tien jaar of langer met een goede pistonmachine."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wat is de beste espressomachine van 2026?",
+      "a": "Uit onze vergelijking komt de Sage Barista Express Impress als beste espressomachine van 2026, dankzij de ingebouwde maler en de slimme tamphulp. Zoek je de beste prijs-kwaliteit, kijk dan naar de De'Longhi Dedica Style."
+    },
+    {
+      "q": "Wat is het verschil tussen een pistonmachine en een volautomaat?",
+      "a": "Bij een pistonmachine maal, doseer en tamp je zelf en schuim je de melk handmatig op. Een volautomaat doet alles met één druk op de knop. Een pistonmachine geeft meer controle en vaak betere espresso, maar vraagt oefening."
+    },
+    {
+      "q": "Heb ik een losse koffiemolen nodig?",
+      "a": "Alleen bij een machine zonder ingebouwde maler. Voorgemalen koffie verliest binnen een paar dagen veel smaak en is meestal te grof voor espresso. Een losse elektrische maler voor espresso kost vanaf ongeveer 120 euro."
+    },
+    {
+      "q": "Hoeveel moet ik uitgeven aan een espressomachine?",
+      "a": "Rond 170 euro heb je een prima instapper, tussen 400 en 700 euro zitten de beste machines met maler of PID. Boven de 1.000 euro betaal je voor een warmtewisselaar of dubbele boiler, vooral handig bij veel melkdranken."
+    },
+    {
+      "q": "Welke bonen zijn geschikt voor espresso?",
+      "a": "Kies bonen met een recente branddatum, liefst binnen vier weken. Donkere tot middelbranding is het makkelijkst om mee te beginnen. Lichte branding vraagt een fijne maler en een stabiele temperatuur."
+    },
+    {
+      "q": "Hoe vaak moet ik een espressomachine ontkalken?",
+      "a": "Bij gemiddeld Nederlands leidingwater elke twee tot drie maanden. Met hard water vaker, met een waterfilter of zacht water minder vaak. Veel machines geven zelf een melding wanneer het tijd is."
+    }
+  ]
 }

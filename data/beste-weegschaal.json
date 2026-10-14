@@ -1,0 +1,389 @@
+{
+  "slug": "beste-weegschaal",
+  "cat": "verzorging",
+  "prio": 41,
+  "title": "De 10 beste slimme weegschalen van 2026",
+  "short": "Slimme weegschalen",
+  "query": "slimme weegschaal",
+  "keywords": [
+    "slimme weegschaal kopen",
+    "weegschaal met app",
+    "lichaamsanalyse weegschaal",
+    "withings weegschaal",
+    "bluetooth weegschaal"
+  ],
+  "ico": "⚖️",
+  "updated": "2026-10-14",
+  "reviews_total": "31.200",
+  "intro": "Een slimme weegschaal meet niet alleen je gewicht maar schat ook je vetpercentage, spiermassa en vochtgehalte in. De resultaten komen automatisch in een app, zodat je trends ziet in plaats van losse getallen. Wij vergeleken 29 modellen op nauwkeurigheid volgens gebruikers, aantal metingen, wifi en Bluetooth, koppeling met apps als Apple Gezondheid en Google Fit, batterijduur en gebruiksgemak. Het resultaat zijn tien weegschalen van 25 tot 400 euro.",
+  "verdict": "De Withings Body Smart is de beste slimme weegschaal van 2026: betrouwbare metingen, wifi-synchronisatie en een app die overzichtelijk en zonder abonnement werkt. De eufy Smart Scale P2 Pro is de beste prijs-kwaliteit met 16 metingen en wifi voor een fractie van de prijs. Wil je het meest uitgebreide overzicht, dan is de Withings Body Scan de beste premium keuze met een handgreep voor segmentmetingen.",
+  "products": [
+    {
+      "brand": "Withings",
+      "name": "Body Smart",
+      "price": 99.0,
+      "score": 9.2,
+      "label": "Beste keuze",
+      "reviews": "1.800+ reviews",
+      "oneliner": "Overzichtelijke wifi-weegschaal met betrouwbare lichaamsanalyse.",
+      "specs": {
+        "Metingen": "13",
+        "Verbinding": "Wifi en Bluetooth",
+        "App": "Withings",
+        "Max. gewicht": "180 kg",
+        "Batterij": "Tot 1 jaar"
+      },
+      "pros": [
+        "Synchroniseert automatisch via wifi",
+        "Koppelt met Apple Gezondheid en Google Fit",
+        "Herkent tot acht gebruikers",
+        "Eén jaar op vier AAA-batterijen"
+      ],
+      "cons": [
+        "Geen segmentmeting per arm of been",
+        "Duurder dan budgetmerken"
+      ],
+      "ideal": "Wie gewicht en lichaamssamenstelling eenvoudig en betrouwbaar wil bijhouden.",
+      "text": "De Body Smart is de opvolger van de populaire Body+ en de middenklasser van Withings. Hij meet gewicht, vetpercentage, spiermassa, botmassa, vochtgehalte, visceraal vet en hartslag in rust. Volgens gebruikers zijn de metingen consistent: dezelfde dag twee keer wegen geeft vrijwel hetzelfde resultaat, wat belangrijker is dan een absoluut getal.\n\nDe weegschaal stuurt de gegevens via wifi naar de app, zonder dat je telefoon in de buurt hoeft te zijn. Tot acht personen worden automatisch herkend. Op het display zie je direct je trend van de afgelopen dagen en het weerbericht. De app werkt zonder verplicht abonnement en koppelt met Apple Gezondheid, Google Fit en Strava. Vier AAA-batterijen gaan ongeveer een jaar mee. Wie meer wil weten over armen en benen apart, kijkt naar de Body Scan.",
+      "ean": "3700546708190",
+      "bol_title": "Withings Body Smart - Slimme Weegschaal - Lichaamssamenstelling, Vetpercentage, Spiermassa, Visceraal Vet, Hartslagmeting, BMR & Metabole Leeftijd, Tot 8 Gebruikers",
+      "url": "https://www.bol.com/nl/nl/p/withings-body-smart-zwart/9300000150949204/",
+      "image": "https://media.s-bol.com/xXPZE85BO94n/1W21V2P/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "eufy",
+      "name": "Smart Scale P2 Pro T9149",
+      "price": 49.99,
+      "score": 8.8,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "6.400+ reviews",
+      "oneliner": "Zestien metingen en wifi voor een budgetprijs.",
+      "specs": {
+        "Metingen": "16",
+        "Verbinding": "Wifi en Bluetooth",
+        "App": "eufyLife",
+        "Max. gewicht": "180 kg",
+        "Batterij": "Tot 1 jaar"
+      },
+      "pros": [
+        "Wifi en Bluetooth voor deze prijs",
+        "16 metingen inclusief hartslag",
+        "3D-avatar toont veranderingen in je lichaam",
+        "Onbeperkt aantal gebruikers"
+      ],
+      "cons": [
+        "App toont soms reclame voor andere eufy-producten",
+        "Glasplaat is gevoelig voor vingerafdrukken"
+      ],
+      "ideal": "Wie een uitgebreide slimme weegschaal zoekt zonder veel uit te geven.",
+      "text": "De eufy P2 Pro is een van de best verkochte slimme weegschalen op bol en biedt veel functies voor weinig geld. Hij meet 16 waarden, waaronder vetpercentage, spiermassa, botmassa, vochtgehalte, visceraal vet en hartslag. In de app zie je een 3D-avatar die laat zien hoe je lichaamsvorm verandert.\n\nGegevens gaan via wifi of Bluetooth naar de eufyLife-app, die koppelt met Apple Gezondheid, Google Fit en Fitbit. Het aantal gebruikers is onbeperkt en de weegschaal herkent je automatisch. Gebruikers prijzen de snelle meting en het strakke ontwerp. Kritiekpunten zijn de glasplaat die snel vingerafdrukken toont en een app die soms andere eufy-producten aanprijst. Voor ongeveer de helft van de prijs van een Withings krijg je hier vergelijkbare functies, wat hem tot de verstandigste keuze voor de meeste mensen maakt."
+    },
+    {
+      "brand": "Withings",
+      "name": "Body Scan",
+      "price": 319.0,
+      "score": 9.1,
+      "label": "Beste premium",
+      "reviews": "700+ reviews",
+      "oneliner": "Topmodel met handgreep voor segmentmetingen per lichaamsdeel.",
+      "specs": {
+        "Metingen": "15+",
+        "Verbinding": "Wifi en Bluetooth",
+        "App": "Withings",
+        "Max. gewicht": "200 kg",
+        "Batterij": "Oplaadbaar, 1 jaar"
+      },
+      "pros": [
+        "Uittrekbare handgreep voor metingen per arm, been en romp",
+        "Groot kleurendisplay",
+        "Oplaadbare accu gaat een jaar mee",
+        "Uitgebreide trendgrafieken in de app"
+      ],
+      "cons": [
+        "Zeer hoge prijs",
+        "Sommige extra inzichten vragen een Withings+-abonnement"
+      ],
+      "ideal": "Sporters die precies willen zien waar ze spieren opbouwen of vet verliezen.",
+      "text": "De Body Scan is het topmodel van Withings en het meest uitgebreide apparaat in deze lijst. Naast de voetplaat heeft hij een uittrekbare handgreep. Daardoor loopt de meting door je hele lichaam en zie je vet en spiermassa apart voor armen, benen en romp. Dat is vooral interessant voor sporters die willen weten of hun training effect heeft.\n\nDe weegschaal heeft een groot kleurendisplay en een oplaadbare accu die ongeveer een jaar meegaat. Gegevens synchroniseren via wifi met de Withings-app. Die app is gratis te gebruiken, maar sommige extra inzichten zitten achter het Withings+-abonnement. Gebruikers waarderen de afwerking en de gedetailleerde grafieken. De metingen geven een indicatie en vervangen geen advies van een arts. Voor de meeste mensen is de Body Smart voldoende, maar wie het maximale inzicht wil, kiest deze.",
+      "ean": "3700546707957",
+      "bol_title": "Withings Body Scan - Slimme Weegschaal - BIA-persoonlijke weegschaal, Segmentale Lichaamssamenstelling, 6-Lead ECG, AFib Detectie, Zenuwgezondheid, Visceraal Vet, Spiermassa, Botdichtheid, Waterpercentage , Tot 8 Gebruikers",
+      "url": "https://www.bol.com/nl/nl/p/withings-body-scan-zwart/9300000148571852/",
+      "image": "https://media.s-bol.com/OpzpmVgERZXY/v2RW0Jm/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Garmin",
+      "name": "Index S2",
+      "price": 125.0,
+      "score": 8.9,
+      "label": null,
+      "reviews": "1.300+ reviews",
+      "oneliner": "Logische keuze voor wie al een Garmin-horloge draagt.",
+      "specs": {
+        "Metingen": "8",
+        "Verbinding": "Wifi en Bluetooth",
+        "App": "Garmin Connect",
+        "Max. gewicht": "181 kg",
+        "Batterij": "Tot 9 maanden"
+      },
+      "pros": [
+        "Naadloze koppeling met Garmin Connect",
+        "Kleurendisplay met trendgrafiek",
+        "Tot 16 gebruikers",
+        "Wifi-synchronisatie zonder telefoon"
+      ],
+      "cons": [
+        "Minder metingen dan goedkopere merken",
+        "Geen hartslagmeting"
+      ],
+      "ideal": "Hardlopers en fietsers die al in het Garmin-ecosysteem zitten.",
+      "text": "De Index S2 is de slimme weegschaal van Garmin en vooral interessant als je al een Garmin-sporthorloge gebruikt. De gegevens komen via wifi direct in Garmin Connect, naast je trainingen, slaap en stappen. Daar zie je bijvoorbeeld hoe je gewicht zich verhoudt tot je trainingsvolume.\n\nHij meet gewicht, BMI, vetpercentage, spiermassa, botmassa en vochtgehalte. Dat zijn er minder dan bij eufy of Xiaomi, maar gebruikers vinden de waarden stabiel. Het kleurendisplay toont een grafiek van je trend, zodat je niet steeds de app hoeft te openen. Tot 16 gebruikers worden herkend en vier AA-batterijen gaan ongeveer negen maanden mee. Zonder Garmin-horloge betaal je vooral voor de koppeling. Dan zijn de Withings Body Smart of de eufy P2 Pro logischer keuzes.",
+      "ean": "0753759257507",
+      "bol_title": "Garmin Index S2 - Slimme Weegschaal - Personenweegschaal - Bluetooth - WiFi - BMI - Spiermassa - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/garmin-index-s2-slimme-weegschaal-personenweegschaal-met-bluetooth-en-wifi-verschillende-metingen-zwart/9300000013635702/",
+      "image": "https://media.s-bol.com/rwKYQM3jKg62/Yvg0mwY/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Withings",
+      "name": "Body Comp",
+      "price": 148.99,
+      "score": 8.9,
+      "label": null,
+      "reviews": "900+ reviews",
+      "oneliner": "Uitgebreide Withings met extra inzichten zoals vaatleeftijd.",
+      "specs": {
+        "Metingen": "13+",
+        "Verbinding": "Wifi en Bluetooth",
+        "App": "Withings",
+        "Max. gewicht": "200 kg",
+        "Batterij": "Oplaadbaar, 1 jaar"
+      },
+      "pros": [
+        "Extra metingen zoals vaatleeftijd",
+        "Oplaadbare accu",
+        "Groot display met dagelijkse samenvatting",
+        "Herkent tot acht gebruikers"
+      ],
+      "cons": [
+        "Fors duurder dan de Body Smart",
+        "Extra waarden zijn vooral indicatief"
+      ],
+      "ideal": "Wie meer wil zien dan de Body Smart zonder de prijs van de Body Scan.",
+      "text": "De Body Comp zit tussen de Body Smart en de Body Scan in. Naast de gebruikelijke lichaamssamenstelling geeft hij een schatting van je vaatleeftijd en meet hij de elektrische activiteit van zweetklieren in je voeten. Withings presenteert deze extra waarden als indicatie om trends te volgen, niet als diagnose.\n\nDe weegschaal heeft een oplaadbare accu die ongeveer een jaar meegaat en een groot display met een dagelijkse samenvatting. Gegevens gaan via wifi naar de Withings-app, die koppelt met Apple Gezondheid en Google Fit. Gebruikers waarderen de afwerking en de consistente metingen. Of de extra waarden voor jou de meerprijs waard zijn, hangt af van je interesse. Voor alleen gewicht en vetpercentage biedt de Body Smart hetzelfde voor tachtig euro minder.",
+      "ean": "3700546708053",
+      "bol_title": "Withings Body Comp - Slimme Weegschaal - Lichaamssamenstelling, Visceraal Vet, Hartgezondheid, Zenuwgezondheid, Spiermassa, Botdichtheid, Waterpercentage , Tot 8 Gebruikers",
+      "url": "https://www.bol.com/nl/nl/p/withings-body-comp-wit/9300000150949196/",
+      "image": "https://media.s-bol.com/xrj2kjMq3m1q/G6Y65G3/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Xiaomi",
+      "name": "Mi Body Composition Scale 2",
+      "price": 27.44,
+      "score": 8.4,
+      "label": null,
+      "reviews": "7.900+ reviews",
+      "oneliner": "Goedkoopste serieuze lichaamsanalyse met Bluetooth.",
+      "specs": {
+        "Metingen": "13",
+        "Verbinding": "Bluetooth",
+        "App": "Zepp Life",
+        "Max. gewicht": "150 kg",
+        "Batterij": "Tot 9 maanden"
+      },
+      "pros": [
+        "Zeer lage prijs",
+        "13 metingen",
+        "Herkent tot 16 gebruikers",
+        "Strak minimalistisch ontwerp"
+      ],
+      "cons": [
+        "Alleen Bluetooth, telefoon moet in de buurt zijn",
+        "Maximaal 150 kg"
+      ],
+      "ideal": "Wie voor weinig geld wil beginnen met een slimme weegschaal.",
+      "text": "De Mi Body Composition Scale 2 is al jaren een van de best verkochte slimme weegschalen. Voor rond de 30 euro meet hij gewicht, vetpercentage, spiermassa, botmassa, vochtgehalte, visceraal vet en meer. In de Zepp Life-app zie je je trends en die koppelt met Apple Gezondheid en Google Fit.\n\nDe weegschaal werkt alleen via Bluetooth. Je telefoon moet dus in de buurt zijn om metingen direct op te slaan, al bewaart de weegschaal offline metingen tot je weer verbinding maakt. Het maximale gewicht is 150 kg, lager dan bij de meeste andere modellen. Gebruikers prijzen de prijs en de snelle meting. Het display is klein en toont alleen je gewicht. Wie geen wifi nodig heeft en een eenvoudige start zoekt, haalt hier opvallend veel uit voor weinig geld.",
+      "ean": "6941812751985",
+      "bol_title": "Xiaomi | Slimme weegschaal | Xiaomi Body Composition Scale S400 | Nauwkeurige meting | Volledige lichaamsanalyse | Bluetooth | Stabiel ontwerp",
+      "url": "https://www.bol.com/nl/nl/p/xiaomi-body-composition-scale-s400/9300000179838132/",
+      "image": "https://media.s-bol.com/3x3V7gE4BWzx/QWN663L/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Renpho",
+      "name": "Elis 1 ES-CS20M",
+      "price": 24.99,
+      "score": 8.2,
+      "label": null,
+      "reviews": "5.200+ reviews",
+      "oneliner": "Budgetweegschaal met brede app-koppelingen.",
+      "specs": {
+        "Metingen": "13",
+        "Verbinding": "Bluetooth",
+        "App": "Renpho Health",
+        "Max. gewicht": "180 kg",
+        "Batterij": "Tot 1 jaar"
+      },
+      "pros": [
+        "Laagste prijs in deze lijst",
+        "Koppelt met veel fitness-apps",
+        "Onbeperkt aantal gebruikers",
+        "Draagvermogen tot 180 kg"
+      ],
+      "cons": [
+        "Alleen Bluetooth",
+        "App vraagt om veel toestemmingen"
+      ],
+      "ideal": "Wie de goedkoopste slimme weegschaal zoekt met goede app-ondersteuning.",
+      "text": "Renpho is wereldwijd een van de grootste merken in betaalbare slimme weegschalen en de Elis 1 is hun bekendste model. Voor rond de 25 euro meet hij 13 waarden, van vetpercentage tot visceraal vet en metabole leeftijd. De Renpho Health-app koppelt met Apple Gezondheid, Google Fit, Fitbit en Samsung Health.\n\nDe weegschaal werkt via Bluetooth en slaat metingen op als je telefoon niet in de buurt is. Het aantal gebruikers is onbeperkt en het draagvermogen is 180 kg. Gebruikers zijn positief over de stabiliteit van de metingen en de brede app-ondersteuning. De app vraagt wel om veel toestemmingen, wat niet iedereen prettig vindt. Het display toont alleen gewicht. Voor een eerste slimme weegschaal met een kleine prijs is dit een betrouwbare keuze."
+    },
+    {
+      "brand": "Huawei",
+      "name": "Scale 3",
+      "price": 49.99,
+      "score": 8.1,
+      "label": null,
+      "reviews": "2.100+ reviews",
+      "oneliner": "Strakke weegschaal met wifi voor Huawei-gebruikers.",
+      "specs": {
+        "Metingen": "11",
+        "Verbinding": "Wifi en Bluetooth",
+        "App": "Huawei Health",
+        "Max. gewicht": "150 kg",
+        "Batterij": "Tot 9 maanden"
+      },
+      "pros": [
+        "Wifi voor een lage prijs",
+        "Snelle automatische herkenning",
+        "Strak glazen ontwerp",
+        "Tot tien gebruikers"
+      ],
+      "cons": [
+        "Huawei Health is lastiger op iPhone",
+        "Maximaal 150 kg"
+      ],
+      "ideal": "Gebruikers van een Huawei-horloge of telefoon.",
+      "text": "De Huawei Scale 3 heeft wifi en Bluetooth, wat bij deze prijs bijzonder is. Metingen synchroniseren automatisch met de Huawei Health-app, waar ze naast je slaap en activiteit van een Huawei-horloge staan. Hij meet 11 waarden, waaronder vetpercentage, spiermassa en vochtgehalte.\n\nDe weegschaal herkent tot tien gebruikers en heeft een strakke glazen bovenplaat. Gebruikers melden dat de meting snel en stabiel is. Op Android werkt de app goed, op een iPhone is de installatie omslachtiger en zijn de koppelingen met andere apps beperkter. Het maximale gewicht ligt op 150 kg. Wie al een Huawei-horloge draagt, haalt hier de meeste waarde uit. Zonder Huawei-apparaten zijn de eufy P2 Pro of de Xiaomi logischer.",
+      "ean": "6941487283002",
+      "bol_title": "Huawei Scale 3 Vierkant Wit Elektronische weegschaal",
+      "url": "https://www.bol.com/nl/nl/p/huawei-scale-3-vierkant-wit-elektronische-weegschaal/9300000164107148/",
+      "image": "https://media.s-bol.com/7BJpPB8zN531/BB8B6ok/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Fitbit",
+      "name": "Aria Air",
+      "price": 49.99,
+      "score": 7.9,
+      "label": null,
+      "reviews": "1.500+ reviews",
+      "oneliner": "Eenvoudige weegschaal voor wie Fitbit al gebruikt.",
+      "specs": {
+        "Metingen": "2",
+        "Verbinding": "Bluetooth",
+        "App": "Fitbit",
+        "Max. gewicht": "180 kg",
+        "Batterij": "Tot 1 jaar"
+      },
+      "pros": [
+        "Naadloos in de Fitbit-app",
+        "Eenvoudig in gebruik",
+        "Draagvermogen tot 180 kg",
+        "Lange batterijduur"
+      ],
+      "cons": [
+        "Meet alleen gewicht en BMI",
+        "Geen wifi"
+      ],
+      "ideal": "Fitbit-gebruikers die alleen hun gewicht willen bijhouden.",
+      "text": "De Aria Air is de eenvoudigste weegschaal in deze lijst. Hij meet alleen gewicht en berekent je BMI, zonder vetpercentage of spiermassa. Het voordeel is de naadloze koppeling met de Fitbit-app, waar je gewicht direct naast je stappen, slaap en calorieën verschijnt.\n\nDe weegschaal werkt via Bluetooth en drie AAA-batterijen gaan ongeveer een jaar mee. Het draagvermogen is 180 kg. Gebruikers vinden hem betrouwbaar voor gewicht en prettig eenvoudig. Voor dezelfde prijs bieden eufy en Xiaomi wel veel meer metingen, dus hij is vooral interessant als je al een Fitbit gebruikt en geen extra app wilt. Wil je meer weten over je lichaamssamenstelling, dan haal je met de andere modellen in deze lijst meer uit je geld."
+    },
+    {
+      "brand": "Beurer",
+      "name": "BF 720",
+      "price": 49.0,
+      "score": 8.3,
+      "label": null,
+      "reviews": "1.000+ reviews",
+      "oneliner": "Duitse lichaamsanalyseweegschaal met app en groot display.",
+      "specs": {
+        "Metingen": "8",
+        "Verbinding": "Bluetooth",
+        "App": "Beurer HealthManager Pro",
+        "Max. gewicht": "180 kg",
+        "Batterij": "Tot 1 jaar"
+      },
+      "pros": [
+        "Groot verlicht display met alle waarden",
+        "Ook zonder app bruikbaar",
+        "Acht gebruikersgeheugens",
+        "Data blijft opgeslagen in Europa"
+      ],
+      "cons": [
+        "Alleen Bluetooth",
+        "App oogt minder modern"
+      ],
+      "ideal": "Wie alle waarden direct op de weegschaal wil zien.",
+      "text": "Beurer is een Duits merk dat al decennia weegschalen maakt. De BF 720 combineert een klassieke lichaamsanalyseweegschaal met een app. Hij meet gewicht, vetpercentage, vochtgehalte, spiermassa, botmassa, BMI en calorieverbruik. Alle waarden staan direct op het grote verlichte display, zodat je de app niet nodig hebt.\n\nVia Bluetooth gaan de gegevens naar de Beurer HealthManager Pro-app, die met Apple Gezondheid en Google Fit koppelt. De weegschaal heeft acht gebruikersgeheugens en herkent je automatisch. Gebruikers waarderen dat Beurer de gegevens in Europa opslaat. De app oogt minder modern dan die van Withings of eufy en wifi ontbreekt. Wie liever op het display kijkt dan op de telefoon, vindt hier een degelijke en duidelijke weegschaal.",
+      "ean": "4211125749385",
+      "bol_title": "Beurer BF 720 Bluetooth® Personenweegschaal - Lichaamsanalyse - BMI/AMR/BMR - Beurer HealthManager Pro app - 30 x 30 cm - Verlicht zwart display - Tot 180 kg - Incl. batterijen - 8 Gebruikers - 5 Jaar garantie - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/beurer-bf-720-bluetooth-personenweegschaal-lichaamsanalyse-healthmanager-pro-app-zwart/9200000120404673/",
+      "image": "https://media.s-bol.com/xgmpZKJYrqP3/j24yJLR/250x200.jpg",
+      "synced": "2026-10-14"
+    }
+  ],
+  "guide": [
+    {
+      "h": "Hoe werkt een slimme weegschaal?",
+      "p": "Een slimme weegschaal stuurt een zwakke, onvoelbare stroom door je voeten en meet de weerstand. Vet geleidt minder goed dan spieren en water, waardoor de weegschaal je lichaamssamenstelling kan schatten. Die schatting is een indicatie en wordt beïnvloed door hoeveel je hebt gedronken. De trend over weken is daarom veel waardevoller dan één losse meting."
+    },
+    {
+      "h": "Wifi of Bluetooth?",
+      "p": "Met wifi gaan metingen automatisch naar de app, ook als je telefoon in een andere kamer ligt. Met Bluetooth moet je telefoon in de buurt zijn of moet je de app later openen om te synchroniseren. Bluetooth-modellen zijn goedkoper, wifi is prettiger voor dagelijks gebruik zonder gedoe."
+    },
+    {
+      "h": "Welke app past bij jou?",
+      "p": "Kies een weegschaal die koppelt met de apps die je al gebruikt. Garmin werkt het best met Garmin Connect, Fitbit met de Fitbit-app en Huawei met Huawei Health. Withings, eufy en Renpho koppelen breed met Apple Gezondheid, Google Fit en Strava. Controleer ook of de app een abonnement vraagt voor bepaalde functies."
+    },
+    {
+      "h": "Nauwkeurig wegen",
+      "p": "Weeg jezelf elke dag op hetzelfde moment, bij voorkeur 's ochtends na het toiletbezoek en voor het ontbijt. Ga met blote voeten op een harde, vlakke vloer staan, niet op tapijt. Zo vergelijk je metingen eerlijk met elkaar. Kleine schommelingen van een halve kilo per dag zijn normaal."
+    },
+    {
+      "h": "Wanneer beter niet?",
+      "p": "Fabrikanten raden lichaamsanalyse af voor mensen met een pacemaker of ander geïmplanteerd medisch apparaat en tijdens de zwangerschap. De meeste weegschalen hebben een modus die alleen het gewicht meet. Lees altijd de handleiding en overleg bij twijfel met een arts."
+    },
+    {
+      "h": "Wat kost een goede slimme weegschaal?",
+      "p": "Voor 25 tot 35 euro krijg je een Bluetooth-weegschaal met uitgebreide lichaamsanalyse. Tussen 50 en 100 euro komen wifi, betere apps en een duidelijker display erbij. Boven de 150 euro betaal je voor extra metingen, een oplaadbare accu of segmentmetingen per lichaamsdeel. Voor de meeste mensen is een model rond de 50 euro ruim voldoende."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wat is de beste slimme weegschaal van 2026?",
+      "a": "Op basis van onze vergelijking is de Withings Body Smart de beste slimme weegschaal van 2026, dankzij consistente metingen, wifi en een overzichtelijke app zonder verplicht abonnement. Zoek je de beste prijs-kwaliteit, kijk dan naar de eufy Smart Scale P2 Pro."
+    },
+    {
+      "q": "Hoe nauwkeurig is een slimme weegschaal?",
+      "a": "Het gewicht is bij goede modellen tot op 100 gram nauwkeurig. Vetpercentage en spiermassa zijn schattingen die afwijken van een meting in een kliniek. Gebruik ze vooral om trends te volgen."
+    },
+    {
+      "q": "Kunnen meerdere mensen dezelfde weegschaal gebruiken?",
+      "a": "Ja. De meeste slimme weegschalen herkennen automatisch acht tot zestien gebruikers op basis van gewicht en eerdere metingen. Eufy en Renpho ondersteunen zelfs een onbeperkt aantal gebruikers."
+    },
+    {
+      "q": "Werkt een slimme weegschaal met Apple Gezondheid?",
+      "a": "Withings, eufy, Xiaomi, Renpho en Beurer koppelen met Apple Gezondheid. Garmin en Fitbit werken vooral binnen hun eigen app."
+    },
+    {
+      "q": "Heb ik een abonnement nodig?",
+      "a": "Bij geen van de weegschalen in deze lijst is een abonnement verplicht. Withings biedt met Withings+ extra inzichten tegen betaling, maar de basisfuncties blijven gratis."
+    },
+    {
+      "q": "Waarom verschilt mijn vetpercentage per dag?",
+      "a": "De meting hangt af van hoeveel vocht je lichaam bevat. Na sporten, veel drinken of een zoute maaltijd kan het percentage een paar procent schommelen. Weeg daarom op een vast moment en kijk naar het gemiddelde over een week."
+    }
+  ]
+}

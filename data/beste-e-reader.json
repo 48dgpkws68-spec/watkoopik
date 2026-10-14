@@ -1,0 +1,383 @@
+{
+  "slug": "beste-e-reader",
+  "cat": "elektronica",
+  "prio": 35,
+  "title": "De 10 beste e-readers van 2026",
+  "short": "E-readers",
+  "query": "e-reader",
+  "keywords": [
+    "kobo e-reader",
+    "kindle kopen",
+    "e-reader met kleurenscherm",
+    "e-reader online bibliotheek",
+    "waterdichte e-reader"
+  ],
+  "ico": "📖",
+  "updated": "2026-10-14",
+  "reviews_total": "16.800",
+  "intro": "Met een e-reader neem je honderden boeken mee in een apparaat dat lichter is dan één paperback. Het E Ink-scherm leest als papier en de accu gaat weken mee. Wij vergeleken 27 e-readers op schermkwaliteit, verlichting, waterdichtheid, opslag, ondersteuning voor de Online Bibliotheek en ervaringen van duizenden lezers. Het resultaat zijn tien e-readers van Kobo, Kindle, PocketBook en Tolino, van een eenvoudig instapmodel tot een groot scherm waarop je ook aantekeningen schrijft.",
+  "verdict": "De Kobo Libra Colour is de beste e-reader van 2026: hij heeft fysieke bladertoetsen, een kleurenscherm voor covers en strips en werkt direct met de Online Bibliotheek. De Kindle Paperwhite is de beste prijs-kwaliteit voor wie snel en waterdicht wil lezen. Wil je ook notities maken op een groot scherm, dan is de Kobo Elipsa 2E de beste premium keuze.",
+  "products": [
+    {
+      "brand": "Kobo",
+      "name": "Libra Colour",
+      "price": 269.0,
+      "score": 9.3,
+      "label": "Beste keuze",
+      "reviews": "2.300+ reviews",
+      "oneliner": "Kleurenscherm, bladertoetsen en directe toegang tot de bibliotheek.",
+      "specs": {
+        "Scherm": "7 inch E Ink Kaleido 3",
+        "Kleur": "Ja",
+        "Waterdicht": "IPX8",
+        "Opslag": "32 GB",
+        "Online Bibliotheek": "Ja, ingebouwd"
+      },
+      "pros": [
+        "Fysieke bladertoetsen voor lezen met één hand",
+        "Kleur voor covers, strips en markeringen",
+        "Online Bibliotheek direct in het menu",
+        "Werkt met Kobo Stylus 2 voor notities"
+      ],
+      "cons": [
+        "Kleuren zijn wat flets vergeleken met een tablet",
+        "Stylus apart te kopen"
+      ],
+      "ideal": "Fanatieke lezers die comfortabel willen lezen en boeken lenen bij de bibliotheek.",
+      "text": "De Kobo Libra Colour combineert alles wat Nederlandse lezers belangrijk vinden. Het 7-inch E Ink Kaleido 3-scherm toont tekst scherp in zwart-wit en voegt kleur toe aan covers, strips en markeringen. Kleuren zijn zachter dan op een tablet, maar het blijft een rustig scherm zonder flikkering. De asymmetrische vorm met twee bladertoetsen maakt lezen met één hand prettig, iets wat gebruikers keer op keer noemen.\n\nEen groot voordeel in Nederland is de ingebouwde koppeling met de Online Bibliotheek: je leent e-books direct op het apparaat. Ook de Kobo Plus-abonnementen werken naadloos. Het apparaat is waterdicht volgens IPX8 en heeft 32 GB opslag. Met de losse Kobo Stylus 2 schrijf je notities in boeken. Kritiek is er nauwelijks, behalve op de prijs van de stylus.",
+      "ean": "0681495009473",
+      "bol_title": "Kobo Libra Colour - E-reader - 7 inch kleurenscherm - 32GB - Luisterboeken - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/kobo-libra-colour-e-reader-7-inch-kleurenscherm-32gb-luisterboeken-zwart/9300000173830673/",
+      "image": "https://media.s-bol.com/2Nq5EArMkwjJ/NkOmAOL/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Amazon",
+      "name": "Kindle Paperwhite (2024) 16 GB",
+      "price": 169,
+      "score": 8.9,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "4.100+ reviews",
+      "oneliner": "Snelle, waterdichte Kindle met groter scherm en lange accu.",
+      "specs": {
+        "Scherm": "7 inch E Ink",
+        "Kleur": "Nee",
+        "Waterdicht": "IPX8",
+        "Opslag": "16 GB",
+        "Online Bibliotheek": "Nee"
+      },
+      "pros": [
+        "Snelste Kindle tot nu toe",
+        "Groot 7-inchscherm met warm licht",
+        "Accu gaat tot twaalf weken mee",
+        "Enorm aanbod in de Kindle Store"
+      ],
+      "cons": [
+        "Geen Online Bibliotheek",
+        "EPUB alleen via Send to Kindle",
+        "Reclame in de goedkoopste versie"
+      ],
+      "ideal": "Lezers die vooral Engelse boeken kopen en een vlotte e-reader willen.",
+      "text": "De Kindle Paperwhite uit 2024 is groter en sneller dan zijn voorganger. Het scherm groeide naar 7 inch en bladeren gaat volgens Amazon een kwart sneller, wat gebruikers bevestigen. Met verstelbaar warm licht lees je 's avonds prettig en dankzij IPX8 mag hij mee in bad of naar het strand. De accu houdt het bij een half uur per dag tot twaalf weken vol.\n\nDe sterkste kant is het aanbod in de Kindle Store, vooral voor Engelse boeken. Daar staat tegenover dat Kindle niet samenwerkt met de Online Bibliotheek. Nederlandse e-books in EPUB stuur je via Send to Kindle, wat werkt maar een omweg is. In de goedkopere versie zie je reclame op het vergrendelscherm. Wie vooral Engels leest krijgt hier veel voor weinig."
+    },
+    {
+      "brand": "Kobo",
+      "name": "Elipsa 2E",
+      "price": 399.99,
+      "score": 9.0,
+      "label": "Beste premium",
+      "reviews": "900+ reviews",
+      "oneliner": "Groot 10,3-inchscherm om te lezen en aantekeningen te schrijven.",
+      "specs": {
+        "Scherm": "10,3 inch E Ink Carta 1200",
+        "Kleur": "Nee",
+        "Waterdicht": "Nee",
+        "Opslag": "32 GB",
+        "Online Bibliotheek": "Ja, ingebouwd"
+      },
+      "pros": [
+        "Groot scherm voor pdf's en studieboeken",
+        "Kobo Stylus 2 meegeleverd",
+        "Notities omzetten naar tekst",
+        "Online Bibliotheek ingebouwd"
+      ],
+      "cons": [
+        "Niet waterdicht",
+        "Zwaar voor lang lezen in bed",
+        "Hoge prijs"
+      ],
+      "ideal": "Studenten en professionals die pdf's lezen en aantekeningen willen maken.",
+      "text": "De Kobo Elipsa 2E is meer dan een e-reader. Het 10,3-inchscherm is groot genoeg voor pdf's, studieboeken en bladmuziek. Met de meegeleverde Kobo Stylus 2 schrijf je direct in boeken of in losse notitieboeken. Je handschrift zet je om naar digitale tekst, wat gebruikers handig vinden voor vergaderingen en colleges.\n\nHet scherm heeft warme en koele verlichting en reageert sneller dan bij de eerste Elipsa. Net als bij andere Kobo's leen je e-books via de Online Bibliotheek. Nadelen zijn er ook: hij is niet waterdicht en met bijna 400 gram minder prettig om in bed vast te houden. Voor romans is een kleinere e-reader handiger. Wie veel documenten leest en annoteert vindt hier een volwaardig alternatief voor papier.",
+      "ean": "0681495008704",
+      "bol_title": "Kobo Elipsa 2E bundel - E-reader - 10,3 inch - Notitiefunctie - Inclusief Kobo Stylus 2",
+      "url": "https://www.bol.com/nl/nl/p/kobo-elipsa-2e-bundel/9300000145052521/",
+      "image": "https://media.s-bol.com/m6gv0WqNZp3R/NJvQLz/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Kobo",
+      "name": "Clara BW",
+      "price": 169.0,
+      "score": 8.6,
+      "label": null,
+      "reviews": "2.700+ reviews",
+      "oneliner": "Compacte en betaalbare Kobo met scherp scherm en bibliotheek.",
+      "specs": {
+        "Scherm": "6 inch E Ink Carta 1300",
+        "Kleur": "Nee",
+        "Waterdicht": "IPX8",
+        "Opslag": "16 GB",
+        "Online Bibliotheek": "Ja, ingebouwd"
+      },
+      "pros": [
+        "Licht en compact",
+        "Scherp contrastrijk scherm",
+        "Waterdicht",
+        "Online Bibliotheek ingebouwd"
+      ],
+      "cons": [
+        "Geen bladertoetsen",
+        "Klein scherm voor grote letters"
+      ],
+      "ideal": "Lezers die een compacte e-reader zoeken met toegang tot de bibliotheek.",
+      "text": "De Kobo Clara BW is de Kobo die de meeste mensen nodig hebben. Het 6-inchscherm met E Ink Carta 1300 heeft meer contrast dan eerdere modellen, waardoor letters scherp afsteken. Met 174 gram is hij licht genoeg om een avond in bed vast te houden. Verlichting met verstelbare kleurtemperatuur maakt lezen in het donker rustig voor je ogen.\n\nZoals bij alle Kobo's werkt de Online Bibliotheek direct vanaf het apparaat. Je leest ook EPUB-bestanden zonder omwegen en de accu gaat weken mee. Hij is waterdicht volgens IPX8. Bladertoetsen ontbreken, je bladert via het aanraakscherm. Lezers met slechtere ogen vinden 6 inch soms krap. Voor de prijs is het een van de beste e-readers die je kunt kopen.",
+      "ean": "0681495009558",
+      "bol_title": "Kobo Clara BW - E-reader - 6 inch - 16GB - Luisterboeken - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/kobo-clara-bw-e-reader-6-inch-16gb-luisterboeken-zwart/9300000173830676/",
+      "image": "https://media.s-bol.com/jKgrOjzPoXwy/5y7pV1Z/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Kobo",
+      "name": "Clara Colour",
+      "price": 187.99,
+      "score": 8.6,
+      "label": null,
+      "reviews": "1.500+ reviews",
+      "oneliner": "Compacte e-reader met kleurenscherm voor een kleine meerprijs.",
+      "specs": {
+        "Scherm": "6 inch E Ink Kaleido 3",
+        "Kleur": "Ja",
+        "Waterdicht": "IPX8",
+        "Opslag": "16 GB",
+        "Online Bibliotheek": "Ja, ingebouwd"
+      },
+      "pros": [
+        "Kleur voor covers en strips",
+        "Compact en licht",
+        "Waterdicht",
+        "Online Bibliotheek ingebouwd"
+      ],
+      "cons": [
+        "Zwart-wit iets minder scherp dan de Clara BW",
+        "Geen stylus-ondersteuning"
+      ],
+      "ideal": "Lezers van strips en kinderboeken die een compacte e-reader met kleur willen.",
+      "text": "De Kobo Clara Colour is de kleurenversie van de Clara BW. Het 6-inchscherm met E Ink Kaleido 3 toont covers, illustraties, strips en markeringen in kleur. Die kleuren zijn pastelachtig, maar voor strips en kinderboeken voegt het echt iets toe. Bij gewone tekst is het scherm iets minder scherp dan het zwart-witmodel, al merken de meeste lezers daar weinig van.\n\nVerder heeft hij dezelfde sterke punten: licht, waterdicht volgens IPX8 en met directe toegang tot de Online Bibliotheek. Je kunt ook audioboeken via Bluetooth beluisteren. Gebruikers zijn tevreden over de snelheid en het gemak. Wil je vooral romans lezen, dan is de Clara BW goedkoper en iets scherper.",
+      "ean": "0681495009541",
+      "bol_title": "Kobo Clara Colour - E-reader - 6 inch kleurenscherm - 16GB - Luisterboeken - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/kobo-clara-colour-e-reader-6-inch-kleurenscherm-16gb-luisterboeken-zwart/9300000173830671/",
+      "image": "https://media.s-bol.com/nkmpQNyolOvp/OYgn0EE/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Amazon",
+      "name": "Kindle Colorsoft Signature Edition",
+      "price": 279,
+      "score": 8.5,
+      "label": null,
+      "reviews": "1.000+ reviews",
+      "oneliner": "Eerste Kindle met kleurenscherm, draadloos laden en automatisch licht.",
+      "specs": {
+        "Scherm": "7 inch E Ink kleur",
+        "Kleur": "Ja",
+        "Waterdicht": "IPX8",
+        "Opslag": "32 GB",
+        "Online Bibliotheek": "Nee"
+      },
+      "pros": [
+        "Helder kleurenscherm met goede verlichting",
+        "Draadloos opladen",
+        "Automatische lichtsensor",
+        "Geen reclame"
+      ],
+      "cons": [
+        "Geen Online Bibliotheek",
+        "Duur voor een Kindle",
+        "EPUB via omweg"
+      ],
+      "ideal": "Kindle-gebruikers die kleur willen voor strips, kookboeken en markeringen.",
+      "text": "De Kindle Colorsoft is Amazons eerste e-reader met een kleurenscherm. Amazon gebruikt een eigen verlichtingslaag die kleuren iets levendiger maakt dan bij veel concurrenten. Covers, strips en markeringen in vier kleuren komen goed tot hun recht. In zwart-wit is de tekst scherp genoeg voor dagelijks lezen. De Signature Edition heeft een automatische lichtsensor, draadloos opladen en 32 GB opslag.\n\nNet als bij andere Kindles is het aanbod in de Kindle Store groot, maar de Online Bibliotheek werkt niet. Nederlandse EPUB-bestanden stuur je via Send to Kindle. Gebruikers waarderen het scherm en de bouwkwaliteit, maar vinden de prijs fors. Zit je al in het Kindle-systeem en wil je kleur, dan is dit de logische keuze."
+    },
+    {
+      "brand": "Amazon",
+      "name": "Kindle (2024) 16 GB",
+      "price": 109,
+      "score": 8.1,
+      "label": null,
+      "reviews": "3.300+ reviews",
+      "oneliner": "Lichte instap-Kindle met scherp scherm en lange accu.",
+      "specs": {
+        "Scherm": "6 inch E Ink",
+        "Kleur": "Nee",
+        "Waterdicht": "Nee",
+        "Opslag": "16 GB",
+        "Online Bibliotheek": "Nee"
+      },
+      "pros": [
+        "Zeer licht met 158 gram",
+        "Scherp 300 ppi-scherm",
+        "Lage prijs",
+        "Accu gaat weken mee"
+      ],
+      "cons": [
+        "Niet waterdicht",
+        "Geen warm licht",
+        "Geen Online Bibliotheek"
+      ],
+      "ideal": "Wie goedkoop wil beginnen met e-books uit de Kindle Store.",
+      "text": "De basis-Kindle uit 2024 is de lichtste en goedkoopste e-reader van Amazon. Met 158 gram voelt hij nauwelijks zwaarder dan een telefoon. Het 6-inchscherm heeft een resolutie van 300 ppi, dus letters zijn net zo scherp als bij duurdere modellen. De verlichting is helderder dan bij de vorige versie, maar biedt geen warme kleurtemperatuur.\n\nHij is niet waterdicht, dus lezen in bad of aan het zwembad is riskant. De Online Bibliotheek werkt ook hier niet. Gebruikers waarderen het lage gewicht en de lange accuduur. Voor iemand die vooral in de Kindle Store koopt en een simpele e-reader zoekt, is dit een prima en voordelige start."
+    },
+    {
+      "brand": "PocketBook",
+      "name": "Verse Pro",
+      "price": 169.0,
+      "score": 8.2,
+      "label": null,
+      "reviews": "800+ reviews",
+      "oneliner": "Waterdichte e-reader met veel formaten en bladertoetsen.",
+      "specs": {
+        "Scherm": "6 inch E Ink Carta 1200",
+        "Kleur": "Nee",
+        "Waterdicht": "IPX8",
+        "Opslag": "16 GB",
+        "Online Bibliotheek": "Nee"
+      },
+      "pros": [
+        "Ondersteunt meer dan twintig bestandsformaten",
+        "Fysieke bladertoetsen",
+        "Waterdicht",
+        "Audioboeken via Bluetooth"
+      ],
+      "cons": [
+        "Geen ingebouwde Online Bibliotheek",
+        "Software minder gepolijst dan Kobo"
+      ],
+      "ideal": "Lezers die veel eigen bestanden lezen in uiteenlopende formaten.",
+      "text": "PocketBook is een Europees merk dat bekendstaat om ruime formaatondersteuning. De Verse Pro leest EPUB, PDF, MOBI, CBR, DJVU en nog veel meer zonder conversie. Dat maakt hem populair bij lezers met een eigen verzameling e-books. Het 6-inchscherm met E Ink Carta 1200 is scherp en heeft verstelbaar warm licht. Fysieke bladertoetsen onderaan maken lezen met één hand makkelijk.\n\nHij is waterdicht volgens IPX8 en speelt audioboeken af via Bluetooth. De Online Bibliotheek is niet ingebouwd, maar je kunt geleende boeken overzetten via Adobe Digital Editions op je computer. Gebruikers waarderen de vrijheid en de knoppen, al voelt de software minder vlot dan bij Kobo.",
+      "ean": "7640152094965",
+      "bol_title": "PocketBook Verse Pro e-reader – 6 inch E Ink Carta-scherm – 16 GB – waterdicht – Azure",
+      "url": "https://www.bol.com/nl/nl/p/pocketbook-ereader-verse-pro-azure/9300000161451369/",
+      "image": "https://media.s-bol.com/yx4Z2mLJ4J7n/XmNw48/250x200.jpg",
+      "synced": "2026-10-14"
+    },
+    {
+      "brand": "Tolino",
+      "name": "Vision Color",
+      "price": 229,
+      "score": 8.3,
+      "label": null,
+      "reviews": "400+ reviews",
+      "oneliner": "Duitse kleuren-e-reader met bladertoetsen en open systeem.",
+      "specs": {
+        "Scherm": "7 inch E Ink Kaleido 3",
+        "Kleur": "Ja",
+        "Waterdicht": "IPX8",
+        "Opslag": "32 GB",
+        "Online Bibliotheek": "Ja, via de app"
+      },
+      "pros": [
+        "Kleurenscherm met bladertoetsen",
+        "Ondersteunt EPUB en Adobe DRM",
+        "Waterdicht",
+        "Stylus-ondersteuning"
+      ],
+      "cons": [
+        "Kleiner boekenaanbod in Nederland",
+        "Software soms traag"
+      ],
+      "ideal": "Lezers die een open e-reader met kleur zoeken als alternatief voor Kobo.",
+      "text": "Tolino is een Duits merk dat net als Kobo inzet op een open systeem. De Vision Color heeft een 7-inch kleurenscherm met E Ink Kaleido 3 en fysieke bladertoetsen. Je leest EPUB en PDF zonder omwegen en ook boeken met Adobe DRM van Nederlandse winkels. Het apparaat is waterdicht en heeft 32 GB opslag. Met een losse stylus maak je markeringen en notities.\n\nDe Online Bibliotheek is via een aparte route beschikbaar, maar minder soepel dan bij Kobo. De Tolino-winkel richt zich vooral op Duitse lezers. Gebruikers waarderen de bouwkwaliteit en het scherm, maar noemen de software soms traag. Voor wie bewust een alternatief voor Amazon en Kobo zoekt is het een degelijke keuze."
+    },
+    {
+      "brand": "Tolino",
+      "name": "Shine 5",
+      "price": 139,
+      "score": 7.9,
+      "label": null,
+      "reviews": "300+ reviews",
+      "oneliner": "Betaalbare open e-reader met bladertoetsen en waterdicht ontwerp.",
+      "specs": {
+        "Scherm": "6 inch E Ink Carta 1200",
+        "Kleur": "Nee",
+        "Waterdicht": "IPX8",
+        "Opslag": "32 GB",
+        "Online Bibliotheek": "Ja, via de app"
+      },
+      "pros": [
+        "Fysieke bladertoetsen voor deze prijs",
+        "Royale 32 GB opslag",
+        "Waterdicht",
+        "Gemaakt van gerecycled plastic"
+      ],
+      "cons": [
+        "Software minder vlot",
+        "Kleinere winkel in het Nederlands"
+      ],
+      "ideal": "Wie een betaalbare e-reader met knoppen wil zonder vast te zitten aan Amazon.",
+      "text": "De Tolino Shine 5 is een van de goedkoopste e-readers met fysieke bladertoetsen. Het 6-inchscherm met E Ink Carta 1200 is scherp en de verlichting is in kleurtemperatuur aan te passen. Met 32 GB opslag heb je ruimte voor duizenden boeken. De behuizing is grotendeels van gerecycled plastic en het apparaat is waterdicht volgens IPX8.\n\nJe leest EPUB en PDF zonder omzetten en ook boeken met Adobe DRM. Gebruikers waarderen de knoppen en de prijs. De software reageert soms trager dan bij Kobo en het boekenaanbod in de eigen winkel is beperkt. Wie zijn boeken elders koopt heeft daar weinig last van."
+    }
+  ],
+  "guide": [
+    {
+      "h": "Kobo, Kindle of een ander merk?",
+      "p": "Kobo werkt het makkelijkst met de Online Bibliotheek en EPUB-bestanden van Nederlandse winkels. Kindle heeft het grootste aanbod in het Engels, maar ondersteunt de bibliotheek niet. PocketBook en Tolino zijn open alternatieven met veel formaten. Lees je veel Nederlandse boeken, dan is Kobo meestal de verstandigste keuze."
+    },
+    {
+      "h": "Zwart-wit of kleur?",
+      "p": "Een kleurenscherm is handig voor strips, kinderboeken, kookboeken en gekleurde markeringen. De kleuren zijn wel gedempt en tekst is iets minder scherp dan op een goed zwart-witscherm. Lees je vooral romans, dan is zwart-wit goedkoper en scherper."
+    },
+    {
+      "h": "Welk schermformaat past bij jou?",
+      "p": "Een 6-inchscherm is licht en past in een jaszak. 7 inch leest prettiger met grotere letters en past nog makkelijk in een tas. Een scherm van 10 inch of groter is bedoeld voor pdf's en notities, maar is zwaarder om lang vast te houden."
+    },
+    {
+      "h": "Waterdicht en verlichting",
+      "p": "Een waterdichte e-reader met IPX8 kan tegen een val in bad of zwembad. Let ook op verstelbaar warm licht: dat leest 's avonds rustiger voor je ogen. Bijna alle e-readers in deze lijst hebben het, de basis-Kindle niet."
+    },
+    {
+      "h": "Online Bibliotheek en abonnementen",
+      "p": "Met een bibliotheekabonnement leen je gratis e-books. Bij Kobo werkt dat direct op het apparaat, bij Tolino via een app en bij PocketBook via je computer. Daarnaast bieden Kobo Plus en Kindle Unlimited abonnementen met een grote bibliotheek voor een vast bedrag per maand."
+    },
+    {
+      "h": "Hoeveel opslag heb je nodig?",
+      "p": "Een gemiddeld e-book is maar een paar megabyte, dus 16 GB is genoeg voor duizenden boeken. Luister je audioboeken of lees je veel strips en pdf's, dan is 32 GB prettig."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wat is de beste e-reader van 2026?",
+      "a": "Op basis van onze vergelijking is de Kobo Libra Colour de beste e-reader van 2026. Hij heeft bladertoetsen, een kleurenscherm en directe toegang tot de Online Bibliotheek. Zoek je de beste prijs-kwaliteit, kijk dan naar de Kindle Paperwhite."
+    },
+    {
+      "q": "Werkt een Kindle met de Online Bibliotheek?",
+      "a": "Nee. Kindle ondersteunt de Adobe DRM van de Online Bibliotheek niet. Wil je boeken lenen bij de bibliotheek, kies dan een Kobo, Tolino of PocketBook."
+    },
+    {
+      "q": "Kun je EPUB-bestanden lezen op een Kindle?",
+      "a": "Ja, via Send to Kindle. Amazon zet het bestand dan om. Boeken met kopieerbeveiliging van andere winkels werken niet."
+    },
+    {
+      "q": "Hoe lang gaat de accu van een e-reader mee?",
+      "a": "Bij een half uur lezen per dag gaan de meeste e-readers vier tot twaalf weken mee. Bluetooth, veel verlichting en een kleurenscherm verkorten de accuduur."
+    },
+    {
+      "q": "Is een e-reader beter voor je ogen dan een tablet?",
+      "a": "Een E Ink-scherm geeft geen licht van achteren en flikkert niet, waardoor lezen rustiger aanvoelt. Veel lezers merken dat ze er langer op kunnen lezen dan op een tablet of telefoon."
+    },
+    {
+      "q": "Kun je audioboeken luisteren op een e-reader?",
+      "a": "Op de meeste nieuwe modellen wel, via een Bluetooth-koptelefoon. Kobo, Kindle, PocketBook en Tolino ondersteunen dit, elk met hun eigen winkel of abonnement."
+    }
+  ]
+}
