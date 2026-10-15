@@ -10,6 +10,8 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 THEME = os.environ.get("WK_THEME", "dark")
 OUT = os.environ.get("WK_OUT", ROOT)
 PREVIEW = os.path.abspath(OUT) != ROOT
+THEME_CSS = {"dark": [], "light": ["light"], "green": ["light", "green"]}.get(THEME, [])
+BODY_CLASS = {"dark": "theme-dark", "light": "theme-light", "green": "theme-light theme-green"}.get(THEME, "theme-dark")
 DATA = os.path.join(ROOT, "data")
 SITE = "https://watkoopik.nl"
 CANON = "https://watkoopik.nl"
@@ -127,9 +129,9 @@ def head(title, desc, path, root, extra="", img=""):
 <script defer src="https://cloud.umami.is/script.js" data-website-id="47030ca7-838e-4840-9d90-0c8b315ba5e8"></script>
 %s
 </head>
-<body class="theme-%s">
+<body class="%s">
 <div class="fx-fallback" aria-hidden="true"></div><canvas id="fx" aria-hidden="true"></canvas><div class="fx-veil" aria-hidden="true"></div><div class="fx-grain" aria-hidden="true"></div><div class="cursor-glow" aria-hidden="true"></div>
-<div class="progress" aria-hidden="true"></div>''' % (e(title), e(desc), "noindex,follow" if PREVIEW else "index,follow,max-image-preview:large", canon, canon, e(title), e(desc), canon, ('<meta property="og:image" content="%s">' % e(img)) if img else '', root, root, BUILD, ('<link rel="stylesheet" href="%slight.css?v=%s">' % (root, BUILD)) if THEME == "light" else "", json.dumps(root), extra, THEME)
+<div class="progress" aria-hidden="true"></div>''' % (e(title), e(desc), "noindex,follow" if PREVIEW else "index,follow,max-image-preview:large", canon, canon, e(title), e(desc), canon, ('<meta property="og:image" content="%s">' % e(img)) if img else '', root, root, BUILD, "".join('<link rel="stylesheet" href="%s%s.css?v=%s">' % (root, n, BUILD) for n in THEME_CSS), json.dumps(root), extra, BODY_CLASS)
 
 def searchbox(cls="", ph="Zoek een product of merk", btn=True):
     return '''<div class="search-wrap"><form class="search %s" data-search role="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input type="search" placeholder="%s" aria-label="Zoek een gids" autocomplete="off">%s</form><div class="results"></div></div>''' % (cls, ph, '<button class="sbtn" type="submit">Zoek</button>' if btn else "")
@@ -427,7 +429,8 @@ wr("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http:/
 
 # ---------- assets ----------
 wr("style.css", rd("style.css")); wr("app.js", rd("app.js")); wr("favicon.svg", FAVICON)
-if THEME == "light": wr("light.css", rd("light.css"))
+for n in THEME_CSS: wr(n + ".css", rd(n + ".css"))
+if THEME == "green": wr("favicon.svg", FAVICON.replace("#5b3fd6", "#0f5c4c"))
 wr("CNAME", "watkoopik.com\n" if PREVIEW else "watkoopik.nl\n"); wr(".nojekyll", "")
 wr("robots.txt", "User-agent: *\nDisallow: /\n" if PREVIEW else "User-agent: *\nAllow: /\nDisallow: /stats.html\nSitemap: %s/sitemap.xml\n" % SITE)
 wr("search.json", json.dumps([{"t": g["title"], "u": g["url"], "c": CATS[g["cat"]][0], "w": "%s %s" % (win(g)["brand"], win(g)["name"]), "i": win(g).get("image", ""),

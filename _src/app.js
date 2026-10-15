@@ -112,7 +112,7 @@
   // kleur volgt de scrollpositie continu: elke beweging van je duim verschuift de kleuren
   var scrollMix = 0, speed = 0, lastY = window.scrollY;
   function targetPalette() {
-    if (LIGHT) return PALETTES[0];
+    if (LIGHT) return document.body.classList.contains("theme-green") ? [[0.05,0.45,0.36],[0.10,0.62,0.50],[1.00,0.55,0.20]] : PALETTES[0];
     var max = Math.max(1, document.documentElement.scrollHeight - window.innerHeight);
     var f = Math.min(.9999, Math.max(0, window.scrollY / max)) * (PALETTES.length - 1);
     var i = Math.floor(f), k = f - i, A = PALETTES[i], B = PALETTES[Math.min(i + 1, PALETTES.length - 1)];
@@ -121,6 +121,7 @@
   }
   window.addEventListener("scroll", function () { var y = window.scrollY; speed = Math.min(6, speed + Math.abs(y - lastY) * .02); lastY = y; }, { passive: true });
   window.__setHue = function () {};
+  pal.c = targetPalette().map(function (x) { return x.slice(); });
   var cv = document.getElementById("fx");
   if (cv && !reduce) (function () {
     var gl = cv.getContext("webgl", { antialias: false, alpha: false, powerPreference: "low-power" });

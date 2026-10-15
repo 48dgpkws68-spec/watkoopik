@@ -1,0 +1,31 @@
+/* watkoopik · groene variant: smaragd als merkkleur, oranje alleen voor kopen, goud voor winnaars */
+.theme-green{--purple:#0f5c4c;--purple2:#0b4a3d;--cyan:#0f5c4c;--ink:#10221d;--ink2:#4d5f59;--ink3:#80908a;--glow:0 1px 2px rgba(16,34,29,.05),0 18px 40px -16px rgba(16,34,29,.2)}
+.theme-green .logo svg path:first-of-type{fill:#0f5c4c}
+.theme-green .logo-word b{color:#0f5c4c}
+.theme-green .nav-links a:hover,.theme-green .nav-links a.active{background:#e3f1ec;color:#0f5c4c}
+.theme-green .grad,.theme-green .split.is-split .grad .w>span{background:linear-gradient(90deg,#0f5c4c,#178a6f,#ff6b2c,#0f5c4c);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
+.theme-green .search:focus-within{box-shadow:0 0 0 5px rgba(15,92,76,.14)}
+.theme-green .results a:hover,.theme-green .results a.hl{background:#eaf5f1}
+.theme-green .hero{background:#0b3d33}
+.theme-green .hero::before{background:linear-gradient(180deg,rgba(8,40,33,.5),rgba(8,40,33,.25) 60%,rgba(8,40,33,.55))}
+.theme-green .hero .grad,.theme-green .hero .split.is-split .grad .w>span{background:linear-gradient(90deg,#ffd27a,#ffab6b,#ffe3a3,#ffd27a);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
+.theme-green .hero .lead{color:#dcefe8}
+.theme-green .hero-stats span{color:#bfe0d4}
+.theme-green .cat .ic,.theme-green .ideal{background:#e3f1ec;color:#0f5c4c}
+.theme-green .ideal{color:var(--ink)}
+.theme-green .cat:hover .ic{background:#0f5c4c;color:#fff}
+.theme-green .sc{background:#e3f1ec;color:#0f5c4c}
+.theme-green tbody tr:hover{background:#f4faf8}
+.theme-green .q-opts button:hover{background:#eaf5f1;border-color:#0f5c4c}
+.theme-green .cta-band{background:linear-gradient(120deg,#0f5c4c,#167a63);box-shadow:0 30px 70px -30px rgba(15,92,76,.55)}
+.theme-green .cta-band p{color:#e1f3ec}
+.theme-green .verdict,.theme-green footer{background:#0d2a23}
+.theme-green .verdict p{color:#dcefe8}
+.theme-green footer,.theme-green footer a{color:#a9c6bc}
+.theme-green footer .logo-word b{color:#7fd4b6}
+.theme-green .filters button.on{background:#0f5c4c;border-color:#0f5c4c}
+.theme-green .step .n{background:#0f5c4c}
+.theme-green .numbers b,.theme-green .numbers b.grad{color:#0f5c4c;-webkit-text-fill-color:#0f5c4c}
+.theme-green .search .sbtn,.theme-green .btn-purple,.theme-green .q-prog i,.theme-green .bar i em{background:#0f5c4c}
+.theme-green .btn-purple{box-shadow:0 8px 20px -8px rgba(15,92,76,.55)}
+.theme-green .cat::before{filter:hue-rotate(-95deg) saturate(.8)}
