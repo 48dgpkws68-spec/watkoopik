@@ -5,10 +5,10 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-wanddroogrek | huishouden | wanddroogrek | De 10 beste wanddroogrekken van 2026 | 🧺
 [x] beste-droogrek | huishouden | droogrek | De 10 beste droogrekken van 2026 | 🧺
 [x] beste-stoomreiniger | huishouden | stoomreiniger | De 10 beste stoomreinigers van 2026 | ♨️
-[ ] beste-kruimeldief | huishouden | kruimeldief | De 10 beste kruimeldieven van 2026 | 🔌
-[ ] beste-raamwisser | huishouden | raamwisser | De 10 beste elektrische raamwissers van 2026 | 🪟
+[x] beste-kruimeldief | huishouden | kruimeldief | De 10 beste kruimeldieven van 2026 | 🔌
+[x] beste-raamwisser | huishouden | raamwisser | De 10 beste elektrische raamwissers van 2026 | 🪟
 [x] beste-magnetron | keuken | magnetron | De 10 beste magnetrons van 2026 | 📡
-[ ] beste-broodrooster | keuken | broodrooster | De 10 beste broodroosters van 2026 | 🍞
+[x] beste-broodrooster | keuken | broodrooster | De 10 beste broodroosters van 2026 | 🍞
 [x] beste-staafmixer | keuken | staafmixer | De 10 beste staafmixers van 2026 | 🥄
 [x] beste-espressomachine | keuken | espressomachine | De 10 beste espressomachines van 2026 | ☕
 [ ] beste-sapcentrifuge | keuken | slowjuicer | De 10 beste slowjuicers en sapcentrifuges van 2026 | 🍊
