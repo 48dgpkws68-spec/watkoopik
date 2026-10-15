@@ -6,6 +6,10 @@ Copyregel: geen em/en-dashes, geen ", en"."""
 import os, re, json, glob, html, datetime, urllib.parse
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
+# Varianten: WK_THEME=light|dark (standaard dark), WK_OUT=<map> voor een preview elders (dan noindex + canonical naar .nl)
+THEME = os.environ.get("WK_THEME", "dark")
+OUT = os.environ.get("WK_OUT", ROOT)
+PREVIEW = os.path.abspath(OUT) != ROOT
 DATA = os.path.join(ROOT, "data")
 SITE = "https://watkoopik.nl"
 CANON = "https://watkoopik.nl"
@@ -17,7 +21,7 @@ MONTHS = ["", "januari", "februari", "maart", "april", "mei", "juni", "juli", "a
 e = html.escape
 rd = lambda n: open(os.path.join(ROOT, "_src", n), encoding="utf-8").read()
 def wr(path, s):
-    p = os.path.join(ROOT, path); os.makedirs(os.path.dirname(p), exist_ok=True)
+    p = os.path.join(OUT, path); os.makedirs(os.path.dirname(p), exist_ok=True)
     open(p, "w", encoding="utf-8").write(s)
 
 def check(s, where):
@@ -109,7 +113,7 @@ def head(title, desc, path, root, extra="", img=""):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>%s</title>
 <meta name="description" content="%s">
-<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="robots" content="%s">
 <link rel="canonical" href="%s">
 <link rel="alternate" hreflang="nl-NL" href="%s">
 <meta property="og:title" content="%s"><meta property="og:description" content="%s"><meta property="og:type" content="website"><meta property="og:locale" content="nl_NL"><meta property="og:site_name" content="watkoopik"><meta property="og:url" content="%s">%s
@@ -118,14 +122,14 @@ def head(title, desc, path, root, extra="", img=""):
 <link rel="icon" href="%sfavicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="%sstyle.css?v=%s">
+<link rel="stylesheet" href="%sstyle.css?v=%s">%s
 <script>window.ROOT=%s</script>
 <script defer src="https://cloud.umami.is/script.js" data-website-id="47030ca7-838e-4840-9d90-0c8b315ba5e8"></script>
 %s
 </head>
-<body>
+<body class="theme-%s">
 <div class="fx-fallback" aria-hidden="true"></div><canvas id="fx" aria-hidden="true"></canvas><div class="fx-veil" aria-hidden="true"></div><div class="fx-grain" aria-hidden="true"></div><div class="cursor-glow" aria-hidden="true"></div>
-<div class="progress" aria-hidden="true"></div>''' % (e(title), e(desc), canon, canon, e(title), e(desc), canon, ('<meta property="og:image" content="%s">' % e(img)) if img else '', root, root, BUILD, json.dumps(root), extra)
+<div class="progress" aria-hidden="true"></div>''' % (e(title), e(desc), "noindex,follow" if PREVIEW else "index,follow,max-image-preview:large", canon, canon, e(title), e(desc), canon, ('<meta property="og:image" content="%s">' % e(img)) if img else '', root, root, BUILD, ('<link rel="stylesheet" href="%slight.css?v=%s">' % (root, BUILD)) if THEME == "light" else "", json.dumps(root), extra, THEME)
 
 def searchbox(cls="", ph="Zoek een product of merk", btn=True):
     return '''<div class="search-wrap"><form class="search %s" data-search role="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input type="search" placeholder="%s" aria-label="Zoek een gids" autocomplete="off">%s</form><div class="results"></div></div>''' % (cls, ph, '<button class="sbtn" type="submit">Zoek</button>' if btn else "")
@@ -423,8 +427,9 @@ wr("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http:/
 
 # ---------- assets ----------
 wr("style.css", rd("style.css")); wr("app.js", rd("app.js")); wr("favicon.svg", FAVICON)
-wr("CNAME", "watkoopik.nl\n"); wr(".nojekyll", "")
-wr("robots.txt", "User-agent: *\nAllow: /\nDisallow: /stats.html\nSitemap: %s/sitemap.xml\n" % SITE)
+if THEME == "light": wr("light.css", rd("light.css"))
+wr("CNAME", "watkoopik.com\n" if PREVIEW else "watkoopik.nl\n"); wr(".nojekyll", "")
+wr("robots.txt", "User-agent: *\nDisallow: /\n" if PREVIEW else "User-agent: *\nAllow: /\nDisallow: /stats.html\nSitemap: %s/sitemap.xml\n" % SITE)
 wr("search.json", json.dumps([{"t": g["title"], "u": g["url"], "c": CATS[g["cat"]][0], "w": "%s %s" % (win(g)["brand"], win(g)["name"]), "i": win(g).get("image", ""),
     "k": " ".join([g["query"], g["short"]] + g.get("keywords", []) + ["%s %s" % (p["brand"], p["name"]) for p in g["products"]])} for g in guides], ensure_ascii=False))
 print("OK pro: %d gidsen, %d producten" % (len(guides), N_PROD))

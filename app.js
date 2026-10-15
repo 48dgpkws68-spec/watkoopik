@@ -6,6 +6,12 @@
   var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   var touch = window.matchMedia("(hover: none)").matches;
   var hasGsap = !!(window.gsap && window.ScrollTrigger);
+  var LIGHT = document.body.classList.contains("theme-light");
+  if (LIGHT) {
+    var fxc = document.getElementById("fx"), hero = document.querySelector(".hero");
+    if (fxc && hero) { hero.insertBefore(fxc, hero.firstChild); fxc.classList.add("in-hero"); }
+    else if (fxc) fxc.remove();
+  }
   var small = touch || window.innerWidth < 760;
   if (hasGsap) gsap.registerPlugin(ScrollTrigger);
 
@@ -106,6 +112,7 @@
   // kleur volgt de scrollpositie continu: elke beweging van je duim verschuift de kleuren
   var scrollMix = 0, speed = 0, lastY = window.scrollY;
   function targetPalette() {
+    if (LIGHT) return PALETTES[0];
     var max = Math.max(1, document.documentElement.scrollHeight - window.innerHeight);
     var f = Math.min(.9999, Math.max(0, window.scrollY / max)) * (PALETTES.length - 1);
     var i = Math.floor(f), k = f - i, A = PALETTES[i], B = PALETTES[Math.min(i + 1, PALETTES.length - 1)];
@@ -136,7 +143,7 @@
     var loc = gl.getAttribLocation(pr, "p"); gl.enableVertexAttribArray(loc); gl.vertexAttribPointer(loc, 2, gl.FLOAT, false, 0, 0);
     var U = {}; ["r", "t", "a", "b", "c", "m"].forEach(function (k) { U[k] = gl.getUniformLocation(pr, k); });
     var scale = (touch || window.innerWidth < 760) ? .35 : .5, mx = .5, my = .6, tmx = .5, tmy = .6;
-    function size() { cv.width = Math.round(window.innerWidth * scale); cv.height = Math.round(window.innerHeight * scale); gl.viewport(0, 0, cv.width, cv.height); }
+    function size() { var W = LIGHT ? cv.clientWidth : window.innerWidth, H = LIGHT ? cv.clientHeight : window.innerHeight; cv.width = Math.round(W * scale); cv.height = Math.round(H * scale); gl.viewport(0, 0, cv.width, cv.height); }
     size(); window.addEventListener("resize", size);
     window.addEventListener("pointermove", function (e) { tmx = e.clientX / window.innerWidth; tmy = 1 - e.clientY / window.innerHeight; }, { passive: true });
     var t0 = performance.now(), hidden = false, flow = 0;
@@ -157,7 +164,7 @@
 
   /* ---------- cursorgloed ---------- */
   var glow = document.querySelector(".cursor-glow");
-  if (glow && !touch) {
+  if (glow && !touch && !LIGHT) {
     document.body.classList.add("has-cursor");
     var gx = 0, gy = 0, cx = 0, cy = 0;
     window.addEventListener("pointermove", function (e) { gx = e.clientX; gy = e.clientY; }, { passive: true });
@@ -165,7 +172,7 @@
   }
 
   /* ---------- 3D-kanteling op kaarten ---------- */
-  if (!touch && !reduce) document.querySelectorAll(".tilt").forEach(function (el) {
+  if (!touch && !reduce && !LIGHT) document.querySelectorAll(".tilt").forEach(function (el) {
     el.addEventListener("pointermove", function (e) {
       var r = el.getBoundingClientRect(), x = (e.clientX - r.left) / r.width - .5, y = (e.clientY - r.top) / r.height - .5;
       el.style.transform = "perspective(900px) rotateY(" + (x * 9) + "deg) rotateX(" + (-y * 9) + "deg) translateY(-4px)";

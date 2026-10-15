@@ -1,0 +1,220 @@
+/* watkoopik · lichte variant: rustig en betrouwbaar, wow alleen in de hero */
+.theme-light{
+  --bg:#fafaf7;--ink:#16122b;--ink2:#5b5670;--ink3:#8a85a0;--line:#e9e6df;--line2:#dcd8cf;
+  --glass:#ffffff;--glass2:#f3f1ec;
+  --purple:#5b3fd6;--purple2:#4a32b8;--pink:#ff6b2c;--orange:#ff6b2c;--gold:#f2b01e;--cyan:#5b3fd6;--ok:#16a34a;--bad:#dc2626;
+  --glow:0 1px 2px rgba(22,18,43,.04),0 18px 40px -16px rgba(22,18,43,.18);
+  background:var(--bg);color:var(--ink)
+}
+html:has(.theme-light){background:#fafaf7}
+.theme-light .fx-fallback,.theme-light .fx-veil,.theme-light .fx-grain,.theme-light .cursor-glow{display:none}
+.theme-light a{color:var(--purple)}
+.theme-light a:hover{color:var(--purple2)}
+.theme-light h1,.theme-light h2,.theme-light h3,.theme-light h4{color:var(--ink);text-shadow:none!important}
+.theme-light .muted,.theme-light p{color:inherit}
+.theme-light .muted{color:var(--ink2)}
+.theme-light .kick{color:#c2410c}
+.theme-light .kick::before{background:var(--orange)}
+.theme-light .grad{background:linear-gradient(90deg,#5b3fd6,#8b5cf6,#ff6b2c,#5b3fd6);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
+.theme-light .split.is-split .grad .w>span{background:linear-gradient(90deg,#5b3fd6,#8b5cf6,#ff6b2c,#5b3fd6);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
+.theme-light .ring::after{display:none}
+.theme-light .progress{background:linear-gradient(90deg,var(--purple),var(--orange))}
+
+/* nav */
+.theme-light .nav{background:rgba(250,250,247,.86);border-bottom:1px solid transparent}
+.theme-light .nav.scrolled{background:rgba(250,250,247,.95);border-color:var(--line)}
+.theme-light .logo-word{color:var(--ink)}
+.theme-light .logo-word b{color:var(--purple)}
+.theme-light .nav-links a{color:var(--ink2)}
+.theme-light .nav-links a:hover,.theme-light .nav-links a.active{background:#efebff;color:var(--purple)}
+.theme-light .burger{background:#fff;border-color:var(--line2)}
+.theme-light .burger span{background:var(--ink)}
+.theme-light .drawer{background:rgba(250,250,247,.98)}
+.theme-light .drawer a.dl{color:var(--ink);border-color:var(--line)}
+.theme-light .drawer a.dl::after{color:var(--purple)}
+
+/* knoppen: koopknop is het opvallendste element */
+.theme-light .btn-buy{background:#ff6b2c;animation:none;box-shadow:0 8px 20px -6px rgba(255,107,44,.55)}
+.theme-light .btn-buy:hover{background:#ea580c;filter:none;box-shadow:0 12px 26px -6px rgba(255,107,44,.6)}
+.theme-light .btn-purple{background:var(--purple);box-shadow:0 8px 20px -8px rgba(91,63,214,.6)}
+.theme-light .btn-light{background:#fff;color:var(--ink);border:1px solid var(--line2)}
+.theme-light .btn-light:hover{background:#f3f1ec;color:var(--ink)}
+.theme-light .btn-dark{background:var(--ink);color:#fff}
+.theme-light .btn-dark:hover{color:#fff}
+
+/* zoeken */
+.theme-light .search{background:#fff;border:1.5px solid var(--line2);color:var(--ink);backdrop-filter:none}
+.theme-light .search:focus-within{border-color:var(--purple);box-shadow:0 0 0 5px rgba(91,63,214,.12);background:#fff}
+.theme-light .search input{color:var(--ink)}
+.theme-light .search input::placeholder{color:var(--ink3)}
+.theme-light .search .sbtn{background:var(--purple)}
+.theme-light .results{background:#fff;border-color:var(--line);box-shadow:0 24px 60px -20px rgba(22,18,43,.3)}
+.theme-light .results a{color:var(--ink);border-color:var(--line)}
+.theme-light .results a:hover,.theme-light .results a.hl{background:#f3efff}
+.theme-light .results small{color:var(--ink2)}
+
+/* hero: hier mag het knallen */
+.theme-light .hero{min-height:auto;padding:56px 0 0;background:#120d2b;color:#fff;border-radius:0 0 34px 34px;margin-bottom:10px}
+.theme-light #fx.in-hero{position:absolute;inset:0;width:100%;height:100%;z-index:0}
+.theme-light .hero h1{color:#fff}
+.theme-light .hero .grad,.theme-light .hero .split.is-split .grad .w>span{background:linear-gradient(90deg,#c9b8ff,#ff9a62,#ffd27a,#c9b8ff);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
+.theme-light .hero .lead{color:#e3dcff}
+.theme-light .hero .badge{background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.25);color:#fff}
+.theme-light .hero .search{border-color:transparent;box-shadow:0 24px 60px -18px rgba(0,0,0,.45)}
+.theme-light .hero-chips a{background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.22);color:#fff}
+.theme-light .hero-chips a:hover{background:rgba(255,255,255,.22);color:#fff}
+.theme-light .hero-stats b{color:#fff;-webkit-text-fill-color:#fff;background:none}
+.theme-light .hero-stats span{color:#cfc7f3}
+.theme-light .hero .mq-item{background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.2);color:#fff}
+.theme-light .hero-band{padding-bottom:30px}
+
+/* winnaars, categorieën, kaarten */
+.theme-light .wincard{background:#fff;border:1px solid var(--line);color:var(--ink);backdrop-filter:none;box-shadow:0 1px 2px rgba(22,18,43,.04)}
+.theme-light .wincard:hover{color:var(--ink);box-shadow:var(--glow)}
+.theme-light .wincard h3{color:var(--ink)}
+.theme-light .wincard small{color:var(--ink2)}
+.theme-light .wincard .im{border-bottom:1px solid var(--line)}
+.theme-light .wincard .crown{background:var(--gold);color:#1f1300}
+.theme-light .cat{background:#fff;border:1px solid var(--line);color:var(--ink)}
+.theme-light .cat::before{opacity:.12;animation:none}
+.theme-light .cat:hover::before{opacity:.2}
+.theme-light .cat:hover{color:var(--ink);box-shadow:var(--glow);transform:translateY(-3px)}
+.theme-light .cat small{color:var(--ink2);opacity:1}
+.theme-light .cat .ic{background:#efebff;color:var(--purple);backdrop-filter:none}
+.theme-light .cat:hover .ic{background:var(--purple);color:#fff}
+.theme-light .cat .thumbs img{border-color:#fff;box-shadow:0 2px 8px rgba(22,18,43,.12)}
+.theme-light .gc{background:#fff;border:1px solid var(--line);color:var(--ink);backdrop-filter:none}
+.theme-light .gc:hover{color:var(--ink);box-shadow:var(--glow);transform:translateY(-3px)}
+.theme-light .gc-img{border-bottom:1px solid var(--line)}
+.theme-light .gc-body h3,.theme-light .gc-win b,.theme-light .gc-win .pr{color:var(--ink)}
+.theme-light .gc-body p,.theme-light .gc-win span{color:var(--ink2)}
+.theme-light .rw{background:#fff;border:1px solid var(--line);color:var(--ink)}
+.theme-light .rw:hover{background:#fff;color:var(--ink);box-shadow:var(--glow)}
+.theme-light .rw h3{color:var(--ink)}
+.theme-light .rw small{color:var(--ink2)}
+.theme-light .rw .go{color:var(--purple)}
+.theme-light .rw-img{border:1px solid var(--line)}
+.theme-light .more{color:var(--purple)}
+.theme-light .sec-head p{color:var(--ink2)}
+
+/* stappen, cijfers, cta */
+.theme-light .step,.theme-light .numbers div{background:#fff;border:1px solid var(--line);backdrop-filter:none}
+.theme-light .step p{color:var(--ink2)}
+.theme-light .step .n{background:var(--purple);box-shadow:none}
+.theme-light .numbers b,.theme-light .numbers b.grad{color:var(--purple);-webkit-text-fill-color:var(--purple);background:none;animation:none}
+.theme-light .numbers span{color:var(--ink2)}
+.theme-light .cta-band{background:linear-gradient(120deg,#5b3fd6,#7c4dff);animation:none;box-shadow:0 30px 70px -30px rgba(91,63,214,.6)}
+.theme-light .cta-band p{color:#ece7ff}
+.theme-light .cta-band h2{color:#fff}
+.theme-light .cta-band .btn-dark{background:#fff;color:var(--ink)}
+.theme-light section .wrap.narrow.rv,.theme-light .prose{background:transparent;border:0;padding:0;backdrop-filter:none;color:var(--ink)}
+
+/* gidspagina */
+.theme-light .crumbs,.theme-light .crumbs a{color:var(--ink2)}
+.theme-light .ghero .intro{color:var(--ink2)}
+.theme-light .meta-line span{background:#fff;border-color:var(--line);color:var(--ink2)}
+.theme-light .meta-line b{color:var(--ink)}
+.theme-light .disc{background:#f3f1ec;border-color:var(--line);color:var(--ink2)}
+.theme-light .pd{background:#fff;border:1px solid var(--line);backdrop-filter:none}
+.theme-light .pd.first{background:linear-gradient(180deg,#fff8e6,#fff 45%);border:2px solid var(--gold);box-shadow:0 24px 50px -24px rgba(242,176,30,.45)}
+.theme-light .pd .lbl{background:var(--ink);color:#fff}
+.theme-light .pd.first .lbl{background:var(--gold);color:#1f1300}
+.theme-light .pd .im{border:1px solid var(--line)}
+.theme-light .pd p{color:var(--ink2)}
+.theme-light .toc{background:#fff;border:1px solid var(--line);backdrop-filter:none}
+.theme-light .toc ol,.theme-light .toc a{color:var(--ink2)}
+.theme-light .toc a.on{color:var(--purple)}
+.theme-light .toc summary::after,.theme-light .faq summary::after{color:var(--purple)}
+.theme-light .tbl{background:#fff;border:1px solid var(--line);backdrop-filter:none}
+.theme-light th{background:#f6f4ef;color:var(--ink2)}
+.theme-light th,.theme-light td{border-color:var(--line)}
+.theme-light tbody tr:hover{background:#faf8ff}
+.theme-light td.nm small{color:var(--ink2)}
+.theme-light .ti img{border:1px solid var(--line)}
+.theme-light .rk{background:#f1efe9}
+.theme-light .rk.r1{background:var(--gold);color:#1f1300}
+.theme-light .sc{background:#efebff;color:var(--purple)}
+.theme-light .sc.hi{background:#dcfce7;color:var(--ok)}
+.theme-light .pr-card{background:#fff;border:1px solid var(--line);backdrop-filter:none}
+.theme-light .pr-card.top{border:2px solid var(--gold);box-shadow:0 0 0 5px #fff6dc}
+.theme-light .pr-img{border:1px solid var(--line)}
+.theme-light .pr-img .n{background:var(--ink)}
+.theme-light .pr-card.top .pr-img .n{background:var(--gold);color:#1f1300}
+.theme-light .pr-lbl{color:#c2410c;background:#fff1e8}
+.theme-light .pr-meta,.theme-light .pr-txt{color:var(--ink2)}
+.theme-light .pr-txt{color:#3d3852}
+.theme-light .pr-meta .price{color:var(--ink)}
+.theme-light .bar{color:var(--ink2)}
+.theme-light .bar i{background:#efece5}
+.theme-light .bar i em{background:var(--purple);box-shadow:none}
+.theme-light .bar b{color:var(--ink)}
+.theme-light .specs span{background:#f6f4ef;border-color:var(--line);color:var(--ink)}
+.theme-light .pc ul{color:#3d3852}
+.theme-light .pc .pros li::before{background:#dcfce7;color:var(--ok)}
+.theme-light .pc .cons li::before{background:#fee2e2;color:var(--bad)}
+.theme-light .pc h4{color:var(--ink2)}
+.theme-light .ideal{background:#f3efff;border:0;color:var(--ink)}
+.theme-light .buy small{color:var(--ink2)}
+.theme-light .verdict{background:#16122b;border:0;color:#fff}
+.theme-light .verdict h2{color:#fff}
+.theme-light .verdict p{color:#e5e0f7}
+.theme-light .verdict .kick{color:#ffb48a}
+.theme-light .guide{background:transparent;border:0;padding:0;backdrop-filter:none;color:#3d3852}
+.theme-light .guide h2,.theme-light .guide h3{color:var(--ink)}
+.theme-light .faq{color:var(--ink)}
+.theme-light .faq details{background:#fff;border:1px solid var(--line)}
+.theme-light .faq summary{color:var(--ink)}
+.theme-light .faq details p{color:var(--ink2)}
+.theme-light .sticky-buy{background:#fff;border:1px solid var(--line);color:var(--ink);box-shadow:0 20px 50px -10px rgba(22,18,43,.25)}
+.theme-light .sticky-buy b{color:var(--ink)}
+.theme-light .sticky-buy div{color:var(--ink2)}
+.theme-light .sticky-buy img{border:1px solid var(--line)}
+
+/* filters, keuzehulp, footer */
+.theme-light .filters button{background:#fff;border-color:var(--line2);color:var(--ink)}
+.theme-light .filters button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.theme-light .quiz{background:#fff;border:1px solid var(--line);backdrop-filter:none;box-shadow:0 30px 70px -30px rgba(22,18,43,.25)}
+.theme-light .quiz h3{color:var(--ink)}
+.theme-light .q-opts button{background:#fff;border-color:var(--line2);color:var(--ink)}
+.theme-light .q-opts button:hover{background:#f3efff;border-color:var(--purple)}
+.theme-light .q-opts button small{color:var(--ink2)}
+.theme-light .q-prog{background:#efece5}
+.theme-light .q-prog i{background:var(--purple)}
+.theme-light .q-res img{border:1px solid var(--line)}
+.theme-light .prose input,.theme-light .prose textarea{background:#fff!important;color:var(--ink);border:1.5px solid var(--line2)!important}
+.theme-light footer{background:#16122b;backdrop-filter:none;border:0;color:#bdb6d8}
+.theme-light footer a{color:#bdb6d8}
+.theme-light footer a:hover{color:#fff}
+.theme-light footer h4{color:#fff}
+.theme-light footer .logo-word{color:#fff}
+.theme-light footer .logo-word b{color:#c9b8ff}
+.theme-light footer .fine{border-color:rgba(255,255,255,.12);color:#8e88aa}
+
+@media (max-width:640px){
+  .theme-light .hero{padding:32px 0 0;border-radius:0 0 26px 26px}
+  .theme-light .floaters{display:none}
+}
+/* hero: donkere waas over het kleurveld zodat tekst altijd leesbaar is */
+.theme-light .hero::before{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(180deg,rgba(18,13,43,.45),rgba(18,13,43,.25) 60%,rgba(18,13,43,.5));pointer-events:none}
+.theme-light .hero-in,.theme-light .hero-band,.theme-light .floaters{z-index:3}
+.theme-light .hero .grad,.theme-light .hero .split.is-split .grad .w>span{background:linear-gradient(90deg,#ffd27a,#ffab6b,#ff8fb1,#ffd27a);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
+.theme-light .hero h1{text-shadow:0 4px 30px rgba(18,13,43,.35)!important}
+/* categorietegels groeien mee met de tekst */
+.theme-light .bento{grid-auto-rows:minmax(150px,auto)}
+.theme-light .cat{min-height:150px}
+@media (max-width:640px){
+  .theme-light .bento{grid-auto-rows:minmax(118px,auto)}
+  .theme-light .cat{min-height:118px;padding:14px 14px 12px}
+  .theme-light .cat b{font-size:1.05rem;line-height:1.15;padding-right:34px}
+  .theme-light .cat.big b{font-size:1.35rem}
+  .theme-light .cat small{font-size:.78rem;line-height:1.3}
+}
+.theme-light .ghero .intro,.theme-light .sec-head p,.theme-light .guide,.theme-light .faq>h2,.theme-light .prose,.theme-light .sec-head h2,.theme-light .ghero h1{text-shadow:none!important}
+.theme-light .hero .lead{text-shadow:0 1px 12px rgba(18,13,43,.4)}
+/* knoppen houden hun eigen tekstkleur, ook als het links zijn */
+.theme-light a.btn-buy,.theme-light a.btn-buy:hover,.theme-light a.btn-purple,.theme-light a.btn-purple:hover,.theme-light a.btn-dark,.theme-light a.btn-dark:hover{color:#fff}
+.theme-light .cta-band a.btn-dark{color:var(--ink)}
+.theme-light a.btn-light,.theme-light a.btn-light:hover{color:var(--ink)}
+.theme-light a.cat,.theme-light a.gc,.theme-light a.rw,.theme-light a.wincard{color:var(--ink)}
+.theme-light .hero a{color:#fff}
+@media (min-width:641px){.theme-light .cat:not(.big){min-height:176px}.theme-light .cat .thumbs img{width:40px;height:40px}}
