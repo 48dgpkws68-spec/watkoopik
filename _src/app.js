@@ -112,7 +112,7 @@
   // kleur volgt de scrollpositie continu: elke beweging van je duim verschuift de kleuren
   var scrollMix = 0, speed = 0, lastY = window.scrollY;
   function targetPalette() {
-    if (LIGHT) return document.body.classList.contains("theme-green") ? [[0.05,0.45,0.36],[0.10,0.62,0.50],[1.00,0.55,0.20]] : PALETTES[0];
+    if (LIGHT) return document.body.classList.contains("theme-green") ? [[0.03,0.30,0.24],[0.07,0.50,0.40],[0.20,0.70,0.54]] : PALETTES[0];
     var max = Math.max(1, document.documentElement.scrollHeight - window.innerHeight);
     var f = Math.min(.9999, Math.max(0, window.scrollY / max)) * (PALETTES.length - 1);
     var i = Math.floor(f), k = f - i, A = PALETTES[i], B = PALETTES[Math.min(i + 1, PALETTES.length - 1)];

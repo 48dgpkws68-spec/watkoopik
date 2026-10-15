@@ -3,12 +3,12 @@
 .theme-green .logo svg path:first-of-type{fill:#0f5c4c}
 .theme-green .logo-word b{color:#0f5c4c}
 .theme-green .nav-links a:hover,.theme-green .nav-links a.active{background:#e3f1ec;color:#0f5c4c}
-.theme-green .grad,.theme-green .split.is-split .grad .w>span{background:linear-gradient(90deg,#0f5c4c,#178a6f,#ff6b2c,#0f5c4c);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
+.theme-green .grad,.theme-green .split.is-split .grad .w>span{background:linear-gradient(90deg,#b8860b,#d4a52a,#a9790a,#b8860b);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
 .theme-green .search:focus-within{box-shadow:0 0 0 5px rgba(15,92,76,.14)}
 .theme-green .results a:hover,.theme-green .results a.hl{background:#eaf5f1}
 .theme-green .hero{background:#0b3d33}
 .theme-green .hero::before{background:linear-gradient(180deg,rgba(8,40,33,.5),rgba(8,40,33,.25) 60%,rgba(8,40,33,.55))}
-.theme-green .hero .grad,.theme-green .hero .split.is-split .grad .w>span{background:linear-gradient(90deg,#ffd27a,#ffab6b,#ffe3a3,#ffd27a);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
+.theme-green .hero .grad,.theme-green .hero .split.is-split .grad .w>span{background:linear-gradient(90deg,#f2c14e,#ffe08a,#e9b43c,#f2c14e);background-size:300% 100%;-webkit-background-clip:text;background-clip:text}
 .theme-green .hero .lead{color:#dcefe8}
 .theme-green .hero-stats span{color:#bfe0d4}
 .theme-green .cat .ic,.theme-green .ideal{background:#e3f1ec;color:#0f5c4c}
@@ -29,3 +29,6 @@
 .theme-green .search .sbtn,.theme-green .btn-purple,.theme-green .q-prog i,.theme-green .bar i em{background:#0f5c4c}
 .theme-green .btn-purple{box-shadow:0 8px 20px -8px rgba(15,92,76,.55)}
 .theme-green .cat::before{filter:hue-rotate(-95deg) saturate(.8)}
+
+/* hero: alleen groentinten, geen warme vlekken */
+.theme-green .hero::before{background:linear-gradient(180deg,rgba(6,36,29,.45),rgba(6,36,29,.2) 60%,rgba(6,36,29,.5))}
