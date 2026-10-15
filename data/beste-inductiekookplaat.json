@@ -16,7 +16,7 @@
   "updated": "2026-10-14",
   "reviews_total": "7.400",
   "intro": "Steeds meer Nederlanders stappen over van gas naar inductie en dat is begrijpelijk: inductie is sneller, zuiniger, veiliger en makkelijker schoon te maken. Wij vergeleken 40 inductiekookplaten op vermogen, flexzones, bediening, aansluitwaarde, geluid en wat gebruikers na maanden koken melden. Hieronder vind je tien kookplaten van 60 en 80 cm, van een degelijke instapper voor een paar honderd euro tot een kookplaat met ingebouwde afzuiging die je hele afzuigkap overbodig maakt.",
-  "verdict": "De Bosch Serie 8 PXE675DC1E is de beste inductiekookplaat van 2026: flexzones, PerfectFry-sensor en een heldere bediening maken koken voorspelbaar. De Bosch Serie 4 PUE611BB5E is de beste prijs-kwaliteit voor wie gewoon betrouwbaar wil koken. Wie een afzuigkap wil laten vervallen kiest de BORA Pure PURSU, de beste premium kookplaat met afzuiging in het midden.",
+  "verdict": "De Bosch Serie 8 PXE675DC1E is de beste inductiekookplaat van 2026: flexzones, PerfectFry-sensor en een heldere bediening maken koken voorspelbaar. De Bosch Serie 4 PUE611BB5E is de beste prijs-kwaliteit voor wie gewoon betrouwbaar wil koken. Wie een afzuigkap wil laten vervallen kiest de Siemens iQ700 EX877NX68E, de beste premium kookplaat met afzuiging in het midden.",
   "products": [
     {
       "brand": "Bosch",
@@ -53,31 +53,37 @@
     },
     {
       "brand": "Siemens",
-      "name": "iQ700 EX875LYC1E",
-      "price": 1199.0,
+      "name": "iQ700 EX875HVC1E",
+      "price": 1086.0,
       "score": 9.0,
       "label": null,
-      "reviews": "500+ reviews",
-      "oneliner": "Brede flexInductie van 80 cm voor veel pannen tegelijk.",
+      "reviews": "5,0/5 op bol",
+      "oneliner": "Brede Siemens met flexzones en koppeling met de afzuigkap.",
       "specs": {
         "Breedte": "80 cm",
-        "Zones": "5 (2 flex)",
-        "Max. vermogen": "7.400 W",
-        "Bediening": "touchSlider",
+        "Zones": "4 (2 flex)",
+        "Max. vermogen": "7,4 kW",
+        "Bediening": "Slider",
         "Afzuiging": "Nee"
       },
       "pros": [
-        "Ruimte voor vijf pannen tegelijk",
-        "flexInductie aan beide zijden",
-        "fryingSensor Plus met vijf standen",
-        "powerMove verdeelt kookstanden over de zone"
+        "80 cm breed met ruimte voor vier grote pannen",
+        "Flexzones voor grillplaat of braadslede",
+        "Koppeling met een geschikte Siemens-afzuigkap",
+        "PowerBoost op alle zones"
       ],
       "cons": [
-        "Vraagt een werkblad met 80 cm uitsparing",
-        "Hoge prijs"
+        "Prijzig",
+        "Bediening vraagt even wennen",
+        "Home Connect-functies vragen een app"
       ],
-      "ideal": "Grote gezinnen en mensen die vaak voor gasten koken.",
-      "text": "Wie vaak met veel pannen tegelijk kookt, heeft aan 60 cm te weinig. De Siemens EX875LYC1E is 80 cm breed met vijf kookzones, waarvan de twee flexzones aan de zijkanten elk één grote zone vormen. Daardoor kun je een lange vispan of grillplaat kwijt zonder dat er ruimte verloren gaat.\n\nMet powerMove deel je een flexzone op in drie standen: voor koken, sudderen en warm houden. Je schuift de pan simpelweg naar voren of achteren om het vermogen te veranderen. De fryingSensor Plus houdt de pan op een vaste baktemperatuur, net als bij Bosch. De touchSlider-bediening is soepel en reageert snel. Gebruikers prijzen de ruimte en het gemak van powerMove, minpunten zijn de prijs en de uitsparing van 80 cm die niet in elk bestaand werkblad past. Wie een nieuwe keuken laat plaatsen haalt hier veel kookplezier uit."
+      "ideal": "Wie veel kookt met grote pannen en een Siemens-afzuigkap wil laten meedraaien.",
+      "text": "De Siemens iQ700 EX875HVC1E is een inductiekookplaat van 80 centimeter breed. Daardoor passen vier grote pannen naast elkaar zonder dat de handgrepen elkaar raken. Twee zones kun je samenvoegen tot een flexzone, handig voor een grillplaat of een langwerpige braadslede. Op bol krijgt hij gemiddeld een 5,0 van de 5.\n\nAlle zones hebben een PowerBoost die water extra snel aan de kook brengt. Met een geschikte Siemens-afzuigkap praat de kookplaat via Home Connect met de kap, zodat die automatisch aanslaat en de stand aanpast. De bediening werkt met een slider waarmee je per zone het vermogen kiest. Dat vraagt even wennen, maar werkt daarna snel. De prijs ligt hoog, al krijg je er een kookplaat voor terug die bij dagelijks gebruik jaren meegaat. Voor wie veel en groot kookt is dit een van de beste keuzes.",
+      "ean": "4242003935637",
+      "bol_title": "Siemens EX875HVC1E - Inductiekookplaat",
+      "url": "https://www.bol.com/nl/nl/p/siemens-ex875hvc1e-inductiekookplaat/9300000153494356/",
+      "image": "https://media.s-bol.com/xB826Dp7Or5P/yKq1Dz/550x360.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "AEG",
@@ -171,63 +177,80 @@
         "Ventilator hoorbaar bij hoog vermogen"
       ],
       "ideal": "Wie een flexzone wil voor minder dan 500 euro.",
-      "text": "Samsung is vooral bekend van televisies en koelkasten, maar de NZ64B5045GK is een serieuze inductiekookplaat in de middenklasse. Aan de linkerkant zit een Flex Zone die je als één grote of twee losse zones gebruikt. Zo kun je een grillplaat of ovale pan kwijt die op gewone zones niet past.\n\nDe slider-bediening reageert snel en de PowerBoost brengt een liter water in ongeveer twee minuten aan de kook. Via wifi koppel je de kookplaat met SmartThings en een Samsung-afzuigkap, al vinden de meeste gebruikers dat geen doorslaggevende functie. De koelventilator is bij hoge standen goed hoorbaar, een punt dat in reviews regelmatig terugkomt. Verder krijgt hij lof voor de prijs en de strakke uitstraling. Wie een flexzone wil maar geen 800 euro wil uitgeven, zit hier goed. Hij heeft wel twee groepen nodig."
+      "text": "Samsung is vooral bekend van televisies en koelkasten, maar de NZ64B5045GK is een serieuze inductiekookplaat in de middenklasse. Aan de linkerkant zit een Flex Zone die je als één grote of twee losse zones gebruikt. Zo kun je een grillplaat of ovale pan kwijt die op gewone zones niet past.\n\nDe slider-bediening reageert snel en de PowerBoost brengt een liter water in ongeveer twee minuten aan de kook. Via wifi koppel je de kookplaat met SmartThings en een Samsung-afzuigkap, al vinden de meeste gebruikers dat geen doorslaggevende functie. De koelventilator is bij hoge standen goed hoorbaar, een punt dat in reviews regelmatig terugkomt. Verder krijgt hij lof voor de prijs en de strakke uitstraling. Wie een flexzone wil maar geen 800 euro wil uitgeven, zit hier goed. Hij heeft wel twee groepen nodig.",
+      "ean": "8806094104714",
+      "bol_title": "inductie kookplaat 60cm 4 branders 7400w zwart - samsung - nz64b5045gk",
+      "url": "https://www.bol.com/nl/nl/p/samsung-nz64b5045gk-zwart-ingebouwd-60-cm-inductiekookplaat-zones-4-zone/9300000125224425/",
+      "image": "https://media.s-bol.com/nWA01574NqBD/qY1Rq0R/550x324.jpg",
+      "synced": "2026-10-15"
     },
     {
-      "brand": "Miele",
-      "name": "KM 7464 FL",
-      "price": 1299.0,
+      "brand": "Bosch",
+      "name": "Serie 8 PIV975DC1E",
+      "price": 745.0,
       "score": 8.9,
       "label": null,
-      "reviews": "300+ reviews",
-      "oneliner": "Miele-kwaliteit met PowerFlex-zones en sterke boost.",
+      "reviews": "5,0/5 op bol",
+      "oneliner": "Brede Bosch Serie 8 met PerfectFry en extra breed bedieningspaneel.",
       "specs": {
-        "Breedte": "60 cm",
-        "Zones": "4 (2 flex)",
-        "Max. vermogen": "7.300 W",
-        "Bediening": "SmartSelect",
+        "Breedte": "90 cm",
+        "Zones": "5 (2 flex)",
+        "Max. vermogen": "7,4 kW",
+        "Bediening": "DirectSelect",
         "Afzuiging": "Nee"
       },
       "pros": [
-        "PowerFlex-zones tot 7,3 kW gecombineerd",
-        "Ontworpen op 20 jaar gebruik",
-        "Con@ctivity koppelt met de afzuigkap",
-        "Vlakbouw-montage mogelijk"
+        "Breed bedieningspaneel met directe keuze per zone",
+        "PerfectFry-sensor houdt de pan op temperatuur",
+        "Flexzones voor grote pannen",
+        "Volle score van kopers op bol"
       ],
       "cons": [
-        "Zeer hoge prijs voor 60 cm",
-        "Bediening vraagt even wennen"
+        "Breedte vraagt een groot werkblad",
+        "Prijzig",
+        "Meeste meerwaarde als je de sensorfuncties gebruikt"
       ],
-      "ideal": "Wie wil investeren in een kookplaat voor de komende twintig jaar.",
-      "text": "Miele staat bekend om duurzaamheid en de KM 7464 FL past in dat beeld. De fabrikant ontwerpt zijn kookplaten op een levensduur van twintig jaar. Je betaalt daarvoor wel een stevige prijs. De twee PowerFlex-zones zijn elk te combineren tot één grote zone en hebben een zeer krachtige boost, waarmee water sneller kookt dan bij de meeste concurrenten.\n\nDe SmartSelect-bediening heeft een aparte cijferreeks per zone, wat na een week wennen snel werkt. Met Con@ctivity regelt de kookplaat automatisch een Miele-afzuigkap. De FL-uitvoering kun je ook vlak in het werkblad laten inbouwen voor een naadloze look. Gebruikers prijzen de kracht en de afwerking. Meerdere reviews noemen een eerdere Miele die vijftien jaar of langer meeging. De prijs is het grootste bezwaar. Wie lang vooruit kijkt en kwaliteit belangrijk vindt, maakt hier een goede investering."
+      "ideal": "Wie een royale kookplaat wil met slimme sensoren voor bakken en braden.",
+      "text": "De Bosch Serie 8 PIV975DC1E is een royale inductiekookplaat met een extra breed bedieningspaneel. Je kiest per zone direct het vermogen zonder eerst een zone te selecteren. De PerfectFry-sensor meet de temperatuur van de koekenpan en houdt die stabiel, zodat een biefstuk niet aanbrandt en pannenkoeken gelijkmatig bakken. Op bol krijgt hij gemiddeld een 5,0 van de 5.\n\nDankzij flexzones kun je twee zones samenvoegen voor een grillplaat of braadslede. Alle zones hebben een PowerBoost. Het formaat vraagt een werkblad met voldoende ruimte, dus meet vooraf goed op. De prijs ligt hoger dan bij de Serie 4 in deze lijst, maar je krijgt er meer ruimte en slimmere functies voor terug. Gebruik je de sensoren niet, dan is een eenvoudiger model ook prima. Voor wie dagelijks bakt en braadt is dit een sterke keuze.",
+      "ean": "4242002838854",
+      "bol_title": "Bosch PIV975DC1E - Serie 8 - Inbouw Inductiekookplaat - Extra breed bedieningspaneel - PerfectFry voor perfecte resultaat - Tot 35% meer vermogen met Power Boost",
+      "url": "https://www.bol.com/nl/nl/p/bosch-piv975dc1e-serie-8-inbouw-inductiekookplaat/9200000051058966/",
+      "image": "https://media.s-bol.com/gKJXm1ozlNqr/98mkl5P/550x328.jpg",
+      "synced": "2026-10-15"
     },
     {
-      "brand": "BORA",
-      "name": "Pure PURSU",
-      "price": 2699.0,
+      "brand": "Siemens",
+      "name": "iQ700 EX877NX68E",
+      "price": 2099.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "200+ reviews",
-      "oneliner": "Kookplaat met afzuiging in het midden, geen afzuigkap meer nodig.",
+      "reviews": "Beoordeeld op bol",
+      "oneliner": "Kookplaat met ingebouwde afzuiging, zodat een afzuigkap overbodig wordt.",
       "specs": {
-        "Breedte": "60 cm",
-        "Zones": "4",
-        "Max. vermogen": "7.360 W",
-        "Bediening": "sControl",
-        "Afzuiging": "Ja, recirculatie"
+        "Breedte": "80 cm",
+        "Zones": "4 (2 flex)",
+        "Max. vermogen": "7,4 kW",
+        "Bediening": "Slider",
+        "Afzuiging": "Ja, geïntegreerd"
       },
       "pros": [
-        "Afzuiging direct bij de pan, geen kap nodig",
-        "Zeer effectief tegen kookgeur en damp",
-        "Automatische afzuigstand",
-        "Fraaie, rustige uitstraling"
+        "Afzuiging in het midden van de kookplaat, geen kap nodig",
+        "Automatische afzuigstand op basis van de kookactiviteit",
+        "Flexzones voor grote pannen",
+        "Strak uiterlijk zonder kap boven het eiland"
       ],
       "cons": [
-        "Hoge prijs inclusief installatie",
-        "Filter regelmatig vervangen bij recirculatie"
+        "Hoge prijs",
+        "Inbouw vraagt ruimte onder het werkblad",
+        "Filters moet je bij recirculatie periodiek vervangen"
       ],
-      "ideal": "Wie een open keuken wil zonder zichtbare afzuigkap.",
-      "text": "BORA is de bedenker van de kookplaat met afzuiging en de Pure is hun meest compacte model. In het midden van de 60 cm brede kookplaat zit een ronde afzuigopening die damp en kookgeur direct bij de pan wegtrekt, voordat die je keuken in komt. Een afzuigkap boven het fornuis is daardoor overbodig.\n\nDe PURSU werkt met recirculatie via een koolfilter in het onderkastje, dus je hebt geen afvoer naar buiten nodig. In de automatische stand past de afzuiging zich aan het kookvermogen aan. De vier zones hebben elk een boost en de sControl-bediening is overzichtelijk. Gebruikers zijn verrast hoe effectief de afzuiging is, ook bij hoge pannen. Minpunten zijn de prijs, het verlies aan ruimte in het onderkastje en het koolfilter dat je elk jaar vervangt. Voor een open keuken met kookeiland is dit de meest elegante oplossing."
+      "ideal": "Wie een kookeiland heeft of geen afzuigkap boven het fornuis wil.",
+      "text": "De Siemens iQ700 EX877NX68E combineert een inductiekookplaat van 80 centimeter met een afzuiging in het midden. Kookdampen worden direct bij de pan naar beneden gezogen, zodat je geen afzuigkap boven het fornuis nodig hebt. Dat is vooral prettig bij een kookeiland of een open keuken waar je vrij zicht wilt houden.\n\nDe afzuiging kan automatisch werken: de kookplaat stemt de stand af op wat er gebeurt op de zones. Twee flexzones bieden ruimte voor een grillplaat of braadslede en alle zones hebben PowerBoost. Bij installatie heb je ruimte nodig in het onderkastje voor de motor en het kanaal. Kies je voor recirculatie, dan vervang je de geurfilters periodiek. De prijs is hoog, maar je bespaart op een losse afzuigkap van goede kwaliteit. Voor wie de keuken als pronkstuk ziet is dit de premium keuze in deze lijst.",
+      "ean": "4242003921463",
+      "bol_title": "Siemens EX877NX68E - Inductiekookplaat - Zwart - 80 cm - 4 kookzone(s) - Met inbouw afzuigkap",
+      "url": "https://www.bol.com/nl/nl/p/siemens-ex877nx68e-zwart-ingebouwd-80-cm-inductiekookplaat-zones-glaskeramiek-4-zone/9300000147708944/",
+      "image": "https://media.s-bol.com/BG2Z5pw6ZnRJ/W6pMP9g/550x354.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "AEG",
@@ -297,31 +320,37 @@
     },
     {
       "brand": "Bosch",
-      "name": "Serie 4 PIF651FB1E",
+      "name": "Serie 4 PIE61RBB5E",
       "price": 399.0,
       "score": 8.2,
       "label": null,
-      "reviews": "1.300+ reviews",
-      "oneliner": "Bosch Serie 4 met afgeschuinde rand en snelle bediening.",
+      "reviews": "5,0/5 op bol",
+      "oneliner": "Degelijke 60 cm Bosch met PowerBoost voor een gemiddeld budget.",
       "specs": {
         "Breedte": "60 cm",
         "Zones": "4",
-        "Max. vermogen": "7.400 W",
-        "Bediening": "DirectSelect",
+        "Max. vermogen": "7,4 kW",
+        "Bediening": "Touch",
         "Afzuiging": "Nee"
       },
       "pros": [
-        "Directe vermogenskeuze zonder plus en min",
-        "Grote zone van 28 cm voor grote pannen",
-        "QuickStart herkent waar de pan staat",
-        "ReStart onthoudt instellingen na per ongeluk uitzetten"
+        "PowerBoost voor snel aan de kook brengen",
+        "Standaardmaat van 60 cm past in vrijwel elke keuken",
+        "Kinderslot en restwarmte-indicatie",
+        "Hoge waardering van kopers"
       ],
       "cons": [
-        "Geen flexzones",
-        "Heeft twee groepen nodig"
+        "Geen flexzone",
+        "Touchbediening minder snel dan een slider",
+        "Geen koppeling met de afzuigkap"
       ],
-      "ideal": "Wie Bosch-betrouwbaarheid wil met een snellere bediening dan het instapmodel.",
-      "text": "De PIF651FB1E is een stap boven de PUE611BB5E en vooral de bediening maakt het verschil. Met DirectSelect tik je direct het gewenste vermogen aan op een cijferbalk, zonder herhaaldelijk op plus en min te drukken. Dat werkt merkbaar sneller tijdens het koken.\n\nDe kookplaat heeft een grote zone van 28 cm voor een wok of soeppan en drie kleinere zones. QuickStart herkent bij het aanzetten op welke zone de pan staat. ReStart is handig als je per ongeluk de kookplaat uitzet: binnen vier seconden zet je hem aan met dezelfde instellingen. Het maximale vermogen van 7.400 watt vraagt twee groepen in de meterkast. Gebruikers waarderen de bediening en de bekende Bosch-betrouwbaarheid, kritiek gaat over het ontbreken van flexzones. Kook je meestal met ronde pannen, dan heb je die ook niet nodig."
+      "ideal": "Wie een betrouwbare inductiekookplaat van standaardformaat wil zonder extra functies.",
+      "text": "De Bosch Serie 4 PIE61RBB5E is een inductiekookplaat van 60 centimeter, de maat die in vrijwel elke Nederlandse keuken past. Hij heeft vier zones met PowerBoost, zodat een pan water snel aan de kook is. Kinderslot, timer en restwarmte-indicatie horen er standaard bij. Op bol krijgt hij gemiddeld een 5,0 van de 5.\n\nDe bediening werkt met touchtoetsen. Dat is minder vlot dan de sliders van duurdere modellen, maar na een paar keer kook je er zonder nadenken mee. Een flexzone ontbreekt, dus een grillplaat over twee zones gaat minder goed. Ook een koppeling met de afzuigkap zit er niet op. Daar staat een scherpe prijs tegenover voor een kookplaat van een betrouwbaar merk. Voor wie overstapt van gas en gewoon goed wil koken, is dit een nuchtere en degelijke keuze.",
+      "ean": "4242005289356",
+      "bol_title": "Bosch PIE61RBB5E - Serie 4 - Inbouw Inductiekookplaat - Sneller koken met PowerBoost",
+      "url": "https://www.bol.com/nl/nl/p/bosch-pie61rbb5e-inductiekookplaat/9300000075240316/",
+      "image": "https://media.s-bol.com/xLk3L17KEM2r/Og8O6jp/550x484.jpg",
+      "synced": "2026-10-15"
     }
   ],
   "guide": [

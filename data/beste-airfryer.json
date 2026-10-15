@@ -16,7 +16,7 @@
   "updated": "2026-10-13",
   "reviews_total": "21.600",
   "intro": "Een airfryer staat in meer dan de helft van de Nederlandse keukens en de keuze is in 2026 groter dan ooit. Wij vergeleken 42 modellen op inhoud, vermogen, gelijkmatigheid van bakken, bediening, geluid en wat tienduizenden gebruikers na maanden gebruik melden. Het resultaat zijn tien airfryers die echt het verschil maken, van een compacte lade voor één of twee personen tot een dubbele airfryer waarmee je een compleet gezinsmaal in één keer klaarmaakt.",
-  "verdict": "De Philips Airfryer 5000 Series XXL Connected is de beste airfryer van 2026: hij bakt het gelijkmatigst, is zuinig in stroom en de app met honderden recepten werkt echt. De Cosori Dual Blaze is de beste prijs-kwaliteit omdat je nooit hoeft te schudden dankzij verwarming van boven en onder. Wie het gezin in één keer wil bedienen kiest de Ninja FlexDrawer, de beste premium airfryer met 10,4 liter.",
+  "verdict": "De Philips Airfryer 5000 Series XXL Connected is de beste airfryer van 2026: hij bakt het gelijkmatigst, is zuinig in stroom en de app met honderden recepten werkt echt. De Cosori TurboBlaze is de beste prijs-kwaliteit dankzij een snelle DC-motor en een ruime mand van 6 liter. Wie het gezin in één keer wil bedienen kiest de Ninja FlexDrawer, de beste premium airfryer met 10,4 liter.",
   "products": [
     {
       "brand": "Philips",
@@ -54,32 +54,37 @@
     },
     {
       "brand": "Cosori",
-      "name": "Dual Blaze 6,4 l CAF-P583S",
-      "price": 139,
+      "name": "TurboBlaze 6 l",
+      "price": 139.98,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "3.200+ reviews",
-      "oneliner": "Verwarming van boven en onder, dus nooit meer schudden.",
+      "reviews": "4,5/5 op bol",
+      "oneliner": "Snelle airfryer met DC-motor en een ruime mand voor een scherpe prijs.",
       "specs": {
-        "Inhoud": "6,4 l",
-        "Vermogen": "1.700 W",
+        "Inhoud": "6 l",
+        "Vermogen": "1.725 W",
         "Zones": "1",
-        "App": "Ja, VeSync",
+        "App": "Nee",
         "Vaatwasser": "Ja"
       },
       "pros": [
-        "Twee verwarmingselementen, boven en onder, bakken zonder omkeren",
-        "Vierkante mand van 6,4 liter benut de ruimte beter dan een ronde",
-        "Twaalf voorgeprogrammeerde functies plus app",
-        "Stiller dan de meeste concurrenten"
+        "DC-motor met vijf ventilatorstanden voor snel en gelijkmatig bakken",
+        "Temperatuur instelbaar van 30 tot 230 graden",
+        "Negen programma's, ook voor drogen en ontdooien",
+        "Vierkante mand van 6 liter voor drie tot vijf personen"
       ],
       "cons": [
-        "Antiaanbaklaag van de mand slijt bij ruw gebruik",
-        "Verlichting in de mand ontbreekt",
-        "Het Amerikaanse merk heeft een kleiner servicenetwerk in Nederland"
+        "Geen kijkvenster",
+        "Geen app-bediening",
+        "Mand neemt veel aanrecht in beslag"
       ],
-      "ideal": "Wie geen zin heeft om halverwege te schudden en toch een grote mand wil voor een scherpe prijs.",
-      "text": "De Cosori Dual Blaze pakt het grootste ergernispunt van airfryers aan: het schudden halverwege. Dankzij een verwarmingselement boven én onder de mand wordt het eten van twee kanten gegaard. In reviews wordt dit bijna altijd als eerste genoemd: frietjes, kipdijen en groente komen er zonder omkeren gelijkmatig bruin uit. De vierkante mand van 6,4 liter past meer dan een ronde van dezelfde inhoud, genoeg voor vier personen.\n\nDe bediening bestaat uit een aanraakscherm met twaalf programma's en een VeSync-app waarmee je recepten naar de airfryer stuurt. Met 1.700 watt is hij iets minder krachtig dan de Philips, maar doordat beide elementen samenwerken is de baktijd vergelijkbaar. Het geluidsniveau valt op: gebruikers noemen hem opvallend stil. Kritiek is er op de antiaanbaklaag, die bij gebruik van metalen gereedschap sneller slijt. Met zachte spatels en de vaatwasser gaat hij jaren mee."
+      "ideal": "Wie veel airfryer wil voor rond de 140 euro en snel krokant resultaat belangrijk vindt.",
+      "text": "De Cosori TurboBlaze draait om snelheid. Een DC-motor stuurt de ventilator in vijf standen aan, zodat de hete lucht krachtiger en gelijkmatiger door de mand gaat dan bij veel airfryers in deze prijsklasse. Op bol krijgt hij gemiddeld een 4,5 van de 5 en kopers noemen vooral de krokante friet en de korte baktijden. De vierkante mand van 6 liter benut de ruimte goed en is groot genoeg voor drie tot vijf personen.\n\nHet temperatuurbereik loopt van 30 tot 230 graden. Daardoor kun je er ook deeg mee laten rijzen of fruit drogen. Negen programma's maken de bediening eenvoudig. Een kijkvenster en app ontbreken, dus je trekt de mand open om te kijken. De mand en het rooster gaan in de vaatwasser. Voor het geld is dit een van de krachtigste enkele airfryers die je kunt kopen, daarom krijgt hij hier het label beste prijs-kwaliteit.",
+      "ean": "0810123671519",
+      "bol_title": "Cosori TurboBlaze – Airfryer XXL – 6L – 9 Programma’s – 30–230°C – Snelle DC Motor",
+      "url": "https://www.bol.com/nl/nl/p/cosori-turboblaze-airfryer-xl-heteluchtfriteuse-6-liter-9-programma-s-inclusief-spiezenrek-en-5-spiesjes-rose-goud-zwart/9300000172496745/",
+      "image": "https://media.s-bol.com/ZnRXyNz0XxLR/BBPnLwn/550x675.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Ninja",
@@ -118,7 +123,7 @@
     {
       "brand": "Ninja",
       "name": "Foodi Dual Zone AF400EU",
-      "price": 219,
+      "price": 204.99,
       "score": 8.9,
       "label": null,
       "reviews": "5.600+ reviews",
@@ -142,7 +147,12 @@
         "Geen app en geen raampje"
       ],
       "ideal": "Gezinnen die vaak twee verschillende gerechten tegelijk bereiden, zoals friet en snacks.",
-      "text": "De Ninja Dual Zone is al jaren de populairste dubbele airfryer in Nederland en de AF400 is de grootste versie met 9,5 liter in totaal. Twee lades van 4,75 liter bak je volledig onafhankelijk: links frietjes op 200 graden, rechts vis op 180 graden. Met Sync zijn beide tegelijk klaar, met Match kopieer je de instellingen voor een dubbele portie van hetzelfde gerecht.\n\nIn ruim 5.600 reviews is de rode draad dat kinderen en ouders eindelijk tegelijk kunnen eten zonder dat iets koud wordt. Het vermogen van 2.470 watt zorgt voor korte voorverwarmtijden en gelijkmatig krokante resultaten. De bakplaten gaan in de vaatwasser en komen daar volgens gebruikers echt schoon uit. Nadeel ten opzichte van de FlexDrawer is dat een hele kip of grote pizza niet past. Wie dat niet nodig heeft, bespaart hier een flink bedrag voor dezelfde bakkwaliteit."
+      "text": "De Ninja Dual Zone is al jaren de populairste dubbele airfryer in Nederland en de AF400 is de grootste versie met 9,5 liter in totaal. Twee lades van 4,75 liter bak je volledig onafhankelijk: links frietjes op 200 graden, rechts vis op 180 graden. Met Sync zijn beide tegelijk klaar, met Match kopieer je de instellingen voor een dubbele portie van hetzelfde gerecht.\n\nIn ruim 5.600 reviews is de rode draad dat kinderen en ouders eindelijk tegelijk kunnen eten zonder dat iets koud wordt. Het vermogen van 2.470 watt zorgt voor korte voorverwarmtijden en gelijkmatig krokante resultaten. De bakplaten gaan in de vaatwasser en komen daar volgens gebruikers echt schoon uit. Nadeel ten opzichte van de FlexDrawer is dat een hele kip of grote pizza niet past. Wie dat niet nodig heeft, bespaart hier een flink bedrag voor dezelfde bakkwaliteit.",
+      "ean": "0622356245272",
+      "bol_title": "Ninja Dubbele Airfryer XXL - 9.5 Liter - 2020 Model - Dual Zone Technologie - AF400EU",
+      "url": "https://www.bol.com/nl/nl/p/ninja-foodi-af400eu-dubbele-airfryer-xxl-twee-kookvakken-9-5-liter-2470-watt-dual-zone-technologie/9300000052159783/",
+      "image": "https://media.s-bol.com/NnM1wyO2QpOz/8QxQjW/550x455.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Tefal",
@@ -180,32 +190,37 @@
     },
     {
       "brand": "Philips",
-      "name": "Airfryer 3000 Series L HD9252/70",
-      "price": 109,
+      "name": "3000 Series Airfryer NA321/00",
+      "price": 108.89,
       "score": 8.5,
       "label": null,
-      "reviews": "6.100+ reviews",
-      "oneliner": "Compacte Philips voor één tot drie personen, zonder toeters en bellen.",
+      "reviews": "4,7/5 op bol",
+      "oneliner": "Compacte Philips met kijkvenster voor één tot vier personen.",
       "specs": {
-        "Inhoud": "4,1 l",
-        "Vermogen": "1.400 W",
+        "Inhoud": "4,2 l",
+        "Vermogen": "1.500 W",
         "Zones": "1",
         "App": "Nee",
         "Vaatwasser": "Ja"
       },
       "pros": [
-        "Dezelfde Rapid Air-techniek als de duurdere Philips-modellen",
+        "Kijkvenster zodat je de mand niet hoeft te openen",
+        "RapidAir Plus-techniek van Philips",
         "Compact genoeg voor een kleine keuken",
-        "Zeven programma's met aanraakbediening",
-        "Zuinig: 1.400 watt"
+        "Hoge waardering van kopers op bol"
       ],
       "cons": [
-        "Te klein voor een gezin met opgroeiende kinderen",
-        "Geen raampje",
-        "Schudden blijft nodig voor een gelijkmatig resultaat"
+        "Te klein voor grote gezinnen",
+        "Geen app",
+        "Schudden blijft nodig bij grote porties"
       ],
-      "ideal": "Alleenstaanden, stellen en kleine huishoudens die een betrouwbare airfryer willen zonder veel ruimte op te offeren.",
-      "text": "Niet iedereen heeft een XXL nodig. De Philips 3000 Series L heeft een mand van 4,1 liter, goed voor circa 800 gram friet. Dat is voor één tot drie personen ruim voldoende. Hij gebruikt dezelfde Rapid Air-technologie als de grote broers, zodat de bakkwaliteit vergelijkbaar is. De meer dan 6.000 reviews zijn overwegend lovend over de eenvoud: zeven programma's op een aanraakscherm, klaar.\n\nMet 1.400 watt is het verbruik laag en past hij in elke kleine keuken, ook op een studentenkamer of in een camper. Nadeel van de kleine mand is dat je het eten vaker moet schudden en dat een hele kip er niet in gaat. Alle losse delen gaan in de vaatwasser. Gebruikers noemen hem degelijk en stil. Wil je een merkairfryer die jaren meegaat zonder veel geld uit te geven, dan is dit de beste compacte keuze."
+      "ideal": "Alleenstaanden, stellen en kleine huishoudens die een betrouwbare merkairfryer willen zonder veel ruimte op te offeren.",
+      "text": "Niet iedereen heeft een XXL nodig. De Philips 3000 Series NA321/00 heeft een mand van 4,2 liter, genoeg voor één tot vier personen. Hij gebruikt RapidAir Plus, de luchtcirculatie van Philips die ook in de duurdere modellen zit. Een fijne extra in deze prijsklasse is het kijkvenster: je ziet hoe bruin de friet is zonder de mand open te trekken en warmte te verliezen. Op bol scoort hij gemiddeld een 4,7 van de 5.\n\nDe bediening is eenvoudig met een paar vaste programma's en een draai- of tiptoets voor tijd en temperatuur. Door het bescheiden vermogen is het verbruik laag en past hij ook in een kleine keuken of studentenkamer. Een hele kip of een gezinsportie friet gaat er niet in één keer in. De mand en het rooster mogen in de vaatwasser. Wil je een merkairfryer die jaren meegaat zonder veel geld uit te geven, dan is dit de beste compacte keuze.",
+      "ean": "8720389034671",
+      "bol_title": "Philips 3000 Series Airfryer - NA321/00 - Kijkvenster - RapidAir Plus - 4.2L - Tot 4 Personen - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/philips-3000-series-na321-00-heteluchtfriteuse-4-2-l-kijkvenster/9300000186182162/",
+      "image": "https://media.s-bol.com/gjJMlnzmX5R9/VODXp11/550x679.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Instant",
@@ -311,32 +326,37 @@
     },
     {
       "brand": "Tefal",
-      "name": "Easy Fry Grill & Steam FW2018",
-      "price": 199,
+      "name": "Easy Fry Multifunction FW556D",
+      "price": 202.37,
       "score": 8.3,
       "label": null,
-      "reviews": "860+ reviews",
-      "oneliner": "Airfryer die ook stoomt en grilt, voor wie meer wil dan friet.",
+      "reviews": "4,6/5 op bol",
+      "oneliner": "Airfryer en hetelucht-oven van 15 liter in één, met rotisserie.",
       "specs": {
-        "Inhoud": "6,5 l",
-        "Vermogen": "1.700 W",
+        "Inhoud": "15 l",
+        "Vermogen": "2.000 W",
         "Zones": "1",
         "App": "Nee",
-        "Vaatwasser": "Ja"
+        "Vaatwasser": "Deels"
       },
       "pros": [
-        "Stoomfunctie voor vis, groente en dim sum",
-        "Grillplaat met echte grillstrepen",
-        "Combinatiestand stoomt eerst en bakt daarna krokant",
-        "Tien programma's met raampje"
+        "Ovenruimte van 15 liter met meerdere niveaus",
+        "Rotisseriespit voor een hele kip",
+        "Negen programma's",
+        "Glazen deur zodat je alles ziet"
       ],
       "cons": [
-        "Waterreservoir moet je apart vullen en legen",
-        "Duurder dan een gewone airfryer van 6,5 liter",
-        "Groter apparaat door het stoomgedeelte"
+        "Neemt veel ruimte in op het aanrecht",
+        "Schoonmaken van de binnenkant kost meer tijd dan een mand",
+        "Duurder dan een gewone airfryer"
       ],
-      "ideal": "Wie de airfryer als complete kooktoestel wil gebruiken, inclusief gestoomde groente en gegrild vlees.",
-      "text": "De meeste airfryers doen één ding: hete lucht rondblazen. De Tefal Easy Fry Grill & Steam voegt daar stoom en grillen aan toe. Een waterreservoir aan de achterkant voedt een stoomgenerator, waardoor je broccoli, zalm of dumplings zacht gaart zonder dat ze uitdrogen. De grillplaat van gietaluminium geeft echte grillstrepen op kipfilet of courgette. De combinatiestand stoomt eerst en bakt daarna krokant af, wat volgens gebruikers vooral bij kip verrassend sappig uitpakt.\n\nMet 6,5 liter is de inhoud ruim en het raampje toont de voortgang. Tien programma's maken de bediening eenvoudig. Nadelen zijn het reservoir dat je na gebruik moet legen, de hogere prijs en de afmetingen. Reviews zijn positief over de veelzijdigheid en het feit dat het stoomgedeelte ook echt gebruikt wordt, anders dan bij sommige combinatieapparaten. Voor wie gezonder wil koken dan alleen frituren met lucht, is dit het meest complete apparaat in de lijst."
+      "ideal": "Wie de airfryer als complete oven wil gebruiken, inclusief kip aan het spit en meerdere lagen tegelijk.",
+      "text": "De meeste airfryers werken met een lade. De Tefal Easy Fry Multifunction is opgebouwd als een kleine oven van 15 liter met een glazen deur. Daardoor kun je op meerdere roosters tegelijk bakken, bijvoorbeeld kipdijen boven en groente onder. Met het meegeleverde rotisseriespit draai je een hele kip rond, iets wat in een gewone airfryer niet lukt. Op bol krijgt hij gemiddeld een 4,6 van de 5.\n\nNegen programma's en 2.000 watt maken hem geschikt voor meer dan friet: pizza, gebak en drogen behoren ook tot de mogelijkheden. De keerzijde is het formaat. Je hebt een flink stuk aanrecht nodig en de binnenkant reinigen is meer werk dan een mand in de vaatwasser zetten. Voor wie de airfryer als vervanger van de grote oven wil inzetten, is dit het meest veelzijdige apparaat in de lijst.",
+      "ean": "3045380027862",
+      "bol_title": "Tefal Easy Fry Multifunction FW556D - Airfryer & Oven 15L - 2000W - 9 Programma's - Rotisserie - RVS",
+      "url": "https://www.bol.com/nl/nl/p/tefal-easy-fry-multifunction-fw556d-airfryer-en-oven-15l/9300000225502203/",
+      "image": "https://media.s-bol.com/JMnq3lQNyxw2/YE9Pnxp/550x534.jpg",
+      "synced": "2026-10-15"
     }
   ],
   "guide": [
@@ -354,7 +374,7 @@
     },
     {
       "h": "Schudden of niet?",
-      "p": "Bij de meeste airfryers zit het verwarmingselement bovenin en moet je halverwege schudden voor een gelijkmatig resultaat. Modellen met een tweede element onderin, zoals de Cosori Dual Blaze, maken dat overbodig. Ook een goed ontworpen luchtstroom, zoals de Rapid Air van Philips, helpt. Lees reviews op dit punt: het is het verschil tussen een apparaat dat je elke dag gebruikt en een dat in de kast verdwijnt."
+      "p": "Bij de meeste airfryers zit het verwarmingselement bovenin en moet je halverwege schudden voor een gelijkmatig resultaat. Modellen met een tweede element onderin maken dat overbodig. Ook een goed ontworpen luchtstroom, zoals de Rapid Air van Philips, helpt. Lees reviews op dit punt: het is het verschil tussen een apparaat dat je elke dag gebruikt en een dat in de kast verdwijnt."
     },
     {
       "h": "Schoonmaken en levensduur",
@@ -368,11 +388,11 @@
   "faq": [
     {
       "q": "Wat is de beste airfryer van 2026?",
-      "a": "Op basis van onze vergelijking is de Philips Airfryer 5000 Series XXL Connected de beste airfryer van 2026, dankzij de gelijkmatigste bakresultaten, een grote mand van 7,2 liter en een app die echt iets toevoegt. Zoek je de beste prijs-kwaliteit, kijk dan naar de Cosori Dual Blaze."
+      "a": "Op basis van onze vergelijking is de Philips Airfryer 5000 Series XXL Connected de beste airfryer van 2026, dankzij de gelijkmatigste bakresultaten, een grote mand van 7,2 liter en een app die echt iets toevoegt. Zoek je de beste prijs-kwaliteit, kijk dan naar de Cosori TurboBlaze."
     },
     {
       "q": "Welke airfryer is het beste voor een gezin van vier?",
-      "a": "Voor vier personen wil je minimaal 5,5 liter. De Philips 5000 XXL, de Cosori Dual Blaze en de Ninja Dual Zone zijn alle drie ruim genoeg. Eet je vaak twee verschillende gerechten tegelijk, kies dan een dubbele lade."
+      "a": "Voor vier personen wil je minimaal 5,5 liter. De Philips 5000 XXL, de Cosori TurboBlaze en de Ninja Dual Zone zijn alle drie ruim genoeg. Eet je vaak twee verschillende gerechten tegelijk, kies dan een dubbele lade."
     },
     {
       "q": "Is een dubbele airfryer beter dan een enkele?",

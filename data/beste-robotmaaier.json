@@ -16,18 +16,18 @@
   "updated": "2026-10-14",
   "reviews_total": "9.400",
   "intro": "Een robotmaaier maait je gazon terwijl jij iets anders doet en houdt het gras elke dag even kort. In 2026 is de grootste verandering dat steeds meer modellen geen begrenzingsdraad meer nodig hebben: ze navigeren met RTK-gps, camera's of lidar. Wij vergeleken 36 robotmaaiers op maaioppervlak, navigatie, hellingshoek, geluid, app en wat duizenden gebruikers na een volledig seizoen melden. Hieronder vind je tien modellen met en zonder draad, van een compacte maaier voor een stadstuin tot een allrounder voor een grote kavel.",
-  "verdict": "De Segway Navimow i108E is de beste robotmaaier van 2026: geen draad, nette banen en een prijs die voor draadloos scherp is. De Gardena Sileno City 500 is de beste prijs-kwaliteit voor kleine tuinen tot 500 vierkante meter, betrouwbaar en fluisterstil. Wie een grote of heuvelachtige tuin heeft en het beste wil, kiest de Husqvarna Automower 405X als beste premium robotmaaier.",
+  "verdict": "De Segway Navimow i105E is de beste robotmaaier van 2026: geen draad, nette banen en een prijs die voor draadloos scherp is. De Gardena Sileno minimo 350 is de beste prijs-kwaliteit voor kleine tuinen tot 350 vierkante meter, betrouwbaar en fluisterstil. Wie een grote of heuvelachtige tuin heeft en het beste wil, kiest de Husqvarna Automower 405X als beste premium robotmaaier.",
   "products": [
     {
       "brand": "Segway",
-      "name": "Navimow i108E",
-      "price": 999,
+      "name": "Navimow i105E",
+      "price": 799.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "1.400+ reviews",
       "oneliner": "Draadloos maaien met RTK en camera voor een nette prijs.",
       "specs": {
-        "Max. oppervlak": "800 m²",
+        "Max. oppervlak": "500 m²",
         "Begrenzing": "Geen draad (RTK + camera)",
         "Helling": "45%",
         "Geluid": "58 dB",
@@ -36,15 +36,20 @@
       "pros": [
         "Geen begrenzingsdraad nodig, installatie binnen een uur",
         "Maait in rechte banen met strakke randen",
-        "VisionFence-camera ontwijkt obstakels en dieren",
-        "Gratis 4G-verbinding voor de eerste jaren"
+        "Camera ontwijkt obstakels en dieren",
+        "4G-verbinding voor bediening op afstand"
       ],
       "cons": [
         "RTK-antenne moet vrij zicht op de lucht hebben",
         "Onder dichte bomen soms positieverlies"
       ],
-      "ideal": "Tuinbezitters tot 800 m² die geen zin hebben in het ingraven van een draad.",
-      "text": "De Navimow i108E maakt draadloos maaien betaalbaar. Hij bepaalt zijn positie met een RTK-gps-antenne die je in de tuin plaatst, aangevuld met een camera die obstakels herkent. Je loopt de grens van je gazon één keer na met de app op je telefoon en de maaier onthoudt de kaart. Gebruikers melden dat de installatie in minder dan een uur klaar is, tegen een halve dag voor een maaier met draad.\n\nDe i108E maait in rechte banen, wat een strak streeppatroon oplevert en sneller werkt dan willekeurig rondrijden. Hij kan tot 800 vierkante meter aan en neemt hellingen tot 45 procent. De maaihoogte stel je in de app in tussen 20 en 60 millimeter. Het zwakke punt is de afhankelijkheid van satellietontvangst: onder grote bomen of tegen een hoge gevel verliest hij soms zijn positie, al vangt de camera dat volgens reviews meestal op. Voor een open tuin is dit de beste keuze."
+      "ideal": "Tuinbezitters tot 500 m² die geen zin hebben in het ingraven van een draad.",
+      "text": "De Navimow i105E maakt draadloos maaien betaalbaar. Hij bepaalt zijn positie met een RTK-gps-antenne die je in de tuin plaatst, aangevuld met een camera die obstakels herkent. Je loopt de grens van je gazon één keer na met de app op je telefoon en de maaier onthoudt de kaart. Gebruikers melden dat de installatie in minder dan een uur klaar is, tegen een halve dag voor een maaier met draad.\n\nDe i105E maait in rechte banen, wat een strak streeppatroon oplevert en sneller werkt dan willekeurig rondrijden. Hij kan tot 500 vierkante meter aan, precies de maat van veel Nederlandse tuinen. Hellingen tot 45 procent neemt hij zonder moeite. Het zwakke punt is de afhankelijkheid van satellietontvangst: onder grote bomen of tegen een hoge gevel verliest hij soms zijn positie, al vangt de camera dat volgens reviews meestal op. Voor een open tuin is dit de beste keuze.",
+      "ean": "8720254406855",
+      "bol_title": "Segway Navimow - i105E Robotmaaier - 500 m - Zonder Perimeterdraad - Automatisch grasmaaien - GPS RTK & AI - Bediening via App - Stil & Slim Maaien - 18 cm Maaibreedte - Virtuele zones - Object herkenning - Alexa en Google smarthome ondersteuning",
+      "url": "https://www.bol.com/nl/nl/p/segway-navimow-i105e-robotmaaier-500-m-zonder-perimeterdraad-gps-rtk-ai-bediening-via-app-stil-slim-maaien-18-cm-maaibreedte/9300000177752213/",
+      "image": "https://media.s-bol.com/RqA8W1ZzzpyR/gJr9WKD/550x434.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Husqvarna",
@@ -82,14 +87,14 @@
     },
     {
       "brand": "Gardena",
-      "name": "Sileno City 500",
-      "price": 449,
+      "name": "Sileno minimo 350",
+      "price": 459.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "2.600+ reviews",
-      "oneliner": "Compact, stil en betaalbaar voor de typische Nederlandse achtertuin.",
+      "reviews": "1.000+ reviews",
+      "oneliner": "Compact, stil en betaalbaar voor een kleine achtertuin.",
       "specs": {
-        "Max. oppervlak": "500 m²",
+        "Max. oppervlak": "350 m²",
         "Begrenzing": "Draad",
         "Helling": "25%",
         "Geluid": "57 dB",
@@ -105,19 +110,24 @@
         "Alleen bediening via Bluetooth, geen wifi",
         "Minder geschikt voor steile hellingen"
       ],
-      "ideal": "Eigenaren van een kleine tot middelgrote achtertuin die een betrouwbare instapper willen.",
-      "text": "De Gardena Sileno City is al jaren een van de bestverkochte robotmaaiers van Nederland en dat is logisch. Voor rond de 450 euro krijg je een maaier van een gevestigd merk die tot 500 vierkante meter aankan, compleet met begrenzingsdraad en haringen. Met 57 decibel is hij stiller dan een gesprek, zodat je hem ook 's avonds kunt laten rijden.\n\nDe maaier is gebouwd door hetzelfde concern als Husqvarna en deelt veel techniek. Hij maait willekeurig, maar door dagelijks te rijden ziet het gazon er volgens gebruikers egaal uit. Je bedient hem met de Bluetooth-app als je in de buurt bent; op afstand werkt hij niet. Hellingen tot 25 procent gaan prima, steilere taluds zijn te veel. Het leggen van de draad kost een middag, maar daarna draait hij seizoenen lang zonder omkijken. Voor een standaard rijtjestuin is dit de verstandigste koop."
+      "ideal": "Eigenaren van een kleine achtertuin die een betrouwbare instapper willen.",
+      "text": "De Gardena Sileno minimo is de instapper van een van de bekendste robotmaaiermerken van Nederland. Voor rond de 460 euro krijg je een maaier die tot 350 vierkante meter aankan, compleet met begrenzingsdraad en haringen. Met rond de 57 decibel is hij stiller dan een gesprek, zodat je hem ook 's avonds kunt laten rijden.\n\nGardena hoort bij hetzelfde concern als Husqvarna en deelt veel techniek. De maaier rijdt willekeurig, maar door dagelijks te maaien ziet het gazon er volgens gebruikers egaal uit. Je bedient hem met de Bluetooth-app als je in de buurt bent. Op afstand werkt dat niet. Hellingen tot 25 procent gaan prima, steilere taluds zijn te veel. Het leggen van de draad kost een middag, maar daarna draait hij seizoenen lang zonder omkijken. Voor een standaard rijtjestuin is dit de verstandigste koop.",
+      "ean": "4066407503946",
+      "bol_title": "GARDENA SILENO minimo 350 Robotmaaier - voor gazons tot ca. 350 m²",
+      "url": "https://www.bol.com/nl/nl/p/gardena-sileno-minimo-350-robotmaaier-voor-gazons-tot-ca-350-m/9300000236113421/",
+      "image": "https://media.s-bol.com/q4mBMpn5zY4r/Mj9pP6R/550x307.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Worx",
-      "name": "Landroid Vision M600 WR206E",
-      "price": 899,
+      "name": "Landroid Vision M800",
+      "price": 679.95,
       "score": 8.7,
       "label": null,
       "reviews": "1.100+ reviews",
       "oneliner": "Ziet met een camera waar het gras ophoudt, zonder draad of antenne.",
       "specs": {
-        "Max. oppervlak": "600 m²",
+        "Max. oppervlak": "800 m²",
         "Begrenzing": "Geen draad (camera)",
         "Helling": "30%",
         "Geluid": "63 dB",
@@ -125,16 +135,21 @@
       },
       "pros": [
         "Geen draad en geen RTK-antenne nodig",
-        "Uitpakken en binnen minuten maaien",
+        "Uitpakken en binnen korte tijd maaien",
         "Werkt ook onder bomen goed",
         "Hoekmaaien via Cut to Edge"
       ],
       "cons": [
-        "Herkent grens slecht bij grind dat op gras lijkt",
+        "Herkent de grens slecht bij grind dat op gras lijkt",
         "Rijdt niet in het donker"
       ],
       "ideal": "Tuinen met veel bomen waar gps-maaiers moeite hebben.",
-      "text": "De Landroid Vision werkt anders dan alle andere draadloze maaiers. Hij heeft geen satellietantenne nodig maar kijkt met een groothoekcamera naar de grond en herkent waar het gras ophoudt. Daardoor zet je hem neer en begint hij direct. Onder bomen en naast huizen, waar RTK-maaiers hun positie verliezen, werkt hij gewoon door.\n\nHet nadeel van deze aanpak is dat de grens duidelijk moet zijn. Een gazon dat overgaat in mos, grind of een border met laag groen verwart de maaier soms, waardoor gebruikers alsnog een paar plekken afschermen. Hij rijdt alleen bij daglicht en maait willekeurig, niet in banen. Met Cut to Edge maait hij tot vlak langs de rand, waardoor je minder hoeft na te knippen. De Vision M600 is daarmee de beste keuze voor een tuin met veel schaduw. Voor een open veld is een RTK-model preciezer."
+      "text": "De Landroid Vision werkt anders dan de meeste draadloze maaiers. Hij heeft geen satellietantenne nodig maar kijkt met een groothoekcamera naar de grond en herkent waar het gras ophoudt. Daardoor zet je hem neer en begint hij vrijwel direct. Onder bomen en naast huizen, waar RTK-maaiers hun positie verliezen, werkt hij gewoon door. De M800 kan tot 800 vierkante meter aan.\n\nHet nadeel van deze aanpak is dat de grens duidelijk moet zijn. Een gazon dat overgaat in mos, grind of een border met laag groen verwart de maaier soms, waardoor gebruikers alsnog een paar plekken afschermen. Hij rijdt alleen bij daglicht en maait willekeurig, niet in banen. Met Cut to Edge maait hij tot vlak langs de rand, waardoor je minder hoeft na te knippen. Voor een tuin met veel schaduw is dit de beste keuze. Voor een open veld is een RTK-model preciezer.",
+      "ean": "6925387185741",
+      "bol_title": "WORX 20V Landroid Vision M800 - Robotmaaier - Geschikt voor oppervlakte (max.) 800 m² - Inclusief laadstation",
+      "url": "https://www.bol.com/nl/nl/p/worx-20v-landroid-vision-m800-robotmaaier-geschikt-voor-oppervlakte-800-m-inclusief-laadstation/9300000189051515/",
+      "image": "https://media.s-bol.com/r101Z5LDrqr4/nZW34Kl/550x600.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Bosch",
@@ -171,64 +186,74 @@
     },
     {
       "brand": "Mammotion",
-      "name": "Yuka mini 800",
-      "price": 849,
+      "name": "Yuka mini 2 800R",
+      "price": 899.0,
       "score": 8.6,
       "label": null,
-      "reviews": "600+ reviews",
-      "oneliner": "Compacte draadloze maaier met RTK en vision, inclusief opvangbak.",
+      "reviews": "300+ reviews",
+      "oneliner": "Compacte draadloze maaier met drie camera's, zonder antenne.",
       "specs": {
         "Max. oppervlak": "800 m²",
-        "Begrenzing": "Geen draad (RTK + camera)",
+        "Begrenzing": "Geen draad (camera's)",
         "Helling": "50%",
         "Geluid": "60 dB",
         "App": "Ja, wifi en 4G"
       },
       "pros": [
-        "Opvangbak voor maaisel en bladeren",
+        "Werkt zonder RTK-antenne dankzij drie camera's",
         "Klimt tegen hellingen tot 50 procent",
-        "Combineert RTK met camera's",
+        "Maait in nette banen",
         "Meerdere zones in de app"
       ],
       "cons": [
-        "Opvangbak vaak legen in het groeiseizoen",
+        "Camera's hebben voldoende licht nodig",
         "Merk heeft in Nederland nog weinig servicepunten"
       ],
-      "ideal": "Wie een draadloze maaier zoekt die ook blad en maaisel opruimt.",
-      "text": "De Yuka mini is een opvallende nieuwkomer. Net als de Navimow navigeert hij met RTK en camera's, maar hij heeft als enige in deze lijst een opvangbak. Daardoor blijft er geen maaisel op het gazon liggen en ruimt hij in het najaar ook bladeren op. In reviews wordt dat vooral gewaardeerd door mensen met kinderen of honden die op het gras spelen.\n\nMet 50 procent hellingshoek is hij een van de beste klimmers. De app laat je meerdere gazons apart intekenen met eigen maaihoogte en schema. Het nadeel van de opvangbak is dat je hem in mei en juni om de paar dagen moet legen. Mammotion is een jong merk, waardoor reparaties via de webshop van de fabrikant verlopen en minder via lokale dealers. Wie dat accepteert, krijgt veel techniek voor een middenklasseprijs."
+      "ideal": "Wie een draadloze maaier wil zonder antenne in de tuin.",
+      "text": "De Yuka mini 2 is de nieuwe generatie van de compacte Mammotion-maaier. Waar de eerste versie een RTK-antenne nodig had, navigeert deze 800R met drie camera's en slimme beeldherkenning. Je zet dus geen paal met antenne in de tuin en hebt minder last van bomen of hoge gevels die het satellietsignaal blokkeren.\n\nMet hellingen tot 50 procent is hij een van de beste klimmers in deze lijst. Hij maait in rechte banen en in de app teken je meerdere gazons apart in met een eigen maaihoogte en schema. Omdat hij op camera's vertrouwt, heeft hij voldoende licht nodig om goed te werken. Mammotion is een jong merk, waardoor reparaties vooral via de fabrikant verlopen en minder via lokale dealers. Gebruikers zijn positief over de eenvoudige installatie. Wie dat accepteert, krijgt veel techniek voor een middenklasseprijs.",
+      "ean": "6978266640367",
+      "bol_title": "Mammotion Yuka mini 2 800R - Draadloze Robotmaaier Triple-camera AI-Vision - Werkt zonder antenne",
+      "url": "https://www.bol.com/nl/nl/p/mammotion-yuka-mini-2-800r-draadloze-robotmaaier-triple-camera-ai-vision-werkt-zonder-antenne/9300000262604304/",
+      "image": "https://media.s-bol.com/Jo2Np36RJWL9/Q1P0M5q/550x550.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Ecovacs",
-      "name": "GOAT A1600 RTK",
-      "price": 1299,
+      "name": "GOAT A1600 LiDAR PRO",
+      "price": 999.0,
       "score": 8.5,
       "label": null,
-      "reviews": "500+ reviews",
-      "oneliner": "Draadloze maaier voor grotere tuinen tot 1.600 vierkante meter.",
+      "reviews": "300+ reviews",
+      "oneliner": "Draadloze maaier met LiDAR voor grotere tuinen.",
       "specs": {
-        "Max. oppervlak": "1.600 m²",
-        "Begrenzing": "Geen draad (RTK + camera)",
+        "Max. oppervlak": "1.200 m²",
+        "Begrenzing": "Geen draad (LiDAR + camera)",
         "Helling": "50%",
         "Geluid": "60 dB",
         "App": "Ja, wifi en 4G"
       },
       "pros": [
-        "Groot bereik voor een draadloze maaier",
-        "Automatisch in kaart brengen zonder handmatig rondlopen",
-        "Breed maaimes voor snellere afwerking",
+        "LiDAR werkt zonder antenne, ook onder bomen",
+        "Brengt de tuin automatisch in kaart",
+        "Maait in banen",
         "Goede obstakelherkenning"
       ],
       "cons": [
         "App voelt minder volwassen dan die van Husqvarna",
         "Fors en zwaar om te verplaatsen"
       ],
-      "ideal": "Eigenaren van een grote, open tuin die draadloos willen maaien.",
-      "text": "Ecovacs is bekend van robotstofzuigers en past die kennis toe in de GOAT A1600. Hij brengt je tuin automatisch in kaart: je hoeft de grens niet zelf na te lopen, de maaier verkent het gazon met camera's en RTK-positie. Gebruikers melden dat dit bij eenvoudige tuinen goed werkt, maar dat je bij borders en vijvers soms handmatig moet bijsturen.\n\nMet een bereik van 1.600 vierkante meter is hij geschikt voor grotere kavels. Hij maait in banen en neemt hellingen tot 50 procent. De obstakelherkenning met camera en sensoren ziet speelgoed, tuinslangen en egels. De app werkt, maar mist volgens reviews nog wat verfijning, zoals het instellen van verboden zones met precieze randen. Voor wie een groot gazon heeft en geen kilometers draad wil ingraven, is dit een van de betaalbaarste opties."
+      "ideal": "Eigenaren van een grote tuin met bomen die draadloos willen maaien.",
+      "text": "Ecovacs is bekend van robotstofzuigers en past die kennis toe in de GOAT A1600 LiDAR PRO. In plaats van satellietontvangst gebruikt hij een draaiende LiDAR-sensor die de omgeving met laserlicht in kaart brengt, aangevuld met een camera. Daardoor heeft hij geen antenne nodig en blijft hij ook onder bomen en naast huizen goed op koers.\n\nJe hoeft de grens niet zelf na te lopen: de maaier verkent het gazon en stelt een kaart voor die je in de app aanpast. Gebruikers melden dat dit bij eenvoudige tuinen goed werkt, maar dat je bij borders en vijvers soms moet bijsturen. Met een bereik tot 1.200 vierkante meter is hij geschikt voor grotere kavels en hij neemt hellingen tot 50 procent. De app mist volgens reviews nog wat verfijning. Voor een groot gazon zonder draad is dit een sterke optie.",
+      "ean": "6970135038176",
+      "bol_title": "Ecovacs GOAT A1600 LiDAR PRO EU - Robotmaaier Zonder Begrenzingskabel - 1200 M² - 360° Dual-Lidar-Navigatie - Automatisch In Kaart Brengen - AI 3D-Obstakelvermijding - Maaien Van Randen Met TruEdge-Trimmer",
+      "url": "https://www.bol.com/nl/nl/p/ecovacs-goat-a1600-lidar-pro-eu-robotmaaier-zonder-begrenzingskabel-1200-m-360-dual-lidar-navigatie-automatisch-in-kaart-brengen-ai-3d-obstakelvermijding-maaien-van-randen-met-truedge-trimmer/9300000262454558/",
+      "image": "https://media.s-bol.com/QyLQk8wBknJ7/GZp2rn8/550x276.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Worx",
       "name": "Landroid M500 Plus WR167E",
-      "price": 599,
+      "price": 397.73,
       "score": 8.4,
       "label": null,
       "reviews": "1.900+ reviews",
@@ -251,35 +276,45 @@
         "Draad leggen kost tijd"
       ],
       "ideal": "Wie een kleine tuin heeft en wil kunnen uitbreiden met extra functies.",
-      "text": "De Landroid M500 Plus is een betaalbare draadmaaier met een slimme twist: je kunt hem uitbreiden. Standaard maait hij tot 500 vierkante meter met wifi-bediening via de app. Los koop je een ultrasone sensor zodat hij obstakels ontwijkt in plaats van ertegenaan te botsen, of een gps-module tegen diefstal.\n\nDe accu is een 20-volt PowerShare-accu die ook in heggenscharen en bladblazers van Worx past. Gebruikers waarderen het lage geluid van 57 decibel en de AIA-techniek waarmee hij smalle doorgangen vindt. Hellingen tot 35 procent gaan goed. Wel moet je de draad zelf leggen en de modules maken hem uiteindelijk duurder dan het instapbedrag doet vermoeden. Wie geen extra's nodig heeft, krijgt een betrouwbare maaier met wifi voor een scherpe prijs."
+      "text": "De Landroid M500 Plus is een betaalbare draadmaaier met een slimme twist: je kunt hem uitbreiden. Standaard maait hij tot 500 vierkante meter met wifi-bediening via de app. Los koop je een ultrasone sensor zodat hij obstakels ontwijkt in plaats van ertegenaan te botsen, of een gps-module tegen diefstal.\n\nDe accu is een 20-volt PowerShare-accu die ook in heggenscharen en bladblazers van Worx past. Gebruikers waarderen het lage geluid van 57 decibel en de AIA-techniek waarmee hij smalle doorgangen vindt. Hellingen tot 35 procent gaan goed. Wel moet je de draad zelf leggen en de modules maken hem uiteindelijk duurder dan het instapbedrag doet vermoeden. Wie geen extra's nodig heeft, krijgt een betrouwbare maaier met wifi voor een scherpe prijs.",
+      "ean": "6943475869847",
+      "bol_title": "Worx Landroid M500 Plus - Robotmaaier - Geschikt voor oppervlakte (max.) 500 m² - Inclusief laadstation",
+      "url": "https://www.bol.com/nl/nl/p/worx-wr165e-grasmaaier-robotgrasmaaier-batterij-accu-zwart-oranje/9300000082950662/",
+      "image": "https://media.s-bol.com/YPJAkg7j8Zy2/JZYEBPD/550x380.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Gardena",
-      "name": "Smart Sileno Life 1000",
-      "price": 1099,
+      "name": "Sileno life 1250",
+      "price": 1192.0,
       "score": 8.3,
       "label": null,
       "reviews": "700+ reviews",
-      "oneliner": "Stille draadmaaier die koppelt met het Gardena smart-systeem.",
+      "oneliner": "Stille draadmaaier voor middelgrote tot grote tuinen.",
       "specs": {
-        "Max. oppervlak": "1.000 m²",
+        "Max. oppervlak": "1.250 m²",
         "Begrenzing": "Draad",
         "Helling": "35%",
         "Geluid": "57 dB",
-        "App": "Ja, smart gateway"
+        "App": "Bluetooth"
       },
       "pros": [
-        "Koppelt met slimme Gardena-sproeiers en sensoren",
         "Heel stil voor een maaier van dit formaat",
         "Robuuste bouw met lange levensduur",
-        "Laat zich goed besturen via de app"
+        "Maait ook smalle doorgangen",
+        "Betrouwbaar merk met veel servicepunten"
       ],
       "cons": [
-        "Smart gateway nodig voor de app",
+        "Draad leggen kost tijd",
         "Duur ten opzichte van draadloze alternatieven"
       ],
-      "ideal": "Wie al Gardena smart gebruikt en alles in één app wil beheren.",
-      "text": "De Smart Sileno Life is de grote broer van de Sileno City en kan 1.000 vierkante meter aan. Hij is uitgerust met dezelfde stille aandrijving van 57 decibel en een robuuste behuizing die volgens gebruikers jaren meegaat. De slimme versie werkt via een gateway in je meterkast, waarmee je de maaier vanaf elke plek bedient.\n\nHet grootste voordeel zit in de samenwerking met het Gardena smart-systeem. Gebruik je slimme sproeiers of een bodemvochtsensor, dan stemt de maaier zijn schema daarop af, zodat hij niet maait terwijl de beregening loopt. Zonder die andere producten is de meerwaarde kleiner en betaal je relatief veel voor een maaier met draad. Hellingen tot 35 procent zijn geen probleem. Voor gebruikers van het Gardena-ecosysteem is dit een logische keuze."
+      "ideal": "Wie een grotere tuin heeft en een bewezen, stille draadmaaier wil.",
+      "text": "De Sileno life is de grote broer van de Sileno minimo en de 1250 kan tot 1.250 vierkante meter aan. Hij is uitgerust met dezelfde stille aandrijving van rond de 57 decibel en een robuuste behuizing die volgens gebruikers jaren meegaat. Je bedient hem via Bluetooth met de Gardena-app wanneer je in de buurt bent.\n\nDe maaier werkt met een begrenzingsdraad. Dat kost bij de installatie een middag, maar levert wel een betrouwbare grens op, ook onder bomen. Smalle doorgangen tussen gazons neemt hij zonder problemen en hellingen tot 35 procent zijn geen probleem. Gardena heeft in Nederland veel dealers, wat onderhoud en reparatie makkelijk maakt. Ten opzichte van draadloze maaiers betaal je relatief veel voor een model met draad. Wie juist voor bewezen techniek en rust kiest, vindt hier een degelijke maaier voor een grotere tuin.",
+      "ean": "4078500043816",
+      "bol_title": "GARDENA SILENO life 1250 Robotmaaier - voor gazons tot ca. 1250m²",
+      "url": "https://www.bol.com/nl/nl/p/gardena-sileno-life-1250-robotmaaier-voor-gazons-tot-ca-1250m/9200000101937434/",
+      "image": "https://media.s-bol.com/gJLOGx267WGY/550x349.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Dreame",
@@ -344,7 +379,7 @@
   "faq": [
     {
       "q": "Wat is de beste robotmaaier van 2026?",
-      "a": "Op basis van onze vergelijking is de Segway Navimow i108E de beste robotmaaier van 2026. Hij werkt zonder draad, maait in nette banen en is voor een draadloos model scherp geprijsd. Voor een kleine tuin is de Gardena Sileno City 500 de beste prijs-kwaliteit."
+      "a": "Op basis van onze vergelijking is de Segway Navimow i105E de beste robotmaaier van 2026. Hij werkt zonder draad, maait in nette banen en is voor een draadloos model scherp geprijsd. Voor een kleine tuin is de Gardena Sileno minimo 350 de beste prijs-kwaliteit."
     },
     {
       "q": "Werkt een robotmaaier zonder draad goed?",

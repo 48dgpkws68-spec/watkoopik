@@ -17,99 +17,114 @@
   "updated": "2026-10-13",
   "reviews_total": "14.600",
   "intro": "Een wasmachine draait in een gemiddeld gezin vier tot zes keer per week en gaat tien jaar of langer mee. De juiste keuze scheelt elk jaar tientallen euro's aan stroom en water en vooral een hoop ergernis. Wij vergeleken 41 modellen op wasresultaat, energieverbruik, geluid, programmaduur, automatische dosering en wat duizenden Nederlandse gebruikers na jaren gebruik melden. Dit zijn de tien beste wasmachines van 2026, van een degelijke instapper rond de 500 euro tot een topmodel dat zelf doseert en bijna geruisloos draait.",
-  "verdict": "De Miele WWD 164 WCS is de beste wasmachine van 2026: het beste wasresultaat, een trommel die 20 jaar meegaat en de zuinigste A-klasse. Voor de meeste gezinnen is de Bosch Serie 6 WGG244A0NL de beste prijs-kwaliteit, met 9 kilo vulgewicht, i-DOS automatische dosering en een zeer stille motor. Wil je het meeste comfort, dan is de Siemens iQ700 WG56B2A0NL met 10 kilo en Home Connect het premium alternatief.",
+  "verdict": "De Bosch Serie 8 WGB266AONL is de beste wasmachine van 2026: 11 kilo, automatische dosering, stoom en een zuinig verbruik. Voor de meeste gezinnen is de Bosch Serie 6 WGG244FONL de beste prijs-kwaliteit, met 9 kilo vulgewicht, i-DOS automatische dosering en een zeer stille motor. Wil je het meeste comfort, dan is de Siemens iQ700 WG64B2ABNL met 11 kilo en Home Connect het premium alternatief.",
   "products": [
     {
-      "brand": "Miele",
-      "name": "WWD 164 WCS",
-      "price": 999,
+      "brand": "Bosch",
+      "name": "Serie 8 WGB266AONL",
+      "price": 1149.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "1.900+ reviews",
-      "oneliner": "Beste wasresultaat en gebouwd voor 20 jaar gebruik.",
+      "reviews": "100+ reviews",
+      "oneliner": "Topwasmachine van Bosch met 11 kilo, stoom en automatische dosering.",
       "specs": {
-        "Vulgewicht": "9 kg",
-        "Toerental": "1.400 tpm",
+        "Vulgewicht": "11 kg",
+        "Toerental": "1.600 tpm",
         "Energielabel": "A",
-        "Geluid centrifuge": "72 dB",
-        "Eco 40-60": "3 u 39 min"
+        "Geluid centrifuge": "ca. 70 dB",
+        "Eco 40-60": "ca. 3 u 40 min"
       },
       "pros": [
-        "Honingraattrommel wast zachter en grondiger",
-        "Getest op 20 jaar gebruik, 5.000 wasbeurten",
-        "CapDosing voor speciale wasmiddelcapsules",
-        "Zeer laag water- en stroomverbruik"
+        "i-DOS doseert wasmiddel automatisch",
+        "Stoomprogramma's tegen kreuken en geurtjes",
+        "Grote trommel van 11 kilo",
+        "Zuiniger dan de eisen voor label A"
       ],
       "cons": [
-        "Hoogste prijs in de middenklasse",
-        "Geen automatische dosering uit een tank",
-        "Ecoprogramma duurt lang"
+        "Hoge aanschafprijs",
+        "Groot formaat trommel is voor een klein huishouden overkill"
       ],
-      "ideal": "Wie één wasmachine wil kopen voor de komende twintig jaar en wasresultaat belangrijker vindt dan snufjes.",
-      "text": "Miele test zijn wasmachines op 5.000 wasbeurten, wat neerkomt op twintig jaar gebruik in een gezin. Dat merk je aan de WWD 164: een gietijzeren contragewicht, een roestvrijstalen honingraattrommel en een motor zonder koolborstels. De honingraatstructuur laat het wasgoed op een dun waterfilmpje glijden, waardoor kleding minder slijt en toch schoner wordt. In onafhankelijke vergelijkingen scoort Miele al jaren het hoogste op wasresultaat.\n\nMet 9 kilo vulgewicht en 1.400 toeren is hij geschikt voor een gezin en met energieklasse A hoort hij bij de zuinigste machines van dit moment. Het CapDosing-systeem werkt met capsules voor wol, dons of sportkleding. Automatische dosering uit een grote tank ontbreekt, daarvoor moet je bij Miele naar de duurdere TwinDos-modellen. Gebruikers prijzen vooral de stille loop en het gevoel van degelijkheid. Je betaalt meer, maar per jaar gebruik is dit vaak de goedkoopste wasmachine."
+      "ideal": "Gezinnen die veel wassen en een stille, zuinige machine met alle gemakken willen.",
+      "text": "De Bosch Serie 8 WGB266AONL is de beste wasmachine van dit moment als je gemak, zuinigheid en capaciteit wilt combineren. Het i-DOS-systeem doseert vloeibaar wasmiddel zelf op basis van de lading en de vuilgraad. Je vult de tank eens per paar weken en hoeft nooit meer een dopje af te meten. Dat scheelt wasmiddel en voorkomt resten in je kleding.\n\nDe trommel van 11 kilo slikt een volle dekbedovertrek met kussenslopen of de was van een gezin met kinderen in één keer. Stoomprogramma's frissen kleding op en verminderen kreuken, zodat je minder hoeft te strijken. Met 1.600 toeren komt de was droger uit de machine, wat de droger weer tijd scheelt. De borstelloze motor is stil en gaat lang mee. Kopers op bol geven hem een topwaardering. De prijs ligt boven de 1.100 euro, maar je krijgt een machine die tien jaar of langer zonder zorgen draait.",
+      "ean": "4242005601394",
+      "search": "Bosch Serie 8 WGB266AONL",
+      "bol_title": "Bosch WGB266AONL - Serie 8 - Wasmachine met stoom - Automatisch doseren - 11 kg - 1600 rpm - 20% zuiniger dan energielabel A - Iron Assist: vermindert kreukels tot 50% - Home Connect",
+      "url": "https://www.bol.com/nl/nl/p/bosch-serie-8-wgb266aonl-wasmachine-i-dos-11-kg-1600-rpm-a-20/9300000302567954/",
+      "image": "https://media.s-bol.com/YgWyGP5KJWrW/1r2nZQR/550x765.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Bosch",
-      "name": "Serie 6 WGG244A0NL",
-      "price": 749,
+      "name": "Serie 6 WGG244FONL",
+      "price": 699.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "2.400+ reviews",
-      "oneliner": "Automatische dosering en 9 kilo voor een eerlijke prijs.",
+      "reviews": "200+ reviews",
+      "oneliner": "Automatische dosering, stoom en 9 kilo voor een eerlijke prijs.",
       "specs": {
         "Vulgewicht": "9 kg",
         "Toerental": "1.400 tpm",
         "Energielabel": "A",
-        "Geluid centrifuge": "71 dB",
-        "Eco 40-60": "3 u 45 min"
+        "Geluid centrifuge": "ca. 71 dB",
+        "Eco 40-60": "ca. 3 u 45 min"
       },
       "pros": [
-        "i-DOS doseert wasmiddel en wasverzachter automatisch",
-        "EcoSilence Drive-motor is fluisterstil en gaat lang mee",
-        "Speed Perfect wast tot 65 procent sneller",
-        "Antivlekkensysteem voor 4 soorten vlekken"
+        "i-DOS doseert wasmiddel automatisch",
+        "Stoomfunctie en Iron Assist tegen kreuken",
+        "Stille borstelloze motor",
+        "Topwaardering van kopers op bol"
       ],
       "cons": [
         "Tank voor wasmiddel moet je eens in de paar weken bijvullen",
-        "Display is eenvoudig",
-        "Deur valt niet vanzelf dicht"
+        "Display is eenvoudig"
       ],
-      "ideal": "Gezinnen die niet meer willen nadenken over doseren en een stille, zuinige machine zoeken rond de 750 euro.",
-      "text": "De Bosch Serie 6 WGG244A0NL is de machine die in reviews het vaakst wordt aangeraden aan vrienden en familie. Het i-DOS-systeem is de reden: je vult een tank met vloeibaar wasmiddel en een met wasverzachter en de machine doseert zelf op basis van gewicht, vuilgraad en waterhardheid. Dat scheelt wasmiddel, voorkomt resten in kleding en je hoeft nooit meer een dopje af te meten.\n\nDe borstelloze EcoSilence Drive-motor is nauwelijks hoorbaar tijdens het wassen en komt met 71 dB bij het centrifugeren tot de stilste in zijn klasse. Met 9 kilo, 1.400 toeren en energieklasse A past hij bij een gezin van vier. Speed Perfect kort programma's fors in als je haast hebt. Gebruikers noemen de betrouwbaarheid en de dosering als sterkste punten en ergeren zich hoogstens aan het sobere display. Voor dit geld is er geen completere machine."
+      "ideal": "Gezinnen die niet meer willen nadenken over doseren en een stille, zuinige machine zoeken rond de 700 euro.",
+      "text": "De Bosch Serie 6 WGG244FONL is de machine die je zonder twijfel aan vrienden en familie kunt aanraden. Het i-DOS-systeem is de reden: je vult een tank met vloeibaar wasmiddel en de machine doseert zelf op basis van gewicht en vuilgraad. Dat scheelt wasmiddel, voorkomt resten in kleding en je hoeft nooit meer een dopje af te meten.\n\nDaarnaast heeft hij een stoomfunctie en Iron Assist, die kreuken met stoom vermindert zodat je minder hoeft te strijken. De borstelloze motor is nauwelijks hoorbaar tijdens het wassen en gaat lang mee. Met 9 kilo, 1.400 toeren en energielabel A past hij bij een gezin van vier. Kopers op bol geven hem een topwaardering en noemen de dosering en de stilte als sterkste punten. Het display is wat sober. Voor rond de 700 euro is er geen completere machine, wat hem de beste prijs-kwaliteit maakt.",
+      "ean": "4242005445929",
+      "search": "Bosch Serie 6 WGG244FONL",
+      "bol_title": "Bosch WGG244FONL - Serie 6 - Wasmachine met stoom - 9 kg - 1400 rpm - Automatisch doseren - Iron Assist: vermindert kreukels tot 50% - Energielabel A - Bespaar water met Active Water Plus",
+      "url": "https://www.bol.com/nl/nl/p/bosch-serie-6-wgg244fonl-wasmachine-9-kg-1400-rpm/9300000169856406/",
+      "image": "https://media.s-bol.com/YJnGNxOZAxV2/kRlVm9x/550x767.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Siemens",
-      "name": "iQ700 WG56B2A0NL",
-      "price": 1099,
+      "name": "iQ700 WG64B2ABNL",
+      "price": 1149.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "680+ reviews",
-      "oneliner": "10 kilo, i-Dos, Home Connect en een trommel die zichzelf controleert.",
+      "reviews": "100+ reviews",
+      "oneliner": "Premium Siemens met 11 kilo, stoom en een zeer zuinig verbruik.",
       "specs": {
-        "Vulgewicht": "10 kg",
-        "Toerental": "1.600 tpm",
+        "Vulgewicht": "11 kg",
+        "Toerental": "1.400 tpm",
         "Energielabel": "A",
-        "Geluid centrifuge": "70 dB",
-        "Eco 40-60": "3 u 50 min"
+        "Geluid centrifuge": "ca. 70 dB",
+        "Eco 40-60": "ca. 3 u 50 min"
       },
       "pros": [
-        "10 kilo vulgewicht voor grote gezinnen en dekbedden",
-        "1.600 toeren, dus kortere droogtijd",
-        "i-Dos dosering plus bediening via de Home Connect-app",
-        "Stilste centrifuge in deze lijst"
+        "Ruim zuiniger dan de eisen voor label A",
+        "Stoom tegen kreuken en bacteriën",
+        "Grote trommel van 11 kilo",
+        "Home Connect via de app"
       ],
       "cons": [
         "Prijzig",
-        "Groot formaat, 59 cm diep",
-        "Veel functies die je in de praktijk zelden gebruikt"
+        "1.400 toeren, niet de hoogste"
       ],
-      "ideal": "Grote gezinnen die regelmatig dekbedden wassen en de machine vanaf de bank willen starten.",
-      "text": "De Siemens iQ700 is in feite het grotere en luxere broertje van de Bosch Serie 6, beide komen uit dezelfde fabriek. Het verschil zit in de details: 10 kilo vulgewicht, 1.600 toeren waardoor wasgoed droger uit de trommel komt, een strak touchdisplay en Home Connect, waarmee je programma's start en volgt via de app of een slimme speaker.\n\nDe i-Dos dosering werkt identiek aan die van Bosch en is ook hier het grootste pluspunt. Met 70 dB bij het centrifugeren is dit de stilste machine in onze vergelijking, wat telt als de machine in de keuken of bij de slaapkamers staat. De extra toeren maken de droger of de waslijn sneller klaar. Gebruikers zijn te spreken over de afwerking en de app, al vinden sommigen het aantal programma's overdreven. Wie plaats en budget heeft, krijgt hier het meeste comfort."
+      "ideal": "Wie een grote, zeer zuinige machine met app en stoom zoekt en Siemens-design waardeert.",
+      "text": "De Siemens iQ700 WG64B2ABNL is het premium alternatief voor wie het meeste comfort zoekt. De machine is volgens Siemens ongeveer 30 procent zuiniger dan de eisen voor energielabel A, wat bij een gezin dat elke dag wast echt scheelt op de energierekening. De trommel van 11 kilo is groot genoeg voor dekbedden en een volle week aan handdoeken.\n\nMet de stoomfunctie verminder je kreuken en geurtjes, zodat overhemden minder strijkwerk vragen. Via Home Connect start je de machine vanaf je telefoon en krijg je een melding als de was klaar is. Siemens en Bosch komen uit hetzelfde concern, dus de techniek is vergelijkbaar degelijk. Het toerental van 1.400 is niet het hoogste in deze lijst, maar ruim voldoende. Kopers op bol geven hem een topwaardering. De prijs is hoog, maar je krijgt een machine die jarenlang zuinig en stil zijn werk doet.",
+      "ean": "4242003999400",
+      "search": "Siemens iQ700 WG64B2ABNL",
+      "bol_title": "Siemens WG64B2ABNL - iQ700 - Wasmachine met stoom – 11 kg – 1400 rpm – 30% zuiniger dan Energieklasse A – Automatisch doseren - speedPack XL: versnelde programma's - Home Connect",
+      "url": "https://www.bol.com/nl/nl/p/siemens-iq700-wg64b2abnl-wasmachine-11-kg-1400-rpm-energieklasse-a-i-dos/9300000309659242/",
+      "image": "https://media.s-bol.com/J5p6140BAm59/gZ9MplZ/550x763.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Samsung",
-      "name": "Bespoke AI WW11DB8B95GEU1",
-      "price": 949,
+      "name": "Bespoke AI WW11DB8B95GHU3",
+      "price": 799.0,
       "score": 8.9,
       "label": null,
       "reviews": "720+ reviews",
@@ -133,181 +148,217 @@
         "Servicenetwerk kleiner dan bij Miele of Bosch"
       ],
       "ideal": "Grote gezinnen die veel wassen en de machine zo min mogelijk willen bijvullen.",
-      "text": "Samsung heeft met de Bespoke AI-serie een volwassen wasmachine neergezet. De 11 kilo trommel slikt een dekbed of een week gezinswas in één keer en AI Wash weegt de lading, meet de vuilgraad en stelt water, temperatuur en duur daarop af. In de praktijk betekent dat volgens gebruikers kortere programma's en minder verbruik bij kleine ladingen.\n\nDe automatische dosering heeft een grote tank waar bij normaal gebruik een maand wasmiddel in past, langer dan bij Bosch of Siemens. EcoBubble mengt wasmiddel vooraf met lucht en water tot schuim, waardoor koud wassen beter werkt. De SmartThings-app toont het verbruik per wasbeurt en geeft een seintje als de was klaar is. Minpunt is de diepte van 60 centimeter en het feit dat Samsung in Nederland een kleiner servicenetwerk heeft dan de Duitse merken. Voor een groot gezin is dit wel een van de slimste koop."
+      "text": "Samsung heeft met de Bespoke AI-serie een volwassen wasmachine neergezet. De 11 kilo trommel slikt een dekbed of een week gezinswas in één keer en AI Wash weegt de lading, meet de vuilgraad en stelt water, temperatuur en duur daarop af. In de praktijk betekent dat volgens gebruikers kortere programma's en minder verbruik bij kleine ladingen.\n\nDe automatische dosering heeft een grote tank waar bij normaal gebruik een maand wasmiddel in past, langer dan bij Bosch of Siemens. EcoBubble mengt wasmiddel vooraf met lucht en water tot schuim, waardoor koud wassen beter werkt. De SmartThings-app toont het verbruik per wasbeurt en geeft een seintje als de was klaar is. Minpunt is de diepte van 60 centimeter en het feit dat Samsung in Nederland een kleiner servicenetwerk heeft dan de Duitse merken. Voor een groot gezin is dit wel een van de slimste koop.",
+      "ean": "8806095582764",
+      "search": "Samsung Bespoke AI WW11DB8B95GHU3",
+      "bol_title": "Samsung Bespoke WW11DB8B95GHU3 - 8000 serie - Wasmachine - 40% zuiniger dan energielabel A - 5 jaar garantie in Nederland",
+      "url": "https://www.bol.com/nl/nl/p/samsung-bespoke-ww11db8b95ghu3-8000-serie-wasmachine-40-zuiniger-dan-energielabel-a/9300000176047152/",
+      "image": "https://media.s-bol.com/yyMoJqVlJzRV/XDQMy48/550x776.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "AEG",
-      "name": "7000 Series LR7596BF4 ProSteam",
-      "price": 829,
+      "name": "7000 Series LR7596UD4 ProSteam",
+      "price": 799.0,
       "score": 8.8,
       "label": null,
-      "reviews": "860+ reviews",
-      "oneliner": "Stoomprogramma dat kleding opfrist zonder te wassen.",
+      "reviews": "100+ reviews",
+      "oneliner": "Stoomprogramma dat kleding opfrist en een vak voor wasmiddelpods.",
       "specs": {
         "Vulgewicht": "9 kg",
         "Toerental": "1.600 tpm",
         "Energielabel": "A",
-        "Geluid centrifuge": "75 dB",
-        "Eco 40-60": "3 u 58 min"
+        "Geluid centrifuge": "ca. 75 dB",
+        "Eco 40-60": "ca. 3 u 55 min"
       },
       "pros": [
-        "ProSteam frist kleding in 25 minuten op en verwijdert kreuken",
-        "1.600 toeren voor sneller drogen",
-        "ProSense weegt de lading en past water en tijd aan",
-        "Vuilgraad instelbaar per programma"
+        "ProSteam frist kleding op en vermindert kreuken",
+        "UniversalDose-vak voor pods, poeder en vloeibaar",
+        "1.600 toeren voor drogere was",
+        "ProSense past tijd en water aan op de lading"
       ],
       "cons": [
         "Iets luider bij het centrifugeren",
-        "Geen automatische dosering",
-        "Deurrubber vraagt regelmatig schoonmaken"
+        "Geen automatische dosering uit een tank"
       ],
       "ideal": "Wie vaak kleding wil opfrissen in plaats van wassen en minder wil strijken.",
-      "text": "De AEG 7000 ProSteam onderscheidt zich met stoom. Het opfrisprogramma frist een overhemd, trui of jurk in 25 minuten op met stoom, zonder water en wasmiddel, waardoor geuren verdwijnen en kreuken verzachten. Je wast daardoor minder vaak en strijkt minder lang. Aan het eind van een gewoon programma kun je ook een stoomfase toevoegen om kreuken te verminderen.\n\nMet 1.600 toeren komt wasgoed droger uit de trommel dan bij de meeste concurrenten. ProSense weegt de was en kort het programma in bij een halve lading. De machine wast grondig en gebruikers waarderen de intuïtieve bediening en de duidelijke tijdsaanduiding. Hij is met 75 dB iets luider bij het centrifugeren en automatische dosering ontbreekt in deze uitvoering. Wie dat niet mist, krijgt een moderne machine met een stoomfunctie die je echt gaat gebruiken."
+      "text": "De AEG 7000 ProSteam LR7596UD4 onderscheidt zich met stoom. Met het opfrisprogramma frist een overhemd, trui of jurk op met stoom, waardoor geuren verdwijnen en kreuken verzachten. Je wast daardoor minder vaak en strijkt minder lang. Aan het eind van een gewoon programma kun je ook een stoomfase toevoegen om kreuken te verminderen.\n\nHet UniversalDose-vak werkt met pods, poeder en vloeibaar wasmiddel, zodat je niet vastzit aan één soort. Met 1.600 toeren komt wasgoed droger uit de trommel dan bij de meeste concurrenten. ProSense weegt de was en kort het programma in bij een halve lading. Hij is iets luider bij het centrifugeren en automatische dosering uit een tank ontbreekt. Kopers op bol geven hem een hoge beoordeling en noemen de stoomfunctie en de bediening. Wie dat niet mist, krijgt een moderne machine met een stoomfunctie die je echt gaat gebruiken.",
+      "ean": "7332543847341",
+      "search": "AEG 7000 Series LR7596UD4 ProSteam",
+      "bol_title": "AEG LR7596UD4 7000 serie Prosteam - Wasmachine - Geschikt voor pods – Energielabel A",
+      "url": "https://www.bol.com/nl/nl/p/aeg-lr7596ud4-7000-serie-prosteam-wasmachine-wasmachines-geschikt-voor-pods-energielabel-a/9300000122258987/",
+      "image": "https://media.s-bol.com/JXkY8gPql5Ko/yXogNR/550x771.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "LG",
-      "name": "F4WV709P1E",
-      "price": 699,
+      "name": "F4WR7009SYW",
+      "price": 699.0,
       "score": 8.7,
       "label": null,
-      "reviews": "1.100+ reviews",
-      "oneliner": "AI DD herkent de stof en past de trommelbeweging aan.",
+      "reviews": "100+ reviews",
+      "oneliner": "Zuinige LG met TurboWash en Direct Drive-motor.",
       "specs": {
         "Vulgewicht": "9 kg",
         "Toerental": "1.400 tpm",
         "Energielabel": "A",
-        "Geluid centrifuge": "73 dB",
-        "Eco 40-60": "3 u 42 min"
+        "Geluid centrifuge": "ca. 73 dB",
+        "Eco 40-60": "ca. 3 u 40 min"
       },
       "pros": [
-        "AI DD herkent gewicht en stofsoort en kiest de beste trommelbeweging",
-        "TurboWash 360 wast een volle lading in 39 minuten",
-        "Direct Drive-motor met 10 jaar garantie",
-        "Stoomoptie tegen allergenen"
+        "Volgens LG 40 procent zuiniger dan label A",
+        "TurboWash voor een snelle volledige was",
+        "Direct Drive-motor met lange garantie",
+        "AI DD stemt de trommelbeweging af op de stof"
       ],
       "cons": [
-        "Ietwat kunststof afwerking",
-        "Bediening met veel kleine symbolen",
-        "ThinQ-app voegt weinig toe"
+        "App-functies vragen een LG-account",
+        "Minder stil dan Bosch bij het centrifugeren"
       ],
-      "ideal": "Wie snel wil wassen zonder dat kleding daaronder lijdt en een lange motorgarantie waardeert.",
-      "text": "LG bouwt al jaren Direct Drive-motoren zonder riem en geeft daar 10 jaar garantie op. De F4WV709P1E voegt daar AI DD aan toe: de machine weegt de lading, herkent of het om fijne, normale of stevige stoffen gaat en kiest uit zes trommelbewegingen de meest geschikte. Volgens LG slijt kleding daardoor tot 18 procent minder en in reviews melden gebruikers dat delicate kleding er inderdaad beter uit komt.\n\nTurboWash 360 sproeit water vanuit vier richtingen en wast een volle lading in 39 minuten, een van de snelste volwaardige programma's die er zijn. De stoomoptie vermindert allergenen en kreuken. De afwerking voelt wat minder robuust dan bij de Duitse merken en het bedieningspaneel is druk. Daar staat een scherpe prijs tegenover voor een machine met deze techniek. De deur is groot en de trommel van 65 liter laat een dekbed makkelijk toe, wat bij 9 kilo niet bij elk merk vanzelfsprekend is."
+      "ideal": "Wie een zeer zuinige machine zoekt met snelle programma's voor drukke weken.",
+      "text": "De LG F4WR7009SYW is een van de zuinigste wasmachines in deze lijst. Volgens LG verbruikt hij ongeveer 40 procent minder energie dan de grens voor label A, wat over tien jaar een flink bedrag scheelt. De Direct Drive-motor zit direct aan de trommel, zonder riem. Dat betekent minder slijtage, minder trillingen en een lange garantie op de motor.\n\nMet TurboWash draai je een volledige was in ongeveer een uur, handig als je 's ochtends nog snel een sportoutfit nodig hebt. AI DD herkent het soort stof en past de trommelbeweging daarop aan, zodat kwetsbare kleding minder te lijden heeft. Bij het centrifugeren is hij iets luider dan de Bosch-modellen. Via de ThinQ-app start je de machine op afstand. Kopers op bol geven hem een hoge beoordeling. Voor rond de 700 euro krijg je hier een zuinige allrounder met veel slimme functies.",
+      "ean": "8806087985290",
+      "search": "LG F4WR7009SYW",
+      "bol_title": "LG F4WR7009SYW wasmachine | 9 kg | 40% zuiniger dan A | Turbowash",
+      "url": "https://www.bol.com/nl/nl/p/lg-f4wr7009syw-wasmachine-9-kg-40-zuiniger-dan-a-turbowash/9300000178051190/",
+      "image": "https://media.s-bol.com/06r02MkvOWry/JqxD1Av/550x784.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Haier",
-      "name": "HW90-B14979",
-      "price": 599,
+      "name": "HW90-B14939-DF",
+      "price": 669.0,
       "score": 8.5,
       "label": null,
-      "reviews": "1.300+ reviews",
-      "oneliner": "Grote trommel met brede vulopening voor een scherpe prijs.",
+      "reviews": "100+ reviews",
+      "oneliner": "Zeer stille Haier met stoom en antibacteriële behandeling.",
       "specs": {
         "Vulgewicht": "9 kg",
         "Toerental": "1.400 tpm",
         "Energielabel": "A",
-        "Geluid centrifuge": "72 dB",
-        "Eco 40-60": "3 u 50 min"
+        "Geluid centrifuge": "ca. 69 dB",
+        "Eco 40-60": "ca. 3 u 50 min"
       },
       "pros": [
-        "Trommel van 70 liter met vulopening van 52 cm",
-        "Borstelloze Direct Motion-motor met 12 jaar garantie",
-        "Antibacteriële behandeling van deurrubber en lade",
-        "Zeer compleet voor de prijs"
+        "Een van de stilste wasmachines op de markt",
+        "Stoombehandeling tegen geurtjes en kreuken",
+        "Antibacteriële behandeling van de trommel",
+        "Lange garantie op de motor"
       ],
       "cons": [
-        "Minder bekend merk, kleiner servicenetwerk",
-        "Knoppen reageren soms traag",
-        "Ecoprogramma is lang"
+        "Servicenetwerk kleiner dan bij Bosch",
+        "Programma's even zoeken"
       ],
-      "ideal": "Wie een grote, stille wasmachine wil voor rond de 600 euro en geen behoefte heeft aan dosering.",
-      "text": "Haier is in Nederland pas de laatste jaren groot geworden, maar levert wasmachines die in onafhankelijke vergelijkingen regelmatig boven hun prijsklasse presteren. De HW90-B14979 heeft een trommel van 70 liter en een vulopening van 52 centimeter, waardoor een dekbed er zonder gevecht in gaat. De borstelloze motor is stil en krijgt 12 jaar garantie.\n\nHet deurrubber en de wasmiddellade zijn behandeld tegen bacteriën, wat volgens gebruikers inderdaad muffe geuren voorkomt. Het wasresultaat is goed en de machine is met 72 dB stil bij het centrifugeren. De bediening met aanraakknoppen reageert niet altijd direct en het servicenetwerk is kleiner dan bij Bosch of Miele. Maar als je rekent wat je krijgt voor ongeveer 600 euro, is dit een van de slimste koopjes van het jaar. Het programma voor 15 minuten is handig voor sportkleding die alleen even fris moet worden."
+      "ideal": "Wie een stille machine wil voor een appartement of een open bijkeuken.",
+      "text": "Haier zet de HW90-B14939-DF neer als een van de stilste wasmachines op de markt en kopers op bol bevestigen dat beeld. De inverter-motor draait rustig en ook bij het centrifugeren blijft het geluid beperkt. Dat is prettig in een appartement of als de wasmachine in een bijkeuken naast de woonkamer staat.\n\nMet de stoombehandeling verminder je kreuken en geurtjes en de antibacteriële behandeling houdt de trommel en de deurrubber frisser. De trommel van 9 kilo en 1.400 toeren zijn standaard voor deze prijsklasse. Haier geeft lange garantie op de motor. De programmakeuze is uitgebreid, waardoor je in het begin even moet zoeken naar de juiste stand. Het servicenetwerk is kleiner dan bij Bosch. Maar als je rekent wat je krijgt voor rond de 670 euro, is dit een van de stilste en best uitgeruste machines in zijn klasse.",
+      "ean": "6921081595862",
+      "search": "Haier HW90-B14939-DF",
+      "bol_title": "Haier HW90-B14939-DF -De stilste wasmachine op de markt - 9kg - A- Stoombehandeling - Antibacteriële Behandeling (ABT) - 16 programma’s- 10 jaar garantie op onderdelen",
+      "url": "https://www.bol.com/nl/nl/p/haier-hw90-b14939-i-pro-series-3-wasmachine/9300000110330503/",
+      "image": "https://media.s-bol.com/7Z5qxggp03pj/j2N97Py/550x760.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Bosch",
-      "name": "Serie 4 WGG04408NL",
-      "price": 579,
+      "name": "Serie 4 WAN2827BNL",
+      "price": 555.0,
       "score": 8.4,
       "label": null,
-      "reviews": "1.700+ reviews",
-      "oneliner": "Degelijke Bosch-basis zonder toeters en bellen.",
+      "reviews": "100+ reviews",
+      "oneliner": "Betaalbare Bosch met stoom en Iron Assist voor minder strijkwerk.",
       "specs": {
-        "Vulgewicht": "9 kg",
+        "Vulgewicht": "8 kg",
         "Toerental": "1.400 tpm",
         "Energielabel": "A",
-        "Geluid centrifuge": "73 dB",
-        "Eco 40-60": "3 u 45 min"
+        "Geluid centrifuge": "ca. 73 dB",
+        "Eco 40-60": "ca. 3 u 45 min"
       },
       "pros": [
-        "Zelfde stille EcoSilence Drive-motor als de duurdere series",
-        "ActiveWater Plus past het waterverbruik aan op de lading",
-        "Eenvoudige, duidelijke bediening",
-        "Betrouwbaar, groot servicenetwerk"
+        "Bosch-kwaliteit voor rond de 550 euro",
+        "Stoom en Iron Assist tegen kreuken",
+        "Energielabel A",
+        "Goede waardering van kopers"
       ],
       "cons": [
-        "Geen automatische dosering",
-        "Geen stoomfunctie",
-        "Eenvoudig ledscherm"
+        "Trommel van 8 kilo",
+        "Geen automatische dosering"
       ],
-      "ideal": "Wie gewoon een goede, stille wasmachine wil van een vertrouwd merk zonder extra's te betalen.",
-      "text": "Niet iedereen wil een wasmachine met app en dosering. De Bosch Serie 4 WGG04408NL is voor die mensen: dezelfde fluisterstille EcoSilence Drive-motor als in de Serie 6, hetzelfde vulgewicht van 9 kilo en dezelfde energieklasse A, maar zonder i-DOS en zonder veel programma's die je toch niet gebruikt. Dat scheelt ongeveer 170 euro.\n\nActiveWater Plus meet de lading en past het waterverbruik aan, waardoor een halve lading niet onnodig water kost. Het wasresultaat is goed en de machine draait stabiel bij 1.400 toeren. Gebruikers noemen de eenvoud een pluspunt: draaiknop, paar toetsen, klaar. Het ledscherm is sober en de wasmiddellade moet je, zoals bij elke machine zonder dosering, regelmatig schoonmaken. Wie van Bosch houdt en zelf doseert, is hier goed uit. Met het Speed Perfect-programma kort je de duur fors in als je haast hebt, een functie die ook in deze serie zit."
+      "ideal": "Kleinere huishoudens die een betrouwbare Bosch zoeken zonder extra's te betalen.",
+      "text": "De Bosch Serie 4 WAN2827BNL is de instapmachine van Bosch en een veilige keuze voor wie geen poespas wil. Je krijgt energielabel A, 1.400 toeren en een stoomfunctie die je bij goedkopere machines zelden ziet. Met Iron Assist gebruikt de machine stoom om kreuken te verminderen, zodat overhemden en blouses minder strijkwerk vragen.\n\nDe trommel van 8 kilo is iets kleiner dan bij de andere machines in deze lijst. Voor een stel of een klein gezin is dat genoeg, maar een groot gezin kan beter naar een 9 kilo-model kijken. Automatische dosering ontbreekt, dus je doseert zelf. De bediening is eenvoudig met een draaiknop en duidelijke programma's. Kopers op bol geven hem een hoge beoordeling en noemen vooral de betrouwbaarheid. Wil je een Bosch zonder de prijs van de Serie 6, dan is dit de logische keuze.",
+      "ean": "4242005535439",
+      "search": "Bosch Serie 4 WAN2827BNL",
+      "bol_title": "Bosch WAN2827BNL - Serie 4 - Wasmachine met stoom - 1400 rpm - Energielabel A - 8 KG - Iron Assist: vermindert kreukels tot 50% - SpeedPerfect: perfect schoon tot wel 65% sneller. - Stil",
+      "url": "https://www.bol.com/nl/nl/p/bosch-serie-4-wan28270nl-wasmachine-energielabel-a/9300000239564962/",
+      "image": "https://media.s-bol.com/nojgjNM56gDP/zpABAoq/550x764.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Whirlpool",
-      "name": "W6 W945WB NL",
-      "price": 619,
+      "name": "FFB 9489 WV EE",
+      "price": 419.0,
       "score": 8.2,
       "label": null,
-      "reviews": "540+ reviews",
-      "oneliner": "Stoomopfrissen en 6th Sense-technologie voor een vriendelijke prijs.",
+      "reviews": "50+ reviews",
+      "oneliner": "Betaalbare Whirlpool met 9 kilo en stoomfunctie tegen kreuken.",
       "specs": {
         "Vulgewicht": "9 kg",
         "Toerental": "1.400 tpm",
-        "Energielabel": "A",
-        "Geluid centrifuge": "74 dB",
-        "Eco 40-60": "3 u 48 min"
+        "Energielabel": "niet opgegeven",
+        "Geluid centrifuge": "ca. 74 dB",
+        "Eco 40-60": "ca. 3 u 45 min"
       },
       "pros": [
-        "6th Sense past water, tijd en energie aan op de lading",
-        "Steam Refresh frist kleding in 20 minuten op",
-        "FreshCare+ houdt was fris tot 6 uur na afloop",
-        "Stille borstelloze motor"
+        "Lage prijs voor 9 kilo",
+        "Stoomfunctie tegen kreuken en geurtjes",
+        "Eenvoudige bediening",
+        "Ruime trommel"
       ],
       "cons": [
-        "Afwerking wat eenvoudiger",
-        "Programma's starten soms met vertraging",
-        "Deurrubber vangt veel water"
+        "Minder zuinig dan de duurdere modellen",
+        "Luider bij het centrifugeren"
       ],
-      "ideal": "Wie wil opfrissen met stoom en de was niet altijd direct uit de machine kan halen.",
-      "text": "De Whirlpool W6 W945WB biedt functies die je normaal in een duurdere klasse vindt. 6th Sense weegt de lading en past water, energie en tijd aan. Steam Refresh frist kleding in 20 minuten op met stoom. Het slimste is FreshCare+: als het programma klaar is, blijft de trommel zacht bewegen en stoom afgeven, waardoor de was tot zes uur later nog fris ruikt. Wie de was vaak vergeet, herkent het nut.\n\nDe borstelloze motor is stil en het wasresultaat is goed voor deze prijsklasse. Gebruikers zijn tevreden over het gemak, al noemen ze de afwerking van kunststof onderdelen eenvoudig en het deurrubber iets dat je na elke was moet afdrogen. Voor net boven de 600 euro krijg je veel praktische functies die het dagelijkse wassen echt makkelijker maken. De trommel van 9 kilo met brede opening maakt beddengoed laden eenvoudig."
+      "ideal": "Wie een ruime wasmachine wil voor zo weinig mogelijk geld.",
+      "text": "De Whirlpool FFB 9489 WV EE is de goedkoopste machine met 9 kilo in deze lijst. Voor iets meer dan 400 euro krijg je een ruime trommel, 1.400 toeren en een stoomfunctie die kreuken en geurtjes vermindert. Dat maakt hem interessant voor gezinnen die veel wassen maar niet het budget hebben voor een Bosch of Siemens.\n\nDe bediening is eenvoudig, met een draaiknop en duidelijke programma's. Je hoeft geen handleiding te lezen om te beginnen. Het verbruik ligt hoger dan bij de zuinigste machines in deze lijst en bij het centrifugeren is hij luider. Automatische dosering en een app zitten er niet op. Kopers zijn tevreden over de prijs en de ruimte. Reken bij de keuze ook de stroomkosten over tien jaar mee, want een zuinigere machine verdient een deel van het prijsverschil terug. Wie vooral op de aanschafprijs let, krijgt hier veel trommel voor weinig geld.",
+      "ean": "8003437058196",
+      "search": "Whirlpool FFB 9489 WV EE",
+      "bol_title": "Whirlpool FFB 9489 WV EE wasmachine Voorbelading 9 kg 1400 RPM Wit",
+      "url": "https://www.bol.com/nl/nl/p/whirlpool-ffb-9489-wv-ee-wasmachine-voorbelading-9-kg-1400-rpm-wit/9300000184593159/",
+      "image": "https://media.s-bol.com/g3EjwNXnqGKr/8qk8R53/550x781.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Beko",
-      "name": "B5WFT594138W",
-      "price": 529,
+      "name": "B5WFT89436W",
+      "price": 500.0,
       "score": 8.1,
       "label": null,
-      "reviews": "980+ reviews",
-      "oneliner": "Zuinige instapper met een stoomfunctie en 9 kilo trommel.",
+      "reviews": "100+ reviews",
+      "oneliner": "Degelijke Beko met 9 kilo en AquaTech voor een snellere, zachtere was.",
       "specs": {
         "Vulgewicht": "9 kg",
         "Toerental": "1.400 tpm",
         "Energielabel": "A",
-        "Geluid centrifuge": "75 dB",
-        "Eco 40-60": "3 u 50 min"
+        "Geluid centrifuge": "ca. 75 dB",
+        "Eco 40-60": "ca. 3 u 50 min"
       },
       "pros": [
-        "Energieklasse A voor een lage prijs",
-        "SteamCure stoomfunctie vermindert kreuken en allergenen",
-        "AquaTech wast met waterstraal in plaats van tuimelen",
-        "ProSmart Inverter-motor met 10 jaar garantie"
+        "AquaTech wast sneller en zachter",
+        "Ruime trommel van 9 kilo",
+        "Lage prijs",
+        "Lange garantie op de motor"
       ],
       "cons": [
         "Luider bij het centrifugeren",
-        "Bedieningspaneel voelt goedkoop",
-        "Minder goed op hardnekkige vlekken"
+        "Afwerking eenvoudig"
       ],
-      "ideal": "Wie een zuinige, ruime wasmachine wil voor net boven de 500 euro.",
-      "text": "Beko is al jaren de koning van de budgetklasse en de B5WFT594138W laat zien waarom. Voor ongeveer 530 euro krijg je 9 kilo, 1.400 toeren, energieklasse A en een stoomfunctie. AquaTech laat water van bovenaf op de was stromen in plaats van alleen te tuimelen, wat volgens Beko zachter is voor kleding en programma's verkort.\n\nDe ProSmart Inverter-motor krijgt 10 jaar garantie en is in bedrijf redelijk stil, al is hij bij het centrifugeren met 75 dB duidelijk hoorbaar. Het wasresultaat is goed voor dagelijkse was, maar bij hardnekkige vlekken moet je vaker een voorwas of een hogere temperatuur kiezen. Gebruikers roemen de prijs en het lage verbruik en zetten een kanttekening bij het kunststof bedieningspaneel. Voor een eerste woning of een kleine portemonnee is dit de slimste koop. Het display toont de resterende tijd en met de startuitstel plan je de was in de daluren."
+      "ideal": "Wie een betrouwbare 9 kilo-machine zoekt rond de 500 euro.",
+      "text": "De Beko B5WFT89436W is een degelijke wasmachine voor rond de 500 euro. Met 9 kilo en 1.400 toeren heb je dezelfde basis als bij duurdere merken. Het AquaTech-systeem sproeit water en wasmiddel met een speciale trommelbeweging door de was, waardoor programma's korter zijn en kleding minder slijt dan bij een gewone wasbeweging.\n\nDe bediening is overzichtelijk en de machine heeft alle programma's die je dagelijks nodig hebt, van katoen tot wol en een snel programma. Beko geeft lange garantie op de motor. Bij het centrifugeren is hij hoorbaar luider dan Bosch of Haier en de afwerking is eenvoudig. Automatische dosering ontbreekt. Kopers op bol zijn tevreden over de prijs en het wasresultaat. Zoek je een betrouwbare machine met een ruime trommel zonder veel extra's, dan is dit een verstandige keuze.",
+      "ean": "8690842638640",
+      "search": "Beko B5WFT89436W",
+      "bol_title": "Beko B5WFT89436W: Vrijstaande Wasmachine (9 kg, 1400 rpm) Aquatech",
+      "url": "https://www.bol.com/nl/nl/p/beko-b5wt584106w2-vrijstaande-wasmachine/9300000181591260/",
+      "image": "https://media.s-bol.com/8Z1g5WX2BPJg/WnmPvZn/550x557.jpg",
+      "synced": "2026-10-15"
     }
   ],
   "guide": [
@@ -333,13 +384,13 @@
     },
     {
       "h": "Hoeveel moet je uitgeven?",
-      "p": "Rond de 500 tot 600 euro krijg je een zuinige, stille wasmachine met 9 kilo van merken als Beko, Haier en Bosch Serie 4. Tussen 700 en 850 euro komen dosering, stoom en 1.600 toeren erbij. Boven de 900 euro betaal je voor de langste levensduur van Miele of de grootste trommels met app van Samsung en Siemens. Reken ook de levensduur mee: een machine die 20 jaar meegaat is per jaar vaak goedkoper dan een budgetmodel dat je na 8 jaar vervangt."
+      "p": "Rond de 500 tot 600 euro krijg je een zuinige, stille wasmachine met 9 kilo van merken als Beko, Haier en Bosch Serie 4. Tussen 700 en 850 euro komen dosering, stoom en 1.600 toeren erbij. Boven de 900 euro betaal je voor de grootste trommels met app en stoom van Bosch Serie 8, Samsung en Siemens. Reken ook de levensduur mee: een machine die 20 jaar meegaat is per jaar vaak goedkoper dan een budgetmodel dat je na 8 jaar vervangt."
     }
   ],
   "faq": [
     {
       "q": "Wat is de beste wasmachine van 2026?",
-      "a": "Op basis van onze vergelijking is de Miele WWD 164 WCS de beste wasmachine van 2026, dankzij het beste wasresultaat, de laagste verbruikscijfers en een levensduur van 20 jaar. Zoek je de beste prijs-kwaliteit, kijk dan naar de Bosch Serie 6 WGG244A0NL met automatische dosering."
+      "a": "Op basis van onze vergelijking is de Bosch Serie 8 WGB266AONL de beste wasmachine van 2026, dankzij automatische dosering, stoom, een grote trommel en een zuinig verbruik. Zoek je de beste prijs-kwaliteit, kijk dan naar de Bosch Serie 6 WGG244FONL met automatische dosering."
     },
     {
       "q": "Hoeveel kilo wasmachine heb ik nodig?",

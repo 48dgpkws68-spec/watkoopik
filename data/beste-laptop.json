@@ -156,7 +156,7 @@
     {
       "brand": "Dell",
       "name": "XPS 13 9350 Intel Core Ultra 7 258V",
-      "price": 1399,
+      "price": 1729.0,
       "score": 8.7,
       "label": null,
       "reviews": "400+ reviews",
@@ -180,150 +180,182 @@
         "Prijzig"
       ],
       "ideal": "Wie een zo klein mogelijke Windows-laptop wil zonder in te leveren op software.",
-      "text": "De XPS 13 is al jaren Dells visitekaartje en de 9350 is de beste versie tot nu toe. Binnenin zit een Intel Core Ultra 7 258V uit de Lunar Lake-serie. Die chip is veel zuiniger dan eerdere Intel-processors, waardoor je een hele werkdag haalt. In tegenstelling tot Snapdragon werkt alle Windows-software gewoon. Met 1,19 kilo is hij een van de lichtste laptops in deze lijst.\n\nHet ontwerp is minimalistisch: een randloos toetsenbord, een onzichtbaar trackpad in het glas en aanraaktoetsen in plaats van functietoetsen. Niet iedereen is daar fan van. Er zijn maar twee USB-C-poorten en geen koptelefoonaansluiting. Kopers prijzen het scherm, de bouwkwaliteit en het formaat. Voor reizigers is het een fijne laptop."
+      "text": "De XPS 13 is al jaren Dells visitekaartje en de 9350 is de beste versie tot nu toe. Binnenin zit een Intel Core Ultra 7 258V uit de Lunar Lake-serie. Die chip is veel zuiniger dan eerdere Intel-processors, waardoor je een hele werkdag haalt. In tegenstelling tot Snapdragon werkt alle Windows-software gewoon. Met 1,19 kilo is hij een van de lichtste laptops in deze lijst.\n\nHet ontwerp is minimalistisch: een randloos toetsenbord, een onzichtbaar trackpad in het glas en aanraaktoetsen in plaats van functietoetsen. Niet iedereen is daar fan van. Er zijn maar twee USB-C-poorten en geen koptelefoonaansluiting. Kopers prijzen het scherm, de bouwkwaliteit en het formaat. Voor reizigers is het een fijne laptop.",
+      "ean": "5397184928967",
+      "bol_title": "DELL XPS 13 9350 - Zakelijke Copilot+ Laptop - Intel Core Ultra 7 - 13.4 inch - 16 GB/512 GB - Windows 11 Pro",
+      "url": "https://www.bol.com/nl/nl/p/dell-xps-13-9350-intel-core-ultra-7-256v-laptop-34-cm-full-hd-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-7-windows-11-pro-platina/9300000220261295/",
+      "image": "https://media.s-bol.com/BJ4NYYqM8Avk/MjQ89DB/550x352.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "ASUS",
-      "name": "Zenbook 14 OLED UX3405MA",
-      "price": 999,
+      "name": "Vivobook S14 OLED M3407KA",
+      "price": 1099.0,
       "score": 8.6,
       "label": null,
-      "reviews": "1.200+ reviews",
-      "oneliner": "Licht met prachtig OLED-scherm voor een redelijke prijs.",
+      "reviews": "Nieuw op bol",
+      "oneliner": "Lichte Copilot+ laptop met OLED-scherm en lange accuduur.",
       "specs": {
-        "Processor": "Intel Core Ultra 7 155H",
+        "Processor": "AMD Ryzen AI 5",
         "Geheugen": "16 GB",
-        "Opslag": "1 TB SSD",
-        "Scherm": "14 inch OLED, 2880 x 1800",
-        "Gewicht": "1,20 kg"
+        "Opslag": "512 GB SSD",
+        "Scherm": "14 inch OLED",
+        "Gewicht": "Circa 1,3 kg"
       },
       "pros": [
-        "OLED-scherm met diep zwart en rijke kleuren",
-        "Ruime SSD van 1 TB",
-        "Licht en dun aluminium",
-        "Veel poorten inclusief HDMI"
+        "Diep zwart en felle kleuren dankzij OLED",
+        "Zuinige Ryzen AI-chip voor een lange werkdag",
+        "Copilot+ functies van Windows 11",
+        "Licht genoeg om dagelijks mee te nemen"
       ],
       "cons": [
-        "Ventilator hoorbaar bij zware taken",
-        "Glanzend scherm weerspiegelt"
+        "Geen losse videokaart voor zware games",
+        "OLED kan bij stilstaande beelden inbranden",
+        "Geheugen niet uit te breiden"
       ],
-      "ideal": "Wie een mooi scherm voor films en fotobewerking wil in een lichte behuizing.",
-      "text": "De Zenbook 14 OLED is een van de populairste lichte laptops onder de duizend euro. Het grootste pluspunt is het OLED-scherm van 14 inch met 2,8K-resolutie. Zwart is echt zwart en kleuren springen eruit, wat gebruikers bij films en fotobewerking direct opvalt. Met 1,2 kilo en een aluminium behuizing voelt hij duurder dan hij is.\n\nDe Intel Core Ultra 7 155H is krachtig en er zit 16 GB werkgeheugen en 1 TB opslag in. Aan poorten heb je twee Thunderbolt-aansluitingen, USB-A en HDMI. De accu van 75 Wh haalt bij normaal gebruik een werkdag. De ventilator gaat soms aan bij zware taken en het glanzende scherm weerspiegelt in fel licht. Voor de prijs krijg je veel laptop."
+      "ideal": "Studenten en thuiswerkers die een mooi scherm en een lichte laptop zoeken.",
+      "text": "De Vivobook S14 OLED is een van de laptops waarmee ASUS de Copilot+ functies van Windows 11 naar een betaalbare prijs brengt. De Ryzen AI 5 processor heeft een ingebouwde NPU voor taken als live ondertiteling en beeldbewerking met AI. Tegelijk is hij zuinig genoeg voor een volledige werkdag op de accu. Met 16 GB werkgeheugen en 512 GB opslag zit je voor kantoorwerk, studie en lichte fotobewerking ruim goed.\n\nHet 14 inch OLED-scherm is het grootste pluspunt. Zwart is echt zwart en kleuren springen eruit, wat je merkt bij series kijken en foto's bewerken. Met ongeveer 1,3 kilo stop je hem zonder moeite in je tas. Voor zware games mist hij een losse videokaart en het geheugen zit vast op het moederbord. Wie overdag veel statische beelden toont, zet best een donkere taakbalk aan om inbranden te voorkomen. Voor de meeste mensen is dit een prettige allrounder.",
+      "ean": "4711636430845",
+      "bol_title": "ASUS Vivobook S14 OLED M3407KA-SFNADW - Copilot+ Laptop - 14 inch - Ryzen AI 5 - 16GB/512GB",
+      "url": "https://www.bol.com/nl/nl/p/asus-vivobook-s14-oled-m3407ka-sfnadw-copilot-laptop-14-inch-ryzen-ai-5-16gb-512gb/9300000275890875/",
+      "image": "https://media.s-bol.com/Jm7KoB4jEpXl/BL1QZRQ/550x385.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Lenovo",
-      "name": "LOQ 15IRX9 RTX 4060",
-      "price": 999,
+      "name": "LOQ Essential 15IRX11 RTX 5050",
+      "price": 1179.0,
       "score": 8.5,
       "label": null,
-      "reviews": "1.500+ reviews",
-      "oneliner": "Betaalbare gaminglaptop met RTX 4060 voor moderne games.",
+      "reviews": "Nieuw op bol",
+      "oneliner": "Betaalbare gaming-laptop met RTX 5050 en Intel Core i7.",
       "specs": {
-        "Processor": "Intel Core i5-13450HX",
+        "Processor": "Intel Core i7",
         "Geheugen": "16 GB",
         "Opslag": "512 GB SSD",
-        "Scherm": "15,6 inch, 144 Hz",
-        "Gewicht": "2,38 kg"
+        "Scherm": "15,6 inch Full HD",
+        "Gewicht": "Circa 2,4 kg"
       },
       "pros": [
-        "RTX 4060 speelt moderne games op hoge instellingen",
-        "144 Hz-scherm voor vloeiend beeld",
-        "Goede koeling voor de prijsklasse",
-        "Werkgeheugen en SSD zijn uit te breiden"
+        "RTX 5050 met DLSS 4 voor moderne games",
+        "Krachtige Core i7 voor ook streamen en bewerken",
+        "Degelijke koeling voor de prijsklasse",
+        "Geheugen later uit te breiden"
       ],
       "cons": [
-        "Zwaar en dik",
-        "Korte accuduur",
-        "Luid onder belasting"
+        "Zwaar om dagelijks mee te nemen",
+        "Accuduur kort tijdens gamen",
+        "Full HD scherm is niet het felste"
       ],
-      "ideal": "Gamers met een beperkt budget die toch moderne games willen spelen.",
-      "text": "De Lenovo LOQ is de goedkopere gamingserie naast de Legion en dat merk je vooral aan de behuizing, niet aan de prestaties. Met een Intel Core i5-13450HX en een NVIDIA GeForce RTX 4060 speel je de meeste games op Full HD met hoge instellingen. Dankzij DLSS 3 haal je in ondersteunde games nog meer beelden per seconde. Het 15,6-inchscherm ververst met 144 hertz.\n\nGebruikers zijn positief over de koeling, die de prestaties ook bij lange sessies stabiel houdt. Wel maakt hij dan flink wat geluid. Je kunt later werkgeheugen en een tweede SSD toevoegen. De accu is zwak: buiten de stekker haal je een paar uur. Met 2,4 kilo is het een laptop voor op het bureau. Voor deze prijs krijg je echter echte gamingprestaties."
+      "ideal": "Gamers die in Full HD willen spelen zonder de prijs van een topmodel.",
+      "text": "De LOQ-serie is de betaalbare gaminglijn van Lenovo, een stap onder de bekende Legion-laptops. Deze Essential-versie combineert een Intel Core i7 met een NVIDIA GeForce RTX 5050. Die videokaart ondersteunt DLSS 4, waardoor recente games in Full HD soepel lopen als je de instellingen slim kiest. Met 16 GB werkgeheugen en 512 GB opslag start je goed, al loopt de SSD bij grote games snel vol.\n\nHet 15,6 inch scherm draait in Full HD en is vooral gericht op snelheid, niet op felle kleuren. Lenovo staat bekend om degelijke koeling in deze prijsklasse, dus hij houdt zijn prestaties langer vast dan veel concurrenten. Met zo'n 2,4 kilo en een flinke adapter is dit wel een laptop voor op het bureau. Tijdens gamen moet hij aan het stopcontact blijven. Voor wie een eerste serieuze gaming-laptop zoekt, is dit een verstandige instap.",
+      "ean": "0199273969418",
+      "bol_title": "Lenovo LOQ Essential 15IRX11 - Gaming Laptop - 15.6 inch - RTX 5050 - Core i7 - 16GB/512GB",
+      "url": "https://www.bol.com/nl/nl/p/lenovo-loq-essential-15irx11-gaming-laptop-15-6-inch-rtx-5050-core-i7-16gb-512gb/9300000249068817/",
+      "image": "https://media.s-bol.com/g0zJJWlJ749D/WnG9No4/550x457.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "ASUS",
-      "name": "ROG Strix G16 G614JV",
-      "price": 1499,
+      "name": "ROG Strix G16 G614PM RTX 5060",
+      "price": 1599.0,
       "score": 8.7,
       "label": null,
-      "reviews": "600+ reviews",
-      "oneliner": "Krachtige gaminglaptop met snel QHD-scherm en ruime opslag.",
+      "reviews": "bol-score 5 van 5",
+      "oneliner": "16 inch gaming-laptop met RTX 5060 en snel 240 Hz-scherm.",
       "specs": {
-        "Processor": "Intel Core i7-13650HX",
+        "Processor": "AMD Ryzen 9",
         "Geheugen": "16 GB",
         "Opslag": "1 TB SSD",
-        "Scherm": "16 inch, 2560 x 1600, 165 Hz",
-        "Gewicht": "2,50 kg"
+        "Scherm": "16 inch 240 Hz",
+        "Gewicht": "Circa 2,5 kg"
       },
       "pros": [
-        "Snel QHD-scherm van 165 Hz",
-        "Core i7 en RTX 4060 voor zware games",
-        "1 TB opslag voor veel games",
-        "Sterke koeling met vloeibaar metaal"
+        "Snel 240 Hz-scherm voor competitieve games",
+        "RTX 5060 haalt hoge framerates met DLSS 4",
+        "Sterke koeling met ROG-software",
+        "Ruime 1 TB opslag"
       ],
       "cons": [
-        "Zwaar",
-        "Opvallend gamerdesign met RGB",
-        "Accu gaat kort mee"
+        "Ventilatoren zijn goed hoorbaar onder volle belasting",
+        "Zwaar en groot",
+        "Accuduur bescheiden"
       ],
-      "ideal": "Serieuze gamers die een groter en scherper scherm willen dan bij een instapper.",
-      "text": "De ROG Strix G16 is een stap boven de instapklasse. De Intel Core i7-13650HX met veertien kernen is krachtig voor games en streaming tegelijk. Samen met de RTX 4060 speel je moderne games vloeiend op de hoge resolutie van het 16-inchscherm. Dat scherm ververst met 165 hertz en heeft een 16:10-verhouding, wat ook voor werk prettig is.\n\nASUS gebruikt vloeibaar metaal als koelpasta, waardoor de processor koeler blijft dan bij veel concurrenten. Gebruikers prijzen de stabiele prestaties en de ruime SSD van 1 TB. Het design met RGB-verlichting valt op, wat niet iedereen mooi vindt. Met 2,5 kilo en een accuduur van enkele uren is dit een laptop voor op het bureau. Voor gamers is het een sterke allrounder."
+      "ideal": "Fanatieke gamers die een snel scherm en veel prestaties per euro willen.",
+      "text": "De ROG Strix G16 is de middenklasser in de gaminglijn van ASUS en deze G614PM-versie draait op een NVIDIA RTX 5060. In combinatie met DLSS 4 haal je in de meeste moderne games hoge framerates. Het 16 inch scherm van 240 Hz laat die snelheid ook echt zien. Voor shooters en racegames is dat een groot voordeel tegenover een standaard 60 of 144 Hz-paneel.\n\nASUS geeft de Strix een stevige koeling met meerdere ventilatoren, die onder volle belasting goed hoorbaar zijn. Via Armoury Crate kies je tussen een stille stand en maximale prestaties. De 1 TB SSD biedt ruimte voor een flinke gamebibliotheek. Met ongeveer 2,5 kilo is dit duidelijk een desktopvervanger en de accu houdt het tijdens gamen niet lang vol. Kopers op bol geven tot nu toe de hoogste score. Zoek je veel gamekracht met een snel scherm, dan zit je hier goed.",
+      "ean": "4711387903551",
+      "bol_title": "ASUS ROG Strix G16 G614PM-S5004W - Gaming Laptop - 16 inch - RTX 5060 - 240 Hz",
+      "url": "https://www.bol.com/nl/nl/p/asus-rog-strix-g16-g614pm-s5004w-gaming-laptop-16-inch-240-hz/9300000225803901/",
+      "image": "https://media.s-bol.com/oz6V9GEDVBWk/nrZQ82E/550x360.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "HP",
-      "name": "Victus 16-s1000nd",
-      "price": 1199,
+      "name": "Victus 15 Ryzen 7 260 RTX 5050",
+      "price": 1349.0,
       "score": 8.3,
       "label": null,
-      "reviews": "500+ reviews",
-      "oneliner": "Ingetogen gaminglaptop met AMD-processor en groot scherm.",
+      "reviews": "Nieuw op bol",
+      "oneliner": "Rustig ogende gaming-laptop die ook voor studie en werk past.",
       "specs": {
-        "Processor": "AMD Ryzen 7 8845HS",
+        "Processor": "AMD Ryzen 7 260",
         "Geheugen": "16 GB",
         "Opslag": "1 TB SSD",
-        "Scherm": "16,1 inch, 144 Hz",
-        "Gewicht": "2,30 kg"
+        "Scherm": "15,6 inch Full HD",
+        "Gewicht": "Circa 2,3 kg"
       },
       "pros": [
-        "Rustig ontwerp dat ook op kantoor past",
-        "Krachtige Ryzen 7 met RTX 4060",
-        "Groot 16,1-inchscherm",
-        "Royale opslag"
+        "Sobere vormgeving die niet schreeuwt",
+        "Ryzen 7 260 met RTX 5050 voor games in Full HD",
+        "1 TB opslag",
+        "Goed toetsenbord voor lange sessies"
       ],
       "cons": [
-        "Behuizing deels plastic",
-        "Speakers zwak"
+        "Scherm is minder fel dan bij duurdere modellen",
+        "Behuizing van kunststof",
+        "Accuduur kort bij gamen"
       ],
-      "ideal": "Wie een gaminglaptop zoekt die er niet uitziet als een gaminglaptop.",
-      "text": "De HP Victus 16 is voor gamers die geen opvallende verlichting willen. De behuizing is strak en grijs, waardoor hij ook in een collegezaal of op kantoor niet opvalt. Binnenin zit wel een flinke motor: een AMD Ryzen 7 8845HS met acht kernen en een NVIDIA RTX 4060. Daarmee speel je de meeste games vloeiend op het 16,1-inchscherm van 144 hertz.\n\nGebruikers zijn tevreden over de prestaties en de SSD van 1 TB. De koeling is degelijk, al wordt de onderkant warm bij lange sessies. Kritiek gaat over de dun klinkende speakers en het plastic van de behuizing. De accu haalt bij licht werk een uur of vijf. Voor wie werk en games combineert is het een verstandige middenweg."
+      "ideal": "Studenten die overdag werken en 's avonds willen gamen op één laptop.",
+      "text": "De Victus is de gaminglijn van HP voor wie geen opvallend ontwerp met felle ledverlichting zoekt. Deze versie combineert een AMD Ryzen 7 260 met een NVIDIA RTX 5050, genoeg om populaire games in Full HD te spelen met DLSS 4 aan. Met 16 GB werkgeheugen en een SSD van 1 TB heb je ruimte voor games, studiebestanden en video's zonder meteen een externe schijf te kopen.\n\nHet 15,6 inch scherm draait in Full HD en doet zijn werk, al is het minder fel en kleurrijk dan bij duurdere gaming-laptops. Het toetsenbord typt prettig, wat handig is als je er ook verslagen op schrijft. De behuizing is van kunststof en voelt degelijk maar niet luxe. Met ongeveer 2,3 kilo is hij mee te nemen naar college, maar reken bij gamen op een korte accuduur. Wie één laptop zoekt voor studie en spelen, vindt hier een nette middenweg.",
+      "ean": "0199642963627",
+      "bol_title": "HP Victus Gaming Laptop 15.6 Full HD - AMD Ryzen 7 260 - NVIDIA GeForce RTX 5050 - 16 GB DDR5 - 1 TB SSD",
+      "url": "https://www.bol.com/nl/nl/p/hp-victus-gaming-amd-ryzen-7-260-laptop-39-6-cm-full-hd-16-gb-ddr5-sdram-1-tb-ssd-nvidia-geforce-rtx-5050-wi-fi-6-windows-11-home-ai-pc-zwart/9300000241163418/",
+      "image": "https://media.s-bol.com/pAnxMm2PPRGr/8qKpOkr/550x472.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Acer",
-      "name": "Aspire Go 15 AG15-31P",
-      "price": 399,
+      "name": "Aspire Go 15 AG15-71P-587Q",
+      "price": 599,
       "score": 7.9,
       "label": null,
-      "reviews": "1.100+ reviews",
-      "oneliner": "Simpele budgetlaptop voor school, mail en browsen.",
+      "reviews": "bol-score 5 van 5",
+      "oneliner": "Betaalbare 15,6 inch laptop met 16 GB werkgeheugen voor thuis en school.",
       "specs": {
-        "Processor": "Intel Core i3-N305",
-        "Geheugen": "8 GB",
+        "Processor": "Intel Core 5",
+        "Geheugen": "16 GB",
         "Opslag": "512 GB SSD",
-        "Scherm": "15,6 inch, 1920 x 1080",
-        "Gewicht": "1,80 kg"
+        "Scherm": "15,6 inch Full HD",
+        "Gewicht": "Circa 1,8 kg"
       },
       "pros": [
-        "Lage prijs",
-        "Full HD-scherm van 15,6 inch",
-        "SSD van 512 GB start snel op",
-        "Numeriek toetsenbord"
+        "Ruim 16 GB werkgeheugen in deze prijsklasse",
+        "Groot scherm voor werken met twee vensters",
+        "Snelle SSD",
+        "Numeriek toetsenblok"
       ],
       "cons": [
-        "8 GB werkgeheugen is krap",
-        "Scherm vrij donker",
-        "Niet geschikt voor zware taken"
+        "Scherm is niet erg fel",
+        "Behuizing voelt eenvoudig",
+        "Geen geschikte keuze voor games"
       ],
-      "ideal": "Scholieren en ouderen die een betaalbare laptop willen voor eenvoudige taken.",
-      "text": "De Acer Aspire Go 15 is een eerlijke budgetlaptop. De Intel Core i3-N305 met acht zuinige kernen is ontworpen voor lichte taken: browsen, mailen, Word, videobellen en Netflix. Dat doet hij zonder klagen. Met een SSD van 512 GB start hij snel op en heb je genoeg ruimte voor documenten en foto's. Het Full HD-scherm van 15,6 inch is groot genoeg om prettig op te werken.\n\nMet 8 GB werkgeheugen merk je wel vertraging als je veel tabbladen en programma's tegelijk opent. Gebruikers noemen hem degelijk voor de prijs, maar wijzen op het donkere scherm. Games en fotobewerking zijn niet zijn terrein. Voor een eerste laptop of tweede apparaat in huis is dit een verstandige en goedkope keuze."
+      "ideal": "Gezinnen en scholieren die een degelijke laptop voor dagelijks werk zoeken.",
+      "text": "De Aspire Go 15 is de instaplijn van Acer en deze AG15-71P-variant valt op door de ruime uitrusting voor de prijs. Je krijgt een Intel Core 5 processor met 16 GB werkgeheugen, terwijl veel laptops rond dit bedrag nog met 8 GB komen. Dat merk je bij veel tabbladen tegelijk, videobellen en Office. De SSD van 512 GB start Windows snel op en biedt genoeg ruimte voor documenten en foto's.\n\nHet 15,6 inch Full HD-scherm is groot genoeg om twee vensters naast elkaar te zetten, al is het niet bijzonder fel. Het toetsenbord heeft een numeriek blok, handig voor wie veel met getallen werkt. De behuizing is eenvoudig en met ongeveer 1,8 kilo neem je hem prima mee. Voor games of zware videobewerking is hij niet gemaakt. Kopers op bol geven hem tot nu toe de hoogste score. Zoek je een degelijke laptop voor huiswerk en administratie, dan is dit een veilige keuze.",
+      "ean": "4711474830418",
+      "bol_title": "Acer Aspire Go 15 AG15-71P-587Q - Laptop - 15.6 inch - Core 5 - 16GB - 512 GB SSD - Zilver",
+      "url": "https://www.bol.com/nl/nl/p/acer-aspire-go-15-ag15-71p-587q-laptop-15-6-inch-core-5-16gb-512-gb-ssd-zilver/9300000246115564/",
+      "image": "https://media.s-bol.com/l1YZ0p0NwE3r/98vmBpZ/550x339.jpg",
+      "synced": "2026-10-15"
     }
   ],
   "guide": [
@@ -359,7 +391,7 @@
     },
     {
       "q": "Wat is een goede laptop voor studenten?",
-      "a": "Een lichte laptop met minimaal 16 GB werkgeheugen en een lange accuduur. De MacBook Air M4, Surface Laptop 7 en ASUS Zenbook 14 OLED zijn populaire keuzes. Check ook welke software je opleiding vraagt."
+      "a": "Een lichte laptop met minimaal 16 GB werkgeheugen en een lange accuduur. De MacBook Air M4, Surface Laptop 7 en ASUS Vivobook S14 OLED zijn populaire keuzes. Check ook welke software je opleiding vraagt."
     },
     {
       "q": "Hoeveel moet je uitgeven aan een laptop?",

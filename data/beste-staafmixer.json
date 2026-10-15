@@ -16,7 +16,7 @@
   "updated": "2026-10-14",
   "reviews_total": "14.200",
   "intro": "Een staafmixer is het meest gebruikte keukenapparaat na de waterkoker: soep pureren, saus binden, smoothies maken of babyvoeding fijnmalen. De verschillen tussen modellen zijn groter dan je denkt. Wij vergeleken 35 staafmixers op vermogen, snelheidsregeling, spatgedrag, de kwaliteit van de hulpstukken en wat duizenden gebruikers na jaren gebruik melden. Hieronder vind je de tien beste, van een eenvoudige mixer voor 30 euro tot een Zwitserse klassieker die een leven lang meegaat.",
-  "verdict": "De Braun MultiQuick 9 MQ9187XLI is de beste staafmixer van 2026: krachtig, nauwelijks spatten dankzij de beweegbare voet en een complete set hulpstukken. De Braun MultiQuick 5 Vario MQ5235 is de beste prijs-kwaliteit met dezelfde spatvrije techniek voor de helft van het geld. Wie een mixer voor de rest van zijn leven wil, kiest de Bamix Gastro 200, de beste premium keuze.",
+  "verdict": "De Braun MultiQuick 9 MQ9187XLI is de beste staafmixer van 2026: krachtig, nauwelijks spatten dankzij de beweegbare voet en een complete set hulpstukken. De Braun MultiQuick 5 Pro MQ55.236M is de beste prijs-kwaliteit met dezelfde spatvrije techniek voor de helft van het geld. Wie een mixer voor de rest van zijn leven wil, kiest de Bamix Gastro 200, de beste premium keuze.",
   "products": [
     {
       "brand": "Braun",
@@ -54,32 +54,37 @@
     },
     {
       "brand": "Braun",
-      "name": "MultiQuick 5 Vario MQ5235",
-      "price": 69.99,
+      "name": "MultiQuick 5 Pro MQ55.236M",
+      "price": 62.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "3.400+ reviews",
-      "oneliner": "Spatvrije Braun-techniek met 21 snelheden voor een middenklasseprijs.",
+      "reviews": "500+ reviews",
+      "oneliner": "Krachtige staafmixer met 25 snelheden, hakmolen en garde.",
       "specs": {
         "Vermogen": "1.000 W",
-        "Snelheden": "21 + turbo",
+        "Snelheden": "25 + turbo",
         "Voet": "RVS",
         "Accessoires": "Hakmolen, garde, maatbeker",
         "Snoer": "Ja"
       },
       "pros": [
-        "21 snelheden plus turbostand",
-        "PowerBell-voet zuigt niet vast en spat weinig",
-        "Hakmolen van 500 ml voor kruiden en uien",
-        "Onderdelen mogen in de vaatwasser"
+        "1.000 watt voor soep en smoothies",
+        "Antispatvoet houdt het aanrecht schoon",
+        "Hakmolen en garde inbegrepen",
+        "Fijn te doseren met 25 snelheden"
       ],
       "cons": [
-        "Geen beweegbaar mes zoals bij de MultiQuick 9",
-        "Hakmolen is klein voor grote hoeveelheden"
+        "Hakmolen is niet groot",
+        "Geen foodprocessor meegeleverd"
       ],
-      "ideal": "Wie een degelijke merkmixer met hulpstukken wil zonder topprijs te betalen.",
-      "text": "De MultiQuick 5 Vario is al jaren een van de bestverkochte staafmixers in Nederland. Het motor van 1.000 watt is ruim voldoende voor soep, smoothies en pesto. Met het draaiwiel bovenop kies je uit 21 snelheden, de turboknop geeft direct volle kracht. De PowerBell-voet heeft extra openingen waardoor de mixer niet vastzuigt op de bodem van de pan.\n\nIn de set zitten een hakmolen van 500 ml, een garde voor slagroom en eiwit en een maatbeker van 600 ml. Gebruikers zijn positief over de stevige bouw en het lage spatgedrag. De hakmolen is wel aan de kleine kant, voor een grote hoeveelheid uien moet je in delen werken. Alle losse onderdelen behalve de motorbehuizing mogen in de vaatwasser. Voor rond de 70 euro krijg je hier de kern van wat de duurdere Braun goed maakt.",
-      "search": "Braun MultiQuick 5 Vario MQ5235"
+      "ideal": "Wie een complete staafmixer wil voor een vriendelijke prijs.",
+      "text": "De Braun MultiQuick 5 Pro MQ55.236M is een staafmixer met 1.000 watt en 25 snelheden. Met een draaiknop kies je de basissnelheid, de knop op het handvat geeft extra kracht. Daarmee pureer je soep in de pan, maak je mayonaise of mix je een smoothie met bevroren fruit. De rvs-voet is zo gevormd dat er weinig spat, ook als je in een hoge pan werkt.\n\nIn de set zitten een hakmolen voor kruiden, noten en uien, een garde voor slagroom en eiwit en een maatbeker van 600 ml. Alle onderdelen klik je met één druk op de motor. De hakmolen is handig maar niet groot, voor grote hoeveelheden heb je een foodprocessor nodig. Kopers op bol geven hem gemiddeld 4,7 sterren en noemen de kracht en het gebruiksgemak. Voor deze prijs krijg je een complete set van een betrouwbaar merk.",
+      "search": "Braun MultiQuick 5 Pro MQ55.236M",
+      "ean": "8021098003959",
+      "bol_title": "Braun MultiQuick 5 Pro MQ55.236M – Staafmixer Set - 25 snelheden - RVS Staafmixervoet met Hakmolen, garde en beker - Zwart - 1000 W",
+      "url": "https://www.bol.com/nl/nl/p/braun-multiquick-5-pro-mq55-236m-staafmixer/9300000179002221/",
+      "image": "https://media.s-bol.com/7mEl6DlqRyoO/ADLAK61/550x551.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Bamix",
@@ -118,158 +123,182 @@
     },
     {
       "brand": "Bosch",
-      "name": "MaxoMixx MS8CM61V1",
-      "price": 99.99,
+      "name": "ErgoMaster Serie 6 MSM6M622",
+      "price": 74.99,
       "score": 8.8,
       "label": null,
-      "reviews": "1.300+ reviews",
-      "oneliner": "Krachtige Bosch met QuattroBlade-mes en veel hulpstukken.",
+      "reviews": "100+ reviews",
+      "oneliner": "1.000 watt staafmixerset met hakmolen, garde en ijscrusher.",
       "specs": {
         "Vermogen": "1.000 W",
         "Snelheden": "12 + turbo",
         "Voet": "RVS",
-        "Accessoires": "Hakmolen, garde, maatbeker, pureestaaf",
+        "Accessoires": "Hakmolen, garde, maatbeker, ijscrusher",
         "Snoer": "Ja"
       },
       "pros": [
-        "QuattroBlade Pro-mes met vier snijvlakken",
-        "Pureestaaf voor aardappelpuree zonder klonten",
-        "Ergonomische greep met grote knop",
-        "Uitgebreide set voor de prijs"
+        "Sterke motor van 1.000 watt",
+        "QuattroBlade-mes met vier messen",
+        "IJscrusher voor cocktails en smoothies",
+        "Ergonomische greep"
       ],
       "cons": [
-        "Zwaarder dan vergelijkbare mixers",
-        "Iets meer geluid op de hoogste stand"
+        "Veel onderdelen om op te bergen",
+        "Wat zwaarder dan eenvoudige modellen"
       ],
-      "ideal": "Gezinnen die naast soep ook puree, slagroom en kruiden willen verwerken.",
-      "text": "De Bosch MaxoMixx is een stevige staafmixer met een motor van 1.000 watt en een mes met vier snijvlakken. Dat QuattroBlade Pro-mes werkt volgens gebruikers snel bij vezelige groente zoals prei en selderij. De voet heeft een geribbelde onderkant die vastzuigen tegengaat. Met twaalf snelheden en een turbostand heb je genoeg controle.\n\nOpvallend in deze set is de pureestaaf. Gewone staafmixers maken aardappelpuree taai, deze opzet drukt de aardappel fijn zonder de zetmeelstructuur te beschadigen. Verder krijg je een hakmolen, een garde en een maatbeker. Reviews zijn lovend over de kracht en de greep, die ook bij lang mixen comfortabel blijft. De mixer is wel zwaarder dan de Braun en op de hoogste stand wat luider. Voor een complete set onder de 100 euro is dit een sterke keuze naast de Braun MultiQuick 5.",
-      "search": "Bosch MaxoMixx MS8CM61V1"
+      "ideal": "Wie veel verschillende klussen met één staafmixer wil doen.",
+      "text": "De Bosch ErgoMaster Serie 6 MSM6M622 is een uitgebreide staafmixerset. De motor levert 1.000 watt en het mes met vier bladen snijdt snel door groente, vlees en bevroren fruit. Je regelt de snelheid in twaalf standen, met een turboknop voor extra kracht. De greep is ergonomisch gevormd en ligt prettig in de hand, ook bij langer mixen.\n\nIn de doos zitten een hakmolen, een garde en een maatbeker, maar ook een ijscrusher. Daarmee maak je in een paar seconden crushed ice voor cocktails of een slush. De rvs-voet is los te klikken en kan in de vaatwasser. Met zoveel accessoires heb je wel wat bergruimte nodig in een la of kast. Kopers op bol geven hem gemiddeld 4,3 sterren en noemen de kracht en de stevige bouw. Voor wie een allrounder zoekt is dit een sterke keuze in de middenklasse.",
+      "search": "Bosch ErgoMaster Serie 6 MSM6M622",
+      "ean": "4242005346462",
+      "bol_title": "Bosch MSM6M622 ErgoMaster Serie 6 - Staafmixer set - 1000W - Inclusief maatbeker, garde, hakmolen & ijscrusher",
+      "url": "https://www.bol.com/nl/nl/p/bosch-serie-6-msm6m622-ergomaster-staafmixer-1000-w-roestvrijstaal/9300000125558765/",
+      "image": "https://media.s-bol.com/JoJDB5nZR3Yy/N9LyMY6/550x366.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Philips",
-      "name": "Viva Collection ProMix HR2657/90",
-      "price": 79.99,
+      "name": "Viva Collection ProMix HR2656/90",
+      "price": 82.39,
       "score": 8.6,
       "label": null,
-      "reviews": "1.800+ reviews",
-      "oneliner": "Philips met driehoekige voet voor sneller en gelijkmatiger mixen.",
+      "reviews": "100+ reviews",
+      "oneliner": "Staafmixer van 800 watt met ProMix-techniek en hakmolen.",
       "specs": {
         "Vermogen": "800 W",
         "Snelheden": "Traploos + turbo",
         "Voet": "RVS",
-        "Accessoires": "Hakmolen, garde, maatbeker, foodprocessor",
+        "Accessoires": "Hakmolen, garde, maatbeker",
         "Snoer": "Ja"
       },
       "pros": [
-        "Driehoekige ProMix-voet trekt het voedsel naar het mes",
-        "Traploze snelheidsregeling",
-        "Compacte foodprocessor in de set",
-        "Rustig geluidsniveau"
+        "ProMix-voet mixt snel en gelijkmatig",
+        "Traploos instelbare snelheid",
+        "Rvs-voet met antispat",
+        "Onderdelen vaatwasserbestendig"
       ],
       "cons": [
-        "Minder vermogen dan Braun en Bosch",
-        "Plastic behuizing voelt minder luxe"
+        "Hakmolen is vrij klein",
+        "Snoer had langer mogen zijn"
       ],
-      "ideal": "Wie een complete set met foodprocessor zoekt voor een gemiddeld budget.",
-      "text": "Philips onderscheidt zich met de driehoekige ProMix-voet. Volgens de fabrikant creëert die vorm een draaikolk die het voedsel naar het mes trekt, waardoor je sneller een gladde soep hebt. Gebruikers bevestigen dat de mixer weinig spat en dat stukken groente niet blijven ronddraaien. Het motor van 800 watt is minder krachtig dan de Braun, maar voor dagelijkse taken ruim genoeg.\n\nDe set met code /90 bevat een compacte foodprocessor met snij- en raspschijf, een hakmolen, een garde en een maatbeker. Daarmee rasp je kaas of snijd je komkommer zonder aparte machine. De snelheid regel je traploos met een draaiknop. Reviews noemen het geluid aangenaam laag. Minpunten zijn de plastic behuizing en het lagere vermogen bij harde ingrediënten zoals noten. Voor wie veel hulpstukken wil voor een middenprijs, is dit een verstandige keuze.",
-      "search": "Philips HR2657/90"
+      "ideal": "Wie dagelijks soep en sauzen pureert en een fijn resultaat wil.",
+      "text": "De Philips Viva Collection HR2656/90 werkt met ProMix-techniek. De voet heeft een driehoekige vorm die het voedsel naar het mes toe zuigt, zodat je sneller een glad resultaat krijgt en minder hoeft te bewegen. De motor van 800 watt is ruim voldoende voor soep, sauzen en babyvoeding.\n\nDe snelheid regel je traploos met de knop op het handvat, de turboknop geeft direct maximale kracht. In de set zitten een hakmolen voor uien en kruiden, een garde voor slagroom en een maatbeker. De rvs-voet en de accessoires mogen in de vaatwasser. De hakmolen is niet groot, genoeg voor een ui of een handje noten. Kopers op bol zijn tevreden over de mixkwaliteit en het gemak. Wie vooral soep en sauzen maakt en een soepel resultaat zoekt, heeft hier een betrouwbare middenklasser.",
+      "search": "Philips Viva Collection ProMix HR2656/90",
+      "ean": "8710103898757",
+      "bol_title": "Philips Viva Collection HR2656/90 - Staafmixer",
+      "url": "https://www.bol.com/nl/nl/p/philips-viva-collection-hr2656-90-staafmixer/9200000108748029/",
+      "image": "https://media.s-bol.com/jDyLvqVv2v14/3Q434wx/550x518.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "KitchenAid",
-      "name": "Cordless Hand Blender 5KHBBV83",
-      "price": 139,
+      "name": "Go 5KHBRV75BM",
+      "price": 176.0,
       "score": 8.5,
       "label": null,
-      "reviews": "700+ reviews",
-      "oneliner": "Snoerloze staafmixer die je overal in de keuken gebruikt.",
+      "reviews": "50+ reviews",
+      "oneliner": "Draadloze staafmixer op accu met mengbeker van 1 liter.",
       "specs": {
-        "Vermogen": "Accu, 7 V",
+        "Vermogen": "Accu, 12 V",
         "Snelheden": "Traploos",
         "Voet": "RVS",
-        "Accessoires": "Hakmolen, garde, maatbeker",
+        "Accessoires": "Mengbeker",
         "Snoer": "Nee"
       },
       "pros": [
-        "Geen snoer, dus vrij bewegen tussen fornuis en aanrecht",
-        "Een volle accu mixt circa 25 liter soep",
-        "Verwisselbare voet met beschermkap voor pannen",
-        "Herkenbaar KitchenAid-design in meerdere kleuren"
+        "Geen snoer, vrij bewegen in de keuken",
+        "Accu past op meer KitchenAid Go-apparaten",
+        "Stevige bouw",
+        "Traploze snelheid"
       ],
       "cons": [
-        "Minder kracht dan mixers met snoer",
-        "Accu moet je tijdig opladen",
-        "Duur voor het vermogen"
+        "Accu en lader maken hem duur",
+        "Minder kracht dan een model met snoer"
       ],
-      "ideal": "Wie een opgeruimd aanrecht wil en vooral soepen en sauzen mixt.",
-      "text": "De KitchenAid 5KHBBV83 werkt op een accu en dat geeft vrijheid. Je mixt soep direct op het fornuis zonder dat een snoer over de pitten hangt. Volgens KitchenAid mix je met een volle lading ongeveer 25 liter soep, gebruikers melden dat een accu een week normaal gebruik meegaat. Opladen duurt ongeveer twee uur.\n\nDe snelheid regel je traploos met een drukknop. Over de voet schuif je een kunststof kap die de bodem van je pannen beschermt, een detail dat vaak terugkomt in reviews. In de doos zitten een hakmolen, een garde en een maatbeker. De keerzijde van snoerloos is het vermogen: voor ijsblokjes of noten is hij minder geschikt dan een Braun met snoer. Ook de prijs ligt hoog voor wat hij kan. Kies hem als gemak en uitstraling zwaarder wegen dan pure kracht.",
-      "search": "KitchenAid 5KHBBV83"
+      "ideal": "Wie vaak aan het fornuis mixt en geen snoer in de weg wil hebben.",
+      "text": "De KitchenAid Go 5KHBRV75BM is een draadloze staafmixer die op een verwisselbare accu werkt. Je hoeft geen stopcontact te zoeken en kunt vrij bewegen tussen fornuis en aanrecht. Dat is prettig als je soep pureert in een grote pan of een saus in een steelpan op het vuur.\n\nDe accu hoort bij de Go-serie van KitchenAid, dus je kunt hem ook gebruiken in andere Go-apparaten zoals de handmixer. De snelheid regel je traploos met de knop op het handvat. In de doos zit een mengbeker van 1 liter. Ten opzichte van een staafmixer met snoer is de kracht wat lager, voor ijsblokjes of harde noten is hij minder geschikt. Kopers op bol geven hem de volle vijf sterren en noemen de vrijheid en de afwerking. Wie dat gemak waardeert, accepteert de hogere prijs.",
+      "search": "KitchenAid Go 5KHBRV75BM",
+      "ean": "5413184002879",
+      "bol_title": "KitchenAid Go 5KHBRV75BM - Staafmixer - Draadloos - Met mengbeker 1 L",
+      "url": "https://www.bol.com/nl/nl/p/kitchenaid-5khbrv75bm-blender-1-l-staafmixer-zwart/9300000177051276/",
+      "image": "https://media.s-bol.com/xxXj5ZE8V4E3/ADMwokp/550x576.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Bosch",
-      "name": "ErgoMixx MS6CM6155",
-      "price": 64.99,
+      "name": "ErgoMixx MS6CB6110",
+      "price": 54.7,
       "score": 8.4,
       "label": null,
-      "reviews": "2.600+ reviews",
-      "oneliner": "Lichte en comfortabele Bosch met hakmolen en garde.",
+      "reviews": "1.000+ reviews",
+      "oneliner": "Staafmixer van 1.000 watt met QuattroBlade-mes en maatbeker.",
       "specs": {
         "Vermogen": "1.000 W",
         "Snelheden": "12 + turbo",
         "Voet": "RVS",
-        "Accessoires": "Hakmolen, garde, maatbeker",
+        "Accessoires": "Maatbeker",
         "Snoer": "Ja"
       },
       "pros": [
-        "Lichte bouw met zachte greep",
-        "1.000 watt voor een scherpe prijs",
-        "Voet en mes van roestvrij staal",
-        "Grote knoppen die je met natte handen bedient"
+        "Krachtige motor van 1.000 watt",
+        "Mes met vier bladen",
+        "Ergonomische greep",
+        "Scherpe prijs"
       ],
       "cons": [
-        "Spat meer dan Braun bij volle snelheid",
-        "Hakmolen voelt wat licht"
+        "Alleen een maatbeker meegeleverd",
+        "Geen hakmolen of garde"
       ],
-      "ideal": "Wie een betrouwbare merkmixer met hulpstukken zoekt rond de 65 euro.",
-      "text": "De ErgoMixx is de populairste staafmixer van Bosch en dat komt door de combinatie van gewicht en kracht. Met 1.000 watt is hij net zo sterk als de Braun MultiQuick 5, maar hij weegt minder en ligt volgens veel gebruikers prettiger in de hand. De zachte greep en grote knoppen maken hem ook geschikt voor mensen met minder kracht in hun handen.\n\nDe set bestaat uit een hakmolen, een garde en een maatbeker van 800 ml. Je kiest uit twaalf snelheden of zet hem in de turbostand. Reviews zijn positief over de prijs en de levensduur, al spat hij op de hoogste stand meer dan de Braun met zijn PowerBell-voet. De hakmolen werkt goed voor kruiden en uien, maar voelt minder stevig. Voor dagelijks gebruik in een gemiddeld huishouden is dit een prima keuze.",
-      "search": "Bosch ErgoMixx MS6CM6155"
+      "ideal": "Wie vooral soep en smoothies maakt en geen extra accessoires nodig heeft.",
+      "text": "De Bosch ErgoMixx MS6CB6110 is een eenvoudige maar sterke staafmixer. De motor levert 1.000 watt en het QuattroBlade-mes met vier bladen maakt snel korte metten met groente, fruit en gekookte aardappelen. Je kiest uit twaalf snelheden en een turbostand, zodat je zowel voorzichtig kunt beginnen als op volle kracht kunt mixen.\n\nIn de doos zit alleen een maatbeker. Wie geen hakmolen of garde nodig heeft, betaalt hier dus niet voor extra's die in de la blijven liggen. De voet is van rvs en kan in de vaatwasser, net als de beker. De greep is zacht en ligt goed in de hand. Kopers op bol geven hem gemiddeld 4,5 sterren en roemen de kracht voor de prijs. Wil je later toch meer doen, dan zijn accessoires van Bosch los te koop.",
+      "search": "Bosch ErgoMixx MS6CB6110",
+      "ean": "4242005171699",
+      "bol_title": "Bosch MS6CB6110 ErgoMixx - Staafmixer - 1000W - 4-bladenmes - Inclusief maatbeker - 12 snelheidsinstellingen - RVS/Zwart",
+      "url": "https://www.bol.com/nl/nl/p/bosch-ms6cb6110-ergomixx-staafmixer-zwart/9200000115179654/",
+      "image": "https://media.s-bol.com/YAkR16x5ELMp/O7gOM7g/396x840.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Smeg",
-      "name": "HBF22",
-      "price": 159,
+      "name": "HBF03CREU",
+      "price": 109.0,
       "score": 8.2,
       "label": null,
-      "reviews": "500+ reviews",
-      "oneliner": "Retro staafmixer in jarenvijftigstijl met degelijke prestaties.",
+      "reviews": "100+ reviews",
+      "oneliner": "Retro staafmixer in crème met hakmolen, garde en maatbeker.",
       "specs": {
         "Vermogen": "700 W",
         "Snelheden": "Traploos + turbo",
         "Voet": "RVS",
-        "Accessoires": "Hakmolen, garde, maatbeker, pureestaaf",
+        "Accessoires": "Hakmolen, garde, maatbeker",
         "Snoer": "Ja"
       },
       "pros": [
-        "Herkenbaar Smeg-design in veel kleuren",
-        "Pureestaaf en hakmolen in de set",
-        "Antislip-greep en stevige bouw",
-        "Past bij andere Smeg-apparaten"
+        "Opvallend jaren 50-design",
+        "Traploze snelheid met turbo",
+        "Complete set accessoires",
+        "Rvs-voet met vier messen"
       ],
       "cons": [
-        "Je betaalt vooral voor het design",
-        "700 watt is bescheiden voor deze prijs"
+        "Je betaalt extra voor het design",
+        "Minder vermogen dan Bosch of Braun"
       ],
-      "ideal": "Wie een staafmixer zoekt die bij een Smeg-waterkoker of broodrooster past.",
-      "text": "Smeg is vooral bekend van retro koelkasten en de HBF22 trekt die stijl door naar de staafmixer. De ronde vormen en pastelkleuren maken hem tot een apparaat dat je op het aanrecht laat staan. Onder het design zit een motor van 700 watt met traploze snelheid en een turbostand.\n\nDe set is compleet: een hakmolen, een garde, een maatbeker en een pureestaaf voor aardappelpuree. Gebruikers zijn tevreden over de stevige afwerking en het gebruiksgemak. Voor soep, sauzen en smoothies met zacht fruit is het vermogen ruim voldoende. Bij harde noten of ijs moet hij merkbaar harder werken dan een Braun of Bosch van 1.000 watt. De meeste reviews zijn eerlijk over de prijs: je betaalt voor het uiterlijk. Wie dat belangrijk vindt, krijgt wel een degelijke mixer die jaren meegaat.",
-      "search": "Smeg HBF22"
+      "ideal": "Wie een staafmixer zoekt die bij andere Smeg-apparaten in de keuken past.",
+      "text": "De Smeg HBF03CREU is een staafmixer in de herkenbare jaren 50-stijl van het Italiaanse merk. De crèmekleurige behuizing en het ronde logo passen bij de Smeg-waterkokers en broodroosters die veel mensen al op het aanrecht hebben. De motor van 700 watt is ruim genoeg voor soep, sauzen en smoothies.\n\nJe regelt de snelheid traploos met een wieltje bovenop, de turboknop geeft extra kracht. In de set zitten een hakmolen, een garde en een maatbeker van 1,4 liter. De rvs-voet heeft vier messen en een vorm die spatten beperkt. Qua vermogen doet hij onder voor de Bosch en Braun in deze lijst, je betaalt vooral voor het uiterlijk en de afwerking. Kopers op bol zijn positief over de bouwkwaliteit. Wie design belangrijk vindt, heeft hier een staafmixer die je niet in de la hoeft te verstoppen.",
+      "search": "Smeg HBF03CREU",
+      "ean": "8017709343781",
+      "bol_title": "SMEG HBF03CREU Staafmixer met Accessoires - 700W - Hakmolen, Garde & 1,4L Maatbeker - Variabele Snelheid & Turbofunctie - FlowBlend - '50s Style - Crème",
+      "url": "https://www.bol.com/nl/nl/p/smeg-hbf03creu-staafmixer-creme-700w-met-accessoires/9300000185296998/",
+      "image": "https://media.s-bol.com/qkK3Mo6z0m33/1wB2RBZ/550x583.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Russell Hobbs",
-      "name": "Desire 24702-56",
-      "price": 34.99,
+      "name": "Desire 3-in-1 27140-56",
+      "price": 33.99,
       "score": 7.9,
       "label": null,
-      "reviews": "1.100+ reviews",
-      "oneliner": "Eenvoudige rode staafmixer voor soep en smoothies.",
+      "reviews": "100+ reviews",
+      "oneliner": "Goedkope 3-in-1 staafmixer in rood met hakmolen en garde.",
       "specs": {
         "Vermogen": "500 W",
         "Snelheden": "2",
@@ -278,18 +307,23 @@
         "Snoer": "Ja"
       },
       "pros": [
-        "Lage prijs met hakmolen en garde",
-        "Licht en compact",
+        "Zeer lage prijs",
+        "Hakmolen en garde inbegrepen",
+        "Licht en handzaam",
         "Opvallende rode kleur"
       ],
       "cons": [
-        "500 watt is weinig voor harde ingrediënten",
-        "Slechts twee snelheden",
-        "Plastic onderdelen voelen goedkoop"
+        "Maar twee snelheden",
+        "Minder krachtig bij harde ingrediënten"
       ],
-      "ideal": "Studenten en kleine huishoudens die af en toe soep of een smoothie maken.",
-      "text": "De Russell Hobbs Desire is een betaalbare staafmixer voor wie geen hoge eisen stelt. Met 500 watt en twee snelheden pureer je soep, mix je een milkshake of maak je babyvoeding. De voet is van roestvrij staal en klikt met één beweging los voor het schoonmaken. In de set zitten een hakmolen, een garde en een maatbeker, wat voor deze prijs niet vanzelfsprekend is.\n\nIn reviews wordt hij vooral gewaardeerd als eerste staafmixer op kamers of als tweede exemplaar. Gebruikers melden dat hij soep goed glad krijgt, maar bij bevroren fruit of noten snel moeite heeft. De kunststof hulpstukken voelen minder degelijk dan bij Braun of Bosch. Laat hem ook niet minutenlang achter elkaar draaien. Gebruik je een staafmixer een paar keer per maand, dan doet deze precies wat hij moet doen.",
-      "search": "Russell Hobbs 24702-56"
+      "ideal": "Wie af en toe soep pureert en zo weinig mogelijk wil uitgeven.",
+      "text": "De Russell Hobbs Desire 27140-56 is de goedkoopste staafmixer in deze lijst. Voor rond de 35 euro krijg je een motor van 500 watt met twee snelheden, een rvs-voet, een hakmolen, een garde en een maatbeker. Dat is genoeg voor soep, pannenkoekenbeslag, slagroom of een simpele smoothie.\n\nDe rode behuizing valt op en past bij andere apparaten uit de Desire-serie. Hij is licht en ligt goed in de hand, ook voor wie kleine handen heeft. Bij harde ingrediënten zoals ijs of noten merk je dat het vermogen beperkt is: het duurt langer en de motor wordt warm. Voor zware klussen is een van de Bosch- of Braun-modellen hoger in deze lijst beter. Kopers op bol geven hem gemiddeld 4,8 sterren en noemen de prijs en het gemak. Voor af en toe gebruik doet hij precies wat hij moet doen.",
+      "search": "Russell Hobbs Desire 3-in-1 27140-56",
+      "ean": "5038061162929",
+      "bol_title": "Russell Hobbs Desire Red 3 in 1 Staafmixer - 27140-56",
+      "url": "https://www.bol.com/nl/nl/p/russell-hobbs-desire-red-3-in-1-staafmixer-27140-56/9300000191766494/",
+      "image": "https://media.s-bol.com/7qQ3JrOLk1Mw/2kJXvzz/550x612.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Braun",
@@ -350,7 +384,7 @@
   "faq": [
     {
       "q": "Wat is de beste staafmixer van 2026?",
-      "a": "Op basis van onze vergelijking is de Braun MultiQuick 9 MQ9187XLI de beste staafmixer van 2026, dankzij het beweegbare mes, traploze snelheid en een complete set hulpstukken. Voor de beste prijs-kwaliteit kies je de Braun MultiQuick 5 Vario MQ5235."
+      "a": "Op basis van onze vergelijking is de Braun MultiQuick 9 MQ9187XLI de beste staafmixer van 2026, dankzij het beweegbare mes, traploze snelheid en een complete set hulpstukken. Voor de beste prijs-kwaliteit kies je de Braun MultiQuick 5 Pro MQ55.236M."
     },
     {
       "q": "Kun je met een staafmixer ijs crushen?",

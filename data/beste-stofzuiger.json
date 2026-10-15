@@ -16,7 +16,7 @@
   "updated": "2026-10-13",
   "reviews_total": "12.400",
   "intro": "Een goede stofzuiger koop je voor minstens vijf jaar, dus die keuze wil je in één keer goed maken. Wij vergeleken 38 modellen op zuigkracht, accuduur, gewicht, geluid en wat duizenden gebruikers er na maanden gebruik van vinden. Dit zijn de tien beste stofzuigers die je nu kunt kopen, van een betaalbare steelstofzuiger tot het absolute topmodel voor gezinnen met huisdieren.",
-  "verdict": "De Dyson V15 Detect blijft de beste stofzuiger voor wie het maximale wil: enorme zuigkracht, slimme stofdetectie en een accu die een heel huis aankan. Zoek je de slimste koop, dan is de Philips SpeedPro Max Aqua de beste prijs-kwaliteit omdat hij zuigt en dweilt in één beweging. Voor een klein budget doet de Rowenta X-Force Flex 9.60 verrassend veel voor zijn prijs.",
+  "verdict": "De Dyson V15 Detect blijft de beste stofzuiger voor wie het maximale wil: enorme zuigkracht, slimme stofdetectie en een accu die een heel huis aankan. Zoek je de slimste koop, dan is de Philips 8000 Series Aqua Plus de beste prijs-kwaliteit omdat hij zuigt en dweilt in één beweging. Voor een klein budget doet de Rowenta X-Force Flex 9.60 verrassend veel voor zijn prijs.",
   "products": [
     {
       "brand": "Dyson",
@@ -54,32 +54,37 @@
     },
     {
       "brand": "Philips",
-      "name": "SpeedPro Max Aqua XC8347",
-      "price": 429,
+      "name": "8000 Series Aqua Plus XC8055",
+      "price": 314.94,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.800+ reviews",
-      "oneliner": "Zuigt en dweilt tegelijk, met 80 minuten accuduur.",
+      "reviews": "300+ reviews",
+      "oneliner": "Draadloze steelstofzuiger die zuigt en dweilt in één beweging.",
       "specs": {
         "Type": "Steel, draadloos",
         "Accuduur": "tot 80 min",
-        "Gewicht": "2,8 kg",
-        "Stofreservoir": "0,6 l",
-        "Geluid": "ca. 84 dB"
+        "Gewicht": "ca. 2,9 kg",
+        "Stofreservoir": "ca. 0,6 l",
+        "Geluid": "ca. 83 dB"
       },
       "pros": [
-        "Zuigen en dweilen in één beweging met de Aqua-opzet",
-        "Lange accuduur van 80 minuten",
-        "360 graden zuigmond pakt vuil ook zijwaarts",
-        "Ledverlichting in de zuigmond"
+        "Zuigen en dweilen in één beweging",
+        "Zuigmond met LED-verlichting",
+        "Lange accuduur",
+        "Zakloos en makkelijk te legen"
       ],
       "cons": [
-        "Op tapijt minder krachtig dan Dyson",
-        "Waterreservoir moet je na elke beurt schoonmaken",
-        "Geen wandhouder met oplaadfunctie in de doos"
+        "Dweildoek moet je na gebruik uitspoelen",
+        "Iets zwaarder door het waterreservoir"
       ],
-      "ideal": "Huizen met veel harde vloeren waar je het zuigen en dweilen graag in één keer doet.",
-      "text": "De Philips SpeedPro Max Aqua lost een alledaags probleem op: eerst zuigen en dan dweilen kost twee rondes door het huis. Met de Aqua-opzet doe je het in één keer. Het natte microvezeldoek haalt plakkerige vlekken weg terwijl de zuigmond kruimels en stof opneemt. Op laminaat, tegels en pvc is dit volgens gebruikers een enorme tijdwinst.\n\nDe accu is met 80 minuten de langste in deze lijst, waardoor je ook een groot huis in één sessie doet. De 360 graden zuigmond zuigt aan de voor- en zijkant, zodat je langs plinten en onder kasten minder vaak heen en weer hoeft. Op tapijt scoort hij iets minder dan de Dyson, maar voor een huis met hoofdzakelijk harde vloeren is dit de meest praktische stofzuiger voor zijn prijs."
+      "ideal": "Wie veel harde vloeren heeft en met één apparaat wil zuigen en licht dweilen.",
+      "text": "De Philips XC8055 uit de 8000-serie is een draadloze steelstofzuiger met een slimme extra: een dweilopzetstuk dat je achter de zuigmond klikt. Tijdens het zuigen houdt een klein waterreservoir een doek vochtig, zodat je in dezelfde beweging de vloer afneemt. Op laminaat, tegels en pvc scheelt dat een aparte dweilbeurt voor dagelijkse voetstappen en kruimels.\n\nDe zuigmond heeft LED-verlichting, waardoor je stof en haren onder de bank en in donkere hoeken beter ziet. De accu gaat lang mee, ruim genoeg voor een gemiddeld huis in één keer. Het stofreservoir is zakloos en leeg je met een klik. Na het dweilen spoel je de doek uit en laat je hem drogen. Door het water is hij wel iets zwaarder dan een gewone steelstofzuiger. Kopers op bol geven hem een goede beoordeling. Voor dit geld krijg je twee functies die je anders apart koopt, wat hem de beste prijs-kwaliteit maakt.",
+      "ean": "8720389022425",
+      "search": "Philips 8000 Series Aqua Plus XC8055",
+      "bol_title": "Philips Steelstofzuiger met Dweilfunctie XC8055/01 Aqua Plus - Draadloos en Zonder Zak - Zuigmond met LED Verlichting - Kruimeldief - Batterijduur tot 80 min - Lichtgewicht - Blauw",
+      "url": "https://www.bol.com/nl/nl/p/philips-xc8055-01-steelstofzuiger-met-dweilfunctie/9300000141910349/",
+      "image": "https://media.s-bol.com/qqpW24owDnDR/QWGw2LZ/550x546.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Samsung",
@@ -151,32 +156,37 @@
     },
     {
       "brand": "Miele",
-      "name": "Complete C3 Cat & Dog",
-      "price": 349,
+      "name": "Guard M1 Cat & Dog",
+      "price": 329.0,
       "score": 8.9,
       "label": null,
-      "reviews": "2.600+ reviews",
-      "oneliner": "Klassieke sledestofzuiger met zak, onverslaanbaar op tapijt en haar.",
+      "reviews": "200+ reviews",
+      "oneliner": "Sledestofzuiger met zak en turboborstel, gemaakt voor huisdierenhaar.",
       "specs": {
         "Type": "Slede, met zak",
-        "Accuduur": "snoer, 7,5 m",
-        "Gewicht": "5,8 kg",
-        "Stofreservoir": "4,5 l zak",
-        "Geluid": "ca. 75 dB"
+        "Accuduur": "snoer, ca. 7,5 m",
+        "Gewicht": "ca. 5,5 kg",
+        "Stofreservoir": "ca. 3,5 l zak",
+        "Geluid": "ca. 76 dB"
       },
       "pros": [
-        "Turboborstel trekt dierenhaar moeiteloos uit tapijt",
-        "Actiefkoolfilter neemt geurtjes weg",
-        "Grote zak van 4,5 liter, maandenlang geen gedoe",
-        "Miele staat bekend om een levensduur van 15 jaar of meer"
+        "Turboborstel trekt haren uit tapijt",
+        "Stofzak houdt stof en geur goed binnen",
+        "Krachtige 890 watt-motor",
+        "Bekende Miele-duurzaamheid"
       ],
       "cons": [
-        "Snoer, dus je sleept hem mee",
-        "Zakken moet je bijkopen",
-        "Minder handig voor snelle tussendoorbeurten"
+        "Snoer en slede minder handig dan draadloos",
+        "Stofzakken zijn een terugkerende kostenpost"
       ],
-      "ideal": "Huishoudens met huisdieren en veel tapijt die een stofzuiger willen die een generatie meegaat.",
-      "text": "Draadloos is handig, maar als het om pure schoonmaakkracht gaat wint een goede sledestofzuiger met zak nog altijd. De Miele Complete C3 Cat & Dog is daar het beste voorbeeld van. De 890 watt motor met turboborstel haalt dierenhaar uit tapijt waar steelstofzuigers het opgeven. Het actiefkoolfilter houdt de uitgeblazen lucht fris.\n\nDe zak van 4,5 liter hoef je maar eens in de paar maanden te wisselen en je komt nooit in contact met het stof. Gebruikers noemen vooral de degelijkheid: Miele-stofzuigers van tien of vijftien jaar oud doen het vaak nog. Het snoer en het gewicht maken hem minder geschikt voor snelle tussendoorbeurten, maar voor de grote wekelijkse schoonmaak is dit de grondigste stofzuiger in deze lijst."
+      "ideal": "Huishoudens met honden of katten en veel tapijt die een grondige stofzuiger voor jaren zoeken.",
+      "text": "Draadloos is handig, maar voor grondig zuigen in een huis met huisdieren blijft een sledestofzuiger met zak lastig te verslaan. De Miele Guard M1 Cat & Dog heeft een motor van 890 watt en een turboborstel die haren uit tapijt en vloerkleden trekt. Je zuigt zo lang je wilt, zonder op een accu te letten.\n\nDe stofzak is een voordeel als je allergisch bent of last hebt van de geur van dierenhaar. Je gooit de zak dicht weg en het stof blijft binnen. Een filter met actieve kool helpt tegen luchtjes uit de zak. Miele staat bekend om stofzuigers die jarenlang meegaan en dat is een reden waarom veel mensen dit merk blijven kopen. Nadelen zijn het snoer en de slede die je achter je aan trekt, plus de kosten van nieuwe zakken. Kopers op bol geven hem een hoge waardering. Voor tapijt en huisdieren is dit een betrouwbaar werkpaard.",
+      "ean": "4002516795247",
+      "search": "Miele Guard M1 Cat & Dog",
+      "bol_title": "Miele Guard M1 Cat & Dog - Obsidiaanzwart - Stofzuiger met zak - 890W",
+      "url": "https://www.bol.com/nl/nl/p/miele-guard-m1-cat-dog-obsidiaanzwart-stofzuiger-met-zak/9300000192337182/",
+      "image": "https://media.s-bol.com/BALqwwLKg26X/0RPByvX/550x827.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Dreame",
@@ -215,7 +225,7 @@
     {
       "brand": "Bosch",
       "name": "Unlimited 7 ProAnimal",
-      "price": 449,
+      "price": 319.99,
       "score": 8.4,
       "label": null,
       "reviews": "560+ reviews",
@@ -239,19 +249,24 @@
         "Relatief duur voor de prestaties"
       ],
       "ideal": "Wie al Bosch-accugereedschap heeft en één accusysteem in huis wil.",
-      "text": "Het grote voordeel van de Bosch Unlimited 7 zit in de accu: dezelfde 18V-accu past in de boormachine, grastrimmer en heggenschaar van Bosch. Heb je die al in huis, dan heb je meteen een reserveaccu voor je stofzuiger. Dat verdubbelt de accuduur van 40 naar 80 minuten zonder meerkosten.\n\nDe ProAnimal-borstel is ontworpen om haar niet te laten wikkelen en in reviews wordt dat bevestigd. De motor is opvallend stil. Het stofreservoir van 0,3 liter is daarentegen klein, waardoor je in een groot huis halverwege moet legen. De zuigkracht is goed maar niet uitzonderlijk voor deze prijs. Het is vooral een slimme keuze voor wie het accusysteem kan delen."
+      "text": "Het grote voordeel van de Bosch Unlimited 7 zit in de accu: dezelfde 18V-accu past in de boormachine, grastrimmer en heggenschaar van Bosch. Heb je die al in huis, dan heb je meteen een reserveaccu voor je stofzuiger. Dat verdubbelt de accuduur van 40 naar 80 minuten zonder meerkosten.\n\nDe ProAnimal-borstel is ontworpen om haar niet te laten wikkelen en in reviews wordt dat bevestigd. De motor is opvallend stil. Het stofreservoir van 0,3 liter is daarentegen klein, waardoor je in een groot huis halverwege moet legen. De zuigkracht is goed maar niet uitzonderlijk voor deze prijs. Het is vooral een slimme keuze voor wie het accusysteem kan delen.",
+      "ean": "4242005307005",
+      "bol_title": "Bosch BCS711PET - Steelstofzuiger - Rood",
+      "url": "https://www.bol.com/nl/nl/p/bosch-steelstofzuiger-bcs711pet/9300000099535742/",
+      "image": "https://media.s-bol.com/gMJ36MGZ3QZ3/57L6Kov/550x734.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "Shark",
-      "name": "Stratos IZ400EUT",
-      "price": 399,
+      "name": "Stratos IZ400EU",
+      "price": 285.0,
       "score": 8.3,
       "label": null,
       "reviews": "480+ reviews",
       "oneliner": "Anti-haarwikkel en een geurcartridge tegen muffe lucht.",
       "specs": {
         "Type": "Steel, draadloos",
-        "Accuduur": "tot 60 min",
+        "Accuduur": "tot 40 min",
         "Gewicht": "3,2 kg",
         "Stofreservoir": "0,7 l",
         "Geluid": "ca. 81 dB"
@@ -268,7 +283,13 @@
         "Lawaaierig op de hoogste stand"
       ],
       "ideal": "Huishoudens met langharige bewoners, mens of dier, die geen zin hebben in het knippen van haar uit de borstel.",
-      "text": "Shark heeft zich gespecialiseerd in het probleem dat iedereen met lang haar kent: een borstel die na twee weken vol zit met haar dat je er met een schaar uit moet halen. De Anti Hair Wrap-kam van de Stratos verwijdert haar terwijl je zuigt. In reviews is dit het meest genoemde pluspunt.\n\nDe dubbele borstelrol combineert een zachte rol voor fijn stof met een stugge rol voor groter vuil, waardoor je niet van zuigmond hoeft te wisselen tussen tapijt en hout. De Odour Neutraliser is een cartridge die een frisse geur verspreidt tijdens het zuigen, leuk maar niet essentieel. Met 3,2 kilo is hij wel de zwaarste draadloze in deze lijst, wat je bij het zuigen van plafonds en gordijnen merkt."
+      "text": "Shark heeft zich gespecialiseerd in het probleem dat iedereen met lang haar kent: een borstel die na twee weken vol zit met haar dat je er met een schaar uit moet halen. De Anti Hair Wrap-kam van de Stratos verwijdert haar terwijl je zuigt. In reviews is dit het meest genoemde pluspunt.\n\nDe dubbele borstelrol combineert een zachte rol voor fijn stof met een stugge rol voor groter vuil, waardoor je niet van zuigmond hoeft te wisselen tussen tapijt en hout. De Odour Neutraliser is een cartridge die een frisse geur verspreidt tijdens het zuigen, leuk maar niet essentieel. Met 3,2 kilo is hij wel de zwaarste draadloze in deze lijst, wat je bij het zuigen van plafonds en gordijnen merkt.",
+      "ean": "0622356254601",
+      "search": "Shark Stratos IZ400EU",
+      "bol_title": "Shark IZ400EU Steelstofzuiger zonder Zak op Accu- Draadloos - Enkele Accu - Automatische Vuildetectie - Anti-Hair Wrap Technology",
+      "url": "https://www.bol.com/nl/nl/p/shark-iz400eu-steelstofzuiger-zonder-zak-op-accu-draadloos-enkele-accu-automatische-vuildetectie-anti-hair-wrap-technology/9300000157083376/",
+      "image": "https://media.s-bol.com/B2g1N2OELX52/kpQoqr/250x200.jpg",
+      "synced": "2026-10-15"
     },
     {
       "brand": "AEG",
@@ -368,11 +389,11 @@
   "faq": [
     {
       "q": "Wat is de beste stofzuiger van 2026?",
-      "a": "Op basis van onze vergelijking is de Dyson V15 Detect Absolute de beste stofzuiger van 2026, dankzij de hoogste zuigkracht in zijn klasse, stofdetectie met laser en een lange accuduur. Zoek je de beste prijs-kwaliteit, kijk dan naar de Philips SpeedPro Max Aqua."
+      "a": "Op basis van onze vergelijking is de Dyson V15 Detect Absolute de beste stofzuiger van 2026, dankzij de hoogste zuigkracht in zijn klasse, stofdetectie met laser en een lange accuduur. Zoek je de beste prijs-kwaliteit, kijk dan naar de Philips 8000 Series Aqua Plus."
     },
     {
       "q": "Is een draadloze stofzuiger krachtig genoeg voor tapijt?",
-      "a": "Moderne steelstofzuigers vanaf circa 150 airwatt kunnen tapijt prima aan. Voor hoogpolig tapijt of veel huisdierenhaar blijft een sledestofzuiger zoals de Miele Complete C3 grondiger."
+      "a": "Moderne steelstofzuigers vanaf circa 150 airwatt kunnen tapijt prima aan. Voor hoogpolig tapijt of veel huisdierenhaar blijft een sledestofzuiger zoals de Miele Guard M1 grondiger."
     },
     {
       "q": "Hoe lang gaat een accu van een steelstofzuiger mee?",
