@@ -295,7 +295,7 @@ def bars(p, g):
 for g in guides:
     root = "../"; ps = g["products"]; top = ps[0]
     labs = [p for p in ps if p.get("label")][:3]
-    podium = "".join('''<div class="pd%s rv"><span class="lbl">%s</span><div class="im">%s</div><h3>%s %s</h3><div class="pr">%s</div><p>%s</p>%s</div>''' % (
+    podium = "".join('''<div class="pd%s"><span class="lbl">%s</span><div class="im">%s</div><h3>%s %s</h3><div class="pr">%s</div><p>%s</p>%s</div>''' % (
         " first" if i == 0 else "", e(p["label"]), img_of(p), e(p["brand"]), e(p["name"]), eur(p["price"]), e(p["oneliner"]), shop_a(p, g, "btn btn-buy btn-sm magnet")) for i, p in enumerate(labs))
     keys = list(ps[0]["specs"].keys())[:3]
     rows = "".join('<tr><td><span class="rk%s">%d</span></td><td class="nm"><span class="ti">%s<span>%s<small>%s</small></span></span></td>%s<td><b>%s</b></td><td><span class="sc%s">%s</span></td><td>%s</td></tr>' % (
