@@ -7,7 +7,7 @@ import os, re, json, glob, html, datetime, urllib.parse
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 # Varianten: WK_THEME=light|dark (standaard dark), WK_OUT=<map> voor een preview elders (dan noindex + canonical naar .nl)
-THEME = os.environ.get("WK_THEME", "dark")
+THEME = os.environ.get("WK_THEME", "green")  # standaard sinds 15 okt 2026: licht met groen en goud
 OUT = os.environ.get("WK_OUT", ROOT)
 PREVIEW = os.path.abspath(OUT) != ROOT
 THEME_CSS = {"dark": [], "light": ["light"], "green": ["light", "green"]}.get(THEME, [])
