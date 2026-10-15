@@ -11,7 +11,7 @@ def check(path):
         return ["ongeldige JSON: %s" % ex]
     for k in ("slug", "cat", "prio", "title", "short", "query", "keywords", "ico", "updated", "reviews_total", "intro", "verdict", "products", "guide", "faq"):
         if k not in g: errs.append("veld ontbreekt: " + k)
-    if g.get("cat") not in ("huishouden", "keuken", "verzorging", "slapen", "elektronica", "wonen", "sport", "kind", "klussen"): errs.append("onbekende cat")
+    if g.get("cat") not in ("huishouden", "keuken", "verzorging", "slapen", "elektronica", "wonen", "sport", "kind", "klussen", "computer", "telefoon", "audio", "gaming", "foto", "gezondheid", "huisdieren", "speelgoed", "kantoor", "outdoor", "auto", "reizen", "hobby"): errs.append("onbekende cat")
     ps = g.get("products", [])
     if len(ps) != 10: errs.append("aantal producten is %d, moet 10 zijn" % len(ps))
     labs = [p.get("label") for p in ps]
