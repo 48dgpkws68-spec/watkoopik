@@ -216,7 +216,9 @@ items = mq_items()
 half = len(items) // 2
 chips = "".join('<a href="%s">%s</a>' % (g["url"], e(g["short"])) for g in guides[:9])
 PALET = {"huishouden": ("#7c5cff", "#38e1ff"), "keuken": ("#ff7a3d", "#ff4fd8"), "verzorging": ("#ff4fd8", "#7c5cff"), "slapen": ("#3b5bff", "#38e1ff"),
-         "elektronica": ("#00c2ff", "#7c5cff"), "wonen": ("#3ee08f", "#38e1ff"), "sport": ("#ffc65c", "#ff7a3d"), "kind": ("#ff8fb1", "#ffc65c"), "klussen": ("#ffc65c", "#3ee08f")}
+         "elektronica": ("#00c2ff", "#7c5cff"), "wonen": ("#3ee08f", "#38e1ff"), "sport": ("#ffc65c", "#ff7a3d"), "kind": ("#ff8fb1", "#ffc65c"), "klussen": ("#ffc65c", "#3ee08f"),
+         "computer": ("#38e1ff", "#3b5bff"), "telefoon": ("#7c5cff", "#ff4fd8")}
+for _k in CATS: PALET.setdefault(_k, ("#7c5cff", "#38e1ff"))
 cat_keys = [k for k in CATS if by_cat.get(k)]
 sizes = ["big", "", "", "wide", "", ""]
 cat_cards = "".join('''<a class="cat ring tilt rv %s" href="categorie/%s.html" style="--c1:%s;--c2:%s"><span class="ic">%s</span><span class="thumbs">%s</span><b>%s</b><small>%d gidsen · %s</small></a>''' % (

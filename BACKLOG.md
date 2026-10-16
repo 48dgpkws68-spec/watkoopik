@@ -60,12 +60,12 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-heggenschaar | klussen | heggenschaar | De 10 beste heggenschaar van 2026 | 🌳
 [x] beste-bladblazer | klussen | bladblazer | De 10 beste bladblazers van 2026 | 🍂
 [x] beste-bbq | klussen | barbecue | De 10 beste barbecues van 2026 | 🍖
-[ ] beste-gaming-laptop | computer | gaming laptop | De 10 beste gaming laptops van 2026 | 🎮
-[ ] beste-smartphone | telefoon | smartphone | De 10 beste smartphones van 2026 | 📱
-[ ] beste-oled-tv | elektronica | oled tv | De 10 beste OLED tv's van 2026 | 📺
-[ ] beste-laptop-voor-studenten | computer | laptop student | De 10 beste laptops voor studenten van 2026 | 🎓
-[ ] beste-iphone | telefoon | iphone | De 10 beste iPhones van 2026 | 📱
-[ ] beste-tv-55-inch | elektronica | 55 inch tv | De 10 beste 55 inch tv's van 2026 | 📺
+[x] beste-gaming-laptop | computer | gaming laptop | De 10 beste gaming laptops van 2026 | 🎮
+[x] beste-smartphone | telefoon | smartphone | De 10 beste smartphones van 2026 | 📱
+[x] beste-oled-tv | elektronica | oled tv | De 10 beste OLED tv's van 2026 | 📺
+[x] beste-laptop-voor-studenten | computer | laptop student | De 10 beste laptops voor studenten van 2026 | 🎓
+[x] beste-iphone | telefoon | iphone | De 10 beste iPhones van 2026 | 📱
+[x] beste-tv-55-inch | elektronica | 55 inch tv | De 10 beste 55 inch tv's van 2026 | 📺
 [ ] beste-macbook | computer | macbook | De 10 beste MacBooks van 2026 | 💻
 [ ] beste-samsung-smartphone | telefoon | samsung galaxy smartphone | De 10 beste Samsung smartphones van 2026 | 📱
 [ ] beste-tv-65-inch | elektronica | 65 inch tv | De 10 beste 65 inch tv's van 2026 | 📺
