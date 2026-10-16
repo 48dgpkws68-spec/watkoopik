@@ -25,3 +25,14 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: zodra Search Console data heeft, titels en meta's herschrijven voor queries met CTR onder 2%.
 - Idee voor later: categorie kind en sport hebben oude losse pagina's zonder gidsen; vullen via BACKLOG (sport staat er al in).
 - Voor Nick: inloggen op partner.bol.com in Chrome-profiel Browser 1 (staat nog open sinds 13 okt).
+
+## 2026-10-16
+- Signalen: Umami laatste 24 uur ongeveer 24 bezoekers, bounce 19%, 71% blijft op de homepage; bronnen watkoopik.com (7) en github.io (1), 2 bol-klik-events.
+- Signalen: Search Console 7 dagen 0 klikken, 1 vertoning (positie 27); indexering 0 geindexeerd, 8 "gecrawld, momenteel niet geindexeerd", 1 alternatieve pagina met canonical.
+- Signalen: bol partner uitgelogd in Browser 1 (overgeslagen, genoteerd in login-nodig.md); build OK 96 gidsen / 960 producten, check_links 0 fouten en 10/10 doorverwijzingen goed, 0 producten zonder foto; steekproef iphone + vriezer: geen streepjes of ", en", ruim 3.900 woorden.
+- Gedaan: elke bol-knop meet nu ook de plek (podium, tabel, kaart, eindoordeel, sticky) als Umami-eigenschap "plek"; waarom: tot nu toe niet te zien welke knopplaatsing werkt; verwacht effect: over een week onderbouwd knoppen verplaatsen of schrappen.
+- Gedaan: "Ook interessant" onder elke gids toont 6 in plaats van 3 gidsen (max 4 uit dezelfde categorie, aangevuld met verschoven gidsen uit andere categorieen), alle 96 gidsen krijgen zo inlinks vanuit andere gidsen; waarom: 8 pagina's gecrawld maar niet geindexeerd, sterkere interne links helpen Google de waarde te zien; verwacht effect: snellere indexering en meer pagina's per bezoek.
+- Gedaan: sitemap-lastmod volgt nu de nieuwste gidsdatum (per categorie) en vaste data voor statische pagina's in plaats van elke bouw "vandaag"; waarom: Google negeert lastmod als die altijd verandert; verwacht effect: betrouwbaarder hercrawlsignaal bij echte updates. IndexNow: 114 URL's gemeld.
+- Idee voor later: over 5 tot 7 dagen in Umami de eigenschap "plek" van bol-klik vergelijken en de zwakste knopplek aanpassen.
+- Idee voor later: overlap tussen smartphonegidsen (smartphone, iphone, samsung, onder 300) controleren op dubbele inhoud zodra Search Console per URL meldt welke niet geindexeerd worden.
+- Voor Nick: inloggen op partner.bol.com in Chrome-profiel Browser 1 (open sinds 13 okt); optioneel in Search Console voor 5 tot 10 topgidsen "Indexering aanvragen" klikken.
