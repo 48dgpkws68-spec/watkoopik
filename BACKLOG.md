@@ -66,12 +66,12 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-laptop-voor-studenten | computer | laptop student | De 10 beste laptops voor studenten van 2026 | 🎓
 [x] beste-iphone | telefoon | iphone | De 10 beste iPhones van 2026 | 📱
 [x] beste-tv-55-inch | elektronica | 55 inch tv | De 10 beste 55 inch tv's van 2026 | 📺
-[ ] beste-macbook | computer | macbook | De 10 beste MacBooks van 2026 | 💻
-[ ] beste-samsung-smartphone | telefoon | samsung galaxy smartphone | De 10 beste Samsung smartphones van 2026 | 📱
-[ ] beste-tv-65-inch | elektronica | 65 inch tv | De 10 beste 65 inch tv's van 2026 | 📺
-[ ] beste-smartphone-onder-300-euro | telefoon | smartphone onder 300 euro | De 10 beste smartphones onder 300 euro van 2026 | 📱
-[ ] beste-beamer | elektronica | beamer | De 10 beste beamers van 2026 | 📽️
-[ ] beste-vriezer | keuken | vriezer | De 10 beste vriezers van 2026 | 🧊
+[x] beste-macbook | computer | macbook | De 10 beste MacBooks van 2026 | 💻
+[x] beste-samsung-smartphone | telefoon | samsung galaxy smartphone | De 10 beste Samsung smartphones van 2026 | 📱
+[x] beste-tv-65-inch | elektronica | 65 inch tv | De 10 beste 65 inch tv's van 2026 | 📺
+[x] beste-smartphone-onder-300-euro | telefoon | smartphone onder 300 euro | De 10 beste smartphones onder 300 euro van 2026 | 📱
+[x] beste-beamer | elektronica | beamer | De 10 beste beamers van 2026 | 📽️
+[x] beste-vriezer | keuken | vriezer | De 10 beste vriezers van 2026 | 🧊
 [ ] beste-steelstofzuiger | huishouden | steelstofzuiger | De 10 beste steelstofzuigers van 2026 | 🧹
 [ ] beste-amerikaanse-koelkast | keuken | amerikaanse koelkast | De 10 beste Amerikaanse koelkasten van 2026 | 🧊
 [ ] beste-stofzuiger-met-zak | huishouden | stofzuiger met zak | De 10 beste stofzuigers met zak van 2026 | 🧹
