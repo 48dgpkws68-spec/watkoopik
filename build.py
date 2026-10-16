@@ -44,9 +44,9 @@ def shop_link(p):
     target = p.get("url") or "https://www.bol.com/nl/nl/s/?searchtext=" + urllib.parse.quote_plus(q)
     name = re.sub(r"[^A-Za-z0-9 ]", "", "%s %s" % (p["brand"], p["name"]))[:60]
     return "https://partner.bol.com/click/click?p=2&t=url&s=%s&f=TXL&url=%s&name=%s" % (BOL_SITE_ID, urllib.parse.quote(target, safe=""), urllib.parse.quote_plus(name))
-def shop_a(p, g, cls="btn btn-buy magnet"):
-    return '<a class="%s" href="%s" rel="sponsored nofollow noopener" target="_blank" data-umami-event="bol-klik" data-umami-event-gids="%s" data-umami-event-product="%s" data-umami-event-positie="%s">Bekijk bij bol <span class="arr">→</span></a>' % (
-        cls, shop_link(p), g["slug"], e("%s %s" % (p["brand"], p["name"])), p.get("rank", ""))
+def shop_a(p, g, cls="btn btn-buy magnet", plek="kaart"):
+    return '<a class="%s" href="%s" rel="sponsored nofollow noopener" target="_blank" data-umami-event="bol-klik" data-umami-event-gids="%s" data-umami-event-product="%s" data-umami-event-positie="%s" data-umami-event-plek="%s">Bekijk bij bol <span class="arr">→</span></a>' % (
+        cls, shop_link(p), g["slug"], e("%s %s" % (p["brand"], p["name"])), p.get("rank", ""), plek)
 
 STAR = '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M12 2.5l2.9 6.1 6.7.8-4.9 4.6 1.3 6.6L12 17.3l-6 3.3 1.3-6.6L2.4 9.4l6.7-.8z" fill="%s"/></svg>'
 def stars(score):
@@ -326,11 +326,11 @@ for g in guides:
     root = "../"; ps = g["products"]; top = ps[0]
     labs = [p for p in ps if p.get("label")][:3]
     podium = "".join('''<div class="pd%s"><span class="lbl">%s</span><div class="im">%s</div><h3>%s %s</h3><div class="pr">%s</div><p>%s</p>%s</div>''' % (
-        " first" if i == 0 else "", e(p["label"]), img_of(p), e(p["brand"]), e(p["name"]), eur(p["price"]), e(p["oneliner"]), shop_a(p, g, "btn btn-buy btn-sm magnet")) for i, p in enumerate(labs))
+        " first" if i == 0 else "", e(p["label"]), img_of(p), e(p["brand"]), e(p["name"]), eur(p["price"]), e(p["oneliner"]), shop_a(p, g, "btn btn-buy btn-sm magnet", "podium")) for i, p in enumerate(labs))
     keys = list(ps[0]["specs"].keys())[:3]
     rows = "".join('<tr><td><span class="rk%s">%d</span></td><td class="nm"><span class="ti">%s<span>%s<small>%s</small></span></span></td>%s<td><b>%s</b></td><td><span class="sc%s">%s</span></td><td>%s</td></tr>' % (
         " r1" if p["rank"] == 1 else "", p["rank"], ('<img src="%s" alt="" loading="lazy">' % e(p["image"])) if p.get("image") else "", e(p["brand"]), e(p["name"]),
-        "".join("<td>%s</td>" % e(str(p["specs"].get(k, "-"))) for k in keys), eur(p["price"]), " hi" if p["score"] >= 9 else "", p["score"], shop_a(p, g, "btn btn-buy btn-sm")) for p in ps)
+        "".join("<td>%s</td>" % e(str(p["specs"].get(k, "-"))) for k in keys), eur(p["price"]), " hi" if p["score"] >= 9 else "", p["score"], shop_a(p, g, "btn btn-buy btn-sm", "tabel")) for p in ps)
     table = '<div class="tbl rv"><table><thead><tr><th>#</th><th>Model</th>%s<th>Prijs</th><th>Score</th><th></th></tr></thead><tbody>%s</tbody></table></div>' % ("".join("<th>%s</th>" % e(k) for k in keys), rows)
     cards = "".join('''<article class="pr-card%s rv" id="p%d"><div class="pr-head"><div class="pr-img"><span class="n">%d</span>%s</div><div>%s<h2>%s %s</h2>
 <div class="pr-meta"><span class="price">%s</span><span>%s <b>%s</b>/10</span><span>%s</span></div>%s<div class="specs">%s</div></div></div>
@@ -343,7 +343,9 @@ for g in guides:
     guide_html = "".join("<h3>%s</h3>%s" % (e(s["h"]), "".join("<p>%s</p>" % e(t) for t in s["p"].split("\n\n"))) for s in g["guide"])
     faq = "".join("<details><summary>%s</summary><p>%s</p></details>" % (e(q["q"]), e(q["a"])) for q in g["faq"])
     toc = "".join('<li><a href="#p%d">%s %s</a></li>' % (p["rank"], e(p["brand"]), e(p["name"])) for p in ps)
-    rel = [x for x in by_cat[g["cat"]] if x["slug"] != g["slug"]][:3] or [x for x in guides if x["slug"] != g["slug"]][:3]
+    rel = [x for x in by_cat[g["cat"]] if x["slug"] != g["slug"]][:4]
+    gi = guides.index(g)  # aanvullen met gidsen uit andere categorieen, per gids verschoven zodat elke gids inlinks krijgt
+    rel += [x for x in (guides[(gi + 7 * j + 3) % len(guides)] for j in range(len(guides))) if x["cat"] != g["cat"] and x not in rel][:6 - len(rel)]
     url_abs = SITE + "/" + g["url"]
     def prod_ld(p):
         d = {"@type": "Product", "name": "%s %s" % (p["brand"], p["name"]), "brand": {"@type": "Brand", "name": p["brand"]},
@@ -385,8 +387,8 @@ for g in guides:
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], e(g["short"]), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), e(str(g.get("reviews_total", ""))),
-        podium, len(ps), table, cards, e(g["verdict"]), shop_a(top, g), e(g["query"]), guide_html, faq, toc, "".join(gcard(x, root) for x in rel),
-        ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm"))
+        podium, len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g["query"]), guide_html, faq, toc, "".join(gcard(x, root) for x in rel),
+        ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     title = "Beste %s %d: top 10 vergeleken | watkoopik" % (g["query"], YEAR)
     if len(title) > 62: title = "%s | watkoopik" % g["title"]
@@ -449,9 +451,11 @@ page("404.html", "Niet gevonden | watkoopik", "Pagina niet gevonden.", '<section
 
 prose("bedankt.html", "Bedankt", "Bedankt voor je bericht.", '<h1 style="font-size:2rem">Bedankt!</h1><p>We hebben je bericht ontvangen en reageren binnen twee werkdagen. <a href="./">Terug naar home</a>.</p>')
 wr("stats.html", '<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><meta http-equiv="refresh" content="0;url=https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl"><title>Statistieken</title></head><body><a href="https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl">Naar het dashboard</a></body></html>')
-urls = [("", TODAY.isoformat(), "1.0"), ("gidsen.html", TODAY.isoformat(), "0.8"), ("keuzehulp.html", TODAY.isoformat(), "0.7"), ("slimste-koop.html", TODAY.isoformat(), "0.7"),
-        ("zo-kiezen-wij.html", TODAY.isoformat(), "0.4"), ("over-ons.html", TODAY.isoformat(), "0.3"), ("contact.html", TODAY.isoformat(), "0.3")]
-urls += [("categorie/%s.html" % k, TODAY.isoformat(), "0.7") for k in CATS if by_cat.get(k)]
+# lastmod volgt echte wijzigingen (nieuwste gids), niet de bouwdatum, zodat Google het signaal blijft vertrouwen
+LAST = max(g.get("updated", TODAY.isoformat()) for g in guides)
+urls = [("", LAST, "1.0"), ("gidsen.html", LAST, "0.8"), ("keuzehulp.html", LAST, "0.7"), ("slimste-koop.html", LAST, "0.7"),
+        ("zo-kiezen-wij.html", "2026-10-13", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
+urls += [("categorie/%s.html" % k, max(g.get("updated", TODAY.isoformat()) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
 urls += [(g["url"], g.get("updated", TODAY.isoformat()), "0.9") for g in guides]
 wr("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join("<url><loc>%s/%s</loc><lastmod>%s</lastmod><priority>%s</priority></url>\n" % (SITE, u, d, pr) for u, d, pr in urls) + "</urlset>\n")
 
