@@ -79,12 +79,12 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-robotstofzuiger-met-dweilfunctie | huishouden | robotstofzuiger dweilfunctie | De 10 beste robotstofzuigers met dweilfunctie van 2026 | 🤖
 [x] beste-combimagnetron | keuken | combimagnetron | De 10 beste combimagnetrons van 2026 | 🔥
 ## Long-tail eerst (17 okt 2026): specifieke zoekvragen met minder concurrentie en duidelijke koopintentie
-[ ] beste-airfryer-1-persoon | keuken | kleine airfryer | De 10 beste airfryers voor 1 persoon van 2026 | 🍟
-[ ] beste-airfryer-groot-gezin | keuken | airfryer xxl dubbele lade | De 10 beste airfryers voor een groot gezin van 2026 | 🍟
-[ ] beste-stille-stofzuiger | huishouden | stille stofzuiger | De 10 stilste stofzuigers van 2026 | 🤫
-[ ] beste-stofzuiger-huisdieren | huishouden | stofzuiger huisdieren | De 10 beste stofzuigers voor huisdierenharen van 2026 | 🐕
-[ ] beste-robotstofzuiger-huisdieren | huishouden | robotstofzuiger huisdieren | De 10 beste robotstofzuigers voor huisdieren van 2026 | 🐈
-[ ] beste-wanddroogrek-zonder-boren | huishouden | droogrek radiator balkon | De 10 beste droogrekken zonder boren van 2026 | 🧺
+[x] beste-airfryer-1-persoon | keuken | kleine airfryer | De 10 beste airfryers voor 1 persoon van 2026 | 🍟
+[x] beste-airfryer-groot-gezin | keuken | airfryer xxl dubbele lade | De 10 beste airfryers voor een groot gezin van 2026 | 🍟
+[x] beste-stille-stofzuiger | huishouden | stille stofzuiger | De 10 stilste stofzuigers van 2026 | 🤫
+[x] beste-stofzuiger-huisdieren | huishouden | stofzuiger huisdieren | De 10 beste stofzuigers voor huisdierenharen van 2026 | 🐕
+[x] beste-robotstofzuiger-huisdieren | huishouden | robotstofzuiger huisdieren | De 10 beste robotstofzuigers voor huisdieren van 2026 | 🐈
+[x] beste-wanddroogrek-zonder-boren | huishouden | droogrek radiator balkon | De 10 beste droogrekken zonder boren van 2026 | 🧺
 [ ] beste-luchtontvochtiger-slaapkamer | wonen | stille luchtontvochtiger | De 10 beste luchtontvochtigers voor de slaapkamer van 2026 | 💧
 [ ] beste-luchtreiniger-allergie | wonen | luchtreiniger hepa | De 10 beste luchtreinigers bij allergie van 2026 | 🌿
 [ ] beste-elektrische-kachel-zuinig | wonen | zuinige elektrische kachel | De 10 zuinigste elektrische kachels van 2026 | 🔥
