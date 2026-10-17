@@ -72,12 +72,12 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-smartphone-onder-300-euro | telefoon | smartphone onder 300 euro | De 10 beste smartphones onder 300 euro van 2026 | 📱
 [x] beste-beamer | elektronica | beamer | De 10 beste beamers van 2026 | 📽️
 [x] beste-vriezer | keuken | vriezer | De 10 beste vriezers van 2026 | 🧊
-[ ] beste-steelstofzuiger | huishouden | steelstofzuiger | De 10 beste steelstofzuigers van 2026 | 🧹
-[ ] beste-amerikaanse-koelkast | keuken | amerikaanse koelkast | De 10 beste Amerikaanse koelkasten van 2026 | 🧊
-[ ] beste-stofzuiger-met-zak | huishouden | stofzuiger met zak | De 10 beste stofzuigers met zak van 2026 | 🧹
-[ ] beste-oven | keuken | inbouw oven | De 10 beste ovens van 2026 | 🔥
-[ ] beste-robotstofzuiger-met-dweilfunctie | huishouden | robotstofzuiger dweilfunctie | De 10 beste robotstofzuigers met dweilfunctie van 2026 | 🤖
-[ ] beste-combimagnetron | keuken | combimagnetron | De 10 beste combimagnetrons van 2026 | 🔥
+[x] beste-steelstofzuiger | huishouden | steelstofzuiger | De 10 beste steelstofzuigers van 2026 | 🧹
+[x] beste-amerikaanse-koelkast | keuken | amerikaanse koelkast | De 10 beste Amerikaanse koelkasten van 2026 | 🧊
+[x] beste-stofzuiger-met-zak | huishouden | stofzuiger met zak | De 10 beste stofzuigers met zak van 2026 | 🧹
+[x] beste-oven | keuken | inbouw oven | De 10 beste ovens van 2026 | 🔥
+[x] beste-robotstofzuiger-met-dweilfunctie | huishouden | robotstofzuiger dweilfunctie | De 10 beste robotstofzuigers met dweilfunctie van 2026 | 🤖
+[x] beste-combimagnetron | keuken | combimagnetron | De 10 beste combimagnetrons van 2026 | 🔥
 [ ] beste-nat-droogzuiger | huishouden | nat droogzuiger | De 10 beste nat-droogzuigers van 2026 | 💧
 [ ] beste-fornuis | keuken | fornuis | De 10 beste fornuizen van 2026 | 🍳
 [ ] beste-was-droogcombinatie | huishouden | was droogcombinatie | De 10 beste was-droogcombinaties van 2026 | 🧺
