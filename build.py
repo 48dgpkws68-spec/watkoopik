@@ -3,7 +3,7 @@
 Inhoud komt uit data/*.json. Gebruik: python3 build.py (of ./deploy.sh "bericht").
 Vorige versie van de bouwmotor: build_v1.py (niet meer gebruikt).
 Copyregel: geen em/en-dashes, geen ", en"."""
-import os, re, json, glob, html, datetime, urllib.parse
+import os, re, sys, json, glob, html, datetime, urllib.parse
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 # Varianten: WK_THEME=light|dark (standaard dark), WK_OUT=<map> voor een preview elders (dan noindex + canonical naar .nl)
@@ -132,6 +132,20 @@ for g in guides:
 # ---------- chrome ----------
 NAV = [("gidsen.html", "Alle gidsen"), ("keuzehulp.html", "Keuzehulp"), ("slimste-koop.html", "Slimste koop"), ("zo-kiezen-wij.html", "Zo kiezen wij")]
 
+sys.path.insert(0, os.path.join(ROOT, "tools"))
+try:
+    import og as OG
+except Exception:
+    OG = None
+
+def og_img(g, top):
+    """Eigen 1200x630 deelkaart per gids; valt terug op de productfoto als PIL ontbreekt."""
+    rel = "og/%s.jpg" % g["slug"]
+    if OG and not os.path.exists(os.path.join(ROOT, rel)):
+        try: OG.card(os.path.join(ROOT, rel), g["title"], "Top 10 · %s" % CATS[g["cat"]][0], g.get("color"), top.get("image"))
+        except Exception: pass
+    return SITE + "/" + rel if os.path.exists(os.path.join(ROOT, rel)) else top.get("image", "")
+
 def head(title, desc, path, root, extra="", img=""):
     canon = CANON + "/" + path
     return '''<!doctype html>
@@ -144,7 +158,7 @@ def head(title, desc, path, root, extra="", img=""):
 <meta name="robots" content="%s">
 <link rel="canonical" href="%s">
 <link rel="alternate" hreflang="nl-NL" href="%s">
-<meta property="og:title" content="%s"><meta property="og:description" content="%s"><meta property="og:type" content="website"><meta property="og:locale" content="nl_NL"><meta property="og:site_name" content="watkoopik"><meta property="og:url" content="%s">%s
+<meta property="og:title" content="%s"><meta property="og:description" content="%s"><meta property="og:type" content="%s"><meta property="og:locale" content="nl_NL"><meta property="og:site_name" content="watkoopik"><meta property="og:url" content="%s">%s
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#07060f">
 <link rel="icon" href="%sfavicon.svg" type="image/svg+xml">
@@ -157,7 +171,7 @@ def head(title, desc, path, root, extra="", img=""):
 </head>
 <body class="%s">
 <div class="fx-fallback" aria-hidden="true"></div><canvas id="fx" aria-hidden="true"></canvas><div class="fx-veil" aria-hidden="true"></div><div class="fx-grain" aria-hidden="true"></div><div class="cursor-glow" aria-hidden="true"></div>
-<div class="progress" aria-hidden="true"></div>''' % (e(title), e(desc), "noindex,follow" if PREVIEW else "index,follow,max-image-preview:large", canon, canon, e(title), e(desc), canon, ('<meta property="og:image" content="%s">' % e(img)) if img else '', root, root, BUILD, "".join('<link rel="stylesheet" href="%s%s.css?v=%s">' % (root, n, BUILD) for n in THEME_CSS), json.dumps(root), extra, BODY_CLASS)
+<div class="progress" aria-hidden="true"></div>''' % (e(title), e(desc), "noindex,follow" if PREVIEW else "index,follow,max-image-preview:large", canon, canon, e(title), e(desc), "article" if "/beste/" in canon else "website", canon, (('<meta property="og:image" content="%s">' % e(img)) + ('<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="%s">' % e(title) if "/og/" in img else '')) if img else '', root, root, BUILD, "".join('<link rel="stylesheet" href="%s%s.css?v=%s">' % (root, n, BUILD) for n in THEME_CSS), json.dumps(root), extra, BODY_CLASS)
 
 def searchbox(cls="", ph="Zoek een product of merk", btn=True):
     return '''<div class="search-wrap"><form class="search %s" data-search role="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input type="search" placeholder="%s" aria-label="Zoek een gids" autocomplete="off">%s</form><div class="results"></div></div>''' % (cls, ph, '<button class="sbtn" type="submit">Zoek</button>' if btn else "")
@@ -367,7 +381,7 @@ for g in guides:
           {"@context": "https://schema.org", "@type": "Article", "headline": g["title"], "description": g["intro"][:200], "dateModified": g.get("updated", TODAY.isoformat()),
            "datePublished": g.get("published", g.get("updated", TODAY.isoformat())), "author": {"@type": "Organization", "name": "redactie watkoopik", "url": SITE + "/over-ons.html"},
            "publisher": {"@type": "Organization", "name": "watkoopik", "logo": {"@type": "ImageObject", "url": SITE + "/favicon.svg"}}, "mainEntityOfPage": url_abs,
-           "image": [p["image"] for p in ps if p.get("image")][:3]},
+           "image": [SITE + "/og/%s.jpg" % g["slug"]] + [p["image"] for p in ps if p.get("image")][:2]},
           {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["a"]}} for q in g["faq"]]},
           {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
               {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"},
@@ -399,7 +413,7 @@ for g in guides:
     if len(title) > 62: title = "%s | watkoopik" % g["title"]
     desc = "De beste %s van %d is de %s %s (%s). Slimste koop: %s %s voor %s. Bekijk de volledige top 10 met plus- en minpunten, koopgids en FAQ." % (
         g["query"], YEAR, top["brand"], top["name"], eur(top["price"]), bv["brand"], bv["name"], eur(bv["price"]))
-    page(g["url"], title, desc, body, extra=extra, img=top.get("image", ""))
+    page(g["url"], title, desc, body, extra=extra, img=og_img(g, top))
 
 # ---------- keuzehulp ----------
 quiz = {}
