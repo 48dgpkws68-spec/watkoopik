@@ -36,3 +36,13 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: over 5 tot 7 dagen in Umami de eigenschap "plek" van bol-klik vergelijken en de zwakste knopplek aanpassen.
 - Idee voor later: overlap tussen smartphonegidsen (smartphone, iphone, samsung, onder 300) controleren op dubbele inhoud zodra Search Console per URL meldt welke niet geindexeerd worden.
 - Voor Nick: inloggen op partner.bol.com in Chrome-profiel Browser 1 (open sinds 13 okt); optioneel in Search Console voor 5 tot 10 topgidsen "Indexering aanvragen" klikken.
+
+## 2026-10-17
+- Signalen: Umami laatste 24 uur ongeveer 14 bezoekers (teller laadt traag in de share-weergave), vooral homepage, bronnen watkoopik.com, bounce 25%; bol-klik-events laag (enkele per week), eigenschap "plek" nog te weinig data.
+- Signalen: Search Console ongewijzigd (data t/m 14 okt): 0 klikken, 1 vertoning, 0 geindexeerd, 8 "gecrawld, momenteel niet geindexeerd", 1 alternatieve canonical.
+- Signalen: bol partner uitgelogd in Browser 1 (overgeslagen, genoteerd in login-nodig.md); build OK 108 gidsen / 1080 producten, check_links 0 fouten en 10/10 goed, 0 producten zonder foto; steekproef stille-stofzuiger + wanddroogrek-zonder-boren: 0 streepjes, 0 ", en", geen "getest", 3.900 tot 4.200 woorden.
+- Gedaan: elke gids heeft weer een eigen deelkaart 1200x630 (og/<slug>.jpg met titel, categorie en huidig nr. 1), plus og:image:width/height/alt en als eerste beeld in Article-structured data; waarom: sinds de nieuwe build.py werd de kaart niet meer gebruikt en toonde 78 gidsen een staand bol-plaatje van 550 px als deelbeeld (Pinterest, WhatsApp, Facebook snijden dat bij); generator staat nu in tools/og.py en maakt alleen ontbrekende kaarten (oude 29 kaarten opnieuw gemaakt omdat ze een verouderde nr. 1 toonden); verwacht effect: hogere CTR op gedeelde links en pins, nette Discover-kandidaat (max-image-preview large).
+- Gedaan: gidsen hebben og:type article in plaats van website; waarom: juiste type voor artikelen met datum; verwacht effect: correcte weergave in sociale previews.
+- Idee voor later: verander een gids van nr. 1 dan blijft de oude kaart staan; kaart opnieuw maken als de winnaar wisselt (bijv. nr. 1-naam in bestandshash).
+- Idee voor later: zodra Search Console per URL toont welke 8 niet geindexeerd zijn, die gidsen extra versterken (unieke intro, meer inlinks vanaf homepage).
+- Voor Nick: inloggen op partner.bol.com in Chrome-profiel Browser 1 (open sinds 13 okt); optioneel in Search Console "Indexering aanvragen" voor 5 tot 10 topgidsen.
