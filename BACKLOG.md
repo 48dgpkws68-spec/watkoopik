@@ -78,6 +78,39 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-oven | keuken | inbouw oven | De 10 beste ovens van 2026 | 🔥
 [x] beste-robotstofzuiger-met-dweilfunctie | huishouden | robotstofzuiger dweilfunctie | De 10 beste robotstofzuigers met dweilfunctie van 2026 | 🤖
 [x] beste-combimagnetron | keuken | combimagnetron | De 10 beste combimagnetrons van 2026 | 🔥
+## Long-tail eerst (17 okt 2026): specifieke zoekvragen met minder concurrentie en duidelijke koopintentie
+[ ] beste-airfryer-1-persoon | keuken | kleine airfryer | De 10 beste airfryers voor 1 persoon van 2026 | 🍟
+[ ] beste-airfryer-groot-gezin | keuken | airfryer xxl dubbele lade | De 10 beste airfryers voor een groot gezin van 2026 | 🍟
+[ ] beste-stille-stofzuiger | huishouden | stille stofzuiger | De 10 stilste stofzuigers van 2026 | 🤫
+[ ] beste-stofzuiger-huisdieren | huishouden | stofzuiger huisdieren | De 10 beste stofzuigers voor huisdierenharen van 2026 | 🐕
+[ ] beste-robotstofzuiger-huisdieren | huishouden | robotstofzuiger huisdieren | De 10 beste robotstofzuigers voor huisdieren van 2026 | 🐈
+[ ] beste-wanddroogrek-zonder-boren | huishouden | droogrek radiator balkon | De 10 beste droogrekken zonder boren van 2026 | 🧺
+[ ] beste-luchtontvochtiger-slaapkamer | wonen | stille luchtontvochtiger | De 10 beste luchtontvochtigers voor de slaapkamer van 2026 | 💧
+[ ] beste-luchtreiniger-allergie | wonen | luchtreiniger hepa | De 10 beste luchtreinigers bij allergie van 2026 | 🌿
+[ ] beste-elektrische-kachel-zuinig | wonen | zuinige elektrische kachel | De 10 zuinigste elektrische kachels van 2026 | 🔥
+[ ] beste-elektrische-deken | slapen | elektrische deken | De 10 beste elektrische dekens van 2026 | 🛏️
+[ ] beste-matras-rugklachten | slapen | matras rugklachten | De 10 beste matrassen bij rugklachten van 2026 | 🛏️
+[ ] beste-hoofdkussen-nekklachten | slapen | ergonomisch hoofdkussen | De 10 beste hoofdkussens bij nekklachten van 2026 | 😴
+[ ] beste-koptelefoon-onder-100-euro | elektronica | koptelefoon noise cancelling goedkoop | De 10 beste koptelefoons onder 100 euro van 2026 | 🎧
+[ ] beste-oordopjes-sporten | sport | sport oordopjes draadloos | De 10 beste sportoordopjes van 2026 | 🎧
+[ ] beste-oordopjes-slapen | slapen | slaap oordopjes | De 10 beste oordopjes om mee te slapen van 2026 | 😴
+[ ] beste-espressomachine-beginners | keuken | espressomachine pistonmachine | De 10 beste espressomachines voor beginners van 2026 | ☕
+[ ] beste-koffiemachine-bonen-onder-500 | keuken | volautomaat goedkoop | De 10 beste bonenmachines onder 500 euro van 2026 | ☕
+[ ] beste-laptop-thuiswerken | computer | laptop thuiswerken | De 10 beste laptops om thuis te werken van 2026 | 💻
+[ ] beste-laptop-ouderen | computer | laptop eenvoudig | De 10 beste laptops voor ouderen van 2026 | 💻
+[ ] beste-tablet-kinderen | elektronica | kindertablet | De 10 beste tablets voor kinderen van 2026 | 🧒
+[ ] beste-tablet-ouderen | elektronica | tablet senioren | De 10 beste tablets voor ouderen van 2026 | 📱
+[ ] beste-smartwatch-ouderen | telefoon | smartwatch valdetectie | De 10 beste smartwatches voor ouderen van 2026 | ⌚
+[ ] beste-hometrainer-klein | sport | opvouwbare hometrainer | De 10 beste opvouwbare hometrainers van 2026 | 🚴
+[ ] beste-loopband-onder-bureau | sport | walking pad | De 10 beste walking pads van 2026 | 🚶
+[ ] beste-bureaustoel-rugklachten | wonen | ergonomische bureaustoel | De 10 beste bureaustoelen bij rugklachten van 2026 | 🪑
+[ ] beste-sta-bureau | wonen | zit sta bureau elektrisch | De 10 beste zit-sta-bureaus van 2026 | 🧍
+[ ] beste-accuboormachine-beginners | klussen | accuboormachine set | De 10 beste accuboormachines voor beginners van 2026 | 🔧
+[ ] beste-grasmaaier-kleine-tuin | klussen | accu grasmaaier klein | De 10 beste grasmaaiers voor een kleine tuin van 2026 | 🌱
+[ ] beste-dashcam-voor-en-achter | elektronica | dashcam voor achter | De 10 beste dashcams voor en achter van 2026 | 🚗
+[ ] beste-videodeurbel-zonder-abonnement | elektronica | videodeurbel zonder abonnement | De 10 beste videodeurbellen zonder abonnement van 2026 | 🔔
+
+## Overige gidsen
 [ ] beste-nat-droogzuiger | huishouden | nat droogzuiger | De 10 beste nat-droogzuigers van 2026 | 💧
 [ ] beste-fornuis | keuken | fornuis | De 10 beste fornuizen van 2026 | 🍳
 [ ] beste-was-droogcombinatie | huishouden | was droogcombinatie | De 10 beste was-droogcombinaties van 2026 | 🧺

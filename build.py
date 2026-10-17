@@ -345,7 +345,10 @@ for g in guides:
     guide_html = "".join("<h3>%s</h3>%s" % (e(s["h"]), "".join("<p>%s</p>" % e(t) for t in s["p"].split("\n\n"))) for s in g["guide"])
     faq = "".join("<details><summary>%s</summary><p>%s</p></details>" % (e(q["q"]), e(q["a"])) for q in g["faq"])
     toc = "".join('<li><a href="#p%d">%s %s</a></li>' % (p["rank"], e(p["brand"]), e(p["name"])) for p in ps)
-    rel = [x for x in by_cat[g["cat"]] if x["slug"] != g["slug"]][:4]
+    # varianten van hetzelfde product eerst (beste-airfryer <-> beste-airfryer-1-persoon), daarna dezelfde categorie
+    stem = lambda sl: sl[6:].split("-")[0]
+    fam = [x for x in guides if x["slug"] != g["slug"] and stem(x["slug"]) == stem(g["slug"])]
+    rel = (fam + [x for x in by_cat[g["cat"]] if x["slug"] != g["slug"] and x not in fam])[:4]
     gi = guides.index(g)  # aanvullen met gidsen uit andere categorieen, per gids verschoven zodat elke gids inlinks krijgt
     rel += [x for x in (guides[(gi + 7 * j + 3) % len(guides)] for j in range(len(guides))) if x["cat"] != g["cat"] and x not in rel][:6 - len(rel)]
     url_abs = SITE + "/" + g["url"]
