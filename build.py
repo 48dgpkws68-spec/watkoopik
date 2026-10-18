@@ -3,7 +3,7 @@
 Inhoud komt uit data/*.json. Gebruik: python3 build.py (of ./deploy.sh "bericht").
 Vorige versie van de bouwmotor: build_v1.py (niet meer gebruikt).
 Copyregel: geen em/en-dashes, geen ", en"."""
-import os, re, sys, json, glob, html, datetime, urllib.parse
+import os, re, sys, json, hashlib, glob, html, datetime, urllib.parse
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 # Varianten: WK_THEME=light|dark (standaard dark), WK_OUT=<map> voor een preview elders (dan noindex + canonical naar .nl)
@@ -137,14 +137,25 @@ try:
     import og as OG
 except Exception:
     OG = None
+OG_META_FILE = os.path.join(ROOT, "og", "_meta.json")
+try: OG_META = json.load(open(OG_META_FILE))
+except Exception: OG_META = {}
 
 def og_img(g, top):
-    """Eigen 1200x630 deelkaart per gids; valt terug op de productfoto als PIL ontbreekt."""
+    """Eigen 1200x630 deelkaart per gids; valt terug op de productfoto als PIL ontbreekt.
+    Wisselt de nr. 1 (andere foto), dan wordt de kaart opnieuw gemaakt en krijgt de URL een nieuwe ?v= zodat deelplatforms niet het oude beeld tonen."""
     rel = "og/%s.jpg" % g["slug"]
-    if OG and not os.path.exists(os.path.join(ROOT, rel)):
-        try: OG.card(os.path.join(ROOT, rel), g["title"], "Top 10 · %s" % CATS[g["cat"]][0], g.get("color"), top.get("image"))
-        except Exception: pass
-    return SITE + "/" + rel if os.path.exists(os.path.join(ROOT, rel)) else top.get("image", "")
+    path = os.path.join(ROOT, rel)
+    sig = hashlib.md5((g["title"] + "|" + (top.get("image") or "")).encode("utf-8")).hexdigest()[:8]
+    if OG:
+        if OG_META.get(g["slug"]) != sig and os.path.exists(path) and g["slug"] in OG_META:
+            os.remove(path)
+        if not os.path.exists(path):
+            try: OG.card(path, g["title"], "Top 10 · %s" % CATS[g["cat"]][0], g.get("color"), top.get("image"))
+            except Exception: pass
+        if os.path.exists(path) and OG_META.get(g["slug"]) != sig:
+            OG_META[g["slug"]] = sig; OG_META["_dirty"] = 1
+    return SITE + "/" + rel + "?v=" + OG_META.get(g["slug"], sig) if os.path.exists(path) else top.get("image", "")
 
 def head(title, desc, path, root, extra="", img=""):
     canon = CANON + "/" + path
@@ -486,4 +497,6 @@ wr("CNAME", "watkoopik.com\n" if PREVIEW else "watkoopik.nl\n"); wr(".nojekyll",
 wr("robots.txt", "User-agent: *\nDisallow: /\n" if PREVIEW else "User-agent: *\nAllow: /\nDisallow: /stats.html\nSitemap: %s/sitemap.xml\n" % SITE)
 wr("search.json", json.dumps([{"t": g["title"], "u": g["url"], "c": CATS[g["cat"]][0], "w": "%s %s" % (win(g)["brand"], win(g)["name"]), "i": win(g).get("image", ""),
     "k": " ".join([g["query"], g["short"]] + g.get("keywords", []) + ["%s %s" % (p["brand"], p["name"]) for p in g["products"]])} for g in guides], ensure_ascii=False))
+if OG_META.pop("_dirty", None):
+    json.dump(OG_META, open(OG_META_FILE, "w"), indent=0, sort_keys=True)
 print("OK pro: %d gidsen, %d producten" % (len(guides), N_PROD))
