@@ -46,3 +46,12 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: verander een gids van nr. 1 dan blijft de oude kaart staan; kaart opnieuw maken als de winnaar wisselt (bijv. nr. 1-naam in bestandshash).
 - Idee voor later: zodra Search Console per URL toont welke 8 niet geindexeerd zijn, die gidsen extra versterken (unieke intro, meer inlinks vanaf homepage).
 - Voor Nick: inloggen op partner.bol.com in Chrome-profiel Browser 1 (open sinds 13 okt); optioneel in Search Console "Indexering aanvragen" voor 5 tot 10 topgidsen.
+
+## 2026-10-18
+- Signalen: Umami laatste 24 uur 7 bezoekers, 9 weergaven, bounce 10%, vooral homepage, bron watkoopik.com; nog te weinig bol-klik-events voor een uitspraak over eigenschap "plek".
+- Signalen: Search Console ongewijzigd: 0 geindexeerd, 8 "gecrawld, momenteel niet geindexeerd", 1 alternatieve canonical; geen nieuwe zoekdata.
+- Signalen: bol partner uitgelogd in Browser 1 (overgeslagen, genoteerd in login-nodig.md); build OK 120 gidsen / 1200 producten, check_links 0 fouten en 10/10 goed, 0 producten zonder foto; steekproef laptop-thuiswerken + koffiemachine-bonen-onder-500: 0 streepjes, 0 ", en", geen "getest", 4.000 tot 4.550 woorden.
+- Gedaan: deelkaart (og/<slug>.jpg) wordt automatisch opnieuw gemaakt als de nr. 1 of titel van een gids verandert (vingerafdruk per gids in og/_meta.json) en og:image krijgt een ?v=<vingerafdruk>; waarom: idee van 17 okt, na een productwissel bleef het oude winnaarsbeeld staan en Facebook/Pinterest/WhatsApp cachen op URL; verwacht effect: deelbeeld klopt altijd met de gids, geen verouderde productfoto in pins en previews. Getest door een vingerafdruk te wijzigen: kaart werd opnieuw gemaakt. IndexNow: 138 URL's gemeld.
+- Idee voor later: zodra Search Console per URL toont welke 8 gidsen niet geindexeerd zijn, die versterken met unieke intro en homepage-link.
+- Idee voor later: overlap smartphonegidsen en oordopjesgidsen (draadloos, slapen, sporten) controleren op dubbele inhoud.
+- Voor Nick: inloggen op partner.bol.com in Chrome-profiel Browser 1 (open sinds 13 okt); optioneel in Search Console "Indexering aanvragen" voor 5 tot 10 topgidsen.
