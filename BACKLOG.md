@@ -91,12 +91,12 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-elektrische-deken | slapen | elektrische deken | De 10 beste elektrische dekens van 2026 | 🛏️
 [x] beste-matras-rugklachten | slapen | matras rugklachten | De 10 beste matrassen bij rugklachten van 2026 | 🛏️
 [x] beste-hoofdkussen-nekklachten | slapen | ergonomisch hoofdkussen | De 10 beste hoofdkussens bij nekklachten van 2026 | 😴
-[ ] beste-koptelefoon-onder-100-euro | elektronica | koptelefoon noise cancelling goedkoop | De 10 beste koptelefoons onder 100 euro van 2026 | 🎧
-[ ] beste-oordopjes-sporten | sport | sport oordopjes draadloos | De 10 beste sportoordopjes van 2026 | 🎧
-[ ] beste-oordopjes-slapen | slapen | slaap oordopjes | De 10 beste oordopjes om mee te slapen van 2026 | 😴
-[ ] beste-espressomachine-beginners | keuken | espressomachine pistonmachine | De 10 beste espressomachines voor beginners van 2026 | ☕
-[ ] beste-koffiemachine-bonen-onder-500 | keuken | volautomaat goedkoop | De 10 beste bonenmachines onder 500 euro van 2026 | ☕
-[ ] beste-laptop-thuiswerken | computer | laptop thuiswerken | De 10 beste laptops om thuis te werken van 2026 | 💻
+[x] beste-koptelefoon-onder-100-euro | elektronica | koptelefoon noise cancelling goedkoop | De 10 beste koptelefoons onder 100 euro van 2026 | 🎧
+[x] beste-oordopjes-sporten | sport | sport oordopjes draadloos | De 10 beste sportoordopjes van 2026 | 🎧
+[x] beste-oordopjes-slapen | slapen | slaap oordopjes | De 10 beste oordopjes om mee te slapen van 2026 | 😴
+[x] beste-espressomachine-beginners | keuken | espressomachine pistonmachine | De 10 beste espressomachines voor beginners van 2026 | ☕
+[x] beste-koffiemachine-bonen-onder-500 | keuken | volautomaat goedkoop | De 10 beste bonenmachines onder 500 euro van 2026 | ☕
+[x] beste-laptop-thuiswerken | computer | laptop thuiswerken | De 10 beste laptops om thuis te werken van 2026 | 💻
 [ ] beste-laptop-ouderen | computer | laptop eenvoudig | De 10 beste laptops voor ouderen van 2026 | 💻
 [ ] beste-tablet-kinderen | elektronica | kindertablet | De 10 beste tablets voor kinderen van 2026 | 🧒
 [ ] beste-tablet-ouderen | elektronica | tablet senioren | De 10 beste tablets voor ouderen van 2026 | 📱
