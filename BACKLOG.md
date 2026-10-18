@@ -85,12 +85,12 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-stofzuiger-huisdieren | huishouden | stofzuiger huisdieren | De 10 beste stofzuigers voor huisdierenharen van 2026 | 🐕
 [x] beste-robotstofzuiger-huisdieren | huishouden | robotstofzuiger huisdieren | De 10 beste robotstofzuigers voor huisdieren van 2026 | 🐈
 [x] beste-wanddroogrek-zonder-boren | huishouden | droogrek radiator balkon | De 10 beste droogrekken zonder boren van 2026 | 🧺
-[ ] beste-luchtontvochtiger-slaapkamer | wonen | stille luchtontvochtiger | De 10 beste luchtontvochtigers voor de slaapkamer van 2026 | 💧
-[ ] beste-luchtreiniger-allergie | wonen | luchtreiniger hepa | De 10 beste luchtreinigers bij allergie van 2026 | 🌿
-[ ] beste-elektrische-kachel-zuinig | wonen | zuinige elektrische kachel | De 10 zuinigste elektrische kachels van 2026 | 🔥
-[ ] beste-elektrische-deken | slapen | elektrische deken | De 10 beste elektrische dekens van 2026 | 🛏️
-[ ] beste-matras-rugklachten | slapen | matras rugklachten | De 10 beste matrassen bij rugklachten van 2026 | 🛏️
-[ ] beste-hoofdkussen-nekklachten | slapen | ergonomisch hoofdkussen | De 10 beste hoofdkussens bij nekklachten van 2026 | 😴
+[x] beste-luchtontvochtiger-slaapkamer | wonen | stille luchtontvochtiger | De 10 beste luchtontvochtigers voor de slaapkamer van 2026 | 💧
+[x] beste-luchtreiniger-allergie | wonen | luchtreiniger hepa | De 10 beste luchtreinigers bij allergie van 2026 | 🌿
+[x] beste-elektrische-kachel-zuinig | wonen | zuinige elektrische kachel | De 10 zuinigste elektrische kachels van 2026 | 🔥
+[x] beste-elektrische-deken | slapen | elektrische deken | De 10 beste elektrische dekens van 2026 | 🛏️
+[x] beste-matras-rugklachten | slapen | matras rugklachten | De 10 beste matrassen bij rugklachten van 2026 | 🛏️
+[x] beste-hoofdkussen-nekklachten | slapen | ergonomisch hoofdkussen | De 10 beste hoofdkussens bij nekklachten van 2026 | 😴
 [ ] beste-koptelefoon-onder-100-euro | elektronica | koptelefoon noise cancelling goedkoop | De 10 beste koptelefoons onder 100 euro van 2026 | 🎧
 [ ] beste-oordopjes-sporten | sport | sport oordopjes draadloos | De 10 beste sportoordopjes van 2026 | 🎧
 [ ] beste-oordopjes-slapen | slapen | slaap oordopjes | De 10 beste oordopjes om mee te slapen van 2026 | 😴
