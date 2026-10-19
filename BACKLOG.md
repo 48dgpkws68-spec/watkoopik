@@ -103,15 +103,15 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-smartwatch-ouderen | telefoon | smartwatch valdetectie | De 10 beste smartwatches voor ouderen van 2026 | ⌚
 [x] beste-hometrainer-klein | sport | opvouwbare hometrainer | De 10 beste opvouwbare hometrainers van 2026 | 🚴
 [x] beste-loopband-onder-bureau | sport | walking pad | De 10 beste walking pads van 2026 | 🚶
-[ ] beste-bureaustoel-rugklachten | wonen | ergonomische bureaustoel | De 10 beste bureaustoelen bij rugklachten van 2026 | 🪑
-[ ] beste-sta-bureau | wonen | zit sta bureau elektrisch | De 10 beste zit-sta-bureaus van 2026 | 🧍
-[ ] beste-accuboormachine-beginners | klussen | accuboormachine set | De 10 beste accuboormachines voor beginners van 2026 | 🔧
-[ ] beste-grasmaaier-kleine-tuin | klussen | accu grasmaaier klein | De 10 beste grasmaaiers voor een kleine tuin van 2026 | 🌱
-[ ] beste-dashcam-voor-en-achter | elektronica | dashcam voor achter | De 10 beste dashcams voor en achter van 2026 | 🚗
-[ ] beste-videodeurbel-zonder-abonnement | elektronica | videodeurbel zonder abonnement | De 10 beste videodeurbellen zonder abonnement van 2026 | 🔔
+[x] beste-bureaustoel-rugklachten | wonen | ergonomische bureaustoel | De 10 beste bureaustoelen bij rugklachten van 2026 | 🪑
+[x] beste-sta-bureau | wonen | zit sta bureau elektrisch | De 10 beste zit-sta-bureaus van 2026 | 🧍 (overgeslagen: bestaat al als beste-zit-sta-bureau)
+[x] beste-accuboormachine-beginners | klussen | accuboormachine set | De 10 beste accuboormachines voor beginners van 2026 | 🔧
+[x] beste-grasmaaier-kleine-tuin | klussen | accu grasmaaier klein | De 10 beste grasmaaiers voor een kleine tuin van 2026 | 🌱
+[x] beste-dashcam-voor-en-achter | elektronica | dashcam voor achter | De 10 beste dashcams voor en achter van 2026 | 🚗
+[x] beste-videodeurbel-zonder-abonnement | elektronica | videodeurbel zonder abonnement | De 10 beste videodeurbellen zonder abonnement van 2026 | 🔔
 
 ## Overige gidsen
-[ ] beste-nat-droogzuiger | huishouden | nat droogzuiger | De 10 beste nat-droogzuigers van 2026 | 💧
+[x] beste-nat-droogzuiger | huishouden | nat droogzuiger | De 10 beste nat-droogzuigers van 2026 | 💧
 [ ] beste-fornuis | keuken | fornuis | De 10 beste fornuizen van 2026 | 🍳
 [ ] beste-was-droogcombinatie | huishouden | was droogcombinatie | De 10 beste was-droogcombinaties van 2026 | 🧺
 [ ] beste-afzuigkap | keuken | afzuigkap | De 10 beste afzuigkappen van 2026 | 💨
