@@ -355,10 +355,10 @@ for g in guides:
     podium = "".join('''<div class="pd%s"><span class="lbl">%s</span><div class="im">%s</div><h3>%s %s</h3><div class="pr">%s</div><p>%s</p>%s</div>''' % (
         " first" if i == 0 else "", e(p["label"]), img_of(p), e(p["brand"]), e(p["name"]), eur(p["price"]), e(p["oneliner"]), shop_a(p, g, "btn btn-buy btn-sm magnet", "podium")) for i, p in enumerate(labs))
     keys = list(ps[0]["specs"].keys())[:3]
-    rows = "".join('<tr><td><span class="rk%s">%d</span></td><td class="nm"><span class="ti">%s<span>%s<small>%s</small></span></span></td>%s<td><b>%s</b></td><td><span class="sc%s">%s</span></td><td>%s</td></tr>' % (
+    rows = "".join('<tr><td><span class="rk%s">%d</span></td><td class="nm"><span class="ti">%s<span>%s<small>%s</small></span></span></td>%s<td><b>%s</b></td><td><span class="sc%s">%s</span></td><td class="bc">%s</td></tr>' % (
         " r1" if p["rank"] == 1 else "", p["rank"], ('<img src="%s" alt="" loading="lazy">' % e(p["image"])) if p.get("image") else "", e(p["brand"]), e(p["name"]),
         "".join("<td>%s</td>" % e(str(p["specs"].get(k, "-"))) for k in keys), eur(p["price"]), " hi" if p["score"] >= 9 else "", p["score"], shop_a(p, g, "btn btn-buy btn-sm", "tabel")) for p in ps)
-    table = '<div class="tbl rv"><table><thead><tr><th>#</th><th>Model</th>%s<th>Prijs</th><th>Score</th><th></th></tr></thead><tbody>%s</tbody></table></div>' % ("".join("<th>%s</th>" % e(k) for k in keys), rows)
+    table = '<div class="tbl rv"><table><thead><tr><th>#</th><th>Model</th>%s<th>Prijs</th><th>Score</th><th class="bc"><span class="sr">Kopen</span></th></tr></thead><tbody>%s</tbody></table></div>' % ("".join("<th>%s</th>" % e(k) for k in keys), rows)
     cards = "".join('''<article class="pr-card%s rv" id="p%d"><div class="pr-head"><div class="pr-img"><span class="n">%d</span>%s</div><div>%s<h2>%s %s</h2>
 <div class="pr-meta"><span class="price">%s</span><span>%s <b>%s</b>/10</span><span>%s</span></div>%s<div class="specs">%s</div></div></div>
 <div class="pr-txt">%s</div><div class="pc"><div class="pros"><h4>Pluspunten</h4><ul>%s</ul></div><div class="cons"><h4>Minpunten</h4><ul>%s</ul></div></div>

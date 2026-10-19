@@ -218,3 +218,6 @@ html:has(.theme-light){background:#fafaf7}
 .theme-light a.cat,.theme-light a.gc,.theme-light a.rw,.theme-light a.wincard{color:var(--ink)}
 .theme-light .hero a{color:#fff}
 @media (min-width:641px){.theme-light .cat:not(.big){min-height:176px}.theme-light .cat .thumbs img{width:40px;height:40px}}
+.theme-light .tbl td.bc{background:#fff;box-shadow:-10px 0 14px -10px rgba(16,34,29,.25)}
+.theme-light .tbl th.bc{background:#f6f4ef}
+.theme-light tbody tr:hover td.bc{background:#faf8ff}

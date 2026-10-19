@@ -112,6 +112,13 @@ Formaat: slug | cat | query | titel | emoji
 
 ## Overige gidsen
 [x] beste-nat-droogzuiger | huishouden | nat droogzuiger | De 10 beste nat-droogzuigers van 2026 | 💧
+[ ] beste-tv-43-inch | elektronica | 43 inch tv | De 10 beste 43 inch tv's van 2026 | 📺
+[ ] beste-tv-onder-500-euro | elektronica | smart tv goedkoop | De 10 beste tv's onder 500 euro van 2026 | 📺
+[ ] beste-tv-75-inch | elektronica | 75 inch tv | De 10 beste 75 inch tv's van 2026 | 📺
+[ ] beste-qled-tv | elektronica | qled tv | De 10 beste QLED-tv's van 2026 | 📺
+[ ] beste-infraroodpaneel | wonen | infrarood paneel | De 10 beste infraroodpanelen van 2026 | 🔥
+[ ] beste-elektrische-openhaard | wonen | elektrische openhaard | De 10 beste elektrische openhaarden van 2026 | 🔥
+[ ] beste-oliegevulde-radiator | wonen | oliegevulde radiator | De 10 beste oliegevulde radiatoren van 2026 | 🔥
 [ ] beste-fornuis | keuken | fornuis | De 10 beste fornuizen van 2026 | 🍳
 [ ] beste-was-droogcombinatie | huishouden | was droogcombinatie | De 10 beste was-droogcombinaties van 2026 | 🧺
 [ ] beste-afzuigkap | keuken | afzuigkap | De 10 beste afzuigkappen van 2026 | 💨
@@ -124,11 +131,9 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-split-airco | wonen | split airco | De 10 beste split airco's van 2026 | ❄️
 [ ] beste-bedframe | slapen | bedframe | De 10 beste bedframes van 2026 | 🛏️
 [ ] beste-gaming-pc | gaming | gaming pc | De 10 beste gaming pc's van 2026 | 🖥️
-[ ] beste-infraroodpaneel | wonen | infrarood paneel | De 10 beste infraroodpanelen van 2026 | 🔥
 [ ] beste-gaming-stoel | gaming | gaming stoel | De 10 beste gaming stoelen van 2026 | 🪑
 [ ] beste-pelletkachel | wonen | pelletkachel | De 10 beste pelletkachels van 2026 | 🔥
 [ ] beste-gaming-headset | gaming | gaming headset | De 10 beste gaming headsets van 2026 | 🎧
-[ ] beste-elektrische-openhaard | wonen | elektrische openhaard | De 10 beste elektrische openhaarden van 2026 | 🔥
 [ ] beste-bank | wonen | bank 3 zits | De 10 beste banken van 2026 | 🛋️
 [ ] beste-hoekbank | wonen | hoekbank | De 10 beste hoekbanken van 2026 | 🛋️
 [ ] beste-kledingkast | wonen | kledingkast | De 10 beste kledingkasten van 2026 | 🚪
@@ -139,16 +144,12 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-tv-32-inch | elektronica | 32 inch tv | De 10 beste 32 inch tv's van 2026 | 📺
 [ ] beste-all-in-one-pc | computer | all in one pc | De 10 beste all-in-one pc's van 2026 | 🖥️
 [ ] beste-iphone-hoesje | telefoon | iphone hoesje | De 10 beste iPhone-hoesjes van 2026 | 📱
-[ ] beste-tv-43-inch | elektronica | 43 inch tv | De 10 beste 43 inch tv's van 2026 | 📺
 [ ] beste-desktop-pc | computer | desktop pc | De 10 beste desktop pc's van 2026 | 🖥️
 [ ] beste-screenprotector | telefoon | screenprotector | De 10 beste screenprotectors van 2026 | 📱
-[ ] beste-tv-75-inch | elektronica | 75 inch tv | De 10 beste 75 inch tv's van 2026 | 📺
 [ ] beste-chromebook | computer | chromebook | De 10 beste Chromebooks van 2026 | 💻
 [ ] beste-draadloze-oplader | telefoon | draadloze oplader | De 10 beste draadloze opladers van 2026 | 🔋
-[ ] beste-tv-onder-500-euro | elektronica | smart tv goedkoop | De 10 beste tv's onder 500 euro van 2026 | 📺
 [ ] beste-2-in-1-laptop | computer | 2 in 1 laptop | De 10 beste 2-in-1 laptops van 2026 | 💻
 [ ] beste-snellader | telefoon | usb c snellader | De 10 beste USB-C snelladers van 2026 | 🔌
-[ ] beste-qled-tv | elektronica | qled tv | De 10 beste QLED-tv's van 2026 | 📺
 [ ] beste-laptop-onder-500-euro | computer | laptop goedkoop | De 10 beste laptops onder 500 euro van 2026 | 💻
 [ ] beste-magsafe-powerbank | telefoon | magsafe powerbank | De 10 beste MagSafe-powerbanks van 2026 | 🔋
 [ ] beste-tv-beugel | elektronica | tv muurbeugel | De 10 beste tv-muurbeugels van 2026 | 🔩
