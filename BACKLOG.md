@@ -97,12 +97,12 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-espressomachine-beginners | keuken | espressomachine pistonmachine | De 10 beste espressomachines voor beginners van 2026 | ☕
 [x] beste-koffiemachine-bonen-onder-500 | keuken | volautomaat goedkoop | De 10 beste bonenmachines onder 500 euro van 2026 | ☕
 [x] beste-laptop-thuiswerken | computer | laptop thuiswerken | De 10 beste laptops om thuis te werken van 2026 | 💻
-[ ] beste-laptop-ouderen | computer | laptop eenvoudig | De 10 beste laptops voor ouderen van 2026 | 💻
-[ ] beste-tablet-kinderen | elektronica | kindertablet | De 10 beste tablets voor kinderen van 2026 | 🧒
-[ ] beste-tablet-ouderen | elektronica | tablet senioren | De 10 beste tablets voor ouderen van 2026 | 📱
-[ ] beste-smartwatch-ouderen | telefoon | smartwatch valdetectie | De 10 beste smartwatches voor ouderen van 2026 | ⌚
-[ ] beste-hometrainer-klein | sport | opvouwbare hometrainer | De 10 beste opvouwbare hometrainers van 2026 | 🚴
-[ ] beste-loopband-onder-bureau | sport | walking pad | De 10 beste walking pads van 2026 | 🚶
+[x] beste-laptop-ouderen | computer | laptop eenvoudig | De 10 beste laptops voor ouderen van 2026 | 💻
+[x] beste-tablet-kinderen | elektronica | kindertablet | De 10 beste tablets voor kinderen van 2026 | 🧒
+[x] beste-tablet-ouderen | elektronica | tablet senioren | De 10 beste tablets voor ouderen van 2026 | 📱
+[x] beste-smartwatch-ouderen | telefoon | smartwatch valdetectie | De 10 beste smartwatches voor ouderen van 2026 | ⌚
+[x] beste-hometrainer-klein | sport | opvouwbare hometrainer | De 10 beste opvouwbare hometrainers van 2026 | 🚴
+[x] beste-loopband-onder-bureau | sport | walking pad | De 10 beste walking pads van 2026 | 🚶
 [ ] beste-bureaustoel-rugklachten | wonen | ergonomische bureaustoel | De 10 beste bureaustoelen bij rugklachten van 2026 | 🪑
 [ ] beste-sta-bureau | wonen | zit sta bureau elektrisch | De 10 beste zit-sta-bureaus van 2026 | 🧍
 [ ] beste-accuboormachine-beginners | klussen | accuboormachine set | De 10 beste accuboormachines voor beginners van 2026 | 🔧
