@@ -118,12 +118,12 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-qled-tv | elektronica | qled tv | De 10 beste QLED-tv's van 2026 | 📺
 [x] beste-infraroodpaneel | wonen | infrarood paneel | De 10 beste infraroodpanelen van 2026 | 🔥
 [x] beste-elektrische-openhaard | wonen | elektrische openhaard | De 10 beste elektrische openhaarden van 2026 | 🔥
-[ ] beste-oliegevulde-radiator | wonen | oliegevulde radiator | De 10 beste oliegevulde radiatoren van 2026 | 🔥
-[ ] beste-fornuis | keuken | fornuis | De 10 beste fornuizen van 2026 | 🍳
-[ ] beste-was-droogcombinatie | huishouden | was droogcombinatie | De 10 beste was-droogcombinaties van 2026 | 🧺
-[ ] beste-afzuigkap | keuken | afzuigkap | De 10 beste afzuigkappen van 2026 | 💨
-[ ] beste-warmtepompdroger | huishouden | warmtepompdroger | De 10 beste warmtepompdrogers van 2026 | 🧺
-[ ] beste-playstation-5 | gaming | playstation 5 console | De 10 beste PlayStation 5 bundels van 2026 | 🎮
+[x] beste-oliegevulde-radiator | wonen | oliegevulde radiator | De 10 beste oliegevulde radiatoren van 2026 | 🔥
+[x] beste-fornuis | keuken | fornuis | De 10 beste fornuizen van 2026 | 🍳
+[x] beste-was-droogcombinatie | huishouden | was droogcombinatie | De 10 beste was-droogcombinaties van 2026 | 🧺
+[x] beste-afzuigkap | keuken | afzuigkap | De 10 beste afzuigkappen van 2026 | 💨
+[x] beste-warmtepompdroger | huishouden | warmtepompdroger | De 10 beste warmtepompdrogers van 2026 | 🧺
+[x] beste-playstation-5 | gaming | playstation 5 console | De 10 beste PlayStation 5 bundels van 2026 | 🎮
 [ ] beste-mobiele-airco | wonen | mobiele airco | De 10 beste mobiele airco's van 2026 | ❄️
 [ ] beste-terrasverwarmer | klussen | terrasverwarmer | De 10 beste terrasverwarmers van 2026 | 🔥
 [ ] beste-boxspring | slapen | boxspring | De 10 beste boxsprings van 2026 | 🛏️
