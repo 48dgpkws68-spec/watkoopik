@@ -55,3 +55,13 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: zodra Search Console per URL toont welke 8 gidsen niet geindexeerd zijn, die versterken met unieke intro en homepage-link.
 - Idee voor later: overlap smartphonegidsen en oordopjesgidsen (draadloos, slapen, sporten) controleren op dubbele inhoud.
 - Voor Nick: inloggen op partner.bol.com in Chrome-profiel Browser 1 (open sinds 13 okt); optioneel in Search Console "Indexering aanvragen" voor 5 tot 10 topgidsen.
+
+## 2026-10-19
+- Signalen: Umami laatste 24 uur ongeveer 24 bezoekers (6 met een klik), voor het eerst vooral gidsbezoekers: tv 55 inch en tv 65 inch (3 elk), vriezer, elektrische kachel, smartphone onder 300 (2 elk); nieuwe bron chatgpt.com naast watkoopik.com.
+- Signalen: 7 bol-klik-events, eigenschap "plek": tabel 5, podium 2, kaart/eindoordeel/sticky 0 (Dyson Airstrait 2x, Philips OLED, Polar Pacer, SIHOO, VONROC, Leifheit); Search Console 7 dagen 4 vertoningen, positie 10,5, 0 klikken; indexering ongewijzigd (0 geindexeerd, 8 gecrawld niet geindexeerd, 1 canonical), URL-lijst niet te openen in de share-weergave.
+- Signalen: bol-cijfers: niet automatisch beschikbaar; build OK 132 gidsen / 1320 producten, check_links 0 fouten en 10/10 goed, 0 producten zonder foto.
+- Gedaan: koopknop-kolom in de vergelijkingstabel blijft nu rechts vastgeplakt (position sticky, met schaduw) bij horizontaal scrollen, name-kolom op mobiel iets smaller; waarom: de tabel levert 5 van 7 kliks, maar op een telefoon (tabel min. 600 px breed) stond de knop buiten beeld; verwacht effect: meer tabelkliks op mobiel, meten via plek "tabel" komende week.
+- Gedaan: BACKLOG herordend: tv 43 inch, tv onder 500 euro, tv 75 inch, QLED-tv, infraroodpaneel, elektrische openhaard en nieuw oliegevulde radiator bovenaan; waarom: tv-gidsen en kachel zijn nu de best gelezen gidsen en het stookseizoen begint; verwacht effect: de dagelijkse routine bouwt eerst op wat al bezoekers trekt.
+- Idee voor later: kaart-knoppen (0 kliks) testen met een kortere knoptekst of prijs in de knop, zodra er meer data is.
+- Idee voor later: llms.txt of duidelijke samenvatting bovenaan gidsen nu chatgpt.com als bron opduikt.
+- Voor Nick: niets (optioneel in Search Console "Indexering aanvragen" voor de tv-gidsen).

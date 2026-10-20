@@ -112,12 +112,12 @@ Formaat: slug | cat | query | titel | emoji
 
 ## Overige gidsen
 [x] beste-nat-droogzuiger | huishouden | nat droogzuiger | De 10 beste nat-droogzuigers van 2026 | 💧
-[ ] beste-tv-43-inch | elektronica | 43 inch tv | De 10 beste 43 inch tv's van 2026 | 📺
-[ ] beste-tv-onder-500-euro | elektronica | smart tv goedkoop | De 10 beste tv's onder 500 euro van 2026 | 📺
-[ ] beste-tv-75-inch | elektronica | 75 inch tv | De 10 beste 75 inch tv's van 2026 | 📺
-[ ] beste-qled-tv | elektronica | qled tv | De 10 beste QLED-tv's van 2026 | 📺
-[ ] beste-infraroodpaneel | wonen | infrarood paneel | De 10 beste infraroodpanelen van 2026 | 🔥
-[ ] beste-elektrische-openhaard | wonen | elektrische openhaard | De 10 beste elektrische openhaarden van 2026 | 🔥
+[x] beste-tv-43-inch | elektronica | 43 inch tv | De 10 beste 43 inch tv's van 2026 | 📺
+[x] beste-tv-onder-500-euro | elektronica | smart tv goedkoop | De 10 beste tv's onder 500 euro van 2026 | 📺
+[x] beste-tv-75-inch | elektronica | 75 inch tv | De 10 beste 75 inch tv's van 2026 | 📺
+[x] beste-qled-tv | elektronica | qled tv | De 10 beste QLED-tv's van 2026 | 📺
+[x] beste-infraroodpaneel | wonen | infrarood paneel | De 10 beste infraroodpanelen van 2026 | 🔥
+[x] beste-elektrische-openhaard | wonen | elektrische openhaard | De 10 beste elektrische openhaarden van 2026 | 🔥
 [ ] beste-oliegevulde-radiator | wonen | oliegevulde radiator | De 10 beste oliegevulde radiatoren van 2026 | 🔥
 [ ] beste-fornuis | keuken | fornuis | De 10 beste fornuizen van 2026 | 🍳
 [ ] beste-was-droogcombinatie | huishouden | was droogcombinatie | De 10 beste was-droogcombinaties van 2026 | 🧺
