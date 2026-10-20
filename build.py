@@ -497,6 +497,20 @@ wr("CNAME", "watkoopik.com\n" if PREVIEW else "watkoopik.nl\n"); wr(".nojekyll",
 wr("robots.txt", "User-agent: *\nDisallow: /\n" if PREVIEW else "User-agent: *\nAllow: /\nDisallow: /stats.html\nSitemap: %s/sitemap.xml\n" % SITE)
 wr("search.json", json.dumps([{"t": g["title"], "u": g["url"], "c": CATS[g["cat"]][0], "w": "%s %s" % (win(g)["brand"], win(g)["name"]), "i": win(g).get("image", ""),
     "k": " ".join([g["query"], g["short"]] + g.get("keywords", []) + ["%s %s" % (p["brand"], p["name"]) for p in g["products"]])} for g in guides], ensure_ascii=False))
+# llms.txt: compacte index voor AI-zoekmachines (chatgpt.com stuurt sinds 19 okt bezoekers), per categorie gids, nr. 1 en slimste koop
+if not PREVIEW:
+    L = ["# watkoopik.nl", "", "> Onafhankelijke Nederlandse top 10-koopgidsen. Per productsoort tien modellen vergeleken op specificaties, prijs en reviews, met plus- en minpunten, een koopgids en veelgestelde vragen. Prijzen zijn indicatief en worden dagelijks bij bol bijgewerkt.", "",
+         "- [Alle gidsen](%s/gidsen.html)" % SITE, "- [Zo kiezen wij](%s/zo-kiezen-wij.html): werkwijze en hoe we geld verdienen" % SITE, ""]
+    for k in CATS:
+        if not by_cat.get(k): continue
+        L += ["## %s" % CATS[k][0], ""]
+        for g in sorted(by_cat[k], key=lambda x: x["title"]):
+            t = win(g); bv = next((p for p in g["products"] if p.get("label") == "Beste prijs-kwaliteit"), None)
+            s = "- [%s](%s/%s): nr. 1 %s %s (%s)" % (g["title"], SITE, g["url"], t["brand"], t["name"], eur(t["price"]))
+            if bv and bv is not t: s += "; slimste koop %s %s (%s)" % (bv["brand"], bv["name"], eur(bv["price"]))
+            L.append(s + "; bijgewerkt %s" % g.get("updated", TODAY.isoformat()))
+        L.append("")
+    txt = "\n".join(L); check(txt, "llms.txt"); wr("llms.txt", txt)
 if OG_META.pop("_dirty", None):
     json.dump(OG_META, open(OG_META_FILE, "w"), indent=0, sort_keys=True)
 print("OK pro: %d gidsen, %d producten" % (len(guides), N_PROD))

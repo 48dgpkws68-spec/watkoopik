@@ -65,3 +65,12 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: kaart-knoppen (0 kliks) testen met een kortere knoptekst of prijs in de knop, zodra er meer data is.
 - Idee voor later: llms.txt of duidelijke samenvatting bovenaan gidsen nu chatgpt.com als bron opduikt.
 - Voor Nick: niets (optioneel in Search Console "Indexering aanvragen" voor de tv-gidsen).
+
+## 2026-10-20
+- Signalen: Umami laatste 24 uur ongeveer 9 bezoekers, 11 weergaven, bounce 19%; best gelezen tv 55 inch, baardtrimmer, elektrische kachel, oven; bronnen watkoopik.com en chatgpt.com; bol-klik-events 7 dagen laag (teller in de share-weergave laadt onbetrouwbaar), te weinig voor een uitspraak over "plek".
+- Signalen: Search Console 7 dagen 6 vertoningen, positie 10,2, 0 klikken, nog geen zoekopdrachten zichtbaar; indexering ongewijzigd (0 geindexeerd, 8 gecrawld niet geindexeerd, 1 canonical).
+- Signalen: bol-cijfers: niet automatisch beschikbaar; build OK 144 gidsen / 1440 producten, check_links 1385 links 0 fouten en 10/10 goed, 0 producten zonder foto; steekproef tv 55 inch + elektrische kachel: check_guide OK, 0 streepjes, 0 ", en", geen "getest", 3.600 tot 3.900 woorden.
+- Gedaan: /llms.txt (automatisch per bouw) met alle 144 gidsen per categorie, nr. 1 en slimste koop met prijs en bijwerkdatum; waarom: idee van 19 okt, chatgpt.com is de tweede bron en AI-zoekmachines lezen llms.txt als compacte index; verwacht effect: vaker genoemd en gelinkt in ChatGPT/Perplexity-antwoorden, actuele productnamen in die antwoorden.
+- Idee voor later: Umami-events via de API of de Properties-weergave per "plek" uitlezen, de share-tellers geven wisselende cijfers.
+- Idee voor later: de 8 niet-geindexeerde URL's achterhalen (URL-inspectie per topgids) en die gidsen een unieke intro geven.
+- Voor Nick: niets (optioneel in Search Console "Indexering aanvragen" voor tv 55 inch, elektrische kachel en baardtrimmer).
