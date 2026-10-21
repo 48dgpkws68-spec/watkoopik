@@ -124,13 +124,13 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-afzuigkap | keuken | afzuigkap | De 10 beste afzuigkappen van 2026 | 💨
 [x] beste-warmtepompdroger | huishouden | warmtepompdroger | De 10 beste warmtepompdrogers van 2026 | 🧺
 [x] beste-playstation-5 | gaming | playstation 5 console | De 10 beste PlayStation 5 bundels van 2026 | 🎮
-[ ] beste-mobiele-airco | wonen | mobiele airco | De 10 beste mobiele airco's van 2026 | ❄️
-[ ] beste-terrasverwarmer | klussen | terrasverwarmer | De 10 beste terrasverwarmers van 2026 | 🔥
-[ ] beste-boxspring | slapen | boxspring | De 10 beste boxsprings van 2026 | 🛏️
-[ ] beste-gaming-monitor | gaming | gaming monitor | De 10 beste gaming monitors van 2026 | 🖥️
-[ ] beste-split-airco | wonen | split airco | De 10 beste split airco's van 2026 | ❄️
-[ ] beste-bedframe | slapen | bedframe | De 10 beste bedframes van 2026 | 🛏️
-[ ] beste-gaming-pc | gaming | gaming pc | De 10 beste gaming pc's van 2026 | 🖥️
+[x] beste-mobiele-airco | wonen | mobiele airco | De 10 beste mobiele airco's van 2026 | ❄️
+[x] beste-terrasverwarmer | klussen | terrasverwarmer | De 10 beste terrasverwarmers van 2026 | 🔥
+[x] beste-boxspring | slapen | boxspring | De 10 beste boxsprings van 2026 | 🛏️
+[x] beste-gaming-monitor | gaming | gaming monitor | De 10 beste gaming monitors van 2026 | 🖥️
+[-] beste-split-airco | wonen | split airco | De 10 beste split airco's van 2026 | ❄️ (overgeslagen 21 okt 2026: bol verkoopt te weinig vaste split-units)
+[x] beste-bedframe | slapen | bedframe | De 10 beste bedframes van 2026 | 🛏️
+[x] beste-gaming-pc | gaming | gaming pc | De 10 beste gaming pc's van 2026 | 🖥️
 [ ] beste-gaming-stoel | gaming | gaming stoel | De 10 beste gaming stoelen van 2026 | 🪑
 [ ] beste-pelletkachel | wonen | pelletkachel | De 10 beste pelletkachels van 2026 | 🔥
 [ ] beste-gaming-headset | gaming | gaming headset | De 10 beste gaming headsets van 2026 | 🎧
