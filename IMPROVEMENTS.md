@@ -74,3 +74,14 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: Umami-events via de API of de Properties-weergave per "plek" uitlezen, de share-tellers geven wisselende cijfers.
 - Idee voor later: de 8 niet-geindexeerde URL's achterhalen (URL-inspectie per topgids) en die gidsen een unieke intro geven.
 - Voor Nick: niets (optioneel in Search Console "Indexering aanvragen" voor tv 55 inch, elektrische kachel en baardtrimmer).
+
+## 2026-10-21
+- Signalen: Umami 7 dagen 171 bezoekers, 262 weergaven, bounce 64%; homepage 76 weergaven (29%), best gelezen tv 65 inch (12), tv 55 inch (8), kachel en dekbed (5); bronnen watkoopik.com 53, chatgpt.com 3; NL 97, US 48.
+- Signalen: 51 bol-klik-events in 7 dagen (19 in 24 uur); plek podium 33, tabel 15, kaart 1, eindoordeel en sticky 0; positie 1 (24) en 2 (13) domineren; top gidsen in kliks tv 65 inch 8, stofzuiger huisdieren 7, kachel 6, stijltang 4.
+- Signalen: Search Console 7 dagen 0 klikken, 7 vertoningen, positie 8,9, nog geen zoekopdrachten; indexering 0 geindexeerd, 8 gecrawld niet geindexeerd, 1 canonical; bol-cijfers: niet automatisch beschikbaar; build OK 156 gidsen / 1560 producten, check_links 0 fouten en 10/10 goed, 0 zonder foto; steekproef stijltang + dekbed schoon (0 streepjes, 0 ", en", geen "getest", 4.100 tot 4.200 woorden).
+- Gedaan: tools/umami.py leest Umami via de publieke share-API (stats, pagina's, bronnen, bol-klik per plek/positie/product/gids) zonder browser; waarom: de share-weergave laadde onbetrouwbaar (idee 20 okt); verwacht effect: elke ronde exacte cijfers in seconden.
+- Gedaan: homepage heeft een blok "Deze week het meest bekeken" (6 gidsen) en de hero-chips volgen dezelfde volgorde, uit stats/populair.json (weergaven + 3x bol-kliks, 7 dagen), automatisch ververst in deploy.sh; waarom: 29% van de weergaven en hoge bounce op de homepage, terwijl de chips alfabetisch de eerste 9 gidsen toonden; verwacht effect: lagere bounce en meer bezoekers op gidsen die al converteren.
+- Gedaan: knop op de 10 productkaarten heet nu "Bekijk actuele prijs bij bol" (Umami-eigenschap tekst=prijs, andere plekken tekst=standaard); waarom: kaart leverde 1 van 49 kliks; verwacht effect: meer kaartkliks, over 7 dagen vergelijken met kaart=1.
+- Idee voor later: eindoordeel en sticky gaven 0 kliks in 7 dagen; als dat zo blijft sticky-balk pas tonen na het podium of met prijs in de tekst.
+- Idee voor later: tv 65 inch en stofzuiger huisdieren converteren het best; subgidsen ("beste OLED-tv 65 inch", "stofzuiger katten") bovenaan BACKLOG zetten.
+- Voor Nick: niets (optioneel in Search Console "Indexering aanvragen" voor tv 65 inch, elektrische kachel en stofzuiger huisdieren).
