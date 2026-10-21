@@ -131,12 +131,12 @@ Formaat: slug | cat | query | titel | emoji
 [-] beste-split-airco | wonen | split airco | De 10 beste split airco's van 2026 | ❄️ (overgeslagen 21 okt 2026: bol verkoopt te weinig vaste split-units)
 [x] beste-bedframe | slapen | bedframe | De 10 beste bedframes van 2026 | 🛏️
 [x] beste-gaming-pc | gaming | gaming pc | De 10 beste gaming pc's van 2026 | 🖥️
-[ ] beste-gaming-stoel | gaming | gaming stoel | De 10 beste gaming stoelen van 2026 | 🪑
-[ ] beste-pelletkachel | wonen | pelletkachel | De 10 beste pelletkachels van 2026 | 🔥
-[ ] beste-gaming-headset | gaming | gaming headset | De 10 beste gaming headsets van 2026 | 🎧
-[ ] beste-bank | wonen | bank 3 zits | De 10 beste banken van 2026 | 🛋️
-[ ] beste-hoekbank | wonen | hoekbank | De 10 beste hoekbanken van 2026 | 🛋️
-[ ] beste-kledingkast | wonen | kledingkast | De 10 beste kledingkasten van 2026 | 🚪
+[x] beste-gaming-stoel | gaming | gaming stoel | De 10 beste gaming stoelen van 2026 | 🪑
+[x] beste-pelletkachel | wonen | pelletkachel | De 10 beste pelletkachels van 2026 | 🔥
+[x] beste-gaming-headset | gaming | gaming headset | De 10 beste gaming headsets van 2026 | 🎧
+[x] beste-bank | wonen | bank 3 zits | De 10 beste banken van 2026 | 🛋️
+[x] beste-hoekbank | wonen | hoekbank | De 10 beste hoekbanken van 2026 | 🛋️
+[x] beste-kledingkast | wonen | kledingkast | De 10 beste kledingkasten van 2026 | 🚪
 [ ] beste-relaxfauteuil | wonen | relaxfauteuil | De 10 beste relaxfauteuils van 2026 | 🛋️
 [ ] beste-pc-monitor-27-inch | computer | 27 inch monitor | De 10 beste 27 inch monitoren van 2026 | 🖥️
 [ ] beste-ultrawide-monitor | computer | ultrawide monitor | De 10 beste ultrawide monitoren van 2026 | 🖥️
