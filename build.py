@@ -45,8 +45,9 @@ def shop_link(p):
     name = re.sub(r"[^A-Za-z0-9 ]", "", "%s %s" % (p["brand"], p["name"]))[:60]
     return "https://partner.bol.com/click/click?p=2&t=url&s=%s&f=TXL&url=%s&name=%s" % (BOL_SITE_ID, urllib.parse.quote(target, safe=""), urllib.parse.quote_plus(name))
 def shop_a(p, g, cls="btn btn-buy magnet", plek="kaart"):
-    return '<a class="%s" href="%s" rel="sponsored nofollow noopener" target="_blank" data-umami-event="bol-klik" data-umami-event-gids="%s" data-umami-event-product="%s" data-umami-event-positie="%s" data-umami-event-plek="%s">Bekijk bij bol <span class="arr">→</span></a>' % (
-        cls, shop_link(p), g["slug"], e("%s %s" % (p["brand"], p["name"])), p.get("rank", ""), plek)
+    return '<a class="%s" href="%s" rel="sponsored nofollow noopener" target="_blank" data-umami-event="bol-klik" data-umami-event-gids="%s" data-umami-event-product="%s" data-umami-event-positie="%s" data-umami-event-plek="%s" data-umami-event-tekst="%s">%s <span class="arr">→</span></a>' % (
+        cls, shop_link(p), g["slug"], e("%s %s" % (p["brand"], p["name"])), p.get("rank", ""), plek, "prijs" if plek == "kaart" else "standaard",
+        "Bekijk actuele prijs bij bol" if plek == "kaart" else "Bekijk bij bol")
 
 STAR = '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M12 2.5l2.9 6.1 6.7.8-4.9 4.6 1.3 6.6L12 17.3l-6 3.3 1.3-6.6L2.4 9.4l6.7-.8z" fill="%s"/></svg>'
 def stars(score):
@@ -241,7 +242,15 @@ def marquee(items, rev=False, light=False):
 # ---------- home ----------
 items = mq_items()
 half = len(items) // 2
-chips = "".join('<a href="%s">%s</a>' % (g["url"], e(g["short"])) for g in guides[:9])
+# populair = gidsen gesorteerd op Umami-weergaven + bol-kliks van de laatste 7 dagen (tools/umami.py --save)
+try:
+    _pop = json.load(open(os.path.join(ROOT, "stats", "populair.json"), encoding="utf-8"))["gidsen"]
+except Exception:
+    _pop = []
+_by_slug = {g["slug"]: g for g in guides}
+popular = [_by_slug[s] for s in _pop if s in _by_slug]
+popular += [g for g in guides if g not in popular]
+chips = "".join('<a href="%s">%s</a>' % (g["url"], e(g["short"])) for g in popular[:9])
 PALET = {"huishouden": ("#7c5cff", "#38e1ff"), "keuken": ("#ff7a3d", "#ff4fd8"), "verzorging": ("#ff4fd8", "#7c5cff"), "slapen": ("#3b5bff", "#38e1ff"),
          "elektronica": ("#00c2ff", "#7c5cff"), "wonen": ("#3ee08f", "#38e1ff"), "sport": ("#ffc65c", "#ff7a3d"), "kind": ("#ff8fb1", "#ffc65c"), "klussen": ("#ffc65c", "#3ee08f"),
          "computer": ("#38e1ff", "#3b5bff"), "telefoon": ("#7c5cff", "#ff4fd8")}
@@ -275,6 +284,11 @@ home = '''
 </div>
 <div class="hero-band">%s%s</div>
 </section>
+
+<section data-hue="1" style="padding-bottom:0"><div class="wrap">
+<div class="sec-head rv"><div><span class="kick">Populair</span><h2>Deze week <span class="grad">het meest bekeken</span></h2></div><a class="more" href="gidsen.html">Alle gidsen →</a></div>
+<div class="gl">%s</div>
+</div></section>
 
 <section data-hue="1"><div class="wrap">
 <div class="sec-head rv"><div><span class="kick">Categorieën</span><h2>Waar ben je naar <span class="grad">op zoek?</span></h2></div><p>Kies een categorie en zie meteen de winnaars per productsoort.</p></div>
@@ -311,7 +325,7 @@ home = '''
 <p class="muted">watkoopik vergelijkt per productsoort de tien beste modellen die je nu in Nederland kunt kopen. Of je nu de <a href="beste/beste-airfryer.html">beste airfryer</a>, een <a href="beste/beste-stofzuiger.html">stille stofzuiger</a> of <a href="beste/beste-draadloze-oordopjes.html">draadloze oordopjes met noise cancelling</a> zoekt: elke gids begint met drie duidelijke winnaars, gevolgd door een vergelijkingstabel, uitleg per product met plus- en minpunten, een koopgids en antwoorden op veelgestelde vragen. Merken kunnen geen plek kopen. <a href="zo-kiezen-wij.html">Lees hoe wij kiezen</a>.</p>
 </div></section>
 ''' % (floaters, YEAR, searchbox(), chips, len(guides), len(guides), N_PROD, N_PROD, N_REV, format(N_REV, ",").replace(",", "."),
-       marquee(items[:half]), marquee(items[half:], rev=True), cat_cards, winband, len(guides), "".join(gcard(g) for g in guides[:9]),
+       marquee(items[:half]), marquee(items[half:], rev=True), "".join(gcard(g) for g in popular[:6]), cat_cards, winband, len(guides), "".join(gcard(g) for g in guides[:9]),
        len(guides), len(guides), N_PROD, N_PROD, YEAR)
 home_ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": "watkoopik", "url": SITE + "/", "inLanguage": "nl-NL",
             "potentialAction": {"@type": "SearchAction", "target": SITE + "/gidsen.html?q={search_term_string}", "query-input": "required name=search_term_string"}},
