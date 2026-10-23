@@ -10,11 +10,16 @@
     "luchtreiniger hepa",
     "luchtreiniger hooikoorts",
     "luchtreiniger huisstofmijt",
-    "luchtreiniger huisdieren"
+    "luchtreiniger huisdieren",
+    "luchtreiniger pollen",
+    "luchtreiniger kattenallergie",
+    "luchtreiniger astma",
+    "luchtreiniger formaldehyde",
+    "luchtreiniger slaapkamer allergie"
   ],
   "ico": "🌿",
   "color": "#0f766e",
-  "updated": "2026-10-18",
+  "updated": "2026-10-23",
   "reviews_total": "5.200",
   "intro": "Heb je last van allergie, dan wil je een luchtreiniger die pollen, huisstofmijt en huidschilfers van huisdieren echt uit de lucht haalt. Dat vraagt om een HEPA-filter van klasse H13 en genoeg capaciteit voor je kamer. Een mooi apparaat met te weinig luchtverplaatsing doet weinig. Wij vergeleken modellen op filterklasse, CADR, geluid in de slaapstand en de kosten van vervangfilters. Dit zijn de tien beste luchtreinigers bij allergie, van een compacte reiniger voor de slaapkamer tot een krachtpatser voor de woonkamer.",
   "verdict": "De Philips PureProtect 3200 is de beste luchtreiniger bij allergie: een CADR van 520 m³/u, een fluisterstille slaapstand en een app die de luchtkwaliteit bijhoudt. De Coway Airmega Mighty is de beste prijs-kwaliteit met echte HEPA en een CADR van 421 m³/u voor rond de 200 euro. Wil je het beste van het beste, dan is de Dyson Purifier Big+Quiet BP04 de premium keuze voor grote ruimtes.",
@@ -400,6 +405,23 @@
     {
       "q": "Moet een luchtreiniger bij allergie de hele dag aan staan?",
       "a": "Ja, allergenen komen continu opnieuw in de lucht. Laat de reiniger dag en nacht op de automatische of een lage stand draaien. Moderne reinigers verbruiken op een lage stand weinig stroom. Zet hem 's nachts in de slaapstand zodat hij je slaap niet verstoort."
+    },
+    {
+      "q": "Welke luchtreiniger is het best voor de slaapkamer bij allergie?",
+      "a": "In de slaapkamer telt vooral het geluid in de nachtstand. De Levoit Core 300S is compact, heeft een H13-filter en zet zijn display uit, zodat hij 's nachts nauwelijks opvalt. Voor een grote slaapkamer is de Philips PureProtect 3200 sterker met een slaapstand vanaf ongeveer 18 dB. Zet de reiniger een uur voor het slapen aan met deur en ramen dicht."
+    },
+    {
+      "q": "Helpt een luchtreiniger bij astma?",
+      "a": "Een luchtreiniger met een H13-filter haalt pollen, huisstofmijt en huidschilfers uit de lucht, die bij veel mensen met astma klachten uitlokken. Dat kan het binnenklimaat merkbaar schoner maken. Hij vervangt geen medicatie of advies van je huisarts. Kies een model zonder ionisator of ozonfunctie, want ozon kan de luchtwegen juist prikkelen."
+    },
+    {
+      "q": "Haalt een luchtreiniger formaldehyde uit de lucht?",
+      "a": "Formaldehyde is een gas en gaat dwars door een HEPA-filter heen. Daarvoor heb je een actief koolstoffilter of een speciaal formaldehydefilter nodig. De Dyson Purifier Big+Quiet Formaldehyde BP04 heeft zo'n filter dat formaldehyde afbreekt. Modellen met een koolstoflaag zoals de Coway Airmega Mighty vangen vooral geurtjes en een deel van de gassen."
+    },
+    {
+      "q": "Welke luchtreiniger is het best tegen pollen?",
+      "a": "Pollen zijn relatief grote deeltjes, dus elke luchtreiniger met een echt H13-filter vangt ze goed. Het verschil zit in de capaciteit: hoe hoger de CADR ten opzichte van je kamer, hoe sneller de pollen uit de lucht zijn. Voor een woonkamer is de Philips PureProtect 3200 of de Winix T800 een sterke keuze, voor een kleinere kamer de Levoit Core 300S."
     }
-  ]
+  ],
+  "seo": "luchtreiniger bij allergie"
 }

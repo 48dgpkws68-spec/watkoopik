@@ -431,13 +431,14 @@ for g in guides:
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], e(g["short"]), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), e(str(g.get("reviews_total", ""))),
-        podium, len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g["query"]), guide_html, faq, toc, "".join(gcard(x, root) for x in rel),
+        podium, len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, toc, "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
-    title = "Beste %s %d: top 10 vergeleken | watkoopik" % (g["query"], YEAR)
+    seo = g.get("seo") or g["query"]  # zoekterm voor titel en meta; query blijft de bol-zoekterm
+    title = "Beste %s %d: top 10 vergeleken | watkoopik" % (seo, YEAR)
     if len(title) > 62: title = "%s | watkoopik" % g["title"]
     desc = "De beste %s van %d is de %s %s (%s). Slimste koop: %s %s voor %s. Bekijk de volledige top 10 met plus- en minpunten, koopgids en FAQ." % (
-        g["query"], YEAR, top["brand"], top["name"], eur(top["price"]), bv["brand"], bv["name"], eur(bv["price"]))
+        seo, YEAR, top["brand"], top["name"], eur(top["price"]), bv["brand"], bv["name"], eur(bv["price"]))
     page(g["url"], title, desc, body, extra=extra, img=og_img(g, top))
 
 # ---------- keuzehulp ----------
@@ -510,7 +511,7 @@ if THEME == "green": wr("favicon.svg", FAVICON.replace("#5b3fd6", "#0f5c4c"))
 wr("CNAME", "watkoopik.com\n" if PREVIEW else "watkoopik.nl\n"); wr(".nojekyll", "")
 wr("robots.txt", "User-agent: *\nDisallow: /\n" if PREVIEW else "User-agent: *\nAllow: /\nDisallow: /stats.html\nSitemap: %s/sitemap.xml\n" % SITE)
 wr("search.json", json.dumps([{"t": g["title"], "u": g["url"], "c": CATS[g["cat"]][0], "w": "%s %s" % (win(g)["brand"], win(g)["name"]), "i": win(g).get("image", ""),
-    "k": " ".join([g["query"], g["short"]] + g.get("keywords", []) + ["%s %s" % (p["brand"], p["name"]) for p in g["products"]])} for g in guides], ensure_ascii=False))
+    "k": " ".join([g.get("seo", ""), g["query"], g["short"]] + g.get("keywords", []) + ["%s %s" % (p["brand"], p["name"]) for p in g["products"]])} for g in guides], ensure_ascii=False))
 # llms.txt: compacte index voor AI-zoekmachines (chatgpt.com stuurt sinds 19 okt bezoekers), per categorie gids, nr. 1 en slimste koop
 if not PREVIEW:
     L = ["# watkoopik.nl", "", "> Onafhankelijke Nederlandse top 10-koopgidsen. Per productsoort tien modellen vergeleken op specificaties, prijs en reviews, met plus- en minpunten, een koopgids en veelgestelde vragen. Prijzen zijn indicatief en worden dagelijks bij bol bijgewerkt.", "",
