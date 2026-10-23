@@ -17,13 +17,16 @@ def token():
                                  headers={"Accept": "application/json", "Authorization": "Basic " + base64.b64encode(("%s:%s" % (cid, sec)).encode()).decode()})
     return json.load(urllib.request.urlopen(req))["access_token"]
 
+_FRESH = {}  # bol-tokens verlopen na ~5 min: bij 401 automatisch vernieuwen
+
 def get(tok, path, params):
     url = API + path + "?" + urllib.parse.urlencode(params, doseq=True)
-    req = urllib.request.Request(url, headers={"Accept": "application/json", "Accept-Language": "nl-NL", "Authorization": "Bearer " + tok})
-    for attempt in range(3):
+    for attempt in range(4):
+        req = urllib.request.Request(url, headers={"Accept": "application/json", "Accept-Language": "nl-NL", "Authorization": "Bearer " + _FRESH.get("tok", tok)})
         try:
             return json.load(urllib.request.urlopen(req))
         except urllib.error.HTTPError as e:
+            if e.code == 401: _FRESH["tok"] = token(); continue
             if e.code == 429: time.sleep(2 + attempt * 3); continue
             if e.code == 404: return None
             raise

@@ -18,7 +18,7 @@
   "updated": "2026-10-16",
   "reviews_total": "6.300",
   "intro": "Een beamer geeft je voor het geld van een gewone tv een beeld van twee tot drie meter breed. Het aanbod loopt in 2026 uiteen van draagbare modellen met accu en Google TV tot 4K-laserbeamers voor een echte thuisbioscoop. Wij vergeleken 42 beamers op helderheid, resolutie, lichtbron, smart-functies, geluid en wat kopers er na maanden gebruik van vinden. Dit zijn de tien beste beamers die je nu kunt kopen, van een betaalbare Full HD-beamer voor de slaapkamer tot een laserprojector die overdag bruikbaar blijft.",
-  "verdict": "De BenQ GP520 is de beste beamer voor de meeste woonkamers: 4K, 2.600 ANSI lumen, Google TV en een lichtbron die 20.000 uur meegaat. Wil je veel beeld voor weinig geld, dan is de Epson EpiqVision Flex CO-FH02 met 3.000 lumen en Android TV de beste prijs-kwaliteit. Zoek je het beste beeld zonder op de prijs te letten, dan is de XGIMI Horizon S Pro met Dolby Vision en Dual Light de premium keuze. Voor onderweg of in de tuin kijk je naar de Dangbei Freedo of de Samsung Freestyle.",
+  "verdict": "De BenQ GP520 is de beste beamer voor de meeste woonkamers: 4K, 2.600 ANSI lumen, Google TV en een lichtbron die 20.000 uur meegaat. Wil je veel beeld voor weinig geld, dan is de Epson EpiqVision Flex CO-FH02 met 3.000 lumen en Android TV de beste prijs-kwaliteit. Zoek je het beste beeld zonder op de prijs te letten, dan is de XGIMI Horizon S Pro met Dolby Vision en Dual Light de premium keuze. Voor onderweg of in de tuin kijk je naar de Dangbei Freedo of de XGIMI MoGo 3 Pro.",
   "products": [
     {
       "brand": "BenQ",
@@ -51,7 +51,7 @@
       "bol_title": "BenQ GP520 4K HDR 2600 ANSI Lumen LED Projector voor de woonkamer - Beamer voor thuisentertainment met Google TV, Auto Cinema Mode, MEMC, Rec.709, HDR10+, HDMI 2.1, USB-A, USB-C, Wifi6, Bluetooth5.2, eARC, Dolby, 7.1-kanaals",
       "url": "https://www.bol.com/nl/nl/p/benq-gp520-4k-hdr-2600lm-led-woonkamerprojector-voor-thuisentertainment-met-google-tv-auto-cinema-mode-memc-rec-709-hdr10-hdmi-2-1-usb-a-usb-c-wifi6-bluetooth5-2-earc-dolby-7-1-kanaals/9300000192742797/",
       "image": "https://media.s-bol.com/oWLMyA485onK/wpgj1p8/550x420.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Epson",
@@ -85,7 +85,7 @@
       "bol_title": "Epson EpiqVision Flex CO-FH02 - Full HD Beamer - 3000 lumen",
       "url": "https://www.bol.com/nl/nl/p/epson-epiqvision-flex-co-fh02-full-hd-beamer-3000-lumen/9300000119685909/",
       "image": "https://media.s-bol.com/RxmyknnzRjYz/6RADJ3L/550x550.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "XGIMI",
@@ -119,41 +119,41 @@
       "bol_title": "XGIMI Horizon S Pro – 4K Smart-Projector – Beamer - Dolby Vision – Dual Light 2.0 – 1700 ISO Lumens – Android TV™ 11.0 – Harman/Kardon Sound – Bluetooth 5.1 – ISA 5.0",
       "url": "https://www.bol.com/nl/nl/p/xgimi-horizon-s-pro-4k-smart-projector-beamer-dolby-vision-dual-light-2-0-1700-iso-lumens-android-tv-11-0-harman-kardon-sound-bluetooth-5-1-isa-5-0/9300000193752933/",
       "image": "https://media.s-bol.com/Bq16B9YoV0BN/oYoQmVX/550x424.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
-      "brand": "Samsung",
-      "name": "The Freestyle 2nd Gen",
-      "price": 559.95,
+      "brand": "XGIMI",
+      "name": "MoGo 3 Pro",
+      "price": 499.0,
       "score": 8.5,
       "label": null,
-      "reviews": "380+ reviews",
-      "oneliner": "Kantelbare mini-beamer met Tizen en Samsung Gaming Hub.",
+      "reviews": "4/5 op bol",
+      "oneliner": "Compacte draagbare beamer met Google TV die je overal mee naartoe neemt.",
       "specs": {
-        "Resolutie": "Full HD (1920 x 1080)",
-        "Helderheid": "230 ANSI lumen",
-        "Lichtbron": "LED, 30.000 uur",
-        "Smart-systeem": "Tizen",
-        "Speakers": "1 x 5 W, 360 graden"
+        "Resolutie": "Full HD 1080p",
+        "Helderheid": "450 ISO lumen",
+        "Lichtbron": "LED",
+        "Smart-systeem": "Google TV met Netflix",
+        "Speakers": "2 x 5 W, Dolby Audio"
       },
       "pros": [
-        "Kantelt 180 graden, ook op het plafond projecteren",
-        "Tizen met alle apps en Samsung TV Plus",
-        "Gaming Hub streamt Xbox-games zonder console",
-        "Werkt op een USB-C-powerbank"
+        "Licht en compact, past in een tas",
+        "Google TV met officiële Netflix-app",
+        "Standaard draait 130 graden voor projectie op het plafond",
+        "Automatische scherpstelling en keystone"
       ],
       "cons": [
-        "230 ANSI lumen, alleen in het donker",
+        "Helderheid vraagt om een donkere kamer",
         "Geen ingebouwde accu",
-        "Prijzig voor deze helderheid"
+        "Duurder dan simpele minibeamers"
       ],
-      "ideal": "Wie een beamer wil die als lamp op een kastje past en net zo gemakkelijk werkt als een Samsung-tv.",
-      "text": "De Samsung Freestyle 2nd Gen is de beamer voor wie hem niet weg wil stoppen. Hij staat in een beugel die 180 graden kantelt, dus je richt hem op de muur, het plafond of de vloer en de autofocus en keystone zetten het beeld recht. Het smart-systeem is Tizen, hetzelfde als op Samsung-tv's, met alle streamingapps en Samsung TV Plus. Via de Gaming Hub speel je Xbox Game Pass-games zonder console.\n\nDe helderheid van 230 ANSI lumen is de laagste in deze lijst, dus je kijkt in een donkere kamer. Dat is de prijs voor het compacte formaat van 1,4 kilo. Een accu zit niet ingebouwd, maar hij werkt op een USB-C-powerbank van 50 watt of meer. De 360 graden-speaker klinkt voor zijn formaat goed. Kopers op bol zijn vooral te spreken over het gemak van Tizen en het design; de helderheid is het meest genoemde minpunt.",
-      "ean": "8806094951240",
-      "bol_title": "Samsung The Freestyle 2nd Gen - Smart Mini Beamer - Tizen - Samsung TV Plus",
-      "url": "https://www.bol.com/nl/nl/p/samsung-sp-lff3clax-wi-fi-5-high-dynamic-range-10-hybrid-log-gamma-samsung-tv-plus-tizen-5-w-dolby-digital-plus/9300000156606761/",
-      "image": "https://media.s-bol.com/JrOnNVMoJW9D/VOm0wp9/550x564.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie een kleine beamer zoekt voor de slaapkamer, op vakantie of in de tuin.",
+      "text": "De XGIMI MoGo 3 Pro is een draagbare beamer ter grootte van een flinke drinkfles. De standaard is geïntegreerd en draait 130 graden, zodat je zonder statief op de muur of het plafond projecteert. Een Full HD-beeld met 450 ISO lumen is genoeg voor een beeld van zo'n 100 inch in een donkere kamer. Autofocus en automatische keystone zetten het beeld na het neerzetten direct recht.\n\nGoogle TV met de officiële Netflix-app zit ingebouwd, dus je hebt geen extra stick nodig. De twee luidsprekers van 5 watt met Dolby Audio zijn prima voor een film in bed, maar voor actiefilms koppel je een soundbar via Bluetooth. Een accu ontbreekt, maar hij werkt op een USB-C-powerbank met genoeg vermogen. Op bol krijgt hij gemiddeld 4 sterren. Wie een compacte beamer zoekt die je makkelijk meeneemt, zit hier goed.",
+      "ean": "6935670504753",
+      "bol_title": "XGIMI MoGo 3 Pro – Draagbare Smart-projector - Beamer - 130° rotatie - 450 ISO Lumen – Google TV/Netflix-licentie - Harman/Kardon 2x 5W luidsprekers - Dolby Audio - ISA 2.0 - Bluetooth",
+      "url": "https://www.bol.com/nl/nl/p/xgimi-mogo-3-pro-draagbare-smart-projector-beamer-130-rotatie-450-iso-lumen-google-tv-netflix-licentie-harman-kardon-2x-5w-luidsprekers-dolby-audio-isa-2-0-bluetooth/9300000189824440/",
+      "image": "https://media.s-bol.com/RN8OGzRvWwLz/xGAG4JB/550x675.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "Anker",
@@ -186,41 +186,41 @@
       "bol_title": "Anker Nebula Mars 3 Air Beamer - Draagbare DLP Projector - Full HD 1080p Resolutie - 400 ANSI Lumen - WiFi & Bluetooth - Ingebouwde Batterij tot 2 - 5 uur - Perfect voor Films & Presentaties",
       "url": "https://www.bol.com/nl/nl/p/anker-nebula-mars-3-air-beamer-draagbare-dlp-projector-full-hd-1080p-resolutie-400-ansi-lumen-wifi-bluetooth-ingebouwde-batterij-tot-2-5-uur-perfect-voor-films-presentaties/9300000197096714/",
       "image": "https://media.s-bol.com/Ywpz8KoX8XEO/yPx2n4P/550x670.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Philips",
-      "name": "NeoPix 530",
-      "price": 349.0,
+      "name": "NeoPix 450",
+      "price": 413.2,
       "score": 8.0,
       "label": null,
-      "reviews": "260+ reviews",
-      "oneliner": "Betaalbare Full HD-beamer van een bekend merk, zonder poespas.",
+      "reviews": "nog weinig reviews op bol",
+      "oneliner": "Smart Full HD-beamer met korte projectieafstand voor een kleine woonkamer.",
       "specs": {
-        "Resolutie": "Full HD (1920 x 1080)",
-        "Helderheid": "350 ANSI lumen",
-        "Lichtbron": "LED, 30.000 uur",
-        "Smart-systeem": "Eigen systeem, HDMI",
-        "Speakers": "2 x 6 W"
+        "Resolutie": "Full HD 1080p",
+        "Helderheid": "450 ANSI lumen",
+        "Lichtbron": "LED",
+        "Smart-systeem": "Ingebouwd smart-platform met apps",
+        "Speakers": "Ingebouwd, stereo"
       },
       "pros": [
-        "Echte Full HD-resolutie voor een lage prijs",
-        "Beeld tot 100 inch vanaf 3 meter",
-        "Twee speakers, bluetooth-uitgang voor een speaker",
-        "LED gaat 30.000 uur mee"
+        "Korte projectieafstand, ook geschikt voor kleine ruimtes",
+        "Echte Full HD-resolutie",
+        "Apps ingebouwd, geen stick nodig",
+        "LED-lichtbron zonder lamp vervangen"
       ],
       "cons": [
-        "Geen Google TV of Netflix, streamingstick nodig",
-        "350 ANSI lumen, alleen in het donker",
-        "Handmatig scherpstellen"
+        "Minder helder dan grotere thuisbioscoopbeamers",
+        "Weinig reviews op bol",
+        "Ingebouwde speakers zijn beperkt"
       ],
-      "ideal": "Een eerste beamer voor de slaapkamer of kinderkamer met een streamingstick in de HDMI-poort.",
-      "text": "De Philips NeoPix 530 is een eenvoudige Full HD-beamer voor wie geen 500 euro wil uitgeven maar wel een bekend merk wil. De resolutie is echt 1920 x 1080 pixels, niet de opgeschaalde HD die je bij goedkope mini-beamers ziet. Met 350 ANSI lumen krijg je in een donkere kamer een helder beeld tot 100 inch. De LED-lichtbron gaat 30.000 uur mee.\n\nEen smart-systeem met Netflix ontbreekt; je sluit een Chromecast, Fire TV Stick of laptop aan op de HDMI-poort. Dat is voor veel mensen juist prettig, omdat een losse stick sneller werkt dan de ingebouwde software van veel beamers. De twee speakers van 6 watt zijn voldoende voor een serie, via bluetooth stuur je het geluid naar een speaker. Je stelt handmatig scherp. Kopers geven hem een ruime voldoende voor de prijs en noemen de eenvoudige bediening; de helderheid overdag is het minpunt.",
-      "ean": "7640186960342",
-      "bol_title": "Philips NeoPix 530 data projector Stan",
-      "url": "https://www.bol.com/nl/nl/p/philips-neopix-530-100-inch-full-hd-projector/9300000162039855/",
-      "image": "https://media.s-bol.com/KyvZ9o473nr8/n5RMOkY/550x211.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie in een appartement of slaapkamer een groot beeld wil zonder veel afstand tot de muur.",
+      "text": "De Philips NeoPix 450 is een smart beamer die vooral handig is in kleinere ruimtes. Dankzij de korte projectieafstand haal je al een groot beeld als de beamer maar een paar meter van de muur staat. De resolutie is echt Full HD en met 450 ANSI lumen is het beeld goed te zien als je de gordijnen dicht doet. De LED-lichtbron gaat jaren mee, dus je hoeft geen lampen te vervangen.\n\nStreamingapps zitten ingebouwd, zodat je zonder extra stick films en series kijkt. Via HDMI sluit je een spelcomputer of laptop aan. De ingebouwde speakers zijn goed genoeg voor een avondje kijken, maar voor meer volume koppel je een soundbar. Op bol staan er nog weinig reviews, al heeft de NeoPix-serie een goede naam. Wie een betaalbare en eenvoudige beamer voor een kleine kamer zoekt, maakt hier een veilige keuze.",
+      "ean": "7640186962759",
+      "bol_title": "Philips NeoPix 450 Smart Projector met korte projectieafstand 450 ANSI lumens LCD 1080p (1920x1080) Zwart",
+      "url": "https://www.bol.com/nl/nl/p/philips-neopix-450-smart-100-inch-full-hd-projector-met-google-tv/9300000230587855/",
+      "image": "https://media.s-bol.com/ozEo86kp4rpL/j29m4BY/550x498.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "Optoma",
@@ -254,7 +254,7 @@
       "bol_title": "Optoma UHZ35 4K 3500 lumen home cinema projector",
       "url": "https://www.bol.com/nl/nl/p/optoma-uhz35-4k-3500-lumen-home-cinema-projector/9300000190830112/",
       "image": "https://media.s-bol.com/8Zk7OrQ57pXr/MjV5665/550x395.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Dangbei",
@@ -287,12 +287,12 @@
       "bol_title": "Dangbei Freedo Draagbare Beamer - Full HD 1080p - 450 ISO Lumen - Google TV & Netflix - Ingebouwde Accu - Kantelbare Standaard",
       "url": "https://www.bol.com/nl/nl/p/dangbei-freedo/9300000225834008/",
       "image": "https://media.s-bol.com/XJqzPQkqP55W/KOwZnLz/550x574.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "BenQ",
       "name": "TK710",
-      "price": 1399.0,
+      "price": 1449.0,
       "score": 9.0,
       "label": null,
       "reviews": "50+ reviews",
@@ -321,41 +321,41 @@
       "bol_title": "BenQ TK710 4K HDR Laser 3200 ANSI Lumen Film- en Gaming beamer - Projector - 4ms Reactietijd - 240Hz - HDR10 & HLG - ARC/eARC Ondersteuning - Verticale Lensverschuiving - 3D Keystone - 1,3x Zoom - HDR Game Modes - Geschikt voor PS5 en XBox",
       "url": "https://www.bol.com/nl/nl/p/benq-tk710-gaming-beamer/9300000181342910/",
       "image": "https://media.s-bol.com/xWG69AmEZGlq/2kOZQWj/550x325.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Epson",
-      "name": "EH-TW6250",
-      "price": 986.3,
+      "name": "EH-TW7000",
+      "price": 879.0,
       "score": 8.7,
       "label": null,
-      "reviews": "70+ reviews",
-      "oneliner": "Klassieke thuisbioscoopbeamer met 4K PRO-UHD en Android TV.",
+      "reviews": "4,9/5 op bol",
+      "oneliner": "Heldere 4K-beamer voor een echte thuisbioscoop met lens shift en HDR.",
       "specs": {
-        "Resolutie": "4K PRO-UHD (pixelshift)",
-        "Helderheid": "2.800 lumen",
-        "Lichtbron": "Lamp, 4.500 uur",
-        "Smart-systeem": "Android TV (dongle)",
-        "Speakers": "1 x 10 W"
+        "Resolutie": "4K PRO-UHD (pixelverschuiving)",
+        "Helderheid": "3.000 lumen",
+        "Lichtbron": "Lamp",
+        "Smart-systeem": "Geen, via HDMI",
+        "Speakers": "Ingebouwd, 2 x 5 W"
       },
       "pros": [
-        "3LCD: kleuren even helder als wit, geen regenboogeffect",
-        "2.800 lumen met lensverschuiving voor flexibele plaatsing",
-        "Android TV-dongle meegeleverd",
-        "Rustige, filmische beeldweergave"
+        "3.000 lumen, ook bruikbaar met wat licht in de kamer",
+        "4K-beeld met HDR10 en HLG",
+        "Lens shift en 1,6x zoom voor flexibele plaatsing",
+        "3LCD-techniek zonder regenboogeffect"
       ],
       "cons": [
-        "Lamp gaat 4.500 uur mee en moet dan vervangen worden",
-        "Geen autofocus",
-        "Groter en zwaarder dan de LED-modellen"
+        "Geen ingebouwde apps",
+        "Lamp moet na verloop van tijd vervangen worden",
+        "Groot en zwaar apparaat"
       ],
-      "ideal": "Wie een vaste thuisbioscoop bouwt en het 3LCD-beeld van Epson verkiest boven DLP.",
-      "text": "De Epson EH-TW6250 is een beamer van de oude school in de goede zin: een 3LCD-projector met 2.800 lumen die 4K PRO-UHD weergeeft door pixelverschuiving. Het beeld is rustig, de kleuren zijn even helder als het wit en het regenboogeffect van DLP-beamers bestaat hier niet. Met de verticale lensverschuiving en de zoom plaats je hem ook op een plank die niet precies recht voor het scherm staat.\n\nEpson levert een Android TV-dongle mee, zodat je zonder extra kastje streamt. De speaker van 10 watt is goed genoeg voor het nieuws, voor films sluit je een soundbar aan via HDMI ARC. De lichtbron is een lamp van ongeveer 4.500 uur, dus na een paar jaar intensief kijken koop je een nieuwe voor zo'n 100 euro. Kopers prijzen de natuurlijke kleuren en de scherpte. Voor een vaste opstelling in een verduisterde kamer is dit een betrouwbare keuze.",
-      "ean": "8715946710631",
-      "bol_title": "Epson EH-TW6250 Smart Beamer - Android TV",
-      "url": "https://www.bol.com/nl/nl/p/epson-eh-tw6250-smart-beamer-android-tv/9300000119685913/",
-      "image": "https://media.s-bol.com/m9nqQNwOx2E0/gJ7op0r/550x379.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Filmliefhebbers die een vaste thuisbioscoop inrichten en een groot, helder 4K-beeld willen.",
+      "text": "De Epson EH-TW7000 is een thuisbioscoopbeamer voor wie een vaste plek heeft en een groot beeld wil. Met 3.000 lumen is hij helder genoeg om ook met wat licht in de kamer te kijken. Het beeld komt uit 3LCD-panelen met pixelverschuiving, wat een scherp 4K-beeld oplevert zonder het regenboogeffect dat sommige mensen bij DLP zien. HDR10 en HLG worden ondersteund.\n\nDe grote kracht zit in de plaatsing. Dankzij lens shift en een 1,6x zoom hoef je de beamer niet precies recht voor het scherm te hangen. Op bol krijgt hij gemiddeld een 4,9 van de 5. Er zitten geen apps in, dus je sluit een streamingstick of mediaspeler aan via HDMI. De lamp gaat lang mee, maar moet na een paar duizend uur vervangen worden. Voor ruim 850 euro krijg je hier echte thuisbioscoopkwaliteit.",
+      "ean": "8715946670867",
+      "bol_title": "Epson EH TW7000 - 4K Beamer - 3000 lumen",
+      "url": "https://www.bol.com/nl/nl/p/epson-eh-tw7000-4k-beamer-3000-lumen/9200000119392075/",
+      "image": "https://media.s-bol.com/2wylJzR2mm2W/VOl7JAo/550x369.jpg",
+      "synced": "2026-10-24"
     }
   ],
   "guide": [
@@ -395,7 +395,7 @@
     },
     {
       "q": "Welke beamer heeft Netflix?",
-      "a": "Beamers met Google TV en een officiële Netflix-licentie, zoals de Dangbei Freedo, Nebula Mars 3 Air en BenQ GP520, hebben Netflix ingebouwd. De Samsung Freestyle heeft Netflix via Tizen. Bij XGIMI, Optoma en Philips sluit je een Chromecast of Fire TV Stick aan."
+      "a": "Beamers met Google TV en een officiële Netflix-licentie, zoals de Dangbei Freedo, Nebula Mars 3 Air en BenQ GP520, hebben Netflix ingebouwd. De XGIMI MoGo 3 Pro heeft Google TV met Netflix ingebouwd. Bij de XGIMI Horizon, Optoma en Philips sluit je een Chromecast of Fire TV Stick aan."
     },
     {
       "q": "Hoe ver moet een beamer van de muur staan?",

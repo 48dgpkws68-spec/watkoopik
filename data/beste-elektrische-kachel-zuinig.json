@@ -21,36 +21,36 @@
   "products": [
     {
       "brand": "Duux",
-      "name": "Edge Oil Smart Olieradiator 2000 W",
-      "price": 249.99,
+      "name": "Edge Oil Smart Olieradiator 1500 W",
+      "price": 217.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "350+ reviews",
-      "oneliner": "Slimme olieradiator die stil en gelijkmatig warmte vasthoudt.",
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Slimme olieradiator met app, weekschema en een gelijkmatige stille warmte.",
       "specs": {
-        "Type": "Oliegevuld",
-        "Vermogen": "2000 W",
+        "Type": "Olieradiator",
+        "Vermogen": "1500 W",
         "Thermostaat": "Digitaal, app",
         "Timer": "Weekschema",
-        "Kosten per uur": "max. € 0,60"
+        "Kosten per uur": "max. € 0,45"
       },
       "pros": [
-        "Thermostaat per graad in te stellen via de app",
-        "Weekschema zodat hij alleen draait als je thuis bent",
-        "Olie houdt warmte vast na het uitschakelen",
-        "Geruisloos, geen ventilator"
+        "Stil, want er zit geen ventilator in",
+        "Weekschema en thermostaat via de app",
+        "Olie houdt de warmte vast na uitschakelen",
+        "Strak design dat niet als kachel oogt"
       ],
       "cons": [
-        "Duur in aanschaf",
-        "Warmt een koude kamer langzamer op dan een ventilatorkachel"
+        "Warmt een koude kamer langzamer op dan een ventilatorkachel",
+        "Voor een grote woonkamer is 1500 W krap"
       ],
-      "ideal": "Wie een thuiswerkplek of slaapkamer elke dag een paar uur bijverwarmt en niets wil verspillen.",
-      "text": "Zuinig verwarmen draait om één ding: de kachel mag niet harder of langer werken dan nodig. Daar is de Duux Edge Oil sterk in. Via de app stel je de gewenste temperatuur per graad in en zet je een weekschema, zodat de radiator om half negen aanslaat voor je werkplek en om vijf uur weer uitgaat. Haal je de ingestelde temperatuur, dan schakelt het element terug en houdt de olie de warmte vast.\n\nOp vol vermogen trekt hij 2000 watt. Met een stroomprijs van 0,30 euro per kWh kost een uur op volle kracht 60 cent, maar in een goed geïsoleerde kamer van 15 m² draait het element na het opwarmen vaak maar een derde van de tijd. Dan zit je eerder rond de 20 tot 25 cent per uur. Gebruikers op bol noemen vooral de stilte en het strakke ontwerp. Het minpunt is de prijs: je betaalt voor de slimme bediening die de besparing mogelijk maakt.",
-      "ean": "8716164989007",
-      "bol_title": "Duux Edge Oil - Smart Olieradiator met Thermostaat - 2000W Oliegevulde Radiator met Boost modus - Grijs",
-      "url": "https://www.bol.com/nl/nl/p/duux-edge-oil-smart-olieradiator-met-thermostaat-2000w-oliegevulde-radiator-met-boost-modus-grijs/9300000192301320/",
-      "image": "https://media.s-bol.com/yWNVlE63MEmz/73V4OKA/550x654.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie een slaapkamer of thuiskantoor zuinig en stil wil bijverwarmen met een vast schema.",
+      "text": "De Duux Edge Oil is een olieradiator met een slim randje. Je bedient hem met de Duux-app, zet een weekschema en laat de digitale thermostaat de temperatuur bewaken. Juist die thermostaat maakt hem zuinig: de radiator schakelt terug zodra de kamer warm genoeg is in plaats van continu op vol vermogen te draaien. Op de hoogste stand verbruikt deze versie 1500 watt, zodat je per uur hooguit rond de 45 cent kwijt bent.\n\nDoor de oliegevulde ribben geeft hij zachte stralingswarmte af die ook na het uitschakelen nog een tijd doorgaat. Er zit geen ventilator in, dus je hoort hem niet. Dat maakt hem geschikt voor de slaapkamer. Het nadeel van olie is dat het opwarmen even duurt. Wie een koude kamer binnen tien minuten warm wil hebben, is beter af met een keramische kachel. Voor een ruimte tot ongeveer 15 vierkante meter is dit een prettige zuinige keuze.",
+      "ean": "8716164989021",
+      "bol_title": "Duux Edge DXOH11 Oil - Smart Olieradiator met Thermostaat - 1500W Olie gevulde Radiator - grijs",
+      "url": "https://www.bol.com/nl/nl/p/duux-edge-dxoh11-oil-smart-olieradiator-met-thermostaat-1500w-olie-gevulde-radiator-grijs/9300000244513075/",
+      "image": "https://media.s-bol.com/j14V9JE19RkY/JZBg8Jy/550x511.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "Adax",
@@ -83,12 +83,12 @@
       "bol_title": "Adax Neo - Elektrische radiator - Wifi - 2000 W - 33 x 143 cm - Wit",
       "url": "https://www.bol.com/nl/nl/p/adax-neo-wifi-elektrische-verwarming-2000watt-33cm-x-143-cm/9200000111015579/",
       "image": "https://media.s-bol.com/mxAxzyAX85O3/r0lBLgL/550x511.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Eurom",
       "name": "Alutherm 1500 WiFi",
-      "price": 110.39,
+      "price": 111.24,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "400+ reviews",
@@ -116,7 +116,7 @@
       "bol_title": "Eurom Alutherm 1500 WiFi Convectorkachel - 1500W - 60m3",
       "url": "https://www.bol.com/nl/nl/p/eurom-alutherm-1500-wifi-convectorkachel-1500w-60m3/9200000104460931/",
       "image": "https://media.s-bol.com/7Bq2kPVERQE1/AD9qY73/550x407.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Vultec",
@@ -145,11 +145,11 @@
       ],
       "ideal": "Wie aan een bureau of op de bank zit en alleen de eigen plek warm wil houden.",
       "text": "Infrarood werkt anders dan een gewone kachel. Het paneel warmt niet eerst de lucht op, maar straalt warmte naar je lichaam en de voorwerpen ervoor. Daardoor voelt het al comfortabel bij een kamertemperatuur die een of twee graden lager is. Precies daar zit de besparing: niet in het rendement, want elke elektrische kachel zet 1 kWh om in 1 kWh warmte, maar in minder ruimte die je hoeft te verwarmen.\n\nDe Vultec M450 trekt 450 watt. Bij 0,30 euro per kWh kost een uur op vol vermogen ruim 13 cent, zodat een werkdag van acht uur ongeveer 1,10 euro kost. De wifi-thermostaat met weekschema zorgt dat hij niet aan blijft staan als je weg bent. Je kunt hem ophangen of op de meegeleverde voeten zetten. Kopers zijn tevreden over het gevoel van warme voeten en handen onder het bureau. Een hele woonkamer verwarm je er niet mee.",
-      "ean": "8721325727367",
-      "bol_title": "Vultec M450 Infrarood Verwarming - Infrarood Paneel - Wandmontage & Staand - Met WiFi Thermostaat - 450W Elektrische Kachel - Wit",
-      "url": "https://www.bol.com/nl/nl/p/vultec-m450-infrarood-verwarming-infrarood-paneel-wandmontage-staand-met-wifi-thermostaat-450w-elektrische-kachel-wit/9300000392907543/",
-      "image": "https://media.s-bol.com/mv7zZJ8238OR/OgMKmwQ/550x550.jpg",
-      "synced": "2026-10-23"
+      "ean": "8721325727374",
+      "synced": "2026-10-24",
+      "bol_title": "Vultec M450B Infrarood Verwarming - Infrarood Paneel - Wandmontage & Staand - Met WiFi Thermostaat - 450W Elektrische Kachel - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/vultec-m450b-infrarood-verwarming-infrarood-paneel-wandmontage-staand-met-wifi-thermostaat-450w-elektrische-kachel-zwart/9300000392907542/",
+      "image": "https://media.s-bol.com/gm4y9JmNVWRr/837Yggl/550x550.jpg"
     },
     {
       "brand": "Eurom",
@@ -182,7 +182,7 @@
       "bol_title": "Eurom Mon Soleil 350 Wi-Fi infrarood wandkachel - 350W - 8,85kg - IP24",
       "url": "https://www.bol.com/nl/nl/p/eurom-mon-soleil-350-wi-fi-infrarood-wandkachel-350w-8-85kg-ip24/9200000108271180/",
       "image": "https://media.s-bol.com/m5KXzpyZ3Rkn/Q1w64GL/550x703.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "De'Longhi",
@@ -215,16 +215,16 @@
       "bol_title": "De'Longhi Dragon EasyTronic TRD50820 -Oliegevulde radiator met schoorsteeneffect en slimme temperatuurcontrole - Verwarmd kamers tot 60 m²- Wit",
       "url": "https://www.bol.com/nl/nl/p/verwarming-delonghi-dragon-trd50820/9300000243880804/",
       "image": "https://media.s-bol.com/q3Bm5lgp3pG3/oQRqDPN/550x826.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
-      "brand": "Duux",
-      "name": "Edge 2000 W Smart Convectorkachel",
-      "price": 179.99,
+      "brand": "Dimplex",
+      "name": "HeatLite Smart Convector 2 kW",
+      "price": 89.99,
       "score": 8.6,
       "label": null,
-      "reviews": "150+ reviews",
-      "oneliner": "Slanke slimme convector met app, schema en badkamerbescherming.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Betaalbare wifi-convector met app, thermostaat en weekprogramma.",
       "specs": {
         "Type": "Convector",
         "Vermogen": "2000 W",
@@ -233,55 +233,55 @@
         "Kosten per uur": "max. € 0,60"
       },
       "pros": [
-        "Thermostaat en schema via de app",
-        "Spatwaterdicht, ook voor de badkamer",
-        "Stil zonder ventilator",
-        "Muur of pootjes"
+        "Bediening en planning via de app",
+        "Nauwkeurige thermostaat voorkomt onnodig stoken",
+        "Vrijstaand of aan de muur te gebruiken",
+        "Scherpe prijs voor een slimme kachel"
       ],
       "cons": [
-        "Kopers zijn wisselend over de app-koppeling",
-        "2000 watt is ruim voor een kleine kamer"
+        "Convectie verwarmt vooral de lucht bovenin",
+        "Behuizing voelt wat eenvoudiger aan"
       ],
-      "ideal": "Wie een strakke slimme kachel zoekt voor woonkamer, kantoor of badkamer.",
-      "text": "De Duux Edge is de convectorversie naast de Edge Oil. Waar de olieradiator warmte vasthoudt, is deze convector sneller warm en sneller weer koel. Dat maakt hem geschikt voor ruimtes die je kort gebruikt, zoals een badkamer of logeerkamer. Via de app stel je de temperatuur en een weekschema in, zodat hij niet voor niets aan staat. Hij is spatwaterdicht en mag dus in de badkamer hangen.\n\nHet vermogen van 2000 watt kost op vol vermogen bij 0,30 euro per kWh 60 cent per uur. Gebruik je hem in een kleine badkamer twee keer per dag twintig minuten, dan kom je uit op ongeveer 20 cent per dag. Het design is strak en hij maakt geen geluid. De beoordelingen zijn wisselend: wie hem eenmaal gekoppeld heeft is tevreden, maar enkele kopers hadden moeite met de eerste verbinding. Voor een vaste plek in een kleine ruimte is de Eurom Alutherm goedkoper.",
-      "ean": "8716164992885",
-      "bol_title": "Duux Edge 2000W Smart Convectorkachel - Elektrische Kachel - Elektrische Verwarming Badkamer, Woonkamer, Kantoor – Grijs",
-      "url": "https://www.bol.com/nl/nl/p/duux-edge-2000w-smart-convectorkachel-elektrische-kachel-elektrische-verwarming-badkamer-woonruimte-kantoor-grijs/9300000039962072/",
-      "image": "https://media.s-bol.com/gPzN5lMAllgG/lYXAXO1/550x477.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie een middelgrote kamer slim wil bijverwarmen zonder veel uit te geven.",
+      "text": "De Dimplex HeatLite Smart is een convectorkachel van 2000 watt die je via wifi met je telefoon bedient. In de app stel je een weekschema in, zodat de kachel alleen draait als je er echt bent. De digitale thermostaat houdt de gewenste temperatuur vast en schakelt het vermogen terug zodra die bereikt is. Zo voorkom je dat je de hele dag op vol vermogen stookt en blijft de rekening beperkt.\n\nDimplex is een bekende naam in elektrische verwarming en dat merk je aan de eenvoudige installatie. Je zet hem op de meegeleverde voetjes of hangt hem aan de muur. Convectie verwarmt de lucht, waardoor de warmte zich goed over de kamer verspreidt maar bovenin het eerst merkbaar is. Kopers zijn vooral te spreken over de app en de prijs. De afwerking is functioneel en minder luxe dan bij duurdere modellen. Voor dit bedrag krijg je wel alle slimme functies die je nodig hebt.",
+      "ean": "8716412237201",
+      "bol_title": "Dimplex HeatLite Smart Convector 2kW - Elektrische Verwarming met Wi-Fi App en Thermostaat - Convectorkachel Elektrisch 2000 Watt - 3 Standen - Weektimer - Kinderslot - Antraciet",
+      "url": "https://www.bol.com/nl/nl/p/dimplex-heatlite-smart-convector-2kw-elektrische-verwarming-met-wi-fi-app-en-thermostaat-convectorkachel-elektrisch-2000-watt-3-standen-weektimer-kinderslot-antraciet/9300000383301169/",
+      "image": "https://media.s-bol.com/3L1jglPROmKO/ZYqRxD2/550x515.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "Philips",
-      "name": "5000 Series CX5120/11",
-      "price": 95.9,
+      "name": "Compacte keramische kachel CX2120/01",
+      "price": 56.0,
       "score": 8.5,
       "label": null,
-      "reviews": "800+ reviews",
-      "oneliner": "Keramische torenkachel met digitale thermostaat en 8-uurstimer.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "Kleine keramische kachel die snel warmte geeft en stil blijft.",
       "specs": {
-        "Type": "Keramisch, toren",
+        "Type": "Keramisch",
         "Vermogen": "2000 W",
-        "Thermostaat": "Digitaal",
-        "Timer": "Ja, 8 uur",
+        "Thermostaat": "Instelbaar",
+        "Timer": "Nee",
         "Kosten per uur": "max. € 0,60"
       },
       "pros": [
-        "Digitale thermostaat houdt de temperatuur constant",
-        "Timer tot 8 uur",
-        "Snel warm door ventilator",
-        "Zwenkfunctie verdeelt de warmte"
+        "Binnen enkele minuten merkbare warmte",
+        "Compact formaat dat overal past",
+        "Stille werking voor een ventilatorkachel",
+        "Beveiliging tegen oververhitting en omvallen"
       ],
       "cons": [
-        "Ventilator is hoorbaar",
-        "Geen app of weekschema"
+        "Geen timer of app",
+        "Verwarmt vooral de directe omgeving"
       ],
-      "ideal": "Wie snel een koude kamer wil opwarmen en de kachel daarna zelf laat terugregelen.",
-      "text": "Een keramische ventilatorkachel is de snelste manier om een koude kamer warm te krijgen. De Philips 5000 Series combineert dat met een digitale thermostaat die het element uitschakelt zodra de kamer op temperatuur is. Je zet de gewenste graad, kiest een timer tot acht uur en de kachel zwenkt om de warmte te verdelen. Dat voorkomt dat hij uren op vol vermogen doorblaast.\n\nOp vol vermogen kost hij bij 0,30 euro per kWh 60 cent per uur. Zuinig wordt het als je hem kort en gericht inzet: een half uur opwarmen van de werkkamer en dan laten terugschakelen. Voor urenlang gebruik is een olieradiator of infraroodpaneel aangenamer, omdat de ventilator altijd wat geluid maakt. Kopers op bol zijn tevreden over de bouwkwaliteit en het overzichtelijke display. Het ontbreken van een weekschema betekent dat je zelf moet onthouden hem uit te zetten, al helpt de timer daarbij.",
-      "ean": "8720389030697",
-      "bol_title": "Philips 5000 Series CX5120/11 - Kachel - Keramische verwarming - 2000 Watt - Zwart",
-      "url": "https://www.bol.com/nl/nl/p/philips-cx5120-11-ventilator/9300000159437499/",
-      "image": "https://media.s-bol.com/RvQN1XzJmPrz/lY6N9v1/316x840.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie snel een kleine ruimte zoals een badkamer of werkhoek wil opwarmen.",
+      "text": "De Philips CX2120 is een compacte keramische kachel voor als je snel warmte wilt. Een keramisch element warmt in korte tijd op en een ventilator blaast de warme lucht direct de kamer in. Je voelt het verschil daardoor binnen een paar minuten. Dat maakt hem zuinig in gebruik voor korte momenten: je zet hem aan als je in de badkamer staat of aan je bureau zit en zet hem daarna weer uit.\n\nMet de draaiknop kies je de gewenste stand en de thermostaat zorgt dat hij niet onnodig doorloopt. Philips heeft hem uitgerust met een beveiliging tegen oververhitting en een schakelaar die de kachel uitzet als hij omvalt. Kopers prijzen het geringe geluid en het kleine formaat. Een timer of app ontbreekt, dus je moet zelf onthouden hem uit te zetten. Voor het continu verwarmen van een woonkamer is hij niet bedoeld. Als snelle bijverwarming is het een betaalbare en betrouwbare keuze.",
+      "ean": "8720389041501",
+      "bol_title": "Philips compacte Keramische Kachel - CX2120/01 – Razendsnelle en Fluisterstille Verwarming voor Elke Kamer",
+      "url": "https://www.bol.com/nl/nl/p/philips-compacte-keramische-verwarming/9300000186181868/",
+      "image": "https://media.s-bol.com/mm9K29jJqQn3/yPvyW86/550x611.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "VONROC",
@@ -314,7 +314,7 @@
       "bol_title": "VONROC Elektrische kachel - ventilatorkachel - 1200W/2000W - torenmodel - keramisch - ECO Modus - zwenkfunctie - LED display - Incl. afstandsbediening - thermostaat en timer - 20m2",
       "url": "https://www.bol.com/nl/nl/p/vonroc-elektrische-kachel-ventilatorkachel-1200w-2000w-torenmodel-keramisch-eco-modus-zwenkfunctie-led-display-incl-afstandsbediening-thermostaat-en-timer-20m2/9300000129700429/",
       "image": "https://media.s-bol.com/PK8kDDAgO1V1/Yq79ln/258x840.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Klarstein",
@@ -347,7 +347,7 @@
       "bol_title": "Klarstein Air infraroodverwarming, 360 W infraroodpaneel met open raamdetectie, wandmontage, thermostaat, timer en afstandsbediening, ruimtebesparende energiezuinige elektrische verwarming",
       "url": "https://www.bol.com/nl/nl/p/wonderwall-air-infrarood-verwarming-kachel-beschermklasse-ip54-afstandsbediening-wandmontage-wit/9300000009221187/",
       "image": "https://media.s-bol.com/1Lo0Zv4nmN3m/zmO04Wr/550x304.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     }
   ],
   "guide": [

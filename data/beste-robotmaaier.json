@@ -49,7 +49,7 @@
       "bol_title": "Segway Navimow - i105E Robotmaaier - 500 m - Zonder Perimeterdraad - Automatisch grasmaaien - GPS RTK & AI - Bediening via App - Stil & Slim Maaien - 18 cm Maaibreedte - Virtuele zones - Object herkenning - Alexa en Google smarthome ondersteuning",
       "url": "https://www.bol.com/nl/nl/p/segway-navimow-i105e-robotmaaier-500-m-zonder-perimeterdraad-gps-rtk-ai-bediening-via-app-stil-slim-maaien-18-cm-maaibreedte/9300000177752213/",
       "image": "https://media.s-bol.com/RqA8W1ZzzpyR/gJr9WKD/550x434.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Husqvarna",
@@ -83,7 +83,7 @@
       "bol_title": "HUSQVARNA AUTOMOWER® 405X Robotmaaier",
       "url": "https://www.bol.com/nl/nl/p/husqvarna-automower-405x-robotmaaier/9300000129617636/",
       "image": "https://media.s-bol.com/OXRgZYpzJpZG/gMY8lZ/550x249.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Gardena",
@@ -116,7 +116,7 @@
       "bol_title": "GARDENA SILENO minimo 350 Robotmaaier - voor gazons tot ca. 350 m²",
       "url": "https://www.bol.com/nl/nl/p/gardena-sileno-minimo-350-robotmaaier-voor-gazons-tot-ca-350-m/9300000236113421/",
       "image": "https://media.s-bol.com/q4mBMpn5zY4r/Mj9pP6R/550x307.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Worx",
@@ -149,7 +149,7 @@
       "bol_title": "WORX 20V Landroid Vision M800 - Robotmaaier - Geschikt voor oppervlakte (max.) 800 m² - Inclusief laadstation",
       "url": "https://www.bol.com/nl/nl/p/worx-20v-landroid-vision-m800-robotmaaier-geschikt-voor-oppervlakte-800-m-inclusief-laadstation/9300000189051515/",
       "image": "https://media.s-bol.com/r101Z5LDrqr4/nZW34Kl/550x600.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Bosch",
@@ -182,7 +182,7 @@
       "bol_title": "Bosch Indego M 700 Robotmaaier - Voor gazons tot 700 m2 - Incl. laadstation en accessoires",
       "url": "https://www.bol.com/nl/nl/p/bosch-indego-m-700-robotmaaier-voor-gazons-tot-700-m2-incl-laadstation-en-accessoires/9300000017133237/",
       "image": "https://media.s-bol.com/x5BqxOA1gBLr/p1WNlQ/550x339.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Mammotion",
@@ -215,45 +215,45 @@
       "bol_title": "Mammotion Yuka mini 2 800R - Draadloze Robotmaaier Triple-camera AI-Vision - Werkt zonder antenne",
       "url": "https://www.bol.com/nl/nl/p/mammotion-yuka-mini-2-800r-draadloze-robotmaaier-triple-camera-ai-vision-werkt-zonder-antenne/9300000262604304/",
       "image": "https://media.s-bol.com/Jo2Np36RJWL9/Q1P0M5q/550x550.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Ecovacs",
-      "name": "GOAT A1600 LiDAR PRO",
-      "price": 999.0,
+      "name": "GOAT O800 RTK",
+      "price": 614.0,
       "score": 8.5,
       "label": null,
-      "reviews": "300+ reviews",
-      "oneliner": "Draadloze maaier met LiDAR voor grotere tuinen.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Draadloze RTK-maaier met camera voor gazons tot 800 m².",
       "specs": {
-        "Max. oppervlak": "1.200 m²",
-        "Begrenzing": "Geen draad (LiDAR + camera)",
-        "Helling": "50%",
-        "Geluid": "60 dB",
-        "App": "Ja, wifi en 4G"
+        "Max. oppervlak": "800 m²",
+        "Begrenzing": "Geen draad (RTK + camera)",
+        "Helling": "45%",
+        "Geluid": "ca. 60 dB",
+        "App": "Ja, wifi"
       },
       "pros": [
-        "LiDAR werkt zonder antenne, ook onder bomen",
-        "Brengt de tuin automatisch in kaart",
-        "Maait in banen",
-        "Goede obstakelherkenning"
+        "Geen begrenzingsdraad nodig",
+        "Camera ontwijkt obstakels",
+        "Maait in nette rechte banen",
+        "Scherpe prijs voor RTK"
       ],
       "cons": [
-        "App voelt minder volwassen dan die van Husqvarna",
-        "Fors en zwaar om te verplaatsen"
+        "RTK-antenne moet vrij zicht op de lucht hebben",
+        "App vraagt even wennen"
       ],
-      "ideal": "Eigenaren van een grote tuin met bomen die draadloos willen maaien.",
-      "text": "Ecovacs is bekend van robotstofzuigers en past die kennis toe in de GOAT A1600 LiDAR PRO. In plaats van satellietontvangst gebruikt hij een draaiende LiDAR-sensor die de omgeving met laserlicht in kaart brengt, aangevuld met een camera. Daardoor heeft hij geen antenne nodig en blijft hij ook onder bomen en naast huizen goed op koers.\n\nJe hoeft de grens niet zelf na te lopen: de maaier verkent het gazon en stelt een kaart voor die je in de app aanpast. Gebruikers melden dat dit bij eenvoudige tuinen goed werkt, maar dat je bij borders en vijvers soms moet bijsturen. Met een bereik tot 1.200 vierkante meter is hij geschikt voor grotere kavels en hij neemt hellingen tot 50 procent. De app mist volgens reviews nog wat verfijning. Voor een groot gazon zonder draad is dit een sterke optie.",
-      "ean": "6970135038176",
-      "bol_title": "Ecovacs GOAT A1600 LiDAR PRO EU - Robotmaaier Zonder Begrenzingskabel - 1200 M² - 360° Dual-Lidar-Navigatie - Automatisch In Kaart Brengen - AI 3D-Obstakelvermijding - Maaien Van Randen Met TruEdge-Trimmer",
-      "url": "https://www.bol.com/nl/nl/p/ecovacs-goat-a1600-lidar-pro-eu-robotmaaier-zonder-begrenzingskabel-1200-m-360-dual-lidar-navigatie-automatisch-in-kaart-brengen-ai-3d-obstakelvermijding-maaien-van-randen-met-truedge-trimmer/9300000262454558/",
-      "image": "https://media.s-bol.com/QyLQk8wBknJ7/GZp2rn8/550x276.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie een middelgroot gazon heeft en geen draad wil ingraven.",
+      "text": "De Ecovacs GOAT O800 RTK maait zonder begrenzingsdraad. Hij gebruikt RTK-satellietnavigatie met een losse antenne in je tuin om tot op een paar centimeter te weten waar hij is. Je tekent de grenzen van je gazon in de app door de maaier één keer langs de rand te sturen.\n\nDaarna maait hij in rechte banen, wat een strak streeppatroon oplevert en sneller werkt dan willekeurig rijden. Een camera aan de voorkant herkent obstakels zoals speelgoed, tuinslangen en egels en rijdt eromheen. Met een bereik tot 800 vierkante meter past hij bij de meeste Nederlandse tuinen. Hellingen tot 45 procent zijn geen probleem. De RTK-antenne moet wel vrij zicht op de lucht hebben. Onder dichte bomen of naast een hoog huis kan het signaal haperen. Kopers op bol geven hem gemiddeld 4,3 sterren. Voor rond de 600 euro is dit een betaalbare manier om draadloos te maaien.",
+      "ean": "6970135034789",
+      "bol_title": "ECOVACS - GOAT O800 RTK - Robotmaaier - voor oppervlakken tot 800m²",
+      "url": "https://www.bol.com/nl/nl/p/goat-o800-rtk/9300000226391551/",
+      "image": "https://media.s-bol.com/7ZAyzZJ10k2j/vgD6EQn/550x460.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "Worx",
       "name": "Landroid M500 Plus WR167E",
-      "price": 375.31,
+      "price": 368.44,
       "score": 8.4,
       "label": null,
       "reviews": "1.900+ reviews",
@@ -281,7 +281,7 @@
       "bol_title": "Worx Landroid M500 Plus - Robotmaaier - Geschikt voor oppervlakte (max.) 500 m² - Inclusief laadstation",
       "url": "https://www.bol.com/nl/nl/p/worx-wr165e-grasmaaier-robotgrasmaaier-batterij-accu-zwart-oranje/9300000082950662/",
       "image": "https://media.s-bol.com/YPJAkg7j8Zy2/JZYEBPD/550x380.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Gardena",
@@ -314,40 +314,40 @@
       "bol_title": "GARDENA SILENO life 1250 Robotmaaier - voor gazons tot ca. 1250m²",
       "url": "https://www.bol.com/nl/nl/p/gardena-sileno-life-1250-robotmaaier-voor-gazons-tot-ca-1250m/9200000101937434/",
       "image": "https://media.s-bol.com/gJLOGx267WGY/550x349.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Dreame",
-      "name": "A1",
-      "price": 92.95,
+      "name": "A1 Pro",
+      "price": 719.0,
       "score": 8.3,
       "label": null,
-      "reviews": "400+ reviews",
-      "oneliner": "Draadloze maaier met lidar, ook onder bomen nauwkeurig.",
+      "reviews": "5,0/5 op bol",
+      "oneliner": "Lidar-maaier zonder draad die je gazon vanzelf in kaart brengt.",
       "specs": {
         "Max. oppervlak": "2.000 m²",
         "Begrenzing": "Geen draad (lidar)",
         "Helling": "45%",
-        "Geluid": "62 dB",
-        "App": "Ja, wifi en 4G"
+        "Geluid": "ca. 60 dB",
+        "App": "Ja, wifi"
       },
       "pros": [
-        "Lidar werkt zonder satellieten of antenne",
-        "Nauwkeurig onder bomen en tegen gevels",
-        "Groot bereik tot 2.000 m²",
-        "Maait in strakke banen"
+        "Geen draad en geen RTK-antenne nodig",
+        "Brengt de tuin zelf in kaart",
+        "Groot bereik voor de prijs",
+        "Maait in efficiënte U-vormige banen"
       ],
       "cons": [
-        "Rand blijft op circa 10 centimeter",
-        "Lidarkoepel gevoelig voor vuil"
+        "Randen blijven iets ruiger dan bij draadmaaiers",
+        "Jong merk in robotmaaiers"
       ],
-      "ideal": "Grotere tuinen met bomen en gebouwen waar RTK slecht werkt.",
-      "text": "Dreame bouwt robotstofzuigers met lidar en gebruikte die techniek voor de A1. Een draaiende laser op het dak meet de omgeving honderden keren per seconde, waardoor de maaier exact weet waar hij is. Hij heeft geen RTK-antenne nodig en verliest zijn positie dus niet onder bomen of tussen gebouwen, het zwakke punt van veel draadloze concurrenten.\n\nDe A1 kan tot 2.000 vierkante meter aan en maait in nette banen. Hij herkent obstakels met dezelfde lidar en neemt hellingen tot 45 procent. Gebruikers melden wel dat hij aan de randen zo'n tien centimeter laat staan, zodat je af en toe moet bijknippen. De lidarkoepel moet je schoon houden, anders neemt de precisie af. Voor een grote tuin met veel bomen is de A1 een van de interessantste draadloze maaiers van dit jaar.",
-      "ean": "2302242685013",
-      "bol_title": "SnelShoppen - Premium Robotmaaiers Tuning - Mesplaten voor 6x Bladen - Geschikt voor Dreame A1 & A2 - Fiberglass Versterkte Mesplaat - Ø 190 mm - Tuin",
-      "url": "https://www.bol.com/nl/nl/p/snelshoppen-premium-robotmaaiers-tuning-mesplaten-voor-6x-bladen-geschikt-voor-dreame-a1-a2-fiberglass-versterkte-mesplaat-o-190-mm-tuin/9300000338839444/",
-      "image": "https://media.s-bol.com/74z1pXpG4xDj/wVEM8LJ/550x489.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie een grote tuin heeft en geen gedoe met draad of antenne wil.",
+      "text": "De Dreame A1 Pro werkt met lidar, dezelfde lasertechniek die je kent van robotstofzuigers. Een draaiende sensor op het dak scant de omgeving en bouwt een driedimensionale kaart van je tuin. Je hoeft dus geen draad in te graven en ook geen RTK-antenne te plaatsen. Dat maakt de installatie heel eenvoudig.\n\nNa het scannen maait hij in U-vormige banen, zodat hij geen stukken overslaat en sneller klaar is. Obstakels ziet hij aankomen en hij rijdt er netjes omheen. Met een bereik tot 2.000 vierkante meter is hij geschikt voor flinke gazons. Lidar werkt ook goed onder bomen, waar satellietmaaiers het soms laten afweten. De randen van het gazon worden iets minder strak gemaaid dan bij modellen met draad. Een keer per paar weken bijknippen blijft nodig. Kopers op bol geven hem de volle vijf sterren. Voor rond de 720 euro krijg je veel techniek voor een groot gazon.",
+      "ean": "6977328063366",
+      "bol_title": "Dreame Roboticmower A1 Pro - Robotgrasmaaier - Draadloze grenzen - U-vormige route - Efficiënte en Nauwkeurige Mapping",
+      "url": "https://www.bol.com/nl/nl/p/dreame-roboticmower-a1-pro-robotgrasmaaier-draadloze-grenzen-u-vormige-route-efficiente-en-nauwkeurige-mapping/9300000225519126/",
+      "image": "https://media.s-bol.com/xAr1oorKV7Qn/1wvDMmo/550x348.jpg",
+      "synced": "2026-10-24"
     }
   ],
   "guide": [

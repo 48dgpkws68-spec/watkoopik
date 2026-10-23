@@ -16,7 +16,7 @@
   "updated": "2026-10-14",
   "reviews_total": "19.400",
   "intro": "Een laptop koop je voor jaren, dus de keuze is belangrijk. Wij vergeleken 48 laptops op processor, werkgeheugen, opslag, scherm, accuduur, gewicht en bouwkwaliteit. Daarnaast lazen we wat duizenden kopers na maanden gebruik melden. Het resultaat zijn tien laptops voor elk type gebruiker: een budgetmodel voor school en mail, allrounders voor thuis en werk, MacBooks voor wie in het Apple-systeem zit en gaminglaptops met een losse videokaart.",
-  "verdict": "De Apple MacBook Air 13 inch met M4-chip is de beste laptop van 2026: snel, stil zonder ventilator, licht en met een accu die een volle werkdag en meer meegaat. De ASUS Vivobook 16 is de beste prijs-kwaliteit voor wie Windows wil met een groot scherm. Zoek je de krachtigste laptop voor creatief werk, dan is de MacBook Pro 14 inch met M4 Pro de beste premium keuze.",
+  "verdict": "De Apple MacBook Air 13 inch met M4-chip is de beste laptop van 2026: snel, stil zonder ventilator, licht en met een accu die een volle werkdag en meer meegaat. De ASUS Vivobook 15 is de beste prijs-kwaliteit voor wie Windows wil met een groot scherm. Zoek je de krachtigste laptop voor creatief werk, dan is de MacBook Pro 14 inch met M4 Pro de beste premium keuze.",
   "products": [
     {
       "brand": "Apple",
@@ -50,41 +50,40 @@
       "bol_title": "Apple MacBook Air (2025) 13.6 inch - M4 - 16 GB - 256 GB - Middernacht",
       "url": "https://www.bol.com/nl/nl/p/apple-macbook-air-13-m4-16-gb-256-gb-middernacht/9300000226833879/",
       "image": "https://media.s-bol.com/7ZKEvVBmRLMQ/O7Rpl0g/550x334.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "ASUS",
-      "name": "Vivobook 16 X1605VA-MB",
-      "price": 749.0,
+      "name": "Vivobook 15 M1502YA Ryzen 7 16 GB 512 GB",
+      "price": 649.0,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.800+ reviews",
-      "oneliner": "Groot scherm en degelijke specs voor een vriendelijke prijs.",
+      "reviews": "100+ reviews",
+      "oneliner": "Snelle allround-laptop met Ryzen 7 voor een scherpe prijs.",
       "specs": {
-        "Processor": "Intel Core i5-13420H",
+        "Processor": "AMD Ryzen 7 7730U",
         "Geheugen": "16 GB",
         "Opslag": "512 GB SSD",
-        "Scherm": "16 inch, 1920 x 1200",
-        "Gewicht": "1,88 kg"
+        "Scherm": "15,6 inch, 1920 x 1080",
+        "Gewicht": "1,7 kg"
       },
       "pros": [
-        "Ruim 16-inchscherm met numeriek toetsenbord",
-        "16 GB werkgeheugen voor deze prijs",
-        "Veel poorten, ook HDMI en USB-A",
-        "Snelle SSD van 512 GB"
+        "Krachtige Ryzen 7 met 8 kernen",
+        "Ruim 16 GB werkgeheugen",
+        "Toetsenbordverlichting",
+        "Scherpe prijs voor deze specificaties"
       ],
       "cons": [
         "Scherm is niet erg helder",
-        "Accu haalt geen hele werkdag",
-        "Plastic behuizing"
+        "Behuizing van kunststof"
       ],
-      "ideal": "Thuisgebruikers en studenten die Windows en een groot scherm willen zonder veel uit te geven.",
-      "text": "De ASUS Vivobook 16 laat zien dat een goede Windows-laptop niet duur hoeft te zijn. De Intel Core i5-13420H met acht kernen draait Office, browsen met tientallen tabbladen en videobellen moeiteloos. Met 16 GB werkgeheugen en een SSD van 512 GB heb je genoeg ruimte voor jaren normaal gebruik. Het 16-inchscherm met 16:10-verhouding toont meer van je document dan een standaard breedbeeld.\n\nHet toetsenbord heeft een numeriek deel, handig voor Excel. Aan poorten geen gebrek: USB-C, twee keer USB-A, HDMI en een koptelefoonaansluiting. Kopers zijn positief over de snelheid voor de prijs. Kritiek gaat over de helderheid van het scherm, dat in de zon tekortschiet. De accu gaat zo'n zes uur mee. Voor gebruik aan tafel thuis is dit een slimme koop.",
-      "ean": "4711636108287",
-      "bol_title": "ASUS Vivobook 16 X1605VA-MB2274W - Laptop - 16 inch",
-      "url": "https://www.bol.com/nl/nl/p/asus-vivobook-16-x1605va-mb2274w-laptop-16-inch-core-i7-136720h-16gb-512gb/9300000230798495/",
-      "image": "https://media.s-bol.com/WJ9rYG5WjRZE/wjy0E5J/550x351.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Studenten en gezinnen die een snelle laptop willen voor weinig geld.",
+      "text": "De ASUS Vivobook 15 M1502YA is een laptop die veel snelheid biedt voor zijn prijs. De AMD Ryzen 7 7730U heeft acht kernen en rekent vlot door Office, browsen met veel tabbladen, videobellen en lichte fotobewerking. Met 16 GB werkgeheugen en een SSD van 512 GB start hij snel op en heb je genoeg ruimte voor documenten en foto's.\n\nHet 15,6-inch Full HD-scherm is prima voor dagelijks gebruik, al is het binnen niet het helderste paneel. In een zonnige ruimte merk je dat. Het toetsenbord heeft verlichting en een apart numeriek deel, handig voor wie veel met cijfers werkt. De behuizing is van kunststof en met 1,7 kg is hij goed mee te nemen naar school of kantoor. Kopers op bol geven hem gemiddeld 4,5 sterren. Wil je een snelle Windows-laptop zonder veel uit te geven, dan is dit een van de slimste keuzes.",
+      "ean": "4711387494424",
+      "bol_title": "ASUS VivoBook M1502YA - 15.6 inch FHD IPS - Ryzen 7 7730U - 16 GB Geheugen - 512 GB M.2 SSD - Toetsenbordverlichting - Windows 11 Pro",
+      "url": "https://www.bol.com/nl/nl/p/asus-vivobook-m1502ya-15-6-fhd-ips-ryzen-7-7730u-16gb-geheugen-512gb-m-2-ssd-toetsenbordverlichting-windows-11-pro/9300000194063708/",
+      "image": "https://media.s-bol.com/1yBAZLVjn7yP/O73Arlg/550x323.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "Apple",
@@ -118,40 +117,40 @@
       "bol_title": "Apple MacBook Pro 2024 16,2'' - M4 Pro, 14 Core CPU, 20 Core GPU, 24GB RAM, 512GB SSD, Qwerty, Space Zwart",
       "url": "https://www.bol.com/nl/nl/p/apple-macbook-pro-2024-16-2-m4-pro-14-core-cpu-20-core-gpu-24gb-ram-512gb-ssd-qwerty-space-zwart/9300000195338163/",
       "image": "https://media.s-bol.com/3qKoRmJjPjZp/W6vlQk4/550x335.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Microsoft",
-      "name": "Surface Laptop 7 13,8 inch Snapdragon X Plus 16 GB 512 GB",
-      "price": 1523.14,
+      "name": "Surface Laptop 8e editie 13,8 inch Snapdragon X2 Plus 16 GB 512 GB",
+      "price": 1699.0,
       "score": 8.8,
       "label": null,
-      "reviews": "700+ reviews",
-      "oneliner": "Elegante Windows-laptop met lange accuduur dankzij Snapdragon.",
+      "reviews": "nieuw model",
+      "oneliner": "Elegante Windows-laptop met de nieuwe Snapdragon X2 Plus.",
       "specs": {
-        "Processor": "Snapdragon X Plus",
+        "Processor": "Snapdragon X2 Plus",
         "Geheugen": "16 GB",
         "Opslag": "512 GB SSD",
-        "Scherm": "13,8 inch, 2304 x 1536 touch",
-        "Gewicht": "1,34 kg"
+        "Scherm": "13,8 inch touch",
+        "Gewicht": "Circa 1,3 kg"
       },
       "pros": [
-        "Uitstekende accuduur van een hele werkdag en meer",
-        "Scherp aanraakscherm van 120 Hz",
-        "Copilot+-functies van Windows",
-        "Fijn toetsenbord en trackpad"
+        "Zeer lange accuduur",
+        "Sneller dan de vorige generatie",
+        "Scherp aanraakscherm",
+        "Fijn toetsenbord en groot trackpad"
       ],
       "cons": [
-        "Sommige oudere programma's en games werken niet",
-        "Weinig poorten"
+        "Sommige oudere programma's werken niet",
+        "Hoge prijs"
       ],
       "ideal": "Zakelijke gebruikers die een stille Windows-laptop met lange accu zoeken.",
-      "text": "De Surface Laptop 7 draait op een Snapdragon X Plus-chip, een processor die zuiniger werkt dan klassieke Intel-chips. Het resultaat is een Windows-laptop met een accuduur die in reviews dicht bij de MacBook Air komt. Hij is snel voor Office, Teams en browsen en de ventilator blijft meestal stil. Copilot+-functies zoals Recall en livevertaling werken lokaal op de chip.\n\nHet 13,8-inch aanraakscherm is scherp en ververst met 120 hertz. Gebruikers prijzen het toetsenbord en het grote trackpad. Let wel op: omdat de chip een andere architectuur heeft, werken sommige oudere programma's, printerstuurprogramma's en games niet of trager. Voor kantoorwerk is dat zelden een probleem. Wie een stijlvolle Windows-laptop zoekt voor onderweg zit hier goed.",
-      "ean": "0196388278053",
-      "bol_title": "Microsoft Surface Laptop 7 - Copilot+ Laptop - 13,8 inch - Snapdragon X Plus - 16GB/512GB - Windows 11 Pro - Platina",
-      "url": "https://www.bol.com/nl/nl/p/microsoft-surface-laptop-7-qualcomm-snapdragon-35-cm-touchscreen-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-7-windows-11-pro-platina/9300000240632657/",
-      "image": "https://media.s-bol.com/RV715KxvoOQE/XDYW4XV/550x415.jpg",
-      "synced": "2026-10-23"
+      "text": "De Surface Laptop van de achtste generatie draait op de nieuwe Snapdragon X2 Plus-chip met tien kernen. Die processor werkt zuiniger dan klassieke Intel-chips en is merkbaar sneller dan de X Plus uit het vorige model. Het resultaat is een Windows-laptop die een hele werkdag en meer op één acculading meegaat. Hij blijft koel en de ventilator hoor je bij kantoorwerk vrijwel nooit.\n\nHet 13,8-inch aanraakscherm is scherp en helder. Het toetsenbord typt prettig en het grote trackpad werkt nauwkeurig. Copilot+-functies van Windows draaien lokaal op de chip, wat sneller en privacyvriendelijker is. Let wel op: omdat de chip een andere architectuur heeft, werken sommige oudere programma's, printerstuurprogramma's en games niet of trager. Voor Office, Teams en browsen is dat zelden een probleem. Wie een stijlvolle en stille Windows-laptop zoekt voor onderweg zit hier goed.",
+      "ean": "0196388733613",
+      "bol_title": "Microsoft Surface - Laptop 8e Editie - 13,8 Inch - X2 Plus - 16 GB RAM - 512 GB SSD - QWERTY - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/microsoft-surface-laptop-13-8-inch-snapdragon-x2-plus-16-gb-ram-512-gb-ssd-black-8e-editie-qwerty/9300000319805141/",
+      "image": "https://media.s-bol.com/P4N6KrJv3jPl/0VWk2nv/550x473.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "Dell",
@@ -185,7 +184,7 @@
       "bol_title": "DELL XPS 13 9350 - Zakelijke Copilot+ Laptop - Intel Core Ultra 7 - 13.4 inch - 16 GB/512 GB - Windows 11 Pro",
       "url": "https://www.bol.com/nl/nl/p/dell-xps-13-9350-intel-core-ultra-7-256v-laptop-34-cm-full-hd-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-7-windows-11-pro-platina/9300000220261295/",
       "image": "https://media.s-bol.com/BJ4NYYqM8Avk/MjQ89DB/550x352.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "ASUS",
@@ -219,41 +218,40 @@
       "bol_title": "ASUS Vivobook S14 OLED M3407KA-SFNADW - Copilot+ Laptop - 14 inch - Ryzen AI 5 - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/asus-vivobook-s14-oled-m3407ka-sfnadw-copilot-laptop-14-inch-ryzen-ai-5-16gb-512gb/9300000275890875/",
       "image": "https://media.s-bol.com/Jm7KoB4jEpXl/BL1QZRQ/550x385.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Lenovo",
-      "name": "LOQ Essential 15IRX11 RTX 5050",
-      "price": 1299.0,
+      "name": "LOQ 15AHP10 Ryzen 7 250 RTX 5050",
+      "price": 1549.0,
       "score": 8.5,
       "label": null,
-      "reviews": "Nieuw op bol",
-      "oneliner": "Betaalbare gaming-laptop met RTX 5050 en Intel Core i7.",
+      "reviews": "nog weinig reviews",
+      "oneliner": "Gaminglaptop met RTX 5050 en snel 144 Hz-scherm.",
       "specs": {
-        "Processor": "Intel Core i7",
+        "Processor": "AMD Ryzen 7 250",
         "Geheugen": "16 GB",
         "Opslag": "512 GB SSD",
-        "Scherm": "15,6 inch Full HD",
+        "Scherm": "15,6 inch, 144 Hz",
         "Gewicht": "Circa 2,4 kg"
       },
       "pros": [
         "RTX 5050 met DLSS 4 voor moderne games",
-        "Krachtige Core i7 voor ook streamen en bewerken",
-        "Degelijke koeling voor de prijsklasse",
-        "Geheugen later uit te breiden"
+        "Snel scherm van 144 Hz",
+        "Goede koeling voor deze klasse",
+        "Makkelijk uit te breiden"
       ],
       "cons": [
-        "Zwaar om dagelijks mee te nemen",
-        "Accuduur kort tijdens gamen",
-        "Full HD scherm is niet het felste"
+        "Zwaar om mee te nemen",
+        "Accuduur is kort tijdens gamen"
       ],
-      "ideal": "Gamers die in Full HD willen spelen zonder de prijs van een topmodel.",
-      "text": "De LOQ-serie is de betaalbare gaminglijn van Lenovo, een stap onder de bekende Legion-laptops. Deze Essential-versie combineert een Intel Core i7 met een NVIDIA GeForce RTX 5050. Die videokaart ondersteunt DLSS 4, waardoor recente games in Full HD soepel lopen als je de instellingen slim kiest. Met 16 GB werkgeheugen en 512 GB opslag start je goed, al loopt de SSD bij grote games snel vol.\n\nHet 15,6 inch scherm draait in Full HD en is vooral gericht op snelheid, niet op felle kleuren. Lenovo staat bekend om degelijke koeling in deze prijsklasse, dus hij houdt zijn prestaties langer vast dan veel concurrenten. Met zo'n 2,4 kilo en een flinke adapter is dit wel een laptop voor op het bureau. Tijdens gamen moet hij aan het stopcontact blijven. Voor wie een eerste serieuze gaming-laptop zoekt, is dit een verstandige instap.",
-      "ean": "0199273969418",
-      "bol_title": "Lenovo LOQ Essential 15IRX11 - Gaming Laptop - 15.6 inch - RTX 5050 - Core i7 - 16GB/512GB",
-      "url": "https://www.bol.com/nl/nl/p/lenovo-loq-essential-15irx11-gaming-laptop-15-6-inch-rtx-5050-core-i7-16gb-512gb/9300000249068817/",
-      "image": "https://media.s-bol.com/g0zJJWlJ749D/WnG9No4/550x457.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Gamers die moderne titels in Full HD willen spelen zonder topprijs.",
+      "text": "De Lenovo LOQ is de betaalbare gamingserie van Lenovo, onder de bekende Legion-lijn. Deze 15AHP10 combineert een AMD Ryzen 7 250 met een NVIDIA GeForce RTX 5050. Daarmee speel je populaire games als Fortnite, Call of Duty en EA FC soepel in Full HD. Dankzij DLSS 4 haal je in zwaardere games extra beelden per seconde zonder dat het beeld er slechter uitziet.\n\nHet 15,6-inch scherm ververst met 144 hertz, wat bewegingen in snelle games vloeiend maakt. Met 16 GB geheugen en een SSD van 512 GB heb je een goede basis, die je later zelf kunt uitbreiden. De koeling houdt de laptop stabiel onder belasting, al hoor je de ventilatoren tijdens het gamen. Met zo'n 2,4 kg is hij vooral bedoeld voor op het bureau. Wie een serieuze gaminglaptop zoekt zonder de prijs van een Legion of ROG te betalen, zit hier goed.",
+      "ean": "0199271275627",
+      "bol_title": "Lenovo LOQ 15AHP10 - Gaming Laptop - 15.6 inch - Ryzen 7 250 - RTX 5050 - 16 GB/512 GB - 144 Hz",
+      "url": "https://www.bol.com/nl/nl/p/lenovo-loq-15ahp10-amd-ryzen-7-250-laptop-39-6-cm-full-hd-16-gb-ddr5-sdram-512-gb-ssd-nvidia-geforce-rtx-5050-wi-fi-6-windows-11-home-engels-grijs/9300000231792217/",
+      "image": "https://media.s-bol.com/q4qv5BGYG2Lk/lOv6oG6/550x473.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "ASUS",
@@ -287,7 +285,7 @@
       "bol_title": "ASUS ROG Strix G16 G614PM-S5004W - Gaming Laptop - 16 inch - RTX 5060 - 240 Hz",
       "url": "https://www.bol.com/nl/nl/p/asus-rog-strix-g16-g614pm-s5004w-gaming-laptop-16-inch-240-hz/9300000225803901/",
       "image": "https://media.s-bol.com/oz6V9GEDVBWk/nrZQ82E/550x360.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "HP",
@@ -321,41 +319,40 @@
       "bol_title": "HP Victus Gaming Laptop 15.6 Full HD - AMD Ryzen 7 260 - NVIDIA GeForce RTX 5050 - 16 GB DDR5 - 1 TB SSD",
       "url": "https://www.bol.com/nl/nl/p/hp-victus-gaming-amd-ryzen-7-260-laptop-39-6-cm-full-hd-16-gb-ddr5-sdram-1-tb-ssd-nvidia-geforce-rtx-5050-wi-fi-6-windows-11-home-ai-pc-zwart/9300000241163418/",
       "image": "https://media.s-bol.com/pAnxMm2PPRGr/8qKpOkr/550x472.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
-      "brand": "Acer",
-      "name": "Aspire Go 15 AG15-71P-587Q",
-      "price": 599.0,
+      "brand": "Lenovo",
+      "name": "IdeaPad Slim 3 15AMN8 Ryzen 5 16 GB 512 GB",
+      "price": 679.0,
       "score": 7.9,
       "label": null,
-      "reviews": "bol-score 5 van 5",
-      "oneliner": "Betaalbare 15,6 inch laptop met 16 GB werkgeheugen voor thuis en school.",
+      "reviews": "100+ reviews",
+      "oneliner": "Dunne en zuinige laptop voor dagelijks gebruik.",
       "specs": {
-        "Processor": "Intel Core 5",
+        "Processor": "AMD Ryzen 5",
         "Geheugen": "16 GB",
         "Opslag": "512 GB SSD",
         "Scherm": "15,6 inch Full HD",
-        "Gewicht": "Circa 1,8 kg"
+        "Gewicht": "Circa 1,6 kg"
       },
       "pros": [
-        "Ruim 16 GB werkgeheugen in deze prijsklasse",
-        "Groot scherm voor werken met twee vensters",
-        "Snelle SSD",
-        "Numeriek toetsenblok"
+        "Dunne en lichte behuizing",
+        "16 GB geheugen voor soepel multitasken",
+        "Stil en zuinig",
+        "Goede beoordelingen van kopers"
       ],
       "cons": [
-        "Scherm is niet erg fel",
-        "Behuizing voelt eenvoudig",
-        "Geen geschikte keuze voor games"
+        "Scherm is niet erg helder",
+        "Niet geschikt voor games"
       ],
-      "ideal": "Gezinnen en scholieren die een degelijke laptop voor dagelijks werk zoeken.",
-      "text": "De Aspire Go 15 is de instaplijn van Acer en deze AG15-71P-variant valt op door de ruime uitrusting voor de prijs. Je krijgt een Intel Core 5 processor met 16 GB werkgeheugen, terwijl veel laptops rond dit bedrag nog met 8 GB komen. Dat merk je bij veel tabbladen tegelijk, videobellen en Office. De SSD van 512 GB start Windows snel op en biedt genoeg ruimte voor documenten en foto's.\n\nHet 15,6 inch Full HD-scherm is groot genoeg om twee vensters naast elkaar te zetten, al is het niet bijzonder fel. Het toetsenbord heeft een numeriek blok, handig voor wie veel met getallen werkt. De behuizing is eenvoudig en met ongeveer 1,8 kilo neem je hem prima mee. Voor games of zware videobewerking is hij niet gemaakt. Kopers op bol geven hem tot nu toe de hoogste score. Zoek je een degelijke laptop voor huiswerk en administratie, dan is dit een veilige keuze.",
-      "ean": "4711474830418",
-      "bol_title": "Acer Aspire Go 15 AG15-71P-587Q - Laptop - 15.6 inch - Core 5 - 16GB - 512 GB SSD - Zilver",
-      "url": "https://www.bol.com/nl/nl/p/acer-aspire-go-15-ag15-71p-587q-laptop-15-6-inch-core-5-16gb-512-gb-ssd-zilver/9300000246115564/",
-      "image": "https://media.s-bol.com/l1YZ0p0NwE3r/98vmBpZ/550x339.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie een betaalbare laptop zoekt voor school, mail en browsen.",
+      "text": "De Lenovo IdeaPad Slim 3 is een eenvoudige maar degelijke laptop voor dagelijks gebruik. In deze 15AMN8-uitvoering zit een zuinige AMD Ryzen 5-processor met 16 GB werkgeheugen en een SSD van 512 GB. Dat is ruim genoeg voor Office, videobellen, streamen en browsen met veel tabbladen open. Hij start snel op en blijft stil tijdens gewoon werk.\n\nDe behuizing is dun en met zo'n 1,6 kg neem je hem makkelijk mee in een rugzak. Het 15,6-inch Full HD-scherm is scherp genoeg voor documenten en films, al is de helderheid beperkt in een lichte ruimte. Voor games of zware videobewerking is deze laptop niet bedoeld. Kopers op bol geven hem gemiddeld 4,6 sterren en prijzen vooral de verhouding tussen prijs en snelheid. Zoek je een betrouwbare laptop voor school of thuis zonder veel extra's, dan is dit een veilige keuze.",
+      "ean": "0199275372988",
+      "bol_title": "Lenovo IdeaPad Slim 3 15AMN8 - Laptop - 15.6 inch - Ryzen 5 - 16GB/512GB",
+      "url": "https://www.bol.com/nl/nl/p/lenovo-ideapad-slim-3-15amn8-amd-ryzen-5-40-laptop-39-6-cm-full-hd-16-gb-lpddr5-sdram-512-gb-ssd-wi-fi-6-windows-11-home-engels-grijs/9300000263613346/",
+      "image": "https://media.s-bol.com/y3K2r6OAPM46/gL5Z2D3/550x427.jpg",
+      "synced": "2026-10-24"
     }
   ],
   "guide": [
@@ -387,11 +384,11 @@
   "faq": [
     {
       "q": "Wat is de beste laptop van 2026?",
-      "a": "Op basis van onze vergelijking is de Apple MacBook Air 13 inch met M4 de beste laptop van 2026. Hij combineert snelheid, een stil ontwerp en een zeer lange accuduur. Wil je Windows voor een lage prijs, kijk dan naar de ASUS Vivobook 16."
+      "a": "Op basis van onze vergelijking is de Apple MacBook Air 13 inch met M4 de beste laptop van 2026. Hij combineert snelheid, een stil ontwerp en een zeer lange accuduur. Wil je Windows voor een lage prijs, kijk dan naar de ASUS Vivobook 15."
     },
     {
       "q": "Wat is een goede laptop voor studenten?",
-      "a": "Een lichte laptop met minimaal 16 GB werkgeheugen en een lange accuduur. De MacBook Air M4, Surface Laptop 7 en ASUS Vivobook S14 OLED zijn populaire keuzes. Check ook welke software je opleiding vraagt."
+      "a": "Een lichte laptop met minimaal 16 GB werkgeheugen en een lange accuduur. De MacBook Air M4, Surface Laptop 8e editie en ASUS Vivobook S14 OLED zijn populaire keuzes. Check ook welke software je opleiding vraagt."
     },
     {
       "q": "Hoeveel moet je uitgeven aan een laptop?",
@@ -407,7 +404,7 @@
     },
     {
       "q": "Wat is een Copilot+-pc?",
-      "a": "Dat is een Windows-laptop met een krachtige NPU voor AI-functies die lokaal draaien, zoals livevertaling en slim zoeken. De Surface Laptop 7 en laptops met Intel Lunar Lake of AMD Ryzen AI-chips vallen hieronder."
+      "a": "Dat is een Windows-laptop met een krachtige NPU voor AI-functies die lokaal draaien, zoals livevertaling en slim zoeken. De Surface Laptop 8e editie en laptops met Intel Lunar Lake of AMD Ryzen AI-chips vallen hieronder."
     }
   ]
 }

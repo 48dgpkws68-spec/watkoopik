@@ -15,6 +15,8 @@ STAP 2. Verzamel signalen (Chrome: laad de tools via ToolSearch en roep select_b
 
 STAP 2b. Vaste checks elke avond: python3 tools/check_links.py 10 (alle bol-links met code 1549706 en werkende doorverwijzing) en tel producten zonder foto (veld image ontbreekt). Zijn er producten zonder foto, draai python3 tools/bol_candidates.py <slugs> en los er minstens 10 op volgens FOTO_FIX.md (juiste EAN zoeken of vervangen door een bol-model), daarna python3 tools/bol_sync.py.
 
+STAP 2c. Leverbaarheid (sinds 24 okt 2026): draai python3 tools/check_stock.py. Elk product met "geen aanbieding" of "product weg" is een kapotte koopknop en gaat vóór alle andere verbeteringen: eerst een leverbare variant van hetzelfde model zoeken (python3 tools/bol_search.py), anders vervangen volgens FOTO_FIX.md stap 2c, met voorrang voor producten op plek 1 tot 3. Daarna python3 tools/bol_sync.py.
+
 STAP 3. Kies 1 tot 3 verbeteringen met de grootste verwachte impact en voer ze volledig door. Voorbeelden van wat mag:
  - Gidsen verbeteren waar vertoningen zijn maar weinig kliks: betere titel/meta description, duidelijkere winnaarsblokken, extra FAQ op zoekvragen uit Search Console.
  - Nieuwe subgidsen toevoegen aan BACKLOG.md bovenaan ("beste X voor Y", "onder € Z") op basis van echte zoekvragen.

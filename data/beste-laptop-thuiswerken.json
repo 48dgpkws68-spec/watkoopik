@@ -50,7 +50,7 @@
       "bol_title": "Apple MacBook Air (2025) 13.6 inch - M4 - 16 GB - 256 GB - Middernacht",
       "url": "https://www.bol.com/nl/nl/p/apple-macbook-air-13-m4-16-gb-256-gb-middernacht/9300000226833879/",
       "image": "https://media.s-bol.com/7ZKEvVBmRLMQ/O7Rpl0g/550x334.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Lenovo",
@@ -83,7 +83,7 @@
       "bol_title": "Lenovo ThinkPad E14 Gen 7 (Intel) - Zakelijke Laptop - 14 inch - Core Ultra 5 - 16GB/512GB - Windows 11 Pro",
       "url": "https://www.bol.com/nl/nl/p/lenovo-thinkpad-e14-gen-7-zakelijke-laptop-14-inch-core-ultra-5-16gb-512gb-windows-11-pro/9300000259641193/",
       "image": "https://media.s-bol.com/YG5EkE4OyKMK/Q0O34x9/550x385.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Lenovo",
@@ -116,40 +116,41 @@
       "bol_title": "Lenovo ThinkBook 14 G8 IAL Intel Core Ultra 5 225U Laptop 35,6 cm (14\") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Engels Grijs",
       "url": "https://www.bol.com/nl/nl/p/lenovo-thinkbook-14-g8-ial-intel-core-ultra-5-225u-laptop-35-6-cm-wuxga-16-gb-ddr5-sdram-512-gb-ssd-wi-fi-6e-engels-grijs/9300000259069845/",
       "image": "https://media.s-bol.com/Dg1kgZ5vVNxA/pgMjMRQ/550x394.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Microsoft",
-      "name": "Surface Laptop 7 13,8 inch Snapdragon X Plus 16 GB 512 GB",
-      "price": 1523.14,
+      "name": "Surface Laptop 7 13,8 inch Core Ultra 5 236V 16 GB 256 GB",
+      "price": 1643.22,
       "score": 8.9,
       "label": null,
-      "reviews": "400+ reviews",
-      "oneliner": "Lange accuduur en een helder aanraakscherm met 120 Hz.",
+      "reviews": "nog weinig reviews op bol",
+      "oneliner": "Premium 13,8 inch laptop met touchscreen en een zuinige Intel-chip.",
       "specs": {
-        "Processor": "Snapdragon X Plus",
-        "Scherm": "13,8 inch, 2304 x 1536 touch",
-        "Webcam": "Full HD Studio-camera",
-        "Accuduur": "tot 20 uur",
+        "Processor": "Intel Core Ultra 5 236V",
+        "Scherm": "13,8 inch touchscreen, 2304x1536",
+        "Webcam": "Full HD met Windows Studio-effecten",
+        "Accuduur": "tot ca. 20 uur",
         "Gewicht": "1,34 kg"
       },
       "pros": [
-        "Accu houdt het meer dan een werkdag vol",
-        "Helder aanraakscherm met 3:2-verhouding",
-        "Camera met automatische belichting en achtergrondvervaging",
-        "Stil, de ventilator draait zelden hoorbaar"
+        "Scherp touchscreen in 3:2-verhouding, fijn voor documenten",
+        "Zuinige Lunar Lake-processor met NPU",
+        "Uitstekend toetsenbord en groot touchpad",
+        "Stevige aluminium behuizing"
       ],
       "cons": [
-        "Geen HDMI-poort",
-        "Sommige oudere zakelijke software draait niet op Arm"
+        "Prijzig voor de opslag van 256 GB",
+        "Weinig aansluitingen",
+        "Nog weinig reviews op bol"
       ],
-      "ideal": "Thuiswerkers in een Microsoft 365-omgeving die een stille Windows-laptop met lange accuduur willen.",
-      "text": "De Surface Laptop 7 is Microsofts eigen antwoord op de MacBook Air en een sterke Windows-keuze om thuis te werken. Dankzij de zuinige Snapdragon X Plus haal je makkelijk een volle werkdag en vaak meer. De ventilator blijft bij Office en videobellen meestal stil. Het 13,8 inch scherm heeft een 3:2-verhouding, waardoor je meer van een document ziet dan op een breedbeeldscherm.\n\nDe Full HD-camera gebruikt Windows Studio Effects voor achtergrondvervaging, oogcontact en automatische belichting. Dat werkt zonder dat je processor zwaar belast wordt. Je hebt twee USB-C-poorten met USB4 en een USB-A-poort, maar geen HDMI. Voor een monitor gebruik je dus een USB-C-kabel of een dock. Let op: de Snapdragon-chip gebruikt Arm. Office, Teams en de meeste apps werken prima, maar vraag bij specifieke bedrijfssoftware even na of die ondersteund wordt. Het toetsenbord wordt in reviews als fijn en stil omschreven.",
-      "ean": "0196388278053",
-      "bol_title": "Microsoft Surface Laptop 7 - Copilot+ Laptop - 13,8 inch - Snapdragon X Plus - 16GB/512GB - Windows 11 Pro - Platina",
-      "url": "https://www.bol.com/nl/nl/p/microsoft-surface-laptop-7-qualcomm-snapdragon-35-cm-touchscreen-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-7-windows-11-pro-platina/9300000240632657/",
-      "image": "https://media.s-bol.com/RV715KxvoOQE/XDYW4XV/550x415.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie een stijlvolle en lichte Windows-laptop wil met een topscherm voor lange werkdagen.",
+      "text": "De Surface Laptop 7 met Intel Core Ultra 5 236V is de Intel-versie van de Copilot+ laptop van Microsoft. De Lunar Lake-chip is gemaakt voor zuinigheid, waardoor je een hele werkdag haalt zonder lader. Een ingebouwde NPU versnelt AI-functies zoals achtergrondvervaging en automatische framing in Teams. Omdat het een Intel-processor is, draaien alle Windows-programma's zonder omweg.\n\nHet scherm van 13,8 inch heeft een 3:2-verhouding, zodat je meer regels van een document of spreadsheet ziet dan op een breedbeeldscherm. Het is een touchscreen met scherpe resolutie. Het toetsenbord typt prettig en het touchpad is groot. De Full HD-webcam laat je er in videogesprekken goed uitzien. Minpunten zijn de opslag van 256 GB en het beperkte aantal poorten. Wie een premium laptop zoekt die licht en stil is, krijgt hier veel kwaliteit.",
+      "ean": "0196388464180",
+      "bol_title": "Microsoft Surface Laptop 7 Copilot+ PC Intel Core Ultra 5 236V 35 cm (13.8\") Touchscreen 16 GB LPDDR5x-SDRAM 256 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Zwart",
+      "url": "https://www.bol.com/nl/nl/p/microsoft-surface-laptop-7-intel-core-ultra-5-236v-35-cm-touchscreen-16-gb-lpddr5x-sdram-256-gb-ssd-wi-fi-7-windows-11-pro-zwart/9300000224609804/",
+      "image": "https://media.s-bol.com/6OyOmxyl41ml/WPj6Xjx/550x378.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "Lenovo",
@@ -182,45 +183,46 @@
       "bol_title": "Lenovo ThinkPad T14 Gen 6 (Intel) Copilot+ PC Intel Core Ultra 5 226V Laptop 35,6 cm (14\") WUXGA 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Zwart Engels",
       "url": "https://www.bol.com/nl/nl/p/lenovo-thinkpad-t14-gen-6-copilot-pc-intel-core-ultra-5-226v-laptop-35-6-cm-wuxga-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-7-windows-11-pro-engels-zwart/9300000251805813/",
       "image": "https://media.s-bol.com/Mr3r2rPkX9wA/oQ2pjM3/550x451.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "HP",
-      "name": "OmniBook 7 AI 14-fr0753nd Core Ultra 7 255U OLED",
-      "price": 1049.0,
+      "name": "OmniBook 7 AI 14-fr0970nd Core Ultra 7 255U 16 GB 1 TB",
+      "price": 1174.0,
       "score": 8.6,
       "label": null,
-      "reviews": "100+ reviews",
-      "oneliner": "Helder OLED-scherm en een scherpe camera voor ruim 1.000 euro.",
+      "reviews": "nog weinig reviews op bol",
+      "oneliner": "Krachtige 14 inch werklaptop met 2K-scherm en een ruime 1 TB SSD.",
       "specs": {
         "Processor": "Intel Core Ultra 7 255U",
-        "Scherm": "14 inch OLED",
+        "Scherm": "14 inch 2K, 16:10",
         "Webcam": "5 MP met IR",
-        "Accuduur": "ca. 12 uur",
-        "Gewicht": "ca. 1,4 kg"
+        "Accuduur": "tot ca. 14 uur",
+        "Gewicht": "1,4 kg"
       },
       "pros": [
-        "Mooi OLED-scherm met diep zwart",
-        "Scherpe 5 MP-camera met gezichtsherkenning",
-        "Snelle Core Ultra 7 voor zware spreadsheets",
-        "Degelijke metalen behuizing"
+        "Snelle Core Ultra 7-processor voor zwaar multitasken",
+        "Ruime SSD van 1 TB",
+        "Scherp 2K-scherm in 16:10",
+        "5 MP-webcam met gezichtsherkenning"
       ],
       "cons": [
-        "OLED kost iets meer accu",
-        "Weinig ervaringen op bol"
+        "Geen OLED-scherm",
+        "Accuduur lager dan bij ARM-laptops",
+        "Nog weinig reviews op bol"
       ],
-      "ideal": "Thuiswerkers die naast werk ook series kijken en een mooi scherm met een goede camera willen.",
-      "text": "De HP OmniBook 7 AI 14 combineert een OLED-scherm met een scherpe camera, twee dingen die je bij thuiswerken elke dag gebruikt. Het OLED-scherm geeft diep zwart en heldere kleuren, wat prettig is voor presentaties en na werktijd voor een serie. Lange teksten lezen gaat rustig dankzij het hoge contrast. De 5 megapixel-camera levert een duidelijk scherper beeld dan de gangbare Full HD-camera's.\n\nDe Core Ultra 7 255U heeft genoeg kracht voor zware Excel-bestanden en veel tabbladen tegelijk. HP levert er AI-functies bij voor ruisonderdrukking in calls, zodat een blaffende hond of stofzuigende buurman minder doorkomt. Met USB-C, USB-A en HDMI sluit je een monitor direct aan. Een OLED-scherm vraagt iets meer stroom, maar bij normaal gebruik houd je het een werkdag vol. Het aantal reviews op bol is nog beperkt, al zijn de eerste kopers tevreden over scherm en bouwkwaliteit.",
-      "ean": "0199251732898",
-      "bol_title": "HP OmniBook 7 AI 14-fr0753nd - Laptop - Intel® Core™ Ultra 7 Processor 255U - 16GB/512GB - OLED - 14 inch",
-      "url": "https://www.bol.com/nl/nl/p/hp-omnibook-7-ai-14-fr0753nd-laptop-14-inch/9300000230842678/",
-      "image": "https://media.s-bol.com/74Z0OKoG5nzB/k80n05J/550x409.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Thuiswerkers die veel programma's tegelijk open hebben en veel opslag nodig hebben.",
+      "text": "De HP OmniBook 7 AI 14-fr0970nd is een 14 inch laptop voor wie thuis veel en zwaar werkt. De Intel Core Ultra 7 255U heeft genoeg kracht om een browser met tientallen tabbladen, Teams en Excel tegelijk te draaien. Met 16 GB werkgeheugen en een SSD van 1 TB heb je ruim plek voor bestanden, foto's en projecten zonder meteen naar de cloud te hoeven.\n\nHet 2K-scherm in 16:10 is scherp en biedt meer hoogte dan een gewoon breedbeeldscherm. Het is geen OLED, maar voor kantoorwerk is het helder genoeg. De webcam van 5 megapixel met IR-sensor geeft een scherp beeld in videogesprekken en laat je inloggen met je gezicht. De accu haalt een werkdag bij normaal gebruik. Op bol staan nog weinig reviews. Wie een krachtige Windows-laptop met veel opslag zoekt, krijgt hier veel voor zijn geld.",
+      "ean": "0199251299469",
+      "bol_title": "HP OmniBook 7 AI 14-fr0970nd Intel Core Ultra 7 255U Laptop 35,6 cm (14\") 2K 16 GB LPDDR5-SDRAM 1 TB SSD Wi-Fi 6E (802.11ax) Windows 11 Home AI PC Zilver QWERTY",
+      "url": "https://www.bol.com/nl/nl/p/hp-omnibook-7-ai-14-fr0970nd-intel-core-ultra-7-255u-laptop-35-6-cm-2k-16-gb-lpddr5-sdram-1-tb-ssd-wi-fi-6e-windows-11-home-ai-pc-zilver/9300000229258995/",
+      "image": "https://media.s-bol.com/NAopx2lLGW8D/KOYLvGY/550x465.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "ASUS",
       "name": "Zenbook A14 UX3407QA-QD479W Snapdragon X 16 GB 512 GB",
-      "price": 1125.01,
+      "price": 1131.0,
       "score": 8.6,
       "label": null,
       "reviews": "200+ reviews",
@@ -248,7 +250,7 @@
       "bol_title": "ASUS Zenbook A14 UX3407QA-QD479W - Copilot+ Laptop - 14 inch - Snapdragon X - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/asus-zenbook-a14-ux3407qa-qd479w-copilot-laptop-14-inch-snapdragon-x-16gb-512gb/9300000275890881/",
       "image": "https://media.s-bol.com/p0XojJN821WX/mQ7Gmyp/550x346.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "HP",
@@ -281,40 +283,41 @@
       "bol_title": "HP ProBook 4 G1i 16 AI - Zakelijke Laptop - 16 inch - Core Ultra 5 - 16GB/512GB - Windows 11 Pro",
       "url": "https://www.bol.com/nl/nl/p/hp-probook-4-g1i-ai-pc-wolf-pro-security-edition-intel-core-ultra-5-225u-laptop-40-6-cm-wuxga-16-gb-ddr5-sdram-512-gb-ssd-wi-fi-6e-windows-11-pro-zilver/9300000230842645/",
       "image": "https://media.s-bol.com/YPNZqXpBLqJ2/DR0voyB/550x456.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Lenovo",
-      "name": "IdeaPad Slim 5 16IMH10 Core Ultra 5 16 GB 512 GB",
-      "price": 849.0,
+      "name": "IdeaPad Slim 5 16AKP10 Ryzen AI 5 330 16 GB 512 GB",
+      "price": 949.0,
       "score": 8.3,
       "label": null,
-      "reviews": "300+ reviews",
-      "oneliner": "Betaalbare 16 inch laptop voor thuiswerken en gezinsgebruik.",
+      "reviews": "5/5 op bol",
+      "oneliner": "Ruime 16 inch laptop met moderne AMD-chip voor een nette prijs.",
       "specs": {
-        "Processor": "Intel Core Ultra 5",
-        "Scherm": "16 inch, 1920 x 1200",
+        "Processor": "AMD Ryzen AI 5 330",
+        "Scherm": "16 inch WUXGA, 16:10",
         "Webcam": "Full HD met privacyschuif",
-        "Accuduur": "ca. 10 uur",
-        "Gewicht": "ca. 1,8 kg"
+        "Accuduur": "tot ca. 12 uur",
+        "Gewicht": "1,8 kg"
       },
       "pros": [
-        "Groot scherm voor een scherpe prijs",
-        "Full HD-webcam met privacyschuif",
-        "HDMI en USB-A voor een monitor en muis",
-        "Goede reviews op bol"
+        "Groot 16 inch-scherm, fijn voor twee vensters naast elkaar",
+        "Moderne Ryzen AI-processor met NPU",
+        "Toetsenbord met numeriek blok",
+        "Webcam met privacyschuif"
       ],
       "cons": [
-        "Geen Windows 11 Pro",
-        "Behuizing deels van kunststof"
+        "Zwaarder dan een 14 inch laptop",
+        "Scherm is geen OLED",
+        "Opslag van 512 GB kan krap worden"
       ],
-      "ideal": "Wie thuiswerkt op een gedeelde laptop die ook voor het gezin wordt gebruikt.",
-      "text": "De Lenovo IdeaPad Slim 5 16 is een consumentenlaptop die prima geschikt is voor thuiswerken, zeker als je hem ook privé gebruikt. Je krijgt een groot 16 inch scherm met 16:10-verhouding, een Core Ultra 5-processor en 16 GB werkgeheugen voor ruim onder de 900 euro. Daarmee draai je Teams, Office en tientallen tabbladen zonder haperingen. Kopers op bol geven hem gemiddeld 4,5 sterren.\n\nDe Full HD-webcam is een duidelijke stap boven de 720p-camera's van goedkopere laptops en heeft een privacyschuif. Via HDMI en USB-C sluit je een monitor aan en de USB-A-poorten zijn handig voor een muis of headset. Het toetsenbord heeft een numeriek blok. Je krijgt wel Windows 11 Home, dus check of je werkgever Pro vereist. De behuizing voelt minder stevig dan bij een ThinkPad, maar voor de prijs is dit een flinke laptop die ook 's avonds dienst doet.",
-      "ean": "0199275407079",
-      "bol_title": "Lenovo IdeaPad Slim 5 16IMH10 - Laptop - 16 inch - Core Ultra 5 - 16GB/512GB",
-      "url": "https://www.bol.com/nl/nl/p/lenovo-ideapad-slim-5-16imh10-laptop-16-inch-core-ultra-5-16gb-512gb/9300000263613490/",
-      "image": "https://media.s-bol.com/j3p3rKykDGYY/2vkz24M/550x462.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie op één plek thuiswerkt en een groot scherm wil zonder losse monitor.",
+      "text": "De Lenovo IdeaPad Slim 5 16AKP10 is een 16 inch laptop voor wie veel ruimte op het scherm wil. Het WUXGA-scherm in 16:10 laat je makkelijk twee vensters naast elkaar gebruiken, bijvoorbeeld je mail en een document. De AMD Ryzen AI 5 330 is een moderne processor met NPU, snel genoeg voor kantoorwerk, videobellen en lichte fotobewerking.\n\nHet toetsenbord heeft een numeriek blok, handig als je veel met cijfers werkt. De Full HD-webcam heeft een privacyschuif, zodat je zeker weet dat niemand meekijkt. Met 16 GB werkgeheugen en 512 GB opslag zit je voor de meeste thuiswerkers goed. Op bol krijgt hij een 5 van de 5, al zijn er nog niet veel reviews. Met 1,8 kg is hij minder handig om mee te nemen. Wie vooral thuis werkt en een groot scherm wil, maakt hier een slimme keuze.",
+      "ean": "0199275385353",
+      "bol_title": "Lenovo IdeaPad Slim 5 16AKP10 - Laptop - 16 inch WUXGA - AMD Ryzen AI 5 330 - 16GB/512GB",
+      "url": "https://www.bol.com/nl/nl/p/lenovo-ideapad-slim-5-16akp10-laptop-16-inch-wuxga-amd-ryzen-ai-5-330-16gb-512gb/9300000263613481/",
+      "image": "https://media.s-bol.com/Ow3wxz4NW79L/Q0WZvZG/550x462.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "Lenovo",
@@ -347,7 +350,7 @@
       "bol_title": "Lenovo Yoga Slim 7 14ILL10 - Creator Laptop - 14 inch - Copilot+ - Core Ultra 7 - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/lenovo-yoga-slim-7-14ill10-copilot-pc-intel-core-ultra-7-256v-laptop-35-6-cm-wuxga-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-7-windows-11-home-engels-grijs/9300000273842434/",
       "image": "https://media.s-bol.com/oqV2J332WgnY/4RL7M7k/550x357.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     }
   ],
   "guide": [

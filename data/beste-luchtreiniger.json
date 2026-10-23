@@ -17,7 +17,7 @@
   "updated": "2026-10-13",
   "reviews_total": "22.700",
   "intro": "Binnenlucht is vaak vuiler dan buitenlucht: fijnstof van verkeer, pollen, huisstofmijt, kookdampen en huisdierenhaar hopen zich op in een goed geïsoleerd huis. Een luchtreiniger met HEPA-filter haalt die deeltjes eruit en voor mensen met hooikoorts of astma maakt dat een merkbaar verschil. Wij vergeleken 31 luchtreinigers op reinigingscapaciteit, geluidsniveau, filterkosten, slimme functies en wat duizenden gebruikers na maanden gebruik melden. Van een compact apparaat voor de slaapkamer tot een model voor een grote woonkamer.",
-  "verdict": "De Philips PureProtect 3200 is de beste luchtreiniger voor de meeste woonkamers: hoge reinigingscapaciteit, een nauwkeurige sensor, stil in de nachtstand en een app die laat zien wat hij doet. Voor een slaapkamer of een klein budget is de Levoit Core 300S de beste prijs-kwaliteit, met een filter dat weinig kost. Wie een grote ruimte heeft en ook formaldehyde wil afbreken, krijgt dat bij de Dyson Purifier Big+Quiet Formaldehyde, tegen een flinke meerprijs.",
+  "verdict": "De Philips PureProtect 3200 is de beste luchtreiniger voor de meeste woonkamers: hoge reinigingscapaciteit, een nauwkeurige sensor, stil in de nachtstand en een app die laat zien wat hij doet. Voor een slaapkamer of een klein budget is de Levoit Core 300S de beste prijs-kwaliteit, met een filter dat weinig kost. Wie de lucht ook wil bevochtigen, krijgt dat bij de Dyson Purifier Humidify+Cool PH2, tegen een flinke meerprijs.",
   "products": [
     {
       "brand": "Philips",
@@ -51,7 +51,7 @@
       "bol_title": "Philips PureProtect 3200-serie Slimme Luchtreiniger AC3221/13",
       "url": "https://www.bol.com/nl/nl/p/air/9300000186181886/",
       "image": "https://media.s-bol.com/wB3OrNJ7mN5R/KZjoQNJ/543x840.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Levoit",
@@ -84,76 +84,74 @@
       "ean": "0810043373814",
       "url": "https://www.bol.com/nl/nl/p/levoit-core-300s-luchtreiniger/9300000074133165/",
       "image": "https://media.s-bol.com/Rrl6YnDZ9NG0/zGM2kO/550x655.jpg",
-      "synced": "2026-10-23",
+      "synced": "2026-10-24",
       "bol_title": "Levoit Core 300S - Slimme Luchtreiniger"
     },
     {
       "brand": "Dyson",
-      "name": "Purifier Big+Quiet Formaldehyde BP04",
-      "price": 799.0,
+      "name": "Purifier Humidify+Cool PH2 De-NOx",
+      "price": 749.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "bol-score 5 van 5",
-      "oneliner": "Stille luchtreiniger van Dyson voor grote ruimtes, met formaldehydesensor.",
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Luchtreiniger, luchtbevochtiger en ventilator in één premium toestel.",
       "specs": {
-        "CADR": "Hoog, voor grote ruimtes",
-        "Ruimte": "Tot circa 100 m2",
-        "Filter": "HEPA H13 + koolfilter",
-        "Geluid min": "Circa 23 dB",
+        "CADR": "Gemiddeld, voor woonkamers",
+        "Ruimte": "Tot circa 80 m2",
+        "Filter": "HEPA H13 + koolfilter (De-NOx)",
+        "Geluid min": "Circa 25 dB",
         "App": "Ja, MyDyson"
       },
       "pros": [
-        "Blaast schone lucht tot ver in de kamer",
-        "Detecteert en breekt formaldehyde af",
-        "Zeer stil voor zijn vermogen",
-        "Opvallend ontwerp"
+        "Reinigt, bevochtigt en koelt in één apparaat",
+        "Koolfilter vangt ook stikstofdioxide",
+        "Sensoren tonen de luchtkwaliteit live",
+        "UV-C houdt het water hygiënisch"
       ],
       "cons": [
-        "Erg duur",
-        "Groot apparaat",
-        "Filters zijn prijzig"
+        "Hoge aanschafprijs",
+        "Waterreservoir moet je regelmatig vullen"
       ],
-      "ideal": "Wie een grote open ruimte heeft en het beste van Dyson wil zonder ventilatorfunctie nodig te hebben.",
-      "text": "De Big+Quiet is de grootste luchtreiniger van Dyson. Waar de bekende Dyson-torens ook als ventilator dienen, is deze BP04 volledig gericht op luchtzuivering in grote ruimtes zoals een open woonkeuken of kantoor. Het apparaat blaast de schone lucht met een gerichte stroom tot ver in de kamer, zodat ook de andere kant van de ruimte meeprofiteert.\n\nHet filter combineert HEPA H13 met actieve kool. Een speciale katalytische laag breekt formaldehyde af, een gas dat vrijkomt uit nieuwe meubels en verf. Sensoren meten fijnstof, gassen en formaldehyde en tonen de waardes op het display en in de MyDyson app. Ondanks het vermogen is het apparaat stil, wat de naam verklaart. De prijs is hoog en ook vervangfilters zijn duur. Kopers op bol geven hem de volle 5 sterren. Wil je het meest geavanceerde apparaat voor een grote ruimte, dan is dit de premium keuze.",
-      "ean": "5025155069004",
-      "bol_title": "Dyson Purifier Big+Quiet Formaldehyde BP04 - Luchtreiniger - Ventilator - Stil en Krachtig - Voor Grote Ruimtes",
-      "url": "https://www.bol.com/nl/nl/p/dyson-purifier-big-quiet-formaldehyde-bp04-luchtreiniger-ventilator-stil-en-krachtig-voor-grote-ruimtes/9300000239109419/",
-      "image": "https://media.s-bol.com/4ZLAgWN6nxjV/xG9wRYz/397x840.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie in een droog of vervuild huis lucht wil reinigen en bevochtigen met één apparaat.",
+      "text": "De Dyson Purifier Humidify+Cool PH2 De-NOx combineert drie functies. Hij filtert de lucht met een HEPA H13-filter dat fijnstof, pollen en huisstof afvangt. Daarnaast bevochtigt hij de lucht, wat in de winter met de verwarming aan prettig is voor je huid en luchtwegen. In de zomer gebruik je hem als ventilator. Het speciale koolfilter is gericht op stikstofdioxide, een gas dat vooral langs drukke wegen voorkomt.\n\nIngebouwde sensoren meten continu fijnstof, gassen en luchtvochtigheid en laten de resultaten zien op het display en in de MyDyson-app. In de automatische stand past hij zelf de snelheid aan. Het water in het reservoir wordt met UV-C-licht behandeld om bacteriegroei te beperken. De prijs is fors en het reservoir moet je bijvullen. Kopers waarderen vooral het gemak van één toestel in plaats van drie. Dat maakt hem de premium keuze in deze lijst.",
+      "ean": "5025155100875",
+      "bol_title": "Dyson Purifier Humidify+Cool PH2 De-NOx - Luchtreiniger - Ventilator - HEPA filter - Wit/Goud",
+      "url": "https://www.bol.com/nl/nl/p/dyson-purifier-humidify-cool-de-nox-ph05-luchtreiniger-hepa-filter-wit-goud/9300000226721806/",
+      "image": "https://media.s-bol.com/mo4vMW8NvJ19/oQBoArk/550x819.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "Blueair",
-      "name": "Joy S",
-      "price": 179.99,
+      "name": "Blue Signature",
+      "price": 229.99,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 5 van 5",
-      "oneliner": "Compacte en stille Zweedse luchtreiniger met HEPASilent-techniek.",
+      "reviews": "Nieuw op bol",
+      "oneliner": "Stijlvolle luchtreiniger die als bijzettafel kan dienen.",
       "specs": {
-        "CADR": "Circa 120 m3/u",
-        "Ruimte": "Tot 17 m2",
-        "Filter": "HEPASilent",
+        "CADR": "Gemiddeld",
+        "Ruimte": "Tot circa 45 m2",
+        "Filter": "HEPASilent deeltjes + koolfilter",
         "Geluid min": "Circa 18 dB",
-        "App": "Nee"
+        "App": "Ja, Blueair app"
       },
       "pros": [
-        "Zeer stil dankzij HEPASilent",
-        "Klein en strak ontwerp",
-        "Eenvoudige bediening met één knop",
-        "Lage energiekosten"
+        "Fluisterstil op de laagste stand",
+        "Design dat als meubelstuk past",
+        "HEPASilent-filtering vangt fijne deeltjes",
+        "Te bedienen via de app"
       ],
       "cons": [
-        "Alleen geschikt voor kleine kamers",
-        "Geen app of luchtkwaliteitssensor",
-        "Filter specifiek voor dit model"
+        "Nog weinig beoordelingen op bol",
+        "Filters kosten extra per jaar"
       ],
-      "ideal": "Wie een stille luchtreiniger zoekt voor de slaapkamer of een studeerkamer.",
-      "text": "Blueair is een Zweeds merk dat bekendstaat om stille luchtreinigers. De Joy S is een compact model voor kamers tot ongeveer 17 vierkante meter, zoals een slaapkamer of werkkamer. Het merk gebruikt zijn eigen HEPASilent-techniek, die deeltjes eerst elektrisch oplaadt zodat het filter ze makkelijker vangt. Daardoor kan de ventilator langzamer draaien en blijft het apparaat stil.\n\nDe bediening is eenvoudig: één knop voor de snelheid en een lampje dat aangeeft wanneer het filter vervangen moet worden. Een app of luchtkwaliteitssensor ontbreekt, wat sommige kopers missen. Het ontwerp is strak en klein genoeg om op een nachtkastje of bureau te zetten. Voor een woonkamer is hij te klein. Kopers op bol geven hem tot nu toe de volle 5 sterren. Wil je in de slaapkamer schone lucht zonder geluid, dan is de Joy S een prettige keuze.",
-      "ean": "0689122012018",
-      "bol_title": "Blueair Joy S - Luchtreiniger - 17m2 - HEPASilent™ - Werkt tegen huisstofmijt, hooikoorts, allergie, stof, bacteriën - Incl Koolstoffilter",
-      "url": "https://www.bol.com/nl/nl/p/blueair-joy-s-luchtreiniger-deeltjes-en-koolstoffilter-17m2-dark-shadow/9300000001223288/",
-      "image": "https://media.s-bol.com/gZKNqopp7PZY/349x840.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie in een woon- of slaapkamer schone lucht wil zonder dat het apparaat opvalt.",
+      "text": "De Blueair Blue Signature is een luchtreiniger die bewust niet op een apparaat lijkt. Het ronde ontwerp met een vlakke bovenkant kun je als bijzettafel naast de bank of het bed gebruiken. Binnenin zit Blueairs HEPASilent-techniek, die mechanische filtering combineert met een elektrostatische lading. Daardoor vangt hij fijne deeltjes zoals pollen, stof en huisdierhaar met een lage luchtweerstand en dus weinig geluid.\n\nOp de laagste stand is hij nauwelijks hoorbaar, wat hem geschikt maakt voor de slaapkamer. Een koolfilter helpt tegen kookluchtjes. Via de Blueair-app volg je de luchtkwaliteit en stel je een schema in. Hij is bedoeld voor ruimtes tot ongeveer 45 vierkante meter. Het model is nieuw op bol, waardoor er nog weinig beoordelingen zijn. Reken ook op de kosten van een vervangend filter ongeveer twee keer per jaar. Wie design en stilte belangrijk vindt, krijgt hier een mooie middenklasser.",
+      "ean": "0689122030432",
+      "bol_title": "Blueair Blue Signature Air Purifier Dark",
+      "url": "https://www.bol.com/nl/nl/p/blueair-blue-signature-air-purifier-dark/9300000249100550/",
+      "image": "https://media.s-bol.com/PLgv1R6OX6l6/r0x0Rl4/550x531.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "Xiaomi",
@@ -187,7 +185,7 @@
       "bol_title": "Xiaomi Smart Air Purifier 4 Pro | Luchtreiniger | 500 m³/u CADR | Tot 60 m² | PM2.5 en PM10 sensor | OLED display | App en spraakbediening | Automatische modus",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-air-purifier-4-pro-luchtreiniger/9300000072830557/",
       "image": "https://media.s-bol.com/BWVqEDQE5BAQ/RoO1LRE/345x840.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Philips",
@@ -221,7 +219,7 @@
       "bol_title": "Philips - PureProtect Quiet 2200-serie - 420 m³/u Cadr - AC2220/10",
       "url": "https://www.bol.com/nl/nl/p/philips-cobra-pureprotect-quiet-2200-serie/9300000237436085/",
       "image": "https://media.s-bol.com/WDG4O83q0zOv/jqmVW2R/550x682.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Philips",
@@ -255,7 +253,7 @@
       "bol_title": "Philips PureProtect Mini 900-serie Luchtreiniger AC0921/14",
       "url": "https://www.bol.com/nl/nl/p/philips-pureprotect-mini-900-serie-luchtzuiveraar-ac0921-14/9300000186181889/",
       "image": "https://media.s-bol.com/NqvN0nkJDBPL/xvE01mJ/476x840.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Levoit",
@@ -289,7 +287,7 @@
       "bol_title": "Levoit Core 400S Slimme Luchtreiniger",
       "url": "https://www.bol.com/nl/nl/p/levoit-core-400s-smart-hepa-luchtreiniger/9300000052331904/",
       "image": "https://media.s-bol.com/7DoVW1zrAXpA/Wn56mr4/550x741.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Coway",
@@ -323,41 +321,40 @@
       "bol_title": "Coway Airmega 150 Luchtreiniger - Voor ruimtes tot 73m² - HEPA filter + koolstoffilter + Wasbaar pre-filter - 281 m³/u - Tegen stof, pollen en allergenen - Fluisterstil (20 dB) - ECARF & Quiet Mark gecertificeerd - Wit",
       "url": "https://www.bol.com/nl/nl/p/coway-airmega-150-luchtreiniger-met-greenhepa-technologie-wit/9300000075750686/",
       "image": "https://media.s-bol.com/qXgln7xLW3Bk/N3BXLv/550x772.jpg",
-      "synced": "2026-10-23"
+      "synced": "2026-10-24"
     },
     {
       "brand": "Winix",
-      "name": "T500 Wifi",
-      "price": 69.0,
+      "name": "5300-2",
+      "price": 129.0,
       "score": 7.8,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
-      "oneliner": "Goedkope slimme luchtreiniger met 3-in-1 HEPA-filter en PlasmaWave.",
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Betrouwbare instapper met HEPA, koolfilter en PlasmaWave.",
       "specs": {
-        "CADR": "250 m3/u",
-        "Ruimte": "Tot circa 30 m2",
-        "Filter": "3-in-1 HEPA + koolstof",
-        "Geluid min": "Circa 25 dB",
-        "App": "Ja, Winix Smart"
+        "CADR": "Gemiddeld",
+        "Ruimte": "Tot circa 40 m2",
+        "Filter": "HEPA + koolfilter + PlasmaWave",
+        "Geluid min": "Circa 27 dB",
+        "App": "Nee"
       },
       "pros": [
-        "Laagste prijs in deze lijst",
-        "Wifi en app-bediening",
-        "PlasmaWave-techniek als extra",
-        "Betaalbare filters"
+        "Drielaagse filtering voor deze prijs",
+        "Luchtkwaliteitslampje en automatische stand",
+        "Wasbaar koolfilter",
+        "Lage filterkosten"
       ],
       "cons": [
-        "Minder krachtig dan de grotere modellen",
-        "Niet de stilste",
-        "Koollaag is dun"
+        "Geen app of wifi",
+        "PlasmaWave is niet voor iedereen nodig"
       ],
-      "ideal": "Wie voor weinig geld een slimme luchtreiniger wil voor slaapkamer of studentenkamer.",
-      "text": "De Winix T500 Wifi is een van de goedkoopste slimme luchtreinigers van een gevestigd merk. Winix is een Zuid-Koreaanse fabrikant die al lang luchtreinigers maakt. Dit compacte model heeft een 3-in-1 filter met voorfilter, HEPA en een dunne laag koolstof. Daarnaast gebruikt Winix zijn PlasmaWave-techniek, die volgens het merk extra deeltjes en geurtjes afbreekt.\n\nVia wifi en de Winix-app zie je de luchtkwaliteit en bedien je het apparaat op afstand. Dat is bijzonder in deze prijsklasse. Volgens Winix haalt hij een CADR van 250 kubieke meter per uur, genoeg voor een slaapkamer of studentenkamer. Hij is niet het stilste apparaat en de koollaag is te dun voor sterke kookluchtjes. De vervangfilters zijn wel betaalbaar. Kopers op bol geven gemiddeld een 4,4. Voor rond de 70 euro krijg je een complete en slimme luchtreiniger.",
-      "ean": "8809490587464",
-      "bol_title": "Winix T500 Wifi - Slimme Luchtreiniger met vervangbaar 3-in-1 Hepa filter + PlasmaWave Technologie - cadr 250m³ p/u en tot 50m² - Getest en Gecertificeerd op Hooikoorts, Allergie en Fijnstof - Winix Smart App, Google Assistant, Amazon Alexa",
-      "url": "https://www.bol.com/nl/nl/p/winix-t500-wifi-slimme-luchtreiniger-met-vervangbaar-3-in-1-hepa-filter-plasmawave-technologie-cadr-250m-p-u-en-tot-50m-getest-en-gecertificeerd-op-hooikoorts-allergie-en-fijnstof-winix-smart-app-google-assistant-amazon-alexa/9300000243871694/",
-      "image": "https://media.s-bol.com/mxoRoXmGrM79/GZoxNOK/550x741.jpg",
-      "synced": "2026-10-23"
+      "ideal": "Wie zonder poespas een slaap- of werkkamer wil reinigen voor een lage prijs.",
+      "text": "De Winix 5300-2 is een eenvoudige luchtreiniger die al jaren goed verkoopt. Hij werkt met drie lagen: een voorfilter voor grof stof, een wasbaar koolfilter tegen geurtjes en een HEPA-filter voor fijne deeltjes zoals pollen en huisstofmijt. Daarnaast heeft hij PlasmaWave, een techniek die de lucht extra behandelt. Die functie kun je met één knop uitzetten als je dat liever niet gebruikt.\n\nEen sensor meet de luchtkwaliteit en laat met een gekleurd lampje zien hoe schoon de lucht is. In de automatische stand past de ventilator zijn snelheid aan. In de slaapstand dimt hij de lichtjes en draait hij zacht. Een app of wifi ontbreekt. Kopers zijn tevreden over de werking bij allergie en over de lage filterkosten. Voor kamers tot ongeveer 40 vierkante meter is dit een degelijke en betaalbare keuze.",
+      "ean": "8809490585408",
+      "bol_title": "Winix 5300-2 - Luchtreiniger Air Purifier met vervangbaar Hepa + Koolstoffilter + PlasmaWave Technologie - Cadr 390m³ p/u en tot 99m² - Getest en Gecertificeerd op Hooikoorts, Allergie en Fijnstof, Auto en Slaapstand, Timer, Luchtkwaliteit indicator",
+      "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-5300-2-luchtreiniger-met-hepa-filter-en-plasmawave-technologie-cadr-390m-p-u-en-voor-99m-gecertificeerd-op-hooikoorts-allergieen-en-fijnstof-auto-mode-timer-slaap-mode-en-luchtkwaliteit-indicator/9300000228503657/",
+      "image": "https://media.s-bol.com/7rDPk1OWONor/J6M5g7D/529x840.jpg",
+      "synced": "2026-10-24"
     }
   ],
   "guide": [
