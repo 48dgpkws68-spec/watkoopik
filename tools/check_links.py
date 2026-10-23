@@ -6,7 +6,7 @@ Gebruik: python3 tools/check_links.py [aantal-steekproeven]"""
 import os, re, sys, glob, random, urllib.parse, subprocess
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE_ID = "1549706"
-n_sample = int(sys.argv[1]) if len(sys.argv) > 1 else 10
+n_sample = int(sys.argv[1]) if len(sys.argv) > 1 else 0  # elke live steekproef telt als klik bij bol: standaard 0
 links, bad, direct = set(), [], []
 for f in glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True):
     rel = os.path.relpath(f, ROOT)

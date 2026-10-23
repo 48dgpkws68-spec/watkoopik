@@ -21,3 +21,5 @@ Taalregels (de build breekt af bij overtreding):
 - Geen "2025" in titels, alleen 2026.
 
 Extra regel (13 okt 2026): nooit producten van Pegasus Depot of G&C Systems opnemen (eigen bol-verkoopaccount van Nick; affiliate-commissie op eigen producten is niet toegestaan).
+
+Extra regel (24 okt 2026): eigen merken van Nick mogen alleen in het aparte, gemarkeerde blok "eigen_merk" boven het podium, nooit in de top 10 zelf.

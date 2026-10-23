@@ -13,7 +13,7 @@ STAP 2. Verzamel signalen (Chrome: laad de tools via ToolSearch en roep select_b
  d) Lokaal: python3 build.py moet "OK" geven; controleer steekproefsgewijs 2 gidsen op kwaliteit (feiten, leesbaarheid, geen streepjes, geen ", en").
  Geen login beschikbaar op een bron: overslaan en noteren.
 
-STAP 2b. Vaste checks elke avond: python3 tools/check_links.py 10 (alle bol-links met code 1549706 en werkende doorverwijzing) en tel producten zonder foto (veld image ontbreekt). Zijn er producten zonder foto, draai python3 tools/bol_candidates.py <slugs> en los er minstens 10 op volgens FOTO_FIX.md (juiste EAN zoeken of vervangen door een bol-model), daarna python3 tools/bol_sync.py.
+STAP 2b. Vaste checks elke avond: python3 tools/check_links.py (controleert zonder te klikken of alle bol-links code 1549706 hebben; alleen op zondag python3 tools/check_links.py 2 voor een live doorverwijzingstest, want elke geopende partnerlink telt bij bol als klik en vervuilt de conversiecijfers) en tel producten zonder foto (veld image ontbreekt). Zijn er producten zonder foto, draai python3 tools/bol_candidates.py <slugs> en los er minstens 10 op volgens FOTO_FIX.md (juiste EAN zoeken of vervangen door een bol-model), daarna python3 tools/bol_sync.py.
 
 STAP 2c. Leverbaarheid (sinds 24 okt 2026): draai python3 tools/check_stock.py. Elk product met "geen aanbieding" of "product weg" is een kapotte koopknop en gaat vóór alle andere verbeteringen: eerst een leverbare variant van hetzelfde model zoeken (python3 tools/bol_search.py), anders vervangen volgens FOTO_FIX.md stap 2c, met voorrang voor producten op plek 1 tot 3. Daarna python3 tools/bol_sync.py.
 
