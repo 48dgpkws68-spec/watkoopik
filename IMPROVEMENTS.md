@@ -85,3 +85,15 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: eindoordeel en sticky gaven 0 kliks in 7 dagen; als dat zo blijft sticky-balk pas tonen na het podium of met prijs in de tekst.
 - Idee voor later: tv 65 inch en stofzuiger huisdieren converteren het best; subgidsen ("beste OLED-tv 65 inch", "stofzuiger katten") bovenaan BACKLOG zetten.
 - Voor Nick: niets (optioneel in Search Console "Indexering aanvragen" voor tv 65 inch, elektrische kachel en stofzuiger huisdieren).
+
+## 2026-10-23
+- Signalen: Umami 7 dagen 172 bezoekers, 238 weergaven, bounce 55%; homepage 50 weergaven, best gelezen tv 65 inch (12), tv 55 inch (9), dekbed en kachel (6); bronnen watkoopik.com 41, chatgpt.com 5; 73 bol-klik-events (podium 46, tabel 24, kaart 2, sticky 1), top gidsen stofzuiger huisdieren, tv 65 inch, kachel.
+- Signalen: Search Console 7 dagen 0 klikken, 32 vertoningen, positie 59,6; eerste echte zoekopdrachten, allemaal luchtreiniger bij allergie (allergie, pollen, kattenallergie, formaldehyde, slaapkamer, astma, huisstofmijt); indexering nu 16 geindexeerd, 26 gevonden niet geindexeerd, 3 gecrawld niet geindexeerd, 1 canonical.
+- Signalen: bol-cijfers: niet automatisch beschikbaar; build OK 162 gidsen / 1620 producten, check_links 1561 links 0 fouten en 10/10 goed; 20 producten zonder foto (tv 32 inch, ultrawide monitor) nu 0; steekproef tv 32 inch + ultrawide: 0 streepjes, 0 ", en", geen "getest".
+- Gedaan: nieuw optioneel veld "seo" in de gidsdata voor titel, meta description en koopgids-kop, los van "query" (bol-zoekterm); ingevuld voor 20 subgidsen; waarom: titels droegen de bol-zoekterm, bijv. "Beste luchtreiniger hepa 2026" voor de allergiegids, "Beste volautomaat goedkoop" voor bonenmachines onder 500 euro, "Beste espressomachine pistonmachine" voor beginners; verwacht effect: titel en snippet sluiten aan op wat mensen echt zoeken, hogere positie en CTR. Nieuwe subgidsen van de dagroutine krijgen nog geen seo-veld (fallback query).
+- Gedaan: allergiegids kreeg 4 FAQ's (slaapkamer, astma, formaldehyde, pollen) en 5 extra keywords, precies de zoekvragen uit Search Console; waarom: eerste echte vertoningen maar positie rond 60; verwacht effect: betere positie op die long tail en FAQ-structured data voor die vragen.
+- Gedaan: 20 producten zonder foto gekoppeld via exacte EAN (alle 20 hetzelfde model op bol), bol_sync gedraaid; verwacht effect: foto's, dagprijs en werkende affiliatelinks op twee nieuwe gidsen. IndexNow: 181 URL's gemeld.
+- Idee voor later: de dagroutine laten zorgen dat nieuwe subgidsen direct een "seo"-veld krijgen (zoekterm zoals in de titel).
+- Idee voor later: 26 pagina's "gevonden, niet geindexeerd" (crawlbudget); homepage "meest bekeken" uitbreiden met een blok nieuwste gidsen voor snellere ontdekking.
+- Idee voor later: kaart (2) en sticky (1) blijven zwak na de knoptekstwijziging; sticky-balk eventueel pas na het podium tonen.
+- Voor Nick: niets (optioneel in Search Console "Indexering aanvragen" voor de allergiegids).
