@@ -137,12 +137,12 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-bank | wonen | bank 3 zits | De 10 beste banken van 2026 | 🛋️
 [x] beste-hoekbank | wonen | hoekbank | De 10 beste hoekbanken van 2026 | 🛋️
 [x] beste-kledingkast | wonen | kledingkast | De 10 beste kledingkasten van 2026 | 🚪
-[ ] beste-relaxfauteuil | wonen | relaxfauteuil | De 10 beste relaxfauteuils van 2026 | 🛋️
-[ ] beste-pc-monitor-27-inch | computer | 27 inch monitor | De 10 beste 27 inch monitoren van 2026 | 🖥️
-[ ] beste-ultrawide-monitor | computer | ultrawide monitor | De 10 beste ultrawide monitoren van 2026 | 🖥️
-[ ] beste-bluetooth-tracker | telefoon | bluetooth tracker | De 10 beste bluetooth trackers van 2026 | 📍
-[ ] beste-tv-32-inch | elektronica | 32 inch tv | De 10 beste 32 inch tv's van 2026 | 📺
-[ ] beste-all-in-one-pc | computer | all in one pc | De 10 beste all-in-one pc's van 2026 | 🖥️
+[x] beste-relaxfauteuil | wonen | relaxfauteuil | De 10 beste relaxfauteuils van 2026 | 🛋️
+[x] beste-pc-monitor-27-inch | computer | 27 inch monitor | De 10 beste 27 inch monitoren van 2026 | 🖥️
+[x] beste-ultrawide-monitor | computer | ultrawide monitor | De 10 beste ultrawide monitoren van 2026 | 🖥️
+[x] beste-bluetooth-tracker | telefoon | bluetooth tracker | De 10 beste bluetooth trackers van 2026 | 📍
+[x] beste-tv-32-inch | elektronica | 32 inch tv | De 10 beste 32 inch tv's van 2026 | 📺
+[x] beste-all-in-one-pc | computer | all in one pc | De 10 beste all-in-one pc's van 2026 | 🖥️
 [ ] beste-iphone-hoesje | telefoon | iphone hoesje | De 10 beste iPhone-hoesjes van 2026 | 📱
 [ ] beste-desktop-pc | computer | desktop pc | De 10 beste desktop pc's van 2026 | 🖥️
 [ ] beste-screenprotector | telefoon | screenprotector | De 10 beste screenprotectors van 2026 | 📱
