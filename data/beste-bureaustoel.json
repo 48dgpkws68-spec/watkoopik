@@ -393,5 +393,19 @@
       "q": "Kan ik een bureaustoel declareren bij mijn werkgever?",
       "a": "Veel werkgevers hebben een thuiswerkregeling waarmee je een bureaustoel vergoed krijgt of belastingvrij kunt aanschaffen. Vaak geldt de eis dat de stoel aan NEN-EN 1335 voldoet. Vraag het na bij je werkgever."
     }
-  ]
+  ],
+  "eigen_merk": {
+    "merk": "Mhyson",
+    "name": "Mhyson Air Chair",
+    "price": 295,
+    "url": "https://mhyson.com/air-chair/?utm_source=watkoopik&utm_medium=eigen-merk",
+    "image": "https://mhyson.com/img/sfeer-zwart-kantoor.webp",
+    "knop": "Bekijk de Air Chair",
+    "text": "Ergonomische bureaustoel met ademende mesh, verstelbare lendensteun en hoofdsteun. Gemaakt voor lange werkdagen thuis of op kantoor.",
+    "punten": [
+      "Gratis verzending in Nederland en België",
+      "3 tot 7 werkdagen levertijd",
+      "30 dagen retour"
+    ]
+  }
 }

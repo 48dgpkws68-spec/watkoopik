@@ -458,3 +458,11 @@ section .wrap.narrow.rv{background:rgba(18,10,40,.5);border:1px solid var(--line
 .tbl td.bc .btn{white-space:nowrap}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 @media (max-width:640px){.tbl td.bc,.tbl th.bc{padding-left:8px;padding-right:8px}td.nm{min-width:150px}}
+
+.own{display:grid;grid-template-columns:240px 1fr;gap:20px;align-items:center;margin:26px 0 6px;padding:18px;border:2px solid #ff7a3d;border-radius:18px;background:linear-gradient(135deg,rgba(255,122,61,.08),transparent)}
+.own img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:12px}
+.own-lbl{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;background:#ff7a3d;color:#fff;padding:3px 9px;border-radius:99px}
+.own h2{margin:8px 0 6px;font-size:22px}.own p{margin:0 0 8px}.own ul{margin:0 0 12px;padding-left:18px}
+.own-buy{display:flex;align-items:center;gap:14px;flex-wrap:wrap}.own-buy b{font-size:22px}
+.own-disc{font-size:12px;opacity:.7;margin-top:10px!important}
+@media(max-width:700px){.own{grid-template-columns:1fr}.own img{aspect-ratio:16/10}}

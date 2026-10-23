@@ -97,3 +97,8 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: 26 pagina's "gevonden, niet geindexeerd" (crawlbudget); homepage "meest bekeken" uitbreiden met een blok nieuwste gidsen voor snellere ontdekking.
 - Idee voor later: kaart (2) en sticky (1) blijven zwak na de knoptekstwijziging; sticky-balk eventueel pas na het podium tonen.
 - Voor Nick: niets (optioneel in Search Console "Indexering aanvragen" voor de allergiegids).
+
+## 2026-10-24 (handmatig met Nick)
+- Gedaan: tools/check_stock.py (bol-API) vond 106 producten zonder aanbieding of met afwijkende prijs, waaronder 8 nummers 1. Alle opgelost: 34 via leverbare variant, 73 vervangen met nieuwe tekst. Nu 1620/1620 leverbaar.
+- Gedaan: bol_sync vernieuwt het token bij 401 (tokens verlopen na ~5 min). check_stock staat als STAP 2c in VERBETER_PROMPT.md.
+- Voor Nick: niets.

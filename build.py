@@ -50,6 +50,15 @@ def shop_a(p, g, cls="btn btn-buy magnet", plek="kaart"):
         "Bekijk actuele prijs bij bol" if plek == "kaart" else "Bekijk bij bol")
 
 STAR = '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M12 2.5l2.9 6.1 6.7.8-4.9 4.6 1.3 6.6L12 17.3l-6 3.3 1.3-6.6L2.4 9.4l6.7-.8z" fill="%s"/></svg>'
+def own_block(g):
+    """Optioneel blok "Ons eigen merk" boven het podium (veld eigen_merk in de gidsdata). Staat los van de top 10 en is altijd als eigen merk gemarkeerd."""
+    o = g.get("eigen_merk")
+    if not o: return ""
+    pts = "".join("<li>%s</li>" % e(x) for x in o.get("punten", []))
+    return '''<div class="own"><img src="%s" alt="%s" loading="lazy"><div class="own-body"><span class="own-lbl">Ons eigen merk</span><h2>%s</h2><p>%s</p><ul>%s</ul><div class="own-buy"><b>%s</b><a class="btn btn-buy" href="%s" target="_blank" rel="noopener" data-umami-event="eigen-merk-klik" data-umami-event-gids="%s">%s <span class="arr">→</span></a></div><p class="own-disc">%s is het eigen merk van de makers van watkoopik. Dit blok staat los van de onafhankelijke top 10 hieronder en daar verdienen wij direct aan.</p></div></div>''' % (
+        e(o["image"]), e(o["name"]), e(o["name"]), e(o["text"]), pts, eur(o["price"]), e(o["url"]), e(g["slug"]), e(o.get("knop", "Bekijk bij " + o["merk"])), e(o["merk"]))
+
+
 def stars(score):
     full = int(round(score / 2)); return '<span class="stars" aria-label="%s van 10">%s</span>' % (score, "".join(STAR % ("#f5b324" if i < full else "#e3dff0") for i in range(5)))
 
@@ -417,7 +426,7 @@ for g in guides:
 <div class="ghero"><span class="kick">Top 10 · %s</span><h1 class="split">%s</h1><p class="intro">%s</p>
 <div class="meta-line"><span>Bijgewerkt <b>%s</b></span><span><b>%d</b> modellen</span><span><b>%s</b> reviews</span><span>Door <b>de redactie</b></span></div><div class="pref-wrap"><a class="pref-src" href="https://google.com/preferences/source?q=watkoopik.nl" target="_blank" rel="noopener" data-umami-event="preferred-source"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="#4285F4" d="M22.5 12.3c0-.8-.1-1.5-.2-2.3H12v4.3h5.9a5 5 0 0 1-2.2 3.3v2.7h3.6c2.1-1.9 3.2-4.8 3.2-8z"/><path fill="#34A853" d="M12 23c3 0 5.5-1 7.3-2.7l-3.6-2.7c-1 .7-2.2 1-3.7 1-2.9 0-5.3-1.9-6.2-4.5H2.1v2.8A11 11 0 0 0 12 23z"/><path fill="#FBBC05" d="M5.8 14.1a6.6 6.6 0 0 1 0-4.2V7.1H2.1a11 11 0 0 0 0 9.8z"/><path fill="#EA4335" d="M12 5.4c1.6 0 3 .6 4.2 1.6l3.1-3.1A11 11 0 0 0 2.1 7.1l3.7 2.8C6.7 7.3 9.1 5.4 12 5.4z"/></svg>Voeg watkoopik toe als voorkeursbron in Google</a></div>
 <p class="disc">Wij ontvangen mogelijk een vergoeding als je via onze links iets koopt. Dit kost jou niets extra en bepaalt niet welke producten in de lijst staan. <a href="../zo-kiezen-wij.html">Zo kiezen wij</a>.</p></div>
-<div class="podium">%s</div>
+%s<div class="podium">%s</div>
 <div class="layout"><div>
 <h2 id="vergelijk" class="rv" style="margin-top:22px">Alle %d naast elkaar</h2>%s
 <h2 id="top10" class="rv">De top 10 in detail</h2>%s
@@ -431,7 +440,7 @@ for g in guides:
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], e(g["short"]), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), e(str(g.get("reviews_total", ""))),
-        podium, len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, toc, "".join(gcard(x, root) for x in rel),
+        own_block(g), podium, len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, toc, "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = g.get("seo") or g["query"]  # zoekterm voor titel en meta; query blijft de bol-zoekterm
