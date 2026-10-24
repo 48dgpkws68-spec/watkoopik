@@ -100,6 +100,21 @@ CATS = {
     "reizen": ("Reizen en mode", "Koffers, tassen en horloges"),
     "hobby": ("Hobby en muziek", "Creatief, muziekinstrumenten en vrije tijd"),
 }
+# Intro per categoriehub (80 tot 120 woorden, sinds 24 okt 2026) voor betere indexering van de hubpagina's
+CAT_INTRO = {
+"elektronica": "Een nieuwe tv, koptelefoon of smartwatch koop je niet elk jaar, dus wil je in een keer goed kiezen. In deze categorie vind je onze top 10's voor televisies in elk formaat, van 32 tot 75 inch, plus OLED en QLED naast elkaar. Daarnaast vergelijken we oordopjes, koptelefoons, soundbars, tablets, e-readers, dashcams en videodeurbellen. Per gids zie je meteen welk model de beste keuze is, welke de slimste koop is en welke premium optie het geld waard is. Specificaties zoals helderheid, accuduur en ruisonderdrukking zetten we in een tabel, zodat je in een paar minuten ziet waar de echte verschillen zitten.",
+"keuken": "In de keuken bepaalt een goed apparaat hoeveel plezier je elke dag hebt van koken, bakken en koffie zetten. Hier staan al onze top 10's voor keukenapparaten: airfryers in elk formaat, volautomatische koffiemachines, espressomachines, blenders, keukenmachines, magnetrons en meer. We vergelijken inhoud, vermogen, bediening, schoonmaakgemak en wat duizenden kopers na maanden gebruik melden. Zo zie je snel of een duurder model echt beter is of vooral mooier oogt. Elke gids heeft een duidelijke winnaar, een slimste koop voor een kleiner budget en een koopgids met de vragen die je jezelf vooraf moet stellen.",
+"wonen": "Comfort in huis draait om warmte, frisse lucht en een fijne sfeer. In deze categorie vergelijken we elektrische kachels, infraroodpanelen, luchtreinigers voor allergie, luchtontvochtigers, ventilatoren, slimme thermostaten, banken, bureaustoelen en zit-sta-bureaus. Juist nu het stookseizoen begint, letten we extra op verbruik in watt, geluid in decibel en de kosten per maand. Bij luchtreinigers kijken we naar het HEPA-filter, de CADR-waarde en de prijs van vervangfilters. Elke top 10 begint met drie winnaars en eindigt met een koopgids, zodat je weet welk apparaat bij jouw ruimte en budget past.",
+"huishouden": "Huishoudelijke apparaten moeten vooral doen wat ze beloven, jaar na jaar. Hier vind je onze top 10's voor stofzuigers met en zonder zak, steelstofzuigers, robotstofzuigers, modellen voor huisdierhaar, wasmachines, drogers, strijkijzers en stoomreinigers. We vergelijken zuigkracht, accuduur, filter, geluid en onderhoudskosten. Ook lezen we wat kopers na maanden gebruik melden over storingen en service. Heb je een hond of kat, dan zie je meteen welke modellen haar uit tapijt en banken halen zonder te verstoppen. Per gids staan de beste keuze, de slimste koop en de premium optie bovenaan.",
+"slapen": "Een derde van je leven lig je in bed, dus een goed matras, kussen of dekbed maakt echt verschil. In deze categorie vergelijken we matrassen, ook voor rugklachten, hoofdkussens voor nekklachten, dekbedden voor elk seizoen, boxsprings, elektrische dekens, verzwaringsdekens en oordopjes om te slapen. We kijken naar hardheid, materiaal, ventilatie, proefslaapperiode en wat duizenden slapers na een paar weken melden. Zo zie je of een duur matras echt beter ligt of vooral een sterk merk heeft. Elke gids sluit af met een koopgids en antwoorden op de vragen die mensen het vaakst stellen.",
+"verzorging": "Voor verzorgingsproducten tellen kleine details: hoe glad een scheerapparaat scheert, hoe lang de accu meegaat en hoe makkelijk je hem schoonmaakt. In deze categorie vergelijken we föhns, stijltangen, krultangen, elektrische tandenborstels, scheerapparaten, baardtrimmers, tondeuses, ladyshaves en epilators. Per product zetten we de specificaties naast elkaar en vatten we samen wat kopers na weken gebruik vertellen over huidirritatie, geluid en levensduur. Zo zie je snel welk model past bij jouw haar, huid en budget. Elke top 10 heeft een duidelijke winnaar, een slimste koop en een premium keuze.",
+"klussen": "Goed gereedschap scheelt tijd, frustratie en soms een bezoek aan de huisarts. In deze categorie vind je onze top 10's voor accuboormachines, ook voor beginners, hogedrukreinigers, grasmaaiers, robotmaaiers, heggenscharen, bladblazers, barbecues en terrasverwarmers. We vergelijken accuplatform, vermogen, gewicht, geluid en de prijs van extra accu's, want dat bepaalt vaak de echte kosten. Heb je al accu's van een merk, dan zie je meteen welke machines daarop passen. Per gids staan de beste keuze, de slimste koop en de premium optie bovenaan, gevolgd door een koopgids voor klussers en tuinliefhebbers.",
+"sport": "Thuis sporten werkt alleen als het apparaat stevig staat, stil genoeg is en past in je ruimte. In deze categorie vergelijken we hometrainers, ook compacte modellen, loopbanden, loopbanden voor onder het bureau, massageguns, sporthorloges, sportoordopjes en elektrische fietsen. We letten op maximale belasting, weerstandsniveaus, geluid, inklapbaarheid en wat sporters na maanden gebruik melden. Zo voorkom je dat een dure aankoop als kapstok in de hoek eindigt. Elke top 10 begint met drie winnaars en eindigt met een koopgids die helpt kiezen op basis van jouw doel en budget.",
+"computer": "Een laptop of monitor gebruik je elke dag, dus de juiste keuze scheelt jarenlang ergernis. Hier staan onze top 10's voor laptops voor studenten, thuiswerken en ouderen, MacBooks, gaming laptops, all-in-one pc's en monitoren voor werk en ontspanning. We vergelijken processor, werkgeheugen, opslag, schermkwaliteit, gewicht en accuduur. Die cijfers vertalen we naar wat jij er in de praktijk aan hebt. Zo zie je of je voor jouw gebruik echt een duurder model nodig hebt. Elke gids heeft een duidelijke winnaar, een slimste koop en een premium keuze, plus een koopgids zonder vakjargon.",
+"telefoon": "Een smartphone gaat al snel drie tot vijf jaar mee, dus updates en accuduur wegen zwaar. In deze categorie vergelijken we smartphones in elke prijsklasse, iPhones, Samsung-toestellen, smartwatches voor ouderen en bluetooth-trackers. We kijken naar camera, schermkwaliteit, opslag, accuduur en hoe lang de fabrikant software-updates belooft. Zo zie je of een toptoestel het meerbedrag waard is of dat een middenklasser voor jou genoeg is. Elke top 10 begint met de beste keuze, de slimste koop en de premium optie, gevolgd door een vergelijkingstabel en een koopgids.",
+"gaming": "Bij gaming bepalen details als verversingssnelheid, reactietijd en comfort hoe goed een spelsessie voelt. In deze categorie vergelijken we gaming monitoren, gaming headsets, gaming stoelen, gaming pc's en de PlayStation 5. We zetten specificaties zoals hertz, paneeltype, latency en verstelbaarheid naast elkaar en vatten samen wat gamers na weken gebruik melden. Zo zie je of je het verschil van een duurder model echt merkt of vooral betaalt voor verlichting. Elke top 10 begint met drie duidelijke winnaars en eindigt met een koopgids, zodat je de juiste keuze maakt voor jouw console of pc.",
+"kind": "Voor je kind wil je spullen die veilig zijn, lang meegaan en het dagelijks leven makkelijker maken. In deze categorie vergelijken we kinderwagens, autostoelen, babyfoons en flessenwarmers. We letten op veiligheidsnormen zoals i-Size, gewicht, inklapmaat, bereik en hoe makkelijk je iets schoonmaakt. Ook lezen we wat ouders na maanden gebruik melden. Zo zie je snel welk model past bij jouw auto, woning en budget. Elke top 10 begint met de beste keuze, de slimste koop en de premium optie, gevolgd door een vergelijkingstabel en een koopgids met de vragen die nieuwe ouders het vaakst stellen.",
+}
 ICONS = {
     "huishouden": '<path d="M9 3h6l1 9H8z"/><path d="M8 12h8v3a4 4 0 0 1-8 0z"/>',
     "keuken": '<path d="M4 12h16"/><path d="M6 12v6a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-6"/><path d="M8 12V8a4 4 0 0 1 8 0v4"/>',
@@ -323,6 +338,7 @@ winband = '<div class="mq winband">%s</div><div class="mq winband rev" style="ma
 fl_imgs = [win(g)["image"] for g in winners[:6]]
 floaters = '<div class="floaters" aria-hidden="true">%s</div>' % "".join('<div class="fl f%d" data-depth="%s"><div class="in"><img src="%s" alt=""></div></div>' % (i + 1, [.6, 1, .4, .8, .3, .5][i], e(im)) for i, im in enumerate(fl_imgs))
 
+newest = sorted(guides, key=lambda g: (g.get("published", g.get("updated", "")), g["slug"]), reverse=True)
 home_deals = ('''<section data-hue="1" style="padding-bottom:0"><div class="wrap">
 <div class="sec-head rv"><div><span class="kick">Prijsdalingen</span><h2>Nu <span class="grad">echt goedkoper</span></h2></div><a class="more" href="aanbiedingen/">Alle %d aanbiedingen →</a></div>
 <div class="deals">%s</div></div></section>''' % (len(DEALS), "".join(deal_row(g, p, d, "") for g, p, d in DEALS[:4]))) if DEALS else '''<section data-hue="1" style="padding-bottom:0"><div class="wrap"><p class="muted"><a href="aanbiedingen/">Aanbiedingen</a>: hier verschijnen producten uit onze top 10's die minstens 10%% goedkoper zijn dan eerder gemeten.</p></div></section>'''
@@ -355,7 +371,7 @@ home = '''
 </section>
 
 <section data-hue="3"><div class="wrap">
-<div class="sec-head rv"><div><span class="kick">Nieuw</span><h2>De nieuwste <span class="grad">gidsen</span></h2></div><a class="more" href="gidsen.html">Alle %d gidsen →</a></div>
+<div class="sec-head rv"><div><span class="kick">Nieuw</span><h2>Nieuwste <span class="grad">gidsen</span></h2></div><a class="more" href="gidsen.html">Alle %d gidsen →</a></div>
 <div class="gl">%s</div>
 </div></section>
 
@@ -380,7 +396,7 @@ home = '''
 <p class="muted">watkoopik vergelijkt per productsoort de tien beste modellen die je nu in Nederland kunt kopen. Of je nu de <a href="beste/beste-airfryer.html">beste airfryer</a>, een <a href="beste/beste-stofzuiger.html">stille stofzuiger</a> of <a href="beste/beste-draadloze-oordopjes.html">draadloze oordopjes met noise cancelling</a> zoekt: elke gids begint met drie duidelijke winnaars, gevolgd door een vergelijkingstabel, uitleg per product met plus- en minpunten, een koopgids en antwoorden op veelgestelde vragen. Merken kunnen geen plek kopen. <a href="zo-kiezen-wij.html">Lees hoe wij kiezen</a>.</p>
 </div></section>
 ''' % (floaters, YEAR, searchbox(), chips, len(guides), len(guides), N_PROD, N_PROD, N_REV, format(N_REV, ",").replace(",", "."),
-       marquee(items[:half]), marquee(items[half:], rev=True), "".join(gcard(g) for g in popular[:6]), home_deals, cat_cards, winband, len(guides), "".join(gcard(g) for g in guides[:9]),
+       marquee(items[:half]), marquee(items[half:], rev=True), "".join(gcard(g) for g in popular[:6]), home_deals, cat_cards, winband, len(guides), "".join(gcard(g) for g in newest[:8]),
        len(guides), len(guides), N_PROD, N_PROD, YEAR)
 home_ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": "watkoopik", "url": SITE + "/", "inLanguage": "nl-NL",
             "potentialAction": {"@type": "SearchAction", "target": SITE + "/gidsen.html?q={search_term_string}", "query-input": "required name=search_term_string"}},
@@ -401,8 +417,9 @@ for k, v in CATS.items():
     if not gs: continue
     body = '''<section style="padding-top:20px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › %s</nav>
 <span class="kick" style="margin-top:14px">Categorie</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">De beste %s van %d</h1>
-<p class="muted" style="max-width:700px">%s. In deze %d gidsen vergelijken we per productsoort de tien beste modellen op prijs, specificaties en gebruikersreviews, met een duidelijke winnaar, de slimste koop en de beste premium keuze.</p>
-<div class="gl" style="margin-top:22px">%s</div></div></section>''' % (v[0], v[0].lower(), YEAR, v[1], len(gs), "".join(gcard(g, "../") for g in gs))
+<p class="muted" style="max-width:760px">%s</p><p class="muted" style="max-width:760px;font-size:.9rem">%d gidsen in deze categorie · %s</p>
+<div class="gl" style="margin-top:22px">%s</div></div></section>''' % (v[0], v[0].lower(), YEAR, e(CAT_INTRO.get(k) or (v[1] + ". In deze gidsen vergelijken we per productsoort de tien beste modellen op prijs, specificaties en gebruikersreviews.")), len(gs),
+        " · ".join('<a href="../%s">%s</a>' % (x["url"], e(x["short"])) for x in sorted(gs, key=lambda x: x["short"].lower())), "".join(gcard(g, "../") for g in gs))
     cld = [{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"}, {"@type": "ListItem", "position": 2, "name": v[0], "item": SITE + "/categorie/%s.html" % k}]},
            {"@context": "https://schema.org", "@type": "ItemList", "name": "Beste %s van %d" % (v[0].lower(), YEAR), "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": SITE + "/" + x["url"], "name": x["title"]} for i, x in enumerate(gs)]}]
     page("categorie/%s.html" % k, "Beste %s %d: alle top 10's | watkoopik" % (v[0].lower(), YEAR), "%s. Vergelijk per productsoort de tien beste modellen van %d op prijs, specificaties en reviews." % (v[1], YEAR), body,
@@ -442,7 +459,10 @@ for g in guides:
     # varianten van hetzelfde product eerst (beste-airfryer <-> beste-airfryer-1-persoon), daarna dezelfde categorie
     stem = lambda sl: sl[6:].split("-")[0]
     fam = [x for x in guides if x["slug"] != g["slug"] and stem(x["slug"]) == stem(g["slug"])]
-    rel = (fam + [x for x in by_cat[g["cat"]] if x["slug"] != g["slug"] and x not in fam])[:4]
+    words = lambda x: set(re.findall(r"[a-zà-ü]{4,}", " ".join([x["slug"], x["query"]] + x.get("keywords", [])).lower())) - {"beste", "goedkoop", "kopen", "2026", "review", "test"}
+    gw = words(g)
+    same = [x for x in fam if x["cat"] == g["cat"]] + sorted([x for x in by_cat[g["cat"]] if x["slug"] != g["slug"] and x not in fam], key=lambda x: -len(gw & words(x)))
+    rel = same[:4] + [x for x in fam if x["cat"] != g["cat"]][:1]
     gi = guides.index(g)  # aanvullen met gidsen uit andere categorieen, per gids verschoven zodat elke gids inlinks krijgt
     rel += [x for x in (guides[(gi + 7 * j + 3) % len(guides)] for j in range(len(guides))) if x["cat"] != g["cat"] and x not in rel][:6 - len(rel)]
     url_abs = SITE + "/" + g["url"]
@@ -484,11 +504,11 @@ for g in guides:
 </div>
 <aside class="side"><details class="toc"><summary>In deze gids</summary><ol><li><a href="#vergelijk">Vergelijkingstabel</a></li>%s<li><a href="#koopgids">Koopgids</a></li><li><a href="#faq">Veelgestelde vragen</a></li></ol></details></aside>
 </div>
-<section style="padding:40px 0"><div class="sec-head"><h2>Ook interessant</h2></div><div class="gl">%s</div></section>
+<section style="padding:40px 0"><div class="sec-head"><h2>Meer gidsen in %s</h2><a class="more" href="../categorie/%s.html">Alle %d →</a></div><div class="gl">%s</div></section>
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], e(g["short"]), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), e(str(g.get("reviews_total", ""))),
-        own_block(g), podium, len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, "".join(gcard(x, root) for x in rel),
+        own_block(g), podium, len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = g.get("seo") or g["query"]  # zoekterm voor titel en meta; query blijft de bol-zoekterm
