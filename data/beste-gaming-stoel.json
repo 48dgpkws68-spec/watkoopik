@@ -460,5 +460,19 @@
       "a": "Kijk naar het maximale gewicht en de breedte van de zitting. De AndaSeat Kaiser 3, Kaiser 4 en Phantom 3 in maat L dragen tot 180 kilo. De Trust Ruya en Noblechairs Hero dragen tot 150 kilo. De Arozzi Vernazza heeft een extra brede zitting die prettig is bij een bredere bouw."
     }
   ],
-  "published": "2026-10-21"
+  "published": "2026-10-21",
+  "eigen_merk": {
+    "merk": "Mhyson",
+    "name": "Mhyson Air Chair",
+    "price": 295,
+    "url": "https://mhyson.com/air-chair/?utm_source=watkoopik&utm_medium=eigen-merk",
+    "image": "https://mhyson.com/img/sfeer-zwart-kantoor.webp",
+    "knop": "Bekijk de Air Chair",
+    "text": "Liever ademende mesh dan kunstleer tijdens lange sessies? Onze eigen ergonomische stoel heeft verstelbare lendensteun, een verstelbare hoofdsteun, opklapbare armleuningen en een schommelfunctie. Geen racestoel-look, wel koel zitten.",
+    "punten": [
+      "Gratis verzending in Nederland en België",
+      "3 tot 7 werkdagen levertijd",
+      "30 dagen retour"
+    ]
+  }
 }
