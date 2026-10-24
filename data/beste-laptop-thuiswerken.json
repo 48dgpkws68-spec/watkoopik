@@ -235,41 +235,41 @@
     },
     {
       "brand": "HP",
-      "name": "OmniBook 7 AI 14-fr0970nd Core Ultra 7 255U 16 GB 1 TB",
-      "price": 1174.0,
+      "name": "OmniBook 7 AI 14-fr0753nd Core Ultra 7 255U 16 GB 512 GB OLED",
+      "price": 1049.0,
       "score": 8.6,
       "label": null,
       "reviews": "nog weinig reviews op bol",
-      "oneliner": "Krachtige 14 inch werklaptop met 2K-scherm en een ruime 1 TB SSD.",
+      "oneliner": "Krachtige 14 inch werklaptop met een strak OLED-scherm.",
       "specs": {
         "Processor": "Intel Core Ultra 7 255U",
-        "Scherm": "14 inch 2K, 16:10",
+        "Scherm": "14 inch OLED, 16:10",
         "Webcam": "5 MP met IR",
         "Accuduur": "tot ca. 14 uur",
         "Gewicht": "1,4 kg"
       },
       "pros": [
         "Snelle Core Ultra 7-processor voor zwaar multitasken",
-        "Ruime SSD van 1 TB",
-        "Scherp 2K-scherm in 16:10",
+        "OLED-scherm met diep zwart en veel contrast",
+        "Scherm in 16:10 met extra hoogte",
         "5 MP-webcam met gezichtsherkenning"
       ],
       "cons": [
-        "Geen OLED-scherm",
+        "SSD van 512 GB vult snel bij veel grote bestanden",
         "Accuduur lager dan bij ARM-laptops",
         "Nog weinig reviews op bol"
       ],
-      "ideal": "Thuiswerkers die veel programma's tegelijk open hebben en veel opslag nodig hebben.",
-      "text": "De HP OmniBook 7 AI 14-fr0970nd is een 14 inch laptop voor wie thuis veel en zwaar werkt. De Intel Core Ultra 7 255U heeft genoeg kracht om een browser met tientallen tabbladen, Teams en Excel tegelijk te draaien. Met 16 GB werkgeheugen en een SSD van 1 TB heb je ruim plek voor bestanden, foto's en projecten zonder meteen naar de cloud te hoeven.\n\nHet 2K-scherm in 16:10 is scherp en biedt meer hoogte dan een gewoon breedbeeldscherm. Het is geen OLED, maar voor kantoorwerk is het helder genoeg. De webcam van 5 megapixel met IR-sensor geeft een scherp beeld in videogesprekken en laat je inloggen met je gezicht. De accu haalt een werkdag bij normaal gebruik. Op bol staan nog weinig reviews. Wie een krachtige Windows-laptop met veel opslag zoekt, krijgt hier veel voor zijn geld.",
-      "ean": "0199251299469",
-      "bol_title": "HP OmniBook 7 AI 14-fr0970nd Intel Core Ultra 7 255U Laptop 35,6 cm (14\") 2K 16 GB LPDDR5-SDRAM 1 TB SSD Wi-Fi 6E (802.11ax) Windows 11 Home AI PC Zilver QWERTY",
-      "url": "https://www.bol.com/nl/nl/p/hp-omnibook-7-ai-14-fr0970nd-intel-core-ultra-7-255u-laptop-35-6-cm-2k-16-gb-lpddr5-sdram-1-tb-ssd-wi-fi-6e-windows-11-home-ai-pc-zilver/9300000229258995/",
-      "image": "https://media.s-bol.com/NAopx2lLGW8D/KOYLvGY/550x465.jpg",
-      "synced": "2026-10-24",
+      "ideal": "Thuiswerkers die veel programma's tegelijk open hebben en een prettig scherm willen.",
+      "text": "De HP OmniBook 7 AI 14-fr0753nd is een 14 inch laptop voor wie thuis veel en zwaar werkt. De Intel Core Ultra 7 255U heeft genoeg kracht om een browser met tientallen tabbladen, Teams en Excel tegelijk te draaien. Met 16 GB werkgeheugen loop je niet snel vast. De SSD van 512 GB is ruim genoeg voor documenten en projecten, al kies je bij veel foto's of video's beter voor cloudopslag of een externe schijf.\n\nHet OLED-scherm in 16:10 geeft diep zwart, veel contrast en meer hoogte dan een gewoon breedbeeldscherm, wat prettig is bij lange documenten en spreadsheets. De webcam van 5 megapixel met IR-sensor geeft een scherp beeld in videogesprekken en laat je inloggen met je gezicht. De accu haalt een werkdag bij normaal gebruik. Op bol staan nog weinig reviews. Wie een krachtige Windows-laptop met een mooi scherm zoekt, krijgt hier veel voor zijn geld.",
+      "ean": "0199251732898",
       "ph": {
-        "2026-10-24": 1174.0
+        "2026-10-24": 1049.0
       },
-      "low_price": 1174.0
+      "low_price": 1049.0,
+      "bol_title": "HP OmniBook 7 AI 14-fr0753nd - Laptop - Intel® Core™ Ultra 7 Processor 255U - 16GB/512GB - OLED - 14 inch",
+      "url": "https://www.bol.com/nl/nl/p/hp-omnibook-7-ai-14-fr0753nd-laptop-14-inch/9300000230842678/",
+      "image": "https://media.s-bol.com/74Z0OKoG5nzB/k80n05J/550x409.jpg",
+      "synced": "2026-10-24"
     },
     {
       "brand": "ASUS",
