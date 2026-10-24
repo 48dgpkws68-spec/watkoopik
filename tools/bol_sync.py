@@ -70,6 +70,21 @@ def pick(results, p):
             return r
     return None
 
+def record_price(p, new):
+    """Prijsgeschiedenis (sinds 24 okt 2026) voor /aanbiedingen/: alleen echt gemeten bol-prijzen.
+    prev_price = vorige gemeten prijs als die afwijkt, low_price = laagste bekende, ph = dagprijzen laatste 60 dagen."""
+    measured = bool(p.get("synced"))  # oude prijs telt alleen als die eerder door deze sync gemeten is
+    old = p.get("price")
+    ph = p.get("ph") or {}
+    if measured and old and p.get("synced") not in ph: ph[p["synced"]] = old
+    ph[TODAY] = new
+    cut = (datetime.date.today() - datetime.timedelta(days=60)).isoformat()
+    p["ph"] = {d: v for d, v in sorted(ph.items()) if d >= cut}
+    if measured and old and abs(old - new) >= 0.01:
+        p["prev_price"] = old; p["prev_date"] = p["synced"]
+    p["low_price"] = min([new] + ([p["low_price"]] if p.get("low_price") else []) + list(p["ph"].values()))
+    p["price"] = new
+
 def main():
     tok = token(); t0 = time.time(); done = skipped = miss = 0
     for f in sorted(glob.glob(os.path.join(ROOT, "data", "*.json"))):
@@ -87,7 +102,7 @@ def main():
             if r.get("url"): p["url"] = r["url"]
             if r.get("image", {}).get("url"): p["image"] = r["image"]["url"]
             offer = r.get("offer") or {}
-            if offer.get("price"): p["price"] = float(offer["price"])
+            if offer.get("price"): record_price(p, float(offer["price"]))
             rating = r.get("rating")
             if isinstance(rating, dict):
                 if rating.get("count"): p["reviews"] = "%s reviews" % format(int(rating["count"]), ",").replace(",", ".")

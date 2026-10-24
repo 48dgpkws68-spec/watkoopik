@@ -147,8 +147,42 @@ def img_of(p, cls=""):
 for g in guides:
     for p in g["products"]: p["_ico"] = g["ico"]
 
+# ---------- prijsdalingen (sinds 24 okt 2026) ----------
+# Alleen echt gemeten bol-prijzen uit bol_sync (veld ph = dagprijzen). Referentie = mediaan van de gemeten prijzen
+# van de 30 dagen voordat de huidige prijs inging. Deal = minstens 10% lager. Dalingen van meer dan 60% zijn
+# vrijwel altijd een andere verkoper of een onderdeel en tellen niet mee.
+def deal_of(p):
+    ph = p.get("ph") or {}
+    if len(ph) < 3 or not p.get("price"): return None
+    days = sorted(ph); cur = p["price"]
+    i = len(days)
+    while i > 0 and abs(ph[days[i - 1]] - cur) < 0.01: i -= 1
+    since = days[i] if i < len(days) else days[-1]
+    start = (datetime.date.fromisoformat(since) - datetime.timedelta(days=30)).isoformat()
+    prev = sorted(ph[d] for d in days[:i] if d >= start)
+    if len(prev) < 2: return None
+    ref = prev[len(prev) // 2] if len(prev) % 2 else (prev[len(prev) // 2 - 1] + prev[len(prev) // 2]) / 2
+    drop = 1 - cur / ref
+    if drop < 0.10 or drop > 0.60: return None
+    if since < (TODAY - datetime.timedelta(days=21)).isoformat(): return None  # na drie weken is het de gewone prijs
+    return {"ref": ref, "drop": drop, "since": since, "low": min(ph.values()), "first": days[0]}
+DEALS = []
+_seen = set()
+for g in guides:
+    for p in g["products"]:
+        d = deal_of(p)
+        key = str(p.get("ean") or p["brand"] + p["name"])
+        if d and key not in _seen:
+            _seen.add(key); DEALS.append((g, p, d))
+DEALS.sort(key=lambda x: (-x[2]["drop"], x[1]["rank"]))
+def deal_row(g, p, d, root):
+    return '''<div class="deal rv"><a class="deal-img" href="%s%s#p%d">%s</a><div class="deal-bd"><span class="deal-pct">%d%% lager</span><h3><a href="%s%s#p%d">%s %s</a></h3><small>Nr. %d in <a href="%s%s">%s</a></small>
+<div class="deal-pr"><b>%s</b><span>eerder gemeten %s</span></div><small class="chk">Gezakt op %s · laagste gemeten prijs %s sinds %s</small></div><div class="deal-buy">%s</div></div>''' % (
+        root, g["url"], p["rank"], img_of(p), round(d["drop"] * 100), root, g["url"], p["rank"], e(p["brand"]), e(p["name"]), p["rank"], root, g["url"], e(g["short"].lower()),
+        eur(p["price"]), eur(round(d["ref"], 2)), e(nldate(d["since"])), eur(d["low"]), e(nldate(d["first"])), shop_a(p, g, "btn btn-buy btn-sm", "deals"))
+
 # ---------- chrome ----------
-NAV = [("gidsen.html", "Alle gidsen"), ("keuzehulp.html", "Keuzehulp"), ("slimste-koop.html", "Slimste koop"), ("zo-kiezen-wij.html", "Zo kiezen wij")]
+NAV = [("gidsen.html", "Alle gidsen"), ("aanbiedingen/", "Aanbiedingen"), ("keuzehulp.html", "Keuzehulp"), ("slimste-koop.html", "Slimste koop"), ("zo-kiezen-wij.html", "Zo kiezen wij")]
 
 sys.path.insert(0, os.path.join(ROOT, "tools"))
 try:
@@ -289,6 +323,9 @@ winband = '<div class="mq winband">%s</div><div class="mq winband rev" style="ma
 fl_imgs = [win(g)["image"] for g in winners[:6]]
 floaters = '<div class="floaters" aria-hidden="true">%s</div>' % "".join('<div class="fl f%d" data-depth="%s"><div class="in"><img src="%s" alt=""></div></div>' % (i + 1, [.6, 1, .4, .8, .3, .5][i], e(im)) for i, im in enumerate(fl_imgs))
 
+home_deals = ('''<section data-hue="1" style="padding-bottom:0"><div class="wrap">
+<div class="sec-head rv"><div><span class="kick">Prijsdalingen</span><h2>Nu <span class="grad">echt goedkoper</span></h2></div><a class="more" href="aanbiedingen/">Alle %d aanbiedingen →</a></div>
+<div class="deals">%s</div></div></section>''' % (len(DEALS), "".join(deal_row(g, p, d, "") for g, p, d in DEALS[:4]))) if DEALS else '''<section data-hue="1" style="padding-bottom:0"><div class="wrap"><p class="muted"><a href="aanbiedingen/">Aanbiedingen</a>: hier verschijnen producten uit onze top 10's die minstens 10%% goedkoper zijn dan eerder gemeten.</p></div></section>'''
 home = '''
 <section class="hero" data-hue="0">%s
 <div class="hero-in">
@@ -307,6 +344,7 @@ home = '''
 <div class="gl">%s</div>
 </div></section>
 
+%s
 <section data-hue="1"><div class="wrap">
 <div class="sec-head rv"><div><span class="kick">Categorieën</span><h2>Waar ben je naar <span class="grad">op zoek?</span></h2></div><p>Kies een categorie en zie meteen de winnaars per productsoort.</p></div>
 <div class="bento">%s</div>
@@ -342,7 +380,7 @@ home = '''
 <p class="muted">watkoopik vergelijkt per productsoort de tien beste modellen die je nu in Nederland kunt kopen. Of je nu de <a href="beste/beste-airfryer.html">beste airfryer</a>, een <a href="beste/beste-stofzuiger.html">stille stofzuiger</a> of <a href="beste/beste-draadloze-oordopjes.html">draadloze oordopjes met noise cancelling</a> zoekt: elke gids begint met drie duidelijke winnaars, gevolgd door een vergelijkingstabel, uitleg per product met plus- en minpunten, een koopgids en antwoorden op veelgestelde vragen. Merken kunnen geen plek kopen. <a href="zo-kiezen-wij.html">Lees hoe wij kiezen</a>.</p>
 </div></section>
 ''' % (floaters, YEAR, searchbox(), chips, len(guides), len(guides), N_PROD, N_PROD, N_REV, format(N_REV, ",").replace(",", "."),
-       marquee(items[:half]), marquee(items[half:], rev=True), "".join(gcard(g) for g in popular[:6]), cat_cards, winband, len(guides), "".join(gcard(g) for g in guides[:9]),
+       marquee(items[:half]), marquee(items[half:], rev=True), "".join(gcard(g) for g in popular[:6]), home_deals, cat_cards, winband, len(guides), "".join(gcard(g) for g in guides[:9]),
        len(guides), len(guides), N_PROD, N_PROD, YEAR)
 home_ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": "watkoopik", "url": SITE + "/", "inLanguage": "nl-NL",
             "potentialAction": {"@type": "SearchAction", "target": SITE + "/gidsen.html?q={search_term_string}", "query-input": "required name=search_term_string"}},
@@ -460,6 +498,19 @@ for g in guides:
         seo, YEAR, top["brand"], top["name"], eur(top["price"]), bv["brand"], bv["name"], eur(bv["price"]))
     page(g["url"], title, desc, body, extra=extra, img=og_img(g, top))
 
+# ---------- aanbiedingen ----------
+def deals_body(root, kick="Aanbiedingen", h1="Echte prijsdalingen in onze top 10's", lead=None):
+    lead = lead or "Wij controleren elke dag de bol-prijs van alle %d producten in onze gidsen. Hier staan de producten die nu minstens 10%% goedkoper zijn dan de prijs die wij in de dertig dagen daarvoor maten. Geen adviesprijzen of verzonnen van-prijzen: alleen wat wij zelf hebben gemeten." % N_PROD
+    if DEALS:
+        lst = '<div class="deals">%s</div>' % "".join(deal_row(g, p, d, root) for g, p, d in DEALS)
+    else:
+        lst = '<div class="deal-empty"><h2>Nu even geen echte aanbiedingen</h2><p>Geen enkel product uit onze top 10\'s is op dit moment minstens 10%% goedkoper dan eerder gemeten. Dat gebeurt: prijzen bewegen per week. Kom later terug of bekijk <a href="%sslimste-koop.html">de slimste koop per productsoort</a>.</p></div>' % root
+    return '''<section data-hue="1" style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="%s">Home</a> › %s</nav><span class="kick" style="margin-top:14px">%s</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">%s</h1>
+<p class="muted" style="max-width:720px">%s</p><p class="muted" style="font-size:.85rem">%d producten met een gemeten prijsdaling · bijgewerkt %s · wij ontvangen mogelijk een vergoeding als je via onze links koopt.</p>%s</div></section>''' % (
+        root or "./", kick, kick, h1, lead, len(DEALS), nldate(TODAY.isoformat()), lst)
+page("aanbiedingen/index.html", "Aanbiedingen: echte prijsdalingen bij bol | watkoopik", "Producten uit onze top 10-gidsen die nu minstens 10% goedkoper zijn dan eerder gemeten bij bol. Dagelijks bijgewerkt, alleen echt gemeten prijzen.",
+     deals_body("../"), "aanbiedingen/", root="../")
+
 # ---------- keuzehulp ----------
 quiz = {}
 for g in guides:
@@ -517,7 +568,7 @@ prose("bedankt.html", "Bedankt", "Bedankt voor je bericht.", '<h1 style="font-si
 wr("stats.html", '<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><meta http-equiv="refresh" content="0;url=https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl"><title>Statistieken</title></head><body><a href="https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl">Naar het dashboard</a></body></html>')
 # lastmod volgt echte wijzigingen (nieuwste gids), niet de bouwdatum, zodat Google het signaal blijft vertrouwen
 LAST = max(g.get("updated", TODAY.isoformat()) for g in guides)
-urls = [("", LAST, "1.0"), ("gidsen.html", LAST, "0.8"), ("keuzehulp.html", LAST, "0.7"), ("slimste-koop.html", LAST, "0.7"),
+urls = [("", LAST, "1.0"), ("gidsen.html", LAST, "0.8"), ("aanbiedingen/", TODAY.isoformat(), "0.8"), ("keuzehulp.html", LAST, "0.7"), ("slimste-koop.html", LAST, "0.7"),
         ("zo-kiezen-wij.html", "2026-10-13", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
 urls += [("categorie/%s.html" % k, max(g.get("updated", TODAY.isoformat()) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
 urls += [(g["url"], g.get("updated", TODAY.isoformat()), "0.9") for g in guides]

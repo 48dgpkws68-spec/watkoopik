@@ -28,7 +28,7 @@ def check(path):
         if not 100 <= n <= 200: errs.append("product %d tekst is %d woorden" % (i + 1, n))
     vis = json.loads(json.dumps(g))
     for p in vis.get("products", []):
-        for k in ("bol_title", "url", "image", "ean", "synced", "search"): p.pop(k, None)
+        for k in ("bol_title", "url", "image", "ean", "synced", "search", "ph", "prev_price", "prev_date", "low_price"): p.pop(k, None)
     blob = json.dumps(vis, ensure_ascii=False)  # alleen zichtbare tekst
     if "—" in blob or "–" in blob: errs.append("bevat een em- of en-dash")
     for m in re.finditer(r".{30}, en\b.{10}", blob): errs.append("komma voor 'en': ..." + m.group(0) + "...")

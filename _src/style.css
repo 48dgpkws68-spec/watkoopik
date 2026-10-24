@@ -482,3 +482,14 @@ section .wrap.narrow.rv{background:rgba(18,10,40,.5);border:1px solid var(--line
   .podium{margin:12px 0 6px;gap:10px}
   .pd .chk{grid-column:2}
 }
+/* aanbiedingen */
+.deals{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,460px),1fr));gap:12px;margin-top:16px}
+.deal{display:grid;grid-template-columns:88px minmax(0,1fr) auto;gap:14px;align-items:center;border-radius:20px;padding:12px;background:#fff;border:1px solid var(--line)}
+.deal-img{display:grid;place-items:center;height:88px;background:#fff;border-radius:14px;border:1px solid var(--line);padding:6px}
+.deal-img img{max-height:100%;object-fit:contain}
+.deal h3{margin:4px 0 2px;font-size:1rem;line-height:1.25}.deal h3 a{color:var(--ink)}
+.deal small{color:var(--ink2);font-size:.8rem}
+.deal-pct{display:inline-block;font-size:.66rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:3px 9px;border-radius:999px;background:#e7f6ee;color:#0f5c4c}
+.deal-pr{display:flex;gap:10px;align-items:baseline;margin:4px 0 2px}.deal-pr b{font-family:"Sora",sans-serif;font-size:1.2rem}.deal-pr span{font-size:.82rem;color:var(--ink2)}
+.deal-empty{margin-top:18px;padding:22px;border-radius:20px;border:1px dashed var(--line);background:#fff}
+@media (max-width:640px){.deal{grid-template-columns:72px minmax(0,1fr)}.deal-img{height:72px}.deal-buy{grid-column:1/-1}.deal-buy .btn{width:100%;justify-content:center}}
