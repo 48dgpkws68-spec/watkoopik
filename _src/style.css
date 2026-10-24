@@ -493,3 +493,13 @@ section .wrap.narrow.rv{background:rgba(18,10,40,.5);border:1px solid var(--line
 .deal-pr{display:flex;gap:10px;align-items:baseline;margin:4px 0 2px}.deal-pr b{font-family:"Sora",sans-serif;font-size:1.2rem}.deal-pr span{font-size:.82rem;color:var(--ink2)}
 .deal-empty{margin-top:18px;padding:22px;border-radius:20px;border:1px dashed var(--line);background:#fff}
 @media (max-width:640px){.deal{grid-template-columns:72px minmax(0,1fr)}.deal-img{height:72px}.deal-buy{grid-column:1/-1}.deal-buy .btn{width:100%;justify-content:center}}
+/* vergelijkingen */
+.vs-link{display:block;margin:10px 0 0;padding:12px 16px;border-radius:16px;border:1px solid var(--line);background:#fff;color:var(--ink);font-size:.92rem}
+.vs-link b{color:var(--ink)}
+.podium.vs2{grid-template-columns:1fr 1fr}
+.vs-pc{list-style:none;padding:0;margin:0 0 14px;font-size:.86rem;color:var(--ink2)}
+.vs-sits{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,300px),1fr));gap:12px}
+.vs-sit{border:1px solid var(--line);border-radius:18px;padding:14px 16px;background:#fff}
+.vs-sit span{font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;color:var(--ink2)}
+.vs-sit b{display:block;margin:4px 0}.vs-sit p{margin:0;font-size:.9rem;color:var(--ink2)}
+@media (max-width:640px){.podium.vs2{grid-template-columns:minmax(0,1fr)}.vs-pc{display:none}}

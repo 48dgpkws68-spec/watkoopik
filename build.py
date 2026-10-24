@@ -99,6 +99,7 @@ CATS = {
     "auto": ("Auto en fiets", "Accessoires voor onderweg"),
     "reizen": ("Reizen en mode", "Koffers, tassen en horloges"),
     "hobby": ("Hobby en muziek", "Creatief, muziekinstrumenten en vrije tijd"),
+    "cadeaus": ("Cadeaus", "Cadeau-ideeën voor Sinterklaas, Kerst en verjaardagen"),
 }
 # Intro per categoriehub (80 tot 120 woorden, sinds 24 okt 2026) voor betere indexering van de hubpagina's
 CAT_INTRO = {
@@ -113,6 +114,7 @@ CAT_INTRO = {
 "computer": "Een laptop of monitor gebruik je elke dag, dus de juiste keuze scheelt jarenlang ergernis. Hier staan onze top 10's voor laptops voor studenten, thuiswerken en ouderen, MacBooks, gaming laptops, all-in-one pc's en monitoren voor werk en ontspanning. We vergelijken processor, werkgeheugen, opslag, schermkwaliteit, gewicht en accuduur. Die cijfers vertalen we naar wat jij er in de praktijk aan hebt. Zo zie je of je voor jouw gebruik echt een duurder model nodig hebt. Elke gids heeft een duidelijke winnaar, een slimste koop en een premium keuze, plus een koopgids zonder vakjargon.",
 "telefoon": "Een smartphone gaat al snel drie tot vijf jaar mee, dus updates en accuduur wegen zwaar. In deze categorie vergelijken we smartphones in elke prijsklasse, iPhones, Samsung-toestellen, smartwatches voor ouderen en bluetooth-trackers. We kijken naar camera, schermkwaliteit, opslag, accuduur en hoe lang de fabrikant software-updates belooft. Zo zie je of een toptoestel het meerbedrag waard is of dat een middenklasser voor jou genoeg is. Elke top 10 begint met de beste keuze, de slimste koop en de premium optie, gevolgd door een vergelijkingstabel en een koopgids.",
 "gaming": "Bij gaming bepalen details als verversingssnelheid, reactietijd en comfort hoe goed een spelsessie voelt. In deze categorie vergelijken we gaming monitoren, gaming headsets, gaming stoelen, gaming pc's en de PlayStation 5. We zetten specificaties zoals hertz, paneeltype, latency en verstelbaarheid naast elkaar en vatten samen wat gamers na weken gebruik melden. Zo zie je of je het verschil van een duurder model echt merkt of vooral betaalt voor verlichting. Elke top 10 begint met drie duidelijke winnaars en eindigt met een koopgids, zodat je de juiste keuze maakt voor jouw console of pc.",
+"cadeaus": "Een cadeau zoeken voor Sinterklaas, Kerst of een verjaardag kost vaak meer tijd dan je wilt. Daarom maken we cadeaugidsen op dezelfde manier als onze andere top 10's: per lijst tien echte producten die je nu bij bol kunt bestellen, met prijs, plus- en minpunten en voor wie het cadeau geschikt is. Je vindt lijsten per budget, zoals cadeaus voor hem of haar onder 50 euro. Ook zijn er lijsten per type ontvanger, zoals thuiswerkers, koks en ouders. Rond Black Friday op 27 november houden we de prijzen extra scherp in de gaten. Echte prijsdalingen zie je op onze pagina met aanbiedingen.",
 "kind": "Voor je kind wil je spullen die veilig zijn, lang meegaan en het dagelijks leven makkelijker maken. In deze categorie vergelijken we kinderwagens, autostoelen, babyfoons en flessenwarmers. We letten op veiligheidsnormen zoals i-Size, gewicht, inklapmaat, bereik en hoe makkelijk je iets schoonmaakt. Ook lezen we wat ouders na maanden gebruik melden. Zo zie je snel welk model past bij jouw auto, woning en budget. Elke top 10 begint met de beste keuze, de slimste koop en de premium optie, gevolgd door een vergelijkingstabel en een koopgids met de vragen die nieuwe ouders het vaakst stellen.",
 }
 ICONS = {
@@ -137,6 +139,7 @@ ICONS = {
     "outdoor": '<path d="M3 20l9-15 9 15z"/><path d="M12 5v15"/>',
     "auto": '<path d="M5 16l1.5-5h11L19 16"/><rect x="3" y="16" width="18" height="3" rx="1"/><circle cx="7" cy="19" r="1.5"/><circle cx="17" cy="19" r="1.5"/>',
     "reizen": '<rect x="5" y="7" width="14" height="13" rx="2"/><path d="M9 7V4h6v3"/>',
+    "cadeaus": '<rect x="3" y="8" width="18" height="13" rx="1.5"/><path d="M3 12h18"/><path d="M12 8v13"/><path d="M12 8c-2-4-6-4-6-1s6 1 6 1c2-4 6-4 6-1s-6 1-6 1"/>',
     "hobby": '<path d="M9 18V5l11-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="17" cy="16" r="3"/>',
 }
 def icon(cat, size=24):
@@ -190,6 +193,23 @@ for g in guides:
         if d and key not in _seen:
             _seen.add(key); DEALS.append((g, p, d))
 DEALS.sort(key=lambda x: (-x[2]["drop"], x[1]["rank"]))
+# ---------- vergelijkingen X vs Y (sinds 24 okt 2026, vsdata/vs.json) ----------
+# Producten worden op EAN gekoppeld: verdwijnt een van beide uit de gids, dan valt de pagina weg in plaats van verouderd te raken.
+VS_PAGES = []
+_gs = {g["slug"]: g for g in guides}
+try: _vs = json.load(open(os.path.join(ROOT, "vsdata", "vs.json"), encoding="utf-8"))
+except Exception: _vs = []
+for v in _vs:
+    g = _gs.get(v["gids"])
+    if not g: continue
+    pa = next((p for p in g["products"] if str(p.get("ean")) == v["a"]), None)
+    pb = next((p for p in g["products"] if str(p.get("ean")) == v["b"]), None)
+    if pa and pb:
+        VS_PAGES.append(dict(v, g=g, pa=pa, pb=pb, updated=max(g.get("updated", ""), "2026-10-24")))
+VS_BY_GUIDE = {}
+for v in VS_PAGES: VS_BY_GUIDE.setdefault(v["gids"], []).append(v)
+def vs_title(v): return "%s %s vs %s %s" % (v["pa"]["brand"], v["pa"]["name"], v["pb"]["brand"], v["pb"]["name"])
+
 def deal_row(g, p, d, root):
     return '''<div class="deal rv"><a class="deal-img" href="%s%s#p%d">%s</a><div class="deal-bd"><span class="deal-pct">%d%% lager</span><h3><a href="%s%s#p%d">%s %s</a></h3><small>Nr. %d in <a href="%s%s">%s</a></small>
 <div class="deal-pr"><b>%s</b><span>eerder gemeten %s</span></div><small class="chk">Gezakt op %s · laagste gemeten prijs %s sinds %s</small></div><div class="deal-buy">%s</div></div>''' % (
@@ -197,7 +217,7 @@ def deal_row(g, p, d, root):
         eur(p["price"]), eur(round(d["ref"], 2)), e(nldate(d["since"])), eur(d["low"]), e(nldate(d["first"])), shop_a(p, g, "btn btn-buy btn-sm", "deals"))
 
 # ---------- chrome ----------
-NAV = [("gidsen.html", "Alle gidsen"), ("aanbiedingen/", "Aanbiedingen"), ("keuzehulp.html", "Keuzehulp"), ("slimste-koop.html", "Slimste koop"), ("zo-kiezen-wij.html", "Zo kiezen wij")]
+NAV = [("gidsen.html", "Alle gidsen"), ("aanbiedingen/", "Aanbiedingen"), ("cadeaus/", "Cadeaus"), ("keuzehulp.html", "Keuzehulp"), ("slimste-koop.html", "Slimste koop"), ("zo-kiezen-wij.html", "Zo kiezen wij")]
 
 sys.path.insert(0, os.path.join(ROOT, "tools"))
 try:
@@ -287,6 +307,7 @@ def footer(root):
 def page(path, title, desc, body, active=None, extra="", root=None, img=""):
     if root is None: root = "../" * path.count("/")
     out = head(title, desc, path if path != "index.html" else "", root, extra, img) + chrome(active, root) + "<main>" + body + "</main>" + footer(root)
+    out = out.replace("categorie/cadeaus.html", "cadeaus/")  # cadeau-hub woont op /cadeaus/
     check(out, path); wr(path, out)
 
 # ---------- bouwstenen ----------
@@ -414,7 +435,7 @@ page("gidsen.html", "Alle top 10-gidsen | watkoopik", "Overzicht van alle top 10
 # ---------- categorieën ----------
 for k, v in CATS.items():
     gs = by_cat.get(k, [])
-    if not gs: continue
+    if not gs or k == "cadeaus": continue
     body = '''<section style="padding-top:20px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › %s</nav>
 <span class="kick" style="margin-top:14px">Categorie</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">De beste %s van %d</h1>
 <p class="muted" style="max-width:760px">%s</p><p class="muted" style="max-width:760px;font-size:.9rem">%d gidsen in deze categorie · %s</p>
@@ -490,10 +511,10 @@ for g in guides:
     extra = "".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in ld)
     body = '''<div class="wrap"><nav class="crumbs"><a href="../">Home</a> › <a href="../categorie/%s.html">%s</a> › %s</nav>
 <div class="ghero"><span class="kick">Top 10 · %s</span><h1 class="split">%s</h1><p class="intro">%s</p>
-<div class="meta-line"><span>Bijgewerkt <b>%s</b></span><span><b>%d</b> modellen</span><span><b>%s</b> reviews</span><span>Door <b>de redactie</b></span></div>
+<div class="meta-line"><span>Bijgewerkt <b>%s</b></span><span><b>%d</b> modellen</span>%s<span>Door <b>de redactie</b></span></div>
 <p class="disc disc-top">Bevat affiliatelinks, <a href="#disclaimer">zo verdienen wij</a>.</p></div>
 %s<div class="podium">%s</div>
-<p class="disc" id="disclaimer">Wij ontvangen mogelijk een vergoeding als je via onze links iets koopt. Dit kost jou niets extra en bepaalt niet welke producten in de lijst staan. <a href="../zo-kiezen-wij.html">Zo kiezen wij</a>.</p>
+%s<p class="disc" id="disclaimer">Wij ontvangen mogelijk een vergoeding als je via onze links iets koopt. Dit kost jou niets extra en bepaalt niet welke producten in de lijst staan. <a href="../zo-kiezen-wij.html">Zo kiezen wij</a>.</p>
 <div class="layout"><div>
 <h2 id="vergelijk" class="rv" style="margin-top:22px">Alle %d naast elkaar</h2>%s
 <h2 id="top10" class="rv">De top 10 in detail</h2>%s
@@ -507,8 +528,8 @@ for g in guides:
 <section style="padding:40px 0"><div class="sec-head"><h2>Meer gidsen in %s</h2><a class="more" href="../categorie/%s.html">Alle %d →</a></div><div class="gl">%s</div></section>
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
-        g["cat"], CATS[g["cat"]][0], e(g["short"]), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), e(str(g.get("reviews_total", ""))),
-        own_block(g), podium, len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        g["cat"], CATS[g["cat"]][0], e(g["short"]), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
+        own_block(g), podium, "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = g.get("seo") or g["query"]  # zoekterm voor titel en meta; query blijft de bol-zoekterm
@@ -530,6 +551,63 @@ def deals_body(root, kick="Aanbiedingen", h1="Echte prijsdalingen in onze top 10
         root or "./", kick, kick, h1, lead, len(DEALS), nldate(TODAY.isoformat()), lst)
 page("aanbiedingen/index.html", "Aanbiedingen: echte prijsdalingen bij bol | watkoopik", "Producten uit onze top 10-gidsen die nu minstens 10% goedkoper zijn dan eerder gemeten bij bol. Dagelijks bijgewerkt, alleen echt gemeten prijzen.",
      deals_body("../"), "aanbiedingen/", root="../")
+
+# ---------- vs-pagina's ----------
+def vs_page(v):
+    g, a, b = v["g"], v["pa"], v["pb"]; root = "../"
+    keys = list(a["specs"].keys())
+    rows = [("Plek in onze top 10", "Nr. %d" % a["rank"], "Nr. %d" % b["rank"]), ("Prijs bij bol", eur(a["price"]), eur(b["price"])), ("Onze score", "%s/10" % a["score"], "%s/10" % b["score"]), ("Reviews", a.get("reviews", ""), b.get("reviews", ""))]
+    rows += [(k, str(a["specs"].get(k, "-")), str(b["specs"].get(k, "-"))) for k in keys]
+    tbl = '<div class="tbl"><table><thead><tr><th>Specificatie</th><th>%s %s</th><th>%s %s</th></tr></thead><tbody>%s</tbody></table></div>' % (
+        e(a["brand"]), e(a["name"]), e(b["brand"]), e(b["name"]), "".join("<tr><td>%s</td><td>%s</td><td>%s</td></tr>" % (e(r[0]), e(r[1]), e(r[2])) for r in rows))
+    sit = "".join('<div class="vs-sit"><span>%s</span><b>%s %s</b><p>%s</p></div>' % (e(x[0]), e((a if x[1] == "a" else b)["brand"]), e((a if x[1] == "a" else b)["name"]), e(x[2])) for x in v["sit"])
+    def side(p):
+        return '<div class="pd%s"><span class="lbl">Nr. %d · %s</span><div class="im">%s</div><h3>%s %s</h3><div class="pr">%s</div>%s<p>%s</p><ul class="vs-pc">%s%s</ul>%s</div>' % (
+            " first" if p["rank"] == 1 else "", p["rank"], e(p.get("label") or "Top 10"), img_of(p), e(p["brand"]), e(p["name"]), eur(p["price"]), chk_html(p, g), e(p["oneliner"]),
+            "".join("<li>+ %s</li>" % e(x) for x in p["pros"][:3]), "".join("<li>- %s</li>" % e(x) for x in p["cons"][:2]), shop_a(p, g, "btn btn-buy btn-sm magnet", "vs"))
+    t = vs_title(v)
+    body = '''<div class="wrap"><nav class="crumbs"><a href="../">Home</a> › <a href="./">Vergelijkingen</a> › <a href="../%s">%s</a></nav>
+<div class="ghero"><span class="kick">Vergelijking</span><h1 class="split">%s</h1><p class="intro">%s</p><p class="disc disc-top">Bevat affiliatelinks, <a href="../disclaimer.html">zo verdienen wij</a>.</p></div>
+<div class="podium vs2">%s%s</div>
+<h2 class="rv" style="margin-top:26px">Wie wint per situatie?</h2><div class="vs-sits">%s</div>
+<h2 class="rv" style="margin-top:26px">Specificaties naast elkaar</h2>%s
+<div class="verdict rv"><span class="kick" style="color:#ffb48a">Eindoordeel</span><h2>Onze conclusie</h2><p>%s</p><div style="display:flex;gap:10px;flex-wrap:wrap">%s%s</div></div>
+<p class="muted" style="margin:24px 0 40px">Beide modellen staan in onze <a href="../%s">%s</a>. Daar vind je ook de acht andere modellen, een koopgids en veelgestelde vragen. Wij vergelijken op specificaties, prijs en kopersreviews.</p></div>''' % (
+        g["url"], e(g["short"]), e(t), e(v["intro"]), side(a), side(b), sit, tbl, e(v["verdict"]), shop_a(a, g, "btn btn-buy", "vs-oordeel"), shop_a(b, g, "btn btn-buy", "vs-oordeel"), g["url"], e(g["title"].lower().replace("de 10 beste", "top 10 van de beste")))
+    ld = [{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"}, {"@type": "ListItem", "position": 2, "name": "Vergelijkingen", "item": SITE + "/vs/"}, {"@type": "ListItem", "position": 3, "name": t, "item": SITE + "/vs/%s.html" % v["slug"]}]}]
+    tt = "%s: welke kies je? | watkoopik" % t
+    if len(tt) > 70: tt = "%s %s vs %s %s | watkoopik" % (a["brand"], a["name"].split()[0], b["brand"], b["name"].split()[0])
+    page("vs/%s.html" % v["slug"], tt, "%s %s (%s) of %s %s (%s)? Specificaties naast elkaar en per situatie de winnaar. %s" % (a["brand"], a["name"], eur(a["price"]), b["brand"], b["name"], eur(b["price"]), v["verdict"][:90].rsplit(" ", 1)[0] + "."), body,
+         extra='<script type="application/ld+json">%s</script>' % json.dumps(ld, ensure_ascii=False), img=a.get("image", ""))
+for v in VS_PAGES: vs_page(v)
+page("vs/index.html", "Vergelijkingen: X tegenover Y | watkoopik", "De populairste twijfelgevallen uit onze top 10's naast elkaar: specificaties, prijs en per situatie de winnaar.",
+     '''<section style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › Vergelijkingen</nav><span class="kick" style="margin-top:14px">Vergelijkingen</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">Twijfel je tussen twee modellen?</h1>
+<p class="muted" style="max-width:720px">Hier zetten we de modellen waar de meeste lezers tussen twijfelen naast elkaar, meestal de nummer 1 en 2 uit een gids. Per situatie zie je wie wint.</p><div class="rows" style="margin-top:18px">%s</div></div></section>''' % "".join(
+         '<a class="rw rv" href="%s.html"><div class="rw-img">%s</div><div><h3>%s</h3><small>Uit %s</small></div><b>→</b></a>' % (v["slug"], img_of(v["pa"]), e(vs_title(v)), e(v["g"]["short"].lower())) for v in VS_PAGES), root="../")
+
+# ---------- cadeaus ----------
+_cg = by_cat.get("cadeaus", [])
+cad_body = '''<section style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › Cadeaus</nav><span class="kick" style="margin-top:14px">Sinterklaas · Kerst · Black Friday</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">De beste cadeaus van %d</h1>
+<p class="muted" style="max-width:760px">%s</p><p class="muted" style="font-size:.9rem"><a href="../black-friday/">Black Friday 2026</a> · <a href="../aanbiedingen/">Echte prijsdalingen</a></p>
+<div class="gl" style="margin-top:22px">%s</div>
+<div class="sec-head" style="margin-top:40px"><h2>Ook vaak cadeau gegeven</h2></div><div class="gl">%s</div></div></section>''' % (
+    YEAR, e(CAT_INTRO["cadeaus"]), "".join(gcard(g, "../") for g in _cg) or '<p class="muted">De cadeaugidsen verschijnen hier binnenkort.</p>', "".join(gcard(g, "../") for g in [x for x in popular if x["cat"] != "cadeaus"][:6]))
+page("cadeaus/index.html", "Cadeau-ideeën %d: de beste cadeaus per budget | watkoopik" % YEAR, "Cadeaugidsen voor Sinterklaas en Kerst %d: cadeaus voor hem en haar onder 50 euro, tech-cadeaus, keukencadeaus en meer. Tien echte producten per lijst." % YEAR, cad_body, root="../",
+     extra='<script type="application/ld+json">%s</script>' % json.dumps({"@context": "https://schema.org", "@type": "ItemList", "name": "Cadeaugidsen %d" % YEAR, "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": SITE + "/" + x["url"], "name": x["title"]} for i, x in enumerate(_cg)]}, ensure_ascii=False))
+
+# ---------- black friday ----------
+# Toont tot en met Black Friday de best klikkende gidsen; van 27 november tot en met Cyber Monday (30 november 2026) staan de echte prijsdalingen bovenaan.
+BF = datetime.date(2026, 11, 27); BF_END = datetime.date(2026, 11, 30)
+bf_live = BF <= TODAY <= BF_END
+bf_deals = deals_body("../", "Black Friday", "Black Friday 2026: echte prijsdalingen", "Het is Black Friday. Hieronder staan alle producten uit onze top 10's die nu minstens 10%% goedkoper zijn dan wij de dertig dagen ervoor maten. Geen adviesprijzen, alleen gemeten bol-prijzen.")
+bf_body = '''<div id="bf-live"%s>%s</div><section style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › Black Friday</nav><span class="kick" style="margin-top:14px">Vrijdag 27 november 2026</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">Black Friday 2026: zo koop je slim</h1>
+<p class="muted" style="max-width:760px">Black Friday valt dit jaar op vrijdag 27 november, Cyber Monday op 30 november. Veel kortingen zijn dan minder groot dan ze lijken, omdat de van-prijs een adviesprijs is. Wij meten elke dag de echte bol-prijs van alle %d producten in onze gidsen. Op Black Friday verschijnen op deze pagina automatisch de producten die echt goedkoper zijn geworden. Tot die tijd vind je hieronder de gidsen die nu het meest bekeken worden, zodat je vooraf weet welk model je zoekt.</p>
+<p class="muted" style="font-size:.9rem"><a href="../aanbiedingen/">Bekijk de prijsdalingen van vandaag</a> · <a href="../cadeaus/">Cadeaugidsen</a></p>
+<div class="sec-head" style="margin-top:26px"><h2>Meest bekeken gidsen voor Black Friday</h2></div><div class="gl">%s</div>
+<div class="guide" style="margin-top:34px"><h2>Drie tips voor Black Friday</h2><h3>Kies vooraf je model</h3><p>Lees de gids nu al en noteer je favoriet en de prijs van vandaag. Dan zie je op Black Friday meteen of een korting echt iets oplevert.</p><h3>Vergelijk met de prijs van de laatste weken</h3><p>Een korting ten opzichte van een adviesprijs zegt weinig. Op onze aanbiedingenpagina vergelijken we alleen met prijzen die wij zelf hebben gemeten.</p><h3>Let op levertijd en verkoper</h3><p>Bestel cadeaus voor Sinterklaas op tijd. Kijk op bol ook of een product door bol zelf of door een partner wordt verkocht.</p></div></div></section>
+<script>(function(){var d=new Date(),s=new Date(2026,10,27),t=new Date(2026,11,1);var b=document.getElementById("bf-live");if(b&&d>=s&&d<t)b.hidden=false;})()</script>''' % (
+    "" if bf_live else " hidden", bf_deals, N_PROD, "".join(gcard(g, "../") for g in popular[:12]))
+page("black-friday/index.html", "Black Friday 2026: echte aanbiedingen en de beste koop | watkoopik", "Black Friday 2026 valt op 27 november. Zie welke producten echt goedkoper zijn (gemeten met dagelijkse bol-prijzen) en welke gidsen het meest bekeken worden.", bf_body, root="../")
 
 # ---------- keuzehulp ----------
 quiz = {}
@@ -590,7 +668,8 @@ wr("stats.html", '<!doctype html><html lang="nl"><head><meta charset="utf-8"><me
 LAST = max(g.get("updated", TODAY.isoformat()) for g in guides)
 urls = [("", LAST, "1.0"), ("gidsen.html", LAST, "0.8"), ("aanbiedingen/", TODAY.isoformat(), "0.8"), ("keuzehulp.html", LAST, "0.7"), ("slimste-koop.html", LAST, "0.7"),
         ("zo-kiezen-wij.html", "2026-10-13", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
-urls += [("categorie/%s.html" % k, max(g.get("updated", TODAY.isoformat()) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
+urls += [("categorie/%s.html" % k if k != "cadeaus" else "cadeaus/", max(g.get("updated", TODAY.isoformat()) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
+urls += [("black-friday/", TODAY.isoformat(), "0.8")] + [("vs/%s.html" % v["slug"], v["updated"], "0.6") for v in VS_PAGES]
 urls += [(g["url"], g.get("updated", TODAY.isoformat()), "0.9") for g in guides]
 wr("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join("<url><loc>%s/%s</loc><lastmod>%s</lastmod><priority>%s</priority></url>\n" % (SITE, u, d, pr) for u, d, pr in urls) + "</urlset>\n")
 
