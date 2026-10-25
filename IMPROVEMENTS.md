@@ -123,3 +123,14 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: check_stock elke ronde draaien blijft nodig, bol-aanbod wisselt binnen een dag; overweeg een dagelijkse automatische check met melding.
 - Idee voor later: beste-playstation-5 heeft #2 en #9 met dezelfde EAN (Slim Digital) en een rommelige volgorde; gids opschonen.
 - Voor Nick: niets.
+
+## 2026-10-25
+- Signalen: Umami 7 dagen 195 bezoekers, 276 weergaven, bounce 51%; best gelezen homepage 48, tv 65 inch 10, tv onder 500 euro 8, tv 55 inch, dweilrobot en kachel 7; bronnen watkoopik.com 36, chatgpt.com 5.
+- Signalen: 88 bol-klik-events (podium 64, tabel 21, kaart 2, sticky 1; positie 1: 41, positie 2: 25); top gidsen tv onder 500 en dweilrobot 8, kachel en stofzuiger huisdieren 7; top product Shark PowerDetect 7.
+- Signalen: Search Console 7 dagen 0 klikken, 64 vertoningen, positie 66,2, nog steeds alleen luchtreiniger-allergie-zoekopdrachten; indexering 16 geindexeerd, 26 gevonden niet geindexeerd, 3 gecrawld, 1 canonical; bol-cijfers: niet automatisch beschikbaar; check_links 1646 links 0 fouten, live test (zondag) 2/2 goed; steekproef dweilrobot + kachel badkamer schoon.
+- Gedaan: check_stock vond 17 kapotte koopknoppen, alle opgelost. Varianten: Ducky Dons 260x220, POCO M8 Pro 12/512 (laadsnelheid gecorrigeerd naar 100 W), Braun MQ55.254M, Xiaomi Rice Cooker 4L, Bosch EasyAquatak 120 (andere EAN). Vervangen: TCL 65T69C door TCL 65P71K (tv onder 500 #2, tv 65 #9), TCL 55P79L door TCL 55C69KS (tv onder 500 #9, tv 55 #10), Samsung QE65Q7FA door Hisense 65E7S, Philips HF3532 door HF3531 (nr. 1 kerstcadeau ouders) en HF3519 (wekker), XGIMI MoGo 3 Pro door MoGo 2 Pro, Vultec P800T door Komodo 800 W, SodaStream E-Terra door WMF Element One, KitchenAid Go door KitchenAid 5KHBV83, Xiaomi X20+ door X20 Max; verdicts en FAQ's mee aangepast. Waarom: TCL 65T69C was het meest geklikte tv-product, de knoppen gaven geen commissie meer. Verwacht: weer 1710/1710 te koop.
+- Gedaan: PS5-gids opgeschoond: dubbele EAN op #9 vervangen door Slim Disc Edition met 2 DualSense (909 euro), onjuiste prijsclaims bij #2 weggehaald. Waarom: idee van 24 okt, twee dezelfde producten en "goedkoopste" klopte niet meer.
+- Gedaan: Pinterest-wachtrij (watkoopik-social/queue_pin.json, backup .bak-20261025) herschikt: de eerstvolgende 16 pins zijn de 10 best klikkende gidsen plus de 6 cadeaugidsen, rest in de oude volgorde. Waarom: weekrapport-advies pins op tv/kachel/stofzuiger, en Pinterest heeft weken aanloop voor kerstzoekverkeer. Verwacht: meer verkeer naar gidsen die al converteren.
+- Idee voor later: vs-pagina LG 55QNED84 vs TCL 65T69C viel weg door de vervanging; nieuwe vs-pagina voor tv onder 500 maken met de nieuwe nr. 2.
+- Idee voor later: bij WMF Element One staat "Stroom nodig: niet vermeld", nakijken; zuigkracht 8.000 Pa bij Xiaomi X20 Max komt niet uit de bol-data, verifiëren.
+- Voor Nick: niets.
