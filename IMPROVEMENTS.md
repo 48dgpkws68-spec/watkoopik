@@ -113,3 +113,13 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Gedaan: dagroutine watkoopik-dagelijkse-gidsen: seo- en published-veld verplicht, voorrang seizoen en categorieën met kliks, tempo 3 per dag tot 70% geindexeerd, daarna 5 (backup SKILL.md.bak-20261024).
 - Idee voor later: na 7 dagen kliks per plek vergelijken (podium, deals, vs); vs-pagina's toevoegen voor gidsen met veel tabelkliks.
 - Voor Nick: niets.
+
+## 2026-10-24 (avondronde)
+- Signalen: Umami 7 dagen 206 bezoekers, 293 weergaven, bounce 51%; best gelezen tv 65 inch (16), tv 55 inch (9), tv onder 500 euro en kachel (7); bronnen watkoopik.com 47, chatgpt.com 5.
+- Signalen: 87 bol-klik-events (podium 58, tabel 26, kaart 2, sticky 1); top producten TCL 65T69C en Shark PowerDetect (7), Roborock Qrevo Edge 2 en Philips CX5120 (5); gidsen tv 65 inch 8, kachel, tv onder 500, dweilrobot, stofzuiger huisdieren 7.
+- Signalen: Search Console (t/m 22 okt) 50 vertoningen, positie 61,6, 0 klikken, alleen luchtreiniger-allergie-zoekopdrachten; indexering ongewijzigd 16 geindexeerd, 26 gevonden niet geindexeerd, 3 gecrawld, 1 canonical; bol-cijfers: niet automatisch beschikbaar; check_links 0 fouten, 0 zonder foto.
+- Gedaan: check_stock vond 20 kapotte koopknoppen (sinds de ochtend weer uit aanbod), 9 opgelost via leverbare variant (o.a. Ninja Double Stack wit, Soundcore Sleep A30, Vultec P800T zwart), 11 vervangen (Vultec M450 door Komodo 450 W in 3 gidsen, Miele Guard M1 Cat & Dog door Guard L1 Cat & Dog Flex en Guard M1 Flex, Rowenta RO4933 door Electrolux Pure D8, Philips BT5502 door BT5775, Dell U2725QE door U2723QE, PS5-bundel door Digital 1 TB, Winbot W1 Pro door Winbot Mini, Tefal RK8121 door Reishunger, Philips HF3519 door UPLY); reviews bij vervangers als echte "bol-score x van 5" i.p.v. geschatte aantallen; nu 1680/1680 te koop. Verwacht: geen dode knoppen, o.a. op de best klikkende gidsen stofzuiger huisdieren en kachel.
+- Gedaan: 2 nieuwe vs-pagina's: LG 55QNED84 vs TCL 65T69C (tv onder 500, de twee meest geklikte tv-producten) en Roborock Qrevo Edge 2 vs Dreame L40s Pro Ultra (dweilrobot, 7 kliks); waarom: idee "vs voor gidsen met veel kliks"; verwacht: meer kliks van twijfelaars, meten via plek vs / vs-oordeel en event vs-link.
+- Idee voor later: check_stock elke ronde draaien blijft nodig, bol-aanbod wisselt binnen een dag; overweeg een dagelijkse automatische check met melding.
+- Idee voor later: beste-playstation-5 heeft #2 en #9 met dezelfde EAN (Slim Digital) en een rommelige volgorde; gids opschonen.
+- Voor Nick: niets.

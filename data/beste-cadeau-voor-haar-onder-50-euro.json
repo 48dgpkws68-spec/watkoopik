@@ -51,10 +51,11 @@
       "url": "https://www.bol.com/nl/nl/p/the-ritual-of-ayurveda-giftset-m-2025/9300000242737632/",
       "image": "https://media.s-bol.com/RN8Ey7A3Bq5q/wjznLm8/550x385.jpg",
       "ph": {
-        "2026-10-24": 35.95
+        "2026-10-24": 35.95,
+        "2026-10-25": 35.95
       },
       "low_price": 35.95,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
@@ -87,16 +88,17 @@
       "url": "https://www.bol.com/nl/nl/p/lego-botanicals-roze-boeket-10342/9300000187249574/",
       "image": "https://media.s-bol.com/gOWG9LjAOgvl/VOVDmXW/549x840.jpg",
       "ph": {
-        "2026-10-24": 41.99
+        "2026-10-24": 41.99,
+        "2026-10-25": 41.99
       },
       "low_price": 41.99,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
       "brand": "BaByliss",
       "name": "Rose-Quartz krultang 32 mm",
-      "price": 36.0,
+      "price": 39.99,
       "score": 8.5,
       "label": null,
       "oneliner": "Krultang met keramische coating voor losse slagen.",
@@ -123,11 +125,14 @@
       "url": "https://www.bol.com/nl/nl/p/babyliss-32mm-curling-tong-c452e-krultang/9300000008358895/",
       "image": "https://media.s-bol.com/RMwr2DE09WvE/550x573.jpg",
       "ph": {
-        "2026-10-24": 36.0
+        "2026-10-24": 36.0,
+        "2026-10-25": 39.99
       },
       "low_price": 36.0,
-      "synced": "2026-10-24",
-      "reviews": "reviews op bol"
+      "synced": "2026-10-25",
+      "reviews": "reviews op bol",
+      "prev_price": 36.0,
+      "prev_date": "2026-10-24"
     },
     {
       "brand": "Remington",
@@ -159,10 +164,11 @@
       "url": "https://www.bol.com/nl/nl/p/remington-s8500-stijltang/9200000010161746/",
       "image": "https://media.s-bol.com/BLkPxZo2KGlQ/550x659.jpg",
       "ph": {
-        "2026-10-24": 32.99
+        "2026-10-24": 32.99,
+        "2026-10-25": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
@@ -195,16 +201,17 @@
       "url": "https://www.bol.com/nl/nl/p/oral-b-io2-elektrische-tandenborstel-calm-pink-1-stuk/9300000225710111/",
       "image": "https://media.s-bol.com/o55J5kqK9PZk/6R8GK8Q/550x780.jpg",
       "ph": {
-        "2026-10-24": 37.0
+        "2026-10-24": 37.0,
+        "2026-10-25": 37.0
       },
       "low_price": 37.0,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Yankee Candle",
       "name": "Autumn Daydream Large Jar",
-      "price": 31.41,
+      "price": 32.99,
       "score": 8.4,
       "label": null,
       "oneliner": "Grote geurkaars met tot 90 branduren.",
@@ -231,11 +238,14 @@
       "url": "https://www.bol.com/nl/nl/p/yankee-candle-autumn-daydream-signature-large-jar/9300000151778469/",
       "image": "https://media.s-bol.com/NqGxRMkvJyXz/L8nwBOw/486x840.jpg",
       "ph": {
-        "2026-10-24": 31.41
+        "2026-10-24": 31.41,
+        "2026-10-25": 32.99
       },
       "low_price": 31.41,
-      "synced": "2026-10-24",
-      "reviews": "reviews op bol"
+      "synced": "2026-10-25",
+      "reviews": "reviews op bol",
+      "prev_price": 31.41,
+      "prev_date": "2026-10-24"
     },
     {
       "brand": "Moleskine",
@@ -267,10 +277,11 @@
       "url": "https://www.bol.com/nl/nl/p/moleskine-classic-notitieboek-a5-hardcover-gelinieerd-zwart/1001004006406215/",
       "image": "https://media.s-bol.com/m8v8jB1WkpN9/OY5G9DE/550x366.jpg",
       "ph": {
-        "2026-10-24": 16.5
+        "2026-10-24": 16.5,
+        "2026-10-25": 16.5
       },
       "low_price": 16.5,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
@@ -302,10 +313,11 @@
       "url": "https://www.bol.com/nl/nl/p/stanley-quencher-h2-0-flowstate-thermos-cup-1-2-liter-black-2-0/9300000243719084/",
       "image": "https://media.s-bol.com/Lo7qG3xPm53W/ZVW6Bpg/389x840.jpg",
       "ph": {
-        "2026-10-24": 48.99
+        "2026-10-24": 48.99,
+        "2026-10-25": 48.99
       },
       "low_price": 48.99,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
@@ -337,10 +349,11 @@
       "url": "https://www.bol.com/nl/nl/p/philips-series-4000-epilator-en-scheerapparaat-langdurig-haarvrij-blauw-met-snoer-en-led-lamp-bre247-00/9300000221641951/",
       "image": "https://media.s-bol.com/m4MlGv8KjkBr/lO7VAXJ/550x571.jpg",
       "ph": {
-        "2026-10-24": 41.99
+        "2026-10-24": 41.99,
+        "2026-10-25": 41.99
       },
       "low_price": 41.99,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
@@ -373,10 +386,11 @@
       "url": "https://www.bol.com/nl/nl/p/philips-oneblade-intimate-trimmer-scheerapparaat-comfortabel-scheren-en-trimmen-van-intieme-zones-2x-skinprotect-mesje-waterproof-45-min-draadloos-gebruik-voor-haar-qp1930-34/9300000365096429/",
       "image": "https://media.s-bol.com/gzlyq5B3pJZY/lxGj9EJ/550x518.jpg",
       "ph": {
-        "2026-10-24": 44.99
+        "2026-10-24": 44.99,
+        "2026-10-25": 44.99
       },
       "low_price": 44.99,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     }
   ],

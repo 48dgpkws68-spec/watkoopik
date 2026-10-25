@@ -194,3 +194,5 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-tuinset | klussen | tuinset | De 10 beste tuinsets van 2026 | 🌿
 [ ] beste-lichtwekker | slapen | lichtwekker | De 10 beste lichtwekkers van 2026 | 🌅
 [ ] beste-webcam | computer | webcam | De 10 beste webcams van 2026 | 📷
+[x] beste-keramische-kachel | wonen | keramische kachel | De 10 beste keramische kachels van 2026 | 🔥
+[x] beste-warmtekussen | verzorging | elektrisch warmtekussen | De 10 beste elektrische warmtekussens van 2026 | 🔥

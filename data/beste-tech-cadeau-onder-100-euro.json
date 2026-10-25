@@ -51,10 +51,11 @@
       "url": "https://www.bol.com/nl/nl/p/jbl-go-5-draadloze-bluetooth-mini-speaker-voor-onderweg-en-thuis-sfeerverlichting-draadloos-muziek-box-boxje-10-uur-ip68-waterdicht-zwart/9300000252617209/",
       "image": "https://media.s-bol.com/qvQw499vRP1D/kZom2nN/550x376.jpg",
       "ph": {
-        "2026-10-24": 45.75
+        "2026-10-24": 45.75,
+        "2026-10-25": 45.75
       },
       "low_price": 45.75,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
@@ -87,10 +88,11 @@
       "url": "https://www.bol.com/nl/nl/p/new-anker-powerbank-87-w-max-snellaadaccu-20-000-mah-draagbare-oplader-met-geintegreerde-usb-c-kabel-2-usb-c-en-1-usb-a-voor-macbook-iphone-15-14-serie-samsung-switch-en-meer/9300000186254267/",
       "image": "https://media.s-bol.com/g9BmKOgVRMX6/9rOyBmY/550x550.jpg",
       "ph": {
-        "2026-10-24": 44.99
+        "2026-10-24": 44.99,
+        "2026-10-25": 44.99
       },
       "low_price": 44.99,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
@@ -123,10 +125,11 @@
       "url": "https://www.bol.com/nl/nl/p/apple-airtag-2e-generatie-1-stuk/9300000259692759/",
       "image": "https://media.s-bol.com/3WOL9o5EEzY4/nxZpX3p/550x550.jpg",
       "ph": {
-        "2026-10-24": 31.99
+        "2026-10-24": 31.99,
+        "2026-10-25": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
@@ -159,16 +162,17 @@
       "url": "https://www.bol.com/nl/nl/p/philips-hue-play-lichtbalk-tafellamp-basis-white-and-color-ambiance-geintegreerd-led-zwart-42w/9200000097879064/",
       "image": "https://media.s-bol.com/BRLRRAKoW1G2/nr5pXx4/550x402.jpg",
       "ph": {
-        "2026-10-24": 75.0
+        "2026-10-24": 75.0,
+        "2026-10-25": 75.0
       },
       "low_price": 75.0,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Ring",
       "name": "Battery Video Doorbell 2K",
-      "price": 74.0,
+      "price": 74.95,
       "score": 8.5,
       "label": null,
       "oneliner": "Draadloze videodeurbel met scherp 2K-beeld en melding op je telefoon.",
@@ -195,16 +199,19 @@
       "url": "https://www.bol.com/nl/nl/p/ring-battery-video-doorbell-speckled-grey-2k-video/9300000269606299/",
       "image": "https://media.s-bol.com/q3Opr92KDlEG/L87BZXw/550x805.jpg",
       "ph": {
-        "2026-10-24": 74.0
+        "2026-10-24": 74.0,
+        "2026-10-25": 74.95
       },
       "low_price": 74.0,
-      "synced": "2026-10-24",
-      "reviews": "reviews op bol"
+      "synced": "2026-10-25",
+      "reviews": "reviews op bol",
+      "prev_price": 74.0,
+      "prev_date": "2026-10-24"
     },
     {
       "brand": "Fitbit",
       "name": "Inspire 3",
-      "price": 69.0,
+      "price": 79.99,
       "score": 8.2,
       "label": null,
       "oneliner": "Lichte activity tracker met kleurenscherm en lange accuduur.",
@@ -231,11 +238,14 @@
       "url": "https://www.bol.com/nl/nl/p/fitbit-inspire-3-activity-tracker-heren-en-dames-zwart/9300000119715673/",
       "image": "https://media.s-bol.com/JXKKZBQK5gOl/VvVWD9/250x200.jpg",
       "ph": {
-        "2026-10-24": 69.0
+        "2026-10-24": 69.0,
+        "2026-10-25": 79.99
       },
       "low_price": 69.0,
-      "synced": "2026-10-24",
-      "reviews": "reviews op bol"
+      "synced": "2026-10-25",
+      "reviews": "reviews op bol",
+      "prev_price": 69.0,
+      "prev_date": "2026-10-24"
     },
     {
       "brand": "JBL",
@@ -267,10 +277,11 @@
       "url": "https://www.bol.com/nl/nl/p/jbl-tune-530bt-draadloze-on-ear-koptelefoon-zwart/9300000236204204/",
       "image": "https://media.s-bol.com/WJRGYxz8VYPX/Nx1gWyN/550x627.jpg",
       "ph": {
-        "2026-10-24": 50.95
+        "2026-10-24": 50.95,
+        "2026-10-25": 50.95
       },
       "low_price": 50.95,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
@@ -303,10 +314,11 @@
       "url": "https://www.bol.com/nl/nl/p/nintendo-switch-2-pro-controller-zwart/9300000228511367/",
       "image": "https://media.s-bol.com/rDxlR48Ay2pE/58zPp1Y/550x390.jpg",
       "ph": {
-        "2026-10-24": 79.99
+        "2026-10-24": 79.99,
+        "2026-10-25": 79.99
       },
       "low_price": 79.99,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
@@ -339,10 +351,11 @@
       "url": "https://www.bol.com/nl/nl/p/polaroid-go-gen-3-purple/9300000304083187/",
       "image": "https://media.s-bol.com/YG1Nq71Yppm0/mQ5X9Mr/550x542.jpg",
       "ph": {
-        "2026-10-24": 86.0
+        "2026-10-24": 86.0,
+        "2026-10-25": 86.0
       },
       "low_price": 86.0,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     },
     {
@@ -375,10 +388,11 @@
       "url": "https://www.bol.com/nl/nl/p/jbl-wave-buds-2-volledig-draadloze-oordopjes-wit/9300000191782680/",
       "image": "https://media.s-bol.com/JkOgl9g49GKK/9rXwNGz/550x318.jpg",
       "ph": {
-        "2026-10-24": 58.99
+        "2026-10-24": 58.99,
+        "2026-10-25": 58.99
       },
       "low_price": 58.99,
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "reviews": "reviews op bol"
     }
   ],

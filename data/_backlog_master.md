@@ -95,7 +95,6 @@
 [ ] beste-tapijtreiniger | huishouden | tapijtreiniger | De 10 beste tapijtreinigers van 2026 | 🧽
 [ ] beste-grastrimmer | klussen | grastrimmer | De 10 beste grastrimmers van 2026 | 🌿
 [ ] beste-capture-card | gaming | capture card | De 10 beste capture cards van 2026 | 🎥
-[ ] beste-keramische-kachel | wonen | keramische kachel | De 10 beste keramische kachels van 2026 | 🔥
 [ ] beste-elektrische-deken | slapen | elektrische deken | De 10 beste elektrische dekens van 2026 | 🔥
 [ ] beste-fietsslot | auto | fietsslot | De 10 beste fietssloten van 2026 | 🔒
 [ ] beste-cirkelzaag | klussen | cirkelzaag | De 10 beste cirkelzagen van 2026 | 🪚
@@ -251,7 +250,6 @@
 [ ] beste-versterker | audio | versterker | De 10 beste versterkers van 2026 | 🔊
 [ ] beste-slowjuicer | keuken | slowjuicer | De 10 beste slowjuicers van 2026 | 🍊
 [ ] beste-kettlebell | sport | kettlebell | De 10 beste kettlebells van 2026 | 🏋️
-[ ] beste-warmtekussen | gezondheid | elektrisch warmtekussen | De 10 beste elektrische warmtekussens van 2026 | 🔥
 [ ] beste-make-upspiegel | verzorging | make up spiegel met verlichting | De 10 beste make-upspiegels met verlichting van 2026 | 🪞
 [ ] beste-ip-camera-binnen | wonen | ip camera binnen | De 10 beste binnencamera's van 2026 | 📹
 [ ] beste-led-strip | wonen | led strip | De 10 beste ledstrips van 2026 | 🌈

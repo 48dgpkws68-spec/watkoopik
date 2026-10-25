@@ -22,7 +22,7 @@
     {
       "brand": "WOOOD",
       "name": "Thomas hoekbank ribstof",
-      "price": 1399.0,
+      "price": 1118.0,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "20+ reviews",
@@ -49,13 +49,16 @@
       "bol_title": "WOOOD Thomas Hoekbank Links - Ribstof - Vergrijsd Groen - 283x92x197",
       "url": "https://www.bol.com/nl/nl/p/woood-thomas-hoekbank-links-ribstof-vergrijsd-groen-283x92x197/9200000118418709/",
       "image": "https://media.s-bol.com/mGB7jj26G3A3/zvE9o52/550x151.jpg",
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "ph": {
         "2026-10-21": 1399.0,
         "2026-10-23": 1399.0,
-        "2026-10-24": 1399.0
+        "2026-10-24": 1399.0,
+        "2026-10-25": 1118.0
       },
-      "low_price": 1399.0
+      "low_price": 1118.0,
+      "prev_price": 1399.0,
+      "prev_date": "2026-10-24"
     },
     {
       "brand": "Beliani",
@@ -87,11 +90,12 @@
       "bol_title": "OSLO - Hoekbank - Lichtgrijs - Rechterzijde - 270 cm - Fluweel",
       "url": "https://www.bol.com/nl/nl/p/beliani-oslo-corner-sofa-grijs-fluweel/9200000121657125/",
       "image": "https://media.s-bol.com/wJzN6zW9gEzg/oZnMYgL/550x223.jpg",
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "ph": {
         "2026-10-21": 839.99,
         "2026-10-23": 839.99,
-        "2026-10-24": 839.99
+        "2026-10-24": 839.99,
+        "2026-10-25": 839.99
       },
       "low_price": 839.99
     },
@@ -124,11 +128,12 @@
       "bol_title": "WOOOD Cloud Hoekbank Links - Chenille - Taupe/Roze - 80x345x198 cm",
       "url": "https://www.bol.com/nl/nl/p/woood-cloud-hoekbank-links-chenille-taupe-roze-80x345x198-cm/9300000321534141/",
       "image": "https://media.s-bol.com/1RrAJPNoqQV3/oQD8QNL/550x157.jpg",
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "ph": {
         "2026-10-21": 2899.0,
         "2026-10-23": 2899.0,
-        "2026-10-24": 2899.0
+        "2026-10-24": 2899.0,
+        "2026-10-25": 2899.0
       },
       "low_price": 2899.0
     },
@@ -161,11 +166,12 @@
       "bol_title": "Zuiver Stones 3-zitsbank Chaise Longue Links Lichtbruin",
       "url": "https://www.bol.com/nl/nl/p/zuiver-stones-3-zitsbank-chaise-longue-links-lichtbruin/9300000407951679/",
       "image": "https://media.s-bol.com/rAn7NM6lqgW6/XQn3Ljl/550x232.jpg",
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "ph": {
         "2026-10-21": 1549.0,
         "2026-10-23": 1549.0,
-        "2026-10-24": 1549.0
+        "2026-10-24": 1549.0,
+        "2026-10-25": 1549.0
       },
       "low_price": 1549.0
     },
@@ -199,18 +205,19 @@
       "bol_title": "Meubella - Hoekbank Monet - Zwart - Leer - Rechts",
       "url": "https://www.bol.com/nl/nl/p/meubella-hoekbank-monet-zwart-leer-rechts/9300000170235384/",
       "image": "https://media.s-bol.com/yvNoPYEL5Z4W/kRODjKE/550x392.jpg",
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "ph": {
         "2026-10-21": 899.0,
         "2026-10-23": 899.0,
-        "2026-10-24": 899.0
+        "2026-10-24": 899.0,
+        "2026-10-25": 899.0
       },
       "low_price": 899.0
     },
     {
       "brand": "Dimehouse",
       "name": "Shane hoekbank chenille",
-      "price": 1249.95,
+      "price": 1124.96,
       "score": 8.6,
       "label": null,
       "reviews": "Nog weinig reviews",
@@ -236,15 +243,16 @@
       "bol_title": "Dimehouse Hoekbank beige chenille stof - 270x165 cm - Shane - links - Chenille - Japandi - 270 x 95 x 75 cm",
       "url": "https://www.bol.com/nl/nl/p/dimehouse-hoekbank-met-lounge-beige-chenille-stof-shane-links-chenille-japandi-292x75x169-cm/9300000265065778/",
       "image": "https://media.s-bol.com/P3pB3Xq9pKky/MZ5pkOB/550x550.jpg",
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "ph": {
         "2026-10-21": 1124.96,
         "2026-10-23": 1249.95,
-        "2026-10-24": 1249.95
+        "2026-10-24": 1249.95,
+        "2026-10-25": 1124.96
       },
       "low_price": 1124.96,
-      "prev_price": 1124.96,
-      "prev_date": "2026-10-21"
+      "prev_price": 1249.95,
+      "prev_date": "2026-10-24"
     },
     {
       "brand": "Bronx71",
@@ -275,11 +283,12 @@
       "bol_title": "Bronx71® Hoekbank Maine bouclé stof rood/roze rechts",
       "url": "https://www.bol.com/nl/nl/p/bronx71-hoekbank-maine-boucle-stof-rood-roze-rechts/9300000234960355/",
       "image": "https://media.s-bol.com/DvqGVJjv44yq/1jo3QJm/550x550.jpg",
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "ph": {
         "2026-10-21": 1199.95,
         "2026-10-23": 1199.95,
-        "2026-10-24": 1199.95
+        "2026-10-24": 1199.95,
+        "2026-10-25": 1199.95
       },
       "low_price": 1199.95
     },
@@ -313,11 +322,12 @@
       "bol_title": "ROKKE - Hoekbank elektrisch verstelbaar - Grijs - Links - Polyester",
       "url": "https://www.bol.com/nl/nl/p/beliani-rokke-hoekbank-grijs-kunststof/9300000034089676/",
       "image": "https://media.s-bol.com/q3lkZkG9v80R/P14n1Zl/550x219.jpg",
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "ph": {
         "2026-10-21": 1459.99,
         "2026-10-23": 1459.99,
-        "2026-10-24": 1459.99
+        "2026-10-24": 1459.99,
+        "2026-10-25": 1459.99
       },
       "low_price": 1459.99
     },
@@ -350,11 +360,12 @@
       "bol_title": "Lisomme Jelle Hoekbank Beige - Stof - met Verstelbare Chaise Longue - Links of Rechts - 2 Zits - Houten Poten",
       "url": "https://www.bol.com/nl/nl/p/lisomme-jelle-hoekbank-beige-stof-met-verstelbare-chaise-longue-links-of-rechts-2-zits-houten-poten/9300000192331701/",
       "image": "https://media.s-bol.com/YD8E9m6EQlyM/n56Kn45/550x255.jpg",
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "ph": {
         "2026-10-21": 761.0,
         "2026-10-23": 761.0,
-        "2026-10-24": 761.0
+        "2026-10-24": 761.0,
+        "2026-10-25": 761.0
       },
       "low_price": 761.0
     },
@@ -387,11 +398,12 @@
       "bol_title": "House Nordic Firenze Donkergrijs 2-Zits Hoekbank Rechts/Links",
       "url": "https://www.bol.com/nl/nl/p/firenze-bank-met-chaise-longue-donkergrijs/9300000168364342/",
       "image": "https://media.s-bol.com/JrKwkEmnKB2o/Dpk5Gk/550x265.jpg",
-      "synced": "2026-10-24",
+      "synced": "2026-10-25",
       "ph": {
         "2026-10-21": 579.0,
         "2026-10-23": 579.0,
-        "2026-10-24": 579.0
+        "2026-10-24": 579.0,
+        "2026-10-25": 579.0
       },
       "low_price": 579.0
     }
