@@ -17,7 +17,7 @@
   "updated": "2026-10-15",
   "reviews_total": "4.100",
   "intro": "Goed licht op je bureau voorkomt vermoeide ogen en hoofdpijn na een lange werkdag. Een goede bureaulamp geeft genoeg helderheid zonder te verblinden, laat je de kleurtemperatuur kiezen en neemt weinig ruimte in. Wij vergeleken de bureaulampen en monitorlampen die nu bij bol te koop zijn op lichtsterkte, kleurweergave, verstelbaarheid en ervaringen van kopers. Dit zijn de tien beste bureaulampen van 2026, van een simpele ledlamp voor twintig euro tot een slimme monitorlamp met achtergrondverlichting.",
-  "verdict": "De BenQ ScreenBar Pro is de beste bureaulamp voor wie achter een scherm werkt: hij verlicht je bureau zonder reflectie op je monitor en past de helderheid automatisch aan. De Stane LED-bureaulamp is de beste prijs-kwaliteit met vijf lichtkleuren en een dimmer voor minder dan dertig euro. Wil je het beste van het beste, dan is de BenQ ScreenBar Max voor twee monitoren met draadloze bediening de premium keuze.",
+  "verdict": "De BenQ ScreenBar Pro is de beste bureaulamp voor wie achter een scherm werkt: hij verlicht je bureau zonder reflectie op je monitor en past de helderheid automatisch aan. De Stane LED-bureaulamp is de beste prijs-kwaliteit met vijf lichtkleuren en een dimmer voor minder dan dertig euro. Wil je het beste van het beste, dan is de BenQ e-Reading LED-bureaulamp met een lichtvlak van 90 cm breed de premium keuze.",
   "products": [
     {
       "brand": "BenQ",
@@ -114,43 +114,40 @@
     },
     {
       "brand": "BenQ",
-      "name": "ScreenBar Max",
-      "price": 376.93,
+      "name": "e-Reading LED-bureaulamp",
+      "price": 229.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "50+ reviews",
-      "oneliner": "Monitorlamp die twee schermen tegelijk gelijkmatig verlicht.",
+      "reviews": "nog weinig reviews",
+      "oneliner": "Premium bureaulamp met een extra brede lichtkop die je hele bureau verlicht.",
       "specs": {
-        "Type": "Monitorlamp",
-        "Kleurtemperatuur": "2700-6500 K",
-        "Dimbaar": "Ja, automatisch",
-        "Voeding": "USB-C",
-        "Bevestiging": "Op monitor"
+        "Type": "Bureaulamp op voet",
+        "Kleurtemperatuur": "3000-5700 K",
+        "Dimbaar": "Ja, 23 standen",
+        "Voeding": "Netstroom (adapter)",
+        "Bevestiging": "Voet, klem los verkrijgbaar"
       },
       "pros": [
-        "Verlicht een opstelling met twee monitoren in één keer",
-        "Asymmetrische lichtbundel zonder schittering op het scherm",
-        "Automatische helderheid via de lichtsensor",
-        "Draadloze bedieningsknop op je bureau"
+        "Lichtvlak van 90 cm breed met minimaal 500 lux",
+        "Kleurweergave van Ra 95 of hoger voor natuurlijk licht",
+        "23 helderheidsniveaus en 13 kleurstanden",
+        "Stevige behuizing van aluminium en zinklegering"
       ],
       "cons": [
         "Prijzig voor een bureaulamp",
-        "Overkill als je maar één scherm gebruikt"
+        "Neemt meer ruimte in dan een monitorlamp"
       ],
-      "ideal": "Thuiswerkers en gamers met twee monitoren naast elkaar.",
-      "text": "De BenQ ScreenBar Max is de grote broer van de bekende ScreenBar. Waar de gewone versie één scherm verlicht, is deze lamp gemaakt voor een opstelling met twee monitoren. Hij hangt boven het midden van je schermen en verdeelt het licht over een breed vlak van je bureau. Dankzij de asymmetrische lichtbundel valt er geen licht op het scherm zelf, dus je hebt geen last van weerspiegeling.\n\nEen lichtsensor meet het licht in de kamer en past de helderheid automatisch aan. De kleurtemperatuur stel je in tussen warm 2700 K en koel 6500 K, zodat je overdag fris licht hebt en in de avond rustiger licht. De bediening gaat via een draadloze draaiknop die op je bureau ligt. Voeding loopt via USB-C. Werk je met één monitor, dan is de gewone ScreenBar voordeliger. Met twee schermen is dit de meest complete oplossing in deze lijst.",
-      "ean": "4718755097867",
-      "bol_title": "BenQ ScreenBar Max Bureaulamp voor Twee Monitoren | ASYM-TriZone Light™ & Automatische Verlichting",
-      "url": "https://www.bol.com/nl/nl/p/benq-screenbar-max-bureaulamp-voor-twee-monitoren-asym-trizone-light-automatische-verlichting/9300000353318694/",
-      "image": "https://media.s-bol.com/D4mWj2ZZo22x/AN4BZOB/550x550.jpg",
-      "synced": "2026-10-25",
+      "ideal": "Wie veel leest, tekent of met papier werkt en een groot bureau gelijkmatig wil verlichten.",
+      "text": "De BenQ e-Reading LED-bureaulamp is gemaakt voor wie uren aan een bureau leest, schrijft of tekent. De lange, gebogen lichtkop verlicht een strook van zo'n 90 cm breed met minimaal 500 lux. Recht onder de lamp haalt hij op 45 cm afstand 1600 lux. Daardoor heb je geen donkere hoeken op je bureau, ook niet bij een groot toetsenbord met documenten ernaast.\n\nDe kleurweergave ligt op Ra 95 of hoger, waardoor kleuren en tekst er natuurlijk uitzien. Je kiest uit 23 helderheidsniveaus en 13 kleurstanden tussen warm 3000 K en koel 5700 K. De behuizing is van aluminium en zinklegering en voelt degelijk aan. Hij staat op een eigen voet, een bureauklem koop je los. Het vermogen is maximaal 18 watt via een adapter. Werk je vooral achter een monitor, dan is de ScreenBar Pro handiger. Voor een groot bureau met papierwerk is dit de meest complete lamp in deze lijst.",
+      "ean": "4718755061998",
+      "bol_title": "BenQ - e-Reading Lamp - LED - 3000K-5700K - Dimbaar - Leeslampje voor Boek - Zilverwit - 18W",
+      "url": "https://www.bol.com/nl/nl/p/benq-e-reading-lamp-led-3000k-5700k-dimbaar-zilverwit-18w/9300000134399670/",
+      "image": "https://media.s-bol.com/RJYQKQDZN1Oz/2kx2BOW/550x510.jpg",
       "ph": {
-        "2026-10-24": 269.0,
-        "2026-10-25": 376.93
+        "2026-10-25": 229.0
       },
-      "low_price": 269.0,
-      "prev_price": 269.0,
-      "prev_date": "2026-10-24"
+      "low_price": 229.0,
+      "synced": "2026-10-25"
     },
     {
       "brand": "BenQ",

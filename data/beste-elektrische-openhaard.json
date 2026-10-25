@@ -218,45 +218,40 @@
       "low_price": 279.0
     },
     {
-      "brand": "Eurom",
-      "name": "Barcelona",
-      "price": 175.0,
+      "brand": "alpina",
+      "name": "Helsinki ND-183",
+      "price": 192.99,
       "score": 8.5,
       "label": null,
-      "reviews": "20+ reviews",
-      "oneliner": "Vrijstaande sfeerhaard van een Nederlands merk met 2.000 W.",
+      "reviews": "4,5/5 op bol",
+      "oneliner": "Vrijstaande sfeerhaard in zwart metaal met 2.000 W en een houtblokeffect.",
       "specs": {
         "Type": "Vrijstaand",
-        "Vermogen": "2.000 W",
-        "Vlameffect": "LED-vlameffect",
-        "Bediening": "Bedieningspaneel"
+        "Vermogen": "1.000 / 2.000 W",
+        "Vlameffect": "LED-vlameffect met houtblokken",
+        "Bediening": "Knoppen op de haard"
       },
       "pros": [
-        "Eurom heeft een goede servicereputatie in Nederland",
-        "2.000 watt verwarming",
+        "Twee standen van 1.000 en 2.000 watt",
         "Vlammen ook zonder warmte te gebruiken",
-        "Hoge gemiddelde beoordeling op bol"
+        "Instelbare thermostaat en oververhittingsbeveiliging",
+        "Strak zwart metalen ontwerp"
       ],
       "cons": [
-        "Vlambeeld minder geavanceerd dan Optiflame",
-        "Weinig slimme functies"
+        "Geen afstandsbediening of timer",
+        "Geschikt voor kamers tot ongeveer 20 m2"
       ],
-      "ideal": "Wie een eenvoudige, nette sfeerhaard wil van een merk met Nederlandse service.",
-      "text": "Eurom is een Nederlands merk dat vooral bekend is van kachels en ventilatoren. De Barcelona is hun vrijstaande sfeerhaard met een vlameffect en een kachel van 2.000 watt. Dat vermogen is vergelijkbaar met de Dimplex-modellen, zodat je een gemiddelde woonkamer prima kunt bijverwarmen. De vlammen kun je ook zonder verwarming laten branden.\n\nHet vlambeeld is wat eenvoudiger dan het Optiflame-systeem van Dimplex, maar voor de prijs prima. Slimme functies zoals een app ontbreken. Daar staat tegenover dat Eurom een eigen klantenservice in Nederland heeft, wat handig is als er na een paar jaar iets misgaat. Kopers op bol geven de Barcelona een hoge score, al is het aantal reviews nog beperkt. Kies hem als je een degelijke haard wilt van een merk dat je kent, zonder toeters en bellen. Voor een vaste plek in de woonkamer is hij een nuchtere keuze.",
-      "ean": "8713415363265",
-      "bol_title": "Eurom Barcelona - Elektrische Sfeerhaard - 2000 Watt - Met vlameffect",
-      "url": "https://www.bol.com/nl/nl/p/euromac-barcelona-sfeerhaard/9200000025429017/",
-      "image": "https://media.s-bol.com/YJKv3zmwXpV0/gJPZBol/550x709.jpg",
-      "synced": "2026-10-25",
+      "ideal": "Wie een nette vrijstaande sfeerhaard zoekt voor een kamer tot 20 m2 zonder slimme extra's.",
+      "text": "De alpina Helsinki ND-183 is een vrijstaande sfeerhaard in zwart metaal met een klassiek kachelmodel. Achter het glas zie je een houtblokeffect met LED-vlammen. Die vlammen kun je ook los aanzetten, zodat je op een zachte avond alleen sfeer hebt zonder dat de kamer warmer wordt. De haard is 74 cm hoog en weegt ruim 12 kilo, dus je zet hem makkelijk ergens anders neer.\n\nVerwarmen gaat in twee standen van 1.000 en 2.000 watt, met een instelbare thermostaat en een turbostand om snel op te warmen. Volgens de fabrikant is dat genoeg voor een kamer van 15 tot 20 m2. Een oververhittingsbeveiliging schakelt de kachel uit als hij te warm wordt. Een afstandsbediening en timer ontbreken, je bedient alles met knoppen op de haard. Kopers op bol geven hem gemiddeld 4,5 sterren. Kies hem als je een eenvoudige haard met een mooi uiterlijk wilt voor een kleinere kamer.",
+      "ean": "8711252248486",
+      "bol_title": "alpina Elektrische Sfeerhaard Helsinki ND-183 – Vrijstaande Elektrische Haard 1000/2000W met Verwarming, Instelbare Thermostaat en LED Vlammeneffect – Zwart Metaal",
+      "url": "https://www.bol.com/nl/nl/p/alpina-elektrische-sfeerhaard-helsinki-nd-183-elektrische-haard-met-verwarming-led-vlammeneffect/9300000167263236/",
+      "image": "https://media.s-bol.com/BjpYDvmgRA8N/k98mD6/540x840.jpg",
       "ph": {
-        "2026-10-20": 173.0,
-        "2026-10-21": 175.0,
-        "2026-10-23": 175.0,
-        "2026-10-24": 175.0
+        "2026-10-25": 192.99
       },
-      "low_price": 173.0,
-      "prev_price": 173.0,
-      "prev_date": "2026-10-20"
+      "low_price": 192.99,
+      "synced": "2026-10-25"
     },
     {
       "brand": "Classic Fire",
