@@ -404,51 +404,41 @@
     },
     {
       "brand": "TCL",
-      "name": "65T69C",
-      "price": 489.0,
+      "name": "65P71K",
+      "price": 509.0,
       "score": 8.1,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Goedkoopste 65 inch QLED met Google TV in deze lijst.",
       "specs": {
         "Paneel": "QLED",
         "Beeldfrequentie": "60 Hz",
         "Smart-tv": "Google TV",
-        "HDMI 2.1": "geen (HDMI 2.0, ALLM)",
-        "Geluid": "2.0-kanaals, 20 W"
+        "HDMI 2.1": "ja, met VRR en ALLM",
+        "Geluid": "2.0-kanaals, 20 W, Dolby Atmos"
       },
       "pros": [
         "Rond de 500 euro voor 65 inch QLED",
         "Google TV met Chromecast ingebouwd",
-        "Dolby Vision en Dolby Atmos",
-        "Hoogste beoordeling van alle budgetmodellen"
+        "Dolby Vision en HDR10+",
+        "HDMI 2.1 met VRR"
       ],
       "cons": [
-        "60 Hz en geen VRR op hoge framerates",
-        "Beperkte helderheid in HDR",
-        "Afstandsbediening heeft geen achtergrondverlichting"
+        "60 Hz, geen 120 Hz-gamen",
+        "Geen lokale dimming",
+        "Dun geluid van 20 watt"
       ],
-      "ideal": "Wie een grote tv voor de slaapkamer, het studentenhuis of een tweede kamer zoekt met een klein budget.",
-      "text": "Met de TCL 65T69C krijg je een 65 inch tv met quantum dots voor ongeveer 500 euro, de laagste prijs in deze vergelijking. De QLED-laag zorgt voor rijkere kleuren dan een gewone LED-tv en Dolby Vision wordt ondersteund. Verwacht geen HDR-vuurwerk, want de helderheid ligt rond de 350 nits en er is geen lokale dimming. Voor dagelijks tv kijken en streamen in een normaal verlichte kamer is het beeld echter ruim voldoende.\n\nGoogle TV is het grote pluspunt: snel, compleet qua Nederlandse apps en met Chromecast ingebouwd zodat je vanaf elke telefoon kunt casten. Game Master-modus met ALLM houdt de inputlag laag voor consolegames op 60 Hz. Kopers op bol geven de tv een 4,8, een van de hoogste scores in dit overzicht. Ze noemen vooral de prijs, de scherpte en het eenvoudige menu. Het geluid van 20 watt is dun, maar dat geldt voor elke tv in dit segment. Als budget de doorslag geeft, is dit de slimste koop.",
-      "ean": "5901292528584",
-      "bol_title": "TCL 65T69C - 65 inch - 4K QLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65t69c-65-inch-4k-qled-2025/9300000237197713/",
-      "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
-      "synced": "2026-10-25",
+      "ideal": "Wie een grote tv voor de woonkamer, slaapkamer of een studentenhuis zoekt met een klein budget.",
+      "text": "De TCL 65P71K is met 509 euro de goedkoopste tv in deze vergelijking. Je krijgt 65 inch met quantum dots, die voor vollere kleuren zorgen dan een gewone led-tv. Dolby Vision, HDR10+ en HLG worden ondersteund. De verlichting is Direct LED zonder dimzones, dus in een donkere kamer blijft zwart grijzig en HDR mist echte felheid. Voor dagelijks tv kijken en streamen in een normaal verlichte kamer is het beeld ruim voldoende.\n\nGoogle TV is snel en heeft alle Nederlandse apps, met Chromecast ingebouwd zodat je vanaf je telefoon cast. De HDMI 2.1-aansluiting met VRR en ALLM houdt de inputlag laag voor consolegames, al blijft het paneel op 60 Hz. TCL belooft minstens vijf jaar updates. Kopers op bol geven hem gemiddeld een 4,4 van de 5 en noemen vooral het formaat voor dit geld. Het geluid van 20 watt is dun, dus een soundbar is geen overbodige luxe.",
+      "ean": "5901292526986",
+      "bol_title": "TCL 65P71K - 65 inch - 4K QLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65p71k-65-inch-4k-qled-2025/9300000228002734/",
+      "image": "https://media.s-bol.com/nqrYKR0YAqPE/ADzPJjj/550x340.jpg",
       "ph": {
-        "2026-10-16": 499.99,
-        "2026-10-17": 499.99,
-        "2026-10-18": 499.99,
-        "2026-10-19": 499.99,
-        "2026-10-20": 499.99,
-        "2026-10-21": 499.99,
-        "2026-10-23": 499.99,
-        "2026-10-24": 489.0,
-        "2026-10-25": 489.0
+        "2026-10-25": 509.0
       },
-      "low_price": 489.0,
-      "prev_price": 499.99,
-      "prev_date": "2026-10-23"
+      "low_price": 509.0,
+      "synced": "2026-10-25"
     },
     {
       "brand": "Samsung",
@@ -530,7 +520,7 @@
     },
     {
       "q": "Wat is een goede 65 inch tv voor een klein budget?",
-      "a": "De TCL 65T69C biedt voor rond de 500 euro QLED-kleuren, Google TV en Dolby Vision. Heb je iets meer te besteden, dan geeft de Hisense 65E8S voor 799 euro Mini LED en 144 Hz, een flinke stap vooruit in helderheid en contrast."
+      "a": "De TCL 65P71K biedt voor rond de 500 euro QLED-kleuren, Google TV en Dolby Vision. Heb je iets meer te besteden, dan geeft de Hisense 65E8S voor 799 euro Mini LED en 144 Hz, een flinke stap vooruit in helderheid en contrast."
     },
     {
       "q": "Is OLED beter dan Mini LED?",

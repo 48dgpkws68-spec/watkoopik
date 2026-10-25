@@ -421,50 +421,41 @@
     },
     {
       "brand": "Xiaomi",
-      "name": "Robot Vacuum X20+",
-      "price": 379.99,
+      "name": "Robot Vacuum X20 Max",
+      "price": 414.93,
       "score": 8.2,
       "label": null,
-      "reviews": "720+ reviews",
-      "oneliner": "Zelfledigend station met dweilwas voor een scherpe prijs.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Sterk zuigende robot met zelfledigend station voor een scherpe prijs.",
       "specs": {
         "Type": "Zuigen + dweilen",
-        "Zuigkracht": "6.000 Pa",
+        "Zuigkracht": "8.000 Pa",
         "Accuduur": "tot 180 min",
-        "Station": "Legen, wassen, drogen, water",
+        "Station": "Legen en opladen",
         "Drempelhoogte": "tot 2 cm"
       },
       "pros": [
-        "Compleet station met warme-luchtdroging voor minder dan 500 euro",
-        "Roterende dweilen met 7 mm optillen",
-        "Goede laser-navigatie en kaartbeheer",
-        "Stofzak gaat tot 75 dagen mee"
+        "Hoge zuigkracht voor deze prijs",
+        "Station leegt de robot automatisch",
+        "Snelle laser-navigatie met kaarten en no-go-zones",
+        "Werkt met Google Assistant en Alexa"
       ],
       "cons": [
-        "Zuigkracht aan de lage kant",
         "Obstakelherkenning alleen via laser, kabels zijn een risico",
-        "Dweilen tillen niet hoog genoeg voor dik tapijt"
+        "Hoorbaar op de hoogste stand, tot 68 dB",
+        "Volledige functies alleen via de app met account"
       ],
-      "ideal": "Wie voor het eerst een robot koopt en direct een station wil dat het onderhoud grotendeels overneemt.",
-      "text": "Xiaomi bewijst met de X20+ dat een robot met een volledig station geen 1.000 euro hoeft te kosten. Het station leegt het reservoir in een zak die tot 75 dagen meegaat, wast de twee roterende dweilen en droogt ze met warme lucht zodat ze niet gaan ruiken. Daarmee heb je voor minder dan 500 euro een robot waar je weken niets aan hoeft te doen.\n\nDe zuigkracht van 6.000 Pa is prima op harde vloeren en voldoende voor dun tapijt. De navigatie met laser is snel en nauwkeurig, met meerdere kaarten en verboden zones in de app. Wat ontbreekt is een camera voor obstakels, dus kabels en sokken moet je zelf opruimen. De dweilen tillen 7 millimeter op, genoeg voor een dun kleed, niet voor hoogpolig. Reviews zijn lovend over de waarde voor het geld.",
-      "ean": "6941812768556",
-      "bol_title": "Xiaomi Robotstofzuiger X20+ - Zelflegend Station - Dweilfunctie - Ideaal voor Huisdieren",
-      "url": "https://www.bol.com/nl/nl/p/xiaomi-robotstofzuiger-x20-eu/9300000178004131/",
-      "image": "https://media.s-bol.com/Y9YjorNoMBk9/1wYW0go/550x708.jpg",
-      "synced": "2026-10-25",
+      "ideal": "Wie voor rond de 400 euro een krachtige robot met zelfledigend station zoekt.",
+      "text": "De Xiaomi Robot Vacuum X20 Max is een van de sterkste zuigers onder de 500 euro. Met 8.000 Pa trekt hij zand en kruimels uit voegen en haalt hij haren uit laagpolig tapijt. Hij dweilt ook en neemt drempels tot 2 centimeter. Op een volle accu rijdt hij tot 180 minuten, genoeg voor een groot huis in één keer. Na de ronde rijdt hij terug naar het station, dat het stofreservoir automatisch leegt in een stofzak.\n\nDe navigatie werkt met een laser. Hij brengt je huis snel in kaart en in de app stel je per kamer schema's, virtuele muren en verboden zones in. Je kunt hem ook bedienen met Google Assistant of Alexa. Een camera voor obstakels ontbreekt, dus kabels en sokken ruim je zelf op. Op de hoogste stand maakt hij tot 68 dB geluid. Kopers op bol geven hem de volle 5 sterren, al is het aantal reviews nog klein. Voor de prijs krijg je veel zuigkracht.",
+      "ean": "6941812777206",
+      "bol_title": "Xiaomi Robot Vacuum X20 Max EU",
+      "url": "https://www.bol.com/nl/nl/p/xiaomi-robot-vacuum-x20-max-eu-stofzuigen-dweilen-automatische-vuilafvoer-slimme-navigatie/9300000190066704/",
+      "image": "https://media.s-bol.com/gj849KQVoN9Y/n5q5Mk4/550x531.jpg",
       "ph": {
-        "2026-10-15": 379.99,
-        "2026-10-16": 379.99,
-        "2026-10-17": 379.99,
-        "2026-10-18": 379.99,
-        "2026-10-19": 379.99,
-        "2026-10-20": 379.99,
-        "2026-10-21": 379.99,
-        "2026-10-23": 379.99,
-        "2026-10-24": 379.99,
-        "2026-10-25": 379.99
+        "2026-10-25": 414.93
       },
-      "low_price": 379.99
+      "low_price": 414.93,
+      "synced": "2026-10-25"
     },
     {
       "brand": "Roborock",

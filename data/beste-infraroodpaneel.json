@@ -17,7 +17,7 @@
   "updated": "2026-10-20",
   "reviews_total": "1.200",
   "intro": "Een infraroodpaneel verwarmt geen lucht maar jou en de voorwerpen om je heen. Dat voelt prettig en werkt snel, vooral als je dichtbij zit. Het is geen wondermiddel: elke kilowattuur kost gewoon stroom. Wij vergeleken 31 panelen op vermogen, thermostaat, montage, afwerking en wat kopers op bol er na een winter van vinden. Dit zijn de tien beste infraroodpanelen die je nu kunt kopen, van een betaalbaar bureaupaneel tot een groot plafondmodel.",
-  "verdict": "De Eurom Mon Soleil 720 Wi-Fi is het beste infraroodpaneel voor de meeste mensen: degelijk gebouwd, met een goede app en geschikt voor de badkamer. De Vultec P800T is de beste prijs-kwaliteit, met 800 watt en een wifi-thermostaat voor rond de 150 euro. Wil je een grote ruimte verwarmen of het paneel tegen het plafond, dan is de Quality Heating QH-FR de premium keuze.",
+  "verdict": "De Eurom Mon Soleil 720 Wi-Fi is het beste infraroodpaneel voor de meeste mensen: degelijk gebouwd, met een goede app en geschikt voor de badkamer. De Komodo 800 W is de beste prijs-kwaliteit, met 800 watt en een wifi-thermostaat voor rond de 150 euro. Wil je een grote ruimte verwarmen of het paneel tegen het plafond, dan is de Quality Heating QH-FR de premium keuze.",
   "products": [
     {
       "brand": "Eurom",
@@ -60,43 +60,39 @@
       "low_price": 242.99
     },
     {
-      "brand": "Vultec",
-      "name": "P800T infraroodpaneel 800 W",
-      "price": 179.0,
-      "score": 8.8,
+      "brand": "Komodo",
+      "name": "Infrarood verwarmingspaneel 800 W 100 x 60 cm",
+      "price": 149.95,
+      "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "100+ reviews",
-      "oneliner": "Veel vermogen voor weinig geld, met wifi-thermostaat en voetjes.",
+      "reviews": "bol-score 4,2 van 5",
+      "oneliner": "Veel vermogen voor weinig geld, met wifi-app en thermostaat.",
       "specs": {
         "Vermogen": "800 W",
         "Thermostaat": "Ja, wifi",
-        "Montage": "Wand of staand",
+        "Montage": "Wand of verplaatsbaar",
         "Indicatie ruimte": "ca. 12 tot 14 m²"
       },
       "pros": [
         "Scherpe prijs voor 800 watt",
-        "Wifi-thermostaat inbegrepen",
-        "Hang je aan de wand of zet je op voetjes",
-        "Goede gemiddelde beoordeling op bol"
+        "Thermostaat en wifi-app met timer",
+        "Hang je aan de wand of zet je verplaatsbaar neer",
+        "Snel warm"
       ],
       "cons": [
         "Afwerking minder luxe dan bij Eurom",
-        "App is functioneel maar niet heel uitgebreid"
+        "Beoordeling iets lager dan bij de duurdere panelen"
       ],
       "ideal": "Wie voor een redelijk bedrag een flexibel paneel zoekt dat je kunt verplaatsen.",
-      "text": "Vultec is op bol een van de populairste merken in infraroodpanelen en de P800T laat zien waarom. Voor rond de 180 euro krijg je een paneel van 800 watt met een thermostaat die je via wifi bedient. Je kunt hem aan de wand monteren, maar hij wordt ook geleverd met voetjes. Zo zet je hem in de winter in de woonkamer en in het voorjaar in de werkkamer.\n\nMet 800 watt verwarm je een ruimte van ongeveer 12 tot 14 vierkante meter bij, afhankelijk van de isolatie. De thermostaat schakelt het paneel uit zodra de ingestelde temperatuur is bereikt. In de app stel je ook tijden in. Gebruikers op bol zijn positief over de snelle warmte en de eenvoudige installatie. Kritiekpunten gaan vooral over de wat eenvoudige uitstraling. Wie vooral wil dat het werkt, krijgt hier de meeste watt per euro van deze lijst.",
-      "ean": "8720387943821",
+      "text": "Komodo is op bol een bekende naam in betaalbare infraroodpanelen. Deze versie van 800 watt is de grote broer van het paneel van 450 watt verderop in de lijst. Voor rond de 150 euro krijg je een paneel van 100 bij 60 centimeter met thermostaat, ledscherm en een wifi-app met timer. Je hangt hem aan de wand of zet hem verplaatsbaar neer, zodat je de warmte meeneemt naar de kamer waar je zit.\n\nMet 800 watt verwarm je een ruimte van ongeveer 12 tot 14 vierkante meter bij, afhankelijk van de isolatie. De thermostaat schakelt het paneel uit zodra de ingestelde temperatuur is bereikt. Volgens Komodo is hij binnen enkele seconden warm. Kopers op bol geven gemiddeld een 4,2 van 5 en noemen vooral de snelle warmte en de prijs. Verwacht geen luxe afwerking. Wie vooral veel vermogen per euro wil, krijgt hier de meeste watt per euro van deze lijst.",
+      "ean": "8720892460127",
+      "bol_title": "Komodo Infrarood Verwarmingspaneel - 800W - 100x60 cm - Verplaatsbaar & Hangend - Thermostaat - LED Display & WiFi App - Infrarood Verwarming, Elektrische Kachel, Paneel - Voor 20m2",
+      "url": "https://www.bol.com/nl/nl/p/komodo-infrarood-paneel-800w-100x80-cm-verplaatsbaar-hangend-thermostaat-led-display-wifi-app-infrarood-verwarming-infrarood-kachel-voor-50m2/9300000189205592/",
+      "image": "https://media.s-bol.com/Jn1W3WBQ781y/Nk20gYD/550x532.jpg",
       "ph": {
-        "2026-10-20": 149.0,
-        "2026-10-21": 149.0,
-        "2026-10-23": 149.0,
-        "2026-10-24": 179.0,
-        "2026-10-25": 179.0
+        "2026-10-25": 149.95
       },
-      "low_price": 149.0,
-      "bol_title": "Vultec P800T Infrarood Verwarming - Infrarood Paneel - Wandmontage & Staand - Met WiFi Thermostaat - 800W Elektrische Kachel - Zwart",
-      "url": "https://www.bol.com/nl/nl/p/infrarood-verwarmingspaneel-800-watt-met-wifi-thermostaat-elektrische-verwarming-vrijstaand-zwart/9300000193784276/",
-      "image": "https://media.s-bol.com/qNPVDJLl55Wr/91nyPA4/550x543.jpg",
+      "low_price": 149.95,
       "synced": "2026-10-25"
     },
     {
@@ -405,7 +401,7 @@
         "Alles in de doos, geen losse thermostaat nodig"
       ],
       "cons": [
-        "Gemiddelde beoordeling iets lager dan Vultec",
+        "Gemiddelde beoordeling iets lager dan Komodo",
         "Minder bekend merk"
       ],
       "ideal": "Wie een compleet paneel wil dat je zowel met de app als met een afstandsbediening regelt.",
@@ -454,7 +450,7 @@
   "faq": [
     {
       "q": "Wat is het beste infraroodpaneel van 2026?",
-      "a": "Op basis van onze vergelijking is de Eurom Mon Soleil 720 Wi-Fi het beste infraroodpaneel van 2026, dankzij de degelijke bouw, de app met weekprogramma en IP24. De Vultec P800T is de beste prijs-kwaliteit."
+      "a": "Op basis van onze vergelijking is de Eurom Mon Soleil 720 Wi-Fi het beste infraroodpaneel van 2026, dankzij de degelijke bouw, de app met weekprogramma en IP24. De Komodo 800 W is de beste prijs-kwaliteit."
     },
     {
       "q": "Is een infraroodpaneel zuiniger dan een gewone elektrische kachel?",

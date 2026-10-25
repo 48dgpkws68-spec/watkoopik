@@ -278,46 +278,42 @@
       "prev_date": "2026-10-20"
     },
     {
-      "brand": "Samsung",
-      "name": "QE65Q7FA",
-      "price": 699.0,
+      "brand": "Hisense",
+      "name": "65E7S",
+      "price": 698.0,
       "score": 8.5,
       "label": null,
-      "reviews": "380+ reviews",
-      "oneliner": "Betaalbare 65 inch QLED van het merk dat QLED bedacht.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Betaalbare 65 inch QLED met Dolby Vision IQ en Atmos.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "QLED",
+        "Paneel": "QLED (Hi-QLED)",
         "Beeldfrequentie": "60 Hz",
-        "HDR": "HDR10+",
-        "Smart-tv": "Tizen"
+        "HDR": "Dolby Vision IQ, HDR10+, HLG",
+        "Smart-tv": "VIDAA"
       },
       "pros": [
-        "Quantum dots voor rijke kleuren",
-        "65 inch van een A-merk voor 700 euro",
-        "Tizen met Samsung TV Plus en Gaming Hub",
-        "Beoordeeld met 4,7 uit 5 op bol"
+        "65 inch QLED voor onder de 700 euro",
+        "Dolby Vision IQ en HDR10+",
+        "Lage inputlag van 10 ms",
+        "Beoordeeld met 5,0 uit 5 op bol"
       ],
       "cons": [
         "Geen lokale dimming",
         "60 Hz, geen 120 Hz-gamen",
-        "Geen Dolby Vision"
+        "VIDAA heeft geen KPN-app"
       ],
-      "ideal": "Wie een groot QLED-scherm voor tv-kijken en streamen wil tegen een scherpe prijs.",
-      "text": "De Samsung QE65Q7FA is een klassieke QLED-tv: een LCD-paneel met een quantum-dotlaag, zonder Mini-LED. Die quantum dots zetten blauw licht om in zuiver rood en groen, waardoor kleuren voller zijn dan bij een gewone LED-tv. Voor ongeveer 700 euro krijg je dat op 65 inch van het merk dat de techniek groot maakte.\n\nDe beperkingen horen bij de prijs. Zonder lokale dimming blijft zwart in een donkere kamer grijzig en de helderheid is te laag om HDR echt te laten spatten. Het paneel werkt op 60 Hz, prima voor tv-zenders, streaming en gewone console-games. Tizen is snel en compleet, met Samsung TV Plus voor gratis zenders en de Gaming Hub voor cloudgaming. HDR10+ is aanwezig. Kopers op bol geven hem gemiddeld 4,7 uit 5 en noemen de kleuren en het formaat voor dit geld. Voor dagelijks kijken overdag is dit een uitstekende instap-QLED.",
-      "ean": "8806097122425",
-      "bol_title": "Samsung QE65Q7FA - 65 inch - 4K QLED - 2025",
-      "url": "https://www.bol.com/nl/nl/p/samsung-qe65q7f2auxxn-qled-65-inch/9300000232280751/",
-      "image": "https://media.s-bol.com/q4jJg4D5AW2r/g5nyoZl/550x335.jpg",
-      "synced": "2026-10-25",
+      "ideal": "Wie een groot QLED-scherm voor tv kijken en streamen wil tegen een scherpe prijs.",
+      "text": "De Hisense 65E7S is een klassieke QLED-tv uit 2026: een LCD-paneel met quantum dots, zonder Mini-LED. Hisense noemt dat Hi-QLED. De quantum dots zorgen voor vollere kleuren dan bij een gewone led-tv en voor 698 euro krijg je dat op 65 inch. Dolby Vision IQ past het HDR-beeld aan op het licht in je kamer en HDR10+ wordt ook ondersteund. Dolby Atmos zit erin voor het geluid.\n\nDe beperkingen horen bij de prijs. Zonder lokale dimming blijft zwart in een donkere kamer grijzig en het paneel draait op 60 Hz. De inputlag van 10 ms en VRR via HDMI 2.1 maken hem wel geschikt voor gewone consolegames. VIDAA is snel en heeft de grote streamingapps, maar de KPN-app ontbreekt. Hisense belooft minstens vijf jaar updates. Kopers op bol geven hem tot nu toe een 5,0 uit 5. Voor dagelijks kijken overdag is dit een sterke instap-QLED.",
+      "ean": "6942351431710",
+      "bol_title": "Hisense 65E7S SmartTV - 65 inch - 4K Hi-QLED - 2026 - Hi-QLED Colour - Dolby Vision Atmos - AI 4K Upscaler - AI Smooth Motion - Game Mode Plus - Filmmaker Mode",
+      "url": "https://www.bol.com/nl/nl/p/hisense-65e7s-smarttv-65-inch-4k-hi-qled-2026-hi-qled-colour-dolby-vision-atmos-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-filmmaker-mode/9300000269685082/",
+      "image": "https://media.s-bol.com/qz7Q5kG9zr3R/DqNXEn5/550x342.jpg",
       "ph": {
-        "2026-10-20": 699.0,
-        "2026-10-21": 699.0,
-        "2026-10-23": 699.0,
-        "2026-10-24": 699.0,
-        "2026-10-25": 699.0
+        "2026-10-25": 698.0
       },
-      "low_price": 699.0
+      "low_price": 698.0,
+      "synced": "2026-10-25"
     },
     {
       "brand": "Hisense",

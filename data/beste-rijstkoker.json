@@ -296,49 +296,41 @@
     },
     {
       "brand": "Xiaomi",
-      "name": "Smart Multifunctional Rice Cooker",
-      "price": 49.99,
+      "name": "Multifunctional Rice Cooker 4L",
+      "price": 59.99,
       "score": 8.4,
       "label": null,
-      "reviews": "300+ reviews",
-      "oneliner": "Slimme rijstkoker die je met de app bedient.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Grote rijstkoker van 4 liter met 10 programma's en snelkookstand.",
       "specs": {
-        "Inhoud": "3 l",
-        "Porties": "tot 8",
-        "Programma's": "8",
+        "Inhoud": "4 l",
+        "Porties": "tot 16",
+        "Programma's": "10",
         "Warmhouden": "ja, tot 12 uur",
         "Stoommandje": "ja"
       },
       "pros": [
-        "Bediening en timer via de Xiaomi Home-app",
-        "Ruime pan van 3 liter",
-        "Veel recepten in de app",
-        "Scherpe prijs"
+        "Ruime pan van 4 liter voor gezinnen en meal prep",
+        "Snelkookstand: rijst in ongeveer 30 minuten",
+        "24-uurs timer en 12 uur warmhouden",
+        "Stoommandje, maatbeker en rijstschep inbegrepen"
       ],
       "cons": [
-        "App vraagt een account",
-        "Bediening op het apparaat is beperkt"
+        "Groot apparaat op het aanrecht",
+        "Geen app of wifi",
+        "Behuizing van kunststof"
       ],
-      "ideal": "Techliefhebbers die hun rijst op afstand willen starten.",
-      "text": "De Xiaomi Smart Multifunctional Rice Cooker is een rijstkoker met wifi. Via de Xiaomi Home-app start je het kookprogramma op afstand, stel je de timer in of kies je een recept. In de pan van 3 liter kook je tot acht porties rijst, maar ook pap, soep of cake. Op het apparaat zelf zitten acht standaardprogramma's.\n\nDe timer werkt tot 24 uur vooruit en na afloop houdt hij de rijst warm. Een stoommandje zit erbij. Kopers op bol zijn verrast door de prijs voor een slim apparaat en de goede rijstkwaliteit. Er zijn ook kanttekeningen: je hebt een Xiaomi-account nodig en sommige functies zijn alleen via de app te bereiken. Wie al andere Xiaomi-apparaten heeft, voegt hem zonder moeite toe. Voor ongeveer 50 euro is dit de meest betaalbare slimme rijstkoker in deze lijst.",
-      "ean": "6941812758410",
-      "bol_title": "Xiaomi Smart Multifunctional Rice Cooker | Slimme rijstkoker | 3L | 8 kookfuncties | Xiaomi Home | 24-uurs timer | Warmhoudfunctie",
-      "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-multifunctional-rice-cooker-eu/9300000174987406/",
-      "image": "https://media.s-bol.com/DjX9QrqnkWRY/wjw69wM/550x585.jpg",
-      "synced": "2026-10-25",
+      "ideal": "Gezinnen die voor weinig geld veel rijst in één keer willen koken.",
+      "text": "De Xiaomi Multifunctional Rice Cooker 4L is de grootste rijstkoker in deze prijsklasse. In de pan van 4 liter kook je 1 tot 8 maatbekers ongekookte rijst, goed voor 2 tot 16 kommen. Daarmee kook je in één keer voor een groot gezin of voor een paar dagen meal prep. Het element van 860 watt warmt snel op en met de snelkookstand is witte rijst in ongeveer 30 minuten klaar.\n\nVia het aanraakpaneel bovenop kies je uit 10 programma's, zoals meergranenrijst, congee, soep en stomen. Met de timer stel je tot 24 uur vooruit in en na afloop blijft de rijst tot 12 uur warm. De binnenpan heeft een antiaanbaklaag en het binnendeksel en de stoomklep haal je los om schoon te maken. Een stoommandje, maatbeker en rijstschep zitten erbij. Kopers op bol geven hem gemiddeld een 4,3. Een app of wifi heeft deze versie niet en het apparaat neemt flink wat ruimte in.",
+      "ean": "6941812797198",
+      "bol_title": "Xiaomi Multifunctional Rice Cooker 4L | Rijstkoker | 10 kookfuncties | 30 min snelkoken | 24-uurs timer | 12 uur warmhouden",
+      "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-multifunctional-rice-cooker-4l-slimme-rijstkoker-4-liter/9300000192208523/",
+      "image": "https://media.s-bol.com/LrG9DwRy7lmA/mwN5zwp/550x568.jpg",
       "ph": {
-        "2026-10-15": 49.99,
-        "2026-10-16": 49.99,
-        "2026-10-17": 49.99,
-        "2026-10-18": 49.99,
-        "2026-10-19": 49.99,
-        "2026-10-20": 49.99,
-        "2026-10-21": 49.99,
-        "2026-10-23": 49.99,
-        "2026-10-24": 49.99,
-        "2026-10-25": 49.99
+        "2026-10-25": 59.99
       },
-      "low_price": 49.99
+      "low_price": 59.99,
+      "synced": "2026-10-25"
     },
     {
       "brand": "Tefal",

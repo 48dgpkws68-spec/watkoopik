@@ -158,52 +158,41 @@
       "low_price": 251.0
     },
     {
-      "brand": "SodaStream",
-      "name": "E-Terra",
-      "price": 133.86,
-      "score": 8.8,
+      "brand": "WMF",
+      "name": "Element One",
+      "price": 106.0,
+      "score": 8.7,
       "label": null,
-      "reviews": "400+ reviews",
-      "oneliner": "Elektrische SodaStream met drie bruisstanden.",
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Stalen bruiswatertoestel met drie vaste bruisstanden.",
       "specs": {
-        "Cilinder": "Quick Connect 60 l",
-        "Flessen": "kunststof 1 l",
-        "Stroom nodig": "ja",
-        "Bediening": "3 knoppen",
-        "Materiaal": "kunststof"
+        "Cilinder": "schroefcilinder 60 l",
+        "Flessen": "kunststof (PET)",
+        "Stroom nodig": "niet vermeld",
+        "Bediening": "knop met 3 standen",
+        "Materiaal": "roestvrij staal"
       },
       "pros": [
-        "Drie vaste bruisstanden, altijd hetzelfde resultaat",
-        "Lichte druk op de knop volstaat",
-        "Quick Connect-cilinder",
-        "Handig voor wie weinig kracht in de handen heeft"
+        "Drie vaste bruisniveaus met automatische stop",
+        "Werkt met standaard schroefcilinders",
+        "Behuizing van roestvrij staal",
+        "Compact op het aanrecht"
       ],
       "cons": [
-        "Stopcontact nodig",
-        "Duurder dan de handmatige Terra"
+        "Fles mag niet in de vaatwasser",
+        "Duurder dan de Terra"
       ],
-      "ideal": "Wie steeds precies dezelfde hoeveelheid bubbels wil zonder te pompen.",
-      "text": "De SodaStream E-Terra is de elektrische versie van de Terra. In plaats van zelf op de knop te drukken, kies je een van de drie bruisstanden: licht, medium of extra. Het apparaat doseert het koolzuur automatisch, waardoor je elke keer precies hetzelfde resultaat krijgt. Dat is fijn voor wie de bubbels steeds precies goed wil hebben.\n\nHet apparaat gebruikt de Quick Connect-cilinder die je met een hendel vastklikt. Je hebt wel een stopcontact nodig, dus hij is minder flexibel te plaatsen. Kopers op bol noemen vooral het gemak voor ouderen en mensen met weinig kracht in de handen. De elektrische bediening geeft wel iets meer geluid. Er past alleen een kunststof fles in. Wie het gemak van een knop belangrijker vindt dan de prijs, haalt met de E-Terra een comfortabel apparaat in huis.",
-      "ean": "7290116742786",
-      "bol_title": "Sodastream Bruiswatermachine E-Terra Zwart",
-      "url": "https://www.bol.com/nl/nl/p/sodastream-e-terra-zwart-incl-quick-connect-koolzuurcilinder-elektrisch/9300000154359557/",
-      "image": "https://media.s-bol.com/rNxG9MrjXgYk/pygw42/250x200.jpg",
-      "synced": "2026-10-25",
+      "ideal": "Wie steeds dezelfde hoeveelheid bubbels wil uit een stalen toestel.",
+      "text": "De WMF Element One is een bruiswatertoestel van roestvrij staal met drie vaste bruisniveaus: grote, medium en fijne bubbels. Je kiest de stand met één druk op de knop en het apparaat stopt automatisch zodra het niveau is bereikt. Zo krijg je elke keer hetzelfde resultaat zonder zelf te tellen hoe vaak je drukt. Dat is fijn voor wie weinig kracht in de handen heeft.\n\nDe kunststof fles klik je met een korte draai vast. Het toestel werkt met standaard schroefcilinders van 60 liter, dus je zit niet vast aan één merk koolzuur. Let op: de fles mag niet in de vaatwasser en heeft een houdbaarheidsdatum, net als bij SodaStream. De behuizing van Cromargan-staal oogt strak naast andere keukenapparaten. Kopers op bol geven gemiddeld een 4,5 van 5. Wie het gemak van vaste standen wil en staal mooier vindt dan kunststof, zit hier goed.",
+      "ean": "4000530758835",
+      "bol_title": "WMF Element One - Bruiswater Machine - Roestvrij Staal - Modern Design - Compact",
+      "url": "https://www.bol.com/nl/nl/p/wmf-element-one-bruiswater-machine-roestvrij-staal-06-0811-6040/9300000238721686/",
+      "image": "https://media.s-bol.com/rD9Onoxpp7xk/vgDrDwM/250x200.jpg",
       "ph": {
-        "2026-10-15": 133.86,
-        "2026-10-16": 133.86,
-        "2026-10-17": 133.86,
-        "2026-10-18": 133.86,
-        "2026-10-19": 133.86,
-        "2026-10-20": 133.86,
-        "2026-10-21": 133.86,
-        "2026-10-23": 133.34,
-        "2026-10-24": 133.34,
-        "2026-10-25": 133.86
+        "2026-10-25": 106.0
       },
-      "low_price": 133.34,
-      "prev_price": 133.34,
-      "prev_date": "2026-10-24"
+      "low_price": 106.0,
+      "synced": "2026-10-25"
     },
     {
       "brand": "SodaStream",
@@ -489,7 +478,7 @@
     },
     {
       "h": "Met of zonder stroom?",
-      "p": "De meeste bruiswatertoestellen werken zonder stroom. Je bepaalt zelf hoeveel je drukt. Elektrische modellen zoals de E-Terra hebben vaste standen en geven elke keer hetzelfde resultaat. Dat is handig voor wie weinig kracht in de handen heeft, maar je hebt wel een stopcontact nodig."
+      "p": "De meeste bruiswatertoestellen werken zonder stroom. Je bepaalt zelf hoeveel je drukt. Automatische modellen zoals de WMF Element One hebben vaste standen en geven elke keer hetzelfde resultaat. Dat is handig voor wie weinig kracht in de handen heeft."
     },
     {
       "h": "Wat kost bruiswater per liter?",
