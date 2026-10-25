@@ -5,7 +5,7 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-luchtreiniger-slaapkamer | wonen | luchtreiniger slaapkamer | De 10 beste stille luchtreinigers voor de slaapkamer van 2026 | 🛏️
 [ ] beste-luchtreiniger-katten | wonen | luchtreiniger kattenallergie | De 10 beste luchtreinigers bij kattenallergie van 2026 | 🐈
 [ ] beste-tv-onder-1000-euro | elektronica | tv onder 1000 euro | De 10 beste tv's onder 1000 euro van 2026 | 📺
-[ ] beste-elektrische-kachel-badkamer | wonen | elektrische kachel badkamer | De 10 beste elektrische kachels voor de badkamer van 2026 | 🔥
+[x] beste-elektrische-kachel-badkamer | wonen | elektrische kachel badkamer | De 10 beste elektrische kachels voor de badkamer van 2026 | 🔥
 [ ] beste-robotstofzuiger-goedkoop | huishouden | robotstofzuiger goedkoop | De 10 beste goedkope robotstofzuigers van 2026 | 🤖
 [ ] beste-heteluchtborstel | verzorging | heteluchtborstel | De 10 beste heteluchtborstels van 2026 | 💇
 [x] beste-wanddroogrek | huishouden | wanddroogrek | De 10 beste wanddroogrekken van 2026 | 🧺
