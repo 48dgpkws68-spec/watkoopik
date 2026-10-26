@@ -318,49 +318,42 @@
       "low_price": 1035.0
     },
     {
-      "brand": "Sony",
-      "name": "Bravia 3 75 inch",
-      "price": 1014.0,
+      "brand": "TCL",
+      "name": "75C61B Pro",
+      "price": 999.0,
       "score": 8.3,
       "label": null,
-      "reviews": "150+ reviews",
-      "oneliner": "Betaalbare Sony op 75 inch met Google TV en nette beeldverwerking.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "75 inch QLED met Full Array-dimming, Google TV en Onkyo-geluid.",
       "specs": {
-        "Paneel": "LED",
+        "Paneel": "QLED, Full Array (128 zones)",
         "Beeldfrequentie": "60 Hz",
-        "HDR": "Dolby Vision, HDR10",
+        "HDR": "Dolby Vision, HDR10+, HLG",
         "Smart-tv": "Google TV",
-        "Bouwjaar": "2025"
+        "Bouwjaar": "2024"
       },
       "pros": [
-        "Sony-beeldverwerking voor natuurlijke kleuren",
-        "Google TV met Chromecast en AirPlay",
-        "Goede upscaling van gewone tv-zenders",
-        "Dolby Vision aanwezig"
+        "Full Array Local Dimming met 128 zones",
+        "Google TV met Chromecast",
+        "Onkyo 2.1-geluid met Dolby Atmos",
+        "Poten aan binnen- of buitenkant te plaatsen"
       ],
       "cons": [
         "60 Hz, minder geschikt voor fanatieke gamers",
-        "Matig contrast in het donker",
+        "Model uit 2024",
         "Beperkte helderheid voor HDR"
       ],
-      "ideal": "Wie vooral tv-zenders en series kijkt en Sony-beeld wil voor een lage prijs.",
-      "text": "De Bravia 3 is Sony's instapmodel en op 75 inch kost hij onder de 900 euro. Het paneel is een gewone LED zonder quantum dots of Mini-LED, dus verwacht geen spectaculair HDR-beeld. Waar hij wel in uitblinkt is de beeldverwerking. Sony is goed in het opschalen van HD-zenders en series naar 4K, waardoor journaals, talkshows en voetbal er rustig en natuurlijk uitzien op dit grote formaat.\n\nGoogle TV maakt hem compleet: alle Nederlandse apps, spraakbediening en casten vanaf je telefoon via Chromecast of AirPlay. Dolby Vision en Dolby Atmos zijn aanwezig. Het paneel werkt op 60 Hz, prima voor een gewone console of tv-kijken maar minder voor competitieve games. In een donkere kamer is het contrast matig. Kopers op bol geven hem 4,5 uit 5 en noemen vooral de bediening en de natuurlijke kleuren. Voor een groot, betrouwbaar scherm voor dagelijks gebruik is dit een veilige keuze.",
-      "ean": "4548736167780",
-      "bol_title": "Sony Bravia 3 - 75 inch - 4K LED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/sony-bravia-3-75-inch-4k-led-2025/9300000228487627/",
-      "image": "https://media.s-bol.com/B5N3B7oNK8gY/l5pO6Rr/550x345.jpg",
-      "synced": "2026-10-26",
+      "ideal": "Wie vooral tv kijkt en streamt en voor rond de 1.000 euro een groot scherm met goed contrast wil.",
+      "text": "De TCL 75C61B Pro is een model uit 2024 dat op 75 inch nu rond de 1.000 euro kost. Het grote verschil met een gewone LED-tv is de Full Array-verlichting met 128 dimzones. Die regelen het licht per gebied, waardoor zwart in een donkere kamer dieper blijft en lichte delen meer uitspringen. QLED-kleuren en ondersteuning voor Dolby Vision, HDR10+ en HLG maken hem breed inzetbaar voor films en series.\n\nGoogle TV zit erop met alle Nederlandse apps, spraakbediening en Chromecast. Het geluid komt van een 2.1-systeem van Onkyo met een basspeaker aan de achterkant en Dolby Atmos, beter dan bij de meeste tv's in deze prijsklasse. Voor gamers zijn HDMI 2.1 en ALLM aanwezig, maar het paneel blijft 60 Hz. Kopers op bol geven hem een 4,3. De poten kun je aan de buiten- of binnenkant zetten, handig op een smal meubel. Een degelijke keuze voor wie vooral tv kijkt en streamt op groot formaat.",
+      "ean": "5901292524128",
+      "bol_title": "TCL 75C61B Pro - 75 inch - 4K QLED - Full Array Local Dimming - 2024",
+      "url": "https://www.bol.com/nl/nl/p/tcl-75c61b-pro-75-inch-4k-qled-2024/9300000173450905/",
+      "image": "https://media.s-bol.com/Jx6kE3ER5XDK/rk8G7V2/550x341.jpg",
       "ph": {
-        "2026-10-20": 899.0,
-        "2026-10-21": 899.0,
-        "2026-10-23": 899.0,
-        "2026-10-24": 899.0,
-        "2026-10-25": 899.0,
-        "2026-10-26": 1014.0
+        "2026-10-26": 999.0
       },
-      "low_price": 899.0,
-      "prev_price": 899.0,
-      "prev_date": "2026-10-25"
+      "low_price": 999.0,
+      "synced": "2026-10-26"
     },
     {
       "brand": "Samsung",

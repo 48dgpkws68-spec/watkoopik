@@ -261,54 +261,42 @@
       "prev_date": "2026-10-25"
     },
     {
-      "brand": "Philips",
-      "name": "PureProtect 2200 Series",
-      "price": 192.0,
+      "brand": "Rowenta",
+      "name": "Pure Air XL Connect PU6080",
+      "price": 133.5,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Middenklasser met CADR van 420 m3/u voor ruimtes tot 109 m2.",
+      "reviews": "bol-score 4,2 van 5",
+      "oneliner": "Grote luchtreiniger met formaldehydefilter voor ruimtes tot 140 m2.",
       "specs": {
-        "CADR": "420 m3/u",
-        "Ruimte": "Tot 109 m2",
-        "Filter": "3-laags HEPA + actieve kool",
-        "Geluid min": "Circa 20 dB",
-        "App": "Ja, Philips Air+"
+        "CADR": "360 m3/u",
+        "Ruimte": "Tot 140 m2",
+        "Filter": "4-laags met HEPA, actieve kool en NanoCaptur",
+        "Geluid min": "Circa 17,5 dB",
+        "App": "Ja, Pure Air"
       },
       "pros": [
-        "Veel zuiveringskracht voor de prijs",
-        "Stille slaapstand",
-        "App met luchtkwaliteitsgegevens",
-        "Drielaags filter"
+        "Veel capaciteit voor rond de 135 euro",
+        "Zeer stille nachtstand van 17,5 dB",
+        "NanoCaptur-filter breekt formaldehyde af",
+        "Touchscreen met timer en uitgestelde start"
       ],
       "cons": [
-        "Iets minder krachtig dan de 3200",
+        "Lagere CADR dan de Philips 3200",
         "Vervangfilters extra",
-        "Vrij groot"
+        "Vrij groot en zwaar"
       ],
-      "ideal": "Wie een krachtige luchtreiniger wil voor woonkamer of open keuken onder de 200 euro.",
-      "text": "De PureProtect 2200 is de goedkopere broer van de 3200 in dezelfde Philips-reeks. Met een CADR van 420 kubieke meter per uur heeft hij nog steeds genoeg kracht voor een gemiddelde woonkamer of open keuken. Philips noemt ruimtes tot 109 vierkante meter. Net als bij de 3200 bestaat het filter uit drie lagen: een voorfilter, HEPA en actieve kool.\n\nEen sensor meet continu de luchtkwaliteit en past de snelheid automatisch aan. 's Nachts zet je hem in de slaapstand, waarin hij nauwelijks te horen is en de lampjes dimt. Via de Air+ app volg je de luchtkwaliteit en zie je wanneer het filter vervangen moet worden. Het apparaat is vrij groot en vervangfilters kosten extra. Kopers op bol geven gemiddeld een 4,6. Wie niet de volle kracht van de 3200 nodig heeft, bespaart hier geld zonder veel in te leveren.",
-      "ean": "8720389064678",
-      "bol_title": "Philips - PureProtect Quiet 2200-serie - 420 m³/u Cadr - AC2220/10",
-      "url": "https://www.bol.com/nl/nl/p/philips-cobra-pureprotect-quiet-2200-serie/9300000237436085/",
-      "image": "https://media.s-bol.com/WDG4O83q0zOv/jqmVW2R/550x682.jpg",
-      "synced": "2026-10-26",
+      "ideal": "Wie een grote woonkamer wil zuiveren en extra aandacht heeft voor geurtjes en formaldehyde.",
+      "text": "De Rowenta Pure Air XL Connect is een grote staande luchtreiniger met een CADR van 360 kubieke meter per uur. Rowenta noemt ruimtes tot 140 vierkante meter, dus ook een woonkamer met open keuken past. Het filter bestaat uit vier lagen: een voorfilter, actieve kool, een HEPA-laag en het eigen NanoCaptur-filter. Dat laatste breekt volgens Rowenta formaldehyde af, een stof die uit meubels en verf kan komen.\n\nSensoren meten de luchtkwaliteit en de automatische stand past de snelheid daarop aan, met een aparte dag- en nachtstand. In de stilste stand meldt Rowenta 17,5 dB, dus 's nachts hoor je hem nauwelijks. Via het touchscreen stel je een timer of uitgestelde start in en de app laat de luchtkwaliteit zien. Het apparaat is vrij groot en vervangfilters kosten extra. Kopers op bol geven gemiddeld een 4,2. Voor rond de 135 euro krijg je veel capaciteit.",
+      "ean": "3121047260800",
+      "bol_title": "Rowenta Pure Air PU6080 Luchtreiniger XL connect",
+      "url": "https://www.bol.com/nl/nl/p/rowenta-intense-pure-air-connect-pu6080-luchtreiniger/9200000097501326/",
+      "image": "https://media.s-bol.com/NAKRz08LLro2/q7joy4r/389x840.jpg",
       "ph": {
-        "2026-10-15": 195.0,
-        "2026-10-16": 195.0,
-        "2026-10-17": 196.0,
-        "2026-10-18": 195.0,
-        "2026-10-19": 196.0,
-        "2026-10-20": 196.0,
-        "2026-10-21": 196.0,
-        "2026-10-23": 192.0,
-        "2026-10-24": 192.0,
-        "2026-10-25": 192.0,
-        "2026-10-26": 192.0
+        "2026-10-26": 133.5
       },
-      "low_price": 192.0,
-      "prev_price": 196.0,
-      "prev_date": "2026-10-21"
+      "low_price": 133.5,
+      "synced": "2026-10-26"
     },
     {
       "brand": "Philips",

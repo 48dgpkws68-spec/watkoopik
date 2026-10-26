@@ -453,50 +453,41 @@
     },
     {
       "brand": "Samsung",
-      "name": "UE65U8090F",
-      "price": 549.0,
+      "name": "UE65M74H",
+      "price": 699.0,
       "score": 8.0,
       "label": null,
-      "reviews": "640+ reviews",
-      "oneliner": "Betaalbare Crystal UHD met Tizen en strak design.",
+      "reviews": "bol-score 4,8 van 5",
+      "oneliner": "Betaalbare Mini-LED van Samsung met Tizen en HDMI 2.1.",
       "specs": {
-        "Paneel": "LED (Crystal UHD)",
-        "Beeldfrequentie": "60 Hz",
+        "Paneel": "Mini-LED",
+        "Beeldfrequentie": "50 Hz (Motion Xcelerator tot 120 Hz)",
         "Smart-tv": "Tizen",
-        "HDMI 2.1": "geen (HDMI 2.0, ALLM)",
-        "Geluid": "2.0-kanaals, 20 W"
+        "HDMI 2.1": "ja, 3 poorten met eARC",
+        "Geluid": "20 W"
       },
       "pros": [
-        "Samsung-kwaliteit en Tizen voor rond de 550 euro",
-        "AirSlim-behuizing, dun en strak",
-        "SolarCell-afstandsbediening zonder batterijen",
-        "7 jaar Tizen-updates"
+        "Mini-LED voor dieper zwart dan een gewone LED-tv",
+        "Tizen met zeven jaar software-updates",
+        "Drie HDMI 2.1-poorten met eARC",
+        "3 jaar extra garantie via bol"
       ],
       "cons": [
-        "Geen quantum dots, kleuren minder verzadigd",
         "Geen Dolby Vision",
-        "60 Hz-paneel"
+        "Standaard 50 Hz-paneel",
+        "Basaal geluid van 20 W"
       ],
-      "ideal": "Wie een betrouwbare, eenvoudige 65 inch tv wil van een groot merk zonder extra's.",
-      "text": "De Samsung U8090F is het instapmodel van 2025 in de Crystal UHD-reeks en nu een van de scherpst geprijsde 65 inch tv's van een A-merk. Het LED-paneel haalt geen hoge HDR-waarden en mist quantum dots, maar de Crystal-processor levert een helder, rustig beeld dat voor dagelijks gebruik prima voldoet. Het AirSlim-design is opvallend dun en de voeten staan aan de buitenkant, zodat hij ook op een smal meubel past.\n\nTizen is het sterkste argument: een snel, overzichtelijk systeem met alle Nederlandse apps, Samsung TV Plus met gratis zenders en zeven jaar software-updates. De SolarCell-afstandsbediening laadt op met licht en heeft nooit nieuwe batterijen nodig. Kopers op bol geven de tv een 4,6 en noemen de prijs, het design en de eenvoudige installatie. Voor gamers zijn er ALLM en een Game Bar, maar het blijft een 60 Hz-paneel. Dit is een no-nonsense tv voor wie een groot scherm wil en beeldkwaliteit op OLED-niveau niet nodig heeft.",
-      "ean": "8806097090632",
-      "bol_title": "Samsung UE65U8090F - 65 inch - 4K LED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-ue65u8090f-65-inch-4k-led-2025/9300000231562914/",
-      "image": "https://media.s-bol.com/ZB1LNmn0DRn6/r0ZymEL/550x336.jpg",
-      "synced": "2026-10-26",
+      "ideal": "Wie een moderne 65 inch tv van een groot merk wil zonder veel uit te geven.",
+      "text": "De Samsung M74H is het instapmodel met Mini-LED van 2026 en neemt de plek in van de oudere Crystal UHD-reeks. Kleinere ledjes achter het scherm regelen het licht nauwkeuriger dan bij een gewone LED-tv, waardoor zwart dieper oogt en heldere delen beter uitkomen. Pure Spectrum Color zorgt voor natuurlijke kleuren zonder overdreven verzadiging. Het paneel draait standaard op 50 Hz en Motion Xcelerator maakt beweging tot 120 Hz vloeiender, handig bij voetbal en actiefilms.\n\nTizen blijft het sterke punt: alle Nederlandse apps, Samsung TV Plus met gratis zenders en zeven jaar software-updates. Er zijn drie HDMI 2.1-poorten met eARC voor een soundbar, plus HDR10+. Dolby Vision ontbreekt, zoals bij alle Samsung-tv's. Kopers op bol geven hem een 4,8 en bij bol krijg je 3 jaar extra garantie. Het geluid van 20 W is basaal. Voor rond de 700 euro is dit een moderne, betrouwbare 65 inch tv van een A-merk.",
+      "ean": "8806099134624",
+      "bol_title": "Samsung UE65M74H - 65 inch - 4K MiniLED - 2026 + 3 jaar extra garantie - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/samsung-65m74h-65-inch-4k-miniled-2026-smart-tv/9300000284690214/",
+      "image": "https://media.s-bol.com/xKymlBPnrDGr/nRGNJx4/550x346.jpg",
       "ph": {
-        "2026-10-16": 549.0,
-        "2026-10-17": 549.0,
-        "2026-10-18": 549.0,
-        "2026-10-19": 549.0,
-        "2026-10-20": 549.0,
-        "2026-10-21": 549.0,
-        "2026-10-23": 549.0,
-        "2026-10-24": 549.0,
-        "2026-10-25": 549.0,
-        "2026-10-26": 549.0
+        "2026-10-26": 699.0
       },
-      "low_price": 549.0
+      "low_price": 699.0,
+      "synced": "2026-10-26"
     }
   ],
   "guide": [

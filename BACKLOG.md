@@ -203,3 +203,4 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-keramische-kachel | wonen | keramische kachel | De 10 beste keramische kachels van 2026 | 🔥
 [x] beste-warmtekussen | verzorging | elektrisch warmtekussen | De 10 beste elektrische warmtekussens van 2026 | 🔥
 [x] beste-winterdekbed | slapen | winterdekbed | De 10 beste winterdekbedden van 2026 | ❄️
+- [x] beste-sinterklaascadeau-onder-25-euro (directeur 26 okt)

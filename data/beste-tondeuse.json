@@ -224,52 +224,40 @@
     },
     {
       "brand": "Braun",
-      "name": "Series 7 HC7590",
+      "name": "Series 5 HC5550",
       "price": 59.99,
-      "score": 8.6,
+      "score": 8.4,
       "label": null,
-      "reviews": "1.100+ reviews",
-      "oneliner": "Sensor past het vermogen aan, 17 standen en volledig wasbaar.",
+      "reviews": "4,7 sterren op bol",
+      "oneliner": "Levenslang scherpe messen, 17 lengtes tot 35 mm en Memory Lock.",
       "specs": {
-        "Mes": "Staal, levenslang scherp",
-        "Lengtes": "1 tot 21 mm, 17 standen",
-        "Accuduur": "70 min",
-        "Wasbaar": "Ja, volledig onder de kraan",
-        "Snoer": "Draadloos + met snoer"
+        "Mes": "RVS, levenslang scherp",
+        "Lengtes": "3 tot 35 mm, 17 standen",
+        "Accuduur": "50 min",
+        "Wasbaar": "Ja, afspoelbaar onder de kraan",
+        "Snoer": "Alleen draadloos"
       },
       "pros": [
-        "ProSense-sensor past het motorvermogen aan op de haardichtheid",
-        "Volledig waterdicht, hele apparaat onder de kraan",
-        "Vijf extra opzetstukken in de doos",
-        "Snellaadfunctie voor één knipbeurt"
+        "Twee kammen tot 35 mm, ook voor langer haar bovenop",
+        "Memory Lock onthoudt je laatste lengte",
+        "Rubberen grip ligt stevig in de hand",
+        "Etui en reinigingsborstel in de doos"
       ],
       "cons": [
-        "Maximaal 21 mm",
-        "Accu van 70 minuten is korter dan bij Philips"
+        "Accu van 50 minuten en niet te gebruiken tijdens het laden",
+        "Geen sensor die het vermogen aanpast"
       ],
-      "ideal": "Wie korte kapsels knipt en een robuuste, volledig wasbare tondeuse van een Duits merk wil.",
-      "text": "De Braun Series 7 HC7590 is de krachtigste thuistondeuse van Braun en heeft net als de Philips 9000 een sensor die het motorvermogen aanpast op de dikte van het haar. Daardoor hoef je bij dikke plukken niet te vertragen. Gebruikers melden in reviews dat hij strak knipt en niet trekt, ook bij kroezend haar.\n\nDe zeventien lengtestanden van 1 tot 21 millimeter verdeel je over de opzetkammen. In de doos zitten vijf extra opzetstukken. Het hele apparaat is waterdicht, dus je spoelt niet alleen het mes maar de volledige tondeuse onder de kraan af. De messen blijven volgens Braun scherp zonder olie. De accu gaat ongeveer 70 minuten mee en een korte laadbeurt is genoeg voor één knipbeurt. Nadelen zijn de maximale lengte van 21 millimeter en de accu die korter meegaat dan bij Philips. Voor korte kapsels is dit een betrouwbare keuze.",
-      "ean": "4987176251060",
-      "bol_title": "Braun Haartrimmer Tondeuse Series 7 HC7590 + 5 Tools - Levenslang Scherp Scheerblad - 17 Lengtes - Grijs",
-      "url": "https://www.bol.com/nl/nl/p/braun-haartrimmer-tondeuse-series-7-hc7590-5-tools-levenslang-scherp-scheerblad-17-lengtes-grijs/9300000224151593/",
-      "image": "https://media.s-bol.com/NgXLw647vOkL/ADlxwg9/550x589.jpg",
-      "synced": "2026-10-26",
+      "ideal": "Wie thuis korte tot halflange kapsels bijhoudt en een simpele, wasbare tondeuse van Braun wil.",
+      "text": "De Braun Series 5 HC5550 is een eenvoudige thuistondeuse voor wie zijn kapsel tussen twee kappersbezoeken bijhoudt. De messen blijven volgens Braun levenslang scherp en je hoeft ze niet te oliën. Met twee opzetkammen kies je uit zeventien lengtes van 3 tot 35 millimeter, zodat je ook de langere bovenkant kunt bijwerken.\n\nHandig is Memory Lock, dat de laatst gebruikte lengte onthoudt en vastzet. Zo begin je de volgende keer meteen op de juiste stand. Het handvat heeft een rubberen grip en de tondeuse spoel je na gebruik af onder de kraan. De Ni-MH-accu gaat ongeveer 50 minuten mee en laadt in een uur, maar met snoer knippen kan niet. Een sensor die het vermogen aanpast op dik haar, zoals bij de Philips 9000, ontbreekt. Op bol scoort hij gemiddeld 4,7 sterren. In de doos zitten een etui en een reinigingsborstel. Voor een nette basistondeuse is dit een degelijke keuze.",
+      "ean": "4987176251053",
+      "bol_title": "Braun Haartrimmer Tondeuse Series 5 HC5550 + 4 Tools - Levenslang Scherp Scheerblad - 17 Lengtes - Blauw",
+      "url": "https://www.bol.com/nl/nl/p/braun-haartrimmer-tondeuse-series-5-hc5550-4-tools-levenslang-scherp-scheerblad-17-lengtes-blauw/9300000224151602/",
+      "image": "https://media.s-bol.com/JMzywQWVGKyK/2kNE3Jj/550x589.jpg",
       "ph": {
-        "2026-10-15": 56.99,
-        "2026-10-16": 56.99,
-        "2026-10-17": 56.99,
-        "2026-10-18": 56.99,
-        "2026-10-19": 58.9,
-        "2026-10-20": 60.99,
-        "2026-10-21": 65.99,
-        "2026-10-23": 64.99,
-        "2026-10-24": 58.9,
-        "2026-10-25": 64.99,
         "2026-10-26": 59.99
       },
-      "low_price": 56.99,
-      "prev_price": 64.99,
-      "prev_date": "2026-10-25"
+      "low_price": 59.99,
+      "synced": "2026-10-26"
     },
     {
       "brand": "BaByliss",

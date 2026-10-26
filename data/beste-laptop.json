@@ -385,50 +385,41 @@
     },
     {
       "brand": "HP",
-      "name": "Victus 15 Ryzen 7 260 RTX 5050",
-      "price": 1349.0,
+      "name": "Victus 15 Ryzen AI 7 350 RTX 5060",
+      "price": 1351.0,
       "score": 8.3,
       "label": null,
       "reviews": "Nieuw op bol",
-      "oneliner": "Rustig ogende gaming-laptop die ook voor studie en werk past.",
+      "oneliner": "Rustig ogende gaming-laptop met RTX 5060 die ook voor studie en werk past.",
       "specs": {
-        "Processor": "AMD Ryzen 7 260",
-        "Geheugen": "16 GB",
-        "Opslag": "1 TB SSD",
-        "Scherm": "15,6 inch Full HD",
+        "Processor": "AMD Ryzen AI 7 350",
+        "Geheugen": "24 GB",
+        "Opslag": "512 GB SSD",
+        "Scherm": "15,6 inch Full HD 144 Hz",
         "Gewicht": "Circa 2,3 kg"
       },
       "pros": [
         "Sobere vormgeving die niet schreeuwt",
-        "Ryzen 7 260 met RTX 5050 voor games in Full HD",
-        "1 TB opslag",
-        "Goed toetsenbord voor lange sessies"
+        "RTX 5060 met 8 GB voor games in Full HD",
+        "24 GB werkgeheugen",
+        "Scherm van 144 Hz en toetsenbord met numeriek deel"
       ],
       "cons": [
-        "Scherm is minder fel dan bij duurdere modellen",
-        "Behuizing van kunststof",
-        "Accuduur kort bij gamen"
+        "Scherm van 300 nits is minder fel dan bij duurdere modellen",
+        "Opslag van 512 GB raakt snel vol met games",
+        "Behuizing van kunststof"
       ],
       "ideal": "Studenten die overdag werken en 's avonds willen gamen op één laptop.",
-      "text": "De Victus is de gaminglijn van HP voor wie geen opvallend ontwerp met felle ledverlichting zoekt. Deze versie combineert een AMD Ryzen 7 260 met een NVIDIA RTX 5050, genoeg om populaire games in Full HD te spelen met DLSS 4 aan. Met 16 GB werkgeheugen en een SSD van 1 TB heb je ruimte voor games, studiebestanden en video's zonder meteen een externe schijf te kopen.\n\nHet 15,6 inch scherm draait in Full HD en doet zijn werk, al is het minder fel en kleurrijk dan bij duurdere gaming-laptops. Het toetsenbord typt prettig, wat handig is als je er ook verslagen op schrijft. De behuizing is van kunststof en voelt degelijk maar niet luxe. Met ongeveer 2,3 kilo is hij mee te nemen naar college, maar reken bij gamen op een korte accuduur. Wie één laptop zoekt voor studie en spelen, vindt hier een nette middenweg.",
-      "ean": "0199642963627",
-      "bol_title": "HP Victus Gaming Laptop 15.6 Full HD - AMD Ryzen 7 260 - NVIDIA GeForce RTX 5050 - 16 GB DDR5 - 1 TB SSD",
-      "url": "https://www.bol.com/nl/nl/p/hp-victus-gaming-amd-ryzen-7-260-laptop-39-6-cm-full-hd-16-gb-ddr5-sdram-1-tb-ssd-nvidia-geforce-rtx-5050-wi-fi-6-windows-11-home-ai-pc-zwart/9300000241163418/",
-      "image": "https://media.s-bol.com/pAnxMm2PPRGr/8qKpOkr/550x472.jpg",
-      "synced": "2026-10-26",
+      "text": "De Victus is de gaminglijn van HP voor wie geen opvallend ontwerp met felle ledverlichting zoekt. Deze 15-fb3872nd combineert een AMD Ryzen AI 7 350 met acht kernen en een NVIDIA RTX 5060 met 8 GB videogeheugen. Daarmee speel je populaire games in Full HD op hoge instellingen, zeker met DLSS 4 aan. Het werkgeheugen van 24 GB is ruim voor gamen met een browser en Discord ernaast. De processor heeft ook een NPU, waardoor hij als Copilot+ PC werkt.\n\nHet 15,6 inch scherm draait in Full HD op 144 Hz, wat soepel oogt in snelle games, al is het met 300 nits minder fel dan bij duurdere modellen. De SSD van 512 GB raakt snel vol als je een paar grote games installeert. Het toetsenbord heeft witte verlichting en een numeriek deel. Met ongeveer 2,3 kilo is hij mee te nemen naar college. Wie één laptop zoekt voor studie en spelen, vindt hier een nette middenweg.",
+      "ean": "0199764416308",
+      "bol_title": "\"HP Victus Gaming 15-fb3872nd Copilot+ PC AMD Ryzen AI 7 350 Laptop 39,6 cm (15.6\"\") Full HD 24 GB DDR5-SDRAM 512 GB SSD NVIDIA GeForce RTX 5060 Wi-Fi 6 (802.11ax) Windows 11 Home Zwart\"",
+      "url": "https://www.bol.com/nl/nl/p/hp-victus-gaming-15-fb3872nd-copilot-pc-amd-ryzen-ai-7-350-laptop-39-6-cm-full-hd-24-gb-ddr5-sdram-512-gb-ssd-nvidia-geforce-rtx-5060-wi-fi-6-windows-11-home-zwart/9300000242728278/",
+      "image": "https://media.s-bol.com/v03E7xRY1j5X/xGwzOgP/550x472.jpg",
       "ph": {
-        "2026-10-15": 1349.0,
-        "2026-10-16": 1349.0,
-        "2026-10-17": 1349.0,
-        "2026-10-18": 1349.0,
-        "2026-10-19": 1349.0,
-        "2026-10-20": 1349.0,
-        "2026-10-21": 1349.0,
-        "2026-10-23": 1349.0,
-        "2026-10-24": 1349.0,
-        "2026-10-25": 1349.0
+        "2026-10-26": 1351.0
       },
-      "low_price": 1349.0
+      "low_price": 1351.0,
+      "synced": "2026-10-26"
     },
     {
       "brand": "Lenovo",

@@ -268,46 +268,40 @@
     },
     {
       "brand": "Winix",
-      "name": "T800 Wifi",
-      "price": 149.0,
+      "name": "5300-2",
+      "price": 129.0,
       "score": 8.6,
       "label": null,
-      "reviews": "200+ reviews",
-      "oneliner": "Veel capaciteit voor weinig geld, met HEPA en slimme bediening.",
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Veel capaciteit voor weinig geld, gecertificeerd voor hooikoorts en allergie.",
       "specs": {
-        "CADR": "500 m³/u",
-        "Ruimte": "tot 120 m²",
-        "Filter": "3-in-1 HEPA",
-        "Geluid": "vanaf ca. 25 dB",
+        "CADR": "390 m³/u",
+        "Ruimte": "tot 99 m²",
+        "Filter": "HEPA + koolstof",
+        "Geluid": "vanaf ca. 27 dB",
         "Slaapstand": "ja, lampjes uit"
       },
       "pros": [
-        "CADR van 500 m³/u voor rond de 150 euro",
-        "Gecertificeerd voor hooikoorts en allergie",
-        "Bediening via app en spraakassistent",
-        "Vervangfilter is betaalbaar"
+        "CADR van 390 m³/u voor rond de 130 euro",
+        "Gecertificeerd door ECARF en Allergy UK",
+        "Lichtsensor schakelt vanzelf naar de nachtstand",
+        "Filterset met HEPA en vier koolstoffilters"
       ],
       "cons": [
         "PlasmaWave-ionisator moet je zelf uitzetten als je dat liever niet wilt",
-        "Wat groter en minder fraai dan Philips"
+        "Geen app of wifi"
       ],
       "ideal": "Wie met allergie veel filtercapaciteit wil voor een beperkt budget.",
-      "text": "De Winix T800 Wifi biedt een CADR van 500 m³/u voor ongeveer 150 euro. Dat is veel capaciteit voor het geld en maakt hem geschikt voor een woonkamer tot ongeveer 120 m². Het 3-in-1 filter combineert een voorfilter, een HEPA-laag en actieve kool. Winix laat het apparaat certificeren voor gebruik bij hooikoorts en allergie, wat je terugziet op de verpakking.\n\nDe T800 heeft ook PlasmaWave, een vorm van ionisatie. Die kun je met één knop uitzetten. Wil je alleen mechanisch filteren, dan doe je dat gewoon. De luchtkwaliteitssensor schakelt in de automatische stand zelf op als er meer pollen of stof in de lucht zitten. In de slaapstand draait hij stil en gaan de lampjes uit. Via de app en spraakassistenten zet je hem aan zonder op te staan. Op bol staat hij op een 4,4. Het ontwerp is wat groter dan bij Philips, maar qua prestaties per euro hoort hij bij de besten in deze lijst.",
-      "ean": "8809490586054",
-      "bol_title": "Winix T800 Wifi - Slimme Luchtreiniger met vervangbaar 3-in-1 Hepa filter + PlasmaWave Technologie - Cadr 500m³ p/u en tot 120m² - Getest en Gecertificeerd op Hooikoorts, Allergie en Fijnstof - Winix Smart App, Google Assistant, Amazon Alexa",
-      "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-t800-wifi-luchtreiniger-met-all-in-one-hepa-filter-en-plasmawave-technologie-cadr-500m-p-u-en-voor-120m-gecertificeerd-op-fijnstof-huisstofmijt-hooikoorts-en-allergie-met-winix-smart-app-bediening/9300000195325502/",
-      "image": "https://media.s-bol.com/BJowMr27A702/n5AK28p/550x553.jpg",
-      "synced": "2026-10-26",
+      "text": "De Winix 5300-2 biedt een CADR van 390 m³/u voor ongeveer 130 euro. Dat is veel capaciteit voor het geld en maakt hem geschikt voor een woonkamer tot ongeveer 99 m². Het filtersysteem combineert een voorfilter, een koolstoffilter en een HEPA-laag die volgens Winix deeltjes tot 0,1 micron vangt. Het apparaat is gecertificeerd door ECARF en Allergy UK voor gebruik bij hooikoorts en allergie.\n\nDe 5300-2 heeft ook PlasmaWave, een vorm van ionisatie. Die kun je met één knop uitzetten als je alleen mechanisch wilt filteren. De luchtkwaliteitssensor schakelt in de automatische stand zelf op als er meer pollen of stof in de lucht zitten. In de slaapstand draait hij op 27,4 dB en een lichtsensor dimt de lampjes. Een app of wifi heeft hij niet. Op bol staat hij op een 4,6. Qua prestaties per euro hoort hij bij de besten in deze lijst.",
+      "ean": "8809490585408",
+      "bol_title": "Winix 5300-2 - Luchtreiniger Air Purifier met vervangbaar Hepa + Koolstoffilter + PlasmaWave Technologie - Cadr 390m³ p/u en tot 99m² - Getest en Gecertificeerd op Hooikoorts, Allergie en Fijnstof, Auto en Slaapstand, Timer, Luchtkwaliteit indicator",
+      "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-5300-2-luchtreiniger-met-hepa-filter-en-plasmawave-technologie-cadr-390m-p-u-en-voor-99m-gecertificeerd-op-hooikoorts-allergieen-en-fijnstof-auto-mode-timer-slaap-mode-en-luchtkwaliteit-indicator/9300000228503657/",
+      "image": "https://media.s-bol.com/7rDPk1OWONor/J6M5g7D/529x840.jpg",
       "ph": {
-        "2026-10-18": 149.0,
-        "2026-10-19": 149.0,
-        "2026-10-20": 149.0,
-        "2026-10-21": 149.0,
-        "2026-10-23": 149.0,
-        "2026-10-24": 149.0,
-        "2026-10-25": 149.0
+        "2026-10-26": 129.0
       },
-      "low_price": 149.0
+      "low_price": 129.0,
+      "synced": "2026-10-26"
     },
     {
       "brand": "Xiaomi",
@@ -533,7 +527,7 @@
     },
     {
       "q": "Werkt een luchtreiniger bij een allergie voor katten of honden?",
-      "a": "Ja, een HEPA-filter vangt huidschilfers van huisdieren. Omdat die steeds opnieuw in de lucht komen, heb je een ruime CADR nodig. Een reiniger als de Levoit Core 600S of de Winix T800 is geschikt voor een woonkamer met huisdieren. Houd het dier ook buiten de slaapkamer."
+      "a": "Ja, een HEPA-filter vangt huidschilfers van huisdieren. Omdat die steeds opnieuw in de lucht komen, heb je een ruime CADR nodig. Een reiniger als de Levoit Core 600S of de Winix 5300-2 is geschikt voor een woonkamer met huisdieren. Houd het dier ook buiten de slaapkamer."
     },
     {
       "q": "Hoe groot moet de CADR zijn bij allergie?",
@@ -557,7 +551,7 @@
     },
     {
       "q": "Welke luchtreiniger is het best tegen pollen?",
-      "a": "Pollen zijn relatief grote deeltjes, dus elke luchtreiniger met een echt H13-filter vangt ze goed. Het verschil zit in de capaciteit: hoe hoger de CADR ten opzichte van je kamer, hoe sneller de pollen uit de lucht zijn. Voor een woonkamer is de Philips PureProtect 3200 of de Winix T800 een sterke keuze, voor een kleinere kamer de Levoit Core 300S."
+      "a": "Pollen zijn relatief grote deeltjes, dus elke luchtreiniger met een echt H13-filter vangt ze goed. Het verschil zit in de capaciteit: hoe hoger de CADR ten opzichte van je kamer, hoe sneller de pollen uit de lucht zijn. Voor een woonkamer is de Philips PureProtect 3200 of de Winix 5300-2 een sterke keuze, voor een kleinere kamer de Levoit Core 300S."
     }
   ],
   "seo": "luchtreiniger bij allergie",
