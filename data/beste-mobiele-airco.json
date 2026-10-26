@@ -184,44 +184,41 @@
       "low_price": 1299.0
     },
     {
-      "brand": "Haier",
-      "name": "AM25EA1GAA",
-      "price": 779.0,
+      "brand": "Midea",
+      "name": "PortaSplit 12.000 BTU",
+      "price": 1249.0,
       "score": 8.6,
       "label": null,
-      "reviews": "120+ reviews",
-      "oneliner": "Strak vormgegeven monoblock met veel vermogen voor de prijs.",
+      "reviews": "4,8/5 op bol",
+      "oneliner": "Mobiele split van een groot merk die koelt en verwarmt.",
       "specs": {
-        "Type": "Monoblock",
-        "Koelvermogen": "12.000 BTU",
-        "Ruimte": "tot 35 m²",
-        "Geluid": "ca. 64 dB",
-        "Verwarmen": "Nee"
+        "Type": "Mobiele split-unit",
+        "Koelvermogen": "12.000 BTU (3,5 kW)",
+        "Ruimte": "tot ca. 40 m²",
+        "Geluid": "binnen vanaf ca. 39 dB",
+        "Verwarmen": "Ja"
       },
       "pros": [
-        "Veel koelvermogen",
-        "Moderne, rustige vormgeving",
-        "Ontvochtigt en ventileert ook"
+        "Compressor buiten, dus stil binnen",
+        "Koelt en verwarmt met inverter",
+        "Bediening via wifi en app",
+        "Geen installateur nodig"
       ],
       "cons": [
-        "Geen verwarming",
-        "Minder bekend servicenetwerk dan De'Longhi"
+        "Hoge prijs",
+        "Buitendeel moet aan raam of balkon passen"
       ],
-      "ideal": "Wie een woonkamer of grote slaapkamer wil koelen en een net uitziend apparaat zoekt.",
-      "text": "Haier is een van de grootste producenten van witgoed ter wereld en dat zie je terug in de afwerking van deze AM25EA1GAA. De behuizing is strak en rustig, zonder de opvallende knoppen die veel goedkopere airco's hebben. Volgens Haier haalt hij 12.000 BTU, genoeg voor een kamer tot ongeveer 35 vierkante meter. Naast koelen kun je hem gebruiken als ventilator of ontvochtiger, handig op klamme dagen waarop het niet extreem warm is.\n\nKopers waarderen vooral hoe snel hij een kamer omlaag brengt en hoe makkelijk de installatie met de meegeleverde raamadapter gaat. Het geluid ligt in de normale range voor monoblocks, dus voor de slaapkamer is de nachtstand aan te raden. Een verwarmingsfunctie ontbreekt. Tegenover de TCL betaal je flink meer, vooral voor het extra vermogen en de nette vormgeving. Staat de airco in je woonkamer in het zicht, dan is dat geld goed besteed.",
-      "ean": "6150706831843",
-      "bol_title": "Haier AM25EA1GAA TR - Mobiele Airco - 12000 BTU",
-      "url": "https://www.bol.com/nl/nl/p/haier-am25ea1gaa-tr-mobiele-airco-12000-btu/9300000330942242/",
-      "image": "https://media.s-bol.com/qNp5qj2BAoMD/2x9rq6N/550x814.jpg",
-      "synced": "2026-10-26",
+      "ideal": "Wie een stille slaapkamer of thuiswerkplek wil koelen en ook in het voorjaar wil bijverwarmen.",
+      "text": "Midea is een van de grootste airco-fabrikanten ter wereld en de PortaSplit is hun antwoord op de vaste split-airco zonder installateur. Het toestel bestaat uit een binnendeel en een buitendeel met de compressor. Het buitendeel hang je aan de buitenkant van het raam of over de balkonrand. De verbinding gaat door een kleine opening, dus je raam kan bijna dicht. Binnen hoor je daardoor veel minder dan bij een monoblock.\n\nMet 12.000 BTU koel je een ruimte tot ongeveer 40 vierkante meter. De inverter schakelt terug zodra de kamer op temperatuur is, wat stroom scheelt. Hij verwarmt ook, handig in het voor- en najaar. Via wifi bedien je hem met de app. Kopers op bol geven hem gemiddeld een 4,8 en noemen vooral de stilte. De prijs ligt flink hoger dan bij een monoblock. Controleer vooraf of het buitendeel bij jouw raam past.",
+      "ean": "4048164116478",
+      "bol_title": "Midea PortaSplit Mobiele Split Airco - 12.000 BTU - Koelen & Verwarmen - Met Wifi",
+      "url": "https://www.bol.com/nl/nl/p/midea-4048164116478-air-conditioner-window-air-conditioner-grijs-wit/9300000192688022/",
+      "image": "https://media.s-bol.com/Jm4DlwBA1y12/mQ54mA3/550x623.jpg",
       "ph": {
-        "2026-10-21": 779.0,
-        "2026-10-23": 779.0,
-        "2026-10-24": 779.0,
-        "2026-10-25": 779.0,
-        "2026-10-26": 779.0
+        "2026-10-26": 1249.0
       },
-      "low_price": 779.0
+      "low_price": 1249.0,
+      "synced": "2026-10-26"
     },
     {
       "brand": "COSTWAY",

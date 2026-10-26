@@ -19,15 +19,15 @@
   "published": "2026-10-24",
   "reviews_total": "",
   "intro": "Een keukencadeau valt bijna altijd goed: het wordt elke dag gebruikt en blijft jaren staan. Wij zetten tien apparaten en gadgets tot ongeveer 150 euro op een rij, van een airfryer met twee manden tot een draadloze vleesthermometer. We vergeleken specificaties, prijzen en duizenden gebruikersreviews op bol. Handig voor Sinterklaas of Kerst. Wil je wachten op Black Friday op 27 november 2026? Houd dan de prijzen in de gaten, maar reken niet op een vaste korting.",
-  "verdict": "De Ninja Foodi DualZone AF200EU is het beste keukencadeau omdat hij twee gerechten tegelijk klaarmaakt en bij bijna iedereen dagelijks gebruikt wordt. De Philips 2000 Series NA230 is de beste prijs-kwaliteit: groot, met kijkvenster en voor minder dan 90 euro. Voor wie iets bijzonders wil geven is de SMEG KLF03 waterkoker de premium keuze, een apparaat dat ook als decoratie op het aanrecht staat.",
+  "verdict": "De Ninja DZ300EU dubbele airfryer is het beste keukencadeau omdat hij twee gerechten tegelijk klaarmaakt en bij bijna iedereen dagelijks gebruikt wordt. De Philips 2000 Series NA230 is de beste prijs-kwaliteit: groot, met kijkvenster en voor minder dan 90 euro. Voor wie iets bijzonders wil geven is de SMEG KLF03 waterkoker de premium keuze, een apparaat dat ook als decoratie op het aanrecht staat.",
   "products": [
     {
       "brand": "Ninja",
-      "name": "Foodi DualZone AF200EU 7,6 l",
-      "price": 149.0,
+      "name": "Dubbele Airfryer DZ300EU 7,6 l",
+      "price": 150.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "oneliner": "Twee manden, twee gerechten tegelijk klaar.",
+      "oneliner": "Twee lades, twee gerechten tegelijk klaar.",
       "specs": {
         "Soort": "Airfryer",
         "Voor wie": "Gezinnen",
@@ -35,29 +35,27 @@
         "Stroom": "2470 W"
       },
       "pros": [
-        "Twee losse manden van 3,8 liter",
-        "Sync-functie laat beide manden tegelijk klaar zijn",
-        "Zes programma's, ook drogen en opwarmen",
-        "Manden kunnen in de vaatwasser"
+        "Twee losse lades van 3,8 liter",
+        "Sync-functie laat beide lades tegelijk klaar zijn",
+        "Zes functies, ook Max Crisp tot 240 graden",
+        "Lades en crispplaten kunnen in de vaatwasser"
       ],
       "cons": [
         "Neemt veel ruimte in op het aanrecht",
         "Geen kijkvenster"
       ],
       "ideal": "Gezinnen die vaak kip, friet en groente tegelijk willen maken.",
-      "text": "De Ninja AF200EU is een van de populairste dubbele airfryers op bol. Je krijgt twee manden van elk 3,8 liter die je los van elkaar instelt. Met de Sync-knop rekent het apparaat uit wanneer elke mand moet starten, zodat friet en kipfilet op hetzelfde moment klaar zijn. Er zijn zes programma's, van airfryen tot drogen van fruit.\n\nGebruikers noemen vooral het tijdwinst: een complete maaltijd staat in twintig minuten op tafel zonder de oven aan te zetten. Het vermogen van 2470 watt zorgt dat hij snel op temperatuur is. Let wel op de maat, want met bijna 40 centimeter breedte heb je een vrije plek op het aanrecht nodig. Als cadeau voor een gezin of een fanatieke thuiskok is dit het apparaat dat het vaakst gebruikt wordt.",
-      "ean": "0622356320450",
-      "bol_title": "Ninja Foodi 4-in-1 DualZone Airfryer - Dubbele Mand - 7.6 Liter - Zwart - AF200EU",
-      "url": "https://www.bol.com/nl/nl/p/ninja-foodi-af200eu-dubbele-airfryer-xxl-dubbele-mand-7-6-liter-dual-zone-technologie/9300000224734957/",
-      "image": "https://media.s-bol.com/JM10v0M2ygQl/o2l38NA/550x458.jpg",
+      "text": "De Ninja DZ300EU is het vernieuwde 2026-model van de populaire dubbele airfryer van Ninja. Je krijgt twee lades van elk 3,8 liter die je los van elkaar instelt. In een lade past volgens Ninja een kilo friet of een hele kip van 1,6 kilo. Met Sync rekent het apparaat uit wanneer elke lade moet starten, zodat friet en kipfilet op hetzelfde moment klaar zijn. Met Match zet je beide lades op dezelfde stand voor een dubbele portie.\n\nEr zijn zes functies: airfryen, Max Crisp, braden, bakken, opwarmen en drogen. De temperatuur loopt van 40 tot 240 graden en het vermogen van 2470 watt zorgt dat hij snel warm is. Kopers op bol geven hem gemiddeld 4,7 sterren. Let wel op de maat, want je hebt een vrije plek op het aanrecht nodig. Als cadeau voor een gezin of een fanatieke thuiskok is dit het apparaat dat het vaakst gebruikt wordt.",
+      "ean": "0622356322690",
+      "reviews": "4,7/5 op bol",
+      "bol_title": "Ninja Dubbele Airfryer XXL - 7.6 L - Nieuw 2026 Model - 40 tot 240 Graden - 2470 W Vermogen - Dual Zone Technologie - DZ300EU",
+      "url": "https://www.bol.com/nl/nl/p/ninja-dubbele-airfryer-xxl-7-6-l-nieuw-2026-model-40-tot-240-graden-2470-w-vermogen-dual-zone-technologie-dz300eu/9300000233694815/",
+      "image": "https://media.s-bol.com/7GZ8kvQgXAZB/W7OVw6J/550x483.jpg",
       "ph": {
-        "2026-10-24": 149.0,
-        "2026-10-25": 149.0,
-        "2026-10-26": 149.0
+        "2026-10-26": 150.0
       },
-      "low_price": 149.0,
-      "synced": "2026-10-26",
-      "reviews": "reviews op bol"
+      "low_price": 150.0,
+      "synced": "2026-10-26"
     },
     {
       "brand": "Philips",
@@ -435,7 +433,7 @@
   "faq": [
     {
       "q": "Wat is het beste keukencadeau van 2026?",
-      "a": "In onze vergelijking is de Ninja Foodi DualZone AF200EU het beste keukencadeau. Hij maakt twee gerechten tegelijk klaar en wordt in de meeste huishoudens dagelijks gebruikt."
+      "a": "In onze vergelijking is de Ninja DZ300EU dubbele airfryer het beste keukencadeau. Hij maakt twee gerechten tegelijk klaar en wordt in de meeste huishoudens dagelijks gebruikt."
     },
     {
       "q": "Wat is een goed keukencadeau onder de 50 euro?",

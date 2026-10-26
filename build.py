@@ -580,6 +580,19 @@ def vs_page(v):
     page("vs/%s.html" % v["slug"], tt, "%s %s (%s) of %s %s (%s)? Specificaties naast elkaar en per situatie de winnaar. %s" % (a["brand"], a["name"], eur(a["price"]), b["brand"], b["name"], eur(b["price"]), v["verdict"][:90].rsplit(" ", 1)[0] + "."), body,
          extra='<script type="application/ld+json">%s</script>' % json.dumps(ld, ensure_ascii=False), img=a.get("image", ""))
 for v in VS_PAGES: vs_page(v)
+# Verlopen vergelijkingen (product niet meer in de gids): noindex-doorverwijzing naar de gids, zodat oude URL's niet 404'en of verouderd blijven (sinds 26 okt 2026)
+_live = {v["slug"] for v in VS_PAGES}
+for v in _vs:
+    g = _gs.get(v["gids"])
+    if v["slug"] in _live or not g: continue
+    wr("vs/%s.html" % v["slug"], '''<!doctype html>
+<html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Vergelijking verlopen | watkoopik</title>
+<meta name="robots" content="noindex,follow">
+<link rel="canonical" href="%s/%s">
+<meta http-equiv="refresh" content="0; url=../%s">
+</head><body><p>Een van beide modellen staat niet meer in onze top 10. Bekijk de actuele <a href="../%s">%s</a>.</p></body></html>''' % (SITE, g["url"], g["url"], g["url"], e(g["title"].lower().replace("de 10 beste", "top 10 van de beste"))))
+    print("let op: vergelijking %s verlopen, doorverwijzing naar %s" % (v["slug"], g["url"]))
 page("vs/index.html", "Vergelijkingen: X tegenover Y | watkoopik", "De populairste twijfelgevallen uit onze top 10's naast elkaar: specificaties, prijs en per situatie de winnaar.",
      '''<section style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › Vergelijkingen</nav><span class="kick" style="margin-top:14px">Vergelijkingen</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">Twijfel je tussen twee modellen?</h1>
 <p class="muted" style="max-width:720px">Hier zetten we de modellen waar de meeste lezers tussen twijfelen naast elkaar, meestal de nummer 1 en 2 uit een gids. Per situatie zie je wie wint.</p><div class="rows" style="margin-top:18px">%s</div></div></section>''' % "".join(
