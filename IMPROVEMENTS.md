@@ -135,3 +135,15 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: nieuwe vs-pagina voor tv onder 500 met de nieuwe nr. 2 (TCL 65P71K); build.py laten waarschuwen of opruimen als een vs-pagina vervalt.
 - Idee voor later: bij WMF Element One staat "Stroom nodig: niet vermeld", nakijken; zuigkracht 8.000 Pa bij Xiaomi X20 Max komt niet uit de bol-data, verifiëren.
 - Voor Nick: niets.
+
+## 2026-10-26
+- Signalen: Umami 7 dagen 208 bezoekers, 299 weergaven, bounce 48% (was 51%); homepage 59, tv onder 500 euro 10, tv 65 inch 8, dweilrobot 7; bronnen watkoopik.com 47, chatgpt.com 4.
+- Signalen: 94 bol-klik-events (podium 70, tabel 21, kaart 2, sticky 1; positie 1: 45, positie 2: 25); top gidsen tv onder 500 (11), dweilrobot (8), stofzuiger huisdieren (7), kachel (6); top product Shark PowerDetect 7, LG 55QNED84 6.
+- Signalen: Search Console 7 dagen 77 vertoningen, 0 klikken, positie 65,8, nog steeds alleen luchtreiniger-allergie; indexering 18 geindexeerd, 116 gevonden niet geindexeerd, 42 gecrawld niet geindexeerd, 1 canonical; bol-cijfers: niet automatisch beschikbaar; build OK 174 gidsen / 1740 producten, check_links 0 fouten, 0 zonder foto.
+- Gedaan: check_stock vond 21 kapotte koopknoppen (o.a. nr. 1 in autostoel, elektrische deken en keukencadeau, nr. 3 in tv onder 500), alle opgelost: 7 via variant (Cybex Solution G2 Stormy Blue, Turtle Beach 600P wit, Flow DTM400i 2026, Mill Gentle Air OIL2000WIFI3, Galaxy A26 zonder garantiebundel, OnePlus Pad Go 2 paars, Samsung QE65QN82H juiste EAN) en 14 vervangen (o.a. Xiaomi S Mini LED 55 door TCL 65T69C, Ninja AF200EU door DZ300EU, Beurer UB 101 door UB 74, Whirlpool W7OSPIXOC door OMR58RR1B, Makita DUH523Z door DUH507Z, Haier AM25 door Midea PortaSplit, Rowenta RO7935/RO6136 door RO7C44/RO7450, Flow DTM2500/DTM2000i door Perform T2i/Focus Senator iPlus, EcoFlow RAPID Pro 27.650 door 20.000 mAh); verdicts en FAQ's mee aangepast; nu 1740/1740 te koop. Waarom: dode knoppen geven geen commissie, tv onder 500 is de best klikkende gids.
+- Gedaan: vergelijking LG 55QNED84 vs TCL 65T69C weer live, want de TCL (meest geklikt tv-product van vorige week) staat weer in de tv-onder-500-gids; verwacht: meer kliks van twijfelaars in de best klikkende gids.
+- Gedaan: build.py schrijft voor elke vergelijking in vsdata/vs.json die niet meer klopt automatisch een noindex-doorverwijzing naar de gids en meldt "let op: vergelijking ... verlopen"; waarom: idee 25 okt, voorkwam handwerk; verwacht: geen verouderde vs-pagina's meer.
+- Idee voor later: specs met "ca." nakijken bij Flow Perform T2i, Focus Senator iPlus, Midea PortaSplit (geluid) en Whirlpool OMR58RR1B; Midea PortaSplit (1249 euro) is duurder dan de rest van de mobiele-aircolijst, bij volgende ronde een monoblock rond 800 euro zoeken.
+- Idee voor later: tv onder 500 bevat TCL 65P71K voor 509 euro, boven de grens; vervangen door een model onder 500 euro.
+- Idee voor later: indexering blijft het knelpunt (116 gevonden niet geindexeerd, zo'n 10% geindexeerd); dagtempo nieuwe gidsen niet verhogen, liever bestaande gidsen sterker maken en intern linken.
+- Voor Nick: niets.
