@@ -52,10 +52,11 @@
       "image": "https://media.s-bol.com/JM10v0M2ygQl/o2l38NA/550x458.jpg",
       "ph": {
         "2026-10-24": 149.0,
-        "2026-10-25": 149.0
+        "2026-10-25": 149.0,
+        "2026-10-26": 149.0
       },
       "low_price": 149.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -89,16 +90,17 @@
       "image": "https://media.s-bol.com/BAYVG0gnn602/68ANNYz/550x511.jpg",
       "ph": {
         "2026-10-24": 86.17,
-        "2026-10-25": 86.17
+        "2026-10-25": 86.17,
+        "2026-10-26": 86.17
       },
       "low_price": 86.17,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
       "brand": "SMEG",
       "name": "KLF03CREU waterkoker 1,7 l",
-      "price": 128.25,
+      "price": 128.81,
       "score": 8.9,
       "label": "Beste premium",
       "oneliner": "Iconische retro-waterkoker die opvalt op elk aanrecht.",
@@ -126,13 +128,14 @@
       "image": "https://media.s-bol.com/OjvZzPXLvyMQ/68A1ZDn/550x684.jpg",
       "ph": {
         "2026-10-24": 129.55,
-        "2026-10-25": 128.25
+        "2026-10-25": 128.25,
+        "2026-10-26": 128.81
       },
       "low_price": 128.25,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol",
-      "prev_price": 129.55,
-      "prev_date": "2026-10-24"
+      "prev_price": 128.25,
+      "prev_date": "2026-10-25"
     },
     {
       "brand": "Krups",
@@ -165,10 +168,11 @@
       "image": "https://media.s-bol.com/jp4l7vWQAZoB/Y7BAKMK/335x840.jpg",
       "ph": {
         "2026-10-24": 78.99,
-        "2026-10-25": 78.99
+        "2026-10-25": 78.99,
+        "2026-10-26": 78.99
       },
       "low_price": 78.99,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -202,10 +206,11 @@
       "image": "https://media.s-bol.com/V6y1Q8QkNEpO/1WQw7BP/550x550.jpg",
       "ph": {
         "2026-10-24": 81.0,
-        "2026-10-25": 81.0
+        "2026-10-25": 81.0,
+        "2026-10-26": 81.0
       },
       "low_price": 81.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -239,16 +244,17 @@
       "image": "https://media.s-bol.com/q012lm8jErP2/M8OmBq3/550x455.jpg",
       "ph": {
         "2026-10-24": 63.99,
-        "2026-10-25": 63.99
+        "2026-10-25": 63.99,
+        "2026-10-26": 63.99
       },
       "low_price": 63.99,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Ninja",
       "name": "Foodi Nutri Blender QB3001EUS",
-      "price": 72.95,
+      "price": 69.95,
       "score": 8.6,
       "label": null,
       "oneliner": "Compacte blender met twee bekers om mee te nemen.",
@@ -276,11 +282,14 @@
       "image": "https://media.s-bol.com/B9kXXkAD7K0k/ADnOL9/550x475.jpg",
       "ph": {
         "2026-10-24": 72.95,
-        "2026-10-25": 72.95
+        "2026-10-25": 72.95,
+        "2026-10-26": 69.95
       },
-      "low_price": 72.95,
-      "synced": "2026-10-25",
-      "reviews": "reviews op bol"
+      "low_price": 69.95,
+      "synced": "2026-10-26",
+      "reviews": "reviews op bol",
+      "prev_price": 72.95,
+      "prev_date": "2026-10-25"
     },
     {
       "brand": "ProfiCook",
@@ -313,10 +322,11 @@
       "image": "https://media.s-bol.com/YMy3EAVK512Y/550x288.jpg",
       "ph": {
         "2026-10-24": 79.95,
-        "2026-10-25": 79.95
+        "2026-10-25": 79.95,
+        "2026-10-26": 79.95
       },
       "low_price": 79.95,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -350,10 +360,11 @@
       "image": "https://media.s-bol.com/BJJ37nZJEYKX/o238NWK/550x823.jpg",
       "ph": {
         "2026-10-24": 131.0,
-        "2026-10-25": 131.0
+        "2026-10-25": 131.0,
+        "2026-10-26": 131.0
       },
       "low_price": 131.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -387,10 +398,11 @@
       "image": "https://media.s-bol.com/PrQ3Pm274gNz/yrVLZxn/531x840.jpg",
       "ph": {
         "2026-10-24": 50.0,
-        "2026-10-25": 50.0
+        "2026-10-25": 50.0,
+        "2026-10-26": 50.0
       },
       "low_price": 50.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     }
   ],

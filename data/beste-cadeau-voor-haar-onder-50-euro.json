@@ -52,10 +52,11 @@
       "image": "https://media.s-bol.com/RN8Ey7A3Bq5q/wjznLm8/550x385.jpg",
       "ph": {
         "2026-10-24": 35.95,
-        "2026-10-25": 35.95
+        "2026-10-25": 35.95,
+        "2026-10-26": 35.95
       },
       "low_price": 35.95,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -89,10 +90,11 @@
       "image": "https://media.s-bol.com/gOWG9LjAOgvl/VOVDmXW/549x840.jpg",
       "ph": {
         "2026-10-24": 41.99,
-        "2026-10-25": 41.99
+        "2026-10-25": 41.99,
+        "2026-10-26": 41.99
       },
       "low_price": 41.99,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -126,10 +128,11 @@
       "image": "https://media.s-bol.com/RMwr2DE09WvE/550x573.jpg",
       "ph": {
         "2026-10-24": 36.0,
-        "2026-10-25": 39.99
+        "2026-10-25": 39.99,
+        "2026-10-26": 39.99
       },
       "low_price": 36.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol",
       "prev_price": 36.0,
       "prev_date": "2026-10-24"
@@ -165,10 +168,11 @@
       "image": "https://media.s-bol.com/BLkPxZo2KGlQ/550x659.jpg",
       "ph": {
         "2026-10-24": 32.99,
-        "2026-10-25": 32.99
+        "2026-10-25": 32.99,
+        "2026-10-26": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -202,16 +206,17 @@
       "image": "https://media.s-bol.com/o55J5kqK9PZk/6R8GK8Q/550x780.jpg",
       "ph": {
         "2026-10-24": 37.0,
-        "2026-10-25": 37.0
+        "2026-10-25": 37.0,
+        "2026-10-26": 37.0
       },
       "low_price": 37.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Yankee Candle",
       "name": "Autumn Daydream Large Jar",
-      "price": 32.99,
+      "price": 32.81,
       "score": 8.4,
       "label": null,
       "oneliner": "Grote geurkaars met tot 90 branduren.",
@@ -239,13 +244,14 @@
       "image": "https://media.s-bol.com/NqGxRMkvJyXz/L8nwBOw/486x840.jpg",
       "ph": {
         "2026-10-24": 31.41,
-        "2026-10-25": 32.99
+        "2026-10-25": 32.99,
+        "2026-10-26": 32.81
       },
       "low_price": 31.41,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol",
-      "prev_price": 31.41,
-      "prev_date": "2026-10-24"
+      "prev_price": 32.99,
+      "prev_date": "2026-10-25"
     },
     {
       "brand": "Moleskine",
@@ -278,10 +284,11 @@
       "image": "https://media.s-bol.com/m8v8jB1WkpN9/OY5G9DE/550x366.jpg",
       "ph": {
         "2026-10-24": 16.5,
-        "2026-10-25": 16.5
+        "2026-10-25": 16.5,
+        "2026-10-26": 16.5
       },
       "low_price": 16.5,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -314,10 +321,11 @@
       "image": "https://media.s-bol.com/Lo7qG3xPm53W/ZVW6Bpg/389x840.jpg",
       "ph": {
         "2026-10-24": 48.99,
-        "2026-10-25": 48.99
+        "2026-10-25": 48.99,
+        "2026-10-26": 48.99
       },
       "low_price": 48.99,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -350,16 +358,17 @@
       "image": "https://media.s-bol.com/m4MlGv8KjkBr/lO7VAXJ/550x571.jpg",
       "ph": {
         "2026-10-24": 41.99,
-        "2026-10-25": 41.99
+        "2026-10-25": 41.99,
+        "2026-10-26": 41.99
       },
       "low_price": 41.99,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Philips",
       "name": "OneBlade Intimate",
-      "price": 44.99,
+      "price": 42.1,
       "score": 8.1,
       "label": "Beste premium",
       "oneliner": "Trimmer en scheerapparaat voor de bikinilijn.",
@@ -387,11 +396,14 @@
       "image": "https://media.s-bol.com/gzlyq5B3pJZY/lxGj9EJ/550x518.jpg",
       "ph": {
         "2026-10-24": 44.99,
-        "2026-10-25": 44.99
+        "2026-10-25": 44.99,
+        "2026-10-26": 42.1
       },
-      "low_price": 44.99,
-      "synced": "2026-10-25",
-      "reviews": "reviews op bol"
+      "low_price": 42.1,
+      "synced": "2026-10-26",
+      "reviews": "reviews op bol",
+      "prev_price": 44.99,
+      "prev_date": "2026-10-25"
     }
   ],
   "guide": [

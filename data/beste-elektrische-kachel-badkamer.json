@@ -24,7 +24,7 @@
     {
       "brand": "Eurom",
       "name": "Sani-Wall-Heat 2000 Wifi",
-      "price": 84.05,
+      "price": 85.85,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "200+ reviews",
@@ -53,15 +53,18 @@
       "url": "https://www.bol.com/nl/nl/p/eurom-sani-wall-heat-2000-wifi-badkamerkachel-2000w/9200000122076203/",
       "image": "https://media.s-bol.com/3qODP02YBmQR/ADolqY7/550x204.jpg",
       "ph": {
-        "2026-10-25": 84.05
+        "2026-10-25": 84.05,
+        "2026-10-26": 85.85
       },
       "low_price": 84.05,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26",
+      "prev_price": 84.05,
+      "prev_date": "2026-10-25"
     },
     {
       "brand": "Rowenta",
       "name": "Intense Comfort+ Aqua SO9380F0",
-      "price": 95.1,
+      "price": 139.02,
       "score": 9.0,
       "label": null,
       "reviews": "100+ reviews",
@@ -90,10 +93,13 @@
       "url": "https://www.bol.com/nl/nl/p/rowenta-intense-comfort-aqua-so9380f0-ventilatorkachel-badkamer/9300000252968383/",
       "image": "https://media.s-bol.com/xg4PPLylnVE3/58P55OK/550x554.jpg",
       "ph": {
-        "2026-10-25": 95.1
+        "2026-10-25": 95.1,
+        "2026-10-26": 139.02
       },
       "low_price": 95.1,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26",
+      "prev_price": 95.1,
+      "prev_date": "2026-10-25"
     },
     {
       "brand": "VOLT",
@@ -127,10 +133,11 @@
       "url": "https://www.bol.com/nl/nl/p/volt-i-red-badkamerverwarming-1200w-infrarood-heater-straalkachel-wifi-ip44-96cm-wit/9300000275631894/",
       "image": "https://media.s-bol.com/R9Q753A5gJzK/BNkBR9Q/550x511.jpg",
       "ph": {
-        "2026-10-25": 169.0
+        "2026-10-25": 169.0,
+        "2026-10-26": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26"
     },
     {
       "brand": "Plieger",
@@ -164,10 +171,11 @@
       "url": "https://www.bol.com/nl/nl/p/plieger-elba-elektrische-designradiator-handdoekradiator-complete-set-146-2-cm-x-50-cm-700-watt-wit/9300000224326326/",
       "image": "https://media.s-bol.com/3gEYmK7QRLox/4x3PvPV/388x840.jpg",
       "ph": {
-        "2026-10-25": 279.0
+        "2026-10-25": 279.0,
+        "2026-10-26": 279.0
       },
       "low_price": 279.0,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26"
     },
     {
       "brand": "Eurom",
@@ -201,10 +209,11 @@
       "url": "https://www.bol.com/nl/nl/p/eurom-sani-fanheat-2000r-badkamerkachel-2000w/9200000102155749/",
       "image": "https://media.s-bol.com/mgkyoOVAO12n/DpRg8q/550x575.jpg",
       "ph": {
-        "2026-10-25": 53.39
+        "2026-10-25": 53.39,
+        "2026-10-26": 53.39
       },
       "low_price": 53.39,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26"
     },
     {
       "brand": "Varin",
@@ -238,10 +247,11 @@
       "url": "https://www.bol.com/nl/nl/p/varin-smart-design-elektrische-kachel-2500w-85x55cm-zwart-glas-ip24-met-thermostaat-wandmontage-of-verrijdbaar-elektrische-verwarming-badkamer-convectorkachel-electrisch-electrische-kachels-voor-binnen-elektrisch-tuya-wifi/9300000244648977/",
       "image": "https://media.s-bol.com/nwgDygjnjZ17/Og79zzN/550x538.jpg",
       "ph": {
-        "2026-10-25": 159.95
+        "2026-10-25": 159.95,
+        "2026-10-26": 159.95
       },
       "low_price": 159.95,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26"
     },
     {
       "brand": "DOMO",
@@ -275,10 +285,11 @@
       "url": "https://www.bol.com/nl/nl/p/domo-do7354m-micaverwarming-elektrische-verwarming-2-standen-ip24-badkamer-verwarming-wit/9300000243694804/",
       "image": "https://media.s-bol.com/MvpqEgWQpPAG/GZoNvLy/485x840.jpg",
       "ph": {
-        "2026-10-25": 119.0
+        "2026-10-25": 119.0,
+        "2026-10-26": 119.0
       },
       "low_price": 119.0,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26"
     },
     {
       "brand": "Rowenta",
@@ -312,10 +323,11 @@
       "url": "https://www.bol.com/nl/nl/p/instant-comfort-so6511-badkamer-ventilatorkachel/9300000160793059/",
       "image": "https://media.s-bol.com/EoXm8vl201kv/3l91kjM/550x578.jpg",
       "ph": {
-        "2026-10-25": 60.0
+        "2026-10-25": 60.0,
+        "2026-10-26": 60.0
       },
       "low_price": 60.0,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26"
     },
     {
       "brand": "Auronic",
@@ -349,10 +361,11 @@
       "url": "https://www.bol.com/nl/nl/p/auronic-metal-panel-heater-1000w-black/9300000177615922/",
       "image": "https://media.s-bol.com/YJoLlrXqrn7O/820ENEr/550x553.jpg",
       "ph": {
-        "2026-10-25": 67.99
+        "2026-10-25": 67.99,
+        "2026-10-26": 67.99
       },
       "low_price": 67.99,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26"
     },
     {
       "brand": "Tristar",
@@ -386,10 +399,11 @@
       "url": "https://www.bol.com/nl/nl/p/tristar-ka-5010-straalkachel/9000000011789498/",
       "image": "https://media.s-bol.com/JXZzZB3AQMng/Lgxqnp/550x345.jpg",
       "ph": {
-        "2026-10-25": 31.99
+        "2026-10-25": 31.99,
+        "2026-10-26": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26"
     }
   ],
   "guide": [

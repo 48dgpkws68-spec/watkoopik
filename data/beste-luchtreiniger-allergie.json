@@ -55,7 +55,7 @@
       "bol_title": "Philips PureProtect 3200-serie Slimme Luchtreiniger AC3221/13",
       "url": "https://www.bol.com/nl/nl/p/air/9300000186181886/",
       "image": "https://media.s-bol.com/wB3OrNJ7mN5R/KZjoQNJ/543x840.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-15": 251.0,
         "2026-10-16": 251.0,
@@ -66,7 +66,8 @@
         "2026-10-21": 251.0,
         "2026-10-23": 249.0,
         "2026-10-24": 249.0,
-        "2026-10-25": 249.0
+        "2026-10-25": 249.0,
+        "2026-10-26": 249.0
       },
       "low_price": 249.0,
       "prev_price": 251.0,
@@ -75,7 +76,7 @@
     {
       "brand": "Coway",
       "name": "Airmega Mighty AP-1512HH",
-      "price": 199.99,
+      "price": 239.99,
       "score": 9.1,
       "label": "Beste prijs-kwaliteit",
       "reviews": "400+ reviews",
@@ -103,7 +104,7 @@
       "bol_title": "Coway Mighty Luchtreiniger – Voor ruimtes tot 109 m² – HEPA + Koolstoffilter – CADR 421 m³/u – Luchtkwaliteit Indicator – Tegen Hooikoorts, Allergie, Huisstofmijt, Stof & Pollen – Air Purifier - Wit",
       "url": "https://www.bol.com/nl/nl/p/coway-ap-1512hh-mighty-luchtreiniger-met-greenhepa-technologie-wit/9300000076392613/",
       "image": "https://media.s-bol.com/JjO31qnrA6go/rAGv8B/550x701.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-18": 199.99,
         "2026-10-19": 199.99,
@@ -111,9 +112,12 @@
         "2026-10-21": 199.99,
         "2026-10-23": 199.99,
         "2026-10-24": 199.99,
-        "2026-10-25": 199.99
+        "2026-10-25": 199.99,
+        "2026-10-26": 239.99
       },
-      "low_price": 199.99
+      "low_price": 199.99,
+      "prev_price": 199.99,
+      "prev_date": "2026-10-25"
     },
     {
       "brand": "Levoit",
@@ -146,7 +150,7 @@
       "bol_title": "Levoit Core 300S - Slimme Luchtreiniger",
       "url": "https://www.bol.com/nl/nl/p/levoit-core-300s-luchtreiniger/9300000074133165/",
       "image": "https://media.s-bol.com/Rrl6YnDZ9NG0/zGM2kO/550x655.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-13": 149.0,
         "2026-10-14": 149.94,
@@ -159,7 +163,8 @@
         "2026-10-21": 148.0,
         "2026-10-23": 149.99,
         "2026-10-24": 149.99,
-        "2026-10-25": 169.0
+        "2026-10-25": 169.0,
+        "2026-10-26": 169.0
       },
       "low_price": 139.99,
       "prev_price": 149.99,
@@ -197,7 +202,7 @@
       "bol_title": "Dyson Purifier Humidify+Cool PH2 De-NOx - Luchtreiniger - Ventilator - HEPA filter - Wit/Goud",
       "url": "https://www.bol.com/nl/nl/p/dyson-purifier-humidify-cool-de-nox-ph05-luchtreiniger-hepa-filter-wit-goud/9300000226721806/",
       "image": "https://media.s-bol.com/mo4vMW8NvJ19/oQBoArk/550x819.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-15": 749.0,
         "2026-10-16": 749.0,
@@ -208,7 +213,8 @@
         "2026-10-21": 749.0,
         "2026-10-23": 749.0,
         "2026-10-24": 749.0,
-        "2026-10-25": 799.0
+        "2026-10-25": 799.0,
+        "2026-10-26": 799.0
       },
       "low_price": 749.0,
       "prev_price": 749.0,
@@ -245,7 +251,7 @@
       "bol_title": "Levoit Core 600S LAP-C601S Slimme luchtreiniger",
       "url": "https://www.bol.com/nl/nl/p/levoit-smart-luchtreiniger-core-600s-lap-c601s/9300000098586396/",
       "image": "https://media.s-bol.com/ZD86O2Ymjljw/zGM23O/550x764.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-18": 360.0,
         "2026-10-19": 360.0,
@@ -253,7 +259,8 @@
         "2026-10-21": 389.0,
         "2026-10-23": 389.0,
         "2026-10-24": 389.0,
-        "2026-10-25": 389.0
+        "2026-10-25": 389.0,
+        "2026-10-26": 389.0
       },
       "low_price": 360.0,
       "prev_price": 360.0,
@@ -290,7 +297,7 @@
       "bol_title": "Winix T800 Wifi - Slimme Luchtreiniger met vervangbaar 3-in-1 Hepa filter + PlasmaWave Technologie - Cadr 500m³ p/u en tot 120m² - Getest en Gecertificeerd op Hooikoorts, Allergie en Fijnstof - Winix Smart App, Google Assistant, Amazon Alexa",
       "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-t800-wifi-luchtreiniger-met-all-in-one-hepa-filter-en-plasmawave-technologie-cadr-500m-p-u-en-voor-120m-gecertificeerd-op-fijnstof-huisstofmijt-hooikoorts-en-allergie-met-winix-smart-app-bediening/9300000195325502/",
       "image": "https://media.s-bol.com/BJowMr27A702/n5AK28p/550x553.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-18": 149.0,
         "2026-10-19": 149.0,
@@ -333,7 +340,7 @@
       "bol_title": "Xiaomi Smart Air Purifier 4 Lite | Slimme luchtreiniger | 360 m³/u CADR | 25–43 m² | 3-in-1 filter | App-bediening",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-air-purifier-4-lite-2-m-61-db-33-w-wit/9300000079280420/",
       "image": "https://media.s-bol.com/0Q9QVz3qXzj5/r8Zo2lw/381x840.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-18": 139.0,
         "2026-10-19": 139.0,
@@ -341,7 +348,8 @@
         "2026-10-21": 139.0,
         "2026-10-23": 137.69,
         "2026-10-24": 137.69,
-        "2026-10-25": 137.69
+        "2026-10-25": 137.69,
+        "2026-10-26": 137.69
       },
       "low_price": 137.69,
       "prev_price": 139.0,
@@ -378,7 +386,7 @@
       "bol_title": "Levoit Core 200s Smart True HEPA Air Purifier - Luchtreiniger",
       "url": "https://www.bol.com/nl/nl/p/levoit-core-200s-smart-true-hepa-air-purifier-luchtreiniger/9300000052333150/",
       "image": "https://media.s-bol.com/N4J9DWr4nv78/79AypQA/523x840.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-18": 114.99,
         "2026-10-19": 119.0,
@@ -386,7 +394,8 @@
         "2026-10-21": 109.99,
         "2026-10-23": 109.99,
         "2026-10-24": 109.99,
-        "2026-10-25": 109.99
+        "2026-10-25": 109.99,
+        "2026-10-26": 109.99
       },
       "low_price": 109.99,
       "prev_price": 119.0,
@@ -423,7 +432,7 @@
       "bol_title": "Xiaomi Smart Air Purifier 4 Compact | Luchtreiniger | 230 m³/u CADR | 16 tot 27 m² | App bediening | Automatische modus | Stil en compact",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-mi-luchtreiniger-4-compact-wit/9300000126727304/",
       "image": "https://media.s-bol.com/LoO6JwQYVgAX/kZ0l9QJ/506x840.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-18": 89.99,
         "2026-10-19": 89.99,
@@ -431,7 +440,8 @@
         "2026-10-21": 89.99,
         "2026-10-23": 89.99,
         "2026-10-24": 99.95,
-        "2026-10-25": 99.95
+        "2026-10-25": 99.95,
+        "2026-10-26": 99.95
       },
       "low_price": 89.99,
       "prev_price": 89.99,
@@ -468,7 +478,7 @@
       "bol_title": "Rolfstone Air Balance Luchtreiniger – HEPA 13 + koolstoffilter – CADR 160 m³/u – Voor ruimtes tot 34 m² – Vermindert stof en pollen – 3 standen + slaapstand + automatische stand – Luchtkwaliteitsindicator",
       "url": "https://www.bol.com/nl/nl/p/rolfstone-air-balance-luchtreiniger-air-purifier-met-vervangbaar-hepa-13-filter-koolstoffilter-werkt-tegen-huisstofmijt-hooikoorts-allergie-stof-cadr-160m3-h-3-standen-slaapstand-en-automatische-stand-luchtkwaliteit-indicator/9300000036181413/",
       "image": "https://media.s-bol.com/R0PXyyNwN4W0/owK1qX/550x675.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-18": 119.0,
         "2026-10-19": 119.0,
@@ -476,7 +486,8 @@
         "2026-10-21": 119.0,
         "2026-10-23": 119.0,
         "2026-10-24": 119.0,
-        "2026-10-25": 119.0
+        "2026-10-25": 119.0,
+        "2026-10-26": 119.0
       },
       "low_price": 119.0
     }

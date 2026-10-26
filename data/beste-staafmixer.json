@@ -50,7 +50,7 @@
       "bol_title": "Braun MultiQuick 9 MQ9187XLI – Staafmixer met XL foodprocessor, hakmolen en pureervoet, ActiveBlade technologie en iMode bediening, SplashControl antispatvoet en PowerBell Plus, Zwart, 1200 W",
       "url": "https://www.bol.com/nl/nl/p/braun-multiquick-9-mq-9187xli-staafmixer/9300000009571811/",
       "image": "https://media.s-bol.com/x5q822wkvA0r/nWr7A4/550x441.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-14": 143.0,
         "2026-10-15": 143.0,
@@ -62,7 +62,8 @@
         "2026-10-21": 144.4,
         "2026-10-23": 131.0,
         "2026-10-24": 131.0,
-        "2026-10-25": 131.0
+        "2026-10-25": 131.0,
+        "2026-10-26": 131.0
       },
       "low_price": 131.0,
       "prev_price": 144.4,
@@ -71,7 +72,7 @@
     {
       "brand": "Braun",
       "name": "MultiQuick 5 Pro MQ55.254M",
-      "price": 67.0,
+      "price": 63.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,7 van 5",
@@ -101,10 +102,13 @@
       "url": "https://www.bol.com/nl/nl/p/braun-multiquick-5-pro-mq55-254m-staafmixer/9300000178745266/",
       "image": "https://media.s-bol.com/q012lm8jErP2/M8OmBq3/550x455.jpg",
       "ph": {
-        "2026-10-25": 67.0
+        "2026-10-25": 67.0,
+        "2026-10-26": 63.99
       },
-      "low_price": 67.0,
-      "synced": "2026-10-25"
+      "low_price": 63.99,
+      "synced": "2026-10-26",
+      "prev_price": 67.0,
+      "prev_date": "2026-10-25"
     },
     {
       "brand": "Bamix",
@@ -139,7 +143,7 @@
       "bol_title": "Bamix Baking Box - Staafmixer - 200W",
       "url": "https://www.bol.com/nl/nl/p/bamix-baking-box-staafmixer-200w/9200000106783682/",
       "image": "https://media.s-bol.com/YoxkVmmk4o0/550x562.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-14": 299.0,
         "2026-10-15": 299.0,
@@ -151,7 +155,8 @@
         "2026-10-21": 299.0,
         "2026-10-23": 299.0,
         "2026-10-24": 299.0,
-        "2026-10-25": 299.0
+        "2026-10-25": 299.0,
+        "2026-10-26": 299.0
       },
       "low_price": 299.0
     },
@@ -187,7 +192,7 @@
       "bol_title": "Bosch MSM6M622 ErgoMaster Serie 6 - Staafmixer set - 1000W - Inclusief maatbeker, garde, hakmolen & ijscrusher",
       "url": "https://www.bol.com/nl/nl/p/bosch-serie-6-msm6m622-ergomaster-staafmixer-1000-w-roestvrijstaal/9300000125558765/",
       "image": "https://media.s-bol.com/JoJDB5nZR3Yy/N9LyMY6/550x366.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-15": 74.99,
         "2026-10-16": 74.99,
@@ -198,7 +203,8 @@
         "2026-10-21": 74.99,
         "2026-10-23": 74.99,
         "2026-10-24": 74.99,
-        "2026-10-25": 74.99
+        "2026-10-25": 74.99,
+        "2026-10-26": 74.99
       },
       "low_price": 74.99
     },
@@ -234,7 +240,7 @@
       "bol_title": "Philips Viva Collection HR2656/90 - Staafmixer",
       "url": "https://www.bol.com/nl/nl/p/philips-viva-collection-hr2656-90-staafmixer/9200000108748029/",
       "image": "https://media.s-bol.com/jDyLvqVv2v14/3Q434wx/550x518.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-15": 82.39,
         "2026-10-16": 82.39,
@@ -245,7 +251,8 @@
         "2026-10-21": 91.3,
         "2026-10-23": 91.3,
         "2026-10-24": 91.3,
-        "2026-10-25": 91.3
+        "2026-10-25": 91.3,
+        "2026-10-26": 91.3
       },
       "low_price": 82.39,
       "prev_price": 82.39,
@@ -285,15 +292,16 @@
       "url": "https://www.bol.com/nl/nl/p/kitchenaid-5khbv83ebm-blender-staafmixer-180-w/9300000233809981/",
       "image": "https://media.s-bol.com/mpmmV4PWB0LG/KrgYlEn/550x590.jpg",
       "ph": {
-        "2026-10-25": 119.8
+        "2026-10-25": 119.8,
+        "2026-10-26": 119.8
       },
       "low_price": 119.8,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26"
     },
     {
       "brand": "Bosch",
       "name": "ErgoMixx MS6CB6110",
-      "price": 53.8,
+      "price": 53.7,
       "score": 8.4,
       "label": null,
       "reviews": "1.000+ reviews",
@@ -322,7 +330,7 @@
       "bol_title": "Bosch MS6CB6110 ErgoMixx - Staafmixer - 1000W - 4-bladenmes - Inclusief maatbeker - 12 snelheidsinstellingen - RVS/Zwart",
       "url": "https://www.bol.com/nl/nl/p/bosch-ms6cb6110-ergomixx-staafmixer-zwart/9200000115179654/",
       "image": "https://media.s-bol.com/YAkR16x5ELMp/O7gOM7g/396x840.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-15": 54.7,
         "2026-10-16": 54.7,
@@ -333,11 +341,12 @@
         "2026-10-21": 54.7,
         "2026-10-23": 53.8,
         "2026-10-24": 53.8,
-        "2026-10-25": 53.8
+        "2026-10-25": 53.8,
+        "2026-10-26": 53.7
       },
-      "low_price": 53.8,
-      "prev_price": 54.7,
-      "prev_date": "2026-10-21"
+      "low_price": 53.7,
+      "prev_price": 53.8,
+      "prev_date": "2026-10-25"
     },
     {
       "brand": "Smeg",
@@ -371,7 +380,7 @@
       "bol_title": "SMEG HBF03CREU Staafmixer met Accessoires - 700W - Hakmolen, Garde & 1,4L Maatbeker - Variabele Snelheid & Turbofunctie - FlowBlend - '50s Style - Crème",
       "url": "https://www.bol.com/nl/nl/p/smeg-hbf03creu-staafmixer-creme-700w-met-accessoires/9300000185296998/",
       "image": "https://media.s-bol.com/qkK3Mo6z0m33/1wB2RBZ/550x583.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-15": 109.0,
         "2026-10-16": 109.0,
@@ -382,7 +391,8 @@
         "2026-10-21": 109.0,
         "2026-10-23": 109.0,
         "2026-10-24": 114.0,
-        "2026-10-25": 114.0
+        "2026-10-25": 114.0,
+        "2026-10-26": 114.0
       },
       "low_price": 109.0,
       "prev_price": 109.0,
@@ -420,7 +430,7 @@
       "bol_title": "Russell Hobbs Desire Red 3 in 1 Staafmixer - 27140-56",
       "url": "https://www.bol.com/nl/nl/p/russell-hobbs-desire-red-3-in-1-staafmixer-27140-56/9300000191766494/",
       "image": "https://media.s-bol.com/7qQ3JrOLk1Mw/2kJXvzz/550x612.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-15": 33.99,
         "2026-10-16": 33.99,
@@ -431,7 +441,8 @@
         "2026-10-21": 33.99,
         "2026-10-23": 33.99,
         "2026-10-24": 33.99,
-        "2026-10-25": 33.99
+        "2026-10-25": 33.99,
+        "2026-10-26": 33.99
       },
       "low_price": 33.99
     },
@@ -466,7 +477,7 @@
       "bol_title": "Braun MultiQuick 3 - MQ 3135 WH Sauce - Staafmixer - Wit",
       "url": "https://www.bol.com/nl/nl/p/braun-multiquick-3-mq-3135-wh-sauce-staafmixer-wit/9200000083217708/",
       "image": "https://media.s-bol.com/8A2Kk0AQB6O2/WnROzoW/550x627.jpg",
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "ph": {
         "2026-10-14": 59.0,
         "2026-10-15": 59.0,
@@ -478,7 +489,8 @@
         "2026-10-21": 59.0,
         "2026-10-23": 59.0,
         "2026-10-24": 59.0,
-        "2026-10-25": 59.0
+        "2026-10-25": 59.0,
+        "2026-10-26": 59.0
       },
       "low_price": 59.0
     }

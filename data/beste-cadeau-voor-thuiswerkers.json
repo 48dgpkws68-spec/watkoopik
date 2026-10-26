@@ -52,10 +52,11 @@
       "image": "https://media.s-bol.com/qB26pXwwVPY0/pg7W7kX/550x311.jpg",
       "ph": {
         "2026-10-24": 74.0,
-        "2026-10-25": 74.0
+        "2026-10-25": 74.0,
+        "2026-10-26": 74.0
       },
       "low_price": 74.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -89,10 +90,11 @@
       "image": "https://media.s-bol.com/KNn8Rlm84r5z/XDBz7yo/550x195.jpg",
       "ph": {
         "2026-10-24": 54.89,
-        "2026-10-25": 54.89
+        "2026-10-25": 54.89,
+        "2026-10-26": 54.89
       },
       "low_price": 54.89,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -126,10 +128,11 @@
       "image": "https://media.s-bol.com/yjo7jOLkRqAE/JZnD7D9/550x411.jpg",
       "ph": {
         "2026-10-24": 139.0,
-        "2026-10-25": 139.0
+        "2026-10-25": 139.0,
+        "2026-10-26": 139.0
       },
       "low_price": 139.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -163,10 +166,11 @@
       "image": "https://media.s-bol.com/YG29M2mkXV4n/yrEMnEP/550x260.jpg",
       "ph": {
         "2026-10-24": 99.9,
-        "2026-10-25": 99.9
+        "2026-10-25": 99.9,
+        "2026-10-26": 99.9
       },
       "low_price": 99.9,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -200,10 +204,11 @@
       "image": "https://media.s-bol.com/nl18RVOqoMV4/8qoBGv3/550x609.jpg",
       "ph": {
         "2026-10-24": 62.9,
-        "2026-10-25": 62.9
+        "2026-10-25": 62.9,
+        "2026-10-26": 62.9
       },
       "low_price": 62.9,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -237,16 +242,17 @@
       "image": "https://media.s-bol.com/2woV4qB2Ggov/Nk7wJQp/467x840.jpg",
       "ph": {
         "2026-10-24": 59.0,
-        "2026-10-25": 59.0
+        "2026-10-25": 59.0,
+        "2026-10-26": 59.0
       },
       "low_price": 59.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Philips Hue",
       "name": "Go draagbare tafellamp",
-      "price": 78.99,
+      "price": 72.99,
       "score": 8.2,
       "label": null,
       "oneliner": "Draagbare sfeerlamp die je overal neerzet, ook na werktijd.",
@@ -274,16 +280,19 @@
       "image": "https://media.s-bol.com/xD384n9nN5VB/Xozor0l/550x489.jpg",
       "ph": {
         "2026-10-24": 78.99,
-        "2026-10-25": 78.99
+        "2026-10-25": 78.99,
+        "2026-10-26": 72.99
       },
-      "low_price": 78.99,
-      "synced": "2026-10-25",
-      "reviews": "reviews op bol"
+      "low_price": 72.99,
+      "synced": "2026-10-26",
+      "reviews": "reviews op bol",
+      "prev_price": 78.99,
+      "prev_date": "2026-10-25"
     },
     {
       "brand": "Xiaomi",
       "name": "Mi Computer Monitor Light Bar",
-      "price": 49.95,
+      "price": 49.45,
       "score": 8.0,
       "label": null,
       "oneliner": "Betaalbare monitorlamp met draaiknop voor helderheid en kleur.",
@@ -311,11 +320,14 @@
       "image": "https://media.s-bol.com/pA4X4KGGVDGp/lOg105j/550x338.jpg",
       "ph": {
         "2026-10-24": 49.95,
-        "2026-10-25": 49.95
+        "2026-10-25": 49.95,
+        "2026-10-26": 49.45
       },
-      "low_price": 49.95,
-      "synced": "2026-10-25",
-      "reviews": "reviews op bol"
+      "low_price": 49.45,
+      "synced": "2026-10-26",
+      "reviews": "reviews op bol",
+      "prev_price": 49.95,
+      "prev_date": "2026-10-25"
     },
     {
       "brand": "Rolio",
@@ -348,10 +360,11 @@
       "image": "https://media.s-bol.com/xA3MgR31oYLP/1wkoA8Z/550x500.jpg",
       "ph": {
         "2026-10-24": 37.95,
-        "2026-10-25": 37.95
+        "2026-10-25": 37.95,
+        "2026-10-26": 37.95
       },
       "low_price": 37.95,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -385,10 +398,11 @@
       "image": "https://media.s-bol.com/8ZmnOkQq4Exj/VmVxMn5/550x632.jpg",
       "ph": {
         "2026-10-24": 56.99,
-        "2026-10-25": 56.99
+        "2026-10-25": 56.99,
+        "2026-10-26": 56.99
       },
       "low_price": 56.99,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     }
   ],

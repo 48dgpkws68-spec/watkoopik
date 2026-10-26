@@ -52,10 +52,11 @@
       "url": "https://www.bol.com/nl/nl/p/philips-hf3531-01-wake-up-light/9200000059519590/",
       "image": "https://media.s-bol.com/ZGwy5XYoxWlw/5AJOOZ/550x395.jpg",
       "ph": {
-        "2026-10-25": 150.0
+        "2026-10-25": 150.0,
+        "2026-10-26": 150.0
       },
       "low_price": 150.0,
-      "synced": "2026-10-25"
+      "synced": "2026-10-26"
     },
     {
       "brand": "Denver",
@@ -88,10 +89,11 @@
       "image": "https://media.s-bol.com/RAvjDjRlyx9V/Z4GpRQw/550x518.jpg",
       "ph": {
         "2026-10-24": 69.8,
-        "2026-10-25": 69.8
+        "2026-10-25": 69.8,
+        "2026-10-26": 69.8
       },
       "low_price": 69.8,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -125,10 +127,11 @@
       "image": "https://media.s-bol.com/jKgrOjzPoXwy/5y7pV1Z/550x787.jpg",
       "ph": {
         "2026-10-24": 169.99,
-        "2026-10-25": 169.0
+        "2026-10-25": 169.0,
+        "2026-10-26": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol",
       "prev_price": 169.99,
       "prev_date": "2026-10-24"
@@ -136,7 +139,7 @@
     {
       "brand": "De'Longhi",
       "name": "Nespresso Citiz EN167.B",
-      "price": 128.0,
+      "price": 130.3,
       "score": 8.7,
       "label": null,
       "oneliner": "Retro cupmachine voor espresso en lungo.",
@@ -164,13 +167,14 @@
       "image": "https://media.s-bol.com/B4kyWKLnwpYo/xnJnDBq/387x840.jpg",
       "ph": {
         "2026-10-24": 135.95,
-        "2026-10-25": 128.0
+        "2026-10-25": 128.0,
+        "2026-10-26": 130.3
       },
       "low_price": 128.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol",
-      "prev_price": 135.95,
-      "prev_date": "2026-10-24"
+      "prev_price": 128.0,
+      "prev_date": "2026-10-25"
     },
     {
       "brand": "Beurer",
@@ -203,10 +207,11 @@
       "image": "https://media.s-bol.com/7RyzPrMMrpLr/Q1pP2nM/550x501.jpg",
       "ph": {
         "2026-10-24": 47.38,
-        "2026-10-25": 47.38
+        "2026-10-25": 47.38,
+        "2026-10-26": 47.38
       },
       "low_price": 47.38,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -240,10 +245,11 @@
       "image": "https://media.s-bol.com/mxDwVEnQEp6A/66N2YnL/550x540.jpg",
       "ph": {
         "2026-10-24": 45.08,
-        "2026-10-25": 45.08
+        "2026-10-25": 45.08,
+        "2026-10-26": 45.08
       },
       "low_price": 45.08,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -277,10 +283,11 @@
       "image": "https://media.s-bol.com/Dnz9ANZJXNRB/wjn4lWg/550x550.jpg",
       "ph": {
         "2026-10-24": 85.99,
-        "2026-10-25": 85.99
+        "2026-10-25": 85.99,
+        "2026-10-26": 85.99
       },
       "low_price": 85.99,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -314,10 +321,11 @@
       "image": "https://media.s-bol.com/ZXJXL8BP0X0Q/ZW8lB6/550x697.jpg",
       "ph": {
         "2026-10-24": 96.0,
-        "2026-10-25": 96.0
+        "2026-10-25": 96.0,
+        "2026-10-26": 96.0
       },
       "low_price": 96.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -351,10 +359,11 @@
       "image": "https://media.s-bol.com/kXvrDpRyr14N/57K3lN8/550x621.jpg",
       "ph": {
         "2026-10-24": 104.0,
-        "2026-10-25": 104.0
+        "2026-10-25": 104.0,
+        "2026-10-26": 104.0
       },
       "low_price": 104.0,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     },
     {
@@ -388,10 +397,11 @@
       "image": "https://media.s-bol.com/VBvg41o6lX71/MQ9p1wP/550x376.jpg",
       "ph": {
         "2026-10-24": 45.95,
-        "2026-10-25": 45.95
+        "2026-10-25": 45.95,
+        "2026-10-26": 45.95
       },
       "low_price": 45.95,
-      "synced": "2026-10-25",
+      "synced": "2026-10-26",
       "reviews": "reviews op bol"
     }
   ],

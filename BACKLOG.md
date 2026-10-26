@@ -2,7 +2,7 @@
 
 Formaat: slug | cat | query | titel | emoji
 
-[ ] beste-luchtreiniger-slaapkamer | wonen | luchtreiniger slaapkamer | De 10 beste stille luchtreinigers voor de slaapkamer van 2026 | 🛏️
+[x] beste-luchtreiniger-slaapkamer | wonen | luchtreiniger slaapkamer | De 10 beste stille luchtreinigers voor de slaapkamer van 2026 | 🛏️
 [ ] beste-luchtreiniger-katten | wonen | luchtreiniger kattenallergie | De 10 beste luchtreinigers bij kattenallergie van 2026 | 🐈
 [ ] beste-tv-onder-1000-euro | elektronica | tv onder 1000 euro | De 10 beste tv's onder 1000 euro van 2026 | 📺
 [x] beste-elektrische-kachel-badkamer | wonen | elektrische kachel badkamer | De 10 beste elektrische kachels voor de badkamer van 2026 | 🔥
@@ -202,3 +202,4 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-webcam | computer | webcam | De 10 beste webcams van 2026 | 📷
 [x] beste-keramische-kachel | wonen | keramische kachel | De 10 beste keramische kachels van 2026 | 🔥
 [x] beste-warmtekussen | verzorging | elektrisch warmtekussen | De 10 beste elektrische warmtekussens van 2026 | 🔥
+[x] beste-winterdekbed | slapen | winterdekbed | De 10 beste winterdekbedden van 2026 | ❄️
