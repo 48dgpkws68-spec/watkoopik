@@ -255,51 +255,41 @@
       "prev_date": "2026-10-26"
     },
     {
-      "brand": "SodaStream",
-      "name": "Gaia",
-      "price": 59.99,
+      "brand": "Philips",
+      "name": "GoZero Soda Maker",
+      "price": 75.0,
       "score": 8.4,
       "label": null,
-      "reviews": "500+ reviews",
-      "oneliner": "Instapmodel van SodaStream met schroefcilinder.",
+      "reviews": "Nog weinig reviews",
+      "oneliner": "Compacte bruiswatermaker van Philips die zonder stroom werkt.",
       "specs": {
-        "Cilinder": "schroefcilinder 60 l",
-        "Flessen": "kunststof 1 l",
+        "Cilinder": "60 l, meegeleverd",
+        "Flessen": "kunststof (PET) 1 l",
         "Stroom nodig": "nee",
         "Bediening": "drukknop",
         "Materiaal": "kunststof"
       },
       "pros": [
-        "Laagste prijs van SodaStream",
-        "Werkt met overal verkrijgbare schroefcilinders",
-        "Licht en compact",
-        "Eenvoudige bediening"
+        "Geen stroom nodig",
+        "Compact formaat voor een klein aanrecht",
+        "CO2-cilinder voor ongeveer 60 liter in de doos",
+        "BPA-vrije fles van 1 liter"
       ],
       "cons": [
-        "Cilinder vastschroeven kost meer moeite",
-        "Eenvoudige afwerking"
+        "Nog weinig ervaringen van kopers op bol",
+        "Geen glazen karaf"
       ],
-      "ideal": "Wie zo voordelig mogelijk wil starten met een merkapparaat.",
-      "text": "De SodaStream Gaia is het instapmodel van het merk. Hij werkt met de klassieke blauwe schroefcilinder van 60 liter, die je onder in het apparaat vastdraait. Dat kost iets meer moeite dan de Quick Connect-cilinder, maar die schroefcilinders zijn op veel plekken te koop en om te ruilen.\n\nDe bediening is simpel: fles eronder, een paar keer op de knop drukken en klaar. Het apparaat is licht en past op een klein aanrecht. Kopers op bol zijn tevreden over de prijs en de betrouwbaarheid, al voelt de kunststof wat dunner aan dan bij duurdere modellen. Er past alleen een kunststof fles in. Voor wie wil uitproberen of zelf bruiswater maken bevalt, is de Gaia de goedkoopste manier met een bekend merk. Ook als tweede apparaat voor op de camping of in een studentenkamer is hij praktisch.",
-      "ean": "7290116742366",
-      "bol_title": "sodastream GAIA ST+USR LIC 60 L BLACK BNL (DW)",
-      "url": "https://www.bol.com/nl/nl/p/frisdrankautomaat-sodastream-gaia-zwart/9300000150474858/",
-      "image": "https://media.s-bol.com/3N9rlRwAwElx/g5qoxwj/329x840.jpg",
-      "synced": "2026-10-27",
+      "ideal": "Wie een eenvoudige bruiswatermaker van een bekend merk zoekt en geen SodaStream wil.",
+      "text": "De Philips GoZero is een eenvoudige bruiswatermaker die zonder stroom werkt. Je vult de fles met koud water, draait hem in het apparaat en drukt een paar keer op de knop tot het water genoeg prik heeft. Meer is het niet, waardoor ook wie nog nooit zelf bruiswater heeft gemaakt er meteen mee overweg kan. In de doos zit een CO2-cilinder waarmee je ongeveer 60 liter water laat bruisen.\n\nMet een hoogte van ruim 42 cm past hij onder de meeste keukenkastjes. De fles van 1 liter is gemaakt van BPA-vrij PET. Een glazen karaf zoals bij de SodaStream Duo past er niet in. De afwerking is eenvoudig en volledig van kunststof. Op bol staan nog weinig beoordelingen van kopers, dus je vertrouwt vooral op de naam van Philips. Voor rond de 75 euro is het een nette instapper voor wie geen SodaStream wil of een tweede apparaat zoekt voor de camping of een studentenkamer.",
+      "ean": "4897099301479",
+      "bol_title": "Philips GoZero - Saturator - Zwart - Zonder Stroom - Compact",
+      "url": "https://www.bol.com/nl/nl/p/philips-4897099301479-carbonator-kunststof-zwart/9300000141691980/",
+      "image": "https://media.s-bol.com/qnxJjwj9g7xr/gJZOM1D/485x840.jpg",
       "ph": {
-        "2026-10-15": 59.99,
-        "2026-10-16": 59.99,
-        "2026-10-17": 59.99,
-        "2026-10-18": 59.99,
-        "2026-10-19": 59.99,
-        "2026-10-20": 59.99,
-        "2026-10-21": 59.99,
-        "2026-10-23": 59.99,
-        "2026-10-24": 59.99,
-        "2026-10-25": 59.99,
-        "2026-10-26": 59.99
+        "2026-10-27": 75.0
       },
-      "low_price": 59.99
+      "low_price": 75.0,
+      "synced": "2026-10-27"
     },
     {
       "brand": "Mysoda",
