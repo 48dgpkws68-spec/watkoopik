@@ -326,54 +326,41 @@
       "low_price": 89.99
     },
     {
-      "brand": "Philips",
-      "name": "Compacte keramische kachel CX2120/01",
-      "price": 54.0,
+      "brand": "Aironex",
+      "name": "Keramische kachel 1200 W",
+      "price": 49.95,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
-      "oneliner": "Kleine keramische kachel die snel warmte geeft en stil blijft.",
+      "oneliner": "Compacte keramische ventilatorkachel van 1200 watt die snel een kleine plek opwarmt.",
       "specs": {
         "Type": "Keramisch",
-        "Vermogen": "2000 W",
+        "Vermogen": "1200 W",
         "Thermostaat": "Instelbaar",
         "Timer": "Nee",
-        "Kosten per uur": "max. € 0,60"
+        "Kosten per uur": "max. € 0,36"
       },
       "pros": [
         "Binnen enkele minuten merkbare warmte",
+        "Laag vermogen voor een ventilatorkachel",
         "Compact formaat dat overal past",
-        "Stille werking voor een ventilatorkachel",
-        "Beveiliging tegen oververhitting en omvallen"
+        "Stille werking volgens kopers"
       ],
       "cons": [
         "Geen timer of app",
         "Verwarmt vooral de directe omgeving"
       ],
-      "ideal": "Wie snel een kleine ruimte zoals een badkamer of werkhoek wil opwarmen.",
-      "text": "De Philips CX2120 is een compacte keramische kachel voor als je snel warmte wilt. Een keramisch element warmt in korte tijd op en een ventilator blaast de warme lucht direct de kamer in. Je voelt het verschil daardoor binnen een paar minuten. Dat maakt hem zuinig in gebruik voor korte momenten: je zet hem aan als je in de badkamer staat of aan je bureau zit en zet hem daarna weer uit.\n\nMet de draaiknop kies je de gewenste stand en de thermostaat zorgt dat hij niet onnodig doorloopt. Philips heeft hem uitgerust met een beveiliging tegen oververhitting en een schakelaar die de kachel uitzet als hij omvalt. Kopers prijzen het geringe geluid en het kleine formaat. Een timer of app ontbreekt, dus je moet zelf onthouden hem uit te zetten. Voor het continu verwarmen van een woonkamer is hij niet bedoeld. Als snelle bijverwarming is het een betaalbare en betrouwbare keuze.",
-      "ean": "8720389041501",
-      "bol_title": "Philips compacte Keramische Kachel - CX2120/01 – Razendsnelle en Fluisterstille Verwarming voor Elke Kamer",
-      "url": "https://www.bol.com/nl/nl/p/philips-compacte-keramische-verwarming/9300000186181868/",
-      "image": "https://media.s-bol.com/mm9K29jJqQn3/yPvyW86/550x611.jpg",
-      "synced": "2026-10-27",
+      "ideal": "Wie snel een kleine ruimte zoals een werkhoek of toilet wil opwarmen.",
+      "text": "De Aironex keramische kachel is een kleine ventilatorkachel voor als je snel warmte wilt op een vaste plek. Een keramisch element warmt in korte tijd op en de ventilator blaast de warme lucht direct naar je toe. Met 1200 watt verbruikt hij minder dan de meeste ventilatorkachels van 2000 watt. Bij 0,30 euro per kWh kost een uur op vol vermogen ongeveer 36 cent.\n\nDe besparing zit vooral in kort en gericht gebruik. Je zet hem aan als je aan je bureau gaat zitten en daarna weer uit, in plaats van het hele huis op te stoken. De thermostaat zorgt dat hij niet onnodig doorloopt. Kopers op bol geven hem gemiddeld een 4,4 van 5 en noemen het lage geluid en het kleine formaat. Een timer of app ontbreekt, dus je moet zelf onthouden hem uit te zetten. Voor het continu verwarmen van een woonkamer is hij niet bedoeld.",
+      "ean": "8720892170385",
+      "bol_title": "Aironex Keramische Elektrische Kachel - Compacte Zwarte Kachelventilator - Stille Kachel Electrisch 1200 Watt - Verwarming Electrisch - Heater - Ventilatorkachel",
+      "url": "https://www.bol.com/nl/nl/p/electrische-kachel-1000-watt/9300000158643764/",
+      "image": "https://media.s-bol.com/RA5KOW8XABWO/NxXgm3p/550x790.jpg",
       "ph": {
-        "2026-10-15": 56.52,
-        "2026-10-16": 56.52,
-        "2026-10-17": 59.52,
-        "2026-10-18": 59.52,
-        "2026-10-19": 59.52,
-        "2026-10-20": 59.0,
-        "2026-10-21": 59.0,
-        "2026-10-23": 59.0,
-        "2026-10-24": 56.0,
-        "2026-10-25": 56.0,
-        "2026-10-26": 54.0,
-        "2026-10-27": 54.0
+        "2026-10-27": 49.95
       },
-      "low_price": 54.0,
-      "prev_price": 56.0,
-      "prev_date": "2026-10-25"
+      "low_price": 49.95,
+      "synced": "2026-10-27"
     },
     {
       "brand": "VONROC",
@@ -426,49 +413,41 @@
       "prev_date": "2026-10-26"
     },
     {
-      "brand": "Klarstein",
-      "name": "Air infraroodpaneel 360 W",
-      "price": 118.99,
+      "brand": "VH",
+      "name": "Infrarood paneel Superia 450 W",
+      "price": 129.0,
       "score": 8.2,
       "label": null,
-      "reviews": "60+ reviews",
-      "oneliner": "Dun infraroodpaneel met open-raamdetectie, timer en afstandsbediening.",
+      "reviews": "bol-score 4,1 van 5",
+      "oneliner": "Infraroodpaneel met thermostaat, wifi en afstandsbediening voor aan de muur of vrijstaand.",
       "specs": {
         "Type": "Infraroodpaneel",
-        "Vermogen": "360 W",
-        "Thermostaat": "Digitaal",
+        "Vermogen": "450 W",
+        "Thermostaat": "Digitaal, app",
         "Timer": "Ja",
-        "Kosten per uur": "max. € 0,11"
+        "Kosten per uur": "max. € 0,14"
       },
       "pros": [
-        "Laag vermogen van 360 watt",
-        "Open-raamdetectie",
-        "Thermostaat, timer en afstandsbediening",
-        "Plat paneel voor aan de muur"
+        "Laag vermogen van 450 watt",
+        "Thermostaat, wifi en afstandsbediening",
+        "Aan de muur of vrijstaand te gebruiken",
+        "Plat paneel van 50 bij 90 cm"
       ],
       "cons": [
         "Beoordelingen zijn wisselend",
         "Alleen voor een kleine plek of ruimte"
       ],
-      "ideal": "Wie een klein kantoor of hal goedkoop warm wil houden met een paneel aan de muur.",
-      "text": "Het Klarstein Air-paneel is een plat infraroodpaneel van 360 watt voor aan de muur. Net als bij de andere panelen in deze lijst zit de besparing in gericht verwarmen: je voelt de straling op je huid en de kamer hoeft minder warm te zijn. Klarstein voegt een thermostaat, een timer en open-raamdetectie toe. Je bedient alles met de afstandsbediening.\n\nBij 0,30 euro per kWh kost een uur op vol vermogen ongeveer 11 cent. Dat maakt hem geschikt voor een plek waar je lang zit, zoals een kleine thuiswerkhoek of een hal die net niet koud mag worden. Het paneel is dun en valt aan de muur weinig op. De beoordelingen op bol zijn gemengd: een deel van de kopers is tevreden over de warmte op korte afstand, een ander deel had meer verwacht in een grotere kamer. Verwacht er dus geen ruimteverwarming van, maar een warme plek.",
-      "ean": "4060656158759",
-      "bol_title": "Klarstein Air infraroodverwarming, 360 W infraroodpaneel met open raamdetectie, wandmontage, thermostaat, timer en afstandsbediening, ruimtebesparende energiezuinige elektrische verwarming",
-      "url": "https://www.bol.com/nl/nl/p/wonderwall-air-infrarood-verwarming-kachel-beschermklasse-ip54-afstandsbediening-wandmontage-wit/9300000009221187/",
-      "image": "https://media.s-bol.com/1Lo0Zv4nmN3m/zmO04Wr/550x304.jpg",
-      "synced": "2026-10-27",
+      "ideal": "Wie een kleine werkplek of hal zuinig warm wil houden met een paneel dat je ook kunt verplaatsen.",
+      "text": "Het VH Superia-paneel is een plat infraroodpaneel van 450 watt dat je aan de muur hangt of op voetjes zet. Net als bij de andere panelen in deze lijst zit de besparing in gericht verwarmen: je voelt de straling op je huid, waardoor de kamer zelf minder warm hoeft te zijn. VH levert er een thermostaat en afstandsbediening bij. Via wifi stel je ook vanaf je telefoon een schema in.\n\nBij 0,30 euro per kWh kost een uur op vol vermogen ongeveer 14 cent. Dat maakt hem geschikt voor een plek waar je lang zit, zoals een thuiswerkhoek of een kleine hal die net niet koud mag worden. Omdat hij ook vrijstaand kan, neem je hem mee naar de plek waar je hem nodig hebt. Kopers op bol geven hem gemiddeld een 4,1 van 5. Tevreden kopers noemen de warmte op korte afstand, anderen hadden meer verwacht in een grotere kamer.",
+      "ean": "8719874750844",
+      "bol_title": "VH Infrarood paneel Superia - 50 x 90 cm - 450 Watt - Inclusief thermostaat - Smart Wifi - Afstandsbediening - Wandmontage & Vrijstaand - Mobiel infraroodpaneel",
+      "url": "https://www.bol.com/nl/nl/p/vh-infrarood-paneel-superia-50x90cm-450w-wandmontage-vrijstaand/9200000106114993/",
+      "image": "https://media.s-bol.com/j1BJxDLDX374/y8g8NoP/550x568.jpg",
       "ph": {
-        "2026-10-18": 118.99,
-        "2026-10-19": 118.99,
-        "2026-10-20": 118.99,
-        "2026-10-21": 118.99,
-        "2026-10-23": 118.99,
-        "2026-10-24": 118.99,
-        "2026-10-25": 118.99,
-        "2026-10-26": 118.99,
-        "2026-10-27": 118.99
+        "2026-10-27": 129.0
       },
-      "low_price": 118.99
+      "low_price": 129.0,
+      "synced": "2026-10-27"
     }
   ],
   "guide": [

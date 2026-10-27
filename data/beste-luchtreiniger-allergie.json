@@ -225,51 +225,41 @@
       "prev_date": "2026-10-26"
     },
     {
-      "brand": "Levoit",
-      "name": "Core 600S",
-      "price": 389.0,
+      "brand": "Philips",
+      "name": "3000i Series AC3033/10",
+      "price": 349.0,
       "score": 8.8,
       "label": null,
-      "reviews": "100+ reviews",
-      "oneliner": "Krachtige H13-reiniger voor een grote woonkamer of open ruimte.",
+      "reviews": "Beoordeeld met 4,3 op bol",
+      "oneliner": "Krachtige HEPA-reiniger met allergiestand voor een grote woonkamer of open ruimte.",
       "specs": {
-        "CADR": "ca. 640 m³/u",
-        "Ruimte": "tot ca. 140 m²",
-        "Filter": "H13 True HEPA",
-        "Geluid": "vanaf ca. 25 dB",
-        "Slaapstand": "ja, display uit"
+        "CADR": "ca. 520 m³/u",
+        "Ruimte": "tot ca. 135 m²",
+        "Filter": "NanoProtect HEPA + actieve kool",
+        "Geluid": "vanaf ca. 33 dB",
+        "Slaapstand": "ja, lampjes gedimd"
       },
       "pros": [
-        "Hoogste CADR in deze lijst",
-        "Echt H13-filter",
-        "Automatische stand met sensor",
-        "App met schema's en filterstatus"
+        "Hoge CADR voor grote ruimtes",
+        "Allergiestand die extra reageert op pollen en stof",
+        "Sensor die fijnstof meet en de stand aanpast",
+        "App met filterstatus en luchtkwaliteit"
       ],
       "cons": [
         "Groot voor een gewone slaapkamer",
-        "Beoordeling op bol lager dan bij de Core 300S"
+        "Duurder dan de PureProtect 3200 met een vergelijkbare CADR"
       ],
       "ideal": "Wie met allergie een grote woonkamer of open keuken snel wil zuiveren.",
-      "text": "Waar de Core 300S gemaakt is voor de slaapkamer, is de Levoit Core 600S bedoeld voor de grootste ruimte in huis. Met een CADR van ongeveer 640 m³/u is hij de krachtigste reiniger in deze lijst. In een woonkamer van 40 m² ververst hij de lucht vele keren per uur. Dat is handig als je met een hond of kat leeft, omdat huidschilfers continu opnieuw in de lucht komen.\n\nHij gebruikt een echt H13 True HEPA-filter met een voorfilter en een koolstoflaag. De sensor meet fijnstof en past de snelheid automatisch aan. Via de app plan je dat hij overdag hard draait en 's avonds terugschakelt naar de stille stand, rond de 25 dB. Het display gaat dan uit. Op bol scoort hij een 4,0, iets lager dan zijn kleine broer. Kopers zijn positief over de kracht, minder over het formaat. Voor een gewone slaapkamer is hij overgedimensioneerd. Heb je een groot open huis en allergie, dan is dit een sterke keuze.",
-      "ean": "0810043375214",
-      "bol_title": "Levoit Core 600S LAP-C601S Slimme luchtreiniger",
-      "url": "https://www.bol.com/nl/nl/p/levoit-smart-luchtreiniger-core-600s-lap-c601s/9300000098586396/",
-      "image": "https://media.s-bol.com/ZD86O2Ymjljw/zGM23O/550x764.jpg",
-      "synced": "2026-10-27",
+      "text": "Waar de meeste reinigers in deze lijst gemaakt zijn voor de slaapkamer, is de Philips 3000i Series AC3033/10 bedoeld voor de grootste ruimte in huis. Met een CADR van ongeveer 520 m³/u ververst hij de lucht in een woonkamer van 40 m² vele keren per uur. Dat is handig als je met een hond of kat leeft, omdat huidschilfers steeds opnieuw in de lucht komen.\n\nHij gebruikt een NanoProtect HEPA-filter met een laag actieve kool tegen geurtjes. Een sensor meet fijnstof en past de snelheid automatisch aan. In de allergiestand reageert hij extra snel op pollen en huisstof. Via de app zie je de luchtkwaliteit en hoe lang het filter nog meegaat. 's Nachts zakt hij naar ongeveer 33 dB en dimmen de lampjes. Op bol scoort hij een 4,3. Voor een gewone slaapkamer is hij te groot. Heb je een groot open huis en allergie, dan is dit een sterke keuze.",
+      "ean": "8720389002069",
+      "bol_title": "Philips 3000i Series AC3033/10 - Luchtreiniger met HEPA Filter voor XL-ruimten - 520 m³/u - Wit / Grijs - App Connected",
+      "url": "https://www.bol.com/nl/nl/p/philips-luchtzuiveraar-zuivert-de-lucht-in-ruimten-tot-135-m/9200000115917234/",
+      "image": "https://media.s-bol.com/Yx89BrLw718A/x3ExgP/500x840.jpg",
       "ph": {
-        "2026-10-18": 360.0,
-        "2026-10-19": 360.0,
-        "2026-10-20": 360.0,
-        "2026-10-21": 389.0,
-        "2026-10-23": 389.0,
-        "2026-10-24": 389.0,
-        "2026-10-25": 389.0,
-        "2026-10-26": 389.0,
-        "2026-10-27": 389.0
+        "2026-10-27": 349.0
       },
-      "low_price": 360.0,
-      "prev_price": 360.0,
-      "prev_date": "2026-10-20"
+      "low_price": 349.0,
+      "synced": "2026-10-27"
     },
     {
       "brand": "Winix",
@@ -537,7 +527,7 @@
     },
     {
       "q": "Werkt een luchtreiniger bij een allergie voor katten of honden?",
-      "a": "Ja, een HEPA-filter vangt huidschilfers van huisdieren. Omdat die steeds opnieuw in de lucht komen, heb je een ruime CADR nodig. Een reiniger als de Levoit Core 600S of de Winix 5300-2 is geschikt voor een woonkamer met huisdieren. Houd het dier ook buiten de slaapkamer."
+      "a": "Ja, een HEPA-filter vangt huidschilfers van huisdieren. Omdat die steeds opnieuw in de lucht komen, heb je een ruime CADR nodig. Een reiniger als de Philips 3000i of de Winix 5300-2 is geschikt voor een woonkamer met huisdieren. Houd het dier ook buiten de slaapkamer."
     },
     {
       "q": "Hoe groot moet de CADR zijn bij allergie?",

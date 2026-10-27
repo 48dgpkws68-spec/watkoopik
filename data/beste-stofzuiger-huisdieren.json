@@ -352,7 +352,7 @@
     {
       "brand": "Miele",
       "name": "Boost CX1 Cat & Dog PowerLine",
-      "price": 359.0,
+      "price": 395.0,
       "score": 8.3,
       "label": null,
       "reviews": "100+ reviews",
@@ -376,24 +376,15 @@
       ],
       "ideal": "Kleinere woningen met een kat of hond waar je de stofzuiger makkelijk wilt opbergen.",
       "text": "De Miele Boost CX1 Cat & Dog PowerLine is een zakloze sledestofzuiger met snoer in een opvallend compact formaat. Hij neemt volgens Miele minder ruimte in dan twee A4'tjes en rijdt dankzij TrackDrive met wielen aan de zijkant soepel achter je aan zonder tegen deurposten te botsen. Je zuigt met de kracht van een snoerstofzuiger, zonder zakken te kopen.\n\nDe Vortex-technologie zorgt voor een luchtstroom van meer dan 100 km/u. Grof vuil zoals haren en kattenbakkorrels landt in het doorzichtige reservoir, fijnstof in een apart vak met fijnstoffilter. Dat maakt legen minder stoffig dan bij veel zakloze modellen. De Cat & Dog-uitvoering is bedoeld voor huishoudens met huisdieren en heeft een turboborstel voor haren in tapijt. Het reservoir is met ongeveer 1 liter klein, dus bij veel haar leeg je vaak. Kopers geven hem gemiddeld een 4,0. Voor rond de 359 euro betaal je vooral voor Miele-kwaliteit en het compacte ontwerp.",
-      "ean": "4002516365945",
-      "bol_title": "Miele Boost CX1 Cat & Dog PowerLine - Stofzuiger zonder zak - Obsidiaanzwart",
-      "url": "https://www.bol.com/nl/nl/p/miele-boost-cx1-cat-dog-powerline-obsidiaanzwart-stofzuiger-zonder-zak/9300000047085767/",
-      "image": "https://media.s-bol.com/AkXxwZ4zWY89/ElPRj4W/550x673.jpg",
-      "synced": "2026-10-27",
+      "ean": "4002516384748",
+      "bol_title": "Miele Boost CX1 Cat & Dog PowerLine - 1l Cilinderstofzuiger - Droog - 890 W Zakloos",
+      "url": "https://www.bol.com/nl/nl/p/miele-boost-cx1-cat-dog-powerline-sncf0-1-l-cilinderstofzuiger-droog-890-w-zakloos/9300000101001020/",
+      "image": "https://media.s-bol.com/nJrGBy1mzVvp/jqM7NJz/550x672.jpg",
       "ph": {
-        "2026-10-17": 359.0,
-        "2026-10-18": 359.0,
-        "2026-10-19": 359.0,
-        "2026-10-20": 359.0,
-        "2026-10-21": 359.0,
-        "2026-10-23": 359.0,
-        "2026-10-24": 359.0,
-        "2026-10-25": 359.0,
-        "2026-10-26": 359.0,
-        "2026-10-27": 359.0
+        "2026-10-27": 395.0
       },
-      "low_price": 359.0
+      "low_price": 395.0,
+      "synced": "2026-10-27"
     },
     {
       "brand": "AEG",
@@ -542,5 +533,8 @@
       "a": "Een robotstofzuiger houdt de vloer tussendoor schoon en voorkomt dat haren zich ophopen in hoeken. De bank, de trap en de hondenmand doet hij niet. Combineer hem daarom met een steelstofzuiger of kruimeldief uit deze lijst."
     }
   ],
-  "published": "2026-10-17"
+  "published": "2026-10-17",
+  "rel": [
+    "beste-luchtreiniger-allergie"
+  ]
 }

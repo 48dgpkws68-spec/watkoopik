@@ -483,7 +483,9 @@ for g in guides:
     words = lambda x: set(re.findall(r"[a-zà-ü]{4,}", " ".join([x["slug"], x["query"]] + x.get("keywords", [])).lower())) - {"beste", "goedkoop", "kopen", "2026", "review", "test"}
     gw = words(g)
     same = [x for x in fam if x["cat"] == g["cat"]] + sorted([x for x in by_cat[g["cat"]] if x["slug"] != g["slug"] and x not in fam], key=lambda x: -len(gw & words(x)))
-    rel = same[:4] + [x for x in fam if x["cat"] != g["cat"]][:1]
+    # optioneel veld "rel": vaste verwante gidsen vooraan (sinds 27 okt 2026, extra inlinks naar gidsen met zoekvertoningen)
+    forced = [x for s in g.get("rel", []) for x in guides if x["slug"] == s]
+    rel = forced + [x for x in same if x not in forced][:4 - min(len(forced), 2)] + [x for x in fam if x["cat"] != g["cat"] and x not in forced][:1]
     gi = guides.index(g)  # aanvullen met gidsen uit andere categorieen, per gids verschoven zodat elke gids inlinks krijgt
     rel += [x for x in (guides[(gi + 7 * j + 3) % len(guides)] for j in range(len(guides))) if x["cat"] != g["cat"] and x not in rel][:6 - len(rel)]
     url_abs = SITE + "/" + g["url"]

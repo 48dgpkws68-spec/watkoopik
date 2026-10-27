@@ -75,6 +75,8 @@ def record_price(p, new):
     prev_price = vorige gemeten prijs als die afwijkt, low_price = laagste bekende, ph = dagprijzen laatste 60 dagen."""
     measured = bool(p.get("synced"))  # oude prijs telt alleen als die eerder door deze sync gemeten is
     old = p.get("price")
+    if not measured:  # vervangen product of andere variant (synced weggehaald): geschiedenis hoort bij de oude EAN, anders ontstaan nepdeals
+        for k in ("ph", "prev_price", "prev_date", "low_price"): p.pop(k, None)
     ph = p.get("ph") or {}
     if measured and old and p.get("synced") not in ph: ph[p["synced"]] = old
     ph[TODAY] = new

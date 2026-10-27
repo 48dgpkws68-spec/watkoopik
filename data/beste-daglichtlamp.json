@@ -311,51 +311,40 @@
       "low_price": 79.99
     },
     {
-      "brand": "Beurer",
-      "name": "TL 70",
-      "price": 123.24,
+      "brand": "Lumie",
+      "name": "Vitamin L",
+      "price": 109.0,
       "score": 8.6,
       "label": null,
-      "reviews": "150+ reviews",
-      "oneliner": "Grote ronde daglichtlamp met dimmer en timer.",
+      "reviews": "5/5 op bol",
+      "oneliner": "Groot lichtpaneel dat je staand of liggend neerzet.",
       "specs": {
         "Lichtsterkte": "10.000 lux",
-        "Afstand": "ca. 20 cm",
-        "Lichtoppervlak": "Ø ca. 33 cm",
-        "Dimbaar": "Ja",
-        "Timer": "Ja"
+        "Afstand": "ca. 25 cm",
+        "Lichtoppervlak": "ca. 40 x 26 cm",
+        "Dimbaar": "Nee",
+        "Timer": "Nee"
       },
       "pros": [
-        "Groot rond lichtvlak",
-        "Dimbaar met timer",
-        "Ook als sfeerlamp te gebruiken"
+        "Groot lichtvlak voor een gelijkmatige lichtbundel",
+        "Staand of liggend te gebruiken",
+        "Van een Britse specialist in lichttherapie"
       ],
       "cons": [
-        "Prijzig",
-        "Neemt meer ruimte in"
+        "Niet dimbaar en geen timer",
+        "Neemt meer ruimte in dan compacte lampen"
       ],
-      "ideal": "Wie een grote ronde lamp wil met alle extra functies.",
-      "text": "De Beurer TL 70 is de grote broer van de TL 50. Het ronde lichtvlak heeft een doorsnede van ongeveer 33 centimeter, wat zorgt voor een groter en gelijkmatiger lichtveld. Je haalt de 10.000 lux op iets grotere afstand dan bij de compacte modellen, zodat je comfortabeler zit tijdens een sessie.\n\nIn tegenstelling tot de TL 50 is de TL 70 dimbaar en heeft hij een timer. Je gebruikt hem dus ook als gewone lamp met minder licht. Het licht is UV-vrij. Kopers op bol geven gemiddeld 4,5 sterren en noemen het grote, zachte lichtvlak prettig voor de ogen. Het formaat en de prijs zijn de nadelen. Voor iemand die het design van de TL 50 mooi vindt maar meer licht en functies wil, is de TL 70 een logische stap omhoog.",
-      "ean": "4211125608255",
-      "bol_title": "Beurer TL 70 Daglichtlamp – Lichttherapielamp 10 000 Lux – Rond Design - Groot oppervlak Ø 33 cm – Dimbaar met 10 Niveaus & Timer (15–120 min) – Flikkervrij & UV-vrij – Medisch Gecertificeerd – 3 Jaar Garantie",
-      "url": "https://www.bol.com/nl/nl/p/beurer-tl70-daglichtlamp-rond-o33cm/9200000049876726/",
-      "image": "https://media.s-bol.com/jN1GqEEzn1Xv/6884v9L/550x550.jpg",
-      "synced": "2026-10-27",
+      "ideal": "Wie een groot lichtvlak wil van een gespecialiseerd merk en geen extra functies nodig heeft.",
+      "text": "De Lumie Vitamin L komt van een Brits merk dat zich al decennia alleen met lichttherapie bezighoudt. Het paneel is groot, ongeveer 40 bij 26 centimeter. Het geeft 10.000 lux op zo'n 25 centimeter afstand. Door dat brede lichtvlak hoef je niet stil recht voor de lamp te zitten: je kunt ontbijten, lezen of werken terwijl het licht je ogen bereikt. Je zet hem rechtop of liggend neer, afhankelijk van je tafel of bureau.\n\nDe koele witte leds zijn UV-vrij volgens Lumie. Extra functies ontbreken wel: er zit geen dimmer en geen timer op, dus je zet hem zelf aan en uit. Kopers op bol geven hem de maximale score en noemen het gelijkmatige licht prettig voor de ogen. Het formaat is het voornaamste nadeel als je weinig ruimte hebt. Wie een grote, eenvoudige lamp zoekt van een merk dat volledig gespecialiseerd is in lichttherapie, zit met de Vitamin L goed.",
+      "ean": "5060006628733",
+      "bol_title": "Lumie Vitamin L - Daglichtlamp - Lichttherapielamp - 10.000 lux - Koele witte LED's - Staand of liggend te gebruiken - Wit",
+      "url": "https://www.bol.com/nl/nl/p/lumie-vitamin-l-daglichtlamp-wit/9200000123431558/",
+      "image": "https://media.s-bol.com/3QBwkPNZVlNO/550x831.jpg",
       "ph": {
-        "2026-10-15": 123.24,
-        "2026-10-16": 123.24,
-        "2026-10-17": 123.24,
-        "2026-10-18": 123.24,
-        "2026-10-19": 123.24,
-        "2026-10-20": 123.24,
-        "2026-10-21": 123.24,
-        "2026-10-23": 123.24,
-        "2026-10-24": 123.24,
-        "2026-10-25": 123.24,
-        "2026-10-26": 123.24,
-        "2026-10-27": 123.24
+        "2026-10-27": 109.0
       },
-      "low_price": 123.24
+      "low_price": 109.0,
+      "synced": "2026-10-27"
     },
     {
       "brand": "Beurer",

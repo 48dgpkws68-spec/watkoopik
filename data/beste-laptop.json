@@ -396,42 +396,41 @@
       "prev_date": "2026-10-18"
     },
     {
-      "brand": "HP",
-      "name": "Victus 15 Ryzen AI 7 350 RTX 5060",
-      "price": 1351.0,
-      "score": 8.3,
+      "brand": "Acer",
+      "name": "Nitro V 15 ANV15-A31 Ryzen 7 RTX 5060",
+      "price": 1489.0,
+      "score": 8.4,
       "label": null,
-      "reviews": "Nieuw op bol",
-      "oneliner": "Rustig ogende gaming-laptop met RTX 5060 die ook voor studie en werk past.",
+      "reviews": "Beoordeeld met 4,9 op bol",
+      "oneliner": "Betaalbare gaming-laptop met RTX 5060 en een vlot 165 Hz-scherm.",
       "specs": {
-        "Processor": "AMD Ryzen AI 7 350",
-        "Geheugen": "24 GB",
+        "Processor": "AMD Ryzen 7",
+        "Geheugen": "16 GB",
         "Opslag": "512 GB SSD",
-        "Scherm": "15,6 inch Full HD 144 Hz",
-        "Gewicht": "Circa 2,3 kg"
+        "Scherm": "15,6 inch Full HD 165 Hz",
+        "Gewicht": "Circa 2,1 kg"
       },
       "pros": [
-        "Sobere vormgeving die niet schreeuwt",
         "RTX 5060 met 8 GB voor games in Full HD",
-        "24 GB werkgeheugen",
-        "Scherm van 144 Hz en toetsenbord met numeriek deel"
+        "Scherm van 165 Hz oogt heel soepel",
+        "Ryzen 7 is ook snel genoeg voor studie en werk",
+        "Hoge beoordeling van kopers op bol"
       ],
       "cons": [
-        "Scherm van 300 nits is minder fel dan bij duurdere modellen",
+        "16 GB werkgeheugen is krap met veel programma's naast je game",
         "Opslag van 512 GB raakt snel vol met games",
-        "Behuizing van kunststof"
+        "Ventilatoren zijn goed hoorbaar onder belasting"
       ],
-      "ideal": "Studenten die overdag werken en 's avonds willen gamen op één laptop.",
-      "text": "De Victus is de gaminglijn van HP voor wie geen opvallend ontwerp met felle ledverlichting zoekt. Deze 15-fb3872nd combineert een AMD Ryzen AI 7 350 met acht kernen en een NVIDIA RTX 5060 met 8 GB videogeheugen. Daarmee speel je populaire games in Full HD op hoge instellingen, zeker met DLSS 4 aan. Het werkgeheugen van 24 GB is ruim voor gamen met een browser en Discord ernaast. De processor heeft ook een NPU, waardoor hij als Copilot+ PC werkt.\n\nHet 15,6 inch scherm draait in Full HD op 144 Hz, wat soepel oogt in snelle games, al is het met 300 nits minder fel dan bij duurdere modellen. De SSD van 512 GB raakt snel vol als je een paar grote games installeert. Het toetsenbord heeft witte verlichting en een numeriek deel. Met ongeveer 2,3 kilo is hij mee te nemen naar college. Wie één laptop zoekt voor studie en spelen, vindt hier een nette middenweg.",
-      "ean": "0199764416308",
-      "bol_title": "\"HP Victus Gaming 15-fb3872nd Copilot+ PC AMD Ryzen AI 7 350 Laptop 39,6 cm (15.6\"\") Full HD 24 GB DDR5-SDRAM 512 GB SSD NVIDIA GeForce RTX 5060 Wi-Fi 6 (802.11ax) Windows 11 Home Zwart\"",
-      "url": "https://www.bol.com/nl/nl/p/hp-victus-gaming-15-fb3872nd-copilot-pc-amd-ryzen-ai-7-350-laptop-39-6-cm-full-hd-24-gb-ddr5-sdram-512-gb-ssd-nvidia-geforce-rtx-5060-wi-fi-6-windows-11-home-zwart/9300000242728278/",
-      "image": "https://media.s-bol.com/v03E7xRY1j5X/xGwzOgP/550x472.jpg",
+      "ideal": "Gamers met een middelgroot budget die een snelle Full HD-laptop zoeken voor studie en spelen.",
+      "text": "De Nitro is de betaalbare gaminglijn van Acer en deze Nitro V 15 ANV15-A31 haalt veel uit zijn prijs. Er zit een AMD Ryzen 7 in met een NVIDIA GeForce RTX 5060 met 8 GB videogeheugen. Daarmee speel je populaire games in Full HD op hoge instellingen, zeker met DLSS 4 aan. Ten opzichte van de Lenovo LOQ in deze lijst krijg je een duidelijk snellere videokaart. Kopers op bol geven hem gemiddeld een 4,9.\n\nHet scherm draait in Full HD op 165 Hz, wat soepel oogt in snelle shooters. Het werkgeheugen van 16 GB is genoeg voor de meeste games, maar met een browser en Discord ernaast zit je sneller aan de grens. De SSD van 512 GB raakt vol als je een paar grote games installeert, dus houd rekening met een externe schijf. Onder belasting hoor je de ventilatoren duidelijk. Wie één laptop zoekt voor studie en spelen met een flinke videokaart, krijgt hier veel waarde voor rond de 1.490 euro.",
+      "ean": "4711721048832",
+      "bol_title": "Acer Nitro V 15 ANV15-A31-R34K - Gaming Laptop - 15 inch 165Hz - AMD Ryzen 7 - 16GB - 512GB SSD - RTX 5060 - inclusief Nitro Controller + 3mnd PC GamePass",
+      "url": "https://www.bol.com/nl/nl/p/acer-nitro-v-15-anv15-a31-r34k-gaming-laptop-15-6-inch-165hz-amd-ryzen-7-16gb-512gb-ssd-rtx-5060-8gb-gddr7-inclusief-nitro-wireless-controller/9300000263485984/",
+      "image": "https://media.s-bol.com/x3gVJLmJVwPq/xvqOO3z/550x361.jpg",
       "ph": {
-        "2026-10-26": 1351.0,
-        "2026-10-27": 1351.0
+        "2026-10-27": 1489.0
       },
-      "low_price": 1351.0,
+      "low_price": 1489.0,
       "synced": "2026-10-27"
     },
     {
