@@ -24,7 +24,7 @@
     {
       "brand": "Eurom",
       "name": "Sani-Wall-Heat 2000 Wifi",
-      "price": 85.85,
+      "price": 85.35,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "200+ reviews",
@@ -54,12 +54,13 @@
       "image": "https://media.s-bol.com/3qODP02YBmQR/ADolqY7/550x204.jpg",
       "ph": {
         "2026-10-25": 84.05,
-        "2026-10-26": 85.85
+        "2026-10-26": 85.85,
+        "2026-10-27": 85.35
       },
       "low_price": 84.05,
-      "synced": "2026-10-26",
-      "prev_price": 84.05,
-      "prev_date": "2026-10-25"
+      "synced": "2026-10-27",
+      "prev_price": 85.85,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Rowenta",
@@ -93,10 +94,11 @@
       "url": "https://www.bol.com/nl/nl/p/rowenta-mini-excel-aqua-so9281-kachel/9300000045867588/",
       "image": "https://media.s-bol.com/j4gNRmW6RpqB/ElPRnRm/543x840.jpg",
       "ph": {
-        "2026-10-26": 109.99
+        "2026-10-26": 109.99,
+        "2026-10-27": 109.99
       },
       "low_price": 109.99,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "VOLT",
@@ -131,10 +133,11 @@
       "image": "https://media.s-bol.com/R9Q753A5gJzK/BNkBR9Q/550x511.jpg",
       "ph": {
         "2026-10-25": 169.0,
-        "2026-10-26": 169.0
+        "2026-10-26": 169.0,
+        "2026-10-27": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "Plieger",
@@ -169,10 +172,11 @@
       "image": "https://media.s-bol.com/3gEYmK7QRLox/4x3PvPV/388x840.jpg",
       "ph": {
         "2026-10-25": 279.0,
-        "2026-10-26": 279.0
+        "2026-10-26": 279.0,
+        "2026-10-27": 279.0
       },
       "low_price": 279.0,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "Eurom",
@@ -207,15 +211,16 @@
       "image": "https://media.s-bol.com/mgkyoOVAO12n/DpRg8q/550x575.jpg",
       "ph": {
         "2026-10-25": 53.39,
-        "2026-10-26": 53.39
+        "2026-10-26": 53.39,
+        "2026-10-27": 53.39
       },
       "low_price": 53.39,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "Varin",
       "name": "Smart Design 2500W glas",
-      "price": 159.95,
+      "price": 154.95,
       "score": 8.6,
       "label": null,
       "reviews": "100+ reviews",
@@ -245,10 +250,13 @@
       "image": "https://media.s-bol.com/nwgDygjnjZ17/Og79zzN/550x538.jpg",
       "ph": {
         "2026-10-25": 159.95,
-        "2026-10-26": 159.95
+        "2026-10-26": 159.95,
+        "2026-10-27": 154.95
       },
-      "low_price": 159.95,
-      "synced": "2026-10-26"
+      "low_price": 154.95,
+      "synced": "2026-10-27",
+      "prev_price": 159.95,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "DOMO",
@@ -283,10 +291,11 @@
       "image": "https://media.s-bol.com/MvpqEgWQpPAG/GZoNvLy/485x840.jpg",
       "ph": {
         "2026-10-25": 119.0,
-        "2026-10-26": 119.0
+        "2026-10-26": 119.0,
+        "2026-10-27": 119.0
       },
       "low_price": 119.0,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "Rowenta",
@@ -321,10 +330,11 @@
       "image": "https://media.s-bol.com/EoXm8vl201kv/3l91kjM/550x578.jpg",
       "ph": {
         "2026-10-25": 60.0,
-        "2026-10-26": 60.0
+        "2026-10-26": 60.0,
+        "2026-10-27": 60.0
       },
       "low_price": 60.0,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "Auronic",
@@ -359,15 +369,16 @@
       "image": "https://media.s-bol.com/YJoLlrXqrn7O/820ENEr/550x553.jpg",
       "ph": {
         "2026-10-25": 67.99,
-        "2026-10-26": 67.99
+        "2026-10-26": 67.99,
+        "2026-10-27": 67.99
       },
       "low_price": 67.99,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "Tristar",
       "name": "KA-5010 infrarood straalkachel",
-      "price": 31.99,
+      "price": 34.99,
       "score": 8.0,
       "label": null,
       "reviews": "300+ reviews",
@@ -397,10 +408,13 @@
       "image": "https://media.s-bol.com/JXZzZB3AQMng/Lgxqnp/550x345.jpg",
       "ph": {
         "2026-10-25": 31.99,
-        "2026-10-26": 31.99
+        "2026-10-26": 31.99,
+        "2026-10-27": 34.99
       },
       "low_price": 31.99,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27",
+      "prev_price": 31.99,
+      "prev_date": "2026-10-26"
     }
   ],
   "guide": [

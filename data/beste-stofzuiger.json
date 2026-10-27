@@ -50,7 +50,7 @@
       "bol_title": "Dyson V15 Detect Absolute - Steelstofzuiger - Nikkel/Geel - 230 Air Watts - Geavanceerde detectie",
       "url": "https://www.bol.com/nl/nl/p/dyson-v15-detect-abosulte-bezemstofzuiger-zilver-one-size-eu-plug/9300000159972960/",
       "image": "https://media.s-bol.com/J36v9VGroW9D/BNl43qQ/527x840.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-13": 799.0,
         "2026-10-14": 799.0,
@@ -64,7 +64,8 @@
         "2026-10-23": 799.0,
         "2026-10-24": 799.0,
         "2026-10-25": 799.0,
-        "2026-10-26": 799.0
+        "2026-10-26": 799.0,
+        "2026-10-27": 799.0
       },
       "low_price": 749.0,
       "prev_price": 749.0,
@@ -73,7 +74,7 @@
     {
       "brand": "Philips",
       "name": "8000 Series Aqua Plus XC8055",
-      "price": 317.46,
+      "price": 316.59,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "300+ reviews",
@@ -102,7 +103,7 @@
       "bol_title": "Philips Steelstofzuiger met Dweilfunctie XC8055/01 Aqua Plus - Draadloos en Zonder Zak - Zuigmond met LED Verlichting - Kruimeldief - Batterijduur tot 80 min - Lichtgewicht - Blauw",
       "url": "https://www.bol.com/nl/nl/p/philips-xc8055-01-steelstofzuiger-met-dweilfunctie/9300000141910349/",
       "image": "https://media.s-bol.com/qqpW24owDnDR/QWGw2LZ/550x546.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-15": 314.94,
         "2026-10-16": 314.94,
@@ -114,11 +115,12 @@
         "2026-10-23": 317.46,
         "2026-10-24": 317.46,
         "2026-10-25": 317.46,
-        "2026-10-26": 317.46
+        "2026-10-26": 317.46,
+        "2026-10-27": 316.59
       },
       "low_price": 314.94,
-      "prev_price": 314.94,
-      "prev_date": "2026-10-21"
+      "prev_price": 317.46,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Samsung",
@@ -152,7 +154,7 @@
       "bol_title": "Samsung Bespoke - Jet AI - Extra Zakloos - 730 W Satijn Zwart",
       "url": "https://www.bol.com/nl/nl/p/samsung-bespoke-jet-ai-extra-zakloos-730-w-satijn-zwart/9300000155204697/",
       "image": "https://media.s-bol.com/j4NB2On4Pqq5/g5k0klk/550x383.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-13": 679.0,
         "2026-10-14": 699.0,
@@ -166,7 +168,8 @@
         "2026-10-23": 679.0,
         "2026-10-24": 679.0,
         "2026-10-25": 679.0,
-        "2026-10-26": 699.0
+        "2026-10-26": 699.0,
+        "2026-10-27": 699.0
       },
       "low_price": 679.0,
       "prev_price": 679.0,
@@ -175,7 +178,7 @@
     {
       "brand": "Rowenta",
       "name": "X-Force Flex 9.60 Aqua",
-      "price": 234.75,
+      "price": 234.5,
       "score": 8.6,
       "label": null,
       "reviews": "1.300+ reviews",
@@ -203,7 +206,7 @@
       "ean": "3221616093959",
       "url": "https://www.bol.com/nl/nl/p/rowenta-x-force-flex-9-60-aqua-rh20c7-steelstofzuiger/9300000139388751/",
       "image": "https://media.s-bol.com/BvWj4L7z5ww2/BjZ8LJ/550x595.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "bol_title": "Rowenta X-Force Flex 9.60 Aqua RH20C7 - Steelstofzuiger - Draadloos - 100 Airwatt - Flexibele Buis - Met dweilfunctie - 45 min. gebruikstijd - LED verlichting zuigmond",
       "ph": {
         "2026-10-13": 234.5,
@@ -218,16 +221,17 @@
         "2026-10-23": 234.5,
         "2026-10-24": 234.5,
         "2026-10-25": 241.5,
-        "2026-10-26": 234.75
+        "2026-10-26": 234.75,
+        "2026-10-27": 234.5
       },
       "low_price": 229.84,
-      "prev_price": 241.5,
-      "prev_date": "2026-10-25"
+      "prev_price": 234.75,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Miele",
       "name": "Guard M1 Flex",
-      "price": 292.0,
+      "price": 269.0,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -258,10 +262,13 @@
       "ph": {
         "2026-10-24": 292.0,
         "2026-10-25": 292.0,
-        "2026-10-26": 292.0
+        "2026-10-26": 292.0,
+        "2026-10-27": 269.0
       },
-      "low_price": 292.0,
-      "synced": "2026-10-26"
+      "low_price": 269.0,
+      "synced": "2026-10-27",
+      "prev_price": 292.0,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Dreame",
@@ -295,7 +302,7 @@
       "bol_title": "Dreame R20 SE Steelstofzuiger - Snoerloos - 150AW zuigkracht – Tot 90 min autonomie – Met LED verlichting & HEPA-filter – Lichtgewicht – Compleet met accessoires – Voor huisdieren & Alle vloertypes",
       "url": "https://www.bol.com/nl/nl/p/dreame-r20-se-steelstofzuiger-snoerloos-150aw-zuigkracht-tot-90-min-autonomie-met-led-verlichting-hepa-filter-lichtgewicht-compleet-met-accessoires-voor-huisdieren-alle-vloertypes/9300000241760157/",
       "image": "https://media.s-bol.com/BqBRwMQz8kmQ/y8WzXg6/550x782.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-13": 199.0,
         "2026-10-14": 199.0,
@@ -309,7 +316,8 @@
         "2026-10-23": 159.0,
         "2026-10-24": 159.0,
         "2026-10-25": 159.0,
-        "2026-10-26": 159.0
+        "2026-10-26": 159.0,
+        "2026-10-27": 159.0
       },
       "low_price": 159.0,
       "prev_price": 199.0,
@@ -347,7 +355,7 @@
       "bol_title": "Bosch BCS711PET - Steelstofzuiger - Rood",
       "url": "https://www.bol.com/nl/nl/p/bosch-steelstofzuiger-bcs711pet/9300000099535742/",
       "image": "https://media.s-bol.com/gMJ36MGZ3QZ3/57L6Kov/550x734.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-15": 319.99,
         "2026-10-16": 319.99,
@@ -359,7 +367,8 @@
         "2026-10-23": 298.99,
         "2026-10-24": 319.0,
         "2026-10-25": 299.99,
-        "2026-10-26": 319.99
+        "2026-10-26": 319.99,
+        "2026-10-27": 319.99
       },
       "low_price": 298.99,
       "prev_price": 299.99,
@@ -398,7 +407,7 @@
       "bol_title": "Shark IZ400EU Steelstofzuiger zonder Zak op Accu- Draadloos - Enkele Accu - Automatische Vuildetectie - Anti-Hair Wrap Technology",
       "url": "https://www.bol.com/nl/nl/p/shark-iz400eu-steelstofzuiger-zonder-zak-op-accu-draadloos-enkele-accu-automatische-vuildetectie-anti-hair-wrap-technology/9300000157083376/",
       "image": "https://media.s-bol.com/B2g1N2OELX52/kpQoqr/250x200.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-15": 285.0,
         "2026-10-16": 285.0,
@@ -410,7 +419,8 @@
         "2026-10-23": 254.95,
         "2026-10-24": 254.95,
         "2026-10-25": 254.95,
-        "2026-10-26": 254.95
+        "2026-10-26": 254.95,
+        "2026-10-27": 254.95
       },
       "low_price": 254.95,
       "prev_price": 277.2,
@@ -419,7 +429,7 @@
     {
       "brand": "AEG",
       "name": "Ultimate 7000 AP71UB14DB",
-      "price": 278.99,
+      "price": 280.99,
       "score": 8.1,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -447,15 +457,16 @@
       "bol_title": "AEG AP71UB14DB Ultimate 7000 - Steelstofzuiger",
       "url": "https://www.bol.com/nl/nl/p/aeg-ap71ub14db-ultimate-7000-steelstofzuiger/9300000157173954/",
       "image": "https://media.s-bol.com/qznjG4264gMR/XQq7Km8/550x649.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-24": 270.99,
         "2026-10-25": 280.99,
-        "2026-10-26": 278.99
+        "2026-10-26": 278.99,
+        "2026-10-27": 280.99
       },
       "low_price": 270.99,
-      "prev_price": 280.99,
-      "prev_date": "2026-10-25"
+      "prev_price": 278.99,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Roborock",
@@ -489,7 +500,7 @@
       "bol_title": "Roborock Qrevo Curv – Robotstofzuiger met dweilfunctie – 18500 Pa zuigkracht – Zelfreinigend dock & AI-navigatie – Dual Anti-Tangle-systeem – AdaptiLift-chassis – 75 ℃ warmwater mopwas – Intelligente vuildetectie & spraakassistent – Wit",
       "url": "https://www.bol.com/nl/nl/p/roborock-qrevo-curv-white-robotstofzuiger-met-dweilfunctie-18-500-pa-zuigkracht-zelfreinigend-dock-ai-navigatie/9300000192873550/",
       "image": "https://media.s-bol.com/gjwgKnzMQ4Mk/BgL7y62/550x527.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-14": 799.0,
         "2026-10-15": 1099.0,
@@ -502,7 +513,8 @@
         "2026-10-23": 1099.0,
         "2026-10-24": 849.0,
         "2026-10-25": 849.0,
-        "2026-10-26": 1099.0
+        "2026-10-26": 1099.0,
+        "2026-10-27": 1099.0
       },
       "low_price": 799.0,
       "prev_price": 849.0,

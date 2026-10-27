@@ -53,10 +53,11 @@
       "ph": {
         "2026-10-24": 35.95,
         "2026-10-25": 35.95,
-        "2026-10-26": 35.95
+        "2026-10-26": 35.95,
+        "2026-10-27": 35.95
       },
       "low_price": 35.95,
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "reviews": "reviews op bol"
     },
     {
@@ -91,16 +92,17 @@
       "ph": {
         "2026-10-24": 41.99,
         "2026-10-25": 41.99,
-        "2026-10-26": 41.99
+        "2026-10-26": 41.99,
+        "2026-10-27": 41.99
       },
       "low_price": 41.99,
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "reviews": "reviews op bol"
     },
     {
       "brand": "BaByliss",
       "name": "Rose-Quartz krultang 32 mm",
-      "price": 39.99,
+      "price": 35.0,
       "score": 8.5,
       "label": null,
       "oneliner": "Krultang met keramische coating voor losse slagen.",
@@ -129,13 +131,14 @@
       "ph": {
         "2026-10-24": 36.0,
         "2026-10-25": 39.99,
-        "2026-10-26": 39.99
+        "2026-10-26": 39.99,
+        "2026-10-27": 35.0
       },
-      "low_price": 36.0,
-      "synced": "2026-10-26",
+      "low_price": 35.0,
+      "synced": "2026-10-27",
       "reviews": "reviews op bol",
-      "prev_price": 36.0,
-      "prev_date": "2026-10-24"
+      "prev_price": 39.99,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Remington",
@@ -169,10 +172,11 @@
       "ph": {
         "2026-10-24": 32.99,
         "2026-10-25": 32.99,
-        "2026-10-26": 32.99
+        "2026-10-26": 32.99,
+        "2026-10-27": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "reviews": "reviews op bol"
     },
     {
@@ -207,16 +211,17 @@
       "ph": {
         "2026-10-24": 37.0,
         "2026-10-25": 37.0,
-        "2026-10-26": 37.0
+        "2026-10-26": 37.0,
+        "2026-10-27": 37.0
       },
       "low_price": 37.0,
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Yankee Candle",
       "name": "Autumn Daydream Large Jar",
-      "price": 32.81,
+      "price": 33.24,
       "score": 8.4,
       "label": null,
       "oneliner": "Grote geurkaars met tot 90 branduren.",
@@ -245,13 +250,14 @@
       "ph": {
         "2026-10-24": 31.41,
         "2026-10-25": 32.99,
-        "2026-10-26": 32.81
+        "2026-10-26": 32.81,
+        "2026-10-27": 33.24
       },
       "low_price": 31.41,
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "reviews": "reviews op bol",
-      "prev_price": 32.99,
-      "prev_date": "2026-10-25"
+      "prev_price": 32.81,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Moleskine",
@@ -285,10 +291,11 @@
       "ph": {
         "2026-10-24": 16.5,
         "2026-10-25": 16.5,
-        "2026-10-26": 16.5
+        "2026-10-26": 16.5,
+        "2026-10-27": 16.5
       },
       "low_price": 16.5,
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "reviews": "reviews op bol"
     },
     {
@@ -322,10 +329,11 @@
       "ph": {
         "2026-10-24": 48.99,
         "2026-10-25": 48.99,
-        "2026-10-26": 48.99
+        "2026-10-26": 48.99,
+        "2026-10-27": 48.99
       },
       "low_price": 48.99,
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "reviews": "reviews op bol"
     },
     {
@@ -359,16 +367,17 @@
       "ph": {
         "2026-10-24": 41.99,
         "2026-10-25": 41.99,
-        "2026-10-26": 41.99
+        "2026-10-26": 41.99,
+        "2026-10-27": 41.99
       },
       "low_price": 41.99,
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Philips",
       "name": "OneBlade Intimate",
-      "price": 42.1,
+      "price": 44.99,
       "score": 8.1,
       "label": "Beste premium",
       "oneliner": "Trimmer en scheerapparaat voor de bikinilijn.",
@@ -397,13 +406,14 @@
       "ph": {
         "2026-10-24": 44.99,
         "2026-10-25": 44.99,
-        "2026-10-26": 42.1
+        "2026-10-26": 42.1,
+        "2026-10-27": 44.99
       },
       "low_price": 42.1,
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "reviews": "reviews op bol",
-      "prev_price": 44.99,
-      "prev_date": "2026-10-25"
+      "prev_price": 42.1,
+      "prev_date": "2026-10-26"
     }
   ],
   "guide": [

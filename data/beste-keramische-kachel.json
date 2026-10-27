@@ -53,10 +53,11 @@
       "image": "https://media.s-bol.com/xMyWW9R4DyVP/2v7xOOK/261x840.jpg",
       "ph": {
         "2026-10-25": 103.81,
-        "2026-10-26": 103.81
+        "2026-10-26": 103.81,
+        "2026-10-27": 103.81
       },
       "low_price": 103.81,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "De'Longhi",
@@ -92,10 +93,11 @@
       "image": "https://media.s-bol.com/YlBogmW2MwGO/vgzPoE0/445x840.jpg",
       "ph": {
         "2026-10-25": 159.0,
-        "2026-10-26": 159.0
+        "2026-10-26": 159.0,
+        "2026-10-27": 159.0
       },
       "low_price": 159.0,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "Princess",
@@ -130,15 +132,16 @@
       "image": "https://media.s-bol.com/RNz4WyYOEpM0/Z4LGOL8/550x550.jpg",
       "ph": {
         "2026-10-25": 69.99,
-        "2026-10-26": 69.99
+        "2026-10-26": 69.99,
+        "2026-10-27": 69.99
       },
       "low_price": 69.99,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "Inventum",
       "name": "KC222WOS",
-      "price": 41.99,
+      "price": 37.99,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
       "reviews": "600+ reviews",
@@ -168,12 +171,13 @@
       "image": "https://media.s-bol.com/gJDk2N309ODD/550x756.jpg",
       "ph": {
         "2026-10-25": 37.99,
-        "2026-10-26": 41.99
+        "2026-10-26": 41.99,
+        "2026-10-27": 37.99
       },
       "low_price": 37.99,
-      "synced": "2026-10-26",
-      "prev_price": 37.99,
-      "prev_date": "2026-10-25"
+      "synced": "2026-10-27",
+      "prev_price": 41.99,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Rowenta",
@@ -208,15 +212,16 @@
       "image": "https://media.s-bol.com/LoLqQypVvxlg/865KZYL/550x550.jpg",
       "ph": {
         "2026-10-25": 71.17,
-        "2026-10-26": 71.17
+        "2026-10-26": 71.17,
+        "2026-10-27": 71.17
       },
       "low_price": 71.17,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "Eurom",
       "name": "Hot Shot 2000 Wi-Fi",
-      "price": 65.61,
+      "price": 64.91,
       "score": 8.4,
       "label": null,
       "reviews": "200+ reviews",
@@ -246,12 +251,13 @@
       "image": "https://media.s-bol.com/qDo0ORx3Dr9y/q7x9njk/550x771.jpg",
       "ph": {
         "2026-10-25": 63.31,
-        "2026-10-26": 65.61
+        "2026-10-26": 65.61,
+        "2026-10-27": 64.91
       },
       "low_price": 63.31,
-      "synced": "2026-10-26",
-      "prev_price": 63.31,
-      "prev_date": "2026-10-25"
+      "synced": "2026-10-27",
+      "prev_price": 65.61,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Duux",
@@ -286,10 +292,11 @@
       "image": "https://media.s-bol.com/1oErLXZADpKq/Z6y9Lr5/506x840.jpg",
       "ph": {
         "2026-10-25": 69.99,
-        "2026-10-26": 69.99
+        "2026-10-26": 69.99,
+        "2026-10-27": 69.99
       },
       "low_price": 69.99,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "Tristar",
@@ -324,10 +331,11 @@
       "image": "https://media.s-bol.com/Rn6jqGG1GjLY/nWq08D/313x840.jpg",
       "ph": {
         "2026-10-25": 41.0,
-        "2026-10-26": 41.0
+        "2026-10-26": 41.0,
+        "2026-10-27": 41.0
       },
       "low_price": 41.0,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     },
     {
       "brand": "Eurom",
@@ -362,10 +370,11 @@
       "image": "https://media.s-bol.com/Y8xo5LzLlwQW/wj4gOmJ/550x758.jpg",
       "ph": {
         "2026-10-25": 35.36,
-        "2026-10-26": 34.63
+        "2026-10-26": 34.63,
+        "2026-10-27": 34.63
       },
       "low_price": 34.63,
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "prev_price": 35.36,
       "prev_date": "2026-10-25"
     },
@@ -402,10 +411,11 @@
       "image": "https://media.s-bol.com/x4JNGqyPW6O9/WnWjY74/389x840.jpg",
       "ph": {
         "2026-10-25": 44.99,
-        "2026-10-26": 44.99
+        "2026-10-26": 44.99,
+        "2026-10-27": 44.99
       },
       "low_price": 44.99,
-      "synced": "2026-10-26"
+      "synced": "2026-10-27"
     }
   ],
   "guide": [

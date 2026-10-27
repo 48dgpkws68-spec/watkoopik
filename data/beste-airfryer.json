@@ -50,7 +50,7 @@
       "bol_title": "Philips 5000 series - Dubbele airfryer - 9L - 2750W - NA555/00",
       "url": "https://www.bol.com/nl/nl/p/philips-5000-series-5000-serie/9300000193442139/",
       "image": "https://media.s-bol.com/BGw4MZAWAk2X/qx8m3L0/550x466.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-13": 193.0,
         "2026-10-14": 193.0,
@@ -64,7 +64,8 @@
         "2026-10-23": 210.0,
         "2026-10-24": 215.0,
         "2026-10-25": 213.0,
-        "2026-10-26": 213.0
+        "2026-10-26": 213.0,
+        "2026-10-27": 213.0
       },
       "low_price": 193.0,
       "prev_price": 215.0,
@@ -73,7 +74,7 @@
     {
       "brand": "Cosori",
       "name": "Airfryer XL 5,5 l",
-      "price": 141.0,
+      "price": 149.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "4,5/5 op bol",
@@ -102,18 +103,21 @@
       "bol_title": "Cosori – Airfryer XL – 5.5L – 11 Programma’s – Inclusief Spiezenrek",
       "url": "https://www.bol.com/nl/nl/p/cosori-airfryer-xl-5-5l-inclusief-spiezenrek-en-5-spiesjes-zwart/9300000165064547/",
       "image": "https://media.s-bol.com/ro6756ZRK4Jp/rkmYRLk/550x451.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-24": 141.0,
         "2026-10-25": 141.0,
-        "2026-10-26": 141.0
+        "2026-10-26": 141.0,
+        "2026-10-27": 149.99
       },
-      "low_price": 141.0
+      "low_price": 141.0,
+      "prev_price": 141.0,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Ninja",
       "name": "Foodi FlexDrawer AF500EU",
-      "price": 185.17,
+      "price": 187.0,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "1.900+ reviews",
@@ -141,7 +145,7 @@
       "ean": "0622356270373",
       "url": "https://www.bol.com/nl/nl/p/ninja-foodi-af500eu-mega-dubbele-airfryer-xxl-10-4-liter-twee-kookvakken-of-een-megazone-heteluchtfriteuse/9300000165307796/",
       "image": "https://media.s-bol.com/YggnoyN452kM/wVB4X41/550x384.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "bol_title": "Ninja Foodi FlexDrawer Airfryer, DualZone met verwijderbaar tussenschot, grote lade van 10,4 l, vaatwasserbestendige onderdelen met antiaanbaklaag - Zwart - AF500EU",
       "ph": {
         "2026-10-13": 183.0,
@@ -156,11 +160,12 @@
         "2026-10-23": 185.32,
         "2026-10-24": 184.95,
         "2026-10-25": 184.95,
-        "2026-10-26": 185.17
+        "2026-10-26": 185.17,
+        "2026-10-27": 187.0
       },
       "low_price": 179.43,
-      "prev_price": 184.95,
-      "prev_date": "2026-10-25"
+      "prev_price": 185.17,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Ninja",
@@ -196,10 +201,11 @@
       "image": "https://media.s-bol.com/7GZ8kvQgXAZB/W7OVw6J/550x483.jpg",
       "ph": {
         "2026-10-25": 151.0,
-        "2026-10-26": 150.0
+        "2026-10-26": 150.0,
+        "2026-10-27": 150.0
       },
       "low_price": 150.0,
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "prev_price": 151.0,
       "prev_date": "2026-10-25"
     },
@@ -234,7 +240,7 @@
       "ean": "3045380024533",
       "url": "https://www.bol.com/nl/nl/p/tefal-dual-easy-fry-grill-ey9018-heteluchtfriteuse-2700w-8-3l/9300000172049110/",
       "image": "https://media.s-bol.com/RvwV7EvPXM1Y/5yV3JEx/550x550.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "bol_title": "Tefal Dual Easy Fry & Grill Easy Fry Dual EY9018 XXL heteluchtfriteuse met dubbele lades zwart",
       "ph": {
         "2026-10-13": 123.0,
@@ -249,14 +255,15 @@
         "2026-10-23": 123.0,
         "2026-10-24": 123.0,
         "2026-10-25": 123.0,
-        "2026-10-26": 123.0
+        "2026-10-26": 123.0,
+        "2026-10-27": 123.0
       },
       "low_price": 123.0
     },
     {
       "brand": "Philips",
       "name": "3000 Series Airfryer NA321/00",
-      "price": 118.99,
+      "price": 125.0,
       "score": 8.5,
       "label": null,
       "reviews": "4,7/5 op bol",
@@ -285,7 +292,7 @@
       "bol_title": "Philips 3000 Series Airfryer - NA321/00 - Kijkvenster - RapidAir Plus - 4.2L - Tot 4 Personen - Zwart",
       "url": "https://www.bol.com/nl/nl/p/philips-3000-series-na321-00-heteluchtfriteuse-4-2-l-kijkvenster/9300000186182162/",
       "image": "https://media.s-bol.com/gjJMlnzmX5R9/VODXp11/550x679.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-15": 108.89,
         "2026-10-16": 124.0,
@@ -297,11 +304,12 @@
         "2026-10-23": 118.99,
         "2026-10-24": 118.99,
         "2026-10-25": 118.99,
-        "2026-10-26": 118.99
+        "2026-10-26": 118.99,
+        "2026-10-27": 125.0
       },
       "low_price": 108.89,
-      "prev_price": 109.99,
-      "prev_date": "2026-10-20"
+      "prev_price": 118.99,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Instant",
@@ -335,7 +343,7 @@
       "bol_title": "Instant Pot Vortex Plus 5L Airfryer – 4-in-1 – ClearCook Kijkvenster – OdourErase Geurfilter – EvenCrisp – Vaatwasserbestendig",
       "url": "https://www.bol.com/nl/nl/p/instant-vortex-5qt-clearcook-odorerase-airfryer-eu/9300000233705132/",
       "image": "https://media.s-bol.com/v4BR09XozVB5/AnQ3zY3/550x634.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-13": 79.99,
         "2026-10-14": 79.99,
@@ -349,7 +357,8 @@
         "2026-10-23": 77.99,
         "2026-10-24": 77.99,
         "2026-10-25": 77.99,
-        "2026-10-26": 77.99
+        "2026-10-26": 77.99,
+        "2026-10-27": 77.99
       },
       "low_price": 77.99,
       "prev_price": 119.99,
@@ -358,7 +367,7 @@
     {
       "brand": "Xiaomi",
       "name": "Smart Air Fryer 6,5 l",
-      "price": 89.95,
+      "price": 89.99,
       "score": 8.2,
       "label": null,
       "reviews": "1.700+ reviews",
@@ -387,7 +396,7 @@
       "bol_title": "Xiaomi Smart Air Fryer 6,5L – XL Airfryer met 40–220°C en slimme bediening",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-air-fryer-pro-6-5l-eu-1800w-6-5l-binnenste-mand-diameter-226-x-226-x-135mm/9300000165416137/",
       "image": "https://media.s-bol.com/B4vjvJknwGpY/MwE5J1B/550x577.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-13": 89.95,
         "2026-10-14": 102.47,
@@ -401,11 +410,12 @@
         "2026-10-23": 89.99,
         "2026-10-24": 89.99,
         "2026-10-25": 89.95,
-        "2026-10-26": 89.95
+        "2026-10-26": 89.95,
+        "2026-10-27": 89.99
       },
       "low_price": 89.95,
-      "prev_price": 89.99,
-      "prev_date": "2026-10-24"
+      "prev_price": 89.95,
+      "prev_date": "2026-10-26"
     },
     {
       "brand": "Princess",
@@ -439,7 +449,7 @@
       "bol_title": "Princess Digitale Airfryer XL 182021 - Heteluchtfriteuse - 3.2 liter - 8 voorgeprogrammeerde programma’s - Inclusief grillrek - Zwart",
       "url": "https://www.bol.com/nl/nl/p/princess-182021-digitale-airfryer-xl-heteluchtfriteuse-inhoud-3-2-liter/9200000076129840/",
       "image": "https://media.s-bol.com/ZlRJoZpRlXv/550x659.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-13": 74.29,
         "2026-10-14": 74.29,
@@ -453,7 +463,8 @@
         "2026-10-23": 70.3,
         "2026-10-24": 70.3,
         "2026-10-25": 70.3,
-        "2026-10-26": 70.3
+        "2026-10-26": 70.3,
+        "2026-10-27": 70.3
       },
       "low_price": 70.3,
       "prev_price": 85.0,
@@ -491,7 +502,7 @@
       "bol_title": "Tefal Easy Fry Multifunction FW556D - Airfryer & Oven 15L - 2000W - 9 Programma's - Rotisserie - RVS",
       "url": "https://www.bol.com/nl/nl/p/tefal-easy-fry-multifunction-fw556d-airfryer-en-oven-15l/9300000225502203/",
       "image": "https://media.s-bol.com/JMnq3lQNyxw2/YE9Pnxp/550x534.jpg",
-      "synced": "2026-10-26",
+      "synced": "2026-10-27",
       "ph": {
         "2026-10-15": 202.37,
         "2026-10-16": 202.37,
@@ -503,7 +514,8 @@
         "2026-10-23": 202.37,
         "2026-10-24": 202.37,
         "2026-10-25": 202.37,
-        "2026-10-26": 202.37
+        "2026-10-26": 202.37,
+        "2026-10-27": 202.37
       },
       "low_price": 202.37
     }
