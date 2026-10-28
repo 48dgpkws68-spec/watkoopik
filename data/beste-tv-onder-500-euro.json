@@ -17,7 +17,7 @@
   "updated": "2026-10-20",
   "reviews_total": "3.100",
   "intro": "Voor een tv onder 500 euro hoef je in 2026 geen genoegen meer te nemen met een klein of flets scherm. Voor dat geld krijg je een 55 inch QLED, een miniled of zelfs een 65 inch tv. Wel moet je goed kiezen, want de verschillen in helderheid, smart-tv en bouwkwaliteit zijn groot. Wij vergeleken de tv's die nu bij bol onder de 500 euro te koop zijn op beeld, formaat, HDR, apps en de ervaringen van kopers. Dit zijn de tien beste.",
-  "verdict": "De LG 55QNED84A6C is de beste tv onder 500 euro: 55 inch, rijke QNED-kleuren en het snelle webOS. De TCL 65P71K is de beste prijs-kwaliteit omdat je rond 500 euro een 65 inch QLED krijgt. Wil je de meest luxe tv voor dit budget, kies dan de TCL 65T69C met metalen afwerking en Onkyo-geluid. Moet het nog goedkoper, dan is de TCL 55C69KS met Mini LED de slimste keuze.",
+  "verdict": "De LG 55QNED84A6C is de beste tv onder 500 euro: 55 inch, rijke QNED-kleuren en het snelle webOS. De TCL 65T69C is de beste prijs-kwaliteit omdat je onder de 500 euro een 65 inch QLED met Dolby Vision en Onkyo-geluid krijgt. Wil je het beste contrast voor dit budget, kies dan de TCL 55C69KS met Mini LED voor rond de 420 euro.",
   "products": [
     {
       "brand": "LG",
@@ -67,51 +67,10 @@
     },
     {
       "brand": "TCL",
-      "name": "65P71K",
-      "price": 509.0,
-      "score": 8.8,
-      "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,4 van 5",
-      "oneliner": "65 inch QLED met Dolby Vision voor net boven de 500 euro.",
-      "specs": {
-        "Formaat": "65 inch",
-        "Paneel": "QLED",
-        "Verversing": "60 Hz",
-        "HDR": "Dolby Vision, HDR10+, HLG",
-        "Smart-tv": "Google TV"
-      },
-      "pros": [
-        "Grootste QLED-scherm in deze lijst",
-        "Dolby Vision en Dolby Atmos",
-        "HDMI 2.1 met VRR en ALLM",
-        "Google TV met Chromecast"
-      ],
-      "cons": [
-        "Kost 509 euro, net boven het budget",
-        "Geen local dimming",
-        "Geen 120 Hz"
-      ],
-      "ideal": "Wie zo veel mogelijk QLED-scherm wil voor rond de 500 euro en op drie meter of verder van de tv zit.",
-      "text": "De TCL 65P71K kost bij bol 509 euro en is daarmee net iets duurder dan de grens van deze gids. Wij nemen hem toch op, want een 65 inch QLED met Dolby Vision vind je nu nergens goedkoper. De quantum dots geven rijkere kleuren dan een gewone led-tv. HDR10+ en HLG worden ook ondersteund en Dolby Atmos zit erin voor het geluid. Direct LED-verlichting en een VA-paneel zorgen voor een redelijk contrast in een normaal verlichte kamer.\n\nVerwacht geen HDR-vuurwerk: er is geen local dimming en het paneel draait op 60 Hz. Voor gamers zijn HDMI 2.1, VRR en ALLM wel een plus, want de inputlag blijft laag op een PlayStation 5. Google TV heeft alle Nederlandse apps en Chromecast is ingebouwd. Kopers op bol geven hem gemiddeld een 4,4 van de 5. Zit je ver van de tv en wil je zo veel mogelijk scherm voor je geld, dan is dit de slimste koop.",
-      "ean": "5901292526986",
-      "bol_title": "TCL 65P71K - 65 inch - 4K QLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65p71k-65-inch-4k-qled-2025/9300000228002734/",
-      "image": "https://media.s-bol.com/nqrYKR0YAqPE/ADzPJjj/550x340.jpg",
-      "ph": {
-        "2026-10-25": 509.0,
-        "2026-10-26": 509.0,
-        "2026-10-27": 509.0,
-        "2026-10-28": 509.0
-      },
-      "low_price": 509.0,
-      "synced": "2026-10-28"
-    },
-    {
-      "brand": "TCL",
       "name": "65T69C",
       "price": 489.0,
       "score": 8.9,
-      "label": "Beste premium",
+      "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,9 van 5",
       "oneliner": "65 inch QLED in metalen look met Onkyo-geluid onder de 500 euro.",
       "specs": {
@@ -143,6 +102,46 @@
         "2026-10-28": 489.0
       },
       "low_price": 489.0,
+      "synced": "2026-10-28"
+    },
+    {
+      "brand": "TCL",
+      "name": "55C69KS",
+      "price": 419.0,
+      "score": 8.8,
+      "label": "Beste premium",
+      "reviews": "reviews op bol",
+      "oneliner": "55 inch QD-Mini LED met Dolby Vision voor ruim 400 euro.",
+      "specs": {
+        "Formaat": "55 inch",
+        "Paneel": "QD-Mini LED",
+        "Verversing": "VRR via HDMI 2.1",
+        "HDR": "Dolby Vision, HDR10+, HLG",
+        "Smart-tv": "Google TV"
+      },
+      "pros": [
+        "Mini LED-verlichting voor deze prijs",
+        "Dolby Vision en HDR10+",
+        "HDMI 2.1 met VRR",
+        "Google TV met alle apps"
+      ],
+      "cons": [
+        "Buitenlands model, nog geen reviews op bol",
+        "Energielabel F"
+      ],
+      "ideal": "Wie onder de 450 euro het beste contrast wil, dankzij Mini LED-verlichting.",
+      "text": "De TCL 55C69KS is een van de goedkoopste tv's met Mini LED-verlichting die bol nu verkoopt. Voor 419 euro krijg je een 55 inch scherm met quantum dots voor de kleuren en kleine leds achter het paneel. Daardoor kan de tv delen van het beeld dimmen, wat zwart dieper maakt dan bij een gewone led-tv in deze prijsklasse. Dolby Vision, HDR10+ en HLG worden ondersteund en de antireflectielaag helpt in een lichte kamer.\n\nGoogle TV draait alle grote apps zoals Netflix, Videoland en NPO Start en je bedient de tv met je stem. Er zijn drie HDMI-poorten, met HDMI 2.1 en VRR voor consolegames, plus eARC voor een soundbar. Let op: het gaat om een buitenlands model met een metallic afwerking en bol toont nog geen reviews. Het energielabel F is ook geen pluspunt. Wil je voor weinig geld een grote stap in contrast, dan is dit een interessante keuze.",
+      "ean": "5901292527297",
+      "bol_title": "TCL C69KS 55C69KS tv 139,7 cm (55\") 4K Ultra HD Smart TV Wifi Metallic",
+      "url": "https://www.bol.com/nl/nl/p/tcl-c69ks-55c69ks-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-metallic/9300000226905313/",
+      "image": "https://media.s-bol.com/Xv4KDl7x33wv/31mWnlQ/550x388.jpg",
+      "ph": {
+        "2026-10-25": 419.0,
+        "2026-10-26": 419.0,
+        "2026-10-27": 419.0,
+        "2026-10-28": 419.0
+      },
+      "low_price": 419.0,
       "synced": "2026-10-28"
     },
     {
@@ -370,42 +369,40 @@
     },
     {
       "brand": "TCL",
-      "name": "55C69KS",
-      "price": 419.0,
-      "score": 8.1,
+      "name": "55P61K",
+      "price": 399.0,
+      "score": 8.0,
       "label": null,
-      "reviews": "reviews op bol",
-      "oneliner": "55 inch QD-Mini LED met Dolby Vision voor ruim 400 euro.",
+      "reviews": "bol-score 4,2 van 5",
+      "oneliner": "Eenvoudige 55 inch 4K-tv met Google TV voor rond de 400 euro.",
       "specs": {
         "Formaat": "55 inch",
-        "Paneel": "QD-Mini LED",
-        "Verversing": "VRR via HDMI 2.1",
-        "HDR": "Dolby Vision, HDR10+, HLG",
+        "Paneel": "LED",
+        "Verversing": "50/60 Hz",
+        "HDR": "HDR10",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "Mini LED-verlichting voor deze prijs",
-        "Dolby Vision en HDR10+",
-        "HDMI 2.1 met VRR",
-        "Google TV met alle apps"
+        "4K en Google TV voor rond de 400 euro",
+        "Drie HDMI-poorten met HDMI 2.1",
+        "Spraakbediening via Google Assistent",
+        "Bol levert op afspraak"
       ],
       "cons": [
-        "Buitenlands model, nog geen reviews op bol",
-        "Energielabel F"
+        "Geen Dolby Vision",
+        "Energielabel E",
+        "Eenvoudig geluid zonder surround"
       ],
-      "ideal": "Wie onder de 450 euro een 55 inch tv wil met beter contrast dan een gewone led-tv.",
-      "text": "De TCL 55C69KS is een van de goedkoopste tv's met Mini LED-verlichting die bol nu verkoopt. Voor 419 euro krijg je een 55 inch scherm met quantum dots voor de kleuren en kleine leds achter het paneel. Daardoor kan de tv delen van het beeld dimmen, wat zwart dieper maakt dan bij een gewone led-tv in deze prijsklasse. Dolby Vision, HDR10+ en HLG worden ondersteund en de antireflectielaag helpt in een lichte kamer.\n\nGoogle TV draait alle grote apps zoals Netflix, Videoland en NPO Start en je bedient de tv met je stem. Er zijn drie HDMI-poorten, met HDMI 2.1 en VRR voor consolegames, plus eARC voor een soundbar. Let op: het gaat om een buitenlands model met een metallic afwerking en bol toont nog geen reviews. Het energielabel F is ook geen pluspunt. Wil je voor weinig geld een grote stap in contrast, dan is dit een interessante keuze.",
-      "ean": "5901292527297",
-      "bol_title": "TCL C69KS 55C69KS tv 139,7 cm (55\") 4K Ultra HD Smart TV Wifi Metallic",
-      "url": "https://www.bol.com/nl/nl/p/tcl-c69ks-55c69ks-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-metallic/9300000226905313/",
-      "image": "https://media.s-bol.com/Xv4KDl7x33wv/31mWnlQ/550x388.jpg",
+      "ideal": "Wie een betrouwbare 55 inch smart-tv zoekt en geen hoge eisen stelt aan contrast.",
+      "text": "De TCL 55P61K is een eenvoudige 55 inch tv uit 2025 die bol nu voor ongeveer 400 euro verkoopt. Je krijgt een 4K-scherm met direct-led achtergrondverlichting en Google TV, zodat Netflix, Videoland, NPO Start en Ziggo GO er gewoon op staan. Met Chromecast stuur je een video vanaf je telefoon naar het scherm en via de afstandsbediening spreek je zoekopdrachten in.\n\nEr zijn drie HDMI-poorten met HDMI 2.1 en een gamemodus, genoeg voor een console en een soundbar. HDR werkt via HDR10, maar Dolby Vision ontbreekt en de helderheid is bescheiden, dus echte HDR-effecten zie je niet. Het geluid van 20 watt is helder voor nieuws en series, voor films wil je een soundbar. Kopers op bol geven hem gemiddeld een 4,2 en noemen vooral de prijs en het snelle menu. Wil je meer kleur en contrast, kies dan de Sharp Aquos 55HP5465 of de TCL 55C69KS.",
+      "ean": "5901292527044",
+      "bol_title": "TCL 55P61K - 55 inch - 4K LED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-55p61k-55-inch-4k-led-2025/9300000228002739/",
+      "image": "https://media.s-bol.com/KpW31zGAQGrY/rR28r02/550x338.jpg",
       "ph": {
-        "2026-10-25": 419.0,
-        "2026-10-26": 419.0,
-        "2026-10-27": 419.0,
-        "2026-10-28": 419.0
+        "2026-10-28": 399.0
       },
-      "low_price": 419.0,
+      "low_price": 399.0,
       "synced": "2026-10-28"
     },
     {
@@ -433,7 +430,7 @@
         "Fire TV toont veel reclame op het startscherm"
       ],
       "ideal": "Wie een groot scherm wil voor de laagste prijs en vooral tv kijkt en streamt.",
-      "text": "De Xiaomi TV F 65 is de goedkoopste manier om nu een 65 inch 4K-tv in huis te halen. Voor 399 euro krijg je een groot scherm met Fire TV van Amazon als besturingssysteem. Dat werkt snel, heeft alle grote apps zoals Netflix, Disney+, Videoland en NPO Start en je bedient de tv met Alexa via de afstandsbediening.\n\nAirPlay is ingebouwd, zodat je vanaf een iPhone of Mac direct foto's en video's naar het scherm stuurt. Het paneel is een gewoon led-paneel zonder quantum dots of local dimming, dus de kleuren en het contrast zijn basis. HDR10 en HLG worden ondersteund, maar het paneel is niet fel genoeg voor echte HDR. Een nadeel van Fire TV is dat het startscherm veel aanbevelingen en advertenties toont. Er zijn nog weinig reviews op bol, maar wie ze schreef is tevreden over het formaat voor de prijs. Heb je liever betere kleuren, kies dan de TCL 65P71K.",
+      "text": "De Xiaomi TV F 65 is de goedkoopste manier om nu een 65 inch 4K-tv in huis te halen. Voor 399 euro krijg je een groot scherm met Fire TV van Amazon als besturingssysteem. Dat werkt snel, heeft alle grote apps zoals Netflix, Disney+, Videoland en NPO Start en je bedient de tv met Alexa via de afstandsbediening.\n\nAirPlay is ingebouwd, zodat je vanaf een iPhone of Mac direct foto's en video's naar het scherm stuurt. Het paneel is een gewoon led-paneel zonder quantum dots of local dimming, dus de kleuren en het contrast zijn basis. HDR10 en HLG worden ondersteund, maar het paneel is niet fel genoeg voor echte HDR. Een nadeel van Fire TV is dat het startscherm veel aanbevelingen en advertenties toont. Er zijn nog weinig reviews op bol, maar wie ze schreef is tevreden over het formaat voor de prijs. Heb je liever betere kleuren, kies dan de TCL 65T69C.",
       "ean": "6941948706705",
       "bol_title": "Xiaomi TV F 65 2026 | 65 inch 4K UHD Smart TV | Fire TV | HDR10/HLG | Dolby Audio en DTS:X | AirPlay",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-fire-tv-65-inch/9300000361305967/",
@@ -485,7 +482,7 @@
     },
     {
       "q": "Welke 65 inch tv is goed onder 500 euro?",
-      "a": "Een 65 inch QLED onder 500 euro is lastig te vinden. De TCL 65P71K komt het dichtst in de buurt: QLED, Dolby Vision en Google TV voor 509 euro. De Xiaomi TV F 65 is met 399 euro goedkoper, maar heeft een eenvoudiger led-paneel."
+      "a": "Een 65 inch QLED onder 500 euro is lastig te vinden. De TCL 65T69C lukt het wel: QLED, Dolby Vision en Google TV voor 489 euro. De Xiaomi TV F 65 is met 399 euro goedkoper, maar heeft een eenvoudiger led-paneel."
     },
     {
       "q": "Is een goedkope tv van een onbekend merk een goed idee?",
@@ -497,7 +494,7 @@
     },
     {
       "q": "Welke goedkope smart tv heeft de beste apps?",
-      "a": "Tv's met Google TV of webOS hebben de meeste apps. Onder de 500 euro zijn dat onder meer de LG 55QNED84A6C, TCL 65P71K, TCL 55C69KS, Sharp Aquos 55HP5465 en CHiQ M55QN9G. Alle Nederlandse apps, zoals NPO Start, Videoland en Ziggo GO, zijn daarop beschikbaar."
+      "a": "Tv's met Google TV of webOS hebben de meeste apps. Onder de 500 euro zijn dat onder meer de LG 55QNED84A6C, TCL 65T69C, TCL 55C69KS, TCL 55P61K, Sharp Aquos 55HP5465 en CHiQ M55QN9G. Alle Nederlandse apps, zoals NPO Start, Videoland en Ziggo GO, zijn daarop beschikbaar."
     },
     {
       "q": "Is een tv onder 500 euro nog 4K?",
