@@ -102,7 +102,6 @@
 [ ] beste-pannenset | keuken | pannenset | De 10 beste pannensets van 2026 | 🍳
 [ ] beste-ultrasoon-reiniger | huishouden | ultrasoon reiniger | De 10 beste ultrasoon reinigers van 2026 | 💎
 [ ] beste-tuinslang | klussen | tuinslang | De 10 beste tuinslangen van 2026 | 💧
-[ ] beste-gaskachel | wonen | gaskachel | De 10 beste gaskachels van 2026 | 🔥
 [ ] beste-slaapmasker | slapen | slaapmasker | De 10 beste slaapmaskers van 2026 | 😴
 [ ] beste-fietsdrager | auto | fietsdrager trekhaak | De 10 beste fietsdragers van 2026 | 🚲
 [ ] beste-afkortzaag | klussen | afkortzaag | De 10 beste afkortzagen van 2026 | 🪚
@@ -297,7 +296,6 @@
 [ ] beste-douchestoel | gezondheid | douchestoel | De 10 beste douchestoelen van 2026 | 🚿
 [ ] beste-manicureset | verzorging | manicure set | De 10 beste manicuresets van 2026 | 💅
 [ ] beste-plafondlamp | wonen | plafondlamp | De 10 beste plafondlampen van 2026 | 💡
-[ ] beste-plaid | wonen | plaid | De 10 beste plaids van 2026 | 🧣
 [ ] beste-zonnepaneel-draagbaar | outdoor | opvouwbaar zonnepaneel | De 10 beste opvouwbare zonnepanelen van 2026 | ☀️
 [ ] beste-sproeier | klussen | tuinsproeier | De 10 beste tuinsproeiers van 2026 | 💦
 [ ] beste-neustrimmer | verzorging | neustrimmer | De 10 beste neustrimmers van 2026 | 👃

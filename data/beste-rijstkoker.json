@@ -22,7 +22,7 @@
     {
       "brand": "Tefal",
       "name": "RK7051 12-in-1",
-      "price": 84.0,
+      "price": 92.3,
       "score": 9.1,
       "label": "Beste keuze",
       "reviews": "500+ reviews",
@@ -50,7 +50,7 @@
       "bol_title": "Tefal RK7051 12-in-1 - Multicooker - Rijstkoker - 1.8L - 12 Cooking Programs",
       "url": "https://www.bol.com/nl/nl/p/tefal-rk7051-12-in-1-multicooker-rijstkoker/9200000057743889/",
       "image": "https://media.s-bol.com/x8rY8RVrmW5r/j2PqLnR/550x624.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 84.0,
         "2026-10-16": 84.0,
@@ -63,9 +63,12 @@
         "2026-10-24": 84.0,
         "2026-10-25": 84.0,
         "2026-10-26": 84.0,
-        "2026-10-27": 84.0
+        "2026-10-27": 84.0,
+        "2026-10-28": 92.3
       },
-      "low_price": 84.0
+      "low_price": 84.0,
+      "prev_price": 84.0,
+      "prev_date": "2026-10-27"
     },
     {
       "brand": "Tristar",
@@ -98,7 +101,7 @@
       "bol_title": "Tristar Rijstkoker 1.5L - RK-6147 - 8 personen - Droogkook beveiliging - Warmhoudfunctie - Uitneembare binnenpan",
       "url": "https://www.bol.com/nl/nl/p/tristar-rijstkoker-1-5l-rk-6147-8-personen-automatische-uitschakeling-warmhoudfunctie-uitneembare-binnenpan/9300000247143326/",
       "image": "https://media.s-bol.com/m311PZQB3ZnR/volYVr8/550x374.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 25.8,
         "2026-10-16": 25.8,
@@ -111,7 +114,8 @@
         "2026-10-24": 26.0,
         "2026-10-25": 26.0,
         "2026-10-26": 26.0,
-        "2026-10-27": 26.0
+        "2026-10-27": 26.0,
+        "2026-10-28": 26.0
       },
       "low_price": 25.8,
       "prev_price": 25.9,
@@ -149,7 +153,7 @@
       "bol_title": "Cuckoo CRP-CHSS1009FN Rijstkoker Wit, Goud",
       "url": "https://www.bol.com/nl/nl/p/cuckoo-sls-art-0000070-rijstkoker-grijs/9300000003664776/",
       "image": "https://media.s-bol.com/5pvXNM0y2ErY/rkjRN8B/550x396.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 492.0,
         "2026-10-16": 492.0,
@@ -162,7 +166,8 @@
         "2026-10-24": 492.0,
         "2026-10-25": 492.0,
         "2026-10-26": 492.0,
-        "2026-10-27": 492.0
+        "2026-10-27": 492.0,
+        "2026-10-28": 492.0
       },
       "low_price": 492.0
     },
@@ -201,10 +206,11 @@
         "2026-10-24": 159.99,
         "2026-10-25": 159.99,
         "2026-10-26": 159.99,
-        "2026-10-27": 159.99
+        "2026-10-27": 159.99,
+        "2026-10-28": 159.99
       },
       "low_price": 159.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Cuckoo",
@@ -237,7 +243,7 @@
       "bol_title": "Cuckoo CR-0351F Rijstkoker Wit, Rood",
       "url": "https://www.bol.com/nl/nl/p/cuckoo-reiskocher-0-54l-cr-0351f-3d-hitzesystem-warmhaltung/9300000022884112/",
       "image": "https://media.s-bol.com/N6EwnprPynVv/0R9ZMB5/550x607.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 134.94,
         "2026-10-16": 134.94,
@@ -250,7 +256,8 @@
         "2026-10-24": 136.9,
         "2026-10-25": 136.9,
         "2026-10-26": 136.9,
-        "2026-10-27": 136.9
+        "2026-10-27": 136.9,
+        "2026-10-28": 136.9
       },
       "low_price": 134.94,
       "prev_price": 134.94,
@@ -259,7 +266,7 @@
     {
       "brand": "Philips",
       "name": "3000-serie HD3093/80",
-      "price": 84.99,
+      "price": 76.7,
       "score": 8.6,
       "label": null,
       "reviews": "50+ reviews",
@@ -287,7 +294,7 @@
       "bol_title": "Philips 3000-serie Minirijstkoker HD3093/80 - 0.85 L - 8 programma's - Zwart/Zilver",
       "url": "https://www.bol.com/nl/nl/p/philips-3000-serie-minirijstkoker-hd3093-80-0-85-l-8-programma-s-zwart-zilver/9300000191925171/",
       "image": "https://media.s-bol.com/BAj204qJjLNW/jR9gp7P/550x466.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 69.99,
         "2026-10-16": 69.99,
@@ -300,11 +307,12 @@
         "2026-10-24": 84.99,
         "2026-10-25": 84.99,
         "2026-10-26": 84.99,
-        "2026-10-27": 84.99
+        "2026-10-27": 84.99,
+        "2026-10-28": 76.7
       },
       "low_price": 69.99,
-      "prev_price": 69.99,
-      "prev_date": "2026-10-21"
+      "prev_price": 84.99,
+      "prev_date": "2026-10-27"
     },
     {
       "brand": "Xiaomi",
@@ -341,10 +349,11 @@
       "ph": {
         "2026-10-25": 59.99,
         "2026-10-26": 71.37,
-        "2026-10-27": 71.37
+        "2026-10-27": 71.37,
+        "2026-10-28": 71.37
       },
       "low_price": 59.99,
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "prev_price": 59.99,
       "prev_date": "2026-10-25"
     },
@@ -379,7 +388,7 @@
       "bol_title": "Tefal RK1038 - Rijstkoker - 1,8 L - Geschikt voor Grote Porties - Automatische Warmhoudfunctie - Uitneembare binnenpan met anti-aanbaklaag",
       "url": "https://www.bol.com/nl/nl/p/tefal-classic-rk1038-rijstkoker-inhoud-1-8-liter/9200000049688444/",
       "image": "https://media.s-bol.com/841LwwXVBKz5/MQM08qG/550x473.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 55.99,
         "2026-10-16": 55.99,
@@ -392,7 +401,8 @@
         "2026-10-24": 55.99,
         "2026-10-25": 55.99,
         "2026-10-26": 55.99,
-        "2026-10-27": 55.99
+        "2026-10-27": 55.99,
+        "2026-10-28": 55.99
       },
       "low_price": 55.99
     },
@@ -427,7 +437,7 @@
       "bol_title": "Russell Hobbs 27040-56 Grote Rijstkoker 14 porties - Wit",
       "url": "https://www.bol.com/nl/nl/p/russell-hobbs-27040-56-grote-rijstkoker-14-porties-wit/9300000000236056/",
       "image": "https://media.s-bol.com/YWBy6lVqMORO/550x424.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 44.19,
         "2026-10-16": 44.19,
@@ -440,7 +450,8 @@
         "2026-10-24": 33.79,
         "2026-10-25": 33.79,
         "2026-10-26": 33.79,
-        "2026-10-27": 44.19
+        "2026-10-27": 44.19,
+        "2026-10-28": 44.19
       },
       "low_price": 33.79,
       "prev_price": 33.79,
@@ -477,7 +488,7 @@
       "bol_title": "Emerio Rijstkoker 1,5 liter - Warmhoudfunctie en Automatische uitschakeling - Anti-aanbaklaag - RCE-110118.5 Zwart",
       "url": "https://www.bol.com/nl/nl/p/emerio-rce-110118-rijstkoker-eco-1-5-liter-zwart/9300000051362749/",
       "image": "https://media.s-bol.com/YKBA424qv8L2/j2zQr3R/550x550.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 22.46,
         "2026-10-16": 22.46,
@@ -490,7 +501,8 @@
         "2026-10-24": 21.72,
         "2026-10-25": 21.72,
         "2026-10-26": 21.72,
-        "2026-10-27": 21.72
+        "2026-10-27": 21.72,
+        "2026-10-28": 21.72
       },
       "low_price": 21.72,
       "prev_price": 22.46,

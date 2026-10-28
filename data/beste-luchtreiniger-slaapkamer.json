@@ -54,10 +54,11 @@
       "image": "https://media.s-bol.com/wB3OrNJ7mN5R/KZjoQNJ/543x840.jpg",
       "ph": {
         "2026-10-26": 249.0,
-        "2026-10-27": 249.0
+        "2026-10-27": 249.0,
+        "2026-10-28": 249.0
       },
       "low_price": 249.0,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Levoit",
@@ -92,17 +93,18 @@
       "image": "https://media.s-bol.com/Rrl6YnDZ9NG0/zGM2kO/550x655.jpg",
       "ph": {
         "2026-10-26": 169.0,
-        "2026-10-27": 174.99
+        "2026-10-27": 174.99,
+        "2026-10-28": 174.99
       },
       "low_price": 169.0,
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "prev_price": 169.0,
       "prev_date": "2026-10-26"
     },
     {
       "brand": "Philips",
       "name": "PureProtect Quiet 2200 AC2221/13",
-      "price": 286.49,
+      "price": 397.0,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "Nieuw op bol",
@@ -131,10 +133,13 @@
       "url": "https://www.bol.com/nl/nl/p/philips-cobra-pureprotect-quiet-2200-serie/9300000238408077/",
       "image": "https://media.s-bol.com/75G43vn69G3w/yrGO4NP/529x840.jpg",
       "ph": {
-        "2026-10-27": 286.49
+        "2026-10-27": 286.49,
+        "2026-10-28": 397.0
       },
       "low_price": 286.49,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28",
+      "prev_price": 286.49,
+      "prev_date": "2026-10-27"
     },
     {
       "brand": "Coway",
@@ -169,10 +174,11 @@
       "image": "https://media.s-bol.com/75p02o1m6951/pQzJ9oN/550x808.jpg",
       "ph": {
         "2026-10-26": 124.99,
-        "2026-10-27": 124.99
+        "2026-10-27": 124.99,
+        "2026-10-28": 124.99
       },
       "low_price": 124.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Philips",
@@ -207,10 +213,11 @@
       "image": "https://media.s-bol.com/NqvN0nkJDBPL/xvE01mJ/476x840.jpg",
       "ph": {
         "2026-10-26": 120.0,
-        "2026-10-27": 120.0
+        "2026-10-27": 120.0,
+        "2026-10-28": 120.0
       },
       "low_price": 120.0,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Levoit",
@@ -245,10 +252,11 @@
       "image": "https://media.s-bol.com/KxpoYY6E6B7J/qjVz7LG/550x642.jpg",
       "ph": {
         "2026-10-26": 255.71,
-        "2026-10-27": 255.71
+        "2026-10-27": 255.71,
+        "2026-10-28": 255.71
       },
       "low_price": 255.71,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Philips",
@@ -283,10 +291,11 @@
       "image": "https://media.s-bol.com/Djj62PVLXWg5/wjlDOKJ/550x825.jpg",
       "ph": {
         "2026-10-26": 80.0,
-        "2026-10-27": 80.0
+        "2026-10-27": 80.0,
+        "2026-10-28": 80.0
       },
       "low_price": 80.0,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Xiaomi",
@@ -321,10 +330,11 @@
       "image": "https://media.s-bol.com/LoO6JwQYVgAX/kZ0l9QJ/506x840.jpg",
       "ph": {
         "2026-10-26": 99.95,
-        "2026-10-27": 94.72
+        "2026-10-27": 94.72,
+        "2026-10-28": 94.72
       },
       "low_price": 94.72,
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "prev_price": 99.95,
       "prev_date": "2026-10-26"
     },
@@ -361,10 +371,11 @@
       "image": "https://media.s-bol.com/B3jQRNKPqOGk/qQDGj9k/550x550.jpg",
       "ph": {
         "2026-10-26": 89.95,
-        "2026-10-27": 89.95
+        "2026-10-27": 89.95,
+        "2026-10-28": 89.95
       },
       "low_price": 89.95,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Coway",
@@ -399,10 +410,11 @@
       "image": "https://media.s-bol.com/qvlnWW7gkxjk/4R91Wog/550x779.jpg",
       "ph": {
         "2026-10-26": 79.99,
-        "2026-10-27": 79.99
+        "2026-10-27": 79.99,
+        "2026-10-28": 79.99
       },
       "low_price": 79.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     }
   ],
   "guide": [

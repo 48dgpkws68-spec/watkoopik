@@ -205,3 +205,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-winterdekbed | slapen | winterdekbed | De 10 beste winterdekbedden van 2026 | ❄️
 - [x] beste-sinterklaascadeau-onder-25-euro (directeur 26 okt)
 [x] beste-elektrische-kachel-slaapkamer | wonen | elektrische kachel slaapkamer | De 10 beste elektrische kachels voor de slaapkamer van 2026 | 🔥
+[x] beste-gaskachel | wonen | gaskachel | De 10 beste gaskachels van 2026 | 🔥
+[x] beste-plaid | wonen | plaid | De 10 beste plaids van 2026 | 🧣

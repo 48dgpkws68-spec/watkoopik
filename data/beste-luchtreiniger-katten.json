@@ -53,10 +53,11 @@
       "url": "https://www.bol.com/nl/nl/p/air/9300000186181886/",
       "image": "https://media.s-bol.com/wB3OrNJ7mN5R/KZjoQNJ/543x840.jpg",
       "ph": {
-        "2026-10-27": 249.0
+        "2026-10-27": 249.0,
+        "2026-10-28": 249.0
       },
       "low_price": 249.0,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Coway",
@@ -92,10 +93,11 @@
       "url": "https://www.bol.com/nl/nl/p/coway-luchtreiniger-airmega-350-met-hepa-filter-air-purifier-cadr-713-m-u-voor-grote-ruimtes-pm10-sensor-energiebesparende-modus-wit/9300000257313007/",
       "image": "https://media.s-bol.com/RxPJDj629yKz/pQzJ9Lp/550x814.jpg",
       "ph": {
-        "2026-10-27": 349.99
+        "2026-10-27": 349.99,
+        "2026-10-28": 349.99
       },
       "low_price": 349.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Levoit",
@@ -130,10 +132,11 @@
       "url": "https://www.bol.com/nl/nl/p/levoit-core-300s-luchtreiniger/9300000074133165/",
       "image": "https://media.s-bol.com/Rrl6YnDZ9NG0/zGM2kO/550x655.jpg",
       "ph": {
-        "2026-10-27": 174.99
+        "2026-10-27": 174.99,
+        "2026-10-28": 174.99
       },
       "low_price": 174.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Coway",
@@ -168,15 +171,16 @@
       "url": "https://www.bol.com/nl/nl/p/coway-ap-1512hh-mighty-luchtreiniger-met-greenhepa-technologie-zwart/9300000076362850/",
       "image": "https://media.s-bol.com/B7D3E4gKyENW/wJN8Pw/550x665.jpg",
       "ph": {
-        "2026-10-27": 239.99
+        "2026-10-27": 239.99,
+        "2026-10-28": 239.99
       },
       "low_price": 239.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Xiaomi",
       "name": "Smart Air Purifier 4 Pro",
-      "price": 259.95,
+      "price": 249.99,
       "score": 8.8,
       "label": null,
       "reviews": "150+ reviews",
@@ -206,10 +210,13 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-air-purifier-4-pro-luchtreiniger/9300000072830557/",
       "image": "https://media.s-bol.com/BWVqEDQE5BAQ/RoO1LRE/345x840.jpg",
       "ph": {
-        "2026-10-27": 259.95
+        "2026-10-27": 259.95,
+        "2026-10-28": 249.99
       },
-      "low_price": 259.95,
-      "synced": "2026-10-27"
+      "low_price": 249.99,
+      "synced": "2026-10-28",
+      "prev_price": 259.95,
+      "prev_date": "2026-10-27"
     },
     {
       "brand": "Shark",
@@ -244,10 +251,11 @@
       "url": "https://www.bol.com/nl/nl/p/shark-neverchange5-luchtreiniger-ruimtes-tot-60-m-5-jarig-hepa-nanoseal-filter-met-geurfilter-hp150eu/9300000175623300/",
       "image": "https://media.s-bol.com/N6M3m54kD5y8/ER6D1QK/507x840.jpg",
       "ph": {
-        "2026-10-27": 182.5
+        "2026-10-27": 182.5,
+        "2026-10-28": 182.5
       },
       "low_price": 182.5,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Levoit",
@@ -282,10 +290,11 @@
       "url": "https://www.bol.com/nl/nl/p/luchtreiniger-levoit-vital-200s-pro-3-traps-filtratie-dekkingsgebied-tot-35-m-50-w-wit/9300000167007158/",
       "image": "https://media.s-bol.com/KxpoYY6E6B7J/qjVz7LG/550x642.jpg",
       "ph": {
-        "2026-10-27": 255.71
+        "2026-10-27": 255.71,
+        "2026-10-28": 255.71
       },
       "low_price": 255.71,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Philips",
@@ -320,10 +329,11 @@
       "url": "https://www.bol.com/nl/nl/p/philips-pureprotect-mini-900-serie-luchtzuiveraar-ac0921-14/9300000186181889/",
       "image": "https://media.s-bol.com/NqvN0nkJDBPL/xvE01mJ/476x840.jpg",
       "ph": {
-        "2026-10-27": 120.0
+        "2026-10-27": 120.0,
+        "2026-10-28": 120.0
       },
       "low_price": 120.0,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Coway",
@@ -358,10 +368,11 @@
       "url": "https://www.bol.com/nl/nl/p/coway-airmega-100-ap-0823e-energie-efficient-hepa-luchtreiniger-voor-kleine-ruimte-lange-levensduur-filter-stille-slaap-modus-nachtlamp-pm2-5-luchtkwaliteitssensor-voor-allergie-stof-pollen-cadr-244m-u/9300000181362626/",
       "image": "https://media.s-bol.com/75p02o1m6951/pQzJ9oN/550x808.jpg",
       "ph": {
-        "2026-10-27": 124.99
+        "2026-10-27": 124.99,
+        "2026-10-28": 124.99
       },
       "low_price": 124.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Levoit",
@@ -395,10 +406,11 @@
       "url": "https://www.bol.com/nl/nl/p/levoit-core-200s-smart-true-hepa-air-purifier-luchtreiniger/9300000052333150/",
       "image": "https://media.s-bol.com/N4J9DWr4nv78/79AypQA/523x840.jpg",
       "ph": {
-        "2026-10-27": 109.99
+        "2026-10-27": 109.99,
+        "2026-10-28": 109.99
       },
       "low_price": 109.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     }
   ],
   "guide": [

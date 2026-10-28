@@ -55,15 +55,16 @@
       "url": "https://www.bol.com/nl/nl/p/duux-edge-dxoh10-oil-smart-olieradiator-met-thermostaat-1500w-olie-gevulde-radiator-wit/9300000244513083/",
       "image": "https://media.s-bol.com/nwGr7Gy8N84R/Y7WvDXY/550x652.jpg",
       "ph": {
-        "2026-10-27": 219.99
+        "2026-10-27": 219.99,
+        "2026-10-28": 219.99
       },
       "low_price": 219.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Eurom",
       "name": "Alutherm 1000 WiFi",
-      "price": 98.59,
+      "price": 101.59,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "400+ reviews",
@@ -93,10 +94,13 @@
       "url": "https://www.bol.com/nl/nl/p/eurom-alutherm-1000-wifi-convectorkachel-1000w-33m3/9200000104461477/",
       "image": "https://media.s-bol.com/NRA3EmQy2OYN/DzBPjK/550x434.jpg",
       "ph": {
-        "2026-10-27": 98.59
+        "2026-10-27": 98.59,
+        "2026-10-28": 101.59
       },
       "low_price": 98.59,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28",
+      "prev_price": 98.59,
+      "prev_date": "2026-10-27"
     },
     {
       "brand": "Adax",
@@ -131,10 +135,11 @@
       "url": "https://www.bol.com/nl/nl/p/adax-neo-paneelverwarming-met-wifi-en-bluetooth-33x80-9-cm-1000-watt/9200000111008266/",
       "image": "https://media.s-bol.com/BEgWqLAkKPpn/l5ROxqj/550x367.jpg",
       "ph": {
-        "2026-10-27": 209.0
+        "2026-10-27": 209.0,
+        "2026-10-28": 209.0
       },
       "low_price": 209.0,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Mill",
@@ -169,15 +174,16 @@
       "url": "https://www.bol.com/nl/nl/p/mill-ab-h1000mec-design-olieradiator-1000-watt-tot-16-m2-wit/9200000080547105/",
       "image": "https://media.s-bol.com/mmRAjovLOEN9/31PVmBA/550x708.jpg",
       "ph": {
-        "2026-10-27": 172.0
+        "2026-10-27": 172.0,
+        "2026-10-28": 172.0
       },
       "low_price": 172.0,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Mill",
       "name": "CO1200WIFI3 convector",
-      "price": 160.0,
+      "price": 159.0,
       "score": 8.7,
       "label": null,
       "reviews": "100+ reviews",
@@ -207,10 +213,13 @@
       "url": "https://www.bol.com/nl/nl/p/mill-co1200wifi3black-wifi-geintegreerde-design-convector-kachel-1200-watt-zwart/9300000160250754/",
       "image": "https://media.s-bol.com/mmR14kB6vk69/ERmWBvl/550x643.jpg",
       "ph": {
-        "2026-10-27": 160.0
+        "2026-10-27": 160.0,
+        "2026-10-28": 159.0
       },
-      "low_price": 160.0,
-      "synced": "2026-10-27"
+      "low_price": 159.0,
+      "synced": "2026-10-28",
+      "prev_price": 160.0,
+      "prev_date": "2026-10-27"
     },
     {
       "brand": "Princess",
@@ -245,10 +254,11 @@
       "url": "https://www.bol.com/nl/nl/p/princess-elektrische-paneelverwarming-1500w-smart-glass-panel-heater-elektrische-kachel-1500w-wifi-app-bediening-touchscreen-thermostaat-wandmontage-348916/9300000377674129/",
       "image": "https://media.s-bol.com/J5LkRGnoOGYy/YW23DOY/550x525.jpg",
       "ph": {
-        "2026-10-27": 84.99
+        "2026-10-27": 84.99,
+        "2026-10-28": 84.99
       },
       "low_price": 84.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Dimplex",
@@ -283,10 +293,11 @@
       "url": "https://www.bol.com/nl/nl/p/dimplex-heatlite-tex-smart-convectorkachel-elektrische-verwarming-2000w-vrijstaand-of-wandmontage-wifi-met-glen-dimplex-connect-app-thermostaat-5-35-c-weektimer-en-open-raamdetectie-stijlvolle-stoffen-afwerking-voor-ruimtes-tot-60-m/9300000383301167/",
       "image": "https://media.s-bol.com/5Nylk8Xn3o1K/71Nkmw8/550x506.jpg",
       "ph": {
-        "2026-10-27": 104.99
+        "2026-10-27": 104.99,
+        "2026-10-28": 104.99
       },
       "low_price": 104.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Komodo",
@@ -321,10 +332,11 @@
       "url": "https://www.bol.com/nl/nl/p/komodo-infrarood-verwarmingspaneel-450w-72-5-x-45-cm-verplaatsbaar-hangend-thermostaat-led-display-wifi-app-infrarood-verwarming-elektrische-kachel-paneel-voor-15m2/9300000238274747/",
       "image": "https://media.s-bol.com/7ZyZmx26ZJPO/oYX4omY/550x550.jpg",
       "ph": {
-        "2026-10-27": 99.95
+        "2026-10-27": 99.95,
+        "2026-10-28": 99.95
       },
       "low_price": 99.95,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Auronic",
@@ -359,10 +371,11 @@
       "url": "https://www.bol.com/nl/nl/p/auronic-oil-radiator-1500w-black/9300000151965808/",
       "image": "https://media.s-bol.com/8QXlJklyVONW/Z8YKDmR/398x840.jpg",
       "ph": {
-        "2026-10-27": 69.99
+        "2026-10-27": 69.99,
+        "2026-10-28": 69.99
       },
       "low_price": 69.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     },
     {
       "brand": "Tristar",
@@ -397,10 +410,11 @@
       "url": "https://www.bol.com/nl/nl/p/tristar-ka-5380-oliegevulde-radiator-elektrische-verwarming-2000w-stil-met-thermostaat-3-warmtestanden-verplaatsbaar-veilig-mobiele-kachel/9300000239798700/",
       "image": "https://media.s-bol.com/gmJoDDvKZml3/81PZJll/550x550.jpg",
       "ph": {
-        "2026-10-27": 54.99
+        "2026-10-27": 54.99,
+        "2026-10-28": 54.99
       },
       "low_price": 54.99,
-      "synced": "2026-10-27"
+      "synced": "2026-10-28"
     }
   ],
   "guide": [

@@ -51,7 +51,7 @@
       "ean": "8806096363430",
       "url": "https://www.bol.com/nl/nl/p/lg-c5-oled65c56lb-65-inch-4k-oled-evo-2025/9300000229413534/",
       "image": "https://media.s-bol.com/Kn1Xy9rXxN3z/D98x0D6/550x338.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "bol_title": "LG C5 OLED65C56LB - 65 inch - 4K OLED Evo - 2025 - Smart TV",
       "ph": {
         "2026-10-13": 1399.0,
@@ -67,7 +67,8 @@
         "2026-10-24": 1399.0,
         "2026-10-25": 1399.0,
         "2026-10-26": 1399.0,
-        "2026-10-27": 1399.0
+        "2026-10-27": 1399.0,
+        "2026-10-28": 1399.0
       },
       "low_price": 1399.0
     },
@@ -102,7 +103,7 @@
       "ean": "8806096360576",
       "url": "https://www.bol.com/nl/nl/p/lg-b5-oled55b56la-55-inch-4k-oled-2025/9300000229178469/",
       "image": "https://media.s-bol.com/oryjWjxALw2k/jRjPLg4/550x349.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "bol_title": "LG B5 OLED55B56LA - 55 inch - 4K OLED - 2025 - Smart TV",
       "ph": {
         "2026-10-13": 849.0,
@@ -118,14 +119,15 @@
         "2026-10-24": 849.0,
         "2026-10-25": 849.0,
         "2026-10-26": 849.0,
-        "2026-10-27": 849.0
+        "2026-10-27": 849.0,
+        "2026-10-28": 849.0
       },
       "low_price": 849.0
     },
     {
       "brand": "Samsung",
       "name": "QE65S95H",
-      "price": 2210.97,
+      "price": 2198.3,
       "score": 9.3,
       "label": "Beste premium",
       "reviews": "bol-score 4,5 van 5",
@@ -154,7 +156,7 @@
       "bol_title": "Samsung QE65S95H - 65 inch - 4K QD-OLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-qe65s95hftxxn-qd-oled-65-inch/9300000278246901/",
       "image": "https://media.s-bol.com/R3lkYEER70GO/J86WLy2/550x344.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 2233.3,
         "2026-10-16": 2210.97,
@@ -167,16 +169,17 @@
         "2026-10-24": 2249.0,
         "2026-10-25": 2249.0,
         "2026-10-26": 2249.0,
-        "2026-10-27": 2210.97
+        "2026-10-27": 2210.97,
+        "2026-10-28": 2198.3
       },
-      "low_price": 2210.97,
-      "prev_price": 2249.0,
-      "prev_date": "2026-10-26"
+      "low_price": 2198.3,
+      "prev_price": 2210.97,
+      "prev_date": "2026-10-27"
     },
     {
       "brand": "Samsung",
       "name": "QE65QN83H",
-      "price": 1299.0,
+      "price": 1249.0,
       "score": 9.0,
       "label": null,
       "reviews": "Nieuw op bol",
@@ -205,7 +208,7 @@
       "bol_title": "Samsung QE65QN83H - 65 inch - 4K Neo QLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-qe65qn83hauxxn-neo-qled-65-inch/9300000294982187/",
       "image": "https://media.s-bol.com/JmBMkZ4rwVXl/mQm9pLG/550x334.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 1299.0,
         "2026-10-16": 1299.0,
@@ -218,9 +221,12 @@
         "2026-10-24": 1299.0,
         "2026-10-25": 1299.0,
         "2026-10-26": 1299.0,
-        "2026-10-27": 1299.0
+        "2026-10-27": 1299.0,
+        "2026-10-28": 1249.0
       },
-      "low_price": 1299.0
+      "low_price": 1249.0,
+      "prev_price": 1299.0,
+      "prev_date": "2026-10-27"
     },
     {
       "brand": "Sony",
@@ -253,7 +259,7 @@
       "ean": "4548736178335",
       "url": "https://www.bol.com/nl/nl/p/sony-bravia-7-ii-65-inch-4k-rgb-miniled-2026-smart-tv/9300000301594038/",
       "image": "https://media.s-bol.com/J3r7Epkz6Gw2/464lVG6/550x381.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "bol_title": "Sony BRAVIA 7 II - 65 inch - 4K RGB-LED TV - 2026 - Smart TV - True RGB",
       "ph": {
         "2026-10-13": 2299.0,
@@ -269,7 +275,8 @@
         "2026-10-24": 2299.0,
         "2026-10-25": 2299.0,
         "2026-10-26": 2299.0,
-        "2026-10-27": 2299.0
+        "2026-10-27": 2299.0,
+        "2026-10-28": 2299.0
       },
       "low_price": 2299.0
     },
@@ -304,7 +311,7 @@
       "ean": "8718863046470",
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-55oled810-12-55-inch-4k-oled-2025/9300000241514418/",
       "image": "https://media.s-bol.com/pA0rNqP8ORWN/DRlL8OY/550x351.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "bol_title": "Philips Ambilight 55OLED810/12 - 55 inch - 4K OLED - 2025 - Smart TV",
       "ph": {
         "2026-10-13": 1199.0,
@@ -320,7 +327,8 @@
         "2026-10-24": 1199.0,
         "2026-10-25": 1199.0,
         "2026-10-26": 1199.0,
-        "2026-10-27": 1199.0
+        "2026-10-27": 1199.0,
+        "2026-10-28": 1199.0
       },
       "low_price": 1199.0
     },
@@ -356,7 +364,7 @@
       "bol_title": "Hisense 65E8S Smart TV - 65 inch - 4K Hi-QLED MiniLED - 2026 - 600 nits - Native 144Hz Game Mode - Built-in Subwoofer - Hi-View AI Engine - Hi-QLED Colour - Dolby Vision Atmos",
       "url": "https://www.bol.com/nl/nl/p/hisense-65e8s-smart-tv-65-inch-4k-hi-qled-miniled-2026-600-nits-native-144hz-game-mode-built-in-subwoofer-hi-view-ai-engine-hi-qled-colour-dolby-vision-atmos/9300000269685074/",
       "image": "https://media.s-bol.com/E38q77j2ozWK/qQRgpAk/550x350.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 799.0,
         "2026-10-16": 799.0,
@@ -369,7 +377,8 @@
         "2026-10-24": 799.0,
         "2026-10-25": 799.0,
         "2026-10-26": 799.0,
-        "2026-10-27": 799.0
+        "2026-10-27": 799.0,
+        "2026-10-28": 799.0
       },
       "low_price": 799.0
     },
@@ -405,7 +414,7 @@
       "bol_title": "TCL 65Q6C - 65 inch - 4K QD-MiniLED - 2025 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/tcl-65q6c-65-inch-4k-qd-miniled-2025/9300000227512981/",
       "image": "https://media.s-bol.com/vynLGKP51YJ0/5yv9MPY/550x388.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 898.0,
         "2026-10-16": 898.0,
@@ -418,7 +427,8 @@
         "2026-10-24": 801.0,
         "2026-10-25": 801.0,
         "2026-10-26": 801.0,
-        "2026-10-27": 801.0
+        "2026-10-27": 801.0,
+        "2026-10-28": 801.0
       },
       "low_price": 799.0,
       "prev_price": 799.0,
@@ -456,7 +466,7 @@
       "bol_title": "Samsung UE55M74H - 55 inch - 4K MiniLED - 2026 + 3 jaar extra garantie - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-55m74h-55-inch-4k-miniled-2026-smart-tv/9300000284690212/",
       "image": "https://media.s-bol.com/R9MJzoXloMmK/oVRMzrA/550x358.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "ph": {
         "2026-10-15": 579.0,
         "2026-10-16": 579.0,
@@ -469,7 +479,8 @@
         "2026-10-24": 579.0,
         "2026-10-25": 579.0,
         "2026-10-26": 579.0,
-        "2026-10-27": 579.0
+        "2026-10-27": 579.0,
+        "2026-10-28": 579.0
       },
       "low_price": 579.0
     },
@@ -504,7 +515,7 @@
       "ean": "6942351416212",
       "url": "https://www.bol.com/nl/nl/p/55e7q-pro/9300000227859980/",
       "image": "https://media.s-bol.com/qz5z1JWDwR9y/gpQJjKj/550x349.jpg",
-      "synced": "2026-10-27",
+      "synced": "2026-10-28",
       "bol_title": "Hisense 55E7Q PRO - 55 inch - 4K QLED - 144hz - 2025 - Smart TV",
       "ph": {
         "2026-10-13": 540.0,
@@ -520,7 +531,8 @@
         "2026-10-24": 540.0,
         "2026-10-25": 540.0,
         "2026-10-26": 540.0,
-        "2026-10-27": 540.0
+        "2026-10-27": 540.0,
+        "2026-10-28": 540.0
       },
       "low_price": 540.0
     }
