@@ -427,42 +427,39 @@
     },
     {
       "brand": "Bosch",
-      "name": "EasyAquatak 120",
-      "price": 94.99,
+      "name": "UniversalAquatak 125",
+      "price": 117.0,
       "score": 8.0,
-      "label": null,
-      "reviews": "bol-score 4,7 van 5",
-      "oneliner": "Goedkope en lichte hogedrukreiniger voor klein werk.",
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Betaalbare Bosch met trio-mondstuk en wielen voor klein tot middelgroot werk.",
       "specs": {
-        "Max. druk": "120 bar",
-        "Debiet": "350 l/u",
+        "Max. druk": "125 bar",
+        "Debiet": "zie fabrikant",
         "Vermogen": "1.500 W",
-        "Slang": "5 m",
-        "Gewicht": "5,5 kg"
+        "Slang": "zie fabrikant",
+        "Gewicht": "met wielen en uitschuifbare greep"
       },
       "pros": [
-        "Lage prijs",
-        "Licht en makkelijk te dragen",
-        "Rotatiekop, schuimsproeier en waterfilter meegeleverd",
-        "Kan uit een regenton zuigen"
+        "Trio-mondstuk: vlak, punt en roterend in één",
+        "Schuimmondstuk van 450 ml",
+        "Wielen en uitschuifbare handgreep",
+        "Stillere motorpomp"
       ],
       "cons": [
-        "Kunststof pomp",
-        "Geen drukregeling op het pistool"
+        "Minder druk dan de Kärchers bovenaan",
+        "Niet bedoeld voor wekelijks zwaar werk"
       ],
-      "ideal": "Wie een paar keer per jaar iets klein wil afspuiten en weinig wil uitgeven.",
-      "text": "De EasyAquatak 120 is een van de goedkoopste merkapparaten op bol en levert voor dat geld prima werk. Met 120 bar en 350 liter per uur maak je auto's, fietsen en tuinmeubels schoon. Met de meegeleverde rotatiekop haal je ook mos tussen tegels weg, al gaat dat langzamer dan met een groter apparaat. Een schuimsproeier, vlakstraalmondstuk en waterfilter zitten ook in de doos.\n\nHij weegt 5,5 kilo en heeft een handgreep, zodat je hem makkelijk meeneemt. Net als de duurdere Bosch kan hij water uit een regenton aanzuigen. De pomp is van kunststof, wat hem kwetsbaarder maakt voor vorst en intensief gebruik. Een drukregeling op het pistool ontbreekt; je wisselt van lans om de kracht aan te passen. Kopers op bol geven hem gemiddeld een 4,7 en noemen prijs en gemak, met als kanttekening dat hij niet bedoeld is voor wekelijks zwaar werk. Als instapper doet hij precies wat je ervan verwacht.",
-      "ean": "3165140935630",
-      "bol_title": "Bosch Advanced Aquatak 120 Hogedrukreiniger - 1500 Watt - Max. 120 bar",
-      "url": "https://www.bol.com/nl/nl/p/bosch-advanced-aquatak-120-hogedrukreiniger-1500-watt-max-120-bar/9200000113125488/",
-      "image": "https://media.s-bol.com/A5A682zQyGL9/jqO2L6R/550x483.jpg",
+      "ideal": "Wie een paar keer per jaar terras, auto en tuinmeubels wil afspuiten.",
+      "text": "De Bosch UniversalAquatak 125 is een betaalbare hogedrukreiniger voor het gewone werk rond het huis. Met 125 bar en 1500 watt spuit je auto's, fietsen, tuinmeubels en een terras schoon. Handig is het trio-mondstuk: je draait tussen een vlakke straal, een puntstraal en een roterende straal, zodat je niet steeds van lans hoeft te wisselen. Voor de auto zit er een schuimmondstuk van 450 ml bij.\n\nDe uitschuifbare handgreep en grote wielen maken hem makkelijk te verplaatsen en op te bergen. Volgens Bosch is de motorpomp stiller dan bij eerdere modellen. Met snelkoppelingen wissel je snel van accessoire. Zijn grote broer, de UniversalAquatak 135, heeft meer druk en staat hoger in deze lijst. Voor zwaar werk zoals veel mos tussen tegels is een Kärcher K 4 of K 5 sneller. Kopers op bol geven hem gemiddeld 4,5 sterren. Als instapper van een bekend merk doet hij wat hij moet doen.",
+      "ean": "3165140883610",
+      "label": null,
+      "bol_title": "Bosch Universal Aquatak 125 Hogedrukreiniger - op snoer - 1500 W - 125 bar",
+      "url": "https://www.bol.com/nl/nl/p/bosch-universal-aquatak-125-hogedrukreiniger-op-snoer-1500-w-125-bar/9200000073796234/",
+      "image": "https://media.s-bol.com/npJ0nymn5jN5/rRXMRPW/550x549.jpg",
       "ph": {
-        "2026-10-25": 94.99,
-        "2026-10-26": 94.99,
-        "2026-10-27": 94.99,
-        "2026-10-28": 94.99
+        "2026-10-28": 117.0
       },
-      "low_price": 94.99,
+      "low_price": 117.0,
       "synced": "2026-10-28"
     },
     {

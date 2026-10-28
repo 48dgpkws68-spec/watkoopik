@@ -17,7 +17,7 @@
   "updated": "2026-10-15",
   "reviews_total": "3.800",
   "intro": "Een massagepistool geeft met snelle tikken een diepe massage aan stijve of vermoeide spieren. Sporters gebruiken hem voor de warming-up en voor sneller herstel, maar ook na een dag achter een bureau doet hij wonderen voor je nek en schouders. Wij vergeleken ruim veertig massage guns op slaglengte, kracht, geluid, accuduur, gewicht en de ervaringen van kopers. Dit zijn de tien beste massagepistolen die je nu kunt kopen, van een betaalbare instapper tot het professionele topmodel.",
-  "verdict": "De Therabody Theragun Prime G6 is het beste massagepistool voor de meeste mensen: een diepe slag van 16 mm, een slimme app en een stevige bouw voor een redelijke prijs. Wil je het allerbeste, dan biedt de Theragun Pro Plus warmte, vibratie en ledlicht in één apparaat. Op een klein budget is de MusclePro Prime de beste prijs-kwaliteit, met een koffer en veel opzetstukken voor rond de dertig euro.",
+  "verdict": "De Therabody Theragun Prime G6 is het beste massagepistool voor de meeste mensen: een diepe slag van 16 mm, een slimme app en een stevige bouw voor een redelijke prijs. Wil je het allerbeste, dan biedt de Theragun Pro Plus warmte, vibratie en ledlicht in één apparaat. Op een klein budget is de MusclePro Mini de beste prijs-kwaliteit, licht, met vier opzetstukken en een reistas voor rond de 38 euro.",
   "products": [
     {
       "brand": "Therabody",
@@ -456,54 +456,40 @@
     },
     {
       "brand": "MusclePro",
-      "name": "Prime 12V",
+      "name": "Mini",
       "price": 37.95,
       "score": 8.4,
-      "label": "Beste prijs-kwaliteit",
-      "reviews": "900+ reviews",
-      "oneliner": "Krachtige 12V-massage gun met koffer voor een bodemprijs.",
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Lichte mini massage gun met lange accuduur voor een bodemprijs.",
       "specs": {
-        "Gewicht": "ca. 0,9 kg",
-        "Slaglengte": "ca. 10 mm",
-        "Snelheden": "30",
-        "Accuduur": "tot 4 uur",
-        "Opzetstukken": "6"
+        "Gewicht": "ca. 400 g",
+        "Slaglengte": "niet opgegeven",
+        "Snelheden": "4 (1800 tot 3000 rpm)",
+        "Accuduur": "tot 6 uur",
+        "Opzetstukken": "4"
       },
       "pros": [
         "Zeer lage prijs",
-        "12V-motor met behoorlijke kracht",
-        "Koffer en zes opzetstukken",
-        "Veel positieve reviews"
+        "Licht en makkelijk mee te nemen",
+        "Accu tot 6 uur",
+        "Reistas en 30 dagen retour via bol"
       ],
       "cons": [
-        "Luider dan merkmodellen",
-        "Garantie en service beperkt"
+        "Minder kracht dan grote modellen",
+        "Maar vier snelheden"
       ],
       "ideal": "Wie voor weinig geld wil ontdekken of een massagepistool bij hem past.",
-      "text": "De MusclePro Prime laat zien dat een degelijk massagepistool niet duur hoeft te zijn. Voor ongeveer dertig euro krijg je een 12V-motor, die merkbaar krachtiger is dan de 7,4V-motor van de goedkoopste modellen. In de koffer zitten zes opzetstukken voor verschillende spiergroepen, van een platte kop voor grote spieren tot een kogel voor knopen in je schouders.\n\nMet 4,7 sterren uit honderden reviews is hij een van de best beoordeelde massage guns op bol. Kopers noemen de kracht verrassend en de accu gaat dagen mee. Natuurlijk zijn er beperkingen. Hij maakt meer lawaai dan een Theragun of Hypervolt en de slaglengte is kleiner, waardoor diepe massage van bovenbenen minder intens is. Voor nek, schouders, kuiten en dagelijkse ontspanning doet hij het prima. Daarmee is dit de beste prijs-kwaliteit in deze lijst.",
-      "ean": "7141227679365",
-      "bol_title": "MusclePro Prime - 12V massage gun - inclusief koffer- professioneel massage apparaat - massage pistool - spier massage - sport massage - 8 mondstukken - 99 snelheden - zwart - krachtig en draadloos",
-      "url": "https://www.bol.com/nl/nl/p/musclepro-massage-gun-professioneel-massage-apparaat-massage-pistool-spier-massage-sport-massage-8-mondstukken/9200000132229920/",
-      "image": "https://media.s-bol.com/xXMx44zx67K9/zvwJwo5/550x550.jpg",
-      "synced": "2026-10-28",
+      "text": "De MusclePro Mini laat zien dat een bruikbaar massagepistool niet duur hoeft te zijn. Voor rond de 38 euro krijg je een compacte massage gun van ongeveer 400 gram met een borstelloze motor. Je kiest uit vier snelheden, van 1800 tot 3000 slagen per minuut. In de reistas zitten vier opzetstukken: een bal voor grote spieren, een vork langs de wervelkolom, een platte kop en een kogel voor knopen.\n\nDe accu gaat volgens MusclePro tot zes uur mee en laadt op via USB-C. Kopers op bol geven gemiddeld 4,6 sterren en noemen vooral het formaat en de prijs. Natuurlijk zijn er grenzen. Hij heeft minder kracht dan een Theragun of Hypervolt en diepe massage van bovenbenen is minder intens. Voor nek, schouders, kuiten en ontspannen na het sporten doet hij het prima. Daarmee is dit de beste prijs-kwaliteit in deze lijst.",
+      "ean": "8720892099600",
+      "label": "Beste prijs-kwaliteit",
+      "bol_title": "MusclePro Mini - massage gun Incl. app - professioneel massage apparaat - massage pistool - spier massage - sport massage - 4 mondstukken",
+      "url": "https://www.bol.com/nl/nl/p/musclepro-mini-massage-gun-professioneel-massage-apparaat-massage-pistool-spier-massage-sport-massage-4-mondstukken/9300000144071683/",
+      "image": "https://media.s-bol.com/m37QxyZ1EklG/P13pkG1/550x527.jpg",
       "ph": {
-        "2026-10-15": 32.75,
-        "2026-10-16": 32.75,
-        "2026-10-17": 32.75,
-        "2026-10-18": 32.75,
-        "2026-10-19": 32.75,
-        "2026-10-20": 37.95,
-        "2026-10-21": 37.95,
-        "2026-10-23": 37.95,
-        "2026-10-24": 37.95,
-        "2026-10-25": 37.95,
-        "2026-10-26": 37.95,
-        "2026-10-27": 37.95,
         "2026-10-28": 37.95
       },
-      "low_price": 32.75,
-      "prev_price": 32.75,
-      "prev_date": "2026-10-19"
+      "low_price": 37.95,
+      "synced": "2026-10-28"
     }
   ],
   "guide": [
@@ -535,7 +521,7 @@
   "faq": [
     {
       "q": "Wat is het beste massagepistool van 2026?",
-      "a": "In onze vergelijking scoort de Therabody Theragun Prime G6 het hoogst, dankzij een slaglengte van 16 mm, een slimme app en een stevige bouw. Wil je zo voordelig mogelijk, dan is de MusclePro Prime de beste prijs-kwaliteit."
+      "a": "In onze vergelijking scoort de Therabody Theragun Prime G6 het hoogst, dankzij een slaglengte van 16 mm, een slimme app en een stevige bouw. Wil je zo voordelig mogelijk, dan is de MusclePro Mini de beste prijs-kwaliteit."
     },
     {
       "q": "Helpt een massagepistool echt tegen spierpijn?",

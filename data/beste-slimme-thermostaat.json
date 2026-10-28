@@ -471,53 +471,41 @@
       "low_price": 289.0
     },
     {
-      "brand": "Netatmo",
-      "name": "Slimme Thermostaat Modulerend",
-      "price": 219.99,
+      "brand": "tado",
+      "name": "Slimme Thermostaat X draadloos (2e gen.) Starterskit",
+      "price": 199.99,
       "score": 8.1,
-      "label": null,
-      "reviews": "300+ reviews",
-      "oneliner": "Draadloze Netatmo met modulerende regeling voor OpenTherm-ketels.",
+      "reviews": "bol-score 4,0 van 5",
+      "oneliner": "Draadloze tado X voor OpenTherm-ketels en aan/uit-regeling, met Matter.",
       "specs": {
         "Aansluiting": "Draadloos",
-        "Regeling": "OpenTherm",
-        "Per kamer": "Ja, met radiatorknoppen",
-        "Spraakassistent": "Google, Alexa, Apple Home",
-        "Abonnement": "Nee"
+        "Regeling": "OpenTherm en aan/uit",
+        "Per kamer": "Ja, met radiatorknoppen X",
+        "Spraakassistent": "Google, Alexa, Apple Home via Matter",
+        "Abonnement": "Optioneel (Auto-Assist)"
       },
       "pros": [
         "Draadloos en vrij te plaatsen",
-        "Modulerende regeling",
-        "Geen abonnement",
-        "Breed compatibel met spraakassistenten"
+        "Werkt met OpenTherm en aan/uit",
+        "Matter-ondersteuning",
+        "Uit te breiden met tado X-radiatorknoppen"
       ],
       "cons": [
-        "Duurder dan de bedrade Original",
-        "Wisselende ervaringen met installatie"
+        "Duurder dan de bedrade tado X",
+        "Slimste functies alleen met abonnement"
       ],
-      "ideal": "Wie Netatmo wil met een draadloze thermostaat bij een OpenTherm-ketel.",
-      "text": "De Netatmo Slimme Thermostaat Modulerend is de draadloze uitvoering voor OpenTherm-ketels. Een relais bij de ketel stuurt het vermogen traploos bij, terwijl de thermostaat zelf op batterijen werkt en vrij in huis te plaatsen is. Het ontwerp is gelijk aan dat van de Original, met een e-ink-scherm in een transparante behuizing.\n\nNet als bij de bedrade versie betaal je geen abonnement en werkt hij met Apple Home, Google Home en Alexa. Met de radiatorknoppen van Netatmo regel je per kamer. Gebruikers zijn wisselend over de installatie: bij sommige ketels werkt alles direct, bij andere moet een installateur instellingen aanpassen. De prijs is hoger dan die van de bedrade Original. Kun je de bestaande bedrading gebruiken, dan is die versie voordeliger en net zo slim. Ook de batterijen van de thermostaat gaan volgens gebruikers ruim twee jaar mee, waardoor je er weinig omkijken naar hebt.",
-      "ean": "3700730503853",
-      "bol_title": "Netatmo Slimme Thermostaat Modulerend - Smart Thermostaat voor CV - Werkt met Google Home, Alexa & Apple Homekit - Draadloos - Wit",
-      "url": "https://www.bol.com/nl/nl/p/netatmo-slimme-thermostaat-modulerend-opentherm-cv-ketel/9300000112536995/",
-      "image": "https://media.s-bol.com/JKY3OLpqPyyK/mMRokR/550x422.jpg",
-      "synced": "2026-10-28",
+      "ideal": "Wie tado wil met een draadloze thermostaat die je overal in huis kunt neerzetten.",
+      "text": "De tado Slimme Thermostaat X draadloos is de uitvoering voor wie de thermostaat niet op de plek van de oude bedrade wil hangen. Een module bij de ketel regelt de verwarming, terwijl de thermostaat zelf draadloos is en vrij in huis te plaatsen is. Hij werkt met OpenTherm, zodat een geschikte ketel traploos kan moduleren. Ook gewone aan/uit-regeling wordt ondersteund.\n\nDe X-serie gebruikt Thread en Matter. Daardoor werkt hij met Apple Home, Google Home en Alexa. Met de radiatorknoppen X breid je uit naar regeling per kamer. Bedienen via de app en schema's maken kan zonder abonnement. Voor extra's zoals automatisch aanpassen als iedereen weg is, vraagt tado een abonnement. De prijs ligt hoger dan die van de bedrade tado X op plek 1. Kun je de bestaande bedrading gebruiken, dan is die voordeliger. Kopers op bol geven de draadloze versie gemiddeld 4,0 sterren.",
+      "ean": "4260328612774",
+      "label": null,
+      "bol_title": "tado° Draadloze Slimme Thermostaat X (2e gen.) Starterskit - OpenTherm & Relay - Matter, Google Home, Alexa & Apple Home - Wit",
+      "url": "https://www.bol.com/nl/nl/p/tado-draadloze-slimme-thermostaat-x-starterskit-opentherm-relay-matter-google-home-alexa-apple-home-wit/9300000361731091/",
+      "image": "https://media.s-bol.com/mJoln3zXnBgA/NLAGD88/550x323.jpg",
       "ph": {
-        "2026-10-15": 219.99,
-        "2026-10-16": 219.99,
-        "2026-10-17": 219.99,
-        "2026-10-18": 219.99,
-        "2026-10-19": 219.99,
-        "2026-10-20": 219.99,
-        "2026-10-21": 219.99,
-        "2026-10-23": 219.99,
-        "2026-10-24": 219.99,
-        "2026-10-25": 219.99,
-        "2026-10-26": 219.99,
-        "2026-10-27": 219.99,
-        "2026-10-28": 219.99
+        "2026-10-28": 199.99
       },
-      "low_price": 219.99
+      "low_price": 199.99,
+      "synced": "2026-10-28"
     }
   ],
   "guide": [
