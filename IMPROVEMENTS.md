@@ -168,3 +168,14 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: bounce steeg naar 59%; homepage (47 weergaven) checken op snelheid en of de top-gidsen boven de vouw staan.
 - Idee voor later: specs met "niet vermeld" aanvullen bij Remington XR1775 (accuduur) en Trex Sport Briz (eigen gewicht) zodra bol of de fabrikant ze toont.
 - Voor Nick: niets.
+
+## 2026-10-29
+- Signalen: Umami 7 dagen 245 bezoekers, 322 weergaven, bounce 60% (was 59%); homepage 46, tv onder 500 euro 11, tv 55 inch 10, dweilrobot 9, tv 65 inch 7, relaxfauteuil 6; bronnen watkoopik.com 30, chatgpt.com 2; 35 bezoekers uit de VS (waarschijnlijk bots).
+- Signalen: 94 bol-klik-events (podium 66, tabel 27, sticky 1, kaart 0; positie 1: 37, positie 2: 24); top gidsen tv onder 500 (9), plaid (6, nieuw in de top), dweilrobot (6); top product LG 55QNED84 (5), LG C5 65 (4).
+- Signalen: Search Console 7 dagen 98 vertoningen, 0 klikken, positie 69,7, alleen luchtreiniger-allergie; indexering 18 geindexeerd, 116 gevonden niet geindexeerd, 42 gecrawld, 1 canonical; bol-cijfers: niet automatisch beschikbaar; build OK 183 gidsen / 1830 producten, check_links 0 fouten, 0 zonder foto; steekproef plaid + relaxfauteuil schoon.
+- Gedaan: check_stock vond 9 kapotte koopknoppen (o.a. nr. 1 was-droogcombinatie, nr. 2 prijs-kwaliteit mobiele airco), alle opgelost: varianten POCO M8 Pro 8/256 (249), ROG Strix G16 G614PP RTX 5070, Liebherr FD 1404-20, TCL 9000 BTU (andere EAN); vervangen Bosch WNG254A7NL door Bosch Serie 6 WNG24406NL (951, goedkoper dan premium), Eurom AC4201 door TCL P12F3CW1 12.000 BTU (Inventum AC126WH viel dezelfde ronde ook weg), Tab A11+ Toy Story-bundel door Galaxy Tab A8 kids met Lion Cover, TCL 75C61B Pro door Hisense 75E8S, CHiQ M55QN9G door Xiaomi TV A Pro 55 2026 (448); verdicts, guide-secties en FAQ's mee aangepast; nu 1830/1830 te koop.
+- Gedaan: homepage lichter: hero-band toont 60 in plaats van 183 gidsen en de winnaarsband 48 in plaats van 183, beide op populariteit (stats/populair.json); index.html van 242 naar 98 KB, afbeeldingen van 808 naar 292 (allemaal met backdrop-blur). Waarom: idee 28 okt, bounce 60% en homepage is de grootste pagina; verwacht: sneller laden op mobiel en lagere bounce, de banden tonen nu gidsen die converteren.
+- Gedaan: winterclustering via veld "rel" op 11 gidsen (plaid, elektrische deken, verzwaringsdeken, warmtekussen, voetenwarmer, winterdekbed, 4 elektrische kachels, keramische kachel); plaid kreeg 6 kliks met maar 2 inlinks; verwacht: meer bezoek en kliks op seizoensgidsen in november, betere crawl.
+- Idee voor later: na 7 dagen bounce homepage vergelijken (60% nu) en kliks op plaid/elektrische deken.
+- Idee voor later: Hisense staat nu 3x in tv 75 inch; bij een volgende wissel een ander merk kiezen. Galaxy Tab A8 kids (2022) vervangen zodra een nieuwere kinderbundel leverbaar is.
+- Voor Nick: niets.
