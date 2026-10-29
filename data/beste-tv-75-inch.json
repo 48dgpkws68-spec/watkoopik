@@ -340,41 +340,37 @@
       "low_price": 1035.0
     },
     {
-      "brand": "TCL",
-      "name": "75C61B Pro",
+      "brand": "Hisense",
+      "name": "75E8S",
       "price": 999.0,
-      "score": 8.3,
+      "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "75 inch QLED met Full Array-dimming, Google TV en Onkyo-geluid.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "75 inch MiniLED met native 144 Hz en ingebouwde subwoofer.",
       "specs": {
-        "Paneel": "QLED, Full Array (128 zones)",
-        "Beeldfrequentie": "60 Hz",
-        "HDR": "Dolby Vision, HDR10+, HLG",
-        "Smart-tv": "Google TV",
-        "Bouwjaar": "2024"
+        "Paneel": "Hi-QLED MiniLED",
+        "Beeldfrequentie": "144 Hz",
+        "HDR": "Dolby Vision",
+        "Smart-tv": "VIDAA",
+        "Bouwjaar": "2026"
       },
       "pros": [
-        "Full Array Local Dimming met 128 zones",
-        "Google TV met Chromecast",
-        "Onkyo 2.1-geluid met Dolby Atmos",
-        "Poten aan binnen- of buitenkant te plaatsen"
+        "MiniLED-verlichting voor rond de 1.000 euro",
+        "Native 144 Hz voor PS5, Xbox en pc",
+        "Ingebouwde subwoofer en Dolby Atmos",
+        "Model uit 2026"
       ],
       "cons": [
-        "60 Hz, minder geschikt voor fanatieke gamers",
-        "Model uit 2024",
-        "Beperkte helderheid voor HDR"
+        "Helderheid van 600 nits is gemiddeld voor HDR",
+        "VIDAA heeft minder apps dan Google TV"
       ],
-      "ideal": "Wie vooral tv kijkt en streamt en voor rond de 1.000 euro een groot scherm met goed contrast wil.",
-      "text": "De TCL 75C61B Pro is een model uit 2024 dat op 75 inch nu rond de 1.000 euro kost. Het grote verschil met een gewone LED-tv is de Full Array-verlichting met 128 dimzones. Die regelen het licht per gebied, waardoor zwart in een donkere kamer dieper blijft en lichte delen meer uitspringen. QLED-kleuren en ondersteuning voor Dolby Vision, HDR10+ en HLG maken hem breed inzetbaar voor films en series.\n\nGoogle TV zit erop met alle Nederlandse apps, spraakbediening en Chromecast. Het geluid komt van een 2.1-systeem van Onkyo met een basspeaker aan de achterkant en Dolby Atmos, beter dan bij de meeste tv's in deze prijsklasse. Voor gamers zijn HDMI 2.1 en ALLM aanwezig, maar het paneel blijft 60 Hz. Kopers op bol geven hem een 4,3. De poten kun je aan de buiten- of binnenkant zetten, handig op een smal meubel. Een degelijke keuze voor wie vooral tv kijkt en streamt op groot formaat.",
-      "ean": "5901292524128",
-      "bol_title": "TCL 75C61B Pro - 75 inch - 4K QLED - Full Array Local Dimming - 2024",
-      "url": "https://www.bol.com/nl/nl/p/tcl-75c61b-pro-75-inch-4k-qled-2024/9300000173450905/",
-      "image": "https://media.s-bol.com/Jx6kE3ER5XDK/rk8G7V2/550x341.jpg",
+      "ideal": "Wie voor rond de 1.000 euro een groot MiniLED-scherm wil waarop ook goed te gamen is.",
+      "text": "De Hisense 75E8S is een 75 inch tv uit 2026 die MiniLED-verlichting naar ongeveer 1.000 euro brengt. Achter het paneel zitten kleine leds die per zone dimmen, waardoor zwart in een donkere kamer dieper blijft dan bij een gewone QLED. De Hi-QLED-laag zorgt voor verzadigde kleuren en Dolby Vision wordt ondersteund. Hisense noemt een helderheid van 600 nits, genoeg voor een normale woonkamer maar minder fel dan de duurdere U7Q PRO.\n\nVoor gamers is het paneel met native 144 Hz interessant: een PS5, Xbox Series X of pc draait er vloeiend op. Het geluid komt van luidsprekers met een ingebouwde subwoofer en Dolby Atmos, waardoor je voor films minder snel een soundbar nodig hebt. Als smart-tv gebruikt Hisense VIDAA met de grote Nederlandse apps, al is de keuze kleiner dan bij Google TV. Kopers op bol geven hem een 4,7. Een sterke keuze voor wie groot wil kijken en gamen zonder 1.500 euro uit te geven.",
+      "ean": "6942351433967",
+      "bol_title": "Hisense 75E8S SmartTV - 75 inch - 4K Hi-QLED MiniLED - 2026 - 600 nits - Native 144Hz Game Mode - Built-in Subwoofer - Hi-View AI Engine - Hi-QLED Colour - Dolby Vision Atmos",
+      "url": "https://www.bol.com/nl/nl/p/hisense-75e8s-smarttv-75-inch-4k-hi-qled-miniled-2026-600-nits-native-144hz-game-mode-built-in-subwoofer-hi-view-ai-engine-hi-qled-colour-dolby-vision-atmos/9300000269685090/",
+      "image": "https://media.s-bol.com/A3N67X2VwJEl/jYQXgvY/550x350.jpg",
       "ph": {
-        "2026-10-26": 999.0,
-        "2026-10-27": 999.0,
-        "2026-10-28": 999.0,
         "2026-10-29": 999.0
       },
       "low_price": 999.0,
@@ -488,7 +484,7 @@
     },
     {
       "h": "Beeldfrequentie en gamen",
-      "p": "Een 60 Hz-paneel is genoeg voor tv-zenders en streaming. Speel je op een PS5, Xbox Series X of pc, kies dan een tv met 120 Hz of meer en HDMI 2.1 met VRR. In deze lijst gaan de Hisense 75U7Q PRO, de TCL 75Q6C en de Hisense 75E7S PRO tot 144 Hz of hoger. Op 75 inch zie je elke hapering, dus dit is voor gamers geen luxe."
+      "p": "Een 60 Hz-paneel is genoeg voor tv-zenders en streaming. Speel je op een PS5, Xbox Series X of pc, kies dan een tv met 120 Hz of meer en HDMI 2.1 met VRR. In deze lijst gaan de Hisense 75U7Q PRO, de TCL 75Q6C, de Hisense 75E7S PRO en de Hisense 75E8S tot 144 Hz of hoger. Op 75 inch zie je elke hapering, dus dit is voor gamers geen luxe."
     },
     {
       "h": "Ophangen, gewicht en geluid",
@@ -522,7 +518,7 @@
     },
     {
       "q": "Is een 75 inch tv geschikt om op te gamen?",
-      "a": "Ja, mits je kiest voor een model met 120 Hz of meer en HDMI 2.1. De Hisense 75U7Q PRO, de TCL 75Q6C en de Hisense 75E7S PRO ondersteunen 144 Hz of hoger met VRR en een lage input lag."
+      "a": "Ja, mits je kiest voor een model met 120 Hz of meer en HDMI 2.1. De Hisense 75U7Q PRO, de TCL 75Q6C, de Hisense 75E7S PRO en de Hisense 75E8S ondersteunen 144 Hz of hoger met VRR en een lage input lag."
     }
   ],
   "published": "2026-10-20"

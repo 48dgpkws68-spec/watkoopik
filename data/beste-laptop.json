@@ -360,24 +360,24 @@
     },
     {
       "brand": "ASUS",
-      "name": "ROG Strix G16 G614PM RTX 5060",
-      "price": 2149.0,
+      "name": "ROG Strix G16 G614PP RTX 5070",
+      "price": 2249.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 5 van 5",
-      "oneliner": "16 inch gaming-laptop met RTX 5060 en snel 240 Hz-scherm.",
+      "oneliner": "16 inch gaming-laptop met RTX 5070 en snel 240 Hz-scherm.",
       "specs": {
         "Processor": "AMD Ryzen 9",
-        "Geheugen": "16 GB",
-        "Opslag": "1 TB SSD",
+        "Geheugen": "niet vermeld",
+        "Opslag": "niet vermeld",
         "Scherm": "16 inch 240 Hz",
         "Gewicht": "Circa 2,5 kg"
       },
       "pros": [
         "Snel 240 Hz-scherm voor competitieve games",
-        "RTX 5060 haalt hoge framerates met DLSS 4",
+        "RTX 5070 haalt hoge framerates met DLSS 4",
         "Sterke koeling met ROG-software",
-        "Ruime 1 TB opslag"
+        "AMD Ryzen 9-processor"
       ],
       "cons": [
         "Ventilatoren zijn goed hoorbaar onder volle belasting",
@@ -385,31 +385,16 @@
         "Accuduur bescheiden"
       ],
       "ideal": "Fanatieke gamers die een snel scherm en veel prestaties per euro willen.",
-      "text": "De ROG Strix G16 is de middenklasser in de gaminglijn van ASUS en deze G614PM-versie draait op een NVIDIA RTX 5060. In combinatie met DLSS 4 haal je in de meeste moderne games hoge framerates. Het 16 inch scherm van 240 Hz laat die snelheid ook echt zien. Voor shooters en racegames is dat een groot voordeel tegenover een standaard 60 of 144 Hz-paneel.\n\nASUS geeft de Strix een stevige koeling met meerdere ventilatoren, die onder volle belasting goed hoorbaar zijn. Via Armoury Crate kies je tussen een stille stand en maximale prestaties. De 1 TB SSD biedt ruimte voor een flinke gamebibliotheek. Met ongeveer 2,5 kilo is dit duidelijk een desktopvervanger en de accu houdt het tijdens gamen niet lang vol. Kopers op bol geven tot nu toe de hoogste score. Zoek je veel gamekracht met een snel scherm, dan zit je hier goed.",
-      "ean": "4711387903551",
-      "bol_title": "ASUS ROG Strix G16 G614PM-S5004W - Gaming Laptop - 16 inch - RTX 5060 - 240 Hz",
-      "url": "https://www.bol.com/nl/nl/p/asus-rog-strix-g16-g614pm-s5004w-gaming-laptop-16-inch-240-hz/9300000225803901/",
-      "image": "https://media.s-bol.com/oz6V9GEDVBWk/nrZQ82E/550x360.jpg",
-      "synced": "2026-10-29",
+      "text": "De ROG Strix G16 is de middenklasser in de gaminglijn van ASUS en deze G614PP-versie draait op een NVIDIA RTX 5070. Dat is een stap hoger dan de RTX 5060 in de Acer Nitro V 15 uit deze lijst. In combinatie met DLSS 4 haal je in moderne games hoge framerates, ook op hogere instellingen. Het 16 inch scherm van 240 Hz laat die snelheid ook echt zien. Voor shooters en racegames is dat een groot voordeel tegenover een standaard 60 of 144 Hz-paneel.\n\nASUS combineert de videokaart met een AMD Ryzen 9-processor en geeft de Strix een stevige koeling met meerdere ventilatoren, die onder volle belasting goed hoorbaar zijn. Via Armoury Crate kies je tussen een stille stand en maximale prestaties. Met ongeveer 2,5 kilo is dit duidelijk een desktopvervanger en de accu houdt het tijdens gamen niet lang vol. Kopers op bol geven hem tot nu toe de hoogste score. Zoek je veel gamekracht met een snel scherm, dan zit je hier goed.",
+      "ean": "4711387903544",
+      "bol_title": "ASUS ROG Strix G16 G614PP-S5032W - Gaming Laptop - 16 inch - RTX 5070 - 240 Hz",
+      "url": "https://www.bol.com/nl/nl/p/asus-rog-strix-g16-g614pp-s5032w-gaming-laptop-16-inch-240-hz/9300000225803899/",
+      "image": "https://media.s-bol.com/goQZy23WZjJG/D9RNPmy/550x360.jpg",
       "ph": {
-        "2026-10-15": 1599.0,
-        "2026-10-16": 1599.0,
-        "2026-10-17": 1599.0,
-        "2026-10-18": 1599.0,
-        "2026-10-19": 2149.0,
-        "2026-10-20": 2149.0,
-        "2026-10-21": 2149.0,
-        "2026-10-23": 2149.0,
-        "2026-10-24": 2149.0,
-        "2026-10-25": 2149.0,
-        "2026-10-26": 2149.0,
-        "2026-10-27": 2149.0,
-        "2026-10-28": 2149.0,
-        "2026-10-29": 2149.0
+        "2026-10-29": 2249.0
       },
-      "low_price": 1599.0,
-      "prev_price": 1599.0,
-      "prev_date": "2026-10-18"
+      "low_price": 2249.0,
+      "synced": "2026-10-29"
     },
     {
       "brand": "Acer",

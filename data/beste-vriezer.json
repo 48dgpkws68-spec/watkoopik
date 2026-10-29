@@ -171,23 +171,23 @@
     },
     {
       "brand": "Liebherr",
-      "name": "FE 1404-20 Pure",
-      "price": 419.0,
+      "name": "FD 1404-20 Pure",
+      "price": 499.0,
       "score": 8.7,
       "label": null,
       "reviews": "90+ reviews",
-      "oneliner": "Degelijk tafelmodel van 107 liter met Duitse bouwkwaliteit.",
+      "oneliner": "Degelijk tafelmodel met Duitse bouwkwaliteit en zuiniger label.",
       "specs": {
         "Type": "Tafelmodel, 85 cm",
         "Inhoud": "107 l",
         "No Frost": "Nee, SmartFrost",
-        "Energielabel": "E, 172 kWh/jaar",
-        "Geluid": "37 dB"
+        "Energielabel": "D",
+        "Geluid": "niet vermeld"
       },
       "pros": [
-        "107 liter, de grootste inhoud onder de tafelmodellen",
+        "107 liter, veel inhoud voor een tafelmodel",
         "SmartFrost beperkt ijsvorming en ontdooien",
-        "37 dB, stil genoeg voor de keuken",
+        "Energielabel D, zuiniger dan de E-uitvoering",
         "Bekend om lange levensduur"
       ],
       "cons": [
@@ -195,28 +195,16 @@
         "Duurder dan andere tafelmodellen"
       ],
       "ideal": "Wie een tafelmodel onder het aanrecht wil dat vijftien jaar meegaat.",
-      "text": "Liebherr maakt al decennia vriezers die opvallend lang meegaan en de FE 1404 Pure is het instapmodel onder de tafelmodellen. Met 107 liter netto in vier lades heeft hij meer ruimte dan de meeste concurrenten van 85 centimeter hoog. SmartFrost is geen No Frost, maar de gladde binnenwanden laten veel minder ijs aanzetten, zodat je hooguit eens per jaar ontdooit. De invriescapaciteit is 5,5 kilo per dag.\n\nHet verbruik van 172 kWh per jaar is netjes voor deze inhoud en met 37 dB hoor je hem in de keuken nauwelijks. Bij stroomuitval houdt hij de inhoud 13 uur bevroren. De deur is omkeerbaar en het werkblad is bruikbaar als extra aanrecht. Kopers op bol geven hem de hoogste waardering van alle tafelmodellen en noemen vooral de kwaliteit van de lades en de stilte. Je betaalt meer dan bij Inventum of Tomado, maar je koopt ook een vriezer die je niet snel vervangt.",
-      "ean": "4016803094913",
-      "bol_title": "Liebherr FE 1404-20 - Tafelmodel - Vriezer",
-      "url": "https://www.bol.com/nl/nl/p/liebherr-fe-1404-20-tafelmodel-diepvriezer/9300000181355445/",
-      "image": "https://media.s-bol.com/J9yG847xmm4J/lYpkM95/550x642.jpg",
-      "synced": "2026-10-29",
+      "text": "Liebherr maakt al decennia vriezers die opvallend lang meegaan en de FD 1404 Pure is de zuinigere uitvoering van het bekende 1404-tafelmodel. Met 107 liter in vier lades heeft hij meer ruimte dan de meeste concurrenten van 85 centimeter hoog. SmartFrost is geen No Frost, maar de gladde binnenwanden laten veel minder ijs aanzetten, zodat je minder vaak hoeft te ontdooien.\n\nHet verschil met de FE-uitvoering zit in het energielabel: D in plaats van E, dus je verbruikt per jaar minder stroom. Over vijftien jaar gebruik verdien je een deel van de meerprijs daarmee terug. De deur is omkeerbaar en het werkblad is bruikbaar als extra aanrecht. Kopers waarderen vooral de kwaliteit van de lades en de stevige afwerking. Je betaalt duidelijk meer dan bij Inventum of Tomado, maar je koopt ook een vriezer die je niet snel vervangt. Wil je minder uitgeven, kijk dan naar de Beko of Inventum verderop in deze lijst.",
+      "ean": "4016803094333",
+      "bol_title": "Liebherr FD1404-20 - Tafelmodel - Vriezer",
+      "url": "https://www.bol.com/nl/nl/p/liebherr-fd-1404-001-20-vrieskast-aanrecht-106-l-wit/9300000179937423/",
+      "image": "https://media.s-bol.com/r3wV3x9VQZLL/pQYl6g2/550x802.jpg",
       "ph": {
-        "2026-10-16": 419.0,
-        "2026-10-17": 419.0,
-        "2026-10-18": 419.0,
-        "2026-10-19": 419.0,
-        "2026-10-20": 419.0,
-        "2026-10-21": 419.0,
-        "2026-10-23": 419.0,
-        "2026-10-24": 419.0,
-        "2026-10-25": 419.0,
-        "2026-10-26": 419.0,
-        "2026-10-27": 419.0,
-        "2026-10-28": 419.0,
-        "2026-10-29": 419.0
+        "2026-10-29": 499.0
       },
-      "low_price": 419.0
+      "low_price": 499.0,
+      "synced": "2026-10-29"
     },
     {
       "brand": "Beko",

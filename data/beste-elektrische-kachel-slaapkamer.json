@@ -478,5 +478,9 @@
       "q": "Wat is de beste temperatuur in de slaapkamer?",
       "a": "De meeste mensen slapen het best bij 15 tot 18 graden. Verwarm de kamer dus vooral voor het slapengaan en laat de kachel daarna terugschakelen naar een lage nachttemperatuur."
     }
+  ],
+  "rel": [
+    "beste-elektrische-deken",
+    "beste-plaid"
   ]
 }

@@ -317,9 +317,9 @@ def gcard(g, root=""):
     return '''<a class="gc ring tilt rv" href="%s%s" data-cat-item="%s"><div class="gc-img"><span class="tag">Top 10</span>%s</div><div class="gc-body"><h3>%s</h3><p>%s</p><div class="gc-win"><span>Winnaar: <b>%s %s</b></span><span class="pr">%s</span></div></div></a>''' % (
         root, g["url"], g["cat"], img_of(p), e(g["title"]), e(g["intro"][:130].rsplit(" ", 1)[0] + "…"), e(p["brand"]), e(p["name"]), eur(p["price"]))
 
-def mq_items(root=""):
+def mq_items(root="", gl=None):
     items = []
-    for g in guides:
+    for g in (gl or guides):
         p = next((x for x in g["products"][:3] if x.get("image")), None)
         if p: items.append('<a class="mq-item" href="%s%s"><img src="%s" alt="" loading="lazy">%s</a>' % (root, g["url"], e(p["image"]), e(g["short"])))
     return items
@@ -328,8 +328,6 @@ def marquee(items, rev=False, light=False):
     return '<div class="mq%s%s" aria-hidden="true"><div class="mq-track">%s</div></div>' % (" rev" if rev else "", " mq-light" if light else "", "".join(items) * 2)
 
 # ---------- home ----------
-items = mq_items()
-half = len(items) // 2
 # populair = gidsen gesorteerd op Umami-weergaven + bol-kliks van de laatste 7 dagen (tools/umami.py --save)
 try:
     _pop = json.load(open(os.path.join(ROOT, "stats", "populair.json"), encoding="utf-8"))["gidsen"]
@@ -338,6 +336,9 @@ except Exception:
 _by_slug = {g["slug"]: g for g in guides}
 popular = [_by_slug[s] for s in _pop if s in _by_slug]
 popular += [g for g in guides if g not in popular]
+# hero-band en winnaarsband: alleen de 60 / 48 populairste gidsen (was alle gidsen x2, ruim 700 afbeeldingen met blur op mobiel)
+items = mq_items(gl=popular)[:60]
+half = len(items) // 2
 chips = "".join('<a href="%s">%s</a>' % (g["url"], e(g["short"])) for g in popular[:9])
 PALET = {"huishouden": ("#7c5cff", "#38e1ff"), "keuken": ("#ff7a3d", "#ff4fd8"), "verzorging": ("#ff4fd8", "#7c5cff"), "slapen": ("#3b5bff", "#38e1ff"),
          "elektronica": ("#00c2ff", "#7c5cff"), "wonen": ("#3ee08f", "#38e1ff"), "sport": ("#ffc65c", "#ff7a3d"), "kind": ("#ff8fb1", "#ffc65c"), "klussen": ("#ffc65c", "#3ee08f"),
@@ -348,15 +349,15 @@ sizes = ["big", "", "", "wide", "", ""]
 cat_cards = "".join('''<a class="cat ring tilt rv %s" href="categorie/%s.html" style="--c1:%s;--c2:%s"><span class="ic">%s</span><span class="thumbs">%s</span><b>%s</b><small>%d gidsen · %s</small></a>''' % (
     sizes[i] if i < len(sizes) else "", k, PALET[k][0], PALET[k][1], icon(k), "".join('<img src="%s" alt="" loading="lazy">' % e(win(x)["image"]) for x in by_cat[k][:4] if win(x).get("image")),
     CATS[k][0], len(by_cat[k]), CATS[k][1].split(",")[0]) for i, k in enumerate(cat_keys))
-winners = [g for g in guides if win(g).get("image")]
+winners = [g for g in popular if win(g).get("image")]
 def wincard(g):
     p = win(g)
     return '''<a class="wincard" href="%s"><div class="im"><span class="crown">Nr. 1 %s</span><img src="%s" alt="%s %s" loading="lazy"></div><div class="bd"><small>%s · winnaar</small><h3>%s %s</h3><div class="pr">%s</div></div></a>''' % (
         g["url"], e(g["short"].lower()), e(p["image"]), e(p["brand"]), e(p["name"]), e(g["short"]), e(p["brand"]), e(p["name"]), eur(p["price"]))
-wh = len(winners) // 2
+wh = 24
 winband = '<div class="mq winband">%s</div><div class="mq winband rev" style="margin-top:14px">%s</div>' % (
     '<div class="mq-track">%s</div>' % ("".join(wincard(g) for g in winners[:wh]) * 2),
-    '<div class="mq-track">%s</div>' % ("".join(wincard(g) for g in winners[wh:]) * 2))
+    '<div class="mq-track">%s</div>' % ("".join(wincard(g) for g in winners[wh:2 * wh]) * 2))
 fl_imgs = [win(g)["image"] for g in winners[:6]]
 floaters = '<div class="floaters" aria-hidden="true">%s</div>' % "".join('<div class="fl f%d" data-depth="%s"><div class="in"><img src="%s" alt=""></div></div>' % (i + 1, [.6, 1, .4, .8, .3, .5][i], e(im)) for i, im in enumerate(fl_imgs))
 
