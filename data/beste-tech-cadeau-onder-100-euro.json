@@ -55,16 +55,17 @@
         "2026-10-25": 45.75,
         "2026-10-26": 45.75,
         "2026-10-27": 45.75,
-        "2026-10-28": 45.75
+        "2026-10-28": 45.75,
+        "2026-10-29": 45.75
       },
       "low_price": 45.75,
-      "synced": "2026-10-28",
+      "synced": "2026-10-29",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Anker",
       "name": "Powerbank 20.000 mAh 87W met ingebouwde usb-c-kabel",
-      "price": 44.95,
+      "price": 44.99,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
       "oneliner": "Grote powerbank die ook een laptop kan bijladen.",
@@ -95,13 +96,14 @@
         "2026-10-25": 44.99,
         "2026-10-26": 44.99,
         "2026-10-27": 44.99,
-        "2026-10-28": 44.95
+        "2026-10-28": 44.95,
+        "2026-10-29": 44.99
       },
       "low_price": 44.95,
-      "synced": "2026-10-28",
+      "synced": "2026-10-29",
       "reviews": "reviews op bol",
-      "prev_price": 44.99,
-      "prev_date": "2026-10-27"
+      "prev_price": 44.95,
+      "prev_date": "2026-10-28"
     },
     {
       "brand": "Apple",
@@ -137,16 +139,17 @@
         "2026-10-25": 31.99,
         "2026-10-26": 31.99,
         "2026-10-27": 31.99,
-        "2026-10-28": 31.99
+        "2026-10-28": 31.99,
+        "2026-10-29": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-10-28",
+      "synced": "2026-10-29",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Philips Hue",
       "name": "Play lightbar 1-pack basis zwart",
-      "price": 70.0,
+      "price": 68.0,
       "score": 8.7,
       "label": null,
       "oneliner": "Lichtbalk die achter tv of monitor kleur op de muur werpt.",
@@ -177,18 +180,19 @@
         "2026-10-25": 75.0,
         "2026-10-26": 75.0,
         "2026-10-27": 75.0,
-        "2026-10-28": 70.0
+        "2026-10-28": 70.0,
+        "2026-10-29": 68.0
       },
-      "low_price": 70.0,
-      "synced": "2026-10-28",
+      "low_price": 68.0,
+      "synced": "2026-10-29",
       "reviews": "reviews op bol",
-      "prev_price": 75.0,
-      "prev_date": "2026-10-27"
+      "prev_price": 70.0,
+      "prev_date": "2026-10-28"
     },
     {
       "brand": "Ring",
       "name": "Battery Video Doorbell 2K",
-      "price": 74.95,
+      "price": 73.95,
       "score": 8.5,
       "label": null,
       "oneliner": "Draadloze videodeurbel met scherp 2K-beeld en melding op je telefoon.",
@@ -219,13 +223,14 @@
         "2026-10-25": 74.95,
         "2026-10-26": 74.95,
         "2026-10-27": 74.95,
-        "2026-10-28": 74.95
+        "2026-10-28": 74.95,
+        "2026-10-29": 73.95
       },
-      "low_price": 74.0,
-      "synced": "2026-10-28",
+      "low_price": 73.95,
+      "synced": "2026-10-29",
       "reviews": "reviews op bol",
-      "prev_price": 74.0,
-      "prev_date": "2026-10-24"
+      "prev_price": 74.95,
+      "prev_date": "2026-10-28"
     },
     {
       "brand": "Fitbit",
@@ -261,10 +266,11 @@
         "2026-10-25": 79.99,
         "2026-10-26": 79.99,
         "2026-10-27": 79.99,
-        "2026-10-28": 69.0
+        "2026-10-28": 69.0,
+        "2026-10-29": 69.0
       },
       "low_price": 69.0,
-      "synced": "2026-10-28",
+      "synced": "2026-10-29",
       "reviews": "reviews op bol",
       "prev_price": 79.99,
       "prev_date": "2026-10-27"
@@ -303,16 +309,17 @@
         "2026-10-25": 50.95,
         "2026-10-26": 50.95,
         "2026-10-27": 50.95,
-        "2026-10-28": 50.95
+        "2026-10-28": 50.95,
+        "2026-10-29": 50.95
       },
       "low_price": 50.95,
-      "synced": "2026-10-28",
+      "synced": "2026-10-29",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Nintendo",
       "name": "Switch 2 Pro Controller",
-      "price": 79.99,
+      "price": 79.0,
       "score": 8.6,
       "label": null,
       "oneliner": "Officiële controller voor wie veel op de Switch 2 speelt.",
@@ -343,11 +350,14 @@
         "2026-10-25": 79.99,
         "2026-10-26": 79.99,
         "2026-10-27": 79.99,
-        "2026-10-28": 79.99
+        "2026-10-28": 79.99,
+        "2026-10-29": 79.0
       },
-      "low_price": 79.99,
-      "synced": "2026-10-28",
-      "reviews": "reviews op bol"
+      "low_price": 79.0,
+      "synced": "2026-10-29",
+      "reviews": "reviews op bol",
+      "prev_price": 79.99,
+      "prev_date": "2026-10-28"
     },
     {
       "brand": "Polaroid",
@@ -383,10 +393,11 @@
         "2026-10-25": 86.0,
         "2026-10-26": 86.0,
         "2026-10-27": 83.95,
-        "2026-10-28": 83.95
+        "2026-10-28": 83.95,
+        "2026-10-29": 83.95
       },
       "low_price": 83.95,
-      "synced": "2026-10-28",
+      "synced": "2026-10-29",
       "reviews": "reviews op bol",
       "prev_price": 86.0,
       "prev_date": "2026-10-26"
@@ -425,10 +436,11 @@
         "2026-10-25": 58.99,
         "2026-10-26": 58.99,
         "2026-10-27": 58.99,
-        "2026-10-28": 58.99
+        "2026-10-28": 58.99,
+        "2026-10-29": 58.99
       },
       "low_price": 58.99,
-      "synced": "2026-10-28",
+      "synced": "2026-10-29",
       "reviews": "reviews op bol"
     }
   ],
