@@ -265,6 +265,7 @@ def head(title, desc, path, root, extra="", img=""):
 <link rel="stylesheet" href="%sstyle.css?v=%s">%s
 <script>window.ROOT=%s</script>
 <script defer src="https://cloud.umami.is/script.js" data-website-id="47030ca7-838e-4840-9d90-0c8b315ba5e8"></script>
+<script defer src="https://stats.1v1battles.com/nv.js" data-website-id="03f16402-b724-4d0e-9b85-421af8108d65"></script>
 %s
 </head>
 <body class="%s">
