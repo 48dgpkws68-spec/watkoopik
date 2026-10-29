@@ -75,7 +75,6 @@
 [ ] beste-steelstofzuiger-onder-200-euro | huishouden | steelstofzuiger goedkoop | De 10 beste steelstofzuigers onder 200 euro van 2026 | 🧹
 [ ] beste-grasmaaier-onder-200-euro | klussen | grasmaaier goedkoop | De 10 beste grasmaaiers onder 200 euro van 2026 | 🌱
 [ ] beste-handheld-console | gaming | handheld console | De 10 beste handheld consoles van 2026 | 🎮
-[ ] beste-handdoekradiator | wonen | handdoekradiator | De 10 beste handdoekradiatoren van 2026 | 🔥
 [ ] beste-hoeslaken | slapen | hoeslaken | De 10 beste hoeslakens van 2026 | 🛏️
 [ ] beste-mountainbike | auto | mountainbike | De 10 beste mountainbikes van 2026 | 🚵
 [ ] beste-slagschroevendraaier | klussen | slagschroevendraaier | De 10 beste slagschroevendraaiers van 2026 | 🔧

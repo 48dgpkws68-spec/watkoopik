@@ -210,3 +210,4 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-voetenwarmer | wonen | elektrische voetenwarmer | De 10 beste elektrische voetenwarmers van 2026 | 🦶
 [x] beste-tv-50-inch | elektronica | 50 inch tv | De 10 beste 50 inch tv's van 2026 | 📺
 [x] beste-sinterklaascadeau-voor-kinderen | cadeaus | sinterklaascadeau kind | De 10 beste sinterklaascadeaus voor kinderen van 2026 | 🎁
+[x] beste-handdoekradiator | wonen | elektrische handdoekradiator | De 10 beste elektrische handdoekradiatoren van 2026 | 🔥
