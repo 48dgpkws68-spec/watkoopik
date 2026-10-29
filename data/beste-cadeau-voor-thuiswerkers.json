@@ -484,5 +484,19 @@
       "q": "Kan ik het cadeau ruilen als het niet past?",
       "a": "Bij bol geldt normaal 30 dagen bedenktijd en rond de feestdagen vaak een verlengde termijn. Laat de verpakking heel, dan is ruilen het makkelijkst."
     }
-  ]
+  ],
+  "eigen_merk": {
+    "merk": "Mhyson",
+    "name": "Mhyson Air Chair",
+    "price": 295,
+    "url": "https://mhyson.com/air-chair/?utm_source=watkoopik&utm_medium=eigen-merk&utm_campaign=beste-cadeau-voor-thuiswerkers",
+    "image": "https://mhyson.com/img/sfeer-zwart-kantoor.webp",
+    "knop": "Bekijk de Air Chair",
+    "text": "Groter cadeau, bijvoorbeeld van een werkgever of samen met collega's? Onze eigen ergonomische bureaustoel heeft ademende mesh, verstelbare lendensteun, een verstelbare hoofdsteun en opklapbare armleuningen. Op mhyson.com staat ook hoe je hem via een thuiswerkbudget of op factuur bestelt.",
+    "punten": [
+      "Gratis verzending in Nederland en België",
+      "3 tot 7 werkdagen levertijd",
+      "30 dagen retour"
+    ]
+  }
 }
