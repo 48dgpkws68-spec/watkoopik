@@ -261,6 +261,7 @@ def head(title, desc, path, root, extra="", img=""):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="p:domain_verify" content="08507cf92b51261ab340ae79077e9383">
 <title>%s</title>
 <meta name="description" content="%s">
 <meta name="robots" content="%s">
