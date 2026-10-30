@@ -24,7 +24,7 @@
     {
       "brand": "Qlima",
       "name": "GH 959 RF",
-      "price": 176.3,
+      "price": 176.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "200+ reviews",
@@ -54,12 +54,13 @@
       "image": "https://media.s-bol.com/VvQr7KLqMAMv/491x840.jpg",
       "ph": {
         "2026-10-28": 176.6,
-        "2026-10-29": 176.3
+        "2026-10-29": 176.3,
+        "2026-10-30": 176.0
       },
-      "low_price": 176.3,
-      "synced": "2026-10-29",
-      "prev_price": 176.6,
-      "prev_date": "2026-10-28"
+      "low_price": 176.0,
+      "synced": "2026-10-30",
+      "prev_price": 176.3,
+      "prev_date": "2026-10-29"
     },
     {
       "brand": "Auronic",
@@ -94,10 +95,11 @@
       "image": "https://media.s-bol.com/mvY0mREvjpjn/Y7EkpGO/534x840.jpg",
       "ph": {
         "2026-10-28": 179.99,
-        "2026-10-29": 179.99
+        "2026-10-29": 179.99,
+        "2026-10-30": 179.99
       },
       "low_price": 179.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Auronic",
@@ -132,15 +134,16 @@
       "image": "https://media.s-bol.com/xK2zAY3WVEGP/k2RJQlN/550x749.jpg",
       "ph": {
         "2026-10-28": 79.99,
-        "2026-10-29": 79.99
+        "2026-10-29": 79.99,
+        "2026-10-30": 79.99
       },
       "low_price": 79.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Qlima",
       "name": "GH 8034 design gaskachel",
-      "price": 266.1,
+      "price": 265.8,
       "score": 8.9,
       "label": "Beste premium",
       "reviews": "50+ reviews",
@@ -170,12 +173,13 @@
       "image": "https://media.s-bol.com/qjjvGGrnQZW7/449x840.jpg",
       "ph": {
         "2026-10-28": 266.4,
-        "2026-10-29": 266.1
+        "2026-10-29": 266.1,
+        "2026-10-30": 265.8
       },
-      "low_price": 266.1,
-      "synced": "2026-10-29",
-      "prev_price": 266.4,
-      "prev_date": "2026-10-28"
+      "low_price": 265.8,
+      "synced": "2026-10-30",
+      "prev_price": 266.1,
+      "prev_date": "2026-10-29"
     },
     {
       "brand": "KESSER",
@@ -211,10 +215,11 @@
       "image": "https://media.s-bol.com/KDYmAVlPy85z/X6GyRGg/550x550.jpg",
       "ph": {
         "2026-10-28": 147.8,
-        "2026-10-29": 173.8
+        "2026-10-29": 173.8,
+        "2026-10-30": 173.8
       },
       "low_price": 147.8,
-      "synced": "2026-10-29",
+      "synced": "2026-10-30",
       "prev_price": 147.8,
       "prev_date": "2026-10-28"
     },
@@ -251,10 +256,11 @@
       "image": "https://media.s-bol.com/NvY2jqQml3KK/1jRX65Z/550x501.jpg",
       "ph": {
         "2026-10-28": 81.99,
-        "2026-10-29": 81.99
+        "2026-10-29": 81.99,
+        "2026-10-30": 81.99
       },
       "low_price": 81.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Eurocatch",
@@ -289,10 +295,11 @@
       "image": "https://media.s-bol.com/zMy7JDo4O3E5/5732Dgv/550x618.jpg",
       "ph": {
         "2026-10-28": 99.99,
-        "2026-10-29": 99.99
+        "2026-10-29": 99.99,
+        "2026-10-30": 99.99
       },
       "low_price": 99.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "MW Tools",
@@ -327,10 +334,11 @@
       "image": "https://media.s-bol.com/YmEmX8WQ3r1n/jRP8qwP/526x840.jpg",
       "ph": {
         "2026-10-28": 92.0,
-        "2026-10-29": 92.0
+        "2026-10-29": 92.0,
+        "2026-10-30": 92.0
       },
       "low_price": 92.0,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "HotSpot",
@@ -366,10 +374,11 @@
       "image": "https://media.s-bol.com/Y8zzMyKrxVV2/xGDn2PE/479x840.jpg",
       "ph": {
         "2026-10-28": 132.95,
-        "2026-10-29": 132.95
+        "2026-10-29": 132.95,
+        "2026-10-30": 132.95
       },
       "low_price": 132.95,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Propatech",
@@ -405,10 +414,11 @@
       "image": "https://media.s-bol.com/BZGQAKzN1VPY/BgXRlJJ/443x840.jpg",
       "ph": {
         "2026-10-28": 259.95,
-        "2026-10-29": 259.95
+        "2026-10-29": 259.95,
+        "2026-10-30": 259.95
       },
       "low_price": 259.95,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     }
   ],
   "guide": [

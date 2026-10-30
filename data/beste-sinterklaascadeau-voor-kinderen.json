@@ -54,10 +54,11 @@
       "url": "https://www.bol.com/nl/nl/p/lego-city-brandweerkazerne-en-brandweerauto-60414/9300000157956292/",
       "image": "https://media.s-bol.com/K3OPjWNP9zr8/PjmWrJn/550x310.jpg",
       "ph": {
-        "2026-10-29": 58.1
+        "2026-10-29": 58.1,
+        "2026-10-30": 58.1
       },
       "low_price": 58.1,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Ravensburger",
@@ -91,10 +92,11 @@
       "url": "https://www.bol.com/nl/nl/p/ravensburger-doolhof-bordspel/1004004004912001/",
       "image": "https://media.s-bol.com/jl909kyyBV6y/JqxD2LK/550x440.jpg",
       "ph": {
-        "2026-10-29": 24.99
+        "2026-10-29": 24.99,
+        "2026-10-30": 24.99
       },
       "low_price": 24.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "VTech",
@@ -128,10 +130,11 @@
       "url": "https://www.bol.com/nl/nl/p/vtech-kidizoom-duo-fx-kindercamera-interactief-speelgoed-foto-s-en-video-s-maken-speelgoed-vanaf-4-jaar-blauw/9300000170755970/",
       "image": "https://media.s-bol.com/RvqX20K8P3Oz/ADKln71/550x407.jpg",
       "ph": {
-        "2026-10-29": 76.99
+        "2026-10-29": 76.99,
+        "2026-10-30": 76.99
       },
       "low_price": 76.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Nintendo",
@@ -165,10 +168,11 @@
       "url": "https://www.bol.com/nl/nl/p/mario-kart-8-deluxe-en-se-dk-fi-switch/9200000073684225/",
       "image": "https://media.s-bol.com/JXVQpJLyo7gD/YErXZNn/519x840.jpg",
       "ph": {
-        "2026-10-29": 49.99
+        "2026-10-29": 49.99,
+        "2026-10-30": 49.99
       },
       "low_price": 49.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "PLAYMOBIL",
@@ -202,10 +206,11 @@
       "url": "https://www.bol.com/nl/nl/p/playmobil-city-life-schoolbus-71329/9300000144063449/",
       "image": "https://media.s-bol.com/OkVQZNVmv3Jp/qvrWK3/550x356.jpg",
       "ph": {
-        "2026-10-29": 37.99
+        "2026-10-29": 37.99,
+        "2026-10-30": 37.99
       },
       "low_price": 37.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Ravensburger",
@@ -239,10 +244,11 @@
       "url": "https://www.bol.com/nl/nl/p/tiptoi-starter-set-de-avonturen-van-nijntje/9300000178263900/",
       "image": "https://media.s-bol.com/JwB9JQyKvjpJ/LgYywor/550x458.jpg",
       "ph": {
-        "2026-10-29": 46.23
+        "2026-10-29": 46.23,
+        "2026-10-30": 46.23
       },
       "low_price": 46.23,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Clementoni",
@@ -276,15 +282,16 @@
       "url": "https://www.bol.com/nl/nl/p/technological-greenhouse/9300000177510705/",
       "image": "https://media.s-bol.com/RGy36Q66nKyK/nZYNJlW/550x512.jpg",
       "ph": {
-        "2026-10-29": 29.99
+        "2026-10-29": 29.99,
+        "2026-10-30": 29.99
       },
       "low_price": 29.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "LEGO",
       "name": "Technic Ducati Desmo450 MX Factory 42238",
-      "price": 39.99,
+      "price": 38.99,
       "score": 8.7,
       "label": null,
       "ean": "5702018067772",
@@ -313,10 +320,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-technic-ducati-desmo450-mx-factory-motor-speelgoed-voor-kinderen-42238/9300000265640013/",
       "image": "https://media.s-bol.com/mJxZE6lypwqO/k80BPE5/550x328.jpg",
       "ph": {
-        "2026-10-29": 39.99
+        "2026-10-29": 39.99,
+        "2026-10-30": 38.99
       },
-      "low_price": 39.99,
-      "synced": "2026-10-29"
+      "low_price": 38.99,
+      "synced": "2026-10-30",
+      "prev_price": 39.99,
+      "prev_date": "2026-10-29"
     },
     {
       "brand": "Hama",
@@ -350,10 +360,11 @@
       "url": "https://www.bol.com/nl/nl/p/hama-doos-maxi-beads-and-pegboards-600-strijkkralen-8744/9200000096430425/",
       "image": "https://media.s-bol.com/Z1lQLm76K7kQ/3l5njzr/550x414.jpg",
       "ph": {
-        "2026-10-29": 15.99
+        "2026-10-29": 15.99,
+        "2026-10-30": 15.99
       },
       "low_price": 15.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "SmartGames",
@@ -387,10 +398,11 @@
       "url": "https://www.bol.com/nl/nl/p/iq-puzzler-pro-denkspel/9200000055944519/",
       "image": "https://media.s-bol.com/xrV7DlPJJZNE/lYp48wJ/486x840.jpg",
       "ph": {
-        "2026-10-29": 10.0
+        "2026-10-29": 10.0,
+        "2026-10-30": 10.0
       },
       "low_price": 10.0,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     }
   ],
   "guide": [

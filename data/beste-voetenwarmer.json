@@ -54,10 +54,11 @@
       "image": "https://media.s-bol.com/Rvy16zBKPpYz/jR6vKQz/550x523.jpg",
       "ph": {
         "2026-10-28": 29.99,
-        "2026-10-29": 29.99
+        "2026-10-29": 29.99,
+        "2026-10-30": 29.99
       },
       "low_price": 29.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Lifeshift",
@@ -92,10 +93,11 @@
       "image": "https://media.s-bol.com/mVOm1mnjx0E3/moJ0wO/550x552.jpg",
       "ph": {
         "2026-10-28": 79.95,
-        "2026-10-29": 79.95
+        "2026-10-29": 79.95,
+        "2026-10-30": 79.95
       },
       "low_price": 79.95,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "VH",
@@ -130,10 +132,11 @@
       "image": "https://media.s-bol.com/RAP93vPWNgyR/98OBX4J/550x482.jpg",
       "ph": {
         "2026-10-28": 54.95,
-        "2026-10-29": 59.95
+        "2026-10-29": 59.95,
+        "2026-10-30": 59.95
       },
       "low_price": 54.95,
-      "synced": "2026-10-29",
+      "synced": "2026-10-30",
       "prev_price": 54.95,
       "prev_date": "2026-10-28"
     },
@@ -170,15 +173,16 @@
       "image": "https://media.s-bol.com/nlVN0VnxVJWR/BymyWN/550x550.jpg",
       "ph": {
         "2026-10-28": 32.99,
-        "2026-10-29": 32.99
+        "2026-10-29": 32.99,
+        "2026-10-30": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Beurer",
       "name": "FW 20 Cosy",
-      "price": 45.99,
+      "price": 43.99,
       "score": 8.6,
       "label": null,
       "reviews": "Gem. 4,0 sterren op bol",
@@ -208,10 +212,13 @@
       "image": "https://media.s-bol.com/ozEANj4XyMq3/mw9kRl3/550x600.jpg",
       "ph": {
         "2026-10-28": 45.99,
-        "2026-10-29": 45.99
+        "2026-10-29": 45.99,
+        "2026-10-30": 43.99
       },
-      "low_price": 45.99,
-      "synced": "2026-10-29"
+      "low_price": 43.99,
+      "synced": "2026-10-30",
+      "prev_price": 45.99,
+      "prev_date": "2026-10-29"
     },
     {
       "brand": "Alpina",
@@ -246,10 +253,11 @@
       "image": "https://media.s-bol.com/mxm5DGDWyR7E/8qxvEwl/550x456.jpg",
       "ph": {
         "2026-10-28": 28.41,
-        "2026-10-29": 28.41
+        "2026-10-29": 28.41,
+        "2026-10-30": 28.41
       },
       "low_price": 28.41,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Lopoleis",
@@ -284,10 +292,11 @@
       "image": "https://media.s-bol.com/wJ6XrvQppMKR/DqERZJn/550x550.jpg",
       "ph": {
         "2026-10-28": 31.95,
-        "2026-10-29": 31.95
+        "2026-10-29": 31.95,
+        "2026-10-30": 31.95
       },
       "low_price": 31.95,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Lopoleis",
@@ -322,10 +331,11 @@
       "image": "https://media.s-bol.com/RmyNq1ZNNB6E/PNVx0BA/550x678.jpg",
       "ph": {
         "2026-10-28": 39.95,
-        "2026-10-29": 39.95
+        "2026-10-29": 39.95,
+        "2026-10-30": 39.95
       },
       "low_price": 39.95,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Beurer",
@@ -360,10 +370,11 @@
       "image": "https://media.s-bol.com/p1wvDVMAxOzQ/2RlGg1j/550x546.jpg",
       "ph": {
         "2026-10-28": 44.99,
-        "2026-10-29": 44.99
+        "2026-10-29": 44.99,
+        "2026-10-30": 44.99
       },
       "low_price": 44.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Tomado",
@@ -398,10 +409,11 @@
       "image": "https://media.s-bol.com/74GpBVBV7k9w/yoBOrQg/550x578.jpg",
       "ph": {
         "2026-10-28": 22.5,
-        "2026-10-29": 22.5
+        "2026-10-29": 22.5,
+        "2026-10-30": 22.5
       },
       "low_price": 22.5,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     }
   ],
   "guide": [

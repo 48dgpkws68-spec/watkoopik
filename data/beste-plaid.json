@@ -24,7 +24,7 @@
     {
       "brand": "Beautissu",
       "name": "Alina Sherpa Deken XXL 220x240 cm",
-      "price": 29.99,
+      "price": 31.99,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "800+ reviews",
@@ -53,10 +53,13 @@
       "image": "https://media.s-bol.com/3Lq4RxJNVZJn/mqXJ9Z9/550x550.jpg",
       "ph": {
         "2026-10-28": 29.99,
-        "2026-10-29": 29.99
+        "2026-10-29": 29.99,
+        "2026-10-30": 31.99
       },
       "low_price": 29.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30",
+      "prev_price": 29.99,
+      "prev_date": "2026-10-29"
     },
     {
       "brand": "Komfortec",
@@ -90,15 +93,16 @@
       "image": "https://media.s-bol.com/7PM2n4QPWRQG/x6o7WxP/550x550.jpg",
       "ph": {
         "2026-10-28": 21.99,
-        "2026-10-29": 21.99
+        "2026-10-29": 21.99,
+        "2026-10-30": 21.99
       },
       "low_price": 21.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Van Buren",
       "name": "Alpaca wollen plaid 200x150 cm",
-      "price": 128.0,
+      "price": 129.95,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "20+ reviews",
@@ -127,10 +131,13 @@
       "image": "https://media.s-bol.com/6EKQ0vvQvVRV/58OAvBZ/550x699.jpg",
       "ph": {
         "2026-10-28": 128.0,
-        "2026-10-29": 128.0
+        "2026-10-29": 128.0,
+        "2026-10-30": 129.95
       },
       "low_price": 128.0,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30",
+      "prev_price": 128.0,
+      "prev_date": "2026-10-29"
     },
     {
       "brand": "Tiseco",
@@ -163,10 +170,11 @@
       "image": "https://media.s-bol.com/yW9NgGVZ2X3z/rkXQ0vK/550x308.jpg",
       "ph": {
         "2026-10-28": 69.95,
-        "2026-10-29": 69.95
+        "2026-10-29": 69.95,
+        "2026-10-30": 69.95
       },
       "low_price": 69.95,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Nice Dreams",
@@ -199,10 +207,11 @@
       "image": "https://media.s-bol.com/q1p9VxPQ3pM0/O7nNNvg/550x525.jpg",
       "ph": {
         "2026-10-28": 29.24,
-        "2026-10-29": 29.24
+        "2026-10-29": 29.24,
+        "2026-10-30": 29.24
       },
       "low_price": 29.24,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "MoST",
@@ -235,10 +244,11 @@
       "image": "https://media.s-bol.com/JngR47K5nVgK/OY2Oqqg/550x292.jpg",
       "ph": {
         "2026-10-28": 70.9,
-        "2026-10-29": 71.0
+        "2026-10-29": 71.0,
+        "2026-10-30": 71.0
       },
       "low_price": 70.9,
-      "synced": "2026-10-29",
+      "synced": "2026-10-30",
       "prev_price": 70.9,
       "prev_date": "2026-10-28"
     },
@@ -273,10 +283,11 @@
       "image": "https://media.s-bol.com/xy5j59Yovzzq/q9rlr7/550x554.jpg",
       "ph": {
         "2026-10-28": 19.99,
-        "2026-10-29": 19.99
+        "2026-10-29": 19.99,
+        "2026-10-30": 19.99
       },
       "low_price": 19.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Lantara",
@@ -309,10 +320,11 @@
       "image": "https://media.s-bol.com/B6LWYxOY1X2X/550x210.jpg",
       "ph": {
         "2026-10-28": 65.0,
-        "2026-10-29": 65.0
+        "2026-10-29": 65.0,
+        "2026-10-30": 65.0
       },
       "low_price": 65.0,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "HOOMstyle",
@@ -345,10 +357,11 @@
       "image": "https://media.s-bol.com/JM2pxVP0E95J/YE95zEW/550x357.jpg",
       "ph": {
         "2026-10-28": 22.8,
-        "2026-10-29": 22.8
+        "2026-10-29": 22.8,
+        "2026-10-30": 22.8
       },
       "low_price": 22.8,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     },
     {
       "brand": "Dutch Decor",
@@ -381,10 +394,11 @@
       "image": "https://media.s-bol.com/m58mZl3JX619/76mNm8y/550x550.jpg",
       "ph": {
         "2026-10-28": 15.99,
-        "2026-10-29": 15.99
+        "2026-10-29": 15.99,
+        "2026-10-30": 15.99
       },
       "low_price": 15.99,
-      "synced": "2026-10-29"
+      "synced": "2026-10-30"
     }
   ],
   "guide": [

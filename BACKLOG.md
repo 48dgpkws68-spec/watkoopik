@@ -211,3 +211,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-tv-50-inch | elektronica | 50 inch tv | De 10 beste 50 inch tv's van 2026 | 📺
 [x] beste-sinterklaascadeau-voor-kinderen | cadeaus | sinterklaascadeau kind | De 10 beste sinterklaascadeaus voor kinderen van 2026 | 🎁
 [x] beste-handdoekradiator | wonen | elektrische handdoekradiator | De 10 beste elektrische handdoekradiatoren van 2026 | 🔥
+[x] beste-slimme-radiatorknop | wonen | slimme radiatorknop | De 10 beste slimme radiatorknoppen van 2026 | 🌡️
+[x] beste-cadeau-voor-tieners | cadeaus | cadeau tiener | De 10 beste cadeaus voor tieners van 2026 | 🎁
