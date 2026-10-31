@@ -324,57 +324,41 @@
     },
     {
       "brand": "Whirlpool",
-      "name": "WHS2122 2",
-      "price": 499.0,
-      "score": 8.4,
+      "name": "W3RHS19EW2",
+      "price": 449.0,
+      "score": 8.2,
       "label": null,
-      "reviews": "150+ reviews",
-      "oneliner": "Vrieskist van 204 liter die 26 uur koud blijft bij stroomuitval.",
+      "reviews": "Nieuw op bol",
+      "oneliner": "Vrieskist van 198 liter met snelvriesfunctie en digitale temperatuurregeling.",
       "specs": {
-        "Type": "Vrieskist, 81 cm breed",
-        "Inhoud": "204 l",
+        "Type": "Vrieskist, 91 cm breed",
+        "Inhoud": "198 l",
         "No Frost": "Nee",
-        "Energielabel": "E, 201 kWh/jaar",
-        "Geluid": "42 dB"
+        "Energielabel": "E, 200 kWh/jaar",
+        "Geluid": "40 dB"
       },
       "pros": [
-        "204 liter voor minder dan 400 euro",
-        "26 uur bewaartijd bij stroomuitval",
-        "Invriescapaciteit van 11 kg per dag",
-        "Werkt in een onverwarmde ruimte"
+        "Bijna 200 liter vriesruimte voor minder dan 450 euro",
+        "Snelvriesfunctie voor grote hoeveelheden vers voedsel",
+        "Digitale temperatuurregeling en binnenverlichting",
+        "Lager verbruik dan een vrieskast van dezelfde inhoud"
       ],
       "cons": [
         "Handmatig ontdooien",
-        "42 dB, iets luider dan de kasten",
+        "Niet geschikt voor ruimtes die kouder worden dan 10 graden",
         "Je moet bukken en stapelen"
       ],
-      "ideal": "Wie veel inkoopt of invriest en een plek in de schuur of garage heeft.",
-      "text": "Een vrieskist is per liter goedkoper dan een vrieskast en houdt de kou beter vast omdat koude lucht bij het openen niet naar beneden wegstroomt. De Whirlpool WHS2122 2 heeft 204 liter netto in een kist van 80,6 centimeter breed en 86,5 centimeter hoog. Bij stroomuitval blijft de inhoud 26 uur bevroren, een van de langste bewaartijden in deze lijst. De invriescapaciteit is 11 kilo per dag.\n\nHet verbruik van 201 kWh per jaar is lager dan bij een vrieskast van dezelfde inhoud. Je mist No Frost en een ordelijke indeling: je stapelt in de kist en gebruikt het meegeleverde mandje voor kleine spullen. Het geluid van 42 dB is iets hoger dan bij de kasten, in een schuur of garage geen bezwaar. Kopers prijzen de ruimte en de stabiele temperatuur. Wie in bulk inkoopt, zelf slacht of een moestuin heeft, krijgt hier het meeste vriesvolume voor het minste geld.",
-      "ean": "8003437168055",
-      "bol_title": "Vrijstaand, 202 L, Energieklasse E, 75 W, Wit",
-      "url": "https://www.bol.com/nl/nl/p/whirlpool-whs2122-2-diepvriezer-diepvrieskist-vrijstaand-204-l-e-wit/9300000173373615/",
-      "image": "https://media.s-bol.com/NB7pP9wxBR5p/4x6z1Gn/550x585.jpg",
-      "synced": "2026-10-31",
+      "ideal": "Wie veel inkoopt of invriest en een plek heeft in een bijkeuken, kelder of geïsoleerde garage.",
+      "text": "Een vrieskist is per liter goedkoper dan een vrieskast en houdt de kou beter vast omdat koude lucht bij het openen niet naar beneden wegstroomt. De Whirlpool W3RHS19EW2 heeft 198 liter netto in een kist van 91 centimeter breed, 56 centimeter diep en 85 centimeter hoog. De temperatuur stel je digitaal in en met de snelvriesfunctie breng je een grote lading vers vlees of groenten snel op vriestemperatuur.\n\nHet verbruik van 200 kWh per jaar is lager dan bij een vrieskast van dezelfde inhoud. Je mist No Frost en een ordelijke indeling: je stapelt in de kist en gebruikt het meegeleverde mandje voor kleine spullen. Binnenverlichting helpt bij het zoeken. Met 40 dB is hij iets luider dan de stilste kasten. Let op de klimaatklasse ST-T: de ruimte moet tussen 10 en 43 graden blijven, dus een onverwarmde schuur die in de winter vriest is geen goede plek. In een bijkeuken, kelder of geïsoleerde garage krijg je hier veel vriesvolume voor weinig geld.",
+      "ean": "8003437069598",
+      "bol_title": "Whirlpool W3RHS19EW2 - Vrieskist - 198 liter - 40 dB - Energielabel E",
+      "url": "https://www.bol.com/nl/nl/p/whirlpool-w3rhs19ew2-diepvrieskist-vrijstaand-198-l-wit/9300000254833706/",
+      "image": "https://media.s-bol.com/q1BmxY0mO047/48OgY80/550x558.jpg",
       "ph": {
-        "2026-10-16": 374.0,
-        "2026-10-17": 374.0,
-        "2026-10-18": 404.0,
-        "2026-10-19": 388.0,
-        "2026-10-20": 374.0,
-        "2026-10-21": 499.0,
-        "2026-10-23": 499.0,
-        "2026-10-24": 499.0,
-        "2026-10-25": 499.0,
-        "2026-10-26": 499.0,
-        "2026-10-27": 499.0,
-        "2026-10-28": 499.0,
-        "2026-10-29": 499.0,
-        "2026-10-30": 499.0,
-        "2026-10-31": 499.0
+        "2026-10-31": 449.0
       },
-      "low_price": 374.0,
-      "prev_price": 374.0,
-      "prev_date": "2026-10-20"
+      "low_price": 449.0,
+      "synced": "2026-10-31"
     },
     {
       "brand": "Hisense",
@@ -551,7 +535,7 @@
     },
     {
       "h": "Schuur of garage: let op de klimaatklasse",
-      "p": "Niet elke vriezer werkt in een onverwarmde ruimte. Zoek naar klimaatklasse SN-T of een vermelding dat hij geschikt is tot -15 graden omgevingstemperatuur. Modellen zoals de Etna, Beko FNE1074N en de meeste vrieskisten kunnen dat. Zet een gewone vriezer in een koude schuur, dan slaat de compressor te weinig aan en ontdooit de inhoud."
+      "p": "Niet elke vriezer werkt in een onverwarmde ruimte. Zoek naar klimaatklasse SN-T of een vermelding dat hij geschikt is tot -15 graden omgevingstemperatuur. Modellen zoals de Etna, Beko FNE1074N en de Hisense-vrieskist kunnen dat. Zet een gewone vriezer in een koude schuur, dan slaat de compressor te weinig aan en ontdooit de inhoud."
     },
     {
       "h": "Invriescapaciteit en bewaartijd",
@@ -569,7 +553,7 @@
     },
     {
       "q": "Kan een vriezer in de schuur of garage staan?",
-      "a": "Alleen als de fabrikant dat aangeeft, meestal met klimaatklasse SN-T of de vermelding geschikt tot -15 graden. De Etna VV6143NWIT, Beko FNE1074N en de vrieskisten van Whirlpool en Hisense kunnen dat. Andere modellen kunnen in een koude ruimte uitvallen."
+      "a": "Alleen als de fabrikant dat aangeeft, meestal met klimaatklasse SN-T of de vermelding geschikt tot -15 graden. De Etna VV6143NWIT, Beko FNE1074N en de Hisense-vrieskist kunnen dat. De Whirlpool-vrieskist werkt pas vanaf 10 graden. Andere modellen kunnen in een koude ruimte uitvallen."
     },
     {
       "q": "Wat is het voordeel van No Frost?",

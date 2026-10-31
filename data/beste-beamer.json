@@ -18,7 +18,7 @@
   "updated": "2026-10-16",
   "reviews_total": "6.300",
   "intro": "Een beamer geeft je voor het geld van een gewone tv een beeld van twee tot drie meter breed. Het aanbod loopt in 2026 uiteen van draagbare modellen met accu en Google TV tot 4K-laserbeamers voor een echte thuisbioscoop. Wij vergeleken 42 beamers op helderheid, resolutie, lichtbron, smart-functies, geluid en wat kopers er na maanden gebruik van vinden. Dit zijn de tien beste beamers die je nu kunt kopen, van een betaalbare Full HD-beamer voor de slaapkamer tot een laserprojector die overdag bruikbaar blijft.",
-  "verdict": "De BenQ GP520 is de beste beamer voor de meeste woonkamers: 4K, 2.600 ANSI lumen, Google TV en een lichtbron die 20.000 uur meegaat. Wil je veel beeld voor weinig geld, dan is de Epson EpiqVision Flex CO-FH02 met 3.000 lumen en Android TV de beste prijs-kwaliteit. Zoek je het beste beeld zonder op de prijs te letten, dan is de XGIMI Horizon S Pro met Dolby Vision en Dual Light de premium keuze. Voor onderweg of in de tuin kijk je naar de Dangbei Freedo of de XGIMI MoGo 2 Pro.",
+  "verdict": "De BenQ GP520 is de beste beamer voor de meeste woonkamers: 4K, 2.600 ANSI lumen, Google TV en een lichtbron die 20.000 uur meegaat. Wil je veel beeld voor weinig geld, dan is de Epson EpiqVision Flex CO-FH02 met 3.000 lumen en Android TV de beste prijs-kwaliteit. Zoek je het beste beeld zonder op de prijs te letten, dan is de XGIMI Horizon 20 met RGB-laser en 3.200 ISO lumen de premium keuze. Voor onderweg of in de tuin kijk je naar de Dangbei Freedo of de XGIMI MoGo 2 Pro.",
   "products": [
     {
       "brand": "BenQ",
@@ -127,55 +127,41 @@
     },
     {
       "brand": "XGIMI",
-      "name": "Horizon S Pro",
-      "price": 1399.0,
+      "name": "Horizon 20",
+      "price": 1699.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "60+ reviews",
-      "oneliner": "4K met Dolby Vision en Harman Kardon-geluid in een draaibaar frame.",
+      "reviews": "nieuw model, bol-score 5 van 5",
+      "oneliner": "4K met RGB-laser, 3.200 ISO lumen en Google TV in een draaibaar frame.",
       "specs": {
         "Resolutie": "4K (3840 x 2160)",
-        "Helderheid": "1.800 ISO lumen",
-        "Lichtbron": "Laser + LED, 20.000 uur",
-        "Smart-systeem": "Android TV 11",
-        "Speakers": "2 x 12 W Harman Kardon"
+        "Helderheid": "3.200 ISO lumen",
+        "Lichtbron": "RGB-triple-laser",
+        "Smart-systeem": "Google TV",
+        "Speakers": "Harman Kardon"
       },
       "pros": [
-        "Dolby Vision en HDR10+ voor het beste contrast in deze lijst",
-        "Dual Light 2.0: laser en LED zonder regenboogeffect",
-        "Draaibare voet, richt hem op muur of plafond",
-        "Harman Kardon-speakers met Dolby Audio"
+        "RGB-triple-laser voor rijke kleuren",
+        "Optische zoom en lens shift voor flexibel plaatsen",
+        "Google TV ingebouwd, dus geen losse stick nodig",
+        "Gamingmodus met 240 Hz en lage input lag"
       ],
       "cons": [
-        "Minder lumen dan de BenQ GP520 en Optoma UHZ35",
-        "Netflix werkt niet via de ingebouwde app",
-        "Fors geprijsd"
+        "Duurste beamer in deze lijst",
+        "Nog weinig gebruikersreviews",
+        "Groter en zwaarder dan een draagbare beamer"
       ],
-      "ideal": "Filmliefhebbers die het mooiste beeld willen en in de avond kijken.",
-      "text": "De XGIMI Horizon S Pro is de beamer in deze lijst met de beste beeldkwaliteit. Hij combineert een laser en LED in de Dual Light 2.0-lichtbron, waardoor je de diepe kleuren van laser krijgt zonder het regenboogeffect waar sommige kijkers last van hebben. Dolby Vision en HDR10+ worden ondersteund en dat levert een contrast op dat de andere modellen niet halen. De 1.800 ISO lumen zijn ruim genoeg in de avond, maar minder dan de BenQ of Optoma bij daglicht.\n\nDe beamer hangt in een draaibare voet, zodat je hem in één beweging op de muur, een schuine wand of het plafond richt. De ISA 5.0-sensoren corrigeren de focus en het beeld automatisch. Het geluid komt van twee Harman Kardon-speakers van 12 watt met Dolby Audio. Het bekende minpunt van XGIMI blijft: Netflix werkt niet via de ingebouwde app, dus je gebruikt een Chromecast of een streamingstick. Wie vooral 's avonds films kijkt, krijgt hier het beste beeld.",
-      "ean": "6935670505910",
-      "bol_title": "XGIMI Horizon S Pro – 4K Smart-Projector – Beamer - Dolby Vision – Dual Light 2.0 – 1700 ISO Lumens – Android TV™ 11.0 – Harman/Kardon Sound – Bluetooth 5.1 – ISA 5.0",
-      "url": "https://www.bol.com/nl/nl/p/xgimi-horizon-s-pro-4k-smart-projector-beamer-dolby-vision-dual-light-2-0-1700-iso-lumens-android-tv-11-0-harman-kardon-sound-bluetooth-5-1-isa-5-0/9300000193752933/",
-      "image": "https://media.s-bol.com/Bq16B9YoV0BN/oYoQmVX/550x424.jpg",
-      "synced": "2026-10-31",
+      "ideal": "Filmliefhebbers en gamers die het mooiste beeld willen en flexibel willen plaatsen.",
+      "text": "De XGIMI Horizon 20 is de opvolger van de Horizon S-serie en de beamer in deze lijst met de rijkste kleuren. Hij gebruikt een RGB-triple-laser: drie losse lasers voor rood, groen en blauw. Dat geeft een groot kleurbereik en een scherp beeld in 4K. Met 3.200 ISO lumen is hij helder genoeg voor een woonkamer waar nog wat licht binnenvalt, al blijft een verduisterde kamer het mooist.\n\nDe beamer staat in een draaibaar frame, zodat je hem snel op de muur of het plafond richt. Dankzij optische zoom en lens shift zet je hem ook schuin naast de bank zonder dat het beeld vervormt. De ISA-sensoren regelen focus, keystone en muurkleur automatisch. Google TV is ingebouwd en het geluid komt van Harman Kardon-speakers. Gamers krijgen 240 Hz bij 1080p met een lage input lag. Het is een nieuw model met nog weinig reviews en je betaalt flink, maar je krijgt er het meest complete pakket voor.",
+      "ean": "6935670509369",
+      "bol_title": "XGIMI Horizon 20 Laser Projector - 3200 ISO Lumen - Harman Kardon - Beamer voor Gaming & Thuisbioscoop - 4K UHD - Google TV",
+      "url": "https://www.bol.com/nl/nl/p/xgimi-horizon-20-smart-projector-3200-iso-lumens-gaming-ready-isa-automatische-beeldcorrectie-donkergrijs/9300000243325650/",
+      "image": "https://media.s-bol.com/gm6rBGoZPGpl/mqY35yA/550x472.jpg",
       "ph": {
-        "2026-10-16": 1399.0,
-        "2026-10-17": 1399.0,
-        "2026-10-18": 1399.0,
-        "2026-10-19": 1399.0,
-        "2026-10-20": 1399.0,
-        "2026-10-21": 1399.0,
-        "2026-10-23": 1399.0,
-        "2026-10-24": 1399.0,
-        "2026-10-25": 1399.0,
-        "2026-10-26": 1399.0,
-        "2026-10-27": 1399.0,
-        "2026-10-28": 1399.0,
-        "2026-10-29": 1399.0,
-        "2026-10-30": 1399.0,
-        "2026-10-31": 1399.0
+        "2026-10-31": 1699.0
       },
-      "low_price": 1399.0
+      "low_price": 1699.0,
+      "synced": "2026-10-31"
     },
     {
       "brand": "XGIMI",
@@ -561,7 +547,7 @@
     },
     {
       "q": "Welke beamer heeft Netflix?",
-      "a": "Beamers met Google TV en een officiële Netflix-licentie, zoals de Dangbei Freedo, Nebula Mars 3 Air en BenQ GP520, hebben Netflix ingebouwd. De XGIMI MoGo 2 Pro heeft Google TV met Netflix ingebouwd. Bij de XGIMI Horizon, Optoma en Philips sluit je een Chromecast of Fire TV Stick aan."
+      "a": "Beamers met Google TV en een officiële Netflix-licentie, zoals de Dangbei Freedo, Nebula Mars 3 Air en BenQ GP520, hebben Netflix ingebouwd. De XGIMI MoGo 2 Pro en Horizon 20 hebben Google TV met Netflix ingebouwd. Bij Optoma en Philips sluit je een Chromecast of Fire TV Stick aan."
     },
     {
       "q": "Hoe ver moet een beamer van de muur staan?",

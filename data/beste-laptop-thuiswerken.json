@@ -274,46 +274,40 @@
     },
     {
       "brand": "HP",
-      "name": "OmniBook 7 AI 14-fr0753nd Core Ultra 7 255U 16 GB 512 GB OLED",
+      "name": "OmniBook 5 Flip 14-fp0770nd Core 7 16 GB 512 GB OLED",
       "price": 1049.0,
       "score": 8.6,
       "label": null,
-      "reviews": "nog weinig reviews op bol",
-      "oneliner": "Krachtige 14 inch werklaptop met een strak OLED-scherm.",
+      "reviews": "4,8 sterren op bol",
+      "oneliner": "Omklapbare 14 inch laptop met OLED-touchscreen voor werk en tabletstand.",
       "specs": {
-        "Processor": "Intel Core Ultra 7 255U",
-        "Scherm": "14 inch OLED, 16:10",
-        "Webcam": "5 MP met IR",
-        "Accuduur": "tot ca. 14 uur",
-        "Gewicht": "1,4 kg"
+        "Processor": "Intel Core 7",
+        "Scherm": "14 inch OLED-touchscreen, Full HD, 16:10",
+        "Webcam": "IR-camera voor gezichtsherkenning",
+        "Accuduur": "ruim een werkdag",
+        "Gewicht": "ca. 1,6 kg"
       },
       "pros": [
-        "Snelle Core Ultra 7-processor voor zwaar multitasken",
-        "OLED-scherm met diep zwart en veel contrast",
-        "Scherm in 16:10 met extra hoogte",
-        "5 MP-webcam met gezichtsherkenning"
+        "OLED-touchscreen met diep zwart en veel contrast",
+        "Scherm klapt 360 graden om naar tablet- of tentstand",
+        "16 GB werkgeheugen voor vlot multitasken",
+        "Sterke beoordeling van kopers op bol"
       ],
       "cons": [
-        "SSD van 512 GB vult snel bij veel grote bestanden",
-        "Accuduur lager dan bij ARM-laptops",
-        "Nog weinig reviews op bol"
+        "Core 7 is minder krachtig dan een Core Ultra 7",
+        "Full HD is minder scherp dan een 2K- of 3K-scherm",
+        "Iets zwaarder dan een gewone 14 inch laptop"
       ],
-      "ideal": "Thuiswerkers die veel programma's tegelijk open hebben en een prettig scherm willen.",
-      "text": "De HP OmniBook 7 AI 14-fr0753nd is een 14 inch laptop voor wie thuis veel en zwaar werkt. De Intel Core Ultra 7 255U heeft genoeg kracht om een browser met tientallen tabbladen, Teams en Excel tegelijk te draaien. Met 16 GB werkgeheugen loop je niet snel vast. De SSD van 512 GB is ruim genoeg voor documenten en projecten, al kies je bij veel foto's of video's beter voor cloudopslag of een externe schijf.\n\nHet OLED-scherm in 16:10 geeft diep zwart, veel contrast en meer hoogte dan een gewoon breedbeeldscherm, wat prettig is bij lange documenten en spreadsheets. De webcam van 5 megapixel met IR-sensor geeft een scherp beeld in videogesprekken en laat je inloggen met je gezicht. De accu haalt een werkdag bij normaal gebruik. Op bol staan nog weinig reviews. Wie een krachtige Windows-laptop met een mooi scherm zoekt, krijgt hier veel voor zijn geld.",
-      "ean": "0199251732898",
+      "ideal": "Thuiswerkers die ook graag met touch of in tabletstand werken, bijvoorbeeld om aantekeningen te maken.",
+      "text": "De HP OmniBook 5 Flip 14-fp0770nd is een 14 inch laptop met een scharnier dat 360 graden omklapt. Je gebruikt hem als gewone laptop aan je bureau, maar je zet hem ook in tentstand voor een videogesprek of klapt hem helemaal om als tablet. Het touchscreen is handig om door documenten te scrollen of snel iets aan te tekenen. De Intel Core 7-processor en 16 GB werkgeheugen draaien Teams, Outlook en een volle browser zonder haperen. De SSD van 512 GB is ruim genoeg voor je werkbestanden.\n\nHet OLED-scherm in 16:10 geeft diep zwart, veel contrast en meer hoogte dan een gewoon breedbeeldscherm, wat prettig is bij lange documenten en spreadsheets. De resolutie is Full HD, wat op 14 inch scherp genoeg is voor kantoorwerk. Met de IR-camera log je in met je gezicht. Een omklapbare laptop is wel iets zwaarder dan een gewone. Kopers op bol geven hem gemiddeld 4,8 sterren.",
+      "ean": "0199485111728",
+      "bol_title": "HP OmniBook 5 Flip 14-fp0770nd - 2-in-1 Laptop - 14 Inch OLED Full HD 16:10 - Intel Core 7 - 16 GB - 512 GB - Touchscreen",
+      "url": "https://www.bol.com/nl/nl/p/hp-omnibook-5-flip-14-fp0770nd-2-in-1-laptop-14-inch-touchscreen/9300000232681966/",
+      "image": "https://media.s-bol.com/3W8X2RXoor9A/yovGyVw/550x310.jpg",
       "ph": {
-        "2026-10-24": 1049.0,
-        "2026-10-25": 1049.0,
-        "2026-10-26": 1049.0,
-        "2026-10-27": 1049.0,
-        "2026-10-28": 1049.0,
-        "2026-10-29": 1049.0,
-        "2026-10-30": 1049.0
+        "2026-10-31": 1049.0
       },
       "low_price": 1049.0,
-      "bol_title": "HP OmniBook 7 AI 14-fr0753nd - Laptop - Intel® Core™ Ultra 7 Processor 255U - 16GB/512GB - OLED - 14 inch",
-      "url": "https://www.bol.com/nl/nl/p/hp-omnibook-7-ai-14-fr0753nd-laptop-14-inch/9300000230842678/",
-      "image": "https://media.s-bol.com/74Z0OKoG5nzB/k80n05J/550x409.jpg",
       "synced": "2026-10-31"
     },
     {
@@ -550,7 +544,7 @@
     },
     {
       "q": "Welke laptop voor thuiswerken heeft de beste webcam?",
-      "a": "De MacBook Air M4 heeft met 12 MP en Center Stage de beste webcam in deze lijst. De HP OmniBook 7 AI 14 heeft een 5 MP-camera. De meeste andere laptops hebben een Full HD-camera, wat voldoende is voor Teams en Zoom."
+      "a": "De MacBook Air M4 heeft met 12 MP en Center Stage de beste webcam in deze lijst. De meeste andere laptops hebben een Full HD-camera, wat voldoende is voor Teams en Zoom."
     },
     {
       "q": "Wat is een goede goedkope laptop om thuis te werken?",
