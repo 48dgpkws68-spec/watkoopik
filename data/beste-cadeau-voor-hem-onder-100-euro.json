@@ -53,10 +53,11 @@
       "url": "https://www.bol.com/nl/nl/p/jbl-tune-beam-2-true-wireless-nc-oordopjes-ghost-black/9300000181364488/",
       "image": "https://media.s-bol.com/knKBB9NZ4gMv/9rwA0zz/550x416.jpg",
       "ph": {
-        "2026-10-30": 79.99
+        "2026-10-30": 79.99,
+        "2026-10-31": 79.99
       },
       "low_price": 79.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Braun",
@@ -89,10 +90,11 @@
       "url": "https://www.bol.com/nl/nl/p/braun-series-5-elektrisch-scheerapparaat-tot-50-min-1-opzetstuk-52-n1200s-zwart/9300000236693653/",
       "image": "https://media.s-bol.com/gmDB1RZWzqpZ/k2wA2EN/550x574.jpg",
       "ph": {
-        "2026-10-30": 77.99
+        "2026-10-30": 77.99,
+        "2026-10-31": 77.99
       },
       "low_price": 77.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Philips",
@@ -125,10 +127,11 @@
       "url": "https://www.bol.com/nl/nl/p/philips-oneblade-pro-360-face-body-zilver-trimmer-scheerapparaat-en-styler-in-1-inclusief-opbergzakje-qp6552-30/9300000178353829/",
       "image": "https://media.s-bol.com/gmyOBk61L4GY/vQmLQYr/550x539.jpg",
       "ph": {
-        "2026-10-30": 59.99
+        "2026-10-30": 59.99,
+        "2026-10-31": 59.99
       },
       "low_price": 59.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Xiaomi",
@@ -161,10 +164,11 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-band-10-pro-fitnesstracker-1-74-inch-amoled-150-sportmodi-gnss-zwart/9300000274089222/",
       "image": "https://media.s-bol.com/B5JZx6gBkz4Y/l5yOrvM/371x840.jpg",
       "ph": {
-        "2026-10-30": 74.99
+        "2026-10-30": 74.99,
+        "2026-10-31": 74.99
       },
       "low_price": 74.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Leatherman",
@@ -197,10 +201,11 @@
       "url": "https://www.bol.com/nl/nl/p/leatherman-skeletool-zakmes-zilver-kleurig/9200000018346692/",
       "image": "https://media.s-bol.com/YL93kEAn7P7n/MjKJRWB/550x627.jpg",
       "ph": {
-        "2026-10-30": 99.0
+        "2026-10-30": 99.0,
+        "2026-10-31": 99.0
       },
       "low_price": 99.0,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "LEGO",
@@ -233,10 +238,11 @@
       "url": "https://www.bol.com/nl/nl/p/lego-icons-ferrari-f2004-en-michael-schumacher-11375/9300000243481721/",
       "image": "https://media.s-bol.com/nw57BBRKLB7R/BNlYomn/550x405.jpg",
       "ph": {
-        "2026-10-30": 64.98
+        "2026-10-30": 64.98,
+        "2026-10-31": 64.98
       },
       "low_price": 64.98,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Xbox",
@@ -269,15 +275,16 @@
       "url": "https://www.bol.com/nl/nl/p/xbox-draadloze-controller-carbon-zwart-series-x-s-xbox-one/9300000009936880/",
       "image": "https://media.s-bol.com/jDODNqGRONWP/mOZ5Gkp/550x366.jpg",
       "ph": {
-        "2026-10-30": 64.99
+        "2026-10-30": 64.99,
+        "2026-10-31": 64.99
       },
       "low_price": 64.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Paco Rabanne",
       "name": "1 Million eau de toilette 100 ml",
-      "price": 70.94,
+      "price": 70.99,
       "score": 8.5,
       "label": null,
       "reviews": "reviews op bol",
@@ -305,10 +312,13 @@
       "url": "https://www.bol.com/nl/nl/p/paco-rabanne-1-million-eau-de-toilette-100-ml-herenparfum/9200000007374321/",
       "image": "https://media.s-bol.com/J3k5Av37Am7l/570ny3K/323x840.jpg",
       "ph": {
-        "2026-10-30": 70.94
+        "2026-10-30": 70.94,
+        "2026-10-31": 70.99
       },
       "low_price": 70.94,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31",
+      "prev_price": 70.94,
+      "prev_date": "2026-10-30"
     },
     {
       "brand": "Weber",
@@ -341,10 +351,11 @@
       "url": "https://www.bol.com/nl/nl/p/weber-smokey-joe-original-houtskoolbarbecue-o-37-cm-zwart/9200000009380506/",
       "image": "https://media.s-bol.com/WGyj4yg2Og8n/G5nXAJ5/550x635.jpg",
       "ph": {
-        "2026-10-30": 55.0
+        "2026-10-30": 55.0,
+        "2026-10-31": 55.0
       },
       "low_price": 55.0,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Beurer",
@@ -377,10 +388,11 @@
       "url": "https://www.bol.com/nl/nl/p/beurer-mg-99-massage-gun-massageapparaat-triggerpoints-5-intensiteitsniveaus-4-opzetstukken/9300000056970176/",
       "image": "https://media.s-bol.com/OnKAZQL0W8rN/RgY20Zz/550x547.jpg",
       "ph": {
-        "2026-10-30": 59.99
+        "2026-10-30": 59.99,
+        "2026-10-31": 59.99
       },
       "low_price": 59.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     }
   ],
   "guide": [

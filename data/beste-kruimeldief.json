@@ -50,7 +50,7 @@
       "bol_title": "BLACK+DECKER BHHV520BF - Kruimeldief - 18 V",
       "url": "https://www.bol.com/nl/nl/p/black-decker-bhhv520bf-kruimeldief-18-v/9200000128142629/",
       "image": "https://media.s-bol.com/jBw91kAE286y/xk8QGKE/550x461.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-15": 87.1,
         "2026-10-16": 87.1,
@@ -66,7 +66,8 @@
         "2026-10-27": 95.0,
         "2026-10-28": 95.0,
         "2026-10-29": 95.0,
-        "2026-10-30": 87.1
+        "2026-10-30": 87.1,
+        "2026-10-31": 87.1
       },
       "low_price": 87.1,
       "prev_price": 95.0,
@@ -75,7 +76,7 @@
     {
       "brand": "Dyson",
       "name": "Car & Boat",
-      "price": 279.0,
+      "price": 249.0,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "300+ reviews",
@@ -104,7 +105,7 @@
       "bol_title": "Dyson Car & Boat - Kruimelzuiger - Compact stofzuiger - Gebruikersduur 50 min - Hoge zuigkrachtmodus",
       "url": "https://www.bol.com/nl/nl/p/dyson-car-boat-kruimelzuiger/9300000225641528/",
       "image": "https://media.s-bol.com/pvwgl3g7vwEy/ADLVrmj/508x840.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-15": 279.0,
         "2026-10-16": 279.0,
@@ -119,9 +120,13 @@
         "2026-10-26": 279.0,
         "2026-10-27": 279.0,
         "2026-10-28": 279.0,
-        "2026-10-29": 279.0
+        "2026-10-29": 279.0,
+        "2026-10-30": 279.0,
+        "2026-10-31": 249.0
       },
-      "low_price": 279.0
+      "low_price": 249.0,
+      "prev_price": 279.0,
+      "prev_date": "2026-10-30"
     },
     {
       "brand": "Black+Decker",
@@ -155,7 +160,7 @@
       "bol_title": "BLACK+DECKER PD1820L - Kruimeldief",
       "url": "https://www.bol.com/nl/nl/p/black-decker-pd1820l-kruimeldief/9200000055240500/",
       "image": "https://media.s-bol.com/mkzWpGxALMxA/1wE2QBZ/550x391.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-15": 75.0,
         "2026-10-16": 87.18,
@@ -171,7 +176,8 @@
         "2026-10-27": 87.18,
         "2026-10-28": 87.18,
         "2026-10-29": 87.18,
-        "2026-10-30": 87.18
+        "2026-10-30": 87.18,
+        "2026-10-31": 87.18
       },
       "low_price": 75.0,
       "prev_price": 75.0,
@@ -209,7 +215,7 @@
       "bol_title": "Makita DCL180Z - Steelstofzuiger",
       "url": "https://www.bol.com/nl/nl/p/makita-dcl180z-steelstofzuiger/9200000069067788/",
       "image": "https://media.s-bol.com/vQY0wMkPx3QX/550x539.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-15": 65.19,
         "2026-10-16": 67.2,
@@ -225,7 +231,8 @@
         "2026-10-27": 72.86,
         "2026-10-28": 67.31,
         "2026-10-29": 67.31,
-        "2026-10-30": 67.31
+        "2026-10-30": 67.31,
+        "2026-10-31": 67.31
       },
       "low_price": 64.09,
       "prev_price": 72.86,
@@ -263,7 +270,7 @@
       "bol_title": "Black+Decker DVC320BRG-QW",
       "url": "https://www.bol.com/nl/nl/p/black-decker-dvc320brg-handstofzuiger-rosegoud-zakloos/9300000058758107/",
       "image": "https://media.s-bol.com/Gkx1jnzMykqL/KOYJvml/550x656.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-15": 73.02,
         "2026-10-16": 73.02,
@@ -279,7 +286,8 @@
         "2026-10-27": 76.59,
         "2026-10-28": 76.59,
         "2026-10-29": 76.59,
-        "2026-10-30": 76.59
+        "2026-10-30": 76.59,
+        "2026-10-31": 76.59
       },
       "low_price": 73.02,
       "prev_price": 73.02,
@@ -317,7 +325,7 @@
       "bol_title": "Ryobi RHV18-0 One+ 18V Accu Handstofzuiger body - 0,6L",
       "url": "https://www.bol.com/nl/nl/p/ryobi-rhv18-0-one-18v-accu-handstofzuiger-body-0-6l/9300000118790332/",
       "image": "https://media.s-bol.com/xmLOV4qg7xYE/rPylYW/550x426.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-15": 52.54,
         "2026-10-16": 52.54,
@@ -333,7 +341,8 @@
         "2026-10-27": 52.54,
         "2026-10-28": 52.54,
         "2026-10-29": 52.54,
-        "2026-10-30": 52.54
+        "2026-10-30": 52.54,
+        "2026-10-31": 52.54
       },
       "low_price": 52.39,
       "prev_price": 52.39,
@@ -371,7 +380,7 @@
       "bol_title": "AreoSe - HEPA-filter voor Xiaomi Mi Vacuum Cleaner MINI - 3 stuks",
       "url": "https://www.bol.com/nl/nl/p/areose-hepa-filter-voor-xiaomi-mi-vacuum-cleaner-mini-3-stuks/9300000352773077/",
       "image": "https://media.s-bol.com/rOr4kEK3E8pW/NL2QP5z/550x550.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-15": 24.96,
         "2026-10-16": 24.96,
@@ -387,7 +396,8 @@
         "2026-10-27": 24.96,
         "2026-10-28": 24.96,
         "2026-10-29": 24.96,
-        "2026-10-30": 24.96
+        "2026-10-30": 24.96,
+        "2026-10-31": 24.96
       },
       "low_price": 24.96
     },
@@ -423,7 +433,7 @@
       "bol_title": "Bosch BHN16L Move - Kruimeldief - Grijs",
       "url": "https://www.bol.com/nl/nl/p/bosch-move-lithium-16vmax-bhn16l-accustofzuiger-draadloos-spleetzuigmond-handstofzuiger-ideaal-als-autostofzuiger/9300000019915965/",
       "image": "https://media.s-bol.com/g22j2wXNlNqr/550x463.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-15": 64.99,
         "2026-10-16": 64.99,
@@ -439,14 +449,15 @@
         "2026-10-27": 64.99,
         "2026-10-28": 64.99,
         "2026-10-29": 64.99,
-        "2026-10-30": 64.99
+        "2026-10-30": 64.99,
+        "2026-10-31": 64.99
       },
       "low_price": 64.99
     },
     {
       "brand": "Black+Decker",
       "name": "Dustbuster WDC215WA",
-      "price": 49.8,
+      "price": 43.51,
       "score": 8.0,
       "label": null,
       "reviews": "1.500+ reviews",
@@ -475,7 +486,7 @@
       "bol_title": "BLACK+DECKER WDC 215 WA",
       "url": "https://www.bol.com/nl/nl/p/black-decker-wdc-215-wa/9200000116753125/",
       "image": "https://media.s-bol.com/J3x21wp3PPW9/K8zBVnl/550x551.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-15": 43.51,
         "2026-10-16": 43.51,
@@ -491,11 +502,12 @@
         "2026-10-27": 49.8,
         "2026-10-28": 49.8,
         "2026-10-29": 49.8,
-        "2026-10-30": 49.8
+        "2026-10-30": 49.8,
+        "2026-10-31": 43.51
       },
       "low_price": 42.88,
-      "prev_price": 43.29,
-      "prev_date": "2026-10-26"
+      "prev_price": 49.8,
+      "prev_date": "2026-10-30"
     },
     {
       "brand": "Einhell",
@@ -529,7 +541,7 @@
       "bol_title": "Einhell Accu Nat-/Droogzuiger TE-VC 18/10 Li Solo - Power X-Change - 18 V/Li-Ion - 10 L - 90 mbar - Slanglengte/-diameter: 2.0 m/36 mm - 72 dB - Blaasfunctie - Incl. 6-delige Accessoireset - Excl. accu en lader",
       "url": "https://www.bol.com/nl/nl/p/einhell-accu-nat-droogzuiger-te-vc-18-10-li-solo-power-x-change/9200000119060326/",
       "image": "https://media.s-bol.com/m3Jzm2w3wD1A/MQ8roQQ/550x419.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-15": 62.99,
         "2026-10-16": 62.99,
@@ -545,7 +557,8 @@
         "2026-10-27": 74.99,
         "2026-10-28": 74.99,
         "2026-10-29": 74.99,
-        "2026-10-30": 74.99
+        "2026-10-30": 74.99,
+        "2026-10-31": 74.99
       },
       "low_price": 62.99,
       "prev_price": 62.99,

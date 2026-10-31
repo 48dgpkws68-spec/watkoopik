@@ -49,7 +49,7 @@
       "bol_title": "Eurom Mon Soleil 720 Wi-FI infrarood wandkachel - 720W - 18kg",
       "url": "https://www.bol.com/nl/nl/p/eurom-mon-soleil-720-wi-fi-infrarood-wandkachel-720w-18kg/9200000107363180/",
       "image": "https://media.s-bol.com/BqDEMJ6gw1VW/P1vz4EW/347x840.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-20": 242.99,
         "2026-10-21": 242.99,
@@ -60,7 +60,8 @@
         "2026-10-27": 242.99,
         "2026-10-28": 242.99,
         "2026-10-29": 242.99,
-        "2026-10-30": 242.99
+        "2026-10-30": 242.99,
+        "2026-10-31": 242.99
       },
       "low_price": 242.99
     },
@@ -100,10 +101,11 @@
         "2026-10-27": 149.95,
         "2026-10-28": 149.95,
         "2026-10-29": 149.95,
-        "2026-10-30": 149.95
+        "2026-10-30": 149.95,
+        "2026-10-31": 149.95
       },
       "low_price": 149.95,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Quality Heating",
@@ -135,7 +137,7 @@
       "bol_title": "Slimme Quality Heating - QH-FR Serie infrarood verwarmingspaneel - infrarood paneel - infrarood heater - 90 x 119 cm - 1100Watt - wand en plafond montage - Wifi bedienbaar met bijgeleverde afstandsbediening - 5 Jaar garantie",
       "url": "https://www.bol.com/nl/nl/p/slimme-quality-heating-qh-fr-serie-infrarood-verwarmingspaneel-infrarood-paneel-infrarood-heater-90-x-119-cm-1100watt-wand-en-plafond-montage-wifi-bedienbaar-met-bijgeleverde-afstandsbediening-5-jaar-garantie/9300000163333405/",
       "image": "https://media.s-bol.com/Yn12PBO2kyxM/Xy7k5l/550x425.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-20": 399.0,
         "2026-10-21": 399.0,
@@ -146,14 +148,15 @@
         "2026-10-27": 399.0,
         "2026-10-28": 399.0,
         "2026-10-29": 399.0,
-        "2026-10-30": 399.0
+        "2026-10-30": 399.0,
+        "2026-10-31": 399.0
       },
       "low_price": 399.0
     },
     {
       "brand": "Quality Heating",
       "name": "QH-SP 700 W 60 x 90 cm",
-      "price": 149.0,
+      "price": 139.0,
       "score": 8.7,
       "label": null,
       "reviews": "80+ reviews",
@@ -180,7 +183,7 @@
       "bol_title": "Quality Heating Infrarood paneel QH-SP - 60 x 90 cm - 700W - Geïntegreerde thermostaat - Smart Home Wifi - Inclusief voetjes - Verplaatsbaar - Lichtgewicht",
       "url": "https://www.bol.com/nl/nl/p/quality-heating-infrarood-paneel-superia-60-x-120-cm-720w-wifi-functie-thermostaat-incl-afstandsbediening-wandmontage-vrijstaand/9300000163601766/",
       "image": "https://media.s-bol.com/YKynLMxPOWVM/X64Z5E5/550x668.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-20": 149.0,
         "2026-10-21": 149.0,
@@ -191,9 +194,12 @@
         "2026-10-27": 149.0,
         "2026-10-28": 149.0,
         "2026-10-29": 149.0,
-        "2026-10-30": 149.0
+        "2026-10-30": 149.0,
+        "2026-10-31": 139.0
       },
-      "low_price": 149.0
+      "low_price": 139.0,
+      "prev_price": 149.0,
+      "prev_date": "2026-10-30"
     },
     {
       "brand": "Eurom",
@@ -225,7 +231,7 @@
       "bol_title": "Eurom Mon Soleil 350 Wi-Fi infrarood wandkachel - 350W - 8,85kg - IP24",
       "url": "https://www.bol.com/nl/nl/p/eurom-mon-soleil-350-wi-fi-infrarood-wandkachel-350w-8-85kg-ip24/9200000108271180/",
       "image": "https://media.s-bol.com/m5KXzpyZ3Rkn/Q1w64GL/550x703.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-18": 149.18,
         "2026-10-19": 149.18,
@@ -238,7 +244,8 @@
         "2026-10-27": 149.18,
         "2026-10-28": 149.18,
         "2026-10-29": 149.18,
-        "2026-10-30": 149.18
+        "2026-10-30": 149.18,
+        "2026-10-31": 149.18
       },
       "low_price": 149.18
     },
@@ -279,15 +286,16 @@
         "2026-10-27": 99.95,
         "2026-10-28": 99.95,
         "2026-10-29": 99.95,
-        "2026-10-30": 99.95
+        "2026-10-30": 99.95,
+        "2026-10-31": 99.95
       },
       "low_price": 99.95,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Eurom",
       "name": "Sani 600 Comfort Wi-Fi",
-      "price": 278.59,
+      "price": 282.49,
       "score": 8.3,
       "label": null,
       "reviews": "20+ reviews",
@@ -314,7 +322,7 @@
       "bol_title": "Eurom Sani 600 Comfort Infraroodpaneel badkamer 115x46.5cm Wifi 600watt Glas Wit",
       "url": "https://www.bol.com/nl/nl/p/sani-600-wifi-infrarood-badkamerkachel-wit-600-w-ip24/9300000098231679/",
       "image": "https://media.s-bol.com/NKmq5EoQAEj6/nJ2xqD/387x840.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-20": 264.99,
         "2026-10-21": 264.99,
@@ -325,16 +333,17 @@
         "2026-10-27": 267.64,
         "2026-10-28": 270.19,
         "2026-10-29": 274.29,
-        "2026-10-30": 278.59
+        "2026-10-30": 278.59,
+        "2026-10-31": 282.49
       },
       "low_price": 252.54,
-      "prev_price": 274.29,
-      "prev_date": "2026-10-29"
+      "prev_price": 278.59,
+      "prev_date": "2026-10-30"
     },
     {
       "brand": "Eurom",
       "name": "Sani 600 Mirror Wi-Fi",
-      "price": 231.0,
+      "price": 220.8,
       "score": 8.2,
       "label": null,
       "reviews": "10+ reviews",
@@ -361,7 +370,7 @@
       "bol_title": "Eurom Sani 600 Mirror Infraroodpaneel met spiegel 80x60cm - WiFi - 600 watt",
       "url": "https://www.bol.com/nl/nl/p/eurom-sani-600-mirror-infraroodpaneel-spiegel-80x60cm-wifi-600-watt/9300000071105019/",
       "image": "https://media.s-bol.com/xwP5v4vy2nkr/mw2M2Bp/550x414.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-20": 229.8,
         "2026-10-21": 221.0,
@@ -372,11 +381,12 @@
         "2026-10-27": 221.0,
         "2026-10-28": 225.1,
         "2026-10-29": 229.2,
-        "2026-10-30": 231.0
+        "2026-10-30": 231.0,
+        "2026-10-31": 220.8
       },
       "low_price": 218.0,
-      "prev_price": 229.2,
-      "prev_date": "2026-10-29"
+      "prev_price": 231.0,
+      "prev_date": "2026-10-30"
     },
     {
       "brand": "Quality Heating",
@@ -408,7 +418,7 @@
       "bol_title": "QH-HL Infrarood paneel met LED verlichting (400 - 840 Watt) - Wit - 700 Watt - 70 x 110 cm",
       "url": "https://www.bol.com/nl/nl/p/infrarood-paneel-wit-met-led-verlichting-70-x-110-cm-680watt-infrarood-verwarming-dimbaar-en-met-thermostaat-met-stekker-quality-heating/9300000085264155/",
       "image": "https://media.s-bol.com/3L0kADqzV93p/Rl53L5R/550x550.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-20": 299.0,
         "2026-10-21": 289.0,
@@ -419,7 +429,8 @@
         "2026-10-27": 289.0,
         "2026-10-28": 289.0,
         "2026-10-29": 289.0,
-        "2026-10-30": 289.0
+        "2026-10-30": 289.0,
+        "2026-10-31": 289.0
       },
       "low_price": 289.0,
       "prev_price": 299.0,
@@ -428,7 +439,7 @@
     {
       "brand": "VH",
       "name": "Superia 600 W 60 x 100 cm",
-      "price": 149.0,
+      "price": 139.0,
       "score": 7.9,
       "label": null,
       "reviews": "50+ reviews",
@@ -455,7 +466,7 @@
       "bol_title": "VH Infrarood paneel Superia - 60 x 100 cm - 600 Watt - Compleet met thermostaat - Wifi functie - Afstandsbediening - Wandmontage & Vrijstaand - Ideaal voor bijverwarming - Verplaatsbaar",
       "url": "https://www.bol.com/nl/nl/p/vh-infrarood-paneel-superia-60x100cm-600w-wandmontage-vrijstaand/9200000106114995/",
       "image": "https://media.s-bol.com/qvDJk7Y2GRNG/MQ5oOL5/550x568.jpg",
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "ph": {
         "2026-10-20": 149.0,
         "2026-10-21": 149.0,
@@ -466,9 +477,12 @@
         "2026-10-27": 149.0,
         "2026-10-28": 149.0,
         "2026-10-29": 149.0,
-        "2026-10-30": 149.0
+        "2026-10-30": 149.0,
+        "2026-10-31": 139.0
       },
-      "low_price": 149.0
+      "low_price": 139.0,
+      "prev_price": 149.0,
+      "prev_date": "2026-10-30"
     }
   ],
   "guide": [

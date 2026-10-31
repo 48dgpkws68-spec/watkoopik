@@ -55,10 +55,11 @@
       "image": "https://media.s-bol.com/K3OPjWNP9zr8/PjmWrJn/550x310.jpg",
       "ph": {
         "2026-10-29": 58.1,
-        "2026-10-30": 58.1
+        "2026-10-30": 58.1,
+        "2026-10-31": 58.1
       },
       "low_price": 58.1,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Ravensburger",
@@ -93,10 +94,11 @@
       "image": "https://media.s-bol.com/jl909kyyBV6y/JqxD2LK/550x440.jpg",
       "ph": {
         "2026-10-29": 24.99,
-        "2026-10-30": 24.99
+        "2026-10-30": 24.99,
+        "2026-10-31": 24.99
       },
       "low_price": 24.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "VTech",
@@ -131,10 +133,11 @@
       "image": "https://media.s-bol.com/RvqX20K8P3Oz/ADKln71/550x407.jpg",
       "ph": {
         "2026-10-29": 76.99,
-        "2026-10-30": 76.99
+        "2026-10-30": 76.99,
+        "2026-10-31": 76.99
       },
       "low_price": 76.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Nintendo",
@@ -169,10 +172,11 @@
       "image": "https://media.s-bol.com/JXVQpJLyo7gD/YErXZNn/519x840.jpg",
       "ph": {
         "2026-10-29": 49.99,
-        "2026-10-30": 49.99
+        "2026-10-30": 49.99,
+        "2026-10-31": 49.99
       },
       "low_price": 49.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "PLAYMOBIL",
@@ -207,15 +211,16 @@
       "image": "https://media.s-bol.com/OkVQZNVmv3Jp/qvrWK3/550x356.jpg",
       "ph": {
         "2026-10-29": 37.99,
-        "2026-10-30": 37.99
+        "2026-10-30": 37.99,
+        "2026-10-31": 37.99
       },
       "low_price": 37.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Ravensburger",
       "name": "tiptoi Starter Set Nijntje",
-      "price": 46.23,
+      "price": 49.99,
       "score": 8.8,
       "label": null,
       "ean": "4005556002092",
@@ -245,10 +250,13 @@
       "image": "https://media.s-bol.com/JwB9JQyKvjpJ/LgYywor/550x458.jpg",
       "ph": {
         "2026-10-29": 46.23,
-        "2026-10-30": 46.23
+        "2026-10-30": 46.23,
+        "2026-10-31": 49.99
       },
       "low_price": 46.23,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31",
+      "prev_price": 46.23,
+      "prev_date": "2026-10-30"
     },
     {
       "brand": "Clementoni",
@@ -283,10 +291,11 @@
       "image": "https://media.s-bol.com/RGy36Q66nKyK/nZYNJlW/550x512.jpg",
       "ph": {
         "2026-10-29": 29.99,
-        "2026-10-30": 29.99
+        "2026-10-30": 29.99,
+        "2026-10-31": 29.99
       },
       "low_price": 29.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "LEGO",
@@ -321,10 +330,11 @@
       "image": "https://media.s-bol.com/mJxZE6lypwqO/k80BPE5/550x328.jpg",
       "ph": {
         "2026-10-29": 39.99,
-        "2026-10-30": 38.99
+        "2026-10-30": 38.99,
+        "2026-10-31": 38.99
       },
       "low_price": 38.99,
-      "synced": "2026-10-30",
+      "synced": "2026-10-31",
       "prev_price": 39.99,
       "prev_date": "2026-10-29"
     },
@@ -361,10 +371,11 @@
       "image": "https://media.s-bol.com/Z1lQLm76K7kQ/3l5njzr/550x414.jpg",
       "ph": {
         "2026-10-29": 15.99,
-        "2026-10-30": 15.99
+        "2026-10-30": 15.99,
+        "2026-10-31": 15.99
       },
       "low_price": 15.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "SmartGames",
@@ -399,10 +410,11 @@
       "image": "https://media.s-bol.com/xrV7DlPJJZNE/lYp48wJ/486x840.jpg",
       "ph": {
         "2026-10-29": 10.0,
-        "2026-10-30": 10.0
+        "2026-10-30": 10.0,
+        "2026-10-31": 10.0
       },
       "low_price": 10.0,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     }
   ],
   "guide": [

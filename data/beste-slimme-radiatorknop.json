@@ -24,7 +24,7 @@
     {
       "brand": "tado",
       "name": "Slimme Radiatorknop X Starterskit",
-      "price": 121.99,
+      "price": 139.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "1.400+ reviews",
@@ -53,10 +53,13 @@
       "url": "https://www.bol.com/nl/nl/p/tado-slimme-radiatorknop-x-starterskit-incl-matter-bridge-zwart-wit/9300000179714552/",
       "image": "https://media.s-bol.com/olDxop72LjRL/4xLkqPg/550x376.jpg",
       "ph": {
-        "2026-10-30": 121.99
+        "2026-10-30": 121.99,
+        "2026-10-31": 139.0
       },
       "low_price": 121.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31",
+      "prev_price": 121.99,
+      "prev_date": "2026-10-30"
     },
     {
       "brand": "Aqara",
@@ -90,10 +93,11 @@
       "url": "https://www.bol.com/nl/nl/p/aqara-thermostat-valve-w600-slimme-radiatorkraan-met-thread-zigbee-matter-compatibel/9300000245599732/",
       "image": "https://media.s-bol.com/BW7N6WvO1kKn/BgkDovW/550x755.jpg",
       "ph": {
-        "2026-10-30": 49.99
+        "2026-10-30": 49.99,
+        "2026-10-31": 49.99
       },
       "low_price": 49.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Honeywell Home",
@@ -127,10 +131,11 @@
       "url": "https://www.bol.com/nl/nl/p/honeywell-home-evohome-hr93-radiatorthermostaat/9300000244862529/",
       "image": "https://media.s-bol.com/xMp83r5KjrkB/66NqOvO/444x840.jpg",
       "ph": {
-        "2026-10-30": 96.99
+        "2026-10-30": 96.99,
+        "2026-10-31": 96.99
       },
       "low_price": 96.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Netatmo",
@@ -164,10 +169,11 @@
       "url": "https://www.bol.com/nl/nl/p/netatmo-radiatorkranen-starterspakket-set-met-2-radiatorknoppen/9200000082804119/",
       "image": "https://media.s-bol.com/q2n0JYKWD95k/550x418.jpg",
       "ph": {
-        "2026-10-30": 199.99
+        "2026-10-30": 199.99,
+        "2026-10-31": 199.99
       },
       "low_price": 199.99,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Bosch",
@@ -201,10 +207,11 @@
       "url": "https://www.bol.com/nl/nl/p/bosch-slimme-radiatorknop-ii-verwarmingsthermostaat/9300000100550339/",
       "image": "https://media.s-bol.com/VZMBnwGWW7vv/4LM6A2/550x558.jpg",
       "ph": {
-        "2026-10-30": 79.0
+        "2026-10-30": 79.0,
+        "2026-10-31": 79.0
       },
       "low_price": 79.0,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "AVM",
@@ -238,10 +245,11 @@
       "url": "https://www.bol.com/nl/nl/p/avm-dect-302-fritz-dect-302-slimme-radiatorregelaar/9300000123678111/",
       "image": "https://media.s-bol.com/8y76LqmQgjqr/P1gOPPA/539x840.jpg",
       "ph": {
-        "2026-10-30": 81.37
+        "2026-10-30": 81.37,
+        "2026-10-31": 81.37
       },
       "low_price": 81.37,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Danfoss",
@@ -274,10 +282,11 @@
       "url": "https://www.bol.com/nl/nl/p/danfoss-ally-starterspakket-elektronisch-5-tot-35-c/9300000063268059/",
       "image": "https://media.s-bol.com/oOgg05qp5A1X/31Vy2NM/550x550.jpg",
       "ph": {
-        "2026-10-30": 145.02
+        "2026-10-30": 145.02,
+        "2026-10-31": 145.02
       },
       "low_price": 145.02,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Shelly",
@@ -310,10 +319,11 @@
       "url": "https://www.bol.com/nl/nl/p/shelly-2x-blu-trv-blu-gateway-gen3-gateway-radiatorthermostaat-bluetooth-low-energy-wifi/9300000195237589/",
       "image": "https://media.s-bol.com/oBlmDBYVv3AN/rkvWMQE/550x416.jpg",
       "ph": {
-        "2026-10-30": 110.37
+        "2026-10-30": 110.37,
+        "2026-10-31": 110.37
       },
       "low_price": 110.37,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "AQIOS",
@@ -346,10 +356,11 @@
       "url": "https://www.bol.com/nl/nl/p/aqios-slimme-radiatorknoppen-starterskit/9300000165942106/",
       "image": "https://media.s-bol.com/pP7XDXg20rG2/xYMPql/550x550.jpg",
       "ph": {
-        "2026-10-30": 119.95
+        "2026-10-30": 119.95,
+        "2026-10-31": 119.95
       },
       "low_price": 119.95,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     },
     {
       "brand": "Hombli",
@@ -382,10 +393,11 @@
       "url": "https://www.bol.com/nl/nl/p/hombli-smart-radiator-thermostat-add-on-slimme-radiatorknop-thermostaatkraan-bluetooth-bediening-via-app-open-raam-detectie-verbruiksoverzicht-spraakbesturing-met-google-alexa-en-siri/9300000127630257/",
       "image": "https://media.s-bol.com/yOL3rl3JzLDE/LxGggw/550x554.jpg",
       "ph": {
-        "2026-10-30": 47.0
+        "2026-10-30": 47.0,
+        "2026-10-31": 47.0
       },
       "low_price": 47.0,
-      "synced": "2026-10-30"
+      "synced": "2026-10-31"
     }
   ],
   "guide": [

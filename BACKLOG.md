@@ -214,3 +214,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-slimme-radiatorknop | wonen | slimme radiatorknop | De 10 beste slimme radiatorknoppen van 2026 | 🌡️
 [x] beste-cadeau-voor-tieners | cadeaus | cadeau tiener | De 10 beste cadeaus voor tieners van 2026 | 🎁
 [x] beste-cadeau-voor-hem-onder-100-euro | cadeaus | cadeau voor hem | De 10 beste cadeaus voor hem onder 100 euro van 2026 | 🎁
+[x] beste-cadeau-voor-haar-onder-100-euro | cadeaus | cadeau voor haar | De 10 beste cadeaus voor haar onder 100 euro van 2026 | 🎁
+[x] beste-elektrische-kachel-woonkamer | wonen | elektrische kachel woonkamer | De 10 beste elektrische kachels voor de woonkamer van 2026 | 🔥
