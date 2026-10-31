@@ -46,7 +46,6 @@
 [ ] beste-eettafel | wonen | eettafel | De 10 beste eettafels van 2026 | 🍽️
 [ ] beste-vuurschaal | klussen | vuurschaal | De 10 beste vuurschalen van 2026 | 🔥
 [ ] beste-vr-bril | gaming | vr bril | De 10 beste VR-brillen van 2026 | 🥽
-[ ] beste-4-seizoenen-dekbed | slapen | 4 seizoenen dekbed | De 10 beste 4-seizoenendekbedden van 2026 | 🛏️
 [ ] beste-fatbike | auto | fatbike | De 10 beste fatbikes van 2026 | 🚲
 [ ] beste-accuschroefmachine | klussen | accuschroefmachine | De 10 beste accuschroefmachines van 2026 | 🔧
 [ ] beste-tablet-voor-kinderen | computer | kindertablet | De 10 beste kindertablets van 2026 | 🧒
