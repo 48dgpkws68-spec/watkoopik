@@ -221,3 +221,4 @@ html:has(.theme-light){background:#fafaf7}
 .theme-light .tbl td.bc{background:#fff;box-shadow:-10px 0 14px -10px rgba(16,34,29,.25)}
 .theme-light .tbl th.bc{background:#f6f4ef}
 .theme-light tbody tr:hover td.bc{background:#faf8ff}
+.theme-light .t3{background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.22)}

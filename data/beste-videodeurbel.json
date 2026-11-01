@@ -243,60 +243,42 @@
       "prev_date": "2026-10-31"
     },
     {
-      "brand": "Tapo",
-      "name": "D235 Video Deurbel met Chime",
-      "price": 112.0,
-      "score": 8.7,
       "label": null,
-      "reviews": "600+ reviews",
-      "oneliner": "5 MP-beeld van 180 graden met kleurennachtzicht, zonder abonnement.",
+      "brand": "Reolink",
+      "name": "Videodeurbel D340W bedraad",
+      "price": 125.0,
+      "score": 8.4,
+      "reviews": "bol-score 4,1 van 5",
+      "oneliner": "Bedrade wifi-deurbel met 5 MP-beeld in 4:3 en lokale opslag zonder abonnement.",
       "specs": {
         "Resolutie": "2K (5 MP)",
-        "Voeding": "Accu of bedraad",
-        "Opslag": "microSD tot 512 GB",
+        "Voeding": "Bedraad",
+        "Opslag": "microSD (lokaal)",
         "Abonnement": "Niet nodig",
         "Gong": "Inbegrepen"
       },
       "pros": [
-        "Groothoek van 180 graden in 4:3-formaat",
-        "5 MP voor scherp beeld",
-        "Kleurennachtzicht",
-        "Lokale opslag zonder maandkosten"
+        "Scherp 5 MP-beeld van hoofd tot voeten",
+        "Dual-band wifi voor een stabiele verbinding",
+        "Geen maandkosten",
+        "Nooit accu opladen"
       ],
       "cons": [
+        "Deurbeltrafo nodig",
         "microSD-kaart los te kopen",
-        "Vrij grote behuizing",
-        "Notificaties soms een paar seconden vertraagd"
+        "App minder gelikt dan Ring"
       ],
-      "ideal": "Wie een breed beeld van de hele voordeur wil, inclusief de grond, zonder abonnement.",
-      "text": "De Tapo D235 is de grotere broer van de D210 en filmt met 5 MP in een 4:3-beeldverhouding. Samen met de groothoek van 180 graden zie je bezoekers van hoofd tot voeten en een pakket op de mat in één beeld. Kleurennachtzicht met een ingebouwde spot zorgt dat je 's avonds niet alleen grijze silhouetten ziet.\n\nOpnames gaan naar een microSD-kaart, dus je betaalt geen abonnement. De slimme detectie herkent personen, voertuigen, dieren en pakketten. De bijgeleverde gong maakt het systeem compleet. Je gebruikt de accu of sluit hem aan op je deurbeltrafo. Kopers zijn in reviews tevreden over de beeldkwaliteit en de prijs zonder maandkosten. Minpunten zijn de forse behuizing, die niet op elk smal kozijn past en een kleine vertraging bij meldingen. Voor iets meer dan 100 euro krijg je beeld dat dicht bij de duurdere merken komt.",
-      "ean": "4895252501254",
-      "bol_title": "Tapo D235 Video Deurbel met Chime - 2K 5MP - 180° Groothoek - 4:3 Head-to-Toe Beeld - Kleur Nachtzicht - AI-pakketdetectie - 210 Dagen Batterij - Batterij & Bedraad - IP66 - Compatibel met Alexa en Google Assistant",
-      "url": "https://www.bol.com/nl/nl/p/tp-link-tapo-d235-slimme-deurbel-video-deurbel-inclusief-chime-gong-2k-5mp-batterij-of-kabelvoeding-ip66/9300000185748618/",
-      "image": "https://media.s-bol.com/N3Rg83W5LMpv/16QoG2j/531x840.jpg",
-      "synced": "2026-11-01",
+      "ideal": "Wie al een bedrade deurbel heeft en scherp beeld zonder abonnement wil.",
+      "text": "De Reolink D340W is de wifi-versie van de PoE-deurbel van Reolink die ook in deze top 10 staat, dus je hebt geen netwerkkabel nodig. Wel sluit je hem aan op je bestaande deurbeltrafo, zodat je nooit een accu hoeft op te laden.\n\nDe camera filmt met 5 MP in een 4:3-beeldverhouding. Daardoor zie je bezoekers van hoofd tot voeten en ook een pakket op de stoep. Dual-band wifi helpt als je router ver van de voordeur staat. Opnames gaan naar een microSD-kaart, dus je betaalt geen abonnement. Personen en voertuigen worden herkend, zodat je minder meldingen krijgt van voorbijrijdende auto's. Kopers op bol geven hem gemiddeld een 4,1 van 5 en zijn positief over het beeld. De app is functioneel maar minder verfijnd dan die van Ring of Google.",
+      "ean": "6975253983315",
+      "bol_title": "Reolink Videodeurbel D340W Bedrade Voor Buiten - 2K 5MP - 4:3 Breedbeeld - Dual-band wifi - Lokale Opslag - Tweewegaudio - Slimme Detectie-1-pack Met Chime",
+      "url": "https://www.bol.com/nl/nl/p/reolink-videodeurbel-met-bel-slimme-wifi-videodeurbel-5-mp-2-4-5ghz-dual-band-wifi-persoonsdetectie-tweewegaudio/9300000173981355/",
+      "image": "https://media.s-bol.com/RxRr3g99JNEE/N9q0zvz/550x467.jpg",
       "ph": {
-        "2026-10-15": 115.0,
-        "2026-10-16": 115.0,
-        "2026-10-17": 115.0,
-        "2026-10-18": 115.0,
-        "2026-10-19": 115.0,
-        "2026-10-20": 127.0,
-        "2026-10-21": 127.0,
-        "2026-10-23": 112.0,
-        "2026-10-24": 124.0,
-        "2026-10-25": 111.74,
-        "2026-10-26": 112.0,
-        "2026-10-27": 112.0,
-        "2026-10-28": 112.0,
-        "2026-10-29": 112.0,
-        "2026-10-30": 112.0,
-        "2026-10-31": 112.0,
-        "2026-11-01": 112.0
+        "2026-11-01": 125.0
       },
-      "low_price": 111.74,
-      "prev_price": 111.74,
-      "prev_date": "2026-10-25"
+      "low_price": 125.0,
+      "synced": "2026-11-01"
     },
     {
       "brand": "Reolink",

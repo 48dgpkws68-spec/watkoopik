@@ -351,6 +351,12 @@ popular += [g for g in guides if g not in popular]
 items = mq_items(gl=popular)[:60]
 half = len(items) // 2
 chips = "".join('<a href="%s">%s</a>' % (g["url"], e(g["short"])) for g in popular[:9])
+# top 3 deze week direct in de hero (bounce homepage 63-65%, populair-blok stond pas onder de vouw); klik meten via event home-top3
+def top3card(i, g):
+    p = win(g)
+    return '<a class="t3" href="%s" data-umami-event="home-top3" data-umami-event-gids="%s" data-umami-event-positie="%d">%s<span><small>Nr. 1 %s</small><b>%s %s</b><em>%s</em></span></a>' % (
+        g["url"], g["slug"], i + 1, ('<img src="%s" alt="" width="56" height="56">' % e(p["image"])) if p.get("image") else "", e(g["short"].lower()), e(p["brand"]), e(p["name"]), eur(p["price"]))
+top3 = '<div class="hero-top3"><span class="t3-lbl">Populair deze week</span><div class="t3-row">%s</div></div>' % "".join(top3card(i, g) for i, g in enumerate([g for g in popular if win(g).get("image")][:3]))
 PALET = {"huishouden": ("#7c5cff", "#38e1ff"), "keuken": ("#ff7a3d", "#ff4fd8"), "verzorging": ("#ff4fd8", "#7c5cff"), "slapen": ("#3b5bff", "#38e1ff"),
          "elektronica": ("#00c2ff", "#7c5cff"), "wonen": ("#3ee08f", "#38e1ff"), "sport": ("#ffc65c", "#ff7a3d"), "kind": ("#ff8fb1", "#ffc65c"), "klussen": ("#ffc65c", "#3ee08f"),
          "computer": ("#38e1ff", "#3b5bff"), "telefoon": ("#7c5cff", "#ff4fd8")}
@@ -382,6 +388,7 @@ home = '''
 <span class="badge"><i></i> Elke dag nieuwe top 10's · prijzen dagelijks gecheckt</span>
 <h1 class="split">Wat koop ik? <span class="grad">Wij zochten het uit.</span></h1>
 <p class="lead">Onafhankelijke top 10-lijsten van de beste producten van %d. Vergeleken op prijs, specificaties en duizenden reviews, zodat jij in vijf minuten de juiste keuze maakt.</p>
+%s
 %s
 <div class="hero-chips">%s</div>
 <div class="hero-stats"><div><b class="grad" data-count="%d">%d</b><span>top 10-gidsen</span></div><div><b class="grad" data-count="%d">%d</b><span>producten vergeleken</span></div><div><b class="grad" data-count="%d">%s</b><span>reviews meegewogen</span></div></div>
@@ -429,7 +436,7 @@ home = '''
 <h2 style="font-size:1.7rem">Onafhankelijk koopadvies voor %d</h2>
 <p class="muted">watkoopik vergelijkt per productsoort de tien beste modellen die je nu in Nederland kunt kopen. Of je nu de <a href="beste/beste-airfryer.html">beste airfryer</a>, een <a href="beste/beste-stofzuiger.html">stille stofzuiger</a> of <a href="beste/beste-draadloze-oordopjes.html">draadloze oordopjes met noise cancelling</a> zoekt: elke gids begint met drie duidelijke winnaars, gevolgd door een vergelijkingstabel, uitleg per product met plus- en minpunten, een koopgids en antwoorden op veelgestelde vragen. Merken kunnen geen plek kopen. <a href="zo-kiezen-wij.html">Lees hoe wij kiezen</a>.</p>
 </div></section>
-''' % (floaters, YEAR, searchbox(), chips, len(guides), len(guides), N_PROD, N_PROD, N_REV, format(N_REV, ",").replace(",", "."),
+''' % (floaters, YEAR, searchbox(), top3, chips, len(guides), len(guides), N_PROD, N_PROD, N_REV, format(N_REV, ",").replace(",", "."),
        marquee(items[:half]), marquee(items[half:], rev=True), "".join(gcard(g) for g in popular[:6]), home_deals, cat_cards, winband, len(guides), "".join(gcard(g) for g in newest[:8]),
        len(guides), len(guides), N_PROD, N_PROD, YEAR)
 home_ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": "watkoopik", "url": SITE + "/", "inLanguage": "nl-NL",
