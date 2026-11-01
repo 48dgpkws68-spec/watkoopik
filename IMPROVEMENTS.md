@@ -179,3 +179,13 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: na 7 dagen bounce homepage vergelijken (60% nu) en kliks op plaid/elektrische deken.
 - Idee voor later: Hisense staat nu 3x in tv 75 inch; bij een volgende wissel een ander merk kiezen. Galaxy Tab A8 kids (2022) vervangen zodra een nieuwere kinderbundel leverbaar is.
 - Voor Nick: niets.
+
+## 2026-11-01
+- Signalen: Umami 7 dagen 312 bezoekers, 378 weergaven, bounce 63%; homepage 73, tv onder 500 euro 14, bank 11, luchtreiniger 10, tv 55 inch 9; bronnen watkoopik.com 28, verder vrijwel direct; NL 211, US 60.
+- Signalen: 111 bol-klik-events (podium 75, tabel 33, vs/sticky/kaart 1; positie 1: 55, positie 2: 18, positie 3: 14); top gidsen tv onder 500 (10), plaid (7), kachel slaapkamer en elektrische openhaard (5); top product LG 55QNED84 (7), LG C5 65 (4).
+- Signalen: Search Console niet bekeken (Chrome-profiel 202077f2 niet verbonden en SC al uitgelogd sinds 31 okt); bol-cijfers: niet automatisch beschikbaar (weekrapport via API: 8 orders, 39,88 euro commissie); build OK 192 gidsen / 1920 producten, check_links 0 fouten, live test (zondag) 2/2 goed, 0 zonder foto.
+- Gedaan: check_stock vond 11 kapotte koopknoppen (o.a. nr. 2 Beste prijs-kwaliteit in tondeuse en kindertablet), alle opgelost: 4 via variant (MX Keys S wit, WatchToCare Halo andere EAN, Galaxy Tab A11 Gray 64 GB, Bosch Styline TWK8611P) en 7 vervangen (Philips HC5650 door HC7650, ETNA CMV829 door CMV825, Samsung MG23B3515 door Inventum MN237CB, De'Longhi DEP216 door EUROM Drybest 20C, Klarstein Kamini door Costway inbouwhaard 45,7 cm, Tapo D235 door Reolink D340W, Lenovo Tab One door Lenovo Tab 10.1); verdict en FAQ's tondeuse mee aangepast; nu 1920/1920 te koop.
+- Gedaan: homepage-hero toont nu direct onder de zoekbalk "Populair deze week" met de nr. 1 van de 3 populairste gidsen (foto, product, prijs), op mobiel boven de vouw; klik gemeten via Umami-event home-top3 (gids, positie). Waarom: weekrapport-advies, bounce 63 tot 65% en de homepage is met 73 weergaven de grootste landingspagina, het populair-blok stond pas onder de hero. Verwacht: lagere bounce en meer doorklik naar converterende gidsen.
+- Idee voor later: over 7 dagen bounce (nu 63%) en events home-top3 vergelijken; werkt het, dan de top 3 een directe bol-knop geven.
+- Idee voor later: specs "niet vermeld" bij EUROM Drybest 20C (geluid, nachtstand, ruimte) aanvullen; Costway inbouwhaard heeft nog weinig reviews, bij een betere budget-inbouwhaard wisselen.
+- Voor Nick: Chrome-profiel 202077f2 (watkoopik, Browser 1) was niet verbonden met de extensie; Search Console staat nog uitgelogd (zie login-nodig.md).
