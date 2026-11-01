@@ -507,12 +507,12 @@ section .wrap.narrow.rv{background:rgba(18,10,40,.5);border:1px solid var(--line
 /* hero top 3 deze week */
 .hero-top3{max-width:860px;margin:18px auto 0;text-align:left}
 .t3-lbl{display:block;text-align:center;font-size:.78rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#bdb3e6;margin-bottom:8px}
-.t3-row{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
-.t3{display:flex;align-items:center;gap:10px;padding:8px 10px;border-radius:14px;background:var(--glass);border:1px solid var(--line);color:#fff;transition:background .2s,border-color .2s}
+.t3-row{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.t3{display:flex;align-items:center;gap:10px;min-width:0;overflow:hidden;padding:8px 10px;border-radius:14px;background:var(--glass);border:1px solid var(--line);color:#fff;transition:background .2s,border-color .2s}
 .t3:hover{background:var(--glass2);border-color:var(--line2)}
 .t3 img{width:56px;height:56px;object-fit:contain;border-radius:10px;background:#fff;flex:none}
 .t3 span{display:flex;flex-direction:column;min-width:0}
 .t3 small{font-size:.72rem;color:#bdb3e6}
 .t3 b{font-size:.88rem;line-height:1.25;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .t3 em{font-style:normal;font-weight:700;font-size:.85rem;color:#3ee08f}
-@media (max-width:760px){.t3-row{grid-template-columns:1fr;gap:8px}.t3 img{width:48px;height:48px}}
+@media (max-width:760px){.t3-row{grid-template-columns:minmax(0,1fr);gap:8px}.t3 img{width:48px;height:48px}}
