@@ -496,46 +496,42 @@
       "prev_date": "2026-10-29"
     },
     {
-      "brand": "Xiaomi",
-      "name": "POCO M8 Pro 5G 8/256GB",
-      "price": 409.95,
-      "score": 8.3,
+      "brand": "Samsung",
+      "name": "Galaxy A17 5G 128GB",
+      "price": 199.0,
+      "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,9 van 5",
-      "oneliner": "Groot 1,5K AMOLED-scherm en 6.500 mAh accu voor 249 euro.",
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Goedkoopste Samsung met 5G, AMOLED-scherm en zes jaar updates.",
       "specs": {
-        "Scherm": "6,83 inch AMOLED 1,5K, 120 Hz",
-        "Accu": "6.500 mAh, 100 W",
-        "Geheugen": "8 GB / 256 GB",
-        "Hoofdcamera": "50 MP OIS + 8 MP groothoek",
+        "Scherm": "6,7 inch Super AMOLED, 90 Hz",
+        "Accu": "5.000 mAh",
+        "Geheugen": "4 GB / 128 GB",
+        "Hoofdcamera": "50 MP OIS + 5 MP groothoek + 2 MP macro",
         "Netwerk": "5G"
       },
       "pros": [
-        "Grootste en scherpste scherm in deze lijst, 1,5K-resolutie",
-        "Accu van 6.500 mAh met 100 watt laden",
-        "Hoofdcamera met OIS, zeldzaam bij POCO",
-        "Met 249 euro een van de goedkoopste toestellen in deze lijst"
+        "Goedkoopste toestel in deze lijst",
+        "Zes Android-upgrades en zes jaar beveiligingsupdates",
+        "Hoofdcamera met optische stabilisatie",
+        "IP54 en Gorilla Glass Victus"
       ],
       "cons": [
-        "Groot en zwaar, niet voor kleine handen",
-        "HyperOS met voorgeïnstalleerde apps",
-        "Geen echte waterdichtheid"
+        "Maar 4 GB werkgeheugen",
+        "Scherm ververst op 90 Hz in plaats van 120 Hz",
+        "Geen oplader in de doos"
       ],
-      "ideal": "Wie veel video kijkt en gamet en een groot scherm met lange accuduur wil voor rond de 250 euro.",
-      "text": "POCO is het gamingmerk van Xiaomi en de M8 Pro is het meest schermgerichte toestel onder 300 euro. Het 6,83 inch AMOLED-scherm heeft een 1,5K-resolutie, scherper dan de Full HD-schermen van de rest van deze lijst. Het ververst op 120 Hz. In combinatie met de stereo-speakers is dit de beste telefoon hier om series op te kijken. De accu van 6.500 mAh houdt dat ruim twee dagen vol en laadt snel met 100 watt HyperCharge.\n\nNieuw voor POCO in deze prijsklasse is optische stabilisatie op de 50 MP hoofdcamera, wat avondfoto's merkbaar scherper maakt. Deze versie heeft 8 GB werkgeheugen en 256 GB opslag, ruim genoeg voor de meeste gebruikers. Kopers op bol geven de M8 Pro een 4,9 en noemen het scherm, de accuduur en de prestaties bij games. Het toestel is wel groot en weegt ruim 200 gram, waardoor eenhandig bedienen lastig is. HyperOS bevat net als bij de Redmi Note 15 voorgeïnstalleerde apps die je moet opruimen. Voor beeld en accu per euro is de M8 Pro moeilijk te verslaan.",
-      "ean": "6932554481070",
-      "bol_title": "Xiaomi POCO M8 Pro 5G - 8 GB RAM - 256 GB - Zwart - Enorme 6500mAh (typ) batterij - 6,83\" CrystalRes 1,5K AMOLED display - Snapdragon® 7s Gen 4",
-      "url": "https://www.bol.com/nl/nl/p/xiaomi-poco-m8-pro-5g-8gb-256gb-zwart/9300000256855052/",
-      "image": "https://media.s-bol.com/GjV7E6BDPmYr/APlQxJ7/550x636.jpg",
+      "ideal": "Wie een betrouwbare Samsung voor jaren zoekt en vooral appt, belt en foto's maakt.",
+      "text": "De Samsung Galaxy A17 5G is de goedkoopste telefoon in deze lijst en toch geen uitgeklede budgetkeuze. Je krijgt een Super AMOLED-scherm van 6,7 inch met levendige kleuren en een verversing van 90 Hz. De 50 MP hoofdcamera heeft optische stabilisatie, wat avondfoto's en video's rustiger maakt. Een accu van 5.000 mAh komt bij normaal gebruik de dag ruim door.\n\nHet sterkste punt is de ondersteuning. Samsung belooft zes Android-upgrades en zes jaar beveiligingsupdates, zodat je dit toestel jaren veilig gebruikt. De behuizing is 7,5 mm dun, spatwaterdicht volgens IP54 en het scherm wordt beschermd door Gorilla Glass Victus. Kopers op bol geven hem een 4,6. Met 4 GB werkgeheugen is hij wel trager bij zware games en veel open apps dan de A26 of de Motorola's. Een oplader zit niet in de doos. Voor wie vooral appt, belt en foto's maakt, is dit veel telefoon voor weinig geld.",
+      "ean": "8806097640257",
+      "bol_title": "Samsung Galaxy A17 5G 17 cm (6.7) Dual SIM Android 15 USB Type-C 4 GB 128 GB 5000 mAh Grijs",
+      "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a17-5g-17-cm-hybride-dual-sim-android-15-usb-type-c-128-gb-5000-mah-blauw/9300000237500864/",
+      "image": "https://media.s-bol.com/A3o3lpvompQO/Eq6lL34/550x662.jpg",
       "ph": {
-        "2026-10-29": 249.0,
-        "2026-10-30": 249.0,
-        "2026-10-31": 409.95
+        "2026-11-01": 199.0
       },
-      "low_price": 249.0,
-      "synced": "2026-11-01",
-      "prev_price": 249.0,
-      "prev_date": "2026-10-30"
+      "low_price": 199.0,
+      "synced": "2026-11-01"
     }
   ],
   "guide": [
@@ -583,11 +579,11 @@
     },
     {
       "q": "Welke smartphone onder 300 euro heeft de langste accuduur?",
-      "a": "De Honor 600 Lite met 6.520 mAh en de POCO M8 Pro met 6.500 mAh gaan het langst mee, bij normaal gebruik twee tot drie dagen. De Xiaomi Redmi Note 15 met 5.520 mAh haalt ruim twee dagen."
+      "a": "De Honor 600 Lite met 6.520 mAh gaat het langst mee, bij normaal gebruik twee tot drie dagen. De Xiaomi Redmi Note 15 met 5.520 mAh haalt ruim twee dagen."
     },
     {
       "q": "Zit er een oplader in de doos?",
-      "a": "Bij Motorola, OnePlus, Xiaomi, Honor en POCO wel. Nothing, Samsung en Google leveren alleen een kabel, dus reken op 20 tot 30 euro extra voor een snellader als je er nog geen hebt."
+      "a": "Bij Motorola, OnePlus, Xiaomi en Honor wel. Nothing, Samsung en Google leveren alleen een kabel, dus reken op 20 tot 30 euro extra voor een snellader als je er nog geen hebt."
     }
   ],
   "published": "2026-10-16"

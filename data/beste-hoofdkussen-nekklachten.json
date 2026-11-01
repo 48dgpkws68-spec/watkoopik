@@ -469,53 +469,41 @@
       "low_price": 49.99
     },
     {
-      "brand": "BestPillow",
-      "name": "Hoofdkussen 50x70 tegen Nekklachten",
-      "price": 59.95,
+      "brand": "Slaapspeciaal",
+      "name": "Traagschuim Hoofdkussen 50x70 tegen Nekklachten",
+      "price": 49.99,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Rechthoekig ergonomisch kussen met verkoelende hoes voor zijslapers.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "Gewoon formaat met traagschuimvlokken die je zelf bijvult of uithaalt.",
       "specs": {
-        "Vorm": "Rechthoekig, ergonomisch",
-        "Vulling": "Traagschuim",
-        "Hoogte": "ca. 12 cm",
-        "Slaaphouding": "Zij en rug",
+        "Vorm": "Rechthoekig, gevuld",
+        "Vulling": "Traagschuimvlokken",
+        "Hoogte": "Verstelbaar",
+        "Slaaphouding": "Zij, rug en buik",
         "Afmeting": "50 x 70 cm"
       },
       "pros": [
+        "Hoogte zelf aan te passen door vulling weg te halen",
         "Gewoon formaat dat in elke kussensloop past",
-        "Verkoelende hoes",
-        "Stevige steun voor zijslapers",
-        "Goede bol-score"
+        "Hoes met een koele en een warme kant",
+        "Hoge bol-score"
       ],
       "cons": [
-        "Geen uitgesproken contourvorm",
-        "Hoogte niet verstelbaar"
+        "Vlokken verschuiven meer dan een massieve kern",
+        "Even zoeken naar de juiste hoeveelheid vulling"
       ],
-      "ideal": "Zijslapers die neksteun willen in een kussen dat eruitziet als een gewoon hoofdkussen.",
-      "text": "Niet iedereen wil een kussen met een golf- of vlindervorm. De BestPillow heeft het gewone formaat van 50x70 centimeter, zodat hij in je bestaande kussenslopen past, maar is gevuld met een stevige kern van traagschuim. Die kern houdt je hoofd op dezelfde hoogte en zakt niet in zoals een kussen met holle vezels. Voor zijslapers met nekklachten is dat het belangrijkste.\n\nDe hoes heeft een verkoelende afwerking die het warme gevoel van traagschuim beperkt. Met ongeveer 12 centimeter is het kussen vooral geschikt voor zijslapers en voor rugslapers die een wat hoger kussen gewend zijn. Buikslapers liggen er te hoog op. De hoogte is niet verstelbaar, dus twijfel je over de juiste hoogte, kijk dan naar de Emma Diamond of de Cloudpillo Plus. Kopers op bol geven een 4,6 en waarderen vooral de stevigheid die maanden gelijk blijft.",
-      "ean": "8720844091188",
-      "bol_title": "BestPillow Hoofdkussen - 50x70 cm - Tegen nekklachten & nekpijn - Ergonomisch & verkoelend - Geschikt voor zijslaper, buikslaper & rugslaper - Aanpasbaar: zacht of hard kussen - Traagschuim (memory foam) & latex - Premium kwaliteit slaapkussen",
-      "url": "https://www.bol.com/nl/nl/p/bestpillow-aanpasbaar-hoofdkussen-traagschuim-latex-verkoelend-ergonomisch-voorkomt-nekklachten-70-50-cm-voor-rug-buik-zijslaper-premium-kwaliteit/9300000244075882/",
-      "image": "https://media.s-bol.com/R3yWKy1jwpzz/PjJ3VGW/550x550.jpg",
-      "synced": "2026-11-01",
+      "ideal": "Slapers met nekklachten die zelf de hoogte willen afstemmen in een kussen dat eruitziet als een gewoon hoofdkussen.",
+      "text": "Niet iedereen wil een kussen met een golf- of vlindervorm. Het traagschuimkussen van Slaapspeciaal heeft het gewone formaat van 50x70 centimeter, zodat het in je bestaande kussenslopen past. Binnenin zitten traagschuimvlokken die zich naar je hoofd en nek vormen. Het grote voordeel: je haalt zelf vulling weg of voegt die toe tot de hoogte klopt. Zijslapers laten het kussen vrijwel vol, rugslapers en buikslapers halen er een flink deel uit.\n\nDe hoes heeft twee kanten. De Cool Touch-zijde voelt fris aan als je het snel warm hebt, de Tencel-zijde is zachter en warmer voor koude nachten. Omdat vlokken meer bewegen dan een massieve kern, schud je het kussen af en toe even op. Wil je juist een vaste vorm, kijk dan naar de Tempur Original of de M line Wave Pillow. Kopers op bol geven dit kussen gemiddeld een 4,7 en noemen vooral de verstelbare hoogte als pluspunt.",
+      "ean": "8720986803052",
+      "bol_title": "Slaapspeciaal - Traagschuim Hoofdkussen - Ergonomisch Kussen tegen Nekklachten - 50x70 cm - Aanpasbare Vulling - Verkoelend - Memory Foam Pillow",
+      "url": "https://www.bol.com/nl/nl/p/slaapspeciaal-traagschuim-hoofdkussen-ergonomisch-kussen-tegen-nekklachten-50x70-cm-aanpasbare-vulling-verkoelend-memory-foam-pillow/9300000380035314/",
+      "image": "https://media.s-bol.com/ZjqR9EqRGJWg/0YlX71V/550x550.jpg",
       "ph": {
-        "2026-10-18": 59.95,
-        "2026-10-19": 59.95,
-        "2026-10-20": 59.95,
-        "2026-10-21": 59.95,
-        "2026-10-23": 59.95,
-        "2026-10-24": 59.95,
-        "2026-10-25": 59.95,
-        "2026-10-26": 59.95,
-        "2026-10-27": 59.95,
-        "2026-10-28": 59.95,
-        "2026-10-29": 59.95,
-        "2026-10-30": 59.95,
-        "2026-10-31": 59.95
+        "2026-11-01": 49.99
       },
-      "low_price": 59.95
+      "low_price": 49.99,
+      "synced": "2026-11-01"
     }
   ],
   "guide": [

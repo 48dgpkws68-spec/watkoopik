@@ -458,58 +458,41 @@
     },
     {
       "brand": "Philips",
-      "name": "27E2N2500",
-      "price": 117.0,
+      "name": "27E2N1500L",
+      "price": 119.0,
       "score": 8.2,
       "label": null,
-      "reviews": "800+ reviews",
-      "oneliner": "Betaalbare QHD-monitor met 120 Hz voor thuis en studie.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "Betaalbare QHD-monitor met 100 Hz voor thuis en studie.",
       "specs": {
         "Formaat": "27 inch",
         "Resolutie": "QHD (2560 x 1440)",
         "Paneel": "IPS",
-        "Verversing": "120 Hz",
+        "Verversing": "100 Hz",
         "Aansluiting": "HDMI, DisplayPort"
       },
       "pros": [
-        "QHD op 27 inch voor ruim 100 euro",
-        "120 Hz voor soepeler beeld",
-        "EasyRead-modus voor lezen",
-        "Dunne randen"
+        "QHD op 27 inch voor rond de 120 euro",
+        "100 Hz met Adaptive-Sync",
+        "EasyRead- en LowBlue-modus",
+        "Hoge bol-score"
       ],
       "cons": [
-        "Standaard alleen kantelbaar",
-        "Geen USB-C of luidsprekers",
-        "Matige helderheid"
+        "Voet alleen kantelbaar",
+        "Geen USB-C",
+        "Matige helderheid voor HDR"
       ],
       "ideal": "Studenten en thuiswerkers die een scherp tweede scherm zoeken voor weinig geld.",
-      "text": "De Philips 27E2N2500 bewijst dat een goede monitor niet duur hoeft te zijn. Voor ongeveer 110 euro krijg je een IPS-scherm van 27 inch met QHD-resolutie, veel scherper dan de Full HD die je in deze prijsklasse meestal ziet. Op 27 inch is Full HD wat korrelig, QHD geeft duidelijk meer werkruimte en scherpere tekst.\n\nDe 120 Hz maakt scrollen en lichte games vloeiender. De EasyRead-modus zet het beeld om naar een papierachtige weergave voor lange teksten en een LowBlue-modus vermindert blauw licht. Kopers prijzen in reviews de prijs en de scherpte. De standaard kan alleen kantelen en helderheid en contrast zijn gemiddeld, waardoor het scherm in een zonnige kamer minder fel oogt. USB-C en luidsprekers ontbreken. Als eerste monitor voor een student of als tweede scherm naast een laptop is dit de beste budgetkeuze.",
-      "ean": "8721038004472",
-      "bol_title": "Philips 27E2N2500 - QHD IPS Monitor - 120hz - Allround Monitor - EasyRead Modus - 1ms - 27 inch",
-      "url": "https://www.bol.com/nl/nl/p/philips-2000-series-27e2n2500-00-quad-hd-monitor-27-inch-120hz/9300000230513462/",
-      "image": "https://media.s-bol.com/vGmvm0V8pqqg/vQQl6NL/550x423.jpg",
-      "synced": "2026-11-01",
+      "text": "De Philips 27E2N1500L laat zien dat een scherpe monitor niet duur hoeft te zijn. Voor ongeveer 120 euro krijg je een IPS-scherm van 27 inch met QHD-resolutie. Dat is veel scherper dan de Full HD die je in deze prijsklasse vaak ziet. Op 27 inch oogt Full HD wat korrelig, terwijl QHD meer werkruimte en strakkere tekst geeft.\n\nHet scherm ververst tot 100 Hz en heeft Adaptive-Sync, zodat scrollen en lichte games vloeiend lopen zonder beeldscheuren. De EasyRead-modus zet het beeld om naar een papierachtige weergave voor lange teksten en de LowBlue-modus vermindert blauw licht. HDR10 wordt ondersteund, al moet je daar op een budgetscherm geen wonderen van verwachten. Kopers op bol geven hem een 4,7 en noemen vooral de scherpte en de prijs. De voet kan alleen kantelen en USB-C ontbreekt. Als eerste monitor voor een student of als tweede scherm naast een laptop is dit een sterke budgetkeuze.",
+      "ean": "8721038005455",
+      "bol_title": "Philips 27E2N1500L - QHD IPS Monitor - 75hz - 27 inch",
+      "url": "https://www.bol.com/nl/nl/p/philips-27e2n1500l-00-quad-hd-monitor-27-inch-ips-scherm-met-hdr-en-adaptive-sync/9300000232485991/",
+      "image": "https://media.s-bol.com/Z7PQnjrlLPJQ/BrYWroY/550x426.jpg",
       "ph": {
-        "2026-10-15": 109.0,
-        "2026-10-16": 109.0,
-        "2026-10-17": 109.0,
-        "2026-10-18": 109.0,
-        "2026-10-19": 109.0,
-        "2026-10-20": 109.0,
-        "2026-10-21": 109.0,
-        "2026-10-23": 109.0,
-        "2026-10-24": 109.0,
-        "2026-10-25": 109.0,
-        "2026-10-26": 109.0,
-        "2026-10-27": 109.0,
-        "2026-10-28": 109.0,
-        "2026-10-29": 109.0,
-        "2026-10-30": 109.0,
-        "2026-10-31": 117.0
+        "2026-11-01": 119.0
       },
-      "low_price": 109.0,
-      "prev_price": 109.0,
-      "prev_date": "2026-10-30"
+      "low_price": 119.0,
+      "synced": "2026-11-01"
     },
     {
       "brand": "Samsung",

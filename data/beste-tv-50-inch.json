@@ -18,7 +18,7 @@
   "updated": "2026-10-29",
   "reviews_total": "3.900",
   "intro": "Een 50 inch tv is de slimme maat voor een woonkamer van gemiddelde grootte of een appartement waar je op ongeveer twee meter van het scherm zit. Groot genoeg voor films en voetbal, klein genoeg om het meubel niet te domineren. Wij vergeleken 31 modellen op paneeltype, helderheid, verversing, smart-systeem en wat kopers op bol erover zeggen. Dit zijn de tien beste 50 inch tv's die je nu kunt kopen, van een QLED onder de 350 euro tot Mini-LED met 144 Hz.",
-  "verdict": "De Hisense 50E8S is de beste 50 inch tv voor de meeste mensen: Mini-LED, 144 Hz en een hoge helderheid voor een nette prijs. Wil je zo weinig mogelijk uitgeven zonder in te leveren op software, dan is de TCL 50P79L de beste prijs-kwaliteit met Dolby Vision en Google TV. Zoek je het beste wat er op 50 inch te krijgen is voor films en gamen, kies dan de TCL 50Q7C.",
+  "verdict": "De Hisense 50E8S is de beste 50 inch tv voor de meeste mensen: Mini-LED, 144 Hz en een hoge helderheid voor een nette prijs. Wil je zo weinig mogelijk uitgeven zonder in te leveren op software, dan is de Hisense 50E7S de beste prijs-kwaliteit met Dolby Vision en Dolby Atmos. Zoek je het beste wat er op 50 inch te krijgen is voor films en gamen, kies dan de TCL 50Q7C.",
   "products": [
     {
       "brand": "Hisense",
@@ -261,42 +261,40 @@
       "synced": "2026-11-01"
     },
     {
-      "brand": "TCL",
-      "name": "50P79L",
-      "price": 399.0,
+      "brand": "Hisense",
+      "name": "50E7S",
+      "price": 339.0,
       "score": 8.5,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "50+ reviews",
-      "oneliner": "Nieuwe QLED met Google TV voor nog geen 400 euro.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Hi-QLED met Dolby Vision en Dolby Atmos voor nog geen 350 euro.",
       "specs": {
-        "Paneel": "QLED",
+        "Paneel": "Hi-QLED",
         "Verversing": "60 Hz",
         "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "Google TV",
+        "Smart-tv": "VIDAA",
         "Jaar": "2026"
       },
       "pros": [
         "QLED-kleuren voor een instapprijs",
-        "Dolby Vision en HDR10+",
-        "Google TV met ingebouwde Chromecast",
-        "Model uit 2026"
+        "Dolby Vision, HDR10+ en Dolby Atmos",
+        "Model uit 2026",
+        "Kopers geven hem de volle vijf sterren"
       ],
       "cons": [
         "Geen local dimming",
-        "Geluid is matig zonder soundbar"
+        "60 Hz, niet voor 144 Hz-games"
       ],
       "ideal": "Wie een moderne smart-tv voor de woonkamer of slaapkamer wil zonder veel uit te geven.",
-      "text": "De TCL 50P79L is een van de nieuwste 50 inch modellen en laat zien hoeveel tv je in 2026 voor 399 euro krijgt. Het QLED-paneel geeft duidelijk kleurrijkere beelden dan gewone led-tv's in dezelfde prijsklasse. Dolby Vision en HDR10+ zijn aanwezig, iets wat Samsung en LG pas in hogere series bieden.\n\nGoogle TV is het grote voordeel: je vindt er vrijwel elke app en je kunt foto's of video's direct vanaf je telefoon casten met de ingebouwde Chromecast. Spraakbediening via de afstandsbediening werkt in het Nederlands. Je moet het zonder local dimming doen, dus zwarte balken bij films ogen in het donker grijzig. Het geluid is dun, een eenvoudige soundbar maakt een groot verschil. Kopers op bol geven hem gemiddeld een 4,4 en noemen vooral de snelle software en de prijs. Daarom is dit voor de meeste mensen de slimste koop in deze lijst.",
-      "ean": "5901292531362",
-      "bol_title": "TCL 50P79L - 50 inch - 4K QLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-50p79l-50-inch-4k-qled-2026-smart-tv/9300000273452870/",
-      "image": "https://media.s-bol.com/35xywgxogO3p/2vN4J4J/550x348.jpg",
+      "text": "De Hisense 50E7S is het gewone broertje van de 50E7S PRO en kost ruim 200 euro minder. Je krijgt een Hi-QLED-paneel met quantum dots, dus kleuren zijn duidelijk voller dan bij een standaard led-tv in deze prijsklasse. Dolby Vision en HDR10+ worden allebei ondersteund en Dolby Atmos zit er ook in, iets wat je bij Samsung en LG pas in duurdere series vindt.\n\nHet verschil met de PRO zit vooral in gamen: de 50E7S werkt op 60 Hz. Dat is prima voor tv, streaming en een console op standaardinstellingen, maar niet voor 144 Hz-games. Local dimming ontbreekt, dus zwarte balken bij films ogen in een donkere kamer wat grijzig. VIDAA start snel op en heeft Netflix, Prime Video, Disney+ en NPO Start. Het geluid is redelijk, een soundbar maakt het voller. Kopers op bol geven hem de volle vijf sterren en noemen vooral de prijs en het heldere beeld. Daarom is dit voor de meeste mensen de slimste koop in deze lijst.",
+      "ean": "6942351431161",
+      "bol_title": "Hisense 50E7S SmartTV - 50 inch - 4K Hi-QLED - 2026 - Hi-QLED Colour - Dolby Vision Atmos - AI 4K Upscaler - AI Smooth Motion - Game Mode Plus - Filmmaker Mode",
+      "url": "https://www.bol.com/nl/nl/p/hisense-50e7s-smarttv-50-inch-4k-hi-qled-2026-hi-qled-colour-dolby-vision-atmos-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-filmmaker-mode/9300000269685089/",
+      "image": "https://media.s-bol.com/D319BEGOAm4B/284Yy5M/550x342.jpg",
       "ph": {
-        "2026-10-29": 399.0,
-        "2026-10-30": 399.0,
-        "2026-10-31": 399.0
+        "2026-11-01": 339.0
       },
-      "low_price": 399.0,
+      "low_price": 339.0,
       "synced": "2026-11-01"
     },
     {
@@ -340,42 +338,40 @@
       "synced": "2026-11-01"
     },
     {
-      "brand": "Xiaomi",
-      "name": "TV A Pro 2026 50 inch",
-      "price": 348.99,
+      "brand": "TCL",
+      "name": "50P61K",
+      "price": 329.0,
       "score": 8.2,
       "label": null,
-      "reviews": "30+ reviews",
-      "oneliner": "Goedkope QLED met Google TV en 120 Hz gamingmodus.",
+      "reviews": "bol-score 4,2 van 5",
+      "oneliner": "Eenvoudige 4K-tv met Google TV voor een bodemprijs.",
       "specs": {
-        "Paneel": "QLED",
-        "Verversing": "60 Hz (120 Hz game)",
-        "HDR": "Dolby Vision, HDR10+",
+        "Paneel": "LED",
+        "Verversing": "60 Hz",
+        "HDR": "HDR10, HLG",
         "Smart-tv": "Google TV",
-        "Jaar": "2026"
+        "Jaar": "2025"
       },
       "pros": [
-        "Scherpe prijs voor QLED",
+        "Laagste prijs in deze lijst",
         "Google TV met Chromecast",
-        "Metalen behuizing met dunne randen",
-        "Filmmaker Mode"
+        "Spraakbediening via de afstandsbediening",
+        "Dunne randen"
       ],
       "cons": [
-        "120 Hz alleen op lagere resolutie",
-        "Beperkte helderheid voor HDR"
+        "Geen quantum dots, minder uitbundige kleuren",
+        "Geen local dimming"
       ],
-      "ideal": "Wie zo voordelig mogelijk een moderne 50 inch tv met Google TV zoekt.",
-      "text": "De Xiaomi TV A Pro 2026 is de goedkoopste QLED in deze vergelijking en ziet er duurder uit dan hij is. De metalen behuizing met dunne randen past mooi in een kleinere woonkamer en op een tv-meubel van 120 centimeter breed staat hij stevig. Het QLED-paneel geeft levendige kleuren en met Filmmaker Mode zet je films met één klik in de kleuren die de regisseur bedoelde.\n\nGoogle TV is snel en compleet en Chromecast zit erin. De 120 Hz gamingmodus werkt alleen op een lagere resolutie, dus voor serieuze gamers is de Hisense 50E7S PRO beter. De helderheid is bescheiden, waardoor HDR minder indruk maakt dan op de Mini-LED-modellen. Bij tv-programma's, YouTube en series valt dat nauwelijks op. Kopers op bol geven hem gemiddeld een 4,3 en waarderen vooral de prijs en de software. Een prima tweede tv of eerste tv voor een studentenkamer.",
-      "ean": "6941948706224",
-      "bol_title": "Xiaomi TV A Pro 2026 50 inch | 4K QLED Google TV | HDR10+ & Filmmaker Mode | 120Hz gaming | Dolby Audio & DTS-X | 94% DCI-P3 | AirPlay, Google Cast & Miracast | Google Assistant",
-      "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-50-inch-4k-qled-tv/9300000232272352/",
-      "image": "https://media.s-bol.com/x31vpXEpmK3z/Mj4Mr0R/550x330.jpg",
+      "ideal": "Wie zo voordelig mogelijk een 50 inch tv met Google TV zoekt, bijvoorbeeld als tweede tv.",
+      "text": "De TCL 50P61K is de goedkoopste 50 inch tv in deze vergelijking en bedoeld voor wie vooral een groot, scherp scherm wil zonder extra's. Het is een gewone 4K led-tv zonder quantum dots, dus de kleuren zijn wat minder uitbundig dan bij de QLED-modellen hoger in de lijst. Bij journaal, series en YouTube valt dat in een lichte woonkamer weinig op.\n\nHet sterkste punt is de software. Google TV is snel en compleet, Chromecast zit erin en je bedient alles met je stem via de afstandsbediening. Het paneel werkt op 60 Hz en heeft geen local dimming, dus voor films in het donker en voor serieuze gamers zijn de Hisense-modellen beter. Het geluid is dun, een eenvoudige soundbar is een goede aanvulling. Kopers op bol geven hem gemiddeld een 4,2 en waarderen vooral de prijs. Een prima tweede tv voor de slaapkamer of een eerste tv voor een studentenkamer.",
+      "ean": "5901292528683",
+      "bol_title": "TCL 50P61K - 50 inch - 4K LED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-50p61k-50-inch-4k-led-2025/9300000228002731/",
+      "image": "https://media.s-bol.com/gjZlvJmJyPGY/L9OPW0g/550x341.jpg",
       "ph": {
-        "2026-10-29": 348.99,
-        "2026-10-30": 348.99,
-        "2026-10-31": 348.99
+        "2026-11-01": 329.0
       },
-      "low_price": 348.99,
+      "low_price": 329.0,
       "synced": "2026-11-01"
     },
     {
@@ -404,7 +400,7 @@
         "Geen local dimming"
       ],
       "ideal": "Wie al Samsung-apparaten heeft en een eenvoudige QLED voor de woonkamer wil.",
-      "text": "De Samsung Q7F is de instap in de QLED-lijn en bedoeld voor wie de vertrouwde Samsung-software wil zonder de prijs van de Mini-LED-series. Het paneel gebruikt quantum dots voor betere kleuren dan een standaard led-tv. In een woonkamer waar je op twee tot tweeënhalve meter zit geeft 50 inch genoeg overzicht voor voetbal en series.\n\nTizen bevat alle grote apps en Samsung TV Plus geeft je gratis tientallen kanalen met films en nieuws. Heb je een Samsung-telefoon, dan deel je beeld met één tik en SmartThings koppelt de tv aan je slimme lampen of stofzuigerrobot. Er is geen Dolby Vision en geen local dimming, dus in donkere films blijft het contrast beperkt. Het paneel draait op 60 Hz. Kopers op bol geven gemiddeld een 4,1 en zijn tevreden over het gebruiksgemak. Wil je voor ongeveer hetzelfde geld meer beeld, kijk dan naar de TCL 50P79L.",
+      "text": "De Samsung Q7F is de instap in de QLED-lijn en bedoeld voor wie de vertrouwde Samsung-software wil zonder de prijs van de Mini-LED-series. Het paneel gebruikt quantum dots voor betere kleuren dan een standaard led-tv. In een woonkamer waar je op twee tot tweeënhalve meter zit geeft 50 inch genoeg overzicht voor voetbal en series.\n\nTizen bevat alle grote apps en Samsung TV Plus geeft je gratis tientallen kanalen met films en nieuws. Heb je een Samsung-telefoon, dan deel je beeld met één tik en SmartThings koppelt de tv aan je slimme lampen of stofzuigerrobot. Er is geen Dolby Vision en geen local dimming, dus in donkere films blijft het contrast beperkt. Het paneel draait op 60 Hz. Kopers op bol geven gemiddeld een 4,1 en zijn tevreden over het gebruiksgemak. Wil je voor minder geld meer beeld, kijk dan naar de Hisense 50E7S.",
       "ean": "8806097122395",
       "bol_title": "Samsung QE50Q7F2A - 50 inch - 4K QLED - 2025 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-qe50q7f2auxxn-qled-50-inch/9300000232174773/",
@@ -448,7 +444,7 @@
   "faq": [
     {
       "q": "Wat is de beste 50 inch tv van 2026?",
-      "a": "Uit onze vergelijking komt de Hisense 50E8S als beste 50 inch tv naar voren dankzij Mini-LED, 144 Hz en een piekhelderheid van 1.300 nits voor 599 euro. Voor minder geld is de TCL 50P79L de beste prijs-kwaliteit."
+      "a": "Uit onze vergelijking komt de Hisense 50E8S als beste 50 inch tv naar voren dankzij Mini-LED, 144 Hz en een piekhelderheid van 1.300 nits voor 599 euro. Voor minder geld is de Hisense 50E7S de beste prijs-kwaliteit."
     },
     {
       "q": "Op welke afstand kijk je naar een 50 inch tv?",

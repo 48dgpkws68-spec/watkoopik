@@ -186,12 +186,12 @@
     },
     {
       "brand": "Kärcher",
-      "name": "SC 2 Deluxe",
-      "price": 161.0,
+      "name": "SC 2 EasyFix",
+      "price": 114.68,
       "score": 8.7,
       "label": null,
-      "reviews": "1.400+ reviews",
-      "oneliner": "Betaalbaar sledemodel met groot reservoir voor 75 m².",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Betaalbaar Kärcher-sledemodel met groot reservoir voor 75 m².",
       "specs": {
         "Type": "Sledemodel",
         "Vermogen": "1.500 W",
@@ -201,8 +201,9 @@
       },
       "pros": [
         "Groot reservoir voor 75 m²",
-        "Kärcher-kwaliteit voor minder geld",
-        "Ruime set accessoires"
+        "Kärcher-kwaliteit voor rond de 115 euro",
+        "Stoom in twee standen regelbaar",
+        "Kinderslot op het stoompistool"
       ],
       "cons": [
         "Lange opwarmtijd",
@@ -210,35 +211,16 @@
         "Minder druk dan de SC 3"
       ],
       "ideal": "Wie af en toe grondig wil stomen en geen haast heeft bij het opwarmen.",
-      "text": "De Kärcher SC 2 Deluxe is het instapmodel onder de sledemodellen van Kärcher. Met 3,2 bar en 1.500 watt is hij minder krachtig dan de SC 3, maar nog altijd sterk genoeg voor tegels, voegen en harde vloeren. Het reservoir van een liter is goed voor ongeveer 75 vierkante meter.\n\nHet grootste nadeel is de opwarmtijd van ruim zes minuten. Daardoor is hij minder geschikt voor een snelle beurt tussendoor. Is het reservoir leeg, dan moet je het apparaat laten afkoelen voor je kunt bijvullen. De Deluxe-versie heeft wel een uitgebreide set accessoires, waaronder borstels en een handmondstuk. Gebruikers die eens per week of eens per maand grondig stomen, zijn tevreden over de prestaties. Wil je vaker even snel stomen, dan is de SC 3 de investering van 35 euro extra waard.",
-      "ean": "4054278975771",
-      "bol_title": "Kärcher SC 2 Deluxe Stoomreiniger - 3.2 bar - 1500 W - Oppvervlakteprestatie 75 m² - Reservoir 1 l - Vloerreinigingsset EasyFix - LED Ring",
-      "url": "https://www.bol.com/nl/nl/p/karcher-stoomreiniger-sc-2-deluxe-inclusief-vloerreinigingsset-easyfix-1-500-w-opwarmtijd-6-5min-gebruiksoppervlakte-75-m-reservoir-1-l-microvezeldoeken-led-ring/9200000109331071/",
-      "image": "https://media.s-bol.com/gN281o0Morpl/OQVyyN/550x491.jpg",
-      "synced": "2026-11-01",
+      "text": "De Kärcher SC 2 EasyFix is het instapmodel onder de sledemodellen van Kärcher. Met 3,2 bar is hij minder krachtig dan de SC 3, maar sterk genoeg voor tegels, voegen, kookplaten en harde vloeren. Het reservoir van een liter is goed voor ongeveer 75 vierkante meter. De stoom stel je in twee standen in, zodat je hem aanpast aan het oppervlak en de vervuiling.\n\nHet EasyFix-vloermondstuk heeft een flexibel scharnier en een klittenbanddoek die je verwisselt zonder het vuil aan te raken. Accessoires en mondstuk berg je op het apparaat zelf op. Een kinderslot op het stoompistool voorkomt ongelukjes. Het grootste nadeel is de opwarmtijd van ruim zes minuten, waardoor hij minder geschikt is voor een snelle beurt tussendoor. Is het reservoir leeg, dan moet hij eerst afkoelen voor je kunt bijvullen. Kopers op bol geven hem een 4,3. Wil je vaker even snel stomen, dan is de SC 3 de meerprijs waard.",
+      "ean": "4054278975122",
+      "bol_title": "Kärcher SC 2 EasyFix Stoomreiniger - 3.2 bar - Oppervlakteprestatie 75 m² - Reservoir 1 l - Vloerreinigingsset EasyFix",
+      "url": "https://www.bol.com/nl/nl/p/karcher-sc-2-easyfix-stoomreiniger-inclusief-vloerreinigingsset-easyfix-1-500-w-opwarmtijd-6-5-min-gebruiksoppervlakte-75-m-reservoir-1-l-microvezeldoeken/9200000087364214/",
+      "image": "https://media.s-bol.com/gmz7L5g6Zrwl/6WNYEPO/550x525.jpg",
       "ph": {
-        "2026-10-14": 125.0,
-        "2026-10-15": 120.76,
-        "2026-10-16": 127.0,
-        "2026-10-17": 127.0,
-        "2026-10-18": 127.0,
-        "2026-10-19": 127.0,
-        "2026-10-20": 127.0,
-        "2026-10-21": 129.0,
-        "2026-10-23": 127.0,
-        "2026-10-24": 127.0,
-        "2026-10-25": 127.0,
-        "2026-10-26": 127.0,
-        "2026-10-27": 155.0,
-        "2026-10-28": 127.0,
-        "2026-10-29": 142.0,
-        "2026-10-30": 127.0,
-        "2026-10-31": 127.0,
-        "2026-11-01": 161.0
+        "2026-11-01": 114.68
       },
-      "low_price": 120.76,
-      "prev_price": 127.0,
-      "prev_date": "2026-10-31"
+      "low_price": 114.68,
+      "synced": "2026-11-01"
     },
     {
       "brand": "Polti",

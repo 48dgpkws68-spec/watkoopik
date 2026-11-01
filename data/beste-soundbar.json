@@ -177,58 +177,40 @@
     },
     {
       "brand": "Sony",
-      "name": "Bravia Theater Bar 8 HT-A8000",
-      "price": 640.15,
+      "name": "Bravia Theatre Bar 7",
+      "price": 525.0,
       "score": 8.8,
       "label": null,
-      "reviews": "700+ reviews",
-      "oneliner": "Slanke Atmos-bar met sterk ruimtelijk geluid van Sony.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Compacte Atmos-bar met sterk ruimtelijk geluid en ingebouwde bas.",
       "specs": {
-        "Kanalen": "5.0.2",
-        "Dolby Atmos": "Ja",
-        "Subwoofer": "Optioneel",
+        "Kanalen": "Meerkanaals met opwaartse speakers",
+        "Dolby Atmos": "Ja, ook DTS:X",
+        "Subwoofer": "Ingebouwd, optioneel uit te breiden",
         "Aansluiting": "HDMI eARC",
-        "Streaming": "Wifi, AirPlay 2, Bluetooth"
+        "Streaming": "Wifi, AirPlay, Spotify Connect, Bluetooth"
       },
       "pros": [
-        "360 Spatial Sound Mapping verdeelt geluid knap door de kamer",
-        "Naar boven gerichte drivers voor Atmos",
-        "Zeer goede spraakweergave",
-        "Bediening via de Bravia Connect-app"
+        "360 Spatial Sound Mapping maakt vijf virtuele speakers",
+        "Ingebouwde woofers met passieve radiatoren",
+        "Kalibreert zichzelf op je kamer",
+        "Uitbreidbaar met achterspeakers en subwoofer"
       ],
       "cons": [
-        "Bas is beperkt zonder losse subwoofer",
-        "Duurdere uitbreidingen"
+        "Voor echt diepe bas blijft een losse subwoofer beter",
+        "Uitbreidingen zijn prijzig"
       ],
-      "ideal": "Bezitters van een Sony-tv die een stijlvolle bar met overtuigend Atmos zoeken.",
-      "text": "De Bravia Theater Bar 8 is een middelgrote soundbar van 1,10 meter met elf drivers, waarvan twee naar het plafond spelen. Sony's 360 Spatial Sound Mapping maakt virtuele speakers rond je zitplek. In reviews wordt het ruimtelijke effect met films als een van de sterkste in deze prijsklasse genoemd. Ook stemmen klinken helder, mede door de aparte centertweeter.\n\nMet een Sony Bravia-tv werkt Acoustic Center Sync, waarbij de tv-luidsprekers als centerkanaal meedoen. Je bedient alles via de Bravia Connect-app of de tv-afstandsbediening. De bas is netjes maar niet zwaar: voor actiefilms raden veel kopers de optionele subwoofer SA-SW3 aan. Voor wie de kamer niet vol wil zetten is dit een sterke allrounder met een rustig, strak ontwerp.",
-      "ean": "4548736158665",
-      "bol_title": "Sony Bravia Theatre Bar 8 - Dolby Atmos Soundbar",
-      "url": "https://www.bol.com/nl/nl/p/sony-bravia-theatre-bar-8-dolby-atmos-soundbar-2024/9300000177672013/",
-      "image": "https://media.s-bol.com/yyGn7zDg2OoE/1wGp0Lj/550x246.jpg",
-      "synced": "2026-11-01",
+      "ideal": "Wie een compacte bar wil met overtuigend Atmos en geen losse subwoofer wil plaatsen.",
+      "text": "De Sony Bravia Theatre Bar 7 is een compacte soundbar met Dolby Atmos, DTS:X en IMAX Enhanced. Sony's 360 Spatial Sound Mapping maakt vijf virtuele speakers rond je zitplek door geluid tegen plafond en muren te kaatsen. Je hoort zo surround uit één bar. Met Sound Field Optimisation meet hij je kamer en stemt hij het geluid daarop af, via de app zelfs op jouw zitplaats.\n\nIn de bar zitten tweeters, een middenspeaker, opwaarts gerichte en zijwaartse speakers en woofers met passieve radiatoren. Daardoor heeft hij meer bas dan je van dit formaat verwacht. Je sluit hem aan via HDMI eARC en bedient hem met de tv-afstandsbediening of de Bravia Connect-app. Muziek stream je via AirPlay of Spotify Connect. Kopers op bol geven hem een 5,0. Wil je later meer, dan voeg je draadloze achterspeakers of een subwoofer toe. Voor de prijs is dit een van de sterkste middenklassers.",
+      "ean": "4548736174047",
+      "bol_title": "Sony BRAVIA Theatre Bar 7 - Dolby Atmos Soundbar - 2026",
+      "url": "https://www.bol.com/nl/nl/p/sony-bravia-theatre-bar-7-dolby-atmos-soundbar/9300000269397862/",
+      "image": "https://media.s-bol.com/xDYpk7vBj5vE/W7Gx1PQ/550x168.jpg",
       "ph": {
-        "2026-10-15": 629.0,
-        "2026-10-16": 629.0,
-        "2026-10-17": 629.0,
-        "2026-10-18": 629.0,
-        "2026-10-19": 629.0,
-        "2026-10-20": 629.0,
-        "2026-10-21": 629.0,
-        "2026-10-23": 629.0,
-        "2026-10-24": 629.0,
-        "2026-10-25": 629.0,
-        "2026-10-26": 629.0,
-        "2026-10-27": 499.0,
-        "2026-10-28": 629.0,
-        "2026-10-29": 629.0,
-        "2026-10-30": 629.0,
-        "2026-10-31": 640.0,
-        "2026-11-01": 640.15
+        "2026-11-01": 525.0
       },
-      "low_price": 499.0,
-      "prev_price": 640.0,
-      "prev_date": "2026-10-31"
+      "low_price": 525.0,
+      "synced": "2026-11-01"
     },
     {
       "brand": "Bose",
