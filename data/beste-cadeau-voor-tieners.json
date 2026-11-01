@@ -53,15 +53,16 @@
       "image": "https://media.s-bol.com/nywMmy8gYn85/P1EK3ll/550x651.jpg",
       "ph": {
         "2026-10-30": 83.99,
-        "2026-10-31": 83.99
+        "2026-10-31": 83.99,
+        "2026-11-01": 83.99
       },
       "low_price": 83.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "JBL",
       "name": "Flip 7 bluetooth speaker",
-      "price": 117.5,
+      "price": 119.0,
       "score": 8.9,
       "label": null,
       "reviews": "reviews op bol",
@@ -90,12 +91,13 @@
       "image": "https://media.s-bol.com/4Xx1W484VrkJ/E9JWy3v/550x221.jpg",
       "ph": {
         "2026-10-30": 112.0,
-        "2026-10-31": 117.5
+        "2026-10-31": 117.5,
+        "2026-11-01": 119.0
       },
       "low_price": 112.0,
-      "synced": "2026-10-31",
-      "prev_price": 112.0,
-      "prev_date": "2026-10-30"
+      "synced": "2026-11-01",
+      "prev_price": 117.5,
+      "prev_date": "2026-10-31"
     },
     {
       "brand": "Govee",
@@ -129,10 +131,11 @@
       "image": "https://media.s-bol.com/m91KQE5Eq1pn/mZG2pBO/550x535.jpg",
       "ph": {
         "2026-10-30": 25.49,
-        "2026-10-31": 25.49
+        "2026-10-31": 25.49,
+        "2026-11-01": 25.49
       },
       "low_price": 25.49,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "JBL",
@@ -166,10 +169,11 @@
       "image": "https://media.s-bol.com/EMv11NrVPXoK/rkxqAGL/550x456.jpg",
       "ph": {
         "2026-10-30": 79.95,
-        "2026-10-31": 79.95
+        "2026-10-31": 79.95,
+        "2026-11-01": 79.95
       },
       "low_price": 79.95,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Nintendo",
@@ -203,15 +207,16 @@
       "image": "https://media.s-bol.com/JXVQpJLyo7gD/YErXZNn/519x840.jpg",
       "ph": {
         "2026-10-30": 49.99,
-        "2026-10-31": 49.99
+        "2026-10-31": 49.99,
+        "2026-11-01": 49.99
       },
       "low_price": 49.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Fujifilm",
       "name": "Instax mini Link 3 fotoprinter",
-      "price": 107.0,
+      "price": 113.0,
       "score": 8.7,
       "label": null,
       "reviews": "reviews op bol",
@@ -240,10 +245,13 @@
       "image": "https://media.s-bol.com/qWxPkkEORgVr/J6lw4Qo/550x770.jpg",
       "ph": {
         "2026-10-30": 107.0,
-        "2026-10-31": 107.0
+        "2026-10-31": 107.0,
+        "2026-11-01": 113.0
       },
       "low_price": 107.0,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01",
+      "prev_price": 107.0,
+      "prev_date": "2026-10-31"
     },
     {
       "brand": "Xiaomi",
@@ -280,7 +288,7 @@
         "2026-10-31": 57.99
       },
       "low_price": 49.99,
-      "synced": "2026-10-31",
+      "synced": "2026-11-01",
       "prev_price": 49.99,
       "prev_date": "2026-10-30"
     },
@@ -316,10 +324,11 @@
       "image": "https://media.s-bol.com/jKgrOjzPoXwy/5y7pV1Z/550x787.jpg",
       "ph": {
         "2026-10-30": 169.0,
-        "2026-10-31": 169.0
+        "2026-10-31": 169.0,
+        "2026-11-01": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "BaByliss",
@@ -353,10 +362,11 @@
       "image": "https://media.s-bol.com/yLOkAKJ7YA46/99LjOn8/550x559.jpg",
       "ph": {
         "2026-10-30": 44.8,
-        "2026-10-31": 44.8
+        "2026-10-31": 44.8,
+        "2026-11-01": 44.8
       },
       "low_price": 44.8,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Razer",
@@ -390,10 +400,11 @@
       "image": "https://media.s-bol.com/4yvZBj1lqn6J/9rp1gPx/550x720.jpg",
       "ph": {
         "2026-10-30": 47.99,
-        "2026-10-31": 47.99
+        "2026-10-31": 47.99,
+        "2026-11-01": 47.99
       },
       "low_price": 47.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     }
   ],
   "guide": [

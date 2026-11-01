@@ -53,10 +53,11 @@
       "url": "https://www.bol.com/nl/nl/p/fujifilm-instax-mini-12-instant-camera-blossom-pink/9300000142746730/",
       "image": "https://media.s-bol.com/KDxkY5lkzrRR/xGgMzWJ/550x648.jpg",
       "ph": {
-        "2026-10-31": 83.99
+        "2026-10-31": 83.99,
+        "2026-11-01": 83.99
       },
       "low_price": 83.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Beurer",
@@ -89,10 +90,11 @@
       "url": "https://www.bol.com/nl/nl/p/beurer-warmtekussen-heaty-velvet-blush-rose-draadloos-warmtekussen-elektrisch-oplaadbaar-xl-verwarmd-oppervlak-45x45-cm-5-jaar-garantie-exclusief-bij-bol-com/9300000239014744/",
       "image": "https://media.s-bol.com/q1xgpZz7KLK7/lOWP0lr/550x569.jpg",
       "ph": {
-        "2026-10-31": 83.72
+        "2026-10-31": 83.72,
+        "2026-11-01": 83.72
       },
       "low_price": 83.72,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "BaByliss",
@@ -125,15 +127,16 @@
       "url": "https://www.bol.com/nl/nl/p/babyliss-big-hair-luxe-fohnborstel-as970e-roterend-met-4-opzetstukken-max-50-diameter/9300000000388929/",
       "image": "https://media.s-bol.com/znzp7q0o2PVZ/550x573.jpg",
       "ph": {
-        "2026-10-31": 64.4
+        "2026-10-31": 64.4,
+        "2026-11-01": 64.4
       },
       "low_price": 64.4,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Lancôme",
       "name": "La Vie est Belle eau de parfum 50 ml",
-      "price": 95.0,
+      "price": 105.0,
       "score": 8.8,
       "label": "Beste premium",
       "reviews": "reviews op bol",
@@ -161,10 +164,13 @@
       "url": "https://www.bol.com/nl/nl/p/lancome-la-vie-est-belle-50-ml-eau-de-parfum/9200000010182871/",
       "image": "https://media.s-bol.com/No25op7jrkGL/mZ8vRME/550x568.jpg",
       "ph": {
-        "2026-10-31": 95.0
+        "2026-10-31": 95.0,
+        "2026-11-01": 105.0
       },
       "low_price": 95.0,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01",
+      "prev_price": 95.0,
+      "prev_date": "2026-10-31"
     },
     {
       "brand": "FOREO",
@@ -197,10 +203,11 @@
       "url": "https://www.bol.com/nl/nl/p/foreo-luna-4-mini-smart-2-zone-gezichtsreinigingsborstel-voor-alle-huidtypen-pearl-pink/9300000124487303/",
       "image": "https://media.s-bol.com/mXKJnEyq5l1E/kopr8K/550x527.jpg",
       "ph": {
-        "2026-10-31": 94.99
+        "2026-10-31": 94.99,
+        "2026-11-01": 94.99
       },
       "low_price": 94.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Samsung",
@@ -233,10 +240,11 @@
       "url": "https://www.bol.com/nl/nl/p/oordopjes-samsung-sm-r420nzkaxef-zwart/9300000237365116/",
       "image": "https://media.s-bol.com/RGpWDWAVoMxO/Rg8JVDY/550x554.jpg",
       "ph": {
-        "2026-10-31": 88.0
+        "2026-10-31": 88.0,
+        "2026-11-01": 88.0
       },
       "low_price": 88.0,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Krups",
@@ -269,10 +277,11 @@
       "url": "https://www.bol.com/nl/nl/p/vertuo-pop-coconut-white-capsule-koffiezetapparaat-compact-kleurrijk-espresso-krups-xn9201/9300000116868580/",
       "image": "https://media.s-bol.com/YX4BkKVVkJV2/lOvD4o7/550x433.jpg",
       "ph": {
-        "2026-10-31": 64.99
+        "2026-10-31": 64.99,
+        "2026-11-01": 64.99
       },
       "low_price": 64.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Xiaomi",
@@ -305,15 +314,16 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-band-10-pro-fitnesstracker-1-74-inch-amoled-150-sportmodi-gnss-roze/9300000274089223/",
       "image": "https://media.s-bol.com/xDEMQ2y63Yqz/kZx5pZY/373x840.jpg",
       "ph": {
-        "2026-10-31": 79.99
+        "2026-10-31": 79.99,
+        "2026-11-01": 79.99
       },
       "low_price": 79.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Fossil",
       "name": "JF04956710 collier goudkleurig",
-      "price": 74.99,
+      "price": 84.0,
       "score": 8.3,
       "label": null,
       "reviews": "reviews op bol",
@@ -341,10 +351,13 @@
       "url": "https://www.bol.com/nl/nl/p/fossil-jf04956710-dames-collier-45-72-cm-goudkleurig/9300000258216301/",
       "image": "https://media.s-bol.com/g3JvB4Q9LJlY/8q4Elym/550x550.jpg",
       "ph": {
-        "2026-10-31": 74.99
+        "2026-10-31": 74.99,
+        "2026-11-01": 84.0
       },
       "low_price": 74.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01",
+      "prev_price": 74.99,
+      "prev_date": "2026-10-31"
     },
     {
       "brand": "Rituals",
@@ -377,10 +390,11 @@
       "url": "https://www.bol.com/nl/nl/p/rituals-geschenkset-voor-vrouwen-4-producten-douchegel-200-ml-body-scrub-125-gram-bodycreme-100-ml-eau-de-parfum-15-ml-giftset-vrouw-cadeaudoos-geschenkdoos-doucheschuim-douche-badschuim-douchefoam-sakura-shower-foam/9300000251633011/",
       "image": "https://media.s-bol.com/Y8NEpj1x5LgM/wj4Yw0m/550x416.jpg",
       "ph": {
-        "2026-10-31": 56.0
+        "2026-10-31": 56.0,
+        "2026-11-01": 56.0
       },
       "low_price": 56.0,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     }
   ],
   "guide": [

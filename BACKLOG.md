@@ -217,3 +217,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-cadeau-voor-haar-onder-100-euro | cadeaus | cadeau voor haar | De 10 beste cadeaus voor haar onder 100 euro van 2026 | 🎁
 [x] beste-elektrische-kachel-woonkamer | wonen | elektrische kachel woonkamer | De 10 beste elektrische kachels voor de woonkamer van 2026 | 🔥
 [x] beste-4-seizoenen-dekbed | slapen | 4 seizoenen dekbed | De 10 beste 4-seizoenendekbedden van 2026 | 🛏️
+[x] beste-kerstcadeau-onder-50-euro | cadeaus | kerstcadeau | De 10 beste kerstcadeaus onder 50 euro van 2026 | 🎄
+[x] beste-flanellen-dekbedovertrek | slapen | flanellen dekbedovertrek | De 10 beste flanellen dekbedovertrekken van 2026 | 🛏️

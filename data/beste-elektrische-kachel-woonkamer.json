@@ -54,15 +54,16 @@
       "url": "https://www.bol.com/nl/nl/p/mill-oil2000wifi3-wifi-geintegreerde-design-olieradiator-2000-watt/9300000052349452/",
       "image": "https://media.s-bol.com/gOYAnmYPVA79/o2kXk8z/550x697.jpg",
       "ph": {
-        "2026-10-31": 299.99
+        "2026-10-31": 299.99,
+        "2026-11-01": 299.99
       },
       "low_price": 299.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Eurom",
       "name": "Alutherm 2000 WiFi",
-      "price": 128.29,
+      "price": 130.49,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "200+ reviews",
@@ -92,15 +93,18 @@
       "url": "https://www.bol.com/nl/nl/p/eurom-alutherm-2000-wifi-convectorkachel-2000w-85m3/9200000104460658/",
       "image": "https://media.s-bol.com/YR8nO76wO0kM/rKZW5W/550x280.jpg",
       "ph": {
-        "2026-10-31": 128.29
+        "2026-10-31": 128.29,
+        "2026-11-01": 130.49
       },
       "low_price": 128.29,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01",
+      "prev_price": 128.29,
+      "prev_date": "2026-10-31"
     },
     {
       "brand": "Dimplex",
       "name": "Evandale Opti-myst",
-      "price": 384.04,
+      "price": 374.0,
       "score": 8.9,
       "label": "Beste premium",
       "reviews": "50+ reviews",
@@ -131,10 +135,13 @@
       "url": "https://www.bol.com/nl/nl/p/dimplex-evandale-vrijstaande-elektrische-haard-elektrische-kachel-optimyst-waterdamphaard-sfeerhaard-met-efficiente-verwarming-1000-2000-watt-zwart/9300000195032523/",
       "image": "https://media.s-bol.com/m35vBjN0vpvO/G568xV5/550x521.jpg",
       "ph": {
-        "2026-10-31": 384.04
+        "2026-10-31": 384.04,
+        "2026-11-01": 374.0
       },
-      "low_price": 384.04,
-      "synced": "2026-10-31"
+      "low_price": 374.0,
+      "synced": "2026-11-01",
+      "prev_price": 384.04,
+      "prev_date": "2026-10-31"
     },
     {
       "brand": "Aigostar",
@@ -169,15 +176,16 @@
       "url": "https://www.bol.com/nl/nl/p/aigostar-oil-monster-33jhh-olieradiator-2500-watt-oliegevulde-radiator-elektrische-kachel-zwart/9200000081870205/",
       "image": "https://media.s-bol.com/7R9XgGLYALYw/zm8nMnO/550x625.jpg",
       "ph": {
-        "2026-10-31": 139.99
+        "2026-10-31": 139.99,
+        "2026-11-01": 139.99
       },
       "low_price": 139.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Dimplex",
       "name": "Club Optiflame",
-      "price": 219.0,
+      "price": 199.0,
       "score": 8.6,
       "label": null,
       "reviews": "150+ reviews",
@@ -207,10 +215,13 @@
       "url": "https://www.bol.com/nl/nl/p/dimplex-club-optiflame-elektrische-sfeerhaard-vrijstaande-elektrische-haard-met-houtset-led-vuureffect-2kw-verwarming-en-afstandsbediening/9300000230192045/",
       "image": "https://media.s-bol.com/Joq9GpZx2xxg/984PBP3/550x542.jpg",
       "ph": {
-        "2026-10-31": 219.0
+        "2026-10-31": 219.0,
+        "2026-11-01": 199.0
       },
-      "low_price": 219.0,
-      "synced": "2026-10-31"
+      "low_price": 199.0,
+      "synced": "2026-11-01",
+      "prev_price": 219.0,
+      "prev_date": "2026-10-31"
     },
     {
       "brand": "VONROC",
@@ -245,10 +256,11 @@
       "url": "https://www.bol.com/nl/nl/p/vonroc-luxe-elektrische-kachel-convectorkachel-met-glazen-paneel-1250w-2500w-verwarmt-ruimtes-tot-30m2-bediening-zowel-met-app-als-handmatig-instelbare-thermostaat-en-timer-zwart/9300000242921953/",
       "image": "https://media.s-bol.com/Jpol3QZz83WJ/j2NOyW4/550x527.jpg",
       "ph": {
-        "2026-10-31": 119.95
+        "2026-10-31": 119.95,
+        "2026-11-01": 119.95
       },
       "low_price": 119.95,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Pro Breeze",
@@ -283,15 +295,16 @@
       "url": "https://www.bol.com/nl/nl/p/pro-breeze-omniwarm-elektrische-kachel-met-smart-app-2500w-verplaatsbaar-en-krachtige-wi-fi-olieradiator-ingebouwde-24-uurs-timer-3-modi-verstelbare-thermostaat-en-veiligheidsuitschakeling-wit/9300000190332209/",
       "image": "https://media.s-bol.com/mW1jEMw2mqqn/KrEVpJ8/550x710.jpg",
       "ph": {
-        "2026-10-31": 144.99
+        "2026-10-31": 144.99,
+        "2026-11-01": 144.99
       },
       "low_price": 144.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Eurom",
       "name": "Safe-T-Convect 2400",
-      "price": 72.11,
+      "price": 71.61,
       "score": 8.3,
       "label": null,
       "reviews": "500+ reviews",
@@ -321,10 +334,13 @@
       "url": "https://www.bol.com/nl/nl/p/eurom-safe-t-convect-2400-convector-kachel-360479/9300000083108008/",
       "image": "https://media.s-bol.com/mXv0GVlqB579/mE0DZ0/550x347.jpg",
       "ph": {
-        "2026-10-31": 72.11
+        "2026-10-31": 72.11,
+        "2026-11-01": 71.61
       },
-      "low_price": 72.11,
-      "synced": "2026-10-31"
+      "low_price": 71.61,
+      "synced": "2026-11-01",
+      "prev_price": 72.11,
+      "prev_date": "2026-10-31"
     },
     {
       "brand": "Aigostar",
@@ -359,15 +375,16 @@
       "url": "https://www.bol.com/nl/nl/p/aigostar-ayden-olieradiator-2000w/9300000179073079/",
       "image": "https://media.s-bol.com/Nv7DxjjmOq1m/oYxK1oB/550x652.jpg",
       "ph": {
-        "2026-10-31": 89.99
+        "2026-10-31": 89.99,
+        "2026-11-01": 89.99
       },
       "low_price": 89.99,
-      "synced": "2026-10-31"
+      "synced": "2026-11-01"
     },
     {
       "brand": "Princess",
       "name": "Keramische Kachel 2200 W",
-      "price": 64.99,
+      "price": 61.99,
       "score": 8.0,
       "label": null,
       "reviews": "700+ reviews",
@@ -397,10 +414,13 @@
       "url": "https://www.bol.com/nl/nl/p/princess-keramische-kachel-ceramic-heater-2200w-instelbare-thermostaat-timer-1-24-uur-oscillatie-60-afstandsbediening-zwart-zilver-344559/9300000376846483/",
       "image": "https://media.s-bol.com/J5LqO4DwppY2/zvR7W6y/550x611.jpg",
       "ph": {
-        "2026-10-31": 64.99
+        "2026-10-31": 64.99,
+        "2026-11-01": 61.99
       },
-      "low_price": 64.99,
-      "synced": "2026-10-31"
+      "low_price": 61.99,
+      "synced": "2026-11-01",
+      "prev_price": 64.99,
+      "prev_date": "2026-10-31"
     }
   ],
   "guide": [
