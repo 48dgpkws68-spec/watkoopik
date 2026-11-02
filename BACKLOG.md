@@ -3,9 +3,9 @@
 Formaat: slug | cat | query | titel | emoji
 
 # weekrapport 1 nov 2026: tv, plaid/warmte, strijken en bank scoren (Umami-kliks + bol-orders)
-[ ] beste-adventskalender | cadeaus | adventskalender | De 10 beste adventskalenders van 2026 | 🎁
+[x] beste-adventskalender | cadeaus | adventskalender | De 10 beste adventskalenders van 2026 | 🎁
 [ ] beste-mini-led-tv | elektronica | mini led tv | De 10 beste Mini LED-tv's van 2026 | 📺
-[ ] beste-tv-onder-300-euro | elektronica | tv onder 300 euro | De 10 beste tv's onder 300 euro van 2026 | 📺
+[x] beste-tv-onder-300-euro | elektronica | tv onder 300 euro | De 10 beste tv's onder 300 euro van 2026 | 📺
 [ ] beste-stoomgenerator | huishouden | stoomgenerator | De 10 beste stoomgenerators van 2026 | ♨️
 [x] beste-fleece-plaid | wonen | fleece plaid | De 10 beste fleece plaids van 2026 | 🛋️
 [ ] beste-slaapbank | wonen | slaapbank | De 10 beste slaapbanken van 2026 | 🛋️

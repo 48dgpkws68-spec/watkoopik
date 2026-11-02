@@ -25,7 +25,7 @@
     {
       "brand": "Fujifilm",
       "name": "instax mini 12 Blossom Pink",
-      "price": 83.99,
+      "price": 81.89,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "reviews op bol",
@@ -54,15 +54,18 @@
       "image": "https://media.s-bol.com/KDxkY5lkzrRR/xGgMzWJ/550x648.jpg",
       "ph": {
         "2026-10-31": 83.99,
-        "2026-11-01": 83.99
+        "2026-11-01": 83.99,
+        "2026-11-02": 81.89
       },
-      "low_price": 83.99,
-      "synced": "2026-11-01"
+      "low_price": 81.89,
+      "synced": "2026-11-02",
+      "prev_price": 83.99,
+      "prev_date": "2026-11-01"
     },
     {
       "brand": "Beurer",
       "name": "Heaty Velvet Blush Rose warmtekussen",
-      "price": 83.72,
+      "price": 89.99,
       "score": 9.0,
       "label": null,
       "reviews": "reviews op bol",
@@ -91,10 +94,13 @@
       "image": "https://media.s-bol.com/q1xgpZz7KLK7/lOWP0lr/550x569.jpg",
       "ph": {
         "2026-10-31": 83.72,
-        "2026-11-01": 83.72
+        "2026-11-01": 83.72,
+        "2026-11-02": 89.99
       },
       "low_price": 83.72,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02",
+      "prev_price": 83.72,
+      "prev_date": "2026-11-01"
     },
     {
       "brand": "BaByliss",
@@ -128,10 +134,11 @@
       "image": "https://media.s-bol.com/znzp7q0o2PVZ/550x573.jpg",
       "ph": {
         "2026-10-31": 64.4,
-        "2026-11-01": 64.4
+        "2026-11-01": 64.4,
+        "2026-11-02": 64.4
       },
       "low_price": 64.4,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02"
     },
     {
       "brand": "Lancôme",
@@ -165,10 +172,11 @@
       "image": "https://media.s-bol.com/No25op7jrkGL/mZ8vRME/550x568.jpg",
       "ph": {
         "2026-10-31": 95.0,
-        "2026-11-01": 105.0
+        "2026-11-01": 105.0,
+        "2026-11-02": 105.0
       },
       "low_price": 95.0,
-      "synced": "2026-11-01",
+      "synced": "2026-11-02",
       "prev_price": 95.0,
       "prev_date": "2026-10-31"
     },
@@ -204,15 +212,16 @@
       "image": "https://media.s-bol.com/mXKJnEyq5l1E/kopr8K/550x527.jpg",
       "ph": {
         "2026-10-31": 94.99,
-        "2026-11-01": 94.99
+        "2026-11-01": 94.99,
+        "2026-11-02": 94.99
       },
       "low_price": 94.99,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02"
     },
     {
       "brand": "Samsung",
       "name": "Galaxy Buds3 FE",
-      "price": 88.0,
+      "price": 93.99,
       "score": 8.6,
       "label": null,
       "reviews": "reviews op bol",
@@ -241,15 +250,18 @@
       "image": "https://media.s-bol.com/RGpWDWAVoMxO/Rg8JVDY/550x554.jpg",
       "ph": {
         "2026-10-31": 88.0,
-        "2026-11-01": 88.0
+        "2026-11-01": 88.0,
+        "2026-11-02": 93.99
       },
       "low_price": 88.0,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02",
+      "prev_price": 88.0,
+      "prev_date": "2026-11-01"
     },
     {
       "brand": "Krups",
       "name": "Nespresso Vertuo POP XN9201",
-      "price": 64.99,
+      "price": 74.0,
       "score": 8.6,
       "label": null,
       "reviews": "reviews op bol",
@@ -278,10 +290,13 @@
       "image": "https://media.s-bol.com/YX4BkKVVkJV2/lOvD4o7/550x433.jpg",
       "ph": {
         "2026-10-31": 64.99,
-        "2026-11-01": 64.99
+        "2026-11-01": 64.99,
+        "2026-11-02": 74.0
       },
       "low_price": 64.99,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02",
+      "prev_price": 64.99,
+      "prev_date": "2026-11-01"
     },
     {
       "brand": "Xiaomi",
@@ -315,10 +330,11 @@
       "image": "https://media.s-bol.com/xDEMQ2y63Yqz/kZx5pZY/373x840.jpg",
       "ph": {
         "2026-10-31": 79.99,
-        "2026-11-01": 79.99
+        "2026-11-01": 79.99,
+        "2026-11-02": 79.99
       },
       "low_price": 79.99,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02"
     },
     {
       "brand": "Fossil",
@@ -352,10 +368,11 @@
       "image": "https://media.s-bol.com/g3JvB4Q9LJlY/8q4Elym/550x550.jpg",
       "ph": {
         "2026-10-31": 74.99,
-        "2026-11-01": 84.0
+        "2026-11-01": 84.0,
+        "2026-11-02": 84.0
       },
       "low_price": 74.99,
-      "synced": "2026-11-01",
+      "synced": "2026-11-02",
       "prev_price": 74.99,
       "prev_date": "2026-10-31"
     },
@@ -391,10 +408,11 @@
       "image": "https://media.s-bol.com/Y8NEpj1x5LgM/wj4Yw0m/550x416.jpg",
       "ph": {
         "2026-10-31": 56.0,
-        "2026-11-01": 56.0
+        "2026-11-01": 56.0,
+        "2026-11-02": 56.0
       },
       "low_price": 56.0,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02"
     }
   ],
   "guide": [

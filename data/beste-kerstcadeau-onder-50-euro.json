@@ -52,10 +52,11 @@
       "url": "https://www.bol.com/nl/nl/p/the-ritual-of-ayurveda-giftset-m-2025/9300000242737632/",
       "image": "https://media.s-bol.com/RN8Ey7A3Bq5q/wjznLm8/550x385.jpg",
       "ph": {
-        "2026-11-01": 42.8
+        "2026-11-01": 42.8,
+        "2026-11-02": 42.8
       },
       "low_price": 42.8,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02"
     },
     {
       "brand": "999 Games",
@@ -88,10 +89,11 @@
       "url": "https://www.bol.com/nl/nl/p/999games-catan-basisspel/1004004012362052/",
       "image": "https://media.s-bol.com/3n2QVp1KOz2n/mZmwlAR/550x582.jpg",
       "ph": {
-        "2026-11-01": 34.99
+        "2026-11-01": 34.99,
+        "2026-11-02": 34.99
       },
       "low_price": 34.99,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02"
     },
     {
       "brand": "LEGO",
@@ -124,10 +126,11 @@
       "url": "https://www.bol.com/nl/nl/p/lego-icons-kerstster-poinsettia-10370/9300000182912148/",
       "image": "https://media.s-bol.com/xD1Rongw013B/wmEZX9r/550x552.jpg",
       "ph": {
-        "2026-11-01": 39.9
+        "2026-11-01": 39.9,
+        "2026-11-02": 39.9
       },
       "low_price": 39.9,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02"
     },
     {
       "brand": "JBL",
@@ -160,15 +163,16 @@
       "url": "https://www.bol.com/nl/nl/p/jbl-go-5-draadloze-bluetooth-mini-speaker-voor-onderweg-en-thuis-sfeerverlichting-draadloos-muziek-box-boxje-10-uur-ip68-waterdicht-zwart/9300000252617209/",
       "image": "https://media.s-bol.com/qvQw499vRP1D/kZom2nN/550x376.jpg",
       "ph": {
-        "2026-11-01": 45.75
+        "2026-11-01": 45.75,
+        "2026-11-02": 45.75
       },
       "low_price": 45.75,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02"
     },
     {
       "brand": "Yankee Candle",
       "name": "Christmas Cookie Large Jar",
-      "price": 33.81,
+      "price": 31.32,
       "score": 8.7,
       "label": null,
       "reviews": "reviews op bol",
@@ -196,10 +200,13 @@
       "url": "https://www.bol.com/nl/nl/p/yankee-candle-signature-christmas-cookie-large-jar/9300000133218181/",
       "image": "https://media.s-bol.com/gzv5r1yBnO2j/BNxr4Bk/485x840.jpg",
       "ph": {
-        "2026-11-01": 33.81
+        "2026-11-01": 33.81,
+        "2026-11-02": 31.32
       },
-      "low_price": 33.81,
-      "synced": "2026-11-01"
+      "low_price": 31.32,
+      "synced": "2026-11-02",
+      "prev_price": 33.81,
+      "prev_date": "2026-11-01"
     },
     {
       "brand": "Beurer",
@@ -232,10 +239,11 @@
       "url": "https://www.bol.com/nl/nl/p/beurer-beurer-hk-48-heating-pillow-gray-3-years-warranty/9200000120404669/",
       "image": "https://media.s-bol.com/NA5NjrqGLKNv/Z40Dvov/550x523.jpg",
       "ph": {
-        "2026-11-01": 41.99
+        "2026-11-01": 41.99,
+        "2026-11-02": 41.99
       },
       "low_price": 41.99,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02"
     },
     {
       "brand": "Philips",
@@ -268,15 +276,16 @@
       "url": "https://www.bol.com/nl/nl/p/philips-norelco-oneblade-oneblade-360-qp2724-23-gezicht/9300000179791791/",
       "image": "https://media.s-bol.com/BWgyvpZxDwxX/JZ5lWQo/550x536.jpg",
       "ph": {
-        "2026-11-01": 36.94
+        "2026-11-01": 36.94,
+        "2026-11-02": 36.94
       },
       "low_price": 36.94,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02"
     },
     {
       "brand": "Tristar",
       "name": "Gourmetset RA-2746 8 personen",
-      "price": 37.99,
+      "price": 37.6,
       "score": 8.4,
       "label": null,
       "reviews": "reviews op bol",
@@ -304,15 +313,18 @@
       "url": "https://www.bol.com/nl/nl/p/tristar-ra-2746-gourmetset-en-pizzaoven-voor-8-personen-met-regelbare-thermostaat/9300000086977787/",
       "image": "https://media.s-bol.com/N38JqmX5rYDv/RloP2X0/550x253.jpg",
       "ph": {
-        "2026-11-01": 37.99
+        "2026-11-01": 37.99,
+        "2026-11-02": 37.6
       },
-      "low_price": 37.99,
-      "synced": "2026-11-01"
+      "low_price": 37.6,
+      "synced": "2026-11-02",
+      "prev_price": 37.99,
+      "prev_date": "2026-11-01"
     },
     {
       "brand": "Jan van Haasteren",
       "name": "Kerstmis puzzel 1000 stukjes",
-      "price": 15.95,
+      "price": 18.99,
       "score": 8.3,
       "label": null,
       "reviews": "reviews op bol",
@@ -340,15 +352,18 @@
       "url": "https://www.bol.com/nl/nl/p/jan-van-haasteren-kerstmis-12y/1004004007096209/",
       "image": "https://media.s-bol.com/NqqZJKWDq4pK/kZ4MAq5/550x457.jpg",
       "ph": {
-        "2026-11-01": 15.95
+        "2026-11-01": 15.95,
+        "2026-11-02": 18.99
       },
       "low_price": 15.95,
-      "synced": "2026-11-01"
+      "synced": "2026-11-02",
+      "prev_price": 15.95,
+      "prev_date": "2026-11-01"
     },
     {
       "brand": "Bialetti",
       "name": "Moka Express 6 kops",
-      "price": 33.99,
+      "price": 30.95,
       "score": 8.2,
       "label": null,
       "reviews": "reviews op bol",
@@ -376,10 +391,13 @@
       "url": "https://www.bol.com/nl/nl/p/bialetti-moka-express-percolator-6-kops-aluminium/9200000038446313/",
       "image": "https://media.s-bol.com/xrZzEwgPkw6n/Vm5l6E9/550x511.jpg",
       "ph": {
-        "2026-11-01": 33.99
+        "2026-11-01": 33.99,
+        "2026-11-02": 30.95
       },
-      "low_price": 33.99,
-      "synced": "2026-11-01"
+      "low_price": 30.95,
+      "synced": "2026-11-02",
+      "prev_price": 33.99,
+      "prev_date": "2026-11-01"
     }
   ],
   "guide": [
