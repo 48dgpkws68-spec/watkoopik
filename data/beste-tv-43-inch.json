@@ -326,55 +326,41 @@
       "prev_date": "2026-11-01"
     },
     {
-      "brand": "TCL",
-      "name": "43P79L",
-      "price": 384.0,
+      "brand": "LG",
+      "name": "43QNED70A6A",
+      "price": 377.0,
       "score": 8.4,
       "label": null,
-      "reviews": "20+ reviews",
-      "oneliner": "Nieuwe QLED van TCL met Google TV en brede HDR-ondersteuning.",
+      "reviews": "Nog weinig reviews",
+      "oneliner": "Betaalbare QNED-tv van LG met webOS en quantum-dot-kleuren.",
       "specs": {
-        "Paneel": "QLED",
+        "Paneel": "QNED",
         "Resolutie": "4K",
         "Verversing": "60 Hz",
-        "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "Google TV"
+        "HDR": "HDR10, HLG",
+        "Smart-tv": "webOS"
       },
       "pros": [
-        "Google TV met alle apps",
-        "Dolby Vision en HDR10+",
-        "Modern metalen design",
-        "Quantum dots voor betere kleuren"
+        "Gebruiksvriendelijk webOS met alle apps",
+        "Quantum-dot-techniek voor levendige kleuren",
+        "Scherpe prijs voor een 2025-model",
+        "Compact en licht"
       ],
       "cons": [
-        "Duurder dan vergelijkbare Hisense",
-        "Geen echte 120 Hz"
+        "Geen echte 120 Hz",
+        "Beperkte helderheid voor HDR"
       ],
-      "ideal": "Wie Google TV wil op een 43 inch QLED van het nieuwste jaargang.",
-      "text": "De TCL 43P79L is het 2026-model in de P-serie en combineert een QLED-paneel met Google TV. Die combinatie is op 43 inch minder gebruikelijk dan je denkt: veel QLED-tv's in dit formaat draaien VIDAA of Tizen. Met Google TV heb je de grootste appwinkel en kun je met Chromecast direct video vanaf je telefoon naar het scherm sturen.\n\nDe quantum dots geven duidelijk meer kleur dan een standaard led-tv en zowel Dolby Vision als HDR10+ worden ondersteund. Het paneel draait op 60 Hz. Voor casual gamen is er een gamemodus met lage inputlag, maar wie competitief speelt heeft meer aan de Hisense 43E7S PRO. De behuizing oogt modern met dunne randen en een metalen afwerking. Kopers op bol geven hem gemiddeld 4,4 sterren en zijn vooral positief over de kleuren en het gemak van Google TV. De prijs ligt wat hoger dan bij de directe concurrentie, dus let op aanbiedingen.",
-      "ean": "5901292531379",
-      "bol_title": "TCL 43P79L - 43 inch - 4K QLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-43p79l-43-inch-4k-qled-2026-smart-tv/9300000273452845/",
-      "image": "https://media.s-bol.com/Jm9NQNXyEGjl/W70Oopv/550x349.jpg",
-      "synced": "2026-11-02",
+      "ideal": "Wie een eenvoudige en betaalbare 43 inch tv zoekt met een fijn menu.",
+      "text": "De LG 43QNED70A6A is een instapmodel uit de QNED-serie van LG. QNED combineert een LED-paneel met een laag quantum dots, waardoor kleuren voller ogen dan bij een gewone LED-tv. Op 43 inch is dat een prettige upgrade voor een slaapkamer, studeerkamer of keuken.\n\nDe software is webOS, bekend om het overzichtelijke startscherm en de magische afstandsbediening. Netflix, Disney+, Videoland en NPO Start zijn aanwezig. Het paneel draait op 60 Hz, prima voor series en voetbal, maar niet bedoeld voor serieus gamen op een console. HDR is aanwezig, al haalt een tv in deze prijsklasse niet de helderheid van de duurdere modellen. Kopers op bol geven dit model een vijf, al zijn dat er nog niet veel. Voor ongeveer 380 euro krijg je een nette tv zonder poespas.",
+      "ean": "8806096456743",
+      "bol_title": "LG 43QNED70A6A - 43 inch - 4K QNED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/smart-tv-lg-43qned70a6a-aeu-4k-ultra-hd-43-led-hdr-qned/9300000236621682/",
+      "image": "https://media.s-bol.com/mo7pq6LAD90R/MQ7jvvA/550x342.jpg",
       "ph": {
-        "2026-10-20": 479.0,
-        "2026-10-21": 479.0,
-        "2026-10-23": 384.0,
-        "2026-10-24": 384.0,
-        "2026-10-25": 384.0,
-        "2026-10-26": 384.0,
-        "2026-10-27": 384.0,
-        "2026-10-28": 384.0,
-        "2026-10-29": 384.0,
-        "2026-10-30": 384.0,
-        "2026-10-31": 384.0,
-        "2026-11-01": 384.0,
-        "2026-11-02": 384.0
+        "2026-11-02": 377.0
       },
-      "low_price": 384.0,
-      "prev_price": 479.0,
-      "prev_date": "2026-10-21"
+      "low_price": 377.0,
+      "synced": "2026-11-02"
     },
     {
       "brand": "Xiaomi",

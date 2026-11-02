@@ -18,7 +18,7 @@
   "updated": "2026-10-20",
   "reviews_total": "1.800",
   "intro": "Een QLED-tv is fel, kleurrijk en blijft goed zichtbaar in een lichte woonkamer, waar een OLED het lastiger heeft. Binnen QLED zijn de verschillen groot: van een simpel paneel met quantum dots tot Neo QLED en QD-MiniLED met duizenden dimzones. Wij vergeleken 34 QLED-tv's op paneeltype, beeldfrequentie, HDR-formaten, software en reviews van kopers op bol. Dit zijn de tien beste QLED-tv's van 2026, van een instapper onder de 500 euro tot een topmodel dat tegen OLED op kan.",
-  "verdict": "De Samsung QE55QN83H is de beste QLED-tv voor de meeste mensen: Neo QLED met Mini-LED, een antireflectiefilter en 120 Hz voor rond de 850 euro. De TCL 65Q6C geeft je QD-MiniLED en 144 Hz op 65 inch voor onder de 800 euro en is daarmee de beste prijs-kwaliteit. Wil je de beste QLED die er is, kies dan de TCL 65C89L. Op een klein budget is de Xiaomi TV A Pro een prima start.",
+  "verdict": "De Samsung QE55QN83H is de beste QLED-tv voor de meeste mensen: Neo QLED met Mini-LED, een antireflectiefilter en 120 Hz voor rond de 850 euro. De TCL 65Q6C geeft je QD-MiniLED en 144 Hz op 65 inch voor onder de 800 euro en is daarmee de beste prijs-kwaliteit. Wil je de beste QLED die er is, kies dan de TCL 65Q7D Pro. Op een klein budget is de Xiaomi TV A Pro een prima start.",
   "products": [
     {
       "brand": "Samsung",
@@ -129,54 +129,40 @@
     },
     {
       "brand": "TCL",
-      "name": "65C89L",
-      "price": 1501.0,
+      "name": "65Q7D Pro",
+      "price": 1299.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "60+ reviews",
-      "oneliner": "Topmodel QD-MiniLED uit 2026 met zeer hoge helderheid.",
+      "reviews": "Nog weinig reviews",
+      "oneliner": "SQD-MiniLED-topmodel met 144 Hz en zeer hoge helderheid.",
       "specs": {
         "Formaat": "65 inch",
         "Paneel": "SQD-MiniLED",
         "Beeldfrequentie": "144 Hz",
-        "HDR": "Dolby Vision, HDR10+",
+        "HDR": "Dolby Vision IQ, HDR10+",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "Zeer veel dimzones voor OLED-achtig contrast",
-        "Extreem fel, ideaal voor HDR en daglicht",
-        "144 Hz met VRR en lage input lag",
-        "Uitgebreid geluidssysteem met subwoofer"
+        "Zeer hoge piekhelderheid voor HDR en daglicht",
+        "Veel dimzones voor diep contrast",
+        "144 Hz met VRR voor consoles en pc",
+        "Onkyo-geluidssysteem 2.1"
       ],
       "cons": [
         "Fors duurder dan de Q6C",
-        "Zwaar en diep voor een moderne tv"
+        "Nog weinig reviews op bol"
       ],
       "ideal": "Wie het maximale uit QLED wil halen en een fel alternatief voor OLED zoekt.",
-      "text": "De TCL 65C89L is het antwoord op de vraag hoe ver QLED-techniek in 2026 kan gaan. TCL gebruikt hier SQD-MiniLED: een verfijnde quantum-dotlaag gecombineerd met duizenden dimzones. Het contrast komt daardoor dicht bij dat van een OLED, terwijl de helderheid er ruim boven ligt. HDR-films met felle explosies of zonsondergangen krijgen een kracht die OLED niet haalt.\n\nVoor gamers is er 144 Hz met VRR en een lage input lag. Dolby Vision, HDR10+ en Dolby Atmos zijn allemaal aanwezig, net als Google TV met Chromecast. Het geluidssysteem met ingebouwde subwoofer klinkt voller dan bij de meeste tv's, al blijft een soundbar beter. De tv is wel zwaar en dikker dan een OLED, dus check je meubel of muurbeugel. Kopers op bol geven hem 5 uit 5. Voor ongeveer 1.500 euro krijg je beeld dat tegen tv's van het dubbele bedrag op kan.",
-      "ean": "5901292531119",
-      "bol_title": "TCL 65C89L - 65 inch - 4K SQD-MiniLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65c89l-65-inch-4k-sqd-miniled-2026-smart-tv/9300000273452866/",
-      "image": "https://media.s-bol.com/qzjKG0YGkGrp/k2QwGXr/550x330.jpg",
-      "synced": "2026-11-02",
+      "text": "De TCL 65Q7D Pro is een SQD-MiniLED-tv uit 2026 en vormt de top van het QLED-aanbod van TCL. De quantum-dotlaag in combinatie met honderden dimzones zorgt voor een contrast dat dicht bij OLED komt, terwijl de helderheid daar ver boven uitgaat. Dat maakt hem geschikt voor een lichte woonkamer en voor HDR-films. Volgens de fabrikant haalt hij pieken tot 2000 nits.\n\nVoor gamers is hij interessant: het paneel draait op 144 Hz en ondersteunt VRR. Google TV levert alle bekende apps en Chromecast. Het geluid komt van een 2.1-systeem van Onkyo, dus een losse soundbar is minder nodig. Er staan nog weinig reviews op bol, dus de beoordeling hieronder is gebaseerd op de specificaties. De prijs ligt flink boven de Q6C. Wie dat verschil niet nodig heeft, kiest die.",
+      "ean": "5901292531775",
+      "bol_title": "TCL 65Q7D Pro - 65 inch - 4K SQD-MiniLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65q7d-pro-65-inch-4k-qd-miniled-2026-smart-tv/9300000273452843/",
+      "image": "https://media.s-bol.com/Y36zpnxG0MMK/57nljRX/550x330.jpg",
       "ph": {
-        "2026-10-20": 1497.0,
-        "2026-10-21": 1497.0,
-        "2026-10-23": 1498.0,
-        "2026-10-24": 1498.0,
-        "2026-10-25": 1498.0,
-        "2026-10-26": 1497.0,
-        "2026-10-27": 1497.0,
-        "2026-10-28": 1497.0,
-        "2026-10-29": 1497.0,
-        "2026-10-30": 1499.0,
-        "2026-10-31": 1500.0,
-        "2026-11-01": 1500.0,
-        "2026-11-02": 1501.0
+        "2026-11-02": 1299.0
       },
-      "low_price": 1497.0,
-      "prev_price": 1500.0,
-      "prev_date": "2026-11-01"
+      "low_price": 1299.0,
+      "synced": "2026-11-02"
     },
     {
       "brand": "Hisense",
@@ -540,7 +526,7 @@
     },
     {
       "h": "QLED of OLED: welke past bij jou?",
-      "p": "QLED is feller en heeft geen kans op inbranden, dus ideaal voor een lichte woonkamer, nieuws met vaste logo's en lange gamesessies. OLED geeft perfect zwart en een bredere kijkhoek, het best in een donkere kamer. Een topmodel QD-MiniLED zoals de TCL 65C89L komt in contrast dicht bij OLED en is daarbij feller. Op 75 inch en groter is QLED bovendien flink goedkoper."
+      "p": "QLED is feller en heeft geen kans op inbranden, dus ideaal voor een lichte woonkamer, nieuws met vaste logo's en lange gamesessies. OLED geeft perfect zwart en een bredere kijkhoek, het best in een donkere kamer. Een topmodel QD-MiniLED zoals de TCL 65Q7D Pro komt in contrast dicht bij OLED en is daarbij feller. Op 75 inch en groter is QLED bovendien flink goedkoper."
     },
     {
       "h": "Let op HDR-formaten",
@@ -548,7 +534,7 @@
     },
     {
       "h": "Beeldfrequentie voor gamen",
-      "p": "Voor tv-kijken is 60 Hz genoeg. Speel je op een PS5, Xbox Series X of pc, kies dan een QLED met 120 Hz of 144 Hz, HDMI 2.1 en VRR. In deze lijst halen de TCL 65Q6C, TCL 65C89L, Hisense 55E8S en Hisense 55E7S PRO 144 Hz. Samsung en Philips stoppen bij 120 Hz, wat voor consoles ruim voldoende is."
+      "p": "Voor tv-kijken is 60 Hz genoeg. Speel je op een PS5, Xbox Series X of pc, kies dan een QLED met 120 Hz of 144 Hz, HDMI 2.1 en VRR. In deze lijst halen de TCL 65Q6C, TCL 65Q7D Pro, Hisense 55E8S en Hisense 55E7S PRO 144 Hz. Samsung en Philips stoppen bij 120 Hz, wat voor consoles ruim voldoende is."
     },
     {
       "h": "Welk formaat en welk budget?",

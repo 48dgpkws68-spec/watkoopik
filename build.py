@@ -569,6 +569,9 @@ for g in guides:
     if len(title) > 62: title = "%s | watkoopik" % g["title"]
     desc = "De beste %s van %d is de %s %s (%s). Slimste koop: %s %s voor %s. Bekijk de volledige top 10 met plus- en minpunten, koopgids en FAQ." % (
         seo, YEAR, top["brand"], top["name"], eur(top["price"]), bv["brand"], bv["name"], eur(bv["price"]))
+    # optionele vaste titel/meta op echte Search Console-zoekvragen ({top} = huidige nr. 1)
+    if g.get("meta_title"): title = g["meta_title"]
+    if g.get("meta_desc"): desc = g["meta_desc"].replace("{top}", "%s %s" % (top["brand"], top["name"]))
     page(g["url"], title, desc, body, extra=extra, img=og_img(g, top))
 
 # ---------- aanbiedingen ----------

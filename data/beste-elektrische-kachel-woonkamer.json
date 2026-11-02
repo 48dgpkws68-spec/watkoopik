@@ -484,5 +484,8 @@
       "q": "Mag een elektrische kachel de hele avond aanstaan?",
       "a": "Ja, kachels met thermostaat en beveiliging tegen oververhitting zijn gemaakt om uren te draaien. Zet ze niet onbeheerd aan als je weggaat of slaapt, tenzij er een timer of schema op staat. Steek de stekker direct in het stopcontact en houd een meter afstand tot gordijnen en meubels."
     }
+  ],
+  "rel": [
+    "beste-elektrische-openhaard"
   ]
 }
