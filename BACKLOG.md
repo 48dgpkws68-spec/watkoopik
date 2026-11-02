@@ -226,3 +226,4 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-4-seizoenen-dekbed | slapen | 4 seizoenen dekbed | De 10 beste 4-seizoenendekbedden van 2026 | 🛏️
 [x] beste-kerstcadeau-onder-50-euro | cadeaus | kerstcadeau | De 10 beste kerstcadeaus onder 50 euro van 2026 | 🎄
 [x] beste-flanellen-dekbedovertrek | slapen | flanellen dekbedovertrek | De 10 beste flanellen dekbedovertrekken van 2026 | 🛏️
+[x] beste-kerstcadeau-voor-hem | cadeaus | kerstcadeau voor hem | De 10 beste kerstcadeaus voor hem van 2026 | 🎄
