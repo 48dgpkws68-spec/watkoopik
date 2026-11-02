@@ -379,6 +379,15 @@ fl_imgs = [win(g)["image"] for g in winners[:6]]
 floaters = '<div class="floaters" aria-hidden="true">%s</div>' % "".join('<div class="fl f%d" data-depth="%s"><div class="in"><img src="%s" alt=""></div></div>' % (i + 1, [.6, 1, .4, .8, .3, .5][i], e(im)) for i, im in enumerate(fl_imgs))
 
 newest = sorted(guides, key=lambda g: (g.get("published", g.get("updated", "")), g["slug"]), reverse=True)
+# seizoensblok Sinterklaas en kerst (directeur 2 nov): tv-gidsen eerst (grootste commissie eind okt), dan cadeaugidsen; t/m 25 december
+SEIZOEN_SLUGS = ["beste-tv-55-inch", "beste-tv-65-inch", "beste-tv-onder-500-euro", "beste-sinterklaascadeau-onder-25-euro", "beste-cadeau-voor-hem-onder-50-euro",
+                 "beste-cadeau-voor-haar-onder-50-euro", "beste-kerstcadeau-voor-ouders", "beste-tech-cadeau-onder-100-euro", "beste-cadeau-voor-thuiswerkers", "beste-adventskalender"]
+seizoen = [_by_slug[s] for s in SEIZOEN_SLUGS if s in _by_slug]
+def seizoen_sec(root=""):
+    if not seizoen or TODAY > datetime.date(2026, 12, 25): return ""
+    return '''<section data-hue="1" style="padding-bottom:0"><div class="wrap">
+<div class="sec-head rv"><div><span class="kick">Sinterklaas · Kerst · Black Friday</span><h2>Cadeaus en tv's <span class="grad">voor december</span></h2></div><a class="more" href="%scadeaus/">Alle cadeaugidsen →</a></div>
+<div class="gl">%s</div></div></section>''' % (root, "".join(gcard(g, root) for g in seizoen[:8]))
 home_deals = ('''<section data-hue="1" style="padding-bottom:0"><div class="wrap">
 <div class="sec-head rv"><div><span class="kick">Prijsdalingen</span><h2>Nu <span class="grad">echt goedkoper</span></h2></div><a class="more" href="aanbiedingen/">Alle %d aanbiedingen →</a></div>
 <div class="deals">%s</div></div></section>''' % (len(DEALS), "".join(deal_row(g, p, d, "") for g, p, d in DEALS[:4]))) if DEALS else '''<section data-hue="1" style="padding-bottom:0"><div class="wrap"><p class="muted"><a href="aanbiedingen/">Aanbiedingen</a>: hier verschijnen producten uit onze top 10's die minstens 10%% goedkoper zijn dan eerder gemeten.</p></div></section>'''
@@ -401,6 +410,7 @@ home = '''
 <div class="gl">%s</div>
 </div></section>
 
+%s
 %s
 <section data-hue="1"><div class="wrap">
 <div class="sec-head rv"><div><span class="kick">Categorieën</span><h2>Waar ben je naar <span class="grad">op zoek?</span></h2></div><p>Kies een categorie en zie meteen de winnaars per productsoort.</p></div>
@@ -437,7 +447,7 @@ home = '''
 <p class="muted">watkoopik vergelijkt per productsoort de tien beste modellen die je nu in Nederland kunt kopen. Of je nu de <a href="beste/beste-airfryer.html">beste airfryer</a>, een <a href="beste/beste-stofzuiger.html">stille stofzuiger</a> of <a href="beste/beste-draadloze-oordopjes.html">draadloze oordopjes met noise cancelling</a> zoekt: elke gids begint met drie duidelijke winnaars, gevolgd door een vergelijkingstabel, uitleg per product met plus- en minpunten, een koopgids en antwoorden op veelgestelde vragen. Merken kunnen geen plek kopen. <a href="zo-kiezen-wij.html">Lees hoe wij kiezen</a>.</p>
 </div></section>
 ''' % (floaters, YEAR, searchbox(), top3, chips, len(guides), len(guides), N_PROD, N_PROD, N_REV, format(N_REV, ",").replace(",", "."),
-       marquee(items[:half]), marquee(items[half:], rev=True), "".join(gcard(g) for g in popular[:6]), home_deals, cat_cards, winband, len(guides), "".join(gcard(g) for g in newest[:8]),
+       marquee(items[:half]), marquee(items[half:], rev=True), "".join(gcard(g) for g in popular[:6]), seizoen_sec(), home_deals, cat_cards, winband, len(guides), "".join(gcard(g) for g in newest[:8]),
        len(guides), len(guides), N_PROD, N_PROD, YEAR)
 home_ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": "watkoopik", "url": SITE + "/", "inLanguage": "nl-NL",
             "potentialAction": {"@type": "SearchAction", "target": SITE + "/gidsen.html?q={search_term_string}", "query-input": "required name=search_term_string"}},
@@ -639,9 +649,10 @@ bf_body = '''<div id="bf-live"%s>%s</div><section style="padding-top:34px"><div 
 <p class="muted" style="max-width:760px">Black Friday valt dit jaar op vrijdag 27 november, Cyber Monday op 30 november. Veel kortingen zijn dan minder groot dan ze lijken, omdat de van-prijs een adviesprijs is. Wij meten elke dag de echte bol-prijs van alle %d producten in onze gidsen. Op Black Friday verschijnen op deze pagina automatisch de producten die echt goedkoper zijn geworden. Tot die tijd vind je hieronder de gidsen die nu het meest bekeken worden, zodat je vooraf weet welk model je zoekt.</p>
 <p class="muted" style="font-size:.9rem"><a href="../aanbiedingen/">Bekijk de prijsdalingen van vandaag</a> · <a href="../cadeaus/">Cadeaugidsen</a></p>
 <div class="sec-head" style="margin-top:26px"><h2>Meest bekeken gidsen voor Black Friday</h2></div><div class="gl">%s</div>
+<div class="sec-head" style="margin-top:34px"><h2>Cadeaus en tv's voor Sinterklaas en kerst</h2></div><div class="gl">%s</div>
 <div class="guide" style="margin-top:34px"><h2>Drie tips voor Black Friday</h2><h3>Kies vooraf je model</h3><p>Lees de gids nu al en noteer je favoriet en de prijs van vandaag. Dan zie je op Black Friday meteen of een korting echt iets oplevert.</p><h3>Vergelijk met de prijs van de laatste weken</h3><p>Een korting ten opzichte van een adviesprijs zegt weinig. Op onze aanbiedingenpagina vergelijken we alleen met prijzen die wij zelf hebben gemeten.</p><h3>Let op levertijd en verkoper</h3><p>Bestel cadeaus voor Sinterklaas op tijd. Kijk op bol ook of een product door bol zelf of door een partner wordt verkocht.</p></div></div></section>
 <script>(function(){var d=new Date(),s=new Date(2026,10,27),t=new Date(2026,11,1);var b=document.getElementById("bf-live");if(b&&d>=s&&d<t)b.hidden=false;})()</script>''' % (
-    "" if bf_live else " hidden", bf_deals, N_PROD, "".join(gcard(g, "../") for g in popular[:12]))
+    "" if bf_live else " hidden", bf_deals, N_PROD, "".join(gcard(g, "../") for g in popular[:12]), "".join(gcard(g, "../") for g in seizoen if g not in popular[:12]))
 page("black-friday/index.html", "Black Friday 2026: echte aanbiedingen en de beste koop | watkoopik", "Black Friday 2026 valt op 27 november. Zie welke producten echt goedkoper zijn (gemeten met dagelijkse bol-prijzen) en welke gidsen het meest bekeken worden.", bf_body, root="../")
 
 # ---------- keuzehulp ----------
