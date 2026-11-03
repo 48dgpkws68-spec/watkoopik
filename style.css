@@ -465,7 +465,8 @@ section .wrap.narrow.rv{background:rgba(18,10,40,.5);border:1px solid var(--line
 .own h2{margin:8px 0 6px;font-size:22px}.own p{margin:0 0 8px}.own ul{margin:0 0 12px;padding-left:18px}
 .own-buy{display:flex;align-items:center;gap:14px;flex-wrap:wrap}.own-buy b{font-size:22px}
 .own-disc{font-size:12px;opacity:.7;margin-top:10px!important}
-@media(max-width:700px){.own{grid-template-columns:1fr}.own img{aspect-ratio:16/10}}
+.own-c{grid-template-columns:72px 1fr auto;gap:14px;padding:12px 14px;margin:18px 0 6px;border-width:1px}.own-c .own-n{font-size:16px}.own-c p{margin:4px 0 0;font-size:14px}.own-c .own-disc{margin-top:4px!important;font-size:11px}
+@media(max-width:700px){.own{grid-template-columns:1fr}.own img{aspect-ratio:16/10}.own-c{grid-template-columns:56px 1fr}.own-c img{aspect-ratio:1}.own-c .btn{grid-column:1/-1;justify-content:center}}
 /* 24 okt 2026: podium eerst. Kop boven het podium compacter, volledige disclaimer onder het podium */
 .disc-top{display:inline-block;padding:5px 12px;margin:0;font-size:.76rem}
 .podium+.disc{margin:4px 0 0}
