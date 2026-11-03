@@ -228,3 +228,4 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-flanellen-dekbedovertrek | slapen | flanellen dekbedovertrek | De 10 beste flanellen dekbedovertrekken van 2026 | 🛏️
 [x] beste-kerstcadeau-voor-hem | cadeaus | kerstcadeau voor hem | De 10 beste kerstcadeaus voor hem van 2026 | 🎄
 [x] beste-kerstcadeau-voor-haar | cadeaus | kerstcadeau voor haar | De 10 beste kerstcadeaus voor haar van 2026 | 🎄
+[x] beste-kerstcadeau-voor-kinderen | cadeaus | kerstcadeau kind | De 10 beste kerstcadeaus voor kinderen van 2026 | 🎁
