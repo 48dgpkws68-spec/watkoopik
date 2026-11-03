@@ -54,10 +54,11 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-43-inch-4k-qled-tv/9300000231021635/",
       "image": "https://media.s-bol.com/JoqgkJ41nrwv/Z4jn42J/550x330.jpg",
       "ph": {
-        "2026-11-02": 289.0
+        "2026-11-02": 289.0,
+        "2026-11-03": 289.0
       },
       "low_price": 289.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Hisense",
@@ -91,10 +92,11 @@
       "url": "https://www.bol.com/nl/nl/p/hisense-43a7q-43-inch-4k-qled-2025-smart-tv/9300000232680273/",
       "image": "https://media.s-bol.com/gmZpV86goZ8k/nRQ2mYY/550x353.jpg",
       "ph": {
-        "2026-11-02": 299.0
+        "2026-11-02": 299.0,
+        "2026-11-03": 299.0
       },
       "low_price": 299.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "TCL",
@@ -127,10 +129,11 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-43s51k-full-hd-43-qled-smart-tv/9300000250301883/",
       "image": "https://media.s-bol.com/KD7lAKJ1DyPn/X6zgMPv/550x550.jpg",
       "ph": {
-        "2026-11-02": 239.0
+        "2026-11-02": 239.0,
+        "2026-11-03": 239.0
       },
       "low_price": 239.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "CHiQ",
@@ -164,15 +167,16 @@
       "url": "https://www.bol.com/nl/nl/p/chiq-u43qst-smart-tv-43-inch-qled-pro-google-tv-uhd-4k-randloos-metal-design-dolby-audio-2025-nieuw/9300000238936359/",
       "image": "https://media.s-bol.com/B5E6KJPLrV4n/BLQBRXn/550x363.jpg",
       "ph": {
-        "2026-11-02": 282.74
+        "2026-11-02": 282.74,
+        "2026-11-03": 282.74
       },
       "low_price": 282.74,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "LG",
       "name": "32LQ63006LA",
-      "price": 228.9,
+      "price": 250.47,
       "score": 8.4,
       "label": null,
       "reviews": "900+ reviews",
@@ -201,10 +205,13 @@
       "url": "https://www.bol.com/nl/nl/p/lg-32lq63006la-32-inch-full-hd-led-2022/9300000074859721/",
       "image": "https://media.s-bol.com/0xv0jjNyQQWL/4R6L2k7/550x361.jpg",
       "ph": {
-        "2026-11-02": 228.9
+        "2026-11-02": 228.9,
+        "2026-11-03": 250.47
       },
       "low_price": 228.9,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03",
+      "prev_price": 228.9,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Xiaomi",
@@ -238,10 +245,11 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-32-inch-smart-tv-met-google-tv-google-assistant-spraakbediening-dolby-audio-ci-slot-google-cast/9300000234606853/",
       "image": "https://media.s-bol.com/q3YqNyQ3nGxr/JZ5rGvg/550x408.jpg",
       "ph": {
-        "2026-11-02": 174.0
+        "2026-11-02": 174.0,
+        "2026-11-03": 174.0
       },
       "low_price": 174.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Philips",
@@ -275,10 +283,11 @@
       "url": "https://www.bol.com/nl/nl/p/led-lcd-tv-philips-32pfs6900-12-fhd/9300000229240637/",
       "image": "https://media.s-bol.com/v3MADkywJGwX/D192m2A/550x346.jpg",
       "ph": {
-        "2026-11-02": 269.0
+        "2026-11-02": 269.0,
+        "2026-11-03": 269.0
       },
       "low_price": 269.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "CHiQ",
@@ -312,10 +321,11 @@
       "url": "https://www.bol.com/nl/nl/p/chiq-l40ft-smart-tv-40-inch-led-google-tv-fhd-1080p-randloos-metal-design-dolby-audio-2025-nieuw/9300000238031084/",
       "image": "https://media.s-bol.com/qv8ZGxNlQoVy/oQ726j3/550x400.jpg",
       "ph": {
-        "2026-11-02": 209.99
+        "2026-11-02": 209.99,
+        "2026-11-03": 209.99
       },
       "low_price": 209.99,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Samsung",
@@ -348,15 +358,16 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-32-hd-smart-h5000f/9300000231402342/",
       "image": "https://media.s-bol.com/N38vWW2PDXgp/579Ll7q/550x344.jpg",
       "ph": {
-        "2026-11-02": 199.0
+        "2026-11-02": 199.0,
+        "2026-11-03": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Hisense",
       "name": "32A5Q",
-      "price": 266.32,
+      "price": 300.53,
       "score": 7.9,
       "label": null,
       "reviews": "40+ reviews",
@@ -384,10 +395,13 @@
       "url": "https://www.bol.com/nl/nl/p/32a5q/9300000228941244/",
       "image": "https://media.s-bol.com/nwxRVKQ919MY/57nBwVX/550x349.jpg",
       "ph": {
-        "2026-11-02": 266.32
+        "2026-11-02": 266.32,
+        "2026-11-03": 300.53
       },
       "low_price": 266.32,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03",
+      "prev_price": 266.32,
+      "prev_date": "2026-11-02"
     }
   ],
   "guide": [

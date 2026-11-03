@@ -21,7 +21,7 @@
     {
       "brand": "Dell",
       "name": "Plus S2725QC",
-      "price": 349.0,
+      "price": 351.98,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "600+ reviews",
@@ -50,7 +50,7 @@
       "bol_title": "DELL Plus S2725QC - 4k IPS USB-C Monitor - 120hz - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/dell-plus-s2725qc-computer-monitor-68-6-cm-3840-x-2160-pixels-4k-ultra-hd-lcd-zilver/9300000228931933/",
       "image": "https://media.s-bol.com/WyqVAynOz4Eg/Z6x9GN6/550x495.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-15": 379.0,
         "2026-10-16": 379.0,
@@ -69,16 +69,17 @@
         "2026-10-30": 357.0,
         "2026-10-31": 349.0,
         "2026-11-01": 349.0,
-        "2026-11-02": 349.0
+        "2026-11-02": 349.0,
+        "2026-11-03": 351.98
       },
       "low_price": 349.0,
-      "prev_price": 357.0,
-      "prev_date": "2026-10-30"
+      "prev_price": 349.0,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "LG",
       "name": "UltraGear 27GR83Q-B",
-      "price": 199.0,
+      "price": 204.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "1.300+ reviews",
@@ -107,7 +108,7 @@
       "bol_title": "LG UltraGear 27GR83Q-B - QHD IPS Gaming Monitor - HDMI 2.1 - 240hz - 1ms - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/lg-27gr83q-b-zwart/9300000151067627/",
       "image": "https://media.s-bol.com/mzYNo0M9nrmp/XDw6q3g/550x493.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-15": 199.0,
         "2026-10-16": 199.0,
@@ -126,11 +127,12 @@
         "2026-10-30": 199.0,
         "2026-10-31": 209.0,
         "2026-11-01": 199.0,
-        "2026-11-02": 199.0
+        "2026-11-02": 199.0,
+        "2026-11-03": 204.99
       },
       "low_price": 199.0,
-      "prev_price": 209.0,
-      "prev_date": "2026-10-31"
+      "prev_price": 199.0,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Dell",
@@ -164,15 +166,16 @@
       "url": "https://www.bol.com/nl/nl/p/dell-ultrasharp-u2725qe/9300000226757714/",
       "image": "https://media.s-bol.com/xX1Ax8qpRpzP/N9QRKGz/550x428.jpg",
       "ph": {
-        "2026-11-02": 659.0
+        "2026-11-02": 659.0,
+        "2026-11-03": 659.0
       },
       "low_price": 659.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Samsung",
       "name": "Odyssey G7 LS27FG702EUXEN",
-      "price": 314.52,
+      "price": 312.9,
       "score": 8.9,
       "label": null,
       "reviews": "450+ reviews",
@@ -201,7 +204,7 @@
       "bol_title": "Samsung Odyssey G7 LS27FG702EUXEN - 4K IPS Gaming Monitor - 180Hz - 27 Inch",
       "url": "https://www.bol.com/nl/nl/p/samsung-27-odyssey-g7-g70f-uhd-360hz-gaming-monitor/9300000243306797/",
       "image": "https://media.s-bol.com/2MlWZ3154kov/j2rkgJR/550x428.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-15": 299.0,
         "2026-10-16": 299.0,
@@ -220,11 +223,12 @@
         "2026-10-30": 313.4,
         "2026-10-31": 313.91,
         "2026-11-01": 313.91,
-        "2026-11-02": 314.52
+        "2026-11-02": 314.52,
+        "2026-11-03": 312.9
       },
       "low_price": 299.0,
-      "prev_price": 313.91,
-      "prev_date": "2026-11-01"
+      "prev_price": 314.52,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Dell",
@@ -258,7 +262,7 @@
       "bol_title": "Dell UltraSharp U2724D - QHD IPS Black Monitor - DCI-P3 98% - Infinity Edge - 120hz - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/dell-ultrasharp-u2724d-computer-monitor-68-6-cm-2560-x-1440-pixels-quad-hd-lcd-zwart-zilver/9300000168154027/",
       "image": "https://media.s-bol.com/R74y2yOP63yV/82BmWNj/550x479.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-15": 329.0,
         "2026-10-16": 329.0,
@@ -277,7 +281,8 @@
         "2026-10-30": 357.0,
         "2026-10-31": 357.0,
         "2026-11-01": 357.0,
-        "2026-11-02": 340.0
+        "2026-11-02": 340.0,
+        "2026-11-03": 340.0
       },
       "low_price": 329.0,
       "prev_price": 357.0,
@@ -315,7 +320,7 @@
       "bol_title": "LG UltraFine 27UP850K - 4K IPS Monitor - USB-C 90w - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/lg-27up850k-4k-ips-monitor-geschikt-voor-apple-macbook-usb-c-90w-27-inch/9300000220429352/",
       "image": "https://media.s-bol.com/RyZrWOr2YmqY/Z6R7WmE/550x514.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-15": 279.0,
         "2026-10-16": 279.0,
@@ -334,7 +339,8 @@
         "2026-10-30": 279.0,
         "2026-10-31": 279.0,
         "2026-11-01": 279.0,
-        "2026-11-02": 279.0
+        "2026-11-02": 279.0,
+        "2026-11-03": 279.0
       },
       "low_price": 279.0,
       "prev_price": 289.0,
@@ -372,7 +378,7 @@
       "bol_title": "Dell Pro Plus P2725DE - QHD USB-C Hub Monitor - 90w - RJ45 - EPEAT Climate+ - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/dell-pro-plus-p2725de-qhd-usb-c-hub-monitor-90w-rj45-epeat-climate-24-inch/9300000227898306/",
       "image": "https://media.s-bol.com/8nwp2B496o53/XDGBKXv/550x488.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-15": 295.0,
         "2026-10-16": 295.0,
@@ -391,7 +397,8 @@
         "2026-10-30": 295.0,
         "2026-10-31": 296.95,
         "2026-11-01": 295.0,
-        "2026-11-02": 295.0
+        "2026-11-02": 295.0,
+        "2026-11-03": 295.0
       },
       "low_price": 295.0,
       "prev_price": 296.95,
@@ -429,10 +436,11 @@
       "url": "https://www.bol.com/nl/nl/p/aoc-q27g42ze-wide-quad-gaming-monitor-27-inch-240hz/9300000231096994/",
       "image": "https://media.s-bol.com/rwVlJKLQVPRp/gLQlyE6/550x359.jpg",
       "ph": {
-        "2026-11-02": 169.0
+        "2026-11-02": 169.0,
+        "2026-11-03": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Philips",
@@ -468,10 +476,11 @@
       "image": "https://media.s-bol.com/Z7PQnjrlLPJQ/BrYWroY/550x426.jpg",
       "ph": {
         "2026-11-01": 119.0,
-        "2026-11-02": 119.0
+        "2026-11-02": 119.0,
+        "2026-11-03": 119.0
       },
       "low_price": 119.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Samsung",
@@ -505,7 +514,7 @@
       "bol_title": "Samsung Odyssey G5 LC34G55TWWPXEN - QHD Ultrawide Curved Gaming Monitor - 165Hz - 34 Inch",
       "url": "https://www.bol.com/nl/nl/p/samsung-g5-c34g55twwu-qhd-va-curved-ultrawide-165hz-gaming-monitor-34-inch/9300000018877944/",
       "image": "https://media.s-bol.com/xrpX3JxnM7JJ/k5DD3kJ/550x317.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-15": 248.95,
         "2026-10-16": 248.95,
@@ -524,7 +533,8 @@
         "2026-10-30": 243.46,
         "2026-10-31": 253.95,
         "2026-11-01": 253.95,
-        "2026-11-02": 237.37
+        "2026-11-02": 237.37,
+        "2026-11-03": 237.37
       },
       "low_price": 237.37,
       "prev_price": 253.95,

@@ -24,7 +24,7 @@
     {
       "brand": "Rituals",
       "name": "The Ritual of Ayurveda Giftset",
-      "price": 42.8,
+      "price": 42.53,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "reviews op bol",
@@ -53,10 +53,13 @@
       "image": "https://media.s-bol.com/RN8Ey7A3Bq5q/wjznLm8/550x385.jpg",
       "ph": {
         "2026-11-01": 42.8,
-        "2026-11-02": 42.8
+        "2026-11-02": 42.8,
+        "2026-11-03": 42.53
       },
-      "low_price": 42.8,
-      "synced": "2026-11-02"
+      "low_price": 42.53,
+      "synced": "2026-11-03",
+      "prev_price": 42.8,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "999 Games",
@@ -90,10 +93,11 @@
       "image": "https://media.s-bol.com/3n2QVp1KOz2n/mZmwlAR/550x582.jpg",
       "ph": {
         "2026-11-01": 34.99,
-        "2026-11-02": 34.99
+        "2026-11-02": 34.99,
+        "2026-11-03": 34.99
       },
       "low_price": 34.99,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "LEGO",
@@ -127,10 +131,11 @@
       "image": "https://media.s-bol.com/xD1Rongw013B/wmEZX9r/550x552.jpg",
       "ph": {
         "2026-11-01": 39.9,
-        "2026-11-02": 39.9
+        "2026-11-02": 39.9,
+        "2026-11-03": 39.9
       },
       "low_price": 39.9,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "JBL",
@@ -164,15 +169,16 @@
       "image": "https://media.s-bol.com/qvQw499vRP1D/kZom2nN/550x376.jpg",
       "ph": {
         "2026-11-01": 45.75,
-        "2026-11-02": 45.75
+        "2026-11-02": 45.75,
+        "2026-11-03": 45.75
       },
       "low_price": 45.75,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Yankee Candle",
       "name": "Christmas Cookie Large Jar",
-      "price": 31.32,
+      "price": 31.97,
       "score": 8.7,
       "label": null,
       "reviews": "reviews op bol",
@@ -201,12 +207,13 @@
       "image": "https://media.s-bol.com/gzv5r1yBnO2j/BNxr4Bk/485x840.jpg",
       "ph": {
         "2026-11-01": 33.81,
-        "2026-11-02": 31.32
+        "2026-11-02": 31.32,
+        "2026-11-03": 31.97
       },
       "low_price": 31.32,
-      "synced": "2026-11-02",
-      "prev_price": 33.81,
-      "prev_date": "2026-11-01"
+      "synced": "2026-11-03",
+      "prev_price": 31.32,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Beurer",
@@ -240,10 +247,11 @@
       "image": "https://media.s-bol.com/NA5NjrqGLKNv/Z40Dvov/550x523.jpg",
       "ph": {
         "2026-11-01": 41.99,
-        "2026-11-02": 41.99
+        "2026-11-02": 41.99,
+        "2026-11-03": 41.99
       },
       "low_price": 41.99,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Philips",
@@ -277,15 +285,16 @@
       "image": "https://media.s-bol.com/BWgyvpZxDwxX/JZ5lWQo/550x536.jpg",
       "ph": {
         "2026-11-01": 36.94,
-        "2026-11-02": 36.94
+        "2026-11-02": 36.94,
+        "2026-11-03": 36.94
       },
       "low_price": 36.94,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Tristar",
       "name": "Gourmetset RA-2746 8 personen",
-      "price": 37.6,
+      "price": 37.99,
       "score": 8.4,
       "label": null,
       "reviews": "reviews op bol",
@@ -314,12 +323,13 @@
       "image": "https://media.s-bol.com/N38JqmX5rYDv/RloP2X0/550x253.jpg",
       "ph": {
         "2026-11-01": 37.99,
-        "2026-11-02": 37.6
+        "2026-11-02": 37.6,
+        "2026-11-03": 37.99
       },
       "low_price": 37.6,
-      "synced": "2026-11-02",
-      "prev_price": 37.99,
-      "prev_date": "2026-11-01"
+      "synced": "2026-11-03",
+      "prev_price": 37.6,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Jan van Haasteren",
@@ -353,10 +363,11 @@
       "image": "https://media.s-bol.com/NqqZJKWDq4pK/kZ4MAq5/550x457.jpg",
       "ph": {
         "2026-11-01": 15.95,
-        "2026-11-02": 18.99
+        "2026-11-02": 18.99,
+        "2026-11-03": 18.99
       },
       "low_price": 15.95,
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "prev_price": 15.95,
       "prev_date": "2026-11-01"
     },
@@ -392,10 +403,11 @@
       "image": "https://media.s-bol.com/xrZzEwgPkw6n/Vm5l6E9/550x511.jpg",
       "ph": {
         "2026-11-01": 33.99,
-        "2026-11-02": 30.95
+        "2026-11-02": 30.95,
+        "2026-11-03": 30.95
       },
       "low_price": 30.95,
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "prev_price": 33.99,
       "prev_date": "2026-11-01"
     }

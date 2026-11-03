@@ -24,7 +24,7 @@
     {
       "brand": "Zo! Home",
       "name": "Flanella di Lino Dekbedovertrek 200x220 Grijs",
-      "price": 54.92,
+      "price": 56.12,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "reviews op bol",
@@ -54,12 +54,13 @@
       "image": "https://media.s-bol.com/MGg55Gn7pDvP/DqYmzYx/550x623.jpg",
       "ph": {
         "2026-11-01": 53.92,
-        "2026-11-02": 54.92
+        "2026-11-02": 54.92,
+        "2026-11-03": 56.12
       },
       "low_price": 53.92,
-      "synced": "2026-11-02",
-      "prev_price": 53.92,
-      "prev_date": "2026-11-01"
+      "synced": "2026-11-03",
+      "prev_price": 54.92,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Beddinghouse",
@@ -94,10 +95,11 @@
       "image": "https://media.s-bol.com/mZQkD9NqBg7A/550x715.jpg",
       "ph": {
         "2026-11-01": 69.95,
-        "2026-11-02": 69.95
+        "2026-11-02": 69.95,
+        "2026-11-03": 69.95
       },
       "low_price": 69.95,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Essenza",
@@ -132,10 +134,11 @@
       "image": "https://media.s-bol.com/LO373VnMnnJD/DkKmP8n/550x709.jpg",
       "ph": {
         "2026-11-01": 109.95,
-        "2026-11-02": 93.45
+        "2026-11-02": 93.45,
+        "2026-11-03": 93.45
       },
       "low_price": 93.45,
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "prev_price": 109.95,
       "prev_date": "2026-11-01"
     },
@@ -172,10 +175,11 @@
       "image": "https://media.s-bol.com/7388B2gnQ73Q/550x587.jpg",
       "ph": {
         "2026-11-01": 29.95,
-        "2026-11-02": 29.95
+        "2026-11-02": 29.95,
+        "2026-11-03": 29.95
       },
       "low_price": 29.95,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Heckett & Lane",
@@ -210,10 +214,11 @@
       "image": "https://media.s-bol.com/Ygg658mXzlL2/XLWLQgv/550x412.jpg",
       "ph": {
         "2026-11-01": 45.0,
-        "2026-11-02": 45.0
+        "2026-11-02": 45.0,
+        "2026-11-03": 45.0
       },
       "low_price": 45.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Cinderella",
@@ -248,10 +253,11 @@
       "image": "https://media.s-bol.com/qAzDVZE9jE0p/Z4PZ5J8/550x566.jpg",
       "ph": {
         "2026-11-01": 49.95,
-        "2026-11-02": 49.95
+        "2026-11-02": 49.95,
+        "2026-11-03": 49.95
       },
       "low_price": 49.95,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Damai",
@@ -286,10 +292,11 @@
       "image": "https://media.s-bol.com/R6gj08JGkMAL/550x551.jpg",
       "ph": {
         "2026-11-01": 59.95,
-        "2026-11-02": 59.95
+        "2026-11-02": 59.95,
+        "2026-11-03": 59.95
       },
       "low_price": 59.95,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Eleganzzz",
@@ -324,10 +331,11 @@
       "image": "https://media.s-bol.com/7PZ0ZP3NgQ9Q/VvkWK7v/550x591.jpg",
       "ph": {
         "2026-11-01": 26.95,
-        "2026-11-02": 26.95
+        "2026-11-02": 26.95,
+        "2026-11-03": 26.95
       },
       "low_price": 26.95,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "DoubleDry",
@@ -362,10 +370,11 @@
       "image": "https://media.s-bol.com/qBmGJr2gAMP3/wjgGpXJ/550x457.jpg",
       "ph": {
         "2026-11-01": 39.95,
-        "2026-11-02": 34.96
+        "2026-11-02": 34.96,
+        "2026-11-03": 34.96
       },
       "low_price": 34.96,
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "prev_price": 39.95,
       "prev_date": "2026-11-01"
     },
@@ -401,10 +410,11 @@
       "image": "https://media.s-bol.com/G6GEJrOol9l5/550x713.jpg",
       "ph": {
         "2026-11-01": 59.95,
-        "2026-11-02": 59.95
+        "2026-11-02": 59.95,
+        "2026-11-03": 59.95
       },
       "low_price": 59.95,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     }
   ],
   "guide": [

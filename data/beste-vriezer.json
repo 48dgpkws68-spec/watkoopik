@@ -23,7 +23,7 @@
     {
       "brand": "Bosch",
       "name": "GSN33VWEP Serie 4",
-      "price": 679.0,
+      "price": 690.56,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "640+ reviews",
@@ -51,7 +51,7 @@
       "bol_title": "Bosch GSN33VWEP - Vriezer",
       "url": "https://www.bol.com/nl/nl/p/bosch-vriezer-gsn33vwep/9300000008073976/",
       "image": "https://media.s-bol.com/VVm2Jp4AL2jo/W6qxmDn/330x840.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-16": 699.0,
         "2026-10-17": 683.9,
@@ -69,16 +69,17 @@
         "2026-10-30": 709.0,
         "2026-10-31": 679.0,
         "2026-11-01": 709.0,
-        "2026-11-02": 679.0
+        "2026-11-02": 679.0,
+        "2026-11-03": 690.56
       },
       "low_price": 679.0,
-      "prev_price": 709.0,
-      "prev_date": "2026-11-01"
+      "prev_price": 679.0,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Etna",
       "name": "VV6143NWIT",
-      "price": 418.0,
+      "price": 355.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
       "reviews": "330+ reviews",
@@ -106,7 +107,7 @@
       "bol_title": "ETNA VV6143NWIT - Vrijstaande vriezer - Geschikt voor schuur tot -15°C - No-Frost - 143 cm hoog - Wit - Energielabel E - FastFreeze - Deuralarm",
       "url": "https://www.bol.com/nl/nl/p/etna-vv6143nwit-vriezer-wit/9300000039384600/",
       "image": "https://media.s-bol.com/W33V4wy1ZmMv/lR9DNR5/550x820.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-16": 369.0,
         "2026-10-17": 369.0,
@@ -124,11 +125,12 @@
         "2026-10-30": 418.0,
         "2026-10-31": 418.0,
         "2026-11-01": 418.0,
-        "2026-11-02": 418.0
+        "2026-11-02": 418.0,
+        "2026-11-03": 355.0
       },
-      "low_price": 369.0,
-      "prev_price": 369.0,
-      "prev_date": "2026-10-29"
+      "low_price": 355.0,
+      "prev_price": 418.0,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Samsung",
@@ -161,7 +163,7 @@
       "bol_title": "SAMSUNG RZ32C7BEES9 323L 1-deurs vriezer WiFi",
       "url": "https://www.bol.com/nl/nl/p/samsung-rz32c7bees9-323l-1-deurs-vriezer-wifi/9300000163441830/",
       "image": "https://media.s-bol.com/EVRVB3nNLM2v/ERxj5MW/271x840.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-16": 849.0,
         "2026-10-17": 849.0,
@@ -179,7 +181,8 @@
         "2026-10-30": 849.0,
         "2026-10-31": 849.0,
         "2026-11-01": 849.0,
-        "2026-11-02": 849.0
+        "2026-11-02": 849.0,
+        "2026-11-03": 849.0
       },
       "low_price": 849.0
     },
@@ -219,10 +222,11 @@
         "2026-10-30": 499.0,
         "2026-10-31": 499.0,
         "2026-11-01": 499.0,
-        "2026-11-02": 499.0
+        "2026-11-02": 499.0,
+        "2026-11-03": 499.0
       },
       "low_price": 499.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Beko",
@@ -255,7 +259,7 @@
       "bol_title": "Beko FNE1074N No Frost Tafelmodel Vriezer – 86L – Geschikt voor Schuur/Garage tot -15°C – Wit",
       "url": "https://www.bol.com/nl/nl/p/beko-fne1074n-nofrost-tafelmodel-vriezer/9300000152585371/",
       "image": "https://media.s-bol.com/RJA3l6oVK6gV/xk2r6BJ/539x840.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-16": 329.0,
         "2026-10-17": 329.0,
@@ -273,7 +277,8 @@
         "2026-10-30": 319.0,
         "2026-10-31": 319.0,
         "2026-11-01": 319.0,
-        "2026-11-02": 319.0
+        "2026-11-02": 319.0,
+        "2026-11-03": 319.0
       },
       "low_price": 310.23,
       "prev_price": 310.23,
@@ -310,7 +315,7 @@
       "bol_title": "Inventum VR550 tafelmodel vriezer 88 liter - 55 cm breed - Energielabel D - Diepvries - Compact - Vrijstaand - 3 lades - Wit",
       "url": "https://www.bol.com/nl/nl/p/inventum-vr550-tafelmodel-vriezer-vrijstaand-88-liter-wit/9200000041901846/",
       "image": "https://media.s-bol.com/RxLkg5y8X5wY/l5vLNNJ/550x837.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-16": 249.0,
         "2026-10-17": 249.0,
@@ -328,7 +333,8 @@
         "2026-10-30": 249.0,
         "2026-10-31": 249.0,
         "2026-11-01": 249.0,
-        "2026-11-02": 249.0
+        "2026-11-02": 249.0,
+        "2026-11-03": 249.0
       },
       "low_price": 233.03,
       "prev_price": 233.03,
@@ -369,10 +375,11 @@
       "ph": {
         "2026-10-31": 449.0,
         "2026-11-01": 449.0,
-        "2026-11-02": 449.0
+        "2026-11-02": 449.0,
+        "2026-11-03": 449.0
       },
       "low_price": 449.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Inventum",
@@ -407,10 +414,11 @@
       "image": "https://media.s-bol.com/qvAq5N1Y8Vv7/vomg5Ng/550x351.jpg",
       "ph": {
         "2026-11-01": 474.0,
-        "2026-11-02": 449.0
+        "2026-11-02": 449.0,
+        "2026-11-03": 449.0
       },
       "low_price": 449.0,
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "prev_price": 474.0,
       "prev_date": "2026-11-01"
     },
@@ -445,7 +453,7 @@
       "bol_title": "AEG OAG7M281EW NoFrost - Vriezer - Vrieskast - Vrijstaand",
       "url": "https://www.bol.com/nl/nl/p/aeg-oag7m281ew-nofrost-vriezer-vrieskast-vrijstaand/9300000169616947/",
       "image": "https://media.s-bol.com/qmWYB6OQn4Kr/qwv7Er/275x840.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-16": 779.0,
         "2026-10-17": 779.0,
@@ -463,7 +471,8 @@
         "2026-10-30": 779.0,
         "2026-10-31": 779.0,
         "2026-11-01": 779.0,
-        "2026-11-02": 779.0
+        "2026-11-02": 779.0,
+        "2026-11-03": 779.0
       },
       "low_price": 779.0
     },
@@ -498,7 +507,7 @@
       "bol_title": "Beko RFNE448E45W - NoFrost- Vriezer",
       "url": "https://www.bol.com/nl/nl/p/beko-rfne448e45w-vriezer/9300000014962045/",
       "image": "https://media.s-bol.com/gxGr6qyE7463/l5JRpQg/314x840.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-16": 699.0,
         "2026-10-17": 699.0,
@@ -516,7 +525,8 @@
         "2026-10-30": 675.0,
         "2026-10-31": 675.0,
         "2026-11-01": 675.0,
-        "2026-11-02": 675.0
+        "2026-11-02": 675.0,
+        "2026-11-03": 675.0
       },
       "low_price": 675.0,
       "prev_price": 689.6,

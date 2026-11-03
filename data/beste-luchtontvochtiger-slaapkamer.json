@@ -22,7 +22,7 @@
     {
       "brand": "Qlima",
       "name": "DD 808",
-      "price": 260.77,
+      "price": 268.98,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,6 van 5",
@@ -53,17 +53,18 @@
       "ph": {
         "2026-10-31": 253.67,
         "2026-11-01": 257.17,
-        "2026-11-02": 260.77
+        "2026-11-02": 260.77,
+        "2026-11-03": 268.98
       },
       "low_price": 253.67,
-      "synced": "2026-11-02",
-      "prev_price": 257.17,
-      "prev_date": "2026-11-01"
+      "synced": "2026-11-03",
+      "prev_price": 260.77,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Pro Breeze",
       "name": "Luchtontvochtiger 12L/dag met slaapmodus",
-      "price": 134.99,
+      "price": 118.74,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "200+ reviews",
@@ -91,7 +92,7 @@
       "bol_title": "Pro Breeze 12L/dag Luchtontvochtiger – Digitale Vochtigheidsweergave, Slaapmodus, Continue Afvoer Optie en 24-uurs timer – 1.8L Tank Verwijderd Schimmel, Damp en Vocht - Dehumidifier voor Thuis, Garage en Kelder",
       "url": "https://www.bol.com/nl/nl/p/pro-breeze-luchtontvochtiger-12l-met-afvoerslang/9300000019271064/",
       "image": "https://media.s-bol.com/qk68oqQ2q62p/Dk0GPAy/497x840.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-24": 124.99,
         "2026-10-25": 124.99,
@@ -102,11 +103,12 @@
         "2026-10-30": 134.99,
         "2026-10-31": 134.99,
         "2026-11-01": 134.99,
-        "2026-11-02": 134.99
+        "2026-11-02": 134.99,
+        "2026-11-03": 118.74
       },
-      "low_price": 124.99,
-      "prev_price": 124.99,
-      "prev_date": "2026-10-29"
+      "low_price": 118.74,
+      "prev_price": 134.99,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Meaco",
@@ -139,7 +141,7 @@
       "bol_title": "MeacoDry Arete One 20L - Luchtontvochtiger / Luchtreiniger - Ontvochtigt tot 20L per dag – Voor ruimtes tot 100 m² - Zeer stil - Incl. wasdroogfunctie",
       "url": "https://www.bol.com/nl/nl/p/meacodry-arete-one-20l-luchtontvochtiger/9300000081813706/",
       "image": "https://media.s-bol.com/VROrzr8XmVjo/Mjngv2Q/550x615.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-15": 449.0,
         "2026-10-16": 449.0,
@@ -158,7 +160,8 @@
         "2026-10-30": 448.0,
         "2026-10-31": 449.0,
         "2026-11-01": 449.0,
-        "2026-11-02": 449.0
+        "2026-11-02": 449.0,
+        "2026-11-03": 449.0
       },
       "low_price": 447.0,
       "prev_price": 448.0,
@@ -198,10 +201,11 @@
       "image": "https://media.s-bol.com/gkjP99ZVGB5k/459x840.jpg",
       "ph": {
         "2026-11-01": 179.29,
-        "2026-11-02": 179.29
+        "2026-11-02": 179.29,
+        "2026-11-03": 179.29
       },
       "low_price": 179.29,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Vibrix",
@@ -234,7 +238,7 @@
       "bol_title": "Vibrix DryFlow6 Luchtontvochtiger – 6L per dag – Wasdroogfunctie – Stil & Energiezuinig – Ontvochtiger voor Badkamer, Kelder, Zolder & Slaapkamer – Slimme Dehumidifier",
       "url": "https://www.bol.com/nl/nl/p/vibrix-dryflow6-luchtontvochtiger/9300000231102783/",
       "image": "https://media.s-bol.com/R3n1lO9oQ3yV/nRGq1q7/550x550.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-18": 159.0,
         "2026-10-19": 159.0,
@@ -250,7 +254,8 @@
         "2026-10-30": 159.0,
         "2026-10-31": 159.0,
         "2026-11-01": 159.0,
-        "2026-11-02": 159.0
+        "2026-11-02": 159.0,
+        "2026-11-03": 159.0
       },
       "low_price": 159.0
     },
@@ -285,7 +290,7 @@
       "bol_title": "Qlima D 812 Smart - Luchtontvochtiger - Ontvochtiger 12 Liter per dag - Voorzien van HAF en Koolstoffilter - Geschikt voor Woonkamer, Slaapkamer, Badkamer en Kelder - Bedienbaar via App - Stil in gebruik",
       "url": "https://www.bol.com/nl/nl/p/qlima-d-812-smart-luchtontvochtiger-12l-dag-geschikt-voor-woonkamer-slaapkamer-badkamer-babykamer/9300000158478960/",
       "image": "https://media.s-bol.com/RD2lGoPj3N1q/mZwKkor/550x821.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-18": 181.79,
         "2026-10-19": 181.79,
@@ -301,7 +306,8 @@
         "2026-10-30": 181.79,
         "2026-10-31": 181.79,
         "2026-11-01": 181.79,
-        "2026-11-02": 181.79
+        "2026-11-02": 181.79,
+        "2026-11-03": 181.79
       },
       "low_price": 181.79
     },
@@ -336,7 +342,7 @@
       "bol_title": "De'Longhi Tasciugo AriaDry DEX210SF - Luchtontvochtiger - Wit",
       "url": "https://www.bol.com/nl/nl/p/de-longhi-tasciugo-ariadry-dex210sf-luchtontvochtiger-wit/9300000161805051/",
       "image": "https://media.s-bol.com/YnKKy263nZ8A/QPPm59/520x840.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-14": 200.51,
         "2026-10-15": 200.51,
@@ -356,7 +362,8 @@
         "2026-10-30": 200.51,
         "2026-10-31": 200.51,
         "2026-11-01": 200.51,
-        "2026-11-02": 200.57
+        "2026-11-02": 200.57,
+        "2026-11-03": 200.57
       },
       "low_price": 200.51,
       "prev_price": 200.51,
@@ -393,7 +400,7 @@
       "bol_title": "TROTEC Luchtontvochtiger TTK 26 E",
       "url": "https://www.bol.com/nl/nl/p/trotec-luchtontvochtiger-ttk-26-e/9200000094379670/",
       "image": "https://media.s-bol.com/qMPyrYD7j4Jy/Ro9Bn6R/547x840.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-18": 109.99,
         "2026-10-19": 109.99,
@@ -409,7 +416,8 @@
         "2026-10-30": 109.99,
         "2026-10-31": 109.99,
         "2026-11-01": 109.99,
-        "2026-11-02": 109.99
+        "2026-11-02": 109.99,
+        "2026-11-03": 109.99
       },
       "low_price": 109.99
     },
@@ -444,7 +452,7 @@
       "bol_title": "Dynter Luchtontvochtiger - Dehumidifier - 900 ml/dag - Extra grote 3.8L watertank - Stil (33 dB) met nachtmodus - Timerfunctie - Voor Slaapkamer, Badkamer, Kelder & Kantoor - Compact & Draagbaar - Voorkomt Schimmel & Muffe Lucht (DH251 PRO)",
       "url": "https://www.bol.com/nl/nl/p/dynter-luchtontvochtiger-dehumidifier-900-ml-dag-extra-grote-3-8l-watertank-stil-met-nachtmodus-timerfunctie-voor-slaapkamer-badkamer-kelder-kantoor-compact-draagbaar-voorkomt-schimmel-muffe-lucht/9300000245748883/",
       "image": "https://media.s-bol.com/N330OAG7p7Jp/mqj1o33/550x830.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-18": 89.0,
         "2026-10-19": 89.0,
@@ -460,7 +468,8 @@
         "2026-10-30": 89.0,
         "2026-10-31": 89.0,
         "2026-11-01": 89.0,
-        "2026-11-02": 89.0
+        "2026-11-02": 89.0,
+        "2026-11-03": 89.0
       },
       "low_price": 89.0
     },
@@ -495,7 +504,7 @@
       "bol_title": "JAP Appliances Enivio D3 - Stille Luchtontvochtiger (<35 dB) voor in de slaapkamer en badkamer - 300ml per dag - Geschikt voor ruimtes tot 15m² - Zwart",
       "url": "https://www.bol.com/nl/nl/p/jap-enivio-d3-stille-luchtontvochtiger-luchtreiniger-voor-in-huis-slaapkamer-badkamer-en-kelder/9300000050816425/",
       "image": "https://media.s-bol.com/YVg3JrvpjQz2/VmLNXlX/504x840.jpg",
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "ph": {
         "2026-10-18": 39.5,
         "2026-10-19": 39.5,
@@ -511,7 +520,8 @@
         "2026-10-30": 39.5,
         "2026-10-31": 39.5,
         "2026-11-01": 39.5,
-        "2026-11-02": 39.5
+        "2026-11-02": 39.5,
+        "2026-11-03": 39.5
       },
       "low_price": 39.5
     }

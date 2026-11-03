@@ -4,7 +4,7 @@ Formaat: slug | cat | query | titel | emoji
 
 # weekrapport 1 nov 2026: tv, plaid/warmte, strijken en bank scoren (Umami-kliks + bol-orders)
 [x] beste-adventskalender | cadeaus | adventskalender | De 10 beste adventskalenders van 2026 | 🎁
-[ ] beste-mini-led-tv | elektronica | mini led tv | De 10 beste Mini LED-tv's van 2026 | 📺
+[x] beste-mini-led-tv | elektronica | mini led tv | De 10 beste Mini LED-tv's van 2026 | 📺
 [x] beste-tv-onder-300-euro | elektronica | tv onder 300 euro | De 10 beste tv's onder 300 euro van 2026 | 📺
 [ ] beste-stoomgenerator | huishouden | stoomgenerator | De 10 beste stoomgenerators van 2026 | ♨️
 [x] beste-fleece-plaid | wonen | fleece plaid | De 10 beste fleece plaids van 2026 | 🛋️
@@ -227,3 +227,4 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-kerstcadeau-onder-50-euro | cadeaus | kerstcadeau | De 10 beste kerstcadeaus onder 50 euro van 2026 | 🎄
 [x] beste-flanellen-dekbedovertrek | slapen | flanellen dekbedovertrek | De 10 beste flanellen dekbedovertrekken van 2026 | 🛏️
 [x] beste-kerstcadeau-voor-hem | cadeaus | kerstcadeau voor hem | De 10 beste kerstcadeaus voor hem van 2026 | 🎄
+[x] beste-kerstcadeau-voor-haar | cadeaus | kerstcadeau voor haar | De 10 beste kerstcadeaus voor haar van 2026 | 🎄

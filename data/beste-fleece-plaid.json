@@ -53,10 +53,11 @@
       "image": "https://media.s-bol.com/Y3ZJ5wzj1KkM/XQYnNl8/550x550.jpg",
       "ph": {
         "2026-11-01": 26.99,
-        "2026-11-02": 26.99
+        "2026-11-02": 26.99,
+        "2026-11-03": 26.99
       },
       "low_price": 26.99,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Atmosphera",
@@ -90,10 +91,11 @@
       "image": "https://media.s-bol.com/v401XqywxPOX/k5wWwwX/550x398.jpg",
       "ph": {
         "2026-11-01": 19.76,
-        "2026-11-02": 19.85
+        "2026-11-02": 19.85,
+        "2026-11-03": 19.85
       },
       "low_price": 19.76,
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "prev_price": 19.76,
       "prev_date": "2026-11-01"
     },
@@ -128,10 +130,11 @@
       "image": "https://media.s-bol.com/3Lq4RxJNVZJn/mqXJ9Z9/550x550.jpg",
       "ph": {
         "2026-11-01": 31.99,
-        "2026-11-02": 31.99
+        "2026-11-02": 31.99,
+        "2026-11-03": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Heckett & Lane",
@@ -164,10 +167,11 @@
       "image": "https://media.s-bol.com/g1pRr3mr4PG/550x785.jpg",
       "ph": {
         "2026-11-01": 35.0,
-        "2026-11-02": 35.0
+        "2026-11-02": 35.0,
+        "2026-11-03": 35.0
       },
       "low_price": 35.0,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03"
     },
     {
       "brand": "Ceruzo",
@@ -200,17 +204,18 @@
       "image": "https://media.s-bol.com/m4J3q3800x4r/Nx7LEqL/550x577.jpg",
       "ph": {
         "2026-11-01": 21.85,
-        "2026-11-02": 22.99
+        "2026-11-02": 22.99,
+        "2026-11-03": 22.99
       },
       "low_price": 21.85,
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "prev_price": 21.85,
       "prev_date": "2026-11-01"
     },
     {
       "brand": "Unique Living",
       "name": "Plaid Lars Fleece 150x200 cm",
-      "price": 25.9,
+      "price": 25.85,
       "score": 8.6,
       "label": null,
       "reviews": "150+ reviews",
@@ -238,17 +243,18 @@
       "image": "https://media.s-bol.com/BP7oq2ZEg9Wx/550x321.jpg",
       "ph": {
         "2026-11-01": 25.8,
-        "2026-11-02": 25.9
+        "2026-11-02": 25.9,
+        "2026-11-03": 25.85
       },
       "low_price": 25.8,
-      "synced": "2026-11-02",
-      "prev_price": 25.8,
-      "prev_date": "2026-11-01"
+      "synced": "2026-11-03",
+      "prev_price": 25.9,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Dutch Decor",
       "name": "RICKY Plaid flannel fleece extra dik 150x200 cm",
-      "price": 29.99,
+      "price": 36.99,
       "score": 8.5,
       "label": null,
       "reviews": "300+ reviews",
@@ -276,10 +282,13 @@
       "image": "https://media.s-bol.com/R7J3DkznBvME/qGWnlr/550x347.jpg",
       "ph": {
         "2026-11-01": 29.99,
-        "2026-11-02": 29.99
+        "2026-11-02": 29.99,
+        "2026-11-03": 36.99
       },
       "low_price": 29.99,
-      "synced": "2026-11-02"
+      "synced": "2026-11-03",
+      "prev_price": 29.99,
+      "prev_date": "2026-11-02"
     },
     {
       "brand": "Nice Dreams",
@@ -312,10 +321,11 @@
       "image": "https://media.s-bol.com/3Nr0B40YQ4l4/KOjJjOl/550x522.jpg",
       "ph": {
         "2026-11-01": 24.37,
-        "2026-11-02": 34.95
+        "2026-11-02": 34.95,
+        "2026-11-03": 34.95
       },
       "low_price": 24.37,
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "prev_price": 24.37,
       "prev_date": "2026-11-01"
     },
@@ -350,10 +360,11 @@
       "image": "https://media.s-bol.com/JMPJArRnw28v/9rNQOOx/550x331.jpg",
       "ph": {
         "2026-11-01": 23.0,
-        "2026-11-02": 24.95
+        "2026-11-02": 24.95,
+        "2026-11-03": 24.95
       },
       "low_price": 23.0,
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "prev_price": 23.0,
       "prev_date": "2026-11-01"
     },
@@ -388,10 +399,11 @@
       "image": "https://media.s-bol.com/VDRn0XMg9NA9/jRPqn85/550x543.jpg",
       "ph": {
         "2026-11-01": 12.5,
-        "2026-11-02": 15.99
+        "2026-11-02": 15.99,
+        "2026-11-03": 15.99
       },
       "low_price": 12.5,
-      "synced": "2026-11-02",
+      "synced": "2026-11-03",
       "prev_price": 12.5,
       "prev_date": "2026-11-01"
     }
