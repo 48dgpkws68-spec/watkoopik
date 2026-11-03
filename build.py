@@ -67,6 +67,15 @@ def own_block(g):
     pts = "".join("<li>%s</li>" % e(x) for x in o.get("punten", []))
     return '''<div class="own"><img src="%s" alt="%s" loading="lazy"><div class="own-body"><span class="own-lbl">Ons eigen merk</span><h2>%s</h2><p>%s</p><ul>%s</ul><div class="own-buy"><b>%s</b><a class="btn btn-buy" href="%s" target="_blank" rel="noopener" data-umami-event="eigen-merk-klik" data-umami-event-gids="%s">%s <span class="arr">→</span></a></div><p class="own-disc">%s is het eigen merk van de makers van watkoopik. Dit blok staat los van de onafhankelijke top 10 hieronder en daar verdienen wij direct aan.</p></div></div>''' % (
         e(o["image"]), e(o["name"]), e(o["name"]), e(o["text"]), pts, eur(o["price"]), e(o["url"]), e(g["slug"]), e(o.get("knop", "Bekijk bij " + o["merk"])), e(o["merk"]))
+def own_compact(g):
+    """Compacte variant (eigen_merk.compact): 1 regel met foto, 1 voordeel, prijs en knop; staat onder het podium als eigen_merk.plek = onder."""
+    o = g["eigen_merk"]
+    return '<div class="own own-c"><img src="%s" alt="%s" loading="lazy"><div class="own-body"><span class="own-lbl">Ons eigen merk</span> <b class="own-n">%s</b><p>%s</p><p class="own-disc">Eigen merk van de makers van watkoopik, los van de onafhankelijke top 10.</p></div><a class="btn btn-buy" href="%s" target="_blank" rel="noopener" data-umami-event="eigen-merk-klik" data-umami-event-gids="%s" data-umami-event-variant="compact">%s · %s <span class="arr">→</span></a></div>' % (
+        e(o["image"]), e(o["name"]), e(o["name"]), e(o.get("kort") or o["text"]), e(o["url"]), e(g["slug"]), e(o.get("knop", "Bekijk " + o["merk"])), eur_n(o["price"]))
+def own_pos(g, plek):
+    o = g.get("eigen_merk")
+    if not o or o.get("plek", "boven") != plek: return ""
+    return own_compact(g) if o.get("compact") else own_block(g)
 
 
 def chk_date(p, g):
@@ -561,7 +570,7 @@ for g in guides:
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], e(g["short"]), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
-        own_block(g), podium, "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = g.get("seo") or g["query"]  # zoekterm voor titel en meta; query blijft de bol-zoekterm
