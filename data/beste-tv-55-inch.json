@@ -17,7 +17,7 @@
   "updated": "2026-10-16",
   "reviews_total": "6.000",
   "intro": "Een 55 inch tv is voor de meeste Nederlandse woonkamers het ideale formaat: groot genoeg voor films en sport, maar niet zo groot dat hij de kamer overheerst. De verschillen tussen modellen zijn groot, van een eenvoudige led-tv tot een felle oled. Wij vergeleken de 55 inch tv's die nu bij bol te koop zijn op beeldtechniek, helderheid, HDR, gamefuncties en smart-tv, aangevuld met de ervaringen van kopers. Dit zijn de tien beste.",
-  "verdict": "De LG C5 is de beste 55 inch tv van 2026: perfect zwart, vier HDMI 2.1-poorten en een snel smart-tv-systeem voor rond 1.100 euro. De LG B5 is de beste prijs-kwaliteit omdat je oled-beeld krijgt voor onder de 900 euro. Wil je het mooiste beeld, ook in een lichte kamer, kies dan de LG G5. Op een kleiner budget bieden de Hisense U7Q en E7Q PRO veel tv voor weinig geld.",
+  "verdict": "De LG C5 is de beste 55 inch tv van 2026: perfect zwart, vier HDMI 2.1-poorten en een snel smart-tv-systeem voor rond 1.100 euro. De LG B5 is de beste prijs-kwaliteit omdat je oled-beeld krijgt voor onder de 900 euro. Wil je het mooiste beeld, ook in een lichte kamer, kies dan de LG G5. Op een kleiner budget bieden de Hisense U7Q en E7S PRO veel tv voor weinig geld.",
   "products": [
     {
       "brand": "LG",
@@ -437,59 +437,40 @@
     },
     {
       "brand": "Hisense",
-      "name": "55E7Q PRO",
-      "price": 540.0,
+      "name": "55E7S PRO",
+      "price": 529.0,
       "score": 8.3,
       "label": null,
-      "reviews": "800+ reviews",
-      "oneliner": "Betaalbare QLED met 144 Hz gaming-modus.",
+      "reviews": "bol-score 4,8 van 5",
+      "oneliner": "Betaalbare Hi-QLED met native 144 Hz voor gamers.",
       "specs": {
-        "Paneel": "QLED",
+        "Paneel": "Hi-QLED",
         "Verversing": "144 Hz",
         "HDR": "Dolby Vision, HDR10+",
         "Smart-tv": "VIDAA",
-        "Jaar": "2025"
+        "Jaar": "2026"
       },
       "pros": [
         "Native 144 Hz voor gamers",
-        "Mooie kleuren met Quantum Dot",
-        "Dolby Vision en HDR10+"
+        "Levendige kleuren met Hi-QLED",
+        "Dolby Vision en HDR10+",
+        "Ingebouwde subwoofer"
       ],
       "cons": [
-        "Geen local dimming, zwart is grijzig",
+        "Geen mini-led, zwart is grijzig",
         "Minder fel dan een miniled"
       ],
       "ideal": "Wie een goede gametv zoekt voor een klein budget.",
-      "text": "De Hisense 55E7Q PRO is een van de best beoordeelde betaalbare 55 inch tv's op bol. Het QLED-paneel met Quantum Dot geeft levendige kleuren. Het 4K-beeld is scherp bij streams en films. Hij ondersteunt Dolby Vision en HDR10+, iets wat je in deze prijsklasse niet altijd vindt.\n\nDe grootste troef is de gamemodus. Het paneel draait native op 144 Hz, met VRR en ALLM, zodat de tv automatisch naar de snelste stand schakelt als je je console aanzet. Daarmee is hij een stuk sneller dan de meeste tv's rond 500 euro. Hij heeft geen local dimming, waardoor zwart in een donkere kamer eerder donkergrijs oogt dan bij miniled of oled. Het VIDAA-systeem is snel en heeft de grote streamingapps. Kopers geven hem 4,8 sterren en zijn vooral tevreden over de soepele beelden bij gamen en sport.",
-      "ean": "6942351416212",
-      "bol_title": "Hisense 55E7Q PRO - 55 inch - 4K QLED - 144hz - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/55e7q-pro/9300000227859980/",
-      "image": "https://media.s-bol.com/qz5z1JWDwR9y/gpQJjKj/550x349.jpg",
-      "synced": "2026-11-03",
+      "text": "De Hisense 55E7S PRO is het model van 2026 en de opvolger van de E7Q PRO. Het Hi-QLED-paneel geeft levendige kleuren en het 4K-beeld is scherp bij streams en films. Dolby Vision en HDR10+ worden allebei ondersteund, iets wat je in deze prijsklasse niet altijd vindt. Dolby Atmos en een ingebouwde subwoofer zorgen voor voller geluid dan je van een tv rond 530 euro verwacht.\n\nDe grootste troef is de gamemodus. Het paneel draait native op 144 Hz, met VRR en ALLM, zodat de tv automatisch naar de snelste stand schakelt als je je console aanzet. Daarmee is hij sneller dan de meeste tv's rond 500 euro. Hij heeft geen mini-led, waardoor zwart in een donkere kamer eerder donkergrijs oogt dan bij de U7Q of een oled. VIDAA start snel op en heeft de grote streamingapps. Kopers op bol geven hem gemiddeld 4,8 sterren en zijn vooral tevreden over de soepele beelden bij gamen en sport.",
+      "ean": "6942351432779",
+      "bol_title": "Hisense 55E7S PRO SmartTV - 55 inch - 4K Hi-QLED - 2026 - Native 144Hz Game Mode - Hi-QLED Colour - Built-in Subwoofer - AI Picture - AI Smooth Motion - AMD FreeSync Premium - Dolby Vision Atmos",
+      "url": "https://www.bol.com/nl/nl/p/hisense-55e7s-pro-smarttv-55-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000269685068/",
+      "image": "https://media.s-bol.com/mv623VM2zKQG/k26vrgY/550x369.jpg",
       "ph": {
-        "2026-10-13": 540.0,
-        "2026-10-14": 540.0,
-        "2026-10-15": 540.0,
-        "2026-10-16": 540.0,
-        "2026-10-17": 540.0,
-        "2026-10-18": 540.0,
-        "2026-10-19": 540.0,
-        "2026-10-20": 540.0,
-        "2026-10-21": 540.0,
-        "2026-10-23": 540.0,
-        "2026-10-24": 540.0,
-        "2026-10-25": 540.0,
-        "2026-10-26": 540.0,
-        "2026-10-27": 540.0,
-        "2026-10-28": 540.0,
-        "2026-10-29": 540.0,
-        "2026-10-30": 540.0,
-        "2026-10-31": 540.0,
-        "2026-11-01": 540.0,
-        "2026-11-02": 540.0,
-        "2026-11-03": 540.0
+        "2026-11-03": 529.0
       },
-      "low_price": 540.0
+      "low_price": 529.0,
+      "synced": "2026-11-03"
     },
     {
       "brand": "TCL",
@@ -588,7 +569,7 @@
     },
     {
       "q": "Welke 55 inch tv is het beste om te gamen?",
-      "a": "De LG C5 en LG G5 zijn de beste gametv's dankzij vier HDMI 2.1-poorten, VRR en 144 tot 165 Hz. Op een kleiner budget is de Hisense 55E7Q PRO met native 144 Hz een sterke keuze."
+      "a": "De LG C5 en LG G5 zijn de beste gametv's dankzij vier HDMI 2.1-poorten, VRR en 144 tot 165 Hz. Op een kleiner budget is de Hisense 55E7S PRO met native 144 Hz een sterke keuze."
     }
   ],
   "published": "2026-10-16",

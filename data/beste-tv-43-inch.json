@@ -17,7 +17,7 @@
   "updated": "2026-10-20",
   "reviews_total": "2.800",
   "intro": "Een 43 inch tv koop je meestal voor een slaapkamer, studentenkamer, keuken of een kleine woonkamer waar je op twee tot drie meter van het scherm zit. Op dat formaat zijn er geen oled-tv's meer, dus de keuze draait om led, QLED en een enkele miniled. Wij vergeleken de 43 inch tv's die nu bij bol te koop zijn op beeld, helderheid, smart-tv, gamefuncties en geluid, aangevuld met de ervaringen van kopers. Dit zijn de tien beste.",
-  "verdict": "De Samsung QE43QN92F is de beste 43 inch tv van 2026: miniled, 144 Hz en een beeld dat je op dit formaat bijna nergens anders vindt. De Hisense 43E7S PRO is de beste prijs-kwaliteit met 144 Hz en Dolby Vision voor rond 450 euro. Wil je een tv die als schilderij aan de muur hangt, dan is The Frame de premium keuze. Voor de slaapkamer op een klein budget volstaat de Samsung UE43U7090H.",
+  "verdict": "De Samsung QE43QN92F is de beste 43 inch tv van 2026: miniled, 144 Hz en een beeld dat je op dit formaat bijna nergens anders vindt. De Hisense 43E7S PRO is de beste prijs-kwaliteit met 144 Hz en Dolby Vision voor rond 450 euro. Wil je een tv die als schilderij aan de muur hangt, dan is The Frame de premium keuze. Wil je een Samsung voor de slaapkamer met drie jaar extra garantie, dan is de UE43M74H een veilige keuze.",
   "products": [
     {
       "brand": "Samsung",
@@ -333,11 +333,11 @@
     },
     {
       "brand": "LG",
-      "name": "43QNED70A6A",
-      "price": 377.0,
+      "name": "43QNED80T6A",
+      "price": 399.0,
       "score": 8.4,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Betaalbare QNED-tv van LG met webOS en quantum-dot-kleuren.",
       "specs": {
         "Paneel": "QNED",
@@ -349,24 +349,23 @@
       "pros": [
         "Gebruiksvriendelijk webOS met alle apps",
         "Quantum-dot-techniek voor levendige kleuren",
-        "Scherpe prijs voor een 2025-model",
+        "Magic Remote met aanwijsfunctie",
         "Compact en licht"
       ],
       "cons": [
         "Geen echte 120 Hz",
         "Beperkte helderheid voor HDR"
       ],
-      "ideal": "Wie een eenvoudige en betaalbare 43 inch tv zoekt met een fijn menu.",
-      "text": "De LG 43QNED70A6A is een instapmodel uit de QNED-serie van LG. QNED combineert een LED-paneel met een laag quantum dots, waardoor kleuren voller ogen dan bij een gewone LED-tv. Op 43 inch is dat een prettige upgrade voor een slaapkamer, studeerkamer of keuken.\n\nDe software is webOS, bekend om het overzichtelijke startscherm en de magische afstandsbediening. Netflix, Disney+, Videoland en NPO Start zijn aanwezig. Het paneel draait op 60 Hz, prima voor series en voetbal, maar niet bedoeld voor serieus gamen op een console. HDR is aanwezig, al haalt een tv in deze prijsklasse niet de helderheid van de duurdere modellen. Kopers op bol geven dit model een vijf, al zijn dat er nog niet veel. Voor ongeveer 380 euro krijg je een nette tv zonder poespas.",
-      "ean": "8806096456743",
-      "bol_title": "LG 43QNED70A6A - 43 inch - 4K QNED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/smart-tv-lg-43qned70a6a-aeu-4k-ultra-hd-43-led-hdr-qned/9300000236621682/",
-      "image": "https://media.s-bol.com/mo7pq6LAD90R/MQ7jvvA/550x342.jpg",
+      "ideal": "Wie een eenvoudige 43 inch tv zoekt met een fijn menu.",
+      "text": "De LG 43QNED80T6A komt uit de QNED-serie van 2024. QNED combineert een led-paneel met een laag quantum dots, waardoor kleuren voller ogen dan bij een gewone led-tv. Op 43 inch is dat een prettige upgrade voor een slaapkamer, studeerkamer of keuken. Tegenover de nieuwere QNED84 hoger in deze lijst lever je weinig in voor dagelijks kijken.\n\nDe software is webOS, bekend om het overzichtelijke startscherm en de Magic Remote die werkt als een muisaanwijzer. Netflix, Disney+, Videoland en NPO Start zijn aanwezig. Het paneel draait op 60 Hz, prima voor series en voetbal, maar niet bedoeld voor serieus gamen op een console. HDR10 en HLG worden ondersteund, al haalt een tv in deze prijsklasse niet de helderheid van de duurdere modellen. Kopers op bol geven gemiddeld 4,3 sterren. Voor ongeveer 400 euro krijg je een nette tv zonder poespas.",
+      "ean": "8806091952202",
+      "bol_title": "LG 43QNED80T6A - 43 inch - 4K QNED - 2024",
+      "url": "https://www.bol.com/nl/nl/p/lg-43qned80t6a-43-inch-4k-qned-2024/9300000176724691/",
+      "image": "https://media.s-bol.com/DVjq1oWGKQLA/mZMGLDn/550x345.jpg",
       "ph": {
-        "2026-11-02": 377.0,
-        "2026-11-03": 377.0
+        "2026-11-03": 399.0
       },
-      "low_price": 377.0,
+      "low_price": 399.0,
       "synced": "2026-11-03"
     },
     {
@@ -423,53 +422,40 @@
     },
     {
       "brand": "Samsung",
-      "name": "UE43U7090H",
-      "price": 349.0,
+      "name": "UE43M74H",
+      "price": 419.0,
       "score": 8.1,
       "label": null,
-      "reviews": "30+ reviews",
-      "oneliner": "Simpele Samsung voor de slaapkamer met drie jaar extra garantie.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "Betaalbare mini-led van Samsung met drie jaar extra garantie.",
       "specs": {
-        "Paneel": "LED",
+        "Paneel": "Mini-led",
         "Resolutie": "4K",
         "Verversing": "60 Hz",
         "HDR": "HDR10+, HLG",
         "Smart-tv": "Tizen"
       },
       "pros": [
-        "Betrouwbaar merk voor een lage prijs",
+        "Mini-led voor een betaalbare prijs",
         "Drie jaar extra garantie via bol",
         "Tizen met alle Nederlandse apps",
-        "Zuinig en dun"
+        "Hoge beoordeling van kopers"
       ],
       "cons": [
-        "Geen quantum dots",
-        "Contrast en helderheid zijn basis"
+        "Geen 120 Hz voor gamers",
+        "Geen Dolby Vision"
       ],
       "ideal": "Wie een betrouwbare tv voor de slaapkamer of keuken wil en vooral tv kijkt en streamt.",
-      "text": "De UE43U7090H is de basis-tv van Samsung voor 2026. Hij doet niets spectaculairs, maar wel alles wat je van een tweede tv verwacht. Het 4K-paneel is scherp op een korte kijkafstand en de Crystal-processor schaalt gewone zenders netjes op. Tizen start snel op en heeft NPO Start, Videoland, Netflix en Ziggo GO.\n\nBij bol krijg je er drie jaar extra garantie bij, wat bij een tv van deze prijs een prettige zekerheid is. HDR10+ wordt ondersteund, al is het paneel niet fel genoeg om HDR echt te laten knallen. Ook zonder quantum dots zijn de kleuren netjes, maar minder verzadigd dan bij de QLED-modellen in deze lijst. Gamers vinden een gamemodus met lage inputlag, maar geen 120 Hz. Kopers op bol geven hem de volle 5 sterren en noemen vooral het gemak en de betrouwbaarheid. Zoek je een tv waar je niet over na hoeft te denken, dan is dit de veilige keuze.",
-      "ean": "8806099138912",
-      "bol_title": "Samsung UE43U7090H - 43 inch - 4K LED - 2026 + 3 jaar extra garantie - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-ue43u7090h-43-inch-4k-led-2026-smart-tv/9300000332667099/",
-      "image": "https://media.s-bol.com/K36gx5OzBzBl/28v1q1z/550x348.jpg",
-      "synced": "2026-11-03",
+      "text": "De UE43M74H is een van de goedkoopste manieren om een Samsung met mini-led in huis te halen. Kleinere leds achter het scherm geven meer helderheid dan een standaard led-tv, waardoor het beeld ook overdag in een lichte kamer goed zichtbaar blijft. Het 4K-paneel is scherp op een korte kijkafstand. Tizen start snel op en heeft NPO Start, Videoland, Netflix en Ziggo GO.\n\nBij bol krijg je er drie jaar extra garantie bij, wat bij een tweede tv een prettige zekerheid is. HDR10+ wordt ondersteund, Dolby Vision niet. Het paneel draait op 60 Hz: gamers vinden een gamemodus met lage inputlag, maar geen 120 Hz. Kopers op bol geven gemiddeld 4,7 sterren en noemen vooral het heldere beeld en het gemak. Zoek je een Samsung waar je niet over na hoeft te denken, dan is dit de veilige keuze voor de slaapkamer of keuken.",
+      "ean": "8806099134440",
+      "bol_title": "Samsung UE43M74H - 43 inch - 4K MiniLED - 2026 + 3 jaar extra garantie - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/samsung-43m74h-43-inch-4k-miniled-2026-smart-tv/9300000284690215/",
+      "image": "https://media.s-bol.com/3WAMvXKjZ6Nn/1Wl6J7V/550x347.jpg",
       "ph": {
-        "2026-10-20": 349.0,
-        "2026-10-21": 349.0,
-        "2026-10-23": 349.0,
-        "2026-10-24": 349.0,
-        "2026-10-25": 349.0,
-        "2026-10-26": 349.0,
-        "2026-10-27": 349.0,
-        "2026-10-28": 349.0,
-        "2026-10-29": 349.0,
-        "2026-10-30": 349.0,
-        "2026-10-31": 349.0,
-        "2026-11-01": 349.0,
-        "2026-11-02": 349.0,
-        "2026-11-03": 349.0
+        "2026-11-03": 419.0
       },
-      "low_price": 349.0
+      "low_price": 419.0,
+      "synced": "2026-11-03"
     },
     {
       "brand": "TCL",

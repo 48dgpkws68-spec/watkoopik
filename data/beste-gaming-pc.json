@@ -269,52 +269,41 @@
       "prev_date": "2026-10-27"
     },
     {
-      "brand": "FlowUP",
-      "name": "Titan (Ryzen 7 9800X3D, RTX 5070 Ti)",
-      "price": 2899.0,
+      "brand": "Fractal Design",
+      "name": "North Gaming PC (Ryzen 7 9800X3D, RTX 5070 Ti)",
+      "price": 2789.0,
       "score": 8.8,
       "label": null,
-      "reviews": "60+ reviews",
-      "oneliner": "Snelste gamingprocessor met RTX 5070 Ti en 2 TB opslag.",
+      "reviews": "nieuw op bol",
+      "oneliner": "Snelste gamingprocessor met RTX 5070 Ti in een stijlvolle Fractal North-kast.",
       "specs": {
         "Processor": "AMD Ryzen 7 9800X3D",
         "Videokaart": "RTX 5070 Ti (16 GB)",
         "Geheugen": "32 GB DDR5",
-        "Opslag": "2 TB SSD",
+        "Opslag": "1 TB SSD",
         "Geschikt voor": "1440p ultra, 4K"
       },
       "pros": [
         "9800X3D is de snelste gamingprocessor van dit moment",
-        "RTX 5070 Ti met 16 GB videogeheugen",
-        "2 TB SSD voor een grote gamebibliotheek",
-        "Waterkoeling en veel RGB"
+        "RTX 5070 Ti met 16 GB GDDR7",
+        "Rustige Fractal North-kast met houten front",
+        "850 watt voeding en 4 jaar carry-in garantie"
       ],
       "cons": [
-        "Duurder dan een merk-pc met vergelijkbare videokaart",
-        "Veel verlichting, niet voor wie een sobere pc zoekt"
+        "1 TB opslag raakt snel vol met grote games",
+        "Nog weinig reviews op bol"
       ],
-      "ideal": "Fanatieke gamers die maximale fps willen op een 1440p-monitor met hoge refreshrate.",
-      "text": "FlowUP is een Nederlandse samensteller die op bol veel gaming pc's verkoopt en de Titan is een van de sterkste configuraties uit hun lijn. Het hart is de AMD Ryzen 7 9800X3D, die in vrijwel alle benchmarks de snelste processor puur voor gamen is. Gekoppeld aan een MSI RTX 5070 Ti met 16 GB haal je in 1440p op ultra zeer hoge framerates, ook in cpu-zware games als Baldur's Gate 3 en Escape from Tarkov.\n\nVerder krijg je 32 GB DDR5, een 2 TB NVMe-SSD en een waterkoeler op de processor. De kast heeft een glazen front met veel RGB-ventilatoren. Een voordeel van een samensteller is dat je standaard onderdelen krijgt die je later eenvoudig vervangt. Kopers op bol geven FlowUP gemiddeld 4,8 sterren en prijzen de snelle levering en de nette kabelafwerking. Je betaalt wel ongeveer 400 euro meer dan voor de Lenovo Legion T5 met dezelfde videokaart.",
-      "ean": "5419980602183",
-      "bol_title": "FlowUP Titan - Gaming PC - AMD Ryzen 7 9800X3D - MSI RTX 5070 Ti 16GB - 32GB DDR5 RAM - 2TB - Waterkoeling",
-      "url": "https://www.bol.com/nl/nl/p/flowup-titan-gaming-pc-amd-ryzen-7-9800x3d-nvidia-rtx-5070-ti-16gb-32gb-ddr5-ram-2tb-waterkoeling/9300000241662120/",
-      "image": "https://media.s-bol.com/qBk36NZ84m0p/k5jr7ZK/550x582.jpg",
-      "synced": "2026-11-03",
+      "ideal": "Gamers die maximale fps op een 1440p-monitor willen in een pc die er in de woonkamer goed uitziet.",
+      "text": "Deze gaming pc wordt gebouwd in de Fractal Design North, een kast met een front van echt hout en een sobere zwarte afwerking. Wie geen pc vol RGB-verlichting naast de tv wil, vindt hier een rustig alternatief. Binnenin zit de AMD Ryzen 7 9800X3D, die in vrijwel alle benchmarks de snelste processor puur voor gamen is. Gekoppeld aan een RTX 5070 Ti met 16 GB GDDR7 haal je in 1440p op ultra zeer hoge framerates, ook in cpu-zware games als Baldur's Gate 3.\n\nVerder krijg je 32 GB DDR5, een 1 TB NVMe-SSD, wifi 6 en Bluetooth en een be quiet! Pure Rock 3-koeler. De voeding levert 850 watt, genoeg ruimte voor een latere upgrade. Windows 11 Pro is vooraf geïnstalleerd en de verkoper geeft 4 jaar carry-in garantie. Omdat de pc standaard onderdelen gebruikt, vervang je later eenvoudig een SSD of videokaart. De configuratie is nieuw op bol, dus er zijn nog weinig kopersreviews.",
+      "ean": "8721447841620",
+      "bol_title": "Fractal Design North Gaming PC - AMD Ryzen 7 9800X3D - NVIDIA RTX 5070 Ti - 32 GB RAM - 1 TB SSD - WiFi - BT",
+      "url": "https://www.bol.com/nl/nl/p/fractal-design-north-gaming-pc-amd-ryzen-7-9800x3d-nvidia-rtx-5070-ti-16-gb-gddr7-32-gb-ddr5-1-tb-ssd-wifi-bluetooth-windows-11-pro/9300000260189272/",
+      "image": "https://media.s-bol.com/q3ZV2kmjvNR3/oYLEG8L/550x626.jpg",
       "ph": {
-        "2026-10-21": 2899.0,
-        "2026-10-23": 2899.0,
-        "2026-10-24": 2899.0,
-        "2026-10-25": 2899.0,
-        "2026-10-26": 2899.0,
-        "2026-10-27": 2899.0,
-        "2026-10-28": 2899.0,
-        "2026-10-29": 2899.0,
-        "2026-10-30": 2899.0,
-        "2026-10-31": 2899.0,
-        "2026-11-01": 2899.0,
-        "2026-11-02": 2899.0
+        "2026-11-03": 2789.0
       },
-      "low_price": 2899.0
+      "low_price": 2789.0,
+      "synced": "2026-11-03"
     },
     {
       "brand": "MSI",
@@ -342,7 +331,7 @@
         "Nog weinig reviews op bol"
       ],
       "ideal": "Gamers die veel rasterprestaties en 16 GB videogeheugen willen zonder Nvidia-meerprijs.",
-      "text": "Deze pc wordt samengesteld in een MSI Pano-kast, een behuizing met glas aan de voor- en zijkant waardoor je alle onderdelen ziet. Binnenin zit een volledig AMD-platform: de Ryzen 7 9800X3D en de Radeon RX 9070 XT. Die videokaart heeft 16 GB GDDR6 en zit in gewone games zonder raytracing dicht bij de RTX 5070 Ti, terwijl de totale pc ruim 500 euro goedkoper is dan de FlowUP Titan.\n\nMet FSR 4 heeft AMD zijn upscaling flink verbeterd, al is DLSS 4 in meer games beschikbaar en blijft Nvidia sterker in zware raytracing. Er zit 32 GB DDR5, een 1 TB SSD, WiFi en Bluetooth in. Het AM5-platform krijgt de komende jaren nog nieuwe processors, dus je kunt later upgraden zonder nieuw moederbord. Omdat deze configuratie nieuw op bol is, zijn er nog weinig kopersreviews. Reviews van de losse onderdelen zijn wel zeer positief.",
+      "text": "Deze pc wordt samengesteld in een MSI Pano-kast, een behuizing met glas aan de voor- en zijkant waardoor je alle onderdelen ziet. Binnenin zit een volledig AMD-platform: de Ryzen 7 9800X3D en de Radeon RX 9070 XT. Die videokaart heeft 16 GB GDDR6 en zit in gewone games zonder raytracing dicht bij de RTX 5070 Ti, terwijl de totale pc ruim 400 euro goedkoper is dan de Fractal Design North.\n\nMet FSR 4 heeft AMD zijn upscaling flink verbeterd, al is DLSS 4 in meer games beschikbaar en blijft Nvidia sterker in zware raytracing. Er zit 32 GB DDR5, een 1 TB SSD, WiFi en Bluetooth in. Het AM5-platform krijgt de komende jaren nog nieuwe processors, dus je kunt later upgraden zonder nieuw moederbord. Omdat deze configuratie nieuw op bol is, zijn er nog weinig kopersreviews. Reviews van de losse onderdelen zijn wel zeer positief.",
       "ean": "8721447841965",
       "bol_title": "MSI Pano Gaming PC - AMD Ryzen 7 9800X3D - Radeon RX 9070 XT - 32 GB RAM - 1 TB SSD - WiFi - BT",
       "url": "https://www.bol.com/nl/nl/p/msi-pano-gaming-pc-amd-ryzen-7-9800x3d-radeon-rx-9070-xt-32-gb-ram-1-tb-ssd-wifi-bt/9300000266928300/",

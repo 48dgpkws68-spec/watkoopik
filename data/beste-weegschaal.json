@@ -16,7 +16,7 @@
   "updated": "2026-10-14",
   "reviews_total": "31.200",
   "intro": "Een slimme weegschaal meet niet alleen je gewicht maar schat ook je vetpercentage, spiermassa en vochtgehalte in. De resultaten komen automatisch in een app, zodat je trends ziet in plaats van losse getallen. Wij vergeleken 29 modellen op nauwkeurigheid volgens gebruikers, aantal metingen, wifi en Bluetooth, koppeling met apps als Apple Gezondheid en Google Fit, batterijduur en gebruiksgemak. Het resultaat zijn tien weegschalen van 25 tot 400 euro.",
-  "verdict": "De Withings Body Smart is de beste slimme weegschaal van 2026: betrouwbare metingen, wifi-synchronisatie en een app die overzichtelijk en zonder abonnement werkt. De eufy Smart Scale P2 Pro is de beste prijs-kwaliteit met 16 metingen en wifi voor een fractie van de prijs. Wil je het meest uitgebreide overzicht, dan is de Withings Body Scan de beste premium keuze met een handgreep voor segmentmetingen.",
+  "verdict": "De Withings Body Smart is de beste slimme weegschaal van 2026: betrouwbare metingen, wifi-synchronisatie en een app die overzichtelijk en zonder abonnement werkt. De Renpho Elis Nova is de beste prijs-kwaliteit met 18 metingen en wifi voor een fractie van de prijs. Wil je het meest uitgebreide overzicht, dan is de Withings Body Scan de beste premium keuze met een handgreep voor segmentmetingen.",
   "products": [
     {
       "brand": "Withings",
@@ -77,58 +77,41 @@
       "prev_date": "2026-11-02"
     },
     {
-      "brand": "eufy",
-      "name": "Smart Scale P2 Pro T9149",
-      "price": 59.99,
+      "brand": "Renpho",
+      "name": "Elis Nova",
+      "price": 69.99,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "6.400+ reviews",
-      "oneliner": "Zestien metingen en wifi voor een budgetprijs.",
+      "reviews": "4,4 sterren op bol",
+      "oneliner": "Wifi-weegschaal met 18 metingen en kleurenscherm voor een middenprijs.",
       "specs": {
-        "Metingen": "16",
+        "Metingen": "18",
         "Verbinding": "Wifi en Bluetooth",
-        "App": "eufyLife",
+        "App": "Renpho Health",
         "Max. gewicht": "180 kg",
-        "Batterij": "Tot 1 jaar"
+        "Batterij": "Oplaadbaar via USB-C"
       },
       "pros": [
         "Wifi en Bluetooth voor deze prijs",
-        "16 metingen inclusief hartslag",
-        "3D-avatar toont veranderingen in je lichaam",
-        "Onbeperkt aantal gebruikers"
+        "18 metingen met avatar en grafieken op het scherm",
+        "Oplaadbare accu, geen batterijen nodig",
+        "Babymodus en atletenmodus"
       ],
       "cons": [
-        "App toont soms reclame voor andere eufy-producten",
-        "Glasplaat is gevoelig voor vingerafdrukken"
+        "Uitgebreide functies zitten in de app, niet op de weegschaal",
+        "Glazen plaat toont snel vingerafdrukken"
       ],
-      "ideal": "Wie een uitgebreide slimme weegschaal zoekt zonder veel uit te geven.",
-      "text": "De eufy P2 Pro is een van de best verkochte slimme weegschalen op bol en biedt veel functies voor weinig geld. Hij meet 16 waarden, waaronder vetpercentage, spiermassa, botmassa, vochtgehalte, visceraal vet en hartslag. In de app zie je een 3D-avatar die laat zien hoe je lichaamsvorm verandert.\n\nGegevens gaan via wifi of Bluetooth naar de eufyLife-app, die koppelt met Apple Gezondheid, Google Fit en Fitbit. Het aantal gebruikers is onbeperkt en de weegschaal herkent je automatisch. Gebruikers prijzen de snelle meting en het strakke ontwerp. Kritiekpunten zijn de glasplaat die snel vingerafdrukken toont en een app die soms andere eufy-producten aanprijst. Voor ongeveer de helft van de prijs van een Withings krijg je hier vergelijkbare functies, wat hem tot de verstandigste keuze voor de meeste mensen maakt.",
-      "ean": "0194644087517",
-      "bol_title": "eufy Smart Scale P2 Pro - Digitale Badkamerweegschaal - WiFi - Bluetooth - IPX5 Waterdicht - ITO - 3D Model - 16 metingen waaronder Gewicht - Hartslag - Lichaamsvet - BMI - Spiermassa en Botmassa",
-      "url": "https://www.bol.com/nl/nl/p/eufy-smart-scale-p2-pro-vierkant-zwart-elektronische-weegschaal/9300000120842858/",
-      "image": "https://media.s-bol.com/gX9w0Pg3ZEyl/6BkkYR/550x532.jpg",
-      "synced": "2026-11-03",
+      "ideal": "Wie een uitgebreide slimme weegschaal met wifi zoekt zonder de prijs van een Withings.",
+      "text": "De Renpho Elis Nova is een slimme weegschaal met wifi en Bluetooth die 18 waarden meet, waaronder vetpercentage, spiermassa, botmassa, vochtgehalte en BMI. Op het kleurenscherm zie je na het wegen direct een avatar en een grafiek van je verloop, zodat je niet voor elke meting je telefoon hoeft te pakken. Dat maakt hem een stap luxer dan de Elis 1 van hetzelfde merk, die alleen via Bluetooth werkt.\n\nDankzij wifi gaan je metingen automatisch naar de Renpho Health-app, ook als je telefoon niet in de badkamer ligt. De app koppelt met Apple Gezondheid, Google Fit en Samsung Health. De weegschaal herkent meerdere gebruikers en heeft een babymodus en een atletenmodus voor sporters met veel spiermassa. Je laadt de accu op via USB-C. Kopers op bol geven hem gemiddeld 4,4 sterren. Voor rond de 70 euro krijg je veel van wat een Withings biedt, wat hem tot een verstandige middenkeuze maakt.",
+      "ean": "4897122208881",
+      "bol_title": "Renpho Elis Nova – Slimme Personenweegschaal – WiFi – 18 Lichaamsmetingen – met Renpho App",
+      "url": "https://www.bol.com/nl/nl/p/renpho-elis-nova-smart-body-scale-de-beste-slimme-weegschaal-inclusief-renpho-calibra-keukenweegschaal-persoonlijke-inzichten-via-renpho-app-18-metrics-incl-bmi-vetpercentage-spiermassa-tft-lcd-display-usb-c-oplaadbaar-ios-android/9300000227310436/",
+      "image": "https://media.s-bol.com/jrGg6NXz195v/0grWpoK/550x552.jpg",
       "ph": {
-        "2026-10-15": 59.99,
-        "2026-10-16": 59.99,
-        "2026-10-17": 59.99,
-        "2026-10-18": 59.99,
-        "2026-10-19": 59.99,
-        "2026-10-20": 59.99,
-        "2026-10-21": 59.99,
-        "2026-10-23": 59.99,
-        "2026-10-24": 59.99,
-        "2026-10-25": 59.99,
-        "2026-10-26": 59.99,
-        "2026-10-27": 59.99,
-        "2026-10-28": 59.99,
-        "2026-10-29": 59.99,
-        "2026-10-30": 59.99,
-        "2026-10-31": 59.99,
-        "2026-11-01": 59.99,
-        "2026-11-02": 59.99
+        "2026-11-03": 69.99
       },
-      "low_price": 59.99
+      "low_price": 69.99,
+      "synced": "2026-11-03"
     },
     {
       "brand": "Withings",
@@ -614,7 +597,7 @@
   "faq": [
     {
       "q": "Wat is de beste slimme weegschaal van 2026?",
-      "a": "Op basis van onze vergelijking is de Withings Body Smart de beste slimme weegschaal van 2026, dankzij consistente metingen, wifi en een overzichtelijke app zonder verplicht abonnement. Zoek je de beste prijs-kwaliteit, kijk dan naar de eufy Smart Scale P2 Pro."
+      "a": "Op basis van onze vergelijking is de Withings Body Smart de beste slimme weegschaal van 2026, dankzij consistente metingen, wifi en een overzichtelijke app zonder verplicht abonnement. Zoek je de beste prijs-kwaliteit, kijk dan naar de Renpho Elis Nova."
     },
     {
       "q": "Hoe nauwkeurig is een slimme weegschaal?",
