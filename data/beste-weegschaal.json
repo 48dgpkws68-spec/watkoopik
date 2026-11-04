@@ -21,7 +21,7 @@
     {
       "brand": "Withings",
       "name": "Body Smart",
-      "price": 94.01,
+      "price": 97.0,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "1.800+ reviews",
@@ -49,7 +49,7 @@
       "bol_title": "Withings Body Smart - Slimme Weegschaal - Lichaamssamenstelling, Vetpercentage, Spiermassa, Visceraal Vet, Hartslagmeting, BMR & Metabole Leeftijd, Tot 8 Gebruikers",
       "url": "https://www.bol.com/nl/nl/p/withings-body-smart-zwart/9300000150949204/",
       "image": "https://media.s-bol.com/xXPZE85BO94n/1W21V2P/550x555.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-14": 99.0,
         "2026-10-15": 99.0,
@@ -70,11 +70,12 @@
         "2026-10-31": 99.0,
         "2026-11-01": 99.0,
         "2026-11-02": 99.0,
-        "2026-11-03": 94.01
+        "2026-11-03": 94.01,
+        "2026-11-04": 97.0
       },
       "low_price": 94.01,
-      "prev_price": 99.0,
-      "prev_date": "2026-11-02"
+      "prev_price": 94.01,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Renpho",
@@ -108,10 +109,11 @@
       "url": "https://www.bol.com/nl/nl/p/renpho-elis-nova-smart-body-scale-de-beste-slimme-weegschaal-inclusief-renpho-calibra-keukenweegschaal-persoonlijke-inzichten-via-renpho-app-18-metrics-incl-bmi-vetpercentage-spiermassa-tft-lcd-display-usb-c-oplaadbaar-ios-android/9300000227310436/",
       "image": "https://media.s-bol.com/jrGg6NXz195v/0grWpoK/550x552.jpg",
       "ph": {
-        "2026-11-03": 69.99
+        "2026-11-03": 69.99,
+        "2026-11-04": 69.99
       },
       "low_price": 69.99,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Withings",
@@ -144,7 +146,7 @@
       "bol_title": "Withings Body Scan - Slimme Weegschaal - BIA-persoonlijke weegschaal, Segmentale Lichaamssamenstelling, 6-Lead ECG, AFib Detectie, Zenuwgezondheid, Visceraal Vet, Spiermassa, Botdichtheid, Waterpercentage , Tot 8 Gebruikers",
       "url": "https://www.bol.com/nl/nl/p/withings-body-scan-zwart/9300000148571852/",
       "image": "https://media.s-bol.com/OpzpmVgERZXY/v2RW0Jm/550x294.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-14": 319.0,
         "2026-10-15": 319.0,
@@ -165,7 +167,8 @@
         "2026-10-31": 319.0,
         "2026-11-01": 319.0,
         "2026-11-02": 319.0,
-        "2026-11-03": 319.0
+        "2026-11-03": 319.0,
+        "2026-11-04": 319.0
       },
       "low_price": 319.0
     },
@@ -200,7 +203,7 @@
       "bol_title": "Garmin Index S2 - Slimme Weegschaal - Personenweegschaal - Bluetooth - WiFi - BMI - Spiermassa - Zwart",
       "url": "https://www.bol.com/nl/nl/p/garmin-index-s2-slimme-weegschaal-personenweegschaal-met-bluetooth-en-wifi-verschillende-metingen-zwart/9300000013635702/",
       "image": "https://media.s-bol.com/rwKYQM3jKg62/Yvg0mwY/550x526.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-14": 125.0,
         "2026-10-15": 125.0,
@@ -221,7 +224,8 @@
         "2026-10-31": 125.0,
         "2026-11-01": 125.0,
         "2026-11-02": 125.0,
-        "2026-11-03": 125.0
+        "2026-11-03": 125.0,
+        "2026-11-04": 125.0
       },
       "low_price": 125.0,
       "prev_price": 135.23,
@@ -258,7 +262,7 @@
       "bol_title": "Withings Body Comp - Slimme Weegschaal - Lichaamssamenstelling, Visceraal Vet, Hartgezondheid, Zenuwgezondheid, Spiermassa, Botdichtheid, Waterpercentage , Tot 8 Gebruikers",
       "url": "https://www.bol.com/nl/nl/p/withings-body-comp-wit/9300000150949196/",
       "image": "https://media.s-bol.com/xrj2kjMq3m1q/G6Y65G3/550x549.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-14": 148.99,
         "2026-10-15": 148.99,
@@ -279,7 +283,8 @@
         "2026-10-31": 160.0,
         "2026-11-01": 160.0,
         "2026-11-02": 151.75,
-        "2026-11-03": 148.99
+        "2026-11-03": 148.99,
+        "2026-11-04": 148.99
       },
       "low_price": 148.99,
       "prev_price": 151.75,
@@ -288,7 +293,7 @@
     {
       "brand": "Xiaomi",
       "name": "Mi Body Composition Scale 2",
-      "price": 29.95,
+      "price": 25.79,
       "score": 8.4,
       "label": null,
       "reviews": "7.900+ reviews",
@@ -316,7 +321,7 @@
       "bol_title": "Xiaomi | Slimme weegschaal | Xiaomi Body Composition Scale S400 | Nauwkeurige meting | Volledige lichaamsanalyse | Bluetooth | Stabiel ontwerp",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-body-composition-scale-s400/9300000179838132/",
       "image": "https://media.s-bol.com/3x3V7gE4BWzx/QWN663L/550x550.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-14": 27.44,
         "2026-10-15": 28.0,
@@ -337,16 +342,17 @@
         "2026-10-31": 24.95,
         "2026-11-01": 29.95,
         "2026-11-02": 29.0,
-        "2026-11-03": 29.95
+        "2026-11-03": 29.95,
+        "2026-11-04": 25.79
       },
       "low_price": 24.95,
-      "prev_price": 29.0,
-      "prev_date": "2026-11-02"
+      "prev_price": 29.95,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Renpho",
       "name": "Elis 1 ES-CS20M",
-      "price": 36.99,
+      "price": 35.99,
       "score": 8.2,
       "label": null,
       "reviews": "5.200+ reviews",
@@ -374,7 +380,7 @@
       "bol_title": "RENPHO Elis 1 Smart Body Scale – Beste slimme weegschaal in zijn prijsklasse – Lichaamsanalyse met 13 metingen – BMI, vetpercentage en spiermassa – Slimme Bluetooth weegschaal met app – Onbeperkt aantal gebruikers",
       "url": "https://www.bol.com/nl/nl/p/renpho-elis-1-smart-body-scale-beste-slimme-weegschaal-in-zijn-prijsklasse-lichaamsanalyse-met-13-metingen-bmi-vetpercentage-en-spiermassa-slimme-bluetooth-weegschaal-met-app-onbeperkt-aantal-gebruikers/9300000254317989/",
       "image": "https://media.s-bol.com/YKy6rXVAyY1O/JZ53Zoo/550x550.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 38.52,
         "2026-10-16": 38.52,
@@ -394,11 +400,12 @@
         "2026-10-31": 37.59,
         "2026-11-01": 36.99,
         "2026-11-02": 36.99,
-        "2026-11-03": 36.99
+        "2026-11-03": 36.99,
+        "2026-11-04": 35.99
       },
       "low_price": 35.95,
-      "prev_price": 37.59,
-      "prev_date": "2026-10-31"
+      "prev_price": 36.99,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Huawei",
@@ -431,7 +438,7 @@
       "bol_title": "Huawei Scale 3 Vierkant Wit Elektronische weegschaal",
       "url": "https://www.bol.com/nl/nl/p/huawei-scale-3-vierkant-wit-elektronische-weegschaal/9300000164107148/",
       "image": "https://media.s-bol.com/7BJpPB8zN531/BB8B6ok/550x669.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-14": 49.99,
         "2026-10-15": 49.99,
@@ -452,7 +459,8 @@
         "2026-10-31": 49.99,
         "2026-11-01": 49.99,
         "2026-11-02": 49.99,
-        "2026-11-03": 49.99
+        "2026-11-03": 49.99,
+        "2026-11-04": 49.99
       },
       "low_price": 49.99
     },
@@ -487,7 +495,7 @@
       "bol_title": "eufy Smart Scale C20: Bluetooth-weegschaal met TFT-scherm - Meet gewicht - Lichaamsvet - BMI en 16 stats offline - Multi-modi.",
       "url": "https://www.bol.com/nl/nl/p/eufy-smart-scale-c20-digitale-weegschaal-voor-het-meten-van-lichaamsvet-met-groot-tft-scherm-alles-in-een-display-voor-offline-gebruik-bluetooth-weegschaal-voor-het-nauwkeurig-meten-van-lichaamsgewicht-met-16-statistieken-bmi-multi-modi/9300000231844001/",
       "image": "https://media.s-bol.com/4oM7M3AWVXgJ/El9Pkgk/550x560.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 39.99,
         "2026-10-16": 39.99,
@@ -507,14 +515,15 @@
         "2026-10-31": 39.99,
         "2026-11-01": 39.99,
         "2026-11-02": 39.99,
-        "2026-11-03": 39.99
+        "2026-11-03": 39.99,
+        "2026-11-04": 39.99
       },
       "low_price": 39.99
     },
     {
       "brand": "Beurer",
       "name": "BF 720",
-      "price": 49.0,
+      "price": 45.99,
       "score": 8.3,
       "label": null,
       "reviews": "1.000+ reviews",
@@ -542,7 +551,7 @@
       "bol_title": "Beurer BF 720 Bluetooth® Personenweegschaal - Lichaamsanalyse - BMI/AMR/BMR - Beurer HealthManager Pro app - 30 x 30 cm - Verlicht zwart display - Tot 180 kg - Incl. batterijen - 8 Gebruikers - 5 Jaar garantie - Zwart",
       "url": "https://www.bol.com/nl/nl/p/beurer-bf-720-bluetooth-personenweegschaal-lichaamsanalyse-healthmanager-pro-app-zwart/9200000120404673/",
       "image": "https://media.s-bol.com/xgmpZKJYrqP3/j24yJLR/550x539.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-14": 49.0,
         "2026-10-15": 49.0,
@@ -563,9 +572,12 @@
         "2026-10-31": 49.0,
         "2026-11-01": 49.0,
         "2026-11-02": 49.0,
-        "2026-11-03": 49.0
+        "2026-11-03": 49.0,
+        "2026-11-04": 45.99
       },
-      "low_price": 49.0
+      "low_price": 45.99,
+      "prev_price": 49.0,
+      "prev_date": "2026-11-03"
     }
   ],
   "guide": [

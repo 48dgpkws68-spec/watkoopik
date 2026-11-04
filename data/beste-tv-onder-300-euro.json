@@ -55,10 +55,11 @@
       "image": "https://media.s-bol.com/JoqgkJ41nrwv/Z4jn42J/550x330.jpg",
       "ph": {
         "2026-11-02": 289.0,
-        "2026-11-03": 289.0
+        "2026-11-03": 289.0,
+        "2026-11-04": 289.0
       },
       "low_price": 289.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Hisense",
@@ -93,15 +94,16 @@
       "image": "https://media.s-bol.com/gmZpV86goZ8k/nRQ2mYY/550x353.jpg",
       "ph": {
         "2026-11-02": 299.0,
-        "2026-11-03": 299.0
+        "2026-11-03": 299.0,
+        "2026-11-04": 299.0
       },
       "low_price": 299.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "TCL",
       "name": "43S51K",
-      "price": 239.0,
+      "price": 241.39,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
       "reviews": "250+ reviews",
@@ -130,10 +132,13 @@
       "image": "https://media.s-bol.com/KD7lAKJ1DyPn/X6zgMPv/550x550.jpg",
       "ph": {
         "2026-11-02": 239.0,
-        "2026-11-03": 239.0
+        "2026-11-03": 239.0,
+        "2026-11-04": 241.39
       },
       "low_price": 239.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04",
+      "prev_price": 239.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "CHiQ",
@@ -168,15 +173,16 @@
       "image": "https://media.s-bol.com/B5E6KJPLrV4n/BLQBRXn/550x363.jpg",
       "ph": {
         "2026-11-02": 282.74,
-        "2026-11-03": 282.74
+        "2026-11-03": 282.74,
+        "2026-11-04": 282.74
       },
       "low_price": 282.74,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "LG",
       "name": "32LQ63006LA",
-      "price": 250.47,
+      "price": 225.0,
       "score": 8.4,
       "label": null,
       "reviews": "900+ reviews",
@@ -206,12 +212,13 @@
       "image": "https://media.s-bol.com/0xv0jjNyQQWL/4R6L2k7/550x361.jpg",
       "ph": {
         "2026-11-02": 228.9,
-        "2026-11-03": 250.47
+        "2026-11-03": 250.47,
+        "2026-11-04": 225.0
       },
-      "low_price": 228.9,
-      "synced": "2026-11-03",
-      "prev_price": 228.9,
-      "prev_date": "2026-11-02"
+      "low_price": 225.0,
+      "synced": "2026-11-04",
+      "prev_price": 250.47,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Xiaomi",
@@ -246,10 +253,11 @@
       "image": "https://media.s-bol.com/q3YqNyQ3nGxr/JZ5rGvg/550x408.jpg",
       "ph": {
         "2026-11-02": 174.0,
-        "2026-11-03": 174.0
+        "2026-11-03": 174.0,
+        "2026-11-04": 174.0
       },
       "low_price": 174.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Philips",
@@ -284,15 +292,16 @@
       "image": "https://media.s-bol.com/v3MADkywJGwX/D192m2A/550x346.jpg",
       "ph": {
         "2026-11-02": 269.0,
-        "2026-11-03": 269.0
+        "2026-11-03": 269.0,
+        "2026-11-04": 269.0
       },
       "low_price": 269.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "CHiQ",
       "name": "L40FT",
-      "price": 209.99,
+      "price": 219.99,
       "score": 8.1,
       "label": null,
       "reviews": "200+ reviews",
@@ -322,10 +331,13 @@
       "image": "https://media.s-bol.com/qv8ZGxNlQoVy/oQ726j3/550x400.jpg",
       "ph": {
         "2026-11-02": 209.99,
-        "2026-11-03": 209.99
+        "2026-11-03": 209.99,
+        "2026-11-04": 219.99
       },
       "low_price": 209.99,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04",
+      "prev_price": 209.99,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Samsung",
@@ -359,10 +371,11 @@
       "image": "https://media.s-bol.com/N38vWW2PDXgp/579Ll7q/550x344.jpg",
       "ph": {
         "2026-11-02": 199.0,
-        "2026-11-03": 199.0
+        "2026-11-03": 199.0,
+        "2026-11-04": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Philips",
@@ -396,10 +409,11 @@
       "url": "https://www.bol.com/nl/nl/p/philips-32pqs6901/9300000275294534/",
       "image": "https://media.s-bol.com/Y3xXVWlXNy49/57A5XmX/550x324.jpg",
       "ph": {
-        "2026-11-03": 249.0
+        "2026-11-03": 249.0,
+        "2026-11-04": 249.0
       },
       "low_price": 249.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     }
   ],
   "guide": [

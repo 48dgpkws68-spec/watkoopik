@@ -53,10 +53,11 @@
       "image": "https://media.s-bol.com/4Xx1W484VrkJ/E9JWy3v/550x221.jpg",
       "ph": {
         "2026-11-02": 106.0,
-        "2026-11-03": 106.0
+        "2026-11-03": 106.0,
+        "2026-11-04": 106.0
       },
       "low_price": 106.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Philips",
@@ -90,10 +91,11 @@
       "image": "https://media.s-bol.com/gmyOBk61L4GY/vQmLQYr/550x539.jpg",
       "ph": {
         "2026-11-02": 67.99,
-        "2026-11-03": 67.99
+        "2026-11-03": 67.99,
+        "2026-11-04": 67.99
       },
       "low_price": 67.99,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Garmin",
@@ -127,15 +129,16 @@
       "image": "https://media.s-bol.com/nj1oG74jBWlR/J6629j2/542x840.jpg",
       "ph": {
         "2026-11-02": 179.0,
-        "2026-11-03": 179.0
+        "2026-11-03": 179.0,
+        "2026-11-04": 179.0
       },
       "low_price": 179.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Sony",
       "name": "WH-CH720N koptelefoon",
-      "price": 73.29,
+      "price": 68.96,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -164,12 +167,13 @@
       "image": "https://media.s-bol.com/l0Zw1n1PlnwM/wwyovR/550x747.jpg",
       "ph": {
         "2026-11-02": 73.59,
-        "2026-11-03": 73.29
+        "2026-11-03": 73.29,
+        "2026-11-04": 68.96
       },
-      "low_price": 73.29,
-      "synced": "2026-11-03",
-      "prev_price": 73.59,
-      "prev_date": "2026-11-02"
+      "low_price": 68.96,
+      "synced": "2026-11-04",
+      "prev_price": 73.29,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "MEATER",
@@ -203,15 +207,16 @@
       "image": "https://media.s-bol.com/V6y1Q8QkNEpO/1WQw7BP/550x550.jpg",
       "ph": {
         "2026-11-02": 75.0,
-        "2026-11-03": 75.0
+        "2026-11-03": 75.0,
+        "2026-11-04": 75.0
       },
       "low_price": 75.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "LEGO",
       "name": "Technic Oracle Red Bull Racing RB20 42206",
-      "price": 169.0,
+      "price": 159.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -240,15 +245,18 @@
       "image": "https://media.s-bol.com/5NyV9wn6lVMA/vlKv1kg/550x398.jpg",
       "ph": {
         "2026-11-02": 169.0,
-        "2026-11-03": 169.0
+        "2026-11-03": 169.0,
+        "2026-11-04": 159.99
       },
-      "low_price": 169.0,
-      "synced": "2026-11-03"
+      "low_price": 159.99,
+      "synced": "2026-11-04",
+      "prev_price": 169.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Rituals",
       "name": "Geschenkset voor mannen 4 producten",
-      "price": 49.0,
+      "price": 51.95,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 5 van 5",
@@ -277,10 +285,13 @@
       "image": "https://media.s-bol.com/3Nopx24NjD3Q/LgopK5v/550x384.jpg",
       "ph": {
         "2026-11-02": 49.0,
-        "2026-11-03": 49.0
+        "2026-11-03": 49.0,
+        "2026-11-04": 51.95
       },
       "low_price": 49.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04",
+      "prev_price": 49.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Stanley",
@@ -314,10 +325,11 @@
       "image": "https://media.s-bol.com/o1YYW7zvLqkN/P1qEXM1/250x200.jpg",
       "ph": {
         "2026-11-02": 43.95,
-        "2026-11-03": 43.95
+        "2026-11-03": 43.95,
+        "2026-11-04": 43.95
       },
       "low_price": 43.95,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Victorinox",
@@ -351,10 +363,11 @@
       "image": "https://media.s-bol.com/3EOZrGo6mMXO/A68rN0l/550x503.jpg",
       "ph": {
         "2026-11-02": 36.08,
-        "2026-11-03": 36.08
+        "2026-11-03": 36.08,
+        "2026-11-04": 36.08
       },
       "low_price": 36.08,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Whisiskey",
@@ -388,10 +401,11 @@
       "image": "https://media.s-bol.com/NnEYrqnkQwy6/nKrkn7/550x545.jpg",
       "ph": {
         "2026-11-02": 29.99,
-        "2026-11-03": 29.99
+        "2026-11-03": 29.99,
+        "2026-11-04": 29.99
       },
       "low_price": 29.99,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     }
   ],
   "guide": [

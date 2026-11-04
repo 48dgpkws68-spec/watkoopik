@@ -21,7 +21,7 @@
     {
       "brand": "Bosch",
       "name": "DesignLine TWK5P475",
-      "price": 67.92,
+      "price": 67.94,
       "score": 9.1,
       "label": "Beste keuze",
       "reviews": "4.100+ reviews",
@@ -49,7 +49,7 @@
       "ean": "4242005188307",
       "url": "https://www.bol.com/nl/nl/p/bosch-twk5p475-designline-waterkoker-grijs/9200000117663943/",
       "image": "https://media.s-bol.com/w7lgvm0jmyym/0gAZzEv/550x669.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "bol_title": "Bosch TWK5P475 DesignLine - Waterkoker - Grijs",
       "ph": {
         "2026-10-13": 68.74,
@@ -72,11 +72,12 @@
         "2026-10-31": 68.0,
         "2026-11-01": 67.9,
         "2026-11-02": 67.92,
-        "2026-11-03": 67.92
+        "2026-11-03": 67.92,
+        "2026-11-04": 67.94
       },
       "low_price": 65.0,
-      "prev_price": 67.9,
-      "prev_date": "2026-11-01"
+      "prev_price": 67.92,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Philips",
@@ -109,7 +110,7 @@
       "ean": "8720389000850",
       "url": "https://www.bol.com/nl/nl/p/philips-eco-conscious-edition-hd9365-10-waterkoker/9300000048998474/",
       "image": "https://media.s-bol.com/m7AZG9Dw1K1E/k5GgkqX/550x654.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "bol_title": "Philips HD9365/10 - Waterkoker - 1.7L - Crème",
       "ph": {
         "2026-10-13": 46.0,
@@ -132,7 +133,8 @@
         "2026-10-31": 46.8,
         "2026-11-01": 46.8,
         "2026-11-02": 46.8,
-        "2026-11-03": 46.8
+        "2026-11-03": 46.8,
+        "2026-11-04": 46.8
       },
       "low_price": 46.0,
       "prev_price": 49.0,
@@ -170,7 +172,7 @@
       "bol_title": "SMEG KLF03CREU Waterkoker - 1,7 Liter - 2400W - RVS Kalkfilter - 360° Draaivoet - Soft Opening - Automatische Uitschakeling - '50s Style - Crème",
       "url": "https://www.bol.com/nl/nl/p/smeg-klf03creu-waterkoker-creme-1-7l/9200000080511882/",
       "image": "https://media.s-bol.com/OjvZzPXLvyMQ/68A1ZDn/550x684.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 129.55,
         "2026-10-16": 129.55,
@@ -190,7 +192,8 @@
         "2026-10-31": 129.0,
         "2026-11-01": 129.0,
         "2026-11-02": 129.0,
-        "2026-11-03": 129.0
+        "2026-11-03": 129.0,
+        "2026-11-04": 129.0
       },
       "low_price": 128.25,
       "prev_price": 128.81,
@@ -230,15 +233,16 @@
       "ph": {
         "2026-11-01": 70.04,
         "2026-11-02": 70.04,
-        "2026-11-03": 70.04
+        "2026-11-03": 70.04,
+        "2026-11-04": 70.04
       },
       "low_price": 70.04,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Russell Hobbs",
       "name": "Inspire 24360-70",
-      "price": 35.0,
+      "price": 34.49,
       "score": 8.2,
       "label": null,
       "reviews": "3.400+ reviews",
@@ -267,7 +271,7 @@
       "bol_title": "Russell Hobbs inspire Black Kettle",
       "url": "https://www.bol.com/nl/nl/p/russell-hobbs-inspire-black-kettle/9200000099335966/",
       "image": "https://media.s-bol.com/NWROJmEP533p/nxrkPjY/550x652.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-24": 34.0,
         "2026-10-25": 34.0,
@@ -279,16 +283,17 @@
         "2026-10-31": 35.0,
         "2026-11-01": 35.0,
         "2026-11-02": 35.0,
-        "2026-11-03": 35.0
+        "2026-11-03": 35.0,
+        "2026-11-04": 34.49
       },
       "low_price": 34.0,
-      "prev_price": 34.0,
-      "prev_date": "2026-10-25"
+      "prev_price": 35.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "WMF",
       "name": "Lumero 1,7 l met temperatuurregeling",
-      "price": 150.71,
+      "price": 152.46,
       "score": 8.6,
       "label": null,
       "reviews": "100+ reviews",
@@ -317,7 +322,7 @@
       "bol_title": "WMF Lumero - Multifunctionele Waterkoker - 1.7L - Temperatuurregeling - RVS - 2400W",
       "url": "https://www.bol.com/nl/nl/p/wmf-lumero-waterkoker-multifunctioneel/9200000126719548/",
       "image": "https://media.s-bol.com/R3Ok4Bk4v3jR/36R4ABO/550x762.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 158.0,
         "2026-10-16": 158.0,
@@ -337,16 +342,17 @@
         "2026-10-31": 154.99,
         "2026-11-01": 154.99,
         "2026-11-02": 154.99,
-        "2026-11-03": 150.71
+        "2026-11-03": 150.71,
+        "2026-11-04": 152.46
       },
       "low_price": 150.71,
-      "prev_price": 154.99,
-      "prev_date": "2026-11-02"
+      "prev_price": 150.71,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "KitchenAid",
       "name": "Artisan 5KEK1522",
-      "price": 176.88,
+      "price": 178.4,
       "score": 8.5,
       "label": null,
       "reviews": "920+ reviews",
@@ -374,7 +380,7 @@
       "ean": "5413184151058",
       "url": "https://www.bol.com/nl/nl/p/kitchenaid-artisan-5kek1522eac-waterkoker-met-digitale-precisie-1-l-amandelwit/9200000019075913/",
       "image": "https://media.s-bol.com/zM7Yzk3jpPLy/GR6PAMy/550x502.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "bol_title": "KitchenAid Waterkoker Artisan - Amandelwit - 5KEK1522EAC - TEMPERATUURREGELING 1,5L",
       "ph": {
         "2026-10-13": 167.8,
@@ -397,16 +403,17 @@
         "2026-10-31": 176.63,
         "2026-11-01": 177.0,
         "2026-11-02": 176.88,
-        "2026-11-03": 176.88
+        "2026-11-03": 176.88,
+        "2026-11-04": 178.4
       },
       "low_price": 167.8,
-      "prev_price": 177.0,
-      "prev_date": "2026-11-01"
+      "prev_price": 176.88,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Bosch",
       "name": "TWK2M163",
-      "price": 37.0,
+      "price": 41.95,
       "score": 8.0,
       "label": null,
       "reviews": "200+ reviews",
@@ -435,7 +442,7 @@
       "bol_title": "Bosch Waterkoker - TWK2M163 - 1.7L - 2400W - Warmhoudfunctie - Verwijderbaar kalkfilter",
       "url": "https://www.bol.com/nl/nl/p/twk2m163-wasserkocher-schwarz/9300000163238805/",
       "image": "https://media.s-bol.com/q9Wqo8OAzR9y/VYG069/550x736.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 41.0,
         "2026-10-16": 41.0,
@@ -455,11 +462,12 @@
         "2026-10-31": 41.95,
         "2026-11-01": 37.0,
         "2026-11-02": 41.95,
-        "2026-11-03": 37.0
+        "2026-11-03": 37.0,
+        "2026-11-04": 41.95
       },
       "low_price": 37.0,
-      "prev_price": 41.95,
-      "prev_date": "2026-11-02"
+      "prev_price": 37.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Tefal",
@@ -493,7 +501,7 @@
       "bol_title": "Tefal Includeo KI5338 - Waterkoker - 1L - Maataanduiding - Anti-kalkfilter - 2400W - Zwart",
       "url": "https://www.bol.com/nl/nl/p/tefal-includeo-ki5338-waterkoker/9300000025110276/",
       "image": "https://media.s-bol.com/D0lpEEQr5x1k/550x568.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 34.99,
         "2026-10-16": 34.99,
@@ -513,7 +521,8 @@
         "2026-10-31": 34.99,
         "2026-11-01": 34.99,
         "2026-11-02": 36.89,
-        "2026-11-03": 34.99
+        "2026-11-03": 34.99,
+        "2026-11-04": 34.99
       },
       "low_price": 34.99,
       "prev_price": 36.89,
@@ -548,10 +557,10 @@
       "ideal": "Wie een rvs-uiterlijk wil voor de prijs van een kunststof koker en de beperkingen accepteert.",
       "text": "De Princess Stainless Steel Deluxe is de goedkoopste rvs-waterkoker van een bekend merk in Nederland. Voor minder dan 30 euro krijg je een geborstelde roestvrijstalen behuizing, een verborgen verwarmingselement dat makkelijk te ontkalken is en een voet die 360 graden draait, zodat links- en rechtshandigen de koker goed kunnen pakken. Met 2.200 watt kookt hij 1,7 liter in ongeveer vijf minuten.\n\nDe beperkingen horen bij de prijs. De enkelwandige behuizing wordt heet aan de buitenkant, dus voorzichtigheid bij kinderen is nodig. Het geluid tijdens het koken is hoger dan bij dubbelwandige modellen. Het peilglas zit aan één kant en is klein. In ruim 2.000 reviews is het oordeel gemengd positief: voor dit geld krijg je een nette koker die jaren meegaat, maar wie stilte of comfort zoekt moet hoger in deze lijst kijken. Als tweede koker voor de camping of het kantoor doet hij prima dienst.",
       "ean": "8713016098658",
-      "bol_title": "Princess Waterkoker Deluxe 236045 – 1 liter – 360⁰ draaibaar - 2200W - RVS",
+      "bol_title": "Princess Waterkoker Deluxe – 1 liter – 360⁰ draaibaar - 2200W - RVS - 236045",
       "url": "https://www.bol.com/nl/nl/p/princess-236045-waterkoker-deluxe-1-liter-2200w-roestvrij-staal/9300000002639901/",
       "image": "https://media.s-bol.com/N2q4ZXym576D/0W54R5/550x516.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-13": 40.0,
         "2026-10-14": 40.0,
@@ -573,7 +582,8 @@
         "2026-10-31": 40.0,
         "2026-11-01": 40.0,
         "2026-11-02": 40.0,
-        "2026-11-03": 40.0
+        "2026-11-03": 40.0,
+        "2026-11-04": 40.0
       },
       "low_price": 40.0
     }

@@ -52,15 +52,16 @@
       "url": "https://www.bol.com/nl/nl/p/ghd-glide-hot-brush/9200000127714698/",
       "image": "https://media.s-bol.com/goPVz7kYGy59/WnB9o4E/550x429.jpg",
       "ph": {
-        "2026-11-03": 156.0
+        "2026-11-03": 156.0,
+        "2026-11-04": 156.0
       },
       "low_price": 156.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "LEGO",
       "name": "Icons Orchidee 10311",
-      "price": 40.99,
+      "price": 36.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,9 van 5",
@@ -88,10 +89,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-icons-orchidee-10311/9300000080312206/",
       "image": "https://media.s-bol.com/GVPv8mAEXlRL/VOlrZEX/550x831.jpg",
       "ph": {
-        "2026-11-03": 40.99
+        "2026-11-03": 40.99,
+        "2026-11-04": 36.99
       },
-      "low_price": 40.99,
-      "synced": "2026-11-03"
+      "low_price": 36.99,
+      "synced": "2026-11-04",
+      "prev_price": 40.99,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Garmin",
@@ -124,10 +128,11 @@
       "url": "https://www.bol.com/nl/nl/p/garmin-vivoactive-6-smartwatch-sporthorloge-health-fitness-gps-lunar-gold/9300000228947667/",
       "image": "https://media.s-bol.com/7r92KywOzgEj/Z6xmDG8/513x840.jpg",
       "ph": {
-        "2026-11-03": 252.0
+        "2026-11-03": 252.0,
+        "2026-11-04": 252.0
       },
       "low_price": 252.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Kobo",
@@ -160,15 +165,16 @@
       "url": "https://www.bol.com/nl/nl/p/kobo-clara-bw-e-reader-6-inch-16gb-luisterboeken-zwart/9300000173830676/",
       "image": "https://media.s-bol.com/jKgrOjzPoXwy/5y7pV1Z/550x787.jpg",
       "ph": {
-        "2026-11-03": 169.0
+        "2026-11-03": 169.0,
+        "2026-11-04": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Marshall",
       "name": "Emberton III bluetooth speaker",
-      "price": 132.62,
+      "price": 130.68,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -196,10 +202,13 @@
       "url": "https://www.bol.com/nl/nl/p/marshall-emberton-iii-bluetooth-speaker-black-and-brass/9300000187562725/",
       "image": "https://media.s-bol.com/mWzZjBzjkyVG/W6owP2X/550x256.jpg",
       "ph": {
-        "2026-11-03": 132.62
+        "2026-11-03": 132.62,
+        "2026-11-04": 130.68
       },
-      "low_price": 132.62,
-      "synced": "2026-11-03"
+      "low_price": 130.68,
+      "synced": "2026-11-04",
+      "prev_price": 132.62,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Philips",
@@ -232,10 +241,11 @@
       "url": "https://www.bol.com/nl/nl/p/philips-hf3519-01-wake-up-light-wit/9300000006206085/",
       "image": "https://media.s-bol.com/r7J39B8w183k/m2RQB0/550x395.jpg",
       "ph": {
-        "2026-11-03": 134.99
+        "2026-11-03": 134.99,
+        "2026-11-04": 134.99
       },
       "low_price": 134.99,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Therabody",
@@ -268,10 +278,11 @@
       "url": "https://www.bol.com/nl/nl/p/therabody-theragun-relief-massage-gun-3-opzetstukken-professioneel-massage-apparaat-lichtgewicht-massage-pistool/9300000262064872/",
       "image": "https://media.s-bol.com/DgWywvR6Y9Yq/Mjy5Npm/550x454.jpg",
       "ph": {
-        "2026-11-03": 129.0
+        "2026-11-03": 129.0,
+        "2026-11-04": 129.0
       },
       "low_price": 129.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Fujifilm",
@@ -304,10 +315,11 @@
       "url": "https://www.bol.com/nl/nl/p/fujifilm-instax-mini-41-instant-camera-zwart/9300000229375594/",
       "image": "https://media.s-bol.com/RqkOj0OpjZow/o2oNqYz/550x652.jpg",
       "ph": {
-        "2026-11-03": 92.0
+        "2026-11-03": 92.0,
+        "2026-11-04": 92.0
       },
       "low_price": 92.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Beurer",
@@ -340,10 +352,11 @@
       "url": "https://www.bol.com/nl/nl/p/beurer-hd-75-elektrische-deken-6-temperatuurniveaus-veiligheidssysteem-machinewasbaar-cosy-taupe/9200000109331134/",
       "image": "https://media.s-bol.com/qz93MXERwlK7/vQD4Dj5/550x472.jpg",
       "ph": {
-        "2026-11-03": 49.95
+        "2026-11-03": 49.95,
+        "2026-11-04": 49.95
       },
       "low_price": 49.95,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Apple",
@@ -376,10 +389,11 @@
       "url": "https://www.bol.com/nl/nl/p/apple-airtag-2e-generatie-1-stuk/9300000259692759/",
       "image": "https://media.s-bol.com/3WOL9o5EEzY4/nxZpX3p/550x550.jpg",
       "ph": {
-        "2026-11-03": 31.99
+        "2026-11-03": 31.99,
+        "2026-11-04": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     }
   ],
   "guide": [

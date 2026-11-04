@@ -54,10 +54,11 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-65q7d-pro-65-inch-4k-qd-miniled-2026-smart-tv/9300000273452843/",
       "image": "https://media.s-bol.com/Y36zpnxG0MMK/57nljRX/550x330.jpg",
       "ph": {
-        "2026-11-03": 1299.0
+        "2026-11-03": 1299.0,
+        "2026-11-04": 1299.0
       },
       "low_price": 1299.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Hisense",
@@ -95,12 +96,12 @@
         "2026-11-03": 679.0
       },
       "low_price": 679.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "TCL",
       "name": "85X11K",
-      "price": 4321.0,
+      "price": 4045.0,
       "score": 9.2,
       "label": "Beste premium",
       "reviews": "nieuw model",
@@ -131,10 +132,13 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-85x11k-85-inch-4k-qd-miniled-2025/9300000226986880/",
       "image": "https://media.s-bol.com/KN35VGoP2O7M/Krlwg2l/550x330.jpg",
       "ph": {
-        "2026-11-03": 4321.0
+        "2026-11-03": 4321.0,
+        "2026-11-04": 4045.0
       },
-      "low_price": 4321.0,
-      "synced": "2026-11-03"
+      "low_price": 4045.0,
+      "synced": "2026-11-04",
+      "prev_price": 4321.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Samsung",
@@ -168,15 +172,16 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-qe65qn83hauxxn-neo-qled-65-inch/9300000294982187/",
       "image": "https://media.s-bol.com/JmBMkZ4rwVXl/mQm9pLG/550x334.jpg",
       "ph": {
-        "2026-11-03": 1249.0
+        "2026-11-03": 1249.0,
+        "2026-11-04": 1249.0
       },
       "low_price": 1249.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "TCL",
       "name": "75RM7L",
-      "price": 1399.0,
+      "price": 1429.0,
       "score": 8.9,
       "label": null,
       "reviews": "50+ reviews",
@@ -206,15 +211,18 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-75rm7l-75-inch-4k-rgb-miniled-2026-smart-tv/9300000265052569/",
       "image": "https://media.s-bol.com/nK5zMGW3w95P/mQ1A56O/550x330.jpg",
       "ph": {
-        "2026-11-03": 1399.0
+        "2026-11-03": 1399.0,
+        "2026-11-04": 1429.0
       },
       "low_price": 1399.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04",
+      "prev_price": 1399.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "LG",
       "name": "65QNED86B6B",
-      "price": 1399.0,
+      "price": 1199.0,
       "score": 8.7,
       "label": null,
       "reviews": "nieuw model",
@@ -243,10 +251,13 @@
       "url": "https://www.bol.com/nl/nl/p/lg-65qned86b6b-65-inch-4k-qned-evo-mini-led-2026-smart-tv/9300000278293349/",
       "image": "https://media.s-bol.com/lrQmAG74vn6J/1Wx4wBj/550x337.jpg",
       "ph": {
-        "2026-11-03": 1399.0
+        "2026-11-03": 1399.0,
+        "2026-11-04": 1199.0
       },
-      "low_price": 1399.0,
-      "synced": "2026-11-03"
+      "low_price": 1199.0,
+      "synced": "2026-11-04",
+      "prev_price": 1399.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Hisense",
@@ -281,10 +292,11 @@
       "url": "https://www.bol.com/nl/nl/p/hisense-55u7s-pro-55-inch-ultra-hd-4k/9300000281110063/",
       "image": "https://media.s-bol.com/N3yW5RpX5lZN/z69RozY/550x351.jpg",
       "ph": {
-        "2026-11-03": 699.0
+        "2026-11-03": 699.0,
+        "2026-11-04": 699.0
       },
       "low_price": 699.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "Philips",
@@ -318,15 +330,16 @@
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-55mled910-12-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000233566948/",
       "image": "https://media.s-bol.com/74g6rLgqk0Xr/BNkRBzo/550x355.jpg",
       "ph": {
-        "2026-11-03": 899.0
+        "2026-11-03": 899.0,
+        "2026-11-04": 899.0
       },
       "low_price": 899.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04"
     },
     {
       "brand": "TCL",
       "name": "55T8D",
-      "price": 549.0,
+      "price": 604.0,
       "score": 8.5,
       "label": null,
       "reviews": "50+ reviews",
@@ -356,15 +369,18 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-55t8d-55-inch-4k-qd-miniled-2026-smart-tv/9300000273452838/",
       "image": "https://media.s-bol.com/Y3N3w6GZgkN9/MZNZNOm/550x343.jpg",
       "ph": {
-        "2026-11-03": 549.0
+        "2026-11-03": 549.0,
+        "2026-11-04": 604.0
       },
       "low_price": 549.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04",
+      "prev_price": 549.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "TCL",
       "name": "85T8D",
-      "price": 1299.0,
+      "price": 1377.0,
       "score": 8.3,
       "label": null,
       "reviews": "nieuw model",
@@ -394,10 +410,13 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-85t8d-85-inch-4k-qd-miniled-2026-smart-tv/9300000273452844/",
       "image": "https://media.s-bol.com/J3r3wqJGmjql/gp8pX73/550x341.jpg",
       "ph": {
-        "2026-11-03": 1299.0
+        "2026-11-03": 1299.0,
+        "2026-11-04": 1377.0
       },
       "low_price": 1299.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04",
+      "prev_price": 1299.0,
+      "prev_date": "2026-11-03"
     }
   ],
   "guide": [

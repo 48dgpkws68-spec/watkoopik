@@ -21,7 +21,7 @@
     {
       "brand": "eufy",
       "name": "Security E340 Video Deurbel met Chime",
-      "price": 158.0,
+      "price": 154.0,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "1.600+ reviews",
@@ -49,8 +49,8 @@
       "ean": "0194644151942",
       "bol_title": "eufy Security E340 Video Deurbel met Chime - Video Doorbell - Dual-Cam technologie - 2K Full HD-resolutie - Kleur nachtzicht - AI-pakketdetectie - Draadloze installatie - Compatibel met Alexa en Google Assistant",
       "url": "https://www.bol.com/nl/nl/p/s320-video-doorbell-kit/9300000157778701/",
-      "image": "https://media.s-bol.com/X9RLN7lEmNZg/9r3WWmY/550x745.jpg",
-      "synced": "2026-11-03",
+      "image": "https://media.s-bol.com/8yBw1J33PQO2/YExn5wW/283x840.jpg",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 172.0,
         "2026-10-16": 162.0,
@@ -70,11 +70,12 @@
         "2026-10-31": 153.0,
         "2026-11-01": 148.0,
         "2026-11-02": 158.0,
-        "2026-11-03": 158.0
+        "2026-11-03": 158.0,
+        "2026-11-04": 154.0
       },
       "low_price": 148.0,
-      "prev_price": 148.0,
-      "prev_date": "2026-11-01"
+      "prev_price": 158.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Tapo",
@@ -108,7 +109,7 @@
       "bol_title": "Tapo D210 Draadloze Video Deurbel met Camera - Inclusief Gong - Consumentenbond Beste Koop - 2K 3MP - 160° Beeld - Kleur Nachtzicht - Tot 6 Maanden Accu - Zonder Abonnement - IP65 - Tot 512GB Lokale Opslag - Alexa & Google",
       "url": "https://www.bol.com/nl/nl/p/tp-link-tapo-d210-slimme-deurbel-video-deurbel-inclusief-chime-gong-2k-3mp-batterij-ip65/9300000191578649/",
       "image": "https://media.s-bol.com/7xJxOJqJGzry/L9lQ0jg/524x840.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 77.0,
         "2026-10-16": 77.0,
@@ -128,7 +129,8 @@
         "2026-10-31": 71.0,
         "2026-11-01": 68.99,
         "2026-11-02": 68.99,
-        "2026-11-03": 68.99
+        "2026-11-03": 68.99,
+        "2026-11-04": 68.99
       },
       "low_price": 66.95,
       "prev_price": 71.0,
@@ -166,7 +168,7 @@
       "bol_title": "Ring Wired Video Doorbell 4K Pro - Vaste aansluiting",
       "url": "https://www.bol.com/nl/nl/p/ring-wired-doorbell-pro-zilver-bedrade-aansluiting-4k/9300000261491647/",
       "image": "https://media.s-bol.com/m3k4AZJx2gqO/r0z4ZrW/449x840.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 249.0,
         "2026-10-16": 249.0,
@@ -186,7 +188,8 @@
         "2026-10-31": 214.0,
         "2026-11-01": 214.0,
         "2026-11-02": 214.0,
-        "2026-11-03": 214.0
+        "2026-11-03": 214.0,
+        "2026-11-04": 214.0
       },
       "low_price": 201.85,
       "prev_price": 209.0,
@@ -224,7 +227,7 @@
       "bol_title": "Ring Battery Video Doorbell 2K met Chime - Speckled Grey",
       "url": "https://www.bol.com/nl/nl/p/ring-videodeurbel-op-batterij-met-chime-speckled-grey/9300000269606308/",
       "image": "https://media.s-bol.com/9503mWVO1DmD/Q0ED820/550x400.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 109.0,
         "2026-10-16": 105.8,
@@ -244,7 +247,8 @@
         "2026-10-31": 106.82,
         "2026-11-01": 105.8,
         "2026-11-02": 102.6,
-        "2026-11-03": 118.0
+        "2026-11-03": 118.0,
+        "2026-11-04": 118.0
       },
       "low_price": 99.99,
       "prev_price": 102.6,
@@ -254,7 +258,7 @@
       "label": null,
       "brand": "Reolink",
       "name": "Videodeurbel D340W bedraad",
-      "price": 125.0,
+      "price": 138.0,
       "score": 8.4,
       "reviews": "bol-score 4,1 van 5",
       "oneliner": "Bedrade wifi-deurbel met 5 MP-beeld in 4:3 en lokale opslag zonder abonnement.",
@@ -285,10 +289,13 @@
       "ph": {
         "2026-11-01": 125.0,
         "2026-11-02": 125.0,
-        "2026-11-03": 125.0
+        "2026-11-03": 125.0,
+        "2026-11-04": 138.0
       },
       "low_price": 125.0,
-      "synced": "2026-11-03"
+      "synced": "2026-11-04",
+      "prev_price": 125.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "Reolink",
@@ -331,17 +338,18 @@
         "2026-10-31": 104.39,
         "2026-11-01": 104.39,
         "2026-11-02": 104.39,
-        "2026-11-03": 104.39
+        "2026-11-03": 104.39,
+        "2026-11-04": 104.39
       },
       "low_price": 103.19,
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "prev_price": 103.19,
       "prev_date": "2026-10-26"
     },
     {
       "brand": "EZVIZ",
       "name": "EP8 Ultra",
-      "price": 149.0,
+      "price": 127.0,
       "score": 8.5,
       "label": null,
       "reviews": "200+ reviews",
@@ -370,7 +378,7 @@
       "bol_title": "EZVIZ EP8 Ultra - Videodeurbel met Camera met AI Scherm – 3K+ (6MP) Dual Lens – Pakketdetectie – Draadloos of Bedraad – 32GB ingebouwde opslag – Zonder Abonnement",
       "url": "https://www.bol.com/nl/nl/p/ezviz-ep8-ultra-videodeurbel-met-camera-6mp-dual-lens-ai-scherm-pakketdetectie-draadloos-of-bedraad-32gb-opslag-zonder-abonnement/9300000253014146/",
       "image": "https://media.s-bol.com/m3DvqWXj6OyG/MQjXnAm/550x591.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 149.0,
         "2026-10-16": 149.0,
@@ -390,11 +398,12 @@
         "2026-10-31": 149.99,
         "2026-11-01": 125.01,
         "2026-11-02": 125.01,
-        "2026-11-03": 149.0
+        "2026-11-03": 149.0,
+        "2026-11-04": 127.0
       },
       "low_price": 125.01,
-      "prev_price": 125.01,
-      "prev_date": "2026-11-02"
+      "prev_price": 149.0,
+      "prev_date": "2026-11-03"
     },
     {
       "brand": "eufy",
@@ -428,7 +437,7 @@
       "bol_title": "eufy Video Doorbell C31 + Chime - Voordeelbundel-2K FHD - Eenvoudige installatie - Snel verwisselbare batterij - Live videogesprek - 24/7 opname - Mens- en bewegingsdetectie - Compatibel met HomeBase S380 - Geen abonnementskosten",
       "url": "https://www.bol.com/nl/nl/p/eufy-video-doorbell-c31-chime-voordeelbundel/9300000195178469/",
       "image": "https://media.s-bol.com/mpzoP5GlxVKp/kRY848K/550x469.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 106.9,
         "2026-10-16": 107.0,
@@ -448,7 +457,8 @@
         "2026-10-31": 98.9,
         "2026-11-01": 98.9,
         "2026-11-02": 105.0,
-        "2026-11-03": 117.0
+        "2026-11-03": 117.0,
+        "2026-11-04": 117.0
       },
       "low_price": 98.4,
       "prev_price": 105.0,
@@ -485,8 +495,8 @@
       "ean": "0193575008592",
       "bol_title": "Google Nest Videodeurbel - Deurbeldrukker - Batterij - Wit",
       "url": "https://www.bol.com/nl/nl/p/google-nest-videodeurbel-deurbeldrukker-batterij-wit/9300000045807040/",
-      "image": "https://media.s-bol.com/B5J1nDj0wP4n/XoBEz7v/250x200.jpg",
-      "synced": "2026-11-03",
+      "image": "https://media.s-bol.com/VBxJN4KEPzqo/XoBEz7v/250x200.jpg",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 168.95,
         "2026-10-16": 168.95,
@@ -506,7 +516,8 @@
         "2026-10-31": 168.95,
         "2026-11-01": 168.95,
         "2026-11-02": 168.95,
-        "2026-11-03": 168.95
+        "2026-11-03": 168.95,
+        "2026-11-04": 168.95
       },
       "low_price": 159.0,
       "prev_price": 159.0,
@@ -515,7 +526,7 @@
     {
       "brand": "Aqara",
       "name": "Doorbell Camera G400 wired PoE",
-      "price": 84.99,
+      "price": 84.03,
       "score": 8.0,
       "label": null,
       "reviews": "100+ reviews",
@@ -544,7 +555,7 @@
       "bol_title": "Aqara Doorbell Camera G400 Select wired - 2K deurbelcamera met PoE",
       "url": "https://www.bol.com/nl/nl/p/aqara-doorbell-camera-g400-select-wired-2k-deurbelcamera-met-poe/9300000260317123/",
       "image": "https://media.s-bol.com/65VNR9gWD4on/rRX954p/550x639.jpg",
-      "synced": "2026-11-03",
+      "synced": "2026-11-04",
       "ph": {
         "2026-10-15": 90.99,
         "2026-10-16": 90.99,
@@ -564,11 +575,12 @@
         "2026-10-31": 85.99,
         "2026-11-01": 85.99,
         "2026-11-02": 84.99,
-        "2026-11-03": 84.99
+        "2026-11-03": 84.99,
+        "2026-11-04": 84.03
       },
       "low_price": 80.99,
-      "prev_price": 85.99,
-      "prev_date": "2026-11-01"
+      "prev_price": 84.99,
+      "prev_date": "2026-11-03"
     }
   ],
   "guide": [
