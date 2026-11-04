@@ -236,45 +236,40 @@
       "prev_date": "2026-11-03"
     },
     {
-      "brand": "AVM",
-      "name": "FRITZ!DECT 302",
-      "price": 81.37,
+      "brand": "Danfoss",
+      "name": "Eco elektronische radiatorknop",
+      "price": 56.09,
       "score": 8.4,
       "label": null,
-      "reviews": "1.100+ reviews",
-      "oneliner": "Radiatorknop die direct koppelt met je FRITZ!Box.",
+      "reviews": "Gem. 4,3 sterren op bol",
+      "oneliner": "Losse radiatorknop die je via Bluetooth instelt, zonder hub of abonnement.",
       "specs": {
         "Inhoud": "1 radiatorknop",
-        "Verbinding": "DECT ULE",
-        "Hub nodig": "FRITZ!Box met DECT",
+        "Verbinding": "Bluetooth",
+        "Hub nodig": "Nee",
         "Voeding": "AA-batterijen",
-        "Werkt met": "FRITZ!App Smart Home"
+        "Werkt met": "Danfoss Eco-app"
       },
       "pros": [
-        "Geen aparte hub als je al een FRITZ!Box hebt",
-        "E-ink display met toetsen op de knop",
-        "Geen abonnement en geen cloud nodig",
-        "Venster-open-detectie ingebouwd"
+        "Geen hub, account of abonnement nodig",
+        "Adapters voor de meeste radiatorkranen in de doos",
+        "Weekschema staat in de knop zelf",
+        "Lage prijs per kamer"
       ],
       "cons": [
-        "Alleen interessant met een FRITZ!Box",
-        "Geen Google Home of Apple Home zonder omweg"
+        "Alleen in de buurt te bedienen via Bluetooth",
+        "Geen koppeling met Google Home, Alexa of Apple Home"
       ],
-      "ideal": "Huishoudens met een FRITZ!Box die zonder extra hub per kamer willen regelen.",
-      "text": "De AVM FRITZ!DECT 302 is de logische keuze voor iedereen met een FRITZ!Box. Die router heeft een DECT-basisstation ingebouwd en dient daardoor direct als hub. Je drukt op de koppelknop van de router en de radiatorknop verschijnt in de FRITZ!Box-interface en in de FRITZ!App Smart Home.\n\nOp de knop zit een e-ink display met toetsen, zodat je ook zonder telefoon de temperatuur aanpast. Schema's per kamer, een vakantiestand en een boostfunctie stel je in via de router. Alles draait lokaal, zonder account bij een cloud of abonnement. DECT heeft een groot bereik, wat in huizen met betonnen vloeren een voordeel is. Gebruikers waarderen de stabiele verbinding en de lange batterijduur van ongeveer een stookseizoen. De beperking is de integratie: Google Home, Alexa of Apple Home werken niet rechtstreeks. Wie alles via spraak wil bedienen kijkt beter naar tado of Aqara.",
-      "ean": "4023125029615",
-      "bol_title": "AVM DECT 302 FRITZ!DECT 302 - slimme radiatorregelaar",
-      "url": "https://www.bol.com/nl/nl/p/avm-dect-302-fritz-dect-302-slimme-radiatorregelaar/9300000123678111/",
-      "image": "https://media.s-bol.com/8y76LqmQgjqr/P1gOPPA/539x840.jpg",
+      "ideal": "Wie een paar kamers op schema wil zetten zonder hub, cloud of smart-home-systeem.",
+      "text": "De Danfoss Eco is een elektronische radiatorknop die volledig op zichzelf werkt. Je koppelt hem via Bluetooth met de Danfoss Eco-app, stelt een weekschema in en daarna regelt de knop de radiator zelf. Er is geen hub, router of account nodig. Het schema staat in de knop opgeslagen, dus hij blijft werken als je telefoon niet thuis is. In de doos zitten adapters voor Danfoss-kranen en de meeste andere radiatorventielen, waardoor je hem in een paar minuten monteert.\n\nDe beperking zit in Bluetooth. Je past de temperatuur alleen aan als je in de buurt bent, dus vanaf je werk de verwarming hoger zetten lukt niet. Koppelen met Google Home, Alexa of Apple Home kan ook niet. Daar staat tegenover dat je geen gegevens in een cloud zet en geen abonnement afsluit. Kopers op bol geven gemiddeld 4,3 sterren en noemen vooral de eenvoudige montage. De batterijen zitten er niet bij. Wil je de verwarming ook op afstand bedienen, kijk dan naar tado of Aqara.",
+      "ean": "5702425245329",
+      "bol_title": "Danfoss ECO™ Elektronische radiatorthermostaat Elektronisch",
+      "url": "https://www.bol.com/nl/nl/p/danfoss-eco-draadloze-radiatorthermostaat-elektronisch/9300000111286785/",
+      "image": "https://media.s-bol.com/ZWJz64JNwp45/mZ021AO/550x481.jpg",
       "ph": {
-        "2026-10-30": 81.37,
-        "2026-10-31": 81.37,
-        "2026-11-01": 81.37,
-        "2026-11-02": 81.37,
-        "2026-11-03": 81.37,
-        "2026-11-04": 81.37
+        "2026-11-04": 56.09
       },
-      "low_price": 81.37,
+      "low_price": 56.09,
       "synced": "2026-11-04"
     },
     {
@@ -453,7 +448,7 @@
     },
     {
       "h": "Hub, bridge of niets?",
-      "p": "De meeste knoppen hebben een hub nodig om via internet bediend te worden. Tado, Netatmo, Danfoss en AQIOS leveren die in de starterskit. Bosch, Honeywell en AVM werken met een eigen controller of router. Aqara werkt via Matter over Thread, waarvoor een Apple TV, HomePod mini of Google Nest Hub volstaat. Kijk dus eerst wat je al in huis hebt."
+      "p": "De meeste knoppen hebben een hub nodig om via internet bediend te worden. Tado, Netatmo, Danfoss en AQIOS leveren die in de starterskit. Bosch en Honeywell werken met een eigen controller. De Danfoss Eco heeft helemaal geen hub nodig en werkt via Bluetooth. Aqara werkt via Matter over Thread, waarvoor een Apple TV, HomePod mini of Google Nest Hub volstaat. Kijk dus eerst wat je al in huis hebt."
     },
     {
       "h": "Past hij op mijn radiator?",
@@ -469,7 +464,7 @@
     },
     {
       "h": "Abonnement en privacy",
-      "p": "Tado biedt geofencing en automatische raam-open-detectie volledig alleen met Auto-Assist. Netatmo, Bosch, Honeywell, AVM en Aqara hebben geen abonnement. Wil je alles lokaal houden zonder cloud, kies dan AVM met een FRITZ!Box, Bosch met de Smart Home Controller of Shelly met Home Assistant."
+      "p": "Tado biedt geofencing en automatische raam-open-detectie volledig alleen met Auto-Assist. Netatmo, Bosch, Honeywell, Danfoss en Aqara hebben geen abonnement. Wil je alles lokaal houden zonder cloud, kies dan de Danfoss Eco via Bluetooth, Bosch met de Smart Home Controller of Shelly met Home Assistant."
     }
   ],
   "faq": [

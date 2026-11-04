@@ -548,61 +548,40 @@
     },
     {
       "brand": "Black+Decker",
-      "name": "BDCDD12-QW",
-      "price": 51.59,
+      "name": "BDCDC18-QW",
+      "price": 56.99,
       "score": 7.8,
       "label": null,
-      "reviews": "2.200+ reviews",
-      "oneliner": "Eenvoudige 12-volter voor af en toe een schroefje.",
+      "reviews": "4,6/5 op bol",
+      "oneliner": "Eenvoudige 18-volter met wisselaccu voor lichte klussen in huis.",
       "specs": {
-        "Voltage": "12 V",
-        "Koppel": "10,5 Nm",
-        "Toerental": "550 tpm",
-        "Accu": "1× 1,5 Ah ingebouwd",
-        "Gewicht": "1,0 kg"
+        "Voltage": "18 V",
+        "Koppel": "30 Nm",
+        "Toerental": "650 tpm",
+        "Accu": "1× 1,5 Ah wisselbaar",
+        "Gewicht": "ca. 1,5 kg"
       },
       "pros": [
         "Lage prijs",
-        "Licht en eenvoudig in gebruik",
         "Accu en lader inbegrepen",
-        "Prima voor meubels in elkaar zetten"
+        "Wisselbare accu van het 18V-platform",
+        "LED-lampje bij de boorkop"
       ],
       "cons": [
-        "Weinig kracht",
-        "Ingebouwde accu niet te wisselen"
+        "Maar één snelheid",
+        "Laden duurt ongeveer zes uur"
       ],
-      "ideal": "Wie zelden klust en vooral meubels wil monteren.",
-      "text": "De Black+Decker BDCDD12 is de eenvoudigste machine in deze lijst en dat is precies de bedoeling. Voor rond de 60 euro krijg je een lichte schroefboormachine met ingebouwde accu en lader. Het koppel van 10,5 Nm is genoeg om meubels in elkaar te zetten, schakelaars te vervangen en kleine schroeven in zacht hout te draaien.\n\nVoor gaten in hardhout, metaal of steen is hij niet geschikt; het lage toerental en koppel maken dat te traag. De accu zit vast in de machine, dus je kunt hem niet vervangen of wisselen. Als hij na een aantal jaar slijt, is de machine op. Gebruikers die hem voor kleine klussen kopen zijn tevreden; wie meer verwacht wordt teleurgesteld. Zie hem als vervanger van een handschroevendraaier, niet als volwaardige boormachine. Voor een student of eerste woning is hij een praktische keuze.",
-      "ean": "5035048631812",
-      "bol_title": "BLACK+DECKER 10,8V Lithium Ion accu schroef-/boormachine met 1,5Ah accu, 11 koppelinstellingen, LED verlichting, 200mA lader - BDCDD12-QW",
-      "url": "https://www.bol.com/nl/nl/p/black-decker-bdcdd12-qw-accuboormachine-10-8v-met-schroeffunctie-inclusief-accu-en-lader/9200000057567177/",
-      "image": "https://media.s-bol.com/o1QVpOrVB4zX/nZWEmKP/550x692.jpg",
-      "synced": "2026-11-04",
+      "ideal": "Wie af en toe klust en vooral meubels, planken en gordijnrails wil monteren.",
+      "text": "De Black+Decker BDCDC18 is de eenvoudigste machine in deze lijst en dat is precies de bedoeling. Voor rond de 57 euro krijg je een 18 volt schroefboormachine met accu van 1,5 Ah en lader. Met 30 Nm koppel en elf koppelstanden zet je meubels in elkaar, hang je planken op en boor je gaten tot 25 millimeter in hout of 10 millimeter in metaal.\n\nVoor steen of beton is hij niet bedoeld, want een klopfunctie ontbreekt. Er is maar één snelheid tot 650 toeren per minuut, wat voor schroeven prima is maar bij grotere gaten traag voelt. De accu schuif je er aan de voorkant in en past ook op ander 18V-gereedschap van Black+Decker. Kopers op bol geven hem gemiddeld 4,6 sterren en noemen vooral het lage gewicht en de prijs. Het laden met de standaardlader duurt ongeveer zes uur. Voor een student of eerste woning is dit een praktische keuze.",
+      "ean": "5035048645444",
+      "bol_title": "BLACK+DECKER 18V Lithium Ion accu schroef-/boormachine met 1,5Ah accu, 1 variabele snelheid. - BDCDC18-QW",
+      "url": "https://www.bol.com/nl/nl/p/black-decker-bdcdc18-qw-accuboormachine-18v-met-schroeffunctie-inclusief-accu-en-lader/9200000057129265/",
+      "image": "https://media.s-bol.com/xkqZVYp4gzY9/550x731.jpg",
       "ph": {
-        "2026-10-15": 51.48,
-        "2026-10-16": 51.48,
-        "2026-10-17": 51.48,
-        "2026-10-18": 51.48,
-        "2026-10-19": 51.48,
-        "2026-10-20": 51.48,
-        "2026-10-21": 51.48,
-        "2026-10-23": 51.59,
-        "2026-10-24": 51.59,
-        "2026-10-25": 51.59,
-        "2026-10-26": 51.59,
-        "2026-10-27": 51.59,
-        "2026-10-28": 51.59,
-        "2026-10-29": 51.59,
-        "2026-10-30": 51.59,
-        "2026-10-31": 51.59,
-        "2026-11-01": 51.59,
-        "2026-11-02": 51.59,
-        "2026-11-03": 51.59,
-        "2026-11-04": 51.59
+        "2026-11-04": 56.99
       },
-      "low_price": 51.48,
-      "prev_price": 51.48,
-      "prev_date": "2026-10-21"
+      "low_price": 56.99,
+      "synced": "2026-11-04"
     }
   ],
   "guide": [
@@ -638,7 +617,7 @@
     },
     {
       "q": "Wordt de accu meegeleverd?",
-      "a": "Dat verschilt per uitvoering. In deze lijst worden alle modellen met accu geleverd, behalve de Einhell TE-CD 18/40 Li Solo. Bij de Black+Decker BDCDD12 zit de accu vast ingebouwd. Controleer bij het bestellen altijd de toevoeging aan het typenummer."
+      "a": "Dat verschilt per uitvoering. In deze lijst worden alle modellen met accu geleverd, behalve de Einhell TE-CD 18/40 Li Solo. De Black+Decker BDCDC18 komt met één accu van 1,5 Ah. Controleer bij het bestellen altijd de toevoeging aan het typenummer."
     },
     {
       "q": "Kun je met een accuboormachine in beton boren?",

@@ -19,7 +19,7 @@
   "published": "2026-10-28",
   "reviews_total": "2.500",
   "intro": "Koude voeten op de bank of onder je bureau los je goedkoper op met een elektrische voetenwarmer dan met de verwarming een paar graden hoger. Je kiest tussen een gesloten voetenzak en een verwarmde mat waar je je voeten op zet. De verschillen zitten in het aantal warmtestanden, de timer, een wasbare voering en het verbruik. Wij vergeleken 25 voetenwarmers op specificaties, prijs en kopersreviews op bol. Dit zijn de tien beste elektrische voetenwarmers van 2026, van een voetenzak onder de 25 euro tot een luxe model met zes standen.",
-  "verdict": "De Sanbo Elektrische Voetenwarmer met Timer is de beste keuze voor de meeste mensen: vijf warmtestanden, automatisch uit na 90 minuten en een wasbare voering voor rond de 30 euro. De Alpina FW-001A is de beste prijs-kwaliteit als je alleen de basis wilt. Wil je de zachtste voetenzak met zes standen, kies dan de Lifeshift als beste premium. Werk je aan een bureau, dan is de VH Etna mat met timer de slimste keuze.",
+  "verdict": "De Sanbo Elektrische Voetenwarmer met Timer is de beste keuze voor de meeste mensen: vijf warmtestanden, automatisch uit na 90 minuten en een wasbare voering voor rond de 30 euro. De Alpina FW-001A is de beste prijs-kwaliteit als je alleen de basis wilt. Wil je de zachtste voetenzak met zes standen, kies dan de Wevelnit als beste premium. Werk je aan een bureau, dan is de VH Etna mat met timer de slimste keuze.",
   "products": [
     {
       "brand": "Sanbo",
@@ -66,47 +66,40 @@
       "synced": "2026-11-04"
     },
     {
-      "brand": "Lifeshift",
+      "brand": "Wevelnit",
       "name": "Elektrische Voetenwarmer 6 standen",
-      "price": 79.95,
+      "price": 45.0,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "Gem. 4,6 sterren op bol",
-      "oneliner": "Luxe voetenzak met zes standen, timer en lang snoer.",
+      "reviews": "Nieuw op bol",
+      "oneliner": "Zachte fleece voetenzak met zes standen en een timer.",
       "specs": {
         "Type": "Voetenzak",
         "Warmtestanden": "6",
         "Uitschakeling": "Timer",
         "Wasbaar": "Ja, zonder bediening",
-        "Snoer": "2,3 m"
+        "Snoer": "1,8 m"
       },
       "pros": [
         "Zes warmtestanden van mild tot warm",
-        "Hoge gemiddelde beoordeling op bol",
-        "Snoer van 2,3 meter geeft bewegingsvrijheid",
+        "Timer met automatische uitschakeling",
+        "Past tot schoenmaat 47",
         "Machinewasbaar na loskoppelen van de bediening"
       ],
       "cons": [
-        "Ruim twee keer zo duur als vergelijkbare voetenzakken",
+        "Nog geen reviews op bol",
         "Fabrikant noemt geen vermogen of exacte uitschakeltijd"
       ],
-      "ideal": "Wie een zachte, luxe voetenzak wil of een warm cadeau zoekt.",
-      "text": "De Lifeshift voetenwarmer is de duurste voetenzak in deze vergelijking, maar ook een van de best beoordeelde. Kopers op bol geven hem gemiddeld 4,6 sterren. Hij heeft zes warmtestanden, zodat je van lauw tot flink warm kunt kiezen. Het snoer is 2,3 meter lang. Daardoor zet je hem makkelijk voor de bank of onder je bureau, ook als het stopcontact niet direct naast je zit.\n\nVoor de veiligheid heeft Lifeshift een oververhittingsbeveiliging en een timer met automatische uitschakeling ingebouwd. Als je de elektrische onderdelen loskoppelt, mag de voetenzak in de wasmachine. Kopers noemen vooral de zachte stof en de gelijkmatige warmte. Een minpunt is dat Lifeshift geen vermogen en geen exacte uitschakeltijd vermeldt. Je betaalt bijna 80 euro, terwijl de Sanbo of Auronic voor rond de 30 euro vergelijkbare functies bieden. Kies de Lifeshift als je het extra comfort belangrijk vindt of als je een cadeau zoekt dat net wat luxer aanvoelt.",
-      "ean": "8720387216222",
-      "bol_title": "Lifeshift Elektrische Voetenwarmer - 6 Warmtestanden - met Timer en Overhittingsbeveiliging - Wasbaar",
-      "url": "https://www.bol.com/nl/nl/p/liufeshift-warmtekussen-voor-voeten/9300000145054732/",
-      "image": "https://media.s-bol.com/mVOm1mnjx0E3/moJ0wO/550x552.jpg",
+      "ideal": "Wie meer standen wil dan bij een basismodel of een warm cadeau zoekt.",
+      "text": "De Wevelnit voetenwarmer is een ruime voetenzak van zachte fleece met zes warmtestanden. Dat zijn er meer dan bij de meeste modellen in deze lijst, zodat je van lauw tot flink warm precies de stand kiest die bij je past. De zak past tot schoenmaat 47 en het snoer is 1,8 meter lang. Daardoor zet je hem makkelijk voor de bank of onder je bureau.\n\nVoor de veiligheid heeft Wevelnit een oververhittingsbeveiliging en een timer met automatische uitschakeling ingebouwd. Haal je de elektrische onderdelen eruit, dan mag de voetenzak in de wasmachine. Een minpunt is dat de fabrikant geen vermogen en geen exacte uitschakeltijd vermeldt. Op bol zijn ook nog geen reviews te vinden, dus je weet minder over de levensduur dan bij Beurer of Sanbo. Je betaalt ongeveer 45 euro, iets meer dan de Sanbo of Auronic. Kies de Wevelnit als je het extra comfort van zes standen belangrijk vindt of als je een cadeau zoekt dat net wat luxer aanvoelt.",
+      "ean": "8721398124414",
+      "bol_title": "Wevelnit - Voetenwarmer - 6 Warmtestanden - met Timer en Overhittingsbeveiliging - Wasbaar",
+      "url": "https://www.bol.com/nl/nl/p/elektrische-voetenwarmer-6-warmtestanden-met-timer-en-overhittingsbeveiliging-wasbaar/9300000247534612/",
+      "image": "https://media.s-bol.com/7RAB2LyL4NQG/GZk0J1J/550x550.jpg",
       "ph": {
-        "2026-10-28": 79.95,
-        "2026-10-29": 79.95,
-        "2026-10-30": 79.95,
-        "2026-10-31": 79.95,
-        "2026-11-01": 79.95,
-        "2026-11-02": 79.95,
-        "2026-11-03": 79.95,
-        "2026-11-04": 79.95
+        "2026-11-04": 45.0
       },
-      "low_price": 79.95,
+      "low_price": 45.0,
       "synced": "2026-11-04"
     },
     {
@@ -510,7 +503,7 @@
     },
     {
       "q": "Kun je een elektrische voetenwarmer wassen?",
-      "a": "Bij de meeste voetenzakken haal je de binnenvoering eruit en was je die op 30 graden in de wasmachine. De buitenkant met de verwarming neem je af met een vochtige doek. Sommige modellen zoals de Lifeshift mogen in hun geheel in de machine nadat je de bediening hebt losgekoppeld."
+      "a": "Bij de meeste voetenzakken haal je de binnenvoering eruit en was je die op 30 graden in de wasmachine. De buitenkant met de verwarming neem je af met een vochtige doek. Sommige modellen zoals de Wevelnit mogen in hun geheel in de machine nadat je de bediening hebt losgekoppeld."
     },
     {
       "q": "Wat is beter: een voetenzak of een verwarmde voetenmat?",
