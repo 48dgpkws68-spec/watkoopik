@@ -35,3 +35,4 @@
 
 /* tweede winkel: Amazon als bescheiden tekstlink naast de bol-knop (30 okt 2026) */
 .amz-link{display:inline-block;font-size:.84rem;font-weight:600;color:var(--ink2);text-decoration:underline;text-underline-offset:3px;margin-left:4px}.amz-link:hover{color:#0f5c4c}.pd .amz-link{margin:8px 0 0;align-self:flex-start}
+.theme-green .clnav .cl-all{background:#0f5c4c;border-color:#0f5c4c}

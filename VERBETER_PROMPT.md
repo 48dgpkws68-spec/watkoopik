@@ -17,6 +17,12 @@ STAP 2b. Vaste checks elke avond: python3 tools/check_links.py (controleert zond
 
 STAP 2c. Leverbaarheid (sinds 24 okt 2026): draai python3 tools/check_stock.py. Elk product met "geen aanbieding" of "product weg" is een kapotte koopknop en gaat vóór alle andere verbeteringen: eerst een leverbare variant van hetzelfde model zoeken (python3 tools/bol_search.py), anders vervangen volgens FOTO_FIX.md stap 2c, met voorrang voor producten op plek 1 tot 3. Daarna python3 tools/bol_sync.py.
 
+STAP 2d. Social-controle (elke avond verplicht, sinds 4 nov 2026 na klacht van Nick: video's met 2 producten, oude producten, ontbrekende foto's):
+ a) cd "/Users/nickvanstraaten/Desktop/4neon /fable5/watkoopik-social" && python3 wachtrij.py check 8 : de komende 8 video's moeten allemaal "top5" zijn. Staat er iets anders (hl-*, ditofdat, prijs, tip, top3) of meer dan 4 keer "WORDT VERNIEUWD": python3 wachtrij.py herplan 8 (alleen top 5's, duurste gidsen eerst, rendert de eerste 8 vers).
+ b) Maak van de volgende 2 video's een contactblad en bekijk het met Read: "bin/ffmpeg" -loglevel error -y -i <mp4> -vf "fps=8/15,scale=270:-1,tile=8x1" -frames:v 1 <scratchpad>/blad.jpg . Eisen: 5 producten (#5 tot #1), bij elk product een echte productfoto, naam en prijs leesbaar, prijzen gelijk aan de gids. Fout: python3 wachtrij.py vers <index>, en ligt het aan een gids (foto of product), los dat in de gids op.
+ c) Pinterest: python3 -c die in queue_pin.json vanaf state_pin "next" de komende 6 items toont; next_post.py maakt pins en video-pins vlak voor plaatsing opnieuw als de gids veranderd is, dus alleen ingrijpen als een gids niet meer bestaat.
+ d) Noteer in IMPROVEMENTS.md wat je vond, ook als alles klopte ("social: 8/8 top 5, 2 bladen ok").
+
 STAP 3. Kies 1 tot 3 verbeteringen met de grootste verwachte impact en voer ze volledig door. Voorbeelden van wat mag:
  - Gidsen verbeteren waar vertoningen zijn maar weinig kliks: betere titel/meta description, duidelijkere winnaarsblokken, extra FAQ op zoekvragen uit Search Console.
  - Nieuwe subgidsen toevoegen aan BACKLOG.md bovenaan ("beste X voor Y", "onder € Z") op basis van echte zoekvragen.

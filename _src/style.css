@@ -517,3 +517,14 @@ section .wrap.narrow.rv{background:rgba(18,10,40,.5);border:1px solid var(--line
 .t3 b{font-size:.88rem;line-height:1.25;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .t3 em{font-style:normal;font-weight:700;font-size:.85rem;color:#3ee08f}
 @media (max-width:760px){.t3-row{grid-template-columns:minmax(0,1fr);gap:8px}.t3 img{width:48px;height:48px}}
+
+/* productfamilies (4 nov 2026): balk met alle gidsen van hetzelfde product, overzichten "Welke X kopen?" */
+.clnav{display:flex;flex-wrap:wrap;gap:7px;padding:12px 0 2px}
+.clnav a,.clnav span{flex:none;border:1px solid var(--line2);border-radius:999px;padding:6px 13px;font-size:.84rem;font-weight:600;white-space:nowrap;color:#fff;background:var(--glass);transition:background .2s,border-color .2s}
+.clnav a:hover{background:var(--glass2)}
+.clnav .cl-all{background:linear-gradient(110deg,#7c5cff,#ff4fd8);border-color:transparent;color:#fff}
+.clnav .on{opacity:.55}
+.cl-hubs{margin:4px 0 14px}
+.cl-more{margin-top:18px}
+.hubtbl td.nm a{white-space:nowrap}
+@media (max-width:640px){.clnav{flex-wrap:nowrap;overflow-x:auto;margin:0 -18px;padding:12px 18px 2px;scrollbar-width:none;-webkit-overflow-scrolling:touch}.clnav::-webkit-scrollbar{display:none}}

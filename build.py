@@ -229,6 +229,52 @@ VS_BY_GUIDE = {}
 for v in VS_PAGES: VS_BY_GUIDE.setdefault(v["gids"], []).append(v)
 def vs_title(v): return "%s %s vs %s %s" % (v["pa"]["brand"], v["pa"]["name"], v["pb"]["brand"], v["pb"]["name"])
 
+# ---------- productfamilies (sinds 4 nov 2026, _src/clusters.json) ----------
+# Gidsen over hetzelfde product linken allemaal naar elkaar: balk onder de kruimels plus een alinea in de koopgids.
+# Families met minstens drie gidsen krijgen een overzicht op welke/<key>-kopen.html. Een nieuwe gids valt vanzelf in een
+# familie als de slug (zonder "beste-") op het patroon past; de volgorde in clusters.json bepaalt de hoofdfamilie.
+CLUSTERS = []
+CL_OF = {}  # slug -> families waar de gids in valt, hoofdfamilie eerst
+for c in json.load(open(os.path.join(ROOT, "_src", "clusters.json"), encoding="utf-8")):
+    rx = re.compile(c["match"])
+    ms = [g for g in guides if rx.match(g["slug"][6:])]
+    main = next((g for g in ms if g["slug"] == c.get("main")), None)
+    c["members"] = ([main] + [g for g in ms if g is not main]) if main else ms
+    if len(ms) < 2: continue
+    c["hub"] = "welke/%s-kopen.html" % c["key"] if len(ms) >= 3 else None
+    CLUSTERS.append(c)
+    for g in ms: CL_OF.setdefault(g["slug"], []).append(c)
+HUBS = [c for c in CLUSTERS if c["hub"]]
+def cap1(s): return s[:1].upper() + s[1:]
+def low1(s):
+    w = s.split(" ")[0]
+    return s[:1].lower() + s[1:] if w[1:] == w[1:].lower() else s
+def welk(c): return "Welk" if c.get("welk") else "Welke"
+def hub_q(c): return "%s %s kopen?" % (welk(c), c["enkel"])
+def cl_nav(g, root="../"):
+    """Balk met alle gidsen uit de hoofdfamilie, de huidige gids gemarkeerd."""
+    cs = CL_OF.get(g["slug"])
+    if not cs: return ""
+    c = cs[0]
+    first = ('<a class="cl-all" href="%s%s">Alle %d %s</a>' % (root, c["hub"], len(c["members"]), e(c["meervoud"]))) if c["hub"] else '<span class="cl-all">%s</span>' % e(cap1(c["meervoud"]))
+    items = []
+    for x in c["members"]:
+        if x is g: items.append('<span class="on" aria-current="page">%s</span>' % e(x["short"]))
+        else: items.append('<a href="%s%s">%s</a>' % (root, x["url"], e(x["short"])))
+    return '<nav class="clnav" aria-label="Alle %s">%s%s</nav>' % (e(c["meervoud"]), first, "".join(items))
+def cl_more(g, root="../"):
+    """Alinea onder de koopgids met tekstlinks naar de andere gidsen uit de hoofdfamilie."""
+    cs = CL_OF.get(g["slug"])
+    if not cs: return ""
+    c = cs[0]
+    links = ['<a href="%s%s">%s</a>' % (root, x["url"], e(low1(x["short"]))) for x in c["members"] if x is not g]
+    lst = links[0] if len(links) == 1 else ", ".join(links[:-1]) + " en " + links[-1]
+    s = "Verder vergelijken? We hebben ook gidsen voor %s." % lst
+    if c["hub"]: s += ' Of bekijk <a href="%s%s">alle %s op een rij</a>.' % (root, c["hub"], e(c["meervoud"]))
+    return '<p class="cl-more">%s</p>' % s
+def hub_chips(cs, root=""):
+    return '<nav class="clnav cl-hubs" aria-label="Overzichten">%s</nav>' % "".join('<a href="%s%s">%s</a>' % (root, c["hub"], e(hub_q(c))) for c in cs) if cs else ""
+
 def deal_row(g, p, d, root):
     return '''<div class="deal rv"><a class="deal-img" href="%s%s#p%d">%s</a><div class="deal-bd"><span class="deal-pct">%d%% lager</span><h3><a href="%s%s#p%d">%s %s</a></h3><small>Nr. %d in <a href="%s%s">%s</a></small>
 <div class="deal-pr"><b>%s</b><span>eerder gemeten %s</span></div><small class="chk">Gezakt op %s · laagste gemeten prijs %s sinds %s</small></div><div class="deal-buy">%s</div></div>''' % (
@@ -311,7 +357,8 @@ def chrome(active, root):
 PREF_BTN = '<a class="pref-src" href="https://google.com/preferences/source?q=watkoopik.nl" target="_blank" rel="noopener" data-umami-event="preferred-source"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="#4285F4" d="M22.5 12.3c0-.8-.1-1.5-.2-2.3H12v4.3h5.9a5 5 0 0 1-2.2 3.3v2.7h3.6c2.1-1.9 3.2-4.8 3.2-8z"/><path fill="#34A853" d="M12 23c3 0 5.5-1 7.3-2.7l-3.6-2.7c-1 .7-2.2 1-3.7 1-2.9 0-5.3-1.9-6.2-4.5H2.1v2.8A11 11 0 0 0 12 23z"/><path fill="#FBBC05" d="M5.8 14.1a6.6 6.6 0 0 1 0-4.2V7.1H2.1a11 11 0 0 0 0 9.8z"/><path fill="#EA4335" d="M12 5.4c1.6 0 3 .6 4.2 1.6l3.1-3.1A11 11 0 0 0 2.1 7.1l3.7 2.8C6.7 7.3 9.1 5.4 12 5.4z"/></svg>Voeg watkoopik toe als voorkeursbron in Google</a>'
 
 def footer(root):
-    pop = "".join('<li><a href="%s%s">%s</a></li>' % (root, g["url"], e(g["short"])) for g in guides[:7])
+    pop = "".join('<li><a href="%s%s">%s</a></li>' % (root, g["url"], e(g["short"])) for g in guides[:5])
+    pop += '</ul><h4 style="margin-top:18px">Overzichten</h4><ul>' + "".join('<li><a href="%s%s">%s</a></li>' % (root, c["hub"], e(hub_q(c))) for c in sorted(HUBS, key=lambda c: -len(c["members"]))[:8])
     cats = "".join('<li><a href="%scategorie/%s.html">%s</a></li>' % (root, k, v[0]) for k, v in CATS.items() if by_cat.get(k))
     return '''<footer><div class="wrap"><div class="cols">
 <div><a class="logo" href="%s">%s<span class="logo-word">wat<b>koop</b>ik</span></a><p style="margin-top:12px;font-size:.92rem">Onafhankelijke top 10-gidsen. Wij vergelijken prijs, specificaties en reviews zodat jij in vijf minuten de juiste keuze maakt.</p></div>
@@ -468,8 +515,8 @@ page("index.html", "watkoopik · De beste producten van %d vergeleken" % YEAR, "
 # ---------- alle gidsen met filter ----------
 filt = '<div class="filters"><button class="on" data-cat="alle">Alle</button>%s</div>' % "".join('<button data-cat="%s">%s</button>' % (k, v[0]) for k, v in CATS.items() if by_cat.get(k))
 page("gidsen.html", "Alle top 10-gidsen | watkoopik", "Overzicht van alle top 10-gidsen van watkoopik, te filteren per categorie.",
-     '<section data-hue="1" style="padding-top:34px"><div class="wrap"><span class="kick">Overzicht</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">Alle %d top 10-gidsen</h1><p class="muted" style="max-width:620px">Filter op categorie of zoek direct op product of merk.</p><div style="max-width:560px;margin:14px 0 18px">%s</div>%s<div class="gl">%s</div></div></section>' % (
-         len(guides), searchbox(), filt, "".join(gcard(g) for g in guides)), "gidsen.html")
+     '<section data-hue="1" style="padding-top:34px"><div class="wrap"><span class="kick">Overzicht</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">Alle %d top 10-gidsen</h1><p class="muted" style="max-width:620px">Filter op categorie of zoek direct op product of merk.</p><div style="max-width:560px;margin:14px 0 18px">%s</div>%s%s<div class="gl">%s</div></div></section>' % (
+         len(guides), searchbox(), hub_chips(sorted(HUBS, key=lambda c: -len(c["members"]))), filt, "".join(gcard(g) for g in guides)), "gidsen.html")
 
 # ---------- categorieën ----------
 for k, v in CATS.items():
@@ -477,8 +524,9 @@ for k, v in CATS.items():
     if not gs or k == "cadeaus": continue
     body = '''<section style="padding-top:20px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › %s</nav>
 <span class="kick" style="margin-top:14px">Categorie</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">De beste %s van %d</h1>
-<p class="muted" style="max-width:760px">%s</p><p class="muted" style="max-width:760px;font-size:.9rem">%d gidsen in deze categorie · %s</p>
-<div class="gl" style="margin-top:22px">%s</div></div></section>''' % (v[0], v[0].lower(), YEAR, e(CAT_INTRO.get(k) or (v[1] + ". In deze gidsen vergelijken we per productsoort de tien beste modellen op prijs, specificaties en gebruikersreviews.")), len(gs),
+<p class="muted" style="max-width:760px">%s</p>%s<p class="muted" style="max-width:760px;font-size:.9rem">%d gidsen in deze categorie · %s</p>
+<div class="gl" style="margin-top:22px">%s</div></div></section>''' % (v[0], v[0].lower(), YEAR, e(CAT_INTRO.get(k) or (v[1] + ". In deze gidsen vergelijken we per productsoort de tien beste modellen op prijs, specificaties en gebruikersreviews.")),
+        hub_chips([c for c in HUBS if c["cat"] == k or any(x["cat"] == k for x in c["members"])], "../"), len(gs),
         " · ".join('<a href="../%s">%s</a>' % (x["url"], e(x["short"])) for x in sorted(gs, key=lambda x: x["short"].lower())), "".join(gcard(g, "../") for g in gs))
     cld = [{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"}, {"@type": "ListItem", "position": 2, "name": v[0], "item": SITE + "/categorie/%s.html" % k}]},
            {"@context": "https://schema.org", "@type": "ItemList", "name": "Beste %s van %d" % (v[0].lower(), YEAR), "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": SITE + "/" + x["url"], "name": x["title"]} for i, x in enumerate(gs)]}]
@@ -513,12 +561,15 @@ for g in guides:
         eur(p["price"]), stars(p["score"]), p["score"], e(p.get("reviews", "")), bars(p, g), "".join("<span><b>%s:</b> %s</span>" % (e(k), e(str(v))) for k, v in p["specs"].items()),
         "".join("<p>%s</p>" % e(t) for t in p["text"].split("\n\n")), "".join("<li>%s</li>" % e(x) for x in p["pros"]), "".join("<li>%s</li>" % e(x) for x in p["cons"]),
         e(p["ideal"]), shop_a(p, g), amazon_a(p, g), e(chk_date(p, g))) for p in ps)
-    guide_html = "".join("<h3>%s</h3>%s" % (e(s["h"]), "".join("<p>%s</p>" % e(t) for t in s["p"].split("\n\n"))) for s in g["guide"])
+    guide_html = "".join("<h3>%s</h3>%s" % (e(s["h"]), "".join("<p>%s</p>" % e(t) for t in s["p"].split("\n\n"))) for s in g["guide"]) + cl_more(g)
+    hubc = next((c for c in CL_OF.get(g["slug"], []) if c["hub"]), None)  # familie-overzicht in kruimelpad en schema
     faq = "".join("<details><summary>%s</summary><p>%s</p></details>" % (e(q["q"]), e(q["a"])) for q in g["faq"])
     toc = "".join('<li><a href="#p%d">%s %s</a></li>' % (p["rank"], e(p["brand"]), e(p["name"])) for p in ps)
     # varianten van hetzelfde product eerst (beste-airfryer <-> beste-airfryer-1-persoon), daarna dezelfde categorie
     stem = lambda sl: sl[6:].split("-")[0]
-    fam = [x for x in guides if x["slug"] != g["slug"] and stem(x["slug"]) == stem(g["slug"])]
+    fam, _ids = [], {id(g)}  # eerst de productfamilies, dan gidsen met dezelfde stam
+    for x in [x for c in CL_OF.get(g["slug"], []) for x in c["members"]] + [x for x in guides if stem(x["slug"]) == stem(g["slug"])]:
+        if id(x) not in _ids: _ids.add(id(x)); fam.append(x)
     words = lambda x: set(re.findall(r"[a-zà-ü]{4,}", " ".join([x["slug"], x["query"]] + x.get("keywords", [])).lower())) - {"beste", "goedkoop", "kopen", "2026", "review", "test"}
     gw = words(g)
     same = [x for x in fam if x["cat"] == g["cat"]] + sorted([x for x in by_cat[g["cat"]] if x["slug"] != g["slug"] and x not in fam], key=lambda x: -len(gw & words(x)))
@@ -547,10 +598,11 @@ for g in guides:
           {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["a"]}} for q in g["faq"]]},
           {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
               {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"},
-              {"@type": "ListItem", "position": 2, "name": CATS[g["cat"]][0], "item": SITE + "/categorie/%s.html" % g["cat"]},
-              {"@type": "ListItem", "position": 3, "name": g["title"], "item": url_abs}]}]
+              {"@type": "ListItem", "position": 2, "name": CATS[g["cat"]][0], "item": SITE + "/categorie/%s.html" % g["cat"]}] +
+              ([{"@type": "ListItem", "position": 3, "name": cap1(hubc["meervoud"]), "item": SITE + "/" + hubc["hub"]}] if hubc else []) +
+              [{"@type": "ListItem", "position": 4 if hubc else 3, "name": g["title"], "item": url_abs}]}]
     extra = "".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in ld)
-    body = '''<div class="wrap"><nav class="crumbs"><a href="../">Home</a> › <a href="../categorie/%s.html">%s</a> › %s</nav>
+    body = '''<div class="wrap"><nav class="crumbs"><a href="../">Home</a> › <a href="../categorie/%s.html">%s</a> › %s</nav>%s
 <div class="ghero"><span class="kick">Top 10 · %s</span><h1 class="split">%s</h1><p class="intro">%s</p>
 <div class="meta-line"><span>Bijgewerkt <b>%s</b></span><span><b>%d</b> modellen</span>%s<span>Door <b>de redactie</b></span></div>
 <p class="disc disc-top">Bevat affiliatelinks, <a href="#disclaimer">zo verdienen wij</a>.</p></div>
@@ -569,7 +621,7 @@ for g in guides:
 <section style="padding:40px 0"><div class="sec-head"><h2>Meer gidsen in %s</h2><a class="more" href="../categorie/%s.html">Alle %d →</a></div><div class="gl">%s</div></section>
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
-        g["cat"], CATS[g["cat"]][0], e(g["short"]), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
+        g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
         own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
@@ -701,6 +753,49 @@ sv = "".join('<a class="rw rv" href="%s"><div class="rw-img">%s</div><div><h3>%s
 page("slimste-koop.html", "De slimste koop per productsoort | watkoopik", "Per categorie het product met de beste prijs-kwaliteitverhouding uit onze top 10-gidsen.",
      '<section data-hue="1" style="padding-top:34px"><div class="wrap narrow"><span class="kick">Prijs-kwaliteit</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">De slimste koop per productsoort</h1><p class="muted">Niet het duurste, wel het verstandigste: per gids het model dat de meeste kwaliteit per euro biedt.</p><div class="rows" style="margin-top:20px">%s</div></div></section>' % sv, "slimste-koop.html")
 
+# ---------- familie-overzichten "Welke X kopen?" (sinds 4 nov 2026) ----------
+# Per familie: snelkiezer met de nr. 1 en slimste koop van elke gids (dagprijzen), alle gidskaarten en een FAQ uit de data.
+def lijst(xs): return xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " en " + xs[-1]
+def hub_page(c):
+    ms = c["members"]; main = ms[0]; top = win(main); bv = best_value(main); n = len(ms)
+    allp = [p for g in ms for p in g["products"]]
+    prices = sorted(p["price"] for p in allp)
+    good = sorted((p for p in allp if p["score"] >= 8), key=lambda p: p["price"])
+    chk = max((p.get("synced") or g.get("updated", "")) for g in ms for p in g["products"])
+    rows = "".join('<tr><td class="nm"><a href="../%s"><b>%s</b></a></td><td>%s %s</td><td><b>%s</b></td><td>%s %s</td><td><b>%s</b></td><td><a class="more" href="../%s">Top 10 →</a></td></tr>' % (
+        g["url"], e(g["short"]), e(win(g)["brand"]), e(win(g)["name"]), eur(win(g)["price"]), e(best_value(g)["brand"]), e(best_value(g)["name"]), eur(best_value(g)["price"]), g["url"]) for g in ms)
+    faq = []
+    if c.get("faq", True):
+        faq = [("Wat is de beste %s van %d?" % (c["enkel"], YEAR), "In onze vergelijking is dat de %s %s voor %s. Dat model staat op nummer 1 in onze gids %s. Zoek je iets specifieks, kies dan hierboven de gids die bij jouw situatie past." % (top["brand"], top["name"], eur(top["price"]), main["title"].lower())),
+               ("%s %s is de slimste koop?" % (welk(c), c["enkel"]), "De %s %s voor %s biedt volgens onze vergelijking de meeste kwaliteit per euro. Je vindt hem in onze gids %s." % (bv["brand"], bv["name"], eur(bv["price"]), main["title"].lower()))]
+        if good:
+            faq.append(("Wat kost een goede %s?" % c["enkel"], "In onze %d gidsen kost de goedkoopste aanrader met een score van 8 of hoger %s, de %s %s. De helft van alle %d modellen die wij vergelijken kost tussen %s en %s. De duurste topmodellen kosten %s." % (
+                n, eur(good[0]["price"]), good[0]["brand"], good[0]["name"], len(allp), eur(prices[len(prices) // 4]), eur(prices[3 * len(prices) // 4]), eur(prices[-1]))))
+        faq.append(("Hoe kiezen jullie de beste %s?" % c["meervoud"], "Per gids vergelijken we tien modellen op prestaties, prijs-kwaliteit, betrouwbaarheid en gebruiksgemak, op basis van specificaties en duizenden kopersreviews. Merken kunnen geen plek kopen. De prijzen controleren we elke dag bij bol."))
+    others = [x for x in HUBS if x is not c and (x["cat"] == c["cat"])] or [x for x in HUBS if x is not c][:8]
+    h1 = (c.get("h1") or "").replace("{YEAR}", str(YEAR)) or '%s %s <span class="grad">kopen in %d?</span>' % (welk(c), e(c["enkel"]), YEAR)
+    catk = c["cat"] if c["cat"] in CATS else main["cat"]
+    body = '''<section data-hue="1" style="padding-top:20px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › <a href="../categorie/%s.html">%s</a> › %s</nav>
+<span class="kick" style="margin-top:14px">Alle gidsen · %s</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">%s</h1>
+<p class="muted" style="max-width:760px">%s</p><p class="muted" style="font-size:.9rem">%d gidsen · %d modellen vergeleken · prijzen gecontroleerd op %s</p>
+<h2 class="rv" style="margin-top:26px">Snel kiezen: per situatie de winnaar</h2>
+<div class="tbl hubtbl rv"><table><thead><tr><th>Je zoekt</th><th>Beste keuze</th><th>Prijs</th><th>Slimste koop</th><th>Prijs</th><th><span class="sr">Gids</span></th></tr></thead><tbody>%s</tbody></table></div>
+<h2 class="rv">Alle %d gidsen voor %s</h2><div class="gl" style="margin-top:14px">%s</div>
+%s
+<div class="sec-head" style="margin-top:40px"><h2>Meer overzichten</h2><a class="more" href="../categorie/%s.html">Alle %s →</a></div>%s
+</div></section>''' % (catk, CATS[catk][0], e(cap1(c["meervoud"])), e(c["meervoud"]), h1, e(c.get("intro") or "Hieronder staan al onze gidsen voor %s naast elkaar, met per gids de beste keuze en de slimste koop." % c["meervoud"]),
+        n, len(allp), e(nldate(chk)), rows, n, e(c["meervoud"]), "".join(gcard(g, "../") for g in ms),
+        ('<div class="faq rv" id="faq" style="margin-top:34px"><h2>Veelgestelde vragen</h2>%s</div>' % "".join("<details><summary>%s</summary><p>%s</p></details>" % (e(q), e(a)) for q, a in faq)) if faq else "",
+        catk, CATS[catk][0].lower(), hub_chips(others, "../"))
+    url_abs = SITE + "/" + c["hub"]
+    ld = [{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"}, {"@type": "ListItem", "position": 2, "name": CATS[catk][0], "item": SITE + "/categorie/%s.html" % catk}, {"@type": "ListItem", "position": 3, "name": cap1(c["meervoud"]), "item": url_abs}]},
+          {"@context": "https://schema.org", "@type": "ItemList", "name": hub_q(c), "url": url_abs, "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": SITE + "/" + g["url"], "name": g["title"]} for i, g in enumerate(ms)]}]
+    if faq: ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in faq]})
+    title = (c.get("title") or "%s %s kopen in {YEAR}? {n} gidsen op een rij | watkoopik" % (welk(c), c["enkel"])).replace("{YEAR}", str(YEAR)).replace("{n}", str(n))
+    desc = "Onze nr. 1: %s %s (%s). Bekijk alle %d gidsen voor %s naast elkaar: %s. Met per gids de beste keuze en de slimste koop." % (top["brand"], top["name"], eur(top["price"]), n, c["meervoud"], lijst([low1(g["short"]) for g in ms[:4]]))
+    page(c["hub"], title, desc, body, extra="".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in ld), img=og_img(main, top))
+for c in HUBS: hub_page(c)
+
 # ---------- vaste pagina's ----------
 def prose(path, title, desc, inner, active=None):
     page(path, title + " | watkoopik", desc, '<section data-hue="1" style="padding-top:34px"><div class="wrap prose">%s</div></section>' % inner, active)
@@ -728,6 +823,7 @@ urls = [("", LAST, "1.0"), ("gidsen.html", LAST, "0.8"), ("aanbiedingen/", TODAY
         ("zo-kiezen-wij.html", "2026-10-13", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
 urls += [("categorie/%s.html" % k if k != "cadeaus" else "cadeaus/", max(g.get("updated", TODAY.isoformat()) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
 urls += [("black-friday/", TODAY.isoformat(), "0.8")] + [("vs/%s.html" % v["slug"], v["updated"], "0.6") for v in VS_PAGES]
+urls += [(c["hub"], max(g.get("updated", TODAY.isoformat()) for g in c["members"]), "0.8") for c in HUBS]
 urls += [(g["url"], g.get("updated", TODAY.isoformat()), "0.9") for g in guides]
 wr("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join("<url><loc>%s/%s</loc><lastmod>%s</lastmod><priority>%s</priority></url>\n" % (SITE, u, d, pr) for u, d, pr in urls) + "</urlset>\n")
 
@@ -742,7 +838,8 @@ wr("search.json", json.dumps([{"t": g["title"], "u": g["url"], "c": CATS[g["cat"
 # llms.txt: compacte index voor AI-zoekmachines (chatgpt.com stuurt sinds 19 okt bezoekers), per categorie gids, nr. 1 en slimste koop
 if not PREVIEW:
     L = ["# watkoopik.nl", "", "> Onafhankelijke Nederlandse top 10-koopgidsen. Per productsoort tien modellen vergeleken op specificaties, prijs en reviews, met plus- en minpunten, een koopgids en veelgestelde vragen. Prijzen zijn indicatief en worden dagelijks bij bol bijgewerkt.", "",
-         "- [Alle gidsen](%s/gidsen.html)" % SITE, "- [Zo kiezen wij](%s/zo-kiezen-wij.html): werkwijze en hoe we geld verdienen" % SITE, ""]
+         "- [Alle gidsen](%s/gidsen.html)" % SITE, "- [Zo kiezen wij](%s/zo-kiezen-wij.html): werkwijze en hoe we geld verdienen" % SITE, "", "## Overzichten per productfamilie", ""]
+    L += ["- [%s](%s/%s): %d gidsen, nr. 1 %s %s" % (hub_q(c), SITE, c["hub"], len(c["members"]), win(c["members"][0])["brand"], win(c["members"][0])["name"]) for c in HUBS] + [""]
     for k in CATS:
         if not by_cat.get(k): continue
         L += ["## %s" % CATS[k][0], ""]

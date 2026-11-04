@@ -222,3 +222,9 @@ html:has(.theme-light){background:#fafaf7}
 .theme-light .tbl th.bc{background:#f6f4ef}
 .theme-light tbody tr:hover td.bc{background:#faf8ff}
 .theme-light .t3{background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.22)}
+
+/* productfamilies (4 nov 2026) */
+.theme-light .clnav a,.theme-light .clnav span{background:#fff;color:var(--ink);border-color:var(--line2)}
+.theme-light .clnav a:hover{background:#f6f4ef}
+.theme-light .clnav .cl-all{background:var(--ink);color:#fff;border-color:var(--ink)}
+.theme-light .clnav .on{background:#f1efe9;color:var(--ink2);opacity:1}
