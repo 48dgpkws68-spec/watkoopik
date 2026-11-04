@@ -592,7 +592,7 @@ for g in guides:
     ld = [{"@context": "https://schema.org", "@type": "ItemList", "name": g["title"], "url": url_abs, "numberOfItems": len(ps),
            "itemListElement": [{"@type": "ListItem", "position": p["rank"], "url": url_abs + "#p%d" % p["rank"], "item": prod_ld(p)} for p in ps]},
           {"@context": "https://schema.org", "@type": "Article", "headline": g["title"], "description": g["intro"][:200], "dateModified": g.get("updated", TODAY.isoformat()),
-           "datePublished": g.get("published", g.get("updated", TODAY.isoformat())), "author": {"@type": "Organization", "name": "redactie watkoopik", "url": SITE + "/over-ons.html"},
+           "datePublished": g.get("published", g.get("updated", TODAY.isoformat())), "author": {"@type": "Person", "name": "Nick van Straaten", "url": SITE + "/over-ons.html#nick", "jobTitle": "Oprichter en eindredacteur"},
            "publisher": {"@type": "Organization", "name": "watkoopik", "logo": {"@type": "ImageObject", "url": SITE + "/favicon.svg"}}, "mainEntityOfPage": url_abs,
            "image": [SITE + "/og/%s.jpg" % g["slug"]] + [p["image"] for p in ps if p.get("image")][:2]},
           {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["a"]}} for q in g["faq"]]},
@@ -604,7 +604,7 @@ for g in guides:
     extra = "".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in ld)
     body = '''<div class="wrap"><nav class="crumbs"><a href="../">Home</a> › <a href="../categorie/%s.html">%s</a> › %s</nav>%s
 <div class="ghero"><span class="kick">Top 10 · %s</span><h1 class="split">%s</h1><p class="intro">%s</p>
-<div class="meta-line"><span>Bijgewerkt <b>%s</b></span><span><b>%d</b> modellen</span>%s<span>Door <b>de redactie</b></span></div>
+<div class="meta-line"><span>Bijgewerkt <b>%s</b></span><span><b>%d</b> modellen</span>%s<span>Door <a href="../over-ons.html#nick"><b>Nick van Straaten</b></a></span></div>
 <p class="disc disc-top">Bevat affiliatelinks, <a href="#disclaimer">zo verdienen wij</a>.</p></div>
 %s<div class="podium">%s</div>
 %s<p class="disc" id="disclaimer">Wij ontvangen mogelijk een vergoeding als je via onze links iets koopt. Dit kost jou niets extra en bepaalt niet welke producten in de lijst staan. <a href="../zo-kiezen-wij.html">Zo kiezen wij</a>.</p>
@@ -807,7 +807,10 @@ prose("zo-kiezen-wij.html", "Zo kiezen wij", "Hoe watkoopik producten vergelijkt
 <h2>Actualiteit</h2><p>Prijzen controleren we dagelijks bij bol. Lijsten bekijken we minimaal elke maand opnieuw. Verdwijnt een product of komt er een beter model, dan passen we de lijst eerder aan.</p>''', "zo-kiezen-wij.html")
 prose("over-ons.html", "Over ons", "Over watkoopik: onafhankelijke koopgidsen.", '''<span class="kick">Over watkoopik</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Een eerlijk overzicht, zodat jij slim koopt</h1>
 <p>Wie een stofzuiger of koffiemachine zoekt, verdrinkt in honderden modellen en tegenstrijdige reviews. Wij wilden één plek waar je per productsoort in vijf minuten ziet wat de beste keuze is en waarom.</p>
-<p>Daarom maken we top 10-lijsten: precies tien modellen die ertoe doen, met eerlijke plus- en minpunten en voor wie elk product geschikt is. watkoopik is onderdeel van 4NEON en werkt onafhankelijk van merken en winkels.</p>''')
+<p>Daarom maken we top 10-lijsten: precies tien modellen die ertoe doen, met eerlijke plus- en minpunten en voor wie elk product geschikt is. watkoopik is onderdeel van 4NEON en werkt onafhankelijk van merken en winkels.</p>
+<h2 id="nick">Wie zit erachter</h2>
+<p>watkoopik is opgezet door Nick van Straaten. Hij is de eindredacteur: hij leest de gidsen na en past ze aan als iets niet klopt of beter kan. Producten testen we niet zelf in een testlab. We zetten per productsoort tien modellen naast elkaar op specificaties, prijs en de ervaringen van kopers. De prijzen meten we elke dag bij bol, zodat je ziet welke korting echt is.</p>
+<p>Zie je een fout of mis je een model? Laat het weten via het <a href="contact.html">contactformulier</a>.</p>''')
 prose("contact.html", "Contact", "Neem contact op met watkoopik.", '''<span class="kick">Contact</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Vraag, tip of fout gezien?</h1>
 <form action="https://formsubmit.co/hallo@watkoopik.nl" method="POST" style="display:grid;gap:12px;max-width:520px;margin-top:16px"><input type="hidden" name="_subject" value="Contact via watkoopik.nl"><input type="text" name="_honey" style="display:none">
 <input name="naam" placeholder="Je naam" required style="padding:13px 16px;border:1.5px solid var(--line);border-radius:14px;font:inherit"><input type="email" name="email" placeholder="Je e-mailadres" required style="padding:13px 16px;border:1.5px solid var(--line);border-radius:14px;font:inherit"><textarea name="bericht" rows="6" placeholder="Je bericht" required style="padding:13px 16px;border:1.5px solid var(--line);border-radius:14px;font:inherit"></textarea><button class="btn btn-purple" type="submit">Versturen</button></form>''')
