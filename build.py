@@ -203,6 +203,66 @@ def deal_of(p):
     if drop < 0.10 or drop > 0.60: return None
     if since < (TODAY - datetime.timedelta(days=21)).isoformat(): return None  # na drie weken is het de gewone prijs
     return {"ref": ref, "drop": drop, "since": since, "low": min(ph.values()), "first": days[0]}
+# ---------- prijsverloop per product (sinds 4 nov 2026, groeimotor A2) ----------
+# Eigen dagelijkse bol-metingen (ph) zichtbaar maken: sparkline + laagste/hoogste/gemiddelde per product, een tabel per gids
+# en een FAQ over de nr. 1. Alleen bij minstens 5 meetdagen; niets geschat of aangevuld.
+def hist_of(p):
+    ph = p.get("ph") or {}
+    if len(ph) < 5 or not p.get("price"): return None
+    days = sorted(ph); vals = [ph[d] for d in days]
+    if days[-1] != TODAY.isoformat() and abs(vals[-1] - p["price"]) >= 0.01: days.append(TODAY.isoformat()); vals.append(p["price"])
+    avg = sum(vals) / len(vals)
+    return {"days": days, "vals": vals, "low": min(vals), "high": max(vals), "avg": avg, "n": len(vals), "first": days[0], "rel": p["price"] / avg - 1,
+            "low_day": days[max(i for i, v in enumerate(vals) if v == min(vals))]}
+def spark(h, w=132, ht=34):
+    lo, hi = h["low"], h["high"]; rng = (hi - lo) or 1
+    d0 = datetime.date.fromisoformat(h["first"]); span = max(1, (datetime.date.fromisoformat(h["days"][-1]) - d0).days)
+    pts = ["%.1f,%.1f" % (3 + (w - 6) * (datetime.date.fromisoformat(d) - d0).days / span, 4 + (ht - 8) * (1 - (v - lo) / rng)) for d, v in zip(h["days"], h["vals"])]
+    return '<svg class="spark" viewBox="0 0 %d %d" width="%d" height="%d" aria-hidden="true"><polyline points="%s" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><circle cx="%s" cy="%s" r="3" fill="currentColor"/></svg>' % (w, ht, w, ht, " ".join(pts), pts[-1].split(",")[0], pts[-1].split(",")[1])
+def rel_txt(r):
+    if abs(r) < 0.015: return "rond het gemiddelde"
+    return "%d%% %s het gemiddelde" % (round(abs(r) * 100), "onder" if r < 0 else "boven")
+def hist_box(p):
+    h = hist_of(p)
+    if not h: return ""
+    if h["high"] - h["low"] < 0.01: txt = "Op alle %d meetdagen sinds %s kostte hij %s bij bol: de prijs is stabiel." % (h["n"], nldate(h["first"]), eur(p["price"]))
+    else: txt = "Gemeten op %d dagen sinds %s: laagste %s, hoogste %s, gemiddeld %s. Nu %s, dat is %s." % (h["n"], nldate(h["first"]), eur(h["low"]), eur(h["high"]), eur(round(h["avg"], 2)), eur(p["price"]), rel_txt(h["rel"]))
+    tag = ' <span class="ph-tag">laagste gemeten prijs</span>' if p["price"] <= h["low"] + 0.01 and h["high"] - h["low"] >= 0.01 else ""
+    return '<div class="ph-box%s">%s<div><b>Prijsverloop bij bol</b>%s<p>%s</p></div></div>' % (" low" if tag else "", spark(h), tag, e(txt))
+_HS = {}
+def hist_section(g):
+    if g["slug"] in _HS: return _HS[g["slug"]]
+    rows, hs = [], []
+    for p in g["products"]:
+        h = hist_of(p)
+        if not h: continue
+        hs.append((p, h))
+        rows.append('<tr><td><span class="rk">%d</span></td><td class="nm">%s %s</td><td><b>%s</b></td><td>%s</td><td>%s</td><td>%s</td><td class="sp">%s</td></tr>' % (
+            p["rank"], e(p["brand"]), e(p["name"]), eur(p["price"]), eur(h["low"]), eur(h["high"]), e(rel_txt(h["rel"])), spark(h, 96, 26)))
+    if len(hs) < 3: _HS[g["slug"]] = ""; return ""
+    first = min(h["first"] for p, h in hs)
+    under = [p for p, h in hs if h["rel"] <= -0.015]
+    lowest = [p for p, h in hs if p["price"] <= h["low"] + 0.01 and h["high"] - h["low"] >= 0.01]
+    big = max(hs, key=lambda x: (x[1]["high"] - x[1]["low"]) / x[1]["high"])
+    s = "Wij noteren elke dag de bol-prijs van deze %d modellen, sinds %s. " % (len(hs), nldate(first))
+    s += ("%d van de %d staan nu onder hun gemiddelde prijs" % (len(under), len(hs))) if under else "Geen enkel model staat nu duidelijk onder zijn gemiddelde prijs"
+    s += (" en %d kost%s nu het minst sinds we meten. " % (len(lowest), "" if len(lowest) == 1 else "en")) if lowest else ". "
+    sw = (big[1]["high"] - big[1]["low"]) / big[1]["high"]
+    if sw >= 0.05: s += "De grootste schommeling zagen we bij de %s %s: tussen %s en %s." % (big[0]["brand"], big[0]["name"], eur(big[1]["low"]), eur(big[1]["high"]))
+    else: s += "De prijzen in deze gids zijn rustig: geen enkel model schommelde meer dan 5%."
+    html = ('<div class="phist rv" id="prijsverloop"><h2>Prijsverloop: zo bewogen de prijzen bij bol</h2><p>%s Geen adviesprijzen: alleen wat wij zelf hebben gemeten. '
+            'Echte prijsdalingen van 10%% of meer staan op <a href="../aanbiedingen/">onze aanbiedingenpagina</a>.</p>\n'
+            '<div class="tbl"><table><thead><tr><th>#</th><th>Model</th><th>Nu</th><th>Laagste</th><th>Hoogste</th><th>Nu t.o.v. gemiddeld</th><th class="sp"><span class="sr">Verloop</span></th></tr></thead><tbody>%s</tbody></table></div></div>\n') % (e(s), "".join(rows))
+    _HS[g["slug"]] = html
+    return html
+def hist_faq(g):
+    p = g["products"][0]; h = hist_of(p)
+    if not h or h["n"] < 7: return None
+    q = "Is de %s %s nu goedkoop?" % (p["brand"], p["name"])
+    if h["high"] - h["low"] < 0.01: a = "De prijs is stabiel: op alle %d dagen dat wij hem sinds %s bij bol maten kostte hij %s. Wachten op een lagere prijs levert bij dit model tot nu toe niets op." % (h["n"], nldate(h["first"]), eur(p["price"]))
+    else: a = "Hij kost nu %s bij bol. Sinds %s maten wij op %d dagen een laagste prijs van %s (op %s) en een hoogste van %s. De huidige prijs ligt %s van %s." % (eur(p["price"]), nldate(h["first"]), h["n"], eur(h["low"]), nldate(h["low_day"]), eur(h["high"]), rel_txt(h["rel"]), eur(round(h["avg"], 2)))
+    return {"q": q, "a": a}
+
 DEALS = []
 _seen = set()
 for g in guides:
@@ -556,13 +616,15 @@ for g in guides:
     cards = "".join('''<article class="pr-card%s rv" id="p%d"><div class="pr-head"><div class="pr-img"><span class="n">%d</span>%s</div><div>%s<h2>%s %s</h2>
 <div class="pr-meta"><span class="price">%s</span><span>%s <b>%s</b>/10</span><span>%s</span></div>%s<div class="specs">%s</div></div></div>
 <div class="pr-txt">%s</div><div class="pc"><div class="pros"><h4>Pluspunten</h4><ul>%s</ul></div><div class="cons"><h4>Minpunten</h4><ul>%s</ul></div></div>
-<div class="ideal"><b>Ideaal voor:</b> %s</div><div class="buy">%s%s<small>Prijs gecontroleerd op %s</small></div></article>''' % (
+%s<div class="ideal"><b>Ideaal voor:</b> %s</div><div class="buy">%s%s<small>Prijs gecontroleerd op %s</small></div></article>''' % (
         " top" if p["rank"] == 1 else "", p["rank"], p["rank"], img_of(p), ('<span class="pr-lbl">%s</span>' % e(p["label"])) if p.get("label") else "", e(p["brand"]), e(p["name"]),
         eur(p["price"]), stars(p["score"]), p["score"], e(p.get("reviews", "")), bars(p, g), "".join("<span><b>%s:</b> %s</span>" % (e(k), e(str(v))) for k, v in p["specs"].items()),
         "".join("<p>%s</p>" % e(t) for t in p["text"].split("\n\n")), "".join("<li>%s</li>" % e(x) for x in p["pros"]), "".join("<li>%s</li>" % e(x) for x in p["cons"]),
-        e(p["ideal"]), shop_a(p, g), amazon_a(p, g), e(chk_date(p, g))) for p in ps)
+        hist_box(p), e(p["ideal"]), shop_a(p, g), amazon_a(p, g), e(chk_date(p, g))) for p in ps)
     guide_html = "".join("<h3>%s</h3>%s" % (e(s["h"]), "".join("<p>%s</p>" % e(t) for t in s["p"].split("\n\n"))) for s in g["guide"]) + cl_more(g)
     hubc = next((c for c in CL_OF.get(g["slug"], []) if c["hub"]), None)  # familie-overzicht in kruimelpad en schema
+    hf = hist_faq(g)  # FAQ uit eigen prijsmetingen (alleen in de pagina, niet in de bron-json)
+    if hf and not any(q["q"] == hf["q"] for q in g["faq"]): g["faq"] = g["faq"] + [hf]
     faq = "".join("<details><summary>%s</summary><p>%s</p></details>" % (e(q["q"]), e(q["a"])) for q in g["faq"])
     toc = "".join('<li><a href="#p%d">%s %s</a></li>' % (p["rank"], e(p["brand"]), e(p["name"])) for p in ps)
     # varianten van hetzelfde product eerst (beste-airfryer <-> beste-airfryer-1-persoon), daarna dezelfde categorie
@@ -611,18 +673,18 @@ for g in guides:
 <div class="layout"><div>
 <h2 id="vergelijk" class="rv" style="margin-top:22px">Alle %d naast elkaar</h2>%s
 <h2 id="top10" class="rv">De top 10 in detail</h2>%s
-<div class="verdict rv"><span class="kick" style="color:#ffb48a">Eindoordeel</span><h2>Onze conclusie</h2><p>%s</p>%s</div>
+%s<div class="verdict rv"><span class="kick" style="color:#ffb48a">Eindoordeel</span><h2>Onze conclusie</h2><p>%s</p>%s</div>
 <div class="guide rv" id="koopgids"><h2>Koopgids: zo kies je de juiste %s</h2>%s</div>
 <div class="faq rv" id="faq"><h2>Veelgestelde vragen</h2>%s</div>
 <div class="pref-wrap">%s</div>
 </div>
-<aside class="side"><details class="toc"><summary>In deze gids</summary><ol><li><a href="#vergelijk">Vergelijkingstabel</a></li>%s<li><a href="#koopgids">Koopgids</a></li><li><a href="#faq">Veelgestelde vragen</a></li></ol></details></aside>
+<aside class="side"><details class="toc"><summary>In deze gids</summary><ol><li><a href="#vergelijk">Vergelijkingstabel</a></li>%s%s<li><a href="#koopgids">Koopgids</a></li><li><a href="#faq">Veelgestelde vragen</a></li></ol></details></aside>
 </div>
 <section style="padding:40px 0"><div class="sec-head"><h2>Meer gidsen in %s</h2><a class="more" href="../categorie/%s.html">Alle %d →</a></div><div class="gl">%s</div></section>
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
-        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, cards, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, cards, hist_section(g), e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, '<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = g.get("seo") or g["query"]  # zoekterm voor titel en meta; query blijft de bol-zoekterm
