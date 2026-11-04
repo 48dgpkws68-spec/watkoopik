@@ -23,3 +23,7 @@ Taalregels (de build breekt af bij overtreding):
 Extra regel (13 okt 2026): nooit producten van Pegasus Depot of G&C Systems opnemen (eigen bol-verkoopaccount van Nick; affiliate-commissie op eigen producten is niet toegestaan).
 
 Extra regel (24 okt 2026): eigen merken van Nick mogen alleen in het aparte, gemarkeerde blok "eigen_merk" boven het podium, nooit in de top 10 zelf.
+
+## Auteur (sinds 4 nov 2026)
+- Auteur van alle gidsen is Nick van Straaten (oprichter en eindredacteur); hij leest de gidsen na. Byline en Article-schema staan in build.py, bio op over-ons.html#nick.
+- Schrijf nooit dat Nick of watkoopik producten zelf getest heeft; wij vergelijken specificaties, prijzen en ervaringen van kopers. Geen verzonnen persoonlijke ervaringen in zijn naam.

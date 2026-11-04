@@ -231,3 +231,4 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-kerstcadeau-voor-kinderen | cadeaus | kerstcadeau kind | De 10 beste kerstcadeaus voor kinderen van 2026 | 🎁
 [x] beste-ventilatorkachel | wonen | ventilatorkachel | De 10 beste ventilatorkachels van 2026 | 🔥
 [x] beste-cadeau-voor-hem-onder-25-euro | cadeaus | cadeau voor hem | De 10 beste cadeaus voor hem onder 25 euro van 2026 | 🎁
+[x] beste-cadeau-voor-haar-onder-25-euro | cadeaus | cadeau voor haar | De 10 beste cadeaus voor haar onder 25 euro van 2026 | 🎁
