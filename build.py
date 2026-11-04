@@ -506,7 +506,7 @@ def seizoen_sec(root=""):
 <div class="gl">%s</div></div></section>''' % (root, "".join(gcard(g, root) for g in seizoen[:8]))
 home_deals = ('''<section data-hue="1" style="padding-bottom:0"><div class="wrap">
 <div class="sec-head rv"><div><span class="kick">Prijsdalingen</span><h2>Nu <span class="grad">echt goedkoper</span></h2></div><a class="more" href="aanbiedingen/">Alle %d aanbiedingen →</a></div>
-<div class="deals">%s</div></div></section>''' % (len(DEALS), "".join(deal_row(g, p, d, "") for g, p, d in DEALS[:4]))) if DEALS else '''<section data-hue="1" style="padding-bottom:0"><div class="wrap"><p class="muted"><a href="aanbiedingen/">Aanbiedingen</a>: hier verschijnen producten uit onze top 10's die minstens 10%% goedkoper zijn dan eerder gemeten.</p></div></section>'''
+<div class="deals">%s</div><p class="muted" style="font-size:.9rem;margin-top:14px"><a href="black-friday/echte-kortingen-2026.html">Black Friday 2026: zoveel kortingen zijn echt</a> · onze eigen dagelijkse prijsmetingen bij bol</p></div></section>''' % (len(DEALS), "".join(deal_row(g, p, d, "") for g, p, d in DEALS[:4]))) if DEALS else '''<section data-hue="1" style="padding-bottom:0"><div class="wrap"><p class="muted"><a href="aanbiedingen/">Aanbiedingen</a>: hier verschijnen producten uit onze top 10's die minstens 10%% goedkoper zijn dan eerder gemeten.</p></div></section>'''
 home = '''
 <section class="hero" data-hue="0">%s
 <div class="hero-in">
@@ -705,8 +705,8 @@ def deals_body(root, kick="Aanbiedingen", h1="Echte prijsdalingen in onze top 10
     else:
         lst = '<div class="deal-empty"><h2>Nu even geen echte aanbiedingen</h2><p>Geen enkel product uit onze top 10\'s is op dit moment minstens 10%% goedkoper dan eerder gemeten. Dat gebeurt: prijzen bewegen per week. Kom later terug of bekijk <a href="%sslimste-koop.html">de slimste koop per productsoort</a>.</p></div>' % root
     return '''<section data-hue="1" style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="%s">Home</a> › %s</nav><span class="kick" style="margin-top:14px">%s</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">%s</h1>
-<p class="muted" style="max-width:720px">%s</p><p class="muted" style="font-size:.85rem">%d producten met een gemeten prijsdaling · bijgewerkt %s · wij ontvangen mogelijk een vergoeding als je via onze links koopt.</p>%s</div></section>''' % (
-        root or "./", kick, kick, h1, lead, len(DEALS), nldate(TODAY.isoformat()), lst)
+<p class="muted" style="max-width:720px">%s</p><p class="muted" style="font-size:.85rem">%d producten met een gemeten prijsdaling · bijgewerkt %s · <a href="%sblack-friday/echte-kortingen-2026.html">Zoveel Black Friday-kortingen zijn echt</a> · wij ontvangen mogelijk een vergoeding als je via onze links koopt.</p>%s</div></section>''' % (
+        root or "./", kick, kick, h1, lead, len(DEALS), nldate(TODAY.isoformat()), root, lst)
 page("aanbiedingen/index.html", "Aanbiedingen: echte prijsdalingen bij bol | watkoopik", "Producten uit onze top 10-gidsen die nu minstens 10% goedkoper zijn dan eerder gemeten bij bol. Dagelijks bijgewerkt, alleen echt gemeten prijzen.",
      deals_body("../"), "aanbiedingen/", root="../")
 
@@ -773,13 +773,126 @@ bf_live = BF <= TODAY <= BF_END
 bf_deals = deals_body("../", "Black Friday", "Black Friday 2026: echte prijsdalingen", "Het is Black Friday. Hieronder staan alle producten uit onze top 10's die nu minstens 10%% goedkoper zijn dan wij de dertig dagen ervoor maten. Geen adviesprijzen, alleen gemeten bol-prijzen.")
 bf_body = '''<div id="bf-live"%s>%s</div><section style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › Black Friday</nav><span class="kick" style="margin-top:14px">Vrijdag 27 november 2026</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">Black Friday 2026: zo koop je slim</h1>
 <p class="muted" style="max-width:760px">Black Friday valt dit jaar op vrijdag 27 november, Cyber Monday op 30 november. Veel kortingen zijn dan minder groot dan ze lijken, omdat de van-prijs een adviesprijs is. Wij meten elke dag de echte bol-prijs van alle %d producten in onze gidsen. Op Black Friday verschijnen op deze pagina automatisch de producten die echt goedkoper zijn geworden. Tot die tijd vind je hieronder de gidsen die nu het meest bekeken worden, zodat je vooraf weet welk model je zoekt.</p>
-<p class="muted" style="font-size:.9rem"><a href="../aanbiedingen/">Bekijk de prijsdalingen van vandaag</a> · <a href="../cadeaus/">Cadeaugidsen</a></p>
+<p class="muted" style="font-size:.9rem"><a href="echte-kortingen-2026.html"><b>Zoveel kortingen zijn echt: onze eigen metingen</b></a> · <a href="../aanbiedingen/">Bekijk de prijsdalingen van vandaag</a> · <a href="../cadeaus/">Cadeaugidsen</a></p>
 <div class="sec-head" style="margin-top:26px"><h2>Meest bekeken gidsen voor Black Friday</h2></div><div class="gl">%s</div>
 <div class="sec-head" style="margin-top:34px"><h2>Cadeaus en tv's voor Sinterklaas en kerst</h2></div><div class="gl">%s</div>
 <div class="guide" style="margin-top:34px"><h2>Drie tips voor Black Friday</h2><h3>Kies vooraf je model</h3><p>Lees de gids nu al en noteer je favoriet en de prijs van vandaag. Dan zie je op Black Friday meteen of een korting echt iets oplevert.</p><h3>Vergelijk met de prijs van de laatste weken</h3><p>Een korting ten opzichte van een adviesprijs zegt weinig. Op onze aanbiedingenpagina vergelijken we alleen met prijzen die wij zelf hebben gemeten.</p><h3>Let op levertijd en verkoper</h3><p>Bestel cadeaus voor Sinterklaas op tijd. Kijk op bol ook of een product door bol zelf of door een partner wordt verkocht.</p></div></div></section>
 <script>(function(){var d=new Date(),s=new Date(2026,10,27),t=new Date(2026,11,1);var b=document.getElementById("bf-live");if(b&&d>=s&&d<t)b.hidden=false;})()</script>''' % (
     "" if bf_live else " hidden", bf_deals, N_PROD, "".join(gcard(g, "../") for g in popular[:12]), "".join(gcard(g, "../") for g in seizoen if g not in popular[:12]))
 page("black-friday/index.html", "Black Friday 2026: echte aanbiedingen en de beste koop | watkoopik", "Black Friday 2026 valt op 27 november. Zie welke producten echt goedkoper zijn (gemeten met dagelijkse bol-prijzen) en welke gidsen het meest bekeken worden.", bf_body, root="../")
+
+# ---------- Black Friday: zoveel kortingen zijn echt (sinds 5 nov 2026, groeimotor N1) ----------
+# Alleen eigen dagelijkse bol-metingen (ph). Per uniek product (EAN): huidige prijs tegenover de mediaan van de metingen
+# in de 30 dagen ervoor (de dag van de huidige meting telt niet mee). Minstens 10 meetdagen. Verschillen van meer dan
+# 60% zijn vrijwel altijd een andere verkoper of een onderdeel en tellen niet mee. Dagelijks bijgewerkt tot 1 december.
+def _med(v):
+    v = sorted(v); n = len(v)
+    return v[n // 2] if n % 2 else (v[n // 2 - 1] + v[n // 2]) / 2
+def bf_ref(ph, day, cur=None):
+    """Mediaan van de metingen in de 30 dagen vóór day (day zelf niet meegeteld)."""
+    start = (datetime.date.fromisoformat(day) - datetime.timedelta(days=30)).isoformat()
+    prev = [ph[d] for d in ph if start <= d < day]
+    return _med(prev) if len(prev) >= 5 else None
+BFX = []; _bfseen = set()
+for g in guides:
+    for p in g["products"]:
+        ph = p.get("ph") or {}
+        key = str(p.get("ean") or p["brand"] + p["name"])
+        if key in _bfseen or len(ph) < 10 or not p.get("price"): continue
+        _bfseen.add(key)
+        last = max(ph); ref = bf_ref(ph, last)
+        if not ref: continue
+        ch = p["price"] / ref - 1
+        if abs(ch) > 0.60: continue
+        BFX.append({"g": g, "p": p, "ref": ref, "ch": ch, "n": len(ph), "first": min(ph)})
+def _bucket(ch): return "echt" if ch <= -0.10 else "iets" if ch <= -0.02 else "duur" if ch >= 0.02 else "gelijk"
+BF_N = len(BFX)
+BF_CNT = {k: sum(1 for x in BFX if _bucket(x["ch"]) == k) for k in ("echt", "iets", "gelijk", "duur")}
+BF_AVG = sum(x["ch"] for x in BFX) / BF_N if BF_N else 0
+BF_FIRST = min((x["first"] for x in BFX), default=TODAY.isoformat())
+def pct(n, t=None): return "%d%%" % round(100.0 * n / (t or BF_N or 1))
+# Verloop per dag: aandeel producten dat op die dag minstens 10% onder of 2% boven zijn mediaan van de 30 dagen ervoor stond
+_alld = sorted({d for x in BFX for d in x["p"]["ph"]})
+BF_DAYS = []
+for day in _alld:
+    lo = hi = n = 0
+    for x in BFX:
+        ph = x["p"]["ph"]
+        if day not in ph: continue
+        r = bf_ref(ph, day)
+        if not r: continue
+        c = ph[day] / r - 1
+        if abs(c) > 0.60: continue
+        n += 1; lo += c <= -0.10; hi += c >= 0.02
+    if n >= 200: BF_DAYS.append((day, n, lo / n, hi / n))
+def bf_chart():
+    if len(BF_DAYS) < 3: return ""
+    w, ht, pad = 640, 180, 28; top = max(max(a, b) for _, _, a, b in BF_DAYS) or 0.01; top = max(0.05, top * 1.15)
+    bw = (w - pad) / len(BF_DAYS)
+    bars = "".join('<rect x="%.1f" y="%.1f" width="%.1f" height="%.1f" rx="2" fill="#0f5c4c"><title>%s: %s minstens 10%% goedkoper</title></rect><rect x="%.1f" y="%.1f" width="%.1f" height="%.1f" rx="2" fill="#d4a52a"><title>%s: %s duurder</title></rect>' % (
+        pad + i * bw + 1, ht - 20 - (ht - 30) * a / top, bw / 2 - 1.5, (ht - 30) * a / top, nldate(d), pct(round(a * 1000), 1000),
+        pad + i * bw + bw / 2, ht - 20 - (ht - 30) * b / top, bw / 2 - 1.5, (ht - 30) * b / top, nldate(d), pct(round(b * 1000), 1000)) for i, (d, n, a, b) in enumerate(BF_DAYS))
+    lbl = "".join('<text x="%.1f" y="%d" font-size="10" fill="currentColor" text-anchor="middle">%s</text>' % (pad + i * bw + bw / 2, ht - 6, d[8:10].lstrip("0") + "/" + d[5:7].lstrip("0")) for i, (d, n, a, b) in enumerate(BF_DAYS) if i % 3 == 0 or i == len(BF_DAYS) - 1)
+    ax = '<text x="0" y="14" font-size="10" fill="currentColor">%s</text><text x="0" y="%d" font-size="10" fill="currentColor">0%%</text><line x1="%d" y1="%d" x2="%d" y2="%d" stroke="currentColor" stroke-opacity=".25"/>' % (pct(round(top * 1000), 1000), ht - 20, pad, ht - 20, w, ht - 20)
+    return '<figure class="bf-chart"><svg viewBox="0 0 %d %d" role="img" aria-label="Aandeel producten per dag dat echt goedkoper of duurder was">%s%s%s</svg><figcaption><span class="k1"></span>minstens 10%% goedkoper dan de 30 dagen ervoor <span class="k2"></span>duurder (2%% of meer)</figcaption></figure>' % (w, ht, ax, bars, lbl)
+def bf_row(x, root="../"):
+    g, p = x["g"], x["p"]
+    return '<tr><td class="nm"><a href="%s%s#p%d">%s %s</a><small>%s</small></td><td>%s</td><td><b>%s</b></td><td>%s%d%%</td></tr>' % (
+        root, g["url"], p["rank"], e(p["brand"]), e(p["name"]), e(g["short"]), eur(round(x["ref"], 2)), eur(p["price"]), "+" if x["ch"] > 0 else "", round(x["ch"] * 100))
+def bf_table(rows, cap):
+    return '<div class="tbl"><table><caption class="sr">%s</caption><thead><tr><th>Product</th><th>Mediaan 30 dagen</th><th>Nu</th><th>Verschil</th></tr></thead><tbody>%s</tbody></table></div>' % (e(cap), "".join(bf_row(x) for x in rows))
+if BF_N:
+    _drops = sorted([x for x in BFX if x["ch"] <= -0.10], key=lambda x: x["ch"])
+    _rises = sorted([x for x in BFX if x["ch"] >= 0.05], key=lambda x: -x["ch"])
+    _cats = []
+    for c, (cn, _) in CATS.items():
+        xs = [x for x in BFX if x["g"]["cat"] == c]
+        if len(xs) < 20: continue
+        _cats.append((cn, len(xs), sum(1 for x in xs if x["ch"] <= -0.10), sum(1 for x in xs if x["ch"] <= -0.02), sum(1 for x in xs if x["ch"] >= 0.02), sum(x["ch"] for x in xs) / len(xs), min(xs, key=lambda x: x["ch"])))
+    _cats.sort(key=lambda c: c[5])
+    cat_rows = "".join('<tr><td class="nm">%s</td><td>%d</td><td><b>%s</b></td><td>%s</td><td>%s</td><td>%s%s%%</td><td>%s</td></tr>' % (
+        e(cn), n, pct(echt, n), pct(goed, n), pct(duur, n), "+" if avg > 0.0005 else "", ("%.1f" % (avg * 100)).replace(".", ",").replace("-0,0", "0,0"), ('<a href="../%s#p%d">%s %s</a> (%d%%)' % (b["g"]["url"], b["p"]["rank"], e(b["p"]["brand"]), e(b["p"]["name"]), round(b["ch"] * 100))) if b["ch"] <= -0.05 else "geen daling van 5% of meer")
+        for cn, n, echt, goed, duur, avg, b in _cats)
+    _goed = BF_CNT["echt"] + BF_CNT["iets"]
+    _kern = "Van de %d producten die wij sinds %s elke dag bij bol meten, is %s nu minstens 10%% goedkoper dan in de dertig dagen ervoor. Nog eens %s is iets goedkoper (2 tot 10%%), %s kost ongeveer hetzelfde en %s is juist duurder geworden. Gemiddeld ligt de prijs %s%% %s de mediaan van de afgelopen maand." % (
+        BF_N, nldate(BF_FIRST), pct(BF_CNT["echt"]), pct(BF_CNT["iets"]), pct(BF_CNT["gelijk"]), pct(BF_CNT["duur"]), ("%.1f" % (abs(BF_AVG) * 100)).replace(".", ","), "onder" if BF_AVG < 0 else "boven")
+    tiles = "".join('<div class="bf-t"><b>%s</b><span>%s</span></div>' % (a, b) for a, b in [
+        (pct(BF_CNT["echt"]), "minstens 10% goedkoper"), (pct(BF_CNT["iets"]), "2 tot 10% goedkoper"), (pct(BF_CNT["gelijk"]), "ongeveer gelijk"), (pct(BF_CNT["duur"]), "duurder geworden")])
+    bfe_faq = [
+        ("Hoeveel Black Friday-kortingen bij bol zijn echt?", "Wij vergelijken de prijs van vandaag met de mediaan van wat wij de dertig dagen ervoor zelf maten, niet met een adviesprijs. Op %s was %s van de %d gemeten producten minstens 10%% goedkoper dan die mediaan. Dat cijfer werken we elke dag bij tot en met 1 december." % (nldate(TODAY.isoformat()), pct(BF_CNT["echt"]), BF_N)),
+        ("Worden prijzen vlak voor Black Friday verhoogd?", "Bij een deel van de producten wel. Op %s was %s van de producten minstens 2%% duurder dan de mediaan van de maand ervoor. Bij %d producten was dat zelfs 5%% of meer. Een korting op Black Friday vergelijk je daarom het best met de prijs van de weken ervoor." % (nldate(TODAY.isoformat()), pct(BF_CNT["duur"]), len(_rises))),
+        ("Hoe meten jullie de prijzen?", "Elke dag halen wij via de officiële bol-koppeling de prijs op van alle producten in onze top 10-gidsen. Er wordt niets geschat of aangevuld. Een product telt mee bij minstens 10 meetdagen; verschillen van meer dan 60%% laten we weg, omdat dat bijna altijd een andere verkoper of een los onderdeel is."),
+        ("Mag ik deze cijfers gebruiken?", "Ja. Gebruik de cijfers gerust in een artikel of op een forum met een bronvermelding en een link naar deze pagina. De volledige lijst per product staat in het CSV-bestand onderaan."),
+    ]
+    _csv = ["product;merk;gids;categorie;mediaan_30_dagen;prijs_nu;verschil_procent;meetdagen;meet_sinds"]
+    for x in sorted(BFX, key=lambda x: x["ch"]):
+        _csv.append(";".join([x["p"]["name"].replace(";", ","), x["p"]["brand"].replace(";", ","), SITE + "/" + x["g"]["url"], CATS.get(x["g"]["cat"], (x["g"]["cat"],))[0], ("%.2f" % x["ref"]).replace(".", ","), ("%.2f" % x["p"]["price"]).replace(".", ","), ("%.1f" % (x["ch"] * 100)).replace(".", ","), str(x["n"]), x["first"]]))
+    wr("black-friday/echte-kortingen-2026.csv", "﻿" + "\n".join(_csv) + "\n")
+    bfe_body = '''<section style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › <a href="./">Black Friday</a> › Echte kortingen</nav><span class="kick" style="margin-top:14px">Eigen prijsmetingen · bijgewerkt %s</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">Black Friday 2026: zoveel kortingen zijn echt</h1>
+<p class="lead" style="max-width:760px">%s</p>
+<div class="bf-tiles">%s</div>
+<div class="guide" style="margin-top:30px"><h2>Zo bewegen de prijzen per dag</h2><p>Per dag het aandeel producten dat minstens 10%% onder zijn mediaan van de dertig dagen ervoor stond (groen) en het aandeel dat juist duurder was (goud). Zo zie je of de kortingen richting Black Friday op 27 november echt toenemen.</p>%s
+<h2>Per categorie</h2><p>Gesorteerd van de grootste gemiddelde daling naar de kleinste. Alleen categorieën met minstens 20 gemeten producten.</p>
+<div class="tbl"><table><thead><tr><th>Categorie</th><th>Producten</th><th>10%%+ goedkoper</th><th>2%%+ goedkoper</th><th>Duurder</th><th>Gemiddeld</th><th>Grootste daling</th></tr></thead><tbody>%s</tbody></table></div>
+<h2>De grootste echte prijsdalingen</h2><p>%s</p>%s
+<h2>Nu duurder dan de weken ervoor</h2><p>%s</p>%s
+<h2>Zo hebben we gemeten</h2><p>Elke dag halen wij via de officiële bol-koppeling de prijs op van alle %d producten in onze top 10-gidsen. Voor deze pagina telt elk product één keer mee, ook als het in meerdere gidsen staat. Het moet wel minstens 10 meetdagen hebben. De huidige prijs vergelijken we met de mediaan van onze eigen metingen in de dertig dagen ervoor. Een mediaan is minder gevoelig voor één uitschieter dan een gemiddelde. Verschillen van meer dan 60%% laten we weg: dat is bijna altijd een andere verkoper of een los onderdeel. We gebruiken geen adviesprijzen of van-prijzen van winkels. We meten sinds %s, dus de eerste weken is de vergelijkingsperiode korter dan dertig dagen. Deze pagina wordt elke dag opnieuw berekend tot en met 1 december 2026.</p>
+<p>Journalist of blogger? De cijfers zijn vrij te gebruiken met een bronvermelding en een link naar deze pagina. <a href="echte-kortingen-2026.csv" download>Download alle %d producten als CSV</a>.</p>
+<h2>Veelgestelde vragen</h2>%s
+<p class="muted" style="font-size:.9rem;margin-top:24px"><a href="../aanbiedingen/">Alle echte prijsdalingen van vandaag</a> · <a href="./">Black Friday 2026: zo koop je slim</a> · <a href="../cadeaus/">Cadeaugidsen</a> · Wij ontvangen mogelijk een vergoeding als je via onze links koopt.</p></div></div></section>''' % (
+        nldate(TODAY.isoformat()), e(_kern), tiles, bf_chart(), cat_rows,
+        "Producten die nu minstens 10%% goedkoper zijn dan hun mediaan van de dertig dagen ervoor. %d producten halen dat; hieronder de 15 grootste." % len(_drops) if _drops else "Op dit moment is geen enkel product minstens 10% goedkoper dan de dertig dagen ervoor.",
+        bf_table(_drops[:15], "Grootste prijsdalingen") if _drops else "",
+        "Producten die nu minstens 5%% duurder zijn dan hun mediaan van de dertig dagen ervoor. Dat zijn er %d; hieronder de 10 grootste stijgers. Zie je die op Black Friday terug met korting, dan is die korting kleiner dan hij lijkt." % len(_rises) if _rises else "Op dit moment is geen enkel product 5% of meer duurder dan de dertig dagen ervoor.",
+        bf_table(_rises[:10], "Grootste prijsstijgingen") if _rises else "",
+        N_PROD, nldate(BF_FIRST), BF_N, "".join("<h3>%s</h3><p>%s</p>" % (e(q), e(a)) for q, a in bfe_faq))
+    bfe_ld = [{"@context": "https://schema.org", "@type": "Dataset", "name": "Echte Black Friday-kortingen bij bol 2026", "description": "Dagelijkse bol-prijzen van %d producten uit de top 10-gidsen van watkoopik, vergeleken met de mediaan van de 30 dagen ervoor." % BF_N,
+               "url": SITE + "/black-friday/echte-kortingen-2026.html", "creator": {"@type": "Organization", "name": "watkoopik", "url": SITE}, "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": True,
+               "temporalCoverage": "%s/%s" % (BF_FIRST, TODAY.isoformat()), "dateModified": TODAY.isoformat(), "distribution": [{"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": SITE + "/black-friday/echte-kortingen-2026.csv"}]},
+              {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in bfe_faq]}]
+    page("black-friday/echte-kortingen-2026.html", "Black Friday 2026: zoveel kortingen zijn echt (eigen metingen) | watkoopik",
+         "%s van %d producten bij bol is nu echt 10%% of meer goedkoper dan de maand ervoor, %s werd juist duurder. Dagelijkse eigen prijsmetingen tot Black Friday." % (pct(BF_CNT["echt"]), BF_N, pct(BF_CNT["duur"])),
+         bfe_body, root="../", extra="".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in bfe_ld))
 
 # ---------- keuzehulp ----------
 quiz = {}
@@ -887,7 +1000,7 @@ LAST = max(g.get("updated", TODAY.isoformat()) for g in guides)
 urls = [("", LAST, "1.0"), ("gidsen.html", LAST, "0.8"), ("aanbiedingen/", TODAY.isoformat(), "0.8"), ("keuzehulp.html", LAST, "0.7"), ("slimste-koop.html", LAST, "0.7"),
         ("zo-kiezen-wij.html", "2026-10-13", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
 urls += [("categorie/%s.html" % k if k != "cadeaus" else "cadeaus/", max(g.get("updated", TODAY.isoformat()) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
-urls += [("black-friday/", TODAY.isoformat(), "0.8")] + [("vs/%s.html" % v["slug"], v["updated"], "0.6") for v in VS_PAGES]
+urls += [("black-friday/", TODAY.isoformat(), "0.8")] + ([("black-friday/echte-kortingen-2026.html", TODAY.isoformat(), "0.8")] if BF_N else []) + [("vs/%s.html" % v["slug"], v["updated"], "0.6") for v in VS_PAGES]
 urls += [(c["hub"], max(g.get("updated", TODAY.isoformat()) for g in c["members"]), "0.8") for c in HUBS]
 urls += [(g["url"], g.get("updated", TODAY.isoformat()), "0.9") for g in guides]
 wr("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join("<url><loc>%s/%s</loc><lastmod>%s</lastmod><priority>%s</priority></url>\n" % (SITE, u, d, pr) for u, d, pr in urls) + "</urlset>\n")
