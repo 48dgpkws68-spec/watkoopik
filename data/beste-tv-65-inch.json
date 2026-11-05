@@ -616,6 +616,14 @@
     {
       "q": "Heb ik een soundbar nodig bij een 65 inch tv?",
       "a": "De meeste tv's in deze lijst hebben 20 tot 40 watt aan speakers, genoeg voor nieuws en series. Voor films en muziek is een soundbar een duidelijke verbetering. Alleen de Samsung S95H en Philips OLED850 hebben een geluidssysteem dat op zichzelf al goed klinkt."
+    },
+    {
+      "q": "Hoeveel stroom verbruikt een 65 inch tv?",
+      "a": "Een 65 inch tv verbruikt tijdens het kijken meestal tussen de 100 en 200 watt, afhankelijk van het paneel, de helderheid en de beeldmodus. HDR en een felle beeldstand kosten merkbaar meer. Kijk je vier uur per dag, dan kom je uit op ongeveer 150 tot 300 kWh per jaar. Met de eco-stand of automatische helderheid bespaar je zonder veel verschil in beeld. In stand-by gebruikt een moderne tv minder dan 1 watt."
+    },
+    {
+      "q": "Hoe hoog hang je een 65 inch tv aan de muur?",
+      "a": "Het midden van het scherm hoort ongeveer op ooghoogte te zitten als je op de bank zit, meestal 100 tot 120 cm vanaf de vloer. Een 65 inch tv is 84 cm hoog, dus de onderkant komt dan rond de 60 tot 80 cm. Hang je hem hoger, zoals boven een schouw, dan kijk je omhoog en krijg je sneller last van je nek. Controleer ook of je beugel de VESA-maat en het gewicht van je tv aankan."
     }
   ],
   "published": "2026-10-16",
@@ -641,5 +649,35 @@
     "beste-tv-55-inch",
     "beste-tv-75-inch",
     "beste-tv-onder-1000-euro"
-  ]
+  ],
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Kijk je vooral in een donkere of lichte kamer?",
+        "p": "In een donkere kamer geeft OLED het diepste zwart, zoals de nr. 1 LG C5 of nr. 3 Philips 65OLED850. Kijk je veel overdag met ramen in de buurt, dan helpt de matte antireflectielaag van de nr. 2 Samsung QE65S95H of de hoge helderheid van Mini LED, zoals bij de nr. 4 Sony Bravia 5 en nr. 5 TCL 65Q6C. Voor een lichte kamer wil je minimaal 1.000 nits."
+      },
+      {
+        "h": "Hoeveel apparaten met HDMI 2.1 sluit je aan?",
+        "p": "Heb je een PS5, Xbox en een soundbar met eARC, dan wil je drie of vier HDMI 2.1-poorten. Die heb je bij de nr. 1 LG C5, nr. 2 Samsung QE65S95H en nr. 6 Samsung QE65QN82H, die er alle drie vier hebben. De nr. 3 Philips, nr. 4 Sony en nr. 5 TCL hebben er twee. Met één console is dat genoeg."
+      },
+      {
+        "h": "Speel je games op 120 Hz of hoger?",
+        "p": "Voor een PS5, Xbox Series X of gaming-pc wil je minimaal 120 Hz met VRR. De nr. 5 TCL 65Q6C en nr. 7 TCL 65T8D halen 144 Hz voor minder dan € 850, net als de duurdere nr. 1 LG C5. De nr. 8 Philips 65PUS8500 en nr. 9 TCL 65P71K hebben een 60 Hz-paneel: prima voor tv en streamen, minder geschikt voor snelle games."
+      },
+      {
+        "h": "Hoeveel wil je uitgeven?",
+        "p": "Onder de € 600 kom je uit bij QLED zonder lokale dimming, zoals de nr. 9 TCL 65P71K (€ 509) of de nr. 8 Philips 65PUS8500 (€ 599) met Ambilight. Voor € 700 tot € 850 krijg je Mini LED met 144 Hz bij de nr. 7 TCL 65T8D en nr. 5 TCL 65Q6C. Voor OLED betaal je vanaf € 1.367 voor de nr. 1 LG C5."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De Samsung QE65S95H (€ 2.099) past beter als je vaak overdag kijkt in een kamer met veel ramen. De QD-OLED is feller dan de LG C5 en de matte antireflectielaag dempt spiegelingen. Je krijgt 165 Hz, vier HDMI 2.1-poorten, 70 W geluid en een One Connect-box voor de kabels. Daarvoor betaal je ongeveer € 730 meer. Kijk je veel in Dolby Vision, dan is de LG beter: de Samsung ondersteunt alleen HDR10+."
+      },
+      {
+        "rank": 3,
+        "p": "De Philips 65OLED850 (€ 1.499) past beter als je vooral in een donkere kamer films kijkt en Ambilight wilt. Het licht aan drie zijden maakt het beeld groter en rustiger voor je ogen. Je krijgt Dolby Vision én HDR10+, Google TV en 70 W geluid met subwoofer. Daar staat tegenover dat hij twee HDMI 2.1-poorten en 120 Hz heeft, tegen vier poorten en 144 Hz bij de LG C5 die ongeveer € 130 goedkoper is."
+      }
+    ]
+  }
 }

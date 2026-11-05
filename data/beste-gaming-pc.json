@@ -576,7 +576,45 @@
     {
       "q": "Kun je een gaming pc later upgraden?",
       "a": "Bij de meeste pc's kun je werkgeheugen, opslag en de videokaart vervangen. Let wel op de voeding en de ruimte in de kast. Compacte merk-pc's zoals de Lenovo LOQ Tower zijn lastiger te upgraden. Een AM5-platform met Ryzen 7000 of 9000 krijgt nog nieuwe processors, AM4 niet meer."
+    },
+    {
+      "q": "Hoeveel stroom verbruikt een gaming pc?",
+      "a": "Dat hangt vooral af van de videokaart. Een RTX 5070 is zelf opgegeven voor ongeveer 250 watt, dus een complete pc daarmee verbruikt tijdens het gamen naar schatting 350 tot 450 watt, in rust veel minder. Rekenvoorbeeld: 400 watt gedurende 3 uur is 1,2 kWh. Bij een aangenomen stroomprijs van 30 cent per kWh kost een avond gamen dan ongeveer 36 cent. Met een RTX 5080 ligt het verbruik hoger."
+    },
+    {
+      "q": "Is Intel of AMD beter voor gamen?",
+      "a": "Voor puur gamen zijn de AMD X3D-processors zoals de 7800X3D en 9800X3D het snelst, dankzij hun extra cache. Dat merk je vooral in shooters en strategiespellen. Intel Core Ultra 7-processors hebben meer kernen en zijn sterk als je naast het gamen streamt of video bewerkt. In 1440p en 4K bepaalt de videokaart het grootste deel van je framerate, dus daar is het verschil kleiner."
     }
   ],
-  "published": "2026-10-21"
+  "published": "2026-10-21",
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Op welke monitor speel je?",
+        "p": "Je scherm bepaalt welke videokaart je nodig hebt. Voor 1080p is een RTX 5060 genoeg, zoals in de nr. 10 Scan 3XS Vista (€ 1.100) of de nr. 9 Lenovo LOQ Tower (€ 1.399). Voor 1440p kies je een RTX 5070, zoals in de nr. 1 ASUS ROG G700 (€ 2.019). Wil je 4K spelen, dan past de nr. 2 HP OMEN 35L met RTX 5080 (€ 3.509)."
+      },
+      {
+        "h": "Hoeveel videogeheugen wil je?",
+        "p": "8 GB is voldoende voor 1080p, maar in 1440p met hoge texturen vragen nieuwe games al snel 12 tot 16 GB. De RTX 5070 in de nr. 1 ASUS heeft 12 GB. Wil je meer marge voor 1440p ultra of instap-4K, kies dan 16 GB, zoals de nr. 4 Lenovo Legion T5 met RTX 5070 Ti (€ 2.399) of de nr. 7 MSI Pano met RX 9070 XT (€ 2.375)."
+      },
+      {
+        "h": "Speel je vooral shooters en strategie?",
+        "p": "In cpu-zware games leveren de AMD X3D-processors de hoogste en stabielste framerates. De nr. 3 HP OMEN 35L met Ryzen 7 7800X3D (€ 2.369) is daarop gebouwd. De nr. 6 Fractal Design North en de nr. 7 MSI Pano hebben de nog snellere 9800X3D. Stream of bewerk je ook video, dan is de 20-core Intel in de nr. 1 ASUS sterker."
+      },
+      {
+        "h": "Wat is je budget?",
+        "p": "Met € 1.100 tot € 1.500 speel je in 1080p, met de nr. 10 Scan, de nr. 9 Lenovo LOQ of de nr. 8 ASUS ROG G700 met RTX 5060 (€ 1.499). De goedkoopste RTX 5070 is de nr. 5 AZZA Prime (€ 1.719), al zijn de processor en het DDR4-geheugen een oudere generatie. Voor € 300 meer krijg je met de nr. 1 ASUS een nieuwer platform met DDR5."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De HP OMEN 35L GT16-1791nd past beter als je in 4K of op een 240 Hz-monitor speelt. De RTX 5080 met 16 GB speelt games in 4K op hoge instellingen en de Ryzen 9 9900X3D combineert gamesnelheid met 12 kernen voor werk. Je krijgt ook 2 TB opslag in plaats van 1 TB. Hij kost wel € 3.509, bijna € 1.500 meer dan de ASUS. Bij volle belasting hoor je de ventilatoren."
+      },
+      {
+        "rank": 3,
+        "p": "Kies de HP OMEN 35L GT16-1773nd als je vooral competitief speelt in shooters of strategiespellen. Hij heeft dezelfde RTX 5070 met 12 GB als de ASUS, maar de Ryzen 7 7800X3D geeft stabielere framerates in cpu-zware games. Hij kost € 2.369, € 350 meer dan de nr. 1. Voor streamen of zwaar multitasken is de 20-core Intel in de ASUS juist sterker."
+      }
+    ]
+  }
 }

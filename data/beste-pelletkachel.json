@@ -563,10 +563,52 @@
     {
       "q": "Heb ik een vergunning nodig voor een pelletkachel?",
       "a": "Voor het plaatsen van een pelletkachel heb je meestal geen vergunning nodig. Een rookafvoer door de gevel of het dak kan wel onder regels van je gemeente of VvE vallen. Vraag dat vooraf na."
+    },
+    {
+      "q": "Hoeveel stroom verbruikt een pelletkachel?",
+      "a": "Een pelletkachel gebruikt stroom voor de ontsteking, de ventilatoren en de vijzel die de pellets aanvoert. Bij het opstarten trekt het ontstekingselement enkele minuten zo'n 300 tot 400 watt. Daarna verbruikt de kachel meestal 30 tot 100 watt, afhankelijk van de stand. Over een stookseizoen is dat een bescheiden post op je energierekening. Let op: zonder stroom werkt een pelletkachel niet, ook niet bij een stroomstoring."
+    },
+    {
+      "q": "Welke pellets zijn het beste voor een pelletkachel?",
+      "a": "Kies houtpellets met het ENplus A1-keurmerk. Die hebben een vaste kwaliteit, weinig as en een laag vochtgehalte, waardoor de kachel schoner brandt en minder snel vervuilt. De meeste kachels gebruiken pellets van 6 mm dik, controleer dat in de handleiding. Bewaar de zakken droog, want vochtige pellets vallen uit elkaar en kunnen storingen geven. Een zak weegt meestal 15 kilo."
     }
   ],
   "published": "2026-10-21",
   "rel": [
     "beste-elektrische-openhaard"
-  ]
+  ],
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Hoe groot is de ruimte die je wilt verwarmen?",
+        "p": "Reken op ongeveer 1 kW per 25 m³ in een redelijk geïsoleerd huis. Een kamer van 40 m² met een plafond van 2,6 meter is ruim 100 m³: dan volstaat 6 kW, zoals de nr. 7 THUNDER Leyla 6 kW of nr. 9 Kalor Smart 6 kW. Tot ongeveer 200 m³ past een 8 kW-kachel als de nr. 1 Livn Liland 8. Een grote open ruimte of slecht geïsoleerd huis vraagt de nr. 10 THUNDER Aria 11 kW."
+      },
+      {
+        "h": "Hoe vaak wil je pellets bijvullen?",
+        "p": "Het reservoir bepaalt hoe lang je stookt zonder bij te vullen. Bij 10 tot 15 kilo per dag gaat een bak van ca. 15 kilo, zoals bij de nr. 1 Livn Liland 8, ongeveer een dag mee. De nr. 4 Livn Hamar 8 heeft ca. 22 kilo en de nr. 6 THUNDER Karmen 9 kW 20 kilo. De nr. 7 THUNDER Leyla heeft maar 9 kilo, dus die vul je vaker."
+      },
+      {
+        "h": "Wil je de kachel met je telefoon bedienen?",
+        "p": "Met wifi zet je de kachel onderweg aan en lees je storingen af in een app. Bij de nr. 6 THUNDER Karmen 9 kW, nr. 7 THUNDER Leyla 6 kW en nr. 10 THUNDER Aria 11 kW zit wifi standaard in de prijs. Bij de nr. 1 Livn Liland 8 en nr. 2 Kalor Kim 8 kW koop je een losse module, die meestal € 150 tot € 200 kost."
+      },
+      {
+        "h": "Woon je in een goed geïsoleerd of nieuwbouwhuis?",
+        "p": "In een luchtdicht huis met mechanische ventilatie kan een open kachel onderdruk en slechte trek geven. Kies dan een kachel met gesloten verbranding die de lucht van buiten haalt. De nr. 5 Artel Julia Next is daarop gericht en draait ook stil op lage standen. Laat de installateur bij elke kachel controleren of de luchttoevoer past bij je ventilatie."
+      },
+      {
+        "h": "Wil je de installatie geregeld hebben?",
+        "p": "Laat de rookafvoer door een erkende installateur aansluiten, want verzekeraars vragen bij schade vaak om een opleverrapport. Bij de nr. 1 Livn Liland 8 en nr. 4 Livn Hamar 8 zit een gratis ingebruikstelling door een monteur. Bij de nr. 2 Kalor Kim 8 kW niet: tel die kosten op als je het prijsverschil van € 440 met de Liland vergelijkt."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De Kalor Kim 8 kW (€ 1.359) past beter als je vooral op de aanschafprijs let. Je krijgt hetzelfde vermogen van 8 kW als de Liland voor ruimtes tot 190 m³, met een weekprogramma, voor € 440 minder. Het rendement ligt met ca. 90% iets lager dan de 92,7% van de Liland. Er zit geen gratis installatie bij en het display is eenvoudiger, dus reken de kosten van een installateur mee."
+      },
+      {
+        "rank": 3,
+        "p": "De Kalor Futura 7 kW (€ 2.199) past beter als de kachel midden in je woonkamer staat en er ook mooi moet uitzien. Het grote glazen deurvenster geeft een ruim vlambeeld en op lage standen werkt hij stil. Je betaalt wel € 400 meer dan voor de Liland en krijgt iets minder vermogen: 7 kW voor ruimtes tot 175 m³. Voor een grote open ruimte is hij daardoor minder geschikt."
+      }
+    ]
+  }
 }

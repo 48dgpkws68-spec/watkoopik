@@ -639,7 +639,49 @@
     {
       "q": "Helpt een luchtreiniger tegen virussen en schimmel?",
       "a": "Een HEPA H13-filter vangt schimmelsporen en druppeltjes waarin virussen zitten. Het verlaagt de hoeveelheid in de lucht, maar vervangt geen ventilatie. Zorg altijd voor frisse buitenlucht naast de luchtreiniger."
+    },
+    {
+      "q": "Welke luchtreiniger is het beste bij allergie of pollen?",
+      "a": "Kies een apparaat met een HEPA-filter van klasse H13, dat 99,95 procent van deeltjes van 0,3 micrometer vangt. Zorg ook dat de CADR past bij de kamer. Voor een slaapkamer tot 40 m2 is de Levoit Core 300S met H13 een goede keuze, voor een woonkamer de Philips PureProtect 3200. Een luchtreiniger vermindert pollen en stof in de lucht, maar vervangt geen behandeling: bespreek klachten met je huisarts."
+    },
+    {
+      "q": "Helpt een luchtreiniger tegen huisstofmijt?",
+      "a": "Deels. Huisstofmijten leven in je matras, kussen en dekbed. De allergenen in hun uitwerpselen zijn vrij zware deeltjes die vooral opwaaien bij het opschudden van beddengoed of stofzuigen en daarna snel weer zakken. Een HEPA-filter vangt wat in de lucht zweeft. Beddengoed op 60 graden wassen, de slaapkamer goed ventileren en stofzuigen met een HEPA-filter blijven daarom het belangrijkst."
     }
   ],
-  "published": "2026-10-13"
+  "published": "2026-10-13",
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Hoe groot is de kamer?",
+        "p": "Reken de inhoud van je kamer uit en vermenigvuldig die met vier: dat is de CADR die je ongeveer nodig hebt. Voor een slaapkamer tot 40 m2 is nr. 2 Levoit Core 300S (€ 163, 240 m3/u) genoeg. Voor een grote woonkamer of open keuken kies je nr. 1 Philips PureProtect 3200 (€ 272, 520 m3/u) of nr. 5 Xiaomi 4 Pro (€ 250, 500 m3/u)."
+      },
+      {
+        "h": "Staat hij naast je bed?",
+        "p": "Let dan op het geluid van de laagste stand. Onder de 25 dB kun je ernaast slapen. Nr. 6 Rowenta Pure Air XL (€ 138) is met 17,5 dB het stilst, nr. 1 Philips 3200, nr. 7 Philips 900 en nr. 9 Coway Airmega 150 zitten rond 20 dB. Nr. 5 Xiaomi 4 Pro begint rond 33 dB en past beter in een woonkamer."
+      },
+      {
+        "h": "Gaat het om stof en pollen of ook om geur?",
+        "p": "Een HEPA-filter vangt vaste deeltjes zoals fijnstof, pollen en huisdierenhaar. Voor kookgeur, rook en vluchtige stoffen heb je actiefkool nodig. Nr. 7 Philips PureProtect 900 (€ 121) heeft geen koollaag en is dus vooral voor stof. Nr. 6 Rowenta heeft daarnaast een NanoCaptur-filter tegen formaldehyde."
+      },
+      {
+        "h": "Heb je huisdieren?",
+        "p": "Haar en pluis slibben het hoofdfilter snel dicht. Een wasbaar voorfilter helpt dan: nr. 4 Levoit Vital 200S Pro (€ 256) heeft dat, met een laser-stofsensor die snel reageert. Het bereik is tot 35 m2. Voor een grotere woonkamer met huisdieren kies je beter een apparaat met meer capaciteit, zoals nr. 1 Philips 3200."
+      },
+      {
+        "h": "Wat kosten de filters?",
+        "p": "Een filter kost 30 tot 70 euro en gaat zes maanden tot drie jaar mee. Bij nr. 2 Levoit Core 300S kost een vervangfilter rond de 30 euro, bij nr. 5 Xiaomi 4 Pro rond de 50 euro. Nr. 10 Winix 5300-2 (€ 129) heeft lage filterkosten met een wasbaar koolfilter. Reken dus verder dan de aanschafprijs."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De Levoit Core 300S past beter als je één kamer tot ongeveer 40 m2 wilt reinigen, zoals een slaapkamer of werkkamer. Hij kost € 163, ruim € 100 minder dan de Philips 3200 van € 272. Hij is compact genoeg voor een nachtkastje, een vervangfilter kost rond de 30 euro en hij werkt met Alexa en Google Home. Met 240 m3/u tegen 520 m3/u is hij wel te klein voor een grote woonkamer."
+      },
+      {
+        "rank": 3,
+        "p": "De Dyson PH2 De-NOx is beter als je lucht niet alleen wilt reinigen maar ook bevochtigen of koelen. Dat is handig in een droog huis in de winter of op warme dagen. Het koolfilter vangt ook stikstofdioxide en UV-C houdt het water hygiënisch. Hij kost € 749, bijna € 480 meer dan de Philips 3200. Het waterreservoir moet je regelmatig vullen. Voor alleen reinigen levert de Philips meer capaciteit."
+      }
+    ]
+  }
 }

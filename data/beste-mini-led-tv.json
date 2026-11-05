@@ -482,11 +482,49 @@
     {
       "q": "Wat is RGB Mini LED?",
       "a": "Bij RGB Mini LED bestaat de verlichting uit losse rode, groene en blauwe leds in plaats van witte of blauwe. Zo kan de tv per zone ook de kleur van het licht sturen. Dat geeft een groter kleurbereik. De techniek is nieuw in 2026 en zit onder meer in de TCL RM7L."
+    },
+    {
+      "q": "Welke Mini LED-tv is het beste om te gamen?",
+      "a": "Voor console en pc wil je native 144 Hz met VRR en ALLM via HDMI 2.1. De TCL 65Q7D Pro combineert dat met hoge helderheid en Google TV. Op 55 inch zijn de Hisense 55U7S PRO en 55E8S goede keuzes met dezelfde 144 Hz. Sluit je een console, pc en soundbar tegelijk aan, dan zijn de vier HDMI 2.1-poorten van de Samsung QE65QN83H handig, al haalt die 120 Hz."
+    },
+    {
+      "q": "Wat kost een goede Mini LED-tv?",
+      "a": "In deze vergelijking begint Mini LED rond € 549 voor 55 inch, zoals de Hisense 55E8S en TCL 55T8D. Voor een 65 inch model met hoge helderheid betaal je rond € 1.000, zoals de TCL 65Q7D Pro. Een 85 inch Mini LED-tv kan al voor ongeveer € 1.300 met de TCL 85T8D. Vlaggenschepen met duizenden dimzones zoals de TCL 85X11K kosten ruim € 4.000."
     }
   ],
   "rel": [
     "beste-qled-tv",
     "beste-tv-65-inch",
     "beste-tv-75-inch"
-  ]
+  ],
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Welk formaat past bij je kamer?",
+        "p": "Zit je op ongeveer 2 tot 2,5 meter van de tv, dan is 55 inch genoeg. Kijk dan naar nr. 2 Hisense 55E8S (€ 549) of nr. 7 Hisense 55U7S PRO (€ 699). Vanaf ongeveer 3 meter past 65 inch beter, zoals nr. 1 TCL 65Q7D Pro (€ 999). Voor 85 inch heb je veel kijkafstand nodig: nr. 10 TCL 85T8D (€ 1.299) is daar de betaalbare optie."
+      },
+      {
+        "h": "Kijk je vooral overdag of 's avonds?",
+        "p": "In een lichte kamer telt helderheid. Nr. 1 TCL 65Q7D Pro piekt volgens TCL rond 2.000 nits, nr. 2 Hisense 55E8S haalt rond 600 nits en dat volstaat voor een gewone woonkamer. Kijk je vooral films in het donker, dan tellen dimzones: hoe meer zones, hoe minder blooming. Nr. 3 TCL 85X11K heeft er 14.400, goedkopere modellen zoals nr. 9 TCL 55T8D tonen zichtbaar meer gloed."
+      },
+      {
+        "h": "Welke HDR-formaten gebruik je?",
+        "p": "Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video HDR10+. De TCL-, Hisense- en Philips-modellen in deze lijst ondersteunen beide. Nr. 4 Samsung QE65QN83H (€ 1.099) heeft alleen HDR10+ en nr. 6 LG 65QNED86B6B (€ 1.199) Dolby Vision met HDR10, zonder HDR10+. Kijk je veel Netflix, dan haal je meer uit een tv met Dolby Vision."
+      },
+      {
+        "h": "Game je op een console of pc?",
+        "p": "Voor een PS5 of Xbox wil je minimaal 120 Hz met VRR en ALLM. Gebruik je een gaming-pc, dan is native 144 Hz interessant: nr. 1 TCL 65Q7D Pro, nr. 2 Hisense 55E8S, nr. 5 TCL 75RM7L en nr. 7 Hisense 55U7S PRO halen dat. Sluit je meerdere apparaten aan, dan is nr. 4 Samsung QE65QN83H met vier HDMI 2.1-poorten handig, al haalt die 120 Hz."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De Hisense 55E8S past beter als 55 inch genoeg is voor je kamer en je zo weinig mogelijk wilt uitgeven. Hij kost € 549, dat is € 450 minder dan de TCL 65Q7D Pro van € 999. Je houdt Mini LED, native 144 Hz, Dolby Vision en HDR10+ met daarbij een ingebouwde subwoofer. Je levert in op helderheid: rond 600 nits tegen pieken rond 2.000 nits. VIDAA heeft ook minder apps dan Google TV."
+      },
+      {
+        "rank": 3,
+        "p": "De TCL 85X11K is de keuze als je een thuisbioscoop wilt met een enorm scherm. Met 14.400 dimzones zie je nauwelijks blooming en TCL noemt pieken tot 6.500 nits. Het geluid is afgestemd door Bang & Olufsen. Hij kost wel € 4.051, ruim € 3.000 meer dan nr. 1. Je hebt bovendien een grote, stevige muur nodig. Wil je vooral 85 inch voor minder geld, kijk dan naar nr. 10 TCL 85T8D voor € 1.299."
+      }
+    ]
+  }
 }

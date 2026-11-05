@@ -553,6 +553,14 @@
     {
       "q": "Wat is de beste temperatuur in de slaapkamer?",
       "a": "De meeste mensen slapen het best bij 15 tot 18 graden. Verwarm de kamer dus vooral voor het slapengaan en laat de kachel daarna terugschakelen naar een lage nachttemperatuur."
+    },
+    {
+      "q": "Mag een elektrische kachel aan een verlengsnoer?",
+      "a": "Liever niet. Een kachel van 1000 tot 2000 watt trekt veel stroom. Een dun verlengsnoer of een stekkerdoos kan daardoor warm worden, vooral als het snoer opgerold ligt. Steek de stekker daarom direct in een geaard stopcontact. Moet het echt, gebruik dan een kort, volledig uitgerold snoer dat geschikt is voor minimaal 16 ampère. Sluit er geen andere apparaten op aan."
+    },
+    {
+      "q": "Is een olieradiator zuiniger dan een convector?",
+      "a": "Nee. Elke elektrische kachel zet vrijwel alle stroom om in warmte, dus 1000 watt geeft bij elk type evenveel warmte. Het verschil zit in de manier van verwarmen. Een olieradiator warmt langzamer op maar blijft na het uitschakelen nog even warm. Een convector warmt de lucht sneller op. Zuinig stook je vooral met een goede thermostaat, een timer en een vermogen dat past bij je kamer."
     }
   ],
   "rel": [
@@ -560,5 +568,35 @@
     "beste-plaid"
   ],
   "meta_title": "Beste elektrische kachel slaapkamer 2026: stil en veilig",
-  "meta_desc": "De beste elektrische kachel voor de slaapkamer van 2026 is de {top}. Top 10 stille kachels en olieradiatoren met thermostaat, timer en zonder fel display."
+  "meta_desc": "De beste elektrische kachel voor de slaapkamer van 2026 is de {top}. Top 10 stille kachels en olieradiatoren met thermostaat, timer en zonder fel display.",
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Hoe groot is je slaapkamer?",
+        "p": "Reken op 70 tot 100 watt per m². Tot ongeveer 13 m² is 1000 watt genoeg, zoals bij de nr. 2 Eurom Alutherm 1000 WiFi of de nr. 3 Adax Neo 1000 W WiFi. Is je kamer tot ongeveer 20 m², dan past de nr. 1 Duux Edge Oil 1500 W beter. Een kleine kinderkamer tot 9 m² verwarm je met de nr. 8 Komodo van 450 W."
+      },
+      {
+        "h": "Wil je 's nachts geen licht in de kamer?",
+        "p": "Veel slimme kachels hebben een display of verlichte knoppen. Bij de nr. 1 Duux Edge Oil kun je het display en de lampjes dimmen of uitzetten. Wil je helemaal geen schermpje, kies dan de nr. 4 Mill AB-H1000MEC: die heeft een mechanische thermostaat zonder lampjes. Bij de nr. 9 Auronic geeft het controlelampje 's nachts wel wat licht."
+      },
+      {
+        "h": "Heb je een timer of app nodig?",
+        "p": "Met een weekschema warmt de kachel de kamer op voor het slapengaan en schakelt hij daarna terug. Dat scheelt stroom. De nr. 1 Duux, de nr. 2 Eurom en de nr. 5 Mill CO1200WIFI3 regelen dat via een app. Zonder timer, zoals bij de nr. 4 Mill olieradiator of de nr. 10 Tristar KA-5380, zet je hem zelf aan en uit."
+      },
+      {
+        "h": "Hoeveel wil je uitgeven?",
+        "p": "Onder de € 100 kies je uit de nr. 10 Tristar (€ 55), de nr. 9 Auronic (€ 75), de nr. 6 Princess Smart Glass (€ 85) en de nr. 7 Dimplex HeatLite (€ 90). Voor € 112 krijg je met de nr. 2 Eurom al een stille convector met app. De nr. 1 Duux kost € 220 en verwarmt een grotere kamer zonder enig geluid."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De Eurom Alutherm 1000 WiFi is de betere keuze als je slaapkamer niet groter is dan ongeveer 13 m². Je krijgt dan dezelfde stille warmte zonder ventilator, met thermostaat en weektimer in de Eurom Smart App, voor € 112. Dat is ruim € 100 minder dan de Duux. Je kunt hem aan de muur hangen of op pootjes zetten. Voor een grote zolderkamer is 1000 watt wel krap."
+      },
+      {
+        "rank": 3,
+        "p": "Kies de Adax Neo 1000 W WiFi als je de kachel vast aan de muur wilt hangen. Het slanke paneel van 33 x 81 cm heeft een zeer nauwkeurige thermostaat en open-raamdetectie: slaap je met het raam open, dan stopt hij met verwarmen. Hij kost € 209, bijna even veel als de Duux, maar is met 1000 W bedoeld voor kamers tot ongeveer 13 m². Pootjes koop je apart."
+      }
+    ]
+  }
 }

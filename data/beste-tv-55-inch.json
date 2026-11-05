@@ -592,6 +592,14 @@
     {
       "q": "Welke 55 inch tv is het beste om te gamen?",
       "a": "De LG C5 en LG G5 zijn de beste gametv's dankzij vier HDMI 2.1-poorten, VRR en 144 tot 165 Hz. Op een kleiner budget is de Hisense 55E7S PRO met native 144 Hz een sterke keuze."
+    },
+    {
+      "q": "Hoe breed is een 55 inch tv?",
+      "a": "Een 55 inch tv heeft een schermdiagonaal van ongeveer 140 centimeter. De breedte ligt rond 123 centimeter, de hoogte zonder voet rond 71 centimeter. De precieze maat verschilt per model door de rand. Zet je hem op een meubel, controleer dan ook de plaats van de pootjes: staan die aan de zijkanten, dan moet het meubel minstens zo breed zijn als de tv."
+    },
+    {
+      "q": "Wat is het verschil tussen oled en qled?",
+      "a": "Bij oled geeft elke pixel zelf licht en kan hij helemaal uit. Daardoor is zwart echt zwart en zijn de kijkhoeken breed. Qled is een led-tv met een Quantum Dot-laag voor fellere kleuren, maar met achtergrondverlichting, waardoor zwart grijziger oogt. Mini LED is een betere vorm van qled met veel meer dimzones. Voor een donkere kamer is oled sterker, voor een zonnige kamer Mini LED."
     }
   ],
   "published": "2026-10-16",
@@ -614,5 +622,39 @@
     "beste-tv-50-inch",
     "beste-tv-65-inch",
     "beste-tv-onder-500-euro"
-  ]
+  ],
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Oled of Mini LED?",
+        "p": "Kijk je vooral 's avonds films, dan geeft oled het beste zwart: nr. 1 LG C5 (€ 1.041) of nr. 2 LG B5 (€ 799). Staat de tv in een lichte kamer met veel ramen, dan is Mini LED feller. Nr. 6 Sony Bravia 5 (€ 999) en nr. 8 Hisense 55U7Q (€ 650) passen daar. Wil je oled en toch helderheid, kijk dan naar nr. 3 LG G5."
+      },
+      {
+        "h": "Hoeveel HDMI 2.1-poorten heb je nodig?",
+        "p": "Heb je een console en een soundbar met eARC, dan volstaan twee HDMI 2.1-poorten, zoals bij nr. 2 LG B5 en nr. 4 Sony Bravia 6. Sluit je twee consoles of een gaming-pc aan, dan wil je er vier. Nr. 1 LG C5 heeft vier poorten tot 144 Hz, nr. 3 LG G5 vier poorten tot 165 Hz."
+      },
+      {
+        "h": "Hoeveel wil je uitgeven?",
+        "p": "Onder de € 550 kom je uit bij nr. 9 Hisense 55E7S PRO (€ 529) met 144 Hz maar zonder Mini LED, of nr. 10 TCL 55C69KS (€ 419) met Mini LED en energielabel F. Voor € 650 krijg je met nr. 8 Hisense 55U7Q veel helderheid. Oled begint in deze lijst bij nr. 2 LG B5 voor € 799."
+      },
+      {
+        "h": "Dolby Vision, HDR10+ of allebei?",
+        "p": "LG en Sony ondersteunen Dolby Vision zonder HDR10+, nr. 7 Samsung The Frame Pro (€ 1.449) juist HDR10+ zonder Dolby Vision. Wil je allebei, kijk dan naar nr. 5 Philips 55OLED811 Ambilight (€ 1.499) als oled of naar nr. 8, 9 en 10 van Hisense en TCL. Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video ook HDR10+."
+      },
+      {
+        "h": "Komt de tv aan de muur?",
+        "p": "Nr. 3 LG G5 (€ 1.299) is plat aan de achterkant en hangt bijna zonder kier. Een voet zit niet in de doos, die koop je los als je hem toch wilt neerzetten. Nr. 7 Samsung The Frame Pro (€ 1.449) hangt ook vlak, heeft een mat scherm en toont kunst als de tv uit staat."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De LG B5 past beter als je oled wilt voor een lager bedrag. Hij kost € 799, ruim € 240 minder dan de C5 van € 1.041. Je krijgt hetzelfde perfecte zwart, Dolby Vision en webOS 25. Je levert in op 120 Hz in plaats van 144 Hz, twee in plaats van vier HDMI 2.1-poorten, minder piekhelderheid en een eenvoudigere processor. Met één console, een soundbar en vooral kijken in de avond merk je daar weinig van."
+      },
+      {
+        "rank": 3,
+        "p": "De LG G5 is beter als je tv in een lichte woonkamer staat of aan de muur komt. Het evo Max-paneel is veel feller dan andere oleds, de antireflectiecoating houdt ramen en lampen buiten beeld en gamers krijgen tot 165 Hz op vier HDMI 2.1-poorten. Hij kost € 1.299, ongeveer € 260 meer dan de C5. Houd er rekening mee dat er geen voet in de doos zit."
+      }
+    ]
+  }
 }

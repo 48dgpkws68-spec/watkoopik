@@ -634,6 +634,13 @@ for g in guides:
         "".join("<p>%s</p>" % e(t) for t in p["text"].split("\n\n")), "".join("<li>%s</li>" % e(x) for x in p["pros"]), "".join("<li>%s</li>" % e(x) for x in p["cons"]),
         hist_box(p), e(p["ideal"]), shop_a(p, g), amazon_a(p, g), e(chk_date(p, g))) for p in ps)
     guide_html = "".join("<h3>%s</h3>%s" % (e(s["h"]), "".join("<p>%s</p>" % e(t) for t in s["p"].split("\n\n"))) for s in g["guide"]) + cl_more(g)
+    # optioneel veld "kies" (groeimotor N6, 6 nov 2026): beslispunten + wanneer nr. 2 of 3, met eigen koopknop
+    kq = g.get("kies") or {}
+    byr = {p["rank"]: p for p in ps}
+    kies_html = ('<div class="guide rv" id="zo-kies-je"><h2>Zo kies je in %d vragen</h2>%s%s</div>' % (len(kq.get("keuzes", [])),
+        "".join("<h3>%s</h3><p>%s</p>" % (e(k["h"]), e(k["p"])) for k in kq.get("keuzes", [])),
+        ("<h2>Wanneer kies je nr. 2 of 3?</h2>" + "".join('<h3>Nr. %d: %s %s</h3><p>%s</p><p>%s</p>' % (w["rank"], e(byr[w["rank"]]["brand"]), e(byr[w["rank"]]["name"]), e(w["p"]), shop_a(byr[w["rank"]], g, "btn btn-buy btn-sm", "wanneer"))
+            for w in kq.get("wanneer", []) if w.get("rank") in byr)) if kq.get("wanneer") else "")) if kq.get("keuzes") else ""
     hubc = next((c for c in CL_OF.get(g["slug"], []) if c["hub"]), None)  # familie-overzicht in kruimelpad en schema
     hf = hist_faq(g)  # FAQ uit eigen prijsmetingen (alleen in de pagina, niet in de bron-json)
     if hf and not any(q["q"] == hf["q"] for q in g["faq"]): g["faq"] = g["faq"] + [hf]
@@ -685,18 +692,18 @@ for g in guides:
 <div class="layout"><div>
 <h2 id="vergelijk" class="rv" style="margin-top:22px">Alle %d naast elkaar</h2>%s
 <h2 id="top10" class="rv">De top 10 in detail</h2>%s
-%s<div class="verdict rv"><span class="kick" style="color:#ffb48a">Eindoordeel</span><h2>Onze conclusie</h2><p>%s</p>%s</div>
+%s%s<div class="verdict rv"><span class="kick" style="color:#ffb48a">Eindoordeel</span><h2>Onze conclusie</h2><p>%s</p>%s</div>
 <div class="guide rv" id="koopgids"><h2>Koopgids: zo kies je de juiste %s</h2>%s</div>
 <div class="faq rv" id="faq"><h2>Veelgestelde vragen</h2>%s</div>
 <div class="pref-wrap">%s</div>
 </div>
-<aside class="side"><details class="toc"><summary>In deze gids</summary><ol><li><a href="#vergelijk">Vergelijkingstabel</a></li>%s%s<li><a href="#koopgids">Koopgids</a></li><li><a href="#faq">Veelgestelde vragen</a></li></ol></details></aside>
+<aside class="side"><details class="toc"><summary>In deze gids</summary><ol><li><a href="#vergelijk">Vergelijkingstabel</a></li>%s%s%s<li><a href="#koopgids">Koopgids</a></li><li><a href="#faq">Veelgestelde vragen</a></li></ol></details></aside>
 </div>
 <section style="padding:40px 0"><div class="sec-head"><h2>Meer gidsen in %s</h2><a class="more" href="../categorie/%s.html">Alle %d →</a></div><div class="gl">%s</div></section>
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
-        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, cards, hist_section(g), e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, '<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, cards, hist_section(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, '<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "", '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = g.get("seo") or g["query"]  # zoekterm voor titel en meta; query blijft de bol-zoekterm

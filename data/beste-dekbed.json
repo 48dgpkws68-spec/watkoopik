@@ -624,10 +624,48 @@
     {
       "q": "Welk dekbed is goed bij een huisstofmijtallergie?",
       "a": "Een synthetisch dekbed dat in de wasmachine kan, zoals de modellen van Ten Cate, Slaapspeciaal en Snoozing. Kijk op het label voor de maximale wastemperatuur en was het minimaal drie keer per jaar. Dons is op zich geen probleem voor huisstofmijt, maar is alleen op 40 graden wasbaar."
+    },
+    {
+      "q": "Welke maat dekbed heb je nodig voor een bed van 180 breed?",
+      "a": "Voor een bed van 180 breed is 260x220 cm de juiste maat. Een dekbed hoort 40 tot 50 centimeter breder te zijn dan je matras, zodat het aan beide kanten goed over de rand valt. Ben je langer dan 1,85 meter, kies dan altijd 220 cm lang. Voor een bed van 140 of 160 breed is 240x220 cm de standaard."
+    },
+    {
+      "q": "Hoe krijg je een dekbed weer luchtig na het wassen?",
+      "a": "Laat het dekbed na het wassen volledig drogen, het liefst in een grote droger op lage temperatuur. Doe er twee of drie tennisballen bij: die slaan de vulling los, zodat er geen klonten ontstaan. Vooral dons moet helemaal droog zijn, anders gaat het klonteren en ruiken. Schud het dekbed daarna goed op en sla het dagelijks even open om het te luchten."
     }
   ],
   "published": "2026-10-13",
   "rel": [
     "beste-luchtreiniger-allergie"
-  ]
+  ],
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Dons of synthetisch?",
+        "p": "Heb je een huisstofmijt- of donsallergie of wil je vaak op 60 graden wassen, kies dan synthetisch. Denk aan de nr. 1 Ten Cate Comfort 4-Seizoenen (€ 320) of de nr. 2 Slaapspeciaal Climate Control (€ 60). Wil je het lichte gevoel van dons, dan passen de nr. 5 Ducky Dons Noorderlicht (€ 400) of de nr. 3 Yumeko Donzen Dekbed (€ 809)."
+      },
+      {
+        "h": "Welke maat past bij je bed?",
+        "p": "Voor een tweepersoonsbed van 140 of 160 breed is 240x220 cm de standaard. Die maat hebben de meeste dekbedden in deze lijst, waaronder de nr. 1 Ten Cate Comfort. Slaap je op een bed van 180 breed, kies dan 260x220 cm, zoals de nr. 4 Cinderella Soul (€ 272) of de nr. 5 Ducky Dons Noorderlicht (€ 400)."
+      },
+      {
+        "h": "Wil je één dekbed voor het hele jaar?",
+        "p": "Een vierseizoenendekbed bestaat uit een dun zomerdeel en een dikker herfstdeel die je in de winter aan elkaar maakt. Op de nr. 4 Cinderella Soul na zijn alle dekbedden in deze lijst vierseizoenen. Slaap je het hele jaar in een kamer van 16 tot 18 graden, dan volstaat de Cinderella als enkel donzen dekbed met middelwarmte, zonder losse delen."
+      },
+      {
+        "h": "Hoeveel wil je uitgeven?",
+        "p": "Voor een logeerbed of een krappe beurs zijn de nr. 10 Sleep Comfy (€ 49), de nr. 2 Slaapspeciaal (€ 60) en de nr. 8 Ten Cate Classic (€ 80) prima. Voor dagelijks gebruik heeft de nr. 1 Ten Cate Comfort (€ 320) drukknopen die de delen stevig bij elkaar houden. Een natuurlijke vulling onder de € 200 vind je bij de nr. 6 Fabiola Oostenrijks Halfdons (€ 169)."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De Slaapspeciaal Climate Control past beter als je vooral een goedkoop, wasbaar dekbed zoekt. Hij kost € 60, ruim € 250 minder dan de Ten Cate Comfort. Net als de nr. 1 is het een synthetisch vierseizoenendekbed van 240x220 cm dat op 60 graden in de wasmachine kan. Dat is prettig bij allergie. Je levert wel in op levensduur: drukknopen kunnen loslaten en de vulling wordt na jaren wassen platter."
+      },
+      {
+        "rank": 3,
+        "p": "Kies het Yumeko Donzen Dekbed als je het lichte, luchtige gevoel van dons wilt en geen donsallergie hebt. De vulling is 90% gerecycled dons in een tijk van biologisch katoen. Hij kost € 809, ruim twee keer zoveel als de Ten Cate Comfort, maar gaat bij goed onderhoud zo'n 15 jaar mee. Wassen kan alleen op 40 graden, dus reken op meer zorg bij het onderhoud."
+      }
+    ]
+  }
 }

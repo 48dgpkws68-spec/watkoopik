@@ -624,7 +624,49 @@
     {
       "q": "Hoe lang gaat een Amerikaanse koelkast mee?",
       "a": "Een goede Amerikaanse koelkast gaat gemiddeld twaalf tot vijftien jaar mee. Modellen met een invertercompressor hebben vaak een lange garantie op de compressor. Een dispenser en ijsmaker zijn de onderdelen die het vaakst onderhoud vragen, zoals het vervangen van het waterfilter."
+    },
+    {
+      "q": "Wat is het verschil tussen side-by-side en French door?",
+      "a": "Bij een side-by-side staan koelkast en vriezer naast elkaar, elk achter een eigen hoge deur. Je hebt de vriezer op ooghoogte en veel deurvakken. Bij een French door zit het koelgedeelte boven achter twee deuren met brede planken, met de vriezer onderin als lades. Dat is handig voor ovenschalen en taarten, maar je moet in de vriesladen slimmer stapelen."
+    },
+    {
+      "q": "Hoe lang moet een Amerikaanse koelkast stilstaan voordat je hem aanzet?",
+      "a": "Na het vervoer moet de olie in de compressor terugzakken. Laat de koelkast daarom een aantal uren rechtop staan voordat je de stekker erin doet. Is hij liggend vervoerd, dan is langer wachten verstandig. De precieze wachttijd verschilt per merk, dus kijk in de handleiding. Laat hem daarna eerst leeg op temperatuur komen voordat je hem vult."
     }
   ],
-  "published": "2026-10-17"
+  "published": "2026-10-17",
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Wil je een dispenser met wateraansluiting?",
+        "p": "Nr. 1 LG GSXV91MCAE, nr. 2 Samsung RS68A8830S9, nr. 3 Samsung Family Hub en nr. 6 Hisense RS818N4IFD (€ 1.259) hebben een water- en ijsdispenser die een vaste waterleiding nodig heeft. Wil je geen loodgieter, kies dan nr. 9 Inventum SKV0178B (€ 724) met een ijsblokjesmaker die je met de hand vult, of een model zonder dispenser."
+      },
+      {
+        "h": "Hoeveel breedte heb je?",
+        "p": "De meeste modellen zijn rond 91 cm breed en je hebt een paar centimeter extra nodig voor ventilatie. Meet ook deuren en trapgat op de route naar de keuken. Is je nis smaller, kijk dan naar nr. 5 LG GMX844MCKV (€ 1.795) van 83,5 cm of nr. 10 Haier Cube 83 (€ 699) van 83 cm. Die hebben wel minder inhoud."
+      },
+      {
+        "h": "Side-by-side of French door?",
+        "p": "Bij een side-by-side staat de vriezer naast de koelkast, op ooghoogte en met veel deurvakken. Bij een French door zit de koelkast boven achter twee deuren met brede planken voor ovenschalen, met vriesladen onderin. Wil je een French door, kijk dan naar nr. 4 Bosch Serie 6 (€ 1.599), nr. 7 Siemens iQ500 (€ 1.595) of de goedkopere nr. 10 Haier Cube 83 (€ 699)."
+      },
+      {
+        "h": "Hoe zwaar weegt het stroomverbruik?",
+        "p": "Het verschil tussen energieklasse C en F kan oplopen tot 150 kWh per jaar. Nr. 8 ETNA AKV6178RVS (€ 889) heeft klasse C en is daarmee het zuinigst in deze lijst. Nr. 6 Hisense en nr. 9 Inventum hebben klasse D, de Samsung-modellen nr. 2 en nr. 3 klasse F. Kijk op het label vooral naar het jaarverbruik in kWh."
+      },
+      {
+        "h": "Heb je slimme functies nodig?",
+        "p": "Nr. 3 Samsung Family Hub (€ 2.395) heeft een groot touchscreen in de deur en camera's die via de app tonen wat er in de koelkast staat. Nr. 2 Samsung RS68A8830S9 (€ 1.349) heeft wifi via SmartThings zonder scherm. Nr. 6 Hisense heeft geen app. Bedenk dat een koelkast lang meegaat en software sneller veroudert."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De Samsung RS68A8830S9 past beter als je een grote side-by-side met dispenser wilt zonder te betalen voor InstaView. Hij kost € 1.349, ongeveer € 275 minder dan de LG van € 1.625. De inhoud is vrijwel gelijk met 634 tegen 635 liter. Je krijgt water, ijsblokjes en crushed ijs met wifi via SmartThings. Hij heeft wel energieklasse F tegen E bij de LG en het rvs-front toont vingerafdrukken."
+      },
+      {
+        "rank": 3,
+        "p": "De Samsung Family Hub is beter als je de koelkast dagelijks als keukenscherm gaat gebruiken voor agenda, boodschappen en muziek. Camera's tonen via de app wat er binnen staat en het zwarte rvs heeft een vingerafdrukwerende laag. Hij kost € 2.395, ongeveer € 770 meer dan nr. 1. De inhoud is met circa 614 liter iets kleiner, de energieklasse is F en het touchscreen veroudert sneller dan de koeltechniek."
+      }
+    ]
+  }
 }

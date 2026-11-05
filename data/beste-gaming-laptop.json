@@ -650,7 +650,45 @@
     {
       "q": "Is een gaming laptop beter dan een gaming pc?",
       "a": "Een gaming pc geeft meer prestaties voor hetzelfde geld en is makkelijker te upgraden. Een gaming laptop is de betere keuze als je weinig ruimte hebt of je computer wilt meenemen. Veel gamers sluiten hun laptop thuis aan op een losse monitor en toetsenbord."
+    },
+    {
+      "q": "Hoe lang gaat de accu van een gaming laptop mee?",
+      "a": "Tijdens het gamen houdt vrijwel geen gaming laptop het langer dan een tot twee uur vol op de accu, omdat de videokaart dan veel stroom vraagt. Bij surfen, school of kantoorwerk haal je er meestal een paar uur meer uit. Een grote accu helpt, zoals de 90 Wh van de ASUS TUF Gaming A18 en 92 Wh van de Acer Predator Helios Neo 16. Wie lang wil gamen, doet dat het best aan het stopcontact."
+    },
+    {
+      "q": "Kun je een gaming laptop aansluiten op een monitor of tv?",
+      "a": "Ja. Vrijwel elke gaming laptop heeft een HDMI-poort en vaak ook USB-C met DisplayPort. Voor een monitor met een hoge verversingssnelheid of een tv op 4K met 120 Hz heb je HDMI 2.1 of DisplayPort nodig, dus controleer dat in de specificaties van het model. Gebruik je de laptop thuis vooral aan een bureau, dan zit je met een externe monitor, los toetsenbord en muis ook prettiger."
     }
   ],
-  "published": "2026-10-16"
+  "published": "2026-10-16",
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Op welke resolutie wil je spelen?",
+        "p": "Voor esports en lichte games in Full HD is een RTX 4050 of RTX 5050 genoeg, zoals in de nr. 10 ASUS TUF Gaming A16 of nr. 9 Lenovo LOQ 15AHP10. Met een RTX 5060 speel je de meeste nieuwe games op hoge instellingen, zoals op de nr. 5 ASUS TUF Gaming A18. Wil je 1440p op een scherm van 2560 x 1600, kies dan minimaal de RTX 5070 van de nr. 1 ASUS ROG Strix G16."
+      },
+      {
+        "h": "Neem je de laptop vaak mee?",
+        "p": "De meeste gaming laptops wegen 2,1 tot 2,6 kg. Draag je hem dagelijks naar school of werk, dan is de nr. 4 ASUS ROG Zephyrus G16 met 1,95 kg de lichtste in deze lijst, of de nr. 8 Acer Nitro V 15 met 2,1 kg voor een lager budget. De nr. 3 Alienware 18 Area-51 weegt 4,3 kg en is echt bedoeld voor op het bureau."
+      },
+      {
+        "h": "Hoeveel opslag en werkgeheugen heb je nodig?",
+        "p": "Grote games nemen 100 tot 150 GB in, dus 512 GB raakt snel vol. Kies liefst 1 TB, zoals in de nr. 1 ASUS ROG Strix G16, nr. 6 MSI Katana 15 HX en nr. 7 Acer Predator Helios Neo 16. Wil je direct 32 GB werkgeheugen, dan kom je uit bij de nr. 2 Lenovo Legion Pro 5 of nr. 4 Zephyrus G16. Bij de Zephyrus kun je het geheugen niet uitbreiden."
+      },
+      {
+        "h": "Wat is je budget?",
+        "p": "Voor € 1.099 koop je de nr. 10 ASUS TUF Gaming A16 met RTX 4050 voor lichte games. Tussen € 1.500 en € 1.850 krijg je een RTX 5060 of RTX 5070, zoals de nr. 6 MSI Katana 15 HX met RTX 5070 voor € 1.649. Vanaf € 2.999 betaal je voor OLED, een RTX 5070 Ti of een RTX 5080, zoals bij de nr. 2 Legion Pro 5 en nr. 3 Alienware 18."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De Lenovo Legion Pro 5 16IAX10H OLED (€ 2.999) past beter als je naast gamen ook zwaar videowerk doet of het mooiste scherm wilt. Je krijgt een OLED-paneel met 240 Hz, een RTX 5070 Ti met 12 GB videogeheugen en 32 GB werkgeheugen, tegen een RTX 5070 met 8 GB en 16 GB bij de ROG Strix G16. Daarvoor betaal je € 750 meer. Let wel op het inbrandrisico bij statische beelden."
+      },
+      {
+        "rank": 3,
+        "p": "De Alienware 18 Area-51 (€ 4.799) past beter als je een desktop wilt vervangen en de laptop op je bureau laat staan. De RTX 5080 met 16 GB is een van de snelste laptop-GPU's, het 18 inch scherm draait op 300 Hz en de ssd is 2 TB. De koeling houdt dat ook onder lange belasting vol. Met 4,3 kg en ruim het dubbele van de prijs van de ROG Strix G16 is hij niet voor iedereen."
+      }
+    ]
+  }
 }

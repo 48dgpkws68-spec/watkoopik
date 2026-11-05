@@ -578,7 +578,45 @@
     {
       "q": "Hoeveel stroom verbruikt een elektrische relaxfauteuil?",
       "a": "Heel weinig. De motor draait alleen tijdens het verstellen. Op jaarbasis kost dat meestal minder dan een euro aan stroom. Een massage- of warmtefunctie verbruikt iets meer, maar ook dat blijft beperkt."
+    },
+    {
+      "q": "Welke relaxfauteuil is goed bij rugklachten?",
+      "a": "Bij rugklachten is een elektrische stoel met twee motoren prettig, omdat je rug en voetsteun los van elkaar instelt. Zo kun je rechtop zitten met je benen omhoog. Een sta-op functie helpt als opstaan pijn doet. Let ook op of de stoel bij je lengte past: je knieholtes horen net voor de zittingrand te vallen en je hoofd moet op de hoofdsteun rusten. Overleg bij ernstige klachten met je fysiotherapeut."
+    },
+    {
+      "q": "Hoe zwaar mag je zijn voor een relaxfauteuil?",
+      "a": "Dat verschilt per model. De meeste relaxfauteuils in deze vergelijking zijn geschikt tot 120 of 130 kg. De tectake Relaxfauteuil gaat tot ongeveer 110 kg, de HOMCOM Elektrische massagefauteuil tot ongeveer 150 kg. Zit je dicht bij de grens, kies dan een model met wat marge. Een stoel die steeds aan zijn maximum wordt belast, slijt sneller aan motor en mechaniek."
     }
   ],
-  "published": "2026-10-23"
+  "published": "2026-10-23",
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Heb je hulp nodig bij het opstaan?",
+        "p": "Heb je knie-, heup- of rugklachten of kom je moeilijk uit een stoel, kies dan een sta-op stoel. De nr. 1 Finlandic F-601 (€ 499) kantelt de zitting naar voren en wordt gebruiksklaar geleverd. Wil je echt leer, dan is de nr. 3 Swiss-Relax Sereno (€ 1.199) het alternatief. Zonder opstahulp ben je goedkoper uit, zoals met de nr. 2 COMHOMA Relaxstoel (€ 175)."
+      },
+      {
+        "h": "Elektrisch of handmatig?",
+        "p": "Handmatig verstellen is goedkoper en je hebt geen stopcontact nodig. De nr. 2 COMHOMA met hocker kost € 175 en de rug heeft vier standen. Wissel je vaak van houding of heb je weinig kracht, kies dan elektrisch. Met een lichte massage erbij kost de nr. 5 COMHOMA Elektrische relaxstoel € 330, zonder opstahulp."
+      },
+      {
+        "h": "Hoe lang en zwaar ben je?",
+        "p": "Ben je tussen 1,75 en 1,95 meter, dan past de nr. 4 Finlandic F-502 (€ 629) beter dan de F-601. Let ook op het maximale gewicht: de meeste stoelen in deze lijst gaan tot 120 of 130 kg. Weeg je meer, dan is de nr. 6 HOMCOM Elektrische massagefauteuil met ca. 150 kg de ruimste. De nr. 10 tectake gaat tot ca. 110 kg."
+      },
+      {
+        "h": "Wil je rug en benen los verstellen?",
+        "p": "Bij één motor bewegen rug en voetsteun samen. Met twee motoren zit je rechtop met je benen omhoog, wat prettig is bij rugklachten. De nr. 4 Finlandic F-502 heeft die losse verstelling. Zoek je maximale ontspanning met hoge benen, dan zet de nr. 7 Swiss-Relax Zero Gravity (€ 1.499) je in een zero gravity stand met verstelbare hoofdsteun."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De COMHOMA Relaxstoel met ligfunctie en hocker past beter als je geen opstahulp nodig hebt en vooral een comfortabele lees- of tv-stoel zoekt. Hij kost € 175, ruim € 300 minder dan de Finlandic F-601. Je verstelt de rug handmatig in vier standen, dus een stopcontact is niet nodig. Een losse hocker en zachte chenille stof zitten erbij. Wel zet je hem zelf in elkaar."
+      },
+      {
+        "rank": 3,
+        "p": "Kies de Swiss-Relax Sereno als je dezelfde functies als de F-601 wilt, maar dan in echt leer en draaibaar. Het leer is makkelijk schoon te maken en wordt mooier met de jaren. Met ca. 130 kg ligt het maximale gebruikersgewicht 10 kg hoger. Hij kost € 1.199, meer dan twee keer zoveel als de Finlandic. Leer vraagt bovendien af en toe onderhoud."
+      }
+    ]
+  }
 }

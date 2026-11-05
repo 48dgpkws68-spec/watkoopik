@@ -506,6 +506,14 @@
     {
       "q": "Heb ik bij een 50 inch tv een soundbar nodig?",
       "a": "De ingebouwde speakers van dunne tv's klinken vaak dun. Voor nieuws en series is dat genoeg, maar voor films en muziek merk je een groot verschil met een soundbar vanaf ongeveer 100 euro."
+    },
+    {
+      "q": "Wat is het verschil tussen een 50 en 55 inch tv?",
+      "a": "Een 55 inch tv heeft een 12,7 cm grotere diagonaal en is ongeveer 11 cm breder en 6 cm hoger dan een 50 inch model. Dat lijkt weinig, maar het beeldoppervlak is zo'n 20 procent groter. Zit je verder dan 2,5 meter van de tv, dan is 55 inch meestal de betere keus. Op kortere afstand of op een smal meubel past 50 inch beter."
+    },
+    {
+      "q": "Welke 50 inch tv heeft 144 Hz?",
+      "a": "In deze lijst halen drie tv's native 144 Hz: de Hisense 50E8S, de Hisense 50E7S PRO en de TCL 50Q7C. De Sony BRAVIA 3 II haalt 120 Hz. De andere modellen draaien op 60 Hz. Voor een PS5 of Xbox Series X is 120 Hz al genoeg, 144 Hz is vooral interessant als je een gaming-pc aansluit."
     }
   ],
   "published": "2026-10-29",
@@ -515,5 +523,35 @@
     "beste-tv-43-inch"
   ],
   "meta_title": "Beste 50 inch tv 2026: QLED, Mini LED en 144 Hz",
-  "meta_desc": "De beste 50 inch tv van 2026 is de {top}. Top 10 tv's van 50 inch vergeleken op beeld, HDR, gaming en prijs, met de beste keuze onder 500 euro."
+  "meta_desc": "De beste 50 inch tv van 2026 is de {top}. Top 10 tv's van 50 inch vergeleken op beeld, HDR, gaming en prijs, met de beste keuze onder 500 euro.",
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Zit je tussen 1,6 en 2,3 meter van de tv?",
+        "p": "Dan is 50 inch de juiste maat en hoef je niet groter. Zit je verder dan 2,5 meter weg, dan voelt 55 inch prettiger en kun je beter in die gids kijken. Binnen 50 inch geeft nr. 1, de Hisense 50E8S (€ 499), met Mini-LED en tot 1.300 nits het meeste beeld voor je geld."
+      },
+      {
+        "h": "Game je op een PS5, Xbox of pc?",
+        "p": "Kies dan een tv met native 144 Hz. Dat hebben nr. 1, de Hisense 50E8S, nr. 6, de Hisense 50E7S PRO (€ 479) en nr. 4, de TCL 50Q7C (€ 799) met VRR. De Samsung op nr. 2 en de Philips op nr. 3 draaien op 60 Hz en zijn minder geschikt voor 120 Hz-games."
+      },
+      {
+        "h": "Wil je onder de 350 euro blijven?",
+        "p": "Dan heb je twee goede opties. Nr. 7, de Hisense 50E7S (€ 330), geeft QLED-kleuren met Dolby Vision en HDR10+. Nr. 9, de TCL 50P61K (€ 329), heeft geen quantum dots maar wel Google TV met Chromecast. Gebruik je veel verschillende apps, dan is de TCL handiger. Gaat het om beeld, kies dan de Hisense."
+      },
+      {
+        "h": "Kijk je vaak vanaf verschillende plekken in de kamer?",
+        "p": "Bij een bank in L-vorm zit niet iedereen recht voor het scherm. Mini-LED-tv's zoals nr. 1 verliezen dan wat contrast en kleur. Nr. 5, de LG 50QNED87A6D (€ 564), heeft ruimere kijkhoeken en webOS met Magic Remote. Je levert wel contrast in en Dolby Vision ontbreekt."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De Samsung UE50M74H kost net als nr. 1 € 499 en is de betere keus als je niet gamet. Je krijgt Mini-LED, Tizen met alle grote apps in plaats van VIDAA en bij bol drie jaar extra garantie. Kopers geven hem gemiddeld een 4,9. Daar staat tegenover dat hij op 60 Hz draait en geen Dolby Vision heeft."
+      },
+      {
+        "rank": 3,
+        "p": "De Philips 50PUS9000/12 (€ 525) is ongeveer € 26 duurder dan nr. 1 en past beter als je vooral 's avonds films en series kijkt. Ambilight aan drie kanten laat het scherm groter lijken, wat op 50 inch helpt. Hij heeft Dolby Vision en HDR10+. Minpunten: Titan OS heeft minder apps en 120 Hz voor consoles ontbreekt."
+      }
+    ]
+  }
 }

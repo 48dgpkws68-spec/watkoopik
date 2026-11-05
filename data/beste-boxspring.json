@@ -584,7 +584,49 @@
     {
       "q": "Welke boxspring is goed bij rugklachten?",
       "a": "Kies een boxspring met pocketvering in 7 zones en een topper die past bij je slaaphouding. Rugslapers hebben baat bij een middelstevig matras, zijslapers bij een zachtere topper. Twijfel je, overleg dan met je fysiotherapeut of huisarts."
+    },
+    {
+      "q": "Welke maat boxspring voor twee personen?",
+      "a": "Voor twee volwassenen is 160x200 cm de meest gekozen maat. Slaap je onrustig, ben je breed gebouwd of slaapt er af en toe een kind bij, dan geeft 180x200 cm merkbaar meer ruimte. Een boxspring van 140x200 cm is krap voor twee en vooral geschikt voor een logeerkamer. Ben je langer dan 1,85 meter, kies dan 210 of 220 cm lang. Houd rondom het bed minstens 60 cm loopruimte vrij."
+    },
+    {
+      "q": "Hoe hoog is een boxspring?",
+      "a": "Een complete boxspring heeft meestal een instaphoogte van 55 tot 70 cm, gemeten tot de bovenkant van de topper. Dat is hoger dan een gewoon bed, wat prettig is bij het in- en uitstappen. De hoogte hangt vooral af van de onderbox: bij de Anno 1588 Amsterdam is die 30 cm, bij de Anno 1588 Comforta 20 cm. Wil je lager liggen, kies dan lagere boxen of kortere poten."
     }
   ],
-  "published": "2026-10-21"
+  "published": "2026-10-21",
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Welke maat past bij jullie?",
+        "p": "Voor twee personen is 160x200 cm de meest gekozen maat, zoals de nr. 2 Ayla Royal. Slaap je onrustig, dan geeft 180x200 cm merkbaar meer ruimte, zoals bij de nr. 1 Anno 1588 Amsterdam. Een maat van 140x200 cm, zoals de nr. 10 Nessa Bjorn, is krap voor twee volwassenen maar past in een logeerkamer. Ben je langer dan 1,85 meter, kies dan 210 of 220 cm lang: de nr. 1 is tot 220 cm leverbaar."
+      },
+      {
+        "h": "Eén matras of twee?",
+        "p": "Bij 180 cm breed krijg je vaak twee losse matrassen met een naad in het midden. Wil je samen in het midden liggen, kies dan één doorlopend matras zoals bij de nr. 1 Anno 1588 Amsterdam of de voordeligere nr. 5 Nessa Hotel van € 499. De nr. 6 Anno 1588 Comforta heeft twee losse matrassen. Een topper strijkt de naad dan grotendeels glad."
+      },
+      {
+        "h": "Zit er een topper bij?",
+        "p": "De topper bepaalt hoe zacht je ligt. Bij de nr. 5 Nessa Hotel en nr. 10 Nessa Bjorn zit er geen bij, dus reken op € 80 tot € 150 extra. De nr. 1 Anno 1588 Amsterdam, nr. 2 Ayla Royal en nr. 9 SleepEase hebben een koudschuim topper. Zijslapers kiezen een zachtere topper, rug- en buikslapers liggen beter wat steviger."
+      },
+      {
+        "h": "Wil je opbergruimte of een verstelbaar bed?",
+        "p": "In een kleine slaapkamer helpt een opbergvak onder het matras, zoals bij de nr. 4 Meuba Home Florence (€ 690) of de nr. 8 BSS Bedding Fluffy (€ 1.400). Lees of kijk je graag tv in bed, dan verstel je bij de nr. 3 Anno 1588 LUXA hoofd- en voeteind per lighelft elektrisch. Let daar wel op het lagere opgegeven draagvermogen van 120 kg."
+      },
+      {
+        "h": "Hoeveel gewicht moet het bed dragen?",
+        "p": "Kijk naar het opgegeven maximale gewicht. De nr. 2 Ayla Royal en nr. 9 SleepEase noemen 350 kg, de nr. 1 Anno 1588 Amsterdam 240 kg. Bij de nr. 3 LUXA, nr. 5 Nessa Hotel en nr. 6 Comforta ligt dat op 120 tot 125 kg. Twijfel je, vraag dan na of de opgave per persoon of voor het hele bed geldt."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De Ayla Royal 160x200 (€ 549) past beter als je slaapkamer beter geschikt is voor 160 cm breed of je minder wilt uitgeven. Je krijgt pocketvering met 7 zones, een koudschuim topper en soft-boxen, met een opgegeven draagvermogen van 350 kg en een gemiddelde beoordeling van 4,8. Hij is € 246 goedkoper dan de Amsterdam, maar 20 cm smaller en zonder dekbed en kussens."
+      },
+      {
+        "rank": 3,
+        "p": "De Anno 1588 LUXA (€ 1.700) past beter als je graag rechtop leest of tv kijkt of last hebt van zware benen of reflux. Hoofd- en voeteind zijn per lighelft elektrisch verstelbaar, de splittopper is ca. 6 cm en levering met montage is altijd inbegrepen. Dekbed en kussens zitten erbij. Je betaalt wel € 905 meer dan voor de Amsterdam en het opgegeven draagvermogen is 120 kg."
+      }
+    ]
+  }
 }

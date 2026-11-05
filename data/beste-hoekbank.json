@@ -540,7 +540,49 @@
     {
       "q": "Kun je een hoekbank later omdraaien?",
       "a": "Bij de meeste hoekbanken niet: de hoek zit vast aan één kant. Sommige modellen hebben een universele of omkeerbare chaise longue die je zelf links of rechts plaatst. Verhuis je binnenkort of twijfel je over de opstelling, kies dan zo'n model."
+    },
+    {
+      "q": "Welke stof is het beste voor een hoekbank met huisdieren?",
+      "a": "Leer is met huisdieren het makkelijkst: haren en vuil veeg je er zo af, al kunnen nagels krassen geven. Bij stof is een stevig geweven chenille een goede keuze, vooral gemêleerd, omdat haren en kleine vlekken minder opvallen. Ribstof, bouclé en fluweel zijn minder handig, omdat haren in de structuur blijven hangen en klauwen er sneller lussen uit trekken."
+    },
+    {
+      "q": "Hoe krijg je een hoekbank door de deur of de trap op?",
+      "a": "De meeste hoekbanken worden in losse delen geleverd, zoals een hoekelement en een bank, die je thuis aan elkaar koppelt. Meet voor de bestelling de breedte van je voordeur, gang en trapgat en vergelijk die met de maten van het grootste losse deel. Bij een bovenwoning met een smalle trap kun je bij sommige winkels ook levering via de ramen of op afspraak regelen."
     }
   ],
-  "published": "2026-10-21"
+  "published": "2026-10-21",
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Met hoeveel mensen zit je er dagelijks op?",
+        "p": "Zit je met vier of vijf mensen op de bank, kies dan een echte L-vorm zoals nr. 1, de WOOOD Thomas (€ 1.399) van 283 x 197 cm. Wil je met het hele gezin languit liggen, dan biedt nr. 3, de WOOOD Cloud van 345 cm, meer ruimte. Zit je meestal met z'n tweeën, dan is een chaise longue zoals nr. 9, de Lisomme Jelle (€ 761), genoeg."
+      },
+      {
+        "h": "Hoeveel ruimte heb je echt?",
+        "p": "Meet de muren en houd minstens 60 cm loopruimte vrij. Heb je een gemiddelde woonkamer, dan past nr. 6, de Dimehouse Ravi van 262 x 195 cm, vaak beter dan de grote Thomas. In een studio of klein appartement is nr. 10, de House Nordic Firenze van ca. 200 x 140 cm voor € 522, de logische keuze."
+      },
+      {
+        "h": "Heb je kinderen of huisdieren?",
+        "p": "Dan bepaalt de bekleding hoeveel onderhoud je hebt. Ribstof van nr. 1 en bouclé van nr. 7 trekken huisdierenhaar aan. Leer is het makkelijkst schoon te vegen: nr. 5, de Meubella Monet (€ 899), is daar gemaakt voor. Wil je toch stof, dan verbergt de gemêleerde chenille van nr. 6, de Dimehouse Ravi, stof en kleine vlekken beter."
+      },
+      {
+        "h": "Weet je zeker aan welke kant de hoek moet?",
+        "p": "Niet elke bank is in beide uitvoeringen te koop. De Meubella Monet is er alleen met hoek rechts, de Zuiver Stones met chaise rechts en de Beliani Rokke met hoek links. Ga je binnenkort verhuizen of twijfel je, kies dan nr. 9 of nr. 10: daar plaats je de chaise longue zelf links of rechts."
+      },
+      {
+        "h": "Zit je vooral voor de tv?",
+        "p": "Dan is nr. 8, de Beliani Rokke (€ 1.440), interessant. De zitplaatsen zijn elektrisch verstelbaar met voetsteun, waardoor je het comfort van een relaxfauteuil krijgt. Houd er rekening mee dat je een stopcontact bij de bank nodig hebt en dat het mechaniek hem zwaar maakt bij een verhuizing."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De Beliani Oslo (€ 840) is ongeveer € 559 goedkoper dan de WOOOD Thomas en past beter als je onder de duizend euro wilt blijven. Met 270 cm is hij bijna even breed, hij is leverbaar met hoek links of rechts en kopers geven hem de hoogste beoordeling. De fluwelen bekleding oogt luxe maar laat zitplekken zien. De zit is ook minder diep dan bij de Thomas."
+      },
+      {
+        "rank": 3,
+        "p": "De WOOOD Cloud (€ 2.899) kost ongeveer € 1.500 meer dan de Thomas en past beter als je een grote woonkamer hebt en de bank vooral als loungeplek gebruikt. Met 345 x 198 cm is hij flink groter, de zit is extreem diep en zacht en de chenille is slijtvast. Meet wel goed: deze bank vraagt veel vloeroppervlak."
+      }
+    ]
+  }
 }

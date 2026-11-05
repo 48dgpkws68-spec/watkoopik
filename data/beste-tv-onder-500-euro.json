@@ -546,6 +546,14 @@
     {
       "q": "Is een tv onder 500 euro nog 4K?",
       "a": "Ja, alle tv's van 50 inch en groter onder de 500 euro zijn 4K. Alleen bij heel goedkope kleine tv's van 32 tot 43 inch kom je nog Full HD of HD Ready tegen. Let daarom op het formaat en de resolutie in de productomschrijving."
+    },
+    {
+      "q": "Welke tv onder 500 euro heeft Dolby Vision?",
+      "a": "In deze lijst ondersteunen zes tv's Dolby Vision: de TCL 65T69C, TCL 55C69KS, Hisense 55E7S, Philips 55PUS8500/12, Sharp 55JP7265E en Hisense 65A6S. De LG 55QNED84A6C, Samsung UE55U7090H, Xiaomi TV A Pro en TCL 55P61K hebben het niet. Dolby Vision zie je vooral terug bij Netflix en Disney+, dus kijk je daar veel, dan is het een nuttige extra."
+    },
+    {
+      "q": "Wanneer is een tv het goedkoopst?",
+      "a": "Tv's worden vaak goedkoper rond Black Friday in november en in de periode dat de nieuwe modellen uitkomen, meestal in het voorjaar. Winkels ruimen dan de modellen van het jaar ervoor op. Het verschil tussen twee opeenvolgende jaargangen is bij goedkope tv's vaak klein, dus een model van vorig jaar met korting is meestal een slimme koop."
     }
   ],
   "seo": "tv onder 500 euro",
@@ -574,5 +582,39 @@
     "beste-tv-50-inch",
     "beste-tv-55-inch",
     "beste-tv-onder-300-euro"
-  ]
+  ],
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Zit je verder dan ongeveer 3 meter van de tv?",
+        "p": "Dan voelt 55 inch al snel klein en is 65 inch het overwegen waard. Onder de 500 euro is nr. 2, de TCL 65T69C (€ 476), dan de sterkste keuze met Dolby Vision, HDR10+ en Onkyo-geluid. Zit je dichterbij of is je tv-meubel smal, dan past een 55 inch zoals nr. 1, de LG 55QNED84A6C (€ 444), beter."
+      },
+      {
+        "h": "Kijk je vooral 's avonds films in een donkere kamer?",
+        "p": "Dan telt contrast het zwaarst. Een gewone QLED zoals de LG op nr. 1 laat zwart in het donker wat grijzig ogen. Mini LED dimt per zone en geeft dieper zwart. Kies dan nr. 3, de TCL 55C69KS (€ 419), of nr. 8, de Sharp 55JP7265E (€ 429), die ook miniled-verlichting heeft."
+      },
+      {
+        "h": "Speel je op een PS5, Xbox of pc?",
+        "p": "De meeste tv's in dit budget draaien op 60 Hz. Wil je VRR tegen haperend beeld, kies dan nr. 3, de TCL 55C69KS met HDMI 2.1 en VRR, of nr. 2, de TCL 65T69C met drie HDMI 2.1-poorten. Nr. 7, de Xiaomi TV A Pro 2026 (€ 448), heeft een 120 Hz-gamestand voor wie vooral snelle games speelt."
+      },
+      {
+        "h": "Welke apps en zenderpakketten gebruik je?",
+        "p": "Google TV heeft de meeste apps en ingebouwde Chromecast, die vind je op nr. 2, nr. 3, nr. 7 en nr. 8. webOS van nr. 1 en Tizen van nr. 5 hebben ook alle Nederlandse apps. Kijk je via KPN, let dan op: op VIDAA van nr. 10, de Hisense 65A6S, ontbreekt de KPN-app."
+      },
+      {
+        "h": "Wil je liever zekerheid dan de beste specificaties?",
+        "p": "Bij tv's onder de 500 euro is de marge klein en valt een paneel soms na een paar jaar uit. Nr. 5, de Samsung UE55U7090H (€ 449), heeft via bol drie jaar extra garantie en een bekend merk met lange software-updates. Je levert wel in op contrast en helderheid ten opzichte van nr. 1."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De TCL 65T69C (€ 476) past beter dan de LG op nr. 1 als je zo groot mogelijk wilt kijken. Voor ongeveer € 32 meer krijg je 65 in plaats van 55 inch, Dolby Vision en HDR10+, Onkyo 2.1-geluid met Dolby Atmos en drie HDMI 2.1-poorten met VRR. Daar staat tegenover dat hij geen local dimming heeft en met 450 nits gemiddeld fel is."
+      },
+      {
+        "rank": 3,
+        "p": "De TCL 55C69KS (€ 419) is de betere keus als je vooral films kijkt in een donkere kamer. Hij is ongeveer € 25 goedkoper dan nr. 1 en heeft QD-Mini LED voor dieper zwart, Dolby Vision, HDR10+ en HDMI 2.1 met VRR. Let wel op: het is een buitenlands model zonder reviews op bol met energielabel F."
+      }
+    ]
+  }
 }

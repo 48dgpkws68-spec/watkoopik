@@ -549,10 +549,52 @@
     {
       "q": "Welke maat winterdekbed heb je nodig voor een tweepersoonsbed?",
       "a": "Voor een bed van 160 of 180 cm breed is 240x220 cm de meest gekozen maat. Dat geeft genoeg overhang aan beide kanten, zodat er geen koude lucht onder het dekbed komt. Ben je langer dan 1,85 meter, kies dan een extra lange maat van 240x240."
+    },
+    {
+      "q": "Hoe was je een donzen winterdekbed?",
+      "a": "Kijk eerst op het label welke temperatuur is toegestaan. Een tweepersoonsdekbed past vaak niet in een gewone wasmachine; dan is een grotere machine in een wasserette handig. Gebruik een mild wasmiddel zonder wasverzachter. Droog het daarna volledig in de droger met een paar tennisballen, zodat het dons niet klontert. Restvocht in dons kan gaan ruiken, dus droog liever te lang dan te kort."
+    },
+    {
+      "q": "Hoe lang gaat een winterdekbed mee?",
+      "a": "Dat hangt vooral af van de vulling en het onderhoud. Een synthetisch dekbed verliest na een paar jaar volume omdat de vezels samenklonteren. Dons en wol gaan bij goed onderhoud flink langer mee. Vervang je dekbed als het plat blijft na opschudden, als de vulling in klonten zit of als je het ondanks wassen muf blijft ruiken. Dagelijks opschudden en regelmatig luchten helpt."
     }
   ],
   "rel": [
     "beste-luchtreiniger-allergie",
     "beste-plaid"
-  ]
+  ],
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Hoe koud is je slaapkamer?",
+        "p": "Slaap je met het raam open of in een kamer onder de twaalf graden, kies dan een enkel winterdekbed in de klasse extra warm, zoals nr. 1 Nordic Paradise (€ 490) of nr. 2 Fabiola (€ 149). Is je slaapkamer rond de zestien graden, dan is een 4-seizoenendekbed met beide delen samen vaak genoeg, zoals nr. 4 Silently (€ 370) of nr. 6 Ducky Dons Capella (€ 209)."
+      },
+      {
+        "h": "Dons, wol of synthetisch?",
+        "p": "Dons geeft de meeste warmte bij het laagste gewicht: nr. 1 Nordic Paradise is volledig eendendons. Zweet je snel, dan neemt wol beter vocht op, zoals nr. 5 Terschellinger scheerwol (€ 139). Heb je een huisstofmijtallergie, dan is synthetisch handig omdat je het op 60 graden wast, zoals nr. 9 Slaapspeciaal Climate Control (€ 60). Synthetisch ademt wel minder goed."
+      },
+      {
+        "h": "Wil je licht of juist zwaar slapen?",
+        "p": "Houd je van een licht dekbed dat toch warm is, kies dan puur dons zoals nr. 1 Nordic Paradise of nr. 3 Yumeko (€ 779). Vind je een zwaarder gevoel juist prettig in de winter, dan passen halfdons met veertjes of wol beter. Denk aan nr. 2 Fabiola (€ 149) of nr. 5 Terschellinger (€ 139). Die zijn ook een stuk goedkoper."
+      },
+      {
+        "h": "Eén dekbed voor het hele jaar?",
+        "p": "Een enkel winterdekbed is in de koude maanden het warmst, maar in de zomer heb je dan een tweede dekbed nodig. Wil je één aankoop voor het hele jaar, kies dan een 4-seizoenendekbed. Nr. 4 Silently (€ 370) is ganzendons, nr. 6 Ducky Dons (€ 209) dons met veertjes, nr. 7 Ten Cate (€ 180) scheerwol en nr. 9 Slaapspeciaal (€ 60) synthetisch."
+      },
+      {
+        "h": "Wil je hem thuis wassen?",
+        "p": "Op 60 graden wassen kan bij nr. 2 Fabiola, nr. 6 Ducky Dons, nr. 9 Slaapspeciaal en nr. 10 Zydante. Nr. 3 Yumeko mag op 40 graden, nr. 1 Nordic Paradise en nr. 4 Silently op lage temperatuur. De wollen dekbedden nr. 5 Terschellinger en nr. 7 Ten Cate kunnen niet in de wasmachine: die lucht je of laat je reinigen."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "Het Fabiola halfdons dekbed past beter als je een warm natuurlijk winterdekbed wilt voor veel minder geld. Het kost € 149, ruim € 340 minder dan de Nordic Paradise van € 490. Het is ook extra warm, in 240x220 cm en wasbaar op 60 graden. Door de veertjes voelt het zwaarder, wat veel slapers in de winter juist fijn vinden. In het begin kan de natuurlijke vulling wat ruiken."
+      },
+      {
+        "rank": 3,
+        "p": "Het Yumeko dekbed past beter als duurzaamheid voor jou zwaar weegt. Het is gevuld met gerecycled dons, dus er zijn geen nieuwe dieren voor nodig. De tijk is van biologisch katoen zonder chemische behandeling. Het isoleert zeer goed bij een laag gewicht en mag op 40 graden in de was. Het kost € 779, bijna € 290 meer dan nr. 1. Ook dit dekbed is alleen voor de koude maanden."
+      }
+    ]
+  }
 }

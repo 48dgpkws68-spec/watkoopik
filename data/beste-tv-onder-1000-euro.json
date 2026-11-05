@@ -533,6 +533,14 @@
     {
       "q": "Heb ik een soundbar nodig?",
       "a": "Bij de meeste tv's wel, omdat dunne behuizingen weinig ruimte hebben voor goede speakers. Een soundbar van 150 tot 300 euro maakt stemmen duidelijker en geeft films meer impact."
+    },
+    {
+      "q": "Kan een OLED-tv inbranden?",
+      "a": "Ja, bij OLED kan een beeld inbranden als dezelfde stilstaande elementen urenlang op het scherm staan, zoals een zenderlogo of een spelmenu. Moderne OLED-tv's zoals de LG B5 en C5 verschuiven pixels en verversen het paneel automatisch om dat te voorkomen. Kijk je afwisselend films, series en tv, dan is het risico klein. Laat je de hele dag een nieuwszender aanstaan, dan is mini-led veiliger."
+    },
+    {
+      "q": "Wat is het verschil tussen de LG B5 en de LG C5?",
+      "a": "De C5 heeft een OLED evo-paneel dat feller is dan het paneel van de B5 en haalt 144 Hz in plaats van 120 Hz, met G-Sync en FreeSync. Beide hebben vier HDMI 2.1-poorten en Dolby Vision. Onder de 1000 euro koop je de B5 in 55 inch voor € 799, terwijl de C5 voor € 869 alleen in 42 inch in dit budget past."
     }
   ],
   "seo": "tv onder 1000 euro",
@@ -541,5 +549,35 @@
     "beste-tv-55-inch",
     "beste-oled-tv",
     "beste-qled-tv"
-  ]
+  ],
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Kijk je vooral 's avonds of in een zonnige kamer?",
+        "p": "Kijk je vooral 's avonds, dan geeft OLED met perfect zwart het mooiste beeld. Dat is nr. 1, de LG B5 OLED55B56LA (€ 799). Staat de tv in een kamer met veel daglicht, dan is mini-led feller. Kies dan nr. 3, de Sony Bravia 5 (€ 999), of nr. 4, de Samsung QE55QN83F (€ 729) met antireflectiecoating."
+      },
+      {
+        "h": "Zit je 3 meter of verder van de tv?",
+        "p": "Dan oogt 65 inch prettiger dan 55 inch. Met dit budget betekent 65 inch bijna altijd mini-led in plaats van OLED. Nr. 2, de TCL 65T8D (€ 699), is de beste balans. Wil je zo laag mogelijk uitkomen, dan geeft nr. 8, de TCL 65C6KS (€ 549), ook mini-led op 65 inch met 144 Hz."
+      },
+      {
+        "h": "Speel je op een PS5, Xbox of gaming-pc?",
+        "p": "Let dan op HDMI 2.1 en minimaal 120 Hz. Nr. 1, de LG B5, heeft vier HDMI 2.1-poorten met 120 Hz, VRR en ALLM. Nr. 2 en nr. 5, de TCL 65T8D en 65Q6C, halen 144 Hz. De Sony op nr. 3 heeft maar twee HDMI 2.1-poorten, maar wel Auto HDR Tone Mapping voor de PS5."
+      },
+      {
+        "h": "Staat de tv in een kleine kamer of op een bureau?",
+        "p": "Dan is 55 inch vaak te groot. Nr. 6, de LG C5 OLED42C55LA (€ 869), is 42 inch en heeft een OLED evo-paneel dat feller is dan de B5, plus 144 Hz met G-Sync en FreeSync. Per inch is hij duur, dus voor een gewone woonkamer is hij minder logisch."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De TCL 65T8D (€ 699) is € 100 goedkoper dan de LG B5 en past beter als je groot wilt kijken in een lichte kamer. Je krijgt 65 in plaats van 55 inch, een fel QD-Mini LED-paneel, native 144 Hz met VRR en ALLM en Google TV. Daar staat tegenover dat zwart niet perfect is en je in het donker een lichte gloed rond heldere objecten ziet."
+      },
+      {
+        "rank": 3,
+        "p": "De Sony Bravia 5 (€ 999) is € 200 duurder dan nr. 1 en past beter als je overdag kijkt of veel sport en tv-zenders volgt. Het mini-led-paneel is feller dan OLED en de XR-processor geeft de beste beweging en opschaling in deze lijst. Wel heeft hij maar twee HDMI 2.1-poorten en is hij 55 inch voor een prijs waarvoor andere merken 65 inch leveren."
+      }
+    ]
+  }
 }

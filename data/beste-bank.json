@@ -549,7 +549,45 @@
     {
       "q": "Is een bank kopen op bol verstandig?",
       "a": "Ja, mits je goed op de maten let en de retourvoorwaarden leest. Grote meubels hebben soms afwijkende retourkosten. Kies bij voorkeur een merk met veel beoordelingen en controleer of de bezorger de bank in huis plaatst."
+    },
+    {
+      "q": "Hoe maak je een stoffen bank schoon?",
+      "a": "Zuig de bank elke week met een zachte borstel en schud losse kussens op. Dep vlekken direct met een schone, licht vochtige doek zonder te wrijven, zodat de vlek zich niet verspreidt. Gebruik eventueel een mild middel of een bekledingsreiniger en test die eerst op een onzichtbare plek. Velvet en fluweel borstel je met de vleug mee. Volg bij afneembare hoezen altijd het wasvoorschrift van de fabrikant."
+    },
+    {
+      "q": "Wat is een goede zithoogte voor een bank?",
+      "a": "Een gangbare zithoogte ligt tussen 40 en 46 cm. Ben je lang of heb je knie- of rugklachten, kies dan de bovenkant van die marge met een stevige vulling, want daar sta je makkelijker uit op. De zitdiepte bepaalt hoe je zit: onder 55 cm zit je rechtop, boven 60 cm kun je je benen optrekken. Probeer bij twijfel in een winkel een bank met vergelijkbare maten uit."
     }
   ],
-  "published": "2026-10-21"
+  "published": "2026-10-21",
+  "kies": {
+    "keuzes": [
+      {
+        "h": "Hoeveel ruimte heb je in de woonkamer?",
+        "p": "Meet de muur en houd naast de bank minstens 40 cm loopruimte vrij. De nr. 1 WOOOD Rodeo is 277 cm breed en past alleen in een grote woonkamer. Rond 200 cm zit je goed met de nr. 2 House Nordic Lido of de 2,5-zits nr. 5 Bronx71 Vegas. Voor een studio of werkkamer is de nr. 10 Lexzurn Zitbank van 168 cm het compactst."
+      },
+      {
+        "h": "Wil je rechtop zitten of onderuit hangen?",
+        "p": "Bij minder dan 55 cm zitdiepte zit je rechtop, boven 60 cm wordt het een loungebank. Wil je met opgetrokken benen zitten, kies dan een diepe zit zoals bij de nr. 1 WOOOD Rodeo of de nr. 4 WOOOD Statement met 93 cm totale diepte. Heb je knieklachten, dan is een stevige zit zoals bij de nr. 6 Giga Meubel Soul prettiger om uit op te staan."
+      },
+      {
+        "h": "Heb je kinderen of huisdieren?",
+        "p": "Leer en eco-leer veeg je met een vochtige doek schoon en haren blijven er niet in hangen. De nr. 8 Beliani Leira in eco-leer kost € 580, de nr. 6 Giga Meubel Soul in echt leer € 1.142. Chenille, zoals bij de nr. 5 Bronx71 Vegas, is een slijtvaste stof voor gezinnen. Het bouclé van de nr. 4 WOOOD Statement trekt juist sneller kattenhaar aan."
+      },
+      {
+        "h": "Hoeveel wil je uitgeven?",
+        "p": "Tussen € 550 en € 900 zit de beste verhouding tussen prijs en kwaliteit, zoals de nr. 3 Dimehouse Aniko voor € 585 of de nr. 2 House Nordic Lido voor € 772. Boven € 1.000 betaal je voor meer formaat, echt leer of design, zoals de nr. 1 WOOOD Rodeo (€ 1.049) en nr. 4 WOOOD Statement (€ 1.449). Voor € 270 koop je de nr. 10 Lexzurn als tweede bank."
+      }
+    ],
+    "wanneer": [
+      {
+        "rank": 2,
+        "p": "De House Nordic Lido (€ 772) past beter als je woonkamer gemiddeld groot is. Met ca. 200 cm is hij ruim 75 cm smaller dan de Rodeo van 277 cm, terwijl je wel een driezitter hebt. Het Scandinavische ontwerp op houten poten oogt licht en je kiest uit olijfgroen, steengrijs, lichtgrijs of bruin. De zit is minder diep dan bij de Rodeo en hij kost € 277 minder."
+      },
+      {
+        "rank": 3,
+        "p": "De Dimehouse Aniko (€ 585) past beter als je een volwaardige driezitter wilt voor zo weinig mogelijk geld. Hij is 213 cm breed met een totale zitdiepte van 90 cm en kost € 464 minder dan de Rodeo. Hij is ook als 2,5-zitter en als hoekbank leverbaar. Je mist wel losse rugkussens om op te schudden en de stof pluist sneller dan velvet."
+      }
+    ]
+  }
 }
