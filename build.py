@@ -563,7 +563,7 @@ home = '''
 <p class="muted">watkoopik vergelijkt per productsoort de tien beste modellen die je nu in Nederland kunt kopen. Of je nu de <a href="beste/beste-airfryer.html">beste airfryer</a>, een <a href="beste/beste-stofzuiger.html">stille stofzuiger</a> of <a href="beste/beste-draadloze-oordopjes.html">draadloze oordopjes met noise cancelling</a> zoekt: elke gids begint met drie duidelijke winnaars, gevolgd door een vergelijkingstabel, uitleg per product met plus- en minpunten, een koopgids en antwoorden op veelgestelde vragen. Merken kunnen geen plek kopen. <a href="zo-kiezen-wij.html">Lees hoe wij kiezen</a>.</p>
 </div></section>
 ''' % (floaters, YEAR, searchbox(), top3, chips, len(guides), len(guides), N_PROD, N_PROD, N_REV, format(N_REV, ",").replace(",", "."),
-       marquee(items[:half]), marquee(items[half:], rev=True), "".join(gcard(g) for g in popular[:6]), seizoen_sec(), home_deals, cat_cards, winband, len(guides), "".join(gcard(g) for g in newest[:8]),
+       marquee(items[:half]), marquee(items[half:], rev=True), "".join(gcard(g) for g in popular[:6]), seizoen_sec(), home_deals, cat_cards, winband, len(guides), "".join(gcard(g) for g in newest[:12]),
        len(guides), len(guides), N_PROD, N_PROD, YEAR)
 home_ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": "watkoopik", "url": SITE + "/", "inLanguage": "nl-NL",
             "potentialAction": {"@type": "SearchAction", "target": SITE + "/gidsen.html?q={search_term_string}", "query-input": "required name=search_term_string"}},
