@@ -17,7 +17,7 @@
   "updated": "2026-10-21",
   "reviews_total": "1.100",
   "intro": "Een pelletkachel geeft de sfeer van een houtkachel met het gemak van een thermostaat. Je vult de pelletbak, stelt een temperatuur in en de kachel regelt de rest. Wij vergeleken pelletkachels die nu in Nederland te koop zijn op vermogen, rendement, de grootte van het reservoir, bediening en wat kopers erover zeggen. Dit zijn de tien beste pelletkachels van 2026, van compacte 6 kW-modellen voor een appartement tot krachtige kachels voor een grote open woonruimte.",
-  "verdict": "De Livn Liland 8 is de beste pelletkachel van 2026: een rendement van 92,7%, genoeg vermogen voor de meeste woonkamers en een gratis ingebruikstelling door een monteur. Wil je zo veel mogelijk kachel voor je geld, kies dan de Kalor Kim 8 kW. Zoek je een kachel die ook als designobject werkt, dan is de Kalor Futura de beste premium keuze. Voor kleine ruimtes is de Livn Skomo 6 het verstandigste alternatief.",
+  "verdict": "De Livn Liland 8 is de beste pelletkachel van 2026: een rendement van 92,7%, genoeg vermogen voor de meeste woonkamers en een gratis ingebruikstelling door een monteur. Wil je zo veel mogelijk kachel voor je geld, kies dan de Kalor Kim 8 kW. Zoek je een kachel die ook als designobject werkt, dan is de Kalor Futura de beste premium keuze. Voor kleine ruimtes is de THUNDER Leyla 6 kW het verstandigste alternatief.",
   "products": [
     {
       "brand": "Livn",
@@ -325,54 +325,42 @@
       "low_price": 1159.0
     },
     {
-      "brand": "Livn",
-      "name": "Skomo 6",
-      "price": 1099.0,
+      "brand": "THUNDER",
+      "name": "Leyla 6 kW",
+      "price": 1030.0,
       "score": 8.3,
       "label": null,
-      "reviews": "20+ reviews",
-      "oneliner": "Compacte 6 kW-kachel met luchtdichte tank voor kleinere ruimtes.",
+      "reviews": "Nog weinig reviews",
+      "oneliner": "Compacte 6 kW-kachel met wifi en rookkanaalset voor kleinere ruimtes.",
       "specs": {
-        "Vermogen": "6 kW",
-        "Ruimte": "tot 150 m³",
-        "Rendement": "88%",
-        "Pelletreservoir": "ca. 12 kg",
-        "Bediening": "Display + afstandsbediening"
+        "Vermogen": "6 kW (max. 8 kW)",
+        "Ruimte": "tot ca. 160 m³",
+        "Rendement": "geen opgave",
+        "Pelletreservoir": "9 kg",
+        "Bediening": "Display, afstandsbediening + wifi-app"
       },
       "pros": [
         "Compact formaat voor kleinere kamers",
-        "Hermetisch gesloten tank",
+        "Wifi, afstandsbediening en weekprogramma",
+        "Rookkanaalset van 80 mm meegeleverd",
         "Energieklasse A+"
       ],
       "cons": [
         "Te weinig vermogen voor grote ruimtes",
-        "Kleiner reservoir, vaker bijvullen"
+        "Klein reservoir van 9 kg, vaker bijvullen",
+        "Nog weinig gebruikerservaringen"
       ],
       "ideal": "Kleinere woonkamers, appartementen of een tuinkamer.",
-      "text": "Niet elke ruimte heeft 8 kW nodig. Voor een appartement, een tuinkamer of een kleinere woonkamer is de Livn Skomo 6 een logische keuze. Met 6 kW verwarm je ruimtes tot ongeveer 150 kubieke meter en een te grote kachel zou in zo'n kamer vooral op de laagste stand aan en uit gaan. Dat is slecht voor het rendement en voor de levensduur van de ontsteking.\n\nDe Skomo heeft een hermetisch gesloten tank, waardoor er geen rook of geur via de pelletbak kan ontsnappen. Het rendement van 88% levert energieklasse A+ op. Door het compacte formaat past de kachel ook in een hoek of op een kleinere schouw. Gebruikers waarderen dat de kachel snel warm is en weinig ruimte inneemt. Het kleinere pelletreservoir betekent wel dat je vaker moet bijvullen dan bij de Hamar of de THUNDER Karmen.",
-      "ean": "8712757499151",
-      "bol_title": "Livn Pelletkachel Skomo 6 - 6 kW Vermogen - 88% Rendement - Energieklasse A+ - Met hermetische tank",
-      "url": "https://www.bol.com/nl/nl/p/livn-pelletkachel-skomo-6-6-kw-vermogen-88-rendement-energieklasse-a-met-hermetische-tank/9300000347641057/",
-      "image": "https://media.s-bol.com/G360XPvqNrp3/lxj1Vw6/478x840.jpg",
-      "synced": "2026-11-05",
+      "text": "Niet elke ruimte heeft 8 kW nodig. Voor een appartement, een tuinkamer of een kleinere woonkamer is de THUNDER Leyla een logische keuze. Met een nominaal vermogen van 6 kW verwarm je ruimtes tot ongeveer 65 vierkante meter en een te grote kachel zou in zo'n kamer vooral op de laagste stand aan en uit gaan. Dat is slecht voor het rendement en voor de levensduur van de ontsteking.\n\nDe Leyla bedien je via het display, de afstandsbediening of een app via wifi. Er zit een timer en een weekprogramma op en de kachel schakelt zelf in en uit op de ingestelde temperatuur. Het pelletverbruik ligt volgens de fabrikant tussen 0,6 en 1,4 kilo per uur. De kachel is 42 centimeter breed, heeft energieklasse A+ en wordt geleverd met een complete rookkanaalset van 80 mm. Het reservoir van 9 kilo is klein, dus je vult vaker bij dan bij de Livn Hamar of de THUNDER Karmen. Er zijn nog weinig gebruikerservaringen, dus de Kalor Smart is het alternatief met meer staat van dienst.",
+      "ean": "5906765561273",
+      "bol_title": "THUNDER Pelletkachel - Vrijstaand - 6 kW - WiFi - 9 kg reservoir - THUNDER LEYLA-BLACK",
+      "url": "https://www.bol.com/nl/nl/p/thunder-leyla-zwart-vrijstaande-pelletkachel-6-3-kw-inclusief-rookpijpen-80mm-met-thermostaat-timer-voor-ruimtes-tot-60-m-ecologisch-stijlvol-verwarmen/9300000233058804/",
+      "image": "https://media.s-bol.com/3AJBXGjZYzRA/58OrOYR/550x550.jpg",
       "ph": {
-        "2026-10-21": 1099.0,
-        "2026-10-23": 1099.0,
-        "2026-10-24": 1099.0,
-        "2026-10-25": 1099.0,
-        "2026-10-26": 1099.0,
-        "2026-10-27": 1099.0,
-        "2026-10-28": 1099.0,
-        "2026-10-29": 1099.0,
-        "2026-10-30": 1099.0,
-        "2026-10-31": 1099.0,
-        "2026-11-01": 1099.0,
-        "2026-11-02": 1099.0,
-        "2026-11-03": 1099.0,
-        "2026-11-04": 1099.0,
-        "2026-11-05": 1099.0
+        "2026-11-05": 1030.0
       },
-      "low_price": 1099.0
+      "low_price": 1030.0,
+      "synced": "2026-11-05"
     },
     {
       "brand": "Fair",
@@ -449,7 +437,7 @@
         "Reservoir vraagt vaak bijvullen"
       ],
       "ideal": "Kleinere ruimtes waar je een merkkachel wilt voor weinig geld.",
-      "text": "De Kalor Smart is de instapper van het Italiaanse merk en een alternatief voor de Livn Skomo 6. Met 6 kW is hij bedoeld voor ruimtes tot ongeveer 150 kubieke meter, zoals een kleinere woonkamer of een verbouwde zolder met rookkanaal. Het rendement ligt rond de 89%, vergelijkbaar met andere kachels in deze klasse.\n\nHet ontwerp is eenvoudig maar netjes en je kiest uit zwart, wit of bordeaux. De bediening loopt via een display bovenop en een afstandsbediening, inclusief een weekprogramma. Kopers waarderen de prijs en het feit dat ze een merk met een lange staat van dienst krijgen. Minder positief is het kleine pelletreservoir: op een hogere stand moet je dagelijks een zak bijvullen. Ook is er geen gratis ingebruikstelling zoals bij Livn, dus reken op extra kosten voor een installateur als je die niet zelf hebt.",
+      "text": "De Kalor Smart is de instapper van het Italiaanse merk en een alternatief voor de THUNDER Leyla. Met 6 kW is hij bedoeld voor ruimtes tot ongeveer 150 kubieke meter, zoals een kleinere woonkamer of een verbouwde zolder met rookkanaal. Het rendement ligt rond de 89%, vergelijkbaar met andere kachels in deze klasse.\n\nHet ontwerp is eenvoudig maar netjes en je kiest uit zwart, wit of bordeaux. De bediening loopt via een display bovenop en een afstandsbediening, inclusief een weekprogramma. Kopers waarderen de prijs en het feit dat ze een merk met een lange staat van dienst krijgen. Minder positief is het kleine pelletreservoir: op een hogere stand moet je dagelijks een zak bijvullen. Ook is er geen gratis ingebruikstelling zoals bij Livn, dus reken op extra kosten voor een installateur als je die niet zelf hebt.",
       "ean": "8029906029429",
       "bol_title": "Pelletkachel Kalor Smart 6kW - Zwart",
       "url": "https://www.bol.com/nl/nl/p/pelletkachel-kalor-smart-6kw-zwart/9300000254480586/",

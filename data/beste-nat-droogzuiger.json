@@ -444,58 +444,41 @@
       "low_price": 71.99
     },
     {
-      "brand": "Bosch",
-      "name": "UniversalVac 15",
-      "price": 81.28,
+      "brand": "Kärcher",
+      "name": "WD 2 Plus S V-15/4/18",
+      "price": 75.59,
       "score": 8.0,
       "label": null,
-      "reviews": "600+ reviews",
-      "oneliner": "Compacte Bosch-alleszuiger met stopcontact.",
+      "reviews": "Gem. 4,0 sterren op bol",
+      "oneliner": "Compacte Kärcher-alleszuiger met RVS-ketel van 15 liter.",
       "specs": {
         "Vermogen": "1000 W",
-        "Reservoir": "15 l, kunststof",
-        "Filter": "Patroonfilter",
-        "Stopcontact gereedschap": "Ja"
+        "Reservoir": "15 l, RVS",
+        "Filter": "Schuimfilter + filterzak",
+        "Stopcontact gereedschap": "Nee"
       },
       "pros": [
-        "Stopcontact voor elektrisch gereedschap",
+        "RVS-ketel van 15 liter roest niet en is makkelijk schoon te maken",
         "Compact en licht",
         "Blaasfunctie",
-        "Lage prijs voor een Bosch"
+        "Opbergvak voor schroeven en kleine onderdelen"
       ],
       "cons": [
-        "Klein reservoir van 15 liter",
-        "Minder zuigkracht dan de AdvancedVac 20"
+        "Geen stopcontact voor elektrisch gereedschap",
+        "Schuimfilter minder geschikt voor fijn stof dan een patroonfilter",
+        "Korte zuigslang van 1,8 meter"
       ],
-      "ideal": "Wie weinig ruimte heeft maar toch met gereedschap wil zuigen.",
-      "text": "De Bosch UniversalVac 15 is de kleine broer van de AdvancedVac 20. Hij heeft een reservoir van 15 liter en een motor van 1000 watt. Daarmee is hij compact genoeg voor een berging of een kast in een appartement. Toch krijg je een stopcontact voor elektrisch gereedschap, iets wat je bij de goedkopere Kärchers niet hebt.\n\nJe kunt nat en droog zuigen met het patroonfilter. Voor fijn stof van schuren of boren gebruik je het best een stofzak, zodat het filter niet snel verstopt raakt. Er zit een blaasfunctie op en de accessoires klik je aan het apparaat vast. Kopers vinden hem handzaam en praktisch voor kleine klussen. De zuigkracht is wel duidelijk minder dan bij de grotere modellen in deze lijst. Ook vult het kleine reservoir snel bij het opzuigen van water. Voor een lekkende boiler of een kleine verbouwing is hij prima, voor een ondergelopen kelder niet.",
-      "ean": "3165140873963",
-      "bol_title": "Bosch UniversalVac 15 Bouwstofzuiger - Nat- en droogzuiger",
-      "url": "https://www.bol.com/nl/nl/p/bosch-universalvac-15-bouwstofzuiger-nat-en-droogzuiger/9200000077758301/",
-      "image": "https://media.s-bol.com/JE61y5kZGqLP/j2WMXDP/488x840.jpg",
-      "synced": "2026-11-05",
+      "ideal": "Wie weinig ruimte heeft en een degelijke alleszuiger zoekt voor kleine klussen.",
+      "text": "De Kärcher WD 2 Plus S V-15/4/18 is de compacte instapper van Kärcher met een ketel van roestvrij staal. Het reservoir van 15 liter is groot genoeg voor een lekkende boiler of het uitzuigen van de auto, terwijl het apparaat klein genoeg blijft voor een berging of een kast in een appartement. De motor van 1000 watt is zuinig en zuigt nat, droog, fijn en grof vuil op.\n\nIn de doos zitten een slang van 1,8 meter, een vloerzuigmond met clips, een schuimfilter en een filterzak. Voor fijn stof van schuren of boren gebruik je het best die zak, zodat het filter niet snel dichtslibt. Op de kop zit een opbergvak voor schroeven en spijkers en de buizen park je op de bumper. Er is ook een blaasfunctie voor plekken waar je moeilijk kunt zuigen. Een stopcontact voor gereedschap ontbreekt, daarvoor kijk je naar de WD 3 P of de Einhell TE-VC 2230 SA. Kopers geven hem gemiddeld 4,0 sterren. Voor een ondergelopen kelder is hij te klein.",
+      "ean": "4054278656021",
+      "bol_title": "Kärcher WD 2 Plus S V-15/4/18 nat- en droogzuiger - 1000W - RVS vuilreservoir 15L - stroomkabel 4m",
+      "url": "https://www.bol.com/nl/nl/p/karcher-wd-2-plus-s-v-15-4-18-nat-en-droogzuiger-1000w-rvs-vuilreservoir-15l-stroomkabel-4m/9300000075271005/",
+      "image": "https://media.s-bol.com/vDMjggE6BgxV/ROPZXzO/550x603.jpg",
       "ph": {
-        "2026-10-19": 85.22,
-        "2026-10-20": 83.14,
-        "2026-10-21": 85.84,
-        "2026-10-23": 82.0,
-        "2026-10-24": 82.0,
-        "2026-10-25": 82.0,
-        "2026-10-26": 85.84,
-        "2026-10-27": 85.84,
-        "2026-10-28": 85.84,
-        "2026-10-29": 85.84,
-        "2026-10-30": 81.38,
-        "2026-10-31": 81.38,
-        "2026-11-01": 81.38,
-        "2026-11-02": 81.38,
-        "2026-11-03": 99.99,
-        "2026-11-04": 82.09,
-        "2026-11-05": 81.28
+        "2026-11-05": 75.59
       },
-      "low_price": 81.28,
-      "prev_price": 82.09,
-      "prev_date": "2026-11-04"
+      "low_price": 75.59,
+      "synced": "2026-11-05"
     },
     {
       "brand": "Einhell",

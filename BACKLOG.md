@@ -2,6 +2,23 @@
 
 Formaat: slug | cat | query | titel | emoji
 
+# groeimotor 5 nov 2026 (D1): Black Friday 27 nov + Sinterklaas + Kerst, op verwachte omzet (prijs x zoekvraag x seizoen), 4 tot 6 weken vooraf
+[ ] beste-kunstkerstboom | wonen | kunstkerstboom | De 10 beste kunstkerstbomen van 2026 | 🎄
+[ ] beste-tv-85-inch | elektronica | 85 inch tv | De 10 beste 85 inch tv's van 2026 | 📺
+[ ] beste-nintendo-switch | gaming | nintendo switch 2 console | De 10 beste Nintendo Switch-bundels van 2026 | 🎮
+[ ] beste-kerstverlichting-buiten | wonen | kerstverlichting buiten | De 10 beste kerstlampjes voor buiten van 2026 | ✨
+[ ] beste-gaming-tv | elektronica | gaming tv 120hz | De 10 beste gaming-tv's van 2026 | 🎮
+[ ] beste-robotstofzuiger-goedkoop | huishouden | robotstofzuiger goedkoop | De 10 beste goedkope robotstofzuigers van 2026 | 🤖
+[ ] beste-kunstkerstboom-met-verlichting | wonen | kunstkerstboom met verlichting | De 10 beste kunstkerstbomen met verlichting van 2026 | 🎄
+[ ] beste-xbox | gaming | xbox series console | De 10 beste Xbox-consoles en bundels van 2026 | 🎮
+[ ] beste-drone | elektronica | drone met camera | De 10 beste drones met camera van 2026 | 🚁
+[ ] beste-lego-voor-volwassenen | cadeaus | lego volwassenen | De 10 beste LEGO-sets voor volwassenen van 2026 | 🧱
+[ ] beste-instant-camera | cadeaus | instant camera | De 10 beste instant camera's van 2026 | 📸
+[ ] beste-kerstverlichting-binnen | wonen | kerstverlichting binnen | De 10 beste kerstlampjes voor binnen van 2026 | 💡
+[ ] beste-tv-voor-sport | elektronica | tv voor voetbal | De 10 beste tv's voor sport van 2026 | ⚽
+[ ] beste-actiecamera | elektronica | actiecamera | De 10 beste actiecamera's van 2026 | 🎥
+[ ] beste-lego-technic | cadeaus | lego technic | De 10 beste LEGO Technic-sets van 2026 | 🧱
+
 # weekrapport 1 nov 2026: tv, plaid/warmte, strijken en bank scoren (Umami-kliks + bol-orders)
 [x] beste-adventskalender | cadeaus | adventskalender | De 10 beste adventskalenders van 2026 | 🎁
 [x] beste-mini-led-tv | elektronica | mini led tv | De 10 beste Mini LED-tv's van 2026 | 📺
@@ -13,7 +30,6 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-luchtreiniger-katten | wonen | luchtreiniger kattenallergie | De 10 beste luchtreinigers bij kattenallergie van 2026 | 🐈
 [x] beste-tv-onder-1000-euro | elektronica | tv onder 1000 euro | De 10 beste tv's onder 1000 euro van 2026 | 📺
 [x] beste-elektrische-kachel-badkamer | wonen | elektrische kachel badkamer | De 10 beste elektrische kachels voor de badkamer van 2026 | 🔥
-[ ] beste-robotstofzuiger-goedkoop | huishouden | robotstofzuiger goedkoop | De 10 beste goedkope robotstofzuigers van 2026 | 🤖
 [ ] beste-heteluchtborstel | verzorging | heteluchtborstel | De 10 beste heteluchtborstels van 2026 | 💇
 [x] beste-wanddroogrek | huishouden | wanddroogrek | De 10 beste wanddroogrekken van 2026 | 🧺
 [x] beste-droogrek | huishouden | droogrek | De 10 beste droogrekken van 2026 | 🧺

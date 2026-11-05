@@ -460,55 +460,40 @@
       "prev_date": "2026-11-01"
     },
     {
-      "brand": "Xiaomi",
-      "name": "TV F 65 2026",
-      "price": 399.0,
+      "brand": "Hisense",
+      "name": "65A6S",
+      "price": 499.0,
       "score": 7.9,
       "label": null,
-      "reviews": "10+ reviews",
-      "oneliner": "Een 65 inch 4K-tv met Fire TV voor 399 euro.",
+      "reviews": "nieuw op bol",
+      "oneliner": "Een 65 inch 4K-tv met Dolby Vision voor net onder de 500 euro.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "LED",
+        "Paneel": "Direct-led",
         "Verversing": "60 Hz",
-        "HDR": "HDR10, HLG",
-        "Smart-tv": "Fire TV"
+        "HDR": "HDR10, HDR10+, Dolby Vision, HLG",
+        "Smart-tv": "VIDAA"
       },
       "pros": [
-        "Goedkoopste 65 inch in deze lijst",
-        "Fire TV met Alexa-spraakbediening",
-        "AirPlay voor iPhone-gebruikers"
+        "Groot 65 inch scherm met Dolby Vision en HDR10+",
+        "VRR en ALLM via HDMI 2.1 voor casual gamen",
+        "Minimaal vijf jaar software-updates"
       ],
       "cons": [
-        "Geen quantum dots",
-        "Fire TV toont veel reclame op het startscherm"
+        "Geen quantum dots of local dimming",
+        "VIDAA heeft minder apps dan Google TV, de KPN-app ontbreekt"
       ],
-      "ideal": "Wie een groot scherm wil voor de laagste prijs en vooral tv kijkt en streamt.",
-      "text": "De Xiaomi TV F 65 is de goedkoopste manier om nu een 65 inch 4K-tv in huis te halen. Voor 399 euro krijg je een groot scherm met Fire TV van Amazon als besturingssysteem. Dat werkt snel, heeft alle grote apps zoals Netflix, Disney+, Videoland en NPO Start en je bedient de tv met Alexa via de afstandsbediening.\n\nAirPlay is ingebouwd, zodat je vanaf een iPhone of Mac direct foto's en video's naar het scherm stuurt. Het paneel is een gewoon led-paneel zonder quantum dots of local dimming, dus de kleuren en het contrast zijn basis. HDR10 en HLG worden ondersteund, maar het paneel is niet fel genoeg voor echte HDR. Een nadeel van Fire TV is dat het startscherm veel aanbevelingen en advertenties toont. Er zijn nog weinig reviews op bol, maar wie ze schreef is tevreden over het formaat voor de prijs. Heb je liever betere kleuren, kies dan de TCL 65T69C.",
-      "ean": "6941948706705",
-      "bol_title": "Xiaomi TV F 65 2026 | 65 inch 4K UHD Smart TV | Fire TV | HDR10/HLG | Dolby Audio en DTS:X | AirPlay",
-      "url": "https://www.bol.com/nl/nl/p/xiaomi-fire-tv-65-inch/9300000361305967/",
-      "image": "https://media.s-bol.com/N3OlAWvV6Q76/361N2kM/550x351.jpg",
-      "synced": "2026-11-05",
+      "ideal": "Wie een groot scherm wil voor een lage prijs en vooral tv kijkt en streamt.",
+      "text": "De Hisense 65A6S is een 65 inch 4K-tv uit 2026 voor net onder de 500 euro. Je krijgt een groot scherm met VIDAA, het eigen besturingssysteem van Hisense. Dat start snel op en heeft de grote apps zoals Netflix, Disney+, Videoland en NPO Start. Alleen de KPN-app ontbreekt, wat voor KPN-klanten zonder losse ontvanger een minpunt is.\n\nHet paneel is een direct-led-paneel zonder quantum dots of local dimming, dus kleuren en contrast zijn basis. Wel ondersteunt de tv Dolby Vision, HDR10+ en HDR10, al is het paneel niet fel genoeg voor echte HDR. Via HDMI 2.1 werken VRR en ALLM, waardoor casual gamen op 60 Hz soepel aanvoelt. Hisense belooft minimaal vijf jaar updates. Er zijn nog weinig reviews op bol, dus de ervaringen van kopers moeten zich nog bewijzen. Zit de TCL 65T69C in dezelfde prijsklasse, dan krijg je daar betere kleuren voor ongeveer hetzelfde geld.",
+      "ean": "6942351430751",
+      "bol_title": "Hisense 65A6S - 65 inch SmartTV - 4K DLED - 2026 - Dolby Vision - AI 4K Upscaler - AI Smooth Motion - Game Mode Plus - Voice Control - DTS Virtual: X",
+      "url": "https://www.bol.com/nl/nl/p/hisense-65a6s-65-inch-smarttv-4k-dled-2026-dolby-vision-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-voice-control-dts-virtual-x/9300000272063069/",
+      "image": "https://media.s-bol.com/Y3WvYnoZ6wL2/nRQE4Bl/550x353.jpg",
       "ph": {
-        "2026-10-20": 399.0,
-        "2026-10-21": 399.0,
-        "2026-10-23": 399.0,
-        "2026-10-24": 399.0,
-        "2026-10-25": 399.0,
-        "2026-10-26": 399.0,
-        "2026-10-27": 399.0,
-        "2026-10-28": 399.0,
-        "2026-10-29": 399.0,
-        "2026-10-30": 399.0,
-        "2026-10-31": 399.0,
-        "2026-11-01": 399.0,
-        "2026-11-02": 399.0,
-        "2026-11-03": 399.0,
-        "2026-11-04": 399.0,
-        "2026-11-05": 399.0
+        "2026-11-05": 499.0
       },
-      "low_price": 399.0
+      "low_price": 499.0,
+      "synced": "2026-11-05"
     }
   ],
   "guide": [
@@ -544,7 +529,7 @@
     },
     {
       "q": "Welke 65 inch tv is goed onder 500 euro?",
-      "a": "Een 65 inch QLED onder 500 euro is lastig te vinden. De TCL 65T69C lukt het wel: QLED, Dolby Vision en Google TV voor 489 euro. De Xiaomi TV F 65 is met 399 euro goedkoper, maar heeft een eenvoudiger led-paneel."
+      "a": "Een 65 inch QLED onder 500 euro is lastig te vinden. De TCL 65T69C lukt het wel: QLED, Dolby Vision en Google TV voor 489 euro. De Hisense 65A6S van 499 euro is een alternatief met Dolby Vision, maar heeft een eenvoudiger led-paneel."
     },
     {
       "q": "Is een goedkope tv van een onbekend merk een goed idee?",
