@@ -60,10 +60,11 @@
       "url": "https://www.bol.com/nl/nl/p/victorinox-spartan-zwitsers-zakmes-12-functies-klassiek-rood-rvs/9200000002924835/",
       "image": "https://media.s-bol.com/m8GD0nAoEKGR/K8AG8Xn/550x554.jpg",
       "ph": {
-        "2026-11-04": 23.76
+        "2026-11-04": 23.76,
+        "2026-11-05": 23.76
       },
       "low_price": 23.76,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Xiaomi",
@@ -96,10 +97,11 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-power-bank-lite-powerbank-10000mah-capaciteit-22-5w-snelladen-usb-c-usb-a-gelijktijdig-3-apparaten-opladen-compact-en-lichtgewicht-ontwerp-geschikt-voor-iphone-en-android-apparaten/9300000224120014/",
       "image": "https://media.s-bol.com/VBxRNYMOBNJo/32q2QD4/448x840.jpg",
       "ph": {
-        "2026-11-04": 16.95
+        "2026-11-04": 16.95,
+        "2026-11-05": 16.95
       },
       "low_price": 16.95,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Petzl",
@@ -132,10 +134,11 @@
       "url": "https://www.bol.com/nl/nl/p/petzl-tikkina-hoofdlamp-rood/9300000238510071/",
       "image": "https://media.s-bol.com/VGp9BxPx9yDz/2R1q8vA/550x232.jpg",
       "ph": {
-        "2026-11-04": 25.0
+        "2026-11-04": 25.0,
+        "2026-11-05": 25.0
       },
       "low_price": 25.0,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Exploding Kittens",
@@ -168,15 +171,16 @@
       "url": "https://www.bol.com/nl/nl/p/exploding-kittens-originele-editie-nederlandstalig-kaartspel/9200000096239552/",
       "image": "https://media.s-bol.com/qEpY3Kkz2RG3/L928Lxg/550x451.jpg",
       "ph": {
-        "2026-11-04": 18.89
+        "2026-11-04": 18.89,
+        "2026-11-05": 18.89
       },
       "low_price": 18.89,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Bialetti",
       "name": "Moka Express 3 kops",
-      "price": 24.39,
+      "price": 26.99,
       "score": 8.7,
       "label": null,
       "oneliner": "Iconische Italiaanse percolator voor echte espresso op het fornuis.",
@@ -204,10 +208,13 @@
       "url": "https://www.bol.com/nl/nl/p/bialetti-moka-express-percolator-3-kops-aluminium/9200000002756730/",
       "image": "https://media.s-bol.com/w7XOKQpWgkG8/lYM0W0r/550x711.jpg",
       "ph": {
-        "2026-11-04": 24.39
+        "2026-11-04": 24.39,
+        "2026-11-05": 26.99
       },
       "low_price": 24.39,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05",
+      "prev_price": 24.39,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "White Goblin Games",
@@ -240,15 +247,16 @@
       "url": "https://www.bol.com/nl/nl/p/white-goblin-games-codenames-gezelschapsspel/9200000052476461/",
       "image": "https://media.s-bol.com/JB0ZjBDXop3g/2R0Yylj/543x840.jpg",
       "ph": {
-        "2026-11-04": 23.99
+        "2026-11-04": 23.99,
+        "2026-11-05": 23.99
       },
       "low_price": 23.99,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "LEGO",
       "name": "Technic Junglevliegtuig 42198",
-      "price": 23.79,
+      "price": 22.99,
       "score": 8.6,
       "label": null,
       "oneliner": "Klein Technic-vliegtuig met werkende propeller en ophangbare onderdelen.",
@@ -276,15 +284,18 @@
       "url": "https://www.bol.com/nl/nl/p/lego-technic-junglevliegtuig-42198/9300000187249567/",
       "image": "https://media.s-bol.com/KNlvlvRP5WBY/5yzvWPx/550x354.jpg",
       "ph": {
-        "2026-11-04": 23.79
+        "2026-11-04": 23.79,
+        "2026-11-05": 22.99
       },
-      "low_price": 23.79,
-      "synced": "2026-11-04"
+      "low_price": 22.99,
+      "synced": "2026-11-05",
+      "prev_price": 23.79,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Philips",
       "name": "1000 serie MG1100/16 precisietrimmer",
-      "price": 24.99,
+      "price": 25.9,
       "score": 8.4,
       "label": null,
       "oneliner": "Handige trimmer om baard, snor en contouren strak bij te werken.",
@@ -312,15 +323,18 @@
       "url": "https://www.bol.com/nl/nl/p/philips-1000-serie-mg1100-16-precisietrimmer-voor-de-baard/9200000038417473/",
       "image": "https://media.s-bol.com/JYqWywll5JxK/550x735.jpg",
       "ph": {
-        "2026-11-04": 24.99
+        "2026-11-04": 24.99,
+        "2026-11-05": 25.9
       },
       "low_price": 24.99,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05",
+      "prev_price": 24.99,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Weber",
       "name": "Digitale thermometer",
-      "price": 24.49,
+      "price": 22.99,
       "score": 8.4,
       "label": null,
       "oneliner": "Snelle vleesthermometer om kip en steak precies goed te garen.",
@@ -348,10 +362,13 @@
       "url": "https://www.bol.com/nl/nl/p/weber-digitale-thermometer/9200000086896796/",
       "image": "https://media.s-bol.com/xXkopm9w5XNE/nr21VOp/550x246.jpg",
       "ph": {
-        "2026-11-04": 24.49
+        "2026-11-04": 24.49,
+        "2026-11-05": 22.99
       },
-      "low_price": 24.49,
-      "synced": "2026-11-04"
+      "low_price": 22.99,
+      "synced": "2026-11-05",
+      "prev_price": 24.49,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Whisiskey",
@@ -384,10 +401,11 @@
       "url": "https://www.bol.com/nl/nl/p/whisiskey-luxe-whiskey-stones-set-rvs-12-stuks-fluwelen-opbergzak-flessenstopper-ijstang-herbruikbare-ijsblokjes-rvs-whiskey-stenen-voor-glazen-accessoires-ijsklontjes-metaal-drank-koeler-cadeau-voor-man/9300000021707236/",
       "image": "https://media.s-bol.com/B0pKxwGJwKEQ/nZzNRME/550x550.jpg",
       "ph": {
-        "2026-11-04": 15.99
+        "2026-11-04": 15.99,
+        "2026-11-05": 15.99
       },
       "low_price": 15.99,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     }
   ],
   "guide": [

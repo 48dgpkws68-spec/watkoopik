@@ -62,10 +62,11 @@
         "2026-11-01": 45.75,
         "2026-11-02": 45.75,
         "2026-11-03": 45.75,
-        "2026-11-04": 45.75
+        "2026-11-04": 45.75,
+        "2026-11-05": 45.75
       },
       "low_price": 45.75,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol"
     },
     {
@@ -99,15 +100,16 @@
       "url": "https://www.bol.com/nl/nl/p/philips-norelco-oneblade-oneblade-360-qp2724-23-gezicht/9300000179791791/",
       "image": "https://media.s-bol.com/BWgyvpZxDwxX/JZ5lWQo/550x536.jpg",
       "ph": {
-        "2026-11-04": 36.94
+        "2026-11-04": 36.94,
+        "2026-11-05": 36.94
       },
       "low_price": 36.94,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Braun",
       "name": "Series 3 300s scheerapparaat",
-      "price": 51.99,
+      "price": 48.95,
       "score": 8.6,
       "label": null,
       "oneliner": "Eenvoudig scheerapparaat met drie flexibele messen.",
@@ -145,13 +147,14 @@
         "2026-11-01": 48.95,
         "2026-11-02": 48.95,
         "2026-11-03": 48.95,
-        "2026-11-04": 51.99
+        "2026-11-04": 51.99,
+        "2026-11-05": 48.95
       },
       "low_price": 48.95,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
-      "prev_price": 48.95,
-      "prev_date": "2026-11-03"
+      "prev_price": 51.99,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Anker",
@@ -194,16 +197,17 @@
         "2026-11-01": 34.99,
         "2026-11-02": 34.99,
         "2026-11-03": 34.99,
-        "2026-11-04": 34.99
+        "2026-11-04": 34.99,
+        "2026-11-05": 34.99
       },
       "low_price": 34.99,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol"
     },
     {
       "brand": "LEGO",
       "name": "Technic Aston Martin Valkyrie 42208",
-      "price": 44.99,
+      "price": 47.99,
       "score": 8.7,
       "label": null,
       "oneliner": "Bouwset van een hypercar met werkende V12-zuigers.",
@@ -241,13 +245,14 @@
         "2026-11-01": 47.99,
         "2026-11-02": 47.99,
         "2026-11-03": 47.99,
-        "2026-11-04": 44.99
+        "2026-11-04": 44.99,
+        "2026-11-05": 47.99
       },
       "low_price": 44.99,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
-      "prev_price": 47.99,
-      "prev_date": "2026-11-03"
+      "prev_price": 44.99,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Victorinox",
@@ -287,10 +292,11 @@
         "2026-11-01": 36.08,
         "2026-11-02": 36.08,
         "2026-11-03": 36.08,
-        "2026-11-04": 36.08
+        "2026-11-04": 36.08,
+        "2026-11-05": 36.08
       },
       "low_price": 36.08,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Bialetti",
@@ -333,10 +339,11 @@
         "2026-11-01": 33.99,
         "2026-11-02": 30.95,
         "2026-11-03": 30.95,
-        "2026-11-04": 30.95
+        "2026-11-04": 30.95,
+        "2026-11-05": 30.95
       },
       "low_price": 27.99,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
       "prev_price": 33.99,
       "prev_date": "2026-11-01"
@@ -382,16 +389,17 @@
         "2026-11-01": 31.99,
         "2026-11-02": 31.99,
         "2026-11-03": 31.99,
-        "2026-11-04": 31.99
+        "2026-11-04": 31.99,
+        "2026-11-05": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol"
     },
     {
       "brand": "JBL",
       "name": "Tune 530BT koptelefoon",
-      "price": 47.95,
+      "price": 48.69,
       "score": 8.2,
       "label": "Beste premium",
       "oneliner": "Draadloze koptelefoon met 50 uur accuduur.",
@@ -429,18 +437,19 @@
         "2026-11-01": 48.39,
         "2026-11-02": 48.29,
         "2026-11-03": 51.69,
-        "2026-11-04": 47.95
+        "2026-11-04": 47.95,
+        "2026-11-05": 48.69
       },
       "low_price": 47.95,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
-      "prev_price": 51.69,
-      "prev_date": "2026-11-03"
+      "prev_price": 47.95,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Weber",
       "name": "Digitale thermometer",
-      "price": 24.49,
+      "price": 22.99,
       "score": 8.0,
       "label": null,
       "oneliner": "Snel de kerntemperatuur van vlees meten.",
@@ -478,13 +487,14 @@
         "2026-11-01": 22.99,
         "2026-11-02": 22.99,
         "2026-11-03": 22.99,
-        "2026-11-04": 24.49
+        "2026-11-04": 24.49,
+        "2026-11-05": 22.99
       },
       "low_price": 22.99,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
-      "prev_price": 22.99,
-      "prev_date": "2026-11-03"
+      "prev_price": 24.49,
+      "prev_date": "2026-11-04"
     }
   ],
   "guide": [

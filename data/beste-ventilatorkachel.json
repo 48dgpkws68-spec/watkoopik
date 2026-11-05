@@ -23,7 +23,7 @@
     {
       "brand": "Rowenta",
       "name": "Instant Comfort Compact SO2321",
-      "price": 51.69,
+      "price": 56.49,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "400+ reviews",
@@ -53,10 +53,13 @@
       "url": "https://www.bol.com/nl/nl/p/instant-comfort-compact-so2321-ventilatorkachel/9300000160793060/",
       "image": "https://media.s-bol.com/YnDyo7oE5B0p/jzV8Gy/550x662.jpg",
       "ph": {
-        "2026-11-04": 51.69
+        "2026-11-04": 51.69,
+        "2026-11-05": 56.49
       },
       "low_price": 51.69,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05",
+      "prev_price": 51.69,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "VONROC",
@@ -91,10 +94,11 @@
       "url": "https://www.bol.com/nl/nl/p/vonroc-elektrische-kachel-straalkachel-ventilatorkachel-keramisch-3-standen-1000w-2000w-ventilator-voor-ruimten-tot-20m2-grijs/9300000131536309/",
       "image": "https://media.s-bol.com/gyKLJxorVk26/3G0yYO/550x519.jpg",
       "ph": {
-        "2026-11-04": 34.95
+        "2026-11-04": 34.95,
+        "2026-11-05": 34.95
       },
       "low_price": 34.95,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Rowenta",
@@ -129,15 +133,16 @@
       "url": "https://www.bol.com/nl/nl/p/rowenta-instant-comfort-compact-so2330-ventilatorkachel/9200000032856125/",
       "image": "https://media.s-bol.com/ygAnYqGPE6KP/ElPRM9m/550x745.jpg",
       "ph": {
-        "2026-11-04": 75.0
+        "2026-11-04": 75.0,
+        "2026-11-05": 75.0
       },
       "low_price": 75.0,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Philips",
       "name": "Compacte Keramische Kachel CX2120/01",
-      "price": 58.0,
+      "price": 59.0,
       "score": 8.9,
       "label": null,
       "reviews": "200+ reviews",
@@ -166,10 +171,13 @@
       "url": "https://www.bol.com/nl/nl/p/philips-compacte-keramische-verwarming/9300000186181868/",
       "image": "https://media.s-bol.com/mm9K29jJqQn3/yPvyW86/550x611.jpg",
       "ph": {
-        "2026-11-04": 58.0
+        "2026-11-04": 58.0,
+        "2026-11-05": 59.0
       },
       "low_price": 58.0,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05",
+      "prev_price": 58.0,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Pro Breeze",
@@ -204,10 +212,11 @@
       "url": "https://www.bol.com/nl/nl/p/pro-breeze-keramische-ventilatorkachel-1800w-keramische-kachel-met-automatische-oscillatie-en-2-warmtestanden-fan-heater-zwart/9300000190331189/",
       "image": "https://media.s-bol.com/mW5PWlMQ3EzE/ADKvAAl/550x665.jpg",
       "ph": {
-        "2026-11-04": 39.99
+        "2026-11-04": 39.99,
+        "2026-11-05": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Eurom",
@@ -241,15 +250,16 @@
       "url": "https://www.bol.com/nl/nl/p/vk-2001-ventilatorkachel/9200000031375100/",
       "image": "https://media.s-bol.com/DV6EzxXwq3gn/pYzNL2p/550x789.jpg",
       "ph": {
-        "2026-11-04": 31.97
+        "2026-11-04": 31.97,
+        "2026-11-05": 31.97
       },
       "low_price": 31.97,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Eurom",
       "name": "EK2K Round Werkplaatskachel",
-      "price": 35.19,
+      "price": 34.99,
       "score": 8.7,
       "label": null,
       "reviews": "200+ reviews",
@@ -279,10 +289,13 @@
       "url": "https://www.bol.com/nl/nl/p/eurom-ek2k-round-werkplaatskachel/9300000120277970/",
       "image": "https://media.s-bol.com/1y4G501K9D50/JZ3W94D/550x676.jpg",
       "ph": {
-        "2026-11-04": 35.19
+        "2026-11-04": 35.19,
+        "2026-11-05": 34.99
       },
-      "low_price": 35.19,
-      "synced": "2026-11-04"
+      "low_price": 34.99,
+      "synced": "2026-11-05",
+      "prev_price": 35.19,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "VONROC",
@@ -317,10 +330,11 @@
       "url": "https://www.bol.com/nl/nl/p/vonroc-pro-elektrische-kachel-ventilatorkachel-werkplaatskachel-1350w-2000w-keramisch-3-standen-thermostaat-900-kantelbaar-20m2/9300000131534859/",
       "image": "https://media.s-bol.com/J1k6R2GZvxNP/OzgRlN/550x682.jpg",
       "ph": {
-        "2026-11-04": 59.95
+        "2026-11-04": 59.95,
+        "2026-11-05": 59.95
       },
       "low_price": 59.95,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Bestron",
@@ -354,10 +368,11 @@
       "url": "https://www.bol.com/nl/nl/p/bestron-ventilatorkachel-met-2-warmtestanden-incl-omvalbeveiliging-oververhittingsbeveiliging-voor-ruimtes-tot-20m-2000-watt-kleur-grijs/9300000190012760/",
       "image": "https://media.s-bol.com/qz1xXPv6QJlG/w0APMXr/550x600.jpg",
       "ph": {
-        "2026-11-04": 22.99
+        "2026-11-04": 22.99,
+        "2026-11-05": 22.99
       },
       "low_price": 22.99,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Tristar",
@@ -392,10 +407,11 @@
       "url": "https://www.bol.com/nl/nl/p/tristar-ka-5191-ventilatorkachel-elektrische-verwarming-binnen-zwart-2000-w-campingkachel-infrarood/9300000197390956/",
       "image": "https://media.s-bol.com/JBEo0Vz3g3jK/58klZMK/550x714.jpg",
       "ph": {
-        "2026-11-04": 21.99
+        "2026-11-04": 21.99,
+        "2026-11-05": 21.99
       },
       "low_price": 21.99,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     }
   ],
   "guide": [

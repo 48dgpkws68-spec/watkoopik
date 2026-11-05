@@ -22,7 +22,7 @@
     {
       "brand": "Tefal",
       "name": "OptiGrill+ GC717D",
-      "price": 131.0,
+      "price": 98.99,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "1.100+ reviews",
@@ -50,7 +50,7 @@
       "bol_title": "Tefal OptiGrill+ GC717D - Intelligente Contactgrill - 6 Automatische Programma's - Gaarheidsindicator - Uitneembare & vaatwasbestendige platen - Makkelijk schoonmaken - 2000W - RVS",
       "url": "https://www.bol.com/nl/nl/p/tefal-optigrill-gc717d-intelligente-contactgrill-2000w-rvs/9300000173262302/",
       "image": "https://media.s-bol.com/xM1L0nvlNWA9/X6n0XEl/550x468.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-15": 131.0,
         "2026-10-16": 131.0,
@@ -71,9 +71,12 @@
         "2026-11-01": 131.0,
         "2026-11-02": 131.0,
         "2026-11-03": 131.0,
-        "2026-11-04": 131.0
+        "2026-11-04": 131.0,
+        "2026-11-05": 98.99
       },
-      "low_price": 131.0
+      "low_price": 98.99,
+      "prev_price": 131.0,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Philips",
@@ -106,7 +109,7 @@
       "bol_title": "Philips 5000-serie Contactgrill HD6301/90 - 2200 W - Zwart",
       "url": "https://www.bol.com/nl/nl/p/philips-5000-serie-contactgrill-hd6301-90/9300000186850632/",
       "image": "https://media.s-bol.com/BMm6VWjz8YDQ/L92VQEj/550x381.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-15": 71.0,
         "2026-10-16": 71.0,
@@ -127,7 +130,8 @@
         "2026-11-01": 67.51,
         "2026-11-02": 67.0,
         "2026-11-03": 67.0,
-        "2026-11-04": 67.0
+        "2026-11-04": 67.0,
+        "2026-11-05": 67.0
       },
       "low_price": 66.5,
       "prev_price": 67.51,
@@ -136,7 +140,7 @@
     {
       "brand": "Tefal",
       "name": "OptiGrill Elite XL GC760D",
-      "price": 172.99,
+      "price": 173.0,
       "score": 9.2,
       "label": "Beste premium",
       "reviews": "400+ reviews",
@@ -164,7 +168,7 @@
       "bol_title": "Tefal OptiGrill Elite XL GC760D Slimme Contactgrill - Digitale Grillassistent - 16 Automatische Programma's - Gaarheidsindicator - Uitneembare anti-aanbakplaten - Groot Formaat - Vet opvangbak - 2200W - RVS",
       "url": "https://www.bol.com/nl/nl/p/tefal-optigrill-elite-xl-gc760d-slimme-contactgrill-met-grillassistent/9300000008094883/",
       "image": "https://media.s-bol.com/xM1LAkP95xv9/nZ8omLp/550x330.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-15": 187.0,
         "2026-10-16": 187.0,
@@ -185,7 +189,8 @@
         "2026-11-01": 173.0,
         "2026-11-02": 173.0,
         "2026-11-03": 173.0,
-        "2026-11-04": 172.99
+        "2026-11-04": 172.99,
+        "2026-11-05": 173.0
       },
       "low_price": 172.99,
       "prev_price": 187.0,
@@ -194,7 +199,7 @@
     {
       "brand": "Tefal",
       "name": "OptiGrill+ XL GC727D",
-      "price": 205.0,
+      "price": 125.0,
       "score": 9.0,
       "label": null,
       "reviews": "600+ reviews",
@@ -222,7 +227,7 @@
       "bol_title": "Tefal OptiGrill+ XL GC727D Slimme Contactgrill - 9 automatische programma's - Gaarheidsindicator - Uitneembare Anti-aanbakplaten - Groot Grilloppervlak - Vet opvangbak - 2000W - RVS",
       "url": "https://www.bol.com/nl/nl/p/optigrill-xl-gc727d-intelligente-contactgrill/9300000173262304/",
       "image": "https://media.s-bol.com/JrOqjMxzBZnJ/BBg1rDn/550x314.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-15": 165.0,
         "2026-10-16": 156.99,
@@ -243,11 +248,12 @@
         "2026-11-01": 204.0,
         "2026-11-02": 175.0,
         "2026-11-03": 205.0,
-        "2026-11-04": 205.0
+        "2026-11-04": 205.0,
+        "2026-11-05": 125.0
       },
-      "low_price": 156.99,
-      "prev_price": 175.0,
-      "prev_date": "2026-11-02"
+      "low_price": 125.0,
+      "prev_price": 205.0,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Tefal",
@@ -280,7 +286,7 @@
       "bol_title": "Tefal OptiGrill 4in1 GC774D - Intelligente Contactgrill - Inclusief Bakschaal - 9 Automatische programma's - Gaarheidsindicator - 2100W",
       "url": "https://www.bol.com/nl/nl/p/tefal-optigrill-4in1-gc774d-contactgrill-intelligent-grill/9300000139388700/",
       "image": "https://media.s-bol.com/go2M4ZmGkl7k/k5DlgOX/550x396.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-15": 189.0,
         "2026-10-16": 189.0,
@@ -301,7 +307,8 @@
         "2026-11-01": 189.0,
         "2026-11-02": 189.0,
         "2026-11-03": 189.0,
-        "2026-11-04": 187.0
+        "2026-11-04": 187.0,
+        "2026-11-05": 187.0
       },
       "low_price": 187.0,
       "prev_price": 189.0,
@@ -338,7 +345,7 @@
       "bol_title": "Philips 7000-serie Contactgrill HD6307/70 - 2200 W - Temperatuursonde - Zwart",
       "url": "https://www.bol.com/nl/nl/p/philips-7000-serie-contactgrill-hd6307-70/9300000186850631/",
       "image": "https://media.s-bol.com/qEnZNB50AkG3/9ryEqAB/550x414.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-15": 103.0,
         "2026-10-16": 103.0,
@@ -359,7 +366,8 @@
         "2026-11-01": 103.0,
         "2026-11-02": 103.0,
         "2026-11-03": 103.0,
-        "2026-11-04": 103.0
+        "2026-11-04": 103.0,
+        "2026-11-05": 103.0
       },
       "low_price": 103.0
     },
@@ -394,7 +402,7 @@
       "bol_title": "Tefal Ultra Compact Classic GC3050 Contactgrill - Barbecuestand - Regelbare temperatuur - Uitneembare Anti-aanbakplaten - Vet opvangbak - Verticaal opbergen - 2000W - RVS",
       "url": "https://www.bol.com/nl/nl/p/tefal-ultra-compact-gc3050-contactgrill-groot-grill/9000000011224814/",
       "image": "https://media.s-bol.com/E1VAVJrqo6Gl/mwN5DXO/550x313.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-15": 87.99,
         "2026-10-16": 87.99,
@@ -415,7 +423,8 @@
         "2026-11-01": 84.99,
         "2026-11-02": 84.99,
         "2026-11-03": 84.99,
-        "2026-11-04": 84.99
+        "2026-11-04": 84.99,
+        "2026-11-05": 84.99
       },
       "low_price": 84.99,
       "prev_price": 87.99,
@@ -424,7 +433,7 @@
     {
       "brand": "Inventum",
       "name": "CG618",
-      "price": 42.56,
+      "price": 42.99,
       "score": 8.2,
       "label": null,
       "reviews": "250+ reviews",
@@ -452,7 +461,7 @@
       "bol_title": "Inventum CG618 - Contactgrill - Tafelgrill - Grilloppervlak 28 x 23 cm - PFAS vrij - Anti aanbaklaag - 1800 watt - RVS/Zwart",
       "url": "https://www.bol.com/nl/nl/p/inventum-cg618-contactgrill-tafelgrill-uitklapbaar-rvs-zwart/9200000057125809/",
       "image": "https://media.s-bol.com/4oD6vLzpJprg/n5qPjz4/550x395.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-15": 53.99,
         "2026-10-16": 53.99,
@@ -473,16 +482,17 @@
         "2026-11-01": 44.99,
         "2026-11-02": 42.56,
         "2026-11-03": 36.94,
-        "2026-11-04": 42.56
+        "2026-11-04": 42.56,
+        "2026-11-05": 42.99
       },
       "low_price": 36.94,
-      "prev_price": 36.94,
-      "prev_date": "2026-11-03"
+      "prev_price": 42.56,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Tefal",
       "name": "Inicio GC241D",
-      "price": 48.99,
+      "price": 40.99,
       "score": 8.0,
       "label": null,
       "reviews": "900+ reviews",
@@ -510,7 +520,7 @@
       "bol_title": "Tefal Inicio GC241D Contactgrill - Anti-aanbakplaten - Vet opvangbak - 2000W - RVS",
       "url": "https://www.bol.com/nl/nl/p/tefal-inicio-grill-gc241d38-czarny-chrom/9200000075838881/",
       "image": "https://media.s-bol.com/BZ69YgjNGRQo/98OyABJ/550x381.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-15": 48.99,
         "2026-10-16": 48.99,
@@ -531,11 +541,12 @@
         "2026-11-01": 50.0,
         "2026-11-02": 50.0,
         "2026-11-03": 50.0,
-        "2026-11-04": 48.99
+        "2026-11-04": 48.99,
+        "2026-11-05": 40.99
       },
-      "low_price": 48.99,
-      "prev_price": 50.0,
-      "prev_date": "2026-11-03"
+      "low_price": 40.99,
+      "prev_price": 48.99,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Princess",
@@ -568,7 +579,7 @@
       "bol_title": "Princess Panini Grill Pro – Contactgrill groot 30 x 27cm - Tosti apparaat - Grill apparaat - Zwevend bovendeksel – Regelbare thermostaat - 2000W - 112425",
       "url": "https://www.bol.com/nl/nl/p/princess-112425-panini-grill-pro-groot-bakoppervlak-30x27-instelbare-thermostaat-zwevende-bovenplaat-2000-watt/9300000026059458/",
       "image": "https://media.s-bol.com/RLYkZPZ1z6Nq/550x590.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-15": 45.99,
         "2026-10-16": 44.95,
@@ -589,7 +600,8 @@
         "2026-11-01": 46.95,
         "2026-11-02": 46.95,
         "2026-11-03": 46.95,
-        "2026-11-04": 46.95
+        "2026-11-04": 46.95,
+        "2026-11-05": 46.95
       },
       "low_price": 44.95,
       "prev_price": 44.95,

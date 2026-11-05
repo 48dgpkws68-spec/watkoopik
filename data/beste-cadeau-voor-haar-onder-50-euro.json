@@ -24,7 +24,7 @@
     {
       "brand": "Rituals",
       "name": "The Ritual of Ayurveda giftset",
-      "price": 42.53,
+      "price": 34.1,
       "score": 9.1,
       "label": "Beste keuze",
       "oneliner": "Verzorgingsset met douche-olie, crème en geurstokjes.",
@@ -62,13 +62,14 @@
         "2026-11-01": 42.8,
         "2026-11-02": 42.8,
         "2026-11-03": 42.53,
-        "2026-11-04": 42.53
+        "2026-11-04": 42.53,
+        "2026-11-05": 34.1
       },
-      "low_price": 35.95,
-      "synced": "2026-11-04",
+      "low_price": 34.1,
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
-      "prev_price": 42.8,
-      "prev_date": "2026-11-02"
+      "prev_price": 42.53,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "LEGO",
@@ -111,10 +112,11 @@
         "2026-11-01": 47.99,
         "2026-11-02": 47.99,
         "2026-11-03": 47.99,
-        "2026-11-04": 47.99
+        "2026-11-04": 47.99,
+        "2026-11-05": 47.99
       },
       "low_price": 41.99,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
       "prev_price": 41.99,
       "prev_date": "2026-10-31"
@@ -160,10 +162,11 @@
         "2026-11-01": 34.9,
         "2026-11-02": 34.9,
         "2026-11-03": 34.99,
-        "2026-11-04": 34.99
+        "2026-11-04": 34.99,
+        "2026-11-05": 34.99
       },
       "low_price": 34.9,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
       "prev_price": 34.9,
       "prev_date": "2026-11-02"
@@ -209,16 +212,17 @@
         "2026-11-01": 32.99,
         "2026-11-02": 32.99,
         "2026-11-03": 32.99,
-        "2026-11-04": 32.99
+        "2026-11-04": 32.99,
+        "2026-11-05": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Oral-B",
       "name": "iO2 elektrische tandenborstel Calm Pink",
-      "price": 36.85,
+      "price": 37.0,
       "score": 8.7,
       "label": null,
       "oneliner": "Instapmodel van de iO-reeks met druksensor.",
@@ -256,18 +260,19 @@
         "2026-11-01": 37.0,
         "2026-11-02": 37.0,
         "2026-11-03": 37.0,
-        "2026-11-04": 36.85
+        "2026-11-04": 36.85,
+        "2026-11-05": 37.0
       },
       "low_price": 36.85,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
-      "prev_price": 37.0,
-      "prev_date": "2026-11-03"
+      "prev_price": 36.85,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Yankee Candle",
       "name": "Autumn Daydream Large Jar",
-      "price": 33.3,
+      "price": 33.34,
       "score": 8.4,
       "label": null,
       "oneliner": "Grote geurkaars met tot 90 branduren.",
@@ -305,13 +310,14 @@
         "2026-11-01": 33.47,
         "2026-11-02": 33.47,
         "2026-11-03": 33.09,
-        "2026-11-04": 33.3
+        "2026-11-04": 33.3,
+        "2026-11-05": 33.34
       },
       "low_price": 31.41,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
-      "prev_price": 33.09,
-      "prev_date": "2026-11-03"
+      "prev_price": 33.3,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Moleskine",
@@ -353,10 +359,12 @@
         "2026-10-31": 15.89,
         "2026-11-01": 15.89,
         "2026-11-02": 15.89,
-        "2026-11-03": 15.89
+        "2026-11-03": 15.89,
+        "2026-11-04": 15.89,
+        "2026-11-05": 15.89
       },
       "low_price": 15.89,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
       "prev_price": 16.5,
       "prev_date": "2026-10-29"
@@ -364,7 +372,7 @@
     {
       "brand": "Stanley",
       "name": "Quencher H2.0 FlowState Tumbler 1,18 l Black",
-      "price": 49.0,
+      "price": 48.99,
       "score": 8.5,
       "label": null,
       "oneliner": "Grote thermosbeker met rietje die ijswater urenlang koud houdt.",
@@ -401,10 +409,11 @@
         "2026-11-01": 48.99,
         "2026-11-02": 48.99,
         "2026-11-03": 48.99,
-        "2026-11-04": 49.0
+        "2026-11-04": 49.0,
+        "2026-11-05": 48.99
       },
       "low_price": 48.99,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol"
     },
     {
@@ -445,10 +454,11 @@
         "2026-11-01": 39.99,
         "2026-11-02": 39.99,
         "2026-11-03": 39.99,
-        "2026-11-04": 39.99
+        "2026-11-04": 39.99,
+        "2026-11-05": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Philips",
@@ -491,10 +501,11 @@
         "2026-11-01": 44.99,
         "2026-11-02": 42.2,
         "2026-11-03": 44.99,
-        "2026-11-04": 44.99
+        "2026-11-04": 44.99,
+        "2026-11-05": 44.99
       },
       "low_price": 42.1,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
       "prev_price": 42.2,
       "prev_date": "2026-11-02"

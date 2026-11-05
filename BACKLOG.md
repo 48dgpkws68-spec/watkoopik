@@ -232,3 +232,6 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-ventilatorkachel | wonen | ventilatorkachel | De 10 beste ventilatorkachels van 2026 | 🔥
 [x] beste-cadeau-voor-hem-onder-25-euro | cadeaus | cadeau voor hem | De 10 beste cadeaus voor hem onder 25 euro van 2026 | 🎁
 [x] beste-cadeau-voor-haar-onder-25-euro | cadeaus | cadeau voor haar | De 10 beste cadeaus voor haar onder 25 euro van 2026 | 🎁
+# routine 5 nov 2026: seizoen (Sinterklaas) + tv (grootste klikcategorie)
+[x] beste-sinterklaascadeau-voor-volwassenen | cadeaus | sinterklaas cadeau volwassenen | De 10 beste sinterklaascadeaus voor volwassenen van 2026 | 🎁
+[x] beste-tv-ambilight | elektronica | philips ambilight tv | De 10 beste Ambilight-tv's van 2026 | 📺

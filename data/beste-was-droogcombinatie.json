@@ -55,10 +55,11 @@
         "2026-11-01": 999.0,
         "2026-11-02": 999.0,
         "2026-11-03": 999.0,
-        "2026-11-04": 999.0
+        "2026-11-04": 999.0,
+        "2026-11-05": 999.0
       },
       "low_price": 999.0,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Samsung",
@@ -90,7 +91,7 @@
       "bol_title": "Samsung WD90DG5B15BH 5000-serie -Was-droogcombinatie - EcoBubble™ - 9/6 kg",
       "url": "https://www.bol.com/nl/nl/p/samsung-wd90dg5b15bh-5000-serie-was-droogcombinatie-ecobubble-9-6-kg/9300000183388881/",
       "image": "https://media.s-bol.com/6AZkvX7o8xP7/AD9pk43/550x770.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-20": 690.0,
         "2026-10-21": 690.0,
@@ -106,14 +107,15 @@
         "2026-11-01": 690.0,
         "2026-11-02": 690.0,
         "2026-11-03": 690.0,
-        "2026-11-04": 690.0
+        "2026-11-04": 690.0,
+        "2026-11-05": 690.0
       },
       "low_price": 690.0
     },
     {
       "brand": "Siemens",
       "name": "iQ700 WN54C2A0NL",
-      "price": 1114.0,
+      "price": 1127.0,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "50+ reviews",
@@ -140,7 +142,7 @@
       "bol_title": "Siemens WN54C2A0NL - IQ700 - Was-droogcombinatie - 10.5/6 kg - Automatisch doseren - smartFinish: minder kreukels - Zeer stil - speedPack XL: versnel je wasprogramma",
       "url": "https://www.bol.com/nl/nl/p/siemens-wn54c2a0nl-iq700-was-droogcombinatie-10-kilo/9300000169856415/",
       "image": "https://media.s-bol.com/BmyY1DR9RqKY/jRYxQgl/550x766.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-20": 1099.0,
         "2026-10-21": 1099.0,
@@ -156,11 +158,12 @@
         "2026-11-01": 1101.0,
         "2026-11-02": 1077.0,
         "2026-11-03": 1114.0,
-        "2026-11-04": 1114.0
+        "2026-11-04": 1114.0,
+        "2026-11-05": 1127.0
       },
       "low_price": 1062.0,
-      "prev_price": 1077.0,
-      "prev_date": "2026-11-02"
+      "prev_price": 1114.0,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "AEG",
@@ -192,7 +195,7 @@
       "bol_title": "AEG LWR75Q164 7000 ProSteam® - Was-droogcombinatie - Autodose - Condensatie - 10 kg - NL/FR",
       "url": "https://www.bol.com/nl/nl/p/aeg-lwr75q164-7000-prosteam-was-droogcombinatie-autodose-condensatie-10-kg/9300000134929312/",
       "image": "https://media.s-bol.com/Bj6XrAm09j3J/mBlYLr/550x771.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-20": 993.3,
         "2026-10-21": 993.3,
@@ -208,7 +211,8 @@
         "2026-11-01": 1165.0,
         "2026-11-02": 1165.0,
         "2026-11-03": 1165.0,
-        "2026-11-04": 1165.0
+        "2026-11-04": 1165.0,
+        "2026-11-05": 1165.0
       },
       "low_price": 993.3,
       "prev_price": 1016.81,
@@ -245,10 +249,11 @@
       "url": "https://www.bol.com/nl/nl/p/lg-w4x1095nwb-wasdroogcombinatie-9-5-kg/9300000250601799/",
       "image": "https://media.s-bol.com/q1582m8vwgPG/y8gpA9P/550x763.jpg",
       "ph": {
-        "2026-11-04": 613.0
+        "2026-11-04": 613.0,
+        "2026-11-05": 613.0
       },
       "low_price": 613.0,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Samsung",
@@ -280,7 +285,7 @@
       "bol_title": "Samsung AI Wash was-droogcombinatie 6000-serie WD90DG6B85BK",
       "url": "https://www.bol.com/nl/nl/p/samsung-ai-wash-was-droogcombinatie-6000-serie-wd90dg6b85bk/9300000183388882/",
       "image": "https://media.s-bol.com/N64NBZ6mOlmK/0RXKNPy/550x756.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-20": 749.0,
         "2026-10-21": 749.0,
@@ -296,7 +301,8 @@
         "2026-11-01": 749.0,
         "2026-11-02": 749.0,
         "2026-11-03": 749.0,
-        "2026-11-04": 749.0
+        "2026-11-04": 749.0,
+        "2026-11-05": 749.0
       },
       "low_price": 749.0
     },
@@ -330,7 +336,7 @@
       "bol_title": "Bosch WNA13400NL - Serie 4 - Was-droogcombinatie Extra Stil - Wassen en drogen in 1 keer - 8KG/5KG - SpeedPerfect, tot 65% sneller wassen - Met stoom",
       "url": "https://www.bol.com/nl/nl/p/bosch-wna13400nl-serie-4-was-droogcombinatie/9300000020550028/",
       "image": "https://media.s-bol.com/7Ok9lQBkN4GG/k85KMKX/550x769.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-20": 749.0,
         "2026-10-21": 749.0,
@@ -346,14 +352,15 @@
         "2026-11-01": 749.0,
         "2026-11-02": 749.0,
         "2026-11-03": 749.0,
-        "2026-11-04": 749.0
+        "2026-11-04": 749.0,
+        "2026-11-05": 749.0
       },
       "low_price": 749.0
     },
     {
       "brand": "Beko",
       "name": "B5DT510446W AutoDose",
-      "price": 559.99,
+      "price": 570.99,
       "score": 8.4,
       "label": null,
       "reviews": "4/5 op bol",
@@ -381,7 +388,7 @@
       "bol_title": "Beko B5DT510446W - AutoDose - RecycledTub™ - Was-droogcombinatie",
       "url": "https://www.bol.com/nl/nl/p/beko-b3dt58447w-recycledtub-was-droogcombinatie/9300000119917781/",
       "image": "https://media.s-bol.com/3p6nQ0Xr5xY9/5OLk4A/550x825.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-24": 552.99,
         "2026-10-25": 552.99,
@@ -394,11 +401,12 @@
         "2026-11-01": 543.99,
         "2026-11-02": 557.99,
         "2026-11-03": 557.99,
-        "2026-11-04": 559.99
+        "2026-11-04": 559.99,
+        "2026-11-05": 570.99
       },
       "low_price": 543.99,
-      "prev_price": 557.99,
-      "prev_date": "2026-11-03"
+      "prev_price": 559.99,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Candy",
@@ -430,7 +438,7 @@
       "bol_title": "Candy GWD 4106B8-S - Was-droogcombinatie - 10+6kg - A-20%/D - Extra stil (70 dB) - Soft Drum - 16 programma’s - Getest om 20 jaar mee te gaan - 10 jaar garantie op onderdelen",
       "url": "https://www.bol.com/nl/nl/p/candy-gwd-4106b8-s-was-droogcombinatie-10-6kg-a-20-d-extra-stil-soft-drum-16-programma-s-getest-om-20-jaar-mee-te-gaan-10-jaar-garantie-op-onderdelen/9300000240318126/",
       "image": "https://media.s-bol.com/zOQyLZ0J4Y95/NxWL5Yz/550x789.jpg",
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "ph": {
         "2026-10-20": 490.0,
         "2026-10-21": 490.0,
@@ -446,7 +454,8 @@
         "2026-11-01": 489.0,
         "2026-11-02": 489.0,
         "2026-11-03": 489.0,
-        "2026-11-04": 488.0
+        "2026-11-04": 488.0,
+        "2026-11-05": 488.0
       },
       "low_price": 488.0,
       "prev_price": 489.0,
@@ -484,10 +493,11 @@
       "image": "https://media.s-bol.com/qqJyZ6WonW7R/2kpE3nW/550x775.jpg",
       "ph": {
         "2026-11-03": 515.0,
-        "2026-11-04": 515.0
+        "2026-11-04": 515.0,
+        "2026-11-05": 515.0
       },
       "low_price": 515.0,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     }
   ],
   "guide": [

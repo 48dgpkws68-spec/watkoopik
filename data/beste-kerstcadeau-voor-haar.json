@@ -53,10 +53,11 @@
       "image": "https://media.s-bol.com/goPVz7kYGy59/WnB9o4E/550x429.jpg",
       "ph": {
         "2026-11-03": 156.0,
-        "2026-11-04": 156.0
+        "2026-11-04": 156.0,
+        "2026-11-05": 156.0
       },
       "low_price": 156.0,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "LEGO",
@@ -90,17 +91,18 @@
       "image": "https://media.s-bol.com/GVPv8mAEXlRL/VOlrZEX/550x831.jpg",
       "ph": {
         "2026-11-03": 40.99,
-        "2026-11-04": 36.99
+        "2026-11-04": 36.99,
+        "2026-11-05": 36.99
       },
       "low_price": 36.99,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "prev_price": 40.99,
       "prev_date": "2026-11-03"
     },
     {
       "brand": "Garmin",
       "name": "Vivoactive 6 (42 mm, Lunar Goud)",
-      "price": 252.0,
+      "price": 252.99,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "bol-score 4,4 van 5",
@@ -129,10 +131,13 @@
       "image": "https://media.s-bol.com/7r92KywOzgEj/Z6xmDG8/513x840.jpg",
       "ph": {
         "2026-11-03": 252.0,
-        "2026-11-04": 252.0
+        "2026-11-04": 252.0,
+        "2026-11-05": 252.99
       },
       "low_price": 252.0,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05",
+      "prev_price": 252.0,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Kobo",
@@ -166,15 +171,16 @@
       "image": "https://media.s-bol.com/jKgrOjzPoXwy/5y7pV1Z/550x787.jpg",
       "ph": {
         "2026-11-03": 169.0,
-        "2026-11-04": 169.0
+        "2026-11-04": 169.0,
+        "2026-11-05": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Marshall",
       "name": "Emberton III bluetooth speaker",
-      "price": 130.68,
+      "price": 137.69,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -203,17 +209,18 @@
       "image": "https://media.s-bol.com/mWzZjBzjkyVG/W6owP2X/550x256.jpg",
       "ph": {
         "2026-11-03": 132.62,
-        "2026-11-04": 130.68
+        "2026-11-04": 130.68,
+        "2026-11-05": 137.69
       },
       "low_price": 130.68,
-      "synced": "2026-11-04",
-      "prev_price": 132.62,
-      "prev_date": "2026-11-03"
+      "synced": "2026-11-05",
+      "prev_price": 130.68,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Philips",
       "name": "Wake-up Light HF3519/01",
-      "price": 134.99,
+      "price": 134.0,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -242,10 +249,13 @@
       "image": "https://media.s-bol.com/r7J39B8w183k/m2RQB0/550x395.jpg",
       "ph": {
         "2026-11-03": 134.99,
-        "2026-11-04": 134.99
+        "2026-11-04": 134.99,
+        "2026-11-05": 134.0
       },
-      "low_price": 134.99,
-      "synced": "2026-11-04"
+      "low_price": 134.0,
+      "synced": "2026-11-05",
+      "prev_price": 134.99,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Therabody",
@@ -279,10 +289,11 @@
       "image": "https://media.s-bol.com/DgWywvR6Y9Yq/Mjy5Npm/550x454.jpg",
       "ph": {
         "2026-11-03": 129.0,
-        "2026-11-04": 129.0
+        "2026-11-04": 129.0,
+        "2026-11-05": 129.0
       },
       "low_price": 129.0,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Fujifilm",
@@ -316,10 +327,11 @@
       "image": "https://media.s-bol.com/RqkOj0OpjZow/o2oNqYz/550x652.jpg",
       "ph": {
         "2026-11-03": 92.0,
-        "2026-11-04": 92.0
+        "2026-11-04": 92.0,
+        "2026-11-05": 92.0
       },
       "low_price": 92.0,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Beurer",
@@ -353,10 +365,11 @@
       "image": "https://media.s-bol.com/qz93MXERwlK7/vQD4Dj5/550x472.jpg",
       "ph": {
         "2026-11-03": 49.95,
-        "2026-11-04": 49.95
+        "2026-11-04": 49.95,
+        "2026-11-05": 49.95
       },
       "low_price": 49.95,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     },
     {
       "brand": "Apple",
@@ -390,10 +403,11 @@
       "image": "https://media.s-bol.com/3WOL9o5EEzY4/nxZpX3p/550x550.jpg",
       "ph": {
         "2026-11-03": 31.99,
-        "2026-11-04": 31.99
+        "2026-11-04": 31.99,
+        "2026-11-05": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-11-04"
+      "synced": "2026-11-05"
     }
   ],
   "guide": [

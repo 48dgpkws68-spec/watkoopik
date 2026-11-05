@@ -1,608 +1,618 @@
 {
- "slug": "beste-tv-55-inch",
- "cat": "elektronica",
- "prio": 106,
- "title": "De 10 beste 55 inch tv's van 2026",
- "short": "55 inch tv's",
- "query": "55 inch tv",
- "keywords": [
-  "55 inch tv",
-  "55 inch oled",
-  "55 inch televisie",
-  "beste tv 55 inch",
-  "55 inch smart tv"
- ],
- "ico": "📺",
- "color": "#1b3fb3",
- "updated": "2026-10-16",
- "reviews_total": "6.000",
- "intro": "Een 55 inch tv is voor de meeste Nederlandse woonkamers het ideale formaat: groot genoeg voor films en sport, maar niet zo groot dat hij de kamer overheerst. De verschillen tussen modellen zijn groot, van een eenvoudige led-tv tot een felle oled. Wij vergeleken de 55 inch tv's die nu bij bol te koop zijn op beeldtechniek, helderheid, HDR, gamefuncties en smart-tv, aangevuld met de ervaringen van kopers. Dit zijn de tien beste.",
- "verdict": "De LG C5 is de beste 55 inch tv van 2026: perfect zwart, vier HDMI 2.1-poorten en een snel smart-tv-systeem voor rond 1.100 euro. De LG B5 is de beste prijs-kwaliteit omdat je oled-beeld krijgt voor onder de 900 euro. Wil je het mooiste beeld, ook in een lichte kamer, kies dan de LG G5. Op een kleiner budget bieden de Hisense U7Q en E7S PRO veel tv voor weinig geld.",
- "products": [
-  {
-   "brand": "LG",
-   "name": "C5 OLED55C56LB",
-   "price": 1040.88,
-   "score": 9.4,
-   "label": "Beste keuze",
-   "reviews": "900+ reviews",
-   "oneliner": "De beste allround 55 inch oled voor films, sport en gamen.",
-   "specs": {
-    "Paneel": "OLED evo",
-    "Verversing": "144 Hz",
-    "HDR": "Dolby Vision, HDR10, HLG",
-    "Smart-tv": "webOS 25",
-    "Jaar": "2025"
-   },
-   "pros": [
-    "Perfect zwart en oneindig contrast",
-    "Vier HDMI 2.1-poorten tot 144 Hz",
-    "Dolby Vision en Dolby Atmos",
-    "Heel lage inputlag voor gamers"
-   ],
-   "cons": [
-    "Geen HDR10+",
-    "Minder fel dan een goede miniled in een zonnige kamer"
-   ],
-   "ideal": "Wie één tv wil die alles goed doet, van Netflix in een donkere kamer tot gamen op een PS5.",
-   "text": "De LG C5 is al jaren de oled waar andere 55 inch tv's zich aan meten. De 2025-versie doet daar nog een schepje bovenop. Het OLED evo-paneel geeft echt zwart, waardoor films en series in een donkere kamer veel diepte krijgen. De α9 Gen8-processor schaalt gewone tv-zenders en YouTube netjes op naar 4K en houdt kleuren natuurlijk.\n\nVoor gamers is dit een van de beste tv's die je kunt kopen. Alle vier HDMI-poorten zijn HDMI 2.1, met 144 Hz, VRR, G-Sync en FreeSync Premium. De inputlag is zo laag dat je hem met een PC of PS5 nauwelijks merkt. Het webOS 25-systeem is snel en heeft alle Nederlandse apps, zoals NPO Start, Videoland en Ziggo GO. Kopers op bol geven hem 5 sterren en noemen vooral het beeld en de kijkhoeken. Het enige echte minpunt is dat hij in een felle woonkamer minder helder is dan een topminiled.",
-   "ean": "8806096361924",
-   "bol_title": "LG C5 OLED55C56LB - 55 inch - 4K OLED Evo - 2025 - Smart TV",
-   "url": "https://www.bol.com/nl/nl/p/lg-c5-oled55c56lb-55-inch-4k-oled-evo-2025/9300000229413535/",
-   "image": "https://media.s-bol.com/rxgkOlMjBQ7p/wpz1y7M/550x343.jpg",
-   "synced": "2026-11-04",
-   "ph": {
-    "2026-10-16": 1099.0,
-    "2026-10-17": 1099.0,
-    "2026-10-18": 1099.0,
-    "2026-10-19": 1099.0,
-    "2026-10-20": 1099.0,
-    "2026-10-21": 1099.0,
-    "2026-10-23": 1099.0,
-    "2026-10-24": 1099.0,
-    "2026-10-25": 1099.0,
-    "2026-10-26": 1099.0,
-    "2026-10-27": 1071.5,
-    "2026-10-28": 1071.5,
-    "2026-10-29": 1071.5,
-    "2026-10-30": 1071.5,
-    "2026-10-31": 1071.5,
-    "2026-11-01": 1040.88,
-    "2026-11-02": 1040.9,
-    "2026-11-03": 1040.9,
-    "2026-11-04": 1040.88
-   },
-   "low_price": 1040.88,
-   "prev_price": 1040.9,
-   "prev_date": "2026-11-03"
+  "slug": "beste-tv-55-inch",
+  "cat": "elektronica",
+  "prio": 106,
+  "title": "De 10 beste 55 inch tv's van 2026",
+  "short": "55 inch tv's",
+  "query": "55 inch tv",
+  "keywords": [
+    "55 inch tv",
+    "55 inch oled",
+    "55 inch televisie",
+    "beste tv 55 inch",
+    "55 inch smart tv"
+  ],
+  "ico": "📺",
+  "color": "#1b3fb3",
+  "updated": "2026-10-16",
+  "reviews_total": "6.000",
+  "intro": "Een 55 inch tv is voor de meeste Nederlandse woonkamers het ideale formaat: groot genoeg voor films en sport, maar niet zo groot dat hij de kamer overheerst. De verschillen tussen modellen zijn groot, van een eenvoudige led-tv tot een felle oled. Wij vergeleken de 55 inch tv's die nu bij bol te koop zijn op beeldtechniek, helderheid, HDR, gamefuncties en smart-tv, aangevuld met de ervaringen van kopers. Dit zijn de tien beste.",
+  "verdict": "De LG C5 is de beste 55 inch tv van 2026: perfect zwart, vier HDMI 2.1-poorten en een snel smart-tv-systeem voor rond 1.100 euro. De LG B5 is de beste prijs-kwaliteit omdat je oled-beeld krijgt voor onder de 900 euro. Wil je het mooiste beeld, ook in een lichte kamer, kies dan de LG G5. Op een kleiner budget bieden de Hisense U7Q en E7S PRO veel tv voor weinig geld.",
+  "products": [
+    {
+      "brand": "LG",
+      "name": "C5 OLED55C56LB",
+      "price": 1040.88,
+      "score": 9.4,
+      "label": "Beste keuze",
+      "reviews": "900+ reviews",
+      "oneliner": "De beste allround 55 inch oled voor films, sport en gamen.",
+      "specs": {
+        "Paneel": "OLED evo",
+        "Verversing": "144 Hz",
+        "HDR": "Dolby Vision, HDR10, HLG",
+        "Smart-tv": "webOS 25",
+        "Jaar": "2025"
+      },
+      "pros": [
+        "Perfect zwart en oneindig contrast",
+        "Vier HDMI 2.1-poorten tot 144 Hz",
+        "Dolby Vision en Dolby Atmos",
+        "Heel lage inputlag voor gamers"
+      ],
+      "cons": [
+        "Geen HDR10+",
+        "Minder fel dan een goede miniled in een zonnige kamer"
+      ],
+      "ideal": "Wie één tv wil die alles goed doet, van Netflix in een donkere kamer tot gamen op een PS5.",
+      "text": "De LG C5 is al jaren de oled waar andere 55 inch tv's zich aan meten. De 2025-versie doet daar nog een schepje bovenop. Het OLED evo-paneel geeft echt zwart, waardoor films en series in een donkere kamer veel diepte krijgen. De α9 Gen8-processor schaalt gewone tv-zenders en YouTube netjes op naar 4K en houdt kleuren natuurlijk.\n\nVoor gamers is dit een van de beste tv's die je kunt kopen. Alle vier HDMI-poorten zijn HDMI 2.1, met 144 Hz, VRR, G-Sync en FreeSync Premium. De inputlag is zo laag dat je hem met een PC of PS5 nauwelijks merkt. Het webOS 25-systeem is snel en heeft alle Nederlandse apps, zoals NPO Start, Videoland en Ziggo GO. Kopers op bol geven hem 5 sterren en noemen vooral het beeld en de kijkhoeken. Het enige echte minpunt is dat hij in een felle woonkamer minder helder is dan een topminiled.",
+      "ean": "8806096361924",
+      "bol_title": "LG C5 OLED55C56LB - 55 inch - 4K OLED Evo - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/lg-c5-oled55c56lb-55-inch-4k-oled-evo-2025/9300000229413535/",
+      "image": "https://media.s-bol.com/rxgkOlMjBQ7p/wpz1y7M/550x343.jpg",
+      "synced": "2026-11-05",
+      "ph": {
+        "2026-10-16": 1099.0,
+        "2026-10-17": 1099.0,
+        "2026-10-18": 1099.0,
+        "2026-10-19": 1099.0,
+        "2026-10-20": 1099.0,
+        "2026-10-21": 1099.0,
+        "2026-10-23": 1099.0,
+        "2026-10-24": 1099.0,
+        "2026-10-25": 1099.0,
+        "2026-10-26": 1099.0,
+        "2026-10-27": 1071.5,
+        "2026-10-28": 1071.5,
+        "2026-10-29": 1071.5,
+        "2026-10-30": 1071.5,
+        "2026-10-31": 1071.5,
+        "2026-11-01": 1040.88,
+        "2026-11-02": 1040.9,
+        "2026-11-03": 1040.9,
+        "2026-11-04": 1040.88,
+        "2026-11-05": 1040.88
+      },
+      "low_price": 1040.88,
+      "prev_price": 1040.9,
+      "prev_date": "2026-11-03"
+    },
+    {
+      "brand": "LG",
+      "name": "B5 OLED55B56LA",
+      "price": 799.0,
+      "score": 9.1,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "600+ reviews",
+      "oneliner": "Oled-beeldkwaliteit voor een prijs onder de 900 euro.",
+      "specs": {
+        "Paneel": "OLED",
+        "Verversing": "120 Hz",
+        "HDR": "Dolby Vision, HDR10, HLG",
+        "Smart-tv": "webOS 25",
+        "Jaar": "2025"
+      },
+      "pros": [
+        "Oled-contrast voor een middenklasseprijs",
+        "120 Hz met VRR voor gamen",
+        "Zelfde webOS als de duurdere modellen"
+      ],
+      "cons": [
+        "Maar twee HDMI 2.1-poorten",
+        "Minder piekhelderheid dan de C5",
+        "Eenvoudigere processor"
+      ],
+      "ideal": "Wie de stap naar oled wil maken zonder het budget van een C5 of G5.",
+      "text": "De LG B5 is de goedkoopste manier om een oled van een topmerk in huis te halen. Je krijgt hetzelfde perfecte zwart en de brede kijkhoeken als bij de duurdere C5, voor ongeveer 250 euro minder. Voor films en series in de avond is het verschil met de C5 klein. Overdag in een lichte kamer merk je dat hij minder fel wordt, omdat de B5 geen evo-paneel heeft.\n\nDe α8-processor is een stap lager, maar schaalt HD-beeld nog altijd netjes op. Voor gamers heeft hij 120 Hz, VRR en ALLM, al zijn maar twee van de vier HDMI-poorten van het type 2.1. Heb je een PS5 en een soundbar met eARC, dan kom je daar prima mee uit. Gebruikers op bol geven hem 5 sterren en zijn vooral verrast door het contrast voor dit geld. Voor de meeste huiskamers is dit de slimste oled-koop van 2026.",
+      "ean": "8806096360576",
+      "bol_title": "LG B5 OLED55B56LA - 55 inch - 4K OLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/lg-b5-oled55b56la-55-inch-4k-oled-2025/9300000229178469/",
+      "image": "https://media.s-bol.com/oryjWjxALw2k/jRjPLg4/550x349.jpg",
+      "synced": "2026-11-05",
+      "ph": {
+        "2026-10-13": 849.0,
+        "2026-10-14": 849.0,
+        "2026-10-15": 849.0,
+        "2026-10-16": 849.0,
+        "2026-10-17": 849.0,
+        "2026-10-18": 849.0,
+        "2026-10-19": 849.0,
+        "2026-10-20": 849.0,
+        "2026-10-21": 849.0,
+        "2026-10-23": 849.0,
+        "2026-10-24": 849.0,
+        "2026-10-25": 849.0,
+        "2026-10-26": 849.0,
+        "2026-10-27": 849.0,
+        "2026-10-28": 849.0,
+        "2026-10-29": 849.0,
+        "2026-10-30": 849.0,
+        "2026-10-31": 849.0,
+        "2026-11-01": 849.0,
+        "2026-11-02": 849.0,
+        "2026-11-03": 849.0,
+        "2026-11-04": 826.5,
+        "2026-11-05": 799.0
+      },
+      "low_price": 799.0,
+      "prev_price": 826.5,
+      "prev_date": "2026-11-04"
+    },
+    {
+      "brand": "LG",
+      "name": "G5 OLED55G56LS",
+      "price": 1299.0,
+      "score": 9.3,
+      "label": "Beste premium",
+      "reviews": "400+ reviews",
+      "oneliner": "De helderste oled van LG met een strak, plat design.",
+      "specs": {
+        "Paneel": "OLED evo Max",
+        "Verversing": "165 Hz",
+        "HDR": "Dolby Vision, HDR10, HLG",
+        "Smart-tv": "webOS 25",
+        "Jaar": "2025"
+      },
+      "pros": [
+        "Veel feller dan andere oleds",
+        "Tot 165 Hz voor gamers",
+        "Plat design dat strak tegen de muur hangt",
+        "Uitstekende antireflectiecoating"
+      ],
+      "cons": [
+        "Geen voet meegeleverd bij deze versie",
+        "Geen HDR10+"
+      ],
+      "ideal": "Wie het beste oled-beeld wil, ook in een lichte woonkamer, met de tv aan de muur.",
+      "text": "De LG G5 is de topoled van LG en lost het grootste nadeel van oled op: helderheid. Het nieuwe paneel met Primary RGB Tandem-techniek haalt flink hogere piekhelderheid dan de C5, waardoor HDR-films meer impact hebben en het beeld overdag in een lichte kamer overeind blijft. De antireflectielaag houdt lampen en ramen goed buiten beeld.\n\nDe α11 Gen2-processor is de krachtigste van LG en doet uitstekend werk met beweging en opschalen. Gamers krijgen vier HDMI 2.1-poorten en een verversing tot 165 Hz, met VRR en G-Sync. Het design is gemaakt om aan de muur te hangen: hij is plat aan de achterkant en hangt bijna zonder kier. Een voet zit niet in de doos, die koop je los. Kopers geven hem gemiddeld 4,5 sterren. Voor 1.299 euro is hij nu verrassend dicht bij de C5 geprijsd, wat hem de beste premiumkeuze maakt.",
+      "ean": "8806096363683",
+      "bol_title": "LG G5 OLED55G56LS - 55 inch - 4K OLED Evo Max - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/lg-g5-oled55g56ls-55-inch-4k-oled-evo-2025/9300000229178465/",
+      "image": "https://media.s-bol.com/mpyYWq6Dwyz9/kRkPDjv/550x341.jpg",
+      "synced": "2026-11-05",
+      "ph": {
+        "2026-10-16": 1299.0,
+        "2026-10-17": 1299.0,
+        "2026-10-18": 1299.0,
+        "2026-10-19": 1299.0,
+        "2026-10-20": 1299.0,
+        "2026-10-21": 1379.0,
+        "2026-10-23": 1379.0,
+        "2026-10-24": 1349.0,
+        "2026-10-25": 1379.0,
+        "2026-10-26": 1349.0,
+        "2026-10-27": 1379.0,
+        "2026-10-28": 1349.0,
+        "2026-10-29": 1349.0,
+        "2026-10-30": 1349.0,
+        "2026-10-31": 1299.0,
+        "2026-11-01": 1349.0,
+        "2026-11-02": 1299.0,
+        "2026-11-03": 1299.0,
+        "2026-11-04": 1299.0,
+        "2026-11-05": 1299.0
+      },
+      "low_price": 1299.0,
+      "prev_price": 1349.0,
+      "prev_date": "2026-11-01"
+    },
+    {
+      "brand": "Sony",
+      "name": "Bravia 6 55 inch",
+      "price": 1299.0,
+      "score": 9.0,
+      "label": null,
+      "reviews": "5,0/5 op bol",
+      "oneliner": "OLED van Sony met de natuurlijkste kleuren in deze lijst.",
+      "specs": {
+        "Paneel": "OLED",
+        "Verversing": "120 Hz",
+        "HDR": "Dolby Vision, HDR10, HLG",
+        "Smart-tv": "Google TV",
+        "Jaar": "2026"
+      },
+      "pros": [
+        "Natuurlijke kleuren en rustige beweging",
+        "Sterk in het opschalen van gewone tv",
+        "Google TV met alle apps",
+        "Goede ingebouwde klank"
+      ],
+      "cons": [
+        "Maar twee HDMI 2.1-poorten",
+        "Duurder dan een LG OLED met vergelijkbaar paneel"
+      ],
+      "ideal": "Filmliefhebbers die natuurlijk beeld boven alles stellen.",
+      "text": "De Sony Bravia 6 is de nieuwe OLED-tv van Sony uit 2026. Zoals elke OLED geeft hij perfect zwart en oneindig contrast. In een donkere kamer kijk je naar beeld waar zwarte balken echt verdwijnen. Waar Sony zich onderscheidt, is de beeldverwerking. Huidtinten zien er natuurlijk uit en beweging is vloeiend zonder het kunstmatige soap-effect.\n\nDie processor helpt ook bij gewone tv. Zenders en streams in lagere kwaliteit worden netjes opgeschaald naar 4K. Met Google TV heb je alle grote streamingdiensten bij de hand. Dolby Vision en Dolby Atmos zorgen dat films tot hun recht komen. Voor gaming heeft hij 120 Hz en VRR, maar slechts twee HDMI 2.1-poorten. Met twee consoles en een soundbar wordt dat krap. Op bol krijgt hij de volle vijf sterren. Voor rond de 1.500 euro koop je een OLED voor wie vooral films en series kijkt.",
+      "ean": "4548736182851",
+      "bol_title": "Sony Bravia 6 - 55 inch - 4K OLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/sony-bravia-6-55-inch-4k-oled-2026-smart-tv/9300000360795475/",
+      "image": "https://media.s-bol.com/3LPKEPrGkEBO/A6ABKMj/550x367.jpg",
+      "synced": "2026-11-05",
+      "ph": {
+        "2026-10-24": 1499.0,
+        "2026-10-25": 1499.0,
+        "2026-10-26": 1549.0,
+        "2026-10-27": 1499.0,
+        "2026-10-28": 1499.0,
+        "2026-10-29": 1499.0,
+        "2026-10-30": 1499.0,
+        "2026-10-31": 1499.0,
+        "2026-11-01": 1499.0,
+        "2026-11-02": 1299.0,
+        "2026-11-03": 1299.0,
+        "2026-11-04": 1299.0,
+        "2026-11-05": 1299.0
+      },
+      "low_price": 1299.0,
+      "prev_price": 1499.0,
+      "prev_date": "2026-11-01"
+    },
+    {
+      "brand": "Philips",
+      "name": "55OLED811 Ambilight",
+      "price": 1499.0,
+      "score": 9.0,
+      "label": null,
+      "reviews": "nieuw model",
+      "oneliner": "Oled met driezijdig Ambilight voor een groter beeldgevoel.",
+      "specs": {
+        "Paneel": "OLED",
+        "Verversing": "120 Hz, games tot 165 Hz",
+        "HDR": "Dolby Vision, HDR10+, HLG",
+        "Smart-tv": "Smart TV met streamingapps",
+        "Jaar": "2026"
+      },
+      "pros": [
+        "Driezijdig Ambilight",
+        "Ondersteunt zowel Dolby Vision als HDR10+",
+        "VRR en tot 165 Hz voor gamers",
+        "Vier HDMI 2.1-poorten volgens testsites"
+      ],
+      "cons": [
+        "Ambilight werkt alleen goed op een lichte muur",
+        "Nog geen beoordelingen op bol"
+      ],
+      "ideal": "Wie een oled wil met de sfeer van Ambilight, vooral in de avonduren.",
+      "text": "De Philips 55OLED811 is een oled met een unieke extra: Ambilight. Aan drie kanten van de tv zitten leds die de kleuren van het beeld op de muur doortrekken. Daardoor lijkt het scherm groter en is kijken in het donker minder vermoeiend voor je ogen. Hij is in 2026 verschenen als opvolger van de 55OLED810.\n\nOok los van Ambilight is dit een interessante 55 inch tv. Het oled-paneel geeft diep zwart. Hij ondersteunt zowel Dolby Vision als HDR10+, wat bij LG en Sony ontbreekt, zodat je bij Netflix en Prime Video het beste HDR-formaat krijgt. Gamers krijgen VRR en beeld tot 165 Hz. Testsites noemen vier HDMI 2.1-poorten. Omdat het model nieuw is, heeft hij op bol nog geen beoordelingen. Let op dat Ambilight het mooist werkt op een lichte, vlakke muur.",
+      "ean": "8718863052044",
+      "bol_title": "Philips 55OLED811 - 55 inch - 4K OLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/philips-55oled811-12-55-inch-4k-oled-2026-smart-tv/9300000342039426/",
+      "image": "https://media.s-bol.com/D4Ak1nONRQQK/K1Er83l/550x326.jpg",
+      "ph": {
+        "2026-11-02": 1525.78,
+        "2026-11-03": 1499.0,
+        "2026-11-04": 1499.0,
+        "2026-11-05": 1499.0
+      },
+      "low_price": 1499.0,
+      "synced": "2026-11-05",
+      "prev_price": 1525.78,
+      "prev_date": "2026-11-02"
+    },
+    {
+      "brand": "Sony",
+      "name": "Bravia 5 55 inch",
+      "price": 999.0,
+      "score": 8.7,
+      "label": null,
+      "reviews": "250+ reviews",
+      "oneliner": "Felle miniled met Sony-beeldverwerking voor lichte kamers.",
+      "specs": {
+        "Paneel": "Mini LED",
+        "Verversing": "120 Hz",
+        "HDR": "Dolby Vision, HDR10, HLG",
+        "Smart-tv": "Google TV",
+        "Jaar": "2025"
+      },
+      "pros": [
+        "Heel fel, ideaal voor een zonnige kamer",
+        "Goede local dimming met Mini LED",
+        "Sony-beeldverwerking en Google TV"
+      ],
+      "cons": [
+        "Kijkhoeken minder goed dan oled",
+        "Lichte halo's rond ondertitels in het donker"
+      ],
+      "ideal": "Wie een felle tv zoekt voor een lichte woonkamer met veel ramen.",
+      "text": "De Sony Bravia 5 gebruikt Mini LED in plaats van oled. Duizenden kleine leds achter het scherm geven veel meer licht, waardoor deze tv overdag in een lichte kamer met veel ramen beter zichtbaar blijft dan een oled. Dankzij de local dimming worden donkere delen van het beeld ook echt donker, al haalt hij het perfecte zwart van oled niet.\n\nSony's XR-processor zorgt voor natuurlijke kleuren en goed opschalen van tv-zenders en streams. Bij sport blijft beweging rustig. Google TV geeft je alle Nederlandse apps en Chromecast is ingebouwd. Voor gamers zijn er twee HDMI 2.1-poorten met 120 Hz en VRR. Het nadeel van Mini LED is dat je in het donker soms een lichte gloed rond witte tekst ziet en dat de kijkhoeken smaller zijn. Kopers op bol geven hem 4,6 sterren en prijzen de helderheid.",
+      "ean": "4548736171367",
+      "bol_title": "Sony Bravia 5 - 55 inch - 4K XR | MiniLED - 2025",
+      "url": "https://www.bol.com/nl/nl/p/sony-bravia-5-55-inch-4k-miniled-2025/9300000228487622/",
+      "image": "https://media.s-bol.com/JmQk5qmqJzyD/VP5N6G9/550x333.jpg",
+      "synced": "2026-11-05",
+      "ph": {
+        "2026-10-16": 999.0,
+        "2026-10-17": 999.0,
+        "2026-10-18": 999.0,
+        "2026-10-19": 999.0,
+        "2026-10-20": 999.0,
+        "2026-10-21": 999.0,
+        "2026-10-23": 999.0,
+        "2026-10-24": 999.0,
+        "2026-10-25": 999.0,
+        "2026-10-26": 999.0,
+        "2026-10-27": 999.0,
+        "2026-10-28": 999.0,
+        "2026-10-29": 999.0,
+        "2026-10-30": 999.0,
+        "2026-10-31": 999.0,
+        "2026-11-01": 999.0,
+        "2026-11-02": 999.0,
+        "2026-11-03": 999.0,
+        "2026-11-04": 999.0,
+        "2026-11-05": 999.0
+      },
+      "low_price": 999.0
+    },
+    {
+      "brand": "Samsung",
+      "name": "The Frame Pro QE55LS03H",
+      "price": 1449.0,
+      "score": 8.4,
+      "label": null,
+      "reviews": "bol-reviews beperkt",
+      "oneliner": "Tv die als schilderij aan de muur hangt.",
+      "specs": {
+        "Paneel": "Neo QLED (mini-led)",
+        "Verversing": "144 Hz",
+        "HDR": "HDR10, HDR10+, HLG",
+        "Smart-tv": "Tizen",
+        "Jaar": "2026"
+      },
+      "pros": [
+        "Art Mode toont kunst als de tv uit staat",
+        "Mat scherm zonder spiegelingen",
+        "Draadloze One Connect-box",
+        "Hangt vlak tegen de muur"
+      ],
+      "cons": [
+        "Geen Dolby Vision",
+        "Duur voor de beeldkwaliteit"
+      ],
+      "ideal": "Wie een tv wil die opgaat in het interieur.",
+      "text": "De Samsung The Frame Pro is een tv voor wie een zwart scherm in de woonkamer lelijk vindt. Zet je hem uit, dan toont hij in Art Mode een schilderij of foto. Het matte scherm voorkomt spiegelingen, waardoor het echt op een ingelijst kunstwerk lijkt. Een sensor past de helderheid aan het licht in de kamer aan.\n\nDe Pro-versie heeft een mini-led-paneel. Dat geeft meer helderheid en beter contrast dan de oudere Frame. Bij 144 Hz is hij ook prima om op te gamen. De aansluitingen zitten in een losse One Connect-box die draadloos met de tv praat. Aan de muur hangt dus alleen een stroomkabel. Je kunt de rand vervangen door een lijst in hout of wit. Dolby Vision ontbreekt wel. Voor puur beeld krijg je bij een OLED meer voor je geld. Kies hem als het uiterlijk minstens zo belangrijk is als het beeld. Hij kost rond de 1.500 euro.",
+      "ean": "8806099242800",
+      "bol_title": "Samsung The Frame Pro QE55LS03H - 55 Inch - 4K Neo QLED - 2026",
+      "url": "https://www.bol.com/nl/nl/p/samsung-qe55ls03hwux-the-frame-pro-55-inch/9300000284690245/",
+      "image": "https://media.s-bol.com/ZJ1B4rxKVrm6/D9DKNpq/550x319.jpg",
+      "synced": "2026-11-05",
+      "ph": {
+        "2026-10-20": 1549.0,
+        "2026-10-21": 1499.0,
+        "2026-10-23": 1499.0,
+        "2026-10-24": 1499.0,
+        "2026-10-25": 1499.0,
+        "2026-10-26": 1499.0,
+        "2026-10-27": 1499.0,
+        "2026-10-28": 1449.0,
+        "2026-10-29": 1449.0,
+        "2026-10-30": 1449.0,
+        "2026-10-31": 1449.0,
+        "2026-11-01": 1449.0,
+        "2026-11-02": 1449.0,
+        "2026-11-03": 1449.0,
+        "2026-11-04": 1449.0,
+        "2026-11-05": 1449.0
+      },
+      "low_price": 1449.0,
+      "prev_price": 1499.0,
+      "prev_date": "2026-10-27"
+    },
+    {
+      "brand": "Hisense",
+      "name": "55U7Q",
+      "price": 650.0,
+      "score": 8.6,
+      "label": null,
+      "reviews": "500+ reviews",
+      "oneliner": "Felle miniled met 144 Hz voor een middenklasseprijs.",
+      "specs": {
+        "Paneel": "Mini LED",
+        "Verversing": "144 Hz",
+        "HDR": "Dolby Vision IQ, HDR10+",
+        "Smart-tv": "VIDAA",
+        "Jaar": "2025"
+      },
+      "pros": [
+        "Veel helderheid voor de prijs",
+        "144 Hz en VRR voor gamers",
+        "Ondersteunt Dolby Vision en HDR10+"
+      ],
+      "cons": [
+        "VIDAA heeft minder apps dan Google TV",
+        "Kijkhoeken beperkt"
+      ],
+      "ideal": "Gamers en kijkers met een middenbudget die een felle, moderne tv willen.",
+      "text": "De Hisense U7Q laat zien hoeveel tv je in 2026 voor 650 euro krijgt. Het Mini LED-paneel met local dimming is fel genoeg voor HDR en voor een lichte kamer. Zwart wordt dieper dan bij een gewone led-tv. Hij ondersteunt zowel Dolby Vision IQ als HDR10+, zodat je bij elke streamingdienst het juiste HDR-formaat krijgt.\n\nVoor gamers is het een aantrekkelijke koop. Het paneel draait op 144 Hz en ondersteunt VRR, FreeSync Premium Pro en ALLM, waardoor games op een PS5, Xbox of PC soepel lopen. Het geluid is voor een tv redelijk vol. Hisense gebruikt het eigen VIDAA-systeem. Netflix, Disney+, Prime Video, YouTube en NPO Start zijn er, maar het aanbod kleinere apps is kleiner dan bij Google TV. Kopers op bol geven hem 4,4 sterren en noemen de prijs-kwaliteit uitstekend. De kijkhoeken zijn wel beperkt.",
+      "ean": "6942351421032",
+      "bol_title": "Hisense 55U7Q - 55 inch - 4K MiniLED - 144hz - 2025",
+      "url": "https://www.bol.com/nl/nl/p/55u7q/9300000227859966/",
+      "image": "https://media.s-bol.com/7P19zENzNkjy/798Ey9G/550x346.jpg",
+      "synced": "2026-11-05",
+      "ph": {
+        "2026-10-16": 650.0,
+        "2026-10-17": 650.0,
+        "2026-10-18": 650.0,
+        "2026-10-19": 650.0,
+        "2026-10-20": 650.0,
+        "2026-10-21": 650.0,
+        "2026-10-23": 650.0,
+        "2026-10-24": 650.0,
+        "2026-10-25": 650.0,
+        "2026-10-26": 650.0,
+        "2026-10-27": 650.0,
+        "2026-10-28": 650.0,
+        "2026-10-29": 650.0,
+        "2026-10-30": 650.0,
+        "2026-10-31": 650.0,
+        "2026-11-01": 650.0,
+        "2026-11-02": 650.0,
+        "2026-11-03": 650.0,
+        "2026-11-04": 650.0,
+        "2026-11-05": 650.0
+      },
+      "low_price": 650.0
+    },
+    {
+      "brand": "Hisense",
+      "name": "55E7S PRO",
+      "price": 529.0,
+      "score": 8.3,
+      "label": null,
+      "reviews": "bol-score 4,8 van 5",
+      "oneliner": "Betaalbare Hi-QLED met native 144 Hz voor gamers.",
+      "specs": {
+        "Paneel": "Hi-QLED",
+        "Verversing": "144 Hz",
+        "HDR": "Dolby Vision, HDR10+",
+        "Smart-tv": "VIDAA",
+        "Jaar": "2026"
+      },
+      "pros": [
+        "Native 144 Hz voor gamers",
+        "Levendige kleuren met Hi-QLED",
+        "Dolby Vision en HDR10+",
+        "Ingebouwde subwoofer"
+      ],
+      "cons": [
+        "Geen mini-led, zwart is grijzig",
+        "Minder fel dan een miniled"
+      ],
+      "ideal": "Wie een goede gametv zoekt voor een klein budget.",
+      "text": "De Hisense 55E7S PRO is het model van 2026 en de opvolger van de E7Q PRO. Het Hi-QLED-paneel geeft levendige kleuren en het 4K-beeld is scherp bij streams en films. Dolby Vision en HDR10+ worden allebei ondersteund, iets wat je in deze prijsklasse niet altijd vindt. Dolby Atmos en een ingebouwde subwoofer zorgen voor voller geluid dan je van een tv rond 530 euro verwacht.\n\nDe grootste troef is de gamemodus. Het paneel draait native op 144 Hz, met VRR en ALLM, zodat de tv automatisch naar de snelste stand schakelt als je je console aanzet. Daarmee is hij sneller dan de meeste tv's rond 500 euro. Hij heeft geen mini-led, waardoor zwart in een donkere kamer eerder donkergrijs oogt dan bij de U7Q of een oled. VIDAA start snel op en heeft de grote streamingapps. Kopers op bol geven hem gemiddeld 4,8 sterren en zijn vooral tevreden over de soepele beelden bij gamen en sport.",
+      "ean": "6942351432779",
+      "bol_title": "Hisense 55E7S PRO SmartTV - 55 inch - 4K Hi-QLED - 2026 - Native 144Hz Game Mode - Hi-QLED Colour - Built-in Subwoofer - AI Picture - AI Smooth Motion - AMD FreeSync Premium - Dolby Vision Atmos",
+      "url": "https://www.bol.com/nl/nl/p/hisense-55e7s-pro-smarttv-55-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000269685068/",
+      "image": "https://media.s-bol.com/mv623VM2zKQG/k26vrgY/550x369.jpg",
+      "ph": {
+        "2026-11-03": 529.0,
+        "2026-11-04": 529.0,
+        "2026-11-05": 529.0
+      },
+      "low_price": 529.0,
+      "synced": "2026-11-05"
+    },
+    {
+      "brand": "TCL",
+      "name": "55C69KS",
+      "price": 419.0,
+      "score": 7.9,
+      "label": null,
+      "reviews": "reviews op bol",
+      "oneliner": "Goedkoopste tv in de lijst, toch met Mini LED.",
+      "specs": {
+        "Paneel": "QD-Mini LED",
+        "Verversing": "VRR via HDMI 2.1",
+        "HDR": "Dolby Vision, HDR10+, HLG",
+        "Smart-tv": "Google TV",
+        "Jaar": "2025"
+      },
+      "pros": [
+        "Laagste prijs in deze lijst",
+        "Mini LED voor dieper zwart",
+        "Dolby Vision en HDR10+",
+        "Google TV met alle apps"
+      ],
+      "cons": [
+        "Buitenlands model, nog geen reviews op bol",
+        "Contrast haalt het niet bij oled",
+        "Energielabel F"
+      ],
+      "ideal": "Wie een grote tv zoekt voor de slaapkamer of een klein budget en toch iets beter contrast wil.",
+      "text": "De TCL 55C69KS is met 419 euro de goedkoopste tv in deze lijst. Toch zit er meer techniek in dan je voor dat geld verwacht. Achter het 4K-scherm van 55 inch zit Mini LED-verlichting die delen van het beeld kan dimmen. Samen met de quantum dots geeft dat rijkere kleuren en dieper zwart dan een gewone led-tv. Hij ondersteunt Dolby Vision, HDR10+ en HLG.\n\nGoogle TV heeft alle bekende apps zoals Netflix, Videoland en NPO Start en met de afstandsbediening spreek je zoekopdrachten in. Via HDMI 2.1 met VRR sluit je een PlayStation 5 of Xbox aan en eARC stuurt het geluid naar een soundbar. Naast de oleds bovenaan blijft het contrast wel achter. Het gaat om een buitenlands model in een metallic kleur en bol toont nog geen reviews, dus de ervaring van kopers is nog onbekend. Voor de slaapkamer of als eerste grote tv is dit een slimme keuze.",
+      "ean": "5901292527297",
+      "bol_title": "TCL C69KS 55C69KS tv 139,7 cm (55\") 4K Ultra HD Smart TV Wifi Metallic",
+      "url": "https://www.bol.com/nl/nl/p/tcl-c69ks-55c69ks-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-metallic/9300000226905313/",
+      "image": "https://media.s-bol.com/Xv4KDl7x33wv/31mWnlQ/550x388.jpg",
+      "ph": {
+        "2026-10-25": 419.0,
+        "2026-10-26": 419.0,
+        "2026-10-27": 419.0,
+        "2026-10-28": 419.0,
+        "2026-10-29": 419.0,
+        "2026-10-30": 419.0,
+        "2026-10-31": 419.0,
+        "2026-11-01": 419.0,
+        "2026-11-02": 419.0,
+        "2026-11-03": 419.0,
+        "2026-11-04": 419.0,
+        "2026-11-05": 419.0
+      },
+      "low_price": 419.0,
+      "synced": "2026-11-05"
+    }
+  ],
+  "guide": [
+    {
+      "h": "Oled, Mini LED of QLED?",
+      "p": "Oled heeft pixels die zelf licht geven, waardoor zwart echt zwart is en het contrast oneindig. Dat is ideaal voor films in een donkere kamer. Mini LED gebruikt duizenden kleine leds achter het scherm en wordt veel feller, handig in een lichte kamer met veel ramen. QLED is een led-tv met Quantum Dot-filter voor mooiere kleuren, maar zonder het contrast van oled of miniled. Gewone led is het goedkoopst en prima als tweede tv."
+    },
+    {
+      "h": "Is 55 inch groot genoeg?",
+      "p": "Voor een kijkafstand van ongeveer 2 tot 2,5 meter is 55 inch een goede maat bij 4K. Zit je verder dan 3 meter van de tv, dan kan 65 inch prettiger zijn. Meet ook de breedte van je tv-meubel: een 55 inch tv is ongeveer 123 centimeter breed. Bij een tv met pootjes aan de zijkanten moet het meubel minstens zo breed zijn."
+    },
+    {
+      "h": "HDR: Dolby Vision of HDR10+?",
+      "p": "HDR geeft fellere lichten en meer detail in donkere delen van het beeld. Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video ondersteunt ook HDR10+. LG en Sony hebben alleen Dolby Vision, Samsung alleen HDR10+. Philips en Hisense ondersteunen beide formaten. Belangrijker dan het formaat is hoe fel de tv wordt, want een donkere tv haalt weinig uit HDR."
+    },
+    {
+      "h": "Gamen op je tv",
+      "p": "Heb je een PS5, Xbox Series X of gaming-pc, let dan op HDMI 2.1, VRR en een verversing van 120 Hz of hoger. Dan lopen games soepel en zonder haperingen. Een lage inputlag zorgt dat je bediening direct reageert. Let ook op het aantal HDMI 2.1-poorten: met twee consoles en een soundbar heb je er snel drie nodig."
+    },
+    {
+      "h": "Smart-tv-systemen",
+      "p": "Google TV (Sony, Philips, TCL) heeft het grootste app-aanbod en ingebouwde Chromecast. LG gebruikt webOS en Samsung Tizen, allebei snel en met alle grote apps zoals Netflix, Videoland, NPO Start en Ziggo GO. Hisense gebruikt VIDAA, dat vlot werkt maar minder kleinere apps heeft. Mis je een app, dan los je dat op met een losse streamingstick."
+    },
+    {
+      "h": "Vergeet het geluid niet",
+      "p": "Dunne tv's hebben weinig ruimte voor goede speakers. Stemmen klinken daardoor vaak dun en explosies missen kracht. Een soundbar met eARC-aansluiting is de eenvoudigste verbetering, vanaf ongeveer 200 euro hoor je al een groot verschil. Sony is een uitzondering met speakers die het geluid via het scherm zelf afgeven."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wat is de beste 55 inch tv van 2026?",
+      "a": "Op basis van onze vergelijking is de LG C5 OLED55C56LB de beste 55 inch tv van 2026. Hij combineert oled-beeld met perfect zwart, vier HDMI 2.1-poorten tot 144 Hz en het snelle webOS. De LG B5 is de beste prijs-kwaliteit."
+    },
+    {
+      "q": "Wat kost een goede 55 inch tv?",
+      "a": "Een goede 55 inch tv kost in 2026 tussen de 550 en 1.100 euro. Rond 550 tot 650 euro koop je een prima QLED of miniled, vanaf ongeveer 850 euro een oled. Onder de 400 euro vind je eenvoudige led-tv's die geschikt zijn als tweede tv."
+    },
+    {
+      "q": "Is oled geschikt voor een lichte woonkamer?",
+      "a": "Moderne oleds zoals de LG G5 worden fel genoeg voor de meeste woonkamers. In een kamer met veel direct zonlicht is een Mini LED-tv zoals de Sony Bravia 5 of Hisense U7Q wel de betere keuze, omdat die veel feller wordt."
+    },
+    {
+      "q": "Kan een oled-tv inbranden?",
+      "a": "Bij normaal gebruik is inbranden zeldzaam geworden. Moderne oleds verschuiven het beeld licht en verversen de pixels automatisch als de tv uit staat. Kijk je urenlang per dag naar één zender met een vast logo, dan is het risico groter."
+    },
+    {
+      "q": "Hoe ver moet ik van een 55 inch tv zitten?",
+      "a": "Voor een 55 inch 4K-tv is een kijkafstand van ongeveer 2 tot 2,5 meter ideaal. Zo zie je alle details zonder losse pixels te zien. Zit je verder dan 3 meter, overweeg dan een 65 inch tv."
+    },
+    {
+      "q": "Welke 55 inch tv is het beste om te gamen?",
+      "a": "De LG C5 en LG G5 zijn de beste gametv's dankzij vier HDMI 2.1-poorten, VRR en 144 tot 165 Hz. Op een kleiner budget is de Hisense 55E7S PRO met native 144 Hz een sterke keuze."
+    }
+  ],
+  "published": "2026-10-16",
+  "eigen_merk": {
+    "merk": "Halolume",
+    "name": "Halolume tv-ledstrip met zone-sensor",
+    "price": 29.99,
+    "url": "https://halolume.nl/?utm_source=watkoopik&utm_medium=eigen-merk&utm_campaign=beste-tv-55-inch#kopen",
+    "image": "https://halolume.nl/img/kamer-aan.webp",
+    "knop": "Bekijk Halolume",
+    "text": "Haal meer uit je nieuwe 55 inch tv met onze eigen ledstrip. Een kleine zone-sensor bovenop je tv leest het beeld, elke kant van de strip kleurt mee met dat deel van het scherm. Werkt met elke bron: apps, decoder of console. Zelfklevend en via USB aan op je tv.",
+    "punten": [
+      "4 of 5 meter, op maat te knippen",
+      "Gratis verzending in Nederland en België",
+      "30 dagen bedenktijd",
+      "Duo-set voor 2 kamers: 49,99 euro"
+    ]
   },
-  {
-   "brand": "LG",
-   "name": "B5 OLED55B56LA",
-   "price": 826.5,
-   "score": 9.1,
-   "label": "Beste prijs-kwaliteit",
-   "reviews": "600+ reviews",
-   "oneliner": "Oled-beeldkwaliteit voor een prijs onder de 900 euro.",
-   "specs": {
-    "Paneel": "OLED",
-    "Verversing": "120 Hz",
-    "HDR": "Dolby Vision, HDR10, HLG",
-    "Smart-tv": "webOS 25",
-    "Jaar": "2025"
-   },
-   "pros": [
-    "Oled-contrast voor een middenklasseprijs",
-    "120 Hz met VRR voor gamen",
-    "Zelfde webOS als de duurdere modellen"
-   ],
-   "cons": [
-    "Maar twee HDMI 2.1-poorten",
-    "Minder piekhelderheid dan de C5",
-    "Eenvoudigere processor"
-   ],
-   "ideal": "Wie de stap naar oled wil maken zonder het budget van een C5 of G5.",
-   "text": "De LG B5 is de goedkoopste manier om een oled van een topmerk in huis te halen. Je krijgt hetzelfde perfecte zwart en de brede kijkhoeken als bij de duurdere C5, voor ongeveer 250 euro minder. Voor films en series in de avond is het verschil met de C5 klein. Overdag in een lichte kamer merk je dat hij minder fel wordt, omdat de B5 geen evo-paneel heeft.\n\nDe α8-processor is een stap lager, maar schaalt HD-beeld nog altijd netjes op. Voor gamers heeft hij 120 Hz, VRR en ALLM, al zijn maar twee van de vier HDMI-poorten van het type 2.1. Heb je een PS5 en een soundbar met eARC, dan kom je daar prima mee uit. Gebruikers op bol geven hem 5 sterren en zijn vooral verrast door het contrast voor dit geld. Voor de meeste huiskamers is dit de slimste oled-koop van 2026.",
-   "ean": "8806096360576",
-   "bol_title": "LG B5 OLED55B56LA - 55 inch - 4K OLED - 2025 - Smart TV",
-   "url": "https://www.bol.com/nl/nl/p/lg-b5-oled55b56la-55-inch-4k-oled-2025/9300000229178469/",
-   "image": "https://media.s-bol.com/oryjWjxALw2k/jRjPLg4/550x349.jpg",
-   "synced": "2026-11-04",
-   "ph": {
-    "2026-10-13": 849.0,
-    "2026-10-14": 849.0,
-    "2026-10-15": 849.0,
-    "2026-10-16": 849.0,
-    "2026-10-17": 849.0,
-    "2026-10-18": 849.0,
-    "2026-10-19": 849.0,
-    "2026-10-20": 849.0,
-    "2026-10-21": 849.0,
-    "2026-10-23": 849.0,
-    "2026-10-24": 849.0,
-    "2026-10-25": 849.0,
-    "2026-10-26": 849.0,
-    "2026-10-27": 849.0,
-    "2026-10-28": 849.0,
-    "2026-10-29": 849.0,
-    "2026-10-30": 849.0,
-    "2026-10-31": 849.0,
-    "2026-11-01": 849.0,
-    "2026-11-02": 849.0,
-    "2026-11-03": 849.0,
-    "2026-11-04": 826.5
-   },
-   "low_price": 826.5,
-   "prev_price": 849.0,
-   "prev_date": "2026-11-03"
-  },
-  {
-   "brand": "LG",
-   "name": "G5 OLED55G56LS",
-   "price": 1299.0,
-   "score": 9.3,
-   "label": "Beste premium",
-   "reviews": "400+ reviews",
-   "oneliner": "De helderste oled van LG met een strak, plat design.",
-   "specs": {
-    "Paneel": "OLED evo Max",
-    "Verversing": "165 Hz",
-    "HDR": "Dolby Vision, HDR10, HLG",
-    "Smart-tv": "webOS 25",
-    "Jaar": "2025"
-   },
-   "pros": [
-    "Veel feller dan andere oleds",
-    "Tot 165 Hz voor gamers",
-    "Plat design dat strak tegen de muur hangt",
-    "Uitstekende antireflectiecoating"
-   ],
-   "cons": [
-    "Geen voet meegeleverd bij deze versie",
-    "Geen HDR10+"
-   ],
-   "ideal": "Wie het beste oled-beeld wil, ook in een lichte woonkamer, met de tv aan de muur.",
-   "text": "De LG G5 is de topoled van LG en lost het grootste nadeel van oled op: helderheid. Het nieuwe paneel met Primary RGB Tandem-techniek haalt flink hogere piekhelderheid dan de C5, waardoor HDR-films meer impact hebben en het beeld overdag in een lichte kamer overeind blijft. De antireflectielaag houdt lampen en ramen goed buiten beeld.\n\nDe α11 Gen2-processor is de krachtigste van LG en doet uitstekend werk met beweging en opschalen. Gamers krijgen vier HDMI 2.1-poorten en een verversing tot 165 Hz, met VRR en G-Sync. Het design is gemaakt om aan de muur te hangen: hij is plat aan de achterkant en hangt bijna zonder kier. Een voet zit niet in de doos, die koop je los. Kopers geven hem gemiddeld 4,5 sterren. Voor 1.299 euro is hij nu verrassend dicht bij de C5 geprijsd, wat hem de beste premiumkeuze maakt.",
-   "ean": "8806096363683",
-   "bol_title": "LG G5 OLED55G56LS - 55 inch - 4K OLED Evo Max - 2025 - Smart TV",
-   "url": "https://www.bol.com/nl/nl/p/lg-g5-oled55g56ls-55-inch-4k-oled-evo-2025/9300000229178465/",
-   "image": "https://media.s-bol.com/mpyYWq6Dwyz9/kRkPDjv/550x341.jpg",
-   "synced": "2026-11-04",
-   "ph": {
-    "2026-10-16": 1299.0,
-    "2026-10-17": 1299.0,
-    "2026-10-18": 1299.0,
-    "2026-10-19": 1299.0,
-    "2026-10-20": 1299.0,
-    "2026-10-21": 1379.0,
-    "2026-10-23": 1379.0,
-    "2026-10-24": 1349.0,
-    "2026-10-25": 1379.0,
-    "2026-10-26": 1349.0,
-    "2026-10-27": 1379.0,
-    "2026-10-28": 1349.0,
-    "2026-10-29": 1349.0,
-    "2026-10-30": 1349.0,
-    "2026-10-31": 1299.0,
-    "2026-11-01": 1349.0,
-    "2026-11-02": 1299.0,
-    "2026-11-03": 1299.0,
-    "2026-11-04": 1299.0
-   },
-   "low_price": 1299.0,
-   "prev_price": 1349.0,
-   "prev_date": "2026-11-01"
-  },
-  {
-   "brand": "Sony",
-   "name": "Bravia 6 55 inch",
-   "price": 1299.0,
-   "score": 9.0,
-   "label": null,
-   "reviews": "5,0/5 op bol",
-   "oneliner": "OLED van Sony met de natuurlijkste kleuren in deze lijst.",
-   "specs": {
-    "Paneel": "OLED",
-    "Verversing": "120 Hz",
-    "HDR": "Dolby Vision, HDR10, HLG",
-    "Smart-tv": "Google TV",
-    "Jaar": "2026"
-   },
-   "pros": [
-    "Natuurlijke kleuren en rustige beweging",
-    "Sterk in het opschalen van gewone tv",
-    "Google TV met alle apps",
-    "Goede ingebouwde klank"
-   ],
-   "cons": [
-    "Maar twee HDMI 2.1-poorten",
-    "Duurder dan een LG OLED met vergelijkbaar paneel"
-   ],
-   "ideal": "Filmliefhebbers die natuurlijk beeld boven alles stellen.",
-   "text": "De Sony Bravia 6 is de nieuwe OLED-tv van Sony uit 2026. Zoals elke OLED geeft hij perfect zwart en oneindig contrast. In een donkere kamer kijk je naar beeld waar zwarte balken echt verdwijnen. Waar Sony zich onderscheidt, is de beeldverwerking. Huidtinten zien er natuurlijk uit en beweging is vloeiend zonder het kunstmatige soap-effect.\n\nDie processor helpt ook bij gewone tv. Zenders en streams in lagere kwaliteit worden netjes opgeschaald naar 4K. Met Google TV heb je alle grote streamingdiensten bij de hand. Dolby Vision en Dolby Atmos zorgen dat films tot hun recht komen. Voor gaming heeft hij 120 Hz en VRR, maar slechts twee HDMI 2.1-poorten. Met twee consoles en een soundbar wordt dat krap. Op bol krijgt hij de volle vijf sterren. Voor rond de 1.500 euro koop je een OLED voor wie vooral films en series kijkt.",
-   "ean": "4548736182851",
-   "bol_title": "Sony Bravia 6 - 55 inch - 4K OLED - 2026 - Smart TV",
-   "url": "https://www.bol.com/nl/nl/p/sony-bravia-6-55-inch-4k-oled-2026-smart-tv/9300000360795475/",
-   "image": "https://media.s-bol.com/3LPKEPrGkEBO/A6ABKMj/550x367.jpg",
-   "synced": "2026-11-04",
-   "ph": {
-    "2026-10-24": 1499.0,
-    "2026-10-25": 1499.0,
-    "2026-10-26": 1549.0,
-    "2026-10-27": 1499.0,
-    "2026-10-28": 1499.0,
-    "2026-10-29": 1499.0,
-    "2026-10-30": 1499.0,
-    "2026-10-31": 1499.0,
-    "2026-11-01": 1499.0,
-    "2026-11-02": 1299.0,
-    "2026-11-03": 1299.0,
-    "2026-11-04": 1299.0
-   },
-   "low_price": 1299.0,
-   "prev_price": 1499.0,
-   "prev_date": "2026-11-01"
-  },
-  {
-   "brand": "Philips",
-   "name": "55OLED811 Ambilight",
-   "price": 1499.0,
-   "score": 9.0,
-   "label": null,
-   "reviews": "nieuw model",
-   "oneliner": "Oled met driezijdig Ambilight voor een groter beeldgevoel.",
-   "specs": {
-    "Paneel": "OLED",
-    "Verversing": "120 Hz, games tot 165 Hz",
-    "HDR": "Dolby Vision, HDR10+, HLG",
-    "Smart-tv": "Smart TV met streamingapps",
-    "Jaar": "2026"
-   },
-   "pros": [
-    "Driezijdig Ambilight",
-    "Ondersteunt zowel Dolby Vision als HDR10+",
-    "VRR en tot 165 Hz voor gamers",
-    "Vier HDMI 2.1-poorten volgens testsites"
-   ],
-   "cons": [
-    "Ambilight werkt alleen goed op een lichte muur",
-    "Nog geen beoordelingen op bol"
-   ],
-   "ideal": "Wie een oled wil met de sfeer van Ambilight, vooral in de avonduren.",
-   "text": "De Philips 55OLED811 is een oled met een unieke extra: Ambilight. Aan drie kanten van de tv zitten leds die de kleuren van het beeld op de muur doortrekken. Daardoor lijkt het scherm groter en is kijken in het donker minder vermoeiend voor je ogen. Hij is in 2026 verschenen als opvolger van de 55OLED810.\n\nOok los van Ambilight is dit een interessante 55 inch tv. Het oled-paneel geeft diep zwart. Hij ondersteunt zowel Dolby Vision als HDR10+, wat bij LG en Sony ontbreekt, zodat je bij Netflix en Prime Video het beste HDR-formaat krijgt. Gamers krijgen VRR en beeld tot 165 Hz. Testsites noemen vier HDMI 2.1-poorten. Omdat het model nieuw is, heeft hij op bol nog geen beoordelingen. Let op dat Ambilight het mooist werkt op een lichte, vlakke muur.",
-   "ean": "8718863052044",
-   "bol_title": "Philips 55OLED811 - 55 inch - 4K OLED - 2026 - Smart TV",
-   "url": "https://www.bol.com/nl/nl/p/philips-55oled811-12-55-inch-4k-oled-2026-smart-tv/9300000342039426/",
-   "image": "https://media.s-bol.com/D4Ak1nONRQQK/K1Er83l/550x326.jpg",
-   "ph": {
-    "2026-11-02": 1525.78,
-    "2026-11-03": 1499.0,
-    "2026-11-04": 1499.0
-   },
-   "low_price": 1499.0,
-   "synced": "2026-11-04",
-   "prev_price": 1525.78,
-   "prev_date": "2026-11-02"
-  },
-  {
-   "brand": "Sony",
-   "name": "Bravia 5 55 inch",
-   "price": 999.0,
-   "score": 8.7,
-   "label": null,
-   "reviews": "250+ reviews",
-   "oneliner": "Felle miniled met Sony-beeldverwerking voor lichte kamers.",
-   "specs": {
-    "Paneel": "Mini LED",
-    "Verversing": "120 Hz",
-    "HDR": "Dolby Vision, HDR10, HLG",
-    "Smart-tv": "Google TV",
-    "Jaar": "2025"
-   },
-   "pros": [
-    "Heel fel, ideaal voor een zonnige kamer",
-    "Goede local dimming met Mini LED",
-    "Sony-beeldverwerking en Google TV"
-   ],
-   "cons": [
-    "Kijkhoeken minder goed dan oled",
-    "Lichte halo's rond ondertitels in het donker"
-   ],
-   "ideal": "Wie een felle tv zoekt voor een lichte woonkamer met veel ramen.",
-   "text": "De Sony Bravia 5 gebruikt Mini LED in plaats van oled. Duizenden kleine leds achter het scherm geven veel meer licht, waardoor deze tv overdag in een lichte kamer met veel ramen beter zichtbaar blijft dan een oled. Dankzij de local dimming worden donkere delen van het beeld ook echt donker, al haalt hij het perfecte zwart van oled niet.\n\nSony's XR-processor zorgt voor natuurlijke kleuren en goed opschalen van tv-zenders en streams. Bij sport blijft beweging rustig. Google TV geeft je alle Nederlandse apps en Chromecast is ingebouwd. Voor gamers zijn er twee HDMI 2.1-poorten met 120 Hz en VRR. Het nadeel van Mini LED is dat je in het donker soms een lichte gloed rond witte tekst ziet en dat de kijkhoeken smaller zijn. Kopers op bol geven hem 4,6 sterren en prijzen de helderheid.",
-   "ean": "4548736171367",
-   "bol_title": "Sony Bravia 5 - 55 inch - 4K XR | MiniLED - 2025",
-   "url": "https://www.bol.com/nl/nl/p/sony-bravia-5-55-inch-4k-miniled-2025/9300000228487622/",
-   "image": "https://media.s-bol.com/JmQk5qmqJzyD/VP5N6G9/550x333.jpg",
-   "synced": "2026-11-04",
-   "ph": {
-    "2026-10-16": 999.0,
-    "2026-10-17": 999.0,
-    "2026-10-18": 999.0,
-    "2026-10-19": 999.0,
-    "2026-10-20": 999.0,
-    "2026-10-21": 999.0,
-    "2026-10-23": 999.0,
-    "2026-10-24": 999.0,
-    "2026-10-25": 999.0,
-    "2026-10-26": 999.0,
-    "2026-10-27": 999.0,
-    "2026-10-28": 999.0,
-    "2026-10-29": 999.0,
-    "2026-10-30": 999.0,
-    "2026-10-31": 999.0,
-    "2026-11-01": 999.0,
-    "2026-11-02": 999.0,
-    "2026-11-03": 999.0,
-    "2026-11-04": 999.0
-   },
-   "low_price": 999.0
-  },
-  {
-   "brand": "Samsung",
-   "name": "The Frame Pro QE55LS03H",
-   "price": 1449.0,
-   "score": 8.4,
-   "label": null,
-   "reviews": "bol-reviews beperkt",
-   "oneliner": "Tv die als schilderij aan de muur hangt.",
-   "specs": {
-    "Paneel": "Neo QLED (mini-led)",
-    "Verversing": "144 Hz",
-    "HDR": "HDR10, HDR10+, HLG",
-    "Smart-tv": "Tizen",
-    "Jaar": "2026"
-   },
-   "pros": [
-    "Art Mode toont kunst als de tv uit staat",
-    "Mat scherm zonder spiegelingen",
-    "Draadloze One Connect-box",
-    "Hangt vlak tegen de muur"
-   ],
-   "cons": [
-    "Geen Dolby Vision",
-    "Duur voor de beeldkwaliteit"
-   ],
-   "ideal": "Wie een tv wil die opgaat in het interieur.",
-   "text": "De Samsung The Frame Pro is een tv voor wie een zwart scherm in de woonkamer lelijk vindt. Zet je hem uit, dan toont hij in Art Mode een schilderij of foto. Het matte scherm voorkomt spiegelingen, waardoor het echt op een ingelijst kunstwerk lijkt. Een sensor past de helderheid aan het licht in de kamer aan.\n\nDe Pro-versie heeft een mini-led-paneel. Dat geeft meer helderheid en beter contrast dan de oudere Frame. Bij 144 Hz is hij ook prima om op te gamen. De aansluitingen zitten in een losse One Connect-box die draadloos met de tv praat. Aan de muur hangt dus alleen een stroomkabel. Je kunt de rand vervangen door een lijst in hout of wit. Dolby Vision ontbreekt wel. Voor puur beeld krijg je bij een OLED meer voor je geld. Kies hem als het uiterlijk minstens zo belangrijk is als het beeld. Hij kost rond de 1.500 euro.",
-   "ean": "8806099242800",
-   "bol_title": "Samsung The Frame Pro QE55LS03H - 55 Inch - 4K Neo QLED - 2026",
-   "url": "https://www.bol.com/nl/nl/p/samsung-qe55ls03hwux-the-frame-pro-55-inch/9300000284690245/",
-   "image": "https://media.s-bol.com/ZJ1B4rxKVrm6/D9DKNpq/550x319.jpg",
-   "synced": "2026-11-04",
-   "ph": {
-    "2026-10-20": 1549.0,
-    "2026-10-21": 1499.0,
-    "2026-10-23": 1499.0,
-    "2026-10-24": 1499.0,
-    "2026-10-25": 1499.0,
-    "2026-10-26": 1499.0,
-    "2026-10-27": 1499.0,
-    "2026-10-28": 1449.0,
-    "2026-10-29": 1449.0,
-    "2026-10-30": 1449.0,
-    "2026-10-31": 1449.0,
-    "2026-11-01": 1449.0,
-    "2026-11-02": 1449.0,
-    "2026-11-03": 1449.0,
-    "2026-11-04": 1449.0
-   },
-   "low_price": 1449.0,
-   "prev_price": 1499.0,
-   "prev_date": "2026-10-27"
-  },
-  {
-   "brand": "Hisense",
-   "name": "55U7Q",
-   "price": 650.0,
-   "score": 8.6,
-   "label": null,
-   "reviews": "500+ reviews",
-   "oneliner": "Felle miniled met 144 Hz voor een middenklasseprijs.",
-   "specs": {
-    "Paneel": "Mini LED",
-    "Verversing": "144 Hz",
-    "HDR": "Dolby Vision IQ, HDR10+",
-    "Smart-tv": "VIDAA",
-    "Jaar": "2025"
-   },
-   "pros": [
-    "Veel helderheid voor de prijs",
-    "144 Hz en VRR voor gamers",
-    "Ondersteunt Dolby Vision en HDR10+"
-   ],
-   "cons": [
-    "VIDAA heeft minder apps dan Google TV",
-    "Kijkhoeken beperkt"
-   ],
-   "ideal": "Gamers en kijkers met een middenbudget die een felle, moderne tv willen.",
-   "text": "De Hisense U7Q laat zien hoeveel tv je in 2026 voor 650 euro krijgt. Het Mini LED-paneel met local dimming is fel genoeg voor HDR en voor een lichte kamer. Zwart wordt dieper dan bij een gewone led-tv. Hij ondersteunt zowel Dolby Vision IQ als HDR10+, zodat je bij elke streamingdienst het juiste HDR-formaat krijgt.\n\nVoor gamers is het een aantrekkelijke koop. Het paneel draait op 144 Hz en ondersteunt VRR, FreeSync Premium Pro en ALLM, waardoor games op een PS5, Xbox of PC soepel lopen. Het geluid is voor een tv redelijk vol. Hisense gebruikt het eigen VIDAA-systeem. Netflix, Disney+, Prime Video, YouTube en NPO Start zijn er, maar het aanbod kleinere apps is kleiner dan bij Google TV. Kopers op bol geven hem 4,4 sterren en noemen de prijs-kwaliteit uitstekend. De kijkhoeken zijn wel beperkt.",
-   "ean": "6942351421032",
-   "bol_title": "Hisense 55U7Q - 55 inch - 4K MiniLED - 144hz - 2025",
-   "url": "https://www.bol.com/nl/nl/p/55u7q/9300000227859966/",
-   "image": "https://media.s-bol.com/7P19zENzNkjy/798Ey9G/550x346.jpg",
-   "synced": "2026-11-04",
-   "ph": {
-    "2026-10-16": 650.0,
-    "2026-10-17": 650.0,
-    "2026-10-18": 650.0,
-    "2026-10-19": 650.0,
-    "2026-10-20": 650.0,
-    "2026-10-21": 650.0,
-    "2026-10-23": 650.0,
-    "2026-10-24": 650.0,
-    "2026-10-25": 650.0,
-    "2026-10-26": 650.0,
-    "2026-10-27": 650.0,
-    "2026-10-28": 650.0,
-    "2026-10-29": 650.0,
-    "2026-10-30": 650.0,
-    "2026-10-31": 650.0,
-    "2026-11-01": 650.0,
-    "2026-11-02": 650.0,
-    "2026-11-03": 650.0,
-    "2026-11-04": 650.0
-   },
-   "low_price": 650.0
-  },
-  {
-   "brand": "Hisense",
-   "name": "55E7S PRO",
-   "price": 529.0,
-   "score": 8.3,
-   "label": null,
-   "reviews": "bol-score 4,8 van 5",
-   "oneliner": "Betaalbare Hi-QLED met native 144 Hz voor gamers.",
-   "specs": {
-    "Paneel": "Hi-QLED",
-    "Verversing": "144 Hz",
-    "HDR": "Dolby Vision, HDR10+",
-    "Smart-tv": "VIDAA",
-    "Jaar": "2026"
-   },
-   "pros": [
-    "Native 144 Hz voor gamers",
-    "Levendige kleuren met Hi-QLED",
-    "Dolby Vision en HDR10+",
-    "Ingebouwde subwoofer"
-   ],
-   "cons": [
-    "Geen mini-led, zwart is grijzig",
-    "Minder fel dan een miniled"
-   ],
-   "ideal": "Wie een goede gametv zoekt voor een klein budget.",
-   "text": "De Hisense 55E7S PRO is het model van 2026 en de opvolger van de E7Q PRO. Het Hi-QLED-paneel geeft levendige kleuren en het 4K-beeld is scherp bij streams en films. Dolby Vision en HDR10+ worden allebei ondersteund, iets wat je in deze prijsklasse niet altijd vindt. Dolby Atmos en een ingebouwde subwoofer zorgen voor voller geluid dan je van een tv rond 530 euro verwacht.\n\nDe grootste troef is de gamemodus. Het paneel draait native op 144 Hz, met VRR en ALLM, zodat de tv automatisch naar de snelste stand schakelt als je je console aanzet. Daarmee is hij sneller dan de meeste tv's rond 500 euro. Hij heeft geen mini-led, waardoor zwart in een donkere kamer eerder donkergrijs oogt dan bij de U7Q of een oled. VIDAA start snel op en heeft de grote streamingapps. Kopers op bol geven hem gemiddeld 4,8 sterren en zijn vooral tevreden over de soepele beelden bij gamen en sport.",
-   "ean": "6942351432779",
-   "bol_title": "Hisense 55E7S PRO SmartTV - 55 inch - 4K Hi-QLED - 2026 - Native 144Hz Game Mode - Hi-QLED Colour - Built-in Subwoofer - AI Picture - AI Smooth Motion - AMD FreeSync Premium - Dolby Vision Atmos",
-   "url": "https://www.bol.com/nl/nl/p/hisense-55e7s-pro-smarttv-55-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000269685068/",
-   "image": "https://media.s-bol.com/mv623VM2zKQG/k26vrgY/550x369.jpg",
-   "ph": {
-    "2026-11-03": 529.0,
-    "2026-11-04": 529.0
-   },
-   "low_price": 529.0,
-   "synced": "2026-11-04"
-  },
-  {
-   "brand": "TCL",
-   "name": "55C69KS",
-   "price": 419.0,
-   "score": 7.9,
-   "label": null,
-   "reviews": "reviews op bol",
-   "oneliner": "Goedkoopste tv in de lijst, toch met Mini LED.",
-   "specs": {
-    "Paneel": "QD-Mini LED",
-    "Verversing": "VRR via HDMI 2.1",
-    "HDR": "Dolby Vision, HDR10+, HLG",
-    "Smart-tv": "Google TV",
-    "Jaar": "2025"
-   },
-   "pros": [
-    "Laagste prijs in deze lijst",
-    "Mini LED voor dieper zwart",
-    "Dolby Vision en HDR10+",
-    "Google TV met alle apps"
-   ],
-   "cons": [
-    "Buitenlands model, nog geen reviews op bol",
-    "Contrast haalt het niet bij oled",
-    "Energielabel F"
-   ],
-   "ideal": "Wie een grote tv zoekt voor de slaapkamer of een klein budget en toch iets beter contrast wil.",
-   "text": "De TCL 55C69KS is met 419 euro de goedkoopste tv in deze lijst. Toch zit er meer techniek in dan je voor dat geld verwacht. Achter het 4K-scherm van 55 inch zit Mini LED-verlichting die delen van het beeld kan dimmen. Samen met de quantum dots geeft dat rijkere kleuren en dieper zwart dan een gewone led-tv. Hij ondersteunt Dolby Vision, HDR10+ en HLG.\n\nGoogle TV heeft alle bekende apps zoals Netflix, Videoland en NPO Start en met de afstandsbediening spreek je zoekopdrachten in. Via HDMI 2.1 met VRR sluit je een PlayStation 5 of Xbox aan en eARC stuurt het geluid naar een soundbar. Naast de oleds bovenaan blijft het contrast wel achter. Het gaat om een buitenlands model in een metallic kleur en bol toont nog geen reviews, dus de ervaring van kopers is nog onbekend. Voor de slaapkamer of als eerste grote tv is dit een slimme keuze.",
-   "ean": "5901292527297",
-   "bol_title": "TCL C69KS 55C69KS tv 139,7 cm (55\") 4K Ultra HD Smart TV Wifi Metallic",
-   "url": "https://www.bol.com/nl/nl/p/tcl-c69ks-55c69ks-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-metallic/9300000226905313/",
-   "image": "https://media.s-bol.com/Xv4KDl7x33wv/31mWnlQ/550x388.jpg",
-   "ph": {
-    "2026-10-25": 419.0,
-    "2026-10-26": 419.0,
-    "2026-10-27": 419.0,
-    "2026-10-28": 419.0,
-    "2026-10-29": 419.0,
-    "2026-10-30": 419.0,
-    "2026-10-31": 419.0,
-    "2026-11-01": 419.0,
-    "2026-11-02": 419.0,
-    "2026-11-03": 419.0,
-    "2026-11-04": 419.0
-   },
-   "low_price": 419.0,
-   "synced": "2026-11-04"
-  }
- ],
- "guide": [
-  {
-   "h": "Oled, Mini LED of QLED?",
-   "p": "Oled heeft pixels die zelf licht geven, waardoor zwart echt zwart is en het contrast oneindig. Dat is ideaal voor films in een donkere kamer. Mini LED gebruikt duizenden kleine leds achter het scherm en wordt veel feller, handig in een lichte kamer met veel ramen. QLED is een led-tv met Quantum Dot-filter voor mooiere kleuren, maar zonder het contrast van oled of miniled. Gewone led is het goedkoopst en prima als tweede tv."
-  },
-  {
-   "h": "Is 55 inch groot genoeg?",
-   "p": "Voor een kijkafstand van ongeveer 2 tot 2,5 meter is 55 inch een goede maat bij 4K. Zit je verder dan 3 meter van de tv, dan kan 65 inch prettiger zijn. Meet ook de breedte van je tv-meubel: een 55 inch tv is ongeveer 123 centimeter breed. Bij een tv met pootjes aan de zijkanten moet het meubel minstens zo breed zijn."
-  },
-  {
-   "h": "HDR: Dolby Vision of HDR10+?",
-   "p": "HDR geeft fellere lichten en meer detail in donkere delen van het beeld. Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video ondersteunt ook HDR10+. LG en Sony hebben alleen Dolby Vision, Samsung alleen HDR10+. Philips en Hisense ondersteunen beide formaten. Belangrijker dan het formaat is hoe fel de tv wordt, want een donkere tv haalt weinig uit HDR."
-  },
-  {
-   "h": "Gamen op je tv",
-   "p": "Heb je een PS5, Xbox Series X of gaming-pc, let dan op HDMI 2.1, VRR en een verversing van 120 Hz of hoger. Dan lopen games soepel en zonder haperingen. Een lage inputlag zorgt dat je bediening direct reageert. Let ook op het aantal HDMI 2.1-poorten: met twee consoles en een soundbar heb je er snel drie nodig."
-  },
-  {
-   "h": "Smart-tv-systemen",
-   "p": "Google TV (Sony, Philips, TCL) heeft het grootste app-aanbod en ingebouwde Chromecast. LG gebruikt webOS en Samsung Tizen, allebei snel en met alle grote apps zoals Netflix, Videoland, NPO Start en Ziggo GO. Hisense gebruikt VIDAA, dat vlot werkt maar minder kleinere apps heeft. Mis je een app, dan los je dat op met een losse streamingstick."
-  },
-  {
-   "h": "Vergeet het geluid niet",
-   "p": "Dunne tv's hebben weinig ruimte voor goede speakers. Stemmen klinken daardoor vaak dun en explosies missen kracht. Een soundbar met eARC-aansluiting is de eenvoudigste verbetering, vanaf ongeveer 200 euro hoor je al een groot verschil. Sony is een uitzondering met speakers die het geluid via het scherm zelf afgeven."
-  }
- ],
- "faq": [
-  {
-   "q": "Wat is de beste 55 inch tv van 2026?",
-   "a": "Op basis van onze vergelijking is de LG C5 OLED55C56LB de beste 55 inch tv van 2026. Hij combineert oled-beeld met perfect zwart, vier HDMI 2.1-poorten tot 144 Hz en het snelle webOS. De LG B5 is de beste prijs-kwaliteit."
-  },
-  {
-   "q": "Wat kost een goede 55 inch tv?",
-   "a": "Een goede 55 inch tv kost in 2026 tussen de 550 en 1.100 euro. Rond 550 tot 650 euro koop je een prima QLED of miniled, vanaf ongeveer 850 euro een oled. Onder de 400 euro vind je eenvoudige led-tv's die geschikt zijn als tweede tv."
-  },
-  {
-   "q": "Is oled geschikt voor een lichte woonkamer?",
-   "a": "Moderne oleds zoals de LG G5 worden fel genoeg voor de meeste woonkamers. In een kamer met veel direct zonlicht is een Mini LED-tv zoals de Sony Bravia 5 of Hisense U7Q wel de betere keuze, omdat die veel feller wordt."
-  },
-  {
-   "q": "Kan een oled-tv inbranden?",
-   "a": "Bij normaal gebruik is inbranden zeldzaam geworden. Moderne oleds verschuiven het beeld licht en verversen de pixels automatisch als de tv uit staat. Kijk je urenlang per dag naar één zender met een vast logo, dan is het risico groter."
-  },
-  {
-   "q": "Hoe ver moet ik van een 55 inch tv zitten?",
-   "a": "Voor een 55 inch 4K-tv is een kijkafstand van ongeveer 2 tot 2,5 meter ideaal. Zo zie je alle details zonder losse pixels te zien. Zit je verder dan 3 meter, overweeg dan een 65 inch tv."
-  },
-  {
-   "q": "Welke 55 inch tv is het beste om te gamen?",
-   "a": "De LG C5 en LG G5 zijn de beste gametv's dankzij vier HDMI 2.1-poorten, VRR en 144 tot 165 Hz. Op een kleiner budget is de Hisense 55E7S PRO met native 144 Hz een sterke keuze."
-  }
- ],
- "published": "2026-10-16",
- "eigen_merk": {
-  "merk": "Halolume",
-  "name": "Halolume tv-ledstrip met zone-sensor",
-  "price": 29.99,
-  "url": "https://halolume.nl/?utm_source=watkoopik&utm_medium=eigen-merk&utm_campaign=beste-tv-55-inch#kopen",
-  "image": "https://halolume.nl/img/kamer-aan.webp",
-  "knop": "Bekijk Halolume",
-  "text": "Haal meer uit je nieuwe 55 inch tv met onze eigen ledstrip. Een kleine zone-sensor bovenop je tv leest het beeld, elke kant van de strip kleurt mee met dat deel van het scherm. Werkt met elke bron: apps, decoder of console. Zelfklevend en via USB aan op je tv.",
-  "punten": [
-   "4 of 5 meter, op maat te knippen",
-   "Gratis verzending in Nederland en België",
-   "30 dagen bedenktijd",
-   "Duo-set voor 2 kamers: 49,99 euro"
+  "rel": [
+    "beste-tv-50-inch",
+    "beste-tv-65-inch",
+    "beste-tv-onder-500-euro"
   ]
- },
- "rel": [
-  "beste-tv-50-inch",
-  "beste-tv-65-inch",
-  "beste-tv-onder-500-euro"
- ]
 }

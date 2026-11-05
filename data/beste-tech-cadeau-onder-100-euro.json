@@ -62,10 +62,11 @@
         "2026-11-01": 45.75,
         "2026-11-02": 45.75,
         "2026-11-03": 45.75,
-        "2026-11-04": 45.75
+        "2026-11-04": 45.75,
+        "2026-11-05": 45.75
       },
       "low_price": 45.75,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol"
     },
     {
@@ -109,10 +110,11 @@
         "2026-11-01": 43.99,
         "2026-11-02": 43.99,
         "2026-11-03": 43.99,
-        "2026-11-04": 41.4
+        "2026-11-04": 41.4,
+        "2026-11-05": 41.4
       },
       "low_price": 41.4,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
       "prev_price": 43.99,
       "prev_date": "2026-11-03"
@@ -158,16 +160,17 @@
         "2026-11-01": 31.99,
         "2026-11-02": 31.99,
         "2026-11-03": 31.99,
-        "2026-11-04": 31.99
+        "2026-11-04": 31.99,
+        "2026-11-05": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Philips Hue",
       "name": "Play lightbar 1-pack basis zwart",
-      "price": 78.5,
+      "price": 75.0,
       "score": 8.7,
       "label": null,
       "oneliner": "Lichtbalk die achter tv of monitor kleur op de muur werpt.",
@@ -205,13 +208,14 @@
         "2026-11-01": 74.99,
         "2026-11-02": 74.99,
         "2026-11-03": 74.99,
-        "2026-11-04": 78.5
+        "2026-11-04": 78.5,
+        "2026-11-05": 75.0
       },
       "low_price": 68.0,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
-      "prev_price": 74.99,
-      "prev_date": "2026-11-03"
+      "prev_price": 78.5,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Ring",
@@ -254,10 +258,11 @@
         "2026-11-01": 73.95,
         "2026-11-02": 73.95,
         "2026-11-03": 73.95,
-        "2026-11-04": 73.95
+        "2026-11-04": 73.95,
+        "2026-11-05": 73.95
       },
       "low_price": 73.95,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
       "prev_price": 74.95,
       "prev_date": "2026-10-28"
@@ -303,10 +308,11 @@
         "2026-11-01": 69.0,
         "2026-11-02": 65.5,
         "2026-11-03": 65.5,
-        "2026-11-04": 65.5
+        "2026-11-04": 65.5,
+        "2026-11-05": 65.5
       },
       "low_price": 65.5,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
       "prev_price": 69.0,
       "prev_date": "2026-11-01"
@@ -314,7 +320,7 @@
     {
       "brand": "JBL",
       "name": "Tune 530BT",
-      "price": 50.67,
+      "price": 50.69,
       "score": 8.3,
       "label": null,
       "oneliner": "Lichte draadloze koptelefoon met 50 uur accuduur.",
@@ -352,18 +358,19 @@
         "2026-11-01": 50.95,
         "2026-11-02": 50.95,
         "2026-11-03": 50.69,
-        "2026-11-04": 50.67
+        "2026-11-04": 50.67,
+        "2026-11-05": 50.69
       },
       "low_price": 50.67,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
-      "prev_price": 50.69,
-      "prev_date": "2026-11-03"
+      "prev_price": 50.67,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Nintendo",
       "name": "Switch 2 Pro Controller",
-      "price": 78.0,
+      "price": 79.99,
       "score": 8.6,
       "label": null,
       "oneliner": "Officiële controller voor wie veel op de Switch 2 speelt.",
@@ -401,18 +408,19 @@
         "2026-11-01": 79.99,
         "2026-11-02": 79.99,
         "2026-11-03": 79.99,
-        "2026-11-04": 78.0
+        "2026-11-04": 78.0,
+        "2026-11-05": 79.99
       },
       "low_price": 78.0,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
-      "prev_price": 79.99,
-      "prev_date": "2026-11-03"
+      "prev_price": 78.0,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "Polaroid",
       "name": "Go Gen 3",
-      "price": 80.21,
+      "price": 85.99,
       "score": 8.4,
       "label": "Beste premium",
       "oneliner": "Kleinste instantcamera met echte Polaroid-foto's.",
@@ -450,13 +458,14 @@
         "2026-11-01": 94.0,
         "2026-11-02": 80.21,
         "2026-11-03": 80.21,
-        "2026-11-04": 80.21
+        "2026-11-04": 80.21,
+        "2026-11-05": 85.99
       },
       "low_price": 80.21,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol",
-      "prev_price": 94.0,
-      "prev_date": "2026-11-01"
+      "prev_price": 80.21,
+      "prev_date": "2026-11-04"
     },
     {
       "brand": "JBL",
@@ -499,10 +508,11 @@
         "2026-11-01": 58.99,
         "2026-11-02": 58.99,
         "2026-11-03": 58.99,
-        "2026-11-04": 58.99
+        "2026-11-04": 58.99,
+        "2026-11-05": 58.99
       },
       "low_price": 58.99,
-      "synced": "2026-11-04",
+      "synced": "2026-11-05",
       "reviews": "reviews op bol"
     }
   ],
