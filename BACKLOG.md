@@ -235,3 +235,4 @@ Formaat: slug | cat | query | titel | emoji
 # routine 5 nov 2026: seizoen (Sinterklaas) + tv (grootste klikcategorie)
 [x] beste-sinterklaascadeau-voor-volwassenen | cadeaus | sinterklaas cadeau volwassenen | De 10 beste sinterklaascadeaus voor volwassenen van 2026 | 🎁
 [x] beste-tv-ambilight | elektronica | philips ambilight tv | De 10 beste Ambilight-tv's van 2026 | 📺
+[x] beste-elektrische-inbouwhaard | wonen | elektrische inbouwhaard | De 10 beste elektrische inbouwhaarden van 2026 | 🔥
