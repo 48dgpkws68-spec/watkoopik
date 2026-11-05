@@ -44,10 +44,22 @@ def shop_link(p):
     target = p.get("url") or "https://www.bol.com/nl/nl/s/?searchtext=" + urllib.parse.quote_plus(q)
     name = re.sub(r"[^A-Za-z0-9 ]", "", "%s %s" % (p["brand"], p["name"]))[:60]
     return "https://partner.bol.com/click/click?p=2&t=url&s=%s&f=TXL&url=%s&name=%s" % (BOL_SITE_ID, urllib.parse.quote(target, safe=""), urllib.parse.quote_plus(name))
+# A/B-test N5 (hefboom C1, sinds 5 nov 2026): op de helft van de gidsen staat de actuele prijs in de bol-knop.
+# Verdeling vast op slug (md5 even = "prijs", oneven = "controle"); alleen op gidspagina-plekken, Umami-eigenschap "variant".
+AB_PLEKKEN = ("kaart", "podium", "tabel", "eindoordeel", "sticky")
+def ab_variant(slug):
+    return "prijs" if int(hashlib.md5(slug.encode()).hexdigest(), 16) % 2 == 0 else "controle"
 def shop_a(p, g, cls="btn btn-buy magnet", plek="kaart"):
-    return '<a class="%s" href="%s" rel="sponsored nofollow noopener" target="_blank" data-umami-event="bol-klik" data-umami-event-gids="%s" data-umami-event-product="%s" data-umami-event-positie="%s" data-umami-event-plek="%s" data-umami-event-tekst="%s">%s <span class="arr">→</span></a>' % (
-        cls, shop_link(p), g["slug"], e("%s %s" % (p["brand"], p["name"])), p.get("rank", ""), plek, "prijs" if plek == "kaart" else "standaard",
-        "Bekijk actuele prijs bij bol" if plek == "kaart" else "Bekijk bij bol")
+    label = "Bekijk actuele prijs bij bol" if plek == "kaart" else "Bekijk bij bol"
+    var_attr = ""
+    if plek in AB_PLEKKEN:
+        var = ab_variant(g["slug"])
+        var_attr = ' data-umami-event-variant="%s"' % var
+        pr = p.get("price")
+        if var == "prijs" and isinstance(pr, (int, float)) and pr > 0:
+            label = "Bekijk bij bol · %s" % eur(pr)
+    return '<a class="%s" href="%s" rel="sponsored nofollow noopener" target="_blank" data-umami-event="bol-klik" data-umami-event-gids="%s" data-umami-event-product="%s" data-umami-event-positie="%s" data-umami-event-plek="%s" data-umami-event-tekst="%s"%s>%s <span class="arr">→</span></a>' % (
+        cls, shop_link(p), g["slug"], e("%s %s" % (p["brand"], p["name"])), p.get("rank", ""), plek, "prijs" if plek == "kaart" else "standaard", var_attr, label)
 
 # Amazon als tweede winkel (sinds 30 okt 2026): amazon.com-zoeklink met tag watkoopik-20; Amazon Global Earning stuurt
 # Nederlandse bezoekers automatisch door naar amazon.nl met dezelfde tag. Bol blijft de hoofdknop.
@@ -685,7 +697,7 @@ for g in guides:
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
         own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, cards, hist_section(g), e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, '<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
-        ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
+        ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = g.get("seo") or g["query"]  # zoekterm voor titel en meta; query blijft de bol-zoekterm
     title = "Beste %s %d: top 10 vergeleken | watkoopik" % (seo, YEAR)
