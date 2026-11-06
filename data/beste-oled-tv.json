@@ -636,5 +636,23 @@
     "beste-tv-55-inch",
     "beste-tv-65-inch",
     "beste-tv-onder-1000-euro"
-  ]
+  ],
+  "eigen_merk": {
+    "merk": "Halolume",
+    "name": "Halolume tv-ledstrip met zone-sensor",
+    "price": 29.99,
+    "url": "https://halolume.nl/?utm_source=watkoopik&utm_medium=eigen-merk&utm_campaign=beste-oled-tv#kopen",
+    "image": "https://halolume.nl/img/kamer-aan.webp",
+    "knop": "Bekijk Halolume",
+    "text": "Haal meer uit je nieuwe OLED-tv met onze eigen ledstrip. Een kleine zone-sensor bovenop je tv leest het beeld, elke kant van de strip kleurt mee met dat deel van het scherm. Werkt met elke bron: apps, decoder of console. Kies 4 meter voor 55 tot 65 inch of 5 meter voor 65 tot 75 inch.",
+    "punten": [
+      "4 of 5 meter, op maat te knippen",
+      "Gratis verzending in Nederland en België",
+      "30 dagen bedenktijd",
+      "Duo-set voor 2 kamers: 49,99 euro"
+    ],
+    "compact": true,
+    "plek": "onder",
+    "kort": "Ledstrip die meekleurt met je beeld via een zone-sensor bovenop de tv. Voor tv's van 55 tot 75 inch, gratis verzending, 30 dagen bedenktijd."
+  }
 }
