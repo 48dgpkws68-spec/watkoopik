@@ -54,10 +54,11 @@
       "ph": {
         "2026-11-03": 156.0,
         "2026-11-04": 156.0,
-        "2026-11-05": 156.0
+        "2026-11-05": 156.0,
+        "2026-11-06": 156.0
       },
       "low_price": 156.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "LEGO",
@@ -92,17 +93,18 @@
       "ph": {
         "2026-11-03": 40.99,
         "2026-11-04": 36.99,
-        "2026-11-05": 36.99
+        "2026-11-05": 36.99,
+        "2026-11-06": 36.99
       },
       "low_price": 36.99,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 40.99,
       "prev_date": "2026-11-03"
     },
     {
       "brand": "Garmin",
       "name": "Vivoactive 6 (42 mm, Lunar Goud)",
-      "price": 252.99,
+      "price": 253.35,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "bol-score 4,4 van 5",
@@ -132,12 +134,13 @@
       "ph": {
         "2026-11-03": 252.0,
         "2026-11-04": 252.0,
-        "2026-11-05": 252.99
+        "2026-11-05": 252.99,
+        "2026-11-06": 253.35
       },
       "low_price": 252.0,
-      "synced": "2026-11-05",
-      "prev_price": 252.0,
-      "prev_date": "2026-11-04"
+      "synced": "2026-11-06",
+      "prev_price": 252.99,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Kobo",
@@ -166,21 +169,22 @@
       "ideal": "Vrouwen die veel lezen en minder boeken willen sjouwen.",
       "text": "Een e-reader is een kerstcadeau voor haar dat de hele winter meegaat. De Kobo Clara BW heeft een 6 inch E Ink-scherm dat leest als papier, ook in fel licht. Met ComfortLight PRO stel je de lichtkleur warmer in voor 's avonds, zodat lezen in bed prettig blijft. Het geheugen van 16 GB is goed voor duizenden e-books en de e-reader is waterdicht, dus een boek in bad is geen probleem.\n\nKobo werkt met epub, het formaat dat de meeste Nederlandse webwinkels gebruiken. Via bluetooth luister je ook luisterboeken met een koptelefoon. De behuizing is grotendeels gemaakt van gerecycled plastic. Kopers op bol geven gemiddeld een 4,4 van 5 en noemen het lichte gewicht en de scherpe letters. De bol-prijs van rond de 169 euro ligt nu iets hoger dan de adviesprijs, dus kijk rond Black Friday of de prijs zakt. Wil ze kleur voor strips of kookboeken, dan is de Kobo Clara Colour een alternatief.",
       "ean": "0681495009558",
-      "bol_title": "Kobo Clara BW - E-reader - 6 inch - 16GB - Luisterboeken - Zwart",
+      "bol_title": "Kobo Clara BW - E-reader - Luisterboeken - 6 inch - 16GB - Zwart",
       "url": "https://www.bol.com/nl/nl/p/kobo-clara-bw-e-reader-6-inch-16gb-luisterboeken-zwart/9300000173830676/",
       "image": "https://media.s-bol.com/jKgrOjzPoXwy/5y7pV1Z/550x787.jpg",
       "ph": {
         "2026-11-03": 169.0,
         "2026-11-04": 169.0,
-        "2026-11-05": 169.0
+        "2026-11-05": 169.0,
+        "2026-11-06": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Marshall",
       "name": "Emberton III bluetooth speaker",
-      "price": 137.69,
+      "price": 138.69,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -210,17 +214,18 @@
       "ph": {
         "2026-11-03": 132.62,
         "2026-11-04": 130.68,
-        "2026-11-05": 137.69
+        "2026-11-05": 137.69,
+        "2026-11-06": 138.69
       },
       "low_price": 130.68,
-      "synced": "2026-11-05",
-      "prev_price": 130.68,
-      "prev_date": "2026-11-04"
+      "synced": "2026-11-06",
+      "prev_price": 137.69,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
       "name": "Wake-up Light HF3519/01",
-      "price": 134.0,
+      "price": 134.99,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -250,12 +255,13 @@
       "ph": {
         "2026-11-03": 134.99,
         "2026-11-04": 134.99,
-        "2026-11-05": 134.0
+        "2026-11-05": 134.0,
+        "2026-11-06": 134.99
       },
       "low_price": 134.0,
-      "synced": "2026-11-05",
-      "prev_price": 134.99,
-      "prev_date": "2026-11-04"
+      "synced": "2026-11-06",
+      "prev_price": 134.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Therabody",
@@ -290,10 +296,11 @@
       "ph": {
         "2026-11-03": 129.0,
         "2026-11-04": 129.0,
-        "2026-11-05": 129.0
+        "2026-11-05": 129.0,
+        "2026-11-06": 129.0
       },
       "low_price": 129.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Fujifilm",
@@ -328,15 +335,16 @@
       "ph": {
         "2026-11-03": 92.0,
         "2026-11-04": 92.0,
-        "2026-11-05": 92.0
+        "2026-11-05": 92.0,
+        "2026-11-06": 92.0
       },
       "low_price": 92.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Beurer",
       "name": "HD 75 warmtedeken 180 x 130 cm",
-      "price": 49.95,
+      "price": 36.99,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,0 van 5",
@@ -366,10 +374,13 @@
       "ph": {
         "2026-11-03": 49.95,
         "2026-11-04": 49.95,
-        "2026-11-05": 49.95
+        "2026-11-05": 49.95,
+        "2026-11-06": 36.99
       },
-      "low_price": 49.95,
-      "synced": "2026-11-05"
+      "low_price": 36.99,
+      "synced": "2026-11-06",
+      "prev_price": 49.95,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Apple",
@@ -404,10 +415,11 @@
       "ph": {
         "2026-11-03": 31.99,
         "2026-11-04": 31.99,
-        "2026-11-05": 31.99
+        "2026-11-05": 31.99,
+        "2026-11-06": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     }
   ],
   "guide": [

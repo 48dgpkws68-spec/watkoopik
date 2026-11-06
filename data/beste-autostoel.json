@@ -58,13 +58,14 @@
         "2026-11-02": 189.0,
         "2026-11-03": 189.0,
         "2026-11-04": 189.0,
-        "2026-11-05": 139.0
+        "2026-11-05": 139.0,
+        "2026-11-06": 139.0
       },
       "low_price": 139.0,
       "bol_title": "Cybex - Solution G2 - Autostoeltje - Stormy Blue (plus)",
       "url": "https://www.bol.com/nl/nl/p/cybex-solution-g2-autostoeltje-stormy-blue/9300000221670378/",
       "image": "https://media.s-bol.com/BMzzJDOl4DLQ/gJPrx7l/550x694.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 189.0,
       "prev_date": "2026-11-04"
     },
@@ -99,7 +100,7 @@
       "bol_title": "Maxi-Cosi RodiFix M i-Size - Autostoeltje - Black - Vanaf 3,5 tot ca. 12 jaar",
       "url": "https://www.bol.com/nl/nl/p/maxi-cosi-rodifix-m-i-size-basic-black-vanaf-3-5-jaar-tot-ca-12-jaar/9300000161870429/",
       "image": "https://media.s-bol.com/2E2no3xE2Z2j/NVzOnN/550x807.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 91.9,
         "2026-10-16": 91.9,
@@ -121,7 +122,8 @@
         "2026-11-02": 91.9,
         "2026-11-03": 99.0,
         "2026-11-04": 99.0,
-        "2026-11-05": 99.0
+        "2026-11-05": 99.0,
+        "2026-11-06": 99.0
       },
       "low_price": 89.0,
       "prev_price": 91.9,
@@ -165,17 +167,18 @@
         "2026-11-02": 259.0,
         "2026-11-03": 259.0,
         "2026-11-04": 259.0,
-        "2026-11-05": 199.0
+        "2026-11-05": 199.0,
+        "2026-11-06": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 259.0,
       "prev_date": "2026-11-04"
     },
     {
       "brand": "Joie",
       "name": "i-Traver",
-      "price": 134.9,
+      "price": 144.46,
       "score": 8.8,
       "label": null,
       "reviews": "600+ reviews",
@@ -203,7 +206,7 @@
       "bol_title": "Joie I-Traver Autostoel Eclipse - Tot 12 jaar - Isofix - I size",
       "url": "https://www.bol.com/nl/nl/p/joie-i-traver-autostoel-eclipse-tot-12-jaar-isofix-i-size/9300000226354567/",
       "image": "https://media.s-bol.com/1JLkgkXJQlvR/r26BRDK/550x668.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 144.46,
         "2026-10-16": 144.46,
@@ -225,11 +228,12 @@
         "2026-11-02": 134.9,
         "2026-11-03": 134.9,
         "2026-11-04": 134.9,
-        "2026-11-05": 134.9
+        "2026-11-05": 134.9,
+        "2026-11-06": 144.46
       },
       "low_price": 134.9,
-      "prev_price": 144.46,
-      "prev_date": "2026-10-29"
+      "prev_price": 134.9,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Maxi-Cosi",
@@ -262,7 +266,7 @@
       "bol_title": "Maxi-Cosi Titan S i-Size - Autostoeltje - Black - 15 maanden tot 12 jaar oud",
       "url": "https://www.bol.com/nl/nl/p/maxi-cosi-titan-s-i-size-autostoeltje-tonal-black-vanaf-15-maanden-tot-12-jaar-oud/9300000174638386/",
       "image": "https://media.s-bol.com/YN23AB9qgVAY/zpm43rO/533x840.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 166.0,
         "2026-10-16": 166.0,
@@ -284,7 +288,8 @@
         "2026-11-02": 189.0,
         "2026-11-03": 189.0,
         "2026-11-04": 189.0,
-        "2026-11-05": 189.0
+        "2026-11-05": 189.0,
+        "2026-11-06": 189.0
       },
       "low_price": 155.0,
       "prev_price": 169.0,
@@ -321,7 +326,7 @@
       "bol_title": "Joie I-Trillo Fx Autostoel Shale Groep 2/3 - Isofix - I size",
       "url": "https://www.bol.com/nl/nl/p/joie-i-trillo-fx-autostoel-shale-groep-2-3-isofix-i-size/9300000199081587/",
       "image": "https://media.s-bol.com/VGoLv8y14LNB/NxW0XnN/550x623.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 122.39,
         "2026-10-16": 122.39,
@@ -343,7 +348,8 @@
         "2026-11-02": 109.99,
         "2026-11-03": 109.99,
         "2026-11-04": 109.99,
-        "2026-11-05": 109.99
+        "2026-11-05": 109.99,
+        "2026-11-06": 109.99
       },
       "low_price": 109.99,
       "prev_price": 122.39,
@@ -352,7 +358,7 @@
     {
       "brand": "Maxi-Cosi",
       "name": "Cabriofix i-Size",
-      "price": 85.68,
+      "price": 88.0,
       "score": 8.7,
       "label": null,
       "reviews": "2.000+ reviews",
@@ -380,7 +386,7 @@
       "bol_title": "Maxi-Cosi Cabriofix i-Size Autostoeltje - Essential Black - 0 tot 12 maanden - Weegt slechts 3.2kg",
       "url": "https://www.bol.com/nl/nl/p/maxi-cosi-cabriofix-i-size-autostoeltje-essential-black/9300000071475573/",
       "image": "https://media.s-bol.com/x979MOooAGpr/86mDY9r/550x640.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 79.99,
         "2026-10-16": 85.0,
@@ -402,11 +408,12 @@
         "2026-11-02": 88.0,
         "2026-11-03": 88.0,
         "2026-11-04": 88.0,
-        "2026-11-05": 85.68
+        "2026-11-05": 85.68,
+        "2026-11-06": 88.0
       },
       "low_price": 79.99,
-      "prev_price": 88.0,
-      "prev_date": "2026-11-04"
+      "prev_price": 85.68,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Cybex",
@@ -440,7 +447,7 @@
       "bol_title": "Cybex Cloud G3 i-Size Autostoeltje Magic Black 0-13kg",
       "url": "https://www.bol.com/nl/nl/p/cybex-cloud-g3-i-size-autostoeltje-magic-black-0-13kg/9300000396762410/",
       "image": "https://media.s-bol.com/D3vKX4L8D1WK/jYPLwv5/550x509.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 229.95,
         "2026-10-16": 229.95,
@@ -462,7 +469,8 @@
         "2026-11-02": 229.95,
         "2026-11-03": 206.96,
         "2026-11-04": 206.96,
-        "2026-11-05": 206.96
+        "2026-11-05": 206.96,
+        "2026-11-06": 206.96
       },
       "low_price": 206.96,
       "prev_price": 229.95,
@@ -499,7 +507,7 @@
       "bol_title": "Joie autostoel elevate R129 shale groep 1/2/3 zwart",
       "url": "https://www.bol.com/nl/nl/p/joie-autostoel-elevate-r129-shale-groep-1-2-3-zwart/9300000161995036/",
       "image": "https://media.s-bol.com/gWp3pRkEKE3D/zp911Aq/550x748.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 94.99,
         "2026-10-16": 94.99,
@@ -521,7 +529,8 @@
         "2026-11-02": 94.99,
         "2026-11-03": 94.99,
         "2026-11-04": 94.99,
-        "2026-11-05": 94.99
+        "2026-11-05": 94.99,
+        "2026-11-06": 94.99
       },
       "low_price": 94.99
     },
@@ -556,8 +565,8 @@
       "ean": "8721516069009",
       "bol_title": "Deryan Colin Luxe Autostoel I-Size - 360° Draaibaar - Isofix - Truffle Nougat",
       "url": "https://www.bol.com/nl/nl/p/deryan-colin-luxe-i-size-autostoel-groep-0-1-2-3-isofix-360-draaibaar-nougat/9300000267263800/",
-      "image": "https://media.s-bol.com/ggQm6ROqoBzk/4RWlPg7/550x437.jpg",
-      "synced": "2026-11-05",
+      "image": "https://media.s-bol.com/kqGj2xg16VmY/pZD52my/550x550.jpg",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 119.95,
         "2026-10-16": 119.95,
@@ -579,7 +588,8 @@
         "2026-11-02": 119.95,
         "2026-11-03": 119.95,
         "2026-11-04": 119.95,
-        "2026-11-05": 119.95
+        "2026-11-05": 119.95,
+        "2026-11-06": 119.95
       },
       "low_price": 119.95
     }

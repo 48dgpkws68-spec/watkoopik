@@ -22,7 +22,7 @@
     {
       "brand": "Philips",
       "name": "Somneo HF3651/01",
-      "price": 205.0,
+      "price": 199.99,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 3,8 van 5",
@@ -59,17 +59,18 @@
         "2026-11-02": 205.0,
         "2026-11-03": 205.0,
         "2026-11-04": 205.0,
-        "2026-11-05": 205.0
+        "2026-11-05": 205.0,
+        "2026-11-06": 199.99
       },
       "low_price": 197.99,
-      "synced": "2026-11-05",
-      "prev_price": 197.99,
-      "prev_date": "2026-10-28"
+      "synced": "2026-11-06",
+      "prev_price": 205.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "UPLY",
       "name": "Wake Up Light Smart Clock",
-      "price": 59.99,
+      "price": 49.99,
       "score": 8.4,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,5 van 5",
@@ -96,7 +97,7 @@
       "ean": "8720165578962",
       "bol_title": "UPLY Wake Up Light - Smart Clock Met USB Oplaadpunt - Lichtwekker - Digitale Wekker - Wekker Radio met 4 Alarmen - WiFi - Google Home | Amazon Alexa",
       "url": "https://www.bol.com/nl/nl/p/uply-wake-up-light-smart-clock-met-usb-oplaadpunt-lichtwekker-wekker-radio-met-4-alarmen-wifi-google-home-amazon-alexa/9300000021014113/",
-      "image": "https://media.s-bol.com/NKy856MWLo46/13VvAV/550x518.jpg",
+      "image": "https://media.s-bol.com/gmA7Dr9Yv5mj/x60Ayjq/550x518.jpg",
       "ph": {
         "2026-10-24": 59.99,
         "2026-10-25": 59.99,
@@ -110,10 +111,13 @@
         "2026-11-02": 59.99,
         "2026-11-03": 59.99,
         "2026-11-04": 59.99,
-        "2026-11-05": 59.99
+        "2026-11-05": 59.99,
+        "2026-11-06": 49.99
       },
-      "low_price": 59.99,
-      "synced": "2026-11-05"
+      "low_price": 49.99,
+      "synced": "2026-11-06",
+      "prev_price": 59.99,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Lumie",
@@ -146,7 +150,7 @@
       "bol_title": "Lumie Bodyclock Luxe 750DAB - Wake-up light - USB/DAB+/Bluetooth - Antraciet",
       "url": "https://www.bol.com/nl/nl/p/lumie-bodyclock-luxe-750dab-wake-up-light-usb-dab-bluetooth-antraciet/9300000005361752/",
       "image": "https://media.s-bol.com/BrBvxnm55ylQ/550x496.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-24": 267.0,
         "2026-10-25": 267.0,
@@ -160,7 +164,8 @@
         "2026-11-02": 289.0,
         "2026-11-03": 289.0,
         "2026-11-04": 289.0,
-        "2026-11-05": 289.0
+        "2026-11-05": 289.0,
+        "2026-11-06": 289.0
       },
       "low_price": 267.0,
       "prev_price": 267.0,
@@ -169,7 +174,7 @@
     {
       "brand": "Philips",
       "name": "HF3531/01",
-      "price": 141.99,
+      "price": 135.44,
       "score": 8.9,
       "label": null,
       "reviews": "600+ reviews",
@@ -197,7 +202,7 @@
       "bol_title": "Philips HF3531/01 - Wake-Up-Light",
       "url": "https://www.bol.com/nl/nl/p/philips-hf3531-01-wake-up-light/9200000059519590/",
       "image": "https://media.s-bol.com/ZGwy5XYoxWlw/5AJOOZ/550x395.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 139.81,
         "2026-10-16": 139.81,
@@ -219,11 +224,12 @@
         "2026-11-02": 146.0,
         "2026-11-03": 141.99,
         "2026-11-04": 141.99,
-        "2026-11-05": 141.99
+        "2026-11-05": 141.99,
+        "2026-11-06": 135.44
       },
       "low_price": 129.0,
-      "prev_price": 146.0,
-      "prev_date": "2026-11-02"
+      "prev_price": 141.99,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
@@ -255,7 +261,7 @@
       "bol_title": "Philips Wake-up Light - Smartsleep - Focus op ademhaling en helpt ontspannen - HF3650/01",
       "url": "https://www.bol.com/nl/nl/p/philips-hf3650-01-wake-up-light-bright-eyes/9200000081384702/",
       "image": "https://media.s-bol.com/Y8M14Q8m8YWY/vgMAVvg/550x614.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 199.99,
         "2026-10-16": 199.99,
@@ -277,7 +283,8 @@
         "2026-11-02": 219.0,
         "2026-11-03": 219.0,
         "2026-11-04": 219.0,
-        "2026-11-05": 219.0
+        "2026-11-05": 219.0,
+        "2026-11-06": 219.0
       },
       "low_price": 199.99,
       "prev_price": 199.99,
@@ -286,7 +293,7 @@
     {
       "brand": "Philips",
       "name": "HF3519/01",
-      "price": 134.0,
+      "price": 134.99,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -326,12 +333,13 @@
         "2026-11-02": 134.99,
         "2026-11-03": 134.99,
         "2026-11-04": 134.99,
-        "2026-11-05": 134.0
+        "2026-11-05": 134.0,
+        "2026-11-06": 134.99
       },
       "low_price": 124.99,
-      "synced": "2026-11-05",
-      "prev_price": 134.99,
-      "prev_date": "2026-11-04"
+      "synced": "2026-11-06",
+      "prev_price": 134.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
@@ -363,7 +371,7 @@
       "bol_title": "Philips HF3521/01 - Wake-up light - Wit",
       "url": "https://www.bol.com/nl/nl/p/philips-hf3521-01-wake-up-light-wit/9200000079412069/",
       "image": "https://media.s-bol.com/Djq7WYy0WqAA/LgnnGAv/550x458.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 145.0,
         "2026-10-16": 145.0,
@@ -385,7 +393,8 @@
         "2026-11-02": 145.0,
         "2026-11-03": 145.0,
         "2026-11-04": 149.99,
-        "2026-11-05": 149.99
+        "2026-11-05": 149.99,
+        "2026-11-06": 149.99
       },
       "low_price": 145.0,
       "prev_price": 145.0,
@@ -421,7 +430,7 @@
       "bol_title": "Lumie Bodyclock Shine 300 - Sleep & Wake-up light - Dimbaar nachtlampje - FM radio - 15 geluid opties",
       "url": "https://www.bol.com/nl/nl/p/lumie-bodyclock-shine-300-wake-up-light-grijs/9300000005361748/",
       "image": "https://media.s-bol.com/J86AqL9473w2/550x483.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 151.0,
         "2026-10-16": 151.0,
@@ -443,7 +452,8 @@
         "2026-11-02": 151.0,
         "2026-11-03": 151.0,
         "2026-11-04": 151.0,
-        "2026-11-05": 151.0
+        "2026-11-05": 151.0,
+        "2026-11-06": 151.0
       },
       "low_price": 151.0
     },
@@ -477,7 +487,7 @@
       "bol_title": "Lumie Bodyclock Glow 150 - Sleep & Wake-up light - Nachtlamp - Slaaphulpmiddel - instelbare verlichting",
       "url": "https://www.bol.com/nl/nl/p/lumie-bodyclock-glow-150-wake-up-light-zwart/9300000005359428/",
       "image": "https://media.s-bol.com/Y7EZ8lGMwOnY/550x475.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 111.0,
         "2026-10-16": 111.0,
@@ -499,7 +509,8 @@
         "2026-11-02": 110.0,
         "2026-11-03": 110.0,
         "2026-11-04": 103.83,
-        "2026-11-05": 110.0
+        "2026-11-05": 110.0,
+        "2026-11-06": 110.0
       },
       "low_price": 103.83,
       "prev_price": 103.83,
@@ -508,7 +519,7 @@
     {
       "brand": "Swiftvein",
       "name": "Solara wake-up light",
-      "price": 59.99,
+      "price": 49.99,
       "score": 7.9,
       "label": null,
       "reviews": "200+ reviews",
@@ -535,7 +546,7 @@
       "bol_title": "Swiftvein Solara Wake up Light - Lichtwekker - Digitale wekker met 30 geluiden",
       "url": "https://www.bol.com/nl/nl/p/swiftvein-solara-wake-up-light-lichtwekker-digitale-wekker-met-30-geluiden/9300000188027886/",
       "image": "https://media.s-bol.com/JkvBv7kDPwXg/gJXGpml/550x541.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-15": 59.99,
         "2026-10-16": 59.99,
@@ -557,9 +568,12 @@
         "2026-11-02": 59.99,
         "2026-11-03": 59.99,
         "2026-11-04": 59.99,
-        "2026-11-05": 59.99
+        "2026-11-05": 59.99,
+        "2026-11-06": 49.99
       },
-      "low_price": 59.99
+      "low_price": 49.99,
+      "prev_price": 59.99,
+      "prev_date": "2026-11-05"
     }
   ],
   "guide": [

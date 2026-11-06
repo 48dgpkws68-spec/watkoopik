@@ -58,10 +58,11 @@
         "2026-11-02": 81.89,
         "2026-11-03": 81.89,
         "2026-11-04": 81.89,
-        "2026-11-05": 81.89
+        "2026-11-05": 81.89,
+        "2026-11-06": 81.89
       },
       "low_price": 81.89,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 83.99,
       "prev_date": "2026-11-01"
     },
@@ -102,10 +103,11 @@
         "2026-11-02": 106.0,
         "2026-11-03": 106.0,
         "2026-11-04": 106.0,
-        "2026-11-05": 106.0
+        "2026-11-05": 106.0,
+        "2026-11-06": 106.0
       },
       "low_price": 106.0,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 119.0,
       "prev_date": "2026-11-01"
     },
@@ -146,10 +148,11 @@
         "2026-11-02": 25.49,
         "2026-11-03": 25.49,
         "2026-11-04": 25.49,
-        "2026-11-05": 25.49
+        "2026-11-05": 25.49,
+        "2026-11-06": 25.49
       },
       "low_price": 25.49,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "JBL",
@@ -188,10 +191,11 @@
         "2026-11-02": 79.95,
         "2026-11-03": 79.95,
         "2026-11-04": 79.95,
-        "2026-11-05": 79.95
+        "2026-11-05": 79.95,
+        "2026-11-06": 79.95
       },
       "low_price": 79.95,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Nintendo",
@@ -230,17 +234,18 @@
         "2026-11-02": 49.99,
         "2026-11-03": 49.99,
         "2026-11-04": 52.99,
-        "2026-11-05": 49.99
+        "2026-11-05": 49.99,
+        "2026-11-06": 49.99
       },
       "low_price": 49.99,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 52.99,
       "prev_date": "2026-11-04"
     },
     {
       "brand": "Fujifilm",
       "name": "Instax mini Link 3 fotoprinter",
-      "price": 115.0,
+      "price": 119.0,
       "score": 8.7,
       "label": null,
       "reviews": "reviews op bol",
@@ -274,17 +279,18 @@
         "2026-11-02": 113.0,
         "2026-11-03": 118.0,
         "2026-11-04": 111.0,
-        "2026-11-05": 115.0
+        "2026-11-05": 115.0,
+        "2026-11-06": 119.0
       },
       "low_price": 107.0,
-      "synced": "2026-11-05",
-      "prev_price": 111.0,
-      "prev_date": "2026-11-04"
+      "synced": "2026-11-06",
+      "prev_price": 115.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Xiaomi",
       "name": "Smart Band 10",
-      "price": 57.99,
+      "price": 34.99,
       "score": 8.4,
       "label": null,
       "reviews": "reviews op bol",
@@ -313,10 +319,13 @@
       "image": "https://media.s-bol.com/LokyYpJ7NwLg/MQqQQK3/550x700.jpg",
       "ph": {
         "2026-11-04": 57.99,
-        "2026-11-05": 57.99
+        "2026-11-05": 57.99,
+        "2026-11-06": 34.99
       },
-      "low_price": 57.99,
-      "synced": "2026-11-05"
+      "low_price": 34.99,
+      "synced": "2026-11-06",
+      "prev_price": 57.99,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Kobo",
@@ -345,7 +354,7 @@
       "ideal": "Tieners die graag lezen of veel boeken voor school moeten lezen.",
       "text": "De Kobo Clara BW is een compacte e-reader met een scherm van 6 inch dat er dankzij 300 pixels per inch uitziet als papier. Je leest er zonder vermoeide ogen uren op, ook in de felle zon. Het ingebouwde leeslicht kun je warmer maken voor 's avonds, wat beter is voor het inslapen dan een telefoonscherm. Met 16 GB opslag passen er duizenden boeken op en hij is waterdicht volgens IPX8, dus lezen in bad of op het strand kan gewoon.\n\nVoor tieners met een leeslijst voor school is dit een praktisch cadeau. Je koopt boeken in de Kobo-winkel of neemt een abonnement op Kobo Plus. Ook luisterboeken speel je af via een bluetooth-koptelefoon. De accu gaat bij normaal gebruik weken mee en laadt op via usb-c. Reviewers op bol prijzen het lichte gewicht en het scherpe scherm. Met 169 euro is dit het duurste cadeau in deze lijst, maar wel een die jaren meegaat.",
       "ean": "0681495009558",
-      "bol_title": "Kobo Clara BW - E-reader - 6 inch - 16GB - Luisterboeken - Zwart",
+      "bol_title": "Kobo Clara BW - E-reader - Luisterboeken - 6 inch - 16GB - Zwart",
       "url": "https://www.bol.com/nl/nl/p/kobo-clara-bw-e-reader-6-inch-16gb-luisterboeken-zwart/9300000173830676/",
       "image": "https://media.s-bol.com/jKgrOjzPoXwy/5y7pV1Z/550x787.jpg",
       "ph": {
@@ -355,15 +364,16 @@
         "2026-11-02": 169.0,
         "2026-11-03": 169.0,
         "2026-11-04": 169.0,
-        "2026-11-05": 169.0
+        "2026-11-05": 169.0,
+        "2026-11-06": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "BaByliss",
       "name": "Smooth Pro 235 stijltang",
-      "price": 47.99,
+      "price": 39.9,
       "score": 8.3,
       "label": null,
       "reviews": "reviews op bol",
@@ -397,17 +407,18 @@
         "2026-11-02": 44.8,
         "2026-11-03": 44.8,
         "2026-11-04": 47.99,
-        "2026-11-05": 47.99
+        "2026-11-05": 47.99,
+        "2026-11-06": 39.9
       },
-      "low_price": 44.8,
-      "synced": "2026-11-05",
-      "prev_price": 44.8,
-      "prev_date": "2026-11-03"
+      "low_price": 39.9,
+      "synced": "2026-11-06",
+      "prev_price": 47.99,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Razer",
       "name": "BlackShark V2 X gaming headset",
-      "price": 46.99,
+      "price": 47.99,
       "score": 8.2,
       "label": null,
       "reviews": "reviews op bol",
@@ -441,12 +452,13 @@
         "2026-11-02": 46.99,
         "2026-11-03": 46.99,
         "2026-11-04": 49.99,
-        "2026-11-05": 46.99
+        "2026-11-05": 46.99,
+        "2026-11-06": 47.99
       },
       "low_price": 46.99,
-      "synced": "2026-11-05",
-      "prev_price": 49.99,
-      "prev_date": "2026-11-04"
+      "synced": "2026-11-06",
+      "prev_price": 46.99,
+      "prev_date": "2026-11-05"
     }
   ],
   "guide": [

@@ -29,7 +29,7 @@
     {
       "brand": "Philips",
       "name": "55OLED810/12",
-      "price": 1069.0,
+      "price": 999.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "60+ reviews",
@@ -58,15 +58,18 @@
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-55oled810-12-55-inch-4k-oled-2025/9300000241514418/",
       "image": "https://media.s-bol.com/pA0rNqP8ORWN/DRlL8OY/550x351.jpg",
       "ph": {
-        "2026-11-05": 1069.0
+        "2026-11-05": 1069.0,
+        "2026-11-06": 999.0
       },
-      "low_price": 1069.0,
-      "synced": "2026-11-05"
+      "low_price": 999.0,
+      "synced": "2026-11-06",
+      "prev_price": 1069.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
       "name": "55PQS8601/12",
-      "price": 599.0,
+      "price": 589.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "30+ reviews",
@@ -95,15 +98,18 @@
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-55pqs8601-12-55-inch-4k-qled-2026/9300000301588084/",
       "image": "https://media.s-bol.com/655xxOWpKmpn/YvAoqOY/550x247.jpg",
       "ph": {
-        "2026-11-05": 599.0
+        "2026-11-05": 599.0,
+        "2026-11-06": 589.0
       },
-      "low_price": 599.0,
-      "synced": "2026-11-05"
+      "low_price": 589.0,
+      "synced": "2026-11-06",
+      "prev_price": 599.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
       "name": "65OLED911",
-      "price": 2399.0,
+      "price": 1999.0,
       "score": 9.2,
       "label": "Beste premium",
       "reviews": "10+ reviews",
@@ -132,10 +138,13 @@
       "url": "https://www.bol.com/nl/nl/p/philips-65oled911-12-65-inch-4k-oled-2026-smart-tv/9300000301588089/",
       "image": "https://media.s-bol.com/555ww2wQXBzR/YvAoq22/550x250.jpg",
       "ph": {
-        "2026-11-05": 2399.0
+        "2026-11-05": 2399.0,
+        "2026-11-06": 1999.0
       },
-      "low_price": 2399.0,
-      "synced": "2026-11-05"
+      "low_price": 1999.0,
+      "synced": "2026-11-06",
+      "prev_price": 2399.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
@@ -169,15 +178,16 @@
       "url": "https://www.bol.com/nl/nl/p/philips-65oled811-12-65-inch-4k-oled-2026-smart-tv/9300000342039428/",
       "image": "https://media.s-bol.com/mJPZO5jO0lKp/ZYX683g/550x326.jpg",
       "ph": {
-        "2026-11-05": 1799.0
+        "2026-11-05": 1799.0,
+        "2026-11-06": 1799.0
       },
       "low_price": 1799.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Philips",
       "name": "55MLED910",
-      "price": 899.0,
+      "price": 699.0,
       "score": 8.8,
       "label": null,
       "reviews": "40+ reviews",
@@ -206,10 +216,13 @@
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-55mled910-12-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000233566948/",
       "image": "https://media.s-bol.com/74g6rLgqk0Xr/BNkRBzo/550x355.jpg",
       "ph": {
-        "2026-11-05": 899.0
+        "2026-11-05": 899.0,
+        "2026-11-06": 699.0
       },
-      "low_price": 899.0,
-      "synced": "2026-11-05"
+      "low_price": 699.0,
+      "synced": "2026-11-06",
+      "prev_price": 899.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
@@ -243,15 +256,16 @@
       "url": "https://www.bol.com/nl/nl/p/philips-42oled811-12-42-inch-4k-oled-2026-smart-tv/9300000355419448/",
       "image": "https://media.s-bol.com/B40K0o8rmj7W/p8jRyrr/550x326.jpg",
       "ph": {
-        "2026-11-05": 1099.0
+        "2026-11-05": 1099.0,
+        "2026-11-06": 1099.0
       },
       "low_price": 1099.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Philips",
       "name": "65PQS8601/12",
-      "price": 849.0,
+      "price": 809.0,
       "score": 8.6,
       "label": null,
       "reviews": "20+ reviews",
@@ -280,10 +294,13 @@
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-65pqs8601-12-65-inch-4k-qled-2026/9300000301588085/",
       "image": "https://media.s-bol.com/rwwqqAlymKVp/Q0pZgD5/550x247.jpg",
       "ph": {
-        "2026-11-05": 849.0
+        "2026-11-05": 849.0,
+        "2026-11-06": 809.0
       },
-      "low_price": 849.0,
-      "synced": "2026-11-05"
+      "low_price": 809.0,
+      "synced": "2026-11-06",
+      "prev_price": 849.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
@@ -317,10 +334,11 @@
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-50pqs8601-12-50-inch-4k-qled-2026/9300000301588073/",
       "image": "https://media.s-bol.com/855zzv2q7nx5/gLj1MPY/550x247.jpg",
       "ph": {
-        "2026-11-05": 549.0
+        "2026-11-05": 549.0,
+        "2026-11-06": 549.0
       },
       "low_price": 549.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Philips",
@@ -354,15 +372,16 @@
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-43pus9000-12-43-inch-4k-qled-2025/9300000229240656/",
       "image": "https://media.s-bol.com/85o31Onzy5kg/G5YO7J5/550x364.jpg",
       "ph": {
-        "2026-11-05": 500.09
+        "2026-11-05": 500.09,
+        "2026-11-06": 500.09
       },
       "low_price": 500.09,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Philips",
       "name": "43PUS8001/12",
-      "price": 359.0,
+      "price": 349.0,
       "score": 8.0,
       "label": null,
       "reviews": "nieuw model",
@@ -391,10 +410,13 @@
       "url": "https://www.bol.com/nl/nl/p/philips-43pus8001-12-43-inch-full-hd-led-2026/9300000300813340/",
       "image": "https://media.s-bol.com/xXRAL0YZwEDB/K1wOKkG/550x361.jpg",
       "ph": {
-        "2026-11-05": 359.0
+        "2026-11-05": 359.0,
+        "2026-11-06": 349.0
       },
-      "low_price": 359.0,
-      "synced": "2026-11-05"
+      "low_price": 349.0,
+      "synced": "2026-11-06",
+      "prev_price": 359.0,
+      "prev_date": "2026-11-05"
     }
   ],
   "guide": [

@@ -52,10 +52,11 @@
         "2026-11-02": 229.99,
         "2026-11-03": 229.99,
         "2026-11-04": 229.99,
-        "2026-11-05": 229.99
+        "2026-11-05": 229.99,
+        "2026-11-06": 229.99
       },
       "low_price": 229.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Ninja",
@@ -103,7 +104,8 @@
         "2026-11-02": 212.0,
         "2026-11-03": 212.0,
         "2026-11-04": 179.0,
-        "2026-11-05": 170.05
+        "2026-11-05": 170.05,
+        "2026-11-06": 170.05
       },
       "low_price": 144.99,
       "prev_price": 179.0,
@@ -111,7 +113,7 @@
       "bol_title": "Ninja Double Stack Airfryer XXL - 9.5 Liter - Dubbele Gestapelde Lades - 6 Programma's - Inclusief Kookrekjes - Wit - SL400EUWH",
       "url": "https://www.bol.com/nl/nl/p/ninja-double-stack-airfryer-xxl-9-5-liter-dubbele-gestapelde-lades-6-programma-s-inclusief-kookrekjes-wit-sl400euwh/9300000196392554/",
       "image": "https://media.s-bol.com/5vl9n5jVOPlR/lYLD8P5/550x678.jpg",
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Ninja",
@@ -143,7 +145,7 @@
       "bol_title": "Ninja Foodi FlexDrawer Airfryer - DualZone met verwijderbaar tussenschot - grote lade van 10,4 l - vaatwasserbestendige onderdelen met antiaanbaklaag - Zwart - AF500EU",
       "url": "https://www.bol.com/nl/nl/p/ninja-foodi-af500eu-mega-dubbele-airfryer-xxl-10-4-liter-twee-kookvakken-of-een-megazone-heteluchtfriteuse/9300000165307796/",
       "image": "https://media.s-bol.com/YggnoyN452kM/wVB4X41/550x384.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-13": 183.0,
         "2026-10-14": 183.31,
@@ -167,7 +169,8 @@
         "2026-11-02": 190.98,
         "2026-11-03": 179.0,
         "2026-11-04": 179.0,
-        "2026-11-05": 179.0
+        "2026-11-05": 179.0,
+        "2026-11-06": 179.0
       },
       "low_price": 179.0,
       "prev_price": 190.98,
@@ -176,7 +179,7 @@
     {
       "brand": "Philips",
       "name": "5000 Series Dual Basket NA551/00",
-      "price": 234.0,
+      "price": 189.0,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "600+ reviews",
@@ -203,7 +206,7 @@
       "bol_title": "Philips 5000 Series Dual Basket Airfryer - NA551/00 - Stoomfunctie - Dubbele Mand - 9L - Tot 6 Personen",
       "url": "https://www.bol.com/nl/nl/p/philips-5000-series-dual-basket-airfryer-na551-00-stoomfunctie-dubbele-mand-9l-tot-6-personen/9300000193078812/",
       "image": "https://media.s-bol.com/nqJQo0lpj94R/BBJ6NRW/550x486.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-17": 220.0,
         "2026-10-18": 220.0,
@@ -223,16 +226,17 @@
         "2026-11-02": 234.0,
         "2026-11-03": 234.0,
         "2026-11-04": 234.0,
-        "2026-11-05": 234.0
+        "2026-11-05": 234.0,
+        "2026-11-06": 189.0
       },
-      "low_price": 216.0,
-      "prev_price": 216.0,
-      "prev_date": "2026-10-25"
+      "low_price": 189.0,
+      "prev_price": 234.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
       "name": "3000 Series Dual Basket NA350/00",
-      "price": 138.99,
+      "price": 137.99,
       "score": 8.8,
       "label": null,
       "reviews": "1.200+ reviews",
@@ -259,7 +263,7 @@
       "bol_title": "Philips 3000 series - Dual Basket Airfryer - NA350/00 - 9L",
       "url": "https://www.bol.com/nl/nl/p/philips-3000-series-na350-00-airfryer-met-twee-manden-uit-de-3000-serie/9300000177048539/",
       "image": "https://media.s-bol.com/mo3K9KJKODrR/1rlkkVR/550x338.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-17": 149.0,
         "2026-10-18": 149.0,
@@ -279,16 +283,17 @@
         "2026-11-02": 146.95,
         "2026-11-03": 146.95,
         "2026-11-04": 146.95,
-        "2026-11-05": 138.99
+        "2026-11-05": 138.99,
+        "2026-11-06": 137.99
       },
-      "low_price": 138.99,
-      "prev_price": 146.95,
-      "prev_date": "2026-11-04"
+      "low_price": 137.99,
+      "prev_price": 138.99,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Tefal",
       "name": "Easy Fry Dual XXL EY9428",
-      "price": 151.95,
+      "price": 162.48,
       "score": 8.6,
       "label": null,
       "reviews": "800+ reviews",
@@ -320,17 +325,18 @@
         "2026-11-02": 173.0,
         "2026-11-03": 173.0,
         "2026-11-04": 129.99,
-        "2026-11-05": 151.95
+        "2026-11-05": 151.95,
+        "2026-11-06": 162.48
       },
       "low_price": 129.99,
-      "synced": "2026-11-05",
-      "prev_price": 129.99,
-      "prev_date": "2026-11-04"
+      "synced": "2026-11-06",
+      "prev_price": 151.95,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Tristar",
       "name": "FR-9074 Stack airfryer XXL",
-      "price": 79.99,
+      "price": 69.99,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
       "reviews": "300+ reviews",
@@ -357,7 +363,7 @@
       "bol_title": "Tristar Stack airfryer - XXL - 9L - 2 onafhankelijke kookzones - Dubbele gestapelde lades - 8 kookprogramma's - 2400W - PFAS-vrij - Bespaart 45% Ruimte - 6 personen - FR-9074",
       "url": "https://www.bol.com/nl/nl/p/tristar-fr-9074-dubbele-airfryer-xxl-9l-2-onafhankelijke-kookzones-dubbele-gestapelde-lades-8-kookprogramma-s-2400w-vermogen-pfas-vrij-bespaart-45-ruimte-voor-6-personen/9300000258888421/",
       "image": "https://media.s-bol.com/6ERlNDAO8rVV/pgMlGnm/550x766.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-17": 79.99,
         "2026-10-18": 79.99,
@@ -377,11 +383,12 @@
         "2026-11-02": 71.6,
         "2026-11-03": 79.99,
         "2026-11-04": 79.99,
-        "2026-11-05": 79.99
+        "2026-11-05": 79.99,
+        "2026-11-06": 69.99
       },
       "low_price": 59.99,
-      "prev_price": 71.6,
-      "prev_date": "2026-11-02"
+      "prev_price": 79.99,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Cosori",
@@ -413,7 +420,7 @@
       "bol_title": "Cosori Dual Blaze Twinfry – Dubbele Airfryer XXL – 10L – Dual Zone of MegaZone – 6 Programma’s",
       "url": "https://www.bol.com/nl/nl/p/cosori-twinfry-airfryer-xxl-heteluchtfriteuse-10-liter-2-maaltijden-tegelijk-bereiden-d-m-v-divider-6-programma-s-boven-en-onderwarmte/9300000184050288/",
       "image": "https://media.s-bol.com/v3WJ0nJpO0P8/6RXKDnN/550x500.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-17": 219.99,
         "2026-10-18": 219.99,
@@ -433,14 +440,15 @@
         "2026-11-02": 219.99,
         "2026-11-03": 219.99,
         "2026-11-04": 219.99,
-        "2026-11-05": 219.99
+        "2026-11-05": 219.99,
+        "2026-11-06": 219.99
       },
       "low_price": 219.99
     },
     {
       "brand": "Seeger",
       "name": "TwoFry 10 liter",
-      "price": 99.99,
+      "price": 69.0,
       "score": 8.4,
       "label": null,
       "reviews": "250+ reviews",
@@ -467,7 +475,7 @@
       "bol_title": "Seeger TwoFry Dubbele Airfryer XXL - 10 Liter - tot 230°C - 8 Programma's - Sync en Match - PFAS-vrij - 2 Lades",
       "url": "https://www.bol.com/nl/nl/p/seeger-twofry-dubbele-airfryer-2x5-liter-40-c-tot-230-c-8-programma-s-sync-en-match/9300000361775916/",
       "image": "https://media.s-bol.com/R9xr9ogJZNAR/91wV2z8/550x510.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-17": 129.99,
         "2026-10-18": 129.99,
@@ -487,11 +495,12 @@
         "2026-11-02": 99.99,
         "2026-11-03": 99.99,
         "2026-11-04": 99.99,
-        "2026-11-05": 99.99
+        "2026-11-05": 99.99,
+        "2026-11-06": 69.0
       },
-      "low_price": 99.99,
-      "prev_price": 109.0,
-      "prev_date": "2026-10-27"
+      "low_price": 69.0,
+      "prev_price": 99.99,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Severin",
@@ -523,7 +532,7 @@
       "bol_title": "Severin FR 2490 Black Line Flex Heteluchtfriteuse XXL – 9 Liter – Dual Zone – Sync Cook & Sync Finish – 11 Programma’s – 2600W – Zwart",
       "url": "https://www.bol.com/nl/nl/p/severin-fr-2490-black-line-flex-heteluchtfriteuse-xxl-9-liter-dual-zone-sync-cook-sync-finish-11-programma-s-2600w-zwart/9300000232923961/",
       "image": "https://media.s-bol.com/40R3yvYxyMxg/oYj0YJX/550x434.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-17": 109.0,
         "2026-10-18": 109.0,
@@ -543,7 +552,8 @@
         "2026-11-02": 100.55,
         "2026-11-03": 100.55,
         "2026-11-04": 100.55,
-        "2026-11-05": 100.55
+        "2026-11-05": 100.55,
+        "2026-11-06": 100.55
       },
       "low_price": 100.55,
       "prev_price": 109.0,

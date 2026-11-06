@@ -53,10 +53,11 @@
       "image": "https://media.s-bol.com/n9P8Qvwnm3lP/W6jWMKW/550x479.jpg",
       "ph": {
         "2026-11-04": 1049.0,
-        "2026-11-05": 1049.0
+        "2026-11-05": 1049.0,
+        "2026-11-06": 1049.0
       },
       "low_price": 1049.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Epson",
@@ -90,7 +91,7 @@
       "bol_title": "Epson EpiqVision Flex CO-FH02 - Full HD Beamer - 3000 lumen",
       "url": "https://www.bol.com/nl/nl/p/epson-epiqvision-flex-co-fh02-full-hd-beamer-3000-lumen/9300000119685909/",
       "image": "https://media.s-bol.com/RxmyknnzRjYz/6RADJ3L/550x550.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-16": 479.0,
         "2026-10-17": 469.93,
@@ -111,7 +112,8 @@
         "2026-11-02": 479.0,
         "2026-11-03": 479.0,
         "2026-11-04": 479.0,
-        "2026-11-05": 479.0
+        "2026-11-05": 479.0,
+        "2026-11-06": 479.0
       },
       "low_price": 469.93,
       "prev_price": 469.94,
@@ -120,7 +122,7 @@
     {
       "brand": "XGIMI",
       "name": "Horizon 20",
-      "price": 1699.0,
+      "price": 1399.0,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "nieuw model, bol-score 5 van 5",
@@ -155,10 +157,13 @@
         "2026-11-02": 1699.0,
         "2026-11-03": 1699.0,
         "2026-11-04": 1699.0,
-        "2026-11-05": 1699.0
+        "2026-11-05": 1699.0,
+        "2026-11-06": 1399.0
       },
-      "low_price": 1699.0,
-      "synced": "2026-11-05"
+      "low_price": 1399.0,
+      "synced": "2026-11-06",
+      "prev_price": 1699.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "XGIMI",
@@ -189,9 +194,9 @@
       "ideal": "Wie een kleine beamer zoekt voor de slaapkamer, op vakantie of in de tuin.",
       "text": "De XGIMI MoGo 2 Pro is een draagbare beamer van ongeveer 1 kilo die je makkelijk in een tas meeneemt. Hij projecteert Full HD 1080p met 400 ISO lumen en dekt volgens XGIMI 90 procent van het DCI-P3-kleurbereik. In een donkere kamer haal je daarmee een beeld van zo'n 100 inch. Autofocus en automatische keystone zetten het beeld na het neerzetten direct recht.\n\nDeze versie draait op Google TV met de officiële Netflix-app, dus je hebt geen extra stick nodig. De twee luidsprekers van 8 watt met Dolby Audio zijn prima voor een film in bed of in de tuin. Een accu ontbreekt, maar met een USB-C-powerbank van 65 watt werkt hij ook zonder stopcontact. Kopers op bol geven hem gemiddeld een 4,8 van 5. Een draaibare standaard zit er niet bij, die koop je apart of in een bundel. Wie een compacte beamer zoekt die je overal mee naartoe neemt, zit hier goed.",
       "ean": "6935670508157",
-      "bol_title": "XGIMI MoGo 2 Pro (GTV) Draagbare Smart-Projector – Full HD 1080p – 400 ISO Lumen – Google TV met Netflix – Dolby Audio",
+      "bol_title": "XGIMI MoGo 2 Pro Mini Beamer met Google TV en Netflix - Full HD - 430 ISO Lumen - Autofocus - 2 x 8 W Dolby Audio - 1 kg",
       "url": "https://www.bol.com/nl/nl/p/xgimi-mogo-2-pro-draagbare-smart-projector-multi-angle-stand-full-hd-1080p-430-iso-lumen-google-tv-met-netflix-dolby-audio/9300000237175974/",
-      "image": "https://media.s-bol.com/N33O5k0jZZmK/A6YKvzB/550x550.jpg",
+      "image": "https://media.s-bol.com/7Poy1MGNjBAG/J8nwNpo/550x679.jpg",
       "ph": {
         "2026-10-25": 449.0,
         "2026-10-26": 449.0,
@@ -204,15 +209,16 @@
         "2026-11-02": 449.0,
         "2026-11-03": 449.0,
         "2026-11-04": 449.0,
-        "2026-11-05": 449.0
+        "2026-11-05": 449.0,
+        "2026-11-06": 449.0
       },
       "low_price": 449.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Anker",
       "name": "Nebula Mars 3 Air",
-      "price": 570.26,
+      "price": 399.0,
       "score": 8.3,
       "label": null,
       "reviews": "120+ reviews",
@@ -240,7 +246,7 @@
       "bol_title": "Anker Nebula Mars 3 Air Beamer - Draagbare DLP Projector - Full HD 1080p Resolutie - 400 ANSI Lumen - WiFi & Bluetooth - Ingebouwde Batterij tot 2 - 5 uur - Perfect voor Films & Presentaties",
       "url": "https://www.bol.com/nl/nl/p/anker-nebula-mars-3-air-beamer-draagbare-dlp-projector-full-hd-1080p-resolutie-400-ansi-lumen-wifi-bluetooth-ingebouwde-batterij-tot-2-5-uur-perfect-voor-films-presentaties/9300000197096714/",
       "image": "https://media.s-bol.com/Ywpz8KoX8XEO/yPx2n4P/550x670.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-16": 570.26,
         "2026-10-17": 570.26,
@@ -261,9 +267,12 @@
         "2026-11-02": 570.26,
         "2026-11-03": 570.26,
         "2026-11-04": 570.26,
-        "2026-11-05": 570.26
+        "2026-11-05": 570.26,
+        "2026-11-06": 399.0
       },
-      "low_price": 570.26
+      "low_price": 399.0,
+      "prev_price": 570.26,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
@@ -297,7 +306,7 @@
       "bol_title": "Philips NeoPix 450 Smart Projector met korte projectieafstand 450 ANSI lumens LCD 1080p (1920x1080) Zwart",
       "url": "https://www.bol.com/nl/nl/p/philips-neopix-450-smart-100-inch-full-hd-projector-met-google-tv/9300000230587855/",
       "image": "https://media.s-bol.com/ozEo86kp4rpL/j29m4BY/550x498.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-24": 413.2,
         "2026-10-25": 413.2,
@@ -311,7 +320,8 @@
         "2026-11-02": 413.2,
         "2026-11-03": 413.2,
         "2026-11-04": 413.2,
-        "2026-11-05": 413.2
+        "2026-11-05": 413.2,
+        "2026-11-06": 413.2
       },
       "low_price": 413.2
     },
@@ -347,7 +357,7 @@
       "bol_title": "Optoma UHZ35 4K 3500 lumen home cinema projector",
       "url": "https://www.bol.com/nl/nl/p/optoma-uhz35-4k-3500-lumen-home-cinema-projector/9300000190830112/",
       "image": "https://media.s-bol.com/8Zk7OrQ57pXr/MjV5665/550x395.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-16": 1290.0,
         "2026-10-17": 1290.0,
@@ -368,7 +378,8 @@
         "2026-11-02": 1299.0,
         "2026-11-03": 1299.0,
         "2026-11-04": 1299.0,
-        "2026-11-05": 1299.0
+        "2026-11-05": 1299.0,
+        "2026-11-06": 1299.0
       },
       "low_price": 1289.5,
       "prev_price": 1290.0,
@@ -377,7 +388,7 @@
     {
       "brand": "Dangbei",
       "name": "Freedo",
-      "price": 464.92,
+      "price": 466.94,
       "score": 8.4,
       "label": null,
       "reviews": "150+ reviews",
@@ -405,7 +416,7 @@
       "bol_title": "Dangbei Freedo Draagbare Beamer - Full HD 1080p - 450 ISO Lumen - Google TV & Netflix - Ingebouwde Accu - Kantelbare Standaard",
       "url": "https://www.bol.com/nl/nl/p/dangbei-freedo/9300000225834008/",
       "image": "https://media.s-bol.com/XJqzPQkqP55W/KOwZnLz/550x574.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-16": 399.0,
         "2026-10-17": 399.0,
@@ -426,16 +437,17 @@
         "2026-11-02": 466.38,
         "2026-11-03": 466.44,
         "2026-11-04": 464.97,
-        "2026-11-05": 464.92
+        "2026-11-05": 464.92,
+        "2026-11-06": 466.94
       },
       "low_price": 399.0,
-      "prev_price": 464.97,
-      "prev_date": "2026-11-04"
+      "prev_price": 464.92,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "BenQ",
       "name": "TK710",
-      "price": 1449.0,
+      "price": 1399.0,
       "score": 9.0,
       "label": null,
       "reviews": "50+ reviews",
@@ -464,7 +476,7 @@
       "bol_title": "BenQ TK710 4K HDR Laser 3200 ANSI Lumen Film- en Gaming beamer - Projector - 4ms Reactietijd - 240Hz - HDR10 & HLG - ARC/eARC Ondersteuning - Verticale Lensverschuiving - 3D Keystone - 1,3x Zoom - HDR Game Modes - Geschikt voor PS5 en XBox",
       "url": "https://www.bol.com/nl/nl/p/benq-tk710-gaming-beamer/9300000181342910/",
       "image": "https://media.s-bol.com/xWG69AmEZGlq/2kOZQWj/550x325.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-16": 1399.0,
         "2026-10-17": 1399.0,
@@ -485,11 +497,12 @@
         "2026-11-02": 1449.0,
         "2026-11-03": 1399.0,
         "2026-11-04": 1445.0,
-        "2026-11-05": 1449.0
+        "2026-11-05": 1449.0,
+        "2026-11-06": 1399.0
       },
       "low_price": 1399.0,
-      "prev_price": 1445.0,
-      "prev_date": "2026-11-04"
+      "prev_price": 1449.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Epson",
@@ -523,7 +536,7 @@
       "bol_title": "Epson EH TW7000 - 4K Beamer - 3000 lumen",
       "url": "https://www.bol.com/nl/nl/p/epson-eh-tw7000-4k-beamer-3000-lumen/9200000119392075/",
       "image": "https://media.s-bol.com/2wylJzR2mm2W/VOl7JAo/550x369.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-24": 879.0,
         "2026-10-25": 879.0,
@@ -537,7 +550,8 @@
         "2026-11-02": 879.0,
         "2026-11-03": 879.0,
         "2026-11-04": 879.0,
-        "2026-11-05": 879.0
+        "2026-11-05": 879.0,
+        "2026-11-06": 879.0
       },
       "low_price": 879.0
     }

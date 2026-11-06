@@ -23,7 +23,7 @@
     {
       "brand": "Rowenta",
       "name": "Instant Comfort Compact SO2321",
-      "price": 56.49,
+      "price": 43.99,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "400+ reviews",
@@ -54,12 +54,13 @@
       "image": "https://media.s-bol.com/YnDyo7oE5B0p/jzV8Gy/550x662.jpg",
       "ph": {
         "2026-11-04": 51.69,
-        "2026-11-05": 56.49
+        "2026-11-05": 56.49,
+        "2026-11-06": 43.99
       },
-      "low_price": 51.69,
-      "synced": "2026-11-05",
-      "prev_price": 51.69,
-      "prev_date": "2026-11-04"
+      "low_price": 43.99,
+      "synced": "2026-11-06",
+      "prev_price": 56.49,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "VONROC",
@@ -95,10 +96,11 @@
       "image": "https://media.s-bol.com/gyKLJxorVk26/3G0yYO/550x519.jpg",
       "ph": {
         "2026-11-04": 34.95,
-        "2026-11-05": 34.95
+        "2026-11-05": 34.95,
+        "2026-11-06": 34.95
       },
       "low_price": 34.95,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Rowenta",
@@ -134,10 +136,11 @@
       "image": "https://media.s-bol.com/ygAnYqGPE6KP/ElPRM9m/550x745.jpg",
       "ph": {
         "2026-11-04": 75.0,
-        "2026-11-05": 75.0
+        "2026-11-05": 75.0,
+        "2026-11-06": 75.0
       },
       "low_price": 75.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Philips",
@@ -172,10 +175,11 @@
       "image": "https://media.s-bol.com/mm9K29jJqQn3/yPvyW86/550x611.jpg",
       "ph": {
         "2026-11-04": 58.0,
-        "2026-11-05": 59.0
+        "2026-11-05": 59.0,
+        "2026-11-06": 59.0
       },
       "low_price": 58.0,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 58.0,
       "prev_date": "2026-11-04"
     },
@@ -213,15 +217,16 @@
       "image": "https://media.s-bol.com/mW5PWlMQ3EzE/ADKvAAl/550x665.jpg",
       "ph": {
         "2026-11-04": 39.99,
-        "2026-11-05": 39.99
+        "2026-11-05": 39.99,
+        "2026-11-06": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Eurom",
       "name": "VK2001",
-      "price": 31.97,
+      "price": 30.07,
       "score": 8.6,
       "label": null,
       "reviews": "300+ reviews",
@@ -251,15 +256,18 @@
       "image": "https://media.s-bol.com/DV6EzxXwq3gn/pYzNL2p/550x789.jpg",
       "ph": {
         "2026-11-04": 31.97,
-        "2026-11-05": 31.97
+        "2026-11-05": 31.97,
+        "2026-11-06": 30.07
       },
-      "low_price": 31.97,
-      "synced": "2026-11-05"
+      "low_price": 30.07,
+      "synced": "2026-11-06",
+      "prev_price": 31.97,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Eurom",
       "name": "EK2K Round Werkplaatskachel",
-      "price": 34.99,
+      "price": 34.95,
       "score": 8.7,
       "label": null,
       "reviews": "200+ reviews",
@@ -290,12 +298,13 @@
       "image": "https://media.s-bol.com/1y4G501K9D50/JZ3W94D/550x676.jpg",
       "ph": {
         "2026-11-04": 35.19,
-        "2026-11-05": 34.99
+        "2026-11-05": 34.99,
+        "2026-11-06": 34.95
       },
-      "low_price": 34.99,
-      "synced": "2026-11-05",
-      "prev_price": 35.19,
-      "prev_date": "2026-11-04"
+      "low_price": 34.95,
+      "synced": "2026-11-06",
+      "prev_price": 34.99,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "VONROC",
@@ -331,10 +340,11 @@
       "image": "https://media.s-bol.com/J1k6R2GZvxNP/OzgRlN/550x682.jpg",
       "ph": {
         "2026-11-04": 59.95,
-        "2026-11-05": 59.95
+        "2026-11-05": 59.95,
+        "2026-11-06": 59.95
       },
       "low_price": 59.95,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Bestron",
@@ -369,10 +379,11 @@
       "image": "https://media.s-bol.com/qz1xXPv6QJlG/w0APMXr/550x600.jpg",
       "ph": {
         "2026-11-04": 22.99,
-        "2026-11-05": 22.99
+        "2026-11-05": 22.99,
+        "2026-11-06": 22.99
       },
       "low_price": 22.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Tristar",
@@ -408,10 +419,11 @@
       "image": "https://media.s-bol.com/JBEo0Vz3g3jK/58klZMK/550x714.jpg",
       "ph": {
         "2026-11-04": 21.99,
-        "2026-11-05": 21.99
+        "2026-11-05": 21.99,
+        "2026-11-06": 21.99
       },
       "low_price": 21.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     }
   ],
   "guide": [

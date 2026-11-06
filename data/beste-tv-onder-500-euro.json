@@ -22,7 +22,7 @@
     {
       "brand": "LG",
       "name": "55QNED84A6C",
-      "price": 443.9,
+      "price": 449.0,
       "score": 9.1,
       "label": "Beste keuze",
       "reviews": "40+ reviews",
@@ -50,7 +50,7 @@
       "bol_title": "LG 55QNED84A6C - 55 inch - 4K QNED - 2025 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/lg-55qned84a6c-aeu-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000241396599/",
       "image": "https://media.s-bol.com/rDv0ypOvr194/mwXyWPO/550x337.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-20": 478.9,
         "2026-10-21": 478.9,
@@ -67,11 +67,12 @@
         "2026-11-02": 444.0,
         "2026-11-03": 444.0,
         "2026-11-04": 447.94,
-        "2026-11-05": 443.9
+        "2026-11-05": 443.9,
+        "2026-11-06": 449.0
       },
       "low_price": 443.9,
-      "prev_price": 447.94,
-      "prev_date": "2026-11-04"
+      "prev_price": 443.9,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "TCL",
@@ -115,10 +116,11 @@
         "2026-11-02": 476.13,
         "2026-11-03": 476.13,
         "2026-11-04": 476.13,
-        "2026-11-05": 476.13
+        "2026-11-05": 476.13,
+        "2026-11-06": 476.13
       },
       "low_price": 476.13,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 489.0,
       "prev_date": "2026-10-29"
     },
@@ -165,10 +167,11 @@
         "2026-11-02": 419.0,
         "2026-11-03": 419.0,
         "2026-11-04": 419.0,
-        "2026-11-05": 419.0
+        "2026-11-05": 419.0,
+        "2026-11-06": 419.0
       },
       "low_price": 419.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Hisense",
@@ -201,7 +204,7 @@
       "bol_title": "Hisense 55E7S SmartTV - 55 inch - 4K Hi-QLED - 2026 - Hi-QLED Colour - Dolby Vision Atmos - AI 4K Upscaler - AI Smooth Motion - Game Mode Plus - Filmmaker Mode",
       "url": "https://www.bol.com/nl/nl/p/hisense-55e7s-smarttv-55-inch-4k-hi-qled-2026-hi-qled-colour-dolby-vision-atmos-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-filmmaker-mode/9300000269685073/",
       "image": "https://media.s-bol.com/2KxvK0qJw5MM/pZwJxA2/550x342.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-20": 450.67,
         "2026-10-21": 450.67,
@@ -218,7 +221,8 @@
         "2026-11-02": 419.0,
         "2026-11-03": 419.0,
         "2026-11-04": 419.0,
-        "2026-11-05": 419.0
+        "2026-11-05": 419.0,
+        "2026-11-06": 419.0
       },
       "low_price": 419.0,
       "prev_price": 450.67,
@@ -227,7 +231,7 @@
     {
       "brand": "Samsung",
       "name": "UE55U7090H",
-      "price": 449.0,
+      "price": 399.0,
       "score": 8.6,
       "label": null,
       "reviews": "30+ reviews",
@@ -255,7 +259,7 @@
       "bol_title": "Samsung UE55U7090H - 55 inch - 4K LED - 2026 + 3 jaar extra garantie - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-ue55u7090hu-55-inch-4k-led-2026-smart-tv/9300000332667098/",
       "image": "https://media.s-bol.com/7PAEKoqW4Mjy/jYZwkkR/550x348.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-20": 449.0,
         "2026-10-21": 449.0,
@@ -272,9 +276,12 @@
         "2026-11-02": 449.0,
         "2026-11-03": 449.0,
         "2026-11-04": 449.0,
-        "2026-11-05": 449.0
+        "2026-11-05": 449.0,
+        "2026-11-06": 399.0
       },
-      "low_price": 449.0
+      "low_price": 399.0,
+      "prev_price": 449.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
@@ -306,7 +313,7 @@
       "bol_title": "Philips 55PUS8500/12 - 55 inch - 4K QLED - 2025 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/philips-55pus8500-12-55-inch-4k-qled-2025/9300000229240646/",
       "image": "https://media.s-bol.com/3nXx1yyNjxQr/wp1LV0z/550x358.jpg",
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "ph": {
         "2026-10-20": 479.0,
         "2026-10-21": 479.0,
@@ -323,7 +330,8 @@
         "2026-11-02": 499.0,
         "2026-11-03": 499.0,
         "2026-11-04": 499.0,
-        "2026-11-05": 499.0
+        "2026-11-05": 499.0,
+        "2026-11-06": 499.0
       },
       "low_price": 479.0,
       "prev_price": 479.0,
@@ -368,10 +376,11 @@
         "2026-11-02": 447.99,
         "2026-11-03": 447.99,
         "2026-11-04": 447.99,
-        "2026-11-05": 447.99
+        "2026-11-05": 447.99,
+        "2026-11-06": 447.99
       },
       "low_price": 447.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Sharp",
@@ -406,10 +415,11 @@
       "image": "https://media.s-bol.com/gzvOM2o62y63/wVOQOMw/550x344.jpg",
       "ph": {
         "2026-11-04": 429.0,
-        "2026-11-05": 429.0
+        "2026-11-05": 429.0,
+        "2026-11-06": 429.0
       },
       "low_price": 429.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "TCL",
@@ -452,10 +462,11 @@
         "2026-11-02": 479.0,
         "2026-11-03": 479.0,
         "2026-11-04": 479.0,
-        "2026-11-05": 479.0
+        "2026-11-05": 479.0,
+        "2026-11-06": 479.0
       },
       "low_price": 399.0,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 399.0,
       "prev_date": "2026-11-01"
     },
@@ -490,10 +501,11 @@
       "url": "https://www.bol.com/nl/nl/p/hisense-65a6s-65-inch-smarttv-4k-dled-2026-dolby-vision-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-voice-control-dts-virtual-x/9300000272063069/",
       "image": "https://media.s-bol.com/Y3WvYnoZ6wL2/nRQE4Bl/550x353.jpg",
       "ph": {
-        "2026-11-05": 499.0
+        "2026-11-05": 499.0,
+        "2026-11-06": 499.0
       },
       "low_price": 499.0,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     }
   ],
   "guide": [

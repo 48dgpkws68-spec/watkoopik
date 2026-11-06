@@ -61,10 +61,11 @@
         "2026-11-02": 58.1,
         "2026-11-03": 58.1,
         "2026-11-04": 58.1,
-        "2026-11-05": 58.1
+        "2026-11-05": 58.1,
+        "2026-11-06": 58.1
       },
       "low_price": 58.1,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Ravensburger",
@@ -94,7 +95,7 @@
       ],
       "ideal": "Gezinnen met kinderen vanaf 7 jaar die samen een spel willen voor de feestdagen.",
       "text": "Doolhof van Ravensburger bestaat al tientallen jaren en is nog altijd een van de leukste spellen om met kinderen te spelen. Elke speler zoekt een eigen reeks schatten in een doolhof dat nooit stil ligt. Voor je zet schuif je een losse gangtegel het bord in, waardoor een hele rij opschuift. Zo open je een pad voor jezelf of blokkeer je juist de route van een ander.\n\nHet mooie is dat een kind van 8 een volwassene zonder moeite kan verslaan, omdat het draait om ruimtelijk inzicht en niet om kennis. Een potje duurt ongeveer 20 tot 30 minuten. Kopers op bol geven gemiddeld een 4,7 en noemen het vaak een spel dat bij hen thuis al jaren op tafel komt. Voor rond de 25 euro krijg je een cadeau dat het hele gezin gebruikt. Dat maakt Doolhof in deze lijst de beste prijs-kwaliteit. Heb je jongere kinderen, kijk dan naar Junior Doolhof met eenvoudigere regels.",
-      "bol_title": "Ravensburger Doolhof Classic | Familiespel voor 2-4 Spelers | Vanaf 7 Jaar",
+      "bol_title": "Ravensburger Doolhof Classic | Familiespel voor 2 - 4 Spelers | Vanaf 7 Jaar",
       "url": "https://www.bol.com/nl/nl/p/ravensburger-doolhof-bordspel/1004004004912001/",
       "image": "https://media.s-bol.com/jl909kyyBV6y/JqxD2LK/550x440.jpg",
       "ph": {
@@ -105,15 +106,16 @@
         "2026-11-02": 24.99,
         "2026-11-03": 24.99,
         "2026-11-04": 24.99,
-        "2026-11-05": 24.99
+        "2026-11-05": 24.99,
+        "2026-11-06": 24.99
       },
       "low_price": 24.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "VTech",
       "name": "KidiZoom Duo FX",
-      "price": 59.99,
+      "price": 59.96,
       "score": 9.0,
       "label": "Beste premium",
       "ean": "3417765199233",
@@ -149,12 +151,13 @@
         "2026-11-02": 79.99,
         "2026-11-03": 72.64,
         "2026-11-04": 72.64,
-        "2026-11-05": 59.99
+        "2026-11-05": 59.99,
+        "2026-11-06": 59.96
       },
-      "low_price": 59.99,
-      "synced": "2026-11-05",
-      "prev_price": 72.64,
-      "prev_date": "2026-11-04"
+      "low_price": 59.96,
+      "synced": "2026-11-06",
+      "prev_price": 59.99,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Nintendo",
@@ -195,10 +198,11 @@
         "2026-11-02": 49.99,
         "2026-11-03": 49.99,
         "2026-11-04": 52.99,
-        "2026-11-05": 49.99
+        "2026-11-05": 49.99,
+        "2026-11-06": 49.99
       },
       "low_price": 49.99,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 52.99,
       "prev_date": "2026-11-04"
     },
@@ -241,10 +245,11 @@
         "2026-11-02": 37.99,
         "2026-11-03": 37.99,
         "2026-11-04": 41.23,
-        "2026-11-05": 37.99
+        "2026-11-05": 37.99,
+        "2026-11-06": 37.99
       },
       "low_price": 37.99,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 41.23,
       "prev_date": "2026-11-04"
     },
@@ -287,10 +292,11 @@
         "2026-11-02": 49.99,
         "2026-11-03": 49.99,
         "2026-11-04": 49.99,
-        "2026-11-05": 49.99
+        "2026-11-05": 49.99,
+        "2026-11-06": 49.99
       },
       "low_price": 46.23,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 46.23,
       "prev_date": "2026-10-30"
     },
@@ -333,10 +339,11 @@
         "2026-11-02": 29.99,
         "2026-11-03": 29.99,
         "2026-11-04": 29.99,
-        "2026-11-05": 29.99
+        "2026-11-05": 29.99,
+        "2026-11-06": 29.99
       },
       "low_price": 29.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "LEGO",
@@ -377,10 +384,11 @@
         "2026-11-02": 38.99,
         "2026-11-03": 38.99,
         "2026-11-04": 38.99,
-        "2026-11-05": 38.99
+        "2026-11-05": 38.99,
+        "2026-11-06": 38.99
       },
       "low_price": 38.99,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 39.99,
       "prev_date": "2026-10-29"
     },
@@ -423,10 +431,11 @@
         "2026-11-02": 15.99,
         "2026-11-03": 15.99,
         "2026-11-04": 15.99,
-        "2026-11-05": 15.99
+        "2026-11-05": 15.99,
+        "2026-11-06": 15.99
       },
       "low_price": 15.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "SmartGames",
@@ -467,10 +476,11 @@
         "2026-11-02": 10.0,
         "2026-11-03": 10.0,
         "2026-11-04": 10.99,
-        "2026-11-05": 9.99
+        "2026-11-05": 9.99,
+        "2026-11-06": 9.99
       },
       "low_price": 9.99,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "prev_price": 10.99,
       "prev_date": "2026-11-04"
     }

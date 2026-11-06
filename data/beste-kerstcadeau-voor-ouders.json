@@ -24,7 +24,7 @@
     {
       "brand": "Philips",
       "name": "Wake-up Light HF3531/01",
-      "price": 141.99,
+      "price": 135.44,
       "score": 9.2,
       "label": "Beste keuze",
       "oneliner": "Wekker die je wakker maakt met langzaam opkomend licht.",
@@ -63,12 +63,13 @@
         "2026-11-02": 146.0,
         "2026-11-03": 141.99,
         "2026-11-04": 141.99,
-        "2026-11-05": 141.99
+        "2026-11-05": 141.99,
+        "2026-11-06": 135.44
       },
       "low_price": 131.0,
-      "synced": "2026-11-05",
-      "prev_price": 146.0,
-      "prev_date": "2026-11-02"
+      "synced": "2026-11-06",
+      "prev_price": 141.99,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Denver",
@@ -112,10 +113,11 @@
         "2026-11-02": 63.0,
         "2026-11-03": 63.82,
         "2026-11-04": 63.82,
-        "2026-11-05": 63.82
+        "2026-11-05": 63.82,
+        "2026-11-06": 63.82
       },
       "low_price": 63.0,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "reviews": "reviews op bol",
       "prev_price": 63.0,
       "prev_date": "2026-11-02"
@@ -146,7 +148,7 @@
       "ideal": "Ouders die veel lezen en graag een groter lettertype gebruiken.",
       "text": "Ouders die graag lezen hebben veel aan een e-reader: de letters maak je zo groot als je wilt en het scherm is ook in de zon goed leesbaar. De Kobo Clara BW heeft een scherp scherm van 6 inch en weegt maar 174 gram, wat prettig is bij lang lezen in bed.\n\nHet ComfortLight PRO laat je de kleur van het licht aanpassen naar warm oranje voor de avond. Met 16 GB passen er duizenden boeken op en via Bluetooth luister je ook luisterboeken. In Nederland kun je via de online bibliotheek gratis e-books lenen. De accu gaat weken mee. Reviewers vinden het een rustig apparaat zonder afleiding van meldingen. Doe er een hoesje bij voor een compleet cadeau.",
       "ean": "0681495009558",
-      "bol_title": "Kobo Clara BW - E-reader - 6 inch - 16GB - Luisterboeken - Zwart",
+      "bol_title": "Kobo Clara BW - E-reader - Luisterboeken - 6 inch - 16GB - Zwart",
       "url": "https://www.bol.com/nl/nl/p/kobo-clara-bw-e-reader-6-inch-16gb-luisterboeken-zwart/9300000173830676/",
       "image": "https://media.s-bol.com/jKgrOjzPoXwy/5y7pV1Z/550x787.jpg",
       "ph": {
@@ -162,10 +164,11 @@
         "2026-11-02": 169.0,
         "2026-11-03": 169.0,
         "2026-11-04": 169.0,
-        "2026-11-05": 169.0
+        "2026-11-05": 169.0,
+        "2026-11-06": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "reviews": "reviews op bol",
       "prev_price": 169.99,
       "prev_date": "2026-10-24"
@@ -173,7 +176,7 @@
     {
       "brand": "De'Longhi",
       "name": "Nespresso Citiz EN167.B",
-      "price": 132.95,
+      "price": 135.99,
       "score": 8.7,
       "label": null,
       "oneliner": "Retro cupmachine voor espresso en lungo.",
@@ -212,13 +215,14 @@
         "2026-11-02": 135.99,
         "2026-11-03": 135.99,
         "2026-11-04": 130.29,
-        "2026-11-05": 132.95
+        "2026-11-05": 132.95,
+        "2026-11-06": 135.99
       },
       "low_price": 126.96,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "reviews": "reviews op bol",
-      "prev_price": 130.29,
-      "prev_date": "2026-11-04"
+      "prev_price": 132.95,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Beurer",
@@ -262,16 +266,17 @@
         "2026-11-02": 47.38,
         "2026-11-03": 47.38,
         "2026-11-04": 47.38,
-        "2026-11-05": 47.38
+        "2026-11-05": 47.38,
+        "2026-11-06": 47.38
       },
       "low_price": 47.38,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "reviews": "reviews op bol"
     },
     {
       "brand": "Inventum",
       "name": "HN135 elektrische onderdeken 150 x 80 cm",
-      "price": 47.0,
+      "price": 39.0,
       "score": 8.5,
       "label": null,
       "oneliner": "Warme onderdeken die het bed voorverwarmt.",
@@ -310,13 +315,14 @@
         "2026-11-02": 47.0,
         "2026-11-03": 47.0,
         "2026-11-04": 47.0,
-        "2026-11-05": 47.0
+        "2026-11-05": 47.0,
+        "2026-11-06": 39.0
       },
-      "low_price": 45.08,
-      "synced": "2026-11-05",
+      "low_price": 39.0,
+      "synced": "2026-11-06",
       "reviews": "reviews op bol",
-      "prev_price": 52.24,
-      "prev_date": "2026-11-01"
+      "prev_price": 47.0,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips Hue",
@@ -360,10 +366,11 @@
         "2026-11-02": 86.99,
         "2026-11-03": 86.99,
         "2026-11-04": 90.0,
-        "2026-11-05": 90.0
+        "2026-11-05": 90.0,
+        "2026-11-06": 90.0
       },
       "low_price": 63.91,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "reviews": "reviews op bol",
       "prev_price": 86.99,
       "prev_date": "2026-11-03"
@@ -410,10 +417,11 @@
         "2026-11-02": 96.0,
         "2026-11-03": 96.0,
         "2026-11-04": 96.0,
-        "2026-11-05": 96.0
+        "2026-11-05": 96.0,
+        "2026-11-06": 96.0
       },
       "low_price": 96.0,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "reviews": "reviews op bol",
       "prev_price": 106.0,
       "prev_date": "2026-10-28"
@@ -421,7 +429,7 @@
     {
       "brand": "SMEG",
       "name": "KLF05CREU mini waterkoker 0,8 l",
-      "price": 100.42,
+      "price": 92.0,
       "score": 8.2,
       "label": null,
       "oneliner": "Kleine retro-waterkoker voor een of twee koppen thee.",
@@ -460,13 +468,14 @@
         "2026-11-02": 104.0,
         "2026-11-03": 104.0,
         "2026-11-04": 104.0,
-        "2026-11-05": 100.42
+        "2026-11-05": 100.42,
+        "2026-11-06": 92.0
       },
-      "low_price": 100.42,
-      "synced": "2026-11-05",
+      "low_price": 92.0,
+      "synced": "2026-11-06",
       "reviews": "reviews op bol",
-      "prev_price": 104.0,
-      "prev_date": "2026-11-04"
+      "prev_price": 100.42,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "JBL",
@@ -510,10 +519,11 @@
         "2026-11-02": 45.95,
         "2026-11-03": 45.95,
         "2026-11-04": 45.95,
-        "2026-11-05": 45.95
+        "2026-11-05": 45.95,
+        "2026-11-06": 45.95
       },
       "low_price": 45.95,
-      "synced": "2026-11-05",
+      "synced": "2026-11-06",
       "reviews": "reviews op bol"
     }
   ],

@@ -61,10 +61,11 @@
       "image": "https://media.s-bol.com/Ngo2QYn2Nj7N/0RrnVoy/550x805.jpg",
       "ph": {
         "2026-11-04": 22.99,
-        "2026-11-05": 22.99
+        "2026-11-05": 22.99,
+        "2026-11-06": 22.99
       },
       "low_price": 22.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Rituals",
@@ -98,10 +99,11 @@
       "image": "https://media.s-bol.com/ZMR0YoPpDDp6/pgVqW52/250x200.jpg",
       "ph": {
         "2026-11-04": 23.75,
-        "2026-11-05": 23.75
+        "2026-11-05": 23.75,
+        "2026-11-06": 23.75
       },
       "low_price": 23.75,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Tangle Teezer",
@@ -135,10 +137,11 @@
       "image": "https://media.s-bol.com/NrzRxYPD9JnK/3Q6yWOQ/263x840.jpg",
       "ph": {
         "2026-11-04": 15.99,
-        "2026-11-05": 15.99
+        "2026-11-05": 15.99,
+        "2026-11-06": 15.99
       },
       "low_price": 15.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Jumbo",
@@ -172,10 +175,11 @@
       "image": "https://media.s-bol.com/gqrnRvgM8gRr/M86LNXQ/550x825.jpg",
       "ph": {
         "2026-11-04": 18.99,
-        "2026-11-05": 18.99
+        "2026-11-05": 18.99,
+        "2026-11-06": 18.99
       },
       "low_price": 18.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Kneipp",
@@ -209,15 +213,16 @@
       "image": "https://media.s-bol.com/LmBOR0Q4PRrA/qx69wV0/550x234.jpg",
       "ph": {
         "2026-11-04": 19.99,
-        "2026-11-05": 19.99
+        "2026-11-05": 19.99,
+        "2026-11-06": 19.99
       },
       "low_price": 19.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Moleskine",
       "name": "Classic notitieboek Large hardcover gelinieerd zwart",
-      "price": 21.38,
+      "price": 21.99,
       "score": 8.6,
       "label": null,
       "reviews": "reviews op bol",
@@ -246,10 +251,13 @@
       "image": "https://media.s-bol.com/g6z2Qlzy2OxZ/YW0g5kA/550x366.jpg",
       "ph": {
         "2026-11-04": 21.38,
-        "2026-11-05": 21.38
+        "2026-11-05": 21.38,
+        "2026-11-06": 21.99
       },
       "low_price": 21.38,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06",
+      "prev_price": 21.38,
+      "prev_date": "2026-11-05"
     },
     {
       "brand": "Pukka",
@@ -283,10 +291,11 @@
       "image": "https://media.s-bol.com/YLAjJlyZzzxM/98yVZOx/550x767.jpg",
       "ph": {
         "2026-11-04": 17.99,
-        "2026-11-05": 17.99
+        "2026-11-05": 17.99,
+        "2026-11-06": 17.99
       },
       "low_price": 17.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Philips",
@@ -321,10 +330,11 @@
       "image": "https://media.s-bol.com/kEQWOy2QRvWE/32MLY19/492x840.jpg",
       "ph": {
         "2026-11-04": 25.37,
-        "2026-11-05": 25.37
+        "2026-11-05": 25.37,
+        "2026-11-06": 25.37
       },
       "low_price": 25.37,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Weleda",
@@ -358,10 +368,11 @@
       "image": "https://media.s-bol.com/7PQGg86qlYWO/pZj07E2/550x540.jpg",
       "ph": {
         "2026-11-04": 11.99,
-        "2026-11-05": 11.99
+        "2026-11-05": 11.99,
+        "2026-11-06": 11.99
       },
       "low_price": 11.99,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     },
     {
       "brand": "Yankee Candle",
@@ -395,10 +406,11 @@
       "image": "https://media.s-bol.com/gP8ELWB0Ogvl/DG4Y1x/538x840.jpg",
       "ph": {
         "2026-11-04": 16.95,
-        "2026-11-05": 16.95
+        "2026-11-05": 16.95,
+        "2026-11-06": 16.95
       },
       "low_price": 16.95,
-      "synced": "2026-11-05"
+      "synced": "2026-11-06"
     }
   ],
   "guide": [
