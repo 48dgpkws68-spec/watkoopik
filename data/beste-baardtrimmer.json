@@ -191,61 +191,40 @@
     },
     {
       "brand": "Panasonic",
-      "name": "Baardtrimmer ER-GB80-H503",
-      "price": 79.0,
+      "name": "Baardtrimmer ER-GB96",
+      "price": 101.54,
       "score": 8.8,
       "label": null,
-      "reviews": "700+ reviews",
-      "oneliner": "Japanse precisie met 39 lengtes en scherpe 45 graden mesjes.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Japanse precisie met 58 lengtes tot 30 mm en vier opzetkammen.",
       "specs": {
-        "Lengtes": "1 tot 20 mm",
+        "Lengtes": "0,5 tot 30 mm",
         "Stappen": "0,5 mm",
         "Accuduur": "50 min",
         "Laadtijd": "1 uur",
-        "Waterdicht": "Ja"
+        "Waterdicht": "Afspoelbaar"
       },
       "pros": [
-        "39 lengtes tot 20 mm via een draaiwiel",
-        "Scherpe 45 graden mesjes knippen snel",
-        "Volledig afwasbaar",
-        "Stevige grip met rubberen zijkanten"
+        "58 lengtes in stappen van een halve millimeter",
+        "Bereik tot 30 mm voor een lange baard",
+        "Vier opzetkammen waaronder een voor details",
+        "Te gebruiken met en zonder snoer"
       ],
       "cons": [
-        "Accuduur van 50 minuten is kort",
-        "Geen opzetstukken voor neus of lichaam"
+        "Duurder dan de meeste baardtrimmers hier",
+        "Accuduur van 50 minuten is kort"
       ],
-      "ideal": "Mannen met een middellange baard die precieze lengtes willen kiezen.",
-      "text": "Panasonic staat bekend om scherpe mesjes en de ER-GB80 laat zien waarom. De mesjes staan onder een hoek van 45 graden, waardoor ze ook dikke baardharen in één keer doorknippen zonder te trekken. Met het draaiwiel stel je 39 lengtes in tussen 1 en 20 mm, in stappen van een halve millimeter. Dat is ruim genoeg voor een stoppelbaard tot een volle baard van een paar weken.\n\nDe accu gaat ongeveer 50 minuten mee na een uur laden. Voor twee of drie weken trimmen is dat voldoende, maar op een lange reis neem je de lader mee. De trimmer is volledig waterdicht en spoel je onder de kraan af. Gebruikers prijzen de stevige grip en het gelijkmatige resultaat. Extra opzetstukken voor neus of lichaam ontbreken, dus het is echt een baardtrimmer. Wie vooral scherpe mesjes en veel lengtes wil, krijgt hier veel kwaliteit voor zijn geld.",
-      "ean": "5025232937271",
-      "bol_title": "Panasonic ER-GB80-H503 - Baardtrimmer - Zwart",
-      "url": "https://www.bol.com/nl/nl/p/panasonic-er-gb80-h503-baardtrimmer-zwart/9300000004594632/",
-      "image": "https://media.s-bol.com/JQvYlryGNo0v/y84or9w/250x200.jpg",
-      "synced": "2026-11-06",
+      "ideal": "Mannen met een lange of gevormde baard die precieze lengtes willen kiezen.",
+      "text": "Panasonic staat bekend om scherpe mesjes en de ER-GB96 is het topmodel voor de baard. Met de opzetkammen stel je 58 lengtes in tussen 0,5 en 30 mm, in stappen van een halve millimeter. Dat is ruim genoeg voor een stoppelbaard van een paar dagen tot een volle baard van enkele centimeters. Eén van de kammen is bedoeld voor details, handig rond de wangen en de hals.\n\nDe accu gaat ongeveer 50 minuten mee na een uur laden en je kunt de trimmer ook op het stopcontact gebruiken als hij leeg is. Je spoelt hem onder de kraan af, zodat schoonmaken weinig moeite kost. Kopers op bol geven hem gemiddeld een 4,3 van 5. Extra opzetstukken voor neus of lichaam ontbreken, dus het is echt een baardtrimmer. Wie vooral veel lengtes en scherpe mesjes wil, krijgt hier een degelijk apparaat voor.",
+      "ean": "5025232876945",
+      "bol_title": "Panasonic ER-GB96 - baardtrimmer",
+      "url": "https://www.bol.com/nl/nl/p/panasonic-er-gb96-baardtrimmer/9200000092187662/",
+      "image": "https://media.s-bol.com/D8mYmEo9zPkA/GZ21yP8/250x200.jpg",
       "ph": {
-        "2026-10-15": 79.0,
-        "2026-10-16": 79.0,
-        "2026-10-17": 79.0,
-        "2026-10-18": 79.0,
-        "2026-10-19": 79.0,
-        "2026-10-20": 79.0,
-        "2026-10-21": 79.0,
-        "2026-10-23": 79.0,
-        "2026-10-24": 79.0,
-        "2026-10-25": 79.0,
-        "2026-10-26": 79.0,
-        "2026-10-27": 79.0,
-        "2026-10-28": 79.0,
-        "2026-10-29": 79.0,
-        "2026-10-30": 79.0,
-        "2026-10-31": 79.0,
-        "2026-11-01": 79.0,
-        "2026-11-02": 79.0,
-        "2026-11-03": 79.0,
-        "2026-11-04": 79.0,
-        "2026-11-05": 79.0,
-        "2026-11-06": 79.0
+        "2026-11-06": 101.54
       },
-      "low_price": 79.0
+      "low_price": 101.54,
+      "synced": "2026-11-06"
     },
     {
       "brand": "Philips",

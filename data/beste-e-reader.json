@@ -429,63 +429,40 @@
     },
     {
       "brand": "PocketBook",
-      "name": "Verse Pro",
-      "price": 184.5,
+      "name": "Verse Pro Color",
+      "price": 175.0,
       "score": 8.2,
       "label": null,
-      "reviews": "800+ reviews",
-      "oneliner": "Waterdichte e-reader met veel formaten en bladertoetsen.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "Waterdichte kleuren-e-reader met veel formaten en bladertoetsen.",
       "specs": {
-        "Scherm": "6 inch E Ink Carta 1200",
-        "Kleur": "Nee",
+        "Scherm": "6 inch E Ink Kaleido 3",
+        "Kleur": "Ja",
         "Waterdicht": "IPX8",
         "Opslag": "16 GB",
         "Online Bibliotheek": "Nee"
       },
       "pros": [
-        "Ondersteunt meer dan twintig bestandsformaten",
+        "Kleurenscherm voor covers en strips",
         "Fysieke bladertoetsen",
         "Waterdicht",
-        "Audioboeken via Bluetooth"
+        "Ondersteunt veel bestandsformaten"
       ],
       "cons": [
         "Geen ingebouwde Online Bibliotheek",
-        "Software minder gepolijst dan Kobo"
+        "Kleuren zijn zachter dan op een tablet"
       ],
-      "ideal": "Lezers die veel eigen bestanden lezen in uiteenlopende formaten.",
-      "text": "PocketBook is een Europees merk dat bekendstaat om ruime formaatondersteuning. De Verse Pro leest EPUB, PDF, MOBI, CBR, DJVU en nog veel meer zonder conversie. Dat maakt hem populair bij lezers met een eigen verzameling e-books. Het 6-inchscherm met E Ink Carta 1200 is scherp en heeft verstelbaar warm licht. Fysieke bladertoetsen onderaan maken lezen met één hand makkelijk.\n\nHij is waterdicht volgens IPX8 en speelt audioboeken af via Bluetooth. De Online Bibliotheek is niet ingebouwd, maar je kunt geleende boeken overzetten via Adobe Digital Editions op je computer. Gebruikers waarderen de vrijheid en de knoppen, al voelt de software minder vlot dan bij Kobo.",
-      "ean": "7640152094965",
-      "bol_title": "PocketBook Verse Pro e-reader – 6 inch E Ink Carta-scherm – 16 GB – waterdicht – Azure",
-      "url": "https://www.bol.com/nl/nl/p/pocketbook-ereader-verse-pro-azure/9300000161451369/",
-      "image": "https://media.s-bol.com/yx4Z2mLJ4J7n/XmNw48/550x792.jpg",
-      "synced": "2026-11-06",
+      "ideal": "Lezers die veel eigen bestanden lezen en daarbij een kleurenscherm willen.",
+      "text": "PocketBook is een Europees merk dat bekendstaat om ruime formaatondersteuning. De Verse Pro Color leest EPUB, PDF, MOBI, CBR en nog veel meer zonder conversie. Dat maakt hem populair bij lezers met een eigen verzameling e-books. Het 6-inchscherm is een E Ink Kaleido 3, dus covers, strips en kaarten zie je in zachte kleur en tekst blijft scherp. Fysieke bladertoetsen onder het scherm maken lezen met één hand makkelijk.\n\nHij is waterdicht volgens IPX8 en speelt audioboeken af via Bluetooth. De Online Bibliotheek is niet ingebouwd, maar je kunt geleende boeken overzetten via Adobe Digital Editions op je computer. Kopers op bol geven hem gemiddeld een 4,4 van 5. De kleuren zijn pastelachtig, zoals bij alle E Ink-kleurschermen. De software voelt minder vlot dan bij Kobo. Wil je vooral lezen en veel eigen bestanden gebruiken, dan past hij goed.",
+      "ean": "7640152097270",
+      "bol_title": "PocketBook Verse Pro Color e-reader – 6 inch E Ink Kaleido 3 kleurenscherm – 16 GB – waterdicht – Stormy Sea",
+      "url": "https://www.bol.com/nl/nl/p/pocketbook-ereader-verse-pro-color-stormy-sea/9300000183855519/",
+      "image": "https://media.s-bol.com/B06DmXXLlpLJ/3ly7Kmr/550x795.jpg",
       "ph": {
-        "2026-10-14": 169.0,
-        "2026-10-15": 169.0,
-        "2026-10-16": 169.0,
-        "2026-10-17": 169.0,
-        "2026-10-18": 169.0,
-        "2026-10-19": 169.0,
-        "2026-10-20": 169.0,
-        "2026-10-21": 169.0,
-        "2026-10-23": 169.0,
-        "2026-10-24": 169.0,
-        "2026-10-25": 169.0,
-        "2026-10-26": 169.0,
-        "2026-10-27": 169.0,
-        "2026-10-28": 169.0,
-        "2026-10-29": 169.0,
-        "2026-10-30": 184.5,
-        "2026-10-31": 184.5,
-        "2026-11-01": 184.5,
-        "2026-11-02": 184.5,
-        "2026-11-03": 184.5,
-        "2026-11-04": 184.5,
-        "2026-11-05": 184.5
+        "2026-11-06": 175.0
       },
-      "low_price": 169.0,
-      "prev_price": 169.0,
-      "prev_date": "2026-10-29"
+      "low_price": 175.0,
+      "synced": "2026-11-06"
     },
     {
       "brand": "Tolino",

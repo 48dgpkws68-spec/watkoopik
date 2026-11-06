@@ -295,59 +295,41 @@
       "prev_date": "2026-11-05"
     },
     {
-      "brand": "Sony",
-      "name": "Bravia 5 55 inch",
+      "brand": "Philips",
+      "name": "55OLED810 Ambilight",
       "price": 999.0,
       "score": 8.7,
-      "label": null,
-      "reviews": "250+ reviews",
-      "oneliner": "Felle miniled met Sony-beeldverwerking voor lichte kamers.",
+      "reviews": "reviews op bol",
+      "oneliner": "OLED met driezijdige Ambilight en Titan OS.",
       "specs": {
-        "Paneel": "Mini LED",
+        "Paneel": "OLED",
         "Verversing": "120 Hz",
-        "HDR": "Dolby Vision, HDR10, HLG",
-        "Smart-tv": "Google TV",
+        "HDR": "Dolby Vision, HDR10+, HLG",
+        "Smart-tv": "Titan OS",
         "Jaar": "2025"
       },
       "pros": [
-        "Heel fel, ideaal voor een zonnige kamer",
-        "Goede local dimming met Mini LED",
-        "Sony-beeldverwerking en Google TV"
+        "Echte OLED met perfect zwart voor 999 euro",
+        "Driezijdige Ambilight maakt het beeld groter",
+        "Dolby Vision en Dolby Atmos aan boord",
+        "Titan OS heeft alle Nederlandse apps"
       ],
       "cons": [
-        "Kijkhoeken minder goed dan oled",
-        "Lichte halo's rond ondertitels in het donker"
+        "Minder fel dan Mini LED in een zonnige kamer",
+        "Geluid is voor een tv van dit formaat gewoon redelijk"
       ],
-      "ideal": "Wie een felle tv zoekt voor een lichte woonkamer met veel ramen.",
-      "text": "De Sony Bravia 5 gebruikt Mini LED in plaats van oled. Duizenden kleine leds achter het scherm geven veel meer licht, waardoor deze tv overdag in een lichte kamer met veel ramen beter zichtbaar blijft dan een oled. Dankzij de local dimming worden donkere delen van het beeld ook echt donker, al haalt hij het perfecte zwart van oled niet.\n\nSony's XR-processor zorgt voor natuurlijke kleuren en goed opschalen van tv-zenders en streams. Bij sport blijft beweging rustig. Google TV geeft je alle Nederlandse apps en Chromecast is ingebouwd. Voor gamers zijn er twee HDMI 2.1-poorten met 120 Hz en VRR. Het nadeel van Mini LED is dat je in het donker soms een lichte gloed rond witte tekst ziet en dat de kijkhoeken smaller zijn. Kopers op bol geven hem 4,6 sterren en prijzen de helderheid.",
-      "ean": "4548736171367",
-      "bol_title": "Sony Bravia 5 - 55 inch - 4K XR | MiniLED - 2025",
-      "url": "https://www.bol.com/nl/nl/p/sony-bravia-5-55-inch-4k-miniled-2025/9300000228487622/",
-      "image": "https://media.s-bol.com/JmQk5qmqJzyD/VP5N6G9/550x333.jpg",
-      "synced": "2026-11-06",
+      "ideal": "Wie OLED wil met Ambilight en niet meer dan 1000 euro wil uitgeven.",
+      "text": "De Philips 55OLED810 is een OLED uit 2025 met driezijdige Ambilight. Elke pixel geeft zijn eigen licht, dus zwart is echt zwart en de kijkhoek is breed. De Ambilight-leds achter de tv kleuren de muur mee met het beeld, waardoor het scherm groter oogt en je ogen 's avonds minder moe worden.\n\nHet systeem is Titan OS, met Netflix, Disney+, Videoland, NPO Start en de andere grote apps. Dolby Vision en Dolby Atmos worden ondersteund. Het paneel werkt op 120 Hz voor consolegames. Kopers op bol geven hem 4,8 sterren. Het nadeel is dat een OLED in een kamer met veel direct zonlicht minder fel is dan een Mini LED, dus kijk je vooral overdag, dan past een felle LED-tv beter. Voor een donkere of gedimde woonkamer is dit een van de weinige OLED's voor onder de 1000 euro.",
+      "ean": "8718863046470",
+      "label": null,
+      "bol_title": "Philips Ambilight 55OLED810/12 - 55 inch - 4K OLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/philips-ambilight-55oled810-12-55-inch-4k-oled-2025/9300000241514418/",
+      "image": "https://media.s-bol.com/pA0rNqP8ORWN/DRlL8OY/550x351.jpg",
       "ph": {
-        "2026-10-16": 999.0,
-        "2026-10-17": 999.0,
-        "2026-10-18": 999.0,
-        "2026-10-19": 999.0,
-        "2026-10-20": 999.0,
-        "2026-10-21": 999.0,
-        "2026-10-23": 999.0,
-        "2026-10-24": 999.0,
-        "2026-10-25": 999.0,
-        "2026-10-26": 999.0,
-        "2026-10-27": 999.0,
-        "2026-10-28": 999.0,
-        "2026-10-29": 999.0,
-        "2026-10-30": 999.0,
-        "2026-10-31": 999.0,
-        "2026-11-01": 999.0,
-        "2026-11-02": 999.0,
-        "2026-11-03": 999.0,
-        "2026-11-04": 999.0,
-        "2026-11-05": 999.0
+        "2026-11-06": 999.0
       },
-      "low_price": 999.0
+      "low_price": 999.0,
+      "synced": "2026-11-06"
     },
     {
       "brand": "Samsung",
@@ -589,7 +571,7 @@
     },
     {
       "q": "Is oled geschikt voor een lichte woonkamer?",
-      "a": "Moderne oleds zoals de LG G5 worden fel genoeg voor de meeste woonkamers. In een kamer met veel direct zonlicht is een Mini LED-tv zoals de Sony Bravia 5 of Hisense U7Q wel de betere keuze, omdat die veel feller wordt."
+      "a": "Moderne oleds zoals de LG G5 worden fel genoeg voor de meeste woonkamers. In een kamer met veel direct zonlicht is een Mini LED-tv zoals de Hisense U7Q wel de betere keuze, omdat die veel feller wordt."
     },
     {
       "q": "Kan een oled-tv inbranden?",
@@ -637,7 +619,7 @@
     "keuzes": [
       {
         "h": "Oled of Mini LED?",
-        "p": "Kijk je vooral 's avonds films, dan geeft oled het beste zwart: nr. 1 LG C5 (€ 1.041) of nr. 2 LG B5 (€ 799). Staat de tv in een lichte kamer met veel ramen, dan is Mini LED feller. Nr. 6 Sony Bravia 5 (€ 999) en nr. 8 Hisense 55U7Q (€ 650) passen daar. Wil je oled en toch helderheid, kijk dan naar nr. 3 LG G5."
+        "p": "Kijk je vooral 's avonds films, dan geeft oled het beste zwart: nr. 1 LG C5 (€ 1.041) of nr. 2 LG B5 (€ 799). Staat de tv in een lichte kamer met veel ramen, dan is Mini LED feller. Nr. 8 Hisense 55U7Q (€ 650) past daar. Wil je oled en toch helderheid, kijk dan naar nr. 3 LG G5."
       },
       {
         "h": "Hoeveel HDMI 2.1-poorten heb je nodig?",
@@ -649,7 +631,7 @@
       },
       {
         "h": "Dolby Vision, HDR10+ of allebei?",
-        "p": "LG en Sony ondersteunen Dolby Vision zonder HDR10+, nr. 7 Samsung The Frame Pro (€ 1.449) juist HDR10+ zonder Dolby Vision. Wil je allebei, kijk dan naar nr. 5 Philips 55OLED811 Ambilight (€ 1.499) als oled of naar nr. 8, 9 en 10 van Hisense en TCL. Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video ook HDR10+."
+        "p": "LG en Sony ondersteunen Dolby Vision zonder HDR10+, nr. 7 Samsung The Frame Pro (€ 1.449) juist HDR10+ zonder Dolby Vision. Wil je allebei, kijk dan naar nr. 5 Philips 55OLED811 Ambilight (€ 1.499) of nr. 6 Philips 55OLED810 (€ 999) als oled of naar nr. 8, 9 en 10 van Hisense en TCL. Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video ook HDR10+."
       },
       {
         "h": "Komt de tv aan de muur?",
