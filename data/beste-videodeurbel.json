@@ -489,65 +489,42 @@
       "prev_date": "2026-11-06"
     },
     {
-      "brand": "Google",
-      "name": "Nest Doorbell (battery)",
-      "price": 168.95,
+      "brand": "Arlo",
+      "name": "2K Video Doorbell met Chime",
+      "price": 94.99,
       "score": 8.2,
       "label": null,
-      "reviews": "1.000+ reviews",
-      "oneliner": "Strakke deurbel met slimme herkenning en Google Home-koppeling.",
+      "reviews": "bol-score 3,7 van 5",
+      "oneliner": "Draadloze 2K-deurbel met gong en de slimste detectie in de cloud.",
       "specs": {
-        "Resolutie": "HDR 960 x 1280",
+        "Resolutie": "2K (2560 x 1440)",
         "Voeding": "Accu of bedraad",
-        "Opslag": "3 uur cloud gratis",
-        "Abonnement": "Optioneel",
-        "Gong": "Bestaande bel of Nest Hub"
+        "Opslag": "Cloud via Arlo Secure",
+        "Abonnement": "Nodig voor opnames",
+        "Gong": "Arlo Chime meegeleverd"
       },
       "pros": [
-        "Drie uur gratis gebeurtenisgeschiedenis",
-        "Werkt naadloos met Google Home en Nest Hub",
-        "Herkent personen, pakketten, dieren en voertuigen",
-        "Lokale opslag bij wifi-uitval"
+        "Scherp 2K-beeld in vierkant formaat",
+        "Gong zit in de doos",
+        "Werkt met Google Assistant, Alexa en SmartThings",
+        "Herkent personen, voertuigen, dieren en pakketten met Secure"
       ],
       "cons": [
-        "Lagere resolutie dan concurrenten",
-        "Langere geschiedenis alleen met abonnement",
-        "Relatief duur"
+        "Opnames terugkijken alleen met abonnement",
+        "Geen lokale opslag op microSD",
+        "Wisselende beoordelingen van kopers"
       ],
-      "ideal": "Wie al Google Home of een Nest Hub gebruikt en alles in één app wil.",
-      "text": "De Google Nest Doorbell is de logische keuze voor wie al in de Google-wereld zit. Een aanbelling verschijnt direct op een Nest Hub of Chromecast en via de Google Home-app beheer je deurbel, thermostaat en lampen op één plek. De camera filmt in een staand formaat met HDR, zodat je ook in tegenlicht gezichten herkent.\n\nZonder abonnement krijg je drie uur gebeurtenisgeschiedenis, genoeg om te zien wie er net aanbelde. Met Google Home Premium bewaar je langer en krijg je herkenning van bekende gezichten. Bij een wifi-storing slaat de bel tot een uur aan beelden lokaal op. Gebruikers prijzen in reviews de betrouwbare meldingen en het ontwerp. Kritiek is er op de resolutie, die lager ligt dan bij Tapo of eufy en op de prijs. Werk je met Google-apparaten, dan weegt de integratie zwaarder dan de pixels.",
-      "ean": "0193575008592",
-      "bol_title": "Google Nest Videodeurbel - Deurbeldrukker - Batterij - Wit",
-      "url": "https://www.bol.com/nl/nl/p/google-nest-videodeurbel-deurbeldrukker-batterij-wit/9300000045807040/",
-      "image": "https://media.s-bol.com/Nqm78Vyv9gvK/XoBEz7v/288x840.jpg",
-      "synced": "2026-11-07",
+      "ideal": "Wie al Arlo-camera's heeft of verschillende slimme platforms door elkaar gebruikt.",
+      "text": "De Arlo 2K Video Doorbell is een draadloze deurbel met een ingebouwde accu, al kun je hem ook op je bestaande beldraad aansluiten. Hij filmt in 2K met een vierkant beeld, zodat je bezoekers van hoofd tot voeten ziet en ook een pakket op de stoep. In de set zit een Arlo Chime die je in het stopcontact steekt, dus je hoort de bel overal in huis.\n\nDe deurbel werkt met Google Assistant, Alexa en SmartThings. Dat maakt hem handig als je verschillende slimme apparaten door elkaar gebruikt. Wat je moet weten: Arlo slaat opnames alleen in de cloud op. Zonder Arlo Secure-abonnement kijk je vooral live mee. Met een abonnement herkent de bel personen, voertuigen, dieren en pakketten en kijk je tot 14 dagen terug. Kopers op bol zijn verdeeld en geven gemiddeld 3,7 sterren. Heb je al Arlo-camera's, dan beheer je alles in één app.",
+      "ean": "0193108146753",
+      "bol_title": "Arlo 2K draadloze video deurbel met camera & gong, 1 deubelset, wit",
+      "url": "https://www.bol.com/nl/nl/p/arlo-2k-draadloze-video-deurbel-met-camera-gong-1-deubelset-wit/9300000169197879/",
+      "image": "https://media.s-bol.com/mj2MXWW86E4O/YE7WRpO/550x426.jpg",
       "ph": {
-        "2026-10-15": 168.95,
-        "2026-10-16": 168.95,
-        "2026-10-17": 168.95,
-        "2026-10-18": 168.95,
-        "2026-10-19": 169.0,
-        "2026-10-20": 169.0,
-        "2026-10-21": 169.0,
-        "2026-10-23": 159.0,
-        "2026-10-24": 159.0,
-        "2026-10-25": 168.95,
-        "2026-10-26": 168.95,
-        "2026-10-27": 168.95,
-        "2026-10-28": 168.95,
-        "2026-10-29": 168.95,
-        "2026-10-30": 168.95,
-        "2026-10-31": 168.95,
-        "2026-11-01": 168.95,
-        "2026-11-02": 168.95,
-        "2026-11-03": 168.95,
-        "2026-11-04": 168.95,
-        "2026-11-05": 168.95,
-        "2026-11-06": 168.95
+        "2026-11-07": 94.99
       },
-      "low_price": 159.0,
-      "prev_price": 159.0,
-      "prev_date": "2026-10-24"
+      "low_price": 94.99,
+      "synced": "2026-11-07"
     },
     {
       "brand": "Aqara",
@@ -619,7 +596,7 @@
     },
     {
       "h": "Abonnement of lokale opslag?",
-      "p": "Ring en Google bewaren opnames in de cloud en vragen daar een maandbedrag voor. Zonder abonnement kijk je bij Ring alleen live mee. Tapo, eufy, Reolink en EZVIZ slaan opnames lokaal op een microSD-kaart of in de gong op, zonder maandkosten. Over vijf jaar kan dat honderden euro's schelen. Cloudopslag heeft als voordeel dat beelden bewaard blijven als iemand de deurbel steelt."
+      "p": "Ring en Arlo bewaren opnames in de cloud en vragen daar een maandbedrag voor. Zonder abonnement kijk je bij Ring en Arlo vooral live mee. Tapo, eufy, Reolink en EZVIZ slaan opnames lokaal op een microSD-kaart of in de gong op, zonder maandkosten. Over vijf jaar kan dat honderden euro's schelen. Cloudopslag heeft als voordeel dat beelden bewaard blijven als iemand de deurbel steelt."
     },
     {
       "h": "Beeld en kijkhoek",
@@ -645,7 +622,7 @@
     },
     {
       "q": "Welke videodeurbel werkt zonder abonnement?",
-      "a": "Tapo, eufy, Reolink, EZVIZ en Aqara slaan opnames lokaal op en vragen geen maandkosten. Bij Ring heb je een Ring Home-abonnement nodig om opnames terug te kijken. Google geeft drie uur gratis geschiedenis."
+      "a": "Tapo, eufy, Reolink, EZVIZ en Aqara slaan opnames lokaal op en vragen geen maandkosten. Bij Ring heb je een Ring Home-abonnement nodig om opnames terug te kijken. Arlo slaat opnames alleen in de cloud op met een Arlo Secure-abonnement."
     },
     {
       "q": "Kan ik een videodeurbel aansluiten op mijn oude deurbel?",

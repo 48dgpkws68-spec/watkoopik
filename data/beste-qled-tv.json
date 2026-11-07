@@ -239,54 +239,40 @@
     },
     {
       "brand": "Philips",
-      "name": "The One 55PUS9050/12",
-      "price": 718.06,
+      "name": "Ambilight 55PUS9000/12",
+      "price": 592.12,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "55 inch QLED met driezijdig Ambilight en 120 Hz voor games.",
+      "reviews": "bol-score 4,8 van 5",
+      "oneliner": "55 inch QLED met Ambilight en 144 Hz voor games.",
       "specs": {
         "Formaat": "55 inch",
         "Paneel": "QLED",
-        "Beeldfrequentie": "120 Hz",
+        "Beeldfrequentie": "144 Hz",
         "HDR": "Dolby Vision, HDR10+",
         "Smart-tv": "Titan OS"
       },
       "pros": [
         "Ambilight maakt het beeld groter en rustiger voor je ogen",
-        "120 Hz voor vloeiende games",
-        "Dolby Vision en HDR10+",
-        "Goede kleurweergave dankzij QLED"
+        "144 Hz met HDMI 2.1 en VRR voor vloeiende games",
+        "Dolby Vision, HDR10+ en Dolby Atmos",
+        "Zeer hoge beoordeling van kopers"
       ],
       "cons": [
-        "Contrast blijft achter bij miniLED",
-        "Titan OS heeft minder apps dan Google TV"
+        "Contrast blijft achter bij miniLED door edge-lit verlichting",
+        "Titan OS mist apps zoals Spotify en Ziggo GO"
       ],
-      "ideal": "Wie een sfeervolle woonkamer-tv wil met Ambilight en goede gameprestaties.",
-      "text": "De Philips The One 55PUS9050 is een 55 inch QLED-televisie met het bekende Ambilight van Philips. Ledjes aan drie zijden van de achterkant projecteren de kleuren van het beeld op de muur. Daardoor lijkt het scherm groter en kijk je 's avonds prettiger, omdat het contrast met een donkere kamer minder hard is. De quantum dots zorgen voor heldere verzadigde kleuren.\n\nHet paneel werkt op 120 Hz en ondersteunt variabele verversing, dus games op een PlayStation 5 of Xbox Series X lopen vloeiend. Voor films is er Dolby Vision en HDR10+. De tv draait op Titan OS, een snel systeem met de belangrijkste streamingdiensten zoals Netflix, Disney+ en Videoland. Het aanbod aan losse apps is kleiner dan bij Google TV. Wie diepe zwarttinten wil, vindt een miniLED-model beter. Kopers zijn vooral enthousiast over het Ambilight en de beeldkwaliteit voor de prijs.",
-      "ean": "8718863046357",
-      "bol_title": "Philips The One 55PUS9050/12 - 55 inch - 4K QLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/philips-ambilight-55pus9050-12-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-grijs/9300000229240650/",
-      "image": "https://media.s-bol.com/nyOAE07VnEqp/qjD9Lr7/550x363.jpg",
-      "synced": "2026-11-07",
+      "ideal": "Wie een sfeervolle woonkamer-tv wil met Ambilight en goede gameprestaties voor een scherpe prijs.",
+      "text": "De Philips 55PUS9000 is een 55 inch QLED-televisie uit 2025 met het bekende Ambilight van Philips. Ledjes aan de achterkant projecteren de kleuren van het beeld op de muur. Daardoor lijkt het scherm groter en kijk je 's avonds prettiger, omdat het contrast met een donkere kamer minder hard is. De quantum dots zorgen voor heldere verzadigde kleuren.\n\nHet paneel haalt 144 Hz en via HDMI 2.1 met VRR lopen games op een PlayStation 5, Xbox Series X of pc vloeiend. Voor films is er Dolby Vision en HDR10+, voor geluid Dolby Atmos. De tv draait op Titan OS, een snel systeem met Netflix, Disney+ en Videoland. Apps als Spotify en Ziggo GO ontbreken wel. De verlichting zit aan de rand, dus wie diepe zwarttinten wil, vindt een miniLED-model beter. Kopers op bol geven hem gemiddeld 4,8 sterren en zijn vooral enthousiast over Ambilight en de prijs.",
+      "ean": "8718863046333",
+      "bol_title": "Philips Ambilight 55PUS9000/12 - 55 inch - 4K QLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/philips-ambilight-55pus9000-12-55-inch-4k-qled-2025/9300000229240645/",
+      "image": "https://media.s-bol.com/YPMOL3DMXME9/3lwlo2Q/550x387.jpg",
       "ph": {
-        "2026-10-24": 718.06,
-        "2026-10-25": 718.06,
-        "2026-10-26": 718.06,
-        "2026-10-27": 718.06,
-        "2026-10-28": 718.06,
-        "2026-10-29": 718.06,
-        "2026-10-30": 718.06,
-        "2026-10-31": 718.06,
-        "2026-11-01": 718.06,
-        "2026-11-02": 718.06,
-        "2026-11-03": 718.06,
-        "2026-11-04": 718.06,
-        "2026-11-05": 718.06,
-        "2026-11-06": 718.06,
-        "2026-11-07": 718.06
+        "2026-11-07": 592.12
       },
-      "low_price": 718.06
+      "low_price": 592.12,
+      "synced": "2026-11-07"
     },
     {
       "brand": "Samsung",
@@ -586,7 +572,7 @@
     },
     {
       "h": "Beeldfrequentie voor gamen",
-      "p": "Voor tv-kijken is 60 Hz genoeg. Speel je op een PS5, Xbox Series X of pc, kies dan een QLED met 120 Hz of 144 Hz, HDMI 2.1 en VRR. In deze lijst halen de TCL 65Q6C, TCL 65Q7D Pro, Hisense 55E8S en Hisense 55E7S PRO 144 Hz. Samsung en Philips stoppen bij 120 Hz, wat voor consoles ruim voldoende is."
+      "p": "Voor tv-kijken is 60 Hz genoeg. Speel je op een PS5, Xbox Series X of pc, kies dan een QLED met 120 Hz of 144 Hz, HDMI 2.1 en VRR. In deze lijst halen de TCL 65Q6C, TCL 65Q7D Pro, Hisense 55E8S, Hisense 55E7S PRO en Philips 55PUS9000 144 Hz. Samsung stopt bij 120 Hz, wat voor consoles ruim voldoende is."
     },
     {
       "h": "Welk formaat en welk budget?",

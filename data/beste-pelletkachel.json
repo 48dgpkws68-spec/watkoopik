@@ -232,56 +232,42 @@
       "prev_date": "2026-10-27"
     },
     {
-      "brand": "Artel",
-      "name": "Julia Next",
-      "price": 1560.0,
+      "brand": "Stove Industry",
+      "name": "MARINA 6",
+      "price": 1299.0,
       "score": 8.5,
       "label": null,
-      "reviews": "10+ reviews",
-      "oneliner": "Stille Italiaanse kachel voor slaapkamer of woonkamer.",
+      "reviews": "nog weinig reviews",
+      "oneliner": "Luchtdichte compacte kachel met hoog rendement en groot reservoir.",
       "specs": {
-        "Vermogen": "ca. 7 kW",
-        "Ruimte": "tot 170 m³",
-        "Rendement": "ca. 90%",
-        "Pelletreservoir": "ca. 14 kg",
-        "Bediening": "Display + afstandsbediening"
+        "Vermogen": "ca. 6 kW",
+        "Ruimte": "tot ca. 150 m³",
+        "Rendement": "ca. 94%",
+        "Pelletreservoir": "ca. 17 kg",
+        "Bediening": "Display, wifi en afstandsbediening optioneel"
       },
       "pros": [
-        "Gericht op stille werking",
-        "Luchtdichte verbranding, geschikt voor goed geïsoleerde huizen",
-        "Strak Italiaans ontwerp"
+        "Luchtdichte bouw, geschikt voor goed geïsoleerde huizen",
+        "Opgegeven rendement van bijna 94 procent",
+        "Reservoir van 17 kilo voor circa 21 uur stoken",
+        "Compact formaat"
       ],
       "cons": [
-        "Weinig reviews in Nederland",
-        "Geen wifi standaard"
+        "Wifi en afstandsbediening kosten extra",
+        "Handleiding alleen in Duits en Frans",
+        "Nog nauwelijks reviews"
       ],
-      "ideal": "Wie een pelletkachel zoekt die nauwelijks geluid maakt.",
-      "text": "De Artel Julia Next is een Italiaanse pelletkachel die zich richt op een punt waar veel kachels op afvallen: geluid. Pelletkachels gebruiken een ventilator om de warme lucht de kamer in te blazen en een tweede ventilator voor de rookafvoer. Bij goedkope modellen hoor je dat goed. De Julia Next is zo ontworpen dat hij op de lage standen nauwelijks opvalt, wat hem geschikt maakt voor een woonkamer waar je ook tv kijkt of leest.\n\nDe kachel werkt met een gesloten verbranding, zodat hij geen lucht uit je kamer haalt. Dat is belangrijk in een goed geïsoleerd huis met mechanische ventilatie. Met een vermogen van ongeveer 7 kW verwarm je een ruimte tot circa 170 kubieke meter. Het aantal reviews in Nederland is nog beperkt en een enkele koper was minder te spreken over de levering. Over de kachel zelf zijn de reacties positief.",
-      "ean": "8029906004549",
-      "bol_title": "Artel - Julia Next Zwart - Pelletkachel - Stil, Veilig en Stijlvol",
-      "url": "https://www.bol.com/nl/nl/p/pelletkachel-julia-next-zwart/9200000081282906/",
-      "image": "https://media.s-bol.com/qMMpoxJ3KOBG/Oy5qGBY/550x830.jpg",
-      "synced": "2026-11-07",
+      "ideal": "Wie een luchtdichte kachel zoekt voor een nieuwbouwhuis of goed geïsoleerde woning.",
+      "text": "De MARINA 6 is een compacte pelletkachel met een Italiaans ontwerp die luchtdicht is gebouwd. Dat betekent dat hij de verbrandingslucht via een eigen kanaal van buiten haalt en niet uit je kamer. In een goed geïsoleerd huis met mechanische ventilatie is dat belangrijk, omdat een open kachel daar onderdruk en slechte trek kan geven. De kachel voldoet aan Ecodesign 2022 en de strenge Duitse en Oostenrijkse normen.\n\nHet opgegeven rendement ligt rond de 94 procent, hoog voor deze prijsklasse. Met een vermogen van ongeveer 6 kW verwarm je een ruimte tot circa 150 kubieke meter. Het reservoir van 17 kilo is ruim voor een kachel van dit formaat, volgens de fabrikant goed voor zo'n 21 uur stoken op de laagste stand. Wifi en een afstandsbediening zitten er niet standaard bij, die koop je los. De handleiding is in het Duits en Frans en er zijn nog nauwelijks reviews in Nederland.",
+      "ean": "3760366604034",
+      "bol_title": "MARINA 6 - pelletkachel - Wit - luchtdicht",
+      "url": "https://www.bol.com/nl/nl/p/marina-6-pelletkachel-wit-luchtdicht/9300000171986562/",
+      "image": "https://media.s-bol.com/xwjDOZ81zN1E/y110NV/550x550.jpg",
       "ph": {
-        "2026-10-21": 1560.0,
-        "2026-10-23": 1560.0,
-        "2026-10-24": 1560.0,
-        "2026-10-25": 1560.0,
-        "2026-10-26": 1560.0,
-        "2026-10-27": 1560.0,
-        "2026-10-28": 1560.0,
-        "2026-10-29": 1560.0,
-        "2026-10-30": 1560.0,
-        "2026-10-31": 1560.0,
-        "2026-11-01": 1560.0,
-        "2026-11-02": 1560.0,
-        "2026-11-03": 1560.0,
-        "2026-11-04": 1560.0,
-        "2026-11-05": 1560.0,
-        "2026-11-06": 1560.0,
-        "2026-11-07": 1560.0
+        "2026-11-07": 1299.0
       },
-      "low_price": 1560.0
+      "low_price": 1299.0,
+      "synced": "2026-11-07"
     },
     {
       "brand": "THUNDER",
@@ -574,7 +560,7 @@
     },
     {
       "q": "Maakt een pelletkachel geluid?",
-      "a": "Ja, een pelletkachel heeft een ventilator voor de warme lucht en een voor de rookafvoer. Op de lage standen is dat zacht gezoem. Op de hoogste stand hoor je hem duidelijk. Modellen zoals de Artel Julia Next zijn gericht op een stillere werking."
+      "a": "Ja, een pelletkachel heeft een ventilator voor de warme lucht en een voor de rookafvoer. Op de lage standen is dat zacht gezoem. Op de hoogste stand hoor je hem duidelijk. Wil je de kachel in een slaapkamer of leeshoek gebruiken, zet hem dan vooral op een lage stand en kies een model dat ruim genoeg is voor de ruimte."
     },
     {
       "q": "Hoeveel pellets verbruikt een pelletkachel per dag?",
@@ -613,7 +599,7 @@
       },
       {
         "h": "Woon je in een goed geïsoleerd of nieuwbouwhuis?",
-        "p": "In een luchtdicht huis met mechanische ventilatie kan een open kachel onderdruk en slechte trek geven. Kies dan een kachel met gesloten verbranding die de lucht van buiten haalt. De nr. 5 Artel Julia Next is daarop gericht en draait ook stil op lage standen. Laat de installateur bij elke kachel controleren of de luchttoevoer past bij je ventilatie."
+        "p": "In een luchtdicht huis met mechanische ventilatie kan een open kachel onderdruk en slechte trek geven. Kies dan een kachel met gesloten verbranding die de lucht van buiten haalt. De nr. 5 MARINA 6 is luchtdicht gebouwd en daarop gericht. Laat de installateur bij elke kachel controleren of de luchttoevoer past bij je ventilatie."
       },
       {
         "h": "Wil je de installatie geregeld hebben?",
