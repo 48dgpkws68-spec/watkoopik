@@ -540,3 +540,11 @@ section .wrap.narrow.rv{background:rgba(18,10,40,.5);border:1px solid var(--line
 .upg{margin:14px 0 0;padding:14px 16px;border-radius:16px;border:1px dashed var(--line);background:rgba(124,92,255,.06);font-size:.94rem}
 .upg p{margin:6px 0 10px}
 .upg-lbl{display:inline-block;font-weight:700;font-size:.8rem;text-transform:uppercase;letter-spacing:.04em;color:var(--ink)}
+/* prijsverloop-pagina per model (groeimotor N13, 8 nov 2026) */
+.pp-top{display:grid;grid-template-columns:minmax(0,220px) 1fr;gap:22px;align-items:center;margin-top:18px;padding:18px;border:1px solid var(--line);border-radius:var(--r,18px);background:var(--glass)}
+.pp-img img{width:100%;height:auto;max-height:220px;object-fit:contain;border-radius:12px;background:#fff}
+.pp-now span{display:block;font-size:.8rem;text-transform:uppercase;letter-spacing:.04em;color:var(--ink2)}.pp-now b{font-family:Sora,sans-serif;font-size:2.2rem;color:var(--ink)}
+.pp-wrap{padding:14px;border:1px solid var(--line);border-radius:var(--r,18px);color:var(--purple);background:var(--glass)}
+.pp-chart{display:block;width:100%;height:auto}
+.pp-in{margin:10px 0 0;padding-left:20px;line-height:1.8}
+@media (max-width:640px){.pp-top{grid-template-columns:1fr}.pp-img img{max-height:180px}}

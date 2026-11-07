@@ -240,7 +240,9 @@ def hist_box(p):
     if h["high"] - h["low"] < 0.01: txt = "Op alle %d meetdagen sinds %s kostte hij %s bij bol: de prijs is stabiel." % (h["n"], nldate(h["first"]), eur(p["price"]))
     else: txt = "Gemeten op %d dagen sinds %s: laagste %s, hoogste %s, gemiddeld %s. Nu %s, dat is %s." % (h["n"], nldate(h["first"]), eur(h["low"]), eur(h["high"]), eur(round(h["avg"], 2)), eur(p["price"]), rel_txt(h["rel"]))
     tag = ' <span class="ph-tag">laagste gemeten prijs</span>' if p["price"] <= h["low"] + 0.01 and h["high"] - h["low"] >= 0.01 else ""
-    return '<div class="ph-box%s">%s<div><b>Prijsverloop bij bol</b>%s<p>%s</p></div></div>' % (" low" if tag else "", spark(h), tag, e(txt))
+    pu = prijs_url(p)
+    more = (' <a href="../%s" data-umami-event="prijspagina-link">Alle gemeten prijzen</a>' % pu) if pu else ""
+    return '<div class="ph-box%s">%s<div><b>Prijsverloop bij bol</b>%s<p>%s%s</p></div></div>' % (" low" if tag else "", spark(h), tag, e(txt), more)
 _HS = {}
 def hist_section(g):
     if g["slug"] in _HS: return _HS[g["slug"]]
@@ -276,6 +278,28 @@ def hist_faq(g):
     if h["high"] - h["low"] < 0.01: a = "De prijs is stabiel: op alle %d dagen dat wij hem sinds %s bij bol maten kostte hij %s. Wachten op een lagere prijs levert bij dit model tot nu toe niets op." % (h["n"], nldate(h["first"]), eur(p["price"]))
     else: a = "Hij kost nu %s bij bol. Sinds %s maten wij op %d dagen een laagste prijs van %s (op %s) en een hoogste van %s. De huidige prijs ligt %s van %s." % (eur(p["price"]), nldate(h["first"]), h["n"], eur(h["low"]), nldate(h["low_day"]), eur(h["high"]), rel_txt(h["rel"]), eur(round(h["avg"], 2)))
     return {"q": q, "a": a}
+
+# ---------- prijsverloop-pagina per model (sinds 8 nov 2026, groeimotor N13) ----------
+# Pilot: alleen de EAN's in _src/prijspaginas.json (top 3 van de best bezochte gidsen). Pagina = eigen dagmetingen bij bol
+# (grafiek + tabel), plek in onze top 10's, kenmerken. Geen meting = geen pagina; niets geschat.
+def pslug(p): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", ("%s %s" % (p["brand"], p["name"])).lower())).strip("-")[:70]
+try: _pp_eans = json.load(open(os.path.join(ROOT, "_src", "prijspaginas.json"), encoding="utf-8"))["eans"]
+except Exception: _pp_eans = []
+PRIJS = {}  # ean -> {"p": product (hoogste plek), "in": [(gids, product)], "slug": ...}
+for g in guides:
+    for p in g["products"]:
+        k = str(p.get("ean") or "")
+        if k not in _pp_eans: continue
+        x = PRIJS.setdefault(k, {"p": p, "in": []}); x["in"].append((g, p))
+        if p["rank"] < x["p"]["rank"]: x["p"] = p
+_used = set()
+for k in list(PRIJS):
+    x = PRIJS[k]
+    if not hist_of(x["p"]): del PRIJS[k]; continue
+    s = pslug(x["p"]); s = s if s not in _used else "%s-%s" % (s, k[-4:]); _used.add(s); x["slug"] = s
+def prijs_url(p):
+    x = PRIJS.get(str(p.get("ean") or ""))
+    return "prijs/%s.html" % x["slug"] if x else None
 
 DEALS = []
 _seen = set()
@@ -739,8 +763,8 @@ def deals_body(root, kick="Aanbiedingen", h1="Echte prijsdalingen in onze top 10
     else:
         lst = '<div class="deal-empty"><h2>Nu even geen echte aanbiedingen</h2><p>Geen enkel product uit onze top 10\'s is op dit moment minstens 10%% goedkoper dan eerder gemeten. Dat gebeurt: prijzen bewegen per week. Kom later terug of bekijk <a href="%sslimste-koop.html">de slimste koop per productsoort</a>.</p></div>' % root
     return '''<section data-hue="1" style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="%s">Home</a> › %s</nav><span class="kick" style="margin-top:14px">%s</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">%s</h1>
-<p class="muted" style="max-width:720px">%s</p><p class="muted" style="font-size:.85rem">%d producten met een gemeten prijsdaling · bijgewerkt %s · <a href="%sblack-friday/echte-kortingen-2026.html">Zoveel Black Friday-kortingen zijn echt</a> · wij ontvangen mogelijk een vergoeding als je via onze links koopt.</p>%s</div></section>''' % (
-        root or "./", kick, kick, h1, lead, len(DEALS), nldate(TODAY.isoformat()), root, lst)
+<p class="muted" style="max-width:720px">%s</p><p class="muted" style="font-size:.85rem">%d producten met een gemeten prijsdaling · bijgewerkt %s · <a href="%sblack-friday/echte-kortingen-2026.html">Zoveel Black Friday-kortingen zijn echt</a> · <a href="%sprijs/">prijsverloop per model</a> · wij ontvangen mogelijk een vergoeding als je via onze links koopt.</p>%s</div></section>''' % (
+        root or "./", kick, kick, h1, lead, len(DEALS), nldate(TODAY.isoformat()), root, root, lst)
 page("aanbiedingen/index.html", "Aanbiedingen: echte prijsdalingen bij bol | watkoopik", "Producten uit onze top 10-gidsen die nu minstens 10% goedkoper zijn dan eerder gemeten bij bol. Dagelijks bijgewerkt, alleen echt gemeten prijzen.",
      deals_body("../"), "aanbiedingen/", root="../")
 
@@ -789,6 +813,69 @@ page("vs/index.html", "Vergelijkingen: X tegenover Y | watkoopik", "De populairs
      '''<section style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › Vergelijkingen</nav><span class="kick" style="margin-top:14px">Vergelijkingen</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">Twijfel je tussen twee modellen?</h1>
 <p class="muted" style="max-width:720px">Hier zetten we de modellen waar de meeste lezers tussen twijfelen naast elkaar, meestal de nummer 1 en 2 uit een gids. Per situatie zie je wie wint.</p><div class="rows" style="margin-top:18px">%s</div></div></section>''' % "".join(
          '<a class="rw rv" href="%s.html"><div class="rw-img">%s</div><div><h3>%s</h3><small>Uit %s</small></div><b>→</b></a>' % (v["slug"], img_of(v["pa"]), e(vs_title(v)), e(v["g"]["short"].lower())) for v in VS_PAGES), root="../")
+
+# ---------- prijsverloop-pagina's per model (groeimotor N13, zie PRIJS hierboven) ----------
+def big_chart(h, w=640, ht=220):
+    lo, hi = h["low"], h["high"]; pad = (hi - lo) * 0.15 or max(1, lo * 0.03); lo2, hi2 = lo - pad, hi + pad
+    d0 = datetime.date.fromisoformat(h["first"]); span = max(1, (datetime.date.fromisoformat(h["days"][-1]) - d0).days)
+    X = lambda d: 64 + (w - 80) * (datetime.date.fromisoformat(d) - d0).days / span
+    Y = lambda v: 14 + (ht - 44) * (1 - (v - lo2) / (hi2 - lo2))
+    pts = " ".join("%.1f,%.1f" % (X(d), Y(v)) for d, v in zip(h["days"], h["vals"]))
+    grid = "".join('<line x1="64" x2="%d" y1="%.1f" y2="%.1f" stroke="currentColor" stroke-opacity=".15"/><text x="58" y="%.1f" text-anchor="end" font-size="12" fill="currentColor" fill-opacity=".7">%s</text>' % (w - 16, Y(v), Y(v), Y(v) + 4, e(eur(round(v)))) for v in sorted({lo, hi, round(h["avg"], 2)}))
+    xl = '<text x="64" y="%d" font-size="12" fill="currentColor" fill-opacity=".7">%s</text><text x="%d" y="%d" text-anchor="end" font-size="12" fill="currentColor" fill-opacity=".7">%s</text>' % (ht - 8, e(nldate(h["first"])), w - 16, ht - 8, e(nldate(h["days"][-1])))
+    dots = "".join('<circle cx="%.1f" cy="%.1f" r="2.6" fill="currentColor"/>' % (X(d), Y(v)) for d, v in zip(h["days"], h["vals"]))
+    return '<svg class="pp-chart" viewBox="0 0 %d %d" role="img" aria-label="Prijsverloop bij bol van %s tot %s">%s%s<polyline points="%s" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>%s</svg>' % (
+        w, ht, e(nldate(h["first"])), e(nldate(h["days"][-1])), grid, xl, pts, dots)
+def prijs_page(k, x):
+    p, g = x["p"], x["in"][0][0]
+    g = next(gg for gg, pp in x["in"] if pp is p); h = hist_of(p); nm = "%s %s" % (p["brand"], p["name"]); root = "../"
+    if h["high"] - h["low"] < 0.01:
+        intro = "Wij noteren elke dag de prijs van de %s bij bol. Op alle %d meetdagen sinds %s kostte hij %s: de prijs is stabiel." % (nm, h["n"], nldate(h["first"]), eur(p["price"]))
+        moment = "Wachten op een lagere prijs heeft bij dit model tot nu toe niets opgeleverd. Zakt hij minstens 10%, dan staat hij meteen op onze aanbiedingenpagina."
+    else:
+        intro = "Wij noteren elke dag de prijs van de %s bij bol. Sinds %s maten we op %d dagen een laagste prijs van %s (op %s) en een hoogste van %s. Gemiddeld was het %s. Nu kost hij %s, dat is %s." % (
+            nm, nldate(h["first"]), h["n"], eur(h["low"]), nldate(h["low_day"]), eur(h["high"]), eur(round(h["avg"], 2)), eur(p["price"]), rel_txt(h["rel"]))
+        if p["price"] <= h["low"] + 0.01: moment = "Dit is de laagste prijs die wij voor dit model hebben gemeten."
+        elif h["rel"] <= -0.03: moment = "Hij zit nu onder zijn gemiddelde prijs, maar niet op het laagste punt: dat was %s op %s." % (eur(h["low"]), nldate(h["low_day"]))
+        elif h["rel"] >= 0.03: moment = "Hij is nu duurder dan gemiddeld. De laagste prijs die wij maten was %s op %s. Geen haast? Dan loont wachten op een daling misschien." % (eur(h["low"]), nldate(h["low_day"]))
+        else: moment = "De prijs zit rond het gemiddelde van onze metingen. Een echte daling van 10% of meer zie je meteen op onze aanbiedingenpagina."
+    if TODAY <= datetime.date(2026, 12, 1): moment += " Black Friday valt op 27 november: omdat wij elke dag meten, zie je hier dan of een korting echt lager is dan de weken ervoor."
+    days = h["days"][::-1][:30]; vals = h["vals"][::-1][:30]
+    trs = "".join("<tr><td>%s</td><td><b>%s</b></td><td>%s</td></tr>" % (e(nldate(d)), eur(v), ("" if i + 1 >= len(vals) or abs(v - vals[i + 1]) < 0.01 else ("%s %s" % ("omlaag" if v < vals[i + 1] else "omhoog", eur(round(abs(v - vals[i + 1]), 2)))))) for i, (d, v) in enumerate(zip(days, vals)))
+    plekken = "".join('<li>Nr. %d in de <a href="../%s#p%d">%s</a>%s</li>' % (pp["rank"], gg["url"], pp["rank"], e(gg["title"].lower().replace("de 10 beste", "top 10 van de beste")), (" · %s" % e(pp["label"])) if pp.get("label") else "") for gg, pp in sorted(x["in"], key=lambda t: t[1]["rank"]))
+    specs = "".join("<tr><td>%s</td><td>%s</td></tr>" % (e(kk), e(str(vv))) for kk, vv in p["specs"].items())
+    alts = [q for q in g["products"][:4] if q is not p][:3]
+    alt = "".join('<a class="rw rv" href="../%s"><div class="rw-img">%s</div><div><h3>%s %s</h3><small>Nr. %d · nu %s</small></div><b>→</b></a>' % (
+        prijs_url(q) or "%s#p%d" % (g["url"], q["rank"]), img_of(q), e(q["brand"]), e(q["name"]), q["rank"], eur(q["price"])) for q in alts)
+    body = '''<div class="wrap"><nav class="crumbs"><a href="../">Home</a> › <a href="./">Prijsverloop</a> › <a href="../%s">%s</a></nav>
+<div class="ghero"><span class="kick">Prijsverloop bij bol</span><h1 class="split">%s: prijs en prijsverloop</h1><p class="intro">%s</p><p class="disc disc-top">Bevat affiliatelinks, <a href="../disclaimer.html">zo verdienen wij</a>. Alleen prijzen die wij zelf bij bol hebben gemeten, geen adviesprijzen.</p></div>
+<div class="pp-top rv"><div class="pp-img">%s</div><div><div class="pp-now"><span>Nu bij bol</span><b>%s</b></div><p>%s</p><div style="display:flex;gap:10px;flex-wrap:wrap">%s</div><small class="muted">Prijs gecontroleerd op %s</small></div></div>
+<h2 class="rv" style="margin-top:26px">Zo bewoog de prijs</h2><div class="pp-wrap rv">%s</div>
+<h2 class="rv" style="margin-top:26px">In onze top 10's</h2><ul class="pp-in">%s</ul><p>%s</p>
+<h2 class="rv" style="margin-top:26px">Alle metingen</h2><div class="tbl"><table><thead><tr><th>Datum</th><th>Prijs bij bol</th><th>Verandering</th></tr></thead><tbody>%s</tbody></table></div>
+<h2 class="rv" style="margin-top:26px">Kenmerken</h2><div class="tbl"><table><tbody>%s</tbody></table></div>
+<div class="pc" style="margin-top:18px"><div class="pros"><h4>Pluspunten</h4><ul>%s</ul></div><div class="cons"><h4>Minpunten</h4><ul>%s</ul></div></div><p><b>Ideaal voor:</b> %s</p>
+<h2 class="rv" style="margin-top:26px">Andere modellen uit deze gids</h2><div class="rows">%s</div>
+<p class="muted" style="margin:24px 0 40px">Hoe wij meten: elke dag halen wij de prijs van alle %d producten uit onze gidsen op bij bol. Een dag zonder meting vullen we niet aan. <a href="../zo-kiezen-wij.html">Zo kiezen wij</a> · <a href="../aanbiedingen/">echte prijsdalingen</a>.</p></div>''' % (
+        g["url"], e(g["short"]), e(nm), e(intro), img_of(p), eur(p["price"]), e(moment), shop_a(p, g, "btn btn-buy magnet", "prijspagina") + amazon_a(p, g, "prijspagina"), e(chk_date(p, g)),
+        big_chart(h), plekken, e(p["oneliner"]), trs, specs, "".join("<li>%s</li>" % e(t) for t in p["pros"]), "".join("<li>%s</li>" % e(t) for t in p["cons"]), e(p["ideal"]), alt, N_PROD)
+    url = "prijs/%s.html" % x["slug"]
+    prod = {"@context": "https://schema.org", "@type": "Product", "name": nm, "brand": {"@type": "Brand", "name": p["brand"]}, "description": p["oneliner"],
+            "offers": {"@type": "Offer", "price": "%.2f" % p["price"], "priceCurrency": "EUR", "url": SITE + "/" + url, "seller": {"@type": "Organization", "name": "bol"}}}
+    if p.get("image"): prod["image"] = p["image"]
+    if re.fullmatch(r"\d{13}", k): prod["gtin13"] = k
+    ld = [prod, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"}, {"@type": "ListItem", "position": 2, "name": "Prijsverloop", "item": SITE + "/prijs/"}, {"@type": "ListItem", "position": 3, "name": nm, "item": SITE + "/" + url}]}]
+    tt = "%s prijs: verloop bij bol | watkoopik" % nm
+    if len(tt) > 68: tt = "%s prijsverloop | watkoopik" % nm[:50].rsplit(" ", 1)[0]
+    ds = ("Nu %s bij bol. Op %d dagen gemeten sinds %s: laagste %s, hoogste %s. Elke dag bijgewerkt met eigen metingen." % (eur(p["price"]), h["n"], nldate(h["first"]), eur(h["low"]), eur(h["high"])))
+    page(url, tt, ds, body, extra='<script type="application/ld+json">%s</script>' % json.dumps(ld, ensure_ascii=False), img=p.get("image", ""))
+for k, x in PRIJS.items(): prijs_page(k, x)
+if PRIJS:
+    _pl = sorted(PRIJS.values(), key=lambda x: (x["in"][0][0]["short"], x["p"]["rank"]))
+    page("prijs/index.html", "Prijsverloop per model: eigen metingen bij bol | watkoopik", "Van %d populaire modellen uit onze top 10's zie je elke gemeten bol-prijs: laagste, hoogste en nu. Elke dag bijgewerkt." % len(PRIJS),
+         '''<section style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › Prijsverloop</nav><span class="kick" style="margin-top:14px">Prijsverloop</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">Wat kostte dit model de afgelopen weken?</h1>
+<p class="muted" style="max-width:720px">Wij meten elke dag de bol-prijs van alle producten in onze gidsen. Van de populairste modellen zie je hier elke meting: de laagste prijs, de hoogste en waar de prijs nu staat. Handig vlak voor Black Friday en de feestdagen.</p><div class="rows" style="margin-top:18px">%s</div></div></section>''' % "".join(
+             '<a class="rw rv" href="%s.html"><div class="rw-img">%s</div><div><h3>%s %s</h3><small>Nu %s · %s</small></div><b>→</b></a>' % (x["slug"], img_of(x["p"]), e(x["p"]["brand"]), e(x["p"]["name"]), eur(x["p"]["price"]), e(rel_txt(hist_of(x["p"])["rel"]))) for x in _pl), root="../")
 
 # ---------- cadeaus ----------
 _cg = by_cat.get("cadeaus", [])
@@ -1037,6 +1124,12 @@ urls += [("categorie/%s.html" % k if k != "cadeaus" else "cadeaus/", max(g.get("
 urls += [("black-friday/", TODAY.isoformat(), "0.8")] + ([("black-friday/echte-kortingen-2026.html", TODAY.isoformat(), "0.8")] if BF_N else []) + [("vs/%s.html" % v["slug"], v["updated"], "0.6") for v in VS_PAGES]
 urls += [(c["hub"], max(g.get("updated", TODAY.isoformat()) for g in c["members"]), "0.8") for c in HUBS]
 urls += [(g["url"], g.get("updated", TODAY.isoformat()), "0.9") for g in guides]
+def _pp_mod(x):  # lastmod = laatste dag dat de gemeten prijs veranderde (of de gids bijgewerkt werd)
+    h = hist_of(x["p"]); d = h["first"]
+    for i in range(1, len(h["vals"])):
+        if abs(h["vals"][i] - h["vals"][i - 1]) >= 0.01: d = h["days"][i]
+    return max(d, x["in"][0][0].get("updated", d))
+urls += ([("prijs/", max(_pp_mod(x) for x in PRIJS.values()), "0.6")] + [("prijs/%s.html" % x["slug"], _pp_mod(x), "0.6") for x in PRIJS.values()]) if PRIJS else []
 wr("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join("<url><loc>%s/%s</loc><lastmod>%s</lastmod><priority>%s</priority></url>\n" % (SITE, u, d, pr) for u, d, pr in urls) + "</urlset>\n")
 
 # ---------- assets ----------
