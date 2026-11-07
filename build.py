@@ -263,10 +263,12 @@ def hist_section(g):
     if sw >= 0.05: s += "De grootste schommeling zagen we bij de %s %s: tussen %s en %s." % (big[0]["brand"], big[0]["name"], eur(big[1]["low"]), eur(big[1]["high"]))
     else: s += "De prijzen in deze gids zijn rustig: geen enkel model schommelde meer dan 5%."
     html = ('<div class="phist rv" id="prijsverloop"><h2>Prijsverloop: zo bewogen de prijzen bij bol</h2><p>%s Geen adviesprijzen: alleen wat wij zelf hebben gemeten. '
-            'Echte prijsdalingen van 10%% of meer staan op <a href="../aanbiedingen/">onze aanbiedingenpagina</a>.</p>\n'
+            'Echte prijsdalingen van 10%% of meer staan op <a href="../aanbiedingen/">onze aanbiedingenpagina</a>.' + BF_HINT + '</p>\n'
             '<div class="tbl"><table><thead><tr><th>#</th><th>Model</th><th>Nu</th><th>Laagste</th><th>Hoogste</th><th>Nu t.o.v. gemiddeld</th><th class="sp"><span class="sr">Verloop</span></th></tr></thead><tbody>%s</tbody></table></div></div>\n') % (e(s), "".join(rows))
     _HS[g["slug"]] = html
     return html
+# Black Friday-check in elke prijsverlooptabel tot en met 1 dec (groeimotor E22): interne links naar de datapagina voor de pers
+BF_HINT = (' Op Black Friday (27 november) zie je hier meteen of een korting echt is. <a href="../black-friday/echte-kortingen-2026.html" data-umami-event="bf-link">Zoveel kortingen zijn nu al echt: onze eigen metingen</a>.') if TODAY <= datetime.date(2026, 12, 1) else ""
 def hist_faq(g):
     p = g["products"][0]; h = hist_of(p)
     if not h or h["n"] < 7: return None
