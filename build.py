@@ -606,6 +606,19 @@ for k, v in CATS.items():
          extra="".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in cld))
 
 # ---------- gidspagina's ----------
+# A/B-test C4 (groeimotor, 7 nov 2026): upgrade-tip onder de kaart van nr. 1 naar het premiummodel (hogere orderwaarde).
+# Verdeling los van C1 (md5 van "c4:" + slug even = tip), alleen als premium minstens 30% duurder is dan nr. 1.
+def c4_variant(slug):
+    return "tip" if int(hashlib.md5(("c4:" + slug).encode()).hexdigest(), 16) % 2 == 0 else "controle"
+def upgrade_tip(g):
+    ps = g["products"]; top = ps[0]
+    pr = next((p for p in ps[1:] if p.get("label") == "Beste premium"), None)
+    if not pr or c4_variant(g["slug"]) != "tip" or not top.get("price") or pr["price"] < 1.3 * top["price"]: return ""
+    h = hist_of(pr)
+    extra = (" Nu %s van onze metingen." % rel_txt(h["rel"])) if h and h["rel"] <= -0.03 else ""
+    return '<div class="upg"><span class="upg-lbl">Meer budget?</span><p>Onze premiumkeuze is nr. %d: de <b>%s %s</b> voor %s. %s%s</p>%s</div>' % (
+        pr["rank"], e(pr["brand"]), e(pr["name"]), eur(pr["price"]), e(pr["oneliner"].rstrip(".") + "."), e(extra), shop_a(pr, g, "btn btn-buy btn-sm", "upgrade"))
+
 def bars(p, g):
     """Deelscores afgeleid van totaalscore en prijspositie binnen de gids (voor visuele vergelijking)."""
     prices = sorted(x["price"] for x in g["products"]); pos = prices.index(p["price"]) / max(1, len(prices) - 1)
@@ -628,11 +641,11 @@ for g in guides:
     cards = "".join('''<article class="pr-card%s rv" id="p%d"><div class="pr-head"><div class="pr-img"><span class="n">%d</span>%s</div><div>%s<h2>%s %s</h2>
 <div class="pr-meta"><span class="price">%s</span><span>%s <b>%s</b>/10</span><span>%s</span></div>%s<div class="specs">%s</div></div></div>
 <div class="pr-txt">%s</div><div class="pc"><div class="pros"><h4>Pluspunten</h4><ul>%s</ul></div><div class="cons"><h4>Minpunten</h4><ul>%s</ul></div></div>
-%s<div class="ideal"><b>Ideaal voor:</b> %s</div><div class="buy">%s%s<small>Prijs gecontroleerd op %s</small></div></article>''' % (
+%s<div class="ideal"><b>Ideaal voor:</b> %s</div><div class="buy">%s%s<small>Prijs gecontroleerd op %s</small></div>%s</article>''' % (
         " top" if p["rank"] == 1 else "", p["rank"], p["rank"], img_of(p), ('<span class="pr-lbl">%s</span>' % e(p["label"])) if p.get("label") else "", e(p["brand"]), e(p["name"]),
         eur(p["price"]), stars(p["score"]), p["score"], e(p.get("reviews", "")), bars(p, g), "".join("<span><b>%s:</b> %s</span>" % (e(k), e(str(v))) for k, v in p["specs"].items()),
         "".join("<p>%s</p>" % e(t) for t in p["text"].split("\n\n")), "".join("<li>%s</li>" % e(x) for x in p["pros"]), "".join("<li>%s</li>" % e(x) for x in p["cons"]),
-        hist_box(p), e(p["ideal"]), shop_a(p, g), amazon_a(p, g), e(chk_date(p, g))) for p in ps)
+        hist_box(p), e(p["ideal"]), shop_a(p, g), amazon_a(p, g), e(chk_date(p, g)), upgrade_tip(g) if p["rank"] == 1 else "") for p in ps)
     guide_html = "".join("<h3>%s</h3>%s" % (e(s["h"]), "".join("<p>%s</p>" % e(t) for t in s["p"].split("\n\n"))) for s in g["guide"]) + cl_more(g)
     # optioneel veld "kies" (groeimotor N6, 6 nov 2026): beslispunten + wanneer nr. 2 of 3, met eigen koopknop
     kq = g.get("kies") or {}
