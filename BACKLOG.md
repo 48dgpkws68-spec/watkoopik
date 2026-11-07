@@ -252,3 +252,4 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-sinterklaascadeau-voor-volwassenen | cadeaus | sinterklaas cadeau volwassenen | De 10 beste sinterklaascadeaus voor volwassenen van 2026 | 🎁
 [x] beste-tv-ambilight | elektronica | philips ambilight tv | De 10 beste Ambilight-tv's van 2026 | 📺
 [x] beste-elektrische-inbouwhaard | wonen | elektrische inbouwhaard | De 10 beste elektrische inbouwhaarden van 2026 | 🔥
+[x] beste-kerstcadeau-onder-25-euro | cadeaus | kerstcadeau onder 25 euro | De 10 beste kerstcadeaus onder 25 euro van 2026 | 🎁
