@@ -537,3 +537,6 @@ section .wrap.narrow.rv{background:rgba(18,10,40,.5);border:1px solid var(--line
 .bf-chart figcaption{font-size:.8rem;margin-top:6px}.bf-chart .k1,.bf-chart .k2{display:inline-block;width:10px;height:10px;border-radius:2px;background:#0f5c4c;margin:0 5px 0 0;vertical-align:-1px}.bf-chart .k2{background:#d4a52a;margin-left:12px}
 .tbl td.nm small{display:block;color:var(--ink2);font-size:.75rem}
 @media (max-width:640px){.bf-tiles{grid-template-columns:repeat(2,1fr)}}
+.upg{margin:14px 0 0;padding:14px 16px;border-radius:16px;border:1px dashed var(--line);background:rgba(124,92,255,.06);font-size:.94rem}
+.upg p{margin:6px 0 10px}
+.upg-lbl{display:inline-block;font-weight:700;font-size:.8rem;text-transform:uppercase;letter-spacing:.04em;color:var(--ink)}
