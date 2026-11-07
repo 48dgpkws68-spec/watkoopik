@@ -13,11 +13,11 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-xbox | gaming | xbox series console | De 10 beste Xbox-consoles en bundels van 2026 | 🎮
 [ ] beste-drone | elektronica | drone met camera | De 10 beste drones met camera van 2026 | 🚁
 [x] beste-lego-voor-volwassenen | cadeaus | lego volwassenen | De 10 beste LEGO-sets voor volwassenen van 2026 | 🧱
-[ ] beste-instant-camera | cadeaus | instant camera | De 10 beste instant camera's van 2026 | 📸
+[x] beste-instant-camera | cadeaus | instant camera | De 10 beste instant camera's van 2026 | 📸
 [ ] beste-kerstverlichting-binnen | wonen | kerstverlichting binnen | De 10 beste kerstlampjes voor binnen van 2026 | 💡
 [ ] beste-tv-voor-sport | elektronica | tv voor voetbal | De 10 beste tv's voor sport van 2026 | ⚽
 [ ] beste-actiecamera | elektronica | actiecamera | De 10 beste actiecamera's van 2026 | 🎥
-[ ] beste-lego-technic | cadeaus | lego technic | De 10 beste LEGO Technic-sets van 2026 | 🧱
+[x] beste-lego-technic | cadeaus | lego technic | De 10 beste LEGO Technic-sets van 2026 | 🧱
 
 # weekrapport 1 nov 2026: tv, plaid/warmte, strijken en bank scoren (Umami-kliks + bol-orders)
 [x] beste-adventskalender | cadeaus | adventskalender | De 10 beste adventskalenders van 2026 | 🎁

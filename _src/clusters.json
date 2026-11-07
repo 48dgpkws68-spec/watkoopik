@@ -42,5 +42,6 @@
 {"key": "accuboormachine", "enkel": "accuboormachine", "meervoud": "accuboormachines", "cat": "klussen", "main": "beste-accuboormachine", "match": "^accuboormachine.*$"},
 {"key": "terras", "enkel": "barbecue", "meervoud": "buitenleven", "cat": "klussen", "main": "beste-bbq", "match": "^(bbq|terrasverwarmer)$"},
 {"key": "verkoeling", "enkel": "ventilator", "meervoud": "verkoeling", "cat": "wonen", "main": "beste-mobiele-airco", "match": "^(ventilator|mobiele-airco)$"},
-{"key": "ontbijt", "enkel": "waterkoker", "meervoud": "ontbijtapparaten", "cat": "keuken", "main": "beste-waterkoker", "match": "^(broodrooster|waterkoker)$"}
+{"key": "ontbijt", "enkel": "waterkoker", "meervoud": "ontbijtapparaten", "cat": "keuken", "main": "beste-waterkoker", "match": "^(broodrooster|waterkoker)$"},
+{"key": "lego", "enkel": "LEGO-set", "meervoud": "LEGO-sets", "cat": "cadeaus", "main": "beste-lego-voor-volwassenen", "match": "^lego-.*$"}
 ]

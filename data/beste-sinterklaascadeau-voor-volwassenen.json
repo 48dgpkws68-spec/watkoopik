@@ -53,10 +53,11 @@
       "image": "https://media.s-bol.com/GVPv8mAEXlRL/VOlrZEX/550x831.jpg",
       "ph": {
         "2026-11-05": 36.99,
-        "2026-11-06": 36.99
+        "2026-11-06": 36.99,
+        "2026-11-07": 36.99
       },
       "low_price": 36.99,
-      "synced": "2026-11-06"
+      "synced": "2026-11-07"
     },
     {
       "brand": "White Goblin Games",
@@ -90,10 +91,11 @@
       "image": "https://media.s-bol.com/JB0ZjBDXop3g/2R0Yylj/543x840.jpg",
       "ph": {
         "2026-11-05": 23.99,
-        "2026-11-06": 23.99
+        "2026-11-06": 23.99,
+        "2026-11-07": 23.99
       },
       "low_price": 23.99,
-      "synced": "2026-11-06"
+      "synced": "2026-11-07"
     },
     {
       "brand": "Fujifilm",
@@ -127,10 +129,11 @@
       "image": "https://media.s-bol.com/B3GJn9DJYwko/z6Y0PX2/550x645.jpg",
       "ph": {
         "2026-11-05": 81.89,
-        "2026-11-06": 81.89
+        "2026-11-06": 81.89,
+        "2026-11-07": 81.89
       },
       "low_price": 81.89,
-      "synced": "2026-11-06"
+      "synced": "2026-11-07"
     },
     {
       "brand": "JBL",
@@ -164,15 +167,16 @@
       "image": "https://media.s-bol.com/VBvg41o6lX71/MQ9p1wP/550x376.jpg",
       "ph": {
         "2026-11-05": 45.95,
-        "2026-11-06": 45.95
+        "2026-11-06": 45.95,
+        "2026-11-07": 45.95
       },
       "low_price": 45.95,
-      "synced": "2026-11-06"
+      "synced": "2026-11-07"
     },
     {
       "brand": "Rituals",
       "name": "The Ritual of Ayurveda Giftset",
-      "price": 34.1,
+      "price": 42.53,
       "score": 8.8,
       "label": null,
       "ean": "8719134201727",
@@ -201,10 +205,13 @@
       "image": "https://media.s-bol.com/RN8Ey7A3Bq5q/wjznLm8/550x385.jpg",
       "ph": {
         "2026-11-05": 34.1,
-        "2026-11-06": 34.1
+        "2026-11-06": 34.1,
+        "2026-11-07": 42.53
       },
       "low_price": 34.1,
-      "synced": "2026-11-06"
+      "synced": "2026-11-07",
+      "prev_price": 34.1,
+      "prev_date": "2026-11-06"
     },
     {
       "brand": "Victorinox",
@@ -238,10 +245,11 @@
       "image": "https://media.s-bol.com/mQ5l4W2wRr7E/550x571.jpg",
       "ph": {
         "2026-11-05": 22.0,
-        "2026-11-06": 22.0
+        "2026-11-06": 22.0,
+        "2026-11-07": 22.0
       },
       "low_price": 22.0,
-      "synced": "2026-11-06"
+      "synced": "2026-11-07"
     },
     {
       "brand": "Stanley",
@@ -275,10 +283,11 @@
       "image": "https://media.s-bol.com/B5NWv35XEVqQ/L8P9k5v/382x840.jpg",
       "ph": {
         "2026-11-05": 47.67,
-        "2026-11-06": 48.0
+        "2026-11-06": 48.0,
+        "2026-11-07": 48.0
       },
       "low_price": 47.67,
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "prev_price": 47.67,
       "prev_date": "2026-11-05"
     },
@@ -314,10 +323,11 @@
       "image": "https://media.s-bol.com/7rmK1YA8Mlpj/o23vo1N/550x588.jpg",
       "ph": {
         "2026-11-05": 16.69,
-        "2026-11-06": 15.49
+        "2026-11-06": 15.49,
+        "2026-11-07": 15.49
       },
       "low_price": 15.49,
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "prev_price": 16.69,
       "prev_date": "2026-11-05"
     },
@@ -353,10 +363,11 @@
       "image": "https://media.s-bol.com/74M6EGw3YGvA/QnODmgq/550x567.jpg",
       "ph": {
         "2026-11-05": 49.99,
-        "2026-11-06": 38.99
+        "2026-11-06": 38.99,
+        "2026-11-07": 38.99
       },
       "low_price": 38.99,
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "prev_price": 49.99,
       "prev_date": "2026-11-05"
     },
@@ -392,10 +403,11 @@
       "image": "https://media.s-bol.com/m8v8jB1WkpN9/OY5G9DE/550x366.jpg",
       "ph": {
         "2026-11-05": 15.89,
-        "2026-11-06": 15.89
+        "2026-11-06": 15.89,
+        "2026-11-07": 15.89
       },
       "low_price": 15.89,
-      "synced": "2026-11-06"
+      "synced": "2026-11-07"
     }
   ],
   "guide": [

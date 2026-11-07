@@ -59,10 +59,11 @@
       "image": "https://media.s-bol.com/pA0rNqP8ORWN/DRlL8OY/550x351.jpg",
       "ph": {
         "2026-11-05": 1069.0,
-        "2026-11-06": 999.0
+        "2026-11-06": 999.0,
+        "2026-11-07": 999.0
       },
       "low_price": 999.0,
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "prev_price": 1069.0,
       "prev_date": "2026-11-05"
     },
@@ -99,10 +100,11 @@
       "image": "https://media.s-bol.com/655xxOWpKmpn/YvAoqOY/550x247.jpg",
       "ph": {
         "2026-11-05": 599.0,
-        "2026-11-06": 589.0
+        "2026-11-06": 589.0,
+        "2026-11-07": 589.0
       },
       "low_price": 589.0,
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "prev_price": 599.0,
       "prev_date": "2026-11-05"
     },
@@ -139,17 +141,18 @@
       "image": "https://media.s-bol.com/555ww2wQXBzR/YvAoq22/550x250.jpg",
       "ph": {
         "2026-11-05": 2399.0,
-        "2026-11-06": 1999.0
+        "2026-11-06": 1999.0,
+        "2026-11-07": 1999.0
       },
       "low_price": 1999.0,
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "prev_price": 2399.0,
       "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
       "name": "65OLED811",
-      "price": 1799.0,
+      "price": 1769.0,
       "score": 9.0,
       "label": null,
       "reviews": "nieuw model",
@@ -179,10 +182,13 @@
       "image": "https://media.s-bol.com/mJPZO5jO0lKp/ZYX683g/550x326.jpg",
       "ph": {
         "2026-11-05": 1799.0,
-        "2026-11-06": 1799.0
+        "2026-11-06": 1799.0,
+        "2026-11-07": 1769.0
       },
-      "low_price": 1799.0,
-      "synced": "2026-11-06"
+      "low_price": 1769.0,
+      "synced": "2026-11-07",
+      "prev_price": 1799.0,
+      "prev_date": "2026-11-06"
     },
     {
       "brand": "Philips",
@@ -217,17 +223,18 @@
       "image": "https://media.s-bol.com/74g6rLgqk0Xr/BNkRBzo/550x355.jpg",
       "ph": {
         "2026-11-05": 899.0,
-        "2026-11-06": 699.0
+        "2026-11-06": 699.0,
+        "2026-11-07": 699.0
       },
       "low_price": 699.0,
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "prev_price": 899.0,
       "prev_date": "2026-11-05"
     },
     {
       "brand": "Philips",
       "name": "42OLED811",
-      "price": 1099.0,
+      "price": 999.0,
       "score": 8.7,
       "label": null,
       "reviews": "nieuw model",
@@ -257,10 +264,13 @@
       "image": "https://media.s-bol.com/B40K0o8rmj7W/p8jRyrr/550x326.jpg",
       "ph": {
         "2026-11-05": 1099.0,
-        "2026-11-06": 1099.0
+        "2026-11-06": 1099.0,
+        "2026-11-07": 999.0
       },
-      "low_price": 1099.0,
-      "synced": "2026-11-06"
+      "low_price": 999.0,
+      "synced": "2026-11-07",
+      "prev_price": 1099.0,
+      "prev_date": "2026-11-06"
     },
     {
       "brand": "Philips",
@@ -295,10 +305,11 @@
       "image": "https://media.s-bol.com/rwwqqAlymKVp/Q0pZgD5/550x247.jpg",
       "ph": {
         "2026-11-05": 849.0,
-        "2026-11-06": 809.0
+        "2026-11-06": 809.0,
+        "2026-11-07": 809.0
       },
       "low_price": 809.0,
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "prev_price": 849.0,
       "prev_date": "2026-11-05"
     },
@@ -335,10 +346,11 @@
       "image": "https://media.s-bol.com/855zzv2q7nx5/gLj1MPY/550x247.jpg",
       "ph": {
         "2026-11-05": 549.0,
-        "2026-11-06": 549.0
+        "2026-11-06": 549.0,
+        "2026-11-07": 549.0
       },
       "low_price": 549.0,
-      "synced": "2026-11-06"
+      "synced": "2026-11-07"
     },
     {
       "brand": "Philips",
@@ -373,10 +385,11 @@
       "image": "https://media.s-bol.com/85o31Onzy5kg/G5YO7J5/550x364.jpg",
       "ph": {
         "2026-11-05": 500.09,
-        "2026-11-06": 500.09
+        "2026-11-06": 500.09,
+        "2026-11-07": 500.09
       },
       "low_price": 500.09,
-      "synced": "2026-11-06"
+      "synced": "2026-11-07"
     },
     {
       "brand": "Philips",
@@ -411,10 +424,11 @@
       "image": "https://media.s-bol.com/xXRAL0YZwEDB/K1wOKkG/550x361.jpg",
       "ph": {
         "2026-11-05": 359.0,
-        "2026-11-06": 349.0
+        "2026-11-06": 349.0,
+        "2026-11-07": 349.0
       },
       "low_price": 349.0,
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "prev_price": 359.0,
       "prev_date": "2026-11-05"
     }

@@ -21,7 +21,7 @@
     {
       "brand": "Meaco",
       "name": "Arete One 20L",
-      "price": 441.0,
+      "price": 415.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "1.900+ reviews",
@@ -50,7 +50,7 @@
       "bol_title": "MeacoDry Arete One 20L - Luchtontvochtiger / Luchtreiniger - Ontvochtigt tot 20L per dag – Voor ruimtes tot 100 m² - Zeer stil - Incl. wasdroogfunctie",
       "url": "https://www.bol.com/nl/nl/p/meacodry-arete-one-20l-luchtontvochtiger/9300000081813706/",
       "image": "https://media.s-bol.com/VROrzr8XmVjo/Mjngv2Q/550x615.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 449.0,
         "2026-10-16": 449.0,
@@ -73,11 +73,12 @@
         "2026-11-03": 449.0,
         "2026-11-04": 415.0,
         "2026-11-05": 440.0,
-        "2026-11-06": 441.0
+        "2026-11-06": 441.0,
+        "2026-11-07": 415.0
       },
       "low_price": 415.0,
-      "prev_price": 440.0,
-      "prev_date": "2026-11-05"
+      "prev_price": 441.0,
+      "prev_date": "2026-11-06"
     },
     {
       "brand": "Pro Breeze",
@@ -111,7 +112,7 @@
       "bol_title": "Pro Breeze 20L/dag Luchtontvochtiger – Wasdroogfunctie, Koolstoffilter, Grote 5.5L Tank, Vochtigheidssensor, Verwijderd Schimmel, Damp en Vocht – Luchtontvochtiger voor Thuis, Garage, Kelder of Slaapkamer – Incl. Afvoerslang en slimme app-bediening",
       "url": "https://www.bol.com/nl/nl/p/pro-breeze-20l-dag-luchtontvochtiger-wasdroogfunctie-koolstoffilter-grote-5-5l-tank-vochtigheidssensor-verwijderd-schimmel-damp-en-vocht-luchtontvochtiger-voor-thuis-garage-kelder-of-slaapkamer-incl-afvoerslang-en-slimme-app-bediening/9300000245939060/",
       "image": "https://media.s-bol.com/Joq9Z0Pj6W0y/Q14BgDG/550x550.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 199.99,
         "2026-10-16": 199.99,
@@ -134,7 +135,8 @@
         "2026-11-03": 209.99,
         "2026-11-04": 209.99,
         "2026-11-05": 209.99,
-        "2026-11-06": 177.99
+        "2026-11-06": 177.99,
+        "2026-11-07": 177.99
       },
       "low_price": 177.99,
       "prev_price": 209.99,
@@ -143,7 +145,7 @@
     {
       "brand": "De'Longhi",
       "name": "Tasciugo AriaDry Multi DEXD214RF",
-      "price": 237.97,
+      "price": 232.99,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "bol-score 4,8 van 5",
@@ -172,7 +174,7 @@
       "bol_title": "De'Longhi Tasciugo AriaDry Multi DEXD214RF - Luchtontvochtiger - Wit",
       "url": "https://www.bol.com/nl/nl/p/de-longhi-dexd214rf-tasciugo-ariadry-multi-luchtontvochtiger-wit/9300000159816163/",
       "image": "https://media.s-bol.com/xB4JRqEBW6O9/Dynn66/520x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 271.98,
         "2026-10-16": 261.54,
@@ -195,11 +197,12 @@
         "2026-11-03": 243.37,
         "2026-11-04": 220.03,
         "2026-11-05": 246.99,
-        "2026-11-06": 237.97
+        "2026-11-06": 237.97,
+        "2026-11-07": 232.99
       },
       "low_price": 220.03,
-      "prev_price": 246.99,
-      "prev_date": "2026-11-05"
+      "prev_price": 237.97,
+      "prev_date": "2026-11-06"
     },
     {
       "brand": "Trotec",
@@ -233,7 +236,7 @@
       "bol_title": "TROTEC Luchtontvochtiger TTK 53 E",
       "url": "https://www.bol.com/nl/nl/p/trotec-luchtontvochtiger-ttk-53-e/9200000061808354/",
       "image": "https://media.s-bol.com/qDrkqog6wEDp/P71MLz1/514x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 167.99,
         "2026-10-16": 167.99,
@@ -256,7 +259,8 @@
         "2026-11-03": 169.99,
         "2026-11-04": 169.99,
         "2026-11-05": 169.99,
-        "2026-11-06": 169.99
+        "2026-11-06": 169.99,
+        "2026-11-07": 169.99
       },
       "low_price": 167.99,
       "prev_price": 167.99,
@@ -265,7 +269,7 @@
     {
       "brand": "Qlima",
       "name": "DD 808",
-      "price": 266.95,
+      "price": 251.6,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -301,12 +305,13 @@
         "2026-11-03": 268.98,
         "2026-11-04": 268.98,
         "2026-11-05": 260.0,
-        "2026-11-06": 266.95
+        "2026-11-06": 266.95,
+        "2026-11-07": 251.6
       },
-      "low_price": 253.67,
-      "synced": "2026-11-06",
-      "prev_price": 260.0,
-      "prev_date": "2026-11-05"
+      "low_price": 251.6,
+      "synced": "2026-11-07",
+      "prev_price": 266.95,
+      "prev_date": "2026-11-06"
     },
     {
       "brand": "Qlima",
@@ -340,7 +345,7 @@
       "bol_title": "Qlima D 820 A Smart - Luchtontvochtiger & luchtreiniger - Ontvochtigt 20 Liter per dag - Voorzien van HEPA Filter - Geschikt voor woonkamer, slaapkamer, badkamer - Voorkomt Schimmel en vocht in huis - Bedienbaar via app",
       "url": "https://www.bol.com/nl/nl/p/qlima-d-820-a-smart-luchtontvochtiger-20-l-dag-timerfunctie-hygrometer-geschikt-voor-woonkamer-slaapkamer-badkamer-babykamer/9300000158478959/",
       "image": "https://media.s-bol.com/PqAmRrjRvV7l/5yVBWXx/545x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 236.0,
         "2026-10-16": 236.0,
@@ -363,7 +368,8 @@
         "2026-11-03": 242.0,
         "2026-11-04": 252.0,
         "2026-11-05": 245.0,
-        "2026-11-06": 245.0
+        "2026-11-06": 245.0,
+        "2026-11-07": 245.0
       },
       "low_price": 236.0,
       "prev_price": 252.0,
@@ -401,7 +407,7 @@
       "bol_title": "Aironex Luchtontvochtiger 20L per dag – Wasdroogfunctie – Tot 70 m² – Stil – Met App & Ionisator – Voor Kelder, Woonkamer, Slaapkamer & Badkamer – Dehumidifier",
       "url": "https://www.bol.com/nl/nl/p/luchtontvochtiger-aironex-ontvochtigt-20-liter-per-dag-extreem-stil-geschikt-voor-woonkamer-slaapkamer-en-badkamer-vochtvreter-luchtontvochtiger-en-luchtreiniger-luchtontvochtiger-slaapkamer-wit-dehumidifier/9300000256590842/",
       "image": "https://media.s-bol.com/ggNRYqkxVPz9/N9RLxxN/550x550.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 183.95,
         "2026-10-16": 183.95,
@@ -424,7 +430,8 @@
         "2026-11-03": 183.95,
         "2026-11-04": 183.95,
         "2026-11-05": 199.0,
-        "2026-11-06": 209.0
+        "2026-11-06": 209.0,
+        "2026-11-07": 209.0
       },
       "low_price": 183.95,
       "prev_price": 199.0,
@@ -462,7 +469,7 @@
       "bol_title": "TROTEC Luchtontvochtiger en luchtreiniger TTK 70 HEPA (Plus)",
       "url": "https://www.bol.com/nl/nl/p/trotec-luchtontvochtiger-en-luchtreinger-ttk-70-hepa/9300000060734647/",
       "image": "https://media.s-bol.com/qDrE8W2E1Yn0/3QlYlnQ/498x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 229.99,
         "2026-10-16": 229.99,
@@ -485,7 +492,8 @@
         "2026-11-03": 229.99,
         "2026-11-04": 229.99,
         "2026-11-05": 229.99,
-        "2026-11-06": 229.99
+        "2026-11-06": 229.99,
+        "2026-11-07": 229.99
       },
       "low_price": 229.99
     },
@@ -540,18 +548,19 @@
         "2026-11-03": 119.95,
         "2026-11-04": 119.95,
         "2026-11-05": 119.95,
-        "2026-11-06": 119.95
+        "2026-11-06": 119.95,
+        "2026-11-07": 119.95
       },
       "low_price": 119.95,
       "bol_title": "Luchtontvochtiger - 16L Per Dag - Slaapkamer, Badkamer, Huis & Kelder - Dehumidifier - Was-droog Functie - Voorkomt Schimmel",
       "url": "https://www.bol.com/nl/nl/p/komodo-luchtontvochtiger-en-luchtreiniger-12-16l-per-dag-slaapkamer-badkamer-huis-dehumidifier/9300000167669176/",
       "image": "https://media.s-bol.com/xKNyM5rR2L0P/Vv0WXpX/550x703.jpg",
-      "synced": "2026-11-06"
+      "synced": "2026-11-07"
     },
     {
       "brand": "De'Longhi",
       "name": "Tasciugo AriaDry Light DEX210SF",
-      "price": 185.0,
+      "price": 186.0,
       "score": 7.9,
       "label": null,
       "reviews": "700+ reviews",
@@ -579,7 +588,7 @@
       "bol_title": "De'Longhi Tasciugo AriaDry DEX210SF - Luchtontvochtiger - Wit",
       "url": "https://www.bol.com/nl/nl/p/de-longhi-tasciugo-ariadry-dex210sf-luchtontvochtiger-wit/9300000161805051/",
       "image": "https://media.s-bol.com/YnKKy263nZ8A/QPPm59/520x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-14": 200.51,
         "2026-10-15": 200.51,
@@ -603,11 +612,12 @@
         "2026-11-03": 200.57,
         "2026-11-04": 200.57,
         "2026-11-05": 200.57,
-        "2026-11-06": 185.0
+        "2026-11-06": 185.0,
+        "2026-11-07": 186.0
       },
       "low_price": 185.0,
-      "prev_price": 200.57,
-      "prev_date": "2026-11-05"
+      "prev_price": 185.0,
+      "prev_date": "2026-11-06"
     }
   ],
   "guide": [

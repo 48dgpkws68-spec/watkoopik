@@ -50,7 +50,7 @@
       "bol_title": "Philips Series 8000 Ladyshave - Een gladde scheerbeurt - Met ingebouwd LED-lampje - 2 snelheidsstanden en 1 accessoire - Roze - BRL129/00",
       "url": "https://www.bol.com/nl/nl/p/philips-series-8000-ladyshave-een-gladde-scheerbeurt-zelfs-op-moeilijk-bereikbare-plekken-met-ingebouwd-led-lampje-2-snelheidsstanden-en-1-accessoire-pink-brl129-00/9300000232650366/",
       "image": "https://media.s-bol.com/rAA2105x9NpL/DqoXEJx/453x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 42.99,
         "2026-10-16": 42.99,
@@ -73,7 +73,8 @@
         "2026-11-03": 42.99,
         "2026-11-04": 42.99,
         "2026-11-05": 37.0,
-        "2026-11-06": 42.99
+        "2026-11-06": 42.99,
+        "2026-11-07": 42.99
       },
       "low_price": 34.99,
       "prev_price": 37.0,
@@ -110,7 +111,7 @@
       "bol_title": "Philips SatinShave Essential HP6341/00 - Ladyshave voor vrouwen - Roze",
       "url": "https://www.bol.com/nl/nl/p/philips-satinshave-essential-hp6341-00-ladyshave-roze/9000000011300786/",
       "image": "https://media.s-bol.com/qA6QWL8NArXR/pYXnV5p/550x798.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 22.49,
         "2026-10-16": 22.49,
@@ -133,7 +134,8 @@
         "2026-11-03": 23.99,
         "2026-11-04": 23.99,
         "2026-11-05": 23.99,
-        "2026-11-06": 22.99
+        "2026-11-06": 22.99,
+        "2026-11-07": 22.99
       },
       "low_price": 19.99,
       "prev_price": 23.99,
@@ -142,7 +144,7 @@
     {
       "brand": "Braun",
       "name": "Silk-épil 9 9-061",
-      "price": 111.0,
+      "price": 108.39,
       "score": 8.9,
       "label": "Beste premium",
       "reviews": "bol-score 4,5 van 5",
@@ -171,15 +173,18 @@
       "url": "https://www.bol.com/nl/nl/p/braun-silk-epil-9-wet-dry-epilator-9-061-langdurig-gladde-huid-inclusief-scheerkop-trimkam-en-exfoliatieborstel-zilver/9300000251824632/",
       "image": "https://media.s-bol.com/xK51Wy9OLlXP/QkApQl5/550x540.jpg",
       "ph": {
-        "2026-11-06": 111.0
+        "2026-11-06": 111.0,
+        "2026-11-07": 108.39
       },
-      "low_price": 111.0,
-      "synced": "2026-11-06"
+      "low_price": 108.39,
+      "synced": "2026-11-07",
+      "prev_price": 111.0,
+      "prev_date": "2026-11-06"
     },
     {
       "brand": "Philips",
       "name": "Series 6000 BRL138/00",
-      "price": 40.99,
+      "price": 42.0,
       "score": 8.7,
       "label": null,
       "reviews": "300+ reviews",
@@ -207,7 +212,7 @@
       "bol_title": "Philips Lady Shaver Series 6000 BRL138/00 – Draadloze Ladyshave voor Benen, Lichaam en Bikinilijn – Nat & Droog – Paars",
       "url": "https://www.bol.com/nl/nl/p/pphilips-series-6000-ladyshave-eenvoudig-scheren-zelfs-op-gevoelige-plekken-met-3-accessoires-paars-brl138-00/9300000232650370/",
       "image": "https://media.s-bol.com/NAN0BOMWAvXL/pg9AXOm/550x557.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 40.99,
         "2026-10-16": 40.99,
@@ -230,9 +235,12 @@
         "2026-11-03": 40.99,
         "2026-11-04": 40.99,
         "2026-11-05": 40.99,
-        "2026-11-06": 40.99
+        "2026-11-06": 40.99,
+        "2026-11-07": 42.0
       },
-      "low_price": 40.99
+      "low_price": 40.99,
+      "prev_price": 40.99,
+      "prev_date": "2026-11-06"
     },
     {
       "brand": "Braun",
@@ -265,7 +273,7 @@
       "bol_title": "Braun Silk·épil LS5100 Ladyshave - Eenvoudig & Zacht Scheren - +1 Extra - Roze",
       "url": "https://www.bol.com/nl/nl/p/braun-silk-epil-ls5100-ladyshave-eenvoudig-zacht-scheren-1-extra-roze/9300000356467744/",
       "image": "https://media.s-bol.com/gz364mJq8Qnk/WLr994W/550x533.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 54.99,
         "2026-10-16": 54.99,
@@ -288,7 +296,8 @@
         "2026-11-03": 54.99,
         "2026-11-04": 54.99,
         "2026-11-05": 54.99,
-        "2026-11-06": 34.99
+        "2026-11-06": 34.99,
+        "2026-11-07": 34.99
       },
       "low_price": 34.99,
       "prev_price": 54.99,
@@ -297,7 +306,7 @@
     {
       "brand": "Remington",
       "name": "WDF5030",
-      "price": 49.92,
+      "price": 50.89,
       "score": 8.3,
       "label": null,
       "reviews": "200+ reviews",
@@ -325,7 +334,7 @@
       "bol_title": "Remington WDF5030 - Ladyshave",
       "url": "https://www.bol.com/nl/nl/p/remington-wdf5030-ladyshave/9200000075496430/",
       "image": "https://media.s-bol.com/3BOQzrQR6MR/374x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 44.05,
         "2026-10-16": 44.05,
@@ -348,11 +357,12 @@
         "2026-11-03": 50.0,
         "2026-11-04": 51.0,
         "2026-11-05": 51.0,
-        "2026-11-06": 49.92
+        "2026-11-06": 49.92,
+        "2026-11-07": 50.89
       },
       "low_price": 44.05,
-      "prev_price": 51.0,
-      "prev_date": "2026-11-05"
+      "prev_price": 49.92,
+      "prev_date": "2026-11-06"
     },
     {
       "brand": "Philips",
@@ -385,7 +395,7 @@
       "bol_title": "Philips Lady Shaver Series 6000 BRL127/00",
       "url": "https://www.bol.com/nl/nl/p/philips-series-6000-ladyshave-eenvoudig-scheren-zelfs-op-gevoelige-plekken-met-trimkam-light-blue-brl127-00/9300000232650367/",
       "image": "https://media.s-bol.com/RGR1PWr5yXqz/58AZlVK/550x560.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 44.95,
         "2026-10-16": 44.95,
@@ -408,7 +418,8 @@
         "2026-11-03": 44.95,
         "2026-11-04": 44.95,
         "2026-11-05": 44.95,
-        "2026-11-06": 44.95
+        "2026-11-06": 44.95,
+        "2026-11-07": 44.95
       },
       "low_price": 44.95,
       "prev_price": 50.16,
@@ -445,7 +456,7 @@
       "bol_title": "FAVE Ladyshave® 7-in-1 Pro Series - Vrouwen - Bikinilijn Trimmer - Oplaadbaar - Gezicht - Wenkbrauw - Neus - Benen - Schaamhaar - Oksel - Intiem - Gezichtsontharing - Scheerapparaat Dames - Ontharingsapparaten - Elektrisch Scheren - Haar Verwijderen",
       "url": "https://www.bol.com/nl/nl/p/fave-ladyshave-oplaadbaar-ladyshaves-voor-vrouwen-bikini-trimmer-waterdicht-opbergzakje-wit/9300000174949514/",
       "image": "https://media.s-bol.com/Jg0BwVMLMlDD/P1ZKmE4/550x550.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 49.95,
         "2026-10-16": 49.95,
@@ -468,7 +479,8 @@
         "2026-11-03": 49.95,
         "2026-11-04": 49.95,
         "2026-11-05": 49.95,
-        "2026-11-06": 49.95
+        "2026-11-06": 49.95,
+        "2026-11-07": 49.95
       },
       "low_price": 49.95
     },
@@ -503,7 +515,7 @@
       "bol_title": "Remington BareMe Women Folie Scheerapparaat - WDF310",
       "url": "https://www.bol.com/nl/nl/p/remington-bareme-women-folie-scheerapparaat-wdf310/9300000354314599/",
       "image": "https://media.s-bol.com/3WoM5g1zn19r/mOB18Vn/550x611.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 31.99,
         "2026-10-16": 31.99,
@@ -526,7 +538,8 @@
         "2026-11-03": 26.99,
         "2026-11-04": 26.99,
         "2026-11-05": 26.99,
-        "2026-11-06": 25.64
+        "2026-11-06": 25.64,
+        "2026-11-07": 25.64
       },
       "low_price": 25.64,
       "prev_price": 26.99,
@@ -563,7 +576,7 @@
       "bol_title": "Remington WSF5060 Smooth & Silky Battery Operated Lady Shaver",
       "url": "https://www.bol.com/nl/nl/p/remington-wsf5060-smooth-silky-battery-operated-lady-shaver/9200000096949282/",
       "image": "https://media.s-bol.com/JLQM1ygo2Mg/413x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 21.42,
         "2026-10-16": 21.42,
@@ -586,7 +599,8 @@
         "2026-11-03": 25.2,
         "2026-11-04": 25.2,
         "2026-11-05": 25.2,
-        "2026-11-06": 25.2
+        "2026-11-06": 25.2,
+        "2026-11-07": 25.2
       },
       "low_price": 21.42,
       "prev_price": 22.87,

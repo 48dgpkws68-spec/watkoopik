@@ -50,7 +50,7 @@
       "bol_title": "Duux Edge DXOH11 Oil - Smart Olieradiator met Thermostaat - 1500W Olie gevulde Radiator - grijs",
       "url": "https://www.bol.com/nl/nl/p/duux-edge-dxoh11-oil-smart-olieradiator-met-thermostaat-1500w-olie-gevulde-radiator-grijs/9300000244513075/",
       "image": "https://media.s-bol.com/j14V9JE19RkY/JZBg8Jy/550x511.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-24": 217.0,
         "2026-10-25": 217.0,
@@ -65,7 +65,8 @@
         "2026-11-03": 219.99,
         "2026-11-04": 219.99,
         "2026-11-05": 219.99,
-        "2026-11-06": 242.0
+        "2026-11-06": 242.0,
+        "2026-11-07": 242.0
       },
       "low_price": 217.0,
       "prev_price": 219.99,
@@ -102,7 +103,7 @@
       "bol_title": "Aigostar Pangpang 33IEJ – Olieradiator - Elektrische kachel - 2300W Heater - Timer - 3 Standen - Oliegevulde radiator - Wit",
       "url": "https://www.bol.com/nl/nl/p/aigostar-pangpang-33iej-olieradiator-2300w-oliegevulde-radiator-elektrisch-kachel-wit/9200000081870201/",
       "image": "https://media.s-bol.com/BWjWxgBDWOEJ/lOBWpD1/461x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-20": 109.99,
         "2026-10-21": 109.99,
@@ -120,7 +121,8 @@
         "2026-11-03": 104.49,
         "2026-11-04": 104.49,
         "2026-11-05": 104.49,
-        "2026-11-06": 104.49
+        "2026-11-06": 104.49,
+        "2026-11-07": 104.49
       },
       "low_price": 104.49,
       "prev_price": 109.99,
@@ -171,20 +173,21 @@
         "2026-11-03": 309.0,
         "2026-11-04": 312.09,
         "2026-11-05": 309.0,
-        "2026-11-06": 345.0
+        "2026-11-06": 345.0,
+        "2026-11-07": 345.0
       },
       "low_price": 284.99,
       "bol_title": "Mill Gentle Air OIL2000WIFI3 Olieradiator 2000W – Tot 34 m² – Energie-efficiënt & Stil – Bediening via App – Noors Design – 5 Jaar Garantie",
       "url": "https://www.bol.com/nl/nl/p/mill-oil2000wifi3-black-wifi-geintegreerde-design-olieradiator-2000-watt-tot-34m2-droogt-de-lucht-niet-uit-zwart/9300000177456421/",
       "image": "https://media.s-bol.com/3gRk3DlnvK0O/gJNMEJD/550x683.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "prev_price": 309.0,
       "prev_date": "2026-11-05"
     },
     {
       "brand": "De'Longhi",
       "name": "Olieradiator V551225.BG 2500 W",
-      "price": 135.99,
+      "price": 137.74,
       "score": 8.7,
       "label": null,
       "reviews": "Gem. 5,0 sterren op bol",
@@ -215,17 +218,18 @@
       "ph": {
         "2026-11-04": 137.42,
         "2026-11-05": 137.72,
-        "2026-11-06": 135.99
+        "2026-11-06": 135.99,
+        "2026-11-07": 137.74
       },
       "low_price": 135.99,
-      "synced": "2026-11-06",
-      "prev_price": 137.72,
-      "prev_date": "2026-11-05"
+      "synced": "2026-11-07",
+      "prev_price": 135.99,
+      "prev_date": "2026-11-06"
     },
     {
       "brand": "Mill",
       "name": "AB-H1500DN Design Olieradiator",
-      "price": 229.0,
+      "price": 226.71,
       "score": 8.7,
       "label": null,
       "reviews": "120+ reviews",
@@ -253,7 +257,7 @@
       "bol_title": "Mill AB-H1500DN - Design Olieradiator - tot 24m2 - droogt de lucht niet uit - stil - wit - 5 jaar garantie",
       "url": "https://www.bol.com/nl/nl/p/mill-ab-h1500dn-design-olieradiator-1500-watt-tot-22m2/9200000051707325/",
       "image": "https://media.s-bol.com/7m8jXxxAoRq1/wpv76VR/550x733.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-20": 229.0,
         "2026-10-21": 229.0,
@@ -271,9 +275,12 @@
         "2026-11-03": 229.0,
         "2026-11-04": 229.0,
         "2026-11-05": 229.0,
-        "2026-11-06": 229.0
+        "2026-11-06": 229.0,
+        "2026-11-07": 226.71
       },
-      "low_price": 229.0
+      "low_price": 226.71,
+      "prev_price": 229.0,
+      "prev_date": "2026-11-06"
     },
     {
       "brand": "Aigostar",
@@ -311,10 +318,11 @@
         "2026-11-03": 139.99,
         "2026-11-04": 139.99,
         "2026-11-05": 139.99,
-        "2026-11-06": 139.99
+        "2026-11-06": 139.99,
+        "2026-11-07": 139.99
       },
       "low_price": 139.99,
-      "synced": "2026-11-06"
+      "synced": "2026-11-07"
     },
     {
       "brand": "Auronic",
@@ -346,7 +354,7 @@
       "bol_title": "Auronic Olieradiator met Thermostaat en Display - 2500W Heater - Elektrische Kachel - 3 Standen - Met Afstandsbediening - Zwart",
       "url": "https://www.bol.com/nl/nl/p/auronic-olieradiator-elektrische-kachel-2500w-heater-zwart/9300000237284159/",
       "image": "https://media.s-bol.com/x4OxPRlNQ4Pz/wjR0BOX/550x713.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-20": 114.99,
         "2026-10-21": 119.99,
@@ -364,7 +372,8 @@
         "2026-11-03": 169.99,
         "2026-11-04": 169.99,
         "2026-11-05": 169.99,
-        "2026-11-06": 169.99
+        "2026-11-06": 169.99,
+        "2026-11-07": 169.99
       },
       "low_price": 114.99,
       "prev_price": 159.99,
@@ -401,7 +410,7 @@
       "bol_title": "Heinner Oliegevulde Radiator 2500 W – Met Ventilator – Turbo – 3 Standen – 13 Ribben – Oververhittingsbeveiliging – Omvalbeveiliging – Wit/Zwart",
       "url": "https://www.bol.com/nl/nl/p/heinner-hoh-mvt13wh-bk-oliegevulde-radiator-2500-w-met-ventilator-turbo-3-standen-13-ribben-oververhittingsbeveiliging-omvalbeveiliging-wit-zwart/9300000242184212/",
       "image": "https://media.s-bol.com/p1ZKLM70R7zy/oYBvEXY/471x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-20": 89.99,
         "2026-10-21": 89.99,
@@ -419,7 +428,8 @@
         "2026-11-03": 83.35,
         "2026-11-04": 83.35,
         "2026-11-05": 83.35,
-        "2026-11-06": 83.35
+        "2026-11-06": 83.35,
+        "2026-11-07": 83.35
       },
       "low_price": 83.35,
       "prev_price": 85.49,
@@ -455,7 +465,7 @@
       "bol_title": "Heinner Oliegevulde Radiator 2000 W – Mechanische Thermostaat – 3 Standen – 9 Ribben – Oververhittingsbeveiliging – Omvalbeveiliging – Wit/Zwart",
       "url": "https://www.bol.com/nl/nl/p/heinner-oliegevulde-radiator-met-thermostaat-heater-2000-watt-elektrische-kachel-3-standen-9-ribben-wit-zwart/9300000241602956/",
       "image": "https://media.s-bol.com/7ZZ3gMXnD4YQ/58gvVKR/454x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-15": 64.99,
         "2026-10-16": 64.99,
@@ -478,7 +488,8 @@
         "2026-11-03": 64.99,
         "2026-11-04": 64.99,
         "2026-11-05": 64.99,
-        "2026-11-06": 64.99
+        "2026-11-06": 64.99,
+        "2026-11-07": 64.99
       },
       "low_price": 64.99
     },
@@ -512,7 +523,7 @@
       "bol_title": "Tristar Elektrische Kachel KA-5103 - Oliegevulde radiator - 500 Watt - 5 ribben - Compact - Wit",
       "url": "https://www.bol.com/nl/nl/p/tristar-ka5103-oliegevulde-radiator/9200000020995981/",
       "image": "https://media.s-bol.com/0DNLvEqXXR0v/jY5GJRP/372x840.jpg",
-      "synced": "2026-11-06",
+      "synced": "2026-11-07",
       "ph": {
         "2026-10-20": 34.99,
         "2026-10-21": 34.99,
@@ -530,7 +541,8 @@
         "2026-11-03": 37.99,
         "2026-11-04": 37.99,
         "2026-11-05": 37.99,
-        "2026-11-06": 37.99
+        "2026-11-06": 37.99,
+        "2026-11-07": 37.99
       },
       "low_price": 34.99,
       "prev_price": 34.99,
