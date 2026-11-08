@@ -2,6 +2,14 @@
 
 Formaat: slug | cat | query | titel | emoji
 
+# weekrapport 8 nov 2026: tv-accessoires, prullenbak, budget-smartphone en boxspring scoren (bol-orders + Umami-kliks); luchtreiniger-zoekvraag uit Search Console
+[ ] beste-tv-beugel | elektronica | tv muurbeugel | De 10 beste tv-muurbeugels van 2026 | 🔩
+[ ] beste-prullenbak | huishouden | prullenbak | De 10 beste prullenbakken van 2026 | 🗑️
+[ ] beste-tv-onder-200-euro | elektronica | tv onder 200 euro | De 10 beste tv's onder 200 euro van 2026 | 📺
+[ ] beste-smartphone-onder-200-euro | telefoon | smartphone onder 200 euro | De 10 beste smartphones onder 200 euro van 2026 | 📱
+[ ] beste-elektrische-boxspring | slapen | elektrische boxspring | De 10 beste elektrische boxsprings van 2026 | 🛏️
+[ ] beste-luchtreiniger-huisstofmijt | wonen | luchtreiniger huisstofmijt | De 10 beste luchtreinigers tegen huisstofmijt van 2026 | 🌬️
+
 # groeimotor 5 nov 2026 (D1): Black Friday 27 nov + Sinterklaas + Kerst, op verwachte omzet (prijs x zoekvraag x seizoen), 4 tot 6 weken vooraf
 [x] beste-kunstkerstboom | wonen | kunstkerstboom | De 10 beste kunstkerstbomen van 2026 | 🎄
 [x] beste-tv-85-inch | elektronica | 85 inch tv | De 10 beste 85 inch tv's van 2026 | 📺
@@ -181,7 +189,6 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-snellader | telefoon | usb c snellader | De 10 beste USB-C snelladers van 2026 | 🔌
 [ ] beste-laptop-onder-500-euro | computer | laptop goedkoop | De 10 beste laptops onder 500 euro van 2026 | 💻
 [ ] beste-magsafe-powerbank | telefoon | magsafe powerbank | De 10 beste MagSafe-powerbanks van 2026 | 🔋
-[ ] beste-tv-beugel | elektronica | tv muurbeugel | De 10 beste tv-muurbeugels van 2026 | 🔩
 [ ] beste-ipad | computer | ipad | De 10 beste iPads van 2026 | 📱
 [ ] beste-oplaadstation | telefoon | 3 in 1 oplader | De 10 beste 3-in-1 oplaadstations van 2026 | 🔋
 [ ] beste-tv-standaard | elektronica | tv standaard | De 10 beste tv-standaards van 2026 | 📺
@@ -198,7 +205,6 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-smartwatch-dames | telefoon | smartwatch dames | De 10 beste damessmartwatches van 2026 | ⌚
 [ ] beste-blu-ray-speler | elektronica | blu ray speler | De 10 beste blu-rayspelers van 2026 | 💿
 [ ] beste-koffiezetapparaat | keuken | filterkoffiezetapparaat | De 10 beste filterkoffiezetapparaten van 2026 | ☕
-[ ] beste-prullenbak | huishouden | prullenbak | De 10 beste prullenbakken van 2026 | 🗑️
 [ ] beste-router | computer | wifi router | De 10 beste routers van 2026 | 📡
 [ ] beste-smartwatch-heren | telefoon | smartwatch heren | De 10 beste herensmartwatches van 2026 | ⌚
 [ ] beste-mini-beamer | elektronica | mini beamer | De 10 beste mini-beamers van 2026 | 📽️
