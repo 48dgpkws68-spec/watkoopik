@@ -56,10 +56,11 @@
       "image": "https://media.s-bol.com/vGrZxrDGxEl5/5732qKZ/550x831.jpg",
       "ph": {
         "2026-11-06": 94.9,
-        "2026-11-07": 90.7
+        "2026-11-07": 90.7,
+        "2026-11-08": 90.7
       },
       "low_price": 90.7,
-      "synced": "2026-11-07",
+      "synced": "2026-11-08",
       "prev_price": 94.9,
       "prev_date": "2026-11-06"
     },
@@ -97,10 +98,11 @@
       "image": "https://media.s-bol.com/BZ7Ywop3K9yN/BgELVon/544x840.jpg",
       "ph": {
         "2026-11-06": 359.0,
-        "2026-11-07": 359.0
+        "2026-11-07": 359.0,
+        "2026-11-08": 359.0
       },
       "low_price": 359.0,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "Triumph Tree",
@@ -135,10 +137,11 @@
       "image": "https://media.s-bol.com/7kmZjm066pzA/Z37Lqw/491x840.jpg",
       "ph": {
         "2026-11-06": 74.95,
-        "2026-11-07": 84.95
+        "2026-11-07": 84.95,
+        "2026-11-08": 84.95
       },
       "low_price": 74.95,
-      "synced": "2026-11-07",
+      "synced": "2026-11-08",
       "prev_price": 74.95,
       "prev_date": "2026-11-06"
     },
@@ -174,10 +177,11 @@
       "image": "https://media.s-bol.com/yLWYx0X518Og/lREjyrJ/364x840.jpg",
       "ph": {
         "2026-11-06": 119.0,
-        "2026-11-07": 119.0
+        "2026-11-07": 119.0,
+        "2026-11-08": 119.0
       },
       "low_price": 119.0,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "Everlands",
@@ -212,10 +216,11 @@
       "image": "https://media.s-bol.com/7qmg5XJ9kxEB/pYL6NXr/550x785.jpg",
       "ph": {
         "2026-11-06": 121.9,
-        "2026-11-07": 121.9
+        "2026-11-07": 121.9,
+        "2026-11-08": 121.9
       },
       "low_price": 121.9,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "Royal Christmas",
@@ -250,15 +255,16 @@
       "image": "https://media.s-bol.com/Mv9Nj2yJJQRG/pg7WBA2/550x816.jpg",
       "ph": {
         "2026-11-06": 89.0,
-        "2026-11-07": 89.0
+        "2026-11-07": 89.0,
+        "2026-11-08": 89.0
       },
       "low_price": 89.0,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "Black Box Trees",
       "name": "Charlton smal 215 cm",
-      "price": 40.44,
+      "price": 39.85,
       "score": 8.5,
       "label": null,
       "reviews": "70+ reviews",
@@ -288,12 +294,13 @@
       "image": "https://media.s-bol.com/mJ9wozy45pRO/mOkQV8G/250x200.jpg",
       "ph": {
         "2026-11-06": 42.95,
-        "2026-11-07": 40.44
+        "2026-11-07": 40.44,
+        "2026-11-08": 39.85
       },
-      "low_price": 40.44,
-      "synced": "2026-11-07",
-      "prev_price": 42.95,
-      "prev_date": "2026-11-06"
+      "low_price": 39.85,
+      "synced": "2026-11-08",
+      "prev_price": 40.44,
+      "prev_date": "2026-11-07"
     },
     {
       "brand": "Triumph Tree",
@@ -327,10 +334,11 @@
       "image": "https://media.s-bol.com/3L53y2lKN0OR/gpNXVzj/493x840.jpg",
       "ph": {
         "2026-11-06": 296.95,
-        "2026-11-07": 296.95
+        "2026-11-07": 296.95,
+        "2026-11-08": 296.95
       },
       "low_price": 296.95,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "Everlands",
@@ -364,10 +372,11 @@
       "image": "https://media.s-bol.com/G3N0q90jWRK0/36Vo6m9/250x200.jpg",
       "ph": {
         "2026-11-06": 50.99,
-        "2026-11-07": 50.99
+        "2026-11-07": 50.99,
+        "2026-11-08": 50.99
       },
       "low_price": 50.99,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "Triumph Tree",
@@ -402,10 +411,11 @@
       "image": "https://media.s-bol.com/J5gQXz3qLw1y/OMRLoXr/350x840.jpg",
       "ph": {
         "2026-11-06": 144.95,
-        "2026-11-07": 144.95
+        "2026-11-07": 144.95,
+        "2026-11-08": 144.95
       },
       "low_price": 144.95,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     }
   ],
   "guide": [

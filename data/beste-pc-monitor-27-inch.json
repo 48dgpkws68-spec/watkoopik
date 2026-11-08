@@ -21,7 +21,7 @@
     {
       "brand": "Dell",
       "name": "Plus S2725QC",
-      "price": 349.95,
+      "price": 336.9,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "600+ reviews",
@@ -49,7 +49,7 @@
       "bol_title": "DELL Plus S2725QC - 4k IPS USB-C Monitor - 120hz - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/dell-plus-s2725qc-computer-monitor-68-6-cm-3840-x-2160-pixels-4k-ultra-hd-lcd-zilver/9300000228931933/",
       "image": "https://media.s-bol.com/WyqVAynOz4Eg/Z6x9GN6/550x495.jpg",
-      "synced": "2026-11-07",
+      "synced": "2026-11-08",
       "ph": {
         "2026-10-15": 379.0,
         "2026-10-16": 379.0,
@@ -73,11 +73,12 @@
         "2026-11-04": 340.02,
         "2026-11-05": 339.84,
         "2026-11-06": 337.0,
-        "2026-11-07": 349.95
+        "2026-11-07": 349.95,
+        "2026-11-08": 336.9
       },
-      "low_price": 337.0,
-      "prev_price": 337.0,
-      "prev_date": "2026-11-06"
+      "low_price": 336.9,
+      "prev_price": 349.95,
+      "prev_date": "2026-11-07"
     },
     {
       "brand": "iiyama",
@@ -122,10 +123,11 @@
         "2026-11-04": 171.6,
         "2026-11-05": 171.6,
         "2026-11-06": 179.0,
-        "2026-11-07": 179.0
+        "2026-11-07": 179.0,
+        "2026-11-08": 179.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-07",
+      "synced": "2026-11-08",
       "prev_price": 171.6,
       "prev_date": "2026-11-05"
     },
@@ -160,7 +162,7 @@
       "bol_title": "Dell UltraSharp U2724DE - QHD IPS-Black Monitor - 98% DCI-P3 - RJ45 - Thunderbolt 4 - 120hz - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/dell-ultrasharp-u2724de-computer-monitor-68-6-cm-2560-x-1440-pixels-quad-hd-lcd-zwart-zilver/9300000168154030/",
       "image": "https://media.s-bol.com/xx600xyA2zBz/VOAXlzz/550x428.jpg",
-      "synced": "2026-11-07",
+      "synced": "2026-11-08",
       "ph": {
         "2026-10-23": 456.0,
         "2026-10-24": 456.0,
@@ -177,7 +179,8 @@
         "2026-11-04": 437.1,
         "2026-11-05": 435.95,
         "2026-11-06": 435.95,
-        "2026-11-07": 435.95
+        "2026-11-07": 435.95,
+        "2026-11-08": 435.95
       },
       "low_price": 389.95,
       "prev_price": 437.1,
@@ -214,7 +217,7 @@
       "bol_title": "Samsung Viewfinity S6� LS27D600UAUXEN - QHD - IPS-paneel - 100 Hz - in hoogte verstelbaar - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/samsung-viewfinity-s6-ls27d600uauxen-qhd-ips-paneel-100-hz-in-hoogte-verstelbaar-27-inch/9300000178118149/",
       "image": "https://media.s-bol.com/rOL049xWNZr4/p8xXM81/550x426.jpg",
-      "synced": "2026-11-07",
+      "synced": "2026-11-08",
       "ph": {
         "2026-10-23": 257.6,
         "2026-10-24": 257.6,
@@ -231,7 +234,8 @@
         "2026-11-04": 265.0,
         "2026-11-05": 252.8,
         "2026-11-06": 209.99,
-        "2026-11-07": 209.99
+        "2026-11-07": 209.99,
+        "2026-11-08": 209.99
       },
       "low_price": 209.99,
       "prev_price": 252.8,
@@ -268,7 +272,7 @@
       "bol_title": "Dell S2725DS",
       "url": "https://www.bol.com/nl/nl/p/dell-s2725ds-27-inch-quad-hd-monitor-2560x1440-100hz-ips-4ms-2x-5w-speakers-dp-1-2-hdmi-2-1/9300000176849931/",
       "image": "https://media.s-bol.com/4jrB8QPAW3r0/PNV31j6/550x421.jpg",
-      "synced": "2026-11-07",
+      "synced": "2026-11-08",
       "ph": {
         "2026-10-23": 289.0,
         "2026-10-24": 289.0,
@@ -285,7 +289,8 @@
         "2026-11-04": 289.0,
         "2026-11-05": 289.0,
         "2026-11-06": 289.0,
-        "2026-11-07": 289.0
+        "2026-11-07": 289.0,
+        "2026-11-08": 289.0
       },
       "low_price": 289.0
     },
@@ -320,7 +325,7 @@
       "bol_title": "LG UltraFine 27UP850K - 4K IPS Monitor - USB-C 90w - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/lg-27up850k-4k-ips-monitor-geschikt-voor-apple-macbook-usb-c-90w-27-inch/9300000220429352/",
       "image": "https://media.s-bol.com/RyZrWOr2YmqY/Z6R7WmE/550x514.jpg",
-      "synced": "2026-11-07",
+      "synced": "2026-11-08",
       "ph": {
         "2026-10-15": 279.0,
         "2026-10-16": 279.0,
@@ -344,7 +349,8 @@
         "2026-11-04": 279.0,
         "2026-11-05": 279.0,
         "2026-11-06": 279.0,
-        "2026-11-07": 279.0
+        "2026-11-07": 279.0,
+        "2026-11-08": 279.0
       },
       "low_price": 279.0,
       "prev_price": 289.0,
@@ -381,7 +387,7 @@
       "bol_title": "ASUS ProArt Display PA278CV - 2K IPS Designer Monitor - Calman Gecertificeerd - USB-C 65W - 27 Inch",
       "url": "https://www.bol.com/nl/nl/p/monitor-asus-pa278cv-27-2k-ips-led/9300000025381233/",
       "image": "https://media.s-bol.com/xXLGXWyyz19q/vllor1m/550x426.jpg",
-      "synced": "2026-11-07",
+      "synced": "2026-11-08",
       "ph": {
         "2026-10-23": 298.7,
         "2026-10-24": 298.7,
@@ -398,7 +404,8 @@
         "2026-11-04": 280.8,
         "2026-11-05": 280.79,
         "2026-11-06": 319.0,
-        "2026-11-07": 294.02
+        "2026-11-07": 294.02,
+        "2026-11-08": 294.02
       },
       "low_price": 280.79,
       "prev_price": 319.0,
@@ -435,7 +442,7 @@
       "bol_title": "iiyama G-Master GB2771UHSU-B1 Red Eagle - 27 inch - 4K - IPS - 144 Hz - Verstelbaar - HDR 400 - G-Sync Compatible",
       "url": "https://www.bol.com/nl/nl/p/iiyama-g-master-gb2771uhsu-b1-red-eagle-27-inch-4k-ips-144-hz-verstelbaar-hdr-400-g-sync-compatible/9300000245749907/",
       "image": "https://media.s-bol.com/RNg73mkLYnDV/GZNJxOr/550x597.jpg",
-      "synced": "2026-11-07",
+      "synced": "2026-11-08",
       "ph": {
         "2026-10-23": 239.0,
         "2026-10-24": 239.0,
@@ -452,7 +459,8 @@
         "2026-11-04": 239.0,
         "2026-11-05": 239.0,
         "2026-11-06": 239.0,
-        "2026-11-07": 239.0
+        "2026-11-07": 239.0,
+        "2026-11-08": 239.0
       },
       "low_price": 239.0
     },
@@ -485,7 +493,7 @@
       "ean": "8721038005455",
       "bol_title": "Philips 27E2N1500L - QHD IPS Monitor - 75hz - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/philips-27e2n1500l-00-quad-hd-monitor-27-inch-ips-scherm-met-hdr-en-adaptive-sync/9300000232485991/",
-      "image": "https://media.s-bol.com/Z7PQnjrlLPJQ/BrYWroY/550x426.jpg",
+      "image": "https://media.s-bol.com/r4OG3nXDRwXL/j2A23NY/550x429.jpg",
       "ph": {
         "2026-11-01": 119.0,
         "2026-11-02": 119.0,
@@ -493,10 +501,11 @@
         "2026-11-04": 119.0,
         "2026-11-05": 119.0,
         "2026-11-06": 119.0,
-        "2026-11-07": 119.0
+        "2026-11-07": 119.0,
+        "2026-11-08": 119.0
       },
       "low_price": 119.0,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "BenQ",
@@ -528,7 +537,7 @@
       "bol_title": "BenQ Full HD 27 inch Monitor GW2790 - 100Hz - IPS Beeldscherm Computer- 1920x1080p PC Scherm - 99% sRGB - EyeCare - 2 x HDMDI - 1 x DP port - 2 x 2W Speakers",
       "url": "https://www.bol.com/nl/nl/p/benq-full-hd-monitor-gw2790-100hz-ips-1920x1080p-eyecare-27-inch/9300000171261397/",
       "image": "https://media.s-bol.com/JBN9kky3Qk4J/zm8A1B2/550x426.jpg",
-      "synced": "2026-11-07",
+      "synced": "2026-11-08",
       "ph": {
         "2026-10-23": 109.99,
         "2026-10-24": 109.99,
@@ -545,7 +554,8 @@
         "2026-11-04": 109.99,
         "2026-11-05": 109.99,
         "2026-11-06": 109.99,
-        "2026-11-07": 109.99
+        "2026-11-07": 109.99,
+        "2026-11-08": 109.99
       },
       "low_price": 109.99
     }

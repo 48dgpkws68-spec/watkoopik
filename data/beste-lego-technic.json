@@ -53,10 +53,11 @@
       "url": "https://www.bol.com/nl/nl/p/lego-technic-mercedes-benz-g-500-professional-line-42177/9300000175725335/",
       "image": "https://media.s-bol.com/lrgmpKGAKmYg/mq86jjp/550x405.jpg",
       "ph": {
-        "2026-11-07": 169.99
+        "2026-11-07": 169.99,
+        "2026-11-08": 169.99
       },
       "low_price": 169.99,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "LEGO",
@@ -90,15 +91,16 @@
       "url": "https://www.bol.com/nl/nl/p/lego-technic-oracle-red-bull-racing-rb20-f1-auto-f1-auto-42206/9300000198710305/",
       "image": "https://media.s-bol.com/5NyV9wn6lVMA/vlKv1kg/550x398.jpg",
       "ph": {
-        "2026-11-07": 159.99
+        "2026-11-07": 159.99,
+        "2026-11-08": 159.99
       },
       "low_price": 159.99,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "LEGO",
       "name": "Technic Ferrari Daytona SP3 42143",
-      "price": 449.99,
+      "price": 452.95,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
@@ -128,10 +130,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-technic-ferrari-daytona-sp3-42143/9300000083349065/",
       "image": "https://media.s-bol.com/MKp8LNW5R7D3/5M4gkZ/550x320.jpg",
       "ph": {
-        "2026-11-07": 449.99
+        "2026-11-07": 449.99,
+        "2026-11-08": 452.95
       },
       "low_price": 449.99,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08",
+      "prev_price": 449.99,
+      "prev_date": "2026-11-07"
     },
     {
       "brand": "LEGO",
@@ -165,15 +170,16 @@
       "url": "https://www.bol.com/nl/nl/p/lego-technic-mclaren-p1-42172/9300000178620333/",
       "image": "https://media.s-bol.com/m3ZMnxNVD093/3lWRAMA/550x459.jpg",
       "ph": {
-        "2026-11-07": 309.95
+        "2026-11-07": 309.95,
+        "2026-11-08": 309.95
       },
       "low_price": 309.95,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "LEGO",
       "name": "Technic Ford GT 2022 42154",
-      "price": 83.99,
+      "price": 84.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,8 van 5",
@@ -202,10 +208,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-technic-2022-ford-gt-auto-modelbouwset-42154/9300000132639056/",
       "image": "https://media.s-bol.com/gG5ngD1qAMrY/3MRRWn/550x345.jpg",
       "ph": {
-        "2026-11-07": 83.99
+        "2026-11-07": 83.99,
+        "2026-11-08": 84.0
       },
       "low_price": 83.99,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08",
+      "prev_price": 83.99,
+      "prev_date": "2026-11-07"
     },
     {
       "brand": "LEGO",
@@ -239,10 +248,11 @@
       "url": "https://www.bol.com/nl/nl/p/lego-technic-volvo-fmx-truck-ec230-elektrische-graafmachine-42175/9300000175725320/",
       "image": "https://media.s-bol.com/z3vmNmDBPAYq/Q14r16G/550x402.jpg",
       "ph": {
-        "2026-11-07": 139.0
+        "2026-11-07": 139.0,
+        "2026-11-08": 139.0
       },
       "low_price": 139.0,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "LEGO",
@@ -276,10 +286,11 @@
       "url": "https://www.bol.com/nl/nl/p/lego-technic-kawasaki-ninja-h2r-motor-42170/9300000157956325/",
       "image": "https://media.s-bol.com/0zKrwkgNXD1V/pgR5Pjy/550x442.jpg",
       "ph": {
-        "2026-11-07": 66.99
+        "2026-11-07": 66.99,
+        "2026-11-08": 66.99
       },
       "low_price": 66.99,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "LEGO",
@@ -313,15 +324,16 @@
       "url": "https://www.bol.com/nl/nl/p/lego-technic-koenigsegg-jesko-absolut-grijze-hypercar-42173/9300000175725322/",
       "image": "https://media.s-bol.com/XE5NkxWLGoEm/l5vDgGg/550x405.jpg",
       "ph": {
-        "2026-11-07": 44.99
+        "2026-11-07": 44.99,
+        "2026-11-08": 44.99
       },
       "low_price": 44.99,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     },
     {
       "brand": "LEGO",
       "name": "Technic Mack LR Electric Vuilniswagen 42167",
-      "price": 41.9,
+      "price": 41.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -350,10 +362,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-technic-mack-lr-electric-vuilniswagen-42167/9300000157956357/",
       "image": "https://media.s-bol.com/rA0PxoAVKB26/RlYjPoq/550x328.jpg",
       "ph": {
-        "2026-11-07": 41.9
+        "2026-11-07": 41.9,
+        "2026-11-08": 41.99
       },
       "low_price": 41.9,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08",
+      "prev_price": 41.9,
+      "prev_date": "2026-11-07"
     },
     {
       "brand": "LEGO",
@@ -387,10 +402,11 @@
       "url": "https://www.bol.com/nl/nl/p/lego-42166-technic-neom-mclaren-extreme-e-racewagen-speelgoed-auto/9300000157956463/",
       "image": "https://media.s-bol.com/B3gD02lWAyJW/Z8Oro2J/550x342.jpg",
       "ph": {
-        "2026-11-07": 37.69
+        "2026-11-07": 37.69,
+        "2026-11-08": 37.69
       },
       "low_price": 37.69,
-      "synced": "2026-11-07"
+      "synced": "2026-11-08"
     }
   ],
   "guide": [
