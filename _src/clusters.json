@@ -43,5 +43,6 @@
 {"key": "terras", "enkel": "barbecue", "meervoud": "buitenleven", "cat": "klussen", "main": "beste-bbq", "match": "^(bbq|terrasverwarmer)$"},
 {"key": "verkoeling", "enkel": "ventilator", "meervoud": "verkoeling", "cat": "wonen", "main": "beste-mobiele-airco", "match": "^(ventilator|mobiele-airco)$"},
 {"key": "ontbijt", "enkel": "waterkoker", "meervoud": "ontbijtapparaten", "cat": "keuken", "main": "beste-waterkoker", "match": "^(broodrooster|waterkoker)$"},
-{"key": "lego", "enkel": "LEGO-set", "meervoud": "LEGO-sets", "cat": "cadeaus", "main": "beste-lego-voor-volwassenen", "match": "^lego-.*$"}
+{"key": "lego", "enkel": "LEGO-set", "meervoud": "LEGO-sets", "cat": "cadeaus", "main": "beste-lego-voor-volwassenen", "match": "^lego-.*$"},
+{"key": "kunstkerstboom", "enkel": "kunstkerstboom", "meervoud": "kunstkerstbomen", "cat": "wonen", "main": "beste-kunstkerstboom", "match": "^kunstkerstboom.*$", "intro": "Een kunstkerstboom gaat jaren mee, dus kies hem met zorg. Wil je zelf lampjes ophangen, dan kijk je vooral naar volle takken en een stevige voet. Wil je geen gedoe met snoeren, dan is een boom met ingebouwde verlichting handiger. Hieronder staan onze kerstboomgidsen met per gids de beste keuze. Alle prijzen controleren we elke dag bij bol."}
 ]
