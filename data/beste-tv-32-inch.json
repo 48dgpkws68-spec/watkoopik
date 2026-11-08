@@ -327,58 +327,40 @@
       "prev_date": "2026-11-05"
     },
     {
-      "brand": "Samsung",
-      "name": "UE32F6000F",
-      "price": 278.11,
+      "brand": "Philips",
+      "name": "32PFS6900/12",
+      "price": 269.0,
       "score": 8.3,
       "label": null,
-      "reviews": "20+ reviews",
-      "oneliner": "Full HD Samsung van 2025 met Tizen en alle apps.",
+      "reviews": "bol-score 4,2 van 5",
+      "oneliner": "Full HD Philips van 2025 met Dolby Vision en Titan OS.",
       "specs": {
         "Paneel": "LED",
         "Resolutie": "Full HD",
-        "HDR": "HDR10+, HLG",
-        "Smart-tv": "Tizen"
+        "HDR": "Dolby Vision, HDR10, HLG",
+        "Smart-tv": "Titan OS"
       },
       "pros": [
-        "Full HD van een groot merk",
-        "Tizen met alle Nederlandse apps",
-        "Recent model van 2025",
-        "Zuinig en licht"
+        "Full HD voor onder de 300 euro",
+        "Dolby Vision, HDR10 en HLG",
+        "Drie HDMI-poorten en een koptelefoonaansluiting",
+        "Licht en makkelijk aan de muur"
       ],
       "cons": [
-        "Geen quantum dots",
-        "Duurder dan de LG met vergelijkbaar beeld"
+        "Titan OS mist Ziggo GO en Spotify",
+        "Geen quantum dots"
       ],
-      "ideal": "Wie een Samsung met Full HD wil maar geen QLED nodig heeft.",
-      "text": "De UE32F6000F is de Full HD-versie in de basisreeks van Samsung voor 2025. Hij zit tussen de goedkope HD Ready-modellen en de QE32Q5FA met QLED in. Het led-paneel is scherp op een korte kijkafstand en de processor schaalt gewone zenders netjes op. Tizen start snel en heeft NPO Start, Videoland, Netflix en Ziggo GO.\n\nHDR10+ wordt ondersteund, al is de helderheid te laag om daar veel van te merken. De kleuren zijn netjes, maar zonder quantum dots minder verzadigd dan bij de duurdere Samsung. De tv is licht en past met een kleine muurbeugel makkelijk in een keuken of op een kantoor. Kopers op bol geven hem gemiddeld 4 sterren en zijn positief over het menu en de scherpte. Vergeleken met de LG 32LQ63006LA betaal je wat meer, vooral voor een nieuwer model en het Samsung-ecosysteem. Gebruik je al een Samsung-telefoon, dan werkt delen via SmartThings prettig.",
-      "ean": "8806095913964",
-      "bol_title": "Samsung UE32F6000F - 32 inch - Full HD LED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-ue32f6000f-32-inch-full-hd-led-2025/9300000229540501/",
-      "image": "https://media.s-bol.com/Jop05z6XQnL9/zKP19G8/550x345.jpg",
-      "synced": "2026-11-08",
+      "ideal": "Wie een betaalbare Full HD-tv van een bekend merk zoekt voor een tweede kamer.",
+      "text": "De Philips 32PFS6900/12 is een Full HD-tv uit 2025 voor de slaapkamer, keuken of studentenkamer. Het led-paneel is scherp op een korte kijkafstand en de Pixel Plus HD-processor van Philips schaalt gewone zenders netjes op. Opvallend in deze prijsklasse is de ondersteuning voor Dolby Vision naast HDR10 en HLG, al is de helderheid te laag om daar echt veel van te merken.\n\nHet smart-tv-systeem is Titan OS. Daarop vind je Netflix, YouTube, Prime Video en NPO Start, maar Ziggo GO, KPN en Spotify ontbreken volgens bol. Kijk je via Ziggo, dan heb je dus een losse mediaspeler of het kastje van je provider nodig. Drie HDMI-aansluitingen, een optische uitgang en een koptelefoonaansluiting maken hem flexibel. Met ruim 4,5 kilo is hij licht genoeg voor een kleine muurbeugel. Kopers op bol geven hem gemiddeld 4,2 van 5. Wil je een Full HD-tv van een bekend merk onder de 300 euro, dan is dit een nette keuze.",
+      "ean": "8718863048153",
+      "bol_title": "Philips 32PFS6900/12 - 32 inch - Full HD LED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/led-lcd-tv-philips-32pfs6900-12-fhd/9300000229240637/",
+      "image": "https://media.s-bol.com/v3MADkywJGwX/D192m2A/550x346.jpg",
       "ph": {
-        "2026-10-23": 279.0,
-        "2026-10-24": 279.0,
-        "2026-10-25": 279.0,
-        "2026-10-26": 279.0,
-        "2026-10-27": 278.11,
-        "2026-10-28": 278.11,
-        "2026-10-29": 279.0,
-        "2026-10-30": 279.0,
-        "2026-10-31": 279.0,
-        "2026-11-01": 279.0,
-        "2026-11-02": 279.0,
-        "2026-11-03": 279.0,
-        "2026-11-04": 279.0,
-        "2026-11-05": 279.0,
-        "2026-11-06": 278.11,
-        "2026-11-07": 278.11,
-        "2026-11-08": 278.11
+        "2026-11-08": 269.0
       },
-      "low_price": 278.11,
-      "prev_price": 279.0,
-      "prev_date": "2026-11-05"
+      "low_price": 269.0,
+      "synced": "2026-11-08"
     },
     {
       "brand": "TCL",

@@ -17,7 +17,7 @@
   "updated": "2026-10-27",
   "reviews_total": "3.500",
   "intro": "Met een budget onder 1000 euro koop je in 2026 een tv die vijf jaar geleden nog het dubbele kostte. Je kiest tussen een 55 inch OLED met perfect zwart, een felle mini-led op 65 inch of een grote QLED met budget over voor een soundbar. Wij vergeleken 31 tv's onder 1000 euro op beeldtechniek, helderheid, HDMI 2.1, verversing, smart-tv en duizenden reviews op bol. Hieronder vind je de tien beste, met voor elke kamer en elk kijkgedrag een duidelijke keuze.",
-  "verdict": "De LG B5 is de beste tv onder 1000 euro: een echte OLED met 120 Hz en vier HDMI 2.1-poorten voor 849 euro. Wil je juist groot kijken, dan haal je met de TCL 65T8D een 65 inch mini-led met 144 Hz voor rond de 760 euro. De Philips 55OLED810 is de premiumkeuze voor wie een OLED met Ambilight wil. Kijk je vooral overdag in een lichte kamer, kies dan mini-led boven OLED.",
+  "verdict": "De LG B5 is de beste tv onder 1000 euro: een echte OLED met 120 Hz en vier HDMI 2.1-poorten voor 849 euro. Zoek je de meeste tv voor je geld, dan haal je met de TCL 55T8D een mini-led met 144 Hz voor rond de 550 euro. Wil je juist groot kijken, dan geeft de TCL 65Q6C een 65 inch mini-led met 144 Hz voor rond de 700 euro. De Philips 55OLED810 is de premiumkeuze voor wie een OLED met Ambilight wil. Kijk je vooral overdag in een lichte kamer, kies dan mini-led boven OLED.",
   "products": [
     {
       "brand": "LG",
@@ -72,47 +72,41 @@
     },
     {
       "brand": "TCL",
-      "name": "65T8D",
-      "price": 699.0,
+      "name": "55T8D",
+      "price": 549.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 5,0 van 5",
-      "oneliner": "65 inch Mini LED met 144 Hz voor ruim 750 euro.",
+      "oneliner": "55 inch Mini LED met 144 Hz voor rond de 550 euro.",
       "specs": {
-        "Formaat": "65 inch",
+        "Formaat": "55 inch",
         "Paneel": "QD-Mini LED",
         "Verversing": "144 Hz",
-        "HDR": "Dolby Vision, HDR10+",
+        "HDR": "Dolby Vision, HDR10",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "65 inch QD-Mini LED onder de 800 euro",
-        "Native 144 Hz met VRR en ALLM",
+        "QD-Mini LED voor rond de 550 euro",
+        "Native 144 Hz",
         "Google TV met alle bekende apps",
-        "Dolby Vision en HDR10+"
+        "Dolby Vision en Dolby Atmos"
       ],
       "cons": [
         "Minder dimzones dan duurdere Mini LED-modellen",
-        "Lichte gloed rond heldere objecten in het donker",
+        "Kleiner dan de 65 inch-modellen in deze lijst",
         "Nog weinig beoordelingen"
       ],
-      "ideal": "Gezinnen die een groot scherm willen voor sport, films en gamen zonder de 1000 euro aan te tikken.",
-      "text": "De TCL 65T8D brengt QD-Mini LED naar 65 inch voor minder dan 800 euro. TCL combineert een quantum-dotlaag voor heldere kleuren met Mini LED-verlichting die per zone dimt. Zwart oogt daardoor dieper dan bij een gewone QLED-tv uit dezelfde prijsklasse en HDR-beelden krijgen meer glans. Het aantal dimzones is lager dan bij de duurdere modellen in deze lijst. In een pikdonkere kamer zie je dus eerder een lichte gloed rond witte ondertitels.\n\nHet paneel draait native op 144 Hz, met VRR en ALLM voor console en pc. Dolby Vision en HDR10+ worden ondersteund. Google TV geeft je alle bekende apps, van NPO Start en Videoland tot Netflix en Disney+, zonder losse mediaspeler. Het model is van 2026 en heeft nog weinig beoordelingen op bol, maar die zijn allemaal positief. Wil je 65 inch Mini LED zonder de 1000 euro te halen, dan is dit nu een van de logischste keuzes.",
-      "ean": "5901292531065",
-      "bol_title": "TCL 65T8D - 65 inch - 4K QD-MiniLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65t8d-65-inch-4k-qd-miniled-2026-smart-tv/9300000273452867/",
-      "image": "https://media.s-bol.com/90P0oJA57yK8/z6Q6Y45/550x342.jpg",
+      "ideal": "Wie Mini LED en vloeiend beeld wil voor weinig geld en genoeg heeft aan 55 inch.",
+      "text": "De TCL 55T8D brengt QD-Mini LED en 144 Hz naar 55 inch voor rond de 550 euro. TCL combineert een quantum-dotlaag voor heldere kleuren met Mini LED-verlichting die per zone dimt. Zwart oogt daardoor dieper dan bij een gewone QLED-tv uit dezelfde prijsklasse en HDR-beelden krijgen meer glans. Het aantal dimzones is lager dan bij duurdere Mini LED-modellen. In een pikdonkere kamer zie je dus eerder een lichte gloed rond witte ondertitels.\n\nHet paneel draait native op 144 Hz, wat beweging bij sport en games vloeiend houdt. Dolby Vision en Dolby Atmos worden ondersteund. Google TV geeft je alle bekende apps, van NPO Start en Videoland tot Netflix en Disney+. Het model is van 2026 en scoort op bol gemiddeld 5 van 5, al zijn het nog weinig beoordelingen. Ten opzichte van de OLED-modellen in deze lijst houd je honderden euro's over voor een soundbar. Zoek je 65 inch, kijk dan naar de TCL 65Q6C op nr. 5.",
+      "ean": "5901292531072",
+      "bol_title": "TCL 55T8D - 55 inch - 4K QD-MiniLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-55t8d-55-inch-4k-qd-miniled-2026-smart-tv/9300000273452838/",
+      "image": "https://media.s-bol.com/Y3N3w6GZgkN9/MZNZNOm/550x343.jpg",
       "ph": {
-        "2026-11-04": 759.0,
-        "2026-11-05": 699.0,
-        "2026-11-06": 699.0,
-        "2026-11-07": 699.0,
-        "2026-11-08": 699.0
+        "2026-11-08": 549.0
       },
-      "low_price": 699.0,
-      "synced": "2026-11-08",
-      "prev_price": 759.0,
-      "prev_date": "2026-11-04"
+      "low_price": 549.0,
+      "synced": "2026-11-08"
     },
     {
       "brand": "Philips",
@@ -230,7 +224,7 @@
         "Beeldinstellingen vragen wat afstellen"
       ],
       "ideal": "Gamers en sportkijkers die een groot mini-led-scherm met Google TV willen.",
-      "text": "De TCL 65Q6C combineert mini-led-verlichting met een quantum dot-laag. Dat levert een 65 inch scherm op dat fel is in HDR en kleuren verzadigd laat zien zonder dat ze nep ogen. Het paneel haalt 144 Hz met VRR, zodat games vloeiend lopen op een PS5, Xbox of gaming-pc. De twee HDMI 2.1-poorten zijn genoeg voor de meeste woonkamers.\n\nGoogle TV maakt hem makkelijk in gebruik: alle bekende apps staan erop en je kunt vanaf je telefoon casten. Het geluid is afgestemd door Onkyo en ondersteunt Dolby Atmos, al blijft een soundbar een verbetering. Bol-kopers geven 4,9 sterren en noemen de prijs voor zo'n groot mini-led-scherm het sterkste punt. Zit je schuin voor de tv, dan verliest het beeld wel contrast, dus zet hem recht tegenover de bank. Voor ongeveer 800 euro is dit een sterk alternatief voor de TCL 65T8D.",
+      "text": "De TCL 65Q6C combineert mini-led-verlichting met een quantum dot-laag. Dat levert een 65 inch scherm op dat fel is in HDR en kleuren verzadigd laat zien zonder dat ze nep ogen. Het paneel haalt 144 Hz met VRR, zodat games vloeiend lopen op een PS5, Xbox of gaming-pc. De twee HDMI 2.1-poorten zijn genoeg voor de meeste woonkamers.\n\nGoogle TV maakt hem makkelijk in gebruik: alle bekende apps staan erop en je kunt vanaf je telefoon casten. Het geluid is afgestemd door Onkyo en ondersteunt Dolby Atmos, al blijft een soundbar een verbetering. Bol-kopers geven 4,9 sterren en noemen de prijs voor zo'n groot mini-led-scherm het sterkste punt. Zit je schuin voor de tv, dan verliest het beeld wel contrast, dus zet hem recht tegenover de bank. Voor rond de 700 euro is dit de logische keuze als je mini-led op 65 inch wilt.",
       "ean": "5901292526665",
       "bol_title": "TCL 65Q6C - 65 inch - 4K QD-MiniLED - 2025 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/tcl-65q6c-65-inch-4k-qd-miniled-2025/9300000227512981/",
@@ -330,7 +324,7 @@
         "VIDAA mist enkele apps"
       ],
       "ideal": "Wie zo groot mogelijk wil kijken en ruim geld overhoudt voor een soundbar.",
-      "text": "De Hisense 65E7S PRO is de manier om een groot scherm te kopen en toch ver onder 1000 euro te blijven. Het is een QLED met direct led-verlichting, dus zonder de mini-led-zones van de TCL 65T8D. Dat merk je in donkere films: zwart neigt naar donkergrijs. Bij daglicht, sport en tv-programma's valt dat veel minder op. De kleuren zijn levendig dankzij de quantum dot-laag.\n\nVoor gamers is dit een opvallend aanbod. Het paneel draait native op 144 Hz, met VRR en een lage vertraging in de gamemodus. Ook Dolby Vision en Dolby Atmos zijn aanwezig, net als een kleine subwoofer achterop. Bol-kopers geven 4,8 sterren en noemen de prijs per inch onverslaanbaar. Wil je het extra contrast van mini-led, leg dan ongeveer 140 euro bij voor de TCL 65T8D. Kijk je vooral overdag, dan houd je met deze tv geld over voor een soundbar.",
+      "text": "De Hisense 65E7S PRO is de manier om een groot scherm te kopen en toch ver onder 1000 euro te blijven. Het is een QLED met direct led-verlichting, dus zonder de mini-led-zones van de TCL 65Q6C. Dat merk je in donkere films: zwart neigt naar donkergrijs. Bij daglicht, sport en tv-programma's valt dat veel minder op. De kleuren zijn levendig dankzij de quantum dot-laag.\n\nVoor gamers is dit een opvallend aanbod. Het paneel draait native op 144 Hz, met VRR en een lage vertraging in de gamemodus. Ook Dolby Vision en Dolby Atmos zijn aanwezig, net als een kleine subwoofer achterop. Bol-kopers geven 4,8 sterren en noemen de prijs per inch onverslaanbaar. Wil je het extra contrast van mini-led, leg dan ongeveer 30 euro bij voor de TCL 65Q6C. Kijk je vooral overdag, dan houd je met deze tv geld over voor een soundbar.",
       "ean": "6942351432595",
       "bol_title": "Hisense 65E7S PRO SmartTV - 65 inch - 4K Hi-QLED - 2026 - Native 144Hz Game Mode - Hi-QLED Colour - Built-in Subwoofer - AI Picture - AI Smooth Motion - AMD FreeSync Premium - Dolby Vision Atmos",
       "url": "https://www.bol.com/nl/nl/p/hisense-65e7s-pro-smarttv-65-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000269685075/",
@@ -538,7 +532,7 @@
     },
     {
       "q": "Wat is de beste 65 inch tv onder 1000 euro?",
-      "a": "De TCL 65T8D is de beste 65 inch tv onder 1000 euro. Hij heeft mini-led, native 144 Hz, Dolby Vision en Google TV voor rond de 760 euro. De TCL 65Q6C is een sterk alternatief met meer helderheid."
+      "a": "De TCL 65Q6C is de beste 65 inch tv onder 1000 euro. Hij heeft mini-led, 144 Hz met VRR en Google TV voor rond de 700 euro. De Hisense 65E7S PRO is een goedkoper alternatief met 144 Hz, maar zonder mini-led."
     },
     {
       "q": "Kan ik een OLED-tv kopen onder 1000 euro?",
@@ -550,7 +544,7 @@
     },
     {
       "q": "Welke tv onder 1000 euro is het beste voor de PS5?",
-      "a": "De LG B5 en LG C5 zijn met vier HDMI 2.1-poorten en 120 of 144 Hz de beste keuzes voor de PS5. Wil je groter, kies dan de TCL 65T8D of TCL 65Q6C met 144 Hz."
+      "a": "De LG B5 en LG C5 zijn met vier HDMI 2.1-poorten en 120 of 144 Hz de beste keuzes voor de PS5. Wil je groter, kies dan de TCL 65Q6C of Hisense 65E7S PRO met 144 Hz."
     },
     {
       "q": "Heb ik een soundbar nodig?",
@@ -580,11 +574,11 @@
       },
       {
         "h": "Zit je 3 meter of verder van de tv?",
-        "p": "Dan oogt 65 inch prettiger dan 55 inch. Met dit budget betekent 65 inch bijna altijd mini-led in plaats van OLED. Nr. 2, de TCL 65T8D (€ 699), is de beste balans. Wil je zo laag mogelijk uitkomen, dan geeft nr. 8, de TCL 65C6KS (€ 549), ook mini-led op 65 inch met 144 Hz."
+        "p": "Dan oogt 65 inch prettiger dan 55 inch. Met dit budget betekent 65 inch bijna altijd mini-led in plaats van OLED. Nr. 5, de TCL 65Q6C (€ 699), is de beste balans met mini-led en 144 Hz. Wil je zo laag mogelijk uitkomen, dan geeft nr. 8, de TCL 65C6KS (€ 549), ook mini-led op 65 inch, al blijft die op 60 Hz."
       },
       {
         "h": "Speel je op een PS5, Xbox of gaming-pc?",
-        "p": "Let dan op HDMI 2.1 en minimaal 120 Hz. Nr. 1, de LG B5, heeft vier HDMI 2.1-poorten met 120 Hz, VRR en ALLM. Nr. 2 en nr. 5, de TCL 65T8D en 65Q6C, halen 144 Hz. De Philips op nr. 3 werkt ook op 120 Hz, al heeft hij minder HDMI 2.1-poorten dan de LG."
+        "p": "Let dan op HDMI 2.1 en minimaal 120 Hz. Nr. 1, de LG B5, heeft vier HDMI 2.1-poorten met 120 Hz, VRR en ALLM. Nr. 2 en nr. 5, de TCL 55T8D en 65Q6C, halen 144 Hz. De Philips op nr. 3 werkt ook op 120 Hz, al heeft hij minder HDMI 2.1-poorten dan de LG."
       },
       {
         "h": "Staat de tv in een kleine kamer of op een bureau?",
@@ -594,7 +588,7 @@
     "wanneer": [
       {
         "rank": 2,
-        "p": "De TCL 65T8D (€ 699) is € 100 goedkoper dan de LG B5 en past beter als je groot wilt kijken in een lichte kamer. Je krijgt 65 in plaats van 55 inch, een fel QD-Mini LED-paneel, native 144 Hz met VRR en ALLM en Google TV. Daar staat tegenover dat zwart niet perfect is en je in het donker een lichte gloed rond heldere objecten ziet."
+        "p": "De TCL 55T8D (€ 549) is € 250 goedkoper dan de LG B5 en past beter als je in een lichte kamer kijkt. Je krijgt een fel QD-Mini LED-paneel, native 144 Hz en Google TV. Daar staat tegenover dat zwart niet perfect is en je in het donker een lichte gloed rond heldere objecten ziet."
       },
       {
         "rank": 3,
