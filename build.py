@@ -226,6 +226,13 @@ def hist_of(p):
     avg = sum(vals) / len(vals)
     return {"days": days, "vals": vals, "low": min(vals), "high": max(vals), "avg": avg, "n": len(vals), "first": days[0], "rel": p["price"] / avg - 1,
             "low_day": days[max(i for i, v in enumerate(vals) if v == min(vals))]}
+def gmod(g):  # echte wijzigingsdatum: gidsdatum of de laatste dag dat een podiumprijs (top 3) 3%+ veranderde (zichtbaar op de pagina)
+    d = g.get("updated", TODAY.isoformat())
+    for p in sorted(g["products"], key=lambda p: p.get("rank", 99))[:3]:
+        ph = p.get("ph") or {}; days = sorted(ph)
+        for a, b in zip(days, days[1:]):
+            if ph[a] and abs(ph[b] - ph[a]) / ph[a] >= 0.03: d = max(d, b)
+    return min(d, TODAY.isoformat())
 def spark(h, w=132, ht=34):
     lo, hi = h["low"], h["high"]; rng = (hi - lo) or 1
     d0 = datetime.date.fromisoformat(h["first"]); span = max(1, (datetime.date.fromisoformat(h["days"][-1]) - d0).days)
@@ -741,7 +748,7 @@ for g in guides:
         return d
     ld = [{"@context": "https://schema.org", "@type": "ItemList", "name": g["title"], "url": url_abs, "numberOfItems": len(ps),
            "itemListElement": [{"@type": "ListItem", "position": p["rank"], "url": url_abs + "#p%d" % p["rank"], "item": prod_ld(p)} for p in ps]},
-          {"@context": "https://schema.org", "@type": "Article", "headline": g["title"], "description": g["intro"][:200], "dateModified": g.get("updated", TODAY.isoformat()),
+          {"@context": "https://schema.org", "@type": "Article", "headline": g["title"], "description": g["intro"][:200], "dateModified": gmod(g),
            "datePublished": g.get("published", g.get("updated", TODAY.isoformat())), "author": {"@type": "Person", "name": "Nick van Straaten", "url": SITE + "/over-ons.html#nick", "jobTitle": "Oprichter en eindredacteur"},
            "publisher": {"@type": "Organization", "name": "watkoopik", "logo": {"@type": "ImageObject", "url": SITE + "/favicon.svg"}}, "mainEntityOfPage": url_abs,
            "image": [SITE + "/og/%s.jpg" % g["slug"]] + [p["image"] for p in ps if p.get("image")][:2]},
@@ -771,7 +778,7 @@ for g in guides:
 <section style="padding:40px 0"><div class="sec-head"><h2>Meer gidsen in %s</h2><a class="more" href="../categorie/%s.html">Alle %d →</a></div><div class="gl">%s</div></section>
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
-        g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
+        g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(gmod(g))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
         own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", '<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "", '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
@@ -1147,13 +1154,13 @@ page("404.html", "Niet gevonden | watkoopik", "Pagina niet gevonden.", '<section
 prose("bedankt.html", "Bedankt", "Bedankt voor je bericht.", '<h1 style="font-size:2rem">Bedankt!</h1><p>We hebben je bericht ontvangen en reageren binnen twee werkdagen. <a href="./">Terug naar home</a>.</p>')
 wr("stats.html", '<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><meta http-equiv="refresh" content="0;url=https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl"><title>Statistieken</title></head><body><a href="https://cloud.umami.is/share/sSKhb6j4KMk4E28R/watkoopik.nl">Naar het dashboard</a></body></html>')
 # lastmod volgt echte wijzigingen (nieuwste gids), niet de bouwdatum, zodat Google het signaal blijft vertrouwen
-LAST = max(g.get("updated", TODAY.isoformat()) for g in guides)
+LAST = max(gmod(g) for g in guides)
 urls = [("", LAST, "1.0"), ("gidsen.html", LAST, "0.8"), ("aanbiedingen/", TODAY.isoformat(), "0.8"), ("keuzehulp.html", LAST, "0.7"), ("slimste-koop.html", LAST, "0.7"),
         ("zo-kiezen-wij.html", "2026-10-13", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
-urls += [("categorie/%s.html" % k if k != "cadeaus" else "cadeaus/", max(g.get("updated", TODAY.isoformat()) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
+urls += [("categorie/%s.html" % k if k != "cadeaus" else "cadeaus/", max(gmod(g) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
 urls += [("black-friday/", TODAY.isoformat(), "0.8")] + ([("black-friday/echte-kortingen-2026.html", TODAY.isoformat(), "0.8")] if BF_N else []) + [("vs/%s.html" % v["slug"], v["updated"], "0.6") for v in VS_PAGES]
-urls += [(c["hub"], max(g.get("updated", TODAY.isoformat()) for g in c["members"]), "0.8") for c in HUBS]
-urls += [(g["url"], g.get("updated", TODAY.isoformat()), "0.9") for g in guides]
+urls += [(c["hub"], max(gmod(g) for g in c["members"]), "0.8") for c in HUBS]
+urls += [(g["url"], gmod(g), "0.9") for g in guides]
 def _pp_mod(x):  # lastmod = laatste dag dat de gemeten prijs veranderde (of de gids bijgewerkt werd)
     h = hist_of(x["p"]); d = h["first"]
     for i in range(1, len(h["vals"])):
@@ -1182,7 +1189,7 @@ if not PREVIEW:
             t = win(g); bv = next((p for p in g["products"] if p.get("label") == "Beste prijs-kwaliteit"), None)
             s = "- [%s](%s/%s): nr. 1 %s %s (%s)" % (g["title"], SITE, g["url"], t["brand"], t["name"], eur(t["price"]))
             if bv and bv is not t: s += "; slimste koop %s %s (%s)" % (bv["brand"], bv["name"], eur(bv["price"]))
-            L.append(s + "; bijgewerkt %s" % g.get("updated", TODAY.isoformat()))
+            L.append(s + "; bijgewerkt %s" % gmod(g))
         L.append("")
     txt = "\n".join(L); check(txt, "llms.txt"); wr("llms.txt", txt)
 if OG_META.pop("_dirty", None):
