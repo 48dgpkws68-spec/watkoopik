@@ -279,6 +279,34 @@ def hist_faq(g):
     else: a = "Hij kost nu %s bij bol. Sinds %s maten wij op %d dagen een laagste prijs van %s (op %s) en een hoogste van %s. De huidige prijs ligt %s van %s." % (eur(p["price"]), nldate(h["first"]), h["n"], eur(h["low"]), nldate(h["low_day"]), eur(h["high"]), rel_txt(h["rel"]), eur(round(h["avg"], 2)))
     return {"q": q, "a": a}
 
+# ---------- populair bij bol (groeimotor S5, 9 nov 2026) ----------
+# Plek van onze keuzes in bol's eigen sortering 'populariteit' op de bol-zoekterm van de gids (tools/bol_populair.py,
+# _src/bolpopulair.json). Alleen echte plekken uit de top 100; geen data = geen blok.
+try: BOLPOP = json.load(open(os.path.join(ROOT, "_src", "bolpopulair.json"), encoding="utf-8"))
+except Exception: BOLPOP = {}
+def pop_of(g):
+    x = BOLPOP.get(g["slug"]) or {}
+    if x.get("query") != g["query"]: return None, []
+    pl = x.get("plek", {})
+    return x, sorted([p for p in g["products"] if str(p.get("ean")) in pl], key=lambda p: pl[str(p["ean"])])
+def pop_html(g):
+    x, ps = pop_of(g)
+    if not ps: return ""
+    pl = x["plek"]
+    rows = "".join('<li><span class="pop-n">%d</span><div><b>%s %s</b><small>Nr. %d in onze top 10 · %s</small></div>%s</li>' % (
+        pl[str(p["ean"])], e(p["brand"]), e(p["name"]), p["rank"], eur(p["price"]), shop_a(p, g, "btn btn-buy btn-sm", "populair")) for p in ps[:3])
+    return '<div class="pop rv" id="populair"><h2>Populair bij bol</h2><p>Zoek je op bol naar &ldquo;%s&rdquo; en sorteer je op populariteit, dan staan %s van onze top 10 bij de eerste 100. Dit zijn de hoogste, met hun plek in die lijst (gemeten op %s).</p><ol>%s</ol><p class="pop-note">Populariteit is de eigen sortering van bol. Dat zegt iets over wat veel mensen kiezen, niet automatisch over wat het beste is: daarvoor is onze ranglijst.</p></div>' % (
+        e(x["query"]), "alle %d" % len(ps) if len(ps) == len(g["products"]) else len(ps), e(nldate(x["datum"])), rows)
+def pop_faq(g):
+    x, ps = pop_of(g)
+    if not ps: return None
+    p = ps[0]; pl = x["plek"]
+    q = "Welke %s is het populairst bij bol?" % g["query"]
+    a = "Van onze top 10 staat de %s %s het hoogst als je op bol zoekt naar \"%s\" en sorteert op populariteit: plek %d (gemeten op %s)." % (p["brand"], p["name"], x["query"], pl[str(p["ean"])], nldate(x["datum"]))
+    if len(ps) > 1: a += " Daarna volgt de %s %s op plek %d." % (ps[1]["brand"], ps[1]["name"], pl[str(ps[1]["ean"])])
+    a += " In onze eigen ranglijst is de %s %s nr. %d." % (p["brand"], p["name"], p["rank"]) if p["rank"] != 1 else " Dat is ook onze nr. 1."
+    return {"q": q, "a": a}
+
 # ---------- prijsverloop-pagina per model (sinds 8 nov 2026, groeimotor N13) ----------
 # Pilot: alleen de EAN's in _src/prijspaginas.json (top 3 van de best bezochte gidsen). Pagina = eigen dagmetingen bij bol
 # (grafiek + tabel), plek in onze top 10's, kenmerken. Geen meting = geen pagina; niets geschat.
@@ -683,6 +711,8 @@ for g in guides:
     hubc = next((c for c in CL_OF.get(g["slug"], []) if c["hub"]), None)  # familie-overzicht in kruimelpad en schema
     hf = hist_faq(g)  # FAQ uit eigen prijsmetingen (alleen in de pagina, niet in de bron-json)
     if hf and not any(q["q"] == hf["q"] for q in g["faq"]): g["faq"] = g["faq"] + [hf]
+    pf = pop_faq(g); pop = pop_html(g)
+    if pf and not any(q["q"] == pf["q"] for q in g["faq"]): g["faq"] = g["faq"] + [pf]
     faq = "".join("<details><summary>%s</summary><p>%s</p></details>" % (e(q["q"]), e(q["a"])) for q in g["faq"])
     toc = "".join('<li><a href="#p%d">%s %s</a></li>' % (p["rank"], e(p["brand"]), e(p["name"])) for p in ps)
     # varianten van hetzelfde product eerst (beste-airfryer <-> beste-airfryer-1-persoon), daarna dezelfde categorie
@@ -729,20 +759,20 @@ for g in guides:
 %s<div class="podium">%s</div>
 %s<p class="disc" id="disclaimer">Wij ontvangen mogelijk een vergoeding als je via onze links iets koopt. Dit kost jou niets extra en bepaalt niet welke producten in de lijst staan. <a href="../zo-kiezen-wij.html">Zo kiezen wij</a>.</p>
 <div class="layout"><div>
-<h2 id="vergelijk" class="rv" style="margin-top:22px">Alle %d naast elkaar</h2>%s
+<h2 id="vergelijk" class="rv" style="margin-top:22px">Alle %d naast elkaar</h2>%s%s
 <h2 id="top10" class="rv">De top 10 in detail</h2>%s
 %s%s<div class="verdict rv"><span class="kick" style="color:#ffb48a">Eindoordeel</span><h2>Onze conclusie</h2><p>%s</p>%s</div>
 <div class="guide rv" id="koopgids"><h2>Koopgids: zo kies je de juiste %s</h2>%s</div>
 <div class="faq rv" id="faq"><h2>Veelgestelde vragen</h2>%s</div>
 <div class="pref-wrap">%s</div>
 </div>
-<aside class="side"><details class="toc"><summary>In deze gids</summary><ol><li><a href="#vergelijk">Vergelijkingstabel</a></li>%s%s%s<li><a href="#koopgids">Koopgids</a></li><li><a href="#faq">Veelgestelde vragen</a></li></ol></details></aside>
+<aside class="side"><details class="toc"><summary>In deze gids</summary><ol><li><a href="#vergelijk">Vergelijkingstabel</a></li>%s%s%s%s<li><a href="#koopgids">Koopgids</a></li><li><a href="#faq">Veelgestelde vragen</a></li></ol></details></aside>
 </div>
 <section style="padding:40px 0"><div class="sec-head"><h2>Meer gidsen in %s</h2><a class="more" href="../categorie/%s.html">Alle %d →</a></div><div class="gl">%s</div></section>
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(g.get("updated", TODAY.isoformat()))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
-        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, cards, hist_section(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, '<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "", '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", '<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "", '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = g.get("seo") or g["query"]  # zoekterm voor titel en meta; query blijft de bol-zoekterm
