@@ -667,6 +667,10 @@
       "a": "Op basis van onze vergelijking is de Samsung Galaxy S26 Ultra de beste smartphone van 2026. Hij combineert een 200 MP-camera met twee telelenzen, een groot QHD+-scherm en zeven jaar updates. Zoek je een iPhone, dan is de iPhone 17 Pro de beste keuze."
     },
     {
+      "q": "Wat is een goede telefoon die niet te duur is?",
+      "a": "Een goede telefoon heeft een helder OLED-scherm, een accu die de dag uitkomt en minstens vijf jaar updates. De Google Pixel 10a (rond 459 euro) is in onze top 10 de beste koop: sterke camera, zeven jaar updates en een vlotte chip. Wil je onder 300 euro blijven, kijk dan bij de Nothing Phone (3a)."
+    },
+    {
       "q": "Wat is de beste smartphone onder de 500 euro?",
       "a": "De Google Pixel 10a is voor 429 euro de beste smartphone onder de 500 euro. Hij heeft een uitstekende camera, een grote accu en zeven jaar updates. Wil je meer opslag en een groter scherm, dan is de Samsung Galaxy A57 5G een goed alternatief."
     },
@@ -687,5 +691,12 @@
       "a": "Alle smartphones in deze lijst ondersteunen 5G. In Nederland is 5G inmiddels breed beschikbaar. Je merkt het vooral bij het downloaden van grote bestanden en op drukke plekken. Een abonnement met 5G is bij de meeste providers zonder meerprijs."
     }
   ],
-  "published": "2026-10-16"
+  "published": "2026-10-16",
+  "meta_title": "Beste smartphone 2026: welke telefoon is de beste koop?",
+  "meta_desc": "De beste smartphone van 2026 is de {top}. Top 10 telefoons vergeleken op camera, accu, updates en prijs, met de beste koop rond 450 euro.",
+  "rel": [
+    "beste-smartphone-onder-300-euro",
+    "beste-iphone",
+    "beste-samsung-smartphone"
+  ]
 }

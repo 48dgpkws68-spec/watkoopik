@@ -573,59 +573,41 @@
       "low_price": 1192.0
     },
     {
-      "brand": "Dreame",
-      "name": "A1 Pro",
-      "price": 731.0,
-      "score": 8.3,
-      "label": null,
-      "reviews": "5,0/5 op bol",
-      "oneliner": "Lidar-maaier zonder draad die je gazon vanzelf in kaart brengt.",
+      "brand": "Anthbot",
+      "name": "Genie 800",
+      "price": 779.0,
+      "score": 8.2,
+      "reviews": "bol-score 4,0 van 5",
+      "oneliner": "Draadloze robotmaaier met RTK en camera-navigatie voor tuinen tot 800 m².",
       "specs": {
-        "Max. oppervlak": "2.000 m²",
-        "Begrenzing": "Geen draad (lidar)",
-        "Helling": "45%",
-        "Geluid": "ca. 60 dB",
-        "App": "Ja, wifi"
+        "Max. oppervlak": "800 m²",
+        "Begrenzing": "Draadloos (RTK + camera's)",
+        "Helling": "Zie productpagina",
+        "Geluid": "Zie productpagina",
+        "App": "Zie productpagina"
       },
       "pros": [
-        "Geen draad en geen RTK-antenne nodig",
-        "Brengt de tuin zelf in kaart",
-        "Groot bereik voor de prijs",
-        "Maait in efficiënte U-vormige banen"
+        "Draadloos, geen begrenzingsdraad nodig",
+        "RTK en AI-navigatie met camera's",
+        "Geschikt voor tuinen tot 800 m²"
       ],
       "cons": [
-        "Randen blijven iets ruiger dan bij draadmaaiers",
-        "Jong merk in robotmaaiers"
+        "Minder bekend merk",
+        "Helling, geluid en app staan niet in de bol-titel"
       ],
-      "ideal": "Wie een grote tuin heeft en geen gedoe met draad of antenne wil.",
-      "text": "De Dreame A1 Pro werkt met lidar, dezelfde lasertechniek die je kent van robotstofzuigers. Een draaiende sensor op het dak scant de omgeving en bouwt een driedimensionale kaart van je tuin. Je hoeft dus geen draad in te graven en ook geen RTK-antenne te plaatsen. Dat maakt de installatie heel eenvoudig.\n\nNa het scannen maait hij in U-vormige banen, zodat hij geen stukken overslaat en sneller klaar is. Obstakels ziet hij aankomen en hij rijdt er netjes omheen. Met een bereik tot 2.000 vierkante meter is hij geschikt voor flinke gazons. Lidar werkt ook goed onder bomen, waar satellietmaaiers het soms laten afweten. De randen van het gazon worden iets minder strak gemaaid dan bij modellen met draad. Een keer per paar weken bijknippen blijft nodig. Kopers op bol geven hem de volle vijf sterren. Voor rond de 720 euro krijg je veel techniek voor een groot gazon.",
-      "ean": "6977328063366",
-      "bol_title": "Dreame Roboticmower A1 Pro - Robotgrasmaaier - Draadloze grenzen - U-vormige route - Efficiënte en Nauwkeurige Mapping",
-      "url": "https://www.bol.com/nl/nl/p/dreame-roboticmower-a1-pro-robotgrasmaaier-draadloze-grenzen-u-vormige-route-efficiente-en-nauwkeurige-mapping/9300000225519126/",
-      "image": "https://media.s-bol.com/xAr1oorKV7Qn/1wvDMmo/550x348.jpg",
-      "synced": "2026-11-09",
+      "ideal": "Wie een draadloze robotmaaier wil voor een middelgrote tuin en geen draad wil leggen.",
+      "ean": "8885022190180",
+      "text": "De Anthbot Genie 800 is een robotmaaier zonder begrenzingsdraad. Hij navigeert met RTK en AI Vision, ondersteund door een camerasysteem rondom het apparaat. Daardoor hoef je geen draad in de grond te leggen en stel je de maaizones in plaats daarvan digitaal in. De fabrikant richt zich met dit model op tuinen tot 800 vierkante meter.\n\nAnthbot is een minder bekend merk dan Gardena of Husqvarna. Op bol geven kopers hem gemiddeld 4,0 van 5 sterren, dus lees de reviews goed door en controleer de garantie en de service voordat je koopt. Gegevens als het maximale hellingspercentage en het geluidsniveau staan niet in de productnaam. Kijk die op de productpagina na als je tuin glooit of dicht bij een slaapkamer ligt. Met een prijs van rond de 779 euro past hij bij de andere draadloze maaiers in deze lijst. Het is een logische keuze voor wie geen draad wil leggen.",
+      "label": null,
+      "search": "Anthbot Genie 800",
+      "bol_title": "Anthbot Genie 800 - Robotmaaier - RTK + AI Vision Navigatie + 300° quad-camera systeem - Robotmaaier zonder begrenzingskabel - 1500 m² - 45% Helling - AI Obstakelvermijding - Super Stil 58 dB - Virtuele zones - Intelligente kaartopbouw -App Bediening",
+      "url": "https://www.bol.com/nl/nl/p/anthbot-genie-800-slimme-robotmaaier-automatische-grasmaaier-tuinmaaier-maaier/9300000256506539/",
+      "image": "https://media.s-bol.com/xXzQWyA6Ao5l/1W9Rz5o/550x433.jpg",
       "ph": {
-        "2026-10-24": 719.0,
-        "2026-10-25": 719.0,
-        "2026-10-26": 719.0,
-        "2026-10-27": 719.0,
-        "2026-10-28": 719.0,
-        "2026-10-29": 719.0,
-        "2026-10-30": 719.0,
-        "2026-10-31": 719.0,
-        "2026-11-01": 719.0,
-        "2026-11-02": 719.0,
-        "2026-11-03": 779.0,
-        "2026-11-04": 769.92,
-        "2026-11-05": 731.0,
-        "2026-11-06": 731.0,
-        "2026-11-07": 731.0,
-        "2026-11-08": 731.0,
-        "2026-11-09": 731.0
+        "2026-11-09": 779.0
       },
-      "low_price": 719.0,
-      "prev_price": 769.92,
-      "prev_date": "2026-11-04"
+      "low_price": 779.0,
+      "synced": "2026-11-09"
     }
   ],
   "guide": [

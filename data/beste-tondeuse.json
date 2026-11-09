@@ -262,56 +262,40 @@
     },
     {
       "brand": "Braun",
-      "name": "Series 5 HC5550",
-      "price": 59.99,
-      "score": 8.4,
+      "name": "Series 5 HC5530",
+      "price": 39.99,
+      "score": 8.3,
       "label": null,
       "reviews": "4,7 sterren op bol",
-      "oneliner": "Levenslang scherpe messen, 17 lengtes tot 35 mm en Memory Lock.",
+      "oneliner": "Levenslang scherp scheerblad en 17 lengtes voor weinig geld.",
       "specs": {
-        "Mes": "RVS, levenslang scherp",
+        "Mes": "Levenslang scherp scheerblad",
         "Lengtes": "3 tot 35 mm, 17 standen",
         "Accuduur": "50 min",
         "Wasbaar": "Ja, afspoelbaar onder de kraan",
         "Snoer": "Alleen draadloos"
       },
       "pros": [
-        "Twee kammen tot 35 mm, ook voor langer haar bovenop",
-        "Memory Lock onthoudt je laatste lengte",
-        "Rubberen grip ligt stevig in de hand",
-        "Etui en reinigingsborstel in de doos"
+        "Zeventien lengtes met opzetkammen",
+        "Scheerblad blijft volgens Braun levenslang scherp",
+        "Inclusief extra tools",
+        "Voordelig voor een merktondeuse"
       ],
       "cons": [
         "Accu van 50 minuten en niet te gebruiken tijdens het laden",
         "Geen sensor die het vermogen aanpast"
       ],
-      "ideal": "Wie thuis korte tot halflange kapsels bijhoudt en een simpele, wasbare tondeuse van Braun wil.",
-      "text": "De Braun Series 5 HC5550 is een eenvoudige thuistondeuse voor wie zijn kapsel tussen twee kappersbezoeken bijhoudt. De messen blijven volgens Braun levenslang scherp en je hoeft ze niet te oliën. Met twee opzetkammen kies je uit zeventien lengtes van 3 tot 35 millimeter, zodat je ook de langere bovenkant kunt bijwerken.\n\nHandig is Memory Lock, dat de laatst gebruikte lengte onthoudt en vastzet. Zo begin je de volgende keer meteen op de juiste stand. Het handvat heeft een rubberen grip en de tondeuse spoel je na gebruik af onder de kraan. De Ni-MH-accu gaat ongeveer 50 minuten mee en laadt in een uur, maar met snoer knippen kan niet. Een sensor die het vermogen aanpast op dik haar, zoals bij de Philips 9000, ontbreekt. Op bol scoort hij gemiddeld 4,7 sterren. In de doos zitten een etui en een reinigingsborstel. Voor een nette basistondeuse is dit een degelijke keuze.",
-      "ean": "4987176251053",
-      "bol_title": "Braun Haartrimmer Tondeuse Series 5 HC5550 + 4 Tools - Levenslang Scherp Scheerblad - 17 Lengtes - Blauw",
-      "url": "https://www.bol.com/nl/nl/p/braun-haartrimmer-tondeuse-series-5-hc5550-4-tools-levenslang-scherp-scheerblad-17-lengtes-blauw/9300000224151602/",
-      "image": "https://media.s-bol.com/JMzywQWVGKyK/2kNE3Jj/550x589.jpg",
+      "ideal": "Wie thuis korte tot halflange kapsels bijhoudt en een simpele tondeuse van Braun voor weinig geld wil.",
+      "text": "De Braun Series 5 HC5530 is een eenvoudige thuistondeuse voor wie zijn kapsel tussen twee kappersbezoeken bijhoudt. Het scheerblad blijft volgens Braun levenslang scherp, dus je hoeft de messen niet te vervangen. Met de opzetkammen kies je uit zeventien lengtes, zodat je zowel de zijkanten kort als de bovenkant wat langer kunt houden.\n\nOp bol komt hij met drie extra tools en kost hij rond de veertig euro, een stuk minder dan de Philips Series 7000 uit deze lijst. Kopers geven hem gemiddeld 4,7 sterren. Draadloos knippen kan ongeveer vijftig minuten per acculading, maar met snoer werken kan niet. Een sensor die het vermogen aanpast op dik haar, zoals bij de Philips 9000, ontbreekt. Voor een nette basistondeuse met een bekend merk is dit een degelijke en voordelige keuze.",
+      "ean": "4987176251046",
+      "bol_title": "Braun Haartrimmer Tondeuse Series 5 HC5530 + 3 Tools - Levenslang Scherp Scheerblad - 17 Lengtes - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/braun-haartrimmer-tondeuse-series-5-hc5530-3-tools-levenslang-scherp-scheerblad-17-lengtes-zwart/9300000224151587/",
+      "image": "https://media.s-bol.com/xA8nxA677vK9/jRKPxnR/550x609.jpg",
       "ph": {
-        "2026-10-26": 59.99,
-        "2026-10-27": 59.99,
-        "2026-10-28": 59.99,
-        "2026-10-29": 59.99,
-        "2026-10-30": 59.99,
-        "2026-10-31": 61.0,
-        "2026-11-01": 61.0,
-        "2026-11-02": 61.0,
-        "2026-11-03": 61.0,
-        "2026-11-04": 61.0,
-        "2026-11-05": 61.0,
-        "2026-11-06": 59.99,
-        "2026-11-07": 59.99,
-        "2026-11-08": 59.99,
-        "2026-11-09": 59.99
+        "2026-11-09": 39.99
       },
-      "low_price": 59.99,
-      "synced": "2026-11-09",
-      "prev_price": 61.0,
-      "prev_date": "2026-11-05"
+      "low_price": 39.99,
+      "synced": "2026-11-09"
     },
     {
       "brand": "BaByliss",

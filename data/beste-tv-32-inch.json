@@ -334,39 +334,37 @@
     },
     {
       "brand": "Philips",
-      "name": "32PFS6900/12",
-      "price": 269.0,
+      "name": "32PFS6050/12",
+      "price": 187.0,
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Full HD Philips uit 2026 met Titan OS voor een scherpe prijs.",
+      "pros": [
+        "Full HD voor minder dan 200 euro",
+        "Drie HDMI-poorten en twee USB-poorten",
+        "Titan OS met de bekende streamingapps",
+        "Licht en makkelijk op te hangen"
+      ],
+      "cons": [
+        "Geluid is met 12 watt eenvoudig",
+        "Geen quantum dots en geen local dimming"
+      ],
+      "ideal": "Wie een betaalbare Full HD-tv van een bekend merk zoekt voor een tweede kamer.",
+      "text": "De Philips 32PFS6050/12 is een Full HD-tv van 32 inch uit de nieuwe 2026-lichting en kost ongeveer 187 euro. Dat maakt hem een van de goedkoopste Philips-modellen in dit formaat. Het paneel heeft 1920 x 1080 pixels en is scherp op een korte kijkafstand, zoals in een slaapkamer, keuken of studentenkamer. De verversing is 60 Hz, wat voor tv-kijken en series ruim volstaat.\n\nHet smart-tv-systeem is Titan OS, met onder meer Netflix en YouTube. Voor HDR ondersteunt hij HDR10 en HLG. Op een led-paneel van deze klasse zie je daar weinig van terug, maar de formaten worden wel herkend. Aan de achterkant zitten drie HDMI-poorten en twee USB-poorten, genoeg voor een soundbar en een spelcomputer. Het ingebouwde geluid levert 12 watt, prima voor het journaal maar niet voor films. Kopers op bol geven hem gemiddeld 4,3 van 5. Zoek je een Full HD-tv van een bekend merk voor weinig geld, dan is dit een nette keuze.",
+      "ean": "8718863051542",
       "score": 8.3,
-      "label": null,
-      "reviews": "bol-score 4,2 van 5",
-      "oneliner": "Full HD Philips van 2025 met Dolby Vision en Titan OS.",
       "specs": {
         "Paneel": "LED",
         "Resolutie": "Full HD",
-        "HDR": "Dolby Vision, HDR10, HLG",
+        "HDR": "HDR10, HLG",
         "Smart-tv": "Titan OS"
       },
-      "pros": [
-        "Full HD voor onder de 300 euro",
-        "Dolby Vision, HDR10 en HLG",
-        "Drie HDMI-poorten en een koptelefoonaansluiting",
-        "Licht en makkelijk aan de muur"
-      ],
-      "cons": [
-        "Titan OS mist Ziggo GO en Spotify",
-        "Geen quantum dots"
-      ],
-      "ideal": "Wie een betaalbare Full HD-tv van een bekend merk zoekt voor een tweede kamer.",
-      "text": "De Philips 32PFS6900/12 is een Full HD-tv uit 2025 voor de slaapkamer, keuken of studentenkamer. Het led-paneel is scherp op een korte kijkafstand en de Pixel Plus HD-processor van Philips schaalt gewone zenders netjes op. Opvallend in deze prijsklasse is de ondersteuning voor Dolby Vision naast HDR10 en HLG, al is de helderheid te laag om daar echt veel van te merken.\n\nHet smart-tv-systeem is Titan OS. Daarop vind je Netflix, YouTube, Prime Video en NPO Start, maar Ziggo GO, KPN en Spotify ontbreken volgens bol. Kijk je via Ziggo, dan heb je dus een losse mediaspeler of het kastje van je provider nodig. Drie HDMI-aansluitingen, een optische uitgang en een koptelefoonaansluiting maken hem flexibel. Met ruim 4,5 kilo is hij licht genoeg voor een kleine muurbeugel. Kopers op bol geven hem gemiddeld 4,2 van 5. Wil je een Full HD-tv van een bekend merk onder de 300 euro, dan is dit een nette keuze.",
-      "ean": "8718863048153",
-      "bol_title": "Philips 32PFS6900/12 - 32 inch - Full HD LED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/led-lcd-tv-philips-32pfs6900-12-fhd/9300000229240637/",
-      "image": "https://media.s-bol.com/v3MADkywJGwX/D192m2A/550x346.jpg",
+      "bol_title": "Philips 32PFS6050/12 - 32 inch - Full HD LED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/philips-32pfs6050-12-32-inch-full-hd-led-2026-smart-tv/9300000275294532/",
+      "image": "https://media.s-bol.com/35xKLwGYR1V9/KZyZZpG/550x344.jpg",
       "ph": {
-        "2026-11-08": 269.0,
-        "2026-11-09": 269.0
+        "2026-11-09": 187.0
       },
-      "low_price": 269.0,
+      "low_price": 187.0,
       "synced": "2026-11-09"
     },
     {

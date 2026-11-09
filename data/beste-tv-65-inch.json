@@ -18,7 +18,7 @@
   "updated": "2026-10-16",
   "reviews_total": "7.900",
   "intro": "Een 65 inch tv is in 2026 het populairste formaat voor de woonkamer: groot genoeg voor een echte bioscoopervaring, maar nog te passen in een gemiddelde Nederlandse huiskamer. Het aanbod loopt uiteen van een QLED-model van rond de 500 euro tot een QD-OLED van ruim 2.000 euro. Wij vergeleken 31 modellen op beeldkwaliteit, helderheid, gaming-functies, smart-tv-systeem en wat duizenden kopers er na maanden kijken van vinden. Dit zijn de tien beste 65 inch tv's die je nu kunt kopen, voor elk budget.",
-  "verdict": "De LG C5 OLED is de beste 65 inch tv voor de meeste mensen: perfect zwart, vier HDMI 2.1-poorten en een prijs die voor OLED heel redelijk is. Wil je het allerbeste beeld, dan is de Samsung S95H QD-OLED de premium keuze met de hoogste helderheid van alle OLED's. Zoek je de slimste koop, dan biedt de TCL 65Q6C met QD-Mini LED en 144 Hz verrassend veel voor minder dan 900 euro.",
+  "verdict": "De LG C5 OLED is de beste 65 inch tv voor de meeste mensen: perfect zwart, vier HDMI 2.1-poorten en een prijs die voor OLED heel redelijk is. Wil je het allerbeste beeld, dan is de Samsung S95H QD-OLED de premium keuze met de hoogste helderheid van alle OLED's. Zoek je de slimste koop, dan biedt de TCL 65T69C met QLED, Dolby Vision en Onkyo-geluid verrassend veel voor minder dan 500 euro.",
   "products": [
     {
       "brand": "LG",
@@ -278,66 +278,40 @@
     },
     {
       "brand": "TCL",
-      "name": "65Q6C",
-      "price": 699.0,
+      "name": "65T69C",
+      "price": 476.13,
       "score": 8.9,
-      "label": "Beste prijs-kwaliteit",
-      "reviews": "100+ reviews",
-      "oneliner": "QD-Mini LED-tv met veel helderheid voor weinig geld.",
+      "reviews": "bol-score 4,9 van 5",
+      "oneliner": "65 inch QLED met Onkyo-geluid en Dolby Vision voor onder de 500 euro.",
       "specs": {
-        "Paneel": "QD-Mini LED",
-        "Beeldfrequentie": "144 Hz",
+        "Paneel": "QLED",
+        "Beeldfrequentie": "60 Hz, VRR",
         "Smart-tv": "Google TV",
-        "HDMI 2.1": "2 poorten",
-        "Geluid": "Onkyo-luidsprekers"
+        "HDMI 2.1": "3 poorten",
+        "Geluid": "Onkyo 2.1 met Dolby Atmos"
       },
       "pros": [
-        "Mini LED met veel helderheid en diep zwart",
-        "144 Hz voor soepel gamen",
+        "Groot 65 inch scherm voor weinig geld",
         "Dolby Vision en HDR10+",
-        "Google TV met alle bekende apps"
+        "Onkyo 2.1-geluid met Dolby Atmos",
+        "Drie HDMI 2.1-poorten, AirPlay 2 en Chromecast"
       ],
       "cons": [
-        "Kijkhoek is beperkt",
-        "Maar twee HDMI 2.1-poorten"
+        "Geen local dimming, zwart is minder diep dan bij Mini LED",
+        "Paneel van 60 Hz, minder geschikt voor snelle games"
       ],
-      "ideal": "Wie een heldere grote tv wil voor films, sport en gamen zonder topprijs.",
-      "text": "De TCL 65Q6C brengt Mini LED-techniek naar een prijs die je normaal betaalt voor een gewone LED-tv. Achter het scherm zitten honderden kleine leds die per zone dimmen. Daardoor krijg je diep zwart naast felle highlights, iets wat je vooral ziet bij HDR-films en sport in een lichte woonkamer. De quantum dot-laag zorgt voor rijke kleuren.\n\nVoor gamers is de verversing van 144 hertz interessant. Op een pc of console met ondersteuning voor hoge framerates bewegen beelden heel soepel. De tv ondersteunt Dolby Vision, HDR10+ en Dolby Atmos. Google TV geeft je toegang tot Netflix, Videoland, Disney+ en de NPO-app. De kijkhoek is beperkt, dus vanaf de zijkant verbleekt het beeld wat. Er zijn twee HDMI 2.1-poorten, genoeg voor een console en een soundbar. Kopers op bol geven hem gemiddeld 4,9 sterren, een sterk resultaat in deze prijsklasse.",
-      "ean": "5901292526665",
-      "bol_title": "TCL 65Q6C - 65 inch - 4K QD-MiniLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65q6c-65-inch-4k-qd-miniled-2025/9300000227512981/",
-      "image": "https://media.s-bol.com/jmQEwM0n6zlY/J6n3ZOK/550x338.jpg",
-      "synced": "2026-11-09",
+      "ideal": "Wie zo groot mogelijk wil kijken en niet meer dan 500 euro wil uitgeven.",
+      "text": "De TCL 65T69C brengt 65 inch QLED naar een prijs onder de 500 euro. Quantum dots zorgen voor levendige kleuren en Dolby Vision en HDR10+ worden allebei ondersteund. Er is geen local dimming, dus zwart is minder diep dan bij Mini LED of OLED. De helderheid van ongeveer 450 nits past bij een woonkamer die je kunt dimmen.\n\nHet paneel draait op 60 Hz met VRR, prima voor series en sport. Voor snelle games op 120 Hz of hoger zijn de duurdere tv's in deze lijst beter. De Onkyo-luidsprekers met Dolby Atmos zijn een pluspunt, want op deze prijs klinken veel tv's dun. Er zijn drie HDMI 2.1-poorten en Google TV bevat alle Nederlandse apps met Chromecast en AirPlay 2. Kopers op bol geven hem gemiddeld 4,9 uit 5. Wie groot wil kijken zonder veel uit te geven, vindt hier de goedkoopste verstandige keuze.",
+      "ean": "5901292528584",
+      "label": "Beste prijs-kwaliteit",
+      "bol_title": "TCL 65T69C - 65 inch - 4K QLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65t69c-65-inch-4k-qled-2025/9300000237197713/",
+      "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
       "ph": {
-        "2026-10-15": 898.0,
-        "2026-10-16": 898.0,
-        "2026-10-17": 898.0,
-        "2026-10-18": 898.0,
-        "2026-10-19": 898.0,
-        "2026-10-20": 799.0,
-        "2026-10-21": 799.0,
-        "2026-10-23": 801.0,
-        "2026-10-24": 801.0,
-        "2026-10-25": 801.0,
-        "2026-10-26": 801.0,
-        "2026-10-27": 801.0,
-        "2026-10-28": 801.0,
-        "2026-10-29": 801.0,
-        "2026-10-30": 802.0,
-        "2026-10-31": 803.0,
-        "2026-11-01": 803.0,
-        "2026-11-02": 802.0,
-        "2026-11-03": 839.0,
-        "2026-11-04": 839.0,
-        "2026-11-05": 839.0,
-        "2026-11-06": 699.0,
-        "2026-11-07": 699.0,
-        "2026-11-08": 699.0,
-        "2026-11-09": 699.0
+        "2026-11-09": 476.13
       },
-      "low_price": 699.0,
-      "prev_price": 839.0,
-      "prev_date": "2026-11-05"
+      "low_price": 476.13,
+      "synced": "2026-11-09"
     },
     {
       "brand": "Samsung",
@@ -415,7 +389,7 @@
       ],
       "cons": [
         "Geen Dolby Vision",
-        "Duurder dan de TCL 65Q6C met vergelijkbare specificaties",
+        "Duurder dan de TCL 65T69C, maar wel Mini LED met tot 144 Hz",
         "Bol-score lager dan bij de rest van de lijst"
       ],
       "ideal": "Wie een snelle 65 inch tv van een groot merk zoekt voor gamen en sport.",
@@ -459,7 +433,7 @@
         "Voor snelle games kijk je beter naar een TCL"
       ],
       "ideal": "Wie Ambilight wil ervaren zonder OLED-budget en vooral tv kijkt en streamt.",
-      "text": "De Philips 65PQS8501 is een van de goedkoopste manieren om een 65 inch tv met Ambilight in huis te halen. Het QLED-paneel met quantum dots geeft vollere kleuren dan een gewone led-tv. De Ambilight-leds aan drie zijden doen wat ze bij de duurdere OLED-modellen doen: het beeld oogt groter en avondlang kijken is rustiger voor de ogen.\n\nTitan OS is het eigen smart-tv-systeem van Philips en heeft NPO Start, Videoland, Netflix, Disney+ en HBO Max. Dit is een nieuw model uit 2026, dus er zijn nog weinig reviews op bol. Voor gewoon tv kijken en streamen is hij een logische keuze. Zoek je een tv voor snelle games op 120 Hz of hoger, dan zijn de TCL 65Q6C en Samsung UE65M82H betere opties. Bij een tv van dit formaat en deze prijs is een soundbar aan te raden, want dunne behuizingen laten weinig ruimte voor goede speakers.",
+      "text": "De Philips 65PQS8501 is een van de goedkoopste manieren om een 65 inch tv met Ambilight in huis te halen. Het QLED-paneel met quantum dots geeft vollere kleuren dan een gewone led-tv. De Ambilight-leds aan drie zijden doen wat ze bij de duurdere OLED-modellen doen: het beeld oogt groter en avondlang kijken is rustiger voor de ogen.\n\nTitan OS is het eigen smart-tv-systeem van Philips en heeft NPO Start, Videoland, Netflix, Disney+ en HBO Max. Dit is een nieuw model uit 2026, dus er zijn nog weinig reviews op bol. Voor gewoon tv kijken en streamen is hij een logische keuze. Zoek je een tv voor snelle games op 120 Hz of hoger, dan is de Samsung UE65M82H een betere optie. Bij een tv van dit formaat en deze prijs is een soundbar aan te raden, want dunne behuizingen laten weinig ruimte voor goede speakers.",
       "ean": "8718863051764",
       "label": null,
       "bol_title": "Philips Ambilight 65PQS8501/12 - 65 inch - 4K QLED - 2026",
@@ -670,7 +644,7 @@
     "keuzes": [
       {
         "h": "Kijk je vooral in een donkere of lichte kamer?",
-        "p": "In een donkere kamer geeft OLED het diepste zwart, zoals de nr. 1 LG C5 of nr. 3 Philips 65OLED850. Kijk je veel overdag met ramen in de buurt, dan helpt de matte antireflectielaag van de nr. 2 Samsung QE65S95H of de hoge helderheid van Mini LED, zoals bij de nr. 4 Sony Bravia 5 en nr. 5 TCL 65Q6C. Voor een lichte kamer wil je minimaal 1.000 nits."
+        "p": "In een donkere kamer geeft OLED het diepste zwart, zoals de nr. 1 LG C5 of nr. 3 Philips 65OLED850. Kijk je veel overdag met ramen in de buurt, dan helpt de matte antireflectielaag van de nr. 2 Samsung QE65S95H of de hoge helderheid van Mini LED, zoals bij de nr. 4 Sony Bravia 5 en nr. 7 Samsung UE65M82H. Voor een lichte kamer wil je minimaal 1.000 nits."
       },
       {
         "h": "Hoeveel apparaten met HDMI 2.1 sluit je aan?",
@@ -678,11 +652,11 @@
       },
       {
         "h": "Speel je games op 120 Hz of hoger?",
-        "p": "Voor een PS5, Xbox Series X of gaming-pc wil je minimaal 120 Hz met VRR. De nr. 5 TCL 65Q6C en nr. 7 Samsung UE65M82H halen 144 Hz voor minder dan € 850, net als de duurdere nr. 1 LG C5. De nr. 9 TCL 65P71K heeft een 60 Hz-paneel en de nr. 8 Philips 65PQS8501 is vooral gemaakt voor tv en streamen: prima voor series, minder geschikt voor snelle games."
+        "p": "Voor een PS5, Xbox Series X of gaming-pc wil je minimaal 120 Hz met VRR. De nr. 7 Samsung UE65M82H haalt 144 Hz voor minder dan € 850, net als de duurdere nr. 1 LG C5. De nr. 5 TCL 65T69C blijft op 60 Hz. De nr. 9 TCL 65P71K heeft een 60 Hz-paneel en de nr. 8 Philips 65PQS8501 is vooral gemaakt voor tv en streamen: prima voor series, minder geschikt voor snelle games."
       },
       {
         "h": "Hoeveel wil je uitgeven?",
-        "p": "Onder de € 650 kom je uit bij QLED zonder lokale dimming, zoals de nr. 9 TCL 65P71K (€ 509) of de nr. 8 Philips 65PQS8501 (€ 649) met Ambilight. Voor € 700 tot € 850 krijg je Mini LED met 144 Hz bij de nr. 7 Samsung UE65M82H en nr. 5 TCL 65Q6C. Voor OLED betaal je vanaf € 1.367 voor de nr. 1 LG C5."
+        "p": "Onder de € 650 kom je uit bij QLED zonder lokale dimming, zoals de nr. 5 TCL 65T69C (€ 476), de nr. 9 TCL 65P71K (€ 509) of de nr. 8 Philips 65PQS8501 (€ 649) met Ambilight. Voor € 700 tot € 850 krijg je Mini LED met 144 Hz bij de nr. 7 Samsung UE65M82H. Voor OLED betaal je vanaf € 1.367 voor de nr. 1 LG C5."
       }
     ],
     "wanneer": [
@@ -695,5 +669,7 @@
         "p": "De Philips 65OLED850 (€ 1.499) past beter als je vooral in een donkere kamer films kijkt en Ambilight wilt. Het licht aan drie zijden maakt het beeld groter en rustiger voor je ogen. Je krijgt Dolby Vision én HDR10+, Google TV en 70 W geluid met subwoofer. Daar staat tegenover dat hij twee HDMI 2.1-poorten en 120 Hz heeft, tegen vier poorten en 144 Hz bij de LG C5 die ongeveer € 130 goedkoper is."
       }
     ]
-  }
+  },
+  "meta_title": "Beste 65 inch tv 2026: OLED, QLED en Mini LED vergeleken",
+  "meta_desc": "De beste 65 inch tv van 2026 is de {top}. Top 10 tv's van 65 inch vergeleken op beeld, HDR, gaming en prijs, met de beste prijs-kwaliteit."
 }

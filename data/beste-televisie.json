@@ -434,67 +434,40 @@
     },
     {
       "brand": "TCL",
-      "name": "65Q6C",
-      "price": 699.0,
+      "name": "65T69C",
+      "price": 476.13,
       "score": 8.6,
-      "label": null,
       "reviews": "bol-score 4,9 van 5",
-      "oneliner": "QD-mini-led met Google TV en geluid van Bang & Olufsen.",
+      "oneliner": "65 inch QLED met Dolby Vision en goed geluid voor weinig geld.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "QD-mini-led",
-        "Verversing": "Tot 144 Hz",
-        "HDMI 2.1": "Ja",
+        "Paneel": "QLED",
+        "Verversing": "60 Hz",
+        "HDMI 2.1": "Ja, 3 poorten",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "Mini-led met quantum dots voor sterk contrast",
-        "Google TV met alle apps en Chromecast",
-        "Dolby Vision IQ en HDR10+",
-        "Hoge verversing voor gamers"
+        "Groot 65 inch scherm voor weinig geld",
+        "Dolby Vision en HDR10+",
+        "Onkyo 2.1-geluid met Dolby Atmos",
+        "Drie HDMI 2.1-poorten, AirPlay 2 en Chromecast"
       ],
       "cons": [
-        "Software soms wat traag",
-        "Kijkhoek beperkt",
-        "Lokale dimming bij donkere scènes niet perfect"
+        "Geen local dimming, zwart is minder diep dan bij Mini LED",
+        "Paneel van 60 Hz, minder geschikt voor snelle games"
       ],
-      "ideal": "Wie een grote mini-led-tv met Google TV zoekt in de middenklasse.",
-      "text": "De Q6C is een 65 inch QD-mini-led-tv van TCL uit 2025. Het scherm combineert quantum dots voor rijke kleuren met mini-ledverlichting die in zones dimt, waardoor het contrast duidelijk hoger ligt dan bij een gewone led-tv. TCL ondersteunt zowel Dolby Vision IQ als HDR10+, dus elke streamingdienst toont zijn beste HDR-versie.\n\nDe tv draait op Google TV, met alle bekende apps, spraakbediening en ingebouwde Chromecast. Gamers krijgen een hoge verversingssnelheid en automatische spelstand. Het geluid is afgestemd door Bang & Olufsen en klinkt voller dan gemiddeld, al blijft een soundbar een verbetering. Bij zeer donkere scènes zie je soms een lichte gloed rond witte tekst en de kijkhoek is beperkt. De software reageert niet altijd even snel. Kopers op bol geven gemiddeld een 4,9. Voor ruim onder de duizend euro krijg je veel beeld.",
-      "ean": "5901292526665",
-      "bol_title": "TCL 65Q6C - 65 inch - 4K QD-MiniLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65q6c-65-inch-4k-qd-miniled-2025/9300000227512981/",
-      "image": "https://media.s-bol.com/jmQEwM0n6zlY/J6n3ZOK/550x338.jpg",
-      "synced": "2026-11-09",
+      "ideal": "Wie een groot scherm voor het kleinste budget zoekt.",
+      "text": "De TCL 65T69C is een 65 inch QLED-tv uit 2025 die je voor rond de 475 euro koopt. Quantum dots geven rijke kleuren en zowel Dolby Vision als HDR10+ worden ondersteund. Het paneel heeft geen local dimming, dus zwart is minder diep dan bij Mini-LED of OLED. Met ongeveer 450 nits is hij het prettigst in een gedimde kamer.\n\nVoor films, series en sport is 60 Hz ruim genoeg. Gamers die 120 Hz willen, kijken beter naar een van de duurdere tv's in deze lijst. Google TV bevat alle Nederlandse apps en Chromecast en AirPlay 2 zijn ingebouwd. Dankzij de Onkyo-luidsprekers met Dolby Atmos klinkt hij voor deze prijs beter dan de meeste tv's, al blijft een soundbar een verbetering. Kopers op bol geven hem gemiddeld 4,9 uit 5. Wie vooral een groot scherm zoekt en geen OLED nodig heeft, houdt hier veel geld over.",
+      "ean": "5901292528584",
+      "label": null,
+      "bol_title": "TCL 65T69C - 65 inch - 4K QLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65t69c-65-inch-4k-qled-2025/9300000237197713/",
+      "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
       "ph": {
-        "2026-10-15": 898.0,
-        "2026-10-16": 898.0,
-        "2026-10-17": 898.0,
-        "2026-10-18": 898.0,
-        "2026-10-19": 898.0,
-        "2026-10-20": 799.0,
-        "2026-10-21": 799.0,
-        "2026-10-23": 801.0,
-        "2026-10-24": 801.0,
-        "2026-10-25": 801.0,
-        "2026-10-26": 801.0,
-        "2026-10-27": 801.0,
-        "2026-10-28": 801.0,
-        "2026-10-29": 801.0,
-        "2026-10-30": 802.0,
-        "2026-10-31": 803.0,
-        "2026-11-01": 803.0,
-        "2026-11-02": 802.0,
-        "2026-11-03": 839.0,
-        "2026-11-04": 839.0,
-        "2026-11-05": 839.0,
-        "2026-11-06": 699.0,
-        "2026-11-07": 699.0,
-        "2026-11-08": 699.0,
-        "2026-11-09": 699.0
+        "2026-11-09": 476.13
       },
-      "low_price": 699.0,
-      "prev_price": 839.0,
-      "prev_date": "2026-11-05"
+      "low_price": 476.13,
+      "synced": "2026-11-09"
     },
     {
       "brand": "Samsung",
@@ -636,7 +609,7 @@
   "faq": [
     {
       "q": "Wat is de beste televisie van 2026?",
-      "a": "Op basis van onze vergelijking is de LG OLED C5 de beste televisie van 2026: perfect zwart, uitstekende upscaling, vier HDMI 2.1-poorten en een sterk gedaalde prijs. Wie het beste beeld wil in een lichte kamer kiest de Samsung S95H, wie op het budget let de LG OLED B5 of de TCL 65Q6C."
+      "a": "Op basis van onze vergelijking is de LG OLED C5 de beste televisie van 2026: perfect zwart, uitstekende upscaling, vier HDMI 2.1-poorten en een sterk gedaalde prijs. Wie het beste beeld wil in een lichte kamer kiest de Samsung S95H, wie op het budget let de LG OLED B5 of de TCL 65T69C."
     },
     {
       "q": "Is OLED beter dan QLED?",
@@ -652,7 +625,7 @@
     },
     {
       "q": "Heb ik een soundbar nodig bij een nieuwe televisie?",
-      "a": "Bij de meeste dunne televisies wel. De luidsprekers zitten achter of onder het scherm en klinken dun. De Philips OLED811 en TCL Q6C klinken beter dan gemiddeld, maar een soundbar van 200 tot 400 euro verbetert elk model in deze lijst merkbaar. Sluit hem aan via de HDMI eARC-poort voor het beste resultaat."
+      "a": "Bij de meeste dunne televisies wel. De luidsprekers zitten achter of onder het scherm en klinken dun. De Philips OLED811 en TCL T69C klinken beter dan gemiddeld, maar een soundbar van 200 tot 400 euro verbetert elk model in deze lijst merkbaar. Sluit hem aan via de HDMI eARC-poort voor het beste resultaat."
     },
     {
       "q": "Hoe lang gaat een televisie mee?",
