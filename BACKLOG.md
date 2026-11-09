@@ -2,6 +2,33 @@
 
 Formaat: slug | cat | query | titel | emoji
 
+# SEIZOEN cadeaufase 9 nov 2026 (Nick: nu vooral speelgoed en veelgegeven cadeaus, Sinterklaas + kerst; kalender in ../groeimotor/seizoen.py)
+# Tot en met 18 nov: van elke 3 gidsen 2 uit dit blok en 1 dure Black Friday-gids uit het blok 'groeimotor 5 nov 2026 (D1)' (gemiddelde prijs vanaf 250 euro), zodat die vóór 27 nov geïndexeerd zijn.
+[x] beste-cadeau-3-jarige | speelgoed | speelgoed 3 jaar | De 10 beste cadeaus voor 3-jarigen van 2026 | 🧸
+[ ] beste-cadeau-5-jarige | speelgoed | speelgoed 5 jaar | De 10 beste cadeaus voor 5-jarigen van 2026 | 🧸
+[ ] beste-lego | speelgoed | lego | De 10 beste LEGO-sets van 2026 | 🧱
+[ ] beste-cadeau-8-jarige | speelgoed | speelgoed 8 jaar | De 10 beste cadeaus voor 8-jarigen van 2026 | 🎁
+[ ] beste-bordspel | speelgoed | bordspel | De 10 beste bordspellen van 2026 | 🎲
+[ ] beste-sinterklaas-schoencadeautjes | cadeaus | schoencadeautjes sinterklaas | De 10 beste schoencadeautjes voor Sinterklaas van 2026 | 👟
+[ ] beste-cadeau-1-jarige | speelgoed | speelgoed 1 jaar | De 10 beste cadeaus voor 1-jarigen van 2026 | 🧸
+[ ] beste-speelkeuken | speelgoed | speelkeuken | De 10 beste speelkeukens van 2026 | 🍳
+[ ] beste-playmobil | speelgoed | playmobil | De 10 beste Playmobil-sets van 2026 | 🏰
+[ ] beste-cadeau-6-jarige | speelgoed | speelgoed 6 jaar | De 10 beste cadeaus voor 6-jarigen van 2026 | 🎁
+[ ] beste-duplo | speelgoed | lego duplo | De 10 beste DUPLO-sets van 2026 | 🧱
+[ ] beste-cadeau-10-jarige | speelgoed | cadeau 10 jaar | De 10 beste cadeaus voor 10-jarigen van 2026 | 🎁
+[ ] beste-rc-auto | speelgoed | rc auto | De 10 beste RC-auto's van 2026 | 🚗
+[ ] beste-hoverboard | speelgoed | hoverboard | De 10 beste hoverboards van 2026 | 🛹
+[ ] beste-knikkerbaan | speelgoed | knikkerbaan | De 10 beste knikkerbanen van 2026 | 🔵
+[ ] beste-cadeau-4-jarige | speelgoed | speelgoed 4 jaar | De 10 beste cadeaus voor 4-jarigen van 2026 | 🧸
+[ ] beste-elektrische-kinderauto | speelgoed | elektrische kinderauto | De 10 beste elektrische kinderauto's van 2026 | 🚗
+[ ] beste-cadeau-2-jarige | speelgoed | speelgoed 2 jaar | De 10 beste cadeaus voor 2-jarigen van 2026 | 🧸
+[ ] beste-switch-2-games | gaming | nintendo switch 2 games | De 10 beste Nintendo Switch 2-games van 2026 | 🎮
+[ ] beste-loopfiets | speelgoed | loopfiets | De 10 beste loopfietsen van 2026 | 🚲
+[ ] beste-kindercamera | speelgoed | kindercamera | De 10 beste kindercamera's van 2026 | 📷
+[ ] beste-poppenhuis | speelgoed | poppenhuis | De 10 beste poppenhuizen van 2026 | 🏠
+[ ] beste-houten-treinbaan | speelgoed | houten treinbaan | De 10 beste houten treinbanen van 2026 | 🚂
+[ ] beste-gezelschapsspel | speelgoed | gezelschapsspel volwassenen | De 10 beste gezelschapsspellen van 2026 | 🎲
+
 # weekrapport 8 nov 2026: tv-accessoires, prullenbak, budget-smartphone en boxspring scoren (bol-orders + Umami-kliks); luchtreiniger-zoekvraag uit Search Console
 [ ] beste-tv-beugel | elektronica | tv muurbeugel | De 10 beste tv-muurbeugels van 2026 | 🔩
 [ ] beste-prullenbak | huishouden | prullenbak | De 10 beste prullenbakken van 2026 | 🗑️
