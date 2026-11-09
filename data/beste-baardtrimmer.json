@@ -49,7 +49,7 @@
       "bol_title": "Philips Series 9000 Multigroom - Baardtrimmer - 20 in 1 - Neushaartrimmer - Precisietrimmer - Lichaamstrimmer - Wenkbrauwtrimmer - Face&Hair&Body - Scheersensor - Opbergetui inclusief OneBlade Face - MG9558/15",
       "url": "https://www.bol.com/nl/nl/p/philips-series-9000-multigroom-baardtrimmer-20-in-1-neushaartrimmer-precisietrimmer-lichaamstrimmer-wenkbrauwtrimmer-face-hair-body-scheersensor-opbergetui-inclusief-oneblade-face-mg9558-15/9300000232759363/",
       "image": "https://media.s-bol.com/4Zy6ngVxXWXk/pgVrxpm/550x549.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 94.7,
         "2026-10-16": 94.7,
@@ -74,7 +74,8 @@
         "2026-11-05": 94.7,
         "2026-11-06": 94.7,
         "2026-11-07": 94.7,
-        "2026-11-08": 94.7
+        "2026-11-08": 94.7,
+        "2026-11-09": 94.7
       },
       "low_price": 86.1,
       "prev_price": 88.7,
@@ -83,7 +84,7 @@
     {
       "brand": "Philips",
       "name": "Baardtrimmer Series 5000 BT5775/15",
-      "price": 59.99,
+      "price": 44.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,2 van 5",
@@ -127,10 +128,13 @@
         "2026-11-05": 59.99,
         "2026-11-06": 59.99,
         "2026-11-07": 59.99,
-        "2026-11-08": 59.99
+        "2026-11-08": 59.99,
+        "2026-11-09": 44.99
       },
-      "low_price": 59.99,
-      "synced": "2026-11-08"
+      "low_price": 44.99,
+      "synced": "2026-11-09",
+      "prev_price": 59.99,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "Braun",
@@ -163,7 +167,7 @@
       "bol_title": "Braun Baardtrimmer - Series 9 - BT9440 - Trimmer Met Kapperstools en 180 Minuten Gebruiksduur",
       "url": "https://www.bol.com/nl/nl/p/braun-baardtrimmer-series-9-bt9440-trimmer-met-kapperstools-en-180-minuten-gebruiksduur/9300000142093249/",
       "image": "https://media.s-bol.com/rpQM2lAOyNAB/k0RWJ6/550x545.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-14": 104.98,
         "2026-10-15": 104.98,
@@ -189,7 +193,8 @@
         "2026-11-05": 104.98,
         "2026-11-06": 104.98,
         "2026-11-07": 104.98,
-        "2026-11-08": 104.98
+        "2026-11-08": 104.98,
+        "2026-11-09": 104.98
       },
       "low_price": 99.99,
       "prev_price": 100.16,
@@ -198,7 +203,7 @@
     {
       "brand": "Panasonic",
       "name": "Baardtrimmer ER-GB96",
-      "price": 108.67,
+      "price": 109.0,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -229,12 +234,13 @@
       "ph": {
         "2026-11-06": 101.54,
         "2026-11-07": 108.67,
-        "2026-11-08": 108.67
+        "2026-11-08": 108.67,
+        "2026-11-09": 109.0
       },
       "low_price": 101.54,
-      "synced": "2026-11-08",
-      "prev_price": 101.54,
-      "prev_date": "2026-11-06"
+      "synced": "2026-11-09",
+      "prev_price": 108.67,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "Philips",
@@ -267,7 +273,7 @@
       "bol_title": "Philips OneBlade QP6551/15 Pro Scheerapparaat met scheerblad Trimmer Chroom",
       "url": "https://www.bol.com/nl/nl/p/tondeuse-philips-qp6551-15-draadloos/9300000111608752/",
       "image": "https://media.s-bol.com/xKK2y8jEPoRn/jYKXEwl/550x512.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 62.09,
         "2026-10-16": 61.98,
@@ -292,7 +298,8 @@
         "2026-11-05": 61.23,
         "2026-11-06": 61.23,
         "2026-11-07": 61.23,
-        "2026-11-08": 61.23
+        "2026-11-08": 61.23,
+        "2026-11-09": 61.23
       },
       "low_price": 55.0,
       "prev_price": 55.0,
@@ -301,7 +308,7 @@
     {
       "brand": "Braun",
       "name": "Baardtrimmer Series 7 BT7440",
-      "price": 61.0,
+      "price": 58.0,
       "score": 8.6,
       "label": null,
       "reviews": "1.700+ reviews",
@@ -329,7 +336,7 @@
       "bol_title": "Braun Baardtrimmer - Series 7 - BT7440 - Trimmer Met Kapperstools en 100 Minuten Gebruiksduur",
       "url": "https://www.bol.com/nl/nl/p/braun-baardtrimmer-series-7-bt7440-trimmer-met-kapperstools-en-100-minuten-gebruiksduur/9300000140816372/",
       "image": "https://media.s-bol.com/qoPM7WnlmpE2/3x1mJA/550x545.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-14": 62.5,
         "2026-10-15": 62.0,
@@ -355,11 +362,12 @@
         "2026-11-05": 62.5,
         "2026-11-06": 62.5,
         "2026-11-07": 62.0,
-        "2026-11-08": 61.0
+        "2026-11-08": 61.0,
+        "2026-11-09": 58.0
       },
       "low_price": 57.0,
-      "prev_price": 62.0,
-      "prev_date": "2026-11-07"
+      "prev_price": 61.0,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "Remington",
@@ -392,7 +400,7 @@
       "bol_title": "Remington MB4700 TouchTech Baardtrimmer - Zwart - Inclusief opzetstuk",
       "url": "https://www.bol.com/nl/nl/p/remington-mb4700-touchtech-baardtrimmer-zwart/9200000088079945/",
       "image": "https://media.s-bol.com/mL8VE3RnmpR/250x200.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 39.0,
         "2026-10-16": 39.0,
@@ -417,7 +425,8 @@
         "2026-11-05": 39.0,
         "2026-11-06": 37.95,
         "2026-11-07": 37.95,
-        "2026-11-08": 37.99
+        "2026-11-08": 37.99,
+        "2026-11-09": 37.99
       },
       "low_price": 37.95,
       "prev_price": 37.95,
@@ -454,7 +463,7 @@
       "bol_title": "Remington MB 350 LC AC/Batterij 11 1,8 cm Zwart, Zilver",
       "url": "https://www.bol.com/nl/nl/p/remington-mb350lc-tondeuse-baardtrimmer-zilver/9200000114358267/",
       "image": "https://media.s-bol.com/VyMv68MNXpVB/wJmVpR/250x200.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 29.45,
         "2026-10-16": 29.45,
@@ -479,7 +488,8 @@
         "2026-11-05": 36.99,
         "2026-11-06": 36.99,
         "2026-11-07": 36.99,
-        "2026-11-08": 36.99
+        "2026-11-08": 36.99,
+        "2026-11-09": 36.99
       },
       "low_price": 29.45,
       "prev_price": 29.45,
@@ -516,7 +526,7 @@
       "bol_title": "Philips Series 3000 BT3206/14 - Baardtrimmer - Lift & Trim systeem - 0,5-10 mm in stappen van 1 mm - Zelfslijpende RVS-messen - 45 min snoerloos - Afspoelbaar",
       "url": "https://www.bol.com/nl/nl/p/philips-philips-bt3206-14-baardtrimmer/9200000095120818/",
       "image": "https://media.s-bol.com/jpp0RD3KA8wW/EqpYg8k/541x840.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-14": 30.95,
         "2026-10-15": 30.95,
@@ -542,7 +552,8 @@
         "2026-11-05": 29.95,
         "2026-11-06": 29.99,
         "2026-11-07": 28.99,
-        "2026-11-08": 28.99
+        "2026-11-08": 28.99,
+        "2026-11-09": 28.99
       },
       "low_price": 27.99,
       "prev_price": 29.99,
@@ -551,7 +562,7 @@
     {
       "brand": "Braun",
       "name": "All-in-One Style Kit Series 7 AIO7560",
-      "price": 64.99,
+      "price": 89.99,
       "score": 8.5,
       "label": null,
       "reviews": "1.200+ reviews",
@@ -579,7 +590,7 @@
       "bol_title": "Braun All-in-One Series 7 AIO7560 Style Kit – Baardtrimmer - Tondeuse - Gezichtstrimmer en Lichaamstrimmer in 1",
       "url": "https://www.bol.com/nl/nl/p/braun-all-in-one-series-7-aio7560-13in1-verzorgingsset-problade-autosense-grijs/9300000224151583/",
       "image": "https://media.s-bol.com/B3Xz2Eg6p5RQ/pZRxkR1/550x563.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 69.99,
         "2026-10-16": 69.99,
@@ -604,11 +615,12 @@
         "2026-11-05": 64.99,
         "2026-11-06": 64.99,
         "2026-11-07": 64.99,
-        "2026-11-08": 64.99
+        "2026-11-08": 64.99,
+        "2026-11-09": 89.99
       },
       "low_price": 64.99,
-      "prev_price": 77.99,
-      "prev_date": "2026-10-26"
+      "prev_price": 64.99,
+      "prev_date": "2026-11-08"
     }
   ],
   "guide": [

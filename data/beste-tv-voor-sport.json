@@ -57,7 +57,7 @@
         "2026-11-08": 1269.0
       },
       "low_price": 1269.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Sony",
@@ -92,10 +92,11 @@
       "url": "https://www.bol.com/nl/nl/p/sony-bravia-7-ii-65-inch-4k-rgb-miniled-2026-smart-tv/9300000301594038/",
       "image": "https://media.s-bol.com/J3r7Epkz6Gw2/464lVG6/550x381.jpg",
       "ph": {
-        "2026-11-08": 1999.0
+        "2026-11-08": 1999.0,
+        "2026-11-09": 1999.0
       },
       "low_price": 1999.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Samsung",
@@ -129,10 +130,11 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-qe65s93haexxn-oled-65-inch/9300000278296379/",
       "image": "https://media.s-bol.com/5N46YxLVw6vx/J8zpX42/550x345.jpg",
       "ph": {
-        "2026-11-08": 1655.0
+        "2026-11-08": 1655.0,
+        "2026-11-09": 1655.0
       },
       "low_price": 1655.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "TCL",
@@ -166,15 +168,16 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-65c89l-65-inch-4k-sqd-miniled-2026-smart-tv/9300000273452866/",
       "image": "https://media.s-bol.com/qzjKG0YGkGrp/k2QwGXr/550x330.jpg",
       "ph": {
-        "2026-11-08": 1099.0
+        "2026-11-08": 1099.0,
+        "2026-11-09": 1099.0
       },
       "low_price": 1099.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Samsung",
       "name": "UE65M82H",
-      "price": 799.0,
+      "price": 815.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,0 van 5",
@@ -203,10 +206,13 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-ue65m82hauxxn-miniled-65-inch/9300000294982186/",
       "image": "https://media.s-bol.com/90v771AWloqZ/DqW34V5/550x336.jpg",
       "ph": {
-        "2026-11-08": 799.0
+        "2026-11-08": 799.0,
+        "2026-11-09": 815.0
       },
       "low_price": 799.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09",
+      "prev_price": 799.0,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "Samsung",
@@ -240,10 +246,11 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-qe65qn83hauxxn-neo-qled-65-inch/9300000294982187/",
       "image": "https://media.s-bol.com/JmBMkZ4rwVXl/mQm9pLG/550x334.jpg",
       "ph": {
-        "2026-11-08": 1049.0
+        "2026-11-08": 1049.0,
+        "2026-11-09": 1049.0
       },
       "low_price": 1049.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "TCL",
@@ -277,10 +284,11 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-75t8d-75-inch-4k-qd-miniled-2026-smart-tv/9300000273452846/",
       "image": "https://media.s-bol.com/3LPLn3J8XJox/57V7KNR/550x340.jpg",
       "ph": {
-        "2026-11-08": 949.0
+        "2026-11-08": 949.0,
+        "2026-11-09": 949.0
       },
       "low_price": 949.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "TCL",
@@ -314,10 +322,11 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-55c89l-55-inch-4k-sqd-miniled-2026-smart-tv/9300000273452873/",
       "image": "https://media.s-bol.com/7P8q7gM2JPPO/lxjvRB6/550x333.jpg",
       "ph": {
-        "2026-11-08": 899.0
+        "2026-11-08": 899.0,
+        "2026-11-09": 899.0
       },
       "low_price": 899.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Philips",
@@ -351,10 +360,11 @@
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-65mled910-12-tv-165-1-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000235517372/",
       "image": "https://media.s-bol.com/n4VM1wRElAYP/oYOnqlL/550x358.jpg",
       "ph": {
-        "2026-11-08": 799.0
+        "2026-11-08": 799.0,
+        "2026-11-09": 799.0
       },
       "low_price": 799.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Hisense",
@@ -388,10 +398,11 @@
       "url": "https://www.bol.com/nl/nl/p/hisense-65e7s-pro-smarttv-65-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000269685075/",
       "image": "https://media.s-bol.com/B3p8xXVvD4Mx/lR8w8El/550x369.jpg",
       "ph": {
-        "2026-11-08": 669.0
+        "2026-11-08": 669.0,
+        "2026-11-09": 669.0
       },
       "low_price": 669.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     }
   ],
   "guide": [

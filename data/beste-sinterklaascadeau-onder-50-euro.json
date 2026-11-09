@@ -52,10 +52,11 @@
       "url": "https://www.bol.com/nl/nl/p/lego-icons-miniplantjes-10329/9300000157956097/",
       "image": "https://media.s-bol.com/61KRrP7OlKgR/P1W68WA/550x399.jpg",
       "ph": {
-        "2026-11-08": 39.99
+        "2026-11-08": 39.99,
+        "2026-11-09": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Days of Wonder",
@@ -88,10 +89,11 @@
       "url": "https://www.bol.com/nl/nl/p/days-of-wonder-ticket-to-ride-europe-refresh-bordspel-nl/9300000277694634/",
       "image": "https://media.s-bol.com/475noPrDEQGn/gLg6RRY/550x579.jpg",
       "ph": {
-        "2026-11-08": 34.99
+        "2026-11-08": 34.99,
+        "2026-11-09": 34.99
       },
       "low_price": 34.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Beurer",
@@ -124,10 +126,11 @@
       "url": "https://www.bol.com/nl/nl/p/beurer-hk-43-supercosy-elektrisch-warmtekussen-superzacht-verwarmingskussen-3-warmtestanden-snelle-opwarming-oeko-tex-100-voor-rug-nek-schouders-buik-en-voeten-wasbaar-op-30-c-44x33-cm-3-jaar-garantie/9300000241390725/",
       "image": "https://media.s-bol.com/xMDr7WvwmDnq/BgjYWoW/550x447.jpg",
       "ph": {
-        "2026-11-08": 29.99
+        "2026-11-08": 29.99,
+        "2026-11-09": 29.99
       },
       "low_price": 29.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "JBL",
@@ -160,10 +163,11 @@
       "url": "https://www.bol.com/nl/nl/p/jbl-go-5-draadloze-bluetooth-mini-speaker-voor-onderweg-en-thuis-sfeerverlichting-draadloos-muziek-box-boxje-10-uur-ip68-waterdicht-zwart/9300000252617209/",
       "image": "https://media.s-bol.com/qvQw499vRP1D/kZom2nN/550x376.jpg",
       "ph": {
-        "2026-11-08": 45.75
+        "2026-11-08": 45.75,
+        "2026-11-09": 45.75
       },
       "low_price": 45.75,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Apple",
@@ -196,10 +200,11 @@
       "url": "https://www.bol.com/nl/nl/p/apple-airtag-2e-generatie-1-stuk/9300000259692759/",
       "image": "https://media.s-bol.com/3WOL9o5EEzY4/nxZpX3p/550x550.jpg",
       "ph": {
-        "2026-11-08": 31.99
+        "2026-11-08": 31.99,
+        "2026-11-09": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Rituals",
@@ -232,10 +237,11 @@
       "url": "https://www.bol.com/nl/nl/p/the-ritual-of-sakura-gifset-m-2025/9300000242918318/",
       "image": "https://media.s-bol.com/Z1ZqgR46qgpJ/nZ084xW/550x500.jpg",
       "ph": {
-        "2026-11-08": 34.1
+        "2026-11-08": 34.1,
+        "2026-11-09": 34.1
       },
       "low_price": 34.1,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Libellud",
@@ -268,15 +274,16 @@
       "url": "https://www.bol.com/nl/nl/p/dixit-basisspel-bordspel/1004004011600635/",
       "image": "https://media.s-bol.com/gzxGMgZMQQMr/k8RQWQ6/550x550.jpg",
       "ph": {
-        "2026-11-08": 29.74
+        "2026-11-08": 29.74,
+        "2026-11-09": 29.74
       },
       "low_price": 29.74,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Bialetti",
       "name": "Moka Express 6 kops",
-      "price": 28.95,
+      "price": 30.95,
       "score": 8.5,
       "label": null,
       "reviews": "reviews op bol",
@@ -304,10 +311,13 @@
       "url": "https://www.bol.com/nl/nl/p/bialetti-moka-express-percolator-6-kops-aluminium/9200000038446313/",
       "image": "https://media.s-bol.com/xrZzEwgPkw6n/Vm5l6E9/550x511.jpg",
       "ph": {
-        "2026-11-08": 28.95
+        "2026-11-08": 28.95,
+        "2026-11-09": 30.95
       },
       "low_price": 28.95,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09",
+      "prev_price": 28.95,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "Anker",
@@ -340,15 +350,16 @@
       "url": "https://www.bol.com/nl/nl/p/new-anker-powerbank-87-w-max-snellaadaccu-20-000-mah-draagbare-oplader-met-geintegreerde-usb-c-kabel-2-usb-c-en-1-usb-a-voor-macbook-iphone-15-14-serie-samsung-switch-en-meer/9300000186254267/",
       "image": "https://media.s-bol.com/g9BmKOgVRMX6/9rOyBmY/550x550.jpg",
       "ph": {
-        "2026-11-08": 43.99
+        "2026-11-08": 43.99,
+        "2026-11-09": 43.99
       },
       "low_price": 43.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Yankee Candle",
       "name": "Shimmering Christmas Tree Large Jar",
-      "price": 29.37,
+      "price": 28.99,
       "score": 8.1,
       "label": null,
       "reviews": "reviews op bol",
@@ -376,10 +387,13 @@
       "url": "https://www.bol.com/nl/nl/p/yankee-candle-shimmering-christmas-tree-signature-large-jar/9300000151778465/",
       "image": "https://media.s-bol.com/gzvZZ5k5R9E6/5Q6L89A/480x840.jpg",
       "ph": {
-        "2026-11-08": 29.37
+        "2026-11-08": 29.37,
+        "2026-11-09": 28.99
       },
-      "low_price": 29.37,
-      "synced": "2026-11-08"
+      "low_price": 28.99,
+      "synced": "2026-11-09",
+      "prev_price": 29.37,
+      "prev_date": "2026-11-08"
     }
   ],
   "guide": [

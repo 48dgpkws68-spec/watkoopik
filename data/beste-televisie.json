@@ -51,7 +51,7 @@
       "ean": "8806096363430",
       "url": "https://www.bol.com/nl/nl/p/lg-c5-oled65c56lb-65-inch-4k-oled-evo-2025/9300000229413534/",
       "image": "https://media.s-bol.com/Kn1Xy9rXxN3z/D98x0D6/550x338.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "bol_title": "LG C5 OLED65C56LB - 65 inch - 4K OLED Evo - 2025 - Smart TV",
       "ph": {
         "2026-10-13": 1399.0,
@@ -79,7 +79,8 @@
         "2026-11-05": 1366.63,
         "2026-11-06": 1366.63,
         "2026-11-07": 1366.63,
-        "2026-11-08": 1366.63
+        "2026-11-08": 1366.63,
+        "2026-11-09": 1366.63
       },
       "low_price": 1366.63,
       "prev_price": 1399.0,
@@ -116,7 +117,7 @@
       "ean": "8806096360576",
       "url": "https://www.bol.com/nl/nl/p/lg-b5-oled55b56la-55-inch-4k-oled-2025/9300000229178469/",
       "image": "https://media.s-bol.com/oryjWjxALw2k/jRjPLg4/550x349.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "bol_title": "LG B5 OLED55B56LA - 55 inch - 4K OLED - 2025 - Smart TV",
       "ph": {
         "2026-10-13": 849.0,
@@ -144,7 +145,8 @@
         "2026-11-05": 799.0,
         "2026-11-06": 799.0,
         "2026-11-07": 799.0,
-        "2026-11-08": 799.0
+        "2026-11-08": 799.0,
+        "2026-11-09": 799.0
       },
       "low_price": 799.0,
       "prev_price": 826.5,
@@ -182,7 +184,7 @@
       "bol_title": "Samsung QE65S95H - 65 inch - 4K QD-OLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-qe65s95hftxxn-qd-oled-65-inch/9300000278246901/",
       "image": "https://media.s-bol.com/R3lkYEER70GO/J86WLy2/550x344.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 2233.3,
         "2026-10-16": 2210.97,
@@ -207,7 +209,8 @@
         "2026-11-05": 2099.0,
         "2026-11-06": 2099.0,
         "2026-11-07": 1999.0,
-        "2026-11-08": 1999.0
+        "2026-11-08": 1999.0,
+        "2026-11-09": 1999.0
       },
       "low_price": 1999.0,
       "prev_price": 2099.0,
@@ -245,7 +248,7 @@
       "bol_title": "Samsung QE65QN83H - 65 inch - 4K Neo QLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-qe65qn83hauxxn-neo-qled-65-inch/9300000294982187/",
       "image": "https://media.s-bol.com/JmBMkZ4rwVXl/mQm9pLG/550x334.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 1299.0,
         "2026-10-16": 1299.0,
@@ -270,7 +273,8 @@
         "2026-11-05": 1099.0,
         "2026-11-06": 1099.0,
         "2026-11-07": 1049.0,
-        "2026-11-08": 1049.0
+        "2026-11-08": 1049.0,
+        "2026-11-09": 1049.0
       },
       "low_price": 1049.0,
       "prev_price": 1099.0,
@@ -307,7 +311,7 @@
       "ean": "4548736178335",
       "url": "https://www.bol.com/nl/nl/p/sony-bravia-7-ii-65-inch-4k-rgb-miniled-2026-smart-tv/9300000301594038/",
       "image": "https://media.s-bol.com/J3r7Epkz6Gw2/464lVG6/550x381.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "bol_title": "Sony BRAVIA 7 II - 65 inch - 4K RGB-LED TV - 2026 - Smart TV - True RGB",
       "ph": {
         "2026-10-13": 2299.0,
@@ -335,7 +339,8 @@
         "2026-11-05": 2299.0,
         "2026-11-06": 1999.0,
         "2026-11-07": 1999.0,
-        "2026-11-08": 1999.0
+        "2026-11-08": 1999.0,
+        "2026-11-09": 1999.0
       },
       "low_price": 1999.0,
       "prev_price": 2299.0,
@@ -344,7 +349,7 @@
     {
       "brand": "Philips",
       "name": "55OLED811",
-      "price": 1399.0,
+      "price": 1495.0,
       "score": 8.9,
       "label": null,
       "reviews": "nieuw model",
@@ -380,12 +385,13 @@
         "2026-11-05": 1499.0,
         "2026-11-06": 1495.0,
         "2026-11-07": 1399.0,
-        "2026-11-08": 1399.0
+        "2026-11-08": 1399.0,
+        "2026-11-09": 1495.0
       },
       "low_price": 1399.0,
-      "synced": "2026-11-08",
-      "prev_price": 1495.0,
-      "prev_date": "2026-11-06"
+      "synced": "2026-11-09",
+      "prev_price": 1399.0,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "LG",
@@ -420,10 +426,11 @@
       "url": "https://www.bol.com/nl/nl/p/lg-qned-ai-65qned84a6c-165-1-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000231982016/",
       "image": "https://media.s-bol.com/wL96lXmR2plw/8qBzr3g/550x434.jpg",
       "ph": {
-        "2026-11-08": 649.0
+        "2026-11-08": 649.0,
+        "2026-11-09": 649.0
       },
       "low_price": 649.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "TCL",
@@ -457,7 +464,7 @@
       "bol_title": "TCL 65Q6C - 65 inch - 4K QD-MiniLED - 2025 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/tcl-65q6c-65-inch-4k-qd-miniled-2025/9300000227512981/",
       "image": "https://media.s-bol.com/jmQEwM0n6zlY/J6n3ZOK/550x338.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 898.0,
         "2026-10-16": 898.0,
@@ -482,7 +489,8 @@
         "2026-11-05": 839.0,
         "2026-11-06": 699.0,
         "2026-11-07": 699.0,
-        "2026-11-08": 699.0
+        "2026-11-08": 699.0,
+        "2026-11-09": 699.0
       },
       "low_price": 699.0,
       "prev_price": 839.0,
@@ -520,7 +528,7 @@
       "bol_title": "Samsung UE55M74H - 55 inch - 4K MiniLED - 2026 + 3 jaar extra garantie - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-55m74h-55-inch-4k-miniled-2026-smart-tv/9300000284690212/",
       "image": "https://media.s-bol.com/R9MJzoXloMmK/oVRMzrA/550x358.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 579.0,
         "2026-10-16": 579.0,
@@ -545,7 +553,8 @@
         "2026-11-05": 544.39,
         "2026-11-06": 479.0,
         "2026-11-07": 479.0,
-        "2026-11-08": 479.0
+        "2026-11-08": 479.0,
+        "2026-11-09": 479.0
       },
       "low_price": 479.0,
       "prev_price": 544.39,
@@ -589,10 +598,11 @@
         "2026-11-05": 529.0,
         "2026-11-06": 499.0,
         "2026-11-07": 499.0,
-        "2026-11-08": 499.0
+        "2026-11-08": 499.0,
+        "2026-11-09": 499.0
       },
       "low_price": 499.0,
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "prev_price": 529.0,
       "prev_date": "2026-11-05"
     }

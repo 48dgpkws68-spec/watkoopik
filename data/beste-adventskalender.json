@@ -58,10 +58,11 @@
         "2026-11-05": 32.99,
         "2026-11-06": 32.99,
         "2026-11-07": 32.99,
-        "2026-11-08": 32.99
+        "2026-11-08": 32.99,
+        "2026-11-09": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "LEGO",
@@ -100,15 +101,16 @@
         "2026-11-05": 27.99,
         "2026-11-06": 27.99,
         "2026-11-07": 27.99,
-        "2026-11-08": 27.99
+        "2026-11-08": 27.99,
+        "2026-11-09": 27.99
       },
       "low_price": 27.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "LEGO",
       "name": "Friends Adventskalender 2026 (42698)",
-      "price": 18.99,
+      "price": 21.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "reviews op bol",
@@ -142,10 +144,13 @@
         "2026-11-05": 18.99,
         "2026-11-06": 18.99,
         "2026-11-07": 18.99,
-        "2026-11-08": 18.99
+        "2026-11-08": 18.99,
+        "2026-11-09": 21.99
       },
       "low_price": 18.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09",
+      "prev_price": 18.99,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "Yves Rocher",
@@ -184,10 +189,11 @@
         "2026-11-05": 56.99,
         "2026-11-06": 56.99,
         "2026-11-07": 56.99,
-        "2026-11-08": 56.99
+        "2026-11-08": 56.99,
+        "2026-11-09": 56.99
       },
       "low_price": 56.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "NIVEA",
@@ -223,10 +229,11 @@
         "2026-11-05": 71.99,
         "2026-11-06": 71.99,
         "2026-11-07": 71.99,
-        "2026-11-08": 71.99
+        "2026-11-08": 71.99,
+        "2026-11-09": 71.99
       },
       "low_price": 71.99,
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "bol_title": "NIVEA Adventskalender Vrouwen 2026 – Geschenkset met 24 Verzorgende NIVEA Mini’s en Accessoires - Giftset - Aftelkalender - Kerstkalender - Sint Cadeau",
       "url": "https://www.bol.com/nl/nl/p/nivea-adventskalender-vrouwen-2025-kerst-en-sinterklaas-geschenkset-met-24-verzorgende-nivea-mini-s-en-accessoires-kerstcadeau/9300000239540729/",
       "image": "https://media.s-bol.com/BZKvVNWQxvqJ/y8vVvn6/550x363.jpg"
@@ -234,7 +241,7 @@
     {
       "brand": "999 Games",
       "name": "EXIT Adventskalender: De Magie van Kerst",
-      "price": 39.99,
+      "price": 49.99,
       "score": 8.6,
       "label": null,
       "reviews": "reviews op bol",
@@ -268,12 +275,13 @@
         "2026-11-05": 39.99,
         "2026-11-06": 39.99,
         "2026-11-07": 39.99,
-        "2026-11-08": 39.99
+        "2026-11-08": 39.99,
+        "2026-11-09": 49.99
       },
       "low_price": 37.99,
-      "synced": "2026-11-08",
-      "prev_price": 37.99,
-      "prev_date": "2026-11-02"
+      "synced": "2026-11-09",
+      "prev_price": 39.99,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "Pukka",
@@ -312,17 +320,18 @@
         "2026-11-05": 13.85,
         "2026-11-06": 14.99,
         "2026-11-07": 13.85,
-        "2026-11-08": 14.99
+        "2026-11-08": 14.99,
+        "2026-11-09": 14.99
       },
       "low_price": 13.85,
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "prev_price": 13.85,
       "prev_date": "2026-11-07"
     },
     {
       "brand": "PLAYMOBIL",
       "name": "Christmas Adventskalender Op de Noordpool (72226)",
-      "price": 26.99,
+      "price": 37.47,
       "score": 8.3,
       "label": null,
       "reviews": "nieuw op bol",
@@ -353,15 +362,18 @@
         "2026-11-05": 26.99,
         "2026-11-06": 26.99,
         "2026-11-07": 26.99,
-        "2026-11-08": 26.99
+        "2026-11-08": 26.99,
+        "2026-11-09": 37.47
       },
       "low_price": 26.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09",
+      "prev_price": 26.99,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "waterdrop",
       "name": "Adventskalender Small 2026",
-      "price": 18.0,
+      "price": 21.99,
       "score": 8.2,
       "label": null,
       "reviews": "reviews op bol",
@@ -395,12 +407,13 @@
         "2026-11-05": 20.39,
         "2026-11-06": 18.0,
         "2026-11-07": 18.0,
-        "2026-11-08": 18.0
+        "2026-11-08": 18.0,
+        "2026-11-09": 21.99
       },
       "low_price": 18.0,
-      "synced": "2026-11-08",
-      "prev_price": 20.39,
-      "prev_date": "2026-11-05"
+      "synced": "2026-11-09",
+      "prev_price": 18.0,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "Tony's Chocolonely",
@@ -439,10 +452,11 @@
         "2026-11-05": 12.99,
         "2026-11-06": 12.99,
         "2026-11-07": 12.99,
-        "2026-11-08": 12.99
+        "2026-11-08": 12.99,
+        "2026-11-09": 12.99
       },
       "low_price": 12.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     }
   ],
   "guide": [

@@ -5,7 +5,7 @@ Formaat: slug | cat | query | titel | emoji
 # weekrapport 8 nov 2026: tv-accessoires, prullenbak, budget-smartphone en boxspring scoren (bol-orders + Umami-kliks); luchtreiniger-zoekvraag uit Search Console
 [ ] beste-tv-beugel | elektronica | tv muurbeugel | De 10 beste tv-muurbeugels van 2026 | 🔩
 [ ] beste-prullenbak | huishouden | prullenbak | De 10 beste prullenbakken van 2026 | 🗑️
-[ ] beste-tv-onder-200-euro | elektronica | tv onder 200 euro | De 10 beste tv's onder 200 euro van 2026 | 📺
+[x] beste-tv-onder-200-euro | elektronica | tv onder 200 euro | De 10 beste tv's onder 200 euro van 2026 | 📺
 [ ] beste-smartphone-onder-200-euro | telefoon | smartphone onder 200 euro | De 10 beste smartphones onder 200 euro van 2026 | 📱
 [ ] beste-elektrische-boxspring | slapen | elektrische boxspring | De 10 beste elektrische boxsprings van 2026 | 🛏️
 [ ] beste-luchtreiniger-huisstofmijt | wonen | luchtreiniger huisstofmijt | De 10 beste luchtreinigers tegen huisstofmijt van 2026 | 🌬️
@@ -14,7 +14,7 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-kunstkerstboom | wonen | kunstkerstboom | De 10 beste kunstkerstbomen van 2026 | 🎄
 [x] beste-tv-85-inch | elektronica | 85 inch tv | De 10 beste 85 inch tv's van 2026 | 📺
 [ ] beste-nintendo-switch | gaming | nintendo switch 2 console | De 10 beste Nintendo Switch-bundels van 2026 | 🎮
-[ ] beste-kerstverlichting-buiten | wonen | kerstverlichting buiten | De 10 beste kerstlampjes voor buiten van 2026 | ✨
+[x] beste-kerstverlichting-buiten | wonen | kerstverlichting buiten | De 10 beste kerstlampjes voor buiten van 2026 | ✨
 [ ] beste-gaming-tv | elektronica | gaming tv 120hz | De 10 beste gaming-tv's van 2026 | 🎮
 [ ] beste-robotstofzuiger-goedkoop | huishouden | robotstofzuiger goedkoop | De 10 beste goedkope robotstofzuigers van 2026 | 🤖
 [x] beste-kunstkerstboom-met-verlichting | wonen | kunstkerstboom met verlichting | De 10 beste kunstkerstbomen met verlichting van 2026 | 🎄
@@ -260,3 +260,10 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-elektrische-inbouwhaard | wonen | elektrische inbouwhaard | De 10 beste elektrische inbouwhaarden van 2026 | 🔥
 [x] beste-kerstcadeau-onder-25-euro | cadeaus | kerstcadeau onder 25 euro | De 10 beste kerstcadeaus onder 25 euro van 2026 | 🎁
 [x] beste-sinterklaascadeau-onder-50-euro | cadeaus | sinterklaascadeau | De 10 beste sinterklaascadeaus onder 50 euro van 2026 | 🎁
+
+# D3-toets groeimotor 9 nov 2026 (tools/bol_top_d3.py -> _src/d3_kandidaten.json, geen sitewijziging)
+# 32 gidsen hebben geen product in bol's top 100 op populariteit; 16 cadeaugidsen overgeslagen (brede zoekterm).
+# Van de 16 productgidsen geeft de zoekterm meestal ruis (accessoires, tv-boxen, kindertablets, laders), dus geen productfout.
+# Wél het toetsen waard voor de verbeterronde: espressomachine (bol nr. 1 Philips 2200 EP2220, maar dat is een volautomaat),
+# koelkast (Inventum KV1808B, CHiQ FBM157L42), koptelefoon-onder-100 (Sony MDR-ZX110), airfryer (Philips 3000 Dual NA35x ontbreekt, uit N17).
+# Ook: zoekterm van tv-voor-sport ("tv voor voetbal"), tv-onder-1000 en laptop-ouderen levert geen tv's/laptops op; bolpopulair-blok daar dus leeg (klopt).

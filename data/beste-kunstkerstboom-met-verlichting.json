@@ -51,10 +51,11 @@
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-natuurlijke-kunstkerstboom-bergen-pe-pvc-premium-smart-350-led-lampjes-210-cm-groen-1139-takken/9300000011835911/",
       "image": "https://media.s-bol.com/xMrRK8AvmYJ3/k5j77QN/550x573.jpg",
       "ph": {
-        "2026-11-08": 199.0
+        "2026-11-08": 199.0,
+        "2026-11-09": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Royal Christmas",
@@ -89,10 +90,11 @@
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-deluxe-kunstkerstboom-oslo-210cm-met-verlichting/9300000070124935/",
       "image": "https://media.s-bol.com/BZ7Ywop3K9yN/BgELVon/544x840.jpg",
       "ph": {
-        "2026-11-08": 359.0
+        "2026-11-08": 359.0,
+        "2026-11-09": 359.0
       },
       "low_price": 359.0,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Everlands",
@@ -126,15 +128,16 @@
       "url": "https://www.bol.com/nl/nl/p/everlands-grandis-fir-kunstkerstboom-180-cm-400-led-1564-takken/9300000053101724/",
       "image": "https://media.s-bol.com/7qmg5XJ9kxEB/pYL6NXr/550x785.jpg",
       "ph": {
-        "2026-11-08": 121.9
+        "2026-11-08": 121.9,
+        "2026-11-09": 121.9
       },
       "low_price": 121.9,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Royal Christmas",
       "name": "Alaska Premium smal 180 cm met 200 LED",
-      "price": 141.55,
+      "price": 149.0,
       "score": 8.7,
       "label": null,
       "reviews": "50+ reviews",
@@ -163,10 +166,13 @@
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-kunstkerstboom-alaska-slank-180-cm-met-led-verlichting-smart-adapter/9200000081062281/",
       "image": "https://media.s-bol.com/gmqXwlKw7QJl/BrEpL0N/550x498.jpg",
       "ph": {
-        "2026-11-08": 141.55
+        "2026-11-08": 141.55,
+        "2026-11-09": 149.0
       },
       "low_price": 141.55,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09",
+      "prev_price": 141.55,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "Triumph Tree",
@@ -200,10 +206,11 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-franse-kunstkerstboom-met-led-bristlecone-fir-maat-in-cm-215-x-127-donkergroen-met-240-warmwitte-led-lampjes-donkergroen/9200000030876997/",
       "image": "https://media.s-bol.com/3L53y2lKN0OR/gpNXVzj/493x840.jpg",
       "ph": {
-        "2026-11-08": 296.95
+        "2026-11-08": 296.95,
+        "2026-11-09": 296.95
       },
       "low_price": 296.95,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "PristinePine",
@@ -237,10 +244,11 @@
       "url": "https://www.bol.com/nl/nl/p/pristinepine-nordic-forist-fir-volle-kerstboom-met-led-verlichting-kunstkerstboom-inclusief-opbergtas-en-handschoenen-280-gekleurde-en-warm-witte-lampjes-bediening-via-app-180-cm/9300000184164154/",
       "image": "https://media.s-bol.com/38M1LqKD6rMr/j2NxqER/550x606.jpg",
       "ph": {
-        "2026-11-08": 169.95
+        "2026-11-08": 169.95,
+        "2026-11-09": 169.95
       },
       "low_price": 169.95,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Everlands",
@@ -274,10 +282,11 @@
       "url": "https://www.bol.com/nl/nl/p/kunst-kerstboom-imperial-pine-met-sneeuw-en-verlichting-180-cm-kunstbomen/9200000123071756/",
       "image": "https://media.s-bol.com/xL7EvQJEvl19/46WBNAx/486x840.jpg",
       "ph": {
-        "2026-11-08": 108.43
+        "2026-11-08": 108.43,
+        "2026-11-09": 108.43
       },
       "low_price": 108.43,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Black Box Trees",
@@ -311,10 +320,11 @@
       "url": "https://www.bol.com/nl/nl/p/black-box-trees-charlton-pilar-kerstboom-led-groen-warm-wit-120l-tips-280-en-timer-dimmer-h185xd53cm/9300000186169388/",
       "image": "https://media.s-bol.com/gz95gq240jYY/K1GZkY8/250x200.jpg",
       "ph": {
-        "2026-11-08": 49.99
+        "2026-11-08": 49.99,
+        "2026-11-09": 49.99
       },
       "low_price": 49.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "COSTWAY",
@@ -348,10 +358,11 @@
       "url": "https://www.bol.com/nl/nl/p/costway-kunstkerstboom-met-verlichting-en-afstandsbediening-150-cm-dennenboom-met-250-app-gestuurde-meerkleurige-rgb-lampen-pe-en-pvc-takken-kerstboom-kunstboom-kerstkunstboom-groen/9300000247978476/",
       "image": "https://media.s-bol.com/q1DZrK9B22rp/48jn9E2/550x571.jpg",
       "ph": {
-        "2026-11-08": 89.99
+        "2026-11-08": 89.99,
+        "2026-11-09": 89.99
       },
       "low_price": 89.99,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     },
     {
       "brand": "Black Box Trees",
@@ -385,10 +396,11 @@
       "url": "https://www.bol.com/nl/nl/p/black-box-trees-grimshaw-kunstkerstboom-met-led-verlichting-op-batterijen-en-timerfunctie-h120-x-o60-cm-groen/9300000233061439/",
       "image": "https://media.s-bol.com/rOl0wGMlK2vk/BNvL7xk/462x840.jpg",
       "ph": {
-        "2026-11-08": 40.49
+        "2026-11-08": 40.49,
+        "2026-11-09": 40.49
       },
       "low_price": 40.49,
-      "synced": "2026-11-08"
+      "synced": "2026-11-09"
     }
   ],
   "guide": [

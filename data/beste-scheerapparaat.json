@@ -21,7 +21,7 @@
     {
       "brand": "Philips",
       "name": "Series 9000 Prestige SP9883",
-      "price": 372.19,
+      "price": 362.0,
       "score": 9.4,
       "label": "Beste keuze",
       "reviews": "1.600+ reviews",
@@ -50,7 +50,7 @@
       "bol_title": "Philips Shaver S9000 Prestige Series SP9883/35 - Elektrisch scheerapparaat - Met uitklapbare trimmer - Neustrimmer opzetstuk - mannen",
       "url": "https://www.bol.com/nl/nl/p/philips-shaver-s9000-prestige-sp9883-35-scheerapparaat/9300000100760122/",
       "image": "https://media.s-bol.com/omvmOEjWM19X/YnAxz2/550x535.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-13": 372.19,
         "2026-10-14": 372.19,
@@ -77,11 +77,12 @@
         "2026-11-05": 356.18,
         "2026-11-06": 372.19,
         "2026-11-07": 372.19,
-        "2026-11-08": 372.19
+        "2026-11-08": 372.19,
+        "2026-11-09": 362.0
       },
       "low_price": 351.54,
-      "prev_price": 356.18,
-      "prev_date": "2026-11-05"
+      "prev_price": 372.19,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "Philips",
@@ -114,7 +115,7 @@
       "ean": "8720689029131",
       "url": "https://www.bol.com/nl/nl/p/philips-shaver-5000x-series-x5004-00-elektrisch-scheerapparaat-voor-nat-en-droog-scheren/9300000176100817/",
       "image": "https://media.s-bol.com/r30vKBmKZ6k2/GZ4gYlQ/550x562.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "bol_title": "Philips Series 5000X X5004/00 - Elektrisch Scheerapparaat - Nat & Droog - SkinProtect - Grijs/Zwart",
       "ph": {
         "2026-10-13": 73.85,
@@ -142,7 +143,8 @@
         "2026-11-05": 73.85,
         "2026-11-06": 73.85,
         "2026-11-07": 73.85,
-        "2026-11-08": 73.85
+        "2026-11-08": 73.85,
+        "2026-11-09": 73.85
       },
       "low_price": 65.18,
       "prev_price": 68.0,
@@ -180,7 +182,7 @@
       "bol_title": "Braun Series 9 Pro+ 9575cc - Scheerapparaat - SmartCare Center - PowerCase - Wet & Dry - Grafiet",
       "url": "https://www.bol.com/nl/nl/p/braun-series-9-pro-9575cc-scheerapparaat-smartcare-center-powercase-wet-dry-grafiet/9300000154505926/",
       "image": "https://media.s-bol.com/nVpBqB8BPmXD/wJ78Lg/550x783.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-13": 405.9,
         "2026-10-14": 405.9,
@@ -207,7 +209,8 @@
         "2026-11-05": 359.0,
         "2026-11-06": 359.0,
         "2026-11-07": 359.0,
-        "2026-11-08": 359.0
+        "2026-11-08": 359.0,
+        "2026-11-09": 359.0
       },
       "low_price": 359.0,
       "prev_price": 369.0,
@@ -245,7 +248,7 @@
       "bol_title": "Braun Series 7 71-S7200cc - Elektrisch Scheerapparaat Mannen - Met Precisietrimmer",
       "url": "https://www.bol.com/nl/nl/p/braun-series-7-71-s7200cc/9300000145992462/",
       "image": "https://media.s-bol.com/yNwZo1gZwRRR/y8MkO8W/550x546.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 229.0,
         "2026-10-16": 229.0,
@@ -270,14 +273,15 @@
         "2026-11-05": 229.0,
         "2026-11-06": 229.0,
         "2026-11-07": 229.0,
-        "2026-11-08": 229.0
+        "2026-11-08": 229.0,
+        "2026-11-09": 229.0
       },
       "low_price": 229.0
     },
     {
       "brand": "Philips",
       "name": "Series 7000 S7887",
-      "price": 126.0,
+      "price": 94.99,
       "score": 9.0,
       "label": null,
       "reviews": "1.800+ reviews",
@@ -305,7 +309,7 @@
       "ean": "8720689007832",
       "url": "https://www.bol.com/nl/nl/p/philips-shaver-7000-series-s7887-35-scheerapparaat/9300000139257684/",
       "image": "https://media.s-bol.com/qvvnGjQzgkG3/oQ4YoQk/550x567.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "bol_title": "Philips Shaver 7000 Series S7887/35 - Elektrisch scheerapparaat – met trimmer – mannen",
       "ph": {
         "2026-10-13": 124.0,
@@ -333,11 +337,12 @@
         "2026-11-05": 126.0,
         "2026-11-06": 126.0,
         "2026-11-07": 126.0,
-        "2026-11-08": 126.0
+        "2026-11-08": 126.0,
+        "2026-11-09": 94.99
       },
-      "low_price": 124.0,
-      "prev_price": 124.0,
-      "prev_date": "2026-11-04"
+      "low_price": 94.99,
+      "prev_price": 126.0,
+      "prev_date": "2026-11-08"
     },
     {
       "brand": "Panasonic",
@@ -370,7 +375,7 @@
       "bol_title": "Shaver Panasonic ES-LV69-S803",
       "url": "https://www.bol.com/nl/nl/p/panasonic-es-lv69-scheerapparaat-met-scheerblad-roestvrijstaal-zwart-zilver-batterij-accu-lithium-ion-50-min/9300000156606595/",
       "image": "https://media.s-bol.com/wzQYQz6J18Jg/9rz86mZ/550x544.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 152.0,
         "2026-10-16": 152.0,
@@ -395,7 +400,8 @@
         "2026-11-05": 152.0,
         "2026-11-06": 153.0,
         "2026-11-07": 152.0,
-        "2026-11-08": 153.0
+        "2026-11-08": 153.0,
+        "2026-11-09": 153.0
       },
       "low_price": 141.56,
       "prev_price": 152.0,
@@ -433,7 +439,7 @@
       "bol_title": "Philips Shaver Series 3000 S3243/12 – Nat & droog - Scheerapparaat voor mannen - met reisetui – Stormblauw",
       "url": "https://www.bol.com/nl/nl/p/philips-shaver-3000-series-elektrisch-scheerapparaat-nat-en-droog-scheren-philips-s3243-12/9300000154343857/",
       "image": "https://media.s-bol.com/oxxZmWLWlZkN/EqpYKmW/550x463.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 85.0,
         "2026-10-16": 85.0,
@@ -458,7 +464,8 @@
         "2026-11-05": 77.0,
         "2026-11-06": 76.5,
         "2026-11-07": 76.0,
-        "2026-11-08": 76.5
+        "2026-11-08": 76.5,
+        "2026-11-09": 76.5
       },
       "low_price": 75.7,
       "prev_price": 76.0,
@@ -496,7 +503,7 @@
       "bol_title": "Braun 51-M1200s Nat en Droog - Elektrisch Scheerapparaat",
       "url": "https://www.bol.com/nl/nl/p/braun-series-5-51-m1200s-scheerapparaat-met-scheerblad-trimmer-zwart-blauw/9300000116543311/",
       "image": "https://media.s-bol.com/8zOJy8pX6EpL/KOYAvAJ/550x507.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-13": 83.44,
         "2026-10-14": 83.44,
@@ -523,7 +530,8 @@
         "2026-11-05": 81.17,
         "2026-11-06": 77.11,
         "2026-11-07": 77.11,
-        "2026-11-08": 77.11
+        "2026-11-08": 77.11,
+        "2026-11-09": 77.11
       },
       "low_price": 77.11,
       "prev_price": 81.17,
@@ -561,7 +569,7 @@
       "bol_title": "Philips OneBlade Pro 360 QP6652/61 – baard- en lichaamstrimmer – 20 lengtestanden – 120 minuten gebruiksduur – nat & droog",
       "url": "https://www.bol.com/nl/nl/p/philips-oneblade-pro-360-qp6652-61-gezicht-en-lichaam/9300000177026091/",
       "image": "https://media.s-bol.com/k1m05Mqj4KDK/Q1yR9LG/550x549.jpg",
-      "synced": "2026-11-08",
+      "synced": "2026-11-09",
       "ph": {
         "2026-10-15": 87.99,
         "2026-10-16": 87.99,
@@ -586,7 +594,8 @@
         "2026-11-05": 87.29,
         "2026-11-06": 85.13,
         "2026-11-07": 84.56,
-        "2026-11-08": 87.82
+        "2026-11-08": 87.82,
+        "2026-11-09": 87.82
       },
       "low_price": 83.98,
       "prev_price": 84.56,
@@ -595,7 +604,7 @@
     {
       "brand": "Remington",
       "name": "X7 Limitless X XR1775",
-      "price": 96.2,
+      "price": 96.3,
       "score": 7.9,
       "label": null,
       "reviews": "nieuw op bol",
@@ -636,12 +645,13 @@
         "2026-11-05": 96.2,
         "2026-11-06": 96.2,
         "2026-11-07": 96.2,
-        "2026-11-08": 96.2
+        "2026-11-08": 96.2,
+        "2026-11-09": 96.3
       },
       "low_price": 96.2,
-      "synced": "2026-11-08",
-      "prev_price": 96.4,
-      "prev_date": "2026-11-04"
+      "synced": "2026-11-09",
+      "prev_price": 96.2,
+      "prev_date": "2026-11-08"
     }
   ],
   "guide": [
