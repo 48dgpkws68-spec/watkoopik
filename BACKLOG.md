@@ -42,7 +42,7 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-tv-85-inch | elektronica | 85 inch tv | De 10 beste 85 inch tv's van 2026 | 📺
 [ ] beste-nintendo-switch | gaming | nintendo switch 2 console | De 10 beste Nintendo Switch-bundels van 2026 | 🎮
 [x] beste-kerstverlichting-buiten | wonen | kerstverlichting buiten | De 10 beste kerstlampjes voor buiten van 2026 | ✨
-[ ] beste-gaming-tv | elektronica | gaming tv 120hz | De 10 beste gaming-tv's van 2026 | 🎮
+[x] beste-gaming-tv | elektronica | gaming tv 120hz | De 10 beste gaming-tv's van 2026 | 🎮
 [ ] beste-robotstofzuiger-goedkoop | huishouden | robotstofzuiger goedkoop | De 10 beste goedkope robotstofzuigers van 2026 | 🤖
 [x] beste-kunstkerstboom-met-verlichting | wonen | kunstkerstboom met verlichting | De 10 beste kunstkerstbomen met verlichting van 2026 | 🎄
 [ ] beste-xbox | gaming | xbox series console | De 10 beste Xbox-consoles en bundels van 2026 | 🎮
