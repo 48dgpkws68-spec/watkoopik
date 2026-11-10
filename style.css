@@ -517,6 +517,8 @@ section .wrap.narrow.rv{background:rgba(18,10,40,.5);border:1px solid var(--line
 .t3 b{font-size:.88rem;line-height:1.25;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .t3 em{font-style:normal;font-weight:700;font-size:.85rem;color:#3ee08f}
 @media (max-width:760px){.t3-row{grid-template-columns:minmax(0,1fr);gap:8px}.t3 img{width:48px;height:48px}}
+/* video-rij (N24): 6 kaarten, mobiel 2 kolommen */
+@media (max-width:760px){.t3-row.t3-vid{grid-template-columns:repeat(2,minmax(0,1fr))}.t3-vid .t3{padding:7px 8px;gap:8px}.t3-vid .t3 img{width:40px;height:40px}.t3-vid .t3 b{font-size:.82rem}.t3-vid .t3 em{font-size:.74rem}.t3-vid .t3 small{font-size:.68rem}}
 
 /* productfamilies (4 nov 2026): balk met alle gidsen van hetzelfde product, overzichten "Welke X kopen?" */
 .clnav{display:flex;flex-wrap:wrap;gap:7px;padding:12px 0 2px}

@@ -560,6 +560,29 @@ def top3card(i, g):
     return '<a class="t3" href="%s" data-umami-event="home-top3" data-umami-event-gids="%s" data-umami-event-positie="%d">%s<span><small>Nr. 1 %s</small><b>%s %s</b><em>%s</em></span></a>' % (
         g["url"], g["slug"], i + 1, ('<img src="%s" alt="" width="56" height="56">' % e(p["image"])) if p.get("image") else "", e(g["short"].lower()), e(p["brand"]), e(p["name"]), eur(p["price"]))
 top3 = '<div class="hero-top3"><span class="t3-lbl">Populair deze week</span><div class="t3-row">%s</div></div>' % "".join(top3card(i, g) for i, g in enumerate([g for g in popular if win(g).get("image")][:3]))
+# N24 (groeimotor 11 nov): wie na een video het domein intypt landt op home; toon daar de gidsen van de laatst geplaatste video's
+# (Instagram, TikTok, YouTube; laatste 3 dagen) in plaats van 'Populair deze week' (1 klik op 44 weergaven in 7 dagen).
+def _video_gidsen(n=6, dagen=3):
+    rows = []
+    for f in ("state_reel.json", "state_tt.json", "state_yt.json"):
+        try:
+            rows += json.load(open(os.path.join(ROOT, "..", "watkoopik-social", f), encoding="utf-8")).get("log", [])
+        except Exception:
+            pass
+    grens = (TODAY - datetime.timedelta(days=dagen)).isoformat()
+    out = []
+    for r in sorted(rows, key=lambda r: r.get("at", ""), reverse=True):
+        s = r.get("slug")
+        if not s or r.get("skip") or r.get("at", "") < grens or s not in _by_slug or _by_slug[s] in out: continue
+        if win(_by_slug[s]).get("image"): out.append(_by_slug[s])
+    return out[:n]
+def videocard(i, g):
+    return '<a class="t3" href="%s" data-umami-event="home-video" data-umami-event-gids="%s" data-umami-event-positie="%d"><img src="%s" alt="" width="56" height="56"><span><small>Uit onze video</small><b>%s</b><em>Bekijk de top 10 →</em></span></a>' % (
+        g["url"], g["slug"], i + 1, e(win(g)["image"]), e(g["short"]))
+_vg = _video_gidsen()
+if len(_vg) >= 3:
+    _vg = _vg[:6] if len(_vg) >= 6 else _vg[:3]
+    top3 = '<div class="hero-top3"><span class="t3-lbl">Net in onze video\'s</span><div class="t3-row t3-vid">%s</div></div>' % "".join(videocard(i, g) for i, g in enumerate(_vg))
 PALET = {"huishouden": ("#7c5cff", "#38e1ff"), "keuken": ("#ff7a3d", "#ff4fd8"), "verzorging": ("#ff4fd8", "#7c5cff"), "slapen": ("#3b5bff", "#38e1ff"),
          "elektronica": ("#00c2ff", "#7c5cff"), "wonen": ("#3ee08f", "#38e1ff"), "sport": ("#ffc65c", "#ff7a3d"), "kind": ("#ff8fb1", "#ffc65c"), "klussen": ("#ffc65c", "#3ee08f"),
          "computer": ("#38e1ff", "#3b5bff"), "telefoon": ("#7c5cff", "#ff4fd8")}
