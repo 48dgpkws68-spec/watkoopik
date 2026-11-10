@@ -24,7 +24,7 @@
     {
       "brand": "Philips",
       "name": "PureProtect 3200 AC3220/10",
-      "price": 270.05,
+      "price": 266.03,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -55,12 +55,13 @@
       "image": "https://media.s-bol.com/75GjXZGQDywy/D9LO0ox/547x840.jpg",
       "ph": {
         "2026-11-08": 266.03,
-        "2026-11-09": 270.05
+        "2026-11-09": 270.05,
+        "2026-11-10": 266.03
       },
       "low_price": 266.03,
-      "synced": "2026-11-09",
-      "prev_price": 266.03,
-      "prev_date": "2026-11-08"
+      "synced": "2026-11-10",
+      "prev_price": 270.05,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Vibrix",
@@ -96,10 +97,11 @@
       "image": "https://media.s-bol.com/vGYW3jYVq8MX/z6KRk08/550x550.jpg",
       "ph": {
         "2026-11-08": 129.0,
-        "2026-11-09": 129.0
+        "2026-11-09": 129.0,
+        "2026-11-10": 129.0
       },
       "low_price": 129.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Philips",
@@ -145,10 +147,11 @@
         "2026-11-06": 349.0,
         "2026-11-07": 349.0,
         "2026-11-08": 349.0,
-        "2026-11-09": 349.0
+        "2026-11-09": 349.0,
+        "2026-11-10": 349.0
       },
       "low_price": 349.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Coway",
@@ -196,10 +199,11 @@
         "2026-11-06": 124.99,
         "2026-11-07": 124.99,
         "2026-11-08": 124.99,
-        "2026-11-09": 124.99
+        "2026-11-09": 124.99,
+        "2026-11-10": 124.99
       },
       "low_price": 124.99,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Philips",
@@ -229,7 +233,7 @@
       "ideal": "Kleine slaapkamers waar weinig vloerruimte is maar je toch flink vermogen wilt.",
       "text": "De PureProtect Mini 900 is het kleine broertje in de Philips-lijn, maar dat merk je niet aan het vermogen. Met een CADR van 250 m³/u kan hij meer lucht verplaatsen dan veel grotere modellen. Voor een slaapkamer betekent dat: je kunt hem 's nachts op de laagste stand laten draaien en toch elke 10 tot 15 minuten alle lucht filteren. In de slaapstand meet Philips ongeveer 20 dB en gaat het display uit.\n\nHet ontwerp is smal en hoog, zodat hij weinig vloerruimte inneemt naast het bed of in een hoek. Het filter heeft twee lagen HEPA en vangt fijnstof, pollen en huisstof. Een koolfilter tegen geuren ontbreekt, dus wie in een slaapkamer aan een drukke straat slaapt, haalt daar minder winst. Een vervangfilter kost ongeveer 37 euro en gaat bij gewoon gebruik een jaar mee. Gebruikers prijzen de stilte en het nette ontwerp.",
       "ean": "8720389039416",
-      "bol_title": "Philips PureProtect Mini 900-serie Luchtreiniger AC0921/14",
+      "bol_title": "Philips Luchtreiniger PureProtect Mini AC0921/14 - Tegen Hooikoorts, Huisstofmijt, Stof en Allergie - HEPA Filter - Ruimtes tot 65 m² - Fluisterstil met Slaapstand - Automatische Stand - Luchtkwaliteitsindicator - Beige",
       "url": "https://www.bol.com/nl/nl/p/philips-pureprotect-mini-900-serie-luchtzuiveraar-ac0921-14/9300000186181889/",
       "image": "https://media.s-bol.com/NqvN0nkJDBPL/xvE01mJ/476x840.jpg",
       "ph": {
@@ -247,17 +251,18 @@
         "2026-11-06": 99.99,
         "2026-11-07": 99.99,
         "2026-11-08": 99.99,
-        "2026-11-09": 99.99
+        "2026-11-09": 99.99,
+        "2026-11-10": 99.99
       },
       "low_price": 99.99,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 120.63,
       "prev_date": "2026-11-05"
     },
     {
       "brand": "Levoit",
       "name": "Vital 200S Pro",
-      "price": 255.71,
+      "price": 257.13,
       "score": 8.7,
       "label": null,
       "reviews": "Nieuw op bol",
@@ -300,10 +305,13 @@
         "2026-11-06": 255.71,
         "2026-11-07": 255.71,
         "2026-11-08": 255.71,
-        "2026-11-09": 255.71
+        "2026-11-09": 255.71,
+        "2026-11-10": 257.13
       },
       "low_price": 255.71,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10",
+      "prev_price": 255.71,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Philips",
@@ -351,10 +359,11 @@
         "2026-11-06": 63.99,
         "2026-11-07": 63.99,
         "2026-11-08": 63.99,
-        "2026-11-09": 63.99
+        "2026-11-09": 63.99,
+        "2026-11-10": 63.99
       },
       "low_price": 63.99,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 80.0,
       "prev_date": "2026-11-05"
     },
@@ -404,10 +413,11 @@
         "2026-11-06": 74.99,
         "2026-11-07": 74.99,
         "2026-11-08": 74.99,
-        "2026-11-09": 74.99
+        "2026-11-09": 74.99,
+        "2026-11-10": 74.99
       },
       "low_price": 74.99,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 95.79,
       "prev_date": "2026-11-05"
     },
@@ -457,10 +467,11 @@
         "2026-11-06": 79.95,
         "2026-11-07": 79.95,
         "2026-11-08": 79.95,
-        "2026-11-09": 79.95
+        "2026-11-09": 79.95,
+        "2026-11-10": 79.95
       },
       "low_price": 79.95,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 89.95,
       "prev_date": "2026-11-02"
     },
@@ -510,10 +521,11 @@
         "2026-11-06": 79.99,
         "2026-11-07": 79.99,
         "2026-11-08": 79.99,
-        "2026-11-09": 79.99
+        "2026-11-09": 79.99,
+        "2026-11-10": 79.99
       },
       "low_price": 79.99,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     }
   ],
   "guide": [

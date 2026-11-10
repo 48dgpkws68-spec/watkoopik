@@ -24,7 +24,7 @@
     {
       "brand": "Philips",
       "name": "Wake-up Light HF3531/01",
-      "price": 128.65,
+      "price": 126.94,
       "score": 9.2,
       "label": "Beste keuze",
       "oneliner": "Wekker die je wakker maakt met langzaam opkomend licht.",
@@ -67,12 +67,13 @@
         "2026-11-06": 135.44,
         "2026-11-07": 139.36,
         "2026-11-08": 135.0,
-        "2026-11-09": 128.65
+        "2026-11-09": 128.65,
+        "2026-11-10": 126.94
       },
-      "low_price": 128.65,
-      "synced": "2026-11-09",
-      "prev_price": 135.0,
-      "prev_date": "2026-11-08"
+      "low_price": 126.94,
+      "synced": "2026-11-10",
+      "prev_price": 128.65,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Denver",
@@ -120,10 +121,11 @@
         "2026-11-06": 63.82,
         "2026-11-07": 63.82,
         "2026-11-08": 63.82,
-        "2026-11-09": 63.82
+        "2026-11-09": 63.82,
+        "2026-11-10": 63.82
       },
       "low_price": 63.0,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "reviews": "reviews op bol",
       "prev_price": 63.0,
       "prev_date": "2026-11-02"
@@ -174,10 +176,11 @@
         "2026-11-06": 169.0,
         "2026-11-07": 169.0,
         "2026-11-08": 169.0,
-        "2026-11-09": 169.0
+        "2026-11-09": 169.0,
+        "2026-11-10": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "reviews": "reviews op bol",
       "prev_price": 169.99,
       "prev_date": "2026-10-24"
@@ -185,7 +188,7 @@
     {
       "brand": "De'Longhi",
       "name": "Nespresso Citiz EN167.B",
-      "price": 131.0,
+      "price": 124.0,
       "score": 8.7,
       "label": null,
       "oneliner": "Retro cupmachine voor espresso en lungo.",
@@ -228,13 +231,14 @@
         "2026-11-06": 135.99,
         "2026-11-07": 131.0,
         "2026-11-08": 131.0,
-        "2026-11-09": 131.0
+        "2026-11-09": 131.0,
+        "2026-11-10": 124.0
       },
-      "low_price": 126.96,
-      "synced": "2026-11-09",
+      "low_price": 124.0,
+      "synced": "2026-11-10",
       "reviews": "reviews op bol",
-      "prev_price": 135.99,
-      "prev_date": "2026-11-06"
+      "prev_price": 131.0,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Beurer",
@@ -282,10 +286,11 @@
         "2026-11-06": 47.38,
         "2026-11-07": 47.38,
         "2026-11-08": 47.38,
-        "2026-11-09": 47.38
+        "2026-11-09": 47.38,
+        "2026-11-10": 47.38
       },
       "low_price": 47.38,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "reviews": "reviews op bol"
     },
     {
@@ -334,10 +339,11 @@
         "2026-11-06": 39.0,
         "2026-11-07": 39.0,
         "2026-11-08": 39.0,
-        "2026-11-09": 39.0
+        "2026-11-09": 39.0,
+        "2026-11-10": 39.0
       },
       "low_price": 39.0,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "reviews": "reviews op bol",
       "prev_price": 47.0,
       "prev_date": "2026-11-05"
@@ -345,7 +351,7 @@
     {
       "brand": "Philips Hue",
       "name": "Essential starterkit E27 met Bridge en 2 lampen",
-      "price": 82.0,
+      "price": 84.0,
       "score": 8.5,
       "label": null,
       "oneliner": "Slimme lampen die je met app of schakelaar bedient.",
@@ -388,13 +394,14 @@
         "2026-11-06": 90.0,
         "2026-11-07": 90.0,
         "2026-11-08": 82.0,
-        "2026-11-09": 82.0
+        "2026-11-09": 82.0,
+        "2026-11-10": 84.0
       },
       "low_price": 63.91,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "reviews": "reviews op bol",
-      "prev_price": 90.0,
-      "prev_date": "2026-11-07"
+      "prev_price": 82.0,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Philips",
@@ -442,10 +449,11 @@
         "2026-11-06": 96.0,
         "2026-11-07": 96.0,
         "2026-11-08": 96.0,
-        "2026-11-09": 96.0
+        "2026-11-09": 96.0,
+        "2026-11-10": 96.0
       },
       "low_price": 96.0,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "reviews": "reviews op bol",
       "prev_price": 106.0,
       "prev_date": "2026-10-28"
@@ -453,7 +461,7 @@
     {
       "brand": "SMEG",
       "name": "KLF05CREU mini waterkoker 0,8 l",
-      "price": 95.99,
+      "price": 92.0,
       "score": 8.2,
       "label": null,
       "oneliner": "Kleine retro-waterkoker voor een of twee koppen thee.",
@@ -496,13 +504,14 @@
         "2026-11-06": 92.0,
         "2026-11-07": 92.0,
         "2026-11-08": 92.0,
-        "2026-11-09": 95.99
+        "2026-11-09": 95.99,
+        "2026-11-10": 92.0
       },
       "low_price": 92.0,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "reviews": "reviews op bol",
-      "prev_price": 92.0,
-      "prev_date": "2026-11-08"
+      "prev_price": 95.99,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "JBL",
@@ -550,10 +559,11 @@
         "2026-11-06": 45.95,
         "2026-11-07": 45.95,
         "2026-11-08": 45.95,
-        "2026-11-09": 45.95
+        "2026-11-09": 45.95,
+        "2026-11-10": 45.95
       },
       "low_price": 45.95,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "reviews": "reviews op bol"
     }
   ],

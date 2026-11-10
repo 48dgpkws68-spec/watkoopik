@@ -25,7 +25,7 @@
     {
       "brand": "LG",
       "name": "C5 OLED65C56LB",
-      "price": 1366.65,
+      "price": 1366.63,
       "score": 9.4,
       "label": "Beste keuze",
       "reviews": "bol-score 4,8 van 5",
@@ -54,10 +54,13 @@
       "url": "https://www.bol.com/nl/nl/p/lg-c5-oled65c56lb-65-inch-4k-oled-evo-2025/9300000229413534/",
       "image": "https://media.s-bol.com/Kn1Xy9rXxN3z/D98x0D6/550x338.jpg",
       "ph": {
-        "2026-11-09": 1366.65
+        "2026-11-09": 1366.65,
+        "2026-11-10": 1366.63
       },
-      "low_price": 1366.65,
-      "synced": "2026-11-09"
+      "low_price": 1366.63,
+      "synced": "2026-11-10",
+      "prev_price": 1366.65,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Sony",
@@ -93,15 +96,16 @@
       "image": "https://media.s-bol.com/J3r7Epkz6Gw2/464lVG6/550x381.jpg",
       "ph": {
         "2026-11-08": 1999.0,
-        "2026-11-09": 1999.0
+        "2026-11-09": 1999.0,
+        "2026-11-10": 1999.0
       },
       "low_price": 1999.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Samsung",
       "name": "QE65S93H",
-      "price": 1655.0,
+      "price": 1599.0,
       "score": 9.1,
       "label": null,
       "reviews": "nieuw model",
@@ -131,10 +135,13 @@
       "image": "https://media.s-bol.com/5N46YxLVw6vx/J8zpX42/550x345.jpg",
       "ph": {
         "2026-11-08": 1655.0,
-        "2026-11-09": 1655.0
+        "2026-11-09": 1655.0,
+        "2026-11-10": 1599.0
       },
-      "low_price": 1655.0,
-      "synced": "2026-11-09"
+      "low_price": 1599.0,
+      "synced": "2026-11-10",
+      "prev_price": 1655.0,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "TCL",
@@ -168,15 +175,16 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-65q7d-pro-65-inch-4k-qd-miniled-2026-smart-tv/9300000273452843/",
       "image": "https://media.s-bol.com/Y36zpnxG0MMK/57nljRX/550x330.jpg",
       "ph": {
-        "2026-11-09": 999.0
+        "2026-11-09": 999.0,
+        "2026-11-10": 999.0
       },
       "low_price": 999.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Samsung",
       "name": "UE65M82H",
-      "price": 815.0,
+      "price": 799.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,0 van 5",
@@ -206,12 +214,13 @@
       "image": "https://media.s-bol.com/90v771AWloqZ/DqW34V5/550x336.jpg",
       "ph": {
         "2026-11-08": 799.0,
-        "2026-11-09": 815.0
+        "2026-11-09": 815.0,
+        "2026-11-10": 799.0
       },
       "low_price": 799.0,
-      "synced": "2026-11-09",
-      "prev_price": 799.0,
-      "prev_date": "2026-11-08"
+      "synced": "2026-11-10",
+      "prev_price": 815.0,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Samsung",
@@ -246,10 +255,11 @@
       "image": "https://media.s-bol.com/JmBMkZ4rwVXl/mQm9pLG/550x334.jpg",
       "ph": {
         "2026-11-08": 1049.0,
-        "2026-11-09": 1049.0
+        "2026-11-09": 1049.0,
+        "2026-11-10": 1049.0
       },
       "low_price": 1049.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "TCL",
@@ -284,10 +294,11 @@
       "image": "https://media.s-bol.com/3LPLn3J8XJox/57V7KNR/550x340.jpg",
       "ph": {
         "2026-11-08": 949.0,
-        "2026-11-09": 949.0
+        "2026-11-09": 949.0,
+        "2026-11-10": 949.0
       },
       "low_price": 949.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "TCL",
@@ -322,10 +333,11 @@
       "image": "https://media.s-bol.com/7P8q7gM2JPPO/lxjvRB6/550x333.jpg",
       "ph": {
         "2026-11-08": 899.0,
-        "2026-11-09": 899.0
+        "2026-11-09": 899.0,
+        "2026-11-10": 899.0
       },
       "low_price": 899.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Philips",
@@ -360,10 +372,11 @@
       "image": "https://media.s-bol.com/n4VM1wRElAYP/oYOnqlL/550x358.jpg",
       "ph": {
         "2026-11-08": 799.0,
-        "2026-11-09": 799.0
+        "2026-11-09": 799.0,
+        "2026-11-10": 799.0
       },
       "low_price": 799.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Hisense",
@@ -398,10 +411,11 @@
       "image": "https://media.s-bol.com/B3p8xXVvD4Mx/lR8w8El/550x369.jpg",
       "ph": {
         "2026-11-08": 669.0,
-        "2026-11-09": 669.0
+        "2026-11-09": 669.0,
+        "2026-11-10": 669.0
       },
       "low_price": 669.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     }
   ],
   "guide": [

@@ -52,10 +52,11 @@
       "image": "https://media.s-bol.com/xMrRK8AvmYJ3/k5j77QN/550x573.jpg",
       "ph": {
         "2026-11-08": 199.0,
-        "2026-11-09": 199.0
+        "2026-11-09": 199.0,
+        "2026-11-10": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Royal Christmas",
@@ -91,15 +92,16 @@
       "image": "https://media.s-bol.com/BZ7Ywop3K9yN/BgELVon/544x840.jpg",
       "ph": {
         "2026-11-08": 359.0,
-        "2026-11-09": 359.0
+        "2026-11-09": 359.0,
+        "2026-11-10": 359.0
       },
       "low_price": 359.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Everlands",
       "name": "Grandis Fir 180 cm met 400 LED",
-      "price": 121.9,
+      "price": 121.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "120+ reviews",
@@ -129,10 +131,13 @@
       "image": "https://media.s-bol.com/7qmg5XJ9kxEB/pYL6NXr/550x785.jpg",
       "ph": {
         "2026-11-08": 121.9,
-        "2026-11-09": 121.9
+        "2026-11-09": 121.9,
+        "2026-11-10": 121.0
       },
-      "low_price": 121.9,
-      "synced": "2026-11-09"
+      "low_price": 121.0,
+      "synced": "2026-11-10",
+      "prev_price": 121.9,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Royal Christmas",
@@ -167,17 +172,18 @@
       "image": "https://media.s-bol.com/gmqXwlKw7QJl/BrEpL0N/550x498.jpg",
       "ph": {
         "2026-11-08": 141.55,
-        "2026-11-09": 149.0
+        "2026-11-09": 149.0,
+        "2026-11-10": 149.0
       },
       "low_price": 141.55,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 141.55,
       "prev_date": "2026-11-08"
     },
     {
       "brand": "Triumph Tree",
       "name": "Bristlecone 215 cm met 240 LED",
-      "price": 296.95,
+      "price": 327.0,
       "score": 8.6,
       "label": null,
       "reviews": "30+ reviews",
@@ -207,10 +213,13 @@
       "image": "https://media.s-bol.com/3L53y2lKN0OR/gpNXVzj/493x840.jpg",
       "ph": {
         "2026-11-08": 296.95,
-        "2026-11-09": 296.95
+        "2026-11-09": 296.95,
+        "2026-11-10": 327.0
       },
       "low_price": 296.95,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10",
+      "prev_price": 296.95,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "PristinePine",
@@ -245,15 +254,16 @@
       "image": "https://media.s-bol.com/38M1LqKD6rMr/j2NxqER/550x606.jpg",
       "ph": {
         "2026-11-08": 169.95,
-        "2026-11-09": 169.95
+        "2026-11-09": 169.95,
+        "2026-11-10": 169.95
       },
       "low_price": 169.95,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Everlands",
       "name": "Imperial Pine 180 cm met sneeuw en 260 LED",
-      "price": 108.43,
+      "price": 103.95,
       "score": 8.3,
       "label": null,
       "reviews": "40+ reviews",
@@ -283,10 +293,13 @@
       "image": "https://media.s-bol.com/xL7EvQJEvl19/46WBNAx/486x840.jpg",
       "ph": {
         "2026-11-08": 108.43,
-        "2026-11-09": 108.43
+        "2026-11-09": 108.43,
+        "2026-11-10": 103.95
       },
-      "low_price": 108.43,
-      "synced": "2026-11-09"
+      "low_price": 103.95,
+      "synced": "2026-11-10",
+      "prev_price": 108.43,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Black Box Trees",
@@ -321,10 +334,11 @@
       "image": "https://media.s-bol.com/gz95gq240jYY/K1GZkY8/250x200.jpg",
       "ph": {
         "2026-11-08": 49.99,
-        "2026-11-09": 49.99
+        "2026-11-09": 49.99,
+        "2026-11-10": 49.99
       },
       "low_price": 49.99,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "COSTWAY",
@@ -359,15 +373,16 @@
       "image": "https://media.s-bol.com/q1DZrK9B22rp/48jn9E2/550x571.jpg",
       "ph": {
         "2026-11-08": 89.99,
-        "2026-11-09": 89.99
+        "2026-11-09": 89.99,
+        "2026-11-10": 89.99
       },
       "low_price": 89.99,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Black Box Trees",
       "name": "Grimshaw 120 cm met LED op batterijen",
-      "price": 40.49,
+      "price": 44.29,
       "score": 7.9,
       "label": null,
       "reviews": "30+ reviews",
@@ -397,10 +412,13 @@
       "image": "https://media.s-bol.com/rOl0wGMlK2vk/BNvL7xk/462x840.jpg",
       "ph": {
         "2026-11-08": 40.49,
-        "2026-11-09": 40.49
+        "2026-11-09": 40.49,
+        "2026-11-10": 44.29
       },
       "low_price": 40.49,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10",
+      "prev_price": 40.49,
+      "prev_date": "2026-11-09"
     }
   ],
   "guide": [

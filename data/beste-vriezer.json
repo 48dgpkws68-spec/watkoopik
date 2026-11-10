@@ -23,7 +23,7 @@
     {
       "brand": "Bosch",
       "name": "GSN33VWEP Serie 4",
-      "price": 679.0,
+      "price": 695.93,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "640+ reviews",
@@ -51,7 +51,7 @@
       "bol_title": "Bosch GSN33VWEP - Vriezer",
       "url": "https://www.bol.com/nl/nl/p/bosch-vriezer-gsn33vwep/9300000008073976/",
       "image": "https://media.s-bol.com/VVm2Jp4AL2jo/W6qxmDn/330x840.jpg",
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "ph": {
         "2026-10-16": 699.0,
         "2026-10-17": 683.9,
@@ -76,11 +76,12 @@
         "2026-11-06": 722.32,
         "2026-11-07": 679.0,
         "2026-11-08": 679.0,
-        "2026-11-09": 679.0
+        "2026-11-09": 679.0,
+        "2026-11-10": 695.93
       },
       "low_price": 679.0,
-      "prev_price": 722.32,
-      "prev_date": "2026-11-06"
+      "prev_price": 679.0,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Etna",
@@ -112,8 +113,8 @@
       "ean": "8715393336941",
       "bol_title": "ETNA VV6143NWIT - Vrijstaande vriezer - Geschikt voor schuur tot -15°C - No-Frost - 143 cm hoog - Wit - Energielabel E - FastFreeze - Deuralarm",
       "url": "https://www.bol.com/nl/nl/p/etna-vv6143nwit-vriezer-wit/9300000039384600/",
-      "image": "https://media.s-bol.com/W33V4wy1ZmMv/lR9DNR5/550x820.jpg",
-      "synced": "2026-11-09",
+      "image": "https://media.s-bol.com/6YRDO9PyxVR7/k5WAr4J/522x840.jpg",
+      "synced": "2026-11-10",
       "ph": {
         "2026-10-16": 369.0,
         "2026-10-17": 369.0,
@@ -138,7 +139,8 @@
         "2026-11-06": 359.0,
         "2026-11-07": 346.0,
         "2026-11-08": 346.0,
-        "2026-11-09": 346.0
+        "2026-11-09": 346.0,
+        "2026-11-10": 346.0
       },
       "low_price": 346.0,
       "prev_price": 359.0,
@@ -175,7 +177,7 @@
       "bol_title": "SAMSUNG RZ32C7BEES9 323L 1-deurs vriezer WiFi",
       "url": "https://www.bol.com/nl/nl/p/samsung-rz32c7bees9-323l-1-deurs-vriezer-wifi/9300000163441830/",
       "image": "https://media.s-bol.com/EVRVB3nNLM2v/ERxj5MW/271x840.jpg",
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "ph": {
         "2026-10-16": 849.0,
         "2026-10-17": 849.0,
@@ -200,7 +202,8 @@
         "2026-11-06": 849.0,
         "2026-11-07": 849.0,
         "2026-11-08": 849.0,
-        "2026-11-09": 849.0
+        "2026-11-09": 849.0,
+        "2026-11-10": 849.0
       },
       "low_price": 849.0
     },
@@ -247,10 +250,11 @@
         "2026-11-06": 499.0,
         "2026-11-07": 499.0,
         "2026-11-08": 499.0,
-        "2026-11-09": 499.0
+        "2026-11-09": 499.0,
+        "2026-11-10": 499.0
       },
       "low_price": 499.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Beko",
@@ -283,7 +287,7 @@
       "bol_title": "Beko FNE1074N No Frost Tafelmodel Vriezer – 86L – Geschikt voor Schuur/Garage tot -15°C – Wit",
       "url": "https://www.bol.com/nl/nl/p/beko-fne1074n-nofrost-tafelmodel-vriezer/9300000152585371/",
       "image": "https://media.s-bol.com/RJA3l6oVK6gV/xk2r6BJ/539x840.jpg",
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "ph": {
         "2026-10-16": 329.0,
         "2026-10-17": 329.0,
@@ -308,7 +312,8 @@
         "2026-11-06": 319.0,
         "2026-11-07": 319.0,
         "2026-11-08": 319.0,
-        "2026-11-09": 319.0
+        "2026-11-09": 319.0,
+        "2026-11-10": 319.0
       },
       "low_price": 310.23,
       "prev_price": 310.23,
@@ -317,7 +322,7 @@
     {
       "brand": "Inventum",
       "name": "VR550",
-      "price": 239.0,
+      "price": 244.0,
       "score": 8.1,
       "label": null,
       "reviews": "410+ reviews",
@@ -345,7 +350,7 @@
       "bol_title": "Inventum VR550 tafelmodel vriezer 88 liter - 55 cm breed - Energielabel D - Diepvries - Compact - Vrijstaand - 3 lades - Wit",
       "url": "https://www.bol.com/nl/nl/p/inventum-vr550-tafelmodel-vriezer-vrijstaand-88-liter-wit/9200000041901846/",
       "image": "https://media.s-bol.com/RxLkg5y8X5wY/l5vLNNJ/550x837.jpg",
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "ph": {
         "2026-10-16": 249.0,
         "2026-10-17": 249.0,
@@ -370,11 +375,12 @@
         "2026-11-06": 245.0,
         "2026-11-07": 239.0,
         "2026-11-08": 245.0,
-        "2026-11-09": 239.0
+        "2026-11-09": 239.0,
+        "2026-11-10": 244.0
       },
       "low_price": 233.03,
-      "prev_price": 245.0,
-      "prev_date": "2026-11-08"
+      "prev_price": 239.0,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Whirlpool",
@@ -418,10 +424,11 @@
         "2026-11-06": 449.0,
         "2026-11-07": 449.0,
         "2026-11-08": 449.0,
-        "2026-11-09": 449.0
+        "2026-11-09": 449.0,
+        "2026-11-10": 449.0
       },
       "low_price": 449.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Inventum",
@@ -463,10 +470,11 @@
         "2026-11-06": 449.0,
         "2026-11-07": 449.0,
         "2026-11-08": 449.0,
-        "2026-11-09": 449.0
+        "2026-11-09": 449.0,
+        "2026-11-10": 449.0
       },
       "low_price": 449.0,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 474.0,
       "prev_date": "2026-11-01"
     },
@@ -501,7 +509,7 @@
       "bol_title": "AEG OAG7M281EW NoFrost - Vriezer - Vrieskast - Vrijstaand",
       "url": "https://www.bol.com/nl/nl/p/aeg-oag7m281ew-nofrost-vriezer-vrieskast-vrijstaand/9300000169616947/",
       "image": "https://media.s-bol.com/qmWYB6OQn4Kr/qwv7Er/275x840.jpg",
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "ph": {
         "2026-10-16": 779.0,
         "2026-10-17": 779.0,
@@ -526,7 +534,8 @@
         "2026-11-06": 779.0,
         "2026-11-07": 779.0,
         "2026-11-08": 779.0,
-        "2026-11-09": 779.0
+        "2026-11-09": 779.0,
+        "2026-11-10": 779.0
       },
       "low_price": 779.0
     },
@@ -561,7 +570,7 @@
       "bol_title": "Beko RFNE448E45W - NoFrost- Vriezer",
       "url": "https://www.bol.com/nl/nl/p/beko-rfne448e45w-vriezer/9300000014962045/",
       "image": "https://media.s-bol.com/gxGr6qyE7463/l5JRpQg/314x840.jpg",
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "ph": {
         "2026-10-16": 699.0,
         "2026-10-17": 699.0,
@@ -586,7 +595,8 @@
         "2026-11-06": 698.54,
         "2026-11-07": 700.89,
         "2026-11-08": 700.89,
-        "2026-11-09": 700.9
+        "2026-11-09": 700.9,
+        "2026-11-10": 700.9
       },
       "low_price": 675.0,
       "prev_price": 698.54,

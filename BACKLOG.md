@@ -5,8 +5,8 @@ Formaat: slug | cat | query | titel | emoji
 # SEIZOEN cadeaufase 9 nov 2026 (Nick: nu vooral speelgoed en veelgegeven cadeaus, Sinterklaas + kerst; kalender in ../groeimotor/seizoen.py)
 # Tot en met 18 nov: van elke 3 gidsen 2 uit dit blok en 1 dure Black Friday-gids uit het blok 'groeimotor 5 nov 2026 (D1)' (gemiddelde prijs vanaf 250 euro), zodat die vóór 27 nov geïndexeerd zijn.
 [x] beste-cadeau-3-jarige | speelgoed | speelgoed 3 jaar | De 10 beste cadeaus voor 3-jarigen van 2026 | 🧸
-[ ] beste-cadeau-5-jarige | speelgoed | speelgoed 5 jaar | De 10 beste cadeaus voor 5-jarigen van 2026 | 🧸
-[ ] beste-lego | speelgoed | lego | De 10 beste LEGO-sets van 2026 | 🧱
+[x] beste-cadeau-5-jarige | speelgoed | speelgoed 5 jaar | De 10 beste cadeaus voor 5-jarigen van 2026 | 🧸
+[x] beste-lego | speelgoed | lego | De 10 beste LEGO-sets van 2026 | 🧱
 [ ] beste-cadeau-8-jarige | speelgoed | speelgoed 8 jaar | De 10 beste cadeaus voor 8-jarigen van 2026 | 🎁
 [ ] beste-bordspel | speelgoed | bordspel | De 10 beste bordspellen van 2026 | 🎲
 [ ] beste-sinterklaas-schoencadeautjes | cadeaus | schoencadeautjes sinterklaas | De 10 beste schoencadeautjes voor Sinterklaas van 2026 | 👟

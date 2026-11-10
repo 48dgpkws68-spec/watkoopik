@@ -53,10 +53,11 @@
       "url": "https://www.bol.com/nl/nl/p/cluster-lights-1128led-10m-classic-warm-lumineo-494693/9200000053063247/",
       "image": "https://media.s-bol.com/grqyY10mWxl/VOozRM5/550x822.jpg",
       "ph": {
-        "2026-11-09": 32.95
+        "2026-11-09": 32.95,
+        "2026-11-10": 32.95
       },
       "low_price": 32.95,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Philips Hue",
@@ -91,15 +92,16 @@
       "url": "https://www.bol.com/nl/nl/p/philips-hue-festavia-lichtsnoer-20-meter-250-led-s/9300000156443170/",
       "image": "https://media.s-bol.com/PwEm56P324qA/Nk26mG8/550x604.jpg",
       "ph": {
-        "2026-11-09": 181.0
+        "2026-11-09": 181.0,
+        "2026-11-10": 181.0
       },
       "low_price": 181.0,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Anna's Collection",
       "name": "Clusterverlichting 1152 LED 15 meter warm wit",
-      "price": 31.63,
+      "price": 24.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "4,2 sterren op bol",
@@ -128,10 +130,13 @@
       "url": "https://www.bol.com/nl/nl/p/1x-clusterverlichting-met-timer-en-dimmer-1152-leds-warm-wit-15-m/9200000081533698/",
       "image": "https://media.s-bol.com/ZrwGrDJmvL0g/QkA7x2Z/550x428.jpg",
       "ph": {
-        "2026-11-09": 31.63
+        "2026-11-09": 31.63,
+        "2026-11-10": 24.99
       },
-      "low_price": 31.63,
-      "synced": "2026-11-09"
+      "low_price": 24.99,
+      "synced": "2026-11-10",
+      "prev_price": 31.63,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Twinkly",
@@ -165,10 +170,11 @@
       "url": "https://www.bol.com/nl/nl/p/twinkly-strings-lichtsnoer-20-meter-led-verlichting-250led-rgb-dimbaar-binnen-buiten-verbind-met-bluetooth-of-wifi-werkt-met-homekit-homey-alexa-google-home-en-razer-chroma/9300000014587358/",
       "image": "https://media.s-bol.com/gWw0zB6OAYPl/kRMNWQE/550x525.jpg",
       "ph": {
-        "2026-11-09": 98.39
+        "2026-11-09": 98.39,
+        "2026-11-10": 98.39
       },
       "low_price": 98.39,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Springos",
@@ -202,10 +208,11 @@
       "url": "https://www.bol.com/nl/nl/p/springos-ijspegel-verlichting-buiten-ijspegel-verlichting-kerstverlichting-buiten-20-m-2-5-m-snoer-connectable-500-led-warm-wit/9300000061871025/",
       "image": "https://media.s-bol.com/YXoZ68NWwG0K/DYKDx5/550x526.jpg",
       "ph": {
-        "2026-11-09": 49.95
+        "2026-11-09": 49.95,
+        "2026-11-10": 49.95
       },
       "low_price": 49.95,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Konstsmide",
@@ -240,10 +247,11 @@
       "url": "https://www.bol.com/nl/nl/p/konstsmide-lichtsnoer-extra-warm/9200000101105860/",
       "image": "https://media.s-bol.com/OwKrmAznqlGR/D9kQ3ox/546x840.jpg",
       "ph": {
-        "2026-11-09": 59.1
+        "2026-11-09": 59.1,
+        "2026-11-10": 59.1
       },
       "low_price": 59.1,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "EverNeeds",
@@ -278,10 +286,11 @@
       "url": "https://www.bol.com/nl/nl/p/everneeds-lichtsnoer-voor-buiten-met-dimfunctie-lichtslinger-25-led-10-meter-afstandsbediening-sfeerverlichting-buiten-en-binnen-tuinverlichting-lampjes-slinger-buiten-ip44-3-extra-leds/9300000184910941/",
       "image": "https://media.s-bol.com/JpW8W6J00pZP/2RDGWjK/550x550.jpg",
       "ph": {
-        "2026-11-09": 32.95
+        "2026-11-09": 32.95,
+        "2026-11-10": 32.95
       },
       "low_price": 32.95,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Lumineo",
@@ -315,15 +324,16 @@
       "url": "https://www.bol.com/nl/nl/p/kerstverlichting-lichtgordijn-ijspegels-490-warm-wit-led-lampjes-20-meter-geschikt-voor-buiten/9200000050466430/",
       "image": "https://media.s-bol.com/mWjxQM0XMjK3/4xG89Y0/550x534.jpg",
       "ph": {
-        "2026-11-09": 23.79
+        "2026-11-09": 23.79,
+        "2026-11-10": 23.79
       },
       "low_price": 23.79,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "Anna's Collection",
       "name": "Lichtnet 380 LED 300 x 300 cm warm wit",
-      "price": 33.95,
+      "price": 32.87,
       "score": 8.1,
       "label": null,
       "reviews": "Nieuw op bol",
@@ -351,10 +361,13 @@
       "url": "https://www.bol.com/nl/nl/p/anna-s-collection-kerstverlichting-met-timer-384-led-warm-wit-300x300cm/9200000102222946/",
       "image": "https://media.s-bol.com/xKNyjrEwmgw9/DqJr7gy/550x550.jpg",
       "ph": {
-        "2026-11-09": 33.95
+        "2026-11-09": 33.95,
+        "2026-11-10": 32.87
       },
-      "low_price": 33.95,
-      "synced": "2026-11-09"
+      "low_price": 32.87,
+      "synced": "2026-11-10",
+      "prev_price": 33.95,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Konstsmide",
@@ -388,10 +401,11 @@
       "url": "https://www.bol.com/nl/nl/p/konstmide-lichtsnoer/9200000095272922/",
       "image": "https://media.s-bol.com/yNyknQ8p3vrP/wjgQOlX/543x840.jpg",
       "ph": {
-        "2026-11-09": 32.95
+        "2026-11-09": 32.95,
+        "2026-11-10": 32.95
       },
       "low_price": 32.95,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     }
   ],
   "guide": [

@@ -25,7 +25,7 @@
     {
       "brand": "LEGO",
       "name": "City Brandweerkazerne en brandweerauto 60414",
-      "price": 58.1,
+      "price": 55.99,
       "score": 9.4,
       "label": "Beste keuze",
       "ean": "5702017582962",
@@ -65,15 +65,18 @@
         "2026-11-06": 58.1,
         "2026-11-07": 58.1,
         "2026-11-08": 58.1,
-        "2026-11-09": 58.1
+        "2026-11-09": 58.1,
+        "2026-11-10": 55.99
       },
-      "low_price": 58.1,
-      "synced": "2026-11-09"
+      "low_price": 55.99,
+      "synced": "2026-11-10",
+      "prev_price": 58.1,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Ravensburger",
       "name": "Doolhof Classic",
-      "price": 23.09,
+      "price": 24.99,
       "score": 9.1,
       "label": "Beste prijs-kwaliteit",
       "ean": "4005556264421",
@@ -113,12 +116,13 @@
         "2026-11-06": 24.99,
         "2026-11-07": 24.99,
         "2026-11-08": 24.99,
-        "2026-11-09": 23.09
+        "2026-11-09": 23.09,
+        "2026-11-10": 24.99
       },
       "low_price": 23.09,
-      "synced": "2026-11-09",
-      "prev_price": 24.99,
-      "prev_date": "2026-11-08"
+      "synced": "2026-11-10",
+      "prev_price": 23.09,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "VTech",
@@ -163,10 +167,11 @@
         "2026-11-06": 59.96,
         "2026-11-07": 59.96,
         "2026-11-08": 59.96,
-        "2026-11-09": 59.96
+        "2026-11-09": 59.96,
+        "2026-11-10": 59.96
       },
       "low_price": 59.96,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 59.99,
       "prev_date": "2026-11-05"
     },
@@ -213,10 +218,11 @@
         "2026-11-06": 49.99,
         "2026-11-07": 49.99,
         "2026-11-08": 49.99,
-        "2026-11-09": 49.99
+        "2026-11-09": 49.99,
+        "2026-11-10": 49.99
       },
       "low_price": 49.99,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 52.99,
       "prev_date": "2026-11-04"
     },
@@ -263,17 +269,18 @@
         "2026-11-06": 37.99,
         "2026-11-07": 37.99,
         "2026-11-08": 37.99,
-        "2026-11-09": 41.48
+        "2026-11-09": 41.48,
+        "2026-11-10": 41.48
       },
       "low_price": 37.99,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 37.99,
       "prev_date": "2026-11-08"
     },
     {
       "brand": "Ravensburger",
       "name": "tiptoi Starter Set Nijntje",
-      "price": 48.5,
+      "price": 49.99,
       "score": 8.8,
       "label": null,
       "ean": "4005556002092",
@@ -313,12 +320,13 @@
         "2026-11-06": 49.99,
         "2026-11-07": 49.99,
         "2026-11-08": 47.5,
-        "2026-11-09": 48.5
+        "2026-11-09": 48.5,
+        "2026-11-10": 49.99
       },
       "low_price": 46.23,
-      "synced": "2026-11-09",
-      "prev_price": 47.5,
-      "prev_date": "2026-11-08"
+      "synced": "2026-11-10",
+      "prev_price": 48.5,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Clementoni",
@@ -350,7 +358,7 @@
       "text": "De Hi-Tech Kweekkas uit de Wetenschap & Spel-lijn van Clementoni is een experimenteerset waarmee kinderen zelf een kleine kas bouwen. Daarin zaaien ze zaadjes en volgen ze hoe die kiemen en groeien. Het is een STEM-cadeau dat wetenschap tastbaar maakt: je kind leert wat een plant nodig heeft aan licht, water en warmte.\n\nAnders dan veel experimenteerdozen is het hier niet na één middag klaar. Kinderen kijken dagenlang hoe hun planten groeien en houden dat bij. Dat maakt het een fijn cadeau voor de donkere weken na pakjesavond. Kopers op bol geven gemiddeld een 4,8 en noemen het een cadeau waar ook ouders enthousiast van worden. Het past vooral bij kinderen vanaf een jaar of 8 die al een handleiding kunnen volgen. Met een prijs rond de 30 euro is het een betaalbaar cadeau dat leren en spelen combineert. Zet de kas op een lichte plek, anders gaat het groeien langzaam.",
       "bol_title": "Clementoni Wetenschap en Spel - Hi-Tech Kweekkas - STEM speelgoed - Broeikas - Experimenteren met Planten - Groene vingers - Vanaf 8 jaar",
       "url": "https://www.bol.com/nl/nl/p/technological-greenhouse/9300000177510705/",
-      "image": "https://media.s-bol.com/RGy36Q66nKyK/nZYNJlW/550x512.jpg",
+      "image": "https://media.s-bol.com/YPJ3E1EExqR0/nZYNJlW/550x429.jpg",
       "ph": {
         "2026-10-29": 29.99,
         "2026-10-30": 29.99,
@@ -363,10 +371,11 @@
         "2026-11-06": 29.99,
         "2026-11-07": 29.99,
         "2026-11-08": 29.99,
-        "2026-11-09": 29.99
+        "2026-11-09": 29.99,
+        "2026-11-10": 29.99
       },
       "low_price": 29.99,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "LEGO",
@@ -411,10 +420,11 @@
         "2026-11-06": 38.99,
         "2026-11-07": 38.99,
         "2026-11-08": 38.99,
-        "2026-11-09": 38.99
+        "2026-11-09": 38.99,
+        "2026-11-10": 38.99
       },
       "low_price": 38.99,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 39.99,
       "prev_date": "2026-10-29"
     },
@@ -461,10 +471,11 @@
         "2026-11-06": 15.99,
         "2026-11-07": 15.99,
         "2026-11-08": 15.99,
-        "2026-11-09": 15.99
+        "2026-11-09": 15.99,
+        "2026-11-10": 15.99
       },
       "low_price": 15.99,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "SmartGames",
@@ -496,7 +507,7 @@
       "text": "IQ Puzzler Pro van SmartGames is een klein denkspel in een handig doosje met een deksel dat dichtklikt. Je kind kiest een opdracht uit het boekje, legt een paar puzzelstukken neer zoals afgebeeld en moet de rest zelf passend maken. Er zijn 120 opdrachten, verdeeld over niveaus van starter tot expert. Een deel van de puzzels los je plat op en een deel in 3D als piramide.\n\nOmdat de opdrachten langzaam moeilijker worden, groeit het spel mee met je kind. Een kind van 6 begint bij de makkelijke puzzels en een kind van 11 bijt zich vast in de laatste. Kopers op bol geven gemiddeld een 4,8 en schrijven dat ook ouders het stiekem van tafel pakken. Met een prijs rond de 10 euro is dit het goedkoopste cadeau in deze lijst. Daarmee is het een slim schoencadeau in de weken voor 5 december of een extraatje bij een groter pakje.",
       "bol_title": "SmartGames IQ Puzzler Pro - Logisch Denkspel & Reispuzzel - 120 Opdrachten in 2D en 3D - Educatief Solospel voor Kinderen en Volwassenen - Vanaf 6 Jaar",
       "url": "https://www.bol.com/nl/nl/p/iq-puzzler-pro-denkspel/9200000055944519/",
-      "image": "https://media.s-bol.com/xrV7DlPJJZNE/lYp48wJ/486x840.jpg",
+      "image": "https://media.s-bol.com/kqz18yyOz7vJ/OgjoQ5Y/550x570.jpg",
       "ph": {
         "2026-10-29": 10.0,
         "2026-10-30": 10.0,
@@ -509,10 +520,11 @@
         "2026-11-06": 9.99,
         "2026-11-07": 9.99,
         "2026-11-08": 9.99,
-        "2026-11-09": 12.99
+        "2026-11-09": 12.99,
+        "2026-11-10": 12.99
       },
       "low_price": 9.99,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 9.99,
       "prev_date": "2026-11-08"
     }

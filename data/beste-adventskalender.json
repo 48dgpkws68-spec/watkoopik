@@ -59,10 +59,11 @@
         "2026-11-06": 32.99,
         "2026-11-07": 32.99,
         "2026-11-08": 32.99,
-        "2026-11-09": 32.99
+        "2026-11-09": 32.99,
+        "2026-11-10": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "LEGO",
@@ -102,10 +103,11 @@
         "2026-11-06": 27.99,
         "2026-11-07": 27.99,
         "2026-11-08": 27.99,
-        "2026-11-09": 27.99
+        "2026-11-09": 27.99,
+        "2026-11-10": 27.99
       },
       "low_price": 27.99,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "LEGO",
@@ -145,10 +147,11 @@
         "2026-11-06": 18.99,
         "2026-11-07": 18.99,
         "2026-11-08": 18.99,
-        "2026-11-09": 21.99
+        "2026-11-09": 21.99,
+        "2026-11-10": 21.99
       },
       "low_price": 18.99,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 18.99,
       "prev_date": "2026-11-08"
     },
@@ -190,10 +193,11 @@
         "2026-11-06": 56.99,
         "2026-11-07": 56.99,
         "2026-11-08": 56.99,
-        "2026-11-09": 56.99
+        "2026-11-09": 56.99,
+        "2026-11-10": 56.99
       },
       "low_price": 56.99,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     },
     {
       "brand": "NIVEA",
@@ -230,10 +234,11 @@
         "2026-11-06": 71.99,
         "2026-11-07": 71.99,
         "2026-11-08": 71.99,
-        "2026-11-09": 71.99
+        "2026-11-09": 71.99,
+        "2026-11-10": 71.99
       },
       "low_price": 71.99,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "bol_title": "NIVEA Adventskalender Vrouwen 2026 – Geschenkset met 24 Verzorgende NIVEA Mini’s en Accessoires - Giftset - Aftelkalender - Kerstkalender - Sint Cadeau",
       "url": "https://www.bol.com/nl/nl/p/nivea-adventskalender-vrouwen-2025-kerst-en-sinterklaas-geschenkset-met-24-verzorgende-nivea-mini-s-en-accessoires-kerstcadeau/9300000239540729/",
       "image": "https://media.s-bol.com/BZKvVNWQxvqJ/y8vVvn6/550x363.jpg"
@@ -241,7 +246,7 @@
     {
       "brand": "999 Games",
       "name": "EXIT Adventskalender: De Magie van Kerst",
-      "price": 49.99,
+      "price": 39.99,
       "score": 8.6,
       "label": null,
       "reviews": "reviews op bol",
@@ -276,17 +281,18 @@
         "2026-11-06": 39.99,
         "2026-11-07": 39.99,
         "2026-11-08": 39.99,
-        "2026-11-09": 49.99
+        "2026-11-09": 49.99,
+        "2026-11-10": 39.99
       },
       "low_price": 37.99,
-      "synced": "2026-11-09",
-      "prev_price": 39.99,
-      "prev_date": "2026-11-08"
+      "synced": "2026-11-10",
+      "prev_price": 49.99,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "Pukka",
       "name": "Adventskalender 2026",
-      "price": 14.99,
+      "price": 13.83,
       "score": 8.5,
       "label": null,
       "reviews": "reviews op bol",
@@ -321,17 +327,18 @@
         "2026-11-06": 14.99,
         "2026-11-07": 13.85,
         "2026-11-08": 14.99,
-        "2026-11-09": 14.99
+        "2026-11-09": 14.99,
+        "2026-11-10": 13.83
       },
-      "low_price": 13.85,
-      "synced": "2026-11-09",
-      "prev_price": 13.85,
-      "prev_date": "2026-11-07"
+      "low_price": 13.83,
+      "synced": "2026-11-10",
+      "prev_price": 14.99,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "PLAYMOBIL",
       "name": "Christmas Adventskalender Op de Noordpool (72226)",
-      "price": 37.47,
+      "price": 37.45,
       "score": 8.3,
       "label": null,
       "reviews": "nieuw op bol",
@@ -363,12 +370,13 @@
         "2026-11-06": 26.99,
         "2026-11-07": 26.99,
         "2026-11-08": 26.99,
-        "2026-11-09": 37.47
+        "2026-11-09": 37.47,
+        "2026-11-10": 37.45
       },
       "low_price": 26.99,
-      "synced": "2026-11-09",
-      "prev_price": 26.99,
-      "prev_date": "2026-11-08"
+      "synced": "2026-11-10",
+      "prev_price": 37.47,
+      "prev_date": "2026-11-09"
     },
     {
       "brand": "waterdrop",
@@ -408,10 +416,11 @@
         "2026-11-06": 18.0,
         "2026-11-07": 18.0,
         "2026-11-08": 18.0,
-        "2026-11-09": 21.99
+        "2026-11-09": 21.99,
+        "2026-11-10": 21.99
       },
       "low_price": 18.0,
-      "synced": "2026-11-09",
+      "synced": "2026-11-10",
       "prev_price": 18.0,
       "prev_date": "2026-11-08"
     },
@@ -442,7 +451,7 @@
       "ideal": "Wie een eerlijke chocoladekalender zoekt voor zichzelf of een collega.",
       "text": "De kleine Tony's Chocolonely Adventskalender 2026 is met 12,99 euro de goedkoopste kalender in deze lijst. Achter elk van de 24 deurtjes zit een klein stukje chocolade in een van twee smaken: klassieke melkchocolade of melkkaramel met zeezout. De kalender meet 38 bij 25 centimeter en is maar 3 centimeter dik. Hij past dus makkelijk op je bureau, in een studentenkamer of in een kerstsok.\n\nTony's gebruikt Fairtrade cacao en zet zich in tegen uitbuiting in de cacaosector. Voor veel kopers is dat de reden om voor dit merk te kiezen in plaats van een goedkopere supermarktkalender. Op bol scoort hij 3,9 sterren. De meeste kritiek gaat over het formaat van de chocolaatjes, die kleiner zijn dan sommigen verwachten. Zoek je meer chocolade per dag, kies dan de grotere Mega-versie. Als betaalbare attentie met een goed verhaal doet deze kalender precies wat hij belooft.",
       "ean": "8720701146723",
-      "bol_title": "Tony's Chocolonely Adventskalender 2026 Chocolade - Sint en Kerst - 2 smaken - Fairtrade",
+      "bol_title": "Tony's Chocolonely Adventskalender 2026 Chocolade - Sint en Kerst - Chocoladecadeau",
       "url": "https://www.bol.com/nl/nl/p/tony-s-chocolonely-tiny-s-adventskalender-chocolade-2024-kleine-aftelkalender-kerstcadeau-kerst-kadootjes-2-verschillende-smaken-tiny-tony-s-in-een-kerstkalender-fairtrade-belgische-chocolade/9300000186028245/",
       "image": "https://media.s-bol.com/gWK18JlDEKX6/5yVPGYX/505x840.jpg",
       "ph": {
@@ -453,10 +462,11 @@
         "2026-11-06": 12.99,
         "2026-11-07": 12.99,
         "2026-11-08": 12.99,
-        "2026-11-09": 12.99
+        "2026-11-09": 12.99,
+        "2026-11-10": 12.99
       },
       "low_price": 12.99,
-      "synced": "2026-11-09"
+      "synced": "2026-11-10"
     }
   ],
   "guide": [
