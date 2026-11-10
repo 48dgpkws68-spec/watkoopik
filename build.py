@@ -378,6 +378,20 @@ for c in json.load(open(os.path.join(ROOT, "_src", "clusters.json"), encoding="u
     CLUSTERS.append(c)
     for g in ms: CL_OF.setdefault(g["slug"], []).append(c)
 HUBS = [c for c in CLUSTERS if c["hub"]]
+# Zoekterm netjes in een zin (groeimotor 10 nov 2026): 'beste' vooraan en 'kopen' achteraan eraf, het-woorden en meervoud herkennen.
+HET_KOP = ("cadeau", "dekbed", "dekbedovertrek", "matras", "bedframe", "droogrek", "fornuis", "hoofdkussen", "scheerapparaat", "strijkijzer", "bureau", "warmtekussen", "massagepistool", "autostoeltje", "paneel", "sporthorloge", "bruiswatertoestel")
+def zoekterm(g):
+    t = (g.get("seo") or g["query"]).strip()
+    if t.lower().startswith("beste "): t = t[6:]
+    if t.lower().endswith(" kopen"): t = t[:-6]
+    return t
+def zoekterm_vorm(t):
+    """('Het', 'het', 'is') voor het-woorden, ('De', 'de', 'zijn') voor meervoud, anders ('De', 'de', 'is'). Kijkt naar de woorden voor het eerste voorzetsel."""
+    kop = re.split(r" (?:voor|onder|bij|met|zonder|om|of) ", " " + t.lower() + " ")[0].split()
+    if any(w.endswith("oordopjes") for w in kop): return "De", "de", "zijn"
+    if any(w.endswith(HET_KOP) for w in kop): return "Het", "het", "is"
+    return "De", "de", "is"
+
 def cap1(s): return s[:1].upper() + s[1:]
 def low1(s):
     w = s.split(" ")[0]
@@ -769,7 +783,7 @@ for g in guides:
 <h2 id="vergelijk" class="rv" style="margin-top:22px">Alle %d naast elkaar</h2>%s%s
 <h2 id="top10" class="rv">De top 10 in detail</h2>%s
 %s%s<div class="verdict rv"><span class="kick" style="color:#ffb48a">Eindoordeel</span><h2>Onze conclusie</h2><p>%s</p>%s</div>
-<div class="guide rv" id="koopgids"><h2>Koopgids: zo kies je de juiste %s</h2>%s</div>
+<div class="guide rv" id="koopgids"><h2>Koopgids: zo kies je %s juiste %s</h2>%s</div>
 <div class="faq rv" id="faq"><h2>Veelgestelde vragen</h2>%s</div>
 <div class="pref-wrap">%s</div>
 </div>
@@ -779,14 +793,15 @@ for g in guides:
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(gmod(g))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
-        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), e(g.get("seo") or g["query"]), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", '<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "", '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", '<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "", '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
-    seo = g.get("seo") or g["query"]  # zoekterm voor titel en meta; query blijft de bol-zoekterm
+    seo = zoekterm(g)  # zoekterm voor titel en meta; query blijft de bol-zoekterm
+    lidw, _, ww = zoekterm_vorm(seo)
     title = "Beste %s %d: top 10 vergeleken | watkoopik" % (seo, YEAR)
     if len(title) > 62: title = "%s | watkoopik" % g["title"]
-    desc = "De beste %s van %d is de %s %s (%s). Slimste koop: %s %s voor %s. Bekijk de volledige top 10 met plus- en minpunten, koopgids en FAQ." % (
-        seo, YEAR, top["brand"], top["name"], eur(top["price"]), bv["brand"], bv["name"], eur(bv["price"]))
+    desc = "%s beste %s van %d %s de %s %s (%s). Slimste koop: %s %s voor %s. Bekijk de volledige top 10 met plus- en minpunten, koopgids en FAQ." % (
+        lidw, seo, YEAR, ww, top["brand"], top["name"], eur(top["price"]), bv["brand"], bv["name"], eur(bv["price"]))
     # optionele vaste titel/meta op echte Search Console-zoekvragen ({top} = huidige nr. 1)
     if g.get("meta_title"): title = g["meta_title"]
     if g.get("meta_desc"): desc = g["meta_desc"].replace("{top}", "%s %s" % (top["brand"], top["name"]))
