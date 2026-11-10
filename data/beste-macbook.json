@@ -685,5 +685,10 @@
       "a": "Apple ondersteunt Macs meestal zeven tot acht jaar met macOS-updates. Een MacBook met M4 of M5 uit 2025 of 2026 krijgt dus naar verwachting updates tot ver na 2030."
     }
   ],
-  "published": "2026-10-16"
+  "published": "2026-10-16",
+  "rel": [
+    "beste-laptop",
+    "beste-laptop-voor-studenten",
+    "beste-laptop-thuiswerken"
+  ]
 }

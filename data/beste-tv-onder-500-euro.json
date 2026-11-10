@@ -17,7 +17,7 @@
   "updated": "2026-10-20",
   "reviews_total": "3.100",
   "intro": "Voor een tv onder 500 euro hoef je in 2026 geen genoegen meer te nemen met een klein of flets scherm. Voor dat geld krijg je een 55 inch QLED, een miniled of zelfs een 65 inch tv. Wel moet je goed kiezen, want de verschillen in helderheid, smart-tv en bouwkwaliteit zijn groot. Wij vergeleken de tv's die nu bij bol onder de 500 euro te koop zijn op beeld, formaat, HDR, apps en de ervaringen van kopers. Dit zijn de tien beste.",
-  "verdict": "De LG 55QNED84A6C is de beste tv onder 500 euro: 55 inch, rijke QNED-kleuren en het snelle webOS. De TCL 65T69C is de beste prijs-kwaliteit omdat je onder de 500 euro een 65 inch QLED met Dolby Vision en Onkyo-geluid krijgt. Wil je het beste contrast voor dit budget, kies dan de TCL 55C69KS met Mini LED voor rond de 420 euro.",
+  "verdict": "De LG 55QNED84A6C is de beste tv onder 500 euro: 55 inch, rijke QNED-kleuren en het snelle webOS. De TCL 65T69C is de beste prijs-kwaliteit omdat je onder de 500 euro een 65 inch QLED met Dolby Vision en Onkyo-geluid krijgt. Wil je het beste contrast voor dit budget, kies dan de CHiQ M55QN9G met Mini LED voor rond de 430 euro.",
   "products": [
     {
       "brand": "LG",
@@ -133,56 +133,40 @@
       "prev_date": "2026-10-29"
     },
     {
-      "brand": "TCL",
-      "name": "55C69KS",
-      "price": 419.0,
+      "brand": "CHiQ",
+      "name": "M55QN9G",
+      "price": 429.0,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "reviews op bol",
-      "oneliner": "55 inch QD-Mini LED met Dolby Vision voor ruim 400 euro.",
+      "reviews": "bol-score 4,8 van 5",
+      "oneliner": "55 inch QLED Mini LED met Dolby Vision voor ruim 400 euro.",
       "specs": {
         "Formaat": "55 inch",
-        "Paneel": "QD-Mini LED",
-        "Verversing": "VRR via HDMI 2.1",
-        "HDR": "Dolby Vision, HDR10+, HLG",
+        "Paneel": "QLED Mini LED",
+        "Verversing": "60 Hz, VRR via HDMI 2.1",
+        "HDR": "Dolby Vision, HDR10",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "Mini LED-verlichting voor deze prijs",
-        "Dolby Vision en HDR10+",
-        "HDMI 2.1 met VRR",
+        "Mini LED-verlichting met local dimming voor deze prijs",
+        "Dolby Vision en Dolby Atmos",
+        "Vier HDMI-poorten, HDMI 2.1 met VRR",
         "Google TV met alle apps"
       ],
       "cons": [
-        "Buitenlands model, nog geen reviews op bol",
+        "Minder bekend merk",
         "Energielabel F"
       ],
       "ideal": "Wie onder de 450 euro het beste contrast wil, dankzij Mini LED-verlichting.",
-      "text": "De TCL 55C69KS is een van de goedkoopste tv's met Mini LED-verlichting die bol nu verkoopt. Voor 419 euro krijg je een 55 inch scherm met quantum dots voor de kleuren en kleine leds achter het paneel. Daardoor kan de tv delen van het beeld dimmen, wat zwart dieper maakt dan bij een gewone led-tv in deze prijsklasse. Dolby Vision, HDR10+ en HLG worden ondersteund en de antireflectielaag helpt in een lichte kamer.\n\nGoogle TV draait alle grote apps zoals Netflix, Videoland en NPO Start en je bedient de tv met je stem. Er zijn drie HDMI-poorten, met HDMI 2.1 en VRR voor consolegames, plus eARC voor een soundbar. Let op: het gaat om een buitenlands model met een metallic afwerking en bol toont nog geen reviews. Het energielabel F is ook geen pluspunt. Wil je voor weinig geld een grote stap in contrast, dan is dit een interessante keuze.",
-      "ean": "5901292527297",
-      "bol_title": "TCL C69KS 55C69KS tv 139,7 cm (55\") 4K Ultra HD Smart TV Wifi Metallic",
-      "url": "https://www.bol.com/nl/nl/p/tcl-c69ks-55c69ks-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-metallic/9300000226905313/",
-      "image": "https://media.s-bol.com/Xv4KDl7x33wv/31mWnlQ/550x388.jpg",
+      "text": "De CHiQ M55QN9G is een van de goedkoopste tv's met Mini LED-verlichting die bol nu verkoopt. Voor 429 euro krijg je een 55 inch scherm met quantum dots voor de kleuren en kleine leds achter het paneel. Dankzij local dimming kan de tv delen van het beeld dimmen, wat zwart dieper maakt dan bij een gewone led-tv in deze prijsklasse. Dolby Vision wordt ondersteund en het geluid heeft Dolby Atmos.\n\nGoogle TV draait alle grote apps zoals Netflix, Videoland en NPO Start en je bedient de tv met je stem via Google Assistant. Er zijn vier HDMI-poorten met HDMI 2.1 en VRR voor consolegames, plus eARC voor een soundbar. Het paneel ververst met 60 Hz. Let op: CHiQ is het merk van het Chinese Changhong en hier minder bekend dan LG of Samsung. Het energielabel F is ook geen pluspunt. Kopers op bol geven hem gemiddeld 4,8 sterren. Wil je voor weinig geld een grote stap in contrast, dan is dit een interessante keuze.",
+      "ean": "8592344205507",
+      "bol_title": "CHiQ M55QN9G - Smart TV 55 Inch - QLED Mini LED - UHD 4K - Google TV 5.0 - Dolby Vision - MEMC",
+      "url": "https://www.bol.com/nl/nl/p/chiq-m55qn9g-smart-tv-55-inch-4k-mini-led-qled-smart-tv-google-tv-5-0-dolby-vision-2025/9300000231519598/",
+      "image": "https://media.s-bol.com/YGYxoQx9M79Y/0VOovjN/550x354.jpg",
       "ph": {
-        "2026-10-25": 419.0,
-        "2026-10-26": 419.0,
-        "2026-10-27": 419.0,
-        "2026-10-28": 419.0,
-        "2026-10-29": 419.0,
-        "2026-10-30": 419.0,
-        "2026-10-31": 419.0,
-        "2026-11-01": 419.0,
-        "2026-11-02": 419.0,
-        "2026-11-03": 419.0,
-        "2026-11-04": 419.0,
-        "2026-11-05": 419.0,
-        "2026-11-06": 419.0,
-        "2026-11-07": 419.0,
-        "2026-11-08": 419.0,
-        "2026-11-09": 419.0,
-        "2026-11-10": 419.0
+        "2026-11-10": 429.0
       },
-      "low_price": 419.0,
+      "low_price": 429.0,
       "synced": "2026-11-10"
     },
     {
@@ -362,10 +346,10 @@
       ],
       "cons": [
         "Geen Dolby Vision",
-        "Geen miniled, zwart minder diep dan bij de TCL 55C69KS"
+        "Geen miniled, zwart minder diep dan bij de CHiQ M55QN9G"
       ],
       "ideal": "Wie een 55 inch QLED met Google TV en een snelle gamestand wil voor onder de 450 euro.",
-      "text": "De Xiaomi TV A Pro 2026 is een 55 inch QLED-tv die voor 448 euro meer biedt dan je bij een budgetmodel verwacht. Het paneel met quantum dots dekt volgens Xiaomi 94 procent van de DCI-P3-kleurruimte, wat zorgt voor rijke kleuren bij films en natuurdocumentaires. HDR10+ en een Filmmaker-modus zijn aanwezig. Dolby Vision ontbreekt wel, dat heeft de TCL 55C69KS wel.\n\nAls smart-tv draait hij op Google TV met alle Nederlandse apps, Google Assistant en Chromecast. Met AirPlay en Miracast stuur je ook vanaf een iPhone of laptop beeld naar het scherm. Voor gamers is er een 120 Hz-gamestand, die vloeiender beweegt dan de 60 Hz-panelen van de meeste tv's in deze lijst. Het geluid ondersteunt Dolby Audio en DTS:X. Kopers op bol geven hem een 4,3 en noemen vooral de kleuren en de snelle software. Wil je het diepste zwart, kijk dan naar de miniled van TCL. Voor een complete QLED onder 450 euro is dit een sterke keuze.",
+      "text": "De Xiaomi TV A Pro 2026 is een 55 inch QLED-tv die voor 448 euro meer biedt dan je bij een budgetmodel verwacht. Het paneel met quantum dots dekt volgens Xiaomi 94 procent van de DCI-P3-kleurruimte, wat zorgt voor rijke kleuren bij films en natuurdocumentaires. HDR10+ en een Filmmaker-modus zijn aanwezig. Dolby Vision ontbreekt wel, dat heeft de CHiQ M55QN9G wel.\n\nAls smart-tv draait hij op Google TV met alle Nederlandse apps, Google Assistant en Chromecast. Met AirPlay en Miracast stuur je ook vanaf een iPhone of laptop beeld naar het scherm. Voor gamers is er een 120 Hz-gamestand, die vloeiender beweegt dan de 60 Hz-panelen van de meeste tv's in deze lijst. Het geluid ondersteunt Dolby Audio en DTS:X. Kopers op bol geven hem een 4,3 en noemen vooral de kleuren en de snelle software. Wil je het diepste zwart, kijk dan naar de miniled van TCL. Voor een complete QLED onder 450 euro is dit een sterke keuze.",
       "ean": "6941948705722",
       "bol_title": "Xiaomi TV A Pro 2026 55 inch | 4K QLED Google TV | HDR10+ & Filmmaker Mode | 120Hz gaming | Dolby Audio & DTS-X | 94% DCI-P3 | AirPlay, Google Cast & Miracast | Google Assistant",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-55-inch-4k-qled-tv/9300000231444129/",
@@ -389,46 +373,40 @@
       "synced": "2026-11-10"
     },
     {
-      "brand": "Sharp",
-      "name": "55JP7265E",
-      "price": 429.0,
+      "brand": "Samsung",
+      "name": "UE55M74H",
+      "price": 479.0,
       "score": 8.2,
       "label": null,
-      "reviews": "5 sterren op bol",
-      "oneliner": "55 inch QLED met miniled-verlichting en Google TV voor ruim 400 euro.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "55 inch Mini LED van Samsung met drie jaar extra garantie.",
       "specs": {
         "Formaat": "55 inch",
-        "Paneel": "QLED met miniled",
+        "Paneel": "Mini LED",
         "Verversing": "60 Hz",
-        "HDR": "Dolby Vision, HDR10",
-        "Smart-tv": "Google TV"
+        "HDR": "HDR10+, HLG",
+        "Smart-tv": "Tizen"
       },
       "pros": [
-        "Miniled-achtergrondverlichting in deze prijsklasse",
-        "Google TV met Chromecast",
-        "Dolby Vision",
+        "Mini LED van een bekend merk onder de 500 euro",
+        "Drie jaar extra garantie via bol",
+        "Tizen met alle Nederlandse apps",
         "Hoge waardering van kopers op bol"
       ],
       "cons": [
-        "Geluid is beperkt",
-        "60 Hz is minder geschikt voor fanatieke gamers"
+        "Geen Dolby Vision",
+        "Geen VRR, minder geschikt voor fanatieke gamers"
       ],
-      "ideal": "Wie een 55 inch QLED met Google TV wil en ruim onder de 500 euro wil blijven.",
-      "text": "De Sharp 55JP7265E combineert een 55 inch QLED-paneel met miniled-achtergrondverlichting, iets wat je onder de 500 euro nog niet vaak ziet. Sharp is in Europa een merk van de Turkse fabrikant Vestel, die tv's maakt voor meerdere bekende merken. De kleine leds achter het scherm zorgen voor beter contrast dan bij een gewone led-tv, zodat donkere scènes minder grijs ogen.\n\nGoogle TV is een groot voordeel: alle Nederlandse apps zijn er, Chromecast is ingebouwd en je kunt de tv met spraak bedienen. Dolby Vision wordt ondersteund, al haalt hij niet de helderheid van duurdere modellen. Het paneel draait op 60 Hz, prima voor films en series maar minder ideaal voor wie veel snelle games speelt. Ook het geluid is bescheiden, dus een soundbar is geen overbodige luxe. Kopers op bol geven hem de volle 5 sterren. Wil je QLED en Google TV met wat extra contrast voor ruim 400 euro, dan is dit een goede keuze.",
-      "ean": "5905683274418",
-      "bol_title": "Sharp 55JP7265E -55 inch tv - 4K Ultra HD QLED MiniLED Google TV™",
-      "url": "https://www.bol.com/nl/nl/p/sharp-55jp7265e-55-inch-tv-4k-ultra-hd-qled-miniled-google-tv/9300000283900431/",
-      "image": "https://media.s-bol.com/gzvOM2o62y63/wVOQOMw/550x344.jpg",
+      "ideal": "Wie een Samsung met Mini LED wil en onder de 500 euro wil blijven.",
+      "text": "De Samsung UE55M74H is een van de goedkoopste manieren om een Samsung met Mini LED in huis te halen. Kleinere leds achter het scherm regelen het licht nauwkeuriger dan bij een standaard led-tv, wat meer contrast en helderheid geeft. Daardoor blijft het beeld ook overdag in een lichte kamer goed zichtbaar. Het is een model uit 2026 met een strakke metalen behuizing.\n\nTizen heeft alle Nederlandse apps, zoals NPO Start, Videoland en Netflix. Samsung belooft zeven jaar upgrades voor het systeem, wat lang is in deze prijsklasse. Bij bol krijg je er drie jaar extra garantie bij. HDR10+ wordt ondersteund, Dolby Vision niet. Het paneel draait op 60 Hz en VRR ontbreekt, dus fanatieke gamers kiezen beter een ander model uit deze lijst. Er zijn drie HDMI-poorten met eARC voor een soundbar. Kopers op bol geven gemiddeld 4,7 sterren. Zoek je een bekend merk met Mini LED en wil je onder de 500 euro blijven, dan is dit een veilige keuze.",
+      "ean": "8806099134334",
+      "bol_title": "Samsung UE55M74H - 55 inch - 4K MiniLED - 2026 + 3 jaar extra garantie - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/samsung-55m74h-55-inch-4k-miniled-2026-smart-tv/9300000284690212/",
+      "image": "https://media.s-bol.com/R9MJzoXloMmK/oVRMzrA/550x358.jpg",
       "ph": {
-        "2026-11-04": 429.0,
-        "2026-11-05": 429.0,
-        "2026-11-06": 429.0,
-        "2026-11-07": 429.0,
-        "2026-11-08": 429.0,
-        "2026-11-09": 429.0,
-        "2026-11-10": 429.0
+        "2026-11-10": 479.0
       },
-      "low_price": 429.0,
+      "low_price": 479.0,
       "synced": "2026-11-10"
     },
     {
@@ -458,7 +436,7 @@
         "Eenvoudig geluid zonder surround"
       ],
       "ideal": "Wie een betrouwbare 55 inch smart-tv zoekt en geen hoge eisen stelt aan contrast.",
-      "text": "De TCL 55P61K is een eenvoudige 55 inch tv uit 2025 die bol nu voor ongeveer 400 euro verkoopt. Je krijgt een 4K-scherm met direct-led achtergrondverlichting en Google TV, zodat Netflix, Videoland, NPO Start en Ziggo GO er gewoon op staan. Met Chromecast stuur je een video vanaf je telefoon naar het scherm en via de afstandsbediening spreek je zoekopdrachten in.\n\nEr zijn drie HDMI-poorten met HDMI 2.1 en een gamemodus, genoeg voor een console en een soundbar. HDR werkt via HDR10, maar Dolby Vision ontbreekt en de helderheid is bescheiden, dus echte HDR-effecten zie je niet. Het geluid van 20 watt is helder voor nieuws en series, voor films wil je een soundbar. Kopers op bol geven hem gemiddeld een 4,2 en noemen vooral de prijs en het snelle menu. Wil je meer kleur en contrast, kies dan de Sharp 55JP7265E of de TCL 55C69KS.",
+      "text": "De TCL 55P61K is een eenvoudige 55 inch tv uit 2025 die bol nu voor ongeveer 400 euro verkoopt. Je krijgt een 4K-scherm met direct-led achtergrondverlichting en Google TV, zodat Netflix, Videoland, NPO Start en Ziggo GO er gewoon op staan. Met Chromecast stuur je een video vanaf je telefoon naar het scherm en via de afstandsbediening spreek je zoekopdrachten in.\n\nEr zijn drie HDMI-poorten met HDMI 2.1 en een gamemodus, genoeg voor een console en een soundbar. HDR werkt via HDR10, maar Dolby Vision ontbreekt en de helderheid is bescheiden, dus echte HDR-effecten zie je niet. Het geluid van 20 watt is helder voor nieuws en series, voor films wil je een soundbar. Kopers op bol geven hem gemiddeld een 4,2 en noemen vooral de prijs en het snelle menu. Wil je meer kleur en contrast, kies dan de Samsung UE55M74H of de CHiQ M55QN9G.",
       "ean": "5901292527044",
       "bol_title": "TCL 55P61K - 55 inch - 4K LED - 2025 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/tcl-55p61k-55-inch-4k-led-2025/9300000228002739/",
@@ -533,7 +511,7 @@
     },
     {
       "h": "QLED en miniled: waar je het verschil ziet",
-      "p": "Een gewone led-tv geeft prima beeld voor nieuws en series. QLED voegt quantum dots toe voor rijkere kleuren. Miniled gaat een stap verder met honderden kleine lampjes die per zone dimmen, waardoor zwart donkerder en wit feller wordt. Onder de 500 euro is de TCL 55C69KS de miniled-optie in deze lijst."
+      "p": "Een gewone led-tv geeft prima beeld voor nieuws en series. QLED voegt quantum dots toe voor rijkere kleuren. Miniled gaat een stap verder met honderden kleine lampjes die per zone dimmen, waardoor zwart donkerder en wit feller wordt. Onder de 500 euro zijn de CHiQ M55QN9G en de Samsung UE55M74H de miniled-opties in deze lijst."
     },
     {
       "h": "A-merk of onbekend merk?",
@@ -567,11 +545,11 @@
     },
     {
       "q": "Kun je gamen op een tv onder 500 euro?",
-      "a": "Ja, maar de tv's in deze prijsklasse draaien op 60 Hz. Voor casual gamen met een gamemodus is dat prima. Wil je VRR via HDMI 2.1 voor een PS5 of Xbox, kijk dan naar de TCL 55C69KS of de TCL 65T69C. Voor 120 Hz moet je richting 550 euro of meer."
+      "a": "Ja, maar de tv's in deze prijsklasse draaien op 60 Hz. Voor casual gamen met een gamemodus is dat prima. Wil je VRR via HDMI 2.1 voor een PS5 of Xbox, kijk dan naar de CHiQ M55QN9G of de TCL 65T69C. Voor 120 Hz moet je richting 550 euro of meer."
     },
     {
       "q": "Welke goedkope smart tv heeft de beste apps?",
-      "a": "Tv's met Google TV of webOS hebben de meeste apps. Onder de 500 euro zijn dat onder meer de LG 55QNED84A6C, TCL 65T69C, TCL 55C69KS, TCL 55P61K, Sharp 55JP7265E en Xiaomi TV A Pro 2026. Alle Nederlandse apps, zoals NPO Start, Videoland en Ziggo GO, zijn daarop beschikbaar."
+      "a": "Tv's met Google TV of webOS hebben de meeste apps. Onder de 500 euro zijn dat onder meer de LG 55QNED84A6C, TCL 65T69C, CHiQ M55QN9G, TCL 55P61K en Xiaomi TV A Pro 2026. Alle Nederlandse apps, zoals NPO Start, Videoland en Ziggo GO, zijn daarop beschikbaar."
     },
     {
       "q": "Is een tv onder 500 euro nog 4K?",
@@ -579,7 +557,7 @@
     },
     {
       "q": "Welke tv onder 500 euro heeft Dolby Vision?",
-      "a": "In deze lijst ondersteunen vijf tv's Dolby Vision: de TCL 65T69C, TCL 55C69KS, Hisense 55E7S, Sharp 55JP7265E en Hisense 65A6S. De LG 55QNED84A6C, Samsung UE55U7090H, Xiaomi TV A Pro, Philips 55PUS8001/12 en TCL 55P61K hebben het niet. Dolby Vision zie je vooral terug bij Netflix en Disney+, dus kijk je daar veel, dan is het een nuttige extra."
+      "a": "In deze lijst ondersteunen vier tv's Dolby Vision: de TCL 65T69C, CHiQ M55QN9G, Hisense 55E7S en Hisense 65A6S. De LG 55QNED84A6C, Samsung UE55U7090H, Samsung UE55M74H, Xiaomi TV A Pro, Philips 55PUS8001/12 en TCL 55P61K hebben het niet. Dolby Vision zie je vooral terug bij Netflix en Disney+, dus kijk je daar veel, dan is het een nuttige extra."
     },
     {
       "q": "Wanneer is een tv het goedkoopst?",
@@ -621,15 +599,15 @@
       },
       {
         "h": "Kijk je vooral 's avonds films in een donkere kamer?",
-        "p": "Dan telt contrast het zwaarst. Een gewone QLED zoals de LG op nr. 1 laat zwart in het donker wat grijzig ogen. Mini LED dimt per zone en geeft dieper zwart. Kies dan nr. 3, de TCL 55C69KS (€ 419), of nr. 8, de Sharp 55JP7265E (€ 429), die ook miniled-verlichting heeft."
+        "p": "Dan telt contrast het zwaarst. Een gewone QLED zoals de LG op nr. 1 laat zwart in het donker wat grijzig ogen. Mini LED dimt per zone en geeft dieper zwart. Kies dan nr. 3, de CHiQ M55QN9G (€ 429), of nr. 8, de Samsung UE55M74H (€ 479), die ook miniled-verlichting heeft."
       },
       {
         "h": "Speel je op een PS5, Xbox of pc?",
-        "p": "De meeste tv's in dit budget draaien op 60 Hz. Wil je VRR tegen haperend beeld, kies dan nr. 3, de TCL 55C69KS met HDMI 2.1 en VRR, of nr. 2, de TCL 65T69C met drie HDMI 2.1-poorten. Nr. 7, de Xiaomi TV A Pro 2026 (€ 448), heeft een 120 Hz-gamestand voor wie vooral snelle games speelt."
+        "p": "De meeste tv's in dit budget draaien op 60 Hz. Wil je VRR tegen haperend beeld, kies dan nr. 3, de CHiQ M55QN9G met HDMI 2.1 en VRR, of nr. 2, de TCL 65T69C met drie HDMI 2.1-poorten. Nr. 7, de Xiaomi TV A Pro 2026 (€ 448), heeft een 120 Hz-gamestand voor wie vooral snelle games speelt."
       },
       {
         "h": "Welke apps en zenderpakketten gebruik je?",
-        "p": "Google TV heeft de meeste apps en ingebouwde Chromecast, die vind je op nr. 2, nr. 3, nr. 7 en nr. 8. webOS van nr. 1 en Tizen van nr. 5 hebben ook alle Nederlandse apps. Kijk je via KPN, let dan op: op VIDAA van nr. 10, de Hisense 65A6S, ontbreekt de KPN-app."
+        "p": "Google TV heeft de meeste apps en ingebouwde Chromecast, die vind je op nr. 2, nr. 3 en nr. 7. webOS van nr. 1 en Tizen van nr. 5 en nr. 8 hebben ook alle Nederlandse apps. Kijk je via KPN, let dan op: op VIDAA van nr. 10, de Hisense 65A6S, ontbreekt de KPN-app."
       },
       {
         "h": "Wil je liever zekerheid dan de beste specificaties?",
@@ -643,7 +621,7 @@
       },
       {
         "rank": 3,
-        "p": "De TCL 55C69KS (€ 419) is de betere keus als je vooral films kijkt in een donkere kamer. Hij is ongeveer € 25 goedkoper dan nr. 1 en heeft QD-Mini LED voor dieper zwart, Dolby Vision, HDR10+ en HDMI 2.1 met VRR. Let wel op: het is een buitenlands model zonder reviews op bol met energielabel F."
+        "p": "De CHiQ M55QN9G (€ 429) is de betere keus als je vooral films kijkt in een donkere kamer. Hij is iets goedkoper dan nr. 1 en heeft Mini LED met local dimming voor dieper zwart, Dolby Vision en HDMI 2.1 met VRR. Let wel op: CHiQ is een minder bekend merk en het energielabel is F."
       }
     ]
   }

@@ -273,12 +273,12 @@
     },
     {
       "brand": "tado",
-      "name": "Bedrade Slimme Thermostaat X (2e gen.) Starterskit",
-      "price": 179.99,
+      "name": "Bedrade Slimme Thermostaat X (2e gen.)",
+      "price": 96.0,
       "score": 8.5,
       "label": null,
       "reviews": "reviews op bol",
-      "oneliner": "De nieuwste tado X op je bestaande draden, inclusief Bridge.",
+      "oneliner": "De nieuwste tado X op je bestaande draden, zonder Bridge in de doos.",
       "specs": {
         "Aansluiting": "Bedraad",
         "Regeling": "OpenTherm en aan/uit",
@@ -288,32 +288,25 @@
       },
       "pros": [
         "Ondersteunt OpenTherm en aan/uit-regeling",
-        "Matter via de meegeleverde Bridge X",
-        "Schema's blijven werken zonder internet",
-        "Goedkoper dan de draadloze tweede generatie"
+        "Matter voor Apple Home, Google Home, Alexa en SmartThings",
+        "Display toont temperatuur en luchtvochtigheid",
+        "Laagste prijs in deze lijst"
       ],
       "cons": [
-        "Werkt niet samen met oudere tado V3+-producten",
+        "Bridge X of andere Thread Border Router niet inbegrepen",
         "Geofencing en open-raamdetectie via het betaalde AI Assist"
       ],
       "ideal": "Wie een tado wil op de plek van de huidige bedrade thermostaat.",
-      "text": "De bedrade tado X van de tweede generatie kwam in september 2026 uit. De starterskit bestaat uit de thermostaat en de Bridge X, die je op je router aansluit. De thermostaat komt op de plek van je huidige kamerthermostaat en gebruikt de bestaande draden naar de ketel. Hij ondersteunt OpenTherm en gewone aan/uit-regeling en werkt volgens tado met 95 procent van de verwarmingssystemen, ook met stadsverwarming en een warmtepomp zonder koeling.\n\nDankzij Matter werkt hij met Apple Home, Google Home, Alexa en SmartThings. Je schema's staan op het apparaat zelf, dus de verwarming volgt je planning ook als het internet even wegvalt. Met radiatorknoppen X breid je later uit naar regeling per kamer. Let op: oudere tado V3+-onderdelen werken er niet mee. Geofencing en open-raamdetectie zitten achter het optionele AI Assist van 3,99 euro per maand. Kopers op bol geven hem gemiddeld een 4,7 en dat is hoog voor een slimme thermostaat.",
-      "ean": "4260328612750",
-      "bol_title": "tado° Bedrade Slimme Thermostaat X (2e gen.) Starterskit - OpenTherm & Relay - Matter, Google Home, Alexa & Apple Home - Wit",
-      "url": "https://www.bol.com/nl/nl/p/tado-bedrade-slimme-thermostaat-x-starterskit-opentherm-relay-matter-google-home-alexa-apple-home-wit/9300000361731090/",
-      "image": "https://media.s-bol.com/zZZpnN3mWQy2/K1xRgJl/550x344.jpg",
+      "text": "De bedrade tado X van de tweede generatie kwam in september 2026 uit. Dit is de losse thermostaat, zonder Bridge X in de doos. Hij komt op de plek van je huidige kamerthermostaat en gebruikt de bestaande draden naar de ketel. Hij ondersteunt OpenTherm en gewone aan/uit-regeling. Volgens tado werkt hij met gasketels, warmtepompen en vloerverwarming op waterbasis. Het LED-display toont de temperatuur en de luchtvochtigheid.\n\nVoor de verbinding met internet heb je een Bridge X of een andere geschikte Thread Border Router nodig. Heb je die niet, reken dan de prijs van een Bridge X mee. Dankzij Matter werkt hij met Apple Home, Google Home, Alexa en SmartThings. Met radiatorknoppen X breid je later uit naar regeling per kamer. Let op: oudere tado V3+-onderdelen werken er niet mee. Geofencing en open-raamdetectie zitten achter het optionele AI Assist van 3,99 euro per maand. Kopers op bol geven hem gemiddeld een 4,7 en dat is hoog voor een slimme thermostaat.",
+      "ean": "4260328612743",
+      "bol_title": "tado° Bedrade Slimme Thermostaat X (2e gen.) - Smart Thermostaat - OpenTherm & Relay - Matter - Google Home, Alexa & Apple Home - Wit",
+      "url": "https://www.bol.com/nl/nl/p/tado-bedrade-slimme-thermostaat-x-opentherm-relay-matter-bridge-x-vereist-wit/9300000361731094/",
+      "image": "https://media.s-bol.com/J55qQxjZxjw2/r8D8zj4/550x387.jpg",
       "ph": {
-        "2026-11-05": 180.0,
-        "2026-11-06": 180.0,
-        "2026-11-07": 145.0,
-        "2026-11-08": 145.0,
-        "2026-11-09": 145.0,
-        "2026-11-10": 179.99
+        "2026-11-10": 96.0
       },
-      "low_price": 145.0,
-      "synced": "2026-11-10",
-      "prev_price": 145.0,
-      "prev_date": "2026-11-09"
+      "low_price": 96.0,
+      "synced": "2026-11-10"
     },
     {
       "brand": "Honeywell",

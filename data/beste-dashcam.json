@@ -588,66 +588,41 @@
       "low_price": 119.95
     },
     {
-      "brand": "70mai",
-      "name": "Dash Cam M200",
-      "price": 54.95,
+      "brand": "AZDome",
+      "name": "M330",
+      "price": 44.99,
       "score": 7.9,
       "label": null,
-      "reviews": "1.400+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Goedkope en onopvallende Full HD-dashcam voor beginners.",
       "specs": {
         "Resolutie": "1080p",
         "Camera's": "Alleen voor",
-        "Nachtzicht": "Standaard sensor",
+        "Nachtzicht": "SC3335-sensor",
         "GPS": "Nee",
-        "Parkeerstand": "Beperkt"
+        "Parkeerstand": "Time-lapse, met losse voedingskabel"
       },
       "pros": [
         "Zeer lage prijs",
         "Klein en onopvallend",
-        "Eenvoudige bediening via de app",
-        "Betrouwbare loop-opname"
+        "Brede kijkhoek van 170 graden",
+        "Wifi op 2,4 en 5 GHz met app"
       ],
       "cons": [
-        "Matig nachtbeeld",
-        "Geen GPS"
+        "Geen GPS",
+        "Parkeerstand vraagt een losse voedingskabel"
       ],
       "ideal": "Wie voor zo weinig mogelijk geld een basale dashcam wil.",
-      "text": "De 70mai M200 is de instapper in deze lijst en voor wie gewoon een dashcam wil hebben voor het geval dat. Hij filmt in Full HD met een beeldhoek van 140 graden. Overdag is het beeld prima om een aanrijding en de situatie vast te leggen. De G-sensor zorgt dat een clip bij een botsing automatisch wordt beveiligd tegen overschrijven.\n\nDe dashcam heeft geen scherm. Je bedient hem via de 70mai-app, waar je ook beelden bekijkt en downloadt. Het formaat is klein, waardoor hij achter de spiegel nauwelijks opvalt. De nadelen zijn duidelijk: GPS ontbreekt en 's nachts zijn kentekens moeilijk leesbaar. Gebruikers zijn tevreden over de betrouwbaarheid en de prijs, maar waarschuwen dat je voor serieus bewijs beter een duurder model kunt kiezen. Als eerste dashcam of voor een tweede auto is hij prima geschikt.",
-      "ean": "6971669782719",
-      "bol_title": "70mai Dash Cam M200 - Dashcam - Full HD 1080p opname - WiFi app bediening - G-sensor en loop recording - Compact design - Nachtzicht voor veilig rijden en bewijs bij incidenten",
-      "url": "https://www.bol.com/nl/nl/p/wideorejestrator-70mai-dash-cam-3/9300000171426574/",
-      "image": "https://media.s-bol.com/go24BKYz0PNr/j2LPrAB/550x292.jpg",
-      "synced": "2026-11-10",
+      "text": "De AZDome M330 is de instapper in deze lijst en bedoeld voor wie gewoon een dashcam wil hebben voor het geval dat. Hij filmt in Full HD met een brede kijkhoek van 170 graden, zodat ook de rijstroken naast je in beeld komen. De behuizing is een klein cilindertje dat je met de plakhouder achter de spiegel hangt en 90 graden kunt draaien. De G-sensor beveiligt een clip automatisch bij een schok.\n\nOp het schermpje van 1 inch zie je alleen de status en de opnameduur. Beelden bekijken en downloaden doe je via wifi in de AZDome-app. Dankzij H.265-compressie passen er meer uren op de geheugenkaart, die maximaal 128 GB groot mag zijn en niet wordt meegeleverd. Een parkeerstand met time-lapse is er, maar alleen als je de losse permanente voedingskabel erbij koopt. GPS ontbreekt, dus snelheid en locatie staan niet in beeld. Verwacht in het donker ook geen wonderen van een Full HD-sensor. Als eerste dashcam of voor een tweede auto is hij voor rond de 45 euro prima geschikt.",
+      "ean": "6973888261266",
+      "bol_title": "AZDome M330 dashcam voor auto - 170 graden kijkhoek - Nachtzicht - FullHD video - Wifi - Super compact - Parkeermodus - 1.0 inch TNT scherm - dashcam voor auto",
+      "url": "https://www.bol.com/nl/nl/p/azdome-dashcam-m330-1296p-wifi-auto-video-recorder-zwart/9300000184449730/",
+      "image": "https://media.s-bol.com/Jn3RlDK6x8rJ/yPnznlE/550x535.jpg",
       "ph": {
-        "2026-10-15": 54.95,
-        "2026-10-16": 54.95,
-        "2026-10-17": 54.95,
-        "2026-10-18": 54.95,
-        "2026-10-19": 54.95,
-        "2026-10-20": 54.95,
-        "2026-10-21": 54.95,
-        "2026-10-23": 54.95,
-        "2026-10-24": 54.95,
-        "2026-10-25": 54.95,
-        "2026-10-26": 54.95,
-        "2026-10-27": 54.95,
-        "2026-10-28": 54.95,
-        "2026-10-29": 54.95,
-        "2026-10-30": 54.95,
-        "2026-10-31": 54.95,
-        "2026-11-01": 54.95,
-        "2026-11-02": 54.95,
-        "2026-11-03": 54.95,
-        "2026-11-04": 54.95,
-        "2026-11-05": 54.95,
-        "2026-11-06": 54.95,
-        "2026-11-07": 54.95,
-        "2026-11-08": 54.95,
-        "2026-11-09": 54.95,
-        "2026-11-10": 54.95
+        "2026-11-10": 44.99
       },
-      "low_price": 54.95
+      "low_price": 44.99,
+      "synced": "2026-11-10"
     }
   ],
   "guide": [

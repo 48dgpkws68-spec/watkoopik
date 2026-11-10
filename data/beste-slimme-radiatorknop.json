@@ -313,53 +313,41 @@
       "prev_date": "2026-11-05"
     },
     {
-      "brand": "Danfoss",
-      "name": "Ally Starterspakket",
-      "price": 145.02,
+      "brand": "Meross",
+      "name": "Smart Thermostat Valve Starter Kit",
+      "price": 77.95,
       "score": 8.3,
       "label": null,
-      "reviews": "200+ reviews",
-      "oneliner": "Zigbee-systeem van de bekende kranenbouwer, met gateway.",
+      "reviews": "Nog weinig reviews",
+      "oneliner": "Betaalbare starterskit met hub die ook met Apple Home werkt.",
       "specs": {
-        "Inhoud": "2 radiatorknoppen + gateway",
-        "Verbinding": "Zigbee 3.0",
-        "Hub nodig": "Ally Gateway zit erbij",
+        "Inhoud": "1 radiatorknop + hub",
+        "Verbinding": "Wifi (hub), radio",
+        "Hub nodig": "Meross-hub zit erbij",
         "Voeding": "AA-batterijen",
-        "Werkt met": "Google, Alexa"
+        "Werkt met": "Google, Alexa, Apple Home, SmartThings"
       },
       "pros": [
-        "Danfoss maakt zelf radiatorkranen, dus brede pasvorm",
-        "Gateway zit in het pakket",
-        "Leert hoe snel elke kamer opwarmt"
+        "Werkt met Apple Home, Google, Alexa en SmartThings",
+        "Hub zit in het pakket",
+        "Open-raamdetectie",
+        "Uit te breiden tot 16 apparaten per hub"
       ],
       "cons": [
-        "App oogt zakelijk",
-        "Geen Apple Home"
+        "Nog weinig reviews op bol",
+        "Maar één knop in de starterskit"
       ],
-      "ideal": "Wie een degelijk Zigbee-systeem wil van een fabrikant die al decennia radiatorkranen maakt.",
-      "text": "Danfoss maakt al tientallen jaren thermostatische radiatorkranen en dat merk je aan het Ally-systeem. In het starterspakket zitten de Ally Gateway en twee radiatorknoppen. De gateway sluit je met een kabel aan op je router. Daarna koppel je de knoppen via Zigbee 3.0, waardoor je later ook knoppen van andere Zigbee-merken kunt toevoegen.\n\nDe Ally-knop leert hoe snel elke kamer opwarmt en begint daarom op tijd met verwarmen, zodat de kamer precies op het geplande moment warm is. Dat voorkomt dat je in het stookseizoen uren te vroeg stookt. Met de meegeleverde adapters past de knop op vrijwel alle Nederlandse radiatorkranen. De app werkt met Google Home en Alexa. Gebruikers prijzen de stille werking en de pasvorm. Minder sterk is de app, die functioneel maar wat zakelijk aanvoelt. Wie veel waarde hecht aan design kijkt eerder naar Netatmo.",
-      "ean": "5702424056551",
-      "bol_title": "Danfoss Ally™ Starterspakket Elektronisch 5 tot 35 °C",
-      "url": "https://www.bol.com/nl/nl/p/danfoss-ally-starterspakket-elektronisch-5-tot-35-c/9300000063268059/",
-      "image": "https://media.s-bol.com/oOgg05qp5A1X/31Vy2NM/550x550.jpg",
+      "ideal": "Wie voor weinig geld met één kamer wil beginnen en een knop zoekt die met Apple Home, Google en Alexa werkt.",
+      "text": "Meross maakt betaalbare smart home-apparaten die met vrijwel elk platform praten. Deze starterskit bestaat uit één slimme radiatorknop en de bijbehorende hub. De hub hangt aan je wifi en stuurt de knop draadloos aan. Je kunt er later tot zestien Meross-apparaten aan koppelen, zoals extra knoppen en sensoren. Zo begin je met één kamer en breid je per radiator uit.\n\nHet sterke punt is de brede koppeling. De kit werkt met Apple Home, Google Assistant, Alexa en SmartThings en dat is in deze prijsklasse niet vanzelfsprekend. In de app stel je per kamer een stookschema in en bedien je de verwarming ook als je niet thuis bent. De knop herkent een open raam en stopt dan met verwarmen. Op bol heeft de set nog weinig beoordelingen, dus daar kun je minder op varen dan bij Tado of Netatmo. Controleer vooraf of je radiatorkraan de gangbare M30-aansluiting heeft of dat je een adapter nodig hebt.",
+      "ean": "6973696562654",
+      "bol_title": "Meross Smart Thermostat Valve Starter Kit - Apple HomeKit",
+      "url": "https://www.bol.com/nl/nl/p/meross-smart-thermostat-valve-starter-kit-apple-homekit/9300000071046225/",
+      "image": "https://media.s-bol.com/q6w8R5M5lz0R/36wA6jx/550x533.jpg",
       "ph": {
-        "2026-10-30": 145.02,
-        "2026-10-31": 145.02,
-        "2026-11-01": 145.02,
-        "2026-11-02": 145.02,
-        "2026-11-03": 145.02,
-        "2026-11-04": 144.0,
-        "2026-11-05": 145.02,
-        "2026-11-06": 145.02,
-        "2026-11-07": 145.02,
-        "2026-11-08": 145.02,
-        "2026-11-09": 145.02,
-        "2026-11-10": 145.02
+        "2026-11-10": 77.95
       },
-      "low_price": 144.0,
-      "synced": "2026-11-10",
-      "prev_price": 144.0,
-      "prev_date": "2026-11-04"
+      "low_price": 77.95,
+      "synced": "2026-11-10"
     },
     {
       "brand": "Shelly",
@@ -504,7 +492,7 @@
     },
     {
       "h": "Hub, bridge of niets?",
-      "p": "De meeste knoppen hebben een hub nodig om via internet bediend te worden. Tado, Netatmo, Danfoss en AQIOS leveren die in de starterskit. Bosch en Honeywell werken met een eigen controller. De Danfoss Eco heeft helemaal geen hub nodig en werkt via Bluetooth. Aqara werkt via Matter over Thread, waarvoor een Apple TV, HomePod mini of Google Nest Hub volstaat. Kijk dus eerst wat je al in huis hebt."
+      "p": "De meeste knoppen hebben een hub nodig om via internet bediend te worden. Tado, Netatmo, Meross en AQIOS leveren die in de starterskit. Bosch en Honeywell werken met een eigen controller. De Danfoss Eco heeft helemaal geen hub nodig en werkt via Bluetooth. Aqara werkt via Matter over Thread, waarvoor een Apple TV, HomePod mini of Google Nest Hub volstaat. Kijk dus eerst wat je al in huis hebt."
     },
     {
       "h": "Past hij op mijn radiator?",

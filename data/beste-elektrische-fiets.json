@@ -17,7 +17,7 @@
   "updated": "2026-10-15",
   "reviews_total": "2.300",
   "intro": "Een elektrische fiets maakt woon-werkverkeer, boodschappen en lange tochten een stuk lichter. Je komt minder bezweet aan en met tegenwind of een brug merk je nauwelijks verschil. Online vind je inmiddels e-bikes voor een fractie van de prijs in de fietswinkel, maar de kwaliteit loopt sterk uiteen. Wij vergeleken ruim veertig elektrische fietsen die je bij bol kunt bestellen op motor, accu, actieradius, onderdelen en de ervaringen van kopers. Dit zijn de tien beste.",
-  "verdict": "De REX Commuter+ is de beste elektrische fiets die je online bestelt: een middenmotor van 70 Nm, een accu van 468 Wh en degelijke Shimano-onderdelen voor een eerlijke prijs. Wil je comfort zonder schakelen, dan is de Rabeneick met Enviolo-naaf de beste premiumkeuze. Op een kleiner budget levert de HillMiles MileCity 1 de beste prijs-kwaliteit. Houd bij elke online e-bike rekening met montage en onderhoud.",
+  "verdict": "De REX Commuter+ is de beste elektrische fiets die je online bestelt: een middenmotor van 70 Nm, een accu van 468 Wh en degelijke Shimano-onderdelen voor een eerlijke prijs. Wil je comfort zonder schakelen, dan is de Rabeneick met Enviolo-naaf de beste premiumkeuze. Op een kleiner budget levert de TTGO C3 de beste prijs-kwaliteit. Houd bij elke online e-bike rekening met montage en onderhoud.",
   "products": [
     {
       "brand": "REX",
@@ -327,68 +327,41 @@
       "low_price": 1399.0
     },
     {
-      "brand": "HillMiles",
-      "name": "MileCity 1",
-      "price": 579.0,
+      "brand": "TTGO",
+      "name": "C3 28 inch",
+      "price": 899.0,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "200+ reviews",
-      "oneliner": "Betaalbare stads e-bike met uitneembare accu en lage instap.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "Stads e-bike met 28 inch wielen en een grote accu van 648 Wh.",
       "specs": {
         "Motor": "Achterwielmotor, 250 W",
-        "Accu": "468 Wh",
-        "Actieradius": "ca. 50 tot 80 km",
-        "Wielmaat": "26 inch",
+        "Accu": "648 Wh",
+        "Actieradius": "tot 120 km",
+        "Wielmaat": "28 inch",
         "Versnellingen": "Shimano 7"
       },
       "pros": [
-        "Lage prijs",
-        "Uitneembare accu van 36V 13Ah",
-        "Lage instap",
-        "Veel reviews"
+        "Grote accu van 648 Wh",
+        "28 inch wielen en lage instap",
+        "Verende voorvork en schijfremmen",
+        "Gemiddeld 4,7 sterren op bol"
       ],
       "cons": [
         "Achterwielmotor",
-        "Onderdelen eenvoudiger dan duurdere merken"
+        "Ongeveer 26 kilo zwaar"
       ],
-      "ideal": "Wie voor weinig geld wil ontdekken of elektrisch fietsen bij hem past.",
-      "text": "De HillMiles MileCity 1 is een van de populairste goedkope e-bikes op bol. Voor rond de zeshonderd euro krijg je een stadsfiets met een motor van 250 W in het achterwiel, een uitneembare accu van 36 V en 13 Ah en een Shimano 7-versnellingssysteem. De lage instap maakt hem geschikt voor korte en lange rijders.\n\nDe actieradius ligt bij normaal gebruik tussen de 50 en 80 kilometer, genoeg voor een week woon-werkverkeer over korte afstand. Kopers geven hem gemiddeld 4,3 sterren en noemen vooral de prijs en het gemak. De onderdelen zijn eenvoudiger dan bij duurdere merken, dus rekening houden met wat meer onderhoud is verstandig. Een achterwielmotor geeft minder natuurlijke ondersteuning dan een middenmotor, maar op vlakke wegen merk je dat weinig. Voor deze prijs is dit de beste prijs-kwaliteit.",
-      "ean": "0760784527215",
-      "bol_title": "HillMiles Milecity 1 Elektrische Fiets - Motor 250W - Actieradius 80km - Verwijderbare batterij 36V13Ah - Shimano 7 versnellingen - 26 Inch City Commuter EBike - Blauw",
-      "url": "https://www.bol.com/nl/nl/p/hillmiles-milecity-1-elektrische-fiets-motor-250w-actieradius-80km-verwijderbare-batterij-36v13ah-shimano-7-versnellingen-26-inch-city-commuter-ebike-blauw/9300000269913018/",
-      "image": "https://media.s-bol.com/NvzX1zQ6oEYN/mQwQmWO/550x515.jpg",
-      "synced": "2026-11-10",
+      "ideal": "Wie een complete stadsfiets met een grote accu zoekt zonder meer dan duizend euro uit te geven.",
+      "text": "De TTGO C3 is een stadsfiets met 28 inch wielen en een aluminium frame met lage instap. Wat hem interessant maakt is de accu: 36 V en 18 Ah, samen 648 Wh. Dat is meer dan bij de meeste fietsen in deze lijst die een paar honderd euro duurder zijn. Volgens de fabrikant haal je er tot 120 kilometer mee in een lage ondersteuningsstand. Reken in de praktijk op minder, maar een week woon-werkverkeer zonder laden is haalbaar.\n\nDe motor van 250 W zit in het achterwiel. Je schakelt met Shimano 7-versnellingen en remt met mechanische schijfremmen. Een verende voorvork en banden van 2 inch breed vangen klinkers en drempels op. Kopers op bol geven hem gemiddeld 4,7 sterren. Met ongeveer 26 kilo is het geen lichte fiets en een achterwielmotor voelt minder natuurlijk dan een middenmotor. Voor rond de 900 euro krijg je wel veel accu en een complete uitrusting. Dat maakt dit de beste prijs-kwaliteit in deze lijst.",
+      "ean": "0762740023861",
+      "bol_title": "Elektrische Fiets TTGO C3 - 36V 18AH Accu - Actieradius Tot 120 Km - 28×2.0 Inch Wielen - Aluminium Lage Instapframe - Shimano 7 Versnellingen - Mechanische Schijfremmen - LCD Display - Elektrische Stadsfiets - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/elektrische-fiets-ttgo-c3-36v-18ah-accu-actieradius-tot-120-km-28-2-0-inch-wielen-aluminium-lage-instapframe-shimano-7-versnellingen-mechanische-schijfremmen-lcd-display-elektrische-stadsfiets-zwart/9300000304137799/",
+      "image": "https://media.s-bol.com/75QJgq3JMm8y/328EpLA/550x550.jpg",
       "ph": {
-        "2026-10-15": 599.0,
-        "2026-10-16": 599.0,
-        "2026-10-17": 599.0,
-        "2026-10-18": 599.0,
-        "2026-10-19": 559.0,
-        "2026-10-20": 599.0,
-        "2026-10-21": 549.0,
-        "2026-10-23": 549.0,
-        "2026-10-24": 549.0,
-        "2026-10-25": 549.0,
-        "2026-10-26": 549.0,
-        "2026-10-27": 549.0,
-        "2026-10-28": 549.0,
-        "2026-10-29": 549.0,
-        "2026-10-30": 549.0,
-        "2026-10-31": 549.0,
-        "2026-11-01": 549.0,
-        "2026-11-02": 579.0,
-        "2026-11-03": 579.0,
-        "2026-11-04": 579.0,
-        "2026-11-05": 579.0,
-        "2026-11-06": 579.0,
-        "2026-11-07": 579.0,
-        "2026-11-08": 579.0,
-        "2026-11-09": 579.0,
-        "2026-11-10": 579.0
+        "2026-11-10": 899.0
       },
-      "low_price": 549.0,
-      "prev_price": 549.0,
-      "prev_date": "2026-11-01"
+      "low_price": 899.0,
+      "synced": "2026-11-10"
     },
     {
       "brand": "Saxonette",
@@ -415,7 +388,7 @@
         "Voorwielmotor"
       ],
       "ideal": "Wie een klassieke damesfiets met elektrische ondersteuning zoekt.",
-      "text": "Saxonette is een Duits merk dat al lang betaalbare e-bikes maakt. De Degreaser is een klassieke damesfiets met een lage instap, een framemaat van 50 cm en een uitneembare accu van 10,4 Ah. Dat komt neer op ongeveer 374 Wh, goed voor 40 tot 70 kilometer bij normaal gebruik.\n\nDe motor zit in het voorwiel, wat de fiets een gelijkmatige gewichtsverdeling geeft. Voorwielmotoren voelen iets minder sportief en kunnen op gladde ondergrond sneller doorslippen, maar zijn eenvoudig en betrouwbaar. Je schakelt met zeven versnellingen. Er zijn nog weinig reviews op bol. Het merk staat in Duitsland bekend als degelijk. Vergeleken met de HillMiles betaal je meer, maar krijg je 28 inch wielen en een gevestigd merk. Voor rustige ritten naar de winkel of vrienden is het een prima fiets. De rustige ondersteuning maakt hem bovendien prettig voor wie voor het eerst elektrisch fietst.",
+      "text": "Saxonette is een Duits merk dat al lang betaalbare e-bikes maakt. De Degreaser is een klassieke damesfiets met een lage instap, een framemaat van 50 cm en een uitneembare accu van 10,4 Ah. Dat komt neer op ongeveer 374 Wh, goed voor 40 tot 70 kilometer bij normaal gebruik.\n\nDe motor zit in het voorwiel, wat de fiets een gelijkmatige gewichtsverdeling geeft. Voorwielmotoren voelen iets minder sportief en kunnen op gladde ondergrond sneller doorslippen, maar zijn eenvoudig en betrouwbaar. Je schakelt met zeven versnellingen. Er zijn nog weinig reviews op bol. Het merk staat in Duitsland bekend als degelijk. Vergeleken met de TTGO C3 is de accu kleiner, maar krijg je een gevestigd merk. Voor rustige ritten naar de winkel of vrienden is het een prima fiets. De rustige ondersteuning maakt hem bovendien prettig voor wie voor het eerst elektrisch fietst.",
       "ean": "4260416588301",
       "bol_title": "Saxonette Degreaser elektrische fiets - dames ebike 50 cm 10.4 Ah 7sp zilver",
       "url": "https://www.bol.com/nl/nl/p/degreaser-dames-ebike-50-cm-10-4-ah-7sp-zilver/9300000247315877/",
@@ -539,7 +512,7 @@
         "Achterwielmotor"
       ],
       "ideal": "Wie een betaalbare stap-in fiets met veel actieradius zoekt.",
-      "text": "De Touroll J2 ST is een stads e-bike met een lage instap en een accu van 561,6 Wh. Dat is fors voor een fiets van deze prijs en levert in een lage ondersteuningsstand tot 100 kilometer op. De accu is uitneembaar, zodat je hem binnen kunt opladen.\n\nDe motor van 250 W met 45 Nm zit in het achterwiel en ondersteunt tot 25 km/u. Je schakelt met Shimano 7-versnellingen. De beoordelingen op bol zijn wisselend: kopers zijn positief over de accu en de rit, maar sommigen melden dat de montage en afstelling extra aandacht vragen. Laat de remmen en versnellingen na de eerste weken controleren door een fietsenmaker. Wie bereid is dat te doen, krijgt een fiets met veel actieradius voor een lage prijs. Wil je meer zekerheid, kies dan voor de HillMiles of een REX.",
+      "text": "De Touroll J2 ST is een stads e-bike met een lage instap en een accu van 561,6 Wh. Dat is fors voor een fiets van deze prijs en levert in een lage ondersteuningsstand tot 100 kilometer op. De accu is uitneembaar, zodat je hem binnen kunt opladen.\n\nDe motor van 250 W met 45 Nm zit in het achterwiel en ondersteunt tot 25 km/u. Je schakelt met Shimano 7-versnellingen. De beoordelingen op bol zijn wisselend: kopers zijn positief over de accu en de rit, maar sommigen melden dat de montage en afstelling extra aandacht vragen. Laat de remmen en versnellingen na de eerste weken controleren door een fietsenmaker. Wie bereid is dat te doen, krijgt een fiets met veel actieradius voor een lage prijs. Wil je meer zekerheid, kies dan voor de TTGO C3 of een REX.",
       "ean": "5010065301658",
       "bol_title": "Touroll J2 ST Elektrische Fiets Stap-in 100KM Actieradius 250W 45Nm E-Bike 26 inch Afneembare Accu 561,6Wh Shimano 7 Versnellingen Dames Stadsfiets Laag Instap Woonwerk Vrouwen Senioren Voorvering Schijfremmen 120kg J1 ST Upgrade 2026Nieuw Cadeau Tip",
       "url": "https://www.bol.com/nl/nl/p/touroll-roamer-2-step-thru-elektrische-fiets-e-bike-lage-instap-250w-motor-100-km-actieradius-shimano-7-versnellingen-voorvering-schijfremmen/9300000340938873/",
@@ -664,7 +637,7 @@
   "faq": [
     {
       "q": "Wat is de beste elektrische fiets van 2026?",
-      "a": "Van de e-bikes die je bij bol bestelt komt de REX Commuter+ als beste uit onze vergelijking, dankzij een middenmotor van 70 Nm en een accu van 468 Wh. De beste prijs-kwaliteit is de HillMiles MileCity 1."
+      "a": "Van de e-bikes die je bij bol bestelt komt de REX Commuter+ als beste uit onze vergelijking, dankzij een middenmotor van 70 Nm en een accu van 468 Wh. De beste prijs-kwaliteit is de TTGO C3."
     },
     {
       "q": "Is een goedkope e-bike van internet betrouwbaar?",
@@ -687,5 +660,7 @@
       "a": "Ja, als de ondersteuning stopt bij 25 km/u en het motorvermogen maximaal 250 W is. Opgevoerde fatbikes zijn niet toegestaan op de openbare weg."
     }
   ],
-  "published": "2026-10-15"
+  "published": "2026-10-15",
+  "meta_title": "Beste elektrische fiets 2026: top 10 e-bikes vergeleken",
+  "meta_desc": "De beste elektrische fiets van 2026 is de {top}. Top 10 e-bikes vergeleken op actieradius, motor, accu en prijs, met de beste keuze onder 1000 euro."
 }

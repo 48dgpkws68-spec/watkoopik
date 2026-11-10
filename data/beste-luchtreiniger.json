@@ -22,7 +22,7 @@
     {
       "brand": "Philips",
       "name": "PureProtect 3200 Series",
-      "price": 266.03,
+      "price": 199.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -47,20 +47,16 @@
       ],
       "ideal": "Wie de lucht in een grote woonkamer of open keuken snel schoon wil hebben.",
       "text": "De PureProtect 3200 is de opvolger van de populaire 3000i-reeks van Philips. Met een CADR van 520 kubieke meter per uur ververst hij de lucht in een woonkamer van gemiddelde grootte meerdere keren per uur. Philips noemt ruimtes tot 135 vierkante meter, maar ook in een kleinere kamer is die reserve handig: je laat hem op een lage, stille stand draaien en hij doet toch zijn werk.\n\nHet filter bestaat uit drie lagen: een voorfilter voor haren en grof stof, een HEPA-laag voor pollen en fijnstof en actieve kool tegen geurtjes. Een sensor meet de luchtkwaliteit en een gekleurde ring laat zien hoe schoon de lucht is. Via de Air+ app volg je de waardes en het filterverbruik. Vervangfilters kosten wel geld en het apparaat neemt plek in. Kopers op bol geven gemiddeld een 4,7. Voor de meeste huishoudens is dit de beste balans tussen kracht, stilte en prijs.",
-      "ean": "8720389039317",
-      "search": "Philips PureProtect 3200 AC3220/10",
-      "bol_title": "Philips PureProtect 3200-serie Slimme Luchtzuiveraar AC3220/10",
-      "url": "https://www.bol.com/nl/nl/p/philips-3200-series-pureprotect-3200-serie/9300000188249126/",
-      "image": "https://media.s-bol.com/75GjXZGQDywy/D9LO0ox/547x840.jpg",
+      "ean": "8720389039560",
+      "search": "Philips PureProtect 3200 AC3221/13",
+      "bol_title": "Philips PureProtect 3200-serie Slimme Luchtreiniger AC3221/13",
+      "url": "https://www.bol.com/nl/nl/p/air/9300000186181886/",
+      "image": "https://media.s-bol.com/wB3OrNJ7mN5R/KZjoQNJ/543x840.jpg",
       "ph": {
-        "2026-11-08": 266.03,
-        "2026-11-09": 270.05,
-        "2026-11-10": 266.03
+        "2026-11-10": 199.0
       },
-      "low_price": 266.03,
-      "synced": "2026-11-10",
-      "prev_price": 270.05,
-      "prev_date": "2026-11-09"
+      "low_price": 199.0,
+      "synced": "2026-11-10"
     },
     {
       "brand": "Winix",
@@ -632,7 +628,7 @@
     "keuzes": [
       {
         "h": "Hoe groot is de kamer?",
-        "p": "Reken de inhoud van je kamer uit en vermenigvuldig die met vier: dat is de CADR die je ongeveer nodig hebt. Voor een slaapkamer tot 35 m2 is nr. 4 Levoit Vital 200S Pro (€ 256, 255 m3/u) genoeg. Voor een grote woonkamer of open keuken kies je nr. 1 Philips PureProtect 3200 (€ 266, 520 m3/u), nr. 2 Winix T800 Wifi (€ 149, 500 m3/u) of nr. 5 Xiaomi 4 Pro (€ 250, 500 m3/u)."
+        "p": "Reken de inhoud van je kamer uit en vermenigvuldig die met vier: dat is de CADR die je ongeveer nodig hebt. Voor een slaapkamer tot 35 m2 is nr. 4 Levoit Vital 200S Pro (€ 256, 255 m3/u) genoeg. Voor een grote woonkamer of open keuken kies je nr. 1 Philips PureProtect 3200 (€ 199, 520 m3/u), nr. 2 Winix T800 Wifi (€ 149, 500 m3/u) of nr. 5 Xiaomi 4 Pro (€ 250, 500 m3/u)."
       },
       {
         "h": "Staat hij naast je bed?",
@@ -654,11 +650,11 @@
     "wanneer": [
       {
         "rank": 2,
-        "p": "De Winix T800 Wifi past beter als je veel capaciteit wilt voor een lager bedrag. Hij kost € 149, ruim € 100 minder dan de Philips 3200 van € 266. Met 500 m3/u tegen 520 m3/u zit hij qua capaciteit dicht bij de Philips. Hij werkt met Alexa en Google Home en draagt het keurmerk van ECARF en Allergy UK. De sensor en de app van de Philips zijn wel verfijnder."
+        "p": "De Winix T800 Wifi past beter als je veel capaciteit wilt voor een lager bedrag. Hij kost € 149, € 50 minder dan de Philips 3200 van € 199. Met 500 m3/u tegen 520 m3/u zit hij qua capaciteit dicht bij de Philips. Hij werkt met Alexa en Google Home en draagt het keurmerk van ECARF en Allergy UK. De sensor en de app van de Philips zijn wel verfijnder."
       },
       {
         "rank": 3,
-        "p": "De Dyson PH2 De-NOx is beter als je lucht niet alleen wilt reinigen maar ook bevochtigen of koelen. Dat is handig in een droog huis in de winter of op warme dagen. Het koolfilter vangt ook stikstofdioxide en UV-C houdt het water hygiënisch. Hij kost € 749, ruim € 480 meer dan de Philips 3200. Het waterreservoir moet je regelmatig vullen. Voor alleen reinigen levert de Philips meer capaciteit."
+        "p": "De Dyson PH2 De-NOx is beter als je lucht niet alleen wilt reinigen maar ook bevochtigen of koelen. Dat is handig in een droog huis in de winter of op warme dagen. Het koolfilter vangt ook stikstofdioxide en UV-C houdt het water hygiënisch. Hij kost € 649, € 450 meer dan de Philips 3200. Het waterreservoir moet je regelmatig vullen. Voor alleen reinigen levert de Philips meer capaciteit."
       }
     ]
   },
