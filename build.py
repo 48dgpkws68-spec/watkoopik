@@ -503,6 +503,11 @@ def chrome(active, root):
 
 PREF_BTN = '<a class="pref-src" href="https://google.com/preferences/source?q=watkoopik.nl" target="_blank" rel="noopener" data-umami-event="preferred-source"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="#4285F4" d="M22.5 12.3c0-.8-.1-1.5-.2-2.3H12v4.3h5.9a5 5 0 0 1-2.2 3.3v2.7h3.6c2.1-1.9 3.2-4.8 3.2-8z"/><path fill="#34A853" d="M12 23c3 0 5.5-1 7.3-2.7l-3.6-2.7c-1 .7-2.2 1-3.7 1-2.9 0-5.3-1.9-6.2-4.5H2.1v2.8A11 11 0 0 0 12 23z"/><path fill="#FBBC05" d="M5.8 14.1a6.6 6.6 0 0 1 0-4.2V7.1H2.1a11 11 0 0 0 0 9.8z"/><path fill="#EA4335" d="M12 5.4c1.6 0 3 .6 4.2 1.6l3.1-3.1A11 11 0 0 0 2.1 7.1l3.7 2.8C6.7 7.3 9.1 5.4 12 5.4z"/></svg>Voeg watkoopik toe als voorkeursbron in Google</a>'
 
+# Zustersites per land (groeimotor 11 nov 2026, E39): vaste regel onderaan elke pagina, eigen land zonder link.
+LANDEN = [("watkoopik.nl", "Nederland", "nl"), ("derkauftipp.de", "Deutschland", "de"), ("lequelprendre.fr", "France", "fr"), ("getthatone.com", "United States", "en-US"), ("getthatone.co.uk", "United Kingdom", "en-GB"), ("checomprare.it", "Italia", "it"), ("cualelijo.es", "España", "es"), ("ktorykupic.pl", "Polska", "pl"), ("qualcompro.com", "Portugal", "pt")]
+def landen_regel(eigen):
+    return '<div class="fine" style="border-top:0;margin-top:8px;padding-top:0">🌍 ' + " · ".join(n if d == eigen else '<a href="https://%s/" hreflang="%s">%s</a>' % (d, h, n) for d, n, h in LANDEN) + '</div>'
+
 def footer(root):
     pop = "".join('<li><a href="%s%s">%s</a></li>' % (root, g["url"], e(g["short"])) for g in guides[:5])
     pop += '</ul><h4 style="margin-top:18px">Overzichten</h4><ul>' + "".join('<li><a href="%s%s">%s</a></li>' % (root, c["hub"], e(hub_q(c))) for c in sorted(HUBS, key=lambda c: -len(c["members"]))[:8])
@@ -512,12 +517,12 @@ def footer(root):
 <div><h4>Populair</h4><ul>%s</ul></div>
 <div><h4>Categorieën</h4><ul>%s</ul></div>
 <div><h4>watkoopik</h4><ul><li><a href="%skeuzehulp.html">Keuzehulp</a></li><li><a href="%sslimste-koop.html">Slimste koop</a></li><li><a href="%szo-kiezen-wij.html">Zo kiezen wij</a></li><li><a href="%sover-ons.html">Over ons</a></li><li><a href="%scontact.html">Contact</a></li><li><a href="%sprivacy.html">Privacy</a></li><li><a href="%sdisclaimer.html">Affiliate-disclaimer</a></li></ul></div>
-</div><div class="pref-wrap"><a class="pref-src" href="https://google.com/preferences/source?q=watkoopik.nl" target="_blank" rel="noopener" data-umami-event="preferred-source"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="#4285F4" d="M22.5 12.3c0-.8-.1-1.5-.2-2.3H12v4.3h5.9a5 5 0 0 1-2.2 3.3v2.7h3.6c2.1-1.9 3.2-4.8 3.2-8z"/><path fill="#34A853" d="M12 23c3 0 5.5-1 7.3-2.7l-3.6-2.7c-1 .7-2.2 1-3.7 1-2.9 0-5.3-1.9-6.2-4.5H2.1v2.8A11 11 0 0 0 12 23z"/><path fill="#FBBC05" d="M5.8 14.1a6.6 6.6 0 0 1 0-4.2V7.1H2.1a11 11 0 0 0 0 9.8z"/><path fill="#EA4335" d="M12 5.4c1.6 0 3 .6 4.2 1.6l3.1-3.1A11 11 0 0 0 2.1 7.1l3.7 2.8C6.7 7.3 9.1 5.4 12 5.4z"/></svg>Voeg watkoopik toe als voorkeursbron in Google</a></div><div class="fine">© %d watkoopik · Wij ontvangen mogelijk een vergoeding als je via onze links iets koopt. Dit kost jou niets extra en beïnvloedt de rangschikking niet. Prijzen zijn indicatief. Als Amazon-partner verdienen wij aan kwalificerende aankopen.</div></div></footer>
+</div><div class="pref-wrap"><a class="pref-src" href="https://google.com/preferences/source?q=watkoopik.nl" target="_blank" rel="noopener" data-umami-event="preferred-source"><svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="#4285F4" d="M22.5 12.3c0-.8-.1-1.5-.2-2.3H12v4.3h5.9a5 5 0 0 1-2.2 3.3v2.7h3.6c2.1-1.9 3.2-4.8 3.2-8z"/><path fill="#34A853" d="M12 23c3 0 5.5-1 7.3-2.7l-3.6-2.7c-1 .7-2.2 1-3.7 1-2.9 0-5.3-1.9-6.2-4.5H2.1v2.8A11 11 0 0 0 12 23z"/><path fill="#FBBC05" d="M5.8 14.1a6.6 6.6 0 0 1 0-4.2V7.1H2.1a11 11 0 0 0 0 9.8z"/><path fill="#EA4335" d="M12 5.4c1.6 0 3 .6 4.2 1.6l3.1-3.1A11 11 0 0 0 2.1 7.1l3.7 2.8C6.7 7.3 9.1 5.4 12 5.4z"/></svg>Voeg watkoopik toe als voorkeursbron in Google</a></div><div class="fine">© %d watkoopik · Wij ontvangen mogelijk een vergoeding als je via onze links iets koopt. Dit kost jou niets extra en beïnvloedt de rangschikking niet. Prijzen zijn indicatief. Als Amazon-partner verdienen wij aan kwalificerende aankopen.</div>%s</div></footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
 <script src="https://unpkg.com/lenis@1.1.13/dist/lenis.min.js" defer></script>
 <script src="%sapp.js?v=%s" defer></script>
-</body></html>''' % (root or "./", LOGO, pop, cats, root, root, root, root, root, root, root, YEAR, root, BUILD)
+</body></html>''' % (root or "./", LOGO, pop, cats, root, root, root, root, root, root, root, YEAR, landen_regel("watkoopik.nl"), root, BUILD)
 
 def page(path, title, desc, body, active=None, extra="", root=None, img=""):
     if root is None: root = "../" * path.count("/")
