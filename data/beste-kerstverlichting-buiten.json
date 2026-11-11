@@ -54,10 +54,11 @@
       "image": "https://media.s-bol.com/grqyY10mWxl/VOozRM5/550x822.jpg",
       "ph": {
         "2026-11-09": 32.95,
-        "2026-11-10": 32.95
+        "2026-11-10": 32.95,
+        "2026-11-11": 32.95
       },
       "low_price": 32.95,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Philips Hue",
@@ -93,15 +94,16 @@
       "image": "https://media.s-bol.com/PwEm56P324qA/Nk26mG8/550x604.jpg",
       "ph": {
         "2026-11-09": 181.0,
-        "2026-11-10": 181.0
+        "2026-11-10": 181.0,
+        "2026-11-11": 181.0
       },
       "low_price": 181.0,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Anna's Collection",
       "name": "Clusterverlichting 1152 LED 15 meter warm wit",
-      "price": 24.99,
+      "price": 31.63,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "4,2 sterren op bol",
@@ -131,12 +133,13 @@
       "image": "https://media.s-bol.com/ZrwGrDJmvL0g/QkA7x2Z/550x428.jpg",
       "ph": {
         "2026-11-09": 31.63,
-        "2026-11-10": 24.99
+        "2026-11-10": 24.99,
+        "2026-11-11": 31.63
       },
       "low_price": 24.99,
-      "synced": "2026-11-10",
-      "prev_price": 31.63,
-      "prev_date": "2026-11-09"
+      "synced": "2026-11-11",
+      "prev_price": 24.99,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "Twinkly",
@@ -171,10 +174,11 @@
       "image": "https://media.s-bol.com/gWw0zB6OAYPl/kRMNWQE/550x525.jpg",
       "ph": {
         "2026-11-09": 98.39,
-        "2026-11-10": 98.39
+        "2026-11-10": 98.39,
+        "2026-11-11": 98.39
       },
       "low_price": 98.39,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Springos",
@@ -209,10 +213,11 @@
       "image": "https://media.s-bol.com/YXoZ68NWwG0K/DYKDx5/550x526.jpg",
       "ph": {
         "2026-11-09": 49.95,
-        "2026-11-10": 49.95
+        "2026-11-10": 49.95,
+        "2026-11-11": 49.95
       },
       "low_price": 49.95,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Konstsmide",
@@ -248,10 +253,11 @@
       "image": "https://media.s-bol.com/OwKrmAznqlGR/D9kQ3ox/546x840.jpg",
       "ph": {
         "2026-11-09": 59.1,
-        "2026-11-10": 59.1
+        "2026-11-10": 59.1,
+        "2026-11-11": 59.1
       },
       "low_price": 59.1,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "EverNeeds",
@@ -287,10 +293,11 @@
       "image": "https://media.s-bol.com/JpW8W6J00pZP/2RDGWjK/550x550.jpg",
       "ph": {
         "2026-11-09": 32.95,
-        "2026-11-10": 32.95
+        "2026-11-10": 32.95,
+        "2026-11-11": 32.95
       },
       "low_price": 32.95,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Lumineo",
@@ -325,15 +332,16 @@
       "image": "https://media.s-bol.com/mWjxQM0XMjK3/4xG89Y0/550x534.jpg",
       "ph": {
         "2026-11-09": 23.79,
-        "2026-11-10": 23.79
+        "2026-11-10": 23.79,
+        "2026-11-11": 23.79
       },
       "low_price": 23.79,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Anna's Collection",
       "name": "Lichtnet 380 LED 300 x 300 cm warm wit",
-      "price": 32.87,
+      "price": 32.31,
       "score": 8.1,
       "label": null,
       "reviews": "Nieuw op bol",
@@ -362,12 +370,13 @@
       "image": "https://media.s-bol.com/xKNyjrEwmgw9/DqJr7gy/550x550.jpg",
       "ph": {
         "2026-11-09": 33.95,
-        "2026-11-10": 32.87
+        "2026-11-10": 32.87,
+        "2026-11-11": 32.31
       },
-      "low_price": 32.87,
-      "synced": "2026-11-10",
-      "prev_price": 33.95,
-      "prev_date": "2026-11-09"
+      "low_price": 32.31,
+      "synced": "2026-11-11",
+      "prev_price": 32.87,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "Konstsmide",
@@ -402,10 +411,11 @@
       "image": "https://media.s-bol.com/yNyknQ8p3vrP/wjgQOlX/543x840.jpg",
       "ph": {
         "2026-11-09": 32.95,
-        "2026-11-10": 32.95
+        "2026-11-10": 32.95,
+        "2026-11-11": 32.95
       },
       "low_price": 32.95,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     }
   ],
   "guide": [

@@ -26,8 +26,8 @@
     "beste-sinterklaascadeau-onder-25-euro",
     "beste-kerstcadeau-onder-50-euro"
   ],
-  "intro": "Een cadeau voor hem onder 25 euro moet klein zijn, maar mag niet in een la verdwijnen. Denk aan Sinterklaas, Kerst, een verjaardag of de secret santa op het werk. We zetten tien bekende producten op een rij die nu bij bol onder of rond 25 euro kosten: van zakmes en hoofdlamp tot kaartspel, trimmer en percolator. We vergeleken ze op specificaties, prijs en reviews van kopers. Rond Black Friday op 27 november 2026 kunnen prijzen schuiven, maar reken niet op korting.",
-  "verdict": "De Victorinox Spartan is het beste cadeau voor hem onder 25 euro: klein, nuttig en met levenslange garantie. De Xiaomi Power Bank 10000mAh Lite is de beste prijs-kwaliteit, omdat hij voor 17 euro elke dag van pas komt. Wil je het volle budget benutten, kies dan de Petzl Tikkina hoofdlamp voor de man die buiten sport of kampeert. Voor een gezellige avond zijn Exploding Kittens en Codenames sterke keuzes onder de 25 euro.",
+  "intro": "Een cadeau voor hem onder 25 euro moet klein zijn, maar mag niet in een la verdwijnen. Denk aan Sinterklaas, Kerst, een verjaardag of de secret santa op het werk. We zetten tien bekende producten op een rij die nu bij bol onder 25 euro kosten: van zakmes en hoofdlamp tot kaartspel, trimmer en percolator. We vergeleken ze op specificaties, prijs en reviews van kopers. Rond Black Friday op 27 november 2026 kunnen prijzen schuiven, maar reken niet op korting.",
+  "verdict": "De Victorinox Spartan is het beste cadeau voor hem onder 25 euro: klein, nuttig en met levenslange garantie. De Xiaomi Power Bank 10000mAh Lite is de beste prijs-kwaliteit, omdat hij voor 17 euro elke dag van pas komt. Wil je een bekend outdoormerk geven, kies dan de Black Diamond Astro 300 hoofdlamp voor de man die buiten sport of kampeert. Voor een gezellige avond zijn Exploding Kittens en Codenames sterke keuzes onder de 25 euro.",
   "products": [
     {
       "brand": "Victorinox",
@@ -66,10 +66,11 @@
         "2026-11-07": 23.76,
         "2026-11-08": 23.76,
         "2026-11-09": 23.76,
-        "2026-11-10": 23.76
+        "2026-11-10": 23.76,
+        "2026-11-11": 23.76
       },
       "low_price": 23.76,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Xiaomi",
@@ -108,15 +109,16 @@
         "2026-11-07": 16.95,
         "2026-11-08": 16.95,
         "2026-11-09": 16.95,
-        "2026-11-10": 16.95
+        "2026-11-10": 16.95,
+        "2026-11-11": 16.95
       },
       "low_price": 16.95,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
-      "brand": "Petzl",
-      "name": "Tikkina hoofdlamp 300 lumen",
-      "price": 28.15,
+      "brand": "Black Diamond",
+      "name": "Astro 300 hoofdlamp",
+      "price": 21.0,
       "score": 9.0,
       "label": "Beste premium",
       "oneliner": "Lichte hoofdlamp voor hardlopen, kamperen of klussen in het donker.",
@@ -127,35 +129,27 @@
         "Stroom": "3x AAA-batterij"
       },
       "pros": [
-        "300 lumen met drie lichtstanden",
-        "Weegt maar 81 gram met batterijen",
-        "Spatwaterdicht volgens IPX4",
-        "Ook te gebruiken met de Core-accu van Petzl"
+        "300 lumen met dim- en knipperstand",
+        "Weegt 75 gram met batterijen",
+        "Bestand tegen regen volgens IPX4",
+        "Ook te gebruiken met de losse BD 1500-accu"
       ],
       "cons": [
-        "Batterijen in plaats van een ingebouwde accu",
-        "Geen rood licht voor de nacht"
+        "Oplaadbare accu moet je los kopen",
+        "Felste stand houdt ongeveer 4 uur vol"
       ],
       "ideal": "Mannen die in de winter hardlopen, kamperen of vaak in de meterkast staan te zoeken.",
-      "text": "Petzl is in de outdoorwereld het bekendste merk voor hoofdlampen en de Tikkina is hun eenvoudigste model. Met 300 lumen verlicht hij een bospad of een kampeerplek ruim voldoende. Er zijn drie standen: zwak voor in de tent, middel voor wandelen en fel voor hardlopen of fietsen. De lamp weegt 81 gram inclusief drie AAA-batterijen, zodat hij na een paar minuten nauwelijks nog voelt op het hoofd.\n\nOp bol scoort hij 5 sterren, met lof voor het comfortabele elastiek en de eenvoudige bediening met één knop. De lamp is spatwaterdicht, dus regen is geen probleem. Wil hij liever opladen via usb, dan past de losse Core-accu van Petzl in dezelfde behuizing. Met 25 euro zit hij precies op het budget, daarom is dit onze beste premium keuze. Voor een man die buiten sport of kampeert is een hoofdlamp nuttiger dan nog een zaklamp in een la.",
-      "ean": "3342540847156",
+      "text": "Black Diamond is een bekend merk voor klim- en outdoorspullen en de Astro 300 is een eenvoudig model uit hun reeks hoofdlampen. Met 300 lumen en een bereik tot 55 meter verlicht hij een bospad of een kampeerplek ruim voldoende. Je kiest tussen volle sterkte, dimmen en knipperen. De lamp onthoudt de laatst gekozen helderheid, zodat hij niet steeds op de felste stand begint. Met drie AAA-batterijen weegt hij 75 gram.\n\nOp bol scoort hij 5 sterren. De behuizing is bestand tegen regen volgens IPX4 en een digitale vergrendeling voorkomt dat de lamp per ongeluk aangaat in een tas. De batterijen zitten in de doos. Wil hij liever een oplaadbare accu, dan past de losse BD 1500-accu van Black Diamond in dezelfde behuizing. Op de felste stand houdt hij ongeveer 4 uur vol, gedimd tot 140 uur. Black Diamond geeft 3 jaar fabrieksgarantie, daarom is dit onze beste premium keuze. Voor een man die buiten sport of kampeert is een hoofdlamp nuttiger dan nog een zaklamp in een la.",
+      "ean": "0793661519881",
       "reviews": "reviews op bol",
-      "bol_title": "Petzl Tikkina Hoofdlamp Rood 300 Lumens",
-      "url": "https://www.bol.com/nl/nl/p/petzl-tikkina-hoofdlamp-rood/9300000238510071/",
-      "image": "https://media.s-bol.com/VGp9BxPx9yDz/2R1q8vA/550x232.jpg",
+      "bol_title": "Black Diamond - Hoofdlamp - Verlichting - Lumen - Astro 300 - Octane",
+      "url": "https://www.bol.com/nl/nl/p/black-diamond-astro-300-headlamp-hoofdlamp-octane/9300000107081350/",
+      "image": "https://media.s-bol.com/Qxq1MAOgK5Kq/Nk2X4lz/550x308.jpg",
       "ph": {
-        "2026-11-04": 25.0,
-        "2026-11-05": 25.0,
-        "2026-11-06": 28.25,
-        "2026-11-07": 28.25,
-        "2026-11-08": 28.35,
-        "2026-11-09": 25.0,
-        "2026-11-10": 28.15
+        "2026-11-11": 21.0
       },
-      "low_price": 25.0,
-      "synced": "2026-11-10",
-      "prev_price": 25.0,
-      "prev_date": "2026-11-09"
+      "low_price": 21.0,
+      "synced": "2026-11-11"
     },
     {
       "brand": "Exploding Kittens",
@@ -194,17 +188,18 @@
         "2026-11-07": 18.89,
         "2026-11-08": 18.89,
         "2026-11-09": 19.99,
-        "2026-11-10": 19.99
+        "2026-11-10": 19.99,
+        "2026-11-11": 19.99
       },
       "low_price": 18.89,
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "prev_price": 18.89,
       "prev_date": "2026-11-08"
     },
     {
       "brand": "Bialetti",
-      "name": "Moka Express 3 kops",
-      "price": 25.99,
+      "name": "Moka Express 2 kops",
+      "price": 23.95,
       "score": 8.7,
       "label": null,
       "oneliner": "Iconische Italiaanse percolator voor echte espresso op het fornuis.",
@@ -225,25 +220,17 @@
         "Niet in de vaatwasser"
       ],
       "ideal": "Mannen die van sterke koffie houden en het ritueel van zelf zetten waarderen.",
-      "text": "De Bialetti Moka Express wordt sinds 1933 in vrijwel dezelfde vorm gemaakt en staat in bijna elke Italiaanse keuken. Je vult het onderste deel met water, het filter met gemalen koffie en zet hem op het vuur. Na vier tot vijf minuten borrelt er sterke koffie omhoog. Het 3-kops model geeft ongeveer 130 milliliter, genoeg voor twee kleine espresso's of één flinke kop.\n\nOp bol krijgt hij 4,6 sterren. Kopers waarderen de smaak en de eenvoud, maar wijzen ook op de beperkingen: aluminium mag niet in de vaatwasser en zonder adapterplaat werkt hij niet op inductie. Spoel hem alleen af met warm water, dan blijft de smaak goed. Voor 24 euro geef je een cadeau dat jaren meegaat en elke ochtend gebruikt wordt. Doe er een pak gemalen espresso bij, maar dan kom je wel net boven de 25 euro uit. Rubberen ringen en filters zijn los te koop.",
-      "ean": "8006363011624",
+      "text": "De Bialetti Moka Express wordt sinds 1933 in vrijwel dezelfde vorm gemaakt en staat in bijna elke Italiaanse keuken. Je vult het onderste deel met water, het filter met gemalen koffie en zet hem op het vuur. Na vier tot vijf minuten borrelt er sterke koffie omhoog. Het 2-kops model heeft 90 milliliter inhoud, genoeg voor twee Italiaanse espresso's.\n\nOp bol krijgt hij 4,6 sterren. Kopers waarderen de smaak en de eenvoud, maar wijzen ook op de beperkingen: aluminium mag niet in de vaatwasser en zonder adapterplaat werkt hij niet op inductie. Spoel hem alleen af met warm water, dan blijft de smaak goed. Voor 24 euro geef je een cadeau dat jaren meegaat en elke ochtend gebruikt wordt. Doe er een pak gemalen espresso bij, maar dan kom je wel net boven de 25 euro uit. Rubberen ringen en filters zijn los te koop.",
+      "ean": "8006363011686",
       "reviews": "reviews op bol",
-      "bol_title": "Bialetti Moka Express - Percolator - 3 kops - Aluminium",
-      "url": "https://www.bol.com/nl/nl/p/bialetti-moka-express-percolator-3-kops-aluminium/9200000002756730/",
-      "image": "https://media.s-bol.com/w7XOKQpWgkG8/lYM0W0r/550x711.jpg",
+      "bol_title": "Bialetti Moka Express - Percolator - 2 kops - Aluminium",
+      "url": "https://www.bol.com/nl/nl/p/bialetti-moka-express-percolator-2-kops-aluminium/9200000002756728/",
+      "image": "https://media.s-bol.com/y2Z09V8mJ84R/rkMpG2w/550x713.jpg",
       "ph": {
-        "2026-11-04": 24.39,
-        "2026-11-05": 26.99,
-        "2026-11-06": 25.99,
-        "2026-11-07": 25.99,
-        "2026-11-08": 25.99,
-        "2026-11-09": 25.99,
-        "2026-11-10": 25.99
+        "2026-11-11": 23.95
       },
-      "low_price": 24.39,
-      "synced": "2026-11-10",
-      "prev_price": 26.99,
-      "prev_date": "2026-11-05"
+      "low_price": 23.95,
+      "synced": "2026-11-11"
     },
     {
       "brand": "White Goblin Games",
@@ -282,10 +269,11 @@
         "2026-11-07": 23.99,
         "2026-11-08": 23.99,
         "2026-11-09": 23.99,
-        "2026-11-10": 23.99
+        "2026-11-10": 23.99,
+        "2026-11-11": 23.99
       },
       "low_price": 23.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "LEGO",
@@ -324,56 +312,49 @@
         "2026-11-07": 23.79,
         "2026-11-08": 23.79,
         "2026-11-09": 23.79,
-        "2026-11-10": 22.99
+        "2026-11-10": 22.99,
+        "2026-11-11": 22.99
       },
       "low_price": 22.99,
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "prev_price": 23.79,
       "prev_date": "2026-11-09"
     },
     {
-      "brand": "Philips",
-      "name": "1000 serie MG1100/16 precisietrimmer",
-      "price": 25.9,
+      "brand": "Remington",
+      "name": "MB320C baardtrimmer",
+      "price": 19.99,
       "score": 8.4,
       "label": null,
-      "oneliner": "Handige trimmer om baard, snor en contouren strak bij te werken.",
+      "oneliner": "Baardtrimmer met negen lengtestanden van 1,5 tot 18 millimeter.",
       "specs": {
         "Soort": "Trimmer",
         "Voor wie": "Baarddrager",
         "Formaat": "Handformaat",
-        "Stroom": "AA-batterij"
+        "Stroom": "Accu, 40 minuten"
       },
       "pros": [
-        "Precisie voor randen en snor",
-        "Opzetkam meegeleverd voor korte stoppels",
-        "Licht en klein voor in de toilettas",
-        "Bekend merk met twee jaar garantie"
+        "Negen vergrendelbare lengtestanden van 1,5 tot 18 mm",
+        "Keramisch gecoate, zelfslijpende messen",
+        "Werkt met en zonder snoer",
+        "Uitschuifbare detailtrimmer voor de baardlijn"
       ],
       "cons": [
-        "Werkt op een batterij in plaats van een accu",
-        "Niet bedoeld voor een volle lange baard"
+        "Opladen duurt 16 uur",
+        "Niet geschikt voor nat scheren"
       ],
-      "ideal": "Mannen met een kort baardje of snor die de randen netjes willen houden.",
-      "text": "Een volwaardige baardtrimmer van Philips kost al snel meer dan 30 euro, maar de MG1100/16 uit de 1000 serie blijft er net onder. Het is een precisietrimmer, bedoeld om de randen van een baard, de snor en de bakkebaarden strak te maken. Met de meegeleverde opzetkam houd je ook een korte stoppelbaard op lengte. De roestvrijstalen mesjes hoeven niet geolied te worden.\n\nDe trimmer werkt op een AA-batterij, dus hij hoeft nooit aan de lader en past in elke toilettas. Op bol krijgt hij 4,5 sterren, met lof voor het gemak en de nauwkeurigheid. Wie een lange volle baard heeft, zal hem te klein vinden; daarvoor is een OneBlade of Series 3000 handiger. Als cadeau voor hem onder 25 euro is dit een praktisch verzorgingsproduct van een merk dat hij kent. Combineer het eventueel met een klein flesje baardolie voor een persoonlijker pakketje. Hij is makkelijk onder de kraan schoon te spoelen.",
-      "ean": "8710103701583",
+      "ideal": "Mannen met een stoppelbaard of korte baard die hem zelf op lengte willen houden.",
+      "text": "Een baardtrimmer van een bekend merk onder de 25 euro is schaars, maar de Remington MB320C blijft er met 20 euro ruim onder. Hij heeft negen lengtestanden van 1,5 tot 18 millimeter, die je kiest met een zoomwiel op de handgreep. De gekozen stand vergrendelt, zodat de lengte tijdens het trimmen gelijk blijft. Een venster op de behuizing laat zien welke stand is ingesteld. Voor de randen van de baard zit er een uitschuifbare detailtrimmer op.\n\nDe messen hebben een keramische coating en zijn zelfslijpend. Op een volle accu trimt hij 40 minuten zonder snoer. Is de accu leeg, dan werkt hij ook aan het snoer. Het opladen duurt wel 16 uur, dus leg hem op tijd aan de lader. Op bol krijgt hij 4,5 sterren. Hij is niet geschikt voor nat scheren, maar wel afspoelbaar. Remington geeft 3 jaar fabrieksgarantie. Als cadeau voor hem onder 25 euro is dit een praktisch verzorgingsproduct. Combineer het eventueel met een klein flesje baardolie voor een persoonlijker pakketje.",
+      "ean": "4008496590087",
       "reviews": "reviews op bol",
-      "bol_title": "Philips 1000 serie MG1100/16 - Precisietrimmer voor de baard",
-      "url": "https://www.bol.com/nl/nl/p/philips-1000-serie-mg1100-16-precisietrimmer-voor-de-baard/9200000038417473/",
-      "image": "https://media.s-bol.com/JYqWywll5JxK/550x735.jpg",
+      "bol_title": "Remington MB320C - Baardtrimmer",
+      "url": "https://www.bol.com/nl/nl/p/remington-mb320c-baardtrimmer/9200000011860382/",
+      "image": "https://media.s-bol.com/kVnx02qZDJBY/0GggRv/307x840.jpg",
       "ph": {
-        "2026-11-04": 24.99,
-        "2026-11-05": 25.9,
-        "2026-11-06": 25.9,
-        "2026-11-07": 25.9,
-        "2026-11-08": 25.9,
-        "2026-11-09": 25.9,
-        "2026-11-10": 25.9
+        "2026-11-11": 19.99
       },
-      "low_price": 24.99,
-      "synced": "2026-11-10",
-      "prev_price": 24.99,
-      "prev_date": "2026-11-04"
+      "low_price": 19.99,
+      "synced": "2026-11-11"
     },
     {
       "brand": "Weber",
@@ -412,10 +393,11 @@
         "2026-11-07": 22.99,
         "2026-11-08": 22.99,
         "2026-11-09": 22.99,
-        "2026-11-10": 22.99
+        "2026-11-10": 22.99,
+        "2026-11-11": 22.99
       },
       "low_price": 22.99,
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "prev_price": 24.49,
       "prev_date": "2026-11-04"
     },
@@ -456,10 +438,11 @@
         "2026-11-07": 15.99,
         "2026-11-08": 15.99,
         "2026-11-09": 15.99,
-        "2026-11-10": 15.99
+        "2026-11-10": 15.99,
+        "2026-11-11": 15.99
       },
       "low_price": 15.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     }
   ],
   "guide": [
@@ -469,7 +452,7 @@
     },
     {
       "h": "Bekend merk boven veel functies",
-      "p": "Onder de 25 euro vind je op bol duizenden producten zonder naam met lange lijsten aan functies. Een kleiner product van Victorinox, Petzl of Philips gaat meestal langer mee en heeft een garantie die je makkelijk claimt. Dat geeft zekerheid als je zelf het product niet kent."
+      "p": "Onder de 25 euro vind je op bol duizenden producten zonder naam met lange lijsten aan functies. Een kleiner product van Victorinox, Black Diamond of Remington gaat meestal langer mee en heeft een garantie die je makkelijk claimt. Dat geeft zekerheid als je zelf het product niet kent."
     },
     {
       "h": "Secret santa en collega's",

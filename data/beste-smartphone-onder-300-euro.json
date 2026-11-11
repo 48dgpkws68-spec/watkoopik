@@ -52,7 +52,7 @@
       "bol_title": "Nothing Phone (3a) - 8/128GB - 5G - Zwart",
       "url": "https://www.bol.com/nl/nl/p/nothing-phone-8-128gb-zwart/9300000224142302/",
       "image": "https://media.s-bol.com/NgvGqRo8jvr8/68pAKR9/550x669.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-16": 289.0,
         "2026-10-17": 289.0,
@@ -78,7 +78,8 @@
         "2026-11-07": 289.0,
         "2026-11-08": 289.0,
         "2026-11-09": 289.0,
-        "2026-11-10": 289.0
+        "2026-11-10": 289.0,
+        "2026-11-11": 289.0
       },
       "low_price": 289.0
     },
@@ -115,10 +116,11 @@
       "url": "https://www.bol.com/nl/nl/p/honor-400-5g-8gb-256gb-zwart-dual-sim/9300000229858367/",
       "image": "https://media.s-bol.com/7GBxG77pxWvB/Y6k8O30/550x675.jpg",
       "ph": {
-        "2026-11-10": 281.7
+        "2026-11-10": 281.7,
+        "2026-11-11": 281.7
       },
       "low_price": 281.7,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Samsung",
@@ -153,10 +155,11 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a36-17-cm-dual-sim-android-15-5g-usb-type-c-6-gb-128-gb-5000-mah-lavendel/9300000225539103/",
       "image": "https://media.s-bol.com/kqKqV6QG27Wr/36KlY3n/550x704.jpg",
       "ph": {
-        "2026-11-10": 276.72
+        "2026-11-10": 276.72,
+        "2026-11-11": 276.72
       },
       "low_price": 276.72,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Motorola",
@@ -187,7 +190,7 @@
       "ideal": "Wie een waterdicht toestel met een vlak, fel pOLED-scherm en veel opslag wil.",
       "text": "De moto g86 combineert de vlotte Dimensity 7400-chip met een accu van 5.200 mAh en een IP68/IP69-certificering. Het 6,67 inch pOLED-scherm is vlak in plaats van gebogen. Voor veel mensen is dat juist een voordeel: geen onbedoelde aanrakingen aan de rand en een screenprotector past beter. Het scherm haalt 4.500 nits piek en ververst op 120 Hz. Gorilla Glass 7i beschermt de voorkant.\n\nDe accu gaat bij gemiddeld gebruik twee dagen mee, maar laadt met 30 watt in ruim een uur, langzamer dan bij de Honor 400. De 50 MP hoofdcamera met OIS en Sony Lytia-sensor levert scherpe foto's met natuurlijke kleuren, de 8 MP groothoek is matig. Kopers op bol geven de g86 een 4,4 en noemen het scherm, de stereo-speakers en de stevige bouw. Het grootste minpunt is het updatebeleid: twee Android-versies en vier jaar beveiligingsupdates. Wie langer wil doen met zijn toestel, kijkt naar Samsung of Nothing.",
       "ean": "0840023294891",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "bol_title": "Motorola moto g86 5G - 8/256GB - Pantone Spellbound (Donkergrijs)",
       "url": "https://www.bol.com/nl/nl/p/motorola-moto-g86-5g-8-256gb-pantone-spellbound/9300000232342833/",
       "image": "https://media.s-bol.com/x4x6580RRKLP/P1Y39v2/550x550.jpg",
@@ -209,7 +212,8 @@
         "2026-11-07": 299.0,
         "2026-11-08": 299.0,
         "2026-11-09": 299.9,
-        "2026-11-10": 299.9
+        "2026-11-10": 299.9,
+        "2026-11-11": 299.9
       },
       "low_price": 299.0,
       "prev_price": 299.0,
@@ -247,7 +251,7 @@
       "bol_title": "Google Pixel 8a - 8/128GB - Wit",
       "url": "https://www.bol.com/nl/nl/p/google-pixel-8a-8-128gb-wit/9300000179545269/",
       "image": "https://media.s-bol.com/Kl3zppPlo4J8/k5D8jWE/429x840.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-16": 259.0,
         "2026-10-17": 259.0,
@@ -273,7 +277,8 @@
         "2026-11-07": 259.0,
         "2026-11-08": 259.0,
         "2026-11-09": 259.0,
-        "2026-11-10": 259.0
+        "2026-11-10": 259.0,
+        "2026-11-11": 259.0
       },
       "low_price": 259.0
     },
@@ -310,15 +315,16 @@
       "url": "https://www.bol.com/nl/nl/p/nothing-phone-lite-8gb-ram-256gb-wit-6-7-120hz-amoled-50mp-dual-camera-5000mah-5g/9300000259292942/",
       "image": "https://media.s-bol.com/BWKgMB66wp0k/jqZXL9v/550x672.jpg",
       "ph": {
-        "2026-11-10": 269.0
+        "2026-11-10": 269.0,
+        "2026-11-11": 269.0
       },
       "low_price": 269.0,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Samsung",
       "name": "Galaxy A26 5G 128GB",
-      "price": 245.9,
+      "price": 233.03,
       "score": 8.4,
       "label": null,
       "reviews": "1.900+ reviews",
@@ -363,12 +369,13 @@
         "2026-11-07": 259.99,
         "2026-11-08": 259.89,
         "2026-11-09": 251.9,
-        "2026-11-10": 245.9
+        "2026-11-10": 245.9,
+        "2026-11-11": 233.03
       },
       "low_price": 233.03,
-      "synced": "2026-11-10",
-      "prev_price": 251.9,
-      "prev_date": "2026-11-09"
+      "synced": "2026-11-11",
+      "prev_price": 245.9,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "Motorola",
@@ -403,10 +410,11 @@
       "url": "https://www.bol.com/nl/nl/p/motorola-moto-g56-5g-8-256gb-black-oyster/9300000231748139/",
       "image": "https://media.s-bol.com/9wJLEjE8q2rP/VmAymXO/550x555.jpg",
       "ph": {
-        "2026-11-10": 239.0
+        "2026-11-10": 239.0,
+        "2026-11-11": 239.0
       },
       "low_price": 239.0,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Honor",
@@ -440,7 +448,7 @@
       "bol_title": "HONOR 600 Lite 5G Smartphone – 6.6\" AMOLED 120Hz – 108MP Camera – 8GB RAM 256GB Opslag – Zwart",
       "url": "https://www.bol.com/nl/nl/p/honor-600-lite-5g-smartphone-6-6-amoled-120hz-108mp-camera-8gb-ram-256gb-opslag-zwart/9300000375915390/",
       "image": "https://media.s-bol.com/3W4oZrWX6WRA/GvDnB00/550x550.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-16": 299.0,
         "2026-10-17": 299.0,
@@ -466,7 +474,8 @@
         "2026-11-07": 269.0,
         "2026-11-08": 269.0,
         "2026-11-09": 269.0,
-        "2026-11-10": 269.0
+        "2026-11-10": 269.0,
+        "2026-11-11": 269.0
       },
       "low_price": 269.0,
       "prev_price": 299.0,
@@ -514,10 +523,11 @@
         "2026-11-07": 219.0,
         "2026-11-08": 199.0,
         "2026-11-09": 199.0,
-        "2026-11-10": 199.0
+        "2026-11-10": 199.0,
+        "2026-11-11": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "prev_price": 219.0,
       "prev_date": "2026-11-07"
     }

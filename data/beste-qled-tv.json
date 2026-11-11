@@ -23,7 +23,7 @@
     {
       "brand": "Samsung",
       "name": "QE55QN83H",
-      "price": 769.0,
+      "price": 799.0,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "110+ reviews",
@@ -51,7 +51,7 @@
       "bol_title": "Samsung QE55QN83H - 55 inch - 4K Neo QLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-qe55qn83hauxxn-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000301588010/",
       "image": "https://media.s-bol.com/L3woJ9wWAYKw/z6Qvg98/550x332.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-20": 849.0,
         "2026-10-21": 829.0,
@@ -73,11 +73,12 @@
         "2026-11-07": 799.0,
         "2026-11-08": 769.0,
         "2026-11-09": 769.0,
-        "2026-11-10": 769.0
+        "2026-11-10": 769.0,
+        "2026-11-11": 799.0
       },
       "low_price": 769.0,
-      "prev_price": 799.0,
-      "prev_date": "2026-11-07"
+      "prev_price": 769.0,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "TCL",
@@ -112,10 +113,11 @@
       "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
       "ph": {
         "2026-11-09": 476.13,
-        "2026-11-10": 476.13
+        "2026-11-10": 476.13,
+        "2026-11-11": 476.13
       },
       "low_price": 476.13,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "TCL",
@@ -157,10 +159,11 @@
         "2026-11-07": 999.0,
         "2026-11-08": 999.0,
         "2026-11-09": 999.0,
-        "2026-11-10": 999.0
+        "2026-11-10": 999.0,
+        "2026-11-11": 999.0
       },
       "low_price": 999.0,
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "prev_price": 1299.0,
       "prev_date": "2026-11-04"
     },
@@ -195,7 +198,7 @@
       "bol_title": "Hisense 55E8S SmartTV - 55 inch - 4K Hi-QLED MiniLED - 2026 - 600 nits - Native 144Hz Game Mode - Built-in Subwoofer - Hi-View AI Engine - Hi-QLED Colour - Total HDR Solution",
       "url": "https://www.bol.com/nl/nl/p/hisense-55e8s-smarttv-55-inch-4k-hi-qled-miniled-2026-600-nits-native-144hz-game-mode-built-in-subwoofer-hi-view-ai-engine-hi-qled-colour-total-hdr-solution/9300000269685081/",
       "image": "https://media.s-bol.com/yLowOL1wmLWw/PjmnKWA/550x350.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-20": 629.0,
         "2026-10-21": 629.0,
@@ -217,7 +220,8 @@
         "2026-11-07": 549.0,
         "2026-11-08": 549.0,
         "2026-11-09": 549.0,
-        "2026-11-10": 549.0
+        "2026-11-10": 549.0,
+        "2026-11-11": 549.0
       },
       "low_price": 549.0,
       "prev_price": 624.69,
@@ -226,7 +230,7 @@
     {
       "brand": "Philips",
       "name": "Ambilight 55PUS9000/12",
-      "price": 592.12,
+      "price": 591.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -258,15 +262,18 @@
         "2026-11-07": 592.12,
         "2026-11-08": 592.12,
         "2026-11-09": 592.12,
-        "2026-11-10": 592.12
+        "2026-11-10": 592.12,
+        "2026-11-11": 591.0
       },
-      "low_price": 592.12,
-      "synced": "2026-11-10"
+      "low_price": 591.0,
+      "synced": "2026-11-11",
+      "prev_price": 592.12,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "Samsung",
       "name": "The Frame Pro QE55LS03H",
-      "price": 1249.0,
+      "price": 1149.0,
       "score": 8.6,
       "label": null,
       "reviews": "40+ reviews",
@@ -295,7 +302,7 @@
       "bol_title": "Samsung The Frame Pro QE55LS03H - 55 Inch - 4K Neo QLED - 2026",
       "url": "https://www.bol.com/nl/nl/p/samsung-qe55ls03hwux-the-frame-pro-55-inch/9300000284690245/",
       "image": "https://media.s-bol.com/ZJ1B4rxKVrm6/D9DKNpq/550x319.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-20": 1549.0,
         "2026-10-21": 1499.0,
@@ -317,11 +324,12 @@
         "2026-11-07": 1149.0,
         "2026-11-08": 1299.0,
         "2026-11-09": 1299.0,
-        "2026-11-10": 1249.0
+        "2026-11-10": 1249.0,
+        "2026-11-11": 1149.0
       },
       "low_price": 1149.0,
-      "prev_price": 1299.0,
-      "prev_date": "2026-11-09"
+      "prev_price": 1249.0,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "Hisense",
@@ -372,10 +380,11 @@
         "2026-11-07": 549.0,
         "2026-11-08": 549.0,
         "2026-11-09": 549.0,
-        "2026-11-10": 549.0
+        "2026-11-10": 549.0,
+        "2026-11-11": 549.0
       },
       "low_price": 549.0,
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "prev_price": 698.0,
       "prev_date": "2026-11-01"
     },
@@ -410,7 +419,7 @@
       "bol_title": "Hisense 55E7S PRO SmartTV - 55 inch - 4K Hi-QLED - 2026 - Native 144Hz Game Mode - Hi-QLED Colour - Built-in Subwoofer - AI Picture - AI Smooth Motion - AMD FreeSync Premium - Dolby Vision Atmos",
       "url": "https://www.bol.com/nl/nl/p/hisense-55e7s-pro-smarttv-55-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000269685068/",
       "image": "https://media.s-bol.com/mv623VM2zKQG/k26vrgY/550x369.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-20": 599.0,
         "2026-10-21": 599.0,
@@ -432,7 +441,8 @@
         "2026-11-07": 499.0,
         "2026-11-08": 499.0,
         "2026-11-09": 499.0,
-        "2026-11-10": 499.0
+        "2026-11-10": 499.0,
+        "2026-11-11": 499.0
       },
       "low_price": 499.0,
       "prev_price": 529.0,
@@ -441,7 +451,7 @@
     {
       "brand": "Samsung",
       "name": "QE43QN73H",
-      "price": 479.0,
+      "price": 499.0,
       "score": 8.2,
       "label": null,
       "reviews": "20+ reviews",
@@ -469,8 +479,8 @@
       "ean": "8806099124410",
       "bol_title": "Samsung QE43QN73H - 43 inch - 4K Neo QLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-qe43qn73hauxxn-tv-109-2-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000301588007/",
-      "image": "https://media.s-bol.com/vAAxRRqnkDz5/JqgGNm9/550x440.jpg",
-      "synced": "2026-11-10",
+      "image": "https://media.s-bol.com/moo088RKzgB9/JqgGNm9/550x353.jpg",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-20": 489.0,
         "2026-10-21": 479.0,
@@ -492,11 +502,12 @@
         "2026-11-07": 479.0,
         "2026-11-08": 479.0,
         "2026-11-09": 479.0,
-        "2026-11-10": 479.0
+        "2026-11-10": 479.0,
+        "2026-11-11": 499.0
       },
       "low_price": 479.0,
-      "prev_price": 489.0,
-      "prev_date": "2026-11-02"
+      "prev_price": 479.0,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "Xiaomi",
@@ -530,7 +541,7 @@
       "bol_title": "Xiaomi TV A Pro 2026 55 inch | 4K QLED Google TV | HDR10+ & Filmmaker Mode | 120Hz gaming | Dolby Audio & DTS-X | 94% DCI-P3 | AirPlay, Google Cast & Miracast | Google Assistant",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-55-inch-4k-qled-tv/9300000231444129/",
       "image": "https://media.s-bol.com/q3Y0BrO4kx10/Vm6jPqB/550x330.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-20": 448.0,
         "2026-10-21": 448.0,
@@ -552,7 +563,8 @@
         "2026-11-07": 447.99,
         "2026-11-08": 447.99,
         "2026-11-09": 447.99,
-        "2026-11-10": 447.99
+        "2026-11-10": 447.99,
+        "2026-11-11": 447.99
       },
       "low_price": 447.99
     }

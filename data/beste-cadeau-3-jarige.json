@@ -53,15 +53,16 @@
       "image": "https://media.s-bol.com/oxYMo7gwpMVL/A6qWEnO/550x406.jpg",
       "ph": {
         "2026-11-09": 51.0,
-        "2026-11-10": 51.0
+        "2026-11-10": 51.0,
+        "2026-11-11": 51.0
       },
       "low_price": 51.0,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "By Baboo",
       "name": "Magnetic Tiles 100 stuks",
-      "price": 36.99,
+      "price": 34.95,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "300+ reviews",
@@ -90,12 +91,13 @@
       "image": "https://media.s-bol.com/74GVRwmVQkBy/OMj0rQB/550x540.jpg",
       "ph": {
         "2026-11-09": 28.23,
-        "2026-11-10": 36.99
+        "2026-11-10": 36.99,
+        "2026-11-11": 34.95
       },
       "low_price": 28.23,
-      "synced": "2026-11-10",
-      "prev_price": 28.23,
-      "prev_date": "2026-11-09"
+      "synced": "2026-11-11",
+      "prev_price": 36.99,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "BRIO",
@@ -128,10 +130,11 @@
       "image": "https://media.s-bol.com/DK8ympokomgk/9rGrPoD/550x551.jpg",
       "ph": {
         "2026-11-09": 36.26,
-        "2026-11-10": 36.26
+        "2026-11-10": 36.26,
+        "2026-11-11": 36.26
       },
       "low_price": 36.26,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Smoby",
@@ -164,10 +167,11 @@
       "image": "https://media.s-bol.com/qqQry1gyE0q0/o2k5OkX/550x558.jpg",
       "ph": {
         "2026-11-09": 154.99,
-        "2026-11-10": 154.99
+        "2026-11-10": 154.99,
+        "2026-11-11": 154.99
       },
       "low_price": 154.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "VTech",
@@ -201,10 +205,11 @@
       "image": "https://media.s-bol.com/m4womqoG0oNE/X6rP5Vk/550x506.jpg",
       "ph": {
         "2026-11-09": 39.99,
-        "2026-11-10": 39.99
+        "2026-11-10": 39.99,
+        "2026-11-11": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "PLAYMOBIL",
@@ -237,17 +242,18 @@
       "image": "https://media.s-bol.com/XBY87GZkp9Qg/PNgY6k4/550x611.jpg",
       "ph": {
         "2026-11-09": 36.99,
-        "2026-11-10": 54.99
+        "2026-11-10": 54.99,
+        "2026-11-11": 54.99
       },
       "low_price": 36.99,
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "prev_price": 36.99,
       "prev_date": "2026-11-09"
     },
     {
       "brand": "Woet",
       "name": "Houten Speelkeuken Beige met 16 accessoires",
-      "price": 89.95,
+      "price": 74.95,
       "score": 8.5,
       "label": null,
       "reviews": "60+ reviews",
@@ -275,10 +281,13 @@
       "image": "https://media.s-bol.com/q3Vm5KZ0x747/P13WPN1/550x741.jpg",
       "ph": {
         "2026-11-09": 89.95,
-        "2026-11-10": 89.95
+        "2026-11-10": 89.95,
+        "2026-11-11": 74.95
       },
-      "low_price": 89.95,
-      "synced": "2026-11-10"
+      "low_price": 74.95,
+      "synced": "2026-11-11",
+      "prev_price": 89.95,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "Lionelo",
@@ -311,10 +320,11 @@
       "image": "https://media.s-bol.com/g9n5gQzRNjgG/kRolQ5v/550x540.jpg",
       "ph": {
         "2026-11-09": 60.21,
-        "2026-11-10": 60.21
+        "2026-11-10": 60.21,
+        "2026-11-11": 60.21
       },
       "low_price": 60.21,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "BABY born",
@@ -347,10 +357,11 @@
       "image": "https://media.s-bol.com/zM5rxYVZxkNY/83B6Er3/550x542.jpg",
       "ph": {
         "2026-11-09": 49.99,
-        "2026-11-10": 49.99
+        "2026-11-10": 49.99,
+        "2026-11-11": 49.99
       },
       "low_price": 49.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Jumbo",
@@ -383,10 +394,11 @@
       "image": "https://media.s-bol.com/o12jOBPGr2XA/oYWnK6B/550x514.jpg",
       "ph": {
         "2026-11-09": 20.99,
-        "2026-11-10": 20.99
+        "2026-11-10": 20.99,
+        "2026-11-11": 20.99
       },
       "low_price": 20.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     }
   ],
   "guide": [

@@ -52,10 +52,11 @@
       "url": "https://www.bol.com/nl/nl/p/lego-classic-creatieve-grote-opbergdoos-10698/9200000038445809/",
       "image": "https://media.s-bol.com/3L19D8g3rNqx/5QJr2lR/550x394.jpg",
       "ph": {
-        "2026-11-10": 35.99
+        "2026-11-10": 35.99,
+        "2026-11-11": 35.99
       },
       "low_price": 35.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Hama",
@@ -88,15 +89,16 @@
       "url": "https://www.bol.com/nl/nl/p/hama-strijkkralen-in-een-ton-met-3-grondplaten-geel/1004004013589330/",
       "image": "https://media.s-bol.com/x5ELkrpR6pwr/z35vVr/550x527.jpg",
       "ph": {
-        "2026-11-10": 12.99
+        "2026-11-10": 12.99,
+        "2026-11-11": 12.99
       },
       "low_price": 12.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "VTech",
       "name": "KidiZoom Duo FX kindercamera",
-      "price": 59.96,
+      "price": 71.22,
       "score": 8.9,
       "label": null,
       "reviews": "150+ reviews",
@@ -124,15 +126,18 @@
       "url": "https://www.bol.com/nl/nl/p/vtech-kidizoom-duo-fx-kindercamera-interactief-speelgoed-foto-s-en-video-s-maken-speelgoed-vanaf-4-jaar-blauw/9300000170755970/",
       "image": "https://media.s-bol.com/RvqX20K8P3Oz/ADKln71/550x407.jpg",
       "ph": {
-        "2026-11-10": 59.96
+        "2026-11-10": 59.96,
+        "2026-11-11": 71.22
       },
       "low_price": 59.96,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11",
+      "prev_price": 59.96,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "Ravensburger",
       "name": "GraviTrax Junior Starter-Set XXL Dino",
-      "price": 101.99,
+      "price": 74.95,
       "score": 8.8,
       "label": "Beste premium",
       "reviews": "40+ reviews",
@@ -160,10 +165,13 @@
       "url": "https://www.bol.com/nl/nl/p/gravitrax-junior-starter-set-xxl-dino/9300000224606019/",
       "image": "https://media.s-bol.com/WJE4VyWpr8MX/Q1mlyz5/550x396.jpg",
       "ph": {
-        "2026-11-10": 101.99
+        "2026-11-10": 101.99,
+        "2026-11-11": 74.95
       },
-      "low_price": 101.99,
-      "synced": "2026-11-10"
+      "low_price": 74.95,
+      "synced": "2026-11-11",
+      "prev_price": 101.99,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "LEGO",
@@ -196,15 +204,16 @@
       "url": "https://www.bol.com/nl/nl/p/lego-friends-paisley-s-huis-41724/9300000131756666/",
       "image": "https://media.s-bol.com/B3B8Br9Qwx52/zvVoDBm/550x536.jpg",
       "ph": {
-        "2026-11-10": 49.99
+        "2026-11-10": 49.99,
+        "2026-11-11": 49.99
       },
       "low_price": 49.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "schleich",
       "name": "HORSE CLUB Paardenbox met merrie en veulen",
-      "price": 31.65,
+      "price": 31.71,
       "score": 8.5,
       "label": null,
       "reviews": "60+ reviews",
@@ -232,10 +241,13 @@
       "url": "https://www.bol.com/nl/nl/p/schleich-horse-club-paardenbox-met-merrie-veulen-afneembaar-zadel-hoofdstel-paarden-speelgoed-kinderspeelgoed/9300000122082253/",
       "image": "https://media.s-bol.com/JK5kwNypX5Y2/L1zp8r/550x461.jpg",
       "ph": {
-        "2026-11-10": 31.65
+        "2026-11-10": 31.65,
+        "2026-11-11": 31.71
       },
       "low_price": 31.65,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11",
+      "prev_price": 31.65,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "PLAYMOBIL",
@@ -268,10 +280,11 @@
       "url": "https://www.bol.com/nl/nl/p/71463/9300000166959391/",
       "image": "https://media.s-bol.com/jPE2qq1vjENv/26wwOK/550x449.jpg",
       "ph": {
-        "2026-11-10": 39.99
+        "2026-11-10": 39.99,
+        "2026-11-11": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Jumbo",
@@ -304,10 +317,11 @@
       "url": "https://www.bol.com/nl/nl/p/ik-leer-lezen/9200000073981454/",
       "image": "https://media.s-bol.com/Jg5mlWq2qJjD/g5LZMyG/550x509.jpg",
       "ph": {
-        "2026-11-10": 19.99
+        "2026-11-10": 19.99,
+        "2026-11-11": 19.99
       },
       "low_price": 19.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "Jumbo",
@@ -340,10 +354,11 @@
       "url": "https://www.bol.com/nl/nl/p/mens-erger-je-niet-dobbelautomaat-bordspel/1004004000017412/",
       "image": "https://media.s-bol.com/LoqxG9kojJqD/7Lr2O0G/550x592.jpg",
       "ph": {
-        "2026-11-10": 17.99
+        "2026-11-10": 17.99,
+        "2026-11-11": 17.99
       },
       "low_price": 17.99,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     },
     {
       "brand": "SJOEF",
@@ -376,10 +391,11 @@
       "url": "https://www.bol.com/nl/nl/p/sjoef-cruise-jongensfiets-16-inch-kinderfiets-4-5-6-jaar-mat-zwart/9300000145343183/",
       "image": "https://media.s-bol.com/9KW2WnnPoVK3/868Pxjo/550x410.jpg",
       "ph": {
-        "2026-11-10": 139.0
+        "2026-11-10": 139.0,
+        "2026-11-11": 139.0
       },
       "low_price": 139.0,
-      "synced": "2026-11-10"
+      "synced": "2026-11-11"
     }
   ],
   "guide": [

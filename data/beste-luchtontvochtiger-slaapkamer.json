@@ -22,7 +22,7 @@
     {
       "brand": "Qlima",
       "name": "DD 808",
-      "price": 268.98,
+      "price": 269.0,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,6 van 5",
@@ -61,12 +61,13 @@
         "2026-11-07": 251.6,
         "2026-11-08": 255.8,
         "2026-11-09": 259.9,
-        "2026-11-10": 268.98
+        "2026-11-10": 268.98,
+        "2026-11-11": 269.0
       },
       "low_price": 251.6,
-      "synced": "2026-11-10",
-      "prev_price": 259.9,
-      "prev_date": "2026-11-09"
+      "synced": "2026-11-11",
+      "prev_price": 268.98,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "Pro Breeze",
@@ -99,7 +100,7 @@
       "bol_title": "Pro Breeze 12L/dag Luchtontvochtiger – Digitale Vochtigheidsweergave, Slaapmodus, Continue Afvoer Optie en 24-uurs timer – 1.8L Tank Verwijderd Schimmel, Damp en Vocht - Dehumidifier voor Thuis, Garage en Kelder",
       "url": "https://www.bol.com/nl/nl/p/pro-breeze-luchtontvochtiger-12l-met-afvoerslang/9300000019271064/",
       "image": "https://media.s-bol.com/qk68oqQ2q62p/Dk0GPAy/497x840.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-24": 124.99,
         "2026-10-25": 124.99,
@@ -118,7 +119,8 @@
         "2026-11-07": 113.99,
         "2026-11-08": 113.99,
         "2026-11-09": 109.99,
-        "2026-11-10": 109.99
+        "2026-11-10": 109.99,
+        "2026-11-11": 109.99
       },
       "low_price": 109.99,
       "prev_price": 113.99,
@@ -155,7 +157,7 @@
       "bol_title": "MeacoDry Arete One 20L - Luchtontvochtiger / Luchtreiniger - Ontvochtigt tot 20L per dag – Voor ruimtes tot 100 m² - Zeer stil - Incl. wasdroogfunctie",
       "url": "https://www.bol.com/nl/nl/p/meacodry-arete-one-20l-luchtontvochtiger/9300000081813706/",
       "image": "https://media.s-bol.com/VROrzr8XmVjo/Mjngv2Q/550x615.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-15": 449.0,
         "2026-10-16": 449.0,
@@ -182,7 +184,8 @@
         "2026-11-07": 415.0,
         "2026-11-08": 415.0,
         "2026-11-09": 415.0,
-        "2026-11-10": 415.0
+        "2026-11-10": 415.0,
+        "2026-11-11": 415.0
       },
       "low_price": 415.0,
       "prev_price": 441.0,
@@ -192,7 +195,7 @@
       "label": null,
       "brand": "EUROM",
       "name": "Drybest 20C",
-      "price": 174.49,
+      "price": 173.59,
       "score": 8.4,
       "reviews": "bol-score 4,6 van 5",
       "oneliner": "Compressor-ontvochtiger van 20 liter per dag van het Nederlandse merk EUROM.",
@@ -230,17 +233,18 @@
         "2026-11-07": 167.69,
         "2026-11-08": 171.89,
         "2026-11-09": 175.29,
-        "2026-11-10": 174.49
+        "2026-11-10": 174.49,
+        "2026-11-11": 173.59
       },
       "low_price": 167.69,
-      "synced": "2026-11-10",
-      "prev_price": 175.29,
-      "prev_date": "2026-11-09"
+      "synced": "2026-11-11",
+      "prev_price": 174.49,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "Vibrix",
       "name": "DryFlow6",
-      "price": 159.0,
+      "price": 135.15,
       "score": 8.6,
       "label": null,
       "reviews": "120+ reviews",
@@ -268,7 +272,7 @@
       "bol_title": "Vibrix DryFlow6 Luchtontvochtiger – 6L per dag – Wasdroogfunctie – Stil & Energiezuinig – Ontvochtiger voor Badkamer, Kelder, Zolder & Slaapkamer – Slimme Dehumidifier",
       "url": "https://www.bol.com/nl/nl/p/vibrix-dryflow6-luchtontvochtiger/9300000231102783/",
       "image": "https://media.s-bol.com/R3n1lO9oQ3yV/nRGq1q7/550x550.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-18": 159.0,
         "2026-10-19": 159.0,
@@ -292,14 +296,17 @@
         "2026-11-07": 159.0,
         "2026-11-08": 159.0,
         "2026-11-09": 159.0,
-        "2026-11-10": 159.0
+        "2026-11-10": 159.0,
+        "2026-11-11": 135.15
       },
-      "low_price": 159.0
+      "low_price": 135.15,
+      "prev_price": 159.0,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "Qlima",
       "name": "D 812 Smart",
-      "price": 189.99,
+      "price": 182.59,
       "score": 8.5,
       "label": null,
       "reviews": "200+ reviews",
@@ -327,7 +334,7 @@
       "bol_title": "Qlima D 812 Smart - Luchtontvochtiger - Ontvochtiger 12 Liter per dag - Voorzien van HAF en Koolstoffilter - Geschikt voor Woonkamer, Slaapkamer, Badkamer en Kelder - Bedienbaar via App - Stil in gebruik",
       "url": "https://www.bol.com/nl/nl/p/qlima-d-812-smart-luchtontvochtiger-12l-dag-geschikt-voor-woonkamer-slaapkamer-badkamer-babykamer/9300000158478960/",
       "image": "https://media.s-bol.com/RD2lGoPj3N1q/mZwKkor/550x821.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-18": 181.79,
         "2026-10-19": 181.79,
@@ -351,11 +358,12 @@
         "2026-11-07": 181.79,
         "2026-11-08": 189.99,
         "2026-11-09": 186.77,
-        "2026-11-10": 189.99
+        "2026-11-10": 189.99,
+        "2026-11-11": 182.59
       },
       "low_price": 181.79,
-      "prev_price": 186.77,
-      "prev_date": "2026-11-09"
+      "prev_price": 189.99,
+      "prev_date": "2026-11-10"
     },
     {
       "brand": "De'Longhi",
@@ -388,7 +396,7 @@
       "bol_title": "De'Longhi Tasciugo AriaDry DEX210SF - Luchtontvochtiger - Wit",
       "url": "https://www.bol.com/nl/nl/p/de-longhi-tasciugo-ariadry-dex210sf-luchtontvochtiger-wit/9300000161805051/",
       "image": "https://media.s-bol.com/YnKKy263nZ8A/QPPm59/520x840.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-14": 200.51,
         "2026-10-15": 200.51,
@@ -416,7 +424,8 @@
         "2026-11-07": 186.0,
         "2026-11-08": 186.0,
         "2026-11-09": 186.0,
-        "2026-11-10": 186.0
+        "2026-11-10": 186.0,
+        "2026-11-11": 186.0
       },
       "low_price": 185.0,
       "prev_price": 185.0,
@@ -453,7 +462,7 @@
       "bol_title": "TROTEC Luchtontvochtiger TTK 26 E",
       "url": "https://www.bol.com/nl/nl/p/trotec-luchtontvochtiger-ttk-26-e/9200000094379670/",
       "image": "https://media.s-bol.com/qMPyrYD7j4Jy/Ro9Bn6R/547x840.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-18": 109.99,
         "2026-10-19": 109.99,
@@ -477,7 +486,8 @@
         "2026-11-07": 109.99,
         "2026-11-08": 109.99,
         "2026-11-09": 109.99,
-        "2026-11-10": 109.99
+        "2026-11-10": 109.99,
+        "2026-11-11": 109.99
       },
       "low_price": 109.99
     },
@@ -512,7 +522,7 @@
       "bol_title": "Dynter Luchtontvochtiger - Dehumidifier - 900 ml/dag - Extra grote 3.8L watertank - Stil (33 dB) met nachtmodus - Timerfunctie - Voor Slaapkamer, Badkamer, Kelder & Kantoor - Compact & Draagbaar - Voorkomt Schimmel & Muffe Lucht (DH251 PRO)",
       "url": "https://www.bol.com/nl/nl/p/dynter-luchtontvochtiger-dehumidifier-900-ml-dag-extra-grote-3-8l-watertank-stil-met-nachtmodus-timerfunctie-voor-slaapkamer-badkamer-kelder-kantoor-compact-draagbaar-voorkomt-schimmel-muffe-lucht/9300000245748883/",
       "image": "https://media.s-bol.com/N330OAG7p7Jp/mqj1o33/550x830.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-18": 89.0,
         "2026-10-19": 89.0,
@@ -536,7 +546,8 @@
         "2026-11-07": 89.0,
         "2026-11-08": 89.0,
         "2026-11-09": 89.0,
-        "2026-11-10": 89.0
+        "2026-11-10": 89.0,
+        "2026-11-11": 89.0
       },
       "low_price": 89.0
     },
@@ -571,7 +582,7 @@
       "bol_title": "JAP Appliances Enivio D3 - Stille Luchtontvochtiger (<35 dB) voor in de slaapkamer en badkamer - 300ml per dag - Geschikt voor ruimtes tot 15m² - Zwart",
       "url": "https://www.bol.com/nl/nl/p/jap-enivio-d3-stille-luchtontvochtiger-luchtreiniger-voor-in-huis-slaapkamer-badkamer-en-kelder/9300000050816425/",
       "image": "https://media.s-bol.com/YVg3JrvpjQz2/VmLNXlX/504x840.jpg",
-      "synced": "2026-11-10",
+      "synced": "2026-11-11",
       "ph": {
         "2026-10-18": 39.5,
         "2026-10-19": 39.5,
@@ -595,7 +606,8 @@
         "2026-11-07": 39.5,
         "2026-11-08": 39.5,
         "2026-11-09": 39.5,
-        "2026-11-10": 39.5
+        "2026-11-10": 39.5,
+        "2026-11-11": 39.5
       },
       "low_price": 39.5
     }

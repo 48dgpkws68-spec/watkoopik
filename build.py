@@ -3,7 +3,7 @@
 Inhoud komt uit data/*.json. Gebruik: python3 build.py (of ./deploy.sh "bericht").
 Vorige versie van de bouwmotor: build_v1.py (niet meer gebruikt).
 Copyregel: geen em/en-dashes, geen ", en"."""
-import os, re, sys, json, hashlib, glob, html, datetime, urllib.parse
+import os, re, sys, json, subprocess, hashlib, glob, html, datetime, urllib.parse
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 # Varianten: WK_THEME=light|dark (standaard dark), WK_OUT=<map> voor een preview elders (dan noindex + canonical naar .nl)
@@ -1233,3 +1233,8 @@ if not PREVIEW:
 if OG_META.pop("_dirty", None):
     json.dump(OG_META, open(OG_META_FILE, "w"), indent=0, sort_keys=True)
 print("OK pro: %d gidsen, %d producten" % (len(guides), N_PROD))
+# Prijsgrens: 'onder X euro'-gidsen moeten hun titel waarmaken (tools/prijsgrens_check.py schrijft _src/prijsgrens.json)
+try:
+    subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "tools", "prijsgrens_check.py"), "--stil"], timeout=60)
+except Exception as ex:
+    print("Prijsgrens-controle overgeslagen: %s" % ex)
