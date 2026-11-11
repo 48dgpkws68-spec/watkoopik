@@ -18,7 +18,7 @@
   "updated": "2026-10-30",
   "published": "2026-10-30",
   "reviews_total": "5.900",
-  "intro": "Het stookseizoen is begonnen en de gasprijs blijft hoog. Met slimme radiatorknoppen verwarm je alleen de kamers die je echt gebruikt, op het moment dat je er bent. Elke graad lager scheelt volgens Milieu Centraal ongeveer zes procent gas. Wij vergeleken 26 slimme radiatorknoppen op verbinding, benodigde hub, batterijduur, smart home-ondersteuning en wat duizenden gebruikers er na een winter van vinden. Dit zijn de tien beste die je nu bij bol kunt kopen, van een losse knop van 47 euro tot een compleet zonesysteem.",
+  "intro": "Het stookseizoen is begonnen en de gasprijs blijft hoog. Met slimme radiatorknoppen verwarm je alleen de kamers die je echt gebruikt, op het moment dat je er bent. Elke graad lager scheelt volgens Milieu Centraal ongeveer zes procent gas. Wij vergeleken 26 slimme radiatorknoppen op verbinding, benodigde hub, batterijduur, smart home-ondersteuning en wat duizenden gebruikers er na een winter van vinden. Dit zijn de tien beste die je nu bij bol kunt kopen, van een losse knop van 30 euro tot een compleet zonesysteem.",
   "verdict": "De tado Slimme Radiatorknop X Starterskit is de beste keuze: Bridge X zit erbij, Matter werkt met elk platform en de app is het meest uitgewerkt. Heb je al een Apple TV, Nest Hub of Home Assistant, dan is de Aqara W600 de beste prijs-kwaliteit voor rond de 50 euro per kamer. Wil je een groot huis in zones verdelen met een systeem dat jaren meegaat, kies dan de Honeywell Evohome HR93.",
   "products": [
     {
@@ -222,55 +222,42 @@
       "synced": "2026-11-11"
     },
     {
-      "brand": "Bosch",
-      "name": "Smart Home Radiatorthermostaat II",
-      "price": 79.0,
-      "score": 8.6,
+      "brand": "SONOFF",
+      "name": "TRVZB Zigbee Radiatorknop",
+      "price": 29.9,
+      "score": 8.5,
       "label": null,
-      "reviews": "700+ reviews",
-      "oneliner": "Stille knop met touchbediening voor het Bosch-systeem.",
+      "reviews": "bol-score 3,0 van 5",
+      "oneliner": "Voordelige Zigbee-knop die lokaal werkt met Home Assistant.",
       "specs": {
         "Inhoud": "1 radiatorknop",
-        "Verbinding": "Zigbee",
-        "Hub nodig": "Bosch Smart Home Controller II",
+        "Verbinding": "Zigbee 3.0",
+        "Hub nodig": "Zigbee 3.0-hub, bijvoorbeeld SONOFF ZB Bridge Pro",
         "Voeding": "AA-batterijen",
-        "Werkt met": "Google, Alexa, Apple Home"
+        "Werkt met": "Alexa, Google, Home Assistant"
       },
       "pros": [
-        "Zeer stil bij het verstellen",
-        "Touchbediening en verlicht display",
-        "Lokale verwerking op de controller, geen cloud nodig",
+        "Laagste prijs per knop in deze lijst",
+        "Werkt met elke Zigbee 3.0-hub en met Home Assistant",
+        "Raam-open-detectie, kinderslot en vorstbeveiliging",
         "Geen abonnement"
       ],
       "cons": [
-        "Controller apart kopen",
-        "Duitstalige productbeschrijving bij sommige aanbieders"
+        "Zigbee-hub apart kopen",
+        "Geen Matter en geen directe koppeling met Apple Home",
+        "Matige beoordeling op bol"
       ],
-      "ideal": "Wie al een Bosch Smart Home Controller heeft of een systeem zoekt dat ook zonder internet blijft werken.",
-      "text": "De Bosch Smart Home Radiatorthermostaat II is de tweede generatie van de Bosch-knop en vooral verbeterd op geluid en bediening. Je regelt de temperatuur met een touchvlak en een verlicht display, zonder draaiknop. De motor is opvallend stil, iets wat gebruikers vooral in de slaapkamer waarderen.\n\nVoor slimme bediening heb je de Bosch Smart Home Controller II nodig. Die verwerkt schema's lokaal, zodat je kamers ook op temperatuur blijven als je internet even wegvalt. Via de controller werkt de knop met Matter en dus met Google Home, Alexa en Apple Home. Met een raamcontact van Bosch zet de knop de verwarming dicht zodra je gaat luchten. Per kamer stel je een eigen weekschema in, wat in het stookseizoen gas bespaart in kamers die je alleen 's avonds gebruikt. De knop zelf is redelijk geprijsd, maar tel de controller mee als je nog niets van Bosch hebt.",
-      "ean": "4062321597351",
-      "bol_title": "Bosch Smart Home Heizkörper-Thermostat II Radiatorthermostaat",
-      "url": "https://www.bol.com/nl/nl/p/bosch-slimme-radiatorknop-ii-verwarmingsthermostaat/9300000100550339/",
-      "image": "https://media.s-bol.com/VZMBnwGWW7vv/4LM6A2/550x558.jpg",
+      "ideal": "Wie al een Zigbee-hub of Home Assistant heeft en voor weinig geld veel radiatoren slim wil maken.",
+      "text": "De SONOFF TRVZB is een slimme radiatorknop die via Zigbee 3.0 werkt en per stuk rond de 30 euro kost. Daarmee is het de voordeligste knop in deze lijst, wat vooral telt als je een heel huis wilt uitrusten. Hij past op kranen met M30 x 1,5 schroefdraad en er zitten adapters bij voor andere aansluitingen. Op de knop zit een klein display en je verstelt de temperatuur ook gewoon met de hand.\n\nVoor slimme bediening heb je een Zigbee 3.0-hub nodig, zoals de SONOFF ZB Bridge Pro, of een Zigbee-stick met Home Assistant. In de eWeLink-app stel je per kamer een weekschema in en bedien je de knop op afstand, ook met Alexa en Google Assistant. Met Home Assistant blijft alles lokaal en werkt het schema door als je internet even wegvalt. Raam-open-detectie zet de verwarming dicht zodra je gaat luchten. Daarnaast zijn er een kinderslot en vorstbeveiliging. Matter ontbreekt en de beoordeling op bol is met een 3,0 matig. Dit is dus vooral een knop voor wie graag zelf instelt.",
+      "ean": "6920075740950",
+      "bol_title": "SONOFF TRVZB Thermostatische Radiatorkraan, Slimme Thermostaat met App-functionaliteit, Zigbee Thermostaat Vereist Zigbee 3.0 Hub, Compatibel met Alexa/Home Assistant",
+      "url": "https://www.bol.com/nl/nl/p/sonoff-trvzb-thermostat/9300000171006201/",
+      "image": "https://media.s-bol.com/kqxXjgpkmrjE/EqQv6Ym/550x550.jpg",
       "ph": {
-        "2026-10-30": 79.0,
-        "2026-10-31": 79.0,
-        "2026-11-01": 79.0,
-        "2026-11-02": 75.0,
-        "2026-11-03": 75.0,
-        "2026-11-04": 79.0,
-        "2026-11-05": 79.0,
-        "2026-11-06": 79.0,
-        "2026-11-07": 79.0,
-        "2026-11-08": 79.0,
-        "2026-11-09": 79.0,
-        "2026-11-10": 79.0,
-        "2026-11-11": 79.0
+        "2026-11-11": 29.9
       },
-      "low_price": 75.0,
-      "synced": "2026-11-11",
-      "prev_price": 75.0,
-      "prev_date": "2026-11-03"
+      "low_price": 29.9,
+      "synced": "2026-11-11"
     },
     {
       "brand": "Danfoss",
@@ -504,7 +491,7 @@
     },
     {
       "h": "Hub, bridge of niets?",
-      "p": "De meeste knoppen hebben een hub nodig om via internet bediend te worden. Tado, Netatmo, Meross en AQIOS leveren die in de starterskit. Bosch en Honeywell werken met een eigen controller. De Danfoss Eco heeft helemaal geen hub nodig en werkt via Bluetooth. Aqara werkt via Matter over Thread, waarvoor een Apple TV, HomePod mini of Google Nest Hub volstaat. Kijk dus eerst wat je al in huis hebt."
+      "p": "De meeste knoppen hebben een hub nodig om via internet bediend te worden. Tado, Netatmo, Meross en AQIOS leveren die in de starterskit. Honeywell werkt met een eigen controller en de SONOFF TRVZB met een Zigbee-hub naar keuze. De Danfoss Eco heeft helemaal geen hub nodig en werkt via Bluetooth. Aqara werkt via Matter over Thread, waarvoor een Apple TV, HomePod mini of Google Nest Hub volstaat. Kijk dus eerst wat je al in huis hebt."
     },
     {
       "h": "Past hij op mijn radiator?",
@@ -520,7 +507,7 @@
     },
     {
       "h": "Abonnement en privacy",
-      "p": "Tado biedt geofencing en automatische raam-open-detectie volledig alleen met Auto-Assist. Netatmo, Bosch, Honeywell, Danfoss en Aqara hebben geen abonnement. Wil je alles lokaal houden zonder cloud, kies dan de Danfoss Eco via Bluetooth, Bosch met de Smart Home Controller of Shelly met Home Assistant."
+      "p": "Tado biedt geofencing en automatische raam-open-detectie volledig alleen met Auto-Assist. Netatmo, SONOFF, Honeywell, Danfoss en Aqara hebben geen abonnement. Wil je alles lokaal houden zonder cloud, kies dan de Danfoss Eco via Bluetooth of combineer de SONOFF TRVZB of Shelly met Home Assistant."
     }
   ],
   "faq": [

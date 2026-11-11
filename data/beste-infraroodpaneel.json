@@ -523,62 +523,40 @@
     },
     {
       "brand": "VH",
-      "name": "Superia 600 W 60 x 100 cm",
-      "price": 139.95,
+      "name": "Superia 720 W 60 x 120 cm",
+      "price": 160.0,
       "score": 7.9,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Complete set met thermostaat, wifi en afstandsbediening.",
       "specs": {
-        "Vermogen": "600 W",
+        "Vermogen": "720 W",
         "Thermostaat": "Ja, wifi en afstandsbediening",
         "Montage": "Wand of staand",
-        "Indicatie ruimte": "ca. 8 tot 10 m²"
+        "Indicatie ruimte": "ca. 10 tot 12 m²"
       },
       "pros": [
         "Afstandsbediening meegeleverd",
         "Wand of vrijstaand",
-        "Formaat 60 x 100 cm",
+        "Geschikt voor de badkamer (IP24)",
         "Alles in de doos, geen losse thermostaat nodig"
       ],
       "cons": [
+        "Alleen liggend te plaatsen, vraagt 120 cm breedte",
         "Gemiddelde beoordeling iets lager dan Komodo",
         "Minder bekend merk"
       ],
       "ideal": "Wie een compleet paneel wil dat je zowel met de app als met een afstandsbediening regelt.",
-      "text": "De VH Superia is een paneel van 60 bij 100 centimeter en 600 watt dat compleet geleverd wordt. In de doos zitten een thermostaat met wifi en een afstandsbediening. Je hoeft dus niets los bij te kopen. Hang hem aan de wand of zet hem vrijstaand neer, bijvoorbeeld in een slaapkamer of werkkamer van 8 tot 10 vierkante meter.\n\nDe afstandsbediening is handig voor wie niet steeds de app wil openen, bijvoorbeeld voor oudere gebruikers. Via wifi stel je wel gewoon tijden in. Op bol scoort de Superia redelijk, met waardering voor de prijs en het gemak. Sommige kopers vinden de warmteafgifte op grotere afstand wat beperkt, wat bij 600 watt ook te verwachten is. Zit je binnen twee meter van het paneel, dan merk je de warmte goed. Een degelijke middenmoter die vooral scoort op compleetheid.",
-      "ean": "8719874750851",
-      "bol_title": "VH Infrarood paneel Superia - 60 x 100 cm - 600 Watt - Compleet met thermostaat - Wifi functie - Afstandsbediening - Wandmontage & Vrijstaand - Ideaal voor bijverwarming - Verplaatsbaar",
-      "url": "https://www.bol.com/nl/nl/p/vh-infrarood-paneel-superia-60x100cm-600w-wandmontage-vrijstaand/9200000106114995/",
-      "image": "https://media.s-bol.com/qvDJk7Y2GRNG/MQ5oOL5/550x568.jpg",
-      "synced": "2026-11-11",
+      "text": "De VH Superia is een paneel van 60 bij 120 centimeter en 720 watt dat compleet geleverd wordt. De thermostaat met wifi zit in het paneel ingebouwd en er zit een afstandsbediening in de doos. Je hoeft dus niets los bij te kopen. Hang hem aan de wand of zet hem vrijstaand neer, bijvoorbeeld in een slaapkamer of werkkamer van 10 tot 12 vierkante meter. Let op: dit formaat kan alleen liggend, dus je hebt 120 centimeter in de breedte nodig.\n\nDe afstandsbediening is handig voor wie niet steeds de app wil openen, bijvoorbeeld voor oudere gebruikers. Via wifi stel je in de Tuya-app wel gewoon tijden in. Met beschermingsklasse IP24 mag hij volgens de fabrikant ook in de badkamer hangen. Kopers op bol geven gemiddeld 4,1 sterren, iets lager dan de Komodo-panelen in deze lijst. Bij 720 watt blijft het bijverwarming: binnen een paar meter van het paneel merk je de warmte het best. Een degelijke middenmoter die vooral scoort op compleetheid.",
+      "ean": "8719874750868",
+      "bol_title": "VH Infrarood paneel Superia - 60 x 120 cm - 720W - Wifi functie - Thermostaat - Incl. afstandsbediening - Wandmontage & Vrijstaand",
+      "url": "https://www.bol.com/nl/nl/p/vh-infrarood-paneel-superia-60x120cm-720w-wandmontage-vrijstaand/9200000106497787/",
+      "image": "https://media.s-bol.com/Rz6jNY6qPWNq/Y6gEZ6O/550x568.jpg",
       "ph": {
-        "2026-10-20": 149.0,
-        "2026-10-21": 149.0,
-        "2026-10-23": 149.0,
-        "2026-10-24": 149.0,
-        "2026-10-25": 149.0,
-        "2026-10-26": 149.0,
-        "2026-10-27": 149.0,
-        "2026-10-28": 149.0,
-        "2026-10-29": 149.0,
-        "2026-10-30": 149.0,
-        "2026-10-31": 139.0,
-        "2026-11-01": 139.0,
-        "2026-11-02": 149.0,
-        "2026-11-03": 149.0,
-        "2026-11-04": 149.0,
-        "2026-11-05": 149.0,
-        "2026-11-06": 139.95,
-        "2026-11-07": 139.95,
-        "2026-11-08": 139.95,
-        "2026-11-09": 139.95,
-        "2026-11-10": 139.95,
-        "2026-11-11": 139.95
+        "2026-11-11": 160.0
       },
-      "low_price": 139.0,
-      "prev_price": 149.0,
-      "prev_date": "2026-11-05"
+      "low_price": 160.0,
+      "synced": "2026-11-11"
     }
   ],
   "guide": [
