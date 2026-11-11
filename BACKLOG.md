@@ -46,7 +46,7 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-robotstofzuiger-goedkoop | huishouden | robotstofzuiger goedkoop | De 10 beste goedkope robotstofzuigers van 2026 | 🤖
 [x] beste-kunstkerstboom-met-verlichting | wonen | kunstkerstboom met verlichting | De 10 beste kunstkerstbomen met verlichting van 2026 | 🎄
 [ ] beste-xbox | gaming | xbox series console | De 10 beste Xbox-consoles en bundels van 2026 | 🎮
-[ ] beste-drone | elektronica | drone met camera | De 10 beste drones met camera van 2026 | 🚁
+[x] beste-drone | elektronica | drone met camera | De 10 beste drones met camera van 2026 | 🚁
 [x] beste-lego-voor-volwassenen | cadeaus | lego volwassenen | De 10 beste LEGO-sets voor volwassenen van 2026 | 🧱
 [x] beste-instant-camera | cadeaus | instant camera | De 10 beste instant camera's van 2026 | 📸
 [ ] beste-kerstverlichting-binnen | wonen | kerstverlichting binnen | De 10 beste kerstlampjes voor binnen van 2026 | 💡
