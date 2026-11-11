@@ -7,9 +7,9 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-cadeau-3-jarige | speelgoed | speelgoed 3 jaar | De 10 beste cadeaus voor 3-jarigen van 2026 | 🧸
 [x] beste-cadeau-5-jarige | speelgoed | speelgoed 5 jaar | De 10 beste cadeaus voor 5-jarigen van 2026 | 🧸
 [x] beste-lego | speelgoed | lego | De 10 beste LEGO-sets van 2026 | 🧱
-[ ] beste-cadeau-8-jarige | speelgoed | speelgoed 8 jaar | De 10 beste cadeaus voor 8-jarigen van 2026 | 🎁
+[x] beste-cadeau-8-jarige | speelgoed | speelgoed 8 jaar | De 10 beste cadeaus voor 8-jarigen van 2026 | 🎁
 [ ] beste-bordspel | speelgoed | bordspel | De 10 beste bordspellen van 2026 | 🎲
-[ ] beste-sinterklaas-schoencadeautjes | cadeaus | schoencadeautjes sinterklaas | De 10 beste schoencadeautjes voor Sinterklaas van 2026 | 👟
+[x] beste-sinterklaas-schoencadeautjes | cadeaus | schoencadeautjes sinterklaas | De 10 beste schoencadeautjes voor Sinterklaas van 2026 | 👟
 [ ] beste-cadeau-1-jarige | speelgoed | speelgoed 1 jaar | De 10 beste cadeaus voor 1-jarigen van 2026 | 🧸
 [ ] beste-speelkeuken | speelgoed | speelkeuken | De 10 beste speelkeukens van 2026 | 🍳
 [ ] beste-playmobil | speelgoed | playmobil | De 10 beste Playmobil-sets van 2026 | 🏰
