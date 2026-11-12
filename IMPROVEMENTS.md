@@ -319,3 +319,6 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: teksten met oude prijs: JBL Tune Flex 2 ("ongeveer 80 euro" bij 49) en Bose SoundLink Flex ("rond 170 euro" bij 99); Midea PortaSplit Cool (1399) is duur voor plek 5 mobiele airco, alternatief Evolar split 12.000 BTU (1099); Netatmo (149,99) is als prijs-kwaliteit duurder dan de tado op 1; Meubella Moyo heeft geen bol-reviews.
 - Idee voor later: vergelijking LG 55QNED84 vs TCL 65T69C opnieuw maken met de 65C6KS (vsdata/vs.json); zoekopdracht "nieuwe elektronica modellen 2024" (4 vertoningen) nagaan op welke pagina die landt.
 - Voor Nick: niets.
+
+## 2026-11-13 groeimotor nacht (N32 stap 2)
+- Gedaan: 35 gidsen met 0 bol-kliks en minder dan 5 bezoekers in 28 dagen kregen "noindex": true in data (tools/snoei.py, lijst in _src/snoei.json); build.py zet noindex,follow en laat ze uit sitemap.xml. Niets verwijderd; verbeterronde: het veld laten staan, gidsen op de lijst hoeven geen aanvraag bij Google. Terug: python3 tools/snoei.py --terug. E47.
