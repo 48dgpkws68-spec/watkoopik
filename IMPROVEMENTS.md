@@ -303,3 +303,4 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Voor Nick: niets.
 
 - Groeimotor nacht 12 nov (N28, b5089f1c): /aanbiedingen/ en home rekenen de korting nu tegen de laagste gemeten prijs van de 30 dagen ervoor (was mediaan), jojoprijzen vallen af (270 naar 164). Black Friday-pagina: strengste toets, uitleg jojoprijzen, tabel en CSV mee. Backup build.py.bak-20261112-n28.
+- Groeimotor nacht 12 nov (N29, 2787c1c8): build.py schrijft bij elke build groeimotor/persbericht.md (persbericht Black Friday + 5 pitches met de cijfers van die dag, buiten de site, niets verstuurd). Geen wijziging aan pagina's.
