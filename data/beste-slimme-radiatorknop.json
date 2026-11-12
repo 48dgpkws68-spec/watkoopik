@@ -555,5 +555,6 @@
       "q": "Werken ze met een warmtepomp?",
       "a": "Ja, maar met beleid. Een warmtepomp werkt het zuinigst met een constante, lage watertemperatuur. Grote temperatuurverschillen per kamer kunnen het rendement verlagen. Gebruik de knoppen vooral om ongebruikte kamers een paar graden lager te zetten en niet om kamers steeds volledig af te sluiten."
     }
-  ]
+  ],
+  "noindex": true
 }

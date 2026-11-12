@@ -1,0 +1,1123 @@
+{
+ "datum": "2026-11-13",
+ "dagen": 28,
+ "fase": "cadeau",
+ "gidsen_totaal": 225,
+ "noindex": 35,
+ "indexeerbaar": 190,
+ "kandidaten_zonder_reden_om_te_blijven": 35,
+ "lijst": [
+  {
+   "slug": "beste-kruimeldief",
+   "cat": "huishouden",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 82,
+   "zuster": "beste-robotstofzuiger-huisdieren"
+  },
+  {
+   "slug": "beste-powerbank",
+   "cat": "elektronica",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 83,
+   "zuster": "beste-actiecamera"
+  },
+  {
+   "slug": "beste-monddouche",
+   "cat": "verzorging",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 91,
+   "zuster": "beste-elektrische-tandenborstel"
+  },
+  {
+   "slug": "beste-heggenschaar",
+   "cat": "klussen",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 92,
+   "zuster": "beste-hogedrukreiniger"
+  },
+  {
+   "slug": "beste-bladblazer",
+   "cat": "klussen",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 119,
+   "zuster": "beste-hogedrukreiniger"
+  },
+  {
+   "slug": "beste-autostoel",
+   "cat": "kind",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 145,
+   "zuster": "beste-babyfoon"
+  },
+  {
+   "slug": "beste-epilator",
+   "cat": "verzorging",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 196,
+   "zuster": "beste-ladyshave"
+  },
+  {
+   "slug": "beste-printer",
+   "cat": "elektronica",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 277,
+   "zuster": "beste-actiecamera"
+  },
+  {
+   "slug": "beste-robotmaaier",
+   "cat": "klussen",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 802,
+   "zuster": "beste-grasmaaier-kleine-tuin"
+  },
+  {
+   "slug": "beste-vaatwasser",
+   "cat": "huishouden",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 814,
+   "zuster": "beste-droogrek"
+  },
+  {
+   "slug": "beste-samsung-smartphone",
+   "cat": "telefoon",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 854,
+   "zuster": "beste-iphone"
+  },
+  {
+   "slug": "beste-wasdroger",
+   "cat": "huishouden",
+   "bezoekers_28d": 0,
+   "kliks_28d": 0,
+   "waarde": 863,
+   "zuster": "beste-warmtepompdroger"
+  },
+  {
+   "slug": "beste-verzwaringsdeken",
+   "cat": "slapen",
+   "bezoekers_28d": 1,
+   "kliks_28d": 0,
+   "waarde": 58,
+   "zuster": "beste-4-seizoenen-dekbed"
+  },
+  {
+   "slug": "beste-slimme-radiatorknop",
+   "cat": "wonen",
+   "bezoekers_28d": 1,
+   "kliks_28d": 0,
+   "waarde": 95,
+   "zuster": "beste-slimme-thermostaat"
+  },
+  {
+   "slug": "beste-contactgrill",
+   "cat": "keuken",
+   "bezoekers_28d": 1,
+   "kliks_28d": 0,
+   "waarde": 129,
+   "zuster": "beste-afzuigkap"
+  },
+  {
+   "slug": "beste-sodastream",
+   "cat": "keuken",
+   "bezoekers_28d": 1,
+   "kliks_28d": 0,
+   "waarde": 130,
+   "zuster": "beste-afzuigkap"
+  },
+  {
+   "slug": "beste-oliegevulde-radiator",
+   "cat": "wonen",
+   "bezoekers_28d": 1,
+   "kliks_28d": 0,
+   "waarde": 205,
+   "zuster": "beste-elektrische-inbouwhaard"
+  },
+  {
+   "slug": "beste-e-reader",
+   "cat": "elektronica",
+   "bezoekers_28d": 1,
+   "kliks_28d": 0,
+   "waarde": 231,
+   "zuster": "beste-tablet-kinderen"
+  },
+  {
+   "slug": "beste-pc-monitor-27-inch",
+   "cat": "computer",
+   "bezoekers_28d": 1,
+   "kliks_28d": 0,
+   "waarde": 298,
+   "zuster": "beste-gaming-monitor"
+  },
+  {
+   "slug": "beste-combimagnetron",
+   "cat": "keuken",
+   "bezoekers_28d": 1,
+   "kliks_28d": 0,
+   "waarde": 370,
+   "zuster": "beste-magnetron"
+  },
+  {
+   "slug": "beste-ultrawide-monitor",
+   "cat": "computer",
+   "bezoekers_28d": 1,
+   "kliks_28d": 0,
+   "waarde": 640,
+   "zuster": "beste-gaming-monitor"
+  },
+  {
+   "slug": "beste-baardtrimmer",
+   "cat": "verzorging",
+   "bezoekers_28d": 2,
+   "kliks_28d": 0,
+   "waarde": 83,
+   "zuster": "beste-ladyshave"
+  },
+  {
+   "slug": "beste-oordopjes-slapen",
+   "cat": "slapen",
+   "bezoekers_28d": 2,
+   "kliks_28d": 0,
+   "waarde": 114,
+   "zuster": "beste-4-seizoenen-dekbed"
+  },
+  {
+   "slug": "beste-wekker",
+   "cat": "slapen",
+   "bezoekers_28d": 2,
+   "kliks_28d": 0,
+   "waarde": 175,
+   "zuster": "beste-4-seizoenen-dekbed"
+  },
+  {
+   "slug": "beste-draadloze-oordopjes",
+   "cat": "elektronica",
+   "bezoekers_28d": 2,
+   "kliks_28d": 0,
+   "waarde": 193,
+   "zuster": "beste-koptelefoon-onder-100-euro"
+  },
+  {
+   "slug": "beste-strijkijzer",
+   "cat": "huishouden",
+   "bezoekers_28d": 2,
+   "kliks_28d": 0,
+   "waarde": 262,
+   "zuster": "beste-droogrek"
+  },
+  {
+   "slug": "beste-sporthorloge",
+   "cat": "sport",
+   "bezoekers_28d": 2,
+   "kliks_28d": 0,
+   "waarde": 360,
+   "zuster": "beste-smartwatch-ouderen"
+  },
+  {
+   "slug": "beste-bureaustoel-rugklachten",
+   "cat": "wonen",
+   "bezoekers_28d": 2,
+   "kliks_28d": 0,
+   "waarde": 393,
+   "zuster": "beste-bureaustoel"
+  },
+  {
+   "slug": "beste-keukenmachine",
+   "cat": "keuken",
+   "bezoekers_28d": 2,
+   "kliks_28d": 0,
+   "waarde": 402,
+   "zuster": "beste-blender"
+  },
+  {
+   "slug": "beste-fornuis",
+   "cat": "keuken",
+   "bezoekers_28d": 2,
+   "kliks_28d": 0,
+   "waarde": 1105,
+   "zuster": "beste-afzuigkap"
+  },
+  {
+   "slug": "beste-nat-droogzuiger",
+   "cat": "huishouden",
+   "bezoekers_28d": 3,
+   "kliks_28d": 0,
+   "waarde": 139,
+   "zuster": "beste-robotstofzuiger-huisdieren"
+  },
+  {
+   "slug": "beste-terrasverwarmer",
+   "cat": "klussen",
+   "bezoekers_28d": 3,
+   "kliks_28d": 0,
+   "waarde": 238,
+   "zuster": "beste-bbq"
+  },
+  {
+   "slug": "beste-handdoekradiator",
+   "cat": "wonen",
+   "bezoekers_28d": 3,
+   "kliks_28d": 0,
+   "waarde": 306,
+   "zuster": "beste-elektrische-inbouwhaard"
+  },
+  {
+   "slug": "beste-keramische-kachel",
+   "cat": "wonen",
+   "bezoekers_28d": 4,
+   "kliks_28d": 0,
+   "waarde": 94,
+   "zuster": "beste-elektrische-inbouwhaard"
+  },
+  {
+   "slug": "beste-bureaulamp",
+   "cat": "wonen",
+   "bezoekers_28d": 4,
+   "kliks_28d": 0,
+   "waarde": 117,
+   "zuster": "beste-bureaustoel"
+  }
+ ],
+ "blijft": {
+  "beste-4-seizoenen-dekbed": [
+   "3 bol-kliks",
+   "11 bezoekers",
+   "jonger dan 14 dagen"
+  ],
+  "beste-accuboormachine-beginners": [
+   "5 bezoekers"
+  ],
+  "beste-accuboormachine": [
+   "2 bol-kliks",
+   "experiment E20",
+   "hoofdgids familie"
+  ],
+  "beste-actiecamera": [
+   "experiment E11",
+   "jonger dan 14 dagen"
+  ],
+  "beste-adventskalender": [
+   "14 bol-kliks",
+   "14 bezoekers",
+   "experiment E7/E20",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-afzuigkap": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-airfryer-1-persoon": [
+   "5 bol-kliks",
+   "experiment E20",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-airfryer-groot-gezin": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-airfryer": [
+   "2 bol-kliks",
+   "hoofdgids familie"
+  ],
+  "beste-all-in-one-pc": [
+   "experiment E20",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-amerikaanse-koelkast": [
+   "experiment E12"
+  ],
+  "beste-babyfoon": [
+   "5 bezoekers"
+  ],
+  "beste-bank": [
+   "12 bezoekers",
+   "experiment E12/E20",
+   "video-wachtrij 14 dagen",
+   "hoofdgids familie"
+  ],
+  "beste-bbq": [
+   "hoofdgids familie"
+  ],
+  "beste-beamer": [
+   "2 bol-kliks"
+  ],
+  "beste-bedframe": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-beveiligingscamera": [
+   "experiment E20"
+  ],
+  "beste-blender": [
+   "2 bol-kliks",
+   "experiment E20",
+   "hoofdgids familie"
+  ],
+  "beste-bluetooth-speaker": [
+   "experiment E20"
+  ],
+  "beste-bluetooth-tracker": [
+   "experiment E20"
+  ],
+  "beste-bordspel": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-boxspring": [
+   "8 bol-kliks",
+   "14 bezoekers",
+   "experiment E12",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-broodrooster": [
+   "3 bol-kliks"
+  ],
+  "beste-bureaustoel": [
+   "4 bol-kliks",
+   "experiment E20",
+   "hoofdgids familie"
+  ],
+  "beste-cadeau-3-jarige": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-cadeau-5-jarige": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-cadeau-8-jarige": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-cadeau-voor-haar-onder-100-euro": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-cadeau-voor-haar-onder-25-euro": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-cadeau-voor-haar-onder-50-euro": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "hoofdgids familie"
+  ],
+  "beste-cadeau-voor-hem-onder-100-euro": [
+   "1 bol-kliks",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-cadeau-voor-hem-onder-25-euro": [
+   "1 bol-kliks",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-cadeau-voor-hem-onder-50-euro": [
+   "4 bol-kliks",
+   "6 bezoekers",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "hoofdgids familie"
+  ],
+  "beste-cadeau-voor-thuiswerkers": [
+   "experiment E20",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-cadeau-voor-tieners": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-daglichtlamp": [
+   "3 bol-kliks"
+  ],
+  "beste-dashcam-voor-en-achter": [
+   "3 bol-kliks",
+   "7 bezoekers",
+   "experiment E20"
+  ],
+  "beste-dashcam": [
+   "2 bol-kliks",
+   "hoofdgids familie"
+  ],
+  "beste-dekbed": [
+   "9 bol-kliks",
+   "15 bezoekers",
+   "experiment E12",
+   "hoofdgids familie"
+  ],
+  "beste-drone": [
+   "experiment E11",
+   "jonger dan 14 dagen"
+  ],
+  "beste-droogrek": [
+   "experiment E20",
+   "hoofdgids familie"
+  ],
+  "beste-elektrische-deken": [
+   "2 bol-kliks",
+   "5 bezoekers",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-elektrische-fiets": [
+   "7 bol-kliks",
+   "8 bezoekers"
+  ],
+  "beste-elektrische-inbouwhaard": [
+   "2 bol-kliks",
+   "experiment E20",
+   "jonger dan 14 dagen"
+  ],
+  "beste-elektrische-kachel-badkamer": [
+   "3 bol-kliks",
+   "11 bezoekers"
+  ],
+  "beste-elektrische-kachel-slaapkamer": [
+   "9 bol-kliks",
+   "14 bezoekers",
+   "experiment E12"
+  ],
+  "beste-elektrische-kachel-woonkamer": [
+   "jonger dan 14 dagen"
+  ],
+  "beste-elektrische-kachel-zuinig": [
+   "11 bol-kliks",
+   "8 bezoekers",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-elektrische-kachel": [
+   "8 bol-kliks",
+   "9 bezoekers",
+   "experiment E20",
+   "hoofdgids familie"
+  ],
+  "beste-elektrische-openhaard": [
+   "20 bol-kliks",
+   "15 bezoekers"
+  ],
+  "beste-elektrische-tandenborstel": [
+   "2 bol-kliks",
+   "hoofdgids familie"
+  ],
+  "beste-espressomachine-beginners": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-espressomachine": [
+   "experiment E20"
+  ],
+  "beste-flanellen-dekbedovertrek": [
+   "4 bol-kliks",
+   "5 bezoekers",
+   "experiment E20",
+   "jonger dan 14 dagen"
+  ],
+  "beste-fleece-plaid": [
+   "jonger dan 14 dagen"
+  ],
+  "beste-flessenwarmer": [
+   "5 bezoekers"
+  ],
+  "beste-fohn": [
+   "3 bol-kliks",
+   "11 bezoekers",
+   "hoofdgids familie"
+  ],
+  "beste-gaming-headset": [
+   "experiment E20"
+  ],
+  "beste-gaming-laptop": [
+   "6 bezoekers",
+   "experiment E12"
+  ],
+  "beste-gaming-monitor": [
+   "experiment E20"
+  ],
+  "beste-gaming-pc": [
+   "3 bol-kliks",
+   "6 bezoekers",
+   "experiment E12"
+  ],
+  "beste-gaming-stoel": [
+   "experiment E20"
+  ],
+  "beste-gaming-tv": [
+   "experiment E11",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-gaskachel": [
+   "experiment E20"
+  ],
+  "beste-grasmaaier-kleine-tuin": [
+   "experiment E20"
+  ],
+  "beste-grasmaaier": [
+   "hoofdgids familie"
+  ],
+  "beste-hoekbank": [
+   "5 bol-kliks",
+   "10 bezoekers",
+   "experiment E12"
+  ],
+  "beste-hogedrukreiniger": [
+   "hoofdgids familie"
+  ],
+  "beste-hometrainer-klein": [
+   "2 bol-kliks",
+   "experiment E20"
+  ],
+  "beste-hometrainer": [
+   "1 bol-kliks",
+   "hoofdgids familie"
+  ],
+  "beste-hoofdkussen-nekklachten": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-hoofdkussen": [
+   "2 bol-kliks",
+   "hoofdgids familie"
+  ],
+  "beste-inductiekookplaat": [
+   "hoofdgids familie"
+  ],
+  "beste-infraroodpaneel": [
+   "5 bol-kliks",
+   "experiment E20"
+  ],
+  "beste-instant-camera": [
+   "experiment E11",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-iphone": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-kerstcadeau-onder-25-euro": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-kerstcadeau-onder-50-euro": [
+   "1 bol-kliks",
+   "experiment E20",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen",
+   "hoofdgids familie"
+  ],
+  "beste-kerstcadeau-voor-haar": [
+   "experiment E20",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-kerstcadeau-voor-hem": [
+   "1 bol-kliks",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-kerstcadeau-voor-kinderen": [
+   "experiment E20",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen",
+   "hoofdgids familie"
+  ],
+  "beste-kerstcadeau-voor-ouders": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-kerstverlichting-buiten": [
+   "experiment E11",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-keukencadeau": [
+   "experiment E7",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-kinderwagen": [
+   "2 bol-kliks"
+  ],
+  "beste-kledingkast": [
+   "1 bol-kliks",
+   "5 bezoekers"
+  ],
+  "beste-koelkast": [
+   "hoofdgids familie"
+  ],
+  "beste-koffiemachine-bonen-onder-500": [
+   "4 bol-kliks",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-koffiemachine": [
+   "hoofdgids familie"
+  ],
+  "beste-koptelefoon-onder-100-euro": [
+   "3 bol-kliks",
+   "8 bezoekers",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-koptelefoon": [
+   "3 bol-kliks",
+   "hoofdgids familie"
+  ],
+  "beste-krultang": [
+   "5 bol-kliks",
+   "7 bezoekers",
+   "experiment E20"
+  ],
+  "beste-kunstkerstboom-met-verlichting": [
+   "11 bol-kliks",
+   "15 bezoekers",
+   "experiment E11",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-kunstkerstboom": [
+   "11 bol-kliks",
+   "15 bezoekers",
+   "experiment E11/E20",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen",
+   "hoofdgids familie"
+  ],
+  "beste-ladyshave": [
+   "experiment E20"
+  ],
+  "beste-laptop-ouderen": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-laptop-thuiswerken": [
+   "5 bezoekers",
+   "experiment E20",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-laptop-voor-studenten": [
+   "7 bol-kliks",
+   "6 bezoekers",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-laptop": [
+   "hoofdgids familie"
+  ],
+  "beste-lego-technic": [
+   "experiment E11",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-lego-voor-volwassenen": [
+   "experiment E11",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-lego": [
+   "experiment E36",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen",
+   "hoofdgids familie"
+  ],
+  "beste-loopband-onder-bureau": [
+   "8 bezoekers"
+  ],
+  "beste-loopband": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-luchtbevochtiger": [
+   "experiment E20"
+  ],
+  "beste-luchtontvochtiger-slaapkamer": [
+   "experiment E20",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-luchtontvochtiger": [
+   "6 bol-kliks",
+   "9 bezoekers",
+   "hoofdgids familie"
+  ],
+  "beste-luchtreiniger-allergie": [
+   "2 bol-kliks",
+   "experiment E20",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-luchtreiniger-katten": [
+   "experiment E20"
+  ],
+  "beste-luchtreiniger-slaapkamer": [
+   "2 bol-kliks"
+  ],
+  "beste-luchtreiniger": [
+   "4 bol-kliks",
+   "15 bezoekers",
+   "experiment E12",
+   "hoofdgids familie"
+  ],
+  "beste-macbook": [
+   "experiment E20",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-magnetron": [
+   "experiment E20"
+  ],
+  "beste-massagepistool": [
+   "2 bol-kliks",
+   "7 bezoekers"
+  ],
+  "beste-matras-rugklachten": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-matras": [
+   "2 bol-kliks",
+   "5 bezoekers",
+   "experiment E20",
+   "hoofdgids familie"
+  ],
+  "beste-mini-led-tv": [
+   "7 bezoekers",
+   "experiment E12/E16/E20",
+   "jonger dan 14 dagen"
+  ],
+  "beste-mobiele-airco": [
+   "2 bol-kliks",
+   "hoofdgids familie"
+  ],
+  "beste-monitor": [
+   "experiment E20",
+   "hoofdgids familie"
+  ],
+  "beste-nintendo-switch": [
+   "experiment E11",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-oled-tv": [
+   "4 bol-kliks",
+   "6 bezoekers",
+   "experiment E16/E20"
+  ],
+  "beste-oordopjes-sporten": [
+   "1 bol-kliks"
+  ],
+  "beste-oven": [
+   "2 bol-kliks",
+   "video-wachtrij 14 dagen",
+   "hoofdgids familie"
+  ],
+  "beste-pelletkachel": [
+   "3 bol-kliks",
+   "6 bezoekers",
+   "experiment E12"
+  ],
+  "beste-plaid": [
+   "10 bol-kliks",
+   "6 bezoekers",
+   "experiment E20",
+   "hoofdgids familie"
+  ],
+  "beste-playstation-5": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "hoofdgids familie"
+  ],
+  "beste-qled-tv": [
+   "1 bol-kliks",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-raamwisser": [
+   "1 bol-kliks"
+  ],
+  "beste-relaxfauteuil": [
+   "7 bol-kliks",
+   "9 bezoekers",
+   "experiment E12",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-rijstkoker": [
+   "experiment E20"
+  ],
+  "beste-robotstofzuiger-huisdieren": [
+   "1 bol-kliks",
+   "6 bezoekers",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-robotstofzuiger-met-dweilfunctie": [
+   "19 bol-kliks",
+   "24 bezoekers"
+  ],
+  "beste-robotstofzuiger": [
+   "1 bol-kliks"
+  ],
+  "beste-sapcentrifuge": [
+   "2 bol-kliks",
+   "5 bezoekers",
+   "experiment E20"
+  ],
+  "beste-scheerapparaat": [
+   "1 bol-kliks",
+   "10 bezoekers",
+   "hoofdgids familie"
+  ],
+  "beste-sinterklaas-schoencadeautjes": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-sinterklaascadeau-onder-25-euro": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "hoofdgids familie"
+  ],
+  "beste-sinterklaascadeau-onder-50-euro": [
+   "1 bol-kliks",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-sinterklaascadeau-voor-kinderen": [
+   "1 bol-kliks",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-sinterklaascadeau-voor-volwassenen": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
+  ],
+  "beste-slimme-thermostaat": [
+   "2 bol-kliks",
+   "experiment E20",
+   "hoofdgids familie"
+  ],
+  "beste-smartphone-onder-300-euro": [
+   "8 bol-kliks",
+   "12 bezoekers"
+  ],
+  "beste-smartphone": [
+   "video-wachtrij 14 dagen",
+   "hoofdgids familie"
+  ],
+  "beste-smartwatch-ouderen": [
+   "experiment E20"
+  ],
+  "beste-smartwatch": [
+   "experiment E20",
+   "hoofdgids familie"
+  ],
+  "beste-soundbar": [
+   "hoofdgids familie"
+  ],
+  "beste-staafmixer": [
+   "experiment E20"
+  ],
+  "beste-steelstofzuiger": [
+   "2 bol-kliks"
+  ],
+  "beste-stijltang": [
+   "6 bol-kliks",
+   "15 bezoekers"
+  ],
+  "beste-stille-stofzuiger": [
+   "3 bol-kliks",
+   "6 bezoekers",
+   "experiment E20",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-stofzuiger-huisdieren": [
+   "11 bol-kliks",
+   "12 bezoekers",
+   "experiment E20",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-stofzuiger-met-zak": [
+   "experiment E20"
+  ],
+  "beste-stofzuiger": [
+   "5 bol-kliks",
+   "hoofdgids familie"
+  ],
+  "beste-stoomreiniger": [
+   "experiment E20"
+  ],
+  "beste-tablet-kinderen": [
+   "2 bol-kliks",
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-tablet-ouderen": [
+   "1 bol-kliks"
+  ],
+  "beste-tablet": [
+   "hoofdgids familie"
+  ],
+  "beste-tech-cadeau-onder-100-euro": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-televisie": [
+   "5 bol-kliks",
+   "hoofdgids familie"
+  ],
+  "beste-tondeuse": [
+   "4 bol-kliks",
+   "5 bezoekers",
+   "experiment E20"
+  ],
+  "beste-topper": [
+   "2 bol-kliks",
+   "7 bezoekers",
+   "experiment E20"
+  ],
+  "beste-tv-32-inch": [
+   "3 bol-kliks",
+   "6 bezoekers"
+  ],
+  "beste-tv-43-inch": [
+   "10 bol-kliks",
+   "15 bezoekers"
+  ],
+  "beste-tv-50-inch": [
+   "13 bol-kliks",
+   "21 bezoekers",
+   "experiment E12"
+  ],
+  "beste-tv-55-inch": [
+   "20 bol-kliks",
+   "41 bezoekers",
+   "experiment E12/E16/E24"
+  ],
+  "beste-tv-65-inch": [
+   "18 bol-kliks",
+   "33 bezoekers",
+   "experiment E12/E16/E24"
+  ],
+  "beste-tv-75-inch": [
+   "12 bol-kliks",
+   "17 bezoekers",
+   "experiment E12/E16/E20/E24"
+  ],
+  "beste-tv-85-inch": [
+   "2 bol-kliks",
+   "7 bezoekers",
+   "experiment E11/E20/E36",
+   "jonger dan 14 dagen"
+  ],
+  "beste-tv-ambilight": [
+   "6 bol-kliks",
+   "5 bezoekers",
+   "jonger dan 14 dagen"
+  ],
+  "beste-tv-onder-1000-euro": [
+   "7 bol-kliks",
+   "7 bezoekers",
+   "experiment E12/E16",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-tv-onder-200-euro": [
+   "jonger dan 14 dagen"
+  ],
+  "beste-tv-onder-300-euro": [
+   "14 bol-kliks",
+   "22 bezoekers",
+   "experiment E12",
+   "jonger dan 14 dagen"
+  ],
+  "beste-tv-onder-500-euro": [
+   "34 bol-kliks",
+   "42 bezoekers",
+   "experiment E12/E16"
+  ],
+  "beste-tv-voor-sport": [
+   "experiment E11",
+   "jonger dan 14 dagen"
+  ],
+  "beste-ventilator": [
+   "experiment E20"
+  ],
+  "beste-ventilatorkachel": [
+   "3 bol-kliks",
+   "jonger dan 14 dagen"
+  ],
+  "beste-videodeurbel-zonder-abonnement": [
+   "6 bol-kliks",
+   "9 bezoekers"
+  ],
+  "beste-videodeurbel": [
+   "5 bol-kliks",
+   "7 bezoekers",
+   "experiment E20",
+   "hoofdgids familie"
+  ],
+  "beste-voetenwarmer": [
+   "experiment E20"
+  ],
+  "beste-vriezer": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-wanddroogrek-zonder-boren": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-wanddroogrek": [
+   "3 bol-kliks",
+   "experiment E20"
+  ],
+  "beste-warmtekussen": [
+   "8 bol-kliks",
+   "13 bezoekers",
+   "experiment E20"
+  ],
+  "beste-warmtepompdroger": [
+   "6 bol-kliks",
+   "9 bezoekers",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-was-droogcombinatie": [
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-wasmachine": [
+   "hoofdgids familie"
+  ],
+  "beste-waterkoker": [
+   "4 bol-kliks",
+   "hoofdgids familie"
+  ],
+  "beste-weegschaal": [
+   "1 bol-kliks"
+  ],
+  "beste-winterdekbed": [
+   "10 bol-kliks",
+   "18 bezoekers",
+   "experiment E12",
+   "video-wachtrij 14 dagen"
+  ],
+  "beste-zit-sta-bureau": [
+   "6 bol-kliks",
+   "6 bezoekers"
+  ]
+ }
+}

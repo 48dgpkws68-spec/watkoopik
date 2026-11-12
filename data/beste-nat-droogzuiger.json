@@ -655,5 +655,6 @@
     }
   ],
   "published": "2026-10-19",
-  "seo": "nat- en droogzuiger"
+  "seo": "nat- en droogzuiger",
+  "noindex": true
 }
