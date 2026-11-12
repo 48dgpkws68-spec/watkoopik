@@ -301,3 +301,5 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: specs nakijken (deels uit kennis van de agents): Bosch MMB6384M (to-go beker, hakmolen), Nanit met vloerstandaard (ademhalingsband wel of niet in de set, nu 100 euro duurder), Luxari X-Bike, VH Superia 720 W (10 tot 12 m2), Hot Wheels met looping (leeftijd 4 tot 8 vs bol 4 tot 5), Haier HW80 (duur Eco 40-60), Philips HU4813 (300 ml/u); Bose SoundLink Flex-tekst noemt nog "rond 170 euro" bij prijs 109,95; PS5 Digital toont een prijsdaling 812 naar 679 die een listingwissel is.
 - Idee voor later: reel-hook "KOOP GEEN KERSTCADEAU MAN VOOR JE DIT ZIET" leest krom (seo-veld "kerstcadeau man"); hook laten vallen op "kerstcadeau voor hem". Elektrische fiets heeft nog geen "rel" (geen verwante gidsen aanwezig).
 - Voor Nick: niets.
+
+- Groeimotor nacht 12 nov (N28, b5089f1c): /aanbiedingen/ en home rekenen de korting nu tegen de laagste gemeten prijs van de 30 dagen ervoor (was mediaan), jojoprijzen vallen af (270 naar 164). Black Friday-pagina: strengste toets, uitleg jojoprijzen, tabel en CSV mee. Backup build.py.bak-20261112-n28.

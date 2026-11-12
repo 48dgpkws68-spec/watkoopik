@@ -1108,6 +1108,50 @@ if BF_N:
     page("black-friday/echte-kortingen-2026.html", "Black Friday 2026: zoveel kortingen zijn echt (eigen metingen) | watkoopik",
          "%s van %d producten bij bol is nu echt 10%% of meer goedkoper dan de maand ervoor, %s werd juist duurder. Dagelijkse eigen prijsmetingen tot Black Friday." % (pct(BF_CNT["echt"]), BF_N, pct(BF_CNT["duur"])),
          bfe_body, root="../", extra="".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in bfe_ld))
+    # Persbericht met de cijfers van vandaag (groeimotor N29, 12 nov 2026). Staat buiten de site (groeimotor/persbericht.md),
+    # wordt bij elke build herschreven en nooit gepubliceerd of verstuurd: Nick verstuurt zelf.
+    _pdir = os.path.join(ROOT, "..", "groeimotor")
+    if os.path.isdir(_pdir) and TODAY <= datetime.date(2026, 12, 1):
+        try:
+            _pp = lambda n, t=None: pct(n, t).replace("%", " procent")
+            _dbf = (datetime.date(2026, 11, 27) - TODAY).days
+            _wanneer = ("%d dagen voor Black Friday" % _dbf) if _dbf > 1 else "een dag voor Black Friday" if _dbf == 1 else "op Black Friday" if _dbf == 0 else "in de dagen na Black Friday"
+            _url = SITE + "/black-friday/echte-kortingen-2026.html"
+            _cg = max(_cats, key=lambda c: c[3] / c[1]) if _cats else None
+            _cd = max(_cats, key=lambda c: c[4] / c[1]) if _cats else None
+            _catzin = ("De verschillen per categorie zijn groot. In %s is %s van de producten minstens 2 procent goedkoper geworden. In %s is %s juist duurder dan de maand ervoor.\n\n" % (
+                _cg[0].lower(), _pp(_cg[3], _cg[1]), _cd[0].lower(), _pp(_cd[4], _cd[1]))) if _cg and _cd and _cg[0] != _cd[0] else ""
+            _top = (" De grootste stijger staat nu %d procent boven zijn prijs van de weken ervoor." % round(_rises[0]["ch"] * 100)) if _rises else ""
+            _jz = ("Opvallend zijn de jojoprijzen. Van de %d producten die minstens 10 procent onder hun mediaan staan, kostten er %d in de dertig dagen ervoor al eens hetzelfde of minder. Zo'n prijs springt heen en weer tussen twee bedragen, vaak doordat de verkoper wisselt, en lijkt daardoor telkens opnieuw een aanbieding.\n\n" % (len(_drops), len(_jojo))) if _jojo else ""
+            _pers = """# Persbericht Black Friday (cijfers van %s)
+
+Dit bestand wordt bij elke build van watkoopik herschreven met de cijfers van die dag. Niets is verstuurd. De pagina met dezelfde cijfers: %s
+
+## Persbericht
+
+**Maar %s van de producten bij bol is %s echt goedkoper**
+
+Vergelijkingssite watkoopik.nl meet sinds %s elke dag de prijs van de producten in zijn top 10-gidsen bij bol. Uit die metingen blijkt dat %s maar %s van de %d gemeten producten echt goedkoper is: minstens 10 procent onder de laagste prijs van de dertig dagen ervoor. Vergeleken met de mediaanprijs van die dertig dagen haalt %s een daling van 10 procent of meer. Tegelijk is %s van de producten minstens 2 procent duurder geworden. Bij %d producten ligt de prijs nu 5 procent of meer boven die van de weken ervoor.%s
+
+%s"Een korting op Black Friday zegt alleen iets als je weet wat een product de weken ervoor kostte", zegt Nick van Straaten van watkoopik. "Wie nu een model kiest en de prijs noteert, ziet op 27 november meteen of een aanbieding echt iets oplevert."
+
+%swatkoopik vergelijkt de prijs van vandaag met de eigen metingen van de dertig dagen ervoor, niet met een adviesprijs. Verschillen van meer dan 60 procent, vaak een andere verkoper, tellen niet mee. De cijfers worden tot en met 1 december dagelijks bijgewerkt. De volledige dataset staat als CSV op de site en mag met bronvermelding worden gebruikt.
+
+Meer informatie: %s · hallo@watkoopik.nl
+
+## 5 korte pitches (zelf de contactweg zoeken)
+
+- Tweakers (nieuwstips): "Eigen dagprijzen van %d producten bij bol: %s is %s echt goedkoper dan de laagste prijs van de maand ervoor, %s is duurder geworden. Dataset als CSV: %s"
+- Radar (KRO-NCRV): "Kijkers vragen elk jaar of Black Friday-kortingen echt zijn. Wij meten sinds %s elke dag de bol-prijs van %d producten. Bij %d producten ging de prijs de afgelopen weken 5 procent of meer omhoog. Graag lever ik op 27 november de cijfers van die dag."
+- RTL Nieuws (consument): "Nieuwe cijfers voor Black Friday: %s van de producten bij bol is nu echt 10 procent goedkoper dan de maand ervoor, %s is juist duurder. Dagelijks bijgewerkt, ook op de dag zelf."
+- NU.nl (economie/tech): "Korte datastory voor de Black Friday-week: per categorie hoeveel producten echt goedkoper of duurder zijn, op basis van eigen dagelijkse prijsmetingen bij bol. Grafiek en CSV vrij te gebruiken."
+- Bright: "Jojoprijzen bij bol: %d van de %d producten die nu in de aanbieding lijken, kostten de afgelopen maand al eens hetzelfde of minder. Lijst per model met prijs nu en laagste prijs: %s"
+""" % (nldate(TODAY.isoformat()), _url, _pp(len(_streng)), _wanneer, nldate(BF_FIRST), _wanneer, _pp(len(_streng)), BF_N, _pp(BF_CNT["echt"]), _pp(BF_CNT["duur"]), len(_rises), _top,
+       _jz, _catzin, _url, BF_N, _pp(len(_streng)), _wanneer, _pp(BF_CNT["duur"]), _url, nldate(BF_FIRST), BF_N, len(_rises), _pp(len(_streng)), _pp(BF_CNT["duur"]), len(_jojo), len(_drops), _url)
+            open(os.path.join(_pdir, "persbericht.md"), "w", encoding="utf-8").write(_pers)
+            print("Persbericht bijgewerkt: groeimotor/persbericht.md")
+        except Exception as ex:
+            print("Persbericht overgeslagen: %s" % ex)
 
 # ---------- keuzehulp ----------
 quiz = {}
