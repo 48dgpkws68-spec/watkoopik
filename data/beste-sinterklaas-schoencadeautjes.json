@@ -25,7 +25,7 @@
     {
       "brand": "Mattel Games",
       "name": "UNO Kaartspel",
-      "price": 8.99,
+      "price": 7.79,
       "score": 9.2,
       "label": "Beste keuze",
       "ean": "0746775036744",
@@ -54,16 +54,19 @@
       "url": "https://www.bol.com/nl/nl/p/uno-mattel-games-kaartspel/1004004013389326/",
       "image": "https://media.s-bol.com/x3K8v9YEq2j9/321kYNO/539x840.jpg",
       "ph": {
-        "2026-11-11": 8.99
+        "2026-11-11": 8.99,
+        "2026-11-12": 7.79
       },
-      "low_price": 8.99,
-      "synced": "2026-11-11",
-      "ph_ean": "0746775036744"
+      "low_price": 7.79,
+      "synced": "2026-11-12",
+      "ph_ean": "0746775036744",
+      "prev_price": 8.99,
+      "prev_date": "2026-11-11"
     },
     {
       "brand": "Play-Doh",
       "name": "4-pack Levendige kleuren",
-      "price": 5.0,
+      "price": 5.49,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "ean": "5010994947033",
@@ -92,11 +95,14 @@
       "url": "https://www.bol.com/nl/nl/p/refill-play-doh-4-pack-448-gram/9300000225966668/",
       "image": "https://media.s-bol.com/gjBX7mLKD6Kr/GZRLzL0/550x165.jpg",
       "ph": {
-        "2026-11-11": 5.0
+        "2026-11-11": 5.0,
+        "2026-11-12": 5.49
       },
       "low_price": 5.0,
-      "synced": "2026-11-11",
-      "ph_ean": "5010994947033"
+      "synced": "2026-11-12",
+      "ph_ean": "5010994947033",
+      "prev_price": 5.0,
+      "prev_date": "2026-11-11"
     },
     {
       "brand": "999 Games",
@@ -130,10 +136,11 @@
       "url": "https://www.bol.com/nl/nl/p/beverbende-kaartspel/1004004006487381/",
       "image": "https://media.s-bol.com/xA9rPGO4m31z/yPyO4kE/550x719.jpg",
       "ph": {
-        "2026-11-11": 12.99
+        "2026-11-11": 12.99,
+        "2026-11-12": 12.99
       },
       "low_price": 12.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "8717249193050"
     },
     {
@@ -168,10 +175,11 @@
       "url": "https://www.bol.com/nl/nl/p/lego-city-30693-politie-waterscooter/9300000221571786/",
       "image": "https://media.s-bol.com/Gjr33rKwOL3K/N9yKxqK/550x633.jpg",
       "ph": {
-        "2026-11-11": 8.99
+        "2026-11-11": 8.99,
+        "2026-11-12": 8.99
       },
       "low_price": 8.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "5702017819358"
     },
     {
@@ -206,10 +214,11 @@
       "url": "https://www.bol.com/nl/nl/p/hot-wheels-cadeauset-met-3-auto-s-speelgoedvoertuig/1004004013389248/",
       "image": "https://media.s-bol.com/DJo3oGDYg9KY/rR5y26L/529x840.jpg",
       "ph": {
-        "2026-11-11": 7.09
+        "2026-11-11": 7.09,
+        "2026-11-12": 7.09
       },
       "low_price": 7.09,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "0027084425611"
     },
     {
@@ -244,10 +253,11 @@
       "url": "https://www.bol.com/nl/nl/p/paw-patrol-totum-stickeren-op-nummer-boek-10-sticker-puzzels-en-kleur-boek-educatief-peuter-kleuter-hardcover-kleurboek-met-ringband-vakantie-doe-boek/9300000173534240/",
       "image": "https://media.s-bol.com/vvqKZ33y890X/lYxgnpM/550x664.jpg",
       "ph": {
-        "2026-11-11": 6.99
+        "2026-11-11": 6.99,
+        "2026-11-12": 6.99
       },
       "low_price": 6.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "8714274721159"
     },
     {
@@ -282,10 +292,11 @@
       "url": "https://www.bol.com/nl/nl/p/schleich-horse-club-fjord-merrie-13980/9300000168680093/",
       "image": "https://media.s-bol.com/4Ow9xq47pX16/1jA90x3/550x523.jpg",
       "ph": {
-        "2026-11-11": 8.99
+        "2026-11-11": 8.99,
+        "2026-11-12": 8.99
       },
       "low_price": 8.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "4059433753669"
     },
     {
@@ -320,10 +331,11 @@
       "url": "https://www.bol.com/nl/nl/p/kleuter-kwartet/9200000077108642/",
       "image": "https://media.s-bol.com/JprGrwD7rK2K/Z4XPrDE/550x617.jpg",
       "ph": {
-        "2026-11-11": 5.99
+        "2026-11-11": 5.99,
+        "2026-11-12": 5.99
       },
       "low_price": 5.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "6416739545912"
     },
     {
@@ -358,10 +370,11 @@
       "url": "https://www.bol.com/nl/nl/p/schmidt-spiele-kleine-dinos-grosse-abenteuer-100-teile/9300000230820351/",
       "image": "https://media.s-bol.com/nwPy3X5RjyP7/36OD3Bx/550x441.jpg",
       "ph": {
-        "2026-11-11": 7.39
+        "2026-11-11": 7.39,
+        "2026-11-12": 7.39
       },
       "low_price": 7.39,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "4001504565275"
     },
     {
@@ -396,10 +409,11 @@
       "url": "https://www.bol.com/nl/nl/p/little-dutch-little-farm-stempel-set-16-stuks-boerderij-zelfinktende-stempels-creatief-speelgoed/9300000183026681/",
       "image": "https://media.s-bol.com/RvKxgAz84Jow/zpQ8ov8/550x723.jpg",
       "ph": {
-        "2026-11-11": 6.99
+        "2026-11-11": 6.99,
+        "2026-11-12": 6.99
       },
       "low_price": 6.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "8714274126008"
     }
   ],

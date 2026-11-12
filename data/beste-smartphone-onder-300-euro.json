@@ -53,10 +53,11 @@
       "url": "https://www.bol.com/nl/nl/p/nothing-phone-8-128gb-wit/9300000224142305/",
       "image": "https://media.s-bol.com/NgvGlY5Nx0vK/ADEYO1z/550x546.jpg",
       "ph": {
-        "2026-11-11": 289.0
+        "2026-11-11": 289.0,
+        "2026-11-12": 289.0
       },
       "low_price": 289.0,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "6974434224346"
     },
     {
@@ -93,10 +94,11 @@
       "image": "https://media.s-bol.com/7GBxG77pxWvB/Y6k8O30/550x675.jpg",
       "ph": {
         "2026-11-10": 281.7,
-        "2026-11-11": 281.7
+        "2026-11-11": 281.7,
+        "2026-11-12": 281.7
       },
       "low_price": 281.7,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "6936520867585"
     },
     {
@@ -130,19 +132,20 @@
       "ean": "8806095984438",
       "bol_title": "Samsung Galaxy A36 5G - 128GB - Awesome Lavender",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a36-17-cm-dual-sim-android-15-5g-usb-type-c-6-gb-128-gb-5000-mah-lavendel/9300000225539103/",
-      "image": "https://media.s-bol.com/kqKqV6QG27Wr/36KlY3n/550x704.jpg",
+      "image": "https://media.s-bol.com/gO3yRl4kzQB9/4xnyKY2/550x708.jpg",
       "ph": {
         "2026-11-10": 276.72,
-        "2026-11-11": 276.72
+        "2026-11-11": 276.72,
+        "2026-11-12": 276.72
       },
       "low_price": 276.72,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "8806095984438"
     },
     {
       "brand": "Motorola",
       "name": "moto g86 5G 8/256GB",
-      "price": 299.9,
+      "price": 304.95,
       "score": 8.7,
       "label": null,
       "reviews": "650+ reviews",
@@ -168,7 +171,7 @@
       "ideal": "Wie een waterdicht toestel met een vlak, fel pOLED-scherm en veel opslag wil.",
       "text": "De moto g86 combineert de vlotte Dimensity 7400-chip met een accu van 5.200 mAh en een IP68/IP69-certificering. Het 6,67 inch pOLED-scherm is vlak in plaats van gebogen. Voor veel mensen is dat juist een voordeel: geen onbedoelde aanrakingen aan de rand en een screenprotector past beter. Het scherm haalt 4.500 nits piek en ververst op 120 Hz. Gorilla Glass 7i beschermt de voorkant.\n\nDe accu gaat bij gemiddeld gebruik twee dagen mee, maar laadt met 30 watt in ruim een uur, langzamer dan bij de Honor 400. De 50 MP hoofdcamera met OIS en Sony Lytia-sensor levert scherpe foto's met natuurlijke kleuren, de 8 MP groothoek is matig. Kopers op bol geven de g86 een 4,4 en noemen het scherm, de stereo-speakers en de stevige bouw. Het grootste minpunt is het updatebeleid: twee Android-versies en vier jaar beveiligingsupdates. Wie langer wil doen met zijn toestel, kijkt naar Samsung of Nothing.",
       "ean": "0840023294891",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "bol_title": "Motorola moto g86 5G - 8/256GB - Pantone Spellbound (Donkergrijs)",
       "url": "https://www.bol.com/nl/nl/p/motorola-moto-g86-5g-8-256gb-pantone-spellbound/9300000232342833/",
       "image": "https://media.s-bol.com/x4x6580RRKLP/P1Y39v2/550x550.jpg",
@@ -191,11 +194,12 @@
         "2026-11-08": 299.0,
         "2026-11-09": 299.9,
         "2026-11-10": 299.9,
-        "2026-11-11": 299.9
+        "2026-11-11": 299.9,
+        "2026-11-12": 304.95
       },
       "low_price": 299.0,
-      "prev_price": 299.0,
-      "prev_date": "2026-11-08",
+      "prev_price": 299.9,
+      "prev_date": "2026-11-11",
       "ph_ean": "0840023294891"
     },
     {
@@ -230,7 +234,7 @@
       "bol_title": "Google Pixel 8a - 8/128GB - Wit",
       "url": "https://www.bol.com/nl/nl/p/google-pixel-8a-8-128gb-wit/9300000179545269/",
       "image": "https://media.s-bol.com/Kl3zppPlo4J8/k5D8jWE/429x840.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-16": 259.0,
         "2026-10-17": 259.0,
@@ -257,7 +261,8 @@
         "2026-11-08": 259.0,
         "2026-11-09": 259.0,
         "2026-11-10": 259.0,
-        "2026-11-11": 259.0
+        "2026-11-11": 259.0,
+        "2026-11-12": 259.0
       },
       "low_price": 259.0,
       "ph_ean": "0840244707941"
@@ -296,16 +301,17 @@
       "image": "https://media.s-bol.com/BWKgMB66wp0k/jqZXL9v/550x672.jpg",
       "ph": {
         "2026-11-10": 269.0,
-        "2026-11-11": 269.0
+        "2026-11-11": 269.0,
+        "2026-11-12": 269.0
       },
       "low_price": 269.0,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "6974434227064"
     },
     {
       "brand": "Samsung",
       "name": "Galaxy A26 5G 128GB",
-      "price": 233.03,
+      "price": 248.9,
       "score": 8.4,
       "label": null,
       "reviews": "1.900+ reviews",
@@ -333,7 +339,7 @@
       "ean": "8806097072829",
       "bol_title": "Samsung Galaxy A26 5G - 128GB - Black",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a26-5g-128gb-zwart/9300000225539109/",
-      "image": "https://media.s-bol.com/oxKxAONK93WB/6Wz8AGL/550x716.jpg",
+      "image": "https://media.s-bol.com/JM5mMMW2VL02/w0zQ3E1/550x718.jpg",
       "ph": {
         "2026-10-26": 243.74,
         "2026-10-27": 239.99,
@@ -351,18 +357,19 @@
         "2026-11-08": 259.89,
         "2026-11-09": 251.9,
         "2026-11-10": 245.9,
-        "2026-11-11": 233.03
+        "2026-11-11": 233.03,
+        "2026-11-12": 248.9
       },
       "low_price": 233.03,
-      "synced": "2026-11-11",
-      "prev_price": 245.9,
-      "prev_date": "2026-11-10",
+      "synced": "2026-11-12",
+      "prev_price": 233.03,
+      "prev_date": "2026-11-11",
       "ph_ean": "8806097072829"
     },
     {
       "brand": "Motorola",
       "name": "moto g56 5G 8/256GB",
-      "price": 239.0,
+      "price": 241.0,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -393,11 +400,14 @@
       "image": "https://media.s-bol.com/9wJLEjE8q2rP/VmAymXO/550x555.jpg",
       "ph": {
         "2026-11-10": 239.0,
-        "2026-11-11": 239.0
+        "2026-11-11": 239.0,
+        "2026-11-12": 241.0
       },
       "low_price": 239.0,
-      "synced": "2026-11-11",
-      "ph_ean": "0840023292316"
+      "synced": "2026-11-12",
+      "ph_ean": "0840023292316",
+      "prev_price": 239.0,
+      "prev_date": "2026-11-11"
     },
     {
       "brand": "Honor",
@@ -432,10 +442,11 @@
       "url": "https://www.bol.com/nl/nl/p/honor-600-lite-5g-smartphone-8gb-ram-256gb-opslag-6-6-amoled-120hz-octa-core-6520mah-batterij-ip66-sprout-green/9300000372517558/",
       "image": "https://media.s-bol.com/K4J23MgPym8J/K1wrLp8/550x655.jpg",
       "ph": {
-        "2026-11-11": 262.27
+        "2026-11-11": 262.27,
+        "2026-11-12": 262.27
       },
       "low_price": 262.27,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "6936520892013"
     },
     {
@@ -481,10 +492,11 @@
         "2026-11-08": 199.0,
         "2026-11-09": 199.0,
         "2026-11-10": 199.0,
-        "2026-11-11": 199.0
+        "2026-11-11": 199.0,
+        "2026-11-12": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "prev_price": 219.0,
       "prev_date": "2026-11-07",
       "ph_ean": "8806097640257"

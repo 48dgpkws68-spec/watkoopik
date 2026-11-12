@@ -53,10 +53,11 @@
       "image": "https://media.s-bol.com/3L19D8g3rNqx/5QJr2lR/550x394.jpg",
       "ph": {
         "2026-11-10": 35.99,
-        "2026-11-11": 35.99
+        "2026-11-11": 35.99,
+        "2026-11-12": 35.99
       },
       "low_price": 35.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "5702015357197"
     },
     {
@@ -91,16 +92,17 @@
       "image": "https://media.s-bol.com/x5ELkrpR6pwr/z35vVr/550x527.jpg",
       "ph": {
         "2026-11-10": 12.99,
-        "2026-11-11": 12.99
+        "2026-11-11": 12.99,
+        "2026-11-12": 12.99
       },
       "low_price": 12.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "0028178020521"
     },
     {
       "brand": "VTech",
       "name": "KidiZoom Duo FX kindercamera",
-      "price": 71.22,
+      "price": 52.99,
       "score": 8.9,
       "label": null,
       "reviews": "150+ reviews",
@@ -129,18 +131,19 @@
       "image": "https://media.s-bol.com/RvqX20K8P3Oz/ADKln71/550x407.jpg",
       "ph": {
         "2026-11-10": 59.96,
-        "2026-11-11": 71.22
+        "2026-11-11": 71.22,
+        "2026-11-12": 52.99
       },
-      "low_price": 59.96,
-      "synced": "2026-11-11",
-      "prev_price": 59.96,
-      "prev_date": "2026-11-10",
+      "low_price": 52.99,
+      "synced": "2026-11-12",
+      "prev_price": 71.22,
+      "prev_date": "2026-11-11",
       "ph_ean": "3417765199233"
     },
     {
       "brand": "Ravensburger",
       "name": "GraviTrax Junior Starter-Set XXL Dino",
-      "price": 74.95,
+      "price": 101.99,
       "score": 8.8,
       "label": "Beste premium",
       "reviews": "40+ reviews",
@@ -169,18 +172,19 @@
       "image": "https://media.s-bol.com/WJE4VyWpr8MX/Q1mlyz5/550x396.jpg",
       "ph": {
         "2026-11-10": 101.99,
-        "2026-11-11": 74.95
+        "2026-11-11": 74.95,
+        "2026-11-12": 101.99
       },
       "low_price": 74.95,
-      "synced": "2026-11-11",
-      "prev_price": 101.99,
-      "prev_date": "2026-11-10",
+      "synced": "2026-11-12",
+      "prev_price": 74.95,
+      "prev_date": "2026-11-11",
       "ph_ean": "4005556248452"
     },
     {
       "brand": "LEGO",
       "name": "Friends Paisley's huis (41724)",
-      "price": 49.99,
+      "price": 48.95,
       "score": 8.7,
       "label": null,
       "reviews": "100+ reviews",
@@ -209,11 +213,14 @@
       "image": "https://media.s-bol.com/B3B8Br9Qwx52/zvVoDBm/550x536.jpg",
       "ph": {
         "2026-11-10": 49.99,
-        "2026-11-11": 49.99
+        "2026-11-11": 49.99,
+        "2026-11-12": 48.95
       },
-      "low_price": 49.99,
-      "synced": "2026-11-11",
-      "ph_ean": "5702017412832"
+      "low_price": 48.95,
+      "synced": "2026-11-12",
+      "ph_ean": "5702017412832",
+      "prev_price": 49.99,
+      "prev_date": "2026-11-11"
     },
     {
       "brand": "schleich",
@@ -247,10 +254,11 @@
       "image": "https://media.s-bol.com/JK5kwNypX5Y2/L1zp8r/550x461.jpg",
       "ph": {
         "2026-11-10": 31.65,
-        "2026-11-11": 31.71
+        "2026-11-11": 31.71,
+        "2026-11-12": 31.71
       },
       "low_price": 31.65,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "prev_price": 31.65,
       "prev_date": "2026-11-10",
       "ph_ean": "4059433654034"
@@ -287,10 +295,11 @@
       "image": "https://media.s-bol.com/jPE2qq1vjENv/26wwOK/550x449.jpg",
       "ph": {
         "2026-11-10": 39.99,
-        "2026-11-11": 39.99
+        "2026-11-11": 39.99,
+        "2026-11-12": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "4008789714633"
     },
     {
@@ -325,16 +334,17 @@
       "image": "https://media.s-bol.com/Jg5mlWq2qJjD/g5LZMyG/550x509.jpg",
       "ph": {
         "2026-11-10": 19.99,
-        "2026-11-11": 19.99
+        "2026-11-11": 19.99,
+        "2026-11-12": 19.99
       },
       "low_price": 19.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "8710126195642"
     },
     {
       "brand": "Jumbo",
       "name": "Mens Erger Je Niet! Dobbelautomaat",
-      "price": 17.99,
+      "price": 18.09,
       "score": 8.2,
       "label": null,
       "reviews": "100+ reviews",
@@ -363,11 +373,14 @@
       "image": "https://media.s-bol.com/LoqxG9kojJqD/7Lr2O0G/550x592.jpg",
       "ph": {
         "2026-11-10": 17.99,
-        "2026-11-11": 17.99
+        "2026-11-11": 17.99,
+        "2026-11-12": 18.09
       },
       "low_price": 17.99,
-      "synced": "2026-11-11",
-      "ph_ean": "8710126003749"
+      "synced": "2026-11-12",
+      "ph_ean": "8710126003749",
+      "prev_price": 17.99,
+      "prev_date": "2026-11-11"
     },
     {
       "brand": "SJOEF",
@@ -401,10 +414,11 @@
       "image": "https://media.s-bol.com/9KW2WnnPoVK3/868Pxjo/550x410.jpg",
       "ph": {
         "2026-11-10": 139.0,
-        "2026-11-11": 139.0
+        "2026-11-11": 139.0,
+        "2026-11-12": 139.0
       },
       "low_price": 139.0,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "8720574322804"
     }
   ],

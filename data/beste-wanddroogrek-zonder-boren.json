@@ -22,7 +22,7 @@
     {
       "brand": "Tomado",
       "name": "Droogrek Tilburg 12 m",
-      "price": 32.19,
+      "price": 30.29,
       "score": 9.1,
       "label": "Beste keuze",
       "reviews": "1.200+ reviews",
@@ -51,11 +51,14 @@
       "image": "https://media.s-bol.com/qZQExQxP4M4r/550x315.jpg",
       "ph": {
         "2026-11-10": 32.19,
-        "2026-11-11": 32.19
+        "2026-11-11": 32.19,
+        "2026-11-12": 30.29
       },
-      "low_price": 32.19,
-      "synced": "2026-11-11",
-      "ph_ean": "8002524079823"
+      "low_price": 30.29,
+      "synced": "2026-11-12",
+      "ph_ean": "8002524079823",
+      "prev_price": 32.19,
+      "prev_date": "2026-11-11"
     },
     {
       "brand": "Brabantia",
@@ -87,7 +90,7 @@
       "bol_title": "Brabantia Hangend Droogrek - Inklapbaar Wasrek - 4.5m - White",
       "url": "https://www.bol.com/nl/nl/p/brabantia-hangend-droogrek-4-5-m-white/9200000050278376/",
       "image": "https://media.s-bol.com/BlzWn4W65Zn/550x292.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-17": 35.95,
         "2026-10-18": 35.95,
@@ -113,7 +116,8 @@
         "2026-11-08": 35.95,
         "2026-11-09": 35.95,
         "2026-11-10": 35.95,
-        "2026-11-11": 35.95
+        "2026-11-11": 35.95,
+        "2026-11-12": 35.95
       },
       "low_price": 35.95,
       "ph_ean": "8710755102769"
@@ -121,7 +125,7 @@
     {
       "brand": "Tomado",
       "name": "Droogrek Breda 7 m",
-      "price": 15.17,
+      "price": 22.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "1.500+ reviews",
@@ -148,7 +152,7 @@
       "bol_title": "Tomado - Droogrek Breda - 7 meter drooglengte - Ophangen aan radiator, deur, douchewand of balkon - Wit",
       "url": "https://www.bol.com/nl/nl/p/metaltex-breda-hangdroogrek-7m-drooglengte-ophangbaar-wit/9200000020094788/",
       "image": "https://media.s-bol.com/YLrPv6VPy3GO/AnLgjp9/550x390.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-17": 15.99,
         "2026-10-18": 15.99,
@@ -174,17 +178,18 @@
         "2026-11-08": 24.99,
         "2026-11-09": 22.7,
         "2026-11-10": 15.17,
-        "2026-11-11": 15.17
+        "2026-11-11": 15.17,
+        "2026-11-12": 22.0
       },
       "low_price": 15.17,
-      "prev_price": 22.7,
-      "prev_date": "2026-11-09",
+      "prev_price": 15.17,
+      "prev_date": "2026-11-11",
       "ph_ean": "8002524068001"
     },
     {
       "brand": "Vileda",
       "name": "Express Droogrek",
-      "price": 18.07,
+      "price": 17.95,
       "score": 8.7,
       "label": null,
       "reviews": "800+ reviews",
@@ -210,7 +215,7 @@
       "bol_title": "Vileda Express Droogrek - Radiatordroogrek - 3 m droogtlengte",
       "url": "https://www.bol.com/nl/nl/p/vileda-droogrek-compact-express-draadlengte-3-meter/9200000100424455/",
       "image": "https://media.s-bol.com/R9k0Ww4PpLlE/816YqZ3/550x532.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-17": 19.2,
         "2026-10-18": 19.37,
@@ -236,11 +241,12 @@
         "2026-11-08": 18.79,
         "2026-11-09": 18.79,
         "2026-11-10": 17.9,
-        "2026-11-11": 18.07
+        "2026-11-11": 18.07,
+        "2026-11-12": 17.95
       },
       "low_price": 11.29,
-      "prev_price": 17.9,
-      "prev_date": "2026-11-10",
+      "prev_price": 18.07,
+      "prev_date": "2026-11-11",
       "ph_ean": "4023103202290"
     },
     {
@@ -272,7 +278,7 @@
       "bol_title": "Leifheit hangdroogrek Classic 70 - drooglengte 7 m drooglengte - wit - blauw",
       "url": "https://www.bol.com/nl/nl/p/leifheit-classic-70-hang-droogrek-drooglengte-7-mtr/9200000100075496/",
       "image": "https://media.s-bol.com/njyE4j55yYZW/qxxDEJG/550x282.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-17": 17.0,
         "2026-10-18": 17.0,
@@ -298,7 +304,8 @@
         "2026-11-08": 16.59,
         "2026-11-09": 16.09,
         "2026-11-10": 16.09,
-        "2026-11-11": 16.09
+        "2026-11-11": 16.09,
+        "2026-11-12": 16.09
       },
       "low_price": 15.99,
       "prev_price": 16.59,
@@ -334,7 +341,7 @@
       "bol_title": "Tomado - Droogrek Gale - 11 meter Drooglengte - Ophangbaar aan Deur of douchewand - Zilvergrijs - 5 jaar garantie",
       "url": "https://www.bol.com/nl/nl/p/metaltex-gale-droogrek-11m-drooglengte-ophangbaar-aan-deur-zilvergrijs/9200000060354508/",
       "image": "https://media.s-bol.com/KVVJPk3oNQj8/58A3KWA/544x840.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-17": 29.99,
         "2026-10-18": 29.99,
@@ -360,7 +367,8 @@
         "2026-11-08": 38.95,
         "2026-11-09": 38.95,
         "2026-11-10": 34.95,
-        "2026-11-11": 38.95
+        "2026-11-11": 38.95,
+        "2026-11-12": 38.95
       },
       "low_price": 29.99,
       "prev_price": 34.95,
@@ -396,7 +404,7 @@
       "bol_title": "Bodo® Droogrek Hangend - 10m - Ophangbaar aan Deur of Wand - Zwart",
       "url": "https://www.bol.com/nl/nl/p/bodo-droogrek-hangend-10m-ophangbaar-aan-deur-of-wand-zwart/9300000238259183/",
       "image": "https://media.s-bol.com/85jx60OJxMl3/E9wWR7m/550x550.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-17": 28.46,
         "2026-10-18": 28.46,
@@ -422,7 +430,8 @@
         "2026-11-08": 27.04,
         "2026-11-09": 26.99,
         "2026-11-10": 26.99,
-        "2026-11-11": 26.99
+        "2026-11-11": 26.99,
+        "2026-11-12": 26.99
       },
       "low_price": 26.99,
       "prev_price": 27.04,
@@ -458,7 +467,7 @@
       "bol_title": "BOTC Droogrek Hangend 64-110cm - Radiatordroogrek - Uitschuifbaar wasrek voor balkon - Wasrek voor balkonreling -6,6m drooglengte",
       "url": "https://www.bol.com/nl/nl/p/botc-droogrek-hangend-64-110cm-radiatordroogrek-uitschuifbaar-wasrek-voor-balkon-wasrek-voor-balkonreling-6-6m-drooglengte/9300000258642845/",
       "image": "https://media.s-bol.com/qNRKZ9E2OqLG/E9nrX7K/550x550.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-17": 22.48,
         "2026-10-18": 22.48,
@@ -484,7 +493,8 @@
         "2026-11-08": 24.98,
         "2026-11-09": 24.98,
         "2026-11-10": 24.98,
-        "2026-11-11": 24.98
+        "2026-11-11": 24.98,
+        "2026-11-12": 24.98
       },
       "low_price": 22.48,
       "prev_price": 22.48,
@@ -529,10 +539,11 @@
         "2026-11-08": 16.0,
         "2026-11-09": 11.79,
         "2026-11-10": 11.79,
-        "2026-11-11": 11.79
+        "2026-11-11": 11.79,
+        "2026-11-12": 11.79
       },
       "low_price": 11.79,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "prev_price": 16.0,
       "prev_date": "2026-11-08",
       "ph_ean": "8002524058101"
@@ -566,7 +577,7 @@
       "bol_title": "Leifheit hangdroogrek Classic 25 - drooglengte 2,5 m drooglengte - wit blauw",
       "url": "https://www.bol.com/nl/nl/p/leifheit-classic-25-hang-droogrek-drooglengte-2-5-mtr/9200000042898495/",
       "image": "https://media.s-bol.com/VKGwDlQ6rEnz/5yyV0WY/550x288.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-17": 9.99,
         "2026-10-18": 9.99,
@@ -592,7 +603,8 @@
         "2026-11-08": 9.99,
         "2026-11-09": 9.99,
         "2026-11-10": 9.99,
-        "2026-11-11": 9.99
+        "2026-11-11": 9.99,
+        "2026-11-12": 9.99
       },
       "low_price": 9.99,
       "prev_price": 15.69,

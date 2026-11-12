@@ -31,7 +31,7 @@
     {
       "brand": "Jumbo",
       "name": "Hitster Original (Nederlandstalig)",
-      "price": 18.99,
+      "price": 19.99,
       "score": 9.2,
       "label": "Beste keuze",
       "ean": "4060539123942",
@@ -64,16 +64,19 @@
         "2026-11-08": 18.99,
         "2026-11-09": 18.99,
         "2026-11-10": 18.99,
-        "2026-11-11": 18.99
+        "2026-11-11": 18.99,
+        "2026-11-12": 19.99
       },
       "low_price": 18.99,
-      "synced": "2026-11-11",
-      "ph_ean": "4060539123942"
+      "synced": "2026-11-12",
+      "ph_ean": "4060539123942",
+      "prev_price": 18.99,
+      "prev_date": "2026-11-11"
     },
     {
       "brand": "Asmodee",
       "name": "Dobble Classic",
-      "price": 14.99,
+      "price": 14.49,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "ean": "3558380043874",
@@ -106,12 +109,13 @@
         "2026-11-08": 12.69,
         "2026-11-09": 14.99,
         "2026-11-10": 14.99,
-        "2026-11-11": 14.99
+        "2026-11-11": 14.99,
+        "2026-11-12": 14.49
       },
       "low_price": 12.69,
-      "synced": "2026-11-11",
-      "prev_price": 12.69,
-      "prev_date": "2026-11-08",
+      "synced": "2026-11-12",
+      "prev_price": 14.99,
+      "prev_date": "2026-11-11",
       "ph_ean": "3558380043874"
     },
     {
@@ -144,16 +148,17 @@
       "text": "Deze Jan van Haasteren-puzzel van 1000 stukjes is helemaal gemaakt voor de kerstperiode. De tekening staat vol kerstmannen, cadeaus en kleine grapjes die je pas ziet als je echt gaat zoeken. Zoals bij elke Van Haasteren zoek je ook naar de verstopte zelfportretjes van de tekenaar en het bekende haaienvinnetje. Dat zoeken maakt het een spel op zich.\n\nKopers op bol geven gemiddeld een 4,8 en noemen de stukjes stevig met een goede pasvorm. Reken op een paar avonden puzzelen en een tafel of puzzelmat van ongeveer 70 bij 50 centimeter. Als kerstcadeau onder 25 euro werkt hij het best voor iemand die de vrije dagen tussen kerst en oud en nieuw graag rustig thuis doorbrengt. Hij past ook goed in een lootjesspel bij de familie, omdat bijna elke generatie wel van puzzelen houdt. Met een prijs rond de 19 euro heb je nog wat ruimte voor een doos kerstbonbons erbij.",
       "bol_title": "Jan van Haasteren Kerstmis - Puzzel 1000 stukjes volwassenen - Legpuzzels",
       "url": "https://www.bol.com/nl/nl/p/jan-van-haasteren-kerstmis-12y/1004004007096209/",
-      "image": "https://media.s-bol.com/NqqZJKWDq4pK/kZ4MAq5/550x457.jpg",
+      "image": "https://media.s-bol.com/gqvVO4K4nD3Y/lYPJk86/550x588.jpg",
       "ph": {
         "2026-11-07": 18.99,
         "2026-11-08": 18.99,
         "2026-11-09": 18.99,
         "2026-11-10": 18.99,
-        "2026-11-11": 18.99
+        "2026-11-11": 18.99,
+        "2026-11-12": 18.99
       },
       "low_price": 18.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "8710126130070"
     },
     {
@@ -188,10 +193,11 @@
       "url": "https://www.bol.com/nl/nl/p/contigo-byron-snapseal-thermosbeker-to-go-470-ml-grijs/9200000035723648/",
       "image": "https://media.s-bol.com/JgxozXjxgDDD/31N8WRM/353x840.jpg",
       "ph": {
-        "2026-11-11": 18.49
+        "2026-11-11": 18.49,
+        "2026-11-12": 18.49
       },
       "low_price": 18.49,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "0840276159497"
     },
     {
@@ -230,10 +236,11 @@
         "2026-11-08": 14.87,
         "2026-11-09": 16.99,
         "2026-11-10": 16.99,
-        "2026-11-11": 16.99
+        "2026-11-11": 16.99,
+        "2026-11-12": 16.99
       },
       "low_price": 14.87,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "prev_price": 14.87,
       "prev_date": "2026-11-08",
       "ph_ean": "5702018054734"
@@ -274,10 +281,11 @@
         "2026-11-08": 21.99,
         "2026-11-09": 21.99,
         "2026-11-10": 21.99,
-        "2026-11-11": 21.99
+        "2026-11-11": 21.99,
+        "2026-11-12": 21.99
       },
       "low_price": 21.99,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "4255684900252"
     },
     {
@@ -316,10 +324,11 @@
         "2026-11-08": 14.9,
         "2026-11-09": 14.9,
         "2026-11-10": 14.9,
-        "2026-11-11": 14.9
+        "2026-11-11": 14.9,
+        "2026-11-12": 14.9
       },
       "low_price": 14.9,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "5038581167510"
     },
     {
@@ -358,10 +367,11 @@
         "2026-11-08": 19.95,
         "2026-11-09": 19.95,
         "2026-11-10": 23.95,
-        "2026-11-11": 23.95
+        "2026-11-11": 23.95,
+        "2026-11-12": 23.95
       },
       "low_price": 19.95,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "prev_price": 19.95,
       "prev_date": "2026-11-09",
       "ph_ean": "8720938994104"
@@ -369,7 +379,7 @@
     {
       "brand": "Rituals",
       "name": "The Ritual of Karma Mini geschenkset",
-      "price": 17.45,
+      "price": 18.49,
       "score": 8.5,
       "label": null,
       "ean": "8719134210972",
@@ -402,12 +412,13 @@
         "2026-11-08": 16.89,
         "2026-11-09": 17.45,
         "2026-11-10": 17.45,
-        "2026-11-11": 17.45
+        "2026-11-11": 17.45,
+        "2026-11-12": 18.49
       },
       "low_price": 16.89,
-      "synced": "2026-11-11",
-      "prev_price": 16.89,
-      "prev_date": "2026-11-08",
+      "synced": "2026-11-12",
+      "prev_price": 17.45,
+      "prev_date": "2026-11-11",
       "ph_ean": "8719134210972"
     },
     {
@@ -446,10 +457,11 @@
         "2026-11-08": 19.95,
         "2026-11-09": 19.95,
         "2026-11-10": 19.95,
-        "2026-11-11": 19.95
+        "2026-11-11": 19.95,
+        "2026-11-12": 19.95
       },
       "low_price": 19.95,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "7333102254020"
     }
   ],

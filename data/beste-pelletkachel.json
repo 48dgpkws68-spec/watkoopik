@@ -22,7 +22,7 @@
     {
       "brand": "Livn",
       "name": "Liland 8",
-      "price": 1799.0,
+      "price": 1699.0,
       "score": 9.1,
       "label": "Beste keuze",
       "reviews": "40+ reviews",
@@ -50,7 +50,7 @@
       "bol_title": "Livn pelletkachel Liland 8 - 92.7% redendement - voor ruimtes tot 200 m³ - Gratis ingebruikstelling",
       "url": "https://www.bol.com/nl/nl/p/livn-pelletkachel-liland-8/9200000104263004/",
       "image": "https://media.s-bol.com/mZwA7l48z4ZO/460x840.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-21": 1799.0,
         "2026-10-23": 1799.0,
@@ -72,10 +72,13 @@
         "2026-11-08": 1799.0,
         "2026-11-09": 1799.0,
         "2026-11-10": 1799.0,
-        "2026-11-11": 1799.0
+        "2026-11-11": 1799.0,
+        "2026-11-12": 1699.0
       },
-      "low_price": 1799.0,
-      "ph_ean": "8712757458622"
+      "low_price": 1699.0,
+      "ph_ean": "8712757458622",
+      "prev_price": 1799.0,
+      "prev_date": "2026-11-11"
     },
     {
       "brand": "Kalor",
@@ -108,7 +111,7 @@
       "bol_title": "Pelletkachel Kalor Kim 8kW - Zwart",
       "url": "https://www.bol.com/nl/nl/p/pelletkachel-kalor-kim-8kw-zwart/9300000253092639/",
       "image": "https://media.s-bol.com/m5mQ1D85LgBn/Y6LoWK2/550x764.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-21": 1359.0,
         "2026-10-23": 1359.0,
@@ -130,7 +133,8 @@
         "2026-11-08": 1359.0,
         "2026-11-09": 1359.0,
         "2026-11-10": 1359.0,
-        "2026-11-11": 1359.0
+        "2026-11-11": 1359.0,
+        "2026-11-12": 1359.0
       },
       "low_price": 1359.0,
       "ph_ean": "8029906027616"
@@ -165,7 +169,7 @@
       "bol_title": "Pelletkachel Kalor Futura 7kW - Zwart",
       "url": "https://www.bol.com/nl/nl/p/pelletkachel-kalor-futura-7kw-zwart/9300000253895254/",
       "image": "https://media.s-bol.com/m5pvlO0rDWBr/j21g175/550x627.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-21": 2199.0,
         "2026-10-23": 2199.0,
@@ -187,7 +191,8 @@
         "2026-11-08": 2199.0,
         "2026-11-09": 2199.0,
         "2026-11-10": 2199.0,
-        "2026-11-11": 2199.0
+        "2026-11-11": 2199.0,
+        "2026-11-12": 2199.0
       },
       "low_price": 2199.0,
       "ph_ean": "8029906004624"
@@ -195,7 +200,7 @@
     {
       "brand": "Livn",
       "name": "Hamar 8",
-      "price": 1599.0,
+      "price": 1571.65,
       "score": 8.6,
       "label": null,
       "reviews": "20+ reviews",
@@ -222,7 +227,7 @@
       "bol_title": "Livn Pelletkachel Hamar 8 - Rendement: 90,3% - Geschikt voor ruimtes tot 215 m³ - Extra grote pelletbak met een volume van 16 kg",
       "url": "https://www.bol.com/nl/nl/p/livn-pelletkachel-hamar-8-rendement-90-3-geschikt-voor-ruimtes-tot-215-m-extra-grote-pelletbak-met-een-volume-van-16-kg/9300000242443014/",
       "image": "https://media.s-bol.com/goWXVqNZEk8Z/zm49MLy/466x840.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-21": 1849.0,
         "2026-10-23": 1849.0,
@@ -244,11 +249,12 @@
         "2026-11-08": 1599.0,
         "2026-11-09": 1599.0,
         "2026-11-10": 1599.0,
-        "2026-11-11": 1599.0
+        "2026-11-11": 1599.0,
+        "2026-11-12": 1571.65
       },
-      "low_price": 1599.0,
-      "prev_price": 1849.0,
-      "prev_date": "2026-10-27",
+      "low_price": 1571.65,
+      "prev_price": 1599.0,
+      "prev_date": "2026-11-11",
       "ph_ean": "8712757486984"
     },
     {
@@ -288,10 +294,11 @@
         "2026-11-08": 1299.0,
         "2026-11-09": 1299.0,
         "2026-11-10": 1299.0,
-        "2026-11-11": 1299.0
+        "2026-11-11": 1299.0,
+        "2026-11-12": 1299.0
       },
       "low_price": 1299.0,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "3760366604034"
     },
     {
@@ -325,7 +332,7 @@
       "bol_title": "THUNDER Pelletkachel - Vrijstaand - 9 kW - WiFi - 15 kg reservoir - THUNDER KARMEN-BLACK",
       "url": "https://www.bol.com/nl/nl/p/thunder-karmen-black-pelletkachel-10-kw-wifi/9300000262482151/",
       "image": "https://media.s-bol.com/JoXV9prYxGn9/r0zvx0p/550x550.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-21": 1159.0,
         "2026-10-23": 1159.0,
@@ -347,7 +354,8 @@
         "2026-11-08": 1159.0,
         "2026-11-09": 1159.0,
         "2026-11-10": 1159.0,
-        "2026-11-11": 1159.0
+        "2026-11-11": 1159.0,
+        "2026-11-12": 1159.0
       },
       "low_price": 1159.0,
       "ph_ean": "5906765564410"
@@ -391,10 +399,11 @@
         "2026-11-08": 1030.0,
         "2026-11-09": 1030.0,
         "2026-11-10": 1030.0,
-        "2026-11-11": 1030.0
+        "2026-11-11": 1030.0,
+        "2026-11-12": 1030.0
       },
       "low_price": 1030.0,
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph_ean": "5906765561273"
     },
     {
@@ -427,7 +436,7 @@
       "bol_title": "Fair BIO 80 Pelletkachel 8 kW – Compact Design – Hoog Rendement – Programmeerbaar – Voorventilatie – Zwart – Verwarmt tot 220 m³",
       "url": "https://www.bol.com/nl/nl/p/fair-bio-80-pelletkachel-8-kw-compact-design-hoog-rendement-programmeerbaar-voorventilatie-zwart-verwarmt-tot-220-m/9300000380032401/",
       "image": "https://media.s-bol.com/74NwnLk072qw/xnZopBP/550x453.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-21": 1600.0,
         "2026-10-23": 1600.0,
@@ -449,7 +458,8 @@
         "2026-11-08": 1600.0,
         "2026-11-09": 1600.0,
         "2026-11-10": 1600.0,
-        "2026-11-11": 1600.0
+        "2026-11-11": 1600.0,
+        "2026-11-12": 1600.0
       },
       "low_price": 1600.0,
       "ph_ean": "8719327193297"
@@ -484,7 +494,7 @@
       "bol_title": "Pelletkachel Kalor Smart 6kW - Zwart",
       "url": "https://www.bol.com/nl/nl/p/pelletkachel-kalor-smart-6kw-zwart/9300000254480586/",
       "image": "https://media.s-bol.com/NJAZJ1BWA0Z6/Bgq4roo/550x835.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-21": 1149.0,
         "2026-10-23": 1149.0,
@@ -506,7 +516,8 @@
         "2026-11-08": 1149.0,
         "2026-11-09": 1149.0,
         "2026-11-10": 1149.0,
-        "2026-11-11": 1149.0
+        "2026-11-11": 1149.0,
+        "2026-11-12": 1149.0
       },
       "low_price": 1149.0,
       "ph_ean": "8029906029429"
@@ -541,7 +552,7 @@
       "bol_title": "THUNDER Pelletkachel - Vrijstaand - 11 kW - WiFi - 19 kg reservoir - THUNDER ARIA-RED",
       "url": "https://www.bol.com/nl/nl/p/thunder-pelletkachel-aria-red-i-12-kw-tot-80-m-wi-fi-bedieningspaneel-thermostaat/9300000233649957/",
       "image": "https://media.s-bol.com/jpKJ87Kjn7lz/Y7rYEkO/550x566.jpg",
-      "synced": "2026-11-11",
+      "synced": "2026-11-12",
       "ph": {
         "2026-10-21": 1569.99,
         "2026-10-23": 1569.99,
@@ -563,7 +574,8 @@
         "2026-11-08": 1569.99,
         "2026-11-09": 1569.99,
         "2026-11-10": 1569.99,
-        "2026-11-11": 1569.99
+        "2026-11-11": 1569.99,
+        "2026-11-12": 1569.99
       },
       "low_price": 1569.99,
       "ph_ean": "5904161759843"

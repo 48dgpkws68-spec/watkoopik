@@ -8,7 +8,7 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-cadeau-5-jarige | speelgoed | speelgoed 5 jaar | De 10 beste cadeaus voor 5-jarigen van 2026 | 🧸
 [x] beste-lego | speelgoed | lego | De 10 beste LEGO-sets van 2026 | 🧱
 [x] beste-cadeau-8-jarige | speelgoed | speelgoed 8 jaar | De 10 beste cadeaus voor 8-jarigen van 2026 | 🎁
-[ ] beste-bordspel | speelgoed | bordspel | De 10 beste bordspellen van 2026 | 🎲
+[x] beste-bordspel | speelgoed | bordspel | De 10 beste bordspellen van 2026 | 🎲
 [x] beste-sinterklaas-schoencadeautjes | cadeaus | schoencadeautjes sinterklaas | De 10 beste schoencadeautjes voor Sinterklaas van 2026 | 👟
 [ ] beste-cadeau-1-jarige | speelgoed | speelgoed 1 jaar | De 10 beste cadeaus voor 1-jarigen van 2026 | 🧸
 [ ] beste-speelkeuken | speelgoed | speelkeuken | De 10 beste speelkeukens van 2026 | 🍳
@@ -40,7 +40,7 @@ Formaat: slug | cat | query | titel | emoji
 # groeimotor 5 nov 2026 (D1): Black Friday 27 nov + Sinterklaas + Kerst, op verwachte omzet (prijs x zoekvraag x seizoen), 4 tot 6 weken vooraf
 [x] beste-kunstkerstboom | wonen | kunstkerstboom | De 10 beste kunstkerstbomen van 2026 | 🎄
 [x] beste-tv-85-inch | elektronica | 85 inch tv | De 10 beste 85 inch tv's van 2026 | 📺
-[ ] beste-nintendo-switch | gaming | nintendo switch 2 console | De 10 beste Nintendo Switch-bundels van 2026 | 🎮
+[x] beste-nintendo-switch | gaming | nintendo switch 2 console | De 10 beste Nintendo Switch-bundels van 2026 | 🎮
 [x] beste-kerstverlichting-buiten | wonen | kerstverlichting buiten | De 10 beste kerstlampjes voor buiten van 2026 | ✨
 [x] beste-gaming-tv | elektronica | gaming tv 120hz | De 10 beste gaming-tv's van 2026 | 🎮
 [ ] beste-robotstofzuiger-goedkoop | huishouden | robotstofzuiger goedkoop | De 10 beste goedkope robotstofzuigers van 2026 | 🤖
