@@ -51,7 +51,7 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-instant-camera | cadeaus | instant camera | De 10 beste instant camera's van 2026 | 📸
 [ ] beste-kerstverlichting-binnen | wonen | kerstverlichting binnen | De 10 beste kerstlampjes voor binnen van 2026 | 💡
 [x] beste-tv-voor-sport | elektronica | tv voor voetbal | De 10 beste tv's voor sport van 2026 | ⚽
-[ ] beste-actiecamera | elektronica | actiecamera | De 10 beste actiecamera's van 2026 | 🎥
+[x] beste-actiecamera | elektronica | actiecamera | De 10 beste actiecamera's van 2026 | 🎥
 [x] beste-lego-technic | cadeaus | lego technic | De 10 beste LEGO Technic-sets van 2026 | 🧱
 
 # weekrapport 1 nov 2026: tv, plaid/warmte, strijken en bank scoren (Umami-kliks + bol-orders)
