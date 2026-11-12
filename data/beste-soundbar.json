@@ -555,71 +555,41 @@
     },
     {
       "brand": "Sony",
-      "name": "HT-S2000",
-      "price": 269.0,
+      "name": "HT-A3000",
+      "price": 302.0,
       "score": 8.1,
       "label": null,
-      "reviews": "800+ reviews",
-      "oneliner": "Compacte Atmos-bar met sterke spraak voor kleinere ruimtes.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Alles-in-één Atmos-bar met ingebouwde subwoofer en wifi.",
       "specs": {
         "Kanalen": "3.1",
         "Dolby Atmos": "Ja, virtueel",
         "Subwoofer": "Ingebouwd",
-        "Aansluiting": "HDMI eARC",
-        "Streaming": "Bluetooth"
+        "Aansluiting": "HDMI eARC, optisch",
+        "Streaming": "Wifi, AirPlay 2, Chromecast, Bluetooth"
       },
       "pros": [
-        "Twee ingebouwde subwoofers voor een compacte bar",
-        "Virtueel Atmos via Vertical Surround Engine",
-        "Heldere centerspeaker",
-        "Eenvoudig te installeren"
+        "Ingebouwde subwoofer, geen losse kast nodig",
+        "Heldere centerspeaker voor stemmen",
+        "Wifi met AirPlay 2, Chromecast en Spotify Connect",
+        "Uit te breiden met subwoofer en achterspeakers van Sony"
       ],
       "cons": [
-        "Geen wifi-streaming",
-        "Ruimtelijk effect beperkt"
+        "Atmos is virtueel, geen naar boven gerichte speakers",
+        "Met 95 cm breder dan de kleinste bars"
       ],
-      "ideal": "Wie een eenvoudige bar zonder losse subwoofer wil met goede spraak.",
-      "text": "De Sony HT-S2000 is een compacte 3.1-soundbar van 80 centimeter met twee ingebouwde subwoofers. Je hoeft dus geen losse subwoofer kwijt te kunnen. Sony's Vertical Surround Engine bootst Dolby Atmos en DTS:X na. Het effect is bescheiden, maar het geluid klinkt breder dan de bar zelf. De centerspeaker zorgt voor heldere stemmen, iets wat gebruikers vaak noemen.\n\nJe sluit hem aan met één HDMI-kabel en bedient hem via de tv-afstandsbediening of de Bravia Connect-app. Wifi ontbreekt, muziek gaat alleen via Bluetooth. Later kun je een subwoofer of achterspeakers van Sony toevoegen. Voor kleinere woonkamers is dit een eenvoudige en degelijke keuze zonder gedoe.",
-      "ean": "4548736143272",
-      "bol_title": "Sony HT-S2000 - Dolby Atmos soundbar - Zwart",
-      "url": "https://www.bol.com/nl/nl/p/sony-ht-s2000-dolby-atmos-soundbar/9300000150615364/",
-      "image": "https://media.s-bol.com/YRJvAwg4Rr7n/mA5qV3/550x226.jpg",
-      "synced": "2026-11-12",
+      "ideal": "Wie een eenvoudige bar zonder losse subwoofer wil met goede spraak en muziek via wifi.",
+      "text": "De Sony HT-A3000 is een 3.1-soundbar van 95 centimeter breed met een ingebouwde subwoofer. Je hoeft dus geen losse kast kwijt te kunnen. Drie speakers aan de voorkant, waaronder een apart middenkanaal, zorgen voor heldere stemmen bij nieuws en series. Dolby Atmos en DTS:X worden virtueel nagebootst met Sony's Vertical Surround Engine. Het effect is bescheiden, maar het geluid klinkt breder en hoger dan de bar zelf.\n\nJe sluit hem aan met één HDMI-kabel via eARC en bedient hem met de afstandsbediening van je tv. Anders dan veel bars in deze prijsklasse heeft hij wifi, zodat je muziek streamt via AirPlay 2, Chromecast of Spotify Connect. Bluetooth is er ook. Later kun je een draadloze subwoofer of achterspeakers van Sony toevoegen, al zijn die prijzig. Met een Bravia-tv werkt de bar samen met de tv-luidsprekers. Kopers op bol geven hem gemiddeld 5,0 uit 5. Voor kleinere woonkamers is dit een degelijke keuze zonder gedoe.",
+      "ean": "4548736134362",
+      "bol_title": "Sony HT-A3000 - Dolby Atmos soundbar - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/soundbar-sony-ht-a3000-zwart/9300000121891694/",
+      "image": "https://media.s-bol.com/RvV8xQLzKOxq/BB9N6rx/550x220.jpg",
       "ph": {
-        "2026-10-14": 299.0,
-        "2026-10-15": 299.0,
-        "2026-10-16": 299.0,
-        "2026-10-17": 299.0,
-        "2026-10-18": 299.0,
-        "2026-10-19": 299.0,
-        "2026-10-20": 299.0,
-        "2026-10-21": 299.0,
-        "2026-10-23": 299.0,
-        "2026-10-24": 299.0,
-        "2026-10-25": 299.0,
-        "2026-10-26": 299.0,
-        "2026-10-27": 299.0,
-        "2026-10-28": 299.0,
-        "2026-10-29": 299.0,
-        "2026-10-30": 299.0,
-        "2026-10-31": 295.5,
-        "2026-11-01": 295.5,
-        "2026-11-02": 269.0,
-        "2026-11-03": 269.0,
-        "2026-11-04": 269.0,
-        "2026-11-05": 269.0,
-        "2026-11-06": 269.0,
-        "2026-11-07": 269.0,
-        "2026-11-08": 269.0,
-        "2026-11-09": 326.0,
-        "2026-11-10": 264.99,
-        "2026-11-11": 264.99,
-        "2026-11-12": 269.0
+        "2026-11-12": 302.0
       },
-      "low_price": 264.99,
-      "prev_price": 264.99,
-      "prev_date": "2026-11-11",
-      "ph_ean": "4548736143272"
+      "low_price": 302.0,
+      "ph_ean": "4548736134362",
+      "synced": "2026-11-12"
     }
   ],
   "guide": [

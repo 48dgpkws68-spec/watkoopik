@@ -462,44 +462,41 @@
     },
     {
       "brand": "TCL",
-      "name": "65T69C",
-      "price": 476.13,
+      "name": "65C6KS",
+      "price": 549.0,
       "score": 8.6,
-      "reviews": "bol-score 4,9 van 5",
-      "oneliner": "65 inch QLED met Dolby Vision en goed geluid voor weinig geld.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "65 inch QD-Mini LED met Dolby Vision voor weinig geld.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "QLED",
+        "Paneel": "QD-Mini LED",
         "Verversing": "60 Hz",
-        "HDMI 2.1": "Ja, 3 poorten",
+        "HDMI 2.1": "Ja, met VRR",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "Groot 65 inch scherm voor weinig geld",
+        "65 inch QD-MiniLED voor rond de 550 euro",
         "Dolby Vision en HDR10+",
-        "Onkyo 2.1-geluid met Dolby Atmos",
-        "Drie HDMI 2.1-poorten, AirPlay 2 en Chromecast"
+        "Google TV met Chromecast",
+        "HDMI 2.1 met VRR en een gamemodus"
       ],
       "cons": [
-        "Geen local dimming, zwart is minder diep dan bij Mini LED",
-        "Paneel van 60 Hz, minder geschikt voor snelle games"
+        "Paneel van 60 Hz, minder geschikt voor snelle games",
+        "Geluid van 35 watt zonder subwoofer"
       ],
-      "ideal": "Wie een groot scherm voor het kleinste budget zoekt.",
-      "text": "De TCL 65T69C is een 65 inch QLED-tv uit 2025 die je voor rond de 475 euro koopt. Quantum dots geven rijke kleuren en zowel Dolby Vision als HDR10+ worden ondersteund. Het paneel heeft geen local dimming, dus zwart is minder diep dan bij Mini-LED of OLED. Met ongeveer 450 nits is hij het prettigst in een gedimde kamer.\n\nVoor films, series en sport is 60 Hz ruim genoeg. Gamers die 120 Hz willen, kijken beter naar een van de duurdere tv's in deze lijst. Google TV bevat alle Nederlandse apps en Chromecast en AirPlay 2 zijn ingebouwd. Dankzij de Onkyo-luidsprekers met Dolby Atmos klinkt hij voor deze prijs beter dan de meeste tv's, al blijft een soundbar een verbetering. Kopers op bol geven hem gemiddeld 4,9 uit 5. Wie vooral een groot scherm zoekt en geen OLED nodig heeft, houdt hier veel geld over.",
-      "ean": "5901292528584",
+      "ideal": "Wie een groot scherm met mini-led voor een klein budget zoekt.",
+      "text": "De TCL 65C6KS is een 65 inch QD-Mini LED-tv uit 2025 die je voor rond de 550 euro koopt. Quantum dots geven rijke kleuren en de mini-led-verlichting dimt per zone, zodat zwart dieper is dan bij een gewone QLED. Zowel Dolby Vision als HDR10+ worden ondersteund. Het aantal dimzones is kleiner dan bij de duurdere mini-led-tv's in deze lijst, dus rond ondertitels kun je een lichte gloed zien en de helderheid ligt lager.\n\nVoor films, series en sport is 60 Hz ruim genoeg. Gamers die 120 Hz willen, kijken beter naar een van de duurdere tv's in deze lijst. Google TV bevat alle Nederlandse apps en Chromecast is ingebouwd. Het geluid van 35 watt met Dolby Atmos volstaat voor nieuws en series, voor films blijft een soundbar een verbetering. Kopers op bol geven hem gemiddeld 5,0 uit 5. Wie vooral een groot scherm zoekt en geen OLED nodig heeft, houdt hier veel geld over.",
+      "ean": "5901292525828",
       "label": null,
-      "bol_title": "TCL 65T69C - 65 inch - 4K QLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65t69c-65-inch-4k-qled-2025/9300000237197713/",
-      "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
+      "bol_title": "TCL 65C6KS - 65 inch - 4K QD-MiniLED - 2025",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65c6ks-65-ultra-hd-4k-qd-mini-led-smart-tv-google-tv-wifi-dolby-vision-iq-local-dimming-60hz/9300000227512976/",
+      "image": "https://media.s-bol.com/LOjW3XK3zEJX/31q238A/550x388.jpg",
       "ph": {
-        "2026-11-09": 476.13,
-        "2026-11-10": 476.13,
-        "2026-11-11": 476.13,
-        "2026-11-12": 476.13
+        "2026-11-12": 549.0
       },
-      "low_price": 476.13,
-      "synced": "2026-11-12",
-      "ph_ean": "5901292528584"
+      "low_price": 549.0,
+      "ph_ean": "5901292525828",
+      "synced": "2026-11-12"
     },
     {
       "brand": "Samsung",
@@ -649,7 +646,7 @@
   "faq": [
     {
       "q": "Wat is de beste televisie van 2026?",
-      "a": "Op basis van onze vergelijking is de LG OLED C5 de beste televisie van 2026: perfect zwart, uitstekende upscaling, vier HDMI 2.1-poorten en een sterk gedaalde prijs. Wie het beste beeld wil in een lichte kamer kiest de Samsung S95H, wie op het budget let de LG OLED B5 of de TCL 65T69C."
+      "a": "Op basis van onze vergelijking is de LG OLED C5 de beste televisie van 2026: perfect zwart, uitstekende upscaling, vier HDMI 2.1-poorten en een sterk gedaalde prijs. Wie het beste beeld wil in een lichte kamer kiest de Samsung S95H, wie op het budget let de LG OLED B5 of de TCL 65C6KS."
     },
     {
       "q": "Is OLED beter dan QLED?",
@@ -665,7 +662,7 @@
     },
     {
       "q": "Heb ik een soundbar nodig bij een nieuwe televisie?",
-      "a": "Bij de meeste dunne televisies wel. De luidsprekers zitten achter of onder het scherm en klinken dun. De Philips OLED811 en TCL T69C klinken beter dan gemiddeld, maar een soundbar van 200 tot 400 euro verbetert elk model in deze lijst merkbaar. Sluit hem aan via de HDMI eARC-poort voor het beste resultaat."
+      "a": "Bij de meeste dunne televisies wel. De luidsprekers zitten achter of onder het scherm en klinken dun. De Philips OLED811 klinkt beter dan gemiddeld, maar een soundbar van 200 tot 400 euro verbetert elk model in deze lijst merkbaar. Sluit hem aan via de HDMI eARC-poort voor het beste resultaat."
     },
     {
       "q": "Hoe lang gaat een televisie mee?",

@@ -174,59 +174,41 @@
     },
     {
       "brand": "Levoit",
-      "name": "Vital 200S Pro",
-      "price": 258.54,
-      "score": 8.8,
+      "name": "Core 400S",
+      "price": 269.0,
+      "score": 8.7,
       "label": null,
-      "reviews": "Nieuw op bol",
-      "oneliner": "Slimme Levoit met lichtsensor, laser-stofsensor en wasbaar voorfilter.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Slimme Levoit met laser-stofsensor en ruime capaciteit voor woon- en slaapkamer.",
       "specs": {
-        "CADR": "ca. 255 m3/u",
-        "Ruimte": "tot 35 m2",
+        "CADR": "ca. 400 m3/u",
+        "Ruimte": "tot ca. 83 m2",
         "Filter": "HEPA H13 + actieve kool",
         "Geluid min": "ca. 24 dB",
         "App": "Ja, VeSync"
       },
       "pros": [
-        "Laser-stofsensor reageert snel in de automatische stand",
-        "Wasbaar voorfilter voor huisdierhaar",
-        "Lichtsensor zet 's nachts het display uit",
+        "Laser-stofsensor stuurt de automatische stand aan",
+        "CADR van ongeveer 400 m3/u",
+        "Slaapstand van ongeveer 24 dB",
         "Bediening via de VeSync-app en spraak"
       ],
       "cons": [
         "Duurder dan de Winix T800 Wifi met minder capaciteit",
-        "Nog weinig beoordelingen op bol"
+        "Voorfilter zit vast aan het filter en is niet wasbaar"
       ],
-      "ideal": "Huishoudens met huisdieren die een slimme luchtreiniger voor de slaap- of werkkamer zoeken.",
-      "text": "De Levoit Vital 200S Pro is de slimste variant uit de Vital-serie. Hij is bedoeld voor ruimtes tot ongeveer 35 m², zoals een slaapkamer, werkkamer of kleine woonkamer. Een drietraps filter met voorfilter, HEPA H13 en actieve kool vangt stof, pollen, huisdierhaar en geurtjes. Het voorfilter is wasbaar, wat scheelt als je een hond of kat hebt die veel verhaart.\n\nHet sterkste punt zit in de sensoren. Een laser-stofsensor meet de luchtkwaliteit nauwkeurig, zodat de automatische stand snel opschakelt als je stofzuigt of kookt. Een lichtsensor merkt wanneer het donker wordt en zet dan het display uit en de ventilator laag. Via de VeSync-app stel je schema's in en je kunt hem ook met Alexa of Google Assistant bedienen. In de slaapstand noemt Levoit ongeveer 24 dB. Het nadeel is de prijs van ruim 255 euro voor dit bereik. Er staan op bol nog weinig beoordelingen.",
-      "ean": "0810123670420",
-      "bol_title": "Luchtreiniger - Levoit - Vital 200S Pro - 3-traps filtratie - Dekkingsgebied tot 35 m² - 50 W - Wit",
-      "url": "https://www.bol.com/nl/nl/p/luchtreiniger-levoit-vital-200s-pro-3-traps-filtratie-dekkingsgebied-tot-35-m-50-w-wit/9300000167007158/",
-      "image": "https://media.s-bol.com/KxpoYY6E6B7J/qjVz7LG/550x642.jpg",
+      "ideal": "Huishoudens die een slimme luchtreiniger met app zoeken voor een middelgrote woonkamer of ruime slaapkamer.",
+      "text": "De Levoit Core 400S is de grotere broer van de Core 300S verderop in deze lijst. Het ronde apparaat zuigt rondom lucht aan en blaast die aan de bovenkant schoon uit. Levoit geeft een CADR van ongeveer 400 m³/u op, genoeg voor een middelgrote woonkamer of een ruime slaapkamer. Het 3-in-1 filter combineert een voorfilter, een H13 True HEPA-laag en actieve kool. Dat vangt stof, pollen, huisdierhaar en geurtjes.\n\nEen laser-stofsensor meet de luchtkwaliteit en laat de automatische stand opschakelen als je stofzuigt of kookt. Op het display zie je de gemeten waarde. In de slaapstand noemt Levoit ongeveer 24 dB en het display kan uit. Via de VeSync-app stel je schema's en timers in. Bedienen kan ook met Alexa of Google Assistant. Het nadeel is de prijs van rond de 270 euro: de Winix T800 Wifi levert meer capaciteit voor minder geld. Het voorfilter is niet wasbaar, je zuigt het af. Kopers op bol geven hem gemiddeld een 4,3.",
+      "ean": "0810043373685",
+      "bol_title": "Levoit Core 400S Slimme Luchtreiniger",
+      "url": "https://www.bol.com/nl/nl/p/levoit-core-400s-smart-hepa-luchtreiniger/9300000052331904/",
+      "image": "https://media.s-bol.com/7DoVW1zrAXpA/Wn56mr4/550x741.jpg",
       "ph": {
-        "2026-10-27": 255.71,
-        "2026-10-28": 255.71,
-        "2026-10-29": 255.71,
-        "2026-10-30": 255.71,
-        "2026-10-31": 255.71,
-        "2026-11-01": 255.71,
-        "2026-11-02": 255.71,
-        "2026-11-03": 255.71,
-        "2026-11-04": 255.71,
-        "2026-11-05": 255.71,
-        "2026-11-06": 255.71,
-        "2026-11-07": 255.71,
-        "2026-11-08": 255.71,
-        "2026-11-09": 255.71,
-        "2026-11-10": 257.13,
-        "2026-11-11": 257.13,
-        "2026-11-12": 258.54
+        "2026-11-12": 269.0
       },
-      "low_price": 255.71,
-      "synced": "2026-11-12",
-      "prev_price": 257.13,
-      "prev_date": "2026-11-11",
-      "ph_ean": "0810123670420"
+      "low_price": 269.0,
+      "ph_ean": "0810043373685",
+      "synced": "2026-11-12"
     },
     {
       "brand": "Xiaomi",
@@ -648,7 +630,7 @@
     },
     {
       "q": "Welke luchtreiniger is het beste bij allergie of pollen?",
-      "a": "Kies een apparaat met een HEPA-filter van klasse H13, dat 99,95 procent van deeltjes van 0,3 micrometer vangt. Zorg ook dat de CADR past bij de kamer. Voor een slaapkamer of werkkamer is de Levoit Vital 200S Pro met H13 een goede keuze, voor een woonkamer de Philips PureProtect 3200 of de Winix T800 Wifi. Een luchtreiniger vermindert pollen en stof in de lucht, maar vervangt geen behandeling: bespreek klachten met je huisarts."
+      "a": "Kies een apparaat met een HEPA-filter van klasse H13, dat 99,95 procent van deeltjes van 0,3 micrometer vangt. Zorg ook dat de CADR past bij de kamer. Voor een slaapkamer of werkkamer is de Levoit Core 400S met H13 een goede keuze, voor een woonkamer de Philips PureProtect 3200 of de Winix T800 Wifi. Een luchtreiniger vermindert pollen en stof in de lucht, maar vervangt geen behandeling: bespreek klachten met je huisarts."
     },
     {
       "q": "Helpt een luchtreiniger tegen huisstofmijt?",
@@ -660,7 +642,7 @@
     "keuzes": [
       {
         "h": "Hoe groot is de kamer?",
-        "p": "Reken de inhoud van je kamer uit en vermenigvuldig die met vier: dat is de CADR die je ongeveer nodig hebt. Voor een slaapkamer tot 35 m2 is nr. 4 Levoit Vital 200S Pro (€ 256, 255 m3/u) genoeg. Voor een grote woonkamer of open keuken kies je nr. 1 Philips PureProtect 3200 (€ 199, 520 m3/u), nr. 2 Winix T800 Wifi (€ 149, 500 m3/u) of nr. 5 Xiaomi 4 Pro (€ 250, 500 m3/u)."
+        "p": "Reken de inhoud van je kamer uit en vermenigvuldig die met vier: dat is de CADR die je ongeveer nodig hebt. Voor een slaapkamer of werkkamer is nr. 7 Philips PureProtect 900 (250 m3/u) genoeg. Nr. 4 Levoit Core 400S (€ 269, ca. 400 m3/u) past bij een middelgrote woonkamer. Voor een grote woonkamer of open keuken kies je nr. 1 Philips PureProtect 3200 (€ 199, 520 m3/u), nr. 2 Winix T800 Wifi (€ 149, 500 m3/u) of nr. 5 Xiaomi 4 Pro (€ 250, 500 m3/u)."
       },
       {
         "h": "Staat hij naast je bed?",
@@ -672,7 +654,7 @@
       },
       {
         "h": "Heb je huisdieren?",
-        "p": "Haar en pluis slibben het hoofdfilter snel dicht. Een wasbaar voorfilter helpt dan: nr. 4 Levoit Vital 200S Pro (€ 256) heeft dat, met een laser-stofsensor die snel reageert. Het bereik is tot 35 m2. Voor een grotere woonkamer met huisdieren kies je beter een apparaat met meer capaciteit, zoals nr. 1 Philips 3200."
+        "p": "Haar en pluis slibben het hoofdfilter snel dicht. Een voorfilter vangt het grofste vuil eerst op. Nr. 4 Levoit Core 400S (€ 269) heeft een laser-stofsensor die snel reageert op opwaaiend haar en stof. Het voorfilter zit daar vast aan het hoofdfilter, dus zuig het regelmatig af. Voor een grotere woonkamer met huisdieren kies je beter een apparaat met meer capaciteit, zoals nr. 1 Philips 3200."
       },
       {
         "h": "Wat kosten de filters?",

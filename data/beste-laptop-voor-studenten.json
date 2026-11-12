@@ -16,7 +16,7 @@
   "color": "#0f4c81",
   "updated": "2026-10-16",
   "reviews_total": "3.900",
-  "intro": "Als student gebruik je je laptop elke dag: in de collegezaal, in de bibliotheek en 's avonds voor Netflix. Hij moet dus licht zijn, een hele dag op de accu halen en niet je hele studiebudget opeten. Wij vergeleken de laptops die nu bij bol te koop zijn op accuduur, gewicht, werkgeheugen, scherm en wat studenten er na een paar maanden van vinden. Dit zijn de tien beste keuzes, van een Chromebook rond de 500 euro tot de MacBook Air.",
+  "intro": "Als student gebruik je je laptop elke dag: in de collegezaal, in de bibliotheek en 's avonds voor Netflix. Hij moet dus licht zijn, een hele dag op de accu halen en niet je hele studiebudget opeten. Wij vergeleken de laptops die nu bij bol te koop zijn op accuduur, gewicht, werkgeheugen, scherm en wat studenten er na een paar maanden van vinden. Dit zijn de tien beste keuzes, van een Chromebook rond de 450 euro tot de MacBook Air.",
   "verdict": "De Apple MacBook Air met M4 is de beste laptop voor studenten: licht, stil, snel en met een accu die makkelijk een volle collegedag haalt. Heb je minder te besteden, dan is de Lenovo IdeaPad Slim 3 met 16 GB werkgeheugen de beste prijs-kwaliteit. Wil je het beste dat er nu is, dan krijg je met de MacBook Air M5 meer opslag en extra rekenkracht voor jaren vooruit.",
   "products": [
     {
@@ -596,69 +596,42 @@
     },
     {
       "brand": "Acer",
-      "name": "Chromebook Plus 514 CB514-6HT-31LN Core 3 8 GB 128 GB",
-      "price": 449.0,
+      "name": "Chromebook Plus 516 CB516-1H-320T Core 3 8 GB 128 GB",
+      "price": 439.0,
       "score": 8.1,
       "label": null,
-      "reviews": "100+ reviews",
-      "oneliner": "Snelle Chromebook voor wie vooral in de browser en Google Workspace werkt.",
+      "reviews": "bol-score 4,8 van 5",
+      "oneliner": "Chromebook met groot scherm voor wie vooral in de browser en Google Workspace werkt.",
       "specs": {
-        "Scherm": "14 inch touch",
+        "Scherm": "16 inch",
         "Processor": "Intel Core 3",
         "Werkgeheugen": "8 GB",
-        "Opslag": "128 GB SSD",
-        "Gewicht": "ca. 1,5 kg"
+        "Opslag": "128 GB",
+        "Gewicht": "ca. 1,7 kg"
       },
       "pros": [
         "Goedkoopste laptop in deze lijst",
         "ChromeOS start in seconden en blijft snel",
-        "Touchscreen en verlicht toetsenbord",
+        "Groot 16-inch scherm en verlicht toetsenbord",
         "Automatische updates zonder gedoe"
       ],
       "cons": [
         "Geen Windows-programma's zoals de volledige Office of SPSS",
-        "Beperkte lokale opslag"
+        "Beperkte lokale opslag",
+        "Groter en zwaarder dan een 14-inch model"
       ],
       "ideal": "Studenten die vooral in de browser, Google Docs en Microsoft 365 online werken.",
-      "text": "Werk je vooral in de browser, dan is een Chromebook een goedkope en zorgeloze keuze. De Acer Chromebook Plus 514 hoort bij de Plus-lijn van Google, wat betekent dat hij minimaal een Intel Core 3-processor, 8 GB werkgeheugen en een Full HD-scherm heeft. Daardoor blijft hij snel, ook met veel tabbladen open. ChromeOS start in een paar seconden en installeert updates automatisch op de achtergrond.\n\nGoogle Docs, Microsoft 365 online, Canvas, Brightspace, Zoom en Teams werken allemaal in de browser of als app. Ook Android-apps kun je installeren. Het touchscreen en het verlichte toetsenbord zijn prettig voor deze prijs. Je moet je wel bewust zijn van de beperkingen. Volwaardige Windows-programma's zoals de desktopversie van Excel, SPSS of AutoCAD draaien er niet op. De opslag van 128 GB is bedoeld voor een cloudwerkwijze. Kopers op bol zijn positief over de snelheid en het gebruiksgemak en noemen hem ideaal voor schrijfwerk en online colleges.",
-      "ean": "4711721015629",
-      "bol_title": "Acer Chromebook Plus 514 CB514-6HT-31LN - 14 inch Touchscreen - Core 3 - 8GB - 128GB - Verlicht toetsenbord - Grijs",
-      "url": "https://www.bol.com/nl/nl/p/acer-chromebook-plus-514-cb514-6ht-31ln-14-inch-touchscreen-core-3-8gb-128gb-verlicht-toetsenbord-grijs/9300000263156569/",
-      "image": "https://media.s-bol.com/J548npMKG7n9/QnDDWYZ/550x545.jpg",
-      "synced": "2026-11-12",
+      "text": "Werk je vooral in de browser, dan is een Chromebook een goedkope en zorgeloze keuze. De Acer Chromebook Plus 516 hoort bij de Plus-lijn van Google. Dat betekent dat hij aan vaste minimumeisen voldoet voor processor, werkgeheugen en scherm. Deze uitvoering heeft een Intel Core 3-processor, 8 GB werkgeheugen en een 16-inch scherm. Daardoor blijft hij vlot, ook met veel tabbladen open. ChromeOS start in een paar seconden en installeert updates automatisch op de achtergrond.\n\nGoogle Docs, Microsoft 365 online, Canvas, Brightspace, Zoom en Teams werken allemaal in de browser of als app. Ook Android-apps kun je installeren. Het grote scherm is prettig als je twee vensters naast elkaar zet en het toetsenbord is verlicht. Een touchscreen heeft deze uitvoering niet. Je moet je wel bewust zijn van de beperkingen. Volwaardige Windows-programma's zoals de desktopversie van Excel, SPSS of AutoCAD draaien er niet op. De opslag van 128 GB is bedoeld voor een cloudwerkwijze. Met 16 inch is hij ook minder compact in je tas. Kopers op bol geven hem gemiddeld een 4,8.",
+      "ean": "4711721015643",
+      "bol_title": "Acer Chromebook Plus 516 CB516-1H-320T - 16 inch - Core 3 - 8GB - 128GB - Verlicht toetsenbord - Grijs",
+      "url": "https://www.bol.com/nl/nl/p/acer-chromebook-plus-516-cb516-1h-320t-intel-core-3-100u-16-wuxga-ips-8-gb-lpddr5-128-gb-ufs-grijs/9300000263156697/",
+      "image": "https://media.s-bol.com/NvQQxB4y1Gpv/xv68OA3/550x545.jpg",
       "ph": {
-        "2026-10-16": 509.0,
-        "2026-10-17": 509.0,
-        "2026-10-18": 488.0,
-        "2026-10-19": 509.0,
-        "2026-10-20": 509.0,
-        "2026-10-21": 499.0,
-        "2026-10-23": 499.0,
-        "2026-10-24": 499.0,
-        "2026-10-25": 499.0,
-        "2026-10-26": 499.0,
-        "2026-10-27": 499.0,
-        "2026-10-28": 499.0,
-        "2026-10-29": 499.0,
-        "2026-10-30": 499.0,
-        "2026-10-31": 479.0,
-        "2026-11-01": 499.0,
-        "2026-11-02": 499.0,
-        "2026-11-03": 499.0,
-        "2026-11-04": 499.0,
-        "2026-11-05": 499.0,
-        "2026-11-06": 499.0,
-        "2026-11-07": 499.0,
-        "2026-11-08": 499.0,
-        "2026-11-09": 449.0,
-        "2026-11-10": 449.0,
-        "2026-11-11": 449.0,
-        "2026-11-12": 449.0
+        "2026-11-12": 439.0
       },
-      "low_price": 449.0,
-      "prev_price": 499.0,
-      "prev_date": "2026-11-08",
-      "ph_ean": "4711721015629"
+      "low_price": 439.0,
+      "ph_ean": "4711721015643",
+      "synced": "2026-11-12"
     }
   ],
   "guide": [

@@ -17,7 +17,7 @@
   "updated": "2026-10-20",
   "reviews_total": "3.100",
   "intro": "Voor een tv onder 500 euro hoef je in 2026 geen genoegen meer te nemen met een klein of flets scherm. Voor dat geld krijg je een 55 inch QLED, een miniled of zelfs een 65 inch tv. Wel moet je goed kiezen, want de verschillen in helderheid, smart-tv en bouwkwaliteit zijn groot. Wij vergeleken de tv's die nu bij bol onder de 500 euro te koop zijn op beeld, formaat, HDR, apps en de ervaringen van kopers. Dit zijn de tien beste.",
-  "verdict": "De LG 55QNED84A6C is de beste tv onder 500 euro: 55 inch, rijke QNED-kleuren en het snelle webOS. De TCL 65T69C is de beste prijs-kwaliteit omdat je onder de 500 euro een 65 inch QLED met Dolby Vision en Onkyo-geluid krijgt. Wil je het beste contrast voor dit budget, kies dan de CHiQ M55QN9G met Mini LED voor rond de 430 euro.",
+  "verdict": "De LG 55QNED84A6C is de beste tv onder 500 euro: 55 inch, rijke QNED-kleuren en het snelle webOS. De TCL 55P8K is de beste prijs-kwaliteit omdat je voor rond de 450 euro een 55 inch QLED met 144 Hz, Dolby Vision en HDR10+ krijgt. Wil je het beste contrast voor dit budget, kies dan de CHiQ M55QN9G met Mini LED voor rond de 430 euro.",
   "products": [
     {
       "brand": "LG",
@@ -83,60 +83,41 @@
     },
     {
       "brand": "TCL",
-      "name": "65T69C",
-      "price": 476.13,
+      "name": "55P8K",
+      "price": 449.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,9 van 5",
-      "oneliner": "65 inch QLED in metalen look met Onkyo-geluid onder de 500 euro.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "55 inch QLED met 144 Hz, Dolby Vision en HDR10+ voor rond de 450 euro.",
       "specs": {
-        "Formaat": "65 inch",
+        "Formaat": "55 inch",
         "Paneel": "QLED",
-        "Verversing": "60 Hz, VRR",
+        "Verversing": "144 Hz, VRR",
         "HDR": "Dolby Vision, HDR10+",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "Groot 65 inch scherm onder de 500 euro",
+        "144 Hz-paneel, zeldzaam onder de 500 euro",
         "Dolby Vision en HDR10+",
-        "Onkyo 2.1-geluid met Dolby Atmos",
-        "Drie HDMI 2.1-poorten, AirPlay 2 en Chromecast"
+        "Google TV met alle Nederlandse apps",
+        "Vier HDMI-poorten, met HDMI 2.1 en VRR"
       ],
       "cons": [
-        "Geen local dimming, zwart is minder diep dan bij miniled",
-        "Helderheid van 450 nits is gemiddeld"
+        "Direct-led zonder miniled, zwart is minder diep dan bij de CHiQ",
+        "Geluid van 35 watt zonder subwoofer"
       ],
-      "ideal": "Wie zo groot mogelijk wil kijken en een tv zoekt die er ook uit staat als luxe meubelstuk.",
-      "text": "De TCL 65T69C geeft je voor minder dan 500 euro een scherm van 65 inch met een uitstraling die je in dit budget zelden ziet. De rand is bijna weg en de behuizing heeft een geborstelde metalen afwerking in titaniumkleur. Het QLED-paneel met quantum dots geeft verzadigde kleuren in 4K en zowel Dolby Vision als HDR10+ worden ondersteund. TCL noemt een helderheid van 450 nits en een contrast van 5000:1.\n\nDe ingebouwde Onkyo 2.1-luidsprekers met Dolby Atmos klinken voller dan de meeste tv's in deze lijst. Google TV geeft je alle apps, Chromecast zit erin en via AirPlay 2 stuur je beeld vanaf een iPhone. Er zijn drie HDMI 2.1-poorten met een gamemodus en VRR, al draait het paneel op 60 Hz. Local dimming ontbreekt, dus in een donkere kamer is zwart minder diep dan bij een miniled. Kopers op bol geven hem gemiddeld een 4,9 en noemen vooral het formaat en het design.",
-      "ean": "5901292528584",
-      "bol_title": "TCL 65T69C - 65 inch - 4K QLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65t69c-65-inch-4k-qled-2025/9300000237197713/",
-      "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
+      "ideal": "Wie gamet op een PS5, Xbox of pc en voor dit budget het vloeiendste beeld wil.",
+      "text": "De TCL 55P8K is een 55 inch QLED-tv uit 2025 die iets doet wat je onder de 500 euro bijna nergens vindt: het paneel ververst tot 144 keer per seconde. Samen met VRR via HDMI 2.1 geeft dat merkbaar vloeiender beeld bij games en snelle sport dan de 60 Hz-panelen van de meeste tv's in deze lijst. Quantum dots zorgen voor volle kleuren en volgens TCL dekt het scherm 93 procent van de DCI-P3-kleurruimte. Zowel Dolby Vision als HDR10+ worden ondersteund.\n\nGoogle TV geeft je alle Nederlandse apps, van NPO Start tot Videoland, met spraakbesturing via de afstandsbediening. Er zijn vier HDMI-poorten, genoeg voor een console, een soundbar en een decoder. De achtergrondverlichting is direct-led en geen miniled, dus in een donkere kamer is zwart minder diep dan bij de CHiQ M55QN9G. Het geluid van 35 watt met Dolby Atmos is prima voor series, maar een subwoofer ontbreekt. Kopers op bol geven hem gemiddeld een 5,0 uit 5.",
+      "ean": "5901292525897",
+      "bol_title": "TCL 55P8K - 55 inch - 4K QLED - 144Hz - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-55p8k-55-ultra-hd-4k-qled-smart-tv-google-tv-wifi-dolby-vision-hdr10-quantum-dot-technologie-120hz/9300000228637474/",
+      "image": "https://media.s-bol.com/wWoo0853YYyJ/p8JMKAy/550x341.jpg",
       "ph": {
-        "2026-10-26": 489.0,
-        "2026-10-27": 489.0,
-        "2026-10-28": 489.0,
-        "2026-10-29": 489.0,
-        "2026-10-30": 476.13,
-        "2026-10-31": 476.13,
-        "2026-11-01": 476.13,
-        "2026-11-02": 476.13,
-        "2026-11-03": 476.13,
-        "2026-11-04": 476.13,
-        "2026-11-05": 476.13,
-        "2026-11-06": 476.13,
-        "2026-11-07": 476.13,
-        "2026-11-08": 476.13,
-        "2026-11-09": 476.13,
-        "2026-11-10": 476.13,
-        "2026-11-11": 476.13,
-        "2026-11-12": 476.13
+        "2026-11-12": 449.0
       },
-      "low_price": 476.13,
-      "synced": "2026-11-12",
-      "prev_price": 489.0,
-      "prev_date": "2026-10-29",
-      "ph_ean": "5901292528584"
+      "low_price": 449.0,
+      "ph_ean": "5901292525897",
+      "synced": "2026-11-12"
     },
     {
       "brand": "CHiQ",
@@ -537,7 +518,7 @@
   "guide": [
     {
       "h": "Wat krijg je voor 500 euro?",
-      "p": "Onder de 500 euro kies je in 2026 tussen een 55 inch QLED of miniled en een 65 inch tv met een eenvoudiger paneel. Oled en tv's met 144 Hz zijn er in dit budget niet bij een groot formaat. Bepaal eerst wat je belangrijker vindt: zo groot mogelijk of zo mooi mogelijk beeld. Op drie meter afstand is 65 inch vaak de betere koop."
+      "p": "Onder de 500 euro kies je in 2026 tussen een 55 inch QLED of miniled en een 65 inch tv met een eenvoudiger paneel. Oled is er in dit budget niet bij en 144 Hz vind je alleen op 55 inch, bij de TCL 55P8K. Bepaal eerst wat je belangrijker vindt: zo groot mogelijk of zo mooi mogelijk beeld. Op drie meter afstand is 65 inch vaak de betere koop."
     },
     {
       "h": "QLED en miniled: waar je het verschil ziet",
@@ -563,11 +544,11 @@
   "faq": [
     {
       "q": "Wat is de beste tv onder 500 euro?",
-      "a": "De LG 55QNED84A6C is de beste tv onder 500 euro. Je krijgt 55 inch, quantum dots en het snelle webOS van LG voor rond 480 euro. Wil je juist een groot scherm met luxe afwerking, kies dan de TCL 65T69C van 65 inch."
+      "a": "De LG 55QNED84A6C is de beste tv onder 500 euro. Je krijgt 55 inch, quantum dots en het snelle webOS van LG voor rond 480 euro. Wil je juist 144 Hz voor gamen, kies dan de TCL 55P8K. Zoek je een 65 inch scherm, dan is er de Hisense 65A6S."
     },
     {
       "q": "Welke 65 inch tv is goed onder 500 euro?",
-      "a": "Een 65 inch QLED onder 500 euro is lastig te vinden. De TCL 65T69C lukt het wel: QLED, Dolby Vision en Google TV voor 489 euro. De Hisense 65A6S van 499 euro is een alternatief met Dolby Vision, maar heeft een eenvoudiger led-paneel."
+      "a": "Een 65 inch QLED onder 500 euro is lastig te vinden. In deze lijst is de Hisense 65A6S van 499 euro de 65 inch tv: een groot scherm met Dolby Vision en VIDAA, maar met een eenvoudig led-paneel zonder quantum dots. Vind je beeldkwaliteit belangrijker dan formaat, dan geeft een 55 inch QLED zoals de TCL 55P8K je rijkere kleuren."
     },
     {
       "q": "Is een goedkope tv van een onbekend merk een goed idee?",
@@ -575,11 +556,11 @@
     },
     {
       "q": "Kun je gamen op een tv onder 500 euro?",
-      "a": "Ja, maar de tv's in deze prijsklasse draaien op 60 Hz. Voor casual gamen met een gamemodus is dat prima. Wil je VRR via HDMI 2.1 voor een PS5 of Xbox, kijk dan naar de CHiQ M55QN9G of de TCL 65T69C. Voor 120 Hz moet je richting 550 euro of meer."
+      "a": "Ja. De meeste tv's in deze prijsklasse draaien op 60 Hz, wat voor casual gamen met een gamemodus prima is. De TCL 55P8K is de uitzondering met een 144 Hz-paneel, HDMI 2.1 en VRR voor een PS5, Xbox of pc. De CHiQ M55QN9G heeft ook VRR via HDMI 2.1, maar blijft op 60 Hz."
     },
     {
       "q": "Welke goedkope smart tv heeft de beste apps?",
-      "a": "Tv's met Google TV of webOS hebben de meeste apps. Onder de 500 euro zijn dat onder meer de LG 55QNED84A6C, TCL 65T69C, CHiQ M55QN9G, TCL 55P61K en Xiaomi TV A Pro 2026. Alle Nederlandse apps, zoals NPO Start, Videoland en Ziggo GO, zijn daarop beschikbaar."
+      "a": "Tv's met Google TV of webOS hebben de meeste apps. Onder de 500 euro zijn dat onder meer de LG 55QNED84A6C, TCL 55P8K, CHiQ M55QN9G, TCL 55P61K en Xiaomi TV A Pro 2026. Alle Nederlandse apps, zoals NPO Start, Videoland en Ziggo GO, zijn daarop beschikbaar."
     },
     {
       "q": "Is een tv onder 500 euro nog 4K?",
@@ -587,7 +568,7 @@
     },
     {
       "q": "Welke tv onder 500 euro heeft Dolby Vision?",
-      "a": "In deze lijst ondersteunen vier tv's Dolby Vision: de TCL 65T69C, CHiQ M55QN9G, Hisense 55E7S en Hisense 65A6S. De LG 55QNED84A6C, Samsung UE55U7090H, Samsung UE55M74H, Xiaomi TV A Pro, Philips 55PUS8001/12 en TCL 55P61K hebben het niet. Dolby Vision zie je vooral terug bij Netflix en Disney+, dus kijk je daar veel, dan is het een nuttige extra."
+      "a": "In deze lijst ondersteunen vier tv's Dolby Vision: de TCL 55P8K, CHiQ M55QN9G, Hisense 55E7S en Hisense 65A6S. De LG 55QNED84A6C, Samsung UE55U7090H, Samsung UE55M74H, Xiaomi TV A Pro, Philips 55PUS8001/12 en TCL 55P61K hebben het niet. Dolby Vision zie je vooral terug bij Netflix en Disney+, dus kijk je daar veel, dan is het een nuttige extra."
     },
     {
       "q": "Wanneer is een tv het goedkoopst?",
@@ -625,7 +606,7 @@
     "keuzes": [
       {
         "h": "Zit je verder dan ongeveer 3 meter van de tv?",
-        "p": "Dan voelt 55 inch al snel klein en is 65 inch het overwegen waard. Onder de 500 euro is nr. 2, de TCL 65T69C (€ 476), dan de sterkste keuze met Dolby Vision, HDR10+ en Onkyo-geluid. Zit je dichterbij of is je tv-meubel smal, dan past een 55 inch zoals nr. 1, de LG 55QNED84A6C (€ 444), beter."
+        "p": "Dan voelt 55 inch al snel klein en is 65 inch het overwegen waard. Onder de 500 euro is nr. 10, de Hisense 65A6S (€ 499), dan de 65 inch tv in deze lijst, met Dolby Vision en HDR10+ maar een eenvoudig led-paneel. Zit je dichterbij of is je tv-meubel smal, dan past een 55 inch zoals nr. 1, de LG 55QNED84A6C (€ 444), beter."
       },
       {
         "h": "Kijk je vooral 's avonds films in een donkere kamer?",
@@ -633,7 +614,7 @@
       },
       {
         "h": "Speel je op een PS5, Xbox of pc?",
-        "p": "De meeste tv's in dit budget draaien op 60 Hz. Wil je VRR tegen haperend beeld, kies dan nr. 3, de CHiQ M55QN9G met HDMI 2.1 en VRR, of nr. 2, de TCL 65T69C met drie HDMI 2.1-poorten. Nr. 7, de Xiaomi TV A Pro 2026 (€ 448), heeft een 120 Hz-gamestand voor wie vooral snelle games speelt."
+        "p": "De meeste tv's in dit budget draaien op 60 Hz. Nr. 2, de TCL 55P8K (€ 449), is de uitzondering met een 144 Hz-paneel, HDMI 2.1 en VRR tegen haperend beeld. Nr. 3, de CHiQ M55QN9G, heeft ook VRR via HDMI 2.1 maar blijft op 60 Hz. Nr. 7, de Xiaomi TV A Pro 2026 (€ 448), heeft een 120 Hz-gamestand."
       },
       {
         "h": "Welke apps en zenderpakketten gebruik je?",
@@ -647,7 +628,7 @@
     "wanneer": [
       {
         "rank": 2,
-        "p": "De TCL 65T69C (€ 476) past beter dan de LG op nr. 1 als je zo groot mogelijk wilt kijken. Voor ongeveer € 32 meer krijg je 65 in plaats van 55 inch, Dolby Vision en HDR10+, Onkyo 2.1-geluid met Dolby Atmos en drie HDMI 2.1-poorten met VRR. Daar staat tegenover dat hij geen local dimming heeft en met 450 nits gemiddeld fel is."
+        "p": "De TCL 55P8K (€ 449) past beter dan de LG op nr. 1 als je gamet of veel Netflix en Disney+ kijkt. Voor ongeveer dezelfde prijs krijg je een 144 Hz-paneel met VRR via HDMI 2.1 en zowel Dolby Vision als HDR10+, wat de LG allebei mist. Daar staat tegenover dat je webOS met de Magic Remote inlevert en dat ook dit paneel geen miniled heeft, dus zwart oogt in het donker wat grijzig."
       },
       {
         "rank": 3,

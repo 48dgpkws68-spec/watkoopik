@@ -16,7 +16,7 @@
   "updated": "2026-10-23",
   "reviews_total": "3.400",
   "intro": "Een ultrawide monitor vervangt twee losse schermen zonder rand in het midden. In 21:9 of zelfs 32:9 zet je vensters naast elkaar, zie je meer van je tijdlijn en kijk je in games verder om je heen. Wij vergeleken alleen echte ultrawide monitoren op paneel, resolutie, verversing, aansluitingen en wat kopers er na maanden van vinden. Dit zijn de tien beste ultrawide monitoren die je nu bij bol kunt kopen, van een 34 inch onder de 250 euro tot een 49 inch OLED.",
-  "verdict": "De Dell UltraSharp U3425WE is de beste ultrawide monitor voor wie veel werkt: scherp IPS Black-beeld, 120 Hz en een Thunderbolt 4-dock in één. De Samsung Odyssey G5 van 34 inch is de beste prijs-kwaliteit voor gamen en multitasken onder de 250 euro. Wil je het breedste scherm dat er is, dan is de Samsung Odyssey OLED G9 van 49 inch met QD-OLED de premium keuze. Gamers met een middenbudget kijken naar de MSI MAG 341CQP.",
+  "verdict": "De Dell UltraSharp U3425WE is de beste ultrawide monitor voor wie veel werkt: scherp IPS Black-beeld, 120 Hz en een Thunderbolt 4-dock in één. De Samsung Odyssey G5 van 34 inch is de beste prijs-kwaliteit voor gamen en multitasken onder de 250 euro. Wil je het breedste scherm dat er is, dan is de Samsung Odyssey OLED G9 van 49 inch met QD-OLED de premium keuze. Gamers met een middenbudget kijken naar de MSI MPG 341CQPX.",
   "products": [
     {
       "brand": "Dell",
@@ -209,61 +209,41 @@
     },
     {
       "brand": "MSI",
-      "name": "MAG 341CQP QD-OLED",
-      "price": 699.0,
+      "name": "MPG 341CQPX QD-OLED",
+      "price": 721.0,
       "score": 9.0,
       "label": null,
-      "reviews": "150+ reviews",
-      "oneliner": "QD-OLED-ultrawide van 34 inch voor gamen en films.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "QD-OLED-ultrawide van 34 inch met 240 Hz voor gamen en films.",
       "specs": {
         "Formaat": "34 inch, 21:9, gebogen",
         "Resolutie": "3440 x 1440",
         "Paneel": "QD-OLED",
-        "Verversing": "175 Hz",
+        "Verversing": "240 Hz",
         "USB-C": "Ja, met laden"
       },
       "pros": [
         "Diep zwart en hoog contrast door QD-OLED",
-        "175 Hz en 0,03 ms voor vloeiend gamen",
-        "USB-C met stroomlevering voor je laptop",
-        "Lange OLED-garantie van MSI"
+        "240 Hz en 0,03 ms voor vloeiend gamen",
+        "USB-C met stroomlevering en KVM-switch",
+        "Twee HDMI 2.1-poorten voor consoles"
       ],
       "cons": [
-        "Mat glanzende coating kan in een lichte kamer reflecteren",
-        "Tekst oogt aan de randen iets minder scherp dan op IPS"
+        "Tekst oogt aan de randen iets minder scherp dan op IPS",
+        "OLED vraagt aandacht voor inbranden bij vaste werkbalken"
       ],
-      "ideal": "Gamers die een OLED-ultrawide van 34 inch willen zonder naar de 49 inch klasse te gaan.",
-      "text": "De MSI MAG 341CQP brengt QD-OLED naar het populaire 34 inch formaat. Met 3440 x 1440 pixels en 175 Hz speel je snelle shooters en grote rollenspellen met een beeld dat geen enkel VA- of IPS-scherm evenaart: elke pixel geeft zijn eigen licht, dus zwart is echt zwart. In donkere games en films zie je details in schaduwen die op andere schermen verdwijnen.\n\nDe kromming van 1800R is mild genoeg om ook mee te werken. Via de USB-C-poort sluit je een laptop aan en laad je hem tegelijk op. MSI geeft een ruime garantie op inbranden en heeft verzorgingsfuncties die het paneel regelmatig ververst. In reviews wordt vooral de beeldkwaliteit voor de prijs genoemd. Een nadeel is dat de subpixelopbouw van QD-OLED tekst aan de randen iets minder strak maakt dan bij IPS, wat je merkt als je de hele dag spreadsheets bekijkt. Voor gamen en series is dit een van de beste ultrawides.",
-      "ean": "4711377135702",
-      "bol_title": "MSI MAG 341CQP QD-OLED - Curved UWQHD Gaming Monitor - 175hz - 34 inch - USB-C",
-      "url": "https://www.bol.com/nl/nl/p/msi-mag-341cqp-qd-oled-computer-monitor-86-4-cm-3440-x-1440-pixels-ultrawide-quad-hd-qdoled-zwart/9300000170310886/",
-      "image": "https://media.s-bol.com/65Q1gD4p1jmn/xvAM4WE/550x348.jpg",
-      "synced": "2026-11-12",
+      "ideal": "Gamers die een snelle OLED-ultrawide van 34 inch willen zonder naar de 49 inch klasse te gaan.",
+      "text": "De MSI MPG 341CQPX brengt QD-OLED naar het populaire 34 inch formaat. Met 3440 x 1440 pixels en 240 Hz speel je snelle shooters en grote rollenspellen met een beeld dat geen enkel VA- of IPS-scherm evenaart: elke pixel geeft zijn eigen licht, dus zwart is echt zwart. In donkere games en films zie je details in schaduwen die op andere schermen verdwijnen. Het scherm heeft de certificering DisplayHDR True Black 400.\n\nDe kromming van 1800R is mild genoeg om ook mee te werken. Via de USB-C-poort sluit je een laptop aan en laad je hem tegelijk op, volgens MSI met ruim 90 watt. Met de ingebouwde KVM-switch bedien je twee computers met één toetsenbord en muis. MSI geeft drie jaar garantie en heeft verzorgingsfuncties die het paneel beschermen tegen inbranden. Een nadeel is dat de subpixelopbouw van QD-OLED tekst aan de randen iets minder strak maakt dan bij IPS, wat je merkt als je de hele dag spreadsheets bekijkt. Voor gamen en series is dit een van de beste ultrawides.",
+      "ean": "4711377191302",
+      "bol_title": "MSI MPG 341CQPX QD-OLED - UWQHD Ultrawide Gaming Monitor - 34 inch - 240hz - USB-C PD 98W",
+      "url": "https://www.bol.com/nl/nl/p/mpg-341cqpx-qd-oled/9300000187509809/",
+      "image": "https://media.s-bol.com/NmxGEQYNwAzD/W6E2wD4/550x330.jpg",
       "ph": {
-        "2026-10-23": 699.0,
-        "2026-10-24": 699.0,
-        "2026-10-25": 699.0,
-        "2026-10-26": 699.0,
-        "2026-10-27": 699.0,
-        "2026-10-28": 699.0,
-        "2026-10-29": 699.0,
-        "2026-10-30": 699.0,
-        "2026-10-31": 699.0,
-        "2026-11-01": 699.0,
-        "2026-11-02": 699.0,
-        "2026-11-03": 699.0,
-        "2026-11-04": 699.0,
-        "2026-11-05": 699.0,
-        "2026-11-06": 699.0,
-        "2026-11-07": 699.0,
-        "2026-11-08": 699.0,
-        "2026-11-09": 699.0,
-        "2026-11-10": 699.0,
-        "2026-11-11": 699.0,
-        "2026-11-12": 699.0
+        "2026-11-12": 721.0
       },
-      "low_price": 699.0,
-      "ph_ean": "4711377135702"
+      "low_price": 721.0,
+      "ph_ean": "4711377191302",
+      "synced": "2026-11-12"
     },
     {
       "brand": "LG",

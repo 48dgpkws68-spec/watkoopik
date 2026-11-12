@@ -1,17 +1,4 @@
 {
  "datum": "2026-11-12",
- "overtreders": [
-  {
-   "slug": "beste-smartphone-onder-300-euro",
-   "grens": 300,
-   "plek": 4,
-   "product": "Motorola moto g86 5G 8/256GB",
-   "prijs": 304.95,
-   "ean": "0840023294891",
-   "laagste_30d": 299.0,
-   "dagen_boven": 6,
-   "dagen_gemeten": 20,
-   "reden": "boven grens"
-  }
- ]
+ "overtreders": []
 }

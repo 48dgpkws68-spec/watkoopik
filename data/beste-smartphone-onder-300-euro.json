@@ -143,64 +143,43 @@
       "ph_ean": "8806095984438"
     },
     {
-      "brand": "Motorola",
-      "name": "moto g86 5G 8/256GB",
-      "price": 304.95,
+      "brand": "Xiaomi",
+      "name": "Redmi Note 14 Pro 5G 8/256GB",
+      "price": 243.0,
       "score": 8.7,
       "label": null,
-      "reviews": "650+ reviews",
-      "oneliner": "Vlak pOLED-scherm, IP68 en Gorilla Glass 7i net onder de 300 euro.",
+      "reviews": "bol-score 3,9 van 5",
+      "oneliner": "Scherp 1.5K-amoled, 200 MP camera en IP68 voor ruim onder de 300 euro.",
       "specs": {
-        "Scherm": "6,67 inch pOLED, 120 Hz",
-        "Accu": "5.200 mAh, 30 W",
+        "Scherm": "6,67 inch amoled, 120 Hz",
+        "Accu": "5.110 mAh, 45 W",
         "Geheugen": "8 GB / 256 GB",
-        "Hoofdcamera": "50 MP OIS + 8 MP groothoek",
+        "Hoofdcamera": "200 MP OIS + 8 MP groothoek",
         "Netwerk": "5G"
       },
       "pros": [
-        "Vlak pOLED-scherm met 4.500 nits, geen gebogen randen",
-        "IP68 en IP69 waterdicht, MIL-STD-810H",
-        "Stereo-speakers met Dolby Atmos",
+        "Scherp 1.5K-amoledscherm met 120 Hz",
+        "200 MP hoofdcamera met optische stabilisatie",
+        "IP68 waterdicht en Gorilla Glass Victus 2",
         "256 GB opslag"
       ],
       "cons": [
-        "30 watt laden is trager dan bij Honor en Nothing",
-        "Twee Android-versies",
-        "Vegan-leren achterkant is niet ieders smaak"
+        "Veel vooraf geïnstalleerde apps in HyperOS",
+        "Gebogen schermranden zijn niet ieders smaak",
+        "Groothoek- en macrocamera zijn matig"
       ],
-      "ideal": "Wie een waterdicht toestel met een vlak, fel pOLED-scherm en veel opslag wil.",
-      "text": "De moto g86 combineert de vlotte Dimensity 7400-chip met een accu van 5.200 mAh en een IP68/IP69-certificering. Het 6,67 inch pOLED-scherm is vlak in plaats van gebogen. Voor veel mensen is dat juist een voordeel: geen onbedoelde aanrakingen aan de rand en een screenprotector past beter. Het scherm haalt 4.500 nits piek en ververst op 120 Hz. Gorilla Glass 7i beschermt de voorkant.\n\nDe accu gaat bij gemiddeld gebruik twee dagen mee, maar laadt met 30 watt in ruim een uur, langzamer dan bij de Honor 400. De 50 MP hoofdcamera met OIS en Sony Lytia-sensor levert scherpe foto's met natuurlijke kleuren, de 8 MP groothoek is matig. Kopers op bol geven de g86 een 4,4 en noemen het scherm, de stereo-speakers en de stevige bouw. Het grootste minpunt is het updatebeleid: twee Android-versies en vier jaar beveiligingsupdates. Wie langer wil doen met zijn toestel, kijkt naar Samsung of Nothing.",
-      "ean": "0840023294891",
-      "synced": "2026-11-12",
-      "bol_title": "Motorola moto g86 5G - 8/256GB - Pantone Spellbound (Donkergrijs)",
-      "url": "https://www.bol.com/nl/nl/p/motorola-moto-g86-5g-8-256gb-pantone-spellbound/9300000232342833/",
-      "image": "https://media.s-bol.com/x4x6580RRKLP/P1Y39v2/550x550.jpg",
+      "ideal": "Wie voor rond de 250 euro een scherp scherm, een goede hoofdcamera en veel opslag wil.",
+      "text": "De Redmi Note 14 Pro 5G biedt veel hardware voor zijn prijs. Het 6,67 inch amoledscherm heeft een 1.5K-resolutie, ververst op 120 Hz en is beschermd met Gorilla Glass Victus 2. De behuizing is IP68 waterdicht. De Dimensity 7300 Ultra is vlot genoeg voor dagelijks gebruik en lichte games, maar iets minder krachtig dan de chips in de Nothing Phone (3a) en de Honor 400.\n\nDe 200 MP hoofdcamera met OIS maakt overdag gedetailleerde foto's. De 8 MP groothoek en de 2 MP macrocamera zijn duidelijk minder. De accu van 5.110 mAh haalt bij gemiddeld gebruik ruim een dag en laadt met 45 watt in ongeveer een uur. Kopers op bol geven het toestel een 3,9. HyperOS wordt geleverd met veel extra apps die je zelf moet verwijderen. Xiaomi belooft drie Android-versies en vier jaar beveiligingsupdates.",
+      "ean": "6941812737118",
+      "bol_title": "Xiaomi Redmi Note 14 Pro - 5G - 8GB/256GB - Midnight Zwart",
+      "url": "https://www.bol.com/nl/nl/p/xiaomi-redmi-note-14-pro-5g-8gb-256gb-midnight-zwart/9300000220007798/",
+      "image": "https://media.s-bol.com/qqRg9y2ykrpR/pYlLP9r/550x628.jpg",
       "ph": {
-        "2026-10-24": 304.95,
-        "2026-10-25": 304.95,
-        "2026-10-26": 304.95,
-        "2026-10-27": 304.95,
-        "2026-10-28": 299.9,
-        "2026-10-29": 299.9,
-        "2026-10-30": 299.9,
-        "2026-10-31": 299.9,
-        "2026-11-01": 299.9,
-        "2026-11-02": 299.9,
-        "2026-11-03": 299.9,
-        "2026-11-04": 299.9,
-        "2026-11-05": 304.95,
-        "2026-11-06": 299.9,
-        "2026-11-07": 299.0,
-        "2026-11-08": 299.0,
-        "2026-11-09": 299.9,
-        "2026-11-10": 299.9,
-        "2026-11-11": 299.9,
-        "2026-11-12": 304.95
+        "2026-11-12": 243.0
       },
-      "low_price": 299.0,
-      "prev_price": 299.9,
-      "prev_date": "2026-11-11",
-      "ph_ean": "0840023294891"
+      "low_price": 243.0,
+      "ph_ean": "6941812737118",
+      "synced": "2026-11-12"
     },
     {
       "brand": "Google",
@@ -393,7 +372,7 @@
         "Geen optische beeldstabilisatie"
       ],
       "ideal": "Wie een stevig, waterdicht toestel met veel opslag zoekt en geen AMOLED-scherm nodig heeft.",
-      "text": "De moto g56 5G is de voordelige Motorola voor wie vooral een stevig toestel met veel opslag zoekt. Voor rond 239 euro krijg je 8 GB werkgeheugen, 256 GB opslag en een behuizing die IP68 en IP69 waterdicht is en aan de militaire MIL-STD-810H-norm voldoet. Gorilla Glass 7i beschermt het scherm. Dat scherm is een 6,72 inch lcd met 120 Hz: vloeiend en scherp, maar met minder diep zwart en minder felle kleuren dan de AMOLED-schermen elders in deze lijst.\n\nDe accu van 5.200 mAh gaat bij gemiddeld gebruik ongeveer twee dagen mee en laadt met 30 watt in ruim een uur. De Dimensity 7060 is geschikt voor appen, browsen en video, maar bij zware games merk je dat de moto g86 en de Honor 400 sneller zijn. De 50 MP hoofdcamera levert bruikbare foto's bij daglicht, de 8 MP groothoek is eenvoudig en optische stabilisatie ontbreekt. Kopers op bol geven de g56 een 4,3. Motorola belooft twee Android-versies en vier jaar beveiligingsupdates, minder dan Samsung.",
+      "text": "De moto g56 5G is de voordelige Motorola voor wie vooral een stevig toestel met veel opslag zoekt. Voor rond 239 euro krijg je 8 GB werkgeheugen, 256 GB opslag en een behuizing die IP68 en IP69 waterdicht is en aan de militaire MIL-STD-810H-norm voldoet. Gorilla Glass 7i beschermt het scherm. Dat scherm is een 6,72 inch lcd met 120 Hz: vloeiend en scherp, maar met minder diep zwart en minder felle kleuren dan de AMOLED-schermen elders in deze lijst.\n\nDe accu van 5.200 mAh gaat bij gemiddeld gebruik ongeveer twee dagen mee en laadt met 30 watt in ruim een uur. De Dimensity 7060 is geschikt voor appen, browsen en video, maar bij zware games merk je dat de Nothing Phone (3a) en de Honor 400 sneller zijn. De 50 MP hoofdcamera levert bruikbare foto's bij daglicht, de 8 MP groothoek is eenvoudig en optische stabilisatie ontbreekt. Kopers op bol geven de g56 een 4,3. Motorola belooft twee Android-versies en vier jaar beveiligingsupdates, minder dan Samsung.",
       "ean": "0840023292316",
       "bol_title": "motorola moto g56 5G 8/256GB - Black Oyster",
       "url": "https://www.bol.com/nl/nl/p/motorola-moto-g56-5g-8-256gb-black-oyster/9300000231748139/",
@@ -513,7 +492,7 @@
     },
     {
       "h": "Chip en werkgeheugen: hoeveel is genoeg?",
-      "p": "Voor dagelijks gebruik is elke chip in deze lijst snel genoeg. Merkbaar sneller zijn de Snapdragon 7 Gen 3 in de Honor 400, de Snapdragon 7s Gen 3 in de Nothing Phone (3a) en de Dimensity 7400 in de moto g86, die ook zwaardere games aankunnen. De Snapdragon 6 Gen 3 en Exynos 1380 in de Samsungs zijn trager maar prima voor apps en video. Werkgeheugen van 8 GB is in 2026 de norm, 6 GB werkt nog maar voelt bij veel open apps krapper. Let op opslag: 128 GB zonder microSD raakt met foto's en video's binnen twee jaar vol."
+      "p": "Voor dagelijks gebruik is elke chip in deze lijst snel genoeg. Merkbaar sneller zijn de Snapdragon 7 Gen 3 in de Honor 400, de Snapdragon 7s Gen 3 in de Nothing Phone (3a) en de Dimensity 7300 Ultra in de Redmi Note 14 Pro, die ook zwaardere games aankunnen. De Snapdragon 6 Gen 3 en Exynos 1380 in de Samsungs zijn trager maar prima voor apps en video. Werkgeheugen van 8 GB is in 2026 de norm, 6 GB werkt nog maar voelt bij veel open apps krapper. Let op opslag: 128 GB zonder microSD raakt met foto's en video's binnen twee jaar vol."
     },
     {
       "h": "Camera: megapixels zeggen weinig",

@@ -16,7 +16,7 @@
   "updated": "2026-10-14",
   "reviews_total": "19.400",
   "intro": "Een laptop koop je voor jaren, dus de keuze is belangrijk. Wij vergeleken laptops op processor, werkgeheugen, opslag, scherm, accuduur, gewicht en bouwkwaliteit. Daarnaast lazen we wat duizenden kopers na maanden gebruik melden. Het resultaat zijn tien laptops voor elk type gebruiker: een budgetmodel voor school en mail, allrounders voor thuis en werk, MacBooks voor wie in het Apple-systeem zit en gaminglaptops met een losse videokaart.",
-  "verdict": "De Apple MacBook Air 13 inch met M4-chip is de beste laptop van 2026: snel, stil zonder ventilator, licht en met een accu die een volle werkdag en meer meegaat. De ASUS Vivobook 15 is de beste prijs-kwaliteit voor wie Windows wil met een groot scherm. Zoek je de krachtigste laptop voor creatief werk, dan is de MacBook Pro 14 inch met M4 Pro de beste premium keuze.",
+  "verdict": "De Apple MacBook Air 13 inch met M4-chip is de beste laptop van 2026: snel, stil zonder ventilator, licht en met een accu die een volle werkdag en meer meegaat. De ASUS Vivobook 16 is de beste prijs-kwaliteit voor wie Windows wil met een groot scherm. Zoek je de krachtigste laptop voor creatief werk, dan is de MacBook Pro 14 inch met M4 Pro de beste premium keuze.",
   "products": [
     {
       "brand": "Apple",
@@ -66,50 +66,42 @@
     },
     {
       "brand": "ASUS",
-      "name": "Vivobook 15 M1502NAQ Ryzen 7 16 GB 512 GB",
+      "name": "Vivobook 16 M1607KA Ryzen AI 5 16 GB 512 GB",
       "price": 699.0,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 3,0 van 5",
-      "oneliner": "Ruime Windows-laptop met Ryzen 7 en 16 GB voor een scherpe prijs.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "Ruime Copilot+ laptop met 16-inch scherm en 16 GB voor een scherpe prijs.",
       "specs": {
-        "Processor": "AMD Ryzen 7 170",
-        "Geheugen": "16 GB DDR5",
+        "Processor": "AMD Ryzen AI 5",
+        "Geheugen": "16 GB",
         "Opslag": "512 GB SSD",
-        "Scherm": "15,6 inch, 1920 x 1080",
-        "Gewicht": "1,7 kg"
+        "Scherm": "16 inch, 1920 x 1200",
+        "Gewicht": "Circa 1,9 kg"
       },
       "pros": [
-        "Ryzen 7 met 8 kernen",
-        "16 GB DDR5, uit te breiden tot 24 GB",
-        "Numeriek toetsenbord en HDMI-poort",
+        "Groot 16-inch scherm in 16:10-verhouding",
+        "16 GB werkgeheugen en 512 GB SSD",
+        "Copilot+ functies van Windows 11",
         "Scherpe prijs voor deze specificaties"
       ],
       "cons": [
-        "Scherm is niet erg helder (250 nits)",
-        "Geen toetsenbordverlichting",
-        "Behuizing van kunststof"
+        "Werkgeheugen is later niet uit te breiden",
+        "Behuizing van kunststof",
+        "Minder draagbaar dan een 14-inch laptop"
       ],
-      "ideal": "Studenten en gezinnen die een snelle Windows-laptop met groot scherm willen voor weinig geld.",
-      "text": "De ASUS Vivobook 15 M1502NAQ is de nieuwste versie van deze populaire budgetlaptop in dezelfde behuizing. Binnenin zit nu een AMD Ryzen 7 170 met acht kernen, die vlot door Office, browsen met veel tabbladen, videobellen en lichte fotobewerking rekent. Met 16 GB DDR5-werkgeheugen en een SSD van 512 GB start hij snel op. Het geheugen zit in een slot, zodat je later naar 24 GB uitbreidt.\n\nHet 15,6-inch Full HD-scherm is mat en prima voor dagelijks gebruik, al is het met 250 nits niet het helderste paneel. In een zonnige ruimte merk je dat. Er is een apart numeriek deel, handig voor wie veel met cijfers werkt. Toetsenbordverlichting ontbreekt bij deze uitvoering wel. Je krijgt HDMI, twee USB-A- en twee USB-C-poorten plus Wi-Fi 6. Met 1,7 kg neem je hem goed mee naar school of kantoor. Wil je een snelle Windows-laptop zonder veel uit te geven, dan blijft dit een slimme keuze.",
-      "ean": "4711636342841",
-      "bol_title": "ASUS Vivobook 15 M1502NAQ‑BQ050W - Laptop - 15.6 inch Full HD - AMD Ryzen 7 170 - 16GB DDR5 - 512GB SSD -Wi‑Fi 6 - Windows 11 Home - Nederlands - Zilver",
-      "url": "https://www.bol.com/nl/nl/p/asus-vivobook-15-m1502naq-bq050w-15-60hz-r7-170-16gb-512gb-w11/9300000247144385/",
-      "image": "https://media.s-bol.com/w3ZR9KErJpPX/r0AJQDE/550x277.jpg",
+      "ideal": "Studenten en gezinnen die een vlotte Windows-laptop met groot scherm willen voor weinig geld.",
+      "text": "De ASUS Vivobook 16 M1607KA is een ruime Windows-laptop voor thuis, school en kantoor. Binnenin zit een AMD Ryzen AI 5-processor, die vlot door Office, browsen met veel tabbladen, videobellen en lichte fotobewerking rekent. Met 16 GB werkgeheugen en een SSD van 512 GB start hij snel op. Het is een Copilot+ laptop, dus de AI-functies van Windows 11 zoals live ondertiteling werken op het apparaat zelf.\n\nHet scherm van 16 inch heeft een resolutie van 1920 x 1200 pixels in een 16:10-verhouding. Daardoor zie je meer regels van een document of spreadsheet dan op een gewoon Full HD-scherm. Voor videobewerking of zware games is hij niet bedoeld, want een losse videokaart ontbreekt. Volgens de omschrijving op bol is de behuizing van kunststof en kun je het werkgeheugen later niet uitbreiden. Met zijn formaat is hij minder handig voor elke dag in de rugzak dan een 14-inch model. Kopers op bol geven hem gemiddeld een 4,4. Wil je een snelle Windows-laptop met groot scherm zonder veel uit te geven, dan is dit een slimme keuze.",
+      "ean": "4711387879306",
+      "bol_title": "ASUS Vivobook 16 M1607KA-MB043W - Copilot+ Laptop - Ryzen AI 5 - 16GB/512GB - 16 Inch",
+      "url": "https://www.bol.com/nl/nl/p/asus-vivobook-16-m1607ka-mb043w-amd-ryzen-ai-5-340-laptop-40-6-cm-wuxga-16-gb-ddr5-sdram-512-gb-ssd-wi-fi-6-windows-11-home-nederlands-blauw-zilver/9300000229301066/",
+      "image": "https://media.s-bol.com/8vK3P0MYmN2j/82v6D8W/550x351.jpg",
       "ph": {
-        "2026-11-05": 734.99,
-        "2026-11-06": 699.0,
-        "2026-11-07": 699.0,
-        "2026-11-08": 699.0,
-        "2026-11-09": 699.0,
-        "2026-11-10": 699.0,
-        "2026-11-11": 699.0
+        "2026-11-12": 699.0
       },
       "low_price": 699.0,
-      "synced": "2026-11-12",
-      "prev_price": 734.99,
-      "prev_date": "2026-11-05",
-      "ph_ean": "4711636342841"
+      "ph_ean": "4711387879306",
+      "synced": "2026-11-12"
     },
     {
       "brand": "Apple",
@@ -622,7 +614,7 @@
   "faq": [
     {
       "q": "Wat is de beste laptop van 2026?",
-      "a": "Op basis van onze vergelijking is de Apple MacBook Air 13 inch met M4 de beste laptop van 2026. Hij combineert snelheid, een stil ontwerp en een zeer lange accuduur. Wil je Windows voor een lage prijs, kijk dan naar de ASUS Vivobook 15."
+      "a": "Op basis van onze vergelijking is de Apple MacBook Air 13 inch met M4 de beste laptop van 2026. Hij combineert snelheid, een stil ontwerp en een zeer lange accuduur. Wil je Windows voor een lage prijs, kijk dan naar de ASUS Vivobook 16."
     },
     {
       "q": "Wat is een goede laptop voor studenten?",

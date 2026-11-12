@@ -333,60 +333,42 @@
     },
     {
       "brand": "Levoit",
-      "name": "Vital 200S Pro",
-      "price": 258.54,
+      "name": "Core 400S",
+      "price": 269.0,
       "score": 8.6,
       "label": null,
-      "reviews": "nieuw bij bol",
-      "oneliner": "Heeft een speciale huisdierstand en wasbaar voorfilter.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Slimme reiniger met H13-filter en laser-stofsensor voor een woonkamer met kat.",
       "specs": {
-        "CADR": "ca. 255 m³/u",
-        "Ruimte": "tot 35 m²",
+        "CADR": "ca. 400 m³/u",
+        "Ruimte": "tot ca. 83 m²",
         "Filter": "H13 True HEPA",
         "Geluid": "vanaf ca. 24 dB",
-        "Voorfilter": "ja, wasbaar"
+        "Voorfilter": "ja, in filter"
       },
       "pros": [
-        "Speciale Pet Mode voor dieren in huis",
-        "Wasbaar voorfilter voor haren",
-        "H13 True HEPA met koolstof",
-        "Lichtsensor dimt het display 's nachts"
+        "CADR van ongeveer 400 m³/u",
+        "H13 True HEPA met koolstoflaag",
+        "Laser-stofsensor reageert op opwaaiend stof en haar",
+        "Bediening via de VeSync-app"
       ],
       "cons": [
-        "Prijzig voor zijn capaciteit",
-        "Nog weinig reviews op bol"
+        "Voorfilter is niet wasbaar",
+        "Prijzig naast de Winix T800 Wifi"
       ],
-      "ideal": "Kattenbezitters die een slaapkamer of werkkamer willen met een stand speciaal voor dieren.",
-      "text": "De Levoit Vital 200S Pro is een van de weinige luchtreinigers met een stand die echt voor huisdieren bedoeld is. In de Pet Mode draait hij steviger en reageert hij sneller op opwaaiend stof en haar. Dat merk je als je kat net heeft gespeeld of als je de mand hebt uitgeklopt. Met een CADR van ongeveer 255 m³/u is hij gemaakt voor ruimtes tot 35 m².\n\nHet wasbare voorfilter vangt kattenhaar op voordat het de H13 True HEPA-laag bereikt. Je maakt het om de paar weken schoon met de stofzuiger of onder de kraan. Een koolstoflaag pakt geurtjes aan. Via de VeSync-app stel je schema's in en de lichtsensor dimt het display zodra het donker wordt. Op bol is hij nog nieuw met weinig beoordelingen, buitenlandse kopers zijn positief. De prijs van ruim 250 euro is wel aan de hoge kant voor deze capaciteit. Je betaalt vooral voor de huisdierstand.",
-      "ean": "0810123670420",
-      "bol_title": "Luchtreiniger - Levoit - Vital 200S Pro - 3-traps filtratie - Dekkingsgebied tot 35 m² - 50 W - Wit",
-      "search": "Levoit Vital 200S Pro",
-      "url": "https://www.bol.com/nl/nl/p/luchtreiniger-levoit-vital-200s-pro-3-traps-filtratie-dekkingsgebied-tot-35-m-50-w-wit/9300000167007158/",
-      "image": "https://media.s-bol.com/KxpoYY6E6B7J/qjVz7LG/550x642.jpg",
+      "ideal": "Kattenbezitters die een slimme reiniger met app willen voor een middelgrote woonkamer.",
+      "text": "De Levoit Core 400S is de grote broer van de Core 200S onderaan deze lijst. Met een CADR van ongeveer 400 m³/u is hij sterk genoeg voor een middelgrote woonkamer waar je kat de hele dag rondloopt. Het 3-in-1 filter bestaat uit een voorfilter, een H13 True HEPA-laag en koolstof. De HEPA-laag vangt de fijne huidschilfers met het allergeen Fel d 1, de koolstof helpt tegen de geur van de kattenbak.\n\nEen laser-stofsensor meet de lucht en laat de automatische stand opschakelen als je kat heeft gespeeld of als je de mand uitklopt. Via de VeSync-app stel je schema's in en in de slaapstand noemt Levoit ongeveer 24 dB. Let op het voorfilter: dat zit vast aan het filter en kun je niet wassen. Zuig de buitenkant elke week af, anders slibt het sneller dicht. De prijs van rond de 270 euro is aan de hoge kant, want de Winix T800 Wifi biedt meer capaciteit voor minder. Kopers op bol geven hem gemiddeld een 4,3.",
+      "ean": "0810043373685",
+      "search": "Levoit Core 400S",
+      "bol_title": "Levoit Core 400S Slimme Luchtreiniger",
+      "url": "https://www.bol.com/nl/nl/p/levoit-core-400s-smart-hepa-luchtreiniger/9300000052331904/",
+      "image": "https://media.s-bol.com/7DoVW1zrAXpA/Wn56mr4/550x741.jpg",
       "ph": {
-        "2026-10-27": 255.71,
-        "2026-10-28": 255.71,
-        "2026-10-29": 255.71,
-        "2026-10-30": 255.71,
-        "2026-10-31": 255.71,
-        "2026-11-01": 255.71,
-        "2026-11-02": 255.71,
-        "2026-11-03": 255.71,
-        "2026-11-04": 255.71,
-        "2026-11-05": 255.71,
-        "2026-11-06": 255.71,
-        "2026-11-07": 255.71,
-        "2026-11-08": 255.71,
-        "2026-11-09": 255.71,
-        "2026-11-10": 257.13,
-        "2026-11-11": 257.13,
-        "2026-11-12": 258.54
+        "2026-11-12": 269.0
       },
-      "low_price": 255.71,
-      "synced": "2026-11-12",
-      "prev_price": 257.13,
-      "prev_date": "2026-11-11",
-      "ph_ean": "0810123670420"
+      "low_price": 269.0,
+      "ph_ean": "0810043373685",
+      "synced": "2026-11-12"
     },
     {
       "brand": "Philips",
@@ -572,7 +554,7 @@
     },
     {
       "h": "Een voorfilter scheelt geld",
-      "p": "Kattenhaar slibt een HEPA-filter snel dicht als er niets voor zit. Een voorfilter vangt de haren en pluizen eerst op. Bij Coway en de Levoit Vital kun je het voorfilter wassen. Bij de Levoit Core en Xiaomi zit het vast aan het filter, dat je dan iets vaker vervangt. Zuig de buitenkant elke week even af, dan gaat elk filter langer mee."
+      "p": "Kattenhaar slibt een HEPA-filter snel dicht als er niets voor zit. Een voorfilter vangt de haren en pluizen eerst op. Bij Coway kun je het voorfilter wassen. Bij de Levoit Core en Xiaomi zit het vast aan het filter, dat je dan iets vaker vervangt. Zuig de buitenkant elke week even af, dan gaat elk filter langer mee."
     },
     {
       "h": "Stil genoeg voor de slaapkamer",

@@ -274,60 +274,41 @@
     },
     {
       "brand": "Levoit",
-      "name": "Vital 200S Pro",
-      "price": 258.54,
+      "name": "Core 400S",
+      "price": 269.0,
       "score": 8.7,
       "label": null,
-      "reviews": "Nieuw op bol",
-      "oneliner": "Slimme reiniger met lichtsensor en een echte slaapmodus voor de nacht.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Slimme reiniger met stille slaapstand en genoeg capaciteit voor een grote slaapkamer.",
       "specs": {
-        "CADR": "ca. 255 m³/u",
-        "Ruimte": "tot 35 m²",
+        "CADR": "ca. 400 m³/u",
+        "Ruimte": "tot ca. 83 m²",
         "Geluid slaapstand": "ca. 24 dB",
-        "Lampjes uit": "ja, lichtsensor",
+        "Lampjes uit": "ja, display uit",
         "Filter": "HEPA H13 + actieve kool"
       },
       "pros": [
-        "Lichtsensor schakelt vanzelf naar een donker display",
-        "Laser-stofsensor voor nauwkeurige automatische stand",
-        "Wasbaar voorfilter voor huisdierenhaar",
+        "Slaapstand van ongeveer 24 dB",
+        "Display kan helemaal uit",
+        "Laser-stofsensor voor een nauwkeurige automatische stand",
         "VeSync-app met nachtschema"
       ],
       "cons": [
-        "Duur voor een slaapkamermodel",
-        "Nog weinig reviews op bol"
+        "Duur en fors voor een slaapkamermodel",
+        "Geen lichtsensor, de slaapstand zet je zelf aan of via een schema"
       ],
-      "ideal": "Slapers met huisdieren in de slaapkamer die alles automatisch willen laten regelen.",
-      "text": "De Vital 200S Pro is de duurdere slimme variant in de Levoit-familie en is gemaakt voor kamers tot ongeveer 35 m². Het grote voordeel zit in de sensoren. Een lichtsensor merkt wanneer het donker wordt en schakelt dan het display uit en de ventilator naar een rustige stand. Je hoeft niets in te stellen. In de slaapmodus meet Levoit ongeveer 24 dB.\n\nMet een CADR van rond de 255 m³/u ververst hij een slaapkamer van 18 m² ruim vijf keer per uur. Het wasbare voorfilter vangt haar van een hond of kat die op bed slaapt, het H13-filter de fijnere deeltjes. De laser-stofsensor reageert sneller dan de simpele sensoren in goedkopere modellen, bijvoorbeeld als je het bed opmaakt. Het nadeel is de prijs van ruim 255 euro en er staan nog weinig reviews op bol. In internationale reviews scoort hij goed op stilte en app.",
-      "ean": "0810123670420",
-      "bol_title": "Luchtreiniger - Levoit - Vital 200S Pro - 3-traps filtratie - Dekkingsgebied tot 35 m² - 50 W - Wit",
-      "url": "https://www.bol.com/nl/nl/p/luchtreiniger-levoit-vital-200s-pro-3-traps-filtratie-dekkingsgebied-tot-35-m-50-w-wit/9300000167007158/",
-      "image": "https://media.s-bol.com/KxpoYY6E6B7J/qjVz7LG/550x642.jpg",
+      "ideal": "Slapers met een grote slaapkamer of zolderkamer die de reiniger via een app en schema willen regelen.",
+      "text": "De Core 400S is een van de grotere modellen van Levoit en heeft voor een slaapkamer capaciteit over. Met een CADR van rond de 400 m³/u ververst hij de lucht in een slaapkamer van 18 m² meerdere keren per uur, ook op een lage stand. Dat is het voordeel van een ruim bemeten reiniger: hij hoeft 's nachts nooit hard te draaien. In de slaapstand noemt Levoit ongeveer 24 dB.\n\nHet display zet je met een knop of via de VeSync-app uit, zodat er geen licht in de kamer brandt. Een lichtsensor heeft hij niet. Je stelt daarom in de app een nachtschema in, dan schakelt hij elke avond vanzelf naar de slaapstand. De laser-stofsensor reageert snel als je het bed opmaakt. Het filter combineert H13 True HEPA met actieve kool. Het nadeel is de prijs van rond de 270 euro en het formaat: hij is ruim een halve meter hoog. Kopers op bol geven hem gemiddeld een 4,3.",
+      "ean": "0810043373685",
+      "bol_title": "Levoit Core 400S Slimme Luchtreiniger",
+      "url": "https://www.bol.com/nl/nl/p/levoit-core-400s-smart-hepa-luchtreiniger/9300000052331904/",
+      "image": "https://media.s-bol.com/7DoVW1zrAXpA/Wn56mr4/550x741.jpg",
       "ph": {
-        "2026-10-26": 255.71,
-        "2026-10-27": 255.71,
-        "2026-10-28": 255.71,
-        "2026-10-29": 255.71,
-        "2026-10-30": 255.71,
-        "2026-10-31": 255.71,
-        "2026-11-01": 255.71,
-        "2026-11-02": 255.71,
-        "2026-11-03": 255.71,
-        "2026-11-04": 255.71,
-        "2026-11-05": 255.71,
-        "2026-11-06": 255.71,
-        "2026-11-07": 255.71,
-        "2026-11-08": 255.71,
-        "2026-11-09": 255.71,
-        "2026-11-10": 257.13,
-        "2026-11-11": 257.13,
-        "2026-11-12": 258.54
+        "2026-11-12": 269.0
       },
-      "low_price": 255.71,
-      "synced": "2026-11-12",
-      "prev_price": 257.13,
-      "prev_date": "2026-11-11",
-      "ph_ean": "0810123670420"
+      "low_price": 269.0,
+      "ph_ean": "0810043373685",
+      "synced": "2026-11-12"
     },
     {
       "brand": "Philips",
@@ -563,7 +544,7 @@
     },
     {
       "h": "Lampjes en display uit",
-      "p": "Een fel blauw of wit display kan je slaap net zo goed verstoren als geluid. Controleer of je alle lampjes kunt uitzetten, inclusief de lamp van de luchtkwaliteitsindicator. Modellen met een lichtsensor, zoals de Levoit Vital 200S Pro, dimmen vanzelf als je het licht uitdoet. De Philips 3200 zet zijn lampjes uit in de slaapstand. Bij andere modellen druk je op de slaapknop."
+      "p": "Een fel blauw of wit display kan je slaap net zo goed verstoren als geluid. Controleer of je alle lampjes kunt uitzetten, inclusief de lamp van de luchtkwaliteitsindicator. Sommige luchtreinigers hebben een lichtsensor en dimmen vanzelf als je het licht uitdoet. De Philips 3200 zet zijn lampjes uit in de slaapstand. Bij andere modellen druk je op de slaapknop."
     },
     {
       "h": "Hoeveel CADR heb je nodig voor je slaapkamer?",
@@ -605,7 +586,7 @@
     },
     {
       "q": "Kan ik de lampjes van een luchtreiniger helemaal uitzetten?",
-      "a": "Bij alle tien modellen in deze lijst kun je de lampjes in de slaapstand uitzetten of laten dimmen. De Levoit Vital 200S Pro doet dat vanzelf met een lichtsensor."
+      "a": "Bij alle tien modellen in deze lijst kun je de lampjes in de slaapstand uitzetten of laten dimmen. Bij de Levoit Core 400S zet je het display met een knop of via de app uit."
     }
   ],
   "rel": [
