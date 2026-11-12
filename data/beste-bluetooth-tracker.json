@@ -72,7 +72,8 @@
         "2026-11-10": 31.99,
         "2026-11-11": 31.99
       },
-      "low_price": 31.99
+      "low_price": 31.99,
+      "ph_ean": "0195950667363"
     },
     {
       "brand": "Samsung",
@@ -129,7 +130,8 @@
       },
       "low_price": 15.99,
       "prev_price": 17.39,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "8806095031415"
     },
     {
       "brand": "Chipolo",
@@ -186,7 +188,8 @@
       },
       "low_price": 38.99,
       "prev_price": 38.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0850070419277"
     },
     {
       "brand": "Chipolo",
@@ -243,7 +246,8 @@
       },
       "low_price": 38.99,
       "prev_price": 38.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0850070419321"
     },
     {
       "brand": "Tile",
@@ -300,7 +304,8 @@
       },
       "low_price": 16.99,
       "prev_price": 29.99,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0819039027519"
     },
     {
       "brand": "Tile",
@@ -357,7 +362,8 @@
       },
       "low_price": 21.99,
       "prev_price": 39.99,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0819039024914"
     },
     {
       "brand": "Fresh 'n Rebel",
@@ -414,7 +420,8 @@
       },
       "low_price": 11.99,
       "prev_price": 14.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8720249818281"
     },
     {
       "brand": "Chipolo",
@@ -471,7 +478,8 @@
       },
       "low_price": 24.99,
       "prev_price": 32.99,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "0850047123558"
     },
     {
       "brand": "eufy",
@@ -527,7 +535,8 @@
         "2026-11-10": 28.95,
         "2026-11-11": 28.95
       },
-      "low_price": 28.95
+      "low_price": 28.95,
+      "ph_ean": "0194644114817"
     },
     {
       "brand": "Tile",
@@ -585,7 +594,8 @@
       },
       "low_price": 30.49,
       "prev_price": 31.09,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0819039024952"
     }
   ],
   "guide": [

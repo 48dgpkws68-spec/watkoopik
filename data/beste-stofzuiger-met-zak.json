@@ -56,7 +56,8 @@
         "2026-11-11": 229.0
       },
       "low_price": 229.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4002516833802"
     },
     {
       "brand": "Philips",
@@ -119,7 +120,8 @@
       },
       "low_price": 109.99,
       "prev_price": 109.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8720389038334"
     },
     {
       "brand": "Miele",
@@ -182,7 +184,8 @@
       },
       "low_price": 409.0,
       "prev_price": 448.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4002516794578"
     },
     {
       "brand": "Sebo",
@@ -245,7 +248,8 @@
       },
       "low_price": 289.0,
       "prev_price": 289.0,
-      "prev_date": "2026-10-29"
+      "prev_date": "2026-10-29",
+      "ph_ean": "4012615993383"
     },
     {
       "brand": "Electrolux",
@@ -285,7 +289,8 @@
         "2026-11-11": 188.53
       },
       "low_price": 188.53,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "7332543693894"
     },
     {
       "brand": "AEG",
@@ -348,7 +353,8 @@
       },
       "low_price": 184.99,
       "prev_price": 241.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "7333394095943"
     },
     {
       "brand": "Numatic",
@@ -412,7 +418,8 @@
       },
       "low_price": 182.39,
       "prev_price": 191.12,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "5028965701195"
     },
     {
       "brand": "Nilfisk",
@@ -475,7 +482,8 @@
       },
       "low_price": 130.99,
       "prev_price": 152.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "5715492227884"
     },
     {
       "brand": "Siemens",
@@ -538,7 +546,8 @@
       },
       "low_price": 89.0,
       "prev_price": 99.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4242003782002"
     },
     {
       "brand": "Rowenta",
@@ -601,7 +610,8 @@
       },
       "low_price": 69.99,
       "prev_price": 79.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3221614002267"
     }
   ],
   "guide": [

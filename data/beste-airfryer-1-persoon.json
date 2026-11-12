@@ -78,7 +78,8 @@
       },
       "low_price": 89.0,
       "prev_price": 94.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "0622356230643"
     },
     {
       "brand": "Tefal",
@@ -140,7 +141,8 @@
       },
       "low_price": 59.99,
       "prev_price": 68.99,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "3045387291020"
     },
     {
       "brand": "Ninja",
@@ -202,7 +204,8 @@
       },
       "low_price": 109.95,
       "prev_price": 119.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0622356307741"
     },
     {
       "brand": "Philips",
@@ -258,7 +261,8 @@
       },
       "low_price": 69.0,
       "prev_price": 87.4,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720389034848"
     },
     {
       "brand": "Tomado",
@@ -320,7 +324,8 @@
       },
       "low_price": 42.49,
       "prev_price": 44.95,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8712876501582"
     },
     {
       "brand": "Philips",
@@ -384,7 +389,8 @@
       },
       "low_price": 108.89,
       "prev_price": 125.99,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "8720389034671"
     },
     {
       "brand": "KitchenBrothers",
@@ -446,7 +452,8 @@
       },
       "low_price": 45.99,
       "prev_price": 45.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8721055562467"
     },
     {
       "brand": "Tristar",
@@ -508,7 +515,8 @@
       },
       "low_price": 29.99,
       "prev_price": 44.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8712836988606"
     },
     {
       "brand": "Tomado",
@@ -570,7 +578,8 @@
       },
       "low_price": 32.99,
       "prev_price": 36.95,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8712876502510"
     },
     {
       "brand": "Tristar",
@@ -632,7 +641,8 @@
       },
       "low_price": 28.99,
       "prev_price": 33.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8712836990937"
     }
   ],
   "guide": [

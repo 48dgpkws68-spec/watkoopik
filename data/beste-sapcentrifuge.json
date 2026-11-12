@@ -82,7 +82,8 @@
       },
       "low_price": 419.3,
       "prev_price": 499.95,
-      "prev_date": "2026-10-29"
+      "prev_date": "2026-10-29",
+      "ph_ean": "8809686401079"
     },
     {
       "brand": "Philips",
@@ -147,7 +148,8 @@
       },
       "low_price": 148.5,
       "prev_price": 151.0,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8710103795629"
     },
     {
       "brand": "Kuvings",
@@ -213,7 +215,8 @@
       },
       "low_price": 478.0,
       "prev_price": 478.0,
-      "prev_date": "2026-10-26"
+      "prev_date": "2026-10-26",
+      "ph_ean": "8809597084255"
     },
     {
       "brand": "Kuvings",
@@ -276,7 +279,8 @@
         "2026-11-10": 549.0,
         "2026-11-11": 549.0
       },
-      "low_price": 549.0
+      "low_price": 549.0,
+      "ph_ean": "8809597080080"
     },
     {
       "brand": "Hurom",
@@ -341,7 +345,8 @@
       },
       "low_price": 244.3,
       "prev_price": 349.0,
-      "prev_date": "2026-10-29"
+      "prev_date": "2026-10-29",
+      "ph_ean": "8809686400638"
     },
     {
       "brand": "Philips",
@@ -406,7 +411,8 @@
       },
       "low_price": 232.0,
       "prev_price": 232.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8710103777380"
     },
     {
       "brand": "Bosch",
@@ -471,7 +477,8 @@
       },
       "low_price": 88.99,
       "prev_price": 99.95,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "4242002812151"
     },
     {
       "brand": "Princess",
@@ -536,7 +543,8 @@
       },
       "low_price": 82.99,
       "prev_price": 89.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8713016038241"
     },
     {
       "brand": "Braun",
@@ -601,7 +609,8 @@
       },
       "low_price": 69.0,
       "prev_price": 75.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8021098773036"
     },
     {
       "brand": "Philips",
@@ -664,7 +673,8 @@
         "2026-11-10": 67.99,
         "2026-11-11": 67.99
       },
-      "low_price": 67.99
+      "low_price": 67.99,
+      "ph_ean": "8710103642756"
     }
   ],
   "guide": [

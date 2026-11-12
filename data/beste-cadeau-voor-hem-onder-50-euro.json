@@ -73,7 +73,8 @@
       },
       "low_price": 45.75,
       "synced": "2026-11-11",
-      "reviews": "reviews op bol"
+      "reviews": "reviews op bol",
+      "ph_ean": "1200130034282"
     },
     {
       "brand": "Philips",
@@ -118,7 +119,8 @@
       "low_price": 33.49,
       "synced": "2026-11-11",
       "prev_price": 36.94,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720689029094"
     },
     {
       "brand": "Braun",
@@ -174,7 +176,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 51.99,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "4210201163305"
     },
     {
       "brand": "Anker",
@@ -230,7 +233,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 27.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0194644038403"
     },
     {
       "brand": "LEGO",
@@ -286,7 +290,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 47.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "5702017816319"
     },
     {
       "brand": "Victorinox",
@@ -336,7 +341,8 @@
         "2026-11-11": 36.08
       },
       "low_price": 36.08,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "7611160100283"
     },
     {
       "brand": "Bialetti",
@@ -392,7 +398,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 28.95,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "8006363011631"
     },
     {
       "brand": "Apple",
@@ -446,7 +453,8 @@
       },
       "low_price": 31.99,
       "synced": "2026-11-11",
-      "reviews": "reviews op bol"
+      "reviews": "reviews op bol",
+      "ph_ean": "0195950667363"
     },
     {
       "brand": "JBL",
@@ -502,7 +510,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 47.95,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "1200130029981"
     },
     {
       "brand": "Weber",
@@ -558,7 +567,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 24.49,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "0077924048395"
     }
   ],
   "guide": [

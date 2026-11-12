@@ -76,7 +76,8 @@
       },
       "low_price": 750.0,
       "prev_price": 750.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8719992840205"
     },
     {
       "brand": "Ayla Matrassen",
@@ -135,7 +136,8 @@
       },
       "low_price": 549.0,
       "prev_price": 599.0,
-      "prev_date": "2026-10-30"
+      "prev_date": "2026-10-30",
+      "ph_ean": "8721352386209"
     },
     {
       "brand": "Anno 1588",
@@ -194,7 +196,8 @@
       },
       "low_price": 1600.0,
       "prev_price": 1600.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8720039729131"
     },
     {
       "brand": "Meuba Home",
@@ -252,7 +255,8 @@
       },
       "low_price": 655.5,
       "prev_price": 690.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "5407010605167"
     },
     {
       "brand": "Nessa",
@@ -308,7 +312,8 @@
         "2026-11-10": 499.0,
         "2026-11-11": 499.0
       },
-      "low_price": 499.0
+      "low_price": 499.0,
+      "ph_ean": "8438478213035"
     },
     {
       "brand": "Anno 1588",
@@ -365,7 +370,8 @@
         "2026-11-10": 725.0,
         "2026-11-11": 725.0
       },
-      "low_price": 725.0
+      "low_price": 725.0,
+      "ph_ean": "8719128297835"
     },
     {
       "brand": "Meuba Home",
@@ -423,7 +429,8 @@
       },
       "low_price": 608.0,
       "prev_price": 640.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "5407010605068"
     },
     {
       "brand": "BSS Bedding",
@@ -481,7 +488,8 @@
       },
       "low_price": 1219.0,
       "prev_price": 1350.0,
-      "prev_date": "2026-11-03"
+      "prev_date": "2026-11-03",
+      "ph_ean": "6152925174169"
     },
     {
       "brand": "Golden Matrassen Zeeland",
@@ -539,7 +547,8 @@
       },
       "low_price": 539.0,
       "prev_price": 539.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8721352381945"
     },
     {
       "brand": "Nessa",
@@ -595,7 +604,8 @@
         "2026-11-10": 499.0,
         "2026-11-11": 499.0
       },
-      "low_price": 499.0
+      "low_price": 499.0,
+      "ph_ean": "8721321758952"
     }
   ],
   "guide": [

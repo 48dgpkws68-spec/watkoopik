@@ -77,7 +77,8 @@
       },
       "low_price": 699.0,
       "prev_price": 719.0,
-      "prev_date": "2026-10-30"
+      "prev_date": "2026-10-30",
+      "ph_ean": "8806097114291"
     },
     {
       "brand": "Hisense",
@@ -137,7 +138,8 @@
       },
       "low_price": 449.0,
       "prev_price": 456.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "6942351432410"
     },
     {
       "brand": "Samsung",
@@ -197,7 +199,8 @@
       },
       "low_price": 699.0,
       "prev_price": 799.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806099242787"
     },
     {
       "brand": "Philips",
@@ -237,7 +240,8 @@
       "low_price": 475.0,
       "synced": "2026-11-11",
       "prev_price": 475.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8718863052747"
     },
     {
       "brand": "LG",
@@ -297,7 +301,8 @@
       },
       "low_price": 349.0,
       "prev_price": 379.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8806096419038"
     },
     {
       "brand": "Sony",
@@ -357,7 +362,8 @@
       },
       "low_price": 649.0,
       "prev_price": 689.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "4548736177741"
     },
     {
       "brand": "LG",
@@ -402,7 +408,8 @@
         "2026-11-11": 399.0
       },
       "low_price": 399.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8806091952202"
     },
     {
       "brand": "Xiaomi",
@@ -462,7 +469,8 @@
       },
       "low_price": 289.0,
       "prev_price": 299.0,
-      "prev_date": "2026-10-30"
+      "prev_date": "2026-10-30",
+      "ph_ean": "6941948705630"
     },
     {
       "brand": "Samsung",
@@ -509,7 +517,8 @@
       "low_price": 399.0,
       "synced": "2026-11-11",
       "prev_price": 429.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8806099134440"
     },
     {
       "brand": "TCL",
@@ -568,7 +577,8 @@
       },
       "low_price": 239.0,
       "prev_price": 241.39,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "5901292527075"
     }
   ],
   "guide": [

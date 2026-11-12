@@ -81,7 +81,8 @@
       },
       "low_price": 1116.67,
       "prev_price": 1266.99,
-      "prev_date": "2026-10-26"
+      "prev_date": "2026-10-26",
+      "ph_ean": "0195949837210"
     },
     {
       "brand": "Lenovo",
@@ -145,7 +146,8 @@
       },
       "low_price": 599.0,
       "prev_price": 679.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "0199275372988"
     },
     {
       "brand": "Apple",
@@ -209,7 +211,8 @@
       },
       "low_price": 1349.0,
       "prev_price": 1377.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0195950690224"
     },
     {
       "brand": "ASUS",
@@ -273,7 +276,8 @@
       },
       "low_price": 949.0,
       "prev_price": 1099.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4711636590495"
     },
     {
       "brand": "HP",
@@ -337,7 +341,8 @@
       },
       "low_price": 799.0,
       "prev_price": 989.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0826581670346"
     },
     {
       "brand": "Lenovo",
@@ -398,7 +403,8 @@
         "2026-11-10": 899.0,
         "2026-11-11": 899.0
       },
-      "low_price": 899.0
+      "low_price": 899.0,
+      "ph_ean": "0199271275306"
     },
     {
       "brand": "ASUS",
@@ -453,7 +459,8 @@
       "bol_title": "ASUS Vivobook 15 X1504VA-BQ2961W Intel® Core™ i5 i5-1334U Laptop 39,6 cm (15.6\") Full HD 16 GB DDR4-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Home Blauw QWERTY Nederlands",
       "url": "https://www.bol.com/nl/nl/p/asus-vivobook-15-x1504va-bq2961w-intel-core-i5-i5-1334u-laptop-39-6-cm-full-hd-16-gb-ddr4-sdram-512-gb-ssd-wi-fi-6-windows-11-home-nederlands-blauw/9300000229858580/",
       "image": "https://media.s-bol.com/xEL2GQG6qx4B/9rwQELZ/550x324.jpg",
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4711636040044"
     },
     {
       "brand": "Acer",
@@ -510,7 +517,8 @@
       },
       "low_price": 799.0,
       "prev_price": 829.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "4711721099780"
     },
     {
       "brand": "HP",
@@ -574,7 +582,8 @@
       },
       "low_price": 974.0,
       "prev_price": 1049.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0199485111728"
     },
     {
       "brand": "Acer",
@@ -638,7 +647,8 @@
       },
       "low_price": 449.0,
       "prev_price": 499.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4711721015629"
     }
   ],
   "guide": [

@@ -86,7 +86,8 @@
       },
       "low_price": 1366.63,
       "prev_price": 1366.63,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806096363430"
     },
     {
       "brand": "LG",
@@ -154,7 +155,8 @@
       },
       "low_price": 799.0,
       "prev_price": 826.5,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "8806096360576"
     },
     {
       "brand": "Samsung",
@@ -220,7 +222,8 @@
       },
       "low_price": 1999.0,
       "prev_price": 2099.0,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8806099136116"
     },
     {
       "brand": "Samsung",
@@ -286,7 +289,8 @@
       },
       "low_price": 1049.0,
       "prev_price": 1099.0,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8806099129613"
     },
     {
       "brand": "Sony",
@@ -354,7 +358,8 @@
       },
       "low_price": 1999.0,
       "prev_price": 2299.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4548736178335"
     },
     {
       "brand": "Philips",
@@ -403,7 +408,8 @@
       "low_price": 1399.0,
       "synced": "2026-11-11",
       "prev_price": 1495.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8718863052044"
     },
     {
       "brand": "LG",
@@ -444,7 +450,8 @@
         "2026-11-11": 649.0
       },
       "low_price": 649.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8806096422007"
     },
     {
       "brand": "TCL",
@@ -483,7 +490,8 @@
         "2026-11-11": 476.13
       },
       "low_price": 476.13,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "5901292528584"
     },
     {
       "brand": "Samsung",
@@ -549,7 +557,8 @@
       },
       "low_price": 479.0,
       "prev_price": 544.39,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8806099134334"
     },
     {
       "brand": "Hisense",
@@ -597,7 +606,8 @@
       "low_price": 499.0,
       "synced": "2026-11-11",
       "prev_price": 529.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "6942351432779"
     }
   ],
   "guide": [

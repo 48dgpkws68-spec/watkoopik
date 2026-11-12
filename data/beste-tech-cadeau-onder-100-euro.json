@@ -73,7 +73,8 @@
       },
       "low_price": 45.75,
       "synced": "2026-11-11",
-      "reviews": "reviews op bol"
+      "reviews": "reviews op bol",
+      "ph_ean": "1200130034282"
     },
     {
       "brand": "Anker",
@@ -129,7 +130,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 41.4,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "0194644043711"
     },
     {
       "brand": "Apple",
@@ -183,7 +185,8 @@
       },
       "low_price": 31.99,
       "synced": "2026-11-11",
-      "reviews": "reviews op bol"
+      "reviews": "reviews op bol",
+      "ph_ean": "0195950667363"
     },
     {
       "brand": "Philips Hue",
@@ -239,7 +242,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 75.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8718696170717"
     },
     {
       "brand": "Ring",
@@ -295,7 +299,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 77.99,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0840414681798"
     },
     {
       "brand": "Fitbit",
@@ -351,7 +356,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 78.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0810073610064"
     },
     {
       "brand": "JBL",
@@ -407,7 +413,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 50.91,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "1200130029967"
     },
     {
       "brand": "Nintendo",
@@ -463,7 +470,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 78.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "0045496321475"
     },
     {
       "brand": "Polaroid",
@@ -519,7 +527,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 85.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "9120134285850"
     },
     {
       "brand": "JBL",
@@ -573,7 +582,8 @@
       },
       "low_price": 58.99,
       "synced": "2026-11-11",
-      "reviews": "reviews op bol"
+      "reviews": "reviews op bol",
+      "ph_ean": "1200130015380"
     }
   ],
   "guide": [

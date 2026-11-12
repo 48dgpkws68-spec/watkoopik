@@ -78,7 +78,8 @@
         "2026-11-10": 679.0,
         "2026-11-11": 679.0
       },
-      "low_price": 679.0
+      "low_price": 679.0,
+      "ph_ean": "6976233676111"
     },
     {
       "brand": "Dreame",
@@ -144,7 +145,8 @@
       },
       "low_price": 599.0,
       "prev_price": 762.95,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "6977328065568"
     },
     {
       "brand": "Roborock",
@@ -208,7 +210,8 @@
       },
       "low_price": 549.0,
       "prev_price": 719.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "6936905904522"
     },
     {
       "brand": "Ecovacs",
@@ -261,7 +264,8 @@
         "2026-11-11": 579.99
       },
       "low_price": 579.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "6970135039548"
     },
     {
       "brand": "eufy",
@@ -324,7 +328,8 @@
       },
       "low_price": 517.09,
       "prev_price": 836.55,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0194644229078"
     },
     {
       "brand": "Roborock",
@@ -387,7 +392,8 @@
       },
       "low_price": 299.99,
       "prev_price": 449.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "6936905901675"
     },
     {
       "brand": "Dreame",
@@ -450,7 +456,8 @@
       },
       "low_price": 454.95,
       "prev_price": 473.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "6977328066374"
     },
     {
       "brand": "Dreame",
@@ -512,7 +519,8 @@
       },
       "low_price": 299.0,
       "prev_price": 399.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "6976233677033"
     },
     {
       "brand": "Shark",
@@ -575,7 +583,8 @@
       },
       "low_price": 260.0,
       "prev_price": 260.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0622356298322"
     },
     {
       "brand": "Roborock",
@@ -637,7 +646,8 @@
       },
       "low_price": 189.99,
       "prev_price": 349.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "6936905902337"
     }
   ],
   "guide": [

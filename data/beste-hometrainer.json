@@ -80,7 +80,8 @@
         "2026-11-10": 649.0,
         "2026-11-11": 649.0
       },
-      "low_price": 649.0
+      "low_price": 649.0,
+      "ph_ean": "8718591682162"
     },
     {
       "brand": "VirtuFit",
@@ -144,7 +145,8 @@
       },
       "low_price": 474.0,
       "prev_price": 499.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8719128725161"
     },
     {
       "brand": "Flow Fitness",
@@ -207,7 +209,8 @@
         "2026-11-10": 949.0,
         "2026-11-11": 949.0
       },
-      "low_price": 949.0
+      "low_price": 949.0,
+      "ph_ean": "8718591681943"
     },
     {
       "brand": "Tunturi",
@@ -271,7 +274,8 @@
       },
       "low_price": 329.0,
       "prev_price": 347.35,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8717842029855"
     },
     {
       "brand": "Tunturi",
@@ -335,7 +339,8 @@
       },
       "low_price": 149.99,
       "prev_price": 157.0,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "8717842025697"
     },
     {
       "brand": "VirtuFit",
@@ -399,7 +404,8 @@
       },
       "low_price": 379.0,
       "prev_price": 399.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8719497597314"
     },
     {
       "brand": "Tunturi",
@@ -463,7 +469,8 @@
       },
       "low_price": 429.95,
       "prev_price": 436.05,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8717842036679"
     },
     {
       "brand": "FITAGE",
@@ -525,7 +532,8 @@
         "2026-11-10": 274.99,
         "2026-11-11": 274.99
       },
-      "low_price": 274.99
+      "low_price": 274.99,
+      "ph_ean": "8719992433957"
     },
     {
       "brand": "Fithlon",
@@ -589,7 +597,8 @@
       },
       "low_price": 269.0,
       "prev_price": 269.0,
-      "prev_date": "2026-10-21"
+      "prev_date": "2026-10-21",
+      "ph_ean": "8720726388399"
     },
     {
       "brand": "VirtuFit",
@@ -653,7 +662,8 @@
       },
       "low_price": 141.0,
       "prev_price": 149.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8719743573161"
     }
   ],
   "guide": [

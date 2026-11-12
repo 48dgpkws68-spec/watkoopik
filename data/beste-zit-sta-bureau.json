@@ -82,7 +82,8 @@
       },
       "low_price": 239.0,
       "prev_price": 239.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8720938232145"
     },
     {
       "brand": "Stane",
@@ -147,7 +148,8 @@
       },
       "low_price": 119.0,
       "prev_price": 119.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8720938925375"
     },
     {
       "brand": "Desktronic",
@@ -212,7 +214,8 @@
       },
       "low_price": 490.0,
       "prev_price": 540.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "5060826165777"
     },
     {
       "brand": "Lineaflex",
@@ -274,7 +277,8 @@
         "2026-11-10": 429.0,
         "2026-11-11": 429.0
       },
-      "low_price": 429.0
+      "low_price": 429.0,
+      "ph_ean": "8720964032214"
     },
     {
       "brand": "Stane",
@@ -338,7 +342,8 @@
       },
       "low_price": 172.0,
       "prev_price": 172.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8720938925054"
     },
     {
       "brand": "SENSE7",
@@ -384,7 +389,8 @@
         "2026-11-11": 128.99
       },
       "low_price": 128.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "5908011702997"
     },
     {
       "brand": "SONGMICS",
@@ -448,7 +454,8 @@
       },
       "low_price": 108.99,
       "prev_price": 117.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0194343613024"
     },
     {
       "brand": "Infinity Goods",
@@ -512,7 +519,8 @@
       },
       "low_price": 124.95,
       "prev_price": 124.95,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8721022430232"
     },
     {
       "brand": "Organess",
@@ -576,7 +584,8 @@
       },
       "low_price": 89.95,
       "prev_price": 89.95,
-      "prev_date": "2026-10-27"
+      "prev_date": "2026-10-27",
+      "ph_ean": "8721325623478"
     },
     {
       "brand": "VASAGLE",
@@ -632,7 +641,8 @@
       },
       "low_price": 69.99,
       "prev_price": 79.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0194343666235"
     }
   ],
   "guide": [

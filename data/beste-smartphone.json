@@ -81,7 +81,8 @@
       },
       "low_price": 975.0,
       "prev_price": 1085.9,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8806097826897"
     },
     {
       "brand": "Apple",
@@ -145,7 +146,8 @@
       },
       "low_price": 999.0,
       "prev_price": 1189.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0195950627640"
     },
     {
       "brand": "Apple",
@@ -209,7 +211,8 @@
       },
       "low_price": 1188.99,
       "prev_price": 1259.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0195950639292"
     },
     {
       "brand": "Google",
@@ -274,7 +277,8 @@
       },
       "low_price": 563.0,
       "prev_price": 627.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0840353926035"
     },
     {
       "brand": "Apple",
@@ -338,7 +342,8 @@
       },
       "low_price": 885.99,
       "prev_price": 940.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0195950643589"
     },
     {
       "brand": "Samsung",
@@ -402,7 +407,8 @@
       },
       "low_price": 679.0,
       "prev_price": 699.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806097827634"
     },
     {
       "brand": "OnePlus",
@@ -466,7 +472,8 @@
       },
       "low_price": 811.0,
       "prev_price": 1536.17,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "6921815630265"
     },
     {
       "brand": "Xiaomi",
@@ -530,7 +537,8 @@
       },
       "low_price": 665.43,
       "prev_price": 754.95,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "6932554405373"
     },
     {
       "brand": "Google",
@@ -588,7 +596,8 @@
       },
       "low_price": 419.0,
       "prev_price": 459.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0840353949737"
     },
     {
       "brand": "Samsung",
@@ -652,7 +661,8 @@
       },
       "low_price": 389.0,
       "prev_price": 419.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806099025885"
     }
   ],
   "guide": [

@@ -70,7 +70,8 @@
       "low_price": 296.96,
       "synced": "2026-11-11",
       "prev_price": 299.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "7090019823922"
     },
     {
       "brand": "Eurom",
@@ -121,7 +122,8 @@
       "low_price": 128.29,
       "synced": "2026-11-11",
       "prev_price": 150.59,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8713415360776"
     },
     {
       "brand": "Dimplex",
@@ -173,7 +175,8 @@
       "low_price": 354.0,
       "synced": "2026-11-11",
       "prev_price": 364.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8716412235818"
     },
     {
       "brand": "Aigostar",
@@ -222,7 +225,8 @@
         "2026-11-11": 139.99
       },
       "low_price": 139.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8433325504267"
     },
     {
       "brand": "Dimplex",
@@ -273,7 +277,8 @@
       "low_price": 184.0,
       "synced": "2026-11-11",
       "prev_price": 189.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "5011139061454"
     },
     {
       "brand": "VONROC",
@@ -324,7 +329,8 @@
       "low_price": 119.95,
       "synced": "2026-11-11",
       "prev_price": 119.95,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8717479114306"
     },
     {
       "brand": "Pro Breeze",
@@ -373,7 +379,8 @@
         "2026-11-11": 144.99
       },
       "low_price": 144.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "5060596026308"
     },
     {
       "brand": "Eurom",
@@ -424,7 +431,8 @@
       "low_price": 71.61,
       "synced": "2026-11-11",
       "prev_price": 79.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8713415360479"
     },
     {
       "brand": "Aigostar",
@@ -475,7 +483,8 @@
       "low_price": 69.99,
       "synced": "2026-11-11",
       "prev_price": 89.99,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8433325385484"
     },
     {
       "brand": "Princess",
@@ -526,7 +535,8 @@
       "low_price": 61.99,
       "synced": "2026-11-11",
       "prev_price": 64.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8711658531762"
     }
   ],
   "guide": [

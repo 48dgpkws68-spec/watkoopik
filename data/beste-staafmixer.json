@@ -83,7 +83,8 @@
       },
       "low_price": 121.41,
       "prev_price": 122.96,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8021098775177"
     },
     {
       "brand": "Braun",
@@ -140,7 +141,8 @@
       "low_price": 63.99,
       "synced": "2026-11-11",
       "prev_price": 67.0,
-      "prev_date": "2026-10-25"
+      "prev_date": "2026-10-25",
+      "ph_ean": "8021098003980"
     },
     {
       "brand": "Bamix",
@@ -206,7 +208,8 @@
         "2026-11-10": 299.0,
         "2026-11-11": 299.0
       },
-      "low_price": 299.0
+      "low_price": 299.0,
+      "ph_ean": "7610497909187"
     },
     {
       "brand": "Bosch",
@@ -272,7 +275,8 @@
       },
       "low_price": 73.0,
       "prev_price": 73.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4242005346462"
     },
     {
       "brand": "Philips",
@@ -338,7 +342,8 @@
       },
       "low_price": 82.39,
       "prev_price": 82.39,
-      "prev_date": "2026-10-18"
+      "prev_date": "2026-10-18",
+      "ph_ean": "8710103898757"
     },
     {
       "brand": "KitchenAid",
@@ -396,7 +401,8 @@
       "low_price": 99.99,
       "synced": "2026-11-11",
       "prev_price": 119.8,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "5413184907433"
     },
     {
       "brand": "Bosch",
@@ -462,7 +468,8 @@
       },
       "low_price": 44.99,
       "prev_price": 54.7,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4242005171699"
     },
     {
       "brand": "Smeg",
@@ -507,7 +514,8 @@
         "2026-11-11": 114.0
       },
       "low_price": 114.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8017709343811"
     },
     {
       "brand": "Russell Hobbs",
@@ -573,7 +581,8 @@
       },
       "low_price": 33.99,
       "prev_price": 37.1,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5038061162929"
     },
     {
       "brand": "Braun",
@@ -637,7 +646,8 @@
         "2026-11-10": 59.0,
         "2026-11-11": 59.0
       },
-      "low_price": 59.0
+      "low_price": 59.0,
+      "ph_ean": "8021098770745"
     }
   ],
   "guide": [

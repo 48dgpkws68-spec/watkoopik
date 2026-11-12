@@ -66,7 +66,8 @@
         "2026-11-11": 309.0
       },
       "low_price": 309.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0810036058766"
     },
     {
       "brand": "Therabody",
@@ -131,7 +132,8 @@
       },
       "low_price": 521.54,
       "prev_price": 569.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0840295401898"
     },
     {
       "brand": "Hyperice",
@@ -186,7 +188,8 @@
         "2026-11-10": 349.0,
         "2026-11-11": 349.0
       },
-      "low_price": 349.0
+      "low_price": 349.0,
+      "ph_ean": "0810050280488"
     },
     {
       "brand": "Therabody",
@@ -250,7 +253,8 @@
       },
       "low_price": 179.0,
       "prev_price": 189.0,
-      "prev_date": "2026-10-28"
+      "prev_date": "2026-10-28",
+      "ph_ean": "0840295405414"
     },
     {
       "brand": "Hyperice",
@@ -288,7 +292,8 @@
         "2026-11-11": 245.0
       },
       "low_price": 245.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0810050288446"
     },
     {
       "brand": "Therabody",
@@ -352,7 +357,8 @@
       },
       "low_price": 99.0,
       "prev_price": 149.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "0840295402314"
     },
     {
       "brand": "RENPHO",
@@ -414,7 +420,8 @@
         "2026-11-10": 99.95,
         "2026-11-11": 99.95
       },
-      "low_price": 99.95
+      "low_price": 99.95,
+      "ph_ean": "4897122206139"
     },
     {
       "brand": "Northwall",
@@ -478,7 +485,8 @@
       },
       "low_price": 79.99,
       "prev_price": 89.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "5430001973792"
     },
     {
       "brand": "Maicura",
@@ -542,7 +550,8 @@
       },
       "low_price": 54.99,
       "prev_price": 59.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8720892514202"
     },
     {
       "brand": "MusclePro",
@@ -595,7 +604,8 @@
       "low_price": 32.33,
       "synced": "2026-11-11",
       "prev_price": 37.95,
-      "prev_date": "2026-10-31"
+      "prev_date": "2026-10-31",
+      "ph_ean": "8720892099600"
     }
   ],
   "guide": [

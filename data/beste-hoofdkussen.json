@@ -83,7 +83,8 @@
       },
       "low_price": 63.08,
       "prev_price": 68.99,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "4260568040016"
     },
     {
       "brand": "CozySense",
@@ -149,7 +150,8 @@
       },
       "low_price": 26.99,
       "prev_price": 29.99,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8721325352927"
     },
     {
       "brand": "Tempur",
@@ -215,7 +217,8 @@
       },
       "low_price": 102.17,
       "prev_price": 109.85,
-      "prev_date": "2026-10-30"
+      "prev_date": "2026-10-30",
+      "ph_ean": "5705940618104"
     },
     {
       "brand": "Cloudpillo",
@@ -279,7 +282,8 @@
         "2026-11-10": 89.0,
         "2026-11-11": 89.0
       },
-      "low_price": 89.0
+      "low_price": 89.0,
+      "ph_ean": "8720299281707"
     },
     {
       "brand": "M line",
@@ -347,7 +351,8 @@
       },
       "low_price": 134.99,
       "prev_price": 134.99,
-      "prev_date": "2026-11-03"
+      "prev_date": "2026-11-03",
+      "ph_ean": "8720106335982"
     },
     {
       "brand": "Auping",
@@ -413,7 +418,8 @@
       },
       "low_price": 119.2,
       "prev_price": 149.0,
-      "prev_date": "2026-11-03"
+      "prev_date": "2026-11-03",
+      "ph_ean": "8720289810382"
     },
     {
       "brand": "Yumeko",
@@ -479,7 +485,8 @@
         "2026-11-10": 149.95,
         "2026-11-11": 149.95
       },
-      "low_price": 149.95
+      "low_price": 149.95,
+      "ph_ean": "8719274627326"
     },
     {
       "brand": "Home & Comfort",
@@ -543,7 +550,8 @@
         "2026-11-10": 38.99,
         "2026-11-11": 38.99
       },
-      "low_price": 38.99
+      "low_price": 38.99,
+      "ph_ean": "5404017910539"
     },
     {
       "brand": "Slaapspeciaal",
@@ -609,7 +617,8 @@
       },
       "low_price": 34.99,
       "prev_price": 34.99,
-      "prev_date": "2026-11-03"
+      "prev_date": "2026-11-03",
+      "ph_ean": "8720986803052"
     },
     {
       "brand": "Cinderella",
@@ -677,7 +686,8 @@
       },
       "low_price": 39.99,
       "prev_price": 41.6,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8719638067942"
     }
   ],
   "guide": [

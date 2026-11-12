@@ -84,7 +84,8 @@
       },
       "low_price": 65.0,
       "prev_price": 67.88,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4242005188307"
     },
     {
       "brand": "Philips",
@@ -152,7 +153,8 @@
       },
       "low_price": 46.0,
       "prev_price": 49.0,
-      "prev_date": "2026-10-25"
+      "prev_date": "2026-10-25",
+      "ph_ean": "8720389000850"
     },
     {
       "brand": "Smeg",
@@ -218,7 +220,8 @@
       },
       "low_price": 124.54,
       "prev_price": 129.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8017709227852"
     },
     {
       "brand": "Bosch",
@@ -265,7 +268,8 @@
         "2026-11-11": 70.04
       },
       "low_price": 70.04,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4242002824628"
     },
     {
       "brand": "Russell Hobbs",
@@ -305,7 +309,8 @@
         "2026-11-11": 42.49
       },
       "low_price": 42.49,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4008496972371"
     },
     {
       "brand": "WMF",
@@ -371,7 +376,8 @@
       },
       "low_price": 148.95,
       "prev_price": 150.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4211129140515"
     },
     {
       "brand": "KitchenAid",
@@ -439,7 +445,8 @@
       },
       "low_price": 167.8,
       "prev_price": 176.63,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5413184151058"
     },
     {
       "brand": "Bosch",
@@ -505,7 +512,8 @@
       },
       "low_price": 36.89,
       "prev_price": 36.89,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "4242005397792"
     },
     {
       "brand": "Tefal",
@@ -571,7 +579,8 @@
       },
       "low_price": 25.99,
       "prev_price": 34.99,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "3045387243227"
     },
     {
       "brand": "Princess",
@@ -637,7 +646,8 @@
         "2026-11-10": 40.0,
         "2026-11-11": 40.0
       },
-      "low_price": 40.0
+      "low_price": 40.0,
+      "ph_ean": "8713016098658"
     }
   ],
   "guide": [

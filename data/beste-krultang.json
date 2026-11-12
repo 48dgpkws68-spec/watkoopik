@@ -82,7 +82,8 @@
       },
       "low_price": 28.99,
       "prev_price": 38.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3030050153644"
     },
     {
       "brand": "Remington",
@@ -147,7 +148,8 @@
       },
       "low_price": 28.5,
       "prev_price": 35.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4008496938636"
     },
     {
       "brand": "ghd",
@@ -212,7 +214,8 @@
       },
       "low_price": 150.15,
       "prev_price": 177.32,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "5056668011174"
     },
     {
       "brand": "BaByliss",
@@ -277,7 +280,8 @@
       },
       "low_price": 79.89,
       "prev_price": 80.09,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "3030050197372"
     },
     {
       "brand": "Philips",
@@ -342,7 +346,8 @@
       },
       "low_price": 98.99,
       "prev_price": 111.48,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8710103813378"
     },
     {
       "brand": "Philips",
@@ -407,7 +412,8 @@
       },
       "low_price": 139.0,
       "prev_price": 174.34,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720689025485"
     },
     {
       "brand": "BaByliss",
@@ -472,7 +478,8 @@
       },
       "low_price": 44.9,
       "prev_price": 54.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3030050154924"
     },
     {
       "brand": "Remington",
@@ -537,7 +544,8 @@
       },
       "low_price": 29.99,
       "prev_price": 39.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4008496716630"
     },
     {
       "brand": "BaByliss",
@@ -602,7 +610,8 @@
       },
       "low_price": 24.99,
       "prev_price": 29.97,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3030050069426"
     },
     {
       "brand": "Rowenta",
@@ -667,7 +676,8 @@
       },
       "low_price": 17.09,
       "prev_price": 18.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "3121040084632"
     }
   ],
   "guide": [

@@ -85,7 +85,8 @@
       },
       "low_price": 458.47,
       "prev_price": 458.47,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "5413184200466"
     },
     {
       "brand": "Bosch",
@@ -151,7 +152,8 @@
       },
       "low_price": 232.95,
       "prev_price": 261.32,
-      "prev_date": "2026-10-29"
+      "prev_date": "2026-10-29",
+      "ph_ean": "4242002879642"
     },
     {
       "brand": "Kenwood",
@@ -217,7 +219,8 @@
       },
       "low_price": 519.0,
       "prev_price": 538.82,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "5011423206097"
     },
     {
       "brand": "Kenwood",
@@ -283,7 +286,8 @@
       },
       "low_price": 239.95,
       "prev_price": 259.95,
-      "prev_date": "2026-11-03"
+      "prev_date": "2026-11-03",
+      "ph_ean": "5011423190181"
     },
     {
       "brand": "Magimix",
@@ -349,7 +353,8 @@
         "2026-11-10": 549.0,
         "2026-11-11": 549.0
       },
-      "low_price": 549.0
+      "low_price": 549.0,
+      "ph_ean": "3519280016757"
     },
     {
       "brand": "Bosch",
@@ -417,7 +422,8 @@
       },
       "low_price": 144.95,
       "prev_price": 167.3,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4242005109340"
     },
     {
       "brand": "Smeg",
@@ -483,7 +489,8 @@
       },
       "low_price": 418.19,
       "prev_price": 422.46,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8017709277697"
     },
     {
       "brand": "Kenwood",
@@ -549,7 +556,8 @@
       },
       "low_price": 152.73,
       "prev_price": 157.5,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5011423206394"
     },
     {
       "brand": "KitchenAid",
@@ -617,7 +625,8 @@
       },
       "low_price": 332.0,
       "prev_price": 337.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5413184602710"
     },
     {
       "brand": "Philips",
@@ -684,7 +693,8 @@
       },
       "low_price": 96.0,
       "prev_price": 109.0,
-      "prev_date": "2026-10-20"
+      "prev_date": "2026-10-20",
+      "ph_ean": "8710103904939"
     }
   ],
   "guide": [

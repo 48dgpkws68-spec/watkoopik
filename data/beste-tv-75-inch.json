@@ -57,7 +57,8 @@
         "2026-11-11": 1338.0
       },
       "low_price": 1338.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "6942351416250"
     },
     {
       "brand": "TCL",
@@ -117,7 +118,8 @@
       },
       "low_price": 999.0,
       "prev_price": 1125.81,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "5901292526658"
     },
     {
       "brand": "Sony",
@@ -178,7 +180,8 @@
       },
       "low_price": 2699.0,
       "prev_price": 2999.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4548736178298"
     },
     {
       "brand": "Samsung",
@@ -238,7 +241,8 @@
       },
       "low_price": 1328.0,
       "prev_price": 1399.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806099129620"
     },
     {
       "brand": "Philips",
@@ -298,7 +302,8 @@
       },
       "low_price": 1099.0,
       "prev_price": 1133.18,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8718863051818"
     },
     {
       "brand": "LG",
@@ -358,7 +363,8 @@
       },
       "low_price": 1509.0,
       "prev_price": 1579.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806096447383"
     },
     {
       "brand": "Hisense",
@@ -415,7 +421,8 @@
       },
       "low_price": 899.0,
       "prev_price": 1036.03,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "6942351433165"
     },
     {
       "brand": "Hisense",
@@ -467,7 +474,8 @@
       "low_price": 899.0,
       "synced": "2026-11-11",
       "prev_price": 1111.94,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "6942351433967"
     },
     {
       "brand": "Xiaomi",
@@ -515,7 +523,8 @@
         "2026-11-11": 749.0
       },
       "low_price": 749.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "6941948705043"
     },
     {
       "brand": "Philips",
@@ -560,7 +569,8 @@
       "low_price": 679.0,
       "synced": "2026-11-11",
       "prev_price": 699.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8718863051696"
     }
   ],
   "guide": [

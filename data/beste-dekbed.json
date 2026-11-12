@@ -85,7 +85,8 @@
       },
       "low_price": 269.99,
       "prev_price": 269.99,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8720088581667"
     },
     {
       "brand": "Slaapspeciaal",
@@ -151,7 +152,8 @@
       },
       "low_price": 59.99,
       "prev_price": 89.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8719425809946"
     },
     {
       "brand": "Yumeko",
@@ -217,7 +219,8 @@
       },
       "low_price": 687.65,
       "prev_price": 687.65,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8718503720746"
     },
     {
       "brand": "Cinderella",
@@ -263,7 +266,8 @@
         "2026-11-11": 272.27
       },
       "low_price": 272.27,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8720289818937"
     },
     {
       "brand": "Ducky Dons",
@@ -320,7 +324,8 @@
       "low_price": 349.99,
       "synced": "2026-11-11",
       "prev_price": 349.99,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8721022878249"
     },
     {
       "brand": "Fabiola",
@@ -386,7 +391,8 @@
       },
       "low_price": 149.0,
       "prev_price": 149.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8720618169747"
     },
     {
       "brand": "Snoozing",
@@ -433,7 +439,8 @@
         "2026-11-11": 109.95
       },
       "low_price": 109.95,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8718801105450"
     },
     {
       "brand": "Ten Cate",
@@ -465,14 +472,6 @@
       "text": "Ten Cate is een van de bekendste namen in Nederlands beddengoed en dit synthetische 4-seizoenendekbed is hun betaalbaarste model in deze maat. Het bestaat uit twee delen met een synthetische vulling die ademt en vocht afvoert. Je gebruikt het dunne deel in de zomer, het dikkere in de tussenseizoenen en beide samen in de winter.\n\nOmdat het synthetisch is, kun je het dekbed op 60 graden wassen. Dat maakt het geschikt voor mensen met huisstofmijtallergie en voor kinderkamers. De tijk is eenvoudig en het dekbed voelt minder luchtig dan dons, maar voor deze prijs is dat logisch. Na een paar jaar intensief wassen zakt de vulling wat in. Dezelfde synthetische lijn van Ten Cate krijgt op bol gemiddeld een 4,7. Kopers waarderen vooral de prijs-kwaliteitverhouding. Voor een logeerbed of als je even geen groot budget hebt, is dit een veilige merkkeuze.",
       "ean": "8720812897873",
       "ph": {
-        "2026-10-15": 67.09,
-        "2026-10-16": 67.09,
-        "2026-10-17": 67.09,
-        "2026-10-18": 67.09,
-        "2026-10-19": 79.95,
-        "2026-10-20": 65.41,
-        "2026-10-21": 79.95,
-        "2026-10-23": 79.95,
         "2026-10-24": 79.95,
         "2026-10-25": 79.95,
         "2026-10-26": 79.95,
@@ -493,13 +492,12 @@
         "2026-11-10": 79.95,
         "2026-11-11": 79.95
       },
-      "low_price": 65.41,
-      "prev_price": 65.41,
-      "prev_date": "2026-10-20",
       "bol_title": "Ten Cate Classic 4-Seizoenen Synthetisch Dekbed - 240x220 cm - Anti-Allergie - Ademend - Vochtregulerend",
       "url": "https://www.bol.com/nl/nl/p/ten-cate-classic-4-seizoenen-synthetisch-dekbed-240x220-cm-anti-allergie-ademend-vochtregulerend/9300000227533321/",
       "image": "https://media.s-bol.com/6OE6Oov7mOm9/vQkWRJL/550x440.jpg",
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "low_price": 79.95,
+      "ph_ean": "8720812897873"
     },
     {
       "brand": "iSleep",
@@ -565,7 +563,8 @@
         "2026-11-10": 139.95,
         "2026-11-11": 139.95
       },
-      "low_price": 139.95
+      "low_price": 139.95,
+      "ph_ean": "3650881263543"
     },
     {
       "brand": "Sleep Comfy",
@@ -605,7 +604,8 @@
         "2026-11-11": 58.46
       },
       "low_price": 58.46,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8720813992065"
     }
   ],
   "guide": [

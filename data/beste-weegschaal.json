@@ -82,7 +82,8 @@
       },
       "low_price": 74.99,
       "prev_price": 97.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3700546708190"
     },
     {
       "brand": "Renpho",
@@ -129,7 +130,8 @@
       "low_price": 59.99,
       "synced": "2026-11-11",
       "prev_price": 69.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4897122208881"
     },
     {
       "brand": "Withings",
@@ -195,7 +197,8 @@
       },
       "low_price": 299.0,
       "prev_price": 319.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3700546707957"
     },
     {
       "brand": "Garmin",
@@ -261,7 +264,8 @@
       },
       "low_price": 125.0,
       "prev_price": 135.23,
-      "prev_date": "2026-10-27"
+      "prev_date": "2026-10-27",
+      "ph_ean": "0753759257507"
     },
     {
       "brand": "Withings",
@@ -327,7 +331,8 @@
       },
       "low_price": 125.0,
       "prev_price": 148.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3700546708053"
     },
     {
       "brand": "Xiaomi",
@@ -393,7 +398,8 @@
       },
       "low_price": 24.95,
       "prev_price": 28.66,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "6941812751985"
     },
     {
       "brand": "Renpho",
@@ -433,7 +439,8 @@
         "2026-11-11": 35.99
       },
       "low_price": 35.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4897122200045"
     },
     {
       "brand": "Huawei",
@@ -497,7 +504,8 @@
         "2026-11-10": 49.99,
         "2026-11-11": 49.99
       },
-      "low_price": 49.99
+      "low_price": 49.99,
+      "ph_ean": "6941487283002"
     },
     {
       "brand": "eufy",
@@ -541,7 +549,8 @@
         "2026-11-11": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0194644060381"
     },
     {
       "brand": "Beurer",
@@ -607,7 +616,8 @@
       },
       "low_price": 45.99,
       "prev_price": 57.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4211125749385"
     }
   ],
   "guide": [

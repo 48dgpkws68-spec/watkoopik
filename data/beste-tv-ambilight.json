@@ -65,7 +65,8 @@
       "low_price": 1399.0,
       "synced": "2026-11-11",
       "prev_price": 1495.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8718863052044"
     },
     {
       "brand": "Philips",
@@ -110,7 +111,8 @@
       "low_price": 589.0,
       "synced": "2026-11-11",
       "prev_price": 599.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8718863052761"
     },
     {
       "brand": "Philips",
@@ -155,7 +157,8 @@
       "low_price": 1949.0,
       "synced": "2026-11-11",
       "prev_price": 1999.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "8718863052136"
     },
     {
       "brand": "Philips",
@@ -200,7 +203,8 @@
       "low_price": 1749.0,
       "synced": "2026-11-11",
       "prev_price": 1759.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8718863052105"
     },
     {
       "brand": "Philips",
@@ -245,7 +249,8 @@
       "low_price": 699.0,
       "synced": "2026-11-11",
       "prev_price": 899.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8718863048658"
     },
     {
       "brand": "Philips",
@@ -290,7 +295,8 @@
       "low_price": 999.0,
       "synced": "2026-11-11",
       "prev_price": 1099.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8718863051948"
     },
     {
       "brand": "Philips",
@@ -335,7 +341,8 @@
       "low_price": 809.0,
       "synced": "2026-11-11",
       "prev_price": 849.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8718863052778"
     },
     {
       "brand": "Philips",
@@ -378,7 +385,8 @@
         "2026-11-11": 549.0
       },
       "low_price": 549.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8718863052754"
     },
     {
       "brand": "Philips",
@@ -418,7 +426,8 @@
       "low_price": 475.0,
       "synced": "2026-11-11",
       "prev_price": 475.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8718863052747"
     },
     {
       "brand": "Philips",
@@ -463,7 +472,8 @@
       "low_price": 344.0,
       "synced": "2026-11-11",
       "prev_price": 349.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8718863051702"
     }
   ],
   "guide": [

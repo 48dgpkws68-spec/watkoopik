@@ -81,7 +81,8 @@
       },
       "low_price": 262.95,
       "prev_price": 262.95,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "0195949590887"
     },
     {
       "brand": "JBL",
@@ -143,7 +144,8 @@
       },
       "low_price": 81.99,
       "prev_price": 81.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "1200130027628"
     },
     {
       "brand": "Soundcore",
@@ -205,7 +207,8 @@
       },
       "low_price": 69.99,
       "prev_price": 75.73,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0194644187002"
     },
     {
       "brand": "Shokz",
@@ -267,7 +270,8 @@
       },
       "low_price": 167.0,
       "prev_price": 182.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "0810092678922"
     },
     {
       "brand": "Sony",
@@ -307,7 +311,8 @@
         "2026-11-11": 134.0
       },
       "low_price": 134.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4548736157934"
     },
     {
       "brand": "JLab",
@@ -369,7 +374,8 @@
       },
       "low_price": 99.0,
       "prev_price": 99.0,
-      "prev_date": "2026-10-31"
+      "prev_date": "2026-10-31",
+      "ph_ean": "0810119072382"
     },
     {
       "brand": "Soundcore",
@@ -431,7 +437,8 @@
       },
       "low_price": 84.99,
       "prev_price": 118.95,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0194644298890"
     },
     {
       "brand": "Shokz",
@@ -493,7 +500,8 @@
       },
       "low_price": 116.0,
       "prev_price": 125.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "0810092679837"
     },
     {
       "brand": "JBL",
@@ -555,7 +563,8 @@
       },
       "low_price": 64.99,
       "prev_price": 64.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "1200130014291"
     },
     {
       "brand": "JLab",
@@ -617,7 +626,8 @@
       },
       "low_price": 29.99,
       "prev_price": 39.99,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "0812887017404"
     }
   ],
   "guide": [

@@ -71,7 +71,8 @@
       "low_price": 149.0,
       "synced": "2026-11-11",
       "prev_price": 149.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8720618169747"
     },
     {
       "brand": "Avenue",
@@ -122,7 +123,8 @@
       "low_price": 65.0,
       "synced": "2026-11-11",
       "prev_price": 75.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8720618169952"
     },
     {
       "brand": "Terschellinger",
@@ -173,7 +175,8 @@
       "low_price": 169.0,
       "synced": "2026-11-11",
       "prev_price": 169.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8720256479413"
     },
     {
       "brand": "Castella",
@@ -224,7 +227,8 @@
       "low_price": 277.9,
       "synced": "2026-11-11",
       "prev_price": 279.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720701885332"
     },
     {
       "brand": "Ducky Dons",
@@ -275,7 +279,8 @@
       "low_price": 246.05,
       "synced": "2026-11-11",
       "prev_price": 255.95,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "8718719723142"
     },
     {
       "brand": "Texels Comfort",
@@ -323,7 +328,8 @@
         "2026-11-11": 179.95
       },
       "low_price": 179.95,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8721067012059"
     },
     {
       "brand": "Slaapspeciaal",
@@ -373,7 +379,8 @@
       "low_price": 59.99,
       "synced": "2026-11-11",
       "prev_price": 89.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8719425809946"
     },
     {
       "brand": "Eastlands",
@@ -421,7 +428,8 @@
         "2026-11-11": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8719638068932"
     },
     {
       "brand": "Sleep Comfy",
@@ -460,7 +468,8 @@
         "2026-11-11": 58.46
       },
       "low_price": 58.46,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8720813992065"
     },
     {
       "brand": "HUSH Living",
@@ -501,7 +510,8 @@
         "2026-11-11": 42.99
       },
       "low_price": 42.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8721339407583"
     }
   ],
   "guide": [

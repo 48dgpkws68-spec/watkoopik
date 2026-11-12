@@ -64,7 +64,8 @@
         "2026-11-11": 89.0
       },
       "low_price": 89.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4059952574967"
     },
     {
       "brand": "Einhell",
@@ -129,7 +130,8 @@
       },
       "low_price": 32.99,
       "prev_price": 32.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4006825585049"
     },
     {
       "brand": "Bosch",
@@ -194,7 +196,8 @@
       },
       "low_price": 172.2,
       "prev_price": 172.2,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4059952558769"
     },
     {
       "brand": "BLACK+DECKER",
@@ -258,7 +261,8 @@
       },
       "low_price": 73.86,
       "prev_price": 73.86,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5035048554128"
     },
     {
       "brand": "GARDENA",
@@ -323,7 +327,8 @@
       },
       "low_price": 62.5,
       "prev_price": 69.99,
-      "prev_date": "2026-10-23"
+      "prev_date": "2026-10-23",
+      "ph_ean": "4078500042475"
     },
     {
       "brand": "BLACK+DECKER",
@@ -387,7 +392,8 @@
       },
       "low_price": 35.99,
       "prev_price": 57.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5035048677988"
     },
     {
       "brand": "Makita",
@@ -442,7 +448,8 @@
       "low_price": 102.95,
       "synced": "2026-11-11",
       "prev_price": 116.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "0088381777131"
     },
     {
       "brand": "Powerplus",
@@ -506,7 +513,8 @@
       },
       "low_price": 39.95,
       "prev_price": 39.95,
-      "prev_date": "2026-10-19"
+      "prev_date": "2026-10-19",
+      "ph_ean": "5400338092220"
     },
     {
       "brand": "GARDENA",
@@ -570,7 +578,8 @@
       },
       "low_price": 76.17,
       "prev_price": 91.7,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4078500016582"
     },
     {
       "brand": "Bosch",
@@ -634,7 +643,8 @@
       },
       "low_price": 173.0,
       "prev_price": 195.9,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "3165140888042"
     }
   ],
   "guide": [

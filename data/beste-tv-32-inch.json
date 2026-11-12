@@ -74,7 +74,8 @@
       },
       "low_price": 289.0,
       "prev_price": 309.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806099013790"
     },
     {
       "brand": "Coocaa",
@@ -127,7 +128,8 @@
       "low_price": 154.6,
       "synced": "2026-11-11",
       "prev_price": 154.95,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4057313026933"
     },
     {
       "brand": "Samsung",
@@ -184,7 +186,8 @@
       },
       "low_price": 414.43,
       "prev_price": 479.0,
-      "prev_date": "2026-11-03"
+      "prev_date": "2026-11-03",
+      "ph_ean": "8806097611738"
     },
     {
       "brand": "Philips",
@@ -241,7 +244,8 @@
       },
       "low_price": 249.0,
       "prev_price": 282.0,
-      "prev_date": "2026-11-03"
+      "prev_date": "2026-11-03",
+      "ph_ean": "8718863051580"
     },
     {
       "brand": "CHiQ",
@@ -287,7 +291,8 @@
       "low_price": 184.31,
       "synced": "2026-11-11",
       "prev_price": 184.31,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "8592344206221"
     },
     {
       "brand": "LG",
@@ -344,7 +349,8 @@
       },
       "low_price": 225.0,
       "prev_price": 239.7,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8806091636959"
     },
     {
       "brand": "Philips",
@@ -381,7 +387,8 @@
         "2026-11-11": 187.0
       },
       "low_price": 187.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8718863051542"
     },
     {
       "brand": "TCL",
@@ -438,7 +445,8 @@
       },
       "low_price": 219.0,
       "prev_price": 279.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "5901292527082"
     },
     {
       "brand": "CHiQ",
@@ -495,7 +503,8 @@
       },
       "low_price": 159.99,
       "prev_price": 159.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8592344206016"
     },
     {
       "brand": "Samsung",
@@ -549,7 +558,8 @@
         "2026-11-10": 199.0,
         "2026-11-11": 199.0
       },
-      "low_price": 199.0
+      "low_price": 199.0,
+      "ph_ean": "8806095917429"
     }
   ],
   "guide": [

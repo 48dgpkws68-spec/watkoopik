@@ -81,7 +81,8 @@
       },
       "low_price": 999.0,
       "prev_price": 1040.88,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8806096361924"
     },
     {
       "brand": "LG",
@@ -148,7 +149,8 @@
       },
       "low_price": 799.0,
       "prev_price": 826.5,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "8806096360576"
     },
     {
       "brand": "LG",
@@ -212,7 +214,8 @@
       },
       "low_price": 1298.0,
       "prev_price": 1299.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8806096363683"
     },
     {
       "brand": "Sony",
@@ -269,7 +272,8 @@
       },
       "low_price": 1299.0,
       "prev_price": 1499.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "4548736182851"
     },
     {
       "brand": "Philips",
@@ -317,7 +321,8 @@
       "low_price": 1399.0,
       "synced": "2026-11-11",
       "prev_price": 1495.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8718863052044"
     },
     {
       "brand": "Samsung",
@@ -358,7 +363,8 @@
       "low_price": 879.0,
       "synced": "2026-11-11",
       "prev_price": 899.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806097979609"
     },
     {
       "brand": "Samsung",
@@ -418,7 +424,8 @@
       },
       "low_price": 1149.0,
       "prev_price": 1249.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806099242800"
     },
     {
       "brand": "Hisense",
@@ -455,7 +462,8 @@
         "2026-11-11": 549.0
       },
       "low_price": 549.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "6942351434582"
     },
     {
       "brand": "Hisense",
@@ -502,7 +510,8 @@
       "low_price": 499.0,
       "synced": "2026-11-11",
       "prev_price": 529.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "6942351432779"
     },
     {
       "brand": "CHiQ",
@@ -541,7 +550,8 @@
         "2026-11-11": 429.0
       },
       "low_price": 429.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8592344205507"
     }
   ],
   "guide": [

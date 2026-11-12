@@ -78,7 +78,8 @@
       },
       "low_price": 769.0,
       "prev_price": 769.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806099129590"
     },
     {
       "brand": "TCL",
@@ -117,7 +118,8 @@
         "2026-11-11": 476.13
       },
       "low_price": 476.13,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "5901292528584"
     },
     {
       "brand": "TCL",
@@ -165,7 +167,8 @@
       "low_price": 999.0,
       "synced": "2026-11-11",
       "prev_price": 1299.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "5901292531775"
     },
     {
       "brand": "Hisense",
@@ -225,7 +228,8 @@
       },
       "low_price": 549.0,
       "prev_price": 624.69,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "6942351434582"
     },
     {
       "brand": "Philips",
@@ -268,7 +272,8 @@
       "low_price": 591.0,
       "synced": "2026-11-11",
       "prev_price": 592.12,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8718863046333"
     },
     {
       "brand": "Samsung",
@@ -329,7 +334,8 @@
       },
       "low_price": 1149.0,
       "prev_price": 1249.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806099242800"
     },
     {
       "brand": "Hisense",
@@ -386,7 +392,8 @@
       "low_price": 549.0,
       "synced": "2026-11-11",
       "prev_price": 698.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "6942351431710"
     },
     {
       "brand": "Hisense",
@@ -446,7 +453,8 @@
       },
       "low_price": 499.0,
       "prev_price": 529.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "6942351432779"
     },
     {
       "brand": "Samsung",
@@ -507,7 +515,8 @@
       },
       "low_price": 479.0,
       "prev_price": 479.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8806099124410"
     },
     {
       "brand": "Xiaomi",
@@ -566,7 +575,8 @@
         "2026-11-10": 447.99,
         "2026-11-11": 447.99
       },
-      "low_price": 447.99
+      "low_price": 447.99,
+      "ph_ean": "6941948705722"
     }
   ],
   "guide": [

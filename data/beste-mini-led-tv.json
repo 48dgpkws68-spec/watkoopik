@@ -67,7 +67,8 @@
       "low_price": 999.0,
       "synced": "2026-11-11",
       "prev_price": 1299.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "5901292531775"
     },
     {
       "brand": "Hisense",
@@ -111,7 +112,8 @@
         "2026-11-11": 549.0
       },
       "low_price": 549.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "6942351434582"
     },
     {
       "brand": "TCL",
@@ -160,7 +162,8 @@
       "low_price": 4033.0,
       "synced": "2026-11-11",
       "prev_price": 4035.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5901292525255"
     },
     {
       "brand": "Samsung",
@@ -207,7 +210,8 @@
       "low_price": 1049.0,
       "synced": "2026-11-11",
       "prev_price": 1099.0,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8806099129613"
     },
     {
       "brand": "TCL",
@@ -255,7 +259,8 @@
       "low_price": 1399.0,
       "synced": "2026-11-11",
       "prev_price": 1429.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "5901292529987"
     },
     {
       "brand": "LG",
@@ -302,7 +307,8 @@
       "low_price": 999.0,
       "synced": "2026-11-11",
       "prev_price": 1199.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8806096694800"
     },
     {
       "brand": "Hisense",
@@ -348,7 +354,8 @@
         "2026-11-11": 699.0
       },
       "low_price": 699.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "6942351437149"
     },
     {
       "brand": "Philips",
@@ -395,7 +402,8 @@
       "low_price": 699.0,
       "synced": "2026-11-11",
       "prev_price": 899.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8718863048658"
     },
     {
       "brand": "TCL",
@@ -443,7 +451,8 @@
       "low_price": 549.0,
       "synced": "2026-11-11",
       "prev_price": 604.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "5901292531072"
     },
     {
       "brand": "TCL",
@@ -491,7 +500,8 @@
       "low_price": 1299.0,
       "synced": "2026-11-11",
       "prev_price": 1377.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "5901292531041"
     }
   ],
   "guide": [

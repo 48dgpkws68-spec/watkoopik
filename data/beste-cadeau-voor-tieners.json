@@ -56,7 +56,8 @@
         "2026-11-11": 81.89
       },
       "low_price": 81.89,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4547410489095"
     },
     {
       "brand": "JBL",
@@ -106,7 +107,8 @@
       "low_price": 106.0,
       "synced": "2026-11-11",
       "prev_price": 119.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "1200130019272"
     },
     {
       "brand": "Govee",
@@ -156,7 +158,8 @@
       "low_price": 21.0,
       "synced": "2026-11-11",
       "prev_price": 25.49,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "6974316992950"
     },
     {
       "brand": "JBL",
@@ -198,7 +201,8 @@
       "low_price": 49.0,
       "synced": "2026-11-11",
       "prev_price": 79.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "1200130016264"
     },
     {
       "brand": "Nintendo",
@@ -248,7 +252,8 @@
       "low_price": 49.99,
       "synced": "2026-11-11",
       "prev_price": 52.99,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "0045496420314"
     },
     {
       "brand": "Fujifilm",
@@ -298,7 +303,8 @@
       "low_price": 107.0,
       "synced": "2026-11-11",
       "prev_price": 119.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4547410536362"
     },
     {
       "brand": "Huawei",
@@ -339,7 +345,8 @@
       "low_price": 53.35,
       "synced": "2026-11-11",
       "prev_price": 53.39,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "6942103149047"
     },
     {
       "brand": "Kobo",
@@ -387,7 +394,8 @@
         "2026-11-11": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0681495009558"
     },
     {
       "brand": "BaByliss",
@@ -437,7 +445,8 @@
       "low_price": 39.9,
       "synced": "2026-11-11",
       "prev_price": 47.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3030050185782"
     },
     {
       "brand": "Razer",
@@ -487,7 +496,8 @@
       "low_price": 46.99,
       "synced": "2026-11-11",
       "prev_price": 46.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8887910060650"
     }
   ],
   "guide": [

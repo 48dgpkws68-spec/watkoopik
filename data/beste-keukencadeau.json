@@ -60,7 +60,8 @@
       "low_price": 156.6,
       "synced": "2026-11-11",
       "prev_price": 158.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0622356320450"
     },
     {
       "brand": "Philips",
@@ -116,7 +117,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 77.99,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8720389035173"
     },
     {
       "brand": "SMEG",
@@ -172,7 +174,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 129.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8017709227852"
     },
     {
       "brand": "Krups",
@@ -228,7 +231,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 73.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0010942221715"
     },
     {
       "brand": "MEATER",
@@ -284,7 +288,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 75.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "5060480240407"
     },
     {
       "brand": "Braun",
@@ -338,7 +343,8 @@
       },
       "low_price": 63.99,
       "synced": "2026-11-11",
-      "reviews": "reviews op bol"
+      "reviews": "reviews op bol",
+      "ph_ean": "8021098003980"
     },
     {
       "brand": "Ninja",
@@ -394,7 +400,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 68.95,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0622356239769"
     },
     {
       "brand": "ProfiCook",
@@ -448,7 +455,8 @@
       },
       "low_price": 79.95,
       "synced": "2026-11-11",
-      "reviews": "reviews op bol"
+      "reviews": "reviews op bol",
+      "ph_ean": "4006160111224"
     },
     {
       "brand": "KitchenAid",
@@ -502,7 +510,8 @@
       },
       "low_price": 131.0,
       "synced": "2026-11-11",
-      "reviews": "reviews op bol"
+      "reviews": "reviews op bol",
+      "ph_ean": "5413184160326"
     },
     {
       "brand": "Philips",
@@ -558,7 +567,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 50.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8720389007606"
     }
   ],
   "guide": [

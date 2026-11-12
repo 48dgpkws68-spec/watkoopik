@@ -65,7 +65,8 @@
       "low_price": 90.7,
       "synced": "2026-11-11",
       "prev_price": 94.9,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8718532241526"
     },
     {
       "brand": "Royal Christmas",
@@ -108,7 +109,8 @@
         "2026-11-11": 359.0
       },
       "low_price": 359.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8717591890164"
     },
     {
       "brand": "Triumph Tree",
@@ -152,7 +154,8 @@
       "low_price": 69.95,
       "synced": "2026-11-11",
       "prev_price": 71.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0756770414904"
     },
     {
       "brand": "Triumph Tree",
@@ -195,7 +198,8 @@
       "low_price": 105.0,
       "synced": "2026-11-11",
       "prev_price": 119.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8720967792108"
     },
     {
       "brand": "Everlands",
@@ -239,7 +243,8 @@
       "low_price": 121.0,
       "synced": "2026-11-11",
       "prev_price": 121.9,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8720093398496"
     },
     {
       "brand": "Royal Christmas",
@@ -283,7 +288,8 @@
       "low_price": 84.55,
       "synced": "2026-11-11",
       "prev_price": 89.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8717931854375"
     },
     {
       "brand": "Black Box Trees",
@@ -327,7 +333,8 @@
       "low_price": 39.85,
       "synced": "2026-11-11",
       "prev_price": 40.44,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "8720967840229"
     },
     {
       "brand": "Triumph Tree",
@@ -370,7 +377,8 @@
       "low_price": 296.95,
       "synced": "2026-11-11",
       "prev_price": 327.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8712799346147"
     },
     {
       "brand": "Everlands",
@@ -411,7 +419,8 @@
         "2026-11-11": 50.99
       },
       "low_price": 50.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8718533661408"
     },
     {
       "brand": "Triumph Tree",
@@ -453,7 +462,8 @@
         "2026-11-11": 144.95
       },
       "low_price": 144.95,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8718861346312"
     }
   ],
   "guide": [

@@ -82,7 +82,8 @@
       },
       "low_price": 139.0,
       "prev_price": 143.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0194644151942"
     },
     {
       "brand": "Tapo",
@@ -148,7 +149,8 @@
       },
       "low_price": 59.99,
       "prev_price": 62.89,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4897098688069"
     },
     {
       "brand": "Ring",
@@ -214,7 +216,8 @@
       },
       "low_price": 149.99,
       "prev_price": 224.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0840414628397"
     },
     {
       "brand": "Ring",
@@ -280,7 +283,8 @@
       },
       "low_price": 59.99,
       "prev_price": 59.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0840414621060"
     },
     {
       "label": null,
@@ -330,7 +334,8 @@
       "low_price": 97.4,
       "synced": "2026-11-11",
       "prev_price": 99.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "6975253983315"
     },
     {
       "brand": "Reolink",
@@ -386,7 +391,8 @@
       "low_price": 95.99,
       "synced": "2026-11-11",
       "prev_price": 119.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "6976930226534"
     },
     {
       "brand": "EZVIZ",
@@ -452,7 +458,8 @@
       },
       "low_price": 112.0,
       "prev_price": 114.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "6941545643359"
     },
     {
       "brand": "eufy",
@@ -518,7 +525,8 @@
       },
       "low_price": 98.4,
       "prev_price": 108.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8719925783548"
     },
     {
       "brand": "Arlo",
@@ -560,7 +568,8 @@
         "2026-11-11": 94.99
       },
       "low_price": 94.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0193108146753"
     },
     {
       "brand": "Aqara",
@@ -626,7 +635,8 @@
       },
       "low_price": 80.99,
       "prev_price": 84.03,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "6978350350639"
     }
   ],
   "guide": [

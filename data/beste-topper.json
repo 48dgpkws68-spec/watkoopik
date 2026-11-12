@@ -82,7 +82,8 @@
       },
       "low_price": 139.0,
       "prev_price": 145.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720618853363"
     },
     {
       "brand": "CozySense",
@@ -147,7 +148,8 @@
       },
       "low_price": 69.99,
       "prev_price": 71.99,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8721082089388"
     },
     {
       "brand": "Emma",
@@ -204,7 +206,8 @@
       },
       "low_price": 349.2,
       "prev_price": 399.7,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8719158595949"
     },
     {
       "brand": "Ella",
@@ -268,7 +271,8 @@
       },
       "low_price": 205.0,
       "prev_price": 205.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720618853912"
     },
     {
       "brand": "Maan matras",
@@ -332,7 +336,8 @@
       },
       "low_price": 86.4,
       "prev_price": 86.4,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8721082562485"
     },
     {
       "brand": "Maan matras",
@@ -396,7 +401,8 @@
       },
       "low_price": 103.0,
       "prev_price": 103.0,
-      "prev_date": "2026-10-24"
+      "prev_date": "2026-10-24",
+      "ph_ean": "8721082562447"
     },
     {
       "brand": "Best Life",
@@ -460,7 +466,8 @@
       },
       "low_price": 89.99,
       "prev_price": 89.99,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8720938061110"
     },
     {
       "brand": "QualyLiving",
@@ -522,7 +529,8 @@
         "2026-11-10": 99.95,
         "2026-11-11": 99.95
       },
-      "low_price": 99.95
+      "low_price": 99.95,
+      "ph_ean": "8721516578198"
     },
     {
       "brand": "SwissTop",
@@ -586,7 +594,8 @@
       },
       "low_price": 51.0,
       "prev_price": 56.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "8720938416989"
     },
     {
       "brand": "Nice Dreams",
@@ -650,7 +659,8 @@
       },
       "low_price": 53.95,
       "prev_price": 53.95,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8719425803319"
     }
   ],
   "guide": [

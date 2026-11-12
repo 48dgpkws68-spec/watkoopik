@@ -82,7 +82,8 @@
       },
       "low_price": 241.0,
       "prev_price": 278.7,
-      "prev_date": "2026-11-03"
+      "prev_date": "2026-11-03",
+      "ph_ean": "0088381866439"
     },
     {
       "brand": "Milwaukee",
@@ -148,7 +149,8 @@
       },
       "low_price": 392.0,
       "prev_price": 431.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4058546376543"
     },
     {
       "brand": "Bosch Professional",
@@ -213,7 +215,8 @@
       },
       "low_price": 293.02,
       "prev_price": 293.02,
-      "prev_date": "2026-10-30"
+      "prev_date": "2026-10-30",
+      "ph_ean": "4059952509273"
     },
     {
       "brand": "Makita",
@@ -279,7 +282,8 @@
       },
       "low_price": 159.87,
       "prev_price": 159.87,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0088381872577"
     },
     {
       "brand": "DeWalt",
@@ -345,7 +349,8 @@
       },
       "low_price": 162.22,
       "prev_price": 162.22,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "5035048664957"
     },
     {
       "brand": "Bosch Professional",
@@ -410,7 +415,8 @@
       },
       "low_price": 249.0,
       "prev_price": 259.0,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "3165140953719"
     },
     {
       "brand": "Bosch",
@@ -475,7 +481,8 @@
       },
       "low_price": 87.22,
       "prev_price": 88.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4053423230802"
     },
     {
       "brand": "Ryobi",
@@ -541,7 +548,8 @@
       },
       "low_price": 113.0,
       "prev_price": 113.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4892210148643"
     },
     {
       "brand": "Einhell",
@@ -607,7 +615,8 @@
       },
       "low_price": 43.94,
       "prev_price": 50.46,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4006825635768"
     },
     {
       "brand": "Black+Decker",
@@ -653,7 +662,8 @@
       "low_price": 49.99,
       "synced": "2026-11-11",
       "prev_price": 52.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "5035048645444"
     }
   ],
   "guide": [

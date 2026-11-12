@@ -79,7 +79,8 @@
       },
       "low_price": 184.99,
       "prev_price": 241.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "7333394095943"
     },
     {
       "brand": "Rowenta",
@@ -141,7 +142,8 @@
       },
       "low_price": 199.0,
       "prev_price": 221.48,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3221616000247"
     },
     {
       "brand": "Rowenta",
@@ -194,7 +196,8 @@
       "low_price": 149.0,
       "synced": "2026-11-11",
       "prev_price": 164.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "3221616107311"
     },
     {
       "brand": "AEG",
@@ -256,7 +259,8 @@
       },
       "low_price": 156.99,
       "prev_price": 179.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "7333394096100"
     },
     {
       "brand": "Bosch",
@@ -316,7 +320,8 @@
         "2026-11-10": 314.95,
         "2026-11-11": 314.95
       },
-      "low_price": 314.95
+      "low_price": 314.95,
+      "ph_ean": "4242002997957"
     },
     {
       "brand": "Rowenta",
@@ -370,7 +375,8 @@
       "low_price": 155.99,
       "synced": "2026-11-11",
       "prev_price": 192.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "3221616020238"
     },
     {
       "brand": "Bosch",
@@ -411,7 +417,8 @@
       "low_price": 242.12,
       "synced": "2026-11-11",
       "prev_price": 242.12,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4242005580842"
     },
     {
       "brand": "Nilfisk",
@@ -473,7 +480,8 @@
       },
       "low_price": 270.0,
       "prev_price": 270.0,
-      "prev_date": "2026-10-30"
+      "prev_date": "2026-10-30",
+      "ph_ean": "5715492189601"
     },
     {
       "brand": "Electrolux",
@@ -529,7 +537,8 @@
       "low_price": 168.54,
       "synced": "2026-11-11",
       "prev_price": 168.86,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "7332543693887"
     },
     {
       "brand": "Tomado",
@@ -591,7 +600,8 @@
       },
       "low_price": 61.99,
       "prev_price": 69.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8712876500622"
     }
   ],
   "guide": [

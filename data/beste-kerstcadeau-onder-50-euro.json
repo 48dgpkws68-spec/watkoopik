@@ -67,7 +67,8 @@
       "low_price": 34.1,
       "synced": "2026-11-11",
       "prev_price": 34.1,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8719134201727"
     },
     {
       "brand": "999 Games",
@@ -113,7 +114,8 @@
         "2026-11-11": 34.99
       },
       "low_price": 34.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8717249196235"
     },
     {
       "brand": "LEGO",
@@ -159,7 +161,8 @@
         "2026-11-11": 39.9
       },
       "low_price": 39.9,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "5702017747682"
     },
     {
       "brand": "JBL",
@@ -205,7 +208,8 @@
         "2026-11-11": 45.75
       },
       "low_price": 45.75,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "1200130034282"
     },
     {
       "brand": "Yankee Candle",
@@ -253,7 +257,8 @@
       "low_price": 30.23,
       "synced": "2026-11-11",
       "prev_price": 31.64,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5038581129372"
     },
     {
       "brand": "Beurer",
@@ -301,7 +306,8 @@
       "low_price": 38.8,
       "synced": "2026-11-11",
       "prev_price": 41.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4211125275013"
     },
     {
       "brand": "Philips",
@@ -349,7 +355,8 @@
       "low_price": 33.49,
       "synced": "2026-11-11",
       "prev_price": 36.94,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720689029094"
     },
     {
       "brand": "Tristar",
@@ -397,7 +404,8 @@
       "low_price": 30.99,
       "synced": "2026-11-11",
       "prev_price": 37.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8712836973251"
     },
     {
       "brand": "Jan van Haasteren",
@@ -445,7 +453,8 @@
       "low_price": 15.95,
       "synced": "2026-11-11",
       "prev_price": 15.95,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8710126130070"
     },
     {
       "brand": "Bialetti",
@@ -493,7 +502,8 @@
       "low_price": 28.95,
       "synced": "2026-11-11",
       "prev_price": 28.95,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "8006363011631"
     }
   ],
   "guide": [

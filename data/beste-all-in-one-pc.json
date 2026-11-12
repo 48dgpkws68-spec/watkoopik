@@ -75,7 +75,8 @@
       },
       "low_price": 1259.0,
       "prev_price": 1259.0,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "0195949592430"
     },
     {
       "brand": "Lenovo",
@@ -131,7 +132,8 @@
         "2026-11-10": 2499.0,
         "2026-11-11": 2499.0
       },
-      "low_price": 2499.0
+      "low_price": 2499.0,
+      "ph_ean": "0199272844341"
     },
     {
       "brand": "HP",
@@ -189,7 +191,8 @@
       },
       "low_price": 999.0,
       "prev_price": 1039.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0199764710284"
     },
     {
       "brand": "Lenovo",
@@ -245,7 +248,8 @@
         "2026-11-10": 1419.0,
         "2026-11-11": 1419.0
       },
-      "low_price": 1419.0
+      "low_price": 1419.0,
+      "ph_ean": "0198157318243"
     },
     {
       "brand": "HP",
@@ -301,7 +305,8 @@
         "2026-11-10": 739.0,
         "2026-11-11": 739.0
       },
-      "low_price": 739.0
+      "low_price": 739.0,
+      "ph_ean": "0199764710246"
     },
     {
       "brand": "Acer",
@@ -359,7 +364,8 @@
       },
       "low_price": 799.0,
       "prev_price": 799.0,
-      "prev_date": "2026-11-03"
+      "prev_date": "2026-11-03",
+      "ph_ean": "4711474820488"
     },
     {
       "brand": "ASUS",
@@ -390,7 +396,6 @@
       "text": "De ASUS V600 is een 27 inch all-in-one met een AMD Ryzen AI 7 350-processor. Die chip heeft een krachtige NPU, waardoor hij als Copilot+ pc gebruik kan maken van de AI-functies in Windows 11, zoals Recall, live ondertitels met vertaling en slimme beeldbewerking in de Foto's-app. Dat is in deze prijsklasse nog niet vanzelfsprekend.\n\nMet 16 GB DDR5-geheugen en een SSD van 512 GB is hij snel genoeg voor thuiswerken, schoolwerk en multimedia. Het Full HD-scherm is groot, maar op 27 inch zie je bij tekst wat minder scherpte dan bij een QHD-scherm. De speakers zijn naar ASUS-gewoonte goed voor een all-in-one. Wifi 6 zorgt voor een stabiele verbinding. Omdat het model nieuw is, zijn er nog weinig reviews op bol. Het design is degelijk maar minder slank dan de HP OmniStudio X. Wil je vooral de AI-functies van Windows, dan is dit een goede keuze.",
       "ean": "4711636500937",
       "ph": {
-        "2026-10-23": 983.85,
         "2026-10-24": 1058.0,
         "2026-10-25": 1088.16,
         "2026-10-26": 1088.16,
@@ -411,13 +416,14 @@
         "2026-11-10": 1088.16,
         "2026-11-11": 1003.71
       },
-      "low_price": 983.85,
       "bol_title": "ASUS V600 AiO VM670KA-BPE072W AMD Ryzen AI 7 350 68,6 cm (27\") 1920 x 1080 Pixels Alles-in-één-pc 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Home Wi-Fi 6 (802.11ax) Zwart",
       "url": "https://www.bol.com/nl/nl/p/asus-v600-aio-vm670ka-bpe072w-amd-ryzen-ai-7-350-68-6-cm-1920-x-1080-pixels-alles-in-een-pc-16-gb-ddr5-sdram-512-gb-ssd-windows-11-home-wi-fi-6-zwart/9300000262975445/",
       "image": "https://media.s-bol.com/5DxxGJZoZ4Kq/Nxz4A8p/550x423.jpg",
       "synced": "2026-11-11",
+      "low_price": 1003.71,
       "prev_price": 1088.16,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4711636500937"
     },
     {
       "brand": "Lenovo",
@@ -473,7 +479,8 @@
         "2026-11-10": 999.0,
         "2026-11-11": 999.0
       },
-      "low_price": 999.0
+      "low_price": 999.0,
+      "ph_ean": "0198155176623"
     },
     {
       "brand": "ASUS",
@@ -531,7 +538,8 @@
       },
       "low_price": 725.94,
       "prev_price": 729.34,
-      "prev_date": "2026-10-27"
+      "prev_date": "2026-10-27",
+      "ph_ean": "4711636116343"
     },
     {
       "brand": "MSI",
@@ -589,7 +597,8 @@
       },
       "low_price": 555.0,
       "prev_price": 565.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "4711377232142"
     }
   ],
   "guide": [

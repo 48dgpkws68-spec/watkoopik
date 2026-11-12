@@ -64,7 +64,8 @@
         "2026-11-11": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8721017608868"
     },
     {
       "brand": "LEGO",
@@ -111,7 +112,8 @@
       "low_price": 26.99,
       "synced": "2026-11-11",
       "prev_price": 27.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5702018062470"
     },
     {
       "brand": "LEGO",
@@ -158,7 +160,8 @@
       "low_price": 18.99,
       "synced": "2026-11-11",
       "prev_price": 18.99,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "5702018054697"
     },
     {
       "brand": "Yves Rocher",
@@ -203,7 +206,8 @@
         "2026-11-11": 56.99
       },
       "low_price": 56.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "3660005424958"
     },
     {
       "brand": "NIVEA",
@@ -248,7 +252,8 @@
       "synced": "2026-11-11",
       "bol_title": "NIVEA Adventskalender Vrouwen 2026 – Geschenkset met 24 Verzorgende NIVEA Mini’s en Accessoires - Giftset - Aftelkalender - Kerstkalender - Sint Cadeau",
       "url": "https://www.bol.com/nl/nl/p/nivea-adventskalender-vrouwen-2025-kerst-en-sinterklaas-geschenkset-met-24-verzorgende-nivea-mini-s-en-accessoires-kerstcadeau/9300000239540729/",
-      "image": "https://media.s-bol.com/BZKvVNWQxvqJ/y8vVvn6/550x363.jpg"
+      "image": "https://media.s-bol.com/BZKvVNWQxvqJ/y8vVvn6/550x363.jpg",
+      "ph_ean": "4006000209623"
     },
     {
       "brand": "999 Games",
@@ -295,7 +300,8 @@
       "low_price": 37.99,
       "synced": "2026-11-11",
       "prev_price": 49.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8721184285022"
     },
     {
       "brand": "Pukka",
@@ -342,7 +348,8 @@
       "low_price": 13.83,
       "synced": "2026-11-11",
       "prev_price": 13.83,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5063270119464"
     },
     {
       "brand": "PLAYMOBIL",
@@ -386,7 +393,8 @@
       "low_price": 26.99,
       "synced": "2026-11-11",
       "prev_price": 37.45,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4008789722263"
     },
     {
       "brand": "waterdrop",
@@ -433,7 +441,8 @@
       "low_price": 18.0,
       "synced": "2026-11-11",
       "prev_price": 18.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "9120125310691"
     },
     {
       "brand": "Tony's Chocolonely",
@@ -478,7 +487,8 @@
         "2026-11-11": 12.99
       },
       "low_price": 12.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8720701146723"
     }
   ],
   "guide": [

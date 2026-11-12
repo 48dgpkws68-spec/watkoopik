@@ -58,7 +58,8 @@
         "2026-11-11": 114.95
       },
       "low_price": 114.95,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8004399020382"
     },
     {
       "brand": "De'Longhi",
@@ -115,7 +116,8 @@
       "low_price": 139.43,
       "synced": "2026-11-11",
       "prev_price": 154.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8004399143166"
     },
     {
       "brand": "Princess",
@@ -171,7 +173,8 @@
       "low_price": 62.99,
       "synced": "2026-11-11",
       "prev_price": 69.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8711658522524"
     },
     {
       "brand": "Inventum",
@@ -227,7 +230,8 @@
       "low_price": 36.99,
       "synced": "2026-11-11",
       "prev_price": 38.9,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8712876044072"
     },
     {
       "brand": "Rowenta",
@@ -283,7 +287,8 @@
       "low_price": 71.17,
       "synced": "2026-11-11",
       "prev_price": 104.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "3121040083093"
     },
     {
       "brand": "Eurom",
@@ -339,7 +344,8 @@
       "low_price": 63.31,
       "synced": "2026-11-11",
       "prev_price": 66.81,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8713415342741"
     },
     {
       "brand": "Duux",
@@ -393,7 +399,8 @@
         "2026-11-11": 69.99
       },
       "low_price": 69.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8716164990614"
     },
     {
       "brand": "Tristar",
@@ -449,7 +456,8 @@
       "low_price": 41.0,
       "synced": "2026-11-11",
       "prev_price": 41.0,
-      "prev_date": "2026-10-28"
+      "prev_date": "2026-10-28",
+      "ph_ean": "8712836970151"
     },
     {
       "brand": "Eurom",
@@ -505,7 +513,8 @@
       "low_price": 34.63,
       "synced": "2026-11-11",
       "prev_price": 34.63,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8713415341898"
     },
     {
       "brand": "Auronic",
@@ -561,7 +570,8 @@
       "low_price": 44.99,
       "synced": "2026-11-11",
       "prev_price": 49.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8721055567356"
     }
   ],
   "guide": [

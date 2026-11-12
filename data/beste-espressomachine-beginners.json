@@ -82,7 +82,8 @@
       },
       "low_price": 419.0,
       "prev_price": 446.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "9312432031523"
     },
     {
       "brand": "Philips",
@@ -144,7 +145,8 @@
       },
       "low_price": 266.0,
       "prev_price": 270.58,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8720389082757"
     },
     {
       "brand": "Sage",
@@ -209,7 +211,8 @@
       },
       "low_price": 619.0,
       "prev_price": 655.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "9355973097917"
     },
     {
       "brand": "Philips",
@@ -271,7 +274,8 @@
       },
       "low_price": 411.0,
       "prev_price": 411.0,
-      "prev_date": "2026-10-25"
+      "prev_date": "2026-10-25",
+      "ph_ean": "8720389044946"
     },
     {
       "brand": "De'Longhi",
@@ -337,7 +341,8 @@
       },
       "low_price": 322.19,
       "prev_price": 375.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8004399021921"
     },
     {
       "brand": "Sage",
@@ -399,7 +404,8 @@
       },
       "low_price": 262.27,
       "prev_price": 269.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "9355973001631"
     },
     {
       "brand": "De'Longhi",
@@ -465,7 +471,8 @@
       },
       "low_price": 132.66,
       "prev_price": 154.0,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8004399331198"
     },
     {
       "brand": "Gaggia",
@@ -527,7 +534,8 @@
       },
       "low_price": 162.2,
       "prev_price": 171.19,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "8720389030635"
     },
     {
       "brand": "De'Longhi",
@@ -589,7 +597,8 @@
       },
       "low_price": 105.0,
       "prev_price": 106.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "8004399334571"
     },
     {
       "brand": "Krups",
@@ -651,7 +660,8 @@
       },
       "low_price": 87.55,
       "prev_price": 102.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "3016661177897"
     }
   ],
   "guide": [

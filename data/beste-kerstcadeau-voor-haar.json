@@ -65,7 +65,8 @@
       "low_price": 154.0,
       "synced": "2026-11-11",
       "prev_price": 155.83,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5060569866320"
     },
     {
       "brand": "LEGO",
@@ -111,7 +112,8 @@
       "low_price": 36.99,
       "synced": "2026-11-11",
       "prev_price": 40.99,
-      "prev_date": "2026-11-03"
+      "prev_date": "2026-11-03",
+      "ph_ean": "5702017224336"
     },
     {
       "brand": "Garmin",
@@ -157,7 +159,8 @@
       "low_price": 252.0,
       "synced": "2026-11-11",
       "prev_price": 257.0,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "0753759342814"
     },
     {
       "brand": "Kobo",
@@ -201,7 +204,8 @@
         "2026-11-11": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0681495009558"
     },
     {
       "brand": "Marshall",
@@ -247,7 +251,8 @@
       "low_price": 130.68,
       "synced": "2026-11-11",
       "prev_price": 135.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "7340055402255"
     },
     {
       "brand": "Philips",
@@ -293,7 +298,8 @@
       "low_price": 124.99,
       "synced": "2026-11-11",
       "prev_price": 133.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8710103945338"
     },
     {
       "brand": "Therabody",
@@ -337,7 +343,8 @@
         "2026-11-11": 129.0
       },
       "low_price": 129.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0840295410081"
     },
     {
       "brand": "Fujifilm",
@@ -383,7 +390,8 @@
       "low_price": 92.0,
       "synced": "2026-11-11",
       "prev_price": 92.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4547410545180"
     },
     {
       "brand": "Beurer",
@@ -429,7 +437,8 @@
       "low_price": 36.99,
       "synced": "2026-11-11",
       "prev_price": 36.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4211125424008"
     },
     {
       "brand": "Apple",
@@ -473,7 +482,8 @@
         "2026-11-11": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0195950667363"
     }
   ],
   "guide": [

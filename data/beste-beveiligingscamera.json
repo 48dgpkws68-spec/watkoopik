@@ -82,7 +82,8 @@
       },
       "low_price": 99.0,
       "prev_price": 124.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "0194644299217"
     },
     {
       "brand": "Tapo",
@@ -147,7 +148,8 @@
       },
       "low_price": 29.9,
       "prev_price": 32.2,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4895252500936"
     },
     {
       "brand": "Google",
@@ -212,7 +214,8 @@
       },
       "low_price": 199.0,
       "prev_price": 199.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "0193575011080"
     },
     {
       "brand": "Reolink",
@@ -277,7 +280,8 @@
       },
       "low_price": 103.99,
       "prev_price": 129.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "6978285031979"
     },
     {
       "brand": "Tapo",
@@ -342,7 +346,8 @@
       },
       "low_price": 74.0,
       "prev_price": 78.59,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "1210002602679"
     },
     {
       "brand": "eufy",
@@ -407,7 +412,8 @@
       },
       "low_price": 99.99,
       "prev_price": 108.0,
-      "prev_date": "2026-10-21"
+      "prev_date": "2026-10-21",
+      "ph_ean": "0194644126384"
     },
     {
       "brand": "Reolink",
@@ -472,7 +478,8 @@
       },
       "low_price": 95.99,
       "prev_price": 119.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "6976930226565"
     },
     {
       "brand": "Ring",
@@ -537,7 +544,8 @@
       },
       "low_price": 39.99,
       "prev_price": 75.99,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0840414644090"
     },
     {
       "brand": "Google",
@@ -602,7 +610,8 @@
       },
       "low_price": 116.99,
       "prev_price": 116.99,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "0193575008172"
     },
     {
       "brand": "EZVIZ",
@@ -667,7 +676,8 @@
       },
       "low_price": 82.0,
       "prev_price": 87.5,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "6941545631301"
     }
   ],
   "guide": [

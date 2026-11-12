@@ -78,7 +78,8 @@
       },
       "low_price": 95.0,
       "prev_price": 107.5,
-      "prev_date": "2026-10-29"
+      "prev_date": "2026-10-29",
+      "ph_ean": "4053423242836"
     },
     {
       "brand": "Bosch",
@@ -139,7 +140,8 @@
       },
       "low_price": 155.92,
       "prev_price": 160.28,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4053423239829"
     },
     {
       "brand": "Makita",
@@ -204,7 +206,8 @@
       },
       "low_price": 159.87,
       "prev_price": 159.87,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0088381872577"
     },
     {
       "brand": "VONROC",
@@ -263,7 +266,8 @@
         "2026-11-10": 64.95,
         "2026-11-11": 64.95
       },
-      "low_price": 64.95
+      "low_price": 64.95,
+      "ph_ean": "8717479113231"
     },
     {
       "brand": "Bosch",
@@ -323,7 +327,8 @@
       },
       "low_price": 114.95,
       "prev_price": 135.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4053423230819"
     },
     {
       "brand": "Ryobi",
@@ -388,7 +393,8 @@
       },
       "low_price": 113.0,
       "prev_price": 113.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4892210148643"
     },
     {
       "brand": "Metabo",
@@ -448,7 +454,8 @@
       },
       "low_price": 101.0,
       "prev_price": 101.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4061792188242"
     },
     {
       "brand": "Makita",
@@ -490,7 +497,8 @@
       "low_price": 131.0,
       "synced": "2026-11-11",
       "prev_price": 131.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0088381872973"
     },
     {
       "brand": "Black+Decker",
@@ -550,7 +558,8 @@
       },
       "low_price": 78.07,
       "prev_price": 78.07,
-      "prev_date": "2026-10-31"
+      "prev_date": "2026-10-31",
+      "ph_ean": "5035048653708"
     },
     {
       "brand": "Einhell",
@@ -609,7 +618,8 @@
         "2026-11-10": 79.99,
         "2026-11-11": 79.99
       },
-      "low_price": 79.99
+      "low_price": 79.99,
+      "ph_ean": "4006825628685"
     }
   ],
   "guide": [

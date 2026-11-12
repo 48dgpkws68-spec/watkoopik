@@ -57,7 +57,8 @@
         "2026-11-11": 81.89
       },
       "low_price": 81.89,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4547410489101"
     },
     {
       "brand": "Beurer",
@@ -106,7 +107,8 @@
       "low_price": 77.85,
       "synced": "2026-11-11",
       "prev_price": 89.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4211125200749"
     },
     {
       "brand": "BaByliss",
@@ -155,7 +157,8 @@
       "low_price": 62.49,
       "synced": "2026-11-11",
       "prev_price": 64.9,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "3030050153828"
     },
     {
       "brand": "Lancôme",
@@ -204,7 +207,8 @@
       "low_price": 80.75,
       "synced": "2026-11-11",
       "prev_price": 105.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "3614270823886"
     },
     {
       "brand": "FOREO",
@@ -251,7 +255,8 @@
         "2026-11-11": 94.99
       },
       "low_price": 94.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "7350120791306"
     },
     {
       "brand": "Samsung",
@@ -300,7 +305,8 @@
       "low_price": 85.49,
       "synced": "2026-11-11",
       "prev_price": 93.99,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8806097621041"
     },
     {
       "brand": "Krups",
@@ -349,7 +355,8 @@
       "low_price": 60.12,
       "synced": "2026-11-11",
       "prev_price": 74.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "3045380022010"
     },
     {
       "brand": "Xiaomi",
@@ -398,7 +405,8 @@
       "low_price": 77.98,
       "synced": "2026-11-11",
       "prev_price": 77.98,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "6932554487591"
     },
     {
       "brand": "Fossil",
@@ -447,7 +455,8 @@
       "low_price": 74.99,
       "synced": "2026-11-11",
       "prev_price": 84.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "4064092385199"
     },
     {
       "brand": "Rituals",
@@ -494,7 +503,8 @@
         "2026-11-11": 56.0
       },
       "low_price": 56.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8719134100167"
     }
   ],
   "guide": [

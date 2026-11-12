@@ -82,7 +82,8 @@
       },
       "low_price": 854.0,
       "prev_price": 899.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8719689982454"
     },
     {
       "brand": "VirtuFit",
@@ -146,7 +147,8 @@
       },
       "low_price": 521.0,
       "prev_price": 549.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8719325758603"
     },
     {
       "brand": "Flow Fitness",
@@ -199,7 +201,8 @@
         "2026-11-11": 1999.0
       },
       "low_price": 1999.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8718591682230"
     },
     {
       "brand": "Focus Fitness",
@@ -252,7 +255,8 @@
         "2026-11-11": 1149.0
       },
       "low_price": 1149.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8718627090534"
     },
     {
       "brand": "KingSmith",
@@ -314,7 +318,8 @@
         "2026-11-10": 899.0,
         "2026-11-11": 899.0
       },
-      "low_price": 899.0
+      "low_price": 899.0,
+      "ph_ean": "8719925050213"
     },
     {
       "brand": "Flow Fitness",
@@ -344,16 +349,6 @@
       "text": "De Runner DTM400i is de instap-hardloopband van Flow Fitness. Hij haalt 14 km/u, genoeg voor rustig hardlopen en stevig wandelen. De elektrische helling gaat tot 12 procent, waarmee je flink bergop kunt wandelen. Dat is een populaire training omdat je veel energie verbruikt zonder te rennen.\n\nDe band is compact en inklapbaar, zodat hij ook in een appartement past. Via Bluetooth werkt hij met FitShow en andere apps. Kopers op bol zijn tevreden over de stille werking en de stevigheid. Voor snelle hardlopers is 14 km/u te weinig. Vergeleken met VirtuFit betaal je meer voor vergelijkbare specificaties, maar je krijgt de service van Flow Fitness erbij. Wil je vooral wandelen met helling en af en toe joggen, dan is dit een degelijke keuze die jaren meegaat. Het display is overzichtelijk en de bediening op het stuur is logisch.",
       "ean": "8721531102521",
       "ph": {
-        "2026-10-15": 899.0,
-        "2026-10-16": 899.0,
-        "2026-10-17": 899.0,
-        "2026-10-18": 899.0,
-        "2026-10-19": 899.0,
-        "2026-10-20": 899.0,
-        "2026-10-21": 899.0,
-        "2026-10-23": 899.0,
-        "2026-10-24": 899.0,
-        "2026-10-25": 899.0,
         "2026-10-26": 899.0,
         "2026-10-27": 899.0,
         "2026-10-28": 899.0,
@@ -372,11 +367,12 @@
         "2026-11-10": 899.0,
         "2026-11-11": 899.0
       },
-      "low_price": 899.0,
       "bol_title": "Flow Fitness Runner DTM400i Loopband (2026 editie) - Inklapbaar - 14 km/u - Elektrische Helling 12% - Bluetooth & FitShow - 99% Voorgemonteerd",
       "url": "https://www.bol.com/nl/nl/p/flow-fitness-loopband-dtm400i/9300000370082130/",
       "image": "https://media.s-bol.com/K3MnxN6vppXr/lRlmlw7/550x534.jpg",
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "low_price": 899.0,
+      "ph_ean": "8721531102521"
     },
     {
       "brand": "KingSmith",
@@ -438,7 +434,8 @@
         "2026-11-10": 749.0,
         "2026-11-11": 749.0
       },
-      "low_price": 749.0
+      "low_price": 749.0,
+      "ph_ean": "6970492710517"
     },
     {
       "brand": "Moov",
@@ -500,7 +497,8 @@
         "2026-11-10": 399.0,
         "2026-11-11": 399.0
       },
-      "low_price": 399.0
+      "low_price": 399.0,
+      "ph_ean": "8720892912725"
     },
     {
       "brand": "VirtuFit",
@@ -564,7 +562,8 @@
       },
       "low_price": 284.0,
       "prev_price": 299.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8719743573567"
     },
     {
       "brand": "TibaGoods",
@@ -628,7 +627,8 @@
       },
       "low_price": 179.99,
       "prev_price": 179.99,
-      "prev_date": "2026-10-19"
+      "prev_date": "2026-10-19",
+      "ph_ean": "8721161060925"
     }
   ],
   "guide": [

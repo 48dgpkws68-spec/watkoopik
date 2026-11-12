@@ -78,7 +78,8 @@
       },
       "low_price": 729.0,
       "prev_price": 749.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4711636346269"
     },
     {
       "brand": "Acer",
@@ -139,7 +140,8 @@
       },
       "low_price": 349.0,
       "prev_price": 479.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4711721015575"
     },
     {
       "brand": "Apple",
@@ -203,7 +205,8 @@
       },
       "low_price": 1599.0,
       "prev_price": 1599.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0195950695694"
     },
     {
       "brand": "Apple",
@@ -246,7 +249,8 @@
         "2026-11-11": 1229.99
       },
       "low_price": 1229.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0195949837210"
     },
     {
       "brand": "Lenovo",
@@ -310,7 +314,8 @@
       },
       "low_price": 599.0,
       "prev_price": 679.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "0199275372988"
     },
     {
       "brand": "HP",
@@ -367,7 +372,8 @@
       },
       "low_price": 599.0,
       "prev_price": 599.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "0199485856599"
     },
     {
       "brand": "Acer",
@@ -428,7 +434,8 @@
       },
       "low_price": 699.0,
       "prev_price": 949.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4711721015308"
     },
     {
       "brand": "Acer",
@@ -489,7 +496,8 @@
       },
       "low_price": 599.0,
       "prev_price": 649.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "4711721015735"
     },
     {
       "brand": "HP",
@@ -546,7 +554,8 @@
       },
       "low_price": 729.0,
       "prev_price": 789.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "0199764730916"
     },
     {
       "brand": "Acer",
@@ -607,7 +616,8 @@
       },
       "low_price": 279.0,
       "prev_price": 359.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4711721015513"
     }
   ],
   "guide": [

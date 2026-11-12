@@ -82,7 +82,8 @@
         "2026-11-10": 399.0,
         "2026-11-11": 399.0
       },
-      "low_price": 399.0
+      "low_price": 399.0,
+      "ph_ean": "5025155113219"
     },
     {
       "brand": "Philips",
@@ -148,7 +149,8 @@
       },
       "low_price": 89.95,
       "prev_price": 93.99,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "8720689027236"
     },
     {
       "brand": "ghd",
@@ -216,7 +218,8 @@
       },
       "low_price": 159.0,
       "prev_price": 159.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "5056668000024"
     },
     {
       "brand": "Remington",
@@ -284,7 +287,8 @@
       },
       "low_price": 28.6,
       "prev_price": 29.97,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4008496790968"
     },
     {
       "brand": "BaByliss",
@@ -348,7 +352,8 @@
         "2026-11-10": 89.9,
         "2026-11-11": 89.9
       },
-      "low_price": 89.9
+      "low_price": 89.9,
+      "ph_ean": "3030050205992"
     },
     {
       "brand": "Shark",
@@ -414,7 +419,8 @@
       },
       "low_price": 171.91,
       "prev_price": 186.0,
-      "prev_date": "2026-10-27"
+      "prev_date": "2026-10-27",
+      "ph_ean": "0622356311939"
     },
     {
       "brand": "Rowenta",
@@ -467,7 +473,8 @@
       "low_price": 44.99,
       "synced": "2026-11-11",
       "prev_price": 64.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3121040090961"
     },
     {
       "brand": "Rowenta",
@@ -532,7 +539,8 @@
       },
       "low_price": 17.39,
       "prev_price": 17.39,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3121040078112"
     },
     {
       "brand": "Parlux",
@@ -600,7 +608,8 @@
       },
       "low_price": 126.62,
       "prev_price": 148.3,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8021233132018"
     },
     {
       "brand": "Philips",
@@ -646,7 +655,8 @@
       "low_price": 49.35,
       "synced": "2026-11-11",
       "prev_price": 49.35,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8710103948834"
     }
   ],
   "guide": [

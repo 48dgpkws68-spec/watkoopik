@@ -82,7 +82,8 @@
       },
       "low_price": 75.04,
       "prev_price": 75.13,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4054278792026"
     },
     {
       "brand": "Kärcher",
@@ -146,7 +147,8 @@
         "2026-11-10": 81.18,
         "2026-11-11": 81.18
       },
-      "low_price": 81.18
+      "low_price": 81.18,
+      "ph_ean": "4054278976471"
     },
     {
       "brand": "Kärcher",
@@ -212,7 +214,8 @@
       },
       "low_price": 115.0,
       "prev_price": 119.0,
-      "prev_date": "2026-10-20"
+      "prev_date": "2026-10-20",
+      "ph_ean": "4066529187574"
     },
     {
       "brand": "Kärcher",
@@ -269,7 +272,8 @@
       },
       "low_price": 47.99,
       "prev_price": 47.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4054278977720"
     },
     {
       "brand": "Leifheit",
@@ -335,7 +339,8 @@
       },
       "low_price": 47.79,
       "prev_price": 47.79,
-      "prev_date": "2026-10-25"
+      "prev_date": "2026-10-25",
+      "ph_ean": "4006501510167"
     },
     {
       "brand": "Bosch",
@@ -401,7 +406,8 @@
       },
       "low_price": 66.95,
       "prev_price": 66.95,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "3165140920148"
     },
     {
       "brand": "Tomado",
@@ -467,7 +473,8 @@
       },
       "low_price": 26.99,
       "prev_price": 29.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8712876500233"
     },
     {
       "brand": "Leifheit",
@@ -533,7 +540,8 @@
       },
       "low_price": 63.68,
       "prev_price": 69.61,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "4006501510426"
     },
     {
       "brand": "Kärcher",
@@ -600,7 +608,8 @@
       },
       "low_price": 42.77,
       "prev_price": 44.09,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4054278514963"
     },
     {
       "brand": "Ecovacs",
@@ -655,7 +664,8 @@
       "low_price": 149.0,
       "synced": "2026-11-11",
       "prev_price": 179.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "6970135035120"
     }
   ],
   "guide": [

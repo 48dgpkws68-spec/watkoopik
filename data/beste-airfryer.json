@@ -84,7 +84,8 @@
       },
       "low_price": 193.0,
       "prev_price": 199.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720389047558"
     },
     {
       "brand": "Cosori",
@@ -142,7 +143,8 @@
       },
       "low_price": 108.0,
       "prev_price": 119.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "0810123670109"
     },
     {
       "brand": "Ninja",
@@ -210,7 +212,8 @@
       },
       "low_price": 179.0,
       "prev_price": 179.0,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "0622356270373"
     },
     {
       "brand": "Ninja",
@@ -253,7 +256,8 @@
       "low_price": 156.6,
       "synced": "2026-11-11",
       "prev_price": 158.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0622356320450"
     },
     {
       "brand": "Tefal",
@@ -321,7 +325,8 @@
       },
       "low_price": 123.0,
       "prev_price": 138.99,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "3045380024533"
     },
     {
       "brand": "Philips",
@@ -387,7 +392,8 @@
       },
       "low_price": 108.89,
       "prev_price": 125.99,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "8720389034671"
     },
     {
       "brand": "Instant",
@@ -455,7 +461,8 @@
       },
       "low_price": 77.99,
       "prev_price": 77.99,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "0810102267603"
     },
     {
       "brand": "Xiaomi",
@@ -523,7 +530,8 @@
       },
       "low_price": 54.99,
       "prev_price": 54.99,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "6941812729311"
     },
     {
       "brand": "Princess",
@@ -578,7 +586,8 @@
       "low_price": 40.99,
       "synced": "2026-11-11",
       "prev_price": 54.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8713016099549"
     },
     {
       "brand": "Tefal",
@@ -642,7 +651,8 @@
         "2026-11-10": 202.37,
         "2026-11-11": 202.37
       },
-      "low_price": 202.37
+      "low_price": 202.37,
+      "ph_ean": "3045380027862"
     }
   ],
   "guide": [

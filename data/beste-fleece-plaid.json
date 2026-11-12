@@ -65,7 +65,8 @@
         "2026-11-11": 26.99
       },
       "low_price": 26.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4255684903581"
     },
     {
       "brand": "Atmosphera",
@@ -113,7 +114,8 @@
       "low_price": 19.5,
       "synced": "2026-11-11",
       "prev_price": 19.91,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "3560231091903"
     },
     {
       "brand": "Beautissu",
@@ -156,7 +158,8 @@
         "2026-11-11": 31.99
       },
       "low_price": 31.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4054673411829"
     },
     {
       "brand": "Heckett & Lane",
@@ -201,7 +204,8 @@
         "2026-11-11": 35.0
       },
       "low_price": 35.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8718518132312"
     },
     {
       "brand": "Ceruzo",
@@ -248,7 +252,8 @@
       "low_price": 21.85,
       "synced": "2026-11-11",
       "prev_price": 24.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8719001873385"
     },
     {
       "brand": "Unique Living",
@@ -295,7 +300,8 @@
       "low_price": 25.8,
       "synced": "2026-11-11",
       "prev_price": 31.31,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8714503190749"
     },
     {
       "brand": "Dutch Decor",
@@ -342,7 +348,8 @@
       "low_price": 29.99,
       "synced": "2026-11-11",
       "prev_price": 29.99,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8720367921825"
     },
     {
       "brand": "Nice Dreams",
@@ -382,7 +389,8 @@
         "2026-11-11": 34.95
       },
       "low_price": 34.95,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8719425809564"
     },
     {
       "brand": "LINNICK",
@@ -429,7 +437,8 @@
       "low_price": 23.0,
       "synced": "2026-11-11",
       "prev_price": 23.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8719727207716"
     },
     {
       "brand": "Blumtal",
@@ -476,7 +485,8 @@
       "low_price": 12.5,
       "synced": "2026-11-11",
       "prev_price": 12.5,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "4260674513497"
     }
   ],
   "guide": [

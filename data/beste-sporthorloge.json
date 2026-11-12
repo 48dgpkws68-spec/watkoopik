@@ -82,7 +82,8 @@
       },
       "low_price": 329.0,
       "prev_price": 349.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "0753759313715"
     },
     {
       "brand": "Garmin",
@@ -149,7 +150,8 @@
       },
       "low_price": 625.0,
       "prev_price": 629.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "0753759338060"
     },
     {
       "brand": "COROS",
@@ -211,7 +213,8 @@
         "2026-11-10": 269.0,
         "2026-11-11": 269.0
       },
-      "low_price": 269.0
+      "low_price": 269.0,
+      "ph_ean": "0810005785013"
     },
     {
       "brand": "Garmin",
@@ -275,7 +278,8 @@
       },
       "low_price": 179.0,
       "prev_price": 207.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "0753759326593"
     },
     {
       "brand": "Garmin",
@@ -339,7 +343,8 @@
       },
       "low_price": 399.0,
       "prev_price": 429.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "0753759342869"
     },
     {
       "brand": "Polar",
@@ -403,7 +408,8 @@
       },
       "low_price": 299.0,
       "prev_price": 315.95,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "0725882066752"
     },
     {
       "brand": "Garmin",
@@ -467,7 +473,8 @@
       },
       "low_price": 176.99,
       "prev_price": 192.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0753759324902"
     },
     {
       "brand": "Polar",
@@ -508,7 +515,8 @@
       "low_price": 164.91,
       "synced": "2026-11-11",
       "prev_price": 164.91,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0725882060453"
     },
     {
       "brand": "Garmin",
@@ -572,7 +580,8 @@
       },
       "low_price": 149.0,
       "prev_price": 159.99,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "0753759279639"
     },
     {
       "brand": "Polar",
@@ -636,7 +645,8 @@
       },
       "low_price": 121.0,
       "prev_price": 121.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0725882058139"
     }
   ],
   "guide": [

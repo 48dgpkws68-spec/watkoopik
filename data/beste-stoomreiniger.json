@@ -62,7 +62,8 @@
       "low_price": 189.0,
       "synced": "2026-11-11",
       "prev_price": 222.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4054278991818"
     },
     {
       "brand": "Kärcher",
@@ -128,7 +129,8 @@
       },
       "low_price": 146.99,
       "prev_price": 166.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "4054278975139"
     },
     {
       "brand": "Kärcher",
@@ -194,7 +196,8 @@
       },
       "low_price": 369.0,
       "prev_price": 399.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4066529060365"
     },
     {
       "brand": "Kärcher",
@@ -244,7 +247,8 @@
       "low_price": 109.25,
       "synced": "2026-11-11",
       "prev_price": 122.0,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "4054278975122"
     },
     {
       "brand": "Polti",
@@ -286,7 +290,8 @@
         "2026-11-11": 112.64
       },
       "low_price": 112.64,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8007411011856"
     },
     {
       "brand": "Black+Decker",
@@ -351,7 +356,8 @@
       },
       "low_price": 129.0,
       "prev_price": 130.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "5035048737804"
     },
     {
       "brand": "Kärcher",
@@ -416,7 +422,8 @@
       },
       "low_price": 96.0,
       "prev_price": 96.0,
-      "prev_date": "2026-10-29"
+      "prev_date": "2026-10-29",
+      "ph_ean": "4054278975733"
     },
     {
       "brand": "Polti",
@@ -481,7 +488,8 @@
       },
       "low_price": 120.22,
       "prev_price": 123.25,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8007411013232"
     },
     {
       "brand": "Polti",
@@ -546,7 +554,8 @@
       },
       "low_price": 95.78,
       "prev_price": 121.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8007411012600"
     },
     {
       "brand": "Vileda",
@@ -611,7 +620,8 @@
       },
       "low_price": 68.3,
       "prev_price": 68.99,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4023103229716"
     }
   ],
   "guide": [

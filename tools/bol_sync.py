@@ -75,6 +75,8 @@ def record_price(p, new):
     prev_price = vorige gemeten prijs als die afwijkt, low_price = laagste bekende, ph = dagprijzen laatste 60 dagen."""
     measured = bool(p.get("synced"))  # oude prijs telt alleen als die eerder door deze sync gemeten is
     old = p.get("price")
+    ean = str(p.get("ean") or "")
+    if measured and p.get("ph_ean") and ean != p["ph_ean"]: measured = False  # EAN gewisseld terwijl synced bleef staan (12 nov 2026): ook dan opnieuw beginnen
     if not measured:  # vervangen product of andere variant (synced weggehaald): geschiedenis hoort bij de oude EAN, anders ontstaan nepdeals
         for k in ("ph", "prev_price", "prev_date", "low_price"): p.pop(k, None)
     ph = p.get("ph") or {}
@@ -86,6 +88,7 @@ def record_price(p, new):
         p["prev_price"] = old; p["prev_date"] = p["synced"]
     p["low_price"] = min([new] + ([p["low_price"]] if p.get("low_price") else []) + list(p["ph"].values()))
     p["price"] = new
+    if ean: p["ph_ean"] = ean  # bij welke EAN de geschiedenis hoort
 
 def main():
     tok = token(); t0 = time.time(); done = skipped = miss = 0

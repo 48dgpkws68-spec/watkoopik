@@ -74,7 +74,8 @@
       },
       "low_price": 217.0,
       "prev_price": 219.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8716164989021"
     },
     {
       "brand": "Aigostar",
@@ -134,7 +135,8 @@
       },
       "low_price": 104.49,
       "prev_price": 109.99,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8433325503055"
     },
     {
       "brand": "Mill",
@@ -165,11 +167,6 @@
       "text": "Mill is een Noors merk dat zich volledig richt op elektrische verwarming en dat merk je aan deze OIL2000WIFI3. Het is een olieradiator van 2000 watt die volgens de fabrikant een ruimte tot ongeveer 28 vierkante meter aankan. De behuizing is strak en heeft dunne ribben, waardoor hij er moderner uitziet dan de meeste concurrenten.\n\nDe kracht zit in de software. De elektronische thermostaat houdt de temperatuur binnen een halve graad stabiel, wat zuiniger is dan een mechanische knop die steeds over- en onderschiet. In de Mill-app maak je een weekprogramma per kamer en zie je wat de radiator verbruikt. Heb je meerdere Mill-apparaten, dan regel je ze samen. Kopers op bol geven hem gemiddeld een 4,0 en noemen de app soms wat lastig bij de eerste installatie. Wie dat overwint, heeft de meest verfijnde olieradiator die je nu bij bol kunt kopen.",
       "ean": "7090019824868",
       "ph": {
-        "2026-10-20": 284.99,
-        "2026-10-21": 284.99,
-        "2026-10-23": 284.99,
-        "2026-10-24": 284.99,
-        "2026-10-25": 284.99,
         "2026-10-26": 309.0,
         "2026-10-27": 309.0,
         "2026-10-28": 309.0,
@@ -188,13 +185,14 @@
         "2026-11-10": 345.0,
         "2026-11-11": 309.0
       },
-      "low_price": 284.99,
       "bol_title": "Mill Gentle Air OIL2000WIFI3 Olieradiator 2000W – Tot 34 m² – Energie-efficiënt & Stil – Bediening via App – Noors Design – 5 Jaar Garantie",
       "url": "https://www.bol.com/nl/nl/p/mill-oil2000wifi3-black-wifi-geintegreerde-design-olieradiator-2000-watt-tot-34m2-droogt-de-lucht-niet-uit-zwart/9300000177456421/",
       "image": "https://media.s-bol.com/3gRk3DlnvK0O/gJNMEJD/550x683.jpg",
       "synced": "2026-11-11",
+      "low_price": 305.0,
       "prev_price": 345.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "7090019824868"
     },
     {
       "brand": "De'Longhi",
@@ -240,7 +238,8 @@
       "low_price": 131.97,
       "synced": "2026-11-11",
       "prev_price": 137.95,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8004399027299"
     },
     {
       "brand": "Mill",
@@ -300,7 +299,8 @@
       },
       "low_price": 226.71,
       "prev_price": 229.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "7090019821539"
     },
     {
       "brand": "Aigostar",
@@ -346,7 +346,8 @@
         "2026-11-11": 139.99
       },
       "low_price": 139.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8433325504267"
     },
     {
       "brand": "Auronic",
@@ -405,7 +406,8 @@
       },
       "low_price": 114.99,
       "prev_price": 169.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8721055567417"
     },
     {
       "brand": "Heinner",
@@ -465,7 +467,8 @@
       },
       "low_price": 83.35,
       "prev_price": 85.49,
-      "prev_date": "2026-10-31"
+      "prev_date": "2026-10-31",
+      "ph_ean": "5949494044655"
     },
     {
       "brand": "Heinner",
@@ -527,7 +530,8 @@
         "2026-11-10": 64.99,
         "2026-11-11": 64.99
       },
-      "low_price": 64.99
+      "low_price": 64.99,
+      "ph_ean": "5949494044648"
     },
     {
       "brand": "Tristar",
@@ -586,7 +590,8 @@
       },
       "low_price": 34.99,
       "prev_price": 37.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8713016051035"
     }
   ],
   "guide": [

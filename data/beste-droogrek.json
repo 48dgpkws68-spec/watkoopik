@@ -81,7 +81,8 @@
       },
       "low_price": 40.19,
       "prev_price": 50.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4006501815200"
     },
     {
       "brand": "Leifheit",
@@ -145,7 +146,8 @@
       },
       "low_price": 35.97,
       "prev_price": 38.49,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4006501814722"
     },
     {
       "brand": "Vileda",
@@ -210,7 +212,8 @@
       },
       "low_price": 55.29,
       "prev_price": 69.95,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4023103229662"
     },
     {
       "brand": "Brabantia",
@@ -275,7 +278,8 @@
       },
       "low_price": 54.99,
       "prev_price": 77.5,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8710755413407"
     },
     {
       "brand": "Leifheit",
@@ -330,7 +334,8 @@
       },
       "low_price": 50.79,
       "prev_price": 69.99,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4006501815293"
     },
     {
       "brand": "Vileda",
@@ -394,7 +399,8 @@
       },
       "low_price": 36.89,
       "prev_price": 56.69,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4023103202030"
     },
     {
       "brand": "Brabantia",
@@ -458,7 +464,8 @@
       },
       "low_price": 63.99,
       "prev_price": 79.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8710755319303"
     },
     {
       "brand": "Vileda",
@@ -522,7 +529,8 @@
       },
       "low_price": 38.19,
       "prev_price": 52.94,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4023103244009"
     },
     {
       "brand": "Tomado",
@@ -575,7 +583,8 @@
         "2026-11-10": 22.24,
         "2026-11-11": 22.24
       },
-      "low_price": 22.24
+      "low_price": 22.24,
+      "ph_ean": "8002524075023"
     },
     {
       "brand": "Dirt Devil",
@@ -639,7 +648,8 @@
       },
       "low_price": 139.99,
       "prev_price": 160.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8711252243030"
     }
   ],
   "guide": [

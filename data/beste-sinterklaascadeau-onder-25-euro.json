@@ -75,7 +75,8 @@
       },
       "low_price": 22.99,
       "prev_price": 24.99,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "5702017814643"
     },
     {
       "brand": "Exploding Kittens",
@@ -130,7 +131,8 @@
       },
       "low_price": 18.89,
       "prev_price": 18.89,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0810083040387"
     },
     {
       "brand": "Bialetti",
@@ -167,7 +169,8 @@
         "2026-11-11": 23.95
       },
       "low_price": 23.95,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8006363011686"
     },
     {
       "brand": "Rituals",
@@ -222,7 +225,8 @@
       },
       "low_price": 16.0,
       "prev_price": 16.89,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "8719134210972"
     },
     {
       "brand": "Komfortec",
@@ -275,7 +279,8 @@
         "2026-11-10": 21.99,
         "2026-11-11": 21.99
       },
-      "low_price": 21.99
+      "low_price": 21.99,
+      "ph_ean": "4255684900252"
     },
     {
       "brand": "Yankee Candle",
@@ -330,7 +335,8 @@
       },
       "low_price": 23.03,
       "prev_price": 24.4,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5038581028903"
     },
     {
       "brand": "999 Games",
@@ -385,7 +391,8 @@
       },
       "low_price": 13.99,
       "prev_price": 13.99,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "8720289471064"
     },
     {
       "brand": "Studio ME",
@@ -440,7 +447,8 @@
       },
       "low_price": 19.99,
       "prev_price": 22.99,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8720254782447"
     },
     {
       "brand": "Contigo",
@@ -491,7 +499,8 @@
         "2026-11-11": 24.99
       },
       "low_price": 24.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0840276159916"
     },
     {
       "brand": "Murdoku",
@@ -544,7 +553,8 @@
         "2026-11-10": 19.99,
         "2026-11-11": 19.99
       },
-      "low_price": 19.99
+      "low_price": 19.99,
+      "ph_ean": "9789059965607"
     }
   ],
   "guide": [

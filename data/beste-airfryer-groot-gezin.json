@@ -63,7 +63,8 @@
       "low_price": 225.0,
       "synced": "2026-11-11",
       "prev_price": 225.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0622356245272"
     },
     {
       "brand": "Ninja",
@@ -99,7 +100,8 @@
         "2026-11-11": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0622356280822"
     },
     {
       "brand": "Ninja",
@@ -165,7 +167,8 @@
       },
       "low_price": 179.0,
       "prev_price": 179.0,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "0622356270373"
     },
     {
       "brand": "Philips",
@@ -227,7 +230,8 @@
       },
       "low_price": 186.0,
       "prev_price": 189.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8720389047459"
     },
     {
       "brand": "Philips",
@@ -289,7 +293,8 @@
       },
       "low_price": 137.99,
       "prev_price": 140.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720389033025"
     },
     {
       "brand": "Tefal",
@@ -337,7 +342,8 @@
       "low_price": 129.99,
       "synced": "2026-11-11",
       "prev_price": 145.73,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "3045380026674"
     },
     {
       "brand": "Tristar",
@@ -399,7 +405,8 @@
       },
       "low_price": 59.99,
       "prev_price": 79.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8711658525983"
     },
     {
       "brand": "Cosori",
@@ -461,7 +468,8 @@
       },
       "low_price": 213.53,
       "prev_price": 219.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0810123673285"
     },
     {
       "brand": "Seeger",
@@ -523,7 +531,8 @@
       },
       "low_price": 69.0,
       "prev_price": 69.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8712837885645"
     },
     {
       "brand": "Severin",
@@ -585,7 +594,8 @@
       },
       "low_price": 100.55,
       "prev_price": 100.55,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "4008146047176"
     }
   ],
   "guide": [

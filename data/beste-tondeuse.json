@@ -84,7 +84,8 @@
       },
       "low_price": 67.99,
       "prev_price": 76.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8710103701088"
     },
     {
       "label": "Beste prijs-kwaliteit",
@@ -132,7 +133,8 @@
         "2026-11-11": 59.99
       },
       "low_price": 59.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8710103897903"
     },
     {
       "brand": "Wahl",
@@ -200,7 +202,8 @@
       },
       "low_price": 203.3,
       "prev_price": 214.3,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0043917017426"
     },
     {
       "brand": "Philips",
@@ -266,7 +269,8 @@
       },
       "low_price": 22.99,
       "prev_price": 27.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8710103859673"
     },
     {
       "brand": "Braun",
@@ -305,7 +309,8 @@
         "2026-11-11": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4987176251046"
     },
     {
       "brand": "BaByliss",
@@ -371,7 +376,8 @@
       },
       "low_price": 68.99,
       "prev_price": 69.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "3030050165371"
     },
     {
       "brand": "Philips",
@@ -437,7 +443,8 @@
       },
       "low_price": 83.98,
       "prev_price": 87.92,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720689027298"
     },
     {
       "brand": "Remington",
@@ -505,7 +512,8 @@
       },
       "low_price": 67.7,
       "prev_price": 76.81,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5038061134148"
     },
     {
       "brand": "Panasonic",
@@ -563,7 +571,8 @@
       },
       "low_price": 172.15,
       "prev_price": 181.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "5025232922352"
     },
     {
       "brand": "Philips",
@@ -629,7 +638,8 @@
       },
       "low_price": 62.89,
       "prev_price": 78.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8720689021333"
     }
   ],
   "guide": [

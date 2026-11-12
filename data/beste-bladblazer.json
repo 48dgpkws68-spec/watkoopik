@@ -82,7 +82,8 @@
       },
       "low_price": 58.99,
       "prev_price": 58.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "0088381897938"
     },
     {
       "brand": "Gardena",
@@ -128,7 +129,8 @@
       "low_price": 132.0,
       "synced": "2026-11-11",
       "prev_price": 132.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4078500054324"
     },
     {
       "brand": "Bosch",
@@ -193,7 +195,8 @@
       },
       "low_price": 230.0,
       "prev_price": 234.0,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "4059952546995"
     },
     {
       "brand": "Einhell",
@@ -257,7 +260,8 @@
       },
       "low_price": 98.5,
       "prev_price": 98.5,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "4006825663631"
     },
     {
       "brand": "Ryobi",
@@ -321,7 +325,8 @@
       },
       "low_price": 54.49,
       "prev_price": 55.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4892210143488"
     },
     {
       "brand": "Bosch",
@@ -385,7 +390,8 @@
       },
       "low_price": 97.59,
       "prev_price": 109.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4059952553719"
     },
     {
       "brand": "BLACK+DECKER",
@@ -423,7 +429,8 @@
         "2026-11-11": 80.0
       },
       "low_price": 80.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "5035048640029"
     },
     {
       "brand": "VONROC",
@@ -487,7 +494,8 @@
       },
       "low_price": 34.95,
       "prev_price": 35.95,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "8717479081455"
     },
     {
       "brand": "Einhell",
@@ -549,7 +557,8 @@
         "2026-11-10": 82.99,
         "2026-11-11": 82.99
       },
-      "low_price": 82.99
+      "low_price": 82.99,
+      "ph_ean": "4006825679793"
     },
     {
       "brand": "Makita",
@@ -613,7 +622,8 @@
       },
       "low_price": 131.64,
       "prev_price": 137.03,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0088381887670"
     }
   ],
   "guide": [

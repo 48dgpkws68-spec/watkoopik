@@ -76,7 +76,8 @@
       },
       "low_price": 162.0,
       "prev_price": 162.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5707119065597"
     },
     {
       "brand": "HyperX",
@@ -135,7 +136,8 @@
       },
       "low_price": 57.9,
       "prev_price": 79.95,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0197029008220"
     },
     {
       "brand": "SteelSeries",
@@ -194,7 +196,8 @@
       },
       "low_price": 389.0,
       "prev_price": 389.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "5707119064866"
     },
     {
       "brand": "Logitech G",
@@ -253,7 +256,8 @@
       },
       "low_price": 154.0,
       "prev_price": 154.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "5099206109063"
     },
     {
       "brand": "Sony",
@@ -312,7 +316,8 @@
       },
       "low_price": 169.0,
       "prev_price": 184.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4548736170964"
     },
     {
       "brand": "Razer",
@@ -371,7 +376,8 @@
       },
       "low_price": 132.6,
       "prev_price": 144.99,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8887910060117"
     },
     {
       "brand": "HyperX",
@@ -430,7 +436,8 @@
       },
       "low_price": 109.0,
       "prev_price": 109.0,
-      "prev_date": "2026-10-21"
+      "prev_date": "2026-10-21",
+      "ph_ean": "0196188046036"
     },
     {
       "brand": "Corsair",
@@ -472,7 +479,8 @@
         "2026-11-11": 201.0
       },
       "low_price": 201.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0840006605836"
     },
     {
       "brand": "Turtle Beach",
@@ -503,10 +511,6 @@
       "text": "De Turtle Beach Stealth 600 Gen 3 is een betaalbare draadloze headset die vooral in de woonkamer bij de console thuishoort. Deze P-versie is bedoeld voor PlayStation, pc en Switch. Voor Xbox koop je de 600X. De accu houdt het tot 80 uur vol, een van de beste waarden in deze prijsklasse. Naast de 2.4 GHz-dongle heeft hij Bluetooth, zodat je ook naar muziek luistert of belt via je telefoon.\n\nDe 50 mm Eclipse-drivers geven een vol geluid met stevig laag. Met de app stel je een equalizer in en zet je presets aan, zoals een stand die voetstappen naar voren haalt. De microfoon klap je omhoog om hem te dempen. Die klinkt prima voor een potje met vrienden, maar wat dunner dan bij duurdere modellen. Kopers op bol geven hem gemiddeld 4,2 sterren. Voor onder de 100 euro krijg je veel draadloos gemak.",
       "ean": "0731855031030",
       "ph": {
-        "2026-10-21": 95.99,
-        "2026-10-23": 95.99,
-        "2026-10-24": 95.99,
-        "2026-10-25": 95.99,
         "2026-10-26": 96.99,
         "2026-10-27": 96.99,
         "2026-10-28": 96.99,
@@ -525,11 +529,12 @@
         "2026-11-10": 96.99,
         "2026-11-11": 96.99
       },
-      "low_price": 95.99,
       "bol_title": "Turtle Beach Stealth 600p Gen 3 – Draadloze Gaming Headset – PS5, PS4, PC & Switch – Wit",
       "url": "https://www.bol.com/nl/nl/p/turtle-beach-stealth-600p-gen3-draadloos-multiplatform-gaming-headset-wit/9300000178970619/",
       "image": "https://media.s-bol.com/3gpQ4mEEjozx/PNVjpgA/550x721.jpg",
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "low_price": 96.99,
+      "ph_ean": "0731855031030"
     },
     {
       "brand": "Razer",
@@ -588,7 +593,8 @@
       },
       "low_price": 41.99,
       "prev_price": 43.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8886419378396"
     }
   ],
   "guide": [

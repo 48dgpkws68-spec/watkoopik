@@ -82,7 +82,8 @@
       },
       "low_price": 94.99,
       "prev_price": 124.22,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0194644239350"
     },
     {
       "brand": "Belkin",
@@ -120,7 +121,8 @@
         "2026-11-11": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0745883932375"
     },
     {
       "brand": "Anker",
@@ -185,7 +187,8 @@
       },
       "low_price": 149.99,
       "prev_price": 159.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0194644239299"
     },
     {
       "brand": "Anker",
@@ -250,7 +253,8 @@
       },
       "low_price": 75.99,
       "prev_price": 79.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0194644288679"
     },
     {
       "brand": "UGREEN",
@@ -315,7 +319,8 @@
       },
       "low_price": 45.99,
       "prev_price": 52.99,
-      "prev_date": "2026-11-03"
+      "prev_date": "2026-11-03",
+      "ph_ean": "6941876269884"
     },
     {
       "brand": "EcoFlow",
@@ -371,7 +376,8 @@
       "low_price": 109.0,
       "synced": "2026-11-11",
       "prev_price": 109.0,
-      "prev_date": "2026-10-31"
+      "prev_date": "2026-10-31",
+      "ph_ean": "4895251641289"
     },
     {
       "brand": "Samsung",
@@ -436,7 +442,8 @@
       },
       "low_price": 33.8,
       "prev_price": 34.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8806095312187"
     },
     {
       "brand": "Anker",
@@ -501,7 +508,8 @@
       },
       "low_price": 49.99,
       "prev_price": 53.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0194644203467"
     },
     {
       "brand": "Xtorm",
@@ -566,7 +574,8 @@
       },
       "low_price": 43.99,
       "prev_price": 44.51,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8718182277593"
     },
     {
       "brand": "Anker",
@@ -631,7 +640,8 @@
       },
       "low_price": 27.29,
       "prev_price": 27.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0194644038403"
     }
   ],
   "guide": [

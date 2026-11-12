@@ -58,7 +58,8 @@
       "low_price": 199.99,
       "synced": "2026-11-11",
       "prev_price": 199.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8715946720579"
     },
     {
       "brand": "Canon",
@@ -123,7 +124,8 @@
       },
       "low_price": 67.95,
       "prev_price": 67.95,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4549292247985"
     },
     {
       "brand": "Epson",
@@ -188,7 +190,8 @@
       },
       "low_price": 529.0,
       "prev_price": 596.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8715946676708"
     },
     {
       "brand": "Brother",
@@ -253,7 +256,8 @@
       },
       "low_price": 174.85,
       "prev_price": 196.1,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "4977766831284"
     },
     {
       "brand": "HP",
@@ -318,7 +322,8 @@
       },
       "low_price": 264.32,
       "prev_price": 299.99,
-      "prev_date": "2026-11-04"
+      "prev_date": "2026-11-04",
+      "ph_ean": "0196786896095"
     },
     {
       "brand": "HP",
@@ -383,7 +388,8 @@
       },
       "low_price": 119.0,
       "prev_price": 119.95,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0194850664199"
     },
     {
       "brand": "HP",
@@ -430,7 +436,8 @@
       "low_price": 169.0,
       "synced": "2026-11-11",
       "prev_price": 169.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0198828752772"
     },
     {
       "brand": "Brother",
@@ -495,7 +502,8 @@
       },
       "low_price": 107.23,
       "prev_price": 120.97,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4977766831048"
     },
     {
       "brand": "Brother",
@@ -544,7 +552,8 @@
       "low_price": 144.57,
       "synced": "2026-11-11",
       "prev_price": 149.96,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4977766841924"
     },
     {
       "brand": "HP",
@@ -609,7 +618,8 @@
       },
       "low_price": 69.95,
       "prev_price": 87.9,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0197029817624"
     }
   ],
   "guide": [

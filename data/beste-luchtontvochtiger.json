@@ -82,7 +82,8 @@
       },
       "low_price": 415.0,
       "prev_price": 441.0,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "5060409601746"
     },
     {
       "brand": "Pro Breeze",
@@ -148,7 +149,8 @@
       },
       "low_price": 177.99,
       "prev_price": 209.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "5060596028203"
     },
     {
       "brand": "De'Longhi",
@@ -214,7 +216,8 @@
       },
       "low_price": 220.03,
       "prev_price": 229.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8004399027763"
     },
     {
       "brand": "Trotec",
@@ -280,7 +283,8 @@
       },
       "low_price": 167.99,
       "prev_price": 169.99,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "4052138013373"
     },
     {
       "brand": "Qlima",
@@ -331,7 +335,8 @@
       "low_price": 251.6,
       "synced": "2026-11-11",
       "prev_price": 268.98,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8713508793054"
     },
     {
       "brand": "Qlima",
@@ -397,7 +402,8 @@
       },
       "low_price": 236.0,
       "prev_price": 245.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8713508793030"
     },
     {
       "brand": "Bloomfold",
@@ -439,7 +445,8 @@
         "2026-11-11": 229.0
       },
       "low_price": 229.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8721082275323"
     },
     {
       "brand": "Trotec",
@@ -503,7 +510,8 @@
         "2026-11-10": 229.99,
         "2026-11-11": 229.99
       },
-      "low_price": 229.99
+      "low_price": 229.99,
+      "ph_ean": "4052138109090"
     },
     {
       "brand": "Komodo",
@@ -535,14 +543,6 @@
       "text": "De ontvochtiger van Komodo is een compacte compressordroger die volgens de fabrikant tot 16 liter vocht per dag uit de lucht haalt. Daarmee is hij geschikt voor een slaapkamer met condens op de ramen, een badkamer zonder goede afzuiging of een kleine kelder. Het apparaat is licht genoeg om mee te nemen naar de kamer waar het vocht het grootst is.\n\nEr is een wasdroogfunctie om kleding binnen sneller droog te krijgen. Is de tank vol, dan schakelt het apparaat automatisch uit. Die tank is met ongeveer 2,5 liter wel kleiner dan bij de 20-litermodellen, dus bij veel vocht leeg je hem vaker. Ook voor dit model geldt dat je hem 's nachts hoort. Komodo is geen bekend merk, maar kopers op bol geven gemiddeld een 4,4. Voor rond de 120 euro is het een praktische instap in het ontvochtigen.",
       "ean": "0870844024360",
       "ph": {
-        "2026-10-15": 119.95,
-        "2026-10-16": 119.95,
-        "2026-10-17": 119.95,
-        "2026-10-18": 119.95,
-        "2026-10-19": 119.95,
-        "2026-10-20": 119.95,
-        "2026-10-21": 119.95,
-        "2026-10-23": 119.95,
         "2026-10-24": 119.95,
         "2026-10-25": 119.95,
         "2026-10-26": 119.95,
@@ -563,13 +563,14 @@
         "2026-11-10": 129.95,
         "2026-11-11": 129.95
       },
-      "low_price": 119.95,
       "bol_title": "Luchtontvochtiger - 16L Per Dag - Slaapkamer, Badkamer, Huis & Kelder - Dehumidifier - Was-droog Functie - Voorkomt Schimmel",
       "url": "https://www.bol.com/nl/nl/p/komodo-luchtontvochtiger-en-luchtreiniger-12-16l-per-dag-slaapkamer-badkamer-huis-dehumidifier/9300000167669176/",
       "image": "https://media.s-bol.com/xKNyM5rR2L0P/Vv0WXpX/550x703.jpg",
       "synced": "2026-11-11",
+      "low_price": 119.95,
       "prev_price": 119.95,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "0870844024360"
     },
     {
       "brand": "De'Longhi",
@@ -635,7 +636,8 @@
       },
       "low_price": 185.0,
       "prev_price": 185.0,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8004399029255"
     }
   ],
   "guide": [

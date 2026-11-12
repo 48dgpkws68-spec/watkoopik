@@ -62,7 +62,8 @@
         "2026-11-11": 89.99
       },
       "low_price": 89.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4211125368036"
     },
     {
       "brand": "Inventum",
@@ -124,7 +125,8 @@
       },
       "low_price": 105.0,
       "prev_price": 125.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8712876021011"
     },
     {
       "brand": "Inventum",
@@ -186,7 +188,8 @@
       },
       "low_price": 39.0,
       "prev_price": 47.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8712876020762"
     },
     {
       "brand": "Inventum",
@@ -234,7 +237,8 @@
       "low_price": 76.4,
       "synced": "2026-11-11",
       "prev_price": 76.6,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8712876020830"
     },
     {
       "brand": "Tomado",
@@ -289,7 +293,8 @@
       "low_price": 49.64,
       "synced": "2026-11-11",
       "prev_price": 57.85,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8712876500721"
     },
     {
       "brand": "Beurer",
@@ -351,7 +356,8 @@
       },
       "low_price": 36.99,
       "prev_price": 36.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "4211125424008"
     },
     {
       "brand": "Inventum",
@@ -413,7 +419,8 @@
       },
       "low_price": 37.99,
       "prev_price": 44.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8712876020984"
     },
     {
       "brand": "Auronic",
@@ -475,7 +482,8 @@
       },
       "low_price": 59.99,
       "prev_price": 64.99,
-      "prev_date": "2026-10-29"
+      "prev_date": "2026-10-29",
+      "ph_ean": "8720195256090"
     },
     {
       "brand": "Tomado",
@@ -537,7 +545,8 @@
       },
       "low_price": 20.79,
       "prev_price": 20.79,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8712876502275"
     },
     {
       "brand": "Tristar",
@@ -600,7 +609,8 @@
       },
       "low_price": 31.99,
       "prev_price": 34.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8713016073716"
     }
   ],
   "guide": [

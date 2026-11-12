@@ -82,7 +82,8 @@
       },
       "low_price": 150.0,
       "prev_price": 150.0,
-      "prev_date": "2026-10-31"
+      "prev_date": "2026-10-31",
+      "ph_ean": "7500435225311"
     },
     {
       "brand": "Braun",
@@ -148,7 +149,8 @@
       },
       "low_price": 55.95,
       "prev_price": 62.95,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "7500435225069"
     },
     {
       "brand": "Philips",
@@ -213,7 +215,8 @@
       },
       "low_price": 385.1,
       "prev_price": 405.16,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720689005944"
     },
     {
       "brand": "Philips",
@@ -278,7 +281,8 @@
       },
       "low_price": 62.0,
       "prev_price": 75.99,
-      "prev_date": "2026-10-15"
+      "prev_date": "2026-10-15",
+      "ph_ean": "8710103935476"
     },
     {
       "brand": "Braun",
@@ -343,7 +347,8 @@
       },
       "low_price": 299.0,
       "prev_price": 389.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8700216937818"
     },
     {
       "brand": "Braun",
@@ -408,7 +413,8 @@
       },
       "low_price": 99.99,
       "prev_price": 120.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8700216963602"
     },
     {
       "brand": "Philips",
@@ -473,7 +479,8 @@
       },
       "low_price": 96.26,
       "prev_price": 107.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720689033084"
     },
     {
       "brand": "Braun",
@@ -538,7 +545,8 @@
       },
       "low_price": 57.0,
       "prev_price": 79.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8700216963169"
     },
     {
       "brand": "Braun",
@@ -603,7 +611,8 @@
       },
       "low_price": 79.99,
       "prev_price": 98.2,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8700216963503"
     },
     {
       "brand": "Braun",
@@ -657,7 +666,8 @@
       "low_price": 34.29,
       "synced": "2026-11-11",
       "prev_price": 36.39,
-      "prev_date": "2026-10-28"
+      "prev_date": "2026-10-28",
+      "ph_ean": "4210201423508"
     }
   ],
   "guide": [

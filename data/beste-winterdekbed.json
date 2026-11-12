@@ -74,7 +74,8 @@
       "low_price": 465.02,
       "synced": "2026-11-11",
       "prev_price": 489.5,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3800235197028"
     },
     {
       "brand": "Fabiola",
@@ -129,7 +130,8 @@
       "low_price": 139.0,
       "synced": "2026-11-11",
       "prev_price": 139.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8720256479932"
     },
     {
       "brand": "Yumeko",
@@ -184,7 +186,8 @@
       "low_price": 662.15,
       "synced": "2026-11-11",
       "prev_price": 662.15,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8718503725437"
     },
     {
       "brand": "Silently",
@@ -237,7 +240,8 @@
         "2026-11-11": 369.95
       },
       "low_price": 369.95,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8438476408617"
     },
     {
       "brand": "Terschellinger",
@@ -292,7 +296,8 @@
       "low_price": 129.0,
       "synced": "2026-11-11",
       "prev_price": 129.0,
-      "prev_date": "2026-11-02"
+      "prev_date": "2026-11-02",
+      "ph_ean": "8720256479512"
     },
     {
       "brand": "Ducky Dons",
@@ -345,7 +350,8 @@
         "2026-11-11": 209.0
       },
       "low_price": 209.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8718719724750"
     },
     {
       "brand": "Ten Cate",
@@ -400,7 +406,8 @@
       "low_price": 179.99,
       "synced": "2026-11-11",
       "prev_price": 239.95,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8718734723059"
     },
     {
       "brand": "Homescapes",
@@ -452,7 +459,8 @@
         "2026-11-11": 107.99
       },
       "low_price": 107.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "5056280733478"
     },
     {
       "brand": "Slaapspeciaal",
@@ -506,7 +514,8 @@
       "low_price": 59.99,
       "synced": "2026-11-11",
       "prev_price": 89.0,
-      "prev_date": "2026-11-01"
+      "prev_date": "2026-11-01",
+      "ph_ean": "8719425809946"
     },
     {
       "brand": "Zydante",
@@ -558,7 +567,8 @@
         "2026-11-11": 45.95
       },
       "low_price": 45.95,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8717752015115"
     }
   ],
   "guide": [

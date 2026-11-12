@@ -60,7 +60,8 @@
         "2026-11-11": 1229.99
       },
       "low_price": 1229.99,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0195949837210"
     },
     {
       "brand": "Lenovo",
@@ -122,7 +123,8 @@
       },
       "low_price": 1149.0,
       "prev_price": 1299.0,
-      "prev_date": "2026-10-29"
+      "prev_date": "2026-10-29",
+      "ph_ean": "0198156941664"
     },
     {
       "brand": "Lenovo",
@@ -184,7 +186,8 @@
       },
       "low_price": 799.0,
       "prev_price": 799.0,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "0198156375629"
     },
     {
       "brand": "Microsoft",
@@ -242,7 +245,8 @@
       },
       "low_price": 1423.7,
       "prev_price": 1658.74,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0196388464180"
     },
     {
       "brand": "Lenovo",
@@ -304,7 +308,8 @@
       },
       "low_price": 1739.99,
       "prev_price": 1749.95,
-      "prev_date": "2026-10-26"
+      "prev_date": "2026-10-26",
+      "ph_ean": "0199273947980"
     },
     {
       "brand": "HP",
@@ -355,7 +360,8 @@
       "low_price": 974.0,
       "synced": "2026-11-11",
       "prev_price": 1049.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0199485111728"
     },
     {
       "brand": "ASUS",
@@ -417,7 +423,8 @@
       },
       "low_price": 949.0,
       "prev_price": 1199.0,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4711636506687"
     },
     {
       "brand": "HP",
@@ -463,7 +470,8 @@
       "low_price": 1049.0,
       "synced": "2026-11-11",
       "prev_price": 1076.94,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0199642758858"
     },
     {
       "brand": "Lenovo",
@@ -521,7 +529,8 @@
       },
       "low_price": 909.0,
       "prev_price": 919.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "0199275385353"
     },
     {
       "brand": "Lenovo",
@@ -583,7 +592,8 @@
       },
       "low_price": 1179.0,
       "prev_price": 1249.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0199275444869"
     }
   ],
   "guide": [

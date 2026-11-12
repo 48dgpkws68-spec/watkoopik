@@ -74,7 +74,8 @@
       },
       "low_price": 184.0,
       "prev_price": 189.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "5011139061454"
     },
     {
       "brand": "Dimplex",
@@ -133,7 +134,8 @@
       },
       "low_price": 135.0,
       "prev_price": 135.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "5011139061485"
     },
     {
       "brand": "Dimplex",
@@ -192,7 +194,8 @@
       },
       "low_price": 354.0,
       "prev_price": 364.0,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8716412235818"
     },
     {
       "brand": "Dimplex",
@@ -251,7 +254,8 @@
       },
       "low_price": 279.0,
       "prev_price": 279.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8716412220937"
     },
     {
       "brand": "Dimplex",
@@ -310,7 +314,8 @@
       },
       "low_price": 229.0,
       "prev_price": 229.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "5011139210951"
     },
     {
       "brand": "alpina",
@@ -365,7 +370,8 @@
       "low_price": 182.95,
       "synced": "2026-11-11",
       "prev_price": 192.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8711252248486"
     },
     {
       "brand": "Classic Fire",
@@ -424,7 +430,8 @@
       },
       "low_price": 104.79,
       "prev_price": 135.72,
-      "prev_date": "2026-10-31"
+      "prev_date": "2026-10-31",
+      "ph_ean": "8711252989822"
     },
     {
       "brand": "MOA",
@@ -470,7 +477,8 @@
       "low_price": 174.99,
       "synced": "2026-11-11",
       "prev_price": 174.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8718001908929"
     },
     {
       "brand": "Classic Fire",
@@ -529,7 +537,8 @@
       },
       "low_price": 72.95,
       "prev_price": 78.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "8711252164137"
     },
     {
       "label": null,
@@ -567,7 +576,8 @@
         "2026-11-11": 99.81
       },
       "low_price": 99.81,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "0672669132523"
     }
   ],
   "guide": [

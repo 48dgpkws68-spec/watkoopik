@@ -74,7 +74,8 @@
       },
       "low_price": 159.0,
       "prev_price": 172.0,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "0622356236775"
     },
     {
       "brand": "Philips",
@@ -140,7 +141,8 @@
       },
       "low_price": 79.99,
       "prev_price": 80.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8720389032639"
     },
     {
       "brand": "Vitamix",
@@ -197,7 +199,8 @@
       },
       "low_price": 679.0,
       "prev_price": 692.0,
-      "prev_date": "2026-10-30"
+      "prev_date": "2026-10-30",
+      "ph_ean": "0703113631887"
     },
     {
       "brand": "Nutribullet",
@@ -265,7 +268,8 @@
       },
       "low_price": 69.0,
       "prev_price": 79.95,
-      "prev_date": "2026-10-27"
+      "prev_date": "2026-10-27",
+      "ph_ean": "8720246420906"
     },
     {
       "brand": "KitchenAid",
@@ -333,7 +337,8 @@
       },
       "low_price": 280.25,
       "prev_price": 286.76,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8003437239632"
     },
     {
       "brand": "Braun",
@@ -401,7 +406,8 @@
       },
       "low_price": 158.95,
       "prev_price": 159.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8021098001061"
     },
     {
       "brand": "Bosch",
@@ -439,7 +445,8 @@
         "2026-11-11": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4242005216017"
     },
     {
       "brand": "Magimix",
@@ -497,7 +504,8 @@
       },
       "low_price": 185.99,
       "prev_price": 226.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "3519280020105"
     },
     {
       "brand": "Tefal",
@@ -563,7 +571,8 @@
       },
       "low_price": 103.0,
       "prev_price": 103.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "3016667248560"
     },
     {
       "brand": "Tefal",
@@ -619,7 +628,8 @@
       "low_price": 44.95,
       "synced": "2026-11-11",
       "prev_price": 48.4,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "3016661151361"
     }
   ],
   "guide": [

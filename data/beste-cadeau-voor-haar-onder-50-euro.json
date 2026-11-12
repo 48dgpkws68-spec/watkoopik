@@ -75,7 +75,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 34.1,
-      "prev_date": "2026-11-06"
+      "prev_date": "2026-11-06",
+      "ph_ean": "8719134201727"
     },
     {
       "brand": "LEGO",
@@ -131,7 +132,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 47.99,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5702017812540"
     },
     {
       "brand": "BaByliss",
@@ -187,7 +189,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 34.99,
-      "prev_date": "2026-11-05"
+      "prev_date": "2026-11-05",
+      "ph_ean": "3030050153651"
     },
     {
       "brand": "Remington",
@@ -241,7 +244,8 @@
       },
       "low_price": 32.99,
       "synced": "2026-11-11",
-      "reviews": "reviews op bol"
+      "reviews": "reviews op bol",
+      "ph_ean": "4008496759323"
     },
     {
       "brand": "Oral-B",
@@ -297,7 +301,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 37.0,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8700216612265"
     },
     {
       "brand": "Yankee Candle",
@@ -353,7 +358,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 34.72,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "5038581154046"
     },
     {
       "brand": "Moleskine",
@@ -409,7 +415,8 @@
       "synced": "2026-11-11",
       "reviews": "reviews op bol",
       "prev_price": 15.89,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "9788883701122"
     },
     {
       "brand": "Stanley",
@@ -444,7 +451,8 @@
         "2026-11-11": 41.43
       },
       "low_price": 41.43,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "1210001965416"
     },
     {
       "brand": "Braun",
@@ -479,7 +487,8 @@
         "2026-11-11": 34.29
       },
       "low_price": 34.29,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "4210201423508"
     },
     {
       "brand": "Philips",
@@ -516,7 +525,8 @@
         "2026-11-11": 32.37
       },
       "low_price": 32.37,
-      "synced": "2026-11-11"
+      "synced": "2026-11-11",
+      "ph_ean": "8720689037846"
     }
   ],
   "guide": [

@@ -72,7 +72,8 @@
       },
       "low_price": 33.25,
       "prev_price": 39.95,
-      "prev_date": "2026-11-10"
+      "prev_date": "2026-11-10",
+      "ph_ean": "8721161723233"
     },
     {
       "brand": "Leifheit",
@@ -137,7 +138,8 @@
       },
       "low_price": 27.29,
       "prev_price": 33.89,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4006501830401"
     },
     {
       "brand": "Foxydry",
@@ -200,7 +202,8 @@
         "2026-11-10": 199.7,
         "2026-11-11": 199.7
       },
-      "low_price": 199.7
+      "low_price": 199.7,
+      "ph_ean": "8059554700821"
     },
     {
       "brand": "Brabantia",
@@ -265,7 +268,8 @@
       },
       "low_price": 122.0,
       "prev_price": 123.0,
-      "prev_date": "2026-10-28"
+      "prev_date": "2026-10-28",
+      "ph_ean": "8710755475924"
     },
     {
       "brand": "Leifheit",
@@ -329,7 +333,8 @@
       },
       "low_price": 31.3,
       "prev_price": 36.29,
-      "prev_date": "2026-11-07"
+      "prev_date": "2026-11-07",
+      "ph_ean": "4006501832016"
     },
     {
       "brand": "KROMS",
@@ -381,7 +386,8 @@
       "low_price": 47.45,
       "synced": "2026-11-11",
       "prev_price": 49.95,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8720865279053"
     },
     {
       "brand": "PLAY IT",
@@ -443,7 +449,8 @@
         "2026-11-10": 44.99,
         "2026-11-11": 44.99
       },
-      "low_price": 44.99
+      "low_price": 44.99,
+      "ph_ean": "8720964510507"
     },
     {
       "brand": "Brabantia",
@@ -507,7 +514,8 @@
       },
       "low_price": 27.49,
       "prev_price": 28.39,
-      "prev_date": "2026-10-26"
+      "prev_date": "2026-10-26",
+      "ph_ean": "8710755385728"
     },
     {
       "brand": "Leifheit",
@@ -571,7 +579,8 @@
       },
       "low_price": 21.09,
       "prev_price": 27.49,
-      "prev_date": "2026-11-08"
+      "prev_date": "2026-11-08",
+      "ph_ean": "4006501831071"
     },
     {
       "brand": "Home4u",
@@ -635,7 +644,8 @@
       },
       "low_price": 28.45,
       "prev_price": 29.95,
-      "prev_date": "2026-11-09"
+      "prev_date": "2026-11-09",
+      "ph_ean": "8720938507113"
     }
   ],
   "guide": [
