@@ -19,6 +19,8 @@ BOL_SITE_ID = "1549706"
 TODAY = datetime.date.today()
 YEAR = TODAY.year
 BUILD = datetime.datetime.now().strftime("%Y%m%d%H%M")
+# versie van css/js = inhoudshash (12 nov 2026): verandert alleen als de bestanden echt wijzigen, zodat Googlebot ze niet bij elke deploy opnieuw ophaalt
+ASSET_V = hashlib.md5(b"".join(open(os.path.join(ROOT, "_src", n), "rb").read() for n in ("style.css", "light.css", "green.css", "app.js"))).hexdigest()[:10]
 MONTHS = ["", "januari", "februari", "maart", "april", "mei", "juni", "juli", "augustus", "september", "oktober", "november", "december"]
 e = html.escape
 rd = lambda n: open(os.path.join(ROOT, "_src", n), encoding="utf-8").read()
@@ -485,7 +487,7 @@ def head(title, desc, path, root, extra="", img=""):
 </head>
 <body class="%s">
 <div class="fx-fallback" aria-hidden="true"></div><canvas id="fx" aria-hidden="true"></canvas><div class="fx-veil" aria-hidden="true"></div><div class="fx-grain" aria-hidden="true"></div><div class="cursor-glow" aria-hidden="true"></div>
-<div class="progress" aria-hidden="true"></div>''' % (e(title), e(desc), "noindex,follow" if PREVIEW else "index,follow,max-image-preview:large", canon, canon, e(title), e(desc), "article" if "/beste/" in canon else "website", canon, (('<meta property="og:image" content="%s">' % e(img)) + ('<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="%s">' % e(title) if "/og/" in img else '')) if img else '', root, root, BUILD, "".join('<link rel="stylesheet" href="%s%s.css?v=%s">' % (root, n, BUILD) for n in THEME_CSS), json.dumps(root), extra, BODY_CLASS)
+<div class="progress" aria-hidden="true"></div>''' % (e(title), e(desc), "noindex,follow" if PREVIEW else "index,follow,max-image-preview:large", canon, canon, e(title), e(desc), "article" if "/beste/" in canon else "website", canon, (('<meta property="og:image" content="%s">' % e(img)) + ('<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="%s">' % e(title) if "/og/" in img else '')) if img else '', root, root, ASSET_V, "".join('<link rel="stylesheet" href="%s%s.css?v=%s">' % (root, n, ASSET_V) for n in THEME_CSS), json.dumps(root), extra, BODY_CLASS)
 
 def searchbox(cls="", ph="Zoek een product of merk", btn=True):
     return '''<div class="search-wrap"><form class="search %s" data-search role="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input type="search" placeholder="%s" aria-label="Zoek een gids" autocomplete="off">%s</form><div class="results"></div></div>''' % (cls, ph, '<button class="sbtn" type="submit">Zoek</button>' if btn else "")
@@ -524,7 +526,7 @@ def footer(root):
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
 <script src="https://unpkg.com/lenis@1.1.13/dist/lenis.min.js" defer></script>
 <script src="%sapp.js?v=%s" defer></script>
-</body></html>''' % (root or "./", LOGO, pop, cats, root, root, root, root, root, root, root, YEAR, landen_regel("watkoopik.nl"), root, BUILD)
+</body></html>''' % (root or "./", LOGO, pop, cats, root, root, root, root, root, root, root, YEAR, landen_regel("watkoopik.nl"), root, ASSET_V)
 
 def page(path, title, desc, body, active=None, extra="", root=None, img=""):
     if root is None: root = "../" * path.count("/")
@@ -778,7 +780,10 @@ for g in guides:
     forced = [x for s in g.get("rel", []) for x in guides if x["slug"] == s]
     rel = forced + [x for x in same if x not in forced][:4 - min(len(forced), 2)] + [x for x in fam if x["cat"] != g["cat"] and x not in forced][:1]
     gi = guides.index(g)  # aanvullen met gidsen uit andere categorieen, per gids verschoven zodat elke gids inlinks krijgt
-    rel += [x for x in (guides[(gi + 7 * j + 3) % len(guides)] for j in range(len(guides))) if x["cat"] != g["cat"] and x not in rel][:6 - len(rel)]
+    _rot = []  # rotatie over andere categorieen, zonder dubbele (stap 7 liep rond als len(guides) deelbaar is door 7)
+    for x in (guides[(gi + 7 * j + 3) % len(guides)] for j in range(len(guides))):
+        if x["cat"] != g["cat"] and x not in rel and x not in _rot: _rot.append(x)
+    rel = rel[:8] + _rot[:max(0, 6 - len(rel))]  # sinds 12 nov 2026: nooit meer dan 8 kaarten (indexatie-onderzoek)
     url_abs = SITE + "/" + g["url"]
     def prod_ld(p):
         d = {"@type": "Product", "name": "%s %s" % (p["brand"], p["name"]), "brand": {"@type": "Brand", "name": p["brand"]},
