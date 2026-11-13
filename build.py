@@ -88,7 +88,8 @@ def own_compact(g):
         e(o["image"]), e(o["name"]), e(o["name"]), e(o.get("kort") or o["text"]), e(o["url"]), e(g["slug"]), e(o.get("knop", "Bekijk " + o["merk"])), eur_n(o["price"]))
 def own_pos(g, plek):
     o = g.get("eigen_merk")
-    if not o or o.get("plek", "boven") != plek: return ""
+    # eigen_merk.pauze (tekst met datum en reden, bijv. uitverkocht): blok niet tonen, de waarde blijft in de data staan
+    if not o or o.get("pauze") or o.get("plek", "boven") != plek: return ""
     return own_compact(g) if o.get("compact") else own_block(g)
 
 

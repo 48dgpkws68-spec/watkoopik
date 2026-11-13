@@ -85,9 +85,19 @@
     "in": "CHiQ M55QN9G",
     "plek": 10,
     "paar": true
+   },
+   {
+    "d": "2026-11-13",
+    "t": "vervangen",
+    "uit": "Samsung QE55S83H",
+    "in": "Samsung QE55S93H",
+    "plek": 6,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "6f34e5a37b1101dfcc4fd8c81e298317a382a907",
+  "_tot": "32c7addba98435d331f608ae23e2be5e7e1d838c",
   "_ps": [
    {
     "brand": "LG",
@@ -116,8 +126,8 @@
    },
    {
     "brand": "Samsung",
-    "name": "QE55S83H",
-    "ean": "8806097979609"
+    "name": "QE55S93H",
+    "ean": "8806099124212"
    },
    {
     "brand": "Samsung",
@@ -1139,7 +1149,7 @@
     "paar": true
    }
   ],
-  "_tot": "6f34e5a37b1101dfcc4fd8c81e298317a382a907",
+  "_tot": "32c7addba98435d331f608ae23e2be5e7e1d838c",
   "_ps": [
    {
     "brand": "ASUS",
