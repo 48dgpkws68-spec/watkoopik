@@ -68,10 +68,11 @@
         "2026-11-09": 29.99,
         "2026-11-10": 29.99,
         "2026-11-11": 29.99,
-        "2026-11-12": 29.99
+        "2026-11-12": 29.99,
+        "2026-11-13": 29.99
       },
       "low_price": 29.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "8720828027752"
     },
     {
@@ -111,10 +112,11 @@
         "2026-11-09": 45.99,
         "2026-11-10": 45.99,
         "2026-11-11": 45.99,
-        "2026-11-12": 45.99
+        "2026-11-12": 45.99,
+        "2026-11-13": 45.99
       },
       "low_price": 45.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "4211125531065"
     },
     {
@@ -164,10 +166,11 @@
         "2026-11-09": 59.95,
         "2026-11-10": 54.95,
         "2026-11-11": 54.95,
-        "2026-11-12": 54.95
+        "2026-11-12": 54.95,
+        "2026-11-13": 54.95
       },
       "low_price": 54.95,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "prev_price": 59.95,
       "prev_date": "2026-11-09",
       "ph_ean": "8719874753562"
@@ -219,10 +222,11 @@
         "2026-11-09": 34.99,
         "2026-11-10": 34.99,
         "2026-11-11": 32.99,
-        "2026-11-12": 32.99
+        "2026-11-12": 32.99,
+        "2026-11-13": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "prev_price": 34.99,
       "prev_date": "2026-11-10",
       "ph_ean": "8720195254324"
@@ -230,7 +234,7 @@
     {
       "brand": "medisana",
       "name": "FW 150 Gebreide voetenwarmer",
-      "price": 39.95,
+      "price": 64.95,
       "score": 8.6,
       "label": null,
       "reviews": "Gem. 4,5 sterren op bol",
@@ -267,16 +271,19 @@
         "2026-11-09": 39.95,
         "2026-11-10": 39.95,
         "2026-11-11": 39.95,
-        "2026-11-12": 39.95
+        "2026-11-12": 39.95,
+        "2026-11-13": 64.95
       },
       "low_price": 39.95,
-      "synced": "2026-11-12",
-      "ph_ean": "4015588602597"
+      "synced": "2026-11-13",
+      "ph_ean": "4015588602597",
+      "prev_price": 39.95,
+      "prev_date": "2026-11-12"
     },
     {
       "brand": "Alpina",
       "name": "Elektrische Voetenwarmer FW-001A wit",
-      "price": 26.99,
+      "price": 28.34,
       "score": 8.5,
       "label": "Beste prijs-kwaliteit",
       "reviews": "Gem. 4,1 sterren op bol",
@@ -320,12 +327,13 @@
         "2026-11-09": 24.99,
         "2026-11-10": 24.99,
         "2026-11-11": 27.99,
-        "2026-11-12": 26.99
+        "2026-11-12": 26.99,
+        "2026-11-13": 28.34
       },
       "low_price": 24.99,
-      "synced": "2026-11-12",
-      "prev_price": 27.99,
-      "prev_date": "2026-11-11",
+      "synced": "2026-11-13",
+      "prev_price": 26.99,
+      "prev_date": "2026-11-12",
       "ph_ean": "8711252174624"
     },
     {
@@ -375,10 +383,11 @@
         "2026-11-09": 32.22,
         "2026-11-10": 32.22,
         "2026-11-11": 32.22,
-        "2026-11-12": 32.22
+        "2026-11-12": 32.22,
+        "2026-11-13": 32.22
       },
       "low_price": 31.95,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "prev_price": 34.95,
       "prev_date": "2026-11-08",
       "ph_ean": "8721077890005"
@@ -430,10 +439,11 @@
         "2026-11-09": 35.96,
         "2026-11-10": 35.96,
         "2026-11-11": 35.96,
-        "2026-11-12": 35.96
+        "2026-11-12": 35.96,
+        "2026-11-13": 35.96
       },
       "low_price": 35.96,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "prev_price": 36.95,
       "prev_date": "2026-11-08",
       "ph_ean": "8721077891668"
@@ -485,10 +495,11 @@
         "2026-11-09": 44.99,
         "2026-11-10": 44.99,
         "2026-11-11": 44.99,
-        "2026-11-12": 44.99
+        "2026-11-12": 44.99,
+        "2026-11-13": 44.99
       },
       "low_price": 44.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "4211125105563"
     },
     {
@@ -519,7 +530,7 @@
       "ideal": "Wie een simpele voetenzak voor af en toe zoekt en op de prijs let.",
       "text": "De Tomado TFW0301G is de goedkoopste voetenzak in deze lijst. Het Nederlandse merk Tomado belooft extra snelle opwarming met een vermogen van 100 watt. Met een schakelaar kies je uit drie warmtestanden. De voetenzak past tot schoenmaat 46 en het snoer is met circa 2,3 meter lekker lang. Zo zet je hem makkelijk voor de bank of onder een tafel.\n\nNa 90 minuten schakelt de Tomado automatisch uit en er zit een oververhittingsbeveiliging in. De zachte fleece binnenvoering is uitneembaar, zodat je hem met de hand of in de wasmachine kunt wassen volgens de wasvoorschriften. Tomado geeft twee jaar garantie. Op bol scoort hij gemiddeld 3,5 sterren, lager dan de rest van deze vergelijking. Die lagere score laat zien dat niet iedereen even tevreden is. Voor gebruik af en toe is hij prima. Gebruik je een voetenwarmer elke avond, dan is de Alpina voor een paar euro meer een betere koop.",
       "ean": "8712876500738",
-      "bol_title": "Tomado TFW0301G - Elektrische voetenwarmer - Extra snelle opwarming - 3 warmtestanden - Grijs",
+      "bol_title": "Voetenwarmer - extra snelle opwarming - 3 warmtestanden",
       "url": "https://www.bol.com/nl/nl/p/tomado-tfw0301g-elektrische-voetenwarmer-extra-snelle-opwarming-3-warmtestanden/9300000015392806/",
       "image": "https://media.s-bol.com/74GpBVBV7k9w/yoBOrQg/550x578.jpg",
       "ph": {
@@ -538,10 +549,11 @@
         "2026-11-09": 38.29,
         "2026-11-10": 38.29,
         "2026-11-11": 38.29,
-        "2026-11-12": 38.29
+        "2026-11-12": 38.29,
+        "2026-11-13": 38.29
       },
       "low_price": 22.5,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "prev_price": 38.34,
       "prev_date": "2026-11-05",
       "ph_ean": "8712876500738"

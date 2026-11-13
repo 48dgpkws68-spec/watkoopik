@@ -55,10 +55,11 @@
       "image": "https://media.s-bol.com/x3K8v9YEq2j9/321kYNO/539x840.jpg",
       "ph": {
         "2026-11-11": 8.99,
-        "2026-11-12": 7.79
+        "2026-11-12": 7.79,
+        "2026-11-13": 7.79
       },
       "low_price": 7.79,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "0746775036744",
       "prev_price": 8.99,
       "prev_date": "2026-11-11"
@@ -66,7 +67,7 @@
     {
       "brand": "Play-Doh",
       "name": "4-pack Levendige kleuren",
-      "price": 5.49,
+      "price": 5.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "ean": "5010994947033",
@@ -96,13 +97,14 @@
       "image": "https://media.s-bol.com/gjBX7mLKD6Kr/GZRLzL0/550x165.jpg",
       "ph": {
         "2026-11-11": 5.0,
-        "2026-11-12": 5.49
+        "2026-11-12": 5.49,
+        "2026-11-13": 5.0
       },
       "low_price": 5.0,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "5010994947033",
-      "prev_price": 5.0,
-      "prev_date": "2026-11-11"
+      "prev_price": 5.49,
+      "prev_date": "2026-11-12"
     },
     {
       "brand": "999 Games",
@@ -137,16 +139,17 @@
       "image": "https://media.s-bol.com/xA9rPGO4m31z/yPyO4kE/550x719.jpg",
       "ph": {
         "2026-11-11": 12.99,
-        "2026-11-12": 12.99
+        "2026-11-12": 12.99,
+        "2026-11-13": 12.99
       },
       "low_price": 12.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "8717249193050"
     },
     {
       "brand": "LEGO",
       "name": "City Politie Waterscooter 30693 (polybag)",
-      "price": 8.99,
+      "price": 9.69,
       "score": 8.8,
       "label": null,
       "ean": "5702017819358",
@@ -176,16 +179,19 @@
       "image": "https://media.s-bol.com/Gjr33rKwOL3K/N9yKxqK/550x633.jpg",
       "ph": {
         "2026-11-11": 8.99,
-        "2026-11-12": 8.99
+        "2026-11-12": 8.99,
+        "2026-11-13": 9.69
       },
       "low_price": 8.99,
-      "synced": "2026-11-12",
-      "ph_ean": "5702017819358"
+      "synced": "2026-11-13",
+      "ph_ean": "5702017819358",
+      "prev_price": 8.99,
+      "prev_date": "2026-11-12"
     },
     {
       "brand": "Hot Wheels",
       "name": "Diecast 3-pack autoset",
-      "price": 7.09,
+      "price": 7.99,
       "score": 8.7,
       "label": null,
       "ean": "0027084425611",
@@ -215,11 +221,14 @@
       "image": "https://media.s-bol.com/DJo3oGDYg9KY/rR5y26L/529x840.jpg",
       "ph": {
         "2026-11-11": 7.09,
-        "2026-11-12": 7.09
+        "2026-11-12": 7.09,
+        "2026-11-13": 7.99
       },
       "low_price": 7.09,
-      "synced": "2026-11-12",
-      "ph_ean": "0027084425611"
+      "synced": "2026-11-13",
+      "ph_ean": "0027084425611",
+      "prev_price": 7.09,
+      "prev_date": "2026-11-12"
     },
     {
       "brand": "Totum",
@@ -254,10 +263,11 @@
       "image": "https://media.s-bol.com/vvqKZ33y890X/lYxgnpM/550x664.jpg",
       "ph": {
         "2026-11-11": 6.99,
-        "2026-11-12": 6.99
+        "2026-11-12": 6.99,
+        "2026-11-13": 6.99
       },
       "low_price": 6.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "8714274721159"
     },
     {
@@ -293,10 +303,11 @@
       "image": "https://media.s-bol.com/4Ow9xq47pX16/1jA90x3/550x523.jpg",
       "ph": {
         "2026-11-11": 8.99,
-        "2026-11-12": 8.99
+        "2026-11-12": 8.99,
+        "2026-11-13": 8.99
       },
       "low_price": 8.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "4059433753669"
     },
     {
@@ -332,10 +343,11 @@
       "image": "https://media.s-bol.com/JprGrwD7rK2K/Z4XPrDE/550x617.jpg",
       "ph": {
         "2026-11-11": 5.99,
-        "2026-11-12": 5.99
+        "2026-11-12": 5.99,
+        "2026-11-13": 5.99
       },
       "low_price": 5.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "6416739545912"
     },
     {
@@ -371,10 +383,11 @@
       "image": "https://media.s-bol.com/nwPy3X5RjyP7/36OD3Bx/550x441.jpg",
       "ph": {
         "2026-11-11": 7.39,
-        "2026-11-12": 7.39
+        "2026-11-12": 7.39,
+        "2026-11-13": 7.39
       },
       "low_price": 7.39,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "4001504565275"
     },
     {
@@ -410,10 +423,11 @@
       "image": "https://media.s-bol.com/RvKxgAz84Jow/zpQ8ov8/550x723.jpg",
       "ph": {
         "2026-11-11": 6.99,
-        "2026-11-12": 6.99
+        "2026-11-12": 6.99,
+        "2026-11-13": 6.99
       },
       "low_price": 6.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "8714274126008"
     }
   ],

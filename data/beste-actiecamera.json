@@ -54,16 +54,17 @@
       "url": "https://www.bol.com/nl/nl/p/dji-osmo-action-6-standard-combo/9300000247725827/",
       "image": "https://media.s-bol.com/VE9EjoBxjJ1z/P1OWBOw/550x394.jpg",
       "ph": {
-        "2026-11-12": 389.0
+        "2026-11-12": 389.0,
+        "2026-11-13": 389.0
       },
       "low_price": 389.0,
       "ph_ean": "6937224126060",
-      "synced": "2026-11-12"
+      "synced": "2026-11-13"
     },
     {
       "brand": "GoPro",
       "name": "HERO13 Black",
-      "price": 353.0,
+      "price": 388.0,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -93,11 +94,14 @@
       "url": "https://www.bol.com/nl/nl/p/gopro-hero13-black-actioncam/9300000187686812/",
       "image": "https://media.s-bol.com/YgRWYgz9o07O/WLo3wnx/550x398.jpg",
       "ph": {
-        "2026-11-12": 353.0
+        "2026-11-12": 353.0,
+        "2026-11-13": 388.0
       },
       "low_price": 353.0,
       "ph_ean": "0810116381616",
-      "synced": "2026-11-12"
+      "synced": "2026-11-13",
+      "prev_price": 353.0,
+      "prev_date": "2026-11-12"
     },
     {
       "brand": "Insta360",
@@ -131,16 +135,17 @@
       "url": "https://www.bol.com/nl/nl/p/insta360-ace-pro-2-standard-bundle-actiesportcamera-8k-ultra-hd-360-actiecamera-met-batterij/9300000191601498/",
       "image": "https://media.s-bol.com/zgOJg2LZvw3m/yP23rXR/550x726.jpg",
       "ph": {
-        "2026-11-12": 379.0
+        "2026-11-12": 379.0,
+        "2026-11-13": 379.0
       },
       "low_price": 379.0,
       "ph_ean": "6970357859733",
-      "synced": "2026-11-12"
+      "synced": "2026-11-13"
     },
     {
       "brand": "Insta360",
       "name": "X5",
-      "price": 399.0,
+      "price": 412.0,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,2 van 5",
@@ -170,11 +175,14 @@
       "url": "https://www.bol.com/nl/nl/p/insta360-x5-actioncam-360-graden-camera-8k/9300000229586382/",
       "image": "https://media.s-bol.com/gjMxpR9B79pl/DkL93Z5/315x840.jpg",
       "ph": {
-        "2026-11-12": 399.0
+        "2026-11-12": 399.0,
+        "2026-11-13": 412.0
       },
       "low_price": 399.0,
       "ph_ean": "6977644761441",
-      "synced": "2026-11-12"
+      "synced": "2026-11-13",
+      "prev_price": 399.0,
+      "prev_date": "2026-11-12"
     },
     {
       "brand": "DJI",
@@ -209,16 +217,17 @@
       "url": "https://www.bol.com/nl/nl/p/dji-osmo-action-4-standard-combo-action-cam/9300000155881826/",
       "image": "https://media.s-bol.com/vzoPkWKQQpmm/0JgklL/550x348.jpg",
       "ph": {
-        "2026-11-12": 189.0
+        "2026-11-12": 189.0,
+        "2026-11-13": 189.0
       },
       "low_price": 189.0,
       "ph_ean": "6941565965073",
-      "synced": "2026-11-12"
+      "synced": "2026-11-13"
     },
     {
       "brand": "DJI",
       "name": "Osmo 360 Standard Combo",
-      "price": 379.0,
+      "price": 375.79,
       "score": 8.7,
       "label": null,
       "reviews": "Nieuw bij bol",
@@ -248,11 +257,14 @@
       "url": "https://www.bol.com/nl/nl/p/dji-osmo-360-8k-ultra-hd-cmos-120-mp-240-fps-wifi-bluetooth/9300000237294169/",
       "image": "https://media.s-bol.com/5GYP37YKYy7v/zmqvmzO/550x714.jpg",
       "ph": {
-        "2026-11-12": 379.0
+        "2026-11-12": 379.0,
+        "2026-11-13": 375.79
       },
-      "low_price": 379.0,
+      "low_price": 375.79,
       "ph_ean": "6937224110502",
-      "synced": "2026-11-12"
+      "synced": "2026-11-13",
+      "prev_price": 379.0,
+      "prev_date": "2026-11-12"
     },
     {
       "brand": "Insta360",
@@ -287,11 +299,12 @@
       "url": "https://www.bol.com/nl/nl/p/insta-360-go-3s-standard-edition-64gb-arctic-white/9300000180889290/",
       "image": "https://media.s-bol.com/j9LjjvJLVLBP/6803zEO/550x757.jpg",
       "ph": {
-        "2026-11-12": 283.0
+        "2026-11-12": 283.0,
+        "2026-11-13": 283.0
       },
       "low_price": 283.0,
       "ph_ean": "6970357857425",
-      "synced": "2026-11-12"
+      "synced": "2026-11-13"
     },
     {
       "brand": "DJI",
@@ -326,16 +339,17 @@
       "url": "https://www.bol.com/nl/nl/p/dji-osmo-nano-actioncam-standard-combo-128gb-zwart/9300000241991199/",
       "image": "https://media.s-bol.com/m5wDGVGpw2Dn/Mjn46Pm/488x840.jpg",
       "ph": {
-        "2026-11-12": 338.99
+        "2026-11-12": 338.99,
+        "2026-11-13": 338.99
       },
       "low_price": 338.99,
       "ph_ean": "6937224115453",
-      "synced": "2026-11-12"
+      "synced": "2026-11-13"
     },
     {
       "brand": "GoPro",
       "name": "HERO12 Black",
-      "price": 289.0,
+      "price": 318.0,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -365,11 +379,14 @@
       "url": "https://www.bol.com/nl/nl/p/gopro-hero-12-black/9300000159103197/",
       "image": "https://media.s-bol.com/qN5AnJPyME52/YWQ2YXn/550x387.jpg",
       "ph": {
-        "2026-11-12": 289.0
+        "2026-11-12": 289.0,
+        "2026-11-13": 318.0
       },
       "low_price": 289.0,
       "ph_ean": "0810116380282",
-      "synced": "2026-11-12"
+      "synced": "2026-11-13",
+      "prev_price": 289.0,
+      "prev_date": "2026-11-12"
     },
     {
       "brand": "AKASO",
@@ -404,11 +421,12 @@
       "url": "https://www.bol.com/nl/nl/p/akaso-brave-7-le-action-camera-waterdicht-4k/9300000120876237/",
       "image": "https://media.s-bol.com/pV6WLzZmzQYN/mYY1j3/550x378.jpg",
       "ph": {
-        "2026-11-12": 169.99
+        "2026-11-12": 169.99,
+        "2026-11-13": 169.99
       },
       "low_price": 169.99,
       "ph_ean": "0810035151796",
-      "synced": "2026-11-12"
+      "synced": "2026-11-13"
     }
   ],
   "guide": [

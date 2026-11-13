@@ -55,10 +55,11 @@
       "image": "https://media.s-bol.com/BpM2yqAEg4Ok/QMVjRL/550x550.jpg",
       "ph": {
         "2026-11-11": 44.99,
-        "2026-11-12": 44.99
+        "2026-11-12": 44.99,
+        "2026-11-13": 44.99
       },
       "low_price": 44.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "4005556275977"
     },
     {
@@ -93,10 +94,11 @@
       "image": "https://media.s-bol.com/J36YRpm2XJzy/GvyEl18/550x439.jpg",
       "ph": {
         "2026-11-11": 19.99,
-        "2026-11-12": 19.99
+        "2026-11-12": 19.99,
+        "2026-11-13": 19.99
       },
       "low_price": 19.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "5702017822389"
     },
     {
@@ -132,10 +134,11 @@
       "image": "https://media.s-bol.com/4jn2GJyBr3Ak/4xynZ2n/550x468.jpg",
       "ph": {
         "2026-11-11": 34.99,
-        "2026-11-12": 34.99
+        "2026-11-12": 34.99,
+        "2026-11-13": 34.99
       },
       "low_price": 34.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "8005125565979"
     },
     {
@@ -167,19 +170,20 @@
       "ean": "8710126199572",
       "bol_title": "Jumbo - Stratego Original - Strategisch Bordspel - Vanaf 8 jaar - Speelgoedboek",
       "url": "https://www.bol.com/nl/nl/p/jumbo-stratego-original-strategisch-bordspel/9300000150167198/",
-      "image": "https://media.s-bol.com/VkzV6WWzAxVB/vPzQnM/550x419.jpg",
+      "image": "https://media.s-bol.com/YnD9gZZDWJBA/vPzQnM/550x365.jpg",
       "ph": {
         "2026-11-11": 29.99,
-        "2026-11-12": 29.99
+        "2026-11-12": 29.99,
+        "2026-11-13": 29.99
       },
       "low_price": 29.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "8710126199572"
     },
     {
       "brand": "LEGO",
       "name": "Minecraft Het schildpadstrandhuis (21254)",
-      "price": 49.0,
+      "price": 47.95,
       "score": 8.7,
       "label": null,
       "reviews": "80+ reviews",
@@ -208,11 +212,14 @@
       "image": "https://media.s-bol.com/5N8mp0qmpNEK/RlYjoVw/550x438.jpg",
       "ph": {
         "2026-11-11": 49.0,
-        "2026-11-12": 49.0
+        "2026-11-12": 49.0,
+        "2026-11-13": 47.95
       },
-      "low_price": 49.0,
-      "synced": "2026-11-12",
-      "ph_ean": "5702017583303"
+      "low_price": 47.95,
+      "synced": "2026-11-13",
+      "ph_ean": "5702017583303",
+      "prev_price": 49.0,
+      "prev_date": "2026-11-12"
     },
     {
       "brand": "Razor",
@@ -246,10 +253,11 @@
       "image": "https://media.s-bol.com/n8PZn5g7GO27/81qzYPl/550x331.jpg",
       "ph": {
         "2026-11-11": 79.0,
-        "2026-11-12": 79.0
+        "2026-11-12": 79.0,
+        "2026-11-13": 79.0
       },
       "low_price": 79.0,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "0845423024673"
     },
     {
@@ -284,10 +292,11 @@
       "image": "https://media.s-bol.com/kqz18yyOz7vJ/OgjoQ5Y/550x570.jpg",
       "ph": {
         "2026-11-11": 12.99,
-        "2026-11-12": 12.99
+        "2026-11-12": 12.99,
+        "2026-11-13": 12.99
       },
       "low_price": 12.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "5414301518587"
     },
     {
@@ -322,10 +331,11 @@
       "image": "https://media.s-bol.com/BmJ881888EDJ/R6PKgGE/550x445.jpg",
       "ph": {
         "2026-11-11": 29.99,
-        "2026-11-12": 24.99
+        "2026-11-12": 24.99,
+        "2026-11-13": 24.99
       },
       "low_price": 24.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "8005125561728",
       "prev_price": 29.99,
       "prev_date": "2026-11-11"
@@ -333,7 +343,7 @@
     {
       "brand": "Nerf",
       "name": "Elite 2.0 Commander RD-6",
-      "price": 38.19,
+      "price": 39.19,
       "score": 8.2,
       "label": null,
       "reviews": "200+ reviews",
@@ -363,13 +373,14 @@
       "image": "https://media.s-bol.com/79BDpgmkGqWO/550x502.jpg",
       "ph": {
         "2026-11-11": 38.59,
-        "2026-11-12": 38.19
+        "2026-11-12": 38.19,
+        "2026-11-13": 39.19
       },
       "low_price": 38.19,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "5010993725038",
-      "prev_price": 38.59,
-      "prev_date": "2026-11-11"
+      "prev_price": 38.19,
+      "prev_date": "2026-11-12"
     },
     {
       "brand": "Jumbo",
@@ -403,10 +414,11 @@
       "image": "https://media.s-bol.com/m6wE8qqEyWoO/pDA5AV/550x451.jpg",
       "ph": {
         "2026-11-11": 14.99,
-        "2026-11-12": 14.99
+        "2026-11-12": 14.99,
+        "2026-11-13": 14.99
       },
       "low_price": 14.99,
-      "synced": "2026-11-12",
+      "synced": "2026-11-13",
       "ph_ean": "8710126199121"
     }
   ],
