@@ -561,3 +561,7 @@ section .wrap.narrow.rv{background:rgba(18,10,40,.5);border:1px solid var(--line
 .pop-n::before{content:"#";font-weight:600;opacity:.7;margin-right:1px}
 .pop-note{font-size:.85rem;opacity:.75}
 @media (max-width:560px){.pop li{flex-wrap:wrap}.pop li .btn{width:100%;text-align:center}}
+
+/* logboek per gids (N32 stap 3, 13 nov 2026) */
+.logb ul{padding-left:20px;margin:10px 0 4px}
+.logb li{margin:7px 0;line-height:1.55}

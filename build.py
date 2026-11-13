@@ -292,6 +292,50 @@ def hist_faq(g):
     else: a = "Hij kost nu %s bij bol. Sinds %s maten wij op %d dagen een laagste prijs van %s (op %s) en een hoogste van %s. De huidige prijs ligt %s van %s." % (eur(p["price"]), nldate(h["first"]), h["n"], eur(h["low"]), nldate(h["low_day"]), eur(h["high"]), rel_txt(h["rel"]), eur(round(h["avg"], 2)))
     return {"q": q, "a": a}
 
+# ---------- logboek per gids (groeimotor N32 stap 3, 13 nov 2026) ----------
+# Wat er sinds de start in de lijst veranderde (tools/logboek.py leest de git-geschiedenis van data/<slug>.json, _src/logboek.json)
+# en hoe de prijs van de top 3 bewoog (ph). Alleen feiten uit eigen administratie en metingen; een reden staat er alleen bij
+# als die vastligt. Eerst op de 20 best verdienende indexeerbare gidsen (_src/logboek_gidsen.json).
+try:
+    subprocess.run([sys.executable, os.path.join(ROOT, "tools", "logboek.py"), "--stil"], timeout=180)
+    LOGBOEK = json.load(open(os.path.join(ROOT, "_src", "logboek.json"), encoding="utf-8"))
+except Exception: LOGBOEK = {}
+def dagmaand(iso):
+    d = datetime.date.fromisoformat(iso); return "%d %s" % (d.day, MONTHS[d.month])
+def _opsom(xs): return xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " en " + xs[-1]
+def logboek_html(g):
+    lb = LOGBOEK.get(g["slug"])
+    if not lb or g.get("noindex"): return ""
+    pr = []
+    for p in sorted(g["products"], key=lambda p: p["rank"])[:3]:
+        h = hist_of(p)
+        if not h: continue
+        nm = "<b>Nr. %d · %s %s</b>" % (p["rank"], e(p["brand"]), e(p["name"]))
+        if h["high"] - h["low"] < 0.01:
+            pr.append("<li>%s: op alle %d meetdagen sinds %s kostte hij %s.</li>" % (nm, h["n"], dagmaand(h["first"]), eur(p["price"])))
+            continue
+        hi_day = h["days"][max(i for i, v in enumerate(h["vals"]) if v == h["high"])]
+        n_ch = sum(1 for a, b in zip(h["vals"], h["vals"][1:]) if abs(a - b) >= 0.01)
+        pr.append("<li>%s: eerste meting %s op %s, laagste %s op %s, hoogste %s op %s, nu %s. De prijs veranderde %d keer in %d meetdagen.</li>" % (
+            nm, eur(h["vals"][0]), dagmaand(h["first"]), eur(h["low"]), dagmaand(h["low_day"]), eur(h["high"]), dagmaand(hi_day), eur(p["price"]), n_ch, h["n"]))
+    days = {}
+    for ev in lb.get("events", []): days.setdefault(ev["d"], []).append(ev)
+    ch = []
+    for d in sorted(days, reverse=True):
+        evs = days[d]
+        if all(ev.get("paar") for ev in evs):
+            zinnen = ["%s ging eruit, %s kwam erin op plek %d.%s" % (e(ev["uit"]), e(ev["in"]), ev["plek"], (" Reden: %s." % e(ev["waarom"])) if ev.get("waarom") else "") for ev in evs]
+        else:
+            w = sorted({ev["waarom"] for ev in evs if ev.get("waarom")})
+            zinnen = ["Uit de lijst: %s. Nieuw in de lijst: %s.%s" % (e(_opsom([ev["uit"] for ev in evs])), e(_opsom([ev["in"] for ev in evs])), (" Reden: %s." % e(w[0])) if len(w) == 1 and all(ev.get("waarom") for ev in evs) else "")]
+        ch.append("<li><b>%s</b>: %s</li>" % (dagmaand(d), " ".join(zinnen)))
+    n_ev = len(lb.get("events", []))
+    if ch: wis = "<p>Sinds de start wisselden wij %d keer een product in deze top %d. De nieuwste wijziging staat bovenaan.</p><ul>%s</ul>" % (n_ev, lb.get("n", 10), "".join(ch))
+    else: wis = "<p>Sinds de start op %s staan dezelfde %d producten in de lijst. De prijzen meten wij elke dag opnieuw.</p>" % (nldate(lb["start"]), lb.get("n", 10))
+    prijs = ("<h3>De prijs van de top 3 bij bol</h3><ul>%s</ul>" % "".join(pr)) if pr else ""
+    return ('<div class="guide logb rv" id="logboek"><h2>Logboek van deze gids</h2><p>Deze gids staat sinds %s online. Hier lees je wat wij sindsdien in de lijst hebben aangepast en hoe de prijs van de top 3 bewoog. '
+            'Het komt uit onze eigen administratie en onze dagelijkse prijsmetingen bij bol, niet van een fabrikant of winkel.</p>%s<h3>Wijzigingen in de lijst</h3>%s</div>\n') % (nldate(lb["start"]), prijs, wis)
+
 # ---------- populair bij bol (groeimotor S5, 9 nov 2026) ----------
 # Plek van onze keuzes in bol's eigen sortering 'populariteit' op de bol-zoekterm van de gids (tools/bol_populair.py,
 # _src/bolpopulair.json). Alleen echte plekken uit de top 100; geen data = geen blok.
@@ -830,7 +874,7 @@ for g in guides:
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(gmod(g))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
-        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", '<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "", '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = zoekterm(g)  # zoekterm voor titel en meta; query blijft de bol-zoekterm

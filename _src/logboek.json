@@ -1,0 +1,1895 @@
+{
+ "beste-tv-55-inch": {
+  "start": "2026-10-16",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "Sony Bravia 8 55 inch",
+    "in": "Sony Bravia 6 55 inch",
+    "plek": 4,
+    "paar": true,
+    "waarom": "niet meer leverbaar of verkeerd geprijsd bij bol"
+   },
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "Samsung The Frame QE55LS03F",
+    "in": "Samsung The Frame Pro QE55LS03H",
+    "plek": 7,
+    "paar": true,
+    "waarom": "niet meer leverbaar of verkeerd geprijsd bij bol"
+   },
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "TCL 55V6C",
+    "in": "TCL 55P79L",
+    "plek": 10,
+    "paar": true,
+    "waarom": "niet meer leverbaar of verkeerd geprijsd bij bol"
+   },
+   {
+    "d": "2026-10-25",
+    "t": "vervangen",
+    "uit": "TCL 55P79L",
+    "in": "TCL 55C69KS",
+    "plek": 10,
+    "paar": true
+   },
+   {
+    "d": "2026-11-02",
+    "t": "vervangen",
+    "uit": "Philips 55OLED810 Ambilight",
+    "in": "Philips 55OLED811 Ambilight",
+    "plek": 5,
+    "paar": true
+   },
+   {
+    "d": "2026-11-03",
+    "t": "vervangen",
+    "uit": "Hisense 55E7Q PRO",
+    "in": "Hisense 55E7S PRO",
+    "plek": 9,
+    "paar": true
+   },
+   {
+    "d": "2026-11-06",
+    "t": "vervangen",
+    "uit": "Sony Bravia 5 55 inch",
+    "in": "Philips 55OLED810 Ambilight",
+    "plek": 6,
+    "paar": true
+   },
+   {
+    "d": "2026-11-09",
+    "t": "vervangen",
+    "uit": "Philips 55OLED810 Ambilight",
+    "in": "Samsung QE55S83H",
+    "plek": 6,
+    "paar": true
+   },
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "Hisense 55U7Q",
+    "in": "Hisense 55E8S",
+    "plek": 8,
+    "paar": true
+   },
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "TCL 55C69KS",
+    "in": "CHiQ M55QN9G",
+    "plek": 10,
+    "paar": true
+   }
+  ],
+  "_tot": "68ba4b9bac1ca93beb09df2f81c3f623f80a2d44",
+  "_ps": [
+   {
+    "brand": "LG",
+    "name": "C5 OLED55C56LB",
+    "ean": "8806096361924"
+   },
+   {
+    "brand": "LG",
+    "name": "B5 OLED55B56LA",
+    "ean": "8806096360576"
+   },
+   {
+    "brand": "LG",
+    "name": "G5 OLED55G56LS",
+    "ean": "8806096363683"
+   },
+   {
+    "brand": "Sony",
+    "name": "Bravia 6 55 inch",
+    "ean": "4548736182851"
+   },
+   {
+    "brand": "Philips",
+    "name": "55OLED811 Ambilight",
+    "ean": "8718863052044"
+   },
+   {
+    "brand": "Samsung",
+    "name": "QE55S83H",
+    "ean": "8806097979609"
+   },
+   {
+    "brand": "Samsung",
+    "name": "The Frame Pro QE55LS03H",
+    "ean": "8806099242800"
+   },
+   {
+    "brand": "Hisense",
+    "name": "55E8S",
+    "ean": "6942351434582"
+   },
+   {
+    "brand": "Hisense",
+    "name": "55E7S PRO",
+    "ean": "6942351432779"
+   },
+   {
+    "brand": "CHiQ",
+    "name": "M55QN9G",
+    "ean": "8592344205507"
+   }
+  ]
+ },
+ "beste-tv-65-inch": {
+  "start": "2026-10-16",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "TCL 65T8D",
+    "in": "TCL 65Q6C",
+    "plek": 5,
+    "paar": true,
+    "waarom": "niet meer leverbaar of verkeerd geprijsd bij bol"
+   },
+   {
+    "d": "2026-10-25",
+    "t": "vervangen",
+    "uit": "TCL 65T69C",
+    "in": "TCL 65P71K",
+    "plek": 9,
+    "paar": true
+   },
+   {
+    "d": "2026-10-26",
+    "t": "vervangen",
+    "uit": "Samsung UE65U8090F",
+    "in": "Samsung UE65M74H",
+    "plek": 10,
+    "paar": true
+   },
+   {
+    "d": "2026-11-04",
+    "t": "vervangen",
+    "uit": "Hisense 65E8S",
+    "in": "TCL 65T8D",
+    "plek": 7,
+    "paar": true
+   },
+   {
+    "d": "2026-11-06",
+    "t": "vervangen",
+    "uit": "Philips 65PUS8500/12",
+    "in": "Philips 65PQS8501/12 Ambilight",
+    "plek": 8,
+    "paar": true
+   },
+   {
+    "d": "2026-11-08",
+    "t": "vervangen",
+    "uit": "TCL 65T8D",
+    "in": "Samsung UE65M82H",
+    "plek": 7,
+    "paar": true
+   },
+   {
+    "d": "2026-11-09",
+    "t": "vervangen",
+    "uit": "TCL 65Q6C",
+    "in": "TCL 65T69C",
+    "plek": 5,
+    "paar": true
+   },
+   {
+    "d": "2026-11-12",
+    "t": "vervangen",
+    "uit": "TCL 65T69C",
+    "in": "TCL 65C6KS",
+    "plek": 5,
+    "paar": true
+   }
+  ],
+  "_tot": "d02a3e1ef8ba85273d814a825ef04816ffe4b79e",
+  "_ps": [
+   {
+    "brand": "LG",
+    "name": "C5 OLED65C56LB",
+    "ean": "8806096363430"
+   },
+   {
+    "brand": "Samsung",
+    "name": "QE65S95H",
+    "ean": "8806099136116"
+   },
+   {
+    "brand": "Philips",
+    "name": "65OLED850/12",
+    "ean": "8718863046715"
+   },
+   {
+    "brand": "Sony",
+    "name": "Bravia 5 65 inch",
+    "ean": "4548736171350"
+   },
+   {
+    "brand": "TCL",
+    "name": "65C6KS",
+    "ean": "5901292525828"
+   },
+   {
+    "brand": "Samsung",
+    "name": "QE65QN82H",
+    "ean": "8806099129606"
+   },
+   {
+    "brand": "Samsung",
+    "name": "UE65M82H",
+    "ean": "8806099134341"
+   },
+   {
+    "brand": "Philips",
+    "name": "65PQS8501/12 Ambilight",
+    "ean": "8718863051764"
+   },
+   {
+    "brand": "TCL",
+    "name": "65P71K",
+    "ean": "5901292526986"
+   },
+   {
+    "brand": "Samsung",
+    "name": "UE65M74H",
+    "ean": "8806099134624"
+   }
+  ]
+ },
+ "beste-tv-75-inch": {
+  "start": "2026-10-20",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "Hisense 75E7Q PRO",
+    "in": "Hisense 75E7S PRO",
+    "plek": 7,
+    "paar": true,
+    "waarom": "niet meer leverbaar of verkeerd geprijsd bij bol"
+   },
+   {
+    "d": "2026-10-26",
+    "t": "vervangen",
+    "uit": "Sony Bravia 3 75 inch",
+    "in": "TCL 75C61B Pro",
+    "plek": 8,
+    "paar": true
+   },
+   {
+    "d": "2026-10-29",
+    "t": "vervangen",
+    "uit": "TCL 75C61B Pro",
+    "in": "Hisense 75E8S",
+    "plek": 8,
+    "paar": true
+   },
+   {
+    "d": "2026-11-01",
+    "t": "vervangen",
+    "uit": "Samsung QE75Q7F3",
+    "in": "Xiaomi TV A Pro 2026 75 inch",
+    "plek": 9,
+    "paar": true
+   },
+   {
+    "d": "2026-11-02",
+    "t": "vervangen",
+    "uit": "Samsung UE75U7070H",
+    "in": "Samsung UE75U7020F",
+    "plek": 10,
+    "paar": true
+   },
+   {
+    "d": "2026-11-06",
+    "t": "vervangen",
+    "uit": "Samsung UE75U7020F",
+    "in": "Philips 75PQS7801/12",
+    "plek": 10,
+    "paar": true
+   }
+  ],
+  "_tot": "7893b932781ebab5fcbe5eb73955a999a127f249",
+  "_ps": [
+   {
+    "brand": "Hisense",
+    "name": "75U7Q",
+    "ean": "6942351416250"
+   },
+   {
+    "brand": "TCL",
+    "name": "75Q6C",
+    "ean": "5901292526658"
+   },
+   {
+    "brand": "Sony",
+    "name": "BRAVIA 7 II 75 inch",
+    "ean": "4548736178298"
+   },
+   {
+    "brand": "Samsung",
+    "name": "QE75QN82H",
+    "ean": "8806099129620"
+   },
+   {
+    "brand": "Philips",
+    "name": "Ambilight 75PQS9001/12",
+    "ean": "8718863051818"
+   },
+   {
+    "brand": "LG",
+    "name": "75QNED92A6A",
+    "ean": "8806096447383"
+   },
+   {
+    "brand": "Hisense",
+    "name": "75E7S PRO",
+    "ean": "6942351433165"
+   },
+   {
+    "brand": "Hisense",
+    "name": "75E8S",
+    "ean": "6942351433967"
+   },
+   {
+    "brand": "Xiaomi",
+    "name": "TV A Pro 2026 75 inch",
+    "ean": "6941948705043"
+   },
+   {
+    "brand": "Philips",
+    "name": "75PQS7801/12",
+    "ean": "8718863051696"
+   }
+  ]
+ },
+ "beste-tv-onder-500-euro": {
+  "start": "2026-10-20",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "TCL 55V6C",
+    "in": "TCL 55P79L",
+    "plek": 9,
+    "paar": true,
+    "waarom": "niet meer leverbaar of verkeerd geprijsd bij bol"
+   },
+   {
+    "d": "2026-10-25",
+    "t": "vervangen",
+    "uit": "TCL 65T69C",
+    "in": "TCL 65P71K",
+    "plek": 2,
+    "paar": true
+   },
+   {
+    "d": "2026-10-25",
+    "t": "vervangen",
+    "uit": "TCL 55P79L",
+    "in": "TCL 55C69KS",
+    "plek": 9,
+    "paar": true
+   },
+   {
+    "d": "2026-10-26",
+    "t": "vervangen",
+    "uit": "Xiaomi TV S Mini LED 55 2026",
+    "in": "TCL 65T69C",
+    "plek": 3,
+    "paar": true
+   },
+   {
+    "d": "2026-10-28",
+    "t": "vervangen",
+    "uit": "TCL 65P71K",
+    "in": "TCL 55P61K",
+    "plek": 9,
+    "paar": true
+   },
+   {
+    "d": "2026-10-29",
+    "t": "vervangen",
+    "uit": "CHiQ M55QN9G",
+    "in": "Xiaomi TV A Pro 2026 55 inch",
+    "plek": 7,
+    "paar": true
+   },
+   {
+    "d": "2026-11-04",
+    "t": "vervangen",
+    "uit": "Sharp Aquos 55HP5465",
+    "in": "Sharp 55JP7265E",
+    "plek": 8,
+    "paar": true
+   },
+   {
+    "d": "2026-11-05",
+    "t": "vervangen",
+    "uit": "Xiaomi TV F 65 2026",
+    "in": "Hisense 65A6S",
+    "plek": 10,
+    "paar": true
+   },
+   {
+    "d": "2026-11-09",
+    "t": "vervangen",
+    "uit": "Philips 55PUS8500/12",
+    "in": "Philips 55PUS8001/12",
+    "plek": 6,
+    "paar": true
+   },
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "TCL 55C69KS",
+    "in": "CHiQ M55QN9G",
+    "plek": 3,
+    "paar": true
+   },
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "Sharp 55JP7265E",
+    "in": "Samsung UE55M74H",
+    "plek": 8,
+    "paar": true
+   },
+   {
+    "d": "2026-11-12",
+    "t": "vervangen",
+    "uit": "TCL 65T69C",
+    "in": "TCL 55P8K",
+    "plek": 2,
+    "paar": true
+   }
+  ],
+  "_tot": "d02a3e1ef8ba85273d814a825ef04816ffe4b79e",
+  "_ps": [
+   {
+    "brand": "LG",
+    "name": "55QNED84A6C",
+    "ean": "8806096353134"
+   },
+   {
+    "brand": "TCL",
+    "name": "55P8K",
+    "ean": "5901292525897"
+   },
+   {
+    "brand": "CHiQ",
+    "name": "M55QN9G",
+    "ean": "8592344205507"
+   },
+   {
+    "brand": "Hisense",
+    "name": "55E7S",
+    "ean": "6942351431352"
+   },
+   {
+    "brand": "Samsung",
+    "name": "UE55U7090H",
+    "ean": "8806099133863"
+   },
+   {
+    "brand": "Philips",
+    "name": "55PUS8001/12",
+    "ean": "8718863051726"
+   },
+   {
+    "brand": "Xiaomi",
+    "name": "TV A Pro 2026 55 inch",
+    "ean": "6941948705722"
+   },
+   {
+    "brand": "Samsung",
+    "name": "UE55M74H",
+    "ean": "8806099134334"
+   },
+   {
+    "brand": "TCL",
+    "name": "55P61K",
+    "ean": "5901292527044"
+   },
+   {
+    "brand": "Hisense",
+    "name": "65A6S",
+    "ean": "6942351430751"
+   }
+  ]
+ },
+ "beste-robotstofzuiger-met-dweilfunctie": {
+  "start": "2026-10-17",
+  "n": 10,
+  "events": [],
+  "_tot": "d02a3e1ef8ba85273d814a825ef04816ffe4b79e",
+  "_ps": [
+   {
+    "brand": "Roborock",
+    "name": "Qrevo Edge 2",
+    "ean": "6936905906601"
+   },
+   {
+    "brand": "Dreame",
+    "name": "L40s Pro Ultra",
+    "ean": "6977328066190"
+   },
+   {
+    "brand": "Dreame",
+    "name": "Matrix10 Ultra",
+    "ean": "6978515252549"
+   },
+   {
+    "brand": "Roborock",
+    "name": "Qrevo Curv 2 Pro",
+    "ean": "6936905904522"
+   },
+   {
+    "brand": "Ecovacs",
+    "name": "Deebot T50 Pro Omni Gen3",
+    "ean": "0783296427743"
+   },
+   {
+    "brand": "Dreame",
+    "name": "L10s Ultra Gen 2",
+    "ean": "6976233677033"
+   },
+   {
+    "brand": "Ecovacs",
+    "name": "Deebot T80 Omni",
+    "ean": "6970135036271"
+   },
+   {
+    "brand": "eufy",
+    "name": "X10 Pro Omni",
+    "ean": "0194644178093"
+   },
+   {
+    "brand": "Philips",
+    "name": "HomeRun 5000 XU5000/10",
+    "ean": "8720389055645"
+   },
+   {
+    "brand": "Roborock",
+    "name": "Q10 PF+",
+    "ean": "6936905902177"
+   }
+  ]
+ },
+ "beste-elektrische-fiets": {
+  "start": "2026-10-15",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "HillMiles MileCity 1",
+    "in": "TTGO C3 28 inch",
+    "plek": 6,
+    "paar": true
+   }
+  ],
+  "_tot": "68ba4b9bac1ca93beb09df2f81c3f623f80a2d44",
+  "_ps": [
+   {
+    "brand": "REX",
+    "name": "Commuter+ 28 inch",
+    "ean": "4262508280001"
+   },
+   {
+    "brand": "Rabeneick",
+    "name": "Comfort Enviolo 28 inch",
+    "ean": "4262508280056"
+   },
+   {
+    "brand": "SAXXX",
+    "name": "Stads e-bike 28 inch",
+    "ean": "0754208080486"
+   },
+   {
+    "brand": "Watt",
+    "name": "Brooklyn E-Bike heren",
+    "ean": "8719327531853"
+   },
+   {
+    "brand": "ENGWE",
+    "name": "L20 3.0 Boost",
+    "ean": "0765026515142"
+   },
+   {
+    "brand": "TTGO",
+    "name": "C3 28 inch",
+    "ean": "0762740023861"
+   },
+   {
+    "brand": "Saxonette",
+    "name": "Degreaser dames",
+    "ean": "4260416588301"
+   },
+   {
+    "brand": "Fafrees",
+    "name": "F20 vouwfiets",
+    "ean": "6978962178393"
+   },
+   {
+    "brand": "Touroll",
+    "name": "J2 ST",
+    "ean": "5010065301658"
+   },
+   {
+    "brand": "Hitway",
+    "name": "BK8SL",
+    "ean": "8711551987567"
+   }
+  ]
+ },
+ "beste-tv-ambilight": {
+  "start": "2026-11-05",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-11-09",
+    "t": "vervangen",
+    "uit": "Philips 55OLED810/12",
+    "in": "Philips 55OLED811",
+    "plek": 1,
+    "paar": true
+   },
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "Philips 43PUS9000/12",
+    "in": "Philips 43PQS8601/12",
+    "plek": 9,
+    "paar": true
+   }
+  ],
+  "_tot": "68ba4b9bac1ca93beb09df2f81c3f623f80a2d44",
+  "_ps": [
+   {
+    "brand": "Philips",
+    "name": "55OLED811",
+    "ean": "8718863052044"
+   },
+   {
+    "brand": "Philips",
+    "name": "55PQS8601/12",
+    "ean": "8718863052761"
+   },
+   {
+    "brand": "Philips",
+    "name": "65OLED911",
+    "ean": "8718863052136"
+   },
+   {
+    "brand": "Philips",
+    "name": "65OLED811",
+    "ean": "8718863052105"
+   },
+   {
+    "brand": "Philips",
+    "name": "55MLED910",
+    "ean": "8718863048658"
+   },
+   {
+    "brand": "Philips",
+    "name": "42OLED811",
+    "ean": "8718863051948"
+   },
+   {
+    "brand": "Philips",
+    "name": "65PQS8601/12",
+    "ean": "8718863052778"
+   },
+   {
+    "brand": "Philips",
+    "name": "50PQS8601/12",
+    "ean": "8718863052754"
+   },
+   {
+    "brand": "Philips",
+    "name": "43PQS8601/12",
+    "ean": "8718863052747"
+   },
+   {
+    "brand": "Philips",
+    "name": "43PUS8001/12",
+    "ean": "8718863051702"
+   }
+  ]
+ },
+ "beste-hoekbank": {
+  "start": "2026-10-21",
+  "n": 10,
+  "events": [],
+  "_tot": "68ba4b9bac1ca93beb09df2f81c3f623f80a2d44",
+  "_ps": [
+   {
+    "brand": "WOOOD",
+    "name": "Thomas hoekbank ribstof",
+    "ean": "8714713068876"
+   },
+   {
+    "brand": "Beliani",
+    "name": "Oslo hoekbank fluweel",
+    "ean": "4251682220514"
+   },
+   {
+    "brand": "WOOOD",
+    "name": "Cloud hoekbank chenille",
+    "ean": "8714713264834"
+   },
+   {
+    "brand": "Zuiver",
+    "name": "Stones 3-zitsbank chaise longue",
+    "ean": "8721515303999"
+   },
+   {
+    "brand": "Meubella",
+    "name": "Monet hoekbank leer",
+    "ean": "8721055841784"
+   },
+   {
+    "brand": "Dimehouse",
+    "name": "Ravi hoekbank chenille",
+    "ean": "8720239866742"
+   },
+   {
+    "brand": "Bronx71",
+    "name": "Maine hoekbank bouclé",
+    "ean": "8721077043555"
+   },
+   {
+    "brand": "Beliani",
+    "name": "Rokke elektrisch verstelbare hoekbank",
+    "ean": "4251682262453"
+   },
+   {
+    "brand": "Lisomme",
+    "name": "Jelle hoekbank",
+    "ean": "8721145202174"
+   },
+   {
+    "brand": "House Nordic",
+    "name": "Firenze 2-zits hoekbank",
+    "ean": "5713917026517"
+   }
+  ]
+ },
+ "beste-televisie": {
+  "start": "2026-10-13",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-10-15",
+    "t": "vervangen",
+    "uit": "Samsung 65S95F",
+    "in": "Samsung QE65S95H",
+    "plek": 3,
+    "paar": true
+   },
+   {
+    "d": "2026-10-15",
+    "t": "vervangen",
+    "uit": "Samsung 65QN90F",
+    "in": "Samsung QE65QN83H",
+    "plek": 4,
+    "paar": true
+   },
+   {
+    "d": "2026-10-15",
+    "t": "vervangen",
+    "uit": "Hisense 65U7Q",
+    "in": "Hisense 65E8S",
+    "plek": 7,
+    "paar": true
+   },
+   {
+    "d": "2026-10-15",
+    "t": "vervangen",
+    "uit": "TCL 65C7K",
+    "in": "TCL 65Q6C",
+    "plek": 8,
+    "paar": true
+   },
+   {
+    "d": "2026-10-15",
+    "t": "vervangen",
+    "uit": "Samsung 55Q70F",
+    "in": "Samsung UE55M74H",
+    "plek": 9,
+    "paar": true
+   },
+   {
+    "d": "2026-11-02",
+    "t": "vervangen",
+    "uit": "Philips 55OLED810",
+    "in": "Philips 55OLED811",
+    "plek": 6,
+    "paar": true
+   },
+   {
+    "d": "2026-11-03",
+    "t": "vervangen",
+    "uit": "Hisense 55E7Q Pro",
+    "in": "Hisense 55E7S PRO",
+    "plek": 10,
+    "paar": true
+   },
+   {
+    "d": "2026-11-04",
+    "t": "vervangen",
+    "uit": "Hisense 65E8S",
+    "in": "TCL 65T8D",
+    "plek": 7,
+    "paar": true
+   },
+   {
+    "d": "2026-11-08",
+    "t": "vervangen",
+    "uit": "TCL 65T8D",
+    "in": "LG 65QNED84A6C",
+    "plek": 7,
+    "paar": true
+   },
+   {
+    "d": "2026-11-09",
+    "t": "vervangen",
+    "uit": "TCL 65Q6C",
+    "in": "TCL 65T69C",
+    "plek": 8,
+    "paar": true
+   },
+   {
+    "d": "2026-11-12",
+    "t": "vervangen",
+    "uit": "TCL 65T69C",
+    "in": "TCL 65C6KS",
+    "plek": 8,
+    "paar": true
+   }
+  ],
+  "_tot": "d02a3e1ef8ba85273d814a825ef04816ffe4b79e",
+  "_ps": [
+   {
+    "brand": "LG",
+    "name": "OLED65C5",
+    "ean": "8806096363430"
+   },
+   {
+    "brand": "LG",
+    "name": "OLED55B5",
+    "ean": "8806096360576"
+   },
+   {
+    "brand": "Samsung",
+    "name": "QE65S95H",
+    "ean": "8806099136116"
+   },
+   {
+    "brand": "Samsung",
+    "name": "QE65QN83H",
+    "ean": "8806099129613"
+   },
+   {
+    "brand": "Sony",
+    "name": "Bravia 7 65 inch",
+    "ean": "4548736178335"
+   },
+   {
+    "brand": "Philips",
+    "name": "55OLED811",
+    "ean": "8718863052044"
+   },
+   {
+    "brand": "LG",
+    "name": "65QNED84A6C",
+    "ean": "8806096422007"
+   },
+   {
+    "brand": "TCL",
+    "name": "65C6KS",
+    "ean": "5901292525828"
+   },
+   {
+    "brand": "Samsung",
+    "name": "UE55M74H",
+    "ean": "8806099134334"
+   },
+   {
+    "brand": "Hisense",
+    "name": "55E7S PRO",
+    "ean": "6942351432779"
+   }
+  ]
+ },
+ "beste-tv-50-inch": {
+  "start": "2026-10-29",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-11-01",
+    "t": "vervangen",
+    "uit": "TCL 50P79L",
+    "in": "Hisense 50E7S",
+    "plek": 7,
+    "paar": true
+   },
+   {
+    "d": "2026-11-01",
+    "t": "vervangen",
+    "uit": "Xiaomi TV A Pro 2026 50 inch",
+    "in": "TCL 50P61K",
+    "plek": 9,
+    "paar": true
+   },
+   {
+    "d": "2026-11-03",
+    "t": "vervangen",
+    "uit": "LG 50QNED86A6C",
+    "in": "LG 50QNED87A6D",
+    "plek": 5,
+    "paar": true
+   },
+   {
+    "d": "2026-11-03",
+    "t": "vervangen",
+    "uit": "Samsung QE50Q7F2A",
+    "in": "Philips 50PQS7801/12",
+    "plek": 10,
+    "paar": true
+   },
+   {
+    "d": "2026-11-09",
+    "t": "vervangen",
+    "uit": "TCL 50P61K",
+    "in": "TCL 50P6K",
+    "plek": 9,
+    "paar": true
+   }
+  ],
+  "_tot": "7893b932781ebab5fcbe5eb73955a999a127f249",
+  "_ps": [
+   {
+    "brand": "Hisense",
+    "name": "50E8S",
+    "ean": "6942351434391"
+   },
+   {
+    "brand": "Samsung",
+    "name": "UE50M74H",
+    "ean": "8806099134570"
+   },
+   {
+    "brand": "Philips",
+    "name": "Ambilight 50PUS9000/12",
+    "ean": "8718863046074"
+   },
+   {
+    "brand": "TCL",
+    "name": "50Q7C",
+    "ean": "5901292526627"
+   },
+   {
+    "brand": "LG",
+    "name": "50QNED87A6D",
+    "ean": "8806096383827"
+   },
+   {
+    "brand": "Hisense",
+    "name": "50E7S PRO",
+    "ean": "6942351432977"
+   },
+   {
+    "brand": "Hisense",
+    "name": "50E7S",
+    "ean": "6942351431161"
+   },
+   {
+    "brand": "Sony",
+    "name": "BRAVIA 3 II 50 inch",
+    "ean": "4548736177727"
+   },
+   {
+    "brand": "TCL",
+    "name": "50P6K",
+    "ean": "5901292528935"
+   },
+   {
+    "brand": "Philips",
+    "name": "50PQS7801/12",
+    "ean": "8718863051665"
+   }
+  ]
+ },
+ "beste-laptop-voor-studenten": {
+  "start": "2026-10-16",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "ASUS Vivobook 15 X1504VA-BQ3741W Core 5 16 GB 1 TB",
+    "in": "ASUS Vivobook 15 X1504VA-BQ3112W Core 5 16 GB 512 GB",
+    "plek": 7,
+    "paar": true,
+    "waarom": "niet meer leverbaar of verkeerd geprijsd bij bol"
+   },
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "Acer Aspire Go 15 AG15-71P-587Q Core 5 16 GB 512 GB",
+    "in": "Acer Aspire Go 15 AG15-72P-58FA Core 5 16 GB 512 GB",
+    "plek": 8,
+    "paar": true,
+    "waarom": "niet meer leverbaar of verkeerd geprijsd bij bol"
+   },
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "ASUS Vivobook 15 X1504VA-BQ3112W Core 5 16 GB 512 GB",
+    "in": "ASUS Vivobook 15 X1504VA-BQ2961W Core i5 16 GB 512 GB",
+    "plek": 7,
+    "paar": true
+   },
+   {
+    "d": "2026-11-12",
+    "t": "vervangen",
+    "uit": "Acer Chromebook Plus 514 CB514-6HT-31LN Core 3 8 GB 128 GB",
+    "in": "Acer Chromebook Plus 516 CB516-1H-320T Core 3 8 GB 128 GB",
+    "plek": 10,
+    "paar": true
+   }
+  ],
+  "_tot": "d02a3e1ef8ba85273d814a825ef04816ffe4b79e",
+  "_ps": [
+   {
+    "brand": "Apple",
+    "name": "MacBook Air 13 inch M4 (2025) 16 GB 256 GB",
+    "ean": "0195949837210"
+   },
+   {
+    "brand": "Lenovo",
+    "name": "IdeaPad Slim 3 15AMN8 Ryzen 5 16 GB 512 GB",
+    "ean": "0199275372988"
+   },
+   {
+    "brand": "Apple",
+    "name": "MacBook Air 13 inch M5 (2026) 16 GB 512 GB",
+    "ean": "0195950690224"
+   },
+   {
+    "brand": "ASUS",
+    "name": "Zenbook 14 UX3480QA-SF003W Snapdragon X 16 GB 512 GB",
+    "ean": "4711636590495"
+   },
+   {
+    "brand": "HP",
+    "name": "OmniBook 3 14-hz0716ndx Snapdragon X 16 GB 512 GB",
+    "ean": "0826581670346"
+   },
+   {
+    "brand": "Lenovo",
+    "name": "IdeaPad Slim 5 15ARP10 Ryzen 5 16 GB 512 GB",
+    "ean": "0199271275306"
+   },
+   {
+    "brand": "ASUS",
+    "name": "Vivobook 15 X1504VA-BQ2961W Core i5 16 GB 512 GB",
+    "ean": "4711636040044"
+   },
+   {
+    "brand": "Acer",
+    "name": "Aspire Go 15 AG15-72P-58FA Core 5 16 GB 512 GB",
+    "ean": "4711721099780"
+   },
+   {
+    "brand": "HP",
+    "name": "OmniBook 5 Flip 14-fp0770nd 2-in-1 Core 7 16 GB 512 GB",
+    "ean": "0199485111728"
+   },
+   {
+    "brand": "Acer",
+    "name": "Chromebook Plus 516 CB516-1H-320T Core 3 8 GB 128 GB",
+    "ean": "4711721015643"
+   }
+  ]
+ },
+ "beste-gaming-pc": {
+  "start": "2026-10-21",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-11-03",
+    "t": "vervangen",
+    "uit": "FlowUP Titan (Ryzen 7 9800X3D, RTX 5070 Ti)",
+    "in": "Fractal Design North Gaming PC (Ryzen 7 9800X3D, RTX 5070 Ti)",
+    "plek": 6,
+    "paar": true
+   }
+  ],
+  "_tot": "68ba4b9bac1ca93beb09df2f81c3f623f80a2d44",
+  "_ps": [
+   {
+    "brand": "ASUS",
+    "name": "ROG G700 G700TF-7265KF306W (Core Ultra 7 265KF, RTX 5070)",
+    "ean": "4711636406819"
+   },
+   {
+    "brand": "HP",
+    "name": "OMEN 35L GT16-1791nd (Ryzen 9 9900X3D, RTX 5080)",
+    "ean": "0199896662369"
+   },
+   {
+    "brand": "HP",
+    "name": "OMEN 35L GT16-1773nd (Ryzen 7 7800X3D, RTX 5070)",
+    "ean": "0199896662338"
+   },
+   {
+    "brand": "Lenovo",
+    "name": "Legion T5 30AGB10 90YJ0096MH (Ryzen 7 7700X, RTX 5070 Ti)",
+    "ean": "0199274389901"
+   },
+   {
+    "brand": "AZZA",
+    "name": "Prime Gaming PC (Ryzen 7 5700X, RTX 5070)",
+    "ean": "8721161189695"
+   },
+   {
+    "brand": "Fractal Design",
+    "name": "North Gaming PC (Ryzen 7 9800X3D, RTX 5070 Ti)",
+    "ean": "8721447841620"
+   },
+   {
+    "brand": "MSI",
+    "name": "Pano Gaming PC (Ryzen 7 9800X3D, Radeon RX 9070 XT)",
+    "ean": "8721447841965"
+   },
+   {
+    "brand": "ASUS",
+    "name": "ROG G700 G700TF-05225F115W (Core Ultra 5 225F, RTX 5060)",
+    "ean": "4711636406796"
+   },
+   {
+    "brand": "Lenovo",
+    "name": "LOQ Tower 26ADR10 91DF0083MH (Ryzen 7 8745HX, RTX 5060)",
+    "ean": "0199274389888"
+   },
+   {
+    "brand": "Scan",
+    "name": "3XS Systems Vista (Ryzen 5 5500, RTX 5060)",
+    "ean": "5055948968580"
+   }
+  ]
+ },
+ "beste-tv-onder-1000-euro": {
+  "start": "2026-10-27",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-11-04",
+    "t": "vervangen",
+    "uit": "Hisense 65E8S",
+    "in": "TCL 65T8D",
+    "plek": 2,
+    "paar": true
+   },
+   {
+    "d": "2026-11-06",
+    "t": "vervangen",
+    "uit": "Sony Bravia 5 55 inch",
+    "in": "Philips 55OLED810 Ambilight",
+    "plek": 3,
+    "paar": true
+   },
+   {
+    "d": "2026-11-08",
+    "t": "vervangen",
+    "uit": "TCL 65T8D",
+    "in": "TCL 55T8D",
+    "plek": 2,
+    "paar": true
+   },
+   {
+    "d": "2026-11-09",
+    "t": "vervangen",
+    "uit": "Philips 55OLED810 Ambilight",
+    "in": "Philips 42OLED811",
+    "plek": 3,
+    "paar": true
+   },
+   {
+    "d": "2026-11-09",
+    "t": "vervangen",
+    "uit": "TCL 65Q6C",
+    "in": "Samsung UE65M82H",
+    "plek": 5,
+    "paar": true
+   },
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "Philips 42OLED811",
+    "in": "Philips 48OLED760",
+    "plek": 3,
+    "paar": true
+   },
+   {
+    "d": "2026-11-11",
+    "t": "vervangen",
+    "uit": "LG C5 OLED42C55LA",
+    "in": "LG C5 OLED42C54LA",
+    "plek": 6,
+    "paar": true
+   }
+  ],
+  "_tot": "d02a3e1ef8ba85273d814a825ef04816ffe4b79e",
+  "_ps": [
+   {
+    "brand": "LG",
+    "name": "B5 OLED55B56LA",
+    "ean": "8806096360576"
+   },
+   {
+    "brand": "TCL",
+    "name": "55T8D",
+    "ean": "5901292531072"
+   },
+   {
+    "brand": "Philips",
+    "name": "48OLED760",
+    "ean": "8718863046753"
+   },
+   {
+    "brand": "Samsung",
+    "name": "QE55QN83F",
+    "ean": "8806097160953"
+   },
+   {
+    "brand": "Samsung",
+    "name": "UE65M82H",
+    "ean": "8806099134341"
+   },
+   {
+    "brand": "LG",
+    "name": "C5 OLED42C54LA",
+    "ean": "8806096361948"
+   },
+   {
+    "brand": "Hisense",
+    "name": "65E7S PRO",
+    "ean": "6942351432595"
+   },
+   {
+    "brand": "TCL",
+    "name": "65C6KS",
+    "ean": "5901292525828"
+   },
+   {
+    "brand": "Samsung",
+    "name": "UE65M74H",
+    "ean": "8806099134624"
+   },
+   {
+    "brand": "LG",
+    "name": "65QNED84A6C",
+    "ean": "8806096422007"
+   }
+  ]
+ },
+ "beste-elektrische-openhaard": {
+  "start": "2026-10-20",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "Dimplex Oakridge",
+    "in": "Dimplex Club",
+    "plek": 1,
+    "paar": true,
+    "waarom": "niet meer leverbaar of verkeerd geprijsd bij bol"
+   },
+   {
+    "d": "2026-10-25",
+    "t": "vervangen",
+    "uit": "Eurom Barcelona",
+    "in": "alpina Helsinki ND-183",
+    "plek": 6,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol"
+   },
+   {
+    "d": "2026-11-01",
+    "t": "vervangen",
+    "uit": "Klarstein Kamini inbouwhaard",
+    "in": "Costway Elektrische inbouwhaard 45,7 cm",
+    "plek": 10,
+    "paar": true
+   },
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "Costway Elektrische inbouwhaard 45,7 cm",
+    "in": "Costway Elektrische inbouwhaard 49 cm",
+    "plek": 10,
+    "paar": true
+   }
+  ],
+  "_tot": "7893b932781ebab5fcbe5eb73955a999a127f249",
+  "_ps": [
+   {
+    "brand": "Dimplex",
+    "name": "Club",
+    "ean": "5011139061454"
+   },
+   {
+    "brand": "Dimplex",
+    "name": "Tango",
+    "ean": "5011139061485"
+   },
+   {
+    "brand": "Dimplex",
+    "name": "Evandale Opti-myst",
+    "ean": "8716412235818"
+   },
+   {
+    "brand": "Dimplex",
+    "name": "Sierra 48 Cinewall",
+    "ean": "8716412220937"
+   },
+   {
+    "brand": "Dimplex",
+    "name": "XHD 23 inbouwhaard",
+    "ean": "5011139210951"
+   },
+   {
+    "brand": "alpina",
+    "name": "Helsinki ND-183",
+    "ean": "8711252248486"
+   },
+   {
+    "brand": "Classic Fire",
+    "name": "Narvik",
+    "ean": "8711252989822"
+   },
+   {
+    "brand": "MOA",
+    "name": "Sfeerhaard 2.000 W",
+    "ean": "8718001908929"
+   },
+   {
+    "brand": "Classic Fire",
+    "name": "Verona",
+    "ean": "8711252164137"
+   },
+   {
+    "brand": "Costway",
+    "name": "Elektrische inbouwhaard 49 cm",
+    "ean": "0672669132523"
+   }
+  ]
+ },
+ "beste-boxspring": {
+  "start": "2026-10-21",
+  "n": 10,
+  "events": [],
+  "_tot": "68ba4b9bac1ca93beb09df2f81c3f623f80a2d44",
+  "_ps": [
+   {
+    "brand": "Anno 1588",
+    "name": "Boxspring Amsterdam 180x200",
+    "ean": "8719992840205"
+   },
+   {
+    "brand": "Ayla Matrassen",
+    "name": "Ayla Royal 160x200 compleet",
+    "ean": "8721352386209"
+   },
+   {
+    "brand": "Anno 1588",
+    "name": "Elektrische Boxspring LUXA 180x200",
+    "ean": "8720039729131"
+   },
+   {
+    "brand": "Meuba Home",
+    "name": "Florence Boxspring 180x200",
+    "ean": "5407010605167"
+   },
+   {
+    "brand": "Nessa",
+    "name": "Boxspring Hotel 180x200",
+    "ean": "8438478213035"
+   },
+   {
+    "brand": "Anno 1588",
+    "name": "Comforta Boxspringset 180x200",
+    "ean": "8719128297835"
+   },
+   {
+    "brand": "Meuba Home",
+    "name": "Oslo Boxspring 160x200",
+    "ean": "5407010605068"
+   },
+   {
+    "brand": "BSS Bedding",
+    "name": "Fluffy Boxspring 140x200",
+    "ean": "6152925174169"
+   },
+   {
+    "brand": "Golden Matrassen Zeeland",
+    "name": "SleepEase 160x200 compleet",
+    "ean": "8721352381945"
+   },
+   {
+    "brand": "Nessa",
+    "name": "Boxspring Bjorn 140x200",
+    "ean": "8721321758952"
+   }
+  ]
+ },
+ "beste-oled-tv": {
+  "start": "2026-10-16",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "Sony Bravia 8 55 inch",
+    "in": "Sony Bravia 6 55 inch",
+    "plek": 5,
+    "paar": true,
+    "waarom": "niet meer leverbaar of verkeerd geprijsd bij bol"
+   },
+   {
+    "d": "2026-10-24",
+    "t": "vervangen",
+    "uit": "Philips 55OLED760/12 55 inch",
+    "in": "LG B4 OLED55B42LA 55 inch",
+    "plek": 8,
+    "paar": true,
+    "waarom": "niet meer leverbaar of verkeerd geprijsd bij bol"
+   },
+   {
+    "d": "2026-10-28",
+    "t": "vervangen",
+    "uit": "LG B4 OLED55B42LA 55 inch",
+    "in": "LG C5 OLED42C55LA 42 inch",
+    "plek": 8,
+    "paar": true
+   },
+   {
+    "d": "2026-11-02",
+    "t": "vervangen",
+    "uit": "Philips Ambilight 55OLED810/12 55 inch",
+    "in": "Philips Ambilight 55OLED811 55 inch",
+    "plek": 6,
+    "paar": true
+   },
+   {
+    "d": "2026-11-09",
+    "t": "vervangen",
+    "uit": "Samsung QE42S92F 42 inch",
+    "in": "Samsung QE42S93H 42 inch",
+    "plek": 9,
+    "paar": true
+   },
+   {
+    "d": "2026-11-11",
+    "t": "vervangen",
+    "uit": "LG C5 OLED42C55LA 42 inch",
+    "in": "LG C5 OLED42C54LA 42 inch",
+    "plek": 8,
+    "paar": true
+   },
+   {
+    "d": "2026-11-12",
+    "t": "vervangen",
+    "uit": "Hisense 55A85Q 55 inch",
+    "in": "LG B5 OLED48B56LA 48 inch",
+    "plek": 10,
+    "paar": true
+   }
+  ],
+  "_tot": "d02a3e1ef8ba85273d814a825ef04816ffe4b79e",
+  "_ps": [
+   {
+    "brand": "LG",
+    "name": "C5 OLED55C56LB 55 inch",
+    "ean": "8806096361924"
+   },
+   {
+    "brand": "LG",
+    "name": "B5 OLED55B56LA 55 inch",
+    "ean": "8806096360576"
+   },
+   {
+    "brand": "Samsung",
+    "name": "QE65S95H 65 inch",
+    "ean": "8806099136116"
+   },
+   {
+    "brand": "LG",
+    "name": "G5 OLED55G56LS 55 inch",
+    "ean": "8806096363683"
+   },
+   {
+    "brand": "Sony",
+    "name": "Bravia 6 55 inch",
+    "ean": "4548736182851"
+   },
+   {
+    "brand": "Philips",
+    "name": "Ambilight 55OLED811 55 inch",
+    "ean": "8718863052044"
+   },
+   {
+    "brand": "Samsung",
+    "name": "QE55S93H 55 inch",
+    "ean": "8806099124212"
+   },
+   {
+    "brand": "LG",
+    "name": "C5 OLED42C54LA 42 inch",
+    "ean": "8806096361948"
+   },
+   {
+    "brand": "Samsung",
+    "name": "QE42S93H 42 inch",
+    "ean": "8806099127633"
+   },
+   {
+    "brand": "LG",
+    "name": "B5 OLED48B56LA 48 inch",
+    "ean": "8806096353790"
+   }
+  ]
+ },
+ "beste-warmtepompdroger": {
+  "start": "2026-10-20",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-11-03",
+    "t": "vervangen",
+    "uit": "AEG 8000 TR868B4B AbsoluteCare",
+    "in": "AEG 8000 TR868DS4 AbsoluteCare",
+    "plek": 5,
+    "paar": true
+   },
+   {
+    "d": "2026-11-12",
+    "t": "vervangen",
+    "uit": "Hisense 5S Serie DH5S902BW",
+    "in": "Hisense 5S Serie DH5S102BW",
+    "plek": 2,
+    "paar": true
+   }
+  ],
+  "_tot": "d02a3e1ef8ba85273d814a825ef04816ffe4b79e",
+  "_ps": [
+   {
+    "brand": "Samsung",
+    "name": "AI Dry DV90DG6845LBU3 6000 serie",
+    "ean": "8806097341987"
+   },
+   {
+    "brand": "Hisense",
+    "name": "5S Serie DH5S102BW",
+    "ean": "6901101825612"
+   },
+   {
+    "brand": "AEG",
+    "name": "9000X TR969V6C AbsoluteCare Pro",
+    "ean": "7333394134956"
+   },
+   {
+    "brand": "Samsung",
+    "name": "Bespoke DV90DB7845GEU3 7000 serie",
+    "ean": "8806097341819"
+   },
+   {
+    "brand": "AEG",
+    "name": "8000 TR868DS4 AbsoluteCare",
+    "ean": "7333394161396"
+   },
+   {
+    "brand": "Siemens",
+    "name": "iQ700 WR47B2C7NL",
+    "ean": "4242003975671"
+   },
+   {
+    "brand": "LG",
+    "name": "RHX5009TWB",
+    "ean": "8806096654965"
+   },
+   {
+    "brand": "Inventum",
+    "name": "VDW9030W",
+    "ean": "8712876130201"
+   },
+   {
+    "brand": "Beko",
+    "name": "BM3T3824W",
+    "ean": "8690842722936"
+   },
+   {
+    "brand": "Hisense",
+    "name": "3S Serie DH3S802BW2",
+    "ean": "6901101829634"
+   }
+  ]
+ },
+ "beste-tv-43-inch": {
+  "start": "2026-10-20",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-11-02",
+    "t": "vervangen",
+    "uit": "TCL 43P79L",
+    "in": "LG 43QNED70A6A",
+    "plek": 7,
+    "paar": true
+   },
+   {
+    "d": "2026-11-03",
+    "t": "vervangen",
+    "uit": "LG 43QNED70A6A",
+    "in": "LG 43QNED80T6A",
+    "plek": 7,
+    "paar": true
+   },
+   {
+    "d": "2026-11-03",
+    "t": "vervangen",
+    "uit": "Samsung UE43U7090H",
+    "in": "Samsung UE43M74H",
+    "plek": 9,
+    "paar": true
+   },
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "Philips Ambilight 43PUS9000/12",
+    "in": "Philips Ambilight 43PQS8601/12",
+    "plek": 4,
+    "paar": true
+   }
+  ],
+  "_tot": "68ba4b9bac1ca93beb09df2f81c3f623f80a2d44",
+  "_ps": [
+   {
+    "brand": "Samsung",
+    "name": "Neo QLED QE43QN92F",
+    "ean": "8806097114291"
+   },
+   {
+    "brand": "Hisense",
+    "name": "43E7S PRO",
+    "ean": "6942351432410"
+   },
+   {
+    "brand": "Samsung",
+    "name": "The Frame QE43LS03H (2026)",
+    "ean": "8806099242787"
+   },
+   {
+    "brand": "Philips",
+    "name": "Ambilight 43PQS8601/12",
+    "ean": "8718863052747"
+   },
+   {
+    "brand": "LG",
+    "name": "43QNED84A6",
+    "ean": "8806096419038"
+   },
+   {
+    "brand": "Sony",
+    "name": "BRAVIA 3 II 43 inch",
+    "ean": "4548736177741"
+   },
+   {
+    "brand": "LG",
+    "name": "43QNED80T6A",
+    "ean": "8806091952202"
+   },
+   {
+    "brand": "Xiaomi",
+    "name": "TV A Pro 2026 43 inch",
+    "ean": "6941948705630"
+   },
+   {
+    "brand": "Samsung",
+    "name": "UE43M74H",
+    "ean": "8806099134440"
+   },
+   {
+    "brand": "TCL",
+    "name": "43S51K",
+    "ean": "5901292527075"
+   }
+  ]
+ },
+ "beste-pelletkachel": {
+  "start": "2026-10-21",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-11-05",
+    "t": "vervangen",
+    "uit": "Livn Skomo 6",
+    "in": "THUNDER Leyla 6 kW",
+    "plek": 7,
+    "paar": true
+   },
+   {
+    "d": "2026-11-07",
+    "t": "vervangen",
+    "uit": "Artel Julia Next",
+    "in": "Stove Industry MARINA 6",
+    "plek": 5,
+    "paar": true
+   }
+  ],
+  "_tot": "68ba4b9bac1ca93beb09df2f81c3f623f80a2d44",
+  "_ps": [
+   {
+    "brand": "Livn",
+    "name": "Liland 8",
+    "ean": "8712757458622"
+   },
+   {
+    "brand": "Kalor",
+    "name": "Kim 8 kW",
+    "ean": "8029906027616"
+   },
+   {
+    "brand": "Kalor",
+    "name": "Futura 7 kW",
+    "ean": "8029906004624"
+   },
+   {
+    "brand": "Livn",
+    "name": "Hamar 8",
+    "ean": "8712757486984"
+   },
+   {
+    "brand": "Stove Industry",
+    "name": "MARINA 6",
+    "ean": "3760366604034"
+   },
+   {
+    "brand": "THUNDER",
+    "name": "Karmen 9 kW",
+    "ean": "5906765564410"
+   },
+   {
+    "brand": "THUNDER",
+    "name": "Leyla 6 kW",
+    "ean": "5906765561273"
+   },
+   {
+    "brand": "Fair",
+    "name": "BIO 80",
+    "ean": "8719327193297"
+   },
+   {
+    "brand": "Kalor",
+    "name": "Smart 6 kW",
+    "ean": "8029906029429"
+   },
+   {
+    "brand": "THUNDER",
+    "name": "Aria 11 kW",
+    "ean": "5904161759843"
+   }
+  ]
+ },
+ "beste-tv-onder-300-euro": {
+  "start": "2026-11-02",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-11-03",
+    "t": "vervangen",
+    "uit": "Hisense 32A5Q",
+    "in": "Philips 32PQS6901/12",
+    "plek": 10,
+    "paar": true
+   },
+   {
+    "d": "2026-11-09",
+    "t": "vervangen",
+    "uit": "Philips 32PFS6900/12",
+    "in": "Philips 32PFS6050/12",
+    "plek": 7,
+    "paar": true
+   }
+  ],
+  "_tot": "7893b932781ebab5fcbe5eb73955a999a127f249",
+  "_ps": [
+   {
+    "brand": "Xiaomi",
+    "name": "TV A Pro 2026 43 inch",
+    "ean": "6941948705630"
+   },
+   {
+    "brand": "Hisense",
+    "name": "43A7Q",
+    "ean": "6942351420189"
+   },
+   {
+    "brand": "TCL",
+    "name": "43S51K",
+    "ean": "5901292527075"
+   },
+   {
+    "brand": "CHiQ",
+    "name": "U43QST",
+    "ean": "8592344206092"
+   },
+   {
+    "brand": "LG",
+    "name": "32LQ63006LA",
+    "ean": "8806091636959"
+   },
+   {
+    "brand": "Xiaomi",
+    "name": "TV A Pro 32 2026",
+    "ean": "6941948705524"
+   },
+   {
+    "brand": "Philips",
+    "name": "32PFS6050/12",
+    "ean": "8718863051542"
+   },
+   {
+    "brand": "CHiQ",
+    "name": "L40FT",
+    "ean": "8592344206023"
+   },
+   {
+    "brand": "Samsung",
+    "name": "UE32H5000F",
+    "ean": "8806095917429"
+   },
+   {
+    "brand": "Philips",
+    "name": "32PQS6901/12",
+    "ean": "8718863051580"
+   }
+  ]
+ }
+}
