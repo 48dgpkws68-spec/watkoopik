@@ -325,3 +325,5 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 
 ## 2026-11-13 groeimotor nacht (N32 stap 3)
 - Gedaan: blok "Logboek van deze gids" op 20 gidsen (_src/logboek_gidsen.json): prijs van de top 3 uit ph en productwissels uit de git-geschiedenis (tools/logboek.py draait bij elke build mee). Verbeterronde: niets aan doen; een wissel verschijnt vanzelf in het logboek na de volgende build. Een andere kleur of uitvoering met hetzelfde typenummer telt niet als wissel. E49.
+
+- 2026-11-13 04:35 groeimotor-nacht (a7ad02b1): veld "wissels" met reden per productwissel, gelezen door tools/logboek.py en getoond in het logboek van de gids; regel in STAP 2c van VERBETER_PROMPT.md. Site ongewijzigd tot de eerste wissel met reden.
