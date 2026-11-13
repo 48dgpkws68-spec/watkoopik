@@ -339,3 +339,8 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: zwakke vervangers heroverwegen: Redmi Pad 2 groen (199, bol 3,8, was 149,90), Samsung QE55S93H (1249, 370 duurder), Samsung QE85QN70H (60 Hz), CREATE Silkair 9000 (derde CREATE in mobiele airco, geen reviews, levertijd 1 tot 2 weken), DreamGoods 7.000 BTU (495, geen reviews), Costway 180 cm en QH-OR zonder reviews, Bosch FlexiClick 58 euro duurder.
 - Idee voor later: Umami-events per gids weer uitlezen via tools/umami.py of de Events-tab (Properties); vergelijking LG 55QNED84 vs TCL 65T69C staat nog als verlopen.
 - Voor Nick: niets.
+
+## 2026-11-14 groeimotor nacht (eigen-merkblok op pauze)
+- Gedaan: Halolume is sinds 13 nov uitverkocht, dus het blok "Ons eigen merk" is gepauzeerd op de 8 gidsen waar het stond (tv 55, 65 en 75 inch, OLED, Mini LED, tv onder 500 en onder 1000, tech-cadeau onder 100). Nieuw veld eigen_merk.pauze (tekst met datum en reden): build.py toont het blok dan niet, de inhoud blijft in de data. Terugzetten: veld pauze weghalen zodra Nick voorraad meldt. Mhyson-blokken ongewijzigd.
+- Voor de verbeterronde: het veld "wissels" werkt (13 wissels van 13 nov vastgelegd, de reden staat live in het logboek van tv 55 inch).
+
