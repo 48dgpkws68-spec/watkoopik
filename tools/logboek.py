@@ -4,8 +4,12 @@
 Bron = de git-geschiedenis van data/<slug>.json. Per versie vergelijken we de 10 producten met de versie ervoor:
 een product dat verdween en een dat erbij kwam = vervanging; een andere nummer 1 = wissel aan de top.
 Een andere bol-aanbieding van hetzelfde model (zelfde naam, andere EAN, of bijna dezelfde naam) telt niet.
-Een reden staat er alleen bij als de commit maar over één ding ging (leverbaarheid of prijsgrens); anders geen reden.
-Niets wordt geschat of verzonnen.
+Een reden staat er alleen bij als de commit maar over één ding ging (leverbaarheid of prijsgrens), of als de
+verbeterronde hem zelf heeft vastgelegd in het veld "wissels" van data/<slug>.json:
+  "wissels": [{"d": "2026-11-13", "uit": "Hisense 55U7Q", "in": "Hisense 55E8S", "waarom": "niet meer leverbaar bij bol"}]
+(uit/in = merk + naam zoals in de gids, d = dag van de wissel, waarom = korte feitelijke reden zonder hoofdletter en punt).
+Het veld gaat vóór de afleiding uit de commit. Een reden die niet door de toets komt (te lang, streepjes, 'getest')
+wordt niet getoond en staat in de uitvoer als waarschuwing. Niets wordt geschat of verzonnen.
 
 Gebruik:
   python3 tools/logboek.py            -> werkt _src/logboek.json bij voor de gidsen in _src/logboek_gidsen.json
@@ -59,6 +63,37 @@ def reden(subject):
     for rx, t in REDEN:
         if rx.search(subject): return t
     return None
+
+FOUT = re.compile(r"[\u2013\u2014]|, en |getest|\btest|testsieger|<|>", re.I)
+def waarom_ok(w):
+    """Reden uit de data mag op de site als hij kort en feitelijk is (SCHRIJFREGELS: geen streepjes, geen ', en', nooit 'getest')."""
+    w = (w or "").strip().rstrip(".").strip()
+    if not (8 <= len(w) <= 140) or FOUT.search(w): return None
+    return w[0].lower() + w[1:] if not w[:2].isupper() else w
+
+def past(a, b):
+    a, b = norm(a), norm(b)
+    return bool(a and b) and (a == b or a in b or b in a)
+
+def wissels_uit_data(slug, lb):
+    """Legt de vastgelegde redenen (veld wissels in de huidige data) over de wissels uit de git-geschiedenis.
+    Koppeling: zelfde 'in' (en 'uit' als die is ingevuld), dag van de commit 0 tot 2 dagen na 'd'. Geeft waarschuwingen terug."""
+    import datetime
+    g = load(os.path.join(ROOT, "data", slug + ".json"), {}) or {}
+    warn = []
+    for w in g.get("wissels") or []:
+        if not isinstance(w, dict): continue
+        r = waarom_ok(w.get("waarom"))
+        if not r:
+            warn.append("%s: reden afgekeurd (%r)" % (slug, w.get("waarom"))); continue
+        try: d0 = datetime.date.fromisoformat(w.get("d", ""))
+        except Exception: d0 = None
+        for ev in lb["events"]:
+            if ev.get("t") != "vervangen" or not past(w.get("in"), ev["in"]): continue
+            if w.get("uit") and not past(w["uit"], ev["uit"]): continue
+            if d0 and not (0 <= (datetime.date.fromisoformat(ev["d"]) - d0).days <= 2): continue
+            ev["waarom"] = r; ev["bron"] = "data"
+    return warn
 
 def versies(slug):
     out = []
@@ -123,13 +158,17 @@ def main():
     if "--kies" in sys.argv: kies(int(sys.argv[sys.argv.index("--kies") + 1]))
     lijst = load(LIJST, {}).get("gidsen", [])
     cache = load(OUT, {})
-    out = {}
+    out = {}; warn = []
     for r in lijst:
         lb = logboek(r["slug"], cache.get(r["slug"]))
-        if lb: out[r["slug"]] = lb
+        if lb:
+            warn += wissels_uit_data(r["slug"], lb)
+            out[r["slug"]] = lb
     json.dump(out, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     if not STIL:
-        print("Logboek: %d gidsen, %d wijzigingen in de lijsten" % (len(out), sum(len(v["events"]) for v in out.values())))
+        print("Logboek: %d gidsen, %d wijzigingen in de lijsten, %d met reden (%d uit het veld wissels)" % (len(out), sum(len(v["events"]) for v in out.values()),
+              sum(1 for v in out.values() for ev in v["events"] if ev.get("waarom")), sum(1 for v in out.values() for ev in v["events"] if ev.get("bron") == "data")))
+    for w in warn: print("LET OP wissels " + w, file=sys.stderr)
 
 if __name__ == "__main__":
     main()
