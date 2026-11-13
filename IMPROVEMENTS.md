@@ -322,3 +322,6 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 
 ## 2026-11-13 groeimotor nacht (N32 stap 2)
 - Gedaan: 35 gidsen met 0 bol-kliks en minder dan 5 bezoekers in 28 dagen kregen "noindex": true in data (tools/snoei.py, lijst in _src/snoei.json); build.py zet noindex,follow en laat ze uit sitemap.xml. Niets verwijderd; verbeterronde: het veld laten staan, gidsen op de lijst hoeven geen aanvraag bij Google. Terug: python3 tools/snoei.py --terug. E47.
+
+## 2026-11-13 groeimotor nacht (N32 stap 3)
+- Gedaan: blok "Logboek van deze gids" op 20 gidsen (_src/logboek_gidsen.json): prijs van de top 3 uit ph en productwissels uit de git-geschiedenis (tools/logboek.py draait bij elke build mee). Verbeterronde: niets aan doen; een wissel verschijnt vanzelf in het logboek na de volgende build. Een andere kleur of uitvoering met hetzelfde typenummer telt niet als wissel. E49.
