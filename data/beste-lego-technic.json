@@ -336,14 +336,14 @@
     },
     {
       "brand": "LEGO",
-      "name": "Technic Koenigsegg Jesko Absolut 42173",
-      "price": 44.99,
+      "name": "Technic Koenigsegg Jesko Absolut witte hypercar 42184",
+      "price": 64.99,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
-      "oneliner": "Grijze hypercar met bijzondere draaideuren voor rond de 45 euro.",
+      "reviews": "bol-score 4,9 van 5",
+      "oneliner": "Witte hypercar met bijzondere draaideuren voor rond de 65 euro.",
       "specs": {
-        "Setnummer": "42173",
+        "Setnummer": "42184",
         "Aantal stenen": "801",
         "Leeftijd": "10+",
         "Type": "Hypercar",
@@ -353,29 +353,24 @@
         "Herkenbaar hypercar-ontwerp",
         "V8 met bewegende zuigers en een differentieel",
         "Deuren die draaien en naar buiten schuiven",
-        "Scherp geprijsd voor 801 stenen"
+        "Opvallende witte uitvoering"
       ],
       "cons": [
         "Geen vering of versnellingsbak",
         "Kleinere schaal dan de volwassen sets"
       ],
       "ideal": "Kinderen vanaf 10 jaar die gek zijn op supersnelle auto's.",
-      "text": "De Koenigsegg Jesko Absolut is een populaire instapper in de wereld van Technic-hypercars. Met 801 stenen bouw je een grijze Zweedse hypercar met een V8 achterin waarvan de zuigers bewegen als je rijdt, plus een werkend differentieel. Je stuurt met een afneembare knop voorin de auto. Het opvallendste detail zijn de deuren: net als bij de echte Jesko draaien ze 90 graden en schuiven ze naar buiten.\n\nDe set is geschikt vanaf 10 jaar. Kopers vinden de bouwtijd van een paar uur goed te doen, met af en toe wat hulp bij de lastigere stappen. Het resultaat ziet er meteen uit als een echte Koenigsegg, wat het een leuk sinterklaas- of kerstcadeau maakt voor jonge autofans. Vering en een versnellingsbak ontbreken, die vind je pas in de grotere sets. Op bol kost hij rond de 45 euro, een stuk minder dan de adviesprijs, dus dit is veel auto voor weinig geld.",
-      "ean": "5702017584072",
-      "bol_title": "LEGO Technic - Koenigsegg Jesko Absolut grijze hypercar - 42173",
-      "url": "https://www.bol.com/nl/nl/p/lego-technic-koenigsegg-jesko-absolut-grijze-hypercar-42173/9300000175725322/",
-      "image": "https://media.s-bol.com/XE5NkxWLGoEm/l5vDgGg/550x405.jpg",
+      "text": "De Koenigsegg Jesko Absolut is een populaire instapper in de wereld van Technic-hypercars. Met 801 stenen bouw je een witte Zweedse hypercar met een V8 achterin waarvan de zuigers bewegen als je rijdt, plus een werkend differentieel. Je stuurt met een afneembare knop voorin de auto. Het opvallendste detail zijn de deuren: net als bij de echte Jesko draaien ze 90 graden en schuiven ze naar buiten.\n\nDe set is geschikt vanaf 10 jaar. Kopers vinden de bouwtijd van een paar uur goed te doen, met af en toe wat hulp bij de lastigere stappen. Het resultaat ziet er meteen uit als een echte Koenigsegg, wat het een leuk sinterklaas- of kerstcadeau maakt voor jonge autofans. Vering en een versnellingsbak ontbreken, die vind je pas in de grotere sets. Op bol kost hij rond de 65 euro. Daarmee is hij duurder dan de grijze uitvoering 42173, die bij bol niet meer leverbaar is.",
+      "ean": "5702017599106",
+      "ph_ean": "5702017599106",
+      "bol_title": "LEGO Koenigsegg Jesko Absolut witte hypercar - 42184",
+      "url": "https://www.bol.com/nl/nl/p/lego-technic-koenigsegg-jesko-absolut-witte-hypercar-bouwbaar-automodel-voor-jongens-en-meisjes-speelgoedauto-voor-kinderen-cadeau-voor-autosportliefhebbers-42184/9300000175725334/",
+      "image": "https://media.s-bol.com/kmBn9gqp4vVv/pQXPNXV/550x440.jpg",
       "ph": {
-        "2026-11-07": 44.99,
-        "2026-11-08": 44.99,
-        "2026-11-09": 44.99,
-        "2026-11-10": 44.99,
-        "2026-11-11": 44.99,
-        "2026-11-12": 44.99
+        "2026-11-13": 64.99
       },
-      "low_price": 44.99,
-      "synced": "2026-11-13",
-      "ph_ean": "5702017584072"
+      "low_price": 64.99,
+      "synced": "2026-11-13"
     },
     {
       "brand": "LEGO",
@@ -527,5 +522,13 @@
     "beste-sinterklaascadeau-voor-kinderen",
     "beste-kerstcadeau-voor-kinderen",
     "beste-kerstcadeau-voor-hem"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-13",
+      "uit": "LEGO Technic Koenigsegg Jesko Absolut 42173",
+      "in": "LEGO Technic Koenigsegg Jesko Absolut witte hypercar 42184",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

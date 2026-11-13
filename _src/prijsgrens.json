@@ -1,17 +1,4 @@
 {
  "datum": "2026-11-13",
- "overtreders": [
-  {
-   "slug": "beste-smartphone-onder-300-euro",
-   "grens": 300,
-   "plek": 4,
-   "product": "Xiaomi Redmi Note 14 Pro 5G 8/256GB",
-   "prijs": 339.99,
-   "ean": "6941812737118",
-   "laagste_30d": 243.0,
-   "dagen_boven": 1,
-   "dagen_gemeten": 2,
-   "reden": "boven grens"
-  }
- ]
+ "overtreders": []
 }

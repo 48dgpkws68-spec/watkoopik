@@ -148,46 +148,43 @@
       "prev_date": "2026-11-12"
     },
     {
-      "brand": "Xiaomi",
-      "name": "Redmi Note 14 Pro 5G 8/256GB",
-      "price": 339.99,
+      "brand": "Motorola",
+      "name": "moto g77 5G 8/256GB",
+      "price": 239.0,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 3,9 van 5",
-      "oneliner": "Scherp 1.5K-amoled, 200 MP camera en IP68 voor ruim onder de 300 euro.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "Groot en scherp amoledscherm, 108 MP camera en vijf jaar updates voor ruim onder de 300 euro.",
       "specs": {
-        "Scherm": "6,67 inch amoled, 120 Hz",
-        "Accu": "5.110 mAh, 45 W",
+        "Scherm": "6,78 inch amoled, 2772 x 1240",
+        "Accu": "5.200 mAh, 33 W",
         "Geheugen": "8 GB / 256 GB",
-        "Hoofdcamera": "200 MP OIS + 8 MP groothoek",
+        "Hoofdcamera": "108 MP + groothoek",
         "Netwerk": "5G"
       },
       "pros": [
-        "Scherp 1.5K-amoledscherm met 120 Hz",
-        "200 MP hoofdcamera met optische stabilisatie",
-        "IP68 waterdicht en Gorilla Glass Victus 2",
-        "256 GB opslag"
+        "Groot 6,78 inch amoledscherm met hoge resolutie",
+        "Minimaal vijf jaar updates volgens de opgave bij bol",
+        "256 GB opslag, uit te breiden met een microSD-kaart",
+        "IP64 stof- en spatwaterdicht, hoesje in de doos"
       ],
       "cons": [
-        "Veel vooraf geïnstalleerde apps in HyperOS",
-        "Gebogen schermranden zijn niet ieders smaak",
-        "Groothoek- en macrocamera zijn matig"
+        "Geen oplader meegeleverd",
+        "Alleen elektronische beeldstabilisatie",
+        "Geen draadloos opladen"
       ],
-      "ideal": "Wie voor rond de 250 euro een scherp scherm, een goede hoofdcamera en veel opslag wil.",
-      "text": "De Redmi Note 14 Pro 5G biedt veel hardware voor zijn prijs. Het 6,67 inch amoledscherm heeft een 1.5K-resolutie, ververst op 120 Hz en is beschermd met Gorilla Glass Victus 2. De behuizing is IP68 waterdicht. De Dimensity 7300 Ultra is vlot genoeg voor dagelijks gebruik en lichte games, maar iets minder krachtig dan de chips in de Nothing Phone (3a) en de Honor 400.\n\nDe 200 MP hoofdcamera met OIS maakt overdag gedetailleerde foto's. De 8 MP groothoek en de 2 MP macrocamera zijn duidelijk minder. De accu van 5.110 mAh haalt bij gemiddeld gebruik ruim een dag en laadt met 45 watt in ongeveer een uur. Kopers op bol geven het toestel een 3,9. HyperOS wordt geleverd met veel extra apps die je zelf moet verwijderen. Xiaomi belooft drie Android-versies en vier jaar beveiligingsupdates.",
-      "ean": "6941812737118",
-      "bol_title": "Xiaomi Redmi Note 14 Pro - 5G - 8GB/256GB - Midnight Zwart",
-      "url": "https://www.bol.com/nl/nl/p/xiaomi-redmi-note-14-pro-5g-8gb-256gb-midnight-zwart/9300000220007798/",
-      "image": "https://media.s-bol.com/qqRg9y2ykrpR/pYlLP9r/550x628.jpg",
+      "ideal": "Wie voor rond de 240 euro een groot amoledscherm, veel opslag en lange ondersteuning wil.",
+      "text": "De moto g77 is in maart 2026 uitgebracht en biedt veel voor zijn prijs. Het amoledscherm van 6,78 inch heeft een resolutie van 2772 bij 1240 pixels en is daarmee scherper dan de meeste schermen in deze klasse. De behuizing is van kunststof, IP64 stof- en spatwaterdicht en volgens Motorola extra goed bestand tegen vallen. Er zit 8 GB werkgeheugen en 256 GB opslag in, met een microSD-slot voor uitbreiding. Het toestel draait op Android 16.\n\nDe hoofdcamera van 108 megapixel krijgt gezelschap van een groothoekcamera en voorop zit een selfiecamera van 32 megapixel. De stabilisatie is elektronisch, dus bij weinig licht doen de Nothing Phone (3a) en de Honor 400 het beter. De accu van 5.200 mAh laadt met maximaal 33 watt, maar een oplader zit niet in de doos. Bij bol staat dat het toestel minimaal vijf jaar updates krijgt, tot april 2031. Kopers op bol geven het een 4,4.",
+      "ean": "0840493617213",
+      "bol_title": "motorola moto g77 - 8/256GB - Pantone Shaded Spruce",
+      "url": "https://www.bol.com/nl/nl/p/motorola-moto-g77-8-256gb-pantone-shaded-spruce/9300000258252441/",
+      "image": "https://media.s-bol.com/8Jogo1zPDnpL/r0ABGPk/550x533.jpg",
       "ph": {
-        "2026-11-12": 243.0,
-        "2026-11-13": 339.99
+        "2026-11-13": 239.0
       },
-      "low_price": 243.0,
-      "ph_ean": "6941812737118",
-      "synced": "2026-11-13",
-      "prev_price": 243.0,
-      "prev_date": "2026-11-12"
+      "low_price": 239.0,
+      "ph_ean": "0840493617213",
+      "synced": "2026-11-13"
     },
     {
       "brand": "Google",
@@ -506,7 +503,7 @@
     },
     {
       "h": "Chip en werkgeheugen: hoeveel is genoeg?",
-      "p": "Voor dagelijks gebruik is elke chip in deze lijst snel genoeg. Merkbaar sneller zijn de Snapdragon 7 Gen 3 in de Honor 400, de Snapdragon 7s Gen 3 in de Nothing Phone (3a) en de Dimensity 7300 Ultra in de Redmi Note 14 Pro, die ook zwaardere games aankunnen. De Snapdragon 6 Gen 3 en Exynos 1380 in de Samsungs zijn trager maar prima voor apps en video. Werkgeheugen van 8 GB is in 2026 de norm, 6 GB werkt nog maar voelt bij veel open apps krapper. Let op opslag: 128 GB zonder microSD raakt met foto's en video's binnen twee jaar vol."
+      "p": "Voor dagelijks gebruik is elke chip in deze lijst snel genoeg. Merkbaar sneller zijn de Snapdragon 7 Gen 3 in de Honor 400 en de Snapdragon 7s Gen 3 in de Nothing Phone (3a), die ook zwaardere games aankunnen. De Snapdragon 6 Gen 3 en Exynos 1380 in de Samsungs zijn trager maar prima voor apps en video. Werkgeheugen van 8 GB is in 2026 de norm, 6 GB werkt nog maar voelt bij veel open apps krapper. Let op opslag: 128 GB zonder microSD raakt met foto's en video's binnen twee jaar vol."
     },
     {
       "h": "Camera: megapixels zeggen weinig",
@@ -554,5 +551,13 @@
     "beste-smartphone",
     "beste-samsung-smartphone",
     "beste-iphone"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-13",
+      "uit": "Xiaomi Redmi Note 14 Pro 5G 8/256GB",
+      "in": "Motorola moto g77 5G 8/256GB",
+      "waarom": "kwam boven de prijsgrens van deze gids"
+    }
   ]
 }

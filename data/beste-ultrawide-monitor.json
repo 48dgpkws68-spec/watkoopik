@@ -498,65 +498,42 @@
     },
     {
       "brand": "LG",
-      "name": "34WR55QK-B",
-      "price": 269.0,
-      "score": 8.2,
+      "name": "UltraWide 34U64XB-B",
+      "price": 279.0,
+      "score": 8.3,
       "label": null,
-      "reviews": "70+ reviews",
-      "oneliner": "Eenvoudige ultrawide met USB-C voor laptopgebruikers.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Ultrawide met USB-C, KVM-switch en 144 Hz voor laptopgebruikers.",
       "specs": {
         "Formaat": "34 inch, 21:9, gebogen",
         "Resolutie": "3440 x 1440",
         "Paneel": "VA",
-        "Verversing": "100 Hz",
+        "Verversing": "144 Hz",
         "USB-C": "Ja, 65 W"
       },
       "pros": [
         "USB-C met 65 W laden voor weinig geld",
-        "Rustige 1800R-kromming, prettig voor werk",
-        "Laag stroomverbruik",
-        "Simpele installatie met één kabel"
+        "KVM-switch om twee computers met één toetsenbord en muis te bedienen",
+        "144 Hz met FreeSync Premium",
+        "In hoogte verstelbare voet"
       ],
       "cons": [
-        "Voet alleen kantelbaar",
-        "Geen USB-hub van betekenis",
-        "100 Hz zonder extra's voor gamers"
+        "Geen ingebouwde speakers",
+        "Helderheid van 250 cd/m² is bescheiden",
+        "Scherm niet draaibaar"
       ],
-      "ideal": "Laptopgebruikers die voor zo min mogelijk geld een breed werkscherm met één kabel willen.",
-      "text": "De LG 34WR55QK-B is een nuchtere ultrawide voor wie vooral met een laptop werkt. De belangrijkste reden om hem te kiezen is de USB-C-poort: één kabel geeft beeld en laadt je laptop met 65 watt. Dat is voor de meeste ultrabooks en MacBook Air-modellen genoeg. Je hebt geen aparte lader meer nodig op je bureau.\n\nHet 34 inch VA-scherm met 3440 x 1440 pixels heeft een milde kromming van 1800R, zodat rechte lijnen in spreadsheets en documenten er natuurlijk uitzien. De verversing van 100 Hz maakt scrollen soepeler dan een standaard kantoorscherm. Met Reader Mode en een flikkervrij scherm is lang werken prettiger voor je ogen. De voet kan alleen kantelen, dus voor de juiste hoogte heb je mogelijk een monitorarm nodig. In reviews noemen kopers hem eenvoudig en betrouwbaar, met als kritiekpunt de beperkte verstelbaarheid. Wie geen hoogteverstelling nodig heeft, krijgt hier veel werkruimte voor weinig geld.",
-      "ean": "8806096235386",
-      "bol_title": "LG 34WR55QK-B - QHD Curved Ultrawide Monitor - USB-C 65w - 34 inch",
-      "url": "https://www.bol.com/nl/nl/p/lg-34wr55qk-b-qhd-curved-ultrawide-monitor-usb-c-34-inch/9300000183450870/",
-      "image": "https://media.s-bol.com/qWBZQj4LPrP2/v2L0P98/550x370.jpg",
-      "synced": "2026-11-13",
+      "ideal": "Laptopgebruikers die voor weinig geld een breed werkscherm met één kabel willen.",
+      "text": "De LG UltraWide 34U64XB-B is een nuchtere ultrawide voor wie vooral met een laptop werkt. De belangrijkste reden om hem te kiezen is de USB-C-poort: één kabel geeft beeld en laadt je laptop met 65 watt. Dat is voor de meeste ultrabooks en MacBook Air-modellen genoeg. Met de ingebouwde KVM-switch bedien je twee computers met één toetsenbord en muis, handig als je een werklaptop en een eigen pc op hetzelfde bureau hebt.\n\nHet 34 inch VA-scherm met 3440 x 1440 pixels heeft een milde kromming van 1800R, zodat rechte lijnen in spreadsheets en documenten er natuurlijk uitzien. De verversing van 144 Hz met FreeSync Premium maakt scrollen soepel en is ook genoeg voor een spel na het werk. De voet is volgens bol in hoogte verstelbaar. Speakers zitten er niet in en de helderheid van 250 cd/m² is bescheiden, dus zet hem liever niet recht tegenover een raam. Kopers op bol geven hem gemiddeld 4,3 van 5.",
+      "ean": "8806096910443",
+      "ph_ean": "8806096910443",
+      "bol_title": "LG UltraWide 34U64XB-B - WQHD VA Curved Monitor - USB-C 65W - KVM Switch - 144hz - 34 inch",
+      "url": "https://www.bol.com/nl/nl/p/lg-ultrawide-34u64xb-b-wqhd-va-curved-monitor-usb-c-65w-kvm-switch-144hz-34-inch/9300000343280421/",
+      "image": "https://media.s-bol.com/wWlzZqDR2wr1/lx6XrNr/550x321.jpg",
       "ph": {
-        "2026-10-23": 269.0,
-        "2026-10-24": 269.0,
-        "2026-10-25": 269.0,
-        "2026-10-26": 269.0,
-        "2026-10-27": 269.0,
-        "2026-10-28": 269.0,
-        "2026-10-29": 269.0,
-        "2026-10-30": 269.0,
-        "2026-10-31": 269.0,
-        "2026-11-01": 269.0,
-        "2026-11-02": 269.0,
-        "2026-11-03": 269.0,
-        "2026-11-04": 269.0,
-        "2026-11-05": 269.0,
-        "2026-11-06": 269.0,
-        "2026-11-07": 269.0,
-        "2026-11-08": 269.0,
-        "2026-11-09": 259.0,
-        "2026-11-10": 269.0,
-        "2026-11-11": 269.0,
-        "2026-11-12": 269.0,
-        "2026-11-13": 269.0
+        "2026-11-13": 279.0
       },
-      "low_price": 259.0,
-      "prev_price": 259.0,
-      "prev_date": "2026-11-09",
-      "ph_ean": "8806096235386"
+      "low_price": 279.0,
+      "synced": "2026-11-13"
     },
     {
       "brand": "ASUS",
@@ -666,7 +643,7 @@
     },
     {
       "q": "Is een ultrawide monitor geschikt voor thuiswerken?",
-      "a": "Ja, juist daarvoor is hij handig. Je zet een document en je mail naast elkaar of houdt een vergadering open naast je werk. Kies voor thuiswerken een model met USB-C en een milde kromming van 1500R of 1800R, zoals de Philips 34E1C5600HE of de LG 34WR55QK-B."
+      "a": "Ja, juist daarvoor is hij handig. Je zet een document en je mail naast elkaar of houdt een vergadering open naast je werk. Kies voor thuiswerken een model met USB-C en een milde kromming van 1500R of 1800R, zoals de Philips 34E1C5600HE of de LG UltraWide 34U64XB-B."
     },
     {
       "q": "Kan een MacBook een ultrawide monitor aansturen?",
@@ -674,5 +651,13 @@
     }
   ],
   "published": "2026-10-23",
-  "noindex": true
+  "noindex": true,
+  "wissels": [
+    {
+      "d": "2026-11-13",
+      "uit": "LG 34WR55QK-B",
+      "in": "LG UltraWide 34U64XB-B",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

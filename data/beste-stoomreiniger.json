@@ -441,41 +441,41 @@
     },
     {
       "brand": "Shark",
-      "name": "Klik n' Flip S6003EU",
-      "price": 125.99,
-      "score": 8.2,
+      "name": "Klik n' Flip S6001EU",
+      "price": 122.99,
+      "score": 8.1,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
-      "oneliner": "Stoommop met drie stoomstanden en dubbelzijdige wasbare doeken.",
+      "oneliner": "Stoommop met dubbelzijdige wasbare doeken die je wisselt zonder ze aan te raken.",
       "specs": {
         "Type": "Stoommop",
-        "Vermogen": "ca. 1.200 W",
+        "Vermogen": "1.050 W",
         "Stoomdruk": "geen opgave",
-        "Reservoir": "ca. 0,35 l",
+        "Reservoir": "0,35 l",
         "Opwarmtijd": "ca. 30 sec"
       },
       "pros": [
-        "Drie stoomstanden voor verschillende vloeren",
         "Dubbelzijdige doek, dus twee keer zoveel oppervlak",
         "Doek wisselen zonder hem aan te raken",
-        "Extra stoomstoot voor hardnekkig vuil"
+        "Doeken mogen in de wasmachine",
+        "Snoer van 7 meter"
       ],
       "cons": [
         "Geen handstomer",
-        "Alleen bedoeld voor vloeren"
+        "Alleen bedoeld voor vloeren",
+        "Reservoir goed voor ongeveer een kwartier stoom"
       ],
       "ideal": "Wie alleen vloeren wil stomen en een makkelijke mop met wasbare doeken zoekt.",
-      "text": "De Shark Klik n' Flip S6003EU is een stoommop die zich volledig op vloeren richt. Er zit geen losse handstomer bij, maar je krijgt wel drie stoomstanden. Op laag stoom je gevoelige vloeren zoals gelakt hout of laminaat, op hoog krijg je tegels en natuursteen schoon. Voor een hardnekkige of plakkerige vlek is er de Steam Blaster: een gerichte stoot extra hete stoom uit het mondstuk.\n\nHet slimme zit in de mopkop. De doeken zijn dubbelzijdig, dus als één kant vuil is klap je de kop om en ga je verder met de schone kant. Zo doe je met één doek ongeveer twee keer zoveel vloer. Met een druk op de knop laat de kop de doek los, zodat je de vuile doek niet hoeft aan te raken. De doeken mogen in de wasmachine. Kopers op bol geven hem gemiddeld een 4,5. Wil je ook de keuken of badkamer stomen, dan kies je beter de Polti SV450 Double of de Black+Decker. Zoek je een eenvoudige stoommop puur voor de vloer, dan is deze Shark een goede keus.",
-      "ean": "0622356220743",
-      "bol_title": "S6003EU - Stoomreiniger - Stoommop - Verschillende stoomstanden",
-      "url": "https://www.bol.com/nl/nl/p/shark-s6003eu-stoomreiniger-stoommop-verschillende-stoomstanden/9200000074954036/",
-      "image": "https://media.s-bol.com/rWlxXrZxxkyp/jR60Ooz/250x200.jpg",
+      "text": "De Shark Klik n' Flip S6001EU is een stoommop die zich volledig op vloeren richt. Er zit geen losse handstomer bij en ook geen set hulpstukken. Volgens bol is hij geschikt voor tegels, laminaat, parket en vloerbedekking. Het reservoir van 0,35 liter is in ongeveer 30 seconden warm en geeft zo'n kwartier stoom. Bijvullen kan tussendoor. Met 2,4 kilo en een snoer van 7 meter kom je een flinke kamer door zonder van stopcontact te wisselen.\n\nHet slimme zit in de mopkop. De doeken zijn dubbelzijdig, dus als één kant vuil is klap je de kop om en ga je verder met de schone kant. Zo doe je met één doek ongeveer twee keer zoveel vloer. Met een druk op de knop laat de kop de doek los, zodat je de vuile doek niet hoeft aan te raken. De doeken mogen in de wasmachine. Kopers op bol geven hem gemiddeld een 4,5. Wil je ook de keuken of badkamer stomen, dan kies je beter de Polti SV450 Double of de Black+Decker.",
+      "ean": "0622356220736",
+      "ph_ean": "0622356220736",
+      "bol_title": "Shark S6001EU - Stoomreiniger - Stoommop - Click 'n Flip",
+      "url": "https://www.bol.com/nl/nl/p/shark-s6001eu-click-n-flip-stoomreiniger-1050-watt/9200000074954034/",
+      "image": "https://media.s-bol.com/3Xoo4mvyw639/L9Jmj3D/384x840.jpg",
       "ph": {
-        "2026-11-12": 125.99,
-        "2026-11-13": 125.99
+        "2026-11-13": 122.99
       },
-      "low_price": 125.99,
-      "ph_ean": "0622356220743",
+      "low_price": 122.99,
       "synced": "2026-11-13"
     },
     {
@@ -659,5 +659,13 @@
       "a": "Een stoomreiniger met een losse unit en slang heeft meer kracht en is geschikt voor vloeren, voegen, ramen en keukens. Een stoommop is lichter en sneller klaar, maar vooral bedoeld voor het onderhoud van harde vloeren."
     }
   ],
-  "published": "2026-10-14"
+  "published": "2026-10-14",
+  "wissels": [
+    {
+      "d": "2026-11-13",
+      "uit": "Shark Klik n' Flip S6003EU",
+      "in": "Shark Klik n' Flip S6001EU",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

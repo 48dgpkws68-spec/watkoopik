@@ -336,45 +336,42 @@
     },
     {
       "brand": "Samsung",
-      "name": "QE55S83H",
-      "price": 879.0,
+      "name": "QE55S93H",
+      "price": 1249.0,
       "score": 8.7,
       "reviews": "nieuw model",
-      "oneliner": "OLED van Samsung met Tizen voor minder dan 900 euro.",
+      "oneliner": "OLED van Samsung met Tizen, een antireflectielaag en tot 165 Hz.",
       "specs": {
         "Paneel": "OLED",
-        "Verversing": "120 Hz of hoger",
-        "HDR": "HDR10+, HLG",
+        "Verversing": "100 Hz, games tot 165 Hz",
+        "HDR": "HDR10+",
         "Smart-tv": "Tizen",
         "Jaar": "2026"
       },
       "pros": [
-        "OLED voor minder dan 900 euro",
         "Diep zwart en brede kijkhoek",
-        "HDR10+ en HLG",
+        "Glare Free-coating tegen reflecties",
+        "Tot 165 Hz met VRR voor gamers",
         "Tizen met alle Nederlandse apps"
       ],
       "cons": [
         "Geen Dolby Vision",
-        "Nog geen beoordelingen op bol"
+        "Nog geen beoordelingen op bol",
+        "Duurder dan de LG C5"
       ],
-      "ideal": "Wie een OLED van Samsung wil en onder de 900 euro blijft.",
-      "text": "De Samsung QE55S83H is een 55 inch OLED uit 2026 en met 879 euro een van de goedkopere manieren om een Samsung-OLED te kopen. Elke pixel geeft zijn eigen licht, dus zwart is echt zwart en de kijkhoek is breed. Dat maakt hem geschikt voor films en series in een gedimde woonkamer.\n\nHet smart-platform is Tizen met de grote Nederlandse streamingapps. Samsung ondersteunt HDR10+ en HLG, maar geen Dolby Vision. Het model is nieuw, dus er staan op bol nog geen beoordelingen en de keuze steunt op de specificaties. Net als elke OLED is hij in een kamer met veel direct zonlicht minder fel dan een Mini LED-tv. Naast de LG B5 voor 799 euro is dit de keuze voor wie liever een Samsung in huis haalt.",
-      "ean": "8806097979609",
+      "ideal": "Wie een OLED van Samsung wil en ook overdag in een lichte kamer kijkt.",
+      "text": "De Samsung QE55S93H is een 55 inch OLED uit 2026 en de voordeligste OLED van Samsung die bol nu in dit formaat verkoopt. Elke pixel geeft zijn eigen licht, dus zwart is echt zwart en de kijkhoek is breed. Samsung geeft hem een Glare Free-coating mee die storende reflecties van ramen en lampen vermindert. Dat helpt als je ook overdag kijkt.\n\nVoor gamers ondersteunt hij volgens bol tot 165 Hz met VRR en er zitten vier HDMI-aansluitingen op. Het smart-platform is Tizen met de grote Nederlandse streamingapps. Samsung ondersteunt HDR10+, maar geen Dolby Vision. Het model is nieuw, dus er staan op bol nog geen beoordelingen en de keuze steunt op de specificaties. Met 1.249 euro is hij 250 euro duurder dan de LG C5 op plek één, die wel Dolby Vision heeft. Dit is daarom vooral de keuze voor wie liever een Samsung in huis haalt of al een soundbar van dat merk heeft.",
+      "ean": "8806099124212",
       "label": null,
-      "bol_title": "Samsung QE55S83H - 55 inch - 4K OLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-qe55s83h-55-inch-4k-oled-2026-smart-tv/9300000284305523/",
-      "image": "https://media.s-bol.com/gmyLx9NvqOB9/36jBYRx/550x347.jpg",
+      "ph_ean": "8806099124212",
+      "bol_title": "Samsung QE55S93H - 55 inch - 4K OLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/samsung-qe55s93h-55-inch-4k-oled-2026-smart-tv/9300000278273482/",
+      "image": "https://media.s-bol.com/kqLyEkkYDAv6/yw7NA9g/550x345.jpg",
       "ph": {
-        "2026-11-09": 879.0,
-        "2026-11-10": 899.0,
-        "2026-11-11": 879.0
+        "2026-11-13": 1249.0
       },
-      "low_price": 879.0,
-      "synced": "2026-11-13",
-      "prev_price": 899.0,
-      "prev_date": "2026-11-10",
-      "ph_ean": "8806097979609"
+      "low_price": 1249.0,
+      "synced": "2026-11-13"
     },
     {
       "brand": "Samsung",
@@ -688,5 +685,13 @@
     ]
   },
   "meta_title": "Beste 55 inch tv 2026: OLED, QLED en Mini LED vergeleken",
-  "meta_desc": "De beste 55 inch tv van 2026 is de {top}. Top 10 tv's van 55 inch vergeleken op beeld, HDR, gaming en prijs, met de beste prijs-kwaliteit."
+  "meta_desc": "De beste 55 inch tv van 2026 is de {top}. Top 10 tv's van 55 inch vergeleken op beeld, HDR, gaming en prijs, met de beste prijs-kwaliteit.",
+  "wissels": [
+    {
+      "d": "2026-11-13",
+      "uit": "Samsung QE55S83H",
+      "in": "Samsung QE55S93H",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }
