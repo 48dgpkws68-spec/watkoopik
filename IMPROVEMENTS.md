@@ -347,3 +347,5 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 
 - 2026-11-14 01:35 groeimotor-nacht: de bronnenlijst van Umami misleidt. ChatGPT stuurt geen referrer mee maar zet ?utm_source=chatgpt.com achter de link; 7 dagen t/m 14 nov kwamen 416 van 566 bezoekers en 288 van 300 bol-kliks zo binnen (groeimotor/chatgpt.py, chatgpt.json per pagina). Lees bij de signalen ook het aantal weergaven met die utm (Umami, type query). Geen wijziging aan pagina's.
 - 2026-11-14 groeimotor-nacht (81666732): snoeilijst ververst, 35 naar 25 gidsen noindex. Nieuwe regel in tools/snoei.py: een gids met 2 of meer weergaven via ChatGPT in 28 dagen blijft indexeerbaar. Verbeterronde: het veld noindex laten staan zoals het is.
+
+- 2026-11-14 06:12 groeimotor-ochtend (4938ddfd): gesnoeide gidsen (veld noindex) zijn alleen nog voor Google noindex: meta robots blijft index,follow en er staat een extra meta googlebot noindex,follow (build.py robots_meta). Bing en ChatGPT mogen ze blijven opnemen; ze blijven uit sitemap.xml en tools/indexnow.py meldt ze wel. Verbeterronde: het veld noindex en deze twee tags laten staan (E52, meten 28 nov).
