@@ -193,6 +193,12 @@ by_cat = {}
 for g in guides: by_cat.setdefault(g["cat"], []).append(g)
 # Snoeien (N32, 13 nov 2026): gidsen met "noindex": true in de data krijgen noindex,follow en staan niet in sitemap.xml; ze blijven gewoon bestaan en gelinkt (tools/snoei.py)
 NOINDEX = {g["url"] for g in guides if g.get("noindex")}
+# AI1 (14 nov 2026): gesnoeide gidsen zijn alleen voor Google noindex (meta googlebot). Bing en daarmee ChatGPT
+# (78% van het bezoek) mogen ze blijven opnemen; ze blijven wel uit sitemap.xml. Google volgt de strengste van robots + googlebot.
+def robots_meta(path):
+    if PREVIEW: return "noindex,follow"
+    if path in NOINDEX: return 'index,follow,max-image-preview:large"><meta name="googlebot" content="noindex,follow'
+    return "index,follow,max-image-preview:large"
 N_PROD = sum(len(g["products"]) for g in guides)
 N_REV = sum(int(re.sub(r"\D", "", str(g.get("reviews_total", "0"))) or 0) for g in guides)
 def win(g): return g["products"][0]
@@ -535,7 +541,7 @@ def head(title, desc, path, root, extra="", img=""):
 </head>
 <body class="%s">
 <div class="fx-fallback" aria-hidden="true"></div><canvas id="fx" aria-hidden="true"></canvas><div class="fx-veil" aria-hidden="true"></div><div class="fx-grain" aria-hidden="true"></div><div class="cursor-glow" aria-hidden="true"></div>
-<div class="progress" aria-hidden="true"></div>''' % (e(title), e(desc), "noindex,follow" if PREVIEW or path in NOINDEX else "index,follow,max-image-preview:large", canon, canon, e(title), e(desc), "article" if "/beste/" in canon else "website", canon, (('<meta property="og:image" content="%s">' % e(img)) + ('<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="%s">' % e(title) if "/og/" in img else '')) if img else '', root, root, ASSET_V, "".join('<link rel="stylesheet" href="%s%s.css?v=%s">' % (root, n, ASSET_V) for n in THEME_CSS), json.dumps(root), extra, BODY_CLASS)
+<div class="progress" aria-hidden="true"></div>''' % (e(title), e(desc), robots_meta(path), canon, canon, e(title), e(desc), "article" if "/beste/" in canon else "website", canon, (('<meta property="og:image" content="%s">' % e(img)) + ('<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="%s">' % e(title) if "/og/" in img else '')) if img else '', root, root, ASSET_V, "".join('<link rel="stylesheet" href="%s%s.css?v=%s">' % (root, n, ASSET_V) for n in THEME_CSS), json.dumps(root), extra, BODY_CLASS)
 
 def searchbox(cls="", ph="Zoek een product of merk", btn=True):
     return '''<div class="search-wrap"><form class="search %s" data-search role="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg><input type="search" placeholder="%s" aria-label="Zoek een gids" autocomplete="off">%s</form><div class="results"></div></div>''' % (cls, ph, '<button class="sbtn" type="submit">Zoek</button>' if btn else "")
