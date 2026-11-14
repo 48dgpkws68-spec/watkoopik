@@ -353,8 +353,9 @@ def pop_html(g):
     pl = x["plek"]
     rows = "".join('<li><span class="pop-n">%d</span><div><b>%s %s</b><small>Nr. %d in onze top 10 · %s</small></div>%s</li>' % (
         pl[str(p["ean"])], e(p["brand"]), e(p["name"]), p["rank"], eur(p["price"]), shop_a(p, g, "btn btn-buy btn-sm", "populair")) for p in ps[:3])
-    return '<div class="pop rv" id="populair"><h2>Populair bij bol</h2><p>Zoek je op bol naar &ldquo;%s&rdquo; en sorteer je op populariteit, dan staan %s van onze top 10 bij de eerste 100. Dit zijn de hoogste, met hun plek in die lijst (gemeten op %s).</p><ol>%s</ol><p class="pop-note">Populariteit is de eigen sortering van bol. Dat zegt iets over wat veel mensen kiezen, niet automatisch over wat het beste is: daarvoor is onze ranglijst.</p></div>' % (
-        e(x["query"]), "alle %d" % len(ps) if len(ps) == len(g["products"]) else len(ps), e(nldate(x["datum"])), rows)
+    return '<div class="pop rv" id="populair"><h2>Populair bij bol</h2><p>Zoek je op bol naar &ldquo;%s&rdquo; en sorteer je op populariteit, dan %s van onze top 10 bij de eerste 100. %s (gemeten op %s).</p><ol>%s</ol><p class="pop-note">Populariteit is de eigen sortering van bol. Dat zegt iets over wat veel mensen kiezen, niet automatisch over wat het beste is: daarvoor is onze ranglijst.</p></div>' % (
+        e(x["query"]), "staat 1" if len(ps) == 1 else "staan alle %d" % len(ps) if len(ps) == len(g["products"]) else "staan %d" % len(ps),
+        "Dit is het model, met zijn plek in die lijst" if len(ps) == 1 else "Dit zijn ze, met hun plek in die lijst" if len(ps) < 4 else "Dit zijn de hoogste, met hun plek in die lijst", e(nldate(x["datum"])), rows)
 def pop_faq(g):
     x, ps = pop_of(g)
     if not ps: return None
