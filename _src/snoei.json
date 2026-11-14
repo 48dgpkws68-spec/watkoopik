@@ -1,25 +1,27 @@
 {
- "datum": "2026-11-13",
+ "datum": "2026-11-14",
  "dagen": 28,
  "fase": "cadeau",
- "gidsen_totaal": 225,
- "noindex": 35,
- "indexeerbaar": 190,
- "kandidaten_zonder_reden_om_te_blijven": 35,
+ "gidsen_totaal": 226,
+ "noindex": 25,
+ "indexeerbaar": 201,
+ "kandidaten_zonder_reden_om_te_blijven": 25,
  "lijst": [
   {
    "slug": "beste-kruimeldief",
    "cat": "huishouden",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
+   "chatgpt_28d": 0,
    "waarde": 82,
-   "zuster": "beste-robotstofzuiger-huisdieren"
+   "zuster": "beste-nat-droogzuiger"
   },
   {
    "slug": "beste-powerbank",
    "cat": "elektronica",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
+   "chatgpt_28d": 0,
    "waarde": 83,
    "zuster": "beste-actiecamera"
   },
@@ -28,6 +30,7 @@
    "cat": "verzorging",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
+   "chatgpt_28d": 0,
    "waarde": 91,
    "zuster": "beste-elektrische-tandenborstel"
   },
@@ -36,6 +39,7 @@
    "cat": "klussen",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
+   "chatgpt_28d": 0,
    "waarde": 92,
    "zuster": "beste-hogedrukreiniger"
   },
@@ -44,6 +48,7 @@
    "cat": "klussen",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
+   "chatgpt_28d": 0,
    "waarde": 119,
    "zuster": "beste-hogedrukreiniger"
   },
@@ -52,6 +57,7 @@
    "cat": "kind",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
+   "chatgpt_28d": 0,
    "waarde": 145,
    "zuster": "beste-babyfoon"
   },
@@ -60,15 +66,17 @@
    "cat": "verzorging",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
-   "waarde": 196,
-   "zuster": "beste-ladyshave"
+   "chatgpt_28d": 0,
+   "waarde": 199,
+   "zuster": "beste-baardtrimmer"
   },
   {
    "slug": "beste-printer",
    "cat": "elektronica",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
-   "waarde": 277,
+   "chatgpt_28d": 0,
+   "waarde": 279,
    "zuster": "beste-actiecamera"
   },
   {
@@ -76,6 +84,7 @@
    "cat": "klussen",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
+   "chatgpt_28d": 0,
    "waarde": 802,
    "zuster": "beste-grasmaaier-kleine-tuin"
   },
@@ -84,6 +93,7 @@
    "cat": "huishouden",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
+   "chatgpt_28d": 0,
    "waarde": 814,
    "zuster": "beste-droogrek"
   },
@@ -92,7 +102,8 @@
    "cat": "telefoon",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
-   "waarde": 854,
+   "chatgpt_28d": 0,
+   "waarde": 851,
    "zuster": "beste-iphone"
   },
   {
@@ -100,7 +111,8 @@
    "cat": "huishouden",
    "bezoekers_28d": 0,
    "kliks_28d": 0,
-   "waarde": 863,
+   "chatgpt_28d": 0,
+   "waarde": 882,
    "zuster": "beste-warmtepompdroger"
   },
   {
@@ -108,6 +120,7 @@
    "cat": "slapen",
    "bezoekers_28d": 1,
    "kliks_28d": 0,
+   "chatgpt_28d": 1,
    "waarde": 58,
    "zuster": "beste-4-seizoenen-dekbed"
   },
@@ -116,6 +129,7 @@
    "cat": "wonen",
    "bezoekers_28d": 1,
    "kliks_28d": 0,
+   "chatgpt_28d": 0,
    "waarde": 95,
    "zuster": "beste-slimme-thermostaat"
   },
@@ -124,6 +138,7 @@
    "cat": "keuken",
    "bezoekers_28d": 1,
    "kliks_28d": 0,
+   "chatgpt_28d": 1,
    "waarde": 129,
    "zuster": "beste-afzuigkap"
   },
@@ -132,15 +147,26 @@
    "cat": "keuken",
    "bezoekers_28d": 1,
    "kliks_28d": 0,
-   "waarde": 130,
+   "chatgpt_28d": 0,
+   "waarde": 131,
    "zuster": "beste-afzuigkap"
+  },
+  {
+   "slug": "beste-airfryer-groot-gezin",
+   "cat": "keuken",
+   "bezoekers_28d": 1,
+   "kliks_28d": 0,
+   "chatgpt_28d": 1,
+   "waarde": 194,
+   "zuster": "beste-airfryer-1-persoon"
   },
   {
    "slug": "beste-oliegevulde-radiator",
    "cat": "wonen",
    "bezoekers_28d": 1,
    "kliks_28d": 0,
-   "waarde": 205,
+   "chatgpt_28d": 1,
+   "waarde": 207,
    "zuster": "beste-elektrische-inbouwhaard"
   },
   {
@@ -148,6 +174,7 @@
    "cat": "elektronica",
    "bezoekers_28d": 1,
    "kliks_28d": 0,
+   "chatgpt_28d": 1,
    "waarde": 231,
    "zuster": "beste-tablet-kinderen"
   },
@@ -156,7 +183,8 @@
    "cat": "computer",
    "bezoekers_28d": 1,
    "kliks_28d": 0,
-   "waarde": 298,
+   "chatgpt_28d": 0,
+   "waarde": 307,
    "zuster": "beste-gaming-monitor"
   },
   {
@@ -164,141 +192,60 @@
    "cat": "keuken",
    "bezoekers_28d": 1,
    "kliks_28d": 0,
+   "chatgpt_28d": 1,
    "waarde": 370,
    "zuster": "beste-magnetron"
   },
   {
-   "slug": "beste-ultrawide-monitor",
-   "cat": "computer",
+   "slug": "beste-tablet-ouderen",
+   "cat": "elektronica",
    "bezoekers_28d": 1,
    "kliks_28d": 0,
-   "waarde": 640,
-   "zuster": "beste-gaming-monitor"
-  },
-  {
-   "slug": "beste-baardtrimmer",
-   "cat": "verzorging",
-   "bezoekers_28d": 2,
-   "kliks_28d": 0,
-   "waarde": 83,
-   "zuster": "beste-ladyshave"
-  },
-  {
-   "slug": "beste-oordopjes-slapen",
-   "cat": "slapen",
-   "bezoekers_28d": 2,
-   "kliks_28d": 0,
-   "waarde": 114,
-   "zuster": "beste-4-seizoenen-dekbed"
-  },
-  {
-   "slug": "beste-wekker",
-   "cat": "slapen",
-   "bezoekers_28d": 2,
-   "kliks_28d": 0,
-   "waarde": 175,
-   "zuster": "beste-4-seizoenen-dekbed"
-  },
-  {
-   "slug": "beste-draadloze-oordopjes",
-   "cat": "elektronica",
-   "bezoekers_28d": 2,
-   "kliks_28d": 0,
-   "waarde": 193,
-   "zuster": "beste-koptelefoon-onder-100-euro"
+   "chatgpt_28d": 1,
+   "waarde": 506,
+   "zuster": "beste-tablet-kinderen"
   },
   {
    "slug": "beste-strijkijzer",
    "cat": "huishouden",
    "bezoekers_28d": 2,
    "kliks_28d": 0,
-   "waarde": 262,
+   "chatgpt_28d": 1,
+   "waarde": 255,
    "zuster": "beste-droogrek"
   },
   {
-   "slug": "beste-sporthorloge",
-   "cat": "sport",
+   "slug": "beste-ultrawide-monitor",
+   "cat": "computer",
    "bezoekers_28d": 2,
    "kliks_28d": 0,
-   "waarde": 360,
-   "zuster": "beste-smartwatch-ouderen"
-  },
-  {
-   "slug": "beste-bureaustoel-rugklachten",
-   "cat": "wonen",
-   "bezoekers_28d": 2,
-   "kliks_28d": 0,
-   "waarde": 393,
-   "zuster": "beste-bureaustoel"
-  },
-  {
-   "slug": "beste-keukenmachine",
-   "cat": "keuken",
-   "bezoekers_28d": 2,
-   "kliks_28d": 0,
-   "waarde": 402,
-   "zuster": "beste-blender"
+   "chatgpt_28d": 1,
+   "waarde": 637,
+   "zuster": "beste-gaming-monitor"
   },
   {
    "slug": "beste-fornuis",
    "cat": "keuken",
    "bezoekers_28d": 2,
    "kliks_28d": 0,
-   "waarde": 1105,
+   "chatgpt_28d": 0,
+   "waarde": 1099,
    "zuster": "beste-afzuigkap"
-  },
-  {
-   "slug": "beste-nat-droogzuiger",
-   "cat": "huishouden",
-   "bezoekers_28d": 3,
-   "kliks_28d": 0,
-   "waarde": 139,
-   "zuster": "beste-robotstofzuiger-huisdieren"
-  },
-  {
-   "slug": "beste-terrasverwarmer",
-   "cat": "klussen",
-   "bezoekers_28d": 3,
-   "kliks_28d": 0,
-   "waarde": 238,
-   "zuster": "beste-bbq"
-  },
-  {
-   "slug": "beste-handdoekradiator",
-   "cat": "wonen",
-   "bezoekers_28d": 3,
-   "kliks_28d": 0,
-   "waarde": 306,
-   "zuster": "beste-elektrische-inbouwhaard"
-  },
-  {
-   "slug": "beste-keramische-kachel",
-   "cat": "wonen",
-   "bezoekers_28d": 4,
-   "kliks_28d": 0,
-   "waarde": 94,
-   "zuster": "beste-elektrische-inbouwhaard"
-  },
-  {
-   "slug": "beste-bureaulamp",
-   "cat": "wonen",
-   "bezoekers_28d": 4,
-   "kliks_28d": 0,
-   "waarde": 117,
-   "zuster": "beste-bureaustoel"
   }
  ],
  "blijft": {
   "beste-4-seizoenen-dekbed": [
    "3 bol-kliks",
-   "11 bezoekers",
-   "jonger dan 14 dagen"
+   "12 bezoekers",
+   "12 weergaven via ChatGPT"
   ],
   "beste-accuboormachine-beginners": [
-   "5 bezoekers"
+   "5 bezoekers",
+   "5 weergaven via ChatGPT"
   ],
   "beste-accuboormachine": [
    "2 bol-kliks",
+   "3 weergaven via ChatGPT",
    "experiment E20",
    "hoofdgids familie"
   ],
@@ -309,6 +256,7 @@
   "beste-adventskalender": [
    "14 bol-kliks",
    "14 bezoekers",
+   "12 weergaven via ChatGPT",
    "experiment E7/E20",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen",
@@ -319,14 +267,12 @@
   ],
   "beste-airfryer-1-persoon": [
    "5 bol-kliks",
-   "experiment E20",
-   "video-wachtrij 14 dagen"
-  ],
-  "beste-airfryer-groot-gezin": [
-   "video-wachtrij 14 dagen"
+   "3 weergaven via ChatGPT",
+   "experiment E20"
   ],
   "beste-airfryer": [
    "2 bol-kliks",
+   "2 weergaven via ChatGPT",
    "hoofdgids familie"
   ],
   "beste-all-in-one-pc": [
@@ -336,20 +282,25 @@
   "beste-amerikaanse-koelkast": [
    "experiment E12"
   ],
+  "beste-baardtrimmer": [
+   "2 weergaven via ChatGPT"
+  ],
   "beste-babyfoon": [
-   "5 bezoekers"
+   "6 bezoekers",
+   "5 weergaven via ChatGPT"
   ],
   "beste-bank": [
-   "12 bezoekers",
+   "14 bezoekers",
+   "3 weergaven via ChatGPT",
    "experiment E12/E20",
-   "video-wachtrij 14 dagen",
    "hoofdgids familie"
   ],
   "beste-bbq": [
    "hoofdgids familie"
   ],
   "beste-beamer": [
-   "2 bol-kliks"
+   "2 bol-kliks",
+   "3 weergaven via ChatGPT"
   ],
   "beste-bedframe": [
    "video-wachtrij 14 dagen"
@@ -359,6 +310,7 @@
   ],
   "beste-blender": [
    "2 bol-kliks",
+   "2 weergaven via ChatGPT",
    "experiment E20",
    "hoofdgids familie"
   ],
@@ -376,16 +328,30 @@
   "beste-boxspring": [
    "8 bol-kliks",
    "14 bezoekers",
-   "experiment E12",
+   "14 weergaven via ChatGPT",
+   "experiment E12/E49",
    "video-wachtrij 14 dagen"
   ],
   "beste-broodrooster": [
-   "3 bol-kliks"
+   "3 bol-kliks",
+   "4 weergaven via ChatGPT"
+  ],
+  "beste-bureaulamp": [
+   "3 weergaven via ChatGPT"
+  ],
+  "beste-bureaustoel-rugklachten": [
+   "2 weergaven via ChatGPT"
   ],
   "beste-bureaustoel": [
    "4 bol-kliks",
+   "3 weergaven via ChatGPT",
    "experiment E20",
    "hoofdgids familie"
+  ],
+  "beste-cadeau-1-jarige": [
+   "seizoensfase cadeau",
+   "video-wachtrij 14 dagen",
+   "jonger dan 14 dagen"
   ],
   "beste-cadeau-3-jarige": [
    "seizoensfase cadeau",
@@ -403,9 +369,10 @@
    "jonger dan 14 dagen"
   ],
   "beste-cadeau-voor-haar-onder-100-euro": [
+   "5 bezoekers",
+   "5 weergaven via ChatGPT",
    "seizoensfase cadeau",
-   "video-wachtrij 14 dagen",
-   "jonger dan 14 dagen"
+   "video-wachtrij 14 dagen"
   ],
   "beste-cadeau-voor-haar-onder-25-euro": [
    "seizoensfase cadeau",
@@ -418,12 +385,11 @@
    "hoofdgids familie"
   ],
   "beste-cadeau-voor-hem-onder-100-euro": [
-   "1 bol-kliks",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen"
   ],
   "beste-cadeau-voor-hem-onder-25-euro": [
-   "1 bol-kliks",
+   "2 weergaven via ChatGPT",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen",
    "jonger dan 14 dagen"
@@ -431,6 +397,7 @@
   "beste-cadeau-voor-hem-onder-50-euro": [
    "4 bol-kliks",
    "6 bezoekers",
+   "6 weergaven via ChatGPT",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen",
    "hoofdgids familie"
@@ -441,78 +408,100 @@
    "video-wachtrij 14 dagen"
   ],
   "beste-cadeau-voor-tieners": [
+   "3 weergaven via ChatGPT",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen"
   ],
   "beste-daglichtlamp": [
-   "3 bol-kliks"
+   "3 bol-kliks",
+   "3 weergaven via ChatGPT"
   ],
   "beste-dashcam-voor-en-achter": [
-   "3 bol-kliks",
-   "7 bezoekers",
+   "4 bol-kliks",
+   "8 bezoekers",
+   "6 weergaven via ChatGPT",
    "experiment E20"
   ],
   "beste-dashcam": [
    "2 bol-kliks",
+   "4 weergaven via ChatGPT",
    "hoofdgids familie"
   ],
   "beste-dekbed": [
    "9 bol-kliks",
    "15 bezoekers",
+   "15 weergaven via ChatGPT",
    "experiment E12",
    "hoofdgids familie"
+  ],
+  "beste-draadloze-oordopjes": [
+   "1 bol-kliks",
+   "2 weergaven via ChatGPT"
   ],
   "beste-drone": [
    "experiment E11",
    "jonger dan 14 dagen"
   ],
   "beste-droogrek": [
+   "3 weergaven via ChatGPT",
    "experiment E20",
    "hoofdgids familie"
   ],
   "beste-elektrische-deken": [
    "2 bol-kliks",
    "5 bezoekers",
+   "5 weergaven via ChatGPT",
    "video-wachtrij 14 dagen"
   ],
   "beste-elektrische-fiets": [
    "7 bol-kliks",
-   "8 bezoekers"
+   "8 bezoekers",
+   "6 weergaven via ChatGPT",
+   "experiment E49"
   ],
   "beste-elektrische-inbouwhaard": [
-   "2 bol-kliks",
+   "3 bol-kliks",
+   "4 weergaven via ChatGPT",
    "experiment E20",
    "jonger dan 14 dagen"
   ],
   "beste-elektrische-kachel-badkamer": [
    "3 bol-kliks",
-   "11 bezoekers"
+   "11 bezoekers",
+   "11 weergaven via ChatGPT"
   ],
   "beste-elektrische-kachel-slaapkamer": [
-   "9 bol-kliks",
-   "14 bezoekers",
+   "10 bol-kliks",
+   "15 bezoekers",
+   "11 weergaven via ChatGPT",
    "experiment E12"
   ],
   "beste-elektrische-kachel-woonkamer": [
-   "jonger dan 14 dagen"
+   "1 bol-kliks",
+   "3 weergaven via ChatGPT"
   ],
   "beste-elektrische-kachel-zuinig": [
    "11 bol-kliks",
    "8 bezoekers",
+   "7 weergaven via ChatGPT",
    "video-wachtrij 14 dagen"
   ],
   "beste-elektrische-kachel": [
    "8 bol-kliks",
    "9 bezoekers",
+   "9 weergaven via ChatGPT",
    "experiment E20",
    "hoofdgids familie"
   ],
   "beste-elektrische-openhaard": [
    "20 bol-kliks",
-   "15 bezoekers"
+   "16 bezoekers",
+   "14 weergaven via ChatGPT",
+   "experiment E49"
   ],
   "beste-elektrische-tandenborstel": [
    "2 bol-kliks",
+   "2 weergaven via ChatGPT",
    "hoofdgids familie"
   ],
   "beste-espressomachine-beginners": [
@@ -524,6 +513,7 @@
   "beste-flanellen-dekbedovertrek": [
    "4 bol-kliks",
    "5 bezoekers",
+   "5 weergaven via ChatGPT",
    "experiment E20",
    "jonger dan 14 dagen"
   ],
@@ -531,18 +521,22 @@
    "jonger dan 14 dagen"
   ],
   "beste-flessenwarmer": [
-   "5 bezoekers"
+   "5 bezoekers",
+   "4 weergaven via ChatGPT"
   ],
   "beste-fohn": [
    "3 bol-kliks",
    "11 bezoekers",
+   "10 weergaven via ChatGPT",
    "hoofdgids familie"
   ],
   "beste-gaming-headset": [
    "experiment E20"
   ],
   "beste-gaming-laptop": [
+   "1 bol-kliks",
    "6 bezoekers",
+   "3 weergaven via ChatGPT",
    "experiment E12"
   ],
   "beste-gaming-monitor": [
@@ -551,9 +545,11 @@
   "beste-gaming-pc": [
    "3 bol-kliks",
    "6 bezoekers",
-   "experiment E12"
+   "4 weergaven via ChatGPT",
+   "experiment E12/E49"
   ],
   "beste-gaming-stoel": [
+   "2 weergaven via ChatGPT",
    "experiment E20"
   ],
   "beste-gaming-tv": [
@@ -570,27 +566,35 @@
   "beste-grasmaaier": [
    "hoofdgids familie"
   ],
+  "beste-handdoekradiator": [
+   "2 weergaven via ChatGPT"
+  ],
   "beste-hoekbank": [
    "5 bol-kliks",
    "10 bezoekers",
-   "experiment E12"
+   "8 weergaven via ChatGPT",
+   "experiment E12/E49"
   ],
   "beste-hogedrukreiniger": [
    "hoofdgids familie"
   ],
   "beste-hometrainer-klein": [
    "2 bol-kliks",
-   "experiment E20"
+   "5 bezoekers",
+   "5 weergaven via ChatGPT",
+   "experiment E20",
+   "video-wachtrij 14 dagen"
   ],
   "beste-hometrainer": [
-   "1 bol-kliks",
    "hoofdgids familie"
   ],
   "beste-hoofdkussen-nekklachten": [
+   "2 bol-kliks",
    "video-wachtrij 14 dagen"
   ],
   "beste-hoofdkussen": [
    "2 bol-kliks",
+   "3 weergaven via ChatGPT",
    "hoofdgids familie"
   ],
   "beste-inductiekookplaat": [
@@ -598,6 +602,7 @@
   ],
   "beste-infraroodpaneel": [
    "5 bol-kliks",
+   "4 weergaven via ChatGPT",
    "experiment E20"
   ],
   "beste-instant-camera": [
@@ -609,6 +614,9 @@
   "beste-iphone": [
    "video-wachtrij 14 dagen"
   ],
+  "beste-keramische-kachel": [
+   "4 weergaven via ChatGPT"
+  ],
   "beste-kerstcadeau-onder-25-euro": [
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen",
@@ -616,6 +624,7 @@
   ],
   "beste-kerstcadeau-onder-50-euro": [
    "1 bol-kliks",
+   "2 weergaven via ChatGPT",
    "experiment E20",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen",
@@ -629,7 +638,6 @@
    "jonger dan 14 dagen"
   ],
   "beste-kerstcadeau-voor-hem": [
-   "1 bol-kliks",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen",
    "jonger dan 14 dagen"
@@ -642,10 +650,12 @@
    "hoofdgids familie"
   ],
   "beste-kerstcadeau-voor-ouders": [
+   "2 weergaven via ChatGPT",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen"
   ],
   "beste-kerstverlichting-buiten": [
+   "2 weergaven via ChatGPT",
    "experiment E11",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen",
@@ -656,18 +666,24 @@
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen"
   ],
+  "beste-keukenmachine": [
+   "2 weergaven via ChatGPT"
+  ],
   "beste-kinderwagen": [
-   "2 bol-kliks"
+   "2 bol-kliks",
+   "3 weergaven via ChatGPT"
   ],
   "beste-kledingkast": [
-   "1 bol-kliks",
-   "5 bezoekers"
+   "5 bezoekers",
+   "5 weergaven via ChatGPT",
+   "video-wachtrij 14 dagen"
   ],
   "beste-koelkast": [
    "hoofdgids familie"
   ],
   "beste-koffiemachine-bonen-onder-500": [
    "4 bol-kliks",
+   "2 weergaven via ChatGPT",
    "video-wachtrij 14 dagen"
   ],
   "beste-koffiemachine": [
@@ -676,28 +692,32 @@
   "beste-koptelefoon-onder-100-euro": [
    "3 bol-kliks",
    "8 bezoekers",
+   "8 weergaven via ChatGPT",
    "video-wachtrij 14 dagen"
   ],
   "beste-koptelefoon": [
    "3 bol-kliks",
+   "4 weergaven via ChatGPT",
    "hoofdgids familie"
   ],
   "beste-krultang": [
-   "5 bol-kliks",
-   "7 bezoekers",
+   "6 bol-kliks",
+   "8 bezoekers",
+   "7 weergaven via ChatGPT",
    "experiment E20"
   ],
   "beste-kunstkerstboom-met-verlichting": [
-   "11 bol-kliks",
-   "15 bezoekers",
+   "12 bol-kliks",
+   "20 bezoekers",
+   "18 weergaven via ChatGPT",
    "experiment E11",
    "seizoensfase cadeau",
-   "video-wachtrij 14 dagen",
    "jonger dan 14 dagen"
   ],
   "beste-kunstkerstboom": [
    "11 bol-kliks",
    "15 bezoekers",
+   "15 weergaven via ChatGPT",
    "experiment E11/E20",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen",
@@ -712,12 +732,15 @@
   ],
   "beste-laptop-thuiswerken": [
    "5 bezoekers",
+   "2 weergaven via ChatGPT",
    "experiment E20",
    "video-wachtrij 14 dagen"
   ],
   "beste-laptop-voor-studenten": [
    "7 bol-kliks",
-   "6 bezoekers",
+   "8 bezoekers",
+   "6 weergaven via ChatGPT",
+   "experiment E49",
    "video-wachtrij 14 dagen"
   ],
   "beste-laptop": [
@@ -736,6 +759,7 @@
    "jonger dan 14 dagen"
   ],
   "beste-lego": [
+   "2 weergaven via ChatGPT",
    "experiment E36",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen",
@@ -743,7 +767,8 @@
    "hoofdgids familie"
   ],
   "beste-loopband-onder-bureau": [
-   "8 bezoekers"
+   "8 bezoekers",
+   "8 weergaven via ChatGPT"
   ],
   "beste-loopband": [
    "video-wachtrij 14 dagen"
@@ -752,16 +777,20 @@
    "experiment E20"
   ],
   "beste-luchtontvochtiger-slaapkamer": [
+   "1 bol-kliks",
+   "4 weergaven via ChatGPT",
    "experiment E20",
    "video-wachtrij 14 dagen"
   ],
   "beste-luchtontvochtiger": [
-   "6 bol-kliks",
-   "9 bezoekers",
+   "7 bol-kliks",
+   "10 bezoekers",
+   "8 weergaven via ChatGPT",
    "hoofdgids familie"
   ],
   "beste-luchtreiniger-allergie": [
    "2 bol-kliks",
+   "2 weergaven via ChatGPT",
    "experiment E20",
    "video-wachtrij 14 dagen"
   ],
@@ -769,24 +798,26 @@
    "experiment E20"
   ],
   "beste-luchtreiniger-slaapkamer": [
-   "2 bol-kliks"
+   "2 bol-kliks",
+   "4 weergaven via ChatGPT"
   ],
   "beste-luchtreiniger": [
    "4 bol-kliks",
    "15 bezoekers",
+   "4 weergaven via ChatGPT",
    "experiment E12",
    "hoofdgids familie"
   ],
   "beste-macbook": [
-   "experiment E20",
-   "video-wachtrij 14 dagen"
+   "experiment E20"
   ],
   "beste-magnetron": [
    "experiment E20"
   ],
   "beste-massagepistool": [
    "2 bol-kliks",
-   "7 bezoekers"
+   "7 bezoekers",
+   "7 weergaven via ChatGPT"
   ],
   "beste-matras-rugklachten": [
    "video-wachtrij 14 dagen"
@@ -794,21 +825,27 @@
   "beste-matras": [
    "2 bol-kliks",
    "5 bezoekers",
+   "4 weergaven via ChatGPT",
    "experiment E20",
    "hoofdgids familie"
   ],
   "beste-mini-led-tv": [
    "7 bezoekers",
+   "5 weergaven via ChatGPT",
    "experiment E12/E16/E20",
    "jonger dan 14 dagen"
   ],
   "beste-mobiele-airco": [
    "2 bol-kliks",
+   "3 weergaven via ChatGPT",
    "hoofdgids familie"
   ],
   "beste-monitor": [
    "experiment E20",
    "hoofdgids familie"
+  ],
+  "beste-nat-droogzuiger": [
+   "2 weergaven via ChatGPT"
   ],
   "beste-nintendo-switch": [
    "experiment E11",
@@ -819,63 +856,80 @@
   "beste-oled-tv": [
    "4 bol-kliks",
    "6 bezoekers",
-   "experiment E16/E20"
+   "2 weergaven via ChatGPT",
+   "experiment E16/E20/E49"
+  ],
+  "beste-oordopjes-slapen": [
+   "video-wachtrij 14 dagen"
   ],
   "beste-oordopjes-sporten": [
-   "1 bol-kliks"
+   "1 bol-kliks",
+   "2 weergaven via ChatGPT",
+   "video-wachtrij 14 dagen"
   ],
   "beste-oven": [
    "2 bol-kliks",
+   "2 weergaven via ChatGPT",
    "video-wachtrij 14 dagen",
    "hoofdgids familie"
   ],
   "beste-pelletkachel": [
    "3 bol-kliks",
    "6 bezoekers",
-   "experiment E12"
+   "4 weergaven via ChatGPT",
+   "experiment E12/E49"
   ],
   "beste-plaid": [
    "10 bol-kliks",
    "6 bezoekers",
+   "6 weergaven via ChatGPT",
    "experiment E20",
    "hoofdgids familie"
   ],
   "beste-playstation-5": [
    "seizoensfase cadeau",
-   "video-wachtrij 14 dagen",
    "hoofdgids familie"
   ],
   "beste-qled-tv": [
-   "1 bol-kliks",
+   "2 bol-kliks",
+   "2 weergaven via ChatGPT",
    "video-wachtrij 14 dagen"
   ],
   "beste-raamwisser": [
-   "1 bol-kliks"
+   "1 bol-kliks",
+   "2 weergaven via ChatGPT"
   ],
   "beste-relaxfauteuil": [
    "7 bol-kliks",
    "9 bezoekers",
+   "9 weergaven via ChatGPT",
    "experiment E12",
    "video-wachtrij 14 dagen"
   ],
   "beste-rijstkoker": [
+   "3 weergaven via ChatGPT",
    "experiment E20"
   ],
   "beste-robotstofzuiger-huisdieren": [
    "1 bol-kliks",
    "6 bezoekers",
+   "6 weergaven via ChatGPT",
    "video-wachtrij 14 dagen"
   ],
   "beste-robotstofzuiger-met-dweilfunctie": [
-   "19 bol-kliks",
-   "24 bezoekers"
+   "20 bol-kliks",
+   "25 bezoekers",
+   "23 weergaven via ChatGPT",
+   "experiment E49",
+   "video-wachtrij 14 dagen"
   ],
   "beste-robotstofzuiger": [
-   "1 bol-kliks"
+   "2 weergaven via ChatGPT"
   ],
   "beste-sapcentrifuge": [
    "2 bol-kliks",
    "5 bezoekers",
+   "5 weergaven via ChatGPT",
    "experiment E20"
   ],
   "beste-scheerapparaat": [
@@ -889,18 +943,19 @@
    "jonger dan 14 dagen"
   ],
   "beste-sinterklaascadeau-onder-25-euro": [
+   "4 weergaven via ChatGPT",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen",
    "hoofdgids familie"
   ],
   "beste-sinterklaascadeau-onder-50-euro": [
-   "1 bol-kliks",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen",
    "jonger dan 14 dagen"
   ],
   "beste-sinterklaascadeau-voor-kinderen": [
    "1 bol-kliks",
+   "3 weergaven via ChatGPT",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen"
   ],
@@ -916,7 +971,8 @@
   ],
   "beste-smartphone-onder-300-euro": [
    "8 bol-kliks",
-   "12 bezoekers"
+   "12 bezoekers",
+   "11 weergaven via ChatGPT"
   ],
   "beste-smartphone": [
    "video-wachtrij 14 dagen",
@@ -932,25 +988,32 @@
   "beste-soundbar": [
    "hoofdgids familie"
   ],
+  "beste-sporthorloge": [
+   "2 weergaven via ChatGPT"
+  ],
   "beste-staafmixer": [
    "experiment E20"
   ],
   "beste-steelstofzuiger": [
-   "2 bol-kliks"
+   "2 bol-kliks",
+   "3 weergaven via ChatGPT"
   ],
   "beste-stijltang": [
    "6 bol-kliks",
-   "15 bezoekers"
+   "15 bezoekers",
+   "14 weergaven via ChatGPT"
   ],
   "beste-stille-stofzuiger": [
    "3 bol-kliks",
    "6 bezoekers",
+   "5 weergaven via ChatGPT",
    "experiment E20",
    "video-wachtrij 14 dagen"
   ],
   "beste-stofzuiger-huisdieren": [
-   "11 bol-kliks",
-   "12 bezoekers",
+   "13 bol-kliks",
+   "13 bezoekers",
+   "12 weergaven via ChatGPT",
    "experiment E20",
    "video-wachtrij 14 dagen"
   ],
@@ -958,99 +1021,123 @@
    "experiment E20"
   ],
   "beste-stofzuiger": [
-   "5 bol-kliks",
+   "4 bol-kliks",
    "hoofdgids familie"
   ],
   "beste-stoomreiniger": [
+   "2 bol-kliks",
+   "3 weergaven via ChatGPT",
    "experiment E20"
   ],
   "beste-tablet-kinderen": [
    "2 bol-kliks",
+   "4 weergaven via ChatGPT",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen"
   ],
-  "beste-tablet-ouderen": [
-   "1 bol-kliks"
-  ],
   "beste-tablet": [
+   "1 bol-kliks",
+   "2 weergaven via ChatGPT",
    "hoofdgids familie"
   ],
   "beste-tech-cadeau-onder-100-euro": [
+   "3 weergaven via ChatGPT",
    "seizoensfase cadeau",
    "video-wachtrij 14 dagen"
   ],
   "beste-televisie": [
-   "5 bol-kliks",
+   "6 bol-kliks",
+   "5 bezoekers",
+   "3 weergaven via ChatGPT",
+   "experiment E49",
    "hoofdgids familie"
+  ],
+  "beste-terrasverwarmer": [
+   "2 weergaven via ChatGPT"
   ],
   "beste-tondeuse": [
    "4 bol-kliks",
    "5 bezoekers",
+   "5 weergaven via ChatGPT",
    "experiment E20"
   ],
   "beste-topper": [
    "2 bol-kliks",
    "7 bezoekers",
+   "6 weergaven via ChatGPT",
    "experiment E20"
   ],
   "beste-tv-32-inch": [
    "3 bol-kliks",
-   "6 bezoekers"
+   "6 bezoekers",
+   "6 weergaven via ChatGPT"
   ],
   "beste-tv-43-inch": [
    "10 bol-kliks",
-   "15 bezoekers"
+   "16 bezoekers",
+   "16 weergaven via ChatGPT",
+   "experiment E49"
   ],
   "beste-tv-50-inch": [
    "13 bol-kliks",
-   "21 bezoekers",
-   "experiment E12"
+   "22 bezoekers",
+   "18 weergaven via ChatGPT",
+   "experiment E12/E49"
   ],
   "beste-tv-55-inch": [
    "20 bol-kliks",
-   "41 bezoekers",
-   "experiment E12/E16/E24"
+   "43 bezoekers",
+   "36 weergaven via ChatGPT",
+   "experiment E12/E16/E24/E49"
   ],
   "beste-tv-65-inch": [
-   "18 bol-kliks",
-   "33 bezoekers",
-   "experiment E12/E16/E24"
+   "19 bol-kliks",
+   "36 bezoekers",
+   "31 weergaven via ChatGPT",
+   "experiment E12/E16/E24/E49"
   ],
   "beste-tv-75-inch": [
    "12 bol-kliks",
    "17 bezoekers",
-   "experiment E12/E16/E20/E24"
+   "15 weergaven via ChatGPT",
+   "experiment E12/E16/E20/E24/E49"
   ],
   "beste-tv-85-inch": [
    "2 bol-kliks",
    "7 bezoekers",
+   "5 weergaven via ChatGPT",
    "experiment E11/E20/E36",
    "jonger dan 14 dagen"
   ],
   "beste-tv-ambilight": [
    "6 bol-kliks",
    "5 bezoekers",
+   "3 weergaven via ChatGPT",
+   "experiment E49",
    "jonger dan 14 dagen"
   ],
   "beste-tv-onder-1000-euro": [
-   "7 bol-kliks",
-   "7 bezoekers",
-   "experiment E12/E16",
+   "9 bol-kliks",
+   "8 bezoekers",
+   "8 weergaven via ChatGPT",
+   "experiment E12/E16/E49",
    "video-wachtrij 14 dagen"
   ],
   "beste-tv-onder-200-euro": [
    "jonger dan 14 dagen"
   ],
   "beste-tv-onder-300-euro": [
-   "14 bol-kliks",
-   "22 bezoekers",
-   "experiment E12",
+   "15 bol-kliks",
+   "23 bezoekers",
+   "22 weergaven via ChatGPT",
+   "experiment E12/E49",
    "jonger dan 14 dagen"
   ],
   "beste-tv-onder-500-euro": [
    "34 bol-kliks",
    "42 bezoekers",
-   "experiment E12/E16"
+   "40 weergaven via ChatGPT",
+   "experiment E12/E16/E49"
   ],
   "beste-tv-voor-sport": [
    "experiment E11",
@@ -1061,15 +1148,18 @@
   ],
   "beste-ventilatorkachel": [
    "3 bol-kliks",
+   "3 weergaven via ChatGPT",
    "jonger dan 14 dagen"
   ],
   "beste-videodeurbel-zonder-abonnement": [
    "6 bol-kliks",
-   "9 bezoekers"
+   "9 bezoekers",
+   "9 weergaven via ChatGPT"
   ],
   "beste-videodeurbel": [
    "5 bol-kliks",
    "7 bezoekers",
+   "7 weergaven via ChatGPT",
    "experiment E20",
    "hoofdgids familie"
   ],
@@ -1077,6 +1167,7 @@
    "experiment E20"
   ],
   "beste-vriezer": [
+   "3 weergaven via ChatGPT",
    "video-wachtrij 14 dagen"
   ],
   "beste-wanddroogrek-zonder-boren": [
@@ -1084,16 +1175,20 @@
   ],
   "beste-wanddroogrek": [
    "3 bol-kliks",
+   "4 weergaven via ChatGPT",
    "experiment E20"
   ],
   "beste-warmtekussen": [
    "8 bol-kliks",
    "13 bezoekers",
+   "13 weergaven via ChatGPT",
    "experiment E20"
   ],
   "beste-warmtepompdroger": [
    "6 bol-kliks",
    "9 bezoekers",
+   "7 weergaven via ChatGPT",
+   "experiment E49",
    "video-wachtrij 14 dagen"
   ],
   "beste-was-droogcombinatie": [
@@ -1104,20 +1199,27 @@
   ],
   "beste-waterkoker": [
    "4 bol-kliks",
+   "3 weergaven via ChatGPT",
    "hoofdgids familie"
   ],
   "beste-weegschaal": [
+   "1 bol-kliks",
+   "3 weergaven via ChatGPT"
+  ],
+  "beste-wekker": [
    "1 bol-kliks"
   ],
   "beste-winterdekbed": [
-   "10 bol-kliks",
-   "18 bezoekers",
+   "13 bol-kliks",
+   "23 bezoekers",
+   "23 weergaven via ChatGPT",
    "experiment E12",
    "video-wachtrij 14 dagen"
   ],
   "beste-zit-sta-bureau": [
    "6 bol-kliks",
-   "6 bezoekers"
+   "6 bezoekers",
+   "5 weergaven via ChatGPT"
   ]
  }
 }
