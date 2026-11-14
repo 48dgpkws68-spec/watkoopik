@@ -55,16 +55,17 @@
       "image": "https://media.s-bol.com/orjyXmVMMZ6X/jRjMmk4/550x567.jpg",
       "ph": {
         "2026-11-12": 477.0,
-        "2026-11-13": 477.0
+        "2026-11-13": 477.0,
+        "2026-11-14": 477.0
       },
       "low_price": 477.0,
       "ph_ean": "0045496321444",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Nintendo",
       "name": "Switch 2 Mario Kart World Bundel",
-      "price": 549.99,
+      "price": 549.0,
       "score": 9.3,
       "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
@@ -95,11 +96,14 @@
       "image": "https://media.s-bol.com/N376EqlKnwKv/gpZ4P0j/550x567.jpg",
       "ph": {
         "2026-11-12": 549.99,
-        "2026-11-13": 549.99
+        "2026-11-13": 549.99,
+        "2026-11-14": 549.0
       },
-      "low_price": 549.99,
+      "low_price": 549.0,
       "ph_ean": "0045496337469",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14",
+      "prev_price": 549.99,
+      "prev_date": "2026-11-13"
     },
     {
       "brand": "Nintendo",
@@ -135,11 +139,12 @@
       "image": "https://media.s-bol.com/gm798J1r4njD/J8ywBKy/550x458.jpg",
       "ph": {
         "2026-11-12": 229.0,
-        "2026-11-13": 229.0
+        "2026-11-13": 229.0,
+        "2026-11-14": 229.0
       },
       "low_price": 229.0,
       "ph_ean": "0045496337506",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Nintendo",
@@ -175,11 +180,12 @@
       "image": "https://media.s-bol.com/77G3GrlZMLEA/N38qYN/550x541.jpg",
       "ph": {
         "2026-11-12": 348.0,
-        "2026-11-13": 348.0
+        "2026-11-13": 348.0,
+        "2026-11-14": 348.0
       },
       "low_price": 348.0,
       "ph_ean": "0045496453435",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Nintendo",
@@ -214,11 +220,12 @@
       "image": "https://media.s-bol.com/k4k68m8ng9qX/NxEpwmz/550x516.jpg",
       "ph": {
         "2026-11-12": 529.0,
-        "2026-11-13": 529.0
+        "2026-11-13": 529.0,
+        "2026-11-14": 529.0
       },
       "low_price": 529.0,
       "ph_ean": "0045496337254",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Nintendo",
@@ -254,11 +261,12 @@
       "image": "https://media.s-bol.com/YgklV7ypV4qM/jZyPMRR/550x567.jpg",
       "ph": {
         "2026-11-12": 509.0,
-        "2026-11-13": 509.0
+        "2026-11-13": 509.0,
+        "2026-11-14": 509.0
       },
       "low_price": 509.0,
       "ph_ean": "0045496337544",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Nintendo",
@@ -293,11 +301,12 @@
       "image": "https://media.s-bol.com/mJ2DlnowkK8n/mORl2YE/550x561.jpg",
       "ph": {
         "2026-11-12": 509.99,
-        "2026-11-13": 570.99
+        "2026-11-13": 570.99,
+        "2026-11-14": 570.99
       },
       "low_price": 509.99,
       "ph_ean": "0045496337445",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "prev_price": 509.99,
       "prev_date": "2026-11-12"
     },
@@ -334,11 +343,12 @@
       "image": "https://media.s-bol.com/Gw8yMDyxkr5K/pQzBJ2y/550x540.jpg",
       "ph": {
         "2026-11-12": 331.0,
-        "2026-11-13": 331.0
+        "2026-11-13": 331.0,
+        "2026-11-14": 331.0
       },
       "low_price": 331.0,
       "ph_ean": "0045496453442",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Nintendo",
@@ -374,16 +384,17 @@
       "image": "https://media.s-bol.com/71OZO514XjQw/550x355.jpg",
       "ph": {
         "2026-11-12": 195.99,
-        "2026-11-13": 195.99
+        "2026-11-13": 195.99,
+        "2026-11-14": 195.99
       },
       "low_price": 195.99,
       "ph_ean": "0045496453176",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Nintendo",
       "name": "Switch Lite Hyrule Edition",
-      "price": 279.95,
+      "price": 254.0,
       "score": 7.9,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -413,11 +424,14 @@
       "image": "https://media.s-bol.com/qk6vLxXrrQ5k/o2ODOwB/550x240.jpg",
       "ph": {
         "2026-11-12": 279.95,
-        "2026-11-13": 279.95
+        "2026-11-13": 279.95,
+        "2026-11-14": 254.0
       },
-      "low_price": 279.95,
+      "low_price": 254.0,
       "ph_ean": "0045496453893",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14",
+      "prev_price": 279.95,
+      "prev_date": "2026-11-13"
     }
   ],
   "guide": [

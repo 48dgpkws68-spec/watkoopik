@@ -52,11 +52,12 @@
       "url": "https://www.bol.com/nl/nl/p/vtech-2-in-1-baby-walker-educatief-babyspeelgoed-loopwagen-met-licht/9200000107825789/",
       "image": "https://media.s-bol.com/rxMBgB9KA3q2/L9OxQAj/550x569.jpg",
       "ph": {
-        "2026-11-13": 39.99
+        "2026-11-13": 39.99,
+        "2026-11-14": 39.99
       },
       "low_price": 39.99,
       "ph_ean": "3417765056239",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Fisher-Price",
@@ -89,16 +90,17 @@
       "url": "https://www.bol.com/nl/nl/p/fisher-price-eco-stapelringen-kleurenringpiramide/9300000021713124/",
       "image": "https://media.s-bol.com/rDvGE9x1x2zk/xGj00kn/550x554.jpg",
       "ph": {
-        "2026-11-13": 12.01
+        "2026-11-13": 12.01,
+        "2026-11-14": 12.01
       },
       "low_price": 12.01,
       "ph_ean": "0887961902242",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "BIG",
       "name": "Bobby Car Classic rood",
-      "price": 54.99,
+      "price": 53.09,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -126,11 +128,14 @@
       "url": "https://www.bol.com/nl/nl/p/big-bobby-car-classic-rood-vanaf-1-jaar-loopauto/1004004006941426/",
       "image": "https://media.s-bol.com/g3B73vvAYAm6/6RXD5pR/550x417.jpg",
       "ph": {
-        "2026-11-13": 54.99
+        "2026-11-13": 54.99,
+        "2026-11-14": 53.09
       },
-      "low_price": 54.99,
+      "low_price": 53.09,
       "ph_ean": "4004943013031",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14",
+      "prev_price": 54.99,
+      "prev_date": "2026-11-13"
     },
     {
       "brand": "BERG",
@@ -163,16 +168,17 @@
       "url": "https://www.bol.com/nl/nl/p/berg-go-loopauto-blauw-voor-kinderen-van-10-tot-30-maanden/9200000089361189/",
       "image": "https://media.s-bol.com/YXPMjPXNo6X0/M1ryn5/550x378.jpg",
       "ph": {
-        "2026-11-13": 69.0
+        "2026-11-13": 69.0,
+        "2026-11-14": 69.0
       },
       "low_price": 69.0,
       "ph_ean": "8715839065404",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Hape",
       "name": "Hamerbank met xylofoon",
-      "price": 25.39,
+      "price": 25.29,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -200,11 +206,14 @@
       "url": "https://www.bol.com/nl/nl/p/hape-hape-hamerbank-en-xylofoon-2-in-1/9200000030603151/",
       "image": "https://media.s-bol.com/95j1L7kNEwx3/pQ7mZoX/550x550.jpg",
       "ph": {
-        "2026-11-13": 25.39
+        "2026-11-13": 25.39,
+        "2026-11-14": 25.29
       },
-      "low_price": 25.39,
+      "low_price": 25.29,
       "ph_ean": "6943478002340",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14",
+      "prev_price": 25.39,
+      "prev_date": "2026-11-13"
     },
     {
       "brand": "VTech",
@@ -237,11 +246,12 @@
       "url": "https://www.bol.com/nl/nl/p/vtech-baby-activiteiten-kubus-educatief-babyspeelgoed-rood-9-tot-36-maanden/9200000058437053/",
       "image": "https://media.s-bol.com/w2LD1lRxNkxw/J67Rlwl/550x540.jpg",
       "ph": {
-        "2026-11-13": 39.99
+        "2026-11-13": 39.99,
+        "2026-11-14": 39.99
       },
       "low_price": 39.99,
       "ph_ean": "3417761834237",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "SmartMax",
@@ -272,13 +282,14 @@
       "ean": "5414301249856",
       "bol_title": "SmartMax My First Safari Animals - Magnetische Safaridieren - 18-Delige Bouwset met Zachte Elementen - Educatief Speelgoed voor Peuters - Vanaf 1 Jaar",
       "url": "https://www.bol.com/nl/nl/p/smartmax-my-first-safari-animals/9200000055944523/",
-      "image": "https://media.s-bol.com/Y3oJXWZR91LM/mqpwK2p/550x320.jpg",
+      "image": "https://media.s-bol.com/NKloY0OVqMx6/omm9YK/550x587.jpg",
       "ph": {
-        "2026-11-13": 18.99
+        "2026-11-13": 18.99,
+        "2026-11-14": 18.99
       },
       "low_price": 18.99,
       "ph_ean": "5414301249856",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "VTech",
@@ -311,11 +322,12 @@
       "url": "https://www.bol.com/nl/nl/p/vtech-toet-toet-auto-s-garage/9300000225854967/",
       "image": "https://media.s-bol.com/mpJrZp510MKp/X6oLLxV/550x309.jpg",
       "ph": {
-        "2026-11-13": 44.99
+        "2026-11-13": 44.99,
+        "2026-11-14": 44.99
       },
       "low_price": 44.99,
       "ph_ean": "3417765127625",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Fisher-Price",
@@ -348,11 +360,12 @@
       "url": "https://www.bol.com/nl/nl/p/fisher-price-leerplezier-meegroeispeelgoed-puppy/9300000220413729/",
       "image": "https://media.s-bol.com/jpKN7K4gGlBY/jY5kpov/550x678.jpg",
       "ph": {
-        "2026-11-13": 19.99
+        "2026-11-13": 19.99,
+        "2026-11-14": 19.99
       },
       "low_price": 19.99,
       "ph_ean": "0194735294039",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Eichhorn",
@@ -385,11 +398,12 @@
       "url": "https://www.bol.com/nl/nl/p/eichhorn-huisje-met-insteekvormen-houten-speelgoed-vanaf-1-jaar/9200000059089023/",
       "image": "https://media.s-bol.com/l49o04VGD4n7/58l9QJB/550x357.jpg",
       "ph": {
-        "2026-11-13": 20.59
+        "2026-11-13": 20.59,
+        "2026-11-14": 20.59
       },
       "low_price": 20.59,
       "ph_ean": "4003046020984",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     }
   ],
   "guide": [

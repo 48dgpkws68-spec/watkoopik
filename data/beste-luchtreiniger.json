@@ -56,10 +56,11 @@
         "2026-11-10": 199.0,
         "2026-11-11": 199.0,
         "2026-11-12": 199.0,
-        "2026-11-13": 199.0
+        "2026-11-13": 199.0,
+        "2026-11-14": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph_ean": "8720389039560"
     },
     {
@@ -101,10 +102,11 @@
         "2026-11-10": 149.0,
         "2026-11-11": 149.0,
         "2026-11-12": 149.0,
-        "2026-11-13": 149.0
+        "2026-11-13": 149.0,
+        "2026-11-14": 149.0
       },
       "low_price": 149.0,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph_ean": "8809490586054"
     },
     {
@@ -138,7 +140,7 @@
       "bol_title": "Dyson Purifier Humidify+Cool PH2 De-NOx - Luchtreiniger - Ventilator - HEPA filter - Wit/Goud",
       "url": "https://www.bol.com/nl/nl/p/dyson-purifier-humidify-cool-de-nox-ph05-luchtreiniger-hepa-filter-wit-goud/9300000226721806/",
       "image": "https://media.s-bol.com/mo4vMW8NvJ19/oQBoArk/550x819.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-15": 749.0,
         "2026-10-16": 749.0,
@@ -168,7 +170,8 @@
         "2026-11-10": 649.0,
         "2026-11-11": 649.0,
         "2026-11-12": 649.0,
-        "2026-11-13": 649.0
+        "2026-11-13": 649.0,
+        "2026-11-14": 649.0
       },
       "low_price": 649.0,
       "prev_price": 699.0,
@@ -208,11 +211,12 @@
       "image": "https://media.s-bol.com/7DoVW1zrAXpA/Wn56mr4/550x741.jpg",
       "ph": {
         "2026-11-12": 269.0,
-        "2026-11-13": 269.0
+        "2026-11-13": 269.0,
+        "2026-11-14": 269.0
       },
       "low_price": 269.0,
       "ph_ean": "0810043373685",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Xiaomi",
@@ -246,7 +250,7 @@
       "bol_title": "Xiaomi Smart Air Purifier 4 Pro | Luchtreiniger | 500 m³/u CADR | Tot 60 m² | PM2.5 en PM10 sensor | OLED display | App en spraakbediening | Automatische modus",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-air-purifier-4-pro-luchtreiniger/9300000072830557/",
       "image": "https://media.s-bol.com/BWVqEDQE5BAQ/RoO1LRE/345x840.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-14": 249.99,
         "2026-10-15": 249.99,
@@ -277,7 +281,8 @@
         "2026-11-10": 257.35,
         "2026-11-11": 259.95,
         "2026-11-12": 259.95,
-        "2026-11-13": 257.35
+        "2026-11-13": 257.35,
+        "2026-11-14": 257.35
       },
       "low_price": 249.99,
       "prev_price": 259.95,
@@ -287,7 +292,7 @@
     {
       "brand": "Rowenta",
       "name": "Pure Air XL Connect PU6080",
-      "price": 118.5,
+      "price": 139.99,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -335,12 +340,13 @@
         "2026-11-10": 108.5,
         "2026-11-11": 139.99,
         "2026-11-12": 113.5,
-        "2026-11-13": 118.5
+        "2026-11-13": 118.5,
+        "2026-11-14": 139.99
       },
       "low_price": 108.5,
-      "synced": "2026-11-13",
-      "prev_price": 113.5,
-      "prev_date": "2026-11-12",
+      "synced": "2026-11-14",
+      "prev_price": 118.5,
+      "prev_date": "2026-11-13",
       "ph_ean": "3121047260800"
     },
     {
@@ -375,7 +381,7 @@
       "bol_title": "Philips Luchtreiniger PureProtect Mini AC0921/14 - Tegen Hooikoorts, Huisstofmijt, Stof en Allergie - HEPA Filter - Ruimtes tot 65 m² - Fluisterstil met Slaapstand - Automatische Stand - Luchtkwaliteitsindicator - Beige",
       "url": "https://www.bol.com/nl/nl/p/philips-pureprotect-mini-900-serie-luchtzuiveraar-ac0921-14/9300000186181889/",
       "image": "https://media.s-bol.com/NqvN0nkJDBPL/xvE01mJ/476x840.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-15": 133.0,
         "2026-10-16": 133.0,
@@ -405,7 +411,8 @@
         "2026-11-10": 99.99,
         "2026-11-11": 99.99,
         "2026-11-12": 99.99,
-        "2026-11-13": 99.99
+        "2026-11-13": 99.99,
+        "2026-11-14": 99.99
       },
       "low_price": 99.99,
       "prev_price": 120.63,
@@ -449,10 +456,11 @@
         "2026-11-10": 178.99,
         "2026-11-11": 171.99,
         "2026-11-12": 161.99,
-        "2026-11-13": 169.99
+        "2026-11-13": 169.99,
+        "2026-11-14": 169.99
       },
       "low_price": 161.99,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "prev_price": 161.99,
       "prev_date": "2026-11-12",
       "ph_ean": "0810043373814"
@@ -489,7 +497,7 @@
       "bol_title": "Coway Airmega 150 Luchtreiniger - Voor ruimtes tot 73m² - HEPA filter + koolstoffilter + Wasbaar pre-filter - 281 m³/u - Tegen stof, pollen en allergenen - Fluisterstil (20 dB) - ECARF & Quiet Mark gecertificeerd - Wit",
       "url": "https://www.bol.com/nl/nl/p/coway-airmega-150-luchtreiniger-met-greenhepa-technologie-wit/9300000075750686/",
       "image": "https://media.s-bol.com/qXgln7xLW3Bk/N3BXLv/550x772.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-13": 219.99,
         "2026-10-14": 219.99,
@@ -521,7 +529,8 @@
         "2026-11-10": 219.99,
         "2026-11-11": 219.99,
         "2026-11-12": 219.99,
-        "2026-11-13": 219.99
+        "2026-11-13": 219.99,
+        "2026-11-14": 219.99
       },
       "low_price": 169.99,
       "prev_price": 169.99,
@@ -559,7 +568,7 @@
       "bol_title": "Winix 5300-2 - Luchtreiniger Air Purifier met vervangbaar Hepa + Koolstoffilter + PlasmaWave Technologie - Cadr 390m³ p/u en tot 99m² - Getest en Gecertificeerd op Hooikoorts, Allergie en Fijnstof, Auto en Slaapstand, Timer, Luchtkwaliteit indicator",
       "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-5300-2-luchtreiniger-met-hepa-filter-en-plasmawave-technologie-cadr-390m-p-u-en-voor-99m-gecertificeerd-op-hooikoorts-allergieen-en-fijnstof-auto-mode-timer-slaap-mode-en-luchtkwaliteit-indicator/9300000228503657/",
       "image": "https://media.s-bol.com/7rDPk1OWONor/J6M5g7D/529x840.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-24": 129.0,
         "2026-10-25": 129.0,
@@ -581,7 +590,8 @@
         "2026-11-10": 129.0,
         "2026-11-11": 129.0,
         "2026-11-12": 129.0,
-        "2026-11-13": 129.0
+        "2026-11-13": 129.0,
+        "2026-11-14": 129.0
       },
       "low_price": 129.0,
       "ph_ean": "8809490585408"

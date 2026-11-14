@@ -55,16 +55,17 @@
       "image": "https://media.s-bol.com/VE9EjoBxjJ1z/P1OWBOw/550x394.jpg",
       "ph": {
         "2026-11-12": 389.0,
-        "2026-11-13": 389.0
+        "2026-11-13": 389.0,
+        "2026-11-14": 389.0
       },
       "low_price": 389.0,
       "ph_ean": "6937224126060",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "GoPro",
       "name": "HERO13 Black",
-      "price": 388.0,
+      "price": 369.0,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -95,13 +96,14 @@
       "image": "https://media.s-bol.com/YgRWYgz9o07O/WLo3wnx/550x398.jpg",
       "ph": {
         "2026-11-12": 353.0,
-        "2026-11-13": 388.0
+        "2026-11-13": 388.0,
+        "2026-11-14": 369.0
       },
       "low_price": 353.0,
       "ph_ean": "0810116381616",
-      "synced": "2026-11-13",
-      "prev_price": 353.0,
-      "prev_date": "2026-11-12"
+      "synced": "2026-11-14",
+      "prev_price": 388.0,
+      "prev_date": "2026-11-13"
     },
     {
       "brand": "Insta360",
@@ -136,16 +138,17 @@
       "image": "https://media.s-bol.com/zgOJg2LZvw3m/yP23rXR/550x726.jpg",
       "ph": {
         "2026-11-12": 379.0,
-        "2026-11-13": 379.0
+        "2026-11-13": 379.0,
+        "2026-11-14": 379.0
       },
       "low_price": 379.0,
       "ph_ean": "6970357859733",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Insta360",
       "name": "X5",
-      "price": 412.0,
+      "price": 395.0,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,2 van 5",
@@ -176,13 +179,14 @@
       "image": "https://media.s-bol.com/gjMxpR9B79pl/DkL93Z5/315x840.jpg",
       "ph": {
         "2026-11-12": 399.0,
-        "2026-11-13": 412.0
+        "2026-11-13": 412.0,
+        "2026-11-14": 395.0
       },
-      "low_price": 399.0,
+      "low_price": 395.0,
       "ph_ean": "6977644761441",
-      "synced": "2026-11-13",
-      "prev_price": 399.0,
-      "prev_date": "2026-11-12"
+      "synced": "2026-11-14",
+      "prev_price": 412.0,
+      "prev_date": "2026-11-13"
     },
     {
       "brand": "DJI",
@@ -218,11 +222,12 @@
       "image": "https://media.s-bol.com/vzoPkWKQQpmm/0JgklL/550x348.jpg",
       "ph": {
         "2026-11-12": 189.0,
-        "2026-11-13": 189.0
+        "2026-11-13": 189.0,
+        "2026-11-14": 189.0
       },
       "low_price": 189.0,
       "ph_ean": "6941565965073",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "DJI",
@@ -258,18 +263,19 @@
       "image": "https://media.s-bol.com/5GYP37YKYy7v/zmqvmzO/550x714.jpg",
       "ph": {
         "2026-11-12": 379.0,
-        "2026-11-13": 375.79
+        "2026-11-13": 375.79,
+        "2026-11-14": 375.79
       },
       "low_price": 375.79,
       "ph_ean": "6937224110502",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "prev_price": 379.0,
       "prev_date": "2026-11-12"
     },
     {
       "brand": "Insta360",
       "name": "GO 3S 64GB Arctic White",
-      "price": 283.0,
+      "price": 280.67,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -300,11 +306,14 @@
       "image": "https://media.s-bol.com/j9LjjvJLVLBP/6803zEO/550x757.jpg",
       "ph": {
         "2026-11-12": 283.0,
-        "2026-11-13": 283.0
+        "2026-11-13": 283.0,
+        "2026-11-14": 280.67
       },
-      "low_price": 283.0,
+      "low_price": 280.67,
       "ph_ean": "6970357857425",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14",
+      "prev_price": 283.0,
+      "prev_date": "2026-11-13"
     },
     {
       "brand": "DJI",
@@ -340,16 +349,17 @@
       "image": "https://media.s-bol.com/m5wDGVGpw2Dn/Mjn46Pm/488x840.jpg",
       "ph": {
         "2026-11-12": 338.99,
-        "2026-11-13": 338.99
+        "2026-11-13": 338.99,
+        "2026-11-14": 338.99
       },
       "low_price": 338.99,
       "ph_ean": "6937224115453",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "GoPro",
       "name": "HERO12 Black",
-      "price": 318.0,
+      "price": 289.0,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -380,13 +390,14 @@
       "image": "https://media.s-bol.com/qN5AnJPyME52/YWQ2YXn/550x387.jpg",
       "ph": {
         "2026-11-12": 289.0,
-        "2026-11-13": 318.0
+        "2026-11-13": 318.0,
+        "2026-11-14": 289.0
       },
       "low_price": 289.0,
       "ph_ean": "0810116380282",
-      "synced": "2026-11-13",
-      "prev_price": 289.0,
-      "prev_date": "2026-11-12"
+      "synced": "2026-11-14",
+      "prev_price": 318.0,
+      "prev_date": "2026-11-13"
     },
     {
       "brand": "AKASO",
@@ -422,11 +433,12 @@
       "image": "https://media.s-bol.com/pV6WLzZmzQYN/mYY1j3/550x378.jpg",
       "ph": {
         "2026-11-12": 169.99,
-        "2026-11-13": 169.99
+        "2026-11-13": 169.99,
+        "2026-11-14": 169.99
       },
       "low_price": 169.99,
       "ph_ean": "0810035151796",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     }
   ],
   "guide": [

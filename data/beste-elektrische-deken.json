@@ -61,10 +61,11 @@
         "2026-11-10": 89.99,
         "2026-11-11": 89.99,
         "2026-11-12": 89.99,
-        "2026-11-13": 89.99
+        "2026-11-13": 89.99,
+        "2026-11-14": 89.99
       },
       "low_price": 89.99,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph_ean": "4211125368036"
     },
     {
@@ -98,7 +99,7 @@
       "bol_title": "Inventum HN297V elektrische onderdeken 160x160 cm - 2 persoons - Warmtedeken - 9 warmtestanden - 2 zones apart instelbaar - Anti-allergie - Antibacterieel - Fleece - Wit",
       "url": "https://www.bol.com/nl/nl/p/inventum-hn297v-elektrische-onderdeken-160x160-cm-tweepersoons-9-warmtestanden-2-schakelaars-aparte-voetzone-anti-allergie-antibacterieel-warmtedeken-snel-warm-uitwasbaar-automatische-uitschakeling-oververhittingsbeveiliging/9200000106926903/",
       "image": "https://media.s-bol.com/mxDwLAyLoQ1E/j2KLgkW/550x550.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-18": 125.0,
         "2026-10-19": 125.0,
@@ -125,7 +126,8 @@
         "2026-11-10": 109.0,
         "2026-11-11": 109.0,
         "2026-11-12": 109.0,
-        "2026-11-13": 109.0
+        "2026-11-13": 109.0,
+        "2026-11-14": 109.0
       },
       "low_price": 105.0,
       "prev_price": 125.0,
@@ -135,7 +137,7 @@
     {
       "brand": "Inventum",
       "name": "HN135 onderdeken",
-      "price": 39.0,
+      "price": 37.7,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "1.100+ reviews",
@@ -163,7 +165,7 @@
       "bol_title": "Inventum HN135 elektrische onderdeken 150x80 cm - 1 persoons - Warmtedeken - 3 warmtestanden - Fleece - Lichtblauw",
       "url": "https://www.bol.com/nl/nl/p/inventum-hn135-elektrische-onderdeken-150x80-cm-lichtblauw/9200000008138144/",
       "image": "https://media.s-bol.com/mxDwVEnQEp6A/66N2YnL/550x540.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-18": 40.76,
         "2026-10-19": 40.76,
@@ -190,17 +192,18 @@
         "2026-11-10": 39.0,
         "2026-11-11": 39.0,
         "2026-11-12": 39.0,
-        "2026-11-13": 39.0
+        "2026-11-13": 39.0,
+        "2026-11-14": 37.7
       },
-      "low_price": 39.0,
-      "prev_price": 47.0,
-      "prev_date": "2026-11-05",
+      "low_price": 37.7,
+      "prev_price": 39.0,
+      "prev_date": "2026-11-13",
       "ph_ean": "8712876020762"
     },
     {
       "brand": "Inventum",
       "name": "HN236i 2-persoons onderdeken",
-      "price": 76.6,
+      "price": 73.99,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -240,12 +243,13 @@
         "2026-11-10": 76.4,
         "2026-11-11": 76.4,
         "2026-11-12": 76.6,
-        "2026-11-13": 76.6
+        "2026-11-13": 76.6,
+        "2026-11-14": 73.99
       },
-      "low_price": 76.4,
-      "synced": "2026-11-13",
-      "prev_price": 76.4,
-      "prev_date": "2026-11-11",
+      "low_price": 73.99,
+      "synced": "2026-11-14",
+      "prev_price": 76.6,
+      "prev_date": "2026-11-13",
       "ph_ean": "8712876020830"
     },
     {
@@ -298,10 +302,11 @@
         "2026-11-10": 57.85,
         "2026-11-11": 54.13,
         "2026-11-12": 62.22,
-        "2026-11-13": 57.83
+        "2026-11-13": 57.83,
+        "2026-11-14": 57.83
       },
       "low_price": 49.64,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "prev_price": 62.22,
       "prev_date": "2026-11-12",
       "ph_ean": "8712876500721"
@@ -309,7 +314,7 @@
     {
       "brand": "Beurer",
       "name": "HD 75 Cosy warmtedeken",
-      "price": 44.99,
+      "price": 36.99,
       "score": 8.6,
       "label": null,
       "reviews": "900+ reviews",
@@ -337,7 +342,7 @@
       "bol_title": "Beurer HD 75 Elektrische Deken - Warmtedeken 180x130 cm - Beurer Safety System - Automatische Uitschakeling - Taupe",
       "url": "https://www.bol.com/nl/nl/p/beurer-hd-75-elektrische-deken-6-temperatuurniveaus-veiligheidssysteem-machinewasbaar-cosy-taupe/9200000109331134/",
       "image": "https://media.s-bol.com/qz93MXERwlK7/vQD4Dj5/550x472.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-18": 49.95,
         "2026-10-19": 49.95,
@@ -364,11 +369,12 @@
         "2026-11-10": 36.99,
         "2026-11-11": 44.99,
         "2026-11-12": 44.99,
-        "2026-11-13": 44.99
+        "2026-11-13": 44.99,
+        "2026-11-14": 36.99
       },
       "low_price": 36.99,
-      "prev_price": 36.99,
-      "prev_date": "2026-11-10",
+      "prev_price": 44.99,
+      "prev_date": "2026-11-13",
       "ph_ean": "4211125424008"
     },
     {
@@ -402,7 +408,7 @@
       "bol_title": "Inventum HB182G Elektrische deken 180x130cm - 1 Persoons - Warmtedeken - Omslagdeken - 4 Standen - Grijs",
       "url": "https://www.bol.com/nl/nl/p/inventum-hb180g-elektrische-omslagdeken-180x130-cm-grijs/9300000048623883/",
       "image": "https://media.s-bol.com/8Q26PqjRX1Wo/NLQGg4L/550x551.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-18": 49.99,
         "2026-10-19": 48.7,
@@ -429,7 +435,8 @@
         "2026-11-10": 37.99,
         "2026-11-11": 37.99,
         "2026-11-12": 37.99,
-        "2026-11-13": 37.99
+        "2026-11-13": 37.99,
+        "2026-11-14": 37.99
       },
       "low_price": 37.99,
       "prev_price": 44.99,
@@ -439,7 +446,7 @@
     {
       "brand": "Auronic",
       "name": "Elektrische deken 2-persoons 200 x 180 cm",
-      "price": 67.99,
+      "price": 69.99,
       "score": 8.4,
       "label": null,
       "reviews": "500+ reviews",
@@ -467,7 +474,7 @@
       "bol_title": "Auronic Elektrische Deken - 200 x 180 cm - 2 Persoons Warmtedeken - 3 Warmtestanden met Timer - Verwarmingsdeken - Antraciet",
       "url": "https://www.bol.com/nl/nl/p/auronic-elektrische-warmtedeken-bovendeken-2-persoons-3-standen-met-timer-200-x-180-cm-antraciet/9300000124089427/",
       "image": "https://media.s-bol.com/YJ412ZX565zM/68jgRMl/550x567.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-18": 59.99,
         "2026-10-19": 59.99,
@@ -494,11 +501,12 @@
         "2026-11-10": 67.99,
         "2026-11-11": 67.99,
         "2026-11-12": 67.99,
-        "2026-11-13": 67.99
+        "2026-11-13": 67.99,
+        "2026-11-14": 69.99
       },
       "low_price": 59.99,
-      "prev_price": 64.99,
-      "prev_date": "2026-10-29",
+      "prev_price": 67.99,
+      "prev_date": "2026-11-13",
       "ph_ean": "8720195256090"
     },
     {
@@ -529,10 +537,10 @@
       "ideal": "Wie zo goedkoop mogelijk een veilige onderdeken voor één persoon zoekt.",
       "text": "De Tomado TEB1505W is de goedkoopste elektrische deken in deze lijst, maar heeft wel een functie die de duurdere Inventum HN135 mist: automatische uitschakeling na 180 minuten. Daardoor kun je hem gerust aan laten staan als je in slaap valt. De onderdeken meet 150 bij 80 centimeter en heeft elastieken waarmee je hem om je matras vastmaakt, zodat hij niet verschuift als je draait.\n\nMet de verlichte schakelaar kies je uit drie warmtestanden. Het verwarmingselement heeft een vermogen van 60 watt. Een half uur voorverwarmen op de hoogste stand kost daardoor minder dan een cent. Er is een oververhittingsbeveiliging en de bediening is afneembaar, zodat de deken op 30 graden in de wasmachine kan. Kopers noemen hem eenvoudig maar effectief. De fleece is dunner dan bij de Inventum en de garantie is twee jaar. Voor nog geen 25 euro krijg je een complete basisdeken.",
       "ean": "8712876502275",
-      "bol_title": "Elektrische onderdeken - 1 persoons - 150 x 80 cm",
+      "bol_title": "Tomado TEB1505W - Elektrische deken 1 persoons - 150 x 80 cm - Warmtedeken - Onderdeken - 3 standen",
       "url": "https://www.bol.com/nl/nl/p/tomado-teb1505w-elektrische-onderdeken-1-persoons-extra-snelle-opwarming-150-x-80-cm/9300000189265674/",
       "image": "https://media.s-bol.com/xX3K0PDoE0Gl/wVD0p8J/550x568.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-18": 24.95,
         "2026-10-19": 24.95,
@@ -559,7 +567,8 @@
         "2026-11-10": 24.99,
         "2026-11-11": 24.99,
         "2026-11-12": 24.99,
-        "2026-11-13": 24.99
+        "2026-11-13": 24.99,
+        "2026-11-14": 24.99
       },
       "low_price": 20.79,
       "prev_price": 20.79,
@@ -598,7 +607,7 @@
       "bol_title": "Tristar BW-4752 Elektrisch Onderdeken – 2 Personen – 160x140 cm – 2 Warmtezones – 2 Aparte Warmteregelaars – 2 Warmtestanden – Oververhittingsbeveiliging – Wasmachinebestendig – Wit - Sinterklaas Cadeau",
       "url": "https://www.bol.com/nl/nl/p/warmtedeken-2-persoons-tristar-bw-4752-elektrische-deken-warmte-deken-elektrisch-160x140-cm-2-warmte-zones-2-instellingen-en-2-aparte-besturingseenheden-geschikt-voor-wasmachine-wit/9200000092160318/",
       "image": "https://media.s-bol.com/N1NQXg1OK3X2/PMNWlw/550x407.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-18": 34.99,
         "2026-10-19": 34.99,
@@ -625,7 +634,8 @@
         "2026-11-10": 31.99,
         "2026-11-11": 31.99,
         "2026-11-12": 31.99,
-        "2026-11-13": 29.99
+        "2026-11-13": 29.99,
+        "2026-11-14": 29.99
       },
       "low_price": 29.99,
       "prev_price": 31.99,

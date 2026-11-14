@@ -55,10 +55,11 @@
       "ph": {
         "2026-11-11": 289.0,
         "2026-11-12": 289.0,
-        "2026-11-13": 289.0
+        "2026-11-13": 289.0,
+        "2026-11-14": 289.0
       },
       "low_price": 289.0,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph_ean": "6974434224346"
     },
     {
@@ -97,16 +98,17 @@
         "2026-11-10": 281.7,
         "2026-11-11": 281.7,
         "2026-11-12": 281.7,
-        "2026-11-13": 281.7
+        "2026-11-13": 281.7,
+        "2026-11-14": 281.7
       },
       "low_price": 281.7,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph_ean": "6936520867585"
     },
     {
       "brand": "Samsung",
       "name": "Galaxy A36 5G 128GB",
-      "price": 299.99,
+      "price": 276.99,
       "score": 8.9,
       "label": "Beste premium",
       "reviews": "2.300+ reviews",
@@ -139,13 +141,14 @@
         "2026-11-10": 276.72,
         "2026-11-11": 276.72,
         "2026-11-12": 276.72,
-        "2026-11-13": 299.99
+        "2026-11-13": 299.99,
+        "2026-11-14": 276.99
       },
       "low_price": 276.72,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph_ean": "8806095984438",
-      "prev_price": 276.72,
-      "prev_date": "2026-11-12"
+      "prev_price": 299.99,
+      "prev_date": "2026-11-13"
     },
     {
       "brand": "Motorola",
@@ -180,11 +183,12 @@
       "url": "https://www.bol.com/nl/nl/p/motorola-moto-g77-8-256gb-pantone-shaded-spruce/9300000258252441/",
       "image": "https://media.s-bol.com/8Jogo1zPDnpL/r0ABGPk/550x533.jpg",
       "ph": {
-        "2026-11-13": 239.0
+        "2026-11-13": 239.0,
+        "2026-11-14": 239.0
       },
       "low_price": 239.0,
       "ph_ean": "0840493617213",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Google",
@@ -218,7 +222,7 @@
       "bol_title": "Google Pixel 8a - 8/128GB - Wit",
       "url": "https://www.bol.com/nl/nl/p/google-pixel-8a-8-128gb-wit/9300000179545269/",
       "image": "https://media.s-bol.com/Kl3zppPlo4J8/k5D8jWE/429x840.jpg",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph": {
         "2026-10-16": 259.0,
         "2026-10-17": 259.0,
@@ -247,7 +251,8 @@
         "2026-11-10": 259.0,
         "2026-11-11": 259.0,
         "2026-11-12": 259.0,
-        "2026-11-13": 259.0
+        "2026-11-13": 259.0,
+        "2026-11-14": 259.0
       },
       "low_price": 259.0,
       "ph_ean": "0840244707941"
@@ -288,16 +293,17 @@
         "2026-11-10": 269.0,
         "2026-11-11": 269.0,
         "2026-11-12": 269.0,
-        "2026-11-13": 269.0
+        "2026-11-13": 269.0,
+        "2026-11-14": 269.0
       },
       "low_price": 269.0,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph_ean": "6974434227064"
     },
     {
       "brand": "Samsung",
       "name": "Galaxy A26 5G 128GB",
-      "price": 254.9,
+      "price": 255.0,
       "score": 8.4,
       "label": null,
       "reviews": "1.900+ reviews",
@@ -345,18 +351,19 @@
         "2026-11-10": 245.9,
         "2026-11-11": 233.03,
         "2026-11-12": 248.9,
-        "2026-11-13": 254.9
+        "2026-11-13": 254.9,
+        "2026-11-14": 255.0
       },
       "low_price": 233.03,
-      "synced": "2026-11-13",
-      "prev_price": 248.9,
-      "prev_date": "2026-11-12",
+      "synced": "2026-11-14",
+      "prev_price": 254.9,
+      "prev_date": "2026-11-13",
       "ph_ean": "8806097072829"
     },
     {
       "brand": "Motorola",
       "name": "moto g56 5G 8/256GB",
-      "price": 241.0,
+      "price": 239.95,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -389,13 +396,14 @@
         "2026-11-10": 239.0,
         "2026-11-11": 239.0,
         "2026-11-12": 241.0,
-        "2026-11-13": 241.0
+        "2026-11-13": 241.0,
+        "2026-11-14": 239.95
       },
       "low_price": 239.0,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph_ean": "0840023292316",
-      "prev_price": 239.0,
-      "prev_date": "2026-11-11"
+      "prev_price": 241.0,
+      "prev_date": "2026-11-13"
     },
     {
       "brand": "Honor",
@@ -432,10 +440,11 @@
       "ph": {
         "2026-11-11": 262.27,
         "2026-11-12": 262.27,
-        "2026-11-13": 262.27
+        "2026-11-13": 262.27,
+        "2026-11-14": 262.27
       },
       "low_price": 262.27,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "ph_ean": "6936520892013"
     },
     {
@@ -467,7 +476,7 @@
       "ideal": "Wie een betrouwbare Samsung voor jaren zoekt en vooral appt, belt en foto's maakt.",
       "text": "De Samsung Galaxy A17 5G is de goedkoopste telefoon in deze lijst en toch geen uitgeklede budgetkeuze. Je krijgt een Super AMOLED-scherm van 6,7 inch met levendige kleuren en een verversing van 90 Hz. De 50 MP hoofdcamera heeft optische stabilisatie, wat avondfoto's en video's rustiger maakt. Een accu van 5.000 mAh komt bij normaal gebruik de dag ruim door.\n\nHet sterkste punt is de ondersteuning. Samsung belooft zes Android-upgrades en zes jaar beveiligingsupdates, zodat je dit toestel jaren veilig gebruikt. De behuizing is 7,5 mm dun, spatwaterdicht volgens IP54 en het scherm wordt beschermd door Gorilla Glass Victus. Kopers op bol geven hem een 4,6. Met 4 GB werkgeheugen is hij wel trager bij zware games en veel open apps dan de A26 of de Motorola's. Een oplader zit niet in de doos. Voor wie vooral appt, belt en foto's maakt, is dit veel telefoon voor weinig geld.",
       "ean": "8806097640257",
-      "bol_title": "Samsung Galaxy A17 5G 17 cm (6.7) Dual SIM Android 15 USB Type-C 4 GB 128 GB 5000 mAh Grijs",
+      "bol_title": "Samsung Galaxy A17 5G - Smartphone - 4/128GB - Blauw",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a17-5g-17-cm-hybride-dual-sim-android-15-usb-type-c-128-gb-5000-mah-blauw/9300000237500864/",
       "image": "https://media.s-bol.com/RAEp366zyAzz/pgm90lr/403x840.jpg",
       "ph": {
@@ -483,10 +492,11 @@
         "2026-11-10": 199.0,
         "2026-11-11": 199.0,
         "2026-11-12": 199.0,
-        "2026-11-13": 199.0
+        "2026-11-13": 199.0,
+        "2026-11-14": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "prev_price": 219.0,
       "prev_date": "2026-11-07",
       "ph_ean": "8806097640257"

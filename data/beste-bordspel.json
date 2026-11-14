@@ -54,16 +54,17 @@
       "image": "https://media.s-bol.com/3n2QVp1KOz2n/mZmwlAR/550x582.jpg",
       "ph": {
         "2026-11-12": 34.99,
-        "2026-11-13": 34.99
+        "2026-11-13": 34.99,
+        "2026-11-14": 34.99
       },
       "low_price": 34.99,
       "ph_ean": "8717249196235",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Days of Wonder",
       "name": "Ticket to Ride Europe",
-      "price": 34.99,
+      "price": 33.36,
       "score": 9.3,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -92,11 +93,14 @@
       "image": "https://media.s-bol.com/475noPrDEQGn/gLg6RRY/550x579.jpg",
       "ph": {
         "2026-11-12": 34.99,
-        "2026-11-13": 34.99
+        "2026-11-13": 34.99,
+        "2026-11-14": 33.36
       },
-      "low_price": 34.99,
+      "low_price": 33.36,
       "ph_ean": "0824968717523",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14",
+      "prev_price": 34.99,
+      "prev_date": "2026-11-13"
     },
     {
       "brand": "999 Games",
@@ -130,11 +134,12 @@
       "image": "https://media.s-bol.com/7KPOl82QLv8G/wjnrRBR/550x807.jpg",
       "ph": {
         "2026-11-12": 28.99,
-        "2026-11-13": 28.99
+        "2026-11-13": 28.99,
+        "2026-11-14": 28.99
       },
       "low_price": 28.99,
       "ph_ean": "8719214420659",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Next Move Games",
@@ -168,11 +173,12 @@
       "image": "https://media.s-bol.com/VDRrrNnNl665/73kLklG/550x667.jpg",
       "ph": {
         "2026-11-12": 35.99,
-        "2026-11-13": 35.99
+        "2026-11-13": 35.99,
+        "2026-11-14": 35.99
       },
       "low_price": 35.99,
       "ph_ean": "5413407050038",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "999 Games",
@@ -207,16 +213,17 @@
       "image": "https://media.s-bol.com/ZjwovnlZ5XZE/lx5k1Rl/550x583.jpg",
       "ph": {
         "2026-11-12": 42.99,
-        "2026-11-13": 42.99
+        "2026-11-13": 42.99,
+        "2026-11-14": 42.99
       },
       "low_price": 42.99,
       "ph_ean": "8719214426132",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Goliath",
       "name": "Rummikub The Original Classic",
-      "price": 27.99,
+      "price": 27.89,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -245,11 +252,14 @@
       "image": "https://media.s-bol.com/BE6AEj64067Q/6Rwx29/550x459.jpg",
       "ph": {
         "2026-11-12": 27.99,
-        "2026-11-13": 27.99
+        "2026-11-13": 27.99,
+        "2026-11-14": 27.89
       },
-      "low_price": 27.99,
+      "low_price": 27.89,
       "ph_ean": "8711808004009",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14",
+      "prev_price": 27.99,
+      "prev_date": "2026-11-13"
     },
     {
       "brand": "Z-Man Games",
@@ -283,11 +293,12 @@
       "image": "https://media.s-bol.com/X470wjDJ4L98/D1qQn0B/550x784.jpg",
       "ph": {
         "2026-11-12": 36.67,
-        "2026-11-13": 36.67
+        "2026-11-13": 36.67,
+        "2026-11-14": 36.67
       },
       "low_price": 36.67,
       "ph_ean": "8719817218202",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Space Cowboys",
@@ -321,11 +332,12 @@
       "image": "https://media.s-bol.com/BWgnyy2xMpG2/zmZB3xq/550x755.jpg",
       "ph": {
         "2026-11-12": 29.99,
-        "2026-11-13": 30.99
+        "2026-11-13": 30.99,
+        "2026-11-14": 30.99
       },
       "low_price": 29.99,
       "ph_ean": "3558380022251",
-      "synced": "2026-11-13",
+      "synced": "2026-11-14",
       "prev_price": 29.99,
       "prev_date": "2026-11-12"
     },
@@ -361,16 +373,17 @@
       "image": "https://media.s-bol.com/39LRL6QRkpBn/L90vXkg/550x582.jpg",
       "ph": {
         "2026-11-12": 24.99,
-        "2026-11-13": 24.99
+        "2026-11-13": 24.99,
+        "2026-11-14": 24.99
       },
       "low_price": 24.99,
       "ph_ean": "8717249199625",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14"
     },
     {
       "brand": "Jumbo",
       "name": "Stratego Original",
-      "price": 29.99,
+      "price": 25.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -400,11 +413,14 @@
       "image": "https://media.s-bol.com/YnD9gZZDWJBA/vPzQnM/550x365.jpg",
       "ph": {
         "2026-11-12": 29.99,
-        "2026-11-13": 29.99
+        "2026-11-13": 29.99,
+        "2026-11-14": 25.99
       },
-      "low_price": 29.99,
+      "low_price": 25.99,
       "ph_ean": "8710126199572",
-      "synced": "2026-11-13"
+      "synced": "2026-11-14",
+      "prev_price": 29.99,
+      "prev_date": "2026-11-13"
     }
   ],
   "guide": [
