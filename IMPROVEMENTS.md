@@ -344,3 +344,5 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Gedaan: Halolume is sinds 13 nov uitverkocht, dus het blok "Ons eigen merk" is gepauzeerd op de 8 gidsen waar het stond (tv 55, 65 en 75 inch, OLED, Mini LED, tv onder 500 en onder 1000, tech-cadeau onder 100). Nieuw veld eigen_merk.pauze (tekst met datum en reden): build.py toont het blok dan niet, de inhoud blijft in de data. Terugzetten: veld pauze weghalen zodra Nick voorraad meldt. Mhyson-blokken ongewijzigd.
 - Voor de verbeterronde: het veld "wissels" werkt (13 wissels van 13 nov vastgelegd, de reden staat live in het logboek van tv 55 inch).
 
+
+- 2026-11-14 01:35 groeimotor-nacht: de bronnenlijst van Umami misleidt. ChatGPT stuurt geen referrer mee maar zet ?utm_source=chatgpt.com achter de link; 7 dagen t/m 14 nov kwamen 416 van 566 bezoekers en 288 van 300 bol-kliks zo binnen (groeimotor/chatgpt.py, chatgpt.json per pagina). Lees bij de signalen ook het aantal weergaven met die utm (Umami, type query). Geen wijziging aan pagina's.
