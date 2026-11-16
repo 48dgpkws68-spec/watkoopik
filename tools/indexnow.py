@@ -8,7 +8,8 @@ urls = re.findall(r"<loc>([^<]+)</loc>", open(os.path.join(ROOT, "sitemap.xml"))
 import glob
 for f in sorted(glob.glob(os.path.join(ROOT, "data", "beste-*.json"))):
     try:
-        if json.load(open(f)).get("noindex"):
+        _g = json.load(open(f))
+        if _g.get("noindex") or _g.get("google_wacht"):   # AI2: google_wacht ook bij Bing melden
             u = "https://watkoopik.nl/beste/%s.html" % os.path.basename(f)[:-5]
             if u not in urls: urls.append(u)
     except Exception: pass

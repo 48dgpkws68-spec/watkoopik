@@ -192,7 +192,8 @@ guides.sort(key=lambda g: (g.get("prio", 50), g["slug"]))
 by_cat = {}
 for g in guides: by_cat.setdefault(g["cat"], []).append(g)
 # Snoeien (N32, 13 nov 2026): gidsen met "noindex": true in de data krijgen noindex,follow en staan niet in sitemap.xml; ze blijven gewoon bestaan en gelinkt (tools/snoei.py)
-NOINDEX = {g["url"] for g in guides if g.get("noindex")}
+# AI2 (16 nov 2026, N40): "google_wacht": true = nieuwe smalle gids voor ChatGPT/Bing, voor Google nog in de wacht (zelfde behandeling als noindex: googlebot noindex, uit sitemap.xml, wel IndexNow). Verder een gewone gids.
+NOINDEX = {g["url"] for g in guides if g.get("noindex") or g.get("google_wacht")}
 # AI1 (14 nov 2026): gesnoeide gidsen zijn alleen voor Google noindex (meta googlebot). Bing en daarmee ChatGPT
 # (78% van het bezoek) mogen ze blijven opnemen; ze blijven wel uit sitemap.xml. Google volgt de strengste van robots + googlebot.
 def robots_meta(path):

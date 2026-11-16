@@ -93,6 +93,7 @@ def voorstel():
         for s in ms: fam.setdefault(s, ms)   # eerste = hoofdfamilie
     rows = []
     for g in gs:
+        if g.get("google_wacht"): continue   # AI2 (N40): gidsen in de Google-wacht tellen niet mee en worden nooit gesnoeid
         s = g["slug"]; waarom = []
         b, k = bez.get(s, 0), kl.get(s, 0)
         if k > 0: waarom.append("%d bol-kliks" % k)
