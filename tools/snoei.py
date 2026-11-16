@@ -53,12 +53,16 @@ def cijfers():
         print("LET OP: ChatGPT-bezoek niet gelezen (%s); regel (d) telt deze run niet mee" % ex)
     return bez, kl, ai
 
+SNOEI_EXP = {"E47", "E52"}
+
 def in_experiment():
     e = load(os.path.join(GM, "experimenten.json"), [])
     e = e if isinstance(e, list) else e.get("experimenten", [])
     out = {}
     for x in e:
         if x.get("status") != "loopt": continue
+        # experimenten die het snoeien zelf meten (E47, E52) houden hun gesnoeide gidsen niet in de index
+        if x.get("id") in SNOEI_EXP or x.get("over_snoei"): continue
         for p in x.get("paginas") or []:
             if "*" in p: continue
             m = re.search(r"(beste-[a-z0-9-]+)", p)

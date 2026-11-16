@@ -483,9 +483,19 @@
     "in": "TCL 55P8K",
     "plek": 2,
     "paar": true
+   },
+   {
+    "d": "2026-11-16",
+    "t": "vervangen",
+    "uit": "TCL 55P8K",
+    "in": "TCL 55P6L",
+    "plek": 2,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "813f51dcdbb69d27e661a228e18d3645d4333954",
+  "_tot": "a7f02c222b4fc5aa17cae292a22e15ffd211d875",
   "_ps": [
    {
     "brand": "LG",
@@ -494,8 +504,8 @@
    },
    {
     "brand": "TCL",
-    "name": "55P8K",
-    "ean": "5901292525897"
+    "name": "55P6L",
+    "ean": "5901292531942"
    },
    {
     "brand": "CHiQ",
@@ -888,9 +898,19 @@
     "in": "TCL 65C6KS",
     "plek": 8,
     "paar": true
+   },
+   {
+    "d": "2026-11-16",
+    "t": "vervangen",
+    "uit": "LG 65QNED84A6C",
+    "in": "Philips 65PQS7801/12",
+    "plek": 7,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "813f51dcdbb69d27e661a228e18d3645d4333954",
+  "_tot": "a7f02c222b4fc5aa17cae292a22e15ffd211d875",
   "_ps": [
    {
     "brand": "LG",
@@ -923,9 +943,9 @@
     "ean": "8718863052044"
    },
    {
-    "brand": "LG",
-    "name": "65QNED84A6C",
-    "ean": "8806096422007"
+    "brand": "Philips",
+    "name": "65PQS7801/12",
+    "ean": "8718863051689"
    },
    {
     "brand": "TCL",
@@ -987,9 +1007,19 @@
     "in": "TCL 50P6K",
     "plek": 9,
     "paar": true
+   },
+   {
+    "d": "2026-11-16",
+    "t": "vervangen",
+    "uit": "TCL 50P6K",
+    "in": "TCL 50S51K",
+    "plek": 9,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "813f51dcdbb69d27e661a228e18d3645d4333954",
+  "_tot": "a7f02c222b4fc5aa17cae292a22e15ffd211d875",
   "_ps": [
    {
     "brand": "Hisense",
@@ -1033,8 +1063,8 @@
    },
    {
     "brand": "TCL",
-    "name": "50P6K",
-    "ean": "5901292528935"
+    "name": "50S51K",
+    "ean": "5901292528669"
    },
    {
     "brand": "Philips",
@@ -1262,9 +1292,19 @@
     "in": "LG C5 OLED42C54LA",
     "plek": 6,
     "paar": true
+   },
+   {
+    "d": "2026-11-16",
+    "t": "vervangen",
+    "uit": "LG 65QNED84A6C",
+    "in": "Philips 65PQS7801/12",
+    "plek": 10,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "813f51dcdbb69d27e661a228e18d3645d4333954",
+  "_tot": "a7f02c222b4fc5aa17cae292a22e15ffd211d875",
   "_ps": [
    {
     "brand": "LG",
@@ -1312,9 +1352,9 @@
     "ean": "8806099134624"
    },
    {
-    "brand": "LG",
-    "name": "65QNED84A6C",
-    "ean": "8806096422007"
+    "brand": "Philips",
+    "name": "65PQS7801/12",
+    "ean": "8718863051689"
    }
   ]
  },
@@ -1530,9 +1570,19 @@
     "in": "LG B5 OLED48B56LA 48 inch",
     "plek": 10,
     "paar": true
+   },
+   {
+    "d": "2026-11-16",
+    "t": "vervangen",
+    "uit": "LG B5 OLED48B56LA 48 inch",
+    "in": "Philips 48OLED760 48 inch",
+    "plek": 10,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "813f51dcdbb69d27e661a228e18d3645d4333954",
+  "_tot": "a7f02c222b4fc5aa17cae292a22e15ffd211d875",
   "_ps": [
    {
     "brand": "LG",
@@ -1580,9 +1630,9 @@
     "ean": "8806099127633"
    },
    {
-    "brand": "LG",
-    "name": "B5 OLED48B56LA 48 inch",
-    "ean": "8806096353790"
+    "brand": "Philips",
+    "name": "48OLED760 48 inch",
+    "ean": "8718863046753"
    }
   ]
  },

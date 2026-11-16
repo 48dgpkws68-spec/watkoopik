@@ -888,6 +888,7 @@ for g in guides:
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = zoekterm(g)  # zoekterm voor titel en meta; query blijft de bol-zoekterm
     lidw, _, ww = zoekterm_vorm(seo)
+    if len(ps) != 10: body = body.replace("De top 10 in detail", "De top %d in detail" % len(ps))
     title = "Beste %s %d: top 10 vergeleken | watkoopik" % (seo, YEAR)
     if len(title) > 62: title = "%s | watkoopik" % g["title"]
     desc = "%s beste %s van %d %s de %s %s (%s). Slimste koop: %s %s voor %s. Bekijk de volledige top 10 met plus- en minpunten, koopgids en FAQ." % (

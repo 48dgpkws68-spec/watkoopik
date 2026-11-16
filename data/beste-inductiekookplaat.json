@@ -21,7 +21,7 @@
     {
       "brand": "Bosch",
       "name": "Serie 8 PXX675DC1E",
-      "price": 543.15,
+      "price": 639.0,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "900+ reviews",
@@ -60,12 +60,13 @@
         "2026-11-12": 639.0,
         "2026-11-13": 639.0,
         "2026-11-14": 639.0,
-        "2026-11-16": 543.15
+        "2026-11-16": 543.15,
+        "2026-11-17": 639.0
       },
       "low_price": 543.15,
-      "synced": "2026-11-16",
-      "prev_price": 639.0,
-      "prev_date": "2026-11-14",
+      "synced": "2026-11-17",
+      "prev_price": 543.15,
+      "prev_date": "2026-11-16",
       "ph_ean": "4242002848969"
     },
     {
@@ -100,7 +101,7 @@
       "bol_title": "Siemens EX875HVC1E - Inductiekookplaat",
       "url": "https://www.bol.com/nl/nl/p/siemens-ex875hvc1e-inductiekookplaat/9300000153494356/",
       "image": "https://media.s-bol.com/xB826Dp7Or5P/yKq1Dz/550x360.jpg",
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph": {
         "2026-10-15": 1086.0,
         "2026-10-16": 1086.0,
@@ -132,7 +133,8 @@
         "2026-11-12": 1086.0,
         "2026-11-13": 1086.0,
         "2026-11-14": 1086.0,
-        "2026-11-16": 1086.0
+        "2026-11-16": 1086.0,
+        "2026-11-17": 1086.0
       },
       "low_price": 1086.0,
       "ph_ean": "4242003935637"
@@ -168,7 +170,7 @@
       "bol_title": "AEG IKE84441FB - Inductie kookplaat inbouw",
       "url": "https://www.bol.com/nl/nl/p/aeg-ike84441fb-inductie-kookplaat-inbouw/9200000088645017/",
       "image": "https://media.s-bol.com/2wymM9AqWxp1/76ZQLvG/550x438.jpg",
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph": {
         "2026-10-14": 649.0,
         "2026-10-15": 649.0,
@@ -201,7 +203,8 @@
         "2026-11-12": 649.0,
         "2026-11-13": 649.0,
         "2026-11-14": 649.0,
-        "2026-11-16": 649.0
+        "2026-11-16": 649.0,
+        "2026-11-17": 649.0
       },
       "low_price": 649.0,
       "ph_ean": "7332543593569"
@@ -237,7 +240,7 @@
       "bol_title": "Bosch PUE611BB5E - Inductie kookplaat -60cm - 4 pits",
       "url": "https://www.bol.com/nl/nl/p/bosch-inductie-kookplaat-pue611bb5e-inbouw-1-fase-voor-een-normaal-stopcontact/9300000106490827/",
       "image": "https://media.s-bol.com/3J73EpEgJnW4/n5N2DXY/550x484.jpg",
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph": {
         "2026-10-14": 265.92,
         "2026-10-15": 265.92,
@@ -270,7 +273,8 @@
         "2026-11-12": 265.92,
         "2026-11-13": 265.92,
         "2026-11-14": 265.92,
-        "2026-11-16": 265.92
+        "2026-11-16": 265.92,
+        "2026-11-17": 265.92
       },
       "low_price": 265.92,
       "ph_ean": "4242005285082"
@@ -306,7 +310,7 @@
       "bol_title": "inductie kookplaat 60cm 4 branders 7400w zwart - samsung - nz64b5045gk",
       "url": "https://www.bol.com/nl/nl/p/samsung-nz64b5045gk-zwart-ingebouwd-60-cm-inductiekookplaat-zones-4-zone/9300000125224425/",
       "image": "https://media.s-bol.com/nWA01574NqBD/qY1Rq0R/550x324.jpg",
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph": {
         "2026-10-15": 449.0,
         "2026-10-16": 449.0,
@@ -338,7 +342,8 @@
         "2026-11-12": 449.0,
         "2026-11-13": 449.0,
         "2026-11-14": 449.0,
-        "2026-11-16": 449.0
+        "2026-11-16": 449.0,
+        "2026-11-17": 449.0
       },
       "low_price": 449.0,
       "ph_ean": "8806094104714"
@@ -346,7 +351,7 @@
     {
       "brand": "Bosch",
       "name": "Serie 8 PIV975DC1E",
-      "price": 769.0,
+      "price": 749.0,
       "score": 8.9,
       "label": null,
       "reviews": "5,0/5 op bol",
@@ -375,7 +380,7 @@
       "bol_title": "Bosch PIV975DC1E - Serie 8 - Inbouw Inductiekookplaat - Extra breed bedieningspaneel - PerfectFry voor perfecte resultaat - Tot 35% meer vermogen met Power Boost",
       "url": "https://www.bol.com/nl/nl/p/bosch-piv975dc1e-serie-8-inbouw-inductiekookplaat/9200000051058966/",
       "image": "https://media.s-bol.com/gKJXm1ozlNqr/98mkl5P/550x328.jpg",
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph": {
         "2026-10-15": 745.0,
         "2026-10-16": 745.0,
@@ -407,11 +412,12 @@
         "2026-11-12": 769.0,
         "2026-11-13": 769.0,
         "2026-11-14": 769.0,
-        "2026-11-16": 769.0
+        "2026-11-16": 769.0,
+        "2026-11-17": 749.0
       },
       "low_price": 745.0,
-      "prev_price": 799.0,
-      "prev_date": "2026-11-06",
+      "prev_price": 769.0,
+      "prev_date": "2026-11-16",
       "ph_ean": "4242002838854"
     },
     {
@@ -446,7 +452,7 @@
       "bol_title": "Siemens EX877NX68E - Inductiekookplaat - Zwart - 80 cm - 4 kookzone(s) - Met inbouw afzuigkap",
       "url": "https://www.bol.com/nl/nl/p/siemens-ex877nx68e-zwart-ingebouwd-80-cm-inductiekookplaat-zones-glaskeramiek-4-zone/9300000147708944/",
       "image": "https://media.s-bol.com/BG2Z5pw6ZnRJ/W6pMP9g/550x354.jpg",
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph": {
         "2026-10-15": 2099.0,
         "2026-10-16": 2099.0,
@@ -478,7 +484,8 @@
         "2026-11-12": 2099.0,
         "2026-11-13": 2099.0,
         "2026-11-14": 2099.0,
-        "2026-11-16": 2099.0
+        "2026-11-16": 2099.0,
+        "2026-11-17": 2099.0
       },
       "low_price": 2099.0,
       "ph_ean": "4242003921463"
@@ -514,7 +521,7 @@
       "bol_title": "AEG IKB64301FB - Hob2Hood - Inductie kookplaat",
       "url": "https://www.bol.com/nl/nl/p/aeg-ikb-64301-fb-kookplaat-inductie/9200000091416947/",
       "image": "https://media.s-bol.com/N6rvD2mN08XL/68zROAO/550x482.jpg",
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph": {
         "2026-10-14": 529.0,
         "2026-10-15": 529.0,
@@ -547,7 +554,8 @@
         "2026-11-12": 529.0,
         "2026-11-13": 529.0,
         "2026-11-14": 529.0,
-        "2026-11-16": 529.0
+        "2026-11-16": 529.0,
+        "2026-11-17": 529.0
       },
       "low_price": 529.0,
       "ph_ean": "7332543592326"
@@ -555,7 +563,7 @@
     {
       "brand": "Inventum",
       "name": "IKI6035",
-      "price": 229.0,
+      "price": 246.0,
       "score": 7.9,
       "label": null,
       "reviews": "800+ reviews",
@@ -583,7 +591,7 @@
       "bol_title": "Inventum IKI6035 inbouw inductiekookplaat 60 cm - 1- of 2-fase - 4 kookzones - Bridgefunctie - Boost - Timer - Kinderslot - Facetrand voorzijde - Elektrische kookplaat 4 pits - Zwart",
       "url": "https://www.bol.com/nl/nl/p/inventum-iki6035-inbouw-inductie-kookplaat-zwart/9200000132979552/",
       "image": "https://media.s-bol.com/q172yEvMq2k3/O7pVYEr/550x482.jpg",
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph": {
         "2026-10-14": 263.0,
         "2026-10-15": 229.0,
@@ -616,11 +624,12 @@
         "2026-11-12": 246.0,
         "2026-11-13": 246.0,
         "2026-11-14": 229.0,
-        "2026-11-16": 229.0
+        "2026-11-16": 229.0,
+        "2026-11-17": 246.0
       },
       "low_price": 229.0,
-      "prev_price": 246.0,
-      "prev_date": "2026-11-13",
+      "prev_price": 229.0,
+      "prev_date": "2026-11-16",
       "ph_ean": "8712876171792"
     },
     {
@@ -655,7 +664,7 @@
       "bol_title": "Bosch PIE61RBB5E - Serie 4 - Inbouw Inductiekookplaat - Sneller koken met PowerBoost",
       "url": "https://www.bol.com/nl/nl/p/bosch-pie61rbb5e-inductiekookplaat/9300000075240316/",
       "image": "https://media.s-bol.com/xLk3L17KEM2r/Og8O6jp/550x484.jpg",
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph": {
         "2026-10-15": 399.0,
         "2026-10-16": 399.0,
@@ -687,7 +696,8 @@
         "2026-11-12": 450.0,
         "2026-11-13": 409.0,
         "2026-11-14": 409.0,
-        "2026-11-16": 409.0
+        "2026-11-16": 409.0,
+        "2026-11-17": 409.0
       },
       "low_price": 385.0,
       "prev_price": 450.0,

@@ -24,7 +24,7 @@
     {
       "brand": "LEGO",
       "name": "Creator 3in1 Klassiek Reuzenrad 31389",
-      "price": 65.0,
+      "price": 62.63,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 5,0 van 5",
@@ -65,12 +65,13 @@
         "2026-11-12": 65.0,
         "2026-11-13": 65.0,
         "2026-11-14": 65.0,
-        "2026-11-16": 65.0
+        "2026-11-16": 65.0,
+        "2026-11-17": 62.63
       },
       "low_price": 55.09,
-      "synced": "2026-11-16",
-      "prev_price": 55.09,
-      "prev_date": "2026-11-08",
+      "synced": "2026-11-17",
+      "prev_price": 65.0,
+      "prev_date": "2026-11-16",
       "ph_ean": "5702018054826"
     },
     {
@@ -117,10 +118,11 @@
         "2026-11-12": 44.99,
         "2026-11-13": 44.99,
         "2026-11-14": 44.99,
-        "2026-11-16": 41.62
+        "2026-11-16": 41.62,
+        "2026-11-17": 41.62
       },
       "low_price": 41.62,
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph_ean": "4005556275977",
       "prev_price": 44.99,
       "prev_date": "2026-11-14"
@@ -128,7 +130,7 @@
     {
       "brand": "Nintendo",
       "name": "Switch 2 spelcomputer zwart",
-      "price": 519.95,
+      "price": 477.0,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
@@ -153,7 +155,7 @@
       "ideal": "Gezinnen die een groot gezamenlijk kerstcadeau willen geven.",
       "text": "De Nintendo Switch 2 is het grote kerstcadeau van dit jaar voor gezinnen. Hij werkt als handheld met een scherm van 7,9 inch, maar in het dock speel je op de tv. Met de twee magnetische Joy-Con-controllers kunnen twee kinderen direct samen spelen. Er zit 256 GB opslag in, ruim genoeg voor een flink aantal spellen. Ook bijna alle spellen van de eerste Switch werken erop, handig als je kind die al heeft.\n\nReken wel op meer dan de prijs van de console. In deze versie zit geen spel, dus tel 70 tot 80 euro op voor bijvoorbeeld Mario Kart World. Er zijn ook bundels met een spel erbij, die zijn vaak iets voordeliger. Kopers op bol geven de console gemiddeld een 4,7 van 5. Met ouderlijk toezicht via de gratis app stel je speeltijd en leeftijdsgrenzen in. Omdat het een flinke uitgave is, leggen veel families samen in met opa en oma. Dan heb je een cadeau waar het hele gezin in de kerstvakantie plezier van heeft.",
       "ean": "0045496321444",
-      "bol_title": "Nintendo Switch 2 - Zwart",
+      "bol_title": "Nintendo Switch 2 (2025) - Zwart",
       "url": "https://www.bol.com/nl/nl/p/nintendo-switch-2-zwart/9300000223645302/",
       "image": "https://media.s-bol.com/orjyXmVMMZ6X/jRjMmk4/550x567.jpg",
       "ph": {
@@ -169,12 +171,13 @@
         "2026-11-12": 477.0,
         "2026-11-13": 477.0,
         "2026-11-14": 477.0,
-        "2026-11-16": 519.95
+        "2026-11-16": 519.95,
+        "2026-11-17": 477.0
       },
       "low_price": 448.9,
-      "synced": "2026-11-16",
-      "prev_price": 477.0,
-      "prev_date": "2026-11-14",
+      "synced": "2026-11-17",
+      "prev_price": 519.95,
+      "prev_date": "2026-11-16",
       "ph_ean": "0045496321444"
     },
     {
@@ -221,10 +224,11 @@
         "2026-11-12": 81.89,
         "2026-11-13": 81.89,
         "2026-11-14": 81.89,
-        "2026-11-16": 81.89
+        "2026-11-16": 81.89,
+        "2026-11-17": 81.89
       },
       "low_price": 81.89,
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph_ean": "4547410489095"
     },
     {
@@ -271,10 +275,11 @@
         "2026-11-12": 56.1,
         "2026-11-13": 56.1,
         "2026-11-14": 56.0,
-        "2026-11-16": 56.0
+        "2026-11-16": 56.0,
+        "2026-11-17": 56.0
       },
       "low_price": 47.99,
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "prev_price": 56.1,
       "prev_date": "2026-11-13",
       "ph_ean": "5702017583822"
@@ -282,7 +287,7 @@
     {
       "brand": "LEGO",
       "name": "Friends Boomhut voor de vrienden 42652",
-      "price": 52.9,
+      "price": 50.11,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -323,18 +328,19 @@
         "2026-11-12": 52.9,
         "2026-11-13": 52.9,
         "2026-11-14": 52.9,
-        "2026-11-16": 52.9
+        "2026-11-16": 52.9,
+        "2026-11-17": 50.11
       },
       "low_price": 44.99,
-      "synced": "2026-11-16",
-      "prev_price": 52.49,
-      "prev_date": "2026-11-09",
+      "synced": "2026-11-17",
+      "prev_price": 52.9,
+      "prev_date": "2026-11-16",
       "ph_ean": "5702017815206"
     },
     {
       "brand": "LEGO",
       "name": "Harry Potter Het Monsterlijke Monsterboek 76449",
-      "price": 44.99,
+      "price": 47.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -375,12 +381,13 @@
         "2026-11-12": 44.99,
         "2026-11-13": 48.99,
         "2026-11-14": 44.99,
-        "2026-11-16": 44.99
+        "2026-11-16": 44.99,
+        "2026-11-17": 47.99
       },
       "low_price": 38.99,
-      "synced": "2026-11-16",
-      "prev_price": 48.99,
-      "prev_date": "2026-11-13",
+      "synced": "2026-11-17",
+      "prev_price": 44.99,
+      "prev_date": "2026-11-16",
       "ph_ean": "5702017812878"
     },
     {
@@ -427,10 +434,11 @@
         "2026-11-12": 42.99,
         "2026-11-13": 42.99,
         "2026-11-14": 42.99,
-        "2026-11-16": 42.99
+        "2026-11-16": 42.99,
+        "2026-11-17": 42.99
       },
       "low_price": 42.99,
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph_ean": "3417761938232"
     },
     {
@@ -470,10 +478,11 @@
         "2026-11-12": 49.99,
         "2026-11-13": 27.99,
         "2026-11-14": 49.99,
-        "2026-11-16": 31.09
+        "2026-11-16": 31.09,
+        "2026-11-17": 31.09
       },
       "low_price": 27.99,
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph_ean": "0194735334971",
       "prev_price": 49.99,
       "prev_date": "2026-11-14"
@@ -522,10 +531,11 @@
         "2026-11-12": 44.99,
         "2026-11-13": 44.99,
         "2026-11-14": 44.99,
-        "2026-11-16": 35.99
+        "2026-11-16": 35.99,
+        "2026-11-17": 35.99
       },
       "low_price": 35.99,
-      "synced": "2026-11-16",
+      "synced": "2026-11-17",
       "ph_ean": "4008789717429",
       "prev_price": 44.99,
       "prev_date": "2026-11-14"
