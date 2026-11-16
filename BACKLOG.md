@@ -39,7 +39,7 @@ Formaat: slug | cat | query | titel | emoji
 
 # groeimotor 14 nov 2026 (AI1): smalle gidsen in de families die ChatGPT aanhaalt. In 28 dagen kwamen 667 van 988 bezoekers via ChatGPT en die landen op smalle gidsen (tv onder 500: 29, tv 55 inch: 22, tv onder 300: 21), niet op brede (televisie 3, laptop 0, smartphone 0).
 # Deze regels tellen als 'dure Black Friday-gids' (gemiddelde prijs vanaf 250 euro) en gaan vóór het blok D1 hieronder. Het tempo blijft zoals afgesproken (hoogstens 1 nieuwe gids per dag, N32).
-[ ] beste-tv-onder-750-euro | elektronica | tv onder 750 euro | De 10 beste tv's onder 750 euro van 2026 | 📺
+[x] beste-tv-onder-750-euro | elektronica | tv onder 750 euro | De 10 beste tv's onder 750 euro van 2026 | 📺
 [ ] beste-tv-onder-400-euro | elektronica | tv onder 400 euro | De 10 beste tv's onder 400 euro van 2026 | 📺
 [ ] beste-tv-48-inch | elektronica | 48 inch tv | De 10 beste 48 inch tv's van 2026 | 📺
 [ ] beste-tv-onder-1500-euro | elektronica | tv onder 1500 euro | De 10 beste tv's onder 1500 euro van 2026 | 📺

@@ -25,7 +25,7 @@
     {
       "brand": "Little Dutch",
       "name": "Keuken Mint",
-      "price": 91.0,
+      "price": 119.95,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,6 van 5",
@@ -54,16 +54,19 @@
       "url": "https://www.bol.com/nl/nl/p/little-dutch-houten-speelkeuken-mint-fsc/9300000229142568/",
       "image": "https://media.s-bol.com/M3DlWXMky3y3/XLmkpv8/550x836.jpg",
       "ph": {
-        "2026-11-14": 91.0
+        "2026-11-14": 91.0,
+        "2026-11-16": 119.95
       },
       "low_price": 91.0,
       "ph_ean": "8713291225008",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 91.0,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Klein Toys",
       "name": "Miele Familiekeuken",
-      "price": 99.99,
+      "price": 92.39,
       "score": 9.0,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -93,11 +96,14 @@
       "url": "https://www.bol.com/nl/nl/p/theo-klein-miele-familiekeuken-83-5x30x101-cm-incl-licht-en-geluideffecten-hout/9300000231097802/",
       "image": "https://media.s-bol.com/m4M8OG4jyk69/Q17L2B0/550x683.jpg",
       "ph": {
-        "2026-11-14": 99.99
+        "2026-11-14": 99.99,
+        "2026-11-16": 92.39
       },
-      "low_price": 99.99,
+      "low_price": 92.39,
       "ph_ean": "4009847071880",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 99.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "KidKraft",
@@ -132,11 +138,12 @@
       "url": "https://www.bol.com/nl/nl/p/modern-country-kitchen/1004004012678052/",
       "image": "https://media.s-bol.com/Rk1BYlVQkp9L/oVBGPON/550x550.jpg",
       "ph": {
-        "2026-11-14": 84.99
+        "2026-11-14": 84.99,
+        "2026-11-16": 84.99
       },
       "low_price": 84.99,
       "ph_ean": "0706943532225",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     },
     {
       "brand": "Woet",
@@ -170,11 +177,12 @@
       "url": "https://www.bol.com/nl/nl/p/woet-houten-speelgoed-kinderkeuken-beige-speelkeukentje-met-pannen-servies-groente-en-snijplank-houten-speelkeuken-werkbladhoogte-55-cm-rollenspel-vanaf-3-jaar/9300000249097342/",
       "image": "https://media.s-bol.com/q3Vm5KZ0x747/P13WPN1/550x741.jpg",
       "ph": {
-        "2026-11-14": 74.95
+        "2026-11-14": 74.95,
+        "2026-11-16": 74.95
       },
       "low_price": 74.95,
       "ph_ean": "8718446110802",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     },
     {
       "brand": "KidKraft",
@@ -209,16 +217,17 @@
       "url": "https://www.bol.com/nl/nl/p/kidkraft-vintage-houten-kinderkeuken-rood/1004004012342123/",
       "image": "https://media.s-bol.com/42YLY3BGjqGn/L2NQXv/550x612.jpg",
       "ph": {
-        "2026-11-14": 119.94
+        "2026-11-14": 119.94,
+        "2026-11-16": 119.94
       },
       "low_price": 119.94,
       "ph_ean": "0706943531730",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     },
     {
       "brand": "Smoby",
       "name": "Tefal Evolutieve Keuken",
-      "price": 93.17,
+      "price": 73.59,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -248,11 +257,14 @@
       "url": "https://www.bol.com/nl/nl/p/smoby-tefal-evolutieve-keuken-speelgoedkeuken/9300000162221385/",
       "image": "https://media.s-bol.com/DAowBmoNyz5A/wOwB5m/550x624.jpg",
       "ph": {
-        "2026-11-14": 93.17
+        "2026-11-14": 93.17,
+        "2026-11-16": 73.59
       },
-      "low_price": 93.17,
+      "low_price": 73.59,
       "ph_ean": "3032163123088",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 93.17,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Joya Creative",
@@ -287,11 +299,12 @@
       "url": "https://www.bol.com/nl/nl/p/joya-creative-houten-speelkeuken/9300000338515995/",
       "image": "https://media.s-bol.com/qz4OJJvDYy23/r2NOZ2w/550x593.jpg",
       "ph": {
-        "2026-11-14": 99.95
+        "2026-11-14": 99.95,
+        "2026-11-16": 99.95
       },
       "low_price": 99.95,
       "ph_ean": "8715427206936",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     },
     {
       "brand": "KidKraft",
@@ -326,16 +339,17 @@
       "url": "https://www.bol.com/nl/nl/p/kidkraft-artisan-island-peuter-speelkeuken/9200000112756827/",
       "image": "https://media.s-bol.com/3P8K83O50pA/550x823.jpg",
       "ph": {
-        "2026-11-14": 69.5
+        "2026-11-14": 69.5,
+        "2026-11-16": 69.5
       },
       "low_price": 69.5,
       "ph_ean": "0706943534410",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     },
     {
       "brand": "Janod",
       "name": "Keuken Loft",
-      "price": 51.16,
+      "price": 48.6,
       "score": 8.0,
       "label": null,
       "reviews": "bol-score 3,8 van 5",
@@ -365,11 +379,14 @@
       "url": "https://www.bol.com/nl/nl/p/janod-keuken-loft/9300000145527957/",
       "image": "https://media.s-bol.com/RV3KWXlEYJwY/VO0B8xB/550x250.jpg",
       "ph": {
-        "2026-11-14": 51.16
+        "2026-11-14": 51.16,
+        "2026-11-16": 48.6
       },
-      "low_price": 51.16,
+      "low_price": 48.6,
       "ph_ean": "3700217365561",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 51.16,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Smoby",
@@ -402,13 +419,14 @@
       "ean": "3032163108245",
       "bol_title": "Smoby Bon appetit keuken - Speelkeuken",
       "url": "https://www.bol.com/nl/nl/p/smoby-bon-appetit-keuken-speelkeuken/9300000033711745/",
-      "image": "https://media.s-bol.com/N8PpkO6x7qmv/550x705.jpg",
+      "image": "https://media.s-bol.com/m0q3xjQQ3YPO/5A39j8/460x840.jpg",
       "ph": {
-        "2026-11-14": 44.98
+        "2026-11-14": 44.98,
+        "2026-11-16": 44.98
       },
       "low_price": 44.98,
       "ph_ean": "3032163108245",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     }
   ],
   "guide": [

@@ -24,7 +24,7 @@
     {
       "brand": "Nintendo",
       "name": "Switch 2 Zwart",
-      "price": 477.0,
+      "price": 519.95,
       "score": 9.4,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -56,16 +56,19 @@
       "ph": {
         "2026-11-12": 477.0,
         "2026-11-13": 477.0,
-        "2026-11-14": 477.0
+        "2026-11-14": 477.0,
+        "2026-11-16": 519.95
       },
       "low_price": 477.0,
       "ph_ean": "0045496321444",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 477.0,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Nintendo",
       "name": "Switch 2 Mario Kart World Bundel",
-      "price": 549.0,
+      "price": 535.0,
       "score": 9.3,
       "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
@@ -97,13 +100,14 @@
       "ph": {
         "2026-11-12": 549.99,
         "2026-11-13": 549.99,
-        "2026-11-14": 549.0
+        "2026-11-14": 549.0,
+        "2026-11-16": 535.0
       },
-      "low_price": 549.0,
+      "low_price": 535.0,
       "ph_ean": "0045496337469",
-      "synced": "2026-11-14",
-      "prev_price": 549.99,
-      "prev_date": "2026-11-13"
+      "synced": "2026-11-16",
+      "prev_price": 549.0,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Nintendo",
@@ -140,11 +144,12 @@
       "ph": {
         "2026-11-12": 229.0,
         "2026-11-13": 229.0,
-        "2026-11-14": 229.0
+        "2026-11-14": 229.0,
+        "2026-11-16": 229.0
       },
       "low_price": 229.0,
       "ph_ean": "0045496337506",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     },
     {
       "brand": "Nintendo",
@@ -181,11 +186,12 @@
       "ph": {
         "2026-11-12": 348.0,
         "2026-11-13": 348.0,
-        "2026-11-14": 348.0
+        "2026-11-14": 348.0,
+        "2026-11-16": 348.0
       },
       "low_price": 348.0,
       "ph_ean": "0045496453435",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     },
     {
       "brand": "Nintendo",
@@ -221,16 +227,17 @@
       "ph": {
         "2026-11-12": 529.0,
         "2026-11-13": 529.0,
-        "2026-11-14": 529.0
+        "2026-11-14": 529.0,
+        "2026-11-16": 529.0
       },
       "low_price": 529.0,
       "ph_ean": "0045496337254",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     },
     {
       "brand": "Nintendo",
       "name": "Switch 2 Nintendo Switch Sports Resort Bundel",
-      "price": 509.0,
+      "price": 488.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -256,17 +263,20 @@
       "ideal": "Gezinnen die samen voor de tv willen bewegen, ook met mensen die nooit gamen.",
       "text": "Deze bundel bevat de Nintendo Switch 2, een download van Nintendo Switch Sports Resort en een code voor 3 maanden Nintendo Switch Online. De game verscheen op 22 oktober en speelt zich af op Wuhu-eiland, een sportresort met 12 sporten. Je bestuurt ze door met de controller te bewegen: boksen, boogschieten, bowlen en zelfs duimworstelen. Tussendoor verken je het eiland met een sportvliegtuig of waterscooter.\n\nOp bol kost de bundel 509 euro, afgeprijsd van 549,95 euro. Dat is 32 euro meer dan de losse console, waarmee dit de voordeligste manier is om een Switch 2 met game en online-lidmaatschap in huis te halen. De game is een downloadcode en geen fysieke gamecard. Omdat de titel pas kort uit is, zijn er nog weinig ervaringen van kopers met de game zelf. De 4,7 op bol zegt vooral iets over de console. Bewegingsgames zijn vooral leuk met meerdere mensen. Speel je meestal in je eentje op de bank, dan haal je meer uit de Pokémon-bundel.",
       "ean": "0045496337544",
-      "bol_title": "Nintendo Switch 2 - Nintendo Switch Sports Resort bundel - 3 Maanden Nintendo Switch Online",
+      "bol_title": "Nintendo Switch 2 - Nintendo Switch Sports Resort Voordeelbundel - 3 Maanden Nintendo Switch Online",
       "url": "https://www.bol.com/nl/nl/p/nintendo-switch-2-switch-sports-resort-bundel/9300000377600111/",
       "image": "https://media.s-bol.com/YgklV7ypV4qM/jZyPMRR/550x567.jpg",
       "ph": {
         "2026-11-12": 509.0,
         "2026-11-13": 509.0,
-        "2026-11-14": 509.0
+        "2026-11-14": 509.0,
+        "2026-11-16": 488.0
       },
-      "low_price": 509.0,
+      "low_price": 488.0,
       "ph_ean": "0045496337544",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 509.0,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Nintendo",
@@ -296,24 +306,25 @@
       "ideal": "Spelers die van rustig bouwen en verzamelen houden, zoals bij Animal Crossing.",
       "text": "De Pokopia Voordeelbundel bestaat uit de Nintendo Switch 2 en een download van Pokémon Pokopia. Dat is geen klassieke Pokémon-game met gevechten, maar een levenssimulatie waarin je in je eigen tempo stadjes bouwt en een paradijs voor Pokémon inricht. Denk aan het soort game dat je een halfuur per dag oppakt. De console is de gewone Switch 2 met een scherm van 7,9 inch, 256 GB opslag en een dock voor de tv.\n\nMet 509,99 euro betaal je 33 euro meer dan voor de losse console. Voor een volledige Switch 2-game is dat een scherpe meerprijs. Bol meldt dat het om een downloadcode gaat en niet om een fysieke gamecard. Een lidmaatschap van Nintendo Switch Online zit er niet bij. Kopers geven de bundel een 4,7. Kies deze bundel alleen als het genre je aanspreekt. Wie liever racet of sport, is voor dezelfde prijs beter af met de Sports Resort-bundel of legt 40 euro bij voor Mario Kart World. Voor fans van rustige bouwgames is dit juist de goedkoopste instap.",
       "ean": "0045496337445",
-      "bol_title": "Nintendo Switch 2 - Pokémon Pokopia Voordeelbundel",
+      "bol_title": "Nintendo Switch 2 - Pokémon Pokopia bundel",
       "url": "https://www.bol.com/nl/nl/p/nintendo-switch-2-pokemon-pokopia-bundel/9300000320006502/",
       "image": "https://media.s-bol.com/mJ2DlnowkK8n/mORl2YE/550x561.jpg",
       "ph": {
         "2026-11-12": 509.99,
         "2026-11-13": 570.99,
-        "2026-11-14": 570.99
+        "2026-11-14": 570.99,
+        "2026-11-16": 570.99
       },
       "low_price": 509.99,
       "ph_ean": "0045496337445",
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "prev_price": 509.99,
       "prev_date": "2026-11-12"
     },
     {
       "brand": "Nintendo",
       "name": "Switch OLED Blauw/Rood",
-      "price": 331.0,
+      "price": 348.0,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -344,11 +355,14 @@
       "ph": {
         "2026-11-12": 331.0,
         "2026-11-13": 331.0,
-        "2026-11-14": 331.0
+        "2026-11-14": 331.0,
+        "2026-11-16": 348.0
       },
       "low_price": 331.0,
       "ph_ean": "0045496453442",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 331.0,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Nintendo",
@@ -385,16 +399,17 @@
       "ph": {
         "2026-11-12": 195.99,
         "2026-11-13": 195.99,
-        "2026-11-14": 195.99
+        "2026-11-14": 195.99,
+        "2026-11-16": 195.99
       },
       "low_price": 195.99,
       "ph_ean": "0045496453176",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     },
     {
       "brand": "Nintendo",
       "name": "Switch Lite Hyrule Edition",
-      "price": 254.0,
+      "price": 252.0,
       "score": 7.9,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -425,13 +440,14 @@
       "ph": {
         "2026-11-12": 279.95,
         "2026-11-13": 279.95,
-        "2026-11-14": 254.0
+        "2026-11-14": 254.0,
+        "2026-11-16": 252.0
       },
-      "low_price": 254.0,
+      "low_price": 252.0,
       "ph_ean": "0045496453893",
-      "synced": "2026-11-14",
-      "prev_price": 279.95,
-      "prev_date": "2026-11-13"
+      "synced": "2026-11-16",
+      "prev_price": 254.0,
+      "prev_date": "2026-11-14"
     }
   ],
   "guide": [

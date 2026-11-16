@@ -72,10 +72,11 @@
         "2026-11-11": 42.53,
         "2026-11-12": 42.53,
         "2026-11-13": 42.53,
-        "2026-11-14": 42.53
+        "2026-11-14": 42.53,
+        "2026-11-16": 42.53
       },
       "low_price": 34.1,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "reviews": "reviews op bol",
       "prev_price": 34.1,
       "prev_date": "2026-11-06",
@@ -84,7 +85,7 @@
     {
       "brand": "LEGO",
       "name": "Botanicals Roze boeket 10342",
-      "price": 46.79,
+      "price": 47.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "oneliner": "Bloemenboeket van LEGO dat nooit verwelkt.",
@@ -132,13 +133,14 @@
         "2026-11-11": 43.99,
         "2026-11-12": 47.99,
         "2026-11-13": 47.99,
-        "2026-11-14": 46.79
+        "2026-11-14": 46.79,
+        "2026-11-16": 47.99
       },
       "low_price": 41.99,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "reviews": "reviews op bol",
-      "prev_price": 47.99,
-      "prev_date": "2026-11-13",
+      "prev_price": 46.79,
+      "prev_date": "2026-11-14",
       "ph_ean": "5702017812540"
     },
     {
@@ -192,10 +194,11 @@
         "2026-11-11": 33.99,
         "2026-11-12": 33.99,
         "2026-11-13": 33.99,
-        "2026-11-14": 33.99
+        "2026-11-14": 33.99,
+        "2026-11-16": 33.99
       },
       "low_price": 33.99,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "reviews": "reviews op bol",
       "prev_price": 34.99,
       "prev_date": "2026-11-05",
@@ -252,17 +255,18 @@
         "2026-11-11": 32.99,
         "2026-11-12": 32.99,
         "2026-11-13": 32.99,
-        "2026-11-14": 32.99
+        "2026-11-14": 32.99,
+        "2026-11-16": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "reviews": "reviews op bol",
       "ph_ean": "4008496759323"
     },
     {
       "brand": "Oral-B",
       "name": "iO2 elektrische tandenborstel Calm Pink",
-      "price": 37.0,
+      "price": 39.9,
       "score": 8.7,
       "label": "Beste premium",
       "oneliner": "Instapmodel van de iO-reeks met druksensor.",
@@ -310,19 +314,20 @@
         "2026-11-11": 34.99,
         "2026-11-12": 37.0,
         "2026-11-13": 37.0,
-        "2026-11-14": 37.0
+        "2026-11-14": 37.0,
+        "2026-11-16": 39.9
       },
       "low_price": 34.99,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "reviews": "reviews op bol",
-      "prev_price": 34.99,
-      "prev_date": "2026-11-11",
+      "prev_price": 37.0,
+      "prev_date": "2026-11-14",
       "ph_ean": "8700216612265"
     },
     {
       "brand": "Yankee Candle",
       "name": "Autumn Daydream Large Jar",
-      "price": 34.9,
+      "price": 32.28,
       "score": 8.4,
       "label": null,
       "oneliner": "Grote geurkaars met tot 90 branduren.",
@@ -370,19 +375,20 @@
         "2026-11-11": 34.9,
         "2026-11-12": 34.9,
         "2026-11-13": 34.9,
-        "2026-11-14": 34.9
+        "2026-11-14": 34.9,
+        "2026-11-16": 32.28
       },
       "low_price": 31.41,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "reviews": "reviews op bol",
-      "prev_price": 34.72,
-      "prev_date": "2026-11-10",
+      "prev_price": 34.9,
+      "prev_date": "2026-11-14",
       "ph_ean": "5038581154046"
     },
     {
       "brand": "Moleskine",
       "name": "Classic notitieboek Large hardcover",
-      "price": 17.49,
+      "price": 16.5,
       "score": 8.2,
       "label": null,
       "oneliner": "Klassiek notitieboek met elastiek en leeslint.",
@@ -430,13 +436,14 @@
         "2026-11-11": 16.89,
         "2026-11-12": 17.49,
         "2026-11-13": 17.49,
-        "2026-11-14": 17.49
+        "2026-11-14": 17.49,
+        "2026-11-16": 16.5
       },
       "low_price": 15.89,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "reviews": "reviews op bol",
-      "prev_price": 16.89,
-      "prev_date": "2026-11-11",
+      "prev_price": 17.49,
+      "prev_date": "2026-11-14",
       "ph_ean": "9788883701122"
     },
     {
@@ -472,10 +479,11 @@
         "2026-11-11": 41.43,
         "2026-11-12": 41.43,
         "2026-11-13": 41.43,
-        "2026-11-14": 41.43
+        "2026-11-14": 41.43,
+        "2026-11-16": 41.43
       },
       "low_price": 41.43,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "1210001965416"
     },
     {
@@ -511,10 +519,11 @@
         "2026-11-11": 34.29,
         "2026-11-12": 34.95,
         "2026-11-13": 34.95,
-        "2026-11-14": 34.95
+        "2026-11-14": 34.95,
+        "2026-11-16": 34.95
       },
       "low_price": 34.29,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "4210201423508",
       "prev_price": 34.29,
       "prev_date": "2026-11-11"
@@ -522,7 +531,7 @@
     {
       "brand": "Philips",
       "name": "OneBlade Intimate QP1924/24",
-      "price": 32.15,
+      "price": 31.35,
       "score": 8.1,
       "label": null,
       "oneliner": "Trimmer en scheerapparaat voor de bikinilijn.",
@@ -554,13 +563,14 @@
         "2026-11-11": 32.37,
         "2026-11-12": 32.15,
         "2026-11-13": 32.15,
-        "2026-11-14": 32.15
+        "2026-11-14": 32.15,
+        "2026-11-16": 31.35
       },
-      "low_price": 32.15,
-      "synced": "2026-11-14",
+      "low_price": 31.35,
+      "synced": "2026-11-16",
       "ph_ean": "8720689037846",
-      "prev_price": 32.37,
-      "prev_date": "2026-11-11"
+      "prev_price": 32.15,
+      "prev_date": "2026-11-14"
     }
   ],
   "guide": [

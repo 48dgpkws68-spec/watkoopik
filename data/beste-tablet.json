@@ -57,10 +57,11 @@
         "2026-11-11": 689.0,
         "2026-11-12": 714.0,
         "2026-11-13": 714.0,
-        "2026-11-14": 679.0
+        "2026-11-14": 679.0,
+        "2026-11-16": 679.0
       },
       "low_price": 679.0,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "prev_price": 714.0,
       "prev_date": "2026-11-13",
       "ph_ean": "0195949997570"
@@ -68,7 +69,7 @@
     {
       "brand": "Apple",
       "name": "iPad 11 (2025) Wi-Fi 128 GB",
-      "price": 455.0,
+      "price": 450.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "2.600+ reviews",
@@ -97,7 +98,7 @@
       "bol_title": "Apple iPad (2025) - 11 inch - Wi-Fi - 128GB - Silver - 11e generatie",
       "url": "https://www.bol.com/nl/nl/p/apple-ipad-a16-11-inch-wi-fi-128gb-silver/9300000226757635/",
       "image": "https://media.s-bol.com/D3r3wXrO3R9n/oZ62Bnj/550x624.jpg",
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph": {
         "2026-10-15": 455.0,
         "2026-10-16": 458.0,
@@ -128,11 +129,12 @@
         "2026-11-11": 460.99,
         "2026-11-12": 439.0,
         "2026-11-13": 439.99,
-        "2026-11-14": 455.0
+        "2026-11-14": 455.0,
+        "2026-11-16": 450.0
       },
       "low_price": 429.0,
-      "prev_price": 439.99,
-      "prev_date": "2026-11-13",
+      "prev_price": 455.0,
+      "prev_date": "2026-11-14",
       "ph_ean": "0195950086317"
     },
     {
@@ -172,10 +174,11 @@
         "2026-11-11": 1499.99,
         "2026-11-12": 1499.99,
         "2026-11-13": 1499.99,
-        "2026-11-14": 1499.99
+        "2026-11-14": 1499.99,
+        "2026-11-16": 1499.99
       },
       "low_price": 1499.99,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "0195950398168"
     },
     {
@@ -210,7 +213,7 @@
       "bol_title": "Samsung Galaxy Tab S11 - WiFi - 256GB - Grijs",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-tab-s11-wifi-256gb-grijs/9300000239737611/",
       "image": "https://media.s-bol.com/zM5M4DWPWK35/Eq6Rrk4/550x386.jpg",
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph": {
         "2026-10-15": 849.0,
         "2026-10-16": 849.0,
@@ -241,7 +244,8 @@
         "2026-11-11": 945.0,
         "2026-11-12": 945.0,
         "2026-11-13": 945.0,
-        "2026-11-14": 945.0
+        "2026-11-14": 945.0,
+        "2026-11-16": 945.0
       },
       "low_price": 819.0,
       "prev_price": 899.0,
@@ -280,7 +284,7 @@
       "bol_title": "Xiaomi Pad 8 - 8 GB RAM - 128 GB - Groen",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-pad-8-8gb-128gb-groen/9300000261524170/",
       "image": "https://media.s-bol.com/g3oNg4RE533Y/6Ro5kxV/550x545.jpg",
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph": {
         "2026-10-15": 339.0,
         "2026-10-16": 339.0,
@@ -311,7 +315,8 @@
         "2026-11-11": 404.99,
         "2026-11-12": 404.99,
         "2026-11-13": 404.99,
-        "2026-11-14": 404.99
+        "2026-11-14": 404.99,
+        "2026-11-16": 404.99
       },
       "low_price": 339.0,
       "prev_price": 403.43,
@@ -350,7 +355,7 @@
       "bol_title": "Samsung Galaxy Tab S10 FE - WiFi - 128GB - Gray + 1 jaar extra garantie",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-tab-s10-fe-wifi-128gb-gray-1-jaar-extra-garantie/9300000231520123/",
       "image": "https://media.s-bol.com/g4V97xrgZJWl/0g9DAVV/550x382.jpg",
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph": {
         "2026-10-15": 479.0,
         "2026-10-16": 479.0,
@@ -381,7 +386,8 @@
         "2026-11-11": 449.0,
         "2026-11-12": 449.0,
         "2026-11-13": 449.0,
-        "2026-11-14": 449.0
+        "2026-11-14": 449.0,
+        "2026-11-16": 449.0
       },
       "low_price": 449.0,
       "prev_price": 539.0,
@@ -391,7 +397,7 @@
     {
       "brand": "OnePlus",
       "name": "Pad Go 2 Wi-Fi 8 GB 128 GB",
-      "price": 400.21,
+      "price": 395.84,
       "score": 8.4,
       "label": null,
       "reviews": "150+ reviews",
@@ -440,18 +446,19 @@
         "2026-11-11": 314.43,
         "2026-11-12": 389.95,
         "2026-11-13": 379.95,
-        "2026-11-14": 400.21
+        "2026-11-14": 400.21,
+        "2026-11-16": 395.84
       },
       "low_price": 314.43,
-      "synced": "2026-11-14",
-      "prev_price": 379.95,
-      "prev_date": "2026-11-13",
+      "synced": "2026-11-16",
+      "prev_price": 400.21,
+      "prev_date": "2026-11-14",
       "ph_ean": "6921815630753"
     },
     {
       "brand": "Xiaomi",
       "name": "Redmi Pad 2 4 GB 128 GB",
-      "price": 176.99,
+      "price": 179.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 3,8 van 5",
@@ -483,12 +490,13 @@
       "image": "https://media.s-bol.com/OB2xZz8Jo7yr/RgLvOLK/550x647.jpg",
       "ph": {
         "2026-11-13": 199.0,
-        "2026-11-14": 176.99
+        "2026-11-14": 176.99,
+        "2026-11-16": 179.99
       },
       "low_price": 176.99,
-      "synced": "2026-11-14",
-      "prev_price": 199.0,
-      "prev_date": "2026-11-13"
+      "synced": "2026-11-16",
+      "prev_price": 176.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Samsung",
@@ -522,7 +530,7 @@
       "bol_title": "Samsung Galaxy Tab A11 Plus - 128GB - Gray",
       "url": "https://www.bol.com/nl/nl/p/tablet-samsung-tab-a11-plus-sm-x230n-11-6-gb-ram-128-gb-grijs/9300000245926252/",
       "image": "https://media.s-bol.com/W3v3z95N64QJ/nRNZ8kR/550x389.jpg",
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph": {
         "2026-10-15": 203.99,
         "2026-10-16": 227.99,
@@ -553,7 +561,8 @@
         "2026-11-11": 219.99,
         "2026-11-12": 219.99,
         "2026-11-13": 221.99,
-        "2026-11-14": 221.99
+        "2026-11-14": 221.99,
+        "2026-11-16": 221.99
       },
       "low_price": 199.99,
       "prev_price": 219.99,
@@ -592,7 +601,7 @@
       "bol_title": "Lenovo Tab M11 – 4GB RAM – 128GB opslag – Inclusief Tab Pen – WiFi – Grijs",
       "url": "https://www.bol.com/nl/nl/p/lenovo-tab-m11-pen-4gb-128gb-grijs/9300000169036211/",
       "image": "https://media.s-bol.com/Z927W2JnlmvR/5y1J25R/550x349.jpg",
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph": {
         "2026-10-15": 189.0,
         "2026-10-16": 189.0,
@@ -623,7 +632,8 @@
         "2026-11-11": 189.0,
         "2026-11-12": 189.0,
         "2026-11-13": 189.0,
-        "2026-11-14": 179.01
+        "2026-11-14": 179.01,
+        "2026-11-16": 179.01
       },
       "low_price": 179.01,
       "ph_ean": "0197532685215",

@@ -25,7 +25,7 @@
     {
       "brand": "Mattel Games",
       "name": "UNO Kaartspel",
-      "price": 7.79,
+      "price": 8.59,
       "score": 9.2,
       "label": "Beste keuze",
       "ean": "0746775036744",
@@ -57,13 +57,14 @@
         "2026-11-11": 8.99,
         "2026-11-12": 7.79,
         "2026-11-13": 7.79,
-        "2026-11-14": 7.79
+        "2026-11-14": 7.79,
+        "2026-11-16": 8.59
       },
       "low_price": 7.79,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "0746775036744",
-      "prev_price": 8.99,
-      "prev_date": "2026-11-11"
+      "prev_price": 7.79,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Play-Doh",
@@ -95,7 +96,7 @@
       "text": "Het 4-pack Levendige kleuren van Play-Doh is het voordeligste schoencadeautje in deze lijst. Voor 5 euro krijg je vier potjes boetseerklei van elk 85 gram in felle kleuren. De potjes zijn klein genoeg om los in een schoen te zetten. Heb je meerdere kinderen, dan verdeel je de set eenvoudig over twee schoenen of over twee avonden. Zo kost een cadeautje je omgerekend maar iets meer dan een euro per potje.\n\nHasbro geeft een leeftijdsadvies vanaf 2 jaar, waarmee dit ook voor de jongste in huis geschikt is. Kinderen rollen, drukken en snijden de klei met spullen die al in de keukenla liggen, zoals een deegroller en uitsteekvormpjes. Kopers op bol geven gemiddeld een 4,6 en gebruiken de potjes vaak als aanvulling op een bestaande Play-Doh-speelset. Let op dat de deksels er na het spelen weer op gaan, want aan de lucht wordt de klei hard. Daarom noemen we dit de beste prijs-kwaliteit voor de schoen.",
       "bol_title": "Play-Doh 4-pack Levendige kleuren - Potjes 85 gram - Boetseerklei",
       "url": "https://www.bol.com/nl/nl/p/refill-play-doh-4-pack-448-gram/9300000225966668/",
-      "image": "https://media.s-bol.com/gjBX7mLKD6Kr/GZRLzL0/550x165.jpg",
+      "image": "https://media.s-bol.com/9Kg7Y29n2mV3/gLYYQAD/550x168.jpg",
       "ph": {
         "2026-11-11": 5.0,
         "2026-11-12": 5.49,
@@ -103,7 +104,7 @@
         "2026-11-14": 5.0
       },
       "low_price": 5.0,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "5010994947033",
       "prev_price": 5.49,
       "prev_date": "2026-11-12"
@@ -143,16 +144,17 @@
         "2026-11-11": 12.99,
         "2026-11-12": 12.99,
         "2026-11-13": 12.99,
-        "2026-11-14": 12.99
+        "2026-11-14": 12.99,
+        "2026-11-16": 12.99
       },
       "low_price": 12.99,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "8717249193050"
     },
     {
       "brand": "LEGO",
       "name": "City Politie Waterscooter 30693 (polybag)",
-      "price": 9.69,
+      "price": 9.9,
       "score": 8.8,
       "label": null,
       "ean": "5702017819358",
@@ -184,13 +186,14 @@
         "2026-11-11": 8.99,
         "2026-11-12": 8.99,
         "2026-11-13": 9.69,
-        "2026-11-14": 9.69
+        "2026-11-14": 9.69,
+        "2026-11-16": 9.9
       },
       "low_price": 8.99,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "5702017819358",
-      "prev_price": 8.99,
-      "prev_date": "2026-11-12"
+      "prev_price": 9.69,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Hot Wheels",
@@ -227,10 +230,11 @@
         "2026-11-11": 7.09,
         "2026-11-12": 7.09,
         "2026-11-13": 7.99,
-        "2026-11-14": 7.99
+        "2026-11-14": 7.99,
+        "2026-11-16": 7.99
       },
       "low_price": 7.09,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "0027084425611",
       "prev_price": 7.09,
       "prev_date": "2026-11-12"
@@ -270,10 +274,11 @@
         "2026-11-11": 6.99,
         "2026-11-12": 6.99,
         "2026-11-13": 6.99,
-        "2026-11-14": 6.99
+        "2026-11-14": 6.99,
+        "2026-11-16": 6.99
       },
       "low_price": 6.99,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "8714274721159"
     },
     {
@@ -311,10 +316,11 @@
         "2026-11-11": 8.99,
         "2026-11-12": 8.99,
         "2026-11-13": 8.99,
-        "2026-11-14": 8.99
+        "2026-11-14": 8.99,
+        "2026-11-16": 8.99
       },
       "low_price": 8.99,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "4059433753669"
     },
     {
@@ -352,10 +358,11 @@
         "2026-11-11": 5.99,
         "2026-11-12": 5.99,
         "2026-11-13": 5.99,
-        "2026-11-14": 5.99
+        "2026-11-14": 5.99,
+        "2026-11-16": 5.99
       },
       "low_price": 5.99,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "6416739545912"
     },
     {
@@ -393,16 +400,17 @@
         "2026-11-11": 7.39,
         "2026-11-12": 7.39,
         "2026-11-13": 7.39,
-        "2026-11-14": 7.39
+        "2026-11-14": 7.39,
+        "2026-11-16": 7.39
       },
       "low_price": 7.39,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "4001504565275"
     },
     {
       "brand": "Little Dutch",
       "name": "Little Farm Stempelset 12 stuks met inkt",
-      "price": 6.99,
+      "price": 5.59,
       "score": 8.2,
       "label": null,
       "ean": "8714274126008",
@@ -434,11 +442,14 @@
         "2026-11-11": 6.99,
         "2026-11-12": 6.99,
         "2026-11-13": 6.99,
-        "2026-11-14": 6.99
+        "2026-11-14": 6.99,
+        "2026-11-16": 5.59
       },
-      "low_price": 6.99,
-      "synced": "2026-11-14",
-      "ph_ean": "8714274126008"
+      "low_price": 5.59,
+      "synced": "2026-11-16",
+      "ph_ean": "8714274126008",
+      "prev_price": 6.99,
+      "prev_date": "2026-11-14"
     }
   ],
   "guide": [

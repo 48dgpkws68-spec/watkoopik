@@ -63,10 +63,11 @@
         "2026-11-11": 90.7,
         "2026-11-12": 90.7,
         "2026-11-13": 92.75,
-        "2026-11-14": 89.5
+        "2026-11-14": 89.5,
+        "2026-11-16": 89.5
       },
       "low_price": 89.5,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "prev_price": 92.75,
       "prev_date": "2026-11-13",
       "ph_ean": "8718532241526"
@@ -112,16 +113,17 @@
         "2026-11-11": 359.0,
         "2026-11-12": 359.0,
         "2026-11-13": 359.0,
-        "2026-11-14": 359.0
+        "2026-11-14": 359.0,
+        "2026-11-16": 359.0
       },
       "low_price": 359.0,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "8717591890164"
     },
     {
       "brand": "Triumph Tree",
       "name": "Tuscan 185 cm",
-      "price": 69.95,
+      "price": 59.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "60+ reviews",
@@ -158,18 +160,19 @@
         "2026-11-11": 69.95,
         "2026-11-12": 69.95,
         "2026-11-13": 69.95,
-        "2026-11-14": 69.95
+        "2026-11-14": 69.95,
+        "2026-11-16": 59.99
       },
-      "low_price": 69.95,
-      "synced": "2026-11-14",
-      "prev_price": 71.99,
-      "prev_date": "2026-11-09",
+      "low_price": 59.99,
+      "synced": "2026-11-16",
+      "prev_price": 69.95,
+      "prev_date": "2026-11-14",
       "ph_ean": "0756770414904"
     },
     {
       "brand": "Triumph Tree",
       "name": "Matterhorn smal 185 cm",
-      "price": 105.0,
+      "price": 99.99,
       "score": 8.9,
       "label": null,
       "reviews": "10+ reviews",
@@ -205,18 +208,19 @@
         "2026-11-11": 105.0,
         "2026-11-12": 105.0,
         "2026-11-13": 105.0,
-        "2026-11-14": 105.0
+        "2026-11-14": 105.0,
+        "2026-11-16": 99.99
       },
-      "low_price": 105.0,
-      "synced": "2026-11-14",
-      "prev_price": 119.0,
-      "prev_date": "2026-11-09",
+      "low_price": 99.99,
+      "synced": "2026-11-16",
+      "prev_price": 105.0,
+      "prev_date": "2026-11-14",
       "ph_ean": "8720967792108"
     },
     {
       "brand": "Everlands",
       "name": "Grandis Fir 180 cm met 400 LED",
-      "price": 119.0,
+      "price": 121.0,
       "score": 8.7,
       "label": null,
       "reviews": "100+ reviews",
@@ -253,18 +257,19 @@
         "2026-11-11": 121.0,
         "2026-11-12": 121.0,
         "2026-11-13": 121.0,
-        "2026-11-14": 119.0
+        "2026-11-14": 119.0,
+        "2026-11-16": 121.0
       },
       "low_price": 119.0,
-      "synced": "2026-11-14",
-      "prev_price": 121.0,
-      "prev_date": "2026-11-13",
+      "synced": "2026-11-16",
+      "prev_price": 119.0,
+      "prev_date": "2026-11-14",
       "ph_ean": "8720093398496"
     },
     {
       "brand": "Royal Christmas",
       "name": "Washington 180 cm",
-      "price": 84.55,
+      "price": 89.0,
       "score": 8.6,
       "label": null,
       "reviews": "200+ reviews",
@@ -289,7 +294,7 @@
       "ideal": "Gezinnen die veel versiering ophangen en een stevige, voordelige boom willen.",
       "text": "De Washington is het instapmodel van Royal Christmas en op bol een van de meest beoordeelde kunstbomen. Hij is 180 cm hoog met een doorsnede van 127 cm en heeft 944 takken van PVC. Kenmerkend zijn de wat spitsere takken die doorlopen tot aan de voet. Daardoor zie je geen kale stam onderin en staat de boom laag en vol. De takken zijn stevig, dus ook zware glazen kerstballen of een volle slinger houdt hij zonder doorbuigen.\n\nDe boom bestaat uit drie delen met een scharnierconstructie, zodat je hem snel opzet. Na de feestdagen gaat hij terug in de meegeleverde opbergdoos, wat in de praktijk veel scheelt. Kopers geven hem gemiddeld 4,4 sterren. Wat je mist is de natuurlijke uitstraling van PE-naalden. Van dichtbij zie je dat het kunststof is. Wil je een echter ogende boom voor bijna hetzelfde geld, kijk dan naar de Tuscan.",
       "ean": "8717931854375",
-      "bol_title": "Royal Christmas Kunstkerstboom Washington 180 cm",
+      "bol_title": "Royal Christmas - Kunstkerstboom Washington 180 cm",
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-kunstkerstboom-washington-180-cm/9200000053063007/",
       "image": "https://media.s-bol.com/Mv9Nj2yJJQRG/pg7WBA2/550x816.jpg",
       "ph": {
@@ -301,18 +306,19 @@
         "2026-11-11": 84.55,
         "2026-11-12": 84.55,
         "2026-11-13": 84.55,
-        "2026-11-14": 84.55
+        "2026-11-14": 84.55,
+        "2026-11-16": 89.0
       },
       "low_price": 84.55,
-      "synced": "2026-11-14",
-      "prev_price": 89.0,
-      "prev_date": "2026-11-10",
+      "synced": "2026-11-16",
+      "prev_price": 84.55,
+      "prev_date": "2026-11-14",
       "ph_ean": "8717931854375"
     },
     {
       "brand": "Black Box Trees",
       "name": "Charlton smal 215 cm",
-      "price": 40.55,
+      "price": 33.19,
       "score": 8.5,
       "label": null,
       "reviews": "70+ reviews",
@@ -349,18 +355,19 @@
         "2026-11-11": 39.85,
         "2026-11-12": 39.85,
         "2026-11-13": 39.85,
-        "2026-11-14": 40.55
+        "2026-11-14": 40.55,
+        "2026-11-16": 33.19
       },
-      "low_price": 39.85,
-      "synced": "2026-11-14",
-      "prev_price": 39.85,
-      "prev_date": "2026-11-13",
+      "low_price": 33.19,
+      "synced": "2026-11-16",
+      "prev_price": 40.55,
+      "prev_date": "2026-11-14",
       "ph_ean": "8720967840229"
     },
     {
       "brand": "Triumph Tree",
       "name": "Bristlecone 215 cm met 240 LED",
-      "price": 356.95,
+      "price": 284.0,
       "score": 8.4,
       "label": null,
       "reviews": "30+ reviews",
@@ -396,12 +403,13 @@
         "2026-11-11": 344.0,
         "2026-11-12": 356.95,
         "2026-11-13": 356.95,
-        "2026-11-14": 356.95
+        "2026-11-14": 356.95,
+        "2026-11-16": 284.0
       },
-      "low_price": 296.95,
-      "synced": "2026-11-14",
-      "prev_price": 344.0,
-      "prev_date": "2026-11-11",
+      "low_price": 284.0,
+      "synced": "2026-11-16",
+      "prev_price": 356.95,
+      "prev_date": "2026-11-14",
       "ph_ean": "8712799346147"
     },
     {
@@ -443,16 +451,17 @@
         "2026-11-11": 50.99,
         "2026-11-12": 50.99,
         "2026-11-13": 50.99,
-        "2026-11-14": 50.99
+        "2026-11-14": 50.99,
+        "2026-11-16": 50.99
       },
       "low_price": 50.99,
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "ph_ean": "8718533661408"
     },
     {
       "brand": "Triumph Tree",
       "name": "Bristlecone Pilar smal 185 cm",
-      "price": 144.95,
+      "price": 106.39,
       "score": 8.0,
       "label": null,
       "reviews": "20+ reviews",
@@ -478,7 +487,7 @@
       "text": "De Bristlecone Pilar is de smalle versie van de Bristlecone hierboven, zonder verlichting. Hij is 185 cm hoog met een doorsnede van 79 cm, dus hij past in een appartement of naast een raam waar een brede boom in de weg zou staan. Je krijgt dezelfde donkergroene borstelnaalden met bruine takaccenten, wat hem minder glad en meer als een echte den laat ogen dan de meeste smalle bomen.\n\nDe takken haak je met hun gebogen metalen uiteinden op kleurcode aan de stam. Dat is overzichtelijk, maar kost meer tijd dan een scharnierboom. Kopers geven hem gemiddeld 4 sterren, de laagste score in deze lijst. Daarbij noemen ze de natuurlijke look als pluspunt. Voor bijna 145 euro is hij aan de dure kant. De Matterhorn is goedkoper en voller, de Charlton kost maar een derde. Kies deze vooral als juist de donkere naalden je aanspreken.",
       "ean": "8718861346312",
       "bol_title": "Triumph Tree Bristlecone Smalle Kunstkerstboom - Kerstboom H185 x 79 cm - Kunstboom met Natuurlijke Uitstraling - Kerstversiering voor Kleine Ruimtes - Incl. Standaard - Groen",
-      "url": "https://www.bol.com/nl/nl/p/triumph-tree-bristlecone-smalle-kunstkersboom-h185-x-o79-cm-groen/9300000190378329/",
+      "url": "https://www.bol.com/nl/nl/p/triumph-tree-bristlecone-pilar-kerstboom-groen-tips-450-h185xd79cm/9300000187225406/",
       "image": "https://media.s-bol.com/J5gQXz3qLw1y/OMRLoXr/350x840.jpg",
       "ph": {
         "2026-11-06": 144.95,
@@ -489,11 +498,14 @@
         "2026-11-11": 144.95,
         "2026-11-12": 144.95,
         "2026-11-13": 144.95,
-        "2026-11-14": 144.95
+        "2026-11-14": 144.95,
+        "2026-11-16": 106.39
       },
-      "low_price": 144.95,
-      "synced": "2026-11-14",
-      "ph_ean": "8718861346312"
+      "low_price": 106.39,
+      "synced": "2026-11-16",
+      "ph_ean": "8718861346312",
+      "prev_price": 144.95,
+      "prev_date": "2026-11-14"
     }
   ],
   "guide": [

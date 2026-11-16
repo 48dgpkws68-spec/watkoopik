@@ -25,7 +25,7 @@
     {
       "brand": "999 Games",
       "name": "Catan Basisspel",
-      "price": 34.99,
+      "price": 28.49,
       "score": 9.4,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -49,22 +49,25 @@
       "ideal": "Gezinnen en vriendengroepen die één bordspel zoeken dat jaren op tafel blijft komen.",
       "text": "Catan is het spel waarmee veel Nederlanders voor het eerst verder keken dan Monopoly en Ganzenbord. Je bouwt dorpen, steden en straten op een eiland van 19 losse zeshoeken, die je elke keer anders neerlegt. Elke beurt leveren de dobbelstenen grondstoffen op: hout, steen, wol, graan en erts. Wie als eerste 10 punten heeft, wint. Een potje duurt ongeveer 75 minuten met 3 of 4 spelers.\n\nDe kracht zit in het ruilen. Ook als je niet aan de beurt bent, onderhandel je mee over schapen en stenen, waardoor niemand zit te wachten. Kopers op bol geven het spel gemiddeld een 4,7 van 5 en noemen vooral dat het na tientallen potjes nog niet verveelt. 999 Games adviseert het vanaf 10 jaar, al spelen veel kinderen van 8 al mee met wat hulp. Het minpunt: met z'n tweeën kan het niet. Voor 5 of 6 spelers heb je een losse uitbreiding nodig. Voor ongeveer 35 euro is dit de veiligste keuze als cadeau.",
       "ean": "8717249196235",
-      "bol_title": "999 Games - Catan - Basisspel - Bordspel - Het populaire handelsspel - 15+ spellenprijzen wereldwijd - Gezelschapsspel - Familiespel",
+      "bol_title": "999 Games - CATAN: Basisspel - Bordspel - Het populaire handelsspel - 15+ spellenprijzen wereldwijd - Gezelschapsspel - Familiespel",
       "url": "https://www.bol.com/nl/nl/p/999games-catan-basisspel/1004004012362052/",
       "image": "https://media.s-bol.com/3n2QVp1KOz2n/mZmwlAR/550x582.jpg",
       "ph": {
         "2026-11-12": 34.99,
         "2026-11-13": 34.99,
-        "2026-11-14": 34.99
+        "2026-11-14": 34.99,
+        "2026-11-16": 28.49
       },
-      "low_price": 34.99,
+      "low_price": 28.49,
       "ph_ean": "8717249196235",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 34.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Days of Wonder",
       "name": "Ticket to Ride Europe",
-      "price": 33.36,
+      "price": 29.49,
       "score": 9.3,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -94,18 +97,19 @@
       "ph": {
         "2026-11-12": 34.99,
         "2026-11-13": 34.99,
-        "2026-11-14": 33.36
+        "2026-11-14": 33.36,
+        "2026-11-16": 29.49
       },
-      "low_price": 33.36,
+      "low_price": 29.49,
       "ph_ean": "0824968717523",
-      "synced": "2026-11-14",
-      "prev_price": 34.99,
-      "prev_date": "2026-11-13"
+      "synced": "2026-11-16",
+      "prev_price": 33.36,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "999 Games",
       "name": "Carcassonne",
-      "price": 28.99,
+      "price": 23.99,
       "score": 9.2,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,8 van 5",
@@ -135,16 +139,19 @@
       "ph": {
         "2026-11-12": 28.99,
         "2026-11-13": 28.99,
-        "2026-11-14": 28.99
+        "2026-11-14": 28.99,
+        "2026-11-16": 23.99
       },
-      "low_price": 28.99,
+      "low_price": 23.99,
       "ph_ean": "8719214420659",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 28.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Next Move Games",
       "name": "Azul",
-      "price": 35.99,
+      "price": 30.99,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -174,16 +181,19 @@
       "ph": {
         "2026-11-12": 35.99,
         "2026-11-13": 35.99,
-        "2026-11-14": 35.99
+        "2026-11-14": 35.99,
+        "2026-11-16": 30.99
       },
-      "low_price": 35.99,
+      "low_price": 30.99,
       "ph_ean": "5413407050038",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 35.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "999 Games",
       "name": "Wingspan",
-      "price": 42.99,
+      "price": 33.99,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
@@ -214,16 +224,19 @@
       "ph": {
         "2026-11-12": 42.99,
         "2026-11-13": 42.99,
-        "2026-11-14": 42.99
+        "2026-11-14": 42.99,
+        "2026-11-16": 33.99
       },
-      "low_price": 42.99,
+      "low_price": 33.99,
       "ph_ean": "8719214426132",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 42.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Goliath",
       "name": "Rummikub The Original Classic",
-      "price": 27.89,
+      "price": 25.99,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -253,18 +266,19 @@
       "ph": {
         "2026-11-12": 27.99,
         "2026-11-13": 27.99,
-        "2026-11-14": 27.89
+        "2026-11-14": 27.89,
+        "2026-11-16": 25.99
       },
-      "low_price": 27.89,
+      "low_price": 25.99,
       "ph_ean": "8711808004009",
-      "synced": "2026-11-14",
-      "prev_price": 27.99,
-      "prev_date": "2026-11-13"
+      "synced": "2026-11-16",
+      "prev_price": 27.89,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Z-Man Games",
       "name": "Pandemic",
-      "price": 36.67,
+      "price": 31.99,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -294,16 +308,19 @@
       "ph": {
         "2026-11-12": 36.67,
         "2026-11-13": 36.67,
-        "2026-11-14": 36.67
+        "2026-11-14": 36.67,
+        "2026-11-16": 31.99
       },
-      "low_price": 36.67,
+      "low_price": 31.99,
       "ph_ean": "8719817218202",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 36.67,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Space Cowboys",
       "name": "Splendor",
-      "price": 30.99,
+      "price": 23.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -333,13 +350,14 @@
       "ph": {
         "2026-11-12": 29.99,
         "2026-11-13": 30.99,
-        "2026-11-14": 30.99
+        "2026-11-14": 30.99,
+        "2026-11-16": 23.99
       },
-      "low_price": 29.99,
+      "low_price": 23.99,
       "ph_ean": "3558380022251",
-      "synced": "2026-11-14",
-      "prev_price": 29.99,
-      "prev_date": "2026-11-12"
+      "synced": "2026-11-16",
+      "prev_price": 30.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "999 Games",
@@ -368,22 +386,23 @@
       "ideal": "Gezinnen met kinderen van 6 tot 9 jaar die verder willen dan memory en ganzenbord.",
       "text": "Catan Junior brengt het bekende handelsspel terug tot iets wat een kind van 6 begrijpt. In plaats van dorpen en steden bouw je piratenschuilplaatsen en schepen op een vast speelbord met eilanden. De dobbelsteen levert grondstoffen op zoals hout, geiten, sabels, goud en melasse. Daarmee bouw je verder of koop je een papegaaikaart met een extraatje. Wie als eerste zeven schuilplaatsen heeft staan, wint. Een potje duurt ongeveer 30 minuten.\n\nRuilen gaat simpeler dan bij het grote Catan. Kinderen wisselen vooral met de markt op het bord, zodat onderhandelen geen ruzie oplevert. Er staat nergens tekst op het materiaal, dus lezen is niet nodig. 999 Games adviseert het vanaf 6 jaar en het is te spelen met 2 tot 4 spelers. Op bol krijgt het gemiddeld 4,7 van 5. Ouders schrijven dat kinderen het snel zelfstandig spelen en daarna makkelijk overstappen naar het basisspel. Reken er wel op dat het rond 9 jaar te simpel wordt. Voor 25 euro is het een mooi cadeau voor de feestdagen.",
       "ean": "8717249199625",
-      "bol_title": "999 Games - Catan - Junior - Bordspel - Vanaf 6 jaar - Kinderspel - Gezelschapsspel - Educatief spel",
+      "bol_title": "999 Games - CATAN: Junior - Bordspel - Vanaf 6 jaar - Bouw als piraat forten en schepen - De kinderversie van CATAN - Kinderspel - Educatief spel",
       "url": "https://www.bol.com/nl/nl/p/catan-junior-bordspel/1004004006487390/",
       "image": "https://media.s-bol.com/39LRL6QRkpBn/L90vXkg/550x582.jpg",
       "ph": {
         "2026-11-12": 24.99,
         "2026-11-13": 24.99,
-        "2026-11-14": 24.99
+        "2026-11-14": 24.99,
+        "2026-11-16": 24.99
       },
       "low_price": 24.99,
       "ph_ean": "8717249199625",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     },
     {
       "brand": "Jumbo",
       "name": "Stratego Original",
-      "price": 25.99,
+      "price": 29.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -414,13 +433,14 @@
       "ph": {
         "2026-11-12": 29.99,
         "2026-11-13": 29.99,
-        "2026-11-14": 25.99
+        "2026-11-14": 25.99,
+        "2026-11-16": 29.99
       },
       "low_price": 25.99,
       "ph_ean": "8710126199572",
-      "synced": "2026-11-14",
-      "prev_price": 29.99,
-      "prev_date": "2026-11-13"
+      "synced": "2026-11-16",
+      "prev_price": 25.99,
+      "prev_date": "2026-11-14"
     }
   ],
   "guide": [

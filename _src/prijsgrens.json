@@ -1,4 +1,53 @@
 {
- "datum": "2026-11-14",
- "overtreders": []
+ "datum": "2026-11-16",
+ "overtreders": [
+  {
+   "slug": "beste-cadeau-voor-hem-onder-100-euro",
+   "grens": 100,
+   "plek": 2,
+   "product": "Braun Series 5 52-N1200S scheerapparaat",
+   "prijs": 101.55,
+   "ean": "8700216645522",
+   "laagste_30d": 77.99,
+   "dagen_boven": 1,
+   "dagen_gemeten": 17,
+   "reden": "boven grens"
+  },
+  {
+   "slug": "beste-cadeau-voor-hem-onder-25-euro",
+   "grens": 25,
+   "plek": 6,
+   "product": "White Goblin Games Codenames partyspel",
+   "prijs": 28.99,
+   "ean": "8718026301798",
+   "laagste_30d": 23.99,
+   "dagen_boven": 1,
+   "dagen_gemeten": 12,
+   "reden": "boven grens"
+  },
+  {
+   "slug": "beste-kerstcadeau-onder-25-euro",
+   "grens": 25,
+   "plek": 9,
+   "product": "Rituals The Ritual of Karma Mini geschenkset",
+   "prijs": 36.98,
+   "ean": "8719134210972",
+   "laagste_30d": 16.89,
+   "dagen_boven": 1,
+   "dagen_gemeten": 9,
+   "reden": "boven grens"
+  },
+  {
+   "slug": "beste-sinterklaascadeau-onder-25-euro",
+   "grens": 25,
+   "plek": 4,
+   "product": "Rituals The Ritual of Karma Mini geschenkset",
+   "prijs": 36.98,
+   "ean": "8719134210972",
+   "laagste_30d": 16.0,
+   "dagen_boven": 1,
+   "dagen_gemeten": 21,
+   "reden": "boven grens"
+  }
+ ]
 }

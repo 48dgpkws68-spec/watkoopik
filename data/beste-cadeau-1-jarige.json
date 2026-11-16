@@ -24,7 +24,7 @@
     {
       "brand": "VTech",
       "name": "Baby Walker 2-in-1 loopwagen",
-      "price": 39.99,
+      "price": 34.99,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -53,11 +53,14 @@
       "image": "https://media.s-bol.com/rxMBgB9KA3q2/L9OxQAj/550x569.jpg",
       "ph": {
         "2026-11-13": 39.99,
-        "2026-11-14": 39.99
+        "2026-11-14": 39.99,
+        "2026-11-16": 34.99
       },
-      "low_price": 39.99,
+      "low_price": 34.99,
       "ph_ean": "3417765056239",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 39.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Fisher-Price",
@@ -91,16 +94,17 @@
       "image": "https://media.s-bol.com/rDvGE9x1x2zk/xGj00kn/550x554.jpg",
       "ph": {
         "2026-11-13": 12.01,
-        "2026-11-14": 12.01
+        "2026-11-14": 12.01,
+        "2026-11-16": 12.01
       },
       "low_price": 12.01,
       "ph_ean": "0887961902242",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16"
     },
     {
       "brand": "BIG",
       "name": "Bobby Car Classic rood",
-      "price": 53.09,
+      "price": 38.75,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -129,18 +133,19 @@
       "image": "https://media.s-bol.com/g3B73vvAYAm6/6RXD5pR/550x417.jpg",
       "ph": {
         "2026-11-13": 54.99,
-        "2026-11-14": 53.09
+        "2026-11-14": 53.09,
+        "2026-11-16": 38.75
       },
-      "low_price": 53.09,
+      "low_price": 38.75,
       "ph_ean": "4004943013031",
-      "synced": "2026-11-14",
-      "prev_price": 54.99,
-      "prev_date": "2026-11-13"
+      "synced": "2026-11-16",
+      "prev_price": 53.09,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "BERG",
       "name": "GO2 loopauto en trapauto blauw",
-      "price": 69.0,
+      "price": 59.0,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,9 van 5",
@@ -169,11 +174,14 @@
       "image": "https://media.s-bol.com/YXPMjPXNo6X0/M1ryn5/550x378.jpg",
       "ph": {
         "2026-11-13": 69.0,
-        "2026-11-14": 69.0
+        "2026-11-14": 69.0,
+        "2026-11-16": 59.0
       },
-      "low_price": 69.0,
+      "low_price": 59.0,
       "ph_ean": "8715839065404",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 69.0,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Hape",
@@ -207,18 +215,19 @@
       "image": "https://media.s-bol.com/95j1L7kNEwx3/pQ7mZoX/550x550.jpg",
       "ph": {
         "2026-11-13": 25.39,
-        "2026-11-14": 25.29
+        "2026-11-14": 25.29,
+        "2026-11-16": 25.29
       },
       "low_price": 25.29,
       "ph_ean": "6943478002340",
-      "synced": "2026-11-14",
+      "synced": "2026-11-16",
       "prev_price": 25.39,
       "prev_date": "2026-11-13"
     },
     {
       "brand": "VTech",
       "name": "Baby Activiteiten Kubus",
-      "price": 39.99,
+      "price": 30.49,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -247,16 +256,19 @@
       "image": "https://media.s-bol.com/w2LD1lRxNkxw/J67Rlwl/550x540.jpg",
       "ph": {
         "2026-11-13": 39.99,
-        "2026-11-14": 39.99
+        "2026-11-14": 39.99,
+        "2026-11-16": 30.49
       },
-      "low_price": 39.99,
+      "low_price": 30.49,
       "ph_ean": "3417761834237",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 39.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "SmartMax",
       "name": "My First Safari Animals",
-      "price": 18.99,
+      "price": 18.74,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -285,16 +297,19 @@
       "image": "https://media.s-bol.com/NKloY0OVqMx6/omm9YK/550x587.jpg",
       "ph": {
         "2026-11-13": 18.99,
-        "2026-11-14": 18.99
+        "2026-11-14": 18.99,
+        "2026-11-16": 18.74
       },
-      "low_price": 18.99,
+      "low_price": 18.74,
       "ph_ean": "5414301249856",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 18.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "VTech",
       "name": "Toet Toet Auto's Garage",
-      "price": 44.99,
+      "price": 41.99,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -323,16 +338,19 @@
       "image": "https://media.s-bol.com/mpJrZp510MKp/X6oLLxV/550x309.jpg",
       "ph": {
         "2026-11-13": 44.99,
-        "2026-11-14": 44.99
+        "2026-11-14": 44.99,
+        "2026-11-16": 41.99
       },
-      "low_price": 44.99,
+      "low_price": 41.99,
       "ph_ean": "3417765127625",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 44.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Fisher-Price",
       "name": "Leerplezier Meegroeispeelgoed Puppy",
-      "price": 19.99,
+      "price": 15.99,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -361,16 +379,19 @@
       "image": "https://media.s-bol.com/jpKN7K4gGlBY/jY5kpov/550x678.jpg",
       "ph": {
         "2026-11-13": 19.99,
-        "2026-11-14": 19.99
+        "2026-11-14": 19.99,
+        "2026-11-16": 15.99
       },
-      "low_price": 19.99,
+      "low_price": 15.99,
       "ph_ean": "0194735294039",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 19.99,
+      "prev_date": "2026-11-14"
     },
     {
       "brand": "Eichhorn",
       "name": "Houten huisje met insteekvormen",
-      "price": 20.59,
+      "price": 19.98,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -399,11 +420,14 @@
       "image": "https://media.s-bol.com/l49o04VGD4n7/58l9QJB/550x357.jpg",
       "ph": {
         "2026-11-13": 20.59,
-        "2026-11-14": 20.59
+        "2026-11-14": 20.59,
+        "2026-11-16": 19.98
       },
-      "low_price": 20.59,
+      "low_price": 19.98,
       "ph_ean": "4003046020984",
-      "synced": "2026-11-14"
+      "synced": "2026-11-16",
+      "prev_price": 20.59,
+      "prev_date": "2026-11-14"
     }
   ],
   "guide": [
