@@ -390,49 +390,42 @@
       "ph_ean": "5901292531515"
     },
     {
-      "brand": "Philips",
-      "name": "65MLED910",
-      "price": 799.0,
+      "brand": "Hisense",
+      "name": "65E8S",
+      "price": 679.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,1 van 5",
-      "oneliner": "Mini LED met driezijdig Ambilight voor extra stadionsfeer.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "65 inch Mini LED met 144 Hz en subwoofer voor onder 700 euro.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "Mini LED",
-        "Verversing": "120 Hz",
-        "HDMI 2.1": "Ja, met VRR",
-        "Smart-tv": "Titan OS"
+        "Paneel": "Hi-QLED Mini LED",
+        "Verversing": "144 Hz",
+        "HDMI 2.1": "Ja, met VRR en ALLM",
+        "Smart-tv": "VIDAA"
       },
       "pros": [
-        "Ambilight vergroot het beeld optisch en voelt rustiger bij lang kijken",
-        "Mini LED is helder genoeg voor overdag",
-        "120 Hz met VRR",
-        "Prima prijs voor 65 inch"
+        "Mini LED met meer dan honderd dimzones",
+        "Native 144 Hz-gamestand",
+        "Ingebouwde subwoofer afgestemd door Devialet",
+        "Dolby Vision IQ en HDR10+"
       ],
       "cons": [
-        "Bewegingsverwerking minder scherp dan Sony of LG",
-        "Titan OS mist sommige apps"
+        "VIDAA heeft minder apps dan Google TV",
+        "Geen anti-reflectiescherm"
       ],
-      "ideal": "Wie sport kijkt in de avond en de sfeer van Ambilight zoekt.",
-      "text": "De Philips 65MLED910 combineert een Mini LED-paneel met Ambilight aan drie kanten. Bij voetbal is dat meer dan een gimmick: de leds achter de tv kleuren groen mee met het veld, waardoor het scherm groter oogt en je ogen minder snel moe worden tijdens een lange avond Champions League. Mini LED geeft genoeg helderheid voor een woonkamer met normaal daglicht.\n\nHet paneel draait op 120 Hz en ondersteunt VRR, wat voldoende is voor EA FC op een PlayStation 5 of Xbox Series X. De bewegingsverwerking van Philips is degelijk, maar bij snelle camerabewegingen zie je iets meer onscherpte dan bij de duurdere modellen in deze lijst. Zet Perfect Natural Motion op een lage stand voor de beste balans. De kijkhoek is gemiddeld. Kopers op bol geven hem 4,1 van 5. Ze zijn positief over Ambilight en de prijs, maar wisselend over Titan OS.",
-      "ean": "8718863048276",
-      "bol_title": "Philips 65MLED910 - 65 inch - 4K QLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/philips-ambilight-65mled910-12-tv-165-1-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000235517372/",
-      "image": "https://media.s-bol.com/n4VM1wRElAYP/oYOnqlL/550x358.jpg",
+      "ideal": "Wie voetbal en games wil op een 65 inch Mini LED voor zo weinig mogelijk geld.",
+      "text": "De Hisense 65E8S is de goedkoopste Mini LED-tv in deze lijst. De verlichting is verdeeld over meer dan honderd dimzones en Hisense noemt een piekhelderheid van 600 nits. Bij een middagwedstrijd in een lichte kamer blijft het veld daardoor helder en bij een avondwedstrijd oogt het zwart van de tribunes dieper dan bij de E7S PRO op plek tien. Dolby Vision IQ past het beeld aan het licht in je kamer aan.\n\nVoor EA FC is er een native 144 Hz-gamestand met VRR, ALLM en AMD FreeSync Premium. Volgens bol is de input lag 4 milliseconden. Achterin zit een subwoofer die is afgestemd door Devialet, met Dolby Atmos, zodat stadiongeluid en commentaar voller klinken dan bij de meeste dunne tv's. Het menu is VIDAA. NPO Start, Netflix en Videoland staan erop, maar een kleinere sport-app ontbreekt soms. Een streamingstick lost dat op. Kopers op bol geven hem gemiddeld 4,7 sterren.",
+      "ean": "6942351434773",
+      "bol_title": "Hisense 65E8S Smart TV - 65 inch - 4K Hi-QLED MiniLED - 2026 - 600 nits - Native 144Hz Game Mode - Built-in Subwoofer - Hi-View AI Engine - Hi-QLED Colour - Dolby Vision Atmos",
+      "url": "https://www.bol.com/nl/nl/p/hisense-65e8s-smart-tv-65-inch-4k-hi-qled-miniled-2026-600-nits-native-144hz-game-mode-built-in-subwoofer-hi-view-ai-engine-hi-qled-colour-dolby-vision-atmos/9300000269685074/",
+      "image": "https://media.s-bol.com/E38q77j2ozWK/qQRgpAk/550x350.jpg",
       "ph": {
-        "2026-11-08": 799.0,
-        "2026-11-09": 799.0,
-        "2026-11-10": 799.0,
-        "2026-11-11": 799.0,
-        "2026-11-12": 799.0,
-        "2026-11-13": 799.0,
-        "2026-11-14": 799.0,
-        "2026-11-16": 799.0
+        "2026-11-16": 679.0
       },
-      "low_price": 799.0,
-      "synced": "2026-11-16",
-      "ph_ean": "8718863048276"
+      "low_price": 679.0,
+      "ph_ean": "6942351434773",
+      "synced": "2026-11-16"
     },
     {
       "brand": "Hisense",
@@ -529,12 +522,20 @@
     },
     {
       "q": "Heb ik een soundbar nodig voor sport?",
-      "a": "Voor stadiongeluid en duidelijk commentaar is een soundbar een flinke verbetering, zeker bij dunne tv's met kleine luidsprekers. De Hisense 65E7S PRO heeft een kleine ingebouwde subwoofer en klinkt beter dan gemiddeld. Bij de TCL 75T8D en de Philips 65MLED910 raden kopers een soundbar sterk aan."
+      "a": "Voor stadiongeluid en duidelijk commentaar is een soundbar een flinke verbetering, zeker bij dunne tv's met kleine luidsprekers. De Hisense 65E8S en 65E7S PRO hebben een kleine ingebouwde subwoofer en klinken beter dan gemiddeld. Bij de TCL 75T8D raden kopers een soundbar sterk aan."
     }
   ],
   "rel": [
     "beste-tv-55-inch",
     "beste-tv-65-inch",
     "beste-mini-led-tv"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-16",
+      "uit": "Philips 65MLED910",
+      "in": "Hisense 65E8S",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

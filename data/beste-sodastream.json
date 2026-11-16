@@ -488,15 +488,15 @@
       "ph_ean": "6430052009357"
     },
     {
-      "brand": "LunaVida",
-      "name": "Elara SodaMaker",
-      "price": 38.95,
+      "brand": "CREATE",
+      "name": "Soda Maker Studio",
+      "price": 44.95,
       "score": 8.1,
       "label": null,
-      "reviews": "100+ reviews",
-      "oneliner": "Eenvoudig budgettoestel dat werkt zonder stroom.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Kleurige handmatige sodamaker die ook sap van prik voorziet.",
       "specs": {
-        "Cilinder": "schroefcilinder 60 l",
+        "Cilinder": "schroefcilinder, apart",
         "Flessen": "kunststof 1 l",
         "Stroom nodig": "nee",
         "Bediening": "drukknop",
@@ -505,127 +505,75 @@
       "pros": [
         "Lage aanschafprijs",
         "Werkt zonder stroom",
-        "Geschikt voor gangbare schroefcilinders",
-        "Compact op het aanrecht"
+        "Ook geschikt voor sap en limonade",
+        "Licht en compact, 580 gram"
       ],
       "cons": [
-        "Alleen te gebruiken met LunaVida-flessen",
-        "Kunststof voelt minder luxe aan"
+        "CO2-cilinder zit er niet bij",
+        "Fles kan niet in de vaatwasser"
       ],
-      "ideal": "Wie goedkoop wil beginnen met zelf bruiswater maken.",
-      "text": "De LunaVida Elara is een eenvoudig bruiswatertoestel voor wie voordelig wil beginnen. Je schroeft een standaard CO2-cilinder van 60 liter in het toestel, plaatst een fles en drukt een paar keer op de knop. Hoe vaker je drukt, hoe meer prik er in het water komt. Stroom heb je niet nodig, dus je kunt hem overal op het aanrecht zetten.\n\nHet toestel is gemaakt van kunststof en voelt minder stevig aan dan een Aarke of Duo. Daar staat een veel lagere prijs tegenover. Let op dat je de Elara gebruikt met de flessen van LunaVida, die passen precies op de aansluiting. Kopers op bol geven hem gemiddeld 4,3 sterren en noemen vooral het gemak en de prijs. Een gangbare cilinder van 60 liter wisselen kan bij de meeste supermarkten. Wil je eerst ontdekken of zelf bruiswater maken bij je past, dan is dit een slimme instap.",
-      "ean": "8720299949034",
-      "bol_title": "LunaVida's Elara - SodaMaker - Bruiswatertoestel - Soda - Te Gebruiken met LunaVida-flessen - Zwart - Sodastream - Compatibel met Sodastream CO2 Cilinders",
-      "url": "https://www.bol.com/nl/nl/p/lunavida-s-nieuwe-sodamaker-bruiswatertoestel-zwart/9300000134731298/",
-      "image": "https://media.s-bol.com/q4Orppj6E4kp/Q1ArDAl/550x641.jpg",
-      "synced": "2026-11-16",
+      "ideal": "Wie voor weinig geld wil beginnen en ook graag sap of limonade bruisend maakt.",
+      "text": "De Soda Maker Studio van het Spaanse merk CREATE is een eenvoudige bruiswatermachine in een opvallende saliegroene kleur. Je schroeft een gangbare CO2-cilinder in de bovenkant, plaatst de fles van een liter en drukt op de knop. Voor meer prik druk je twee of drie keer. Stroom is niet nodig, dus hij kan overal staan.\n\nVolgens de fabrikant kun je naast water ook sap of limonade van bubbels voorzien. Bij de meeste toestellen van SodaStream mag dat niet. Het apparaat weegt maar 580 gram en meet ongeveer 20 x 13 x 43 centimeter. De keerzijde: een cilinder zit niet in de doos, dus die koop je er los bij. De BPA-vrije fles moet je met de hand afwassen. Kopers op bol geven hem een 5,0, al zijn het nog niet veel beoordelingen. De kunststof behuizing voelt lichter aan dan een Duo of Aarke. Wil je goedkoop ontdekken of zelf bruiswater maken bij je past, dan is dit een prima instap.",
+      "ean": "8435572634551",
+      "bol_title": "CREATE - Bruiswatermachine 1L - SODA MAKER STUDIO",
+      "url": "https://www.bol.com/nl/nl/p/create-bruiswatermachine-1l-soda-maker-studio/9300000233053535/",
+      "image": "https://media.s-bol.com/EolLPgVKzPKK/zm74OjZ/250x200.jpg",
       "ph": {
-        "2026-10-24": 38.95,
-        "2026-10-25": 38.95,
-        "2026-10-26": 38.95,
-        "2026-10-27": 38.95,
-        "2026-10-28": 38.95,
-        "2026-10-29": 38.95,
-        "2026-10-30": 38.95,
-        "2026-10-31": 38.95,
-        "2026-11-01": 38.95,
-        "2026-11-02": 34.95,
-        "2026-11-03": 34.95,
-        "2026-11-04": 34.95,
-        "2026-11-05": 34.95,
-        "2026-11-06": 38.95,
-        "2026-11-07": 38.95,
-        "2026-11-08": 38.95,
-        "2026-11-09": 38.95,
-        "2026-11-10": 38.95,
-        "2026-11-11": 38.95,
-        "2026-11-12": 38.95,
-        "2026-11-13": 38.95,
-        "2026-11-14": 38.95
+        "2026-11-16": 44.95
       },
-      "low_price": 34.95,
-      "prev_price": 34.95,
-      "prev_date": "2026-11-05",
-      "ph_ean": "8720299949034"
+      "low_price": 44.95,
+      "ph_ean": "8435572634551",
+      "synced": "2026-11-16"
     },
     {
-      "brand": "LunaVida",
-      "name": "Callisto SodaMaker",
-      "price": 38.95,
+      "brand": "SodaStream",
+      "name": "Gaia",
+      "price": 59.99,
       "score": 8.0,
       "label": null,
-      "reviews": "200+ reviews",
-      "oneliner": "Goedkope bruiswatermaker die SodaStream-cilinders slikt.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Basismodel van SodaStream met Quick Connect-cilinder in de doos.",
       "specs": {
-        "Cilinder": "Quick Connect en schroef",
+        "Cilinder": "Quick Connect 60 l, inbegrepen",
         "Flessen": "kunststof 1 l",
         "Stroom nodig": "nee",
         "Bediening": "drukknop",
         "Materiaal": "kunststof"
       },
       "pros": [
-        "Zeer lage prijs",
-        "Compatibel met SodaStream-cilinders",
-        "Compact design",
-        "Fles inbegrepen"
+        "Goedkoopste SodaStream in deze lijst",
+        "Cilinder en fles meegeleverd",
+        "Vaatwasbestendige fles",
+        "Quick Connect-cilinder klikt er snel in"
       ],
       "cons": [
-        "Cilinder vaak niet inbegrepen",
-        "Minder lange track record"
+        "Eenvoudige afwerking zonder extra functies",
+        "Werkt alleen met Quick Connect-cilinders"
       ],
-      "ideal": "Wie al cilinders heeft of zo goedkoop mogelijk wil instappen.",
-      "text": "De LunaVida Callisto is een budgetapparaat dat volgens de fabrikant werkt met de cilinders van SodaStream. Heb je al een cilinder van een oud apparaat, dan kun je die gewoon blijven gebruiken. In de doos zit een fles van een liter, maar controleer bij de aankoop of er een cilinder bij zit.\n\nDe bediening is gelijk aan die van een SodaStream: fles eronder, knop indrukken en je hoort wanneer er genoeg koolzuur in zit. Het apparaat is compact en licht. Kopers op bol geven het een ruime voldoende en noemen de prijs als belangrijkste reden. De kunststof is minder zwaar uitgevoerd dan bij de merken, maar voor dagelijks gebruik voldoet het prima. Zoek je een vervanger voor een kapot apparaat en heb je nog cilinders liggen, dan is dit een voordelige oplossing.",
-      "ean": "8721249627026",
-      "bol_title": "LunaVida Callisto SodaMaker – Bruiswatertoestel incl. Fles – Compact Design – Compatibel met Sodastream CO2 Cilinders – Zwart",
-      "url": "https://www.bol.com/nl/nl/p/lunavida-s-sodamaker-callisto-bruiswatertoestel-zwart/9300000233818451/",
-      "image": "https://media.s-bol.com/EoYzG9lZo3gg/g57NvmD/541x840.jpg",
-      "synced": "2026-11-16",
+      "ideal": "Wie een echte SodaStream wil voor de laagste prijs.",
+      "text": "De Gaia is het instapmodel van SodaStream en richt zich op de basis. In de doos zitten het toestel, een Quick Connect-cilinder van 60 liter en een BPA-vrije fles van een liter die in de vaatwasser mag. Je kunt dus direct beginnen. Met de grote drukknop bepaal je zelf hoeveel prik er in het water komt.\n\nDe Quick Connect-cilinder plaats je met een klik in plaats van draaien. Dat is makkelijker dan bij oudere schroefmodellen. Lege cilinders ruil je bij supermarkten en bouwmarkten. Het toestel werkt zonder stroom, weegt ruim 2 kilo en meet ongeveer 22 x 13 x 43 centimeter. Kopers op bol geven gemiddeld een 4,3 en noemen het gemak en de prijs. De matte kunststof behuizing is eenvoudig, met minder luxe dan de Duo of de Art. Zoek je een betrouwbaar merk met cilinder erbij voor weinig geld, dan is de Gaia een logische keuze.",
+      "ean": "7290116742366",
+      "bol_title": "sodastream GAIA ST+USR LIC 60 L BLACK BNL (DW)",
+      "url": "https://www.bol.com/nl/nl/p/frisdrankautomaat-sodastream-gaia-zwart/9300000150474858/",
+      "image": "https://media.s-bol.com/3N9rlRwAwElx/g5qoxwj/329x840.jpg",
       "ph": {
-        "2026-10-15": 38.95,
-        "2026-10-16": 38.95,
-        "2026-10-17": 38.95,
-        "2026-10-18": 38.95,
-        "2026-10-19": 38.95,
-        "2026-10-20": 38.95,
-        "2026-10-21": 38.95,
-        "2026-10-23": 38.95,
-        "2026-10-24": 38.95,
-        "2026-10-25": 38.95,
-        "2026-10-26": 38.95,
-        "2026-10-27": 38.95,
-        "2026-10-28": 38.95,
-        "2026-10-29": 38.95,
-        "2026-10-30": 38.95,
-        "2026-10-31": 38.95,
-        "2026-11-01": 38.95,
-        "2026-11-02": 38.95,
-        "2026-11-03": 38.95,
-        "2026-11-04": 38.95,
-        "2026-11-05": 38.95,
-        "2026-11-06": 38.95,
-        "2026-11-07": 38.95,
-        "2026-11-08": 38.95,
-        "2026-11-09": 38.95,
-        "2026-11-10": 38.95,
-        "2026-11-11": 38.95,
-        "2026-11-12": 38.95,
-        "2026-11-13": 38.95,
-        "2026-11-14": 38.95
+        "2026-11-16": 59.99
       },
-      "low_price": 38.95,
-      "ph_ean": "8721249627026"
+      "low_price": 59.99,
+      "ph_ean": "7290116742366",
+      "synced": "2026-11-16"
     },
     {
       "brand": "JAP Appliances",
       "name": "XStream",
-      "price": 39.49,
+      "price": 34.99,
       "score": 7.9,
       "label": null,
       "reviews": "300+ reviews",
-      "oneliner": "Betaalbare sodamaker met PET-fles.",
+      "oneliner": "Betaalbare sodamaker met RVS-fles.",
       "specs": {
         "Cilinder": "schroefcilinder 60 l",
-        "Flessen": "kunststof 1 l",
+        "Flessen": "RVS 1 l",
         "Stroom nodig": "nee",
         "Bediening": "drukknop",
         "Materiaal": "kunststof"
@@ -641,8 +589,8 @@
         "Cilinder apart te koop"
       ],
       "ideal": "Wie een eenvoudig tweede apparaat zoekt of zuinig wil starten.",
-      "text": "De JAP Appliances XStream is een eenvoudig bruiswatertoestel dat op bol hoge waarderingen krijgt voor zijn prijs. Hij werkt zonder stroom met een schroefcilinder en een PET-fles van een liter. De bediening is dezelfde als bij een SodaStream: fles eronder en een paar keer drukken.\n\nLet wel op de flessen: het apparaat is volgens de fabrikant uitsluitend geschikt voor de eigen XStream-flessen. Extra flessen koop je dus bij hetzelfde merk. Een cilinder zit niet standaard in elke set. Kopers zijn positief over het gemak en de hoeveelheid bubbels, maar de afwerking is eenvoudiger dan bij de grote merken. Als tweede apparaat voor op de camping, in een studentenhuis of op kantoor is hij een praktische keuze. Voor dagelijks gebruik in een gezin ben je met een SodaStream Terra op termijn beter uit.",
-      "ean": "8720929477982",
+      "text": "De JAP Appliances XStream is een eenvoudig bruiswatertoestel dat op bol hoge waarderingen krijgt voor zijn prijs. Hij werkt zonder stroom met een schroefcilinder en een RVS-fles van een liter. De bediening is dezelfde als bij een SodaStream: fles eronder en een paar keer drukken.\n\nLet wel op de flessen: het apparaat is volgens de fabrikant uitsluitend geschikt voor de eigen XStream-flessen. Extra flessen koop je dus bij hetzelfde merk. Een cilinder zit niet standaard in elke set. Kopers zijn positief over het gemak en de hoeveelheid bubbels, maar de afwerking is eenvoudiger dan bij de grote merken. Als tweede apparaat voor op de camping, in een studentenhuis of op kantoor is hij een praktische keuze. Voor dagelijks gebruik in een gezin ben je met een SodaStream Terra op termijn beter uit.",
+      "ean": "8720929478262",
       "bol_title": "JAP Appliances XStream - Bruiswatertoestel - PET fles (1 liter ) voor soda maker - (Uitsluitend geschikt voor schroefcilinder) - Co2 cilinder niet inbegrepen - Zwart",
       "url": "https://www.bol.com/nl/nl/p/jap-appliances-xstream-bruiswater-machine-met-pet-fles-van-1-liter-zwart/9300000187000643/",
       "image": "https://media.s-bol.com/gqRN8pBLvoBr/mZP5WOp/550x572.jpg",
@@ -728,5 +676,19 @@
     }
   ],
   "published": "2026-10-15",
-  "noindex": true
+  "noindex": true,
+  "wissels": [
+    {
+      "d": "2026-11-16",
+      "uit": "LunaVida Elara SodaMaker",
+      "in": "CREATE Soda Maker Studio",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-16",
+      "uit": "LunaVida Callisto SodaMaker",
+      "in": "SodaStream Gaia",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

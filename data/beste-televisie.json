@@ -436,52 +436,43 @@
       "ph_ean": "8718863052044"
     },
     {
-      "brand": "LG",
-      "name": "65QNED84A6C",
-      "price": 599.0,
+      "brand": "Philips",
+      "name": "65PQS7801/12",
+      "price": 579.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "65 inch QNED met Mini LED en webOS voor rond de 650 euro.",
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Betaalbare 65 inch QLED uit 2026 met HDR10+.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "QNED Mini LED",
-        "Verversing": "120 Hz",
-        "HDMI 2.1": "Ja, met VRR en ALLM",
-        "Smart-tv": "webOS"
+        "Paneel": "QLED",
+        "Verversing": "60 Hz",
+        "HDMI 2.1": "Niet vermeld",
+        "Smart-tv": "Titan OS"
       },
       "pros": [
-        "65 inch Mini LED voor rond de 650 euro",
-        "Rijke kleuren door quantum dots en NanoCell",
-        "webOS met Magic Remote",
-        "HDMI 2.1 met VRR en ALLM"
+        "65 inch voor onder de 600 euro",
+        "Quantum dots voor vollere kleuren",
+        "HDR10+, Dolby Atmos en DTS:X",
+        "Model uit 2026"
       ],
       "cons": [
-        "Minder contrast dan OLED in een donkere kamer",
-        "Geen Dolby Vision",
-        "Nog weinig beoordelingen"
+        "Geen local dimming, zwart oogt in het donker grijzig",
+        "Titan OS heeft minder apps dan Google TV",
+        "Niet bedoeld voor 120 Hz-gamen"
       ],
-      "ideal": "Wie veel scherm wil van een vertrouwd merk zonder boven de 700 euro uit te komen.",
-      "text": "De LG 65QNED84A6C is een 65 inch tv die quantum dots combineert met de NanoCell-laag van LG. Die combinatie heet QNED en geeft rijke, zuivere kleuren. Volgens de specificaties op bol gebruikt hij Mini LED-verlichting met lokale dimming, zodat zwart dieper oogt dan bij een gewone led-tv uit deze prijsklasse. Aan het contrast van de OLED-modellen bovenaan deze lijst komt hij niet, zeker niet in een donkere kamer. Dolby Vision ontbreekt, HDR10 en HLG worden wel ondersteund.\n\nVoor gamers zijn er HDMI 2.1, VRR, ALLM en de Game Optimizer van LG met een lage input lag. Het systeem is webOS met alle bekende apps, van NPO Start en Videoland tot Netflix en Disney+. De Magic Remote werkt als een muisaanwijzer op het scherm. LG belooft minimaal vijf jaar updates. Kopers op bol geven hem 5 van 5, al zijn het nog weinig beoordelingen. Wil je 65 inch met goede kleuren van een groot merk voor minder dan 700 euro, dan is dit een veilige keuze.",
-      "ean": "8806096422007",
-      "bol_title": "LG QNED AI 65QNED84A6C 165,1 cm (65\") 4K Ultra HD Smart TV Wifi Zwart",
-      "url": "https://www.bol.com/nl/nl/p/lg-qned-ai-65qned84a6c-165-1-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000231982016/",
-      "image": "https://media.s-bol.com/wL96lXmR2plw/8qBzr3g/550x434.jpg",
+      "ideal": "Wie een groot scherm wil voor series en sport en geen topbeeld nodig heeft.",
+      "text": "De Philips 65PQS7801/12 is de goedkoopste manier in deze lijst om 65 inch in huis te halen. Het is een QLED uit 2026: een led-tv met een laag quantum dots die kleuren voller maakt dan bij een gewone led-tv. Philips staat bekend om een rustige beeldverwerking, wat prettig is bij voetbal en series. HDR10+ wordt ondersteund, Dolby Vision niet. Aan het contrast van de OLED-modellen bovenaan deze lijst komt hij niet, want local dimming ontbreekt.\n\nHet systeem is Titan OS. Netflix, YouTube, Prime Video, NPO Start en Videoland staan erop, maar de appwinkel is kleiner dan die van Google TV of webOS. Het geluid ondersteunt Dolby Atmos en DTS:X. Het paneel draait op 60 Hz, dus voor een PS5 of Xbox op 120 Hz kies je beter een andere tv uit deze lijst. Kopers op bol geven hem gemiddeld 4,5 uit 5. Wil je voor weinig meer Mini LED, kijk dan naar de TCL 65C6KS op nummer 8.",
+      "ean": "8718863051689",
+      "bol_title": "Philips 65PQS7801/12 - 65 inch - 4K QLED - 2026",
+      "url": "https://www.bol.com/nl/nl/p/philips-65pqs7801-12-65-inch-4k-qled-2026/9300000354155808/",
+      "image": "https://media.s-bol.com/N4AXrv5prmL2/k8LBppx/550x247.jpg",
       "ph": {
-        "2026-11-08": 649.0,
-        "2026-11-09": 649.0,
-        "2026-11-10": 649.0,
-        "2026-11-11": 649.0,
-        "2026-11-12": 649.0,
-        "2026-11-13": 649.0,
-        "2026-11-14": 599.0,
-        "2026-11-16": 599.0
+        "2026-11-16": 579.0
       },
-      "low_price": 599.0,
-      "synced": "2026-11-16",
-      "ph_ean": "8806096422007",
-      "prev_price": 649.0,
-      "prev_date": "2026-11-13"
+      "low_price": 579.0,
+      "ph_ean": "8718863051689",
+      "synced": "2026-11-16"
     },
     {
       "brand": "TCL",
@@ -701,5 +692,13 @@
       "a": "Een moderne OLED of lcd-televisie gaat zeven tot tien jaar mee bij normaal gebruik. De software-ondersteuning stopt vaak eerder: LG en Samsung beloven vijf tot zeven jaar updates, bij andere merken is dat korter. Een Chromecast of Apple TV houdt een oudere televisie daarna alsnog bij de tijd."
     }
   ],
-  "published": "2026-10-13"
+  "published": "2026-10-13",
+  "wissels": [
+    {
+      "d": "2026-11-16",
+      "uit": "LG 65QNED84A6C",
+      "in": "Philips 65PQS7801/12",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

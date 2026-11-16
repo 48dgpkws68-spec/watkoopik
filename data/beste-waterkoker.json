@@ -291,47 +291,41 @@
     },
     {
       "brand": "Russell Hobbs",
-      "name": "Inspire 24360-70",
-      "price": 42.49,
+      "name": "Retro Classic Noir 21671-70",
+      "price": 39.99,
       "score": 8.2,
       "label": null,
-      "reviews": "3.400+ reviews",
-      "oneliner": "Snelkookzone voor één kop en een stijlvolle afwerking voor weinig geld.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "Snelkookzone voor één kop in een rvs retrojasje.",
       "specs": {
         "Inhoud": "1,7 l",
         "Vermogen": "2.400 W",
         "Temperatuur": "Alleen koken",
-        "Materiaal": "Kunststof met glanzende afwerking",
+        "Materiaal": "Rvs met zwarte retroaccenten",
         "Filter": "Uitneembaar kalkfilter"
       },
       "pros": [
-        "Snelkookzone: één kop in 45 seconden",
-        "Perfect Pour-schenktuit zonder druppelen",
-        "Groot peilglas met kopjesindicatie",
-        "Verkrijgbaar in wit, zwart en grijs"
+        "Snelkookzone: één kop in 55 seconden",
+        "Kopjesaanduiding voor 1, 2 of 3 koppen",
+        "Schenktuit die niet spettert",
+        "Ook in rood en crème"
       ],
       "cons": [
-        "Kunststof behuizing",
-        "Lawaaieriger dan de rvs-modellen",
+        "Hoorbaarder dan de dubbelwandige modellen",
         "Geen temperatuurkeuze"
       ],
-      "ideal": "Wie vaak snel één kop wil en een nette waterkoker zoekt voor rond de 42 euro.",
-      "text": "De Russell Hobbs Inspire is een van de populairste budgetwaterkokers en dat is terecht. Het sterkste punt is de snelkookzone: vul de koker tot de onderste streep en je hebt in 45 seconden water voor één kop. Dat bespaart tijd en stroom als je alleen thuis bent. De Perfect Pour-schenktuit giet volgens gebruikers echt zonder druppelen, iets wat bij veel goedkope kokers mis gaat.\n\nDe behuizing is van kunststof met een glanzende afwerking in wit, zwart of grijs en ziet er netter uit dan de prijs doet vermoeden. Het peilglas toont het aantal kopjes. Nadelen zijn het geluid, dat hoger ligt dan bij de rvs-modellen in deze lijst. Temperatuurkeuze ontbreekt. Het kalkfilter is uitneembaar en de droogkookbeveiliging werkt betrouwbaar. In ruim 3.000 reviews scoort hij hoog op prijs, snelheid en uiterlijk. Een prima koker voor wie geen wensen heeft op het gebied van thee-temperatuur.",
-      "ean": "4008496972371",
-      "bol_title": "Russell Hobbs 24360-70 Inspire Waterkoker - Wit",
-      "url": "https://www.bol.com/nl/nl/p/russell-hobbs-24360-70-inspire-waterkoker-wit/9200000097095476/",
-      "image": "https://media.s-bol.com/V19XBoJyKNO/550x701.jpg",
+      "ideal": "Wie vaak snel één kop wil en een waterkoker met karakter zoekt voor rond de 40 euro.",
+      "text": "De Russell Hobbs Retro Classic Noir combineert een rvs-behuizing met zwarte retroaccenten en een verlichte aan-uitknop. Het sterkste punt is de snelkookzone: binnenin zie je streepjes voor één, twee of drie koppen. Kook je alleen één kop van 235 milliliter, dan heb je volgens Russell Hobbs in 55 seconden heet water. Dat bespaart tijd en stroom als je alleen thuis bent. De schenktuit is zo gevormd dat er niets spettert of naast de kop loopt.\n\nMet 1,7 liter en 2.400 watt kook je ook een volle kan voor zes koppen snel. Het peilglas aan de zijkant toont hoeveel water erin zit. Het kalkfilter is uitneembaar en wasbaar en de koker draait rond op een voet van 360 graden. Nadelen zijn het geluid, dat hoger ligt dan bij de dubbelwandige modellen in deze lijst. Ook temperatuurkeuze ontbreekt. Hij is verkrijgbaar in zwart, rood en crème. Kopers op bol geven hem gemiddeld een 4,4.",
+      "ean": "4008496892488",
+      "ph_ean": "4008496892488",
+      "bol_title": "Russell Hobbs 21671-70 Retro Classic Noir Waterkoker - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/russell-hobbs-21671-70-retro-classic-noir-waterkoker-zwart/9200000064550713/",
+      "image": "https://media.s-bol.com/73LYDmJNLR3Q/550x654.jpg",
       "ph": {
-        "2026-11-09": 42.49,
-        "2026-11-10": 42.49,
-        "2026-11-11": 42.49,
-        "2026-11-12": 42.49,
-        "2026-11-13": 42.49,
-        "2026-11-14": 42.49
+        "2026-11-16": 39.99
       },
-      "low_price": 42.49,
-      "synced": "2026-11-16",
-      "ph_ean": "4008496972371"
+      "low_price": 39.99,
+      "synced": "2026-11-16"
     },
     {
       "brand": "WMF",
@@ -743,5 +737,13 @@
       "a": "Rvs gaat langer mee, ziet er beter uit en geeft geen smaak af, maar wordt bij enkelwandige modellen heet aan de buitenkant. Kunststof is lichter, goedkoper en blijft koeler. Dubbelwandig rvs combineert het beste van beide en is de beste keuze voor gezinnen met kinderen."
     }
   ],
-  "published": "2026-10-13"
+  "published": "2026-10-13",
+  "wissels": [
+    {
+      "d": "2026-11-16",
+      "uit": "Russell Hobbs Inspire 24360-70",
+      "in": "Russell Hobbs Retro Classic Noir 21671-70",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

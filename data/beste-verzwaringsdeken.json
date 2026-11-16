@@ -365,72 +365,40 @@
     },
     {
       "brand": "Latona Blanket",
-      "name": "Verzwaringsdeken 7 kg",
-      "price": 74.34,
+      "name": "Verzwaringsdeken 7 kg katoen",
+      "price": 86.34,
       "score": 8.5,
       "label": null,
       "reviews": "300+ reviews",
-      "oneliner": "Degelijke verzwaringsdeken in veel gewichten en maten.",
+      "oneliner": "Ademende katoenen deken in veel gewichten en maten.",
       "specs": {
         "Gewicht": "7 kg",
         "Maat": "140 x 200 cm",
         "Vulling": "Glaskralen",
-        "Stof": "Polyester",
+        "Stof": "Katoen",
         "Wasbaar": "Handwas"
       },
       "pros": [
         "Groot aanbod in gewicht en maat",
         "Stevig genaaide vakken",
-        "Ook in katoen verkrijgbaar"
+        "Katoen ademt beter dan polyester"
       ],
       "cons": [
         "Geen losse hoes",
-        "Antraciet als enige kleur"
+        "Duurder dan veel polyester dekens van 7 kilo"
       ],
       "ideal": "Wie precies het juiste gewicht wil kiezen.",
-      "text": "Latona Blanket verkoopt verzwaringsdekens in een groot aantal gewichten, van 3 kilo voor kinderen tot 12 kilo voor een tweepersoonsbed. Deze eenpersoonsversie van 7 kilo meet 140 x 200 centimeter en heeft een polyester stof. Glaskralen zitten in gestikte vakken, zodat ze goed verdeeld blijven.\n\nHet voordeel van Latona is dat je het gewicht nauwkeurig afstemt op je lichaamsgewicht. Twijfel je tussen 5, 7 en 9 kilo, dan zijn ze allemaal te koop. Kopers op bol geven gemiddeld 4,5 sterren en noemen de deken goed afgewerkt. Een losse hoes zit er niet bij. Er bestaat ook een katoenen versie die iets duurder is en beter ademt. De kleur is antraciet, wat praktisch maar niet heel spannend is. Voor een degelijke deken met het juiste gewicht is Latona een betrouwbare keuze.",
-      "ean": "8720876607852",
-      "bol_title": "Latona Blanket® Verzwaringsdeken eenpersoons 140 x 200cm - 7kg - Antraciet - Polyester - Weighted blanket",
-      "url": "https://www.bol.com/nl/nl/p/latona-blanket-verzwaringsdeken-7kg-weighted-blanket-antraciet-140-x-200-100-polyester-5-laags/9300000154635609/",
-      "image": "https://media.s-bol.com/mnY2x0gyglVG/xJ565z/550x547.jpg",
-      "synced": "2026-11-16",
+      "text": "Latona Blanket verkoopt verzwaringsdekens in een groot aantal gewichten, van 3 kilo voor kinderen tot 12 kilo voor een tweepersoonsbed. Deze eenpersoonsversie van 7 kilo meet 140 x 200 centimeter en heeft een katoenen buitenkant. Glaskralen zitten in gestikte vakken, zodat ze goed verdeeld blijven.\n\nHet voordeel van Latona is dat je het gewicht nauwkeurig afstemt op je lichaamsgewicht. Twijfel je tussen 5, 7 en 9 kilo, dan zijn ze allemaal te koop. Kopers op bol geven gemiddeld 4,5 sterren en noemen de deken goed afgewerkt. Katoen ademt beter dan polyester, wat bij een zware deken scheelt als je het snel warm hebt. Een losse hoes zit er niet bij, maar Latona verkoopt die apart. Je kiest uit antraciet of wit. De prijs ligt hoger dan bij de polyester dekens in deze lijst. Voor een degelijke, ademende deken met het juiste gewicht is Latona een betrouwbare keuze.",
+      "ean": "7422254675620",
+      "bol_title": "Latona Blanket® Verzwaringsdeken eenpersoons 140 x 200cm - 7kg - Antraciet - Katoen - Weighted blanket",
+      "url": "https://www.bol.com/nl/nl/p/latona-blanket-verzwaringsdeken-7kg-weighted-blanket-antraciet-140-x-200cm-100-katoen-7-laags/9300000073588555/",
+      "image": "https://media.s-bol.com/xB2VgpjGWQMl/joMYVB/550x547.jpg",
       "ph": {
-        "2026-10-15": 45.05,
-        "2026-10-16": 45.05,
-        "2026-10-17": 45.05,
-        "2026-10-18": 45.05,
-        "2026-10-19": 45.05,
-        "2026-10-20": 45.05,
-        "2026-10-21": 45.05,
-        "2026-10-23": 45.05,
-        "2026-10-24": 45.05,
-        "2026-10-25": 45.05,
-        "2026-10-26": 45.05,
-        "2026-10-27": 45.05,
-        "2026-10-28": 45.05,
-        "2026-10-29": 45.05,
-        "2026-10-30": 61.95,
-        "2026-10-31": 61.95,
-        "2026-11-01": 61.95,
-        "2026-11-02": 61.95,
-        "2026-11-03": 61.95,
-        "2026-11-04": 61.95,
-        "2026-11-05": 61.95,
-        "2026-11-06": 61.95,
-        "2026-11-07": 61.95,
-        "2026-11-08": 61.95,
-        "2026-11-09": 61.95,
-        "2026-11-10": 61.95,
-        "2026-11-11": 61.95,
-        "2026-11-12": 61.95,
-        "2026-11-13": 61.95,
-        "2026-11-14": 61.95,
-        "2026-11-16": 74.34
+        "2026-11-16": 86.34
       },
-      "low_price": 45.05,
-      "prev_price": 61.95,
-      "prev_date": "2026-11-14",
-      "ph_ean": "8720876607852"
+      "low_price": 86.34,
+      "ph_ean": "7422254675620",
+      "synced": "2026-11-16"
     },
     {
       "brand": "Blumtal",
@@ -736,5 +704,13 @@
     "beste-plaid",
     "beste-winterdekbed"
   ],
-  "noindex": true
+  "noindex": true,
+  "wissels": [
+    {
+      "d": "2026-11-16",
+      "uit": "Latona Blanket Verzwaringsdeken 7 kg polyester",
+      "in": "Latona Blanket Verzwaringsdeken 7 kg katoen",
+      "waarom": "bol verkoopt alleen nog de duurdere katoenen uitvoering"
+    }
+  ]
 }

@@ -77,12 +77,12 @@
     },
     {
       "brand": "Braun",
-      "name": "Series 5 52-N1200S scheerapparaat",
-      "price": 101.55,
+      "name": "Series 5 52-B1000S scheerapparaat",
+      "price": 80.9,
       "score": 9.0,
       "label": null,
       "reviews": "reviews op bol",
-      "oneliner": "Waterdicht scheerapparaat met flexibele mesjes en precisietrimmer.",
+      "oneliner": "Waterdicht scheerapparaat met flexibele mesjes en turbostand.",
       "specs": {
         "Type": "Elektrisch scheerapparaat",
         "Voor wie": "Man die zich glad scheert",
@@ -92,43 +92,26 @@
       "pros": [
         "Flexibele scheerkop volgt de kaaklijn",
         "Nat en droog te gebruiken, ook onder de douche",
-        "Uitklapbare precisietrimmer voor bakkebaarden",
-        "Tot 50 minuten scheren op een volle accu"
+        "Turbostand en standaardstand",
+        "Tot 50 minuten scheren, 5 minuten snelladen voor één beurt"
       ],
       "cons": [
         "Geen oplaadstandaard of reinigingsstation",
+        "Geen uitklapbare precisietrimmer",
         "Voor een lange baard heb je een aparte trimmer nodig"
       ],
       "ideal": "Mannen die zich elke ochtend glad scheren en snel klaar willen zijn.",
-      "text": "Scheert hij zich elke ochtend, dan is een goed scheerapparaat een cadeau dat hij jaren gebruikt. De Braun Series 5 52-N1200S heeft een flexibele scheerkop die de lijnen van kaak en hals volgt. Daardoor hoeft hij minder vaak over dezelfde plek te gaan, wat irritatie scheelt. Het apparaat is helemaal waterdicht: scheren met schuim of gel kan ook, net als het afspoelen onder de kraan.\n\nDe accu gaat volgens Braun tot 50 minuten mee, genoeg voor ongeveer twee weken scheren. Aan de achterkant zit een uitklapbare trimmer voor bakkebaarden en de lijn van een snor. Kopers op bol noemen het resultaat glad en prettig voor een gevoelige huid. Een oplaadstandaard of reinigingsstation zit er niet bij, dat vind je pas bij duurdere varianten. Draagt hij een volle baard, kies dan liever de OneBlade of een baardtrimmer. Voor een verjaardag of Sinterklaas blijft dit een praktisch cadeau met een bekend merk.",
-      "ean": "8700216645522",
-      "bol_title": "Braun Series 5 52-N1200S - Elektrisch Scheerapparaat voor mannen - Tot 50 min gebruikstijd - Precisie Trimmer Opzetstuk - 100% Waterdicht",
-      "url": "https://www.bol.com/nl/nl/p/braun-series-5-elektrisch-scheerapparaat-tot-50-min-1-opzetstuk-52-n1200s-zwart/9300000236693653/",
-      "image": "https://media.s-bol.com/gmDB1RZWzqpZ/k2wA2EN/550x574.jpg",
+      "text": "Scheert hij zich elke ochtend, dan is een goed scheerapparaat een cadeau dat hij jaren gebruikt. De Braun Series 5 52-B1000S heeft drie flexibele scheerbladen die de lijnen van kaak en hals volgen. Daardoor hoeft hij minder vaak over dezelfde plek te gaan, wat irritatie scheelt. Het apparaat is helemaal waterdicht: scheren met schuim of gel kan ook, net als afspoelen onder de kraan.\n\nEr zijn twee standen. Turbo is voor een snelle scheerbeurt, de standaardstand houdt het zachter voor de huid. De accu gaat volgens Braun tot 50 minuten mee en 5 minuten snelladen is genoeg voor één beurt. Een uitklapbare precisietrimmer heeft deze uitvoering niet. Kopers op bol geven gemiddeld een 4,4 en noemen het resultaat glad. Een oplaadstandaard of reinigingsstation vind je pas bij duurdere varianten. Draagt hij een volle baard, kies dan liever de OneBlade. Voor rond de 81 euro is dit een praktisch cadeau van een bekend merk.",
+      "ean": "8700216646130",
+      "bol_title": "Braun Series 5 52-B1000S - Elektrisch Scheerapparaat voor mannen - Tot 50 min gebruikstijd - 100% Waterdicht",
+      "url": "https://www.bol.com/nl/nl/p/braun-series-5-elektrisch-scheerapparaat-tot-50-min-52-b1000s-blauw/9300000236693644/",
+      "image": "https://media.s-bol.com/xKyrxYDRWo0P/x6o9mQl/550x742.jpg",
       "ph": {
-        "2026-10-30": 77.99,
-        "2026-10-31": 77.99,
-        "2026-11-01": 77.99,
-        "2026-11-02": 77.99,
-        "2026-11-03": 77.99,
-        "2026-11-04": 77.99,
-        "2026-11-05": 77.99,
-        "2026-11-06": 77.99,
-        "2026-11-07": 77.99,
-        "2026-11-08": 77.99,
-        "2026-11-09": 95.88,
-        "2026-11-10": 95.88,
-        "2026-11-11": 98.1,
-        "2026-11-12": 98.1,
-        "2026-11-13": 99.82,
-        "2026-11-14": 99.82,
-        "2026-11-16": 101.55
+        "2026-11-16": 80.9
       },
-      "low_price": 77.99,
-      "synced": "2026-11-16",
-      "prev_price": 99.82,
-      "prev_date": "2026-11-14",
-      "ph_ean": "8700216645522"
+      "low_price": 80.9,
+      "ph_ean": "8700216646130",
+      "synced": "2026-11-16"
     },
     {
       "brand": "Philips",
@@ -619,6 +602,14 @@
     {
       "q": "Kan ik een parfum als cadeau ruilen?",
       "a": "Dat hangt af van de verkoper. Zolang de verpakking dicht is, kun je bij bol meestal binnen 30 dagen retourneren. Een geopende fles parfum wordt vaak niet teruggenomen, dus kies alleen een geur als je weet wat hij mooi vindt."
+    }
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-16",
+      "uit": "Braun Series 5 52-N1200S scheerapparaat",
+      "in": "Braun Series 5 52-B1000S scheerapparaat",
+      "waarom": "kwam boven de prijsgrens van deze gids"
     }
   ]
 }

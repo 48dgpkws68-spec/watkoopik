@@ -487,63 +487,43 @@
       "ph_ean": "8806099134624"
     },
     {
-      "brand": "LG",
-      "name": "65QNED84A6C",
-      "price": 599.0,
+      "brand": "Philips",
+      "name": "65PQS7801/12",
+      "price": 579.0,
       "score": 8.1,
       "label": null,
-      "reviews": "250+ reviews",
-      "oneliner": "Grote LG met webOS en mooie kleuren voor weinig geld.",
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Groot QLED-scherm van een A-merk voor onder de 600 euro.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "QNED",
+        "Paneel": "QLED",
         "Verversing": "60 Hz",
-        "HDR": "HDR10, HLG",
-        "Smart-tv": "webOS 25"
+        "HDR": "HDR10+, HLG",
+        "Smart-tv": "Titan OS"
       },
       "pros": [
-        "65 inch voor 649 euro",
-        "webOS 25 is overzichtelijk en snel",
-        "Mooie kleuren dankzij QNED-laag",
-        "Magic Remote met aanwijzer"
+        "65 inch van een A-merk voor onder de 600 euro",
+        "Quantum dots voor vollere kleuren",
+        "Dolby Atmos en DTS:X",
+        "Laat ruim 400 euro van je budget over"
       ],
       "cons": [
-        "60 Hz en geen HDMI 2.1 op 120 Hz",
-        "Geen lokale dimming, dus grijzig zwart"
+        "Geen local dimming",
+        "60 Hz, minder geschikt voor gamen",
+        "Titan OS heeft minder apps"
       ],
-      "ideal": "Wie een grote tv voor tv-zenders en streamen zoekt en het gemak van webOS wil.",
-      "text": "De LG 65QNED84A6C is de goedkoopste tv in deze lijst van een groot A-merk op 65 inch. QNED staat voor een led-tv met een extra laag die kleuren zuiverder maakt. Het resultaat is een helder, kleurrijk beeld dat bij daglicht goed overeind blijft. Je krijgt webOS 25 met de Magic Remote, waarmee je als met een muis door menu's wijst. Dat vinden veel gebruikers het prettigste bediensysteem van alle merken.\n\nDe beperkingen zitten in het paneel. Het draait op 60 Hz en heeft geen lokale dimming, waardoor zwart in donkere films grijzig blijft. Gamers vinden bij Hisense en TCL voor hetzelfde geld 144 Hz. Ook Dolby Vision ontbreekt bij dit model. Bol-kopers geven hem toch 5 sterren voor het gebruiksgemak en de prijs. Kijk je vooral tv en streams overdag, dan haal je hier veel scherm binnen voor ruim 350 euro onder het budget.",
-      "ean": "8806096422007",
-      "bol_title": "LG QNED AI 65QNED84A6C 165,1 cm (65\") 4K Ultra HD Smart TV Wifi Zwart",
-      "url": "https://www.bol.com/nl/nl/p/lg-qned-ai-65qned84a6c-165-1-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000231982016/",
-      "image": "https://media.s-bol.com/wL96lXmR2plw/8qBzr3g/550x434.jpg",
+      "ideal": "Wie een 65 inch van een bekend merk wil en geld overhoudt voor een soundbar.",
+      "text": "De Philips 65PQS7801/12 is samen met de Samsung UE65M74H de goedkoopste 65 inch van een groot A-merk in deze lijst. Het is een QLED uit 2026: quantum dots maken de kleuren voller dan bij een gewone led-tv en Philips houdt de beeldverwerking rustig, zonder overdreven scherpte. HDR10+ wordt ondersteund. Voor onder de 600 euro houd je van een budget van 1000 euro genoeg over voor een goede soundbar.\n\nWat je inlevert, is contrast. Local dimming ontbreekt, dus in een donkere kamer oogt zwart grijzer dan bij de Mini LED-modellen van TCL en Samsung in deze lijst. Het paneel draait op 60 Hz en is daarmee niet de keuze voor een PS5 op 120 Hz. Titan OS heeft de grote streamingdiensten zoals Netflix, NPO Start en Videoland, maar minder apps dan Google TV. Het geluid ondersteunt Dolby Atmos en DTS:X. Kopers op bol geven hem gemiddeld 4,5 uit 5.",
+      "ean": "8718863051689",
+      "bol_title": "Philips 65PQS7801/12 - 65 inch - 4K QLED - 2026",
+      "url": "https://www.bol.com/nl/nl/p/philips-65pqs7801-12-65-inch-4k-qled-2026/9300000354155808/",
+      "image": "https://media.s-bol.com/N4AXrv5prmL2/k8LBppx/550x247.jpg",
       "ph": {
-        "2026-10-27": 649.0,
-        "2026-10-28": 649.0,
-        "2026-10-29": 649.0,
-        "2026-10-30": 649.0,
-        "2026-10-31": 649.0,
-        "2026-11-01": 649.0,
-        "2026-11-02": 649.0,
-        "2026-11-03": 649.0,
-        "2026-11-04": 649.0,
-        "2026-11-05": 649.0,
-        "2026-11-06": 649.0,
-        "2026-11-07": 649.0,
-        "2026-11-08": 649.0,
-        "2026-11-09": 649.0,
-        "2026-11-10": 649.0,
-        "2026-11-11": 649.0,
-        "2026-11-12": 649.0,
-        "2026-11-13": 649.0,
-        "2026-11-14": 599.0,
-        "2026-11-16": 599.0
+        "2026-11-16": 579.0
       },
-      "low_price": 599.0,
-      "synced": "2026-11-16",
-      "ph_ean": "8806096422007",
-      "prev_price": 649.0,
-      "prev_date": "2026-11-13"
+      "low_price": 579.0,
+      "ph_ean": "8718863051689",
+      "synced": "2026-11-16"
     }
   ],
   "guide": [
@@ -663,5 +643,13 @@
     "pauze": "2026-11-14 Halolume uitverkocht sinds 13 nov; weghalen zodra Nick meldt dat er weer voorraad is"
   },
   "meta_title": "Beste tv onder 1000 euro 2026: top 10",
-  "meta_desc": "De beste tv onder 1000 euro van 2026 is de {top}. Top 10 vergeleken op beeldkwaliteit, formaat, gaming en prijs, met oled en mini-led binnen budget."
+  "meta_desc": "De beste tv onder 1000 euro van 2026 is de {top}. Top 10 vergeleken op beeldkwaliteit, formaat, gaming en prijs, met oled en mini-led binnen budget.",
+  "wissels": [
+    {
+      "d": "2026-11-16",
+      "uit": "LG 65QNED84A6C",
+      "in": "Philips 65PQS7801/12",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

@@ -242,44 +242,42 @@
       "ph_ean": "8013557700431"
     },
     {
-      "brand": "Midea",
-      "name": "PortaSplit Cool 8.000 BTU",
-      "price": 1399.0,
+      "brand": "Evolar",
+      "name": "Mobiele Split Airco 12.000 BTU EVO-SAP12CHW",
+      "price": 1099.0,
       "score": 8.5,
       "label": null,
-      "reviews": "4,8/5 op bol",
-      "oneliner": "Compacte mobiele split van een groot merk voor een stille slaapkamer.",
+      "reviews": "4,4/5 op bol",
+      "oneliner": "Mobiele split met buitendeel die ook kan verwarmen.",
       "specs": {
         "Type": "Mobiele split-unit",
-        "Koelvermogen": "8.000 BTU (2,35 kW)",
-        "Ruimte": "ca. 15 tot 25 m²",
-        "Geluid": "binnen vanaf ca. 37 dB",
-        "Verwarmen": "Nee"
+        "Koelvermogen": "12.000 BTU (3,5 kW)",
+        "Ruimte": "tot ca. 39 m²",
+        "Geluid": "binnen stil, geen dB opgegeven",
+        "Verwarmen": "Ja"
       },
       "pros": [
-        "Compressor buiten, dus stil binnen",
-        "Zuinig met energielabel A++",
-        "Geen installateur nodig",
-        "Werkt op een gewoon stopcontact"
+        "Compressor buiten, dus stiller binnen dan een monoblock",
+        "Koelt, verwarmt en ontvochtigt",
+        "Bediening via app en afstandsbediening",
+        "Geen installateur nodig"
       ],
       "cons": [
-        "Hoge prijs voor 8.000 BTU",
-        "Alleen koelen, niet verwarmen",
-        "Buitendeel moet aan raam of balkon passen"
+        "Hoge prijs",
+        "Bij een kozijn dieper dan 4 cm heb je een apart koppelstuk nodig",
+        "Minder bekend merk dan VONROC of ARGO"
       ],
-      "ideal": "Wie een stille slaapkamer of thuiswerkplek tot ongeveer 25 m² wil koelen.",
-      "text": "Midea is een van de grootste airco-fabrikanten ter wereld en de PortaSplit is hun antwoord op de vaste split-airco zonder installateur. Deze Cool-uitvoering bestaat uit een binnendeel en een buitendeel met de compressor. Het buitendeel plaats je in de meegeleverde steun aan de buitenkant van het raam of op het balkon. De raamafdichting monteer je zelf en de stekker gaat in een gewoon stopcontact. Binnen hoor je daardoor veel minder dan bij een monoblock: volgens Midea vanaf 37 dB in de stille stand.\n\nMet 8.000 BTU, omgerekend 2,35 kW, koel je een ruimte van ongeveer 15 tot 25 vierkante meter. Dat past bij een slaapkamer of werkkamer, niet bij een grote woonkamer. Het energielabel is A++ met een SEER van 6,1, zuiniger dan de meeste monoblocks. Verwarmen kan deze uitvoering niet. Kopers op bol geven hem gemiddeld een 4,8. De prijs is wel fors: de VONROC op plek 2 levert meer koelvermogen en verwarmt ook voor minder geld. Controleer vooraf of het buitendeel bij jouw raam past.",
-      "ean": "4048164122301",
-      "bol_title": "Midea PortaSplit Mobiele Split Airco - 8.000 BTU - Koelen - Met Wifi",
-      "url": "https://www.bol.com/nl/nl/p/midea-portasplit-mobiele-split-airco-8-000-btu-koelen-met-wifi/9300000292868696/",
-      "image": "https://media.s-bol.com/B5wyNM9RNzjx/oQ1Xw3Y/403x840.jpg",
+      "ideal": "Wie een slaapkamer of woonkamer tot ongeveer 39 m² stil wil koelen en in het voorjaar en najaar wil bijverwarmen.",
+      "text": "De Evolar EVO-SAP12CHW werkt volgens hetzelfde idee als een vaste split-airco, maar dan zonder installateur. Het binnendeel staat op wieltjes in de kamer, het buitendeel met de compressor hang je met een beugel buiten het raam. Een koelmiddelleiding van 2 meter verbindt de twee. Omdat het meeste geluid buiten blijft, is hij binnen een stuk stiller dan een mobiele airco met slang. De stekker gaat in een normaal stopcontact.\n\nMet 12.000 BTU, omgerekend 3,5 kW, koel je een ruimte tot ongeveer 39 vierkante meter. Hij kan ook verwarmen, wat hem buiten de zomer bruikbaar maakt. De temperatuur stel je in tussen 16 en 30 graden via het paneel, de afstandsbediening of de Smart Life-app. Voor de nacht is er een stille stand. Kopers op bol geven hem gemiddeld een 4,4. Let op bij diepe kozijnen: vanaf 4 cm diepte bestel je een breder koppelstuk bij. Qua prijs zit hij vlak bij de VONROC, die vergelijkbaar is uitgerust.",
+      "ean": "6150702899861",
+      "ph_ean": "6150702899861",
+      "bol_title": "Evolar Mobiele Split Airco Zonder Afvoerslang - 4-in-1 - 12000BTU - met Luchtontvochtiger - Voor Slaapkamer - WiFi - Zonder Afvoer / Slang - EVO-SAP12CHW",
+      "url": "https://www.bol.com/nl/nl/p/evolar-mobiele-split-airco-zonder-afvoerslang-4-in-1-12000btu-met-luchtontvochtiger-voor-slaapkamer-wifi-zonder-afvoer-slang-evo-sap12chw/9300000231236194/",
+      "image": "https://media.s-bol.com/x49O0qw0874B/2RWp0Lj/550x439.jpg",
       "ph": {
-        "2026-11-12": 1399.0,
-        "2026-11-13": 1399.0,
-        "2026-11-14": 1399.0
+        "2026-11-16": 1099.0
       },
-      "low_price": 1399.0,
-      "ph_ean": "4048164122301",
+      "low_price": 1099.0,
       "synced": "2026-11-16"
     },
     {
@@ -593,6 +591,12 @@
   ],
   "published": "2026-10-21",
   "wissels": [
+    {
+      "d": "2026-11-16",
+      "uit": "Midea PortaSplit Cool 8.000 BTU",
+      "in": "Evolar Mobiele Split Airco 12.000 BTU",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-13",
       "uit": "Kinzo Mobiele Airconditioner 9000 BTU",
