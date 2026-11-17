@@ -64,7 +64,8 @@
       "ph_ean": "6937224126060",
       "synced": "2026-11-17",
       "prev_price": 389.0,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 5.0
     },
     {
       "brand": "GoPro",
@@ -109,7 +110,8 @@
       "ph_ean": "0810116381616",
       "synced": "2026-11-17",
       "prev_price": 369.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.3
     },
     {
       "brand": "Insta360",
@@ -151,7 +153,8 @@
       },
       "low_price": 379.0,
       "ph_ean": "6970357859733",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.3
     },
     {
       "brand": "Insta360",
@@ -196,7 +199,8 @@
       "ph_ean": "6977644761441",
       "synced": "2026-11-17",
       "prev_price": 395.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.2
     },
     {
       "brand": "DJI",
@@ -239,7 +243,8 @@
       },
       "low_price": 189.0,
       "ph_ean": "6941565965073",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.9
     },
     {
       "brand": "DJI",
@@ -247,7 +252,7 @@
       "price": 375.79,
       "score": 8.7,
       "label": null,
-      "reviews": "Nieuw bij bol",
+      "reviews": "",
       "oneliner": "360 graden in 8K met 50 fps en intern geheugen.",
       "specs": {
         "Video": "8K met 50 fps in 360 graden",
@@ -329,7 +334,8 @@
       "ph_ean": "6970357857425",
       "synced": "2026-11-17",
       "prev_price": 280.67,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     },
     {
       "brand": "DJI",
@@ -337,7 +343,7 @@
       "price": 338.99,
       "score": 8.5,
       "label": null,
-      "reviews": "Nieuw bij bol",
+      "reviews": "",
       "oneliner": "Minicamera van 52 gram met de sensor van een grote.",
       "specs": {
         "Video": "4K met 60 fps",
@@ -417,7 +423,8 @@
       "ph_ean": "0810116380282",
       "synced": "2026-11-17",
       "prev_price": 289.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.5
     },
     {
       "brand": "AKASO",
@@ -460,7 +467,8 @@
       },
       "low_price": 169.99,
       "ph_ean": "0810035151796",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.0
     }
   ],
   "guide": [

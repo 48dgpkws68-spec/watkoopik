@@ -25,7 +25,7 @@
       "price": 949.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "1.800+ reviews",
+      "reviews": "",
       "oneliner": "Fluisterstil, Zeoliet-droging en de handigste korven.",
       "specs": {
         "Type": "Volledig geïntegreerd",
@@ -97,7 +97,7 @@
       "price": 561.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Vrijstaande Bosch met Extra Droog, Home Connect en 14 couverts voor rond de 550 euro.",
       "specs": {
         "Type": "Vrijstaand",
@@ -161,7 +161,8 @@
       "low_price": 546.0,
       "prev_price": 546.0,
       "prev_date": "2026-10-29",
-      "ph_ean": "4242005531530"
+      "ph_ean": "4242005531530",
+      "rating": 5.0
     },
     {
       "brand": "Bosch",
@@ -169,7 +170,7 @@
       "price": 964.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Topmodel van Bosch met PerfectDry Zeoliet-droging en extra stille werking.",
       "specs": {
         "Type": "Volledig geïntegreerd",
@@ -233,7 +234,8 @@
       "low_price": 964.0,
       "prev_price": 989.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "4242005482320"
+      "ph_ean": "4242005482320",
+      "rating": 5.0
     },
     {
       "brand": "Siemens",
@@ -241,7 +243,7 @@
       "price": 849.0,
       "score": 9.0,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Volledig geïntegreerde Siemens met Zeolith-droging en varioSpeed Plus.",
       "specs": {
         "Type": "Volledig geïntegreerd",
@@ -305,7 +307,8 @@
       "low_price": 845.0,
       "prev_price": 845.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4242003940884"
+      "ph_ean": "4242003940884",
+      "rating": 5.0
     },
     {
       "brand": "AEG",
@@ -313,7 +316,7 @@
       "price": 749.0,
       "score": 8.8,
       "label": null,
-      "reviews": "560+ reviews",
+      "reviews": "bol-score 1,0 van 5",
       "oneliner": "Deur gaat automatisch open om de vaat te drogen, met glasbescherming.",
       "specs": {
         "Type": "Volledig geïntegreerd",
@@ -377,7 +380,8 @@
         "2026-11-17": 749.0
       },
       "low_price": 749.0,
-      "ph_ean": "7332543809790"
+      "ph_ean": "7332543809790",
+      "rating": 1.0
     },
     {
       "brand": "Siemens",
@@ -385,7 +389,7 @@
       "price": 539.0,
       "score": 8.6,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betaalbare volledig geïntegreerde Siemens met Home Connect en varioSpeed Plus.",
       "specs": {
         "Type": "Volledig geïntegreerd",
@@ -449,7 +453,8 @@
       "low_price": 539.0,
       "prev_price": 541.13,
       "prev_date": "2026-11-06",
-      "ph_ean": "4242003961322"
+      "ph_ean": "4242003961322",
+      "rating": 4.7
     },
     {
       "brand": "Samsung",
@@ -457,7 +462,7 @@
       "price": 525.73,
       "score": 8.5,
       "label": null,
-      "reviews": "nog weinig reviews",
+      "reviews": "",
       "oneliner": "Vrijstaande Samsung met 14 couverts en roestvrijstalen front.",
       "specs": {
         "Type": "Vrijstaand",
@@ -497,7 +502,7 @@
       "price": 749.0,
       "score": 8.4,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Inbouwvaatwasser met automatische deuropening en energielabel B.",
       "specs": {
         "Type": "Volledig geïntegreerd",
@@ -559,7 +564,8 @@
         "2026-11-17": 749.0
       },
       "low_price": 749.0,
-      "ph_ean": "8003437639319"
+      "ph_ean": "8003437639319",
+      "rating": 5.0
     },
     {
       "brand": "Beko",
@@ -567,7 +573,7 @@
       "price": 495.0,
       "score": 8.1,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Ruime inbouwvaatwasser met 16 couverts en CornerIntense-sproeiarm.",
       "specs": {
         "Type": "Volledig geïntegreerd",
@@ -631,7 +637,8 @@
       "low_price": 463.13,
       "prev_price": 475.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8690842544446"
+      "ph_ean": "8690842544446",
+      "rating": 4.3
     },
     {
       "brand": "Inventum",
@@ -639,7 +646,7 @@
       "price": 444.0,
       "score": 7.9,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Vrijstaande vaatwasser van het Nederlandse Inventum met besteklade.",
       "specs": {
         "Type": "Vrijstaand",
@@ -703,7 +710,8 @@
       "low_price": 444.0,
       "prev_price": 479.0,
       "prev_date": "2026-11-06",
-      "ph_ean": "8712876150520"
+      "ph_ean": "8712876150520",
+      "rating": 4.2
     }
   ],
   "guide": [

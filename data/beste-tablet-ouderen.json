@@ -25,7 +25,7 @@
       "price": 450.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "1.900+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Eenvoudigste tablet met de langste updatesteun en duidelijke vereenvoudigde modus.",
       "specs": {
         "Scherm": "11 inch, 2360 x 1640",
@@ -88,7 +88,8 @@
       "low_price": 429.0,
       "prev_price": 455.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "0195950086317"
+      "ph_ean": "0195950086317",
+      "rating": 4.8
     },
     {
       "brand": "Samsung",
@@ -96,7 +97,7 @@
       "price": 220.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "450+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Groot scherm met eenvoudige modus voor ruim de helft van een iPad.",
       "specs": {
         "Scherm": "11 inch, 1920 x 1200",
@@ -159,7 +160,8 @@
       "low_price": 199.99,
       "prev_price": 221.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "8806097855040"
+      "ph_ean": "8806097855040",
+      "rating": 4.3
     },
     {
       "brand": "Apple",
@@ -167,7 +169,7 @@
       "price": 969.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "120+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Het grootste en helderste iPad-scherm voor wie slecht ziet.",
       "specs": {
         "Scherm": "13 inch, 2732 x 2048",
@@ -220,7 +222,8 @@
         "2026-11-17": 969.0
       },
       "low_price": 969.0,
-      "ph_ean": "0195950798111"
+      "ph_ean": "0195950798111",
+      "rating": 4.6
     },
     {
       "brand": "Samsung",
@@ -228,7 +231,7 @@
       "price": 629.0,
       "score": 8.9,
       "label": null,
-      "reviews": "260+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Groot 13,1 inch Android-scherm met pen en waterbestendige behuizing.",
       "specs": {
         "Scherm": "13,1 inch, 2880 x 1800",
@@ -287,7 +290,8 @@
       "low_price": 599.0,
       "prev_price": 609.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8806097197508"
+      "ph_ean": "8806097197508",
+      "rating": 4.7
     },
     {
       "brand": "Lenovo",
@@ -295,7 +299,7 @@
       "price": 269.01,
       "score": 8.7,
       "label": null,
-      "reviews": "380+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Ingebouwde standaard en acht JBL-luidsprekers, perfect voor videobellen.",
       "specs": {
         "Scherm": "11,5 inch, 2000 x 1200",
@@ -353,7 +357,8 @@
       "low_price": 269.01,
       "prev_price": 279.0,
       "prev_date": "2026-11-02",
-      "ph_ean": "0197530284618"
+      "ph_ean": "0197530284618",
+      "rating": 4.5
     },
     {
       "brand": "Xiaomi",
@@ -361,7 +366,7 @@
       "price": 235.0,
       "score": 8.6,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Goedkoopste 12 inch tablet met een accu die een week meegaat.",
       "specs": {
         "Scherm": "12,1 inch, 2560 x 1600",
@@ -390,7 +395,8 @@
       "ph": {
         "2026-11-17": 235.0
       },
-      "low_price": 235.0
+      "low_price": 235.0,
+      "rating": 4.5
     },
     {
       "brand": "Lenovo",
@@ -398,7 +404,7 @@
       "price": 419.0,
       "score": 8.6,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Groot 12,7 inch scherm met pen en sterke JBL-luidsprekers.",
       "specs": {
         "Scherm": "12,7 inch, 2944 x 1840",
@@ -446,7 +452,8 @@
       "synced": "2026-11-17",
       "prev_price": 405.37,
       "prev_date": "2026-11-04",
-      "ph_ean": "0198153749089"
+      "ph_ean": "0198153749089",
+      "rating": 4.7
     },
     {
       "brand": "Samsung",
@@ -454,7 +461,7 @@
       "price": 599.0,
       "score": 8.5,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Tablet met eigen simkaart, voor ouderen zonder wifi thuis.",
       "specs": {
         "Scherm": "10,9 inch, 2304 x 1440",
@@ -500,7 +507,8 @@
       "synced": "2026-11-17",
       "prev_price": 529.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806097201892"
+      "ph_ean": "8806097201892",
+      "rating": 5.0
     },
     {
       "brand": "Lenovo",
@@ -508,7 +516,7 @@
       "price": 179.01,
       "score": 8.3,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare 11 inch tablet met pen voor eenvoudig dagelijks gebruik.",
       "specs": {
         "Scherm": "10,95 inch, 1920 x 1200",
@@ -570,7 +578,8 @@
       "low_price": 179.01,
       "ph_ean": "0197532685215",
       "prev_price": 189.0,
-      "prev_date": "2026-11-13"
+      "prev_date": "2026-11-13",
+      "rating": 4.5
     },
     {
       "brand": "Xiaomi",
@@ -613,7 +622,8 @@
       },
       "low_price": 479.99,
       "synced": "2026-11-17",
-      "ph_ean": "6932554410575"
+      "ph_ean": "6932554410575",
+      "rating": 4.3
     }
   ],
   "guide": [

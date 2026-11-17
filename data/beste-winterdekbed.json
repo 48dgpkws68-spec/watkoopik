@@ -27,7 +27,7 @@
       "price": 465.02,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Puur eendendons met hoog volume voor warme winternachten.",
       "specs": {
         "Vulling": "100% eendendons",
@@ -80,7 +80,8 @@
       "synced": "2026-11-17",
       "prev_price": 489.5,
       "prev_date": "2026-11-05",
-      "ph_ean": "3800235197028"
+      "ph_ean": "3800235197028",
+      "rating": 5.0
     },
     {
       "brand": "Fabiola",
@@ -88,7 +89,7 @@
       "price": 149.0,
       "score": 9.1,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Lekker zware halfdonzen winterdeken voor een vriendelijke prijs.",
       "specs": {
         "Vulling": "Halfdons (dons en veertjes)",
@@ -141,7 +142,8 @@
       "synced": "2026-11-17",
       "prev_price": 139.0,
       "prev_date": "2026-11-02",
-      "ph_ean": "8720256479932"
+      "ph_ean": "8720256479932",
+      "rating": 4.7
     },
     {
       "brand": "Yumeko",
@@ -183,7 +185,8 @@
       },
       "low_price": 499.0,
       "ph_ean": "8720955194693",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Silently",
@@ -191,7 +194,7 @@
       "price": 369.95,
       "score": 8.9,
       "label": null,
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Ganzendons in twee delen die je in de winter samenknoopt.",
       "specs": {
         "Vulling": "Ganzendons",
@@ -242,7 +245,8 @@
       },
       "low_price": 369.95,
       "synced": "2026-11-17",
-      "ph_ean": "8438476408617"
+      "ph_ean": "8438476408617",
+      "rating": 4.7
     },
     {
       "brand": "Terschellinger",
@@ -250,7 +254,7 @@
       "price": 139.0,
       "score": 8.8,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Zuivere scheerwol die warm houdt en vocht goed afvoert.",
       "specs": {
         "Vulling": "100% IWS scheerwol",
@@ -303,7 +307,8 @@
       "synced": "2026-11-17",
       "prev_price": 129.0,
       "prev_date": "2026-11-02",
-      "ph_ean": "8720256479512"
+      "ph_ean": "8720256479512",
+      "rating": 4.7
     },
     {
       "brand": "Ducky Dons",
@@ -311,7 +316,7 @@
       "price": 209.0,
       "score": 8.7,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Betaalbaar donzen 4-seizoenendekbed van een bekende Nederlandse maker.",
       "specs": {
         "Vulling": "Dons en veertjes",
@@ -362,7 +367,8 @@
       },
       "low_price": 209.0,
       "synced": "2026-11-17",
-      "ph_ean": "8718719724750"
+      "ph_ean": "8718719724750",
+      "rating": 4.6
     },
     {
       "brand": "Ten Cate",
@@ -370,7 +376,7 @@
       "price": 179.99,
       "score": 8.5,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Wollen dekbed in twee delen van een gevestigd Nederlands merk.",
       "specs": {
         "Vulling": "100% scheerwol",
@@ -423,7 +429,8 @@
       "synced": "2026-11-17",
       "prev_price": 239.95,
       "prev_date": "2026-11-01",
-      "ph_ean": "8718734723059"
+      "ph_ean": "8718734723059",
+      "rating": 5.0
     },
     {
       "brand": "Homescapes",
@@ -431,7 +438,7 @@
       "price": 107.99,
       "score": 8.3,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Betaalbare natuurlijke winterdeken met OEKO-TEX- en RDS-keurmerk.",
       "specs": {
         "Vulling": "Eendendons en veren",
@@ -481,7 +488,8 @@
       },
       "low_price": 107.99,
       "synced": "2026-11-17",
-      "ph_ean": "5056280733478"
+      "ph_ean": "5056280733478",
+      "rating": 5.0
     },
     {
       "brand": "Slaapspeciaal",
@@ -489,7 +497,7 @@
       "price": 59.99,
       "score": 8.1,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Synthetisch 4-seizoenendekbed dat warm is en goed wasbaar.",
       "specs": {
         "Vulling": "Synthetische holle vezel",
@@ -541,7 +549,8 @@
       "synced": "2026-11-17",
       "prev_price": 89.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "8719425809946"
+      "ph_ean": "8719425809946",
+      "rating": 4.7
     },
     {
       "brand": "Zydante",
@@ -549,7 +558,7 @@
       "price": 45.95,
       "score": 7.9,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Dikke synthetische winterdeken voor een heel klein budget.",
       "specs": {
         "Vulling": "Synthetische vezel",
@@ -599,7 +608,8 @@
       },
       "low_price": 45.95,
       "synced": "2026-11-17",
-      "ph_ean": "8717752015115"
+      "ph_ean": "8717752015115",
+      "rating": 4.7
     }
   ],
   "guide": [

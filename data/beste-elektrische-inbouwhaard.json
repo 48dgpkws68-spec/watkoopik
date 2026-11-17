@@ -27,7 +27,7 @@
       "price": 279.0,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Optiflame-cassette die een oude schouw zonder gedoe elektrisch maakt.",
       "specs": {
         "Type": "Inbouwcassette",
@@ -69,7 +69,8 @@
       "synced": "2026-11-17",
       "prev_price": 229.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "5011139210951"
+      "ph_ean": "5011139210951",
+      "rating": 4.7
     },
     {
       "brand": "KAMINIO",
@@ -119,7 +120,8 @@
       "synced": "2026-11-17",
       "prev_price": 184.32,
       "prev_date": "2026-11-14",
-      "ph_ean": "4262480470032"
+      "ph_ean": "4262480470032",
+      "rating": 5.0
     },
     {
       "brand": "Livn",
@@ -127,7 +129,7 @@
       "price": 599.0,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Lineaire inbouwhaard van 143 cm voor een moderne tv-wand of cinewall.",
       "specs": {
         "Type": "Lineair 143 cm",
@@ -177,7 +179,7 @@
       "price": 649.0,
       "score": 8.7,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Inbouwhaard met drie glazen zijden voor een hoek of kamerscheider.",
       "specs": {
         "Type": "Inbouw, 3-zijdig glas",
@@ -265,7 +267,8 @@
       },
       "low_price": 299.0,
       "synced": "2026-11-17",
-      "ph_ean": "8717853920141"
+      "ph_ean": "8717853920141",
+      "rating": 5.0
     },
     {
       "brand": "Xaralyn",
@@ -273,7 +276,7 @@
       "price": 299.0,
       "score": 8.5,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "bol-score 2,0 van 5",
       "oneliner": "Hogere cassette met hout-set of zelf te decoreren vuurbed.",
       "specs": {
         "Type": "Inbouwcassette",
@@ -313,7 +316,8 @@
       },
       "low_price": 299.0,
       "synced": "2026-11-17",
-      "ph_ean": "8717853923517"
+      "ph_ean": "8717853923517",
+      "rating": 2.0
     },
     {
       "brand": "Klarstein",
@@ -361,7 +365,8 @@
       },
       "low_price": 276.99,
       "synced": "2026-11-17",
-      "ph_ean": "4060656462573"
+      "ph_ean": "4060656462573",
+      "rating": 5.0
     },
     {
       "brand": "COSTWAY",
@@ -369,7 +374,7 @@
       "price": 198.31,
       "score": 8.3,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Brede lineaire haard van 127 cm met app tegen een lage prijs.",
       "specs": {
         "Type": "Lineair 127 cm",
@@ -455,7 +460,8 @@
       },
       "low_price": 199.0,
       "synced": "2026-11-17",
-      "ph_ean": "8717853922350"
+      "ph_ean": "8717853922350",
+      "rating": 3.0
     },
     {
       "brand": "COSTWAY",
@@ -463,7 +469,7 @@
       "price": 112.99,
       "score": 8.0,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Kleinste en goedkoopste cassette voor een smalle nis.",
       "specs": {
         "Type": "Compacte cassette, 49 cm",

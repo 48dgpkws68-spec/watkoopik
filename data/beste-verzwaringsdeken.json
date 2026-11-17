@@ -25,7 +25,7 @@
       "price": 59.99,
       "score": 9.0,
       "label": "Beste keuze",
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Verzwaringsdeken met glaskralen en hoes die in de wasmachine kan.",
       "specs": {
         "Gewicht": "8 kg",
@@ -88,7 +88,8 @@
       "low_price": 59.99,
       "prev_price": 63.99,
       "prev_date": "2026-11-01",
-      "ph_ean": "8720387894314"
+      "ph_ean": "8720387894314",
+      "rating": 4.5
     },
     {
       "brand": "SleepMed",
@@ -96,7 +97,7 @@
       "price": 31.95,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Betaalbare verzwaringsdeken met hoge kopersscore.",
       "specs": {
         "Gewicht": "7 kg",
@@ -156,7 +157,8 @@
         "2026-11-17": 31.95
       },
       "low_price": 31.95,
-      "ph_ean": "8720195388098"
+      "ph_ean": "8720195388098",
+      "rating": 4.6
     },
     {
       "brand": "CozySense",
@@ -164,7 +166,7 @@
       "price": 97.99,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Groot formaat verzwaringsdeken voor een tweepersoonsbed.",
       "specs": {
         "Gewicht": "9 kg",
@@ -226,7 +228,8 @@
       "low_price": 76.49,
       "prev_price": 92.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "8721325352408"
+      "ph_ean": "8721325352408",
+      "rating": 4.0
     },
     {
       "brand": "Ella",
@@ -234,7 +237,7 @@
       "price": 54.95,
       "score": 8.8,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Katoenen verzwaringsdeken met OEKO-TEX-keurmerk.",
       "specs": {
         "Gewicht": "7 kg",
@@ -296,7 +299,8 @@
       "low_price": 52.5,
       "prev_price": 52.5,
       "prev_date": "2026-10-27",
-      "ph_ean": "8720618853097"
+      "ph_ean": "8720618853097",
+      "rating": 4.7
     },
     {
       "brand": "CozySense",
@@ -304,7 +308,7 @@
       "price": 50.69,
       "score": 8.7,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Verkoelende deken van Tencel voor warme slapers.",
       "specs": {
         "Gewicht": "8 kg",
@@ -366,7 +370,8 @@
       "low_price": 49.99,
       "prev_price": 52.99,
       "prev_date": "2026-11-09",
-      "ph_ean": "8721325352132"
+      "ph_ean": "8721325352132",
+      "rating": 4.5
     },
     {
       "brand": "Latona Blanket",
@@ -374,7 +379,7 @@
       "price": 86.34,
       "score": 8.5,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Ademende katoenen deken in veel gewichten en maten.",
       "specs": {
         "Gewicht": "7 kg",
@@ -404,7 +409,8 @@
       },
       "low_price": 86.34,
       "ph_ean": "7422254675620",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.5
     },
     {
       "brand": "Blumtal",
@@ -412,7 +418,7 @@
       "price": 44.99,
       "score": 8.4,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare 8 kilo deken van een bekend Duits merk.",
       "specs": {
         "Gewicht": "8 kg",
@@ -472,7 +478,8 @@
         "2026-11-17": 44.99
       },
       "low_price": 44.99,
-      "ph_ean": "4251897548984"
+      "ph_ean": "4251897548984",
+      "rating": 4.5
     },
     {
       "brand": "Tuckzy",
@@ -480,7 +487,7 @@
       "price": 34.95,
       "score": 8.2,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Goedkope deken van 8 kilo met topscore van kopers.",
       "specs": {
         "Gewicht": "8 kg",
@@ -542,7 +549,8 @@
       "low_price": 29.95,
       "prev_price": 29.95,
       "prev_date": "2026-11-12",
-      "ph_ean": "8720892746924"
+      "ph_ean": "8720892746924",
+      "rating": 5.0
     },
     {
       "brand": "Latona Blanket",
@@ -550,7 +558,7 @@
       "price": 128.34,
       "score": 8.5,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Zware katoenen tweepersoonsdeken van 200 x 200 cm.",
       "specs": {
         "Gewicht": "12 kg",
@@ -589,7 +597,8 @@
       "synced": "2026-11-17",
       "ph_ean": "7422254675675",
       "prev_price": 106.95,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.5
     },
     {
       "brand": "BLENKZ",
@@ -597,7 +606,7 @@
       "price": 69.95,
       "score": 8.3,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Kinderdeken van 100 x 150 cm voor kinderen van 4 tot 8 jaar.",
       "specs": {
         "Gewicht": "3,5 kg",
@@ -657,7 +666,8 @@
         "2026-11-17": 69.95
       },
       "low_price": 69.95,
-      "ph_ean": "8720865163253"
+      "ph_ean": "8720865163253",
+      "rating": 4.8
     }
   ],
   "guide": [

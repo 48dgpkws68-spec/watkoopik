@@ -67,7 +67,8 @@
       },
       "low_price": 81.89,
       "synced": "2026-11-17",
-      "ph_ean": "4547410489095"
+      "ph_ean": "4547410489095",
+      "rating": 4.6
     },
     {
       "brand": "Fujifilm",
@@ -114,7 +115,8 @@
       },
       "low_price": 129.0,
       "synced": "2026-11-17",
-      "ph_ean": "4547410570656"
+      "ph_ean": "4547410570656",
+      "rating": 5.0
     },
     {
       "brand": "Fujifilm",
@@ -163,7 +165,8 @@
       "synced": "2026-11-17",
       "prev_price": 186.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "4547410529869"
+      "ph_ean": "4547410529869",
+      "rating": 5.0
     },
     {
       "brand": "Polaroid",
@@ -212,7 +215,8 @@
       "synced": "2026-11-17",
       "ph_ean": "9120134283108",
       "prev_price": 123.0,
-      "prev_date": "2026-11-11"
+      "prev_date": "2026-11-11",
+      "rating": 4.0
     },
     {
       "brand": "Fujifilm",
@@ -261,7 +265,8 @@
       "synced": "2026-11-17",
       "prev_price": 92.99,
       "prev_date": "2026-11-12",
-      "ph_ean": "4547410545180"
+      "ph_ean": "4547410545180",
+      "rating": 4.0
     },
     {
       "brand": "Fujifilm",
@@ -308,7 +313,8 @@
       },
       "low_price": 176.0,
       "synced": "2026-11-17",
-      "ph_ean": "4547410462555"
+      "ph_ean": "4547410462555",
+      "rating": 4.3
     },
     {
       "brand": "Polaroid",
@@ -355,7 +361,8 @@
       },
       "low_price": 137.0,
       "synced": "2026-11-17",
-      "ph_ean": "9120134280268"
+      "ph_ean": "9120134280268",
+      "rating": 4.0
     },
     {
       "brand": "Fujifilm",
@@ -404,7 +411,8 @@
       "synced": "2026-11-17",
       "prev_price": 119.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4547410441444"
+      "ph_ean": "4547410441444",
+      "rating": 3.8
     },
     {
       "brand": "Polaroid",
@@ -453,7 +461,8 @@
       "synced": "2026-11-17",
       "prev_price": 89.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "9120096774355"
+      "ph_ean": "9120096774355",
+      "rating": 3.6
     },
     {
       "brand": "Kodak",
@@ -502,7 +511,8 @@
       "synced": "2026-11-17",
       "prev_price": 78.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "0840102197754"
+      "ph_ean": "0840102197754",
+      "rating": 3.3
     }
   ],
   "guide": [

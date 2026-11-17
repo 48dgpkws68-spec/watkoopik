@@ -25,7 +25,7 @@
       "price": 422.31,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Borstel die haren zelf losmaakt, plus een gemotoriseerde dierenhaartool.",
       "specs": {
         "Type": "Steel, draadloos",
@@ -86,7 +86,8 @@
       "low_price": 269.0,
       "prev_price": 388.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "0622356283694"
+      "ph_ean": "0622356283694",
+      "rating": 3.9
     },
     {
       "brand": "Dyson",
@@ -94,7 +95,7 @@
       "price": 499.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "2.100+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Meeste zuigkracht, antiklitborstel en een teller voor opgezogen deeltjes.",
       "specs": {
         "Type": "Steel, draadloos",
@@ -159,7 +160,8 @@
       "low_price": 499.0,
       "prev_price": 799.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "5025155136201"
+      "ph_ean": "5025155136201",
+      "rating": 4.7
     },
     {
       "brand": "Samsung",
@@ -167,7 +169,7 @@
       "price": 244.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Pet Tool, groot reservoir en afspoelbare borstel voor een scherpe prijs.",
       "specs": {
         "Type": "Steel, draadloos",
@@ -228,7 +230,8 @@
       "low_price": 244.99,
       "prev_price": 247.99,
       "prev_date": "2026-11-06",
-      "ph_ean": "8806095108827"
+      "ph_ean": "8806095108827",
+      "rating": 4.4
     },
     {
       "brand": "Miele",
@@ -291,7 +294,8 @@
       "synced": "2026-11-17",
       "prev_price": 345.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4002516794509"
+      "ph_ean": "4002516794509",
+      "rating": 5.0
     },
     {
       "brand": "AEG",
@@ -299,7 +303,7 @@
       "price": 379.0,
       "score": 8.7,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Tot 90 minuten accu en een PetPro+ mondstuk voor de bank.",
       "specs": {
         "Type": "Steel, draadloos",
@@ -360,7 +364,8 @@
       "low_price": 374.49,
       "prev_price": 374.49,
       "prev_date": "2026-11-16",
-      "ph_ean": "7333394093550"
+      "ph_ean": "7333394093550",
+      "rating": 4.2
     },
     {
       "brand": "Bosch",
@@ -368,7 +373,7 @@
       "price": 339.0,
       "score": 8.6,
       "label": null,
-      "reviews": "Gem. 4,3 sterren op bol",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Sledestofzuiger met AirTurbo Pro, XXL-stofzak en 15 meter bereik.",
       "specs": {
         "Type": "Slede, met zak",
@@ -410,7 +415,8 @@
       },
       "low_price": 339.0,
       "synced": "2026-11-17",
-      "ph_ean": "4242005606917"
+      "ph_ean": "4242005606917",
+      "rating": 4.3
     },
     {
       "brand": "Bosch",
@@ -418,7 +424,7 @@
       "price": 279.0,
       "score": 8.4,
       "label": null,
-      "reviews": "560+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "ProAnimal-borstel en een accu die ook in Bosch-gereedschap past.",
       "specs": {
         "Type": "Steel, draadloos",
@@ -481,7 +487,8 @@
       "low_price": 279.0,
       "prev_price": 298.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "4242005307005"
+      "ph_ean": "4242005307005",
+      "rating": 4.8
     },
     {
       "brand": "Miele",
@@ -489,7 +496,7 @@
       "price": 389.0,
       "score": 8.3,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Compacte zakloze slede met turboborstel en apart fijnstofvak.",
       "specs": {
         "Type": "Slede, zonder zak",
@@ -541,7 +548,8 @@
       "synced": "2026-11-17",
       "ph_ean": "4002516384748",
       "prev_price": 395.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "AEG",
@@ -549,7 +557,7 @@
       "price": 146.0,
       "score": 8.2,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Betaalbare slede met turbozuigmond en een zak tegen geurtjes.",
       "specs": {
         "Type": "Slede, met zak",
@@ -610,7 +618,8 @@
       "low_price": 146.0,
       "prev_price": 148.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "7332543828241"
+      "ph_ean": "7332543828241",
+      "rating": 4.2
     },
     {
       "brand": "Bissell",
@@ -618,7 +627,7 @@
       "price": 82.0,
       "score": 7.9,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Draadloze kruimeldief met borstelrol voor haren op bank en autostoel.",
       "specs": {
         "Type": "Kruimeldief, draadloos",
@@ -679,7 +688,8 @@
       "low_price": 79.99,
       "prev_price": 79.99,
       "prev_date": "2026-11-10",
-      "ph_ean": "0011120247541"
+      "ph_ean": "0011120247541",
+      "rating": 4.4
     }
   ],
   "guide": [

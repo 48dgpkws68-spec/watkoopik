@@ -25,7 +25,7 @@
       "price": 449.0,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Een 55 inch QNED van een A-merk voor onder de 500 euro.",
       "specs": {
         "Formaat": "55 inch",
@@ -83,7 +83,8 @@
       "low_price": 443.9,
       "prev_price": 443.9,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806096353134"
+      "ph_ean": "8806096353134",
+      "rating": 5.0
     },
     {
       "brand": "TCL",
@@ -122,7 +123,8 @@
       },
       "low_price": 399.0,
       "ph_ean": "5901292531942",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.4
     },
     {
       "brand": "CHiQ",
@@ -166,7 +168,8 @@
       },
       "low_price": 429.0,
       "synced": "2026-11-17",
-      "ph_ean": "8592344205507"
+      "ph_ean": "8592344205507",
+      "rating": 4.8
     },
     {
       "brand": "Hisense",
@@ -174,7 +177,7 @@
       "price": 399.0,
       "score": 8.8,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Kleurrijke 55 inch Hi-QLED met Dolby Vision en Atmos.",
       "specs": {
         "Formaat": "55 inch",
@@ -232,7 +235,8 @@
       "low_price": 399.0,
       "prev_price": 419.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "6942351431352"
+      "ph_ean": "6942351431352",
+      "rating": 4.8
     },
     {
       "brand": "Samsung",
@@ -240,7 +244,7 @@
       "price": 399.0,
       "score": 8.6,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Betrouwbare 55 inch Samsung met drie jaar extra garantie.",
       "specs": {
         "Formaat": "55 inch",
@@ -298,14 +302,15 @@
       "low_price": 399.0,
       "prev_price": 449.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806099133863"
+      "ph_ean": "8806099133863",
+      "rating": 4.4
     },
     {
       "brand": "Philips",
       "name": "55PUS8001/12",
       "price": 449.0,
       "score": 8.5,
-      "reviews": "Nog geen bol-score",
+      "reviews": "",
       "oneliner": "55 inch 4K-tv met Ambilight en Titan OS onder de 450 euro.",
       "specs": {
         "Formaat": "55 inch",
@@ -349,7 +354,7 @@
       "price": 447.99,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "55 inch QLED met Google TV en 120 Hz-gamestand.",
       "specs": {
         "Formaat": "55 inch",
@@ -397,7 +402,8 @@
       },
       "low_price": 447.99,
       "synced": "2026-11-17",
-      "ph_ean": "6941948705722"
+      "ph_ean": "6941948705722",
+      "rating": 4.4
     },
     {
       "brand": "Samsung",
@@ -405,7 +411,7 @@
       "price": 479.0,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "55 inch Mini LED van Samsung met drie jaar extra garantie.",
       "specs": {
         "Formaat": "55 inch",
@@ -441,7 +447,8 @@
       },
       "low_price": 479.0,
       "synced": "2026-11-17",
-      "ph_ean": "8806099134334"
+      "ph_ean": "8806099134334",
+      "rating": 4.5
     },
     {
       "brand": "TCL",
@@ -449,7 +456,7 @@
       "price": 479.0,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Eenvoudige 55 inch 4K-tv met Google TV voor rond de 400 euro.",
       "specs": {
         "Formaat": "55 inch",
@@ -501,7 +508,8 @@
       "synced": "2026-11-17",
       "prev_price": 399.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "5901292527044"
+      "ph_ean": "5901292527044",
+      "rating": 4.4
     },
     {
       "brand": "Hisense",
@@ -509,7 +517,7 @@
       "price": 486.0,
       "score": 7.9,
       "label": null,
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "Een 65 inch 4K-tv met Dolby Vision voor net onder de 500 euro.",
       "specs": {
         "Formaat": "65 inch",

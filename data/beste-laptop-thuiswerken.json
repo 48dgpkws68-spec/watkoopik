@@ -25,7 +25,7 @@
       "price": 1229.99,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "1.800+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Stil, zuinig en met de beste webcam voor videobellen.",
       "specs": {
         "Processor": "Apple M4",
@@ -65,7 +65,8 @@
       },
       "low_price": 1229.99,
       "synced": "2026-11-17",
-      "ph_ean": "0195949837210"
+      "ph_ean": "0195949837210",
+      "rating": 4.9
     },
     {
       "brand": "Lenovo",
@@ -73,7 +74,7 @@
       "price": 1499.0,
       "score": 8.9,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Zakelijke ThinkPad met topklasse toetsenbord en veel poorten.",
       "specs": {
         "Processor": "Intel Core Ultra 5",
@@ -133,7 +134,8 @@
       "low_price": 1149.0,
       "prev_price": 1299.0,
       "prev_date": "2026-10-29",
-      "ph_ean": "0198156941664"
+      "ph_ean": "0198156941664",
+      "rating": 5.0
     },
     {
       "brand": "Lenovo",
@@ -141,7 +143,7 @@
       "price": 855.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "150+ reviews",
+      "reviews": "",
       "oneliner": "Zakelijke laptop met alle poorten voor minder dan 850 euro.",
       "specs": {
         "Processor": "Intel Core Ultra 5 225U",
@@ -209,7 +211,7 @@
       "price": 1620.57,
       "score": 8.9,
       "label": null,
-      "reviews": "nog weinig reviews op bol",
+      "reviews": "",
       "oneliner": "Premium 13,8 inch laptop met touchscreen en een zuinige Intel-chip.",
       "specs": {
         "Processor": "Intel Core Ultra 5 236V",
@@ -273,7 +275,7 @@
       "price": 1724.99,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "100+ reviews",
+      "reviews": "",
       "oneliner": "Topklasse zakelijke laptop voor wie elke dag thuiswerkt.",
       "specs": {
         "Processor": "Intel Core Ultra 5 226V",
@@ -341,7 +343,7 @@
       "price": 1089.0,
       "score": 8.6,
       "label": null,
-      "reviews": "4,8 sterren op bol",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Omklapbare 14 inch laptop met OLED-touchscreen voor werk en tabletstand.",
       "specs": {
         "Processor": "Intel Core 7",
@@ -390,7 +392,8 @@
       "synced": "2026-11-17",
       "prev_price": 1199.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "0199485111728"
+      "ph_ean": "0199485111728",
+      "rating": 4.8
     },
     {
       "brand": "ASUS",
@@ -398,7 +401,7 @@
       "price": 949.0,
       "score": 8.6,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Lichtste laptop in de lijst met een accu voor twee dagen.",
       "specs": {
         "Processor": "Snapdragon X",
@@ -458,7 +461,8 @@
       "low_price": 949.0,
       "prev_price": 1199.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "4711636506687"
+      "ph_ean": "4711636506687",
+      "rating": 4.7
     },
     {
       "brand": "HP",
@@ -466,7 +470,7 @@
       "price": 1069.75,
       "score": 8.4,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "",
       "oneliner": "Groot 16 inch scherm met numeriek toetsenblok voor cijferwerk.",
       "specs": {
         "Processor": "Intel Core Ultra 5",
@@ -518,7 +522,7 @@
       "price": 979.0,
       "score": 8.3,
       "label": null,
-      "reviews": "5/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Ruime 16 inch laptop met moderne AMD-chip voor een nette prijs.",
       "specs": {
         "Processor": "AMD Ryzen AI 5 330",
@@ -574,7 +578,8 @@
       "low_price": 909.0,
       "prev_price": 919.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "0199275385353"
+      "ph_ean": "0199275385353",
+      "rating": 5.0
     },
     {
       "brand": "Lenovo",
@@ -582,7 +587,7 @@
       "price": 1179.0,
       "score": 8.5,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "",
       "oneliner": "Dunne OLED-laptop met Thunderbolt en een stille Lunar Lake-chip.",
       "specs": {
         "Processor": "Intel Core Ultra 7 258V",

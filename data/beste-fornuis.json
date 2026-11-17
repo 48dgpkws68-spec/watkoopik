@@ -25,7 +25,7 @@
       "price": 721.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "90+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Betrouwbaar inductiefornuis met 3D hetelucht en ruime oven.",
       "specs": {
         "Kookplaat": "Inductie, 4 zones",
@@ -82,7 +82,8 @@
       "low_price": 721.0,
       "prev_price": 729.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "4242005042722"
+      "ph_ean": "4242005042722",
+      "rating": 4.8
     },
     {
       "brand": "Inventum",
@@ -90,7 +91,7 @@
       "price": 588.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Compact inductiefornuis van 50 cm met verrassend grote oven.",
       "specs": {
         "Kookplaat": "Inductie, 4 zones",
@@ -147,7 +148,8 @@
       "low_price": 588.0,
       "prev_price": 621.0,
       "prev_date": "2026-11-06",
-      "ph_ean": "8712876172737"
+      "ph_ean": "8712876172737",
+      "rating": 4.7
     },
     {
       "brand": "SMEG",
@@ -155,7 +157,7 @@
       "price": 1499.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "Breed inductiefornuis van 90 cm in mat zwart met hydrolysereiniging.",
       "specs": {
         "Kookplaat": "Inductie, 4 zones",
@@ -262,7 +264,8 @@
       "synced": "2026-11-17",
       "ph_ean": "7332543665259",
       "prev_price": 819.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     },
     {
       "brand": "Boretti",
@@ -270,7 +273,7 @@
       "price": 1869.0,
       "score": 8.7,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "Italiaans gasfornuis van 90 cm met vijf branders en grote oven.",
       "specs": {
         "Kookplaat": "Gas, 5 branders",
@@ -334,7 +337,7 @@
       "price": 649.0,
       "score": 8.6,
       "label": null,
-      "reviews": "70+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Inductiefornuis van 60 cm met ruime oven tegen een scherpe prijs.",
       "specs": {
         "Kookplaat": "Inductie, 4 zones",
@@ -391,7 +394,8 @@
       "low_price": 629.0,
       "prev_price": 629.0,
       "prev_date": "2026-10-24",
-      "ph_ean": "8712876172041"
+      "ph_ean": "8712876172041",
+      "rating": 4.1
     },
     {
       "brand": "ETNA",
@@ -399,7 +403,7 @@
       "price": 718.0,
       "score": 8.4,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Wit inductiefornuis met automatische pandetectie en ruime oven.",
       "specs": {
         "Kookplaat": "Inductie, 4 zones",
@@ -462,7 +466,7 @@
       "price": 378.0,
       "score": 8.3,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Betaalbaar gasfornuis van 50 cm met elektrische heteluchtoven.",
       "specs": {
         "Kookplaat": "Gas, 4 branders",
@@ -519,7 +523,8 @@
       "low_price": 378.0,
       "prev_price": 399.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8712876173079"
+      "ph_ean": "8712876173079",
+      "rating": 4.3
     },
     {
       "brand": "AEG",
@@ -527,7 +532,7 @@
       "price": 539.0,
       "score": 8.2,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Gas-elektrisch fornuis van 60 cm met grote AEG-oven.",
       "specs": {
         "Kookplaat": "Gas, 4 branders",
@@ -583,7 +588,8 @@
       "low_price": 539.0,
       "prev_price": 549.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "7333394042305"
+      "ph_ean": "7333394042305",
+      "rating": 4.3
     },
     {
       "brand": "Siemens",
@@ -591,7 +597,7 @@
       "price": 642.0,
       "score": 8.1,
       "label": null,
-      "reviews": "Beoordeeld met 4,5 op bol",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Keramisch fornuis met hetelucht-oven voor wie zijn huidige pannen wil houden.",
       "specs": {
         "Kookplaat": "Keramisch, 4 zones",
@@ -639,7 +645,8 @@
       },
       "low_price": 642.0,
       "synced": "2026-11-17",
-      "ph_ean": "4242003807279"
+      "ph_ean": "4242003807279",
+      "rating": 4.5
     }
   ],
   "guide": [

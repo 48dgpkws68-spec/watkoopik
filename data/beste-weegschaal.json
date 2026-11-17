@@ -24,7 +24,7 @@
       "price": 74.99,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "1.800+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Overzichtelijke wifi-weegschaal met betrouwbare lichaamsanalyse.",
       "specs": {
         "Metingen": "13",
@@ -88,7 +88,8 @@
       "low_price": 74.99,
       "prev_price": 97.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "3700546708190"
+      "ph_ean": "3700546708190",
+      "rating": 4.0
     },
     {
       "brand": "Renpho",
@@ -96,7 +97,7 @@
       "price": 59.99,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "4,4 sterren op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Wifi-weegschaal met 18 metingen en kleurenscherm voor een middenprijs.",
       "specs": {
         "Metingen": "18",
@@ -141,7 +142,8 @@
       "synced": "2026-11-17",
       "prev_price": 69.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "4897122208881"
+      "ph_ean": "4897122208881",
+      "rating": 4.4
     },
     {
       "brand": "Withings",
@@ -149,7 +151,7 @@
       "price": 299.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Topmodel met handgreep voor segmentmetingen per lichaamsdeel.",
       "specs": {
         "Metingen": "15+",
@@ -213,7 +215,8 @@
       "low_price": 299.0,
       "prev_price": 319.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "3700546707957"
+      "ph_ean": "3700546707957",
+      "rating": 4.0
     },
     {
       "brand": "Garmin",
@@ -221,7 +224,7 @@
       "price": 119.0,
       "score": 8.9,
       "label": null,
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Logische keuze voor wie al een Garmin-horloge draagt.",
       "specs": {
         "Metingen": "8",
@@ -285,7 +288,8 @@
       "low_price": 119.0,
       "prev_price": 125.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "0753759257507"
+      "ph_ean": "0753759257507",
+      "rating": 4.2
     },
     {
       "brand": "Withings",
@@ -293,7 +297,7 @@
       "price": 125.0,
       "score": 8.9,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Uitgebreide Withings met extra inzichten zoals vaatleeftijd.",
       "specs": {
         "Metingen": "13+",
@@ -357,7 +361,8 @@
       "low_price": 125.0,
       "prev_price": 148.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "3700546708053"
+      "ph_ean": "3700546708053",
+      "rating": 4.0
     },
     {
       "brand": "Xiaomi",
@@ -365,7 +370,7 @@
       "price": 28.66,
       "score": 8.4,
       "label": null,
-      "reviews": "7.900+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Goedkoopste serieuze lichaamsanalyse met Bluetooth.",
       "specs": {
         "Metingen": "13",
@@ -429,7 +434,8 @@
       "low_price": 24.95,
       "prev_price": 28.95,
       "prev_date": "2026-11-13",
-      "ph_ean": "6941812751985"
+      "ph_ean": "6941812751985",
+      "rating": 4.4
     },
     {
       "brand": "Renpho",
@@ -437,7 +443,7 @@
       "price": 29.99,
       "score": 8.2,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "",
       "oneliner": "Budgetweegschaal met 13 metingen, babymodus en atletenmodus.",
       "specs": {
         "Metingen": "13",
@@ -485,7 +491,7 @@
       "price": 49.99,
       "score": 8.1,
       "label": null,
-      "reviews": "2.100+ reviews",
+      "reviews": "",
       "oneliner": "Strakke weegschaal met wifi voor Huawei-gebruikers.",
       "specs": {
         "Metingen": "11",
@@ -555,7 +561,7 @@
       "price": 39.99,
       "score": 7.9,
       "label": null,
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Betaalbare Bluetooth-weegschaal met groot kleurenscherm.",
       "specs": {
         "Metingen": "15",
@@ -597,7 +603,8 @@
       },
       "low_price": 39.99,
       "synced": "2026-11-17",
-      "ph_ean": "0194644060381"
+      "ph_ean": "0194644060381",
+      "rating": 4.1
     },
     {
       "brand": "Beurer",
@@ -605,7 +612,7 @@
       "price": 49.0,
       "score": 8.3,
       "label": null,
-      "reviews": "1.000+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Duitse lichaamsanalyseweegschaal met app en groot display.",
       "specs": {
         "Metingen": "8",
@@ -669,7 +676,8 @@
       "low_price": 45.99,
       "prev_price": 57.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "4211125749385"
+      "ph_ean": "4211125749385",
+      "rating": 4.3
     }
   ],
   "guide": [

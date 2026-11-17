@@ -25,7 +25,7 @@
       "price": 999.0,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Allrounder met helder evo-paneel, 144 Hz en vier HDMI 2.1-poorten.",
       "specs": {
         "Formaat": "55 inch",
@@ -87,7 +87,8 @@
       "low_price": 999.0,
       "prev_price": 1040.9,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806096361924"
+      "ph_ean": "8806096361924",
+      "rating": 5.0
     },
     {
       "brand": "LG",
@@ -95,7 +96,7 @@
       "price": 799.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Volwaardige OLED met 120 Hz voor een middenklasseprijs.",
       "specs": {
         "Formaat": "55 inch",
@@ -159,7 +160,8 @@
       "low_price": 799.0,
       "prev_price": 826.5,
       "prev_date": "2026-11-04",
-      "ph_ean": "8806096360576"
+      "ph_ean": "8806096360576",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -167,7 +169,7 @@
       "price": 1949.0,
       "score": 9.3,
       "label": "Beste premium",
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Helderste QD-OLED met mat scherm dat reflecties wegfiltert.",
       "specs": {
         "Formaat": "65 inch",
@@ -231,7 +233,8 @@
       "low_price": 1949.0,
       "prev_price": 1999.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8806099136116"
+      "ph_ean": "8806099136116",
+      "rating": 4.5
     },
     {
       "brand": "LG",
@@ -239,7 +242,7 @@
       "price": 1298.0,
       "score": 9.2,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Gallery-ontwerp met extra helder paneel voor aan de muur.",
       "specs": {
         "Formaat": "55 inch",
@@ -301,7 +304,8 @@
       "low_price": 1298.0,
       "prev_price": 1299.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806096363683"
+      "ph_ean": "8806096363683",
+      "rating": 4.6
     },
     {
       "brand": "Sony",
@@ -309,7 +313,7 @@
       "price": 1299.0,
       "score": 8.9,
       "label": null,
-      "reviews": "5,0/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Sony's nieuwe OLED met natuurlijke beeldverwerking.",
       "specs": {
         "Formaat": "55 inch",
@@ -364,7 +368,8 @@
       "low_price": 1299.0,
       "prev_price": 1499.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "4548736182851"
+      "ph_ean": "4548736182851",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -372,7 +377,7 @@
       "price": 1399.0,
       "score": 9.0,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "OLED met driezijdig Ambilight dat het beeld de kamer in trekt.",
       "specs": {
         "Formaat": "55 inch",
@@ -426,7 +431,7 @@
       "price": 1249.0,
       "score": 8.8,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "",
       "oneliner": "Nieuw Samsung-model uit 2026 met heldere OLED en snelle Tizen.",
       "specs": {
         "Formaat": "55 inch",
@@ -532,14 +537,15 @@
       },
       "low_price": 749.0,
       "synced": "2026-11-17",
-      "ph_ean": "8806096361948"
+      "ph_ean": "8806096361948",
+      "rating": 4.8
     },
     {
       "brand": "Samsung",
       "name": "QE42S93H 42 inch",
       "price": 1049.0,
       "score": 8.4,
-      "reviews": "Nog geen bol-score",
+      "reviews": "",
       "oneliner": "Compacte 42 inch OLED voor slaapkamer, bureau of kleine woonkamer.",
       "specs": {
         "Formaat": "42 inch",
@@ -615,7 +621,8 @@
       },
       "low_price": 823.0,
       "ph_ean": "8718863046753",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.7
     }
   ],
   "guide": [

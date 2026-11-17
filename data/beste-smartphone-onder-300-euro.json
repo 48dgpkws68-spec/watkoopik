@@ -26,7 +26,7 @@
       "price": 289.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Groot AMOLED-scherm, telelens en zes jaar updates onder 300 euro.",
       "specs": {
         "Scherm": "6,77 inch AMOLED, 120 Hz",
@@ -62,7 +62,8 @@
       },
       "low_price": 289.0,
       "synced": "2026-11-17",
-      "ph_ean": "6974434224346"
+      "ph_ean": "6974434224346",
+      "rating": 4.8
     },
     {
       "brand": "Honor",
@@ -107,7 +108,8 @@
       },
       "low_price": 281.7,
       "synced": "2026-11-17",
-      "ph_ean": "6936520867585"
+      "ph_ean": "6936520867585",
+      "rating": 4.0
     },
     {
       "brand": "Samsung",
@@ -115,7 +117,7 @@
       "price": 299.99,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "2.300+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Zes Android-versies, IP67 en Samsung-ecosysteem voor rond 277 euro.",
       "specs": {
         "Scherm": "6,7 inch Super AMOLED, 120 Hz",
@@ -154,7 +156,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8806095984438",
       "prev_price": 276.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.4
     },
     {
       "brand": "Motorola",
@@ -198,7 +201,8 @@
       "ph_ean": "0840493617213",
       "synced": "2026-11-17",
       "prev_price": 239.0,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.4
     },
     {
       "brand": "Google",
@@ -206,7 +210,7 @@
       "price": 259.0,
       "score": 8.6,
       "label": null,
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Beste camera en updates tot 2031 voor 259 euro.",
       "specs": {
         "Scherm": "6,1 inch OLED, 120 Hz",
@@ -267,7 +271,8 @@
         "2026-11-17": 259.0
       },
       "low_price": 259.0,
-      "ph_ean": "0840244707941"
+      "ph_ean": "0840244707941",
+      "rating": 4.1
     },
     {
       "brand": "Nothing",
@@ -312,7 +317,8 @@
       },
       "low_price": 269.0,
       "synced": "2026-11-17",
-      "ph_ean": "6974434227064"
+      "ph_ean": "6974434227064",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -320,7 +326,7 @@
       "price": 255.0,
       "score": 8.4,
       "label": null,
-      "reviews": "1.900+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Samsung met zes Android-versies en IP67 voor rond 244 euro.",
       "specs": {
         "Scherm": "6,7 inch Super AMOLED, 120 Hz",
@@ -374,7 +380,8 @@
       "synced": "2026-11-17",
       "prev_price": 254.9,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806097072829"
+      "ph_ean": "8806097072829",
+      "rating": 4.5
     },
     {
       "brand": "Motorola",
@@ -382,7 +389,7 @@
       "price": 259.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Waterdichte Motorola met 256 GB en een grote accu voor rond 239 euro.",
       "specs": {
         "Scherm": "6,72 inch lcd, 120 Hz",
@@ -421,7 +428,8 @@
       "synced": "2026-11-17",
       "ph_ean": "0840023292316",
       "prev_price": 239.95,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.4
     },
     {
       "brand": "Honor",
@@ -429,7 +437,7 @@
       "price": 269.0,
       "score": 8.2,
       "label": null,
-      "reviews": "140+ reviews",
+      "reviews": "",
       "oneliner": "Grootste accu van 6.520 mAh en 108 MP camera.",
       "specs": {
         "Scherm": "6,6 inch AMOLED, 120 Hz",
@@ -475,7 +483,7 @@
       "price": 199.0,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Goedkoopste Samsung met 5G, AMOLED-scherm en zes jaar updates.",
       "specs": {
         "Scherm": "6,7 inch Super AMOLED, 90 Hz",
@@ -523,7 +531,8 @@
       "synced": "2026-11-17",
       "prev_price": 219.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8806097640257"
+      "ph_ean": "8806097640257",
+      "rating": 4.7
     }
   ],
   "guide": [

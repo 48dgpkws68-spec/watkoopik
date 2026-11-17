@@ -26,7 +26,7 @@
       "price": 1366.65,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "1.400+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "De OLED-allrounder met vier HDMI 2.1-poorten en 144 Hz.",
       "specs": {
         "Paneel": "OLED evo",
@@ -92,7 +92,8 @@
       "low_price": 1366.63,
       "prev_price": 1366.63,
       "prev_date": "2026-11-16",
-      "ph_ean": "8806096363430"
+      "ph_ean": "8806096363430",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -100,7 +101,7 @@
       "price": 1949.0,
       "score": 9.3,
       "label": "Beste premium",
-      "reviews": "180+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "QD-OLED met antireflectie en de hoogste helderheid in deze lijst.",
       "specs": {
         "Paneel": "QD-OLED",
@@ -164,7 +165,8 @@
       "low_price": 1949.0,
       "prev_price": 1999.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8806099136116"
+      "ph_ean": "8806099136116",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -172,7 +174,7 @@
       "price": 1449.0,
       "score": 9.1,
       "label": null,
-      "reviews": "320+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "OLED met driezijdig Ambilight en Google TV.",
       "specs": {
         "Paneel": "OLED",
@@ -235,7 +237,8 @@
       "low_price": 1449.0,
       "prev_price": 1499.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8718863046715"
+      "ph_ean": "8718863046715",
+      "rating": 5.0
     },
     {
       "brand": "Sony",
@@ -243,7 +246,7 @@
       "price": 1377.0,
       "score": 9.0,
       "label": null,
-      "reviews": "260+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Mini LED met Sony's beeldverwerking en Google TV.",
       "specs": {
         "Paneel": "Mini LED (QLED)",
@@ -306,7 +309,8 @@
       "low_price": 1229.0,
       "prev_price": 1314.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "4548736171350"
+      "ph_ean": "4548736171350",
+      "rating": 4.6
     },
     {
       "brand": "TCL",
@@ -348,7 +352,8 @@
       },
       "low_price": 549.0,
       "ph_ean": "5901292525828",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -356,7 +361,7 @@
       "price": 949.0,
       "score": 8.7,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Neo QLED-tv uit 2026 met Mini LED en Tizen.",
       "specs": {
         "Paneel": "Neo QLED (Mini LED)",
@@ -408,7 +413,8 @@
       "synced": "2026-11-17",
       "prev_price": 999.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806099129606"
+      "ph_ean": "8806099129606",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -416,7 +422,7 @@
       "price": 815.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,0 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Samsung Mini LED met tot 144 Hz en vier HDMI 2.1-poorten.",
       "specs": {
         "Paneel": "Mini LED",
@@ -457,14 +463,15 @@
       "synced": "2026-11-17",
       "prev_price": 799.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8806099134341"
+      "ph_ean": "8806099134341",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
       "name": "65PQS8501/12 Ambilight",
       "price": 612.03,
       "score": 8.3,
-      "reviews": "reviews op bol",
+      "reviews": "",
       "oneliner": "Betaalbare QLED met driezijdige Ambilight uit 2026.",
       "specs": {
         "Paneel": "QLED",
@@ -569,7 +576,8 @@
       },
       "low_price": 509.0,
       "synced": "2026-11-17",
-      "ph_ean": "5901292526986"
+      "ph_ean": "5901292526986",
+      "rating": 4.4
     },
     {
       "brand": "Samsung",
@@ -577,7 +585,7 @@
       "price": 579.0,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,8 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare Mini-LED van Samsung met Tizen en HDMI 2.1.",
       "specs": {
         "Paneel": "Mini-LED",
@@ -631,7 +639,8 @@
       "synced": "2026-11-17",
       "prev_price": 699.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806099134624"
+      "ph_ean": "8806099134624",
+      "rating": 4.5
     }
   ],
   "guide": [

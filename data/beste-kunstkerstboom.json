@@ -29,7 +29,7 @@
       "price": 89.5,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Volle, brede klassieker die je in tien minuten opzet.",
       "specs": {
         "Hoogte": "210 cm",
@@ -71,7 +71,8 @@
       "synced": "2026-11-17",
       "prev_price": 92.75,
       "prev_date": "2026-11-13",
-      "ph_ean": "8718532241526"
+      "ph_ean": "8718532241526",
+      "rating": 4.7
     },
     {
       "brand": "Royal Christmas",
@@ -79,7 +80,7 @@
       "price": 359.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Breed premium model met PE-naalden en ingebouwde warmwitte LED.",
       "specs": {
         "Hoogte": "210 cm",
@@ -120,7 +121,8 @@
       },
       "low_price": 359.0,
       "synced": "2026-11-17",
-      "ph_ean": "8717591890164"
+      "ph_ean": "8717591890164",
+      "rating": 5.0
     },
     {
       "brand": "Triumph Tree",
@@ -128,7 +130,7 @@
       "price": 59.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Natuurlijk ogende boom met bruine takjes en vijf jaar garantie.",
       "specs": {
         "Hoogte": "185 cm",
@@ -170,7 +172,8 @@
       "synced": "2026-11-17",
       "prev_price": 69.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "0756770414904"
+      "ph_ean": "0756770414904",
+      "rating": 4.5
     },
     {
       "brand": "Triumph Tree",
@@ -178,7 +181,7 @@
       "price": 99.99,
       "score": 8.9,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Smalle premium boom met omhoog staande takken en 10 jaar garantie.",
       "specs": {
         "Hoogte": "185 cm",
@@ -219,7 +222,8 @@
       "synced": "2026-11-17",
       "prev_price": 105.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720967792108"
+      "ph_ean": "8720967792108",
+      "rating": 5.0
     },
     {
       "brand": "Everlands",
@@ -227,7 +231,7 @@
       "price": 121.0,
       "score": 8.7,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "De populaire Grandis Fir met verlichting al in de takken.",
       "specs": {
         "Hoogte": "180 cm",
@@ -269,7 +273,8 @@
       "synced": "2026-11-17",
       "prev_price": 119.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720093398496"
+      "ph_ean": "8720093398496",
+      "rating": 4.1
     },
     {
       "brand": "Royal Christmas",
@@ -277,7 +282,7 @@
       "price": 89.0,
       "score": 8.6,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Stevige PVC-boom met spitse takken die veel versiering dragen.",
       "specs": {
         "Hoogte": "180 cm",
@@ -319,7 +324,8 @@
       "synced": "2026-11-17",
       "prev_price": 84.55,
       "prev_date": "2026-11-14",
-      "ph_ean": "8717931854375"
+      "ph_ean": "8717931854375",
+      "rating": 4.5
     },
     {
       "brand": "Black Box Trees",
@@ -327,7 +333,7 @@
       "price": 31.59,
       "score": 8.5,
       "label": null,
-      "reviews": "70+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Goedkope, slanke pilaarboom voor kleine kamers en hallen.",
       "specs": {
         "Hoogte": "215 cm",
@@ -369,7 +375,8 @@
       "synced": "2026-11-17",
       "prev_price": 33.19,
       "prev_date": "2026-11-16",
-      "ph_ean": "8720967840229"
+      "ph_ean": "8720967840229",
+      "rating": 4.8
     },
     {
       "brand": "Triumph Tree",
@@ -377,7 +384,7 @@
       "price": 284.0,
       "score": 8.4,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Donkergroene borstelnaaldboom met ingebouwde warmwitte LED.",
       "specs": {
         "Hoogte": "215 cm",
@@ -418,7 +425,8 @@
       "synced": "2026-11-17",
       "prev_price": 356.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8712799346147"
+      "ph_ean": "8712799346147",
+      "rating": 4.9
     },
     {
       "brand": "Everlands",
@@ -426,7 +434,7 @@
       "price": 50.99,
       "score": 8.2,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Hoge, slanke boom met sneeuwlaagje en 12 jaar garantie.",
       "specs": {
         "Hoogte": "240 cm",
@@ -465,7 +473,8 @@
       },
       "low_price": 50.99,
       "synced": "2026-11-17",
-      "ph_ean": "8718533661408"
+      "ph_ean": "8718533661408",
+      "rating": 4.6
     },
     {
       "brand": "Triumph Tree",
@@ -473,7 +482,7 @@
       "price": 105.98,
       "score": 8.0,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Smalle borstelnaaldboom met een natuurlijke, donkere uitstraling.",
       "specs": {
         "Hoogte": "185 cm",
@@ -515,7 +524,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8718861346312",
       "prev_price": 106.39,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.9
     }
   ],
   "guide": [

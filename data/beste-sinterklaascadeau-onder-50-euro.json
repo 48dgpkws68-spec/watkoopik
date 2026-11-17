@@ -27,7 +27,7 @@
       "price": 34.98,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Negen kleine LEGO-plantjes die nooit water nodig hebben.",
       "specs": {
         "Soort": "Bouwpakket",
@@ -66,7 +66,8 @@
       "synced": "2026-11-17",
       "prev_price": 34.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "5702017567570"
+      "ph_ean": "5702017567570",
+      "rating": 4.8
     },
     {
       "brand": "Days of Wonder",
@@ -74,7 +75,7 @@
       "price": 29.49,
       "score": 9.1,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Treinspel door Europa dat ook nieuwe spelers snel oppakken.",
       "specs": {
         "Soort": "Bordspel",
@@ -113,7 +114,8 @@
       "synced": "2026-11-17",
       "ph_ean": "0824968717523",
       "prev_price": 33.36,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "Beurer",
@@ -121,7 +123,7 @@
       "price": 29.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Zacht elektrisch warmtekussen voor koude decemberavonden.",
       "specs": {
         "Soort": "Warmtekussen",
@@ -158,7 +160,8 @@
       },
       "low_price": 29.99,
       "synced": "2026-11-17",
-      "ph_ean": "4211125200435"
+      "ph_ean": "4211125200435",
+      "rating": 5.0
     },
     {
       "brand": "JBL",
@@ -166,7 +169,7 @@
       "price": 45.75,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Waterdichte minispeaker met verrassend vol geluid.",
       "specs": {
         "Soort": "Bluetooth speaker",
@@ -203,7 +206,8 @@
       },
       "low_price": 45.75,
       "synced": "2026-11-17",
-      "ph_ean": "1200130034282"
+      "ph_ean": "1200130034282",
+      "rating": 4.7
     },
     {
       "brand": "Apple",
@@ -211,7 +215,7 @@
       "price": 31.99,
       "score": 8.8,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Kleine tracker zodat sleutels of tas nooit meer kwijt zijn.",
       "specs": {
         "Soort": "Gadget",
@@ -248,7 +252,8 @@
       },
       "low_price": 31.99,
       "synced": "2026-11-17",
-      "ph_ean": "0195950667363"
+      "ph_ean": "0195950667363",
+      "rating": 4.6
     },
     {
       "brand": "Rituals",
@@ -256,7 +261,7 @@
       "price": 44.5,
       "score": 8.7,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Luxe verpakte verzorgingsset met een zachte geur van kersenbloesem.",
       "specs": {
         "Soort": "Verzorgingsset",
@@ -295,7 +300,8 @@
       "synced": "2026-11-17",
       "prev_price": 42.5,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719134202038"
+      "ph_ean": "8719134202038",
+      "rating": 4.9
     },
     {
       "brand": "Libellud",
@@ -303,7 +309,7 @@
       "price": 25.49,
       "score": 8.6,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Creatief kaartspel met dromerige tekeningen voor gezellige avonden.",
       "specs": {
         "Soort": "Gezelschapsspel",
@@ -342,7 +348,8 @@
       "synced": "2026-11-17",
       "ph_ean": "3760032260076",
       "prev_price": 29.74,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Bialetti",
@@ -350,7 +357,7 @@
       "price": 30.95,
       "score": 8.5,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Klassieke Italiaanse espressopot die jarenlang meegaat.",
       "specs": {
         "Soort": "Espressopot",
@@ -389,7 +396,8 @@
       "synced": "2026-11-17",
       "prev_price": 31.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8006363011631"
+      "ph_ean": "8006363011631",
+      "rating": 4.6
     },
     {
       "brand": "Anker",
@@ -397,7 +405,7 @@
       "price": 43.99,
       "score": 8.3,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Krachtige powerbank met vaste kabel, dus nooit meer een snoer vergeten.",
       "specs": {
         "Soort": "Gadget",
@@ -434,7 +442,8 @@
       },
       "low_price": 43.99,
       "synced": "2026-11-17",
-      "ph_ean": "0194644043711"
+      "ph_ean": "0194644043711",
+      "rating": 4.4
     },
     {
       "brand": "Yankee Candle",
@@ -442,7 +451,7 @@
       "price": 31.09,
       "score": 8.1,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Grote geurkaars met de frisse geur van een kerstboom.",
       "specs": {
         "Soort": "Geurkaars",
@@ -481,7 +490,8 @@
       "synced": "2026-11-17",
       "prev_price": 31.15,
       "prev_date": "2026-11-16",
-      "ph_ean": "5038581153957"
+      "ph_ean": "5038581153957",
+      "rating": 4.3
     }
   ],
   "guide": [

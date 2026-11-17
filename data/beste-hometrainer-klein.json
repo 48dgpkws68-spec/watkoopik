@@ -25,7 +25,7 @@
       "price": 139.0,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Opvouwbare X-bike met rugleuning en stevig vliegwiel.",
       "specs": {
         "Type": "X-bike met rugleuning",
@@ -83,7 +83,8 @@
       "low_price": 139.0,
       "ph_ean": "8717842028919",
       "prev_price": 159.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.3
     },
     {
       "brand": "MERACH",
@@ -91,7 +92,7 @@
       "price": 149.99,
       "score": 8.9,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Vouwfiets met 16 standen, weerstandsbanden en hoge draaglast.",
       "specs": {
         "Type": "X-bike, 4-in-1",
@@ -149,7 +150,8 @@
       "low_price": 149.99,
       "prev_price": 169.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "6976326386279"
+      "ph_ean": "6976326386279",
+      "rating": 4.3
     },
     {
       "brand": "Tunturi",
@@ -157,7 +159,7 @@
       "price": 119.0,
       "score": 8.8,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Klassieke vouwfiets van Tunturi zonder rugleuning, extra compact.",
       "specs": {
         "Type": "X-bike",
@@ -215,7 +217,8 @@
       "low_price": 119.0,
       "ph_ean": "8717842028902",
       "prev_price": 145.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.3
     },
     {
       "brand": "Luxari",
@@ -257,7 +260,8 @@
       },
       "low_price": 159.95,
       "synced": "2026-11-17",
-      "ph_ean": "8720648581038"
+      "ph_ean": "8720648581038",
+      "rating": 4.7
     },
     {
       "brand": "MERACH",
@@ -265,7 +269,7 @@
       "price": 119.99,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Lichtste vouwfiets met 16 standen en hoge beoordeling.",
       "specs": {
         "Type": "X-bike",
@@ -323,7 +327,8 @@
       "low_price": 119.99,
       "prev_price": 129.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "6978235144896"
+      "ph_ean": "6978235144896",
+      "rating": 4.9
     },
     {
       "brand": "Kingsmith",
@@ -331,7 +336,7 @@
       "price": 499.0,
       "score": 8.5,
       "label": "Beste premium",
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "Opvouwbare bureaufiets met eigen werkblad voor thuiswerkers.",
       "specs": {
         "Type": "Deskbike met werkblad",
@@ -397,7 +402,7 @@
       "price": 112.0,
       "score": 8.4,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Compacte X-bike met zwaar vliegwiel van 4 kilo.",
       "specs": {
         "Type": "X-bike",
@@ -455,7 +460,8 @@
       "low_price": 112.0,
       "prev_price": 163.99,
       "prev_date": "2026-10-31",
-      "ph_ean": "5902308232501"
+      "ph_ean": "5902308232501",
+      "rating": 4.9
     },
     {
       "brand": "Tunturi",
@@ -463,7 +469,7 @@
       "price": 104.0,
       "score": 8.3,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Opvouwbare bureaufiets zonder stuur voor onder je bureau.",
       "specs": {
         "Type": "Deskbike",
@@ -521,7 +527,8 @@
       "low_price": 104.0,
       "prev_price": 129.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8717842031001"
+      "ph_ean": "8717842031001",
+      "rating": 4.3
     },
     {
       "brand": "Zipro",
@@ -529,7 +536,7 @@
       "price": 89.99,
       "score": 8.1,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Betaalbare X-bike met Bluetooth en compact opbergformaat.",
       "specs": {
         "Type": "X-bike",
@@ -587,7 +594,8 @@
       "low_price": 89.99,
       "ph_ean": "5902659848246",
       "prev_price": 108.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.0
     },
     {
       "brand": "Trex Sport",
@@ -595,7 +603,7 @@
       "price": 129.89,
       "score": 7.9,
       "label": null,
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "Goedkope opvouwbare X-bike met magneetrem en telefoonhouder.",
       "specs": {
         "Type": "X-bike",

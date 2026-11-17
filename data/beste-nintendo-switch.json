@@ -27,7 +27,7 @@
       "price": 477.0,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "De losse Switch 2: nieuwste console, zelf je games kiezen.",
       "specs": {
         "Model": "Switch 2",
@@ -64,7 +64,8 @@
       "ph_ean": "0045496321444",
       "synced": "2026-11-17",
       "prev_price": 519.95,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.8
     },
     {
       "brand": "Nintendo",
@@ -72,7 +73,7 @@
       "price": 535.0,
       "score": 9.3,
       "label": "Beste premium",
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Switch 2 met Mario Kart World en 3 maanden online.",
       "specs": {
         "Model": "Switch 2",
@@ -109,7 +110,8 @@
       "ph_ean": "0045496337469",
       "synced": "2026-11-17",
       "prev_price": 549.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "Nintendo",
@@ -152,7 +154,8 @@
       },
       "low_price": 229.0,
       "ph_ean": "0045496337506",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "Nintendo",
@@ -195,7 +198,8 @@
       },
       "low_price": 348.0,
       "ph_ean": "0045496453435",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "Nintendo",
@@ -203,7 +207,7 @@
       "price": 529.0,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Switch 2 met Pokémon Legends: Z-A als download.",
       "specs": {
         "Model": "Switch 2",
@@ -237,7 +241,8 @@
       },
       "low_price": 529.0,
       "ph_ean": "0045496337254",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "Nintendo",
@@ -245,7 +250,7 @@
       "price": 488.0,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Switch 2 met 12 bewegingssporten voor het hele gezin.",
       "specs": {
         "Model": "Switch 2",
@@ -282,7 +287,8 @@
       "ph_ean": "0045496337544",
       "synced": "2026-11-17",
       "prev_price": 509.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "Nintendo",
@@ -290,7 +296,7 @@
       "price": 570.99,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 3,0 van 5",
       "oneliner": "Switch 2 met rustige Pokémon-bouwgame als download.",
       "specs": {
         "Model": "Switch 2",
@@ -326,7 +332,8 @@
       "ph_ean": "0045496337445",
       "synced": "2026-11-17",
       "prev_price": 509.99,
-      "prev_date": "2026-11-12"
+      "prev_date": "2026-11-12",
+      "rating": 3.0
     },
     {
       "brand": "Nintendo",
@@ -370,7 +377,8 @@
       "ph_ean": "0045496453442",
       "synced": "2026-11-17",
       "prev_price": 331.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "Nintendo",
@@ -413,7 +421,8 @@
       },
       "low_price": 195.99,
       "ph_ean": "0045496453176",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.7
     },
     {
       "brand": "Nintendo",
@@ -457,7 +466,8 @@
       "ph_ean": "0045496453893",
       "synced": "2026-11-17",
       "prev_price": 254.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     }
   ],
   "guide": [

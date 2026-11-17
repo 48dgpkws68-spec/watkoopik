@@ -25,7 +25,7 @@
       "price": 1099.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Topwasmachine van Bosch met 11 kilo, stoom en automatische dosering.",
       "specs": {
         "Vulgewicht": "11 kg",
@@ -89,7 +89,8 @@
       "low_price": 1099.0,
       "prev_price": 1149.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "4242005601394"
+      "ph_ean": "4242005601394",
+      "rating": 5.0
     },
     {
       "brand": "Bosch",
@@ -97,7 +98,7 @@
       "price": 875.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Automatische dosering, stoom en 9 kilo voor een eerlijke prijs.",
       "specs": {
         "Vulgewicht": "9 kg",
@@ -151,7 +152,8 @@
       "synced": "2026-11-17",
       "prev_price": 819.0,
       "prev_date": "2026-10-29",
-      "ph_ean": "4242005441501"
+      "ph_ean": "4242005441501",
+      "rating": 5.0
     },
     {
       "brand": "Siemens",
@@ -159,7 +161,7 @@
       "price": 1099.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "100+ reviews",
+      "reviews": "",
       "oneliner": "Premium Siemens met 11 kilo, stoom en een zeer zuinig verbruik.",
       "specs": {
         "Vulgewicht": "11 kg",
@@ -231,7 +233,7 @@
       "price": 749.0,
       "score": 8.9,
       "label": null,
-      "reviews": "720+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "11 kilo, AI-wasprogramma en de grootste wasmiddeltank.",
       "specs": {
         "Vulgewicht": "11 kg",
@@ -296,7 +298,8 @@
       "low_price": 749.0,
       "prev_price": 866.47,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806095582764"
+      "ph_ean": "8806095582764",
+      "rating": 3.7
     },
     {
       "brand": "AEG",
@@ -304,7 +307,7 @@
       "price": 799.0,
       "score": 8.8,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Stoomprogramma dat kleding opfrist en een vak voor wasmiddelpods.",
       "specs": {
         "Vulgewicht": "9 kg",
@@ -366,7 +369,8 @@
         "2026-11-17": 799.0
       },
       "low_price": 799.0,
-      "ph_ean": "7332543847341"
+      "ph_ean": "7332543847341",
+      "rating": 4.6
     },
     {
       "brand": "LG",
@@ -374,7 +378,7 @@
       "price": 799.0,
       "score": 8.7,
       "label": null,
-      "reviews": "nog weinig reviews",
+      "reviews": "",
       "oneliner": "Super zuinige LG met TurboWash 39, stoom en Direct Drive-motor.",
       "specs": {
         "Vulgewicht": "9 kg",
@@ -457,7 +461,8 @@
       },
       "low_price": 604.0,
       "synced": "2026-11-17",
-      "ph_ean": "6921081596029"
+      "ph_ean": "6921081596029",
+      "rating": 4.6
     },
     {
       "brand": "Bosch",
@@ -465,7 +470,7 @@
       "price": 529.0,
       "score": 8.4,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Betaalbare Bosch met stoom en Iron Assist voor minder strijkwerk.",
       "specs": {
         "Vulgewicht": "8 kg",
@@ -529,7 +534,8 @@
       "low_price": 529.0,
       "prev_price": 593.51,
       "prev_date": "2026-11-05",
-      "ph_ean": "4242005535439"
+      "ph_ean": "4242005535439",
+      "rating": 4.6
     },
     {
       "brand": "Beko",
@@ -537,7 +543,7 @@
       "price": 399.0,
       "score": 8.2,
       "label": null,
-      "reviews": "4,5 sterren op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Betaalbare Beko met 10 kilo trommel en 1.400 toeren.",
       "specs": {
         "Vulgewicht": "10 kg",
@@ -581,7 +587,8 @@
       "synced": "2026-11-17",
       "prev_price": 458.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8690842671838"
+      "ph_ean": "8690842671838",
+      "rating": 4.4
     },
     {
       "brand": "Beko",
@@ -589,7 +596,7 @@
       "price": 500.0,
       "score": 8.1,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Degelijke Beko met 9 kilo en AquaTech voor een snellere, zachtere was.",
       "specs": {
         "Vulgewicht": "9 kg",
@@ -651,7 +658,8 @@
         "2026-11-17": 500.0
       },
       "low_price": 500.0,
-      "ph_ean": "8690842638640"
+      "ph_ean": "8690842638640",
+      "rating": 5.0
     }
   ],
   "guide": [

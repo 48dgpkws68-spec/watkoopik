@@ -26,7 +26,7 @@
       "price": 1377.0,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "De beste balans tussen snelheid, accuduur en gewicht.",
       "specs": {
         "Scherm": "13,6 inch",
@@ -88,7 +88,8 @@
       "low_price": 1349.0,
       "prev_price": 1375.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "0195950688818"
+      "ph_ean": "0195950688818",
+      "rating": 5.0
     },
     {
       "brand": "Apple",
@@ -96,7 +97,7 @@
       "price": 764.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Een echte Mac met 16 uur accu voor onder de 800 euro.",
       "specs": {
         "Scherm": "13 inch",
@@ -159,7 +160,8 @@
       "low_price": 729.0,
       "prev_price": 768.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "0195950850888"
+      "ph_ean": "0195950850888",
+      "rating": 4.8
     },
     {
       "brand": "Apple",
@@ -167,7 +169,7 @@
       "price": 1640.0,
       "score": 9.2,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Groot scherm en zes luidsprekers, toch maar 1,51 kilo.",
       "specs": {
         "Scherm": "15,3 inch",
@@ -229,7 +231,8 @@
       "low_price": 1599.0,
       "prev_price": 1669.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "0195950695694"
+      "ph_ean": "0195950695694",
+      "rating": 4.8
     },
     {
       "brand": "Apple",
@@ -237,7 +240,7 @@
       "price": 2090.0,
       "score": 9.1,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Instap-Pro met XDR-scherm van 120 Hz en 24 uur accu.",
       "specs": {
         "Scherm": "14,2 inch, 120 Hz",
@@ -288,7 +291,8 @@
       "synced": "2026-11-17",
       "prev_price": 2118.5,
       "prev_date": "2026-11-14",
-      "ph_ean": "0195950490893"
+      "ph_ean": "0195950490893",
+      "rating": 5.0
     },
     {
       "brand": "Apple",
@@ -296,7 +300,7 @@
       "price": 2762.29,
       "score": 9.0,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Het verstandige middenmodel voor professionals.",
       "specs": {
         "Scherm": "14,2 inch, 120 Hz",
@@ -358,7 +362,8 @@
       "low_price": 2717.44,
       "prev_price": 2726.75,
       "prev_date": "2026-11-13",
-      "ph_ean": "0195950718690"
+      "ph_ean": "0195950718690",
+      "rating": 5.0
     },
     {
       "brand": "Apple",
@@ -366,7 +371,7 @@
       "price": 4548.0,
       "score": 9.3,
       "label": "Beste premium",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "De krachtigste laptop in dit formaat, voor wie ermee verdient.",
       "specs": {
         "Scherm": "14,2 inch, 120 Hz",
@@ -429,7 +434,8 @@
       "low_price": 4529.0,
       "prev_price": 4529.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "0195950718225"
+      "ph_ean": "0195950718225",
+      "rating": 5.0
     },
     {
       "brand": "Apple",
@@ -468,7 +474,8 @@
         "2026-11-17": 825.0
       },
       "low_price": 825.0,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "Apple",
@@ -476,7 +483,7 @@
       "price": 1929.0,
       "score": 8.7,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Het grote Air-scherm voor minder dan 1.300 euro.",
       "specs": {
         "Scherm": "15,3 inch",
@@ -528,7 +535,8 @@
         "2026-11-17": 1929.0
       },
       "low_price": 1929.0,
-      "ph_ean": "0195949894121"
+      "ph_ean": "0195949894121",
+      "rating": 4.8
     },
     {
       "brand": "Apple",
@@ -536,7 +544,7 @@
       "price": 3149.0,
       "score": 8.9,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "",
       "oneliner": "Het beste laptopscherm van Apple, met volledige M5 Pro.",
       "specs": {
         "Scherm": "16,2 inch, 120 Hz",
@@ -583,7 +591,7 @@
       "price": 2699.0,
       "score": 8.6,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Vorige generatie 16 inch, ruim 500 euro goedkoper.",
       "specs": {
         "Scherm": "16,2 inch, 120 Hz",
@@ -647,7 +655,8 @@
       "low_price": 2599.0,
       "prev_price": 2599.0,
       "prev_date": "2026-10-26",
-      "ph_ean": "0195949869624"
+      "ph_ean": "0195949869624",
+      "rating": 5.0
     }
   ],
   "guide": [

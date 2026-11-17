@@ -25,7 +25,7 @@
       "price": 419.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "1.400+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Compacte pistonmachine die je melk automatisch opschuimt.",
       "specs": {
         "Type": "Pistonmachine",
@@ -88,7 +88,8 @@
       "low_price": 419.0,
       "prev_price": 446.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "9312432031523"
+      "ph_ean": "9312432031523",
+      "rating": 4.9
     },
     {
       "brand": "Philips",
@@ -96,7 +97,7 @@
       "price": 267.9,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Maalt, tampt en zet espresso met één beweging van de hendel.",
       "specs": {
         "Type": "Semi-automaat met bonen",
@@ -156,7 +157,8 @@
       "low_price": 266.0,
       "prev_price": 270.58,
       "prev_date": "2026-11-05",
-      "ph_ean": "8720389082757"
+      "ph_ean": "8720389082757",
+      "rating": 4.6
     },
     {
       "brand": "Sage",
@@ -164,7 +166,7 @@
       "price": 649.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Pistonmachine met molen die je helpt bij doseren en tampen.",
       "specs": {
         "Type": "Pistonmachine",
@@ -227,7 +229,8 @@
       "low_price": 619.0,
       "prev_price": 655.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "9355973097917"
+      "ph_ean": "9355973097917",
+      "rating": 4.3
     },
     {
       "brand": "Philips",
@@ -235,7 +238,7 @@
       "price": 413.0,
       "score": 8.8,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Baristina met verse bonen en automatisch melkschuim.",
       "specs": {
         "Type": "Semi-automaat met bonen",
@@ -295,7 +298,8 @@
       "low_price": 411.0,
       "prev_price": 411.0,
       "prev_date": "2026-10-25",
-      "ph_ean": "8720389044946"
+      "ph_ean": "8720389044946",
+      "rating": 4.4
     },
     {
       "brand": "De'Longhi",
@@ -303,7 +307,7 @@
       "price": 329.0,
       "score": 8.8,
       "label": null,
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Pistonmachine met molen en tampstation voor een scherpe prijs.",
       "specs": {
         "Type": "Pistonmachine",
@@ -367,7 +371,8 @@
       "low_price": 322.19,
       "prev_price": 375.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8004399021921"
+      "ph_ean": "8004399021921",
+      "rating": 4.8
     },
     {
       "brand": "Sage",
@@ -375,7 +380,7 @@
       "price": 279.0,
       "score": 8.6,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Kleine pistonmachine met snelle opwarming en handmatige stoompijp.",
       "specs": {
         "Type": "Pistonmachine",
@@ -435,7 +440,8 @@
       "low_price": 262.27,
       "prev_price": 284.95,
       "prev_date": "2026-11-16",
-      "ph_ean": "9355973001631"
+      "ph_ean": "9355973001631",
+      "rating": 4.6
     },
     {
       "brand": "De'Longhi",
@@ -443,7 +449,7 @@
       "price": 134.0,
       "score": 8.5,
       "label": null,
-      "reviews": "3.500+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Smalle en betaalbare pistonmachine om mee te beginnen.",
       "specs": {
         "Type": "Pistonmachine",
@@ -507,7 +513,8 @@
       "low_price": 132.66,
       "prev_price": 132.66,
       "prev_date": "2026-11-14",
-      "ph_ean": "8004399331198"
+      "ph_ean": "8004399331198",
+      "rating": 4.3
     },
     {
       "brand": "Gaggia",
@@ -515,7 +522,7 @@
       "price": 181.0,
       "score": 8.1,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "",
       "oneliner": "Degelijke Italiaanse instapper met Pannarello-stoompijp.",
       "specs": {
         "Type": "Pistonmachine",
@@ -583,7 +590,7 @@
       "price": 105.0,
       "score": 7.9,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 3,4 van 5",
       "oneliner": "Eenvoudige pistonmachine voor wie vooral weinig wil uitgeven.",
       "specs": {
         "Type": "Pistonmachine",
@@ -643,7 +650,8 @@
       "low_price": 105.0,
       "prev_price": 106.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "8004399334571"
+      "ph_ean": "8004399334571",
+      "rating": 3.4
     },
     {
       "brand": "Krups",
@@ -651,7 +659,7 @@
       "price": 103.0,
       "score": 7.8,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Compacte budgetpistonmachine met melkopschuimer.",
       "specs": {
         "Type": "Pistonmachine",
@@ -711,7 +719,8 @@
       "low_price": 87.55,
       "prev_price": 95.35,
       "prev_date": "2026-11-14",
-      "ph_ean": "3016661177897"
+      "ph_ean": "3016661177897",
+      "rating": 4.1
     }
   ],
   "guide": [

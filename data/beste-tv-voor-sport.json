@@ -28,7 +28,7 @@
       "price": 1366.65,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,8 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Oled met scherpe beweging, brede kijkhoek en 144 Hz.",
       "specs": {
         "Formaat": "65 inch",
@@ -67,7 +67,8 @@
       "synced": "2026-11-17",
       "prev_price": 1366.63,
       "prev_date": "2026-11-16",
-      "ph_ean": "8806096363430"
+      "ph_ean": "8806096363430",
+      "rating": 5.0
     },
     {
       "brand": "Sony",
@@ -75,7 +76,7 @@
       "price": 1999.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Sony-beeldverwerking met RGB-LED, sterk bij snelle sport.",
       "specs": {
         "Formaat": "65 inch",
@@ -122,7 +123,7 @@
       "price": 1579.0,
       "score": 9.1,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Oled op 144 Hz met vier HDMI 2.1-poorten voor gamers.",
       "specs": {
         "Formaat": "65 inch",
@@ -170,7 +171,7 @@
       "price": 999.0,
       "score": 9.0,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Zeer heldere SQD-Mini LED voor sport in een lichte kamer.",
       "specs": {
         "Formaat": "65 inch",
@@ -215,7 +216,7 @@
       "price": 815.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,0 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Mini LED met 100 Hz en tot 144 Hz voor rond de 800 euro.",
       "specs": {
         "Formaat": "65 inch",
@@ -255,7 +256,8 @@
       "synced": "2026-11-17",
       "prev_price": 799.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8806099134341"
+      "ph_ean": "8806099134341",
+      "rating": 4.5
     },
     {
       "brand": "Samsung",
@@ -263,7 +265,7 @@
       "price": 1049.0,
       "score": 8.7,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Neo QLED met brede kijkhoek en automatische sportmodus.",
       "specs": {
         "Formaat": "65 inch",
@@ -349,7 +351,8 @@
       "synced": "2026-11-17",
       "prev_price": 949.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "5901292531058"
+      "ph_ean": "5901292531058",
+      "rating": 5.0
     },
     {
       "brand": "TCL",
@@ -357,7 +360,7 @@
       "price": 899.0,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Compacte 55 inch met de helderheid van de C89L-serie.",
       "specs": {
         "Formaat": "55 inch",
@@ -395,7 +398,8 @@
       },
       "low_price": 899.0,
       "synced": "2026-11-17",
-      "ph_ean": "5901292531515"
+      "ph_ean": "5901292531515",
+      "rating": 4.7
     },
     {
       "brand": "Hisense",
@@ -403,7 +407,7 @@
       "price": 679.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "65 inch Mini LED met 144 Hz en subwoofer voor onder 700 euro.",
       "specs": {
         "Formaat": "65 inch",
@@ -434,7 +438,8 @@
       },
       "low_price": 679.0,
       "ph_ean": "6942351434773",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.6
     },
     {
       "brand": "Hisense",
@@ -480,7 +485,8 @@
       },
       "low_price": 669.0,
       "synced": "2026-11-17",
-      "ph_ean": "6942351432595"
+      "ph_ean": "6942351432595",
+      "rating": 4.8
     }
   ],
   "guide": [

@@ -25,7 +25,7 @@
       "price": 699.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Miniled met 144 Hz: het beste beeld op 43 inch.",
       "specs": {
         "Paneel": "Neo QLED (miniled)",
@@ -83,7 +83,8 @@
       "low_price": 699.0,
       "prev_price": 719.0,
       "prev_date": "2026-10-30",
-      "ph_ean": "8806097114291"
+      "ph_ean": "8806097114291",
+      "rating": 4.7
     },
     {
       "brand": "Hisense",
@@ -91,7 +92,7 @@
       "price": 444.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Native 144 Hz en Dolby Vision voor een middenklasseprijs.",
       "specs": {
         "Paneel": "Hi-QLED",
@@ -149,7 +150,8 @@
       "low_price": 444.0,
       "prev_price": 449.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "6942351432410"
+      "ph_ean": "6942351432410",
+      "rating": 4.8
     },
     {
       "brand": "Samsung",
@@ -157,7 +159,7 @@
       "price": 699.0,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "20+ reviews",
+      "reviews": "",
       "oneliner": "Hangt als schilderij aan de muur met een mat antireflectiescherm.",
       "specs": {
         "Paneel": "QLED, mat",
@@ -261,7 +263,8 @@
       "synced": "2026-11-17",
       "prev_price": 479.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8718863052747"
+      "ph_ean": "8718863052747",
+      "rating": 5.0
     },
     {
       "brand": "LG",
@@ -269,7 +272,7 @@
       "price": 349.0,
       "score": 8.7,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Betaalbare QNED met het snelle webOS van LG.",
       "specs": {
         "Paneel": "QNED",
@@ -327,7 +330,8 @@
       "low_price": 349.0,
       "prev_price": 379.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806096419038"
+      "ph_ean": "8806096419038",
+      "rating": 5.0
     },
     {
       "brand": "Sony",
@@ -335,7 +339,7 @@
       "price": 649.0,
       "score": 8.6,
       "label": null,
-      "reviews": "Nieuw model",
+      "reviews": "",
       "oneliner": "Natuurlijk Sony-beeld met 120 Hz en Google TV.",
       "specs": {
         "Paneel": "LED",
@@ -444,7 +448,8 @@
       },
       "low_price": 399.0,
       "synced": "2026-11-17",
-      "ph_ean": "8806091952202"
+      "ph_ean": "8806091952202",
+      "rating": 4.3
     },
     {
       "brand": "Xiaomi",
@@ -452,7 +457,7 @@
       "price": 289.0,
       "score": 8.3,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Goedkope QLED met Google TV en een gamemodus tot 120 Hz.",
       "specs": {
         "Paneel": "QLED",
@@ -510,7 +515,8 @@
       "low_price": 289.0,
       "prev_price": 299.0,
       "prev_date": "2026-10-30",
-      "ph_ean": "6941948705630"
+      "ph_ean": "6941948705630",
+      "rating": 4.4
     },
     {
       "brand": "Samsung",
@@ -518,7 +524,7 @@
       "price": 399.0,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare mini-led van Samsung met drie jaar extra garantie.",
       "specs": {
         "Paneel": "Mini-led",
@@ -563,7 +569,8 @@
       "synced": "2026-11-17",
       "prev_price": 429.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806099134440"
+      "ph_ean": "8806099134440",
+      "rating": 4.5
     },
     {
       "brand": "TCL",
@@ -571,7 +578,7 @@
       "price": 239.0,
       "score": 7.9,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Full HD QLED met Google TV voor de kleinste beurs.",
       "specs": {
         "Paneel": "QLED",
@@ -628,7 +635,8 @@
       "low_price": 239.0,
       "prev_price": 241.39,
       "prev_date": "2026-11-04",
-      "ph_ean": "5901292527075"
+      "ph_ean": "5901292527075",
+      "rating": 4.2
     }
   ],
   "guide": [

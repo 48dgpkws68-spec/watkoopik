@@ -61,7 +61,8 @@
       },
       "low_price": 199.0,
       "synced": "2026-11-17",
-      "ph_ean": "8720389039560"
+      "ph_ean": "8720389039560",
+      "rating": 4.7
     },
     {
       "brand": "Winix",
@@ -109,7 +110,8 @@
       },
       "low_price": 149.0,
       "synced": "2026-11-17",
-      "ph_ean": "8809490586054"
+      "ph_ean": "8809490586054",
+      "rating": 4.5
     },
     {
       "brand": "Dyson",
@@ -117,7 +119,7 @@
       "price": 649.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Luchtreiniger, luchtbevochtiger en ventilator in één premium toestel.",
       "specs": {
         "CADR": "Gemiddeld, voor woonkamers",
@@ -180,7 +182,8 @@
       "low_price": 649.0,
       "prev_price": 699.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "5025155100875"
+      "ph_ean": "5025155100875",
+      "rating": 4.6
     },
     {
       "brand": "Levoit",
@@ -222,7 +225,8 @@
       },
       "low_price": 269.0,
       "ph_ean": "0810043373685",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.3
     },
     {
       "brand": "Xiaomi",
@@ -230,7 +234,7 @@
       "price": 269.95,
       "score": 8.6,
       "label": null,
-      "reviews": "2.200+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Veel capaciteit en een oled-scherm voor een middenklasseprijs.",
       "specs": {
         "CADR": "500 m3/u",
@@ -295,7 +299,8 @@
       "low_price": 249.99,
       "prev_price": 267.25,
       "prev_date": "2026-11-16",
-      "ph_ean": "6934177743665"
+      "ph_ean": "6934177743665",
+      "rating": 4.3
     },
     {
       "brand": "Rowenta",
@@ -357,7 +362,8 @@
       "synced": "2026-11-17",
       "prev_price": 118.5,
       "prev_date": "2026-11-13",
-      "ph_ean": "3121047260800"
+      "ph_ean": "3121047260800",
+      "rating": 4.2
     },
     {
       "brand": "Philips",
@@ -365,7 +371,7 @@
       "price": 99.99,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Compacte Philips-luchtreiniger met CADR van 250 m3/u.",
       "specs": {
         "CADR": "250 m3/u",
@@ -429,7 +435,8 @@
       "low_price": 99.99,
       "prev_price": 120.63,
       "prev_date": "2026-11-05",
-      "ph_ean": "8720389039416"
+      "ph_ean": "8720389039416",
+      "rating": 4.2
     },
     {
       "brand": "Levoit",
@@ -477,7 +484,8 @@
       "synced": "2026-11-17",
       "prev_price": 161.99,
       "prev_date": "2026-11-12",
-      "ph_ean": "0810043373814"
+      "ph_ean": "0810043373814",
+      "rating": 4.6
     },
     {
       "brand": "Coway",
@@ -485,7 +493,7 @@
       "price": 219.99,
       "score": 8.4,
       "label": null,
-      "reviews": "780+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Compacte Koreaanse luchtreiniger met vierlaags filter en stille werking.",
       "specs": {
         "CADR": "ca. 300 m3/u",
@@ -551,7 +559,8 @@
       "low_price": 169.99,
       "prev_price": 169.99,
       "prev_date": "2026-11-01",
-      "ph_ean": "8809466829130"
+      "ph_ean": "8809466829130",
+      "rating": 4.1
     },
     {
       "brand": "Winix",
@@ -559,7 +568,7 @@
       "price": 129.0,
       "score": 7.8,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betrouwbare instapper met HEPA, koolfilter en PlasmaWave.",
       "specs": {
         "CADR": "Gemiddeld",
@@ -612,7 +621,8 @@
         "2026-11-17": 129.0
       },
       "low_price": 129.0,
-      "ph_ean": "8809490585408"
+      "ph_ean": "8809490585408",
+      "rating": 4.7
     }
   ],
   "guide": [

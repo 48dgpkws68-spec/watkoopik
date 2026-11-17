@@ -57,7 +57,8 @@
         "2026-11-17": 39.95
       },
       "low_price": 39.95,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "Komfortec",
@@ -65,7 +66,7 @@
       "price": 21.99,
       "score": 9.1,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Zachte fleece plaid met kasjmiergevoel en uitstekende beoordelingen.",
       "specs": {
         "Materiaal": "Microfleece",
@@ -113,7 +114,8 @@
       },
       "low_price": 21.99,
       "synced": "2026-11-17",
-      "ph_ean": "4255684900252"
+      "ph_ean": "4255684900252",
+      "rating": 4.6
     },
     {
       "brand": "Van Buren",
@@ -121,7 +123,7 @@
       "price": 129.95,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Luxe plaid van alpacawol: warm, licht en ademend.",
       "specs": {
         "Materiaal": "Alpacawol",
@@ -171,7 +173,8 @@
       "synced": "2026-11-17",
       "prev_price": 128.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "8720981900114"
+      "ph_ean": "8720981900114",
+      "rating": 5.0
     },
     {
       "brand": "Tiseco",
@@ -179,7 +182,7 @@
       "price": 64.7,
       "score": 8.9,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Grof gebreide plaid die ook als decoratie op de bank staat.",
       "specs": {
         "Materiaal": "Gebreid acryl",
@@ -228,7 +231,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5413255189973",
       "prev_price": 69.95,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "Nice Dreams",
@@ -236,7 +240,7 @@
       "price": 36.95,
       "score": 8.8,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Zware sherpa plaid van 500 gram per vierkante meter.",
       "specs": {
         "Materiaal": "Fleece met sherpa",
@@ -285,7 +289,8 @@
       "synced": "2026-11-17",
       "prev_price": 39.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720986801508"
+      "ph_ean": "8720986801508",
+      "rating": 4.7
     },
     {
       "brand": "MoST",
@@ -293,7 +298,7 @@
       "price": 71.0,
       "score": 8.7,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Klassieke plaid van zuivere Nieuw-Zeelandse schapenwol.",
       "specs": {
         "Materiaal": "100% wol",
@@ -335,7 +340,8 @@
       },
       "low_price": 71.0,
       "synced": "2026-11-17",
-      "ph_ean": "8720849141291"
+      "ph_ean": "8720849141291",
+      "rating": 4.8
     },
     {
       "brand": "SENZA",
@@ -343,7 +349,7 @@
       "price": 19.99,
       "score": 8.6,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Ademende katoenen plaid met visgraatmotief van gerecycled katoen.",
       "specs": {
         "Materiaal": "Gerecycled katoen",
@@ -390,7 +396,8 @@
       },
       "low_price": 19.99,
       "synced": "2026-11-17",
-      "ph_ean": "8720574003376"
+      "ph_ean": "8720574003376",
+      "rating": 4.9
     },
     {
       "brand": "Lantara",
@@ -398,7 +405,7 @@
       "price": 65.0,
       "score": 8.5,
       "label": null,
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Extra grote katoenen plaid en sprei met wafelstructuur.",
       "specs": {
         "Materiaal": "Gerecycled katoen",
@@ -445,7 +452,8 @@
       },
       "low_price": 65.0,
       "synced": "2026-11-17",
-      "ph_ean": "8719075703052"
+      "ph_ean": "8719075703052",
+      "rating": 4.8
     },
     {
       "brand": "HOOMstyle",
@@ -453,7 +461,7 @@
       "price": 22.9,
       "score": 8.3,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Compacte, dubbeldikke teddy plaid in zachte zandkleur.",
       "specs": {
         "Materiaal": "Teddy fleece",
@@ -502,7 +510,8 @@
       "synced": "2026-11-17",
       "prev_price": 27.5,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719743079595"
+      "ph_ean": "8719743079595",
+      "rating": 4.9
     },
     {
       "brand": "Dutch Decor",
@@ -510,7 +519,7 @@
       "price": 19.99,
       "score": 8.0,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Goedkope flannel fleece plaid in veel trendy kleuren.",
       "specs": {
         "Materiaal": "Flannel fleece",
@@ -559,7 +568,8 @@
       "synced": "2026-11-17",
       "prev_price": 15.99,
       "prev_date": "2026-11-01",
-      "ph_ean": "8714165626655"
+      "ph_ean": "8714165626655",
+      "rating": 4.4
     }
   ],
   "guide": [

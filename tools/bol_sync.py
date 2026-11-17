@@ -90,6 +90,16 @@ def record_price(p, new):
     p["price"] = new
     if ean: p["ph_ean"] = ean  # bij welke EAN de geschiedenis hoort
 
+def set_rating(p, rating):
+    """bol geeft alleen het gemiddelde (1-5) zonder aantal. Echte score -> rating + reviews 'bol-score 4,6 van 5';
+    geen score -> reviews leeg (geen geschatte aantallen tonen, groeimotor 17 nov 2026)."""
+    try: v = float(rating.get("average") if isinstance(rating, dict) else rating)
+    except (TypeError, ValueError): v = None
+    if v and 1 <= v <= 5:
+        p["rating"] = round(v, 1); p["reviews"] = "bol-score %s van 5" % ("%.1f" % v).replace(".", ",")
+    else:
+        p.pop("rating", None); p["reviews"] = ""
+
 def main():
     tok = token(); t0 = time.time(); done = skipped = miss = 0
     for f in sorted(glob.glob(os.path.join(ROOT, "data", "*.json"))):
@@ -108,9 +118,7 @@ def main():
             if r.get("image", {}).get("url"): p["image"] = r["image"]["url"]
             offer = r.get("offer") or {}
             if offer.get("price"): record_price(p, float(offer["price"]))
-            rating = r.get("rating")
-            if isinstance(rating, dict):
-                if rating.get("count"): p["reviews"] = "%s reviews" % format(int(rating["count"]), ",").replace(",", ".")
+            set_rating(p, r.get("rating"))
             p["synced"] = TODAY; changed = True; done += 1
             time.sleep(0.25)
         if changed:

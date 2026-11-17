@@ -24,7 +24,7 @@
       "price": 215.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Ouderunit en app in één, met een eigen verbinding naast wifi.",
       "specs": {
         "Type": "Video + app",
@@ -87,7 +87,8 @@
       "low_price": 197.9,
       "prev_price": 216.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "8720689039550"
+      "ph_ean": "8720689039550",
+      "rating": 3.9
     },
     {
       "brand": "LUVION",
@@ -95,7 +96,7 @@
       "price": 64.95,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.600+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Nederlandse bestseller met scherp scherm en zonder internet.",
       "specs": {
         "Type": "Video",
@@ -158,7 +159,8 @@
       "low_price": 59.95,
       "prev_price": 69.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8718546340406"
+      "ph_ean": "8718546340406",
+      "rating": 4.4
     },
     {
       "brand": "Owlet",
@@ -166,7 +168,7 @@
       "price": 279.99,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "Beoordeeld op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Camera met app plus een sokje dat hartslag en zuurstof meet.",
       "specs": {
         "Type": "App-camera met slimme sok",
@@ -203,7 +205,8 @@
       "ph_ean": "0810099091274",
       "synced": "2026-11-17",
       "prev_price": 379.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "Philips Avent",
@@ -211,7 +214,7 @@
       "price": 104.99,
       "score": 8.9,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Top audiobabyfoon met nachtlampje en temperatuurmeting.",
       "specs": {
         "Type": "Audio",
@@ -274,7 +277,8 @@
       "low_price": 104.0,
       "prev_price": 108.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8710103849261"
+      "ph_ean": "8710103849261",
+      "rating": 4.6
     },
     {
       "brand": "LUVION",
@@ -282,7 +286,7 @@
       "price": 199.0,
       "score": 8.7,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Groot scherm plus app, ook bruikbaar zonder wifi.",
       "specs": {
         "Type": "Video + app",
@@ -345,7 +349,8 @@
       "low_price": 189.0,
       "prev_price": 206.2,
       "prev_date": "2026-11-14",
-      "ph_ean": "8718546341717"
+      "ph_ean": "8718546341717",
+      "rating": 4.1
     },
     {
       "brand": "eufy",
@@ -353,7 +358,7 @@
       "price": 197.0,
       "score": 8.5,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "4K-camera met pan-tilt, ouderunit en app.",
       "specs": {
         "Type": "Video + app",
@@ -416,7 +421,8 @@
       "low_price": 197.0,
       "prev_price": 215.0,
       "prev_date": "2026-10-21",
-      "ph_ean": "0194644285876"
+      "ph_ean": "0194644285876",
+      "rating": 3.9
     },
     {
       "brand": "Philips Avent",
@@ -424,7 +430,7 @@
       "price": 116.0,
       "score": 8.4,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Betaalbare app-camera van Philips zonder losse ouderunit.",
       "specs": {
         "Type": "App-camera",
@@ -486,7 +492,8 @@
       "low_price": 114.0,
       "prev_price": 117.0,
       "prev_date": "2026-10-27",
-      "ph_ean": "8720689026680"
+      "ph_ean": "8720689026680",
+      "rating": 4.3
     },
     {
       "brand": "Alecto",
@@ -494,7 +501,7 @@
       "price": 63.99,
       "score": 8.3,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Full Eco DECT met display en lange stand-by.",
       "specs": {
         "Type": "Audio",
@@ -556,7 +563,8 @@
       "low_price": 63.99,
       "prev_price": 71.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8712412676651"
+      "ph_ean": "8712412676651",
+      "rating": 4.5
     },
     {
       "brand": "Alecto",
@@ -564,7 +572,7 @@
       "price": 115.0,
       "score": 8.1,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Videobabyfoon met camera die op afstand draait.",
       "specs": {
         "Type": "Video",
@@ -626,7 +634,8 @@
       "low_price": 93.21,
       "prev_price": 118.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "8711902077916"
+      "ph_ean": "8711902077916",
+      "rating": 4.1
     },
     {
       "brand": "Motorola",
@@ -634,7 +643,7 @@
       "price": 29.99,
       "score": 7.9,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Eenvoudige audiobabyfoon voor oppas, logeren en op reis.",
       "specs": {
         "Type": "Audio",
@@ -696,7 +705,8 @@
       "low_price": 29.99,
       "prev_price": 32.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "5055374712375"
+      "ph_ean": "5055374712375",
+      "rating": 4.6
     }
   ],
   "guide": [

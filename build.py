@@ -583,6 +583,11 @@ def footer(root):
 <script src="%sapp.js?v=%s" defer></script>
 </body></html>''' % (root or "./", LOGO, pop, cats, root, root, root, root, root, root, root, YEAR, landen_regel("watkoopik.nl"), root, ASSET_V)
 
+def rev_txt(p):
+    """Alleen de echte bol-score tonen (tools/bol_sync.py set_rating); oude geschatte aantallen als '1.300+ reviews' niet."""
+    r = str(p.get("reviews") or "")
+    return r if r.startswith("bol-score ") else ""
+
 def page(path, title, desc, body, active=None, extra="", root=None, img=""):
     if root is None: root = "../" * path.count("/")
     out = head(title, desc, path if path != "index.html" else "", root, extra, img) + chrome(active, root) + "<main>" + body + "</main>" + footer(root)
@@ -801,11 +806,11 @@ for g in guides:
         "".join("<td>%s</td>" % e(str(p["specs"].get(k, "-"))) for k in keys), eur(p["price"]), chk_html(p, g, True), " hi" if p["score"] >= 9 else "", p["score"], shop_a(p, g, "btn btn-buy btn-sm", "tabel")) for p in ps)
     table = '<div class="tbl rv"><table><thead><tr><th>#</th><th>Model</th>%s<th>Prijs</th><th>Score</th><th class="bc"><span class="sr">Kopen</span></th></tr></thead><tbody>%s</tbody></table></div>' % ("".join("<th>%s</th>" % e(k) for k in keys), rows)
     cards = "".join('''<article class="pr-card%s rv" id="p%d"><div class="pr-head"><div class="pr-img"><span class="n">%d</span>%s</div><div>%s<h2>%s %s</h2>
-<div class="pr-meta"><span class="price">%s</span><span>%s <b>%s</b>/10</span><span>%s</span></div>%s<div class="specs">%s</div></div></div>
+<div class="pr-meta"><span class="price">%s</span><span>%s <b>%s</b>/10</span>%s</div>%s<div class="specs">%s</div></div></div>
 <div class="pr-txt">%s</div><div class="pc"><div class="pros"><h4>Pluspunten</h4><ul>%s</ul></div><div class="cons"><h4>Minpunten</h4><ul>%s</ul></div></div>
 %s<div class="ideal"><b>Ideaal voor:</b> %s</div><div class="buy">%s%s<small>Prijs gecontroleerd op %s</small></div>%s</article>''' % (
         " top" if p["rank"] == 1 else "", p["rank"], p["rank"], img_of(p), ('<span class="pr-lbl">%s</span>' % e(p["label"])) if p.get("label") else "", e(p["brand"]), e(p["name"]),
-        eur(p["price"]), stars(p["score"]), p["score"], e(p.get("reviews", "")), bars(p, g), "".join("<span><b>%s:</b> %s</span>" % (e(k), e(str(v))) for k, v in p["specs"].items()),
+        eur(p["price"]), stars(p["score"]), p["score"], ('<span>%s</span>' % e(rev_txt(p))) if rev_txt(p) else "", bars(p, g), "".join("<span><b>%s:</b> %s</span>" % (e(k), e(str(v))) for k, v in p["specs"].items()),
         "".join("<p>%s</p>" % e(t) for t in p["text"].split("\n\n")), "".join("<li>%s</li>" % e(x) for x in p["pros"]), "".join("<li>%s</li>" % e(x) for x in p["cons"]),
         hist_box(p), e(p["ideal"]), shop_a(p, g), amazon_a(p, g), e(chk_date(p, g)), upgrade_tip(g) if p["rank"] == 1 else "") for p in ps)
     guide_html = "".join("<h3>%s</h3>%s" % (e(s["h"]), "".join("<p>%s</p>" % e(t) for t in s["p"].split("\n\n"))) for s in g["guide"]) + cl_more(g)
@@ -915,7 +920,7 @@ page("aanbiedingen/index.html", "Aanbiedingen: echte prijsdalingen bij bol | wat
 def vs_page(v):
     g, a, b = v["g"], v["pa"], v["pb"]; root = "../"
     keys = list(a["specs"].keys())
-    rows = [("Plek in onze top 10", "Nr. %d" % a["rank"], "Nr. %d" % b["rank"]), ("Prijs bij bol", eur(a["price"]), eur(b["price"])), ("Onze score", "%s/10" % a["score"], "%s/10" % b["score"]), ("Reviews", a.get("reviews", ""), b.get("reviews", ""))]
+    rows = [("Plek in onze top 10", "Nr. %d" % a["rank"], "Nr. %d" % b["rank"]), ("Prijs bij bol", eur(a["price"]), eur(b["price"])), ("Onze score", "%s/10" % a["score"], "%s/10" % b["score"]), ("Score bij bol", rev_txt(a) or "-", rev_txt(b) or "-")]
     rows += [(k, str(a["specs"].get(k, "-")), str(b["specs"].get(k, "-"))) for k in keys]
     tbl = '<div class="tbl"><table><thead><tr><th>Specificatie</th><th>%s %s</th><th>%s %s</th></tr></thead><tbody>%s</tbody></table></div>' % (
         e(a["brand"]), e(a["name"]), e(b["brand"]), e(b["name"]), "".join("<tr><td>%s</td><td>%s</td><td>%s</td></tr>" % (e(r[0]), e(r[1]), e(r[2])) for r in rows))

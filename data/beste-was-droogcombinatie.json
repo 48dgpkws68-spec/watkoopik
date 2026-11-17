@@ -25,7 +25,7 @@
       "price": 999.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Stil, degelijk en wast en droogt in één keer.",
       "specs": {
         "Wassen": "9 kg",
@@ -79,7 +79,7 @@
       "price": 690.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Veel functies voor een scherpe prijs, met EcoBubble.",
       "specs": {
         "Wassen": "9 kg",
@@ -134,7 +134,8 @@
         "2026-11-17": 690.0
       },
       "low_price": 690.0,
-      "ph_ean": "8806095589473"
+      "ph_ean": "8806095589473",
+      "rating": 5.0
     },
     {
       "brand": "Siemens",
@@ -142,7 +143,7 @@
       "price": 1099.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Doseert zelf wasmiddel en droogt met minder kreukels.",
       "specs": {
         "Wassen": "10,5 kg",
@@ -199,7 +200,8 @@
       "low_price": 1062.0,
       "prev_price": 1112.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "4242003931110"
+      "ph_ean": "4242003931110",
+      "rating": 5.0
     },
     {
       "brand": "AEG",
@@ -207,7 +209,7 @@
       "price": 1006.69,
       "score": 8.9,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "",
       "oneliner": "Met stoom, AutoDose en een centrifuge van 1600 toeren.",
       "specs": {
         "Wassen": "10 kg",
@@ -272,7 +274,7 @@
       "price": 629.0,
       "score": 8.8,
       "label": null,
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "LG met direct aangedreven motor en stoom voor een scherpe prijs.",
       "specs": {
         "Wassen": "9 kg",
@@ -323,7 +325,7 @@
       "price": 749.0,
       "score": 8.7,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Doseert automatisch en past het programma aan met AI.",
       "specs": {
         "Wassen": "9 kg",
@@ -378,7 +380,8 @@
         "2026-11-17": 749.0
       },
       "low_price": 749.0,
-      "ph_ean": "8806095589589"
+      "ph_ean": "8806095589589",
+      "rating": 4.5
     },
     {
       "brand": "Bosch",
@@ -386,7 +389,7 @@
       "price": 749.0,
       "score": 8.5,
       "label": null,
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Compacte capaciteit, stil en betrouwbaar van Bosch.",
       "specs": {
         "Wassen": "8 kg",
@@ -441,7 +444,8 @@
         "2026-11-17": 749.0
       },
       "low_price": 749.0,
-      "ph_ean": "4242005250110"
+      "ph_ean": "4242005250110",
+      "rating": 4.5
     },
     {
       "brand": "Beko",
@@ -449,7 +453,7 @@
       "price": 543.99,
       "score": 8.4,
       "label": null,
-      "reviews": "4/5 op bol",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Ruime was-droogcombinatie met automatische dosering voor een scherpe prijs.",
       "specs": {
         "Wassen": "10 kg",
@@ -504,7 +508,8 @@
       "low_price": 539.0,
       "prev_price": 555.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "8690842533372"
+      "ph_ean": "8690842533372",
+      "rating": 4.0
     },
     {
       "brand": "Candy",
@@ -512,7 +517,7 @@
       "price": 489.0,
       "score": 8.2,
       "label": null,
-      "reviews": "70+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Grote trommel van 10 kg voor een laag bedrag.",
       "specs": {
         "Wassen": "10 kg",
@@ -569,7 +574,8 @@
       "low_price": 488.0,
       "prev_price": 488.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "8059019114460"
+      "ph_ean": "8059019114460",
+      "rating": 4.7
     },
     {
       "brand": "Hisense",
@@ -577,7 +583,7 @@
       "price": 499.0,
       "score": 7.9,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Zuinige 9/6 kg-combinatie met stoomfunctie.",
       "specs": {
         "Wassen": "9 kg",
@@ -621,7 +627,8 @@
       "synced": "2026-11-17",
       "prev_price": 515.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "6901101830166"
+      "ph_ean": "6901101830166",
+      "rating": 3.7
     }
   ],
   "guide": [

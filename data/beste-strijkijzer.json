@@ -25,7 +25,7 @@
       "price": 352.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "2.900+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Stoomgenerator zonder temperatuurinstelling, veilig op elke stof.",
       "specs": {
         "Type": "Stoomgenerator",
@@ -81,7 +81,8 @@
       "low_price": 349.0,
       "prev_price": 349.0,
       "prev_date": "2026-11-06",
-      "ph_ean": "8720389001048"
+      "ph_ean": "8720389001048",
+      "rating": 4.1
     },
     {
       "brand": "Philips",
@@ -89,7 +90,7 @@
       "price": 94.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "4.100+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Krachtig stoomstrijkijzer met OptimalTEMP voor ruim onder de 150 euro.",
       "specs": {
         "Type": "Stoomstrijkijzer",
@@ -154,7 +155,8 @@
       "low_price": 89.99,
       "prev_price": 109.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720389004681"
+      "ph_ean": "8720389004681",
+      "rating": 3.8
     },
     {
       "brand": "Tefal",
@@ -162,7 +164,7 @@
       "price": 345.26,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "1.200+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Hoogste stoomdruk van de lijst, met slimme instelling per stof.",
       "specs": {
         "Type": "Stoomgenerator",
@@ -226,7 +228,8 @@
       "low_price": 333.83,
       "prev_price": 345.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "3121040082775"
+      "ph_ean": "3121040082775",
+      "rating": 4.9
     },
     {
       "brand": "Braun",
@@ -234,7 +237,7 @@
       "price": 249.0,
       "score": 8.9,
       "label": null,
-      "reviews": "860+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Compacte generator met iCare-stand en een zool die achteruit strijkt.",
       "specs": {
         "Type": "Stoomgenerator",
@@ -300,7 +303,8 @@
       "low_price": 247.31,
       "prev_price": 259.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8021098001023"
+      "ph_ean": "8021098001023",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -344,7 +348,8 @@
       },
       "low_price": 219.0,
       "synced": "2026-11-17",
-      "ph_ean": "8720389065187"
+      "ph_ean": "8720389065187",
+      "rating": 4.6
     },
     {
       "brand": "Rowenta",
@@ -352,7 +357,7 @@
       "price": 224.99,
       "score": 8.6,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Stoomgenerator van Rowenta met eco-stand en een stevige stoomstoot.",
       "specs": {
         "Type": "Stoomgenerator",
@@ -416,7 +421,8 @@
       "low_price": 207.3,
       "prev_price": 224.5,
       "prev_date": "2026-11-14",
-      "ph_ean": "3121040089484"
+      "ph_ean": "3121040089484",
+      "rating": 5.0
     },
     {
       "brand": "Tefal",
@@ -424,7 +430,7 @@
       "price": 125.0,
       "score": 8.5,
       "label": null,
-      "reviews": "Gem. 3,7 sterren op bol",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Goedkoopste stoomgenerator die echt het verschil maakt.",
       "specs": {
         "Type": "Stoomgenerator",
@@ -468,7 +474,8 @@
       "synced": "2026-11-17",
       "ph_ean": "3121040079058",
       "prev_price": 128.95,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 3.7
     },
     {
       "brand": "Braun",
@@ -476,7 +483,7 @@
       "price": 87.9,
       "score": 8.4,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Krachtig stoomstrijkijzer met keramische zool die snel op temperatuur is.",
       "specs": {
         "Type": "Stoomstrijkijzer",
@@ -540,7 +547,8 @@
       "low_price": 85.0,
       "prev_price": 89.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8021098002594"
+      "ph_ean": "8021098002594",
+      "rating": 4.5
     },
     {
       "brand": "Tefal",
@@ -548,7 +556,7 @@
       "price": 63.99,
       "score": 8.2,
       "label": null,
-      "reviews": "1.900+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betrouwbaar middenklasse strijkijzer met Durilium-zool en antikalk.",
       "specs": {
         "Type": "Stoomstrijkijzer",
@@ -604,7 +612,8 @@
       "low_price": 54.99,
       "prev_price": 65.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "3121040078686"
+      "ph_ean": "3121040078686",
+      "rating": 4.5
     },
     {
       "brand": "Rowenta",
@@ -612,7 +621,7 @@
       "price": 37.75,
       "score": 7.9,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Eenvoudig en betaalbaar stoomstrijkijzer met roestvrijstalen zool.",
       "specs": {
         "Type": "Stoomstrijkijzer",
@@ -676,7 +685,8 @@
       "low_price": 37.75,
       "prev_price": 39.74,
       "prev_date": "2026-11-14",
-      "ph_ean": "4210101969304"
+      "ph_ean": "4210101969304",
+      "rating": 3.9
     }
   ],
   "guide": [

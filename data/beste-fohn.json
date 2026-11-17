@@ -24,7 +24,7 @@
       "price": 349.0,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "1.900+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Snelste droogtijd en sensoren die je hoofdhuid beschermen.",
       "specs": {
         "Vermogen": "1600 W (digitale motor)",
@@ -90,7 +90,8 @@
       "low_price": 349.0,
       "ph_ean": "5025155113219",
       "prev_price": 399.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Philips",
@@ -98,7 +99,7 @@
       "price": 87.9,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "2.400+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Slimme temperatuursensor en 2300 watt voor minder dan 80 euro.",
       "specs": {
         "Vermogen": "2300 W",
@@ -162,7 +163,8 @@
       "low_price": 86.15,
       "prev_price": 86.15,
       "prev_date": "2026-11-16",
-      "ph_ean": "8720689027236"
+      "ph_ean": "8720689027236",
+      "rating": 4.2
     },
     {
       "brand": "ghd",
@@ -170,7 +172,7 @@
       "price": 159.54,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "860+ reviews",
+      "reviews": "bol-score 3,0 van 5",
       "oneliner": "Kapperskwaliteit met een gerichte luchtstroom voor glad haar.",
       "specs": {
         "Vermogen": "2200 W",
@@ -236,7 +238,8 @@
       "low_price": 159.0,
       "prev_price": 159.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "5056668000024"
+      "ph_ean": "5056668000024",
+      "rating": 3.0
     },
     {
       "brand": "Remington",
@@ -244,7 +247,7 @@
       "price": 28.6,
       "score": 8.3,
       "label": null,
-      "reviews": "3.100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Krachtige 2400 watt föhn voor een budgetprijs.",
       "specs": {
         "Vermogen": "2400 W",
@@ -310,7 +313,8 @@
       "low_price": 27.0,
       "prev_price": 27.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4008496790968"
+      "ph_ean": "4008496790968",
+      "rating": 4.5
     },
     {
       "brand": "BaByliss",
@@ -318,7 +322,7 @@
       "price": 89.9,
       "score": 8.6,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Lichte föhn met een digitale motor voor snel drogen.",
       "specs": {
         "Vermogen": "1600 W (digitale motor)",
@@ -380,7 +384,8 @@
         "2026-11-17": 89.9
       },
       "low_price": 89.9,
-      "ph_ean": "3030050205992"
+      "ph_ean": "3030050205992",
+      "rating": 5.0
     },
     {
       "brand": "Shark",
@@ -388,7 +393,7 @@
       "price": 119.0,
       "score": 8.8,
       "label": null,
-      "reviews": "540+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Dyson-alternatief met opzetstukken voor krullen en stijl haar.",
       "specs": {
         "Vermogen": "1700 W (digitale motor)",
@@ -452,14 +457,15 @@
       "low_price": 119.0,
       "prev_price": 193.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "0622356311939"
+      "ph_ean": "0622356311939",
+      "rating": 4.5
     },
     {
       "brand": "Rowenta",
       "name": "Ultra Silence CV6430",
       "price": 44.99,
       "score": 8.5,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "De stilste föhn van Rowenta voor een middenprijs.",
       "specs": {
         "Vermogen": "2100 W",
@@ -511,7 +517,8 @@
       "synced": "2026-11-17",
       "prev_price": 64.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "3121040090961"
+      "ph_ean": "3121040090961",
+      "rating": 4.6
     },
     {
       "brand": "Rowenta",
@@ -519,7 +526,7 @@
       "price": 30.99,
       "score": 8.1,
       "label": null,
-      "reviews": "1.600+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Krachtige 2300 watt föhn met ionen voor een lage prijs.",
       "specs": {
         "Vermogen": "2300 W",
@@ -582,7 +589,8 @@
       "low_price": 17.39,
       "prev_price": 17.39,
       "prev_date": "2026-11-05",
-      "ph_ean": "3121040078112"
+      "ph_ean": "3121040078112",
+      "rating": 4.2
     },
     {
       "brand": "Parlux",
@@ -590,7 +598,7 @@
       "price": 129.68,
       "score": 8.9,
       "label": null,
-      "reviews": "410+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Italiaanse kappersföhn met 2250 watt en 2000 uur levensduur.",
       "specs": {
         "Vermogen": "2250 W",
@@ -656,7 +664,8 @@
       "low_price": 126.62,
       "prev_price": 143.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "8021233132018"
+      "ph_ean": "8021233132018",
+      "rating": 4.2
     },
     {
       "brand": "Philips",
@@ -664,7 +673,7 @@
       "price": 48.79,
       "score": 8.0,
       "label": null,
-      "reviews": "2.200+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Betrouwbare allrounder met ionen en zes standen.",
       "specs": {
         "Vermogen": "2300 W",
@@ -708,7 +717,8 @@
       "synced": "2026-11-17",
       "prev_price": 48.77,
       "prev_date": "2026-11-16",
-      "ph_ean": "8710103948834"
+      "ph_ean": "8710103948834",
+      "rating": 4.3
     }
   ],
   "guide": [

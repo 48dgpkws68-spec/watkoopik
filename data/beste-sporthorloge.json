@@ -25,7 +25,7 @@
       "price": 329.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "1.200+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Complete hardloophorloge met AMOLED-scherm en slim trainingsadvies.",
       "specs": {
         "Scherm": "1,3 inch AMOLED",
@@ -88,7 +88,8 @@
       "low_price": 329.0,
       "prev_price": 349.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "0753759313715"
+      "ph_ean": "0753759313715",
+      "rating": 5.0
     },
     {
       "brand": "Garmin",
@@ -96,7 +97,7 @@
       "price": 625.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Robuust multisporthorloge met kaarten, zaklamp en enorme accu.",
       "specs": {
         "Scherm": "1,4 inch AMOLED",
@@ -161,7 +162,8 @@
       "low_price": 625.0,
       "prev_price": 629.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "0753759338060"
+      "ph_ean": "0753759338060",
+      "rating": 4.3
     },
     {
       "brand": "COROS",
@@ -169,7 +171,7 @@
       "price": 269.0,
       "score": 9.1,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Licht hardloophorloge met AMOLED en lange accu.",
       "specs": {
         "Scherm": "1,2 inch AMOLED",
@@ -229,7 +231,8 @@
         "2026-11-17": 269.0
       },
       "low_price": 269.0,
-      "ph_ean": "0810005785013"
+      "ph_ean": "0810005785013",
+      "rating": 5.0
     },
     {
       "brand": "Garmin",
@@ -237,7 +240,7 @@
       "price": 179.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Betaalbare Forerunner met AMOLED-scherm en trainingsadvies.",
       "specs": {
         "Scherm": "1,2 inch AMOLED",
@@ -299,7 +302,8 @@
       "low_price": 179.0,
       "prev_price": 207.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "0753759326593"
+      "ph_ean": "0753759326593",
+      "rating": 4.6
     },
     {
       "brand": "Garmin",
@@ -307,7 +311,7 @@
       "price": 399.0,
       "score": 8.9,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Stijlvolle smartwatch met volwaardige sportfuncties.",
       "specs": {
         "Scherm": "1,2 inch AMOLED",
@@ -369,7 +373,8 @@
       "low_price": 399.0,
       "prev_price": 429.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "0753759342869"
+      "ph_ean": "0753759342869",
+      "rating": 4.6
     },
     {
       "brand": "Polar",
@@ -377,7 +382,7 @@
       "price": 292.95,
       "score": 8.8,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Multisporthorloge met AMOLED en offline kaarten.",
       "specs": {
         "Scherm": "1,28 inch AMOLED",
@@ -439,7 +444,8 @@
       "low_price": 292.95,
       "prev_price": 299.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "0725882066752"
+      "ph_ean": "0725882066752",
+      "rating": 4.3
     },
     {
       "brand": "Garmin",
@@ -447,7 +453,7 @@
       "price": 188.99,
       "score": 8.7,
       "label": null,
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Allround sport-smartwatch met AMOLED voor een lage prijs.",
       "specs": {
         "Scherm": "1,2 inch AMOLED",
@@ -509,7 +515,8 @@
       "low_price": 176.99,
       "prev_price": 203.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "0753759324902"
+      "ph_ean": "0753759324902",
+      "rating": 4.4
     },
     {
       "brand": "Polar",
@@ -517,7 +524,7 @@
       "price": 164.99,
       "score": 8.5,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Licht en betaalbaar GPS-hardloophorloge van Polar.",
       "specs": {
         "Scherm": "1,2 inch MIP",
@@ -556,7 +563,8 @@
       "synced": "2026-11-17",
       "prev_price": 165.99,
       "prev_date": "2026-11-12",
-      "ph_ean": "0725882060453"
+      "ph_ean": "0725882060453",
+      "rating": 4.1
     },
     {
       "brand": "Garmin",
@@ -564,7 +572,7 @@
       "price": 143.0,
       "score": 8.4,
       "label": null,
-      "reviews": "2.000+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Eenvoudig instaphorloge met GPS en dagelijkse workouts.",
       "specs": {
         "Scherm": "1,04 inch MIP",
@@ -626,7 +634,8 @@
       "low_price": 143.0,
       "prev_price": 149.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "0753759279639"
+      "ph_ean": "0753759279639",
+      "rating": 4.6
     },
     {
       "brand": "Polar",
@@ -634,7 +643,7 @@
       "price": 125.0,
       "score": 8.0,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Betaalbaar fitnesshorloge met GPS en goede slaapanalyse.",
       "specs": {
         "Scherm": "1,2 inch kleuren-lcd",
@@ -696,7 +705,8 @@
       "low_price": 121.0,
       "prev_price": 128.95,
       "prev_date": "2026-11-11",
-      "ph_ean": "0725882058139"
+      "ph_ean": "0725882058139",
+      "rating": 4.1
     }
   ],
   "guide": [

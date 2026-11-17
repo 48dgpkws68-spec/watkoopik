@@ -24,7 +24,7 @@
       "price": 1229.99,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "3.400+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Licht, stil en snel met een accu voor de hele dag.",
       "specs": {
         "Processor": "Apple M4 (10-core)",
@@ -65,7 +65,8 @@
       },
       "low_price": 1229.99,
       "synced": "2026-11-17",
-      "ph_ean": "0195949837210"
+      "ph_ean": "0195949837210",
+      "rating": 4.9
     },
     {
       "brand": "ASUS",
@@ -73,7 +74,7 @@
       "price": 699.0,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Ruime Copilot+ laptop met 16-inch scherm en 16 GB voor een scherpe prijs.",
       "specs": {
         "Processor": "AMD Ryzen AI 5",
@@ -108,7 +109,8 @@
       },
       "low_price": 699.0,
       "ph_ean": "4711387879306",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.5
     },
     {
       "brand": "Apple",
@@ -116,7 +118,7 @@
       "price": 2699.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Krachtpatser voor video, foto en code met een topscherm.",
       "specs": {
         "Processor": "Apple M4 Pro (12-core)",
@@ -181,7 +183,8 @@
       "low_price": 2599.0,
       "prev_price": 2599.0,
       "prev_date": "2026-10-26",
-      "ph_ean": "0195949869624"
+      "ph_ean": "0195949869624",
+      "rating": 5.0
     },
     {
       "brand": "Microsoft",
@@ -189,7 +192,7 @@
       "price": 1399.0,
       "score": 8.8,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Elegante Windows-laptop met de nieuwe Snapdragon X2 Plus.",
       "specs": {
         "Processor": "Snapdragon X2 Plus",
@@ -243,7 +246,7 @@
       "price": 1699.0,
       "score": 8.7,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "",
       "oneliner": "Compacte premium laptop met zuinige Intel Lunar Lake-chip.",
       "specs": {
         "Processor": "Intel Core Ultra 7 258V",
@@ -315,7 +318,7 @@
       "price": 799.0,
       "score": 8.6,
       "label": null,
-      "reviews": "Nieuw op bol",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Lichte Copilot+ laptop met OLED-scherm en lange accuduur.",
       "specs": {
         "Processor": "AMD Ryzen AI 5",
@@ -379,7 +382,8 @@
       "low_price": 799.0,
       "prev_price": 1099.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "4711636430845"
+      "ph_ean": "4711636430845",
+      "rating": 3.8
     },
     {
       "brand": "Lenovo",
@@ -387,7 +391,7 @@
       "price": 1359.0,
       "score": 8.5,
       "label": null,
-      "reviews": "nog weinig reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Gaminglaptop met RTX 5050 en snel 144 Hz-scherm.",
       "specs": {
         "Processor": "AMD Ryzen 7 250",
@@ -442,7 +446,8 @@
       "low_price": 1359.0,
       "prev_price": 1589.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "0199271275627"
+      "ph_ean": "0199271275627",
+      "rating": 4.8
     },
     {
       "brand": "ASUS",
@@ -450,7 +455,7 @@
       "price": 1826.95,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "",
       "oneliner": "16 inch gaming-laptop met RTX 5070 en snel 240 Hz-scherm.",
       "specs": {
         "Processor": "AMD Ryzen 9",
@@ -498,7 +503,7 @@
       "price": 1299.0,
       "score": 8.4,
       "label": null,
-      "reviews": "Beoordeeld met 4,9 op bol",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Betaalbare gaming-laptop met RTX 5060 en een vlot 165 Hz-scherm.",
       "specs": {
         "Processor": "AMD Ryzen 7",
@@ -551,7 +556,8 @@
       "synced": "2026-11-17",
       "prev_price": 1409.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "4711721048832"
+      "ph_ean": "4711721048832",
+      "rating": 4.9
     },
     {
       "brand": "Lenovo",
@@ -559,7 +565,7 @@
       "price": 599.0,
       "score": 7.9,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Dunne en zuinige laptop voor dagelijks gebruik.",
       "specs": {
         "Processor": "AMD Ryzen 5",
@@ -621,7 +627,8 @@
       "low_price": 599.0,
       "prev_price": 679.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "0199275372988"
+      "ph_ean": "0199275372988",
+      "rating": 4.6
     }
   ],
   "guide": [

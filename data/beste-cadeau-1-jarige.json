@@ -61,7 +61,8 @@
       "ph_ean": "3417765056239",
       "synced": "2026-11-17",
       "prev_price": 39.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Fisher-Price",
@@ -101,7 +102,8 @@
       },
       "low_price": 12.01,
       "ph_ean": "0887961902242",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "BIG",
@@ -143,7 +145,8 @@
       "ph_ean": "4004943013031",
       "synced": "2026-11-17",
       "prev_price": 53.09,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.9
     },
     {
       "brand": "BERG",
@@ -185,7 +188,8 @@
       "ph_ean": "8715839065404",
       "synced": "2026-11-17",
       "prev_price": 69.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.9
     },
     {
       "brand": "Hape",
@@ -227,7 +231,8 @@
       "ph_ean": "6943478002340",
       "synced": "2026-11-17",
       "prev_price": 25.39,
-      "prev_date": "2026-11-13"
+      "prev_date": "2026-11-13",
+      "rating": 4.8
     },
     {
       "brand": "VTech",
@@ -269,7 +274,8 @@
       "ph_ean": "3417761834237",
       "synced": "2026-11-17",
       "prev_price": 39.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "SmartMax",
@@ -311,7 +317,8 @@
       "ph_ean": "5414301249856",
       "synced": "2026-11-17",
       "prev_price": 18.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "VTech",
@@ -353,7 +360,8 @@
       "ph_ean": "3417765127625",
       "synced": "2026-11-17",
       "prev_price": 44.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "Fisher-Price",
@@ -361,7 +369,7 @@
       "price": 15.99,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Zachte knuffel van 38 cm die zingt en eerste woordjes leert.",
       "specs": {
         "Leeftijd fabrikant": "6 tot 36 maanden",
@@ -395,7 +403,8 @@
       "ph_ean": "0194735294039",
       "synced": "2026-11-17",
       "prev_price": 19.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Eichhorn",
@@ -437,7 +446,8 @@
       "ph_ean": "4003046020984",
       "synced": "2026-11-17",
       "prev_price": 20.59,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.5
     }
   ],
   "guide": [

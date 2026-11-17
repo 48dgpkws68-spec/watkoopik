@@ -25,7 +25,7 @@
       "price": 324.99,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "900+ reviews",
+      "reviews": "",
       "oneliner": "Betrouwbare valdetectie en noodoproep, ook zonder iPhone in de buurt.",
       "specs": {
         "Valdetectie": "Ja, automatisch aan vanaf 55 jaar",
@@ -78,7 +78,7 @@
       "price": 179.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Simpel alarmhorloge met SOS-knop, valdetectie en GPS zonder abonnement.",
       "specs": {
         "Valdetectie": "Ja",
@@ -135,7 +135,8 @@
         "2026-11-17": 179.0
       },
       "low_price": 179.0,
-      "ph_ean": "8720865589480"
+      "ph_ean": "8720865589480",
+      "rating": 5.0
     },
     {
       "brand": "Apple",
@@ -143,7 +144,7 @@
       "price": 539.99,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Groot helder scherm, valdetectie en extra gezondheidsfuncties.",
       "specs": {
         "Valdetectie": "Ja, automatisch aan vanaf 55 jaar",
@@ -200,7 +201,8 @@
         "2026-11-17": 539.99
       },
       "low_price": 539.99,
-      "ph_ean": "0195950630817"
+      "ph_ean": "0195950630817",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -208,7 +210,7 @@
       "price": 299.0,
       "score": 8.8,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Draaibare ring maakt bedienen makkelijker dan vegen op een klein scherm.",
       "specs": {
         "Valdetectie": "Ja, in te schakelen",
@@ -267,7 +269,8 @@
       "low_price": 229.0,
       "prev_price": 253.76,
       "prev_date": "2026-11-14",
-      "ph_ean": "8806097480013"
+      "ph_ean": "8806097480013",
+      "rating": 4.5
     },
     {
       "brand": "Samsung",
@@ -275,7 +278,7 @@
       "price": 237.95,
       "score": 8.6,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Compacte LTE-smartwatch met valdetectie voor smallere polsen.",
       "specs": {
         "Valdetectie": "Ja, in te schakelen",
@@ -334,7 +337,8 @@
       "low_price": 218.0,
       "prev_price": 229.0,
       "prev_date": "2026-10-28",
-      "ph_ean": "8806097481201"
+      "ph_ean": "8806097481201",
+      "rating": 4.2
     },
     {
       "brand": "Google",
@@ -342,7 +346,7 @@
       "price": 259.0,
       "score": 8.6,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Overzichtelijke software met valdetectie en noodhulp, ook via LTE.",
       "specs": {
         "Valdetectie": "Ja, in te schakelen",
@@ -401,7 +405,8 @@
       "low_price": 237.0,
       "prev_price": 262.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "0840353907867"
+      "ph_ean": "0840353907867",
+      "rating": 5.0
     },
     {
       "brand": "PersonalClick",
@@ -409,7 +414,7 @@
       "price": 219.0,
       "score": 8.4,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Alarmhorloge met zes dagen accuduur, SOS-knop en valdetectie.",
       "specs": {
         "Valdetectie": "Ja",
@@ -453,7 +458,8 @@
       },
       "low_price": 219.0,
       "synced": "2026-11-17",
-      "ph_ean": "8721249863127"
+      "ph_ean": "8721249863127",
+      "rating": 3.7
     },
     {
       "brand": "WatchToCare",
@@ -461,7 +467,7 @@
       "price": 169.95,
       "score": 8.3,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Klassiek ogend alarmhorloge met videobellen, SOS en valdetectie.",
       "specs": {
         "Valdetectie": "Ja",
@@ -517,7 +523,8 @@
         "2026-11-17": 169.95
       },
       "low_price": 169.95,
-      "ph_ean": "8719326843766"
+      "ph_ean": "8719326843766",
+      "rating": 4.0
     },
     {
       "brand": "WatchToCare",
@@ -525,7 +532,7 @@
       "price": 197.95,
       "score": 8.2,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Nieuwer alarmhorloge met vier dagen accuduur en valdetectie.",
       "specs": {
         "Valdetectie": "Ja",
@@ -570,7 +577,8 @@
       },
       "low_price": 197.95,
       "synced": "2026-11-17",
-      "ph_ean": "8720938312304"
+      "ph_ean": "8720938312304",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -578,7 +586,7 @@
       "price": 216.73,
       "score": 8.1,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Betaalbare smartwatch met valdetectie, zolang de telefoon in de buurt is.",
       "specs": {
         "Valdetectie": "Ja, in te schakelen",
@@ -607,7 +615,8 @@
       "ph": {
         "2026-11-17": 216.73
       },
-      "low_price": 216.73
+      "low_price": 216.73,
+      "rating": 4.2
     }
   ],
   "guide": [

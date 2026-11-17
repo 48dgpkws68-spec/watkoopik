@@ -27,7 +27,7 @@
       "price": 24.95,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "24 kleine puzzels die samen één kerstverhaal vertellen.",
       "specs": {
         "Voor wie": "Puzzelaars en gezinnen",
@@ -72,7 +72,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8721017608868",
       "prev_price": 22.99,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.9
     },
     {
       "brand": "LEGO",
@@ -80,7 +81,7 @@
       "price": 21.99,
       "score": 9.1,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Mandalorian-thema met Grogu in kersttrui en zeven minivoertuigen.",
       "specs": {
         "Voor wie": "Kinderen en Star Wars-fans",
@@ -125,7 +126,8 @@
       "synced": "2026-11-17",
       "prev_price": 23.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "5702018062470"
+      "ph_ean": "5702018062470",
+      "rating": 4.6
     },
     {
       "brand": "LEGO",
@@ -133,7 +135,7 @@
       "price": 19.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Drie poppetjes en zes dieren voor minder dan 20 euro.",
       "specs": {
         "Voor wie": "Kinderen die graag rollenspellen spelen",
@@ -178,7 +180,8 @@
       "synced": "2026-11-17",
       "prev_price": 20.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "5702018054697"
+      "ph_ean": "5702018054697",
+      "rating": 5.0
     },
     {
       "brand": "Yves Rocher",
@@ -186,7 +189,7 @@
       "price": 56.99,
       "score": 8.9,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "24 plantaardige beautyproducten, waarvan vijf op normaal formaat.",
       "specs": {
         "Voor wie": "Beautyliefhebbers",
@@ -229,7 +232,8 @@
       },
       "low_price": 56.99,
       "synced": "2026-11-17",
-      "ph_ean": "3660005424958"
+      "ph_ean": "3660005424958",
+      "rating": 5.0
     },
     {
       "brand": "NIVEA",
@@ -237,7 +241,7 @@
       "price": 71.99,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Verzorging van top tot teen met mini's en accessoires.",
       "specs": {
         "Voor wie": "Vrouwen die van verzorging houden",
@@ -280,7 +284,8 @@
       "bol_title": "NIVEA Adventskalender Vrouwen 2026 – Geschenkset met 24 Verzorgende NIVEA Mini’s en Accessoires - Giftset - Aftelkalender - Kerstkalender - Sint Cadeau",
       "url": "https://www.bol.com/nl/nl/p/nivea-adventskalender-vrouwen-2025-kerst-en-sinterklaas-geschenkset-met-24-verzorgende-nivea-mini-s-en-accessoires-kerstcadeau/9300000239540729/",
       "image": "https://media.s-bol.com/BZKvVNWQxvqJ/y8vVvn6/550x363.jpg",
-      "ph_ean": "4006000209623"
+      "ph_ean": "4006000209623",
+      "rating": 4.3
     },
     {
       "brand": "999 Games",
@@ -288,7 +293,7 @@
       "price": 39.99,
       "score": 8.6,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Escape room in 24 delen met een doorlopend verhaal.",
       "specs": {
         "Voor wie": "Puzzelaars en stellen",
@@ -333,7 +338,8 @@
       "synced": "2026-11-17",
       "prev_price": 34.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "8721184285022"
+      "ph_ean": "8721184285022",
+      "rating": 4.0
     },
     {
       "brand": "Pukka",
@@ -341,7 +347,7 @@
       "price": 11.25,
       "score": 8.5,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "24 biologische theezakjes in twaalf smaken.",
       "specs": {
         "Voor wie": "Theedrinkers",
@@ -386,7 +392,8 @@
       "synced": "2026-11-17",
       "prev_price": 11.34,
       "prev_date": "2026-11-16",
-      "ph_ean": "5063270119464"
+      "ph_ean": "5063270119464",
+      "rating": 4.5
     },
     {
       "brand": "PLAYMOBIL",
@@ -394,7 +401,7 @@
       "price": 26.32,
       "score": 8.3,
       "label": null,
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "Een kerstwereld op de Noordpool die elke dag verder groeit.",
       "specs": {
         "Voor wie": "Kinderen die van kerst en fantasiespel houden",
@@ -444,7 +451,7 @@
       "price": 21.99,
       "score": 8.2,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Suikervrije smaken voor je water in plaats van snoep.",
       "specs": {
         "Voor wie": "Sporters en wie minder suiker wil",
@@ -487,7 +494,8 @@
       "synced": "2026-11-17",
       "prev_price": 18.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "9120125310691"
+      "ph_ean": "9120125310691",
+      "rating": 4.8
     },
     {
       "brand": "Tony's Chocolonely",
@@ -495,7 +503,7 @@
       "price": 11.04,
       "score": 8.0,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Fairtrade chocolaatjes in twee smaken voor op je bureau.",
       "specs": {
         "Voor wie": "Chocoladeliefhebbers",
@@ -540,7 +548,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8720701146723",
       "prev_price": 10.49,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 3.9
     }
   ],
   "guide": [

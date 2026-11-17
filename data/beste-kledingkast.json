@@ -25,7 +25,7 @@
       "price": 699.0,
       "score": 9.0,
       "label": "Beste keuze",
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Ruime schuifdeurkast met spiegel in vijf kleuren.",
       "specs": {
         "Breedte": "200 cm",
@@ -80,7 +80,8 @@
         "2026-11-17": 699.0
       },
       "low_price": 699.0,
-      "ph_ean": "8721352701163"
+      "ph_ean": "8721352701163",
+      "rating": 4.0
     },
     {
       "brand": "Giga Living",
@@ -88,7 +89,7 @@
       "price": 197.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "nog weinig reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Ruime driedeurskast in wit voor een vriendelijke prijs.",
       "specs": {
         "Breedte": "116 cm",
@@ -143,7 +144,8 @@
       "low_price": 197.0,
       "prev_price": 202.1,
       "prev_date": "2026-11-14",
-      "ph_ean": "8721403533279"
+      "ph_ean": "8721403533279",
+      "rating": 4.0
     },
     {
       "brand": "Meubella",
@@ -151,7 +153,7 @@
       "price": 799.0,
       "score": 8.7,
       "label": "Beste premium",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Extra brede schuifdeurkast voor veel kleding.",
       "specs": {
         "Breedte": "250 cm",
@@ -206,7 +208,8 @@
         "2026-11-17": 799.0
       },
       "low_price": 799.0,
-      "ph_ean": "8721352700890"
+      "ph_ean": "8721352700890",
+      "rating": 4.0
     },
     {
       "brand": "Promeubels",
@@ -214,7 +217,7 @@
       "price": 449.9,
       "score": 8.5,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Schuifdeurkast in zwart en eiken, 215 cm hoog.",
       "specs": {
         "Breedte": "200 cm",
@@ -268,7 +271,8 @@
         "2026-11-17": 449.9
       },
       "low_price": 449.9,
-      "ph_ean": "6151913790763"
+      "ph_ean": "6151913790763",
+      "rating": 5.0
     },
     {
       "brand": "Giga Living",
@@ -276,7 +280,7 @@
       "price": 390.95,
       "score": 8.4,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "bol-score 3,0 van 5",
       "oneliner": "Strakke kast in mat zwart met hangruimte en lades.",
       "specs": {
         "Breedte": "118 cm",
@@ -321,7 +325,8 @@
       },
       "low_price": 390.95,
       "synced": "2026-11-17",
-      "ph_ean": "5713035068031"
+      "ph_ean": "5713035068031",
+      "rating": 3.0
     },
     {
       "brand": "Rousseau",
@@ -329,7 +334,7 @@
       "price": 278.85,
       "score": 8.3,
       "label": null,
-      "reviews": "4/5 op bol",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Driedeurskast in sonoma-eikenlook met hangruimte en legplanken.",
       "specs": {
         "Breedte": "117,5 cm",
@@ -383,7 +388,8 @@
       "synced": "2026-11-17",
       "prev_price": 302.79,
       "prev_date": "2026-11-14",
-      "ph_ean": "5400860631027"
+      "ph_ean": "5400860631027",
+      "rating": 4.0
     },
     {
       "brand": "Giga Living",
@@ -391,7 +397,7 @@
       "price": 242.0,
       "score": 8.2,
       "label": null,
-      "reviews": "nog weinig reviews",
+      "reviews": "",
       "oneliner": "Hoge witte kast van 2 meter met veel hangruimte.",
       "specs": {
         "Breedte": "116 cm",
@@ -454,7 +460,7 @@
       "price": 399.0,
       "score": 8.1,
       "label": null,
-      "reviews": "nog weinig reviews",
+      "reviews": "",
       "oneliner": "Eiken schuifdeurkast van 150 cm met een ronde spiegel in de deur.",
       "specs": {
         "Breedte": "150 cm",
@@ -497,7 +503,7 @@
       "price": 221.31,
       "score": 8.0,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Set van twee kasten die precies onder een schuin dak past.",
       "specs": {
         "Breedte": "2 kasten",
@@ -553,7 +559,8 @@
       "low_price": 221.31,
       "ph_ean": "4066731508310",
       "prev_price": 245.9,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "SONGMICS",
@@ -561,7 +568,7 @@
       "price": 88.99,
       "score": 7.9,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Open metalen garderobe met lades voor een klein budget.",
       "specs": {
         "Breedte": "ca. 110 cm",
@@ -617,7 +624,8 @@
       "low_price": 76.99,
       "prev_price": 84.99,
       "prev_date": "2026-11-12",
-      "ph_ean": "0194343626765"
+      "ph_ean": "0194343626765",
+      "rating": 5.0
     }
   ],
   "guide": [

@@ -62,7 +62,8 @@
       "ph_ean": "8004399143159",
       "synced": "2026-11-17",
       "prev_price": 111.04,
-      "prev_date": "2026-11-12"
+      "prev_date": "2026-11-12",
+      "rating": 4.5
     },
     {
       "brand": "De'Longhi",
@@ -70,7 +71,7 @@
       "price": 153.02,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Slanke keramische torenkachel met draaivoet en afstandsbediening.",
       "specs": {
         "Type": "Keramisch, toren",
@@ -125,7 +126,8 @@
       "synced": "2026-11-17",
       "prev_price": 154.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "8004399143166"
+      "ph_ean": "8004399143166",
+      "rating": 4.4
     },
     {
       "brand": "Princess",
@@ -133,7 +135,7 @@
       "price": 59.99,
       "score": 8.9,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Slimme 360 graden kachel die je bedient met een app.",
       "specs": {
         "Type": "Keramisch, rond",
@@ -187,7 +189,8 @@
       "synced": "2026-11-17",
       "prev_price": 62.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8711658522524"
+      "ph_ean": "8711658522524",
+      "rating": 4.0
     },
     {
       "brand": "Inventum",
@@ -195,7 +198,7 @@
       "price": 34.8,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare keramische kachel met 60 graden oscillatie.",
       "specs": {
         "Type": "Keramisch, compact",
@@ -249,7 +252,8 @@
       "synced": "2026-11-17",
       "prev_price": 35.1,
       "prev_date": "2026-11-14",
-      "ph_ean": "8712876044072"
+      "ph_ean": "8712876044072",
+      "rating": 4.5
     },
     {
       "brand": "Rowenta",
@@ -257,7 +261,7 @@
       "price": 94.99,
       "score": 8.6,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Compacte keramische kachel met Eco-stand en vorstbeveiliging.",
       "specs": {
         "Type": "Keramisch, compact",
@@ -311,7 +315,8 @@
       "synced": "2026-11-17",
       "prev_price": 100.99,
       "prev_date": "2026-11-12",
-      "ph_ean": "3121040083093"
+      "ph_ean": "3121040083093",
+      "rating": 4.3
     },
     {
       "brand": "Eurom",
@@ -319,7 +324,7 @@
       "price": 65.81,
       "score": 8.4,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Keramische kachel met wifi, display en weektimer.",
       "specs": {
         "Type": "Keramisch, compact",
@@ -373,7 +378,8 @@
       "synced": "2026-11-17",
       "prev_price": 65.31,
       "prev_date": "2026-11-16",
-      "ph_ean": "8713415342741"
+      "ph_ean": "8713415342741",
+      "rating": 4.2
     },
     {
       "brand": "Duux",
@@ -381,7 +387,7 @@
       "price": 69.99,
       "score": 8.3,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Strak vormgegeven keramische kachel met draaifunctie.",
       "specs": {
         "Type": "Keramisch, compact",
@@ -433,7 +439,8 @@
       },
       "low_price": 69.99,
       "synced": "2026-11-17",
-      "ph_ean": "8716164990614"
+      "ph_ean": "8716164990614",
+      "rating": 4.1
     },
     {
       "brand": "Tristar",
@@ -441,7 +448,7 @@
       "price": 52.99,
       "score": 8.1,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Betaalbare keramische torenkachel met oscillatie en thermostaat.",
       "specs": {
         "Type": "Keramisch, toren",
@@ -495,7 +502,8 @@
       "synced": "2026-11-17",
       "prev_price": 41.0,
       "prev_date": "2026-10-28",
-      "ph_ean": "8712836970151"
+      "ph_ean": "8712836970151",
+      "rating": 3.9
     },
     {
       "brand": "Eurom",
@@ -503,7 +511,7 @@
       "price": 35.36,
       "score": 8.0,
       "label": null,
-      "reviews": "350+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Kleine keramische kachel met drie standen en omvalbeveiliging.",
       "specs": {
         "Type": "Keramisch, compact",
@@ -557,7 +565,8 @@
       "synced": "2026-11-17",
       "prev_price": 35.71,
       "prev_date": "2026-11-16",
-      "ph_ean": "8713415341898"
+      "ph_ean": "8713415341898",
+      "rating": 4.3
     },
     {
       "brand": "Auronic",
@@ -565,7 +574,7 @@
       "price": 42.99,
       "score": 7.9,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Goedkope keramische kachel met draaifunctie en 2000 W.",
       "specs": {
         "Type": "Keramisch, compact",
@@ -619,7 +628,8 @@
       "synced": "2026-11-17",
       "prev_price": 49.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8721055567356"
+      "ph_ean": "8721055567356",
+      "rating": 4.3
     }
   ],
   "guide": [

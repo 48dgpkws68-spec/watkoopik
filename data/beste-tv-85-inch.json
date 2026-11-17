@@ -27,7 +27,7 @@
       "price": 1298.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "90+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "QD-Mini LED op 85 inch voor ongeveer 15 euro per inch.",
       "specs": {
         "Paneel": "QD-Mini LED",
@@ -70,14 +70,15 @@
       "synced": "2026-11-17",
       "ph_ean": "5901292531041",
       "prev_price": 1299.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "Hisense",
       "name": "85E7S PRO",
       "price": 1199.0,
       "score": 9.0,
-      "reviews": "Bol-score 4,8 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Hi-QLED en native 144 Hz op 85 inch voor rond de 1.200 euro.",
       "specs": {
         "Paneel": "Hi-QLED (Direct LED)",
@@ -115,7 +116,8 @@
       },
       "low_price": 1199.0,
       "synced": "2026-11-17",
-      "ph_ean": "6942351436074"
+      "ph_ean": "6942351436074",
+      "rating": 4.8
     },
     {
       "brand": "Sony",
@@ -123,7 +125,7 @@
       "price": 3299.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "20+ reviews",
+      "reviews": "",
       "oneliner": "RGB-LED met Sony-beeldverwerking voor de mooiste kleuren op 85 inch.",
       "specs": {
         "Paneel": "RGB-LED",
@@ -172,7 +174,7 @@
       "price": 1799.0,
       "score": 9.0,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "RGB Mini LED op 85 inch voor ruim de helft van de Sony-prijs.",
       "specs": {
         "Paneel": "RGB Mini-LED",
@@ -212,7 +214,8 @@
       },
       "low_price": 1799.0,
       "synced": "2026-11-17",
-      "ph_ean": "5901292529970"
+      "ph_ean": "5901292529970",
+      "rating": 5.0
     },
     {
       "brand": "LG",
@@ -220,7 +223,7 @@
       "price": 929.0,
       "score": 8.4,
       "label": null,
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "85 inch van LG met webOS voor onder de 950 euro.",
       "specs": {
         "Paneel": "NanoCell (Direct LED)",
@@ -260,7 +263,7 @@
       "price": 1699.0,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 4,5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Rustig en natuurlijk beeld op 85 inch met Google TV en Dolby Vision.",
       "specs": {
         "Paneel": "LED (Direct LED)",
@@ -298,7 +301,8 @@
       },
       "low_price": 1699.0,
       "synced": "2026-11-17",
-      "ph_ean": "4548736172265"
+      "ph_ean": "4548736172265",
+      "rating": 4.5
     },
     {
       "brand": "Xiaomi",
@@ -306,7 +310,7 @@
       "price": 1298.99,
       "score": 8.6,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "Felle QD-Mini LED met 1.200 nits en Google TV.",
       "specs": {
         "Paneel": "QD-Mini LED",
@@ -354,7 +358,7 @@
       "price": 1399.0,
       "score": 8.5,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "86 inch QNED met webOS en een brede kijkhoek.",
       "specs": {
         "Paneel": "QNED",
@@ -405,7 +409,7 @@
       "price": 999.0,
       "score": 8.3,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Hi-QLED op 85 inch met Dolby Vision voor rond de 1.000 euro.",
       "specs": {
         "Paneel": "Hi-QLED",
@@ -445,14 +449,15 @@
       },
       "low_price": 999.0,
       "synced": "2026-11-17",
-      "ph_ean": "6942351432076"
+      "ph_ean": "6942351432076",
+      "rating": 4.8
     },
     {
       "brand": "Samsung",
       "name": "UE85U7020F",
       "price": 899.0,
       "score": 8.1,
-      "reviews": "Bol-score 4,4 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "De goedkoopste 85 inch van een A-merk.",
       "specs": {
         "Paneel": "LED (Crystal UHD)",
@@ -489,7 +494,8 @@
       },
       "low_price": 899.0,
       "synced": "2026-11-17",
-      "ph_ean": "8806097253310"
+      "ph_ean": "8806097253310",
+      "rating": 4.4
     }
   ],
   "guide": [

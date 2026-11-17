@@ -25,7 +25,7 @@
       "price": 98.8,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Bruist in een glazen karaf of een kunststof fles.",
       "specs": {
         "Cilinder": "Quick Connect 60 l",
@@ -88,7 +88,8 @@
       "low_price": 91.39,
       "prev_price": 131.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719128118352"
+      "ph_ean": "8719128118352",
+      "rating": 4.5
     },
     {
       "brand": "SodaStream",
@@ -96,7 +97,7 @@
       "price": 75.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "2.400+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betrouwbare SodaStream met snel wisselbare cilinder.",
       "specs": {
         "Cilinder": "Quick Connect 60 l",
@@ -159,7 +160,8 @@
       "low_price": 69.96,
       "prev_price": 79.19,
       "prev_date": "2026-11-16",
-      "ph_ean": "7290113763784"
+      "ph_ean": "7290113763784",
+      "rating": 4.5
     },
     {
       "brand": "Aarke",
@@ -167,7 +169,7 @@
       "price": 251.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Roestvrijstalen designapparaat met hendelbediening.",
       "specs": {
         "Cilinder": "schroefcilinder 60 l",
@@ -228,7 +230,8 @@
         "2026-11-17": 251.0
       },
       "low_price": 251.0,
-      "ph_ean": "8720615729159"
+      "ph_ean": "8720615729159",
+      "rating": 5.0
     },
     {
       "brand": "WMF",
@@ -290,7 +293,8 @@
       "synced": "2026-11-17",
       "prev_price": 103.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4000530758835"
+      "ph_ean": "4000530758835",
+      "rating": 4.5
     },
     {
       "brand": "SodaStream",
@@ -298,7 +302,7 @@
       "price": 90.8,
       "score": 8.6,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "SodaStream in retrostijl met hendel.",
       "specs": {
         "Cilinder": "Quick Connect 60 l",
@@ -361,7 +365,8 @@
       "low_price": 90.8,
       "prev_price": 93.93,
       "prev_date": "2026-11-13",
-      "ph_ean": "7290113764422"
+      "ph_ean": "7290113764422",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -369,7 +374,7 @@
       "price": 66.65,
       "score": 8.4,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Compacte bruiswatermaker van Philips die zonder stroom werkt.",
       "specs": {
         "Cilinder": "60 l, meegeleverd",
@@ -429,7 +434,7 @@
       "price": 78.99,
       "score": 8.3,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Finse bruiswatermaker met behuizing van houtcomposiet.",
       "specs": {
         "Cilinder": "schroefcilinder 60 l",
@@ -492,7 +497,8 @@
       "low_price": 66.99,
       "prev_price": 78.95,
       "prev_date": "2026-11-16",
-      "ph_ean": "6430052009357"
+      "ph_ean": "6430052009357",
+      "rating": 4.5
     },
     {
       "brand": "CREATE",
@@ -531,7 +537,8 @@
       },
       "low_price": 44.95,
       "ph_ean": "8435572634551",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "SodaStream",
@@ -570,7 +577,8 @@
       },
       "low_price": 59.99,
       "ph_ean": "7290116742366",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.3
     },
     {
       "brand": "JAP Appliances",
@@ -578,7 +586,7 @@
       "price": 34.99,
       "score": 7.9,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 3,0 van 5",
       "oneliner": "Betaalbare sodamaker met RVS-fles.",
       "specs": {
         "Cilinder": "schroefcilinder 60 l",
@@ -608,7 +616,8 @@
       "ph": {
         "2026-11-17": 34.99
       },
-      "low_price": 34.99
+      "low_price": 34.99,
+      "rating": 3.0
     }
   ],
   "guide": [

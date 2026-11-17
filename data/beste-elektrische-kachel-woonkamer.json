@@ -27,7 +27,7 @@
       "price": 299.99,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Stille design-olieradiator met wifi, weekschema en 2000 watt.",
       "specs": {
         "Type": "Oliegevuld",
@@ -76,7 +76,8 @@
       "synced": "2026-11-17",
       "prev_price": 296.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "7090019823922"
+      "ph_ean": "7090019823922",
+      "rating": 4.1
     },
     {
       "brand": "Eurom",
@@ -84,7 +85,7 @@
       "price": 120.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Slanke convector met app, weekprogramma en ruim 2000 watt.",
       "specs": {
         "Type": "Convector",
@@ -118,7 +119,8 @@
         "2026-11-17": 120.99
       },
       "low_price": 120.99,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.2
     },
     {
       "brand": "Dimplex",
@@ -126,7 +128,7 @@
       "price": 354.0,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Vrijstaande sfeerhaard met waterdampvlammen en 2000 watt warmte.",
       "specs": {
         "Type": "Sfeerhaard",
@@ -176,7 +178,8 @@
       "synced": "2026-11-17",
       "prev_price": 364.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8716412235818"
+      "ph_ean": "8716412235818",
+      "rating": 4.5
     },
     {
       "brand": "Aigostar",
@@ -184,7 +187,7 @@
       "price": 132.99,
       "score": 8.7,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Krachtige olieradiator met 2500 watt, timer en drie standen.",
       "specs": {
         "Type": "Oliegevuld",
@@ -233,7 +236,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8433325504267",
       "prev_price": 139.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.4
     },
     {
       "brand": "Dimplex",
@@ -241,7 +245,7 @@
       "price": 184.0,
       "score": 8.6,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Compacte kachelhaard met ledvlammen en verwarming tot 2000 watt.",
       "specs": {
         "Type": "Sfeerhaard",
@@ -290,7 +294,8 @@
       "synced": "2026-11-17",
       "prev_price": 189.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "5011139061454"
+      "ph_ean": "5011139061454",
+      "rating": 4.6
     },
     {
       "brand": "VONROC",
@@ -298,7 +303,7 @@
       "price": 129.95,
       "score": 8.5,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Convector met zwart glazen paneel en 2500 watt voor 30 m².",
       "specs": {
         "Type": "Convector",
@@ -347,7 +352,8 @@
       "synced": "2026-11-17",
       "prev_price": 119.95,
       "prev_date": "2026-11-05",
-      "ph_ean": "8717479114306"
+      "ph_ean": "8717479114306",
+      "rating": 4.5
     },
     {
       "brand": "Pro Breeze",
@@ -355,7 +361,7 @@
       "price": 144.99,
       "score": 8.4,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Olieradiator met 11 ribben, app-bediening en 24-uurs timer.",
       "specs": {
         "Type": "Oliegevuld",
@@ -402,7 +408,8 @@
       },
       "low_price": 144.99,
       "synced": "2026-11-17",
-      "ph_ean": "5060596026308"
+      "ph_ean": "5060596026308",
+      "rating": 4.1
     },
     {
       "brand": "Eurom",
@@ -410,7 +417,7 @@
       "price": 73.29,
       "score": 8.3,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Eenvoudige, stille convector met 2400 watt voor weinig geld.",
       "specs": {
         "Type": "Convector",
@@ -459,7 +466,8 @@
       "synced": "2026-11-17",
       "prev_price": 72.39,
       "prev_date": "2026-11-16",
-      "ph_ean": "8713415360479"
+      "ph_ean": "8713415360479",
+      "rating": 4.5
     },
     {
       "brand": "Aigostar",
@@ -467,7 +475,7 @@
       "price": 69.99,
       "score": 8.2,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Slanke torenkachel met oscillatie, ECO-stand en afstandsbediening.",
       "specs": {
         "Type": "Keramisch, toren",
@@ -516,7 +524,8 @@
       "synced": "2026-11-17",
       "prev_price": 89.99,
       "prev_date": "2026-11-02",
-      "ph_ean": "8433325385484"
+      "ph_ean": "8433325385484",
+      "rating": 4.4
     },
     {
       "brand": "Princess",
@@ -524,7 +533,7 @@
       "price": 67.99,
       "score": 8.0,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Betaalbare keramische kachel met oscillatie, timer en afstandsbediening.",
       "specs": {
         "Type": "Keramisch, ventilator",
@@ -573,7 +582,8 @@
       "synced": "2026-11-17",
       "prev_price": 62.99,
       "prev_date": "2026-11-11",
-      "ph_ean": "8711658531762"
+      "ph_ean": "8711658531762",
+      "rating": 4.2
     }
   ],
   "guide": [

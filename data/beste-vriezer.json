@@ -26,7 +26,7 @@
       "price": 679.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "640+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Ruime No Frost-vrieskast met de hoogste invriescapaciteit in deze lijst.",
       "specs": {
         "Type": "Kastmodel, 176 cm",
@@ -88,7 +88,8 @@
       "low_price": 679.0,
       "prev_price": 685.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4242005247752"
+      "ph_ean": "4242005247752",
+      "rating": 4.7
     },
     {
       "brand": "Etna",
@@ -96,7 +97,7 @@
       "price": 346.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "330+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "No Frost en schuurbestendig voor minder dan 400 euro.",
       "specs": {
         "Type": "Kastmodel, 143 cm",
@@ -158,7 +159,8 @@
       "low_price": 346.0,
       "prev_price": 359.0,
       "prev_date": "2026-11-06",
-      "ph_ean": "8715393336941"
+      "ph_ean": "8715393336941",
+      "rating": 4.7
     },
     {
       "brand": "Samsung",
@@ -166,7 +168,7 @@
       "price": 849.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "110+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "323 liter, 36 dB en een app die waarschuwt bij een open deur.",
       "specs": {
         "Type": "Kastmodel, 186 cm",
@@ -226,7 +228,8 @@
         "2026-11-17": 849.0
       },
       "low_price": 849.0,
-      "ph_ean": "8806095077611"
+      "ph_ean": "8806095077611",
+      "rating": 5.0
     },
     {
       "brand": "Liebherr",
@@ -234,7 +237,7 @@
       "price": 499.0,
       "score": 8.7,
       "label": null,
-      "reviews": "90+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Degelijk tafelmodel met Duitse bouwkwaliteit en zuiniger label.",
       "specs": {
         "Type": "Tafelmodel, 85 cm",
@@ -282,7 +285,8 @@
       },
       "low_price": 499.0,
       "synced": "2026-11-17",
-      "ph_ean": "4016803094333"
+      "ph_ean": "4016803094333",
+      "rating": 5.0
     },
     {
       "brand": "Beko",
@@ -290,7 +294,7 @@
       "price": 319.0,
       "score": 8.3,
       "label": null,
-      "reviews": "280+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Enige tafelmodel in deze lijst met No Frost, ook voor de schuur.",
       "specs": {
         "Type": "Tafelmodel, 84 cm",
@@ -352,7 +356,8 @@
       "low_price": 310.23,
       "prev_price": 310.23,
       "prev_date": "2026-10-18",
-      "ph_ean": "8690842536168"
+      "ph_ean": "8690842536168",
+      "rating": 4.4
     },
     {
       "brand": "Inventum",
@@ -360,7 +365,7 @@
       "price": 239.0,
       "score": 8.1,
       "label": null,
-      "reviews": "410+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Zuinig en betaalbaar tafelmodel van 88 liter met energielabel D.",
       "specs": {
         "Type": "Tafelmodel, 85 cm",
@@ -422,7 +427,8 @@
       "low_price": 233.03,
       "prev_price": 243.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "8712876160277"
+      "ph_ean": "8712876160277",
+      "rating": 4.5
     },
     {
       "brand": "Whirlpool",
@@ -430,7 +436,7 @@
       "price": 449.0,
       "score": 8.2,
       "label": null,
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Vrieskist van 198 liter met snelvriesfunctie en digitale temperatuurregeling.",
       "specs": {
         "Type": "Vrieskist, 91 cm breed",
@@ -532,7 +538,8 @@
       "synced": "2026-11-17",
       "prev_price": 474.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "8712876161816"
+      "ph_ean": "8712876161816",
+      "rating": 4.0
     },
     {
       "brand": "AEG",
@@ -540,7 +547,7 @@
       "price": 779.0,
       "score": 8.6,
       "label": null,
-      "reviews": "80+ reviews",
+      "reviews": "",
       "oneliner": "278 liter No Frost in een smalle kast van 59,5 cm breed.",
       "specs": {
         "Type": "Kastmodel, 186 cm",
@@ -608,7 +615,7 @@
       "price": 689.6,
       "score": 8.6,
       "label": null,
-      "reviews": "220+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "XXL-vrieskast van 404 liter met label D voor 699 euro.",
       "specs": {
         "Type": "Kastmodel, 192 cm",
@@ -670,7 +677,8 @@
       "low_price": 675.0,
       "prev_price": 694.29,
       "prev_date": "2026-11-16",
-      "ph_ean": "8690842275388"
+      "ph_ean": "8690842275388",
+      "rating": 4.5
     }
   ],
   "guide": [

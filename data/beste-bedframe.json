@@ -26,7 +26,7 @@
       "price": 529.99,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "nog weinig reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Gestoffeerd opbergbed met rond hoofdbord en optilbare lattenbodem.",
       "specs": {
         "Matrasmaat": "160x200 cm",
@@ -81,7 +81,8 @@
         "2026-11-17": 529.99
       },
       "low_price": 529.99,
-      "ph_ean": "4255664836632"
+      "ph_ean": "4255664836632",
+      "rating": 5.0
     },
     {
       "brand": "Zuiver",
@@ -89,7 +90,7 @@
       "price": 1295.2,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "nog weinig reviews",
+      "reviews": "",
       "oneliner": "Designbed van essenhout met eikenfineer, ontworpen in Nederland.",
       "specs": {
         "Matrasmaat": "160x200 cm",
@@ -154,7 +155,7 @@
       "price": 107.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Strak metalen tweepersoonsbed inclusief bedbodem voor een klein budget.",
       "specs": {
         "Matrasmaat": "180x200 cm",
@@ -209,7 +210,8 @@
         "2026-11-17": 107.99
       },
       "low_price": 107.99,
-      "ph_ean": "4059438888885"
+      "ph_ean": "4059438888885",
+      "rating": 4.7
     },
     {
       "brand": "Meubella",
@@ -217,7 +219,7 @@
       "price": 229.0,
       "score": 8.8,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Gestoffeerd bed met hoofd- en voetbord voor een vriendelijke prijs.",
       "specs": {
         "Matrasmaat": "160x200 cm",
@@ -272,7 +274,8 @@
         "2026-11-17": 229.0
       },
       "low_price": 229.0,
-      "ph_ean": "8721352703198"
+      "ph_ean": "8721352703198",
+      "rating": 5.0
     },
     {
       "brand": "Meubella",
@@ -280,7 +283,7 @@
       "price": 699.0,
       "score": 8.7,
       "label": null,
-      "reviews": "nog weinig reviews",
+      "reviews": "",
       "oneliner": "Royaal gestoffeerd bed met brede rand en hoog hoofdbord.",
       "specs": {
         "Matrasmaat": "160x200 cm",
@@ -343,7 +346,7 @@
       "price": 503.0,
       "score": 8.6,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Romantisch metalen ledikant met hoog hoofdeinde van een Nederlandse bedspecialist.",
       "specs": {
         "Matrasmaat": "180x200 cm",
@@ -398,7 +401,8 @@
         "2026-11-17": 503.0
       },
       "low_price": 503.0,
-      "ph_ean": "6096349033001"
+      "ph_ean": "6096349033001",
+      "rating": 5.0
     },
     {
       "brand": "AirSleeperz",
@@ -406,7 +410,7 @@
       "price": 299.0,
       "score": 8.5,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Extra stevig stalen bedframe dat tot 600 kg draagt.",
       "specs": {
         "Matrasmaat": "140x200 cm",
@@ -463,7 +467,8 @@
       "low_price": 299.0,
       "ph_ean": "8721082815000",
       "prev_price": 349.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 3.9
     },
     {
       "brand": "Homestyle4u",
@@ -471,7 +476,7 @@
       "price": 169.95,
       "score": 8.4,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Wit grenen houten bed met twee lattenbodems voor weinig geld.",
       "specs": {
         "Matrasmaat": "160x200 cm",
@@ -526,7 +531,8 @@
         "2026-11-17": 169.95
       },
       "low_price": 169.95,
-      "ph_ean": "4251285376106"
+      "ph_ean": "4251285376106",
+      "rating": 4.7
     },
     {
       "brand": "vidaXL",
@@ -534,7 +540,7 @@
       "price": 145.89,
       "score": 8.2,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Klassiek zwart metalen bed met metalen latten en ruimte eronder.",
       "specs": {
         "Matrasmaat": "180x200 cm",
@@ -591,7 +597,8 @@
       "low_price": 141.66,
       "prev_price": 144.5,
       "prev_date": "2026-11-14",
-      "ph_ean": "8721012302662"
+      "ph_ean": "8721012302662",
+      "rating": 5.0
     },
     {
       "brand": "Bealife",
@@ -599,7 +606,7 @@
       "price": 87.86,
       "score": 8.0,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Metalen bedframe met opbergbaar hoofdeinde en geruisloze poten.",
       "specs": {
         "Matrasmaat": "140x200 cm",
@@ -643,7 +650,8 @@
       "synced": "2026-11-17",
       "ph_ean": "0630130650761",
       "prev_price": 109.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.1
     }
   ],
   "guide": [

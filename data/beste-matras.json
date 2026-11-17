@@ -89,7 +89,8 @@
       "low_price": 398.78,
       "prev_price": 409.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4251822526674"
+      "ph_ean": "4251822526674",
+      "rating": 4.5
     },
     {
       "brand": "Maan matras",
@@ -97,7 +98,7 @@
       "price": 189.95,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Pocketvering met 7 zones en koudschuim voor een prijs onder de 200 euro.",
       "specs": {
         "Type": "Hybride (pocketvering + koudschuim)",
@@ -161,7 +162,8 @@
       "low_price": 189.0,
       "prev_price": 209.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8721082562546"
+      "ph_ean": "8721082562546",
+      "rating": 4.5
     },
     {
       "brand": "Tempur",
@@ -169,7 +171,7 @@
       "price": 1274.25,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "1.100+ reviews",
+      "reviews": "",
       "oneliner": "Het originele traagschuim met de beste drukverlaging die er is.",
       "specs": {
         "Type": "Traagschuim",
@@ -243,7 +245,7 @@
       "price": 189.99,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Pocketvering met traagschuim en koudschuim in zeven zones.",
       "specs": {
         "Type": "Hybride (pocketvering + traagschuim)",
@@ -307,7 +309,8 @@
       "low_price": 189.99,
       "prev_price": 269.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8718001002368"
+      "ph_ean": "8718001002368",
+      "rating": 4.3
     },
     {
       "brand": "Emma",
@@ -379,7 +382,8 @@
       "low_price": 332.02,
       "ph_ean": "4251822504658",
       "prev_price": 589.4,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.5
     },
     {
       "brand": "BSS Bedding",
@@ -451,7 +455,8 @@
       "low_price": 349.0,
       "prev_price": 385.0,
       "prev_date": "2026-11-07",
-      "ph_ean": "5407012530757"
+      "ph_ean": "5407012530757",
+      "rating": 4.9
     },
     {
       "brand": "Lexzurn",
@@ -459,7 +464,7 @@
       "price": 175.49,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "26 cm dik pocketveringmatras met koudschuim en zeven zones.",
       "specs": {
         "Type": "Pocketvering + koudschuim",
@@ -523,7 +528,8 @@
       "low_price": 169.99,
       "prev_price": 179.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "4262475030876"
+      "ph_ean": "4262475030876",
+      "rating": 4.8
     },
     {
       "brand": "Ada Sleep",
@@ -595,7 +601,8 @@
       "low_price": 143.1,
       "ph_ean": "8720634900430",
       "prev_price": 159.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     },
     {
       "brand": "Aiidoits",
@@ -603,7 +610,7 @@
       "price": 175.99,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Betaalbaar pocketveringmatras met zeven zones en OEKO-TEX keurmerk.",
       "specs": {
         "Type": "Pocketvering",
@@ -659,7 +666,8 @@
       "low_price": 169.99,
       "prev_price": 179.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "4897156010269"
+      "ph_ean": "4897156010269",
+      "rating": 4.8
     },
     {
       "brand": "Best Life",
@@ -731,7 +739,8 @@
       "low_price": 124.99,
       "prev_price": 139.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720938061356"
+      "ph_ean": "8720938061356",
+      "rating": 4.5
     }
   ],
   "guide": [

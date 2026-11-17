@@ -25,7 +25,7 @@
       "price": 81.89,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Complete startset met accu, lader, systeembox en 241 accessoires.",
       "specs": {
         "Voltage": "18 V",
@@ -84,7 +84,8 @@
       "low_price": 81.89,
       "prev_price": 95.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4053423242836"
+      "ph_ean": "4053423242836",
+      "rating": 4.6
     },
     {
       "brand": "Bosch",
@@ -92,7 +93,7 @@
       "price": 170.95,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Koolborstelloze 18V-boormachine met wisselbare opzetstukken en twee accu's.",
       "specs": {
         "Voltage": "18 V",
@@ -151,7 +152,8 @@
       "low_price": 155.92,
       "prev_price": 165.03,
       "prev_date": "2026-11-14",
-      "ph_ean": "4053423239829"
+      "ph_ean": "4053423239829",
+      "rating": 5.0
     },
     {
       "brand": "Makita",
@@ -159,7 +161,7 @@
       "price": 167.0,
       "score": 9.0,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Compacte 12V-boormachine van een professioneel merk met twee accu's.",
       "specs": {
         "Voltage": "12 V max",
@@ -222,7 +224,8 @@
       "low_price": 159.87,
       "prev_price": 159.87,
       "prev_date": "2026-11-10",
-      "ph_ean": "0088381872577"
+      "ph_ean": "0088381872577",
+      "rating": 5.0
     },
     {
       "brand": "VONROC",
@@ -230,7 +233,7 @@
       "price": 64.95,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Complete set met twee accu's en 46 accessoires onder 65 euro.",
       "specs": {
         "Voltage": "20 V max",
@@ -287,7 +290,8 @@
         "2026-11-17": 64.95
       },
       "low_price": 64.95,
-      "ph_ean": "8717479113231"
+      "ph_ean": "8717479113231",
+      "rating": 4.7
     },
     {
       "brand": "Bosch",
@@ -353,7 +357,8 @@
       "low_price": 109.99,
       "prev_price": 109.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "4053423230819"
+      "ph_ean": "4053423230819",
+      "rating": 4.9
     },
     {
       "brand": "Ryobi",
@@ -361,7 +366,7 @@
       "price": 119.64,
       "score": 8.7,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Instap in het grote ONE+-accusysteem met twee accu's en tas.",
       "specs": {
         "Voltage": "18 V",
@@ -402,7 +407,7 @@
       "price": 104.43,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Lichtste machine in de lijst, met twee accu's en Duitse kwaliteit.",
       "specs": {
         "Voltage": "12 V",
@@ -460,7 +465,8 @@
       "low_price": 101.0,
       "prev_price": 107.9,
       "prev_date": "2026-11-16",
-      "ph_ean": "4061792188242"
+      "ph_ean": "4061792188242",
+      "rating": 5.0
     },
     {
       "brand": "Makita",
@@ -468,7 +474,7 @@
       "price": 169.95,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "12V-klopboormachine in een koffer voor wie ook in steen wil boren.",
       "specs": {
         "Voltage": "12 V max",
@@ -508,7 +514,8 @@
       "synced": "2026-11-17",
       "prev_price": 131.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "0088381872973"
+      "ph_ean": "0088381872973",
+      "rating": 5.0
     },
     {
       "brand": "Black+Decker",
@@ -574,7 +581,8 @@
       "low_price": 77.09,
       "prev_price": 79.68,
       "prev_date": "2026-11-14",
-      "ph_ean": "5035048653708"
+      "ph_ean": "5035048653708",
+      "rating": 4.2
     },
     {
       "brand": "Einhell",
@@ -582,7 +590,7 @@
       "price": 79.99,
       "score": 8.1,
       "label": null,
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Eenvoudige 12V-boormachine met accu en snellader voor onder de 80 euro.",
       "specs": {
         "Voltage": "12 V",

@@ -26,7 +26,7 @@
       "price": 199.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Hoge CADR en fluisterstil, ideaal voor woonkamer met kat.",
       "specs": {
         "CADR": "520 m³/u",
@@ -61,7 +61,8 @@
       },
       "low_price": 199.0,
       "synced": "2026-11-17",
-      "ph_ean": "8720389039560"
+      "ph_ean": "8720389039560",
+      "rating": 4.7
     },
     {
       "brand": "Coway",
@@ -69,7 +70,7 @@
       "price": 349.99,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Enorme capaciteit voor open woonkeukens met meerdere katten.",
       "specs": {
         "CADR": "713 m³/u",
@@ -121,7 +122,8 @@
       },
       "low_price": 349.99,
       "synced": "2026-11-17",
-      "ph_ean": "8809825509505"
+      "ph_ean": "8809825509505",
+      "rating": 4.6
     },
     {
       "brand": "Winix",
@@ -168,7 +170,8 @@
       },
       "low_price": 149.0,
       "synced": "2026-11-17",
-      "ph_ean": "8809490586054"
+      "ph_ean": "8809490586054",
+      "rating": 4.5
     },
     {
       "brand": "Coway",
@@ -176,7 +179,7 @@
       "price": 239.99,
       "score": 8.9,
       "label": null,
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Bewezen allrounder met wasbaar voorfilter en hoge CADR.",
       "specs": {
         "CADR": "421 m³/u",
@@ -229,7 +232,8 @@
       "synced": "2026-11-17",
       "prev_price": 189.99,
       "prev_date": "2026-11-01",
-      "ph_ean": "8809239758704"
+      "ph_ean": "8809239758704",
+      "rating": 4.6
     },
     {
       "brand": "Xiaomi",
@@ -237,7 +241,7 @@
       "price": 269.95,
       "score": 8.8,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Krachtig en slim, met PM10-sensor die kattenstof meet.",
       "specs": {
         "CADR": "500 m³/u",
@@ -290,7 +294,8 @@
       "synced": "2026-11-17",
       "prev_price": 267.25,
       "prev_date": "2026-11-16",
-      "ph_ean": "6934177743665"
+      "ph_ean": "6934177743665",
+      "rating": 4.3
     },
     {
       "brand": "Shark",
@@ -298,7 +303,7 @@
       "price": 182.5,
       "score": 8.7,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "HEPA-filter dat vijf jaar meegaat, dus lage vaste kosten.",
       "specs": {
         "CADR": "geen opgave",
@@ -351,7 +356,8 @@
       "synced": "2026-11-17",
       "prev_price": 180.68,
       "prev_date": "2026-11-10",
-      "ph_ean": "0622356281096"
+      "ph_ean": "0622356281096",
+      "rating": 4.3
     },
     {
       "brand": "Levoit",
@@ -394,7 +400,8 @@
       },
       "low_price": 269.0,
       "ph_ean": "0810043373685",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.3
     },
     {
       "brand": "Philips",
@@ -402,7 +409,7 @@
       "price": 99.99,
       "score": 8.4,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Klein en zeer stil, voor de slaapkamer of studeerkamer.",
       "specs": {
         "CADR": "ca. 250 m³/u",
@@ -455,7 +462,8 @@
       "synced": "2026-11-17",
       "prev_price": 120.63,
       "prev_date": "2026-11-05",
-      "ph_ean": "8720389039416"
+      "ph_ean": "8720389039416",
+      "rating": 4.2
     },
     {
       "brand": "Coway",
@@ -463,7 +471,7 @@
       "price": 124.99,
       "score": 8.3,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Betaalbare Coway met CADR van 244 m³/u en goedkope filterset.",
       "specs": {
         "CADR": "244 m³/u",
@@ -514,7 +522,8 @@
       },
       "low_price": 124.99,
       "synced": "2026-11-17",
-      "ph_ean": "8809825508829"
+      "ph_ean": "8809825508829",
+      "rating": 4.6
     },
     {
       "brand": "Levoit",
@@ -522,7 +531,7 @@
       "price": 109.0,
       "score": 8.0,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Instapmodel met H13-filter voor een kleine slaapkamer.",
       "specs": {
         "CADR": "ca. 170 m³/u",
@@ -574,7 +583,8 @@
       "synced": "2026-11-17",
       "prev_price": 107.49,
       "prev_date": "2026-11-02",
-      "ph_ean": "0810043372190"
+      "ph_ean": "0810043372190",
+      "rating": 5.0
     }
   ],
   "guide": [

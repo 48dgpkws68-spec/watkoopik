@@ -8,7 +8,7 @@ reviews_total ("" laten: een geschat totaal is een verzonnen cijfer en wordt sin
 
 Per product: brand, name (zonder merk), price (getal in euro, realistische NL-winkelprijs oktober 2026), score (7.8 t/m 9.5, product 1 heeft de hoogste),
 label (product 1 = "Beste keuze"; precies één ander product "Beste prijs-kwaliteit"; precies één "Beste premium"; de rest null),
-reviews ("1.200+ reviews"), oneliner (max 12 woorden), specs (4 tot 5 sleutels, DEZELFDE sleutels bij alle 10 producten, korte waarden),
+reviews ("" laten: tools/bol_sync.py vult het met de echte bol-score, "bol-score 4,6 van 5"; nooit een geschat aantal reviews, sinds 17 nov 2026), oneliner (max 12 woorden), specs (4 tot 5 sleutels, DEZELFDE sleutels bij alle 10 producten, korte waarden),
 pros (3-4), cons (2-3), ideal (1 zin), text (2 alinea's gescheiden door \n\n, samen 130-180 woorden, concreet: cijfers, functies, wat gebruikers zeggen).
 
 Taalregels (de build breekt af bij overtreding):

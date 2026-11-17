@@ -27,7 +27,7 @@
       "price": 45.99,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Groot fleece warmtekussen met zes standen voor rug en buik.",
       "specs": {
         "Formaat": "60 x 40 cm",
@@ -81,7 +81,8 @@
       "synced": "2026-11-17",
       "prev_price": 59.5,
       "prev_date": "2026-11-05",
-      "ph_ean": "4211125274139"
+      "ph_ean": "4211125274139",
+      "rating": 4.6
     },
     {
       "brand": "Medisana",
@@ -89,7 +90,7 @@
       "price": 25.18,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Ruim warmtekussen voor weinig geld met drie standen en uitschakeling.",
       "specs": {
         "Formaat": "ca. 44 x 33 cm",
@@ -143,7 +144,8 @@
       "synced": "2026-11-17",
       "prev_price": 30.89,
       "prev_date": "2026-11-05",
-      "ph_ean": "4015588611506"
+      "ph_ean": "4015588611506",
+      "rating": 4.4
     },
     {
       "brand": "Beurer",
@@ -151,7 +153,7 @@
       "price": 60.12,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Draadloos oplaadbaar warmtekussen dat je overal mee naartoe neemt.",
       "specs": {
         "Formaat": "45 x 45 cm",
@@ -206,7 +208,8 @@
       "synced": "2026-11-17",
       "prev_price": 68.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "4211125200770"
+      "ph_ean": "4211125200770",
+      "rating": 4.5
     },
     {
       "brand": "Lifeshift",
@@ -214,7 +217,7 @@
       "price": 49.95,
       "score": 8.9,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Gevormd kussen dat om je nek en schouders valt.",
       "specs": {
         "Formaat": "58 x 42 cm",
@@ -268,7 +271,8 @@
       "synced": "2026-11-17",
       "prev_price": 59.95,
       "prev_date": "2026-11-09",
-      "ph_ean": "8720387216154"
+      "ph_ean": "8720387216154",
+      "rating": 4.6
     },
     {
       "brand": "Inventum",
@@ -276,7 +280,7 @@
       "price": 27.0,
       "score": 8.5,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Degelijk Nederlands merkkussen met drie standen en wasbare hoes.",
       "specs": {
         "Formaat": "44 x 33 cm",
@@ -330,7 +334,8 @@
       "synced": "2026-11-17",
       "prev_price": 33.33,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712876020823"
+      "ph_ean": "8712876020823",
+      "rating": 4.3
     },
     {
       "brand": "Beurer",
@@ -338,7 +343,7 @@
       "price": 44.99,
       "score": 8.7,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Compact Beurer-kussen met zachte fleecehoes en drie standen.",
       "specs": {
         "Formaat": "40 x 30 cm",
@@ -392,7 +397,8 @@
       "synced": "2026-11-17",
       "prev_price": 38.8,
       "prev_date": "2026-11-11",
-      "ph_ean": "4211125275013"
+      "ph_ean": "4211125275013",
+      "rating": 4.7
     },
     {
       "brand": "Medisana",
@@ -400,7 +406,7 @@
       "price": 26.99,
       "score": 8.3,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Schoudermodel met klittenband dat om nek en schouders sluit.",
       "specs": {
         "Formaat": "Schoudermodel",
@@ -454,7 +460,8 @@
       "synced": "2026-11-17",
       "prev_price": 30.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "4015588611568"
+      "ph_ean": "4015588611568",
+      "rating": 4.2
     },
     {
       "brand": "Tomado",
@@ -462,7 +469,7 @@
       "price": 22.99,
       "score": 8.4,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Goedkoopste kussen in de lijst met toch vijf warmtestanden.",
       "specs": {
         "Formaat": "40 x 30 cm",
@@ -513,7 +520,8 @@
       },
       "low_price": 22.99,
       "synced": "2026-11-17",
-      "ph_ean": "8712876502718"
+      "ph_ean": "8712876502718",
+      "rating": 4.4
     },
     {
       "brand": "Nedis",
@@ -521,7 +529,7 @@
       "price": 27.99,
       "score": 8.2,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Langwerpige warmteband die je om buik of onderrug draagt.",
       "specs": {
         "Formaat": "Bandmodel",
@@ -575,7 +583,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5412810290208",
       "prev_price": 39.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.4
     },
     {
       "brand": "STAUS&BACH",
@@ -583,7 +592,7 @@
       "price": 39.95,
       "score": 8.6,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Fleece warmtekussen van 100 W met timer van 30, 60 of 90 minuten.",
       "specs": {
         "Formaat": "40 x 30 cm",
@@ -635,7 +644,8 @@
       },
       "low_price": 39.95,
       "synced": "2026-11-17",
-      "ph_ean": "8720929477586"
+      "ph_ean": "8720929477586",
+      "rating": 4.9
     }
   ],
   "guide": [

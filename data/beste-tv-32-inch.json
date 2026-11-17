@@ -25,7 +25,7 @@
       "price": 289.26,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Full HD QLED met Tizen: de meest complete 32 inch tv.",
       "specs": {
         "Paneel": "QLED",
@@ -80,7 +80,8 @@
       "low_price": 289.0,
       "prev_price": 309.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8806099013790"
+      "ph_ean": "8806099013790",
+      "rating": 4.0
     },
     {
       "brand": "Coocaa",
@@ -139,7 +140,8 @@
       "synced": "2026-11-17",
       "prev_price": 154.95,
       "prev_date": "2026-11-10",
-      "ph_ean": "4057313026933"
+      "ph_ean": "4057313026933",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -147,7 +149,7 @@
       "price": 449.0,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Kleine tv die uitgeschakeld als schilderij aan de muur hangt.",
       "specs": {
         "Paneel": "QLED",
@@ -202,7 +204,8 @@
       "low_price": 414.43,
       "prev_price": 479.0,
       "prev_date": "2026-11-03",
-      "ph_ean": "8806097611738"
+      "ph_ean": "8806097611738",
+      "rating": 3.7
     },
     {
       "brand": "Philips",
@@ -210,7 +213,7 @@
       "price": 249.0,
       "score": 8.8,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Nieuwe Full HD QLED van Philips met rustig beeld.",
       "specs": {
         "Paneel": "QLED",
@@ -265,7 +268,8 @@
       "low_price": 249.0,
       "prev_price": 282.0,
       "prev_date": "2026-11-03",
-      "ph_ean": "8718863051580"
+      "ph_ean": "8718863051580",
+      "rating": 4.7
     },
     {
       "brand": "CHiQ",
@@ -317,7 +321,8 @@
       "synced": "2026-11-17",
       "prev_price": 219.99,
       "prev_date": "2026-11-11",
-      "ph_ean": "8592344206221"
+      "ph_ean": "8592344206221",
+      "rating": 4.3
     },
     {
       "brand": "LG",
@@ -325,7 +330,7 @@
       "price": 241.0,
       "score": 8.4,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Betrouwbare Full HD-tv met het prettige webOS van LG.",
       "specs": {
         "Paneel": "LED",
@@ -380,13 +385,14 @@
       "low_price": 225.0,
       "prev_price": 228.9,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806091636959"
+      "ph_ean": "8806091636959",
+      "rating": 4.6
     },
     {
       "brand": "Philips",
       "name": "32PFS6050/12",
       "price": 187.0,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Full HD Philips uit 2026 met Titan OS voor een scherpe prijs.",
       "pros": [
         "Full HD voor minder dan 200 euro",
@@ -423,7 +429,8 @@
       },
       "low_price": 187.0,
       "synced": "2026-11-17",
-      "ph_ean": "8718863051542"
+      "ph_ean": "8718863051542",
+      "rating": 4.2
     },
     {
       "brand": "Xiaomi",
@@ -461,7 +468,8 @@
       },
       "low_price": 174.0,
       "ph_ean": "6941948705524",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.4
     },
     {
       "brand": "CHiQ",
@@ -469,7 +477,7 @@
       "price": 164.99,
       "score": 8.0,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Goedkope Full HD-tv met Google TV en metalen randen.",
       "specs": {
         "Paneel": "LED",
@@ -524,7 +532,8 @@
       "low_price": 159.99,
       "prev_price": 174.56,
       "prev_date": "2026-11-14",
-      "ph_ean": "8592344206016"
+      "ph_ean": "8592344206016",
+      "rating": 4.5
     },
     {
       "brand": "Samsung",
@@ -532,7 +541,7 @@
       "price": 199.0,
       "score": 7.9,
       "label": null,
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Simpele Samsung met drie jaar extra garantie via bol.",
       "specs": {
         "Paneel": "LED",
@@ -584,7 +593,8 @@
         "2026-11-17": 199.0
       },
       "low_price": 199.0,
-      "ph_ean": "8806095917429"
+      "ph_ean": "8806095917429",
+      "rating": 4.3
     }
   ],
   "guide": [

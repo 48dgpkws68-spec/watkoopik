@@ -26,7 +26,7 @@
       "price": 1199.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Felle 4K-laserbeamer met Dolby Vision die je makkelijk op elke muur richt.",
       "specs": {
         "Resolutie": "4K (3840 x 2160)",
@@ -65,7 +65,8 @@
       },
       "low_price": 1199.0,
       "synced": "2026-11-17",
-      "ph_ean": "6942351427010"
+      "ph_ean": "6942351427010",
+      "rating": 5.0
     },
     {
       "brand": "Epson",
@@ -73,7 +74,7 @@
       "price": 479.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "210+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "3.000 lumen Full HD met Android TV voor minder dan 500 euro.",
       "specs": {
         "Resolutie": "Full HD (1920 x 1080)",
@@ -136,7 +137,8 @@
       "low_price": 469.93,
       "prev_price": 478.97,
       "prev_date": "2026-11-14",
-      "ph_ean": "8715946706832"
+      "ph_ean": "8715946706832",
+      "rating": 4.4
     },
     {
       "brand": "XGIMI",
@@ -144,7 +146,7 @@
       "price": 1299.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "nieuw model, bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "4K met RGB-laser, 3.200 ISO lumen en Google TV in een draaibaar frame.",
       "specs": {
         "Resolutie": "4K (3840 x 2160)",
@@ -193,7 +195,8 @@
       "synced": "2026-11-17",
       "prev_price": 1399.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "6935670509369"
+      "ph_ean": "6935670509369",
+      "rating": 5.0
     },
     {
       "brand": "XGIMI",
@@ -256,7 +259,8 @@
       "synced": "2026-11-17",
       "ph_ean": "6935670508157",
       "prev_price": 449.0,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.8
     },
     {
       "brand": "Anker",
@@ -264,7 +268,7 @@
       "price": 399.0,
       "score": 8.3,
       "label": null,
-      "reviews": "120+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Draagbare Full HD-beamer met accu, Google TV en Netflix.",
       "specs": {
         "Resolutie": "Full HD (1920 x 1080)",
@@ -326,7 +330,8 @@
       "low_price": 399.0,
       "prev_price": 570.26,
       "prev_date": "2026-11-05",
-      "ph_ean": "0194644201777"
+      "ph_ean": "0194644201777",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -334,7 +339,7 @@
       "price": 396.06,
       "score": 8.0,
       "label": null,
-      "reviews": "nog weinig reviews op bol",
+      "reviews": "",
       "oneliner": "Smart Full HD-beamer met korte projectieafstand voor een kleine woonkamer.",
       "specs": {
         "Resolutie": "Full HD 1080p",
@@ -398,7 +403,7 @@
       "price": 1299.0,
       "score": 8.9,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "3.500 lumen 4K-laser voor een lichte woonkamer en gamers.",
       "specs": {
         "Resolutie": "4K (3840 x 2160)",
@@ -461,7 +466,8 @@
       "low_price": 1289.5,
       "prev_price": 1290.0,
       "prev_date": "2026-10-28",
-      "ph_ean": "5055387668898"
+      "ph_ean": "5055387668898",
+      "rating": 5.0
     },
     {
       "brand": "Dangbei",
@@ -469,7 +475,7 @@
       "price": 465.69,
       "score": 8.4,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "",
       "oneliner": "Draagbare beamer met accu, Google TV en Netflix onder de 400 euro.",
       "specs": {
         "Resolutie": "Full HD (1920 x 1080)",
@@ -539,7 +545,7 @@
       "price": 1399.0,
       "score": 9.0,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "4K-laserbeamer met 240 Hz en 4 ms, gemaakt voor gamers.",
       "specs": {
         "Resolutie": "4K (3840 x 2160)",
@@ -602,7 +608,8 @@
       "low_price": 1399.0,
       "prev_price": 1449.0,
       "prev_date": "2026-11-07",
-      "ph_ean": "4718755093548"
+      "ph_ean": "4718755093548",
+      "rating": 5.0
     },
     {
       "brand": "Epson",
@@ -610,7 +617,7 @@
       "price": 849.0,
       "score": 8.7,
       "label": null,
-      "reviews": "4,9/5 op bol",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Heldere 4K-beamer voor een echte thuisbioscoop met lens shift en HDR.",
       "specs": {
         "Resolutie": "4K PRO-UHD (pixelverschuiving)",
@@ -666,7 +673,8 @@
       "low_price": 849.0,
       "ph_ean": "8715946670867",
       "prev_price": 879.0,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.9
     }
   ],
   "guide": [

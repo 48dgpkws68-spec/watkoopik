@@ -25,7 +25,7 @@
       "price": 419.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "3.400+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Twaalf dranken en het makkelijkst schoon te maken melksysteem.",
       "specs": {
         "Melksysteem": "LatteGo, slangloos",
@@ -91,7 +91,8 @@
       "low_price": 419.0,
       "prev_price": 429.0,
       "prev_date": "2026-11-06",
-      "ph_ean": "8710103931324"
+      "ph_ean": "8710103931324",
+      "rating": 4.6
     },
     {
       "brand": "De'Longhi",
@@ -99,7 +100,7 @@
       "price": 299.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "7.200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "De bestverkochte bonenmachine van Nederland, al jaren onder de 300 euro.",
       "specs": {
         "Melksysteem": "Stoompijp, handmatig",
@@ -165,7 +166,8 @@
       "low_price": 289.99,
       "prev_price": 315.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8004399325050"
+      "ph_ean": "8004399325050",
+      "rating": 4.5
     },
     {
       "brand": "Jura",
@@ -173,7 +175,7 @@
       "price": 1110.99,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "980+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Zwitserse precisie met de beste espresso en zeventien specialiteiten.",
       "specs": {
         "Melksysteem": "Automatisch, slang",
@@ -239,7 +241,8 @@
       "low_price": 1095.99,
       "prev_price": 1111.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "7610917155842"
+      "ph_ean": "7610917155842",
+      "rating": 5.0
     },
     {
       "brand": "Siemens",
@@ -247,7 +250,7 @@
       "price": 669.0,
       "score": 8.8,
       "label": null,
-      "reviews": "1.600+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Duitse volautomaat met twee kopjes tegelijk en zes profielen.",
       "specs": {
         "Melksysteem": "Automatisch, slang",
@@ -311,7 +314,8 @@
       "low_price": 669.0,
       "prev_price": 718.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "4242003806418"
+      "ph_ean": "4242003806418",
+      "rating": 5.0
     },
     {
       "brand": "De'Longhi",
@@ -319,7 +323,7 @@
       "price": 640.0,
       "score": 8.7,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Volautomaat met touchscreen, LatteCrema-melkkan en app-bediening.",
       "specs": {
         "Melksysteem": "LatteCrema, kan",
@@ -383,7 +387,8 @@
       "low_price": 622.04,
       "prev_price": 623.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "8004399027077"
+      "ph_ean": "8004399027077",
+      "rating": 4.4
     },
     {
       "brand": "Philips",
@@ -391,7 +396,7 @@
       "price": 443.0,
       "score": 8.6,
       "label": null,
-      "reviews": "2.900+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Zes dranken met het slangloze LatteGo-systeem voor minder geld.",
       "specs": {
         "Melksysteem": "LatteGo, slangloos",
@@ -457,7 +462,8 @@
       "low_price": 419.0,
       "prev_price": 479.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720389027673"
+      "ph_ean": "8720389027673",
+      "rating": 4.2
     },
     {
       "brand": "Melitta",
@@ -465,7 +471,7 @@
       "price": 272.96,
       "score": 8.3,
       "label": null,
-      "reviews": "2.400+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "De smalste volautomaat voor pure espresso en koffie.",
       "specs": {
         "Melksysteem": "Geen",
@@ -529,7 +535,8 @@
       "low_price": 272.96,
       "prev_price": 308.95,
       "prev_date": "2026-11-16",
-      "ph_ean": "4006508210169"
+      "ph_ean": "4006508210169",
+      "rating": 4.3
     },
     {
       "brand": "Krups",
@@ -537,7 +544,7 @@
       "price": 401.31,
       "score": 8.4,
       "label": null,
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Vijftien dranken met één aanraking en een stille melkopschuimer.",
       "specs": {
         "Melksysteem": "Automatisch, slang",
@@ -603,7 +610,8 @@
       "low_price": 401.31,
       "prev_price": 429.78,
       "prev_date": "2026-11-05",
-      "ph_ean": "0010942223399"
+      "ph_ean": "0010942223399",
+      "rating": 4.2
     },
     {
       "brand": "Sage",
@@ -611,7 +619,7 @@
       "price": 1225.0,
       "score": 8.9,
       "label": null,
-      "reviews": "720+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Halfautomaat met ingebouwde molen voor wie zelf barista wil zijn.",
       "specs": {
         "Melksysteem": "Automatische stoompijp",
@@ -673,7 +681,8 @@
         "2026-11-17": 1225.0
       },
       "low_price": 1224.99,
-      "ph_ean": "9355973105728"
+      "ph_ean": "9355973105728",
+      "rating": 5.0
     },
     {
       "brand": "Siemens",
@@ -681,7 +690,7 @@
       "price": 384.58,
       "score": 8.2,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Instap-volautomaat van Siemens met melkopschuimer en keramisch maalwerk.",
       "specs": {
         "Melksysteem": "Stoompijp, automatisch opschuimen",
@@ -741,7 +750,8 @@
       "low_price": 375.03,
       "prev_price": 380.27,
       "prev_date": "2026-11-16",
-      "ph_ean": "4242003926857"
+      "ph_ean": "4242003926857",
+      "rating": 4.0
     }
   ],
   "guide": [

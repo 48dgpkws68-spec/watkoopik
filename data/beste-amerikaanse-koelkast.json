@@ -25,7 +25,7 @@
       "price": 1625.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Ruime side-by-side met glazen kijkdeur en water- en ijsdispenser.",
       "specs": {
         "Type": "Side-by-side",
@@ -86,7 +86,8 @@
       "low_price": 1608.75,
       "prev_price": 1608.75,
       "prev_date": "2026-11-03",
-      "ph_ean": "8806091270320"
+      "ph_ean": "8806091270320",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -94,7 +95,7 @@
       "price": 1349.0,
       "score": 9.1,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Klassieke rvs side-by-side met veel ruimte en een water- en ijsdispenser.",
       "specs": {
         "Type": "Side-by-side",
@@ -153,7 +154,8 @@
         "2026-11-17": 1349.0
       },
       "low_price": 1349.0,
-      "ph_ean": "8806090805516"
+      "ph_ean": "8806090805516",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -161,7 +163,7 @@
       "price": 2395.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Slimme Amerikaanse koelkast met groot touchscreen en camera's binnenin.",
       "specs": {
         "Type": "Side-by-side",
@@ -214,7 +216,8 @@
         "2026-11-17": 2395.0
       },
       "low_price": 2395.0,
-      "ph_ean": "8806090805882"
+      "ph_ean": "8806090805882",
+      "rating": 4.4
     },
     {
       "brand": "Bosch",
@@ -222,7 +225,7 @@
       "price": 1599.0,
       "score": 8.9,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Strakke French door met vier deuren en rvs-front van Bosch.",
       "specs": {
         "Type": "French door",
@@ -281,7 +284,8 @@
         "2026-11-17": 1599.0
       },
       "low_price": 1599.0,
-      "ph_ean": "4242005273300"
+      "ph_ean": "4242005273300",
+      "rating": 4.8
     },
     {
       "brand": "LG",
@@ -289,7 +293,7 @@
       "price": 1795.0,
       "score": 8.8,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Smallere side-by-side die ook door krappe deuropeningen past.",
       "specs": {
         "Type": "Side-by-side",
@@ -348,7 +352,8 @@
         "2026-11-17": 1795.0
       },
       "low_price": 1795.0,
-      "ph_ean": "8806098362745"
+      "ph_ean": "8806098362745",
+      "rating": 5.0
     },
     {
       "brand": "Hisense",
@@ -395,7 +400,8 @@
       },
       "low_price": 1289.0,
       "synced": "2026-11-17",
-      "ph_ean": "6921727073747"
+      "ph_ean": "6921727073747",
+      "rating": 4.5
     },
     {
       "brand": "Siemens",
@@ -403,7 +409,7 @@
       "price": 1595.0,
       "score": 8.7,
       "label": null,
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Zwarte French door met hyperFresh-lades voor langer verse groente.",
       "specs": {
         "Type": "French door",
@@ -462,7 +468,8 @@
       "low_price": 1579.05,
       "prev_price": 1579.05,
       "prev_date": "2026-10-20",
-      "ph_ean": "4242003895979"
+      "ph_ean": "4242003895979",
+      "rating": 4.8
     },
     {
       "brand": "ETNA",
@@ -470,7 +477,7 @@
       "price": 887.0,
       "score": 8.5,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Zuinige side-by-side met energieklasse C voor een nette prijs.",
       "specs": {
         "Type": "Side-by-side",
@@ -531,7 +538,8 @@
       "low_price": 887.0,
       "prev_price": 889.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8715393415349"
+      "ph_ean": "8715393415349",
+      "rating": 4.8
     },
     {
       "brand": "Inventum",
@@ -539,7 +547,7 @@
       "price": 585.0,
       "score": 8.4,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Zwarte side-by-side met ijsblokjesmaker zonder wateraansluiting.",
       "specs": {
         "Type": "Side-by-side",
@@ -600,7 +608,8 @@
       "low_price": 585.0,
       "prev_price": 724.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712876160956"
+      "ph_ean": "8712876160956",
+      "rating": 4.6
     },
     {
       "brand": "Haier",
@@ -608,7 +617,7 @@
       "price": 699.0,
       "score": 8.3,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Compacte French door van 83 cm voor een vriendelijke prijs.",
       "specs": {
         "Type": "French door",
@@ -667,7 +676,8 @@
         "2026-11-17": 699.0
       },
       "low_price": 699.0,
-      "ph_ean": "6901018083198"
+      "ph_ean": "6901018083198",
+      "rating": 4.7
     }
   ],
   "guide": [

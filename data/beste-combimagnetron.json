@@ -25,7 +25,7 @@
       "price": 399.99,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Ruime combimagnetron met Crisp, stoom en hetelucht.",
       "specs": {
         "Inhoud": "33 l",
@@ -86,7 +86,8 @@
       "low_price": 377.89,
       "prev_price": 377.89,
       "prev_date": "2026-11-14",
-      "ph_ean": "8003437642999"
+      "ph_ean": "8003437642999",
+      "rating": 4.6
     },
     {
       "brand": "Samsung",
@@ -147,7 +148,8 @@
         "2026-11-17": 449.0
       },
       "low_price": 449.0,
-      "ph_ean": "8806090394362"
+      "ph_ean": "8806090394362",
+      "rating": 4.0
     },
     {
       "brand": "Samsung",
@@ -155,7 +157,7 @@
       "price": 229.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Populaire combimagnetron met keramische binnenkant en Slim Fry.",
       "specs": {
         "Inhoud": "28 l",
@@ -216,7 +218,8 @@
       "low_price": 218.0,
       "prev_price": 225.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8806086090735"
+      "ph_ean": "8806086090735",
+      "rating": 4.5
     },
     {
       "brand": "LG",
@@ -224,7 +227,7 @@
       "price": 294.24,
       "score": 8.9,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Grote 39 liter combi met Smart Inverter en stoomschaal.",
       "specs": {
         "Inhoud": "39 l",
@@ -285,7 +288,8 @@
       "low_price": 294.24,
       "ph_ean": "8806087801576",
       "prev_price": 299.0,
-      "prev_date": "2026-11-13"
+      "prev_date": "2026-11-13",
+      "rating": 4.4
     },
     {
       "brand": "Sharp",
@@ -339,7 +343,8 @@
       "synced": "2026-11-17",
       "prev_price": 500.82,
       "prev_date": "2026-11-13",
-      "ph_ean": "4974019772684"
+      "ph_ean": "4974019772684",
+      "rating": 4.5
     },
     {
       "brand": "Whirlpool",
@@ -347,7 +352,7 @@
       "price": 179.0,
       "score": 8.7,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Compacte combi met Crispfunctie voor een kleine keuken.",
       "specs": {
         "Inhoud": "25 l",
@@ -408,7 +413,8 @@
       "low_price": 179.0,
       "prev_price": 205.85,
       "prev_date": "2026-11-13",
-      "ph_ean": "8003437860782"
+      "ph_ean": "8003437860782",
+      "rating": 4.7
     },
     {
       "brand": "Inventum",
@@ -416,7 +422,7 @@
       "price": 145.0,
       "score": 8.5,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Nederlands merk met 30 liter en eenvoudige bediening.",
       "specs": {
         "Inhoud": "30 l",
@@ -477,7 +483,8 @@
       "low_price": 145.0,
       "prev_price": 171.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712876170023"
+      "ph_ean": "8712876170023",
+      "rating": 4.5
     },
     {
       "brand": "Inventum",
@@ -485,7 +492,7 @@
       "price": 219.0,
       "score": 8.4,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "32 liter combi met draaispit voor een hele kip.",
       "specs": {
         "Inhoud": "32 l",
@@ -546,7 +553,8 @@
       "low_price": 172.0,
       "prev_price": 220.9,
       "prev_date": "2026-11-04",
-      "ph_ean": "8712876173178"
+      "ph_ean": "8712876173178",
+      "rating": 4.4
     },
     {
       "brand": "Severin",
@@ -554,7 +562,7 @@
       "price": 180.63,
       "score": 8.3,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Combi met glazen bodem in plaats van draaiplateau.",
       "specs": {
         "Inhoud": "25 l",
@@ -615,7 +623,8 @@
       "low_price": 173.89,
       "prev_price": 182.45,
       "prev_date": "2026-11-16",
-      "ph_ean": "4008146041242"
+      "ph_ean": "4008146041242",
+      "rating": 3.9
     },
     {
       "brand": "Tomado",
@@ -623,7 +632,7 @@
       "price": 109.0,
       "score": 8.2,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Goedkoopste combimagnetron met hetelucht, hoog gewaardeerd.",
       "specs": {
         "Inhoud": "23 l",
@@ -686,7 +695,8 @@
       "low_price": 99.0,
       "prev_price": 99.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "8712876502107"
+      "ph_ean": "8712876502107",
+      "rating": 4.7
     }
   ],
   "guide": [

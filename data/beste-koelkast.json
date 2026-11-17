@@ -72,7 +72,8 @@
       "synced": "2026-11-17",
       "prev_price": 1089.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "4242005291991"
+      "ph_ean": "4242005291991",
+      "rating": 4.7
     },
     {
       "brand": "Samsung",
@@ -80,7 +81,7 @@
       "price": 909.0,
       "score": 9.0,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Strakke combi in energieklasse B met slimme functies.",
       "specs": {
         "Type": "Vrijstaand combi",
@@ -118,7 +119,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8806094768459",
       "prev_price": 929.0,
-      "prev_date": "2026-11-12"
+      "prev_date": "2026-11-12",
+      "rating": 5.0
     },
     {
       "brand": "Liebherr",
@@ -126,7 +128,7 @@
       "price": 989.0,
       "score": 8.9,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "",
       "oneliner": "Hoge vrijstaande combi van 201 cm met NoFrost en EasyFresh-lade.",
       "specs": {
         "Type": "Vrijstaand combi",
@@ -198,7 +200,7 @@
       "price": 898.37,
       "score": 8.7,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "",
       "oneliner": "Inbouwcombi met vaste deur en ruime vriezer.",
       "specs": {
         "Type": "Inbouw combi",
@@ -270,7 +272,7 @@
       "price": 1227.54,
       "score": 8.6,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "",
       "oneliner": "Inbouwkoelkast van 178 cm met vriesvak en vaste deur.",
       "specs": {
         "Type": "Inbouw met vriesvak",
@@ -396,7 +398,8 @@
       "low_price": 699.0,
       "prev_price": 772.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "6921727073983"
+      "ph_ean": "6921727073983",
+      "rating": 4.8
     },
     {
       "brand": "Samsung",
@@ -404,7 +407,7 @@
       "price": 1349.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 3,0 van 5",
       "oneliner": "Amerikaanse koelkast met ijsblokjesmaker en waterdispenser.",
       "specs": {
         "Type": "Amerikaans",
@@ -465,7 +468,8 @@
         "2026-11-17": 1349.0
       },
       "low_price": 1349.0,
-      "ph_ean": "8806090805608"
+      "ph_ean": "8806090805608",
+      "rating": 3.0
     },
     {
       "brand": "Bosch",
@@ -473,7 +477,7 @@
       "price": 1545.0,
       "score": 8.8,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "French door koelkast met vier deuren, VitaFresh XXL en Total NoFrost.",
       "specs": {
         "Type": "French door",
@@ -537,7 +541,8 @@
       "low_price": 1529.0,
       "prev_price": 1529.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4242005264568"
+      "ph_ean": "4242005264568",
+      "rating": 5.0
     },
     {
       "brand": "Bosch",
@@ -545,7 +550,7 @@
       "price": 370.0,
       "score": 8.0,
       "label": null,
-      "reviews": "1.200+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Tafelmodel met vriesvak dat onder het aanrecht past.",
       "specs": {
         "Type": "Tafelmodel met vriesvak",
@@ -608,7 +613,8 @@
       "low_price": 370.0,
       "prev_price": 371.0,
       "prev_date": "2026-11-03",
-      "ph_ean": "4242005424795"
+      "ph_ean": "4242005424795",
+      "rating": 4.6
     },
     {
       "brand": "Smeg",
@@ -616,7 +622,7 @@
       "price": 918.0,
       "score": 8.3,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "",
       "oneliner": "Italiaanse rvs combi met NoFrost en 324 liter inhoud.",
       "specs": {
         "Type": "Vrijstaand combi",

@@ -25,7 +25,7 @@
       "price": 67.99,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Snelle keramische kachel met thermostaat en draaifunctie.",
       "specs": {
         "Type": "Keramisch, ventilator",
@@ -80,7 +80,8 @@
       "low_price": 61.99,
       "prev_price": 62.99,
       "prev_date": "2026-11-11",
-      "ph_ean": "8711658531762"
+      "ph_ean": "8711658531762",
+      "rating": 4.2
     },
     {
       "brand": "VONROC",
@@ -88,7 +89,7 @@
       "price": 79.95,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare torenkachel met ECO-stand, zwenkfunctie en afstandsbediening.",
       "specs": {
         "Type": "Keramisch, toren",
@@ -151,7 +152,8 @@
       "low_price": 49.95,
       "prev_price": 74.95,
       "prev_date": "2026-10-30",
-      "ph_ean": "8717479101061"
+      "ph_ean": "8717479101061",
+      "rating": 4.5
     },
     {
       "brand": "Duux",
@@ -159,7 +161,7 @@
       "price": 222.2,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "200+ reviews",
+      "reviews": "",
       "oneliner": "Stille slimme olieradiator met app, boost-stand en strak design.",
       "specs": {
         "Type": "Oliegevuld",
@@ -222,7 +224,7 @@
       "price": 99.99,
       "score": 8.7,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Ronde olieradiator met timer en drie standen voor stille warmte.",
       "specs": {
         "Type": "Oliegevuld",
@@ -284,7 +286,8 @@
       "low_price": 99.99,
       "prev_price": 104.49,
       "prev_date": "2026-11-03",
-      "ph_ean": "8719138877850"
+      "ph_ean": "8719138877850",
+      "rating": 4.6
     },
     {
       "brand": "Heinner",
@@ -292,7 +295,7 @@
       "price": 64.99,
       "score": 8.5,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Eenvoudige olieradiator met negen ribben en mechanische thermostaat.",
       "specs": {
         "Type": "Oliegevuld",
@@ -350,7 +353,8 @@
         "2026-11-14": 64.99
       },
       "low_price": 64.99,
-      "ph_ean": "5949494044648"
+      "ph_ean": "5949494044648",
+      "rating": 4.5
     },
     {
       "brand": "Inventum",
@@ -358,7 +362,7 @@
       "price": 39.0,
       "score": 8.3,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Compacte keramische kachel voor kleine ruimtes en snelle warmte.",
       "specs": {
         "Type": "Keramisch, compact",
@@ -420,7 +424,8 @@
       "low_price": 25.99,
       "prev_price": 27.8,
       "prev_date": "2026-11-13",
-      "ph_ean": "8712876044065"
+      "ph_ean": "8712876044065",
+      "rating": 4.5
     },
     {
       "brand": "Rowenta",
@@ -428,7 +433,7 @@
       "price": 51.95,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Compacte keramische Rowenta-kachel van 1800 watt voor bureau of kleine kamer.",
       "specs": {
         "Type": "Keramisch, compact",
@@ -479,7 +484,8 @@
       "synced": "2026-11-17",
       "prev_price": 50.95,
       "prev_date": "2026-11-13",
-      "ph_ean": "3121040083086"
+      "ph_ean": "3121040083086",
+      "rating": 4.3
     },
     {
       "brand": "Eurom",
@@ -487,7 +493,7 @@
       "price": 73.29,
       "score": 8.5,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Stille convectorkachel met hoog vermogen voor grotere ruimtes.",
       "specs": {
         "Type": "Convector",
@@ -549,7 +555,8 @@
       "low_price": 71.61,
       "prev_price": 72.39,
       "prev_date": "2026-11-16",
-      "ph_ean": "8713415360479"
+      "ph_ean": "8713415360479",
+      "rating": 4.5
     },
     {
       "brand": "Komodo",
@@ -609,7 +616,8 @@
       },
       "low_price": 99.95,
       "synced": "2026-11-17",
-      "ph_ean": "8720892731531"
+      "ph_ean": "8720892731531",
+      "rating": 4.2
     },
     {
       "brand": "Tristar",
@@ -617,7 +625,7 @@
       "price": 35.99,
       "score": 8.0,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Goedkope convectorkachel met drie warmtestanden en thermostaat.",
       "specs": {
         "Type": "Convector",
@@ -679,7 +687,8 @@
       "low_price": 28.99,
       "prev_price": 44.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8711658522586"
+      "ph_ean": "8711658522586",
+      "rating": 4.2
     }
   ],
   "guide": [

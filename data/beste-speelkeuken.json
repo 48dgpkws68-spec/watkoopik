@@ -62,7 +62,8 @@
       "ph_ean": "8713291225008",
       "synced": "2026-11-17",
       "prev_price": 91.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     },
     {
       "brand": "Klein Toys",
@@ -105,7 +106,8 @@
       "ph_ean": "4009847071880",
       "synced": "2026-11-17",
       "prev_price": 99.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     },
     {
       "brand": "KidKraft",
@@ -146,7 +148,8 @@
       },
       "low_price": 84.99,
       "ph_ean": "0706943532225",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.7
     },
     {
       "brand": "Woet",
@@ -186,7 +189,8 @@
       },
       "low_price": 74.95,
       "ph_ean": "8718446110802",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.4
     },
     {
       "brand": "KidKraft",
@@ -227,7 +231,8 @@
       },
       "low_price": 119.94,
       "ph_ean": "0706943531730",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.6
     },
     {
       "brand": "Smoby",
@@ -235,7 +240,7 @@
       "price": 79.95,
       "score": 8.6,
       "label": null,
-      "reviews": "nog weinig reviews op bol",
+      "reviews": "",
       "oneliner": "Kunststof keuken met koelkast, kookgeluiden en 27 accessoires.",
       "specs": {
         "Materiaal": "Kunststof",
@@ -308,7 +313,8 @@
       },
       "low_price": 99.95,
       "ph_ean": "8715427206936",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.5
     },
     {
       "brand": "KidKraft",
@@ -349,7 +355,8 @@
       },
       "low_price": 69.5,
       "ph_ean": "0706943534410",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.7
     },
     {
       "brand": "Janod",
@@ -392,7 +399,8 @@
       "ph_ean": "3700217365561",
       "synced": "2026-11-17",
       "prev_price": 51.16,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 3.8
     },
     {
       "brand": "Smoby",
@@ -400,7 +408,7 @@
       "price": 44.98,
       "score": 7.8,
       "label": null,
-      "reviews": "bol-score 3,5 van 5",
+      "reviews": "bol-score 3,4 van 5",
       "oneliner": "Goedkope kunststof keuken met 23 accessoires en kookgeluid.",
       "specs": {
         "Materiaal": "Kunststof",
@@ -433,7 +441,8 @@
       },
       "low_price": 44.98,
       "ph_ean": "3032163108245",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 3.4
     }
   ],
   "guide": [

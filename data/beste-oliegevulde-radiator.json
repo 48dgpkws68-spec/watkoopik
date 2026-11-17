@@ -25,7 +25,7 @@
       "price": 224.4,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "100+ reviews",
+      "reviews": "",
       "oneliner": "Slanke slimme olieradiator met app en weekschema.",
       "specs": {
         "Vermogen": "1500 W",
@@ -88,7 +88,7 @@
       "price": 104.49,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Krachtige olieradiator met timer en drie standen voor weinig geld.",
       "specs": {
         "Vermogen": "2300 W",
@@ -146,7 +146,8 @@
       "low_price": 104.49,
       "prev_price": 109.99,
       "prev_date": "2026-11-02",
-      "ph_ean": "8433325503055"
+      "ph_ean": "8433325503055",
+      "rating": 4.6
     },
     {
       "brand": "Mill",
@@ -154,7 +155,7 @@
       "price": 309.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Noorse design olieradiator met wifi en nauwkeurige thermostaat.",
       "specs": {
         "Vermogen": "2000 W",
@@ -207,7 +208,8 @@
       "low_price": 305.0,
       "prev_price": 345.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "7090019824868"
+      "ph_ean": "7090019824868",
+      "rating": 4.1
     },
     {
       "brand": "De'Longhi",
@@ -215,7 +217,7 @@
       "price": 136.0,
       "score": 8.7,
       "label": null,
-      "reviews": "Gem. 5,0 sterren op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Degelijke olieradiator met Venturi-ribben en drie vermogensstanden.",
       "specs": {
         "Vermogen": "2500 W",
@@ -259,7 +261,8 @@
       "synced": "2026-11-17",
       "prev_price": 140.38,
       "prev_date": "2026-11-13",
-      "ph_ean": "8004399027299"
+      "ph_ean": "8004399027299",
+      "rating": 5.0
     },
     {
       "brand": "Mill",
@@ -267,7 +270,7 @@
       "price": 249.0,
       "score": 8.7,
       "label": null,
-      "reviews": "120+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Stille design olieradiator met digitale thermostaat en lange garantie.",
       "specs": {
         "Vermogen": "1500 W",
@@ -325,7 +328,8 @@
       "low_price": 226.71,
       "prev_price": 229.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "7090019821539"
+      "ph_ean": "7090019821539",
+      "rating": 4.4
     },
     {
       "brand": "Aigostar",
@@ -333,7 +337,7 @@
       "price": 132.99,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Olieradiator van 2500 watt met timer voor grote ruimtes.",
       "specs": {
         "Vermogen": "2500 W",
@@ -379,7 +383,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8433325504267",
       "prev_price": 139.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.4
     },
     {
       "brand": "Auronic",
@@ -387,7 +392,7 @@
       "price": 134.99,
       "score": 8.4,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Olieradiator met display en afstandsbediening voor op de bank.",
       "specs": {
         "Vermogen": "2500 W",
@@ -444,7 +449,8 @@
       "low_price": 114.99,
       "prev_price": 144.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8721055567417"
+      "ph_ean": "8721055567417",
+      "rating": 4.4
     },
     {
       "brand": "Heinner",
@@ -452,7 +458,7 @@
       "price": 83.35,
       "score": 8.3,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Olieradiator met turboventilator die een kamer sneller opwarmt.",
       "specs": {
         "Vermogen": "2500 W",
@@ -510,7 +516,8 @@
       "low_price": 83.35,
       "prev_price": 85.49,
       "prev_date": "2026-10-31",
-      "ph_ean": "5949494044655"
+      "ph_ean": "5949494044655",
+      "rating": 4.5
     },
     {
       "brand": "Tristar",
@@ -549,7 +556,8 @@
         "2026-11-17": 54.99
       },
       "low_price": 54.99,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 3.8
     },
     {
       "brand": "Tristar",
@@ -557,7 +565,7 @@
       "price": 39.99,
       "score": 7.8,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Mini olieradiator van 500 watt voor kleine ruimtes en vorstvrij houden.",
       "specs": {
         "Vermogen": "500 W",
@@ -614,7 +622,8 @@
       "low_price": 34.99,
       "prev_price": 37.99,
       "prev_date": "2026-11-10",
-      "ph_ean": "8713016051035"
+      "ph_ean": "8713016051035",
+      "rating": 3.9
     }
   ],
   "guide": [

@@ -70,7 +70,8 @@
       },
       "low_price": 89.0,
       "synced": "2026-11-17",
-      "ph_ean": "4059952574967"
+      "ph_ean": "4059952574967",
+      "rating": 4.7
     },
     {
       "brand": "Einhell",
@@ -78,7 +79,7 @@
       "price": 48.99,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Betaalbare snoermodel met 51 cm zwaard en 16 mm tandafstand.",
       "specs": {
         "Voeding": "Snoer, 420 W",
@@ -141,7 +142,8 @@
       "low_price": 32.99,
       "prev_price": 32.99,
       "prev_date": "2026-11-09",
-      "ph_ean": "4006825585049"
+      "ph_ean": "4006825585049",
+      "rating": 4.8
     },
     {
       "brand": "Bosch",
@@ -149,7 +151,7 @@
       "price": 177.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Krachtige 18V-heggenschaar met zaagfunctie voor dikkere takken.",
       "specs": {
         "Voeding": "18 V accu (incl.)",
@@ -212,7 +214,8 @@
       "low_price": 172.2,
       "prev_price": 195.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "4059952558769"
+      "ph_ean": "4059952558769",
+      "rating": 4.5
     },
     {
       "brand": "BLACK+DECKER",
@@ -220,7 +223,7 @@
       "price": 79.99,
       "score": 8.7,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Complete 18V-set met 45 cm mes en anti-vastloopfunctie.",
       "specs": {
         "Voeding": "18 V accu (incl.)",
@@ -282,7 +285,8 @@
       "low_price": 73.86,
       "prev_price": 81.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "5035048554128"
+      "ph_ean": "5035048554128",
+      "rating": 4.7
     },
     {
       "brand": "GARDENA",
@@ -290,7 +294,7 @@
       "price": 62.5,
       "score": 8.5,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Compact accumodel met ingebouwde accu voor lage hagen.",
       "specs": {
         "Voeding": "18 V accu (ingebouwd)",
@@ -353,7 +357,8 @@
       "low_price": 62.5,
       "prev_price": 69.99,
       "prev_date": "2026-10-23",
-      "ph_ean": "4078500042475"
+      "ph_ean": "4078500042475",
+      "rating": 4.4
     },
     {
       "brand": "BLACK+DECKER",
@@ -361,7 +366,7 @@
       "price": 49.29,
       "score": 8.3,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Lichte snoerheggenschaar van 420 W voor een lage prijs.",
       "specs": {
         "Voeding": "Snoer, 420 W",
@@ -423,7 +428,8 @@
       "low_price": 35.99,
       "prev_price": 54.99,
       "prev_date": "2026-11-11",
-      "ph_ean": "5035048677988"
+      "ph_ean": "5035048677988",
+      "rating": 4.6
     },
     {
       "brand": "Makita",
@@ -431,7 +437,7 @@
       "price": 109.95,
       "score": 8.9,
       "label": null,
-      "reviews": "5,0/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Lichte 18V-heggenschaar van Makita, los geleverd zonder accu.",
       "specs": {
         "Voeding": "18 V accu (niet incl.)",
@@ -484,7 +490,8 @@
       "synced": "2026-11-17",
       "prev_price": 116.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "0088381777131"
+      "ph_ean": "0088381777131",
+      "rating": 5.0
     },
     {
       "brand": "Powerplus",
@@ -492,7 +499,7 @@
       "price": 39.95,
       "score": 8.0,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Snoermodel met lang mes van 55 cm voor brede hagen.",
       "specs": {
         "Voeding": "Snoer, 500 W",
@@ -554,7 +561,8 @@
       "low_price": 39.95,
       "prev_price": 49.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "5400338092220"
+      "ph_ean": "5400338092220",
+      "rating": 4.5
     },
     {
       "brand": "GARDENA",
@@ -562,7 +570,7 @@
       "price": 98.0,
       "score": 8.4,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Snoermodel van 500 W met 55 cm mes en handig snoerslot.",
       "specs": {
         "Voeding": "Snoer, 500 W",
@@ -624,7 +632,8 @@
       "low_price": 76.17,
       "prev_price": 99.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "4078500016582"
+      "ph_ean": "4078500016582",
+      "rating": 4.2
     },
     {
       "brand": "Bosch",
@@ -632,7 +641,7 @@
       "price": 187.72,
       "score": 8.6,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Heggenschaar op steel voor hoge hagen zonder ladder.",
       "specs": {
         "Voeding": "18 V accu (incl.)",
@@ -694,7 +703,8 @@
       "low_price": 173.0,
       "prev_price": 187.77,
       "prev_date": "2026-11-14",
-      "ph_ean": "3165140888042"
+      "ph_ean": "3165140888042",
+      "rating": 4.3
     }
   ],
   "guide": [

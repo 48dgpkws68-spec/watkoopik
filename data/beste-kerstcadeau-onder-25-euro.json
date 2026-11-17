@@ -35,7 +35,7 @@
       "score": 9.2,
       "label": "Beste keuze",
       "ean": "4060539123942",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Muziekspel dat de hele familie op kerstavond laat meeraden.",
       "specs": {
         "Voor wie": "Families en vriendengroepen",
@@ -75,7 +75,8 @@
       "synced": "2026-11-17",
       "ph_ean": "4060539123942",
       "prev_price": 19.99,
-      "prev_date": "2026-11-12"
+      "prev_date": "2026-11-12",
+      "rating": 4.5
     },
     {
       "brand": "Asmodee",
@@ -84,7 +85,7 @@
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "ean": "3558380043874",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Snel kaartspel in een blik, leuk voor iedereen vanaf 6 jaar.",
       "specs": {
         "Voor wie": "Gezinnen met kinderen vanaf 6 jaar",
@@ -124,7 +125,8 @@
       "synced": "2026-11-17",
       "prev_price": 14.99,
       "prev_date": "2026-11-11",
-      "ph_ean": "3558380043874"
+      "ph_ean": "3558380043874",
+      "rating": 4.7
     },
     {
       "brand": "Jumbo",
@@ -133,7 +135,7 @@
       "score": 8.9,
       "label": null,
       "ean": "8710126130070",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Kerstpuzzel vol grapjes voor de dagen tussen kerst en oud en nieuw.",
       "specs": {
         "Voor wie": "Puzzelaars en ouders",
@@ -171,7 +173,8 @@
       },
       "low_price": 18.99,
       "synced": "2026-11-17",
-      "ph_ean": "8710126130070"
+      "ph_ean": "8710126130070",
+      "rating": 4.8
     },
     {
       "brand": "Contigo",
@@ -216,7 +219,8 @@
       "synced": "2026-11-17",
       "ph_ean": "0840276159497",
       "prev_price": 18.0,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.3
     },
     {
       "brand": "LEGO",
@@ -225,7 +229,7 @@
       "score": 8.7,
       "label": null,
       "ean": "5702018054734",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Kleine bouwset die je ombouwt tot drie verschillende modellen.",
       "specs": {
         "Voor wie": "Kinderen en jonge bouwers",
@@ -265,7 +269,8 @@
       "synced": "2026-11-17",
       "prev_price": 16.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "5702018054734"
+      "ph_ean": "5702018054734",
+      "rating": 4.8
     },
     {
       "brand": "Komfortec",
@@ -274,7 +279,7 @@
       "score": 8.7,
       "label": null,
       "ean": "4255684900252",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Zachte plaid voor lange winteravonden op de bank.",
       "specs": {
         "Voor wie": "Iedereen die graag op de bank zit",
@@ -312,7 +317,8 @@
       },
       "low_price": 21.99,
       "synced": "2026-11-17",
-      "ph_ean": "4255684900252"
+      "ph_ean": "4255684900252",
+      "rating": 4.6
     },
     {
       "brand": "Yankee Candle",
@@ -321,7 +327,7 @@
       "score": 8.6,
       "label": null,
       "ean": "5038581167510",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Geurkaars met de geur van vers gebakken kerstkoekjes.",
       "specs": {
         "Voor wie": "Liefhebbers van sfeer thuis",
@@ -359,7 +365,8 @@
       },
       "low_price": 14.9,
       "synced": "2026-11-17",
-      "ph_ean": "5038581167510"
+      "ph_ean": "5038581167510",
+      "rating": 4.5
     },
     {
       "brand": "Ølav North",
@@ -368,7 +375,7 @@
       "score": 8.5,
       "label": null,
       "ean": "8720938994104",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Warmwaterkruik met zachte hoes, al verpakt als cadeau.",
       "specs": {
         "Voor wie": "Koukleumen",
@@ -408,7 +415,8 @@
       "synced": "2026-11-17",
       "prev_price": 19.95,
       "prev_date": "2026-11-09",
-      "ph_ean": "8720938994104"
+      "ph_ean": "8720938994104",
+      "rating": 4.6
     },
     {
       "brand": "Rituals",
@@ -447,7 +455,8 @@
       },
       "low_price": 18.86,
       "ph_ean": "8719134189643",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Happy Socks",
@@ -456,7 +465,7 @@
       "score": 8.3,
       "label": null,
       "ean": "7333102254020",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Drie paar kleurrijke sokken in een cadeaudoos.",
       "specs": {
         "Voor wie": "Mannen en sokkenliefhebbers",
@@ -494,7 +503,8 @@
       },
       "low_price": 19.95,
       "synced": "2026-11-17",
-      "ph_ean": "7333102254020"
+      "ph_ean": "7333102254020",
+      "rating": 4.2
     }
   ],
   "guide": [

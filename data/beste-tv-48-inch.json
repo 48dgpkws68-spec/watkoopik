@@ -36,7 +36,7 @@
       "price": 799.3,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "De meest complete 48 inch oled, met 144 Hz voor gamers.",
       "specs": {
         "Paneel": "OLED evo",
@@ -66,7 +66,8 @@
       },
       "low_price": 799.3,
       "ph_ean": "8806096353936",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -104,7 +105,8 @@
       },
       "low_price": 799.0,
       "ph_ean": "8718863042038",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "LG",
@@ -142,7 +144,8 @@
       },
       "low_price": 949.0,
       "ph_ean": "8806096367445",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.6
     },
     {
       "brand": "Sony",
@@ -150,7 +153,7 @@
       "price": 1099.0,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Natuurlijk filmbeeld van Sony met Google TV op 48 inch.",
       "specs": {
         "Paneel": "OLED",
@@ -180,7 +183,8 @@
       },
       "low_price": 1099.0,
       "ph_ean": "4548736183001",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -217,7 +221,8 @@
       },
       "low_price": 823.0,
       "ph_ean": "8718863046753",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.7
     },
     {
       "brand": "Philips",
@@ -225,7 +230,7 @@
       "price": 1199.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Topmodel van Philips op 48 inch uit de 2026-reeks.",
       "specs": {
         "Paneel": "OLED",
@@ -255,7 +260,8 @@
       },
       "low_price": 1199.0,
       "ph_ean": "8718863052006",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -292,7 +298,8 @@
       },
       "low_price": 799.0,
       "ph_ean": "8718863042113",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -300,7 +307,7 @@
       "price": 1099.0,
       "score": 8.3,
       "label": null,
-      "reviews": "nieuw, nog geen bol-score",
+      "reviews": "",
       "oneliner": "Nieuw middenmodel van Philips uit 2026 met Ambilight.",
       "specs": {
         "Paneel": "OLED",

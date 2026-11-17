@@ -25,7 +25,7 @@
       "price": 279.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Opvolger van de Sleepbuds met meer accuduur en maskeergeluid.",
       "specs": {
         "Type": "Slaap-earbuds",
@@ -71,7 +71,8 @@
       "synced": "2026-11-17",
       "prev_price": 299.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "0850070961165"
+      "ph_ean": "0850070961165",
+      "rating": 4.4
     },
     {
       "brand": "Soundcore",
@@ -79,7 +80,7 @@
       "price": 159.99,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Slaap-earbuds met actieve noise cancelling en snurkdetectie.",
       "specs": {
         "Type": "Slaap-earbuds",
@@ -134,7 +135,8 @@
       "low_price": 159.99,
       "prev_price": 242.82,
       "prev_date": "2026-11-08",
-      "ph_ean": "0194644266035"
+      "ph_ean": "0194644266035",
+      "rating": 3.8
     },
     {
       "brand": "Alpine",
@@ -142,7 +144,7 @@
       "price": 12.71,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "3.000+ reviews",
+      "reviews": "bol-score 3,6 van 5",
       "oneliner": "Gevulde oordoppen met 27 dB demping voor een kleine prijs.",
       "specs": {
         "Type": "Oordoppen",
@@ -202,7 +204,8 @@
       "low_price": 12.71,
       "ph_ean": "8717154027242",
       "prev_price": 14.05,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 3.6
     },
     {
       "brand": "Loop",
@@ -210,7 +213,7 @@
       "price": 34.95,
       "score": 8.6,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 3,3 van 5",
       "oneliner": "Zachte slaapoordopjes van siliconen met traagschuim tips.",
       "specs": {
         "Type": "Oordoppen",
@@ -270,7 +273,8 @@
       "low_price": 34.95,
       "ph_ean": "5407009942815",
       "prev_price": 44.95,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 3.3
     },
     {
       "brand": "Soundcore",
@@ -278,7 +282,7 @@
       "price": 69.99,
       "score": 8.5,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Betaalbare slaap-earbuds met maskeergeluiden en slaapmonitoring.",
       "specs": {
         "Type": "Slaap-earbuds",
@@ -338,7 +342,8 @@
       "low_price": 69.99,
       "prev_price": 149.99,
       "prev_date": "2026-11-08",
-      "ph_ean": "0194644186982"
+      "ph_ean": "0194644186982",
+      "rating": 3.8
     },
     {
       "brand": "Loop",
@@ -346,7 +351,7 @@
       "price": 19.95,
       "score": 8.4,
       "label": null,
-      "reviews": "2.400+ reviews",
+      "reviews": "bol-score 3,5 van 5",
       "oneliner": "Kleine herbruikbare siliconen oordopjes met 24 dB demping.",
       "specs": {
         "Type": "Oordoppen",
@@ -406,7 +411,8 @@
       "low_price": 19.95,
       "ph_ean": "5407009941146",
       "prev_price": 24.95,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 3.5
     },
     {
       "brand": "Ohropax",
@@ -414,7 +420,7 @@
       "price": 8.99,
       "score": 8.3,
       "label": null,
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Klassieke schuimoordoppen met hoge demping en lage prijs.",
       "specs": {
         "Type": "Oordoppen",
@@ -474,7 +480,8 @@
       "low_price": 8.81,
       "prev_price": 8.9,
       "prev_date": "2026-11-13",
-      "ph_ean": "4003626061505"
+      "ph_ean": "4003626061505",
+      "rating": 4.2
     },
     {
       "brand": "Loop",
@@ -482,7 +489,7 @@
       "price": 43.95,
       "score": 8.1,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 3,4 van 5",
       "oneliner": "Oordopjes met drie standen, van licht dempen tot bijna stil.",
       "specs": {
         "Type": "Oordoppen",
@@ -542,7 +549,8 @@
       "low_price": 43.95,
       "ph_ean": "5407009941993",
       "prev_price": 54.95,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 3.4
     },
     {
       "brand": "Ohropax",
@@ -550,7 +558,7 @@
       "price": 5.99,
       "score": 8.0,
       "label": null,
-      "reviews": "1.800+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Oordoppen van was die zich precies naar je oor vormen.",
       "specs": {
         "Type": "Oordoppen",
@@ -610,7 +618,8 @@
       "low_price": 5.89,
       "prev_price": 5.89,
       "prev_date": "2026-11-12",
-      "ph_ean": "4003626011104"
+      "ph_ean": "4003626011104",
+      "rating": 3.7
     },
     {
       "brand": "Flare Audio",
@@ -618,7 +627,7 @@
       "price": 29.5,
       "score": 7.8,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Klein inzetstuk dat scherpe geluiden zachter maakt zonder af te sluiten.",
       "specs": {
         "Type": "Inzetstuk",
@@ -678,7 +687,8 @@
       "low_price": 27.7,
       "prev_price": 27.7,
       "prev_date": "2026-10-31",
-      "ph_ean": "5060445271446"
+      "ph_ean": "5060445271446",
+      "rating": 3.9
     }
   ],
   "guide": [

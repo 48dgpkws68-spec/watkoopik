@@ -25,7 +25,7 @@
       "price": 519.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Schuine wandkap die automatisch meeschakelt met je AEG-kookplaat.",
       "specs": {
         "Type": "Schuine wandschouwkap",
@@ -82,7 +82,8 @@
       "low_price": 499.0,
       "prev_price": 549.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "7332543711963"
+      "ph_ean": "7332543711963",
+      "rating": 4.6
     },
     {
       "brand": "Bosch",
@@ -90,7 +91,7 @@
       "price": 159.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Degelijke onderbouwkap in rvs voor een eerlijke prijs.",
       "specs": {
         "Type": "Onderbouwkap",
@@ -147,7 +148,8 @@
       "low_price": 159.0,
       "prev_price": 159.18,
       "prev_date": "2026-11-03",
-      "ph_ean": "4242002968506"
+      "ph_ean": "4242002968506",
+      "rating": 4.5
     },
     {
       "brand": "Bosch",
@@ -155,7 +157,7 @@
       "price": 879.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Stille topkap met sensor die zelf de stand regelt.",
       "specs": {
         "Type": "Schuine wandschouwkap",
@@ -212,7 +214,8 @@
       "low_price": 879.0,
       "ph_ean": "4242005307401",
       "prev_price": 899.0,
-      "prev_date": "2026-11-13"
+      "prev_date": "2026-11-13",
+      "rating": 5.0
     },
     {
       "brand": "Siemens",
@@ -220,7 +223,7 @@
       "price": 910.0,
       "score": 9.0,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Eilandkap van 90 cm met 810 m³/u voor een kookeiland.",
       "specs": {
         "Type": "Eilandkap",
@@ -277,7 +280,8 @@
       "low_price": 910.0,
       "ph_ean": "4242003832127",
       "prev_price": 915.0,
-      "prev_date": "2026-11-13"
+      "prev_date": "2026-11-13",
+      "rating": 5.0
     },
     {
       "brand": "Siemens",
@@ -285,7 +289,7 @@
       "price": 299.95,
       "score": 8.7,
       "label": null,
-      "reviews": "90+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Schuine wandkap met zwart glas en stille motor.",
       "specs": {
         "Type": "Schuine wandschouwkap",
@@ -342,7 +346,8 @@
       "low_price": 299.95,
       "prev_price": 320.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "4242003936580"
+      "ph_ean": "4242003936580",
+      "rating": 4.1
     },
     {
       "brand": "AEG",
@@ -350,7 +355,7 @@
       "price": 419.0,
       "score": 8.6,
       "label": null,
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Vlakscherm die bijna onzichtbaar in je bovenkast verdwijnt.",
       "specs": {
         "Type": "Vlakscherm",
@@ -397,7 +402,7 @@
       "price": 197.0,
       "score": 8.4,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Platte wandschouwkap met 630 m³/u voor een lage prijs.",
       "specs": {
         "Type": "Platte wandschouwkap",
@@ -454,7 +459,8 @@
       "low_price": 197.0,
       "prev_price": 208.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8712876172515"
+      "ph_ean": "8712876172515",
+      "rating": 3.7
     },
     {
       "brand": "ETNA",
@@ -462,7 +468,7 @@
       "price": 140.0,
       "score": 8.3,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Zwarte onderbouwkap met energieklasse A en ledspot.",
       "specs": {
         "Type": "Onderbouwkap",
@@ -517,7 +523,8 @@
         "2026-11-17": 140.0
       },
       "low_price": 140.0,
-      "ph_ean": "8715393411259"
+      "ph_ean": "8715393411259",
+      "rating": 4.8
     },
     {
       "brand": "Bosch",
@@ -525,7 +532,7 @@
       "price": 149.0,
       "score": 8.1,
       "label": null,
-      "reviews": "70+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Inbouwunit die je volledig in een bovenkast wegwerkt.",
       "specs": {
         "Type": "Inbouwunit",
@@ -582,7 +589,8 @@
       "low_price": 149.0,
       "ph_ean": "4242005095476",
       "prev_price": 155.99,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.1
     },
     {
       "brand": "Inventum",
@@ -590,7 +598,7 @@
       "price": 89.0,
       "score": 7.9,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Budget-onderbouwkap in rvs met 326 m³/u.",
       "specs": {
         "Type": "Onderbouwkap",
@@ -647,7 +655,8 @@
       "low_price": 89.0,
       "prev_price": 104.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712876171242"
+      "ph_ean": "8712876171242",
+      "rating": 4.3
     }
   ],
   "guide": [

@@ -26,7 +26,7 @@
       "price": 1366.65,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "1.400+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "De allround OLED: perfect zwart, vier HDMI 2.1 en webOS.",
       "specs": {
         "Formaat": "65 inch",
@@ -92,7 +92,8 @@
       "low_price": 1366.63,
       "prev_price": 1366.63,
       "prev_date": "2026-11-14",
-      "ph_ean": "8806096363430"
+      "ph_ean": "8806096363430",
+      "rating": 5.0
     },
     {
       "brand": "LG",
@@ -100,7 +101,7 @@
       "price": 799.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "860+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Echte OLED met gamingfuncties voor net boven de 1.000 euro.",
       "specs": {
         "Formaat": "55 inch",
@@ -166,7 +167,8 @@
       "low_price": 799.0,
       "prev_price": 826.5,
       "prev_date": "2026-11-04",
-      "ph_ean": "8806096360576"
+      "ph_ean": "8806096360576",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -238,7 +240,8 @@
       "low_price": 1949.0,
       "prev_price": 1999.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8806099136116"
+      "ph_ean": "8806099136116",
+      "rating": 4.5
     },
     {
       "brand": "Samsung",
@@ -246,7 +249,7 @@
       "price": 1049.0,
       "score": 9.0,
       "label": null,
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Neo QLED met mini-led voor felle beelden in een lichte kamer.",
       "specs": {
         "Formaat": "65 inch",
@@ -318,7 +321,7 @@
       "price": 1999.0,
       "score": 9.0,
       "label": null,
-      "reviews": "390+ reviews",
+      "reviews": "",
       "oneliner": "Mini-led met Sony-beeldverwerking en de beste PS5-koppeling.",
       "specs": {
         "Formaat": "65 inch",
@@ -392,7 +395,7 @@
       "price": 1399.0,
       "score": 8.9,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "OLED met driezijdig Ambilight, de nieuwe opvolger van de OLED810.",
       "specs": {
         "Formaat": "55 inch",
@@ -479,7 +482,8 @@
       },
       "low_price": 579.0,
       "ph_ean": "8718863051689",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.5
     },
     {
       "brand": "TCL",
@@ -521,7 +525,8 @@
       },
       "low_price": 549.0,
       "ph_ean": "5901292525828",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -529,7 +534,7 @@
       "price": 479.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare 55 inch mini-led van Samsung uit 2026.",
       "specs": {
         "Formaat": "55 inch",
@@ -593,7 +598,8 @@
       "low_price": 479.0,
       "prev_price": 544.39,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806099134334"
+      "ph_ean": "8806099134334",
+      "rating": 4.5
     },
     {
       "brand": "Hisense",
@@ -647,7 +653,8 @@
       "synced": "2026-11-17",
       "prev_price": 529.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "6942351432779"
+      "ph_ean": "6942351432779",
+      "rating": 4.8
     }
   ],
   "guide": [

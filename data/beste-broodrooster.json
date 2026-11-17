@@ -24,7 +24,7 @@
       "price": 52.49,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "1.800+ reviews",
+      "reviews": "bol-score 3,5 van 5",
       "oneliner": "Gelijkmatig roosteren met ingebouwd opwarmrek en koele behuizing.",
       "specs": {
         "Sleuven": "2 korte",
@@ -88,7 +88,8 @@
       "low_price": 52.49,
       "prev_price": 53.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "4242005188659"
+      "ph_ean": "4242005188659",
+      "rating": 3.5
     },
     {
       "brand": "Sage",
@@ -96,7 +97,7 @@
       "price": 116.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Slimme broodrooster met A Bit More, Lift and Look en brede sleuven.",
       "specs": {
         "Sleuven": "2 extra brede",
@@ -160,7 +161,8 @@
       "low_price": 112.9,
       "prev_price": 119.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "9312432031042"
+      "ph_ean": "9312432031042",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -168,7 +170,7 @@
       "price": 29.99,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "4.900+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Betaalbare broodrooster met ingebouwd opwarmrek en acht standen.",
       "specs": {
         "Sleuven": "2 korte",
@@ -232,7 +234,8 @@
       "low_price": 28.99,
       "prev_price": 31.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8710103800361"
+      "ph_ean": "8710103800361",
+      "rating": 4.3
     },
     {
       "brand": "Smeg",
@@ -240,7 +243,7 @@
       "price": 139.0,
       "score": 8.7,
       "label": null,
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Retro designbroodrooster in jaren vijftig-stijl met brede sleuven.",
       "specs": {
         "Sleuven": "2 extra brede",
@@ -304,7 +307,8 @@
       "low_price": 122.66,
       "prev_price": 122.66,
       "prev_date": "2026-10-29",
-      "ph_ean": "8017709186920"
+      "ph_ean": "8017709186920",
+      "rating": 4.7
     },
     {
       "brand": "KitchenAid",
@@ -312,7 +316,7 @@
       "price": 94.95,
       "score": 8.6,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 1,0 van 5",
       "oneliner": "Stevige designrooster met brede sleuven en hoog vermogen.",
       "specs": {
         "Sleuven": "2 brede",
@@ -374,7 +378,8 @@
         "2026-11-17": 94.95
       },
       "low_price": 94.95,
-      "ph_ean": "5413184400453"
+      "ph_ean": "5413184400453",
+      "rating": 1.0
     },
     {
       "brand": "Braun",
@@ -382,7 +387,7 @@
       "price": 46.0,
       "score": 8.5,
       "label": null,
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 3,0 van 5",
       "oneliner": "Strak vormgegeven broodrooster met hoge lift en opwarmrek.",
       "specs": {
         "Sleuven": "2 korte",
@@ -444,7 +449,8 @@
         "2026-11-17": 46.0
       },
       "low_price": 46.0,
-      "ph_ean": "8021098760012"
+      "ph_ean": "8021098760012",
+      "rating": 3.0
     },
     {
       "brand": "De'Longhi",
@@ -452,7 +458,7 @@
       "price": 79.99,
       "score": 8.3,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Vintage broodrooster met chromen accenten en uitneembaar opwarmrek.",
       "specs": {
         "Sleuven": "2",
@@ -514,7 +520,8 @@
         "2026-11-17": 79.99
       },
       "low_price": 79.99,
-      "ph_ean": "8004399761155"
+      "ph_ean": "8004399761155",
+      "rating": 4.7
     },
     {
       "brand": "Russell Hobbs",
@@ -522,7 +529,7 @@
       "price": 49.6,
       "score": 8.2,
       "label": null,
-      "reviews": "2.100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Krachtige retrorooster met aftelindicator en snelle roostertijd.",
       "specs": {
         "Sleuven": "2 brede",
@@ -586,7 +593,8 @@
       "low_price": 49.0,
       "prev_price": 49.9,
       "prev_date": "2026-11-16",
-      "ph_ean": "4008496892518"
+      "ph_ean": "4008496892518",
+      "rating": 4.6
     },
     {
       "brand": "Tefal",
@@ -594,7 +602,7 @@
       "price": 41.95,
       "score": 8.0,
       "label": null,
-      "reviews": "4,7/5 op bol",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Snelle RVS-broodrooster met opwarmrek voor rond de 40 euro.",
       "specs": {
         "Sleuven": "2",
@@ -639,7 +647,8 @@
       "synced": "2026-11-17",
       "ph_ean": "3045387295240",
       "prev_price": 42.51,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Bosch",
@@ -647,7 +656,7 @@
       "price": 43.0,
       "score": 7.9,
       "label": null,
-      "reviews": "4,2/5 op bol",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Compacte Bosch-broodrooster met ontdooifunctie voor een kleine prijs.",
       "specs": {
         "Sleuven": "2",
@@ -711,7 +720,8 @@
       "low_price": 35.83,
       "prev_price": 39.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "4242005400454"
+      "ph_ean": "4242005400454",
+      "rating": 4.2
     }
   ],
   "guide": [

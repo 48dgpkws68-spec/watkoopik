@@ -62,7 +62,8 @@
       },
       "low_price": 199.0,
       "synced": "2026-11-17",
-      "ph_ean": "8720389039560"
+      "ph_ean": "8720389039560",
+      "rating": 4.7
     },
     {
       "brand": "Vibrix",
@@ -111,7 +112,8 @@
       "synced": "2026-11-17",
       "prev_price": 129.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "8721082170000"
+      "ph_ean": "8721082170000",
+      "rating": 4.6
     },
     {
       "brand": "Philips",
@@ -168,7 +170,8 @@
       },
       "low_price": 349.0,
       "synced": "2026-11-17",
-      "ph_ean": "8720389002069"
+      "ph_ean": "8720389002069",
+      "rating": 4.3
     },
     {
       "brand": "Coway",
@@ -176,7 +179,7 @@
       "price": 124.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Veel filtercapaciteit voor weinig geld met een rustige nachtstand.",
       "specs": {
         "CADR": "244 m³/u",
@@ -227,7 +230,8 @@
       },
       "low_price": 124.99,
       "synced": "2026-11-17",
-      "ph_ean": "8809825508829"
+      "ph_ean": "8809825508829",
+      "rating": 4.6
     },
     {
       "brand": "Philips",
@@ -235,7 +239,7 @@
       "price": 99.99,
       "score": 8.8,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Klein en stil met verrassend veel vermogen voor zijn formaat.",
       "specs": {
         "CADR": "250 m³/u",
@@ -288,7 +292,8 @@
       "synced": "2026-11-17",
       "prev_price": 120.63,
       "prev_date": "2026-11-05",
-      "ph_ean": "8720389039416"
+      "ph_ean": "8720389039416",
+      "rating": 4.2
     },
     {
       "brand": "Levoit",
@@ -330,7 +335,8 @@
       },
       "low_price": 269.0,
       "ph_ean": "0810043373685",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.3
     },
     {
       "brand": "Philips",
@@ -338,7 +344,7 @@
       "price": 63.99,
       "score": 8.6,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Betaalbare Philips met app en een stille nachtstand.",
       "specs": {
         "CADR": "ca. 170 m³/u",
@@ -391,7 +397,8 @@
       "synced": "2026-11-17",
       "prev_price": 80.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8720389025396"
+      "ph_ean": "8720389025396",
+      "rating": 4.4
     },
     {
       "brand": "Xiaomi",
@@ -399,7 +406,7 @@
       "price": 74.99,
       "score": 8.4,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Slanke slimme reiniger voor kleine slaapkamers tegen een lage prijs.",
       "specs": {
         "CADR": "230 m³/u",
@@ -452,7 +459,8 @@
       "synced": "2026-11-17",
       "prev_price": 95.79,
       "prev_date": "2026-11-05",
-      "ph_ean": "6934177775345"
+      "ph_ean": "6934177775345",
+      "rating": 5.0
     },
     {
       "brand": "Levoit",
@@ -460,7 +468,7 @@
       "price": 79.95,
       "score": 8.2,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Mini-luchtreiniger voor op het nachtkastje met zacht nachtlampje.",
       "specs": {
         "CADR": "ca. 60 m³/u",
@@ -513,7 +521,8 @@
       "synced": "2026-11-17",
       "prev_price": 89.95,
       "prev_date": "2026-11-02",
-      "ph_ean": "8721569480523"
+      "ph_ean": "8721569480523",
+      "rating": 4.6
     },
     {
       "brand": "Coway",
@@ -521,7 +530,7 @@
       "price": 79.99,
       "score": 8.0,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Goedkoopste A-merkreiniger in deze lijst met een stille slaapstand.",
       "specs": {
         "CADR": "120 m³/u",
@@ -572,7 +581,8 @@
       },
       "low_price": 79.99,
       "synced": "2026-11-17",
-      "ph_ean": "8809825509390"
+      "ph_ean": "8809825509390",
+      "rating": 4.6
     }
   ],
   "guide": [

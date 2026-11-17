@@ -78,7 +78,8 @@
       "low_price": 33.25,
       "prev_price": 39.95,
       "prev_date": "2026-11-10",
-      "ph_ean": "8721161723233"
+      "ph_ean": "8721161723233",
+      "rating": 4.9
     },
     {
       "brand": "Leifheit",
@@ -86,7 +87,7 @@
       "price": 27.29,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "21 meter waslijn uit een compacte cassette aan de muur.",
       "specs": {
         "Type": "Uittrekbare waslijn",
@@ -149,7 +150,8 @@
       "low_price": 27.29,
       "prev_price": 33.89,
       "prev_date": "2026-11-08",
-      "ph_ean": "4006501830401"
+      "ph_ean": "4006501830401",
+      "rating": 4.4
     },
     {
       "brand": "Foxydry",
@@ -157,7 +159,7 @@
       "price": 199.7,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "150+ reviews",
+      "reviews": "",
       "oneliner": "Designrek dat je met een hendel omlaag en omhoog laat zakken.",
       "specs": {
         "Type": "Wandrek met hendel",
@@ -226,7 +228,7 @@
       "price": 149.95,
       "score": 8.9,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Uitklapbare droogmolen voor aan de muur met 24 meter lijn.",
       "specs": {
         "Type": "Wanddroogmolen",
@@ -289,7 +291,8 @@
       "low_price": 122.0,
       "prev_price": 122.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8710755475924"
+      "ph_ean": "8710755475924",
+      "rating": 4.8
     },
     {
       "brand": "Leifheit",
@@ -297,7 +300,7 @@
       "price": 39.99,
       "score": 8.6,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Compact wandrek voor kleine was, handdoeken en badkamers.",
       "specs": {
         "Type": "Uitklapbaar wandrek",
@@ -359,7 +362,8 @@
       "low_price": 31.3,
       "prev_price": 36.29,
       "prev_date": "2026-11-07",
-      "ph_ean": "4006501832016"
+      "ph_ean": "4006501832016",
+      "rating": 4.4
     },
     {
       "brand": "KROMS",
@@ -367,7 +371,7 @@
       "price": 47.45,
       "score": 8.5,
       "label": null,
-      "reviews": "450+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Opklapbaar metalen wandrek met stangen en boormal.",
       "specs": {
         "Type": "Opklapbaar wandrek",
@@ -417,7 +421,8 @@
       "synced": "2026-11-17",
       "prev_price": 49.95,
       "prev_date": "2026-11-09",
-      "ph_ean": "8720865279053"
+      "ph_ean": "8720865279053",
+      "rating": 4.4
     },
     {
       "brand": "PLAY IT",
@@ -425,7 +430,7 @@
       "price": 42.74,
       "score": 8.3,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Breed zwart wandrek met 8,4 meter en handdoekhaakjes.",
       "specs": {
         "Type": "Opklapbaar wandrek",
@@ -487,7 +492,8 @@
       "low_price": 42.74,
       "ph_ean": "8720964510507",
       "prev_price": 44.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.1
     },
     {
       "brand": "Brabantia",
@@ -495,7 +501,7 @@
       "price": 27.95,
       "score": 8.2,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 3,6 van 5",
       "oneliner": "Vijf uittrekbare lijnen van 4,4 meter in een witte cassette.",
       "specs": {
         "Type": "Uittrekbare waslijn",
@@ -557,7 +563,8 @@
       "low_price": 27.49,
       "prev_price": 28.39,
       "prev_date": "2026-10-26",
-      "ph_ean": "8710755385728"
+      "ph_ean": "8710755385728",
+      "rating": 3.6
     },
     {
       "brand": "Leifheit",
@@ -565,7 +572,7 @@
       "price": 21.39,
       "score": 8.0,
       "label": null,
-      "reviews": "350+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Drie uittrekbare lijnen van 5 meter voor kleine ruimtes.",
       "specs": {
         "Type": "Uittrekbare waslijn",
@@ -627,7 +634,8 @@
       "low_price": 21.09,
       "prev_price": 27.49,
       "prev_date": "2026-11-08",
-      "ph_ean": "4006501831071"
+      "ph_ean": "4006501831071",
+      "rating": 3.7
     },
     {
       "brand": "Home4u",
@@ -635,7 +643,7 @@
       "price": 28.45,
       "score": 7.9,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Betaalbaar opklapbaar wandrek met stangen en zes meter.",
       "specs": {
         "Type": "Opklapbaar wandrek",
@@ -697,7 +705,8 @@
       "low_price": 28.45,
       "prev_price": 29.95,
       "prev_date": "2026-11-09",
-      "ph_ean": "8720938507113"
+      "ph_ean": "8720938507113",
+      "rating": 4.3
     }
   ],
   "guide": [

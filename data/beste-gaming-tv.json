@@ -28,7 +28,7 @@
       "price": 1366.65,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "1.400+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Vier HDMI 2.1-poorten, 144 Hz en perfect zwart voor elke console.",
       "specs": {
         "Formaat": "65 inch",
@@ -67,7 +67,8 @@
       "synced": "2026-11-17",
       "prev_price": 1366.63,
       "prev_date": "2026-11-14",
-      "ph_ean": "8806096363430"
+      "ph_ean": "8806096363430",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -75,7 +76,7 @@
       "price": 1949.0,
       "score": 9.3,
       "label": "Beste premium",
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "QD-OLED van 165 Hz met mat scherm voor gamen bij daglicht.",
       "specs": {
         "Formaat": "65 inch",
@@ -114,7 +115,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8806099136116",
       "prev_price": 1999.0,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.5
     },
     {
       "brand": "Samsung",
@@ -122,7 +124,7 @@
       "price": 1249.0,
       "score": 9.0,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "",
       "oneliner": "Nieuwe OLED van 2026 met 144 Hz en vier snelle poorten.",
       "specs": {
         "Formaat": "55 inch",
@@ -169,7 +171,7 @@
       "price": 799.0,
       "score": 9.0,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Goedkoopste OLED met 120 Hz en VRR voor PS5 en Xbox.",
       "specs": {
         "Formaat": "55 inch",
@@ -206,7 +208,8 @@
       },
       "low_price": 799.0,
       "synced": "2026-11-17",
-      "ph_ean": "8806096360576"
+      "ph_ean": "8806096360576",
+      "rating": 5.0
     },
     {
       "brand": "TCL",
@@ -214,7 +217,7 @@
       "price": 999.0,
       "score": 8.9,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Felle Mini LED van 144 Hz zonder zorgen over inbranden.",
       "specs": {
         "Formaat": "65 inch",
@@ -295,7 +298,8 @@
       },
       "low_price": 749.0,
       "synced": "2026-11-17",
-      "ph_ean": "8806096361948"
+      "ph_ean": "8806096361948",
+      "rating": 4.8
     },
     {
       "brand": "Hisense",
@@ -303,7 +307,7 @@
       "price": 499.0,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "144 Hz en VRR voor nog geen 500 euro.",
       "specs": {
         "Formaat": "55 inch",
@@ -340,7 +344,8 @@
       },
       "low_price": 499.0,
       "synced": "2026-11-17",
-      "ph_ean": "6942351432779"
+      "ph_ean": "6942351432779",
+      "rating": 4.8
     },
     {
       "brand": "Hisense",
@@ -348,7 +353,7 @@
       "price": 699.0,
       "score": 8.6,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Mini LED met 144 Hz en stevige HDR in 55 inch.",
       "specs": {
         "Formaat": "55 inch",
@@ -393,7 +398,7 @@
       "price": 549.0,
       "score": 8.5,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Voordelige Mini LED met 144 Hz en Google TV.",
       "specs": {
         "Formaat": "55 inch",
@@ -430,7 +435,8 @@
       },
       "low_price": 549.0,
       "synced": "2026-11-17",
-      "ph_ean": "5901292531072"
+      "ph_ean": "5901292531072",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -438,7 +444,7 @@
       "price": 699.0,
       "score": 8.2,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Mini LED met Ambilight dat meekleurt met je game.",
       "specs": {
         "Formaat": "55 inch",
@@ -475,7 +481,8 @@
       },
       "low_price": 699.0,
       "synced": "2026-11-17",
-      "ph_ean": "8718863048658"
+      "ph_ean": "8718863048658",
+      "rating": 4.1
     }
   ],
   "guide": [

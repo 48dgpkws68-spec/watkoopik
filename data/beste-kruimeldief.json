@@ -24,7 +24,7 @@
       "price": 87.56,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "1.900+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Krachtige 18V-kruimeldief met groot reservoir en draaibare zuigmond.",
       "specs": {
         "Accu": "18 V",
@@ -88,7 +88,8 @@
       "low_price": 87.1,
       "prev_price": 87.7,
       "prev_date": "2026-11-11",
-      "ph_ean": "5035048712795"
+      "ph_ean": "5035048712795",
+      "rating": 4.3
     },
     {
       "brand": "Shark",
@@ -96,7 +97,7 @@
       "price": 99.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "Gem. 4,4 sterren op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Lichte kruimelzuiger met boost-stand, HEPA-filter en oplaadstation.",
       "specs": {
         "Accu": "Geïntegreerd",
@@ -138,7 +139,8 @@
       "synced": "2026-11-17",
       "prev_price": 119.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "0622356245876"
+      "ph_ean": "0622356245876",
+      "rating": 4.4
     },
     {
       "brand": "Black+Decker",
@@ -146,7 +148,7 @@
       "price": 83.0,
       "score": 8.8,
       "label": null,
-      "reviews": "2.400+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Kruimeldief met kantelbare neus voor onder banken en tussen stoelen.",
       "specs": {
         "Accu": "18 V",
@@ -210,7 +212,8 @@
       "low_price": 75.0,
       "prev_price": 87.18,
       "prev_date": "2026-11-13",
-      "ph_ean": "5035048458624"
+      "ph_ean": "5035048458624",
+      "rating": 3.9
     },
     {
       "brand": "Makita",
@@ -218,7 +221,7 @@
       "price": 65.4,
       "score": 8.7,
       "label": null,
-      "reviews": "1.700+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Robuuste 18V-handstofzuiger voor wie al Makita-accu's in huis heeft.",
       "specs": {
         "Accu": "18 V LXT (los)",
@@ -282,7 +285,8 @@
       "low_price": 64.09,
       "prev_price": 66.91,
       "prev_date": "2026-11-11",
-      "ph_ean": "0088381658539"
+      "ph_ean": "0088381658539",
+      "rating": 4.6
     },
     {
       "brand": "Black+Decker",
@@ -290,7 +294,7 @@
       "price": 73.02,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "2.800+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Compacte kruimeldief voor dagelijkse klusjes tegen een vriendelijke prijs.",
       "specs": {
         "Accu": "10,8 V",
@@ -354,7 +358,8 @@
       "low_price": 73.02,
       "prev_price": 76.59,
       "prev_date": "2026-11-04",
-      "ph_ean": "5035048740194"
+      "ph_ean": "5035048740194",
+      "rating": 4.8
     },
     {
       "brand": "Ryobi",
@@ -362,7 +367,7 @@
       "price": 53.71,
       "score": 8.3,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "",
       "oneliner": "Handstofzuiger op het ONE+-accuplatform van Ryobi, geleverd zonder accu.",
       "specs": {
         "Accu": "18 V ONE+ (los)",
@@ -434,7 +439,7 @@
       "price": 46.76,
       "score": 8.2,
       "label": null,
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Ultralichte mini-kruimeldief voor bureau, auto en toetsenbord.",
       "specs": {
         "Accu": "Geïntegreerd",
@@ -475,7 +480,8 @@
       "synced": "2026-11-17",
       "ph_ean": "6934177745959",
       "prev_price": 49.99,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.7
     },
     {
       "brand": "Bosch",
@@ -483,7 +489,7 @@
       "price": 64.99,
       "score": 8.1,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Lichte en handzame Bosch-kruimeldief met vaste accu en zakloos reservoir.",
       "specs": {
         "Accu": "16 V max (vast)",
@@ -547,7 +553,8 @@
       "low_price": 64.99,
       "ph_ean": "4242005190874",
       "prev_price": 74.95,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.5
     },
     {
       "brand": "Black+Decker",
@@ -555,7 +562,7 @@
       "price": 42.99,
       "score": 8.0,
       "label": null,
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Kruimeldief die ook gemorste vloeistoffen opzuigt.",
       "specs": {
         "Accu": "7,2 V",
@@ -619,7 +626,8 @@
       "low_price": 42.88,
       "prev_price": 43.51,
       "prev_date": "2026-11-14",
-      "ph_ean": "5035048698181"
+      "ph_ean": "5035048698181",
+      "rating": 4.7
     },
     {
       "brand": "Einhell",
@@ -627,7 +635,7 @@
       "price": 65.88,
       "score": 7.9,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Goedkope accukruimeldief op het Power X-Change-platform.",
       "specs": {
         "Accu": "18 V Power X-Change (los)",
@@ -691,7 +699,8 @@
       "low_price": 62.99,
       "prev_price": 74.99,
       "prev_date": "2026-11-07",
-      "ph_ean": "4006825640274"
+      "ph_ean": "4006825640274",
+      "rating": 4.7
     }
   ],
   "guide": [

@@ -63,7 +63,8 @@
       "ph_ean": "8717249196235",
       "synced": "2026-11-17",
       "prev_price": 34.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Days of Wonder",
@@ -106,7 +107,8 @@
       "ph_ean": "0824968717523",
       "synced": "2026-11-17",
       "prev_price": 33.36,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "999 Games",
@@ -149,7 +151,8 @@
       "ph_ean": "8719214420659",
       "synced": "2026-11-17",
       "prev_price": 28.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "Next Move Games",
@@ -192,7 +195,8 @@
       "ph_ean": "5413407050038",
       "synced": "2026-11-17",
       "prev_price": 35.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "999 Games",
@@ -236,7 +240,8 @@
       "ph_ean": "8719214426132",
       "synced": "2026-11-17",
       "prev_price": 42.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Goliath",
@@ -279,7 +284,8 @@
       "ph_ean": "8711808004009",
       "synced": "2026-11-17",
       "prev_price": 27.89,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Z-Man Games",
@@ -322,7 +328,8 @@
       "ph_ean": "8719817218202",
       "synced": "2026-11-17",
       "prev_price": 36.67,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Space Cowboys",
@@ -365,7 +372,8 @@
       "ph_ean": "3558380022251",
       "synced": "2026-11-17",
       "prev_price": 30.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "999 Games",
@@ -406,7 +414,8 @@
       },
       "low_price": 24.99,
       "ph_ean": "8717249199625",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.7
     },
     {
       "brand": "Jumbo",
@@ -450,7 +459,8 @@
       "ph_ean": "8710126199572",
       "synced": "2026-11-17",
       "prev_price": 25.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     }
   ],
   "guide": [

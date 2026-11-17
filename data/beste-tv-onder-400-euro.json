@@ -67,7 +67,8 @@
       },
       "low_price": 399.0,
       "ph_ean": "6942351431352",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "Hisense",
@@ -106,7 +107,8 @@
       },
       "low_price": 339.0,
       "ph_ean": "6942351431161",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "LG",
@@ -145,7 +147,8 @@
       },
       "low_price": 349.0,
       "ph_ean": "8806096419038",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "TCL",
@@ -184,7 +187,8 @@
       },
       "low_price": 399.0,
       "ph_ean": "5901292531942",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.4
     },
     {
       "brand": "Samsung",
@@ -223,7 +227,8 @@
       },
       "low_price": 399.0,
       "ph_ean": "8806099133863",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.4
     },
     {
       "brand": "Philips",
@@ -231,7 +236,7 @@
       "price": 378.0,
       "score": 8.4,
       "label": null,
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "50 inch 4K met Ambilight aan drie zijden voor onder 400 euro.",
       "specs": {
         "Formaat": "50 inch",
@@ -301,7 +306,8 @@
       },
       "low_price": 355.0,
       "ph_ean": "8806099138974",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.4
     },
     {
       "brand": "Xiaomi",
@@ -340,7 +346,8 @@
       },
       "low_price": 289.0,
       "ph_ean": "6941948705630",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.4
     },
     {
       "brand": "Hisense",
@@ -379,7 +386,8 @@
       },
       "low_price": 309.0,
       "ph_ean": "6942351430973",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "TCL",
@@ -417,7 +425,8 @@
       },
       "low_price": 299.0,
       "ph_ean": "5901292528669",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.2
     }
   ],
   "guide": [

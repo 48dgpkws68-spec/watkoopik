@@ -24,7 +24,7 @@
       "price": 364.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Scherp 4K-beeld met 120 Hz en USB-C voor een nette werkplek.",
       "specs": {
         "Formaat": "27 inch",
@@ -88,7 +88,8 @@
       "low_price": 336.9,
       "prev_price": 339.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "5397184962367"
+      "ph_ean": "5397184962367",
+      "rating": 5.0
     },
     {
       "brand": "LG",
@@ -96,7 +97,7 @@
       "price": 209.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "QHD-gamingmonitor met 240 Hz voor rond de 200 euro.",
       "specs": {
         "Formaat": "27 inch",
@@ -160,7 +161,8 @@
       "low_price": 198.99,
       "prev_price": 199.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806084255044"
+      "ph_ean": "8806084255044",
+      "rating": 4.6
     },
     {
       "brand": "Dell",
@@ -212,7 +214,8 @@
       },
       "low_price": 659.0,
       "synced": "2026-11-17",
-      "ph_ean": "5397184923405"
+      "ph_ean": "5397184923405",
+      "rating": 4.6
     },
     {
       "brand": "Samsung",
@@ -220,7 +223,7 @@
       "price": 317.02,
       "score": 8.9,
       "label": null,
-      "reviews": "450+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "4K gamen met 180 Hz voor minder dan 300 euro.",
       "specs": {
         "Formaat": "27 inch",
@@ -284,7 +287,8 @@
       "low_price": 299.0,
       "prev_price": 305.99,
       "prev_date": "2026-11-10",
-      "ph_ean": "8806097672692"
+      "ph_ean": "8806097672692",
+      "rating": 4.7
     },
     {
       "brand": "Dell",
@@ -292,7 +296,7 @@
       "price": 344.0,
       "score": 8.8,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Kantoormonitor met IPS Black-contrast en 120 Hz.",
       "specs": {
         "Formaat": "27 inch",
@@ -356,7 +360,8 @@
       "low_price": 328.95,
       "prev_price": 345.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "5397184821442"
+      "ph_ean": "5397184821442",
+      "rating": 4.6
     },
     {
       "brand": "LG",
@@ -364,7 +369,7 @@
       "price": 249.0,
       "score": 8.6,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "4K met USB-C 90 W en HDR400 voor een scherpe prijs.",
       "specs": {
         "Formaat": "27 inch",
@@ -428,7 +433,8 @@
       "low_price": 249.0,
       "prev_price": 279.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "8806096296233"
+      "ph_ean": "8806096296233",
+      "rating": 4.5
     },
     {
       "brand": "Dell",
@@ -436,7 +442,7 @@
       "price": 295.0,
       "score": 8.5,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "QHD-monitor met USB-C-hub, netwerkpoort en 90 W laden.",
       "specs": {
         "Formaat": "27 inch",
@@ -500,7 +506,8 @@
       "low_price": 292.0,
       "prev_price": 296.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "5397184962480"
+      "ph_ean": "5397184962480",
+      "rating": 4.6
     },
     {
       "brand": "AOC",
@@ -554,7 +561,8 @@
       "synced": "2026-11-17",
       "prev_price": 191.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "4038986182980"
+      "ph_ean": "4038986182980",
+      "rating": 4.6
     },
     {
       "brand": "Philips",
@@ -610,7 +618,8 @@
       "synced": "2026-11-17",
       "prev_price": 119.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "8721038005455"
+      "ph_ean": "8721038005455",
+      "rating": 4.7
     },
     {
       "brand": "Samsung",
@@ -618,7 +627,7 @@
       "price": 233.0,
       "score": 8.1,
       "label": null,
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Gebogen ultrawide van 34 inch voor gamen en multitasken.",
       "specs": {
         "Formaat": "34 inch, gebogen",
@@ -682,7 +691,8 @@
       "low_price": 229.0,
       "prev_price": 235.79,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806094796315"
+      "ph_ean": "8806094796315",
+      "rating": 4.7
     }
   ],
   "guide": [

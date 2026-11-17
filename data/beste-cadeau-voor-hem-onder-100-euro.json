@@ -28,7 +28,7 @@
       "price": 79.99,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Draadloze oordopjes met noise cancelling en lange accuduur.",
       "specs": {
         "Type": "Draadloze oordopjes",
@@ -74,7 +74,8 @@
       },
       "low_price": 79.99,
       "synced": "2026-11-17",
-      "ph_ean": "1200130016509"
+      "ph_ean": "1200130016509",
+      "rating": 4.2
     },
     {
       "brand": "Braun",
@@ -82,7 +83,7 @@
       "price": 80.9,
       "score": 9.0,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Waterdicht scheerapparaat met flexibele mesjes en turbostand.",
       "specs": {
         "Type": "Elektrisch scheerapparaat",
@@ -113,7 +114,8 @@
       },
       "low_price": 80.9,
       "ph_ean": "8700216646130",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.4
     },
     {
       "brand": "Philips",
@@ -121,7 +123,7 @@
       "price": 65.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Trimmen, scheren en stylen voor gezicht en lichaam in één.",
       "specs": {
         "Type": "Baardtrimmer en scheerder",
@@ -169,7 +171,8 @@
       "synced": "2026-11-17",
       "prev_price": 54.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720689027342"
+      "ph_ean": "8720689027342",
+      "rating": 4.3
     },
     {
       "brand": "Xiaomi",
@@ -177,7 +180,7 @@
       "price": 73.63,
       "score": 8.8,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Fitnesstracker met groot AMOLED-scherm en eigen gps.",
       "specs": {
         "Type": "Fitnesstracker",
@@ -225,7 +228,8 @@
       "synced": "2026-11-17",
       "prev_price": 75.14,
       "prev_date": "2026-11-16",
-      "ph_ean": "6932554487522"
+      "ph_ean": "6932554487522",
+      "rating": 5.0
     },
     {
       "brand": "Leatherman",
@@ -233,7 +237,7 @@
       "price": 99.0,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Licht multitool met tang en mes voor in de broekzak.",
       "specs": {
         "Type": "Multitool",
@@ -279,7 +283,8 @@
       },
       "low_price": 99.0,
       "synced": "2026-11-17",
-      "ph_ean": "0037447202957"
+      "ph_ean": "0037447202957",
+      "rating": 4.4
     },
     {
       "brand": "LEGO",
@@ -287,7 +292,7 @@
       "price": 59.99,
       "score": 8.7,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Bouwset van de Ferrari van Michael Schumacher voor op de kast.",
       "specs": {
         "Type": "Bouwset",
@@ -335,7 +340,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702018063583",
       "prev_price": 64.98,
-      "prev_date": "2026-11-13"
+      "prev_date": "2026-11-13",
+      "rating": 4.9
     },
     {
       "brand": "Xbox",
@@ -343,7 +349,7 @@
       "price": 64.99,
       "score": 8.6,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Officiële controller voor Xbox, pc en telefoon.",
       "specs": {
         "Type": "Gamecontroller",
@@ -391,7 +397,8 @@
       "synced": "2026-11-17",
       "prev_price": 63.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "0889842611595"
+      "ph_ean": "0889842611595",
+      "rating": 4.1
     },
     {
       "brand": "Paco Rabanne",
@@ -399,7 +406,7 @@
       "price": 72.19,
       "score": 8.5,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Bekende zoete herengeur in een flacon als goudstaaf.",
       "specs": {
         "Type": "Parfum",
@@ -447,7 +454,8 @@
       "synced": "2026-11-17",
       "prev_price": 74.24,
       "prev_date": "2026-11-14",
-      "ph_ean": "3349668678099"
+      "ph_ean": "3349668678099",
+      "rating": 4.6
     },
     {
       "brand": "Weber",
@@ -455,7 +463,7 @@
       "price": 68.99,
       "score": 8.4,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Compacte houtskoolbarbecue van Weber voor balkon en camping.",
       "specs": {
         "Type": "Barbecue",
@@ -503,7 +511,8 @@
       "synced": "2026-11-17",
       "prev_price": 69.9,
       "prev_date": "2026-11-13",
-      "ph_ean": "0077924003134"
+      "ph_ean": "0077924003134",
+      "rating": 4.4
     },
     {
       "brand": "Beurer",
@@ -511,7 +520,7 @@
       "price": 64.99,
       "score": 8.3,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Massagepistool met vier opzetstukken voor na het sporten.",
       "specs": {
         "Type": "Massagepistool",
@@ -559,7 +568,8 @@
       "synced": "2026-11-17",
       "prev_price": 59.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "4211125650032"
+      "ph_ean": "4211125650032",
+      "rating": 4.4
     }
   ],
   "guide": [

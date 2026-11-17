@@ -24,7 +24,7 @@
       "price": 139.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "1.600+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Twee camera's, lokale opslag en geen abonnement nodig.",
       "specs": {
         "Resolutie": "2K + 1080p (dubbel)",
@@ -88,7 +88,8 @@
       "low_price": 139.0,
       "prev_price": 143.33,
       "prev_date": "2026-11-14",
-      "ph_ean": "0194644151942"
+      "ph_ean": "0194644151942",
+      "rating": 4.0
     },
     {
       "brand": "Tapo",
@@ -96,7 +97,7 @@
       "price": 58.4,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.200+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Complete videodeurbel met gong en microSD-opslag voor onder 80 euro.",
       "specs": {
         "Resolutie": "2K (3 MP)",
@@ -160,7 +161,8 @@
       "low_price": 58.4,
       "prev_price": 59.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "4897098688069"
+      "ph_ean": "4897098688069",
+      "rating": 4.1
     },
     {
       "brand": "Ring",
@@ -168,7 +170,7 @@
       "price": 149.99,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Scherp 4K-beeld en 3D-bewegingsdetectie van de bekendste deurbelmaker.",
       "specs": {
         "Resolutie": "4K",
@@ -232,7 +234,8 @@
       "low_price": 149.99,
       "prev_price": 224.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "0840414628397"
+      "ph_ean": "0840414628397",
+      "rating": 4.7
     },
     {
       "brand": "Ring",
@@ -240,7 +243,7 @@
       "price": 96.7,
       "score": 8.8,
       "label": null,
-      "reviews": "1.900+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Eenvoudig te monteren Ring op accu, gong inbegrepen.",
       "specs": {
         "Resolutie": "2K",
@@ -304,7 +307,8 @@
       "low_price": 59.99,
       "prev_price": 97.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "0840414621060"
+      "ph_ean": "0840414621060",
+      "rating": 4.5
     },
     {
       "label": null,
@@ -360,7 +364,8 @@
       "synced": "2026-11-17",
       "prev_price": 99.99,
       "prev_date": "2026-11-09",
-      "ph_ean": "6975253983315"
+      "ph_ean": "6975253983315",
+      "rating": 4.1
     },
     {
       "brand": "Reolink",
@@ -368,7 +373,7 @@
       "price": 101.99,
       "score": 8.6,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Bedrade deurbel via netwerkkabel, stabiel en zonder abonnement.",
       "specs": {
         "Resolutie": "2K+ (5 MP)",
@@ -422,7 +427,8 @@
       "synced": "2026-11-17",
       "prev_price": 119.99,
       "prev_date": "2026-11-09",
-      "ph_ean": "6976930226534"
+      "ph_ean": "6976930226534",
+      "rating": 4.9
     },
     {
       "brand": "EZVIZ",
@@ -430,7 +436,7 @@
       "price": 109.0,
       "score": 8.5,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Videodeurbel met binnenscherm, zodat je ook zonder telefoon ziet wie er is.",
       "specs": {
         "Resolutie": "3K+ (6 MP, dubbele lens)",
@@ -494,7 +500,8 @@
       "low_price": 109.0,
       "prev_price": 112.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "6941545643359"
+      "ph_ean": "6941545643359",
+      "rating": 4.7
     },
     {
       "brand": "eufy",
@@ -502,7 +509,7 @@
       "price": 107.9,
       "score": 8.4,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Snel verwisselbare accu en lokale opslag in de gong.",
       "specs": {
         "Resolutie": "2K",
@@ -566,7 +573,8 @@
       "low_price": 98.4,
       "prev_price": 109.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719925783548"
+      "ph_ean": "8719925783548",
+      "rating": 4.2
     },
     {
       "brand": "Arlo",
@@ -614,7 +622,8 @@
       },
       "low_price": 94.99,
       "synced": "2026-11-17",
-      "ph_ean": "0193108146753"
+      "ph_ean": "0193108146753",
+      "rating": 3.7
     },
     {
       "brand": "Aqara",
@@ -622,7 +631,7 @@
       "price": 80.74,
       "score": 8.0,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Bedrade 2K-deurbel met Apple Home- en Matter-ondersteuning.",
       "specs": {
         "Resolutie": "2K",
@@ -686,7 +695,8 @@
       "low_price": 80.74,
       "prev_price": 89.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "6978350350639"
+      "ph_ean": "6978350350639",
+      "rating": 4.0
     }
   ],
   "guide": [

@@ -25,7 +25,7 @@
       "price": 481.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "3.600+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Het icoon onder de keukenmachines, gebouwd voor decennia.",
       "specs": {
         "Type": "Planetaire mixer",
@@ -91,7 +91,8 @@
       "low_price": 458.47,
       "prev_price": 458.47,
       "prev_date": "2026-11-13",
-      "ph_ean": "5413184200466"
+      "ph_ean": "5413184200466",
+      "rating": 4.9
     },
     {
       "brand": "Bosch",
@@ -99,7 +100,7 @@
       "price": 221.3,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Sterke 1.000 watt keukenmachine met rvs kom en complete set hulpstukken.",
       "specs": {
         "Type": "Planetaire mixer",
@@ -163,7 +164,8 @@
       "low_price": 221.3,
       "prev_price": 232.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "4242002879642"
+      "ph_ean": "4242002879642",
+      "rating": 4.2
     },
     {
       "brand": "Kenwood",
@@ -171,7 +173,7 @@
       "price": 538.82,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "640+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Ingebouwde weegschaal en verwarmde kom voor professionele patisserie.",
       "specs": {
         "Type": "Planetaire mixer",
@@ -235,7 +237,8 @@
       "low_price": 519.0,
       "prev_price": 519.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "5011423206097"
+      "ph_ean": "5011423206097",
+      "rating": 5.0
     },
     {
       "brand": "Kenwood",
@@ -243,7 +246,7 @@
       "price": 249.95,
       "score": 8.7,
       "label": null,
-      "reviews": "1.400+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Krachtige planetaire mixer met retro-look en een kom van 5 liter.",
       "specs": {
         "Type": "Planetaire mixer",
@@ -307,7 +310,8 @@
       "low_price": 239.95,
       "prev_price": 259.95,
       "prev_date": "2026-11-03",
-      "ph_ean": "5011423190181"
+      "ph_ean": "5011423190181",
+      "rating": 4.6
     },
     {
       "brand": "Magimix",
@@ -315,7 +319,7 @@
       "price": 549.0,
       "score": 9.0,
       "label": null,
-      "reviews": "920+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "De beste foodprocessor voor snijden, raspen en hakken, met 30 jaar garantie.",
       "specs": {
         "Type": "Foodprocessor",
@@ -379,7 +383,8 @@
         "2026-11-17": 549.0
       },
       "low_price": 549.0,
-      "ph_ean": "3519280016757"
+      "ph_ean": "3519280016757",
+      "rating": 4.8
     },
     {
       "brand": "Bosch",
@@ -387,7 +392,7 @@
       "price": 168.0,
       "score": 8.5,
       "label": null,
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Veelzijdige foodprocessor met 3,9 liter kom en blender voor een middenklasseprijs.",
       "specs": {
         "Type": "Foodprocessor",
@@ -453,7 +458,8 @@
       "low_price": 144.95,
       "prev_price": 168.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "4242005109340"
+      "ph_ean": "4242005109340",
+      "rating": 4.0
     },
     {
       "brand": "Smeg",
@@ -461,7 +467,7 @@
       "price": 410.01,
       "score": 8.6,
       "label": null,
-      "reviews": "580+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Italiaans design uit de jaren vijftig met een kom van 4,8 liter.",
       "specs": {
         "Type": "Planetaire mixer",
@@ -525,7 +531,8 @@
       "low_price": 410.01,
       "prev_price": 422.52,
       "prev_date": "2026-11-16",
-      "ph_ean": "8017709277697"
+      "ph_ean": "8017709277697",
+      "rating": 4.2
     },
     {
       "brand": "Kenwood",
@@ -533,7 +540,7 @@
       "price": 163.99,
       "score": 8.3,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "",
       "oneliner": "Compacte planetaire mixer met blender, foodprocessor en citruspers in de doos.",
       "specs": {
         "Type": "Planetaire mixer",
@@ -605,7 +612,7 @@
       "price": 314.3,
       "score": 8.6,
       "label": null,
-      "reviews": "2.200+ reviews",
+      "reviews": "",
       "oneliner": "De instap-KitchenAid met dezelfde motor en bouwkwaliteit, in wit.",
       "specs": {
         "Type": "Planetaire mixer",
@@ -679,7 +686,7 @@
       "price": 96.0,
       "score": 7.9,
       "label": null,
-      "reviews": "1.900+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Betaalbare compacte foodprocessor voor snijden, raspen en hakken.",
       "specs": {
         "Type": "Foodprocessor",
@@ -744,7 +751,8 @@
       "low_price": 96.0,
       "prev_price": 109.0,
       "prev_date": "2026-10-20",
-      "ph_ean": "8710103904939"
+      "ph_ean": "8710103904939",
+      "rating": 4.4
     }
   ],
   "guide": [

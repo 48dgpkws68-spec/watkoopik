@@ -25,7 +25,7 @@
       "price": 489.99,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Platte allrounder met dweilarm en heetwaterstation.",
       "specs": {
         "Zuigkracht": "25.000 Pa",
@@ -86,7 +86,8 @@
       "low_price": 489.99,
       "prev_price": 594.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "6936905906601"
+      "ph_ean": "6936905906601",
+      "rating": 4.5
     },
     {
       "brand": "Dreame",
@@ -94,7 +95,7 @@
       "price": 569.99,
       "score": 9.2,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Sterke dweilrobot met uitschuivende pad en hoge waardering.",
       "specs": {
         "Zuigkracht": "19.000 Pa",
@@ -136,7 +137,8 @@
       "synced": "2026-11-17",
       "ph_ean": "6977328066190",
       "prev_price": 499.39,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.7
     },
     {
       "brand": "Dreame",
@@ -144,7 +146,7 @@
       "price": 959.99,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Wisselt zelf van dweil per ruimte, met 30.000 Pa.",
       "specs": {
         "Zuigkracht": "30.000 Pa",
@@ -205,7 +207,8 @@
       "low_price": 729.0,
       "prev_price": 969.0,
       "prev_date": "2026-11-02",
-      "ph_ean": "6978515252549"
+      "ph_ean": "6978515252549",
+      "rating": 4.3
     },
     {
       "brand": "Roborock",
@@ -213,7 +216,7 @@
       "price": 549.0,
       "score": 9.0,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Dweilt met warm water en spoelt op 100 °C.",
       "specs": {
         "Zuigkracht": "25.000 Pa",
@@ -275,7 +278,8 @@
       "low_price": 549.0,
       "prev_price": 719.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "6936905904522"
+      "ph_ean": "6936905904522",
+      "rating": 4.5
     },
     {
       "brand": "Ecovacs",
@@ -283,7 +287,7 @@
       "price": 399.0,
       "score": 8.9,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Ultradunne robot met sterke randreiniging voor een scherpe prijs.",
       "specs": {
         "Zuigkracht": "25.000 Pa",
@@ -344,7 +348,8 @@
       "low_price": 399.0,
       "prev_price": 409.0,
       "prev_date": "2026-11-06",
-      "ph_ean": "0783296427743"
+      "ph_ean": "0783296427743",
+      "rating": 5.0
     },
     {
       "brand": "Dreame",
@@ -352,7 +357,7 @@
       "price": 299.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Compleet station met zelfreinigende dweilen voor ruim 300 euro.",
       "specs": {
         "Zuigkracht": "10.000 Pa",
@@ -413,7 +418,8 @@
       "low_price": 299.0,
       "prev_price": 399.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "6976233677033"
+      "ph_ean": "6976233677033",
+      "rating": 4.6
     },
     {
       "brand": "Ecovacs",
@@ -421,7 +427,7 @@
       "price": 399.0,
       "score": 8.6,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Rollerdweil die zichzelf tijdens het dweilen schoonhoudt.",
       "specs": {
         "Zuigkracht": "18.000 Pa",
@@ -482,7 +488,8 @@
       "low_price": 366.99,
       "prev_price": 402.8,
       "prev_date": "2026-11-16",
-      "ph_ean": "6970135036271"
+      "ph_ean": "6970135036271",
+      "rating": 4.7
     },
     {
       "brand": "eufy",
@@ -490,7 +497,7 @@
       "price": 379.0,
       "score": 8.4,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Bewezen allrounder met slimme objectherkenning.",
       "specs": {
         "Zuigkracht": "8.000 Pa",
@@ -551,7 +558,8 @@
       "low_price": 379.0,
       "prev_price": 456.3,
       "prev_date": "2026-11-06",
-      "ph_ean": "0194644178093"
+      "ph_ean": "0194644178093",
+      "rating": 4.2
     },
     {
       "brand": "Philips",
@@ -559,7 +567,7 @@
       "price": 279.0,
       "score": 8.2,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Philips-robot met dubbele draaiende dweilen en 10.000 Pa.",
       "specs": {
         "Zuigkracht": "10.000 Pa",
@@ -619,7 +627,8 @@
       "low_price": 279.0,
       "ph_ean": "8720389055645",
       "prev_price": 299.0,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.4
     },
     {
       "brand": "Roborock",
@@ -627,7 +636,7 @@
       "price": 179.99,
       "score": 8.0,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Betaalbare instapper met leegstation en liftende dweil.",
       "specs": {
         "Zuigkracht": "10.000 Pa",
@@ -692,7 +701,8 @@
       "low_price": 179.99,
       "prev_price": 339.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "6936905902177"
+      "ph_ean": "6936905902177",
+      "rating": 4.3
     }
   ],
   "guide": [

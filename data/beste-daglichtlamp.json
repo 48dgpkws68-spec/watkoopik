@@ -25,7 +25,7 @@
       "price": 76.99,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Veelzijdige daglichtlamp met drie lichtkleuren en timer.",
       "specs": {
         "Lichtsterkte": "10.000 lux",
@@ -88,7 +88,8 @@
       "low_price": 76.99,
       "prev_price": 95.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "4211125608132"
+      "ph_ean": "4211125608132",
+      "rating": 4.5
     },
     {
       "brand": "Beurer",
@@ -96,7 +97,7 @@
       "price": 35.0,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Compacte daglichtlamp met opberghoes, ideaal voor bureau of reis.",
       "specs": {
         "Lichtsterkte": "10.000 lux",
@@ -159,7 +160,8 @@
       "low_price": 35.0,
       "prev_price": 46.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "4211125608057"
+      "ph_ean": "4211125608057",
+      "rating": 4.5
     },
     {
       "brand": "Beurer",
@@ -167,7 +169,7 @@
       "price": 167.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Groot medisch gecertificeerd paneel met hoge lichtopbrengst.",
       "specs": {
         "Lichtsterkte": "10.000 lux",
@@ -230,7 +232,8 @@
       "low_price": 164.0,
       "prev_price": 164.0,
       "prev_date": "2026-11-07",
-      "ph_ean": "6970229250316"
+      "ph_ean": "6970229250316",
+      "rating": 4.5
     },
     {
       "brand": "Beurer",
@@ -238,7 +241,7 @@
       "price": 139.99,
       "score": 8.8,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Groot paneel met tot 14.000 lux voor korte sessies.",
       "specs": {
         "Lichtsterkte": "14.000 lux",
@@ -300,7 +303,8 @@
       "low_price": 109.0,
       "prev_price": 109.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "6970229250293"
+      "ph_ean": "6970229250293",
+      "rating": 4.5
     },
     {
       "brand": "Beurer",
@@ -308,7 +312,7 @@
       "price": 48.7,
       "score": 8.6,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Compacte daglichtlamp met dimmer en timer.",
       "specs": {
         "Lichtsterkte": "10.000 lux",
@@ -370,7 +374,8 @@
       "low_price": 48.7,
       "prev_price": 49.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "6970229250545"
+      "ph_ean": "6970229250545",
+      "rating": 4.5
     },
     {
       "brand": "Beurer",
@@ -378,7 +383,7 @@
       "price": 66.99,
       "score": 8.5,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Ronde daglichtlamp met een rustig, modern design.",
       "specs": {
         "Lichtsterkte": "10.000 lux",
@@ -440,7 +445,8 @@
       "low_price": 66.99,
       "prev_price": 79.99,
       "prev_date": "2026-11-11",
-      "ph_ean": "4211125608156"
+      "ph_ean": "4211125608156",
+      "rating": 4.5
     },
     {
       "brand": "Lumie",
@@ -448,7 +454,7 @@
       "price": 109.0,
       "score": 8.6,
       "label": null,
-      "reviews": "5/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Groot lichtpaneel dat je staand of liggend neerzet.",
       "specs": {
         "Lichtsterkte": "10.000 lux",
@@ -497,7 +503,8 @@
       },
       "low_price": 109.0,
       "synced": "2026-11-17",
-      "ph_ean": "5060006628733"
+      "ph_ean": "5060006628733",
+      "rating": 5.0
     },
     {
       "brand": "Beurer",
@@ -505,7 +512,7 @@
       "price": 149.99,
       "score": 8.5,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Daglichtlamp en sfeerlamp met 256 kleuren in één.",
       "specs": {
         "Lichtsterkte": "10.000 lux",
@@ -567,7 +574,8 @@
       "low_price": 146.99,
       "prev_price": 154.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "4211125608354"
+      "ph_ean": "4211125608354",
+      "rating": 4.5
     },
     {
       "brand": "BrellaVio",
@@ -575,7 +583,7 @@
       "price": 59.95,
       "score": 8.4,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Daglichtlamp met 12.000 lux en opberghoes voor een scherpe prijs.",
       "specs": {
         "Lichtsterkte": "12.000 lux",
@@ -637,7 +645,8 @@
       "low_price": 59.95,
       "prev_price": 79.95,
       "prev_date": "2026-11-05",
-      "ph_ean": "8720726208383"
+      "ph_ean": "8720726208383",
+      "rating": 4.6
     },
     {
       "brand": "ROGI",
@@ -645,7 +654,7 @@
       "price": 31.95,
       "score": 8.1,
       "label": null,
-      "reviews": "5/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Voordelige daglichtlamp voor op je bureau met timer en drie standen.",
       "specs": {
         "Lichtsterkte": "10.000 lux",
@@ -685,7 +694,8 @@
       "synced": "2026-11-17",
       "prev_price": 34.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720892123848"
+      "ph_ean": "8720892123848",
+      "rating": 5.0
     }
   ],
   "guide": [

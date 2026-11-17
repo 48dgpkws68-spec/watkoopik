@@ -117,7 +117,8 @@
       },
       "low_price": 699.0,
       "ph_ean": "8806099129583",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Hisense",
@@ -125,7 +126,7 @@
       "price": 679.0,
       "score": 9.0,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Een 65 inch Mini LED met 144 Hz en ingebouwde subwoofer.",
       "specs": {
         "Formaat": "65 inch",
@@ -156,7 +157,8 @@
       },
       "low_price": 679.0,
       "ph_ean": "6942351434773",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.6
     },
     {
       "brand": "TCL",
@@ -195,7 +197,8 @@
       },
       "low_price": 549.0,
       "ph_ean": "5901292525828",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Xiaomi",
@@ -203,7 +206,7 @@
       "price": 648.99,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "Mini LED met 1.700 nits en 144 Hz voor onder de 650 euro.",
       "specs": {
         "Formaat": "55 inch",
@@ -273,7 +276,8 @@
       },
       "low_price": 699.0,
       "ph_ean": "5901292526665",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "TCL",
@@ -312,7 +316,8 @@
       },
       "low_price": 699.0,
       "ph_ean": "5901292531065",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -351,7 +356,8 @@
       },
       "low_price": 579.0,
       "ph_ean": "8718863052761",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -390,7 +396,8 @@
       },
       "low_price": 579.0,
       "ph_ean": "8806099134624",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -429,7 +436,8 @@
       },
       "low_price": 579.0,
       "ph_ean": "8718863051689",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.5
     },
     {
       "brand": "Sony",
@@ -468,7 +476,8 @@
       },
       "low_price": 699.0,
       "ph_ean": "4548736180048",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.3
     }
   ],
   "wissels": [

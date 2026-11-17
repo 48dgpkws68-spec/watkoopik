@@ -27,7 +27,7 @@
       "price": 78.66,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Wandkachel voor de badkamer met app, thermostaat en weektimer.",
       "specs": {
         "Type": "Keramisch, wand",
@@ -81,7 +81,8 @@
       "synced": "2026-11-17",
       "prev_price": 81.46,
       "prev_date": "2026-11-16",
-      "ph_ean": "8713415343007"
+      "ph_ean": "8713415343007",
+      "rating": 4.1
     },
     {
       "brand": "Rowenta",
@@ -131,7 +132,8 @@
       "synced": "2026-11-17",
       "prev_price": 69.29,
       "prev_date": "2026-11-14",
-      "ph_ean": "3121040094563"
+      "ph_ean": "3121040094563",
+      "rating": 5.0
     },
     {
       "brand": "VOLT",
@@ -139,7 +141,7 @@
       "price": 169.0,
       "score": 8.9,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Infraroodstraler aan de muur met IP44, app en eco-stand.",
       "specs": {
         "Type": "Infrarood, wand",
@@ -191,7 +193,8 @@
       },
       "low_price": 169.0,
       "synced": "2026-11-17",
-      "ph_ean": "8720274999689"
+      "ph_ean": "8720274999689",
+      "rating": 4.9
     },
     {
       "brand": "Plieger",
@@ -199,7 +202,7 @@
       "price": 279.0,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Elektrische handdoekradiator met klokthermostaat, zonder cv-aansluiting.",
       "specs": {
         "Type": "Handdoekradiator",
@@ -251,7 +254,8 @@
       },
       "low_price": 279.0,
       "synced": "2026-11-17",
-      "ph_ean": "8711238457093"
+      "ph_ean": "8711238457093",
+      "rating": 5.0
     },
     {
       "brand": "Eurom",
@@ -259,7 +263,7 @@
       "price": 51.95,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Betaalbare wandkachel met afstandsbediening en weektimer.",
       "specs": {
         "Type": "Keramisch, wand",
@@ -313,7 +317,8 @@
       "synced": "2026-11-17",
       "prev_price": 53.55,
       "prev_date": "2026-11-16",
-      "ph_ean": "8713415350081"
+      "ph_ean": "8713415350081",
+      "rating": 3.8
     },
     {
       "brand": "Varin",
@@ -321,7 +326,7 @@
       "price": 149.95,
       "score": 8.6,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Glazen convectorpaneel met app, voor grote badkamers.",
       "specs": {
         "Type": "Convector, glas",
@@ -375,7 +380,8 @@
       "synced": "2026-11-17",
       "prev_price": 159.95,
       "prev_date": "2026-11-05",
-      "ph_ean": "8720828286500"
+      "ph_ean": "8720828286500",
+      "rating": 4.6
     },
     {
       "brand": "DOMO",
@@ -383,7 +389,7 @@
       "price": 119.0,
       "score": 8.4,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Stille micakachel met IP24 en twee warmtestanden.",
       "specs": {
         "Type": "Mica, staand",
@@ -435,7 +441,8 @@
       },
       "low_price": 119.0,
       "synced": "2026-11-17",
-      "ph_ean": "5411397161246"
+      "ph_ean": "5411397161246",
+      "rating": 5.0
     },
     {
       "brand": "Rowenta",
@@ -443,7 +450,7 @@
       "price": 60.0,
       "score": 8.3,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Simpele, spatwaterdichte ventilatorkachel van 2200 watt.",
       "specs": {
         "Type": "Ventilator, staand",
@@ -495,7 +502,8 @@
       },
       "low_price": 60.0,
       "synced": "2026-11-17",
-      "ph_ean": "3121040089606"
+      "ph_ean": "3121040089606",
+      "rating": 4.3
     },
     {
       "brand": "Auronic",
@@ -553,7 +561,8 @@
       },
       "low_price": 74.99,
       "synced": "2026-11-17",
-      "ph_ean": "8721055562580"
+      "ph_ean": "8721055562580",
+      "rating": 4.3
     },
     {
       "brand": "Tristar",
@@ -561,7 +570,7 @@
       "price": 34.99,
       "score": 8.0,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Goedkope infraroodstraler voor aan de muur, IP24.",
       "specs": {
         "Type": "Infrarood, wand",
@@ -615,7 +624,8 @@
       "synced": "2026-11-17",
       "prev_price": 31.99,
       "prev_date": "2026-10-26",
-      "ph_ean": "8713016050106"
+      "ph_ean": "8713016050106",
+      "rating": 4.0
     }
   ],
   "guide": [

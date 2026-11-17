@@ -25,7 +25,7 @@
       "price": 209.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "180+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Lichte accumaaier van 30 cm die precies past bij een stadstuin.",
       "specs": {
         "Type": "Accu 18V",
@@ -84,7 +84,8 @@
       "low_price": 209.0,
       "prev_price": 210.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4078500061957"
+      "ph_ean": "4078500061957",
+      "rating": 4.3
     },
     {
       "brand": "GARDENA",
@@ -92,7 +93,7 @@
       "price": 179.99,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "5/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Complete accuset met 4,0 Ah-accu voor gazons tot 200 m².",
       "specs": {
         "Type": "Accu 18V",
@@ -130,7 +131,8 @@
       },
       "low_price": 179.99,
       "synced": "2026-11-17",
-      "ph_ean": "4066407024212"
+      "ph_ean": "4066407024212",
+      "rating": 5.0
     },
     {
       "brand": "GARDENA",
@@ -138,7 +140,7 @@
       "price": 468.0,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "220+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Compacte robotmaaier die een klein gazon zelf bijhoudt.",
       "specs": {
         "Type": "Robot, accu",
@@ -201,7 +203,8 @@
       "low_price": 452.2,
       "prev_price": 506.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "4066407503946"
+      "ph_ean": "4066407503946",
+      "rating": 4.1
     },
     {
       "brand": "Bosch",
@@ -209,7 +212,7 @@
       "price": 223.83,
       "score": 8.9,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Stevige 34 cm accumaaier met grasmaaikammen voor strakke randen.",
       "specs": {
         "Type": "Accu 18V",
@@ -272,7 +275,8 @@
       "low_price": 218.64,
       "prev_price": 241.12,
       "prev_date": "2026-11-16",
-      "ph_ean": "4053423656831"
+      "ph_ean": "4053423656831",
+      "rating": 5.0
     },
     {
       "brand": "Einhell",
@@ -280,7 +284,7 @@
       "price": 193.0,
       "score": 8.6,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Iets bredere Einhell met 30 liter bak voor ruimere tuinen.",
       "specs": {
         "Type": "Accu 18V",
@@ -343,7 +347,8 @@
       "low_price": 177.2,
       "prev_price": 188.84,
       "prev_date": "2026-11-12",
-      "ph_ean": "4006825646856"
+      "ph_ean": "4006825646856",
+      "rating": 4.7
     },
     {
       "brand": "Makita",
@@ -351,7 +356,7 @@
       "price": 248.42,
       "score": 8.7,
       "label": null,
-      "reviews": "120+ reviews",
+      "reviews": "",
       "oneliner": "Robuuste 33 cm accumaaier van Makita met 4,0 Ah accu.",
       "specs": {
         "Type": "Accu 18V",
@@ -418,7 +423,7 @@
       "price": 189.0,
       "score": 8.2,
       "label": null,
-      "reviews": "260+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Mini-accumaaier van 22 cm voor heel kleine grasvelden.",
       "specs": {
         "Type": "Accu 18V",
@@ -481,7 +486,8 @@
       "low_price": 189.0,
       "prev_price": 193.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "4078500054157"
+      "ph_ean": "4078500054157",
+      "rating": 3.9
     },
     {
       "brand": "Bosch",
@@ -489,7 +495,7 @@
       "price": 107.4,
       "score": 8.3,
       "label": null,
-      "reviews": "90+ reviews",
+      "reviews": "",
       "oneliner": "Lichte elektrische maaier van 32 cm zonder accugedoe.",
       "specs": {
         "Type": "Elektrisch 1200 W",
@@ -556,7 +562,7 @@
       "price": 98.99,
       "score": 8.0,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Elektrische 32 cm maaier van Gardena voor gazons tot 200 m².",
       "specs": {
         "Type": "Elektrisch 1200 W",
@@ -615,7 +621,8 @@
       "low_price": 88.3,
       "prev_price": 89.2,
       "prev_date": "2026-11-07",
-      "ph_ean": "4078500023924"
+      "ph_ean": "4078500023924",
+      "rating": 3.8
     },
     {
       "brand": "VONROC",
@@ -623,7 +630,7 @@
       "price": 52.95,
       "score": 7.9,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Handmaaier zonder stroom of accu voor een klein, vlak gazon.",
       "specs": {
         "Type": "Handmaaier",
@@ -682,7 +689,8 @@
       "low_price": 52.95,
       "prev_price": 54.95,
       "prev_date": "2026-11-08",
-      "ph_ean": "8717479104048"
+      "ph_ean": "8717479104048",
+      "rating": 4.3
     }
   ],
   "guide": [

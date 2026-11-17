@@ -25,7 +25,7 @@
       "price": 349.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Lendensteun in vijf richtingen en verstelbare zitdiepte voor een gevoelige rug.",
       "specs": {
         "Lendensteun": "5D verstelbaar",
@@ -85,7 +85,8 @@
       "low_price": 349.0,
       "prev_price": 429.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "5060826163971"
+      "ph_ean": "5060826163971",
+      "rating": 5.0
     },
     {
       "brand": "SIHOO",
@@ -93,7 +94,7 @@
       "price": 375.99,
       "score": 9.1,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Lendensteun die zelf meebeweegt als je verzit of achterover leunt.",
       "specs": {
         "Lendensteun": "Zelfaanpassend",
@@ -157,7 +158,8 @@
       "low_price": 375.99,
       "ph_ean": "0850075417032",
       "prev_price": 409.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "Interstuhl",
@@ -165,7 +167,7 @@
       "price": 664.29,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Duitse kantoorstoel die voldoet aan de Nederlandse ergonomienorm NPR 1813.",
       "specs": {
         "Lendensteun": "Verstelbaar",
@@ -296,7 +298,8 @@
       "low_price": 199.0,
       "prev_price": 249.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720938925023"
+      "ph_ean": "8720938925023",
+      "rating": 4.7
     },
     {
       "brand": "OfficeSense",
@@ -361,7 +364,8 @@
         "2026-11-17": 214.0
       },
       "low_price": 214.0,
-      "ph_ean": "8721042800763"
+      "ph_ean": "8721042800763",
+      "rating": 4.3
     },
     {
       "brand": "Newtral",
@@ -369,7 +373,7 @@
       "price": 185.0,
       "score": 8.6,
       "label": null,
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Adaptieve lendensteun en schuifbare zitting voor een scherpe prijs.",
       "specs": {
         "Lendensteun": "Adaptief",
@@ -434,7 +438,7 @@
       "price": 152.09,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Populaire mesh stoel met in hoogte verstelbare lendensteun en hoofdsteun.",
       "specs": {
         "Lendensteun": "In hoogte verstelbaar",
@@ -493,7 +497,8 @@
       "low_price": 152.09,
       "prev_price": 169.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "0799947518197"
+      "ph_ean": "0799947518197",
+      "rating": 5.0
     },
     {
       "brand": "Backerz",
@@ -560,7 +565,8 @@
       "low_price": 179.0,
       "prev_price": 207.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720618891143"
+      "ph_ean": "8720618891143",
+      "rating": 4.6
     },
     {
       "brand": "SIHOO",
@@ -568,7 +574,7 @@
       "price": 265.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Zelfaanpassende lendensteun van de Pro zonder hoofdsteun en 5D armleuningen.",
       "specs": {
         "Lendensteun": "Zelfaanpassend",
@@ -631,7 +637,8 @@
       "low_price": 265.0,
       "ph_ean": "0850075417131",
       "prev_price": 279.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "SIHOO",
@@ -639,7 +646,7 @@
       "price": 89.1,
       "score": 8.0,
       "label": null,
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Instapstoel met verstelbare lendensteun voor minder dan honderd euro.",
       "specs": {
         "Lendensteun": "Verstelbaar",

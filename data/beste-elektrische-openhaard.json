@@ -25,7 +25,7 @@
       "price": 184.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "4,5/5 op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Vrijstaande sfeerhaard met realistisch LED-vlameffect en 2.000 watt verwarming.",
       "specs": {
         "Type": "Vrijstaand",
@@ -80,7 +80,8 @@
       "low_price": 184.0,
       "prev_price": 189.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "5011139061454"
+      "ph_ean": "5011139061454",
+      "rating": 4.6
     },
     {
       "brand": "Dimplex",
@@ -88,7 +89,7 @@
       "price": 141.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Compacte Dimplex met Optiflame, thermostaat en afstandsbediening.",
       "specs": {
         "Type": "Vrijstaand kachelmodel",
@@ -145,7 +146,8 @@
       "low_price": 135.0,
       "prev_price": 169.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "5011139061485"
+      "ph_ean": "5011139061485",
+      "rating": 4.8
     },
     {
       "brand": "Dimplex",
@@ -153,7 +155,7 @@
       "price": 354.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Waterdamp en licht vormen vlammen met echte rookachtige beweging.",
       "specs": {
         "Type": "Vrijstaand kachelmodel",
@@ -210,7 +212,8 @@
       "low_price": 354.0,
       "prev_price": 364.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8716412235818"
+      "ph_ean": "8716412235818",
+      "rating": 4.5
     },
     {
       "brand": "Dimplex",
@@ -218,7 +221,7 @@
       "price": 299.0,
       "score": 8.9,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Brede wandhaard van 122 cm: inbouw, aan de muur of vrijstaand.",
       "specs": {
         "Type": "Wand, inbouw of vrijstaand",
@@ -275,7 +278,8 @@
       "low_price": 279.0,
       "prev_price": 279.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "8716412220937"
+      "ph_ean": "8716412220937",
+      "rating": 4.6
     },
     {
       "brand": "Dimplex",
@@ -283,7 +287,7 @@
       "price": 279.0,
       "score": 8.7,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Inbouwcassette om een bestaande schouw of nis elektrisch te maken.",
       "specs": {
         "Type": "Inbouw",
@@ -340,7 +344,8 @@
       "low_price": 229.0,
       "prev_price": 229.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "5011139210951"
+      "ph_ean": "5011139210951",
+      "rating": 4.7
     },
     {
       "brand": "alpina",
@@ -348,7 +353,7 @@
       "price": 182.95,
       "score": 8.5,
       "label": null,
-      "reviews": "4,5/5 op bol",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Vrijstaande sfeerhaard in zwart metaal met 2.000 W en een houtblokeffect.",
       "specs": {
         "Type": "Vrijstaand",
@@ -401,7 +406,8 @@
       "synced": "2026-11-17",
       "prev_price": 192.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "8711252248486"
+      "ph_ean": "8711252248486",
+      "rating": 4.5
     },
     {
       "brand": "Classic Fire",
@@ -409,7 +415,7 @@
       "price": 95.85,
       "score": 8.4,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Zwarte kachelhaard met timer en LED-vlammen voor een vriendelijke prijs.",
       "specs": {
         "Type": "Vrijstaand kachelmodel",
@@ -466,7 +472,8 @@
       "low_price": 95.85,
       "prev_price": 136.99,
       "prev_date": "2026-11-12",
-      "ph_ean": "8711252989822"
+      "ph_ean": "8711252989822",
+      "rating": 4.6
     },
     {
       "brand": "MOA",
@@ -474,7 +481,7 @@
       "price": 189.99,
       "score": 8.3,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Populaire vrijstaande sfeerhaard voor ruimtes tot 25 m².",
       "specs": {
         "Type": "Vrijstaand kachelmodel",
@@ -518,7 +525,8 @@
       "synced": "2026-11-17",
       "prev_price": 184.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8718001908929"
+      "ph_ean": "8718001908929",
+      "rating": 4.5
     },
     {
       "brand": "Classic Fire",
@@ -526,7 +534,7 @@
       "price": 72.95,
       "score": 8.0,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Goedkoopste kachelhaard in deze lijst, met timer en 2.000 W.",
       "specs": {
         "Type": "Vrijstaand kachelmodel",
@@ -583,7 +591,8 @@
       "low_price": 72.95,
       "prev_price": 78.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "8711252164137"
+      "ph_ean": "8711252164137",
+      "rating": 4.4
     },
     {
       "label": null,
@@ -591,7 +600,7 @@
       "name": "Elektrische inbouwhaard 49 cm",
       "price": 112.99,
       "score": 7.6,
-      "reviews": "nog weinig reviews",
+      "reviews": "",
       "oneliner": "Kleine inbouwhaard met verwarming en afstandsbediening voor rond de 100 euro.",
       "specs": {
         "Type": "Inbouw",

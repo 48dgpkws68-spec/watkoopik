@@ -25,7 +25,7 @@
       "price": 139.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Monitorlamp die je bureau verlicht zonder schittering op het scherm.",
       "specs": {
         "Type": "Monitorlamp",
@@ -86,7 +86,8 @@
         "2026-11-17": 139.0
       },
       "low_price": 139.0,
-      "ph_ean": "4718755093227"
+      "ph_ean": "4718755093227",
+      "rating": 4.8
     },
     {
       "brand": "Stane",
@@ -94,7 +95,7 @@
       "price": 27.49,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Dimbare ledlamp met vijf lichtkleuren en touchbediening.",
       "specs": {
         "Type": "Bureaulamp",
@@ -156,7 +157,8 @@
       "low_price": 24.95,
       "prev_price": 26.95,
       "prev_date": "2026-11-16",
-      "ph_ean": "8720938925443"
+      "ph_ean": "8720938925443",
+      "rating": 4.6
     },
     {
       "brand": "BenQ",
@@ -164,7 +166,7 @@
       "price": 194.65,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "nog weinig reviews",
+      "reviews": "",
       "oneliner": "Premium bureaulamp met een extra brede lichtkop die je hele bureau verlicht.",
       "specs": {
         "Type": "Bureaulamp op voet",
@@ -226,7 +228,7 @@
       "price": 89.99,
       "score": 8.9,
       "label": null,
-      "reviews": "1.000+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Het originele model monitorlamp, eenvoudiger en goedkoper.",
       "specs": {
         "Type": "Monitorlamp",
@@ -288,7 +290,8 @@
       "low_price": 89.99,
       "prev_price": 98.99,
       "prev_date": "2026-11-02",
-      "ph_ean": "4718755068331"
+      "ph_ean": "4718755068331",
+      "rating": 4.8
     },
     {
       "brand": "Philips",
@@ -296,7 +299,7 @@
       "price": 102.0,
       "score": 8.6,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Klassieke architectenlamp van Philips met krachtige led.",
       "specs": {
         "Type": "Bureaulamp",
@@ -356,7 +359,8 @@
         "2026-11-17": 102.0
       },
       "low_price": 102.0,
-      "ph_ean": "8719514396852"
+      "ph_ean": "8719514396852",
+      "rating": 5.0
     },
     {
       "brand": "Sencision",
@@ -364,7 +368,7 @@
       "price": 74.99,
       "score": 8.5,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare monitorlamp met hoge kleurweergave en afstandsbediening.",
       "specs": {
         "Type": "Monitorlamp",
@@ -426,7 +430,8 @@
       "low_price": 69.99,
       "prev_price": 69.99,
       "prev_date": "2026-10-26",
-      "ph_ean": "8721302360563"
+      "ph_ean": "8721302360563",
+      "rating": 4.5
     },
     {
       "brand": "Stane",
@@ -481,7 +486,8 @@
       "synced": "2026-11-17",
       "prev_price": 59.95,
       "prev_date": "2026-11-09",
-      "ph_ean": "8720938925498"
+      "ph_ean": "8720938925498",
+      "rating": 4.6
     },
     {
       "brand": "Aigostar",
@@ -489,7 +495,7 @@
       "price": 37.99,
       "score": 8.2,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Opvouwbare ledlamp met instelbare kleurtemperatuur.",
       "specs": {
         "Type": "Bureaulamp",
@@ -551,7 +557,8 @@
       "low_price": 36.99,
       "prev_price": 36.99,
       "prev_date": "2026-10-21",
-      "ph_ean": "8433325217563"
+      "ph_ean": "8433325217563",
+      "rating": 4.7
     },
     {
       "brand": "Auronic",
@@ -559,7 +566,7 @@
       "price": 33.99,
       "score": 8.1,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Verstelbare klemlamp die ook je telefoon oplaadt.",
       "specs": {
         "Type": "Klemlamp",
@@ -621,7 +628,8 @@
       "low_price": 33.99,
       "prev_price": 34.99,
       "prev_date": "2026-11-08",
-      "ph_ean": "8720195254386"
+      "ph_ean": "8720195254386",
+      "rating": 4.7
     },
     {
       "brand": "BRILONER",
@@ -629,7 +637,7 @@
       "price": 17.99,
       "score": 7.9,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Goedkope dimbare ledlamp met USB-C en drie lichtkleuren.",
       "specs": {
         "Type": "Bureaulamp",
@@ -691,7 +699,8 @@
       "low_price": 17.99,
       "ph_ean": "4002707503446",
       "prev_price": 19.95,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     }
   ],
   "guide": [

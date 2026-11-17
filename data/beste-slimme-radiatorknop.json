@@ -27,7 +27,7 @@
       "price": 99.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "1.400+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Complete start met Bridge X, Matter en een heldere app.",
       "specs": {
         "Inhoud": "1 radiatorknop + Bridge X",
@@ -76,7 +76,8 @@
       "synced": "2026-11-17",
       "prev_price": 91.02,
       "prev_date": "2026-11-14",
-      "ph_ean": "4260328612118"
+      "ph_ean": "4260328612118",
+      "rating": 4.2
     },
     {
       "brand": "Aqara",
@@ -84,7 +85,7 @@
       "price": 45.19,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "300+ reviews",
+      "reviews": "",
       "oneliner": "Betaalbare Matter-knop met Thread en Zigbee in één.",
       "specs": {
         "Inhoud": "1 radiatorknop",
@@ -141,7 +142,7 @@
       "price": 96.99,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Robuuste zoneknop voor het uitgebreide evohome-systeem.",
       "specs": {
         "Inhoud": "1 radiatorknop",
@@ -188,7 +189,8 @@
       },
       "low_price": 96.99,
       "synced": "2026-11-17",
-      "ph_ean": "5059085004187"
+      "ph_ean": "5059085004187",
+      "rating": 5.0
     },
     {
       "brand": "Netatmo",
@@ -196,7 +198,7 @@
       "price": 199.99,
       "score": 8.7,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 3,6 van 5",
       "oneliner": "Twee knoppen met relais, sterk in Apple Home.",
       "specs": {
         "Inhoud": "2 radiatorknoppen + relais",
@@ -243,7 +245,8 @@
       },
       "low_price": 199.99,
       "synced": "2026-11-17",
-      "ph_ean": "3700730501941"
+      "ph_ean": "3700730501941",
+      "rating": 3.6
     },
     {
       "brand": "SONOFF",
@@ -287,7 +290,8 @@
       },
       "low_price": 29.9,
       "synced": "2026-11-17",
-      "ph_ean": "6920075740950"
+      "ph_ean": "6920075740950",
+      "rating": 3.0
     },
     {
       "brand": "Danfoss",
@@ -295,7 +299,7 @@
       "price": 55.94,
       "score": 8.4,
       "label": null,
-      "reviews": "Gem. 4,3 sterren op bol",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Losse radiatorknop die je via Bluetooth instelt, zonder hub of abonnement.",
       "specs": {
         "Inhoud": "1 radiatorknop",
@@ -339,7 +343,8 @@
       "synced": "2026-11-17",
       "prev_price": 51.97,
       "prev_date": "2026-11-11",
-      "ph_ean": "5702425245329"
+      "ph_ean": "5702425245329",
+      "rating": 4.3
     },
     {
       "brand": "Meross",
@@ -347,7 +352,7 @@
       "price": 77.95,
       "score": 8.3,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Betaalbare starterskit met hub die ook met Apple Home werkt.",
       "specs": {
         "Inhoud": "1 radiatorknop + hub",
@@ -391,7 +396,7 @@
       "price": 107.99,
       "score": 8.2,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "",
       "oneliner": "Bluetooth-knop met gateway, sterk voor Home Assistant.",
       "specs": {
         "Inhoud": "1 radiatorknop + BLU Gateway",
@@ -447,7 +452,7 @@
       "price": 119.95,
       "score": 8.0,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Belgische set met twee knoppen en gateway voor weinig geld.",
       "specs": {
         "Inhoud": "2 radiatorknoppen + gateway",
@@ -493,7 +498,8 @@
       },
       "low_price": 119.95,
       "synced": "2026-11-17",
-      "ph_ean": "5419980322166"
+      "ph_ean": "5419980322166",
+      "rating": 4.2
     },
     {
       "brand": "Hombli",
@@ -541,7 +547,8 @@
       "synced": "2026-11-17",
       "prev_price": 134.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "8719323919785"
+      "ph_ean": "8719323919785",
+      "rating": 3.7
     }
   ],
   "guide": [

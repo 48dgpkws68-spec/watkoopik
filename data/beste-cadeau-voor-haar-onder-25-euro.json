@@ -35,7 +35,7 @@
       "price": 22.58,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Bouwpakket dat na een rustige avond als bloeiende orchidee blijft staan.",
       "specs": {
         "Soort": "Bouwpakket",
@@ -78,7 +78,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702017814643",
       "prev_price": 22.99,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.9
     },
     {
       "brand": "Rituals",
@@ -86,7 +87,7 @@
       "price": 20.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Kleine luxe voor in huis met een frisse geur van lotus.",
       "specs": {
         "Soort": "Geurstokjes",
@@ -129,7 +130,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8719134204285",
       "prev_price": 23.75,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 5.0
     },
     {
       "brand": "Tangle Teezer",
@@ -137,7 +139,7 @@
       "price": 15.75,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Ontklittende haarborstel die ze elke ochtend en avond pakt.",
       "specs": {
         "Soort": "Haarborstel",
@@ -180,7 +182,8 @@
       "synced": "2026-11-17",
       "prev_price": 15.1,
       "prev_date": "2026-11-14",
-      "ph_ean": "5060173376239"
+      "ph_ean": "5060173376239",
+      "rating": 4.5
     },
     {
       "brand": "Jumbo",
@@ -188,7 +191,7 @@
       "price": 18.04,
       "score": 8.8,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Muziekspel waarin je nummers op de juiste plek in de tijdlijn legt.",
       "specs": {
         "Soort": "Partyspel",
@@ -231,7 +234,8 @@
       "synced": "2026-11-17",
       "ph_ean": "4060539123942",
       "prev_price": 19.99,
-      "prev_date": "2026-11-12"
+      "prev_date": "2026-11-12",
+      "rating": 4.5
     },
     {
       "brand": "Kneipp",
@@ -239,7 +243,7 @@
       "price": 18.0,
       "score": 8.7,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Verzorgingsset met lavendel voor een rustig moment na een lange dag.",
       "specs": {
         "Soort": "Verzorgingsset",
@@ -282,7 +286,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8712585037068",
       "prev_price": 17.96,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.5
     },
     {
       "brand": "Moleskine",
@@ -290,7 +295,7 @@
       "price": 21.0,
       "score": 8.6,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Klassiek notitieboek voor plannen, schrijven of een dagboek.",
       "specs": {
         "Soort": "Notitieboek",
@@ -333,7 +338,8 @@
       "synced": "2026-11-17",
       "prev_price": 21.38,
       "prev_date": "2026-11-14",
-      "ph_ean": "9788867323067"
+      "ph_ean": "9788867323067",
+      "rating": 4.6
     },
     {
       "brand": "Pukka",
@@ -341,7 +347,7 @@
       "price": 12.99,
       "score": 8.5,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Cadeaudoos met vijf biologische theesoorten om rustig te ontdekken.",
       "specs": {
         "Soort": "Theeset",
@@ -384,7 +390,8 @@
       "synced": "2026-11-17",
       "prev_price": 16.87,
       "prev_date": "2026-11-14",
-      "ph_ean": "5063270117064"
+      "ph_ean": "5063270117064",
+      "rating": 4.9
     },
     {
       "brand": "Dopper",
@@ -392,7 +399,7 @@
       "price": 14.95,
       "score": 8.4,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Nederlandse drinkfles met bekertje die jarenlang meegaat.",
       "specs": {
         "Soort": "Drinkfles",
@@ -426,7 +433,8 @@
       },
       "low_price": 14.95,
       "synced": "2026-11-17",
-      "ph_ean": "8718469123766"
+      "ph_ean": "8718469123766",
+      "rating": 4.5
     },
     {
       "brand": "Weleda",
@@ -434,7 +442,7 @@
       "price": 11.99,
       "score": 8.3,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Rijke body butter voor droge huid in de koude maanden.",
       "specs": {
         "Soort": "Huidverzorging",
@@ -477,7 +485,8 @@
       "synced": "2026-11-17",
       "prev_price": 14.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "4001638526708"
+      "ph_ean": "4001638526708",
+      "rating": 4.7
     },
     {
       "brand": "Yankee Candle",
@@ -485,7 +494,7 @@
       "price": 16.95,
       "score": 8.1,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Winterse geurkaars in glazen pot voor gezellige avonden.",
       "specs": {
         "Soort": "Geurkaars",
@@ -526,7 +535,8 @@
       },
       "low_price": 16.95,
       "synced": "2026-11-17",
-      "ph_ean": "5038581028996"
+      "ph_ean": "5038581028996",
+      "rating": 4.0
     }
   ],
   "guide": [

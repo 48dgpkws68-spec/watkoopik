@@ -25,7 +25,7 @@
       "price": 649.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "350+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Stille ergometer met 32 niveaus en koppeling met trainingsapps.",
       "specs": {
         "Weerstand": "32 niveaus, magnetisch",
@@ -86,7 +86,8 @@
         "2026-11-17": 649.0
       },
       "low_price": 649.0,
-      "ph_ean": "8718591682162"
+      "ph_ean": "8718591682162",
+      "rating": 4.2
     },
     {
       "brand": "VirtuFit",
@@ -94,7 +95,7 @@
       "price": 449.0,
       "score": 9.0,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Ergometer met 41 programma's en 7 kg vliegwiel.",
       "specs": {
         "Weerstand": "32 niveaus, magnetisch",
@@ -156,7 +157,8 @@
       "low_price": 449.0,
       "prev_price": 474.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719128725161"
+      "ph_ean": "8719128725161",
+      "rating": 4.4
     },
     {
       "brand": "Flow Fitness",
@@ -164,7 +166,7 @@
       "price": 949.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Bijna professionele hometrainer met 69 niveaus en apps.",
       "specs": {
         "Weerstand": "69 niveaus, magnetisch",
@@ -225,7 +227,8 @@
         "2026-11-17": 949.0
       },
       "low_price": 949.0,
-      "ph_ean": "8718591681943"
+      "ph_ean": "8718591681943",
+      "rating": 4.2
     },
     {
       "brand": "Tunturi",
@@ -233,7 +236,7 @@
       "price": 296.09,
       "score": 8.8,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Middenklasser met 32 niveaus, Bluetooth en hoog maximaal gewicht.",
       "specs": {
         "Weerstand": "32 niveaus, magnetisch",
@@ -295,7 +298,8 @@
       "low_price": 296.09,
       "prev_price": 329.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8717842029855"
+      "ph_ean": "8717842029855",
+      "rating": 4.0
     },
     {
       "brand": "Tunturi",
@@ -303,7 +307,7 @@
       "price": 119.0,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Betaalbare, degelijke hometrainer met tablethouder.",
       "specs": {
         "Weerstand": "8 niveaus, magnetisch",
@@ -365,7 +369,8 @@
       "low_price": 119.0,
       "prev_price": 159.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8717842025697"
+      "ph_ean": "8717842025697",
+      "rating": 4.1
     },
     {
       "brand": "VirtuFit",
@@ -373,7 +378,7 @@
       "price": 349.0,
       "score": 8.7,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Ergometer met 24 programma's en app-koppeling voor onder de vierhonderd euro.",
       "specs": {
         "Weerstand": "24 niveaus, magnetisch",
@@ -435,7 +440,8 @@
       "low_price": 349.0,
       "prev_price": 379.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719497597314"
+      "ph_ean": "8719497597314",
+      "rating": 4.4
     },
     {
       "brand": "Tunturi",
@@ -443,7 +449,7 @@
       "price": 424.0,
       "score": 8.6,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Lage instap en comfortabel zadel voor senioren en revalidatie.",
       "specs": {
         "Weerstand": "8 niveaus, magnetisch",
@@ -505,7 +511,8 @@
       "low_price": 424.0,
       "prev_price": 429.95,
       "prev_date": "2026-11-13",
-      "ph_ean": "8717842036679"
+      "ph_ean": "8717842036679",
+      "rating": 4.3
     },
     {
       "brand": "FITAGE",
@@ -513,7 +520,7 @@
       "price": 249.0,
       "score": 8.4,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betaalbare app-fiets met 32 niveaus en hoge reviewscore.",
       "specs": {
         "Weerstand": "32 niveaus, magnetisch",
@@ -575,7 +582,8 @@
       "low_price": 249.0,
       "ph_ean": "8719992433957",
       "prev_price": 274.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Fithlon",
@@ -583,7 +591,7 @@
       "price": 279.0,
       "score": 8.3,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Spinningachtige hometrainer met app en sportieve zithouding.",
       "specs": {
         "Weerstand": "Traploos, magnetisch",
@@ -645,7 +653,8 @@
       "low_price": 269.0,
       "prev_price": 499.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720726388399"
+      "ph_ean": "8720726388399",
+      "rating": 4.5
     },
     {
       "brand": "VirtuFit",
@@ -653,7 +662,7 @@
       "price": 129.0,
       "score": 8.2,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Eenvoudig instapmodel met acht niveaus van VirtuFit.",
       "specs": {
         "Weerstand": "8 niveaus, magnetisch",
@@ -715,7 +724,8 @@
       "low_price": 129.0,
       "prev_price": 141.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719743573161"
+      "ph_ean": "8719743573161",
+      "rating": 4.4
     }
   ],
   "guide": [

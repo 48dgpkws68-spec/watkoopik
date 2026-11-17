@@ -25,7 +25,7 @@
       "price": 28.99,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Extra lange tang voor natuurlijke krullen in elk haar.",
       "specs": {
         "Diameter": "25 mm",
@@ -88,7 +88,8 @@
       "low_price": 28.99,
       "prev_price": 38.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "3030050153644"
+      "ph_ean": "3030050153644",
+      "rating": 4.3
     },
     {
       "brand": "Remington",
@@ -96,7 +97,7 @@
       "price": 28.5,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.000+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Conische tang met keratinecoating die het haar beschermt.",
       "specs": {
         "Diameter": "19-32 mm, conisch",
@@ -159,7 +160,8 @@
       "low_price": 28.5,
       "prev_price": 35.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "4008496938636"
+      "ph_ean": "4008496938636",
+      "rating": 4.5
     },
     {
       "brand": "ghd",
@@ -167,7 +169,7 @@
       "price": 149.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Salonkwaliteit met een vaste, haarvriendelijke temperatuur.",
       "specs": {
         "Diameter": "32 mm",
@@ -230,7 +232,8 @@
       "low_price": 149.0,
       "prev_price": 150.15,
       "prev_date": "2026-11-13",
-      "ph_ean": "5056668011174"
+      "ph_ean": "5056668011174",
+      "rating": 5.0
     },
     {
       "brand": "BaByliss",
@@ -238,7 +241,7 @@
       "price": 79.99,
       "score": 8.9,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Automatische krultang die het haar zelf naar binnen trekt.",
       "specs": {
         "Diameter": "ca. 25 mm",
@@ -301,7 +304,8 @@
       "low_price": 79.89,
       "prev_price": 80.09,
       "prev_date": "2026-11-07",
-      "ph_ean": "3030050197372"
+      "ph_ean": "3030050197372",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -309,7 +313,7 @@
       "price": 89.99,
       "score": 8.7,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Automatische krultang met keramische kamer.",
       "specs": {
         "Diameter": "ca. 25 mm",
@@ -372,7 +376,8 @@
       "low_price": 89.99,
       "prev_price": 100.69,
       "prev_date": "2026-11-14",
-      "ph_ean": "8710103813378"
+      "ph_ean": "8710103813378",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -380,7 +385,7 @@
       "price": 180.06,
       "score": 8.6,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Slimme krultang met Autowrap en SenseIQ.",
       "specs": {
         "Diameter": "ca. 28 mm",
@@ -443,7 +448,8 @@
       "low_price": 139.0,
       "prev_price": 162.79,
       "prev_date": "2026-11-16",
-      "ph_ean": "8720689025485"
+      "ph_ean": "8720689025485",
+      "rating": 4.4
     },
     {
       "brand": "BaByliss",
@@ -451,7 +457,7 @@
       "price": 44.9,
       "score": 8.5,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Golftang voor beach waves in een paar minuten.",
       "specs": {
         "Diameter": "ca. 32 mm, drie golven",
@@ -514,7 +520,8 @@
       "low_price": 44.9,
       "prev_price": 54.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "3030050154924"
+      "ph_ean": "3030050154924",
+      "rating": 4.4
     },
     {
       "brand": "Remington",
@@ -522,7 +529,7 @@
       "price": 29.99,
       "score": 8.3,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Brede krultang voor grote, losse krullen.",
       "specs": {
         "Diameter": "32 mm",
@@ -585,7 +592,8 @@
       "low_price": 29.99,
       "prev_price": 39.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "4008496716630"
+      "ph_ean": "4008496716630",
+      "rating": 4.2
     },
     {
       "brand": "BaByliss",
@@ -593,7 +601,7 @@
       "price": 31.0,
       "score": 8.0,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Eenvoudige BaByliss met tien temperaturen.",
       "specs": {
         "Diameter": "25 mm",
@@ -656,7 +664,8 @@
       "low_price": 24.99,
       "prev_price": 29.97,
       "prev_date": "2026-11-05",
-      "ph_ean": "3030050069426"
+      "ph_ean": "3030050069426",
+      "rating": 4.1
     },
     {
       "brand": "Rowenta",
@@ -664,7 +673,7 @@
       "price": 16.5,
       "score": 7.8,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Compacte krultang van 19 mm voor kleine krullen.",
       "specs": {
         "Diameter": "19 mm",
@@ -727,7 +736,8 @@
       "low_price": 16.5,
       "prev_price": 18.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "3121040084632"
+      "ph_ean": "3121040084632",
+      "rating": 4.4
     }
   ],
   "guide": [

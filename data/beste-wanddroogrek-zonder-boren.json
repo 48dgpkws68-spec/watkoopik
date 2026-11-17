@@ -25,7 +25,7 @@
       "price": 25.45,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "1.200+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Hangrek met 12 meter drooglengte voor radiator, balkon en deur.",
       "specs": {
         "Type": "Uitklapbaar hangrek",
@@ -62,7 +62,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8002524079823",
       "prev_price": 30.29,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.2
     },
     {
       "brand": "Brabantia",
@@ -70,7 +71,7 @@
       "price": 35.95,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Degelijk inklapbaar hangrek van Brabantia met hoge beoordeling.",
       "specs": {
         "Type": "Inklapbaar hangrek",
@@ -128,7 +129,8 @@
         "2026-11-17": 35.95
       },
       "low_price": 35.95,
-      "ph_ean": "8710755102769"
+      "ph_ean": "8710755102769",
+      "rating": 4.7
     },
     {
       "brand": "Tomado",
@@ -136,7 +138,7 @@
       "price": 16.09,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Veelzijdig hangrek voor minder dan 16 euro.",
       "specs": {
         "Type": "Uitklapbaar hangrek",
@@ -196,7 +198,8 @@
       "low_price": 15.17,
       "prev_price": 15.3,
       "prev_date": "2026-11-14",
-      "ph_ean": "8002524068001"
+      "ph_ean": "8002524068001",
+      "rating": 4.2
     },
     {
       "brand": "Vileda",
@@ -204,7 +207,7 @@
       "price": 12.39,
       "score": 8.7,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Smal radiatordroogrek dat warmte direct benut.",
       "specs": {
         "Type": "Radiatorrek",
@@ -263,7 +266,8 @@
       "low_price": 11.29,
       "prev_price": 18.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4023103202290"
+      "ph_ean": "4023103202290",
+      "rating": 4.6
     },
     {
       "brand": "Leifheit",
@@ -271,7 +275,7 @@
       "price": 16.09,
       "score": 8.6,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Leifheit-kwaliteit voor radiator en balkon voor 17 euro.",
       "specs": {
         "Type": "Uitklapbaar hangrek",
@@ -330,7 +334,8 @@
       "low_price": 15.99,
       "prev_price": 16.59,
       "prev_date": "2026-11-08",
-      "ph_ean": "4006501830562"
+      "ph_ean": "4006501830562",
+      "rating": 4.5
     },
     {
       "brand": "Tomado",
@@ -338,7 +343,7 @@
       "price": 34.95,
       "score": 8.5,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Deurdroogrek met 11 meter voor deur of douchewand.",
       "specs": {
         "Type": "Deurrek",
@@ -397,7 +402,8 @@
       "low_price": 29.99,
       "prev_price": 38.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8002524060623"
+      "ph_ean": "8002524060623",
+      "rating": 4.1
     },
     {
       "brand": "Bodo",
@@ -405,7 +411,7 @@
       "price": 26.99,
       "score": 8.4,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Zwart deurdroogrek met 10 meter dat ook aan de wand kan.",
       "specs": {
         "Type": "Deurrek, inklapbaar",
@@ -464,7 +470,8 @@
       "low_price": 26.99,
       "prev_price": 27.04,
       "prev_date": "2026-11-08",
-      "ph_ean": "8721325377043"
+      "ph_ean": "8721325377043",
+      "rating": 4.5
     },
     {
       "brand": "BOTC",
@@ -472,7 +479,7 @@
       "price": 24.98,
       "score": 8.2,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Uitschuifbaar rek dat zich aanpast aan je balkonreling.",
       "specs": {
         "Type": "Uitschuifbaar hangrek",
@@ -531,7 +538,8 @@
       "low_price": 22.48,
       "prev_price": 22.48,
       "prev_date": "2026-10-25",
-      "ph_ean": "8721049735846"
+      "ph_ean": "8721049735846",
+      "rating": 4.1
     },
     {
       "brand": "Tomado",
@@ -539,7 +547,7 @@
       "price": 11.79,
       "score": 8.1,
       "label": null,
-      "reviews": "4,2 sterren op bol",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Klein verstelbaar hangrek voor radiator, deur, douchewand of balkon.",
       "specs": {
         "Type": "Verstelbaar hangrek",
@@ -582,7 +590,8 @@
       "synced": "2026-11-17",
       "prev_price": 16.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "8002524058101"
+      "ph_ean": "8002524058101",
+      "rating": 4.2
     },
     {
       "brand": "Leifheit",
@@ -590,7 +599,7 @@
       "price": 9.99,
       "score": 8.0,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Klein radiatorrek voor sokken en ondergoed onder een tientje.",
       "specs": {
         "Type": "Hangrek",
@@ -649,7 +658,8 @@
       "low_price": 9.99,
       "prev_price": 15.69,
       "prev_date": "2026-11-03",
-      "ph_ean": "4006501830463"
+      "ph_ean": "4006501830463",
+      "rating": 4.5
     }
   ],
   "guide": [

@@ -25,7 +25,7 @@
       "price": 98.99,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Slimme grill die de dikte meet en de gaarheid aangeeft.",
       "specs": {
         "Vermogen": "2000 W",
@@ -88,7 +88,8 @@
       "low_price": 98.99,
       "prev_price": 131.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "3168437251840"
+      "ph_ean": "3168437251840",
+      "rating": 4.9
     },
     {
       "brand": "Philips",
@@ -96,7 +97,7 @@
       "price": 57.99,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Extra grote uitneembare platen voor een middenklasseprijs.",
       "specs": {
         "Vermogen": "2200 W",
@@ -159,7 +160,8 @@
       "low_price": 57.99,
       "prev_price": 67.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8720389035654"
+      "ph_ean": "8720389035654",
+      "rating": 4.7
     },
     {
       "brand": "Tefal",
@@ -167,7 +169,7 @@
       "price": 172.22,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "XL-grill met digitale assistent en 16 programma's.",
       "specs": {
         "Vermogen": "2200 W",
@@ -230,7 +232,8 @@
       "low_price": 172.22,
       "prev_price": 173.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "3168430306097"
+      "ph_ean": "3168430306097",
+      "rating": 4.6
     },
     {
       "brand": "Tefal",
@@ -238,7 +241,7 @@
       "price": 125.0,
       "score": 9.0,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "OptiGrill-gemak met extra grilloppervlak.",
       "specs": {
         "Vermogen": "2000 W",
@@ -301,7 +304,8 @@
       "low_price": 125.0,
       "prev_price": 205.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "3168437251864"
+      "ph_ean": "3168437251864",
+      "rating": 4.8
     },
     {
       "brand": "Tefal",
@@ -309,7 +313,7 @@
       "price": 201.0,
       "score": 8.9,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "OptiGrill met bakschaal voor ovenschotels en pizza.",
       "specs": {
         "Vermogen": "2100 W",
@@ -372,7 +376,8 @@
       "low_price": 187.0,
       "prev_price": 192.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "3168437249625"
+      "ph_ean": "3168437249625",
+      "rating": 4.9
     },
     {
       "brand": "Philips",
@@ -380,7 +385,7 @@
       "price": 93.0,
       "score": 8.6,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Contactgrill met digitaal display en kernthermometer.",
       "specs": {
         "Vermogen": "2200 W",
@@ -443,7 +448,8 @@
       "low_price": 93.0,
       "prev_price": 98.75,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720389035678"
+      "ph_ean": "8720389035678",
+      "rating": 4.4
     },
     {
       "brand": "Tefal",
@@ -451,7 +457,7 @@
       "price": 84.98,
       "score": 8.4,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Compacte grill die je rechtop opbergt.",
       "specs": {
         "Vermogen": "2000 W",
@@ -514,7 +520,8 @@
       "low_price": 84.98,
       "prev_price": 87.99,
       "prev_date": "2026-10-28",
-      "ph_ean": "3168430122130"
+      "ph_ean": "3168430122130",
+      "rating": 4.7
     },
     {
       "brand": "Inventum",
@@ -522,7 +529,7 @@
       "price": 32.99,
       "score": 8.2,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "PFAS-vrije contactgrill met regelbare temperatuur.",
       "specs": {
         "Vermogen": "1800 W",
@@ -585,7 +592,8 @@
       "low_price": 32.99,
       "prev_price": 42.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712876094275"
+      "ph_ean": "8712876094275",
+      "rating": 4.5
     },
     {
       "brand": "Tefal",
@@ -593,7 +601,7 @@
       "price": 40.99,
       "score": 8.0,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Betaalbare Tefal voor tosti's en paninis.",
       "specs": {
         "Vermogen": "2000 W",
@@ -656,7 +664,8 @@
       "low_price": 40.99,
       "prev_price": 48.99,
       "prev_date": "2026-11-04",
-      "ph_ean": "3016661148521"
+      "ph_ean": "3016661148521",
+      "rating": 4.4
     },
     {
       "brand": "Princess",
@@ -664,7 +673,7 @@
       "price": 41.99,
       "score": 7.9,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Groot tosti-apparaat met zwevende bovenplaat.",
       "specs": {
         "Vermogen": "2000 W",
@@ -727,7 +736,8 @@
       "low_price": 41.99,
       "prev_price": 46.95,
       "prev_date": "2026-11-05",
-      "ph_ean": "8713016105646"
+      "ph_ean": "8713016105646",
+      "rating": 4.5
     }
   ],
   "guide": [

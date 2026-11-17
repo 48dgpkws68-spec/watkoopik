@@ -87,7 +87,8 @@
         "2026-11-17": 159.99
       },
       "low_price": 159.99,
-      "ph_ean": "8716164986402"
+      "ph_ean": "8716164986402",
+      "rating": 4.1
     },
     {
       "brand": "VONROC",
@@ -150,7 +151,8 @@
       "low_price": 52.95,
       "prev_price": 54.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8717479104734"
+      "ph_ean": "8717479104734",
+      "rating": 4.1
     },
     {
       "brand": "Dyson",
@@ -158,7 +160,7 @@
       "price": 699.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Dyson-ventilator die je volgt door de kamer en tegelijk de lucht zuivert.",
       "specs": {
         "Type": "Torenventilator met luchtreiniger",
@@ -273,7 +275,8 @@
       },
       "low_price": 139.99,
       "synced": "2026-11-17",
-      "ph_ean": "8716164982947"
+      "ph_ean": "8716164982947",
+      "rating": 4.6
     },
     {
       "brand": "AirKing",
@@ -345,7 +348,8 @@
       "low_price": 119.99,
       "prev_price": 169.99,
       "prev_date": "2026-10-20",
-      "ph_ean": "8720256690917"
+      "ph_ean": "8720256690917",
+      "rating": 4.7
     },
     {
       "brand": "Xiaomi",
@@ -353,7 +357,7 @@
       "price": 76.95,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,3",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Betaalbare slimme statiefventilator die je met app of spraak bedient.",
       "specs": {
         "Type": "Staand, in hoogte verstelbaar",
@@ -403,7 +407,8 @@
       "synced": "2026-11-17",
       "prev_price": 74.99,
       "prev_date": "2026-11-02",
-      "ph_ean": "6934177716836"
+      "ph_ean": "6934177716836",
+      "rating": 4.3
     },
     {
       "brand": "Rowenta",
@@ -411,7 +416,7 @@
       "price": 53.95,
       "score": 8.3,
       "label": null,
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Compacte kolomventilator van Rowenta voor bureau of nachtkastje.",
       "specs": {
         "Type": "Kolomventilator (compact)",
@@ -529,7 +534,8 @@
       },
       "low_price": 119.99,
       "synced": "2026-11-17",
-      "ph_ean": "8720256690894"
+      "ph_ean": "8720256690894",
+      "rating": 4.4
     },
     {
       "brand": "Aigostar",
@@ -537,7 +543,7 @@
       "price": 93.62,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Stille statiefventilator met zeven bladen voor een vriendelijke prijs.",
       "specs": {
         "Type": "Statiefventilator",
@@ -601,7 +607,8 @@
       "low_price": 76.0,
       "ph_ean": "8433325330613",
       "prev_price": 76.0,
-      "prev_date": "2026-11-13"
+      "prev_date": "2026-11-13",
+      "rating": 4.6
     },
     {
       "brand": "CREATE",
@@ -609,7 +616,7 @@
       "price": 36.95,
       "score": 7.8,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Opvouwbare ventilator die je na de zomer klein opbergt.",
       "specs": {
         "Type": "Staand, opvouwbaar",
@@ -673,7 +680,8 @@
       "low_price": 36.95,
       "ph_ean": "8435572644130",
       "prev_price": 39.95,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     }
   ],
   "guide": [

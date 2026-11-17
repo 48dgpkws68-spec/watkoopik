@@ -25,7 +25,7 @@
       "price": 314.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Diepe 16 mm-slag, app-begeleiding en sterke bouw van het merk dat de massage gun groot maakte.",
       "specs": {
         "Gewicht": "ca. 1,2 kg",
@@ -74,7 +74,8 @@
       "synced": "2026-11-17",
       "ph_ean": "0810036058766",
       "prev_price": 309.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.0
     },
     {
       "brand": "Therabody",
@@ -82,7 +83,7 @@
       "price": 499.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Professioneel topmodel met warmte, vibratie en ledlichttherapie.",
       "specs": {
         "Gewicht": "ca. 1,3 kg",
@@ -145,7 +146,8 @@
       "low_price": 499.0,
       "prev_price": 549.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "0840295401898"
+      "ph_ean": "0840295401898",
+      "rating": 5.0
     },
     {
       "brand": "Hyperice",
@@ -153,7 +155,7 @@
       "price": 329.0,
       "score": 8.9,
       "label": null,
-      "reviews": "nog weinig reviews",
+      "reviews": "",
       "oneliner": "Krachtig massagepistool met vijf snelheden en stille motor.",
       "specs": {
         "Gewicht": "ca. 1,2 kg",
@@ -216,7 +218,7 @@
       "price": 179.0,
       "score": 8.8,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "",
       "oneliner": "Krachtig zakformaat met 12 mm-slag voor in de sporttas.",
       "specs": {
         "Gewicht": "ca. 0,33 kg",
@@ -286,7 +288,7 @@
       "price": 245.0,
       "score": 8.7,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Nieuwe Hypervolt met vijf snelheden, warmtekop en app voor een lagere prijs dan de Pro.",
       "specs": {
         "Gewicht": "niet opgegeven",
@@ -330,7 +332,7 @@
       "price": 99.0,
       "score": 8.5,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Lichte en eenvoudige Theragun voor dagelijkse ontspanning.",
       "specs": {
         "Gewicht": "ca. 0,6 kg",
@@ -392,7 +394,8 @@
       "low_price": 99.0,
       "prev_price": 149.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "0840295402314"
+      "ph_ean": "0840295402314",
+      "rating": 5.0
     },
     {
       "brand": "RENPHO",
@@ -400,7 +403,7 @@
       "price": 99.95,
       "score": 8.4,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "",
       "oneliner": "Massage gun met warm- en koudekop voor rond de honderd euro.",
       "specs": {
         "Gewicht": "ca. 0,7 kg",
@@ -468,7 +471,7 @@
       "price": 79.99,
       "score": 8.3,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Complete set met koffer, warmte-opzetstuk en zeven koppen.",
       "specs": {
         "Gewicht": "ca. 0,9 kg",
@@ -530,7 +533,8 @@
       "low_price": 79.99,
       "prev_price": 89.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "5430001973792"
+      "ph_ean": "5430001973792",
+      "rating": 4.7
     },
     {
       "brand": "Maicura",
@@ -538,7 +542,7 @@
       "price": 54.99,
       "score": 8.2,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betaalbare massage gun met tien koppen en koffer.",
       "specs": {
         "Gewicht": "ca. 0,9 kg",
@@ -600,7 +604,8 @@
       "low_price": 54.99,
       "prev_price": 59.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "8720892514202"
+      "ph_ean": "8720892514202",
+      "rating": 4.7
     },
     {
       "brand": "MusclePro",
@@ -659,7 +664,8 @@
       "synced": "2026-11-17",
       "prev_price": 37.95,
       "prev_date": "2026-10-31",
-      "ph_ean": "8720892099600"
+      "ph_ean": "8720892099600",
+      "rating": 4.6
     }
   ],
   "guide": [

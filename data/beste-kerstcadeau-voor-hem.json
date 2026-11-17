@@ -70,7 +70,8 @@
       },
       "low_price": 106.0,
       "synced": "2026-11-17",
-      "ph_ean": "1200130019272"
+      "ph_ean": "1200130019272",
+      "rating": 4.6
     },
     {
       "brand": "Philips",
@@ -123,7 +124,8 @@
       "synced": "2026-11-17",
       "prev_price": 54.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720689027342"
+      "ph_ean": "8720689027342",
+      "rating": 4.3
     },
     {
       "brand": "Garmin",
@@ -131,7 +133,7 @@
       "price": 179.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Sporthorloge met GPS en helder AMOLED-scherm voor goede voornemens.",
       "specs": {
         "Soort": "Sporthorloge",
@@ -174,7 +176,8 @@
       },
       "low_price": 179.0,
       "synced": "2026-11-17",
-      "ph_ean": "0753759326593"
+      "ph_ean": "0753759326593",
+      "rating": 4.6
     },
     {
       "brand": "Sony",
@@ -227,7 +230,8 @@
       "synced": "2026-11-17",
       "prev_price": 71.39,
       "prev_date": "2026-11-10",
-      "ph_ean": "4548736142428"
+      "ph_ean": "4548736142428",
+      "rating": 4.3
     },
     {
       "brand": "MEATER",
@@ -235,7 +239,7 @@
       "price": 77.94,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Draadloze thermometer die het kerstvlees precies goed laat worden.",
       "specs": {
         "Soort": "Vleesthermometer",
@@ -280,7 +284,8 @@
       "synced": "2026-11-17",
       "prev_price": 75.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "5060480240407"
+      "ph_ean": "5060480240407",
+      "rating": 5.0
     },
     {
       "brand": "LEGO",
@@ -288,7 +293,7 @@
       "price": 159.94,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,9 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Grote F1-bouwset voor rustige avonden tussen Kerst en oud en nieuw.",
       "specs": {
         "Soort": "Bouwset",
@@ -333,7 +338,8 @@
       "synced": "2026-11-17",
       "prev_price": 159.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "5702017816296"
+      "ph_ean": "5702017816296",
+      "rating": 4.8
     },
     {
       "brand": "Rituals",
@@ -341,7 +347,7 @@
       "price": 52.5,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Verzorgingsset in cadeaudoos met douchegel, shampoo, scrub en parfum.",
       "specs": {
         "Soort": "Verzorgingsset",
@@ -386,7 +392,8 @@
       "synced": "2026-11-17",
       "prev_price": 49.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "8719134100105"
+      "ph_ean": "8719134100105",
+      "rating": 5.0
     },
     {
       "brand": "Stanley",
@@ -439,7 +446,8 @@
       "synced": "2026-11-17",
       "prev_price": 42.98,
       "prev_date": "2026-11-14",
-      "ph_ean": "1200185004612"
+      "ph_ean": "1200185004612",
+      "rating": 4.6
     },
     {
       "brand": "Victorinox",
@@ -490,7 +498,8 @@
       },
       "low_price": 36.08,
       "synced": "2026-11-17",
-      "ph_ean": "7611160100283"
+      "ph_ean": "7611160100283",
+      "rating": 4.6
     },
     {
       "brand": "Whisiskey",
@@ -543,7 +552,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8720174772429",
       "prev_price": 29.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     }
   ],
   "guide": [

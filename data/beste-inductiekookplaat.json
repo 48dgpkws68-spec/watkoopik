@@ -24,7 +24,7 @@
       "price": 639.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Flexinductie met bak- en kooksensor voor voorspelbaar resultaat.",
       "specs": {
         "Breedte": "60 cm",
@@ -67,7 +67,8 @@
       "synced": "2026-11-17",
       "prev_price": 543.15,
       "prev_date": "2026-11-16",
-      "ph_ean": "4242002848969"
+      "ph_ean": "4242002848969",
+      "rating": 4.5
     },
     {
       "brand": "Siemens",
@@ -75,7 +76,7 @@
       "price": 1086.0,
       "score": 9.0,
       "label": null,
-      "reviews": "5,0/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Brede Siemens met flexzones en koppeling met de afzuigkap.",
       "specs": {
         "Breedte": "80 cm",
@@ -137,7 +138,8 @@
         "2026-11-17": 1086.0
       },
       "low_price": 1086.0,
-      "ph_ean": "4242003935637"
+      "ph_ean": "4242003935637",
+      "rating": 5.0
     },
     {
       "brand": "AEG",
@@ -145,7 +147,7 @@
       "price": 649.0,
       "score": 8.8,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "",
       "oneliner": "80 cm inductie met Hob2Hood en brede brugfunctie.",
       "specs": {
         "Breedte": "80 cm",
@@ -215,7 +217,7 @@
       "price": 265.92,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "2.100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Degelijke 60 cm instapper die gewoon doet wat hij moet.",
       "specs": {
         "Breedte": "60 cm",
@@ -277,7 +279,8 @@
         "2026-11-17": 265.92
       },
       "low_price": 265.92,
-      "ph_ean": "4242005285082"
+      "ph_ean": "4242005285082",
+      "rating": 5.0
     },
     {
       "brand": "Samsung",
@@ -285,7 +288,7 @@
       "price": 449.0,
       "score": 8.3,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "",
       "oneliner": "Flexzone en wifi voor een middenklasseprijs.",
       "specs": {
         "Breedte": "60 cm",
@@ -354,7 +357,7 @@
       "price": 749.0,
       "score": 8.9,
       "label": null,
-      "reviews": "5,0/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Brede Bosch Serie 8 met PerfectFry en extra breed bedieningspaneel.",
       "specs": {
         "Breedte": "90 cm",
@@ -418,7 +421,8 @@
       "low_price": 745.0,
       "prev_price": 769.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "4242002838854"
+      "ph_ean": "4242002838854",
+      "rating": 5.0
     },
     {
       "brand": "Siemens",
@@ -426,7 +430,7 @@
       "price": 2099.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "Beoordeeld op bol",
+      "reviews": "",
       "oneliner": "Kookplaat met ingebouwde afzuiging, zodat een afzuigkap overbodig wordt.",
       "specs": {
         "Breedte": "80 cm",
@@ -496,7 +500,7 @@
       "price": 529.0,
       "score": 8.4,
       "label": null,
-      "reviews": "1.000+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Compacte 60 cm met Hob2Hood en brugfunctie.",
       "specs": {
         "Breedte": "60 cm",
@@ -558,7 +562,8 @@
         "2026-11-17": 529.0
       },
       "low_price": 529.0,
-      "ph_ean": "7332543592326"
+      "ph_ean": "7332543592326",
+      "rating": 4.3
     },
     {
       "brand": "Inventum",
@@ -566,7 +571,7 @@
       "price": 246.0,
       "score": 7.9,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Nederlands merk met inbouwinductie voor een lage prijs.",
       "specs": {
         "Breedte": "60 cm",
@@ -630,7 +635,8 @@
       "low_price": 229.0,
       "prev_price": 229.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8712876171792"
+      "ph_ean": "8712876171792",
+      "rating": 4.6
     },
     {
       "brand": "Bosch",
@@ -638,7 +644,7 @@
       "price": 409.0,
       "score": 8.2,
       "label": null,
-      "reviews": "5,0/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Degelijke 60 cm Bosch met PowerBoost voor een gemiddeld budget.",
       "specs": {
         "Breedte": "60 cm",
@@ -702,7 +708,8 @@
       "low_price": 385.0,
       "prev_price": 450.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "4242005289356"
+      "ph_ean": "4242005289356",
+      "rating": 5.0
     }
   ],
   "guide": [

@@ -27,7 +27,7 @@
       "price": 42.53,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Luxe verzorgingsset in cadeaudoos, direct klaar om te geven.",
       "specs": {
         "Soort": "Verzorgingsset",
@@ -73,7 +73,8 @@
       "synced": "2026-11-17",
       "prev_price": 34.1,
       "prev_date": "2026-11-06",
-      "ph_ean": "8719134201727"
+      "ph_ean": "8719134201727",
+      "rating": 5.0
     },
     {
       "brand": "999 Games",
@@ -81,7 +82,7 @@
       "price": 28.49,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Klassiek handelsspel voor lange avonden aan de keukentafel.",
       "specs": {
         "Soort": "Bordspel",
@@ -127,7 +128,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8717249196235",
       "prev_price": 34.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "LEGO",
@@ -135,7 +137,7 @@
       "price": 49.99,
       "score": 8.9,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Bouwbare kerstster die nooit verwelkt en elk jaar terugkomt.",
       "specs": {
         "Soort": "Bouwset",
@@ -181,7 +183,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702017747682",
       "prev_price": 43.89,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.9
     },
     {
       "brand": "JBL",
@@ -189,7 +192,7 @@
       "price": 45.75,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Kleine waterdichte speaker met vol geluid voor zijn formaat.",
       "specs": {
         "Soort": "Bluetooth speaker",
@@ -233,7 +236,8 @@
       },
       "low_price": 45.75,
       "synced": "2026-11-17",
-      "ph_ean": "1200130034282"
+      "ph_ean": "1200130034282",
+      "rating": 4.7
     },
     {
       "brand": "Yankee Candle",
@@ -241,7 +245,7 @@
       "price": 29.46,
       "score": 8.7,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Grote geurkaars met de zoete geur van kerstkoekjes.",
       "specs": {
         "Soort": "Geurkaars",
@@ -287,7 +291,8 @@
       "synced": "2026-11-17",
       "prev_price": 29.81,
       "prev_date": "2026-11-16",
-      "ph_ean": "5038581129372"
+      "ph_ean": "5038581129372",
+      "rating": 4.6
     },
     {
       "brand": "Beurer",
@@ -295,7 +300,7 @@
       "price": 44.99,
       "score": 8.6,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Elektrisch warmtekussen met zachte fleecehoes voor koude avonden.",
       "specs": {
         "Soort": "Warmtekussen",
@@ -341,7 +346,8 @@
       "synced": "2026-11-17",
       "prev_price": 38.8,
       "prev_date": "2026-11-11",
-      "ph_ean": "4211125275013"
+      "ph_ean": "4211125275013",
+      "rating": 4.7
     },
     {
       "brand": "Philips",
@@ -349,7 +355,7 @@
       "price": 34.1,
       "score": 8.5,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Trimt, scheert en maakt randen strak met één apparaat.",
       "specs": {
         "Soort": "Baardtrimmer",
@@ -395,7 +401,8 @@
       "synced": "2026-11-17",
       "prev_price": 34.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720689029094"
+      "ph_ean": "8720689029094",
+      "rating": 4.6
     },
     {
       "brand": "Tristar",
@@ -403,7 +410,7 @@
       "price": 30.99,
       "score": 8.4,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Gourmetstel voor acht personen met PFAS-vrije bakplaat.",
       "specs": {
         "Soort": "Gourmetstel",
@@ -449,7 +456,8 @@
       "synced": "2026-11-17",
       "prev_price": 37.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712836973251"
+      "ph_ean": "8712836973251",
+      "rating": 3.9
     },
     {
       "brand": "Jan van Haasteren",
@@ -457,7 +465,7 @@
       "price": 18.99,
       "score": 8.3,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Grappige kerstpuzzel vol verborgen grapjes voor lange winteravonden.",
       "specs": {
         "Soort": "Legpuzzel",
@@ -503,7 +511,8 @@
       "synced": "2026-11-17",
       "prev_price": 15.95,
       "prev_date": "2026-11-01",
-      "ph_ean": "8710126130070"
+      "ph_ean": "8710126130070",
+      "rating": 4.8
     },
     {
       "brand": "Bialetti",
@@ -511,7 +520,7 @@
       "price": 30.95,
       "score": 8.2,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Klassieke Italiaanse espressopot voor sterke koffie op het fornuis.",
       "specs": {
         "Soort": "Espressopot",
@@ -557,7 +566,8 @@
       "synced": "2026-11-17",
       "prev_price": 31.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8006363011631"
+      "ph_ean": "8006363011631",
+      "rating": 4.6
     }
   ],
   "guide": [

@@ -65,7 +65,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702017815206",
       "prev_price": 52.9,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.8
     },
     {
       "brand": "LEGO",
@@ -108,7 +109,8 @@
       },
       "low_price": 62.99,
       "synced": "2026-11-17",
-      "ph_ean": "5702017583716"
+      "ph_ean": "5702017583716",
+      "rating": 5.0
     },
     {
       "brand": "LEGO",
@@ -153,7 +155,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702015357197",
       "prev_price": 35.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "LEGO",
@@ -198,7 +201,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702017585086",
       "prev_price": 175.0,
-      "prev_date": "2026-11-13"
+      "prev_date": "2026-11-13",
+      "rating": 5.0
     },
     {
       "brand": "LEGO",
@@ -243,7 +247,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702017812847",
       "prev_price": 37.49,
-      "prev_date": "2026-11-13"
+      "prev_date": "2026-11-13",
+      "rating": 4.8
     },
     {
       "brand": "LEGO",
@@ -288,7 +293,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702017155593",
       "prev_price": 27.98,
-      "prev_date": "2026-11-12"
+      "prev_date": "2026-11-12",
+      "rating": 4.9
     },
     {
       "brand": "LEGO",
@@ -331,7 +337,8 @@
       },
       "low_price": 37.99,
       "synced": "2026-11-17",
-      "ph_ean": "5702017424842"
+      "ph_ean": "5702017424842",
+      "rating": 4.8
     },
     {
       "brand": "LEGO",
@@ -376,7 +383,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702017815435",
       "prev_price": 22.49,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "LEGO",
@@ -421,7 +429,8 @@
       "synced": "2026-11-17",
       "prev_price": 39.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "5702017583518"
+      "ph_ean": "5702017583518",
+      "rating": 4.7
     },
     {
       "brand": "LEGO",
@@ -466,7 +475,8 @@
       "synced": "2026-11-17",
       "prev_price": 34.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "5702016617757"
+      "ph_ean": "5702016617757",
+      "rating": 4.9
     }
   ],
   "guide": [

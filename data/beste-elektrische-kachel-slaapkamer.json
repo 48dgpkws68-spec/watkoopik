@@ -28,7 +28,7 @@
       "price": 219.99,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Slimme olieradiator met app, weekschema en gedimd display.",
       "specs": {
         "Type": "Oliegevuld",
@@ -81,7 +81,8 @@
       "synced": "2026-11-17",
       "prev_price": 223.3,
       "prev_date": "2026-11-10",
-      "ph_ean": "8716164989038"
+      "ph_ean": "8716164989038",
+      "rating": 4.1
     },
     {
       "brand": "Eurom",
@@ -89,7 +90,7 @@
       "price": 90.69,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Stille aluminium convector van 1000 watt met app en weektimer.",
       "specs": {
         "Type": "Convector",
@@ -142,7 +143,8 @@
       "synced": "2026-11-17",
       "prev_price": 86.21,
       "prev_date": "2026-11-16",
-      "ph_ean": "8713415360714"
+      "ph_ean": "8713415360714",
+      "rating": 4.2
     },
     {
       "brand": "Adax",
@@ -150,7 +152,7 @@
       "price": 209.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Noorse paneelkachel met nauwkeurige thermostaat en open-raamdetectie.",
       "specs": {
         "Type": "Paneelconvector",
@@ -201,7 +203,8 @@
       },
       "low_price": 209.0,
       "synced": "2026-11-17",
-      "ph_ean": "7040664100442"
+      "ph_ean": "7040664100442",
+      "rating": 4.9
     },
     {
       "brand": "Mill",
@@ -209,7 +212,7 @@
       "price": 176.0,
       "score": 8.8,
       "label": null,
-      "reviews": "4,4/5 op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Stille design-olieradiator van 1000 watt met dag- en nachtprogramma zonder app.",
       "specs": {
         "Type": "Oliegevuld",
@@ -249,7 +252,8 @@
       "synced": "2026-11-17",
       "ph_ean": "7090019822000",
       "prev_price": 219.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.4
     },
     {
       "brand": "Mill",
@@ -257,7 +261,7 @@
       "price": 189.0,
       "score": 8.7,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Zwarte wifi-convector van 1200 watt die volkomen stil verwarmt.",
       "specs": {
         "Type": "Convector",
@@ -310,7 +314,8 @@
       "synced": "2026-11-17",
       "prev_price": 159.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "7090019824691"
+      "ph_ean": "7090019824691",
+      "rating": 4.5
     },
     {
       "brand": "Princess",
@@ -318,7 +323,7 @@
       "price": 79.99,
       "score": 8.5,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Glazen paneelkachel met touchscreen, app en weekprogramma.",
       "specs": {
         "Type": "Glazen paneelconvector",
@@ -371,7 +376,8 @@
       "synced": "2026-11-17",
       "prev_price": 84.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "8711658531809"
+      "ph_ean": "8711658531809",
+      "rating": 4.4
     },
     {
       "brand": "Dimplex",
@@ -379,7 +385,7 @@
       "price": 89.99,
       "score": 8.4,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Slimme convector met drie standen en wifi voor grotere slaapkamers.",
       "specs": {
         "Type": "Convector",
@@ -432,7 +438,8 @@
       "synced": "2026-11-17",
       "prev_price": 104.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8716412237225"
+      "ph_ean": "8716412237225",
+      "rating": 4.2
     },
     {
       "brand": "Komodo",
@@ -440,7 +447,7 @@
       "price": 99.95,
       "score": 8.3,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Zuinig infraroodpaneel dat geruisloos stralingswarmte geeft.",
       "specs": {
         "Type": "Infraroodpaneel",
@@ -491,7 +498,8 @@
       },
       "low_price": 99.95,
       "synced": "2026-11-17",
-      "ph_ean": "8720892731531"
+      "ph_ean": "8720892731531",
+      "rating": 4.2
     },
     {
       "brand": "Auronic",
@@ -499,7 +507,7 @@
       "price": 69.99,
       "score": 8.2,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Betaalbare olieradiator met drie standen en regelbare thermostaat.",
       "specs": {
         "Type": "Oliegevuld",
@@ -552,7 +560,8 @@
       "synced": "2026-11-17",
       "prev_price": 74.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720195258599"
+      "ph_ean": "8720195258599",
+      "rating": 4.4
     },
     {
       "brand": "Tristar",
@@ -560,7 +569,7 @@
       "price": 54.99,
       "score": 7.9,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Eenvoudige olieradiator van 2000 watt voor een kleine prijs.",
       "specs": {
         "Type": "Oliegevuld",
@@ -611,7 +620,8 @@
       },
       "low_price": 54.99,
       "synced": "2026-11-17",
-      "ph_ean": "8711658522555"
+      "ph_ean": "8711658522555",
+      "rating": 3.8
     }
   ],
   "guide": [

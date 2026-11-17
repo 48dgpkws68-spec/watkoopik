@@ -24,7 +24,7 @@
       "price": 189.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "3.100+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Navulbaar sledemodel dat onbeperkt doorstoomt voor het hele huis.",
       "specs": {
         "Type": "Sledemodel",
@@ -68,7 +68,8 @@
       "synced": "2026-11-17",
       "prev_price": 222.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "4054278991818"
+      "ph_ean": "4054278991818",
+      "rating": 4.0
     },
     {
       "brand": "Kärcher",
@@ -76,7 +77,7 @@
       "price": 144.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "2.600+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Stoomt al na 30 seconden, met verwisselbare kalkpatroon.",
       "specs": {
         "Type": "Sledemodel",
@@ -140,7 +141,8 @@
       "low_price": 144.99,
       "prev_price": 146.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "4054278975139"
+      "ph_ean": "4054278975139",
+      "rating": 4.4
     },
     {
       "brand": "Kärcher",
@@ -148,7 +150,7 @@
       "price": 349.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Krachtigste stoomreiniger met VapoHydro-functie voor hardnekkig vuil.",
       "specs": {
         "Type": "Sledemodel",
@@ -212,7 +214,8 @@
       "low_price": 349.0,
       "prev_price": 369.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4066529060365"
+      "ph_ean": "4066529060365",
+      "rating": 4.7
     },
     {
       "brand": "Kärcher",
@@ -268,7 +271,8 @@
       "synced": "2026-11-17",
       "prev_price": 113.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4054278975122"
+      "ph_ean": "4054278975122",
+      "rating": 4.3
     },
     {
       "brand": "Polti",
@@ -276,7 +280,7 @@
       "price": 112.64,
       "score": 8.6,
       "label": null,
-      "reviews": "Nog weinig reviews op bol",
+      "reviews": "",
       "oneliner": "Stoommop met afneembare handstomer voor vloer en keuken.",
       "specs": {
         "Type": "Stoommop met handstomer",
@@ -324,7 +328,7 @@
       "price": 139.0,
       "score": 8.4,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Stoommop met deltavoet en SteaMitt voor ramen en wanden.",
       "specs": {
         "Type": "Stoommop met handstomer",
@@ -387,7 +391,8 @@
       "low_price": 129.0,
       "prev_price": 130.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "5035048737804"
+      "ph_ean": "5035048737804",
+      "rating": 4.1
     },
     {
       "brand": "Kärcher",
@@ -395,7 +400,7 @@
       "price": 89.39,
       "score": 8.3,
       "label": null,
-      "reviews": "1.200+ reviews",
+      "reviews": "bol-score 3,4 van 5",
       "oneliner": "Compacte handstomer die je met steel ook als vloermop gebruikt.",
       "specs": {
         "Type": "Handstomer",
@@ -458,7 +463,8 @@
       "low_price": 89.39,
       "prev_price": 99.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4054278975733"
+      "ph_ean": "4054278975733",
+      "rating": 3.4
     },
     {
       "brand": "Shark",
@@ -500,7 +506,8 @@
         "2026-11-17": 122.99
       },
       "low_price": 122.99,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.5
     },
     {
       "brand": "Polti",
@@ -508,7 +515,7 @@
       "price": 116.0,
       "score": 8.0,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Betaalbare stoommop met afneembare handstomer.",
       "specs": {
         "Type": "Stoommop met handstomer",
@@ -571,7 +578,8 @@
       "low_price": 95.78,
       "prev_price": 125.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "8007411012600"
+      "ph_ean": "8007411012600",
+      "rating": 5.0
     },
     {
       "brand": "Vileda",
@@ -579,7 +587,7 @@
       "price": 68.0,
       "score": 8.1,
       "label": null,
-      "reviews": "1.000+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Betaalbare stoommop met driehoekige voet en grote doek.",
       "specs": {
         "Type": "Stoommop",
@@ -642,7 +650,8 @@
       "low_price": 66.57,
       "prev_price": 66.57,
       "prev_date": "2026-11-14",
-      "ph_ean": "4023103229716"
+      "ph_ean": "4023103229716",
+      "rating": 4.3
     }
   ],
   "guide": [

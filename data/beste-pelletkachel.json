@@ -25,7 +25,7 @@
       "price": 1699.0,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "40+ reviews",
+      "reviews": "",
       "oneliner": "Zuinige 8 kW-kachel met toprendement en gratis ingebruikstelling.",
       "specs": {
         "Vermogen": "8 kW",
@@ -90,7 +90,7 @@
       "price": 1359.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "30+ reviews",
+      "reviews": "",
       "oneliner": "Italiaanse 8 kW-kachel voor een scherpe prijs.",
       "specs": {
         "Vermogen": "8 kW",
@@ -153,7 +153,7 @@
       "price": 2199.0,
       "score": 8.7,
       "label": "Beste premium",
-      "reviews": "20+ reviews",
+      "reviews": "",
       "oneliner": "Designkachel met afgeronde vormen voor in het zicht.",
       "specs": {
         "Vermogen": "7 kW",
@@ -215,7 +215,7 @@
       "price": 1571.65,
       "score": 8.6,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "",
       "oneliner": "Extra grote pelletbak, dus minder vaak bijvullen.",
       "specs": {
         "Vermogen": "8 kW",
@@ -279,7 +279,7 @@
       "price": 1299.0,
       "score": 8.5,
       "label": null,
-      "reviews": "nog weinig reviews",
+      "reviews": "",
       "oneliner": "Luchtdichte compacte kachel met hoog rendement en groot reservoir.",
       "specs": {
         "Vermogen": "ca. 6 kW",
@@ -327,7 +327,7 @@
       "price": 1159.0,
       "score": 8.4,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Veel vermogen en wifi voor een lage prijs.",
       "specs": {
         "Vermogen": "9 kW",
@@ -382,7 +382,8 @@
         "2026-11-17": 1159.0
       },
       "low_price": 1159.0,
-      "ph_ean": "5906765564410"
+      "ph_ean": "5906765564410",
+      "rating": 5.0
     },
     {
       "brand": "THUNDER",
@@ -390,7 +391,7 @@
       "price": 1030.0,
       "score": 8.3,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Compacte 6 kW-kachel met wifi en rookkanaalset voor kleinere ruimtes.",
       "specs": {
         "Vermogen": "6 kW (max. 8 kW)",
@@ -432,7 +433,8 @@
       },
       "low_price": 1030.0,
       "synced": "2026-11-17",
-      "ph_ean": "5906765561273"
+      "ph_ean": "5906765561273",
+      "rating": 5.0
     },
     {
       "brand": "Fair",
@@ -440,7 +442,7 @@
       "price": 1600.0,
       "score": 8.2,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "Programmeerbare 8 kW-kachel met frontventilatie.",
       "specs": {
         "Vermogen": "8 kW",
@@ -502,7 +504,7 @@
       "price": 1149.0,
       "score": 8.1,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "Betaalbare 6 kW-kachel in drie kleuren.",
       "specs": {
         "Vermogen": "6 kW",
@@ -564,7 +566,7 @@
       "price": 1569.99,
       "score": 8.0,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Krachtige 11 kW-kachel met wifi voor grote ruimtes.",
       "specs": {
         "Vermogen": "11 kW",
@@ -618,7 +620,8 @@
         "2026-11-17": 1569.99
       },
       "low_price": 1569.99,
-      "ph_ean": "5904161759843"
+      "ph_ean": "5904161759843",
+      "rating": 5.0
     }
   ],
   "guide": [

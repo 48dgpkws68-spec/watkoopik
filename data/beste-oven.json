@@ -25,7 +25,7 @@
       "price": 849.0,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "120+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Complete inbouwoven met pyrolyse, Air Fry en Home Connect.",
       "specs": {
         "Inhoud": "71 l",
@@ -86,7 +86,8 @@
       "low_price": 799.0,
       "prev_price": 827.77,
       "prev_date": "2026-10-29",
-      "ph_ean": "4242005326563"
+      "ph_ean": "4242005326563",
+      "rating": 5.0
     },
     {
       "brand": "Whirlpool",
@@ -94,7 +95,7 @@
       "price": 429.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Zwarte inbouwoven met pyrolyse voor ruim 400 euro.",
       "specs": {
         "Inhoud": "71 l",
@@ -156,7 +157,7 @@
       "price": 1229.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Heteluchtoven met stoomondersteuning voor brood, vis en vlees.",
       "specs": {
         "Inhoud": "71 l",
@@ -217,7 +218,8 @@
       "low_price": 1229.0,
       "ph_ean": "4242005327188",
       "prev_price": 1279.0,
-      "prev_date": "2026-11-11"
+      "prev_date": "2026-11-11",
+      "rating": 5.0
     },
     {
       "brand": "Siemens",
@@ -225,7 +227,7 @@
       "price": 659.0,
       "score": 9.1,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Pyrolyse-oven met strak display en snelle opwarming.",
       "specs": {
         "Inhoud": "71 l",
@@ -286,7 +288,8 @@
       "low_price": 659.0,
       "prev_price": 729.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "4242003956267"
+      "ph_ean": "4242003956267",
+      "rating": 5.0
     },
     {
       "brand": "AEG",
@@ -294,7 +297,7 @@
       "price": 649.0,
       "score": 8.9,
       "label": null,
-      "reviews": "70+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Pyrolyse-oven met kerntemperatuurvoeler voor perfect vlees.",
       "specs": {
         "Inhoud": "71 l",
@@ -353,7 +356,8 @@
         "2026-11-17": 649.0
       },
       "low_price": 649.0,
-      "ph_ean": "7333394107905"
+      "ph_ean": "7333394107905",
+      "rating": 4.7
     },
     {
       "brand": "Bosch",
@@ -361,7 +365,7 @@
       "price": 439.0,
       "score": 8.8,
       "label": null,
-      "reviews": "90+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Degelijke Bosch-oven met 3D hetelucht en eenvoudige bediening.",
       "specs": {
         "Inhoud": "71 l",
@@ -420,7 +424,8 @@
         "2026-11-17": 439.0
       },
       "low_price": 439.0,
-      "ph_ean": "4242005464432"
+      "ph_ean": "4242005464432",
+      "rating": 5.0
     },
     {
       "brand": "ETNA",
@@ -428,7 +433,7 @@
       "price": 447.0,
       "score": 8.7,
       "label": null,
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Matzwarte pyrolyse-oven die tot 300 graden gaat voor pizza.",
       "specs": {
         "Inhoud": "77 l",
@@ -487,7 +492,8 @@
         "2026-11-17": 447.0
       },
       "low_price": 447.0,
-      "ph_ean": "8715393362094"
+      "ph_ean": "8715393362094",
+      "rating": 4.3
     },
     {
       "brand": "Electrolux",
@@ -495,7 +501,7 @@
       "price": 429.0,
       "score": 8.6,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Ruime pyrolyse-oven met SurroundCook voor een scherpe prijs.",
       "specs": {
         "Inhoud": "72 l",
@@ -554,7 +560,8 @@
         "2026-11-17": 429.0
       },
       "low_price": 429.0,
-      "ph_ean": "7332543828715"
+      "ph_ean": "7332543828715",
+      "rating": 5.0
     },
     {
       "brand": "Inventum",
@@ -562,7 +569,7 @@
       "price": 252.0,
       "score": 8.2,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Betaalbare inbouwoven met hetelucht en grill in acht standen.",
       "specs": {
         "Inhoud": "65 l",
@@ -624,7 +631,8 @@
       "low_price": 252.0,
       "prev_price": 339.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "8712876171006"
+      "ph_ean": "8712876171006",
+      "rating": 4.4
     },
     {
       "brand": "Beko",
@@ -632,7 +640,7 @@
       "price": 290.0,
       "score": 8.1,
       "label": null,
-      "reviews": "70+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Eenvoudige multifunctionele oven met ruime binnenruimte.",
       "specs": {
         "Inhoud": "71 l",
@@ -693,7 +701,8 @@
       "low_price": 279.0,
       "prev_price": 319.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8690842293863"
+      "ph_ean": "8690842293863",
+      "rating": 4.2
     }
   ],
   "guide": [

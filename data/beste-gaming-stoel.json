@@ -25,7 +25,7 @@
       "price": 499.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Stevige allrounder met 4D-armleuningen en magnetisch hoofdkussen.",
       "specs": {
         "Bekleding": "PVC-leer",
@@ -80,7 +80,8 @@
         "2026-11-17": 499.0
       },
       "low_price": 499.0,
-      "ph_ean": "6972417131865"
+      "ph_ean": "6972417131865",
+      "rating": 5.0
     },
     {
       "brand": "Trust",
@@ -88,7 +89,7 @@
       "price": 149.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare stoel met 3D-armleuningen die tot 150 kilo draagt.",
       "specs": {
         "Bekleding": "Stof en PU-leer",
@@ -136,7 +137,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8713439250657",
       "prev_price": 177.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.5
     },
     {
       "brand": "AndaSeat",
@@ -144,7 +146,7 @@
       "price": 726.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "20+ reviews",
+      "reviews": "",
       "oneliner": "Topmodel met 5D-armleuningen en een lendensteun die je overal instelt.",
       "specs": {
         "Bekleding": "Kunstleer",
@@ -209,7 +211,7 @@
       "price": 447.0,
       "score": 9.1,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "",
       "oneliner": "Klassieke Duitse racestoel met ingebouwde verstelbare lendensteun.",
       "specs": {
         "Bekleding": "PU-leer",
@@ -272,7 +274,7 @@
       "price": 250.0,
       "score": 8.9,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Lichte stoffen stoel met een rugleuning die je onderrug volgt.",
       "specs": {
         "Bekleding": "Stof",
@@ -329,7 +331,8 @@
       "low_price": 250.0,
       "prev_price": 252.79,
       "prev_date": "2026-11-16",
-      "ph_ean": "8886419354734"
+      "ph_ean": "8886419354734",
+      "rating": 5.0
     },
     {
       "brand": "AndaSeat",
@@ -337,7 +340,7 @@
       "price": 298.0,
       "score": 8.8,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Middenklasser met dikke schuimvulling en magnetische kussens.",
       "specs": {
         "Bekleding": "PVC-leer",
@@ -372,7 +375,8 @@
       },
       "low_price": 298.0,
       "synced": "2026-11-17",
-      "ph_ean": "6972417132169"
+      "ph_ean": "6972417132169",
+      "rating": 5.0
     },
     {
       "brand": "Arozzi",
@@ -380,7 +384,7 @@
       "price": 239.0,
       "score": 8.6,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "",
       "oneliner": "Brede stoel met zacht kunstleer en ruime zitting.",
       "specs": {
         "Bekleding": "SoftPU-kunstleer",
@@ -445,7 +449,7 @@
       "price": 271.0,
       "score": 8.4,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "",
       "oneliner": "Comfortabele stoffen stoel met brede zitting zonder kuip.",
       "specs": {
         "Bekleding": "Stof",
@@ -508,7 +512,7 @@
       "price": 539.0,
       "score": 8.5,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "Grote stoel voor lange mensen met verstelbare lendensteun.",
       "specs": {
         "Bekleding": "PU-leer en microvezel",
@@ -571,7 +575,7 @@
       "price": 229.0,
       "score": 8.1,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "Klassieke racestoel met 4D-armleuningen voor een scherpe prijs.",
       "specs": {
         "Bekleding": "PVC-leer",

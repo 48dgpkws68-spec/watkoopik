@@ -65,7 +65,8 @@
       "synced": "2026-11-17",
       "ph_ean": "9502524224760",
       "prev_price": 798.75,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 5.0
     },
     {
       "brand": "DJI",
@@ -73,7 +74,7 @@
       "price": 389.95,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,0 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Betaalbare 4K-drone met drie accu's en een echte gimbal.",
       "specs": {
         "Gewicht": "249 gram",
@@ -107,7 +108,8 @@
       },
       "low_price": 389.95,
       "synced": "2026-11-17",
-      "ph_ean": "6941565980397"
+      "ph_ean": "6941565980397",
+      "rating": 4.6
     },
     {
       "brand": "DJI",
@@ -115,7 +117,7 @@
       "price": 1334.93,
       "score": 9.3,
       "label": "Beste premium",
-      "reviews": "nog geen bol-score",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Twee camera's en 45 minuten vliegtijd voor serieuze filmers.",
       "specs": {
         "Gewicht": "724 gram",
@@ -153,7 +155,8 @@
       "synced": "2026-11-17",
       "ph_ean": "6941565989925",
       "prev_price": 1334.95,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     },
     {
       "brand": "DJI",
@@ -161,7 +164,7 @@
       "price": 793.99,
       "score": 9.1,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Complete set met drie accu's en controller met scherm.",
       "specs": {
         "Gewicht": "249 gram",
@@ -198,7 +201,8 @@
       "synced": "2026-11-17",
       "ph_ean": "6941565969101",
       "prev_price": 799.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     },
     {
       "brand": "DJI",
@@ -206,7 +210,7 @@
       "price": 439.99,
       "score": 8.9,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Veilige vouwdrone met beschermde propellers en schermcontroller.",
       "specs": {
         "Gewicht": "249 gram",
@@ -241,7 +245,8 @@
       },
       "low_price": 439.99,
       "synced": "2026-11-17",
-      "ph_ean": "6941565994004"
+      "ph_ean": "6941565994004",
+      "rating": 4.6
     },
     {
       "brand": "DJI",
@@ -287,7 +292,8 @@
       "synced": "2026-11-17",
       "ph_ean": "6937224131767",
       "prev_price": 243.5,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 5.0
     },
     {
       "brand": "Potensic",
@@ -331,7 +337,8 @@
       },
       "low_price": 299.99,
       "synced": "2026-11-17",
-      "ph_ean": "0850045729769"
+      "ph_ean": "0850045729769",
+      "rating": 4.4
     },
     {
       "brand": "DJI",
@@ -339,7 +346,7 @@
       "price": 2399.95,
       "score": 9.2,
       "label": null,
-      "reviews": "bol-score 4,8 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Drie camera's en 100 megapixel voor professioneel werk.",
       "specs": {
         "Gewicht": "1063 gram",
@@ -375,7 +382,8 @@
       },
       "low_price": 2399.95,
       "synced": "2026-11-17",
-      "ph_ean": "6937224109940"
+      "ph_ean": "6937224109940",
+      "rating": 4.6
     },
     {
       "brand": "DJI",
@@ -419,7 +427,8 @@
       },
       "low_price": 244.99,
       "synced": "2026-11-17",
-      "ph_ean": "8720387395798"
+      "ph_ean": "8720387395798",
+      "rating": 4.0
     },
     {
       "brand": "Potensic",
@@ -427,7 +436,7 @@
       "price": 249.99,
       "score": 8.0,
       "label": null,
-      "reviews": "nog geen bol-score",
+      "reviews": "",
       "oneliner": "Instapdrone met gps en lange vliegtijd, zonder gimbal.",
       "specs": {
         "Gewicht": "249 gram",

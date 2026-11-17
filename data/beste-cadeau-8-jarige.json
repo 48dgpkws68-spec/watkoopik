@@ -28,7 +28,7 @@
       "price": 41.62,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Knikkerbaan die je kind zelf ontwerpt, bouwt en steeds verbetert.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 8 jaar",
@@ -65,7 +65,8 @@
       "synced": "2026-11-17",
       "ph_ean": "4005556275977",
       "prev_price": 44.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     },
     {
       "brand": "LEGO",
@@ -73,7 +74,7 @@
       "price": 17.81,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Drie dieren om te bouwen uit één doos van twintig euro.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 8 jaar",
@@ -109,7 +110,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702017822389",
       "prev_price": 19.99,
-      "prev_date": "2026-11-13"
+      "prev_date": "2026-11-13",
+      "rating": 5.0
     },
     {
       "brand": "Clementoni",
@@ -117,7 +119,7 @@
       "price": 27.99,
       "score": 8.9,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Echte microscoop met 1200x vergroting en vijftig proefjes.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 8 jaar",
@@ -154,7 +156,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8005125565979",
       "prev_price": 31.49,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "Jumbo",
@@ -162,7 +165,7 @@
       "price": 29.99,
       "score": 8.8,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Klassiek strategiespel voor twee: verover de vlag van de ander.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 8 jaar",
@@ -198,7 +201,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8710126199572",
       "prev_price": 25.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     },
     {
       "brand": "LEGO",
@@ -206,7 +210,7 @@
       "price": 45.99,
       "score": 8.7,
       "label": null,
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Minecraft-huis in schildpadvorm met drie figuren om na te spelen.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 8 jaar",
@@ -242,7 +246,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702017583303",
       "prev_price": 47.98,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.9
     },
     {
       "brand": "Razor",
@@ -250,7 +255,7 @@
       "price": 79.0,
       "score": 8.6,
       "label": "Beste premium",
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Compact waveboard met ledverlichting voor kinderen die graag buiten zijn.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 8 jaar",
@@ -284,7 +289,8 @@
       },
       "low_price": 79.0,
       "synced": "2026-11-17",
-      "ph_ean": "0845423024673"
+      "ph_ean": "0845423024673",
+      "rating": 5.0
     },
     {
       "brand": "SmartGames",
@@ -292,7 +298,7 @@
       "price": 12.99,
       "score": 8.5,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Compact denkspel met 120 opdrachten in 2D en 3D.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 6 jaar",
@@ -326,7 +332,8 @@
       },
       "low_price": 12.99,
       "synced": "2026-11-17",
-      "ph_ean": "5414301518587"
+      "ph_ean": "5414301518587",
+      "rating": 4.7
     },
     {
       "brand": "Clementoni",
@@ -334,7 +341,7 @@
       "price": 24.99,
       "score": 8.4,
       "label": null,
-      "reviews": "90+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Eigen laboratorium met tientallen veilige scheikundeproefjes voor thuis.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 8 jaar",
@@ -370,7 +377,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8005125561728",
       "prev_price": 29.99,
-      "prev_date": "2026-11-11"
+      "prev_date": "2026-11-11",
+      "rating": 4.5
     },
     {
       "brand": "Nerf",
@@ -378,7 +386,7 @@
       "price": 34.99,
       "score": 8.2,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Blaster met draaiende trommel voor zes zachte darts.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 8 jaar",
@@ -415,7 +423,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5010993725038",
       "prev_price": 38.39,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.5
     },
     {
       "brand": "Jumbo",
@@ -423,7 +432,7 @@
       "price": 11.99,
       "score": 8.0,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Knutselset waarmee je kind een eigen dagboek versiert en vult.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 8 jaar",
@@ -459,7 +468,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8710126199121",
       "prev_price": 14.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.3
     }
   ],
   "guide": [

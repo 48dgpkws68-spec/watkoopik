@@ -24,7 +24,7 @@
       "price": 229.9,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Ruime combimagnetron met hetelucht, grill en stoomfunctie.",
       "specs": {
         "Type": "Combi",
@@ -88,7 +88,8 @@
       "low_price": 229.9,
       "prev_price": 242.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "8003437642968"
+      "ph_ean": "8003437642968",
+      "rating": 4.7
     },
     {
       "brand": "Samsung",
@@ -96,7 +97,7 @@
       "price": 159.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "2.200+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Complete combimagnetron met keramische binnenkant voor een scherpe prijs.",
       "specs": {
         "Type": "Combi",
@@ -160,7 +161,8 @@
       "low_price": 159.0,
       "prev_price": 169.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806086011327"
+      "ph_ean": "8806086011327",
+      "rating": 4.3
     },
     {
       "brand": "SMEG",
@@ -168,7 +170,7 @@
       "price": 399.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "5,0/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Stijlvolle combimagnetron met inverter en softclose-deur.",
       "specs": {
         "Type": "Combi",
@@ -221,7 +223,8 @@
         "2026-11-17": 399.0
       },
       "low_price": 399.0,
-      "ph_ean": "8017709356484"
+      "ph_ean": "8017709356484",
+      "rating": 5.0
     },
     {
       "label": null,
@@ -275,7 +278,8 @@
       },
       "low_price": 159.2,
       "synced": "2026-11-17",
-      "ph_ean": "8715393416636"
+      "ph_ean": "8715393416636",
+      "rating": 5.0
     },
     {
       "brand": "LG",
@@ -283,7 +287,7 @@
       "price": 199.0,
       "score": 8.6,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Grote combimagnetron met Smart Inverter en strakke spiegelfront.",
       "specs": {
         "Type": "Combi",
@@ -348,7 +352,8 @@
       "low_price": 199.0,
       "prev_price": 224.1,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806087801606"
+      "ph_ean": "8806087801606",
+      "rating": 4.5
     },
     {
       "label": null,
@@ -404,7 +409,8 @@
       "synced": "2026-11-17",
       "prev_price": 112.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8712876172751"
+      "ph_ean": "8712876172751",
+      "rating": 4.4
     },
     {
       "brand": "Whirlpool",
@@ -412,7 +418,7 @@
       "price": 129.67,
       "score": 8.3,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Rvs grillmagnetron van 25 liter met Jet Start en ontdooifuncties.",
       "specs": {
         "Type": "Grill",
@@ -476,7 +482,8 @@
       "low_price": 129.67,
       "prev_price": 164.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8003437861536"
+      "ph_ean": "8003437861536",
+      "rating": 4.7
     },
     {
       "brand": "Tomado",
@@ -484,7 +491,7 @@
       "price": 109.0,
       "score": 8.2,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betaalbare combimagnetron van 23 liter met hetelucht en grill.",
       "specs": {
         "Type": "Combi",
@@ -548,7 +555,8 @@
       "low_price": 99.0,
       "prev_price": 99.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "8712876502107"
+      "ph_ean": "8712876502107",
+      "rating": 4.7
     },
     {
       "brand": "Panasonic",
@@ -556,7 +564,7 @@
       "price": 129.16,
       "score": 8.0,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Solo magnetron van Panasonic met rvs-behuizing en eenvoudige bediening.",
       "specs": {
         "Type": "Solo",
@@ -620,7 +628,8 @@
       "low_price": 128.4,
       "prev_price": 135.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "5025232886258"
+      "ph_ean": "5025232886258",
+      "rating": 4.0
     },
     {
       "brand": "Samsung",
@@ -628,7 +637,7 @@
       "price": 91.0,
       "score": 7.9,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 3,3 van 5",
       "oneliner": "Eenvoudige solo magnetron van 20 liter voor een lage prijs.",
       "specs": {
         "Type": "Solo",
@@ -668,7 +677,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8806092628205",
       "prev_price": 94.59,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 3.3
     }
   ],
   "guide": [

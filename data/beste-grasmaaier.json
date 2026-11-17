@@ -25,7 +25,7 @@
       "price": 413.89,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Krachtige 2x18V accumaaier met twee accu's en duolader.",
       "specs": {
         "Type": "Accu 2x18V",
@@ -88,7 +88,8 @@
       "low_price": 389.0,
       "prev_price": 400.17,
       "prev_date": "2026-11-16",
-      "ph_ean": "0088381891158"
+      "ph_ean": "0088381891158",
+      "rating": 4.0
     },
     {
       "brand": "Einhell",
@@ -96,7 +97,7 @@
       "price": 193.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.400+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betaalbare accumaaier met accu en lader voor kleinere gazons.",
       "specs": {
         "Type": "Accu 18V",
@@ -158,7 +159,8 @@
       "low_price": 177.2,
       "prev_price": 188.84,
       "prev_date": "2026-11-12",
-      "ph_ean": "4006825646856"
+      "ph_ean": "4006825646856",
+      "rating": 4.7
     },
     {
       "brand": "Makita",
@@ -166,7 +168,7 @@
       "price": 456.92,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Brede 43 cm accumaaier met 60 liter bak voor grote gazons.",
       "specs": {
         "Type": "Accu 2x18V",
@@ -230,7 +232,8 @@
       "low_price": 439.47,
       "prev_price": 455.6,
       "prev_date": "2026-11-16",
-      "ph_ean": "0088381891202"
+      "ph_ean": "0088381891202",
+      "rating": 4.3
     },
     {
       "brand": "Bosch",
@@ -238,7 +241,7 @@
       "price": 239.2,
       "score": 8.7,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Sterke snoermaaier van 40 cm met opvouwbare bak.",
       "specs": {
         "Type": "Elektrisch 1700 W",
@@ -300,7 +303,8 @@
       "low_price": 239.0,
       "prev_price": 249.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4059952658124"
+      "ph_ean": "4059952658124",
+      "rating": 3.7
     },
     {
       "brand": "Bosch",
@@ -308,7 +312,7 @@
       "price": 223.83,
       "score": 8.6,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Compacte Bosch accumaaier met accu, lader en mulchplug.",
       "specs": {
         "Type": "Accu 18V",
@@ -370,7 +374,8 @@
       "low_price": 218.64,
       "prev_price": 241.12,
       "prev_date": "2026-11-16",
-      "ph_ean": "4053423656831"
+      "ph_ean": "4053423656831",
+      "rating": 5.0
     },
     {
       "brand": "STIGA",
@@ -378,7 +383,7 @@
       "price": 327.0,
       "score": 8.5,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Zelfrijdende benzinemaaier van 46 cm voor grote gazons.",
       "specs": {
         "Type": "Benzine, zelfrijdend",
@@ -440,7 +445,8 @@
       "low_price": 275.4,
       "prev_price": 277.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8008984864436"
+      "ph_ean": "8008984864436",
+      "rating": 5.0
     },
     {
       "brand": "Makita",
@@ -448,7 +454,7 @@
       "price": 164.0,
       "score": 8.4,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Robuuste snoermaaier van 37 cm met ruime bak.",
       "specs": {
         "Type": "Elektrisch 1400 W",
@@ -510,7 +516,8 @@
       "low_price": 164.0,
       "prev_price": 168.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "0088381859127"
+      "ph_ean": "0088381859127",
+      "rating": 3.8
     },
     {
       "brand": "GARDENA",
@@ -518,7 +525,7 @@
       "price": 189.0,
       "score": 8.1,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Superlichte mini-accumaaier voor kleine gazons en balkons.",
       "specs": {
         "Type": "Accu 18V",
@@ -580,7 +587,8 @@
       "low_price": 189.0,
       "prev_price": 193.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "4078500054157"
+      "ph_ean": "4078500054157",
+      "rating": 3.9
     },
     {
       "brand": "Bosch",
@@ -588,7 +596,7 @@
       "price": 99.0,
       "score": 8.0,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Lichte snoermaaier van 32 cm voor kleine tuinen.",
       "specs": {
         "Type": "Elektrisch 1200 W",
@@ -648,7 +656,8 @@
         "2026-11-17": 99.0
       },
       "low_price": 99.0,
-      "ph_ean": "4053423321272"
+      "ph_ean": "4053423321272",
+      "rating": 4.2
     },
     {
       "brand": "VONROC",
@@ -656,7 +665,7 @@
       "price": 49.95,
       "score": 7.9,
       "label": null,
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Goedkoopste snoermaaier in deze lijst met 30 liter bak.",
       "specs": {
         "Type": "Elektrisch 1300 W",
@@ -718,7 +727,8 @@
       "low_price": 49.95,
       "prev_price": 55.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8717479092697"
+      "ph_ean": "8717479092697",
+      "rating": 4.2
     }
   ],
   "guide": [

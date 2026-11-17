@@ -27,7 +27,7 @@
       "price": 29.99,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "Gem. 4,3 sterren op bol",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Voetenzak met vijf standen, timer en wasbare voering voor weinig geld.",
       "specs": {
         "Type": "Voetenzak",
@@ -76,7 +76,8 @@
       },
       "low_price": 29.99,
       "synced": "2026-11-17",
-      "ph_ean": "8720828027752"
+      "ph_ean": "8720828027752",
+      "rating": 4.2
     },
     {
       "brand": "Beurer",
@@ -84,7 +85,7 @@
       "price": 43.99,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "bol-score 4 van 5",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Ruime teddy voetenzak van een bekend merk met 3 jaar garantie.",
       "specs": {
         "Type": "Voetenzak",
@@ -125,7 +126,8 @@
       "synced": "2026-11-17",
       "ph_ean": "4211125531065",
       "prev_price": 44.18,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.0
     },
     {
       "brand": "VH",
@@ -133,7 +135,7 @@
       "price": 54.95,
       "score": 8.8,
       "label": null,
-      "reviews": "Gem. 4,9 sterren op bol",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Grote verwarmde voetenmat met LCD-bediening en instelbare timer.",
       "specs": {
         "Type": "Voetenmat",
@@ -184,7 +186,8 @@
       "synced": "2026-11-17",
       "prev_price": 59.95,
       "prev_date": "2026-11-09",
-      "ph_ean": "8719874753562"
+      "ph_ean": "8719874753562",
+      "rating": 4.8
     },
     {
       "brand": "Auronic",
@@ -192,7 +195,7 @@
       "price": 32.99,
       "score": 8.7,
       "label": null,
-      "reviews": "Gem. 4,1 sterren op bol",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Bekende voetenzak met timer, LED-bediening en wasbare voering.",
       "specs": {
         "Type": "Voetenzak",
@@ -243,7 +246,8 @@
       "synced": "2026-11-17",
       "prev_price": 34.99,
       "prev_date": "2026-11-10",
-      "ph_ean": "8720195254324"
+      "ph_ean": "8720195254324",
+      "rating": 4.1
     },
     {
       "brand": "medisana",
@@ -251,7 +255,7 @@
       "price": 39.95,
       "score": 8.6,
       "label": null,
-      "reviews": "Gem. 4,5 sterren op bol",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Gebreide merkvoetenzak met uitneembare pluche kern en drie jaar garantie.",
       "specs": {
         "Type": "Voetenzak",
@@ -295,7 +299,8 @@
       "synced": "2026-11-17",
       "ph_ean": "4015588602597",
       "prev_price": 64.95,
-      "prev_date": "2026-11-13"
+      "prev_date": "2026-11-13",
+      "rating": 4.5
     },
     {
       "brand": "Alpina",
@@ -303,7 +308,7 @@
       "price": 30.11,
       "score": 8.5,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "Gem. 4,1 sterren op bol",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Voordelige voetenzak met 100 watt, uitschakeling en wasbare fleecehoes.",
       "specs": {
         "Type": "Voetenzak",
@@ -354,7 +359,8 @@
       "synced": "2026-11-17",
       "prev_price": 29.11,
       "prev_date": "2026-11-16",
-      "ph_ean": "8711252174624"
+      "ph_ean": "8711252174624",
+      "rating": 4.0
     },
     {
       "brand": "Lopoleis",
@@ -362,7 +368,7 @@
       "price": 31.41,
       "score": 8.3,
       "label": null,
-      "reviews": "Gem. 4,4 sterren op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Zachte verwarmingsmat met zes standen die ook als warmtekussen dient.",
       "specs": {
         "Type": "Voetenmat",
@@ -413,7 +419,8 @@
       "synced": "2026-11-17",
       "prev_price": 32.22,
       "prev_date": "2026-11-14",
-      "ph_ean": "8721077890005"
+      "ph_ean": "8721077890005",
+      "rating": 4.4
     },
     {
       "brand": "Lopoleis",
@@ -421,7 +428,7 @@
       "price": 34.95,
       "score": 8.2,
       "label": null,
-      "reviews": "Gem. 4,4 sterren op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Stevige verwarmingsmat met voetschakelaar en antislip voor onder het bureau.",
       "specs": {
         "Type": "Voetenmat",
@@ -472,7 +479,8 @@
       "synced": "2026-11-17",
       "prev_price": 35.96,
       "prev_date": "2026-11-14",
-      "ph_ean": "8721077891668"
+      "ph_ean": "8721077891668",
+      "rating": 4.4
     },
     {
       "brand": "Beurer",
@@ -480,7 +488,7 @@
       "price": 44.99,
       "score": 8.0,
       "label": null,
-      "reviews": "Gem. 4,3 sterren op bol",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Compact voetenkussen met warmte en vibratiemassage via USB-C.",
       "specs": {
         "Type": "Voetenkussen met massage",
@@ -529,7 +537,8 @@
       },
       "low_price": 44.99,
       "synced": "2026-11-17",
-      "ph_ean": "4211125105563"
+      "ph_ean": "4211125105563",
+      "rating": 4.3
     },
     {
       "brand": "Tomado",
@@ -537,7 +546,7 @@
       "price": 38.29,
       "score": 7.9,
       "label": null,
-      "reviews": "Gem. 3,5 sterren op bol",
+      "reviews": "bol-score 3,6 van 5",
       "oneliner": "Goedkoopste merkvoetenzak met snelle opwarming en lang snoer.",
       "specs": {
         "Type": "Voetenzak",
@@ -588,7 +597,8 @@
       "synced": "2026-11-17",
       "prev_price": 38.34,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712876500738"
+      "ph_ean": "8712876500738",
+      "rating": 3.6
     }
   ],
   "guide": [

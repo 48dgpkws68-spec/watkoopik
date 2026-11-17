@@ -25,7 +25,7 @@
       "price": 419.0,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "2.400+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Twaalf dranken en vier profielen net onder de 500 euro.",
       "specs": {
         "Melksysteem": "LatteGo, automatisch",
@@ -90,7 +90,8 @@
       "low_price": 419.0,
       "prev_price": 429.0,
       "prev_date": "2026-11-06",
-      "ph_ean": "8710103931324"
+      "ph_ean": "8710103931324",
+      "rating": 4.6
     },
     {
       "brand": "Philips",
@@ -98,7 +99,7 @@
       "price": 229.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "3.100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Simpele instapper met keramische molen en stoompijpje.",
       "specs": {
         "Melksysteem": "Stoompijpje",
@@ -158,7 +159,8 @@
       "low_price": 229.0,
       "prev_price": 269.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8710103877424"
+      "ph_ean": "8710103877424",
+      "rating": 4.3
     },
     {
       "brand": "De'Longhi",
@@ -166,7 +168,7 @@
       "price": 418.0,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Romig melkschuim met LatteCrema Hot en een kleurendisplay.",
       "specs": {
         "Melksysteem": "LatteCrema Hot, automatisch",
@@ -226,7 +228,8 @@
       "low_price": 418.0,
       "prev_price": 429.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8004399029132"
+      "ph_ean": "8004399029132",
+      "rating": 4.7
     },
     {
       "brand": "Philips",
@@ -234,7 +237,7 @@
       "price": 339.0,
       "score": 8.8,
       "label": null,
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Goedkoopste Philips met automatisch melkschuim via LatteGo.",
       "specs": {
         "Melksysteem": "LatteGo, automatisch",
@@ -294,7 +297,8 @@
       "low_price": 339.0,
       "prev_price": 362.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8720389027598"
+      "ph_ean": "8720389027598",
+      "rating": 4.4
     },
     {
       "brand": "Krups",
@@ -302,7 +306,7 @@
       "price": 319.0,
       "score": 8.6,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Nieuwe Krups met aanraakscherm en favorieten opslaan.",
       "specs": {
         "Melksysteem": "Stoompijpje",
@@ -360,7 +364,8 @@
       "low_price": 319.0,
       "prev_price": 383.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "3016661173547"
+      "ph_ean": "3016661173547",
+      "rating": 4.7
     },
     {
       "brand": "De'Longhi",
@@ -368,7 +373,7 @@
       "price": 353.0,
       "score": 8.5,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Opvolger van de Magnifica S met moderne aanraaktoetsen.",
       "specs": {
         "Melksysteem": "Stoompijpje",
@@ -428,7 +433,8 @@
       "low_price": 319.0,
       "prev_price": 354.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8004399025356"
+      "ph_ean": "8004399025356",
+      "rating": 4.5
     },
     {
       "brand": "Melitta",
@@ -436,7 +442,7 @@
       "price": 349.0,
       "score": 8.4,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Stille machine voor wie alleen zwarte koffie drinkt.",
       "specs": {
         "Melksysteem": "Geen",
@@ -496,7 +502,8 @@
       "low_price": 349.0,
       "prev_price": 349.82,
       "prev_date": "2026-11-12",
-      "ph_ean": "4006508221615"
+      "ph_ean": "4006508221615",
+      "rating": 4.4
     },
     {
       "brand": "Siemens",
@@ -504,7 +511,7 @@
       "price": 384.58,
       "score": 8.3,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Degelijke Siemens met keramische molen en melkopschuimer.",
       "specs": {
         "Melksysteem": "Melkopschuimer, handmatig",
@@ -564,7 +571,8 @@
       "low_price": 375.03,
       "prev_price": 380.27,
       "prev_date": "2026-11-16",
-      "ph_ean": "4242003926857"
+      "ph_ean": "4242003926857",
+      "rating": 4.0
     },
     {
       "brand": "Krups",
@@ -572,7 +580,7 @@
       "price": 391.99,
       "score": 8.2,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Compacte Krups met stoompijpje en metalen molen.",
       "specs": {
         "Melksysteem": "Stoompijpje",
@@ -630,7 +638,8 @@
         "2026-11-17": 391.99
       },
       "low_price": 391.99,
-      "ph_ean": "0010942223450"
+      "ph_ean": "0010942223450",
+      "rating": 4.5
     },
     {
       "brand": "Melitta",
@@ -638,7 +647,7 @@
       "price": 491.0,
       "score": 8.2,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "One touch cappuccino met melkslang voor onder de 450 euro.",
       "specs": {
         "Melksysteem": "One touch, melkslang",
@@ -698,7 +707,8 @@
       "low_price": 392.44,
       "prev_price": 446.65,
       "prev_date": "2026-11-09",
-      "ph_ean": "4006508230143"
+      "ph_ean": "4006508230143",
+      "rating": 4.0
     }
   ],
   "guide": [

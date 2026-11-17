@@ -77,7 +77,8 @@
       "synced": "2026-11-17",
       "prev_price": 149.0,
       "prev_date": "2026-11-02",
-      "ph_ean": "8720618169747"
+      "ph_ean": "8720618169747",
+      "rating": 4.7
     },
     {
       "brand": "Avenue",
@@ -85,7 +86,7 @@
       "price": 65.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Betaalbaar synthetisch 4 seizoenen dekbed dat je zelf wast.",
       "specs": {
         "Vulling": "Synthetische vezel",
@@ -134,7 +135,8 @@
       "synced": "2026-11-17",
       "prev_price": 75.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "8720618169952"
+      "ph_ean": "8720618169952",
+      "rating": 4.6
     },
     {
       "brand": "Terschellinger",
@@ -191,7 +193,8 @@
       "synced": "2026-11-17",
       "prev_price": 169.0,
       "prev_date": "2026-11-02",
-      "ph_ean": "8720256479413"
+      "ph_ean": "8720256479413",
+      "rating": 4.7
     },
     {
       "brand": "Castella",
@@ -248,7 +251,8 @@
       "synced": "2026-11-17",
       "prev_price": 277.9,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720701885332"
+      "ph_ean": "8720701885332",
+      "rating": 4.6
     },
     {
       "brand": "Ducky Dons",
@@ -305,7 +309,8 @@
       "synced": "2026-11-17",
       "prev_price": 246.05,
       "prev_date": "2026-11-16",
-      "ph_ean": "8718719723142"
+      "ph_ean": "8718719723142",
+      "rating": 4.8
     },
     {
       "brand": "Texels Comfort",
@@ -359,7 +364,8 @@
       },
       "low_price": 179.95,
       "synced": "2026-11-17",
-      "ph_ean": "8721067012059"
+      "ph_ean": "8721067012059",
+      "rating": 5.0
     },
     {
       "brand": "Slaapspeciaal",
@@ -415,7 +421,8 @@
       "synced": "2026-11-17",
       "prev_price": 89.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "8719425809946"
+      "ph_ean": "8719425809946",
+      "rating": 4.7
     },
     {
       "brand": "Eastlands",
@@ -469,7 +476,8 @@
       },
       "low_price": 199.0,
       "synced": "2026-11-17",
-      "ph_ean": "8719638068932"
+      "ph_ean": "8719638068932",
+      "rating": 5.0
     },
     {
       "brand": "Sleep Comfy",
@@ -477,7 +485,7 @@
       "price": 58.46,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Goedkoop synthetisch 4 seizoenen dekbed in lits-jumeaux maat.",
       "specs": {
         "Vulling": "Synthetische vezel",
@@ -514,7 +522,8 @@
       },
       "low_price": 58.46,
       "synced": "2026-11-17",
-      "ph_ean": "8720813992065"
+      "ph_ean": "8720813992065",
+      "rating": 4.3
     },
     {
       "brand": "HUSH Living",
@@ -561,7 +570,8 @@
       },
       "low_price": 42.99,
       "synced": "2026-11-17",
-      "ph_ean": "8721339407583"
+      "ph_ean": "8721339407583",
+      "rating": 4.8
     }
   ],
   "guide": [

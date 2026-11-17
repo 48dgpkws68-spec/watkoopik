@@ -25,7 +25,7 @@
       "price": 64.99,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "De vaste waarde onder monddouches, met groot reservoir en tien standen.",
       "specs": {
         "Type": "Aanrecht",
@@ -88,7 +88,8 @@
       "low_price": 64.99,
       "prev_price": 89.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "0073950336802"
+      "ph_ean": "0073950336802",
+      "rating": 4.7
     },
     {
       "brand": "Philips Sonicare",
@@ -96,7 +97,7 @@
       "price": 65.99,
       "score": 9.0,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Draadloze waterflosser met Quad Stream-opzetstuk en lange accuduur.",
       "specs": {
         "Type": "Draadloos",
@@ -158,7 +159,8 @@
       "low_price": 65.99,
       "ph_ean": "8720689011044",
       "prev_price": 76.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.2
     },
     {
       "brand": "Waterpik",
@@ -166,7 +168,7 @@
       "price": 58.49,
       "score": 8.8,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Klein, draadloos en waterdicht: Waterpik-kwaliteit in reisformaat.",
       "specs": {
         "Type": "Draadloos, compact",
@@ -228,7 +230,8 @@
       "low_price": 58.49,
       "prev_price": 63.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "0073950342605"
+      "ph_ean": "0073950342605",
+      "rating": 5.0
     },
     {
       "brand": "Philips Sonicare",
@@ -236,7 +239,7 @@
       "price": 169.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Elektrische tandenborstel en waterflosser in één laadstation.",
       "specs": {
         "Type": "Aanrecht + tandenborstel",
@@ -298,7 +301,8 @@
       "low_price": 164.95,
       "prev_price": 164.95,
       "prev_date": "2026-11-13",
-      "ph_ean": "8720689017084"
+      "ph_ean": "8720689017084",
+      "rating": 4.5
     },
     {
       "brand": "Philips Sonicare",
@@ -306,7 +310,7 @@
       "price": 89.99,
       "score": 8.9,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Aanrechtmodel van Philips met tien intensiteiten en Quad Stream.",
       "specs": {
         "Type": "Aanrecht",
@@ -368,7 +372,8 @@
       "low_price": 89.51,
       "prev_price": 89.97,
       "prev_date": "2026-11-05",
-      "ph_ean": "8710103953890"
+      "ph_ean": "8710103953890",
+      "rating": 5.0
     },
     {
       "brand": "Waterpik",
@@ -376,7 +381,7 @@
       "price": 74.99,
       "score": 8.6,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Draadloze Waterpik met drie standen en vier opzetstukken.",
       "specs": {
         "Type": "Draadloos",
@@ -438,7 +443,8 @@
       "low_price": 74.99,
       "prev_price": 95.32,
       "prev_date": "2026-11-05",
-      "ph_ean": "0073950320436"
+      "ph_ean": "0073950320436",
+      "rating": 4.0
     },
     {
       "brand": "Oral-B",
@@ -446,7 +452,7 @@
       "price": 58.0,
       "score": 8.4,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Monddouche met luchtbelletjes in de straal en groot reservoir.",
       "specs": {
         "Type": "Aanrecht",
@@ -508,7 +514,8 @@
       "low_price": 57.0,
       "prev_price": 57.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "8006540841396"
+      "ph_ean": "8006540841396",
+      "rating": 4.0
     },
     {
       "brand": "Panasonic",
@@ -516,7 +523,7 @@
       "price": 89.0,
       "score": 8.3,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "",
       "oneliner": "Opvouwbare reis-monddouche met ultrasone techniek.",
       "specs": {
         "Type": "Draadloos, inschuifbaar",
@@ -586,7 +593,7 @@
       "price": 76.7,
       "score": 8.2,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 3,6 van 5",
       "oneliner": "Draadloze Oral-B waterflosser met OxyJet en twee straalstanden.",
       "specs": {
         "Type": "Draadloos",
@@ -648,7 +655,8 @@
       "low_price": 67.99,
       "prev_price": 71.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "4210201436409"
+      "ph_ean": "4210201436409",
+      "rating": 3.6
     },
     {
       "brand": "Bintoi",
@@ -656,7 +664,7 @@
       "price": 33.95,
       "score": 8.5,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Betaalbare draadloze waterflosser met drie standen en goede reviews.",
       "specs": {
         "Type": "Draadloos",
@@ -718,7 +726,8 @@
       "low_price": 33.95,
       "prev_price": 36.95,
       "prev_date": "2026-11-09",
-      "ph_ean": "5419980162519"
+      "ph_ean": "5419980162519",
+      "rating": 4.3
     }
   ],
   "guide": [

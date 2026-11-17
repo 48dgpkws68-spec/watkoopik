@@ -25,7 +25,7 @@
       "price": 319.99,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "5.200+ reviews",
+      "reviews": "",
       "oneliner": "Twee losse delen, volledig wasbaar en het hele jaar bruikbaar.",
       "specs": {
         "Vulling": "Synthetisch, holle vezels",
@@ -163,7 +163,8 @@
       "low_price": 59.99,
       "prev_price": 89.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "8719425809946"
+      "ph_ean": "8719425809946",
+      "rating": 4.7
     },
     {
       "brand": "Yumeko",
@@ -171,7 +172,7 @@
       "price": 809.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "860+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Gerecycled dons in biologisch katoen, licht en jarenlang warm.",
       "specs": {
         "Vulling": "90% gerecycled dons",
@@ -235,7 +236,8 @@
       "low_price": 687.65,
       "prev_price": 687.65,
       "prev_date": "2026-11-02",
-      "ph_ean": "8718503720746"
+      "ph_ean": "8718503720746",
+      "rating": 4.8
     },
     {
       "brand": "Cinderella",
@@ -243,7 +245,7 @@
       "price": 272.27,
       "score": 8.8,
       "label": null,
-      "reviews": "nog weinig reviews op bol",
+      "reviews": "",
       "oneliner": "Luxe donzen dekbed van een bekend Nederlands beddengoedmerk.",
       "specs": {
         "Vulling": "Dons",
@@ -295,7 +297,7 @@
       "price": 399.95,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Licht en warm donzen dekbed met 90% eendendons.",
       "specs": {
         "Vulling": "90% eendendons, 10% veertjes",
@@ -348,7 +350,8 @@
       "synced": "2026-11-17",
       "prev_price": 349.99,
       "prev_date": "2026-11-02",
-      "ph_ean": "8721022878249"
+      "ph_ean": "8721022878249",
+      "rating": 4.4
     },
     {
       "brand": "Fabiola",
@@ -420,7 +423,8 @@
       "low_price": 149.0,
       "prev_price": 149.0,
       "prev_date": "2026-11-02",
-      "ph_ean": "8720618169747"
+      "ph_ean": "8720618169747",
+      "rating": 4.7
     },
     {
       "brand": "Snoozing",
@@ -475,7 +479,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8718801105450",
       "prev_price": 109.95,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.8
     },
     {
       "brand": "Ten Cate",
@@ -537,7 +542,8 @@
       "image": "https://media.s-bol.com/6OE6Oov7mOm9/vQkWRJL/550x440.jpg",
       "synced": "2026-11-17",
       "low_price": 79.95,
-      "ph_ean": "8720812897873"
+      "ph_ean": "8720812897873",
+      "rating": 4.7
     },
     {
       "brand": "iSleep",
@@ -545,7 +551,7 @@
       "price": 139.95,
       "score": 7.9,
       "label": null,
-      "reviews": "2.400+ reviews",
+      "reviews": "",
       "oneliner": "Populair online vierseizoenendekbed met zachte microvezeltijk.",
       "specs": {
         "Vulling": "Polyester microvezels",
@@ -617,7 +623,7 @@
       "price": 58.46,
       "score": 7.8,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Hotelkwaliteit dekbed met warmteregulerende vulling voor weinig geld.",
       "specs": {
         "Vulling": "Synthetische microvezel",
@@ -655,7 +661,8 @@
       },
       "low_price": 58.46,
       "synced": "2026-11-17",
-      "ph_ean": "8720813992065"
+      "ph_ean": "8720813992065",
+      "rating": 4.3
     }
   ],
   "guide": [

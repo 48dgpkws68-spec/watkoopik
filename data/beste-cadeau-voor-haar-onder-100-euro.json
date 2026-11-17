@@ -28,7 +28,7 @@
       "price": 81.89,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Instant camera die foto's direct in je hand afdrukt.",
       "specs": {
         "Soort": "Instant camera",
@@ -62,7 +62,8 @@
       },
       "low_price": 81.89,
       "synced": "2026-11-17",
-      "ph_ean": "4547410489101"
+      "ph_ean": "4547410489101",
+      "rating": 4.6
     },
     {
       "brand": "Beurer",
@@ -70,7 +71,7 @@
       "price": 76.86,
       "score": 9.0,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Draadloos warmtekussen van zacht velours voor koude avonden.",
       "specs": {
         "Soort": "Warmtekussen",
@@ -117,7 +118,8 @@
       "synced": "2026-11-17",
       "prev_price": 84.7,
       "prev_date": "2026-11-13",
-      "ph_ean": "4211125200749"
+      "ph_ean": "4211125200749",
+      "rating": 4.5
     },
     {
       "brand": "BaByliss",
@@ -125,7 +127,7 @@
       "price": 59.49,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Roterende föhnborstel die drogen en stylen combineert.",
       "specs": {
         "Soort": "Föhnborstel",
@@ -172,7 +174,8 @@
       "synced": "2026-11-17",
       "prev_price": 62.49,
       "prev_date": "2026-11-16",
-      "ph_ean": "3030050153828"
+      "ph_ean": "3030050153828",
+      "rating": 4.3
     },
     {
       "brand": "Lancôme",
@@ -180,7 +183,7 @@
       "price": 75.0,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Klassiek damesparfum met zoete iris, praline en vanille.",
       "specs": {
         "Soort": "Parfum",
@@ -227,7 +230,8 @@
       "synced": "2026-11-17",
       "prev_price": 85.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "3614270823886"
+      "ph_ean": "3614270823886",
+      "rating": 4.8
     },
     {
       "brand": "FOREO",
@@ -235,7 +239,7 @@
       "price": 94.99,
       "score": 8.7,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "",
       "oneliner": "Siliconen gezichtsreinigingsborstel met twee zones en zachte trillingen.",
       "specs": {
         "Soort": "Gezichtsborstel",
@@ -285,7 +289,7 @@
       "price": 85.45,
       "score": 8.6,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Draadloze oordopjes met noise cancelling voor onderweg.",
       "specs": {
         "Soort": "Oordopjes",
@@ -332,7 +336,8 @@
       "synced": "2026-11-17",
       "prev_price": 85.49,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806097621041"
+      "ph_ean": "8806097621041",
+      "rating": 4.4
     },
     {
       "brand": "Krups",
@@ -340,7 +345,7 @@
       "price": 60.12,
       "score": 8.6,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Compacte cupmachine voor espresso en grote mokken koffie.",
       "specs": {
         "Soort": "Koffiemachine",
@@ -387,7 +392,8 @@
       "synced": "2026-11-17",
       "prev_price": 71.95,
       "prev_date": "2026-11-12",
-      "ph_ean": "3045380022010"
+      "ph_ean": "3045380022010",
+      "rating": 4.3
     },
     {
       "brand": "Xiaomi",
@@ -395,7 +401,7 @@
       "price": 79.99,
       "score": 8.5,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Fitnesstracker met groot scherm, gps en lange accuduur.",
       "specs": {
         "Soort": "Fitnesstracker",
@@ -442,7 +448,8 @@
       "synced": "2026-11-17",
       "prev_price": 67.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "6932554487591"
+      "ph_ean": "6932554487591",
+      "rating": 5.0
     },
     {
       "brand": "Fossil",
@@ -450,7 +457,7 @@
       "price": 69.0,
       "score": 8.3,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "",
       "oneliner": "Goudkleurige ketting van roestvrij staal voor elke dag.",
       "specs": {
         "Soort": "Ketting",
@@ -505,7 +512,7 @@
       "price": 56.0,
       "score": 8.2,
       "label": null,
-      "reviews": "reviews op bol",
+      "reviews": "",
       "oneliner": "Verwenset met douchefoam, scrub, bodycrème en parfum.",
       "specs": {
         "Soort": "Verzorgingsset",

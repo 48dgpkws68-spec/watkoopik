@@ -25,7 +25,7 @@
       "price": 729.0,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "bol-score 5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Groot 17,3 inch scherm met vertrouwd Windows en veel opslag.",
       "specs": {
         "Systeem": "Windows 11 Home",
@@ -84,7 +84,8 @@
       "low_price": 729.0,
       "prev_price": 749.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4711636346269"
+      "ph_ean": "4711636346269",
+      "rating": 5.0
     },
     {
       "brand": "Acer",
@@ -151,7 +152,8 @@
       "low_price": 349.0,
       "prev_price": 479.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "4711721015575"
+      "ph_ean": "4711721015575",
+      "rating": 4.5
     },
     {
       "brand": "Apple",
@@ -159,7 +161,7 @@
       "price": 1640.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Licht, groot en heel stil, ideaal naast een iPhone of iPad.",
       "specs": {
         "Systeem": "macOS",
@@ -221,7 +223,8 @@
       "low_price": 1599.0,
       "prev_price": 1669.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "0195950695694"
+      "ph_ean": "0195950695694",
+      "rating": 4.8
     },
     {
       "brand": "Apple",
@@ -269,7 +272,8 @@
       },
       "low_price": 1229.99,
       "synced": "2026-11-17",
-      "ph_ean": "0195949837210"
+      "ph_ean": "0195949837210",
+      "rating": 4.9
     },
     {
       "brand": "Lenovo",
@@ -277,7 +281,7 @@
       "price": 599.0,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Lichte 15,6 inch Windows-laptop die ook mee kan op reis.",
       "specs": {
         "Systeem": "Windows 11 Home",
@@ -339,7 +343,8 @@
       "low_price": 599.0,
       "prev_price": 679.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "0199275372988"
+      "ph_ean": "0199275372988",
+      "rating": 4.6
     },
     {
       "brand": "HP",
@@ -402,7 +407,8 @@
       "low_price": 599.0,
       "prev_price": 599.0,
       "prev_date": "2026-11-02",
-      "ph_ean": "0199485856599"
+      "ph_ean": "0199485856599",
+      "rating": 5.0
     },
     {
       "brand": "Acer",
@@ -467,7 +473,8 @@
       "low_price": 699.0,
       "prev_price": 949.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "4711721015308"
+      "ph_ean": "4711721015308",
+      "rating": 4.8
     },
     {
       "brand": "Acer",
@@ -534,7 +541,8 @@
       "low_price": 599.0,
       "prev_price": 599.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4711721015735"
+      "ph_ean": "4711721015735",
+      "rating": 4.8
     },
     {
       "brand": "HP",
@@ -597,7 +605,8 @@
       "low_price": 729.0,
       "prev_price": 800.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "0199764730916"
+      "ph_ean": "0199764730916",
+      "rating": 5.0
     },
     {
       "brand": "Acer",
@@ -605,7 +614,7 @@
       "price": 279.0,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Betaalbare 14 inch Chromebook voor mail, nieuws en videobellen.",
       "specs": {
         "Systeem": "ChromeOS",
@@ -664,7 +673,8 @@
       "low_price": 279.0,
       "prev_price": 359.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "4711721015513"
+      "ph_ean": "4711721015513",
+      "rating": 4.6
     }
   ],
   "guide": [

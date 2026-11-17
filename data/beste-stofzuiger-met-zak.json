@@ -25,7 +25,7 @@
       "price": 219.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Degelijke Duitse sledestofzuiger die jarenlang meegaat.",
       "specs": {
         "Vermogen": "890 W",
@@ -64,7 +64,8 @@
       "synced": "2026-11-17",
       "ph_ean": "4002516833802",
       "prev_price": 219.98,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -72,7 +73,7 @@
       "price": 154.5,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "450+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Veel zuigkracht en een groot bereik voor rond de 120 euro.",
       "specs": {
         "Vermogen": "900 W",
@@ -133,7 +134,8 @@
       "low_price": 109.99,
       "prev_price": 114.99,
       "prev_date": "2026-11-11",
-      "ph_ean": "8720389038334"
+      "ph_ean": "8720389038334",
+      "rating": 4.5
     },
     {
       "brand": "Miele",
@@ -141,7 +143,7 @@
       "price": 448.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Topmodel van Miele met HEPA-filter en extra grote zak.",
       "specs": {
         "Vermogen": "890 W",
@@ -202,7 +204,8 @@
       "low_price": 409.0,
       "prev_price": 409.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4002516794578"
+      "ph_ean": "4002516794578",
+      "rating": 4.0
     },
     {
       "brand": "Sebo",
@@ -210,7 +213,7 @@
       "price": 294.0,
       "score": 9.0,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Professionele kwaliteit uit Duitsland met ziekenhuisfilter.",
       "specs": {
         "Vermogen": "890 W",
@@ -271,14 +274,15 @@
       "low_price": 289.0,
       "prev_price": 289.0,
       "prev_date": "2026-10-29",
-      "ph_ean": "4012615993383"
+      "ph_ean": "4012615993383",
+      "rating": 5.0
     },
     {
       "brand": "Electrolux",
       "name": "Pure D8.2 PD82-4MB",
       "price": 188.53,
       "score": 8.8,
-      "reviews": "bol-score 4,8 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Cilinderstofzuiger met zak en een vermogen van 600 watt uit de Pure D8.2-serie.",
       "specs": {
         "Vermogen": "600 W",
@@ -317,7 +321,8 @@
       },
       "low_price": 188.53,
       "synced": "2026-11-17",
-      "ph_ean": "7332543693894"
+      "ph_ean": "7332543693894",
+      "rating": 4.7
     },
     {
       "brand": "AEG",
@@ -325,7 +330,7 @@
       "price": 184.99,
       "score": 8.8,
       "label": null,
-      "reviews": "350+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Een van de stilste stofzuigers met zak die je kunt kopen.",
       "specs": {
         "Vermogen": "600 W",
@@ -386,7 +391,8 @@
       "low_price": 184.99,
       "prev_price": 241.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "7333394095943"
+      "ph_ean": "7333394095943",
+      "rating": 4.3
     },
     {
       "brand": "Numatic",
@@ -394,7 +400,7 @@
       "price": 183.0,
       "score": 8.8,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "De bekende rode Henry: robuust en met een enorme zak.",
       "specs": {
         "Vermogen": "620 W",
@@ -456,7 +462,8 @@
       "low_price": 181.0,
       "prev_price": 185.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "5028965701195"
+      "ph_ean": "5028965701195",
+      "rating": 4.7
     },
     {
       "brand": "Nilfisk",
@@ -464,7 +471,7 @@
       "price": 135.99,
       "score": 8.6,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Compacte stofzuiger met turboborstel voor dierenharen.",
       "specs": {
         "Vermogen": "750 W",
@@ -525,7 +532,8 @@
       "low_price": 130.99,
       "prev_price": 137.98,
       "prev_date": "2026-11-11",
-      "ph_ean": "5715492227884"
+      "ph_ean": "5715492227884",
+      "rating": 4.7
     },
     {
       "brand": "Siemens",
@@ -533,7 +541,7 @@
       "price": 89.0,
       "score": 8.2,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Eenvoudige en betrouwbare stofzuiger met een flinke zak.",
       "specs": {
         "Vermogen": "600 W",
@@ -594,7 +602,8 @@
       "low_price": 89.0,
       "prev_price": 94.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "4242003782002"
+      "ph_ean": "4242003782002",
+      "rating": 4.5
     },
     {
       "brand": "Rowenta",
@@ -602,7 +611,7 @@
       "price": 69.99,
       "score": 8.3,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Goedkope compacte stofzuiger met filter voor allergieën.",
       "specs": {
         "Vermogen": "750 W",
@@ -663,7 +672,8 @@
       "low_price": 69.99,
       "prev_price": 79.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "3221614002267"
+      "ph_ean": "3221614002267",
+      "rating": 4.4
     }
   ],
   "guide": [

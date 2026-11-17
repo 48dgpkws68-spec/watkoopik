@@ -80,7 +80,8 @@
       "synced": "2026-11-17",
       "prev_price": 154.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8710103783367"
+      "ph_ean": "8710103783367",
+      "rating": 4.5
     },
     {
       "brand": "Denver",
@@ -139,10 +140,11 @@
       },
       "low_price": 63.0,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,7 van 5",
       "prev_price": 63.0,
       "prev_date": "2026-11-02",
-      "ph_ean": "5706751055416"
+      "ph_ean": "5706751055416",
+      "rating": 4.7
     },
     {
       "brand": "Kobo",
@@ -201,10 +203,11 @@
       },
       "low_price": 169.0,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,4 van 5",
       "prev_price": 169.99,
       "prev_date": "2026-10-24",
-      "ph_ean": "0681495009558"
+      "ph_ean": "0681495009558",
+      "rating": 4.4
     },
     {
       "brand": "De'Longhi",
@@ -263,10 +266,11 @@
       },
       "low_price": 124.0,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,4 van 5",
       "prev_price": 131.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "8004399331389"
+      "ph_ean": "8004399331389",
+      "rating": 4.4
     },
     {
       "brand": "Beurer",
@@ -325,8 +329,9 @@
       },
       "low_price": 47.38,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
-      "ph_ean": "4211125644048"
+      "reviews": "bol-score 4,4 van 5",
+      "ph_ean": "4211125644048",
+      "rating": 4.4
     },
     {
       "brand": "Inventum",
@@ -385,10 +390,11 @@
       },
       "low_price": 37.7,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "prev_price": 37.7,
       "prev_date": "2026-11-14",
-      "ph_ean": "8712876020762"
+      "ph_ean": "8712876020762",
+      "rating": 4.5
     },
     {
       "brand": "Philips Hue",
@@ -447,10 +453,11 @@
       },
       "low_price": 63.91,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,6 van 5",
       "prev_price": 84.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8721103103635"
+      "ph_ean": "8721103103635",
+      "rating": 4.6
     },
     {
       "brand": "Philips",
@@ -509,10 +516,11 @@
       },
       "low_price": 96.0,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,3 van 5",
       "prev_price": 106.0,
       "prev_date": "2026-10-28",
-      "ph_ean": "8720389000553"
+      "ph_ean": "8720389000553",
+      "rating": 4.3
     },
     {
       "brand": "SMEG",
@@ -571,10 +579,11 @@
       },
       "low_price": 92.0,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,4 van 5",
       "prev_price": 95.99,
       "prev_date": "2026-11-09",
-      "ph_ean": "8017709302160"
+      "ph_ean": "8017709302160",
+      "rating": 4.4
     },
     {
       "brand": "JBL",
@@ -633,8 +642,9 @@
       },
       "low_price": 45.95,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
-      "ph_ean": "1200130034299"
+      "reviews": "bol-score 4,7 van 5",
+      "ph_ean": "1200130034299",
+      "rating": 4.7
     }
   ],
   "guide": [

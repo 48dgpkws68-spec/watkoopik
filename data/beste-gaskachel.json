@@ -27,7 +27,7 @@
       "price": 196.9,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Krachtige gaskachel met extra elektrisch element tot 5,9 kW.",
       "specs": {
         "Vermogen": "4,1 kW gas + 1,8 kW elektrisch",
@@ -78,7 +78,8 @@
       "synced": "2026-11-17",
       "prev_price": 174.7,
       "prev_date": "2026-11-14",
-      "ph_ean": "8713508773247"
+      "ph_ean": "8713508773247",
+      "rating": 4.3
     },
     {
       "brand": "Auronic",
@@ -86,7 +87,7 @@
       "price": 154.99,
       "score": 9.1,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Sfeervolle gaskachel met sierkolen achter glas, inclusief slang.",
       "specs": {
         "Vermogen": "3,4 kW",
@@ -137,7 +138,8 @@
       "synced": "2026-11-17",
       "prev_price": 179.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "8718001002931"
+      "ph_ean": "8718001002931",
+      "rating": 4.7
     },
     {
       "brand": "Auronic",
@@ -145,7 +147,7 @@
       "price": 74.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Compacte gaskachel met veel vermogen voor een kleine prijs.",
       "specs": {
         "Vermogen": "4,1 kW",
@@ -196,7 +198,8 @@
       "synced": "2026-11-17",
       "prev_price": 69.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8718001002924"
+      "ph_ean": "8718001002924",
+      "rating": 4.5
     },
     {
       "brand": "Qlima",
@@ -204,7 +207,7 @@
       "price": 269.0,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Design gaskachel met glazen deur, sierkolen en rode sfeervlam.",
       "specs": {
         "Vermogen": "3,4 kW",
@@ -255,7 +258,8 @@
       "synced": "2026-11-17",
       "prev_price": 269.9,
       "prev_date": "2026-11-16",
-      "ph_ean": "8713508782034"
+      "ph_ean": "8713508782034",
+      "rating": 4.3
     },
     {
       "brand": "KESSER",
@@ -263,7 +267,7 @@
       "price": 138.8,
       "score": 8.8,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Gaskachel met houtskoolimitatie en complete aansluitset.",
       "specs": {
         "Vermogen": "3,4 kW",
@@ -315,7 +319,8 @@
       "synced": "2026-11-17",
       "prev_price": 173.8,
       "prev_date": "2026-11-10",
-      "ph_ean": "4255598361323"
+      "ph_ean": "4255598361323",
+      "rating": 5.0
     },
     {
       "brand": "SMH LINE",
@@ -323,7 +328,7 @@
       "price": 82.99,
       "score": 8.6,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare keramische straler van 4,2 kW met slang en regelaar.",
       "specs": {
         "Vermogen": "4,2 kW",
@@ -374,7 +379,8 @@
       "synced": "2026-11-17",
       "prev_price": 89.99,
       "prev_date": "2026-11-10",
-      "ph_ean": "8721321960669"
+      "ph_ean": "8721321960669",
+      "rating": 4.5
     },
     {
       "brand": "Eurocatch",
@@ -382,7 +388,7 @@
       "price": 94.99,
       "score": 8.5,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Stook op gas of op stroom, handig als back-up bij stroomuitval.",
       "specs": {
         "Vermogen": "4,2 kW gas + 1,2 kW elektrisch",
@@ -433,7 +439,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8720986647762",
       "prev_price": 99.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.3
     },
     {
       "brand": "MW Tools",
@@ -441,7 +448,7 @@
       "price": 92.0,
       "score": 8.4,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Stille infrarood straler voor werkplaats, garage en bouwplaats.",
       "specs": {
         "Vermogen": "4,2 kW",
@@ -498,7 +505,7 @@
       "price": 139.95,
       "score": 8.2,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Blauwevlamkachel met katalytisch paneel en kinderslot.",
       "specs": {
         "Vermogen": "4,0 kW",
@@ -550,7 +557,8 @@
       "synced": "2026-11-17",
       "prev_price": 128.95,
       "prev_date": "2026-11-10",
-      "ph_ean": "8721447050534"
+      "ph_ean": "8721447050534",
+      "rating": 4.0
     },
     {
       "brand": "Manhattan",
@@ -596,7 +604,8 @@
       },
       "low_price": 299.0,
       "synced": "2026-11-17",
-      "ph_ean": "7435112679647"
+      "ph_ean": "7435112679647",
+      "rating": 4.4
     }
   ],
   "guide": [

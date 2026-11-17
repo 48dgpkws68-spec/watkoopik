@@ -27,7 +27,7 @@
       "price": 30.95,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "4,4 sterren op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Dichte clusterverlichting met timer en dimmer voor boom of heg.",
       "specs": {
         "Type": "Clusterverlichting",
@@ -66,7 +66,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8718532501750",
       "prev_price": 32.95,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.4
     },
     {
       "brand": "Philips Hue",
@@ -74,7 +75,7 @@
       "price": 181.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "4,6 sterren op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Slim lichtsnoer met kleurverloop dat samenwerkt met je Hue-lampen.",
       "specs": {
         "Type": "Slim lichtsnoer",
@@ -114,7 +115,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8720169246621",
       "prev_price": 175.0,
-      "prev_date": "2026-11-12"
+      "prev_date": "2026-11-12",
+      "rating": 4.6
     },
     {
       "brand": "Anna's Collection",
@@ -122,7 +124,7 @@
       "price": 31.63,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "4,2 sterren op bol",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Vijf meter langer dan de Lumineo voor bijna dezelfde prijs.",
       "specs": {
         "Type": "Clusterverlichting",
@@ -161,7 +163,8 @@
       "synced": "2026-11-17",
       "prev_price": 24.99,
       "prev_date": "2026-11-10",
-      "ph_ean": "8713619379963"
+      "ph_ean": "8713619379963",
+      "rating": 4.2
     },
     {
       "brand": "Twinkly",
@@ -169,7 +172,7 @@
       "price": 98.39,
       "score": 8.9,
       "label": null,
-      "reviews": "4,6 sterren op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "App-gestuurd lichtsnoer waarbij je elke led apart programmeert.",
       "specs": {
         "Type": "Slim lichtsnoer",
@@ -206,7 +209,8 @@
       },
       "low_price": 98.39,
       "synced": "2026-11-17",
-      "ph_ean": "8056326671280"
+      "ph_ean": "8056326671280",
+      "rating": 4.6
     },
     {
       "brand": "Springos",
@@ -214,7 +218,7 @@
       "price": 46.26,
       "score": 8.8,
       "label": null,
-      "reviews": "4,6 sterren op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Twintig meter ijspegels voor goot of overkapping, koppelbaar tot drie sets.",
       "specs": {
         "Type": "IJspegelverlichting",
@@ -253,7 +257,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5907719410692",
       "prev_price": 49.95,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     },
     {
       "brand": "Konstsmide",
@@ -261,7 +266,7 @@
       "price": 58.81,
       "score": 8.6,
       "label": null,
-      "reviews": "5,0 sterren op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Feestelijk prikkabelsnoer met dimbare filamentlampen, uitbreidbaar tot 40 meter.",
       "specs": {
         "Type": "Prikkabel met lampen",
@@ -301,7 +306,8 @@
       "synced": "2026-11-17",
       "ph_ean": "7318302396800",
       "prev_price": 59.1,
-      "prev_date": "2026-11-11"
+      "prev_date": "2026-11-11",
+      "rating": 5.0
     },
     {
       "brand": "EverNeeds",
@@ -309,7 +315,7 @@
       "price": 32.95,
       "score": 8.5,
       "label": null,
-      "reviews": "4,8 sterren op bol",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Prikkabel met bolletjes en afstandsbediening om traploos te dimmen.",
       "specs": {
         "Type": "Prikkabel met lampen",
@@ -347,7 +353,8 @@
       },
       "low_price": 32.95,
       "synced": "2026-11-17",
-      "ph_ean": "8721082356282"
+      "ph_ean": "8721082356282",
+      "rating": 4.8
     },
     {
       "brand": "Lumineo",
@@ -355,7 +362,7 @@
       "price": 23.79,
       "score": 8.2,
       "label": null,
-      "reviews": "4,0 sterren op bol",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Goedkoopste manier om twintig meter dakgoot te verlichten.",
       "specs": {
         "Type": "IJspegelverlichting",
@@ -392,7 +399,8 @@
       },
       "low_price": 23.79,
       "synced": "2026-11-17",
-      "ph_ean": "8718533972429"
+      "ph_ean": "8718533972429",
+      "rating": 4.0
     },
     {
       "brand": "Anna's Collection",
@@ -400,7 +408,7 @@
       "price": 32.5,
       "score": 8.1,
       "label": null,
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Net van negen vierkante meter om in één keer over een heg te leggen.",
       "specs": {
         "Type": "Lichtnet",
@@ -446,7 +454,7 @@
       "price": 32.95,
       "score": 7.9,
       "label": null,
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Kort snoer op batterijen voor plekken zonder stopcontact.",
       "specs": {
         "Type": "Lichtsnoer op batterij",

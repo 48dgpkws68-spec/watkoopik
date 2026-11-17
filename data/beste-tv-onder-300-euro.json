@@ -28,7 +28,7 @@
       "price": 289.0,
       "score": 9.0,
       "label": "Beste keuze",
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "4K QLED met Google TV en HDR10+ net onder 300 euro.",
       "specs": {
         "Formaat": "43 inch",
@@ -72,7 +72,8 @@
       },
       "low_price": 289.0,
       "synced": "2026-11-17",
-      "ph_ean": "6941948705630"
+      "ph_ean": "6941948705630",
+      "rating": 4.4
     },
     {
       "brand": "Hisense",
@@ -80,7 +81,7 @@
       "price": 299.0,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "60+ reviews",
+      "reviews": "",
       "oneliner": "4K QLED met Dolby Vision voor precies 299 euro.",
       "specs": {
         "Formaat": "43 inch",
@@ -132,7 +133,7 @@
       "price": 239.0,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "43 inch QLED met Google TV voor de prijs van een 32 inch.",
       "specs": {
         "Formaat": "43 inch",
@@ -177,7 +178,8 @@
       "synced": "2026-11-17",
       "prev_price": 241.39,
       "prev_date": "2026-11-04",
-      "ph_ean": "5901292527075"
+      "ph_ean": "5901292527075",
+      "rating": 4.2
     },
     {
       "brand": "CHiQ",
@@ -185,7 +187,7 @@
       "price": 282.74,
       "score": 8.5,
       "label": null,
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Goedkoopste 4K QLED met Google TV in een metalen frame.",
       "specs": {
         "Formaat": "43 inch",
@@ -229,7 +231,8 @@
       },
       "low_price": 282.74,
       "synced": "2026-11-17",
-      "ph_ean": "8592344206092"
+      "ph_ean": "8592344206092",
+      "rating": 4.3
     },
     {
       "brand": "LG",
@@ -237,7 +240,7 @@
       "price": 241.0,
       "score": 8.4,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Kleine A-merk tv met webOS en de beste reviews.",
       "specs": {
         "Formaat": "32 inch",
@@ -283,7 +286,8 @@
       "synced": "2026-11-17",
       "prev_price": 228.9,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806091636959"
+      "ph_ean": "8806091636959",
+      "rating": 4.6
     },
     {
       "brand": "Xiaomi",
@@ -291,7 +295,7 @@
       "price": 174.0,
       "score": 8.3,
       "label": null,
-      "reviews": "120+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Goedkoopste QLED met Google TV in deze lijst.",
       "specs": {
         "Formaat": "32 inch",
@@ -335,13 +339,14 @@
       },
       "low_price": 174.0,
       "synced": "2026-11-17",
-      "ph_ean": "6941948705524"
+      "ph_ean": "6941948705524",
+      "rating": 4.4
     },
     {
       "brand": "Philips",
       "name": "32PFS6050/12",
       "price": 187.0,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Full HD Philips uit 2026 met Titan OS voor een scherpe prijs.",
       "pros": [
         "Full HD voor minder dan 200 euro",
@@ -379,7 +384,8 @@
       },
       "low_price": 187.0,
       "synced": "2026-11-17",
-      "ph_ean": "8718863051542"
+      "ph_ean": "8718863051542",
+      "rating": 4.2
     },
     {
       "brand": "CHiQ",
@@ -387,7 +393,7 @@
       "price": 219.99,
       "score": 8.1,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "40 inch met Google TV voor ongeveer 210 euro.",
       "specs": {
         "Formaat": "40 inch",
@@ -433,7 +439,8 @@
       "synced": "2026-11-17",
       "prev_price": 209.99,
       "prev_date": "2026-11-03",
-      "ph_ean": "8592344206023"
+      "ph_ean": "8592344206023",
+      "rating": 4.5
     },
     {
       "brand": "Samsung",
@@ -441,7 +448,7 @@
       "price": 199.0,
       "score": 8.0,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Goedkoopste Samsung met Tizen en 3 jaar extra garantie.",
       "specs": {
         "Formaat": "32 inch",
@@ -484,7 +491,8 @@
       },
       "low_price": 199.0,
       "synced": "2026-11-17",
-      "ph_ean": "8806095917429"
+      "ph_ean": "8806095917429",
+      "rating": 4.3
     },
     {
       "brand": "Philips",
@@ -492,7 +500,7 @@
       "price": 249.0,
       "score": 7.9,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "32 inch Full HD QLED van Philips met Titan OS.",
       "specs": {
         "Formaat": "32 inch",
@@ -535,7 +543,8 @@
       },
       "low_price": 249.0,
       "synced": "2026-11-17",
-      "ph_ean": "8718863051580"
+      "ph_ean": "8718863051580",
+      "rating": 4.7
     }
   ],
   "guide": [

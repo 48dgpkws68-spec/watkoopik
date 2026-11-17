@@ -24,7 +24,7 @@
       "price": 372.19,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "1.600+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Gladste roterende scheerbeurt met sensor voor baarddichtheid.",
       "specs": {
         "Systeem": "Roterend, 3 koppen",
@@ -90,7 +90,8 @@
       "low_price": 351.54,
       "prev_price": 362.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720689004206"
+      "ph_ean": "8720689004206",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -98,7 +99,7 @@
       "price": 70.5,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "3.900+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Veel van de Prestige-techniek voor een derde van de prijs.",
       "specs": {
         "Systeem": "Roterend, 3 koppen",
@@ -164,7 +165,8 @@
       "low_price": 65.18,
       "prev_price": 73.85,
       "prev_date": "2026-11-10",
-      "ph_ean": "8720689029131"
+      "ph_ean": "8720689029131",
+      "rating": 5.0
     },
     {
       "brand": "Braun",
@@ -172,7 +174,7 @@
       "price": 339.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Het gladste scheerblad, met station dat reinigt, oliet en droogt.",
       "specs": {
         "Systeem": "Scheerblad, 5 elementen",
@@ -238,7 +240,8 @@
       "low_price": 339.0,
       "prev_price": 359.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "7500435218276"
+      "ph_ean": "7500435218276",
+      "rating": 4.6
     },
     {
       "brand": "Braun",
@@ -246,7 +249,7 @@
       "price": 229.0,
       "score": 9.0,
       "label": null,
-      "reviews": "2.200+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Scheerblad met 360 graden flexibel hoofd en reinigingsstation.",
       "specs": {
         "Systeem": "Scheerblad, 4 elementen",
@@ -308,7 +311,8 @@
         "2026-11-17": 229.0
       },
       "low_price": 229.0,
-      "ph_ean": "4210201433637"
+      "ph_ean": "4210201433637",
+      "rating": 4.4
     },
     {
       "brand": "Philips",
@@ -316,7 +320,7 @@
       "price": 137.0,
       "score": 9.0,
       "label": null,
-      "reviews": "1.800+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Roterend scheerapparaat speciaal voor de gevoelige huid.",
       "specs": {
         "Systeem": "Roterend, 3 koppen",
@@ -382,7 +386,8 @@
       "low_price": 94.99,
       "prev_price": 125.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8720689007832"
+      "ph_ean": "8720689007832",
+      "rating": 4.4
     },
     {
       "brand": "Panasonic",
@@ -390,7 +395,7 @@
       "price": 153.0,
       "score": 8.8,
       "label": null,
-      "reviews": "640+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Vijf scheerbladen en een lineaire motor van 14.000 toeren.",
       "specs": {
         "Systeem": "Scheerblad, 5 elementen",
@@ -453,7 +458,8 @@
       "low_price": 141.56,
       "prev_price": 148.91,
       "prev_date": "2026-11-12",
-      "ph_ean": "5025232831265"
+      "ph_ean": "5025232831265",
+      "rating": 4.6
     },
     {
       "brand": "Philips",
@@ -461,7 +467,7 @@
       "price": 84.5,
       "score": 8.3,
       "label": null,
-      "reviews": "4.600+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare instap met roterende koppen en natte functie.",
       "specs": {
         "Systeem": "Roterend, 3 koppen",
@@ -525,7 +531,8 @@
       "low_price": 75.7,
       "prev_price": 88.75,
       "prev_date": "2026-11-16",
-      "ph_ean": "8720689018593"
+      "ph_ean": "8720689018593",
+      "rating": 4.5
     },
     {
       "brand": "Braun",
@@ -533,7 +540,7 @@
       "price": 77.11,
       "score": 8.4,
       "label": null,
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Scheerblad met EasyClick-opzetstukken voor baard en lichaam.",
       "specs": {
         "Systeem": "Scheerblad, 3 elementen",
@@ -599,7 +606,8 @@
       "low_price": 77.11,
       "prev_price": 81.17,
       "prev_date": "2026-11-05",
-      "ph_ean": "4210201432654"
+      "ph_ean": "4210201432654",
+      "rating": 4.0
     },
     {
       "brand": "Philips",
@@ -607,7 +615,7 @@
       "price": 87.52,
       "score": 8.6,
       "label": null,
-      "reviews": "5.200+ reviews",
+      "reviews": "",
       "oneliner": "Trimmen, stylen en scheren met één mesje, ideaal voor stoppels.",
       "specs": {
         "Systeem": "Hybride mesje, 360 graden",
@@ -679,7 +687,7 @@
       "price": 96.2,
       "score": 7.9,
       "label": null,
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "Hybride scheerkop: roterende messen met folie in het midden.",
       "specs": {
         "Systeem": "Roterend met geïntegreerde folie (SynX)",

@@ -60,7 +60,8 @@
       "low_price": 162.0,
       "synced": "2026-11-17",
       "prev_price": 177.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.4
     },
     {
       "brand": "UPLY",
@@ -123,7 +124,8 @@
       "synced": "2026-11-17",
       "prev_price": 49.99,
       "prev_date": "2026-11-08",
-      "ph_ean": "8720165578962"
+      "ph_ean": "8720165578962",
+      "rating": 4.5
     },
     {
       "brand": "Lumie",
@@ -131,7 +133,7 @@
       "price": 267.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Luxe lichtwekker met Bluetooth-speaker en 27 geluiden.",
       "specs": {
         "Lichtsterkte": "ca. 300 lux",
@@ -186,7 +188,8 @@
       "low_price": 267.0,
       "prev_price": 289.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "5060006627996"
+      "ph_ean": "5060006627996",
+      "rating": 4.3
     },
     {
       "brand": "Philips",
@@ -194,7 +197,7 @@
       "price": 119.0,
       "score": 8.9,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Philips-lichtwekker met dimbaar nachtlicht en meer geluiden.",
       "specs": {
         "Lichtsterkte": "ca. 300 lux",
@@ -257,7 +260,8 @@
       "low_price": 119.0,
       "prev_price": 154.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8710103783367"
+      "ph_ean": "8710103783367",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -265,7 +269,7 @@
       "price": 219.0,
       "score": 8.9,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Somneo-variant met nadruk op ontspannen en ademhaling.",
       "specs": {
         "Lichtsterkte": "ca. 300 lux",
@@ -327,7 +331,8 @@
       "low_price": 199.99,
       "prev_price": 199.99,
       "prev_date": "2026-10-17",
-      "ph_ean": "8710103819905"
+      "ph_ean": "8710103819905",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -389,7 +394,8 @@
       "synced": "2026-11-17",
       "prev_price": 128.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8710103945338"
+      "ph_ean": "8710103945338",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -397,7 +403,7 @@
       "price": 135.99,
       "score": 8.6,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Klassieke Philips-lichtwekker met radio en twintig lichtstanden.",
       "specs": {
         "Lichtsterkte": "ca. 300 lux",
@@ -459,7 +465,8 @@
       "low_price": 135.99,
       "prev_price": 146.49,
       "prev_date": "2026-11-16",
-      "ph_ean": "8710103818076"
+      "ph_ean": "8710103818076",
+      "rating": 4.4
     },
     {
       "brand": "Lumie",
@@ -467,7 +474,7 @@
       "price": 151.0,
       "score": 8.5,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Middenklasse Lumie met FM-radio en vijftien geluiden.",
       "specs": {
         "Lichtsterkte": "ca. 300 lux",
@@ -527,7 +534,8 @@
         "2026-11-17": 151.0
       },
       "low_price": 151.0,
-      "ph_ean": "5060006628870"
+      "ph_ean": "5060006628870",
+      "rating": 4.3
     },
     {
       "brand": "Lumie",
@@ -535,7 +543,7 @@
       "price": 111.0,
       "score": 8.2,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Compacte lichtwekker met eenvoudige bediening.",
       "specs": {
         "Lichtsterkte": "ca. 200 lux",
@@ -597,7 +605,8 @@
       "low_price": 103.83,
       "prev_price": 110.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "5060006628832"
+      "ph_ean": "5060006628832",
+      "rating": 4.3
     },
     {
       "brand": "Swiftvein",
@@ -605,7 +614,7 @@
       "price": 49.99,
       "score": 7.9,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare lichtwekker met dertig geluiden en kleurenlicht.",
       "specs": {
         "Lichtsterkte": "Niet opgegeven",
@@ -667,7 +676,8 @@
       "low_price": 49.99,
       "prev_price": 59.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "8721161212003"
+      "ph_ean": "8721161212003",
+      "rating": 4.5
     }
   ],
   "guide": [

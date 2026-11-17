@@ -27,7 +27,7 @@
       "price": 999.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Heldere SQD-Mini LED-tv met 144 Hz en sterke HDR.",
       "specs": {
         "Formaat": "65 inch",
@@ -81,7 +81,7 @@
       "price": 549.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Mini LED met 144 Hz en subwoofer voor rond de 550 euro.",
       "specs": {
         "Formaat": "55 inch",
@@ -123,7 +123,8 @@
       },
       "low_price": 549.0,
       "synced": "2026-11-17",
-      "ph_ean": "6942351434582"
+      "ph_ean": "6942351434582",
+      "rating": 4.6
     },
     {
       "brand": "TCL",
@@ -131,7 +132,7 @@
       "price": 4310.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Vlaggenschip met 14.400 dimzones en extreme piekhelderheid.",
       "specs": {
         "Formaat": "85 inch",
@@ -186,7 +187,7 @@
       "price": 1049.0,
       "score": 8.9,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Neo QLED met Mini LED, antireflectie en vier HDMI 2.1-poorten.",
       "specs": {
         "Formaat": "65 inch",
@@ -239,7 +240,7 @@
       "price": 1499.0,
       "score": 8.9,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "RGB Mini LED op 75 inch met native 180 Hz.",
       "specs": {
         "Formaat": "75 inch",
@@ -280,7 +281,7 @@
       "price": 899.0,
       "score": 8.7,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "LG met Mini LED, Dolby Vision en het fijne webOS.",
       "specs": {
         "Formaat": "65 inch",
@@ -333,7 +334,7 @@
       "price": 699.0,
       "score": 8.7,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Felle 55 inch Mini LED met een sterk gamepakket.",
       "specs": {
         "Formaat": "55 inch",
@@ -385,7 +386,7 @@
       "price": 699.0,
       "score": 8.5,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Mini LED gecombineerd met Ambilight voor sfeervol kijken.",
       "specs": {
         "Formaat": "55 inch",
@@ -430,7 +431,8 @@
       "synced": "2026-11-17",
       "prev_price": 899.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8718863048658"
+      "ph_ean": "8718863048658",
+      "rating": 4.1
     },
     {
       "brand": "TCL",
@@ -438,7 +440,7 @@
       "price": 549.0,
       "score": 8.5,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Goedkoopste instap in QD-Mini LED met 144 Hz.",
       "specs": {
         "Formaat": "55 inch",
@@ -484,7 +486,8 @@
       "synced": "2026-11-17",
       "prev_price": 604.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "5901292531072"
+      "ph_ean": "5901292531072",
+      "rating": 5.0
     },
     {
       "brand": "TCL",
@@ -492,7 +495,7 @@
       "price": 1298.0,
       "score": 8.3,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "85 inch Mini LED voor de prijs van een middenklasse 65 inch.",
       "specs": {
         "Formaat": "85 inch",
@@ -538,7 +541,8 @@
       "synced": "2026-11-17",
       "prev_price": 1299.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "5901292531041"
+      "ph_ean": "5901292531041",
+      "rating": 5.0
     }
   ],
   "guide": [

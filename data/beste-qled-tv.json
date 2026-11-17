@@ -26,7 +26,7 @@
       "price": 769.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "110+ reviews",
+      "reviews": "",
       "oneliner": "Neo QLED uit 2026 met Mini-LED, antireflectie en 120 Hz.",
       "specs": {
         "Formaat": "55 inch",
@@ -126,7 +126,8 @@
       },
       "low_price": 549.0,
       "ph_ean": "5901292525828",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "TCL",
@@ -134,7 +135,7 @@
       "price": 999.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "SQD-MiniLED-topmodel met 144 Hz en zeer hoge helderheid.",
       "specs": {
         "Formaat": "65 inch",
@@ -188,7 +189,7 @@
       "price": 549.0,
       "score": 8.8,
       "label": null,
-      "reviews": "140+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Hi-QLED met Mini-LED en 144 Hz in 55 inch.",
       "specs": {
         "Formaat": "55 inch",
@@ -246,7 +247,8 @@
       "low_price": 549.0,
       "prev_price": 624.69,
       "prev_date": "2026-11-01",
-      "ph_ean": "6942351434582"
+      "ph_ean": "6942351434582",
+      "rating": 4.6
     },
     {
       "brand": "Philips",
@@ -295,7 +297,8 @@
       "synced": "2026-11-17",
       "prev_price": 592.12,
       "prev_date": "2026-11-16",
-      "ph_ean": "8718863046333"
+      "ph_ean": "8718863046333",
+      "rating": 4.8
     },
     {
       "brand": "Samsung",
@@ -303,7 +306,7 @@
       "price": 1149.0,
       "score": 8.6,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "",
       "oneliner": "Neo QLED die als schilderij aan de muur hangt.",
       "specs": {
         "Formaat": "55 inch",
@@ -370,7 +373,7 @@
       "price": 549.0,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Betaalbare 65 inch QLED met Dolby Vision IQ en Atmos.",
       "specs": {
         "Formaat": "65 inch",
@@ -425,7 +428,8 @@
       "synced": "2026-11-17",
       "prev_price": 698.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "6942351431710"
+      "ph_ean": "6942351431710",
+      "rating": 4.8
     },
     {
       "brand": "Hisense",
@@ -433,7 +437,7 @@
       "price": 499.0,
       "score": 8.4,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Hi-QLED met 144 Hz, gericht op gamers.",
       "specs": {
         "Formaat": "55 inch",
@@ -491,7 +495,8 @@
       "low_price": 499.0,
       "prev_price": 529.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "6942351432779"
+      "ph_ean": "6942351432779",
+      "rating": 4.8
     },
     {
       "brand": "Samsung",
@@ -499,7 +504,7 @@
       "price": 570.79,
       "score": 8.2,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "",
       "oneliner": "Kleine Neo QLED van 43 inch voor slaapkamer of studeerkamer.",
       "specs": {
         "Formaat": "43 inch",
@@ -566,7 +571,7 @@
       "price": 447.99,
       "score": 8.0,
       "label": null,
-      "reviews": "170+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Goedkoopste serieuze 55 inch QLED met Google TV.",
       "specs": {
         "Formaat": "55 inch",
@@ -623,7 +628,8 @@
         "2026-11-17": 447.99
       },
       "low_price": 447.99,
-      "ph_ean": "6941948705722"
+      "ph_ean": "6941948705722",
+      "rating": 4.4
     }
   ],
   "guide": [

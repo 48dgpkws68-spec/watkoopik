@@ -25,7 +25,7 @@
       "price": 750.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "120+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Complete set met één doorlopend pocketveringmatras zonder naad.",
       "specs": {
         "Maat": "180x200 cm",
@@ -82,7 +82,8 @@
       "low_price": 750.0,
       "prev_price": 795.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719992840205"
+      "ph_ean": "8719992840205",
+      "rating": 4.7
     },
     {
       "brand": "Ayla Matrassen",
@@ -90,7 +91,7 @@
       "price": 464.55,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "90+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Complete boxspring met soft-boxen en 7-zones pocketvering.",
       "specs": {
         "Maat": "160x200 cm",
@@ -147,7 +148,8 @@
       "low_price": 464.55,
       "prev_price": 549.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8721352386209"
+      "ph_ean": "8721352386209",
+      "rating": 4.9
     },
     {
       "brand": "Anno 1588",
@@ -155,7 +157,7 @@
       "price": 1700.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "70+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Elektrisch verstelbaar per lighelft, inclusief levering en montage.",
       "specs": {
         "Maat": "180x200 cm",
@@ -212,7 +214,8 @@
       "low_price": 1600.0,
       "prev_price": 1600.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "8720039729131"
+      "ph_ean": "8720039729131",
+      "rating": 4.5
     },
     {
       "brand": "Meuba Home",
@@ -220,7 +223,7 @@
       "price": 655.0,
       "score": 8.9,
       "label": null,
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Velvet boxspring met opbergruimte en topper van 8 cm.",
       "specs": {
         "Maat": "180x200 cm",
@@ -276,7 +279,8 @@
       "low_price": 655.0,
       "prev_price": 655.5,
       "prev_date": "2026-11-14",
-      "ph_ean": "5407010605167"
+      "ph_ean": "5407010605167",
+      "rating": 4.7
     },
     {
       "brand": "Nessa",
@@ -284,7 +288,7 @@
       "price": 499.0,
       "score": 8.8,
       "label": null,
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Betaalbare hotelboxspring met één groot 7-zones pocketveringmatras.",
       "specs": {
         "Maat": "180x200 cm",
@@ -338,7 +342,8 @@
         "2026-11-17": 499.0
       },
       "low_price": 499.0,
-      "ph_ean": "8438478213035"
+      "ph_ean": "8438478213035",
+      "rating": 4.9
     },
     {
       "brand": "Anno 1588",
@@ -346,7 +351,7 @@
       "price": 675.0,
       "score": 8.7,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Lagere complete set met topper, dekbed en twee kussens.",
       "specs": {
         "Maat": "180x200 cm",
@@ -403,7 +408,8 @@
       "low_price": 675.0,
       "ph_ean": "8719128297835",
       "prev_price": 725.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     },
     {
       "brand": "Meuba Home",
@@ -411,7 +417,7 @@
       "price": 608.0,
       "score": 8.6,
       "label": null,
-      "reviews": "70+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Strakke Scandinavische boxspring in microfiber met topper van 8 cm.",
       "specs": {
         "Maat": "160x200 cm",
@@ -467,7 +473,8 @@
       "low_price": 608.0,
       "prev_price": 640.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "5407010605068"
+      "ph_ean": "5407010605068",
+      "rating": 4.6
     },
     {
       "brand": "BSS Bedding",
@@ -475,7 +482,7 @@
       "price": 1400.0,
       "score": 8.4,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Opvallend hoofdbord, veel opbergruimte en een stevig H3-matras.",
       "specs": {
         "Maat": "140x200 cm",
@@ -531,7 +538,8 @@
       "low_price": 1219.0,
       "prev_price": 1350.0,
       "prev_date": "2026-11-03",
-      "ph_ean": "6152925174169"
+      "ph_ean": "6152925174169",
+      "rating": 4.6
     },
     {
       "brand": "Golden Matrassen Zeeland",
@@ -539,7 +547,7 @@
       "price": 549.0,
       "score": 8.3,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Complete boxspring met soft-boxen en koudschuim topper.",
       "specs": {
         "Maat": "160x200 cm",
@@ -595,7 +603,8 @@
       "low_price": 539.0,
       "prev_price": 539.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8721352381945"
+      "ph_ean": "8721352381945",
+      "rating": 4.5
     },
     {
       "brand": "Nessa",
@@ -603,7 +612,7 @@
       "price": 499.0,
       "score": 8.1,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Compacte tweepersoons boxspring met 7-zones pocketveringmatras.",
       "specs": {
         "Maat": "140x200 cm",
@@ -657,7 +666,8 @@
         "2026-11-17": 499.0
       },
       "low_price": 499.0,
-      "ph_ean": "8721321758952"
+      "ph_ean": "8721321758952",
+      "rating": 5.0
     }
   ],
   "guide": [

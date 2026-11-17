@@ -28,7 +28,7 @@
       "price": 174.0,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "120+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "QLED en Google TV op 32 inch voor 174 euro.",
       "specs": {
         "Formaat": "32 inch",
@@ -65,7 +65,8 @@
       },
       "low_price": 174.0,
       "synced": "2026-11-17",
-      "ph_ean": "6941948705524"
+      "ph_ean": "6941948705524",
+      "rating": 4.4
     },
     {
       "brand": "CHiQ",
@@ -73,7 +74,7 @@
       "price": 164.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Full HD met Google TV voor nog geen 160 euro.",
       "specs": {
         "Formaat": "32 inch",
@@ -112,7 +113,8 @@
       "synced": "2026-11-17",
       "prev_price": 174.56,
       "prev_date": "2026-11-14",
-      "ph_ean": "8592344206016"
+      "ph_ean": "8592344206016",
+      "rating": 4.5
     },
     {
       "brand": "Samsung",
@@ -120,7 +122,7 @@
       "price": 199.0,
       "score": 8.7,
       "label": "Beste premium",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "A-merk met Tizen en 3 jaar extra garantie bij bol.",
       "specs": {
         "Formaat": "32 inch",
@@ -157,7 +159,8 @@
       },
       "low_price": 199.0,
       "synced": "2026-11-17",
-      "ph_ean": "8806095917429"
+      "ph_ean": "8806095917429",
+      "rating": 4.3
     },
     {
       "brand": "Xiaomi",
@@ -165,7 +168,7 @@
       "price": 169.0,
       "score": 8.6,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Google TV met eARC en optische uitgang voor 173 euro.",
       "specs": {
         "Formaat": "32 inch",
@@ -204,7 +207,8 @@
       "synced": "2026-11-17",
       "prev_price": 173.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "6941948700093"
+      "ph_ean": "6941948700093",
+      "rating": 4.3
     },
     {
       "brand": "Coocaa",
@@ -248,7 +252,8 @@
       },
       "low_price": 154.6,
       "synced": "2026-11-17",
-      "ph_ean": "4057313026933"
+      "ph_ean": "4057313026933",
+      "rating": 5.0
     },
     {
       "brand": "Koorui",
@@ -256,7 +261,7 @@
       "price": 199.99,
       "score": 8.3,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Enige smart 40 inch met QLED onder 200 euro.",
       "specs": {
         "Formaat": "40 inch",
@@ -293,7 +298,8 @@
       },
       "low_price": 199.99,
       "synced": "2026-11-17",
-      "ph_ean": "6940017328770"
+      "ph_ean": "6940017328770",
+      "rating": 3.7
     },
     {
       "brand": "Philips",
@@ -301,7 +307,7 @@
       "price": 179.0,
       "score": 8.2,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Nieuwe 2026-Philips met Titan OS en veel aansluitingen.",
       "specs": {
         "Formaat": "32 inch",
@@ -338,7 +344,8 @@
       },
       "low_price": 179.0,
       "synced": "2026-11-17",
-      "ph_ean": "8718863048177"
+      "ph_ean": "8718863048177",
+      "rating": 3.9
     },
     {
       "brand": "Horizon",
@@ -346,7 +353,7 @@
       "price": 139.0,
       "score": 8.1,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Goedkoopste smart-tv in de lijst, met VIDAA op 24 inch.",
       "specs": {
         "Formaat": "24 inch",
@@ -383,7 +390,8 @@
       },
       "low_price": 139.0,
       "synced": "2026-11-17",
-      "ph_ean": "5949088597482"
+      "ph_ean": "5949088597482",
+      "rating": 4.2
     },
     {
       "brand": "Philips",
@@ -391,7 +399,7 @@
       "price": 169.0,
       "score": 8.0,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Compacte 24 inch van een A-merk met Titan OS.",
       "specs": {
         "Formaat": "24 inch",
@@ -430,7 +438,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8718863051535",
       "prev_price": 157.26,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 3.9
     },
     {
       "brand": "CHiQ",
@@ -438,7 +447,7 @@
       "price": 179.99,
       "score": 7.9,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Simpele 40 inch Full HD zonder smart-functies.",
       "specs": {
         "Formaat": "40 inch",
@@ -477,7 +486,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8592344206566",
       "prev_price": 189.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.2
     }
   ],
   "guide": [

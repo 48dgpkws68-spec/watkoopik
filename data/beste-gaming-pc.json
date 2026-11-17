@@ -25,7 +25,7 @@
       "price": 2019.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Merk-pc met RTX 5070 en 850 watt voeding voor een scherpe prijs.",
       "specs": {
         "Processor": "Intel Core Ultra 7 265KF",
@@ -78,7 +78,8 @@
         "2026-11-14": 2019.0
       },
       "low_price": 2019.0,
-      "ph_ean": "4711636406819"
+      "ph_ean": "4711636406819",
+      "rating": 5.0
     },
     {
       "brand": "HP",
@@ -86,7 +87,7 @@
       "price": 3199.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 3,5 van 5",
       "oneliner": "Topmodel met RTX 5080 en 3D V-Cache voor 4K en hoge refreshrates.",
       "specs": {
         "Processor": "AMD Ryzen 9 9900X3D",
@@ -143,7 +144,8 @@
       "low_price": 3199.0,
       "prev_price": 3509.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "0199896662369"
+      "ph_ean": "0199896662369",
+      "rating": 3.5
     },
     {
       "brand": "HP",
@@ -151,7 +153,7 @@
       "price": 1999.0,
       "score": 9.1,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 3,5 van 5",
       "oneliner": "De bekende gamingprocessor 7800X3D in een stille merk-pc.",
       "specs": {
         "Processor": "AMD Ryzen 7 7800X3D",
@@ -208,7 +210,8 @@
       "low_price": 1999.0,
       "prev_price": 2369.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "0199896662338"
+      "ph_ean": "0199896662338",
+      "rating": 3.5
     },
     {
       "brand": "Lenovo",
@@ -216,7 +219,7 @@
       "price": 2399.0,
       "score": 9.0,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "RTX 5070 Ti met 16 GB en waterkoeling in een compacte toren.",
       "specs": {
         "Processor": "AMD Ryzen 7 7700X",
@@ -273,7 +276,8 @@
       "low_price": 2399.0,
       "prev_price": 2499.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "0199274389901"
+      "ph_ean": "0199274389901",
+      "rating": 5.0
     },
     {
       "brand": "AZZA",
@@ -281,7 +285,7 @@
       "price": 1779.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "RTX 5070 voor het laagste bedrag in deze lijst.",
       "specs": {
         "Processor": "AMD Ryzen 7 5700X",
@@ -338,7 +342,8 @@
       "low_price": 1699.0,
       "prev_price": 1735.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "8721161189695"
+      "ph_ean": "8721161189695",
+      "rating": 5.0
     },
     {
       "brand": "Fractal Design",
@@ -346,7 +351,7 @@
       "price": 2999.0,
       "score": 8.8,
       "label": null,
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "Snelste gamingprocessor met RTX 5070 Ti in een stijlvolle Fractal North-kast.",
       "specs": {
         "Processor": "AMD Ryzen 7 9800X3D",
@@ -399,7 +404,7 @@
       "price": 2509.0,
       "score": 8.7,
       "label": null,
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "AMD-combinatie met 9800X3D en 16 GB Radeon voor minder geld.",
       "specs": {
         "Processor": "AMD Ryzen 7 9800X3D",
@@ -464,7 +469,7 @@
       "price": 1499.0,
       "score": 8.6,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Betaalbare merk-pc voor 1080p met dezelfde ROG-kast als het topmodel.",
       "specs": {
         "Processor": "Intel Core Ultra 5 225F",
@@ -519,7 +524,8 @@
         "2026-11-17": 1499.0
       },
       "low_price": 1499.0,
-      "ph_ean": "4711636406796"
+      "ph_ean": "4711636406796",
+      "rating": 5.0
     },
     {
       "brand": "Lenovo",
@@ -527,7 +533,7 @@
       "price": 1349.0,
       "score": 8.4,
       "label": null,
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "Compacte en zuinige instap-gaming pc van Lenovo.",
       "specs": {
         "Processor": "AMD Ryzen 7 8745HX",
@@ -592,7 +598,7 @@
       "price": 1072.49,
       "score": 8.2,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Instap-gaming pc met RTX 5060 voor ongeveer 1.100 euro.",
       "specs": {
         "Processor": "AMD Ryzen 5 5500",
@@ -629,7 +635,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5055948968580",
       "prev_price": 1099.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     }
   ],
   "guide": [

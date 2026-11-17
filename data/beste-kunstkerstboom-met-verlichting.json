@@ -25,7 +25,7 @@
       "price": 199.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "90+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Slanke maar volle boom met 350 warm witte LED's en voetschakelaar.",
       "specs": {
         "Hoogte": "210 cm, Ø 106 cm",
@@ -63,7 +63,8 @@
       },
       "low_price": 199.0,
       "synced": "2026-11-17",
-      "ph_ean": "8717591889304"
+      "ph_ean": "8717591889304",
+      "rating": 4.7
     },
     {
       "brand": "Royal Christmas",
@@ -71,7 +72,7 @@
       "price": 359.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Brede luxeboom met 450 LED's en ruim 1.300 takken.",
       "specs": {
         "Hoogte": "210 cm, Ø 134 cm",
@@ -110,7 +111,8 @@
       },
       "low_price": 359.0,
       "synced": "2026-11-17",
-      "ph_ean": "8717591890164"
+      "ph_ean": "8717591890164",
+      "rating": 5.0
     },
     {
       "brand": "Everlands",
@@ -118,7 +120,7 @@
       "price": 121.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "120+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Veel lampjes en takken voor een scherpe prijs.",
       "specs": {
         "Hoogte": "180 cm, Ø 132 cm",
@@ -158,7 +160,8 @@
       "synced": "2026-11-17",
       "prev_price": 119.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720093398496"
+      "ph_ean": "8720093398496",
+      "rating": 4.1
     },
     {
       "brand": "Royal Christmas",
@@ -166,7 +169,7 @@
       "price": 141.55,
       "score": 8.7,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Smalste boom van Royal Christmas, met dimbare LED's.",
       "specs": {
         "Hoogte": "180 cm, Ø 81 cm",
@@ -206,7 +209,8 @@
       "synced": "2026-11-17",
       "prev_price": 149.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8717591884897"
+      "ph_ean": "8717591884897",
+      "rating": 4.4
     },
     {
       "brand": "Triumph Tree",
@@ -214,7 +218,7 @@
       "price": 284.0,
       "score": 8.6,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Natuurgetrouwe borstelnaalden met bruine takaccenten en warm licht.",
       "specs": {
         "Hoogte": "215 cm, Ø 127 cm",
@@ -254,7 +258,8 @@
       "synced": "2026-11-17",
       "prev_price": 356.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8712799346147"
+      "ph_ean": "8712799346147",
+      "rating": 4.9
     },
     {
       "brand": "PristinePine",
@@ -262,7 +267,7 @@
       "price": 169.95,
       "score": 8.5,
       "label": null,
-      "reviews": "70+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Slimme boom met app, timer en kleurstanden naast warm wit.",
       "specs": {
         "Hoogte": "180 cm, Ø 125 cm",
@@ -300,7 +305,8 @@
       },
       "low_price": 169.95,
       "synced": "2026-11-17",
-      "ph_ean": "8720929477647"
+      "ph_ean": "8720929477647",
+      "rating": 4.9
     },
     {
       "brand": "Everlands",
@@ -308,7 +314,7 @@
       "price": 103.95,
       "score": 8.3,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Besneeuwde boom met 260 warm witte LED's voor een winters effect.",
       "specs": {
         "Hoogte": "180 cm, Ø 117 cm",
@@ -348,7 +354,8 @@
       "synced": "2026-11-17",
       "prev_price": 108.43,
       "prev_date": "2026-11-09",
-      "ph_ean": "8719152783106"
+      "ph_ean": "8719152783106",
+      "rating": 4.1
     },
     {
       "brand": "Black Box Trees",
@@ -356,7 +363,7 @@
       "price": 39.99,
       "score": 8.2,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Goedkope pilaarboom met dimbare LED's en timer.",
       "specs": {
         "Hoogte": "185 cm, Ø 53 cm",
@@ -396,7 +403,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8720967840267",
       "prev_price": 47.75,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.3
     },
     {
       "brand": "COSTWAY",
@@ -404,7 +412,7 @@
       "price": 87.99,
       "score": 8.0,
       "label": null,
-      "reviews": "nog geen reviews op bol",
+      "reviews": "",
       "oneliner": "Slanke, kleurrijke boom met app en afstandsbediening.",
       "specs": {
         "Hoogte": "180 cm, Ø 70 cm",
@@ -445,7 +453,7 @@
       "price": 38.29,
       "score": 7.9,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Kleine boom in pot met LED's op batterijen en timer.",
       "specs": {
         "Hoogte": "120 cm, Ø 60 cm",
@@ -485,7 +493,8 @@
       "synced": "2026-11-17",
       "prev_price": 44.59,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720983307294"
+      "ph_ean": "8720983307294",
+      "rating": 4.1
     }
   ],
   "guide": [

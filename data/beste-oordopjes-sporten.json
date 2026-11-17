@@ -26,7 +26,7 @@
       "price": 284.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 3,2 van 5",
       "oneliner": "Sportoordopjes met oorhaak, ANC en ingebouwde hartslagmeter.",
       "specs": {
         "Type": "In-ear",
@@ -87,7 +87,8 @@
       "low_price": 262.95,
       "prev_price": 262.95,
       "prev_date": "2026-11-05",
-      "ph_ean": "0195949590887"
+      "ph_ean": "0195949590887",
+      "rating": 3.2
     },
     {
       "brand": "JBL",
@@ -95,7 +96,7 @@
       "price": 81.99,
       "score": 9.0,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Stevige oorhaak en IP68 voor sporten in elk weer.",
       "specs": {
         "Type": "In-ear",
@@ -155,7 +156,8 @@
       "low_price": 81.99,
       "prev_price": 84.39,
       "prev_date": "2026-11-11",
-      "ph_ean": "1200130027628"
+      "ph_ean": "1200130027628",
+      "rating": 4.2
     },
     {
       "brand": "Soundcore",
@@ -163,7 +165,7 @@
       "price": 63.17,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Draai- en verlengbare oorhaken, IP68 en ANC voor 72 euro.",
       "specs": {
         "Type": "In-ear",
@@ -223,7 +225,8 @@
       "low_price": 63.17,
       "prev_price": 66.49,
       "prev_date": "2026-11-14",
-      "ph_ean": "0194644187002"
+      "ph_ean": "0194644187002",
+      "rating": 4.3
     },
     {
       "brand": "Shokz",
@@ -231,7 +234,7 @@
       "price": 149.0,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Botgeleiding met betere bas, je oren blijven vrij.",
       "specs": {
         "Type": "Botgeleiding",
@@ -291,7 +294,8 @@
       "low_price": 149.0,
       "prev_price": 169.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "0810092678922"
+      "ph_ean": "0810092678922",
+      "rating": 4.5
     },
     {
       "brand": "Sony",
@@ -299,7 +303,7 @@
       "price": 134.0,
       "score": 8.6,
       "label": null,
-      "reviews": "1.000+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Ultralichte oordopjes met vleugeltjes, voor sport en dagelijks gebruik.",
       "specs": {
         "Type": "In-ear",
@@ -339,7 +343,8 @@
       "synced": "2026-11-17",
       "ph_ean": "4548736157934",
       "prev_price": 133.56,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.6
     },
     {
       "brand": "JLab",
@@ -347,7 +352,7 @@
       "price": 119.99,
       "score": 8.5,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Oorhaak, hybride ANC en LDAC voor onder de 100 euro.",
       "specs": {
         "Type": "In-ear",
@@ -407,7 +412,8 @@
       "low_price": 99.0,
       "prev_price": 99.0,
       "prev_date": "2026-10-31",
-      "ph_ean": "0810119072382"
+      "ph_ean": "0810119072382",
+      "rating": 4.0
     },
     {
       "brand": "Soundcore",
@@ -415,7 +421,7 @@
       "price": 84.99,
       "score": 8.4,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Open-ear oordopjes met verstelbare haak en volle klank.",
       "specs": {
         "Type": "Open-ear",
@@ -475,7 +481,8 @@
       "low_price": 84.99,
       "prev_price": 118.95,
       "prev_date": "2026-11-08",
-      "ph_ean": "0194644298890"
+      "ph_ean": "0194644298890",
+      "rating": 4.5
     },
     {
       "brand": "Shokz",
@@ -483,7 +490,7 @@
       "price": 99.0,
       "score": 8.2,
       "label": null,
-      "reviews": "2.400+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Bewezen botgeleiding met IP67, nu met USB-C-laden.",
       "specs": {
         "Type": "Botgeleiding",
@@ -543,7 +550,8 @@
       "low_price": 99.0,
       "prev_price": 116.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "0810092679837"
+      "ph_ean": "0810092679837",
+      "rating": 4.4
     },
     {
       "brand": "JBL",
@@ -551,7 +559,7 @@
       "price": 65.99,
       "score": 8.0,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 3,6 van 5",
       "oneliner": "Compacte sportoordopjes zonder haak met ANC en IP67.",
       "specs": {
         "Type": "In-ear",
@@ -611,7 +619,8 @@
       "low_price": 64.99,
       "prev_price": 64.99,
       "prev_date": "2026-11-10",
-      "ph_ean": "1200130014291"
+      "ph_ean": "1200130014291",
+      "rating": 3.6
     },
     {
       "brand": "JLab",
@@ -619,7 +628,7 @@
       "price": 29.99,
       "score": 7.8,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Goedkope sportoordopjes met oorhaak en 35 uur batterij.",
       "specs": {
         "Type": "In-ear",
@@ -679,7 +688,8 @@
       "low_price": 29.99,
       "prev_price": 39.99,
       "prev_date": "2026-11-06",
-      "ph_ean": "0812887017404"
+      "ph_ean": "0812887017404",
+      "rating": 4.0
     }
   ],
   "guide": [

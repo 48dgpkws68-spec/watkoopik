@@ -25,7 +25,7 @@
       "ean": "0088381897938",
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Lichte en sterke accublazer voor het grootste deel van de tuinen.",
       "specs": {
         "Voeding": "18V LXT accu",
@@ -88,7 +88,8 @@
       "low_price": 58.99,
       "prev_price": 63.96,
       "prev_date": "2026-11-16",
-      "ph_ean": "0088381897938"
+      "ph_ean": "0088381897938",
+      "rating": 4.7
     },
     {
       "brand": "Gardena",
@@ -96,7 +97,7 @@
       "ean": "4078500054324",
       "score": 9.1,
       "label": null,
-      "reviews": "4,2/5 op bol",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Complete accuset die meteen klaar is voor gebruik.",
       "specs": {
         "Voeding": "18V Power for All, 2,5 Ah",
@@ -140,7 +141,8 @@
       "synced": "2026-11-17",
       "prev_price": 133.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "4078500054324"
+      "ph_ean": "4078500054324",
+      "rating": 4.2
     },
     {
       "brand": "Bosch",
@@ -148,7 +150,7 @@
       "ean": "4059952546995",
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Krachtige 36V-blazer die ook grotere tuinen aankan.",
       "specs": {
         "Voeding": "36V accu, 2,0 Ah",
@@ -211,7 +213,8 @@
       "low_price": 230.0,
       "prev_price": 230.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "4059952546995"
+      "ph_ean": "4059952546995",
+      "rating": 4.6
     },
     {
       "brand": "Einhell",
@@ -219,7 +222,7 @@
       "ean": "4006825663631",
       "score": 8.9,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Accublazer die ook zuigt en versnippert.",
       "specs": {
         "Voeding": "18V Power X-Change",
@@ -281,7 +284,8 @@
       "low_price": 98.5,
       "prev_price": 103.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "4006825663631"
+      "ph_ean": "4006825663631",
+      "rating": 4.7
     },
     {
       "brand": "Ryobi",
@@ -289,7 +293,7 @@
       "ean": "4892210143488",
       "score": 8.6,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Zeer lichte blazer voor terras, oprit en schuur.",
       "specs": {
         "Voeding": "18V ONE+",
@@ -351,7 +355,8 @@
       "low_price": 54.49,
       "prev_price": 54.49,
       "prev_date": "2026-11-11",
-      "ph_ean": "4892210143488"
+      "ph_ean": "4892210143488",
+      "rating": 4.7
     },
     {
       "brand": "Bosch",
@@ -359,7 +364,7 @@
       "ean": "4059952553719",
       "score": 8.5,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Krachtige 3-in-1 op snoer met grote opvangzak.",
       "specs": {
         "Voeding": "Snoer, 3000 W",
@@ -419,7 +424,8 @@
       "low_price": 94.0,
       "prev_price": 94.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "4059952553719"
+      "ph_ean": "4059952553719",
+      "rating": 4.4
     },
     {
       "brand": "BLACK+DECKER",
@@ -465,7 +471,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5035048640029",
       "prev_price": 76.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.2
     },
     {
       "brand": "VONROC",
@@ -473,7 +480,7 @@
       "ean": "8717479081455",
       "score": 8.3,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.000+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Goedkope 3-in-1 met veel vermogen en grote zak.",
       "specs": {
         "Voeding": "Snoer, 3300 W",
@@ -535,7 +542,8 @@
       "low_price": 33.95,
       "prev_price": 34.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8717479081455"
+      "ph_ean": "8717479081455",
+      "rating": 4.3
     },
     {
       "brand": "Einhell",
@@ -543,7 +551,7 @@
       "ean": "4006825679793",
       "score": 8.2,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Universele accublazer met accu en lader in de doos.",
       "specs": {
         "Voeding": "18V Power X-Change, 2,5 Ah",
@@ -603,7 +611,8 @@
         "2026-11-17": 82.99
       },
       "low_price": 82.99,
-      "ph_ean": "4006825679793"
+      "ph_ean": "4006825679793",
+      "rating": 4.2
     },
     {
       "brand": "Makita",
@@ -611,7 +620,7 @@
       "ean": "0088381887670",
       "score": 8.0,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Professionele accublazer met veel luchtvolume.",
       "specs": {
         "Voeding": "18V LXT accu",
@@ -673,7 +682,8 @@
       "low_price": 131.64,
       "prev_price": 140.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "0088381887670"
+      "ph_ean": "0088381887670",
+      "rating": 4.7
     }
   ],
   "guide": [

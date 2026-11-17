@@ -25,7 +25,7 @@
       "price": 179.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Krachtige staande straler met gedempt licht en afstandsbediening.",
       "specs": {
         "Type": "Elektrisch, infrarood",
@@ -82,7 +82,8 @@
       "low_price": 179.0,
       "prev_price": 207.99,
       "prev_date": "2026-10-21",
-      "ph_ean": "8719956292163"
+      "ph_ean": "8719956292163",
+      "rating": 4.8
     },
     {
       "brand": "Sunred",
@@ -90,7 +91,7 @@
       "price": 395.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Designheater met gevlochten olefin-kap die als meubelstuk oogt.",
       "specs": {
         "Type": "Elektrisch, infrarood",
@@ -147,7 +148,8 @@
       "low_price": 388.05,
       "ph_ean": "8719956290787",
       "prev_price": 388.05,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "Eurom",
@@ -155,7 +157,7 @@
       "price": 136.07,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Degelijke wandstraler met low-glare lamp voor een vaste plek.",
       "specs": {
         "Type": "Elektrisch, infrarood",
@@ -211,7 +213,8 @@
       "low_price": 132.47,
       "prev_price": 134.37,
       "prev_date": "2026-11-16",
-      "ph_ean": "8713415334449"
+      "ph_ean": "8713415334449",
+      "rating": 4.5
     },
     {
       "brand": "VOLT",
@@ -219,7 +222,7 @@
       "price": 249.0,
       "score": 8.8,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Sterkste elektrische heater hier, met wifi en vijf jaar garantie.",
       "specs": {
         "Type": "Elektrisch, infrarood",
@@ -276,7 +279,8 @@
       "low_price": 239.0,
       "prev_price": 239.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "8720274520234"
+      "ph_ean": "8720274520234",
+      "rating": 4.7
     },
     {
       "brand": "Sunred",
@@ -284,7 +288,7 @@
       "price": 234.99,
       "score": 8.7,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Gasheater met echte vlam voor een terras zonder stopcontact.",
       "specs": {
         "Type": "Gas",
@@ -340,7 +344,8 @@
       "low_price": 234.99,
       "prev_price": 279.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "8718801851210"
+      "ph_ean": "8718801851210",
+      "rating": 4.8
     },
     {
       "brand": "VONROC",
@@ -348,7 +353,7 @@
       "price": 120.95,
       "score": 8.6,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betaalbare staande carbon-heater met zwenkfunctie.",
       "specs": {
         "Type": "Elektrisch, infrarood",
@@ -404,7 +409,8 @@
       "low_price": 93.95,
       "prev_price": 93.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8717479119707"
+      "ph_ean": "8717479119707",
+      "rating": 4.7
     },
     {
       "brand": "Enders",
@@ -412,7 +418,7 @@
       "price": 369.0,
       "score": 8.3,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Compacte gasheater die warmte gericht naar voren straalt.",
       "specs": {
         "Type": "Gas",
@@ -468,7 +474,8 @@
       "low_price": 369.0,
       "prev_price": 399.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "4000591006883"
+      "ph_ean": "4000591006883",
+      "rating": 3.8
     },
     {
       "brand": "Eurom",
@@ -476,7 +483,7 @@
       "price": 79.04,
       "score": 8.2,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Hangende heater voor partytent of overkapping met timer.",
       "specs": {
         "Type": "Elektrisch, infrarood",
@@ -530,7 +537,8 @@
         "2026-11-17": 79.04
       },
       "low_price": 79.04,
-      "ph_ean": "8713415333282"
+      "ph_ean": "8713415333282",
+      "rating": 4.3
     },
     {
       "brand": "Sunred",
@@ -538,7 +546,7 @@
       "price": 129.0,
       "score": 8.1,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Klassieke paddenstoelheater met veel vermogen voor weinig geld.",
       "specs": {
         "Type": "Gas",
@@ -594,7 +602,8 @@
       "low_price": 129.0,
       "prev_price": 139.0,
       "prev_date": "2026-10-21",
-      "ph_ean": "8717568088884"
+      "ph_ean": "8717568088884",
+      "rating": 4.8
     },
     {
       "brand": "BRASQ",
@@ -653,7 +662,8 @@
       "synced": "2026-11-17",
       "prev_price": 95.95,
       "prev_date": "2026-11-16",
-      "ph_ean": "8720929105618"
+      "ph_ean": "8720929105618",
+      "rating": 4.6
     }
   ],
   "guide": [

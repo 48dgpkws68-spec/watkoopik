@@ -24,7 +24,7 @@
       "price": 765.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "180+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Ultrawide werkmonitor met Thunderbolt 4 en 120 Hz.",
       "specs": {
         "Formaat": "34 inch, 21:9, gebogen",
@@ -80,7 +80,8 @@
       "low_price": 761.33,
       "prev_price": 761.33,
       "prev_date": "2026-11-14",
-      "ph_ean": "5397184821503"
+      "ph_ean": "5397184821503",
+      "rating": 4.7
     },
     {
       "brand": "Samsung",
@@ -88,7 +89,7 @@
       "price": 233.0,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.900+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betaalbare 34 inch ultrawide met 165 Hz en sterke kromming.",
       "specs": {
         "Formaat": "34 inch, 21:9, gebogen",
@@ -152,7 +153,8 @@
       "low_price": 229.0,
       "prev_price": 235.79,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806094796315"
+      "ph_ean": "8806094796315",
+      "rating": 4.7
     },
     {
       "brand": "Samsung",
@@ -160,7 +162,7 @@
       "price": 799.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "260+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Super-ultrawide van 49 inch in 32:9 met QD-OLED.",
       "specs": {
         "Formaat": "49 inch, 32:9, gebogen",
@@ -217,7 +219,8 @@
       "low_price": 789.0,
       "prev_price": 789.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "8806095810812"
+      "ph_ean": "8806095810812",
+      "rating": 5.0
     },
     {
       "brand": "MSI",
@@ -261,7 +264,8 @@
       "ph_ean": "4711377191302",
       "synced": "2026-11-17",
       "prev_price": 709.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "LG",
@@ -269,7 +273,7 @@
       "price": 689.95,
       "score": 8.9,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Snelle OLED-ultrawide met 240 Hz en sterke kromming.",
       "specs": {
         "Formaat": "34 inch, 21:9, gebogen",
@@ -325,7 +329,8 @@
       "low_price": 689.95,
       "prev_price": 699.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "8806096492499"
+      "ph_ean": "8806096492499",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -333,7 +338,7 @@
       "price": 327.0,
       "score": 8.6,
       "label": null,
-      "reviews": "320+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Ultrawide met webcam en USB-C, gemaakt voor thuiswerken.",
       "specs": {
         "Formaat": "34 inch, 21:9, gebogen",
@@ -389,7 +394,8 @@
       "low_price": 279.31,
       "prev_price": 279.31,
       "prev_date": "2026-11-04",
-      "ph_ean": "8712581783464"
+      "ph_ean": "8712581783464",
+      "rating": 4.8
     },
     {
       "brand": "Dell",
@@ -397,7 +403,7 @@
       "price": 449.0,
       "score": 8.7,
       "label": null,
-      "reviews": "90+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Zakelijke ultrawide met 90 W USB-C-dock en netwerkpoort.",
       "specs": {
         "Formaat": "34 inch, 21:9, gebogen",
@@ -453,7 +459,8 @@
       "low_price": 437.77,
       "prev_price": 451.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "5397184962510"
+      "ph_ean": "5397184962510",
+      "rating": 4.6
     },
     {
       "brand": "AOC",
@@ -461,7 +468,7 @@
       "price": 199.0,
       "score": 8.3,
       "label": null,
-      "reviews": "210+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Goedkope 34 inch gaming-ultrawide met 180 Hz.",
       "specs": {
         "Formaat": "34 inch, 21:9, gebogen",
@@ -518,7 +525,8 @@
       "low_price": 199.0,
       "prev_price": 249.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "4038986612708"
+      "ph_ean": "4038986612708",
+      "rating": 4.8
     },
     {
       "brand": "LG",
@@ -560,7 +568,8 @@
         "2026-11-17": 279.0
       },
       "low_price": 279.0,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.3
     },
     {
       "brand": "ASUS",
@@ -568,7 +577,7 @@
       "price": 279.0,
       "score": 8.4,
       "label": null,
-      "reviews": "160+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Stevige gaming-ultrawide met 180 Hz en verstelbare voet.",
       "specs": {
         "Formaat": "34 inch, 21:9, gebogen",
@@ -625,7 +634,8 @@
       "low_price": 271.43,
       "prev_price": 289.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "4711387530092"
+      "ph_ean": "4711387530092",
+      "rating": 4.5
     }
   ],
   "guide": [

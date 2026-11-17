@@ -25,7 +25,7 @@
       "price": 145.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "2.300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Krachtig, 28 uur accuduur en laadt je telefoon op.",
       "specs": {
         "Accuduur": "tot 28 uur",
@@ -91,7 +91,8 @@
       "low_price": 135.0,
       "prev_price": 135.0,
       "prev_date": "2026-11-02",
-      "ph_ean": "1200130019555"
+      "ph_ean": "1200130019555",
+      "rating": 4.7
     },
     {
       "brand": "Ultimate Ears",
@@ -99,7 +100,7 @@
       "price": 42.97,
       "score": 8.5,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "Lichtere Wonderboom die drijft, voor rond de 50 euro.",
       "specs": {
         "Accuduur": "tot 10 uur",
@@ -151,7 +152,7 @@
       "price": 289.95,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "640+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Beste geluid dat je mee kunt nemen, met rijke, diepe bas.",
       "specs": {
         "Accuduur": "tot 20 uur",
@@ -185,7 +186,8 @@
         "2026-11-17": 289.95
       },
       "low_price": 289.95,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.8
     },
     {
       "brand": "Sonos",
@@ -193,7 +195,7 @@
       "price": 159.0,
       "score": 8.8,
       "label": null,
-      "reviews": "720+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Wifi en bluetooth in één, past in je multiroom-systeem.",
       "specs": {
         "Accuduur": "tot 10 uur",
@@ -259,7 +261,8 @@
       "low_price": 159.0,
       "prev_price": 189.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720862502680"
+      "ph_ean": "8720862502680",
+      "rating": 4.3
     },
     {
       "brand": "JBL",
@@ -267,7 +270,7 @@
       "price": 106.0,
       "score": 8.9,
       "label": null,
-      "reviews": "1.800+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Compacte alleskunner met 16 uur accuduur en IP68.",
       "specs": {
         "Accuduur": "tot 16 uur",
@@ -333,7 +336,8 @@
       "low_price": 106.0,
       "prev_price": 119.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "1200130019272"
+      "ph_ean": "1200130019272",
+      "rating": 4.6
     },
     {
       "brand": "Marshall",
@@ -341,7 +345,7 @@
       "price": 119.0,
       "score": 8.7,
       "label": null,
-      "reviews": "980+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Rock-and-roll-uiterlijk met 32 uur accuduur en 360 graden geluid.",
       "specs": {
         "Accuduur": "tot 32 uur",
@@ -407,7 +411,8 @@
       "low_price": 119.0,
       "prev_price": 136.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "7340055402255"
+      "ph_ean": "7340055402255",
+      "rating": 4.8
     },
     {
       "brand": "soundcore by Anker",
@@ -415,7 +420,7 @@
       "price": 74.99,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Robuuste IP68-speaker van 50 watt die zelfs blijft drijven.",
       "specs": {
         "Accuduur": "Tot 16 uur",
@@ -464,7 +469,8 @@
       "synced": "2026-11-17",
       "prev_price": 126.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "0194644279936"
+      "ph_ean": "0194644279936",
+      "rating": 4.4
     },
     {
       "brand": "Sony",
@@ -472,7 +478,7 @@
       "price": 59.0,
       "score": 8.4,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "ULT-knop voor extra bas, stevig en 12 uur accuduur.",
       "specs": {
         "Accuduur": "tot 12 uur",
@@ -528,7 +534,8 @@
       "low_price": 59.0,
       "prev_price": 77.09,
       "prev_date": "2026-11-08",
-      "ph_ean": "4548736157088"
+      "ph_ean": "4548736157088",
+      "rating": 4.8
     },
     {
       "brand": "Bose",
@@ -536,7 +543,7 @@
       "price": 99.0,
       "score": 8.8,
       "label": null,
-      "reviews": "1.250+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Beste geluid in het middensegment, plat en handzaam.",
       "specs": {
         "Accuduur": "tot 12 uur",
@@ -570,7 +577,8 @@
         "2026-11-16": 99.0
       },
       "low_price": 99.0,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "JBL",
@@ -618,7 +626,8 @@
       },
       "low_price": 283.68,
       "synced": "2026-11-17",
-      "ph_ean": "1200130033766"
+      "ph_ean": "1200130033766",
+      "rating": 4.7
     }
   ],
   "guide": [

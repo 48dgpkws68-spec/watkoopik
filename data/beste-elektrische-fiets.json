@@ -25,7 +25,7 @@
       "price": 1139.0,
       "score": 9.0,
       "label": "Beste keuze",
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Stadse e-bike met 70 Nm middenmotor en Shimano-schakeling.",
       "specs": {
         "Motor": "Middenmotor, 70 Nm",
@@ -88,7 +88,8 @@
       "low_price": 1139.0,
       "prev_price": 1169.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4262508280001"
+      "ph_ean": "4262508280001",
+      "rating": 4.5
     },
     {
       "brand": "Rabeneick",
@@ -96,7 +97,7 @@
       "price": 1329.0,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "Comfortabele e-bike met middenmotor en traploze Enviolo-naaf.",
       "specs": {
         "Motor": "Middenmotor, 75 Nm",
@@ -167,7 +168,7 @@
       "price": 1072.49,
       "score": 8.7,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "",
       "oneliner": "Stadsfiets met middenmotor en grote accu van 540 Wh.",
       "specs": {
         "Motor": "Middenmotor, 250 W",
@@ -229,7 +230,7 @@
       "price": 1595.0,
       "score": 8.6,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Strakke Nederlandse e-bike met universele onderdelen.",
       "specs": {
         "Motor": "Achterwielmotor, 250 W",
@@ -291,7 +292,8 @@
       "low_price": 1129.95,
       "prev_price": 1350.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719327531853"
+      "ph_ean": "8719327531853",
+      "rating": 5.0
     },
     {
       "brand": "ENGWE",
@@ -299,7 +301,7 @@
       "price": 1299.0,
       "score": 8.5,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Compacte fatbike met 20 inch banden en grote actieradius.",
       "specs": {
         "Motor": "Achterwielmotor, 250 W",
@@ -361,7 +363,8 @@
       "low_price": 1299.0,
       "ph_ean": "0765026515142",
       "prev_price": 1399.0,
-      "prev_date": "2026-11-11"
+      "prev_date": "2026-11-11",
+      "rating": 4.0
     },
     {
       "brand": "TTGO",
@@ -369,7 +372,7 @@
       "price": 899.0,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Stads e-bike met 28 inch wielen en een grote accu van 648 Wh.",
       "specs": {
         "Motor": "Achterwielmotor, 250 W",
@@ -405,7 +408,8 @@
       },
       "low_price": 899.0,
       "synced": "2026-11-17",
-      "ph_ean": "0762740023861"
+      "ph_ean": "0762740023861",
+      "rating": 5.0
     },
     {
       "brand": "Saxonette",
@@ -413,7 +417,7 @@
       "price": 899.0,
       "score": 8.2,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "Duitse dames e-bike met 7 versnellingen en lage instap.",
       "specs": {
         "Motor": "Voorwielmotor, 250 W",
@@ -481,7 +485,7 @@
       "price": 740.02,
       "score": 8.3,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Opvouwbare e-bike met dikke banden en grote accu.",
       "specs": {
         "Motor": "Achterwielmotor, 250 W",
@@ -543,7 +547,8 @@
       "low_price": 740.02,
       "prev_price": 779.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "6978962178393"
+      "ph_ean": "6978962178393",
+      "rating": 5.0
     },
     {
       "brand": "Touroll",
@@ -551,7 +556,7 @@
       "price": 662.02,
       "score": 8.1,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Stap-in e-bike met grote accu van 561 Wh.",
       "specs": {
         "Motor": "Achterwielmotor, 250 W",
@@ -613,7 +618,8 @@
       "low_price": 662.02,
       "prev_price": 699.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "5010065301658"
+      "ph_ean": "5010065301658",
+      "rating": 3.8
     },
     {
       "brand": "Hitway",
@@ -621,7 +627,7 @@
       "price": 699.99,
       "score": 8.0,
       "label": null,
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Trendy 27,5 inch e-bike voor woon-werkverkeer.",
       "specs": {
         "Motor": "Achterwielmotor, 250 W",
@@ -683,7 +689,8 @@
       "low_price": 699.99,
       "ph_ean": "8711551987567",
       "prev_price": 749.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     }
   ],
   "guide": [

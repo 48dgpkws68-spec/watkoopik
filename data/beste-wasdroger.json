@@ -25,7 +25,7 @@
       "price": 1049.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Topdroger van Bosch met zelfreinigende condensor en 9 kilo trommel.",
       "specs": {
         "Vulgewicht": "9 kg",
@@ -89,7 +89,8 @@
       "low_price": 1009.0,
       "prev_price": 1009.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4242005526413"
+      "ph_ean": "4242005526413",
+      "rating": 5.0
     },
     {
       "brand": "Bosch",
@@ -97,7 +98,7 @@
       "price": 779.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "2.100+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "A+++, zelfreinigende condensor en stil voor een gezinsprijs.",
       "specs": {
         "Vulgewicht": "9 kg",
@@ -137,7 +138,8 @@
       },
       "low_price": 779.0,
       "synced": "2026-11-17",
-      "ph_ean": "4242005423729"
+      "ph_ean": "4242005423729",
+      "rating": 4.0
     },
     {
       "brand": "Samsung",
@@ -145,7 +147,7 @@
       "price": 849.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Slimme Samsung-droger met AI-droogprogramma en Silent Dry.",
       "specs": {
         "Vulgewicht": "9 kg",
@@ -209,7 +211,8 @@
       "low_price": 849.0,
       "prev_price": 899.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806097341895"
+      "ph_ean": "8806097341895",
+      "rating": 4.7
     },
     {
       "brand": "AEG",
@@ -217,7 +220,7 @@
       "price": 849.0,
       "score": 8.9,
       "label": null,
-      "reviews": "720+ reviews",
+      "reviews": "",
       "oneliner": "Droogt wol en zijde zo zacht dat je ze in de droger durft te doen.",
       "specs": {
         "Vulgewicht": "8 kg",
@@ -290,7 +293,7 @@
       "price": 829.0,
       "score": 8.8,
       "label": null,
-      "reviews": "640+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Zelfreinigende condensor en Home Connect in een strak jasje.",
       "specs": {
         "Vulgewicht": "9 kg",
@@ -355,7 +358,8 @@
       "low_price": 829.0,
       "prev_price": 889.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "4242003939956"
+      "ph_ean": "4242003939956",
+      "rating": 5.0
     },
     {
       "brand": "LG",
@@ -363,7 +367,7 @@
       "price": 749.0,
       "score": 8.7,
       "label": null,
-      "reviews": "860+ reviews",
+      "reviews": "",
       "oneliner": "Dual Inverter-warmtepomp met 10 jaar garantie en zelfreinigende condensor.",
       "specs": {
         "Vulgewicht": "9 kg",
@@ -435,7 +439,7 @@
       "price": 667.0,
       "score": 8.4,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Betaalbare warmtepompdroger van Bosch met Auto Dry en stille werking.",
       "specs": {
         "Vulgewicht": "8 kg",
@@ -499,7 +503,8 @@
       "low_price": 599.0,
       "prev_price": 668.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4242005469673"
+      "ph_ean": "4242005469673",
+      "rating": 4.3
     },
     {
       "brand": "Haier",
@@ -507,7 +512,7 @@
       "price": 571.0,
       "score": 8.3,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 3,0 van 5",
       "oneliner": "Zuinige Haier-warmtepompdroger met inverter-motor en 10 jaar garantie op onderdelen.",
       "specs": {
         "Vulgewicht": "8 kg",
@@ -571,7 +576,8 @@
       "low_price": 569.0,
       "prev_price": 570.0,
       "prev_date": "2026-11-06",
-      "ph_ean": "8059019082448"
+      "ph_ean": "8059019082448",
+      "rating": 3.0
     },
     {
       "brand": "Whirlpool",
@@ -579,7 +585,7 @@
       "price": 629.0,
       "score": 8.2,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Warmtepompdroger van Whirlpool met FreshCare en een zuinige motor.",
       "specs": {
         "Vulgewicht": "8 kg",
@@ -643,7 +649,8 @@
       "low_price": 629.0,
       "prev_price": 759.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8003437624827"
+      "ph_ean": "8003437624827",
+      "rating": 5.0
     },
     {
       "brand": "Beko",
@@ -651,7 +658,7 @@
       "price": 549.0,
       "score": 8.0,
       "label": null,
-      "reviews": "910+ reviews",
+      "reviews": "",
       "oneliner": "Goedkoopste warmtepompdroger met A+++ en 8 kilo.",
       "specs": {
         "Vulgewicht": "8 kg",

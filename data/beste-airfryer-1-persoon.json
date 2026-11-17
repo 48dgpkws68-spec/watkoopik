@@ -24,7 +24,7 @@
       "price": 86.78,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "2.400+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Krokant resultaat in een compacte mand van 3,8 liter.",
       "specs": {
         "Inhoud": "3,8 l",
@@ -84,7 +84,8 @@
       "low_price": 86.78,
       "prev_price": 89.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "0622356230643"
+      "ph_ean": "0622356230643",
+      "rating": 4.8
     },
     {
       "brand": "Tefal",
@@ -92,7 +93,7 @@
       "price": 59.99,
       "score": 8.9,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Smalle airfryer van 3 liter met tien programma's.",
       "specs": {
         "Inhoud": "3 l",
@@ -152,7 +153,8 @@
       "low_price": 59.99,
       "prev_price": 68.99,
       "prev_date": "2026-11-04",
-      "ph_ean": "3045387291020"
+      "ph_ean": "3045387291020",
+      "rating": 4.8
     },
     {
       "brand": "Ninja",
@@ -160,7 +162,7 @@
       "price": 112.5,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Glazen schalen waarin je bereidt, serveert en bewaart.",
       "specs": {
         "Inhoud": "3,8 l + 1,4 l glas",
@@ -220,7 +222,8 @@
       "low_price": 109.95,
       "prev_price": 116.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "0622356307741"
+      "ph_ean": "0622356307741",
+      "rating": 4.6
     },
     {
       "brand": "Philips",
@@ -228,7 +231,7 @@
       "price": 87.7,
       "score": 8.8,
       "label": null,
-      "reviews": "1.000+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Philips-kwaliteit met kijkvenster in een mand van 4,2 liter.",
       "specs": {
         "Inhoud": "4,2 l",
@@ -282,7 +285,8 @@
       "low_price": 69.0,
       "prev_price": 87.6,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720389034848"
+      "ph_ean": "8720389034848",
+      "rating": 4.6
     },
     {
       "brand": "Tomado",
@@ -290,7 +294,7 @@
       "price": 42.49,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "650+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Ruim genoeg voor één, voor de prijs van een mini-airfryer.",
       "specs": {
         "Inhoud": "3,2 l",
@@ -350,7 +354,8 @@
       "low_price": 42.49,
       "prev_price": 44.95,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712876501582"
+      "ph_ean": "8712876501582",
+      "rating": 4.5
     },
     {
       "brand": "Philips",
@@ -358,7 +363,7 @@
       "price": 118.99,
       "score": 8.7,
       "label": null,
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Met kijkvenster zodat je ziet wanneer je eten klaar is.",
       "specs": {
         "Inhoud": "4,2 l",
@@ -420,7 +425,8 @@
       "low_price": 108.89,
       "prev_price": 109.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "8720389034671"
+      "ph_ean": "8720389034671",
+      "rating": 4.4
     },
     {
       "brand": "KitchenBrothers",
@@ -428,7 +434,7 @@
       "price": 49.99,
       "score": 8.4,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Compacte airfryer met kijkvenster voor een lage prijs.",
       "specs": {
         "Inhoud": "3,3 l",
@@ -488,7 +494,8 @@
       "low_price": 45.99,
       "prev_price": 45.99,
       "prev_date": "2026-11-09",
-      "ph_ean": "8721055562467"
+      "ph_ean": "8721055562467",
+      "rating": 4.6
     },
     {
       "brand": "Tristar",
@@ -496,7 +503,7 @@
       "price": 29.99,
       "score": 8.2,
       "label": null,
-      "reviews": "450+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Klein en zuinig voor snacks en kleine maaltijden.",
       "specs": {
         "Inhoud": "2 l",
@@ -556,7 +563,8 @@
       "low_price": 29.99,
       "prev_price": 44.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712836988606"
+      "ph_ean": "8712836988606",
+      "rating": 4.6
     },
     {
       "brand": "Tomado",
@@ -564,7 +572,7 @@
       "price": 32.99,
       "score": 8.1,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Mini-airfryer van 2 liter met PFAS-vrije mand.",
       "specs": {
         "Inhoud": "2 l",
@@ -624,7 +632,8 @@
       "low_price": 32.99,
       "prev_price": 36.95,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712876502510"
+      "ph_ean": "8712876502510",
+      "rating": 4.5
     },
     {
       "brand": "Tristar",
@@ -632,7 +641,7 @@
       "price": 28.99,
       "score": 7.9,
       "label": null,
-      "reviews": "350+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "De goedkoopste manier om alleen krokant te bakken.",
       "specs": {
         "Inhoud": "2 l",
@@ -692,7 +701,8 @@
       "low_price": 28.99,
       "prev_price": 33.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712836990937"
+      "ph_ean": "8712836990937",
+      "rating": 4.5
     }
   ],
   "guide": [

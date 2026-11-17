@@ -25,7 +25,7 @@
       "price": 1049.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Ruime L-hoekbank in zachte ribstof met diepe loungezit.",
       "specs": {
         "Vorm": "L-vorm",
@@ -81,7 +81,8 @@
       "low_price": 1049.0,
       "prev_price": 1399.0,
       "prev_date": "2026-11-16",
-      "ph_ean": "8714713068876"
+      "ph_ean": "8714713068876",
+      "rating": 4.5
     },
     {
       "brand": "Beliani",
@@ -89,7 +90,7 @@
       "price": 839.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Fluwelen L-hoekbank van 270 cm voor een scherpe prijs.",
       "specs": {
         "Vorm": "L-vorm",
@@ -143,7 +144,8 @@
         "2026-11-17": 839.99
       },
       "low_price": 839.99,
-      "ph_ean": "4251682220514"
+      "ph_ean": "4251682220514",
+      "rating": 5.0
     },
     {
       "brand": "WOOOD",
@@ -151,7 +153,7 @@
       "price": 2899.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Royale wolkbank met extreem diepe zit en zachte chenille.",
       "specs": {
         "Vorm": "L-vorm",
@@ -212,7 +214,7 @@
       "price": 1239.2,
       "score": 8.8,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Organisch gevormde driezitter met lange chaise longue.",
       "specs": {
         "Vorm": "Chaise longue",
@@ -269,7 +271,7 @@
       "price": 899.0,
       "score": 8.7,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Leren hoekbank in zwart voor weinig onderhoud.",
       "specs": {
         "Vorm": "L-vorm",
@@ -323,7 +325,8 @@
         "2026-11-17": 899.0
       },
       "low_price": 899.0,
-      "ph_ean": "8721055841784"
+      "ph_ean": "8721055841784",
+      "rating": 4.3
     },
     {
       "brand": "Dimehouse",
@@ -331,7 +334,7 @@
       "price": 1259.96,
       "score": 8.6,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Compacte hoekbank in gemêleerde chenille met een rustige Scandinavische vorm.",
       "specs": {
         "Vorm": "L-vorm",
@@ -383,7 +386,7 @@
       "price": 1199.95,
       "score": 8.6,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Bouclé hoekbank in warm roze met ronde armleuningen.",
       "specs": {
         "Vorm": "L-vorm",
@@ -433,7 +436,7 @@
       "price": 1439.99,
       "score": 8.4,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Hoekbank met elektrisch verstelbare relaxzitplaatsen.",
       "specs": {
         "Vorm": "L-vorm",
@@ -497,7 +500,7 @@
       "price": 761.0,
       "score": 8.3,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Compacte hoekbank met verstelbare chaise longue op houten poten.",
       "specs": {
         "Vorm": "Chaise longue",
@@ -558,7 +561,7 @@
       "price": 522.1,
       "score": 8.2,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Kleinste en voordeligste hoekbank, chaise links of rechts.",
       "specs": {
         "Vorm": "Chaise longue",

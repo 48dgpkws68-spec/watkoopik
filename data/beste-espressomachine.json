@@ -24,7 +24,7 @@
       "price": 649.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "3.100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Ingebouwde maler en slimme tamphulp, ideaal om mee te leren.",
       "specs": {
         "Type": "Piston met maler",
@@ -87,7 +87,8 @@
       "low_price": 619.0,
       "prev_price": 655.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "9355973097917"
+      "ph_ean": "9355973097917",
+      "rating": 4.3
     },
     {
       "brand": "De'Longhi",
@@ -95,7 +96,7 @@
       "price": 329.0,
       "score": 9.0,
       "label": null,
-      "reviews": "2.400+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Complete set met maler en tamper voor een scherpe prijs.",
       "specs": {
         "Type": "Piston met maler",
@@ -159,7 +160,8 @@
       "low_price": 322.19,
       "prev_price": 375.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8004399021921"
+      "ph_ean": "8004399021921",
+      "rating": 4.8
     },
     {
       "brand": "Sage",
@@ -167,7 +169,7 @@
       "price": 419.0,
       "score": 8.9,
       "label": null,
-      "reviews": "2.700+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Compact, binnen drie seconden klaar en automatisch melk opschuimen.",
       "specs": {
         "Type": "Piston zonder maler",
@@ -230,7 +232,8 @@
       "low_price": 419.0,
       "prev_price": 446.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "9312432031523"
+      "ph_ean": "9312432031523",
+      "rating": 4.9
     },
     {
       "brand": "De'Longhi",
@@ -238,7 +241,7 @@
       "price": 134.0,
       "score": 8.5,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "6.800+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Smalle instapper met goede espresso voor weinig geld.",
       "specs": {
         "Type": "Piston zonder maler",
@@ -302,7 +305,8 @@
       "low_price": 132.66,
       "prev_price": 132.66,
       "prev_date": "2026-11-14",
-      "ph_ean": "8004399331198"
+      "ph_ean": "8004399331198",
+      "rating": 4.3
     },
     {
       "brand": "Gaggia",
@@ -310,7 +314,7 @@
       "price": 449.0,
       "score": 8.8,
       "label": null,
-      "reviews": "1.500+ reviews",
+      "reviews": "",
       "oneliner": "Italiaanse klassieker met commerciële zetgroep en eindeloos te upgraden.",
       "specs": {
         "Type": "Piston zonder maler",
@@ -379,7 +383,7 @@
       "price": 599.0,
       "score": 8.9,
       "label": null,
-      "reviews": "1.900+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Snellere Barista Express met display en fijnere maler.",
       "specs": {
         "Type": "Piston met maler",
@@ -442,7 +446,8 @@
       "low_price": 599.0,
       "prev_price": 670.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "9312432032834"
+      "ph_ean": "9312432032834",
+      "rating": 4.7
     },
     {
       "brand": "Lelit",
@@ -450,7 +455,7 @@
       "price": 580.95,
       "score": 8.6,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "",
       "oneliner": "Compacte Italiaan met PID en professionele 58 mm zetgroep.",
       "specs": {
         "Type": "Piston zonder maler",
@@ -521,7 +526,7 @@
       "price": 1159.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "E61-zetgroep en warmtewisselaar: tegelijk zetten en stomen.",
       "specs": {
         "Type": "Piston zonder maler",
@@ -582,7 +587,8 @@
         "2026-11-17": 1159.0
       },
       "low_price": 1159.0,
-      "ph_ean": "8009437002382"
+      "ph_ean": "8009437002382",
+      "rating": 5.0
     },
     {
       "brand": "De'Longhi",
@@ -590,7 +596,7 @@
       "price": 529.9,
       "score": 8.7,
       "label": null,
-      "reviews": "Beoordeeld op bol",
+      "reviews": "",
       "oneliner": "Pistonmachine met ingebouwde molen en Cold Brew-functie.",
       "specs": {
         "Type": "Pistonmachine met molen",
@@ -632,7 +638,7 @@
       "price": 329.9,
       "score": 8.2,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Zwitserse middenklasser met PID en dubbel verwarmingssysteem.",
       "specs": {
         "Type": "Piston zonder maler",
@@ -696,7 +702,8 @@
       "low_price": 329.9,
       "prev_price": 339.9,
       "prev_date": "2026-11-12",
-      "ph_ean": "7611210980810"
+      "ph_ean": "7611210980810",
+      "rating": 4.0
     }
   ],
   "guide": [

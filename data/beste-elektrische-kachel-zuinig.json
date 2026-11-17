@@ -25,7 +25,7 @@
       "price": 222.2,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "",
       "oneliner": "Slimme olieradiator met app, weekschema en een gelijkmatige stille warmte.",
       "specs": {
         "Type": "Olieradiator",
@@ -88,7 +88,7 @@
       "price": 269.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "120+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Noorse wandconvector met zeer nauwkeurige thermostaat en app.",
       "specs": {
         "Type": "Wandconvector",
@@ -146,7 +146,8 @@
         "2026-11-17": 269.0
       },
       "low_price": 269.0,
-      "ph_ean": "7040664100480"
+      "ph_ean": "7040664100480",
+      "rating": 4.9
     },
     {
       "brand": "Eurom",
@@ -154,7 +155,7 @@
       "price": 102.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Betaalbare convector met app, weekschema en open-raamdetectie.",
       "specs": {
         "Type": "Convector",
@@ -214,7 +215,8 @@
       "low_price": 96.84,
       "prev_price": 106.39,
       "prev_date": "2026-11-11",
-      "ph_ean": "8713415360745"
+      "ph_ean": "8713415360745",
+      "rating": 4.2
     },
     {
       "brand": "Komodo",
@@ -275,7 +277,8 @@
       },
       "low_price": 99.95,
       "synced": "2026-11-17",
-      "ph_ean": "8720892731531"
+      "ph_ean": "8720892731531",
+      "rating": 4.2
     },
     {
       "brand": "Eurom",
@@ -283,7 +286,7 @@
       "price": 211.99,
       "score": 8.8,
       "label": null,
-      "reviews": "nog weinig reviews op bol",
+      "reviews": "",
       "oneliner": "Zuinig infrarood glaspaneel van 450 W met app en weekschema.",
       "specs": {
         "Type": "Infraroodpaneel",
@@ -335,7 +338,7 @@
       "price": 136.0,
       "score": 8.7,
       "label": null,
-      "reviews": "Gem. 5,0 sterren op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Olieradiator met drie vermogensstanden en Venturi-ribben voor snellere warmte.",
       "specs": {
         "Type": "Oliegevuld",
@@ -379,7 +382,8 @@
       "synced": "2026-11-17",
       "prev_price": 140.38,
       "prev_date": "2026-11-13",
-      "ph_ean": "8004399027299"
+      "ph_ean": "8004399027299",
+      "rating": 5.0
     },
     {
       "brand": "Dimplex",
@@ -387,7 +391,7 @@
       "price": 79.99,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Betaalbare wifi-convector met app, thermostaat en weekprogramma.",
       "specs": {
         "Type": "Convector",
@@ -442,7 +446,8 @@
       "low_price": 79.99,
       "prev_price": 89.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8716412237201"
+      "ph_ean": "8716412237201",
+      "rating": 4.2
     },
     {
       "brand": "Aironex",
@@ -450,7 +455,7 @@
       "price": 49.95,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Compacte keramische ventilatorkachel van 1200 watt die snel een kleine plek opwarmt.",
       "specs": {
         "Type": "Keramisch",
@@ -500,7 +505,8 @@
       },
       "low_price": 49.95,
       "synced": "2026-11-17",
-      "ph_ean": "8720892170385"
+      "ph_ean": "8720892170385",
+      "rating": 4.5
     },
     {
       "brand": "VONROC",
@@ -508,7 +514,7 @@
       "price": 79.95,
       "score": 8.4,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare torenkachel met ECO-modus, twee standen en timer.",
       "specs": {
         "Type": "Keramisch, toren",
@@ -571,7 +577,8 @@
       "low_price": 49.95,
       "prev_price": 74.95,
       "prev_date": "2026-10-30",
-      "ph_ean": "8717479101061"
+      "ph_ean": "8717479101061",
+      "rating": 4.5
     },
     {
       "brand": "VH",
@@ -631,7 +638,8 @@
       "synced": "2026-11-17",
       "prev_price": 122.5,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719874750844"
+      "ph_ean": "8719874750844",
+      "rating": 4.1
     }
   ],
   "guide": [

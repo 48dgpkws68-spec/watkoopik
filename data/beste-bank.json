@@ -25,7 +25,7 @@
       "price": 1049.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Lage, diepe loungebank met stevig comfort en tijdloze vorm.",
       "specs": {
         "Zitplaatsen": "3",
@@ -79,7 +79,8 @@
         "2026-11-17": 1049.0
       },
       "low_price": 1049.0,
-      "ph_ean": "8714713081561"
+      "ph_ean": "8714713081561",
+      "rating": 4.8
     },
     {
       "brand": "House Nordic",
@@ -87,7 +88,7 @@
       "price": 772.3,
       "score": 9.0,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Scandinavische driezitter met slanke poten en zachte zit.",
       "specs": {
         "Zitplaatsen": "3",
@@ -150,7 +151,7 @@
       "price": 584.96,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Strakke stoffen driezitter voor een scherpe prijs.",
       "specs": {
         "Zitplaatsen": "3",
@@ -212,7 +213,7 @@
       "price": 1449.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Designbank in bouclé met afgeronde vormen en luxe uitstraling.",
       "specs": {
         "Zitplaatsen": "3",
@@ -273,7 +274,7 @@
       "price": 849.95,
       "score": 8.8,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Compacte 2,5-zitter in chenille met zwevende uitstraling.",
       "specs": {
         "Zitplaatsen": "2,5",
@@ -314,7 +315,8 @@
       },
       "low_price": 849.95,
       "synced": "2026-11-17",
-      "ph_ean": "8720663658302"
+      "ph_ean": "8720663658302",
+      "rating": 4.4
     },
     {
       "brand": "Giga Meubel",
@@ -322,7 +324,7 @@
       "price": 1142.0,
       "score": 8.7,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Klassieke leren driezitter die mooier wordt met de jaren.",
       "specs": {
         "Zitplaatsen": "3",
@@ -385,7 +387,7 @@
       "price": 1099.95,
       "score": 8.6,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Ronde, warme driezitter in koperkleurige chenille.",
       "specs": {
         "Zitplaatsen": "3",
@@ -442,7 +444,7 @@
       "price": 579.99,
       "score": 8.3,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Betaalbare zwarte driezitter in veganistisch eco-leer.",
       "specs": {
         "Zitplaatsen": "3",
@@ -503,7 +505,7 @@
       "price": 562.99,
       "score": 8.2,
       "label": null,
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Fluwelen driezitter in warm bruin voor een kleine prijs.",
       "specs": {
         "Zitplaatsen": "3",
@@ -564,7 +566,7 @@
       "price": 269.99,
       "score": 8.0,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Compacte zitbank met diepe zitting voor kleine ruimtes.",
       "specs": {
         "Zitplaatsen": "2",
@@ -620,7 +622,8 @@
       "low_price": 242.82,
       "prev_price": 242.82,
       "prev_date": "2026-11-01",
-      "ph_ean": "4262475031170"
+      "ph_ean": "4262475031170",
+      "rating": 4.3
     }
   ],
   "guide": [

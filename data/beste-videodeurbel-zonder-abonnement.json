@@ -25,7 +25,7 @@
       "price": 119.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "2.400+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Bewaart alles op de HomeBase in huis, zonder maandkosten.",
       "specs": {
         "Resolutie": "2K (2560 x 1920)",
@@ -83,7 +83,8 @@
       "low_price": 119.0,
       "prev_price": 122.55,
       "prev_date": "2026-11-10",
-      "ph_ean": "0194644016975"
+      "ph_ean": "0194644016975",
+      "rating": 4.2
     },
     {
       "brand": "Reolink",
@@ -91,7 +92,7 @@
       "price": 97.4,
       "score": 9.0,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Bedrade 5MP-deurbel met microSD en dual-band wifi.",
       "specs": {
         "Resolutie": "5 MP (2560 x 1920)",
@@ -149,7 +150,8 @@
       "low_price": 97.4,
       "prev_price": 99.99,
       "prev_date": "2026-11-09",
-      "ph_ean": "6975253983315"
+      "ph_ean": "6975253983315",
+      "rating": 4.1
     },
     {
       "brand": "TP-Link",
@@ -157,7 +159,7 @@
       "price": 58.4,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.900+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Betaalbare accudeurbel met microSD-slot en gong in de doos.",
       "specs": {
         "Resolutie": "2K (3 MP)",
@@ -219,7 +221,8 @@
       "low_price": 58.4,
       "prev_price": 59.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "4897098688069"
+      "ph_ean": "4897098688069",
+      "rating": 4.1
     },
     {
       "brand": "eufy",
@@ -227,7 +230,7 @@
       "price": 259.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Twee camera's en gezichtsherkenning, volledig lokaal opgeslagen.",
       "specs": {
         "Resolutie": "2K + 1080p (twee camera's)",
@@ -285,7 +288,8 @@
       "low_price": 259.0,
       "prev_price": 283.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "8721082272483"
+      "ph_ean": "8721082272483",
+      "rating": 4.3
     },
     {
       "brand": "Reolink",
@@ -293,7 +297,7 @@
       "price": 130.19,
       "score": 8.8,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Bedrade PoE-deurbel voor wie een netwerkkabel tot de voordeur heeft.",
       "specs": {
         "Resolutie": "5 MP (2560 x 1920)",
@@ -351,7 +355,8 @@
       "low_price": 123.99,
       "prev_price": 154.99,
       "prev_date": "2026-11-09",
-      "ph_ean": "6978285036691"
+      "ph_ean": "6978285036691",
+      "rating": 4.9
     },
     {
       "brand": "EZVIZ",
@@ -359,7 +364,7 @@
       "price": 89.99,
       "score": 8.6,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Dual-lens accudeurbel met 32 GB ingebouwde opslag.",
       "specs": {
         "Resolutie": "2K + 2K (twee camera's)",
@@ -417,7 +422,8 @@
       "low_price": 89.99,
       "prev_price": 92.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "6941545631455"
+      "ph_ean": "6941545631455",
+      "rating": 3.7
     },
     {
       "brand": "Aqara",
@@ -425,7 +431,7 @@
       "price": 80.74,
       "score": 8.5,
       "label": null,
-      "reviews": "nog weinig reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "2K-deurbel met PoE en lokale opslag zonder abonnement.",
       "specs": {
         "Resolutie": "2K",
@@ -487,7 +493,8 @@
       "low_price": 80.74,
       "prev_price": 89.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "6978350350639"
+      "ph_ean": "6978350350639",
+      "rating": 4.0
     },
     {
       "brand": "TP-Link",
@@ -495,7 +502,7 @@
       "price": 38.9,
       "score": 8.4,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Goedkoopste serieuze videodeurbel zonder abonnement.",
       "specs": {
         "Resolutie": "2K (3 MP)",
@@ -553,7 +560,8 @@
       "low_price": 38.9,
       "prev_price": 39.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "1210002607810"
+      "ph_ean": "1210002607810",
+      "rating": 4.1
     },
     {
       "brand": "EZVIZ",
@@ -561,7 +569,7 @@
       "price": 49.99,
       "score": 8.2,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Brede 176 graden blik en microSD-opslag voor weinig geld.",
       "specs": {
         "Resolutie": "3K (5 MP)",
@@ -619,7 +627,8 @@
       "low_price": 49.99,
       "prev_price": 59.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "6941545607450"
+      "ph_ean": "6941545607450",
+      "rating": 3.8
     },
     {
       "brand": "Aqara",
@@ -627,7 +636,7 @@
       "price": 128.16,
       "score": 8.0,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 3,4 van 5",
       "oneliner": "Deurbel en Matter-hub in één, met lokale opslag.",
       "specs": {
         "Resolutie": "2K",
@@ -685,7 +694,8 @@
       "low_price": 128.16,
       "prev_price": 133.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "6975833358380"
+      "ph_ean": "6975833358380",
+      "rating": 3.4
     }
   ],
   "guide": [

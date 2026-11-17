@@ -78,8 +78,9 @@
       },
       "low_price": 45.75,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
-      "ph_ean": "1200130034282"
+      "reviews": "bol-score 4,7 van 5",
+      "ph_ean": "1200130034282",
+      "rating": 4.7
     },
     {
       "brand": "Anker",
@@ -138,10 +139,11 @@
       },
       "low_price": 41.4,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,4 van 5",
       "prev_price": 41.4,
       "prev_date": "2026-11-06",
-      "ph_ean": "0194644043711"
+      "ph_ean": "0194644043711",
+      "rating": 4.4
     },
     {
       "brand": "Apple",
@@ -200,8 +202,9 @@
       },
       "low_price": 31.99,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
-      "ph_ean": "0195950667363"
+      "reviews": "bol-score 4,6 van 5",
+      "ph_ean": "0195950667363",
+      "rating": 4.6
     },
     {
       "brand": "Philips Hue",
@@ -260,10 +263,11 @@
       },
       "low_price": 68.0,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "prev_price": 72.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "8718696170717"
+      "ph_ean": "8718696170717",
+      "rating": 4.5
     },
     {
       "brand": "Ring",
@@ -322,10 +326,11 @@
       },
       "low_price": 49.99,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "prev_price": 77.99,
       "prev_date": "2026-11-08",
-      "ph_ean": "0840414681798"
+      "ph_ean": "0840414681798",
+      "rating": 4.5
     },
     {
       "brand": "Fitbit",
@@ -384,10 +389,11 @@
       },
       "low_price": 65.5,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,0 van 5",
       "prev_price": 78.99,
       "prev_date": "2026-11-10",
-      "ph_ean": "0810073610064"
+      "ph_ean": "0810073610064",
+      "rating": 4.0
     },
     {
       "brand": "JBL",
@@ -446,10 +452,11 @@
       },
       "low_price": 50.39,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,5 van 5",
       "prev_price": 50.59,
       "prev_date": "2026-11-14",
-      "ph_ean": "1200130029967"
+      "ph_ean": "1200130029967",
+      "rating": 4.5
     },
     {
       "brand": "Nintendo",
@@ -508,10 +515,11 @@
       },
       "low_price": 78.0,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 4,9 van 5",
       "prev_price": 78.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "0045496321475"
+      "ph_ean": "0045496321475",
+      "rating": 4.9
     },
     {
       "brand": "Polaroid",
@@ -570,7 +578,7 @@
       },
       "low_price": 80.21,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "",
       "prev_price": 85.99,
       "prev_date": "2026-11-05",
       "ph_ean": "9120134285850"
@@ -632,10 +640,11 @@
       },
       "low_price": 58.97,
       "synced": "2026-11-17",
-      "reviews": "reviews op bol",
+      "reviews": "bol-score 3,8 van 5",
       "ph_ean": "1200130015380",
       "prev_price": 58.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 3.8
     }
   ],
   "guide": [

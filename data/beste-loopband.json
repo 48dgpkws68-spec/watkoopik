@@ -25,7 +25,7 @@
       "price": 699.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Inklapbare hardloopband met 18 km/u en 15% helling.",
       "specs": {
         "Snelheid": "1 tot 18 km/u",
@@ -88,7 +88,8 @@
       "low_price": 699.0,
       "prev_price": 854.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719689982454"
+      "ph_ean": "8719689982454",
+      "rating": 4.5
     },
     {
       "brand": "VirtuFit",
@@ -96,7 +97,7 @@
       "price": 489.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "350+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Veel loopband voor weinig geld: 16 km/u en 15% helling.",
       "specs": {
         "Snelheid": "0,8 tot 16 km/u",
@@ -158,7 +159,8 @@
       "low_price": 489.0,
       "prev_price": 521.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719325758603"
+      "ph_ean": "8719325758603",
+      "rating": 4.5
     },
     {
       "brand": "Flow Fitness",
@@ -166,7 +168,7 @@
       "price": 1799.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "Nog weinig reviews",
+      "reviews": "",
       "oneliner": "Zware hardloopband met 22 km/u en een extra groot loopvlak.",
       "specs": {
         "Snelheid": "1 tot 22 km/u",
@@ -280,7 +282,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8718627090534",
       "prev_price": 1149.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.3
     },
     {
       "brand": "KingSmith",
@@ -288,7 +291,7 @@
       "price": 899.0,
       "score": 8.8,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Dubbel opvouwbare loopband voor wandelen en licht hardlopen.",
       "specs": {
         "Snelheid": "0,5 tot 12 km/u",
@@ -348,7 +351,8 @@
         "2026-11-17": 899.0
       },
       "low_price": 899.0,
-      "ph_ean": "8719925050213"
+      "ph_ean": "8719925050213",
+      "rating": 5.0
     },
     {
       "brand": "Flow Fitness",
@@ -356,7 +360,7 @@
       "price": 809.0,
       "score": 8.7,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Compacte Flow Fitness met 14 km/u en elektrische helling.",
       "specs": {
         "Snelheid": "1 tot 14 km/u",
@@ -408,7 +412,8 @@
       "low_price": 809.0,
       "ph_ean": "8721531102521",
       "prev_price": 899.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.5
     },
     {
       "brand": "KingSmith",
@@ -416,7 +421,7 @@
       "price": 749.0,
       "score": 8.5,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Rechtop opvouwbare loopband met stuur voor wandelen en joggen.",
       "specs": {
         "Snelheid": "0,5 tot 10 km/u",
@@ -476,7 +481,8 @@
         "2026-11-17": 749.0
       },
       "low_price": 749.0,
-      "ph_ean": "6970492710517"
+      "ph_ean": "6970492710517",
+      "rating": 4.3
     },
     {
       "brand": "Moov",
@@ -484,7 +490,7 @@
       "price": 389.0,
       "score": 8.4,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betaalbare walking pad die ook hardlopen tot 14 km/u aankan.",
       "specs": {
         "Snelheid": "1 tot 14 km/u",
@@ -546,7 +552,8 @@
       "low_price": 389.0,
       "ph_ean": "8720892912725",
       "prev_price": 399.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "VirtuFit",
@@ -554,7 +561,7 @@
       "price": 255.0,
       "score": 8.3,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Eenvoudige inklapbare wandelband met app-ondersteuning.",
       "specs": {
         "Snelheid": "0,8 tot 8 km/u",
@@ -616,7 +623,8 @@
       "low_price": 255.0,
       "prev_price": 284.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8719743573567"
+      "ph_ean": "8719743573567",
+      "rating": 4.5
     },
     {
       "brand": "TibaGoods",
@@ -624,7 +632,7 @@
       "price": 179.99,
       "score": 8.1,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Goedkope inklapbare loopband met helling tot 10 procent.",
       "specs": {
         "Snelheid": "1 tot 12 km/u",
@@ -686,7 +694,8 @@
       "low_price": 179.99,
       "prev_price": 189.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8721161060925"
+      "ph_ean": "8721161060925",
+      "rating": 4.5
     }
   ],
   "guide": [

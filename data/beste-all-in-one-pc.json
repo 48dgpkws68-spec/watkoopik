@@ -25,7 +25,7 @@
       "price": 1599.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Dun, stil en snel met een prachtig 4,5K-scherm.",
       "specs": {
         "Scherm": "24 inch 4,5K",
@@ -81,7 +81,8 @@
       "low_price": 1259.0,
       "prev_price": 1259.0,
       "prev_date": "2026-11-07",
-      "ph_ean": "0195949592430"
+      "ph_ean": "0195949592430",
+      "rating": 5.0
     },
     {
       "brand": "Lenovo",
@@ -89,7 +90,7 @@
       "price": 2499.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "Nieuw model",
+      "reviews": "",
       "oneliner": "Groot 32 inch 4K-scherm met 32 GB geheugen.",
       "specs": {
         "Scherm": "31,5 inch 4K",
@@ -151,7 +152,7 @@
       "price": 999.0,
       "score": 9.0,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Strakke 27 inch Windows-allrounder met AI-processor.",
       "specs": {
         "Scherm": "27 inch Full HD",
@@ -207,7 +208,8 @@
       "low_price": 999.0,
       "prev_price": 1039.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "0199764710284"
+      "ph_ean": "0199764710284",
+      "rating": 5.0
     },
     {
       "brand": "Lenovo",
@@ -215,7 +217,7 @@
       "price": 1409.0,
       "score": 8.9,
       "label": null,
-      "reviews": "Nieuw model",
+      "reviews": "",
       "oneliner": "27 inch QHD-scherm en 1 TB opslag in een slank ontwerp.",
       "specs": {
         "Scherm": "27 inch QHD",
@@ -279,7 +281,7 @@
       "price": 739.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "16 GB geheugen en 512 GB SSD voor een middenklasseprijs.",
       "specs": {
         "Scherm": "23,8 inch Full HD",
@@ -333,7 +335,8 @@
         "2026-11-17": 739.0
       },
       "low_price": 739.0,
-      "ph_ean": "0199764710246"
+      "ph_ean": "0199764710246",
+      "rating": 4.9
     },
     {
       "brand": "Acer",
@@ -341,7 +344,7 @@
       "price": 818.6,
       "score": 8.7,
       "label": null,
-      "reviews": "Nieuw model",
+      "reviews": "",
       "oneliner": "24 inch met 120 Hz-scherm en 1 TB opslag.",
       "specs": {
         "Scherm": "23,8 inch Full HD 120 Hz",
@@ -405,7 +408,7 @@
       "price": 1003.71,
       "score": 8.6,
       "label": null,
-      "reviews": "Nieuw model",
+      "reviews": "",
       "oneliner": "27 inch Copilot+ pc met krachtige AMD-chip.",
       "specs": {
         "Scherm": "27 inch Full HD",
@@ -468,7 +471,7 @@
       "price": 999.0,
       "score": 8.4,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "",
       "oneliner": "Krachtige H-processor voor zwaarder werk op 27 inch.",
       "specs": {
         "Scherm": "27 inch Full HD",
@@ -530,7 +533,7 @@
       "price": 551.22,
       "score": 8.1,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "Zilveren 24 inch met Windows 11 Pro voor school of kantoor.",
       "specs": {
         "Scherm": "23,8 inch Full HD",
@@ -594,7 +597,7 @@
       "price": 555.0,
       "score": 7.9,
       "label": null,
-      "reviews": "Nieuw model",
+      "reviews": "",
       "oneliner": "Betaalbare 24 inch voor mailen, internet en videobellen.",
       "specs": {
         "Scherm": "23,8 inch Full HD",

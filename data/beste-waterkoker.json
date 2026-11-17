@@ -24,7 +24,7 @@
       "price": 73.91,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "4.100+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Vier temperaturen, warmhoudfunctie en een stille werking van Duitse makelij.",
       "specs": {
         "Inhoud": "1,7 l",
@@ -90,7 +90,8 @@
       "low_price": 65.0,
       "prev_price": 67.9,
       "prev_date": "2026-11-14",
-      "ph_ean": "4242005188307"
+      "ph_ean": "4242005188307",
+      "rating": 3.7
     },
     {
       "brand": "Philips",
@@ -98,7 +99,7 @@
       "price": 46.8,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "5.800+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Gemaakt van biogebaseerd kunststof, snel en betrouwbaar voor weinig geld.",
       "specs": {
         "Inhoud": "1,7 l",
@@ -164,7 +165,8 @@
       "low_price": 46.0,
       "prev_price": 49.0,
       "prev_date": "2026-10-25",
-      "ph_ean": "8720389000850"
+      "ph_ean": "8720389000850",
+      "rating": 4.3
     },
     {
       "brand": "Smeg",
@@ -172,7 +174,7 @@
       "price": 139.0,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "1.700+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Italiaans retro-ontwerp met een stille werking en zachte deksel.",
       "specs": {
         "Inhoud": "1,7 l",
@@ -236,7 +238,8 @@
       "low_price": 124.54,
       "prev_price": 129.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "8017709227852"
+      "ph_ean": "8017709227852",
+      "rating": 4.4
     },
     {
       "brand": "Bosch",
@@ -244,7 +247,7 @@
       "price": 65.9,
       "score": 8.8,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Waterkoker met vier temperatuurstanden en warmhoudfunctie.",
       "specs": {
         "Inhoud": "1,5 l",
@@ -291,7 +294,8 @@
       "synced": "2026-11-17",
       "ph_ean": "4242002824628",
       "prev_price": 70.04,
-      "prev_date": "2026-11-11"
+      "prev_date": "2026-11-11",
+      "rating": 4.5
     },
     {
       "brand": "Russell Hobbs",
@@ -330,7 +334,8 @@
         "2026-11-17": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.4
     },
     {
       "brand": "WMF",
@@ -338,7 +343,7 @@
       "price": 147.99,
       "score": 8.6,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Rvs waterkoker met instelbare temperatuur en LED-verlichting.",
       "specs": {
         "Inhoud": "1,7 l",
@@ -402,7 +407,8 @@
       "low_price": 147.99,
       "prev_price": 148.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "4211129140515"
+      "ph_ean": "4211129140515",
+      "rating": 4.0
     },
     {
       "brand": "KitchenAid",
@@ -410,7 +416,7 @@
       "price": 174.3,
       "score": 8.5,
       "label": null,
-      "reviews": "920+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Dubbelwandige designkoker met temperatuurmeter en warmhoudfunctie.",
       "specs": {
         "Inhoud": "1,5 l",
@@ -476,7 +482,8 @@
       "low_price": 167.8,
       "prev_price": 176.88,
       "prev_date": "2026-11-11",
-      "ph_ean": "5413184151058"
+      "ph_ean": "5413184151058",
+      "rating": 4.4
     },
     {
       "brand": "Bosch",
@@ -484,7 +491,7 @@
       "price": 34.12,
       "score": 8.0,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Eenvoudige waterkoker van 1,7 liter met warmhoudfunctie.",
       "specs": {
         "Inhoud": "1,7 l",
@@ -548,7 +555,8 @@
       "low_price": 34.12,
       "prev_price": 37.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4242005397792"
+      "ph_ean": "4242005397792",
+      "rating": 3.8
     },
     {
       "brand": "Tefal",
@@ -556,7 +564,7 @@
       "price": 25.99,
       "score": 8.3,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Compacte waterkoker van 1 liter met maataanduiding per kopje.",
       "specs": {
         "Inhoud": "1,0 l",
@@ -620,7 +628,8 @@
       "low_price": 25.99,
       "prev_price": 34.99,
       "prev_date": "2026-11-04",
-      "ph_ean": "3045387243227"
+      "ph_ean": "3045387243227",
+      "rating": 4.6
     },
     {
       "brand": "Princess",
@@ -628,7 +637,7 @@
       "price": 40.0,
       "score": 7.8,
       "label": null,
-      "reviews": "2.100+ reviews",
+      "reviews": "bol-score 3,5 van 5",
       "oneliner": "Betaalbare rvs-koker met een verwarmingselement dat verborgen zit.",
       "specs": {
         "Inhoud": "1,7 l",
@@ -692,7 +701,8 @@
         "2026-11-17": 40.0
       },
       "low_price": 40.0,
-      "ph_ean": "8713016098658"
+      "ph_ean": "8713016098658",
+      "rating": 3.5
     }
   ],
   "guide": [

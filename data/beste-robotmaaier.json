@@ -24,7 +24,7 @@
       "price": 799.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "1.400+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Draadloos maaien met RTK en camera voor een nette prijs.",
       "specs": {
         "Max. oppervlak": "500 m²",
@@ -85,7 +85,8 @@
         "2026-11-17": 799.0
       },
       "low_price": 799.0,
-      "ph_ean": "8720254406855"
+      "ph_ean": "8720254406855",
+      "rating": 4.3
     },
     {
       "brand": "Husqvarna",
@@ -93,7 +94,7 @@
       "price": 1555.25,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "900+ reviews",
+      "reviews": "",
       "oneliner": "Zweedse kwaliteit met draad, ijzersterk op hellingen en in smalle doorgangen.",
       "specs": {
         "Max. oppervlak": "600 m²",
@@ -164,7 +165,7 @@
       "price": 468.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.000+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Compact, stil en betaalbaar voor een kleine achtertuin.",
       "specs": {
         "Max. oppervlak": "350 m²",
@@ -227,7 +228,8 @@
       "low_price": 452.2,
       "prev_price": 506.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "4066407503946"
+      "ph_ean": "4066407503946",
+      "rating": 4.1
     },
     {
       "brand": "Worx",
@@ -235,7 +237,7 @@
       "price": 769.95,
       "score": 8.7,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "",
       "oneliner": "Ziet met een camera waar het gras ophoudt, zonder draad of antenne.",
       "specs": {
         "Max. oppervlak": "800 m²",
@@ -306,7 +308,7 @@
       "price": 418.99,
       "score": 8.6,
       "label": null,
-      "reviews": "1.800+ reviews",
+      "reviews": "bol-score 3,5 van 5",
       "oneliner": "Maait systematisch in banen en is daardoor snel klaar.",
       "specs": {
         "Max. oppervlak": "700 m²",
@@ -370,7 +372,8 @@
       "low_price": 318.0,
       "prev_price": 318.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "4059952566900"
+      "ph_ean": "4059952566900",
+      "rating": 3.5
     },
     {
       "brand": "Mammotion",
@@ -378,7 +381,7 @@
       "price": 799.0,
       "score": 8.6,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Compacte draadloze maaier met drie camera's, zonder antenne.",
       "specs": {
         "Max. oppervlak": "800 m²",
@@ -441,7 +444,8 @@
       "low_price": 799.0,
       "prev_price": 899.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "6978266640367"
+      "ph_ean": "6978266640367",
+      "rating": 5.0
     },
     {
       "brand": "Ecovacs",
@@ -504,7 +508,8 @@
       "low_price": 519.0,
       "prev_price": 673.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "6970135034789"
+      "ph_ean": "6970135034789",
+      "rating": 4.3
     },
     {
       "brand": "Worx",
@@ -512,7 +517,7 @@
       "price": 377.5,
       "score": 8.4,
       "label": null,
-      "reviews": "1.900+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Betaalbare draadmaaier met wifi en uitbreidbaar met modules.",
       "specs": {
         "Max. oppervlak": "500 m²",
@@ -575,7 +580,8 @@
       "low_price": 368.44,
       "prev_price": 382.5,
       "prev_date": "2026-11-11",
-      "ph_ean": "6943475869847"
+      "ph_ean": "6943475869847",
+      "rating": 5.0
     },
     {
       "brand": "Gardena",
@@ -583,7 +589,7 @@
       "price": 1192.0,
       "score": 8.3,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "",
       "oneliner": "Stille draadmaaier voor middelgrote tot grote tuinen.",
       "specs": {
         "Max. oppervlak": "1.250 m²",
@@ -691,7 +697,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8885022190180",
       "prev_price": 779.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.0
     }
   ],
   "guide": [

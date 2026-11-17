@@ -25,7 +25,7 @@
       "price": 99.0,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Draadloze buitencamera die 360 graden draait en op zonne-energie werkt.",
       "specs": {
         "Locatie": "Buiten",
@@ -88,7 +88,8 @@
       "low_price": 99.0,
       "prev_price": 124.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "0194644299217"
+      "ph_ean": "0194644299217",
+      "rating": 4.5
     },
     {
       "brand": "Tapo",
@@ -96,7 +97,7 @@
       "price": 29.1,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "3.200+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Spotgoedkope 2K-binnencamera die draait en kantelt.",
       "specs": {
         "Locatie": "Binnen",
@@ -159,7 +160,8 @@
       "low_price": 29.1,
       "prev_price": 29.9,
       "prev_date": "2026-11-14",
-      "ph_ean": "4895252500936"
+      "ph_ean": "4895252500936",
+      "rating": 4.5
     },
     {
       "brand": "Google",
@@ -167,7 +169,7 @@
       "price": 259.0,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Strakke buitencamera met fel spotlight en slimme meldingen.",
       "specs": {
         "Locatie": "Buiten",
@@ -230,7 +232,8 @@
       "low_price": 199.0,
       "prev_price": 199.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "0193575011080"
+      "ph_ean": "0193575011080",
+      "rating": 4.9
     },
     {
       "brand": "Reolink",
@@ -238,7 +241,7 @@
       "price": 103.99,
       "score": 8.9,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "4K PoE-camera met kleurenbeeld in het donker zonder spotlight.",
       "specs": {
         "Locatie": "Buiten",
@@ -299,7 +302,8 @@
       "low_price": 103.99,
       "prev_price": 129.99,
       "prev_date": "2026-11-09",
-      "ph_ean": "6978285031979"
+      "ph_ean": "6978285031979",
+      "rating": 5.0
     },
     {
       "brand": "Tapo",
@@ -307,7 +311,7 @@
       "price": 74.0,
       "score": 8.7,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Draaibare 4K-buitencamera met spotlight voor een middenprijs.",
       "specs": {
         "Locatie": "Buiten",
@@ -370,7 +374,8 @@
       "low_price": 74.0,
       "prev_price": 78.59,
       "prev_date": "2026-11-10",
-      "ph_ean": "1210002602679"
+      "ph_ean": "1210002602679",
+      "rating": 4.4
     },
     {
       "brand": "eufy",
@@ -378,7 +383,7 @@
       "price": 109.0,
       "score": 8.6,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Binnencamera met twee lenzen voor overzicht en optische zoom.",
       "specs": {
         "Locatie": "Binnen",
@@ -441,7 +446,8 @@
       "low_price": 99.99,
       "prev_price": 108.0,
       "prev_date": "2026-10-21",
-      "ph_ean": "0194644126384"
+      "ph_ean": "0194644126384",
+      "rating": 4.4
     },
     {
       "brand": "Reolink",
@@ -449,7 +455,7 @@
       "price": 101.99,
       "score": 8.5,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Draaibare wifi-buitencamera met 3x optische zoom.",
       "specs": {
         "Locatie": "Buiten",
@@ -512,7 +518,8 @@
       "low_price": 95.99,
       "prev_price": 119.99,
       "prev_date": "2026-11-09",
-      "ph_ean": "6976930226565"
+      "ph_ean": "6976930226565",
+      "rating": 4.4
     },
     {
       "brand": "Ring",
@@ -520,7 +527,7 @@
       "price": 39.99,
       "score": 8.5,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Draadloze 2K-buitencamera met sterke app en meldingen.",
       "specs": {
         "Locatie": "Buiten",
@@ -583,7 +590,8 @@
       "low_price": 39.99,
       "prev_price": 75.99,
       "prev_date": "2026-11-08",
-      "ph_ean": "0840414644090"
+      "ph_ean": "0840414644090",
+      "rating": 4.3
     },
     {
       "brand": "Google",
@@ -591,7 +599,7 @@
       "price": 119.99,
       "score": 8.4,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Veelzijdige camera voor binnen en buiten op accu of kabel.",
       "specs": {
         "Locatie": "Binnen en buiten",
@@ -654,7 +662,8 @@
       "low_price": 116.99,
       "prev_price": 116.99,
       "prev_date": "2026-11-01",
-      "ph_ean": "0193575008172"
+      "ph_ean": "0193575008172",
+      "rating": 4.0
     },
     {
       "brand": "EZVIZ",
@@ -662,7 +671,7 @@
       "price": 89.99,
       "score": 8.2,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Draaibare buitencamera met simkaart voor plekken zonder wifi.",
       "specs": {
         "Locatie": "Buiten",
@@ -723,7 +732,8 @@
       "low_price": 82.0,
       "prev_price": 82.02,
       "prev_date": "2026-11-13",
-      "ph_ean": "6941545631301"
+      "ph_ean": "6941545631301",
+      "rating": 4.4
     }
   ],
   "guide": [

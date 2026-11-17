@@ -27,7 +27,7 @@
       "price": 35.98,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "790 losse stenen voor alles wat je kind zelf bedenkt.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 4 jaar",
@@ -64,7 +64,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702015357197",
       "prev_price": 35.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Hama",
@@ -72,7 +73,7 @@
       "price": 12.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Vierduizend kralen en drie vormen voor urenlang rustig knutselen.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 5 jaar",
@@ -107,7 +108,8 @@
       },
       "low_price": 12.99,
       "synced": "2026-11-17",
-      "ph_ean": "0028178020521"
+      "ph_ean": "0028178020521",
+      "rating": 4.8
     },
     {
       "brand": "VTech",
@@ -115,7 +117,7 @@
       "price": 52.99,
       "score": 8.9,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Stevige kindercamera met twee lenzen voor foto's, filmpjes en selfies.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 4 jaar",
@@ -152,7 +154,8 @@
       "synced": "2026-11-17",
       "prev_price": 71.22,
       "prev_date": "2026-11-14",
-      "ph_ean": "3417765199233"
+      "ph_ean": "3417765199233",
+      "rating": 4.8
     },
     {
       "brand": "Ravensburger",
@@ -160,7 +163,7 @@
       "price": 73.2,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Grote knikkerbaan met dino's die je kind zelf in elkaar zet.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 3 jaar",
@@ -197,7 +200,8 @@
       "synced": "2026-11-17",
       "prev_price": 101.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "4005556248452"
+      "ph_ean": "4005556248452",
+      "rating": 4.8
     },
     {
       "brand": "LEGO",
@@ -205,7 +209,7 @@
       "price": 48.95,
       "score": 8.7,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Open poppenhuis om te bouwen met drie poppetjes en een hond.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 4 jaar",
@@ -242,7 +246,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5702017412832",
       "prev_price": 49.99,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 5.0
     },
     {
       "brand": "schleich",
@@ -250,7 +255,7 @@
       "price": 25.59,
       "score": 8.5,
       "label": null,
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Paardenbox met twee paarden en zadel om mee te verzorgen.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 5 jaar",
@@ -287,7 +292,8 @@
       "synced": "2026-11-17",
       "prev_price": 31.71,
       "prev_date": "2026-11-14",
-      "ph_ean": "4059433654034"
+      "ph_ean": "4059433654034",
+      "rating": 4.3
     },
     {
       "brand": "PLAYMOBIL",
@@ -295,7 +301,7 @@
       "price": 31.09,
       "score": 8.5,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Blusvliegtuig dat echt water spuit, voor binnen en in bad.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 4 jaar",
@@ -332,7 +338,8 @@
       "synced": "2026-11-17",
       "ph_ean": "4008789714633",
       "prev_price": 39.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.9
     },
     {
       "brand": "Jumbo",
@@ -340,7 +347,7 @@
       "price": 19.99,
       "score": 8.4,
       "label": null,
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Speels leren lezen met puzzelstukjes, plaatjes en klanken.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 5 jaar",
@@ -377,7 +384,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8710126195642",
       "prev_price": 19.79,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Jumbo",
@@ -385,7 +393,7 @@
       "price": 18.19,
       "score": 8.2,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Klassiek bordspel met een dobbelkoepel die niet van tafel rolt.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 5 jaar",
@@ -422,7 +430,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8710126003749",
       "prev_price": 17.19,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.4
     },
     {
       "brand": "SJOEF",
@@ -430,7 +439,7 @@
       "price": 132.05,
       "score": 8.1,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Stoere 16 inch fiets met zijwieltjes voor kinderen van 4 tot 6.",
       "specs": {
         "Leeftijd fabrikant": "4 tot 6 jaar",
@@ -467,7 +476,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8720574322804",
       "prev_price": 139.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.6
     }
   ],
   "guide": [

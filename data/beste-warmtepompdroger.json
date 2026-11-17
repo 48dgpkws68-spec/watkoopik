@@ -25,7 +25,7 @@
       "price": 659.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Zuinige 9 kilo droger met energielabel A en vijf jaar garantie.",
       "specs": {
         "Capaciteit": "9 kg",
@@ -82,7 +82,8 @@
       "low_price": 659.0,
       "prev_price": 671.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806097341987"
+      "ph_ean": "8806097341987",
+      "rating": 4.8
     },
     {
       "brand": "Hisense",
@@ -123,7 +124,8 @@
       },
       "low_price": 529.0,
       "ph_ean": "6901101825612",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.5
     },
     {
       "brand": "AEG",
@@ -131,7 +133,7 @@
       "price": 1042.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Topmodel met energielabel A en de zachtste behandeling van wol.",
       "specs": {
         "Capaciteit": "9 kg",
@@ -188,7 +190,8 @@
       "low_price": 1042.0,
       "prev_price": 1069.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "7333394134956"
+      "ph_ean": "7333394134956",
+      "rating": 4.6
     },
     {
       "brand": "Samsung",
@@ -196,7 +199,7 @@
       "price": 849.0,
       "score": 9.0,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Strak vormgegeven 9 kilo droger met label A en snelle programma's.",
       "specs": {
         "Capaciteit": "9 kg",
@@ -253,7 +256,8 @@
       "low_price": 799.0,
       "prev_price": 842.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8806097341819"
+      "ph_ean": "8806097341819",
+      "rating": 5.0
     },
     {
       "brand": "AEG",
@@ -261,7 +265,7 @@
       "price": 899.0,
       "score": 8.9,
       "label": null,
-      "reviews": "nieuwe uitvoering, nog weinig reviews",
+      "reviews": "",
       "oneliner": "Degelijke 8 kilo droger met goede zorg voor wol en fijne was.",
       "specs": {
         "Capaciteit": "8 kg",
@@ -311,7 +315,7 @@
       "price": 1149.0,
       "score": 8.8,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "",
       "oneliner": "Luxe 9 kilo droger die kreukels vermindert met stoom.",
       "specs": {
         "Capaciteit": "9 kg",
@@ -376,7 +380,7 @@
       "price": 695.0,
       "score": 8.6,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "",
       "oneliner": "Dual Inverter-warmtepomp voor snel en gelijkmatig drogen.",
       "specs": {
         "Capaciteit": "9 kg",
@@ -439,7 +443,7 @@
       "price": 589.0,
       "score": 8.5,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Nederlands merk met 9 kilo en een UV-hygiënefunctie.",
       "specs": {
         "Capaciteit": "9 kg",
@@ -496,7 +500,8 @@
       "low_price": 583.11,
       "prev_price": 611.0,
       "prev_date": "2026-11-12",
-      "ph_ean": "8712876130201"
+      "ph_ean": "8712876130201",
+      "rating": 4.5
     },
     {
       "brand": "Beko",
@@ -504,7 +509,7 @@
       "price": 424.0,
       "score": 8.3,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Eenvoudige 8 kilo warmtepompdroger voor een vriendelijke prijs.",
       "specs": {
         "Capaciteit": "8 kg",
@@ -561,7 +566,8 @@
       "low_price": 424.0,
       "prev_price": 449.0,
       "prev_date": "2026-11-10",
-      "ph_ean": "8690842722936"
+      "ph_ean": "8690842722936",
+      "rating": 4.8
     },
     {
       "brand": "Hisense",
@@ -569,7 +575,7 @@
       "price": 419.0,
       "score": 8.1,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Goedkoopste warmtepompdroger in deze lijst, met app en trommellamp.",
       "specs": {
         "Capaciteit": "8 kg",
@@ -625,7 +631,8 @@
       "low_price": 419.0,
       "prev_price": 499.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "6901101829634"
+      "ph_ean": "6901101829634",
+      "rating": 4.9
     }
   ],
   "guide": [

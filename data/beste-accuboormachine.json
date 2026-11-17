@@ -24,7 +24,7 @@
       "price": 261.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "2.700+ reviews",
+      "reviews": "bol-score 2,9 van 5",
       "oneliner": "Compacte 18-volter met koolborstelloze motor en twee grote accu's.",
       "specs": {
         "Voltage": "18 V",
@@ -88,7 +88,8 @@
       "low_price": 241.0,
       "prev_price": 241.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "0088381866439"
+      "ph_ean": "0088381866439",
+      "rating": 2.9
     },
     {
       "brand": "Milwaukee",
@@ -96,7 +97,7 @@
       "price": 379.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "800+ reviews",
+      "reviews": "",
       "oneliner": "Brute klopboorschroefmachine die ook in beton zijn werk doet.",
       "specs": {
         "Voltage": "18 V",
@@ -168,7 +169,7 @@
       "price": 299.0,
       "score": 8.9,
       "label": null,
-      "reviews": "1.900+ reviews",
+      "reviews": "",
       "oneliner": "Degelijke Bosch Professional met koolborstelloze motor en twee accu's.",
       "specs": {
         "Voltage": "18 V",
@@ -239,7 +240,7 @@
       "price": 167.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "3.100+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Lichte 12-volter met twee accu's voor een vriendelijke prijs.",
       "specs": {
         "Voltage": "12 V max",
@@ -303,7 +304,8 @@
       "low_price": 159.87,
       "prev_price": 159.87,
       "prev_date": "2026-11-10",
-      "ph_ean": "0088381872577"
+      "ph_ean": "0088381872577",
+      "rating": 5.0
     },
     {
       "brand": "DeWalt",
@@ -311,7 +313,7 @@
       "price": 168.34,
       "score": 8.6,
       "label": null,
-      "reviews": "1.600+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Koolborstelloze 18-volter met twee accu's voor een middenklasseprijs.",
       "specs": {
         "Voltage": "18 V",
@@ -375,7 +377,8 @@
       "low_price": 162.22,
       "prev_price": 170.01,
       "prev_date": "2026-11-14",
-      "ph_ean": "5035048664957"
+      "ph_ean": "5035048664957",
+      "rating": 5.0
     },
     {
       "brand": "Bosch Professional",
@@ -416,7 +419,8 @@
         "2026-11-17": 336.9
       },
       "low_price": 336.9,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.9
     },
     {
       "brand": "Bosch",
@@ -424,7 +428,7 @@
       "price": 89.0,
       "score": 8.4,
       "label": null,
-      "reviews": "1.400+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Groene Bosch voor thuis met veel koppel en een accu.",
       "specs": {
         "Voltage": "18 V",
@@ -487,7 +491,8 @@
       "low_price": 87.22,
       "prev_price": 88.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "4053423230802"
+      "ph_ean": "4053423230802",
+      "rating": 4.8
     },
     {
       "brand": "Ryobi",
@@ -495,7 +500,7 @@
       "price": 119.64,
       "score": 8.2,
       "label": null,
-      "reviews": "1.200+ reviews",
+      "reviews": "",
       "oneliner": "Instap in het grote ONE+-systeem met twee accu's.",
       "specs": {
         "Voltage": "18 V",
@@ -537,7 +542,7 @@
       "price": 42.66,
       "score": 7.9,
       "label": null,
-      "reviews": "1.500+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Goedkope 18-volter zonder accu voor wie al Einhell-accu's heeft.",
       "specs": {
         "Voltage": "18 V",
@@ -601,7 +606,8 @@
       "low_price": 42.13,
       "prev_price": 44.91,
       "prev_date": "2026-11-16",
-      "ph_ean": "4006825635768"
+      "ph_ean": "4006825635768",
+      "rating": 5.0
     },
     {
       "brand": "Black+Decker",
@@ -609,7 +615,7 @@
       "price": 51.6,
       "score": 7.8,
       "label": null,
-      "reviews": "4,6/5 op bol",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Eenvoudige 18-volter met wisselaccu voor lichte klussen in huis.",
       "specs": {
         "Voltage": "18 V",
@@ -653,7 +659,8 @@
       "synced": "2026-11-17",
       "prev_price": 56.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "5035048645444"
+      "ph_ean": "5035048645444",
+      "rating": 4.6
     }
   ],
   "guide": [

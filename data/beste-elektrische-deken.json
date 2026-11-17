@@ -25,7 +25,7 @@
       "price": 89.99,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "Nieuw op bol",
+      "reviews": "",
       "oneliner": "Onderdeken met zes standen, katoenen bovenkant en een uitschakeltijd die je zelf kiest.",
       "specs": {
         "Type": "Onderdeken",
@@ -76,7 +76,7 @@
       "price": 109.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "180+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Tweepersoons onderdeken met 9 standen per kant en aparte voetenzones.",
       "specs": {
         "Type": "Onderdeken",
@@ -136,7 +136,8 @@
       "low_price": 105.0,
       "prev_price": 125.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712876021011"
+      "ph_ean": "8712876021011",
+      "rating": 4.0
     },
     {
       "brand": "Inventum",
@@ -144,7 +145,7 @@
       "price": 39.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Eenvoudige en goed beoordeelde onderdeken met dikke fleece.",
       "specs": {
         "Type": "Onderdeken",
@@ -204,7 +205,8 @@
       "low_price": 37.7,
       "prev_price": 37.7,
       "prev_date": "2026-11-14",
-      "ph_ean": "8712876020762"
+      "ph_ean": "8712876020762",
+      "rating": 4.5
     },
     {
       "brand": "Inventum",
@@ -258,7 +260,8 @@
       "synced": "2026-11-17",
       "prev_price": 73.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8712876020830"
+      "ph_ean": "8712876020830",
+      "rating": 4.4
     },
     {
       "brand": "Tomado",
@@ -319,7 +322,8 @@
       "synced": "2026-11-17",
       "prev_price": 62.94,
       "prev_date": "2026-11-16",
-      "ph_ean": "8712876500721"
+      "ph_ean": "8712876500721",
+      "rating": 4.2
     },
     {
       "brand": "Beurer",
@@ -327,7 +331,7 @@
       "price": 36.99,
       "score": 8.6,
       "label": null,
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Betrouwbare fleece warmtedeken met 6 standen en Beurer-veiligheidssysteem.",
       "specs": {
         "Type": "Bovendeken",
@@ -387,7 +391,8 @@
       "low_price": 36.99,
       "prev_price": 44.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "4211125424008"
+      "ph_ean": "4211125424008",
+      "rating": 4.0
     },
     {
       "brand": "Inventum",
@@ -395,7 +400,7 @@
       "price": 37.99,
       "score": 8.5,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Extra grote knuffeldeken met 4 standen en 5 jaar garantie.",
       "specs": {
         "Type": "Bovendeken",
@@ -455,7 +460,8 @@
       "low_price": 37.99,
       "prev_price": 44.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "8712876020984"
+      "ph_ean": "8712876020984",
+      "rating": 4.3
     },
     {
       "brand": "Auronic",
@@ -463,7 +469,7 @@
       "price": 62.99,
       "score": 8.4,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Grote tweepersoons bovendeken van flanel met 3 standen.",
       "specs": {
         "Type": "Bovendeken",
@@ -523,7 +529,8 @@
       "low_price": 59.99,
       "prev_price": 69.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720195256090"
+      "ph_ean": "8720195256090",
+      "rating": 4.4
     },
     {
       "brand": "Tomado",
@@ -531,7 +538,7 @@
       "price": 24.99,
       "score": 8.3,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Goedkoopste onderdeken met auto-uit en elastieken om je matras.",
       "specs": {
         "Type": "Onderdeken",
@@ -591,7 +598,8 @@
       "low_price": 20.79,
       "prev_price": 20.79,
       "prev_date": "2026-11-09",
-      "ph_ean": "8712876502275"
+      "ph_ean": "8712876502275",
+      "rating": 4.2
     },
     {
       "brand": "Tristar",
@@ -599,7 +607,7 @@
       "price": 29.99,
       "score": 8.1,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Voordelige tweepersoons onderdeken met twee aparte warmtezones.",
       "specs": {
         "Type": "Onderdeken",
@@ -660,7 +668,8 @@
       "low_price": 29.99,
       "prev_price": 31.99,
       "prev_date": "2026-11-12",
-      "ph_ean": "8713016073716"
+      "ph_ean": "8713016073716",
+      "rating": 4.1
     }
   ],
   "guide": [

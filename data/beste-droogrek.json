@@ -24,7 +24,7 @@
       "price": 40.29,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "2.300+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Stevig vleugelrek met 20 meter en houders voor klein wasgoed.",
       "specs": {
         "Type": "Vleugelrek",
@@ -87,7 +87,8 @@
       "low_price": 40.19,
       "prev_price": 50.0,
       "prev_date": "2026-11-08",
-      "ph_ean": "4006501815200"
+      "ph_ean": "4006501815200",
+      "rating": 4.5
     },
     {
       "brand": "Leifheit",
@@ -95,7 +96,7 @@
       "price": 36.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "1.600+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "25 meter drooglengte met verstelbare vleugels voor weinig geld.",
       "specs": {
         "Type": "Vleugelrek",
@@ -157,7 +158,8 @@
       "low_price": 35.97,
       "prev_price": 38.49,
       "prev_date": "2026-11-09",
-      "ph_ean": "4006501814722"
+      "ph_ean": "4006501814722",
+      "rating": 4.0
     },
     {
       "brand": "Vileda",
@@ -165,7 +167,7 @@
       "price": 55.29,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Tafelrek met uitschuifbaar middendeel tot 30 meter lijn.",
       "specs": {
         "Type": "Tafelrek uitschuifbaar",
@@ -228,7 +230,8 @@
       "low_price": 55.29,
       "prev_price": 69.95,
       "prev_date": "2026-11-08",
-      "ph_ean": "4023103229662"
+      "ph_ean": "4023103229662",
+      "rating": 4.6
     },
     {
       "brand": "Brabantia",
@@ -236,7 +239,7 @@
       "price": 54.99,
       "score": 8.8,
       "label": null,
-      "reviews": "1.100+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Strak vleugelrek met handige ophangbeugels en 25 meter.",
       "specs": {
         "Type": "Vleugelrek",
@@ -299,7 +302,8 @@
       "low_price": 54.99,
       "prev_price": 73.61,
       "prev_date": "2026-11-14",
-      "ph_ean": "8710755413407"
+      "ph_ean": "8710755413407",
+      "rating": 4.6
     },
     {
       "brand": "Leifheit",
@@ -307,7 +311,7 @@
       "price": 50.79,
       "score": 8.7,
       "label": null,
-      "reviews": "800+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Droogtoren met 42 meter lijn op een klein vloeroppervlak.",
       "specs": {
         "Type": "Droogtoren",
@@ -360,7 +364,8 @@
       "low_price": 50.79,
       "prev_price": 69.99,
       "prev_date": "2026-11-08",
-      "ph_ean": "4006501815293"
+      "ph_ean": "4006501815293",
+      "rating": 4.4
     },
     {
       "brand": "Vileda",
@@ -368,7 +373,7 @@
       "price": 36.89,
       "score": 8.5,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Flexibele droogtoren die je ook als vleugelrek gebruikt.",
       "specs": {
         "Type": "Droogtoren",
@@ -430,7 +435,8 @@
       "low_price": 36.89,
       "prev_price": 56.69,
       "prev_date": "2026-11-08",
-      "ph_ean": "4023103202030"
+      "ph_ean": "4023103202030",
+      "rating": 4.1
     },
     {
       "brand": "Brabantia",
@@ -438,7 +444,7 @@
       "price": 79.0,
       "score": 8.4,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Stijlvolle droogtoren met haken voor kledinghangers.",
       "specs": {
         "Type": "Droogtoren",
@@ -500,7 +506,8 @@
       "low_price": 63.2,
       "prev_price": 63.2,
       "prev_date": "2026-11-12",
-      "ph_ean": "8710755319303"
+      "ph_ean": "8710755319303",
+      "rating": 4.6
     },
     {
       "brand": "Vileda",
@@ -508,7 +515,7 @@
       "price": 38.19,
       "score": 8.2,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 2,9 van 5",
       "oneliner": "Tafelrek met extra brede lijnen voor grote stukken.",
       "specs": {
         "Type": "Tafelrek",
@@ -570,7 +577,8 @@
       "low_price": 38.19,
       "prev_price": 52.94,
       "prev_date": "2026-11-08",
-      "ph_ean": "4023103244009"
+      "ph_ean": "4023103244009",
+      "rating": 2.9
     },
     {
       "brand": "Tomado",
@@ -578,7 +586,7 @@
       "price": 22.24,
       "score": 7.9,
       "label": null,
-      "reviews": "700+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Eenvoudig vleugelrek met 18 meter voor een lage prijs.",
       "specs": {
         "Type": "Vleugelrek",
@@ -629,7 +637,8 @@
         "2026-11-17": 22.24
       },
       "low_price": 22.24,
-      "ph_ean": "8002524075023"
+      "ph_ean": "8002524075023",
+      "rating": 4.1
     },
     {
       "brand": "Dirt Devil",
@@ -637,7 +646,7 @@
       "price": 139.99,
       "score": 8.0,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 3,6 van 5",
       "oneliner": "Verwarmde droogtoren die de was binnen sneller droog krijgt.",
       "specs": {
         "Type": "Elektrisch droogrek",
@@ -699,7 +708,8 @@
       "low_price": 139.99,
       "prev_price": 144.32,
       "prev_date": "2026-11-11",
-      "ph_ean": "8711252243030"
+      "ph_ean": "8711252243030",
+      "rating": 3.6
     }
   ],
   "guide": [

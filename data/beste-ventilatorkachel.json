@@ -26,7 +26,7 @@
       "price": 50.99,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Compacte ventilatorkachel die snel warmt en netjes afgewerkt is.",
       "specs": {
         "Type": "Ventilator, compact",
@@ -71,7 +71,8 @@
       "synced": "2026-11-17",
       "prev_price": 49.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "3121040089613"
+      "ph_ean": "3121040089613",
+      "rating": 4.5
     },
     {
       "brand": "VONROC",
@@ -79,7 +80,7 @@
       "price": 37.95,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Betaalbare keramische ventilatorkachel met thermostaat en drie standen.",
       "specs": {
         "Type": "Keramisch, ventilator",
@@ -118,7 +119,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8717479083374",
       "prev_price": 34.95,
-      "prev_date": "2026-11-12"
+      "prev_date": "2026-11-12",
+      "rating": 4.5
     },
     {
       "brand": "Rowenta",
@@ -126,7 +128,7 @@
       "price": 75.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Krachtigste compacte Rowenta met 2400 watt en stillere ventilator.",
       "specs": {
         "Type": "Ventilator, compact",
@@ -169,7 +171,8 @@
       },
       "low_price": 75.0,
       "synced": "2026-11-17",
-      "ph_ean": "3121040056356"
+      "ph_ean": "3121040056356",
+      "rating": 4.4
     },
     {
       "brand": "Dreo",
@@ -177,7 +180,7 @@
       "price": 45.99,
       "score": 8.9,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Compacte keramische kachel met eco-stand, timer en afstandsbediening.",
       "specs": {
         "Type": "Keramisch, compact",
@@ -218,7 +221,8 @@
       "synced": "2026-11-17",
       "ph_ean": "0810181280197",
       "prev_price": 49.99,
-      "prev_date": "2026-11-16"
+      "prev_date": "2026-11-16",
+      "rating": 4.8
     },
     {
       "brand": "Pro Breeze",
@@ -226,7 +230,7 @@
       "price": 36.99,
       "score": 8.8,
       "label": null,
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Kleine keramische kachel met automatische oscillatie voor betere warmteverdeling.",
       "specs": {
         "Type": "Keramisch, ventilator",
@@ -271,7 +275,8 @@
       "synced": "2026-11-17",
       "ph_ean": "5060596023833",
       "prev_price": 39.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.5
     },
     {
       "brand": "Eurom",
@@ -279,7 +284,7 @@
       "price": 30.46,
       "score": 8.6,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Veelzijdige ventilatorkachel die je staand of liggend kunt gebruiken.",
       "specs": {
         "Type": "Ventilator, klassiek",
@@ -323,7 +328,8 @@
       "synced": "2026-11-17",
       "prev_price": 29.26,
       "prev_date": "2026-11-16",
-      "ph_ean": "8713415350234"
+      "ph_ean": "8713415350234",
+      "rating": 4.3
     },
     {
       "brand": "Eurom",
@@ -331,7 +337,7 @@
       "price": 34.5,
       "score": 8.7,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Robuuste ronde werkplaatskachel voor garage, schuur en hobbyruimte.",
       "specs": {
         "Type": "Werkplaats, ventilator",
@@ -376,7 +382,8 @@
       "synced": "2026-11-17",
       "prev_price": 32.8,
       "prev_date": "2026-11-16",
-      "ph_ean": "8713415340143"
+      "ph_ean": "8713415340143",
+      "rating": 4.7
     },
     {
       "brand": "VONROC",
@@ -384,7 +391,7 @@
       "price": 52.95,
       "score": 8.8,
       "label": null,
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Keramische werkplaatskachel met stevige kooi en drie standen.",
       "specs": {
         "Type": "Werkplaats, keramisch",
@@ -429,7 +436,8 @@
       "synced": "2026-11-17",
       "prev_price": 54.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8717479099566"
+      "ph_ean": "8717479099566",
+      "rating": 4.7
     },
     {
       "brand": "Bestron",
@@ -437,7 +445,7 @@
       "price": 22.99,
       "score": 8.3,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Simpele ventilatorkachel van 2000 watt met vijf jaar garantie.",
       "specs": {
         "Type": "Ventilator, klassiek",
@@ -479,7 +487,8 @@
       },
       "low_price": 22.99,
       "synced": "2026-11-17",
-      "ph_ean": "8712184063901"
+      "ph_ean": "8712184063901",
+      "rating": 4.0
     },
     {
       "brand": "Tristar",
@@ -487,7 +496,7 @@
       "price": 20.99,
       "score": 8.0,
       "label": null,
-      "reviews": "500+ reviews",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Goedkoopste ventilatorkachel in deze lijst met regelbare thermostaat.",
       "specs": {
         "Type": "Ventilator, klassiek",
@@ -532,7 +541,8 @@
       "synced": "2026-11-17",
       "prev_price": 21.99,
       "prev_date": "2026-11-10",
-      "ph_ean": "8712836994980"
+      "ph_ean": "8712836994980",
+      "rating": 3.9
     }
   ],
   "guide": [

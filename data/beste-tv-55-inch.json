@@ -25,7 +25,7 @@
       "price": 999.0,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "900+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "De beste allround 55 inch oled voor films, sport en gamen.",
       "specs": {
         "Paneel": "OLED evo",
@@ -87,7 +87,8 @@
       "low_price": 999.0,
       "prev_price": 1040.88,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806096361924"
+      "ph_ean": "8806096361924",
+      "rating": 5.0
     },
     {
       "brand": "LG",
@@ -95,7 +96,7 @@
       "price": 799.0,
       "score": 9.1,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "600+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Oled-beeldkwaliteit voor een prijs onder de 900 euro.",
       "specs": {
         "Paneel": "OLED",
@@ -160,7 +161,8 @@
       "low_price": 799.0,
       "prev_price": 826.5,
       "prev_date": "2026-11-04",
-      "ph_ean": "8806096360576"
+      "ph_ean": "8806096360576",
+      "rating": 5.0
     },
     {
       "brand": "LG",
@@ -168,7 +170,7 @@
       "price": 1298.0,
       "score": 9.3,
       "label": "Beste premium",
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "De helderste oled van LG met een strak, plat design.",
       "specs": {
         "Paneel": "OLED evo Max",
@@ -230,7 +232,8 @@
       "low_price": 1298.0,
       "prev_price": 1299.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8806096363683"
+      "ph_ean": "8806096363683",
+      "rating": 4.6
     },
     {
       "brand": "Sony",
@@ -238,7 +241,7 @@
       "price": 1299.0,
       "score": 9.0,
       "label": null,
-      "reviews": "5,0/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "OLED van Sony met de natuurlijkste kleuren in deze lijst.",
       "specs": {
         "Paneel": "OLED",
@@ -293,7 +296,8 @@
       "low_price": 1299.0,
       "prev_price": 1499.0,
       "prev_date": "2026-11-01",
-      "ph_ean": "4548736182851"
+      "ph_ean": "4548736182851",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -301,7 +305,7 @@
       "price": 1399.0,
       "score": 9.0,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Oled met driezijdig Ambilight voor een groter beeldgevoel.",
       "specs": {
         "Paneel": "OLED",
@@ -354,7 +358,7 @@
       "name": "QE55S93H",
       "price": 1249.0,
       "score": 8.7,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "OLED van Samsung met Tizen, een antireflectielaag en tot 165 Hz.",
       "specs": {
         "Paneel": "OLED",
@@ -399,7 +403,7 @@
       "price": 1149.0,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-reviews beperkt",
+      "reviews": "",
       "oneliner": "Tv die als schilderij aan de muur hangt.",
       "specs": {
         "Paneel": "Neo QLED (mini-led)",
@@ -465,7 +469,7 @@
       "price": 549.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Mini LED met 144 Hz en ingebouwde subwoofer voor een middenklasseprijs.",
       "specs": {
         "Paneel": "Mini LED",
@@ -500,7 +504,8 @@
       },
       "low_price": 549.0,
       "synced": "2026-11-17",
-      "ph_ean": "6942351434582"
+      "ph_ean": "6942351434582",
+      "rating": 4.6
     },
     {
       "brand": "Hisense",
@@ -553,7 +558,8 @@
       "synced": "2026-11-17",
       "prev_price": 529.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "6942351432779"
+      "ph_ean": "6942351432779",
+      "rating": 4.8
     },
     {
       "brand": "CHiQ",
@@ -598,7 +604,8 @@
       },
       "low_price": 429.0,
       "synced": "2026-11-17",
-      "ph_ean": "8592344205507"
+      "ph_ean": "8592344205507",
+      "rating": 4.8
     }
   ],
   "guide": [

@@ -25,7 +25,7 @@
       "price": 514.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Snelle 360 Hz QD-OLED met matte coating tegen reflecties.",
       "specs": {
         "Formaat": "27 inch",
@@ -82,7 +82,8 @@
       "low_price": 514.0,
       "prev_price": 529.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806095503165"
+      "ph_ean": "8806095503165",
+      "rating": 5.0
     },
     {
       "brand": "AOC",
@@ -90,7 +91,7 @@
       "price": 249.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Mini-LED met HDR1000 voor minder dan 300 euro.",
       "specs": {
         "Formaat": "27 inch",
@@ -146,7 +147,8 @@
       "low_price": 249.0,
       "prev_price": 295.41,
       "prev_date": "2026-11-04",
-      "ph_ean": "4038986181440"
+      "ph_ean": "4038986181440",
+      "rating": 4.8
     },
     {
       "brand": "Samsung",
@@ -154,7 +156,7 @@
       "price": 769.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Groot 32 inch 4K QD-OLED-scherm op 240 Hz met smartfuncties.",
       "specs": {
         "Formaat": "32 inch",
@@ -211,7 +213,8 @@
       "low_price": 769.0,
       "prev_price": 812.0,
       "prev_date": "2026-11-02",
-      "ph_ean": "8806095494159"
+      "ph_ean": "8806095494159",
+      "rating": 5.0
     },
     {
       "brand": "LG",
@@ -219,7 +222,7 @@
       "price": 827.1,
       "score": 8.9,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Razendsnelle 480 Hz OLED voor competitieve esports.",
       "specs": {
         "Formaat": "27 inch",
@@ -275,7 +278,8 @@
       "low_price": 477.94,
       "prev_price": 819.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8806096357484"
+      "ph_ean": "8806096357484",
+      "rating": 4.0
     },
     {
       "brand": "ASUS",
@@ -283,7 +287,7 @@
       "price": 419.0,
       "score": 8.9,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Glanzende WOLED op 240 Hz voor een scherpe prijs.",
       "specs": {
         "Formaat": "27 inch",
@@ -339,7 +343,8 @@
       "low_price": 399.0,
       "prev_price": 399.0,
       "prev_date": "2026-11-11",
-      "ph_ean": "4711636157674"
+      "ph_ean": "4711636157674",
+      "rating": 4.7
     },
     {
       "brand": "MSI",
@@ -347,7 +352,7 @@
       "price": 629.99,
       "score": 8.8,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "360 Hz QD-OLED met USB-C 90 W en KVM-switch.",
       "specs": {
         "Formaat": "27 inch",
@@ -401,7 +406,8 @@
         "2026-11-17": 629.99
       },
       "low_price": 629.99,
-      "ph_ean": "4711377157759"
+      "ph_ean": "4711377157759",
+      "rating": 4.9
     },
     {
       "brand": "Alienware",
@@ -409,7 +415,7 @@
       "price": 555.0,
       "score": 8.6,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "360 Hz QD-OLED met drie jaar garantie, ook op inbranden.",
       "specs": {
         "Formaat": "27 inch",
@@ -465,7 +471,8 @@
       "low_price": 513.67,
       "prev_price": 556.82,
       "prev_date": "2026-11-16",
-      "ph_ean": "5397184821596"
+      "ph_ean": "5397184821596",
+      "rating": 3.8
     },
     {
       "brand": "AOC",
@@ -473,7 +480,7 @@
       "price": 299.0,
       "score": 8.5,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Een van de voordeligste 27 inch OLED-gamingmonitors.",
       "specs": {
         "Formaat": "27 inch",
@@ -529,7 +536,8 @@
       "low_price": 299.0,
       "prev_price": 320.5,
       "prev_date": "2026-11-09",
-      "ph_ean": "4038986183147"
+      "ph_ean": "4038986183147",
+      "rating": 4.8
     },
     {
       "brand": "LG",
@@ -537,7 +545,7 @@
       "price": 209.0,
       "score": 8.4,
       "label": null,
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Snelle 240 Hz IPS-monitor voor rond de 200 euro.",
       "specs": {
         "Formaat": "27 inch",
@@ -599,7 +607,8 @@
       "low_price": 198.99,
       "prev_price": 199.99,
       "prev_date": "2026-11-13",
-      "ph_ean": "8806084255044"
+      "ph_ean": "8806084255044",
+      "rating": 4.6
     },
     {
       "brand": "AOC",
@@ -607,7 +616,7 @@
       "price": 139.0,
       "score": 8.2,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Betaalbare QHD-monitor op 180 Hz met volledig verstelbare voet.",
       "specs": {
         "Formaat": "27 inch",
@@ -663,7 +672,8 @@
       "low_price": 139.0,
       "prev_price": 144.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "4038986182485"
+      "ph_ean": "4038986182485",
+      "rating": 4.6
     }
   ],
   "guide": [

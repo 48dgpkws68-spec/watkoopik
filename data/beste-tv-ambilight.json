@@ -32,7 +32,7 @@
       "price": 1399.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Nieuwe OLED met driezijdige Ambilight en Titan OS.",
       "specs": {
         "Formaat": "55 inch",
@@ -79,7 +79,7 @@
       "price": 579.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "55 inch QLED met Ambilight voor rond de 600 euro.",
       "specs": {
         "Formaat": "55 inch",
@@ -122,7 +122,8 @@
       "synced": "2026-11-17",
       "prev_price": 549.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8718863052761"
+      "ph_ean": "8718863052761",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -130,7 +131,7 @@
       "price": 2259.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "10+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Topmodel met 4-zijdige Ambilight en het helderste OLED-paneel.",
       "specs": {
         "Formaat": "65 inch",
@@ -173,7 +174,8 @@
       "synced": "2026-11-17",
       "prev_price": 1949.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8718863052136"
+      "ph_ean": "8718863052136",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -181,7 +183,7 @@
       "price": 1749.0,
       "score": 9.0,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Groot OLED-scherm met 3-zijdige Ambilight uit 2026.",
       "specs": {
         "Formaat": "65 inch",
@@ -232,7 +234,7 @@
       "price": 699.0,
       "score": 8.8,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Felle Mini LED met Ambilight voor lichte woonkamers.",
       "specs": {
         "Formaat": "55 inch",
@@ -275,7 +277,8 @@
       "synced": "2026-11-17",
       "prev_price": 899.0,
       "prev_date": "2026-11-05",
-      "ph_ean": "8718863048658"
+      "ph_ean": "8718863048658",
+      "rating": 4.1
     },
     {
       "brand": "Philips",
@@ -283,7 +286,7 @@
       "price": 999.0,
       "score": 8.7,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Compacte OLED met Ambilight voor slaapkamer of bureau.",
       "specs": {
         "Formaat": "42 inch",
@@ -334,7 +337,7 @@
       "price": 795.0,
       "score": 8.6,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Groot 65 inch QLED-scherm met Ambilight onder de 900 euro.",
       "specs": {
         "Formaat": "65 inch",
@@ -377,7 +380,8 @@
       "synced": "2026-11-17",
       "prev_price": 805.0,
       "prev_date": "2026-11-13",
-      "ph_ean": "8718863052778"
+      "ph_ean": "8718863052778",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -385,7 +389,7 @@
       "price": 549.0,
       "score": 8.5,
       "label": null,
-      "reviews": "20+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "50 inch QLED met Ambilight voor een kleinere woonkamer.",
       "specs": {
         "Formaat": "50 inch",
@@ -428,7 +432,8 @@
       "synced": "2026-11-17",
       "ph_ean": "8718863052754",
       "prev_price": 529.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -474,7 +479,8 @@
       "synced": "2026-11-17",
       "prev_price": 479.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8718863052747"
+      "ph_ean": "8718863052747",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -482,7 +488,7 @@
       "price": 344.0,
       "score": 8.0,
       "label": null,
-      "reviews": "nieuw model",
+      "reviews": "",
       "oneliner": "Goedkoopste manier om Ambilight in huis te halen.",
       "specs": {
         "Formaat": "43 inch",

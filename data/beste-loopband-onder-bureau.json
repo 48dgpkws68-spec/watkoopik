@@ -25,7 +25,7 @@
       "price": 369.0,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "200+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Stille walking pad met automatische helling tot 15 procent.",
       "specs": {
         "Snelheid": "1 tot 8 km/u",
@@ -83,7 +83,8 @@
       "low_price": 369.0,
       "ph_ean": "8720892912718",
       "prev_price": 379.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "Moov",
@@ -91,7 +92,7 @@
       "price": 229.0,
       "score": 8.9,
       "label": null,
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Compacte broer van de Walk Plus, 14 centimeter hoog.",
       "specs": {
         "Snelheid": "1 tot 8 km/u",
@@ -149,7 +150,8 @@
       "low_price": 229.0,
       "ph_ean": "8720892912701",
       "prev_price": 319.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     },
     {
       "brand": "KingSmith",
@@ -157,7 +159,7 @@
       "price": 749.0,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "150+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Opvouwbare walking pad die meeloopt op jouw tempo.",
       "specs": {
         "Snelheid": "0,5 tot 10 km/u",
@@ -217,7 +219,8 @@
         "2026-11-17": 749.0
       },
       "low_price": 749.0,
-      "ph_ean": "6970492710517"
+      "ph_ean": "6970492710517",
+      "rating": 4.3
     },
     {
       "brand": "Stane",
@@ -225,7 +228,7 @@
       "price": 179.0,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "300+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betaalbare walking pad met helling, gemaakt voor onder het bureau.",
       "specs": {
         "Snelheid": "0,8 tot 8 km/u",
@@ -283,7 +286,8 @@
       "low_price": 159.0,
       "prev_price": 199.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720938925214"
+      "ph_ean": "8720938925214",
+      "rating": 4.7
     },
     {
       "brand": "Tunturi",
@@ -291,7 +295,7 @@
       "price": 399.0,
       "score": 8.6,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Ultraplatte 2-in-1 loopband met groot loopvlak en Bluetooth.",
       "specs": {
         "Snelheid": "1 tot 12 km/u",
@@ -349,7 +353,8 @@
       "low_price": 399.0,
       "prev_price": 486.99,
       "prev_date": "2026-11-02",
-      "ph_ean": "8717842037706"
+      "ph_ean": "8717842037706",
+      "rating": 4.3
     },
     {
       "brand": "Christopeit",
@@ -357,7 +362,7 @@
       "price": 349.0,
       "score": 8.5,
       "label": null,
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "Plat 2-in-1 model van 12 centimeter van een Duits merk.",
       "specs": {
         "Snelheid": "1 tot 12 km/u",
@@ -421,7 +426,7 @@
       "price": 199.99,
       "score": 8.4,
       "label": null,
-      "reviews": "nieuw op bol",
+      "reviews": "",
       "oneliner": "Platste band in deze lijst met hoge draaglast van 136 kilo.",
       "specs": {
         "Snelheid": "1 tot 12 km/u",
@@ -487,7 +492,7 @@
       "price": 229.0,
       "score": 8.3,
       "label": null,
-      "reviews": "100+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Walking pad met lang loopvlak en wandel- en renmodus.",
       "specs": {
         "Snelheid": "1 tot 12 km/u",
@@ -545,7 +550,8 @@
       "low_price": 229.0,
       "ph_ean": "8718627099285",
       "prev_price": 269.0,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.3
     },
     {
       "brand": "CITYSPORTS",
@@ -553,7 +559,7 @@
       "price": 174.53,
       "score": 8.1,
       "label": null,
-      "reviews": "250+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Betaalbare 2-in-1 band met Bluetooth en lage bouwhoogte.",
       "specs": {
         "Snelheid": "1 tot 12 km/u",
@@ -611,7 +617,8 @@
       "low_price": 174.53,
       "prev_price": 179.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "8711544563037"
+      "ph_ean": "8711544563037",
+      "rating": 4.2
     },
     {
       "brand": "TibaGoods",
@@ -619,7 +626,7 @@
       "price": 129.99,
       "score": 7.9,
       "label": null,
-      "reviews": "400+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Goedkoopste wandelband met helling voor onder het bureau.",
       "specs": {
         "Snelheid": "1 tot 6 km/u",
@@ -677,7 +684,8 @@
       "low_price": 129.99,
       "ph_ean": "8721161060536",
       "prev_price": 149.99,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 4.7
     }
   ],
   "guide": [

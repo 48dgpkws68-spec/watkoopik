@@ -24,7 +24,7 @@
       "price": 73.99,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "1.700+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Motorsensor past de kracht aan, 400 lengtes met geheugen.",
       "specs": {
         "Mes": "Staal, zelfslijpend",
@@ -90,7 +90,8 @@
       "low_price": 67.99,
       "prev_price": 76.99,
       "prev_date": "2026-11-05",
-      "ph_ean": "8710103701088"
+      "ph_ean": "8710103701088",
+      "rating": 4.3
     },
     {
       "label": "Beste prijs-kwaliteit",
@@ -144,7 +145,8 @@
       },
       "low_price": 59.99,
       "synced": "2026-11-17",
-      "ph_ean": "8710103897903"
+      "ph_ean": "8710103897903",
+      "rating": 4.6
     },
     {
       "brand": "Wahl",
@@ -152,7 +154,7 @@
       "price": 200.7,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "1.300+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "De tondeuse van de kapper, met verstelbaar mes voor fades.",
       "specs": {
         "Mes": "Staal, verstelbaar 0,8 tot 2,5 mm",
@@ -218,7 +220,8 @@
       "low_price": 200.7,
       "prev_price": 209.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "0043917017426"
+      "ph_ean": "0043917017426",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -226,7 +229,7 @@
       "price": 27.99,
       "score": 8.2,
       "label": null,
-      "reviews": "4.800+ reviews",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Betaalbare basis-tondeuse met 13 standen en lange accu.",
       "specs": {
         "Mes": "Staal, zelfslijpend",
@@ -290,7 +293,8 @@
       "low_price": 22.99,
       "prev_price": 28.49,
       "prev_date": "2026-11-16",
-      "ph_ean": "8710103859673"
+      "ph_ean": "8710103859673",
+      "rating": 4.2
     },
     {
       "brand": "Braun",
@@ -298,7 +302,7 @@
       "price": 39.99,
       "score": 8.3,
       "label": null,
-      "reviews": "4,7 sterren op bol",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Levenslang scherp scheerblad en 17 lengtes voor weinig geld.",
       "specs": {
         "Mes": "Levenslang scherp scheerblad",
@@ -335,7 +339,8 @@
       },
       "low_price": 39.99,
       "synced": "2026-11-17",
-      "ph_ean": "4987176251046"
+      "ph_ean": "4987176251046",
+      "rating": 4.7
     },
     {
       "brand": "BaByliss",
@@ -343,7 +348,7 @@
       "price": 68.99,
       "score": 8.5,
       "label": null,
-      "reviews": "720+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Metalen behuizing en 45 lengtes voor hoofd, baard en lichaam.",
       "specs": {
         "Mes": "Japans staal, 45 mm breed",
@@ -407,7 +412,8 @@
       "low_price": 68.99,
       "prev_price": 69.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "3030050165371"
+      "ph_ean": "3030050165371",
+      "rating": 4.7
     },
     {
       "brand": "Philips",
@@ -415,7 +421,7 @@
       "price": 87.52,
       "score": 8.7,
       "label": null,
-      "reviews": "5.200+ reviews",
+      "reviews": "",
       "oneliner": "Trimmen, stylen en scheren van baard en lichaam met één mesje.",
       "specs": {
         "Mes": "Hybride mesje, 360 graden",
@@ -519,7 +525,8 @@
       },
       "low_price": 74.4,
       "ph_ean": "5038061133998",
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 3.9
     },
     {
       "brand": "Panasonic",
@@ -527,7 +534,7 @@
       "price": 172.15,
       "score": 9.0,
       "label": null,
-      "reviews": "5/5 op bol",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Professionele tondeuse met krachtige lineaire motor en scherp mes.",
       "specs": {
         "Mes": "X-taper mes, 45 graden",
@@ -583,7 +590,8 @@
       "low_price": 172.15,
       "prev_price": 176.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "5025232922352"
+      "ph_ean": "5025232922352",
+      "rating": 5.0
     },
     {
       "brand": "Philips",
@@ -591,7 +599,7 @@
       "price": 80.9,
       "score": 8.4,
       "label": null,
-      "reviews": "3.600+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Alles-in-één set met 14 opzetstukken voor hoofd, baard, neus en lichaam.",
       "specs": {
         "Mes": "Staal, zelfslijpend",
@@ -655,7 +663,8 @@
       "low_price": 62.89,
       "prev_price": 78.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8720689021333"
+      "ph_ean": "8720689021333",
+      "rating": 5.0
     }
   ],
   "guide": [

@@ -72,7 +72,8 @@
       "synced": "2026-11-17",
       "prev_price": 674.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "0015706550988"
+      "ph_ean": "0015706550988",
+      "rating": 5.0
     },
     {
       "brand": "VONROC",
@@ -80,7 +81,7 @@
       "price": 1069.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "4,9/5 op bol",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Stille mobiele split-airco zonder afvoerslang door het raam.",
       "specs": {
         "Type": "Mobiele split-unit",
@@ -136,14 +137,15 @@
       "low_price": 1049.0,
       "prev_price": 1049.0,
       "prev_date": "2026-10-26",
-      "ph_ean": "8717479119158"
+      "ph_ean": "8717479119158",
+      "rating": 4.9
     },
     {
       "brand": "CREATE",
       "name": "Silkair Dual Connect 9000",
       "price": 289.95,
       "score": 8.8,
-      "reviews": "nog geen reviews",
+      "reviews": "",
       "oneliner": "Mobiele airco van 9.000 BTU die ook verwarmt, met wifi en twee raamsets.",
       "specs": {
         "Type": "Monoblock",
@@ -188,7 +190,7 @@
       "price": 1299.0,
       "score": 8.7,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "",
       "oneliner": "Krachtige Italiaanse monoblock die ook verwarmt en relatief stil blijft.",
       "specs": {
         "Type": "Monoblock",
@@ -251,7 +253,7 @@
       "price": 1099.0,
       "score": 8.5,
       "label": null,
-      "reviews": "4,4/5 op bol",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Mobiele split met buitendeel die ook kan verwarmen.",
       "specs": {
         "Type": "Mobiele split-unit",
@@ -283,7 +285,8 @@
         "2026-11-17": 1099.0
       },
       "low_price": 1099.0,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 4.4
     },
     {
       "brand": "CREATE",
@@ -326,14 +329,15 @@
       },
       "low_price": 399.95,
       "synced": "2026-11-17",
-      "ph_ean": "8435572644215"
+      "ph_ean": "8435572644215",
+      "rating": 5.0
     },
     {
       "brand": "Kizura",
       "name": "Mobiele Airco 12.000 BTU",
       "price": 549.0,
       "score": 8.3,
-      "reviews": "reviews op bol",
+      "reviews": "",
       "oneliner": "3-in-1 monoblock van 12.000 BTU voor een grote kamer.",
       "specs": {
         "Type": "Monoblock",
@@ -383,7 +387,7 @@
       "price": 460.0,
       "score": 8.1,
       "label": null,
-      "reviews": "90+ reviews",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Zwarte 4-in-1 airco met raamafdichting standaard in de doos.",
       "specs": {
         "Type": "Monoblock",
@@ -439,7 +443,8 @@
       "low_price": 460.0,
       "prev_price": 475.0,
       "prev_date": "2026-11-09",
-      "ph_ean": "8721325170033"
+      "ph_ean": "8721325170033",
+      "rating": 3.7
     },
     {
       "brand": "DreamGoods",
@@ -447,7 +452,7 @@
       "price": 495.0,
       "score": 7.9,
       "label": null,
-      "reviews": "nog geen reviews",
+      "reviews": "",
       "oneliner": "Compacte 7.000 BTU-airco voor een kleine slaapkamer, met raamafdichtingskit.",
       "specs": {
         "Type": "Monoblock",
@@ -488,7 +493,7 @@
       "price": 169.95,
       "score": 7.8,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Instapmodel voor een kleine kamer met een schuifraamset.",
       "specs": {
         "Type": "Monoblock",
@@ -544,7 +549,8 @@
       "low_price": 169.95,
       "prev_price": 189.95,
       "prev_date": "2026-11-14",
-      "ph_ean": "8435572644208"
+      "ph_ean": "8435572644208",
+      "rating": 4.0
     }
   ],
   "guide": [

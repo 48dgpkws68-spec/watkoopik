@@ -24,7 +24,7 @@
       "price": 499.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "120+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Elektrische relaxstoel met opstahulp, gebruiksklaar thuisbezorgd.",
       "specs": {
         "Type": "Elektrisch, sta-op",
@@ -80,7 +80,8 @@
       "low_price": 489.0,
       "prev_price": 489.0,
       "prev_date": "2026-11-04",
-      "ph_ean": "8720165562787"
+      "ph_ean": "8720165562787",
+      "rating": 4.5
     },
     {
       "brand": "COMHOMA",
@@ -88,7 +89,7 @@
       "price": 169.99,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "60+ reviews",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Betaalbare chenille relaxstoel met losse hocker en vier rugstanden.",
       "specs": {
         "Type": "Handmatig",
@@ -144,7 +145,8 @@
       "low_price": 169.99,
       "prev_price": 174.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "4255764504745"
+      "ph_ean": "4255764504745",
+      "rating": 4.0
     },
     {
       "brand": "Swiss-Relax",
@@ -152,7 +154,7 @@
       "price": 1199.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Leren sta-op stoel die elektrisch verstelt en ook draait.",
       "specs": {
         "Type": "Elektrisch, sta-op",
@@ -206,7 +208,8 @@
         "2026-11-17": 1199.0
       },
       "low_price": 1199.0,
-      "ph_ean": "7423500832873"
+      "ph_ean": "7423500832873",
+      "rating": 5.0
     },
     {
       "brand": "Finlandic",
@@ -214,7 +217,7 @@
       "price": 629.0,
       "score": 9.0,
       "label": null,
-      "reviews": "80+ reviews",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Twee motoren voor rug en voetsteun, afgestemd op lange mensen.",
       "specs": {
         "Type": "Elektrisch, sta-op",
@@ -268,7 +271,8 @@
         "2026-11-17": 629.0
       },
       "low_price": 629.0,
-      "ph_ean": "8720165562695"
+      "ph_ean": "8720165562695",
+      "rating": 4.3
     },
     {
       "brand": "COMHOMA",
@@ -276,7 +280,7 @@
       "price": 319.99,
       "score": 8.7,
       "label": null,
-      "reviews": "90+ reviews",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Elektrische ligstoel met massage voor een middenprijs.",
       "specs": {
         "Type": "Elektrisch",
@@ -332,7 +336,8 @@
       "low_price": 319.99,
       "prev_price": 329.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "4255764500488"
+      "ph_ean": "4255764500488",
+      "rating": 4.5
     },
     {
       "brand": "HOMCOM",
@@ -340,7 +345,7 @@
       "price": 429.9,
       "score": 8.6,
       "label": null,
-      "reviews": "50+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Elektrische ligfauteuil met massage en verwarming.",
       "specs": {
         "Type": "Elektrisch",
@@ -396,7 +401,8 @@
       "low_price": 369.99,
       "prev_price": 404.9,
       "prev_date": "2026-11-12",
-      "ph_ean": "4255633579362"
+      "ph_ean": "4255633579362",
+      "rating": 5.0
     },
     {
       "brand": "Swiss-Relax",
@@ -404,7 +410,7 @@
       "price": 1499.0,
       "score": 8.9,
       "label": null,
-      "reviews": "30+ reviews",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Zero gravity ligstand waarbij je benen boven je hart liggen.",
       "specs": {
         "Type": "Elektrisch, zero gravity",
@@ -458,7 +464,8 @@
         "2026-11-17": 1499.0
       },
       "low_price": 1499.0,
-      "ph_ean": "7423500833825"
+      "ph_ean": "7423500833825",
+      "rating": 4.7
     },
     {
       "brand": "WOOOD",
@@ -466,7 +473,7 @@
       "price": 499.0,
       "score": 8.3,
       "label": null,
-      "reviews": "10+ reviews",
+      "reviews": "",
       "oneliner": "Designfauteuil die draait, met bijpassende hocker in chenille.",
       "specs": {
         "Type": "Draaifauteuil",
@@ -528,7 +535,7 @@
       "price": 188.99,
       "score": 8.2,
       "label": null,
-      "reviews": "40+ reviews",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Handmatige tv-stoel met massage en losse voetenbank.",
       "specs": {
         "Type": "Handmatig",
@@ -584,7 +591,8 @@
       "low_price": 188.99,
       "ph_ean": "4251774913751",
       "prev_price": 207.9,
-      "prev_date": "2026-11-14"
+      "prev_date": "2026-11-14",
+      "rating": 5.0
     },
     {
       "brand": "tectake",
@@ -592,7 +600,7 @@
       "price": 178.2,
       "score": 7.9,
       "label": null,
-      "reviews": "70+ reviews",
+      "reviews": "bol-score 3,6 van 5",
       "oneliner": "Draaibare tv-fauteuil met voetenbank voor een laag budget.",
       "specs": {
         "Type": "Handmatig",
@@ -647,7 +655,8 @@
       "low_price": 178.2,
       "prev_price": 198.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "4260397656440"
+      "ph_ean": "4260397656440",
+      "rating": 3.6
     }
   ],
   "guide": [

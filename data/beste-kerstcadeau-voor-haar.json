@@ -71,7 +71,8 @@
       "synced": "2026-11-17",
       "prev_price": 155.83,
       "prev_date": "2026-11-10",
-      "ph_ean": "5060569866320"
+      "ph_ean": "5060569866320",
+      "rating": 5.0
     },
     {
       "brand": "LEGO",
@@ -123,7 +124,8 @@
       "synced": "2026-11-17",
       "prev_price": 34.59,
       "prev_date": "2026-11-14",
-      "ph_ean": "5702017224336"
+      "ph_ean": "5702017224336",
+      "rating": 4.9
     },
     {
       "brand": "Garmin",
@@ -175,7 +177,8 @@
       "synced": "2026-11-17",
       "prev_price": 250.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "0753759342814"
+      "ph_ean": "0753759342814",
+      "rating": 4.4
     },
     {
       "brand": "Kobo",
@@ -225,7 +228,8 @@
       },
       "low_price": 169.0,
       "synced": "2026-11-17",
-      "ph_ean": "0681495009558"
+      "ph_ean": "0681495009558",
+      "rating": 4.4
     },
     {
       "brand": "Marshall",
@@ -277,7 +281,8 @@
       "synced": "2026-11-17",
       "prev_price": 136.0,
       "prev_date": "2026-11-14",
-      "ph_ean": "7340055402255"
+      "ph_ean": "7340055402255",
+      "rating": 4.8
     },
     {
       "brand": "Philips",
@@ -329,7 +334,8 @@
       "synced": "2026-11-17",
       "prev_price": 128.99,
       "prev_date": "2026-11-14",
-      "ph_ean": "8710103945338"
+      "ph_ean": "8710103945338",
+      "rating": 4.5
     },
     {
       "brand": "Therabody",
@@ -370,7 +376,8 @@
         "2026-11-17": 99.0
       },
       "low_price": 99.0,
-      "synced": "2026-11-17"
+      "synced": "2026-11-17",
+      "rating": 5.0
     },
     {
       "brand": "Fujifilm",
@@ -422,7 +429,8 @@
       "synced": "2026-11-17",
       "prev_price": 92.99,
       "prev_date": "2026-11-12",
-      "ph_ean": "4547410545180"
+      "ph_ean": "4547410545180",
+      "rating": 4.0
     },
     {
       "brand": "Beurer",
@@ -474,7 +482,8 @@
       "synced": "2026-11-17",
       "prev_price": 44.99,
       "prev_date": "2026-11-16",
-      "ph_ean": "4211125424008"
+      "ph_ean": "4211125424008",
+      "rating": 4.0
     },
     {
       "brand": "Apple",
@@ -482,7 +491,7 @@
       "price": 31.99,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Kleine tracker om sleutels of tas snel terug te vinden.",
       "specs": {
         "Soort": "Tracker",
@@ -524,7 +533,8 @@
       },
       "low_price": 31.99,
       "synced": "2026-11-17",
-      "ph_ean": "0195950667363"
+      "ph_ean": "0195950667363",
+      "rating": 4.6
     }
   ],
   "guide": [
