@@ -201,7 +201,7 @@ def robots_meta(path):
     if path in NOINDEX: return 'index,follow,max-image-preview:large"><meta name="googlebot" content="noindex,follow'
     return "index,follow,max-image-preview:large"
 N_PROD = sum(len(g["products"]) for g in guides)
-N_REV = sum(int(re.sub(r"\D", "", str(g.get("reviews_total", "0"))) or 0) for g in guides)
+N_REV = sum(len(p.get("ph") or {}) for g in guides for p in g["products"])  # echte prijsmetingen bij bol (reviews_total was een schatting, 17 nov)
 def win(g): return g["products"][0]
 def img_of(p, cls=""):
     return ('<img src="%s" alt="%s %s" loading="lazy"%s>' % (e(p["image"]), e(p["brand"]), e(p["name"]), (' class="%s"' % cls) if cls else "")) if p.get("image") else '<span class="ph" aria-hidden="true">%s</span>' % e(p.get("_ico", "🛒"))
@@ -686,11 +686,11 @@ home = '''
 <div class="hero-in">
 <span class="badge"><i></i> Elke dag nieuwe top 10's · prijzen dagelijks gecheckt</span>
 <h1 class="split">Wat koop ik? <span class="grad">Wij zochten het uit.</span></h1>
-<p class="lead">Onafhankelijke top 10-lijsten van de beste producten van %d. Vergeleken op prijs, specificaties en duizenden reviews, zodat jij in vijf minuten de juiste keuze maakt.</p>
+<p class="lead">Onafhankelijke top 10-lijsten van de beste producten van %d. Vergeleken op prijs, specificaties en kopersreviews, zodat jij in vijf minuten de juiste keuze maakt.</p>
 %s
 %s
 <div class="hero-chips">%s</div>
-<div class="hero-stats"><div><b class="grad" data-count="%d">%d</b><span>top 10-gidsen</span></div><div><b class="grad" data-count="%d">%d</b><span>producten vergeleken</span></div><div><b class="grad" data-count="%d">%s</b><span>reviews meegewogen</span></div></div>
+<div class="hero-stats"><div><b class="grad" data-count="%d">%d</b><span>top 10-gidsen</span></div><div><b class="grad" data-count="%d">%d</b><span>producten vergeleken</span></div><div><b class="grad" data-count="%d">%s</b><span>prijzen gemeten bij bol</span></div></div>
 </div>
 <div class="hero-band">%s%s</div>
 </section>
@@ -882,7 +882,7 @@ for g in guides:
 <section style="padding:40px 0"><div class="sec-head"><h2>Meer gidsen in %s</h2><a class="more" href="../categorie/%s.html">Alle %d →</a></div><div class="gl">%s</div></section>
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
-        g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(gmod(g))), len(ps), ("<span><b>%s</b> reviews</span>" % e(str(g["reviews_total"]))) if str(g.get("reviews_total", "")).strip("0. ") else "",
+        g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(gmod(g))), len(ps), "",
         own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
@@ -1266,7 +1266,7 @@ def hub_page(c):
         if good:
             faq.append(("Wat kost een goede %s?" % c["enkel"], "In onze %d gidsen kost de goedkoopste aanrader met een score van 8 of hoger %s, de %s %s. De helft van alle %d modellen die wij vergelijken kost tussen %s en %s. De duurste topmodellen kosten %s." % (
                 n, eur(good[0]["price"]), good[0]["brand"], good[0]["name"], len(allp), eur(prices[len(prices) // 4]), eur(prices[3 * len(prices) // 4]), eur(prices[-1]))))
-        faq.append(("Hoe kiezen jullie de beste %s?" % c["meervoud"], "Per gids vergelijken we tien modellen op prestaties, prijs-kwaliteit, betrouwbaarheid en gebruiksgemak, op basis van specificaties en duizenden kopersreviews. Merken kunnen geen plek kopen. De prijzen controleren we elke dag bij bol."))
+        faq.append(("Hoe kiezen jullie de beste %s?" % c["meervoud"], "Per gids vergelijken we tien modellen op prestaties, prijs-kwaliteit, betrouwbaarheid en gebruiksgemak, op basis van specificaties en kopersreviews. Merken kunnen geen plek kopen. De prijzen controleren we elke dag bij bol."))
     others = [x for x in HUBS if x is not c and (x["cat"] == c["cat"])] or [x for x in HUBS if x is not c][:8]
     h1 = (c.get("h1") or "").replace("{YEAR}", str(YEAR)) or '%s %s <span class="grad">kopen in %d?</span>' % (welk(c), e(c["enkel"]), YEAR)
     catk = c["cat"] if c["cat"] in CATS else main["cat"]
@@ -1295,7 +1295,7 @@ for c in HUBS: hub_page(c)
 def prose(path, title, desc, inner, active=None):
     page(path, title + " | watkoopik", desc, '<section data-hue="1" style="padding-top:34px"><div class="wrap prose">%s</div></section>' % inner, active)
 prose("zo-kiezen-wij.html", "Zo kiezen wij", "Hoe watkoopik producten vergelijkt en rangschikt.", '''<span class="kick">Onze methode</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Zo komen onze top 10's tot stand</h1>
-<div class="numbers" style="margin:20px 0"><div class="rv"><b>4</b><span>criteria</span></div><div class="rv"><b>1000+</b><span>reviews per gids</span></div><div class="rv"><b>0</b><span>betaalde plekken</span></div><div class="rv"><b>Dagelijks</b><span>prijzen gecheckt</span></div></div>
+<div class="numbers" style="margin:20px 0"><div class="rv"><b>4</b><span>criteria</span></div><div class="rv"><b>''' + format(N_REV, ",").replace(",", ".") + '''</b><span>prijzen gemeten</span></div><div class="rv"><b>0</b><span>betaalde plekken</span></div><div class="rv"><b>Dagelijks</b><span>prijzen gecheckt</span></div></div>
 <h2>Wat we wegen</h2><p>Elk product krijgt een score van 1 tot 10. <b>Prestaties</b> (40%): hoe goed doet het product zijn werk, op basis van specificaties en terugkerende ervaringen in reviews. <b>Prijs-kwaliteit</b> (25%): wat krijg je voor je geld vergeleken met de rest van de lijst. <b>Betrouwbaarheid</b> (20%): garantie, merkreputatie en klachten over defecten. <b>Gebruiksgemak</b> (15%): bediening, onderhoud en ergernissen.</p>
 <h2>Onze bronnen</h2><p>Officiële specificaties van fabrikanten, productpagina's en reviewscores van grote Nederlandse winkels zoals bol. Waar beschikbaar gebruiken we ook onafhankelijke tests van gespecialiseerde media. Wij testen producten niet zelf in een lab. We zeggen dus nooit dat we iets getest hebben, wel dat we het vergeleken hebben.</p>
 <h2>Hoe we geld verdienen</h2><p>Koop je via een link op onze site, dan ontvangen wij soms een kleine vergoeding van de winkel. Jij betaalt niets extra. Dit heeft geen invloed op de volgorde: merken kunnen geen plek kopen.</p>
