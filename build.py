@@ -1367,3 +1367,8 @@ try:
     subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "tools", "prijsgrens_check.py"), "--stil"], timeout=60)
 except Exception as ex:
     print("Prijsgrens-controle overgeslagen: %s" % ex)
+# Reviewclaims (N42): scores in de vrije tekst moeten bij de echte bol-score passen, geen reviewaantallen (tools/claim_check.py schrijft _src/claims.json)
+try:
+    subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "tools", "claim_check.py"), "--kort"], timeout=60)
+except Exception as ex:
+    print("Reviewclaim-controle overgeslagen: %s" % ex)

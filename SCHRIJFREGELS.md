@@ -16,6 +16,7 @@ Taalregels (de build breekt af bij overtreding):
 - NOOIT een em-dash of en-dash (— of –). Gebruik een punt, komma of dubbele punt.
 - NOOIT een komma direct voor "en" (", en"). Splits de zin of laat de komma weg.
 - Nooit "getest" of "wij hebben getest": wij vergelijken op specificaties en reviews.
+- Reviewcijfers in de tekst (sinds 17 nov 2026): noem nooit een aantal reviews ("ruim 4.000 reviews"), bol geeft geen aantal. Een score ("4,6 van 5") alleen als die gelijk is aan de echte bol-score in het veld rating (bol_sync); bij twijfel weglaten. Ook geen "best verkochte" of "meest beoordeelde" zonder bron. De build telt afwijkingen: "Reviewclaims: N" (tools/claim_check.py).
 - Alleen echte, bestaande producten met echte modelnamen die in Nederland (bol) te koop zijn. Geen verzonnen modellen.
 - Prijzen afronden op hele euro's of ,95/,99 zoals winkels doen.
 - Geen "2025" in titels, alleen 2026.
