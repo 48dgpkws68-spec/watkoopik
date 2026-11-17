@@ -22,10 +22,10 @@
     {
       "brand": "Apple",
       "name": "iPhone 17 Pro 256GB",
-      "price": 1260.95,
+      "price": 1195.0,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "De meest complete iPhone: drie 48MP-camera's en een uitstekende accu.",
       "specs": {
         "Scherm": "6,3 inch, 120 Hz",
@@ -51,7 +51,7 @@
       "bol_title": "Apple iPhone 17 Pro - 256GB - Deep Blue",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-17-pro-256gb-blauw/9300000240171759/",
       "image": "https://media.s-bol.com/38E2Q7y4Aky9/Y6rooy0/550x679.jpg",
-      "synced": "2026-11-17",
+      "synced": "2026-11-18",
       "ph": {
         "2026-10-16": 1138.0,
         "2026-10-17": 1137.0,
@@ -83,21 +83,22 @@
         "2026-11-13": 1260.95,
         "2026-11-14": 1260.95,
         "2026-11-16": 1260.95,
-        "2026-11-17": 1260.95
+        "2026-11-17": 1260.95,
+        "2026-11-18": 1195.0
       },
       "low_price": 999.0,
-      "prev_price": 1195.0,
-      "prev_date": "2026-11-12",
+      "prev_price": 1260.95,
+      "prev_date": "2026-11-17",
       "ph_ean": "0195950627640",
-      "rating": 4.6
+      "rating": 4.7
     },
     {
       "brand": "Apple",
       "name": "iPhone 17 256GB",
-      "price": 945.99,
+      "price": 948.99,
       "score": 9.2,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Eindelijk 120 Hz en 256 GB opslag in de gewone iPhone.",
       "specs": {
         "Scherm": "6,3 inch, 120 Hz",
@@ -122,7 +123,7 @@
       "bol_title": "Apple iPhone 17 - 256GB - Mist Blue",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-17-256gb-mist-blue/9300000240171761/",
       "image": "https://media.s-bol.com/D3OJBnZw6Wyq/99XAoW8/550x678.jpg",
-      "synced": "2026-11-17",
+      "synced": "2026-11-18",
       "ph": {
         "2026-10-16": 915.0,
         "2026-10-17": 915.0,
@@ -154,13 +155,14 @@
         "2026-11-13": 955.99,
         "2026-11-14": 915.0,
         "2026-11-16": 945.99,
-        "2026-11-17": 945.99
+        "2026-11-17": 945.99,
+        "2026-11-18": 948.99
       },
       "low_price": 856.99,
-      "prev_price": 915.0,
-      "prev_date": "2026-11-14",
+      "prev_price": 945.99,
+      "prev_date": "2026-11-17",
       "ph_ean": "0195950643985",
-      "rating": 4.7
+      "rating": 4.6
     },
     {
       "brand": "Apple",
@@ -193,7 +195,7 @@
       "bol_title": "Apple iPhone 17 Pro Max - 256GB - Deep Blue",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-17-pro-max-256gb-donkerblauw/9300000240171709/",
       "image": "https://media.s-bol.com/rDBR2gJVGEVE/X6qmmrk/550x679.jpg",
-      "synced": "2026-11-17",
+      "synced": "2026-11-18",
       "ph": {
         "2026-10-16": 1189.0,
         "2026-10-17": 1199.0,
@@ -225,7 +227,8 @@
         "2026-11-13": 1259.0,
         "2026-11-14": 1259.0,
         "2026-11-16": 1259.0,
-        "2026-11-17": 1259.0
+        "2026-11-17": 1259.0,
+        "2026-11-18": 1259.0
       },
       "low_price": 1188.99,
       "prev_price": 1289.0,
@@ -236,7 +239,7 @@
     {
       "brand": "Apple",
       "name": "iPhone Air 256GB",
-      "price": 869.0,
+      "price": 899.0,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -264,7 +267,7 @@
       "bol_title": "Apple iPhone Air - 256GB - Space Black",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-air-256gb-space-black/9300000240171676/",
       "image": "https://media.s-bol.com/B3MRz4rqxr6N/nRJm0wp/550x682.jpg",
-      "synced": "2026-11-17",
+      "synced": "2026-11-18",
       "ph": {
         "2026-10-16": 895.0,
         "2026-10-17": 895.0,
@@ -296,11 +299,12 @@
         "2026-11-13": 889.0,
         "2026-11-14": 889.0,
         "2026-11-16": 869.0,
-        "2026-11-17": 869.0
+        "2026-11-17": 869.0,
+        "2026-11-18": 899.0
       },
       "low_price": 869.0,
-      "prev_price": 889.0,
-      "prev_date": "2026-11-14",
+      "prev_price": 869.0,
+      "prev_date": "2026-11-17",
       "ph_ean": "0195950622669",
       "rating": 5.0
     },
@@ -335,7 +339,7 @@
       "bol_title": "Apple iPhone 17e - 256 GB - Lichtroze",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-17e-256-gb-lichtroze/9300000445759449/",
       "image": "https://media.s-bol.com/nwANDw4qLNop/qQ8pqO7/550x669.jpg",
-      "synced": "2026-11-17",
+      "synced": "2026-11-18",
       "ph": {
         "2026-10-16": 819.99,
         "2026-10-17": 799.0,
@@ -367,7 +371,8 @@
         "2026-11-13": 800.0,
         "2026-11-14": 769.0,
         "2026-11-16": 781.0,
-        "2026-11-17": 769.0
+        "2026-11-17": 769.0,
+        "2026-11-18": 769.0
       },
       "low_price": 769.0,
       "prev_price": 781.0,
@@ -406,7 +411,7 @@
       "bol_title": "Apple iPhone 16 Pro - 256GB - Desert Titanium",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-16-pro-256gb-desert-titanium/9300000189439833/",
       "image": "https://media.s-bol.com/mWV49wG0GqYA/qx6vp1D/550x684.jpg",
-      "synced": "2026-11-17",
+      "synced": "2026-11-18",
       "ph": {
         "2026-10-16": 855.0,
         "2026-10-17": 855.0,
@@ -438,7 +443,8 @@
         "2026-11-13": 775.0,
         "2026-11-14": 1399.95,
         "2026-11-16": 775.0,
-        "2026-11-17": 775.0
+        "2026-11-17": 775.0,
+        "2026-11-18": 775.0
       },
       "low_price": 775.0,
       "prev_price": 1399.95,
@@ -449,7 +455,7 @@
     {
       "brand": "Apple",
       "name": "iPhone 16 128GB",
-      "price": 780.0,
+      "price": 789.0,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -477,7 +483,7 @@
       "bol_title": "Apple iPhone 16 - 128GB - Blauw",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-16-128gb-blauw/9300000189439879/",
       "image": "https://media.s-bol.com/Non9Ow7x0yML/zpQk1R5/550x674.jpg",
-      "synced": "2026-11-17",
+      "synced": "2026-11-18",
       "ph": {
         "2026-10-16": 799.0,
         "2026-10-17": 799.0,
@@ -509,11 +515,12 @@
         "2026-11-13": 777.0,
         "2026-11-14": 750.0,
         "2026-11-16": 750.0,
-        "2026-11-17": 780.0
+        "2026-11-17": 780.0,
+        "2026-11-18": 789.0
       },
       "low_price": 720.99,
-      "prev_price": 750.0,
-      "prev_date": "2026-11-16",
+      "prev_price": 780.0,
+      "prev_date": "2026-11-17",
       "ph_ean": "0195949822506",
       "rating": 4.7
     },
@@ -563,10 +570,11 @@
         "2026-11-13": 920.06,
         "2026-11-14": 920.06,
         "2026-11-16": 809.0,
-        "2026-11-17": 809.0
+        "2026-11-17": 809.0,
+        "2026-11-18": 809.0
       },
       "low_price": 789.0,
-      "synced": "2026-11-17",
+      "synced": "2026-11-18",
       "prev_price": 920.06,
       "prev_date": "2026-11-14",
       "ph_ean": "0195949723971",
@@ -575,7 +583,7 @@
     {
       "brand": "Apple",
       "name": "iPhone 16e 128GB",
-      "price": 669.0,
+      "price": 679.0,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -603,7 +611,7 @@
       "bol_title": "Apple iPhone 16e - 128GB - Zwart",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-16e-15-5-cm-dual-sim-ios-18-5g-usb-type-c-128-gb-zwart/9300000225864497/",
       "image": "https://media.s-bol.com/mm4g2zKp4DDn/31m95zx/550x669.jpg",
-      "synced": "2026-11-17",
+      "synced": "2026-11-18",
       "ph": {
         "2026-10-16": 719.0,
         "2026-10-17": 669.0,
@@ -635,11 +643,12 @@
         "2026-11-13": 669.0,
         "2026-11-14": 669.0,
         "2026-11-16": 669.0,
-        "2026-11-17": 669.0
+        "2026-11-17": 669.0,
+        "2026-11-18": 679.0
       },
       "low_price": 615.0,
-      "prev_price": 708.0,
-      "prev_date": "2026-11-12",
+      "prev_price": 669.0,
+      "prev_date": "2026-11-17",
       "ph_ean": "0195950051155",
       "rating": 4.7
     },
@@ -674,7 +683,7 @@
       "bol_title": "Apple iPhone 15 - 128GB - Blue",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-15-128gb-blauw/9300000161136432/",
       "image": "https://media.s-bol.com/mnWWBxY2zMZr/vPzjZM/550x721.jpg",
-      "synced": "2026-11-17",
+      "synced": "2026-11-18",
       "ph": {
         "2026-10-16": 705.0,
         "2026-10-17": 705.0,
@@ -706,7 +715,8 @@
         "2026-11-13": 685.0,
         "2026-11-14": 685.0,
         "2026-11-16": 685.0,
-        "2026-11-17": 685.0
+        "2026-11-17": 685.0,
+        "2026-11-18": 685.0
       },
       "low_price": 669.0,
       "prev_price": 697.99,

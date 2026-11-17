@@ -45,9 +45,9 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-tv-onder-750-euro | elektronica | tv onder 750 euro | De 10 beste tv's onder 750 euro van 2026 | 📺
 [x] beste-tv-onder-400-euro | elektronica | tv onder 400 euro | De 10 beste tv's onder 400 euro van 2026 | 📺 (google_wacht)
 [x] beste-tv-48-inch | elektronica | 48 inch tv | De 8 beste 48 inch tv's van 2026 | 📺 (google_wacht, bol heeft maar 8 echte 48 inch tv's)
-[ ] beste-tv-onder-1500-euro | elektronica | tv onder 1500 euro | De 10 beste tv's onder 1500 euro van 2026 | 📺
+[x] beste-tv-onder-1500-euro | elektronica | tv onder 1500 euro | De 10 beste tv's onder 1500 euro van 2026 | 📺 (google_wacht)
 [x] beste-laptop-onder-750-euro | computer | laptop onder 750 euro | De 10 beste laptops onder 750 euro van 2026 | 💻 (google_wacht)
-[ ] beste-tv-40-inch | elektronica | 40 inch tv | De 10 beste 40 inch tv's van 2026 | 📺
+[x] beste-tv-40-inch | elektronica | 40 inch tv | De 10 beste 40 inch tv's van 2026 | 📺 (google_wacht)
 
 # groeimotor 5 nov 2026 (D1): Black Friday 27 nov + Sinterklaas + Kerst, op verwachte omzet (prijs x zoekvraag x seizoen), 4 tot 6 weken vooraf
 [x] beste-kunstkerstboom | wonen | kunstkerstboom | De 10 beste kunstkerstbomen van 2026 | 🎄

@@ -1112,12 +1112,12 @@
     "paar": true
    }
   ],
-  "_tot": "7b9248076f26a051adf2c7568d2d808bda381c76",
+  "_tot": "a692402b6aa268ca7fdbceff4858af27467ef4b4",
   "_ps": [
    {
     "brand": "Apple",
     "name": "MacBook Air 13 inch M4 (2025) 16 GB 256 GB",
-    "ean": "0195949837210"
+    "ean": "0195949838156"
    },
    {
     "brand": "Lenovo",
@@ -1177,14 +1177,22 @@
     "in": "Fractal Design North Gaming PC (Ryzen 7 9800X3D, RTX 5070 Ti)",
     "plek": 6,
     "paar": true
+   },
+   {
+    "d": "2026-11-17",
+    "t": "vervangen",
+    "uit": "ASUS ROG G700 G700TF-7265KF306W (Core Ultra 7 265KF, RTX 5070)",
+    "in": "Lenovo Legion T5 30AGB10 90YJ0097MH (Ryzen 7 7800X3D, RTX 5070)",
+    "plek": 1,
+    "paar": true
    }
   ],
-  "_tot": "7b9248076f26a051adf2c7568d2d808bda381c76",
+  "_tot": "a692402b6aa268ca7fdbceff4858af27467ef4b4",
   "_ps": [
    {
-    "brand": "ASUS",
-    "name": "ROG G700 G700TF-7265KF306W (Core Ultra 7 265KF, RTX 5070)",
-    "ean": "4711636406819"
+    "brand": "Lenovo",
+    "name": "Legion T5 30AGB10 90YJ0097MH (Ryzen 7 7800X3D, RTX 5070)",
+    "ean": "0199274389918"
    },
    {
     "brand": "HP",
@@ -1746,14 +1754,24 @@
     "in": "Philips Ambilight 43PQS8601/12",
     "plek": 4,
     "paar": true
+   },
+   {
+    "d": "2026-11-17",
+    "t": "vervangen",
+    "uit": "Samsung Neo QLED QE43QN92F",
+    "in": "Samsung Neo QLED QE43QN73H",
+    "plek": 1,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "9d135cbee047e8bca1ece8d0d67c8b0d6cb7d33e",
+  "_tot": "a692402b6aa268ca7fdbceff4858af27467ef4b4",
   "_ps": [
    {
     "brand": "Samsung",
-    "name": "Neo QLED QE43QN92F",
-    "ean": "8806097114291"
+    "name": "Neo QLED QE43QN73H",
+    "ean": "8806099124410"
    },
    {
     "brand": "Hisense",
