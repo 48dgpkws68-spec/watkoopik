@@ -516,7 +516,8 @@ def og_img(g, top):
     return SITE + "/" + rel + "?v=" + OG_META.get(g["slug"], sig) if os.path.exists(path) else top.get("image", "")
 
 def head(title, desc, path, root, extra="", img=""):
-    canon = CANON + "/" + path
+    # map/index.html: canonical = map/ (zelfde URL als sitemap en interne links; check 17 nov 2026)
+    canon = CANON + "/" + (path[:-len("index.html")] if path.endswith("/index.html") else path)
     return '''<!doctype html>
 <html lang="nl">
 <head>
