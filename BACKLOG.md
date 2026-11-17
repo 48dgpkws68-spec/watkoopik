@@ -53,7 +53,7 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-kunstkerstboom-210-cm | wonen | kunstkerstboom 210 cm | De 10 beste kunstkerstbomen van 210 cm van 2026 | 🎄
 [ ] beste-dekbed-2-persoons | slapen | 2 persoons dekbed | De 10 beste 2 persoons dekbedden van 2026 | 🛏️
 [ ] beste-robotstofzuiger-onder-300-euro | huishouden | robotstofzuiger onder 300 euro | De 10 beste robotstofzuigers onder 300 euro van 2026 | 🤖
-[ ] beste-luchtreiniger-woonkamer | huishouden | luchtreiniger woonkamer | De 10 beste luchtreinigers voor de woonkamer van 2026 | 🌬️
+[ ] beste-luchtreiniger-woonkamer | wonen | luchtreiniger woonkamer | De 10 beste luchtreinigers voor de woonkamer van 2026 | 🌬️
 [ ] beste-elektrische-kachel-onder-100-euro | wonen | elektrische kachel onder 100 euro | De 10 beste elektrische kachels onder 100 euro van 2026 | 🔥
 
 # groeimotor 5 nov 2026 (D1): Black Friday 27 nov + Sinterklaas + Kerst, op verwachte omzet (prijs x zoekvraag x seizoen), 4 tot 6 weken vooraf
