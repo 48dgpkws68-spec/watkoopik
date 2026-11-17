@@ -48,6 +48,13 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-tv-onder-1500-euro | elektronica | tv onder 1500 euro | De 10 beste tv's onder 1500 euro van 2026 | 📺 (google_wacht)
 [x] beste-laptop-onder-750-euro | computer | laptop onder 750 euro | De 10 beste laptops onder 750 euro van 2026 | 💻 (google_wacht)
 [x] beste-tv-40-inch | elektronica | 40 inch tv | De 10 beste 40 inch tv's van 2026 | 📺 (google_wacht)
+# groeimotor 18 nov 2026 (AI2, N40 stap 2 vervolg): zelf toegevoegde smalle varianten in families met ChatGPT-bezoek; alleen voor de N40-nachtruns (google_wacht), 2 per nacht.
+[ ] beste-kunstkerstboom-180-cm | wonen | kunstkerstboom 180 cm | De 10 beste kunstkerstbomen van 180 cm van 2026 | 🎄
+[ ] beste-kunstkerstboom-210-cm | wonen | kunstkerstboom 210 cm | De 10 beste kunstkerstbomen van 210 cm van 2026 | 🎄
+[ ] beste-dekbed-2-persoons | slapen | 2 persoons dekbed | De 10 beste 2 persoons dekbedden van 2026 | 🛏️
+[ ] beste-robotstofzuiger-onder-300-euro | huishouden | robotstofzuiger onder 300 euro | De 10 beste robotstofzuigers onder 300 euro van 2026 | 🤖
+[ ] beste-luchtreiniger-woonkamer | huishouden | luchtreiniger woonkamer | De 10 beste luchtreinigers voor de woonkamer van 2026 | 🌬️
+[ ] beste-elektrische-kachel-onder-100-euro | wonen | elektrische kachel onder 100 euro | De 10 beste elektrische kachels onder 100 euro van 2026 | 🔥
 
 # groeimotor 5 nov 2026 (D1): Black Friday 27 nov + Sinterklaas + Kerst, op verwachte omzet (prijs x zoekvraag x seizoen), 4 tot 6 weken vooraf
 [x] beste-kunstkerstboom | wonen | kunstkerstboom | De 10 beste kunstkerstbomen van 2026 | 🎄
