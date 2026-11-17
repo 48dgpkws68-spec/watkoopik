@@ -349,12 +349,12 @@
     },
     {
       "brand": "VONROC",
-      "name": "Panarea 2000W",
-      "price": 120.95,
+      "name": "Filicudi 2000W",
+      "price": 114.95,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
-      "oneliner": "Betaalbare staande carbon-heater met zwenkfunctie.",
+      "oneliner": "Staande infraroodheater met carbon element en afstandsbediening.",
       "specs": {
         "Type": "Elektrisch, infrarood",
         "Vermogen": "2000 W",
@@ -363,54 +363,28 @@
         "Bediening": "Afstandsbediening"
       },
       "pros": [
-        "Scherpe prijs voor een staande carbon-heater",
-        "Zwenkfunctie verdeelt de warmte",
-        "Afstandsbediening"
+        "Carbon element met weinig fel licht",
+        "Afstandsbediening en LCD-scherm",
+        "Geen montage aan de muur nodig",
+        "Scherpe prijs"
       ],
       "cons": [
-        "Minder vermogen dan de 2500 W-modellen",
-        "Lichtere voet, minder stabiel bij wind"
+        "Maar twee warmtestanden",
+        "Niet in hoogte verstelbaar"
       ],
-      "ideal": "Een balkon of klein terras waar je voor weinig geld warmte wilt.",
-      "text": "VONROC is een Nederlands gereedschaps- en tuinmerk dat met de Panarea een staande heater onder de 100 euro neerzet. Het golden carbon-element geeft een zachte gloed en direct warmte op ongeveer 12 vierkante meter. Bijzonder in deze prijsklasse is de zwenkfunctie: de kop draait heen en weer, zodat meerdere mensen rond een tafel warmte voelen. Met de afstandsbediening kies je de stand en zet je het zwenken aan of uit.\n\nKopers zijn erg positief over de prijs en de hoeveelheid warmte die eruit komt. Hij is licht genoeg om na gebruik naar binnen of in de schuur te zetten. Die lichte bouw betekent wel dat hij bij harde wind minder stabiel staat dan de Sunred. Plaats hem daarom uit de wind of verzwaar de voet. Voor een balkon of klein terras is dit de verstandigste goedkope keuze.",
-      "ean": "8717479119707",
-      "bol_title": "VONROC Staande Terrasverwarmer Panarea 2000W – Patio heater - Golden Carbon infrarood verwarmingselement – zwenkfunctie - Incl. afstandsbediening",
-      "url": "https://www.bol.com/nl/nl/p/vonroc-staande-terrasverwarmer-panarea-2000w-patio-heater-golden-carbon-infrarood-verwarmingselement-zwenkfunctie-incl-afstandsbediening/9300000345681161/",
-      "image": "https://media.s-bol.com/xXr6kPGnQE3q/mOkOvW9/338x840.jpg",
-      "synced": "2026-11-17",
+      "ideal": "Wie een staande heater bij de loungeset wil zonder te boren.",
+      "text": "VONROC is een Nederlands gereedschaps- en tuinmerk en de Filicudi is een staande heater van 2000 watt. Hij werkt met een carbon element: dat geeft infraroodwarmte die direct op je huid valt in plaats van eerst de lucht te verwarmen. Een carbon element geeft minder fel licht dan een klassieke halogeenlamp, wat 's avonds op het terras prettiger is. Hij is ongeveer 117 centimeter hoog en staat op een voet, dus je hoeft niets aan de muur te schroeven.\n\nMet de afstandsbediening kies je een van de twee warmtestanden en op het LCD-scherm zie je welke stand aanstaat. Kopers op bol geven hem gemiddeld 4,7 van 5 en noemen vooral hoe snel je de warmte voelt. Twee standen is wel weinig als je fijner wilt regelen en de hoogte is niet instelbaar. Op de hoogste stand verbruik je 2 kWh per uur, dus reken op ongeveer 80 cent per uur bij een stroomprijs van 40 cent. Voor een loungeset of kleine tafel is dit een betaalbare keuze.",
+      "ean": "8717479097654",
+      "rating": 4.7,
+      "bol_title": "VONROC Terrasverwarmer Filicudi – Infrarood - 2000W – Hoog rendement - Carbon element – 2 verwarmingsstanden – LCD Scherm - Incl. Afstandsbediening",
+      "url": "https://www.bol.com/nl/nl/p/vonroc-terrasverwarmer-filicudi-infrarood-2000w-hoog-rendement-carbon-element-2-verwarmingsstanden-lcd-scherm-incl-afstandsbediening/9300000087026373/",
+      "image": "https://media.s-bol.com/YBKvOPRK2962/gmk1JG/313x840.jpg",
       "ph": {
-        "2026-10-21": 99.95,
-        "2026-10-23": 99.95,
-        "2026-10-24": 99.95,
-        "2026-10-25": 99.95,
-        "2026-10-26": 96.95,
-        "2026-10-27": 96.95,
-        "2026-10-28": 96.95,
-        "2026-10-29": 96.95,
-        "2026-10-30": 96.95,
-        "2026-10-31": 96.95,
-        "2026-11-01": 96.95,
-        "2026-11-02": 109.95,
-        "2026-11-03": 109.95,
-        "2026-11-04": 93.95,
-        "2026-11-05": 93.95,
-        "2026-11-06": 93.95,
-        "2026-11-07": 93.95,
-        "2026-11-08": 93.95,
-        "2026-11-09": 93.95,
-        "2026-11-10": 93.95,
-        "2026-11-11": 93.95,
-        "2026-11-12": 93.95,
-        "2026-11-13": 93.95,
-        "2026-11-14": 93.95,
-        "2026-11-16": 120.95,
-        "2026-11-17": 120.95
+        "2026-11-17": 114.95
       },
-      "low_price": 93.95,
-      "prev_price": 93.95,
-      "prev_date": "2026-11-14",
-      "ph_ean": "8717479119707",
-      "rating": 4.7
+      "low_price": 114.95,
+      "ph_ean": "8717479097654",
+      "synced": "2026-11-17"
     },
     {
       "brand": "Enders",
@@ -718,5 +692,13 @@
       "a": "Modellen met een carbon-element of golden low-glare lamp, zoals de Sunred Dark en de Eurom Golden, geven een zachte gloed. Goedkope halogeenstralers geven een fel oranje licht dat 's avonds kan storen."
     }
   ],
-  "published": "2026-10-21"
+  "published": "2026-10-21",
+  "wissels": [
+    {
+      "d": "2026-11-17",
+      "uit": "VONROC Panarea 2000W",
+      "in": "VONROC Filicudi 2000W",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

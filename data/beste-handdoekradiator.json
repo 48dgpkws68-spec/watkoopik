@@ -254,56 +254,41 @@
     },
     {
       "brand": "EMKE",
-      "name": "Smart handdoekradiator touchscreen en app 100 x 50 cm 320 W",
-      "price": 209.99,
+      "name": "Smart handdoekradiator touchscreen en app 85 x 40 cm 230 W",
+      "price": 195.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
       "oneliner": "Touchscreen, app en timer voor warme handdoeken op afstand.",
       "specs": {
-        "Afmeting": "100 x 50 cm",
-        "Vermogen": "320 W",
+        "Afmeting": "85 x 40 cm",
+        "Vermogen": "230 W",
         "Regeling": "Touchscreen, app en timer",
         "Montage": "Wand"
       },
       "pros": [
         "Bediening op de radiator en via de app",
         "Timer zet hem vanzelf weer uit",
-        "Laag verbruik"
+        "Laag verbruik",
+        "Compact voor een kleine badkamer"
       ],
       "cons": [
-        "320 watt is te weinig als enige verwarming",
+        "230 watt is te weinig als enige verwarming",
         "Minder bekend merk dan Plieger of Zehnder"
       ],
-      "ideal": "Een badkamer met cv of vloerverwarming waar je vooral warme, droge handdoeken wilt.",
-      "text": "EMKE is een Duits merk dat op bol inmiddels een groot deel van de handdoekradiatoren levert. Deze uitvoering heeft een touchscreen op de radiator zelf en een app waarmee je hem op afstand bedient. Met 100 bij 50 centimeter en 320 watt is hij vooral bedoeld om handdoeken warm en droog te houden. Naast de gewone verwarming brengt hij een kleine badkamer ook sneller op temperatuur.\n\nDe timer is handig: je laat hem bijvoorbeeld twee uur draaien na het douchen, waarna hij vanzelf uitgaat. Daardoor blijft het verbruik beperkt. Twee uur op 320 watt kost je ongeveer 26 cent per dag bij een stroomprijs van 40 cent per kWh. Kopers zijn positief over de eenvoudige montage en de duidelijke bediening. Let wel op het lagere vermogen: als enige verwarming in een koude badkamer schiet hij tekort. Is dat jouw situatie, kies dan een model van 500 watt of meer.",
-      "ean": "4260684694902",
-      "bol_title": "EMKE Elektrische Handdoekradiator - Smart Bediening - Touchscreen & APP - Met Timer - 320 W - 100x50 cm - Badkamer Radiator - Handdoekdroger",
-      "url": "https://www.bol.com/nl/nl/p/emke-elektrische-handdoekradiator-smart-bediening-touchscreen-app-met-timer-320-w-100x50-cm-badkamer-radiator-handdoekdroger/9300000225978690/",
-      "image": "https://media.s-bol.com/rrGloYzzlw0W/J69BGPo/550x550.jpg",
+      "ideal": "Een kleine badkamer met cv of vloerverwarming waar je vooral warme, droge handdoeken wilt.",
+      "text": "EMKE is een Duits merk dat op bol een groot deel van de handdoekradiatoren levert. Deze vernieuwde uitvoering uit 2026 heeft een touchscreen op de radiator zelf en een app waarmee je hem op afstand bedient. Met 85 bij 40 centimeter en 230 watt is hij compact en vooral bedoeld om handdoeken warm en droog te houden. Daardoor past hij ook in een smalle badkamer of toilet met fontein.\n\nDe timer is handig: je laat hem bijvoorbeeld twee uur draaien na het douchen, waarna hij vanzelf uitgaat. Twee uur op 230 watt kost je ongeveer 18 cent per dag bij een stroomprijs van 40 cent per kWh. Kopers op bol geven hem gemiddeld 5,0 van 5 en noemen de eenvoudige montage en de duidelijke bediening. Let wel op het lage vermogen: als enige verwarming in een koude badkamer schiet hij tekort. Is dat jouw situatie, kies dan een model van 500 watt of meer.",
+      "ean": "4260684695428",
+      "rating": 5.0,
+      "bol_title": "EMKE Elektrische Handdoekradiator - 2026 Vernieuwd - Smart Bediening - Touchscreen & APP - Met Timer - 230 W - 85x40 cm - Badkamer Radiator - Handdoekdroger",
+      "url": "https://www.bol.com/nl/nl/p/emke-elektrische-handdoekradiator-smart-bediening-touchscreen-app-met-timer-230-w-85x40-cm-badkamer-radiator-handdoekdroger/9300000229403324/",
+      "image": "https://media.s-bol.com/jmvGr0zxW6V4/jRj1n9W/550x550.jpg",
       "ph": {
-        "2026-10-29": 209.99,
-        "2026-10-30": 209.99,
-        "2026-10-31": 209.99,
-        "2026-11-01": 209.99,
-        "2026-11-02": 209.99,
-        "2026-11-03": 209.99,
-        "2026-11-04": 209.99,
-        "2026-11-05": 209.99,
-        "2026-11-06": 209.99,
-        "2026-11-07": 209.99,
-        "2026-11-08": 209.99,
-        "2026-11-09": 209.99,
-        "2026-11-10": 209.99,
-        "2026-11-11": 209.99,
-        "2026-11-12": 209.99,
-        "2026-11-13": 209.99,
-        "2026-11-14": 209.99
+        "2026-11-17": 195.99
       },
-      "low_price": 209.99,
-      "synced": "2026-11-17",
-      "ph_ean": "4260684694902",
-      "rating": 5.0
+      "low_price": 195.99,
+      "ph_ean": "4260684695428",
+      "synced": "2026-11-17"
     },
     {
       "brand": "EMKE",
@@ -636,6 +621,14 @@
     {
       "q": "Welke elektrische handdoekradiator is geschikt voor een huurwoning?",
       "a": "Kies een model dat je zonder boren kunt plaatsen, zoals de COSTWAY 2-in-1 met voet. Wil je toch ophangen, vraag dan eerst toestemming aan de verhuurder. Een radiator met stekker kun je bij een verhuizing gewoon meenemen."
+    }
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-17",
+      "uit": "EMKE Smart handdoekradiator touchscreen en app 100 x 50 cm 320 W",
+      "in": "EMKE Smart handdoekradiator touchscreen en app 85 x 40 cm 230 W",
+      "waarom": "100 x 50 cm niet meer leverbaar bij bol, vernieuwde EMKE van 85 x 40 cm"
     }
   ]
 }

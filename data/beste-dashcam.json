@@ -662,49 +662,43 @@
     },
     {
       "brand": "AZDome",
-      "name": "M330",
-      "price": 39.99,
+      "name": "M63 Lite",
+      "price": 49.99,
       "score": 7.9,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
-      "oneliner": "Goedkope en onopvallende Full HD-dashcam voor beginners.",
+      "oneliner": "Voordelige instapper met eigen scherm van 3 inch.",
       "specs": {
-        "Resolutie": "1080p",
+        "Resolutie": "4K (volgens AZDome)",
         "Camera's": "Alleen voor",
-        "Nachtzicht": "SC3335-sensor",
+        "Nachtzicht": "Nachtmodus",
         "GPS": "Nee",
-        "Parkeerstand": "Time-lapse, met losse voedingskabel"
+        "Parkeerstand": "Met losse voedingskabel"
       },
       "pros": [
-        "Zeer lage prijs",
-        "Klein en onopvallend",
-        "Brede kijkhoek van 170 graden",
-        "Wifi op 2,4 en 5 GHz met app"
+        "Lage prijs",
+        "Eigen scherm van 3 inch",
+        "Wifi en app voor beelden",
+        "G-sensor bewaart botsingen"
       ],
       "cons": [
-        "Geen GPS",
-        "Parkeerstand vraagt een losse voedingskabel"
+        "Groter dan compacte modellen",
+        "Parkeerstand vraagt extra kabel",
+        "Minder detail dan duurdere modellen"
       ],
-      "ideal": "Wie voor zo weinig mogelijk geld een basale dashcam wil.",
-      "text": "De AZDome M330 is de instapper in deze lijst en bedoeld voor wie gewoon een dashcam wil hebben voor het geval dat. Hij filmt in Full HD met een brede kijkhoek van 170 graden, zodat ook de rijstroken naast je in beeld komen. De behuizing is een klein cilindertje dat je met de plakhouder achter de spiegel hangt en 90 graden kunt draaien. De G-sensor beveiligt een clip automatisch bij een schok.\n\nOp het schermpje van 1 inch zie je alleen de status en de opnameduur. Beelden bekijken en downloaden doe je via wifi in de AZDome-app. Dankzij H.265-compressie passen er meer uren op de geheugenkaart, die maximaal 128 GB groot mag zijn en niet wordt meegeleverd. Een parkeerstand met time-lapse is er, maar alleen als je de losse permanente voedingskabel erbij koopt. GPS ontbreekt, dus snelheid en locatie staan niet in beeld. Verwacht in het donker ook geen wonderen van een Full HD-sensor. Als eerste dashcam of voor een tweede auto is hij voor rond de 45 euro prima geschikt.",
-      "ean": "6973888261266",
-      "bol_title": "AZDome M330 dashcam voor auto - 170 graden kijkhoek - Nachtzicht - FullHD video - Wifi - Super compact - Parkeermodus - 1.0 inch TNT scherm - dashcam voor auto",
-      "url": "https://www.bol.com/nl/nl/p/azdome-dashcam-m330-1296p-wifi-auto-video-recorder-zwart/9300000184449730/",
-      "image": "https://media.s-bol.com/Jn3RlDK6x8rJ/yPnznlE/550x535.jpg",
+      "ideal": "Wie voor weinig geld een eerste dashcam met scherm zoekt.",
+      "text": "De AZDome M63 Lite is een dashcam voor alleen de voorruit met een eigen scherm van 3 inch. Op dat scherm stel je alles in en bekijk je opnames direct in de auto, zonder telefoon. AZDome noemt een 4K-resolutie, al halen de duurdere modellen in deze lijst meer detail uit kentekens op afstand. De groothoeklens van 170 graden overziet de hele weg voor je.\n\nVia wifi en de app zet je beelden over naar je telefoon. Bij een aanrijding slaat de G-sensor het fragment automatisch apart op, zodat het niet wordt overschreven. Voor een parkeerstand die blijft opnemen als de auto uit staat heb je een losse voedingskabel nodig die je op de zekeringkast aansluit. Kopers op bol geven hem gemiddeld 4,2 van 5. Door het scherm is de camera wel groter dan compacte modellen die je achter de spiegel wegwerkt. Voor wie een eerste dashcam zoekt voor rond de 50 euro is dit een nette instapper.",
+      "ean": "6973888261808",
+      "rating": 4.2,
+      "bol_title": "AZDome M63 Lite 1CH dashcam - Ultra 4K resolutie - Wifi - Parkeermodus - 3,0 inch IPS lcd - dashcam voor auto",
+      "url": "https://www.bol.com/nl/nl/p/azdome-dashcam-m63-lite-true-4k-wifi-auto-video-recorder-zwart/9300000184357982/",
+      "image": "https://media.s-bol.com/zD5llB1O6pr2/G6rDyMK/550x538.jpg",
       "ph": {
-        "2026-11-10": 44.99,
-        "2026-11-11": 44.99,
-        "2026-11-12": 44.99,
-        "2026-11-13": 39.99,
-        "2026-11-14": 39.99,
-        "2026-11-16": 39.99
+        "2026-11-17": 49.99
       },
-      "low_price": 39.99,
-      "synced": "2026-11-17",
-      "ph_ean": "6973888261266",
-      "prev_price": 44.99,
-      "prev_date": "2026-11-12",
-      "rating": 4.2
+      "low_price": 49.99,
+      "ph_ean": "6973888261808",
+      "synced": "2026-11-17"
     }
   ],
   "guide": [
@@ -759,5 +753,13 @@
       "a": "Kies een microSD-kaart van het type High Endurance van 64 tot 256 GB. Die zijn gemaakt voor continu schrijven en gaan veel langer mee dan gewone kaarten."
     }
   ],
-  "published": "2026-10-15"
+  "published": "2026-10-15",
+  "wissels": [
+    {
+      "d": "2026-11-17",
+      "uit": "AZDome M330",
+      "in": "AZDome M63 Lite",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

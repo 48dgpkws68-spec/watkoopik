@@ -237,12 +237,12 @@
     },
     {
       "brand": "Reolink",
-      "name": "CX820",
-      "price": 103.99,
+      "name": "CX810",
+      "price": 119.99,
       "score": 8.9,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "4K PoE-camera met kleurenbeeld in het donker zonder spotlight.",
+      "reviews": "",
+      "oneliner": "Bedrade 4K-camera die ook in het donker in kleur filmt.",
       "specs": {
         "Locatie": "Buiten",
         "Resolutie": "4K (8 MP)",
@@ -251,59 +251,27 @@
         "Nachtzicht": "Kleur (ColorX)"
       },
       "pros": [
-        "Kleurenbeeld 's nachts zonder fel licht",
-        "Scherpe 4K-resolutie",
-        "Stabiel via netwerkkabel",
-        "Geen abonnement nodig"
+        "Kleurbeeld in het donker door ColorX",
+        "Stabiel via één netwerkkabel",
+        "Geen maandkosten nodig",
+        "Tweewegaudio en alarm"
       ],
       "cons": [
-        "Netwerkkabel moet naar de camera",
-        "Vaste kijkrichting"
+        "Netwerkkabel trekken kost werk",
+        "Heeft wat restlicht nodig in de nacht"
       ],
-      "ideal": "Wie een vaste, betrouwbare camera wil met topbeeld bij nacht.",
-      "text": "De Reolink CX820 gebruikt de ColorX-technologie van Reolink: een grote sensor en een lens met een zeer groot diafragma die in het donker zoveel licht vangen dat je kleurenbeeld krijgt zonder spotlight of infrarood. Dat levert 's nachts opvallend natuurlijke beelden op, waarop je kleding en autokleuren kunt herkennen.\n\nDe camera filmt in 4K en werkt via PoE: één netwerkkabel voor stroom en data. Dat is stabieler dan wifi en voorkomt dat de verbinding wegvalt. Je slaat beelden op een microSD-kaart of een Reolink-recorder op, zonder abonnement. Slimme detectie onderscheidt personen, voertuigen en dieren. Gebruikers prijzen de nachtbeelden als het beste in deze prijsklasse. Het nadeel is de installatie: je moet een netwerkkabel naar de montageplek trekken. Voor wie dat geen probleem vindt, is dit een van de beste vaste buitencamera's.",
-      "ean": "6978285031979",
-      "bol_title": "Reolink CX820 - 4K UHD PoE-camera - ColorX Kleuren Nachtzicht - HDR - Slimme Personen-/Voertuig-/Dierdetectie - Spotlicht & Sirene Alarm",
-      "url": "https://www.bol.com/nl/nl/p/reolink-cx820-colorx-poe-beveiligingscamera-4k-uhd-echt-kleuren-nachtzicht-f1-0-super-diafragma-1-1-8-beeldsensor-hdr-technologie-persoons-voertuig-dierendetectie-spotlicht-sirene-alarm/9300000258992702/",
-      "image": "https://media.s-bol.com/7GL2l4rp44vj/8q40BEl/550x524.jpg",
-      "synced": "2026-11-17",
+      "ideal": "Wie een vaste camera bij de oprit of voordeur wil met scherp kleurbeeld, ook 's nachts.",
+      "text": "De Reolink CX810 is een bedrade 4K-camera uit de ColorX-reeks. Het verschil met een gewone beveiligingscamera zit in het donker: in plaats van infrarood met grijs beeld gebruikt hij een groot diafragma en een lichtgevoelige sensor, zodat je ook 's nachts in kleur ziet wie er op de oprit staat. Een buitenlamp of straatverlichting in de buurt is daarvoor genoeg. De camera herkent personen, voertuigen en dieren, zodat je minder meldingen krijgt van bewegende takken.\n\nStroom en internet lopen via één netwerkkabel (PoE). Dat vraagt meer werk bij de installatie dan een draadloze camera, maar je hebt nooit last van een lege accu of zwak wifi. Beelden sla je op een microSD-kaart in de camera of op een Reolink-recorder op, zonder maandkosten. Via de luidspreker kun je iemand toespreken of een alarm laten afgaan. Voor wie een vaste camera wil met kleurbeeld in het donker is dit een sterke keuze.",
+      "ean": "6976930226237",
+      "bol_title": "Reolink CX810 - 4K PoE Buitencamera - ColorX Nachtzicht & HDR - Tweewegs Alarm - Slimme Detectie",
+      "url": "https://www.bol.com/nl/nl/p/reolink-colorx-4k-8mp-poe-ip-camera-met-echt-full-color-nachtzicht/9300000194031840/",
+      "image": "https://media.s-bol.com/qBRY1p5zv92p/El6Gy1m/550x275.jpg",
       "ph": {
-        "2026-10-15": 129.99,
-        "2026-10-16": 129.99,
-        "2026-10-17": 129.99,
-        "2026-10-18": 129.99,
-        "2026-10-19": 129.99,
-        "2026-10-20": 129.99,
-        "2026-10-21": 129.99,
-        "2026-10-23": 129.99,
-        "2026-10-24": 129.99,
-        "2026-10-25": 129.99,
-        "2026-10-26": 129.99,
-        "2026-10-27": 129.99,
-        "2026-10-28": 129.99,
-        "2026-10-29": 129.99,
-        "2026-10-30": 129.99,
-        "2026-10-31": 129.99,
-        "2026-11-01": 129.99,
-        "2026-11-02": 129.99,
-        "2026-11-03": 129.99,
-        "2026-11-04": 129.99,
-        "2026-11-05": 129.99,
-        "2026-11-06": 129.99,
-        "2026-11-07": 129.99,
-        "2026-11-08": 129.99,
-        "2026-11-09": 129.99,
-        "2026-11-10": 103.99,
-        "2026-11-11": 103.99,
-        "2026-11-12": 103.99,
-        "2026-11-13": 103.99,
-        "2026-11-14": 103.99
+        "2026-11-17": 119.99
       },
-      "low_price": 103.99,
-      "prev_price": 129.99,
-      "prev_date": "2026-11-09",
-      "ph_ean": "6978285031979",
-      "rating": 5.0
+      "low_price": 119.99,
+      "ph_ean": "6976930226237",
+      "synced": "2026-11-17"
     },
     {
       "brand": "Tapo",
@@ -667,73 +635,42 @@
     },
     {
       "brand": "EZVIZ",
-      "name": "H8c 2K 4G",
-      "price": 89.99,
+      "name": "H8c 2K+",
+      "price": 50.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
-      "oneliner": "Draaibare buitencamera met simkaart voor plekken zonder wifi.",
+      "oneliner": "Draaibare wifi-buitencamera die personen automatisch volgt.",
       "specs": {
         "Locatie": "Buiten",
-        "Resolutie": "2K",
+        "Resolutie": "2K+",
         "Voeding": "Stopcontact",
         "Opslag": "MicroSD of cloud",
         "Nachtzicht": "Kleur en infrarood"
       },
       "pros": [
-        "Werkt via 4G, geen wifi nodig",
-        "360 graden pan en tilt",
-        "AI-tracking van personen",
-        "Geen abonnement verplicht"
+        "360 graden draaien en kantelen",
+        "Volgt personen automatisch",
+        "Geen maandkosten met microSD",
+        "Lage prijs"
       ],
       "cons": [
-        "Simkaart met data nodig",
-        "Stroomaansluiting vereist"
+        "Heeft stroom en goed wifi nodig",
+        "App vraagt een EZVIZ-account"
       ],
-      "ideal": "Wie een volkstuin, bouwplaats of vakantiehuis zonder wifi wil bewaken.",
-      "text": "De EZVIZ H8c 4G is een buitencamera voor plekken waar geen wifi is. Je stopt er een simkaart met mobiele data in en de camera verbindt via 4G met de app. Dat maakt hem geschikt voor een volkstuin, schuur, bouwplaats of vakantiehuis. Hij filmt in 2K en draait 360 graden horizontaal.\n\nDe camera volgt personen automatisch en schakelt 's nachts naar kleur of infrarood. Beelden sla je lokaal op een microSD-kaart op, zodat je niet afhankelijk bent van de cloud en minder data verbruikt. Gebruikers prijzen de stabiele 4G-verbinding en de prijs. Je hebt wel een stroomaansluiting nodig en een simkaart met een databundel, wat maandelijks een paar euro kost. De EZVIZ-app is functioneel, maar minder verfijnd dan die van Google of Ring. Voor een plek zonder internet is dit een van de weinige betaalbare oplossingen.",
-      "ean": "6941545631301",
-      "bol_title": "Ezviz H8C 2K 4G - Beveiligingscamera - Voor buiten - 360° PTZ - AI-tracking - Geen maandkosten-IP65- 4G Camera",
-      "url": "https://www.bol.com/nl/nl/p/ezviz-h8c-4g-dome-ip-beveiligingscamera-buiten-2304-x-1296-pixels-plafond-muur-paal/9300000173883139/",
-      "image": "https://media.s-bol.com/Y3wpB5R1Mx7W/pZonElV/550x583.jpg",
-      "synced": "2026-11-17",
+      "ideal": "Wie met één voordelige camera een hele tuin of oprit in beeld wil houden.",
+      "text": "De EZVIZ H8c 2K+ is een draaibare buitencamera die je op wifi aansluit. De lens draait 360 graden rond en kantelt omhoog en omlaag, zodat één camera een hele tuin of oprit kan overzien. Ziet hij een persoon, dan volgt hij die automatisch met de lens. Met de 2K+-resolutie zie je meer detail dan bij een gewone Full HD-camera, bijvoorbeeld een gezicht bij de poort.\n\n's Nachts kies je tussen infrarood in zwart-wit of kleurbeeld met de ingebouwde lampjes. Er zit een sirene in en via de tweerichtingsaudio kun je iemand aanspreken. Opnames gaan naar een microSD-kaart, dus je betaalt geen maandkosten, al kan cloudopslag ook. De camera werkt met Google Assistant en Alexa. Hij heeft wel een stopcontact in de buurt nodig en een goed wifisignaal buiten. Kopers op bol geven hem gemiddeld 4,4 van 5. Voor rond de 50 euro is dit een voordelige manier om een groot stuk buiten in beeld te houden.",
+      "ean": "6941545614939",
+      "rating": 4.4,
+      "bol_title": "EZVIZ H8c 2K+ Wifi Beveiligingscamera – Buiten – 360° Pan/Tilt – AI Persoonsdetectie – Color Nachtzicht&Sirene – Tweerichtingsaudio - Compatibel met Google Assistant&Alexa - Geen maandkosten",
+      "url": "https://www.bol.com/nl/nl/p/ezviz-h8c-bolvormig-ip-beveiligingscamera-binnen-buiten-1920-x-1080-pixels-plafond-muur-paal/9300000151483633/",
+      "image": "https://media.s-bol.com/YgPO1Xy1lLN9/K1y49qJ/550x491.jpg",
       "ph": {
-        "2026-10-15": 86.33,
-        "2026-10-16": 86.33,
-        "2026-10-17": 86.33,
-        "2026-10-18": 89.99,
-        "2026-10-19": 89.99,
-        "2026-10-20": 89.99,
-        "2026-10-21": 89.99,
-        "2026-10-23": 89.99,
-        "2026-10-24": 89.99,
-        "2026-10-25": 89.99,
-        "2026-10-26": 89.99,
-        "2026-10-27": 89.99,
-        "2026-10-28": 89.99,
-        "2026-10-29": 89.99,
-        "2026-10-30": 89.99,
-        "2026-10-31": 89.99,
-        "2026-11-01": 89.99,
-        "2026-11-02": 89.99,
-        "2026-11-03": 89.99,
-        "2026-11-04": 89.99,
-        "2026-11-05": 89.99,
-        "2026-11-06": 89.99,
-        "2026-11-07": 89.99,
-        "2026-11-08": 89.99,
-        "2026-11-09": 89.99,
-        "2026-11-10": 87.5,
-        "2026-11-11": 82.0,
-        "2026-11-12": 82.02,
-        "2026-11-13": 82.02,
-        "2026-11-14": 89.99
+        "2026-11-17": 50.99
       },
-      "low_price": 82.0,
-      "prev_price": 82.02,
-      "prev_date": "2026-11-13",
-      "ph_ean": "6941545631301",
-      "rating": 4.4
+      "low_price": 50.99,
+      "ph_ean": "6941545614939",
+      "synced": "2026-11-17"
     }
   ],
   "guide": [
@@ -781,12 +718,26 @@
     },
     {
       "q": "Werkt een beveiligingscamera zonder wifi?",
-      "a": "Gewone camera's hebben wifi nodig. Voor plekken zonder internet zijn er 4G-camera's zoals de EZVIZ H8c 4G, die werken met een simkaart."
+      "a": "Gewone camera's hebben wifi nodig. Voor plekken zonder internet zijn er 4G-camera's die werken met een simkaart, bijvoorbeeld van EZVIZ en Reolink."
     },
     {
       "q": "Kan ik mijn camera koppelen aan Google Home of Alexa?",
       "a": "De meeste camera's in deze lijst werken met Google Home en Alexa. Google Nest werkt het best met Google, Ring het best met Alexa."
     }
   ],
-  "published": "2026-10-15"
+  "published": "2026-10-15",
+  "wissels": [
+    {
+      "d": "2026-11-17",
+      "uit": "EZVIZ H8c 2K 4G",
+      "in": "EZVIZ H8c 2K+",
+      "waarom": "4G versie niet meer leverbaar bij bol, wifiversie van dezelfde camera"
+    },
+    {
+      "d": "2026-11-17",
+      "uit": "Reolink CX820",
+      "in": "Reolink CX810",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

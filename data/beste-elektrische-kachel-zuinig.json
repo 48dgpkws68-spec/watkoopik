@@ -17,7 +17,7 @@
   "updated": "2026-10-18",
   "reviews_total": "3.400",
   "intro": "Een zuinige elektrische kachel bestaat eigenlijk niet: elke elektrische kachel zet 1 kWh stroom om in 1 kWh warmte. Wat wel verschil maakt, is hoe slim de kachel regelt. Een goede thermostaat, een timer of weekschema en gericht verwarmen bepalen of je 10 cent of 60 cent per uur betaalt. Wij vergeleken modellen op regeling, vermogen, spaarstanden en kopersreviews. Dit zijn de tien zuinigste elektrische kachels van 2026, met per kachel de stroomkosten bij 0,30 euro per kWh.",
-  "verdict": "De Duux Edge Oil Smart is de zuinigste elektrische kachel voor dagelijks gebruik: een nauwkeurige thermostaat, een weekschema en olie die warmte vasthoudt. De Eurom Alutherm 1500 WiFi biedt dezelfde slimme regeling voor ongeveer 100 euro en is daarmee de beste prijs-kwaliteit. Wil je het allerbeste regelgedrag voor vast gebruik, kies dan de Adax Neo WiFi. Zit je vooral op één plek, dan is een infraroodpaneel zoals de Komodo 450 W het goedkoopst per uur.",
+  "verdict": "De Duux Edge Oil Smart is de zuinigste elektrische kachel voor dagelijks gebruik: een nauwkeurige thermostaat, een weekschema en olie die warmte vasthoudt. De Eurom Alutherm 1500 WiFi biedt dezelfde slimme regeling voor ongeveer 100 euro en is daarmee de beste prijs-kwaliteit. Wil je het allerbeste regelgedrag voor vast gebruik, kies dan de Adax Neo WiFi. Zit je vooral op één plek, dan is een infraroodpaneel zoals de Quality Heating QH-SP 450 W het goedkoopst per uur.",
   "products": [
     {
       "brand": "Duux",
@@ -219,66 +219,43 @@
       "rating": 4.2
     },
     {
-      "brand": "Komodo",
-      "name": "Infrarood verwarmingspaneel 450 W",
-      "price": 99.95,
+      "brand": "Quality Heating",
+      "name": "Infraroodpaneel QH-SP 450 W 60 x 60 cm",
+      "price": 129.0,
       "score": 8.9,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
-      "oneliner": "Verplaatsbaar infraroodpaneel van 450 W met wifi-app, timer en eco-modus.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "Licht infraroodpaneel van 450 W met wifi-app en thermostaat.",
       "specs": {
         "Type": "Infraroodpaneel",
         "Vermogen": "450 W",
         "Thermostaat": "Digitaal, app",
-        "Timer": "Ja, plus eco-modus",
+        "Timer": "Ja, programma's via app",
         "Kosten per uur": "max. € 0,14"
       },
       "pros": [
         "Laag vermogen: 13,5 cent per uur op vol vermogen",
         "Warmt jou in plaats van alle lucht in de kamer",
-        "Bediening via wifi-app en afstandsbediening",
-        "Op wieltjes of aan de muur"
+        "Thermostaat en programma's via wifi-app",
+        "Licht, op voetjes of aan de muur"
       ],
       "cons": [
         "Verwarmt geen hele woonkamer",
-        "Merk met een kortere staat van dienst dan Eurom"
+        "Minder bekend merk dan Eurom"
       ],
       "ideal": "Wie aan een bureau of op de bank zit en alleen de eigen plek warm wil houden.",
-      "text": "Infrarood werkt anders dan een gewone kachel. Het paneel warmt niet eerst de lucht op, maar straalt warmte naar je lichaam en de voorwerpen ervoor. Daardoor voelt het al comfortabel bij een kamertemperatuur die een of twee graden lager is. Precies daar zit de besparing: niet in het rendement, want elke elektrische kachel zet 1 kWh om in 1 kWh warmte, maar in minder ruimte die je hoeft te verwarmen.\n\nHet Komodo-paneel van 72,5 bij 45 centimeter trekt 450 watt. Bij 0,30 euro per kWh kost een uur op vol vermogen ruim 13 cent, zodat een werkdag van acht uur ongeveer 1,10 euro kost. Via de wifi-app en de timer zorg je dat hij niet aan blijft staan als je weg bent. Je krijgt pootjes met wieltjes en muurbeugels mee, dus je rijdt hem naar je bureau of hangt hem op. Kopers op bol geven hem gemiddeld een 4,2. Een hele woonkamer verwarm je er niet mee.",
-      "ean": "8720892731531",
-      "bol_title": "Komodo Infrarood Verwarmingspaneel - 450W - 72,5 x 45 cm - Verplaatsbaar & Hangend - Thermostaat - LED Display & WiFi App - Infrarood Verwarming, Elektrische Kachel, Paneel - Voor 15m2",
-      "url": "https://www.bol.com/nl/nl/p/komodo-infrarood-verwarmingspaneel-450w-72-5-x-45-cm-verplaatsbaar-hangend-thermostaat-led-display-wifi-app-infrarood-verwarming-elektrische-kachel-paneel-voor-15m2/9300000238274747/",
-      "image": "https://media.s-bol.com/7ZyZmx26ZJPO/oYX4omY/550x550.jpg",
+      "text": "Infrarood werkt anders dan een gewone kachel. Het paneel warmt niet eerst de lucht op, maar straalt warmte naar je lichaam en de voorwerpen ervoor. Daardoor voelt het al comfortabel bij een kamertemperatuur die een of twee graden lager is. Precies daar zit de besparing: niet in het rendement, want elke elektrische kachel zet 1 kWh om in 1 kWh warmte, maar in minder ruimte die je hoeft te verwarmen.\n\nHet QH-SP-paneel van Quality Heating meet 60 bij 60 centimeter en trekt 450 watt. Bij 0,30 euro per kWh kost een uur op vol vermogen ruim 13 cent, zodat een werkdag van acht uur ongeveer 1,10 euro kost. Via de wifi-app stel je programma's in, zodat hij niet aan blijft staan als je weg bent. Met 2,4 kilo is hij licht: zet hem op de meegeleverde voetjes naast je bureau of hang hem aan de muur. Kopers op bol geven hem een 4,4 van 5. Een hele woonkamer verwarm je er niet mee.",
+      "ean": "8720813382606",
+      "bol_title": "Quality Heating Infrarood paneel QH-SP - 60 x 60 cm - 450 Watt - Geïntegreerde thermostaat - Smart Home Wifi - Inclusief voetjes - Verplaatsbaar - Lichtgewicht",
+      "url": "https://www.bol.com/nl/nl/p/superia-wifi-remote-control-verplaatsbaar-infrarood-paneel-infarood-verwarmingspaneel-infarood-paneel-infarood-heater-450-watt-50-x-90-cm/9300000153727890/",
+      "image": "https://media.s-bol.com/q3lrqEq7K403/X64Z5pm/550x668.jpg",
       "ph": {
-        "2026-10-24": 99.95,
-        "2026-10-25": 99.95,
-        "2026-10-26": 99.95,
-        "2026-10-27": 99.95,
-        "2026-10-28": 99.95,
-        "2026-10-29": 99.95,
-        "2026-10-30": 99.95,
-        "2026-10-31": 99.95,
-        "2026-11-01": 99.95,
-        "2026-11-02": 99.95,
-        "2026-11-03": 99.95,
-        "2026-11-04": 99.95,
-        "2026-11-05": 99.95,
-        "2026-11-06": 99.95,
-        "2026-11-07": 99.95,
-        "2026-11-08": 99.95,
-        "2026-11-09": 99.95,
-        "2026-11-10": 99.95,
-        "2026-11-11": 99.95,
-        "2026-11-12": 99.95,
-        "2026-11-13": 99.95,
-        "2026-11-14": 99.95,
-        "2026-11-16": 99.95,
-        "2026-11-17": 99.95
+        "2026-11-17": 129.0
       },
-      "low_price": 99.95,
-      "synced": "2026-11-17",
-      "ph_ean": "8720892731531",
-      "rating": 4.2
+      "low_price": 129.0,
+      "ph_ean": "8720813382606",
+      "rating": 4.4,
+      "synced": "2026-11-17"
     },
     {
       "brand": "Eurom",
@@ -671,7 +648,7 @@
   "faq": [
     {
       "q": "Welke elektrische kachel is het zuinigst?",
-      "a": "Elke elektrische kachel zet stroom één op één om in warmte, dus de zuinigste is de kachel die het beste regelt. Op basis van onze vergelijking is dat de Duux Edge Oil Smart, met een nauwkeurige thermostaat en een weekschema. Voor één werkplek is een infraroodpaneel zoals de Komodo van 450 watt het goedkoopst per uur."
+      "a": "Elke elektrische kachel zet stroom één op één om in warmte, dus de zuinigste is de kachel die het beste regelt. Op basis van onze vergelijking is dat de Duux Edge Oil Smart, met een nauwkeurige thermostaat en een weekschema. Voor één werkplek is een infraroodpaneel zoals de Quality Heating QH-SP van 450 watt het goedkoopst per uur."
     },
     {
       "q": "Wat kost een zuinige elektrische kachel per uur?",
@@ -701,5 +678,13 @@
     "beste-elektrische-deken"
   ],
   "meta_title": "Zuinigste elektrische kachel 2026: top 10 vergeleken",
-  "meta_desc": "De zuinigste elektrische kachel van 2026 is de {top}. Top 10 vergeleken op verbruik, thermostaat, warmte per watt en prijs, met rekenvoorbeeld per uur."
+  "meta_desc": "De zuinigste elektrische kachel van 2026 is de {top}. Top 10 vergeleken op verbruik, thermostaat, warmte per watt en prijs, met rekenvoorbeeld per uur.",
+  "wissels": [
+    {
+      "d": "2026-11-17",
+      "uit": "Komodo Infrarood verwarmingspaneel 450 W",
+      "in": "Quality Heating QH-SP 450 W",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

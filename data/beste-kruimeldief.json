@@ -40,7 +40,7 @@
         "Laadindicator toont de resterende accu"
       ],
       "cons": [
-        "Zwaarder dan de Shark",
+        "Zwaarder dan de compactste kruimeldieven",
         "Laadstation neemt wat ruimte in"
       ],
       "ideal": "Gezinnen die dagelijks kruimels, zand en haren opruimen zonder de grote stofzuiger te pakken.",
@@ -92,55 +92,44 @@
       "rating": 4.3
     },
     {
-      "brand": "Shark",
-      "name": "WandVac 2.0 WV270EU",
-      "price": 99.0,
+      "brand": "Dyson",
+      "name": "Car+Boat",
+      "price": 229.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "bol-score 4,4 van 5",
-      "oneliner": "Lichte kruimelzuiger met boost-stand, HEPA-filter en oplaadstation.",
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Kruimelzuiger met V8-motor en veel opzetstukken.",
       "specs": {
         "Accu": "Geïntegreerd",
-        "Gebruiksduur": "ca. 15 min",
-        "Gewicht": "ca. 0,7 kg",
-        "Reservoir": "ca. 0,1 l",
+        "Gebruiksduur": "tot ca. 50 min (laagste stand)",
+        "Gewicht": "ca. 1,9 kg",
+        "Reservoir": "ca. 0,6 l",
         "Nat zuigen": "Nee"
       },
       "pros": [
-        "Weegt maar 0,7 kilo",
-        "Boost-stand voor extra zuigkracht",
-        "Ingebouwd HEPA-filter",
-        "Oplaadstation en hulpstuk voor dierenhaar"
+        "Veel zuigkracht dankzij V8-motor",
+        "Ruime set opzetstukken",
+        "Groot stofreservoir",
+        "Lange looptijd op de laagste stand"
       ],
       "cons": [
-        "Accu gaat ongeveer een kwartier mee",
-        "Klein reservoir van 0,1 liter"
+        "Zwaarder dan een Dustbuster",
+        "Opladen duurt ongeveer vijf uur",
+        "Veel duurder dan de rest"
       ],
-      "ideal": "Wie dagelijks even snel wil zuigen met een licht apparaat dat klaarstaat in een oplaadstation.",
-      "text": "De Shark WV270EU is de tweede generatie van de WandVac, de slanke kruimelzuiger die eruitziet als een staaf in plaats van een klassieke Dustbuster. Hij weegt ongeveer 700 gram en ligt daardoor licht in de hand, ook als je de bovenkant van een kast of een hoek bij het plafond schoonmaakt. Volgens Shark heeft deze versie een sterkere motor dan de voorganger. Met de boost-knop zet je hem tijdelijk op een hogere snelheid voor zand of vuil uit de deurmat.\n\nIn de doos zitten een oplaadstation, een spleetzuigmond en een hulpstuk voor dierenhaar. Het HEPA-filter houdt fijn stof vast, wat prettig is als je last hebt van allergie. De keerzijde van het slanke ontwerp is het kleine reservoir van 0,1 liter met een accuduur van ongeveer een kwartier. Voor een hele auto leeg je hem dus tussendoor. Kopers op bol geven gemiddeld 4,4 sterren en noemen vooral het lage gewicht. Wie lang achter elkaar zuigt, is beter af met de Black+Decker Gen4.",
-      "ean": "0622356245876",
-      "bol_title": "Shark Kruimelzuiger Pro - Snoerloos/Draadloos - Krachtigere Zuigkracht - Boost Modus - Incl. Opzetstukken - WV270EU",
-      "url": "https://www.bol.com/nl/nl/p/shark-wv270eu-kruimelzuiger-snoerloos-krachtigere-zuigkracht-incl-opzetstukken-2022-model/9300000061803553/",
-      "image": "https://media.s-bol.com/q88VkWBr077p/k22496/389x840.jpg",
+      "ideal": "Wie in auto, boot of huis een kruimeldief wil die echt diep in stof en kruimels zuigt.",
+      "text": "De Dyson Car+Boat is een kruimelzuiger op basis van de V8-motor, dezelfde techniek als in de steelstofzuigers van Dyson. Daardoor heeft hij meer zuigkracht dan de meeste losse kruimeldieven: bol noemt 115 airwatt. Op de laagste stand loopt de accu tot ongeveer 50 minuten, op de hoogste stand maar een paar minuten. Hij is gemaakt voor de auto en de boot, maar in huis werkt hij net zo goed op trap, bank en matras.\n\nEr komt een flinke set opzetstukken mee, waaronder een kierenzuigmond, een zachte borstel en een turboborstel voor dierenhaar. Het stofreservoir leeg je met één klik boven de vuilnisbak. Kopers geven hem op bol gemiddeld 4,6 van 5 en prijzen vooral de zuigkracht. Minpunten: hij is zwaarder dan een Dustbuster, opladen duurt ongeveer vijf uur en de prijs ligt ruim boven de rest van deze lijst. Wie een kruimeldief zoekt die echt diep in de autostoel zuigt, krijgt hier de krachtigste optie.",
+      "ean": "5025155118696",
+      "rating": 4.6,
+      "bol_title": "Dyson Car & Boat - Kruimelzuiger - Compact stofzuiger - Gebruikersduur 50 min - Hoge zuigkrachtmodus",
+      "url": "https://www.bol.com/nl/nl/p/dyson-car-boat-kruimelzuiger/9300000225641528/",
+      "image": "https://media.s-bol.com/pvwgl3g7vwEy/ADLVrmj/508x840.jpg",
       "ph": {
-        "2026-11-04": 119.0,
-        "2026-11-05": 119.0,
-        "2026-11-06": 99.0,
-        "2026-11-07": 99.0,
-        "2026-11-08": 99.0,
-        "2026-11-09": 99.0,
-        "2026-11-10": 99.0,
-        "2026-11-11": 99.0,
-        "2026-11-12": 99.0,
-        "2026-11-13": 99.0,
-        "2026-11-14": 99.0
+        "2026-11-17": 229.0
       },
-      "low_price": 99.0,
-      "synced": "2026-11-17",
-      "prev_price": 119.0,
-      "prev_date": "2026-11-05",
-      "ph_ean": "0622356245876",
-      "rating": 4.4
+      "low_price": 229.0,
+      "ph_ean": "5025155118696",
+      "synced": "2026-11-17"
     },
     {
       "brand": "Black+Decker",
@@ -756,5 +745,13 @@
     }
   ],
   "published": "2026-10-15",
-  "noindex": true
+  "noindex": true,
+  "wissels": [
+    {
+      "d": "2026-11-17",
+      "uit": "Shark WandVac 2.0 WV270EU",
+      "in": "Dyson Car+Boat",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

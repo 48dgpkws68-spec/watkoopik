@@ -249,49 +249,43 @@
       "rating": 3.6
     },
     {
-      "brand": "SONOFF",
-      "name": "TRVZB Zigbee Radiatorknop",
-      "price": 29.9,
+      "brand": "brennenstuhl",
+      "name": "Connect Zigbee Radiatorknop HT CZ 01",
+      "price": 38.66,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 3,0 van 5",
-      "oneliner": "Voordelige Zigbee-knop die lokaal werkt met Home Assistant.",
+      "reviews": "",
+      "oneliner": "Voordelige Zigbee-radiatorknop met kleurenscherm en raam-open-functie.",
       "specs": {
         "Inhoud": "1 radiatorknop",
         "Verbinding": "Zigbee 3.0",
-        "Hub nodig": "Zigbee 3.0-hub, bijvoorbeeld SONOFF ZB Bridge Pro",
-        "Voeding": "AA-batterijen",
-        "Werkt met": "Alexa, Google, Home Assistant"
+        "Hub nodig": "Ja, brennenstuhl Connect Zigbee Gateway",
+        "Voeding": "2 AA-batterijen",
+        "Werkt met": "brennenstuhl Connect-app"
       },
       "pros": [
-        "Laagste prijs per knop in deze lijst",
-        "Werkt met elke Zigbee 3.0-hub en met Home Assistant",
-        "Raam-open-detectie, kinderslot en vorstbeveiliging",
-        "Geen abonnement"
+        "Lage prijs per knop",
+        "Kleurenscherm met gemeten en gewenste temperatuur",
+        "Raam-open-functie en weekschema in de app",
+        "Adapter voor Danfoss RA, RAV en RAVL meegeleverd"
       ],
       "cons": [
-        "Zigbee-hub apart kopen",
-        "Geen Matter en geen directe koppeling met Apple Home",
-        "Matige beoordeling op bol"
+        "Gateway apart kopen",
+        "Nog geen beoordelingen op bol",
+        "Handleiding alleen in Duits en Engels"
       ],
-      "ideal": "Wie al een Zigbee-hub of Home Assistant heeft en voor weinig geld veel radiatoren slim wil maken.",
-      "text": "De SONOFF TRVZB is een slimme radiatorknop die via Zigbee 3.0 werkt en per stuk rond de 30 euro kost. Daarmee is het de voordeligste knop in deze lijst, wat vooral telt als je een heel huis wilt uitrusten. Hij past op kranen met M30 x 1,5 schroefdraad en er zitten adapters bij voor andere aansluitingen. Op de knop zit een klein display en je verstelt de temperatuur ook gewoon met de hand.\n\nVoor slimme bediening heb je een Zigbee 3.0-hub nodig, zoals de SONOFF ZB Bridge Pro, of een Zigbee-stick met Home Assistant. In de eWeLink-app stel je per kamer een weekschema in en bedien je de knop op afstand, ook met Alexa en Google Assistant. Met Home Assistant blijft alles lokaal en werkt het schema door als je internet even wegvalt. Raam-open-detectie zet de verwarming dicht zodra je gaat luchten. Daarnaast zijn er een kinderslot en vorstbeveiliging. Matter ontbreekt en de beoordeling op bol is met een 3,0 matig. Dit is dus vooral een knop voor wie graag zelf instelt.",
-      "ean": "6920075740950",
-      "bol_title": "SONOFF TRVZB Thermostatische Radiatorkraan, Slimme Thermostaat met App-functionaliteit, Zigbee Thermostaat Vereist Zigbee 3.0 Hub, Compatibel met Alexa/Home Assistant",
-      "url": "https://www.bol.com/nl/nl/p/sonoff-trvzb-thermostat/9300000171006201/",
-      "image": "https://media.s-bol.com/kqxXjgpkmrjE/EqQv6Ym/550x550.jpg",
+      "ideal": "Wie voor weinig geld per kamer een slimme Zigbee-knop wil en geen grote starterskit nodig heeft.",
+      "text": "De brennenstuhl Connect HT CZ 01 is een slimme radiatorknop van het Duitse merk dat vooral bekend is van stekkerdozen en kabelhaspels. Hij kost rond de 39 euro en is daarmee een van de voordeligste knoppen in deze lijst. Op de knop zit een kleurenscherm dat de gemeten en de gewenste temperatuur toont. Je kunt hem ook gewoon met de hand verdraaien. In de doos zitten een adapter voor Danfoss RA, RAV en RAVL en twee AA-batterijen, die volgens brennenstuhl ongeveer een jaar meegaan.\n\nVoor bediening op afstand heb je de brennenstuhl Connect Zigbee Gateway nodig. In de gratis brennenstuhl Connect-app stel je per kamer verwarmingstijden in en kies je een temperatuur tussen 5 en 30 graden. De raam-open-functie verlaagt de temperatuur als je gaat luchten. Volgens brennenstuhl bespaar je zo tot 30 procent op stookkosten, maar dat hangt sterk af van hoe je nu stookt. Matter of Apple Home noemt het merk niet. Beoordelingen op bol zijn er nog niet. Wil je klein beginnen met een paar kamers, dan is dit een betaalbare instap.",
+      "ean": "4007123672066",
+      "bol_title": "brennenstuhlÂ®Connect Zigbee slimme radiatorknop HT CZ 01 (radiatorknoppen met Zigbee radio standaard, intelligente verwarmingsaansturing via app)",
+      "url": "https://www.bol.com/nl/nl/p/brennenstuhla-connect-zigbee-slimme-radiatorknop-ht-cz-01/9300000091427784/",
+      "image": "https://media.s-bol.com/vGjGlMLgwAkr/mqQ2JqA/550x517.jpg",
       "ph": {
-        "2026-11-11": 29.9,
-        "2026-11-12": 29.9,
-        "2026-11-13": 29.9,
-        "2026-11-14": 29.9,
-        "2026-11-16": 29.9,
-        "2026-11-17": 29.9
+        "2026-11-17": 38.66
       },
-      "low_price": 29.9,
-      "synced": "2026-11-17",
-      "ph_ean": "6920075740950",
-      "rating": 3.0
+      "low_price": 38.66,
+      "ph_ean": "4007123672066",
+      "synced": "2026-11-17"
     },
     {
       "brand": "Danfoss",
@@ -558,7 +552,7 @@
     },
     {
       "h": "Hub, bridge of niets?",
-      "p": "De meeste knoppen hebben een hub nodig om via internet bediend te worden. Tado, Netatmo, Meross en AQIOS leveren die in de starterskit. Honeywell werkt met een eigen controller en de SONOFF TRVZB met een Zigbee-hub naar keuze. De Danfoss Eco heeft helemaal geen hub nodig en werkt via Bluetooth. Aqara werkt via Matter over Thread, waarvoor een Apple TV, HomePod mini of Google Nest Hub volstaat. Kijk dus eerst wat je al in huis hebt."
+      "p": "De meeste knoppen hebben een hub nodig om via internet bediend te worden. Tado, Netatmo, Meross en AQIOS leveren die in de starterskit. Honeywell werkt met een eigen controller en brennenstuhl met een eigen Zigbee-gateway. De Danfoss Eco heeft helemaal geen hub nodig en werkt via Bluetooth. Aqara werkt via Matter over Thread, waarvoor een Apple TV, HomePod mini of Google Nest Hub volstaat. Kijk dus eerst wat je al in huis hebt."
     },
     {
       "h": "Past hij op mijn radiator?",
@@ -574,7 +568,7 @@
     },
     {
       "h": "Abonnement en privacy",
-      "p": "Tado biedt geofencing en automatische raam-open-detectie volledig alleen met Auto-Assist. Netatmo, SONOFF, Honeywell, Danfoss en Aqara hebben geen abonnement. Wil je alles lokaal houden zonder cloud, kies dan de Danfoss Eco via Bluetooth of combineer de SONOFF TRVZB of Shelly met Home Assistant."
+      "p": "Tado biedt geofencing en automatische raam-open-detectie volledig alleen met Auto-Assist. Netatmo, brennenstuhl, Honeywell, Danfoss en Aqara hebben geen abonnement. Wil je alles lokaal houden zonder cloud, kies dan de Danfoss Eco via Bluetooth of combineer de Shelly met Home Assistant."
     }
   ],
   "faq": [
@@ -603,5 +597,13 @@
       "a": "Ja, maar met beleid. Een warmtepomp werkt het zuinigst met een constante, lage watertemperatuur. Grote temperatuurverschillen per kamer kunnen het rendement verlagen. Gebruik de knoppen vooral om ongebruikte kamers een paar graden lager te zetten en niet om kamers steeds volledig af te sluiten."
     }
   ],
-  "noindex": true
+  "noindex": true,
+  "wissels": [
+    {
+      "d": "2026-11-17",
+      "uit": "SONOFF TRVZB Zigbee Radiatorknop",
+      "in": "brennenstuhl Connect Zigbee Radiatorknop HT CZ 01",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

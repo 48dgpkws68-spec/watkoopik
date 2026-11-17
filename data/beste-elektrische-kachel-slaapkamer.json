@@ -442,12 +442,12 @@
       "rating": 4.2
     },
     {
-      "brand": "Komodo",
-      "name": "Infrarood verwarmingspaneel 450 W",
-      "price": 99.95,
+      "brand": "Quality Heating",
+      "name": "Infraroodpaneel QH-SP 450 W 60 x 60 cm",
+      "price": 129.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Zuinig infraroodpaneel dat geruisloos stralingswarmte geeft.",
       "specs": {
         "Type": "Infraroodpaneel",
@@ -459,47 +459,26 @@
       "pros": [
         "Laag vermogen: een uur kost rond de 13 cent",
         "Straalt warmte zonder luchtstroom, dus geen stof dat rondwaait",
-        "Hangend of vrijstaand te gebruiken",
-        "Thermostaat en timer"
+        "Aan de muur of vrijstaand op voetjes",
+        "Thermostaat en programma's via de app"
       ],
       "cons": [
         "Alleen geschikt voor kleine slaapkamers",
         "Warmte voel je vooral als je in de straal zit"
       ],
       "ideal": "Wie een kleine slaapkamer of kinderkamer zuinig en stil wil verwarmen.",
-      "text": "Het Komodo-paneel van 450 watt werkt met infrarood. Het verwarmt niet de lucht maar de muren, het bed en jou. Daardoor waait er geen stof rond en voelt de lucht minder droog aan. Het paneel maakt geen enkel geluid. Met 450 watt is het geschikt voor een kleine slaapkamer of kinderkamer tot ongeveer 9 m².\n\nHet grote voordeel is het verbruik. Bij een stroomprijs van 30 cent kost een uur op vol vermogen ongeveer 13 cent, dus een avond van twee uur blijft onder de 30 cent. Het paneel heeft een thermostaat, een timer en een LED-display. Je hangt het aan de muur of zet het op pootjes. Kopers op bol geven het een 4,2. Hang het zo dat het op het bed of de plek waar je je aankleedt gericht is. Voor een grote kamer of een slecht geïsoleerde zolder is 450 watt te weinig.",
-      "ean": "8720892731531",
-      "bol_title": "Komodo Infrarood Verwarmingspaneel - 450W - 72,5 x 45 cm - Verplaatsbaar & Hangend - Thermostaat - LED Display & WiFi App - Infrarood Verwarming, Elektrische Kachel, Paneel - Voor 15m2",
-      "search": "Komodo Infrarood verwarmingspaneel 450 W",
-      "url": "https://www.bol.com/nl/nl/p/komodo-infrarood-verwarmingspaneel-450w-72-5-x-45-cm-verplaatsbaar-hangend-thermostaat-led-display-wifi-app-infrarood-verwarming-elektrische-kachel-paneel-voor-15m2/9300000238274747/",
-      "image": "https://media.s-bol.com/7ZyZmx26ZJPO/oYX4omY/550x550.jpg",
+      "text": "Het QH-SP-paneel van Quality Heating werkt met infrarood. Het verwarmt niet de lucht maar de muren, het bed en jou. Daardoor waait er geen stof rond en voelt de lucht minder droog aan. Het paneel heeft geen ventilator en maakt dus geen geluid. Met 450 watt is het geschikt voor een kleine slaapkamer of kinderkamer tot ongeveer 9 m².\n\nHet grote voordeel is het verbruik. Bij een stroomprijs van 30 cent kost een uur op vol vermogen ongeveer 13 cent, dus een avond van twee uur blijft onder de 30 cent. De thermostaat zit aan de voorkant en via wifi stel je in de app programma's in, zodat de kamer warm is als je naar bed gaat. Je hangt het paneel aan de muur of zet het op de meegeleverde voetjes. Kopers op bol geven het een 4,4 van 5. Hang het zo dat het op het bed gericht is. Voor een grote kamer of een slecht geïsoleerde zolder is 450 watt te weinig.",
+      "ean": "8720813382606",
+      "bol_title": "Quality Heating Infrarood paneel QH-SP - 60 x 60 cm - 450 Watt - Geïntegreerde thermostaat - Smart Home Wifi - Inclusief voetjes - Verplaatsbaar - Lichtgewicht",
+      "url": "https://www.bol.com/nl/nl/p/superia-wifi-remote-control-verplaatsbaar-infrarood-paneel-infarood-verwarmingspaneel-infarood-paneel-infarood-heater-450-watt-50-x-90-cm/9300000153727890/",
+      "image": "https://media.s-bol.com/q3lrqEq7K403/X64Z5pm/550x668.jpg",
       "ph": {
-        "2026-10-27": 99.95,
-        "2026-10-28": 99.95,
-        "2026-10-29": 99.95,
-        "2026-10-30": 99.95,
-        "2026-10-31": 99.95,
-        "2026-11-01": 99.95,
-        "2026-11-02": 99.95,
-        "2026-11-03": 99.95,
-        "2026-11-04": 99.95,
-        "2026-11-05": 99.95,
-        "2026-11-06": 99.95,
-        "2026-11-07": 99.95,
-        "2026-11-08": 99.95,
-        "2026-11-09": 99.95,
-        "2026-11-10": 99.95,
-        "2026-11-11": 99.95,
-        "2026-11-12": 99.95,
-        "2026-11-13": 99.95,
-        "2026-11-14": 99.95,
-        "2026-11-16": 99.95,
-        "2026-11-17": 99.95
+        "2026-11-17": 129.0
       },
-      "low_price": 99.95,
-      "synced": "2026-11-17",
-      "ph_ean": "8720892731531",
-      "rating": 4.2
+      "low_price": 129.0,
+      "ph_ean": "8720813382606",
+      "rating": 4.4,
+      "synced": "2026-11-17"
     },
     {
       "brand": "Auronic",
@@ -694,7 +673,7 @@
     "keuzes": [
       {
         "h": "Hoe groot is je slaapkamer?",
-        "p": "Reken op 70 tot 100 watt per m². Tot ongeveer 13 m² is 1000 watt genoeg, zoals bij de nr. 2 Eurom Alutherm 1000 WiFi of de nr. 3 Adax Neo 1000 W WiFi. Is je kamer tot ongeveer 20 m², dan past de nr. 1 Duux Edge Oil 1500 W beter. Een kleine kinderkamer tot 9 m² verwarm je met de nr. 8 Komodo van 450 W."
+        "p": "Reken op 70 tot 100 watt per m². Tot ongeveer 13 m² is 1000 watt genoeg, zoals bij de nr. 2 Eurom Alutherm 1000 WiFi of de nr. 3 Adax Neo 1000 W WiFi. Is je kamer tot ongeveer 20 m², dan past de nr. 1 Duux Edge Oil 1500 W beter. Een kleine kinderkamer tot 9 m² verwarm je met de nr. 8 Quality Heating QH-SP van 450 W."
       },
       {
         "h": "Wil je 's nachts geen licht in de kamer?",
@@ -719,5 +698,13 @@
         "p": "Kies de Adax Neo 1000 W WiFi als je de kachel vast aan de muur wilt hangen. Het slanke paneel van 33 x 81 cm heeft een zeer nauwkeurige thermostaat en open-raamdetectie: slaap je met het raam open, dan stopt hij met verwarmen. Hij kost € 209, bijna even veel als de Duux, maar is met 1000 W bedoeld voor kamers tot ongeveer 13 m². Pootjes koop je apart."
       }
     ]
-  }
+  },
+  "wissels": [
+    {
+      "d": "2026-11-17",
+      "uit": "Komodo Infrarood verwarmingspaneel 450 W",
+      "in": "Quality Heating QH-SP 450 W",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }
