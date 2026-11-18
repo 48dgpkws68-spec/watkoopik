@@ -63,12 +63,13 @@
       "url": "https://www.bol.com/nl/nl/p/philips-40pqs6901-12-tv-101-6-cm-full-hd-smart-tv-wifi-zwart/9300000266606830/",
       "image": "https://media.s-bol.com/N3j1pjWGw6G2/79D52oB/550x324.jpg",
       "ph": {
-        "2026-11-18": 279.0
+        "2026-11-18": 279.0,
+        "2026-11-19": 279.0
       },
       "low_price": 279.0,
       "ph_ean": "8718863051597",
       "rating": 4.7,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "CHiQ",
@@ -102,12 +103,13 @@
       "url": "https://www.bol.com/nl/nl/p/chiq-l40qm10v-smart-tv-40-inch-qled-pro-google-tv-fhd-1080p-randloos-metal-design-dolby-audio-2025-nieuw/9300000239182550/",
       "image": "https://media.s-bol.com/xDjlnKLWGJMr/oQ726Mz/550x338.jpg",
       "ph": {
-        "2026-11-18": 229.0
+        "2026-11-18": 229.0,
+        "2026-11-19": 229.0
       },
       "low_price": 229.0,
       "ph_ean": "8592344205538",
       "rating": 4.6,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "Sharp",
@@ -141,12 +143,13 @@
       "url": "https://www.bol.com/nl/nl/p/sharp-aquos-40hf3265-40-inch-full-hd-qled-google-tv-2025/9300000239732435/",
       "image": "https://media.s-bol.com/95MGAAk41ND3/voMJpg5/550x350.jpg",
       "ph": {
-        "2026-11-18": 380.53
+        "2026-11-18": 380.53,
+        "2026-11-19": 380.53
       },
       "low_price": 380.53,
       "ph_ean": "5905683273411",
       "rating": 4.2,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "Horizon",
@@ -179,17 +182,18 @@
       "url": "https://www.bol.com/nl/nl/p/horizon-smart-tv-40-inch-android-tv-2k-full-hd-led-xt-line-google-tv-wifi-frameless-design/9300000197763232/",
       "image": "https://media.s-bol.com/BJ1qvr3O1nv2/qxqNZN3/550x361.jpg",
       "ph": {
-        "2026-11-18": 259.0
+        "2026-11-18": 259.0,
+        "2026-11-19": 259.0
       },
       "low_price": 259.0,
       "ph_ean": "5949494026286",
       "rating": 5.0,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "Philips",
       "name": "40PFS6050/12",
-      "price": 219.0,
+      "price": 220.0,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -217,12 +221,15 @@
       "url": "https://www.bol.com/nl/nl/p/philips-40pfs6050-12-40-inch-full-hd-led-2025-smart-tv/9300000275294543/",
       "image": "https://media.s-bol.com/YGRVWj49p4g9/32pxDkO/550x342.jpg",
       "ph": {
-        "2026-11-18": 219.0
+        "2026-11-18": 219.0,
+        "2026-11-19": 220.0
       },
       "low_price": 219.0,
       "ph_ean": "8718863051559",
       "rating": 4.2,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19",
+      "prev_price": 219.0,
+      "prev_date": "2026-11-18"
     },
     {
       "brand": "CHiQ",
@@ -255,17 +262,18 @@
       "url": "https://www.bol.com/nl/nl/p/chiq-l40qst-smart-tv-40-inch-qled-pro-google-tv-fhd-1080p-randloos-metal-design-dolby-audio-2025-nieuw/9300000237026136/",
       "image": "https://media.s-bol.com/q1QG1WoVQDjG/pgDLYD2/550x349.jpg",
       "ph": {
-        "2026-11-18": 226.0
+        "2026-11-18": 226.0,
+        "2026-11-19": 226.0
       },
       "low_price": 226.0,
       "ph_ean": "8592344206030",
       "rating": 4.3,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "Panasonic",
       "name": "40S65CEZS",
-      "price": 299.0,
+      "price": 329.0,
       "score": 8.2,
       "label": null,
       "reviews": "",
@@ -294,11 +302,14 @@
       "url": "https://www.bol.com/nl/nl/p/panasonic-40s65cezs-tv-101-6-cm-full-hd-smart-tv-wifi-zwart/9300000322429437/",
       "image": "https://media.s-bol.com/qz8lE9N3K7M0/839jQMl/550x365.jpg",
       "ph": {
-        "2026-11-18": 299.0
+        "2026-11-18": 299.0,
+        "2026-11-19": 329.0
       },
       "low_price": 299.0,
       "ph_ean": "5025232998975",
-      "synced": "2026-11-18"
+      "synced": "2026-11-19",
+      "prev_price": 299.0,
+      "prev_date": "2026-11-18"
     },
     {
       "brand": "Samsung",
@@ -331,12 +342,13 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-ue40f6000f-40-inch-full-hd-led-2025/9300000229540597/",
       "image": "https://media.s-bol.com/8vXnO3yXV8z2/YEwGg7p/550x344.jpg",
       "ph": {
-        "2026-11-18": 322.59
+        "2026-11-18": 322.59,
+        "2026-11-19": 322.59
       },
       "low_price": 322.59,
       "ph_ean": "8806095916699",
       "rating": 3.7,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "Hisense",
@@ -370,11 +382,12 @@
       "url": "https://www.bol.com/nl/nl/p/hisense-40a5nq-tv-101-6-cm-full-hd-smart-tv-wifi-zwart-220-cd-m/9300000183047832/",
       "image": "https://media.s-bol.com/KVgPyOR1KPjr/OYqJlgr/550x335.jpg",
       "ph": {
-        "2026-11-18": 385.0
+        "2026-11-18": 385.0,
+        "2026-11-19": 385.0
       },
       "low_price": 385.0,
       "ph_ean": "6942351405988",
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "Hyundai",
@@ -407,12 +420,13 @@
       "url": "https://www.bol.com/nl/nl/p/hyundai-smart-tv-40-inch-randloos-design-2-x-hdmi-2-x-usb-wifi-full-hd-tripple-tuner-2026-netflix-youtube-amazon-prime/9300000267144517/",
       "image": "https://media.s-bol.com/q302y279JXYD/pQwV3jX/550x346.jpg",
       "ph": {
-        "2026-11-18": 219.99
+        "2026-11-18": 219.99,
+        "2026-11-19": 219.99
       },
       "low_price": 219.99,
       "ph_ean": "3700638501913",
       "rating": 4.8,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     }
   ],
   "guide": [

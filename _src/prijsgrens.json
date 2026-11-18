@@ -1,4 +1,17 @@
 {
- "datum": "2026-11-18",
- "overtreders": []
+ "datum": "2026-11-19",
+ "overtreders": [
+  {
+   "slug": "beste-elektrische-kachel-onder-100-euro",
+   "grens": 100,
+   "plek": 6,
+   "product": "Rowenta Vectissimo CO3030F1",
+   "prijs": 100.99,
+   "ean": "3121040038451",
+   "laagste_30d": 83.29,
+   "dagen_boven": 1,
+   "dagen_gemeten": 2,
+   "reden": "boven grens"
+  }
+ ]
 }

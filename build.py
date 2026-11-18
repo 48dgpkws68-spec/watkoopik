@@ -49,8 +49,9 @@ def shop_link(p):
 # A/B-test N5 (hefboom C1, sinds 5 nov 2026): op de helft van de gidsen staat de actuele prijs in de bol-knop.
 # Verdeling vast op slug (md5 even = "prijs", oneven = "controle"); alleen op gidspagina-plekken, Umami-eigenschap "variant".
 AB_PLEKKEN = ("kaart", "podium", "tabel", "eindoordeel", "sticky")
+# 19 nov 2026: E10 verloren (prijs 0,486 tegen controle 0,564 kliks per gidsbezoeker), alle gidsen terug naar de controleknop.
 def ab_variant(slug):
-    return "prijs" if int(hashlib.md5(slug.encode()).hexdigest(), 16) % 2 == 0 else "controle"
+    return "controle"
 def shop_a(p, g, cls="btn btn-buy magnet", plek="kaart"):
     label = "Bekijk actuele prijs bij bol" if plek == "kaart" else "Bekijk bij bol"
     var_attr = ""

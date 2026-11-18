@@ -61,12 +61,13 @@
       "url": "https://www.bol.com/nl/nl/p/rowenta-so9360-electrische-verwarming-binnen-zwart-zilver-2000-w-ventilator-elektrisch-verwarmingstoestel/9300000241348105/",
       "image": "https://media.s-bol.com/OxnrzzgrpPOY/qjrzv27/550x730.jpg",
       "ph": {
-        "2026-11-18": 79.99
+        "2026-11-18": 79.99,
+        "2026-11-19": 79.99
       },
       "low_price": 79.99,
       "ph_ean": "3121040094587",
       "rating": 4.7,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "DREO",
@@ -100,17 +101,18 @@
       "url": "https://www.bol.com/nl/nl/p/dreo-atom-416-elektrische-kachel-ventilator-keramisch-ptc-1500w-hyperamics-heater-2s-directe-verwarming-shield360-8-lagen-veiligheidsbescherming-superstille-34db-werking-snelle-warmteafgifte-met-groot-bereik-energiezuinige-eco-mode/9300000243414184/",
       "image": "https://media.s-bol.com/QMXn45E8Bz0M/volvQk5/550x594.jpg",
       "ph": {
-        "2026-11-18": 45.99
+        "2026-11-18": 45.99,
+        "2026-11-19": 45.99
       },
       "low_price": 45.99,
       "ph_ean": "0810181280197",
       "rating": 4.8,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "Eurom",
       "name": "Alutherm 1500 WiFi",
-      "price": 97.59,
+      "price": 98.49,
       "score": 8.8,
       "label": "Beste premium",
       "reviews": "bol-score 4,2 van 5",
@@ -139,12 +141,15 @@
       "url": "https://www.bol.com/nl/nl/p/eurom-alutherm-1500-wifi-convectorkachel-1500w-60m3/9200000104460931/",
       "image": "https://media.s-bol.com/7Bq2kPVERQE1/AD9qY73/550x407.jpg",
       "ph": {
-        "2026-11-18": 97.59
+        "2026-11-18": 97.59,
+        "2026-11-19": 98.49
       },
       "low_price": 97.59,
       "ph_ean": "8713415360745",
       "rating": 4.2,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19",
+      "prev_price": 97.59,
+      "prev_date": "2026-11-18"
     },
     {
       "brand": "Aigostar",
@@ -178,12 +183,13 @@
       "url": "https://www.bol.com/nl/nl/p/aigostar-cozy-olieradiator-2300w/9300000179073087/",
       "image": "https://media.s-bol.com/xg4omzQXGEAE/vg1plpL/550x689.jpg",
       "ph": {
-        "2026-11-18": 79.99
+        "2026-11-18": 79.99,
+        "2026-11-19": 79.99
       },
       "low_price": 79.99,
       "ph_ean": "8433325385507",
       "rating": 4.1,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "DREO",
@@ -217,17 +223,18 @@
       "url": "https://www.bol.com/nl/nl/p/dreo-solaris-628-elektrische-kachel-ventilator-keramisch-ptc-2000w-super-stil-hyperamic-2s-verwarming-70-oscillerend-dual-dc-motor-8-lagen-veiligheidsbescherming-nauwkeurige-temperatuurregeling-1-c-energiezuinige-ecomode/9300000243439545/",
       "image": "https://media.s-bol.com/A3k9NkENjXX1/46DJ660/550x722.jpg",
       "ph": {
-        "2026-11-18": 80.74
+        "2026-11-18": 80.74,
+        "2026-11-19": 80.74
       },
       "low_price": 80.74,
       "ph_ean": "0810181280036",
       "rating": 4.8,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "Rowenta",
       "name": "Vectissimo CO3030F1",
-      "price": 83.29,
+      "price": 100.99,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -256,17 +263,20 @@
       "url": "https://www.bol.com/nl/nl/p/rowenta-vectissimo-turbo-co3035f1-kachel/9300000050946450/",
       "image": "https://media.s-bol.com/m89KWRE1pADr/76JXELA/550x493.jpg",
       "ph": {
-        "2026-11-18": 83.29
+        "2026-11-18": 83.29,
+        "2026-11-19": 100.99
       },
       "low_price": 83.29,
       "ph_ean": "3121040038451",
       "rating": 4.4,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19",
+      "prev_price": 83.29,
+      "prev_date": "2026-11-18"
     },
     {
       "brand": "Eurom",
       "name": "Safe-T-Convect 2400",
-      "price": 72.49,
+      "price": 73.29,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -295,12 +305,15 @@
       "url": "https://www.bol.com/nl/nl/p/eurom-safe-t-convect-2400-convector-kachel-360479/9300000083108008/",
       "image": "https://media.s-bol.com/mXv0GVlqB579/mE0DZ0/550x347.jpg",
       "ph": {
-        "2026-11-18": 72.49
+        "2026-11-18": 72.49,
+        "2026-11-19": 73.29
       },
       "low_price": 72.49,
       "ph_ean": "8713415360479",
       "rating": 4.5,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19",
+      "prev_price": 72.49,
+      "prev_date": "2026-11-18"
     },
     {
       "brand": "Tomado",
@@ -334,12 +347,13 @@
       "url": "https://www.bol.com/nl/nl/p/tomado-thc2003b-elektrische-kachel-convector-24m-2000-watt-zwart/9300000158723443/",
       "image": "https://media.s-bol.com/B2wxAOY71GgY/DXYJNx/550x477.jpg",
       "ph": {
-        "2026-11-18": 49.99
+        "2026-11-18": 49.99,
+        "2026-11-19": 49.99
       },
       "low_price": 49.99,
       "ph_ean": "8712876501834",
       "rating": 4.7,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "Philips",
@@ -373,17 +387,18 @@
       "url": "https://www.bol.com/nl/nl/p/philips-compacte-keramische-verwarming/9300000186181868/",
       "image": "https://media.s-bol.com/mm9K29jJqQn3/yPvyW86/550x611.jpg",
       "ph": {
-        "2026-11-18": 59.36
+        "2026-11-18": 59.36,
+        "2026-11-19": 59.36
       },
       "low_price": 59.36,
       "ph_ean": "8720389041501",
       "rating": 4.3,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "Inventum",
       "name": "KC222WOS keramische kachel",
-      "price": 41.99,
+      "price": 38.51,
       "score": 8.0,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -412,12 +427,15 @@
       "url": "https://www.bol.com/nl/nl/p/inventum-kc222wos-keramische-kachel-vrijstaand-60-oscillatie-wit-zwart/9200000120601745/",
       "image": "https://media.s-bol.com/gJDk2N309ODD/550x756.jpg",
       "ph": {
-        "2026-11-18": 41.99
+        "2026-11-18": 41.99,
+        "2026-11-19": 38.51
       },
-      "low_price": 41.99,
+      "low_price": 38.51,
       "ph_ean": "8712876044072",
       "rating": 4.5,
-      "synced": "2026-11-18"
+      "synced": "2026-11-19",
+      "prev_price": 41.99,
+      "prev_date": "2026-11-18"
     }
   ],
   "guide": [

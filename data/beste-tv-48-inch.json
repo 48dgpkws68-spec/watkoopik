@@ -33,7 +33,7 @@
     {
       "brand": "LG",
       "name": "C5 OLED48C56LB",
-      "price": 809.0,
+      "price": 800.05,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 5,0 van 5",
@@ -63,14 +63,15 @@
       "image": "https://media.s-bol.com/pyM7WLGZDBkr/99NGEP4/550x356.jpg",
       "ph": {
         "2026-11-17": 799.3,
-        "2026-11-18": 809.0
+        "2026-11-18": 809.0,
+        "2026-11-19": 800.05
       },
       "low_price": 799.3,
       "ph_ean": "8806096353936",
-      "synced": "2026-11-18",
+      "synced": "2026-11-19",
       "rating": 5.0,
-      "prev_price": 799.3,
-      "prev_date": "2026-11-17"
+      "prev_price": 809.0,
+      "prev_date": "2026-11-18"
     },
     {
       "brand": "Philips",
@@ -105,20 +106,21 @@
       "image": "https://media.s-bol.com/r3Pomvkw9q8p/861g9rW/550x550.jpg",
       "ph": {
         "2026-11-17": 799.0,
-        "2026-11-18": 799.0
+        "2026-11-18": 799.0,
+        "2026-11-19": 799.0
       },
       "low_price": 799.0,
       "ph_ean": "8718863042113",
-      "synced": "2026-11-18",
+      "synced": "2026-11-19",
       "rating": 4.5
     },
     {
       "brand": "LG",
       "name": "G5 OLED48G56LS",
-      "price": 949.0,
+      "price": 939.0,
       "score": 8.9,
       "label": "Beste premium",
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Gallery-ontwerp dat plat tegen de muur hangt, met dezelfde gamefuncties.",
       "specs": {
         "Paneel": "OLED evo Max",
@@ -145,12 +147,15 @@
       "image": "https://media.s-bol.com/K3gG5jD1kGqY/Y7JMW1Y/550x352.jpg",
       "ph": {
         "2026-11-17": 949.0,
-        "2026-11-18": 949.0
+        "2026-11-18": 949.0,
+        "2026-11-19": 939.0
       },
-      "low_price": 949.0,
+      "low_price": 939.0,
       "ph_ean": "8806096367445",
-      "synced": "2026-11-18",
-      "rating": 4.6
+      "synced": "2026-11-19",
+      "rating": 4.7,
+      "prev_price": 949.0,
+      "prev_date": "2026-11-18"
     },
     {
       "brand": "Sony",
@@ -182,14 +187,15 @@
       "ean": "4548736183001",
       "bol_title": "Sony Bravia 6 - 48 inch - 4K OLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/sony-bravia-6-48-inch-4k-oled-2026-smart-tv/9300000335781286/",
-      "image": "https://media.s-bol.com/N4PYXpRNnEqL/k8yoxMJ/550x348.jpg",
+      "image": "https://media.s-bol.com/xJvq3GZmjmE3/K8jWy9M/550x327.jpg",
       "ph": {
         "2026-11-17": 1099.0,
-        "2026-11-18": 1099.0
+        "2026-11-18": 1099.0,
+        "2026-11-19": 1099.0
       },
       "low_price": 1099.0,
       "ph_ean": "4548736183001",
-      "synced": "2026-11-18",
+      "synced": "2026-11-19",
       "rating": 5.0
     },
     {
@@ -224,11 +230,12 @@
       "image": "https://media.s-bol.com/YLnv7y3D8gzA/k5M7kPv/550x324.jpg",
       "ph": {
         "2026-11-17": 823.0,
-        "2026-11-18": 823.0
+        "2026-11-18": 823.0,
+        "2026-11-19": 823.0
       },
       "low_price": 823.0,
       "ph_ean": "8718863046753",
-      "synced": "2026-11-18",
+      "synced": "2026-11-19",
       "rating": 4.7
     },
     {
@@ -264,11 +271,12 @@
       "image": "https://media.s-bol.com/gggDKklrO5Lj/G5OyXBy/550x250.jpg",
       "ph": {
         "2026-11-17": 1199.0,
-        "2026-11-18": 1199.0
+        "2026-11-18": 1199.0,
+        "2026-11-19": 1199.0
       },
       "low_price": 1199.0,
       "ph_ean": "8718863052006",
-      "synced": "2026-11-18",
+      "synced": "2026-11-19",
       "rating": 5.0
     },
     {
@@ -304,11 +312,12 @@
       "image": "https://media.s-bol.com/9Zy8VNZNOXJ3/vgJZvNV/550x345.jpg",
       "ph": {
         "2026-11-17": 1109.0,
-        "2026-11-18": 1109.0
+        "2026-11-18": 1109.0,
+        "2026-11-19": 1109.0
       },
       "low_price": 1109.0,
       "ph_ean": "8718863046616",
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     },
     {
       "brand": "Philips",
@@ -342,11 +351,12 @@
       "image": "https://media.s-bol.com/3WDogmkj77OA/oVgvGRK/550x326.jpg",
       "ph": {
         "2026-11-17": 1099.0,
-        "2026-11-18": 1099.0
+        "2026-11-18": 1099.0,
+        "2026-11-19": 1099.0
       },
       "low_price": 1099.0,
       "ph_ean": "8718863051979",
-      "synced": "2026-11-18"
+      "synced": "2026-11-19"
     }
   ],
   "guide": [

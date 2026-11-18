@@ -493,9 +493,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-18",
+    "t": "vervangen",
+    "uit": "TCL 55P6L",
+    "in": "CHiQ U55QST",
+    "plek": 2,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "63956d24b04754675712d32b63f07e492ac720c7",
+  "_tot": "433dece4a655429f6f39f4c3e66b2b212ff1350c",
   "_ps": [
    {
     "brand": "LG",
@@ -503,9 +513,9 @@
     "ean": "8806096353134"
    },
    {
-    "brand": "TCL",
-    "name": "55P6L",
-    "ean": "5901292531942"
+    "brand": "CHiQ",
+    "name": "U55QST",
+    "ean": "8592344206115"
    },
    {
     "brand": "CHiQ",
@@ -620,7 +630,7 @@
     "paar": true
    }
   ],
-  "_tot": "63956d24b04754675712d32b63f07e492ac720c7",
+  "_tot": "433dece4a655429f6f39f4c3e66b2b212ff1350c",
   "_ps": [
    {
     "brand": "REX",
@@ -693,9 +703,19 @@
     "in": "Philips 43PQS8601/12",
     "plek": 9,
     "paar": true
+   },
+   {
+    "d": "2026-11-18",
+    "t": "vervangen",
+    "uit": "Philips 65OLED911",
+    "in": "Philips 55OLED911",
+    "plek": 3,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "63956d24b04754675712d32b63f07e492ac720c7",
+  "_tot": "433dece4a655429f6f39f4c3e66b2b212ff1350c",
   "_ps": [
    {
     "brand": "Philips",
@@ -709,8 +729,8 @@
    },
    {
     "brand": "Philips",
-    "name": "65OLED911",
-    "ean": "8718863052136"
+    "name": "55OLED911",
+    "ean": "8718863052075"
    },
    {
     "brand": "Philips",
@@ -753,7 +773,7 @@
   "start": "2026-10-21",
   "n": 10,
   "events": [],
-  "_tot": "63956d24b04754675712d32b63f07e492ac720c7",
+  "_tot": "433dece4a655429f6f39f4c3e66b2b212ff1350c",
   "_ps": [
    {
     "brand": "WOOOD",
@@ -787,8 +807,8 @@
    },
    {
     "brand": "Bronx71",
-    "name": "Maine hoekbank bouclé",
-    "ean": "8721077043555"
+    "name": "Maine hoekbank bouclé terracotta",
+    "ean": "8721077043029"
    },
    {
     "brand": "Beliani",
@@ -1017,9 +1037,29 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-18",
+    "t": "vervangen",
+    "uit": "Sony BRAVIA 3 II 50 inch",
+    "in": "Sony BRAVIA 2 II 50 inch",
+    "plek": 8,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
+   },
+   {
+    "d": "2026-11-18",
+    "t": "vervangen",
+    "uit": "TCL 50S51K",
+    "in": "TCL 50P61K",
+    "plek": 9,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "63956d24b04754675712d32b63f07e492ac720c7",
+  "_tot": "433dece4a655429f6f39f4c3e66b2b212ff1350c",
   "_ps": [
    {
     "brand": "Hisense",
@@ -1058,13 +1098,13 @@
    },
    {
     "brand": "Sony",
-    "name": "BRAVIA 3 II 50 inch",
-    "ean": "4548736177727"
+    "name": "BRAVIA 2 II 50 inch",
+    "ean": "4548736180055"
    },
    {
     "brand": "TCL",
-    "name": "50S51K",
-    "ean": "5901292528669"
+    "name": "50P61K",
+    "ean": "5901292528683"
    },
    {
     "brand": "Philips",
@@ -1187,7 +1227,7 @@
     "paar": true
    }
   ],
-  "_tot": "63956d24b04754675712d32b63f07e492ac720c7",
+  "_tot": "433dece4a655429f6f39f4c3e66b2b212ff1350c",
   "_ps": [
    {
     "brand": "Lenovo",
