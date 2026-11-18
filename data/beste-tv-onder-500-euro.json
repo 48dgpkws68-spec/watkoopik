@@ -17,7 +17,7 @@
   "updated": "2026-10-20",
   "reviews_total": "3.100",
   "intro": "Voor een tv onder 500 euro hoef je in 2026 geen genoegen meer te nemen met een klein of flets scherm. Voor dat geld krijg je een 55 inch QLED, een miniled of zelfs een 65 inch tv. Wel moet je goed kiezen, want de verschillen in helderheid, smart-tv en bouwkwaliteit zijn groot. Wij vergeleken de tv's die nu bij bol onder de 500 euro te koop zijn op beeld, formaat, HDR, apps en de ervaringen van kopers. Dit zijn de tien beste.",
-  "verdict": "De LG 55QNED84A6C is de beste tv onder 500 euro: 55 inch, rijke QNED-kleuren en het snelle webOS. De TCL 55P6L is de beste prijs-kwaliteit omdat je voor 399 euro een 55 inch QLED met Google TV en Dolby Vision krijgt. Wil je het beste contrast voor dit budget, kies dan de CHiQ M55QN9G met Mini LED voor rond de 430 euro.",
+  "verdict": "De LG 55QNED84A6C is de beste tv onder 500 euro: 55 inch, rijke QNED-kleuren en het snelle webOS. De CHiQ U55QST is de beste prijs-kwaliteit omdat je voor rond de 400 euro een 55 inch QLED met Google TV krijgt. Wil je het beste contrast voor dit budget, kies dan de CHiQ M55QN9G met Mini LED voor rond de 430 euro.",
   "products": [
     {
       "brand": "LG",
@@ -88,45 +88,43 @@
       "rating": 5.0
     },
     {
-      "brand": "TCL",
-      "name": "55P6L",
-      "price": 399.0,
+      "brand": "CHiQ",
+      "name": "U55QST",
+      "price": 399.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,4 van 5",
-      "oneliner": "55 inch QLED met Google TV en Dolby Vision voor 399 euro.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "55 inch QLED met Google TV voor rond de 400 euro.",
       "specs": {
         "Formaat": "55 inch",
         "Paneel": "QLED",
-        "Verversing": "60 Hz",
-        "HDR": "Dolby Vision, HDR10",
+        "Verversing": "Niet opgegeven",
+        "HDR": "HDR10",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "55 inch QLED voor 399 euro",
-        "Google TV met Chromecast en spraakbediening",
-        "Dolby Vision voor Netflix en Disney+",
-        "Model uit 2026"
+        "55 inch QLED voor rond de 400 euro",
+        "93 procent DCI-P3 volgens CHiQ",
+        "Google TV met spraakbediening",
+        "ALLM, VRR en MEMC"
       ],
       "cons": [
-        "Paneel van 60 Hz zonder local dimming",
-        "Geen HDR10+"
+        "Geen Dolby Vision genoemd, alleen HDR10",
+        "Geen local dimming"
       ],
       "ideal": "Wie voor zo weinig mogelijk geld een 55 inch QLED met Google TV wil.",
-      "text": "De TCL 55P6L is het 2026-model van TCL in de instapklasse. Hij is de beste prijs-kwaliteit omdat je 55 inch met een QLED-paneel krijgt voor 399 euro, flink minder dan de LG op nummer 1. Quantum dots geven vollere kleuren dan een gewone led-tv en de AiPQ-processor past helderheid, scherpte en beweging automatisch aan op wat je kijkt.\n\nDe software is Google TV, met de grootste appwinkel van alle systemen, ingebouwde Chromecast en spraakbediening via de afstandsbediening. Dolby Vision wordt ondersteund, HDR10+ niet. Daar staat tegenover dat het paneel op 60 Hz draait zonder local dimming. Voor films in een donkere kamer is de CHiQ M55QN9G met Mini LED beter. Gamers die meer dan 60 Hz willen, kijken naar de Xiaomi TV A Pro met zijn 120 Hz-gamestand. Dolby Audio geeft redelijk geluid voor nieuws en series. Kopers op bol geven hem gemiddeld 4,4 uit 5 en zijn vooral tevreden over het formaat en het snelle menu.",
-      "ean": "5901292531942",
-      "bol_title": "TCL 55P6L - 55 inch - 4K QLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-55p6l-55-inch-4k-qled-2026-smart-tv/9300000269209543/",
-      "image": "https://media.s-bol.com/mo9YGxkQJL7A/Q0GJLEM/550x338.jpg",
+      "text": "De CHiQ U55QST is de beste prijs-kwaliteit omdat je een 55 inch QLED met Google TV krijgt voor rond de 400 euro, flink minder dan de LG op nummer 1. CHiQ is het tv-merk van de Chinese fabrikant Changhong. Volgens CHiQ dekt het QLED PRO-paneel 93 procent van de DCI-P3-kleurruimte, wat je terugziet in voller rood en groen dan bij een gewone led-tv. De resolutie is 4K en voor HDR noemt CHiQ HDR10.\n\nGoogle TV geeft je de grootste appwinkel en je bedient de tv met je stem via Google Assistant. Voor gamers zijn er ALLM en VRR, die de vertraging laag houden en haperingen beperken. MEMC maakt snelle bewegingen bij sport vloeiender. Dolby Audio en DBX-TV moeten het geluid voller maken. Dolby Vision staat niet in de specificaties, dus bij Netflix en Disney+ krijg je gewone HDR10. De behuizing is van metaal met een smalle rand. Kopers op bol geven hem een 4,3 van 5.",
+      "ean": "8592344206115",
+      "bol_title": "CHiQ U55QST - Smart TV 55 Inch - UHD 4K - QLED Pro - Google TV - Randloos Metal Design - Dolby Audio - Nieuw",
+      "url": "https://www.bol.com/nl/nl/p/chiq-u55qst-smart-tv-55-inch-qled-pro-google-tv-fhd-1080p-randloos-metal-design-dolby-audio-2025-nieuw/9300000237949125/",
+      "image": "https://media.s-bol.com/Nq18xWDZ4Xpv/E9GR6j0/550x363.jpg",
       "ph": {
-        "2026-11-16": 399.0,
-        "2026-11-17": 399.0,
-        "2026-11-18": 399.0
+        "2026-11-18": 399.99
       },
-      "low_price": 399.0,
-      "ph_ean": "5901292531942",
-      "synced": "2026-11-18",
-      "rating": 4.4
+      "low_price": 399.99,
+      "ph_ean": "8592344206115",
+      "rating": 4.3,
+      "synced": "2026-11-18"
     },
     {
       "brand": "CHiQ",
@@ -601,11 +599,11 @@
   "faq": [
     {
       "q": "Wat is de beste tv onder 500 euro?",
-      "a": "De LG 55QNED84A6C is de beste tv onder 500 euro. Je krijgt 55 inch, quantum dots en het snelle webOS van LG voor rond 480 euro. Wil je zo weinig mogelijk uitgeven, kies dan de TCL 55P6L van 399 euro. Zoek je een 65 inch scherm, dan is er de Hisense 65A6S."
+      "a": "De LG 55QNED84A6C is de beste tv onder 500 euro. Je krijgt 55 inch, quantum dots en het snelle webOS van LG voor rond 480 euro. Wil je zo weinig mogelijk uitgeven, kies dan de CHiQ U55QST van rond de 400 euro. Zoek je een 65 inch scherm, dan is er de Hisense 65A6S."
     },
     {
       "q": "Welke 65 inch tv is goed onder 500 euro?",
-      "a": "Een 65 inch QLED onder 500 euro is lastig te vinden. In deze lijst is de Hisense 65A6S van 499 euro de 65 inch tv: een groot scherm met Dolby Vision en VIDAA, maar met een eenvoudig led-paneel zonder quantum dots. Vind je beeldkwaliteit belangrijker dan formaat, dan geeft een 55 inch QLED zoals de TCL 55P6L je rijkere kleuren."
+      "a": "Een 65 inch QLED onder 500 euro is lastig te vinden. In deze lijst is de Hisense 65A6S van 499 euro de 65 inch tv: een groot scherm met Dolby Vision en VIDAA, maar met een eenvoudig led-paneel zonder quantum dots. Vind je beeldkwaliteit belangrijker dan formaat, dan geeft een 55 inch QLED zoals de CHiQ U55QST je rijkere kleuren."
     },
     {
       "q": "Is een goedkope tv van een onbekend merk een goed idee?",
@@ -617,7 +615,7 @@
     },
     {
       "q": "Welke goedkope smart tv heeft de beste apps?",
-      "a": "Tv's met Google TV of webOS hebben de meeste apps. Onder de 500 euro zijn dat onder meer de LG 55QNED84A6C, TCL 55P6L, CHiQ M55QN9G, TCL 55P61K en Xiaomi TV A Pro 2026. Alle Nederlandse apps, zoals NPO Start, Videoland en Ziggo GO, zijn daarop beschikbaar."
+      "a": "Tv's met Google TV of webOS hebben de meeste apps. Onder de 500 euro zijn dat onder meer de LG 55QNED84A6C, CHiQ U55QST, CHiQ M55QN9G, TCL 55P61K en Xiaomi TV A Pro 2026. Alle Nederlandse apps, zoals NPO Start, Videoland en Ziggo GO, zijn daarop beschikbaar."
     },
     {
       "q": "Is een tv onder 500 euro nog 4K?",
@@ -625,7 +623,7 @@
     },
     {
       "q": "Welke tv onder 500 euro heeft Dolby Vision?",
-      "a": "In deze lijst ondersteunen vier tv's Dolby Vision: de TCL 55P6L, CHiQ M55QN9G, Hisense 55E7S en Hisense 65A6S. De LG 55QNED84A6C, Samsung UE55U7090H, Samsung UE55M74H, Xiaomi TV A Pro, Philips 55PUS8001/12 en TCL 55P61K hebben het niet. Dolby Vision zie je vooral terug bij Netflix en Disney+, dus kijk je daar veel, dan is het een nuttige extra."
+      "a": "In deze lijst ondersteunen drie tv's Dolby Vision: de CHiQ M55QN9G, Hisense 55E7S en Hisense 65A6S. De LG 55QNED84A6C, CHiQ U55QST, Samsung UE55U7090H, Samsung UE55M74H, Xiaomi TV A Pro, Philips 55PUS8001/12 en TCL 55P61K hebben het niet. Dolby Vision zie je vooral terug bij Netflix en Disney+, dus kijk je daar veel, dan is het een nuttige extra."
     },
     {
       "q": "Wanneer is een tv het goedkoopst?",
@@ -686,7 +684,7 @@
     "wanneer": [
       {
         "rank": 2,
-        "p": "De TCL 55P6L (€ 399) past beter dan de LG op nr. 1 als je zo weinig mogelijk wilt uitgeven of veel Netflix en Disney+ kijkt. Je krijgt ook 55 inch QLED, met Google TV en Dolby Vision, dat de LG mist. Daar staat tegenover dat je webOS met de Magic Remote inlevert en dat ook dit paneel geen miniled heeft, dus zwart oogt in het donker wat grijzig."
+        "p": "De CHiQ U55QST (rond € 400) past beter dan de LG op nr. 1 als je zo weinig mogelijk wilt uitgeven. Je krijgt ook 55 inch QLED, maar met Google TV in plaats van webOS. Daar staat tegenover dat je de Magic Remote inlevert en dat ook dit paneel geen miniled heeft, dus zwart oogt in het donker wat grijzig."
       },
       {
         "rank": 3,
@@ -695,6 +693,12 @@
     ]
   },
   "wissels": [
+    {
+      "d": "2026-11-18",
+      "uit": "TCL 55P6L",
+      "in": "CHiQ U55QST",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-16",
       "uit": "TCL 55P8K",

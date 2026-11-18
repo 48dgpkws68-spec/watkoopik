@@ -19,7 +19,7 @@
   "published": "2026-10-26",
   "reviews_total": "3.300",
   "intro": "Een luchtreiniger in de slaapkamer moet vooral één ding: 's nachts stil zijn. Een apparaat dat bromt of met een fel display je kamer verlicht, zet je binnen een week uit. Daarom vergeleken wij modellen op geluid in de slaapstand, of de lampjes helemaal uit kunnen, de CADR voor een kamer van 10 tot 30 m² en de filterkosten per jaar. Dit zijn de tien beste stille luchtreinigers voor de slaapkamer, van een mini voor op het nachtkastje tot een fluisterstil topmodel.",
-  "verdict": "De Philips PureProtect 3200 is de beste luchtreiniger voor de slaapkamer: circa 15 dB in de laagste stand, lampjes die uitgaan in de slaapstand en ruim vermogen om de kamer voor het slapengaan te verversen. De Coway Airmega 100 is de beste prijs-kwaliteit met een CADR van 244 m³/u en lage filterkosten. Heb je een grote slaapkamer of wil je de lucht zo snel mogelijk schoon, dan is de Philips 3000i met een CADR van 520 m³/u de premium keuze.",
+  "verdict": "De Philips PureProtect 3200 is de beste luchtreiniger voor de slaapkamer: circa 15 dB in de laagste stand, lampjes die uitgaan in de slaapstand en ruim vermogen om de kamer voor het slapengaan te verversen. De Coway Airmega 100 is de beste prijs-kwaliteit met een CADR van 244 m³/u en lage filterkosten. Heb je een grote slaapkamer of wil je de lucht zo snel mogelijk schoon, dan is de Winix Zero-s met een CADR van 410 m³/u de premium keuze.",
   "products": [
     {
       "brand": "Philips",
@@ -114,63 +114,43 @@
       "rating": 4.6
     },
     {
-      "brand": "Philips",
-      "name": "3000i Series AC3033/10",
-      "price": 349.0,
+      "brand": "Winix",
+      "name": "Zero-s",
+      "price": 307.78,
       "score": 9.0,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Krachtige Philips met app en automatische stand, ook voor een grote slaapkamer.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "Krachtige Winix met nachtstand, ook voor een grote slaapkamer.",
       "specs": {
-        "CADR": "520 m³/u",
-        "Ruimte": "tot 135 m²",
-        "Geluid slaapstand": "stil, zie fabrikant",
-        "Lampjes uit": "ja, in de slaapstand",
-        "Filter": "HEPA + actieve kool"
+        "CADR": "410 m³/u",
+        "Ruimte": "tot 100 m²",
+        "Geluid slaapstand": "niet opgegeven",
+        "Lampjes uit": "ja, in de nachtstand",
+        "Filter": "H13 HEPA + actieve kool"
       },
       "pros": [
-        "Hoogste CADR in deze lijst: 520 m³/u",
-        "Reinigt 20 m² volgens Philips in 6 minuten",
-        "Automatische stand en Philips Air+-app",
-        "Maximaal 55 W"
+        "CADR van 410 m³/u, geschikt tot 100 m²",
+        "H13 HEPA-filter en actief koolfilter",
+        "Nachtstand dimt de verlichting of zet die uit",
+        "Fijnstofsensor met automatische stand"
       ],
       "cons": [
         "Duurste model in deze lijst",
         "Groter dan nodig voor een kleine slaapkamer"
       ],
       "ideal": "Wie een grote slaapkamer of open zolder heeft en de lucht snel schoon wil.",
-      "text": "De Philips 3000i is de krachtigste luchtreiniger in deze lijst. Met een CADR van 520 m³/u reinigt hij volgens Philips een kamer van 20 m² in ongeveer zes minuten en hij is geschikt voor ruimtes tot 135 m². Voor een gewone slaapkamer is dat ruim, maar het betekent wel dat hij op een lage, stille stand nog genoeg lucht verplaatst. Zet hem voor het slapengaan even hoog en laat hem daarna in de slaapstand draaien.\n\nHet HEPA-filter met actieve kool vangt stof, pollen, huisdierenschilfers en geuren. Sensoren meten de luchtkwaliteit en de automatische stand past de snelheid aan. Via de Philips Air+-app zie je de waarden en stel je schema's in. Het verbruik blijft volgens Philips onder 55 watt. Nadelen zijn de prijs en het formaat: in een kleine slaapkamer is de PureProtect 3200 op plek 1 handiger. Kopers op bol geven gemiddeld 4,3 sterren.",
-      "ean": "8720389002069",
+      "text": "De Winix Zero-s is de premium keuze in deze lijst voor wie een grote slaapkamer of open zolder heeft. Met een CADR van 410 m³/u is hij volgens Winix geschikt voor ruimtes tot 100 m². Voor een gewone slaapkamer is dat ruim, maar het betekent dat hij op een lage stand nog genoeg lucht verplaatst. Zet hem voor het slapengaan even hoog en laat hem daarna in de nachtstand draaien. In die stand draait hij zo stil mogelijk en dimt hij de verlichting of zet die helemaal uit.\n\nDe lucht gaat door een voorfilter, een actief koolfilter tegen geurtjes en een H13 HEPA-filter. Daarnaast heeft hij PlasmaWave, een vorm van ionisatie. Een fijnstofsensor toont de luchtkwaliteit met een kleurcode en de automatische stand past de snelheid aan. Een geluidsopgave voor de nachtstand staat niet in de catalogus. Op bol staat hij op een 4,7. Nadelen zijn de prijs en het formaat: in een kleine slaapkamer is de PureProtect 3200 of de Coway Airmega 100 genoeg.",
+      "ean": "8809490584234",
       "label": "Beste premium",
-      "bol_title": "Philips 3000i Series AC3033/10 - Luchtreiniger met HEPA Filter voor XL-ruimten - 520 m³/u - Wit / Grijs - App Connected",
-      "url": "https://www.bol.com/nl/nl/p/philips-luchtzuiveraar-zuivert-de-lucht-in-ruimten-tot-135-m/9200000115917234/",
-      "image": "https://media.s-bol.com/Yx89BrLw718A/x3ExgP/500x840.jpg",
+      "bol_title": "Winix Zero-s - Luchtreiniger Air Purifier met vervangbaar Hepa + Koolstoffilter + PlasmaWave Technologie - Cadr 410m³ p/u en tot 100m² - Getest en Gecertificeerd op Hooikoorts, Allergie en Fijnstof - Auto-mode, Slaap-mode en Luchtkwaliteit indicator",
+      "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-zero-s-luchtreiniger-met-hepa-filter-en-plasmawave-technologie-410m3-h/9300000144873227/",
+      "image": "https://media.s-bol.com/7wvpKkQpO7Xr/qgm3g3/545x840.jpg",
       "ph": {
-        "2026-10-28": 349.0,
-        "2026-10-29": 349.0,
-        "2026-10-30": 349.0,
-        "2026-10-31": 349.0,
-        "2026-11-01": 349.0,
-        "2026-11-02": 349.0,
-        "2026-11-03": 349.0,
-        "2026-11-04": 349.0,
-        "2026-11-05": 349.0,
-        "2026-11-06": 349.0,
-        "2026-11-07": 349.0,
-        "2026-11-08": 349.0,
-        "2026-11-09": 349.0,
-        "2026-11-10": 349.0,
-        "2026-11-11": 349.0,
-        "2026-11-12": 349.0,
-        "2026-11-13": 349.0,
-        "2026-11-14": 349.0,
-        "2026-11-16": 349.0,
-        "2026-11-17": 349.0,
-        "2026-11-18": 349.0
+        "2026-11-18": 307.78
       },
-      "low_price": 349.0,
-      "synced": "2026-11-18",
-      "ph_ean": "8720389002069",
-      "rating": 4.3
+      "low_price": 307.78,
+      "ph_ean": "8809490584234",
+      "rating": 4.7,
+      "synced": "2026-11-18"
     },
     {
       "brand": "Coway",
@@ -650,5 +630,13 @@
     "beste-luchtontvochtiger"
   ],
   "meta_title": "Beste luchtreiniger slaapkamer 2026: stil in slaapstand",
-  "meta_desc": "De beste luchtreiniger voor de slaapkamer van 2026 is de {top}. Top 10 stille HEPA-luchtreinigers vergeleken op geluid in slaapstand, CADR en filterkosten."
+  "meta_desc": "De beste luchtreiniger voor de slaapkamer van 2026 is de {top}. Top 10 stille HEPA-luchtreinigers vergeleken op geluid in slaapstand, CADR en filterkosten.",
+  "wissels": [
+    {
+      "d": "2026-11-18",
+      "uit": "Philips 3000i Series AC3033/10",
+      "in": "Winix Zero-s",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

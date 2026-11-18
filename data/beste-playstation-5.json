@@ -328,69 +328,41 @@
     },
     {
       "brand": "Sony",
-      "name": "PlayStation 5 Slim Digital Edition met 2 DualSense",
-      "price": 909.0,
-      "score": 8.8,
+      "name": "PlayStation Portal Remote Player",
+      "price": 249.99,
+      "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
-      "oneliner": "Digitale Slim met twee controllers voor samen spelen.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Speel je PS5-games op een 8 inch scherm in huis.",
       "specs": {
-        "Model": "PS5 Slim",
-        "Schijfstation": "Nee, los bij te kopen",
-        "Controllers": "2 DualSense",
-        "Extra": "Tweede controller"
+        "Model": "PlayStation Portal",
+        "Schijfstation": "Nee, speelt via je PS5",
+        "Controllers": "Ingebouwd, met DualSense-functies",
+        "Extra": "8 inch lcd, 1080p bij 60 fps"
       },
       "pros": [
-        "Twee controllers voor minder dan de Disc-bundel",
-        "Zelfde prestaties als elke andere Slim",
-        "Schijfstation later toe te voegen"
+        "Speel als de tv bezet is",
+        "Haptische feedback en adaptieve triggers",
+        "Full HD-scherm van 8 inch",
+        "Cloudstreaming met PlayStation Plus Premium"
       ],
       "cons": [
-        "Geen fysieke games",
-        "Geen game meegeleverd"
+        "Werkt alleen samen met een PS5",
+        "Heeft een goede wifi-verbinding nodig"
       ],
-      "ideal": "Wie digitaal speelt en vaak een tweede speler op de bank heeft.",
-      "text": "Deze bundel combineert de PlayStation 5 Slim Digital Edition met twee DualSense-controllers. Je betaalt rond de 880 euro voor de console met twee controllers samen. Ten opzichte van de losse Digital Edition betaal je op dit moment ruim 200 euro meer, terwijl een losse controller rond de 70 euro kost. Vergelijk dus de dagprijs van beide voordat je kiest. Het voordeel is dat je niet apart hoeft te zoeken naar een tweede DualSense in de juiste kleur.\n\nDe console is identiek aan de losse Digital Edition. Je speelt al je games via downloads uit de PlayStation Store of de catalogus van PlayStation Plus. Met Plus Extra krijg je toegang tot honderden games, waaronder veel coöpspellen die met twee controllers het leukst zijn. Wil je later toch fysieke games spelen, dan kun je de PS5 Disc Drive los aanschaffen. Kopers op bol geven de bundel een 4,7. Het is een praktische keuze voor stellen en gezinnen die digitaal gamen.",
-      "ean": "0711719022633",
-      "bol_title": "PlayStation 5 Digital Edition - Slim - Bundel met 2 Dualsense Draadloze Controllers",
-      "url": "https://www.bol.com/nl/nl/p/playstation-5-digital-edition-dualsense-controller-slim/9300000171979393/",
-      "image": "https://media.s-bol.com/BW4M4798gyVx/wmp3ZA1/550x418.jpg",
-      "synced": "2026-11-18",
+      "ideal": "PS5-bezitters die ook willen spelen als iemand anders de tv gebruikt.",
+      "text": "De PlayStation Portal is geen losse console maar een handheld waarmee je de games van je PS5 speelt via je wifi-netwerk thuis. Handig als iemand anders de tv gebruikt: je pakt de Portal en speelt verder in de slaapkamer of op de bank. Het 8 inch lcd-scherm toont Full HD (1080p) bij maximaal 60 beelden per seconde. Aan beide kanten zitten de knoppen en sticks van een DualSense, inclusief haptische feedback en adaptieve triggers in ondersteunde games.\n\nJe hebt wel een PlayStation 5 nodig, de Portal draait zelf geen games. Een uitzondering is cloudstreaming: met PlayStation Plus Premium speel je games uit de Gamecatalogus en de Classics-catalogus direct op de Portal. Dat geldt ook voor geselecteerde PS5-games uit je eigen digitale bibliotheek. Een stabiele en snelle wifi-verbinding is daarvoor belangrijk. Kopers op bol geven de Portal een 4,3 van 5. Heb je al een PS5 en wil je er vaker op spelen, dan is dit een logische aanvulling.",
+      "ean": "0711719580782",
+      "bol_title": "PlayStation Portal - Remote Player - PS5",
+      "url": "https://www.bol.com/nl/nl/p/zdalny-odtwarzacz-playstation-portal/9300000162693499/",
+      "image": "https://media.s-bol.com/ZjRDzlP4Pgrg/4QKRrGg/550x203.jpg",
       "ph": {
-        "2026-10-20": 799.99,
-        "2026-10-21": 849.0,
-        "2026-10-23": 879.0,
-        "2026-10-24": 879.0,
-        "2026-10-25": 879.0,
-        "2026-10-26": 879.0,
-        "2026-10-27": 869.0,
-        "2026-10-28": 859.0,
-        "2026-10-29": 799.99,
-        "2026-10-30": 859.0,
-        "2026-10-31": 859.0,
-        "2026-11-01": 859.0,
-        "2026-11-02": 855.0,
-        "2026-11-03": 854.0,
-        "2026-11-04": 849.0,
-        "2026-11-05": 849.0,
-        "2026-11-06": 889.0,
-        "2026-11-07": 889.0,
-        "2026-11-08": 869.0,
-        "2026-11-09": 889.0,
-        "2026-11-10": 889.0,
-        "2026-11-11": 889.0,
-        "2026-11-12": 899.0,
-        "2026-11-13": 899.0,
-        "2026-11-14": 899.0,
-        "2026-11-16": 849.0,
-        "2026-11-17": 919.0,
-        "2026-11-18": 909.0
+        "2026-11-18": 249.99
       },
-      "low_price": 799.99,
-      "prev_price": 919.0,
-      "prev_date": "2026-11-17",
-      "ph_ean": "0711719022633",
-      "rating": 4.7
+      "low_price": 249.99,
+      "ph_ean": "0711719580782",
+      "rating": 4.3,
+      "synced": "2026-11-18"
     },
     {
       "brand": "Sony",
@@ -706,5 +678,13 @@
     "beste-nintendo-switch",
     "beste-gaming-tv",
     "beste-gaming-headset"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-18",
+      "uit": "Sony PlayStation 5 Slim Digital Edition met 2 DualSense",
+      "in": "Sony PlayStation Portal Remote Player",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

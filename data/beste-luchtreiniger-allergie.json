@@ -259,124 +259,82 @@
       "rating": 4.6
     },
     {
-      "brand": "Philips",
-      "name": "3000i Series AC3033/10",
-      "price": 349.0,
+      "brand": "Winix",
+      "name": "Zero-s",
+      "price": 307.78,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Krachtige HEPA-reiniger met allergiestand voor een grote woonkamer of open ruimte.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "Krachtige H13-reiniger met fijnstofsensor voor een grote woonkamer.",
       "specs": {
-        "CADR": "ca. 520 m³/u",
-        "Ruimte": "tot ca. 135 m²",
-        "Filter": "NanoProtect HEPA + actieve kool",
-        "Geluid": "vanaf ca. 33 dB",
-        "Slaapstand": "ja, lampjes gedimd"
+        "CADR": "410 m³/u",
+        "Ruimte": "tot 100 m²",
+        "Filter": "H13 HEPA + actieve kool",
+        "Geluid": "niet opgegeven",
+        "Slaapstand": "ja, verlichting gedimd of uit"
       },
       "pros": [
-        "Hoge CADR voor grote ruimtes",
-        "Allergiestand die extra reageert op pollen en stof",
-        "Sensor die fijnstof meet en de stand aanpast",
-        "App met filterstatus en luchtkwaliteit"
+        "CADR van 410 m³/u, geschikt tot 100 m²",
+        "H13 HEPA-filter vangt volgens Winix 99,999% van de deeltjes tot 0,1 micron",
+        "Fijnstofsensor met kleurcode en automatische stand",
+        "Nachtstand dimt de verlichting of zet die uit"
       ],
       "cons": [
-        "Groot voor een gewone slaapkamer",
-        "Duurder dan de PureProtect 3200 met een vergelijkbare CADR"
+        "Duurder dan de PureProtect 3200, die meer capaciteit heeft",
+        "PlasmaWave-ionisator is niet voor iedereen nodig"
       ],
-      "ideal": "Wie met allergie een grote woonkamer of open keuken snel wil zuiveren.",
-      "text": "Waar de meeste reinigers in deze lijst gemaakt zijn voor de slaapkamer, is de Philips 3000i Series AC3033/10 bedoeld voor de grootste ruimte in huis. Met een CADR van ongeveer 520 m³/u ververst hij de lucht in een woonkamer van 40 m² vele keren per uur. Dat is handig als je met een hond of kat leeft, omdat huidschilfers steeds opnieuw in de lucht komen.\n\nHij gebruikt een NanoProtect HEPA-filter met een laag actieve kool tegen geurtjes. Een sensor meet fijnstof en past de snelheid automatisch aan. In de allergiestand reageert hij extra snel op pollen en huisstof. Via de app zie je de luchtkwaliteit en hoe lang het filter nog meegaat. 's Nachts zakt hij naar ongeveer 33 dB en dimmen de lampjes. Op bol scoort hij een 4,3. Voor een gewone slaapkamer is hij te groot. Heb je een groot open huis en allergie, dan is dit een sterke keuze.",
-      "ean": "8720389002069",
-      "bol_title": "Philips 3000i Series AC3033/10 - Luchtreiniger met HEPA Filter voor XL-ruimten - 520 m³/u - Wit / Grijs - App Connected",
-      "url": "https://www.bol.com/nl/nl/p/philips-luchtzuiveraar-zuivert-de-lucht-in-ruimten-tot-135-m/9200000115917234/",
-      "image": "https://media.s-bol.com/Yx89BrLw718A/x3ExgP/500x840.jpg",
+      "ideal": "Wie met allergie een grote woonkamer of open keuken wil zuiveren.",
+      "text": "De Winix Zero-s is gemaakt voor de grotere ruimtes in huis. Met een CADR van 410 m³/u is hij volgens Winix geschikt voor ruimtes tot 100 m², dus ook voor een woonkamer met open keuken. Dat is handig als je met een hond of kat leeft, omdat huidschilfers steeds opnieuw in de lucht komen.\n\nDe lucht gaat door een voorfilter voor grof stof en haren, een actief koolfilter tegen geurtjes en een H13 HEPA-filter. Volgens Winix houdt dat filter 99,999% van de deeltjes tot 0,1 micrometer tegen en is het antibacterieel behandeld. Daarnaast heeft hij PlasmaWave, een vorm van ionisatie. Een fijnstofsensor toont de luchtkwaliteit met een kleurcode en in de automatische stand past hij de snelheid zelf aan. In de nachtstand draait hij zo stil mogelijk en dimt hij de verlichting of zet die uit. Op bol staat hij op een 4,7. Hij is duurder dan de PureProtect 3200, die meer capaciteit heeft. Voor een grote ruimte met allergie is dit toch een sterke keuze.",
+      "ean": "8809490584234",
+      "bol_title": "Winix Zero-s - Luchtreiniger Air Purifier met vervangbaar Hepa + Koolstoffilter + PlasmaWave Technologie - Cadr 410m³ p/u en tot 100m² - Getest en Gecertificeerd op Hooikoorts, Allergie en Fijnstof - Auto-mode, Slaap-mode en Luchtkwaliteit indicator",
+      "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-zero-s-luchtreiniger-met-hepa-filter-en-plasmawave-technologie-410m3-h/9300000144873227/",
+      "image": "https://media.s-bol.com/7wvpKkQpO7Xr/qgm3g3/545x840.jpg",
       "ph": {
-        "2026-10-27": 349.0,
-        "2026-10-28": 349.0,
-        "2026-10-29": 349.0,
-        "2026-10-30": 349.0,
-        "2026-10-31": 349.0,
-        "2026-11-01": 349.0,
-        "2026-11-02": 349.0,
-        "2026-11-03": 349.0,
-        "2026-11-04": 349.0,
-        "2026-11-05": 349.0,
-        "2026-11-06": 349.0,
-        "2026-11-07": 349.0,
-        "2026-11-08": 349.0,
-        "2026-11-09": 349.0,
-        "2026-11-10": 349.0,
-        "2026-11-11": 349.0,
-        "2026-11-12": 349.0,
-        "2026-11-13": 349.0,
-        "2026-11-14": 349.0,
-        "2026-11-16": 349.0,
-        "2026-11-17": 349.0,
-        "2026-11-18": 349.0
+        "2026-11-18": 307.78
       },
-      "low_price": 349.0,
-      "synced": "2026-11-18",
-      "ph_ean": "8720389002069",
-      "rating": 4.3
+      "low_price": 307.78,
+      "ph_ean": "8809490584234",
+      "rating": 4.7,
+      "synced": "2026-11-18"
     },
     {
-      "brand": "Winix",
-      "name": "5300-2",
-      "price": 129.0,
+      "brand": "Philips",
+      "name": "PureProtect 700 Series AC0721/13",
+      "price": 90.5,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
-      "oneliner": "Veel capaciteit voor weinig geld, gecertificeerd voor hooikoorts en allergie.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "Compacte, zuinige Philips met app en een stille slaapstand.",
       "specs": {
-        "CADR": "390 m³/u",
-        "Ruimte": "tot 99 m²",
-        "Filter": "HEPA + koolstof",
-        "Geluid": "vanaf ca. 27 dB",
-        "Slaapstand": "ja, lampjes uit"
+        "CADR": "180 m³/u",
+        "Ruimte": "tot 75 m²",
+        "Filter": "3-laags HEPA + actieve kool",
+        "Geluid": "vanaf ca. 11 dB",
+        "Slaapstand": "ja, display gedimd"
       },
       "pros": [
-        "CADR van 390 m³/u voor rond de 130 euro",
-        "Gecertificeerd door ECARF en Allergy UK",
-        "Lichtsensor schakelt vanzelf naar de nachtstand",
-        "Filterset met HEPA en vier koolstoffilters"
+        "Slaapstand van 11 dB volgens Philips",
+        "ECARF-gecertificeerd allergievriendelijk",
+        "Origineel filter gaat volgens Philips 3 jaar mee",
+        "Philips Air+-app, ook met Alexa en Google Assistant"
       ],
       "cons": [
-        "PlasmaWave-ionisator moet je zelf uitzetten als je dat liever niet wilt",
-        "Geen app of wifi"
+        "CADR van 180 m³/u is bescheiden voor een grote woonkamer",
+        "Geen afstandsbediening"
       ],
-      "ideal": "Wie met allergie veel filtercapaciteit wil voor een beperkt budget.",
-      "text": "De Winix 5300-2 biedt een CADR van 390 m³/u voor ongeveer 130 euro. Dat is veel capaciteit voor het geld en maakt hem geschikt voor een woonkamer tot ongeveer 99 m². Het filtersysteem combineert een voorfilter, een koolstoffilter en een HEPA-laag die volgens Winix deeltjes tot 0,1 micron vangt. Het apparaat is gecertificeerd door ECARF en Allergy UK voor gebruik bij hooikoorts en allergie.\n\nDe 5300-2 heeft ook PlasmaWave, een vorm van ionisatie. Die kun je met één knop uitzetten als je alleen mechanisch wilt filteren. De luchtkwaliteitssensor schakelt in de automatische stand zelf op als er meer pollen of stof in de lucht zitten. In de slaapstand draait hij op 27,4 dB en een lichtsensor dimt de lampjes. Een app of wifi heeft hij niet. Op bol staat hij op een 4,7. Qua prestaties per euro hoort hij bij de besten in deze lijst.",
-      "ean": "8809490585408",
-      "bol_title": "Winix 5300-2 - Luchtreiniger Air Purifier met vervangbaar Hepa + Koolstoffilter + PlasmaWave Technologie - Cadr 390m³ p/u en tot 99m² - Getest en Gecertificeerd op Hooikoorts, Allergie en Fijnstof, Auto en Slaapstand, Timer, Luchtkwaliteit indicator",
-      "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-5300-2-luchtreiniger-met-hepa-filter-en-plasmawave-technologie-cadr-390m-p-u-en-voor-99m-gecertificeerd-op-hooikoorts-allergieen-en-fijnstof-auto-mode-timer-slaap-mode-en-luchtkwaliteit-indicator/9300000228503657/",
-      "image": "https://media.s-bol.com/7rDPk1OWONor/J6M5g7D/529x840.jpg",
+      "ideal": "Wie met allergie een slaapkamer of werkkamer wil zuiveren voor een lage prijs.",
+      "text": "De Philips PureProtect 700 is een compacte luchtreiniger van 34 centimeter hoog die weinig ruimte inneemt. Met een CADR van 180 m³/u is hij volgens Philips geschikt voor ruimtes tot 75 m², al haal je in een slaapkamer of werkkamer het meeste uit hem. Hij verbruikt maar 14 watt, dus je laat hem zonder zorgen dag en nacht aanstaan.\n\nHet filter heeft drie lagen: een voorfilter, een HEPA NanoProtect-laag en actieve kool tegen geurtjes. Volgens Philips vangt het 99,97% van de deeltjes tot 0,003 micron en is het apparaat ECARF-gecertificeerd allergievriendelijk. Het originele filter gaat volgens Philips drie jaar mee en het apparaat waarschuwt als vervangen nodig is. In de slaapstand draait hij op 11 dB en dimt het display. Via de Air+-app stel je schema's en timers in, ook met Alexa of Google Assistant. Op bol staat hij op een 4,4. Voor een grote woonkamer is de capaciteit bescheiden, daar past een model hoger in de lijst beter.",
+      "ean": "8720389081132",
+      "bol_title": "Philips PureProtect 700 Series, Luchtreiniger - CADR 180 m3/u, Ruimtes tot 75 m2, 3 Laags HEPA Filtratie, Air+ App, Ultrastil, Sfeerverlichting - Donkergrijs, AC0721/13",
+      "url": "https://www.bol.com/nl/nl/p/philips-pureprotect-700-series-luchtreiniger-cadr-180-m3-u-ruimtes-tot-75-m2-3-laags-hepa-filtratie-air-app-ultrastil-sfeerverlichting-donkergrijs-ac0721-13/9300000330994908/",
+      "image": "https://media.s-bol.com/N4nN4Qn6qAyN/AN9JAGO/550x726.jpg",
       "ph": {
-        "2026-10-26": 129.0,
-        "2026-10-27": 129.0,
-        "2026-10-28": 129.0,
-        "2026-10-29": 129.0,
-        "2026-10-30": 129.0,
-        "2026-10-31": 129.0,
-        "2026-11-01": 129.0,
-        "2026-11-02": 129.0,
-        "2026-11-03": 129.0,
-        "2026-11-04": 129.0,
-        "2026-11-05": 129.0,
-        "2026-11-06": 129.0,
-        "2026-11-07": 129.0,
-        "2026-11-08": 129.0,
-        "2026-11-09": 129.0,
-        "2026-11-10": 129.0,
-        "2026-11-11": 129.0,
-        "2026-11-12": 129.0,
-        "2026-11-13": 129.0,
-        "2026-11-14": 129.0,
-        "2026-11-16": 129.0,
-        "2026-11-17": 129.0
+        "2026-11-18": 90.5
       },
-      "low_price": 129.0,
-      "synced": "2026-11-18",
-      "ph_ean": "8809490585408",
-      "rating": 4.7
+      "low_price": 90.5,
+      "ph_ean": "8720389081132",
+      "rating": 4.4,
+      "synced": "2026-11-18"
     },
     {
       "brand": "Xiaomi",
@@ -700,7 +658,7 @@
     },
     {
       "q": "Werkt een luchtreiniger bij een allergie voor katten of honden?",
-      "a": "Ja, een HEPA-filter vangt huidschilfers van huisdieren. Omdat die steeds opnieuw in de lucht komen, heb je een ruime CADR nodig. Een reiniger als de Philips 3000i of de Winix 5300-2 is geschikt voor een woonkamer met huisdieren. Houd het dier ook buiten de slaapkamer."
+      "a": "Ja, een HEPA-filter vangt huidschilfers van huisdieren. Omdat die steeds opnieuw in de lucht komen, heb je een ruime CADR nodig. Een reiniger als de Philips PureProtect 3200 of de Winix Zero-s is geschikt voor een woonkamer met huisdieren. Houd het dier ook buiten de slaapkamer."
     },
     {
       "q": "Hoe groot moet de CADR zijn bij allergie?",
@@ -736,5 +694,19 @@
     "beste-luchtreiniger-katten",
     "beste-luchtreiniger-slaapkamer",
     "beste-luchtontvochtiger"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-18",
+      "uit": "Winix 5300-2",
+      "in": "Philips PureProtect 700 Series AC0721/13",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-18",
+      "uit": "Philips 3000i Series AC3033/10",
+      "in": "Winix Zero-s",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

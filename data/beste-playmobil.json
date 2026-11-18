@@ -264,41 +264,40 @@
     },
     {
       "brand": "PLAYMOBIL",
-      "name": "Magische Eenhoorns Feeënhuis 71838",
-      "price": 35.99,
+      "name": "Princess Magic Feeën met bosdieren 71800",
+      "price": 29.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Feeënhuis met gouden eenhoorn, stal en oplichtende slinger.",
+      "oneliner": "Twee bosfeeën met hert, konijnen en vogels in een sprookjesbos.",
       "specs": {
         "Serie": "Princess Magic",
-        "Setnummer": "71838",
+        "Setnummer": "71800",
         "Leeftijd fabrikant": "4+",
-        "Thema": "Fantasie en eenhoorns",
+        "Thema": "Fantasie en bosdieren",
         "Soort cadeau": "Middelgroot cadeau"
       },
       "pros": [
-        "Oplichtende slinger geeft het huis extra sfeer",
-        "Eenhoorn en stal zitten erbij",
-        "Betaalbaar voor een complete fantasieset",
-        "Uit te breiden met de losse Magische Eenhoorns 71839"
+        "Twee feeën met afneembare vleugels",
+        "Hert, twee konijnen en twee vogels met beweegbare koppen",
+        "Boom en boomstronk maken het tafereel compleet",
+        "Prijs onder de 30 euro"
       ],
       "cons": [
-        "Lichtje werkt op batterijen",
-        "Thema spreekt niet elk kind aan"
+        "Geen huis of gebouw, het is een open speeltafereel",
+        "Kleine onderdelen zoals bloemen raken snel zoek"
       ],
-      "ideal": "Kinderen vanaf 4 jaar die van feeën, eenhoorns en fantasieverhalen houden.",
-      "text": "Het Feeënhuis met gouden eenhoorn 71838 is de fantasieset in deze vergelijking. Je krijgt een feeënhuis, een stal en een gouden eenhoorn. De slinger licht op, wat het huis in een donkere kamer net wat magischer maakt. Playmobil adviseert de set vanaf 4 jaar.\n\nMet ongeveer 36 euro zit de set mooi tussen een schoencadeau en een groot hoofdcadeau in. Wil je later uitbreiden, dan zijn de losse Magische Eenhoorns 71839 voor ongeveer 19 euro een logische tweede set, bijvoorbeeld voor in de schoen. Het thema spreekt veel kinderen aan die van feeën en dieren houden, los van of het een jongen of een meisje is. Er zijn ook nadelen: het lichtje heeft batterijen nodig en heeft je kind meer met politie of piraten, dan valt deze set minder in de smaak. Voor kinderen die graag rustig fantasieverhalen spelen is het een fijne set die ook mooi in de kamer staat.",
-      "ean": "4008789718389",
-      "bol_title": "PLAYMOBIL Magische Eenhoorns - Feeënhuis met gouden eenhoorn en stal - Met oplichtende slinger voor magische nachten - 71838",
-      "url": "https://www.bol.com/nl/nl/p/gezellig-sprookjeshuis-met-gouden-eenhoorn-en-stal/9300000225695636/",
-      "image": "https://media.s-bol.com/k1O8KoGN08mN/pgpBXDy/550x394.jpg",
+      "ideal": "Kinderen vanaf 4 jaar die van feeën, dieren en fantasieverhalen houden.",
+      "text": "De Feeën met bosdieren 71800 is de fantasieset in deze vergelijking. In de doos zitten twee bosfeeën, een hert, twee konijnen en twee vogels. Een van de feeën versiert het gewei van het hert met gekleurde bloemen, terwijl de ander de dieren voert. Een boom, een boomstronk en voederspullen maken het bostafereel compleet. De koppen van het hert en de andere dieren kunnen bewegen en de vleugels van de feeën zijn afneembaar.\n\nPlaymobil adviseert de set vanaf 4 jaar. Het is een starterset uit de serie Princess Magic, dus er zit geen huis of kasteel bij. Dat maakt hem wel overzichtelijk voor jonge kinderen, die er direct mee aan de slag kunnen. Met ongeveer 30 euro zit de set tussen een schoencadeau en een groot hoofdcadeau in. Op bol staat hij op een 5,0. Wil je later uitbreiden, dan passen andere sets uit Princess Magic er goed bij. Let wel op de kleine bloemen en voederspullen: die raak je snel kwijt.",
+      "ean": "4008789718006",
+      "bol_title": "PLAYMOBIL Starter Packs Princess Magic Feeën met bosdieren 71800",
+      "url": "https://www.bol.com/nl/nl/p/playmobil-startpakket-feeen-met-schattige-bosdieren-p-71800/9300000196418764/",
+      "image": "https://media.s-bol.com/j419EwN7GorW/xGV4wNJ/550x463.jpg",
       "ph": {
-        "2026-11-17": 35.99,
-        "2026-11-18": 35.99
+        "2026-11-18": 29.99
       },
-      "low_price": 35.99,
-      "ph_ean": "4008789718389",
+      "low_price": 29.99,
+      "ph_ean": "4008789718006",
       "rating": 5.0,
       "synced": "2026-11-18"
     },
@@ -456,7 +455,7 @@
     },
     {
       "q": "Welke Playmobil is goed voor een kind van 4 jaar?",
-      "a": "Voor een kind van 4 jaar zijn de grote school, het SWAT-voertuig, het feeënhuis en het kattencafé goede keuzes. Ze zijn allemaal volgens de fabrikant geschikt vanaf 4 jaar en hebben een thema dat jonge kinderen direct snappen."
+      "a": "Voor een kind van 4 jaar zijn de grote school, het SWAT-voertuig, de feeën met bosdieren en het kattencafé goede keuzes. Ze zijn allemaal volgens de fabrikant geschikt vanaf 4 jaar en hebben een thema dat jonge kinderen direct snappen."
     },
     {
       "q": "Welke Playmobil is een goed schoencadeau?",
@@ -471,5 +470,13 @@
     "beste-lego",
     "beste-cadeau-5-jarige",
     "beste-kerstcadeau-voor-kinderen"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-18",
+      "uit": "PLAYMOBIL Magische Eenhoorns Feeënhuis 71838",
+      "in": "PLAYMOBIL Princess Magic Feeën met bosdieren 71800",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

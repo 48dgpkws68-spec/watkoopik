@@ -1,17 +1,4 @@
 {
  "datum": "2026-11-18",
- "overtreders": [
-  {
-   "slug": "beste-kerstcadeau-onder-25-euro",
-   "grens": 25,
-   "plek": 8,
-   "product": "Ølav North Kruik met Nordic Fur hoes",
-   "prijs": 25.0,
-   "ean": "8720938994104",
-   "laagste_30d": 19.95,
-   "dagen_boven": 1,
-   "dagen_gemeten": 11,
-   "reden": "boven grens"
-  }
- ]
+ "overtreders": []
 }

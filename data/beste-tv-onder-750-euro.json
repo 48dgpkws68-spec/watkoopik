@@ -46,7 +46,7 @@
     },
     {
       "h": "Gamen met een PS5 of Xbox",
-      "p": "Voor 120 fps-games heb je een tv met minstens 120 Hz en HDMI 2.1 nodig. In deze lijst zijn dat de Samsung QE55QN82H, de Hisense 65E8S, de TCL 65Q6C en 65T8D en de Xiaomi TV S Pro Mini LED. VRR voorkomt haperingen en ALLM zet de gamemodus automatisch aan. Tv's met 60 Hz zijn prima voor wie af en toe speelt."
+      "p": "Voor 120 fps-games heb je een tv met minstens 120 Hz en HDMI 2.1 nodig. In deze lijst zijn dat de Samsung QE55QN82H, de Hisense 65E8S, de TCL 65Q6C, de Hisense 65E7S PRO en de Xiaomi TV S Pro Mini LED. VRR voorkomt haperingen en ALLM zet de gamemodus automatisch aan. Tv's met 60 Hz zijn prima voor wie af en toe speelt."
     },
     {
       "h": "Black Friday: kijk naar de prijsgeschiedenis",
@@ -68,7 +68,7 @@
     },
     {
       "q": "Is een tv onder 750 euro goed voor de PS5?",
-      "a": "Zeker. De Samsung QE55QN82H, Hisense 65E8S, TCL 65Q6C, TCL 65T8D en Xiaomi TV S Pro Mini LED hebben 120 Hz of meer met HDMI 2.1. Daarmee speel je games op 120 fps met VRR. De TCL 65C6KS, de twee Philips-tv's en de Sony in deze lijst draaien op 60 Hz en zijn geschikter voor wie af en toe gamet."
+      "a": "Zeker. De Samsung QE55QN82H, Hisense 65E8S, TCL 65Q6C, Hisense 65E7S PRO en Xiaomi TV S Pro Mini LED hebben 120 Hz of meer met HDMI 2.1. Daarmee speel je games op 120 fps met VRR. De TCL 65C6KS, de twee Philips-tv's en de Sony in deze lijst draaien op 60 Hz en zijn geschikter voor wie af en toe gamet."
     },
     {
       "q": "Wanneer koop je een tv onder 750 euro het voordeligst?",
@@ -285,45 +285,43 @@
       "rating": 4.8
     },
     {
-      "brand": "TCL",
-      "name": "65T8D",
-      "price": 699.0,
+      "brand": "Hisense",
+      "name": "65E7S PRO",
+      "price": 669.0,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Nieuw 2026-model met QD-Mini LED en 144 Hz.",
+      "reviews": "bol-score 4,8 van 5",
+      "oneliner": "65 inch Hi-QLED uit 2026 met native 144 Hz voor gamers.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "QD-Mini LED",
+        "Paneel": "Hi-QLED",
         "Verversing": "144 Hz",
-        "HDR": "Dolby Vision, HDR10",
-        "Smart-tv": "Google TV"
+        "HDR": "Dolby Vision IQ",
+        "Smart-tv": "VIDAA"
       },
       "pros": [
-        "Model uit 2026",
-        "Mini LED en 144 Hz",
-        "Slank randloos ontwerp",
-        "Google TV met spraakbediening"
+        "Native 144 Hz met AMD FreeSync Premium",
+        "Dolby Vision IQ en Dolby Atmos",
+        "Ingebouwde subwoofer",
+        "AirPlay en HomeKit"
       ],
       "cons": [
-        "Geen HDR10+",
-        "Weinig verschil met de goedkopere Q6C"
+        "Geen Mini LED, dus minder diep zwart",
+        "VIDAA heeft minder apps dan Google TV"
       ],
-      "ideal": "Wie een nieuw 65 inch model met Google TV wil.",
-      "text": "De TCL 65T8D is een van de nieuwste tv's in deze lijst en verschijnt in 2026 bij bol. Het is een 65 inch QD-Mini LED met een 144 Hz-paneel, wat hem zowel voor films als voor games geschikt maakt. De AiPQ-processor past helderheid, scherpte en beweging continu aan op wat je kijkt.\n\nHij ondersteunt Dolby Vision en HDR10, maar geen HDR10+. Dat merk je vooral bij Prime Video, dat HDR10+ gebruikt. Google TV zorgt voor een overzichtelijk menu met alle Nederlandse apps en spraakbediening via de afstandsbediening. Het ontwerp is slank en bijna randloos, mooi als je hem aan de muur hangt. Kopers op bol geven hem tot nu toe de volle 5 sterren. Twijfel je tussen deze en de 65Q6C: ze kosten op dit moment hetzelfde. De Q6C heeft HDR10+ en vier HDMI-poorten, de T8D is nieuwer en strakker vormgegeven.",
-      "ean": "5901292531065",
-      "bol_title": "TCL 65T8D - 65 inch - 4K QD-MiniLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65t8d-65-inch-4k-qd-miniled-2026-smart-tv/9300000273452867/",
-      "image": "https://media.s-bol.com/90P0oJA57yK8/z6Q6Y45/550x342.jpg",
+      "ideal": "Gamers die een groot 65 inch scherm met 144 Hz willen onder 700 euro.",
+      "text": "De Hisense 65E7S PRO is een 65 inch tv uit 2026 die zich vooral op gamers richt. Het paneel haalt native 144 Hz en werkt samen met AMD FreeSync Premium en VRR. Dat geeft vloeiend beeld zonder scheuren als je een PS5, Xbox Series X of gaming-pc aansluit. De Hi-QLED-kleurlaag zorgt voor vollere kleuren dan een gewone led-tv. Mini LED heeft hij niet, dus in een donkere kamer is zwart minder diep dan bij de Mini LED-modellen in deze lijst.\n\nVoor films ondersteunt hij Dolby Vision IQ, dat het beeld aanpast aan het licht in je kamer. Voor geluid is er Dolby Atmos. Er zit een subwoofer in de tv, wat de bas voller maakt dan bij de meeste slanke tv's. AI Picture, de AI 4K Upscaler en AI Smooth Motion verbeteren beelden automatisch. Het systeem is VIDAA met spraakbediening, plus AirPlay en HomeKit voor wie Apple gebruikt. Kopers op bol geven hem een 4,8 van 5.",
+      "ean": "6942351432595",
+      "bol_title": "Hisense 65E7S PRO SmartTV - 65 inch - 4K Hi-QLED - 2026 - Native 144Hz Game Mode - Hi-QLED Colour - Built-in Subwoofer - AI Picture - AI Smooth Motion - AMD FreeSync Premium - Dolby Vision Atmos",
+      "url": "https://www.bol.com/nl/nl/p/hisense-65e7s-pro-smarttv-65-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000269685075/",
+      "image": "https://media.s-bol.com/B3p8xXVvD4Mx/lR8w8El/550x369.jpg",
       "ph": {
-        "2026-11-16": 699.0,
-        "2026-11-17": 699.0,
-        "2026-11-18": 699.0
+        "2026-11-18": 669.0
       },
-      "low_price": 699.0,
-      "ph_ean": "5901292531065",
-      "synced": "2026-11-18",
-      "rating": 5.0
+      "low_price": 669.0,
+      "ph_ean": "6942351432595",
+      "rating": 4.8,
+      "synced": "2026-11-18"
     },
     {
       "brand": "Philips",
@@ -493,6 +491,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-18",
+      "uit": "TCL 65T8D",
+      "in": "Hisense 65E7S PRO",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-16",
       "uit": "LG 65QNED84A6C",

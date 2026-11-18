@@ -18,6 +18,7 @@ Taalregels (de build breekt af bij overtreding):
 - Nooit "getest" of "wij hebben getest": wij vergelijken op specificaties en reviews.
 - Reviewcijfers in de tekst (sinds 17 nov 2026): noem nooit een aantal reviews ("ruim 4.000 reviews"), bol geeft geen aantal. Een score ("4,6 van 5") alleen als die gelijk is aan de echte bol-score in het veld rating (bol_sync); bij twijfel weglaten. Ook geen "best verkochte" of "meest beoordeelde" zonder bron. De build telt afwijkingen: "Reviewclaims: N" (tools/claim_check.py).
 - Geen menigteclaims (sinds 18 nov 2026): nooit "wat duizenden gebruikers melden", "honderden reviews", "de ervaringen van tienduizenden kopers". Niemand heeft die gelezen en bol geeft geen aantal. Schrijf "de score bij bol" of noem de echte bol-score. tools/claim_check.py telt ze als menigteclaim; de build moet "Reviewclaims: 0" geven.
+- Geen aantal vergeleken modellen (sinds 18 nov 2026): nooit "wij vergeleken tientallen modellen" of "ruim dertig modellen". Schrijf "wij vergeleken de modellen die nu bij bol te koop zijn". Het aantal in de lijst (top 10) mag wel.
 - Alleen echte, bestaande producten met echte modelnamen die in Nederland (bol) te koop zijn. Geen verzonnen modellen.
 - Prijzen afronden op hele euro's of ,95/,99 zoals winkels doen.
 - Geen "2025" in titels, alleen 2026.

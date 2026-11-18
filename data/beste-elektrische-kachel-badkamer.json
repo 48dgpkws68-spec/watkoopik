@@ -452,65 +452,43 @@
       "rating": 5.0
     },
     {
-      "brand": "Rowenta",
-      "name": "SO6511F2 ventilatorkachel",
-      "price": 60.0,
+      "brand": "De'Longhi",
+      "name": "Capsule Hobby HFS30C24.DG ventilatorkachel",
+      "price": 69.34,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Simpele, spatwaterdichte ventilatorkachel van 2200 watt.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Compacte ventilatorkachel van 2400 watt met IP21 en stoffilter.",
       "specs": {
         "Type": "Ventilator, staand",
-        "Vermogen": "1200/2200 W",
+        "Vermogen": "2400 W",
         "IP-klasse": "IP21",
         "Montage": "Staand",
         "Bediening": "Knoppen, thermostaat"
       },
       "pros": [
-        "2200 watt voor ruimtes tot 25 m²",
-        "IP21, geschikt voor de badkamer buiten het spatbereik",
-        "Eenvoudige bediening met twee standen",
-        "Veel reviews en een bekend merk"
+        "2400 watt in een klein apparaat",
+        "IP21, beschermd tegen vallende druppels",
+        "Uitwasbaar stoffilter",
+        "Voet met twee posities voor gerichte warmte"
       ],
       "cons": [
-        "Geen timer, afstandsbediening of app",
-        "Ventilator is hoorbaar"
+        "Geen timer of app",
+        "Niet voor plaatsing binnen het spatbereik van douche of bad"
       ],
-      "ideal": "Wie zonder gedoe een goedkope, betrouwbare kachel voor de badkamer zoekt.",
-      "text": "De Rowenta SO6511F2 is de eenvoudige keuze: stekker erin, knop om en binnen een minuut voel je warme lucht. Hij heeft twee warmtestanden van 1200 en 2200 watt en een thermostaat die de temperatuur vasthoudt. Volgens Rowenta is dat genoeg voor ruimtes tot 25 m², dus voor een badkamer heb je vermogen over.\n\nDankzij IP21 kan hij tegen een druppel water, maar zet hem wel buiten het bereik van douche en bad. Je mist de luxe van de duurdere modellen: geen timer, geen afstandsbediening en geen app. Je zet hem dus aan als je de badkamer in loopt en uit als je weggaat. In ruil daarvoor betaal je weinig en krijg je een kachel die kopers op bol vooral om de betrouwbaarheid en de snelle warmte waarderen. Het geluid van de ventilator is het meest genoemde minpunt. Na de winter neemt hij weinig ruimte in de kast in.",
-      "ean": "3121040089606",
-      "bol_title": "Rowenta SO6511F2 - Ventilatorkachel - 2200W - Grijs - IP21 - Geschikt voor Badkamers - 2 Warmtestanden",
-      "url": "https://www.bol.com/nl/nl/p/instant-comfort-so6511-badkamer-ventilatorkachel/9300000160793059/",
-      "image": "https://media.s-bol.com/EoXm8vl201kv/3l91kjM/550x578.jpg",
+      "ideal": "Wie een kleine, betaalbare kachel zoekt die een badkamer snel opwarmt.",
+      "text": "De De'Longhi Capsule Hobby is een compacte staande ventilatorkachel van 2400 watt. Je kiest uit twee warmtestanden en met de thermostaat houdt hij de ingestelde temperatuur vast. Er is ook een vorstbeveiligingsstand, handig voor een badkamer of bijkeuken die in de winter koud blijft. De voet heeft twee posities, zodat je de warme lucht precies richt waar je hem nodig hebt.\n\nDankzij IP21 is de kachel beschermd tegen vallende waterdruppels. Zet hem wel buiten het bereik van douche en bad, zoals bij elke staande kachel. Een uitwasbaar stoffilter houdt fijn stof tegen, wat de lucht schoner houdt en de kachel langer laat meegaan. Er is een beveiliging tegen omvallen en oververhitting. Een timer of app ontbreekt, dus je zet hem zelf aan en uit. Op bol heeft hij een score van 5,0 van 5. Voor wie een simpele, krachtige kachel wil voor korte momenten in de badkamer is dit een nette keuze voor rond de 70 euro.",
+      "ean": "8004399143470",
+      "bol_title": "De’Longhi Capsule Hobby - Ventilatorkachel met IP21-druppelbeveiliging en gerichte warmte - Donkergrijs - HFS30C24.DG",
+      "url": "https://www.bol.com/nl/nl/p/delonghi-hfs-30-c-24-days/9300000016236720/",
+      "image": "https://media.s-bol.com/rm47rW9zQgxW/550x644.jpg",
       "ph": {
-        "2026-10-25": 60.0,
-        "2026-10-26": 60.0,
-        "2026-10-27": 60.0,
-        "2026-10-28": 60.0,
-        "2026-10-29": 60.0,
-        "2026-10-30": 60.0,
-        "2026-10-31": 60.0,
-        "2026-11-01": 60.0,
-        "2026-11-02": 60.0,
-        "2026-11-03": 60.0,
-        "2026-11-04": 60.0,
-        "2026-11-05": 60.0,
-        "2026-11-06": 60.0,
-        "2026-11-07": 60.0,
-        "2026-11-08": 60.0,
-        "2026-11-09": 60.0,
-        "2026-11-10": 60.0,
-        "2026-11-11": 60.0,
-        "2026-11-12": 60.0,
-        "2026-11-13": 60.0,
-        "2026-11-14": 60.0,
-        "2026-11-16": 60.0,
-        "2026-11-17": 60.0
+        "2026-11-18": 69.34
       },
-      "low_price": 60.0,
-      "synced": "2026-11-18",
-      "ph_ean": "3121040089606",
-      "rating": 4.3
+      "low_price": 69.34,
+      "ph_ean": "8004399143470",
+      "rating": 5.0,
+      "synced": "2026-11-18"
     },
     {
       "brand": "Auronic",
@@ -695,5 +673,13 @@
     "beste-voetenwarmer"
   ],
   "meta_title": "Beste badkamerkachel 2026: veilig en snel warm",
-  "meta_desc": "De beste elektrische kachel voor de badkamer van 2026 is de {top}. Top 10 badkamerkachels vergeleken op IP-klasse, vermogen, timer en prijs."
+  "meta_desc": "De beste elektrische kachel voor de badkamer van 2026 is de {top}. Top 10 badkamerkachels vergeleken op IP-klasse, vermogen, timer en prijs.",
+  "wissels": [
+    {
+      "d": "2026-11-18",
+      "uit": "Rowenta SO6511F2 ventilatorkachel",
+      "in": "De'Longhi Capsule Hobby HFS30C24.DG ventilatorkachel",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }
