@@ -1190,10 +1190,15 @@ if BF_N:
                 _cg[0].lower(), _pp(_cg[3], _cg[1]), _cd[0].lower(), _pp(_cd[4], _cd[1]))) if _cg and _cd and _cg[0] != _cd[0] else ""
             _top = (" De grootste stijger staat nu %d procent boven zijn prijs van de weken ervoor." % round(_rises[0]["ch"] * 100)) if _rises else ""
             _jz = ("Opvallend zijn de jojoprijzen. Van de %d producten die minstens 10 procent onder hun mediaan staan, kostten er %d in de dertig dagen ervoor al eens hetzelfde of minder. Zo'n prijs springt heen en weer tussen twee bedragen, vaak doordat de verkoper wisselt, en lijkt daardoor telkens opnieuw een aanbieding.\n\n" % (len(_drops), len(_jojo))) if _jojo else ""
+            try:
+                _mx = subprocess.run(["dig", "+short", "MX", "watkoopik.nl", "@1.1.1.1"], capture_output=True, text=True, timeout=8).stdout.strip()
+            except Exception:
+                _mx = "?"
+            _mxw = "" if _mx else "\n**LET OP (groeimotor, automatische check): hallo@watkoopik.nl ontvangt geen mail, watkoopik.nl heeft geen MX-record.** Antwoorden van journalisten komen nu nergens aan. Zet vóór verzenden een werkend adres onderaan het bericht (of regel doorsturen voor hallo@watkoopik.nl in GoDaddy/Cloudflare). Deze regel verdwijnt vanzelf zodra er een MX-record is.\n"
             _pers = """# Persbericht Black Friday (cijfers van %s)
 
 Dit bestand wordt bij elke build van watkoopik herschreven met de cijfers van die dag. Niets is verstuurd. De pagina met dezelfde cijfers: %s
-
+%s
 ## Persbericht
 
 **Maar %s van de producten bij bol is %s echt goedkoper**
@@ -1213,7 +1218,7 @@ Meer informatie: %s · hallo@watkoopik.nl
 - RTL Nieuws (consument): "Nieuwe cijfers voor Black Friday: %s van de producten bij bol is nu echt 10 procent goedkoper dan de maand ervoor, %s is juist duurder. Dagelijks bijgewerkt, ook op de dag zelf."
 - NU.nl (economie/tech): "Korte datastory voor de Black Friday-week: per categorie hoeveel producten echt goedkoper of duurder zijn, op basis van eigen dagelijkse prijsmetingen bij bol. Grafiek en CSV vrij te gebruiken."
 - Bright: "Jojoprijzen bij bol: %d van de %d producten die nu in de aanbieding lijken, kostten de afgelopen maand al eens hetzelfde of minder. Lijst per model met prijs nu en laagste prijs: %s"
-""" % (nldate(TODAY.isoformat()), _url, _pp(len(_streng)), _wanneer, nldate(BF_FIRST), _wanneer, _pp(len(_streng)), BF_N, _pp(BF_CNT["echt"]), _pp(BF_CNT["duur"]), len(_rises), _top,
+""" % (nldate(TODAY.isoformat()), _url, _mxw, _pp(len(_streng)), _wanneer, nldate(BF_FIRST), _wanneer, _pp(len(_streng)), BF_N, _pp(BF_CNT["echt"]), _pp(BF_CNT["duur"]), len(_rises), _top,
        _jz, _catzin, _url, BF_N, _pp(len(_streng)), _wanneer, _pp(BF_CNT["duur"]), _url, nldate(BF_FIRST), BF_N, len(_rises), _pp(len(_streng)), _pp(BF_CNT["duur"]), len(_jojo), len(_drops), _url)
             open(os.path.join(_pdir, "persbericht.md"), "w", encoding="utf-8").write(_pers)
             print("Persbericht bijgewerkt: groeimotor/persbericht.md")
