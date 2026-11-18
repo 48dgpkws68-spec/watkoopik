@@ -370,3 +370,8 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: tv 48 inch heeft maar 8 producten en #7 Philips 48OLED820 is een zwakke vulling (geen reviews, Ambilight-info tegenstrijdig); mobiele airco #5 Midea PortaSplit 1999 is veruit de duurste zonder label; nieuwe producten zonder bol-score (QE43QN73H, Siemens KF96NVPEA, brennenstuhl, Finlandic taupe, Reolink CX810) later nalopen.
 - Idee voor later: luchtreiniger-allergie staat op positie 74 ondanks meta en FAQ; dit is autoriteit, geen tekst. Kijken of de allergie-gids een vergelijking of prijspagina erbij kan krijgen die ChatGPT oppakt.
 - Voor Nick: niets.
+
+
+## 2026-11-18 groeimotor nacht 04:35 (N45)
+- Gedaan: 97 menigteclaims ("wat duizenden gebruikers melden", "honderden reviews met gemiddeld 4,7 sterren") in 89 gidsen herschreven naar "de score bij bol" of de echte bol-score; 11 scores die sinds 17 nov waren verschoven gelijkgezet met rating. tools/claim_check.py telt menigteclaims nu mee (alle tekstvelden), regel in SCHRIJFREGELS.md. Commit f80b93f5, live gecontroleerd. Waarom: ChatGPT haalt deze gidsen aan; een niet te controleren cijfer valt onder de grens "geen verzonnen cijfers".
+- Niet aangeraakt: "tientallen/ruim dertig modellen vergeleken" in intro's (ook niet te bewijzen; kandidaat voor een volgende ronde).
