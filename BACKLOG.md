@@ -15,7 +15,7 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-playmobil | speelgoed | playmobil | De 10 beste Playmobil-sets van 2026 | 🏰
 # Verbeterronde 17 nov 2026: kerstbomen klikken het best (52 weergaven, 39 bol-kliks in 7 dagen), dus deze 2 eerst
 [ ] beste-kunstkerstboom-180-cm | wonen | kunstkerstboom 180 cm | De 10 beste kunstkerstbomen van 180 cm van 2026 | 🎄
-[ ] beste-kunstkerstboom-onder-100-euro | wonen | kunstkerstboom onder 100 euro | De 10 beste kunstkerstbomen onder 100 euro van 2026 | 🎄
+[x] beste-kunstkerstboom-onder-100-euro | wonen | kunstkerstboom onder 100 euro | De 10 beste kunstkerstbomen onder 100 euro van 2026 | 🎄
 [ ] beste-cadeau-6-jarige | speelgoed | speelgoed 6 jaar | De 10 beste cadeaus voor 6-jarigen van 2026 | 🎁
 [ ] beste-duplo | speelgoed | lego duplo | De 10 beste DUPLO-sets van 2026 | 🧱
 [ ] beste-cadeau-10-jarige | speelgoed | cadeau 10 jaar | De 10 beste cadeaus voor 10-jarigen van 2026 | 🎁
