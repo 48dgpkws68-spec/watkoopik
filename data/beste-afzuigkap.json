@@ -17,7 +17,7 @@
   "updated": "2026-10-20",
   "reviews_total": "710",
   "intro": "Een goede afzuigkap houdt geur, damp en vet uit je keuken en woonkamer. Welke kap je nodig hebt, hangt vooral af van je keuken: open of gesloten, een wand of een kookeiland, afvoer naar buiten of recirculatie. Wij vergeleken afzuigkappen op zuigkracht, geluid, bediening, prijs en wat kopers op bol erover zeggen. Dit zijn de tien beste afzuigkappen die je nu kunt kopen, van een betaalbare onderbouwkap tot een stille topkap voor een open keuken.",
-  "verdict": "De AEG DVK5961HB is de beste afzuigkap voor de meeste keukens: krachtig, breed genoeg voor een grote kookplaat en hij schakelt automatisch mee met een AEG-kookplaat. De Bosch DUL63CC50 is de beste prijs-kwaliteit voor wie een degelijke onderbouwkap zoekt. Wil je het stilste en slimste model, kies dan de Bosch Serie 8 DWK91LT60. Heb je een kookeiland, dan is de Siemens LF98BIP50 de beste keuze.",
+  "verdict": "De AEG DVK5961HB is de beste afzuigkap voor de meeste keukens: krachtig, breed genoeg voor een grote kookplaat en hij schakelt automatisch mee met een AEG-kookplaat. De Bosch DUL63CC50 is de beste prijs-kwaliteit voor wie een degelijke onderbouwkap zoekt. Wil je het stilste en slimste model, kies dan de Bosch Serie 8 DWK91LT60. Heb je een kookeiland, dan is de Bosch Serie 4 DIB97IM50 de beste keuze.",
   "products": [
     {
       "brand": "AEG",
@@ -224,71 +224,43 @@
       "rating": 5.0
     },
     {
-      "brand": "Siemens",
-      "name": "iQ500 LF98BIP50",
-      "price": 910.0,
+      "brand": "Bosch",
+      "name": "Serie 4 DIB97IM50",
+      "price": 999.0,
       "score": 9.0,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Eilandkap van 90 cm met 810 m³/u voor een kookeiland.",
+      "oneliner": "Rvs eilandkap van 90 cm met 754 m³/u en touchbediening.",
       "specs": {
         "Type": "Eilandkap",
         "Breedte": "90 cm",
-        "Max. afzuiging": "810 m³/u",
+        "Max. afzuiging": "754 m³/u",
         "Bediening": "Touch"
       },
       "pros": [
-        "Krachtige afzuiging van 810 m³/u",
+        "Afzuiging tot 754 m³/u met intensiefstand",
         "Hangt vrij boven een kookeiland",
-        "Ledverlichting over de hele kookplaat",
-        "Energieklasse A+"
+        "Vier ledlampen boven de kookplaat",
+        "Aluminium vetfilter mag in de vaatwasser"
       ],
       "cons": [
-        "Montage aan het plafond is lastiger",
-        "Duur, vooral met recirculatieset"
+        "Energieklasse B, minder zuinig dan nieuwere kappen",
+        "Montage aan het plafond is een klus",
+        "Koolstoffilter voor recirculatie zit er niet bij"
       ],
-      "ideal": "Wie een kookeiland heeft en een krachtige kap wil die vrij boven de kookplaat hangt.",
-      "text": "Heb je een kookeiland, dan kun je geen wandkap gebruiken. De Siemens LF98BIP50 uit de iQ500-lijn is een eilandkap van 90 cm die je aan het plafond hangt. Met een maximale afzuiging van 810 kubieke meter per uur is hij de krachtigste kap in deze lijst. Dat is nodig, want boven een eiland trekt damp sneller opzij weg dan tegen een muur.\n\nDe rvs-schouw loopt tot aan het plafond en verbergt het afvoerkanaal of de recirculatieset. Bediening gaat met aanraaktoetsen aan de voorkant. Ledspots verlichten de kookplaat gelijkmatig. Met energieklasse A+ is hij voor zijn vermogen zuinig. De montage is wel een klus: je hebt een stevig plafond nodig en vaak een installateur. Kopers op bol geven hem een hoge beoordeling. Ze noemen vooral de zuigkracht en de nette afwerking. Houd rekening met extra kosten voor de recirculatieset als je niet naar buiten kunt afvoeren.",
-      "ean": "4242003832127",
-      "bol_title": "Siemens iQ500 LF98BIP50 Afzuigkap 810 m³/uur Eiland Roestvrijstaal A+",
-      "url": "https://www.bol.com/nl/nl/p/siemens-iq500-lf98bip50-afzuigkap-810-m-uur-eiland-roestvrijstaal-a/9200000103804954/",
-      "image": "https://media.s-bol.com/YEEom8AQ5DWp/550x492.jpg",
-      "synced": "2026-11-19",
+      "ideal": "Wie een kookeiland heeft en een degelijke rvs kap wil die vrij boven de kookplaat hangt.",
+      "text": "Heb je een kookeiland, dan kun je geen wandkap gebruiken. De Bosch DIB97IM50 uit de Serie 4 is een eilandkap van 90 cm breed die je aan het plafond hangt. De motor haalt maximaal 754 kubieke meter per uur, verdeeld over drie standen plus een intensiefstand voor korte pieken. Dat is nodig, want boven een eiland trekt damp sneller opzij weg dan tegen een muur.\n\nDe rvs-schouw verbergt het afvoerkanaal of de recirculatieset. Je kunt dus naar buiten afvoeren of de lucht laten circuleren, maar voor recirculatie koop je het koolstoffilter apart. Bediening gaat met aanraaktoetsen en vier ledlampen verlichten de kookplaat. De aluminium vetfilter gaat in de vaatwasser en de kap schakelt zichzelf uit. Met energieklasse B en 57 dB is hij geen zuinigste of stilste model. Kopers op bol geven hem een 5,0 van 5. Reken op een stevig plafond en vaak een installateur voor de montage.",
+      "ean": "4242005086269",
+      "rating": 5.0,
+      "bol_title": "Bosch DIB97IM50 - Eilandschouw Afzuigkap",
+      "url": "https://www.bol.com/nl/nl/p/bosch-eiland-afzuigkap-dib97im50/9200000104387948/",
+      "image": "https://media.s-bol.com/YPYRORG6Yzz9/Q1B7r19/550x337.jpg",
       "ph": {
-        "2026-10-20": 915.0,
-        "2026-10-21": 915.0,
-        "2026-10-23": 915.0,
-        "2026-10-24": 915.0,
-        "2026-10-25": 915.0,
-        "2026-10-26": 915.0,
-        "2026-10-27": 915.0,
-        "2026-10-28": 915.0,
-        "2026-10-29": 915.0,
-        "2026-10-30": 915.0,
-        "2026-10-31": 915.0,
-        "2026-11-01": 915.0,
-        "2026-11-02": 915.0,
-        "2026-11-03": 915.0,
-        "2026-11-04": 915.0,
-        "2026-11-05": 915.0,
-        "2026-11-06": 915.0,
-        "2026-11-07": 915.0,
-        "2026-11-08": 915.0,
-        "2026-11-09": 915.0,
-        "2026-11-10": 915.0,
-        "2026-11-11": 915.0,
-        "2026-11-12": 915.0,
-        "2026-11-13": 915.0,
-        "2026-11-14": 910.0,
-        "2026-11-16": 910.0,
-        "2026-11-17": 910.0,
-        "2026-11-18": 910.0
+        "2026-11-19": 999.0
       },
-      "low_price": 910.0,
-      "ph_ean": "4242003832127",
-      "prev_price": 915.0,
-      "prev_date": "2026-11-13",
-      "rating": 5.0
+      "low_price": 999.0,
+      "ph_ean": "4242005086269",
+      "synced": "2026-11-19"
     },
     {
       "brand": "Siemens",
@@ -477,12 +449,12 @@
     },
     {
       "brand": "ETNA",
-      "name": "AO860ZT",
-      "price": 140.0,
+      "name": "AO860RVS",
+      "price": 128.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,8 van 5",
-      "oneliner": "Zwarte onderbouwkap met energieklasse A en ledspot.",
+      "reviews": "bol-score 4,0 van 5",
+      "oneliner": "Rvs onderbouwkap met energieklasse A en ledspot.",
       "specs": {
         "Type": "Onderbouwkap",
         "Breedte": "60 cm",
@@ -491,55 +463,27 @@
       },
       "pros": [
         "Energieklasse A",
-        "Zwart front past bij moderne keukens",
+        "Rvs front past in vrijwel elke keuken",
         "Drie snelheden",
-        "Zeer goede beoordeling op bol"
+        "Eenvoudige montage onder een bovenkast"
       ],
       "cons": [
         "Druktoetsen voelen eenvoudig",
         "Beperkte zuigkracht voor een open keuken"
       ],
-      "ideal": "Wie een zuinige, zwarte onderbouwkap zoekt voor een gesloten keuken.",
-      "text": "De ETNA AO860ZT is een onderbouwkap van 60 cm met een zwart front. ETNA is een Nederlands merk dat in veel keukenzaken wordt verkocht en onderdelen lang leverbaar houdt. Deze kap heeft energieklasse A, wat voor een onderbouwmodel in deze prijsklasse zuinig is. Je bedient hem met mechanische druktoetsen met drie snelheden en een aparte knop voor de ledspot.\n\nDe zuigkracht ligt rond de 350 kubieke meter per uur. Dat is genoeg voor een gesloten keuken of een keuken met een raam dat je open kunt zetten. De metalen vetfilter kun je in de vaatwasser reinigen. Wil je recirculeren, dan koop je er een koolstoffilter bij. Kopers op bol geven hem een zeer hoge score en noemen de eenvoudige montage en de strakke uitstraling. De druktoetsen voelen wel minder luxe aan dan aanraakbediening. Voor een eenvoudige, zuinige kap onder een bovenkastje is dit een goede keuze.",
-      "ean": "8715393411259",
-      "bol_title": "ETNA AO860ZT - Afzuigkap Onderbouwmodel - 60 cm - Zwart - Energielabel A - 3 Snelheden - LED spot - Druktoetsen - Geschikt voor recirculaite en afvoer naar buiten",
-      "url": "https://www.bol.com/nl/nl/p/etna-ao860zt-afzuigkap-onderbouwmodel-60-cm-zwart-energielabel-a-3-snelheden-led-spot-druktoetsen-geschikt-voor-recirculaite-en-afvoer-naar-buiten/9300000241990273/",
-      "image": "https://media.s-bol.com/8VAMRRVNNOL3/g54klGk/550x178.jpg",
-      "synced": "2026-11-19",
+      "ideal": "Wie een zuinige rvs onderbouwkap zoekt voor een gesloten keuken.",
+      "text": "De ETNA AO860ZT is een onderbouwkap van 60 cm met een rvs front. ETNA is een Nederlands merk dat in veel keukenzaken wordt verkocht en onderdelen lang leverbaar houdt. Deze kap heeft energieklasse A, wat voor een onderbouwmodel in deze prijsklasse zuinig is. Je bedient hem met mechanische druktoetsen met drie snelheden en een aparte knop voor de ledspot.\n\nDe zuigkracht ligt rond de 350 kubieke meter per uur. Dat is genoeg voor een gesloten keuken of een keuken met een raam dat je open kunt zetten. De metalen vetfilter kun je in de vaatwasser reinigen. Wil je recirculeren, dan koop je er een koolstoffilter bij. Kopers op bol geven hem een 4,0 van 5 en noemen de eenvoudige montage en de strakke uitstraling. De druktoetsen voelen wel minder luxe aan dan aanraakbediening. Voor een eenvoudige, zuinige kap onder een bovenkastje is dit een goede keuze.",
+      "ean": "8715393411037",
+      "rating": 4.0,
+      "bol_title": "ETNA AO860RVS - Afzuigkap Onderbouwmodel - 60 cm - RVS - Energielabel A - 3 Snelheden - LED spot - Druktoetsen - Geschikt voor recirculaite en afvoer naar buiten",
+      "url": "https://www.bol.com/nl/nl/p/etna-ao860rvs-afzuigkap-onderbouwmodel-60-cm-rvs-energielabel-a-3-snelheden-led-spot-druktoetsen-geschikt-voor-recirculaite-en-afvoer-naar-buiten/9300000241990272/",
+      "image": "https://media.s-bol.com/Y8ypyq4KXJpK/O7v6B3R/550x178.jpg",
       "ph": {
-        "2026-10-20": 140.0,
-        "2026-10-21": 140.0,
-        "2026-10-23": 140.0,
-        "2026-10-24": 140.0,
-        "2026-10-25": 140.0,
-        "2026-10-26": 140.0,
-        "2026-10-27": 140.0,
-        "2026-10-28": 140.0,
-        "2026-10-29": 140.0,
-        "2026-10-30": 140.0,
-        "2026-10-31": 140.0,
-        "2026-11-01": 140.0,
-        "2026-11-02": 140.0,
-        "2026-11-03": 140.0,
-        "2026-11-04": 140.0,
-        "2026-11-05": 140.0,
-        "2026-11-06": 140.0,
-        "2026-11-07": 140.0,
-        "2026-11-08": 140.0,
-        "2026-11-09": 140.0,
-        "2026-11-10": 140.0,
-        "2026-11-11": 140.0,
-        "2026-11-12": 140.0,
-        "2026-11-13": 140.0,
-        "2026-11-14": 140.0,
-        "2026-11-16": 140.0,
-        "2026-11-17": 140.0,
-        "2026-11-18": 140.0,
-        "2026-11-19": 140.0
+        "2026-11-19": 128.0
       },
-      "low_price": 140.0,
-      "ph_ean": "8715393411259",
-      "rating": 4.8
+      "low_price": 128.0,
+      "ph_ean": "8715393411037",
+      "synced": "2026-11-19"
     },
     {
       "brand": "ETNA",
@@ -703,6 +647,12 @@
   ],
   "published": "2026-10-20",
   "wissels": [
+    {
+      "d": "2026-11-19",
+      "uit": "Siemens iQ500 LF98BIP50",
+      "in": "Bosch Serie 4 DIB97IM50",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-17",
       "uit": "Bosch DLN53AA70",

@@ -46,7 +46,7 @@
     },
     {
       "h": "Gamen met een PS5 of Xbox",
-      "p": "Voor 120 fps-games heb je een tv met minstens 120 Hz en HDMI 2.1 nodig. In deze lijst zijn dat de Samsung QE55QN82H, de Hisense 65E8S, de TCL 65Q6C, de Hisense 65E7S PRO en de Xiaomi TV S Pro Mini LED. VRR voorkomt haperingen en ALLM zet de gamemodus automatisch aan. Tv's met 60 Hz zijn prima voor wie af en toe speelt."
+      "p": "Voor 120 fps-games heb je een tv met minstens 120 Hz en HDMI 2.1 nodig. In deze lijst zijn dat de Samsung QE55QN82H, de Hisense 65E8S, de Hisense 65E7S PRO en de twee Xiaomi Mini LED-tv's. VRR voorkomt haperingen en ALLM zet de gamemodus automatisch aan. Tv's met 60 Hz zijn prima voor wie af en toe speelt."
     },
     {
       "h": "Black Friday: kijk naar de prijsgeschiedenis",
@@ -68,7 +68,7 @@
     },
     {
       "q": "Is een tv onder 750 euro goed voor de PS5?",
-      "a": "Zeker. De Samsung QE55QN82H, Hisense 65E8S, TCL 65Q6C, Hisense 65E7S PRO en Xiaomi TV S Pro Mini LED hebben 120 Hz of meer met HDMI 2.1. Daarmee speel je games op 120 fps met VRR. De TCL 65C6KS, de twee Philips-tv's en de Sony in deze lijst draaien op 60 Hz en zijn geschikter voor wie af en toe gamet."
+      "a": "Zeker. De Samsung QE55QN82H, Hisense 65E8S, Hisense 65E7S PRO en de twee Xiaomi Mini LED-tv's hebben 120 Hz of meer met HDMI 2.1. Daarmee speel je games op 120 fps met VRR. De TCL 65C6KS, de twee Philips-tv's en de Sony in deze lijst draaien op 60 Hz en zijn geschikter voor wie af en toe gamet."
     },
     {
       "q": "Wanneer koop je een tv onder 750 euro het voordeligst?",
@@ -248,46 +248,44 @@
       "synced": "2026-11-19"
     },
     {
-      "brand": "TCL",
-      "name": "65Q6C",
-      "price": 699.0,
+      "brand": "Xiaomi",
+      "name": "TV S Mini LED 65 (2025)",
+      "price": 633.61,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 4,8 van 5",
-      "oneliner": "65 inch QD-Mini LED met 144 Hz en Google TV.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "65 inch Mini LED met 144 Hz en Google TV.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "QD-Mini LED",
+        "Paneel": "Mini LED",
         "Verversing": "144 Hz",
-        "HDR": "Dolby Vision IQ, HDR10+",
+        "HDR": "HDR10+",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "Mini LED en 144 Hz op 65 inch",
-        "Dolby Vision IQ en HDR10+",
-        "Vier HDMI-poorten",
-        "Google TV met alle apps"
+        "Mini LED tot 1200 nits",
+        "144 Hz met HDMI 2.1 en VRR",
+        "Google TV met spraakbediening",
+        "Dolby Atmos-geluid"
       ],
       "cons": [
-        "Model uit 2025",
-        "Ingebouwd geluid mist laag"
+        "Maar drie HDMI-poorten",
+        "Energielabel G",
+        "Model uit 2025"
       ],
-      "ideal": "Wie een 65 inch Mini LED met Google TV wil voor films en games.",
-      "text": "De TCL 65Q6C combineert drie dingen die je zelden samen ziet voor 700 euro: 65 inch, Mini LED en een 144 Hz-paneel. De QD-Mini LED-techniek met quantum dots zorgt voor verzadigde kleuren en een goed contrast. HDR-content speelt hij af in Dolby Vision IQ, HDR10+ of HLG, zodat Netflix, Disney+ en YouTube er allemaal op hun best uitzien.\n\nVoor gamers is de Game Master-modus interessant. Met 144 Hz en vier HDMI-poorten sluit je een console en een pc tegelijk aan zonder kabels te wisselen. Google TV geeft je alle apps, Chromecast en spraakbediening. Dit is een model uit 2025, wat je terugziet in de prijs. Het verschil met de Hisense 65E8S zit vooral in het geluid en het menu: de Hisense heeft een subwoofer, de TCL het bredere app-aanbod. Kopers op bol geven de Q6C gemiddeld 4,8 sterren.",
-      "ean": "5901292526665",
-      "bol_title": "TCL 65Q6C - 65 inch - 4K QD-MiniLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65q6c-65-inch-4k-qd-miniled-2025/9300000227512981/",
-      "image": "https://media.s-bol.com/vynLGKP51YJ0/5yv9MPY/550x388.jpg",
+      "ideal": "Wie een groot en helder Mini LED-scherm voor films en games zoekt.",
+      "text": "De Xiaomi TV S Mini LED 65 brengt Mini LED-verlichting en een 144 Hz-paneel naar een prijs die ruim onder de 750 euro blijft. Met een piekhelderheid tot 1200 nits zijn HDR-films en sport ook in een lichte woonkamer goed te zien. HDR-content speelt hij af in HDR10+. Google TV geeft je alle bekende apps, Chromecast en spraakbediening via de afstandsbediening.\n\nVoor gamers is dit een interessante tv. Het paneel haalt 144 Hz, de HDMI 2.1-poorten ondersteunen VRR en Xiaomi geeft een input lag van 4 milliseconden op. Er zijn wel maar drie HDMI-poorten, waarvan één met eARC voor een soundbar. Het geluid komt uit twee speakers van samen 25 watt met Dolby Atmos. Let op het energielabel G: in gebruik vraagt hij tot 280 watt. Dit is een model uit 2025, wat je terugziet in de prijs. Kopers op bol geven hem een 5,0 van 5. Wil je een Mini LED van een bekender tv-merk, kijk dan naar de TCL 65C6KS op plek 3.",
+      "ean": "6941948703704",
+      "rating": 5.0,
+      "bol_title": "Xiaomi TV S Mini LED 65 2025 165,1 cm (65\") 4K Ultra HD Smart TV Wifi Zwart 1200 cd/m²",
+      "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-s-mini-65-2025-4k-qd-mini-led/9300000198346751/",
+      "image": "https://media.s-bol.com/YwGvkRYnV7z2/L9mk6Rw/550x341.jpg",
       "ph": {
-        "2026-11-16": 699.0,
-        "2026-11-17": 699.0,
-        "2026-11-18": 699.0,
-        "2026-11-19": 699.0
+        "2026-11-19": 633.61
       },
-      "low_price": 699.0,
-      "ph_ean": "5901292526665",
-      "synced": "2026-11-19",
-      "rating": 4.8
+      "low_price": 633.61,
+      "ph_ean": "6941948703704",
+      "synced": "2026-11-19"
     },
     {
       "brand": "Hisense",
@@ -503,6 +501,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-19",
+      "uit": "TCL 65Q6C",
+      "in": "Xiaomi TV S Mini LED 65 (2025)",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-18",
       "uit": "TCL 65T8D",

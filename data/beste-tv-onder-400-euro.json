@@ -366,48 +366,44 @@
       "rating": 4.4
     },
     {
-      "brand": "Hisense",
-      "name": "43E7S",
-      "price": 372.68,
+      "brand": "LG",
+      "name": "43NU800B6LC",
+      "price": 329.0,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,8 van 5",
-      "oneliner": "De 43 inch E7S met Dolby Vision voor de slaapkamer.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Betaalbare 43 inch NanoCell-tv van LG met webOS.",
       "specs": {
         "Formaat": "43 inch",
-        "Paneel": "Hi-QLED",
+        "Paneel": "NanoCell (LED)",
         "Verversing": "60 Hz",
-        "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "VIDAA"
+        "HDR": "HDR10, HLG",
+        "Smart-tv": "webOS 26"
       },
       "pros": [
-        "Dolby Vision IQ op 43 inch",
-        "Hi-QLED-kleuren",
-        "Lichtsensor past helderheid aan",
-        "Bol-score van 4,8 uit 5"
+        "webOS met Google Cast en AirPlay",
+        "Minstens vijf jaar updates",
+        "VRR, ALLM en Filmmaker Mode",
+        "Bol-score van 5,0 uit 5"
       ],
       "cons": [
-        "VIDAA mist soms een app",
+        "Geen Dolby Vision",
+        "60 Hz-paneel",
         "Klein voor een woonkamer"
       ],
-      "ideal": "Wie een kleine tv met de beste HDR-ondersteuning in deze prijsklasse wil.",
-      "text": "De Hisense 43E7S is de kleinste uitvoering van de serie die op nummer 1 en 2 staat. Je krijgt dezelfde Hi-QLED-kleuren en dezelfde HDR-ondersteuning, maar dan op 43 inch voor 309 euro. Dolby Vision IQ past het beeld aan op het licht in je kamer en dat is op dit formaat zeldzaam: de LG en Xiaomi van dezelfde grootte hebben geen Dolby Vision.\n\nEen lichtsensor regelt de helderheid automatisch en een Eye Care-modus vermindert blauw licht, prettig in een slaapkamer. Dolby Atmos zit erin, al is het geluid van een 43 inch tv nooit vol. Het paneel draait op 60 Hz zonder local dimming. VIDAA start snel en heeft Netflix, YouTube, Videoland en NPO Start, maar de appwinkel is kleiner dan bij Google TV. Kopers op bol geven hem een 4,8 uit 5. Vergeleken met de Xiaomi betaal je 20 euro meer voor Dolby Vision, vergeleken met de LG mis je webOS en de Magic Remote.",
-      "ean": "6942351430973",
-      "bol_title": "Hisense 43E7S SmartTV - 43 inch - 4K Hi-QLED - 2026 - Hi-QLED Colour - Dolby Vision Atmos - AI 4K Upscaler - AI Smooth Motion - Game Mode Plus - Filmmaker Mode",
-      "url": "https://www.bol.com/nl/nl/p/hisense-43e7s-smarttv-43-inch-4k-hi-qled-2026-hi-qled-colour-dolby-vision-atmos-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-filmmaker-mode/9300000269685088/",
-      "image": "https://media.s-bol.com/D31qrV00OpMK/nRQ2J4P/550x342.jpg",
+      "ideal": "Wie een kleine tv met goede software voor de slaapkamer of keuken zoekt.",
+      "text": "De LG 43NU800B6LC is een 43 inch tv uit 2026 met een NanoCell-paneel. LG gebruikt daarin de α7 AI-processor van de negende generatie, die beeld met een lagere resolutie opschaalt richting 4K. De Nano Detail Enhancer verbetert contrast en fijne details. HDR speelt hij af in HDR10 en HLG. Dolby Vision ontbreekt, dat heb je in deze lijst wel bij de Hisense E7S-modellen.\n\nHet sterkste punt is de software. webOS 26 heeft alle grote apps, LG Channels, Google Cast en Apple AirPlay. LG belooft minstens vijf jaar updates. Voor games zijn er VRR tot 60 Hz, ALLM en de Game Optimiser. Het geluid komt uit speakers van 20 watt met AI Sound Pro. Drie HDMI-poorten, waarvan één met eARC, laten ruimte voor een soundbar en een console. Het paneel draait op 60 Hz, prima voor tv en films. Kopers op bol geven hem een 5,0 van 5. Wil je een rijker beeld op 43 inch, dan is de LG 43QNED84A6 op plek 3 het alternatief.",
+      "ean": "8806096800799",
+      "rating": 5.0,
+      "bol_title": "LG 43NU800B6LC - 43 inch - 4K Nanocell - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/lg-43nu800b6lc-aeuq/9300000281110072/",
+      "image": "https://media.s-bol.com/qvWQXl43rNm0/oQl1pgK/550x356.jpg",
       "ph": {
-        "2026-11-16": 309.0,
-        "2026-11-17": 309.0,
-        "2026-11-18": 309.0,
-        "2026-11-19": 372.68
+        "2026-11-19": 329.0
       },
-      "low_price": 309.0,
-      "ph_ean": "6942351430973",
-      "synced": "2026-11-19",
-      "rating": 4.8,
-      "prev_price": 309.0,
-      "prev_date": "2026-11-18"
+      "low_price": 329.0,
+      "ph_ean": "8806096800799",
+      "synced": "2026-11-19"
     },
     {
       "brand": "TCL",
@@ -488,7 +484,7 @@
     },
     {
       "q": "Welke tv onder 400 euro heeft Dolby Vision?",
-      "a": "De Hisense 55E7S, 50E7S en 43E7S ondersteunen Dolby Vision en HDR10+. De Hisense 50A6S heeft Dolby Vision zonder HDR10+. De Samsung-, Philips-, LG-, TCL- en Xiaomi-modellen in deze lijst hebben geen Dolby Vision."
+      "a": "De Hisense 55E7S en 50E7S ondersteunen Dolby Vision en HDR10+. De Hisense 50A6S heeft Dolby Vision zonder HDR10+. De Samsung-, Philips-, LG-, TCL- en Xiaomi-modellen in deze lijst hebben geen Dolby Vision."
     },
     {
       "q": "Is een tv onder 400 euro goed genoeg om te gamen?",
@@ -534,6 +530,12 @@
     ]
   },
   "wissels": [
+    {
+      "d": "2026-11-19",
+      "uit": "Hisense 43E7S",
+      "in": "LG 43NU800B6LC",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-18",
       "uit": "TCL 50S51K",

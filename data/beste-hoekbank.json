@@ -275,67 +275,42 @@
     },
     {
       "brand": "Meubella",
-      "name": "Monet hoekbank leer",
-      "price": 899.0,
+      "name": "Santana hoekbank kunstleer",
+      "price": 949.0,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Leren hoekbank in zwart voor weinig onderhoud.",
+      "reviews": "bol-score 4,0 van 5",
+      "oneliner": "Zwarte hoekbank in kunstleer met plek voor vier personen.",
       "specs": {
         "Vorm": "L-vorm",
-        "Afmeting": "ca. 250 x 180 cm",
-        "Bekleding": "Leer",
+        "Afmeting": "270 x 230 cm",
+        "Bekleding": "Kunstleer",
         "Uitvoering": "Hoek rechts"
       },
       "pros": [
-        "Makkelijk schoon te vegen",
-        "Ook leverbaar in cognac en in stof",
-        "Goede beoordeling van kopers",
-        "Scherpe prijs voor een leren hoekbank"
+        "Kunstleer is makkelijk schoon te vegen",
+        "Ruim formaat van 270 x 230 cm",
+        "Vier zitplaatsen",
+        "Strak model op lage zilvergrijze poten"
       ],
       "cons": [
-        "Leer voelt in de winter koud aan",
-        "Zwart toont stof en krassen sneller"
+        "Kunstleer ademt minder dan echt leer",
+        "Vaste kussens zonder afneembare hoes",
+        "Zwart toont stof sneller"
       ],
-      "ideal": "Gezinnen met kinderen of huisdieren die een hoekbank met weinig onderhoud zoeken.",
-      "text": "Een leren hoekbank voor minder dan 900 euro is zeldzaam. Dat maakt de Meubella Monet een interessante keuze. Het is een L-vormige bank met de hoek rechts, een strak profiel en een stevige zit. De zwarte uitvoering past goed in een modern of industrieel interieur. Hij is ook leverbaar in cognac en in een stoffen versie.\n\nHet grootste voordeel van leer is het onderhoud. Gemorst drinken, kruimels en dierenhaar veeg je eenvoudig weg, wat bij een grote hoekbank waar het hele gezin op zit veel waard is. Voed het leer twee keer per jaar met een lederbalsem om uitdrogen te voorkomen. Kopers op bol geven de Monet gemiddeld 4,3 sterren en noemen vooral de verhouding tussen prijs en uitstraling. Let op dat zwart leer stof en lichte krasjes sneller laat zien. Twijfel je over de kleur, dan is cognac vergevingsgezinder en krijgt het mooi patina met de jaren.",
-      "ean": "8721055841784",
-      "bol_title": "Meubella - Hoekbank Monet - Zwart - Leer - Rechts",
-      "url": "https://www.bol.com/nl/nl/p/meubella-hoekbank-monet-zwart-leer-rechts/9300000170235384/",
-      "image": "https://media.s-bol.com/yvNoPYEL5Z4W/kRODjKE/550x392.jpg",
-      "synced": "2026-11-19",
+      "ideal": "Gezinnen met kinderen of huisdieren die een grote hoekbank met weinig onderhoud zoeken.",
+      "text": "De Meubella Santana is een L-vormige hoekbank met de hoek rechts, bekleed met zwart kunstleer. Met 270 bij 230 centimeter is hij ruim: er passen vier mensen op. De zithoogte is 40 centimeter en de zitdiepte 57 centimeter, wat een normale, rechte zit geeft. De bank staat op lage zilvergrijze poten en heeft een strak, modern profiel.\n\nHet grootste voordeel van kunstleer is het onderhoud. Gemorst drinken, kruimels en dierenhaar veeg je weg met een vochtige doek of een lauw sopje. De zit- en rugkussens zitten vast en een afneembare hoes is er niet. Kunstleer ademt minder dan echt leer, dus op een warme dag kan het wat plakkerig aanvoelen. Kopers geven hem bij bol een 4,0 van 5. Zoek je een grote zwarte hoekbank met weinig onderhoud voor minder dan 1.000 euro, dan is dit een praktische keuze.",
+      "ean": "8719497240234",
+      "rating": 4.0,
+      "bol_title": "Meubella - Hoekbank Santana - Zwart - Leer - Rechts",
+      "url": "https://www.bol.com/nl/nl/p/meubella-hoekbank-santana-zwart-leer-rechts/9200000073360844/",
+      "image": "https://media.s-bol.com/y9zKO3MkMQAz/550x292.jpg",
       "ph": {
-        "2026-10-21": 899.0,
-        "2026-10-23": 899.0,
-        "2026-10-24": 899.0,
-        "2026-10-25": 899.0,
-        "2026-10-26": 899.0,
-        "2026-10-27": 899.0,
-        "2026-10-28": 899.0,
-        "2026-10-29": 899.0,
-        "2026-10-30": 899.0,
-        "2026-10-31": 899.0,
-        "2026-11-01": 899.0,
-        "2026-11-02": 899.0,
-        "2026-11-03": 899.0,
-        "2026-11-04": 899.0,
-        "2026-11-05": 899.0,
-        "2026-11-06": 899.0,
-        "2026-11-07": 899.0,
-        "2026-11-08": 899.0,
-        "2026-11-09": 899.0,
-        "2026-11-10": 899.0,
-        "2026-11-11": 899.0,
-        "2026-11-12": 899.0,
-        "2026-11-13": 899.0,
-        "2026-11-14": 899.0,
-        "2026-11-16": 899.0,
-        "2026-11-17": 899.0,
-        "2026-11-18": 899.0
+        "2026-11-19": 949.0
       },
-      "low_price": 899.0,
-      "ph_ean": "8721055841784",
-      "rating": 4.3
+      "low_price": 949.0,
+      "ph_ean": "8719497240234",
+      "synced": "2026-11-19"
     },
     {
       "brand": "Dimehouse",
@@ -692,11 +667,11 @@
       },
       {
         "h": "Heb je kinderen of huisdieren?",
-        "p": "Dan bepaalt de bekleding hoeveel onderhoud je hebt. Ribstof van nr. 1 en bouclé van nr. 7 trekken huisdierenhaar aan. Leer is het makkelijkst schoon te vegen: nr. 5, de Meubella Monet (€ 899), is daar gemaakt voor. Wil je toch stof, dan verbergt de gemêleerde chenille van nr. 6, de Dimehouse Ravi, stof en kleine vlekken beter."
+        "p": "Dan bepaalt de bekleding hoeveel onderhoud je hebt. Ribstof van nr. 1 en bouclé van nr. 7 trekken huisdierenhaar aan. Leer en kunstleer zijn het makkelijkst schoon te vegen: nr. 5, de Meubella Santana (€ 949), is daar gemaakt voor. Wil je toch stof, dan verbergt de gemêleerde chenille van nr. 6, de Dimehouse Ravi, stof en kleine vlekken beter."
       },
       {
         "h": "Weet je zeker aan welke kant de hoek moet?",
-        "p": "Niet elke bank is in beide uitvoeringen te koop. De Meubella Monet is er alleen met hoek rechts, de Zuiver Stones met chaise rechts en de Beliani Rokke met hoek links. Ga je binnenkort verhuizen of twijfel je, kies dan nr. 9 of nr. 10: daar plaats je de chaise longue zelf links of rechts."
+        "p": "Niet elke bank is in beide uitvoeringen te koop. De Meubella Santana is er alleen met hoek rechts, de Zuiver Stones met chaise rechts en de Beliani Rokke met hoek links. Ga je binnenkort verhuizen of twijfel je, kies dan nr. 9 of nr. 10: daar plaats je de chaise longue zelf links of rechts."
       },
       {
         "h": "Zit je vooral voor de tv?",
@@ -720,5 +695,13 @@
     "beste-plaid"
   ],
   "meta_title": "Beste hoekbank 2026: links, rechts en met chaise longue",
-  "meta_desc": "De beste hoekbank van 2026 is de {top}. Top 10 hoekbanken en loungebanken vergeleken op zitcomfort, stof, opstelling links of rechts en prijs."
+  "meta_desc": "De beste hoekbank van 2026 is de {top}. Top 10 hoekbanken en loungebanken vergeleken op zitcomfort, stof, opstelling links of rechts en prijs.",
+  "wissels": [
+    {
+      "d": "2026-11-19",
+      "uit": "Meubella Monet hoekbank leer",
+      "in": "Meubella Santana hoekbank kunstleer",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

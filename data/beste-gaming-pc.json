@@ -17,47 +17,45 @@
   "updated": "2026-10-21",
   "reviews_total": "300",
   "intro": "Een kant-en-klare gaming pc kopen scheelt je uren uitzoeken en bouwen, maar de verschillen in prijs en kwaliteit zijn groot. Wij vergeleken de complete desktops die op bol te koop zijn op videokaart, processor, geheugen, opslag en wat kopers en reviewers erover melden. Dit zijn de tien beste gaming pc's van dit moment, van een instapmodel voor 1080p rond de 1.100 euro tot een 4K-monster met RTX 5080. Zo vind je snel de pc die bij je monitor en budget past.",
-  "verdict": "De Lenovo Legion T5 met Ryzen 7 7800X3D en RTX 5070 is voor de meeste gamers de beste gaming pc: sterk in 1440p, netjes gebouwd en met service van één fabrikant. Wil je zoveel mogelijk prestaties per euro, dan is de AZZA Prime met dezelfde RTX 5070 ruim 350 euro goedkoper. Speel je in 4K of op een 240 Hz-scherm, dan is de HP OMEN 35L met RTX 5080 de beste premium keuze.",
+  "verdict": "De Lenovo Legion T5 met Ryzen 7 7700X en RTX 5070 is voor de meeste gamers de beste gaming pc: sterk in 1440p, netjes gebouwd en met service van één fabrikant. Wil je zoveel mogelijk prestaties per euro, dan is de AZZA Prime met dezelfde RTX 5070 ruim 200 euro goedkoper. Speel je in 4K of op een 240 Hz-scherm, dan is de HP OMEN 35L met RTX 5080 de beste premium keuze.",
   "products": [
     {
       "brand": "Lenovo",
-      "name": "Legion T5 30AGB10 90YJ0097MH (Ryzen 7 7800X3D, RTX 5070)",
-      "price": 2159.0,
+      "name": "Legion T5 30AGB10 90YJ0098MH (Ryzen 7 7700X, RTX 5070)",
+      "price": 1999.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Merk-pc met 7800X3D en RTX 5070 voor sterke 1440p-gaming.",
+      "oneliner": "Merk-pc met Ryzen 7 7700X en RTX 5070 voor vlot 1440p-gamen.",
       "specs": {
-        "Processor": "AMD Ryzen 7 7800X3D",
+        "Processor": "AMD Ryzen 7 7700X",
         "Videokaart": "RTX 5070 (12 GB)",
         "Geheugen": "32 GB DDR5",
         "Opslag": "1 TB SSD",
         "Geschikt voor": "1440p op hoog"
       },
       "pros": [
-        "Ryzen 7 7800X3D is een van de snelste gameprocessors",
-        "RTX 5070 speelt moderne games vlot in 1440p",
-        "850 watt voeding en vier geheugensloten voor upgrades",
+        "RTX 5070 met 12 GB speelt moderne games vlot in 1440p",
+        "Ryzen 7 7700X met 8 kernen en 16 threads voor gamen en streamen",
+        "Waterkoeling, wifi 7 en vier geheugensloten",
         "Garantie en service via Lenovo zelf"
       ],
       "cons": [
-        "Met 8 kernen minder sterk in zwaar video- en streamwerk dan processors met meer kernen",
-        "Vaak duurder dan de HP OMEN 35L met dezelfde processor en videokaart"
+        "Geen X3D-processor, dus in cpu-zware games iets lagere framerates",
+        "Duurder dan de AZZA Prime met dezelfde videokaart"
       ],
-      "ideal": "Gamers die een complete merk-pc willen voor 1440p met de snelste gameprocessor in deze prijsklasse.",
-      "text": "De Lenovo Legion T5 in deze uitvoering combineert de AMD Ryzen 7 7800X3D met een RTX 5070. Voor gamen is dat een van de sterkste combinaties rond de 2.000 euro. De 7800X3D heeft 8 kernen met extra 3D V-Cache, waardoor je in shooters en strategiespellen hoge en stabiele framerates haalt. De RTX 5070 met 12 GB GDDR7 speelt zware titels in 1440p op hoge instellingen en met DLSS 4 frame generation ga je in veel games richting 120 fps of meer.\n\nLenovo levert er 32 GB DDR5 in twee latjes van 16 GB en een 1 TB SSD bij, plus een voeding van 850 watt. Daardoor kun je later nog een zwaardere videokaart plaatsen. Er zijn vier geheugensloten, dus uitbreiden is eenvoudig. Lenovo stemt de koeling en ventilatoren af op het complete systeem en je hebt één aanspreekpunt voor garantie. Kopers op bol geven hem een 5,0 van 5. Voor wie vooral gamet, is dit de beste en veiligste keuze.",
-      "ean": "0199274389918",
-      "bol_title": "Lenovo Legion T5 30AGB10 90YJ0097MH - Gaming PC - AMD Ryzen™ 7 7800X3D - 32 GB DDR5-SDRAM - 1 TB SSD - NVIDIA GeForce RTX 5070 - Windows 11 Home",
-      "url": "https://www.bol.com/nl/nl/p/lenovo-legion-t5-30agb10-amd-ryzen-7-7800x3d-32-gb-ddr5-sdram-1-tb-ssd-nvidia-geforce-rtx-5070-windows-11-home/9300000264944496/",
-      "image": "https://media.s-bol.com/ggXwQ7lNPMWG/kZDDP5X/550x478.jpg",
-      "ph": {
-        "2026-11-17": 2159.0,
-        "2026-11-18": 2159.0,
-        "2026-11-19": 2159.0
-      },
-      "low_price": 2159.0,
-      "ph_ean": "0199274389918",
+      "ideal": "Gamers die een complete merk-pc willen voor 1440p zonder zelf te bouwen.",
+      "text": "De Lenovo Legion T5 in deze uitvoering combineert een AMD Ryzen 7 7700X met een NVIDIA RTX 5070. De 7700X heeft 8 kernen en 16 threads met een turbo tot 5,4 GHz. Daarmee game je soepel en kun je ook streamen of video bewerken. De RTX 5070 met 12 GB GDDR7 speelt zware titels in 1440p op hoge instellingen en met DLSS 4 frame generation haal je in veel games hogere framerates.\n\nLenovo levert er 32 GB DDR5 in twee latjes van 16 GB bij, plus een 1 TB SSD met Windows 11 Home. De processor wordt met waterkoeling gekoeld en er zijn vier geheugensloten, dus uitbreiden is eenvoudig. Wifi 7 en Bluetooth 5.4 zitten erin. Voor garantie heb je één aanspreekpunt. Kopers op bol geven hem een 5,0 van 5. Een X3D-processor heeft deze versie niet, wat in sommige cpu-zware games een paar procent scheelt. Voor wie een complete pc voor 1440p wil, is dit de beste en veiligste keuze.",
+      "ean": "0199274048204",
       "rating": 5.0,
+      "bol_title": "Lenovo Legion T5 30AGB10 90YJ0098MH - Gaming PC - NVIDIA RTX 5070 - AMD Ryzen 7 7700X - 32 GB DDR5-SDRAM - 1 TB SSD - Liquid Cooling",
+      "url": "https://www.bol.com/nl/nl/p/lenovo-legion-t5-30agb10-amd-ryzen-7-7700x-32-gb-ddr5-sdram-1-tb-ssd-nvidia-geforce-rtx-5070-windows-11-home/9300000264944487/",
+      "image": "https://media.s-bol.com/qNDpgklr87Ky/WLnwxj4/550x478.jpg",
+      "ph": {
+        "2026-11-19": 1999.0
+      },
+      "low_price": 1999.0,
+      "ph_ean": "0199274048204",
       "synced": "2026-11-19"
     },
     {
@@ -665,7 +663,7 @@
   "faq": [
     {
       "q": "Wat is de beste gaming pc van 2026?",
-      "a": "Op basis van onze vergelijking is de Lenovo Legion T5 met AMD Ryzen 7 7800X3D en RTX 5070 de beste gaming pc van 2026. Hij is sterk in 1440p, heeft 32 GB DDR5 en een ruime 850 watt voeding. Wil je meer prestaties per euro, kijk dan naar de AZZA Prime met RTX 5070."
+      "a": "Op basis van onze vergelijking is de Lenovo Legion T5 met AMD Ryzen 7 7700X en RTX 5070 de beste gaming pc van 2026. Hij is sterk in 1440p, heeft 32 GB DDR5, waterkoeling en wifi 7. Wil je meer prestaties per euro, kijk dan naar de AZZA Prime met RTX 5070."
     },
     {
       "q": "Hoeveel moet je uitgeven aan een gaming pc?",
@@ -709,11 +707,11 @@
       },
       {
         "h": "Speel je vooral shooters en strategie?",
-        "p": "In cpu-zware games leveren de AMD X3D-processors de hoogste en stabielste framerates. De nr. 1 Lenovo Legion T5 en de nr. 3 HP OMEN 35L hebben allebei de Ryzen 7 7800X3D. De nr. 6 Fractal Design North en de nr. 7 MSI Pano hebben de nog snellere 9800X3D. Stream of bewerk je ook veel video, dan helpt een processor met meer kernen, zoals de Ryzen 9 9900X3D in de nr. 2 HP OMEN."
+        "p": "In cpu-zware games leveren de AMD X3D-processors de hoogste en stabielste framerates. De nr. 3 HP OMEN 35L heeft de Ryzen 7 7800X3D; de nr. 1 Lenovo Legion T5 gebruikt de Ryzen 7 7700X zonder extra cache. De nr. 6 Fractal Design North en de nr. 7 MSI Pano hebben de nog snellere 9800X3D. Stream of bewerk je ook veel video, dan helpt een processor met meer kernen, zoals de Ryzen 9 9900X3D in de nr. 2 HP OMEN."
       },
       {
         "h": "Wat is je budget?",
-        "p": "Met € 1.100 tot € 1.500 speel je in 1080p, met de nr. 10 Scan, de nr. 9 Lenovo LOQ of de nr. 8 ASUS ROG G700 met RTX 5060 (€ 1.499). De goedkoopste RTX 5070 is de nr. 5 AZZA Prime (€ 1.719), al zijn de processor en het DDR4-geheugen een oudere generatie. Voor ruim € 400 meer krijg je met de nr. 1 Lenovo een nieuwer platform met DDR5 en een X3D-processor."
+        "p": "Met € 1.100 tot € 1.500 speel je in 1080p, met de nr. 10 Scan, de nr. 9 Lenovo LOQ of de nr. 8 ASUS ROG G700 met RTX 5060 (€ 1.499). De goedkoopste RTX 5070 is de nr. 5 AZZA Prime (€ 1.719), al zijn de processor en het DDR4-geheugen een oudere generatie. Voor ruim € 250 meer krijg je met de nr. 1 Lenovo een nieuwer platform met DDR5 en waterkoeling."
       }
     ],
     "wanneer": [
@@ -723,7 +721,7 @@
       },
       {
         "rank": 3,
-        "p": "Kies de HP OMEN 35L GT16-1773nd als je dezelfde Ryzen 7 7800X3D en RTX 5070 als de nr. 1 wilt en vooral op de prijs let. Op bol is hij vaak iets goedkoper dan de Lenovo. Kopers op bol geven hem wel een duidelijk lagere score dan de Legion T5, die daarom op nr. 1 staat."
+        "p": "Kies de HP OMEN 35L GT16-1773nd als je dezelfde RTX 5070 als de nr. 1 wilt, maar met de Ryzen 7 7800X3D die in cpu-zware games iets hogere framerates haalt. Kopers op bol geven hem wel een duidelijk lagere score dan de Legion T5, die daarom op nr. 1 staat."
       }
     ]
   },
@@ -735,6 +733,12 @@
     "beste-gaming-headset"
   ],
   "wissels": [
+    {
+      "d": "2026-11-19",
+      "uit": "Lenovo Legion T5 30AGB10 90YJ0097MH (Ryzen 7 7800X3D, RTX 5070)",
+      "in": "Lenovo Legion T5 30AGB10 90YJ0098MH (Ryzen 7 7700X, RTX 5070)",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-17",
       "uit": "ASUS ROG G700 G700TF-7265KF306W",

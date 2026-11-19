@@ -333,66 +333,43 @@
       "rating": 5.0
     },
     {
-      "brand": "SMH LINE",
-      "name": "Mobiele Gaskachel 4200W",
-      "price": 82.99,
+      "brand": "Eurocatch",
+      "name": "Mobiele Gaskachel 4200 W",
+      "price": 94.99,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
-      "oneliner": "Betaalbare keramische straler van 4,2 kW met slang en regelaar.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Keramische straler van 4,2 kW met slang, regelaar en zwenkwielen.",
       "specs": {
         "Vermogen": "4,2 kW",
-        "Geschikt tot": "ca. 82 m²",
+        "Geschikt tot": "ca. 82 m³",
         "Standen": "3",
-        "Gasfles": "8 tot 15 kg",
-        "Beveiliging": "ODS, omval"
+        "Gasfles": "5 of 11 kg",
+        "Beveiliging": "ODS, omval, oververhitting"
       },
       "pros": [
-        "Veel vermogen voor de prijs",
+        "Drie standen: 1,5, 2,9 en 4,2 kW",
         "Slang en drukregelaar meegeleverd",
-        "Past een grote fles tot 15 kg",
-        "Zijwanden klappen in voor opslag"
+        "Vier zwenkwielen en inklapbare achterkant",
+        "Beveiliging tegen kantelen, oververhitting en zuurstoftekort"
       ],
       "cons": [
-        "Eenvoudige afwerking",
+        "Fabrieksgarantie maar één jaar",
         "Geen vlameffect of sfeer"
       ],
-      "ideal": "Wie een garage, werkplaats of grote hobbyruimte goedkoop wil verwarmen.",
-      "text": "De SMH LINE gaskachel is een klassieke straler met drie keramische platen. Je kiest uit 1,5 kW, 2,9 kW of 4,2 kW. Op de laagste stand verbruikt hij 109 gram gas per uur, op de hoogste 305 gram. Met een fles van 15 kg stook je volgens de fabrikant tot 137 uur op laag of ongeveer 49 uur op vol vermogen.\n\nDe slang met drukregelaar zit in de doos. Achterin past een fles van 8 tot 15 kg. De kachel weegt 9 kg, rijdt op vier wielen en de zijwanden klappen in als je hem in de zomer opbergt. Een antikantelsysteem en een ODS-beveiliging zijn ingebouwd. Kopers op bol geven hem gemiddeld een 4,4 en noemen vooral de snelle warmte in een koude garage. Het uiterlijk is zakelijk en een vlameffect ontbreekt. Voor een werkplaats of schuur is dat geen bezwaar.",
-      "ean": "8721321960669",
-      "bol_title": "SMH LINE® Gaskachel - Mobiele Gaskachel - 4200W - 3 standen - Piëzo - Incl. Slang en Drukregelaar",
-      "url": "https://www.bol.com/nl/nl/p/smh-line-gaskachel-mobiele-gaskachel-4200w-3-standen-piezo-incl-slang-en-drukregelaar/9300000256285314/",
-      "image": "https://media.s-bol.com/NvY2jqQml3KK/1jRX65Z/550x501.jpg",
+      "ideal": "Wie een garage, werkplaats of grote hobbyruimte betaalbaar wil verwarmen.",
+      "text": "De Eurocatch mobiele gaskachel is een klassieke straler met keramische platen in een honingraatstructuur. Je kiest uit drie standen: 1500, 2900 of 4200 watt. Het gasverbruik ligt volgens de specificaties tussen ongeveer 110 en 306 gram per uur, afhankelijk van de stand. Hij werkt op butaan, propaan of een mengsel daarvan en is volgens de productinformatie bedoeld voor flessen van 5 of 11 kg.\n\nDe gasslang en drukregelaar zitten in de doos. De kachel weegt ongeveer 9,5 kg en rijdt op vier zwenkwielen. De achterkant klapt in, wat handig is als je hem in de zomer opbergt. Ontsteken gaat met een piëzo-knop. Eurocatch noemt beveiliging tegen kantelen, oververhitting, zuurstoftekort en vlamuitval. Kopers geven hem bij bol een 4,3 van 5. De fabrieksgarantie is één jaar en een vlameffect ontbreekt. Voor een werkplaats, schuur of garage met goede ventilatie is dat geen bezwaar.",
+      "ean": "8720986645195",
+      "rating": 4.3,
+      "bol_title": "Eurocatch Mobiele Gaskachel 4200 W - Slang en Drukregelaar - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/eurocatch-gaskachel-mobiele-kachel-incl-slang-en-drukregelaar-zwart-4200w/9300000196537257/",
+      "image": "https://media.s-bol.com/NrK4kkqvxkGL/BB2r4Oo/550x556.jpg",
       "ph": {
-        "2026-10-28": 81.99,
-        "2026-10-29": 81.99,
-        "2026-10-30": 81.99,
-        "2026-10-31": 81.99,
-        "2026-11-01": 81.99,
-        "2026-11-02": 81.99,
-        "2026-11-03": 81.99,
-        "2026-11-04": 81.99,
-        "2026-11-05": 81.99,
-        "2026-11-06": 79.99,
-        "2026-11-07": 82.99,
-        "2026-11-08": 82.99,
-        "2026-11-09": 82.99,
-        "2026-11-10": 89.99,
-        "2026-11-11": 82.99,
-        "2026-11-12": 82.99,
-        "2026-11-13": 82.99,
-        "2026-11-14": 82.99,
-        "2026-11-16": 82.99,
-        "2026-11-17": 82.99,
-        "2026-11-18": 82.99,
-        "2026-11-19": 82.99
+        "2026-11-19": 94.99
       },
-      "low_price": 79.99,
-      "synced": "2026-11-19",
-      "prev_price": 89.99,
-      "prev_date": "2026-11-10",
-      "ph_ean": "8721321960669",
-      "rating": 4.5
+      "low_price": 94.99,
+      "ph_ean": "8720986645195",
+      "synced": "2026-11-19"
     },
     {
       "brand": "Eurocatch",
@@ -682,5 +659,13 @@
   ],
   "rel": [
     "beste-elektrische-openhaard"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-19",
+      "uit": "SMH LINE Mobiele Gaskachel 4200W",
+      "in": "Eurocatch Mobiele Gaskachel 4200 W",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

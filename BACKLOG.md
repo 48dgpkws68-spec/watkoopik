@@ -13,8 +13,12 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-cadeau-1-jarige | speelgoed | speelgoed 1 jaar | De 10 beste cadeaus voor 1-jarigen van 2026 | 🧸
 [x] beste-speelkeuken | speelgoed | speelkeuken | De 10 beste speelkeukens van 2026 | 🍳
 [x] beste-playmobil | speelgoed | playmobil | De 10 beste Playmobil-sets van 2026 | 🏰
-# Verbeterronde 17 nov 2026: kerstbomen klikken het best (52 weergaven, 39 bol-kliks in 7 dagen), dus deze 2 eerst
+# Verbeterronde 19 nov 2026: boxspring is nu de best klikkende gids (21 bol-kliks bij 18 weergaven in 7 dagen, Anno 1588 Amsterdam 12 kliks) en heeft geen subgidsen; kerstboom 180 cm (open sinds 17 nov) plus deze 3 eerst
 [ ] beste-kunstkerstboom-180-cm | wonen | kunstkerstboom 180 cm | De 10 beste kunstkerstbomen van 180 cm van 2026 | 🎄
+[ ] beste-elektrische-boxspring | slapen | elektrische boxspring | De 10 beste elektrische boxsprings van 2026 | 🛏️
+[ ] beste-boxspring-180x200 | slapen | boxspring 180x200 | De 10 beste boxsprings van 180x200 van 2026 | 🛏️
+[ ] beste-boxspring-onder-500-euro | slapen | boxspring onder 500 euro | De 10 beste boxsprings onder 500 euro van 2026 | 🛏️
+# Verbeterronde 17 nov 2026: kerstbomen klikken het best (52 weergaven, 39 bol-kliks in 7 dagen), dus deze 2 eerst
 [x] beste-kunstkerstboom-onder-100-euro | wonen | kunstkerstboom onder 100 euro | De 10 beste kunstkerstbomen onder 100 euro van 2026 | 🎄
 [x] beste-cadeau-6-jarige | speelgoed | speelgoed 6 jaar | De 10 beste cadeaus voor 6-jarigen van 2026 | 🎁
 [ ] beste-duplo | speelgoed | lego duplo | De 10 beste DUPLO-sets van 2026 | 🧱
@@ -37,7 +41,6 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-prullenbak | huishouden | prullenbak | De 10 beste prullenbakken van 2026 | 🗑️
 [x] beste-tv-onder-200-euro | elektronica | tv onder 200 euro | De 10 beste tv's onder 200 euro van 2026 | 📺
 [ ] beste-smartphone-onder-200-euro | telefoon | smartphone onder 200 euro | De 10 beste smartphones onder 200 euro van 2026 | 📱
-[ ] beste-elektrische-boxspring | slapen | elektrische boxspring | De 10 beste elektrische boxsprings van 2026 | 🛏️
 [ ] beste-luchtreiniger-huisstofmijt | wonen | luchtreiniger huisstofmijt | De 10 beste luchtreinigers tegen huisstofmijt van 2026 | 🌬️
 
 # groeimotor 14 nov 2026 (AI1): smalle gidsen in de families die ChatGPT aanhaalt. In 28 dagen kwamen 667 van 988 bezoekers via ChatGPT en die landen op smalle gidsen (tv onder 500: 29, tv 55 inch: 22, tv onder 300: 21), niet op brede (televisie 3, laptop 0, smartphone 0).

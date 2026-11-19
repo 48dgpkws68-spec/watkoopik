@@ -631,69 +631,43 @@
     },
     {
       "brand": "Epson",
-      "name": "EH-TW7000",
-      "price": 849.0,
+      "name": "EH-TW7100",
+      "price": 999.0,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 4,9 van 5",
-      "oneliner": "Heldere 4K-beamer voor een echte thuisbioscoop met lens shift en HDR.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Heldere 4K-beamer voor een vaste thuisbioscoop met lens shift en HDR10.",
       "specs": {
         "Resolutie": "4K PRO-UHD (pixelverschuiving)",
         "Helderheid": "3.000 lumen",
-        "Lichtbron": "Lamp",
+        "Lichtbron": "Lamp, tot 3.500 uur",
         "Smart-systeem": "Geen, via HDMI",
-        "Speakers": "Ingebouwd, 2 x 5 W"
+        "Speakers": "Ingebouwd, 2 x 10 W"
       },
       "pros": [
         "3.000 lumen, ook bruikbaar met wat licht in de kamer",
-        "4K-beeld met HDR10 en HLG",
+        "Contrast van 100.000:1 en HDR10",
         "Lens shift en 1,6x zoom voor flexibele plaatsing",
-        "3LCD-techniek zonder regenboogeffect"
+        "Stil met 32 dB"
       ],
       "cons": [
-        "Geen ingebouwde apps",
+        "Geen wifi of ingebouwde apps",
         "Lamp moet na verloop van tijd vervangen worden",
-        "Groot en zwaar apparaat"
+        "Groot apparaat voor een vaste plek"
       ],
       "ideal": "Filmliefhebbers die een vaste thuisbioscoop inrichten en een groot, helder 4K-beeld willen.",
-      "text": "De Epson EH-TW7000 is een thuisbioscoopbeamer voor wie een vaste plek heeft en een groot beeld wil. Met 3.000 lumen is hij helder genoeg om ook met wat licht in de kamer te kijken. Het beeld komt uit 3LCD-panelen met pixelverschuiving, wat een scherp 4K-beeld oplevert zonder het regenboogeffect dat sommige mensen bij DLP zien. HDR10 en HLG worden ondersteund.\n\nDe grote kracht zit in de plaatsing. Dankzij lens shift en een 1,6x zoom hoef je de beamer niet precies recht voor het scherm te hangen. Op bol krijgt hij gemiddeld een 4,9 van de 5. Er zitten geen apps in, dus je sluit een streamingstick of mediaspeler aan via HDMI. De lamp gaat lang mee, maar moet na een paar duizend uur vervangen worden. Voor ruim 850 euro krijg je hier echte thuisbioscoopkwaliteit.",
-      "ean": "8715946670867",
-      "bol_title": "Epson EH TW7000 - 4K Beamer - 3000 lumen",
-      "url": "https://www.bol.com/nl/nl/p/epson-eh-tw7000-4k-beamer-3000-lumen/9200000119392075/",
-      "image": "https://media.s-bol.com/2wylJzR2mm2W/VOl7JAo/550x369.jpg",
-      "synced": "2026-11-19",
+      "text": "De Epson EH-TW7100 is een thuisbioscoopbeamer voor wie een vaste plek heeft en een groot beeld wil. Met 3.000 lumen is hij helder genoeg om ook met wat licht in de kamer te kijken. Het beeld komt uit 3LCD-panelen met pixelverschuiving, wat Epson 4K PRO-UHD noemt. De contrastverhouding is 100.000:1 en HDR10 wordt ondersteund. Hij speelt ook 3D af.\n\nDe grote kracht zit in de plaatsing. Dankzij horizontale en verticale lens shift en een 1,6x zoom hoef je de beamer niet precies recht voor het scherm te hangen. Op een afstand van ongeveer 3 tot 4,8 meter projecteer je tot 300 inch. Er zitten geen apps in, dus je sluit een streamingstick of mediaspeler aan op een van de twee HDMI-poorten. Twee speakers van 10 W zijn handig voor tussendoor. Met een input lag van 29 ms kun je er ook op gamen. De lamp gaat tot 3.500 uur mee en is daarna te vervangen. Op bol heeft hij een score van 5,0 van 5.",
+      "ean": "8715946670843",
+      "rating": 5.0,
+      "bol_title": "Epson - V11H959040 - Dataprojector",
+      "url": "https://www.bol.com/nl/nl/p/epson-eh-tw7100-beamer/9200000119392060/",
+      "image": "https://media.s-bol.com/7GYrMXWzowAG/nZvrpgD/550x269.jpg",
       "ph": {
-        "2026-10-24": 879.0,
-        "2026-10-25": 879.0,
-        "2026-10-26": 879.0,
-        "2026-10-27": 879.0,
-        "2026-10-28": 879.0,
-        "2026-10-29": 879.0,
-        "2026-10-30": 879.0,
-        "2026-10-31": 879.0,
-        "2026-11-01": 879.0,
-        "2026-11-02": 879.0,
-        "2026-11-03": 879.0,
-        "2026-11-04": 879.0,
-        "2026-11-05": 879.0,
-        "2026-11-06": 879.0,
-        "2026-11-07": 879.0,
-        "2026-11-08": 879.0,
-        "2026-11-09": 879.0,
-        "2026-11-10": 879.0,
-        "2026-11-11": 879.0,
-        "2026-11-12": 879.0,
-        "2026-11-13": 879.0,
-        "2026-11-14": 879.0,
-        "2026-11-16": 879.0,
-        "2026-11-17": 849.0,
-        "2026-11-18": 849.0
+        "2026-11-19": 999.0
       },
-      "low_price": 849.0,
-      "ph_ean": "8715946670867",
-      "prev_price": 879.0,
-      "prev_date": "2026-11-16",
-      "rating": 4.9
+      "low_price": 999.0,
+      "ph_ean": "8715946670843",
+      "synced": "2026-11-19"
     }
   ],
   "guide": [
@@ -748,5 +722,13 @@
       "a": "Een lichte, gladde muur werkt, zeker bij een beamer met veel lumen. Een scherm geeft wel meer contrast en een egaler beeld en kost vanaf ongeveer 50 euro. Voor een vaste thuisbioscoop is een scherm de moeite waard."
     }
   ],
-  "published": "2026-10-16"
+  "published": "2026-10-16",
+  "wissels": [
+    {
+      "d": "2026-11-19",
+      "uit": "Epson EH-TW7000",
+      "in": "Epson EH-TW7100",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

@@ -16,8 +16,8 @@
   "color": "#1f3fa8",
   "updated": "2026-10-20",
   "reviews_total": "3.900",
-  "intro": "Een PlayStation 5 kopen lijkt simpel, maar op bol staan inmiddels meer dan tien verschillende consoles en bundels. Je kiest tussen de Slim met of zonder schijfstation, de krachtige PS5 Pro en bundels met een extra controller of een game. De prijzen liggen op dit moment hoger dan bij de introductie, dus vergelijken loont. Wij zetten alle consoles die nu bij bol te koop zijn naast elkaar op model, opslag, inhoud van de doos, prijs en reviews. Dit zijn de tien beste PS5-bundels van 2026.",
-  "verdict": "De PlayStation 5 Slim Disc Edition is voor de meeste gamers de beste keuze: je kunt zowel digitale als fysieke games spelen en tweedehands schijfjes doorverkopen. Speel je alleen digitaal, dan is de Digital Edition Slim de beste prijs-kwaliteit. Heb je een 4K-tv met 120 Hz en wil je de scherpste beelden, dan is de PS5 Pro de premium keuze. Speel je vaak samen, kies dan een bundel met twee controllers.",
+  "intro": "Een PlayStation 5 kopen lijkt simpel, maar op bol staan inmiddels meer dan tien verschillende consoles en bundels. Je kiest tussen de Slim met of zonder schijfstation en bundels met een extra controller of een game. De PS5 Pro is nu niet leverbaar bij bol, daarom staan er ook vier uitbreidingen voor je PS5 in de lijst. De prijzen liggen op dit moment hoger dan bij de introductie, dus vergelijken loont. Wij zetten alle consoles die nu bij bol te koop zijn naast elkaar op model, opslag, inhoud van de doos, prijs en reviews. Dit zijn de tien beste PS5-bundels van 2026.",
+  "verdict": "De PlayStation 5 Slim Disc Edition is voor de meeste gamers de beste keuze: je kunt zowel digitale als fysieke games spelen en tweedehands schijfjes doorverkopen. Speel je alleen digitaal, dan is de Digital Edition Slim de beste prijs-kwaliteit. Speel je vaak samen, kies dan de Slim Digital Edition met twee DualSense-controllers: dat is nu de premium keuze, want de PS5 Pro is niet leverbaar bij bol. Heb je al een PS5, dan zijn de PS VR2 en de Disc Drive de zinvolste uitbreidingen.",
   "products": [
     {
       "brand": "Sony",
@@ -135,134 +135,81 @@
     },
     {
       "brand": "Sony",
-      "name": "PlayStation 5 Pro",
-      "price": 1642.0,
-      "score": 9.1,
+      "name": "PlayStation 5 Slim Digital Edition met 2 DualSense",
+      "price": 919.0,
+      "score": 8.8,
       "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
-      "oneliner": "Krachtigste PS5 met 2 TB en scherpere beelden op 4K-tv's.",
+      "oneliner": "Digitale PS5 Slim met direct een tweede controller in de doos.",
       "specs": {
-        "Model": "PS5 Pro",
+        "Model": "PS5 Slim",
         "Schijfstation": "Nee, los bij te kopen",
-        "Controllers": "1 DualSense",
-        "Extra": "2 TB opslag, PSSR-upscaling"
+        "Controllers": "2 DualSense",
+        "Extra": "Tweede controller"
       },
       "pros": [
-        "Tot 45 procent snellere grafische chip",
-        "PSSR-upscaling voor scherp 4K-beeld",
-        "2 TB opslag, dubbel zo veel als de Slim",
-        "Wifi 7 en betere raytracing"
-      ],
-      "cons": [
-        "Prijs op bol ligt ver boven de adviesprijs",
-        "Geen schijfstation in de doos",
-        "Alleen zinvol met een goede 4K-tv"
-      ],
-      "ideal": "Wie een grote 4K-tv met 120 Hz heeft en het maximale uit PS5-games wil halen.",
-      "text": "De PlayStation 5 Pro is de krachtigste console die Sony maakt. De grafische chip is volgens Sony tot 45 procent sneller dan die van de gewone PS5. Daarnaast gebruikt hij PSSR, een upscaling-techniek die beelden scherper maakt zonder dat de framerate inzakt. In games die daarvoor zijn aangepast speel je zo in een hoge resolutie én met 60 beelden per seconde. Je krijgt ook 2 TB opslag en wifi 7.\n\nEr zijn wel kanttekeningen. De Pro heeft geen schijfstation, dat koop je los. De prijs op bol staat nu rond de 1580 euro, veel hoger dan de oorspronkelijke adviesprijs. Vergelijk dus zeker andere aanbieders voor je koopt. Het verschil met een Slim zie je vooral op een grote 4K-tv met 120 Hz-ondersteuning. Op een oudere of kleinere tv is de meerprijs moeilijk te verantwoorden. Kopers op bol geven hem een 4,7.",
-      "ean": "0711719595472",
-      "bol_title": "PlayStation 5 Pro",
-      "url": "https://www.bol.com/nl/nl/p/sony-playstation-5-pro/9300000189666732/",
-      "image": "https://media.s-bol.com/np5rL5QGD5P4/PZjyPwW/550x601.jpg",
-      "synced": "2026-11-19",
-      "ph": {
-        "2026-10-20": 1580.0,
-        "2026-10-21": 1650.0,
-        "2026-10-23": 1650.0,
-        "2026-10-24": 1650.0,
-        "2026-10-25": 1650.0,
-        "2026-10-26": 1679.0,
-        "2026-10-27": 1670.0,
-        "2026-10-28": 1649.0,
-        "2026-10-29": 1649.0,
-        "2026-10-30": 1580.0,
-        "2026-10-31": 1485.0,
-        "2026-11-01": 1485.0,
-        "2026-11-02": 1485.0,
-        "2026-11-03": 1490.0,
-        "2026-11-04": 1499.0,
-        "2026-11-05": 1499.0,
-        "2026-11-06": 1549.0,
-        "2026-11-07": 1549.0,
-        "2026-11-08": 1549.0,
-        "2026-11-09": 1642.0,
-        "2026-11-10": 1642.0,
-        "2026-11-11": 1689.0,
-        "2026-11-12": 1689.0,
-        "2026-11-13": 1649.0,
-        "2026-11-14": 1639.0,
-        "2026-11-16": 1639.0,
-        "2026-11-17": 1689.0,
-        "2026-11-18": 1685.0,
-        "2026-11-19": 1642.0
-      },
-      "low_price": 1485.0,
-      "prev_price": 1685.0,
-      "prev_date": "2026-11-18",
-      "ph_ean": "0711719595472",
-      "rating": 4.7
-    },
-    {
-      "brand": "Sony",
-      "name": "PlayStation 5 Digital Edition 1 TB wit",
-      "price": 769.99,
-      "score": 8.6,
-      "label": null,
-      "reviews": "",
-      "oneliner": "Digitale PS5 met 1 TB opslag in de witte uitvoering.",
-      "specs": {
-        "Model": "PS5 Digital Edition",
-        "Schijfstation": "Nee, los bij te kopen",
-        "Controllers": "1 DualSense",
-        "Extra": "1 TB SSD"
-      },
-      "pros": [
-        "1 TB opslag voor veel games",
-        "Uit te breiden met een M.2 SSD",
-        "Disc Drive later los toe te voegen"
+        "Direct met z'n tweeën spelen",
+        "Goedkoper dan de Disc-bundel met twee controllers",
+        "Schijfstation later los toe te voegen",
+        "Compact Slim-ontwerp"
       ],
       "cons": [
         "Geen schijfstation",
-        "Nog weinig reviews op bol",
-        "Maar één controller"
+        "Games koop je in de PlayStation Store",
+        "Maximaal twee per klant bij bol"
       ],
-      "ideal": "Digitale gamers die een PS5 zonder schijfstation zoeken en de prijs scherp willen houden.",
-      "text": "Deze uitvoering is de PlayStation 5 Digital Edition in het wit met 1 TB SSD-opslag. Er zit geen schijfstation in, dus je koopt en downloadt je games via de PlayStation Store of speelt ze via PlayStation Plus. Daardoor is de console goedkoper dan de Disc Edition en heb je geen kast vol hoesjes nodig. In de doos zit één DualSense-controller met haptische feedback en adaptieve triggers.\n\nMet 1 TB opslag heb je ruimte voor zo'n tien tot vijftien grote games tegelijk. Raakt de opslag vol, dan voeg je een M.2 SSD toe in de vrije sleuf. Wil je later toch fysieke games of Blu-rays afspelen, dan koop je de PS5 Disc Drive los voor ongeveer 100 euro. Deze aanbieding heeft op bol nog weinig reviews, dus vergelijk de prijs even met de Slim Digital Edition hoger in de lijst. Ben je een digitale gamer die op de prijs let, dan is dit een prima instap.",
-      "ean": "0711719710196",
-      "bol_title": "Playstation 5 White 1TB SSD Digital Edition",
-      "url": "https://www.bol.com/nl/nl/p/playstation-5-white-1tb-ssd-digital-edition/9300000149882691/",
-      "image": "https://media.s-bol.com/oKwqyXgY9k1X/k3Jv9v/550x598.jpg",
+      "ideal": "Gezinnen en huisgenoten die vaak samen spelen en games digitaal kopen.",
+      "text": "Deze bundel combineert de PlayStation 5 Slim Digital Edition met twee DualSense-controllers. Dat is handig als je vaak samen speelt, bijvoorbeeld met kinderen of een huisgenoot: een losse tweede controller kost al snel 60 euro. De console is even snel als de Disc Edition, met dezelfde snelle SSD, haptische feedback, adaptieve triggers en 3D-audio. Alleen het schijfstation ontbreekt.\n\nZonder schijfstation koop je games in de PlayStation Store of speel je ze via PlayStation Plus. Wil je later toch fysieke games spelen, dan sluit je de losse PS5 Disc Drive aan, die je verderop in deze lijst vindt. Vergeleken met de Disc-bundel met twee controllers op plek 9 betaal je hier minder, zolang je geen schijfjes nodig hebt. Let op: bol verkoopt maximaal twee stuks per klant. Kopers op bol geven deze bundel een 4,7 van 5. De PS5 Pro is op dit moment niet leverbaar bij bol, daarom is deze bundel nu de premium keuze in deze lijst.",
+      "ean": "0711719022633",
+      "rating": 4.7,
+      "bol_title": "PlayStation 5 Digital Edition - Slim - Bundel met 2 Dualsense Draadloze Controllers",
+      "url": "https://www.bol.com/nl/nl/p/playstation-5-digital-edition-dualsense-controller-slim/9300000171979393/",
+      "image": "https://media.s-bol.com/BW4M4798gyVx/wmp3ZA1/550x418.jpg",
       "ph": {
-        "2026-10-24": 769.99,
-        "2026-10-25": 769.99,
-        "2026-10-26": 769.99,
-        "2026-10-27": 769.99,
-        "2026-10-28": 769.99,
-        "2026-10-29": 769.99,
-        "2026-10-30": 769.99,
-        "2026-10-31": 769.99,
-        "2026-11-01": 769.99,
-        "2026-11-02": 769.99,
-        "2026-11-03": 769.99,
-        "2026-11-04": 769.99,
-        "2026-11-05": 769.99,
-        "2026-11-06": 769.99,
-        "2026-11-07": 769.99,
-        "2026-11-08": 769.99,
-        "2026-11-09": 769.99,
-        "2026-11-10": 769.99,
-        "2026-11-11": 769.99,
-        "2026-11-12": 769.99,
-        "2026-11-13": 769.99,
-        "2026-11-14": 769.99,
-        "2026-11-16": 769.99,
-        "2026-11-17": 769.99,
-        "2026-11-18": 769.99,
-        "2026-11-19": 769.99
+        "2026-11-19": 919.0
       },
-      "low_price": 769.99,
-      "synced": "2026-11-19",
-      "ph_ean": "0711719710196"
+      "low_price": 919.0,
+      "ph_ean": "0711719022633",
+      "synced": "2026-11-19"
+    },
+    {
+      "brand": "Sony",
+      "name": "PlayStation VR2",
+      "price": 339.99,
+      "score": 8.6,
+      "label": null,
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "VR-bril voor je PS5 met OLED-schermen en eye tracking.",
+      "specs": {
+        "Model": "PS VR2",
+        "Schijfstation": "Nee, werkt met je PS5",
+        "Controllers": "2 Sense-controllers",
+        "Extra": "OLED, 4K HDR, 110 graden beeld"
+      },
+      "pros": [
+        "OLED-schermen met 4K HDR",
+        "Gezichtsveld van 110 graden",
+        "Eye tracking en headsetfeedback",
+        "Aansluiten met één USB-C-kabel"
+      ],
+      "cons": [
+        "Werkt alleen met een PS5",
+        "VR-games koop je los",
+        "Bekabeld"
+      ],
+      "ideal": "PS5-bezitters die games van dichtbij willen beleven in virtual reality.",
+      "text": "De PlayStation VR2 is geen console, maar een uitbreiding voor wie al een PS5 heeft. Omdat de PS5 Pro en de oudere modellen nu niet leverbaar zijn bij bol, staat hij in deze lijst als aanvulling. Je sluit de bril met één USB-C-kabel aan op je PS5 en binnen een paar minuten speel je.\n\nDe bril heeft OLED-schermen met 4K HDR in geschikte games en een gezichtsveld van 110 graden. Eye tracking volgt waar je kijkt, de headset trilt mee met de actie en de twee Sense-controllers hebben adaptieve triggers zoals de DualSense. 3D-audio maakt duidelijk waar geluiden vandaan komen. Brildragers kunnen hem ook gebruiken. De bril werkt alleen met een PS5 en is bekabeld, dus je zit vast aan een kabel van bril naar console. VR-games koop je los. Kopers op bol geven de PS VR2 een 4,6 van 5. Heb je ruimte in de woonkamer en houd je van racegames of avontuur, dan is dit een van de grootste upgrades voor je PS5.",
+      "ean": "0711719454298",
+      "rating": 4.6,
+      "bol_title": "PS VR2 - Virtual Reality Headset - Sony PlayStation - PS5",
+      "url": "https://www.bol.com/nl/nl/p/virtual-reality-bril-sony-playstation-vr2/9300000148520045/",
+      "image": "https://media.s-bol.com/w19oEBMrqGym/wj67Qv1/550x360.jpg",
+      "ph": {
+        "2026-11-19": 339.99
+      },
+      "low_price": 339.99,
+      "ph_ean": "0711719454298",
+      "synced": "2026-11-19"
     },
     {
       "brand": "Sony",
@@ -435,69 +382,41 @@
     },
     {
       "brand": "Sony",
-      "name": "PlayStation 5 Disc Edition (eerste model)",
-      "price": 812.99,
+      "name": "PlayStation 5 Disc Drive",
+      "price": 99.99,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "De originele grote PS5 met schijfstation en 825 GB opslag.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "Los schijfstation waarmee je digitale PS5 fysieke games speelt.",
       "specs": {
-        "Model": "PS5 (eerste model)",
-        "Schijfstation": "Ja, Ultra HD Blu-ray",
-        "Controllers": "1 DualSense",
-        "Extra": "Geen"
+        "Model": "PS5 Disc Drive",
+        "Schijfstation": "Ja, los station",
+        "Controllers": "Geen",
+        "Extra": "Voor PS5 Slim Digital en PS5 Pro"
       },
       "pros": [
-        "Ingebouwd schijfstation",
-        "Grotere behuizing koelt rustig",
-        "Bewezen betrouwbaar, veel reviews"
+        "Maakt van een Digital Edition een complete PS5",
+        "Speel PS5- en PS4-games op schijf",
+        "Ook voor Blu-ray-films",
+        "Officieel van Sony"
       ],
       "cons": [
-        "Duurder dan de nieuwere Slim Disc Edition",
-        "Minder opslag: 825 GB",
-        "Groot en zwaar"
+        "Eenmalig internet nodig om te koppelen",
+        "Werkt niet met de eerste PS5 Digital Edition"
       ],
-      "ideal": "Wie specifiek het originele ontwerp wil of nog oude faceplates heeft liggen.",
-      "text": "Dit is de originele PlayStation 5 uit 2020, met het grote witte ontwerp en het ingebouwde schijfstation. Sony maakt dit model niet meer, maar via bol zijn nog nieuwe exemplaren te koop. De prestaties zijn gelijk aan die van de Slim: dezelfde processor, dezelfde grafische chip en dezelfde snelle SSD. Je merkt in games dus geen verschil.\n\nWel zijn er nadelen ten opzichte van de Slim. De opslag is 825 GB, waarvan ongeveer 667 GB bruikbaar is. Dat is minder dan de 1 TB van de Slim. De console is ook flink groter en zwaarder, wat lastig kan zijn in een tv-meubel. Bovendien is hij op bol nu ongeveer 60 euro duurder dan de nieuwere Slim Disc Edition. Er is eigenlijk maar één reden om hem te kiezen: als je het originele ontwerp mooier vindt of nog faceplates voor dit model hebt. Kopers op bol geven hem een 4,6.",
-      "ean": "0711719395201",
-      "bol_title": "PlayStation 5 - Disc edition",
-      "url": "https://www.bol.com/nl/nl/p/playstation-5-console-disc-edition/9300000004162282/",
-      "image": "https://media.s-bol.com/RvzlkPpwLR2q/lYEz775/550x692.jpg",
-      "synced": "2026-11-19",
+      "ideal": "Wie een PS5 Digital Edition heeft en toch fysieke games wil spelen.",
+      "text": "De PS5 Disc Drive is het losse schijfstation van Sony voor de PS5 Slim Digital Edition en de PS5 Pro. Je klikt hem aan de console en speelt daarna PS5-games en een groot deel van de PS4-games op schijf. Ook Blu-ray-films speel je er mee af. Bij de installatie heb je eenmalig een internetverbinding nodig om het station aan je console te koppelen.\n\nHij staat in deze lijst omdat hij een Digital Edition, zoals de consoles op plek 2 en 3, verandert in een console die alles kan. Dat is interessant, want fysieke games zijn na een paar maanden vaak goedkoper dan in de PlayStation Store en je kunt ze doorverkopen of uitlenen. In de doos zitten ook twee langere voetjes voor de horizontale standaard. Kopers op bol geven de Disc Drive een 4,7 van 5. Met de eerste PS5 Digital Edition uit 2020 werkt hij niet, want die heeft geen aansluiting voor een los station.",
+      "ean": "0711719580799",
+      "rating": 4.7,
+      "bol_title": "PlayStation 5 - Disc Drive",
+      "url": "https://www.bol.com/nl/nl/p/naped-dyskow-sony-dla-playstation-5/9300000166374058/",
+      "image": "https://media.s-bol.com/mPmDwAM8LMWO/grlLv6/430x840.jpg",
       "ph": {
-        "2026-10-20": 812.99,
-        "2026-10-21": 812.99,
-        "2026-10-23": 812.99,
-        "2026-10-24": 812.99,
-        "2026-10-25": 812.99,
-        "2026-10-26": 812.99,
-        "2026-10-27": 812.99,
-        "2026-10-28": 812.99,
-        "2026-10-29": 812.99,
-        "2026-10-30": 812.99,
-        "2026-10-31": 812.99,
-        "2026-11-01": 812.99,
-        "2026-11-02": 812.99,
-        "2026-11-03": 812.99,
-        "2026-11-04": 812.99,
-        "2026-11-05": 812.99,
-        "2026-11-06": 812.99,
-        "2026-11-07": 812.99,
-        "2026-11-08": 812.99,
-        "2026-11-09": 812.99,
-        "2026-11-10": 812.99,
-        "2026-11-11": 812.99,
-        "2026-11-12": 812.99,
-        "2026-11-13": 812.99,
-        "2026-11-14": 812.99,
-        "2026-11-16": 812.99,
-        "2026-11-17": 812.99,
-        "2026-11-18": 812.99,
-        "2026-11-19": 812.99
+        "2026-11-19": 99.99
       },
-      "low_price": 812.99,
-      "ph_ean": "0711719395201",
-      "rating": 4.6
+      "low_price": 99.99,
+      "ph_ean": "0711719580799",
+      "synced": "2026-11-19"
     },
     {
       "brand": "Sony",
@@ -564,68 +483,41 @@
     },
     {
       "brand": "Sony",
-      "name": "PlayStation 5 Digital Edition 825 GB (eerste model)",
-      "price": 839.99,
+      "name": "DualSense Edge draadloze controller",
+      "price": 177.0,
       "score": 7.9,
       "label": null,
-      "reviews": "",
-      "oneliner": "Originele digitale PS5, nog los te koop via externe verkopers.",
+      "reviews": "bol-score 4,1 van 5",
+      "oneliner": "Pro-controller voor je PS5 met achtertoetsen en profielen.",
       "specs": {
-        "Model": "PS5 (eerste model)",
-        "Schijfstation": "Nee",
-        "Controllers": "1 DualSense",
-        "Extra": "Geen"
+        "Model": "DualSense Edge",
+        "Schijfstation": "Nee, controller",
+        "Controllers": "1 DualSense Edge",
+        "Extra": "Achtertoetsen, vervangbare sticks"
       },
       "pros": [
-        "Zelfde prestaties als de nieuwere modellen",
-        "Grote behuizing met rustige koeling",
-        "Leverbaar als andere versies uitverkocht zijn"
+        "Verwisselbare achtertoetsen",
+        "Instelbare triggers en stickgevoeligheid",
+        "Vervangbare stickmodules",
+        "Snel wisselen tussen profielen"
       ],
       "cons": [
-        "Duurste digitale PS5 zonder extra's",
-        "Schijfstation kun je niet toevoegen",
-        "825 GB opslag"
+        "Duur voor een controller",
+        "Bol-score lager dan de andere Sony-producten"
       ],
-      "ideal": "Alleen voor wie per se het originele digitale model zoekt.",
-      "text": "Dit is de originele PlayStation 5 Digital Edition uit 2020, het model zonder schijfstation in de grote witte behuizing. Sony maakt hem niet meer, maar externe verkopers bieden hem op bol nog nieuw aan. De prestaties zijn gelijk aan die van de Slim. De opslag is 825 GB, waarvan zo'n 667 GB bruikbaar is voor games.\n\nEen belangrijk verschil met de Slim Digital Edition is dat je bij dit eerste model later geen schijfstation kunt toevoegen. De losse PS5 Disc Drive past alleen op de Slim en de Pro. Kies je voor dit model, dan speel je dus voor altijd alleen digitaal. Met een prijs van rond de 840 euro is hij bovendien duurder dan de nieuwere Slim Digital Edition. Daarom staat hij onderaan deze lijst. Alleen als je specifiek het originele ontwerp wilt of een tweede console in dezelfde stijl zoekt, kan hij interessant zijn.",
-      "ean": "0711719710295",
-      "bol_title": "Sony PlayStation 5 Digital Edition 825 GB Wifi Zwart, Wit",
-      "url": "https://www.bol.com/nl/nl/p/sony-playstation-5-digital-edition-825-gb-wifi-zwart-wit/9300000070660416/",
-      "image": "https://media.s-bol.com/1B5MM4L9w780/0V6jB3K/550x693.jpg",
-      "synced": "2026-11-19",
+      "ideal": "Fanatieke gamers die hun bediening precies willen afstellen.",
+      "text": "De DualSense Edge is de duurdere controller van Sony voor de PS5. Net als de VR2 en de Disc Drive is het geen console, maar een uitbreiding voor wie al een PS5 heeft. Hij heeft alle functies van de gewone DualSense, zoals haptische feedback en adaptieve triggers, maar je kunt veel meer zelf instellen.\n\nAan de achterkant zitten verwisselbare toetsen, met twee vormen om uit te kiezen. Die geef je elk commando dat je wilt, zodat je je duimen op de sticks houdt. De afstand van de triggers stel je in voor snellere reacties en de gevoeligheid en dode zones van de sticks pas je aan per game. Tussen bedieningsprofielen wissel je snel. Raken de sticks na intensief gebruik versleten, dan vervang je alleen de stickmodule, die bol los verkoopt. Opladen gaat via USB-C in ongeveer drie uur. Kopers op bol geven hem een 4,1 van 5, iets lager dan de andere Sony-producten in deze lijst. Voor wie veel competitief speelt is hij het geld waard.",
+      "ean": "0711719028871",
+      "rating": 4.1,
+      "bol_title": "Sony PS5 DualSense Edge Draadloze Controller - Midnight Black",
+      "url": "https://www.bol.com/nl/nl/p/sony-dualsense-edge-draadloze-controller-ps5-midnight-black/9300000222945147/",
+      "image": "https://media.s-bol.com/BAr7vN5opGnX/1wPZo8R/550x364.jpg",
       "ph": {
-        "2026-10-20": 839.99,
-        "2026-10-21": 839.99,
-        "2026-10-23": 839.99,
-        "2026-10-24": 839.99,
-        "2026-10-25": 839.99,
-        "2026-10-26": 839.99,
-        "2026-10-27": 839.99,
-        "2026-10-28": 839.99,
-        "2026-10-29": 839.99,
-        "2026-10-30": 839.99,
-        "2026-10-31": 839.99,
-        "2026-11-01": 839.99,
-        "2026-11-02": 839.99,
-        "2026-11-03": 839.99,
-        "2026-11-04": 839.99,
-        "2026-11-05": 839.99,
-        "2026-11-06": 839.99,
-        "2026-11-07": 839.99,
-        "2026-11-08": 839.99,
-        "2026-11-09": 839.99,
-        "2026-11-10": 839.99,
-        "2026-11-11": 839.99,
-        "2026-11-12": 839.99,
-        "2026-11-13": 839.99,
-        "2026-11-14": 839.99,
-        "2026-11-16": 839.99,
-        "2026-11-17": 839.99,
-        "2026-11-18": 839.99,
-        "2026-11-19": 839.99
+        "2026-11-19": 177.0
       },
-      "low_price": 839.99,
-      "ph_ean": "0711719710295"
+      "low_price": 177.0,
+      "ph_ean": "0711719028871",
+      "synced": "2026-11-19"
     }
   ],
   "guide": [
@@ -657,7 +549,7 @@
   "faq": [
     {
       "q": "Welke PlayStation 5 is de beste in 2026?",
-      "a": "Voor de meeste spelers is de PlayStation 5 Slim Disc Edition de beste keuze, omdat je zowel fysieke als digitale games kunt spelen. Speel je alleen digitaal, dan is de Digital Edition Slim de beste prijs-kwaliteit. De PS5 Pro is de beste keuze voor een grote 4K-tv."
+      "a": "Voor de meeste spelers is de PlayStation 5 Slim Disc Edition de beste keuze, omdat je zowel fysieke als digitale games kunt spelen. Speel je alleen digitaal, dan is de Digital Edition Slim de beste prijs-kwaliteit. De PS5 Pro is sterker op een grote 4K-tv, maar is nu niet leverbaar bij bol."
     },
     {
       "q": "Wat is het verschil tussen de PS5 Slim en de PS5 Pro?",
@@ -690,6 +582,30 @@
     "beste-gaming-headset"
   ],
   "wissels": [
+    {
+      "d": "2026-11-19",
+      "uit": "Sony PlayStation 5 Digital Edition 825 GB (eerste model)",
+      "in": "Sony DualSense Edge draadloze controller",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-19",
+      "uit": "Sony PlayStation 5 Disc Edition (eerste model)",
+      "in": "Sony PlayStation 5 Disc Drive",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-19",
+      "uit": "Sony PlayStation 5 Digital Edition 1 TB wit",
+      "in": "Sony PlayStation VR2",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-19",
+      "uit": "Sony PlayStation 5 Pro",
+      "in": "Sony PlayStation 5 Slim Digital Edition met 2 DualSense",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-18",
       "uit": "Sony PlayStation 5 Slim Digital Edition met 2 DualSense",

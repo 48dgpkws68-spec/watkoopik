@@ -591,72 +591,42 @@
     },
     {
       "brand": "Acer",
-      "name": "Chromebook 314 CB314-4H-C4HF",
-      "price": 279.0,
+      "name": "Chromebook 314 CB314-4H-C16G",
+      "price": 299.0,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "",
       "oneliner": "Betaalbare 14 inch Chromebook voor mail, nieuws en videobellen.",
       "specs": {
         "Systeem": "ChromeOS",
         "Scherm": "14 inch Full HD",
-        "Processor": "Intel N-serie",
-        "Geheugen en opslag": "8 GB / 128 GB",
-        "Gewicht": "ca. 1,5 kg"
+        "Processor": "Intel N100",
+        "Geheugen en opslag": "4 GB / 128 GB",
+        "Gewicht": "ca. 1,4 kg"
       },
       "pros": [
         "Lage prijs",
         "Licht genoeg om overal mee te nemen",
         "ChromeOS is eenvoudig en veilig",
-        "Lange accuduur"
+        "Mat 14 inch Full HD-scherm"
       ],
       "cons": [
         "Kleiner scherm dan de andere aanraders",
-        "Geen touchscreen"
+        "Maar 4 GB werkgeheugen",
+        "Geen HDMI-poort"
       ],
       "ideal": "Ouderen die een eerste, eenvoudige laptop willen voor weinig geld.",
-      "text": "De Acer Chromebook 314 is de goedkoopste laptop in deze vergelijking en een prima instapper voor wie nog nooit een computer had of alleen een tablet gewend is. ChromeOS maakt het eenvoudig: je logt in met je Google-account, opent de browser en kunt meteen mailen, nieuws lezen of videobellen. Updates en beveiliging gaan automatisch.\n\nMet 8 GB geheugen is hij sneller dan veel Chromebooks in deze prijsklasse, die vaak maar 4 GB hebben. Het 14 inch Full HD-scherm is scherp, maar wel kleiner dan bij de andere modellen. Zet de tekst in de instellingen een stap groter of sluit thuis een los beeldscherm aan via HDMI. De accu houdt het ruim een dag vol. Kopers op bol noemen hem eenvoudig en snel genoeg. Er is geen touchscreen en je kunt geen Windows-programma's installeren. Voor de basis heb je daar meestal geen last van.",
-      "ean": "4711721015513",
-      "bol_title": "Acer Chromebook 314 CB314-4H-C4HF - 14 inch - 8GB - 128GB - Zilver",
-      "url": "https://www.bol.com/nl/nl/p/acer-chromebook-cb314-4h-c4hf-intel-n100-14-full-hd-8-gb-lpddr5-128-gb-emmc/9300000263156289/",
-      "image": "https://media.s-bol.com/npNXN395KGGD/VPJl4v5/550x417.jpg",
-      "synced": "2026-11-19",
+      "text": "De Acer Chromebook 314 is de goedkoopste laptop in deze vergelijking en een prima instapper voor wie nog nooit een computer had of alleen een tablet gewend is. ChromeOS maakt het eenvoudig: je logt in met je Google-account, opent de browser en kunt meteen mailen, nieuws lezen of videobellen. Updates en beveiliging gaan automatisch, minstens vijf jaar na de introductie.\n\nDeze uitvoering heeft een Intel N100-processor met 4 GB werkgeheugen en 128 GB opslag. Dat is genoeg voor de browser met een paar tabbladen, maar met veel vensters tegelijk open merk je dat hij trager wordt. Het matte 14 inch Full HD-scherm spiegelt weinig. Zet de tekst in de instellingen een stap groter, want het scherm is kleiner dan bij de andere modellen. Een los beeldscherm sluit je aan via USB-C, want een HDMI-poort ontbreekt. Er is geen touchscreen en je kunt geen Windows-programma's installeren. Voor de basis heb je daar meestal geen last van.",
+      "ean": "4711474048158",
+      "bol_title": "Acer Chromebook 314 CB314-4H-C16G - 14 inch - 4GB - 128GB - Zilver",
+      "url": "https://www.bol.com/nl/nl/p/acer-chromebook-314-cb314-4h-c16g-14-inch/9300000233805431/",
+      "image": "https://media.s-bol.com/moM6nN7rrlgE/wmnZOLR/550x417.jpg",
       "ph": {
-        "2026-10-19": 369.0,
-        "2026-10-20": 369.0,
-        "2026-10-21": 369.0,
-        "2026-10-23": 369.0,
-        "2026-10-24": 369.0,
-        "2026-10-25": 369.0,
-        "2026-10-26": 369.0,
-        "2026-10-27": 369.0,
-        "2026-10-28": 369.0,
-        "2026-10-29": 359.0,
-        "2026-10-30": 359.0,
-        "2026-10-31": 359.0,
-        "2026-11-01": 359.0,
-        "2026-11-02": 359.0,
-        "2026-11-03": 369.0,
-        "2026-11-04": 369.0,
-        "2026-11-05": 359.0,
-        "2026-11-06": 359.0,
-        "2026-11-07": 359.0,
-        "2026-11-08": 359.0,
-        "2026-11-09": 279.0,
-        "2026-11-10": 279.0,
-        "2026-11-11": 279.0,
-        "2026-11-12": 279.0,
-        "2026-11-13": 279.0,
-        "2026-11-14": 279.0,
-        "2026-11-16": 279.0,
-        "2026-11-17": 279.0,
-        "2026-11-18": 279.0
+        "2026-11-19": 299.0
       },
-      "low_price": 279.0,
-      "prev_price": 359.0,
-      "prev_date": "2026-11-08",
-      "ph_ean": "4711721015513",
-      "rating": 4.6
+      "low_price": 299.0,
+      "ph_ean": "4711474048158",
+      "synced": "2026-11-19"
     }
   ],
   "guide": [
