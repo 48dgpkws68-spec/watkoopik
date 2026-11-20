@@ -1354,7 +1354,12 @@ wr("search.json", json.dumps([{"t": g["title"], "u": g["url"], "c": CATS[g["cat"
 # llms.txt: compacte index voor AI-zoekmachines (chatgpt.com stuurt sinds 19 okt bezoekers), per categorie gids, nr. 1 en slimste koop
 if not PREVIEW:
     L = ["# watkoopik.nl", "", "> Onafhankelijke Nederlandse top 10-koopgidsen. Per productsoort tien modellen vergeleken op specificaties, prijs en reviews, met plus- en minpunten, een koopgids en veelgestelde vragen. Prijzen zijn indicatief en worden dagelijks bij bol bijgewerkt.", "",
-         "- [Alle gidsen](%s/gidsen.html)" % SITE, "- [Zo kiezen wij](%s/zo-kiezen-wij.html): werkwijze en hoe we geld verdienen" % SITE, "", "## Overzichten per productfamilie", ""]
+         "- [Alle gidsen](%s/gidsen.html)" % SITE, "- [Zo kiezen wij](%s/zo-kiezen-wij.html): werkwijze en hoe we geld verdienen" % SITE, ""]
+    # groeimotor 21 nov 2026 (uit E22 verloren): eigen prijsdata bovenaan voor AI-zoekmachines, Black Friday-regel tot en met 1 dec
+    L += ["## Eigen prijsmetingen", ""]
+    if BF_N and TODAY <= datetime.date(2026, 12, 1):
+        L.append("- [Black Friday 2026: zoveel kortingen bij bol zijn echt](%s/black-friday/echte-kortingen-2026.html): van %d dagelijks gemeten producten is %s nu minstens 10%% goedkoper dan de mediaan van de 30 dagen ervoor en %s duurder geworden; bijgewerkt %s" % (SITE, BF_N, pct(BF_CNT["echt"]), pct(BF_CNT["duur"]), TODAY.isoformat()))
+    L += ["- [Aanbiedingen](%s/aanbiedingen/): producten uit onze top 10's die echt goedkoper zijn dan eerder gemeten" % SITE, "- [Prijsverloop per model](%s/prijs/): dagelijkse bol-prijzen per model" % SITE, "", "## Overzichten per productfamilie", ""]
     L += ["- [%s](%s/%s): %d gidsen, nr. 1 %s %s" % (hub_q(c), SITE, c["hub"], len(c["members"]), win(c["members"][0])["brand"], win(c["members"][0])["name"]) for c in HUBS] + [""]
     for k in CATS:
         if not by_cat.get(k): continue

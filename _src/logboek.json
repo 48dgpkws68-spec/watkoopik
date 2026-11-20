@@ -329,7 +329,7 @@
     "paar": true
    }
   ],
-  "_tot": "59f4423fd8677d9bd6120c446993c84e9052564c",
+  "_tot": "340b71d046a74eab4e435bb79a5c13ec2f22faba",
   "_ps": [
    {
     "brand": "Hisense",
@@ -505,7 +505,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "59f4423fd8677d9bd6120c446993c84e9052564c",
+  "_tot": "340b71d046a74eab4e435bb79a5c13ec2f22faba",
   "_ps": [
    {
     "brand": "LG",
@@ -713,9 +713,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-20",
+    "t": "vervangen",
+    "uit": "Philips 65OLED811",
+    "in": "Philips 65OLED850/12",
+    "plek": 4,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "59f4423fd8677d9bd6120c446993c84e9052564c",
+  "_tot": "340b71d046a74eab4e435bb79a5c13ec2f22faba",
   "_ps": [
    {
     "brand": "Philips",
@@ -734,8 +744,8 @@
    },
    {
     "brand": "Philips",
-    "name": "65OLED811",
-    "ean": "8718863052105"
+    "name": "65OLED850/12",
+    "ean": "8718863046715"
    },
    {
     "brand": "Philips",
@@ -1057,9 +1067,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-20",
+    "t": "vervangen",
+    "uit": "TCL 50Q7C",
+    "in": "Samsung QE50QN73H",
+    "plek": 4,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "59f4423fd8677d9bd6120c446993c84e9052564c",
+  "_tot": "340b71d046a74eab4e435bb79a5c13ec2f22faba",
   "_ps": [
    {
     "brand": "Hisense",
@@ -1077,9 +1097,9 @@
     "ean": "8718863046074"
    },
    {
-    "brand": "TCL",
-    "name": "50Q7C",
-    "ean": "5901292526627"
+    "brand": "Samsung",
+    "name": "QE50QN73H",
+    "ean": "8806099124434"
    },
    {
     "brand": "LG",
@@ -1150,14 +1170,24 @@
     "in": "Acer Chromebook Plus 516 CB516-1H-320T Core 3 8 GB 128 GB",
     "plek": 10,
     "paar": true
+   },
+   {
+    "d": "2026-11-20",
+    "t": "vervangen",
+    "uit": "Apple MacBook Air 13 inch M4 (2025) 16 GB 256 GB",
+    "in": "Apple MacBook Air 13 inch M2 (2022) 8 GB 256 GB",
+    "plek": 1,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "59f4423fd8677d9bd6120c446993c84e9052564c",
+  "_tot": "340b71d046a74eab4e435bb79a5c13ec2f22faba",
   "_ps": [
    {
     "brand": "Apple",
-    "name": "MacBook Air 13 inch M4 (2025) 16 GB 256 GB",
-    "ean": "0195949838156"
+    "name": "MacBook Air 13 inch M2 (2022) 8 GB 256 GB",
+    "ean": "0194253083252"
    },
    {
     "brand": "Lenovo",
@@ -1816,7 +1846,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "59f4423fd8677d9bd6120c446993c84e9052564c",
+  "_tot": "340b71d046a74eab4e435bb79a5c13ec2f22faba",
   "_ps": [
    {
     "brand": "Samsung",
@@ -1966,7 +1996,7 @@
     "paar": true
    }
   ],
-  "_tot": "59f4423fd8677d9bd6120c446993c84e9052564c",
+  "_tot": "340b71d046a74eab4e435bb79a5c13ec2f22faba",
   "_ps": [
    {
     "brand": "Xiaomi",
