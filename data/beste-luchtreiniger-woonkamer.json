@@ -33,7 +33,7 @@
     {
       "brand": "Coway",
       "name": "Airmega 350",
-      "price": 349.99,
+      "price": 229.99,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,6 van 5",
@@ -62,17 +62,20 @@
       "url": "https://www.bol.com/nl/nl/p/coway-luchtreiniger-airmega-350-met-hepa-filter-air-purifier-cadr-713-m-u-voor-grote-ruimtes-pm10-sensor-energiebesparende-modus-wit/9300000257313007/",
       "image": "https://media.s-bol.com/RxPJDj629yKz/pQzJ9Lp/550x814.jpg",
       "ph": {
-        "2026-11-19": 349.99
+        "2026-11-19": 349.99,
+        "2026-11-20": 229.99
       },
-      "low_price": 349.99,
+      "low_price": 229.99,
       "ph_ean": "8809825509505",
       "rating": 4.6,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20",
+      "prev_price": 349.99,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Philips",
       "name": "PureProtect 3200 AC3220/10",
-      "price": 249.0,
+      "price": 239.0,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -101,12 +104,15 @@
       "url": "https://www.bol.com/nl/nl/p/philips-3200-series-pureprotect-3200-serie/9300000188249126/",
       "image": "https://media.s-bol.com/75GjXZGQDywy/D9LO0ox/547x840.jpg",
       "ph": {
-        "2026-11-19": 249.0
+        "2026-11-19": 249.0,
+        "2026-11-20": 239.0
       },
-      "low_price": 249.0,
+      "low_price": 239.0,
       "ph_ean": "8720389039317",
       "rating": 4.7,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20",
+      "prev_price": 249.0,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Winix",
@@ -140,12 +146,13 @@
       "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-t800-wifi-luchtreiniger-met-all-in-one-hepa-filter-en-plasmawave-technologie-cadr-500m-p-u-en-voor-120m-gecertificeerd-op-fijnstof-huisstofmijt-hooikoorts-en-allergie-met-winix-smart-app-bediening/9300000195325502/",
       "image": "https://media.s-bol.com/BJowMr27A702/n5AK28p/550x553.jpg",
       "ph": {
-        "2026-11-19": 149.0
+        "2026-11-19": 149.0,
+        "2026-11-20": 149.0
       },
       "low_price": 149.0,
       "ph_ean": "8809490586054",
       "rating": 4.5,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Levoit",
@@ -179,12 +186,13 @@
       "url": "https://www.bol.com/nl/nl/p/levoit-smart-luchtreiniger-core-600s-lap-c601s/9300000098586396/",
       "image": "https://media.s-bol.com/ZD86O2Ymjljw/zGM23O/550x764.jpg",
       "ph": {
-        "2026-11-19": 399.0
+        "2026-11-19": 399.0,
+        "2026-11-20": 399.0
       },
       "low_price": 399.0,
       "ph_ean": "0810043375214",
       "rating": 4.0,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Xiaomi",
@@ -218,17 +226,18 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-y-600-20-2-db-600-m-uur/9300000140586544/",
       "image": "https://media.s-bol.com/4nOg8pmmQyE0/5yKmVyv/351x840.jpg",
       "ph": {
-        "2026-11-19": 349.0
+        "2026-11-19": 349.0,
+        "2026-11-20": 349.0
       },
       "low_price": 349.0,
       "ph_ean": "6934177793394",
       "rating": 5.0,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Coway",
       "name": "Airmega Mighty",
-      "price": 159.99,
+      "price": 239.99,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -257,12 +266,15 @@
       "url": "https://www.bol.com/nl/nl/p/coway-mighty-ap-1512hh-luchtreiniger-hepa-13-filter-koolstoffilter-cadr-421-m-u-voor-ruimtes-tot-109-m-slaapstand-luchtkwaliteit-indicator-tegen-hooikoorts-allergie-huisstofmijt-stof-pollen-air-purifier-beige/9300000301432981/",
       "image": "https://media.s-bol.com/gg3wzvKjKpZY/voBvjXM/550x586.jpg",
       "ph": {
-        "2026-11-19": 159.99
+        "2026-11-19": 159.99,
+        "2026-11-20": 239.99
       },
       "low_price": 159.99,
       "ph_ean": "8809825509802",
       "rating": 4.6,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20",
+      "prev_price": 159.99,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Rolfstone",
@@ -295,12 +307,13 @@
       "url": "https://www.bol.com/nl/nl/p/rolfstone-air-balance-xl-luchtreiniger-air-purifier-met-vervangbaar-hepa-13-filter-koolstoffilter-werkt-tegen-huisstofmijt-hooikoorts-allergie-stof-cadr-400m3-h-50m2-slaapstand-en-automatische-stand-luchtkwaliteit-indicator/9300000153607909/",
       "image": "https://media.s-bol.com/zzP5rKRWK34m/ADPm3m7/550x781.jpg",
       "ph": {
-        "2026-11-19": 219.0
+        "2026-11-19": 219.0,
+        "2026-11-20": 219.0
       },
       "low_price": 219.0,
       "ph_ean": "8719327716229",
       "rating": 4.5,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Winix",
@@ -308,7 +321,7 @@
       "price": 307.78,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Degelijk 4-fase filter, 40 dB voluit en 3 jaar garantie.",
       "specs": {
         "CADR": "410 m³/u",
@@ -333,12 +346,13 @@
       "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-zero-s-luchtreiniger-met-hepa-filter-en-plasmawave-technologie-410m3-h/9300000144873227/",
       "image": "https://media.s-bol.com/7wvpKkQpO7Xr/qgm3g3/545x840.jpg",
       "ph": {
-        "2026-11-19": 307.78
+        "2026-11-19": 307.78,
+        "2026-11-20": 307.78
       },
       "low_price": 307.78,
       "ph_ean": "8809490584234",
-      "rating": 4.7,
-      "synced": "2026-11-19"
+      "rating": 4.6,
+      "synced": "2026-11-20"
     },
     {
       "brand": "Xiaomi",
@@ -371,12 +385,13 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-air-purifier-4-pro-luchtreiniger/9300000072830557/",
       "image": "https://media.s-bol.com/BWVqEDQE5BAQ/RoO1LRE/345x840.jpg",
       "ph": {
-        "2026-11-19": 219.0
+        "2026-11-19": 219.0,
+        "2026-11-20": 219.0
       },
       "low_price": 219.0,
       "ph_ean": "6934177743665",
       "rating": 4.3,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Rowenta",
@@ -409,12 +424,13 @@
       "url": "https://www.bol.com/nl/nl/p/rowenta-intense-pure-air-connect-pu6080-luchtreiniger/9200000097501326/",
       "image": "https://media.s-bol.com/NAKRz08LLro2/q7joy4r/389x840.jpg",
       "ph": {
-        "2026-11-19": 139.99
+        "2026-11-19": 139.99,
+        "2026-11-20": 139.99
       },
       "low_price": 139.99,
       "ph_ean": "3121047260800",
       "rating": 4.2,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     }
   ],
   "guide": [

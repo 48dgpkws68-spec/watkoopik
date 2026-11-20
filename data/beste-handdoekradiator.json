@@ -76,10 +76,11 @@
         "2026-11-16": 259.0,
         "2026-11-17": 259.0,
         "2026-11-18": 259.0,
-        "2026-11-19": 259.0
+        "2026-11-19": 259.0,
+        "2026-11-20": 259.0
       },
       "low_price": 259.0,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 261.59,
       "prev_date": "2026-11-04",
       "ph_ean": "8711238457086",
@@ -135,10 +136,11 @@
         "2026-11-16": 189.0,
         "2026-11-17": 189.0,
         "2026-11-18": 189.0,
-        "2026-11-19": 189.0
+        "2026-11-19": 189.0,
+        "2026-11-20": 189.0
       },
       "low_price": 169.39,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 187.29,
       "prev_date": "2026-11-07",
       "ph_ean": "8713415352627",
@@ -195,16 +197,17 @@
         "2026-11-16": 649.0,
         "2026-11-17": 649.0,
         "2026-11-18": 649.0,
-        "2026-11-19": 649.0
+        "2026-11-19": 649.0,
+        "2026-11-20": 649.0
       },
       "low_price": 649.0,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "3410538511294"
     },
     {
       "brand": "Zehnder",
       "name": "Aura E 90,6 x 50 cm 500 W",
-      "price": 232.72,
+      "price": 237.46,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -227,7 +230,7 @@
       "ideal": "Wie een radiator zoekt die twintig jaar meegaat en de bediening zelf slim regelt.",
       "text": "Zehnder is een Zwitsers merk dat bij installateurs hoog aangeschreven staat. Dat zie je aan de Aura E: strakke gelaste buizen, een egale lak en een stevige wandbevestiging. Deze maat van 90,6 bij 50 centimeter met 500 watt is een goede middenmaat voor een badkamer tot zo'n 5 vierkante meter. Hij werkt op gewone 230 volt, dus je hebt geen aanpassingen aan je installatie nodig zolang er een geschikte aansluiting in de badkamer zit.\n\nDe bediening is eenvoudiger dan bij de slimme modellen in deze lijst. Wil je een weekprogramma, dan combineer je hem met een slimme schakelaar of een tijdklok die geschikt is voor de badkamer. Daar staat tegenover dat er weinig is dat stuk kan. Kopers geven hem de maximale score voor de afwerking. Met ongeveer 223 euro is hij iets duurder dan de EMKE-modellen, maar je betaalt voor merkkwaliteit die jarenlang mooi blijft.",
       "ean": "7613367204580",
-      "bol_title": "Zehnder Aura E elektrische handdoekradiator 90.6x50cm 500watt 230 volt | 50 Hz Staal Wit glans",
+      "bol_title": "Zehnder Aura E handdoekradiator - 50x90.6cm - elektrisch - 500 watt - glans wit",
       "url": "https://www.bol.com/nl/nl/p/zehnder-aura-elektrische-handdoekradiator-90-6x50cm-500watt-230-volt-50-hz-staal-wit-glans/9300000019030909/",
       "image": "https://media.s-bol.com/YAqn7jKKoP62/OYngP7r/367x840.jpg",
       "ph": {
@@ -251,12 +254,13 @@
         "2026-11-16": 223.0,
         "2026-11-17": 223.0,
         "2026-11-18": 223.0,
-        "2026-11-19": 232.72
+        "2026-11-19": 232.72,
+        "2026-11-20": 237.46
       },
       "low_price": 114.5,
-      "synced": "2026-11-19",
-      "prev_price": 223.0,
-      "prev_date": "2026-11-18",
+      "synced": "2026-11-20",
+      "prev_price": 232.72,
+      "prev_date": "2026-11-19",
       "ph_ean": "7613367204580",
       "rating": 5.0
     },
@@ -294,11 +298,12 @@
       "ph": {
         "2026-11-17": 195.99,
         "2026-11-18": 195.99,
-        "2026-11-19": 195.99
+        "2026-11-19": 195.99,
+        "2026-11-20": 195.99
       },
       "low_price": 195.99,
       "ph_ean": "4260684695428",
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "EMKE",
@@ -350,17 +355,18 @@
         "2026-11-16": 169.99,
         "2026-11-17": 169.99,
         "2026-11-18": 169.99,
-        "2026-11-19": 169.99
+        "2026-11-19": 169.99,
+        "2026-11-20": 169.99
       },
       "low_price": 169.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "4260684693424",
       "rating": 4.2
     },
     {
       "brand": "Eurom",
       "name": "Sani-Towel WiFi 130 x 50 cm 1000 W",
-      "price": 241.99,
+      "price": 234.19,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 3,6 van 5",
@@ -383,7 +389,7 @@
       "ideal": "Een grotere badkamer waar de handdoekradiator de hoofdverwarming moet zijn.",
       "text": "Heb je een grotere badkamer of wil je de handdoekradiator als hoofdverwarming gebruiken, dan is de grootste Sani-Towel interessant. Met 130 bij 50 centimeter en 1000 watt heeft hij het dubbele vermogen van de meeste ladderradiatoren in deze lijst. Daarmee verwarm je een badkamer tot ongeveer 9 vierkante meter, mits de ruimte redelijk geïsoleerd is. Je hebt ook meer ophangruimte voor handdoeken van het hele gezin.\n\nNet als de kleinere versie heeft hij wifi en bedien je hem met de app van Eurom. Je stelt een weekschema in en past de temperatuur op afstand aan. Het vermogen heeft wel een keerzijde. Op vol vermogen verbruik je 1 kWh per uur, dus een slim schema is geen luxe maar noodzaak. Kopers noemen dezelfde aandachtspunten als bij de kleinere Sani-Towel: de app-koppeling vraagt soms geduld. Voor ongeveer 242 euro is het wel de goedkoopste manier om 1000 watt aan de muur te hangen.",
       "ean": "8713415352702",
-      "bol_title": "Eurom Sani-Towel elektrische handdoekradiator - 130x50cm - 1000watt - WiFi - mat zwart",
+      "bol_title": "Eurom Sani-Towel handdoekradiator - 50x130cm - elektrisch - 1000 watt - met wifi - mat zwart",
       "url": "https://www.bol.com/nl/nl/p/eurom-elektrische-badkamer-radiator-1000w-met-wifi-app-en-ingebouwde-timer-zwart/9300000177621962/",
       "image": "https://media.s-bol.com/LmlPw0LBZEQr/W6pGvlg/293x840.jpg",
       "ph": {
@@ -407,12 +413,13 @@
         "2026-11-16": 241.99,
         "2026-11-17": 241.99,
         "2026-11-18": 241.99,
-        "2026-11-19": 241.99
+        "2026-11-19": 241.99,
+        "2026-11-20": 234.19
       },
-      "low_price": 239.49,
-      "synced": "2026-11-19",
-      "prev_price": 244.29,
-      "prev_date": "2026-11-13",
+      "low_price": 234.19,
+      "synced": "2026-11-20",
+      "prev_price": 241.99,
+      "prev_date": "2026-11-19",
       "ph_ean": "8713415352702",
       "rating": 3.6
     },
@@ -466,10 +473,11 @@
         "2026-11-16": 519.99,
         "2026-11-17": 519.99,
         "2026-11-18": 519.99,
-        "2026-11-19": 519.99
+        "2026-11-19": 519.99,
+        "2026-11-20": 519.99
       },
       "low_price": 504.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 504.99,
       "prev_date": "2026-11-02",
       "ph_ean": "5404029157694",
@@ -525,10 +533,11 @@
         "2026-11-16": 60.79,
         "2026-11-17": 60.79,
         "2026-11-18": 60.79,
-        "2026-11-19": 60.79
+        "2026-11-19": 60.79,
+        "2026-11-20": 60.79
       },
       "low_price": 60.79,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "0015706681873",
       "prev_price": 65.99,
       "prev_date": "2026-11-14",
@@ -584,10 +593,11 @@
         "2026-11-16": 99.0,
         "2026-11-17": 99.0,
         "2026-11-18": 99.0,
-        "2026-11-19": 99.0
+        "2026-11-19": 99.0,
+        "2026-11-20": 99.0
       },
       "low_price": 99.0,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "8721586095670"
     }
   ],

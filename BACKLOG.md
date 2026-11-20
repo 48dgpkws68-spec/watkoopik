@@ -14,7 +14,7 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-speelkeuken | speelgoed | speelkeuken | De 10 beste speelkeukens van 2026 | 🍳
 [x] beste-playmobil | speelgoed | playmobil | De 10 beste Playmobil-sets van 2026 | 🏰
 # Verbeterronde 19 nov 2026: boxspring is nu de best klikkende gids (21 bol-kliks bij 18 weergaven in 7 dagen, Anno 1588 Amsterdam 12 kliks) en heeft geen subgidsen; kerstboom 180 cm (open sinds 17 nov) plus deze 3 eerst
-[ ] beste-kunstkerstboom-180-cm | wonen | kunstkerstboom 180 cm | De 10 beste kunstkerstbomen van 180 cm van 2026 | 🎄
+[x] beste-kunstkerstboom-180-cm | wonen | kunstkerstboom 180 cm | De 10 beste kunstkerstbomen van 180 cm van 2026 | 🎄
 [ ] beste-elektrische-boxspring | slapen | elektrische boxspring | De 10 beste elektrische boxsprings van 2026 | 🛏️
 [ ] beste-boxspring-180x200 | slapen | boxspring 180x200 | De 10 beste boxsprings van 180x200 van 2026 | 🛏️
 [ ] beste-boxspring-onder-500-euro | slapen | boxspring onder 500 euro | De 10 beste boxsprings onder 500 euro van 2026 | 🛏️
@@ -52,7 +52,7 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-laptop-onder-750-euro | computer | laptop onder 750 euro | De 10 beste laptops onder 750 euro van 2026 | 💻 (google_wacht)
 [x] beste-tv-40-inch | elektronica | 40 inch tv | De 10 beste 40 inch tv's van 2026 | 📺 (google_wacht)
 # groeimotor 18 nov 2026 (AI2, N40 stap 2 vervolg): zelf toegevoegde smalle varianten in families met ChatGPT-bezoek; alleen voor de N40-nachtruns (google_wacht), 2 per nacht.
-[ ] beste-kunstkerstboom-180-cm | wonen | kunstkerstboom 180 cm | De 10 beste kunstkerstbomen van 180 cm van 2026 | 🎄
+[x] beste-kunstkerstboom-180-cm | wonen | kunstkerstboom 180 cm | De 10 beste kunstkerstbomen van 180 cm van 2026 | 🎄
 [x] beste-kunstkerstboom-210-cm | wonen | kunstkerstboom 210 cm | De 10 beste kunstkerstbomen van 210 cm van 2026 | 🎄 (google_wacht)
 [x] beste-dekbed-2-persoons | slapen | 2 persoons dekbed | De 10 beste 2 persoons dekbedden van 2026 | 🛏️ (google_wacht)
 [x] beste-robotstofzuiger-onder-300-euro | huishouden | robotstofzuiger onder 300 euro | De 10 beste robotstofzuigers onder 300 euro van 2026 | 🤖 (google_wacht)

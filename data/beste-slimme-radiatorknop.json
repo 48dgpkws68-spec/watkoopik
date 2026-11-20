@@ -24,7 +24,7 @@
     {
       "brand": "tado",
       "name": "Slimme Radiatorknop X Starterskit",
-      "price": 91.46,
+      "price": 99.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,2 van 5",
@@ -72,12 +72,13 @@
         "2026-11-16": 99.0,
         "2026-11-17": 99.0,
         "2026-11-18": 90.08,
-        "2026-11-19": 91.46
+        "2026-11-19": 91.46,
+        "2026-11-20": 99.0
       },
       "low_price": 90.08,
-      "synced": "2026-11-19",
-      "prev_price": 90.08,
-      "prev_date": "2026-11-18",
+      "synced": "2026-11-20",
+      "prev_price": 91.46,
+      "prev_date": "2026-11-19",
       "ph_ean": "4260328612118",
       "rating": 4.2
     },
@@ -132,10 +133,11 @@
         "2026-11-16": 44.0,
         "2026-11-17": 45.19,
         "2026-11-18": 45.19,
-        "2026-11-19": 42.9
+        "2026-11-19": 42.9,
+        "2026-11-20": 42.9
       },
       "low_price": 42.9,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 45.19,
       "prev_date": "2026-11-18",
       "ph_ean": "6975833359363"
@@ -191,10 +193,11 @@
         "2026-11-16": 96.99,
         "2026-11-17": 96.99,
         "2026-11-18": 96.99,
-        "2026-11-19": 96.99
+        "2026-11-19": 96.99,
+        "2026-11-20": 96.99
       },
       "low_price": 96.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "5059085004187",
       "rating": 5.0
     },
@@ -249,10 +252,11 @@
         "2026-11-16": 199.99,
         "2026-11-17": 199.99,
         "2026-11-18": 199.99,
-        "2026-11-19": 199.99
+        "2026-11-19": 199.99,
+        "2026-11-20": 199.99
       },
       "low_price": 199.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "3700730501941",
       "rating": 3.6
     },
@@ -291,11 +295,12 @@
       "ph": {
         "2026-11-17": 38.66,
         "2026-11-18": 38.66,
-        "2026-11-19": 38.66
+        "2026-11-19": 38.66,
+        "2026-11-20": 38.66
       },
       "low_price": 38.66,
       "ph_ean": "4007123672066",
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Danfoss",
@@ -343,10 +348,11 @@
         "2026-11-16": 55.94,
         "2026-11-17": 55.94,
         "2026-11-18": 55.94,
-        "2026-11-19": 55.94
+        "2026-11-19": 55.94,
+        "2026-11-20": 55.94
       },
       "low_price": 51.97,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 51.97,
       "prev_date": "2026-11-11",
       "ph_ean": "5702425245329",
@@ -380,7 +386,7 @@
       "ideal": "Wie voor weinig geld met één kamer wil beginnen en een knop zoekt die met Apple Home, Google en Alexa werkt.",
       "text": "Meross maakt betaalbare smart home-apparaten die met vrijwel elk platform praten. Deze starterskit bestaat uit één slimme radiatorknop en de bijbehorende hub. De hub hangt aan je wifi en stuurt de knop draadloos aan. Je kunt er later tot zestien Meross-apparaten aan koppelen, zoals extra knoppen en sensoren. Zo begin je met één kamer en breid je per radiator uit.\n\nHet sterke punt is de brede koppeling. De kit werkt met Apple Home, Google Assistant, Alexa en SmartThings en dat is in deze prijsklasse niet vanzelfsprekend. In de app stel je per kamer een stookschema in en bedien je de verwarming ook als je niet thuis bent. De knop herkent een open raam en stopt dan met verwarmen. Op bol heeft de set nog weinig beoordelingen, dus daar kun je minder op varen dan bij Tado of Netatmo. Controleer vooraf of je radiatorkraan de gangbare M30-aansluiting heeft of dat je een adapter nodig hebt.",
       "ean": "6973696562654",
-      "bol_title": "Meross Smart Thermostat Valve Starter Kit - Apple HomeKit",
+      "bol_title": "Meross - Smart Thermostat Valve Starter Kit - Apple HomeKit",
       "url": "https://www.bol.com/nl/nl/p/meross-smart-thermostat-valve-starter-kit-apple-homekit/9300000071046225/",
       "image": "https://media.s-bol.com/q6w8R5M5lz0R/36wA6jx/550x533.jpg",
       "ph": {
@@ -392,10 +398,11 @@
         "2026-11-16": 77.95,
         "2026-11-17": 77.95,
         "2026-11-18": 77.95,
-        "2026-11-19": 77.95
+        "2026-11-19": 77.95,
+        "2026-11-20": 77.95
       },
       "low_price": 77.95,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "6973696562654"
     },
     {
@@ -448,10 +455,11 @@
         "2026-11-16": 107.99,
         "2026-11-17": 107.99,
         "2026-11-18": 107.99,
-        "2026-11-19": 107.99
+        "2026-11-19": 107.99,
+        "2026-11-20": 107.99
       },
       "low_price": 104.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 120.6,
       "prev_date": "2026-11-10",
       "ph_ean": "3800235268322"
@@ -506,10 +514,11 @@
         "2026-11-16": 119.95,
         "2026-11-17": 119.95,
         "2026-11-18": 119.95,
-        "2026-11-19": 119.95
+        "2026-11-19": 119.95,
+        "2026-11-20": 119.95
       },
       "low_price": 119.95,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "5419980322166",
       "rating": 4.2
     },
@@ -555,10 +564,11 @@
         "2026-11-16": 134.99,
         "2026-11-17": 139.95,
         "2026-11-18": 139.95,
-        "2026-11-19": 139.95
+        "2026-11-19": 139.95,
+        "2026-11-20": 139.95
       },
       "low_price": 134.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 134.99,
       "prev_date": "2026-11-16",
       "ph_ean": "8719323919785",

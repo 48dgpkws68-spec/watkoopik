@@ -24,7 +24,7 @@
     {
       "brand": "Jan van Haasteren",
       "name": "Adventskalender 2026",
-      "price": 24.95,
+      "price": 22.95,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,9 van 5",
@@ -68,13 +68,14 @@
         "2026-11-16": 22.99,
         "2026-11-17": 24.95,
         "2026-11-18": 24.95,
-        "2026-11-19": 24.95
+        "2026-11-19": 24.95,
+        "2026-11-20": 22.95
       },
-      "low_price": 22.99,
-      "synced": "2026-11-19",
+      "low_price": 22.95,
+      "synced": "2026-11-20",
       "ph_ean": "8721017608868",
-      "prev_price": 22.99,
-      "prev_date": "2026-11-16",
+      "prev_price": 24.95,
+      "prev_date": "2026-11-19",
       "rating": 4.9
     },
     {
@@ -124,10 +125,11 @@
         "2026-11-16": 21.99,
         "2026-11-17": 21.99,
         "2026-11-18": 21.99,
-        "2026-11-19": 21.99
+        "2026-11-19": 21.99,
+        "2026-11-20": 21.99
       },
       "low_price": 21.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 23.99,
       "prev_date": "2026-11-14",
       "ph_ean": "5702018062470",
@@ -136,7 +138,7 @@
     {
       "brand": "LEGO",
       "name": "Friends Adventskalender 2026 (42698)",
-      "price": 19.99,
+      "price": 17.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 5,0 van 5",
@@ -180,19 +182,20 @@
         "2026-11-16": 19.99,
         "2026-11-17": 19.99,
         "2026-11-18": 19.99,
-        "2026-11-19": 19.99
+        "2026-11-19": 19.99,
+        "2026-11-20": 17.99
       },
-      "low_price": 18.99,
-      "synced": "2026-11-19",
-      "prev_price": 20.99,
-      "prev_date": "2026-11-14",
+      "low_price": 17.99,
+      "synced": "2026-11-20",
+      "prev_price": 19.99,
+      "prev_date": "2026-11-19",
       "ph_ean": "5702018054697",
       "rating": 5.0
     },
     {
       "brand": "Yves Rocher",
       "name": "Beauty Adventskalender 2026",
-      "price": 56.99,
+      "price": 51.99,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -236,12 +239,15 @@
         "2026-11-16": 56.99,
         "2026-11-17": 56.99,
         "2026-11-18": 56.99,
-        "2026-11-19": 56.99
+        "2026-11-19": 56.99,
+        "2026-11-20": 51.99
       },
-      "low_price": 56.99,
-      "synced": "2026-11-19",
+      "low_price": 51.99,
+      "synced": "2026-11-20",
       "ph_ean": "3660005424958",
-      "rating": 5.0
+      "rating": 5.0,
+      "prev_price": 56.99,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "NIVEA",
@@ -287,10 +293,11 @@
         "2026-11-16": 71.99,
         "2026-11-17": 71.99,
         "2026-11-18": 71.99,
-        "2026-11-19": 71.99
+        "2026-11-19": 71.99,
+        "2026-11-20": 71.99
       },
       "low_price": 71.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "bol_title": "NIVEA Adventskalender Vrouwen 2026 – Geschenkset met 24 Verzorgende NIVEA Mini’s en Accessoires - Giftset - Aftelkalender - Kerstkalender - Sint Cadeau",
       "url": "https://www.bol.com/nl/nl/p/nivea-adventskalender-vrouwen-2025-kerst-en-sinterklaas-geschenkset-met-24-verzorgende-nivea-mini-s-en-accessoires-kerstcadeau/9300000239540729/",
       "image": "https://media.s-bol.com/BZKvVNWQxvqJ/y8vVvn6/550x363.jpg",
@@ -344,10 +351,11 @@
         "2026-11-16": 34.99,
         "2026-11-17": 39.99,
         "2026-11-18": 39.99,
-        "2026-11-19": 34.99
+        "2026-11-19": 34.99,
+        "2026-11-20": 34.99
       },
       "low_price": 34.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 39.99,
       "prev_date": "2026-11-18",
       "ph_ean": "8721184285022",
@@ -400,10 +408,11 @@
         "2026-11-16": 11.34,
         "2026-11-17": 11.25,
         "2026-11-18": 11.25,
-        "2026-11-19": 10.95
+        "2026-11-19": 10.95,
+        "2026-11-20": 10.95
       },
       "low_price": 10.95,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 11.25,
       "prev_date": "2026-11-18",
       "ph_ean": "5063270119464",
@@ -412,7 +421,7 @@
     {
       "brand": "PLAYMOBIL",
       "name": "Christmas Adventskalender Op de Noordpool (72226)",
-      "price": 43.11,
+      "price": 26.32,
       "score": 8.3,
       "label": null,
       "reviews": "",
@@ -453,18 +462,19 @@
         "2026-11-16": 26.32,
         "2026-11-17": 26.32,
         "2026-11-18": 26.32,
-        "2026-11-19": 43.11
+        "2026-11-19": 43.11,
+        "2026-11-20": 26.32
       },
       "low_price": 26.32,
-      "synced": "2026-11-19",
-      "prev_price": 26.32,
-      "prev_date": "2026-11-18",
+      "synced": "2026-11-20",
+      "prev_price": 43.11,
+      "prev_date": "2026-11-19",
       "ph_ean": "4008789722263"
     },
     {
       "brand": "waterdrop",
       "name": "Adventskalender Small 2026",
-      "price": 21.44,
+      "price": 19.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -507,12 +517,13 @@
         "2026-11-14": 21.99,
         "2026-11-17": 21.99,
         "2026-11-18": 21.99,
-        "2026-11-19": 21.44
+        "2026-11-19": 21.44,
+        "2026-11-20": 19.99
       },
       "low_price": 18.0,
-      "synced": "2026-11-19",
-      "prev_price": 21.99,
-      "prev_date": "2026-11-18",
+      "synced": "2026-11-20",
+      "prev_price": 21.44,
+      "prev_date": "2026-11-19",
       "ph_ean": "9120125310691",
       "rating": 4.9
     },
@@ -563,10 +574,11 @@
         "2026-11-16": 10.49,
         "2026-11-17": 11.04,
         "2026-11-18": 11.04,
-        "2026-11-19": 11.04
+        "2026-11-19": 11.04,
+        "2026-11-20": 11.04
       },
       "low_price": 10.49,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "8720701146723",
       "prev_price": 10.49,
       "prev_date": "2026-11-16",

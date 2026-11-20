@@ -53,15 +53,16 @@
       "ean": "8718532241519",
       "bol_title": "Everlands Grandis Fir - Kunstkerstboom - 180 cm - Zonder verlichting",
       "url": "https://www.bol.com/nl/nl/p/everlands-grandis-fir-kunstkerstboom-180-cm-zonder-verlichting/9200000066281005/",
-      "image": "https://media.s-bol.com/NW9mXnKJrxML/M8gQvQ1/550x806.jpg",
+      "image": "https://media.s-bol.com/yKr2rl9x12rg/pZ5YA31/550x550.jpg",
       "ph": {
         "2026-11-18": 71.99,
-        "2026-11-19": 71.99
+        "2026-11-19": 71.99,
+        "2026-11-20": 71.99
       },
       "low_price": 71.99,
       "ph_ean": "8718532241519",
       "rating": 4.7,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Triumph Tree",
@@ -96,12 +97,13 @@
       "image": "https://media.s-bol.com/yLWYx0X518Og/lREjyrJ/364x840.jpg",
       "ph": {
         "2026-11-18": 99.99,
-        "2026-11-19": 99.99
+        "2026-11-19": 99.99,
+        "2026-11-20": 99.99
       },
       "low_price": 99.99,
       "ph_ean": "8720967792108",
       "rating": 5.0,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Royal Christmas",
@@ -136,12 +138,13 @@
       "image": "https://media.s-bol.com/Mv9Nj2yJJQRG/pg7WBA2/550x816.jpg",
       "ph": {
         "2026-11-18": 79.99,
-        "2026-11-19": 79.99
+        "2026-11-19": 79.99,
+        "2026-11-20": 79.99
       },
       "low_price": 79.99,
       "ph_ean": "8717931854375",
       "rating": 4.5,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Black Box Trees",
@@ -176,12 +179,13 @@
       "image": "https://media.s-bol.com/0Qrg6nLzKZ8L/BNvL7QY/253x840.jpg",
       "ph": {
         "2026-11-18": 29.99,
-        "2026-11-19": 29.99
+        "2026-11-19": 29.99,
+        "2026-11-20": 29.99
       },
       "low_price": 29.99,
       "ph_ean": "8720967840212",
       "rating": 4.8,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Royal Christmas",
@@ -216,20 +220,21 @@
       "image": "https://media.s-bol.com/3MRg8L0MDjOA/LZk1P1w/550x825.jpg",
       "ph": {
         "2026-11-18": 99.99,
-        "2026-11-19": 99.99
+        "2026-11-19": 99.99,
+        "2026-11-20": 99.99
       },
       "low_price": 99.99,
       "ph_ean": "8717591881742",
       "rating": 4.5,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Triumph Tree",
       "name": "Forrester 185 cm",
-      "price": 74.99,
+      "price": 69.99,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Middenbrede boom met zachte naalden van PE en PVC.",
       "specs": {
         "Hoogte": "185 cm",
@@ -256,12 +261,15 @@
       "image": "https://media.s-bol.com/V6xQZr8yvDPB/jZP5kYR/543x840.jpg",
       "ph": {
         "2026-11-18": 74.99,
-        "2026-11-19": 74.99
+        "2026-11-19": 74.99,
+        "2026-11-20": 69.99
       },
-      "low_price": 74.99,
+      "low_price": 69.99,
       "ph_ean": "8718861510638",
-      "rating": 4.4,
-      "synced": "2026-11-19"
+      "rating": 4.2,
+      "synced": "2026-11-20",
+      "prev_price": 74.99,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Everlands",
@@ -296,12 +304,13 @@
       "image": "https://media.s-bol.com/90PgAmpAXw9x/oZ7GNKk/550x829.jpg",
       "ph": {
         "2026-11-18": 63.7,
-        "2026-11-19": 63.7
+        "2026-11-19": 63.7,
+        "2026-11-20": 63.7
       },
       "low_price": 63.7,
       "ph_ean": "8718532241502",
       "rating": 4.9,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Springos",
@@ -336,12 +345,13 @@
       "image": "https://media.s-bol.com/3NRy4A1KODgO/GZNMyO0/550x806.jpg",
       "ph": {
         "2026-11-18": 43.83,
-        "2026-11-19": 59.95
+        "2026-11-19": 59.95,
+        "2026-11-20": 59.95
       },
       "low_price": 43.83,
       "ph_ean": "5907719441733",
       "rating": 4.6,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 43.83,
       "prev_date": "2026-11-18"
     },
@@ -378,12 +388,13 @@
       "image": "https://media.s-bol.com/BM43j8ELYOAQ/0RBoQEL/430x840.jpg",
       "ph": {
         "2026-11-18": 79.95,
-        "2026-11-19": 79.95
+        "2026-11-19": 79.95,
+        "2026-11-20": 79.95
       },
       "low_price": 79.95,
       "ph_ean": "8721022431031",
       "rating": 4.2,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Black Box Trees",
@@ -418,12 +429,13 @@
       "image": "https://media.s-bol.com/94E85zQ0o7DY/q7oYXVy/452x840.jpg",
       "ph": {
         "2026-11-18": 57.99,
-        "2026-11-19": 57.99
+        "2026-11-19": 57.99,
+        "2026-11-20": 57.99
       },
       "low_price": 57.99,
       "ph_ean": "8718861279399",
       "rating": 3.9,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     }
   ],
   "guide": [

@@ -52,17 +52,18 @@
       "url": "https://www.bol.com/nl/nl/p/space-cow-ticket-to-ride-mijn-eerste-reis-bordspel-nl/9300000292340141/",
       "image": "https://media.s-bol.com/rwJlN4rBZ5Jk/jqlLLky/550x580.jpg",
       "ph": {
-        "2026-11-19": 28.99
+        "2026-11-19": 28.99,
+        "2026-11-20": 28.99
       },
       "low_price": 28.99,
       "ph_ean": "3558387008746",
       "rating": 4.8,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "LEGO",
       "name": "City Brandweervliegtuig (60413)",
-      "price": 85.99,
+      "price": 84.0,
       "score": 9.2,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -90,12 +91,15 @@
       "url": "https://www.bol.com/nl/nl/p/lego-city-brandweervliegtuig-60413/9300000157956269/",
       "image": "https://media.s-bol.com/V3m4DYmVoKKM/vQqRw1m/550x360.jpg",
       "ph": {
-        "2026-11-19": 85.99
+        "2026-11-19": 85.99,
+        "2026-11-20": 84.0
       },
-      "low_price": 85.99,
+      "low_price": 84.0,
       "ph_ean": "5702017582955",
       "rating": 4.9,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20",
+      "prev_price": 85.99,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "LEGO",
@@ -127,12 +131,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-friends-nieuwsbusje-dieren-redden-speelgoed-41749/9300000144770871/",
       "image": "https://media.s-bol.com/qzx6PZnGkNQ7/81PD2Oj/550x374.jpg",
       "ph": {
-        "2026-11-19": 31.95
+        "2026-11-19": 31.95,
+        "2026-11-20": 31.95
       },
       "low_price": 31.95,
       "ph_ean": "5702017415321",
       "rating": 5.0,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "999 Games",
@@ -164,12 +169,13 @@
       "url": "https://www.bol.com/nl/nl/p/halli-galli-actiespel/1004004000008442/",
       "image": "https://media.s-bol.com/86JMElA6nDwo/550x718.jpg",
       "ph": {
-        "2026-11-19": 13.99
+        "2026-11-19": 13.99,
+        "2026-11-20": 13.99
       },
       "low_price": 13.99,
       "ph_ean": "8717249191513",
       "rating": 4.7,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Micro",
@@ -202,11 +208,12 @@
       "url": "https://www.bol.com/nl/nl/p/micro-maxi-micro-step-deluxe-flux-led-in-de-kleur-zwart-voor-kinderen-van-van-5-jaar-max-50-kg/9300000182793025/",
       "image": "https://media.s-bol.com/W9V4LmlWBBVQ/v29767X/250x200.jpg",
       "ph": {
-        "2026-11-19": 136.37
+        "2026-11-19": 136.37,
+        "2026-11-20": 136.37
       },
       "low_price": 136.37,
       "ph_ean": "7630053558505",
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "999 Games",
@@ -238,12 +245,13 @@
       "url": "https://www.bol.com/nl/nl/p/catan-junior-bordspel/1004004006487390/",
       "image": "https://media.s-bol.com/39LRL6QRkpBn/L90vXkg/550x582.jpg",
       "ph": {
-        "2026-11-19": 24.99
+        "2026-11-19": 24.99,
+        "2026-11-20": 24.99
       },
       "low_price": 24.99,
       "ph_ean": "8717249199625",
       "rating": 4.7,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Geomag",
@@ -275,12 +283,13 @@
       "url": "https://www.bol.com/nl/nl/p/geomag-green-line-classic-panels-114-delen-classic-panels-114-delen/9300000002080852/",
       "image": "https://media.s-bol.com/Br8nVJGXN5l2/MZ79PxG/550x493.jpg",
       "ph": {
-        "2026-11-19": 48.95
+        "2026-11-19": 48.95,
+        "2026-11-20": 48.95
       },
       "low_price": 48.95,
       "ph_ean": "0871772004738",
       "rating": 4.7,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "VTech",
@@ -312,17 +321,18 @@
       "url": "https://www.bol.com/nl/nl/p/vtech-kidizoom-smartwatch-dx2-blauw/9200000103271982/",
       "image": "https://media.s-bol.com/31RvZ9p0DLV4/501x840.jpg",
       "ph": {
-        "2026-11-19": 42.99
+        "2026-11-19": 42.99,
+        "2026-11-20": 42.99
       },
       "low_price": 42.99,
       "ph_ean": "3417761938232",
       "rating": 4.4,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Crayola",
       "name": "Marker Airbrush",
-      "price": 24.99,
+      "price": 21.24,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -349,12 +359,15 @@
       "url": "https://www.bol.com/nl/nl/p/crayola-marker-airbrush-creatieve-verfspuit-voor-kinderen-met-8-uitwasbare-stiften-en-5-sjablonen-educatief-speelgoed-voor-kunstactiviteiten-vanaf-6-jaar/9300000229487717/",
       "image": "https://media.s-bol.com/g4GpvDjDX40j/y8mzZMV/550x561.jpg",
       "ph": {
-        "2026-11-19": 24.99
+        "2026-11-19": 24.99,
+        "2026-11-20": 21.24
       },
-      "low_price": 24.99,
+      "low_price": 21.24,
       "ph_ean": "0071662076962",
       "rating": 4.7,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20",
+      "prev_price": 24.99,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Ravensburger",
@@ -386,12 +399,13 @@
       "url": "https://www.bol.com/nl/nl/p/ravensburger-puzzel-let-s-a-go-super-mario-legpuzzel-100-xxl-stukjes/9300000167890596/",
       "image": "https://media.s-bol.com/qmqK9LMQ8wLG/3BB8Lp/550x392.jpg",
       "ph": {
-        "2026-11-19": 10.29
+        "2026-11-19": 10.29,
+        "2026-11-20": 10.29
       },
       "low_price": 10.29,
       "ph_ean": "4005555010746",
       "rating": 5.0,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     }
   ],
   "guide": [

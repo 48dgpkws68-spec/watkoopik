@@ -1,4 +1,41 @@
 {
- "datum": "2026-11-19",
- "overtreders": []
+ "datum": "2026-11-20",
+ "overtreders": [
+  {
+   "slug": "beste-elektrische-kachel-onder-100-euro",
+   "grens": 100,
+   "plek": 3,
+   "product": "Eurom Alutherm 1500 WiFi",
+   "prijs": 100.49,
+   "ean": "8713415360745",
+   "laagste_30d": 97.59,
+   "dagen_boven": 1,
+   "dagen_gemeten": 3,
+   "reden": "boven grens"
+  },
+  {
+   "slug": "beste-tech-cadeau-onder-100-euro",
+   "grens": 100,
+   "plek": 6,
+   "product": "Fitbit Inspire 3",
+   "prijs": 112.3,
+   "ean": "0810073610064",
+   "laagste_30d": 65.5,
+   "dagen_boven": 1,
+   "dagen_gemeten": 27,
+   "reden": "boven grens"
+  },
+  {
+   "slug": "beste-tv-onder-1500-euro",
+   "grens": 1500,
+   "plek": 5,
+   "product": "Samsung QE55S95H",
+   "prijs": 1549.0,
+   "ean": "8806099136109",
+   "laagste_30d": 1499.0,
+   "dagen_boven": 1,
+   "dagen_gemeten": 3,
+   "reden": "boven grens"
+  }
+ ]
 }

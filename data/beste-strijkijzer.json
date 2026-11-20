@@ -25,7 +25,7 @@
       "price": 352.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,1 van 5",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Stoomgenerator zonder temperatuurinstelling, veilig op elke stof.",
       "specs": {
         "Type": "Stoomgenerator",
@@ -51,7 +51,7 @@
       "bol_title": "Philips Perfect Care 8000 Series PSG8040/60 - Stoomgenerator - 1.8L Watertank - Wit / Goud",
       "url": "https://www.bol.com/nl/nl/p/philips-perfectcare-8000-series-psg8040-60-stoomgenerator/9300000042360132/",
       "image": "https://media.s-bol.com/E5jzVo0PPZ4g/6RqNQVV/550x384.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-24": 351.0,
         "2026-10-25": 349.0,
@@ -78,13 +78,14 @@
         "2026-11-16": 352.0,
         "2026-11-17": 352.0,
         "2026-11-18": 352.0,
-        "2026-11-19": 352.0
+        "2026-11-19": 352.0,
+        "2026-11-20": 352.0
       },
       "low_price": 349.0,
       "prev_price": 349.0,
       "prev_date": "2026-11-06",
       "ph_ean": "8720389001048",
-      "rating": 4.1
+      "rating": 4.2
     },
     {
       "brand": "Philips",
@@ -92,7 +93,7 @@
       "price": 94.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 3,8 van 5",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "Krachtig stoomstrijkijzer met OptimalTEMP voor ruim onder de 150 euro.",
       "specs": {
         "Type": "Stoomstrijkijzer",
@@ -118,7 +119,7 @@
       "bol_title": "Philips Azur DST8050/20 - Stoomstrijkijzer - Zelfreinigend - Verticaal strijken - Lang snoer - Donkerblauw",
       "url": "https://www.bol.com/nl/nl/p/philips-azur-8000-series-dst8050-20-stoomstrijkijzer/9300000123623802/",
       "image": "https://media.s-bol.com/R34l71lDkljL/WPr9yoX/550x451.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-13": 122.72,
         "2026-10-15": 121.0,
@@ -154,13 +155,14 @@
         "2026-11-16": 94.99,
         "2026-11-17": 94.99,
         "2026-11-18": 94.99,
-        "2026-11-19": 94.99
+        "2026-11-19": 94.99,
+        "2026-11-20": 94.99
       },
       "low_price": 89.99,
       "prev_price": 109.0,
       "prev_date": "2026-11-14",
       "ph_ean": "8720389004681",
-      "rating": 3.8
+      "rating": 3.9
     },
     {
       "brand": "Tefal",
@@ -194,7 +196,7 @@
       "bol_title": "Calor Pro Express Vision GV9820C0 – Stoomgenerator – 9 bar – 750 g/min stoomstoot – LED-verlichting – 1.9L Afneembaar waterreservoir – Durilium AirGlide zoolplaat – Slimme stoomtechnologie",
       "url": "https://www.bol.com/nl/nl/p/calor-gv9820c0/9300000063000973/",
       "image": "https://media.s-bol.com/mmWg359kGVr3/pYjDRoX/550x437.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-15": 342.96,
         "2026-10-16": 333.83,
@@ -229,7 +231,8 @@
         "2026-11-16": 345.0,
         "2026-11-17": 345.26,
         "2026-11-18": 345.26,
-        "2026-11-19": 345.26
+        "2026-11-19": 345.26,
+        "2026-11-20": 345.26
       },
       "low_price": 333.83,
       "prev_price": 345.0,
@@ -268,7 +271,7 @@
       "ean": "8021098001023",
       "url": "https://www.bol.com/nl/nl/p/braun-carestyle-7-pro-is-7286-2700-w-2-l-eloxalplus-soleplate-zwart/9300000122183823/",
       "image": "https://media.s-bol.com/RA7PwB5GZD4R/66Vvx2z/550x532.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "bol_title": "Braun CareStyle 7 Pro IS7286BK - Stoomgenerator - Automatische instellingen - Halveert strijktijd - Zwart",
       "ph": {
         "2026-10-13": 281.75,
@@ -306,7 +309,8 @@
         "2026-11-16": 249.0,
         "2026-11-17": 249.0,
         "2026-11-18": 240.0,
-        "2026-11-19": 238.0
+        "2026-11-19": 238.0,
+        "2026-11-20": 238.0
       },
       "low_price": 238.0,
       "prev_price": 240.0,
@@ -354,10 +358,11 @@
         "2026-11-16": 219.0,
         "2026-11-17": 219.0,
         "2026-11-18": 219.0,
-        "2026-11-19": 219.0
+        "2026-11-19": 219.0,
+        "2026-11-20": 219.0
       },
       "low_price": 219.0,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "8720389065187",
       "rating": 4.6
     },
@@ -393,7 +398,7 @@
       "bol_title": "Stoomgenerator ROWENTA DG9611F0 Eco Steam Pro",
       "url": "https://www.bol.com/nl/nl/p/rowenta-dg9611f0-eco-steam-strijkcentrum-zwart/9300000164328563/",
       "image": "https://media.s-bol.com/gzw5jYkG8393/4QNWEg1/550x503.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-15": 224.99,
         "2026-10-16": 224.99,
@@ -428,7 +433,8 @@
         "2026-11-16": 224.99,
         "2026-11-17": 224.99,
         "2026-11-18": 224.99,
-        "2026-11-19": 224.99
+        "2026-11-19": 224.99,
+        "2026-11-20": 224.99
       },
       "low_price": 207.3,
       "prev_price": 224.5,
@@ -482,10 +488,11 @@
         "2026-11-16": 128.95,
         "2026-11-17": 125.0,
         "2026-11-18": 125.0,
-        "2026-11-19": 125.0
+        "2026-11-19": 125.0,
+        "2026-11-20": 125.0
       },
       "low_price": 125.0,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "3121040079058",
       "prev_price": 128.95,
       "prev_date": "2026-11-16",
@@ -523,7 +530,7 @@
       "bol_title": "Braun TexStyle 9 SI 9661 - Stoomstrijkijzer - Keramische zoolplaatl - Lichtgewicht - Snel Opgewarmd - Anti-Druppel - 3100 W - Violet",
       "url": "https://www.bol.com/nl/nl/p/braun-si-9661-stoomstrijkijzer-3100-w-violet/9300000165160136/",
       "image": "https://media.s-bol.com/D3r3lDEzlV4B/z6xmyjm/550x386.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-15": 98.99,
         "2026-10-16": 98.99,
@@ -558,7 +565,8 @@
         "2026-11-16": 87.9,
         "2026-11-17": 87.9,
         "2026-11-18": 87.9,
-        "2026-11-19": 87.9
+        "2026-11-19": 87.9,
+        "2026-11-20": 87.9
       },
       "low_price": 85.0,
       "prev_price": 89.0,
@@ -569,7 +577,7 @@
     {
       "brand": "Tefal",
       "name": "Ultragliss Plus FV6842",
-      "price": 63.99,
+      "price": 65.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -598,7 +606,7 @@
       "bol_title": "Tefal Ultragliss Plus FV6842 - Stoomstrijkijzer - 50 g/min Stoomafgifte - 260 g/min Stoomboost - Anti-Kalk - Automatische Uitschakeling - 2800W",
       "url": "https://www.bol.com/nl/nl/p/tefal-ultragliss-plus-fv6842-stoomstrijkijzer/9300000008094877/",
       "image": "https://media.s-bol.com/NOm2p2WEzXEz/550x483.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-24": 54.99,
         "2026-10-25": 54.99,
@@ -625,18 +633,19 @@
         "2026-11-16": 63.99,
         "2026-11-17": 63.99,
         "2026-11-18": 63.99,
-        "2026-11-19": 63.99
+        "2026-11-19": 63.99,
+        "2026-11-20": 65.99
       },
       "low_price": 54.99,
-      "prev_price": 65.99,
-      "prev_date": "2026-11-14",
+      "prev_price": 63.99,
+      "prev_date": "2026-11-19",
       "ph_ean": "3121040078686",
       "rating": 4.5
     },
     {
       "brand": "Rowenta",
       "name": "Effective DX1635",
-      "price": 37.75,
+      "price": 35.86,
       "score": 7.9,
       "label": null,
       "reviews": "bol-score 3,9 van 5",
@@ -665,7 +674,7 @@
       "bol_title": "Rowenta Effective DX1635 Stoomstrijkijzer - Strijkijzer met RVS strijkzool - 250ml Waterreservoir - 2400W - Zilver",
       "url": "https://www.bol.com/nl/nl/p/stoomijzer-rowenta-effective-2400w/9300000019147270/",
       "image": "https://media.s-bol.com/BG24oJqNlvpY/L90x51p/550x530.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-15": 53.09,
         "2026-10-16": 53.09,
@@ -700,11 +709,12 @@
         "2026-11-16": 37.75,
         "2026-11-17": 37.75,
         "2026-11-18": 37.75,
-        "2026-11-19": 37.75
+        "2026-11-19": 37.75,
+        "2026-11-20": 35.86
       },
-      "low_price": 37.75,
-      "prev_price": 39.74,
-      "prev_date": "2026-11-14",
+      "low_price": 35.86,
+      "prev_price": 37.75,
+      "prev_date": "2026-11-19",
       "ph_ean": "4210101969304",
       "rating": 3.9
     }

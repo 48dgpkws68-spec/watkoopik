@@ -54,11 +54,12 @@
       "url": "https://www.bol.com/nl/nl/p/philips-cx5120-11-ventilator/9300000159437499/",
       "image": "https://media.s-bol.com/vVnlk15OV8qV/VAL4QVX/550x562.jpg",
       "ph": {
-        "2026-11-19": 88.99
+        "2026-11-19": 88.99,
+        "2026-11-20": 88.99
       },
       "low_price": 88.99,
       "ph_ean": "8720389030697",
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "De'Longhi",
@@ -117,10 +118,11 @@
         "2026-11-16": 154.99,
         "2026-11-17": 153.02,
         "2026-11-18": 154.99,
-        "2026-11-19": 154.99
+        "2026-11-19": 154.99,
+        "2026-11-20": 154.99
       },
       "low_price": 139.43,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 153.02,
       "prev_date": "2026-11-17",
       "ph_ean": "8004399143166",
@@ -182,10 +184,11 @@
         "2026-11-16": 59.99,
         "2026-11-17": 59.99,
         "2026-11-18": 59.99,
-        "2026-11-19": 59.99
+        "2026-11-19": 59.99,
+        "2026-11-20": 59.99
       },
       "low_price": 59.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 62.99,
       "prev_date": "2026-11-14",
       "ph_ean": "8711658522524",
@@ -194,7 +197,7 @@
     {
       "brand": "Inventum",
       "name": "KC222WOS",
-      "price": 38.51,
+      "price": 39.1,
       "score": 8.7,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,5 van 5",
@@ -247,12 +250,13 @@
         "2026-11-16": 34.8,
         "2026-11-17": 34.8,
         "2026-11-18": 37.74,
-        "2026-11-19": 38.51
+        "2026-11-19": 38.51,
+        "2026-11-20": 39.1
       },
       "low_price": 34.8,
-      "synced": "2026-11-19",
-      "prev_price": 37.74,
-      "prev_date": "2026-11-18",
+      "synced": "2026-11-20",
+      "prev_price": 38.51,
+      "prev_date": "2026-11-19",
       "ph_ean": "8712876044072",
       "rating": 4.5
     },
@@ -289,17 +293,18 @@
       "image": "https://media.s-bol.com/OxnrzzgrpPOY/qjrzv27/550x730.jpg",
       "ph": {
         "2026-11-18": 79.99,
-        "2026-11-19": 79.99
+        "2026-11-19": 79.99,
+        "2026-11-20": 79.99
       },
       "low_price": 79.99,
       "ph_ean": "3121040094587",
       "rating": 4.7,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Eurom",
       "name": "Hot Shot 2000 Wi-Fi",
-      "price": 65.81,
+      "price": 66.81,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -324,7 +329,7 @@
       "ideal": "Wie een werkkamer of badkamer op vaste tijden wil voorverwarmen.",
       "text": "De Eurom Hot Shot 2000 Wi-Fi is een compacte keramische kachel van het Nederlandse merk Eurom. Hij levert 1000 of 2000 watt en is daarmee geschikt voor kamers tot ongeveer 20 vierkante meter. Bovenop zit een digitaal display met een elektronische thermostaat, zodat je een exacte temperatuur instelt in plaats van met een draaiknop te gokken.\n\nVia de wifi-verbinding koppel je de kachel aan een app. Daarin stel je een weekprogramma in, bijvoorbeeld voor een badkamer die elke ochtend om zeven uur warm moet zijn. Dat voorkomt dat de kachel onnodig lang aanstaat. Kopers op bol geven hem gemiddeld een 4,3 en noemen vooral de app en het formaat als pluspunten. Op de hoogste stand is de ventilator goed hoorbaar. Wie een slimme kachel zoekt maar het rond ontwerp van Princess niet nodig heeft, vindt hier een prima alternatief.",
       "ean": "8713415342741",
-      "bol_title": "Eurom Hot Shot 2000 Wi-Fi keramische kachel",
+      "bol_title": "Eurom Hot Shot 2000 Wifi Keramische kachel - 2000W",
       "url": "https://www.bol.com/nl/nl/p/eurom-hot-shot-2000-wifi-keramische-kachel-2000w/9200000123563175/",
       "image": "https://media.s-bol.com/qDo0ORx3Dr9y/q7x9njk/550x771.jpg",
       "ph": {
@@ -352,12 +357,13 @@
         "2026-11-16": 65.31,
         "2026-11-17": 65.81,
         "2026-11-18": 65.71,
-        "2026-11-19": 65.81
+        "2026-11-19": 65.81,
+        "2026-11-20": 66.81
       },
       "low_price": 63.31,
-      "synced": "2026-11-19",
-      "prev_price": 65.71,
-      "prev_date": "2026-11-18",
+      "synced": "2026-11-20",
+      "prev_price": 65.81,
+      "prev_date": "2026-11-19",
       "ph_ean": "8713415342741",
       "rating": 4.2
     },
@@ -417,10 +423,11 @@
         "2026-11-16": 69.99,
         "2026-11-17": 69.99,
         "2026-11-18": 69.99,
-        "2026-11-19": 69.99
+        "2026-11-19": 69.99,
+        "2026-11-20": 69.99
       },
       "low_price": 69.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "8716164990614",
       "rating": 4.1
     },
@@ -480,10 +487,11 @@
         "2026-11-16": 52.99,
         "2026-11-17": 52.99,
         "2026-11-18": 52.99,
-        "2026-11-19": 52.99
+        "2026-11-19": 52.99,
+        "2026-11-20": 52.99
       },
       "low_price": 41.0,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 41.0,
       "prev_date": "2026-10-28",
       "ph_ean": "8712836970151",
@@ -492,7 +500,7 @@
     {
       "brand": "Eurom",
       "name": "Safe-T-Heater 1500",
-      "price": 35.46,
+      "price": 35.56,
       "score": 8.0,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -545,12 +553,13 @@
         "2026-11-16": 35.71,
         "2026-11-17": 35.36,
         "2026-11-18": 35.36,
-        "2026-11-19": 35.46
+        "2026-11-19": 35.46,
+        "2026-11-20": 35.56
       },
       "low_price": 34.63,
-      "synced": "2026-11-19",
-      "prev_price": 35.36,
-      "prev_date": "2026-11-18",
+      "synced": "2026-11-20",
+      "prev_price": 35.46,
+      "prev_date": "2026-11-19",
       "ph_ean": "8713415341898",
       "rating": 4.3
     },
@@ -610,10 +619,11 @@
         "2026-11-16": 42.99,
         "2026-11-17": 42.99,
         "2026-11-18": 42.99,
-        "2026-11-19": 42.99
+        "2026-11-19": 42.99,
+        "2026-11-20": 42.99
       },
       "low_price": 42.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 49.99,
       "prev_date": "2026-11-14",
       "ph_ean": "8721055567356",

@@ -50,7 +50,7 @@
       "ean": "1200130019555",
       "url": "https://www.bol.com/nl/nl/p/jbl-charge-6-draagbare-bluetooth-speaker-zwart/9300000193746670/",
       "image": "https://media.s-bol.com/mmJA36vzDQn3/rkWAoKk/550x434.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "bol_title": "JBL Charge 6 - Draadloze Bluetooth Speaker met Afneembare Draagriem - Portable Muziek Box - 28 uur - Waterdicht - IP68 - Zwart",
       "ph": {
         "2026-10-13": 160.0,
@@ -88,7 +88,8 @@
         "2026-11-16": 145.0,
         "2026-11-17": 145.0,
         "2026-11-18": 145.0,
-        "2026-11-19": 145.0
+        "2026-11-19": 145.0,
+        "2026-11-20": 145.0
       },
       "low_price": 135.0,
       "prev_price": 135.0,
@@ -130,12 +131,13 @@
       "ph": {
         "2026-11-17": 59.95,
         "2026-11-18": 59.95,
-        "2026-11-19": 59.95
+        "2026-11-19": 59.95,
+        "2026-11-20": 59.95
       },
       "low_price": 59.95,
       "ph_ean": "1200130010170",
       "rating": 4.9,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Bose",
@@ -179,7 +181,7 @@
         "2026-11-19": 249.0
       },
       "low_price": 249.0,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "rating": 4.8,
       "prev_price": 289.95,
       "prev_date": "2026-11-17"
@@ -215,7 +217,7 @@
       "ean": "8720862502680",
       "url": "https://www.bol.com/nl/nl/p/sonos-roam-2-zwart/9300000179996366/",
       "image": "https://media.s-bol.com/qnPjpy1QorG3/mZy8zop/529x840.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "bol_title": "Sonos Roam 2 - Draagbare smart speaker - Wifi & Bluetooth - Waterdicht (IP67) - Tot 10 uur batterijduur - Zwart",
       "ph": {
         "2026-10-13": 188.0,
@@ -253,7 +255,8 @@
         "2026-11-16": 159.0,
         "2026-11-17": 159.0,
         "2026-11-18": 159.0,
-        "2026-11-19": 159.0
+        "2026-11-19": 159.0,
+        "2026-11-20": 159.0
       },
       "low_price": 159.0,
       "prev_price": 189.0,
@@ -292,7 +295,7 @@
       "ean": "1200130019272",
       "url": "https://www.bol.com/nl/nl/p/jbl-flip-7-portable-bluetooth-speaker-zwart/9300000193746659/",
       "image": "https://media.s-bol.com/4Xx1W484VrkJ/E9JWy3v/550x221.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "bol_title": "JBL Flip 7 - Portable Bluetooth Speaker - Draadloze Muziek Box - 16 uur - Waterdicht - IP68 - Zwart",
       "ph": {
         "2026-10-13": 117.5,
@@ -330,7 +333,8 @@
         "2026-11-16": 106.0,
         "2026-11-17": 106.0,
         "2026-11-18": 106.0,
-        "2026-11-19": 106.0
+        "2026-11-19": 106.0,
+        "2026-11-20": 106.0
       },
       "low_price": 106.0,
       "prev_price": 119.0,
@@ -341,7 +345,7 @@
     {
       "brand": "Marshall",
       "name": "Emberton III",
-      "price": 118.0,
+      "price": 109.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -369,7 +373,7 @@
       "ean": "7340055402255",
       "url": "https://www.bol.com/nl/nl/p/marshall-emberton-iii-bluetooth-speaker-black-and-brass/9300000187562725/",
       "image": "https://media.s-bol.com/mWzZjBzjkyVG/W6owP2X/550x256.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "bol_title": "Marshall Emberton III - Bluetooth Speaker - Black and Brass",
       "ph": {
         "2026-10-13": 139.66,
@@ -407,11 +411,12 @@
         "2026-11-16": 119.0,
         "2026-11-17": 119.0,
         "2026-11-18": 119.0,
-        "2026-11-19": 118.0
+        "2026-11-19": 118.0,
+        "2026-11-20": 109.0
       },
-      "low_price": 118.0,
-      "prev_price": 119.0,
-      "prev_date": "2026-11-18",
+      "low_price": 109.0,
+      "prev_price": 118.0,
+      "prev_date": "2026-11-19",
       "ph_ean": "7340055402255",
       "rating": 4.8
     },
@@ -466,10 +471,11 @@
         "2026-11-16": 74.99,
         "2026-11-17": 74.99,
         "2026-11-18": 74.99,
-        "2026-11-19": 74.99
+        "2026-11-19": 74.99,
+        "2026-11-20": 74.99
       },
       "low_price": 74.99,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 126.0,
       "prev_date": "2026-11-05",
       "ph_ean": "0194644279936",
@@ -504,7 +510,7 @@
       "ideal": "Wie van een stevige bas houdt en een stevige speaker zoekt voor een scherpe prijs.",
       "text": "Sony bracht met de ULT-serie speakers uit die draaien om één knop: ULT. Druk je erop, dan tilt de speaker het laag flink op, waardoor een hiphop- of dancenummer op een strand ineens een stuk voller klinkt. Zonder ULT is de klank evenwichtig maar wat vlak, dus de meeste gebruikers laten de stand aan. Een woofer en een aparte tweeter zorgen dat de hoge tonen helder blijven.\n\nDe behuizing is IP67, schokbestendig en volgens Sony ook roestbestendig, dus geschikt voor zout zeewater. De 12 uur accuduur is voldoende voor een dag, maar JBL en Marshall gaan langer mee. De ingebouwde microfoon met echo-onderdrukking maakt hem bruikbaar als speakerphone. Via de Sony Sound Connect-app koppel je er een tweede Field 1 aan voor stereo. Reviews zijn positief over het volume en de bas voor deze prijs, kritiek is er op het ontbreken van LDAC, wat Sony bij zijn oordopjes wel biedt.",
       "ean": "4548736157088",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "bol_title": "Sony ULT Field 1 - Bluetooth speaker - Zwart",
       "url": "https://www.bol.com/nl/nl/p/sony-ult-field-1-bluetooth-speaker-zwart/9300000175284953/",
       "image": "https://media.s-bol.com/gqZK5p0AY2YD/2kX6lGj/550x332.jpg",
@@ -534,7 +540,8 @@
         "2026-11-16": 59.0,
         "2026-11-17": 59.0,
         "2026-11-18": 59.0,
-        "2026-11-19": 59.0
+        "2026-11-19": 59.0,
+        "2026-11-20": 59.0
       },
       "low_price": 59.0,
       "prev_price": 77.09,
@@ -548,7 +555,7 @@
       "price": 98.0,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Beste geluid in het middensegment, plat en handzaam.",
       "specs": {
         "Accuduur": "tot 12 uur",
@@ -572,17 +579,18 @@
       "text": "De tweede generatie SoundLink Flex kwam in 2024 en bracht aptX Adaptive, een snelkoppelknop en een nieuwe app. De kern bleef hetzelfde en dat is goed: het is de best klinkende speaker in het segment rond 100 euro. Stemmen klinken natuurlijk, de hoge tonen zijn helder en de bas is strak zonder te overheersen. PositionIQ merkt of de speaker ligt, staat of hangt en past het geluid daarop aan.\n\nDe platte vorm met siliconen bekleding past in een zijvak van een tas en de lus aan de zijkant is handig voor een haak of karabijnhaak. Hij is IP67, drijft en de poedergecoate stalen grille is bestand tegen roest. De accuduur van 12 uur is gemiddeld en op een tuinfeest komt hij in volume tekort ten opzichte van de JBL Charge 6. Gebruikers die van een JBL overstappen, roemen de verfijning. Voor binnen en een rustig terras is dit een topkeuze.",
       "ean": "0017817852470",
       "ph_ean": "0017817852470",
-      "rating": 5.0,
+      "rating": 4.8,
       "bol_title": "Bose SoundLink Flex Bluetooth Portable Speaker- Zwart Gen 2",
       "url": "https://www.bol.com/nl/nl/p/bose-887612-0100-draagbare-party-speaker-zwart/9300000190559732/",
       "image": "https://media.s-bol.com/w6qzMkPyYMYz/mZNY2LO/550x242.jpg",
       "ph": {
         "2026-11-17": 98.0,
         "2026-11-18": 98.0,
-        "2026-11-19": 98.0
+        "2026-11-19": 98.0,
+        "2026-11-20": 98.0
       },
       "low_price": 98.0,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "JBL",
@@ -628,10 +636,11 @@
         "2026-11-16": 283.68,
         "2026-11-17": 283.68,
         "2026-11-18": 283.68,
-        "2026-11-19": 283.68
+        "2026-11-19": 283.68,
+        "2026-11-20": 283.68
       },
       "low_price": 283.68,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "1200130033766",
       "rating": 4.7
     }

@@ -62,17 +62,18 @@
       "image": "https://media.s-bol.com/OxnrzzgrpPOY/qjrzv27/550x730.jpg",
       "ph": {
         "2026-11-18": 79.99,
-        "2026-11-19": 79.99
+        "2026-11-19": 79.99,
+        "2026-11-20": 79.99
       },
       "low_price": 79.99,
       "ph_ean": "3121040094587",
       "rating": 4.7,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "DREO",
       "name": "Atom 416",
-      "price": 45.99,
+      "price": 44.84,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,8 van 5",
@@ -102,17 +103,20 @@
       "image": "https://media.s-bol.com/QMXn45E8Bz0M/volvQk5/550x594.jpg",
       "ph": {
         "2026-11-18": 45.99,
-        "2026-11-19": 45.99
+        "2026-11-19": 45.99,
+        "2026-11-20": 44.84
       },
-      "low_price": 45.99,
+      "low_price": 44.84,
       "ph_ean": "0810181280197",
       "rating": 4.8,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20",
+      "prev_price": 45.99,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Eurom",
       "name": "Alutherm 1500 WiFi",
-      "price": 98.49,
+      "price": 100.49,
       "score": 8.8,
       "label": "Beste premium",
       "reviews": "bol-score 4,2 van 5",
@@ -142,14 +146,15 @@
       "image": "https://media.s-bol.com/7Bq2kPVERQE1/AD9qY73/550x407.jpg",
       "ph": {
         "2026-11-18": 97.59,
-        "2026-11-19": 98.49
+        "2026-11-19": 98.49,
+        "2026-11-20": 100.49
       },
       "low_price": 97.59,
       "ph_ean": "8713415360745",
       "rating": 4.2,
-      "synced": "2026-11-19",
-      "prev_price": 97.59,
-      "prev_date": "2026-11-18"
+      "synced": "2026-11-20",
+      "prev_price": 98.49,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Aigostar",
@@ -184,12 +189,13 @@
       "image": "https://media.s-bol.com/xg4omzQXGEAE/vg1plpL/550x689.jpg",
       "ph": {
         "2026-11-18": 79.99,
-        "2026-11-19": 79.99
+        "2026-11-19": 79.99,
+        "2026-11-20": 79.99
       },
       "low_price": 79.99,
       "ph_ean": "8433325385507",
       "rating": 4.1,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "DREO",
@@ -224,17 +230,18 @@
       "image": "https://media.s-bol.com/A3k9NkENjXX1/46DJ660/550x722.jpg",
       "ph": {
         "2026-11-18": 80.74,
-        "2026-11-19": 80.74
+        "2026-11-19": 80.74,
+        "2026-11-20": 80.74
       },
       "low_price": 80.74,
       "ph_ean": "0810181280036",
       "rating": 4.8,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Rowenta",
       "name": "Vectissimo CO3030F1",
-      "price": 84.0,
+      "price": 86.7,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -264,11 +271,14 @@
       "url": "https://www.bol.com/nl/nl/p/rowenta-convector-vectissimo-co3030-kachel/9000000012392358/",
       "image": "https://media.s-bol.com/Yr9jDW15o5NM/k2RREBr/550x492.jpg",
       "ph": {
-        "2026-11-19": 84.0
+        "2026-11-19": 84.0,
+        "2026-11-20": 86.7
       },
       "low_price": 84.0,
       "ph_ean": "3121040038499",
-      "synced": "2026-11-19"
+      "synced": "2026-11-20",
+      "prev_price": 84.0,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Eurom",
@@ -303,19 +313,20 @@
       "image": "https://media.s-bol.com/mXv0GVlqB579/mE0DZ0/550x347.jpg",
       "ph": {
         "2026-11-18": 72.49,
-        "2026-11-19": 73.29
+        "2026-11-19": 73.29,
+        "2026-11-20": 73.29
       },
       "low_price": 72.49,
       "ph_ean": "8713415360479",
       "rating": 4.5,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 72.49,
       "prev_date": "2026-11-18"
     },
     {
       "brand": "Tomado",
       "name": "THC2003B convectorkachel",
-      "price": 49.99,
+      "price": 59.99,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -345,12 +356,15 @@
       "image": "https://media.s-bol.com/B2wxAOY71GgY/DXYJNx/550x477.jpg",
       "ph": {
         "2026-11-18": 49.99,
-        "2026-11-19": 49.99
+        "2026-11-19": 49.99,
+        "2026-11-20": 59.99
       },
       "low_price": 49.99,
       "ph_ean": "8712876501834",
       "rating": 4.7,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20",
+      "prev_price": 49.99,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Philips",
@@ -385,17 +399,18 @@
       "image": "https://media.s-bol.com/mm9K29jJqQn3/yPvyW86/550x611.jpg",
       "ph": {
         "2026-11-18": 59.36,
-        "2026-11-19": 59.36
+        "2026-11-19": 59.36,
+        "2026-11-20": 59.36
       },
       "low_price": 59.36,
       "ph_ean": "8720389041501",
       "rating": 4.3,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Inventum",
       "name": "KC222WOS keramische kachel",
-      "price": 38.51,
+      "price": 39.1,
       "score": 8.0,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -425,14 +440,15 @@
       "image": "https://media.s-bol.com/gJDk2N309ODD/550x756.jpg",
       "ph": {
         "2026-11-18": 41.99,
-        "2026-11-19": 38.51
+        "2026-11-19": 38.51,
+        "2026-11-20": 39.1
       },
       "low_price": 38.51,
       "ph_ean": "8712876044072",
       "rating": 4.5,
-      "synced": "2026-11-19",
-      "prev_price": 41.99,
-      "prev_date": "2026-11-18"
+      "synced": "2026-11-20",
+      "prev_price": 38.51,
+      "prev_date": "2026-11-19"
     }
   ],
   "guide": [

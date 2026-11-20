@@ -22,7 +22,7 @@
     {
       "brand": "Philips",
       "name": "PureProtect 3200 Series",
-      "price": 249.0,
+      "price": 239.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -57,12 +57,13 @@
       "ph": {
         "2026-11-17": 239.0,
         "2026-11-18": 239.0,
-        "2026-11-19": 249.0
+        "2026-11-19": 249.0,
+        "2026-11-20": 239.0
       },
       "low_price": 239.0,
-      "synced": "2026-11-19",
-      "prev_price": 239.0,
-      "prev_date": "2026-11-18"
+      "synced": "2026-11-20",
+      "prev_price": 249.0,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Winix",
@@ -108,10 +109,11 @@
         "2026-11-16": 149.0,
         "2026-11-17": 149.0,
         "2026-11-18": 149.0,
-        "2026-11-19": 149.0
+        "2026-11-19": 149.0,
+        "2026-11-20": 149.0
       },
       "low_price": 149.0,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "8809490586054",
       "rating": 4.5
     },
@@ -146,7 +148,7 @@
       "bol_title": "Dyson Purifier Humidify+Cool PH2 De-NOx - Luchtreiniger - Ventilator - HEPA filter - Wit/Goud",
       "url": "https://www.bol.com/nl/nl/p/dyson-purifier-humidify-cool-de-nox-ph05-luchtreiniger-hepa-filter-wit-goud/9300000226721806/",
       "image": "https://media.s-bol.com/mo4vMW8NvJ19/oQBoArk/550x819.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-15": 749.0,
         "2026-10-16": 749.0,
@@ -181,7 +183,8 @@
         "2026-11-16": 649.0,
         "2026-11-17": 649.0,
         "2026-11-18": 649.0,
-        "2026-11-19": 649.0
+        "2026-11-19": 649.0,
+        "2026-11-20": 649.0
       },
       "low_price": 649.0,
       "prev_price": 699.0,
@@ -227,11 +230,12 @@
         "2026-11-16": 269.0,
         "2026-11-17": 269.0,
         "2026-11-18": 269.0,
-        "2026-11-19": 269.0
+        "2026-11-19": 269.0,
+        "2026-11-20": 269.0
       },
       "low_price": 269.0,
       "ph_ean": "0810043373685",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "rating": 4.3
     },
     {
@@ -266,7 +270,7 @@
       "bol_title": "Xiaomi Smart Air Purifier 4 Pro | Luchtreiniger | 500 m³/u CADR | Tot 60 m² | PM2.5 en PM10 sensor | OLED display | App en spraakbediening | Automatische modus",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-air-purifier-4-pro-luchtreiniger/9300000072830557/",
       "image": "https://media.s-bol.com/BWVqEDQE5BAQ/RoO1LRE/345x840.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-14": 249.99,
         "2026-10-15": 249.99,
@@ -302,7 +306,8 @@
         "2026-11-16": 267.25,
         "2026-11-17": 269.95,
         "2026-11-18": 219.0,
-        "2026-11-19": 219.0
+        "2026-11-19": 219.0,
+        "2026-11-20": 219.0
       },
       "low_price": 219.0,
       "prev_price": 269.95,
@@ -366,10 +371,11 @@
         "2026-11-16": 139.99,
         "2026-11-17": 139.99,
         "2026-11-18": 139.99,
-        "2026-11-19": 139.99
+        "2026-11-19": 139.99,
+        "2026-11-20": 139.99
       },
       "low_price": 108.5,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 118.5,
       "prev_date": "2026-11-13",
       "ph_ean": "3121047260800",
@@ -407,7 +413,7 @@
       "bol_title": "Philips Luchtreiniger PureProtect Mini AC0921/14 - Tegen Hooikoorts, Huisstofmijt, Stof en Allergie - HEPA Filter - Ruimtes tot 65 m² - Fluisterstil met Slaapstand - Automatische Stand - Luchtkwaliteitsindicator - Beige",
       "url": "https://www.bol.com/nl/nl/p/philips-pureprotect-mini-900-serie-luchtzuiveraar-ac0921-14/9300000186181889/",
       "image": "https://media.s-bol.com/NqvN0nkJDBPL/xvE01mJ/476x840.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-15": 133.0,
         "2026-10-16": 133.0,
@@ -442,7 +448,8 @@
         "2026-11-16": 99.99,
         "2026-11-17": 99.99,
         "2026-11-18": 99.99,
-        "2026-11-19": 99.99
+        "2026-11-19": 99.99,
+        "2026-11-20": 99.99
       },
       "low_price": 99.99,
       "prev_price": 120.63,
@@ -453,7 +460,7 @@
     {
       "brand": "Levoit",
       "name": "Core 300S",
-      "price": 166.99,
+      "price": 173.99,
       "score": 8.3,
       "reviews": "bol-score 4,6 van 5",
       "oneliner": "Slimme luchtreiniger met app en True HEPA, kleiner dan de Core 400S.",
@@ -492,19 +499,20 @@
         "2026-11-16": 169.99,
         "2026-11-17": 169.99,
         "2026-11-18": 173.99,
-        "2026-11-19": 166.99
+        "2026-11-19": 166.99,
+        "2026-11-20": 173.99
       },
       "low_price": 161.99,
-      "synced": "2026-11-19",
-      "prev_price": 173.99,
-      "prev_date": "2026-11-18",
+      "synced": "2026-11-20",
+      "prev_price": 166.99,
+      "prev_date": "2026-11-19",
       "ph_ean": "0810043373814",
       "rating": 4.6
     },
     {
       "brand": "Coway",
       "name": "Airmega 150",
-      "price": 219.99,
+      "price": 149.99,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,1 van 5",
@@ -533,7 +541,7 @@
       "bol_title": "Coway Airmega 150 Luchtreiniger - Voor ruimtes tot 73m² - HEPA filter + koolstoffilter + Wasbaar pre-filter - 281 m³/u - Tegen stof, pollen en allergenen - Fluisterstil (20 dB) - ECARF & Quiet Mark gecertificeerd - Wit",
       "url": "https://www.bol.com/nl/nl/p/coway-airmega-150-luchtreiniger-met-greenhepa-technologie-wit/9300000075750686/",
       "image": "https://media.s-bol.com/qXgln7xLW3Bk/N3BXLv/550x772.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-13": 219.99,
         "2026-10-14": 219.99,
@@ -570,18 +578,19 @@
         "2026-11-16": 219.99,
         "2026-11-17": 219.99,
         "2026-11-18": 219.99,
-        "2026-11-19": 219.99
+        "2026-11-19": 219.99,
+        "2026-11-20": 149.99
       },
-      "low_price": 169.99,
-      "prev_price": 169.99,
-      "prev_date": "2026-11-01",
+      "low_price": 149.99,
+      "prev_price": 219.99,
+      "prev_date": "2026-11-19",
       "ph_ean": "8809466829130",
       "rating": 4.1
     },
     {
       "brand": "Philips",
       "name": "PureProtect 700 Series AC0721/13",
-      "price": 90.5,
+      "price": 90.4,
       "score": 7.8,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -611,12 +620,15 @@
       "image": "https://media.s-bol.com/N4nN4Qn6qAyN/AN9JAGO/550x726.jpg",
       "ph": {
         "2026-11-18": 90.5,
-        "2026-11-19": 90.5
+        "2026-11-19": 90.5,
+        "2026-11-20": 90.4
       },
-      "low_price": 90.5,
+      "low_price": 90.4,
       "ph_ean": "8720389081132",
       "rating": 4.4,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20",
+      "prev_price": 90.5,
+      "prev_date": "2026-11-19"
     }
   ],
   "guide": [

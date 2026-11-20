@@ -22,7 +22,7 @@
     {
       "brand": "Samsung",
       "name": "Neo QLED QE43QN73H",
-      "price": 568.01,
+      "price": 529.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "",
@@ -50,17 +50,18 @@
       "ean": "8806099124410",
       "bol_title": "Samsung QE43QN73H - 43 inch - 4K Neo QLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-qe43qn73hauxxn-tv-109-2-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000301588007/",
-      "image": "https://media.s-bol.com/moo088RKzgB9/JqgGNm9/550x353.jpg",
+      "image": "https://media.s-bol.com/vAAxRRqnkDz5/JqgGNm9/550x440.jpg",
       "ph": {
         "2026-11-17": 570.79,
         "2026-11-18": 570.79,
-        "2026-11-19": 568.01
+        "2026-11-19": 568.01,
+        "2026-11-20": 529.0
       },
-      "low_price": 568.01,
+      "low_price": 529.0,
       "ph_ean": "8806099124410",
-      "synced": "2026-11-19",
-      "prev_price": 570.79,
-      "prev_date": "2026-11-18"
+      "synced": "2026-11-20",
+      "prev_price": 568.01,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Hisense",
@@ -93,7 +94,7 @@
       "bol_title": "Hisense 43E7S PRO SmartTV - 43 inch - 4K Hi-QLED - 2026 - Native 144Hz Game Mode - Hi-QLED Colour - Built-in Subwoofer - AI Picture - AI Smooth Motion - AMD FreeSync Premium - Dolby Vision Atmos",
       "url": "https://www.bol.com/nl/nl/p/hisense-43e7s-pro-smarttv-43-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000268019814/",
       "image": "https://media.s-bol.com/R3nMz6X8DmAR/z6qO7xY/550x381.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-20": 456.0,
         "2026-10-21": 456.0,
@@ -123,7 +124,8 @@
         "2026-11-16": 444.0,
         "2026-11-17": 444.0,
         "2026-11-18": 444.0,
-        "2026-11-19": 444.0
+        "2026-11-19": 444.0,
+        "2026-11-20": 444.0
       },
       "low_price": 444.0,
       "prev_price": 449.0,
@@ -134,7 +136,7 @@
     {
       "brand": "Samsung",
       "name": "The Frame QE43LS03H (2026)",
-      "price": 699.0,
+      "price": 769.0,
       "score": 8.9,
       "label": "Beste premium",
       "reviews": "",
@@ -162,7 +164,7 @@
       "bol_title": "Samsung QE43LS03HEUX The Frame 43 Inch (2026)",
       "url": "https://www.bol.com/nl/nl/p/samsung-qe43ls03heux-the-frame-43-inch/9300000284690240/",
       "image": "https://media.s-bol.com/D3OMPlxjlGX6/k2jOrQr/550x318.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-20": 899.0,
         "2026-10-21": 899.0,
@@ -192,17 +194,18 @@
         "2026-11-16": 769.0,
         "2026-11-17": 699.0,
         "2026-11-18": 699.0,
-        "2026-11-19": 699.0
+        "2026-11-19": 699.0,
+        "2026-11-20": 769.0
       },
       "low_price": 695.0,
-      "prev_price": 769.0,
-      "prev_date": "2026-11-16",
+      "prev_price": 699.0,
+      "prev_date": "2026-11-19",
       "ph_ean": "8806099242787"
     },
     {
       "brand": "Philips",
       "name": "Ambilight 43PQS8601/12",
-      "price": 513.47,
+      "price": 459.0,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -239,12 +242,13 @@
         "2026-11-16": 499.0,
         "2026-11-17": 499.0,
         "2026-11-18": 499.0,
-        "2026-11-19": 513.47
+        "2026-11-19": 513.47,
+        "2026-11-20": 459.0
       },
-      "low_price": 475.0,
-      "synced": "2026-11-19",
-      "prev_price": 499.0,
-      "prev_date": "2026-11-18",
+      "low_price": 459.0,
+      "synced": "2026-11-20",
+      "prev_price": 513.47,
+      "prev_date": "2026-11-19",
       "ph_ean": "8718863052747",
       "rating": 5.0
     },
@@ -279,7 +283,7 @@
       "bol_title": "LG 43QNED84A6 - 43 inch - 4K QNED - 2025 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/lg-43qned84a6-43-inch-4k-qned-2025/9300000258904494/",
       "image": "https://media.s-bol.com/6Zo2kBPpo1AR/4RAmnvV/550x336.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-20": 399.0,
         "2026-10-21": 399.0,
@@ -309,7 +313,8 @@
         "2026-11-16": 349.0,
         "2026-11-17": 349.0,
         "2026-11-18": 349.0,
-        "2026-11-19": 347.0
+        "2026-11-19": 347.0,
+        "2026-11-20": 347.0
       },
       "low_price": 347.0,
       "prev_price": 349.0,
@@ -348,7 +353,7 @@
       "bol_title": "Sony BRAVIA 3 II - 43 inch - 4K LED - 120 Hz - 2026",
       "url": "https://www.bol.com/nl/nl/p/sony-bravia-3-ii-43-inch-4k-led-2026/9300000269397852/",
       "image": "https://media.s-bol.com/mrQRxOX77RN9/Pjo2EY6/550x338.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-20": 699.0,
         "2026-10-21": 699.0,
@@ -378,7 +383,8 @@
         "2026-11-16": 649.0,
         "2026-11-17": 649.0,
         "2026-11-18": 649.0,
-        "2026-11-19": 649.0
+        "2026-11-19": 649.0,
+        "2026-11-20": 649.0
       },
       "low_price": 649.0,
       "prev_price": 689.0,
@@ -432,10 +438,11 @@
         "2026-11-16": 399.0,
         "2026-11-17": 399.0,
         "2026-11-18": 399.0,
-        "2026-11-19": 399.0
+        "2026-11-19": 399.0,
+        "2026-11-20": 399.0
       },
       "low_price": 399.0,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph_ean": "8806091952202",
       "rating": 4.3
     },
@@ -445,7 +452,7 @@
       "price": 289.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Goedkope QLED met Google TV en een gamemodus tot 120 Hz.",
       "specs": {
         "Paneel": "QLED",
@@ -470,7 +477,7 @@
       "bol_title": "Xiaomi TV A Pro 2026 43 inch | 4K QLED Google TV | HDR10+ & Filmmaker Mode | 120Hz gaming | Dolby Audio & DTS-X | 94% DCI-P3 | AirPlay, Google Cast & Miracast | Google Assistant",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-43-inch-4k-qled-tv/9300000231021635/",
       "image": "https://media.s-bol.com/JoqgkJ41nrwv/Z4jn42J/550x330.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-20": 306.0,
         "2026-10-21": 308.1,
@@ -500,13 +507,14 @@
         "2026-11-16": 289.0,
         "2026-11-17": 289.0,
         "2026-11-18": 289.0,
-        "2026-11-19": 289.0
+        "2026-11-19": 289.0,
+        "2026-11-20": 289.0
       },
       "low_price": 289.0,
       "prev_price": 299.0,
       "prev_date": "2026-10-30",
       "ph_ean": "6941948705630",
-      "rating": 4.4
+      "rating": 4.3
     },
     {
       "brand": "Samsung",
@@ -555,10 +563,11 @@
         "2026-11-16": 399.0,
         "2026-11-17": 399.0,
         "2026-11-18": 399.0,
-        "2026-11-19": 399.0
+        "2026-11-19": 399.0,
+        "2026-11-20": 399.0
       },
       "low_price": 399.0,
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "prev_price": 429.0,
       "prev_date": "2026-11-05",
       "ph_ean": "8806099134440",
@@ -594,7 +603,7 @@
       "bol_title": "TCL 43S51K - 43 inch - Full HD QLED - 2025 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/tcl-43s51k-full-hd-43-qled-smart-tv/9300000250301883/",
       "image": "https://media.s-bol.com/KD7lAKJ1DyPn/X6zgMPv/550x550.jpg",
-      "synced": "2026-11-19",
+      "synced": "2026-11-20",
       "ph": {
         "2026-10-20": 269.0,
         "2026-10-21": 269.0,
@@ -624,7 +633,8 @@
         "2026-11-16": 239.0,
         "2026-11-17": 239.0,
         "2026-11-18": 239.0,
-        "2026-11-19": 239.0
+        "2026-11-19": 239.0,
+        "2026-11-20": 239.0
       },
       "low_price": 239.0,
       "prev_price": 241.39,

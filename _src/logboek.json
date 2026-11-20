@@ -773,7 +773,7 @@
   "start": "2026-10-21",
   "n": 10,
   "events": [],
-  "_tot": "08978bcaaa33df31038c4ee8286bc331b2484b84",
+  "_tot": "d3dcbef205c1ebc026e9791abe3673a5afe912b3",
   "_ps": [
    {
     "brand": "WOOOD",
@@ -797,8 +797,8 @@
    },
    {
     "brand": "Meubella",
-    "name": "Monet hoekbank leer",
-    "ean": "8721055841784"
+    "name": "Santana hoekbank kunstleer",
+    "ean": "8719497240234"
    },
    {
     "brand": "Dimehouse",
@@ -1225,14 +1225,24 @@
     "in": "Lenovo Legion T5 30AGB10 90YJ0097MH (Ryzen 7 7800X3D, RTX 5070)",
     "plek": 1,
     "paar": true
+   },
+   {
+    "d": "2026-11-19",
+    "t": "vervangen",
+    "uit": "Lenovo Legion T5 30AGB10 90YJ0097MH (Ryzen 7 7800X3D, RTX 5070)",
+    "in": "Lenovo Legion T5 30AGB10 90YJ0098MH (Ryzen 7 7700X, RTX 5070)",
+    "plek": 1,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "08978bcaaa33df31038c4ee8286bc331b2484b84",
+  "_tot": "d3dcbef205c1ebc026e9791abe3673a5afe912b3",
   "_ps": [
    {
     "brand": "Lenovo",
-    "name": "Legion T5 30AGB10 90YJ0097MH (Ryzen 7 7800X3D, RTX 5070)",
-    "ean": "0199274389918"
+    "name": "Legion T5 30AGB10 90YJ0098MH (Ryzen 7 7700X, RTX 5070)",
+    "ean": "0199274048204"
    },
    {
     "brand": "HP",
@@ -1445,7 +1455,7 @@
     "paar": true
    }
   ],
-  "_tot": "08978bcaaa33df31038c4ee8286bc331b2484b84",
+  "_tot": "d3dcbef205c1ebc026e9791abe3673a5afe912b3",
   "_ps": [
    {
     "brand": "Dimplex",
@@ -1495,7 +1505,7 @@
    {
     "brand": "Costway",
     "name": "Elektrische inbouwhaard 49 cm",
-    "ean": "0672669132523"
+    "ean": "0672669132530"
    }
   ]
  },
@@ -1503,7 +1513,7 @@
   "start": "2026-10-21",
   "n": 10,
   "events": [],
-  "_tot": "08978bcaaa33df31038c4ee8286bc331b2484b84",
+  "_tot": "d3dcbef205c1ebc026e9791abe3673a5afe912b3",
   "_ps": [
    {
     "brand": "Anno 1588",

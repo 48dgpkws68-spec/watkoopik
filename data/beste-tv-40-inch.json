@@ -64,12 +64,13 @@
       "image": "https://media.s-bol.com/N3j1pjWGw6G2/79D52oB/550x324.jpg",
       "ph": {
         "2026-11-18": 279.0,
-        "2026-11-19": 279.0
+        "2026-11-19": 279.0,
+        "2026-11-20": 279.0
       },
       "low_price": 279.0,
       "ph_ean": "8718863051597",
       "rating": 4.7,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "CHiQ",
@@ -104,12 +105,13 @@
       "image": "https://media.s-bol.com/xDjlnKLWGJMr/oQ726Mz/550x338.jpg",
       "ph": {
         "2026-11-18": 229.0,
-        "2026-11-19": 229.0
+        "2026-11-19": 229.0,
+        "2026-11-20": 229.0
       },
       "low_price": 229.0,
       "ph_ean": "8592344205538",
       "rating": 4.6,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Sharp",
@@ -144,12 +146,13 @@
       "image": "https://media.s-bol.com/95MGAAk41ND3/voMJpg5/550x350.jpg",
       "ph": {
         "2026-11-18": 380.53,
-        "2026-11-19": 380.53
+        "2026-11-19": 380.53,
+        "2026-11-20": 380.53
       },
       "low_price": 380.53,
       "ph_ean": "5905683273411",
       "rating": 4.2,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Horizon",
@@ -183,17 +186,18 @@
       "image": "https://media.s-bol.com/BJ1qvr3O1nv2/qxqNZN3/550x361.jpg",
       "ph": {
         "2026-11-18": 259.0,
-        "2026-11-19": 259.0
+        "2026-11-19": 259.0,
+        "2026-11-20": 259.0
       },
       "low_price": 259.0,
       "ph_ean": "5949494026286",
       "rating": 5.0,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Philips",
       "name": "40PFS6050/12",
-      "price": 220.0,
+      "price": 229.0,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -222,14 +226,15 @@
       "image": "https://media.s-bol.com/YGRVWj49p4g9/32pxDkO/550x342.jpg",
       "ph": {
         "2026-11-18": 219.0,
-        "2026-11-19": 220.0
+        "2026-11-19": 220.0,
+        "2026-11-20": 229.0
       },
       "low_price": 219.0,
       "ph_ean": "8718863051559",
       "rating": 4.2,
-      "synced": "2026-11-19",
-      "prev_price": 219.0,
-      "prev_date": "2026-11-18"
+      "synced": "2026-11-20",
+      "prev_price": 220.0,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "CHiQ",
@@ -263,17 +268,18 @@
       "image": "https://media.s-bol.com/q1QG1WoVQDjG/pgDLYD2/550x349.jpg",
       "ph": {
         "2026-11-18": 226.0,
-        "2026-11-19": 226.0
+        "2026-11-19": 226.0,
+        "2026-11-20": 226.0
       },
       "low_price": 226.0,
       "ph_ean": "8592344206030",
       "rating": 4.3,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Panasonic",
       "name": "40S65CEZS",
-      "price": 329.0,
+      "price": 299.0,
       "score": 8.2,
       "label": null,
       "reviews": "",
@@ -303,13 +309,14 @@
       "image": "https://media.s-bol.com/qz8lE9N3K7M0/839jQMl/550x365.jpg",
       "ph": {
         "2026-11-18": 299.0,
-        "2026-11-19": 329.0
+        "2026-11-19": 329.0,
+        "2026-11-20": 299.0
       },
       "low_price": 299.0,
       "ph_ean": "5025232998975",
-      "synced": "2026-11-19",
-      "prev_price": 299.0,
-      "prev_date": "2026-11-18"
+      "synced": "2026-11-20",
+      "prev_price": 329.0,
+      "prev_date": "2026-11-19"
     },
     {
       "brand": "Samsung",
@@ -343,12 +350,13 @@
       "image": "https://media.s-bol.com/8vXnO3yXV8z2/YEwGg7p/550x344.jpg",
       "ph": {
         "2026-11-18": 322.59,
-        "2026-11-19": 322.59
+        "2026-11-19": 322.59,
+        "2026-11-20": 322.59
       },
       "low_price": 322.59,
       "ph_ean": "8806095916699",
       "rating": 3.7,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Hisense",
@@ -383,11 +391,12 @@
       "image": "https://media.s-bol.com/KVgPyOR1KPjr/OYqJlgr/550x335.jpg",
       "ph": {
         "2026-11-18": 385.0,
-        "2026-11-19": 385.0
+        "2026-11-19": 385.0,
+        "2026-11-20": 385.0
       },
       "low_price": 385.0,
       "ph_ean": "6942351405988",
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Hyundai",
@@ -421,12 +430,13 @@
       "image": "https://media.s-bol.com/q302y279JXYD/pQwV3jX/550x346.jpg",
       "ph": {
         "2026-11-18": 219.99,
-        "2026-11-19": 219.99
+        "2026-11-19": 219.99,
+        "2026-11-20": 219.99
       },
       "low_price": 219.99,
       "ph_ean": "3700638501913",
       "rating": 4.8,
-      "synced": "2026-11-19"
+      "synced": "2026-11-20"
     }
   ],
   "guide": [
