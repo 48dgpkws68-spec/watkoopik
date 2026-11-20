@@ -18,7 +18,7 @@
   "updated": "2026-10-29",
   "reviews_total": "3.900",
   "intro": "Een 50 inch tv is de slimme maat voor een woonkamer van gemiddelde grootte of een appartement waar je op ongeveer twee meter van het scherm zit. Groot genoeg voor films en voetbal, klein genoeg om het meubel niet te domineren. Wij vergeleken modellen op paneeltype, helderheid, verversing, smart-systeem en wat kopers op bol erover zeggen. Dit zijn de tien beste 50 inch tv's die je nu kunt kopen, van een QLED onder de 350 euro tot Mini-LED met 144 Hz.",
-  "verdict": "De Hisense 50E8S is de beste 50 inch tv voor de meeste mensen: Mini-LED, 144 Hz en een hoge helderheid voor een nette prijs. Wil je zo weinig mogelijk uitgeven zonder in te leveren op software, dan is de Hisense 50E7S de beste prijs-kwaliteit met Dolby Vision en Dolby Atmos. Zoek je het beste wat er op 50 inch te krijgen is voor films en gamen, kies dan de TCL 50Q7C.",
+  "verdict": "De Hisense 50E8S is de beste 50 inch tv voor de meeste mensen: Mini-LED, 144 Hz en een hoge helderheid voor een nette prijs. Wil je zo weinig mogelijk uitgeven zonder in te leveren op software, dan is de Hisense 50E7S de beste prijs-kwaliteit met Dolby Vision en Dolby Atmos. Zoek je de Mini-LED-techniek van Samsung op 50 inch, kies dan de Samsung QE50QN73H.",
   "products": [
     {
       "brand": "Hisense",
@@ -207,65 +207,43 @@
       "rating": 4.8
     },
     {
-      "brand": "TCL",
-      "name": "50Q7C",
-      "price": 599.0,
+      "brand": "Samsung",
+      "name": "QE50QN73H",
+      "price": 565.0,
       "score": 8.8,
       "label": "Beste premium",
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "QD-Mini-LED met 144 Hz en Bang & Olufsen-geluid.",
+      "reviews": "",
+      "oneliner": "Neo QLED met Mini-LED-verlichting uit de 2026-lijn van Samsung.",
       "specs": {
-        "Paneel": "QD-Mini-LED",
-        "Verversing": "144 Hz",
-        "HDR": "Dolby Vision IQ, HDR10+",
-        "Smart-tv": "Google TV",
-        "Jaar": "2025"
+        "Paneel": "Neo QLED (Mini-LED)",
+        "Verversing": "Niet opgegeven",
+        "HDR": "HDR10+, HLG",
+        "Smart-tv": "Tizen",
+        "Jaar": "2026"
       },
       "pros": [
-        "Veel dimzones voor sterk contrast",
-        "144 Hz en VRR voor consoles en pc",
-        "Geluid afgestemd door Bang & Olufsen",
-        "Google TV met de meeste apps"
+        "Mini-LED-achtergrondverlichting voor sterk contrast",
+        "Quantum dots voor heldere kleuren",
+        "Nieuw model uit 2026",
+        "Tizen met alle grote streamingapps"
       ],
       "cons": [
-        "Duurste 50 inch tv in deze lijst",
-        "Hoge helderheid vraagt om goede beeldinstellingen"
+        "Duurder dan de Hisense 50E8S op plek één",
+        "Geen Dolby Vision, Samsung kiest voor HDR10+",
+        "Verversingssnelheid staat niet in de productinfo"
       ],
-      "ideal": "Gamers en filmliefhebbers die op 50 inch het meeste uit HDR willen halen.",
-      "text": "De TCL 50Q7C is de meest complete 50 inch tv die je nu bij bol vindt. Het QD-Mini-LED-paneel combineert quantum dots voor rijke kleuren met een groot aantal dimzones, waardoor heldere details naast diep zwart kunnen staan zonder storende lichtkringen. Dolby Vision IQ past het beeld aan op het licht in je kamer, handig als je overdag met de gordijnen open kijkt.\n\nVoor gamers is dit de beste keuze in de lijst: 144 Hz, VRR, ALLM en een lage input lag via HDMI 2.1. Het geluid is afgestemd door Bang & Olufsen en klinkt voller dan bij de meeste dunne tv's, al blijft een soundbar een verbetering. Google TV geeft je toegang tot vrijwel elke app en je kunt Chromecast direct gebruiken. Gebruikers prijzen de helderheid en het contrast, maar raden aan de standaardmodus wat terug te schroeven. Met 799 euro is hij duur voor 50 inch, maar je krijgt de techniek van grotere topmodellen.",
-      "ean": "5901292526627",
-      "bol_title": "TCL 50Q7C - 50 inch - 4K QD-MiniLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-50q7c-50-inch-4k-qd-miniled-2025/9300000228002740/",
-      "image": "https://media.s-bol.com/Rqo8ogoYDvQ0/J6My8Xg/550x352.jpg",
+      "ideal": "Wie op 50 inch de Neo QLED-techniek van Samsung wil voor films en series.",
+      "text": "De Samsung QE50QN73H is een 50 inch tv uit de Neo QLED-lijn van 2026. Neo QLED is de naam die Samsung gebruikt voor tv's met Mini-LED-achtergrondverlichting en quantum dots. De kleine leds geven meer controle over licht en donker dan gewone ledverlichting, waardoor heldere details en donkere delen beter naast elkaar staan. De quantum dots zorgen voor verzadigde kleuren.\n\nVoor HDR gebruikt Samsung HDR10+ en HLG, Dolby Vision ontbreekt zoals bij alle Samsung-tv's. Tizen is het smart-platform en daarop vind je Netflix, Disney+, Videoland, NPO Start en YouTube. De verversingssnelheid noemt bol niet in de productinfo. Speel je veel op een pc of console en wil je zeker 144 Hz, dan zijn de Hisense 50E8S en 50E7S PRO de veiligere keuzes. Met een prijs rond de 565 euro is dit een van de duurdere 50 inch tv's in deze lijst. Daar krijg je een merk met goede software-updates en een strak, modern ontwerp voor terug.",
+      "ean": "8806099124434",
+      "bol_title": "Samsung QE50QN73H - 50 inch - 4K Neo QLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/samsung-qe50qn73hauxxn-tv-127-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000301588008/",
+      "image": "https://media.s-bol.com/E3v3699ZX6mK/w0RpNPR/550x343.jpg",
       "ph": {
-        "2026-10-29": 799.0,
-        "2026-10-30": 799.0,
-        "2026-10-31": 799.0,
-        "2026-11-01": 799.0,
-        "2026-11-02": 799.0,
-        "2026-11-03": 799.0,
-        "2026-11-04": 799.0,
-        "2026-11-05": 799.0,
-        "2026-11-06": 599.0,
-        "2026-11-07": 599.0,
-        "2026-11-08": 599.0,
-        "2026-11-09": 599.0,
-        "2026-11-10": 599.0,
-        "2026-11-11": 599.0,
-        "2026-11-12": 599.0,
-        "2026-11-13": 599.0,
-        "2026-11-14": 599.0,
-        "2026-11-16": 599.0,
-        "2026-11-17": 599.0,
-        "2026-11-18": 599.0,
-        "2026-11-19": 599.0
+        "2026-11-20": 565.0
       },
-      "low_price": 599.0,
-      "synced": "2026-11-20",
-      "prev_price": 799.0,
-      "prev_date": "2026-11-05",
-      "ph_ean": "5901292526627",
-      "rating": 4.3
+      "low_price": 565.0,
+      "ph_ean": "8806099124434",
+      "synced": "2026-11-20"
     },
     {
       "brand": "LG",
@@ -631,7 +609,7 @@
     },
     {
       "q": "Is een 50 inch tv geschikt voor de PS5 of Xbox?",
-      "a": "Ja, mits het paneel native 120 of 144 Hz haalt en HDMI 2.1 met VRR heeft. De Hisense 50E8S, Hisense 50E7S PRO en TCL 50Q7C halen 144 Hz."
+      "a": "Ja, mits het paneel native 120 of 144 Hz haalt en HDMI 2.1 met VRR heeft. De Hisense 50E8S en de Hisense 50E7S PRO halen 144 Hz."
     },
     {
       "q": "Heb ik bij een 50 inch tv een soundbar nodig?",
@@ -643,7 +621,7 @@
     },
     {
       "q": "Welke 50 inch tv heeft 144 Hz?",
-      "a": "In deze lijst halen drie tv's native 144 Hz: de Hisense 50E8S, de Hisense 50E7S PRO en de TCL 50Q7C. Bij de andere modellen noemt de fabrikant geen 120 Hz of hoger. Voor een PS5 of Xbox Series X is 120 Hz al genoeg, 144 Hz is vooral interessant als je een gaming-pc aansluit."
+      "a": "In deze lijst halen twee tv's native 144 Hz: de Hisense 50E8S en de Hisense 50E7S PRO. Bij de andere modellen noemt de fabrikant geen 120 Hz of hoger. Voor een PS5 of Xbox Series X is 120 Hz al genoeg, 144 Hz is vooral interessant als je een gaming-pc aansluit."
     }
   ],
   "published": "2026-10-29",
@@ -662,7 +640,7 @@
       },
       {
         "h": "Game je op een PS5, Xbox of pc?",
-        "p": "Kies dan een tv met native 144 Hz. Dat hebben nr. 1, de Hisense 50E8S, nr. 6, de Hisense 50E7S PRO (€ 479) en nr. 4, de TCL 50Q7C (€ 799) met VRR. De Samsung op nr. 2 en de Philips op nr. 3 draaien op 60 Hz en zijn minder geschikt voor 120 Hz-games."
+        "p": "Kies dan een tv met native 144 Hz. Dat hebben nr. 1 (de Hisense 50E8S) en nr. 6, de Hisense 50E7S PRO (€ 479). De Samsung op nr. 2 en de Philips op nr. 3 draaien op 60 Hz en zijn minder geschikt voor 120 Hz-games."
       },
       {
         "h": "Wil je onder de 350 euro blijven?",
@@ -685,6 +663,12 @@
     ]
   },
   "wissels": [
+    {
+      "d": "2026-11-20",
+      "uit": "TCL 50Q7C",
+      "in": "Samsung QE50QN73H",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-18",
       "uit": "TCL 50S51K",

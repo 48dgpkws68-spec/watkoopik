@@ -17,47 +17,45 @@
   "updated": "2026-10-18",
   "reviews_total": "3.450",
   "intro": "Een laptop om thuis te werken moet andere dingen goed doen dan een gaming- of studentenlaptop. Je zit elke dag in calls, dus een scherpe webcam en goede microfoons tellen. Je typt urenlang, dus het toetsenbord moet prettig zijn. Daarnaast wil je een stille laptop met poorten voor een monitor en een accu die een werkdag meegaat. Wij vergeleken laptops om thuis te werken op webcam, toetsenbord, poorten, accuduur en geluid, aangevuld met de ervaringen van kopers op bol. Dit zijn de tien beste voor thuiswerken.",
-  "verdict": "De beste laptop om thuis te werken is de Apple MacBook Air 13 inch met M4: volledig stil, een uitstekende 12 MP-camera en ondersteuning voor twee externe monitoren. Werk je liever met Windows en wil je de slimste koop, kies dan de Lenovo ThinkBook 14 G8 met alle poorten voor ruim 800 euro. Werk je vijf dagen per week thuis en wil je het beste toetsenbord, dan is de Lenovo ThinkPad T14 Gen 6 de premium keuze.",
+  "verdict": "De beste laptop om thuis te werken is de Apple MacBook Air 13 inch met M5: volledig stil, een uitstekende 12 MP-camera en standaard 512 GB opslag. Werk je liever met Windows en wil je de slimste koop, kies dan de Lenovo ThinkBook 14 G8 met alle poorten voor ruim 800 euro. Werk je vijf dagen per week thuis en wil je het beste toetsenbord, dan is de Lenovo ThinkPad T14 Gen 6 de premium keuze.",
   "products": [
     {
       "brand": "Apple",
-      "name": "MacBook Air 13 inch M4 (2025) 16 GB 256 GB",
-      "price": 1229.9,
+      "name": "MacBook Air 13 inch M5 (2026) 16 GB 512 GB",
+      "price": 1299.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,9 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Stil, zuinig en met de beste webcam voor videobellen.",
       "specs": {
-        "Processor": "Apple M4",
+        "Processor": "Apple M5",
         "Scherm": "13,6 inch, 2560 x 1664",
         "Webcam": "12 MP Center Stage",
         "Accuduur": "tot 18 uur",
-        "Gewicht": "1,24 kg"
+        "Gewicht": "1,23 kg"
       },
       "pros": [
         "Geen ventilator, dus volledig geruisloos",
         "12 MP-camera houdt je met Center Stage in beeld",
-        "Stuurt twee externe monitoren aan met het scherm open",
-        "Accu haalt makkelijk een volle werkdag"
+        "512 GB opslag als standaard",
+        "Accu tot 18 uur volgens Apple"
       ],
       "cons": [
-        "Maar twee USB-C-poorten",
-        "256 GB opslag is krap als je veel lokaal bewaart"
+        "Maar twee Thunderbolt-poorten",
+        "Geen HDMI: voor een monitor heb je vaak een adapter of dock nodig"
       ],
       "ideal": "Thuiswerkers die veel videobellen en een stille laptop willen die de hele dag meegaat.",
-      "text": "De MacBook Air met M4 is de beste laptop om thuis te werken omdat hij precies goed doet waar het bij thuiswerken om draait. De nieuwe 12 megapixel-camera met Center Stage houdt je netjes in beeld, ook als je even verschuift. De drie microfoons filteren achtergrondgeluid weg, zodat collega's je in Teams of Zoom helder horen. Omdat er geen ventilator in zit, blijft hij volledig stil, ook tijdens een lange call.\n\nNieuw bij de M4 is dat je twee externe monitoren aansluit terwijl het eigen scherm open blijft. Op een bureau met een of twee schermen werk je dus met drie displays. De accu haalt in de praktijk ruim een werkdag, zodat je ook aan de keukentafel zonder lader werkt. Het toetsenbord is stil en prettig. Het minpunt is het beperkte aantal poorten: met twee USB-C-aansluitingen heb je voor een monitor en randapparaten vaak een dock nodig.",
-      "ean": "0195949838156",
-      "ph_ean": "0195949838156",
-      "rating": 4.9,
-      "bol_title": "Apple MacBook Air (2025) 13.6 inch - M4 - 16 GB - 256 GB - Middernacht",
-      "url": "https://www.bol.com/nl/nl/p/apple-macbook-air-13-m4-16-gb-256-gb-middernacht/9300000226833879/",
-      "image": "https://media.s-bol.com/7ZKEvVBmRLMQ/O7Rpl0g/550x334.jpg",
+      "text": "De MacBook Air met M5 is de beste laptop om thuis te werken omdat hij precies goed doet waar het bij thuiswerken om draait. De 12 megapixel-camera met Center Stage houdt je netjes in beeld, ook als je even verschuift. Omdat er geen ventilator in zit, blijft hij volledig stil, ook tijdens een lange call in Teams of Zoom. Inloggen gaat met je vinger via Touch ID.\n\nDe M5-versie heeft standaard 512 GB opslag, het dubbele van de oude basisversie met M4. Via de twee Thunderbolt 4-poorten sluit je een monitor of dock aan. Wifi 7 zorgt voor een snelle verbinding als je router dat ondersteunt. Apple noemt tot 18 uur accuduur, zodat je ook aan de keukentafel een werkdag zonder lader werkt. Op bol staat hij op een 4,6. Het minpunt is het beperkte aantal poorten: zonder HDMI of USB-A heb je voor een monitor en randapparaten vaak een dock nodig.",
+      "ean": "0195950687408",
+      "rating": 4.6,
+      "bol_title": "Apple MacBook Air (2026) 13.6 inch - M5 - 16 GB - 512 GB - Zilver",
+      "url": "https://www.bol.com/nl/nl/p/apple-macbook-air-13-m5-16-gb-512-gb-zilver/9300000266631358/",
+      "image": "https://media.s-bol.com/A3o3OMZ7ZnJj/ywJPZrz/550x334.jpg",
       "ph": {
-        "2026-11-17": 1229.9,
-        "2026-11-18": 1229.9,
-        "2026-11-19": 1229.9
+        "2026-11-20": 1299.0
       },
-      "low_price": 1229.9,
+      "low_price": 1299.0,
+      "ph_ean": "0195950687408",
       "synced": "2026-11-20"
     },
     {
@@ -683,7 +681,7 @@
     },
     {
       "h": "Stil en zuinig werken",
-      "p": "Een laptop die bij elke call de ventilator laat brullen, is storend voor jou en je gesprekspartners. Apple M4, Snapdragon X en de Intel Core Ultra 200V-chips zijn zuinig en blijven bij kantoorwerk meestal stil. Een lange accuduur geeft vrijheid om aan de keukentafel of in de tuin te werken. Reken voor een volle werkdag op minimaal 10 uur accu volgens de specificaties, want in de praktijk haal je vaak iets minder."
+      "p": "Een laptop die bij elke call de ventilator laat brullen, is storend voor jou en je gesprekspartners. Apple M5, Snapdragon X en de Intel Core Ultra 200V-chips zijn zuinig en blijven bij kantoorwerk meestal stil. Een lange accuduur geeft vrijheid om aan de keukentafel of in de tuin te werken. Reken voor een volle werkdag op minimaal 10 uur accu volgens de specificaties, want in de praktijk haal je vaak iets minder."
     },
     {
       "h": "Windows Home, Pro of macOS?",
@@ -697,11 +695,11 @@
   "faq": [
     {
       "q": "Wat is de beste laptop om thuis te werken?",
-      "a": "De Apple MacBook Air 13 inch met M4 is de beste laptop om thuis te werken. Hij is volledig stil, heeft een 12 MP-camera met Center Stage, drie microfoons en ondersteunt twee externe monitoren. Wil je Windows, kijk dan naar de Lenovo ThinkPad T14 Gen 6 of de goedkopere ThinkBook 14 G8."
+      "a": "De Apple MacBook Air 13 inch met M5 is de beste laptop om thuis te werken. Hij is volledig stil, heeft een 12 MP-camera met Center Stage, Touch ID en standaard 512 GB opslag. Wil je Windows, kijk dan naar de Lenovo ThinkPad T14 Gen 6 of de goedkopere ThinkBook 14 G8."
     },
     {
       "q": "Welke laptop voor thuiswerken heeft de beste webcam?",
-      "a": "De MacBook Air M4 heeft met 12 MP en Center Stage de beste webcam in deze lijst. De meeste andere laptops hebben een Full HD-camera, wat voldoende is voor Teams en Zoom."
+      "a": "De MacBook Air M5 heeft met 12 MP en Center Stage de beste webcam in deze lijst. De meeste andere laptops hebben een Full HD-camera, wat voldoende is voor Teams en Zoom."
     },
     {
       "q": "Wat is een goede goedkope laptop om thuis te werken?",
@@ -726,5 +724,13 @@
     "beste-laptop-voor-studenten",
     "beste-macbook"
   ],
-  "seo": "laptop voor thuiswerken"
+  "seo": "laptop voor thuiswerken",
+  "wissels": [
+    {
+      "d": "2026-11-20",
+      "uit": "Apple MacBook Air 13 inch M4 (2025) 16 GB 256 GB",
+      "in": "Apple MacBook Air 13 inch M5 (2026) 16 GB 512 GB",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

@@ -269,44 +269,42 @@
       "rating": 4.6
     },
     {
-      "brand": "Winix",
-      "name": "Zero-s",
-      "price": 307.78,
+      "brand": "Coway",
+      "name": "Airmega 450",
+      "price": 349.99,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Krachtige H13-reiniger met fijnstofsensor voor een grote woonkamer.",
+      "oneliner": "Krachtige HEPA-reiniger met ECARF-keurmerk voor grote ruimtes.",
       "specs": {
-        "CADR": "410 m³/u",
-        "Ruimte": "tot 100 m²",
-        "Filter": "H13 HEPA + actieve kool",
-        "Geluid": "niet opgegeven",
-        "Slaapstand": "ja, verlichting gedimd of uit"
+        "CADR": "734 m³/u",
+        "Ruimte": "tot 191 m² volgens Coway",
+        "Filter": "HEPA + actieve kool",
+        "Geluid": "vanaf ca. 24 dB",
+        "Slaapstand": "ja, verlichting uit"
       },
       "pros": [
-        "CADR van 410 m³/u, geschikt tot 100 m²",
-        "H13 HEPA-filter vangt volgens Winix 99,999% van de deeltjes tot 0,1 micron",
-        "Fijnstofsensor met kleurcode en automatische stand",
-        "Nachtstand dimt de verlichting of zet die uit"
+        "CADR van 734 m³/u, de hoogste in deze lijst",
+        "ECARF-keurmerk voor allergievriendelijke producten",
+        "Lasersensor meet PM1, PM2,5 en PM10",
+        "3 jaar fabrieksgarantie"
       ],
       "cons": [
-        "Duurder dan de PureProtect 3200, die meer capaciteit heeft",
-        "PlasmaWave-ionisator is niet voor iedereen nodig"
+        "Duurder dan de PureProtect 3200",
+        "Zwaar met 11,3 kilo en geen app"
       ],
       "ideal": "Wie met allergie een grote woonkamer of open keuken wil zuiveren.",
-      "text": "De Winix Zero-s is gemaakt voor de grotere ruimtes in huis. Met een CADR van 410 m³/u is hij volgens Winix geschikt voor ruimtes tot 100 m², dus ook voor een woonkamer met open keuken. Dat is handig als je met een hond of kat leeft, omdat huidschilfers steeds opnieuw in de lucht komen.\n\nDe lucht gaat door een voorfilter voor grof stof en haren, een actief koolfilter tegen geurtjes en een H13 HEPA-filter. Volgens Winix houdt dat filter 99,999% van de deeltjes tot 0,1 micrometer tegen en is het antibacterieel behandeld. Daarnaast heeft hij PlasmaWave, een vorm van ionisatie. Een fijnstofsensor toont de luchtkwaliteit met een kleurcode en in de automatische stand past hij de snelheid zelf aan. In de nachtstand draait hij zo stil mogelijk en dimt hij de verlichting of zet die uit. Op bol staat hij op een 4,7. Hij is duurder dan de PureProtect 3200, die meer capaciteit heeft. Voor een grote ruimte met allergie is dit toch een sterke keuze.",
-      "ean": "8809490584234",
-      "bol_title": "Winix Zero-s - Luchtreiniger Air Purifier met vervangbaar Hepa + Koolstoffilter + PlasmaWave Technologie - Cadr 410m³ p/u en tot 100m² - Getest en Gecertificeerd op Hooikoorts, Allergie en Fijnstof - Auto-mode, Slaap-mode en Luchtkwaliteit indicator",
-      "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-zero-s-luchtreiniger-met-hepa-filter-en-plasmawave-technologie-410m3-h/9300000144873227/",
-      "image": "https://media.s-bol.com/7wvpKkQpO7Xr/qgm3g3/545x840.jpg",
-      "ph": {
-        "2026-11-18": 307.78,
-        "2026-11-19": 307.78,
-        "2026-11-20": 307.78
-      },
-      "low_price": 307.78,
-      "ph_ean": "8809490584234",
+      "text": "De Coway Airmega 450 is gemaakt voor de grotere ruimtes in huis. Met een CADR van 734 m³/u verplaatst hij de meeste lucht van alle apparaten in deze lijst. Coway noemt ruimtes tot 191 m², dus ook een woonkamer met open keuken haalt hij makkelijk. Dat is handig als je met een hond of kat leeft, omdat huidschilfers steeds opnieuw in de lucht komen.\n\nDe lucht gaat door een filter dat een voorfilter, actieve kool en een HEPA-laag combineert. Volgens Coway houdt dat 99,999% van de deeltjes tot 0,01 micron tegen. Het apparaat draagt het ECARF-keurmerk, een Europees keurmerk voor allergievriendelijke producten. Een lasersensor meet PM1, PM2,5 en PM10 en in de automatische stand past hij de snelheid zelf aan. In de slaapstand draait hij zachter en gaat de verlichting uit. Een ionisator of app is er niet. Op bol staat hij op een 4,6. Hij is duurder dan de PureProtect 3200 en weegt 11,3 kilo. Voor een grote ruimte met allergie is dit toch een sterke keuze.",
+      "ean": "8809825509604",
       "rating": 4.6,
+      "bol_title": "Coway Luchtreiniger AIRMEGA 450 – HEPA filter + koolstoffilter – voor grote ruimtes tot 191 m² - Tegen stof, pollen en allergenen - CADR 734 m³/u – energiebesparende modus – ECARF gecertificeerd - Air Purifier - Wit",
+      "url": "https://www.bol.com/nl/nl/p/coway-luchtreiniger-airmega-450-met-hepa-filter-air-purifier-cadr-734-m-u-voor-grote-ruimtes-aqi-display-energiebesparende-modus-wit/9300000257313152/",
+      "image": "https://media.s-bol.com/ggnEP3QRJJxl/59W2A38/531x840.jpg",
+      "ph": {
+        "2026-11-20": 349.99
+      },
+      "low_price": 349.99,
+      "ph_ean": "8809825509604",
       "synced": "2026-11-20"
     },
     {
@@ -682,7 +680,7 @@
     },
     {
       "q": "Werkt een luchtreiniger bij een allergie voor katten of honden?",
-      "a": "Ja, een HEPA-filter vangt huidschilfers van huisdieren. Omdat die steeds opnieuw in de lucht komen, heb je een ruime CADR nodig. Een reiniger als de Philips PureProtect 3200 of de Winix Zero-s is geschikt voor een woonkamer met huisdieren. Houd het dier ook buiten de slaapkamer."
+      "a": "Ja, een HEPA-filter vangt huidschilfers van huisdieren. Omdat die steeds opnieuw in de lucht komen, heb je een ruime CADR nodig. Een reiniger als de Philips PureProtect 3200 of de Coway Airmega 450 is geschikt voor een woonkamer met huisdieren. Houd het dier ook buiten de slaapkamer."
     },
     {
       "q": "Hoe groot moet de CADR zijn bij allergie?",
@@ -720,6 +718,12 @@
     "beste-luchtontvochtiger"
   ],
   "wissels": [
+    {
+      "d": "2026-11-20",
+      "uit": "Winix Zero-s",
+      "in": "Coway Airmega 450",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-18",
       "uit": "Winix 5300-2",

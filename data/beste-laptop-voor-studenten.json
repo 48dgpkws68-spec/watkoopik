@@ -17,47 +17,45 @@
   "updated": "2026-10-16",
   "reviews_total": "3.900",
   "intro": "Als student gebruik je je laptop elke dag: in de collegezaal, in de bibliotheek en 's avonds voor Netflix. Hij moet dus licht zijn, een hele dag op de accu halen en niet je hele studiebudget opeten. Wij vergeleken de laptops die nu bij bol te koop zijn op accuduur, gewicht, werkgeheugen, scherm en wat studenten er na een paar maanden van vinden. Dit zijn de tien beste keuzes, van een Chromebook rond de 450 euro tot de MacBook Air.",
-  "verdict": "De Apple MacBook Air met M4 is de beste laptop voor studenten: licht, stil, snel en met een accu die makkelijk een volle collegedag haalt. Heb je minder te besteden, dan is de Lenovo IdeaPad Slim 3 met 16 GB werkgeheugen de beste prijs-kwaliteit. Wil je het beste dat er nu is, dan krijg je met de MacBook Air M5 meer opslag en extra rekenkracht voor jaren vooruit.",
+  "verdict": "De Apple MacBook Air met M2 is de beste laptop voor studenten: licht, stil en met een accu die makkelijk een volle collegedag haalt, voor rond 782 euro. Heb je minder te besteden, dan is de Lenovo IdeaPad Slim 3 met 16 GB werkgeheugen de beste prijs-kwaliteit. Wil je het beste dat er nu is, dan krijg je met de MacBook Air M5 meer werkgeheugen, meer opslag en extra rekenkracht voor jaren vooruit.",
   "products": [
     {
       "brand": "Apple",
-      "name": "MacBook Air 13 inch M4 (2025) 16 GB 256 GB",
-      "price": 1229.9,
+      "name": "MacBook Air 13 inch M2 (2022) 8 GB 256 GB",
+      "price": 782.0,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,9 van 5",
-      "oneliner": "Lichte, stille laptop met accu voor een hele studiedag.",
+      "reviews": "bol-score 4,8 van 5",
+      "oneliner": "Lichte, stille MacBook voor een studentenprijs.",
       "specs": {
         "Scherm": "13,6 inch",
-        "Processor": "Apple M4",
-        "Werkgeheugen": "16 GB",
+        "Processor": "Apple M2",
+        "Werkgeheugen": "8 GB",
         "Opslag": "256 GB SSD",
         "Gewicht": "1,24 kg"
       },
       "pros": [
         "Tot 18 uur accuduur volgens Apple",
         "Volledig stil door het ontwerp zonder ventilator",
-        "16 GB werkgeheugen als standaard",
-        "Uitstekend toetsenbord en trackpad"
+        "Bijna 600 euro goedkoper dan de M5-versie",
+        "Opladen via MagSafe, dus beide Thunderbolt-poorten blijven vrij"
       ],
       "cons": [
-        "256 GB opslag is krap zonder clouddienst",
-        "Slechts twee USB-C-poorten"
+        "8 GB werkgeheugen is krap voor zwaar werk",
+        "256 GB opslag is krap zonder clouddienst"
       ],
-      "ideal": "Studenten die een laptop zoeken die vier tot vijf jaar meegaat en overal mee naartoe kan.",
-      "text": "De MacBook Air met M4 is de laptop die we het vaakst zien in collegezalen en daar is een goede reden voor. De M4-chip is ruim snel genoeg voor Word, Excel, programmeren, foto's bewerken en zelfs lichte videomontage. Omdat er geen ventilator in zit, is hij volledig stil. Met 1,24 kilo en een dikte van ongeveer een centimeter verdwijnt hij makkelijk in je tas.\n\nApple belooft tot 18 uur accuduur bij het afspelen van video. In de praktijk melden gebruikers een volle dag met aantekeningen maken, browsen en streamen zonder lader. Sinds deze generatie is 16 GB werkgeheugen standaard, wat de laptop jaren bruikbaar houdt. Het grootste minpunt is de opslag van 256 GB. Gebruik je OneDrive of iCloud voor je bestanden, dan is dat genoeg, maar sla je veel video op dan kies je beter een grotere versie. Via de studentenkorting van Apple of een actie op bol is hij soms nog voordeliger.",
-      "ean": "0195949838156",
-      "ph_ean": "0195949838156",
-      "rating": 4.9,
-      "bol_title": "Apple MacBook Air (2025) 13.6 inch - M4 - 16 GB - 256 GB - Middernacht",
-      "url": "https://www.bol.com/nl/nl/p/apple-macbook-air-13-m4-16-gb-256-gb-middernacht/9300000226833879/",
-      "image": "https://media.s-bol.com/7ZKEvVBmRLMQ/O7Rpl0g/550x334.jpg",
+      "ideal": "Studenten die een betaalbare MacBook zoeken voor schrijfwerk, onderzoek en colleges.",
+      "text": "De MacBook Air met M2 is de voordeligste manier om als student een moderne MacBook te kopen. Bij bol staat hij nu voor rond 782 euro, bijna 600 euro minder dan de M5-versie in deze lijst. De M2-chip is ruim snel genoeg voor Word, Excel, online colleges, foto's bewerken en programmeren. Omdat er geen ventilator in zit, is hij volledig stil. Met 1,24 kilo en een dikte van 11,3 millimeter verdwijnt hij makkelijk in je tas.\n\nApple belooft tot 18 uur accuduur, genoeg voor een volle collegedag zonder lader. Het 13,6 inch scherm is helder met 500 nits en opladen gaat via MagSafe, zodat beide Thunderbolt-poorten vrij blijven. De grootste minpunten zijn de 8 GB werkgeheugen en de 256 GB opslag. Gebruik je OneDrive of iCloud en doe je vooral schrijfwerk en onderzoek, dan is dat genoeg. Werk je met video of zware software, kies dan de M5-versie. Op bol staat hij op een 4,8.",
+      "ean": "0194253083252",
+      "rating": 4.8,
+      "bol_title": "Apple MacBook Air (2022) MLY33N/A - 13.6 inch - Apple M2 - 256 GB - Middernacht",
+      "url": "https://www.bol.com/nl/nl/p/apple-macbook-air-macbookair-m2-notebook-34-5-cm-apple-m-8-gb-256-gb-ssd-wi-fi-6-macos-monterey-blauw/9300000110375002/",
+      "image": "https://media.s-bol.com/gPJyMOYm897k/0wZlRy/550x332.jpg",
       "ph": {
-        "2026-11-17": 1229.9,
-        "2026-11-18": 1229.9,
-        "2026-11-19": 1229.9
+        "2026-11-20": 782.0
       },
-      "low_price": 1229.9,
+      "low_price": 782.0,
+      "ph_ean": "0194253083252",
       "synced": "2026-11-20"
     },
     {
@@ -156,11 +154,11 @@
         "Jarenlang macOS-updates"
       ],
       "cons": [
-        "Bijna 300 euro duurder dan de M4-versie",
-        "Voor gewoon studiewerk merk je weinig verschil met de M4"
+        "Bijna 600 euro duurder dan de M2-versie",
+        "Voor gewoon studiewerk merk je weinig verschil met de M2"
       ],
       "ideal": "Studenten in creatieve of technische richtingen die extra rekenkracht en opslag willen voor de hele studie.",
-      "text": "De MacBook Air met M5 is de opvolger van de M4-versie en de beste laptop die je nu als student kunt kopen. De M5-chip is sneller in zware taken zoals videomontage, 3D-werk en het draaien van lokale AI-modellen. Voor studenten in richtingen als media, architectuur of informatica kan dat het verschil maken. Het ontwerp is hetzelfde gebleven: licht, dun en zonder ventilator.\n\nEen belangrijk verschil met de M4-versie is de opslag. Waar die begint met 256 GB, heeft deze uitvoering standaard 512 GB. Dat geeft ruimte voor projectbestanden, software en foto's zonder dat je alles in de cloud hoeft te zetten. De accuduur is net als bij de M4 ruim genoeg voor een hele collegedag. Kopers op bol geven hem hoge cijfers voor snelheid en afwerking. Doe je vooral schrijfwerk en onderzoek, dan is de M4-versie de slimmere keus. Wil je een laptop die je hele bachelor en master meegaat, dan is deze het overwegen waard.",
+      "text": "De MacBook Air met M5 is de nieuwste MacBook Air en de beste laptop die je nu als student kunt kopen. De M5-chip is sneller in zware taken zoals videomontage, 3D-werk en het draaien van lokale AI-modellen. Voor studenten in richtingen als media, architectuur of informatica kan dat het verschil maken. Het ontwerp is hetzelfde gebleven: licht, dun en zonder ventilator.\n\nEen belangrijk verschil met de M2-versie is het geheugen. Die heeft 8 GB werkgeheugen en 256 GB opslag, deze uitvoering standaard 16 GB en 512 GB. Dat geeft ruimte voor projectbestanden, software en foto's zonder dat je alles in de cloud hoeft te zetten. De accuduur is net als bij de M2 ruim genoeg voor een hele collegedag. Kopers op bol geven hem hoge cijfers voor snelheid en afwerking. Doe je vooral schrijfwerk en onderzoek, dan is de M2-versie de slimmere keus. Wil je een laptop die je hele bachelor en master meegaat, dan is deze het overwegen waard.",
       "ean": "0195950690224",
       "bol_title": "Apple MacBook Air (2026) 13.6 inch - M5 - 16 GB - 512 GB - Middernacht",
       "url": "https://www.bol.com/nl/nl/p/apple-macbook-air-13-m5-16-gb-512-gb-middernacht/9300000266631367/",
@@ -712,7 +710,7 @@
   "faq": [
     {
       "q": "Wat is de beste laptop voor studenten in 2026?",
-      "a": "Op basis van onze vergelijking is de Apple MacBook Air met M4 de beste laptop voor studenten. Hij is licht, stil, snel en haalt makkelijk een hele collegedag op de accu. Wil je minder uitgeven, kijk dan naar de Lenovo IdeaPad Slim 3 met 16 GB werkgeheugen."
+      "a": "Op basis van onze vergelijking is de Apple MacBook Air met M2 de beste laptop voor studenten. Hij is licht, stil, snel en haalt makkelijk een hele collegedag op de accu. Wil je minder uitgeven, kijk dan naar de Lenovo IdeaPad Slim 3 met 16 GB werkgeheugen."
     },
     {
       "q": "Hoeveel moet een goede studentenlaptop kosten?",
@@ -743,5 +741,13 @@
     "beste-laptop",
     "beste-macbook",
     "beste-laptop-thuiswerken"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-20",
+      "uit": "Apple MacBook Air 13 inch M4 (2025) 16 GB 256 GB",
+      "in": "Apple MacBook Air 13 inch M2 (2022) 8 GB 256 GB",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

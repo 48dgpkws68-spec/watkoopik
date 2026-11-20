@@ -176,12 +176,12 @@
     },
     {
       "brand": "Philips",
-      "name": "65OLED811",
-      "price": 1799.0,
+      "name": "65OLED850/12",
+      "price": 1499.0,
       "score": 9.0,
       "label": null,
-      "reviews": "",
-      "oneliner": "Groot OLED-scherm met 3-zijdige Ambilight uit 2026.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Groot OLED-scherm met 3-zijdige Ambilight voor een scherpe prijs.",
       "specs": {
         "Formaat": "65 inch",
         "Paneel": "OLED",
@@ -190,43 +190,28 @@
         "Besturing": "Titan OS"
       },
       "pros": [
-        "65 inch OLED met Ambilight onder de 2.000 euro",
-        "Nieuwste generatie van de populaire 800-serie",
+        "65 inch OLED met Ambilight onder de 1.500 euro",
+        "Diep zwart en brede kijkhoek",
         "Dolby Vision en HDR10+",
         "Hue-koppeling voor sfeerlicht in de hele kamer"
       ],
       "cons": [
-        "Nog weinig reviews van kopers",
-        "Prijs ligt duidelijk boven de 55OLED811"
+        "Model uit 2025, dus niet de nieuwste generatie",
+        "Op 65 inch heb je ruimte en kijkafstand nodig"
       ],
       "ideal": "Wie op meer dan 2,5 meter kijkt en OLED met Ambilight in groot formaat wil.",
-      "text": "De Philips 65OLED811 is de 65 inch versie van de nieuwe 800-serie uit 2026. Waar de 55 inch voor de meeste woonkamers genoeg is, maakt 65 inch het verschil als je op tweeënhalf tot drie meter van het scherm zit. Ambilight zit aan de boven- en zijkanten. Op deze schermmaat valt de gloed op de muur breder uit, waardoor het effect extra indruk maakt bij films en natuurdocumentaires.\n\nHet OLED-paneel geeft diep zwart en een brede kijkhoek, handig als je met meerdere mensen naast elkaar op de bank zit. Je krijgt Dolby Vision en HDR10+, 120 Hz en VRR voor de nieuwste consoles. Testsites noemen de beeldverwerking van Philips rustig en natuurlijk, zonder overdreven scherpte. Titan OS is het smart-platform. Omdat hij pas kort te koop is, zijn er bij bol nog weinig reviews. Wil je besparen, dan is de 55OLED811 een flink goedkoper alternatief in een kleiner formaat.",
-      "ean": "8718863052105",
-      "bol_title": "Philips 65OLED811 - 65 inch - 4K OLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/philips-65oled811-12-65-inch-4k-oled-2026-smart-tv/9300000342039428/",
-      "image": "https://media.s-bol.com/mJPZO5jO0lKp/ZYX683g/550x326.jpg",
+      "text": "De Philips 65OLED850 is een 65 inch OLED-tv uit 2025 met Ambilight aan de boven- en zijkanten. Waar 55 inch voor de meeste woonkamers genoeg is, maakt 65 inch het verschil als je op tweeënhalf tot drie meter van het scherm zit. Op deze schermmaat valt de gloed op de muur breder uit, waardoor het effect extra indruk maakt bij films en natuurdocumentaires.\n\nHet OLED-paneel geeft diep zwart en een brede kijkhoek, handig als je met meerdere mensen naast elkaar op de bank zit. Je krijgt Dolby Vision en HDR10+ plus VRR voor de nieuwste consoles. Titan OS is het smart-platform. Omdat het een model van vorig jaar is, ligt de prijs rond de 1.499 euro, vergelijkbaar met de 55 inch 55OLED811 op plek één. Je kiest hier dus voor een groter scherm in plaats van de nieuwste generatie. Met de Hue-koppeling laat je ook lampen in de kamer meekleuren met het beeld.",
+      "ean": "8718863046715",
+      "bol_title": "Philips 65OLED850/12 - 65 inch - 4K OLED - 2025",
+      "url": "https://www.bol.com/nl/nl/p/philips-65oled850-12-tv-165-1-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000233087363/",
+      "image": "https://media.s-bol.com/WNn2x1Xn5zNX/1jGMZZo/550x340.jpg",
       "ph": {
-        "2026-11-05": 1799.0,
-        "2026-11-06": 1799.0,
-        "2026-11-07": 1769.0,
-        "2026-11-08": 1769.0,
-        "2026-11-09": 1759.0,
-        "2026-11-10": 1759.0,
-        "2026-11-11": 1749.0,
-        "2026-11-12": 1799.0,
-        "2026-11-13": 1799.0,
-        "2026-11-14": 1749.0,
-        "2026-11-16": 1799.0,
-        "2026-11-17": 1749.0,
-        "2026-11-18": 1749.0,
-        "2026-11-19": 1749.0,
-        "2026-11-20": 1799.0
+        "2026-11-20": 1499.0
       },
-      "low_price": 1749.0,
-      "synced": "2026-11-20",
-      "prev_price": 1749.0,
-      "prev_date": "2026-11-19",
-      "ph_ean": "8718863052105"
+      "low_price": 1499.0,
+      "ph_ean": "8718863046715",
+      "rating": 5.0,
+      "synced": "2026-11-20"
     },
     {
       "brand": "Philips",
@@ -607,6 +592,12 @@
   "meta_title": "Beste Ambilight-tv 2026: top 10 Philips-tv's",
   "meta_desc": "De beste Ambilight-tv van 2026 is de {top}. Top 10 Philips-tv's met Ambilight vergeleken op beeld, formaat, gaming en prijs, van 42 tot 65 inch.",
   "wissels": [
+    {
+      "d": "2026-11-20",
+      "uit": "Philips 65OLED811",
+      "in": "Philips 65OLED850/12",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-18",
       "uit": "Philips 65OLED911",

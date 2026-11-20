@@ -16,48 +16,46 @@
   "updated": "2026-10-14",
   "reviews_total": "19.400",
   "intro": "Een laptop koop je voor jaren, dus de keuze is belangrijk. Wij vergeleken laptops op processor, werkgeheugen, opslag, scherm, accuduur, gewicht en bouwkwaliteit. Per product staat de score bij bol erbij. Het resultaat zijn tien laptops voor elk type gebruiker: een budgetmodel voor school en mail, allrounders voor thuis en werk, MacBooks voor wie in het Apple-systeem zit en gaminglaptops met een losse videokaart.",
-  "verdict": "De Apple MacBook Air 13 inch met M4-chip is de beste laptop van 2026: snel, stil zonder ventilator, licht en met een accu die een volle werkdag en meer meegaat. De ASUS Vivobook 16 is de beste prijs-kwaliteit voor wie Windows wil met een groot scherm. Zoek je de krachtigste laptop voor creatief werk, dan is de MacBook Pro 14 inch met M4 Pro de beste premium keuze.",
+  "verdict": "De Apple MacBook Air 13 inch met M5-chip is de beste laptop van 2026: snel, stil zonder ventilator, licht en met een accu die een volle werkdag en meer meegaat. De ASUS Vivobook 16 is de beste prijs-kwaliteit voor wie Windows wil met een groot scherm. Zoek je de krachtigste laptop voor creatief werk, dan is de MacBook Pro 14 inch met M4 Pro de beste premium keuze.",
   "products": [
     {
       "brand": "Apple",
-      "name": "MacBook Air 13 inch M4 (2025) 16 GB 256 GB",
-      "price": 1229.9,
+      "name": "MacBook Air 13 inch M5 (2026) 16 GB 512 GB",
+      "price": 1299.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,9 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Licht, stil en snel met een accu voor de hele dag.",
       "specs": {
-        "Processor": "Apple M4 (10-core)",
+        "Processor": "Apple M5 (10-core)",
         "Geheugen": "16 GB",
-        "Opslag": "256 GB SSD",
+        "Opslag": "512 GB SSD",
         "Scherm": "13,6 inch, 2560 x 1664",
-        "Gewicht": "1,24 kg"
+        "Gewicht": "1,23 kg"
       },
       "pros": [
         "Tot 18 uur accuduur volgens Apple",
         "Geen ventilator, dus volledig stil",
-        "Standaard 16 GB werkgeheugen",
-        "Uitstekend scherm en speakers"
+        "Standaard 16 GB werkgeheugen en 512 GB opslag",
+        "Wifi 7 en Touch ID"
       ],
       "cons": [
-        "256 GB opslag raakt snel vol",
-        "Maar twee USB-C-poorten",
+        "Maar twee USB-C-poorten (Thunderbolt 4)",
+        "Geen HDMI of kaartlezer",
         "Upgrades achteraf onmogelijk"
       ],
       "ideal": "Studenten en thuiswerkers die een lichte laptop willen die jaren snel blijft.",
-      "text": "De MacBook Air met M4-chip is de laptop die de meeste mensen het best past. De M4 met tien rekenkernen is snel genoeg voor kantoorwerk, foto's bewerken en lichte videobewerking. Omdat er geen ventilator in zit, is hij altijd stil. Apple levert hem nu standaard met 16 GB werkgeheugen, wat hem toekomstbestendiger maakt dan eerdere versies met 8 GB.\n\nHet Liquid Retina-scherm van 13,6 inch is scherp en helder. Gebruikers prijzen vooral de accu: een volle werkdag met reserve is normaal. Met 1,24 kilo neem je hem overal mee. Er zijn twee USB-C-poorten met MagSafe voor opladen en een koptelefoonaansluiting. Het minpunt is de opslag van 256 GB, dus wie veel bestanden bewaart kiest de 512 GB-versie. Voor bijna iedereen is dit de veiligste keuze.",
-      "ean": "0195949838156",
-      "ph_ean": "0195949838156",
-      "rating": 4.9,
-      "bol_title": "Apple MacBook Air (2025) 13.6 inch - M4 - 16 GB - 256 GB - Middernacht",
-      "url": "https://www.bol.com/nl/nl/p/apple-macbook-air-13-m4-16-gb-256-gb-middernacht/9300000226833879/",
-      "image": "https://media.s-bol.com/7ZKEvVBmRLMQ/O7Rpl0g/550x334.jpg",
+      "text": "De MacBook Air met M5-chip is de laptop die de meeste mensen het best past. De M5 met tien rekenkernen is snel genoeg voor kantoorwerk, foto's bewerken en lichte videobewerking. Omdat er geen ventilator in zit, is hij altijd stil. Apple levert hem standaard met 16 GB werkgeheugen en 512 GB opslag, het dubbele van de oude basisversie met M4. Daardoor hoef je minder snel bestanden naar de cloud te verplaatsen.\n\nHet Liquid Retina-scherm van 13,6 inch is scherp en helder met 2560 x 1664 pixels. Apple noemt tot 18 uur accuduur, dus een volle werkdag met reserve is haalbaar. Met 1,23 kilo neem je hem overal mee. Er zijn twee Thunderbolt 4-poorten, opladen gaat via MagSafe en voor draadloos internet gebruikt hij wifi 7. Op bol staat hij op een 4,6. Het minpunt is het kleine aantal poorten: voor HDMI of USB-A heb je een adapter nodig. Voor bijna iedereen is dit de veiligste keuze.",
+      "ean": "0195950687408",
+      "rating": 4.6,
+      "bol_title": "Apple MacBook Air (2026) 13.6 inch - M5 - 16 GB - 512 GB - Zilver",
+      "url": "https://www.bol.com/nl/nl/p/apple-macbook-air-13-m5-16-gb-512-gb-zilver/9300000266631358/",
+      "image": "https://media.s-bol.com/A3o3OMZ7ZnJj/ywJPZrz/550x334.jpg",
       "ph": {
-        "2026-11-17": 1229.9,
-        "2026-11-18": 1229.9,
-        "2026-11-19": 1229.9
+        "2026-11-20": 1299.0
       },
-      "low_price": 1229.9,
+      "low_price": 1299.0,
+      "ph_ean": "0195950687408",
       "synced": "2026-11-20"
     },
     {
@@ -652,7 +650,7 @@
   "guide": [
     {
       "h": "Welke processor heb je nodig?",
-      "p": "Voor mail, browsen en Office volstaat een Intel Core i3, AMD Ryzen 3 of vergelijkbare chip. Werk je met veel programma's tegelijk of bewerk je foto's, kies dan een Core i5, Ryzen 5 of Apple M4. Voor videobewerking en zware games heb je een Core i7, Ryzen 7 of M4 Pro nodig. Nieuwere generaties zijn vaak sneller dan een hogere klasse van een oudere generatie."
+      "p": "Voor mail, browsen en Office volstaat een Intel Core i3, AMD Ryzen 3 of vergelijkbare chip. Werk je met veel programma's tegelijk of bewerk je foto's, kies dan een Core i5, Ryzen 5 of Apple M5. Voor videobewerking en zware games heb je een Core i7, Ryzen 7 of M4 Pro nodig. Nieuwere generaties zijn vaak sneller dan een hogere klasse van een oudere generatie."
     },
     {
       "h": "Hoeveel werkgeheugen en opslag?",
@@ -678,11 +676,11 @@
   "faq": [
     {
       "q": "Wat is de beste laptop van 2026?",
-      "a": "Op basis van onze vergelijking is de Apple MacBook Air 13 inch met M4 de beste laptop van 2026. Hij combineert snelheid, een stil ontwerp en een zeer lange accuduur. Wil je Windows voor een lage prijs, kijk dan naar de ASUS Vivobook 16."
+      "a": "Op basis van onze vergelijking is de Apple MacBook Air 13 inch met M5 de beste laptop van 2026. Hij combineert snelheid, een stil ontwerp en een zeer lange accuduur. Wil je Windows voor een lage prijs, kijk dan naar de ASUS Vivobook 16."
     },
     {
       "q": "Wat is een goede laptop voor studenten?",
-      "a": "Een lichte laptop met minimaal 16 GB werkgeheugen en een lange accuduur. De MacBook Air M4, Surface Laptop 8e editie en ASUS Vivobook S14 OLED zijn populaire keuzes. Check ook welke software je opleiding vraagt."
+      "a": "Een lichte laptop met minimaal 16 GB werkgeheugen en een lange accuduur. De MacBook Air M5, Surface Laptop 8e editie en ASUS Vivobook S14 OLED zijn populaire keuzes. Check ook welke software je opleiding vraagt."
     },
     {
       "q": "Hoeveel moet je uitgeven aan een laptop?",
@@ -694,7 +692,7 @@
     },
     {
       "q": "Kan ik op een MacBook gamen?",
-      "a": "Een beperkt aantal games draait goed op een MacBook met M4-chip. De meeste populaire pc-games zijn echter alleen voor Windows beschikbaar. Wil je vooral gamen, kies dan een Windows-gaminglaptop."
+      "a": "Een beperkt aantal games draait goed op een MacBook met M5-chip. De meeste populaire pc-games zijn echter alleen voor Windows beschikbaar. Wil je vooral gamen, kies dan een Windows-gaminglaptop."
     },
     {
       "q": "Wat is een Copilot+-pc?",
@@ -707,5 +705,13 @@
     "beste-laptop-thuiswerken",
     "beste-macbook",
     "beste-gaming-laptop"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-20",
+      "uit": "Apple MacBook Air 13 inch M4 (2025) 16 GB 256 GB",
+      "in": "Apple MacBook Air 13 inch M5 (2026) 16 GB 512 GB",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

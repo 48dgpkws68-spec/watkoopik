@@ -17,7 +17,7 @@
   "updated": "2026-10-13",
   "reviews_total": "11.700",
   "intro": "Een smartwatch is in 2026 veel meer dan een stappenteller. De beste modellen meten je slaap, hartslag en stressniveau, waarschuwen bij een onregelmatig hartritme, navigeren tijdens het hardlopen en laten je betalen zonder telefoon. Maar welke je moet kiezen hangt sterk af van je telefoon en van wat je ermee wilt. Wij vergeleken smartwatches op gezondheidsfuncties, accuduur, scherm, sporttracking en de score bij bol. Dit zijn de tien beste smartwatches die je nu in Nederland kunt kopen.",
-  "verdict": "De Apple Watch Series 11 is de beste smartwatch voor iPhone-gebruikers en daarmee voor de meeste Nederlanders: het volledigste pakket gezondheidsfuncties, eindelijk 24 uur accuduur en een vlekkeloze bediening. Voor Android is de Samsung Galaxy Watch8 het beste alternatief. Wie dagenlang wil sporten zonder oplader kiest de Garmin Fenix 8 als beste premium model. De Amazfit Active 3 Premium bewijst dat je voor rond de 160 euro al een complete smartwatch met saffierglas koopt en is daarmee de beste prijs-kwaliteit.",
+  "verdict": "De Apple Watch Series 11 is de beste smartwatch voor iPhone-gebruikers en daarmee voor de meeste Nederlanders: het volledigste pakket gezondheidsfuncties, eindelijk 24 uur accuduur en een vlekkeloze bediening. Voor Android is de Samsung Galaxy Watch8 het beste alternatief. Wie dagenlang wil sporten zonder oplader kiest de Garmin fenix 8 Pro als beste premium model. De Amazfit Active 3 Premium bewijst dat je voor rond de 160 euro al een complete smartwatch met saffierglas koopt en is daarmee de beste prijs-kwaliteit.",
   "products": [
     {
       "brand": "Apple",
@@ -153,81 +153,43 @@
     },
     {
       "brand": "Garmin",
-      "name": "Fenix 8 AMOLED 47 mm",
-      "price": 599.0,
+      "name": "fenix 8 Pro 47 mm",
+      "price": 699.0,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Ultieme sporthorloge met 16 dagen accuduur en offline kaarten.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Topsporthorloge met kaarten, LTE en satellietberichten zonder telefoon.",
       "specs": {
         "Scherm": "AMOLED, 1,4 inch",
-        "Accuduur": "tot 16 dagen",
+        "Accuduur": "tot 15 dagen",
         "Compatibel": "iPhone en Android",
         "GPS": "Ja, multi-band",
         "Betalen": "Garmin Pay"
       },
       "pros": [
-        "Tot 16 dagen accuduur, in GPS-modus 47 uur",
+        "Berichten en locatie delen via LTE en satelliet",
         "Offline topografische kaarten en navigatie",
-        "Luidspreker en microfoon voor bellen en spraakbediening",
-        "Duikfunctie tot 40 meter en titanium uitvoering beschikbaar"
+        "Luidspreker, microfoon en zaklamp",
+        "Tot 15 dagen accuduur volgens Garmin"
       ],
       "cons": [
         "Duurste horloge in deze lijst",
-        "Groot en zwaar voor smalle polsen",
-        "Minder slimme functies dan Apple en Samsung"
+        "LTE en satelliet vragen een abonnement",
+        "Groot en zwaar voor smalle polsen"
       ],
-      "ideal": "Serieuze sporters, wandelaars en avonturiers die weken wegblijven van een stopcontact.",
-      "text": "De Garmin Fenix 8 is het sporthorloge waar andere fabrikanten zich aan meten. De AMOLED-versie van 47 millimeter haalt 16 dagen accuduur als smartwatch en 47 uur met GPS aan, waarmee je een hele week wandelen op één lading doet. Multi-band GPS houdt het spoor ook tussen hoge gebouwen en in bossen strak. De offline topografische kaarten laten je navigeren zonder telefoon, inclusief automatisch routes maken op basis van afstand.\n\nNieuw ten opzichte van de Fenix 7 zijn de luidspreker en microfoon, waarmee je belt via je telefoon en het horloge met je stem bedient. De behuizing is waterdicht voor duiken tot 40 meter. Garmin levert bovendien de meest uitgebreide trainingsanalyse: belasting, herstel, slaapcoach en een trainingsgereedheidsscore. Gebruikers prijzen de betrouwbaarheid en de app zonder abonnement. Het horloge is groot, zwaar en duur. Maar wie serieus sport, krijgt nergens meer.",
-      "ean": "0753759338060",
-      "url": "https://www.bol.com/nl/nl/p/garmin-fenix-8-47mm-amoled-multisport-smartwatch-100-sport-apps-led-zaklamp-microfoon-en-speaker-10atm-waterdicht-tot-16-dagen-batterij-donkergrijs-zwart/9300000181435258/",
-      "image": "https://media.s-bol.com/OpEwAZxPo7yB/gJ8ZV8l/550x713.jpg",
-      "synced": "2026-11-20",
-      "bol_title": "Garmin fenix 8 - 47mm - Multisport Smartwatch - AMOLED-Scherm - Donkergrijs/zwart",
+      "ideal": "Avonturiers en serieuze sporters die ook zonder telefoon bereikbaar willen zijn.",
+      "text": "De Garmin fenix 8 Pro is de topversie van de fenix 8, het sporthorloge waar andere fabrikanten zich aan meten. Nieuw is de ingebouwde inReach-technologie met LTE: je stuurt berichten en deelt je locatie, ook zonder telefoon in de buurt. Buiten bereik van het mobiele netwerk gaat dat via satellieten. Voor deze functies heb je wel een abonnement van Garmin nodig. De versie van 47 millimeter heeft een AMOLED-scherm, een titanium uitvoering en volgens Garmin tot 15 dagen accuduur als smartwatch.\n\nVerder krijg je alles van de gewone fenix 8: multi-band GPS, offline topografische kaarten, een zaklamp, een luidspreker en microfoon voor bellen en spraakbediening en betalen met Garmin Pay. De trainingsanalyse is uitgebreid, met belasting, herstel en een slaapcoach. Het horloge is groot, duur en zwaarder dan een gewone smartwatch. De extra communicatie maakt het vooral interessant voor wie alleen de bergen in gaat of lange tochten maakt. Kopers op bol geven hem een 5,0 van 5.",
+      "ean": "0753759350949",
+      "rating": 5.0,
+      "bol_title": "Garmin fenix 8 Pro - Smartwatch - 47 mm - AMOLED - Ingebouwde inReach® technologie - LTE connectiviteit - Tot 15 dagen batterijduur - Titanium",
+      "url": "https://www.bol.com/nl/nl/p/garmin-fenix-8-pro-smartwatch-47-mm-amoled-ingebouwde-inreach-technologie-lte-connectiviteit-tot-15-dagen-batterijduur-titanium/9300000239566539/",
+      "image": "https://media.s-bol.com/rDY7n43ZmDR4/oY7Wznk/550x721.jpg",
       "ph": {
-        "2026-10-13": 659.0,
-        "2026-10-14": 659.0,
-        "2026-10-15": 669.0,
-        "2026-10-16": 669.0,
-        "2026-10-17": 669.0,
-        "2026-10-18": 669.0,
-        "2026-10-19": 669.0,
-        "2026-10-20": 669.0,
-        "2026-10-21": 689.0,
-        "2026-10-23": 697.0,
-        "2026-10-24": 697.0,
-        "2026-10-25": 674.0,
-        "2026-10-26": 674.0,
-        "2026-10-27": 674.0,
-        "2026-10-28": 652.0,
-        "2026-10-29": 652.0,
-        "2026-10-30": 652.27,
-        "2026-10-31": 652.27,
-        "2026-11-01": 652.27,
-        "2026-11-02": 629.0,
-        "2026-11-03": 629.0,
-        "2026-11-04": 629.0,
-        "2026-11-05": 629.0,
-        "2026-11-06": 625.0,
-        "2026-11-07": 625.0,
-        "2026-11-08": 625.0,
-        "2026-11-09": 625.0,
-        "2026-11-10": 625.0,
-        "2026-11-11": 625.0,
-        "2026-11-12": 625.0,
-        "2026-11-13": 625.0,
-        "2026-11-14": 625.0,
-        "2026-11-16": 625.0,
-        "2026-11-17": 625.0,
-        "2026-11-18": 625.0,
-        "2026-11-19": 588.05,
-        "2026-11-20": 599.0
+        "2026-11-20": 699.0
       },
-      "low_price": 588.05,
-      "prev_price": 588.05,
-      "prev_date": "2026-11-19",
-      "ph_ean": "0753759338060",
-      "rating": 4.3
+      "low_price": 699.0,
+      "ph_ean": "0753759350949",
+      "synced": "2026-11-20"
     },
     {
       "brand": "Samsung",
@@ -464,10 +426,10 @@
     {
       "brand": "Garmin",
       "name": "Forerunner 265 46 mm",
-      "price": 299.0,
+      "price": 309.0,
       "score": 8.9,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Hardloophorloge met AMOLED-scherm en trainingsadvies per dag.",
       "specs": {
         "Scherm": "1,3 inch AMOLED",
@@ -488,54 +450,18 @@
         "Plastic behuizing voelt minder luxe"
       ],
       "ideal": "Hardlopers die gericht willen trainen en een betrouwbare GPS belangrijker vinden dan apps.",
-      "text": "De Forerunner 265 is al jaren een van de populairste hardloophorloges van Garmin. Hij combineert een helder AMOLED-scherm met alle trainingsfuncties die serieuze lopers zoeken: dagelijkse workoutsuggesties, trainingsgereedheid, herstelstatus en een race-voorspeller. De multiband-GPS legt je route ook tussen hoge gebouwen of onder bomen nauwkeurig vast, wat je terugziet in betrouwbare tempo's en afstanden.\n\nDe accu gaat volgens Garmin tot 13 dagen mee als smartwatch, met GPS aan haal je een flink aantal lange duurlopen. Betalen gaat via Garmin Pay en meldingen van je telefoon komen netjes binnen, al is het aanbod aan apps kleiner dan bij Apple of Samsung. Kaarten voor navigatie ontbreken; daarvoor kijk je naar duurdere modellen. Op bol scoort hij gemiddeld de volle 5 sterren. Voor de meeste lopers is dit de verstandigste Garmin: alles wat je nodig hebt zonder de prijs van een topmodel.",
-      "ean": "0753759313715",
-      "bol_title": "Garmin Forerunner 265 - Sporthorloge met GPS - Geschikt voor hardlopen - 46 mm – Zwart",
-      "url": "https://www.bol.com/nl/nl/p/garmin-forerunner-265-sporthorloge-zwart/9300000147904112/",
-      "image": "https://media.s-bol.com/A4vnGoLY94OO/vlE9xlM/550x707.jpg",
-      "synced": "2026-11-20",
+      "text": "De Forerunner 265 is al jaren een van de populairste hardloophorloges van Garmin. Hij combineert een helder AMOLED-scherm met alle trainingsfuncties die serieuze lopers zoeken: dagelijkse workoutsuggesties, trainingsgereedheid, herstelstatus en een race-voorspeller. De multiband-GPS legt je route ook tussen hoge gebouwen of onder bomen nauwkeurig vast, wat je terugziet in betrouwbare tempo's en afstanden.\n\nDe accu gaat volgens Garmin tot 13 dagen mee als smartwatch, met GPS aan haal je een flink aantal lange duurlopen. Betalen gaat via Garmin Pay en meldingen van je telefoon komen netjes binnen, al is het aanbod aan apps kleiner dan bij Apple of Samsung. Kaarten voor navigatie ontbreken; daarvoor kijk je naar duurdere modellen. Op bol scoort hij gemiddeld een 4,1 van 5. Voor de meeste lopers is dit de verstandigste Garmin: alles wat je nodig hebt zonder de prijs van een topmodel.",
+      "ean": "7694642609788",
+      "rating": 4.1,
+      "bol_title": "Garmin Forerunner 265 Sporthorloge – GPS – AMOLED – 46 mm – Zwart",
+      "url": "https://www.bol.com/nl/nl/p/garmin-forerunner-265-sporthorloge-gps-amoled-46-mm-zwart/9300000382593952/",
+      "image": "https://media.s-bol.com/mvRg8LjXpg2n/nxnOkwW/550x808.jpg",
       "ph": {
-        "2026-10-15": 358.95,
-        "2026-10-16": 358.95,
-        "2026-10-17": 349.0,
-        "2026-10-18": 349.0,
-        "2026-10-19": 349.0,
-        "2026-10-20": 349.0,
-        "2026-10-21": 349.0,
-        "2026-10-23": 349.0,
-        "2026-10-24": 349.0,
-        "2026-10-25": 349.0,
-        "2026-10-26": 349.0,
-        "2026-10-27": 349.0,
-        "2026-10-28": 349.0,
-        "2026-10-29": 349.0,
-        "2026-10-30": 349.0,
-        "2026-10-31": 349.0,
-        "2026-11-01": 349.0,
-        "2026-11-02": 329.0,
-        "2026-11-03": 329.0,
-        "2026-11-04": 329.0,
-        "2026-11-05": 329.0,
-        "2026-11-06": 329.0,
-        "2026-11-07": 329.0,
-        "2026-11-08": 329.0,
-        "2026-11-09": 329.0,
-        "2026-11-10": 329.0,
-        "2026-11-11": 329.0,
-        "2026-11-12": 329.0,
-        "2026-11-13": 329.0,
-        "2026-11-14": 329.0,
-        "2026-11-16": 329.0,
-        "2026-11-17": 329.0,
-        "2026-11-18": 299.99,
-        "2026-11-19": 299.99,
-        "2026-11-20": 299.0
+        "2026-11-20": 309.0
       },
-      "low_price": 299.0,
-      "prev_price": 299.99,
-      "prev_date": "2026-11-19",
-      "ph_ean": "0753759313715",
-      "rating": 5.0
+      "low_price": 309.0,
+      "ph_ean": "7694642609788",
+      "synced": "2026-11-20"
     },
     {
       "brand": "Apple",
@@ -801,7 +727,7 @@
   "faq": [
     {
       "q": "Wat is de beste smartwatch van 2026?",
-      "a": "Op basis van onze vergelijking is de Apple Watch Series 11 de beste smartwatch van 2026 voor iPhone-gebruikers en de Samsung Galaxy Watch8 voor Android. Wie een lange accuduur en topsportfuncties wil kiest de Garmin Fenix 8, wie weinig wil uitgeven de Amazfit Active 3 Premium."
+      "a": "Op basis van onze vergelijking is de Apple Watch Series 11 de beste smartwatch van 2026 voor iPhone-gebruikers en de Samsung Galaxy Watch8 voor Android. Wie een lange accuduur en topsportfuncties wil kiest de Garmin fenix 8 Pro, wie weinig wil uitgeven de Amazfit Active 3 Premium."
     },
     {
       "q": "Welke smartwatch werkt met een iPhone?",
@@ -809,7 +735,7 @@
     },
     {
       "q": "Welke smartwatch heeft de langste accuduur?",
-      "a": "De Huawei Watch GT 6 haalt tot 21 dagen, gevolgd door de Garmin Fenix 8 met 16 dagen en de Xiaomi Watch S4 met 15 dagen. Apple Watch en Galaxy Watch halen één tot twee dagen, maar bieden daarvoor meer apps en snellere processors."
+      "a": "De Huawei Watch GT 6 haalt tot 21 dagen, gevolgd door de Garmin fenix 8 Pro en de Xiaomi Watch S4 met elk 15 dagen. Apple Watch en Galaxy Watch halen één tot twee dagen, maar bieden daarvoor meer apps en snellere processors."
     },
     {
       "q": "Kan ik met een smartwatch betalen in Nederland?",
@@ -824,5 +750,13 @@
       "a": "Nee. Apple, Samsung, Garmin, Huawei, Xiaomi en Amazfit bieden alle basisfuncties zonder abonnement. Alleen Google koppelt sommige Fitbit-inzichten op de Pixel Watch aan Fitbit Premium, maar de kernfuncties werken ook zonder."
     }
   ],
-  "published": "2026-10-13"
+  "published": "2026-10-13",
+  "wissels": [
+    {
+      "d": "2026-11-20",
+      "uit": "Garmin Fenix 8 AMOLED 47 mm",
+      "in": "Garmin fenix 8 Pro 47 mm",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

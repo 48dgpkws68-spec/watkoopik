@@ -200,7 +200,7 @@
     {
       "brand": "Samsung",
       "name": "QE55S95H",
-      "price": 1549.0,
+      "price": 1499.0,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,5 van 5",
@@ -229,16 +229,12 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-qe55s95hftxxn-qd-oled-55-inch/9300000278287560/",
       "image": "https://media.s-bol.com/qv8gzxxjxy42/Oyqq1Mg/550x487.jpg",
       "rating": 4.5,
+      "ph_ean": "8806099136109",
       "ph": {
-        "2026-11-18": 1499.0,
-        "2026-11-19": 1499.0,
-        "2026-11-20": 1549.0
+        "2026-11-20": 1499.0
       },
       "low_price": 1499.0,
-      "ph_ean": "8806099136109",
-      "synced": "2026-11-20",
-      "prev_price": 1499.0,
-      "prev_date": "2026-11-19"
+      "synced": "2026-11-20"
     },
     {
       "brand": "Philips",

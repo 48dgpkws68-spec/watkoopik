@@ -194,8 +194,8 @@
     },
     {
       "brand": "Fujifilm",
-      "name": "instax mini 12 instant camera",
-      "price": 81.89,
+      "name": "instax mini 13 instant camera",
+      "price": 86.0,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -203,14 +203,14 @@
       "specs": {
         "Leeftijd": "8+",
         "Soort": "Instant camera",
-        "Prijsklasse": "Rond 80 euro",
+        "Prijsklasse": "Rond 85 euro",
         "Spelers": "1",
         "Leuk omdat": "Foto direct in je hand"
       },
       "pros": [
-        "Belichting gaat automatisch",
+        "Belichting en flitser gaan automatisch",
         "Close-upstand en selfiespiegel",
-        "Vrolijke kleuren",
+        "Zelfontspanner van 2 of 10 seconden",
         "Werkt op gewone AA-batterijen"
       ],
       "cons": [
@@ -218,34 +218,18 @@
         "Geen scherm om foto's eerst te bekijken"
       ],
       "ideal": "Kinderen vanaf een jaar of 8 die alles willen vastleggen.",
-      "text": "Een foto maken en hem een minuut later in je hand houden: voor kinderen voelt dat nog steeds als toverij. De instax mini 12 is daarom een geliefd kerstcadeau voor kinderen vanaf een jaar of 8 en tieners. Je draait de lens uit om hem aan te zetten en de camera regelt de belichting zelf. Er is een close-upstand voor foto's van dichtbij en een spiegeltje voor selfies. De foto's zijn zo groot als een bankpasje.\n\nDe camera werkt op twee AA-batterijen. Het fotopapier koop je los, reken op ongeveer een euro per foto. Doe er dus meteen een pak film bij, anders kan je kind op kerstavond nog niets. Kopers op bol geven gemiddeld een 4,6 van 5 en noemen het gebruiksgemak en de leuke kleuren. Je ziet de foto pas als hij is geprint, er is geen scherm. Juist dat maakt kinderen bewuster bij elke foto. De kerstfoto's met familie gaan zo direct het plakboek in.",
-      "ean": "4547410489095",
-      "bol_title": "FUJIFILM instax mini 12™ - Instant Camera - Clay White",
-      "url": "https://www.bol.com/nl/nl/p/fujifilm-instax-mini-12-instant-camera-clay-white/9300000142746726/",
-      "image": "https://media.s-bol.com/B3GJn9DJYwko/z6Y0PX2/550x645.jpg",
+      "text": "Een foto maken en hem meteen in je hand houden: voor kinderen voelt dat nog steeds als toverij. De instax mini 13 is de opvolger van de mini 12 en een leuk kerstcadeau voor kinderen vanaf een jaar of 8 en tieners. Je drukt af en de camera regelt de belichting en de flitser zelf. Door twee keer aan de lens te draaien staat hij in de close-upstand voor foto's van dichtbij. Naast de lens zit een spiegeltje voor selfies. De foto's zijn zo groot als een bankpasje.\n\nNieuw is een zelfontspanner van 2 of 10 seconden, zodat ook je kind zelf op de familiefoto staat. De camera werkt op twee AA-batterijen, die in de doos zitten. Het fotopapier koop je los, reken op ongeveer een euro per foto. Doe er dus meteen een pak film bij, anders kan je kind op kerstavond nog niets. Op bol staat hij op een 4,6. Er is geen scherm, je ziet de foto pas als hij is geprint. Juist dat maakt kinderen bewuster bij elke foto.",
+      "ean": "4547410564884",
+      "rating": 4.6,
+      "bol_title": "FUJIFILM instax mini 13 – Instant Camera – Dreamy Purple",
+      "url": "https://www.bol.com/nl/nl/p/fujifilm-instax-mini-13-instant-camera-dreamy-purple/9300000303263562/",
+      "image": "https://media.s-bol.com/YGjk8mBwwxvA/6REPlgn/550x647.jpg",
       "ph": {
-        "2026-11-03": 81.89,
-        "2026-11-04": 81.89,
-        "2026-11-05": 81.89,
-        "2026-11-06": 81.89,
-        "2026-11-07": 81.89,
-        "2026-11-08": 81.89,
-        "2026-11-09": 81.89,
-        "2026-11-10": 81.89,
-        "2026-11-11": 81.89,
-        "2026-11-12": 81.89,
-        "2026-11-13": 81.89,
-        "2026-11-14": 81.89,
-        "2026-11-16": 81.89,
-        "2026-11-17": 81.89,
-        "2026-11-18": 81.89,
-        "2026-11-19": 81.89,
-        "2026-11-20": 81.89
+        "2026-11-20": 86.0
       },
-      "low_price": 81.89,
-      "synced": "2026-11-20",
-      "ph_ean": "4547410489095",
-      "rating": 4.6
+      "low_price": 86.0,
+      "ph_ean": "4547410564884",
+      "synced": "2026-11-20"
     },
     {
       "brand": "LEGO",
@@ -636,5 +620,13 @@
     "beste-adventskalender",
     "beste-sinterklaascadeau-voor-kinderen",
     "beste-kerstcadeau-onder-50-euro"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-20",
+      "uit": "Fujifilm instax mini 12 instant camera",
+      "in": "Fujifilm instax mini 13 instant camera",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }
