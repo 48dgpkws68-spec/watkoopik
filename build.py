@@ -823,6 +823,20 @@ def k2_html(g):
         return '<div class="k2"><span class="upg-lbl">Vaste maat?</span><p>Bekijk de beste tv per schermmaat:</p><div class="k2-l">%s</div></div>' % "".join(chips)
     return ""
 
+# K4 (groeimotor, 21 nov 2026, N49): combigidsen tv maat x budget (beste-tv-55-inch-onder-500-euro e.d.).
+# Moedergidsen (inch en budget) krijgen één regel naar de combigids. Altijd aan: gewone interne link.
+def combi_html(g):
+    m = re.fullmatch(r"beste-tv-(\d{2})-inch", g["slug"]) or re.fullmatch(r"beste-tv-onder-(\d+)-euro", g["slug"])
+    if not m: return ""
+    deel = "-%s-inch-" % m.group(1) if "inch" in g["slug"] else "-onder-%s-euro" % m.group(1)
+    combis = [x for x in guides if re.fullmatch(r"beste-tv-\d{2}-inch-onder-\d+-euro", x["slug"]) and deel in x["slug"] + ("" if "inch" in g["slug"] else "")]
+    if not combis: return ""
+    links = []
+    for x in combis:
+        mm = re.fullmatch(r"beste-tv-(\d{2})-inch-onder-(\d+)-euro", x["slug"])
+        links.append('<a href="../%s" data-umami-event="combi-link" data-umami-event-gids="%s" data-umami-event-combi="%s"><b>%s inch onder %s euro</b> · nr. 1 %s %s</a>' % (x["url"], e(g["slug"]), e(x["slug"]), mm.group(1), mm.group(2), e(x["products"][0]["brand"]), e(x["products"][0]["name"])))
+    return '<div class="k2"><span class="upg-lbl">Maat en budget vast?</span><p>De beste tv voor precies die combinatie:</p><div class="k2-l">%s</div></div>' % "".join(links)
+
 def bars(p, g):
     """Deelscores afgeleid van totaalscore en prijspositie binnen de gids (voor visuele vergelijking)."""
     prices = sorted(x["price"] for x in g["products"]); pos = prices.index(p["price"]) / max(1, len(prices) - 1)
@@ -925,7 +939,7 @@ for g in guides:
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(gmod(g))), len(ps), "",
-        own_pos(g, "boven"), podium, own_pos(g, "onder") + k2_html(g) + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        own_pos(g, "boven"), podium, own_pos(g, "onder") + k2_html(g) + combi_html(g) + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = zoekterm(g)  # zoekterm voor titel en meta; query blijft de bol-zoekterm
