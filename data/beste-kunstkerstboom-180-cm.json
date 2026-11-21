@@ -113,17 +113,18 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-forest-frosted-kunstkerstboom-h185-cm-groen/9200000019515481/",
       "image": "https://media.s-bol.com/4Xy87rx5M1Xn/wVxm8EX/550x826.jpg",
       "ph": {
-        "2026-11-20": 139.0
+        "2026-11-20": 139.0,
+        "2026-11-21": 139.0
       },
       "low_price": 139.0,
       "ph_ean": "0756770520339",
       "rating": 4.9,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Everlands",
       "name": "Grandis Fir 180 cm",
-      "price": 71.99,
+      "price": 74.0,
       "score": 9.2,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,7 van 5",
@@ -149,14 +150,17 @@
       "ean": "8718532241519",
       "bol_title": "Everlands Grandis Fir - Kunstkerstboom - 180 cm - Zonder verlichting",
       "url": "https://www.bol.com/nl/nl/p/everlands-grandis-fir-kunstkerstboom-180-cm-zonder-verlichting/9200000066281005/",
-      "image": "https://media.s-bol.com/yKr2rl9x12rg/pZ5YA31/550x550.jpg",
+      "image": "https://media.s-bol.com/NW9mXnKJrxML/M8gQvQ1/550x806.jpg",
       "ph": {
-        "2026-11-20": 71.99
+        "2026-11-20": 71.99,
+        "2026-11-21": 74.0
       },
       "low_price": 71.99,
       "ph_ean": "8718532241519",
       "rating": 4.7,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21",
+      "prev_price": 71.99,
+      "prev_date": "2026-11-20"
     },
     {
       "brand": "Triumph Tree",
@@ -189,12 +193,13 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-bristlecone-kunstkerstboom-h185-x-o119-cm-groen/9200000019515195/",
       "image": "https://media.s-bol.com/nwK569J454BP/ywyr4lR/537x840.jpg",
       "ph": {
-        "2026-11-20": 134.95
+        "2026-11-20": 134.95,
+        "2026-11-21": 134.95
       },
       "low_price": 134.95,
       "ph_ean": "8711473158304",
       "rating": 4.9,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "PristinePine",
@@ -227,17 +232,18 @@
       "url": "https://www.bol.com/nl/nl/p/pristinepine-nordic-forist-fir-volle-kerstboom-met-led-verlichting-kunstkerstboom-inclusief-opbergtas-en-handschoenen-280-gekleurde-en-warm-witte-lampjes-bediening-via-app-180-cm/9300000184164154/",
       "image": "https://media.s-bol.com/38M1LqKD6rMr/j2NxqER/550x606.jpg",
       "ph": {
-        "2026-11-20": 169.95
+        "2026-11-20": 169.95,
+        "2026-11-21": 169.95
       },
       "low_price": 169.95,
       "ph_ean": "8720929477647",
       "rating": 4.9,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Everlands",
       "name": "Allison Fir 180 cm met 320 lampjes",
-      "price": 105.99,
+      "price": 107.5,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -265,12 +271,15 @@
       "url": "https://www.bol.com/nl/nl/p/kunstkerstboom-allison-pine-groen-180-cm-met-320-led-indoor/9300000164963376/",
       "image": "https://media.s-bol.com/vGV4R4552rxX/gpEOpJ9/477x840.jpg",
       "ph": {
-        "2026-11-20": 105.99
+        "2026-11-20": 105.99,
+        "2026-11-21": 107.5
       },
       "low_price": 105.99,
       "ph_ean": "8720194653234",
       "rating": 5.0,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21",
+      "prev_price": 105.99,
+      "prev_date": "2026-11-20"
     },
     {
       "brand": "Triumph Tree",
@@ -303,12 +312,13 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-matterhorn-smalle-kunstkerstboom-h185-x-o84-cm-groen/9300000187225409/",
       "image": "https://media.s-bol.com/yLWYx0X518Og/lREjyrJ/364x840.jpg",
       "ph": {
-        "2026-11-20": 99.99
+        "2026-11-20": 99.99,
+        "2026-11-21": 99.99
       },
       "low_price": 99.99,
       "ph_ean": "8720967792108",
       "rating": 5.0,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Royal Christmas",
@@ -337,16 +347,17 @@
       "ideal": "Wie een klassieke volle boom wil voor een lage prijs.",
       "text": "De Washington van Royal Christmas is een klassieke boom van 180 cm met 944 takpunten en een breedte van 127 cm. Royal Christmas is een bekend merk bij kerstbomen in Nederland en de Washington is hun eenvoudige instapper. De takken zijn van PVC, dus van dichtbij ziet hij er minder echt uit dan bomen met PE-naalden. Van een paar meter afstand oogt hij vol en egaal groen.\n\nHet grote voordeel is de prijs: voor onder de 80 euro krijg je een volle merkboom die onder een plafond van 220 cm nog ruimte laat voor een piek. Na het opzetten buig je de takjes in vorm, daarna is hij klaar om te versieren. De doos is klein, wat bij het opbergen scheelt. Er zit geen verlichting in. Bij bol staat hij op een 4,5 van 5, iets lager dan de toppers in deze lijst. Wil je dezelfde boom met lampjes, dan is er een versie met 250 LED voor ongeveer 20 euro meer.",
       "ean": "8717931854375",
-      "bol_title": "Royal Christmas - Kunstkerstboom Washington 180 cm",
+      "bol_title": "Royal Christmas - 180cm Kunstkerstboom Washington",
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-kunstkerstboom-washington-180-cm/9200000053063007/",
       "image": "https://media.s-bol.com/Mv9Nj2yJJQRG/pg7WBA2/550x816.jpg",
       "ph": {
-        "2026-11-20": 79.99
+        "2026-11-20": 79.99,
+        "2026-11-21": 79.99
       },
       "low_price": 79.99,
       "ph_ean": "8717931854375",
       "rating": 4.5,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Royal Christmas",
@@ -379,12 +390,13 @@
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-kunstkerstboom-iowa-deluxe-240cm-zonder-verlichting/9200000049874250/",
       "image": "https://media.s-bol.com/mvwLOGKjJEA3/J8Dl1zP/469x840.jpg",
       "ph": {
-        "2026-11-20": 159.0
+        "2026-11-20": 159.0,
+        "2026-11-21": 159.0
       },
       "low_price": 159.0,
       "ph_ean": "8717591880431",
       "rating": 5.0,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Triumph Tree",
@@ -417,12 +429,13 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-tuscan-kunstkerstboom-h185-x-o109-cm-groen/9200000019515471/",
       "image": "https://media.s-bol.com/7kmZjm066pzA/Z37Lqw/491x840.jpg",
       "ph": {
-        "2026-11-20": 59.99
+        "2026-11-20": 59.99,
+        "2026-11-21": 59.99
       },
       "low_price": 59.99,
       "ph_ean": "0756770414904",
       "rating": 4.5,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Black Box Trees",
@@ -455,12 +468,13 @@
       "url": "https://www.bol.com/nl/nl/p/black-box-trees-charlton-pilar-kerstboom-groen-tips-280-h185xd53cm/9300000186169170/",
       "image": "https://media.s-bol.com/0Qrg6nLzKZ8L/BNvL7QY/253x840.jpg",
       "ph": {
-        "2026-11-20": 29.99
+        "2026-11-20": 29.99,
+        "2026-11-21": 29.99
       },
       "low_price": 29.99,
       "ph_ean": "8720967840212",
       "rating": 4.8,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     }
   ]
 }

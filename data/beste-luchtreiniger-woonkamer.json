@@ -63,19 +63,20 @@
       "image": "https://media.s-bol.com/RxPJDj629yKz/pQzJ9Lp/550x814.jpg",
       "ph": {
         "2026-11-19": 349.99,
-        "2026-11-20": 229.99
+        "2026-11-20": 229.99,
+        "2026-11-21": 229.99
       },
       "low_price": 229.99,
       "ph_ean": "8809825509505",
       "rating": 4.6,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "prev_price": 349.99,
       "prev_date": "2026-11-19"
     },
     {
       "brand": "Philips",
       "name": "PureProtect 3200 AC3220/10",
-      "price": 239.0,
+      "price": 249.0,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -105,14 +106,15 @@
       "image": "https://media.s-bol.com/75GjXZGQDywy/D9LO0ox/547x840.jpg",
       "ph": {
         "2026-11-19": 249.0,
-        "2026-11-20": 239.0
+        "2026-11-20": 239.0,
+        "2026-11-21": 249.0
       },
       "low_price": 239.0,
       "ph_ean": "8720389039317",
       "rating": 4.7,
-      "synced": "2026-11-20",
-      "prev_price": 249.0,
-      "prev_date": "2026-11-19"
+      "synced": "2026-11-21",
+      "prev_price": 239.0,
+      "prev_date": "2026-11-20"
     },
     {
       "brand": "Winix",
@@ -147,12 +149,13 @@
       "image": "https://media.s-bol.com/BJowMr27A702/n5AK28p/550x553.jpg",
       "ph": {
         "2026-11-19": 149.0,
-        "2026-11-20": 149.0
+        "2026-11-20": 149.0,
+        "2026-11-21": 149.0
       },
       "low_price": 149.0,
       "ph_ean": "8809490586054",
       "rating": 4.5,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Levoit",
@@ -187,12 +190,13 @@
       "image": "https://media.s-bol.com/ZD86O2Ymjljw/zGM23O/550x764.jpg",
       "ph": {
         "2026-11-19": 399.0,
-        "2026-11-20": 399.0
+        "2026-11-20": 399.0,
+        "2026-11-21": 399.0
       },
       "low_price": 399.0,
       "ph_ean": "0810043375214",
       "rating": 4.0,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Xiaomi",
@@ -227,12 +231,13 @@
       "image": "https://media.s-bol.com/4nOg8pmmQyE0/5yKmVyv/351x840.jpg",
       "ph": {
         "2026-11-19": 349.0,
-        "2026-11-20": 349.0
+        "2026-11-20": 349.0,
+        "2026-11-21": 349.0
       },
       "low_price": 349.0,
       "ph_ean": "6934177793394",
       "rating": 5.0,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Coway",
@@ -267,12 +272,13 @@
       "image": "https://media.s-bol.com/gg3wzvKjKpZY/voBvjXM/550x586.jpg",
       "ph": {
         "2026-11-19": 159.99,
-        "2026-11-20": 239.99
+        "2026-11-20": 239.99,
+        "2026-11-21": 239.99
       },
       "low_price": 159.99,
       "ph_ean": "8809825509802",
       "rating": 4.6,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "prev_price": 159.99,
       "prev_date": "2026-11-19"
     },
@@ -308,12 +314,13 @@
       "image": "https://media.s-bol.com/zzP5rKRWK34m/ADPm3m7/550x781.jpg",
       "ph": {
         "2026-11-19": 219.0,
-        "2026-11-20": 219.0
+        "2026-11-20": 219.0,
+        "2026-11-21": 219.0
       },
       "low_price": 219.0,
       "ph_ean": "8719327716229",
       "rating": 4.5,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Philips",
@@ -348,16 +355,17 @@
       "url": "https://www.bol.com/nl/nl/p/philips-cobra-pureprotect-quiet-2200-serie/9300000238408077/",
       "image": "https://media.s-bol.com/75G43vn69G3w/yrGO4NP/529x840.jpg",
       "ph": {
-        "2026-11-20": 226.0
+        "2026-11-20": 226.0,
+        "2026-11-21": 226.0
       },
       "low_price": 226.0,
       "ph_ean": "8720389064746",
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Xiaomi",
       "name": "Smart Air Purifier 4 Pro",
-      "price": 219.0,
+      "price": 241.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -386,12 +394,15 @@
       "image": "https://media.s-bol.com/BWVqEDQE5BAQ/RoO1LRE/345x840.jpg",
       "ph": {
         "2026-11-19": 219.0,
-        "2026-11-20": 219.0
+        "2026-11-20": 219.0,
+        "2026-11-21": 241.99
       },
       "low_price": 219.0,
       "ph_ean": "6934177743665",
       "rating": 4.3,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21",
+      "prev_price": 219.0,
+      "prev_date": "2026-11-20"
     },
     {
       "brand": "Rowenta",
@@ -425,12 +436,13 @@
       "image": "https://media.s-bol.com/NAKRz08LLro2/q7joy4r/389x840.jpg",
       "ph": {
         "2026-11-19": 139.99,
-        "2026-11-20": 139.99
+        "2026-11-20": 139.99,
+        "2026-11-21": 139.99
       },
       "low_price": 139.99,
       "ph_ean": "3121047260800",
       "rating": 4.2,
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     }
   ],
   "guide": [

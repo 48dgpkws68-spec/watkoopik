@@ -21,7 +21,7 @@ Formaat: slug | cat | query | titel | emoji
 # Verbeterronde 17 nov 2026: kerstbomen klikken het best (52 weergaven, 39 bol-kliks in 7 dagen), dus deze 2 eerst
 [x] beste-kunstkerstboom-onder-100-euro | wonen | kunstkerstboom onder 100 euro | De 10 beste kunstkerstbomen onder 100 euro van 2026 | 🎄
 [x] beste-cadeau-6-jarige | speelgoed | speelgoed 6 jaar | De 10 beste cadeaus voor 6-jarigen van 2026 | 🎁
-[ ] beste-duplo | speelgoed | lego duplo | De 10 beste DUPLO-sets van 2026 | 🧱
+[x] beste-duplo | speelgoed | lego duplo | De 10 beste DUPLO-sets van 2026 | 🧱
 [ ] beste-cadeau-10-jarige | speelgoed | cadeau 10 jaar | De 10 beste cadeaus voor 10-jarigen van 2026 | 🎁
 [ ] beste-rc-auto | speelgoed | rc auto | De 10 beste RC-auto's van 2026 | 🚗
 [ ] beste-hoverboard | speelgoed | hoverboard | De 10 beste hoverboards van 2026 | 🛹

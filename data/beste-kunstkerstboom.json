@@ -68,10 +68,11 @@
         "2026-11-17": 89.5,
         "2026-11-18": 89.5,
         "2026-11-19": 107.95,
-        "2026-11-20": 109.0
+        "2026-11-20": 109.0,
+        "2026-11-21": 109.0
       },
       "low_price": 89.5,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "prev_price": 107.95,
       "prev_date": "2026-11-19",
       "ph_ean": "8718532241526",
@@ -123,10 +124,11 @@
         "2026-11-17": 359.0,
         "2026-11-18": 359.0,
         "2026-11-19": 359.0,
-        "2026-11-20": 359.0
+        "2026-11-20": 359.0,
+        "2026-11-21": 359.0
       },
       "low_price": 359.0,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph_ean": "8717591890164",
       "rating": 5.0
     },
@@ -175,10 +177,11 @@
         "2026-11-17": 59.99,
         "2026-11-18": 59.99,
         "2026-11-19": 59.99,
-        "2026-11-20": 59.99
+        "2026-11-20": 59.99,
+        "2026-11-21": 59.99
       },
       "low_price": 59.99,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "prev_price": 69.95,
       "prev_date": "2026-11-14",
       "ph_ean": "0756770414904",
@@ -228,10 +231,11 @@
         "2026-11-17": 99.99,
         "2026-11-18": 99.99,
         "2026-11-19": 99.99,
-        "2026-11-20": 99.99
+        "2026-11-20": 99.99,
+        "2026-11-21": 99.99
       },
       "low_price": 99.99,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "prev_price": 105.0,
       "prev_date": "2026-11-14",
       "ph_ean": "8720967792108",
@@ -282,10 +286,11 @@
         "2026-11-17": 121.0,
         "2026-11-18": 121.0,
         "2026-11-19": 138.9,
-        "2026-11-20": 128.73
+        "2026-11-20": 128.73,
+        "2026-11-21": 128.73
       },
       "low_price": 119.0,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "prev_price": 138.9,
       "prev_date": "2026-11-19",
       "ph_ean": "8720093398496",
@@ -319,7 +324,7 @@
       "ideal": "Gezinnen die veel versiering ophangen en een stevige, voordelige boom willen.",
       "text": "De Washington is het instapmodel van Royal Christmas en op bol een van de meest beoordeelde kunstbomen. Hij is 180 cm hoog met een doorsnede van 127 cm en heeft 944 takken van PVC. Kenmerkend zijn de wat spitsere takken die doorlopen tot aan de voet. Daardoor zie je geen kale stam onderin en staat de boom laag en vol. De takken zijn stevig, dus ook zware glazen kerstballen of een volle slinger houdt hij zonder doorbuigen.\n\nDe boom bestaat uit drie delen met een scharnierconstructie, zodat je hem snel opzet. Na de feestdagen gaat hij terug in de meegeleverde opbergdoos, wat in de praktijk veel scheelt. Kopers geven hem gemiddeld 4,4 sterren. Wat je mist is de natuurlijke uitstraling van PE-naalden. Van dichtbij zie je dat het kunststof is. Wil je een echter ogende boom voor bijna hetzelfde geld, kijk dan naar de Tuscan.",
       "ean": "8717931854375",
-      "bol_title": "Royal Christmas - Kunstkerstboom Washington 180 cm",
+      "bol_title": "Royal Christmas - 180cm Kunstkerstboom Washington",
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-kunstkerstboom-washington-180-cm/9200000053063007/",
       "image": "https://media.s-bol.com/Mv9Nj2yJJQRG/pg7WBA2/550x816.jpg",
       "ph": {
@@ -336,10 +341,11 @@
         "2026-11-17": 89.0,
         "2026-11-18": 79.99,
         "2026-11-19": 79.99,
-        "2026-11-20": 79.99
+        "2026-11-20": 79.99,
+        "2026-11-21": 79.99
       },
       "low_price": 79.99,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "prev_price": 89.0,
       "prev_date": "2026-11-17",
       "ph_ean": "8717931854375",
@@ -348,7 +354,7 @@
     {
       "brand": "Black Box Trees",
       "name": "Charlton smal 215 cm",
-      "price": 29.99,
+      "price": 27.99,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -390,12 +396,13 @@
         "2026-11-17": 31.59,
         "2026-11-18": 31.59,
         "2026-11-19": 30.59,
-        "2026-11-20": 29.99
+        "2026-11-20": 29.99,
+        "2026-11-21": 27.99
       },
-      "low_price": 29.99,
-      "synced": "2026-11-20",
-      "prev_price": 30.59,
-      "prev_date": "2026-11-19",
+      "low_price": 27.99,
+      "synced": "2026-11-21",
+      "prev_price": 29.99,
+      "prev_date": "2026-11-20",
       "ph_ean": "8720967840229",
       "rating": 4.8
     },
@@ -443,10 +450,11 @@
         "2026-11-17": 284.0,
         "2026-11-18": 284.0,
         "2026-11-19": 284.0,
-        "2026-11-20": 284.0
+        "2026-11-20": 284.0,
+        "2026-11-21": 284.0
       },
       "low_price": 284.0,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "prev_price": 356.95,
       "prev_date": "2026-11-14",
       "ph_ean": "8712799346147",
@@ -496,10 +504,11 @@
         "2026-11-17": 50.99,
         "2026-11-18": 50.99,
         "2026-11-19": 50.99,
-        "2026-11-20": 50.99
+        "2026-11-20": 50.99,
+        "2026-11-21": 50.99
       },
       "low_price": 50.99,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph_ean": "8718533661408",
       "rating": 4.6
     },
@@ -547,10 +556,11 @@
         "2026-11-17": 105.98,
         "2026-11-18": 105.98,
         "2026-11-19": 89.99,
-        "2026-11-20": 89.99
+        "2026-11-20": 89.99,
+        "2026-11-21": 89.99
       },
       "low_price": 89.99,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph_ean": "8718861346312",
       "prev_price": 105.98,
       "prev_date": "2026-11-18",

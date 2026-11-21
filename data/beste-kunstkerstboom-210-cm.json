@@ -115,11 +115,12 @@
       "ph": {
         "2026-11-18": 179.0,
         "2026-11-19": 179.0,
-        "2026-11-20": 179.0
+        "2026-11-20": 179.0,
+        "2026-11-21": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "0756770520346",
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Royal Christmas",
@@ -154,11 +155,12 @@
       "ph": {
         "2026-11-18": 139.0,
         "2026-11-19": 139.0,
-        "2026-11-20": 139.0
+        "2026-11-20": 139.0,
+        "2026-11-21": 139.0
       },
       "low_price": 139.0,
       "ph_ean": "8717591888970",
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Triumph Tree",
@@ -193,11 +195,12 @@
       "ph": {
         "2026-11-18": 159.95,
         "2026-11-19": 159.95,
-        "2026-11-20": 159.95
+        "2026-11-20": 159.95,
+        "2026-11-21": 159.95
       },
       "low_price": 159.95,
       "ph_ean": "8711473866520",
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Royal Christmas",
@@ -232,11 +235,12 @@
       "ph": {
         "2026-11-18": 252.53,
         "2026-11-19": 252.53,
-        "2026-11-20": 252.53
+        "2026-11-20": 252.53,
+        "2026-11-21": 252.53
       },
       "low_price": 252.53,
       "ph_ean": "8717591890119",
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Everlands",
@@ -271,18 +275,19 @@
       "ph": {
         "2026-11-18": 102.8,
         "2026-11-19": 107.95,
-        "2026-11-20": 109.0
+        "2026-11-20": 109.0,
+        "2026-11-21": 109.0
       },
       "low_price": 102.8,
       "ph_ean": "8718532241526",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "prev_price": 107.95,
       "prev_date": "2026-11-19"
     },
     {
       "brand": "Triumph Tree",
       "name": "Forrester 215 cm",
-      "price": 89.0,
+      "price": 84.99,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,2 van 5",
@@ -312,16 +317,19 @@
       "ph": {
         "2026-11-18": 89.0,
         "2026-11-19": 89.0,
-        "2026-11-20": 89.0
+        "2026-11-20": 89.0,
+        "2026-11-21": 84.99
       },
-      "low_price": 89.0,
+      "low_price": 84.99,
       "ph_ean": "8718861510645",
-      "synced": "2026-11-20"
+      "synced": "2026-11-21",
+      "prev_price": 89.0,
+      "prev_date": "2026-11-20"
     },
     {
       "brand": "Everlands",
       "name": "Allison Fir 210 cm met 430 lampjes",
-      "price": 138.9,
+      "price": 131.99,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -351,13 +359,14 @@
       "ph": {
         "2026-11-18": 131.99,
         "2026-11-19": 134.7,
-        "2026-11-20": 138.9
+        "2026-11-20": 138.9,
+        "2026-11-21": 131.99
       },
       "low_price": 131.99,
       "ph_ean": "8720194655191",
-      "synced": "2026-11-20",
-      "prev_price": 134.7,
-      "prev_date": "2026-11-19"
+      "synced": "2026-11-21",
+      "prev_price": 138.9,
+      "prev_date": "2026-11-20"
     },
     {
       "brand": "Royal Christmas",
@@ -392,11 +401,12 @@
       "ph": {
         "2026-11-18": 159.0,
         "2026-11-19": 159.0,
-        "2026-11-20": 159.0
+        "2026-11-20": 159.0,
+        "2026-11-21": 159.0
       },
       "low_price": 159.0,
       "ph_ean": "8717931858014",
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Royal Christmas",
@@ -425,17 +435,18 @@
       "text": "De Washington is het klassieke PVC-model van Royal Christmas en in de 210 cm-versie heeft hij 1.524 takken. Dat is veel en dat zie je: na het uitbuigen is de boom dicht, met weinig zicht op de stam. Het is een boom die het goed doet in een traditionele woonkamer, met een volle kegelvorm en een egale groene kleur.\n\nOmdat hij volledig van PVC is gemaakt, zijn de naalden plat en iets glanzender dan bij de Bergen of de Rockefeller van hetzelfde merk. Van een afstand en met verlichting en ballen erin valt dat nauwelijks op. De takken zitten met scharnieren aan de stam, waardoor je hem in korte tijd opzet. Ook opbergen gaat makkelijk: takken omhoog klappen en de delen in de doos. Er is ook een versie met ingebouwde ledverlichting voor rond de 140 euro. De uitvoering zonder licht is de voordeligste manier om een volle boom van deze hoogte in huis te halen.",
       "ean": "8717931854382",
       "rating": 4.5,
-      "bol_title": "Royal Christmas - Kunstkerstboom - Washington - PVC - 210 cm - 1524 Takken",
+      "bol_title": "Royal Christmas - Kunstkerstboom 210cm - Washington - PVC 1524 Takken",
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-kunstkerstboom-washington-210-cm/9200000053063005/",
       "image": "https://media.s-bol.com/VGQwxpzy4wm5/qjDmzKp/550x816.jpg",
       "ph": {
         "2026-11-18": 109.0,
         "2026-11-19": 109.0,
-        "2026-11-20": 109.0
+        "2026-11-20": 109.0,
+        "2026-11-21": 109.0
       },
       "low_price": 109.0,
       "ph_ean": "8717931854382",
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Everlands",
@@ -470,11 +481,12 @@
       "ph": {
         "2026-11-18": 43.99,
         "2026-11-19": 49.99,
-        "2026-11-20": 49.99
+        "2026-11-20": 49.99,
+        "2026-11-21": 49.99
       },
       "low_price": 43.99,
       "ph_ean": "8718533661392",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "prev_price": 43.99,
       "prev_date": "2026-11-18"
     }

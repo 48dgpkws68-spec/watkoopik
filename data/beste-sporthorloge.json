@@ -52,11 +52,12 @@
       "url": "https://www.bol.com/nl/nl/p/garmin-forerunner-265-sporthorloge-gps-amoled-46-mm-zwart/9300000382593952/",
       "image": "https://media.s-bol.com/mvRg8LjXpg2n/nxnOkwW/550x808.jpg",
       "ph": {
-        "2026-11-20": 309.0
+        "2026-11-20": 309.0,
+        "2026-11-21": 309.0
       },
       "low_price": 309.0,
       "ph_ean": "7694642609788",
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Garmin",
@@ -92,11 +93,12 @@
       "url": "https://www.bol.com/nl/nl/p/garmin-fenix-8-pro-smartwatch-47-mm-amoled-ingebouwde-inreach-technologie-lte-connectiviteit-tot-15-dagen-batterijduur-titanium/9300000239566539/",
       "image": "https://media.s-bol.com/rDY7n43ZmDR4/oY7Wznk/550x721.jpg",
       "ph": {
-        "2026-11-20": 699.0
+        "2026-11-20": 699.0,
+        "2026-11-21": 699.0
       },
       "low_price": 699.0,
       "ph_ean": "0753759350949",
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "COROS",
@@ -128,7 +130,7 @@
       "bol_title": "COROS Sporthorloge - Pace 4 - Silicone - Black - 43mm",
       "url": "https://www.bol.com/nl/nl/p/coros-sporthorloge-pace-4-silicone-black/9300000250504564/",
       "image": "https://media.s-bol.com/6QMOqGPkwJ89/3lDyxxx/550x733.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-15": 269.0,
         "2026-10-16": 269.0,
@@ -164,7 +166,8 @@
         "2026-11-17": 269.0,
         "2026-11-18": 269.0,
         "2026-11-19": 269.0,
-        "2026-11-20": 269.0
+        "2026-11-20": 269.0,
+        "2026-11-21": 269.0
       },
       "low_price": 269.0,
       "ph_ean": "0810005785013",
@@ -200,7 +203,7 @@
       "bol_title": "Garmin Forerunner 165 - Hardloophorloge - Black-Slate Grey",
       "url": "https://www.bol.com/nl/nl/p/garmin-forerunner-165-lichtgewicht-gps-hardloophorloge-amoled-beeldscherm-nauwkeurig-tempo-afstand-en-hartslag-aanpasbare-trainingsschema-s-tot-11-dagen-batterij-black-slate-grey/9300000167888717/",
       "image": "https://media.s-bol.com/nj1oG74jBWlR/J6629j2/542x840.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-15": 204.0,
         "2026-10-16": 204.0,
@@ -236,7 +239,8 @@
         "2026-11-17": 179.0,
         "2026-11-18": 179.0,
         "2026-11-19": 179.0,
-        "2026-11-20": 179.0
+        "2026-11-20": 179.0,
+        "2026-11-21": 179.0
       },
       "low_price": 179.0,
       "prev_price": 207.0,
@@ -274,7 +278,7 @@
       "bol_title": "Garmin Venu 4 - Multisport smartwach - 41 mm - AMOLED - Slate Grijs/Zwart",
       "url": "https://www.bol.com/nl/nl/p/garmin-venu-4-multisport-smartwach-41-mm-amoled-slate-grijs-zwart/9300000240775275/",
       "image": "https://media.s-bol.com/7ZyBRP2yo8oO/Bg9JnRo/522x840.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-15": 433.0,
         "2026-10-16": 433.0,
@@ -310,7 +314,8 @@
         "2026-11-17": 399.0,
         "2026-11-18": 399.0,
         "2026-11-19": 399.0,
-        "2026-11-20": 399.0
+        "2026-11-20": 399.0,
+        "2026-11-21": 399.0
       },
       "low_price": 399.0,
       "prev_price": 429.0,
@@ -348,7 +353,7 @@
       "bol_title": "Polar Vantage M3 Multisport Smartwatch - Greige/goud - S en M/L",
       "url": "https://www.bol.com/nl/nl/p/polar-vantage-m3-multisport-smartwatch-greige-goud-s-en-m-l/9300000189591659/",
       "image": "https://media.s-bol.com/Nogq4OM9mM6K/DkW7Y8A/550x791.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-15": 315.95,
         "2026-10-16": 315.95,
@@ -384,7 +389,8 @@
         "2026-11-17": 292.95,
         "2026-11-18": 292.95,
         "2026-11-19": 292.95,
-        "2026-11-20": 292.95
+        "2026-11-20": 292.95,
+        "2026-11-21": 292.95
       },
       "low_price": 292.95,
       "prev_price": 299.0,
@@ -395,7 +401,7 @@
     {
       "brand": "Garmin",
       "name": "Vivoactive 5",
-      "price": 179.0,
+      "price": 172.5,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -422,7 +428,7 @@
       "bol_title": "Garmin Vivoactive 5 - Sporthorloge - AMOLED-Scherm - Zwart",
       "url": "https://www.bol.com/nl/nl/p/garmin-vivoactive-5-music-smartwatch-sporthorloge-amoled-scherm-11-dagen-batterij-sportapps-30-meditatie-garmin-pay-slaapcoaching-zwart/9300000160618623/",
       "image": "https://media.s-bol.com/D2ngRN8zRpjB/Y1A270/550x745.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-15": 181.95,
         "2026-10-16": 181.95,
@@ -458,11 +464,12 @@
         "2026-11-17": 188.99,
         "2026-11-18": 189.99,
         "2026-11-19": 185.99,
-        "2026-11-20": 179.0
+        "2026-11-20": 179.0,
+        "2026-11-21": 172.5
       },
-      "low_price": 176.99,
-      "prev_price": 185.99,
-      "prev_date": "2026-11-19",
+      "low_price": 172.5,
+      "prev_price": 179.0,
+      "prev_date": "2026-11-20",
       "ph_ean": "0753759324902",
       "rating": 4.4
     },
@@ -508,10 +515,11 @@
         "2026-11-17": 164.99,
         "2026-11-18": 158.92,
         "2026-11-19": 158.92,
-        "2026-11-20": 158.92
+        "2026-11-20": 158.92,
+        "2026-11-21": 158.92
       },
       "low_price": 158.92,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "prev_price": 164.99,
       "prev_date": "2026-11-17",
       "ph_ean": "0725882060453",
@@ -547,7 +555,7 @@
       "bol_title": "Garmin Forerunner 55 - Sporthorloge met GPS Tracker - Geschikt voor Hardlopen - 42mm - Zwart",
       "url": "https://www.bol.com/nl/nl/p/garmin-forerunner-55-hardloophorloge-sporthorloge-met-gps-tracker-geschikt-voor-hardlopen-train-met-garmin-coach-zwart/9300000033849261/",
       "image": "https://media.s-bol.com/xjQwOBXvg7pl/6mxB6l/550x679.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-15": 157.99,
         "2026-10-16": 158.0,
@@ -583,7 +591,8 @@
         "2026-11-17": 143.0,
         "2026-11-18": 143.0,
         "2026-11-19": 143.0,
-        "2026-11-20": 143.0
+        "2026-11-20": 143.0,
+        "2026-11-21": 143.0
       },
       "low_price": 143.0,
       "prev_price": 149.0,
@@ -621,7 +630,7 @@
       "bol_title": "Polar Ignite 2 Smartwatch Sportwatch Activity Tracker Black/Pearl S-L",
       "url": "https://www.bol.com/nl/nl/p/polar-ignite-2-smartwatch-sportwatch-activity-tracker-black-pearl-s-l/9300000033034677/",
       "image": "https://media.s-bol.com/xlKNAxLXY0q3/550x765.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-15": 123.95,
         "2026-10-16": 123.95,
@@ -657,7 +666,8 @@
         "2026-11-17": 125.0,
         "2026-11-18": 125.0,
         "2026-11-19": 125.0,
-        "2026-11-20": 125.0
+        "2026-11-20": 125.0,
+        "2026-11-21": 125.0
       },
       "low_price": 121.0,
       "prev_price": 128.95,

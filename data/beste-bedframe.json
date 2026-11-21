@@ -54,11 +54,12 @@
       "image": "https://media.s-bol.com/NGjEnJlRYG46/1PjQ6j/550x322.jpg",
       "ph": {
         "2026-11-19": 569.99,
-        "2026-11-20": 569.99
+        "2026-11-20": 569.99,
+        "2026-11-21": 569.99
       },
       "low_price": 569.99,
       "ph_ean": "4251682293594",
-      "synced": "2026-11-20"
+      "synced": "2026-11-21"
     },
     {
       "brand": "Zuiver",
@@ -91,7 +92,7 @@
       "bol_title": "Zuiver Storm Bed Naturel 160",
       "url": "https://www.bol.com/nl/nl/p/zuiver-storm-bed-naturel-160/9300000337653049/",
       "image": "https://media.s-bol.com/O4G7oNlqgM4Q/4Q91r9J/550x389.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-21": 1619.0,
         "2026-10-23": 1619.0,
@@ -121,7 +122,8 @@
         "2026-11-17": 1295.2,
         "2026-11-18": 1295.2,
         "2026-11-19": 1295.2,
-        "2026-11-20": 1295.2
+        "2026-11-20": 1295.2,
+        "2026-11-21": 1295.2
       },
       "low_price": 1295.2,
       "ph_ean": "8721515300035",
@@ -159,7 +161,7 @@
       "bol_title": "Metalen bed tweepersoonsbed Trerunta met bedbodem 180x200 cm zwart [en.casa]",
       "url": "https://www.bol.com/nl/nl/p/metalen-bed-tweepersoonsbed-trerunta-met-bedbodem-180x200-cm-zwart/9300000197593196/",
       "image": "https://media.s-bol.com/x0zG49GXOoK3/n5orwOD/550x550.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-21": 107.99,
         "2026-10-23": 107.99,
@@ -189,7 +191,8 @@
         "2026-11-17": 107.99,
         "2026-11-18": 107.99,
         "2026-11-19": 107.99,
-        "2026-11-20": 111.99
+        "2026-11-20": 111.99,
+        "2026-11-21": 111.99
       },
       "low_price": 107.99,
       "ph_ean": "4059438888885",
@@ -228,7 +231,7 @@
       "bol_title": "Meubella - Tweepersoonsbed Christ - Grijs - 160x200",
       "url": "https://www.bol.com/nl/nl/p/meubella-tweepersoonsbed-christ-grijs-160x200/9300000237532787/",
       "image": "https://media.s-bol.com/qz46zDDK08Ey/J8j9OvK/550x550.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-21": 229.0,
         "2026-10-23": 229.0,
@@ -258,7 +261,8 @@
         "2026-11-17": 229.0,
         "2026-11-18": 229.0,
         "2026-11-19": 229.0,
-        "2026-11-20": 229.0
+        "2026-11-20": 229.0,
+        "2026-11-21": 229.0
       },
       "low_price": 229.0,
       "ph_ean": "8721352703198",
@@ -295,7 +299,7 @@
       "bol_title": "Meubella - Tweepersoonsbed Nolena - Beige stof - 160x200 cm",
       "url": "https://www.bol.com/nl/nl/p/meubella-tweepersoonsbed-nolena-beige-stof-160x200-cm/9300000238723428/",
       "image": "https://media.s-bol.com/jp45XoM5GVNv/A67Yyy7/550x550.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-21": 699.0,
         "2026-10-23": 699.0,
@@ -325,7 +329,8 @@
         "2026-11-17": 699.0,
         "2026-11-18": 699.0,
         "2026-11-19": 699.0,
-        "2026-11-20": 699.0
+        "2026-11-20": 699.0,
+        "2026-11-21": 699.0
       },
       "low_price": 699.0,
       "ph_ean": "8721352703907"
@@ -361,7 +366,7 @@
       "bol_title": "Bed Box Wonen Virginia metalen bed Wit 180x200 cm",
       "url": "https://www.bol.com/nl/nl/p/bed-box-wonen-virginia-metalen-bed-wit-180x200/9300000133496424/",
       "image": "https://media.s-bol.com/m01OpM9QJ5YE/l0ORlg/550x344.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-21": 503.0,
         "2026-10-23": 503.0,
@@ -391,7 +396,8 @@
         "2026-11-17": 503.0,
         "2026-11-18": 503.0,
         "2026-11-19": 503.0,
-        "2026-11-20": 503.0
+        "2026-11-20": 503.0,
+        "2026-11-21": 503.0
       },
       "low_price": 503.0,
       "ph_ean": "6096349033001",
@@ -403,7 +409,7 @@
       "price": 299.0,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 3,9 van 5",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Extra stevig stalen bedframe dat tot 600 kg draagt.",
       "specs": {
         "Matrasmaat": "140x200 cm",
@@ -428,7 +434,7 @@
       "bol_title": "AirSleeperz® heavy duty metalen bedframe Job - Kleur zwart - Afmeting 140x200 cm - Voor 2 personen - Draagkracht 600 kg",
       "url": "https://www.bol.com/nl/nl/p/airsleeperz-heavy-duty-metalen-bedframe-burhara-kleur-zwart-afmeting-140x200-cm-voor-2-personen-draagkracht-600-kg/9300000177323278/",
       "image": "https://media.s-bol.com/qnoGOR4MZAkR/68WQYvO/550x550.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-21": 349.0,
         "2026-10-23": 349.0,
@@ -458,13 +464,14 @@
         "2026-11-17": 299.0,
         "2026-11-18": 299.0,
         "2026-11-19": 299.0,
-        "2026-11-20": 299.0
+        "2026-11-20": 299.0,
+        "2026-11-21": 299.0
       },
       "low_price": 299.0,
       "ph_ean": "8721082815000",
       "prev_price": 349.0,
       "prev_date": "2026-11-14",
-      "rating": 3.9
+      "rating": 4.0
     },
     {
       "brand": "Homestyle4u",
@@ -497,7 +504,7 @@
       "bol_title": "Homestyle4u Tweepersoonsbed 160x200 cm - Houten bed - Bedframe - wit",
       "url": "https://www.bol.com/nl/nl/p/homestyle4u-tweepersoonsbed-160x200-cm-houten-bed-bedframe-wit/9300000113103299/",
       "image": "https://media.s-bol.com/ggONGlK79JWl/vopvEg5/550x549.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-21": 169.95,
         "2026-10-23": 169.95,
@@ -527,7 +534,8 @@
         "2026-11-17": 169.95,
         "2026-11-18": 169.95,
         "2026-11-19": 169.95,
-        "2026-11-20": 169.95
+        "2026-11-20": 169.95,
+        "2026-11-21": 169.95
       },
       "low_price": 169.95,
       "ph_ean": "4251285376106",
@@ -564,7 +572,7 @@
       "bol_title": "vidaXL - Bedframe - met - hoofdbord - metaal - zwart - 180x200 - cm",
       "url": "https://www.bol.com/nl/nl/p/vidaxl-bedframe-met-hoofdbord-metaal-zwart-180x200-cm/9300000172200466/",
       "image": "https://media.s-bol.com/mWB7LvJ17EvR/Z6G6Kxw/550x241.jpg",
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph": {
         "2026-10-21": 141.66,
         "2026-10-23": 141.66,
@@ -594,7 +602,8 @@
         "2026-11-17": 145.89,
         "2026-11-18": 145.89,
         "2026-11-19": 145.89,
-        "2026-11-20": 145.89
+        "2026-11-20": 145.89,
+        "2026-11-21": 145.89
       },
       "low_price": 141.66,
       "prev_price": 144.5,
@@ -649,10 +658,11 @@
         "2026-11-17": 87.86,
         "2026-11-18": 87.86,
         "2026-11-19": 87.86,
-        "2026-11-20": 87.86
+        "2026-11-20": 87.86,
+        "2026-11-21": 87.86
       },
       "low_price": 87.86,
-      "synced": "2026-11-20",
+      "synced": "2026-11-21",
       "ph_ean": "0630130650761",
       "prev_price": 109.99,
       "prev_date": "2026-11-14",
