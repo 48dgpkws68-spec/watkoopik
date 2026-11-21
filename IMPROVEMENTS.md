@@ -408,3 +408,5 @@ Elke avond kiest de verbeterronde 1 tot 3 verbeteringen op basis van Umami, Sear
 - Idee voor later: zwakke vervangers nalopen: QH-OR op voet heeft bol-score 1,0 (infraroodpaneel #4), DreamGoods 12000 (995, bol 3,8) als nr. 1 mobiele airco, M2 8 GB als nr. 1 studentenlaptop, Redmi Note 14 Pro+ 273 zit krap onder 276, PS5 Pro 1.789 ver boven adviesprijs, twee Ozlo's in oordopjes-slapen.
 - Idee voor later: specs uit eigen kennis zonder bol-bron controleren: 65OLED850 120 Hz, M5 Center Stage-webcam, Redmi Snapdragon 7s Gen 3.
 - Voor Nick: niets.
+
+- 2026-11-21 nacht (groeimotor, 3bc845d7) · llms.txt: nieuw blok "Eigen prijsmetingen" bovenaan met de Black Friday-datapagina (cijfers van de dag, tot 1 dec), aanbiedingen en prijsverloop. Reden: E22 verloren (interne BF-link 0 kliks); ChatGPT is de motor, dus de datapagina daar zichtbaar maken. Meet mee met E5.

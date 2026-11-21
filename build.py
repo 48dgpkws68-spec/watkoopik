@@ -788,6 +788,41 @@ def upgrade_tip(g):
     return '<div class="upg"><span class="upg-lbl">Meer budget?</span><p>Onze premiumkeuze is nr. %d: de <b>%s %s</b> voor %s. %s%s</p>%s</div>' % (
         pr["rank"], e(pr["brand"]), e(pr["name"]), eur(pr["price"]), e(pr["oneliner"].rstrip(".") + "."), e(extra), shop_a(pr, g, "btn btn-buy btn-sm", "upgrade"))
 
+# K2 (groeimotor, 21 nov 2026): budgetregel op de tv-inchgidsen en maatregel op de tv-budgetgidsen.
+# ChatGPT stuurt bezoekers op maat (tv 50/55/65/75 inch), gekocht wordt op budget (tv onder 300/500).
+# Staat UIT tot het experimentplafond (< 15 lopend) het toelaat: K2_AAN = True zetten en experiment registreren.
+K2_AAN = False
+K2_BUDGET = [300, 400, 500, 750, 1000, 1500]
+def _k2_inch(p):
+    m = re.match(r"\s*(\d{2})\s*inch", str((p.get("specs") or {}).get("Formaat", "")))
+    return int(m.group(1)) if m else None
+def k2_html(g):
+    if not K2_AAN: return ""
+    m = re.fullmatch(r"beste-tv-(\d{2})-inch", g["slug"])
+    if m:
+        inch = int(m.group(1)); seen = set(); items = []
+        top_price = g["products"][0].get("price") or 0
+        for b in K2_BUDGET:
+            bg = _by_slug.get("beste-tv-onder-%d-euro" % b)
+            if not bg: continue
+            p = next((x for x in bg["products"] if _k2_inch(x) == inch and x.get("price") and x["price"] <= b), None)
+            if not p or (p["brand"], p["name"]) in seen or p["price"] >= top_price: continue
+            seen.add((p["brand"], p["name"]))
+            items.append('<a href="../%s#p%d" data-umami-event="budget-link" data-umami-event-gids="%s" data-umami-event-budget="%d">Onder %d euro: <b>%s %s</b> · %s</a>' % (bg["url"], p["rank"], e(g["slug"]), b, b, e(p["brand"]), e(p["name"]), eur(p["price"])))
+            if len(items) == 3: break
+        if not items: return ""
+        return '<div class="k2"><span class="upg-lbl">Vast budget?</span><p>De beste %d inch tv per budget, uit onze budgetgidsen:</p><div class="k2-l">%s</div></div>' % (inch, "".join(items))
+    m = re.fullmatch(r"beste-tv-onder-(\d+)-euro", g["slug"])
+    if m:
+        cnt = {}
+        for x in g["products"]:
+            i = _k2_inch(x)
+            if i: cnt[i] = cnt.get(i, 0) + 1
+        chips = ['<a href="../%s" data-umami-event="maat-link" data-umami-event-gids="%s" data-umami-event-maat="%d">%d inch <small>(%d in deze lijst)</small></a>' % (_by_slug["beste-tv-%d-inch" % i]["url"], e(g["slug"]), i, i, cnt[i]) for i in sorted(cnt) if ("beste-tv-%d-inch" % i) in _by_slug]
+        if len(chips) < 2: return ""
+        return '<div class="k2"><span class="upg-lbl">Vaste maat?</span><p>Bekijk de beste tv per schermmaat:</p><div class="k2-l">%s</div></div>' % "".join(chips)
+    return ""
+
 def bars(p, g):
     """Deelscores afgeleid van totaalscore en prijspositie binnen de gids (voor visuele vergelijking)."""
     prices = sorted(x["price"] for x in g["products"]); pos = prices.index(p["price"]) / max(1, len(prices) - 1)
@@ -890,7 +925,7 @@ for g in guides:
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(gmod(g))), len(ps), "",
-        own_pos(g, "boven"), podium, own_pos(g, "onder") + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        own_pos(g, "boven"), podium, own_pos(g, "onder") + k2_html(g) + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = zoekterm(g)  # zoekterm voor titel en meta; query blijft de bol-zoekterm

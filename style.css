@@ -565,3 +565,8 @@ section .wrap.narrow.rv{background:rgba(18,10,40,.5);border:1px solid var(--line
 /* logboek per gids (N32 stap 3, 13 nov 2026) */
 .logb ul{padding-left:20px;margin:10px 0 4px}
 .logb li{margin:7px 0;line-height:1.55}
+.k2{margin:14px 0 0;padding:14px 16px;border-radius:16px;border:1px dashed var(--line);background:rgba(124,92,255,.06);font-size:.94rem}
+.k2 p{margin:6px 0 10px}
+.k2-l{display:flex;flex-wrap:wrap;gap:8px}
+.k2-l a{display:inline-block;padding:8px 12px;border-radius:12px;border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.k2-l a small{opacity:.7}
