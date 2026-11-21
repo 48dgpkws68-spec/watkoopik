@@ -595,68 +595,42 @@
     },
     {
       "brand": "VH",
-      "name": "Infrarood paneel Superia 450 W",
-      "price": 119.95,
+      "name": "Infrarood paneel Superia 600 W",
+      "price": 139.95,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,1 van 5",
-      "oneliner": "Infraroodpaneel met thermostaat, wifi en afstandsbediening voor aan de muur of vrijstaand.",
+      "oneliner": "Infraroodpaneel van 600 watt met thermostaat, wifi en afstandsbediening.",
       "specs": {
         "Type": "Infraroodpaneel",
-        "Vermogen": "450 W",
+        "Vermogen": "600 W",
         "Thermostaat": "Digitaal, app",
         "Timer": "Ja",
-        "Kosten per uur": "max. € 0,14"
+        "Kosten per uur": "max. € 0,18"
       },
       "pros": [
-        "Laag vermogen van 450 watt",
-        "Thermostaat, wifi en afstandsbediening",
+        "Laag vermogen van 600 watt",
+        "Thermostaat met tweede sensor, wifi en afstandsbediening",
         "Aan de muur of vrijstaand te gebruiken",
-        "Plat paneel van 50 bij 90 cm"
+        "Spatwaterdicht (IPX4), ook voor de badkamer"
       ],
       "cons": [
         "Beoordelingen zijn wisselend",
-        "Alleen voor een kleine plek of ruimte"
+        "Paneel van 100 cm breed, alleen liggend te gebruiken"
       ],
-      "ideal": "Wie een kleine werkplek of hal zuinig warm wil houden met een paneel dat je ook kunt verplaatsen.",
-      "text": "Het VH Superia-paneel is een plat infraroodpaneel van 450 watt dat je aan de muur hangt of op voetjes zet. Net als bij de andere panelen in deze lijst zit de besparing in gericht verwarmen: je voelt de straling op je huid, waardoor de kamer zelf minder warm hoeft te zijn. VH levert er een thermostaat en afstandsbediening bij. Via wifi stel je ook vanaf je telefoon een schema in.\n\nBij 0,30 euro per kWh kost een uur op vol vermogen ongeveer 14 cent. Dat maakt hem geschikt voor een plek waar je lang zit, zoals een thuiswerkhoek of een kleine hal die net niet koud mag worden. Omdat hij ook vrijstaand kan, neem je hem mee naar de plek waar je hem nodig hebt. Kopers op bol geven hem gemiddeld een 4,1 van 5. Tevreden kopers noemen de warmte op korte afstand, anderen hadden meer verwacht in een grotere kamer.",
-      "ean": "8719874750844",
-      "bol_title": "VH Infrarood paneel Superia - 50 x 90 cm - 450 Watt - Inclusief thermostaat - Smart Wifi - Afstandsbediening - Wandmontage & Vrijstaand - Mobiel infraroodpaneel",
-      "url": "https://www.bol.com/nl/nl/p/vh-infrarood-paneel-superia-50x90cm-450w-wandmontage-vrijstaand/9200000106114993/",
-      "image": "https://media.s-bol.com/j1BJxDLDX374/y8g8NoP/550x568.jpg",
+      "ideal": "Wie een thuiswerkplek, hal of badkamer zuinig warm wil houden met een paneel dat je ook kunt verplaatsen.",
+      "text": "Het VH Superia-paneel is een plat infraroodpaneel van 600 watt en 60 bij 100 centimeter dat je aan de muur hangt of op de meegeleverde voetjes zet. Net als bij de andere panelen in deze lijst zit de besparing in gericht verwarmen: je voelt de straling op je huid, waardoor de kamer zelf minder warm hoeft te zijn. De thermostaat zit in het paneel en werkt met een tweede temperatuursensor. Via wifi en de Tuya-app stel je vanaf je telefoon een schema in en er zit ook een afstandsbediening bij.\n\nBij 0,30 euro per kWh kost een uur op vol vermogen ongeveer 18 cent. Dat maakt hem geschikt voor een plek waar je lang zit, zoals een thuiswerkhoek. Het paneel is spatwaterdicht volgens IPX4, dus ook de badkamer is een optie. Let op de breedte: hij kan alleen liggend hangen en vraagt een meter ruimte. Kopers op bol geven hem gemiddeld een 4,1 van 5, met lof voor de warmte op korte afstand.",
+      "ean": "8719874750851",
+      "rating": 4.1,
+      "bol_title": "VH Infrarood paneel Superia - 60 x 100 cm - 600 Watt - Compleet met thermostaat - Wifi functie - Afstandsbediening - Wandmontage & Vrijstaand - Ideaal voor bijverwarming - Verplaatsbaar",
+      "url": "https://www.bol.com/nl/nl/p/vh-infrarood-paneel-superia-60x100cm-600w-wandmontage-vrijstaand/9200000106114995/",
+      "image": "https://media.s-bol.com/qvDJk7Y2GRNG/MQ5oOL5/550x568.jpg",
       "ph": {
-        "2026-10-27": 129.0,
-        "2026-10-28": 129.0,
-        "2026-10-29": 129.0,
-        "2026-10-30": 129.0,
-        "2026-10-31": 129.0,
-        "2026-11-01": 129.0,
-        "2026-11-02": 129.0,
-        "2026-11-03": 129.0,
-        "2026-11-04": 129.0,
-        "2026-11-05": 129.0,
-        "2026-11-06": 122.5,
-        "2026-11-07": 122.5,
-        "2026-11-08": 122.5,
-        "2026-11-09": 122.5,
-        "2026-11-10": 122.5,
-        "2026-11-11": 122.5,
-        "2026-11-12": 122.5,
-        "2026-11-13": 122.5,
-        "2026-11-14": 122.5,
-        "2026-11-16": 119.95,
-        "2026-11-17": 119.95,
-        "2026-11-18": 119.95,
-        "2026-11-19": 119.95,
-        "2026-11-20": 119.95,
-        "2026-11-21": 119.95
+        "2026-11-21": 139.95
       },
-      "low_price": 119.95,
-      "synced": "2026-11-21",
-      "prev_price": 122.5,
-      "prev_date": "2026-11-14",
-      "ph_ean": "8719874750844",
-      "rating": 4.1
+      "low_price": 139.95,
+      "ph_ean": "8719874750851",
+      "synced": "2026-11-21"
     }
   ],
   "guide": [
@@ -720,6 +694,12 @@
   "meta_title": "Zuinigste elektrische kachel 2026: top 10 vergeleken",
   "meta_desc": "De zuinigste elektrische kachel van 2026 is de {top}. Top 10 vergeleken op verbruik, thermostaat, warmte per watt en prijs, met rekenvoorbeeld per uur.",
   "wissels": [
+    {
+      "d": "2026-11-21",
+      "uit": "VH Infrarood paneel Superia 450 W",
+      "in": "VH Infrarood paneel Superia 600 W",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-17",
       "uit": "Komodo Infrarood verwarmingspaneel 450 W",

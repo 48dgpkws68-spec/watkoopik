@@ -383,24 +383,24 @@
     },
     {
       "brand": "LG",
-      "name": "43NU800B6LC",
-      "price": 329.0,
+      "name": "43NU850B6LA",
+      "price": 349.0,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Betaalbare 43 inch NanoCell-tv van LG met webOS.",
+      "reviews": "",
+      "oneliner": "Kleine NanoCell-tv van LG uit 2026 met webOS.",
       "specs": {
         "Formaat": "43 inch",
         "Paneel": "NanoCell (LED)",
         "Verversing": "60 Hz",
         "HDR": "HDR10, HLG",
-        "Smart-tv": "webOS 26"
+        "Smart-tv": "webOS"
       },
       "pros": [
-        "webOS met Google Cast en AirPlay",
+        "webOS met de grote streamingapps",
         "Minstens vijf jaar updates",
-        "VRR, ALLM en Filmmaker Mode",
-        "Bol-score van 5,0 uit 5"
+        "HDMI 2.1 met VRR en eARC",
+        "Leverbaar uit voorraad bij bol"
       ],
       "cons": [
         "Geen Dolby Vision",
@@ -408,18 +408,16 @@
         "Klein voor een woonkamer"
       ],
       "ideal": "Wie een kleine tv met goede software voor de slaapkamer of keuken zoekt.",
-      "text": "De LG 43NU800B6LC is een 43 inch tv uit 2026 met een NanoCell-paneel. LG gebruikt daarin de α7 AI-processor van de negende generatie, die beeld met een lagere resolutie opschaalt richting 4K. De Nano Detail Enhancer verbetert contrast en fijne details. HDR speelt hij af in HDR10 en HLG. Dolby Vision ontbreekt, dat heb je in deze lijst wel bij de Hisense E7S-modellen.\n\nHet sterkste punt is de software. webOS 26 heeft alle grote apps, LG Channels, Google Cast en Apple AirPlay. LG belooft minstens vijf jaar updates. Voor games zijn er VRR tot 60 Hz, ALLM en de Game Optimiser. Het geluid komt uit speakers van 20 watt met AI Sound Pro. Drie HDMI-poorten, waarvan één met eARC, laten ruimte voor een soundbar en een console. Het paneel draait op 60 Hz, prima voor tv en films. Kopers op bol geven hem een 5,0 van 5. Wil je een rijker beeld op 43 inch, dan is de LG 43QNED84A6 op plek 3 het alternatief.",
-      "ean": "8806096800799",
-      "rating": 5.0,
-      "bol_title": "LG 43NU800B6LC - 43 inch - 4K Nanocell - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/lg-43nu800b6lc-aeuq/9300000281110072/",
-      "image": "https://media.s-bol.com/qvWQXl43rNm0/oQl1pgK/550x356.jpg",
+      "text": "De LG 43NU850B6LA is een 43 inch tv uit 2026 met een NanoCell-paneel. Dat is een led-tv met een extra filterlaag die kleuren zuiverder maakt dan bij een gewone led-tv. De verlichting is direct-led, zonder lokale dimming. HDR speelt hij af in HDR10 en HLG. Dolby Vision ontbreekt, dat heb je in deze lijst wel bij de Hisense E7S-modellen.\n\nHet sterkste punt is de software. webOS heeft alle grote apps en LG belooft minstens vijf jaar updates. Er zijn drie HDMI 2.1-poorten, waarvan één met eARC voor een soundbar. VRR werkt ook, handig voor een console. Het paneel draait op 60 Hz, prima voor tv, series en films. Het geluid komt uit twee speakers van samen 20 watt met Dolby Digital. Bluetooth is aanwezig, dus een draadloze koptelefoon koppel je zonder kabel. Op bol staan nog geen reviews van dit model. Wil je een rijker beeld op 43 inch, dan is de LG 43QNED84A6 op plek 3 het alternatief.",
+      "ean": "8806096738856",
+      "bol_title": "LG 43NU850B6LA - 43 inch - 4K Nanocell - 2026",
+      "url": "https://www.bol.com/nl/nl/p/lg-nano-4k-uhd-ai-43nu850b6la-109-2-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000284733929/",
+      "image": "https://media.s-bol.com/rO2j70A5OKVE/wmY8ylR/550x375.jpg",
       "ph": {
-        "2026-11-19": 329.0,
-        "2026-11-20": 329.0
+        "2026-11-21": 349.0
       },
-      "low_price": 329.0,
-      "ph_ean": "8806096800799",
+      "low_price": 349.0,
+      "ph_ean": "8806096738856",
       "synced": "2026-11-21"
     },
     {
@@ -549,6 +547,12 @@
     ]
   },
   "wissels": [
+    {
+      "d": "2026-11-21",
+      "uit": "LG 43NU800B6LC",
+      "in": "LG 43NU850B6LA",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-19",
       "uit": "Hisense 43E7S",

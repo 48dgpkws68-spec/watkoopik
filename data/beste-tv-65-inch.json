@@ -18,7 +18,7 @@
   "updated": "2026-10-16",
   "reviews_total": "7.900",
   "intro": "Een 65 inch tv is in 2026 het populairste formaat voor de woonkamer: groot genoeg voor een echte bioscoopervaring, maar nog te passen in een gemiddelde Nederlandse huiskamer. Het aanbod loopt uiteen van een QLED-model van rond de 500 euro tot een QD-OLED van ruim 2.000 euro. Wij vergeleken modellen op beeldkwaliteit, helderheid, gaming-functies, smart-tv-systeem en de score bij bol. Dit zijn de tien beste 65 inch tv's die je nu kunt kopen, voor elk budget.",
-  "verdict": "De LG C5 OLED is de beste 65 inch tv voor de meeste mensen: perfect zwart, vier HDMI 2.1-poorten en een prijs die voor OLED heel redelijk is. Wil je het allerbeste beeld, dan is de Samsung S95H QD-OLED de premium keuze met de hoogste helderheid van alle OLED's. Zoek je de slimste koop, dan biedt de TCL 65C6KS met Mini LED, Dolby Vision en HDR10+ verrassend veel voor rond de 550 euro.",
+  "verdict": "De LG C5 OLED is de beste 65 inch tv voor de meeste mensen: perfect zwart, vier HDMI 2.1-poorten en een prijs die voor OLED heel redelijk is. Wil je het allerbeste beeld, dan is de Samsung S95H QD-OLED de premium keuze met de hoogste helderheid van alle OLED's. Zoek je de slimste koop, dan biedt de TCL 65T69C met Dolby Vision, HDR10+ en Google TV verrassend veel voor rond de 475 euro.",
   "products": [
     {
       "brand": "LG",
@@ -330,49 +330,42 @@
     },
     {
       "brand": "TCL",
-      "name": "65C6KS",
-      "price": 549.0,
-      "score": 8.9,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "65 inch QD-Mini LED met Dolby Vision en HDR10+ voor rond de 550 euro.",
+      "name": "65T69C",
+      "price": 476.13,
+      "score": 8.8,
+      "reviews": "bol-score 4,9 van 5",
+      "oneliner": "65 inch QLED met Dolby Vision en HDR10+ voor rond de 475 euro.",
       "specs": {
-        "Paneel": "QD-Mini LED",
-        "Beeldfrequentie": "60 Hz, VRR",
+        "Paneel": "QLED (direct-led)",
+        "Beeldfrequentie": "Tot 120 Hz, VRR",
         "Smart-tv": "Google TV",
-        "HDMI 2.1": "ja, met VRR",
-        "Geluid": "35 W, Dolby Atmos"
+        "HDMI 2.1": "ja, 3 poorten met VRR",
+        "Geluid": "20 W Onkyo, Dolby Atmos"
       },
       "pros": [
-        "65 inch QD-MiniLED voor rond de 550 euro",
-        "Dolby Vision en HDR10+",
-        "Google TV met Chromecast",
-        "HDMI 2.1 met VRR en een gamemodus"
+        "65 inch met Dolby Vision en HDR10+ voor rond de 475 euro",
+        "Google TV met Chromecast en AirPlay 2",
+        "Drie HDMI 2.1-poorten met VRR en eARC",
+        "Onkyo-speakers met Dolby Atmos"
       ],
       "cons": [
-        "Paneel van 60 Hz, minder geschikt voor snelle games",
-        "Geluid van 35 watt zonder subwoofer"
+        "Direct-led zonder Mini LED, dus minder diep zwart",
+        "Helderheid van 450 nits is bescheiden voor HDR"
       ],
-      "ideal": "Wie groot wil kijken met Mini LED en niet veel meer dan 500 euro wil uitgeven.",
-      "text": "De TCL 65C6KS brengt 65 inch Mini LED naar een prijs van ongeveer 550 euro. Quantum dots zorgen voor levendige kleuren en de Mini LED-verlichting dimt per zone, waardoor zwart dieper is dan bij de gewone QLED-tv's onderaan deze lijst. Dolby Vision en HDR10+ worden allebei ondersteund. Het aantal dimzones is kleiner dan bij de duurdere Mini LED-tv's, dus rond ondertitels kun je een lichte gloed zien.\n\nHet paneel draait op 60 Hz met VRR via HDMI 2.1, prima voor series en sport. Voor snelle games op 120 Hz of hoger zijn de duurdere tv's in deze lijst beter. Er zijn drie HDMI-poorten en Google TV bevat alle Nederlandse apps met Chromecast. Het geluid van 35 watt met Dolby Atmos is voldoende voor dagelijks kijken, voor films is een soundbar een verbetering. Kopers op bol geven hem gemiddeld 5,0 uit 5. Wie groot wil kijken zonder veel uit te geven, vindt hier de slimste koop.",
-      "ean": "5901292525828",
+      "ideal": "Wie groot wil kijken en niet meer dan 500 euro wil uitgeven.",
+      "text": "De TCL 65T69C is de goedkoopste 65 inch in deze lijst en kost bij bol rond de 475 euro. Het is een QLED uit 2025: quantum dots zorgen voor vollere kleuren dan bij een gewone led-tv. De verlichting is direct-led, dus zonder Mini LED en met minder diep zwart dan duurdere modellen. TCL geeft een helderheid van 450 nits en een contrast van 5000:1 op. Dolby Vision, HDR10+ en HLG worden alle drie ondersteund.\n\nEr zijn drie HDMI 2.1-poorten met VRR en eARC voor een soundbar. Volgens de specificaties bij bol gaat het paneel tot 120 Hz in de gamemodus, met een input lag van 15 milliseconden. Google TV heeft alle Nederlandse apps, met Chromecast en AirPlay 2 voor je telefoon. Het geluid komt van Onkyo-speakers van 20 watt met Dolby Atmos. De behuizing is frameloos met een metaalkleurige afwerking. Kopers op bol geven hem een 4,9 van 5. Wie groot wil kijken zonder veel uit te geven, vindt hier de slimste koop.",
+      "ean": "5901292528584",
       "label": "Beste prijs-kwaliteit",
-      "bol_title": "TCL 65C6KS - 65 inch - 4K QD-MiniLED - 2025",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65c6ks-65-ultra-hd-4k-qd-mini-led-smart-tv-google-tv-wifi-dolby-vision-iq-local-dimming-60hz/9300000227512976/",
-      "image": "https://media.s-bol.com/LOjW3XK3zEJX/31q238A/550x388.jpg",
+      "rating": 4.9,
+      "bol_title": "TCL 65T69C - 65 inch - 4K QLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65t69c-65-inch-4k-qled-2025/9300000237197713/",
+      "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
       "ph": {
-        "2026-11-12": 549.0,
-        "2026-11-13": 549.0,
-        "2026-11-14": 549.0,
-        "2026-11-16": 549.0,
-        "2026-11-17": 549.0,
-        "2026-11-18": 549.0,
-        "2026-11-19": 549.0,
-        "2026-11-20": 549.0
+        "2026-11-21": 476.13
       },
-      "low_price": 549.0,
-      "ph_ean": "5901292525828",
-      "synced": "2026-11-21",
-      "rating": 5.0
+      "low_price": 476.13,
+      "ph_ean": "5901292528584",
+      "synced": "2026-11-21"
     },
     {
       "brand": "Samsung",
@@ -462,7 +455,7 @@
       ],
       "cons": [
         "Geen Dolby Vision",
-        "Duurder dan de TCL 65C6KS, maar wel tot 144 Hz",
+        "Duurder dan de TCL 65T69C, maar met Mini LED en 144 Hz",
         "Bol-score lager dan bij de rest van de lijst"
       ],
       "ideal": "Wie een snelle 65 inch tv van een groot merk zoekt voor gamen en sport.",
@@ -777,11 +770,11 @@
       },
       {
         "h": "Speel je games op 120 Hz of hoger?",
-        "p": "Voor een PS5, Xbox Series X of gaming-pc wil je minimaal 120 Hz met VRR. De nr. 7 Samsung UE65M82H haalt 144 Hz voor minder dan € 850, net als de duurdere nr. 1 LG C5. De nr. 5 TCL 65C6KS en de nr. 9 TCL 65P71K hebben een 60 Hz-paneel en de nr. 8 Philips 65PQS8501 is vooral gemaakt voor tv en streamen: prima voor series, minder geschikt voor snelle games."
+        "p": "Voor een PS5, Xbox Series X of gaming-pc wil je minimaal 120 Hz met VRR. De nr. 7 Samsung UE65M82H haalt 144 Hz voor minder dan € 850, net als de duurdere nr. 1 LG C5. De nr. 5 TCL 65T69C gaat volgens bol tot 120 Hz in de gamemodus. De nr. 9 TCL 65P71K heeft een 60 Hz-paneel en de nr. 8 Philips 65PQS8501 is vooral gemaakt voor tv en streamen: prima voor series, minder geschikt voor snelle games."
       },
       {
         "h": "Hoeveel wil je uitgeven?",
-        "p": "Onder de € 650 kom je meestal uit bij QLED zonder lokale dimming, zoals de nr. 9 TCL 65P71K (€ 509) of de nr. 8 Philips 65PQS8501 (€ 649) met Ambilight. De nr. 5 TCL 65C6KS (€ 549) geeft je voor dat geld al Mini LED, maar op 60 Hz. Voor € 700 tot € 850 krijg je Mini LED met 144 Hz bij de nr. 7 Samsung UE65M82H. Voor OLED betaal je vanaf € 1.367 voor de nr. 1 LG C5."
+        "p": "Onder de € 650 kom je meestal uit bij QLED zonder lokale dimming, zoals de nr. 9 TCL 65P71K (€ 509) of de nr. 8 Philips 65PQS8501 (€ 649) met Ambilight. De nr. 5 TCL 65T69C (€ 476) is de goedkoopste in deze lijst, met Dolby Vision en HDR10+ maar zonder Mini LED. Voor € 700 tot € 850 krijg je Mini LED met 144 Hz bij de nr. 7 Samsung UE65M82H. Voor OLED betaal je vanaf € 1.367 voor de nr. 1 LG C5."
       }
     ],
     "wanneer": [
@@ -796,5 +789,13 @@
     ]
   },
   "meta_title": "Beste 65 inch tv 2026: OLED, QLED en Mini LED vergeleken",
-  "meta_desc": "De beste 65 inch tv van 2026 is de {top}. Top 10 tv's van 65 inch vergeleken op beeld, HDR, gaming en prijs, met de beste prijs-kwaliteit."
+  "meta_desc": "De beste 65 inch tv van 2026 is de {top}. Top 10 tv's van 65 inch vergeleken op beeld, HDR, gaming en prijs, met de beste prijs-kwaliteit.",
+  "wissels": [
+    {
+      "d": "2026-11-21",
+      "uit": "TCL 65C6KS",
+      "in": "TCL 65T69C",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

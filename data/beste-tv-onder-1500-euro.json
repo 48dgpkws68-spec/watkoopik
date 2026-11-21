@@ -29,7 +29,7 @@
     "beste-tv-75-inch"
   ],
   "intro": "Met een budget tussen 1000 en 1500 euro koop je geen gewone tv meer. Je kiest tussen een 65 inch OLED met perfect zwart, een felle mini-led op 75 of zelfs 85 inch of een 55 inch topmodel met antireflectiescherm. Wij vergeleken tv's onder 1500 euro op beeldtechniek, formaat, HDR, HDMI 2.1, verversing en ervaringen van kopers op bol. Hieronder lees je per tv wat je extra krijgt ten opzichte van een tv onder 1000 euro.",
-  "verdict": "De LG C5 op 65 inch is de beste tv onder 1500 euro: een OLED evo met vier HDMI 2.1-poorten en 144 Hz voor rond de 1370 euro. Wil je zoveel mogelijk OLED voor je geld, dan geeft de LG B5 dezelfde 65 inch voor rond de 1175 euro. De Samsung QE55S95H is de premiumkeuze met QD-OLED en een mat scherm. Kijk je vooral overdag of wil je groot, kies dan de Samsung QE75QN82H of de TCL 85T8D.",
+  "verdict": "De LG C5 op 65 inch is de beste tv onder 1500 euro: een OLED evo met vier HDMI 2.1-poorten en 144 Hz voor rond de 1370 euro. Wil je zoveel mogelijk OLED voor je geld, dan geeft de LG B5 dezelfde 65 inch voor rond de 1175 euro. De LG G5 is de premiumkeuze met het felste OLED-paneel van LG en een antireflectiescherm. Kijk je vooral overdag of wil je groot, kies dan de Samsung QE75QN82H of de TCL 85T8D.",
   "products": [
     {
       "brand": "LG",
@@ -166,7 +166,7 @@
       "name": "G5 OLED55G56LS",
       "price": 1298.0,
       "score": 9.1,
-      "label": null,
+      "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
       "oneliner": "De helderste OLED van LG met antireflectiescherm, op 55 inch.",
       "specs": {
@@ -205,45 +205,41 @@
     },
     {
       "brand": "Samsung",
-      "name": "QE55S95H",
-      "price": 1549.0,
+      "name": "QE55S93H",
+      "price": 1249.0,
       "score": 9.0,
-      "label": "Beste premium",
-      "reviews": "bol-score 4,5 van 5",
-      "oneliner": "QD-OLED uit 2026 met mat antireflectiescherm en 165 Hz.",
+      "label": null,
+      "reviews": "",
+      "oneliner": "Samsung-OLED uit 2026 met 165 Hz en antireflectielaag.",
       "specs": {
         "Formaat": "55 inch",
-        "Paneel": "QD-OLED",
+        "Paneel": "OLED",
         "Verversing": "165 Hz",
         "HDR": "HDR10+",
         "Smart-tv": "Tizen"
       },
       "pros": [
-        "QD-OLED met zeer felle en verzadigde kleuren",
-        "Mat antireflectiescherm werkt ook overdag",
+        "OLED met antireflectielaag volgens de specificaties",
         "Tot 165 Hz met vier HDMI 2.1-poorten",
-        "70 W geluid met vier speakers"
+        "60 W geluid met Dolby Atmos",
+        "Ruim 250 euro onder de grens van deze gids"
       ],
       "cons": [
-        "Precies aan de bovengrens van 1500 euro",
-        "Geen Dolby Vision"
+        "Geen Dolby Vision",
+        "Samsung belooft maar twee jaar updates"
       ],
-      "ideal": "Wie het beste beeld in deze prijsklasse wil en geen groot scherm nodig heeft.",
-      "text": "De Samsung QE55S95H is het topmodel van deze lijst en zit met 1499 euro precies tegen de grens aan. Je krijgt een QD-OLED uit 2026: een OLED-paneel met een laag quantum dots, waardoor kleuren feller en verzadigder zijn dan bij een gewone OLED. Het grootste verschil met de rest is het matte antireflectiescherm. Lampen en ramen worden bijna niet weerspiegeld, ook niet in een lichte woonkamer overdag.\n\nGamers krijgen tot 165 Hz en vier HDMI 2.1-poorten, dus een pc en twee consoles kunnen tegelijk aan. Het geluid van 70 W met vier speakers is ruim beter dan bij de meeste tv's, al blijft een soundbar een verbetering voor films. Tizen heeft alle Nederlandse apps. Net als bij de andere Samsungs ontbreekt Dolby Vision, Samsung gebruikt HDR10+. Voor dezelfde prijs koop je ook een 65 inch OLED of een 75 inch mini-led. Kies deze dus alleen als 55 inch past bij je kamer en beeldkwaliteit voor jou zwaarder weegt dan formaat.",
-      "ean": "8806099136109",
-      "bol_title": "Samsung QE55S95H - 55 inch - 4K QD-OLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-qe55s95hftxxn-qd-oled-55-inch/9300000278287560/",
-      "image": "https://media.s-bol.com/qv8gzxxjxy42/Oyqq1Mg/550x487.jpg",
-      "rating": 4.5,
-      "ph_ean": "8806099136109",
+      "ideal": "Wie een 55 inch OLED voor gamen en films wil en ruim onder 1500 euro wil blijven.",
+      "text": "De Samsung QE55S93H is een 55 inch OLED uit 2026 en kost bij bol rond de 1250 euro. Elke pixel geeft zelf licht, dus zwart is echt zwart en het contrast is perfect in een donkere kamer. Volgens de specificaties bij bol heeft het scherm een antireflectielaag, wat helpt als je overdag kijkt in een kamer met ramen.\n\nGamers krijgen tot 165 Hz en vier HDMI 2.1-poorten met VRR, dus een pc en twee consoles kunnen tegelijk aan. Het geluid van 60 W met Dolby Atmos is beter dan bij de meeste tv's, al blijft een soundbar een verbetering voor films. Tizen heeft alle Nederlandse apps. Net als bij de andere Samsungs ontbreekt Dolby Vision, Samsung gebruikt HDR10+. Samsung garandeert minstens twee jaar updates, korter dan LG. Tegenover de LG G5 op plek 4 bespaar je bijna 50 euro, maar die wordt feller. Kies deze als je 55 inch genoeg vindt en een Samsung-OLED wilt voor ruim onder de grens.",
+      "ean": "8806099124212",
+      "bol_title": "Samsung QE55S93H - 55 inch - 4K OLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/samsung-qe55s93h-55-inch-4k-oled-2026-smart-tv/9300000278273482/",
+      "image": "https://media.s-bol.com/kqLyEkkYDAv6/yw7NA9g/550x345.jpg",
       "ph": {
-        "2026-11-20": 1499.0,
-        "2026-11-21": 1549.0
+        "2026-11-21": 1249.0
       },
-      "low_price": 1499.0,
-      "synced": "2026-11-21",
-      "prev_price": 1499.0,
-      "prev_date": "2026-11-20"
+      "low_price": 1249.0,
+      "ph_ean": "8806099124212",
+      "synced": "2026-11-21"
     },
     {
       "brand": "Philips",
@@ -465,7 +461,7 @@
     },
     {
       "h": "OLED of mini-led?",
-      "p": "OLED geeft perfect zwart en het beste contrast, ideaal voor films in een donkere kamer. Mini-led wordt feller en is goedkoper per inch, beter voor een lichte woonkamer en sport overdag. Twijfel je, kijk dan naar je ramen: veel daglicht pleit voor mini-led of een OLED met antireflectiescherm zoals de LG G5 of Samsung S95H."
+      "p": "OLED geeft perfect zwart en het beste contrast, ideaal voor films in een donkere kamer. Mini-led wordt feller en is goedkoper per inch, beter voor een lichte woonkamer en sport overdag. Twijfel je, kijk dan naar je ramen: veel daglicht pleit voor mini-led of een OLED met antireflectiescherm zoals de LG G5 of Samsung S93H."
     },
     {
       "h": "Welk formaat past bij je kamer?",
@@ -477,7 +473,7 @@
     },
     {
       "h": "Gamen met PS5, Xbox of pc",
-      "p": "Let op het aantal HDMI 2.1-poorten, VRR en de maximale verversing. De LG C5, LG G5 en Samsung S95H hebben vier HDMI 2.1-poorten, de LG B5 heeft er twee. Voor consoles is 120 Hz genoeg. Speel je op een pc, dan haal je met 144 tot 180 Hz meer uit je videokaart."
+      "p": "Let op het aantal HDMI 2.1-poorten, VRR en de maximale verversing. De LG C5, LG G5 en Samsung S93H hebben vier HDMI 2.1-poorten, de LG B5 heeft er twee. Voor consoles is 120 Hz genoeg. Speel je op een pc, dan haal je met 144 tot 180 Hz meer uit je videokaart."
     },
     {
       "h": "Reken geld voor geluid mee",
@@ -503,11 +499,19 @@
     },
     {
       "q": "Welke tv onder 1500 euro is het beste om te gamen?",
-      "a": "De LG C5 en LG G5 zijn de sterkste gametv's onder 1500 euro: vier HDMI 2.1-poorten, G-Sync, FreeSync en tot 144 of 165 Hz. De Samsung QE55S95H is een goed alternatief met een mat scherm."
+      "a": "De LG C5 en LG G5 zijn de sterkste gametv's onder 1500 euro: vier HDMI 2.1-poorten, G-Sync, FreeSync en tot 144 of 165 Hz. De Samsung QE55S93H is een goed alternatief met 165 Hz en vier HDMI 2.1-poorten."
     },
     {
       "q": "Moet ik wachten op Black Friday?",
       "a": "Rond Black Friday dalen de prijzen van tv's vaak. Wij tonen bij elke tv de actuele prijs bij bol. Zie je een tv uit deze lijst onder de normale prijs staan, dan is dat een goed moment om te kopen."
+    }
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-21",
+      "uit": "Samsung QE55S95H",
+      "in": "Samsung QE55S93H",
+      "waarom": "kwam boven de prijsgrens van deze gids"
     }
   ]
 }

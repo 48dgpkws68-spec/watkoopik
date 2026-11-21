@@ -1,17 +1,4 @@
 {
  "datum": "2026-11-21",
- "overtreders": [
-  {
-   "slug": "beste-tv-onder-1500-euro",
-   "grens": 1500,
-   "plek": 5,
-   "product": "Samsung QE55S95H",
-   "prijs": 1549.0,
-   "ean": "8806099136109",
-   "laagste_30d": 1499.0,
-   "dagen_boven": 1,
-   "dagen_gemeten": 2,
-   "reden": "boven grens"
-  }
- ]
+ "overtreders": []
 }

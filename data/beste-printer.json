@@ -17,7 +17,7 @@
   "updated": "2026-10-15",
   "reviews_total": "11.200",
   "intro": "Een printer koop je zelden om de aanschafprijs, maar om wat hij je de jaren daarna kost. Een goedkope inkjet met dure cartridges kan op termijn veel duurder uitvallen dan een inkttank of laserprinter. Wij vergeleken de printers op printkosten per pagina, snelheid, functies, wifi-gemak en de score bij bol. Dit zijn de tien beste printers die je nu bij bol kunt kopen, van een zuinige printer voor thuis tot een fotoprinter voor de hobbyfotograaf.",
-  "verdict": "De Epson EcoTank ET-2860 is de beste printer voor de meeste huishoudens: navulbare inkttanks, veel inkt in de doos en een printprijs van een fractie van een cent per pagina. Print je weinig en wil je weinig uitgeven, dan is de Canon PIXMA TS6550i de beste prijs-kwaliteit. Voor foto's van galeriekwaliteit tegen lage kosten per print kies je de Epson EcoTank ET-8500.",
+  "verdict": "De Epson EcoTank ET-2860 is de beste printer voor de meeste huishoudens: navulbare inkttanks, veel inkt in de doos en een printprijs van een fractie van een cent per pagina. Print je weinig en wil je weinig uitgeven, dan is de Canon PIXMA TS6550i de beste prijs-kwaliteit. Voor foto's van galeriekwaliteit tegen lage kosten per print kies je de Epson EcoTank ET-8550.",
   "products": [
     {
       "brand": "Epson",
@@ -137,12 +137,12 @@
     },
     {
       "brand": "Epson",
-      "name": "EcoTank ET-8500",
-      "price": 599.95,
+      "name": "EcoTank ET-8550",
+      "price": 599.0,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "bol-score 4,5 van 5",
-      "oneliner": "Zes-kleuren fotoprinter met inkttanks en lage printkosten.",
+      "oneliner": "Zes-kleuren fotoprinter tot A3+ met inkttanks.",
       "specs": {
         "Type": "Inkttank",
         "Kleur": "Kleur (6 inkten)",
@@ -151,65 +151,28 @@
         "Duplex": "Automatisch"
       },
       "pros": [
-        "Zes inkten voor foto's van topkwaliteit",
-        "Fotoprints tot A4 en zelfs randloos",
+        "Zes inkten, waaronder grijs, voor fotokwaliteit",
+        "Foto's en prints tot A3+, randloos mogelijk",
         "Lage kosten per foto dankzij inkttanks",
         "Groot touchscreen van 10,9 cm"
       ],
       "cons": [
         "Hoge aanschafprijs",
-        "Geen A3-formaat"
+        "Groot apparaat door de A3+-invoer"
       ],
-      "ideal": "Hobbyfotografen die thuis veel foto's in hoge kwaliteit willen printen tegen lage kosten.",
-      "text": "De Epson EcoTank ET-8500 is de printer voor wie foto's serieus neemt. Hij gebruikt zes inkten, waaronder grijs en een aparte fotozwarte inkt. Daardoor zijn kleurovergangen en zwart-witfoto's merkbaar mooier dan bij een gewone vierkleurenprinter. Randloze prints tot A4 zijn geen probleem en hij print ook op cd's en dvd's.\n\nOmdat het een EcoTank is, betaal je per foto maar een paar cent aan inkt. Bij een fotoprinter met cartridges ligt dat al snel tien keer zo hoog. Het touchscreen van 10,9 cm maakt bedienen eenvoudig en automatisch dubbelzijdig printen is aanwezig. Gebruikers prijzen de kleurechtheid en noemen de prints vergelijkbaar met die van een fotowinkel. De aanschafprijs van ruim vijfhonderd euro is fors. Print je vooral documenten, dan is de ET-2870 een veel slimmere keuze. Voor A3-prints moet je kijken naar de grotere ET-8550.",
-      "ean": "8715946676708",
-      "bol_title": "Epson EcoTank ET-8500 - All-in-One Inkttank Printer - Inclusief tot 3 jaar inkt",
-      "url": "https://www.bol.com/nl/nl/p/epson-ecotank-et-8500-all-in-one-printer-wit/9300000029191427/",
-      "image": "https://media.s-bol.com/3L0JOyLovrpr/k2Ogw9x/550x501.jpg",
-      "synced": "2026-11-21",
+      "ideal": "Hobbyfotografen die thuis veel foto's in hoge kwaliteit willen printen, ook op groot formaat.",
+      "text": "De Epson EcoTank ET-8550 is de printer voor wie foto's serieus neemt. Hij gebruikt zes inkten, waaronder grijs en een aparte zwarte pigmentinkt voor scherpe tekst. Daardoor zijn kleurovergangen en zwart-witfoto's merkbaar mooier dan bij een gewone vierkleurenprinter. Het grote verschil met de meeste fotoprinters: hij print tot A3+, via een lade aan de achterkant en een rechte invoer voor dik papier. Hij print ook direct op cd's en dvd's.\n\nOmdat het een EcoTank is, betaal je per foto maar een paar cent aan inkt. Volgens Epson print je met de meegeleverde flessen tot 2300 foto's. Het touchscreen van 10,9 cm maakt bedienen eenvoudig en je verbindt via wifi, Wi-Fi Direct of ethernet, of print vanaf een SD-kaart of usb-stick. De aanschafprijs van rond de 600 euro is fors en het apparaat neemt veel ruimte in. Print je vooral documenten, dan is de ET-2860 een veel slimmere keuze.",
+      "ean": "8715946676722",
+      "rating": 4.5,
+      "bol_title": "Epson EcoTank ET-8550 - All-in-One Inkttank Printer - Inclusief tot 3 jaar inkt",
+      "url": "https://www.bol.com/nl/nl/p/epson-ecotank-et-8550-all-in-one-printer/9300000029191431/",
+      "image": "https://media.s-bol.com/Y3BXrY4XnOGn/Og5G5Pg/550x483.jpg",
       "ph": {
-        "2026-10-15": 529.0,
-        "2026-10-16": 554.0,
-        "2026-10-17": 553.0,
-        "2026-10-18": 553.0,
-        "2026-10-19": 553.0,
-        "2026-10-20": 553.0,
-        "2026-10-21": 553.0,
-        "2026-10-23": 553.0,
-        "2026-10-24": 553.0,
-        "2026-10-25": 553.0,
-        "2026-10-26": 553.0,
-        "2026-10-27": 553.0,
-        "2026-10-28": 553.0,
-        "2026-10-29": 553.0,
-        "2026-10-30": 553.0,
-        "2026-10-31": 553.0,
-        "2026-11-01": 553.0,
-        "2026-11-02": 553.0,
-        "2026-11-03": 530.0,
-        "2026-11-04": 561.84,
-        "2026-11-05": 553.0,
-        "2026-11-06": 583.0,
-        "2026-11-07": 599.0,
-        "2026-11-08": 548.95,
-        "2026-11-09": 596.0,
-        "2026-11-10": 596.0,
-        "2026-11-11": 629.0,
-        "2026-11-12": 629.0,
-        "2026-11-13": 629.0,
-        "2026-11-14": 584.0,
-        "2026-11-16": 584.0,
-        "2026-11-17": 584.0,
-        "2026-11-18": 599.95,
-        "2026-11-19": 599.95,
-        "2026-11-20": 599.95,
-        "2026-11-21": 599.95
+        "2026-11-21": 599.0
       },
-      "low_price": 529.0,
-      "prev_price": 584.0,
-      "prev_date": "2026-11-17",
-      "ph_ean": "8715946676708",
-      "rating": 4.5
+      "low_price": 599.0,
+      "ph_ean": "8715946676722",
+      "synced": "2026-11-21"
     },
     {
       "brand": "Brother",
@@ -765,6 +728,12 @@
   "published": "2026-10-15",
   "noindex": true,
   "wissels": [
+    {
+      "d": "2026-11-21",
+      "uit": "Epson EcoTank ET-8500",
+      "in": "Epson EcoTank ET-8550",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-20",
       "uit": "Epson EcoTank ET-2870",

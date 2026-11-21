@@ -410,66 +410,42 @@
     },
     {
       "brand": "TCL",
-      "name": "65C6KS",
-      "price": 549.0,
+      "name": "65T69C",
+      "price": 476.13,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Goedkoopste 65 inch QD-mini-led, met een paneel van 60 Hz.",
+      "reviews": "bol-score 4,9 van 5",
+      "oneliner": "Goedkoopste 65 inch in deze lijst, een QLED met Dolby Vision.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "QD-mini-led",
-        "Verversing": "60 Hz",
-        "HDR": "Dolby Vision, HDR10+",
+        "Paneel": "QLED (direct-led)",
+        "Verversing": "Tot 120 Hz (gamemodus)",
+        "HDR": "Dolby Vision, HDR10+, HLG",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "Mini-led op 65 inch voor 549 euro",
-        "Lokale dimming voor beter contrast",
-        "Google TV met alle apps",
-        "Dolby Vision en HDR10+"
+        "65 inch met Dolby Vision en HDR10+ voor rond de 475 euro",
+        "Google TV met Chromecast en AirPlay 2",
+        "Drie HDMI 2.1-poorten met VRR en eARC",
+        "Onkyo-speakers met Dolby Atmos"
       ],
       "cons": [
-        "Paneel van 60 Hz, minder geschikt voor gamen op 120 Hz",
-        "Beperkt aantal dimzones",
-        "Geluid is matig"
+        "Direct-led zonder Mini LED, dus minder diep zwart",
+        "Helderheid van 450 nits is bescheiden voor HDR"
       ],
-      "ideal": "Wie mini-led op 65 inch wil voor een prijs die dicht bij de 500 euro ligt.",
-      "text": "De TCL 65C6KS is de goedkoopste manier om een 65 inch tv met mini-led-verlichting te kopen. Voor 549 euro krijg je een quantum dot-paneel met lokale dimming en Google TV. Het aantal dimzones is beperkt, dus in zeer donkere scènes zie je sneller een lichte gloed rond witte tekst. Bij gewone tv-programma's en sport valt dat nauwelijks op.\n\nHet paneel ververst op 60 Hz. Voor tv, films en rustige games is dat prima, maar wie een PS5 of Xbox op 120 Hz wil gebruiken kiest beter een tv met 120 of 144 Hz uit deze lijst. Google TV biedt alle apps die je nodig hebt en Chromecast is ingebouwd. Het geluid is dun, wat bij de meeste goedkope tv's het geval is. Reken op een soundbar als je veel films kijkt. Met deze tv blijf je ruim onder 1000 euro en heb je zelfs budget over voor goede audio.",
-      "ean": "5901292525828",
-      "bol_title": "TCL 65C6KS - 65 inch - 4K QD-MiniLED - 2025",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65c6ks-65-ultra-hd-4k-qd-mini-led-smart-tv-google-tv-wifi-dolby-vision-iq-local-dimming-60hz/9300000227512976/",
-      "image": "https://media.s-bol.com/LOjW3XK3zEJX/31q238A/550x388.jpg",
+      "ideal": "Wie 65 inch wil voor minder dan 500 euro en budget overhoudt voor een soundbar.",
+      "text": "De TCL 65T69C is de goedkoopste manier in deze lijst om een 65 inch tv te kopen. Het is een QLED uit 2025: quantum dots zorgen voor vollere kleuren dan bij een gewone led-tv. De verlichting is direct-led, dus zonder Mini LED en met minder diep zwart dan duurdere modellen. TCL geeft een helderheid van 450 nits en een contrast van 5000:1 op. Dolby Vision, HDR10+ en HLG worden alle drie ondersteund.\n\nEr zijn drie HDMI 2.1-poorten met VRR en eARC voor een soundbar. Volgens de specificaties bij bol gaat het paneel tot 120 Hz in de gamemodus, met een input lag van 15 milliseconden. Google TV heeft alle Nederlandse apps, met Chromecast en AirPlay 2 voor je telefoon. Het geluid komt van Onkyo-speakers van 20 watt met Dolby Atmos. De behuizing is frameloos met een metaalkleurige afwerking. Kopers op bol geven hem een 4,9 van 5. Met deze tv blijf je ruim onder 1000 euro en heb je budget over voor goede audio.",
+      "ean": "5901292528584",
+      "rating": 4.9,
+      "bol_title": "TCL 65T69C - 65 inch - 4K QLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65t69c-65-inch-4k-qled-2025/9300000237197713/",
+      "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
       "ph": {
-        "2026-10-27": 549.0,
-        "2026-10-28": 549.0,
-        "2026-10-29": 549.0,
-        "2026-10-30": 549.0,
-        "2026-10-31": 549.0,
-        "2026-11-01": 549.0,
-        "2026-11-02": 549.0,
-        "2026-11-03": 549.0,
-        "2026-11-04": 549.0,
-        "2026-11-05": 549.0,
-        "2026-11-06": 549.0,
-        "2026-11-07": 549.0,
-        "2026-11-08": 549.0,
-        "2026-11-09": 549.0,
-        "2026-11-10": 549.0,
-        "2026-11-11": 549.0,
-        "2026-11-12": 549.0,
-        "2026-11-13": 549.0,
-        "2026-11-14": 549.0,
-        "2026-11-16": 549.0,
-        "2026-11-17": 549.0,
-        "2026-11-18": 549.0,
-        "2026-11-19": 549.0,
-        "2026-11-20": 549.0
+        "2026-11-21": 476.13
       },
-      "low_price": 549.0,
-      "synced": "2026-11-21",
-      "ph_ean": "5901292525828",
-      "rating": 5.0
+      "low_price": 476.13,
+      "ph_ean": "5901292528584",
+      "synced": "2026-11-21"
     },
     {
       "brand": "Samsung",
@@ -497,7 +473,7 @@
         "Geen Dolby Vision"
       ],
       "ideal": "Wie een betrouwbare grote Samsung wil voor tv, streamen en sport zonder gamewensen.",
-      "text": "De Samsung UE65M74H is een van de nieuwe 2026-modellen en brengt mini-led naar Samsungs instaplijn. Je krijgt een 65 inch scherm met meer controle over licht en donker dan een gewone led-tv. Het beeld oogt fel en strak, ook in een lichte kamer. De 4K-processor schaalt tv-zenders netjes op en Tizen werkt snel, met alle grote streamingdiensten en gratis kanalen via Samsung TV Plus.\n\nHet paneel draait op 60 Hz. Voor tv kijken, streamen en voetbal is dat prima, maar wie een PS5 of Xbox op 120 frames wil spelen kiest beter de Hisense 65E7S PRO of de TCL 65C6KS. Net als bij elke Samsung ontbreekt Dolby Vision. Bol-kopers geven 4,5 sterren en waarderen de bouwkwaliteit en de extra garantie. Wil je een grote, betrouwbare tv van een bekend merk zonder over instellingen na te denken, dan is dit een veilige keuze.",
+      "text": "De Samsung UE65M74H is een van de nieuwe 2026-modellen en brengt mini-led naar Samsungs instaplijn. Je krijgt een 65 inch scherm met meer controle over licht en donker dan een gewone led-tv. Het beeld oogt fel en strak, ook in een lichte kamer. De 4K-processor schaalt tv-zenders netjes op en Tizen werkt snel, met alle grote streamingdiensten en gratis kanalen via Samsung TV Plus.\n\nHet paneel draait op 60 Hz. Voor tv kijken, streamen en voetbal is dat prima, maar wie een PS5 of Xbox op 120 frames wil spelen kiest beter de Hisense 65E7S PRO of de Samsung UE65M82H. Net als bij elke Samsung ontbreekt Dolby Vision. Bol-kopers geven 4,5 sterren en waarderen de bouwkwaliteit en de extra garantie. Wil je een grote, betrouwbare tv van een bekend merk zonder over instellingen na te denken, dan is dit een veilige keuze.",
       "ean": "8806099134624",
       "bol_title": "Samsung UE65M74H - 65 inch - 4K MiniLED - 2026 + 3 jaar extra garantie - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-65m74h-65-inch-4k-miniled-2026-smart-tv/9300000284690214/",
@@ -657,7 +633,7 @@
       },
       {
         "h": "Zit je 3 meter of verder van de tv?",
-        "p": "Dan oogt 65 inch prettiger dan 55 inch. Met dit budget betekent 65 inch bijna altijd mini-led in plaats van OLED. Nr. 5, de Samsung UE65M82H (€ 815), is de beste balans met mini-led en tot 144 Hz. Wil je zo laag mogelijk uitkomen, dan geeft nr. 8, de TCL 65C6KS (€ 549), ook mini-led op 65 inch, al blijft die op 60 Hz."
+        "p": "Dan oogt 65 inch prettiger dan 55 inch. Met dit budget betekent 65 inch bijna altijd mini-led in plaats van OLED. Nr. 5, de Samsung UE65M82H (€ 815), is de beste balans met mini-led en tot 144 Hz. Wil je zo laag mogelijk uitkomen, dan is nr. 8, de TCL 65T69C (€ 476), een 65 inch QLED met Dolby Vision, al mist die mini-led."
       },
       {
         "h": "Speel je op een PS5, Xbox of gaming-pc?",
@@ -701,6 +677,12 @@
   "meta_title": "Beste tv onder 1000 euro 2026: top 10",
   "meta_desc": "De beste tv onder 1000 euro van 2026 is de {top}. Top 10 vergeleken op beeldkwaliteit, formaat, gaming en prijs, met oled en mini-led binnen budget.",
   "wissels": [
+    {
+      "d": "2026-11-21",
+      "uit": "TCL 65C6KS",
+      "in": "TCL 65T69C",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-16",
       "uit": "LG 65QNED84A6C",

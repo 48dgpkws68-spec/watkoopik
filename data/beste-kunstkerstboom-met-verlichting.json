@@ -387,56 +387,43 @@
     },
     {
       "brand": "Black Box Trees",
-      "name": "Charlton smal 185 cm met LED",
-      "price": 39.99,
+      "name": "Charlton smal 215 cm met LED",
+      "price": 68.0,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Goedkope pilaarboom met dimbare LED's en timer.",
+      "oneliner": "Betaalbare hoge pilaarboom met dimbare LED's en timer.",
       "specs": {
-        "Hoogte": "185 cm, Ø 53 cm",
-        "Lampjes": "120 LED",
+        "Hoogte": "215 cm, Ø 56 cm",
+        "Lampjes": "160 LED",
         "Lichtkleur": "Warm wit",
-        "Takken": "280",
+        "Takken": "362",
         "Extra's": "Dimmer, timer"
       },
       "pros": [
-        "Erg betaalbaar",
+        "Betaalbaar voor een boom van 215 cm",
         "Dim- en timerfunctie",
-        "Slechts 53 cm breed",
-        "Licht om te verplaatsen"
+        "Slechts 56 cm breed",
+        "5 jaar garantie op de boom"
       ],
       "cons": [
-        "Weinig takken, zichtbaar minder vol",
-        "Alleen PVC-naalden"
+        "Takken zichtbaar minder vol",
+        "Alleen PVC-naalden",
+        "Te hoog voor een laag plafond"
       ],
-      "ideal": "Wie voor weinig geld een smalle boom met verlichting wil voor een hal, hoek of studentenkamer.",
-      "text": "De Charlton van Black Box Trees is een pilaarvormige boom die voor nog geen 50 euro een opvallend complete set functies biedt. Op 185 centimeter hoogte zitten 120 warm witte LED's die je kunt dimmen en met een timer automatisch laat aan- en uitgaan. Die timer vind je bij de meeste duurdere bomen in deze lijst niet. Dat maakt hem handig voor wie niet elke avond aan de stekker wil denken.\n\nDe boom is maar 53 centimeter breed, dus hij past in een smalle hal, naast een kast of in een studentenkamer. De naalden zijn van zachte PVC-vellen en de 280 takken hangen aan scharnieren. Daardoor staat de boom snel en zitten de lampjes meteen op hun plek. Voor dit geld moet je wel concessies doen aan de volheid: van dichtbij zie je tussen de takken door. Kopers geven hem gemiddeld een 4,3 en noemen hem vooral praktisch voor kleine ruimtes. Er is ook een versie van 215 centimeter.",
-      "ean": "8720967840267",
-      "bol_title": "Black Box Trees Charlton Smalle Kunstkerstboom met LED-Verlichting - H185 x Ø53 cm - Groen",
-      "url": "https://www.bol.com/nl/nl/p/black-box-trees-charlton-pilar-kerstboom-led-groen-warm-wit-120l-tips-280-en-timer-dimmer-h185xd53cm/9300000186169388/",
-      "image": "https://media.s-bol.com/gz95gq240jYY/K1GZkY8/250x200.jpg",
+      "ideal": "Wie voor weinig geld een smalle, hoge boom met verlichting wil voor een hal of hoek.",
+      "text": "De Charlton van Black Box Trees is een pilaarvormige boom die voor rond de 70 euro een opvallend complete set functies biedt. Op 215 centimeter hoogte zitten 160 warm witte LED's die je kunt dimmen en met een timer automatisch laat aan- en uitgaan. Die timer vind je bij de meeste duurdere bomen in deze lijst niet. Dat maakt hem handig voor wie niet elke avond aan de stekker wil denken.\n\nDe boom is maar 56 centimeter breed, dus hij past in een smalle hal, naast een kast of in een hoek met een hoog plafond. De naalden zijn van zachte PVC-vellen en de 362 takken hangen aan scharnieren. Daardoor staat de boom snel en zitten de lampjes meteen op hun plek. Black Box Trees geeft 5 jaar garantie op de boom en 2 jaar op de verlichting. Voor dit geld lever je wel in op volheid: van dichtbij zie je tussen de takken door. Kopers geven hem gemiddeld een 4,3 en noemen hem vooral praktisch voor kleine ruimtes.",
+      "ean": "8720967840274",
+      "ph_ean": "8720967840274",
+      "rating": 4.3,
+      "bol_title": "Black Box Trees Charlton Smalle Kunstkerstboom met LED-Verlichting - H215 x Ø56 cm - Groen",
+      "url": "https://www.bol.com/nl/nl/p/black-box-trees-charlton-pilar-kerstboom-led-groen-warm-wit-160l-tips-362-en-timer-dimmer-h215xd56cm/9300000186169161/",
+      "image": "https://media.s-bol.com/pMjg0D251vw2/GvA57WL/250x200.jpg",
       "ph": {
-        "2026-11-08": 49.99,
-        "2026-11-09": 49.99,
-        "2026-11-10": 49.99,
-        "2026-11-11": 49.99,
-        "2026-11-12": 49.99,
-        "2026-11-13": 47.75,
-        "2026-11-14": 47.75,
-        "2026-11-16": 39.99,
-        "2026-11-17": 39.99,
-        "2026-11-18": 39.99,
-        "2026-11-19": 39.99,
-        "2026-11-20": 39.99,
-        "2026-11-21": 39.99
+        "2026-11-21": 68.0
       },
-      "low_price": 39.99,
-      "synced": "2026-11-21",
-      "ph_ean": "8720967840267",
-      "prev_price": 47.75,
-      "prev_date": "2026-11-14",
-      "rating": 4.3
+      "low_price": 68.0,
+      "synced": "2026-11-21"
     },
     {
       "brand": "COSTWAY",
@@ -593,6 +580,9 @@
   "published": "2026-11-08",
   "rel": [
     "beste-kunstkerstboom",
+    "beste-kunstkerstboom-180-cm",
+    "beste-kunstkerstboom-210-cm",
+    "beste-kunstkerstboom-onder-100-euro",
     "beste-kerstverlichting-buiten",
     "beste-adventskalender",
     "beste-kerstcadeau-voor-ouders"

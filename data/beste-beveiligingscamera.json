@@ -249,43 +249,41 @@
     },
     {
       "brand": "Reolink",
-      "name": "CX810",
+      "name": "RLC-840A",
       "price": 119.99,
       "score": 8.9,
       "label": null,
-      "reviews": "",
-      "oneliner": "Bedrade 4K-camera die ook in het donker in kleur filmt.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Robuuste bedrade 4K-camera met kleurbeeld in het donker.",
       "specs": {
         "Locatie": "Buiten",
         "Resolutie": "4K (8 MP)",
         "Voeding": "PoE (netwerkkabel)",
         "Opslag": "MicroSD of NVR",
-        "Nachtzicht": "Kleur (ColorX)"
+        "Nachtzicht": "Kleur (warm licht)"
       },
       "pros": [
-        "Kleurbeeld in het donker door ColorX",
-        "Stabiel via één netwerkkabel",
+        "Kleurbeeld in het donker met warm licht",
+        "Vandaalbestendig (IK10) en waterdicht (IP67)",
         "Geen maandkosten nodig",
-        "Tweewegaudio en alarm"
+        "Stabiel via één netwerkkabel"
       ],
       "cons": [
         "Netwerkkabel trekken kost werk",
-        "Heeft wat restlicht nodig in de nacht"
+        "Lamp moet aan voor kleurbeeld, dat valt op"
       ],
-      "ideal": "Wie een vaste camera bij de oprit of voordeur wil met scherp kleurbeeld, ook 's nachts.",
-      "text": "De Reolink CX810 is een bedrade 4K-camera uit de ColorX-reeks. Het verschil met een gewone beveiligingscamera zit in het donker: in plaats van infrarood met grijs beeld gebruikt hij een groot diafragma en een lichtgevoelige sensor, zodat je ook 's nachts in kleur ziet wie er op de oprit staat. Een buitenlamp of straatverlichting in de buurt is daarvoor genoeg. De camera herkent personen, voertuigen en dieren, zodat je minder meldingen krijgt van bewegende takken.\n\nStroom en internet lopen via één netwerkkabel (PoE). Dat vraagt meer werk bij de installatie dan een draadloze camera, maar je hebt nooit last van een lege accu of zwak wifi. Beelden sla je op een microSD-kaart in de camera of op een Reolink-recorder op, zonder maandkosten. Via de luidspreker kun je iemand toespreken of een alarm laten afgaan. Voor wie een vaste camera wil met kleurbeeld in het donker is dit een sterke keuze.",
-      "ean": "6976930226237",
-      "bol_title": "Reolink CX810 - 4K PoE Buitencamera - ColorX Nachtzicht & HDR - Tweewegs Alarm - Slimme Detectie",
-      "url": "https://www.bol.com/nl/nl/p/reolink-colorx-4k-8mp-poe-ip-camera-met-echt-full-color-nachtzicht/9300000194031840/",
-      "image": "https://media.s-bol.com/qBRY1p5zv92p/El6Gy1m/550x275.jpg",
+      "ideal": "Wie een vaste, stevige camera bij de oprit of voordeur wil met kleurbeeld, ook 's nachts.",
+      "text": "De Reolink RLC-840A is een bedrade 4K-camera in een stevige behuizing. Hij heeft een IK10-classificatie tegen vandalisme en IP67 tegen regen en stof, dus hij mag ook hangen op een plek waar iemand er makkelijk bij kan. De groothoeklens van 2,8 mm kijkt 125 graden breed, genoeg voor een oprit of voortuin in één beeld. 's Nachts schakelt hij een warm wit lampje van 3000K in, zodat je in kleur ziet wie er staat in plaats van grijs infraroodbeeld.\n\nStroom en internet lopen via één netwerkkabel (PoE). Dat vraagt meer werk bij de installatie dan een draadloze camera, maar je hebt nooit last van een lege accu of zwak wifi. Beelden sla je op een microSD-kaart, een Reolink-recorder of een FTP-server op, zonder maandkosten. De camera herkent personen, voertuigen en dieren, zodat je minder meldingen krijgt van bewegende takken. Via de ingebouwde microfoon en luidspreker praat je met bezoekers aan de deur.",
+      "ean": "6976930226213",
+      "bol_title": "Reolink RLC-840A - 4K 8MP UHD PoE-buitencamera - IK10 Inbraakbestendig - 125° Groothoek - Warmlicht Kleuren Nachtzicht",
+      "url": "https://www.bol.com/nl/nl/p/reolink-4k-8mp-uhd-poe-beveiligingscamera-voor-buiten-ik10-vandaalbestendig-125-groothoek-warme-lichtkleur-nachtzicht/9300000194058043/",
+      "image": "https://media.s-bol.com/goYJ89KO6XMr/Z4mmMyJ/550x472.jpg",
       "ph": {
-        "2026-11-17": 119.99,
-        "2026-11-18": 119.99,
-        "2026-11-19": 119.99,
-        "2026-11-20": 119.99
+        "2026-11-21": 119.99
       },
       "low_price": 119.99,
-      "ph_ean": "6976930226237",
+      "ph_ean": "6976930226213",
+      "rating": 5.0,
       "synced": "2026-11-21"
     },
     {
@@ -727,7 +725,7 @@
     },
     {
       "h": "Nachtzicht",
-      "p": "Infrarood geeft zwart-witbeelden in volledig donker. Een spotlight zorgt voor kleurenbeeld en schrikt af. Camera's met een grote sensor, zoals Reolink ColorX, geven kleur bij weinig licht zonder spotlight. Voor herkenning van personen en voertuigen is kleurenbeeld duidelijk beter."
+      "p": "Infrarood geeft zwart-witbeelden in volledig donker. Een spotlight zorgt voor kleurenbeeld en schrikt af. Camera's met een grote sensor en een lichtsterke lens geven kleur bij weinig licht zonder spotlight. Voor herkenning van personen en voertuigen is kleurenbeeld duidelijk beter."
     },
     {
       "h": "Privacy en de wet",
@@ -766,6 +764,12 @@
   ],
   "published": "2026-10-15",
   "wissels": [
+    {
+      "d": "2026-11-21",
+      "uit": "Reolink CX810",
+      "in": "Reolink RLC-840A",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-17",
       "uit": "EZVIZ H8c 2K 4G",

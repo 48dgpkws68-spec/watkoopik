@@ -224,57 +224,43 @@
     },
     {
       "brand": "Fujifilm",
-      "name": "Instax mini 41",
-      "price": 89.99,
+      "name": "Instax mini 11",
+      "price": 97.0,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 4,0 van 5",
-      "oneliner": "Retro instax met close-upstand in een strak klassiek jasje.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Eenvoudige instax met automatische belichting en selfiestand.",
       "specs": {
         "Film": "Instax mini",
         "Fotoformaat": "54 x 86 mm",
-        "Scherpstelling": "Vast, close-upstand",
+        "Scherpstelling": "Vast, selfie- en close-upstand",
         "Voeding": "2 AA-batterijen",
         "Extra": "Selfiespiegel"
       },
       "pros": [
-        "Klassiek ontwerp dat volwassener oogt dan de mini 13",
-        "Automatische belichting en close-upstand",
+        "Automatische belichting en flitser",
+        "Selfie- en close-upstand in de lens",
         "Selfiespiegel naast de lens",
         "Gebruikt goedkope instax mini-film"
       ],
       "cons": [
-        "Technisch vergelijkbaar met de goedkopere mini 13",
+        "Ouder model dan de mini 13",
+        "Bij bol nu duurder dan de mini 13",
         "Geen oplaadbare accu"
       ],
-      "ideal": "Volwassenen die een simpele instax willen met een stijlvolle retro uitstraling.",
-      "text": "De instax mini 41 is technisch familie van de mini 13, maar dan in een zwart met zilveren behuizing die aan een klassieke filmcamera doet denken. Daardoor kiezen veel volwassenen voor dit model, terwijl de pastelkleurige mini 13 vooral bij jongere kopers populair is. Ook hier regelt de camera de belichting zelf. Voor foto's van dichtbij gebruik je de close-upstand, waarbij de zoeker meecorrigeert.\n\nNaast de lens zit een selfiespiegel, zodat je ziet of iedereen in beeld staat. Twee AA-batterijen zijn goed voor ongeveer honderd foto's. Dankzij de instax mini-film blijft elke foto betaalbaar. In reviews valt op dat kopers vooral de uitstraling en de stevigheid noemen, minder de beeldkwaliteit, want die is vergelijkbaar met de mini 13. Je betaalt dus vooral voor het ontwerp. Als cadeau voor een partner of ouder die van vintage houdt, is dat precies wat je zoekt.",
-      "ean": "4547410545180",
-      "bol_title": "Fujifilm Instax Mini 41 Camera",
-      "url": "https://www.bol.com/nl/nl/p/fujifilm-instax-mini-41-instant-camera-zwart/9300000229375594/",
-      "image": "https://media.s-bol.com/RqkOj0OpjZow/o2oNqYz/550x652.jpg",
+      "ideal": "Wie een simpele instax zoekt en een kleur wil die bij de mini 13 niet te koop is.",
+      "text": "De instax mini 11 is de voorganger van de mini 12 en mini 13, maar nog altijd te koop. Daardoor is hij een alternatief als de mini 13 in jouw kleur niet leverbaar is. De camera meet zelf het licht en past sluitertijd en flitser aan, zodat ook foto's binnen op een feestje meestal goed belicht uit de camera komen. Je hoeft dus niets in te stellen.\n\nTrek je de lens een stukje verder uit, dan schakelt hij naar de selfie- en close-upstand voor onderwerpen op 30 tot 50 centimeter. Naast de lens zit een kleine spiegel, zodat je ziet of iedereen in beeld staat. De camera werkt op twee AA-batterijen en gebruikt gewone instax mini-film van creditcardformaat. Het verschil met de mini 13 is klein: die is nieuwer en heeft een handigere close-upstand. Omdat de mini 11 bij bol nu rond de 97 euro kost, loont het om de prijs even met die van de mini 13 te vergelijken.",
+      "ean": "4547410430974",
+      "bol_title": "Fujifilm Instax Mini 11 - Sky Blue",
+      "url": "https://www.bol.com/nl/nl/p/fujifilm-instax-mini-11-sky-blue/9200000131587347/",
+      "image": "https://media.s-bol.com/59ZJM3P8MnLK/550x626.jpg",
       "ph": {
-        "2026-11-07": 92.0,
-        "2026-11-08": 92.0,
-        "2026-11-09": 92.0,
-        "2026-11-10": 92.0,
-        "2026-11-11": 92.99,
-        "2026-11-12": 92.99,
-        "2026-11-13": 89.99,
-        "2026-11-14": 89.99,
-        "2026-11-16": 89.99,
-        "2026-11-17": 89.99,
-        "2026-11-18": 89.99,
-        "2026-11-19": 89.99,
-        "2026-11-20": 89.99,
-        "2026-11-21": 89.99
+        "2026-11-21": 97.0
       },
-      "low_price": 89.99,
-      "synced": "2026-11-21",
-      "prev_price": 92.99,
-      "prev_date": "2026-11-12",
-      "ph_ean": "4547410545180",
-      "rating": 4.0
+      "low_price": 97.0,
+      "ph_ean": "4547410430974",
+      "rating": 4.3,
+      "synced": "2026-11-21"
     },
     {
       "brand": "Fujifilm",
@@ -604,6 +590,12 @@
     "beste-tech-cadeau-onder-100-euro"
   ],
   "wissels": [
+    {
+      "d": "2026-11-21",
+      "uit": "Fujifilm Instax mini 41",
+      "in": "Fujifilm Instax mini 11",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-20",
       "uit": "Fujifilm Instax mini 12",

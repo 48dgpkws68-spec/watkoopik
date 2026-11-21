@@ -416,12 +416,12 @@
     },
     {
       "brand": "Nerf",
-      "name": "Elite 2.0 Commander RD-6",
-      "price": 34.99,
+      "name": "Elite 2.0 Eaglepoint RD-8",
+      "price": 30.0,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
-      "oneliner": "Blaster met draaiende trommel voor zes zachte darts.",
+      "oneliner": "Blaster met draaiende trommel, vizier en loop voor acht darts.",
       "specs": {
         "Leeftijd fabrikant": "vanaf 8 jaar",
         "Type": "Blaster",
@@ -429,39 +429,28 @@
         "Batterijen": "Niet nodig"
       },
       "pros": [
-        "Trommel voor 6 darts, 12 darts meegeleverd",
+        "Trommel voor 8 darts, 16 darts meegeleverd",
+        "Afneembaar vizier en verlengloop",
         "Werkt handmatig, dus geen batterijen",
-        "Darts een voor een of snel achter elkaar afvuren",
-        "Uit te breiden met Nerf-opzetstukken"
+        "Opslag voor 8 extra darts in de blaster"
       ],
       "cons": [
         "Darts raken buiten snel kwijt",
         "Spreek thuis duidelijke regels af over mikken"
       ],
       "ideal": "Actieve 8-jarigen die graag met vriendjes en vriendinnetjes buiten spelen.",
-      "text": "Nerf-blasters zijn vanaf 8 jaar en de Elite 2.0 Commander RD-6 is een van de bekendste instapmodellen. De blaster heeft een draaiende trommel voor zes foam darts en er zitten twaalf darts in de doos. Je spant hem met de hand, dus er zijn geen batterijen nodig. Je kind vuurt de darts een voor een af of snel achter elkaar door de trekker ingedrukt te houden en te blijven spannen. Op de rails passen losse opzetstukken van Nerf.\n\nKopers op bol geven de blaster gemiddeld 4,5 sterren. Hij is compact en met de hand te spannen, wat hem goed te bedienen maakt voor kinderhanden. Het is vooral een cadeau om samen mee te spelen: mikken op blikjes in de tuin of een spel met de buurkinderen. Spreek wel af dat er nooit op gezichten of dieren wordt gemikt. De prijs op bol schommelt bij dit model, dus vergelijk even. Een navulpak met vijftig darts kost minder dan een tientje en is handig, want darts verdwijnen snel in de struiken.",
-      "ean": "5010993725038",
-      "search": "Nerf Elite 2.0 Commander RD-6",
-      "bol_title": "Nerf Elite 2.0 Commander RD-6-dartblaster, draaiende trommel, 12 Nerf Elite-darts, buitenspeelgoed",
-      "url": "https://www.bol.com/nl/nl/p/nerf-elite-2-0-commander-rd-6-blaster/9200000131858194/",
-      "image": "https://media.s-bol.com/79BDpgmkGqWO/550x502.jpg",
+      "text": "Nerf-blasters zijn vanaf 8 jaar en de Elite 2.0 Eaglepoint RD-8 is een overzichtelijk model om mee te beginnen. De blaster heeft een draaiende trommel voor acht foam darts en er zitten zestien darts in de doos: acht voor in de trommel en acht in de ingebouwde opslag, zodat je kind snel herlaadt. Je spant hem met een hendel, dus er zijn geen batterijen nodig. Volgens Nerf komen de darts tot 27 meter ver.\n\nHet vizier en de verlengloop klik je erop of haal je eraf. Zo kiest je kind zelf tussen een compacte blaster of een lange voor mikken op afstand. Op de drie rails passen losse opzetstukken van Nerf. Het is vooral een cadeau om samen mee te spelen: mikken op blikjes in de tuin of een spel met de buurkinderen. Spreek wel af dat er nooit op gezichten of dieren wordt gemikt. Een navulpak met vijftig darts kost minder dan een tientje en is handig, want darts verdwijnen snel in de struiken.",
+      "ean": "5010994105259",
+      "bol_title": "NERF Elite 2.0 Eaglepoint RD 8 - Blaster",
+      "url": "https://www.bol.com/nl/nl/p/nerf-elite-2-0-eaglepoint-rd-8-blaster/9300000070572648/",
+      "image": "https://media.s-bol.com/8QALR1Wq7wOl/w0nYX2g/550x617.jpg",
       "ph": {
-        "2026-11-11": 38.59,
-        "2026-11-12": 38.19,
-        "2026-11-13": 39.19,
-        "2026-11-14": 38.39,
-        "2026-11-16": 34.99,
-        "2026-11-17": 34.99,
-        "2026-11-18": 34.99,
-        "2026-11-19": 34.99,
-        "2026-11-20": 34.99
+        "2026-11-21": 30.0
       },
-      "low_price": 34.99,
-      "synced": "2026-11-21",
-      "ph_ean": "5010993725038",
-      "prev_price": 38.39,
-      "prev_date": "2026-11-14",
-      "rating": 4.5
+      "low_price": 30.0,
+      "ph_ean": "5010994105259",
+      "rating": 4.5,
+      "synced": "2026-11-21"
     },
     {
       "brand": "Jumbo",
@@ -569,5 +558,13 @@
     "beste-sinterklaascadeau-voor-kinderen",
     "beste-kerstcadeau-voor-kinderen",
     "beste-cadeau-5-jarige"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-21",
+      "uit": "Nerf Elite 2.0 Commander RD-6",
+      "in": "Nerf Elite 2.0 Eaglepoint RD-8",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

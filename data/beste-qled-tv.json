@@ -18,7 +18,7 @@
   "updated": "2026-10-20",
   "reviews_total": "1.800",
   "intro": "Een QLED-tv is fel, kleurrijk en blijft goed zichtbaar in een lichte woonkamer, waar een OLED het lastiger heeft. Binnen QLED zijn de verschillen groot: van een simpel paneel met quantum dots tot Neo QLED en QD-MiniLED met dimzones. Wij vergeleken QLED-tv's op paneeltype, beeldfrequentie, HDR-formaten, software en reviews van kopers op bol. Dit zijn de tien beste QLED-tv's van 2026, van een instapper onder de 500 euro tot een topmodel dat tegen OLED op kan.",
-  "verdict": "De Samsung QE55QN83H is de beste QLED-tv voor de meeste mensen: Neo QLED met Mini-LED, een antireflectiefilter en 120 Hz voor rond de 850 euro. De TCL 65C6KS geeft je 65 inch QD-MiniLED met Dolby Vision en HDR10+ voor rond de 550 euro en is daarmee de beste prijs-kwaliteit. Wil je de beste QLED die er is, kies dan de TCL 65Q7D Pro. Op een klein budget is de Xiaomi TV A Pro een prima start.",
+  "verdict": "De Samsung QE55QN83H is de beste QLED-tv voor de meeste mensen: Neo QLED met Mini-LED, een antireflectiefilter en 120 Hz voor rond de 850 euro. De TCL 65T69C geeft je 65 inch QLED met Dolby Vision en HDR10+ voor rond de 475 euro en is daarmee de beste prijs-kwaliteit. Wil je de beste QLED die er is, kies dan de TCL 65Q7D Pro. Op een klein budget is de Xiaomi TV A Pro een prima start.",
   "products": [
     {
       "brand": "Samsung",
@@ -92,49 +92,42 @@
     },
     {
       "brand": "TCL",
-      "name": "65C6KS",
-      "price": 549.0,
+      "name": "65T69C",
+      "price": 476.13,
       "score": 9.0,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "65 inch QD-MiniLED met Dolby Vision voor rond de 550 euro.",
+      "reviews": "bol-score 4,9 van 5",
+      "oneliner": "65 inch QLED met Dolby Vision voor rond de 475 euro.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "QD-MiniLED",
-        "Beeldfrequentie": "60 Hz, VRR",
-        "HDR": "Dolby Vision, HDR10+",
+        "Paneel": "QLED (direct-led)",
+        "Beeldfrequentie": "Tot 120 Hz, VRR",
+        "HDR": "Dolby Vision, HDR10+, HLG",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "65 inch QD-MiniLED voor rond de 550 euro",
-        "Dolby Vision en HDR10+",
-        "Google TV met Chromecast",
-        "HDMI 2.1 met VRR en een gamemodus"
+        "65 inch met Dolby Vision en HDR10+ voor rond de 475 euro",
+        "Google TV met Chromecast en AirPlay 2",
+        "Drie HDMI 2.1-poorten met VRR en eARC",
+        "Onkyo-speakers met Dolby Atmos"
       ],
       "cons": [
-        "Paneel van 60 Hz, minder geschikt voor snelle games",
-        "Geluid van 35 watt zonder subwoofer"
+        "Direct-led zonder Mini LED, dus minder diep zwart",
+        "Helderheid van 450 nits is bescheiden voor HDR"
       ],
-      "ideal": "Wie een groot scherm met Mini-LED wil en vooral films, series en sport kijkt.",
-      "text": "De TCL 65C6KS is een 65 inch QD-MiniLED-tv uit 2025 die bol nu voor ongeveer 550 euro verkoopt. Dat is opvallend weinig voor deze techniek: quantum dots zorgen voor rijke kleuren en de Mini-LED-verlichting dimt per zone, zodat zwart dieper is dan bij een gewone QLED in deze prijsklasse. Dolby Vision en HDR10+ worden allebei ondersteund, dus streamingdiensten tonen HDR in het beste formaat. Het aantal dimzones is kleiner dan bij de duurdere TCL-modellen, wat je kunt merken aan een lichte gloed rond ondertitels.\n\nHet paneel draait op 60 Hz met VRR via HDMI 2.1, genoeg voor films, series en sport. Wie op een PS5 of Xbox op 120 Hz wil spelen kiest beter een model met een sneller paneel uit deze lijst. Google TV bevat alle Nederlandse apps en Chromecast is ingebouwd. Het geluid van 35 watt met Dolby Atmos volstaat voor dagelijks kijken. Kopers op bol geven hem gemiddeld 5,0 uit 5. Voor een groot scherm met Mini-LED is dit de slimste QLED-koop.",
-      "ean": "5901292525828",
+      "ideal": "Wie zo goedkoop mogelijk een groot QLED-scherm met Dolby Vision wil.",
+      "text": "De TCL 65T69C is de goedkoopste 65 inch in deze lijst en kost bij bol rond de 475 euro. Het is een QLED uit 2025: quantum dots zorgen voor vollere kleuren dan bij een gewone led-tv. De verlichting is direct-led, dus zonder Mini LED en met minder diep zwart dan duurdere modellen. TCL geeft een helderheid van 450 nits en een contrast van 5000:1 op. Dolby Vision, HDR10+ en HLG worden alle drie ondersteund.\n\nEr zijn drie HDMI 2.1-poorten met VRR en eARC voor een soundbar. Volgens de specificaties bij bol gaat het paneel tot 120 Hz in de gamemodus, met een input lag van 15 milliseconden. Google TV heeft alle Nederlandse apps, met Chromecast en AirPlay 2 voor je telefoon. Het geluid komt van Onkyo-speakers van 20 watt met Dolby Atmos. De behuizing is frameloos met een metaalkleurige afwerking. Kopers op bol geven hem een 4,9 van 5. Wil je Mini LED en dieper zwart, dan betaal je bij de TCL 65Q7D Pro fors meer.",
+      "ean": "5901292528584",
       "label": "Beste prijs-kwaliteit",
-      "bol_title": "TCL 65C6KS - 65 inch - 4K QD-MiniLED - 2025",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65c6ks-65-ultra-hd-4k-qd-mini-led-smart-tv-google-tv-wifi-dolby-vision-iq-local-dimming-60hz/9300000227512976/",
-      "image": "https://media.s-bol.com/LOjW3XK3zEJX/31q238A/550x388.jpg",
+      "rating": 4.9,
+      "bol_title": "TCL 65T69C - 65 inch - 4K QLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65t69c-65-inch-4k-qled-2025/9300000237197713/",
+      "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
       "ph": {
-        "2026-11-12": 549.0,
-        "2026-11-13": 549.0,
-        "2026-11-14": 549.0,
-        "2026-11-16": 549.0,
-        "2026-11-17": 549.0,
-        "2026-11-18": 549.0,
-        "2026-11-19": 549.0,
-        "2026-11-20": 549.0
+        "2026-11-21": 476.13
       },
-      "low_price": 549.0,
-      "ph_ean": "5901292525828",
-      "synced": "2026-11-21",
-      "rating": 5.0
+      "low_price": 476.13,
+      "ph_ean": "5901292528584",
+      "synced": "2026-11-21"
     },
     {
       "brand": "TCL",
@@ -158,7 +151,7 @@
         "Onkyo-geluidssysteem 2.1"
       ],
       "cons": [
-        "Fors duurder dan de 65C6KS",
+        "Fors duurder dan de 65T69C",
         "Nog weinig reviews op bol"
       ],
       "ideal": "Wie het maximale uit QLED wil halen en een fel alternatief voor OLED zoekt.",
@@ -697,13 +690,13 @@
     },
     {
       "h": "Welk formaat en welk budget?",
-      "p": "Voor een kijkafstand van 2 tot 2,5 meter is 55 inch ideaal, vanaf 2,5 meter kies je 65 inch. Een goede 55 inch QLED met Mini-LED koop je vanaf ongeveer 600 euro, een 65 inch meestal vanaf 800 euro, met de TCL 65C6KS op 60 Hz als goedkopere uitzondering. Onder de 500 euro krijg je een basis-QLED zonder lokale dimming. Boven de 1.200 euro betaal je voor meer dimzones, hogere helderheid of design zoals bij The Frame Pro."
+      "p": "Voor een kijkafstand van 2 tot 2,5 meter is 55 inch ideaal, vanaf 2,5 meter kies je 65 inch. Een goede 55 inch QLED met Mini-LED koop je vanaf ongeveer 600 euro, een 65 inch meestal vanaf 800 euro. Onder de 500 euro krijg je een basis-QLED zonder lokale dimming, zoals de TCL 65T69C op 65 inch. Boven de 1.200 euro betaal je voor meer dimzones, hogere helderheid of design zoals bij The Frame Pro."
     }
   ],
   "faq": [
     {
       "q": "Welke QLED-tv is het beste?",
-      "a": "Op basis van onze vergelijking is de Samsung QE55QN83H de beste QLED-tv van 2026. Hij combineert Neo QLED met Mini-LED, een antireflectiefilter en 120 Hz voor ongeveer 850 euro. De TCL 65C6KS is de beste prijs-kwaliteit."
+      "a": "Op basis van onze vergelijking is de Samsung QE55QN83H de beste QLED-tv van 2026. Hij combineert Neo QLED met Mini-LED, een antireflectiefilter en 120 Hz voor ongeveer 850 euro. De TCL 65T69C is de beste prijs-kwaliteit."
     },
     {
       "q": "Wat is het verschil tussen QLED en OLED?",
@@ -731,5 +724,13 @@
     "beste-mini-led-tv",
     "beste-oled-tv",
     "beste-tv-50-inch"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-21",
+      "uit": "TCL 65C6KS",
+      "in": "TCL 65T69C",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

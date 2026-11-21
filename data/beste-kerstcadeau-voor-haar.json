@@ -409,22 +409,22 @@
     },
     {
       "brand": "Fujifilm",
-      "name": "instax mini 41",
-      "price": 89.99,
+      "name": "instax mini 11",
+      "price": 97.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,0 van 5",
-      "oneliner": "Retro instant camera voor direct afgedrukte kerstfoto's.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Vrolijke instant camera voor direct afgedrukte kerstfoto's.",
       "specs": {
         "Soort": "Instant camera",
         "Voor wie": "Vrouwen die graag herinneringen bewaren",
-        "Prijsklasse": "Rond 90 euro",
-        "Bijzonder": "Automatische belichting, close-upstand"
+        "Prijsklasse": "Rond 100 euro",
+        "Bijzonder": "Automatische belichting, selfiestand"
       },
       "pros": [
-        "Klassiek retro ontwerp",
-        "Automatische belichting",
-        "Close-upstand en selfiespiegel",
+        "Klein en licht",
+        "Automatische belichting en flitser",
+        "Selfiestand en selfiespiegel",
         "Foto direct in je hand"
       ],
       "cons": [
@@ -432,37 +432,18 @@
         "Geen bewerking of digitale opslag"
       ],
       "ideal": "Vrouwen die foto's liever ophangen dan op hun telefoon bewaren.",
-      "text": "Met een instant camera heb je de foto meteen in je hand. Dat maakt de instax mini 41 een kerstcadeau voor haar dat al tijdens het kerstdiner gebruikt wordt. De camera heeft een klassiek ontwerp dat aan een oude analoge camera doet denken. De belichting gaat automatisch, dus ook binnen bij kaarslicht en lampjes komen de meeste foto's goed uit.\n\nDraai je de lens een stukje verder, dan schakelt hij over naar de close-upstand voor foto's van dichtbij. Een kleine spiegel naast de lens helpt bij selfies. De camera werkt op twee AA-batterijen en gebruikt het gangbare instax mini-fotopapier, dat ongeveer 1 euro per foto kost. Leg daarom gerust een pak films bij het cadeau. Kopers op bol geven gemiddeld een 4,0 van 5 en vinden de foto's iets scherper dan bij de goedkopere mini 12. Voor rond de 92 euro is het een cadeau dat herinneringen oplevert.",
-      "ean": "4547410545180",
-      "bol_title": "Fujifilm Instax Mini 41 Camera",
-      "url": "https://www.bol.com/nl/nl/p/fujifilm-instax-mini-41-instant-camera-zwart/9300000229375594/",
-      "image": "https://media.s-bol.com/RqkOj0OpjZow/o2oNqYz/550x652.jpg",
+      "text": "Met een instant camera heb je de foto meteen in je hand. Dat maakt de instax mini 11 een kerstcadeau voor haar dat al tijdens het kerstdiner gebruikt wordt. De camera is klein, licht en heeft een vrolijke kleur. Belichting en flitser regelt hij zelf, dus ook binnen bij kaarslicht en lampjes komen de meeste foto's goed uit.\n\nTrek je de lens een stukje verder uit, dan schakelt hij over naar de selfie- en close-upstand voor foto's van dichtbij. Een kleine spiegel naast de lens helpt bij selfies. De camera werkt op twee AA-batterijen en gebruikt het gangbare instax mini-fotopapier, dat ongeveer 1 euro per foto kost. Leg daarom gerust een pak films bij het cadeau. Het is een ouder model dan de instax mini 13, maar de bediening is net zo eenvoudig en de foto's hebben hetzelfde formaat. Voor rond de 97 euro is het een cadeau dat herinneringen oplevert.",
+      "ean": "4547410430974",
+      "bol_title": "Fujifilm Instax Mini 11 - Sky Blue",
+      "url": "https://www.bol.com/nl/nl/p/fujifilm-instax-mini-11-sky-blue/9200000131587347/",
+      "image": "https://media.s-bol.com/59ZJM3P8MnLK/550x626.jpg",
       "ph": {
-        "2026-11-03": 92.0,
-        "2026-11-04": 92.0,
-        "2026-11-05": 92.0,
-        "2026-11-06": 92.0,
-        "2026-11-07": 92.0,
-        "2026-11-08": 92.0,
-        "2026-11-09": 92.0,
-        "2026-11-10": 92.0,
-        "2026-11-11": 92.99,
-        "2026-11-12": 92.99,
-        "2026-11-13": 89.99,
-        "2026-11-14": 89.99,
-        "2026-11-16": 89.99,
-        "2026-11-17": 89.99,
-        "2026-11-18": 89.99,
-        "2026-11-19": 89.99,
-        "2026-11-20": 89.99,
-        "2026-11-21": 89.99
+        "2026-11-21": 97.0
       },
-      "low_price": 89.99,
-      "synced": "2026-11-21",
-      "prev_price": 92.99,
-      "prev_date": "2026-11-12",
-      "ph_ean": "4547410545180",
-      "rating": 4.0
+      "low_price": 97.0,
+      "ph_ean": "4547410430974",
+      "rating": 4.3,
+      "synced": "2026-11-21"
     },
     {
       "brand": "Beurer",
@@ -635,5 +616,13 @@
     "beste-kerstcadeau-voor-hem",
     "beste-kerstcadeau-onder-50-euro",
     "beste-adventskalender"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-21",
+      "uit": "Fujifilm instax mini 41",
+      "in": "Fujifilm instax mini 11",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }
