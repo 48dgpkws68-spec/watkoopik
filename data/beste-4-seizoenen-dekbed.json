@@ -75,10 +75,11 @@
         "2026-11-18": 169.0,
         "2026-11-19": 169.0,
         "2026-11-20": 169.0,
-        "2026-11-21": 169.0
+        "2026-11-21": 169.0,
+        "2026-11-22": 169.0
       },
       "low_price": 149.0,
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "prev_price": 149.0,
       "prev_date": "2026-11-02",
       "ph_ean": "8720618169747",
@@ -137,10 +138,11 @@
         "2026-11-18": 65.0,
         "2026-11-19": 65.0,
         "2026-11-20": 65.0,
-        "2026-11-21": 65.0
+        "2026-11-21": 65.0,
+        "2026-11-22": 65.0
       },
       "low_price": 65.0,
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "prev_price": 75.0,
       "prev_date": "2026-11-01",
       "ph_ean": "8720618169952",
@@ -199,10 +201,11 @@
         "2026-11-18": 179.0,
         "2026-11-19": 179.0,
         "2026-11-20": 179.0,
-        "2026-11-21": 179.0
+        "2026-11-21": 179.0,
+        "2026-11-22": 179.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "prev_price": 169.0,
       "prev_date": "2026-11-02",
       "ph_ean": "8720256479413",
@@ -261,10 +264,11 @@
         "2026-11-18": 279.99,
         "2026-11-19": 279.0,
         "2026-11-20": 279.0,
-        "2026-11-21": 279.0
+        "2026-11-21": 279.0,
+        "2026-11-22": 279.0
       },
       "low_price": 277.9,
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "prev_price": 279.99,
       "prev_date": "2026-11-18",
       "ph_ean": "8720701885332",
@@ -273,7 +277,7 @@
     {
       "brand": "Ducky Dons",
       "name": "Nordic 4-Seizoenen Dekbed 200x220",
-      "price": 259.0,
+      "price": 255.95,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -323,12 +327,13 @@
         "2026-11-18": 259.0,
         "2026-11-19": 259.0,
         "2026-11-20": 259.0,
-        "2026-11-21": 259.0
+        "2026-11-21": 259.0,
+        "2026-11-22": 255.95
       },
       "low_price": 246.05,
-      "synced": "2026-11-21",
-      "prev_price": 255.95,
-      "prev_date": "2026-11-17",
+      "synced": "2026-11-22",
+      "prev_price": 259.0,
+      "prev_date": "2026-11-21",
       "ph_ean": "8718719723142",
       "rating": 4.8
     },
@@ -384,10 +389,11 @@
         "2026-11-18": 179.95,
         "2026-11-19": 179.95,
         "2026-11-20": 179.95,
-        "2026-11-21": 179.95
+        "2026-11-21": 179.95,
+        "2026-11-22": 179.95
       },
       "low_price": 179.95,
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "ph_ean": "8721067012059",
       "rating": 5.0
     },
@@ -443,10 +449,11 @@
         "2026-11-18": 59.99,
         "2026-11-19": 59.99,
         "2026-11-20": 59.99,
-        "2026-11-21": 59.99
+        "2026-11-21": 59.99,
+        "2026-11-22": 59.99
       },
       "low_price": 59.99,
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "prev_price": 89.0,
       "prev_date": "2026-11-01",
       "ph_ean": "8719425809946",
@@ -504,10 +511,11 @@
         "2026-11-18": 199.0,
         "2026-11-19": 199.0,
         "2026-11-20": 199.0,
-        "2026-11-21": 199.0
+        "2026-11-21": 199.0,
+        "2026-11-22": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "ph_ean": "8719638068932",
       "rating": 4.9
     },
@@ -554,10 +562,11 @@
         "2026-11-18": 58.46,
         "2026-11-19": 58.46,
         "2026-11-20": 58.46,
-        "2026-11-21": 58.46
+        "2026-11-21": 58.46,
+        "2026-11-22": 58.46
       },
       "low_price": 58.46,
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "ph_ean": "8720813992065",
       "rating": 4.3
     },
@@ -567,7 +576,7 @@
       "price": 42.99,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,8 van 5",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Budget 4 seizoenen dekbed met delen van 200 en 300 g/m².",
       "specs": {
         "Vulling": "Synthetische vezel",
@@ -586,7 +595,7 @@
         "Synthetisch en minder ademend"
       ],
       "ideal": "Wie een goedkoop dekbed zoekt voor een logeerbed of eerste huis.",
-      "text": "HUSH Living is een jong merk op bol dat met een scherpe prijs komt. Dit 4 seizoenen dekbed kost rond de 43 euro in 200x200 cm en vermeldt netjes de vulgewichten: het zomerdeel heeft 200 gram per vierkante meter, het tussenseizoensdeel 300 gram. Samen kom je op 500 gram, een gangbare winterwarmte voor een verwarmd huis.\n\nDe twee delen koppel je met drukknopen. Omdat de vulling synthetisch is, kun je het dekbed gewoon in de wasmachine wassen. Kopers geven gemiddeld een 4,8, al zijn de beoordelingen vooral van de eerste maanden gebruik. Let op de lengte: met 200 cm is het dekbed te kort als je langer bent dan ongeveer 1,80 meter, dan kies je beter een 220 cm-model. Met 200 cm breed is het bovendien een smal tweepersoonsdekbed. Ook voert synthetische vulling minder vocht af dan wol of dons. Voor een logeerkamer of als tijdelijke oplossing is het een prima budgetkeuze.",
+      "text": "HUSH Living is een jong merk op bol dat met een scherpe prijs komt. Dit 4 seizoenen dekbed kost rond de 43 euro in 200x200 cm en vermeldt netjes de vulgewichten: het zomerdeel heeft 200 gram per vierkante meter, het tussenseizoensdeel 300 gram. Samen kom je op 500 gram, een gangbare winterwarmte voor een verwarmd huis.\n\nDe twee delen koppel je met drukknopen. Omdat de vulling synthetisch is, kun je het dekbed gewoon in de wasmachine wassen. Kopers geven gemiddeld een 4,9, al zijn de beoordelingen vooral van de eerste maanden gebruik. Let op de lengte: met 200 cm is het dekbed te kort als je langer bent dan ongeveer 1,80 meter, dan kies je beter een 220 cm-model. Met 200 cm breed is het bovendien een smal tweepersoonsdekbed. Ook voert synthetische vulling minder vocht af dan wol of dons. Voor een logeerkamer of als tijdelijke oplossing is het een prima budgetkeuze.",
       "ean": "8721339407583",
       "search": "HUSH Living 4 Seizoenen Dekbed 200x200",
       "bol_title": "HUSH Living - 4 Seizoenen Dekbed - 200x200 cm - Tweepersoons - 200+300 Gsm - Warm, Ademend en Lichtgewicht - Wit",
@@ -606,12 +615,13 @@
         "2026-11-18": 42.99,
         "2026-11-19": 42.99,
         "2026-11-20": 42.99,
-        "2026-11-21": 42.99
+        "2026-11-21": 42.99,
+        "2026-11-22": 42.99
       },
       "low_price": 42.99,
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "ph_ean": "8721339407583",
-      "rating": 4.8
+      "rating": 4.9
     }
   ],
   "guide": [

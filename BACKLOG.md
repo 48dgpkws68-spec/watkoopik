@@ -316,3 +316,6 @@ Formaat: slug | cat | query | titel | emoji
 # Wél het toetsen waard voor de verbeterronde: espressomachine (bol nr. 1 Philips 2200 EP2220, maar dat is een volautomaat),
 # koelkast (Inventum KV1808B, CHiQ FBM157L42), koptelefoon-onder-100 (Sony MDR-ZX110), airfryer (Philips 3000 Dual NA35x ontbreekt, uit N17).
 # Ook: zoekterm van tv-voor-sport ("tv voor voetbal"), tv-onder-1000 en laptop-ouderen levert geen tv's/laptops op; bolpopulair-blok daar dus leeg (klopt).
+# groeimotor 22 nov 2026 (AI2 uitrol, E53 gewonnen, NACHTWERK N50): smalle varianten in ChatGPT-families, alleen voor de nachtruns (google_wacht), 2 per nacht.
+[x] beste-boxspring-160x200 | slapen | boxspring 160x200 | De 10 beste boxsprings van 160x200 van 2026 | 🛏️ (google_wacht)
+[x] beste-kunstkerstboom-150-cm | wonen | kunstkerstboom 150 cm | De 10 beste kunstkerstbomen van 150 cm van 2026 | 🎄 (google_wacht)

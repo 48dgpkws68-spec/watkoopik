@@ -219,9 +219,19 @@
     "in": "TCL 65C6KS",
     "plek": 5,
     "paar": true
+   },
+   {
+    "d": "2026-11-21",
+    "t": "vervangen",
+    "uit": "TCL 65C6KS",
+    "in": "TCL 65T69C",
+    "plek": 5,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "ce0f5541a6a04300b2b85c1de281c172cb461730",
+  "_tot": "40ba62f90f2484e36892a7b913d0c7756253a086",
   "_ps": [
    {
     "brand": "LG",
@@ -245,8 +255,8 @@
    },
    {
     "brand": "TCL",
-    "name": "65C6KS",
-    "ean": "5901292525828"
+    "name": "65T69C",
+    "ean": "5901292528584"
    },
    {
     "brand": "Samsung",
@@ -938,9 +948,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-21",
+    "t": "vervangen",
+    "uit": "TCL 65C6KS",
+    "in": "TCL 65T69C",
+    "plek": 8,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "ce0f5541a6a04300b2b85c1de281c172cb461730",
+  "_tot": "40ba62f90f2484e36892a7b913d0c7756253a086",
   "_ps": [
    {
     "brand": "LG",
@@ -979,8 +999,8 @@
    },
    {
     "brand": "TCL",
-    "name": "65C6KS",
-    "ean": "5901292525828"
+    "name": "65T69C",
+    "ean": "5901292528584"
    },
    {
     "brand": "Samsung",
@@ -1180,9 +1200,17 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-21",
+    "t": "vervangen",
+    "uit": "HP OmniBook 3 14-hz0716ndx Snapdragon X 16 GB 512 GB",
+    "in": "HP OmniBook 3 14-hz0714ndx Snapdragon X 16 GB 512 GB",
+    "plek": 5,
+    "paar": true
    }
   ],
-  "_tot": "ce0f5541a6a04300b2b85c1de281c172cb461730",
+  "_tot": "40ba62f90f2484e36892a7b913d0c7756253a086",
   "_ps": [
    {
     "brand": "Apple",
@@ -1206,8 +1234,8 @@
    },
    {
     "brand": "HP",
-    "name": "OmniBook 3 14-hz0716ndx Snapdragon X 16 GB 512 GB",
-    "ean": "0826581670346"
+    "name": "OmniBook 3 14-hz0714ndx Snapdragon X 16 GB 512 GB",
+    "ean": "0826581670353"
    },
    {
     "brand": "Lenovo",
@@ -1390,9 +1418,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-21",
+    "t": "vervangen",
+    "uit": "TCL 65C6KS",
+    "in": "TCL 65T69C",
+    "plek": 8,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "ce0f5541a6a04300b2b85c1de281c172cb461730",
+  "_tot": "40ba62f90f2484e36892a7b913d0c7756253a086",
   "_ps": [
    {
     "brand": "LG",
@@ -1431,8 +1469,8 @@
    },
    {
     "brand": "TCL",
-    "name": "65C6KS",
-    "ean": "5901292525828"
+    "name": "65T69C",
+    "ean": "5901292528584"
    },
    {
     "brand": "Samsung",
@@ -1743,9 +1781,19 @@
     "in": "Hisense 5S Serie DH5S102BW",
     "plek": 2,
     "paar": true
+   },
+   {
+    "d": "2026-11-21",
+    "t": "vervangen",
+    "uit": "AEG 9000X TR969V6C AbsoluteCare Pro",
+    "in": "AEG 9000X TR968V4C AbsoluteCare Pro",
+    "plek": 3,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "ce0f5541a6a04300b2b85c1de281c172cb461730",
+  "_tot": "40ba62f90f2484e36892a7b913d0c7756253a086",
   "_ps": [
    {
     "brand": "Samsung",
@@ -1759,8 +1807,8 @@
    },
    {
     "brand": "AEG",
-    "name": "9000X TR969V6C AbsoluteCare Pro",
-    "ean": "7333394134956"
+    "name": "9000X TR968V4C AbsoluteCare Pro",
+    "ean": "7333394100777"
    },
    {
     "brand": "Samsung",

@@ -24,10 +24,10 @@
     {
       "brand": "LEGO",
       "name": "DUPLO Interactieve avonturentrein (10427)",
-      "price": 56.0,
+      "price": 56.1,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,9 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Trein die zelf rijdt, licht geeft en stopt op actiestenen.",
       "specs": {
         "Leeftijd fabrikant": "2+",
@@ -52,12 +52,15 @@
       "url": "https://www.bol.com/nl/nl/p/lego-duplo-stad-interactieve-avonturentrein-set-10427/9300000187249562/",
       "image": "https://media.s-bol.com/W30l846l0E34/RlknD4L/550x459.jpg",
       "ph": {
-        "2026-11-21": 56.0
+        "2026-11-21": 56.0,
+        "2026-11-22": 56.1
       },
       "low_price": 56.0,
       "ph_ean": "5702017583822",
-      "rating": 4.9,
-      "synced": "2026-11-21"
+      "rating": 5.0,
+      "synced": "2026-11-22",
+      "prev_price": 56.0,
+      "prev_date": "2026-11-21"
     },
     {
       "brand": "LEGO",
@@ -90,12 +93,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-duplo-luxe-opbergdoos-10914/9200000122531937/",
       "image": "https://media.s-bol.com/Y36jDADPg22K/08qOGV7/550x394.jpg",
       "ph": {
-        "2026-11-21": 33.74
+        "2026-11-21": 33.74,
+        "2026-11-22": 33.74
       },
       "low_price": 33.74,
       "ph_ean": "5702016617757",
       "rating": 4.9,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "LEGO",
@@ -128,17 +132,18 @@
       "url": "https://www.bol.com/nl/nl/p/lego-duplo-dieren-verzorgen-op-de-boerderij-10416/9300000157956421/",
       "image": "https://media.s-bol.com/2KRjpGNmgjLK/jYQ5qEv/550x378.jpg",
       "ph": {
-        "2026-11-21": 83.99
+        "2026-11-21": 83.99,
+        "2026-11-22": 83.99
       },
       "low_price": 83.99,
       "ph_ean": "5702017583266",
       "rating": 5.0,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "LEGO",
       "name": "DUPLO 3in1 Boomhut (10993)",
-      "price": 103.58,
+      "price": 104.99,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,9 van 5",
@@ -166,12 +171,15 @@
       "url": "https://www.bol.com/nl/nl/p/lego-duplo-3in1-boomhut-peuterspeelgoed-set-10993/9300000141764461/",
       "image": "https://media.s-bol.com/xKGY0Ez681kJ/A6qWAV1/550x380.jpg",
       "ph": {
-        "2026-11-21": 103.58
+        "2026-11-21": 103.58,
+        "2026-11-22": 104.99
       },
       "low_price": 103.58,
       "ph_ean": "5702017417714",
       "rating": 4.9,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22",
+      "prev_price": 103.58,
+      "prev_date": "2026-11-21"
     },
     {
       "brand": "LEGO",
@@ -204,12 +212,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-duplo-classic-kleurrijke-creatieve-doos-leerzaam-bouwspeelgoed-met-80-kleurrijke-stenen-stimuleert-de-concentratie-cadeautip-voor-peuters-vanaf-18-maanden-10479/9300000266727633/",
       "image": "https://media.s-bol.com/vG29Ggr7ZzML/jZ7KJJl/550x575.jpg",
       "ph": {
-        "2026-11-21": 15.99
+        "2026-11-21": 15.99,
+        "2026-11-22": 15.99
       },
       "low_price": 15.99,
       "ph_ean": "5702018056578",
       "rating": 4.8,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "LEGO",
@@ -242,12 +251,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-duplo-peppa-big-treinrit-met-opa-big-educatief-trein-speelgoed-voor-peuters-10466/9300000243481701/",
       "image": "https://media.s-bol.com/Y36jA1ykDW7O/RlYj8VK/550x405.jpg",
       "ph": {
-        "2026-11-21": 44.99
+        "2026-11-21": 44.99,
+        "2026-11-22": 44.99
       },
       "low_price": 44.99,
       "ph_ean": "5702018056479",
       "rating": 5.0,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "LEGO",
@@ -280,12 +290,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-duplo-town-3-in-1-bouwvoertuigen-speelgoed-bouwset-voor-peuters-met-2-figuren-en-stenen-om-een-graafmachine-kiepwagen-sleepwagen-of-laadwagen-te-bouwen-10475/9300000237345485/",
       "image": "https://media.s-bol.com/B3m2nM1v0xDQ/J8zArMy/550x563.jpg",
       "ph": {
-        "2026-11-21": 17.64
+        "2026-11-21": 17.64,
+        "2026-11-22": 17.64
       },
       "low_price": 17.64,
       "ph_ean": "5702018032022",
       "rating": 5.0,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "LEGO",
@@ -318,12 +329,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-duplo-getallentrein-leren-tellen-10954/9300000031390213/",
       "image": "https://media.s-bol.com/J16L3JODEM6J/OkmOZL/550x329.jpg",
       "ph": {
-        "2026-11-21": 16.39
+        "2026-11-21": 16.39,
+        "2026-11-22": 16.39
       },
       "low_price": 16.39,
       "ph_ean": "5702016911114",
       "rating": 4.8,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "LEGO",
@@ -356,12 +368,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-duplo-town-brandweertruck-met-slang-en-brandweerman-speelgoed-met-reddingsvoertuig-leerzaam-cadeau-voor-peuters-vanaf-2-jaar-met-eekhoornfiguur-en-ladder-10473/9300000237345481/",
       "image": "https://media.s-bol.com/oxl0O1Nj2JkA/qQ65mO2/550x563.jpg",
       "ph": {
-        "2026-11-21": 20.99
+        "2026-11-21": 20.99,
+        "2026-11-22": 20.99
       },
       "low_price": 20.99,
       "ph_ean": "5702018056530",
       "rating": 4.6,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "LEGO",
@@ -394,12 +407,13 @@
       "url": "https://www.bol.com/nl/nl/p/lego-duplo-stad-3-in-1-creatieve-hellingen-met-voertuigen-leerzaam-speelgoed-voor-kinderen-vanaf-3-jaar-cadeautip-voor-peuters-10478/9300000266727635/",
       "image": "https://media.s-bol.com/oxYMo7gwpMVL/A6qWEnO/550x406.jpg",
       "ph": {
-        "2026-11-21": 50.69
+        "2026-11-21": 50.69,
+        "2026-11-22": 50.69
       },
       "low_price": 50.69,
       "ph_ean": "5702018056561",
       "rating": 4.1,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     }
   ],
   "verdict": "De DUPLO Interactieve avonturentrein (10427) is de beste DUPLO-set voor de meeste peuters vanaf 2 jaar: een trein die zelf rijdt en reageert op actiestenen, met 14 railelementen voor ongeveer 56 euro. De Kleurrijke creatieve doos (10479) is de beste prijs-kwaliteit met 80 stenen voor rond de 16 euro, al vanaf anderhalf jaar. Wil je groot uitpakken voor een kleuter vanaf 3 jaar, kies dan de 3in1 Boomhut (10993) met 126 stenen.",

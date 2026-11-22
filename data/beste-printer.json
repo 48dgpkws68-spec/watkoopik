@@ -52,12 +52,13 @@
       "image": "https://media.s-bol.com/m4wPO74EJNQp/0g0o35y/550x495.jpg",
       "ph": {
         "2026-11-20": 207.95,
-        "2026-11-21": 207.95
+        "2026-11-21": 207.95,
+        "2026-11-22": 207.95
       },
       "low_price": 207.95,
       "ph_ean": "8715946725949",
       "rating": 4.0,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "Canon",
@@ -90,7 +91,7 @@
       "bol_title": "Canon PIXMA TS6550i - All-in-One Inkjetprinter - Wit",
       "url": "https://www.bol.com/nl/nl/p/canon-pixma-ts6550i-all-in-one-inkjetprinter-wit/9300000237516585/",
       "image": "https://media.s-bol.com/8QAQ0QqVzX92/Eq6lp8W/550x302.jpg",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "ph": {
         "2026-10-15": 71.99,
         "2026-10-16": 71.99,
@@ -127,7 +128,8 @@
         "2026-11-18": 69.99,
         "2026-11-19": 69.99,
         "2026-11-20": 64.99,
-        "2026-11-21": 64.99
+        "2026-11-21": 64.99,
+        "2026-11-22": 64.99
       },
       "low_price": 64.99,
       "prev_price": 69.99,
@@ -168,11 +170,12 @@
       "url": "https://www.bol.com/nl/nl/p/epson-ecotank-et-8550-all-in-one-printer/9300000029191431/",
       "image": "https://media.s-bol.com/Y3BXrY4XnOGn/Og5G5Pg/550x483.jpg",
       "ph": {
-        "2026-11-21": 599.0
+        "2026-11-21": 599.0,
+        "2026-11-22": 599.0
       },
       "low_price": 599.0,
       "ph_ean": "8715946676722",
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "Brother",
@@ -205,7 +208,7 @@
       "bol_title": "Brother DCP-L2627DWE - All-in-One Laserprinter - Zwart-Wit Printer",
       "url": "https://www.bol.com/nl/nl/p/brother-dcpl2627dwe-laserprinter-a4-1200-x-1200-dpi-32-ppm-wifi/9300000160100237/",
       "image": "https://media.s-bol.com/yKlJXGN1VRPw/w0DZkXJ/550x428.jpg",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "ph": {
         "2026-10-15": 180.2,
         "2026-10-16": 174.85,
@@ -242,7 +245,8 @@
         "2026-11-18": 197.0,
         "2026-11-19": 197.0,
         "2026-11-20": 190.0,
-        "2026-11-21": 190.0
+        "2026-11-21": 190.0,
+        "2026-11-22": 190.0
       },
       "low_price": 174.85,
       "prev_price": 197.0,
@@ -253,7 +257,7 @@
     {
       "brand": "HP",
       "name": "OfficeJet Pro 9135e",
-      "price": 199.0,
+      "price": 209.0,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -281,7 +285,7 @@
       "bol_title": "HP OfficeJet Pro 9135e - All-in-One Kleurenduplexprinter - 3 maanden Instant Ink inbegrepen bij HP+ - Cement",
       "url": "https://www.bol.com/nl/nl/p/hp-officejet-pro-9135e-all-in-one-kleurenduplexprinter-3-maanden-instant-ink-inbegrepen-bij-hp/9300000170341895/",
       "image": "https://media.s-bol.com/3N3RxWYQwqLn/1jlxz1j/550x470.jpg",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "ph": {
         "2026-10-15": 269.99,
         "2026-10-16": 269.99,
@@ -318,11 +322,12 @@
         "2026-11-18": 199.0,
         "2026-11-19": 199.0,
         "2026-11-20": 199.0,
-        "2026-11-21": 199.0
+        "2026-11-21": 199.0,
+        "2026-11-22": 209.0
       },
       "low_price": 199.0,
-      "prev_price": 279.99,
-      "prev_date": "2026-11-12",
+      "prev_price": 199.0,
+      "prev_date": "2026-11-21",
       "ph_ean": "0196786896095",
       "rating": 5.0
     },
@@ -357,7 +362,7 @@
       "bol_title": "HP LaserJet MFP M234dw - Laserprinter - Zwart-Wit Printer",
       "url": "https://www.bol.com/nl/nl/p/hp-laserjet-m234dw-laser-printer/9300000026458371/",
       "image": "https://media.s-bol.com/qpMWwV2E1zDR/v22WN65/550x520.jpg",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "ph": {
         "2026-10-15": 139.95,
         "2026-10-16": 152.9,
@@ -394,7 +399,8 @@
         "2026-11-18": 119.0,
         "2026-11-19": 119.0,
         "2026-11-20": 119.0,
-        "2026-11-21": 139.95
+        "2026-11-21": 139.95,
+        "2026-11-22": 139.95
       },
       "low_price": 119.0,
       "prev_price": 119.0,
@@ -405,7 +411,7 @@
     {
       "brand": "HP",
       "name": "Smart Tank 5109",
-      "price": 146.99,
+      "price": 147.9,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 3,9 van 5",
@@ -451,19 +457,20 @@
         "2026-11-18": 147.9,
         "2026-11-19": 147.9,
         "2026-11-20": 147.9,
-        "2026-11-21": 146.99
+        "2026-11-21": 146.99,
+        "2026-11-22": 147.9
       },
       "low_price": 146.99,
-      "synced": "2026-11-21",
-      "prev_price": 147.9,
-      "prev_date": "2026-11-20",
+      "synced": "2026-11-22",
+      "prev_price": 146.99,
+      "prev_date": "2026-11-21",
       "ph_ean": "0198828752772",
       "rating": 3.9
     },
     {
       "brand": "Brother",
       "name": "HL-L2400DWE",
-      "price": 131.0,
+      "price": 128.0,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -491,7 +498,7 @@
       "bol_title": "Brother HL-L2400DWE - Laserprinter - Zwart-Wit Printer",
       "url": "https://www.bol.com/nl/nl/p/brother-hll2400dw-printer-zwart/9300000160100201/",
       "image": "https://media.s-bol.com/MnPzMqJlkyY5/5yKxBrA/550x383.jpg",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "ph": {
         "2026-10-15": 132.0,
         "2026-10-16": 132.0,
@@ -528,18 +535,19 @@
         "2026-11-18": 134.0,
         "2026-11-19": 134.0,
         "2026-11-20": 134.0,
-        "2026-11-21": 131.0
+        "2026-11-21": 131.0,
+        "2026-11-22": 128.0
       },
       "low_price": 107.23,
-      "prev_price": 134.0,
-      "prev_date": "2026-11-20",
+      "prev_price": 131.0,
+      "prev_date": "2026-11-21",
       "ph_ean": "4977766831048",
       "rating": 4.7
     },
     {
       "brand": "Brother",
       "name": "MFC-J4350DW",
-      "price": 147.75,
+      "price": 165.0,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -587,12 +595,13 @@
         "2026-11-18": 148.72,
         "2026-11-19": 148.72,
         "2026-11-20": 154.21,
-        "2026-11-21": 147.75
+        "2026-11-21": 147.75,
+        "2026-11-22": 165.0
       },
       "low_price": 144.57,
-      "synced": "2026-11-21",
-      "prev_price": 154.21,
-      "prev_date": "2026-11-20",
+      "synced": "2026-11-22",
+      "prev_price": 147.75,
+      "prev_date": "2026-11-21",
       "ph_ean": "4977766841924",
       "rating": 4.6
     },
@@ -627,7 +636,7 @@
       "bol_title": "HP Envy 6520e All-in-One - Kleurenprinter met scanner en kopieerfunctie - Inkjet printer - Wifi",
       "url": "https://www.bol.com/nl/nl/p/hp-envy-6520e-all-in-one-printer-geschikt-voor-instant-ink/9300000186171951/",
       "image": "https://media.s-bol.com/747vBwX1NEqw/0YXz2RK/550x368.jpg",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "ph": {
         "2026-10-15": 84.9,
         "2026-10-16": 84.9,
@@ -664,7 +673,8 @@
         "2026-11-18": 69.95,
         "2026-11-19": 69.95,
         "2026-11-20": 69.95,
-        "2026-11-21": 69.95
+        "2026-11-21": 69.95,
+        "2026-11-22": 69.95
       },
       "low_price": 69.95,
       "prev_price": 87.9,

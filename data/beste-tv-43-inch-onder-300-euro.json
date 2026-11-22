@@ -63,12 +63,13 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-43-inch-4k-qled-tv/9300000231021635/",
       "image": "https://media.s-bol.com/JoqgkJ41nrwv/Z4jn42J/550x330.jpg",
       "ph": {
-        "2026-11-21": 289.0
+        "2026-11-21": 289.0,
+        "2026-11-22": 289.0
       },
       "low_price": 289.0,
       "ph_ean": "6941948705630",
       "rating": 4.3,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "Hisense",
@@ -102,11 +103,12 @@
       "url": "https://www.bol.com/nl/nl/p/hisense-43a7q-43-inch-4k-qled-2025-smart-tv/9300000232680273/",
       "image": "https://media.s-bol.com/gmZpV86goZ8k/nRQ2mYY/550x353.jpg",
       "ph": {
-        "2026-11-21": 299.0
+        "2026-11-21": 299.0,
+        "2026-11-22": 299.0
       },
       "low_price": 299.0,
       "ph_ean": "6942351420189",
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "Philips",
@@ -140,17 +142,18 @@
       "url": "https://www.bol.com/nl/nl/p/philips-43pqs7801-12-43-inch-4k-qled-2026/9300000301588086/",
       "image": "https://media.s-bol.com/mJDpwRRloG3R/ROEoXJY/550x345.jpg",
       "ph": {
-        "2026-11-21": 299.0
+        "2026-11-21": 299.0,
+        "2026-11-22": 299.0
       },
       "low_price": 299.0,
       "ph_ean": "8718863051658",
       "rating": 4.5,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "Philips",
       "name": "43PUS7001/12",
-      "price": 279.0,
+      "price": 299.0,
       "score": 8.6,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 5,0 van 5",
@@ -180,12 +183,15 @@
       "url": "https://www.bol.com/nl/nl/p/philips-43pus7001-12-43-inch-4k-led-2026/9300000292271699/",
       "image": "https://media.s-bol.com/zGJmqM8G3GkO/nrW175R/550x251.jpg",
       "ph": {
-        "2026-11-21": 279.0
+        "2026-11-21": 279.0,
+        "2026-11-22": 299.0
       },
       "low_price": 279.0,
       "ph_ean": "8718863051603",
       "rating": 5.0,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22",
+      "prev_price": 279.0,
+      "prev_date": "2026-11-21"
     },
     {
       "brand": "Hisense",
@@ -219,11 +225,12 @@
       "url": "https://www.bol.com/nl/nl/p/hisense-43a6s-smarttv-43-inch-4k-dled-2026-dolby-vision-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-voice-control-dts-virtual-x/9300000264072486/",
       "image": "https://media.s-bol.com/4MAB6APQX3rn/DqOZmjB/550x359.jpg",
       "ph": {
-        "2026-11-21": 297.0
+        "2026-11-21": 297.0,
+        "2026-11-22": 297.0
       },
       "low_price": 297.0,
       "ph_ean": "6942351430102",
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "MEDION",
@@ -257,12 +264,13 @@
       "url": "https://www.bol.com/nl/nl/p/medion-108-cm-43-qled-tv-smart-tv-4k-dolby-vision-hdr-prime-video-disney-compatibel-met-google-tv-pvr-bluetooth-md843701-dolby-vision-hdr-prime-video-disney-kompatibel-mit-google-tv-pvr-blu/9300000333315325/",
       "image": "https://media.s-bol.com/E3Z99xVkpzMY/BrLEJOQ/550x440.jpg",
       "ph": {
-        "2026-11-21": 279.95
+        "2026-11-21": 279.95,
+        "2026-11-22": 279.95
       },
       "low_price": 279.95,
       "ph_ean": "4061275250879",
       "rating": 5.0,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "CHiQ",
@@ -297,12 +305,13 @@
       "url": "https://www.bol.com/nl/nl/p/chiq-u43qst-smart-tv-43-inch-qled-pro-google-tv-uhd-4k-randloos-metal-design-dolby-audio-2025-nieuw/9300000238936359/",
       "image": "https://media.s-bol.com/B5E6KJPLrV4n/BLQBRXn/550x363.jpg",
       "ph": {
-        "2026-11-21": 282.74
+        "2026-11-21": 282.74,
+        "2026-11-22": 282.74
       },
       "low_price": 282.74,
       "ph_ean": "8592344206092",
       "rating": 4.3,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "TCL",
@@ -335,12 +344,13 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-43s51k-full-hd-43-qled-smart-tv/9300000250301883/",
       "image": "https://media.s-bol.com/KD7lAKJ1DyPn/X6zgMPv/550x550.jpg",
       "ph": {
-        "2026-11-21": 230.53
+        "2026-11-21": 230.53,
+        "2026-11-22": 230.53
       },
       "low_price": 230.53,
       "ph_ean": "5901292527075",
       "rating": 4.2,
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "METZ",
@@ -373,11 +383,12 @@
       "url": "https://www.bol.com/nl/nl/p/metz-43mqf7500z-qled-tv-43-inch-4k-uhd-smart-google-tv-hdr10-dolby-audio-wifi-triple-tuner/9300000236196224/",
       "image": "https://media.s-bol.com/YOp77DGZo2En/ywGpyzE/550x360.jpg",
       "ph": {
-        "2026-11-21": 280.0
+        "2026-11-21": 280.0,
+        "2026-11-22": 280.0
       },
       "low_price": 280.0,
       "ph_ean": "4057313024595",
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     },
     {
       "brand": "Horizon",
@@ -411,11 +422,12 @@
       "url": "https://www.bol.com/nl/nl/p/horizon-smart-tv-43-inch-4k-led-diamant-serie-ultra-hd-wifi-netflix-frameless-slim-design/9300000172603079/",
       "image": "https://media.s-bol.com/q0MVzOLXl8J7/73mPoPj/550x353.jpg",
       "ph": {
-        "2026-11-21": 279.0
+        "2026-11-21": 279.0,
+        "2026-11-22": 279.0
       },
       "low_price": 279.0,
       "ph_ean": "5949494018205",
-      "synced": "2026-11-21"
+      "synced": "2026-11-22"
     }
   ],
   "guide": [

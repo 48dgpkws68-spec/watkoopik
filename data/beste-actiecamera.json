@@ -62,11 +62,12 @@
         "2026-11-18": 419.0,
         "2026-11-19": 419.0,
         "2026-11-20": 389.0,
-        "2026-11-21": 369.0
+        "2026-11-21": 369.0,
+        "2026-11-22": 369.0
       },
       "low_price": 369.0,
       "ph_ean": "6937224126060",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "prev_price": 389.0,
       "prev_date": "2026-11-20",
       "rating": 5.0
@@ -112,11 +113,12 @@
         "2026-11-18": 376.99,
         "2026-11-19": 376.99,
         "2026-11-20": 380.99,
-        "2026-11-21": 380.99
+        "2026-11-21": 380.99,
+        "2026-11-22": 380.99
       },
       "low_price": 353.0,
       "ph_ean": "0810116381616",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "prev_price": 376.99,
       "prev_date": "2026-11-19",
       "rating": 4.4
@@ -161,11 +163,12 @@
         "2026-11-18": 379.0,
         "2026-11-19": 299.0,
         "2026-11-20": 299.0,
-        "2026-11-21": 299.0
+        "2026-11-21": 299.0,
+        "2026-11-22": 299.0
       },
       "low_price": 299.0,
       "ph_ean": "6970357859733",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "rating": 4.3,
       "prev_price": 379.0,
       "prev_date": "2026-11-18"
@@ -211,11 +214,12 @@
         "2026-11-18": 423.99,
         "2026-11-19": 423.99,
         "2026-11-20": 399.0,
-        "2026-11-21": 399.0
+        "2026-11-21": 399.0,
+        "2026-11-22": 399.0
       },
       "low_price": 395.0,
       "ph_ean": "6977644761441",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "prev_price": 423.99,
       "prev_date": "2026-11-19",
       "rating": 4.3
@@ -261,17 +265,18 @@
         "2026-11-18": 189.0,
         "2026-11-19": 189.0,
         "2026-11-20": 189.0,
-        "2026-11-21": 189.0
+        "2026-11-21": 189.0,
+        "2026-11-22": 189.0
       },
       "low_price": 189.0,
       "ph_ean": "6941565965073",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "rating": 4.9
     },
     {
       "brand": "DJI",
       "name": "Osmo 360 Standard Combo",
-      "price": 375.0,
+      "price": 319.0,
       "score": 8.7,
       "label": null,
       "reviews": "",
@@ -309,13 +314,14 @@
         "2026-11-18": 375.79,
         "2026-11-19": 375.79,
         "2026-11-20": 375.79,
-        "2026-11-21": 375.0
+        "2026-11-21": 375.0,
+        "2026-11-22": 319.0
       },
-      "low_price": 375.0,
+      "low_price": 319.0,
       "ph_ean": "6937224110502",
-      "synced": "2026-11-21",
-      "prev_price": 375.79,
-      "prev_date": "2026-11-20"
+      "synced": "2026-11-22",
+      "prev_price": 375.0,
+      "prev_date": "2026-11-21"
     },
     {
       "brand": "Insta360",
@@ -323,7 +329,7 @@
       "price": 279.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,0 van 5",
+      "reviews": "bol-score 3,6 van 5",
       "oneliner": "Duimgrote 4K-camera van 39 gram die overal op klikt.",
       "specs": {
         "Video": "4K met 30 fps",
@@ -344,7 +350,7 @@
         "Action Pod is alleen spatwaterdicht"
       ],
       "ideal": "Ouders, wandelaars en fietsers die handsfree korte clips willen maken zonder gedoe.",
-      "text": "De GO 3S is de kleinste camera in deze lijst en dat is precies zijn kracht. Het cameraatje weegt 39 gram en is zo groot als je duim. Met de magnetische hanger draag je hem onder je shirt op borsthoogte en met de clip zet je hem op een pet. Zo film je vanuit je eigen gezichtspunt terwijl je beide handen vrij hebt, ideaal bij het spelen met kinderen of tijdens een wandeling.\n\nDe S-versie filmt in 4K, een duidelijke stap ten opzichte van de gewone GO 3. In de Action Pod verandert hij in een kleine actiecamera met klapscherm en loopt de accuduur op naar 140 minuten. Los houdt de camera het 38 minuten vol, dus dit is een camera voor korte clips. Kopers op bol geven hem een 4,0. Let op bij de aankoop: het geheugen van 64 GB kun je niet uitbreiden. Film je veel, kies dan de versie van 128 GB.",
+      "text": "De GO 3S is de kleinste camera in deze lijst en dat is precies zijn kracht. Het cameraatje weegt 39 gram en is zo groot als je duim. Met de magnetische hanger draag je hem onder je shirt op borsthoogte en met de clip zet je hem op een pet. Zo film je vanuit je eigen gezichtspunt terwijl je beide handen vrij hebt, ideaal bij het spelen met kinderen of tijdens een wandeling.\n\nDe S-versie filmt in 4K, een duidelijke stap ten opzichte van de gewone GO 3. In de Action Pod verandert hij in een kleine actiecamera met klapscherm en loopt de accuduur op naar 140 minuten. Los houdt de camera het 38 minuten vol, dus dit is een camera voor korte clips. Kopers op bol geven hem een 3,6. Let op bij de aankoop: het geheugen van 64 GB kun je niet uitbreiden. Film je veel, kies dan de versie van 128 GB.",
       "ean": "6970357857425",
       "bol_title": "Insta 360 GO 3S - Standard edition - Arctic White - 64GB",
       "url": "https://www.bol.com/nl/nl/p/insta-360-go-3s-standard-edition-64gb-arctic-white/9300000180889290/",
@@ -358,14 +364,15 @@
         "2026-11-18": 283.0,
         "2026-11-19": 283.0,
         "2026-11-20": 280.67,
-        "2026-11-21": 279.0
+        "2026-11-21": 279.0,
+        "2026-11-22": 279.0
       },
       "low_price": 279.0,
       "ph_ean": "6970357857425",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "prev_price": 280.67,
       "prev_date": "2026-11-20",
-      "rating": 4.0
+      "rating": 3.6
     },
     {
       "brand": "DJI",
@@ -408,11 +415,12 @@
         "2026-11-18": 338.99,
         "2026-11-19": 301.34,
         "2026-11-20": 301.34,
-        "2026-11-21": 301.34
+        "2026-11-21": 301.34,
+        "2026-11-22": 301.34
       },
       "low_price": 301.34,
       "ph_ean": "6937224115453",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "prev_price": 338.99,
       "prev_date": "2026-11-18"
     },
@@ -457,11 +465,12 @@
         "2026-11-18": 318.99,
         "2026-11-19": 289.0,
         "2026-11-20": 322.99,
-        "2026-11-21": 322.99
+        "2026-11-21": 322.99,
+        "2026-11-22": 322.99
       },
       "low_price": 289.0,
       "ph_ean": "0810116380282",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "prev_price": 289.0,
       "prev_date": "2026-11-19",
       "rating": 4.5
@@ -507,11 +516,12 @@
         "2026-11-18": 169.99,
         "2026-11-19": 169.99,
         "2026-11-20": 169.99,
-        "2026-11-21": 169.99
+        "2026-11-21": 169.99,
+        "2026-11-22": 169.99
       },
       "low_price": 169.99,
       "ph_ean": "0810035151796",
-      "synced": "2026-11-21",
+      "synced": "2026-11-22",
       "rating": 4.0
     }
   ],
