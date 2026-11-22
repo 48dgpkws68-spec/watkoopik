@@ -146,57 +146,44 @@
       "rating": 4.6
     },
     {
-      "brand": "Winix",
-      "name": "T800 Wifi",
-      "price": 149.0,
-      "score": 9.0,
+      "brand": "Duux",
+      "name": "Bright 2",
+      "price": 132.99,
+      "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
-      "oneliner": "Krachtige allergiereiniger met ECARF-keurmerk voor een scherpe prijs.",
+      "oneliner": "Compacte H13-reiniger met sensor en app voor een slaapkamer bij allergie.",
       "specs": {
-        "CADR": "500 m³/u",
-        "Ruimte": "tot 120 m²",
-        "Filter": "3-in-1 HEPA + koolstof",
-        "Geluid": "laag in slaapstand",
+        "CADR": "210 m³/u",
+        "Ruimte": "tot 42 m²",
+        "Filter": "voorfilter + HEPA H13 + koolstof",
+        "Geluid": "stille nachtstand",
         "Slaapstand": "ja"
       },
       "pros": [
-        "Gecertificeerd door ECARF en Allergy UK",
-        "Hoge CADR van 500 m³/u voor deze prijs",
-        "Lasersensor met automatische stand",
+        "HEPA H13 vangt volgens Duux 99,97 procent van de deeltjes",
+        "CADR van 210 m³/u, gecertificeerd door IUTA",
+        "PM2,5-sensor met automatische stand",
         "App en spraakbediening"
       ],
       "cons": [
-        "Groter dan een compacte slaapkamerreiniger",
-        "Geen los wasbaar voorfilter"
+        "Te weinig capaciteit voor een grote woonkamer",
+        "Geen geluidswaarde in decibel vermeld bij bol"
       ],
-      "ideal": "Wie met hooikoorts of huisstofmijtallergie veel capaciteit wil voor weinig geld.",
-      "text": "Bij allergie wil je een reiniger die meer doet dan een kleine kamer bijhouden. De Winix T800 Wifi verplaatst 500 m³ lucht per uur door een 3-in-1-filter met voorfilter, actieve kool en HEPA. Winix geeft op dat het filter deeltjes tot 0,1 micron vangt, dus ook pollen, huisstofmijtresten en huidschilfers. Het model is gecertificeerd door ECARF en Allergy UK, twee instituten die zich op allergie richten.\n\nEen lasersensor meet fijnstof en toont de luchtkwaliteit met een kleurring. In de automatische stand schakelt hij vanzelf op als er pollen binnenkomen, bijvoorbeeld na het luchten. Via de Winix Smart-app of je spraakassistent zet je een schema en zie je wanneer het filter op is. Door de hoge capaciteit volstaat een lage stand voor een slaapkamer, wat het geluid beperkt. De PlasmaWave-functie kun je uitzetten als je die liever niet gebruikt. Op bol geven kopers hem een 4,5. Voor rond de 150 euro krijg je veel capaciteit per euro.",
-      "ean": "8809490586054",
-      "search": "Winix T800 Wifi",
-      "bol_title": "Winix T800 Wifi - Slimme Luchtreiniger met vervangbaar 3-in-1 Hepa filter + PlasmaWave Technologie - Cadr 500m³ p/u en tot 120m² - Getest en Gecertificeerd op Hooikoorts, Allergie en Fijnstof - Winix Smart App, Google Assistant, Amazon Alexa",
-      "url": "https://www.bol.com/nl/nl/p/winix-luchtreiniger-t800-wifi-luchtreiniger-met-all-in-one-hepa-filter-en-plasmawave-technologie-cadr-500m-p-u-en-voor-120m-gecertificeerd-op-fijnstof-huisstofmijt-hooikoorts-en-allergie-met-winix-smart-app-bediening/9300000195325502/",
-      "image": "https://media.s-bol.com/BJowMr27A702/n5AK28p/550x553.jpg",
+      "ideal": "Wie met hooikoorts of huisstofmijtallergie een slaapkamer of werkkamer schoon wil houden.",
+      "text": "De Duux Bright 2 is een compacte luchtreiniger van het Nederlandse merk Duux, gemaakt voor een slaapkamer, werkkamer of kleinere woonkamer. Hij haalt 210 m³ lucht per uur door zijn filter, een waarde die het Duitse instituut IUTA heeft gecertificeerd. Duux noemt ruimtes tot 42 m², gerekend met twee luchtverversingen per uur. Bij allergie wil je de lucht vaker verversen, dus wij zouden hem gebruiken in een kamer tot ongeveer 20 m².\n\nHet filter combineert een voorfilter, een HEPA H13-laag en actieve kool. Volgens Duux vangt het 99,97 procent van de deeltjes, dus ook pollen, huisstofmijtresten en huidschilfers. Een PM2,5-sensor stuurt de automatische stand en een kleurindicator laat de luchtkwaliteit zien. Met de Duux-app, Alexa of Google Assistant bedien je hem op afstand en een timer zet hem vanzelf uit. In de nachtstand werkt hij stil en dimt het display. Op bol geven kopers hem een 4,5. Voor rond de 133 euro is het een betaalbare manier om je slaapkamer pollenarm te houden.",
+      "ean": "8716164992243",
+      "search": "Duux Bright 2 luchtreiniger",
+      "bol_title": "Duux Bright 2 Smart Luchtreiniger - 210 CADR geschikt voor 42m² - Air Purifier met Luchtkwaliteitsindicator en Ionisator - Wit",
+      "url": "https://www.bol.com/nl/nl/p/duux-bright-2-smart-luchtreiniger-air-purifier-met-luchtkwaliteitsindicator-en-ionisator-wit/9300000188083349/",
+      "image": "https://media.s-bol.com/QrAk8KZjWD5M/1wE6z1j/550x691.jpg",
+      "rating": 4.5,
       "ph": {
-        "2026-11-08": 149.0,
-        "2026-11-09": 149.0,
-        "2026-11-10": 149.0,
-        "2026-11-11": 149.0,
-        "2026-11-12": 149.0,
-        "2026-11-13": 149.0,
-        "2026-11-14": 149.0,
-        "2026-11-16": 149.0,
-        "2026-11-17": 149.0,
-        "2026-11-18": 149.0,
-        "2026-11-19": 149.0,
-        "2026-11-20": 149.0,
-        "2026-11-21": 149.0,
-        "2026-11-22": 149.0
+        "2026-11-22": 132.99
       },
-      "low_price": 149.0,
-      "synced": "2026-11-22",
-      "ph_ean": "8809490586054",
-      "rating": 4.5
+      "low_price": 132.99,
+      "ph_ean": "8716164992243",
+      "synced": "2026-11-22"
     },
     {
       "brand": "Dyson",
@@ -688,7 +675,7 @@
   "faq": [
     {
       "q": "Welke luchtreiniger is goed bij allergie?",
-      "a": "Kies een luchtreiniger met een echt HEPA-filter van klasse H13 en een CADR die past bij je kamer. De Philips PureProtect 3200 is de beste keuze voor de meeste mensen. De Coway Airmega Mighty is de beste prijs-kwaliteit en de Winix T800 Wifi geeft veel capaciteit voor weinig geld."
+      "a": "Kies een luchtreiniger met een echt HEPA-filter van klasse H13 en een CADR die past bij je kamer. De Philips PureProtect 3200 is de beste keuze voor de meeste mensen. De Coway Airmega Mighty is de beste prijs-kwaliteit en de Duux Bright 2 is een betaalbare keuze voor een slaapkamer."
     },
     {
       "q": "Helpt een luchtreiniger tegen hooikoorts?",
@@ -724,7 +711,7 @@
     },
     {
       "q": "Welke luchtreiniger is het best tegen pollen?",
-      "a": "Pollen zijn relatief grote deeltjes, dus elke luchtreiniger met een echt H13-filter vangt ze goed. Het verschil zit in de capaciteit: hoe hoger de CADR ten opzichte van je kamer, hoe sneller de pollen uit de lucht zijn. Voor een woonkamer is de Philips PureProtect 3200 of de Winix T800 Wifi een sterke keuze, voor een kleinere kamer de Levoit Core 200S."
+      "a": "Pollen zijn relatief grote deeltjes, dus elke luchtreiniger met een echt H13-filter vangt ze goed. Het verschil zit in de capaciteit: hoe hoger de CADR ten opzichte van je kamer, hoe sneller de pollen uit de lucht zijn. Voor een woonkamer is de Philips PureProtect 3200 een sterke keuze, voor een kleinere kamer de Levoit Core 200S."
     }
   ],
   "seo": "luchtreiniger bij allergie",
@@ -738,6 +725,12 @@
     "beste-luchtontvochtiger"
   ],
   "wissels": [
+    {
+      "d": "2026-11-22",
+      "uit": "Winix T800 Wifi",
+      "in": "Duux Bright 2",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-20",
       "uit": "Winix Zero-s",

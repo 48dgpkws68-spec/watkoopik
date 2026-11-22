@@ -586,69 +586,43 @@
       "rating": 4.3
     },
     {
-      "brand": "Tomado",
-      "name": "TFW0301G",
-      "price": 45.99,
+      "brand": "medisana",
+      "name": "FWS Voetenwarmer",
+      "price": 31.15,
       "score": 7.9,
       "label": null,
-      "reviews": "bol-score 3,6 van 5",
-      "oneliner": "Goedkoopste merkvoetenzak met snelle opwarming en lang snoer.",
+      "reviews": "bol-score 3,9 van 5",
+      "oneliner": "Eenvoudige voetenzak met drie standen en een wasbare pluche kern.",
       "specs": {
         "Type": "Voetenzak",
         "Warmtestanden": "3",
         "Uitschakeling": "Na 90 min",
-        "Wasbaar": "Fleecevoering",
-        "Snoer": "2,3 m"
+        "Wasbaar": "Kern op 30 graden",
+        "Snoer": "Niet opgegeven"
       },
       "pros": [
-        "Laagste prijs in deze vergelijking",
-        "Lang snoer van circa 2,3 meter",
-        "Uitneembare fleecevoering",
-        "Twee jaar garantie"
+        "Snel warm dankzij 100 watt",
+        "Uitneembare pluche kern mag in de wasmachine",
+        "Oververhittingsbeveiliging en automatische uitschakeling",
+        "Stof met Oeko-Tex-keurmerk"
       ],
       "cons": [
-        "Lagere gemiddelde beoordeling dan de rest",
+        "Lagere gemiddelde beoordeling dan de meeste andere",
         "Past tot schoenmaat 46"
       ],
       "ideal": "Wie een simpele voetenzak voor af en toe zoekt en op de prijs let.",
-      "text": "De Tomado TFW0301G is de goedkoopste voetenzak in deze lijst. Het Nederlandse merk Tomado belooft extra snelle opwarming met een vermogen van 100 watt. Met een schakelaar kies je uit drie warmtestanden. De voetenzak past tot schoenmaat 46 en het snoer is met circa 2,3 meter lekker lang. Zo zet je hem makkelijk voor de bank of onder een tafel.\n\nNa 90 minuten schakelt de Tomado automatisch uit en er zit een oververhittingsbeveiliging in. De zachte fleece binnenvoering is uitneembaar, zodat je hem met de hand of in de wasmachine kunt wassen volgens de wasvoorschriften. Tomado geeft twee jaar garantie. Op bol scoort hij gemiddeld 3,6 sterren, lager dan de rest van deze vergelijking. Die lagere score laat zien dat niet iedereen even tevreden is. Voor gebruik af en toe is hij prima. Gebruik je een voetenwarmer elke avond, dan is de Alpina voor een paar euro meer een betere koop.",
-      "ean": "8712876500738",
-      "bol_title": "Tomado TFW0301G - Elektrische voetenwarmer - Extra snelle opwarming - 3 warmtestanden - Grijs",
-      "url": "https://www.bol.com/nl/nl/p/tomado-tfw0301g-elektrische-voetenwarmer-extra-snelle-opwarming-3-warmtestanden/9300000015392806/",
-      "image": "https://media.s-bol.com/74GpBVBV7k9w/yoBOrQg/550x578.jpg",
+      "text": "De medisana FWS is een eenvoudige voetenzak van het Duitse gezondheidsmerk dat ook de gebreide FW 150 in deze lijst maakt. Met 100 watt warmt hij snel op en met de handbediening kies je uit drie warmtestanden. Een ledlampje laat zien dat hij aan staat. Het voetgedeelte is ruim en past tot schoenmaat 46.\n\nNa 90 minuten schakelt de FWS vanzelf uit en er zit een beveiliging tegen oververhitting in. De zachte kern van pluche microvezel is uitneembaar en mag op 30 graden in de wasmachine. De stof heeft een Oeko-Tex Standard 100-keurmerk. Op bol scoort hij gemiddeld 3,9 sterren, lager dan de meeste voetenwarmers in deze vergelijking. Niet iedereen is dus even tevreden. Voor gebruik af en toe is hij prima. Gebruik je een voetenwarmer elke avond, dan is de Alpina voor een paar euro meer een betere koop.",
+      "ean": "4015588602580",
+      "bol_title": "medisana FWS - Voetenwarmer",
+      "url": "https://www.bol.com/nl/nl/p/medisana-fws-voetenwarmer/9200000119417317/",
+      "image": "https://media.s-bol.com/g1MELjmK2Mr/550x589.jpg",
+      "rating": 3.9,
       "ph": {
-        "2026-10-28": 22.5,
-        "2026-10-29": 22.5,
-        "2026-10-30": 22.5,
-        "2026-10-31": 22.5,
-        "2026-11-01": 22.5,
-        "2026-11-02": 22.5,
-        "2026-11-03": 22.5,
-        "2026-11-04": 22.5,
-        "2026-11-05": 38.34,
-        "2026-11-06": 38.29,
-        "2026-11-07": 38.29,
-        "2026-11-08": 38.29,
-        "2026-11-09": 38.29,
-        "2026-11-10": 38.29,
-        "2026-11-11": 38.29,
-        "2026-11-12": 38.29,
-        "2026-11-13": 38.29,
-        "2026-11-14": 38.29,
-        "2026-11-16": 38.29,
-        "2026-11-17": 38.29,
-        "2026-11-18": 38.29,
-        "2026-11-19": 45.99,
-        "2026-11-20": 45.99,
-        "2026-11-21": 45.99,
-        "2026-11-22": 45.99
+        "2026-11-22": 31.15
       },
-      "low_price": 22.5,
-      "synced": "2026-11-22",
-      "prev_price": 38.29,
-      "prev_date": "2026-11-18",
-      "ph_ean": "8712876500738",
-      "rating": 3.6
+      "low_price": 31.15,
+      "ph_ean": "4015588602580",
+      "synced": "2026-11-22"
     }
   ],
   "guide": [
@@ -706,5 +680,13 @@
   "rel": [
     "beste-plaid",
     "beste-elektrische-deken"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-22",
+      "uit": "Tomado TFW0301G",
+      "in": "medisana FWS Voetenwarmer",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

@@ -477,80 +477,43 @@
       "rating": 4.4
     },
     {
-      "brand": "OnePlus",
-      "name": "15 12GB/256GB",
-      "price": 787.0,
+      "brand": "Nothing",
+      "name": "Phone (3) 16GB/512GB",
+      "price": 629.0,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 3,8 van 5",
-      "oneliner": "Enorme accu van 7300 mAh en razendsnel laden.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "Opvallend design met 3x zoom en 512 GB opslag voor ruim 600 euro.",
       "specs": {
-        "Scherm": "6,78 inch, 2772 x 1240",
+        "Scherm": "6,67 inch, 2800 x 1260",
         "Camera": "3x 50 MP",
-        "Accu": "7300 mAh",
-        "Geheugen": "12 GB / 256 GB",
-        "Waterdicht": "IP69K"
+        "Accu": "5150 mAh",
+        "Geheugen": "16 GB / 512 GB",
+        "Waterdicht": "IP68"
       },
       "pros": [
-        "Grootste accu in deze lijst",
-        "Zeer snel opladen",
-        "Bestand tegen water en stoomstralen (IP69K)",
-        "Vloeiend scherm met hoge verversingssnelheid"
+        "Opvallend ontwerp met Glyph Matrix op de achterkant",
+        "Periscooplens met 3x optische zoom",
+        "Ruim 512 GB opslag en 16 GB werkgeheugen",
+        "Vijf jaar Android-updates"
       ],
       "cons": [
-        "Camera minder sterk dan bij Samsung en Apple",
-        "Kortere updatebelofte dan de concurrentie"
+        "Chip is trager dan de snelste chips in duurdere toestellen",
+        "Camera bij weinig licht minder sterk dan bij Apple en Google"
       ],
-      "ideal": "Zware gebruikers die nooit meer halverwege de dag willen opladen.",
-      "text": "De OnePlus 15 springt eruit met een accu van 7300 mAh, de grootste in deze lijst. In de praktijk melden kopers dat ze twee dagen doen met normaal gebruik. Is hij toch leeg, dan laad je hem met de snelle bedrade lader in ongeveer een half uur weer vol. Het 6,78 inch scherm met 2772 x 1240 pixels draait op een hoge verversingssnelheid en is ideaal voor games.\n\nOnder de motorkap zit de Snapdragon 8 Elite Gen 5, een van de snelste chips van 2026. De drie camera's van 50 megapixel maken goede foto's bij daglicht, maar bij weinig licht blijven ze achter bij de iPhone en Galaxy. Met IP69K is hij bestand tegen water en zelfs stoomstralen. OnePlus belooft minimaal vier jaar updates, korter dan Samsung en Google. Kopers op bol geven hem een 3,8.",
-      "ean": "6921815630265",
-      "bol_title": "OnePlus 15 - 12GB/256GB - Infinite Black",
-      "url": "https://www.bol.com/nl/nl/p/oneplus-15-5g-12gb-256gb-zwart-dual-sim/9300000243169166/",
-      "image": "https://media.s-bol.com/kqKq07J5ZY5K/A69nLB7/550x676.jpg",
-      "synced": "2026-11-22",
+      "ideal": "Wie een snelle telefoon met een eigen gezicht zoekt en niet de hoofdprijs wil betalen.",
+      "text": "De Nothing Phone (3) is het eerste echte topmodel van het Londense Nothing en valt direct op door de achterkant. Waar eerdere modellen lichtstrips hadden, zit nu een klein rond ledscherm, de Glyph Matrix, dat meldingen, de tijd of de accustand laat zien. Achter dat ontwerp zit een serieuze telefoon met een 6,67 inch OLED-scherm van 120 Hz en de Snapdragon 8s Gen 4, een snelle chip net onder de duurste klasse.\n\nDe drie camera's van 50 megapixel hebben een periscooplens met 3x optische zoom, iets wat je in deze prijsklasse weinig ziet. Bij daglicht zijn de foto's goed, bij weinig licht blijven ze achter bij de iPhone en de Pixel. De accu van 5150 mAh komt een normale dag door en laadt snel met 65 watt. Nothing belooft vijf jaar Android-updates en zeven jaar beveiligingsupdates. Met 512 GB opslag hoef je voorlopig niet op te ruimen. Kopers op bol geven hem een 4,7 van 5.",
+      "ean": "6974434226180",
+      "bol_title": "Nothing Phone (3) - 512GB - Wit",
+      "url": "https://www.bol.com/nl/nl/p/nothing-phone-3-16-512gb-white/9300000233057892/",
+      "image": "https://media.s-bol.com/lrLrP5qEr2B7/x67GNl3/404x840.jpg",
+      "rating": 4.7,
       "ph": {
-        "2026-10-16": 811.0,
-        "2026-10-17": 811.0,
-        "2026-10-18": 811.0,
-        "2026-10-19": 811.0,
-        "2026-10-20": 811.0,
-        "2026-10-21": 1497.76,
-        "2026-10-23": 1497.98,
-        "2026-10-24": 1497.98,
-        "2026-10-25": 1514.54,
-        "2026-10-26": 1519.91,
-        "2026-10-27": 1517.72,
-        "2026-10-28": 1520.35,
-        "2026-10-29": 1534.26,
-        "2026-10-30": 1531.6,
-        "2026-10-31": 1534.47,
-        "2026-11-01": 1546.35,
-        "2026-11-02": 1544.72,
-        "2026-11-03": 1542.93,
-        "2026-11-04": 1540.68,
-        "2026-11-05": 1538.53,
-        "2026-11-06": 1538.75,
-        "2026-11-07": 1538.75,
-        "2026-11-08": 1536.17,
-        "2026-11-09": 1536.17,
-        "2026-11-10": 1536.17,
-        "2026-11-11": 1546.64,
-        "2026-11-12": 1559.64,
-        "2026-11-13": 1559.64,
-        "2026-11-14": 1557.46,
-        "2026-11-16": 787.0,
-        "2026-11-17": 787.0,
-        "2026-11-18": 787.0,
-        "2026-11-19": 787.0,
-        "2026-11-20": 1579.12,
-        "2026-11-21": 787.0,
-        "2026-11-22": 787.0
+        "2026-11-22": 629.0
       },
-      "low_price": 787.0,
-      "prev_price": 1579.12,
-      "prev_date": "2026-11-20",
-      "ph_ean": "6921815630265",
-      "rating": 3.8
+      "low_price": 629.0,
+      "ph_ean": "6974434226180",
+      "synced": "2026-11-22"
     },
     {
       "brand": "Xiaomi",
@@ -754,7 +717,7 @@
     },
     {
       "h": "Accu en opladen",
-      "p": "Een accu van 4500 tot 5000 mAh komt bij normaal gebruik de dag door. Toestellen met 7000 mAh of meer, zoals de OnePlus 15 en Xiaomi 17T Pro, halen vaak twee dagen. iPhones hebben kleinere accu's, maar zijn zuinig waardoor ze toch lang meegaan. Let er ook op dat de meeste fabrikanten geen lader meer meeleveren."
+      "p": "Een accu van 4500 tot 5000 mAh komt bij normaal gebruik de dag door. Toestellen met 7000 mAh of meer, zoals de Xiaomi 17T Pro, halen vaak twee dagen. iPhones hebben kleinere accu's, maar zijn zuinig waardoor ze toch lang meegaan. Let er ook op dat de meeste fabrikanten geen lader meer meeleveren."
     },
     {
       "h": "Hoeveel opslag heb je nodig?",
@@ -802,5 +765,13 @@
     "beste-smartphone-onder-300-euro",
     "beste-iphone",
     "beste-samsung-smartphone"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-22",
+      "uit": "OnePlus 15 12GB/256GB",
+      "in": "Nothing Phone (3) 16GB/512GB",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

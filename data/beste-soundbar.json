@@ -308,14 +308,14 @@
     },
     {
       "brand": "Bose",
-      "name": "Smart Ultra Soundbar",
-      "price": 529.0,
+      "name": "Smart Soundbar",
+      "price": 329.95,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
-      "oneliner": "Stijlvolle bar met AI-dialoogmodus en sterke Atmos-weergave.",
+      "reviews": "bol-score 3,9 van 5",
+      "oneliner": "Compacte Bose met heldere stemmen en Dolby Atmos voor ruim 300 euro.",
       "specs": {
-        "Kanalen": "5.0.2",
+        "Kanalen": "5 luidsprekers",
         "Dolby Atmos": "Ja",
         "Subwoofer": "Optioneel",
         "Aansluiting": "HDMI eARC",
@@ -323,43 +323,28 @@
       },
       "pros": [
         "AI Dialogue Mode maakt stemmen opvallend helder",
-        "PhaseGuide-technologie voor breed geluid",
+        "Compact genoeg voor een kleinere tv",
         "Ingebouwde Alexa",
-        "Fraaie glazen bovenplaat"
+        "Flink goedkoper dan de Smart Ultra"
       ],
       "cons": [
-        "Weinig instelmogelijkheden voor de klank",
         "Bas zonder subwoofer bescheiden",
-        "App reageert soms traag"
+        "Atmos-effect beperkt door het kleine formaat",
+        "Weinig instelmogelijkheden voor de klank"
       ],
-      "ideal": "Wie vooral series en films kijkt en stemmen altijd goed wil verstaan.",
-      "text": "Bose richt zich met de Smart Ultra Soundbar op een probleem dat veel kijkers kennen: mompelende acteurs. De AI Dialogue Mode herkent stemmen en tilt ze boven muziek en effecten uit, zonder dat het geheel schel wordt. Gebruikers noemen dit vaak als reden om voor deze bar te kiezen. Met zes drivers en twee naar boven gerichte speakers geeft hij ook Dolby Atmos weer.\n\nDe bar is 1,04 meter breed en strak afgewerkt met een glazen bovenkant. Muziek stream je via wifi, AirPlay 2, Chromecast of Bluetooth. Alexa is ingebouwd voor spraakbediening. De klank is warm en breed, maar de bas mist diepgang zonder de optionele Bass Module. Ook kun je de klank minder fijn instellen dan bij Sonos. Voor kijkers die vooral verstaanbaarheid zoeken is dit een fijne keuze.",
-      "ean": "0017817848275",
-      "url": "https://www.bol.com/nl/nl/p/bose-smart-ultra-soundbar-dolby-atmos-wit/9300000164806088/",
-      "image": "https://media.s-bol.com/7K8Xm7vKBwDA/WnQQwVo/550x298.jpg",
-      "bol_title": "Bose Smart Ultra - Soundbar - Dolby Atmos - Wit",
+      "ideal": "Wie een kleine, nette bar zoekt die vooral dialogen goed verstaanbaar maakt.",
+      "text": "De Bose Smart Soundbar is het compacte broertje van de Smart Ultra en kost een stuk minder. Met een breedte van ongeveer 69 centimeter past hij goed onder een tv van 43 tot 55 inch. Hij heeft vijf luidsprekers, waarvan twee schuin naar boven gericht, zodat Dolby Atmos-effecten wat ruimte krijgen. Echte hoogte zoals bij grotere bars moet je niet verwachten, maar het geluid is breder dan je van dit formaat zou denken.\n\nDe AI Dialogue Mode komt over van het duurdere model. Die tilt stemmen boven muziek en effecten uit, handig bij series waarin acteurs mompelen. Je sluit hem aan via HDMI eARC en streamt muziek via wifi, AirPlay 2 of Bluetooth. Alexa is ingebouwd voor spraakbediening. De bas is zonder de optionele Bass Module bescheiden en in de app stel je de klank minder fijn in dan bij Sonos. Kopers op bol geven hem gemiddeld een 3,9 van 5.",
+      "ean": "0017817856164",
+      "bol_title": "Bose Smart Dolby Atmos Soundbar - Zwart",
+      "url": "https://www.bol.com/nl/nl/p/bose-892079-2100-soundbar-luidspreker-zwart-nieuw-2024/9300000192308065/",
+      "image": "https://media.s-bol.com/kWvG7L2K888K/68KZpoV/550x69.jpg",
+      "rating": 3.9,
       "ph": {
-        "2026-11-08": 557.0,
-        "2026-11-09": 557.0,
-        "2026-11-10": 556.0,
-        "2026-11-11": 556.0,
-        "2026-11-12": 556.0,
-        "2026-11-13": 556.0,
-        "2026-11-14": 556.0,
-        "2026-11-16": 556.0,
-        "2026-11-17": 556.0,
-        "2026-11-18": 529.0,
-        "2026-11-19": 529.0,
-        "2026-11-20": 529.0,
-        "2026-11-21": 529.0,
-        "2026-11-22": 529.0
+        "2026-11-22": 329.95
       },
-      "low_price": 529.0,
-      "synced": "2026-11-22",
-      "prev_price": 556.0,
-      "prev_date": "2026-11-17",
-      "ph_ean": "0017817848275",
-      "rating": 4.5
+      "low_price": 329.95,
+      "ph_ean": "0017817856164",
+      "synced": "2026-11-22"
     },
     {
       "brand": "JBL",
@@ -746,5 +731,13 @@
       "a": "Bij veel merken wel. Sonos, Samsung, Sony en LG verkopen losse subwoofers en achterspeakers die draadloos verbinden met de bar. Let er bij aankoop op dat uitbreiding mogelijk is als je dat later wilt."
     }
   ],
-  "published": "2026-10-14"
+  "published": "2026-10-14",
+  "wissels": [
+    {
+      "d": "2026-11-22",
+      "uit": "Bose Smart Ultra Soundbar",
+      "in": "Bose Smart Soundbar",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

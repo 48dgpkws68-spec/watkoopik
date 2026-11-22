@@ -46,7 +46,7 @@
     },
     {
       "h": "Gamen met een PS5 of Xbox",
-      "p": "Voor 120 fps-games heb je een tv met minstens 120 Hz en HDMI 2.1 nodig. In deze lijst zijn dat de Samsung QE55QN82H, de Hisense 65E8S, de Hisense 65E7S PRO en de twee Xiaomi Mini LED-tv's. VRR voorkomt haperingen en ALLM zet de gamemodus automatisch aan. Tv's met 60 Hz zijn prima voor wie af en toe speelt."
+      "p": "Voor 120 fps-games heb je een tv met minstens 120 Hz en HDMI 2.1 nodig. In deze lijst zijn dat de Samsung QE55QN82H, de Hisense 65E8S, de Hisense 65E7S PRO en de Xiaomi TV S Pro Mini LED. VRR voorkomt haperingen en ALLM zet de gamemodus automatisch aan. Tv's met 60 Hz zijn prima voor wie af en toe speelt."
     },
     {
       "h": "Black Friday: kijk naar de prijsgeschiedenis",
@@ -68,7 +68,7 @@
     },
     {
       "q": "Is een tv onder 750 euro goed voor de PS5?",
-      "a": "Zeker. De Samsung QE55QN82H, Hisense 65E8S, Hisense 65E7S PRO en de twee Xiaomi Mini LED-tv's hebben 120 Hz of meer met HDMI 2.1. Daarmee speel je games op 120 fps met VRR. De TCL 65T69C gaat volgens bol tot 120 Hz in de gamemodus. De twee Philips-tv's en de Sony in deze lijst draaien op 60 Hz en zijn geschikter voor wie af en toe gamet."
+      "a": "Zeker. De Samsung QE55QN82H, Hisense 65E8S, Hisense 65E7S PRO en de Xiaomi TV S Pro Mini LED hebben 120 Hz of meer met HDMI 2.1. Daarmee speel je games op 120 fps met VRR. De TCL 65T69C gaat volgens bol tot 120 Hz in de gamemodus. De Xiaomi TV A Pro haalt 120 Hz alleen op een lagere resolutie. De twee Philips-tv's en de Sony in deze lijst draaien op 60 Hz en zijn geschikter voor wie af en toe gamet."
     },
     {
       "q": "Wanneer koop je een tv onder 750 euro het voordeligst?",
@@ -256,45 +256,42 @@
     },
     {
       "brand": "Xiaomi",
-      "name": "TV S Mini LED 65 (2025)",
-      "price": 633.61,
-      "score": 8.8,
+      "name": "TV A Pro 2026 65 inch",
+      "price": 578.97,
+      "score": 8.7,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "65 inch Mini LED met 144 Hz en Google TV.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "65 inch QLED met Google TV en AirPlay voor onder de 600 euro.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "Mini LED",
-        "Verversing": "144 Hz",
+        "Paneel": "QLED",
+        "Verversing": "60 Hz (120 Hz op lagere resolutie)",
         "HDR": "HDR10+",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "Mini LED tot 1200 nits",
-        "144 Hz met HDMI 2.1 en VRR",
-        "Google TV met spraakbediening",
-        "Dolby Atmos-geluid"
+        "Groot 65 inch scherm voor onder de 600 euro",
+        "Volgens Xiaomi 94 procent DCI-P3-kleurbereik",
+        "Google TV met AirPlay en Google Cast",
+        "Filmmaker Mode voor films zoals bedoeld"
       ],
       "cons": [
-        "Maar drie HDMI-poorten",
-        "Energielabel G",
-        "Model uit 2025"
+        "Geen Mini LED, dus minder diep zwart",
+        "120 Hz alleen op een lagere resolutie",
+        "Xiaomi is als tv-merk minder bekend in Nederland"
       ],
-      "ideal": "Wie een groot en helder Mini LED-scherm voor films en games zoekt.",
-      "text": "De Xiaomi TV S Mini LED 65 brengt Mini LED-verlichting en een 144 Hz-paneel naar een prijs die ruim onder de 750 euro blijft. Met een piekhelderheid tot 1200 nits zijn HDR-films en sport ook in een lichte woonkamer goed te zien. HDR-content speelt hij af in HDR10+. Google TV geeft je alle bekende apps, Chromecast en spraakbediening via de afstandsbediening.\n\nVoor gamers is dit een interessante tv. Het paneel haalt 144 Hz, de HDMI 2.1-poorten ondersteunen VRR en Xiaomi geeft een input lag van 4 milliseconden op. Er zijn wel maar drie HDMI-poorten, waarvan één met eARC voor een soundbar. Het geluid komt uit twee speakers van samen 25 watt met Dolby Atmos. Let op het energielabel G: in gebruik vraagt hij tot 280 watt. Dit is een model uit 2025, wat je terugziet in de prijs. Kopers op bol geven hem een 5,0 van 5. Wil je minder uitgeven en is Mini LED geen must, kijk dan naar de TCL 65T69C op plek 3.",
-      "ean": "6941948703704",
-      "rating": 5.0,
-      "bol_title": "Xiaomi TV S Mini LED 65 2025 165,1 cm (65\") 4K Ultra HD Smart TV Wifi Zwart 1200 cd/m²",
-      "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-s-mini-65-2025-4k-qd-mini-led/9300000198346751/",
-      "image": "https://media.s-bol.com/YwGvkRYnV7z2/L9mk6Rw/550x341.jpg",
+      "ideal": "Wie een groot scherm voor series en sport zoekt en onder de 600 euro wil blijven.",
+      "text": "De Xiaomi TV A Pro 2026 is een 65 inch QLED-tv die ruim onder de 600 euro blijft. Een quantum dot-laag geeft kleuren extra verzadiging en Xiaomi noemt een kleurbereik van 94 procent DCI-P3, een waarde die je vaker bij duurdere tv's ziet. HDR-films speelt hij af in HDR10+. Met de Filmmaker Mode zie je films zoals de maker ze bedoeld heeft, zonder kunstmatige beeldverbeteringen.\n\nGoogle TV geeft je alle bekende apps en Google Assistant. Via Google Cast of AirPlay stuur je beelden vanaf je telefoon naar het scherm. Voor games is er een 120 Hz-stand, al werkt die alleen op een lagere resolutie. Het geluid komt met Dolby Audio en DTS-X. Wat je mist is de lokale dimming van een Mini LED-tv: zwart is minder diep, wat je in een donkere kamer bij films met veel nachtscènes ziet. Kopers op bol geven hem een 4,3 van 5. Wil je wel Mini LED, kijk dan naar de Xiaomi TV S Pro Mini LED op plek 4 of de Hisense 65E8S op plek 2.",
+      "ean": "6941948705807",
+      "bol_title": "Xiaomi TV A Pro 2026 65 inch | 4K QLED Google TV | HDR10+ & Filmmaker Mode | 120Hz gaming | Dolby Audio & DTS-X | 94% DCI-P3 | AirPlay, Google Cast & Miracast | Google Assistant",
+      "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-65inch-4k-qled-tv/9300000231465623/",
+      "image": "https://media.s-bol.com/q3Y035zYqLGR/0gQ7V65/550x330.jpg",
+      "rating": 4.3,
       "ph": {
-        "2026-11-19": 633.61,
-        "2026-11-20": 633.61,
-        "2026-11-21": 633.61,
-        "2026-11-22": 633.61
+        "2026-11-22": 578.97
       },
-      "low_price": 633.61,
-      "ph_ean": "6941948703704",
+      "low_price": 578.97,
+      "ph_ean": "6941948705807",
       "synced": "2026-11-22"
     },
     {
@@ -529,6 +526,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-22",
+      "uit": "Xiaomi TV S Mini LED 65 (2025)",
+      "in": "Xiaomi TV A Pro 2026 65 inch",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-21",
       "uit": "TCL 65C6KS",

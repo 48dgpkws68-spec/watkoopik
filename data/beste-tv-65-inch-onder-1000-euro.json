@@ -273,42 +273,40 @@
     },
     {
       "brand": "Xiaomi",
-      "name": "TV S Mini LED 65 (2025)",
-      "price": 633.61,
+      "name": "TV S Mini LED 65 (2026)",
+      "price": 698.99,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Felle Mini LED van 1.200 nits voor ruim 630 euro.",
+      "reviews": "",
+      "oneliner": "Nieuwe Mini LED met 308 dimzones en 1.200 nits voor onder de 700 euro.",
       "specs": {
-        "Paneel": "QD-Mini LED",
-        "Verversing": "144 Hz, VRR",
-        "HDR": "HDR10+, HLG",
-        "HDMI 2.1": "ja, met VRR en ALLM",
+        "Paneel": "QD-Mini LED, 308 zones",
+        "Verversing": "120 Hz",
+        "HDR": "HDR10+, Dolby Vision",
+        "HDMI 2.1": "ja",
         "Smart-tv": "Google TV"
       },
       "pros": [
         "Volgens Xiaomi pieken tot 1.200 nits",
-        "Mini LED met lokale dimming voor ruim 630 euro",
+        "308 dimzones voor dieper zwart",
         "Google TV met alle grote apps",
-        "Dolby Atmos voor het geluid"
+        "Dolby Vision, HDR10+ en Dolby Atmos"
       ],
       "cons": [
-        "Xiaomi is in Nederland minder bekend als tv-merk",
-        "Geen Dolby Vision vermeld bij bol"
+        "Nog geen beoordelingen op bol",
+        "Xiaomi is in Nederland minder bekend als tv-merk"
       ],
-      "ideal": "Wie een fel Mini LED-scherm wil voor een lichte kamer en weinig wil uitgeven.",
-      "text": "De Xiaomi TV S Mini LED 65 uit 2025 is de goedkoopste Mini LED in deze lijst die nog écht fel wordt. Xiaomi geeft een piekhelderheid van 1.200 nits op, het dubbele van de Hisense 65E8S. In een woonkamer met grote ramen blijft het beeld daardoor goed zichtbaar. De achtergrondverlichting dimt per zone en een quantum dot-laag zorgt voor verzadigde kleuren in HDR-films.\n\nHet scherm haalt volgens Xiaomi 144 Hz, met VRR voor consoles en pc. HDR10+ en Dolby Atmos zijn aanwezig. Google TV maakt het systeem herkenbaar: je vindt alle Nederlandse streamingapps en kunt casten vanaf je telefoon. Het is wel een model van vorig jaar en Xiaomi heeft in Nederland nog geen grote naam als tv-merk. Wie meer zekerheid over service en updates wil, kiest de TCL 65T8D voor 65 euro meer. Wil je zoveel mogelijk helderheid voor je geld, dan is de Xiaomi een slimme keus.",
-      "ean": "6941948703704",
-      "bol_title": "Xiaomi TV S Mini LED 65 2025 165,1 cm (65\") 4K Ultra HD Smart TV Wifi Zwart 1200 cd/m²",
-      "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-s-mini-65-2025-4k-qd-mini-led/9300000198346751/",
-      "image": "https://media.s-bol.com/YwGvkRYnV7z2/L9mk6Rw/550x341.jpg",
+      "ideal": "Wie een fel Mini LED-scherm wil voor een lichte kamer en onder de 700 euro wil blijven.",
+      "text": "De Xiaomi TV S Mini LED 65 uit 2026 is de opvolger van het model uit 2025 en blijft een van de goedkoopste Mini LED-tv's in deze lijst. De achtergrondverlichting is verdeeld over 308 zones die los van elkaar dimmen. Zwart blijft daardoor dieper dan bij een gewone led-tv. Xiaomi geeft een piekhelderheid van 1.200 nits op, het dubbele van de Hisense 65E8S. In een woonkamer met grote ramen blijft het beeld daardoor goed zichtbaar.\n\nEen quantum dot-laag zorgt voor verzadigde kleuren. HDR10+ en Dolby Vision worden volgens de productpagina ondersteund en voor het geluid is er Dolby Atmos. Google TV geeft je alle Nederlandse streamingapps en Chromecast. Xiaomi heeft in Nederland nog geen grote naam als tv-merk en op bol zijn voor dit nieuwe model nog geen beoordelingen. Wie meer zekerheid wil, kiest de TCL 65T8D voor vrijwel hetzelfde geld. Wil je veel helderheid voor je geld, dan is de Xiaomi een slimme keus.",
+      "ean": "6941948709294",
+      "bol_title": "Xiaomi TV S Mini LED 2026 Smart TV – 65 Inch | QD-Mini LED Smart TV | 4K Ultra HD | 308 zones | 1200 nits | 120Hz | HDR10+ | Dolby Atmos | Google TV",
+      "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-s-mini-led-65-2026-televisie-65-inch-4k-mini-led-smart-tv-144hz-verversingssnelheid-google-tv-met-chromecast-dolby-vision-en-hdr10-ondersteuning/9300000268114780/",
+      "image": "https://media.s-bol.com/moKqoWOnQzY9/XoJM4zo/550x335.jpg",
       "ph": {
-        "2026-11-21": 633.61,
-        "2026-11-22": 633.61
+        "2026-11-22": 698.99
       },
-      "low_price": 633.61,
-      "ph_ean": "6941948703704",
-      "rating": 5.0,
+      "low_price": 698.99,
+      "ph_ean": "6941948709294",
       "synced": "2026-11-22"
     },
     {
@@ -484,6 +482,14 @@
     {
       "q": "Moet ik wachten op Black Friday?",
       "a": "Rond Black Friday dalen de prijzen van tv's vaak. Wij tonen bij elke tv de actuele prijs bij bol. Zie je een tv uit deze lijst onder de normale prijs staan, dan is dat een goed moment om te kopen."
+    }
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-22",
+      "uit": "Xiaomi TV S Mini LED 65 (2025)",
+      "in": "Xiaomi TV S Mini LED 65 (2026)",
+      "waarom": "niet meer leverbaar bij bol"
     }
   ]
 }
