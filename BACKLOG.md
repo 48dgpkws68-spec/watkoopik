@@ -319,3 +319,5 @@ Formaat: slug | cat | query | titel | emoji
 # groeimotor 22 nov 2026 (AI2 uitrol, E53 gewonnen, NACHTWERK N50): smalle varianten in ChatGPT-families, alleen voor de nachtruns (google_wacht), 2 per nacht.
 [x] beste-boxspring-160x200 | slapen | boxspring 160x200 | De 10 beste boxsprings van 160x200 van 2026 | 🛏️ (google_wacht)
 [x] beste-kunstkerstboom-150-cm | wonen | kunstkerstboom 150 cm | De 10 beste kunstkerstbomen van 150 cm van 2026 | 🎄 (google_wacht)
+[x] beste-winterdekbed-2-persoons | slapen | winterdekbed 2 persoons | De 10 beste winterdekbedden voor 2 personen van 2026 | 🛏️ (google_wacht)
+[x] beste-kunstkerstboom-met-verlichting-180-cm | wonen | kunstkerstboom met verlichting 180 cm | De 10 beste kunstkerstbomen met verlichting van 180 cm van 2026 | 🎄 (google_wacht)
