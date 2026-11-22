@@ -321,3 +321,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-kunstkerstboom-150-cm | wonen | kunstkerstboom 150 cm | De 10 beste kunstkerstbomen van 150 cm van 2026 | 🎄 (google_wacht)
 [x] beste-winterdekbed-2-persoons | slapen | winterdekbed 2 persoons | De 10 beste winterdekbedden voor 2 personen van 2026 | 🛏️ (google_wacht)
 [x] beste-kunstkerstboom-met-verlichting-180-cm | wonen | kunstkerstboom met verlichting 180 cm | De 10 beste kunstkerstbomen met verlichting van 180 cm van 2026 | 🎄 (google_wacht)
+[x] beste-tv-75-inch-onder-1000-euro | elektronica | 75 inch tv onder 1000 euro | De 10 beste tv's van 75 inch onder 1000 euro van 2026 | 📺 (google_wacht)
+[x] beste-robotstofzuiger-met-dweilfunctie-onder-300-euro | huishouden | robotstofzuiger met dweilfunctie onder 300 euro | De 10 beste robotstofzuigers met dweilfunctie onder 300 euro van 2026 | 🤖 (google_wacht)
