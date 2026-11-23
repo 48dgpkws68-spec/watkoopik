@@ -18,7 +18,7 @@ Formaat: slug | cat | query | titel | emoji
 [ ] beste-boxspring-180x200 | slapen | boxspring 180x200 | De 10 beste boxsprings van 180x200 van 2026 | 🛏️
 [ ] beste-boxspring-onder-500-euro | slapen | boxspring onder 500 euro | De 10 beste boxsprings onder 500 euro van 2026 | 🛏️
 [ ] beste-kerstverlichting-binnen | wonen | kerstverlichting binnen | De 10 beste kerstlampjes voor binnen van 2026 | 💡
-[ ] beste-kunstkerstboom-met-verlichting-210-cm | wonen | kunstkerstboom met verlichting 210 cm | De 10 beste kunstkerstbomen met verlichting van 210 cm van 2026 | 🎄
+[x] beste-kunstkerstboom-met-verlichting-210-cm | wonen | kunstkerstboom met verlichting 210 cm | De 10 beste kunstkerstbomen met verlichting van 210 cm van 2026 | 🎄
 [ ] beste-luchtreiniger-huisstofmijt | wonen | luchtreiniger huisstofmijt | De 10 beste luchtreinigers tegen huisstofmijt van 2026 | 🌬️
 [ ] beste-tv-beugel | elektronica | tv muurbeugel | De 10 beste tv-muurbeugels van 2026 | 🔩
 [ ] beste-dekbed-240x220 | slapen | dekbed 240x220 | De 10 beste dekbedden van 240x220 van 2026 | 🛏️
