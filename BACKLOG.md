@@ -337,3 +337,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-elektrische-kachel-stil | wonen | stille elektrische kachel | De 10 beste stille elektrische kachels van 2026 | 🔥 (google_wacht)
 [x] beste-luchtontvochtiger-voor-wasgoed | wonen | luchtontvochtiger voor wasgoed | De 10 beste luchtontvochtigers voor wasgoed van 2026 | 💧 (google_wacht)
 [x] beste-4-seizoenen-dekbed-2-persoons | slapen | 4 seizoenen dekbed 2 persoons | De 10 beste 4-seizoenendekbedden voor 2 personen van 2026 | 🛏️ (google_wacht)
+[x] beste-kunstkerstboom-met-verlichting-onder-100-euro | wonen | kunstkerstboom met verlichting onder 100 euro | De 10 beste kunstkerstbomen met verlichting onder 100 euro van 2026 | 🎄 (google_wacht)
+[x] beste-hoekbank-onder-1000-euro | wonen | hoekbank onder 1000 euro | De 10 beste hoekbanken onder 1000 euro van 2026 | 🛋️ (google_wacht)
