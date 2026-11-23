@@ -51,7 +51,7 @@ def watt_van(p):
             except ValueError: continue
             if 10 <= w <= 5000: best = max(best, w)
     return best
-def kosten_html(g):
+def _kosten_watt(g):
     if not _KOSTEN_SLUG.search(g["slug"]) or _KOSTEN_UIT.search(g["slug"]): return ""
     rij = [(p, watt_van(p)) for p in g["products"]]; rij = [(p, w) for p, w in rij if w]
     if len(rij) < 4: return ""
@@ -64,6 +64,63 @@ def kosten_html(g):
             '<div class="tbl rv"><table><thead><tr><th>Model</th><th>Max. vermogen</th><th>Per uur op vol vermogen</th><th>Per maand, 4 uur per dag</th></tr></thead><tbody>%s</tbody></table></div>'
             '<p class="muted" style="font-size:.9rem">Eigen berekening: het maximale vermogen volgens de fabrikant keer een stroomprijs van %s per kWh (%s). Een thermostaat, eco-stand of lagere stand maakt de echte kosten lager, omdat de meeste apparaten maar een deel van de tijd op vol vermogen draaien. <a href="%s" rel="nofollow noopener" target="_blank">bron</a></p>') % (
         e(lg[0]["brand"]), e(lg[0]["name"]), m2(lg[1] / 1000 * prijs * 120), trs, m2(prijs).replace(",", ",", 1), bron, url)
+
+# G1 vervolg (23 nov 2026 middag): airfryers per baksessie, koelkasten/vriezers/wassen/drogen uit het EU-energielabel.
+def _m2(v): return "€ " + ("%.2f" % v).replace(".", ",")
+def _kosten_bron():
+    prijs, bron, url = STROOM_NL
+    return 'een stroomprijs van %s per kWh (%s). <a href="%s" rel="nofollow noopener" target="_blank">bron</a>' % (_m2(prijs), bron, url)
+def _kosten_airfryer(g):
+    if not re.search(r"airfryer", g["slug"]): return ""
+    rij = [(p, watt_van(p)) for p in g["products"]]; rij = [(p, w) for p, w in rij if w]
+    if len(rij) < 4: return ""
+    prijs = STROOM_NL[0]
+    keer = lambda w: w / 1000 * prijs / 3  # 20 minuten op vol vermogen
+    trs = "".join('<tr><td class="nm">%s %s</td><td>%d W</td><td>%s</td><td><b>%s</b></td></tr>' % (e(p["brand"]), e(p["name"]), w, _m2(keer(w)), _m2(keer(w) * 208)) for p, w in rij)
+    lg = min(rij, key=lambda x: x[1]); hg = max(rij, key=lambda x: x[1])
+    return ('<h2 id="kosten" class="rv" style="margin-top:28px">Wat een baksessie kost aan stroom</h2>'
+            '<p>Een sessie van 20 minuten kost op vol vermogen tussen %s (%s %s) en %s (%s %s). Bij 4 keer per week is het verschil hooguit %s per jaar, dus kies op inhoud en gemak, niet op wattage.</p>'
+            '<div class="tbl rv"><table><thead><tr><th>Model</th><th>Max. vermogen</th><th>Per sessie van 20 min</th><th>Per jaar, 4 keer per week</th></tr></thead><tbody>%s</tbody></table></div>'
+            '<p class="muted" style="font-size:.9rem">Eigen berekening: het maximale vermogen volgens de fabrikant, 20 minuten lang, keer %s Een airfryer verwarmt niet de hele tijd op vol vermogen, dus de echte kosten liggen lager.</p>') % (
+        _m2(keer(lg[1])), e(lg[0]["brand"]), e(lg[0]["name"]), _m2(keer(hg[1])), e(hg[0]["brand"]), e(hg[0]["name"]), _m2((keer(hg[1]) - keer(lg[1])) * 208), trs, _kosten_bron())
+def _label_kwh(p):
+    v = str((p.get("specs") or {}).get("Energieverbruik", "")).lower()
+    m = re.search(r"(\d[\d.,]*)\s*kwh\s*per\s*(jaar|100)", v)
+    if not m: return None
+    return float(m.group(1).replace(".", "").replace(",", ".") if re.fullmatch(r"\d{1,3}(\.\d{3})+", m.group(1)) else m.group(1).replace(",", ".")), m.group(2)
+def _kosten_label(g):
+    s = g["slug"]
+    if re.search(r"koelkast|vriezer", s): soort = "koel"
+    elif re.search(r"wasmachine", s): soort = "was"
+    elif re.search(r"droger", s): soort = "droog"
+    else: return ""
+    rij = [(p, _label_kwh(p)) for p in g["products"]]; rij = [(p, k) for p, k in rij if k]
+    if len(rij) < 4: return ""
+    prijs = STROOM_NL[0]
+    if soort == "koel":
+        jaar = lambda k: k[0] * prijs
+        trs = "".join('<tr><td class="nm">%s %s</td><td>%s</td><td>%s kWh</td><td><b>%s</b></td></tr>' % (e(p["brand"]), e(p["name"]), e(str((p.get("specs") or {}).get("Energieklasse", ""))), ("%g" % k[0]).replace(".", ","), _m2(jaar(k))) for p, k in rij)
+        lg = min(rij, key=lambda x: jaar(x[1])); hg = max(rij, key=lambda x: jaar(x[1]))
+        kop = '<th>Model</th><th>Energieklasse</th><th>Verbruik per jaar (label)</th><th>Stroomkosten per jaar</th>'
+        uitleg = 'het jaarverbruik van het EU-energielabel keer'
+        zin = 'Zuinigst per jaar: <b>%s %s</b> met %s. De duurste in deze lijst kost %s per jaar, %s meer, over 10 jaar is dat %s.' % (
+            e(lg[0]["brand"]), e(lg[0]["name"]), _m2(jaar(lg[1])), _m2(jaar(hg[1])), _m2(jaar(hg[1]) - jaar(lg[1])), _m2((jaar(hg[1]) - jaar(lg[1])) * 10))
+        titel = "Wat ze per jaar kosten aan stroom"
+    else:
+        perbeurt = lambda k: (k[0] / 100 if k[1] == "100" else k[0] / 160) * prijs
+        woord = "wasbeurt" if soort == "was" else "droogbeurt"
+        trs = "".join('<tr><td class="nm">%s %s</td><td>%s</td><td>%s</td><td><b>%s</b></td></tr>' % (e(p["brand"]), e(p["name"]), e(str((p.get("specs") or {}).get("Energieverbruik", ""))), _m2(perbeurt(k)), _m2(perbeurt(k) * 156)) for p, k in rij)
+        lg = min(rij, key=lambda x: perbeurt(x[1])); hg = max(rij, key=lambda x: perbeurt(x[1]))
+        kop = '<th>Model</th><th>Verbruik (EU-label)</th><th>Per %s</th><th>Per jaar, 3 keer per week</th>' % woord
+        uitleg = 'het verbruik van het EU-energielabel (eco-programma; oudere drogerlabels rekenen met 160 beurten per jaar) keer'
+        zin = 'Zuinigst per %s: <b>%s %s</b> met %s. Bij 3 keer per week scheelt dat tegenover de duurste in deze lijst %s per jaar.' % (
+            woord, e(lg[0]["brand"]), e(lg[0]["name"]), _m2(perbeurt(lg[1])), _m2((perbeurt(hg[1]) - perbeurt(lg[1])) * 156))
+        titel = "Wat een %s kost aan stroom" % woord
+    return ('<h2 id="kosten" class="rv" style="margin-top:28px">%s</h2><p>%s</p>'
+            '<div class="tbl rv"><table><thead><tr>%s</tr></thead><tbody>%s</tbody></table></div>'
+            '<p class="muted" style="font-size:.9rem">Eigen berekening: %s %s Het labelverbruik is gemeten onder standaardomstandigheden; jouw verbruik hangt af van programma, belading en plaats van het apparaat.</p>') % (titel, zin, kop, trs, uitleg, _kosten_bron())
+def kosten_html(g):
+    return _kosten_watt(g) or _kosten_airfryer(g) or _kosten_label(g)
 
 def eur(v):
     s = ("%.2f" % v).replace(".", ","); return "€ " + (s[:-3] if s.endswith(",00") else s)
@@ -1397,7 +1454,7 @@ prose("zo-kiezen-wij.html", "Zo kiezen wij", "Hoe watkoopik producten vergelijkt
 <h2>Wat we wegen</h2><p>Elk product krijgt een score van 1 tot 10. <b>Prestaties</b> (40%): hoe goed doet het product zijn werk, op basis van specificaties en terugkerende ervaringen in reviews. <b>Prijs-kwaliteit</b> (25%): wat krijg je voor je geld vergeleken met de rest van de lijst. <b>Betrouwbaarheid</b> (20%): garantie, merkreputatie en klachten over defecten. <b>Gebruiksgemak</b> (15%): bediening, onderhoud en ergernissen.</p>
 <h2>Onze bronnen</h2><p>Officiële specificaties van fabrikanten, productpagina's en reviewscores van grote Nederlandse winkels zoals bol. Waar beschikbaar gebruiken we ook onafhankelijke tests van gespecialiseerde media. Wij testen producten niet zelf in een lab. We zeggen dus nooit dat we iets getest hebben, wel dat we het vergeleken hebben.</p>
 <h2>Hoe we geld verdienen</h2><p>Koop je via een link op onze site, dan ontvangen wij soms een kleine vergoeding van de winkel. Jij betaalt niets extra. Dit heeft geen invloed op de volgorde: merken kunnen geen plek kopen.</p>
-<h2>Actualiteit</h2><p>Prijzen controleren we dagelijks bij bol. Lijsten bekijken we minimaal elke maand opnieuw. Verdwijnt een product of komt er een beter model, dan passen we de lijst eerder aan.</p>''', "zo-kiezen-wij.html")
+<h2 id="stroomkosten">Stroomkosten</h2><p>Bij kachels, dekens, ontvochtigers, airfryers, koelkasten, vriezers, wasmachines en drogers rekenen we zelf uit wat een apparaat aan stroom kost. Voor apparaten die op vermogen draaien: het maximale vermogen volgens de fabrikant keer de tijd keer de stroomprijs. Voor koelen, wassen en drogen: het verbruik van het EU-energielabel keer de stroomprijs. De stroomprijs is het gemiddelde variabele leveringstarief plus energiebelasting inclusief btw van het CBS (tabel 85592NED), die we elk kwartaal bijwerken. Het zijn rekenvoorbeelden, geen metingen: een thermostaat, eco-stand of kortere sessie maakt de echte kosten lager.</p><h2>Actualiteit</h2><p>Prijzen controleren we dagelijks bij bol. Lijsten bekijken we minimaal elke maand opnieuw. Verdwijnt een product of komt er een beter model, dan passen we de lijst eerder aan.</p>''', "zo-kiezen-wij.html")
 prose("over-ons.html", "Over ons", "Over watkoopik: onafhankelijke koopgidsen.", '''<span class="kick">Over watkoopik</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Een eerlijk overzicht, zodat jij slim koopt</h1>
 <p>Wie een stofzuiger of koffiemachine zoekt, verdrinkt in honderden modellen en tegenstrijdige reviews. Wij wilden één plek waar je per productsoort in vijf minuten ziet wat de beste keuze is en waarom.</p>
 <p>Daarom maken we top 10-lijsten: precies tien modellen die ertoe doen, met eerlijke plus- en minpunten en voor wie elk product geschikt is. watkoopik is onderdeel van 4NEON en werkt onafhankelijk van merken en winkels.</p>
@@ -1416,7 +1473,7 @@ wr("stats.html", '<!doctype html><html lang="nl"><head><meta charset="utf-8"><me
 # lastmod volgt echte wijzigingen (nieuwste gids), niet de bouwdatum, zodat Google het signaal blijft vertrouwen
 LAST = max(gmod(g) for g in guides)
 urls = [("", LAST, "1.0"), ("gidsen.html", LAST, "0.8"), ("aanbiedingen/", TODAY.isoformat(), "0.8"), ("keuzehulp.html", LAST, "0.7"), ("slimste-koop.html", LAST, "0.7"),
-        ("zo-kiezen-wij.html", "2026-10-13", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
+        ("zo-kiezen-wij.html", "2026-11-23", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
 urls += [("categorie/%s.html" % k if k != "cadeaus" else "cadeaus/", max(gmod(g) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
 urls += [("black-friday/", TODAY.isoformat(), "0.8")] + ([("black-friday/echte-kortingen-2026.html", TODAY.isoformat(), "0.8")] if BF_N else [])
 # hubs niet meer in de sitemap (Google-plan 23 nov 2026)

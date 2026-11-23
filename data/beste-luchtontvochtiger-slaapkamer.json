@@ -32,7 +32,8 @@
         "Capaciteit": "8 l per dag",
         "Geluid": "ca. 40 dB (laag)",
         "Nachtmodus": "nee, wel timer",
-        "Ruimte": "tot ca. 30 m²"
+        "Ruimte": "tot ca. 30 m²",
+        "Vermogen": "610 W"
       },
       "pros": [
         "Geen compressor, alleen ventilatorgeruis",
@@ -95,7 +96,8 @@
         "Capaciteit": "12 l per dag",
         "Geluid": "laag in slaapmodus",
         "Nachtmodus": "ja, slaapmodus",
-        "Ruimte": "tot ca. 30 m²"
+        "Ruimte": "tot ca. 30 m²",
+        "Vermogen": "200 W"
       },
       "pros": [
         "Slaapmodus met stillere ventilator en gedimd display",
@@ -165,7 +167,8 @@
         "Capaciteit": "25 l per dag",
         "Geluid": "42 dB",
         "Nachtmodus": "ja, alle lampjes uit",
-        "Ruimte": "tot 125 m²"
+        "Ruimte": "tot 125 m²",
+        "Vermogen": "267 W"
       },
       "pros": [
         "Quiet Mark-keurmerk voor stille apparaten",
@@ -206,7 +209,8 @@
         "Capaciteit": "20 l per dag",
         "Geluid": "niet vermeld",
         "Nachtmodus": "niet vermeld",
-        "Ruimte": "niet vermeld"
+        "Ruimte": "niet vermeld",
+        "Vermogen": "380 W"
       },
       "pros": [
         "Hoge capaciteit van 20 liter per dag",
@@ -269,7 +273,8 @@
         "Capaciteit": "6 l per dag",
         "Geluid": "ca. 36 dB (laag)",
         "Nachtmodus": "ja, slaapstand",
-        "Ruimte": "tot ca. 20 m²"
+        "Ruimte": "tot ca. 20 m²",
+        "Vermogen": "85 W"
       },
       "pros": [
         "Klein formaat dat makkelijk naast een kast past",
@@ -344,7 +349,8 @@
         "Capaciteit": "12 l per dag",
         "Geluid": "ca. 40 dB (laag)",
         "Nachtmodus": "ja, slaapstand",
-        "Ruimte": "tot ca. 50 m²"
+        "Ruimte": "tot ca. 50 m²",
+        "Vermogen": "240 W"
       },
       "pros": [
         "Bediening en schema via de app",
@@ -419,7 +425,8 @@
         "Capaciteit": "10 l per dag",
         "Geluid": "ca. 40 dB (laag)",
         "Nachtmodus": "nee",
-        "Ruimte": "tot ca. 40 m²"
+        "Ruimte": "tot ca. 40 m²",
+        "Vermogen": "265 W"
       },
       "pros": [
         "Licht en compact, makkelijk te verplaatsen",
@@ -498,7 +505,8 @@
         "Capaciteit": "10 l per dag",
         "Geluid": "ca. 40 dB (laag)",
         "Nachtmodus": "nee",
-        "Ruimte": "tot ca. 30 m²"
+        "Ruimte": "tot ca. 30 m²",
+        "Vermogen": "240 W"
       },
       "pros": [
         "Scherpe prijs voor een merkapparaat",
@@ -570,7 +578,8 @@
         "Capaciteit": "0,9 l per dag",
         "Geluid": "ca. 33 dB",
         "Nachtmodus": "ja, lampjes uit",
-        "Ruimte": "tot ca. 20 m²"
+        "Ruimte": "tot ca. 20 m²",
+        "Vermogen": "80 W"
       },
       "pros": [
         "Zeer stil, rond de 33 dB",
@@ -645,7 +654,8 @@
         "Capaciteit": "0,3 l per dag",
         "Geluid": "onder 35 dB",
         "Nachtmodus": "nee",
-        "Ruimte": "tot 15 m²"
+        "Ruimte": "tot 15 m²",
+        "Vermogen": "23 W"
       },
       "pros": [
         "Zeer lage prijs",

@@ -32,7 +32,8 @@
         "Inhoud": "635 l",
         "Energieklasse": "E",
         "Dispenser": "Water en ijs (vaste aansluiting)",
-        "Breedte": "91,3 cm"
+        "Breedte": "91,3 cm",
+        "Energieverbruik": "348 kWh per jaar"
       },
       "pros": [
         "InstaView: klop op het glas en je ziet wat er in de deur staat",
@@ -108,7 +109,8 @@
         "Inhoud": "634 l",
         "Energieklasse": "F",
         "Dispenser": "Water en ijs (vaste aansluiting)",
-        "Breedte": "91,2 cm"
+        "Breedte": "91,2 cm",
+        "Energieverbruik": "395 kWh per jaar"
       },
       "pros": [
         "SpaceMax: dunnere wanden voor meer binnenruimte",
@@ -180,9 +182,10 @@
       "specs": {
         "Type": "Side-by-side",
         "Inhoud": "ca. 614 l",
-        "Energieklasse": "F",
+        "Energieklasse": "E",
         "Dispenser": "Water en ijs (vaste aansluiting)",
-        "Breedte": "91,2 cm"
+        "Breedte": "91,2 cm",
+        "Energieverbruik": "346 kWh per jaar"
       },
       "pros": [
         "Groot touchscreen in de deur voor agenda, boodschappen en muziek",
@@ -250,7 +253,8 @@
         "Inhoud": "605 l",
         "Energieklasse": "E",
         "Dispenser": "Geen",
-        "Breedte": "90,5 cm"
+        "Breedte": "90,5 cm",
+        "Energieverbruik": "333 kWh per jaar"
       },
       "pros": [
         "Vier deuren met twee vriesladen onderin",
@@ -324,7 +328,8 @@
         "Inhoud": "508 l",
         "Energieklasse": "E",
         "Dispenser": "Geen",
-        "Breedte": "83,5 cm"
+        "Breedte": "83,5 cm",
+        "Energieverbruik": "393 kWh per jaar"
       },
       "pros": [
         "Slechts 83,5 cm breed, past in meer keukens",
@@ -398,7 +403,8 @@
         "Inhoud": "632 l",
         "Energieklasse": "C",
         "Dispenser": "Water en ijs (watertank)",
-        "Breedte": "91 cm"
+        "Breedte": "91 cm",
+        "Energieverbruik": "221 kWh per jaar"
       },
       "pros": [
         "Water- en ijsdispenser voor een middenklasseprijs",
@@ -452,7 +458,8 @@
         "Inhoud": "605 l",
         "Energieklasse": "E",
         "Dispenser": "Geen",
-        "Breedte": "91 cm"
+        "Breedte": "91 cm",
+        "Energieverbruik": "333 kWh per jaar"
       },
       "pros": [
         "405 liter koelruimte en 200 liter vriesruimte",
@@ -496,7 +503,8 @@
         "Inhoud": "544 l",
         "Energieklasse": "C",
         "Dispenser": "Geen",
-        "Breedte": "ca. 90 cm"
+        "Breedte": "ca. 90 cm",
+        "Energieverbruik": "204 kWh per jaar"
       },
       "pros": [
         "Energieklasse C, zuiniger dan de meeste concurrenten",
@@ -572,7 +580,8 @@
         "Inhoud": "555 l",
         "Energieklasse": "D",
         "Dispenser": "IJsblokjesmaker (zonder aansluiting)",
-        "Breedte": "ca. 90 cm"
+        "Breedte": "ca. 90 cm",
+        "Energieverbruik": "256 kWh per jaar"
       },
       "pros": [
         "IJsblokjesmaker werkt zonder wateraansluiting",
@@ -648,7 +657,8 @@
         "Inhoud": "467 l",
         "Energieklasse": "E",
         "Dispenser": "Geen",
-        "Breedte": "83 cm"
+        "Breedte": "83 cm",
+        "Energieverbruik": "290 kWh per jaar"
       },
       "pros": [
         "Smal genoeg voor de meeste keukens",

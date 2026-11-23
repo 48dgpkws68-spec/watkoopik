@@ -31,7 +31,8 @@
         "Inhoud": "440 l",
         "Energieklasse": "B",
         "Geluid": "35 dB",
-        "NoFrost": "Ja"
+        "NoFrost": "Ja",
+        "Energieverbruik": "142 kWh per jaar"
       },
       "pros": [
         "440 liter in een kast van 70 cm breed",
@@ -94,7 +95,8 @@
         "Inhoud": "387 l",
         "Energieklasse": "B",
         "Geluid": "35 dB",
-        "NoFrost": "Ja"
+        "NoFrost": "Ja",
+        "Energieverbruik": "134 kWh per jaar"
       },
       "pros": [
         "Ruime inhoud van 387 liter",
@@ -147,7 +149,8 @@
         "Inhoud": "371 l",
         "Energieklasse": "D",
         "Geluid": "35 dB",
-        "NoFrost": "Ja"
+        "NoFrost": "Ja",
+        "Energieverbruik": "210 kWh per jaar"
       },
       "pros": [
         "Ruime inhoud door hoogte van 201,5 cm",
@@ -225,7 +228,8 @@
         "Inhoud": "267 l",
         "Energieklasse": "E",
         "Geluid": "35 dB",
-        "NoFrost": "Nee, LowFrost"
+        "NoFrost": "Nee, LowFrost",
+        "Energieverbruik": "229 kWh per jaar"
       },
       "pros": [
         "Vriezer van 84 liter met drie laden",
@@ -269,7 +273,8 @@
         "Inhoud": "286 l",
         "Energieklasse": "E",
         "Geluid": "35 dB",
-        "NoFrost": "Nee"
+        "NoFrost": "Nee",
+        "Energieverbruik": "177 kWh per jaar"
       },
       "pros": [
         "Heel veel koelruimte",
@@ -346,7 +351,8 @@
         "Inhoud": "336 l",
         "Energieklasse": "A",
         "Geluid": "35 dB",
-        "NoFrost": "Ja"
+        "NoFrost": "Ja",
+        "Energieverbruik": "109 kWh per jaar"
       },
       "pros": [
         "Energielabel A houdt het verbruik laag",
@@ -414,9 +420,10 @@
       "specs": {
         "Type": "Amerikaans",
         "Inhoud": "634 l",
-        "Energieklasse": "E",
+        "Energieklasse": "F",
         "Geluid": "36 dB",
-        "NoFrost": "Ja"
+        "NoFrost": "Ja",
+        "Energieverbruik": "395 kWh per jaar"
       },
       "pros": [
         "Enorme inhoud van 634 liter",
@@ -492,7 +499,8 @@
         "Inhoud": "573 l",
         "Energieklasse": "E",
         "Geluid": "39 dB",
-        "NoFrost": "Ja"
+        "NoFrost": "Ja",
+        "Energieverbruik": "333 kWh per jaar"
       },
       "pros": [
         "Vier deuren, makkelijk indelen",
@@ -571,7 +579,8 @@
         "Inhoud": "120 l",
         "Energieklasse": "E",
         "Geluid": "38 dB",
-        "NoFrost": "Nee"
+        "NoFrost": "Nee",
+        "Energieverbruik": "139 kWh per jaar"
       },
       "pros": [
         "Past onder het werkblad met 85 cm hoogte",
@@ -649,7 +658,8 @@
         "Inhoud": "324 l",
         "Energieklasse": "E",
         "Geluid": "38 dB",
-        "NoFrost": "Ja"
+        "NoFrost": "Ja",
+        "Energieverbruik": "250 kWh per jaar"
       },
       "pros": [
         "Strak Italiaans design in rvs",
