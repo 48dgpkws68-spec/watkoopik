@@ -438,6 +438,9 @@ for c in json.load(open(os.path.join(ROOT, "_src", "clusters.json"), encoding="u
     CLUSTERS.append(c)
     for g in ms: CL_OF.setdefault(g["slug"], []).append(c)
 HUBS = [c for c in CLUSTERS if c["hub"]]
+# Google-plan (Nick, 23 nov 2026): hubs (~206 eigen woorden) en vs-pagina's (~370) zijn dun en drukken Google's oordeel over
+# de hele site. Alleen voor Google noindex (googlebot) en uit sitemap; links blijven (follow), Bing/ChatGPT houden ze.
+NOINDEX |= {c["hub"] for c in HUBS} | {"vs/%s.html" % v["slug"] for v in VS_PAGES}
 # Zoekterm netjes in een zin (groeimotor 10 nov 2026): 'beste' vooraan en 'kopen' achteraan eraf, het-woorden en meervoud herkennen.
 HET_KOP = ("cadeau", "dekbed", "dekbedovertrek", "matras", "bedframe", "droogrek", "fornuis", "hoofdkussen", "scheerapparaat", "strijkijzer", "bureau", "warmtekussen", "massagepistool", "autostoeltje", "paneel", "sporthorloge", "bruiswatertoestel")
 def zoekterm(g):
@@ -1381,8 +1384,8 @@ LAST = max(gmod(g) for g in guides)
 urls = [("", LAST, "1.0"), ("gidsen.html", LAST, "0.8"), ("aanbiedingen/", TODAY.isoformat(), "0.8"), ("keuzehulp.html", LAST, "0.7"), ("slimste-koop.html", LAST, "0.7"),
         ("zo-kiezen-wij.html", "2026-10-13", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
 urls += [("categorie/%s.html" % k if k != "cadeaus" else "cadeaus/", max(gmod(g) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
-urls += [("black-friday/", TODAY.isoformat(), "0.8")] + ([("black-friday/echte-kortingen-2026.html", TODAY.isoformat(), "0.8")] if BF_N else []) + [("vs/%s.html" % v["slug"], v["updated"], "0.6") for v in VS_PAGES]
-urls += [(c["hub"], max(gmod(g) for g in c["members"]), "0.8") for c in HUBS]
+urls += [("black-friday/", TODAY.isoformat(), "0.8")] + ([("black-friday/echte-kortingen-2026.html", TODAY.isoformat(), "0.8")] if BF_N else [])
+# hubs niet meer in de sitemap (Google-plan 23 nov 2026)
 urls += [(g["url"], gmod(g), "0.9") for g in guides if g["url"] not in NOINDEX]
 def _pp_mod(x):  # lastmod = laatste dag dat de gemeten prijs veranderde (of de gids bijgewerkt werd)
     h = hist_of(x["p"]); d = h["first"]
