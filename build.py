@@ -187,6 +187,20 @@ def own_pos(g, plek):
 def chk_date(p, g):
     """Datum van de laatste prijscontrole: synced uit bol_sync, anders de gidsdatum."""
     return nldate(p.get("synced") or g.get("updated", TODAY.isoformat()))
+def kort_antwoord(g, ps):
+    """23 nov 2026 (ChatGPT-plan): het antwoord in de eerste 200 tekens onder de H1: nr. 1, beste prijs-kwaliteit en goedkoopste, met prijs en controledatum."""
+    ok = [p for p in ps if p.get("price")]
+    if not ok: return ""
+    top = ok[0]
+    bv = next((p for p in ok if p.get("label") == "Beste prijs-kwaliteit" and p is not top), None)
+    lo = min(ok, key=lambda p: p["price"])
+    d = nldate(max((p.get("synced") or g.get("updated", TODAY.isoformat())) for p in ok))
+    nm = lambda p: "%s %s" % (p["brand"], p["name"])
+    s = "Kort antwoord (prijzen gecontroleerd op %s): de beste keuze is de <b>%s</b> voor %s bij bol." % (e(d), e(nm(top)), eur(top["price"]))
+    if bv and bv is not lo: s += " Beste prijs-kwaliteit: %s voor %s." % (e(nm(bv)), eur(bv["price"]))
+    if lo is not top: s += " Goedkoopste in deze top %d: %s voor %s." % (len(ps), e(nm(lo)), eur(lo["price"]))
+    return '<p class="kort">%s</p>' % s
+
 def chk_html(p, g, short=False):
     d = chk_date(p, g)
     if short: d = " ".join(d.split()[:2])[:6].rstrip()
@@ -1014,7 +1028,7 @@ for g in guides:
               [{"@type": "ListItem", "position": 4 if hubc else 3, "name": g["title"], "item": url_abs}]}]
     extra = "".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in ld)
     body = '''<div class="wrap"><nav class="crumbs"><a href="../">Home</a> › <a href="../categorie/%s.html">%s</a> › %s</nav>%s
-<div class="ghero"><span class="kick">Top 10 · %s</span><h1 class="split">%s</h1><p class="intro">%s</p>
+<div class="ghero"><span class="kick">Top 10 · %s</span><h1 class="split">%s</h1>%s<p class="intro">%s</p>
 <div class="meta-line"><span>Bijgewerkt <b>%s</b></span><span><b>%d</b> modellen</span>%s<span>Door <a href="../over-ons.html#nick"><b>Nick van Straaten</b></a></span></div>
 <p class="disc disc-top">Bevat affiliatelinks, <a href="#disclaimer">zo verdienen wij</a>.</p></div>
 %s<div class="podium">%s</div>
@@ -1032,7 +1046,7 @@ for g in guides:
 <section style="padding:40px 0"><div class="sec-head"><h2>Meer gidsen in %s</h2><a class="more" href="../categorie/%s.html">Alle %d →</a></div><div class="gl">%s</div></section>
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
-        g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(gmod(g))), len(ps), "",
+        g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), kort_antwoord(g, ps), e(g["intro"]), e(nldate(gmod(g))), len(ps), "",
         own_pos(g, "boven"), podium, own_pos(g, "onder") + k2_html(g) + combi_html(g) + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table + kosten_html(g), pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
