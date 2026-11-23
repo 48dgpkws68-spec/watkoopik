@@ -4,6 +4,7 @@ Inhoud komt uit data/*.json. Gebruik: python3 build.py (of ./deploy.sh "bericht"
 Vorige versie van de bouwmotor: build_v1.py (niet meer gebruikt).
 Copyregel: geen em/en-dashes, geen ", en"."""
 import os, re, sys, json, subprocess, hashlib, glob, html, datetime, urllib.parse
+CONTACT_MAIL = "nick@4neon.nl"   # 23 nov 2026: hallo@watkoopik.nl had geen MX (mail kwam nergens aan); GoDaddy-doorsturen kost geld bij nieuwe domeinen
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 # Varianten: WK_THEME=light|dark (standaard dark), WK_OUT=<map> voor een preview elders (dan noindex + canonical naar .nl)
@@ -1280,7 +1281,7 @@ if BF_N:
                 _mx = subprocess.run(["dig", "+short", "MX", "watkoopik.nl", "@1.1.1.1"], capture_output=True, text=True, timeout=8).stdout.strip()
             except Exception:
                 _mx = "?"
-            _mxw = "" if _mx else "\n**LET OP (groeimotor, automatische check): hallo@watkoopik.nl ontvangt geen mail, watkoopik.nl heeft geen MX-record.** Antwoorden van journalisten komen nu nergens aan. Zet vóór verzenden een werkend adres onderaan het bericht (of regel doorsturen voor hallo@watkoopik.nl in GoDaddy/Cloudflare). Deze regel verdwijnt vanzelf zodra er een MX-record is.\n"
+            _mxw = "" if (_mx or CONTACT_MAIL.split("@")[1] != "watkoopik.nl") else "\n**LET OP (groeimotor, automatische check): hallo@watkoopik.nl ontvangt geen mail, watkoopik.nl heeft geen MX-record.** Antwoorden van journalisten komen nu nergens aan. Zet vóór verzenden een werkend adres onderaan het bericht (of regel doorsturen voor hallo@watkoopik.nl in GoDaddy/Cloudflare). Deze regel verdwijnt vanzelf zodra er een MX-record is.\n"
             _pers = """# Persbericht Black Friday (cijfers van %s)
 
 Dit bestand wordt bij elke build van watkoopik herschreven met de cijfers van die dag. Niets is verstuurd. De pagina met dezelfde cijfers: %s
@@ -1295,7 +1296,7 @@ Vergelijkingssite watkoopik.nl meet sinds %s elke dag de prijs van de producten 
 
 %swatkoopik vergelijkt de prijs van vandaag met de eigen metingen van de dertig dagen ervoor, niet met een adviesprijs. Verschillen van meer dan 60 procent, vaak een andere verkoper, tellen niet mee. De cijfers worden tot en met 1 december dagelijks bijgewerkt. De volledige dataset staat als CSV op de site en mag met bronvermelding worden gebruikt.
 
-Meer informatie: %s · hallo@watkoopik.nl
+Meer informatie: %s · nick@4neon.nl
 
 ## 5 korte pitches (zelf de contactweg zoeken)
 
@@ -1404,10 +1405,10 @@ prose("over-ons.html", "Over ons", "Over watkoopik: onafhankelijke koopgidsen.",
 <p>watkoopik is opgezet door Nick van Straaten. Producten testen we niet zelf in een testlab. De gidsen schrijven we met hulp van AI-tools op basis van specificaties, prijzen en de ervaringen van kopers; Nick bewaakt de werkwijze en past gidsen aan als lezers of onze eigen controles een fout vinden. We zetten per productsoort tien modellen naast elkaar op specificaties, prijs en de ervaringen van kopers. De prijzen meten we elke dag bij bol, zodat je ziet welke korting echt is.</p>
 <p>Zie je een fout of mis je een model? Laat het weten via het <a href="contact.html">contactformulier</a>.</p>''')
 prose("contact.html", "Contact", "Neem contact op met watkoopik.", '''<span class="kick">Contact</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Vraag, tip of fout gezien?</h1>
-<form action="https://formsubmit.co/hallo@watkoopik.nl" method="POST" style="display:grid;gap:12px;max-width:520px;margin-top:16px"><input type="hidden" name="_subject" value="Contact via watkoopik.nl"><input type="text" name="_honey" style="display:none">
+<form action="https://formsubmit.co/nick@4neon.nl" method="POST" style="display:grid;gap:12px;max-width:520px;margin-top:16px"><input type="hidden" name="_subject" value="Contact via watkoopik.nl"><input type="text" name="_honey" style="display:none">
 <input name="naam" placeholder="Je naam" required style="padding:13px 16px;border:1.5px solid var(--line);border-radius:14px;font:inherit"><input type="email" name="email" placeholder="Je e-mailadres" required style="padding:13px 16px;border:1.5px solid var(--line);border-radius:14px;font:inherit"><textarea name="bericht" rows="6" placeholder="Je bericht" required style="padding:13px 16px;border:1.5px solid var(--line);border-radius:14px;font:inherit"></textarea><button class="btn btn-purple" type="submit">Versturen</button></form>''')
 prose("disclaimer.html", "Affiliate-disclaimer", "Hoe watkoopik geld verdient.", '''<h1 style="font-size:2rem">Affiliate-disclaimer</h1><p>watkoopik neemt deel aan het bol Partnerprogramma en aan het Amazon Associates-programma. Als Amazon-partner verdienen wij aan kwalificerende aankopen. Koop je via een link op onze site, dan kunnen wij een vergoeding ontvangen. De prijs die jij betaalt verandert niet. Deze vergoeding heeft geen invloed op de volgorde van onze lijsten. Prijzen zijn indicatief; de actuele winkelprijs is leidend.</p>''')
-prose("privacy.html", "Privacy", "Privacybeleid van watkoopik.", '''<h1 style="font-size:2rem">Privacy en cookies</h1><p>Wij plaatsen geen volgcookies. Bezoekersstatistieken meten we anoniem en zonder cookies. Gegevens uit het contactformulier gebruiken we alleen om te reageren. Klik je door naar een winkel, dan geldt het privacybeleid van die winkel. Vragen: <a href="mailto:hallo@watkoopik.nl">hallo@watkoopik.nl</a>.</p>''')
+prose("privacy.html", "Privacy", "Privacybeleid van watkoopik.", '''<h1 style="font-size:2rem">Privacy en cookies</h1><p>Wij plaatsen geen volgcookies. Bezoekersstatistieken meten we anoniem en zonder cookies. Gegevens uit het contactformulier gebruiken we alleen om te reageren. Klik je door naar een winkel, dan geldt het privacybeleid van die winkel. Vragen: <a href="mailto:nick@4neon.nl">nick@4neon.nl</a>.</p>''')
 page("404.html", "Niet gevonden | watkoopik", "Pagina niet gevonden.", '<section style="padding-top:34px"><div class="wrap prose"><h1 style="font-size:2rem">Deze pagina bestaat niet</h1><p>Zoek hieronder of bekijk <a href="/gidsen.html">alle gidsen</a>.</p>' + searchbox() + '</div></section>', root="/")
 
 prose("bedankt.html", "Bedankt", "Bedankt voor je bericht.", '<h1 style="font-size:2rem">Bedankt!</h1><p>We hebben je bericht ontvangen en reageren binnen twee werkdagen. <a href="./">Terug naar home</a>.</p>')
