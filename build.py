@@ -509,6 +509,28 @@ for g in guides:
         if d and key not in _seen:
             _seen.add(key); DEALS.append((g, p, d))
 DEALS.sort(key=lambda x: (-x[2]["drop"], x[1]["rank"]))
+# N51 (groeimotor 24 nov 2026, S7): tv-deals uit eigen metingen. Alleen tv's vanaf 300 euro die NU minstens 10% onder hun laagste
+# bol-prijs van de 30 dagen ervoor zitten (zelfde deal_of als /aanbiedingen/ en deals.py), plus tv's die nu op hun laagste gemeten
+# prijs ooit staan. Per model 1 keer (gids met de beste plek). Pagina voor ChatGPT: googlebot noindex, niet in sitemap, wel IndexNow.
+TVD_PATH = "aanbiedingen/tv-deals.html"
+NOINDEX.add(TVD_PATH)
+def _tv_lijst():
+    deals, laag, seen = [], [], set()
+    tvg = sorted([g for g in guides if g["slug"].startswith("beste-tv-")], key=lambda g: g["slug"])
+    for g in tvg:
+        for p in sorted(g["products"], key=lambda x: x["rank"]):
+            key = str(p.get("ean") or p["brand"] + p["name"])
+            if key in seen or not p.get("price") or p["price"] < 300: continue
+            d = deal_of(p)
+            if d:
+                seen.add(key); deals.append((g, p, d)); continue
+            ph = p.get("ph") or {}
+            if len(ph) >= 14 and abs(p["price"] - min(ph.values())) < 0.01 and p["price"] <= 0.95 * max(ph.values()):
+                seen.add(key); laag.append((g, p, {"low": min(ph.values()), "high": max(ph.values()), "first": sorted(ph)[0]}))
+    deals.sort(key=lambda x: (-x[2]["drop"], x[1]["price"]))
+    laag.sort(key=lambda x: -(1 - x[1]["price"] / x[2]["high"]))
+    return deals, laag
+TV_DEALS, TV_LAAG = _tv_lijst()
 # ---------- vergelijkingen X vs Y (sinds 24 okt 2026, vsdata/vs.json) ----------
 # Producten worden op EAN gekoppeld: verdwijnt een van beide uit de gids, dan valt de pagina weg in plaats van verouderd te raken.
 VS_PAGES = []
@@ -945,6 +967,12 @@ def combi_html(g):
         links.append('<a href="../%s" data-umami-event="combi-link" data-umami-event-gids="%s" data-umami-event-combi="%s"><b>%s inch onder %s euro</b> · nr. 1 %s %s</a>' % (x["url"], e(g["slug"]), e(x["slug"]), mm.group(1), mm.group(2), e(x["products"][0]["brand"]), e(x["products"][0]["name"])))
     return '<div class="k2"><span class="upg-lbl">Maat en budget vast?</span><p>De beste tv voor precies die combinatie:</p><div class="k2-l">%s</div></div>' % "".join(links)
 
+def tvd_link(g):
+    if not g["slug"].startswith("beste-tv-") or not (TV_DEALS or TV_LAAG): return ""
+    n = len(TV_DEALS)
+    wat = ("%d tv's vanaf 300 euro zijn nu echt goedkoper dan in de 30 dagen ervoor" % n) if n else ("%d tv's staan nu op hun laagste gemeten prijs" % len(TV_LAAG))
+    return '<a class="vs-link" href="../%s" data-umami-event="tvdeals-link" data-umami-event-gids="%s"><b>%s:</b> %s, gemeten bij bol →</a>' % (TVD_PATH, e(g["slug"]), "Tv-deals Black Friday" if TODAY <= datetime.date(2026, 12, 1) else "Tv-deals december", wat)
+
 def bars(p, g):
     """Deelscores afgeleid van totaalscore en prijspositie binnen de gids (voor visuele vergelijking)."""
     prices = sorted(x["price"] for x in g["products"]); pos = prices.index(p["price"]) / max(1, len(prices) - 1)
@@ -1047,7 +1075,7 @@ for g in guides:
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), kort_antwoord(g, ps), e(g["intro"]), e(nldate(gmod(g))), len(ps), "",
-        own_pos(g, "boven"), podium, own_pos(g, "onder") + k2_html(g) + combi_html(g) + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table + kosten_html(g), pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        own_pos(g, "boven"), podium, own_pos(g, "onder") + k2_html(g) + combi_html(g) + tvd_link(g) + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table + kosten_html(g), pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = zoekterm(g)  # zoekterm voor titel en meta; query blijft de bol-zoekterm
@@ -1074,6 +1102,36 @@ def deals_body(root, kick="Aanbiedingen", h1="Echte prijsdalingen in onze top 10
         root or "./", kick, kick, h1, lead, len(DEALS), nldate(TODAY.isoformat()), root, root, lst)
 page("aanbiedingen/index.html", "Aanbiedingen: echte prijsdalingen bij bol | watkoopik", "Producten uit onze top 10-gidsen die nu minstens 10% goedkoper zijn dan hun laagste bol-prijs van de 30 dagen ervoor. Dagelijks bijgewerkt, alleen eigen metingen.",
      deals_body("../"), "aanbiedingen/", root="../")
+# ---------- N51 tv-deals (24 nov 2026) ----------
+def _tvd_page():
+    bf = TODAY <= datetime.date(2026, 12, 1)
+    wanneer = "Black Friday 2026" if bf else "december 2026"
+    h1 = "Tv-deals %s: welke tv's zijn echt goedkoper?" % wanneer
+    if TV_DEALS:
+        g0, p0, d0 = TV_DEALS[0]
+        kort = "Op %s zijn %d tv's vanaf 300 euro uit onze gidsen minstens 10%% goedkoper dan hun laagste bol-prijs van de 30 dagen ervoor. Grootste daling: %s %s, nu %s (was %s, %d%% lager)." % (
+            nldate(TODAY.isoformat()), len(TV_DEALS), p0["brand"], p0["name"], eur(p0["price"]), eur(round(d0["ref"], 2)), round(d0["drop"] * 100))
+    else:
+        kort = "Op %s is geen enkele tv vanaf 300 euro uit onze gidsen minstens 10%% goedkoper dan zijn laagste bol-prijs van de 30 dagen ervoor. %s" % (
+            nldate(TODAY.isoformat()), ("Wel staan %d tv's nu op de laagste prijs die wij ooit maten (lijst hieronder)." % len(TV_LAAG)) if TV_LAAG else "Wacht dus gerust: een tv die nu in de aanbieding lijkt, was eerder even goedkoop.")
+    if len(TV_DEALS) and len(TV_DEALS) < 5:
+        kort += " Dat zijn er minder dan je op Black Friday zou verwachten: veel tv-kortingen zijn een terugkeer naar een eerdere prijs."
+    lst = '<div class="deals">%s</div>' % "".join(deal_row(g, p, d, "../") for g, p, d in TV_DEALS) if TV_DEALS else ""
+    rows = "".join('<tr><td><a href="../%s#p%d">%s %s</a></td><td><b>%s</b></td><td>%s</td><td>%s</td><td>%s</td></tr>' % (
+        g["url"], p["rank"], e(p["brand"]), e(p["name"]), eur(p["price"]), eur(x["high"]), e(nldate(x["first"])), e(g["short"])) for g, p, x in TV_LAAG)
+    laag = ('<h2 style="margin-top:34px">Nu op de laagste prijs die wij maten</h2><p class="muted" style="max-width:720px">Geen 10%% onder de 30 dagen ervoor, maar wel de laagste bol-prijs sinds wij deze tv dagelijks volgen (minstens 14 meetdagen en minstens 5%% onder de hoogste meting).</p>'
+            '<div class="tbl-wrap"><table class="cmp"><thead><tr><th>Tv</th><th>Nu</th><th>Hoogste meting</th><th>Gevolgd sinds</th><th>In gids</th></tr></thead><tbody>%s</tbody></table></div>' % rows) if TV_LAAG else ""
+    body = '''<section data-hue="1" style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › <a href="./">Aanbiedingen</a> › Tv-deals</nav><span class="kick" style="margin-top:14px">%s</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">%s</h1>
+<p class="kort"><b>Kort antwoord:</b> %s</p>
+<p class="muted" style="max-width:720px">Wij meten elke dag de bol-prijs van alle tv's in onze %d tv-gidsen. Een tv staat hier alleen als hij nu minstens 10%% goedkoper is dan de laagste prijs die wij in de 30 dagen daarvoor maten, zoals de Europese regel voor van-prijzen dat van winkels vraagt. Geen adviesprijzen, geen verzonnen van-prijzen en geen officiële actie van bol: alleen onze eigen metingen, bijgewerkt %s.</p>
+<p class="muted" style="font-size:.85rem">%d tv-deals vanaf 300 euro · <a href="../black-friday/echte-kortingen-2026.html">Zoveel Black Friday-kortingen zijn echt</a> · <a href="./">alle prijsdalingen</a> · wij ontvangen mogelijk een vergoeding als je via onze links koopt.</p>%s%s
+<p class="muted" style="font-size:.9rem;margin-top:24px">Tv-gidsen: %s</p></div></section>''' % (
+        "Tv-deals", h1, e(kort), len([g for g in guides if g["slug"].startswith("beste-tv-")]), nldate(TODAY.isoformat()), len(TV_DEALS), lst, laag,
+        " · ".join('<a href="../%s">%s</a>' % (g["url"], e(g["short"])) for g in sorted([g for g in guides if g["slug"].startswith("beste-tv-")], key=lambda g: g["slug"])))
+    title = "Tv-deals %s: %d tv's echt goedkoper (gemeten) | watkoopik" % (wanneer, len(TV_DEALS)) if TV_DEALS else "Tv-deals %s: echt goedkoper of niet? | watkoopik" % wanneer
+    desc = kort[:155].rsplit(" ", 1)[0] + "." if len(kort) > 158 else kort
+    page(TVD_PATH, title, desc, body, "aanbiedingen/", root="../")
+if not PREVIEW: _tvd_page()
 
 # ---------- vs-pagina's ----------
 def vs_page(v):
@@ -1516,6 +1574,8 @@ if not PREVIEW:
     L += ["## Eigen prijsmetingen", ""]
     if BF_N and TODAY <= datetime.date(2026, 12, 1):
         L.append("- [Black Friday 2026: zoveel kortingen bij bol zijn echt](%s/black-friday/echte-kortingen-2026.html): van %d dagelijks gemeten producten is %s nu minstens 10%% goedkoper dan de mediaan van de 30 dagen ervoor en %s duurder geworden; bijgewerkt %s" % (SITE, BF_N, pct(BF_CNT["echt"]), pct(BF_CNT["duur"]), TODAY.isoformat()))
+    if TV_DEALS or TV_LAAG:
+        L.append("- [Tv-deals %s](%s/%s): %d tv's vanaf 300 euro nu minstens 10%% goedkoper dan hun laagste bol-prijs van de 30 dagen ervoor, %d op hun laagste gemeten prijs; bijgewerkt %s" % ("Black Friday 2026" if TODAY <= datetime.date(2026, 12, 1) else "december 2026", SITE, TVD_PATH, len(TV_DEALS), len(TV_LAAG), TODAY.isoformat()))
     L += ["- [Aanbiedingen](%s/aanbiedingen/): producten uit onze top 10's die echt goedkoper zijn dan eerder gemeten" % SITE, "- [Prijsverloop per model](%s/prijs/): dagelijkse bol-prijzen per model" % SITE, "", "## Overzichten per productfamilie", ""]
     L += ["- [%s](%s/%s): %d gidsen, nr. 1 %s %s" % (hub_q(c), SITE, c["hub"], len(c["members"]), win(c["members"][0])["brand"], win(c["members"][0])["name"]) for c in HUBS] + [""]
     for k in CATS:

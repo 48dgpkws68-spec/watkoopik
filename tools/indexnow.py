@@ -13,6 +13,8 @@ for f in sorted(glob.glob(os.path.join(ROOT, "data", "beste-*.json"))):
             u = "https://watkoopik.nl/beste/%s.html" % os.path.basename(f)[:-5]
             if u not in urls: urls.append(u)
     except Exception: pass
+# N51 (24 nov 2026): tv-deals is googlebot-noindex en staat niet in de sitemap, wel bij Bing melden
+if "https://watkoopik.nl/aanbiedingen/tv-deals.html" not in urls: urls.append("https://watkoopik.nl/aanbiedingen/tv-deals.html")
 body = json.dumps({"host": "watkoopik.nl", "key": KEY, "keyLocation": "https://watkoopik.nl/%s.txt" % KEY, "urlList": urls}).encode()
 req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type": "application/json; charset=utf-8"})
 try:
