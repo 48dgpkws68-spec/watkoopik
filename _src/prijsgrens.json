@@ -1,17 +1,4 @@
 {
  "datum": "2026-11-23",
- "overtreders": [
-  {
-   "slug": "beste-tv-43-inch-onder-300-euro",
-   "grens": 300,
-   "plek": 3,
-   "product": "Philips 43PQS7801/12",
-   "prijs": 349.0,
-   "ean": "8718863051658",
-   "laagste_30d": 299.0,
-   "dagen_boven": 1,
-   "dagen_gemeten": 3,
-   "reden": "boven grens"
-  }
- ]
+ "overtreders": []
 }

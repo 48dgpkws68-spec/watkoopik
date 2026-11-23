@@ -16,7 +16,7 @@
   "updated": "2026-10-13",
   "reviews_total": "21.600",
   "intro": "Een elektrische tandenborstel verwijdert volgens tandartsen meer plak dan een handtandenborstel, maar het verschil tussen een model van 30 en van 300 euro is lang niet altijd duidelijk. Wij vergeleken tandenborstels op poetstechniek, drukssensor, accuduur, kosten van opzetborstels en de score bij bol. Dit zijn de tien beste elektrische tandenborstels die je in 2026 in Nederland koopt, van een eenvoudige Oral-B tot de slimste Sonicare.",
-  "verdict": "De Philips Sonicare 9900 Prestige is de beste elektrische tandenborstel: hij meet je druk, beweging en dekking en past de intensiteit automatisch aan, met een accu die een maand meegaat. Wie het meeste voor zijn geld wil, kiest de Oral-B Pro 3 3000 (roze) met zichtbare druksensor en bewezen poetsresultaat voor rond de 60 euro. Voor een klein budget blijft de Philips Sonicare 3100 de veiligste instap.",
+  "verdict": "De Philips Sonicare 9900 Prestige is de beste elektrische tandenborstel: hij meet je druk, beweging en dekking en past de intensiteit automatisch aan, met een accu die een maand meegaat. Wie het meeste voor zijn geld wil, kiest de Oral-B Pro Series 3 (roze) met zichtbare druksensor en bewezen poetsresultaat voor rond de 60 euro. Voor een klein budget blijft de Philips Sonicare 3100 de veiligste instap.",
   "products": [
     {
       "brand": "Philips",
@@ -101,11 +101,11 @@
     },
     {
       "brand": "Oral-B",
-      "name": "Pro 3 3000 roze",
-      "price": 74.95,
+      "name": "Pro Series 3 roze",
+      "price": 64.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,1 van 5",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Zichtbare druksensor en bewezen poetskracht voor rond de 60 euro.",
       "specs": {
         "Techniek": "Oscillerend, 3D-beweging",
@@ -126,23 +126,18 @@
         "Geen app of bluetooth"
       ],
       "ideal": "Wie een degelijke elektrische tandenborstel wil zonder toeters en bellen, met lage vervolgkosten.",
-      "text": "De Oral-B Pro 3 3000 is de tandenborstel die tandartsen in Nederland het vaakst noemen als instapadvies. De ronde kop maakt een oscillerende en pulserende beweging die elke tand afzonderlijk omsluit. De druksensor is een lichtring rondom de hals die rood kleurt zodra je te hard drukt, zichtbaar in de spiegel zonder dat je op het handvat hoeft te kijken.\n\nDrie standen volstaan: dagelijks, gevoelig en whitening. De timer trilt elke dertig seconden zodat je elk kwadrant evenveel aandacht geeft. Opzetborstels kosten rond de 4 euro per stuk en liggen in elke supermarkt, een groot verschil met Philips. Minpunten zijn het duidelijk hoorbare geluid en de accu van twee weken. Voor wie geen app nodig heeft is dit de slimste koop in deze lijst.",
-      "ean": "8700216015431",
-      "rating": 4.1,
-      "bol_title": "Oral-B Pro 3 3000 - Elektrische Tandenborstel - Roze - 3 poetsmodi - Druksensor",
-      "url": "https://www.bol.com/nl/nl/p/szczoteczka-rotacyjna-oral-b-pro-series-3-pink/9300000163033250/",
-      "image": "https://media.s-bol.com/7KoNzgQJ5BoO/y8pGml6/550x423.jpg",
+      "text": "De Oral-B Pro Series 3 is de tandenborstel die tandartsen in Nederland het vaakst noemen als instapadvies. De ronde kop maakt een oscillerende en pulserende beweging die elke tand afzonderlijk omsluit. De druksensor is een lichtring rondom de hals die rood kleurt zodra je te hard drukt, zichtbaar in de spiegel zonder dat je op het handvat hoeft te kijken.\n\nDrie standen volstaan: dagelijks, gevoelig en whitening. De timer trilt elke dertig seconden zodat je elk kwadrant evenveel aandacht geeft. Opzetborstels kosten rond de 4 euro per stuk en liggen in elke supermarkt, een groot verschil met Philips. Minpunten zijn het duidelijk hoorbare geluid en de accu van twee weken. Voor wie geen app nodig heeft is dit de slimste koop in deze lijst.",
+      "ean": "8006540802083",
+      "rating": 4.2,
+      "bol_title": "Oral-B Pro Series 3 - Roze - Elektrische Tandenborstel",
+      "url": "https://www.bol.com/nl/nl/p/oral-b-pro-series-3-roze-elektrische-tandenborstel/9300000153287265/",
+      "image": "https://media.s-bol.com/ORx1gYyNBD1p/DzpL3x/250x200.jpg",
       "ph": {
-        "2026-11-20": 58.99,
-        "2026-11-21": 74.95,
-        "2026-11-22": 74.95,
-        "2026-11-23": 74.95
+        "2026-11-23": 64.99
       },
-      "low_price": 58.99,
-      "ph_ean": "8700216015431",
-      "synced": "2026-11-23",
-      "prev_price": 58.99,
-      "prev_date": "2026-11-20"
+      "low_price": 64.99,
+      "ph_ean": "8006540802083",
+      "synced": "2026-11-23"
     },
     {
       "brand": "Oral-B",
@@ -786,7 +781,7 @@
   "faq": [
     {
       "q": "Wat is de beste elektrische tandenborstel van 2026?",
-      "a": "Op basis van onze vergelijking is de Philips Sonicare 9900 Prestige de beste elektrische tandenborstel van 2026, omdat hij druk, beweging en dekking meet en de intensiteit zelf aanpast. De beste prijs-kwaliteit is de Oral-B Pro 3 3000."
+      "a": "Op basis van onze vergelijking is de Philips Sonicare 9900 Prestige de beste elektrische tandenborstel van 2026, omdat hij druk, beweging en dekking meet en de intensiteit zelf aanpast. De beste prijs-kwaliteit is de Oral-B Pro Series 3."
     },
     {
       "q": "Is Oral-B of Philips Sonicare beter?",

@@ -197,41 +197,42 @@
     },
     {
       "brand": "LG",
-      "name": "65QNED86B6B",
-      "price": 899.0,
-      "score": 8.8,
+      "name": "65QNED87A6B",
+      "price": 799.0,
+      "score": 8.7,
       "label": null,
-      "reviews": "",
-      "oneliner": "LG Mini LED met webOS en natuurlijke kleuren voor lange avonden.",
+      "reviews": "bol-score 3,8 van 5",
+      "oneliner": "LG QNED evo met Dolby Vision, 144 Hz VRR en webOS.",
       "specs": {
-        "Paneel": "QNED evo Mini LED",
-        "Verversing": "120 Hz, VRR",
+        "Paneel": "QNED evo, Precision Dimming Pro",
+        "Verversing": "120 Hz, VRR tot 144 Hz",
         "HDR": "Dolby Vision, HDR10",
-        "HDMI 2.1": "ja, met VRR en ALLM",
-        "Smart-tv": "webOS"
+        "HDMI 2.1": "ja, met VRR en FreeSync Premium",
+        "Smart-tv": "webOS 25"
       },
       "pros": [
-        "Mini LED met lokale dimming en rustige, natuurlijke kleuren",
         "Dolby Vision voor Netflix en Disney+",
-        "webOS met Magic Remote als aanwijzer",
-        "Ruimere kijkhoek dan veel led-tv's"
+        "144 Hz VRR met AMD FreeSync Premium",
+        "webOS met AI Magic Remote",
+        "Rustige, natuurlijke kleuren"
       ],
       "cons": [
-        "Minder fel dan de TCL-modellen",
-        "Duurder dan Hisense en TCL met vergelijkbare techniek"
+        "Geen Mini LED, dus minder contrast dan TCL en Hisense",
+        "Model uit 2025",
+        "Bol-score van 3,8 is gemiddeld"
       ],
-      "ideal": "Wie LG wil, geen OLED nodig heeft en vooral series en films kijkt.",
-      "text": "De LG 65QNED86B6B is de Mini LED-tv voor wie LG wil maar geen OLED op 65 inch kan betalen. Een LG C5 van dat formaat kost ruim 1300 euro. Deze QNED evo uit 2026 blijft met 899 euro ruim onder 1000 euro. Mini LED-verlichting met lokale dimming maakt zwart dieper dan bij de gewone QNED-modellen. LG stemt de kleuren rustig en natuurlijk af, wat prettig is als je een avond lang series kijkt.\n\nHet scherm ververst met 120 Hz en ondersteunt VRR en ALLM, genoeg voor een PlayStation 5 of Xbox Series X. Dolby Vision is aanwezig, net als HDR10. webOS is een van de prettigste smart-tv-systemen: snel, met de Magic Remote als muisaanwijzer en alle grote streamingdiensten. Tegenover de TCL-modellen in deze lijst is de helderheid lager en het aantal dimzones kleiner. In donkere scènes zie je blooming daardoor wat eerder. Je betaalt hier vooral voor het systeem en de beeldafstemming van LG.",
-      "ean": "8806096694800",
-      "bol_title": "LG 65QNED86B6B - 65 inch - 4K QNED evo Mini LED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/lg-65qned86b6b-65-inch-4k-qned-evo-mini-led-2026-smart-tv/9300000278293349/",
-      "image": "https://media.s-bol.com/lrQmAG74vn6J/1Wx4wBj/550x337.jpg",
+      "ideal": "Wie LG wil, geen OLED nodig heeft en vooral series, films en af en toe een game speelt.",
+      "text": "De LG 65QNED87A6B is de 65 inch voor wie LG wil maar geen OLED kan betalen. Een LG C5 van dat formaat kost ruim 1300 euro, deze QNED evo uit 2025 kost 799 euro. Het is geen Mini LED: Precision Dimming Pro regelt honderden dimblokken achter het scherm. Daardoor is het contrast beter dan bij een gewone led-tv, maar minder diep dan bij de Mini LED-modellen in deze lijst. LG stemt de kleuren rustig en natuurlijk af.\n\nVoor films is er Dolby Vision en Ambient FILMMAKER MODE, die het beeld aanpast aan het licht in je kamer. Gamers krijgen 120 Hz, HDMI 2.1 en VRR tot 144 Hz met AMD FreeSync Premium, genoeg voor een PlayStation 5 of Xbox Series X. webOS 25 met de AI Magic Remote werkt snel en heeft alle grote streamingdiensten. Op bol heeft hij een score van 3,8 van 5. Je betaalt hier vooral voor het systeem en de beeldafstemming van LG.",
+      "ean": "8806096365472",
+      "bol_title": "LG 65QNED87A6B - 65 inch - 4K QNED evo - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/lg-65qned87a6b-65-inch-4k-qned-evo-ai-2025-buitenlands-model/9300000229413533/",
+      "image": "https://media.s-bol.com/nqG5K9rqEnlE/zpDk4lm/550x331.jpg",
       "ph": {
-        "2026-11-21": 899.0,
-        "2026-11-22": 899.0
+        "2026-11-23": 799.0
       },
-      "low_price": 899.0,
-      "ph_ean": "8806096694800",
+      "low_price": 799.0,
+      "ph_ean": "8806096365472",
+      "rating": 3.8,
       "synced": "2026-11-23"
     },
     {
@@ -494,6 +495,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-23",
+      "uit": "LG 65QNED86B6B",
+      "in": "LG 65QNED87A6B",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-22",
       "uit": "Xiaomi TV S Mini LED 65 (2025)",

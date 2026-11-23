@@ -19,7 +19,7 @@
   "published": "2026-10-30",
   "reviews_total": "5.900",
   "intro": "Het stookseizoen is begonnen en de gasprijs blijft hoog. Met slimme radiatorknoppen verwarm je alleen de kamers die je echt gebruikt, op het moment dat je er bent. Elke graad lager scheelt volgens Milieu Centraal ongeveer zes procent gas. Wij vergeleken slimme radiatorknoppen op verbinding, benodigde hub, batterijduur, smart home-ondersteuning en de score bij bol. Dit zijn de tien beste die je nu bij bol kunt kopen, van een losse knop van 30 euro tot een compleet zonesysteem.",
-  "verdict": "De tado Slimme Radiatorknop X Starterskit is de beste keuze: Bridge X zit erbij, Matter werkt met elk platform en de app is het meest uitgewerkt. Heb je al een Apple TV, Nest Hub of Home Assistant, dan is de Aqara W600 de beste prijs-kwaliteit voor rond de 50 euro per kamer. Wil je een groot huis in zones verdelen met een systeem dat jaren meegaat, kies dan de Honeywell Evohome HR93.",
+  "verdict": "De tado Slimme Radiatorknop X Starterskit is de beste keuze: Bridge X zit erbij, Matter werkt met elk platform en de app is het meest uitgewerkt. Wil je drie kamers slim maken zonder hub, dan is de Eurotronic Comet WiFi set de beste prijs-kwaliteit voor zo'n 38 euro per knop. Wil je een groot huis in zones verdelen met een systeem dat jaren meegaat, kies dan de Honeywell Evohome HR93.",
   "products": [
     {
       "brand": "tado",
@@ -86,67 +86,44 @@
       "rating": 4.2
     },
     {
-      "brand": "Aqara",
-      "name": "Thermostat Valve W600",
-      "price": 54.95,
+      "brand": "Eurotronic",
+      "name": "Comet WiFi radiatorthermostaat set van 3",
+      "price": 114.98,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "",
-      "oneliner": "Betaalbare Matter-knop met Thread en Zigbee in één.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Drie wifi-radiatorknoppen zonder hub voor zo'n 38 euro per stuk.",
       "specs": {
-        "Inhoud": "1 radiatorknop",
-        "Verbinding": "Thread, Zigbee, Matter",
-        "Hub nodig": "Aqara-hub of Thread-router",
-        "Voeding": "AA-batterijen",
-        "Werkt met": "Google, Alexa, Apple Home, Home Assistant"
+        "Inhoud": "3 radiatorknoppen",
+        "Verbinding": "Wifi",
+        "Hub nodig": "Nee",
+        "Voeding": "AA-batterijen (meegeleverd)",
+        "Werkt met": "Eigen app"
       },
       "pros": [
-        "Lage prijs per kamer",
-        "Zowel Thread als Zigbee, dus flexibel in elk smart home",
-        "Scherm met draaiknop voor bediening ter plekke",
-        "Raam-open-detectie zonder extra sensor"
+        "Geen hub of bridge nodig",
+        "Drie knoppen met adapters en batterijen in de doos",
+        "Raam-open-detectie en vakantiefunctie",
+        "Bediening op afstand via de app"
       ],
       "cons": [
-        "Zonder Aqara-hub of Thread-router werkt hij niet slim",
-        "App is minder Nederlandstalig uitgewerkt dan die van tado"
+        "Handleiding alleen in het Engels en Duits",
+        "Geen Matter of spraakbediening vermeld",
+        "Alleen als set van drie"
       ],
-      "ideal": "Smart home-gebruikers met Apple TV, Google Nest Hub of Home Assistant die betaalbaar per kamer willen regelen.",
-      "text": "De Aqara Thermostat Valve W600 is de opvolger van de E1 en springt eruit door de prijs. Voor rond de 50 euro krijg je een knop met een helder scherm, een draairing en ondersteuning voor zowel Thread als Zigbee. Heb je al een Apple TV, HomePod mini of Google Nest Hub in huis, dan dient die als Thread-router en koppel je de knop via Matter zonder extra hub.\n\nDat maakt hem de slimste koop als je meerdere kamers wilt uitrusten. Vijf knoppen kosten hier minder dan twee bij sommige concurrenten. De knop meet de kamertemperatuur zelf en herkent een open raam aan een snelle temperatuurdaling, waarna hij de klep dichtdraait. Via de Aqara-app of Home Assistant stel je per kamer schema's in voor het stookseizoen. Reviews loven de stille motor en de lange batterijduur. Minder handig is dat de beste functies in de Aqara-app zitten, die niet altijd even helder vertaald is.",
-      "ean": "6975833359363",
-      "bol_title": "Aqara Thermostat Valve W600 - slimme radiatorkraan met Thread & Zigbee - Matter compatibel",
-      "url": "https://www.bol.com/nl/nl/p/aqara-thermostat-valve-w600-slimme-radiatorkraan-met-thread-zigbee-matter-compatibel/9300000245599732/",
-      "image": "https://media.s-bol.com/BW7N6WvO1kKn/BgkDovW/550x755.jpg",
+      "ideal": "Wie voor weinig geld drie kamers slim wil regelen zonder extra hub.",
+      "text": "De Eurotronic Comet WiFi is een set van drie elektronische radiatorknoppen die direct op je wifinetwerk gaan. Je hebt dus geen bridge, gateway of slimme speaker nodig. Voor rond 115 euro betaal je zo'n 38 euro per knop, minder dan bij de meeste starterskits met een losse hub. In de doos zitten negen adapters voor Danfoss RA-, RAV- en RAVL-kranen en zes AA-batterijen, genoeg voor alle drie de knoppen.\n\nVia de gratis app stel je per radiator verwarmings- en bespaartijden in, ook als je onderweg bent. De knoppen hebben een led-weergave, herkennen een open raam en hebben een vakantiefunctie, vorstbeveiliging en kalkbeveiliging. Volgens Eurotronic verbruikt de wifi-verbinding weinig batterij. Kopers op bol geven de set een 5,0 van 5. Minder handig is dat de handleiding alleen in het Engels en Duits is. Koppelen met Google Home, Alexa of Apple Home staat niet in de beschrijving, dus reken daar niet op.",
+      "ean": "4260012712353",
+      "bol_title": "Eurotronic Comet WiFi Draadloze radiatorthermostaat set Elektronisch Set van 3 stuks",
+      "url": "https://www.bol.com/nl/nl/p/eurotronic-comet-wifi-draadloze-radiatorthermostaat-set-elektronisch-set-van-3-stuks/9300000094865921/",
+      "image": "https://media.s-bol.com/nopnYkPGwEjD/Z23G02/550x442.jpg",
       "ph": {
-        "2026-10-30": 49.99,
-        "2026-10-31": 49.99,
-        "2026-11-01": 49.99,
-        "2026-11-02": 49.99,
-        "2026-11-03": 49.99,
-        "2026-11-04": 49.99,
-        "2026-11-05": 49.99,
-        "2026-11-06": 49.99,
-        "2026-11-07": 47.49,
-        "2026-11-08": 46.0,
-        "2026-11-09": 49.99,
-        "2026-11-10": 49.99,
-        "2026-11-11": 49.99,
-        "2026-11-12": 49.99,
-        "2026-11-13": 47.49,
-        "2026-11-14": 47.49,
-        "2026-11-16": 44.0,
-        "2026-11-17": 45.19,
-        "2026-11-18": 45.19,
-        "2026-11-19": 42.9,
-        "2026-11-20": 42.9,
-        "2026-11-21": 39.99,
-        "2026-11-22": 39.99,
-        "2026-11-23": 54.95
+        "2026-11-23": 114.98
       },
-      "low_price": 39.99,
-      "synced": "2026-11-23",
-      "prev_price": 39.99,
-      "prev_date": "2026-11-22",
-      "ph_ean": "6975833359363"
+      "low_price": 114.98,
+      "ph_ean": "4260012712353",
+      "rating": 5.0,
+      "synced": "2026-11-23"
     },
     {
       "brand": "Honeywell Home",
@@ -345,7 +322,7 @@
         "Geen koppeling met Google Home, Alexa of Apple Home"
       ],
       "ideal": "Wie een paar kamers op schema wil zetten zonder hub, cloud of smart-home-systeem.",
-      "text": "De Danfoss Eco is een elektronische radiatorknop die volledig op zichzelf werkt. Je koppelt hem via Bluetooth met de Danfoss Eco-app, stelt een weekschema in en daarna regelt de knop de radiator zelf. Er is geen hub, router of account nodig. Het schema staat in de knop opgeslagen, dus hij blijft werken als je telefoon niet thuis is. In de doos zitten adapters voor Danfoss-kranen en de meeste andere radiatorventielen, waardoor je hem in een paar minuten monteert.\n\nDe beperking zit in Bluetooth. Je past de temperatuur alleen aan als je in de buurt bent, dus vanaf je werk de verwarming hoger zetten lukt niet. Koppelen met Google Home, Alexa of Apple Home kan ook niet. Daar staat tegenover dat je geen gegevens in een cloud zet en geen abonnement afsluit. Kopers op bol geven gemiddeld 4,3 sterren en noemen vooral de eenvoudige montage. De batterijen zitten er niet bij. Wil je de verwarming ook op afstand bedienen, kijk dan naar tado of Aqara.",
+      "text": "De Danfoss Eco is een elektronische radiatorknop die volledig op zichzelf werkt. Je koppelt hem via Bluetooth met de Danfoss Eco-app, stelt een weekschema in en daarna regelt de knop de radiator zelf. Er is geen hub, router of account nodig. Het schema staat in de knop opgeslagen, dus hij blijft werken als je telefoon niet thuis is. In de doos zitten adapters voor Danfoss-kranen en de meeste andere radiatorventielen, waardoor je hem in een paar minuten monteert.\n\nDe beperking zit in Bluetooth. Je past de temperatuur alleen aan als je in de buurt bent, dus vanaf je werk de verwarming hoger zetten lukt niet. Koppelen met Google Home, Alexa of Apple Home kan ook niet. Daar staat tegenover dat je geen gegevens in een cloud zet en geen abonnement afsluit. Kopers op bol geven gemiddeld 4,3 sterren en noemen vooral de eenvoudige montage. De batterijen zitten er niet bij. Wil je de verwarming ook op afstand bedienen, kijk dan naar tado of Eurotronic.",
       "ean": "5702425245329",
       "bol_title": "Danfoss ECO™ Elektronische radiatorthermostaat Elektronisch",
       "url": "https://www.bol.com/nl/nl/p/danfoss-eco-draadloze-radiatorthermostaat-elektronisch/9300000111286785/",
@@ -614,7 +591,7 @@
     },
     {
       "h": "Hub, bridge of niets?",
-      "p": "De meeste knoppen hebben een hub nodig om via internet bediend te worden. Tado, Netatmo, Meross en AQIOS leveren die in de starterskit. Honeywell werkt met een eigen controller en brennenstuhl met een eigen Zigbee-gateway. De Danfoss Eco heeft helemaal geen hub nodig en werkt via Bluetooth. Aqara werkt via Matter over Thread, waarvoor een Apple TV, HomePod mini of Google Nest Hub volstaat. Kijk dus eerst wat je al in huis hebt."
+      "p": "De meeste knoppen hebben een hub nodig om via internet bediend te worden. Tado, Netatmo, Meross en AQIOS leveren die in de starterskit. Honeywell werkt met een eigen controller en brennenstuhl met een eigen Zigbee-gateway. De Danfoss Eco heeft helemaal geen hub nodig en werkt via Bluetooth. De Eurotronic Comet WiFi gaat direct op je wifinetwerk en heeft ook geen hub nodig. Kijk dus eerst wat je al in huis hebt."
     },
     {
       "h": "Past hij op mijn radiator?",
@@ -630,7 +607,7 @@
     },
     {
       "h": "Abonnement en privacy",
-      "p": "Tado biedt geofencing en automatische raam-open-detectie volledig alleen met Auto-Assist. Netatmo, brennenstuhl, Honeywell, Danfoss en Aqara hebben geen abonnement. Wil je alles lokaal houden zonder cloud, kies dan de Danfoss Eco via Bluetooth of combineer de Shelly met Home Assistant."
+      "p": "Tado biedt geofencing en automatische raam-open-detectie volledig alleen met Auto-Assist. Netatmo, brennenstuhl, Honeywell, Danfoss en Eurotronic hebben geen abonnement. Wil je alles lokaal houden zonder cloud, kies dan de Danfoss Eco via Bluetooth of combineer de Shelly met Home Assistant."
     }
   ],
   "faq": [
@@ -661,6 +638,12 @@
   ],
   "noindex": true,
   "wissels": [
+    {
+      "d": "2026-11-23",
+      "uit": "Aqara Thermostat Valve W600",
+      "in": "Eurotronic Comet WiFi radiatorthermostaat set van 3",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-17",
       "uit": "SONOFF TRVZB Zigbee Radiatorknop",

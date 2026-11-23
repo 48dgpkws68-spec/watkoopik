@@ -306,61 +306,42 @@
     },
     {
       "brand": "LG",
-      "name": "65QNED86B6B",
-      "price": 899.0,
+      "name": "55QNED86B6B",
+      "price": 699.0,
       "score": 8.7,
       "label": null,
       "reviews": "",
-      "oneliner": "LG met Mini LED, Dolby Vision en het fijne webOS.",
+      "oneliner": "LG met Mini LED en het fijne webOS, nu op 55 inch.",
       "specs": {
-        "Formaat": "65 inch",
+        "Formaat": "55 inch",
         "Paneel": "QNED evo Mini LED",
-        "Verversing": "120 Hz",
-        "HDR": "Dolby Vision, HDR10",
+        "Verversing": "100 Hz (tot 120 Hz)",
+        "HDR": "HDR10, HLG",
         "Bouwjaar": "2026"
       },
       "pros": [
-        "Dolby Vision en HDR10",
+        "Mini LED met Precision Dimming",
         "webOS is overzichtelijk met veel apps",
-        "Goede kijkhoeken voor een led-tv"
+        "AirPlay 2 en Bluetooth voor audio",
+        "Game Optimizer en ALLM voor consoles"
       ],
       "cons": [
         "Minder fel dan de TCL-modellen",
-        "Prijzig voor wat je krijgt"
+        "Dolby Vision staat niet in de productinfo bij bol",
+        "Nog geen beoordelingen op bol"
       ],
-      "ideal": "Wie een LG-tv wil met beter contrast dan een gewone QNED.",
-      "text": "LG staat bekend om OLED, maar met de QNED evo Mini LED-lijn biedt het merk ook een heldere led-tv. De 65QNED86B6B uit 2026 combineert een QNED-paneel met Mini LED-verlichting en lokale dimming. Daardoor is zwart dieper dan bij de gewone QNED-modellen van LG en komen lichte details beter uit. LG brengt de kleuren rustig en natuurlijk, wat prettig is bij lang kijken naar series en films.\n\nHet scherm ververst met 120 Hz en ondersteunt VRR en ALLM, genoeg voor een PlayStation 5 of Xbox Series X. Dolby Vision is aanwezig, net als HDR10. webOS is een van de prettigste smart-tv-systemen: snel, met de Magic Remote als aanwijzer en alle grote streamingdiensten. De helderheid komt niet in de buurt van de TCL-modellen en het aantal dimzones is lager, dus blooming zie je in donkere scènes wat eerder. Voor wie LG wil maar geen OLED in een lichte kamer, is dit een logische keuze.",
-      "ean": "8806096694800",
-      "search": "LG 65QNED86B6B",
-      "bol_title": "LG 65QNED86B6B - 65 inch - 4K QNED evo Mini LED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/lg-65qned86b6b-65-inch-4k-qned-evo-mini-led-2026-smart-tv/9300000278293349/",
-      "image": "https://media.s-bol.com/lrQmAG74vn6J/1Wx4wBj/550x337.jpg",
+      "ideal": "Wie een LG-tv op 55 inch wil met beter contrast dan een gewone QNED.",
+      "text": "LG staat bekend om OLED, maar met de QNED evo Mini LED-lijn biedt het merk ook een heldere led-tv. De 55QNED86B6B uit 2026 combineert een QNED-paneel met Mini LED-verlichting. Precision Dimming regelt het licht per zone, waardoor zwart dieper is dan bij de gewone QNED-modellen van LG en lichte details beter uitkomen. De Alpha 8 AI Processor 4K Gen3 schaalt beeld op naar 4K en LG brengt de kleuren rustig en natuurlijk.\n\nHet paneel heeft een native frequentie van 100 Hz en gaat tot 120 Hz. Game Optimizer bundelt de spelinstellingen en ALLM schakelt vanzelf naar de spelstand als je een console aanzet. Bij bol staan HDR10 en HLG vermeld, Dolby Vision noemt de productinfo niet. webOS is een van de prettigste smart-tv-systemen, met AirPlay 2 voor wie een iPhone heeft. De helderheid komt niet in de buurt van de TCL-modellen en het aantal dimzones is lager. Voor wie LG wil in een kamer waar 55 inch genoeg is, is dit een logische keuze.",
+      "ean": "8806096694138",
+      "bol_title": "LG 55QNED86B6B - 55 inch - 4K QNED evo Mini LED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/lg-55qned86b6b-55-inch-4k-qned-evo-mini-led-2026-smart-tv/9300000278307343/",
+      "image": "https://media.s-bol.com/OrpgX2RRvMxp/0V7K1vN/550x366.jpg",
       "ph": {
-        "2026-11-03": 1399.0,
-        "2026-11-04": 1199.0,
-        "2026-11-05": 1199.0,
-        "2026-11-06": 999.0,
-        "2026-11-07": 999.0,
-        "2026-11-08": 999.0,
-        "2026-11-09": 999.0,
-        "2026-11-10": 999.0,
-        "2026-11-11": 999.0,
-        "2026-11-12": 999.0,
-        "2026-11-13": 999.0,
-        "2026-11-14": 899.0,
-        "2026-11-16": 899.0,
-        "2026-11-17": 899.0,
-        "2026-11-18": 899.0,
-        "2026-11-19": 899.0,
-        "2026-11-20": 899.0,
-        "2026-11-21": 899.0,
-        "2026-11-22": 899.0
+        "2026-11-23": 699.0
       },
-      "low_price": 899.0,
-      "synced": "2026-11-23",
-      "prev_price": 999.0,
-      "prev_date": "2026-11-13",
-      "ph_ean": "8806096694800"
+      "low_price": 699.0,
+      "ph_ean": "8806096694138",
+      "synced": "2026-11-23"
     },
     {
       "brand": "Hisense",
@@ -680,7 +661,7 @@
       },
       {
         "h": "Welke HDR-formaten gebruik je?",
-        "p": "Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video HDR10+. De TCL-, Hisense- en Philips-modellen in deze lijst ondersteunen beide. Nr. 4 Samsung QE65QN83H (€ 1.099) heeft alleen HDR10+ en nr. 6 LG 65QNED86B6B (€ 1.199) Dolby Vision met HDR10, zonder HDR10+. Kijk je veel Netflix, dan haal je meer uit een tv met Dolby Vision."
+        "p": "Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video HDR10+. De TCL-, Hisense- en Philips-modellen in deze lijst ondersteunen beide. Nr. 4 Samsung QE65QN83H (€ 1.099) heeft alleen HDR10+ en nr. 6 LG 55QNED86B6B (€ 699) volgens bol HDR10 en HLG. Kijk je veel Netflix, dan haal je meer uit een tv met Dolby Vision."
       },
       {
         "h": "Game je op een console of pc?",
@@ -718,6 +699,12 @@
     "pauze": "2026-11-14 Halolume uitverkocht sinds 13 nov; weghalen zodra Nick meldt dat er weer voorraad is"
   },
   "wissels": [
+    {
+      "d": "2026-11-23",
+      "uit": "LG 65QNED86B6B",
+      "in": "LG 55QNED86B6B",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-18",
       "uit": "Hisense 75UR8S",

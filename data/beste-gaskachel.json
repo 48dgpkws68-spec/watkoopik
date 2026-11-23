@@ -328,46 +328,43 @@
       "synced": "2026-11-23"
     },
     {
-      "brand": "Eurocatch",
+      "brand": "MONZANA",
       "name": "Mobiele Gaskachel 4200 W",
-      "price": 94.99,
+      "price": 85.99,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Keramische straler van 4,2 kW met slang, regelaar en zwenkwielen.",
+      "reviews": "bol-score 3,4 van 5",
+      "oneliner": "Keramische straler van 4,2 kW met drie standen en zwenkwielen.",
       "specs": {
         "Vermogen": "4,2 kW",
-        "Geschikt tot": "ca. 82 m³",
+        "Geschikt tot": "niet opgegeven",
         "Standen": "3",
-        "Gasfles": "5 of 11 kg",
+        "Gasfles": "tot 13 kg",
         "Beveiliging": "ODS, omval, oververhitting"
       },
       "pros": [
         "Drie standen: 1,5, 2,9 en 4,2 kW",
-        "Slang en drukregelaar meegeleverd",
-        "Vier zwenkwielen en inklapbare achterkant",
+        "Drie keramische verwarmingsplaten",
+        "Vier wielen en inklapbare zijwanden",
         "Beveiliging tegen kantelen, oververhitting en zuurstoftekort"
       ],
       "cons": [
-        "Fabrieksgarantie maar één jaar",
+        "Slang en regelaar zijn voor Duitsland, voor Nederland heb je een adapter nodig",
+        "Bol-score van 3,4 is matig",
         "Geen vlameffect of sfeer"
       ],
-      "ideal": "Wie een garage, werkplaats of grote hobbyruimte betaalbaar wil verwarmen.",
-      "text": "De Eurocatch mobiele gaskachel is een klassieke straler met keramische platen in een honingraatstructuur. Je kiest uit drie standen: 1500, 2900 of 4200 watt. Het gasverbruik ligt volgens de specificaties tussen ongeveer 110 en 306 gram per uur, afhankelijk van de stand. Hij werkt op butaan, propaan of een mengsel daarvan en is volgens de productinformatie bedoeld voor flessen van 5 of 11 kg.\n\nDe gasslang en drukregelaar zitten in de doos. De kachel weegt ongeveer 9,5 kg en rijdt op vier zwenkwielen. De achterkant klapt in, wat handig is als je hem in de zomer opbergt. Ontsteken gaat met een piëzo-knop. Eurocatch noemt beveiliging tegen kantelen, oververhitting, zuurstoftekort en vlamuitval. Kopers geven hem bij bol een 4,3 van 5. De fabrieksgarantie is één jaar en een vlameffect ontbreekt. Voor een werkplaats, schuur of garage met goede ventilatie is dat geen bezwaar.",
-      "ean": "8720986645195",
-      "rating": 4.3,
-      "bol_title": "Eurocatch Mobiele Gaskachel 4200 W - Slang en Drukregelaar - Zwart",
-      "url": "https://www.bol.com/nl/nl/p/eurocatch-gaskachel-mobiele-kachel-incl-slang-en-drukregelaar-zwart-4200w/9300000196537257/",
-      "image": "https://media.s-bol.com/NrK4kkqvxkGL/BB2r4Oo/550x556.jpg",
+      "ideal": "Wie een garage, schuur of werkplaats goedkoop wil verwarmen en zelf een gasadapter regelt.",
+      "text": "De MONZANA GH4500 is een klassieke straler met drie keramische verwarmingsplaten. Je kiest uit drie standen: 1500, 2900 of 4200 watt. Hij werkt op propaan, butaan of een mengsel en is geschikt voor gasflessen tot 13 kg. Ontsteken gaat met een piëzo-knop, zodat je geen aansteker nodig hebt.\n\nEen slang met drukregelaar zit in de doos, maar die is gemaakt voor Duitsland, Oostenrijk, Zwitserland en Slowakije. Voor een Nederlandse gasfles heb je een Europese gasadapter nodig die niet wordt meegeleverd. Reken die kosten mee. De kachel meet 42 bij 38 bij 72 centimeter, rijdt op vier wielen en de zijwanden klappen in als je hem opbergt. MONZANA noemt een sensor voor zuurstoftekort, kantelbeveiliging en beveiliging tegen oververhitting. Kopers geven hem bij bol een 3,4 van 5. Een vlameffect ontbreekt. Voor een werkplaats, schuur of garage met goede ventilatie is dat geen bezwaar.",
+      "ean": "4251776934532",
+      "bol_title": "MONZANA Mobiele Gaskachel – 3 Warmteniveaus 4200W – Keramisch Zwart",
+      "url": "https://www.bol.com/nl/nl/p/monzana-mobiele-gaskachel-3-warmteniveaus-4500w-keramisch-zwart/9300000163543376/",
+      "image": "https://media.s-bol.com/gGAJBZnE59Qj/qg6Mv2/550x550.jpg",
       "ph": {
-        "2026-11-19": 94.99,
-        "2026-11-20": 94.99,
-        "2026-11-21": 94.99,
-        "2026-11-22": 94.99,
-        "2026-11-23": 94.99
+        "2026-11-23": 85.99
       },
-      "low_price": 94.99,
-      "ph_ean": "8720986645195",
+      "low_price": 85.99,
+      "ph_ean": "4251776934532",
+      "rating": 3.4,
       "synced": "2026-11-23"
     },
     {
@@ -676,6 +673,12 @@
     "beste-elektrische-openhaard"
   ],
   "wissels": [
+    {
+      "d": "2026-11-23",
+      "uit": "Eurocatch Mobiele Gaskachel 4200 W",
+      "in": "MONZANA Mobiele Gaskachel 4200 W",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-20",
       "uit": "KESSER Mobiele Gaskachel 3,4 kW",

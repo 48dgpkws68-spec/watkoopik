@@ -24,11 +24,11 @@
   "products": [
     {
       "brand": "DJI",
-      "name": "Osmo Action 6 Standard",
-      "price": 369.0,
+      "name": "Osmo Action 6 Adventure Combo",
+      "price": 428.11,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "bol-score 5,0 van 5",
+      "reviews": "",
       "oneliner": "Grote sensor, variabel diafragma en vier uur accu.",
       "specs": {
         "Video": "4K met 120 fps",
@@ -49,29 +49,16 @@
       ],
       "ideal": "Wie één actiecamera zoekt die overdag en in de schemering goed filmt, van skipiste tot snorkeltrip.",
       "text": "De Osmo Action 6 is de actiecamera die je in 2026 het minst vaak teleurstelt. Dat komt vooral door de vierkante sensor van 1/1,1 inch, de grootste in een gewone actiecamera. Daardoor blijft beeld in het bos, bij zonsondergang of onder water rustiger en minder korrelig dan bij concurrenten. Nieuw is het variabele diafragma: bij weinig licht gaat het open naar f/2.0, in fel zonlicht knijpt het tot f/4.0 voor meer scherpte.\n\nDoor de vierkante sensor film je één keer en snijd je achteraf zowel een liggende als een staande video uit, handig voor YouTube en TikTok tegelijk. De accu houdt het volgens DJI tot vier uur vol en in de praktijk noemen kopers twee tot drie uur 4K realistisch. Met 50 GB intern geheugen kun je ook zonder kaartje filmen. Het enige wat je mist is een resolutie boven 4K, maar voor bijna iedereen is dat geen gemis.",
-      "ean": "6937224126060",
-      "bol_title": "DJI Osmo Action 6 Standard",
-      "url": "https://www.bol.com/nl/nl/p/dji-osmo-action-6-standard-combo/9300000247725827/",
-      "image": "https://media.s-bol.com/VE9EjoBxjJ1z/P1OWBOw/550x394.jpg",
+      "ean": "6937224126107",
+      "bol_title": "DJI Osmo Action 6 Adventure Combo",
+      "url": "https://www.bol.com/nl/nl/p/dji-osmo-action-6-adventure-combo/9300000247725826/",
+      "image": "https://media.s-bol.com/V3JXQvDD0jKo/ywwzwWw/550x604.jpg",
       "ph": {
-        "2026-11-12": 389.0,
-        "2026-11-13": 389.0,
-        "2026-11-14": 389.0,
-        "2026-11-16": 389.0,
-        "2026-11-17": 419.0,
-        "2026-11-18": 419.0,
-        "2026-11-19": 419.0,
-        "2026-11-20": 389.0,
-        "2026-11-21": 369.0,
-        "2026-11-22": 369.0,
-        "2026-11-23": 369.0
+        "2026-11-23": 428.11
       },
-      "low_price": 369.0,
-      "ph_ean": "6937224126060",
-      "synced": "2026-11-23",
-      "prev_price": 389.0,
-      "prev_date": "2026-11-20",
-      "rating": 5.0
+      "low_price": 428.11,
+      "ph_ean": "6937224126107",
+      "synced": "2026-11-23"
     },
     {
       "brand": "GoPro",

@@ -16,8 +16,8 @@
   "color": "#4a3fb3",
   "updated": "2026-10-16",
   "reviews_total": "1.100",
-  "intro": "Een gaming laptop is een flinke investering, dus je wilt weten waar je geld naartoe gaat. Wij vergeleken de modellen die nu bij bol te koop zijn op videokaart, processor, scherm, geheugen en gewicht. Daarnaast lazen we wat kopers na weken spelen over koeling, geluid en accuduur melden. Dit zijn de tien beste gaming laptops van 2026, van een instapmodel onder de 1.000 euro tot een desktopvervanger met RTX 5080 voor wie het maximale wil.",
-  "verdict": "De ASUS ROG Strix G16 G614PP is de beste gaming laptop voor de meeste mensen: een RTX 5070, een snelle Ryzen 9 en een 240 Hz-scherm voor 1.699 euro. Wil je de beste prijs-kwaliteit, dan biedt de ASUS TUF Gaming A18 met RTX 5060 en 18 inch scherm veel voor 1.399 euro. Voor wie geen budgetgrens kent, is de Alienware 18 Area-51 met RTX 5080 de krachtigste keuze.",
+  "intro": "Een gaming laptop is een flinke investering, dus je wilt weten waar je geld naartoe gaat. Wij vergeleken de modellen die nu bij bol te koop zijn op videokaart, processor, scherm, geheugen en gewicht. Daarnaast lazen we wat kopers na weken spelen over koeling, geluid en accuduur melden. Dit zijn de tien beste gaming laptops van 2026, van een instapmodel onder de 1.000 euro tot een desktopvervanger met RTX 5090 voor wie het maximale wil.",
+  "verdict": "De ASUS ROG Strix G16 G614PP is de beste gaming laptop voor de meeste mensen: een RTX 5070, een snelle Ryzen 9 en een 240 Hz-scherm voor 1.699 euro. Wil je de beste prijs-kwaliteit, dan biedt de ASUS TUF Gaming A18 met RTX 5060 en 18 inch scherm veel voor 1.399 euro. Voor wie geen budgetgrens kent, is de Alienware 18 Area-51 met RTX 5090 de krachtigste keuze.",
   "products": [
     {
       "brand": "ASUS",
@@ -151,21 +151,21 @@
     },
     {
       "brand": "Dell",
-      "name": "Alienware 18 Area-51 AA18250",
-      "price": 3899.0,
+      "name": "Alienware 18 Area-51 (RTX 5090, 64 GB)",
+      "price": 4999.95,
       "score": 9.2,
       "label": "Beste premium",
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Desktopkracht in laptopvorm met RTX 5080 en 300 Hz.",
+      "reviews": "",
+      "oneliner": "Desktopkracht in laptopvorm met RTX 5090 en 300 Hz.",
       "specs": {
-        "GPU": "RTX 5080 (16 GB)",
+        "GPU": "RTX 5090 (24 GB)",
         "Processor": "Core Ultra 9 275HX",
         "Scherm": "18 inch, 2560 x 1600, 300 Hz",
-        "Geheugen": "32 GB / 2 TB SSD",
+        "Geheugen": "64 GB / 2 TB SSD",
         "Gewicht": "4,3 kg"
       },
       "pros": [
-        "RTX 5080 met 16 GB is een van de snelste laptop-GPU's",
+        "RTX 5090 met 24 GB is de snelste laptop-GPU van Nvidia",
         "Groot 18 inch scherm met 300 Hz",
         "Ruime ssd van 2 TB",
         "Uitstekende koeling, ook onder lange belasting"
@@ -176,56 +176,17 @@
         "Accu is bij gamen snel leeg"
       ],
       "ideal": "Gamers die een desktop willen vervangen en de laptop vooral op het bureau gebruiken.",
-      "text": "De Alienware 18 Area-51 is geen laptop om dagelijks in je tas te stoppen, maar een desktopvervanger. Binnenin zit een RTX 5080 met 16 GB videogeheugen, gekoppeld aan een Core Ultra 9 275HX, 32 GB werkgeheugen en een ssd van 2 TB. Het 18 inch scherm met 2560 x 1600 pixels en 300 Hz is groot genoeg om zonder externe monitor te spelen.\n\nDankzij de forse behuizing en de grote ventilatoren kan de GPU langdurig op vol vermogen draaien, wat je terugziet in stabiele framerates in 1440p en zelfs 4K op een externe monitor. Kopers op bol geven hem een 5,0 en noemen de stille werking voor deze klasse en de luxe afwerking. De keerzijde is duidelijk: 4,3 kg zonder voeding en een prijs van bijna 3.900 euro. Wil je het allerbeste en blijft de laptop op je bureau, dan is dit de topkeuze.",
-      "ean": "5397184968376",
-      "bol_title": "Alienware 18 Area-51 AA18250 - Gaming Laptop - 18 inch - RTX 5080 - Core Ultra 9 - 32GB/2000GB - 300 Hz",
-      "url": "https://www.bol.com/nl/nl/p/alienware-18-area-51-aa18250-gaming-laptop-18-inch-rtx-5080-core-ultra-9-32gb-2000gb-300-hz/9300000237723521/",
-      "image": "https://media.s-bol.com/B0kKAE299ggQ/Q1ALnrL/550x455.jpg",
-      "synced": "2026-11-23",
+      "text": "De Alienware 18 Area-51 is geen laptop om dagelijks in je tas te stoppen, maar een desktopvervanger. Binnenin zit een RTX 5090 met 24 GB videogeheugen, gekoppeld aan een Core Ultra 9 275HX, 64 GB werkgeheugen en een ssd van 2 TB. Het 18 inch scherm met 2560 x 1600 pixels en 300 Hz is groot genoeg om zonder externe monitor te spelen.\n\nDankzij de forse behuizing en de grote ventilatoren kan de GPU langdurig op vol vermogen draaien, wat je terugziet in stabiele framerates in 1440p en zelfs 4K op een externe monitor. Met 64 GB werkgeheugen kun je naast het gamen ook zware video- en 3D-projecten draaien. De keerzijde is duidelijk: 4,3 kg zonder voeding en een prijs van rond 5.000 euro. Wil je het allerbeste en blijft de laptop op je bureau, dan is dit de topkeuze.",
+      "ean": "0884116492078",
+      "bol_title": "Alienware 18 Area-51 | Ultra 9 | 64GB | 2TB SSD | RTX 5090 | Nieuw|",
+      "url": "https://www.bol.com/nl/nl/p/alienware-18-area-51-ultra-9-64gb-2tb-ssd-rtx-5090-nieuw/9300000407479078/",
+      "image": "https://media.s-bol.com/gmPjE8nRNmZ3/79OxMDG/550x455.jpg",
       "ph": {
-        "2026-10-16": 3899.0,
-        "2026-10-17": 3899.0,
-        "2026-10-18": 3899.0,
-        "2026-10-19": 4799.0,
-        "2026-10-20": 4799.0,
-        "2026-10-21": 4799.0,
-        "2026-10-23": 4799.0,
-        "2026-10-24": 4799.0,
-        "2026-10-25": 4799.0,
-        "2026-10-26": 4799.0,
-        "2026-10-27": 4799.0,
-        "2026-10-28": 4799.0,
-        "2026-10-29": 4799.0,
-        "2026-10-30": 4799.0,
-        "2026-10-31": 4799.0,
-        "2026-11-01": 4799.0,
-        "2026-11-02": 4799.0,
-        "2026-11-03": 4799.0,
-        "2026-11-04": 4799.0,
-        "2026-11-05": 4799.0,
-        "2026-11-06": 4799.0,
-        "2026-11-07": 4799.0,
-        "2026-11-08": 4799.0,
-        "2026-11-09": 4799.0,
-        "2026-11-10": 4799.0,
-        "2026-11-11": 4799.0,
-        "2026-11-12": 4799.0,
-        "2026-11-13": 3899.0,
-        "2026-11-14": 3899.0,
-        "2026-11-16": 3899.0,
-        "2026-11-17": 3899.0,
-        "2026-11-18": 3899.0,
-        "2026-11-19": 3899.0,
-        "2026-11-20": 3899.0,
-        "2026-11-21": 3899.0,
-        "2026-11-22": 3899.0,
-        "2026-11-23": 3899.0
+        "2026-11-23": 4999.95
       },
-      "low_price": 3899.0,
-      "prev_price": 4799.0,
-      "prev_date": "2026-11-12",
-      "ph_ean": "5397184968376",
-      "rating": 5.0
+      "low_price": 4999.95,
+      "ph_ean": "0884116492078",
+      "synced": "2026-11-23"
     },
     {
       "brand": "ASUS",
@@ -841,7 +802,7 @@
       },
       {
         "h": "Wat is je budget?",
-        "p": "Voor € 1.099 koop je de nr. 10 ASUS TUF Gaming A16 met RTX 4050 voor lichte games. Tussen € 1.500 en € 1.850 krijg je een RTX 5060 of RTX 5070, zoals de nr. 6 MSI Katana 15 HX met RTX 5070 voor € 1.649. Vanaf € 2.999 betaal je voor OLED, een RTX 5070 Ti of een RTX 5080, zoals bij de nr. 2 Legion Pro 5 en nr. 3 Alienware 18."
+        "p": "Voor € 1.099 koop je de nr. 10 ASUS TUF Gaming A16 met RTX 4050 voor lichte games. Tussen € 1.500 en € 1.850 krijg je een RTX 5060 of RTX 5070, zoals de nr. 6 MSI Katana 15 HX met RTX 5070 voor € 1.649. Vanaf € 2.999 betaal je voor OLED, een RTX 5070 Ti, een RTX 5080 of zelfs een RTX 5090, zoals bij de nr. 2 Legion Pro 5 en nr. 3 Alienware 18."
       }
     ],
     "wanneer": [
@@ -851,7 +812,7 @@
       },
       {
         "rank": 3,
-        "p": "De Alienware 18 Area-51 (€ 4.799) past beter als je een desktop wilt vervangen en de laptop op je bureau laat staan. De RTX 5080 met 16 GB is een van de snelste laptop-GPU's, het 18 inch scherm draait op 300 Hz en de ssd is 2 TB. De koeling houdt dat ook onder lange belasting vol. Met 4,3 kg en ruim het dubbele van de prijs van de ROG Strix G16 is hij niet voor iedereen."
+        "p": "De Alienware 18 Area-51 (€ 4.999) past beter als je een desktop wilt vervangen en de laptop op je bureau laat staan. De RTX 5090 met 24 GB is de snelste laptop-GPU van Nvidia, het 18 inch scherm draait op 300 Hz en de ssd is 2 TB. De koeling houdt dat ook onder lange belasting vol. Met 4,3 kg en bijna drie keer de prijs van de ROG Strix G16 is hij niet voor iedereen."
       }
     ]
   },
