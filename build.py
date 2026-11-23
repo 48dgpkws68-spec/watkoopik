@@ -32,6 +32,38 @@ def check(s, where):
     if "—" in s or "–" in s: raise SystemExit("streepje in " + where)
     if re.search(r", en\b", re.sub(r"<script.*?</script>", "", s, flags=re.S)): raise SystemExit("', en' in " + where)
 
+# ---------- G1 eigen datapunt: stroomkosten per kachel/deken/ontvochtiger (Google-plan, 23 nov 2026) ----------
+# Echte berekening: maximaal vermogen uit de specs x de stroomprijs van CBS (variabel leveringstarief + energiebelasting, incl. btw).
+# Elk kwartaal bijwerken uit CBS-tabel 85592NED (groeimotor).
+STROOM_NL = (0.271, "CBS, gemiddeld variabel leveringstarief plus energiebelasting, oktober 2026, inclusief btw", "https://www.cbs.nl/nl-nl/cijfers/detail/85592NED")
+_KOSTEN_SLUG = re.compile(r"kachel|verwarm|radiator|deken|ontvocht|openhaard|handdoek|heater")
+_KOSTEN_UIT = re.compile(r"gaskachel|pellet|terrasverwarmer-gas|radiatorknop")
+def watt_van(p):
+    best = 0
+    for k, v in (p.get("specs") or {}).items():
+        kl = k.lower()
+        if not re.search(r"vermogen|watt|power", kl) or re.search(r"zuig|geluid|licht|lumen", kl): continue
+        for num, unit in re.findall(r"(\d[\d.,]*)\s*(kw|w)\b", str(v).lower()):
+            n = num.rstrip(".,")
+            n = re.sub(r"[.,]", "", n) if re.fullmatch(r"\d{1,3}([.,]\d{3})+", n) else n.replace(",", ".")
+            try: w = float(n) * (1000 if unit == "kw" else 1)
+            except ValueError: continue
+            if 10 <= w <= 5000: best = max(best, w)
+    return best
+def kosten_html(g):
+    if not _KOSTEN_SLUG.search(g["slug"]) or _KOSTEN_UIT.search(g["slug"]): return ""
+    rij = [(p, watt_van(p)) for p in g["products"]]; rij = [(p, w) for p, w in rij if w]
+    if len(rij) < 4: return ""
+    prijs, bron, url = STROOM_NL
+    def m2(v): return "€ " + ("%.2f" % v).replace(".", ",")
+    trs = "".join('<tr><td class="nm">%s %s</td><td>%d W</td><td>%s</td><td><b>%s</b></td></tr>' % (e(p["brand"]), e(p["name"]), w, m2(w / 1000 * prijs), m2(w / 1000 * prijs * 120)) for p, w in rij)
+    lg = min(rij, key=lambda x: x[1])
+    return ('<h2 id="kosten" class="rv" style="margin-top:28px">Wat ze kosten aan stroom</h2>'
+            '<p>Laagste stroomkosten op vol vermogen: <b>%s %s</b>, ongeveer %s per maand bij 4 uur per dag. Minder vermogen betekent meestal ook minder warmte of capaciteit, dus kies het vermogen dat jouw ruimte nodig heeft.</p>'
+            '<div class="tbl rv"><table><thead><tr><th>Model</th><th>Max. vermogen</th><th>Per uur op vol vermogen</th><th>Per maand, 4 uur per dag</th></tr></thead><tbody>%s</tbody></table></div>'
+            '<p class="muted" style="font-size:.9rem">Eigen berekening: het maximale vermogen volgens de fabrikant keer een stroomprijs van %s per kWh (%s). Een thermostaat, eco-stand of lagere stand maakt de echte kosten lager, omdat de meeste apparaten maar een deel van de tijd op vol vermogen draaien. <a href="%s" rel="nofollow noopener" target="_blank">bron</a></p>') % (
+        e(lg[0]["brand"]), e(lg[0]["name"]), m2(lg[1] / 1000 * prijs * 120), trs, m2(prijs).replace(",", ",", 1), bron, url)
+
 def eur(v):
     s = ("%.2f" % v).replace(".", ","); return "€ " + (s[:-3] if s.endswith(",00") else s)
 def eur_n(v):
@@ -570,7 +602,8 @@ PREF_BTN = '<a class="pref-src" href="https://google.com/preferences/source?q=wa
 # Zustersites per land (groeimotor 11 nov 2026, E39): vaste regel onderaan elke pagina, eigen land zonder link.
 LANDEN = [("watkoopik.nl", "Nederland", "nl"), ("derkauftipp.de", "Deutschland", "de"), ("lequelprendre.fr", "France", "fr"), ("getthatone.com", "United States", "en-US"), ("getthatone.co.uk", "United Kingdom", "en-GB"), ("checomprare.it", "Italia", "it"), ("cualelijo.es", "España", "es"), ("ktorykupic.pl", "Polska", "pl"), ("qualcompro.com", "Portugal", "pt")]
 def landen_regel(eigen):
-    return '<div class="fine" style="border-top:0;margin-top:8px;padding-top:0">🌍 ' + " · ".join(n if d == eigen else '<a href="https://%s/" hreflang="%s">%s</a>' % (d, h, n) for d, n, h in LANDEN) + '</div>'
+    # Google-plan 23 nov 2026: geen netwerklinks meer naar de landensites (patroon "multiple sites to hide the scale").
+    return ""
 
 def footer(root):
     pop = "".join('<li><a href="%s%s">%s</a></li>' % (root, g["url"], e(g["short"])) for g in guides[:5])
@@ -942,7 +975,7 @@ for g in guides:
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), e(g["intro"]), e(nldate(gmod(g))), len(ps), "",
-        own_pos(g, "boven"), podium, own_pos(g, "onder") + k2_html(g) + combi_html(g) + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table, pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        own_pos(g, "boven"), podium, own_pos(g, "onder") + k2_html(g) + combi_html(g) + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table + kosten_html(g), pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = zoekterm(g)  # zoekterm voor titel en meta; query blijft de bol-zoekterm
@@ -1368,7 +1401,7 @@ prose("over-ons.html", "Over ons", "Over watkoopik: onafhankelijke koopgidsen.",
 <p>Wie een stofzuiger of koffiemachine zoekt, verdrinkt in honderden modellen en tegenstrijdige reviews. Wij wilden één plek waar je per productsoort in vijf minuten ziet wat de beste keuze is en waarom.</p>
 <p>Daarom maken we top 10-lijsten: precies tien modellen die ertoe doen, met eerlijke plus- en minpunten en voor wie elk product geschikt is. watkoopik is onderdeel van 4NEON en werkt onafhankelijk van merken en winkels.</p>
 <h2 id="nick">Wie zit erachter</h2>
-<p>watkoopik is opgezet door Nick van Straaten. Hij is de eindredacteur: hij leest de gidsen na en past ze aan als iets niet klopt of beter kan. Producten testen we niet zelf in een testlab. We zetten per productsoort tien modellen naast elkaar op specificaties, prijs en de ervaringen van kopers. De prijzen meten we elke dag bij bol, zodat je ziet welke korting echt is.</p>
+<p>watkoopik is opgezet door Nick van Straaten. Producten testen we niet zelf in een testlab. De gidsen schrijven we met hulp van AI-tools op basis van specificaties, prijzen en de ervaringen van kopers; Nick bewaakt de werkwijze en past gidsen aan als lezers of onze eigen controles een fout vinden. We zetten per productsoort tien modellen naast elkaar op specificaties, prijs en de ervaringen van kopers. De prijzen meten we elke dag bij bol, zodat je ziet welke korting echt is.</p>
 <p>Zie je een fout of mis je een model? Laat het weten via het <a href="contact.html">contactformulier</a>.</p>''')
 prose("contact.html", "Contact", "Neem contact op met watkoopik.", '''<span class="kick">Contact</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Vraag, tip of fout gezien?</h1>
 <form action="https://formsubmit.co/hallo@watkoopik.nl" method="POST" style="display:grid;gap:12px;max-width:520px;margin-top:16px"><input type="hidden" name="_subject" value="Contact via watkoopik.nl"><input type="text" name="_honey" style="display:none">
