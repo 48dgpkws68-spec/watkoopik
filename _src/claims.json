@@ -1,55 +1,5 @@
 [
  {
-  "gids": "beste-e-reader",
-  "p": 6,
-  "naam": "E-reader Core+",
-  "veld": "text",
-  "soort": "score",
-  "claim": 4.2,
-  "bol": 4.1,
-  "zin": "estanden overzetten. Ook waterdichtheid en warm licht zitten er niet in. Op bol scoort hij gemiddeld een 4,2, vooral om de prijs en het gebruiksgema"
- },
- {
-  "gids": "beste-gaming-pc",
-  "p": 3,
-  "naam": "3XS Systems Elite Stage 5 (Ryzen 5 7500X3D, RTX 5070 Ti)",
-  "veld": "text",
-  "soort": "score",
-  "claim": 4.8,
-  "bol": 4.9,
-  "zin": "ing geeft ruimte voor een latere upgrade. Kopers op bol geven hem gemiddeld een 4,8 van 5."
- },
- {
-  "gids": "beste-kunstkerstboom-met-verlichting-180-cm",
-  "p": 7,
-  "naam": "Harma smal 185 cm met 200 LED",
-  "veld": "text",
-  "soort": "score",
-  "claim": 4.6,
-  "bol": 4.7,
-  "zin": "p. Door de slanke vorm passen er vooral kleine ballen in. Bij bol heeft hij een 4,6 van 5."
- },
- {
-  "gids": "beste-playstation-5",
-  "p": 0,
-  "naam": "PlayStation 5 Pro",
-  "veld": "text",
-  "soort": "score",
-  "claim": 4.6,
-  "bol": 4.7,
-  "zin": "dan in de gaten of de Slim weer leverbaar wordt. Kopers op bol geven de Pro een 4,6 van 5."
- },
- {
-  "gids": "beste-playstation-5",
-  "p": 1,
-  "naam": "DualSense draadloze controller",
-  "veld": "text",
-  "soort": "score",
-  "claim": 4.1,
-  "bol": 4.2,
-  "zin": "deze gewone DualSense de verstandigste uitbreiding. Kopers op bol geven hem een 4,1 van 5."
- },
- {
   "gids": "beste-playstation-5",
   "p": 8,
   "naam": "DualSense Edge draadloze controller",
@@ -60,24 +10,14 @@
   "zin": "koopt. Opladen gaat via USB-C in ongeveer drie uur. Kopers op bol geven hem een 4,1 van 5, net als de gewone DualSense. Voor wie "
  },
  {
-  "gids": "beste-raamwisser",
-  "p": 9,
-  "naam": "Winbot Mini",
-  "veld": "text",
-  "soort": "score",
-  "claim": 4.3,
-  "bol": 4.4,
-  "zin": "m, dus je hebt een stopcontact in de buurt nodig. Kopers op bol geven gemiddeld 4,3 sterren. Voor de meeste huishoudens is een hand"
- },
- {
   "gids": "beste-sinterklaas-schoencadeautjes",
-  "p": 4,
-  "naam": "Diecast 3-pack autoset",
-  "veld": "text",
+  "p": 0,
+  "naam": "UNO Kaartspel",
+  "veld": "pros[0]",
   "soort": "score",
-  "claim": 4.6,
-  "bol": 4.4,
-  "zin": "ssen op alle banen van het merk, mocht die al in huis zijn. Kopers op bol geven gemiddeld een 4,6. De auto's zijn van metaal en daardoor "
+  "claim": 4.4,
+  "bol": 4.6,
+  "zin": "Kopers op bol geven gemiddeld een 4,4"
  },
  {
   "gids": "beste-sinterklaas-schoencadeautjes",
@@ -88,25 +28,5 @@
   "claim": 4.6,
   "bol": 4.4,
   "zin": "Kopers op bol geven gemiddeld een 4,6"
- },
- {
-  "gids": "beste-tablet-kinderen",
-  "p": 7,
-  "naam": "Redmi Pad 2 4 GB 128 GB",
-  "veld": "text",
-  "soort": "score",
-  "claim": 3.8,
-  "bol": 3.9,
-  "zin": " meeste apps en eenvoudige games. Kopers op bol geven deze uitvoering gemiddeld 3,8 van 5. Voor kinderen vanaf een jaar of zeven "
- },
- {
-  "gids": "beste-ventilatorkachel",
-  "p": 9,
-  "naam": "KA-5191",
-  "veld": "text",
-  "soort": "score",
-  "claim": 3.9,
-  "bol": 4.0,
-  "zin": "rettig is met kinderen of huisdieren in huis. Kopers op bol geven hem gemiddeld 3,9 sterren. Veel mensen zijn tevreden over de warm"
  }
 ]
