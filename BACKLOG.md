@@ -335,3 +335,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-tv-65-inch-onder-700-euro | elektronica | 65 inch tv onder 700 euro | De 10 beste tv's van 65 inch onder 700 euro van 2026 | 📺 (google_wacht)
 [x] beste-donzen-dekbed | slapen | donzen dekbed | De 10 beste donzen dekbedden van 2026 | 🛏️ (google_wacht)
 [x] beste-elektrische-kachel-stil | wonen | stille elektrische kachel | De 10 beste stille elektrische kachels van 2026 | 🔥 (google_wacht)
+[x] beste-luchtontvochtiger-voor-wasgoed | wonen | luchtontvochtiger voor wasgoed | De 10 beste luchtontvochtigers voor wasgoed van 2026 | 💧 (google_wacht)
+[x] beste-4-seizoenen-dekbed-2-persoons | slapen | 4 seizoenen dekbed 2 persoons | De 10 beste 4-seizoenendekbedden voor 2 personen van 2026 | 🛏️ (google_wacht)
