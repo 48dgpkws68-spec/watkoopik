@@ -23,7 +23,7 @@
     {
       "brand": "Samsung",
       "name": "Galaxy S26 Ultra (256 GB)",
-      "price": 979.0,
+      "price": 969.9,
       "score": 9.5,
       "label": "Beste keuze",
       "reviews": "bol-score 4,5 van 5",
@@ -51,7 +51,7 @@
       "bol_title": "Samsung Galaxy S26 Ultra - 256GB - Black",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-s26-ultra-256gb-black/9300000265051702/",
       "image": "https://media.s-bol.com/qz5z26Rq7DPD/z6xpA82/550x550.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 979.0,
         "2026-10-17": 979.0,
@@ -88,18 +88,19 @@
         "2026-11-19": 979.0,
         "2026-11-20": 995.9,
         "2026-11-21": 979.0,
-        "2026-11-22": 979.0
+        "2026-11-22": 979.0,
+        "2026-11-23": 969.9
       },
       "low_price": 924.0,
-      "prev_price": 995.9,
-      "prev_date": "2026-11-20",
+      "prev_price": 979.0,
+      "prev_date": "2026-11-22",
       "ph_ean": "8806097827221",
       "rating": 4.5
     },
     {
       "brand": "Samsung",
       "name": "Galaxy S26 (256 GB)",
-      "price": 697.99,
+      "price": 711.0,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -127,7 +128,7 @@
       "bol_title": "Samsung Galaxy S26 - 256GB - Black",
       "url": "https://www.bol.com/nl/nl/p/samsung-sm-s942bzkgeub-smartphone-6-3-inch-5g-256gb-zwart-enterprise-edition/9300000265030587/",
       "image": "https://media.s-bol.com/jpMpjZGgVo3R/oZ6YqnX/550x554.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 718.99,
         "2026-10-17": 707.0,
@@ -164,18 +165,19 @@
         "2026-11-19": 715.99,
         "2026-11-20": 708.99,
         "2026-11-21": 697.99,
-        "2026-11-22": 697.99
+        "2026-11-22": 697.99,
+        "2026-11-23": 711.0
       },
       "low_price": 679.0,
-      "prev_price": 708.99,
-      "prev_date": "2026-11-20",
+      "prev_price": 697.99,
+      "prev_date": "2026-11-22",
       "ph_ean": "8806097827481",
       "rating": 4.4
     },
     {
       "brand": "Samsung",
       "name": "Galaxy Z Fold8 (256 GB)",
-      "price": 1325.0,
+      "price": 1349.0,
       "score": 9.3,
       "label": "Beste premium",
       "reviews": "",
@@ -204,7 +206,7 @@
       "bol_title": "Samsung Galaxy Z Fold8 - 256 GB - Grafiet",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-z-fold-8-5g-256gb-grafiet/9300000343230879/",
       "image": "https://media.s-bol.com/oxKxlP0q4KzY/w0Rj681/550x357.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 1399.0,
         "2026-10-17": 1399.0,
@@ -241,11 +243,12 @@
         "2026-11-19": 1379.0,
         "2026-11-20": 1349.0,
         "2026-11-21": 1349.0,
-        "2026-11-22": 1325.0
+        "2026-11-22": 1325.0,
+        "2026-11-23": 1349.0
       },
       "low_price": 1325.0,
-      "prev_price": 1349.0,
-      "prev_date": "2026-11-21",
+      "prev_price": 1325.0,
+      "prev_date": "2026-11-22",
       "ph_ean": "8806099348847"
     },
     {
@@ -279,7 +282,7 @@
       "bol_title": "Samsung Galaxy Z Flip7 – 256GB – Blue shadow",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-z-flip7-256gb-blue-shadow/9300000236074225/",
       "image": "https://media.s-bol.com/8QpKz3RG722o/QkxpzXM/550x692.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 641.01,
         "2026-10-17": 641.01,
@@ -316,7 +319,8 @@
         "2026-11-19": 613.1,
         "2026-11-20": 594.76,
         "2026-11-21": 594.76,
-        "2026-11-22": 594.76
+        "2026-11-22": 594.76,
+        "2026-11-23": 594.76
       },
       "low_price": 594.76,
       "prev_price": 613.1,
@@ -355,7 +359,7 @@
       "bol_title": "Samsung - Galaxy S25 FE - 256GB - Black",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-s25-fe-256gb-black/9300000239737620/",
       "image": "https://media.s-bol.com/G3x3QNMR5gQ0/w0RpDBJ/550x669.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 559.0,
         "2026-10-17": 559.0,
@@ -392,7 +396,8 @@
         "2026-11-19": 575.0,
         "2026-11-20": 524.0,
         "2026-11-21": 524.0,
-        "2026-11-22": 524.0
+        "2026-11-22": 524.0,
+        "2026-11-23": 524.0
       },
       "low_price": 524.0,
       "prev_price": 575.0,
@@ -403,7 +408,7 @@
     {
       "brand": "Samsung",
       "name": "Galaxy A57 5G (256 GB)",
-      "price": 408.99,
+      "price": 416.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,6 van 5",
@@ -431,7 +436,7 @@
       "bol_title": "Samsung Galaxy A57 5G - 256GB - Awesome Icyblue",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a57-5g-256gb-lichtblauw/9300000271900485/",
       "image": "https://media.s-bol.com/Rz2436PvRNpL/zK6Q1ZY/550x663.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 399.0,
         "2026-10-17": 399.0,
@@ -468,11 +473,12 @@
         "2026-11-19": 390.99,
         "2026-11-20": 390.9,
         "2026-11-21": 408.99,
-        "2026-11-22": 408.99
+        "2026-11-22": 408.99,
+        "2026-11-23": 416.99
       },
       "low_price": 389.0,
-      "prev_price": 390.9,
-      "prev_date": "2026-11-20",
+      "prev_price": 408.99,
+      "prev_date": "2026-11-22",
       "ph_ean": "8806099025885",
       "rating": 4.6
     },
@@ -507,7 +513,7 @@
       "bol_title": "Samsung Galaxy A56 5G - 128GB - Awesome Graphite",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a56-5g-128gb-awesome-grafiet/9300000225539116/",
       "image": "https://media.s-bol.com/3gA3D7PRM2MA/1wkvEVZ/550x709.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 341.99,
         "2026-10-17": 299.0,
@@ -544,7 +550,8 @@
         "2026-11-19": 348.0,
         "2026-11-20": 347.0,
         "2026-11-21": 347.0,
-        "2026-11-22": 347.0
+        "2026-11-22": 347.0,
+        "2026-11-23": 347.0
       },
       "low_price": 299.0,
       "prev_price": 348.0,
@@ -582,7 +589,7 @@
       "bol_title": "Samsung Galaxy A36 5G - 128GB - Awesome Black",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a36-5g-6-128gb-awesome-black/9300000225539107/",
       "image": "https://media.s-bol.com/kqKqOPV7XMr6/83B2vAr/550x706.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 309.0,
         "2026-10-17": 329.0,
@@ -619,7 +626,8 @@
         "2026-11-19": 349.95,
         "2026-11-20": 349.95,
         "2026-11-21": 349.95,
-        "2026-11-22": 349.95
+        "2026-11-22": 349.95,
+        "2026-11-23": 349.95
       },
       "low_price": 304.95,
       "prev_price": 319.99,
@@ -659,7 +667,7 @@
       "bol_title": "Samsung Galaxy A26 5G - 128GB - Black",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a26-5g-128gb-zwart/9300000225539109/",
       "image": "https://media.s-bol.com/JM5mMMW2VL02/w0zQ3E1/550x718.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 259.0,
         "2026-10-17": 259.0,
@@ -696,7 +704,8 @@
         "2026-11-19": 259.99,
         "2026-11-20": 259.99,
         "2026-11-21": 252.99,
-        "2026-11-22": 252.99
+        "2026-11-22": 252.99,
+        "2026-11-23": 252.99
       },
       "low_price": 233.03,
       "prev_price": 259.99,
@@ -707,7 +716,7 @@
     {
       "brand": "Samsung",
       "name": "Galaxy A17 5G (128 GB)",
-      "price": 199.0,
+      "price": 188.99,
       "score": 7.8,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -736,7 +745,7 @@
       "bol_title": "Samsung Galaxy A17 5G - 128 GB - Zwart",
       "url": "https://www.bol.com/nl/nl/p/smartphone-samsung-galaxy-a17-5g-6-7-128-gb-zwart-6-gb-ram/9300000237500868/",
       "image": "https://media.s-bol.com/90B0MAJDZ1Zz/281R3kW/550x664.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 198.81,
         "2026-10-17": 205.81,
@@ -773,11 +782,12 @@
         "2026-11-19": 192.0,
         "2026-11-20": 192.0,
         "2026-11-21": 184.27,
-        "2026-11-22": 199.0
+        "2026-11-22": 199.0,
+        "2026-11-23": 188.99
       },
       "low_price": 184.0,
-      "prev_price": 184.27,
-      "prev_date": "2026-11-21",
+      "prev_price": 199.0,
+      "prev_date": "2026-11-22",
       "ph_ean": "8806097642671",
       "rating": 4.7
     }

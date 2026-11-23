@@ -71,10 +71,11 @@
         "2026-11-19": 324.99,
         "2026-11-20": 324.99,
         "2026-11-21": 324.99,
-        "2026-11-22": 324.99
+        "2026-11-22": 324.99,
+        "2026-11-23": 324.99
       },
       "low_price": 324.99,
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph_ean": "0195950646801"
     },
     {
@@ -108,7 +109,7 @@
       "bol_title": "mijnSOS® Alarm Horloge Ouderen - 4G Alarmknop voor Senioren - Valdetectie & GPS Tracker - 4G zonder Abonnement - SOS Noodknop Personenalarmering - Persoonsalarm / Persoonlijk Alarm met Hartslagmeter - Zwart",
       "url": "https://www.bol.com/nl/nl/p/alarm-horloge-plus-zwart/9300000193734142/",
       "image": "https://media.s-bol.com/x3m3Byj701v9/WnYoAzv/550x586.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-19": 179.0,
         "2026-10-20": 179.0,
@@ -142,7 +143,8 @@
         "2026-11-19": 179.0,
         "2026-11-20": 179.0,
         "2026-11-21": 179.0,
-        "2026-11-22": 179.0
+        "2026-11-22": 179.0,
+        "2026-11-23": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "8720865589480",
@@ -179,7 +181,7 @@
       "bol_title": "Apple Watch S11 Cellular 46mm Space Grey Aluminium Case with Black Sport Band - M/L",
       "url": "https://www.bol.com/nl/nl/p/apple-watch-s11-cellular-46mm-space-grey-aluminium-case-with-black-sport-band-m-l/9300000240171758/",
       "image": "https://media.s-bol.com/Jmr7QYVpZxWJ/G5211q3/550x653.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-19": 539.99,
         "2026-10-20": 539.99,
@@ -213,7 +215,8 @@
         "2026-11-19": 539.99,
         "2026-11-20": 539.99,
         "2026-11-21": 539.99,
-        "2026-11-22": 539.99
+        "2026-11-22": 539.99,
+        "2026-11-23": 539.99
       },
       "low_price": 539.99,
       "ph_ean": "0195950630817",
@@ -250,7 +253,7 @@
       "bol_title": "Samsung Galaxy Watch8 Classic – smartwatch - 46mm – LTE – White",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-watch8-classic-46mm-lte-white/9300000235867204/",
       "image": "https://media.s-bol.com/qBr7XWApzBGR/qj82VJ2/504x840.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-19": 249.0,
         "2026-10-20": 249.0,
@@ -284,7 +287,8 @@
         "2026-11-19": 299.0,
         "2026-11-20": 299.0,
         "2026-11-21": 299.0,
-        "2026-11-22": 299.0
+        "2026-11-22": 299.0,
+        "2026-11-23": 299.0
       },
       "low_price": 229.0,
       "prev_price": 253.76,
@@ -295,7 +299,7 @@
     {
       "brand": "Samsung",
       "name": "Galaxy Watch8 40 mm LTE",
-      "price": 239.0,
+      "price": 235.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -323,7 +327,7 @@
       "bol_title": "Samsung Galaxy Watch8 - smartwatch - 40 mm - LTE - Graphite",
       "url": "https://www.bol.com/nl/nl/p/smartwatch-samsung-galaxy-watch-8-grey-1-34-40-mm/9300000235867203/",
       "image": "https://media.s-bol.com/go2lm3XnJ3Bk/xG9wr7z/503x840.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-19": 224.0,
         "2026-10-20": 224.0,
@@ -357,18 +361,19 @@
         "2026-11-19": 220.0,
         "2026-11-20": 220.0,
         "2026-11-21": 220.0,
-        "2026-11-22": 239.0
+        "2026-11-22": 239.0,
+        "2026-11-23": 235.0
       },
       "low_price": 218.0,
-      "prev_price": 220.0,
-      "prev_date": "2026-11-21",
+      "prev_price": 239.0,
+      "prev_date": "2026-11-22",
       "ph_ean": "8806097481201",
       "rating": 4.3
     },
     {
       "brand": "Google",
       "name": "Pixel Watch 3 41 mm LTE",
-      "price": 255.0,
+      "price": 257.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -396,7 +401,7 @@
       "bol_title": "Google Pixel Watch 3 41MM LTE",
       "url": "https://www.bol.com/nl/nl/p/google-pixel-watch-3-41mm-lte/9300000190333302/",
       "image": "https://media.s-bol.com/mm4zL0wrgKz9/o2Wv8wK/550x606.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-19": 258.4,
         "2026-10-20": 258.4,
@@ -430,11 +435,12 @@
         "2026-11-19": 259.0,
         "2026-11-20": 259.0,
         "2026-11-21": 247.75,
-        "2026-11-22": 255.0
+        "2026-11-22": 255.0,
+        "2026-11-23": 257.0
       },
       "low_price": 237.0,
-      "prev_price": 247.75,
-      "prev_date": "2026-11-21",
+      "prev_price": 255.0,
+      "prev_date": "2026-11-22",
       "ph_ean": "0840353907867",
       "rating": 5.0
     },
@@ -444,7 +450,7 @@
       "price": 219.0,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 3,7 van 5",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "Alarmhorloge met zes dagen accuduur, SOS-knop en valdetectie.",
       "specs": {
         "Valdetectie": "Ja",
@@ -466,7 +472,7 @@
       "ideal": "Ouderen die vergeten op te laden en een eenvoudig alarmhorloge zonder abonnement willen.",
       "text": "Het grootste probleem van gewone smartwatches voor ouderen is het dagelijks opladen. Een horloge met lege accu helpt niemand. De PersonalClick PC45 lost dat op met een accuduur van tot zes dagen. Daarmee is één keer per week opladen vaak genoeg, bijvoorbeeld op een vaste dag als de thuiszorg of familie langskomt.\n\nHet horloge werkt met een eigen 4G-simkaart. Met de SOS-knop bel je direct een ingesteld contact en bij een vermoedelijke val gaat er automatisch een melding uit. Via de app ziet de familie de locatie van de drager. Het horloge is waterdicht, zodat het ook onder de douche om kan blijven. Dat is belangrijk, want in de badkamer gebeuren veel vallen. Er is geen abonnement en geen meldkamer; hulp komt van de contacten die je instelt. De reviews op bol zijn wisselend: de hardware wordt geprezen, de app vinden sommige kopers minder intuïtief.",
       "ean": "8721249863097",
-      "rating": 3.7,
+      "rating": 3.8,
       "bol_title": "PersonalClick PC45 Alarm Horloge Ouderen - SOS Knop & Valdetectie - GPS - Zonder Abonnement - 4G - Waterdicht - 6 Dagen Accu - Zwart",
       "url": "https://www.bol.com/nl/nl/p/personalclick-pc45-smal-alarm-horloge-ouderen-valdetectie-waterdicht-sos-knop-extra-smal-en-lange-accuduur-zwart/9300000230902042/",
       "image": "https://media.s-bol.com/qNrNWRoJQkvr/ROjnLRq/550x512.jpg",
@@ -474,11 +480,12 @@
         "2026-11-19": 196.0,
         "2026-11-20": 196.0,
         "2026-11-21": 219.0,
-        "2026-11-22": 219.0
+        "2026-11-22": 219.0,
+        "2026-11-23": 219.0
       },
       "low_price": 196.0,
       "ph_ean": "8721249863097",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "prev_price": 196.0,
       "prev_date": "2026-11-20"
     },
@@ -512,7 +519,7 @@
       "bol_title": "WatchToCare Classic GPS Alarmhorloge Senioren | SOS-knop | Valdetectie | Videobellen | Zonder Abonnement | IP67 Waterbestendig - SOS Horloge - Valdetectie - Alzheimer - Dementie patiënten - Garantie 2 jr - 4G - Horlogeband Bruin Leer",
       "url": "https://www.bol.com/nl/nl/p/watchtocare-wtc-45-smartwatch-gps-horloge-ouderen-alarm-horloge-sos-horloge-valdetectie-alzheimer-dementie-patienten-alarmknop-videobellen-noodknop-lebara-sim-met-euro-5-tegoed-geen-abonnement-of-contract-horlogeband-bruin-leer/9300000077250094/",
       "image": "https://media.s-bol.com/74VLRDNgxLr8/r88ZVYp/550x826.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-19": 169.95,
         "2026-10-20": 169.95,
@@ -546,7 +553,8 @@
         "2026-11-19": 169.95,
         "2026-11-20": 169.95,
         "2026-11-21": 169.95,
-        "2026-11-22": 169.95
+        "2026-11-22": 169.95,
+        "2026-11-23": 169.95
       },
       "low_price": 169.95,
       "ph_ean": "8719326843766",
@@ -604,10 +612,11 @@
         "2026-11-19": 197.95,
         "2026-11-20": 197.95,
         "2026-11-21": 197.95,
-        "2026-11-22": 197.95
+        "2026-11-22": 197.95,
+        "2026-11-23": 197.95
       },
       "low_price": 197.95,
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph_ean": "8720938312304",
       "rating": 5.0
     },
@@ -641,7 +650,7 @@
       "bol_title": "Samsung Galaxy Watch7 - smartwatch - 44mm - Zilverkleurig",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-watch7-smartwatch-44mm-silver/9300000182012298/",
       "image": "https://media.s-bol.com/qkmxjjMqQyQy/KrA395Y/532x840.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph_ean": "8806095660707",
       "ph": {
         "2026-11-17": 216.73,
@@ -649,7 +658,8 @@
         "2026-11-19": 216.73,
         "2026-11-20": 216.73,
         "2026-11-21": 216.73,
-        "2026-11-22": 216.73
+        "2026-11-22": 216.73,
+        "2026-11-23": 216.73
       },
       "low_price": 216.73,
       "rating": 4.2

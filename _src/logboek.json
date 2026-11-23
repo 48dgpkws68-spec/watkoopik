@@ -337,9 +337,19 @@
     "in": "Philips 75PQS7801/12",
     "plek": 10,
     "paar": true
+   },
+   {
+    "d": "2026-11-22",
+    "t": "vervangen",
+    "uit": "Philips Ambilight 75PQS9001/12",
+    "in": "Xiaomi TV S Pro Mini LED 2026 75 inch",
+    "plek": 5,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "2a87a18818ebe2d5ef62777f5786edb76cf9e46b",
+  "_tot": "0ede612e44d34b749d01e361020f69b0bdb48ea0",
   "_ps": [
    {
     "brand": "Hisense",
@@ -362,9 +372,9 @@
     "ean": "8806099129620"
    },
    {
-    "brand": "Philips",
-    "name": "Ambilight 75PQS9001/12",
-    "ean": "8718863051818"
+    "brand": "Xiaomi",
+    "name": "TV S Pro Mini LED 2026 75 inch",
+    "ean": "6941948707771"
    },
    {
     "brand": "LG",
@@ -1293,9 +1303,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-22",
+    "t": "vervangen",
+    "uit": "Lenovo Legion T5 30AGB10 90YJ0096MH (Ryzen 7 7700X, RTX 5070 Ti)",
+    "in": "Scan 3XS Systems Elite Stage 5 (Ryzen 5 7500X3D, RTX 5070 Ti)",
+    "plek": 4,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "2a87a18818ebe2d5ef62777f5786edb76cf9e46b",
+  "_tot": "0ede612e44d34b749d01e361020f69b0bdb48ea0",
   "_ps": [
    {
     "brand": "Lenovo",
@@ -1313,9 +1333,9 @@
     "ean": "0199896662338"
    },
    {
-    "brand": "Lenovo",
-    "name": "Legion T5 30AGB10 90YJ0096MH (Ryzen 7 7700X, RTX 5070 Ti)",
-    "ean": "0199274389901"
+    "brand": "Scan",
+    "name": "3XS Systems Elite Stage 5 (Ryzen 5 7500X3D, RTX 5070 Ti)",
+    "ean": "5055948963271"
    },
    {
     "brand": "AZZA",
@@ -1581,7 +1601,7 @@
   "start": "2026-10-21",
   "n": 10,
   "events": [],
-  "_tot": "2a87a18818ebe2d5ef62777f5786edb76cf9e46b",
+  "_tot": "0ede612e44d34b749d01e361020f69b0bdb48ea0",
   "_ps": [
    {
     "brand": "Anno 1588",
@@ -1791,9 +1811,17 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-22",
+    "t": "vervangen",
+    "uit": "Hisense 5S Serie DH5S102BW",
+    "in": "Hisense 5S Serie DH5S102BB",
+    "plek": 2,
+    "paar": true
    }
   ],
-  "_tot": "2a87a18818ebe2d5ef62777f5786edb76cf9e46b",
+  "_tot": "0ede612e44d34b749d01e361020f69b0bdb48ea0",
   "_ps": [
    {
     "brand": "Samsung",
@@ -1802,8 +1830,8 @@
    },
    {
     "brand": "Hisense",
-    "name": "5S Serie DH5S102BW",
-    "ean": "6901101825612"
+    "name": "5S Serie DH5S102BB",
+    "ean": "6901101827135"
    },
    {
     "brand": "AEG",

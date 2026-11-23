@@ -65,18 +65,19 @@
         "2026-11-19": 257.42,
         "2026-11-20": 264.0,
         "2026-11-21": 264.0,
-        "2026-11-22": 264.0
+        "2026-11-22": 264.0,
+        "2026-11-23": 264.0
       },
       "low_price": 257.42,
       "ph_ean": "6979463770871",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "prev_price": 257.42,
       "prev_date": "2026-11-19"
     },
     {
       "brand": "Dreame",
       "name": "L10s Ultra Gen 2",
-      "price": 299.0,
+      "price": 279.0,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,6 van 5",
@@ -108,11 +109,14 @@
         "2026-11-19": 299.0,
         "2026-11-20": 299.0,
         "2026-11-21": 299.0,
-        "2026-11-22": 299.0
+        "2026-11-22": 299.0,
+        "2026-11-23": 279.0
       },
-      "low_price": 299.0,
+      "low_price": 279.0,
       "ph_ean": "6976233677033",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 299.0,
+      "prev_date": "2026-11-22"
     },
     {
       "brand": "Xiaomi",
@@ -149,11 +153,12 @@
         "2026-11-19": 198.0,
         "2026-11-20": 198.0,
         "2026-11-21": 198.0,
-        "2026-11-22": 198.0
+        "2026-11-22": 198.0,
+        "2026-11-23": 198.0
       },
       "low_price": 198.0,
       "ph_ean": "6932554432416",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Ecovacs",
@@ -190,11 +195,12 @@
         "2026-11-19": 244.96,
         "2026-11-20": 244.96,
         "2026-11-21": 244.96,
-        "2026-11-22": 244.96
+        "2026-11-22": 244.96,
+        "2026-11-23": 244.96
       },
       "low_price": 244.96,
       "ph_ean": "6970135032563",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Dreame",
@@ -231,11 +237,12 @@
         "2026-11-19": 199.0,
         "2026-11-20": 199.0,
         "2026-11-21": 199.0,
-        "2026-11-22": 199.0
+        "2026-11-22": 199.0,
+        "2026-11-23": 199.0
       },
       "low_price": 199.0,
       "ph_ean": "6977328068606",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Roborock",
@@ -272,11 +279,12 @@
         "2026-11-19": 159.99,
         "2026-11-20": 159.99,
         "2026-11-21": 159.99,
-        "2026-11-22": 159.99
+        "2026-11-22": 159.99,
+        "2026-11-23": 159.99
       },
       "low_price": 159.99,
       "ph_ean": "6936905901927",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "eufy",
@@ -284,7 +292,7 @@
       "price": 229.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Snijdt haren zelf door en leegt zichzelf tot 60 dagen.",
       "specs": {
         "Zuigkracht": "5.000 Pa",
@@ -307,17 +315,18 @@
       "ean": "0194644178116",
       "bol_title": "eufy Clean L60 Hybrid SES Robotstofzuiger met dweilfunctie - Robot Vacuum - 5.000Pa Zuigkracht - Met automatisch leegstation - Bestuurbaar via smartphone",
       "url": "https://www.bol.com/nl/nl/p/eufy-l60-hybrid-ses-robotstofzuiger-en-dweil-met-5000-pa-zuigkracht-zelflegend/9300000172370220/",
-      "rating": 4.2,
+      "rating": 4.3,
       "image": "https://media.s-bol.com/j3AqN4KlxEp5/j2pVwwB/550x561.jpg",
       "ph": {
         "2026-11-19": 229.0,
         "2026-11-20": 229.0,
         "2026-11-21": 229.0,
-        "2026-11-22": 229.0
+        "2026-11-22": 229.0,
+        "2026-11-23": 229.0
       },
       "low_price": 229.0,
       "ph_ean": "0194644178116",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Roborock",
@@ -325,7 +334,7 @@
       "price": 119.99,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Goedkoopste robot met LiDAR en 10.000 Pa in deze lijst.",
       "specs": {
         "Zuigkracht": "10.000 Pa",
@@ -348,17 +357,18 @@
       "ean": "6936905901187",
       "bol_title": "Roborock Q7 M5–Robotstofzuiger met dweilfunctie–10000 Pa sterke zuigkracht–Dubbel antiklitsysteem– 150 min gebruiksduur– LiDAR-navigatie–Stofzuigerrobot voor tapijt– Dierenharen–Zwart–Q5 PRO Upgrade",
       "url": "https://www.bol.com/nl/nl/p/roborock-q7-m5-robotstofzuiger-met-dweilfunctie-10-000-pa-sterke-zuigkracht-dubbel-antiklitsysteem-150-min-gebruiksduur-lidar-navigatie-stofzuigerrobot-voor-tapijt-dierenharen-zwart/9300000231422401/",
-      "rating": 4.2,
+      "rating": 4.3,
       "image": "https://media.s-bol.com/qz52m2VVK8Ak/J8Ew9jy/550x547.jpg",
       "ph": {
         "2026-11-19": 119.99,
         "2026-11-20": 119.99,
         "2026-11-21": 119.99,
-        "2026-11-22": 119.99
+        "2026-11-22": 119.99,
+        "2026-11-23": 119.99
       },
       "low_price": 119.99,
       "ph_ean": "6936905901187",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "eufy",
@@ -366,7 +376,7 @@
       "price": 179.0,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Slechts 7,2 cm hoog, dus hij komt onder bed en bank.",
       "specs": {
         "Zuigkracht": "4.000 Pa",
@@ -389,22 +399,23 @@
       "ean": "0194644290504",
       "bol_title": "eufy Auto-Empty C10 - Slanke behuizing van 7,2cm - Tapijtreiniger - Edge expansion borstel - Automatisch legen - Point laser en multi-infrarood navigatie",
       "url": "https://www.bol.com/nl/nl/p/eufy-auto-empty-c10-slanke-behuizing-van-7-2-cm-tapijtreiniger-edge-expansion-borstel-automatisch-legen-point-laser-en-multi-infrarood-navigatie/9300000229477515/",
-      "rating": 4.2,
+      "rating": 4.3,
       "image": "https://media.s-bol.com/x3JWl3yAmLNE/9Q8gDq8/550x550.jpg",
       "ph": {
         "2026-11-19": 179.0,
         "2026-11-20": 179.0,
         "2026-11-21": 179.0,
-        "2026-11-22": 179.0
+        "2026-11-22": 179.0,
+        "2026-11-23": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "0194644290504",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "iRobot",
       "name": "Roomba 105 Combo",
-      "price": 155.95,
+      "price": 153.57,
       "score": 7.9,
       "label": null,
       "reviews": "bol-score 4,0 van 5",
@@ -436,13 +447,14 @@
         "2026-11-19": 157.95,
         "2026-11-20": 156.95,
         "2026-11-21": 155.95,
-        "2026-11-22": 155.95
+        "2026-11-22": 155.95,
+        "2026-11-23": 153.57
       },
-      "low_price": 155.95,
+      "low_price": 153.57,
       "ph_ean": "5061042263308",
-      "synced": "2026-11-22",
-      "prev_price": 156.95,
-      "prev_date": "2026-11-20"
+      "synced": "2026-11-23",
+      "prev_price": 155.95,
+      "prev_date": "2026-11-22"
     }
   ],
   "guide": [

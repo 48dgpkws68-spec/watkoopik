@@ -62,12 +62,13 @@
       "url": "https://www.bol.com/nl/nl/p/ecovacs-deebot-t50-omni-gen3-0-26-l-wit/9300000318342723/",
       "image": "https://media.s-bol.com/jDQP7xPKqYYW/l5ZWjWr/550x537.jpg",
       "ph": {
-        "2026-11-22": 249.0
+        "2026-11-22": 249.0,
+        "2026-11-23": 249.0
       },
       "low_price": 249.0,
       "ph_ean": "6979463770543",
       "rating": 4.5,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Ecovacs",
@@ -101,12 +102,13 @@
       "url": "https://www.bol.com/nl/nl/p/ecovacs-deebot-t30e-omni-black/9300000269457540/",
       "image": "https://media.s-bol.com/1JLVDDVy4JJ3/79xmMyj/550x645.jpg",
       "ph": {
-        "2026-11-22": 264.0
+        "2026-11-22": 264.0,
+        "2026-11-23": 264.0
       },
       "low_price": 264.0,
       "ph_ean": "6979463770871",
       "rating": 4.5,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Roborock",
@@ -140,12 +142,13 @@
       "url": "https://www.bol.com/nl/nl/p/roborock-q10-pf-robotstofzuiger-met-dweilfunctie-10000pa-dubbele-anti-klit-automatisch-wissen-lidar-navigatie-8-mm-automatisch-liftend-mopsysteem-verboden-zone-q5-max-q8-max-upgrade/9300000236410763/",
       "image": "https://media.s-bol.com/q4k4rpLDMXRp/pgRQR4y/550x396.jpg",
       "ph": {
-        "2026-11-22": 179.99
+        "2026-11-22": 179.99,
+        "2026-11-23": 179.99
       },
       "low_price": 179.99,
       "ph_ean": "6936905902177",
       "rating": 4.3,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Xiaomi",
@@ -178,12 +181,13 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-robot-vacuum-h50-robotstofzuiger-lidar-navigatie-intelligente-mapping-app-bediening-lange-batterijduur-dweilfunctie-geschikt-voor-meerdere-vloertypes/9300000265580113/",
       "image": "https://media.s-bol.com/QwxDkmjkONp9/l59VlqV/550x615.jpg",
       "ph": {
-        "2026-11-22": 282.99
+        "2026-11-22": 282.99,
+        "2026-11-23": 282.99
       },
       "low_price": 282.99,
       "ph_ean": "6932554458287",
       "rating": 5.0,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Dreame",
@@ -216,17 +220,18 @@
       "url": "https://www.bol.com/nl/nl/p/dreame-robotstofzuiger-d20-air-plus-wit-dweilfunctie-20-000-pa-zuigkracht-120-dagen-handsfree-dubbel-anti-klitsysteem-automatisch-legen-huisdieren-grote-stofzak-meerdere-verdiepingen-app-bediening-3d-mapping-verboden-zones/9300000286867533/",
       "image": "https://media.s-bol.com/gg950vrx2g9D/vorXpGn/550x474.jpg",
       "ph": {
-        "2026-11-22": 199.0
+        "2026-11-22": 199.0,
+        "2026-11-23": 199.0
       },
       "low_price": 199.0,
       "ph_ean": "6979181921494",
       "rating": 4.4,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Xiaomi",
       "name": "Robot Vacuum S40 Pro",
-      "price": 219.0,
+      "price": 242.25,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,0 van 5",
@@ -254,12 +259,15 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-robot-vacuum-s40-pro-slimme-robotstofzuiger-met-dweilfunctie-15-000-pa-zuigkracht-lds-lidar-navigatie-anti-klit-borstel-appbediening/9300000237525267/",
       "image": "https://media.s-bol.com/74M0XBk2VPyy/r8EMnyK/550x611.jpg",
       "ph": {
-        "2026-11-22": 219.0
+        "2026-11-22": 219.0,
+        "2026-11-23": 242.25
       },
       "low_price": 219.0,
       "ph_ean": "6932554447052",
       "rating": 4.0,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 219.0,
+      "prev_date": "2026-11-22"
     },
     {
       "brand": "Tapo",
@@ -293,12 +301,13 @@
       "url": "https://www.bol.com/nl/nl/p/tp-link-tapo-rv30-max-plus-5300pa-lidar-imu-dubbel-robotstofzuiger-met-dweilfunctie-en-automatisch-zuigstation/9300000192300802/",
       "image": "https://media.s-bol.com/YDzxo3qkQqMp/XDV9nOm/550x470.jpg",
       "ph": {
-        "2026-11-22": 235.0
+        "2026-11-22": 235.0,
+        "2026-11-23": 235.0
       },
       "low_price": 235.0,
       "ph_ean": "8885020625134",
       "rating": 4.3,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "eufy",
@@ -306,7 +315,7 @@
       "price": 229.0,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Robot met leegstation en losse dweilmodule voor harde vloeren.",
       "specs": {
         "Dweil": "Dweilmodule",
@@ -331,12 +340,13 @@
       "url": "https://www.bol.com/nl/nl/p/eufy-l60-hybrid-ses-robotstofzuiger-en-dweil-met-5000-pa-zuigkracht-zelflegend/9300000172370220/",
       "image": "https://media.s-bol.com/j3AqN4KlxEp5/j2pVwwB/550x561.jpg",
       "ph": {
-        "2026-11-22": 229.0
+        "2026-11-22": 229.0,
+        "2026-11-23": 229.0
       },
       "low_price": 229.0,
       "ph_ean": "0194644178116",
-      "rating": 4.2,
-      "synced": "2026-11-22"
+      "rating": 4.3,
+      "synced": "2026-11-23"
     },
     {
       "brand": "iRobot",
@@ -370,12 +380,13 @@
       "url": "https://www.bol.com/nl/nl/p/irobot-roomba-205-dustcompactor-combo-robotstofzuiger-met-dweilfunctie-zwart-l1210/9300000226234496/",
       "image": "https://media.s-bol.com/3n1r5g74RkDp/R6yQPkw/550x534.jpg",
       "ph": {
-        "2026-11-22": 186.0
+        "2026-11-22": 186.0,
+        "2026-11-23": 186.0
       },
       "low_price": 186.0,
       "ph_ean": "5061042263025",
       "rating": 5.0,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Medion",
@@ -408,11 +419,12 @@
       "url": "https://www.bol.com/nl/nl/p/medion-md100022-x51sw-robotstofzuiger-10-000-pa-laser/9300000309494207/",
       "image": "https://media.s-bol.com/P4xW9pVMoB6l/81ny7zr/550x550.jpg",
       "ph": {
-        "2026-11-22": 219.95
+        "2026-11-22": 219.95,
+        "2026-11-23": 219.95
       },
       "low_price": 219.95,
       "ph_ean": "4061275249545",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     }
   ],
   "guide": [

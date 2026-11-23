@@ -55,11 +55,12 @@
         "2026-11-19": 1999.0,
         "2026-11-20": 1999.0,
         "2026-11-21": 1999.0,
-        "2026-11-22": 1999.0
+        "2026-11-22": 1999.0,
+        "2026-11-23": 1999.0
       },
       "low_price": 1999.0,
       "ph_ean": "0199274048204",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "HP",
@@ -92,7 +93,7 @@
       "bol_title": "HP OMEN 35L GT16-1791nd - Gaming PC - AMD Ryzen™ 9 9900X3D - 32 GB DDR5-SDRAM - NVIDIA GeForce RTX 5080 - Windows 11 Home",
       "url": "https://www.bol.com/nl/nl/p/hp-omen-35l-gaming-desktop-gt16-1791nd-pc-amd-ryzen-9-9900x3d-32-gb-ddr5-sdram-nvidia-geforce-rtx-5080-windows-11-home-tower-zwart/9300000254450012/",
       "image": "https://media.s-bol.com/J3qqgENlzRGl/VvpKWnB/489x840.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-21": 3509.0,
         "2026-10-23": 3509.0,
@@ -124,7 +125,8 @@
         "2026-11-19": 3199.0,
         "2026-11-20": 3199.0,
         "2026-11-21": 3199.0,
-        "2026-11-22": 3199.0
+        "2026-11-22": 3199.0,
+        "2026-11-23": 3199.0
       },
       "low_price": 3199.0,
       "prev_price": 3509.0,
@@ -163,7 +165,7 @@
       "bol_title": "HP OMEN 35L GT16-1773nd - Gaming PC - AMD Ryzen™ 7 7800X3D - 32 GB DDR5-SDRAM - NVIDIA GeForce RTX 5070 - Windows 11 Home",
       "url": "https://www.bol.com/nl/nl/p/hp-omen-35l-gaming-desktop-gt16-1773nd-pc-amd-ryzen-7-7800x3d-32-gb-ddr5-sdram-nvidia-geforce-rtx-5070-windows-11-home-tower-zwart/9300000254450040/",
       "image": "https://media.s-bol.com/7PLLr1nNvpB1/Oglz6ZY/489x840.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-21": 2369.0,
         "2026-10-23": 2369.0,
@@ -195,7 +197,8 @@
         "2026-11-19": 1999.0,
         "2026-11-20": 1999.0,
         "2026-11-21": 1999.0,
-        "2026-11-22": 1999.0
+        "2026-11-22": 1999.0,
+        "2026-11-23": 1999.0
       },
       "low_price": 1999.0,
       "prev_price": 2369.0,
@@ -209,7 +212,7 @@
       "price": 2534.54,
       "score": 9.0,
       "label": null,
-      "reviews": "bol-score 4,8 van 5",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "RTX 5070 Ti met 16 GB en een X3D-processor voor 1440p ultra.",
       "specs": {
         "Processor": "AMD Ryzen 5 7500X3D",
@@ -234,13 +237,14 @@
       "bol_title": "Scan 3XS Systems Elite – Stage 5 Gaming PC – MSI RTX 5070 Ti 16GB – Ryzen 5 7500X3D – Corsair DDR5 32GB – MSI 1TB SSD – 750w PSU - 1440p Ultra – 4K Entry Gaming",
       "url": "https://www.bol.com/nl/nl/p/scan-3xs-systems-elite-stage-5-gaming-pc-msi-rtx-5070-ti-16gb-ryzen-5-7500x3d-corsair-ddr5-32gb-msi-1tb-ssd-750w-psu-1440p-ultra-4k-entry-gaming/9300000247020432/",
       "image": "https://media.s-bol.com/DvrEAnK33Mny/GZqw26J/550x617.jpg",
-      "rating": 4.8,
+      "rating": 4.9,
       "ph": {
-        "2026-11-22": 2534.54
+        "2026-11-22": 2534.54,
+        "2026-11-23": 2534.54
       },
       "low_price": 2534.54,
       "ph_ean": "5055948963271",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "AZZA",
@@ -273,7 +277,7 @@
       "bol_title": "AZZA Prime Gaming PC - AMD Ryzen 7 5700X - NVIDIA RTX 5070 - 32 GB RAM - 1 TB SSD - WiFi",
       "url": "https://www.bol.com/nl/nl/p/azza-prime-argb-gaming-pc-amd-ryzen-7-5700x-geforce-rtx-5070-12-gddr7-32-gb-ddr4-1-tb-ssd-nvme-windows-11-pro/9300000228944025/",
       "image": "https://media.s-bol.com/JBGDmWvMAxYy/8q5V6Lj/550x681.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-21": 1705.0,
         "2026-10-23": 1705.0,
@@ -305,7 +309,8 @@
         "2026-11-19": 1779.0,
         "2026-11-20": 1779.0,
         "2026-11-21": 1769.0,
-        "2026-11-22": 1769.0
+        "2026-11-22": 1769.0,
+        "2026-11-23": 1769.0
       },
       "low_price": 1699.0,
       "prev_price": 1779.0,
@@ -363,10 +368,11 @@
         "2026-11-19": 2999.0,
         "2026-11-20": 2999.0,
         "2026-11-21": 2999.0,
-        "2026-11-22": 2999.0
+        "2026-11-22": 2999.0,
+        "2026-11-23": 2999.0
       },
       "low_price": 2789.0,
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "prev_price": 2835.0,
       "prev_date": "2026-11-10",
       "ph_ean": "8721447841620"
@@ -402,7 +408,7 @@
       "bol_title": "MSI Pano Gaming PC - AMD Ryzen 7 9800X3D - Radeon RX 9070 XT - 32 GB RAM - 1 TB SSD - WiFi - BT",
       "url": "https://www.bol.com/nl/nl/p/msi-pano-gaming-pc-amd-ryzen-7-9800x3d-radeon-rx-9070-xt-32-gb-ram-1-tb-ssd-wifi-bt/9300000266928300/",
       "image": "https://media.s-bol.com/m3mp8Wn71kqn/4RmYDxV/550x590.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-21": 2325.0,
         "2026-10-23": 2375.0,
@@ -434,7 +440,8 @@
         "2026-11-19": 2509.0,
         "2026-11-20": 2535.0,
         "2026-11-21": 2535.0,
-        "2026-11-22": 2535.0
+        "2026-11-22": 2535.0,
+        "2026-11-23": 2535.0
       },
       "low_price": 2325.0,
       "prev_price": 2509.0,
@@ -472,7 +479,7 @@
       "bol_title": "ASUS ROG G700 G700TF-05225F115W - Gaming Desktop - Intel Core Ultra 5 225F - 32 GB - 1 TB - NVIDIA GeForce RTX 5060 - Windows 11 Home",
       "url": "https://www.bol.com/nl/nl/p/asus-rog-g700-g700tf-05225f115w-gaming-desktop-intel-core-ultra-5-225f-32-gb-1-tb-nvidia-geforce-rtx-5060-windows-11-home/9300000256733744/",
       "image": "https://media.s-bol.com/m3QYQOkNgvpR/X64wZEl/550x622.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-21": 1499.0,
         "2026-10-23": 1499.0,
@@ -504,7 +511,8 @@
         "2026-11-19": 1499.0,
         "2026-11-20": 1499.0,
         "2026-11-21": 1499.0,
-        "2026-11-22": 1499.0
+        "2026-11-22": 1499.0,
+        "2026-11-23": 1499.0
       },
       "low_price": 1499.0,
       "ph_ean": "4711636406796",
@@ -541,7 +549,7 @@
       "bol_title": "Lenovo LOQ Tower 26ADR10 91DF0083MH - AMD Ryzen 7 - 32 GB DDR5 - 1 TB SSD - NVIDIA GeForce RTX 5060 - Windows 11 Home",
       "url": "https://www.bol.com/nl/nl/p/lenovo-loq-tower-26adr10-91df0083mh-amd-ryzen-7-8745hx-32-gb-ddr5-sdram-1-tb-ssd-nvidia-geforce-rtx-5060-windows-11-home/9300000264944515/",
       "image": "https://media.s-bol.com/E5X2VqAz0WEl/gL6y9gG/550x715.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-21": 1449.0,
         "2026-10-23": 1449.0,
@@ -573,7 +581,8 @@
         "2026-11-19": 1299.0,
         "2026-11-20": 1299.0,
         "2026-11-21": 1299.0,
-        "2026-11-22": 1299.0
+        "2026-11-22": 1299.0,
+        "2026-11-23": 1299.0
       },
       "low_price": 1299.0,
       "prev_price": 1349.0,
@@ -622,10 +631,11 @@
         "2026-11-19": 1072.49,
         "2026-11-20": 1072.49,
         "2026-11-21": 1072.49,
-        "2026-11-22": 1072.49
+        "2026-11-22": 1072.49,
+        "2026-11-23": 1072.49
       },
       "low_price": 1072.49,
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph_ean": "5055948968580",
       "prev_price": 1099.99,
       "prev_date": "2026-11-14",

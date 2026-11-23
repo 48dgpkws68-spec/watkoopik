@@ -23,7 +23,7 @@
     {
       "brand": "Bosch",
       "name": "GSN33VWEP Serie 4",
-      "price": 679.0,
+      "price": 683.9,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -51,7 +51,7 @@
       "bol_title": "Bosch GSN33VWEP - Vriezer",
       "url": "https://www.bol.com/nl/nl/p/bosch-vriezer-gsn33vwep/9300000008073976/",
       "image": "https://media.s-bol.com/VVm2Jp4AL2jo/W6qxmDn/330x840.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 699.0,
         "2026-10-17": 683.9,
@@ -88,18 +88,19 @@
         "2026-11-19": 683.9,
         "2026-11-20": 683.9,
         "2026-11-21": 683.9,
-        "2026-11-22": 679.0
+        "2026-11-22": 679.0,
+        "2026-11-23": 683.9
       },
       "low_price": 679.0,
-      "prev_price": 683.9,
-      "prev_date": "2026-11-21",
+      "prev_price": 679.0,
+      "prev_date": "2026-11-22",
       "ph_ean": "4242005247752",
       "rating": 4.7
     },
     {
       "brand": "Inventum",
       "name": "VR1430W",
-      "price": 379.0,
+      "price": 439.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,7 van 5",
@@ -129,11 +130,14 @@
       "image": "https://media.s-bol.com/N4DLRqQG7pLK/gLlXlv6/384x840.jpg",
       "rating": 4.7,
       "ph": {
-        "2026-11-22": 379.0
+        "2026-11-22": 379.0,
+        "2026-11-23": 439.0
       },
       "low_price": 379.0,
       "ph_ean": "8712876161939",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 379.0,
+      "prev_date": "2026-11-22"
     },
     {
       "brand": "Samsung",
@@ -166,7 +170,7 @@
       "bol_title": "SAMSUNG RZ32C7BEES9 323L 1-deurs vriezer WiFi",
       "url": "https://www.bol.com/nl/nl/p/samsung-rz32c7bees9-323l-1-deurs-vriezer-wifi/9300000163441830/",
       "image": "https://media.s-bol.com/EVRVB3nNLM2v/ERxj5MW/271x840.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 849.0,
         "2026-10-17": 849.0,
@@ -203,7 +207,8 @@
         "2026-11-19": 849.0,
         "2026-11-20": 849.0,
         "2026-11-21": 849.0,
-        "2026-11-22": 849.0
+        "2026-11-22": 849.0,
+        "2026-11-23": 849.0
       },
       "low_price": 849.0,
       "ph_ean": "8806095077611",
@@ -264,10 +269,11 @@
         "2026-11-19": 499.0,
         "2026-11-20": 499.0,
         "2026-11-21": 499.0,
-        "2026-11-22": 499.0
+        "2026-11-22": 499.0,
+        "2026-11-23": 499.0
       },
       "low_price": 499.0,
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph_ean": "4016803094333",
       "rating": 5.0
     },
@@ -302,7 +308,7 @@
       "bol_title": "Beko FNE1074N No Frost Tafelmodel Vriezer – 86L – Geschikt voor Schuur/Garage tot -15°C – Wit",
       "url": "https://www.bol.com/nl/nl/p/beko-fne1074n-nofrost-tafelmodel-vriezer/9300000152585371/",
       "image": "https://media.s-bol.com/mVn1olMYE530/pM14QN/539x840.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 329.0,
         "2026-10-17": 329.0,
@@ -339,7 +345,8 @@
         "2026-11-19": 319.0,
         "2026-11-20": 319.0,
         "2026-11-21": 319.0,
-        "2026-11-22": 319.0
+        "2026-11-22": 319.0,
+        "2026-11-23": 319.0
       },
       "low_price": 310.23,
       "prev_price": 310.23,
@@ -378,7 +385,7 @@
       "bol_title": "Inventum VR550 tafelmodel vriezer 88 liter - 55 cm breed - Energielabel D - Diepvries - Compact - Vrijstaand - 3 lades - Wit",
       "url": "https://www.bol.com/nl/nl/p/inventum-vr550-tafelmodel-vriezer-vrijstaand-88-liter-wit/9200000041901846/",
       "image": "https://media.s-bol.com/RxLkg5y8X5wY/l5vLNNJ/550x837.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 249.0,
         "2026-10-17": 249.0,
@@ -415,7 +422,8 @@
         "2026-11-19": 239.0,
         "2026-11-20": 239.0,
         "2026-11-21": 243.0,
-        "2026-11-22": 243.0
+        "2026-11-22": 243.0,
+        "2026-11-23": 243.0
       },
       "low_price": 233.03,
       "prev_price": 239.0,
@@ -477,10 +485,11 @@
         "2026-11-19": 449.0,
         "2026-11-20": 449.0,
         "2026-11-21": 449.0,
-        "2026-11-22": 449.0
+        "2026-11-22": 449.0,
+        "2026-11-23": 449.0
       },
       "low_price": 449.0,
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph_ean": "8003437069598"
     },
     {
@@ -535,10 +544,11 @@
         "2026-11-19": 449.0,
         "2026-11-20": 449.0,
         "2026-11-21": 449.0,
-        "2026-11-22": 449.0
+        "2026-11-22": 449.0,
+        "2026-11-23": 449.0
       },
       "low_price": 449.0,
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "prev_price": 474.0,
       "prev_date": "2026-11-01",
       "ph_ean": "8712876161816",
@@ -575,7 +585,7 @@
       "bol_title": "AEG OAG7M281EW NoFrost - Vriezer - Vrieskast - Vrijstaand",
       "url": "https://www.bol.com/nl/nl/p/aeg-oag7m281ew-nofrost-vriezer-vrieskast-vrijstaand/9300000169616947/",
       "image": "https://media.s-bol.com/qmWYB6OQn4Kr/qwv7Er/275x840.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 779.0,
         "2026-10-17": 779.0,
@@ -612,7 +622,8 @@
         "2026-11-19": 779.0,
         "2026-11-20": 779.0,
         "2026-11-21": 779.0,
-        "2026-11-22": 779.0
+        "2026-11-22": 779.0,
+        "2026-11-23": 779.0
       },
       "low_price": 779.0,
       "ph_ean": "7333394036045"
@@ -648,7 +659,7 @@
       "bol_title": "Beko RFNE448E45W - NoFrost- Vriezer",
       "url": "https://www.bol.com/nl/nl/p/beko-rfne448e45w-vriezer/9300000014962045/",
       "image": "https://media.s-bol.com/gxGr6qyE7463/l5JRpQg/314x840.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-16": 699.0,
         "2026-10-17": 699.0,
@@ -685,7 +696,8 @@
         "2026-11-19": 675.0,
         "2026-11-20": 675.0,
         "2026-11-21": 675.0,
-        "2026-11-22": 675.0
+        "2026-11-22": 675.0,
+        "2026-11-23": 675.0
       },
       "low_price": 675.0,
       "prev_price": 689.6,

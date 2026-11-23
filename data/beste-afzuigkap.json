@@ -49,7 +49,7 @@
       "bol_title": "AEG DVK5961HB - 6000 serie - Wand afzuigkap (90 cm)",
       "url": "https://www.bol.com/nl/nl/p/electrolux-dve5971hb-muurmontage-zwart-700-m-uur-a/9300000005841563/",
       "image": "https://media.s-bol.com/YOWJPz2l8nq9/lR4LAzJ/550x711.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-20": 549.0,
         "2026-10-21": 549.0,
@@ -82,7 +82,8 @@
         "2026-11-19": 519.0,
         "2026-11-20": 519.0,
         "2026-11-21": 519.0,
-        "2026-11-22": 689.0
+        "2026-11-22": 689.0,
+        "2026-11-23": 689.0
       },
       "low_price": 499.0,
       "prev_price": 519.0,
@@ -120,7 +121,7 @@
       "bol_title": "Bosch DUL63CC50 - Serie 4 - Onderbouw Afzuigkap - 60 cm Roestvrij staal - Ledverlichting",
       "url": "https://www.bol.com/nl/nl/p/bosch-dul63cc50-serie-4-onderbouw-afzuigkap-60-cm/9200000070641792/",
       "image": "https://media.s-bol.com/ZQGRJ2Rn4DNv/r0BLp7w/550x159.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-20": 159.0,
         "2026-10-21": 159.0,
@@ -153,7 +154,8 @@
         "2026-11-19": 159.0,
         "2026-11-20": 159.0,
         "2026-11-21": 159.0,
-        "2026-11-22": 159.0
+        "2026-11-22": 159.0,
+        "2026-11-23": 159.0
       },
       "low_price": 159.0,
       "prev_price": 159.18,
@@ -191,7 +193,7 @@
       "bol_title": "Bosch DWK91LT60 - Serie 8 - Wandschouwkap (90 cm)",
       "url": "https://www.bol.com/nl/nl/p/bosch-serie-8-dwk91lt60-441-m-uur-recirculerend-51-db-437-m-uur-1-007-m-uur-944-m-uur/9300000153494293/",
       "image": "https://media.s-bol.com/B0Y4yoVX9W2X/ElZ88GN/550x424.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-20": 899.0,
         "2026-10-21": 899.0,
@@ -224,7 +226,8 @@
         "2026-11-19": 899.0,
         "2026-11-20": 899.0,
         "2026-11-21": 899.0,
-        "2026-11-22": 899.0
+        "2026-11-22": 899.0,
+        "2026-11-23": 899.0
       },
       "low_price": 879.0,
       "ph_ean": "4242005307401",
@@ -235,7 +238,7 @@
     {
       "brand": "Bosch",
       "name": "Serie 4 DIB97IM50",
-      "price": 999.0,
+      "price": 959.0,
       "score": 9.0,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -268,11 +271,14 @@
         "2026-11-19": 999.0,
         "2026-11-20": 999.0,
         "2026-11-21": 999.0,
-        "2026-11-22": 999.0
+        "2026-11-22": 999.0,
+        "2026-11-23": 959.0
       },
-      "low_price": 999.0,
+      "low_price": 959.0,
       "ph_ean": "4242005086269",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 999.0,
+      "prev_date": "2026-11-22"
     },
     {
       "brand": "Siemens",
@@ -304,7 +310,7 @@
       "bol_title": "Siemens LC65KDK60 - IQ100 - Afzuigkap - Wandschouwkap - 60 cm - zwart glas - Stille motor - Ledverlichting",
       "url": "https://www.bol.com/nl/nl/p/siemens-lc65kdk60-iq100-afzuigkap/9300000153494393/",
       "image": "https://media.s-bol.com/AkXgq2yKqLmP/1jpp5q0/550x576.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-20": 329.0,
         "2026-10-21": 329.0,
@@ -337,7 +343,8 @@
         "2026-11-19": 299.95,
         "2026-11-20": 299.95,
         "2026-11-21": 299.95,
-        "2026-11-22": 299.95
+        "2026-11-22": 299.95,
+        "2026-11-23": 299.95
       },
       "low_price": 299.95,
       "prev_price": 320.0,
@@ -391,10 +398,11 @@
         "2026-11-19": 419.0,
         "2026-11-20": 419.0,
         "2026-11-21": 419.0,
-        "2026-11-22": 419.0
+        "2026-11-22": 419.0,
+        "2026-11-23": 419.0
       },
       "low_price": 419.0,
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph_ean": "7333394072463"
     },
     {
@@ -427,7 +435,7 @@
       "bol_title": "Inventum AKB6005ZWA platte wandschouw afzuigkap 60 cm - Afzuigcapaciteit 630 m3/h - Geschikt voor open keuken - 3 standen - Ledspots - Luchtafvoer en recirculatie - Zwart",
       "url": "https://www.bol.com/nl/nl/p/akb6005zwa-inventum-schouwkap-60-cm-breed/9300000113326248/",
       "image": "https://media.s-bol.com/r1Vkgnnj1MvK/NxmO0ON/550x465.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-20": 213.0,
         "2026-10-21": 213.0,
@@ -460,7 +468,8 @@
         "2026-11-19": 197.0,
         "2026-11-20": 197.0,
         "2026-11-21": 197.0,
-        "2026-11-22": 197.0
+        "2026-11-22": 197.0,
+        "2026-11-23": 197.0
       },
       "low_price": 197.0,
       "prev_price": 208.0,
@@ -503,11 +512,12 @@
         "2026-11-19": 128.0,
         "2026-11-20": 128.0,
         "2026-11-21": 128.0,
-        "2026-11-22": 128.0
+        "2026-11-22": 128.0,
+        "2026-11-23": 128.0
       },
       "low_price": 128.0,
       "ph_ean": "8715393411037",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "ETNA",
@@ -545,11 +555,12 @@
         "2026-11-19": 168.0,
         "2026-11-20": 168.0,
         "2026-11-21": 168.0,
-        "2026-11-22": 168.0
+        "2026-11-22": 168.0,
+        "2026-11-23": 168.0
       },
       "low_price": 168.0,
       "ph_ean": "8715393203335",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Inventum",
@@ -581,7 +592,7 @@
       "bol_title": "Inventum AKO6012RVS onderbouw afzuigkap 60 cm - Afzuigcapaciteit 326,4 m3/h - Geschikt voor grote keuken - 3 standen - Ledverlichting - Luchtafvoer en recirculatie - RVS",
       "url": "https://www.bol.com/nl/nl/p/inventum-ako6012rvs-onderbouw-afzuigkap-60-cm-rvs/9200000084000471/",
       "image": "https://media.s-bol.com/3N3W7mBrzp1p/r04moBp/550x143.jpg",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "ph": {
         "2026-10-20": 110.0,
         "2026-10-21": 110.0,
@@ -614,7 +625,8 @@
         "2026-11-19": 89.0,
         "2026-11-20": 89.0,
         "2026-11-21": 89.0,
-        "2026-11-22": 89.0
+        "2026-11-22": 89.0,
+        "2026-11-23": 89.0
       },
       "low_price": 89.0,
       "prev_price": 104.0,

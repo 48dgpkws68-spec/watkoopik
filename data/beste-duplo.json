@@ -53,12 +53,13 @@
       "image": "https://media.s-bol.com/W30l846l0E34/RlknD4L/550x459.jpg",
       "ph": {
         "2026-11-21": 56.0,
-        "2026-11-22": 56.1
+        "2026-11-22": 56.1,
+        "2026-11-23": 56.1
       },
       "low_price": 56.0,
       "ph_ean": "5702017583822",
       "rating": 5.0,
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "prev_price": 56.0,
       "prev_date": "2026-11-21"
     },
@@ -94,17 +95,18 @@
       "image": "https://media.s-bol.com/Y36jDADPg22K/08qOGV7/550x394.jpg",
       "ph": {
         "2026-11-21": 33.74,
-        "2026-11-22": 33.74
+        "2026-11-22": 33.74,
+        "2026-11-23": 33.74
       },
       "low_price": 33.74,
       "ph_ean": "5702016617757",
       "rating": 4.9,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "LEGO",
       "name": "DUPLO Dieren verzorgen op de boerderij (10416)",
-      "price": 83.99,
+      "price": 79.99,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -133,12 +135,15 @@
       "image": "https://media.s-bol.com/2KRjpGNmgjLK/jYQ5qEv/550x378.jpg",
       "ph": {
         "2026-11-21": 83.99,
-        "2026-11-22": 83.99
+        "2026-11-22": 83.99,
+        "2026-11-23": 79.99
       },
-      "low_price": 83.99,
+      "low_price": 79.99,
       "ph_ean": "5702017583266",
       "rating": 5.0,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 83.99,
+      "prev_date": "2026-11-22"
     },
     {
       "brand": "LEGO",
@@ -172,12 +177,13 @@
       "image": "https://media.s-bol.com/xKGY0Ez681kJ/A6qWAV1/550x380.jpg",
       "ph": {
         "2026-11-21": 103.58,
-        "2026-11-22": 104.99
+        "2026-11-22": 104.99,
+        "2026-11-23": 104.99
       },
       "low_price": 103.58,
       "ph_ean": "5702017417714",
       "rating": 4.9,
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "prev_price": 103.58,
       "prev_date": "2026-11-21"
     },
@@ -213,12 +219,13 @@
       "image": "https://media.s-bol.com/vG29Ggr7ZzML/jZ7KJJl/550x575.jpg",
       "ph": {
         "2026-11-21": 15.99,
-        "2026-11-22": 15.99
+        "2026-11-22": 15.99,
+        "2026-11-23": 15.99
       },
       "low_price": 15.99,
       "ph_ean": "5702018056578",
       "rating": 4.8,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "LEGO",
@@ -252,17 +259,18 @@
       "image": "https://media.s-bol.com/Y36jA1ykDW7O/RlYj8VK/550x405.jpg",
       "ph": {
         "2026-11-21": 44.99,
-        "2026-11-22": 44.99
+        "2026-11-22": 44.99,
+        "2026-11-23": 44.99
       },
       "low_price": 44.99,
       "ph_ean": "5702018056479",
       "rating": 5.0,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "LEGO",
       "name": "DUPLO 3-in-1 Bouwvoertuigen (10475)",
-      "price": 17.64,
+      "price": 19.0,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -291,17 +299,20 @@
       "image": "https://media.s-bol.com/B3m2nM1v0xDQ/J8zArMy/550x563.jpg",
       "ph": {
         "2026-11-21": 17.64,
-        "2026-11-22": 17.64
+        "2026-11-22": 17.64,
+        "2026-11-23": 19.0
       },
       "low_price": 17.64,
       "ph_ean": "5702018032022",
       "rating": 5.0,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 17.64,
+      "prev_date": "2026-11-22"
     },
     {
       "brand": "LEGO",
       "name": "DUPLO Mijn eerste Getallentrein (10954)",
-      "price": 16.39,
+      "price": 16.29,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -330,12 +341,15 @@
       "image": "https://media.s-bol.com/J16L3JODEM6J/OkmOZL/550x329.jpg",
       "ph": {
         "2026-11-21": 16.39,
-        "2026-11-22": 16.39
+        "2026-11-22": 16.39,
+        "2026-11-23": 16.29
       },
-      "low_price": 16.39,
+      "low_price": 16.29,
       "ph_ean": "5702016911114",
       "rating": 4.8,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 16.39,
+      "prev_date": "2026-11-22"
     },
     {
       "brand": "LEGO",
@@ -369,12 +383,13 @@
       "image": "https://media.s-bol.com/oxl0O1Nj2JkA/qQ65mO2/550x563.jpg",
       "ph": {
         "2026-11-21": 20.99,
-        "2026-11-22": 20.99
+        "2026-11-22": 20.99,
+        "2026-11-23": 20.99
       },
       "low_price": 20.99,
       "ph_ean": "5702018056530",
       "rating": 4.6,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "LEGO",
@@ -408,12 +423,13 @@
       "image": "https://media.s-bol.com/oxYMo7gwpMVL/A6qWEnO/550x406.jpg",
       "ph": {
         "2026-11-21": 50.69,
-        "2026-11-22": 50.69
+        "2026-11-22": 50.69,
+        "2026-11-23": 50.69
       },
       "low_price": 50.69,
       "ph_ean": "5702018056561",
       "rating": 4.1,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     }
   ],
   "verdict": "De DUPLO Interactieve avonturentrein (10427) is de beste DUPLO-set voor de meeste peuters vanaf 2 jaar: een trein die zelf rijdt en reageert op actiestenen, met 14 railelementen voor ongeveer 56 euro. De Kleurrijke creatieve doos (10479) is de beste prijs-kwaliteit met 80 stenen voor rond de 16 euro, al vanaf anderhalf jaar. Wil je groot uitpakken voor een kleuter vanaf 3 jaar, kies dan de 3in1 Boomhut (10993) met 126 stenen.",

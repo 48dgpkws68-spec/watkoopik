@@ -113,11 +113,12 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-forest-frosted-kunstkerstboom-h155-cm-groen/9200000019515527/",
       "image": "https://media.s-bol.com/q0NN4Bl8nyrp/r0RRyYE/550x825.jpg",
       "ph": {
-        "2026-11-22": 89.99
+        "2026-11-22": 89.99,
+        "2026-11-23": 89.99
       },
       "low_price": 89.99,
       "ph_ean": "0756770520322",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Triumph Tree",
@@ -150,16 +151,17 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-bristlecone-kunstkerstboom-h155-x-o99-cm-groen/9200000021403678/",
       "image": "https://media.s-bol.com/zMZPpG1AXk2O/QkG1RJq/537x840.jpg",
       "ph": {
-        "2026-11-22": 109.99
+        "2026-11-22": 109.99,
+        "2026-11-23": 109.99
       },
       "low_price": 109.99,
       "ph_ean": "8711473866506",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Everlands",
       "name": "Grandis Fir 150 cm",
-      "price": 63.7,
+      "price": 72.95,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,9 van 5",
@@ -187,11 +189,14 @@
       "url": "https://www.bol.com/nl/nl/p/everlands-grandis-fir-kunstkerstboom-150-cm-zonder-verlichting/9200000066280967/",
       "image": "https://media.s-bol.com/90PgAmpAXw9x/oZ7GNKk/550x829.jpg",
       "ph": {
-        "2026-11-22": 63.7
+        "2026-11-22": 63.7,
+        "2026-11-23": 72.95
       },
       "low_price": 63.7,
       "ph_ean": "8718532241502",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 63.7,
+      "prev_date": "2026-11-22"
     },
     {
       "brand": "Royal Christmas",
@@ -224,11 +229,12 @@
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-kunstkerstboom-spitsbergen-premium-pe-pvc-150-cm-558-takken-groen/9200000060518679/",
       "image": "https://media.s-bol.com/YLBxkDRxx92K/nZJZMJP/542x840.jpg",
       "ph": {
-        "2026-11-22": 122.55
+        "2026-11-22": 122.55,
+        "2026-11-23": 122.55
       },
       "low_price": 122.55,
       "ph_ean": "8717931858144",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Triumph Tree",
@@ -262,11 +268,12 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-bristlecone-kunstkerstboom-h155-x-o99-cm-144-led-lampjes-donkergroen/9200000030876911/",
       "image": "https://media.s-bol.com/N3JY5XN7p9zz/pZPYgWQ/494x840.jpg",
       "ph": {
-        "2026-11-22": 169.99
+        "2026-11-22": 169.99,
+        "2026-11-23": 169.99
       },
       "low_price": 169.99,
       "ph_ean": "8712799346116",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Triumph Tree",
@@ -299,11 +306,12 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-forest-frosted-kunstkerstboom-smal-h155-x-o86-cm-groen/9200000030876051/",
       "image": "https://media.s-bol.com/oJ51GlP61QEA/rY05m2/465x840.jpg",
       "ph": {
-        "2026-11-22": 110.0
+        "2026-11-22": 110.0,
+        "2026-11-23": 110.0
       },
       "low_price": 110.0,
       "ph_ean": "8712799685215",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Black Box Trees",
@@ -336,16 +344,17 @@
       "url": "https://www.bol.com/nl/nl/p/black-box-kunstkerstboom-grimshaw-112x112x155-cm-pvc-groen/9300000225899662/",
       "image": "https://media.s-bol.com/9ZGMnqjW46yB/mwNqBOp/550x814.jpg",
       "ph": {
-        "2026-11-22": 79.99
+        "2026-11-22": 79.99,
+        "2026-11-23": 79.99
       },
       "low_price": 79.99,
       "ph_ean": "8720362940753",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Black Box Trees",
       "name": "Charlton smal 155 cm",
-      "price": 37.5,
+      "price": 37.97,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -373,11 +382,14 @@
       "url": "https://www.bol.com/nl/nl/p/black-box-kunstkerstboom-charlton-48x48x155cm-pvc-groen/9300000225899651/",
       "image": "https://media.s-bol.com/moEyKW67GVxA/59lMYKY/254x840.jpg",
       "ph": {
-        "2026-11-22": 37.5
+        "2026-11-22": 37.5,
+        "2026-11-23": 37.97
       },
       "low_price": 37.5,
       "ph_ean": "8720967840205",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 37.5,
+      "prev_date": "2026-11-22"
     },
     {
       "brand": "Royal Christmas",
@@ -410,11 +422,12 @@
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-kunstkerstboom-dakota-premium-pvc-hoogte-150-cm-321-takken/9200000053063111/",
       "image": "https://media.s-bol.com/BXoGN989rzBN/rE1kjw/539x840.jpg",
       "ph": {
-        "2026-11-22": 49.0
+        "2026-11-22": 49.0,
+        "2026-11-23": 49.0
       },
       "low_price": 49.0,
       "ph_ean": "8717591881124",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Everlands",
@@ -447,11 +460,12 @@
       "url": "https://www.bol.com/nl/nl/p/everlands-pencil-pine-snowy-h150cm-groen-wit/9300000014587159/",
       "image": "https://media.s-bol.com/4Bjoyjy5YrgJ/9Q6LNpP/274x840.jpg",
       "ph": {
-        "2026-11-22": 35.99
+        "2026-11-22": 35.99,
+        "2026-11-23": 35.99
       },
       "low_price": 35.99,
       "ph_ean": "8718533661361",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     }
   ]
 }

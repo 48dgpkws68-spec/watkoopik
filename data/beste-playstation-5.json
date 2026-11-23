@@ -25,8 +25,8 @@
       "price": 1889.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,6 van 5",
-      "rating": 4.6,
+      "reviews": "bol-score 4,7 van 5",
+      "rating": 4.7,
       "oneliner": "De enige PS5-console die nu bij bol leverbaar is, met 2 TB.",
       "specs": {
         "Model": "PS5 Pro",
@@ -54,11 +54,12 @@
       "ph": {
         "2026-11-20": 1789.0,
         "2026-11-21": 1889.0,
-        "2026-11-22": 1889.0
+        "2026-11-22": 1889.0,
+        "2026-11-23": 1889.0
       },
       "low_price": 1789.0,
       "ph_ean": "0711719595472",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Sony",
@@ -66,8 +67,8 @@
       "price": 59.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,1 van 5",
-      "rating": 4.1,
+      "reviews": "bol-score 4,2 van 5",
+      "rating": 4.2,
       "oneliner": "De standaardcontroller van de PS5, ideaal als tweede controller.",
       "specs": {
         "Model": "DualSense",
@@ -94,11 +95,12 @@
       "ph": {
         "2026-11-20": 59.99,
         "2026-11-21": 59.99,
-        "2026-11-22": 59.99
+        "2026-11-22": 59.99,
+        "2026-11-23": 59.99
       },
       "low_price": 59.99,
       "ph_ean": "0711719827597",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Sony",
@@ -133,11 +135,12 @@
       "image": "https://media.s-bol.com/go2oLWOANvwG/P1r8oXz/550x560.jpg",
       "ph": {
         "2026-11-21": 186.0,
-        "2026-11-22": 186.0
+        "2026-11-22": 186.0,
+        "2026-11-23": 186.0
       },
       "low_price": 186.0,
       "ph_ean": "4548736170964",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Sony",
@@ -175,11 +178,12 @@
         "2026-11-19": 339.99,
         "2026-11-20": 339.99,
         "2026-11-21": 339.99,
-        "2026-11-22": 395.0
+        "2026-11-22": 395.0,
+        "2026-11-23": 395.0
       },
       "low_price": 339.99,
       "ph_ean": "0711719454298",
-      "synced": "2026-11-22",
+      "synced": "2026-11-23",
       "prev_price": 339.99,
       "prev_date": "2026-11-21"
     },
@@ -217,11 +221,12 @@
       "ph": {
         "2026-11-20": 99.99,
         "2026-11-21": 99.99,
-        "2026-11-22": 99.99
+        "2026-11-22": 99.99,
+        "2026-11-23": 99.99
       },
       "low_price": 99.99,
       "ph_ean": "0711719071273",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Sony",
@@ -258,12 +263,13 @@
         "2026-11-19": 249.99,
         "2026-11-20": 249.99,
         "2026-11-21": 249.99,
-        "2026-11-22": 249.99
+        "2026-11-22": 249.99,
+        "2026-11-23": 249.99
       },
       "low_price": 249.99,
       "ph_ean": "0711719580782",
       "rating": 4.3,
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Sony",
@@ -300,11 +306,12 @@
         "2026-11-19": 99.99,
         "2026-11-20": 99.99,
         "2026-11-21": 99.99,
-        "2026-11-22": 99.99
+        "2026-11-22": 99.99,
+        "2026-11-23": 99.99
       },
       "low_price": 99.99,
       "ph_ean": "0711719580799",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Sony",
@@ -339,11 +346,12 @@
       "image": "https://media.s-bol.com/Eg6j5zXJNBQk/n5XV1QD/550x502.jpg",
       "ph": {
         "2026-11-21": 32.99,
-        "2026-11-22": 32.99
+        "2026-11-22": 32.99,
+        "2026-11-23": 32.99
       },
       "low_price": 32.99,
       "ph_ean": "0711719374107",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Sony",
@@ -351,7 +359,7 @@
       "price": 177.0,
       "score": 7.9,
       "label": null,
-      "reviews": "bol-score 4,1 van 5",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Pro-controller voor je PS5 met achtertoetsen en profielen.",
       "specs": {
         "Model": "DualSense Edge",
@@ -372,7 +380,7 @@
       "ideal": "Fanatieke gamers die hun bediening precies willen afstellen.",
       "text": "De DualSense Edge is de duurdere controller van Sony voor de PS5. Net als de VR2 en de Disc Drive is het geen console, maar een uitbreiding voor wie al een PS5 heeft. Hij heeft alle functies van de gewone DualSense, zoals haptische feedback en adaptieve triggers, maar je kunt veel meer zelf instellen.\n\nAan de achterkant zitten verwisselbare toetsen, met twee vormen om uit te kiezen. Die geef je elk commando dat je wilt, zodat je je duimen op de sticks houdt. De afstand van de triggers stel je in voor snellere reacties en de gevoeligheid en dode zones van de sticks pas je aan per game. Tussen bedieningsprofielen wissel je snel. Raken de sticks na intensief gebruik versleten, dan vervang je alleen de stickmodule, die bol los verkoopt. Opladen gaat via USB-C in ongeveer drie uur. Kopers op bol geven hem een 4,1 van 5, net als de gewone DualSense. Voor wie veel competitief speelt is hij het geld waard.",
       "ean": "0711719028871",
-      "rating": 4.1,
+      "rating": 4.2,
       "bol_title": "Sony PS5 DualSense Edge Draadloze Controller - Midnight Black",
       "url": "https://www.bol.com/nl/nl/p/sony-dualsense-edge-draadloze-controller-ps5-midnight-black/9300000222945147/",
       "image": "https://media.s-bol.com/BAr7vN5opGnX/1wPZo8R/550x364.jpg",
@@ -380,11 +388,12 @@
         "2026-11-19": 177.0,
         "2026-11-20": 177.0,
         "2026-11-21": 177.0,
-        "2026-11-22": 177.0
+        "2026-11-22": 177.0,
+        "2026-11-23": 177.0
       },
       "low_price": 177.0,
       "ph_ean": "0711719028871",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Sony",
@@ -420,11 +429,12 @@
       "ph": {
         "2026-11-20": 59.99,
         "2026-11-21": 59.99,
-        "2026-11-22": 59.99
+        "2026-11-22": 59.99,
+        "2026-11-23": 59.99
       },
       "low_price": 59.99,
       "ph_ean": "0711719567929",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     }
   ],
   "guide": [

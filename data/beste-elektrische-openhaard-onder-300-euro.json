@@ -63,11 +63,12 @@
       "url": "https://www.bol.com/nl/nl/p/dimplex-club-optiflame-elektrische-sfeerhaard-vrijstaande-elektrische-haard-met-houtset-led-vuureffect-2kw-verwarming-en-afstandsbediening/9300000230192045/",
       "image": "https://media.s-bol.com/Joq9GpZx2xxg/984PBP3/550x542.jpg",
       "ph": {
-        "2026-11-22": 179.0
+        "2026-11-22": 179.0,
+        "2026-11-23": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "5011139061454",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Dimplex",
@@ -102,11 +103,12 @@
       "url": "https://www.bol.com/nl/nl/p/dimplex-sfeerhaard-elektrisch-emberley-3d-vlam-effect-met-verwarming-en-open-haard-led-haard-met-optiflame-vlam-effect-2kw-luchtverhitter-inclusief-afstandsbediening-en-app-bediening/9300000237753006/",
       "image": "https://media.s-bol.com/Jo8zLyp15o2K/Bg40V8N/550x518.jpg",
       "ph": {
-        "2026-11-22": 245.0
+        "2026-11-22": 245.0,
+        "2026-11-23": 245.0
       },
       "low_price": 245.0,
       "ph_ean": "5011139089786",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Dimplex",
@@ -140,16 +142,17 @@
       "url": "https://www.bol.com/nl/nl/p/dimplex-springborne-sfeerhaard-elektrisch-vrijstaande-elektrische-haard-2000-watt-verwarming-optiflame-led-vlameffect-ventilatorkachel-thermostaat-openhaard-bedienbaar-via-afstandsbediening/9300000005207014/",
       "image": "https://media.s-bol.com/m354nPwRZZP9/oQ2Zn7X/550x677.jpg",
       "ph": {
-        "2026-11-22": 129.0
+        "2026-11-22": 129.0,
+        "2026-11-23": 129.0
       },
       "low_price": 129.0,
       "ph_ean": "5011139061478",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "Dimplex",
       "name": "Optimyst 3-in-1",
-      "price": 139.99,
+      "price": 159.99,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -179,16 +182,19 @@
       "url": "https://www.bol.com/nl/nl/p/dimplex-optimyst-3-in-1-elektrische-kachel-met-sfeerhaard-vlameffect-op-waterdamp-en-luchtbevochtiger-2000-w-thermostaat-5-35-c-24-uurs-timer-afstandsbediening-kinderslot-voor-ruimtes-tot-60-m/9300000383301166/",
       "image": "https://media.s-bol.com/E38kxAR8K81K/z6pKKk5/550x218.jpg",
       "ph": {
-        "2026-11-22": 139.99
+        "2026-11-22": 139.99,
+        "2026-11-23": 159.99
       },
       "low_price": 139.99,
       "ph_ean": "8716412237249",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 139.99,
+      "prev_date": "2026-11-22"
     },
     {
       "brand": "Dimplex",
       "name": "Tango",
-      "price": 141.0,
+      "price": 169.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -216,11 +222,14 @@
       "url": "https://www.bol.com/nl/nl/p/tango/9300000161085458/",
       "image": "https://media.s-bol.com/NRZMvp8XMQ3p/DBLpjq/550x690.jpg",
       "ph": {
-        "2026-11-22": 141.0
+        "2026-11-22": 141.0,
+        "2026-11-23": 169.0
       },
       "low_price": 141.0,
       "ph_ean": "5011139061485",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 141.0,
+      "prev_date": "2026-11-22"
     },
     {
       "brand": "EVIQ",
@@ -254,11 +263,12 @@
       "url": "https://www.bol.com/nl/nl/p/eviq-elektrische-haard-toronto-sfeerhaard-elektrische-kachel-vrijstaand-2000-watt-zwart/9300000158915651/",
       "image": "https://media.s-bol.com/g0xm12xLPZr3/j2jQPPW/550x559.jpg",
       "ph": {
-        "2026-11-22": 179.0
+        "2026-11-22": 179.0,
+        "2026-11-23": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "8720153257534",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "MOA",
@@ -292,11 +302,12 @@
       "url": "https://www.bol.com/nl/nl/p/moa-sfeerhaard-elektrisch-tot-25m-haard-met-verwarming-2000w-kachel-vrijstaand-openhaard-realistisch-vlameffect-zwart/9300000393083299/",
       "image": "https://media.s-bol.com/mv7mGoOgw5vG/w0VBzrM/490x840.jpg",
       "ph": {
-        "2026-11-22": 219.99
+        "2026-11-22": 219.99,
+        "2026-11-23": 219.99
       },
       "low_price": 219.99,
       "ph_ean": "8718001003020",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "KESSER",
@@ -330,11 +341,12 @@
       "url": "https://www.bol.com/nl/nl/p/kesser-sfeerhaard-elektrische-haard-met-ventilatorkachel-afstandsbediening-wifi-app-950-1900-w-led-vlam-effect-elektrische-verwarming-met-thermostaat-panorama-kijkvenster-verwarmingsfunctie-timer-extra-groot-zwart/9300000159536142/",
       "image": "https://media.s-bol.com/K3RkjMBVWQ2n/k2DLmyY/548x840.jpg",
       "ph": {
-        "2026-11-22": 232.8
+        "2026-11-22": 232.8,
+        "2026-11-23": 232.8
       },
       "low_price": 232.8,
       "ph_ean": "4260729112170",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "tectake",
@@ -369,16 +381,17 @@
       "url": "https://www.bol.com/nl/nl/p/tectake-wandhaard-elektrische-haard-sfeerhaard-91-5-x-12-x-43-cm-900w-1800w-bediening-met-afstandsbediening-of-app-met-thermostaat-kachel-met-verwarming-haarden-hout-en-gloeieffecten-3d-vlammen-timer/9300000251745324/",
       "image": "https://media.s-bol.com/mvkRD43EL7p0/pZRGBpm/550x478.jpg",
       "ph": {
-        "2026-11-22": 164.99
+        "2026-11-22": 164.99,
+        "2026-11-23": 164.99
       },
       "low_price": 164.99,
       "ph_ean": "4061173305831",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23"
     },
     {
       "brand": "tectake",
       "name": "Leora vrijstaande haard",
-      "price": 161.99,
+      "price": 157.94,
       "score": 7.9,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -407,11 +420,14 @@
       "url": "https://www.bol.com/nl/nl/p/tectake-elektrische-haard-sfeerhaard-900w-1800w-bediening-met-afstandsbediening-of-app-vrijstaand-kachel-met-verwarming-haarden-met-hout-en-gloeieffecten-3d-vlammen-timer-8-kleuropties/9300000250777246/",
       "image": "https://media.s-bol.com/g0R3lrADBXyl/lOn5vMl/550x648.jpg",
       "ph": {
-        "2026-11-22": 161.99
+        "2026-11-22": 161.99,
+        "2026-11-23": 157.94
       },
-      "low_price": 161.99,
+      "low_price": 157.94,
       "ph_ean": "4061173305879",
-      "synced": "2026-11-22"
+      "synced": "2026-11-23",
+      "prev_price": 161.99,
+      "prev_date": "2026-11-22"
     }
   ],
   "guide": [
