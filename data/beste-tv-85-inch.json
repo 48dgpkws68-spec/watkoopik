@@ -24,7 +24,7 @@
     {
       "brand": "TCL",
       "name": "85T8D",
-      "price": 1298.0,
+      "price": 1292.0,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 5,0 van 5",
@@ -70,13 +70,14 @@
         "2026-11-20": 1298.0,
         "2026-11-21": 1298.0,
         "2026-11-22": 1298.0,
-        "2026-11-23": 1298.0
+        "2026-11-23": 1298.0,
+        "2026-11-24": 1292.0
       },
       "low_price": 1107.0,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "ph_ean": "5901292531041",
-      "prev_price": 1107.0,
-      "prev_date": "2026-11-18",
+      "prev_price": 1298.0,
+      "prev_date": "2026-11-23",
       "rating": 5.0
     },
     {
@@ -124,10 +125,11 @@
         "2026-11-20": 1199.0,
         "2026-11-21": 1199.0,
         "2026-11-22": 1199.0,
-        "2026-11-23": 1199.0
+        "2026-11-23": 1199.0,
+        "2026-11-24": 1199.0
       },
       "low_price": 1199.0,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "ph_ean": "6942351436074",
       "rating": 4.7
     },
@@ -180,10 +182,11 @@
         "2026-11-20": 3299.0,
         "2026-11-21": 3299.0,
         "2026-11-22": 3299.0,
-        "2026-11-23": 3299.0
+        "2026-11-23": 3299.0,
+        "2026-11-24": 3299.0
       },
       "low_price": 3299.0,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "ph_ean": "4548736178250"
     },
     {
@@ -234,17 +237,18 @@
         "2026-11-20": 1799.0,
         "2026-11-21": 1799.0,
         "2026-11-22": 1799.0,
-        "2026-11-23": 1799.0
+        "2026-11-23": 1799.0,
+        "2026-11-24": 1799.0
       },
       "low_price": 1799.0,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "ph_ean": "5901292529970",
       "rating": 5.0
     },
     {
       "brand": "LG",
       "name": "85NU850B6LA",
-      "price": 929.0,
+      "price": 899.0,
       "score": 8.4,
       "label": null,
       "reviews": "",
@@ -281,11 +285,14 @@
         "2026-11-20": 929.0,
         "2026-11-21": 929.0,
         "2026-11-22": 929.0,
-        "2026-11-23": 929.0
+        "2026-11-23": 929.0,
+        "2026-11-24": 899.0
       },
-      "low_price": 929.0,
+      "low_price": 899.0,
       "ph_ean": "8806096716274",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 929.0,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Sony",
@@ -333,10 +340,11 @@
         "2026-11-20": 1599.0,
         "2026-11-21": 1599.0,
         "2026-11-22": 1599.0,
-        "2026-11-23": 1599.0
+        "2026-11-23": 1599.0,
+        "2026-11-24": 1599.0
       },
       "low_price": 1599.0,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "ph_ean": "4548736172265",
       "rating": 4.6,
       "prev_price": 1699.0,
@@ -390,10 +398,11 @@
         "2026-11-20": 1298.99,
         "2026-11-21": 1298.99,
         "2026-11-22": 1298.99,
-        "2026-11-23": 1298.99
+        "2026-11-23": 1298.99,
+        "2026-11-24": 1298.99
       },
       "low_price": 1298.99,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "ph_ean": "6941948709317"
     },
     {
@@ -428,12 +437,13 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-85q7d-pro-85-inch-4k-qd-miniled-2026-smart-tv/9300000273452858/",
       "image": "https://media.s-bol.com/3LlzR445GlxR/vQqYOR0/550x330.jpg",
       "ph": {
-        "2026-11-23": 1599.0
+        "2026-11-23": 1599.0,
+        "2026-11-24": 1599.0
       },
       "low_price": 1599.0,
       "ph_ean": "5901292531751",
       "rating": 5.0,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Hisense",
@@ -483,10 +493,11 @@
         "2026-11-20": 999.0,
         "2026-11-21": 999.0,
         "2026-11-22": 999.0,
-        "2026-11-23": 999.0
+        "2026-11-23": 999.0,
+        "2026-11-24": 999.0
       },
       "low_price": 999.0,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "ph_ean": "6942351432076",
       "rating": 4.8
     },
@@ -495,7 +506,7 @@
       "name": "UE85U7020F",
       "price": 899.0,
       "score": 8.1,
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 3,8 van 5",
       "oneliner": "De goedkoopste 85 inch van een A-merk.",
       "specs": {
         "Paneel": "LED (Crystal UHD)",
@@ -515,7 +526,7 @@
         "Matige helderheid voor HDR"
       ],
       "ideal": "Wie zo groot mogelijk wil voor zo weinig mogelijk geld en vooral tv kijkt.",
-      "text": "De Samsung UE85U7020F is de goedkoopste manier om 85 inch in huis te halen. Voor ongeveer 900 euro, rond 11 euro per inch, krijg je een 4K led-tv uit de Crystal UHD-serie van 2025. Tizen is snel en heeft de Nederlandse streamingapps. Kopers op bol geven hem gemiddeld 4,4 van 5 en zijn vooral tevreden over het formaat en het gebruiksgemak.\n\nVerwacht geen bioscoopbeeld. Er zit geen quantum-dotlaag en geen local dimming in, dus zwart is grijs en kleuren zijn minder verzadigd dan bij de Hi-QLED- en Mini-LED-modellen. De helderheid is te laag om HDR echt tot zijn recht te laten komen. Het paneel haalt 60 Hz en Dolby Vision ontbreekt. Voor het journaal, voetbal overdag en series op Netflix is dat prima. Ben je vooral filmkijker of gamer, leg dan ongeveer 300 euro bij voor de Hisense 85E7S PRO of 400 euro voor de TCL 85T8D.",
+      "text": "De Samsung UE85U7020F is de goedkoopste manier om 85 inch in huis te halen. Voor ongeveer 900 euro, rond 11 euro per inch, krijg je een 4K led-tv uit de Crystal UHD-serie van 2025. Tizen is snel en heeft de Nederlandse streamingapps. Kopers op bol geven hem gemiddeld 3,8 van 5 en zijn vooral tevreden over het formaat en het gebruiksgemak.\n\nVerwacht geen bioscoopbeeld. Er zit geen quantum-dotlaag en geen local dimming in, dus zwart is grijs en kleuren zijn minder verzadigd dan bij de Hi-QLED- en Mini-LED-modellen. De helderheid is te laag om HDR echt tot zijn recht te laten komen. Het paneel haalt 60 Hz en Dolby Vision ontbreekt. Voor het journaal, voetbal overdag en series op Netflix is dat prima. Ben je vooral filmkijker of gamer, leg dan ongeveer 300 euro bij voor de Hisense 85E7S PRO of 400 euro voor de TCL 85T8D.",
       "ean": "8806097253310",
       "bol_title": "Samsung UE85U7020F - 85 Inch - 4K LED - 2025 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-ue85u7020f-85-inch-4k-led-2025/9300000232237498/",
@@ -534,12 +545,13 @@
         "2026-11-20": 899.0,
         "2026-11-21": 899.0,
         "2026-11-22": 899.0,
-        "2026-11-23": 899.0
+        "2026-11-23": 899.0,
+        "2026-11-24": 899.0
       },
       "low_price": 899.0,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "ph_ean": "8806097253310",
-      "rating": 4.4
+      "rating": 3.8
     }
   ],
   "guide": [

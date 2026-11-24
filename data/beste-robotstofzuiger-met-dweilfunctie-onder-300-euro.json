@@ -63,12 +63,13 @@
       "image": "https://media.s-bol.com/jDQP7xPKqYYW/l5ZWjWr/550x537.jpg",
       "ph": {
         "2026-11-22": 249.0,
-        "2026-11-23": 249.0
+        "2026-11-23": 249.0,
+        "2026-11-24": 249.0
       },
       "low_price": 249.0,
       "ph_ean": "6979463770543",
       "rating": 4.5,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Ecovacs",
@@ -103,12 +104,13 @@
       "image": "https://media.s-bol.com/1JLVDDVy4JJ3/79xmMyj/550x645.jpg",
       "ph": {
         "2026-11-22": 264.0,
-        "2026-11-23": 264.0
+        "2026-11-23": 264.0,
+        "2026-11-24": 264.0
       },
       "low_price": 264.0,
       "ph_ean": "6979463770871",
       "rating": 4.5,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Roborock",
@@ -143,17 +145,18 @@
       "image": "https://media.s-bol.com/q4k4rpLDMXRp/pgRQR4y/550x396.jpg",
       "ph": {
         "2026-11-22": 179.99,
-        "2026-11-23": 179.99
+        "2026-11-23": 179.99,
+        "2026-11-24": 179.99
       },
       "low_price": 179.99,
       "ph_ean": "6936905902177",
       "rating": 4.3,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Xiaomi",
       "name": "Robot Vacuum H50",
-      "price": 282.99,
+      "price": 275.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -182,12 +185,15 @@
       "image": "https://media.s-bol.com/QwxDkmjkONp9/l59VlqV/550x615.jpg",
       "ph": {
         "2026-11-22": 282.99,
-        "2026-11-23": 282.99
+        "2026-11-23": 282.99,
+        "2026-11-24": 275.0
       },
-      "low_price": 282.99,
+      "low_price": 275.0,
       "ph_ean": "6932554458287",
       "rating": 5.0,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 282.99,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Dreame",
@@ -221,17 +227,18 @@
       "image": "https://media.s-bol.com/gg950vrx2g9D/vorXpGn/550x474.jpg",
       "ph": {
         "2026-11-22": 199.0,
-        "2026-11-23": 199.0
+        "2026-11-23": 199.0,
+        "2026-11-24": 199.0
       },
       "low_price": 199.0,
       "ph_ean": "6979181921494",
       "rating": 4.4,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Xiaomi",
       "name": "Robot Vacuum S40 Pro",
-      "price": 242.25,
+      "price": 219.0,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,0 van 5",
@@ -260,14 +267,15 @@
       "image": "https://media.s-bol.com/74M0XBk2VPyy/r8EMnyK/550x611.jpg",
       "ph": {
         "2026-11-22": 219.0,
-        "2026-11-23": 242.25
+        "2026-11-23": 242.25,
+        "2026-11-24": 219.0
       },
       "low_price": 219.0,
       "ph_ean": "6932554447052",
       "rating": 4.0,
-      "synced": "2026-11-23",
-      "prev_price": 219.0,
-      "prev_date": "2026-11-22"
+      "synced": "2026-11-24",
+      "prev_price": 242.25,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Tapo",
@@ -302,12 +310,13 @@
       "image": "https://media.s-bol.com/YDzxo3qkQqMp/XDV9nOm/550x470.jpg",
       "ph": {
         "2026-11-22": 235.0,
-        "2026-11-23": 235.0
+        "2026-11-23": 235.0,
+        "2026-11-24": 235.0
       },
       "low_price": 235.0,
       "ph_ean": "8885020625134",
       "rating": 4.3,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "eufy",
@@ -315,7 +324,7 @@
       "price": 229.0,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Robot met leegstation en losse dweilmodule voor harde vloeren.",
       "specs": {
         "Dweil": "Dweilmodule",
@@ -341,12 +350,13 @@
       "image": "https://media.s-bol.com/j3AqN4KlxEp5/j2pVwwB/550x561.jpg",
       "ph": {
         "2026-11-22": 229.0,
-        "2026-11-23": 229.0
+        "2026-11-23": 229.0,
+        "2026-11-24": 229.0
       },
       "low_price": 229.0,
       "ph_ean": "0194644178116",
-      "rating": 4.3,
-      "synced": "2026-11-23"
+      "rating": 4.2,
+      "synced": "2026-11-24"
     },
     {
       "brand": "iRobot",
@@ -381,12 +391,13 @@
       "image": "https://media.s-bol.com/3n1r5g74RkDp/R6yQPkw/550x534.jpg",
       "ph": {
         "2026-11-22": 186.0,
-        "2026-11-23": 186.0
+        "2026-11-23": 186.0,
+        "2026-11-24": 186.0
       },
       "low_price": 186.0,
       "ph_ean": "5061042263025",
       "rating": 5.0,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Medion",
@@ -420,11 +431,12 @@
       "image": "https://media.s-bol.com/P4xW9pVMoB6l/81ny7zr/550x550.jpg",
       "ph": {
         "2026-11-22": 219.95,
-        "2026-11-23": 219.95
+        "2026-11-23": 219.95,
+        "2026-11-24": 219.95
       },
       "low_price": 219.95,
       "ph_ean": "4061275249545",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     }
   ],
   "guide": [

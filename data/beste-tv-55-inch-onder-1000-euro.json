@@ -62,12 +62,13 @@
       "image": "https://media.s-bol.com/oryjWjxALw2k/jRjPLg4/550x349.jpg",
       "ph": {
         "2026-11-22": 799.0,
-        "2026-11-23": 799.0
+        "2026-11-23": 799.0,
+        "2026-11-24": 799.0
       },
       "low_price": 799.0,
       "ph_ean": "8806096360576",
       "rating": 5.0,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "TCL",
@@ -101,12 +102,13 @@
       "image": "https://media.s-bol.com/7P8q7gM2JPPO/lxjvRB6/550x333.jpg",
       "ph": {
         "2026-11-22": 899.0,
-        "2026-11-23": 899.0
+        "2026-11-23": 899.0,
+        "2026-11-24": 899.0
       },
       "low_price": 899.0,
       "ph_ean": "5901292531515",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Hisense",
@@ -140,11 +142,12 @@
       "image": "https://media.s-bol.com/qzXVEgk1P52R/z6xQklY/550x349.jpg",
       "ph": {
         "2026-11-22": 549.0,
-        "2026-11-23": 549.0
+        "2026-11-23": 549.0,
+        "2026-11-24": 549.0
       },
       "low_price": 549.0,
       "ph_ean": "6942351433677",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Philips",
@@ -178,11 +181,12 @@
       "image": "https://media.s-bol.com/pyKV3EYwGDDr/w0nBwGJ/550x342.jpg",
       "ph": {
         "2026-11-22": 899.0,
-        "2026-11-23": 899.0
+        "2026-11-23": 899.0,
+        "2026-11-24": 899.0
       },
       "low_price": 899.0,
       "ph_ean": "8718863052037",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Samsung",
@@ -216,12 +220,13 @@
       "image": "https://media.s-bol.com/YgYqw7o26xrO/71A78Ry/550x334.jpg",
       "ph": {
         "2026-11-22": 699.0,
-        "2026-11-23": 699.0
+        "2026-11-23": 699.0,
+        "2026-11-24": 699.0
       },
       "low_price": 699.0,
       "ph_ean": "8806099129583",
       "rating": 5.0,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "TCL",
@@ -255,12 +260,13 @@
       "image": "https://media.s-bol.com/J3Z0G4Oxk5wv/Z8Ow336/550x330.jpg",
       "ph": {
         "2026-11-22": 799.0,
-        "2026-11-23": 799.0
+        "2026-11-23": 799.0,
+        "2026-11-24": 799.0
       },
       "low_price": 799.0,
       "ph_ean": "5901292531782",
       "rating": 5.0,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Sony",
@@ -268,7 +274,7 @@
       "price": 969.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Mini LED met de natuurlijke beeldverwerking van Sony.",
       "specs": {
         "Paneel": "XR Mini LED",
@@ -294,12 +300,13 @@
       "image": "https://media.s-bol.com/JmQk5qmqJzyD/VP5N6G9/550x333.jpg",
       "ph": {
         "2026-11-22": 969.0,
-        "2026-11-23": 969.0
+        "2026-11-23": 969.0,
+        "2026-11-24": 969.0
       },
       "low_price": 969.0,
       "ph_ean": "4548736171367",
-      "rating": 4.6,
-      "synced": "2026-11-23"
+      "rating": 4.7,
+      "synced": "2026-11-24"
     },
     {
       "brand": "Samsung",
@@ -333,12 +340,13 @@
       "image": "https://media.s-bol.com/qzQ366jm429y/XQDzBDA/550x336.jpg",
       "ph": {
         "2026-11-22": 619.0,
-        "2026-11-23": 619.0
+        "2026-11-23": 619.0,
+        "2026-11-24": 619.0
       },
       "low_price": 619.0,
       "ph_ean": "8806099133849",
       "rating": 4.5,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Philips",
@@ -371,19 +379,20 @@
       "image": "https://media.s-bol.com/74g6rLgqk0Xr/BNkRBzo/550x355.jpg",
       "ph": {
         "2026-11-22": 699.0,
-        "2026-11-23": 696.0
+        "2026-11-23": 696.0,
+        "2026-11-24": 696.0
       },
       "low_price": 696.0,
       "ph_ean": "8718863048658",
       "rating": 4.1,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "prev_price": 699.0,
       "prev_date": "2026-11-22"
     },
     {
       "brand": "Xiaomi",
       "name": "TV S Pro Mini LED 2026 55 inch",
-      "price": 648.99,
+      "price": 622.95,
       "score": 8.2,
       "label": null,
       "reviews": "",
@@ -412,11 +421,14 @@
       "image": "https://media.s-bol.com/qvOQ1N0MBEAG/nr3zppE/550x341.jpg",
       "ph": {
         "2026-11-22": 648.99,
-        "2026-11-23": 648.99
+        "2026-11-23": 648.99,
+        "2026-11-24": 622.95
       },
-      "low_price": 648.99,
+      "low_price": 622.95,
       "ph_ean": "6941948707597",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 648.99,
+      "prev_date": "2026-11-23"
     }
   ],
   "guide": [

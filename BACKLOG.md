@@ -339,3 +339,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-4-seizoenen-dekbed-2-persoons | slapen | 4 seizoenen dekbed 2 persoons | De 10 beste 4-seizoenendekbedden voor 2 personen van 2026 | 🛏️ (google_wacht)
 [x] beste-kunstkerstboom-met-verlichting-onder-100-euro | wonen | kunstkerstboom met verlichting onder 100 euro | De 10 beste kunstkerstbomen met verlichting onder 100 euro van 2026 | 🎄 (google_wacht)
 [x] beste-hoekbank-onder-1000-euro | wonen | hoekbank onder 1000 euro | De 10 beste hoekbanken onder 1000 euro van 2026 | 🛋️ (google_wacht)
+[x] beste-kunstkerstboom-smal | wonen | smalle kunstkerstboom | De 10 beste smalle kunstkerstbomen van 2026 | 🎄 (google_wacht)
+[x] beste-gaming-stoel-onder-200-euro | gaming | gaming stoel onder 200 euro | De 10 beste gaming stoelen onder 200 euro van 2026 | 🎮 (google_wacht)

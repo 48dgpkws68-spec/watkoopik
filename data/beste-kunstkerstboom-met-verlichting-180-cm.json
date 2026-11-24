@@ -64,16 +64,17 @@
       "image": "https://media.s-bol.com/qBkKyrKB7l33/qjpZZl2/550x573.jpg",
       "ph": {
         "2026-11-22": 149.0,
-        "2026-11-23": 149.0
+        "2026-11-23": 149.0,
+        "2026-11-24": 149.0
       },
       "low_price": 149.0,
       "ph_ean": "8717591889298",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Triumph Tree",
       "name": "Bristlecone 185 cm met 184 LED",
-      "price": 197.0,
+      "price": 178.63,
       "score": 9.2,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -104,16 +105,19 @@
       "image": "https://media.s-bol.com/0G6oVXjo33y3/BrjRYgn/493x840.jpg",
       "ph": {
         "2026-11-22": 197.0,
-        "2026-11-23": 197.0
+        "2026-11-23": 197.0,
+        "2026-11-24": 178.63
       },
-      "low_price": 197.0,
+      "low_price": 178.63,
       "ph_ean": "8712799346123",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 197.0,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Everlands",
       "name": "Allison Fir 180 cm met 320 LED",
-      "price": 108.95,
+      "price": 116.6,
       "score": 9.1,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 5,0 van 5",
@@ -143,11 +147,14 @@
       "image": "https://media.s-bol.com/vGV4R4552rxX/gpEOpJ9/477x840.jpg",
       "ph": {
         "2026-11-22": 108.95,
-        "2026-11-23": 108.95
+        "2026-11-23": 108.95,
+        "2026-11-24": 116.6
       },
       "low_price": 108.95,
       "ph_ean": "8720194653234",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 108.95,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Black Box Trees",
@@ -183,11 +190,12 @@
       "image": "https://media.s-bol.com/p9mvgJPgJLgX/6RMQrA9/466x840.jpg",
       "ph": {
         "2026-11-22": 256.9,
-        "2026-11-23": 256.9
+        "2026-11-23": 256.9,
+        "2026-11-24": 256.9
       },
       "low_price": 256.9,
       "ph_ean": "8711473764000",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "PristinePine",
@@ -223,11 +231,12 @@
       "image": "https://media.s-bol.com/38M1LqKD6rMr/j2NxqER/550x606.jpg",
       "ph": {
         "2026-11-22": 169.95,
-        "2026-11-23": 169.95
+        "2026-11-23": 169.95,
+        "2026-11-24": 169.95
       },
       "low_price": 169.95,
       "ph_ean": "8720929477647",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Royal Christmas",
@@ -262,16 +271,17 @@
       "image": "https://media.s-bol.com/xgmB34o4Z82P/AnkvyvO/541x840.jpg",
       "ph": {
         "2026-11-22": 113.05,
-        "2026-11-23": 113.05
+        "2026-11-23": 113.05,
+        "2026-11-24": 113.05
       },
       "low_price": 113.05,
       "ph_ean": "8717931854696",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Everlands",
       "name": "Alpbach Fir 180 cm met 160 LED",
-      "price": 103.49,
+      "price": 98.9,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -301,11 +311,14 @@
       "image": "https://media.s-bol.com/J3vK7YmXgKJo/DqVOXLY/290x840.jpg",
       "ph": {
         "2026-11-22": 103.49,
-        "2026-11-23": 103.49
+        "2026-11-23": 103.49,
+        "2026-11-24": 98.9
       },
-      "low_price": 103.49,
+      "low_price": 98.9,
       "ph_ean": "8720725113220",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 103.49,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Black Box Trees",
@@ -340,11 +353,12 @@
       "image": "https://media.s-bol.com/kEn7MB4x6wAN/k8PBVBv/255x840.jpg",
       "ph": {
         "2026-11-22": 89.99,
-        "2026-11-23": 89.99
+        "2026-11-23": 89.99,
+        "2026-11-24": 89.99
       },
       "low_price": 89.99,
       "ph_ean": "8720983084676",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Buxibo",
@@ -379,11 +393,12 @@
       "image": "https://media.s-bol.com/gm2JMoXRXylY/lROkzOV/550x550.jpg",
       "ph": {
         "2026-11-22": 69.99,
-        "2026-11-23": 69.99
+        "2026-11-23": 69.99,
+        "2026-11-24": 69.99
       },
       "low_price": 69.99,
       "ph_ean": "8720701734838",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Black Box Trees",
@@ -419,11 +434,12 @@
       "image": "https://media.s-bol.com/94E85zQ0o7DY/q7oYXVy/452x840.jpg",
       "ph": {
         "2026-11-22": 57.99,
-        "2026-11-23": 57.99
+        "2026-11-23": 57.99,
+        "2026-11-24": 57.99
       },
       "low_price": 57.99,
       "ph_ean": "8718861279399",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     }
   ],
   "guide": [

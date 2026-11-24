@@ -22,10 +22,10 @@
     {
       "brand": "Sony",
       "name": "PlayStation 5 Slim Digital Edition met 2 DualSense",
-      "price": 1289.0,
+      "price": 1362.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "De enige leverbare PS5-console, met twee controllers in de doos.",
       "specs": {
         "Model": "PS5 Slim Digital Edition",
@@ -44,23 +44,26 @@
         "Maximaal twee per klant bij bol"
       ],
       "ideal": "Wie nu een PS5 wil en direct met z'n tweeën wil spelen.",
-      "text": "De PS5 Slim Digital Edition is op dit moment de enige PlayStation 5-console die bij bol leverbaar is, in een bundel met twee DualSense-controllers. De losse Slim en de PS5 Pro zijn uitverkocht. De Digital Edition is even snel als de versie met schijfstation, maar je koopt en downloadt games via de PlayStation Store. Wil je toch fysieke games spelen, dan klik je de PS5 Disc Drive op plek 7 aan de console. Met de tweede controller kun je direct samen spelen.\n\nLet goed op de prijs. Bij bol kost deze bundel nu rond de 1.289 euro, ver boven de adviesprijs van een PS5 Slim. Kijk daarom goed bij wie je koopt en vergelijk de prijs met andere winkels. Bol hanteert een maximum van twee stuks per klant. Kun je wachten, houd dan in de gaten of de losse Slim of de Pro weer leverbaar wordt. Kopers op bol geven de bundel een 4,7 van 5.",
+      "text": "De PS5 Slim Digital Edition is op dit moment de enige PlayStation 5-console die bij bol leverbaar is, in een bundel met twee DualSense-controllers. De losse Slim en de PS5 Pro zijn uitverkocht. De Digital Edition is even snel als de versie met schijfstation, maar je koopt en downloadt games via de PlayStation Store. Wil je toch fysieke games spelen, dan klik je de PS5 Disc Drive op plek 7 aan de console. Met de tweede controller kun je direct samen spelen.\n\nLet goed op de prijs. Bij bol kost deze bundel nu rond de 1.289 euro, ver boven de adviesprijs van een PS5 Slim. Kijk daarom goed bij wie je koopt en vergelijk de prijs met andere winkels. Bol hanteert een maximum van twee stuks per klant. Kun je wachten, houd dan in de gaten of de losse Slim of de Pro weer leverbaar wordt. Kopers op bol geven de bundel een 4,6 van 5.",
       "ean": "0711719022633",
       "bol_title": "PlayStation 5 Digital Edition - Slim - Bundel met 2 Dualsense Draadloze Controllers",
       "url": "https://www.bol.com/nl/nl/p/playstation-5-digital-edition-dualsense-controller-slim/9300000171979393/",
       "image": "https://media.s-bol.com/BW4M4798gyVx/wmp3ZA1/550x418.jpg",
       "ph": {
-        "2026-11-23": 1289.0
+        "2026-11-23": 1289.0,
+        "2026-11-24": 1362.0
       },
       "low_price": 1289.0,
       "ph_ean": "0711719022633",
-      "rating": 4.7,
-      "synced": "2026-11-23"
+      "rating": 4.6,
+      "synced": "2026-11-24",
+      "prev_price": 1289.0,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Sony",
       "name": "DualSense draadloze controller",
-      "price": 59.99,
+      "price": 54.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,2 van 5",
@@ -92,11 +95,14 @@
         "2026-11-20": 59.99,
         "2026-11-21": 59.99,
         "2026-11-22": 59.99,
-        "2026-11-23": 59.99
+        "2026-11-23": 59.99,
+        "2026-11-24": 54.99
       },
-      "low_price": 59.99,
+      "low_price": 54.99,
       "ph_ean": "0711719827597",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 59.99,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Sony",
@@ -132,16 +138,17 @@
       "ph": {
         "2026-11-21": 186.0,
         "2026-11-22": 186.0,
-        "2026-11-23": 186.0
+        "2026-11-23": 186.0,
+        "2026-11-24": 186.0
       },
       "low_price": 186.0,
       "ph_ean": "4548736170964",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Sony",
       "name": "PlayStation VR2",
-      "price": 395.0,
+      "price": 385.13,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -175,13 +182,14 @@
         "2026-11-20": 339.99,
         "2026-11-21": 339.99,
         "2026-11-22": 395.0,
-        "2026-11-23": 395.0
+        "2026-11-23": 395.0,
+        "2026-11-24": 385.13
       },
       "low_price": 339.99,
       "ph_ean": "0711719454298",
-      "synced": "2026-11-23",
-      "prev_price": 339.99,
-      "prev_date": "2026-11-21"
+      "synced": "2026-11-24",
+      "prev_price": 395.0,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Sony",
@@ -218,11 +226,12 @@
         "2026-11-20": 99.99,
         "2026-11-21": 99.99,
         "2026-11-22": 99.99,
-        "2026-11-23": 99.99
+        "2026-11-23": 99.99,
+        "2026-11-24": 99.99
       },
       "low_price": 99.99,
       "ph_ean": "0711719071273",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Sony",
@@ -260,12 +269,13 @@
         "2026-11-20": 249.99,
         "2026-11-21": 249.99,
         "2026-11-22": 249.99,
-        "2026-11-23": 249.99
+        "2026-11-23": 249.99,
+        "2026-11-24": 249.99
       },
       "low_price": 249.99,
       "ph_ean": "0711719580782",
       "rating": 4.3,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Sony",
@@ -303,11 +313,12 @@
         "2026-11-20": 99.99,
         "2026-11-21": 99.99,
         "2026-11-22": 99.99,
-        "2026-11-23": 99.99
+        "2026-11-23": 99.99,
+        "2026-11-24": 99.99
       },
       "low_price": 99.99,
       "ph_ean": "0711719580799",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Sony",
@@ -343,11 +354,12 @@
       "ph": {
         "2026-11-21": 32.99,
         "2026-11-22": 32.99,
-        "2026-11-23": 32.99
+        "2026-11-23": 32.99,
+        "2026-11-24": 32.99
       },
       "low_price": 32.99,
       "ph_ean": "0711719374107",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Sony",
@@ -385,11 +397,12 @@
         "2026-11-20": 177.0,
         "2026-11-21": 177.0,
         "2026-11-22": 177.0,
-        "2026-11-23": 177.0
+        "2026-11-23": 177.0,
+        "2026-11-24": 177.0
       },
       "low_price": 177.0,
       "ph_ean": "0711719028871",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Sony",
@@ -426,11 +439,12 @@
         "2026-11-20": 59.99,
         "2026-11-21": 59.99,
         "2026-11-22": 59.99,
-        "2026-11-23": 59.99
+        "2026-11-23": 59.99,
+        "2026-11-24": 59.99
       },
       "low_price": 59.99,
       "ph_ean": "0711719567929",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     }
   ],
   "guide": [

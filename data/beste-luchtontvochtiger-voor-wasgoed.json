@@ -65,11 +65,12 @@
       "image": "https://media.s-bol.com/BBgyNOgv6pWW/543x840.jpg",
       "rating": 4.8,
       "ph": {
-        "2026-11-23": 199.99
+        "2026-11-23": 199.99,
+        "2026-11-24": 199.99
       },
       "low_price": 199.99,
       "ph_ean": "4052138015117",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Meaco",
@@ -105,11 +106,12 @@
       "image": "https://media.s-bol.com/JB6AkAv5BJ9v/ElLvk7N/550x576.jpg",
       "rating": 4.8,
       "ph": {
-        "2026-11-23": 516.89
+        "2026-11-23": 516.89,
+        "2026-11-24": 516.89
       },
       "low_price": 516.89,
       "ph_ean": "5060409601777",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Pro Breeze",
@@ -145,11 +147,12 @@
       "image": "https://media.s-bol.com/Joq9Z0Pj6W0y/Q14BgDG/550x550.jpg",
       "rating": 4.7,
       "ph": {
-        "2026-11-23": 179.99
+        "2026-11-23": 179.99,
+        "2026-11-24": 179.99
       },
       "low_price": 179.99,
       "ph_ean": "5060596028203",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "De'Longhi",
@@ -185,11 +188,12 @@
       "image": "https://media.s-bol.com/r3D0NPvlo4yp/VPpRzO5/550x762.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-23": 265.0
+        "2026-11-23": 265.0,
+        "2026-11-24": 265.0
       },
       "low_price": 265.0,
       "ph_ean": "8004399037038",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Philips",
@@ -229,12 +233,12 @@
       },
       "low_price": 406.81,
       "ph_ean": "8720389057618",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Duux",
       "name": "Bora Smart",
-      "price": 216.49,
+      "price": 349.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -265,11 +269,14 @@
       "image": "https://media.s-bol.com/oWz6v36O0lEj/gJM0VKr/550x800.jpg",
       "rating": 4.2,
       "ph": {
-        "2026-11-23": 216.49
+        "2026-11-23": 216.49,
+        "2026-11-24": 349.99
       },
       "low_price": 216.49,
       "ph_ean": "8716164987508",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 216.49,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Eeese",
@@ -305,11 +312,12 @@
       "image": "https://media.s-bol.com/m3v8wgZp9yYE/vo2WmrM/518x840.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-23": 169.0
+        "2026-11-23": 169.0,
+        "2026-11-24": 169.0
       },
       "low_price": 169.0,
       "ph_ean": "5704841025899",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "VONROC",
@@ -345,11 +353,12 @@
       "image": "https://media.s-bol.com/kv3VMQGmjy5J/WnXpNQo/550x763.jpg",
       "rating": 4.7,
       "ph": {
-        "2026-11-23": 148.95
+        "2026-11-23": 148.95,
+        "2026-11-24": 148.95
       },
       "low_price": 148.95,
       "ph_ean": "8717479113781",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "De'Longhi",
@@ -385,11 +394,12 @@
       "image": "https://media.s-bol.com/xB4JRqEBW6O9/Dynn66/520x840.jpg",
       "rating": 4.8,
       "ph": {
-        "2026-11-23": 248.0
+        "2026-11-23": 248.0,
+        "2026-11-24": 248.0
       },
       "low_price": 248.0,
       "ph_ean": "8004399027763",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "EcoAir",
@@ -424,11 +434,12 @@
       "url": "https://www.bol.com/nl/nl/p/ecoair-dd2-simple-adsorptiedroger/9300000226920459/",
       "image": "https://media.s-bol.com/XWDwBBgX9XQm/k5WKv0r/550x603.jpg",
       "ph": {
-        "2026-11-23": 359.0
+        "2026-11-23": 359.0,
+        "2026-11-24": 359.0
       },
       "low_price": 359.0,
       "ph_ean": "5051462013584",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     }
   ],
   "guide": [

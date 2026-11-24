@@ -64,11 +64,12 @@
       "image": "https://media.s-bol.com/Joq9GpZx2xxg/984PBP3/550x542.jpg",
       "ph": {
         "2026-11-22": 179.0,
-        "2026-11-23": 179.0
+        "2026-11-23": 179.0,
+        "2026-11-24": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "5011139061454",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Dimplex",
@@ -104,11 +105,12 @@
       "image": "https://media.s-bol.com/Jo8zLyp15o2K/Bg40V8N/550x518.jpg",
       "ph": {
         "2026-11-22": 245.0,
-        "2026-11-23": 245.0
+        "2026-11-23": 245.0,
+        "2026-11-24": 245.0
       },
       "low_price": 245.0,
       "ph_ean": "5011139089786",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Dimplex",
@@ -143,16 +145,17 @@
       "image": "https://media.s-bol.com/m354nPwRZZP9/oQ2Zn7X/550x677.jpg",
       "ph": {
         "2026-11-22": 129.0,
-        "2026-11-23": 129.0
+        "2026-11-23": 129.0,
+        "2026-11-24": 129.0
       },
       "low_price": 129.0,
       "ph_ean": "5011139061478",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Dimplex",
       "name": "Optimyst 3-in-1",
-      "price": 159.99,
+      "price": 136.0,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -183,18 +186,19 @@
       "image": "https://media.s-bol.com/E38kxAR8K81K/z6pKKk5/550x218.jpg",
       "ph": {
         "2026-11-22": 139.99,
-        "2026-11-23": 159.99
+        "2026-11-23": 159.99,
+        "2026-11-24": 136.0
       },
-      "low_price": 139.99,
+      "low_price": 136.0,
       "ph_ean": "8716412237249",
-      "synced": "2026-11-23",
-      "prev_price": 139.99,
-      "prev_date": "2026-11-22"
+      "synced": "2026-11-24",
+      "prev_price": 159.99,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Dimplex",
       "name": "Tango",
-      "price": 169.0,
+      "price": 137.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -223,13 +227,14 @@
       "image": "https://media.s-bol.com/NRZMvp8XMQ3p/DBLpjq/550x690.jpg",
       "ph": {
         "2026-11-22": 141.0,
-        "2026-11-23": 169.0
+        "2026-11-23": 169.0,
+        "2026-11-24": 137.0
       },
-      "low_price": 141.0,
+      "low_price": 137.0,
       "ph_ean": "5011139061485",
-      "synced": "2026-11-23",
-      "prev_price": 141.0,
-      "prev_date": "2026-11-22"
+      "synced": "2026-11-24",
+      "prev_price": 169.0,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "EVIQ",
@@ -264,16 +269,17 @@
       "image": "https://media.s-bol.com/g0xm12xLPZr3/j2jQPPW/550x559.jpg",
       "ph": {
         "2026-11-22": 179.0,
-        "2026-11-23": 179.0
+        "2026-11-23": 179.0,
+        "2026-11-24": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "8720153257534",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "MOA",
       "name": "Sfeerhaard rond 2000W",
-      "price": 219.99,
+      "price": 199.99,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -303,11 +309,14 @@
       "image": "https://media.s-bol.com/mv7mGoOgw5vG/w0VBzrM/490x840.jpg",
       "ph": {
         "2026-11-22": 219.99,
-        "2026-11-23": 219.99
+        "2026-11-23": 219.99,
+        "2026-11-24": 199.99
       },
-      "low_price": 219.99,
+      "low_price": 199.99,
       "ph_ean": "8718001003020",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 219.99,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "KESSER",
@@ -342,11 +351,12 @@
       "image": "https://media.s-bol.com/K3RkjMBVWQ2n/k2DLmyY/548x840.jpg",
       "ph": {
         "2026-11-22": 232.8,
-        "2026-11-23": 232.8
+        "2026-11-23": 232.8,
+        "2026-11-24": 232.8
       },
       "low_price": 232.8,
       "ph_ean": "4260729112170",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "tectake",
@@ -382,11 +392,12 @@
       "image": "https://media.s-bol.com/mvkRD43EL7p0/pZRGBpm/550x478.jpg",
       "ph": {
         "2026-11-22": 164.99,
-        "2026-11-23": 164.99
+        "2026-11-23": 164.99,
+        "2026-11-24": 164.99
       },
       "low_price": 164.99,
       "ph_ean": "4061173305831",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "tectake",
@@ -421,11 +432,12 @@
       "image": "https://media.s-bol.com/g0R3lrADBXyl/lOn5vMl/550x648.jpg",
       "ph": {
         "2026-11-22": 161.99,
-        "2026-11-23": 157.94
+        "2026-11-23": 157.94,
+        "2026-11-24": 157.94
       },
       "low_price": 157.94,
       "ph_ean": "4061173305879",
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "prev_price": 161.99,
       "prev_date": "2026-11-22"
     }

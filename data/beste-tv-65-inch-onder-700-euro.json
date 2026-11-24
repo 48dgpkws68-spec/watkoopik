@@ -62,12 +62,13 @@
       "url": "https://www.bol.com/nl/nl/p/hisense-65e8s-smart-tv-65-inch-4k-hi-qled-miniled-2026-600-nits-native-144hz-game-mode-built-in-subwoofer-hi-view-ai-engine-hi-qled-colour-dolby-vision-atmos/9300000269685074/",
       "image": "https://media.s-bol.com/E38q77j2ozWK/qQRgpAk/550x350.jpg",
       "ph": {
-        "2026-11-23": 679.0
+        "2026-11-23": 679.0,
+        "2026-11-24": 679.0
       },
       "low_price": 679.0,
       "ph_ean": "6942351434773",
       "rating": 4.6,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "TCL",
@@ -101,12 +102,13 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-65t8d-65-inch-4k-qd-miniled-2026-smart-tv/9300000273452867/",
       "image": "https://media.s-bol.com/90P0oJA57yK8/z6Q6Y45/550x342.jpg",
       "ph": {
-        "2026-11-23": 699.0
+        "2026-11-23": 699.0,
+        "2026-11-24": 699.0
       },
       "low_price": 699.0,
       "ph_ean": "5901292531065",
       "rating": 5.0,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "TCL",
@@ -140,12 +142,13 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-65t69c-65-inch-4k-qled-2025/9300000237197713/",
       "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
       "ph": {
-        "2026-11-23": 476.13
+        "2026-11-23": 476.13,
+        "2026-11-24": 476.13
       },
       "low_price": 476.13,
       "ph_ean": "5901292528584",
       "rating": 4.9,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Samsung",
@@ -185,7 +188,7 @@
       "low_price": 689.0,
       "ph_ean": "8806099134624",
       "rating": 4.6,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Hisense",
@@ -219,12 +222,13 @@
       "url": "https://www.bol.com/nl/nl/p/hisense-65e7s-pro-smarttv-65-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000269685075/",
       "image": "https://media.s-bol.com/B3p8xXVvD4Mx/lR8w8El/550x369.jpg",
       "ph": {
-        "2026-11-23": 669.0
+        "2026-11-23": 669.0,
+        "2026-11-24": 669.0
       },
       "low_price": 669.0,
       "ph_ean": "6942351432595",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "CHiQ",
@@ -257,12 +261,13 @@
       "url": "https://www.bol.com/nl/nl/p/chiq-m65qn9g-smart-tv-65-inch-4k-mini-led-qled-smart-tv-google-tv-5-0-dolby-vision-2025/9300000229424378/",
       "image": "https://media.s-bol.com/ggDKB89Zm4Mk/86OzPoL/550x344.jpg",
       "ph": {
-        "2026-11-23": 584.03
+        "2026-11-23": 584.03,
+        "2026-11-24": 584.03
       },
       "low_price": 584.03,
       "ph_ean": "8592344205514",
       "rating": 4.8,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "LG",
@@ -296,12 +301,13 @@
       "url": "https://www.bol.com/nl/nl/p/lg-qned-ai-65qned84a6c-165-1-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000231982016/",
       "image": "https://media.s-bol.com/wL96lXmR2plw/8qBzr3g/550x434.jpg",
       "ph": {
-        "2026-11-23": 599.0
+        "2026-11-23": 599.0,
+        "2026-11-24": 599.0
       },
       "low_price": 599.0,
       "ph_ean": "8806096422007",
       "rating": 5.0,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Xiaomi",
@@ -336,17 +342,18 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-65inch-4k-qled-tv/9300000231465623/",
       "image": "https://media.s-bol.com/q3Y035zYqLGR/0gQ7V65/550x330.jpg",
       "ph": {
-        "2026-11-23": 578.97
+        "2026-11-23": 578.97,
+        "2026-11-24": 578.97
       },
       "low_price": 578.97,
       "ph_ean": "6941948705807",
       "rating": 4.3,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Philips",
       "name": "65PQS8501/12 Ambilight",
-      "price": 649.0,
+      "price": 613.45,
       "score": 8.2,
       "label": null,
       "reviews": "",
@@ -376,11 +383,14 @@
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-65pqs8501-12-65-inch-4k-qled-2026/9300000328998925/",
       "image": "https://media.s-bol.com/qz1WvKDqnAkR/w0lRMVz/550x351.jpg",
       "ph": {
-        "2026-11-23": 649.0
+        "2026-11-23": 649.0,
+        "2026-11-24": 613.45
       },
-      "low_price": 649.0,
+      "low_price": 613.45,
       "ph_ean": "8718863051764",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 649.0,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Samsung",
@@ -415,12 +425,13 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-ue65u7090h-65-inch-4k-led-2026-smart-tv/9300000332667097/",
       "image": "https://media.s-bol.com/qzA9yRm5Rw73/991zyYB/550x412.jpg",
       "ph": {
-        "2026-11-23": 499.0
+        "2026-11-23": 499.0,
+        "2026-11-24": 499.0
       },
       "low_price": 499.0,
       "ph_ean": "8806099133900",
       "rating": 4.6,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     }
   ],
   "guide": [

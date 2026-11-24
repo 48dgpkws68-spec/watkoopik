@@ -54,12 +54,13 @@
       "ph": {
         "2026-11-21": 56.0,
         "2026-11-22": 56.1,
-        "2026-11-23": 56.1
+        "2026-11-23": 56.1,
+        "2026-11-24": 56.1
       },
       "low_price": 56.0,
       "ph_ean": "5702017583822",
       "rating": 5.0,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "prev_price": 56.0,
       "prev_date": "2026-11-21"
     },
@@ -96,12 +97,13 @@
       "ph": {
         "2026-11-21": 33.74,
         "2026-11-22": 33.74,
-        "2026-11-23": 33.74
+        "2026-11-23": 33.74,
+        "2026-11-24": 33.74
       },
       "low_price": 33.74,
       "ph_ean": "5702016617757",
       "rating": 4.9,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "LEGO",
@@ -141,14 +143,14 @@
       "low_price": 79.99,
       "ph_ean": "5702017583266",
       "rating": 5.0,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "prev_price": 83.99,
       "prev_date": "2026-11-22"
     },
     {
       "brand": "LEGO",
       "name": "DUPLO 3in1 Boomhut (10993)",
-      "price": 104.99,
+      "price": 104.89,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,9 van 5",
@@ -178,14 +180,15 @@
       "ph": {
         "2026-11-21": 103.58,
         "2026-11-22": 104.99,
-        "2026-11-23": 104.99
+        "2026-11-23": 104.99,
+        "2026-11-24": 104.89
       },
       "low_price": 103.58,
       "ph_ean": "5702017417714",
       "rating": 4.9,
-      "synced": "2026-11-23",
-      "prev_price": 103.58,
-      "prev_date": "2026-11-21"
+      "synced": "2026-11-24",
+      "prev_price": 104.99,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "LEGO",
@@ -220,12 +223,13 @@
       "ph": {
         "2026-11-21": 15.99,
         "2026-11-22": 15.99,
-        "2026-11-23": 15.99
+        "2026-11-23": 15.99,
+        "2026-11-24": 15.99
       },
       "low_price": 15.99,
       "ph_ean": "5702018056578",
       "rating": 4.8,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "LEGO",
@@ -260,17 +264,18 @@
       "ph": {
         "2026-11-21": 44.99,
         "2026-11-22": 44.99,
-        "2026-11-23": 44.99
+        "2026-11-23": 44.99,
+        "2026-11-24": 44.99
       },
       "low_price": 44.99,
       "ph_ean": "5702018056479",
       "rating": 5.0,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "LEGO",
       "name": "DUPLO 3-in-1 Bouwvoertuigen (10475)",
-      "price": 19.0,
+      "price": 19.99,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -300,14 +305,15 @@
       "ph": {
         "2026-11-21": 17.64,
         "2026-11-22": 17.64,
-        "2026-11-23": 19.0
+        "2026-11-23": 19.0,
+        "2026-11-24": 19.99
       },
       "low_price": 17.64,
       "ph_ean": "5702018032022",
       "rating": 5.0,
-      "synced": "2026-11-23",
-      "prev_price": 17.64,
-      "prev_date": "2026-11-22"
+      "synced": "2026-11-24",
+      "prev_price": 19.0,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "LEGO",
@@ -342,12 +348,13 @@
       "ph": {
         "2026-11-21": 16.39,
         "2026-11-22": 16.39,
-        "2026-11-23": 16.29
+        "2026-11-23": 16.29,
+        "2026-11-24": 16.29
       },
       "low_price": 16.29,
       "ph_ean": "5702016911114",
       "rating": 4.8,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "prev_price": 16.39,
       "prev_date": "2026-11-22"
     },
@@ -384,17 +391,18 @@
       "ph": {
         "2026-11-21": 20.99,
         "2026-11-22": 20.99,
-        "2026-11-23": 20.99
+        "2026-11-23": 20.99,
+        "2026-11-24": 20.99
       },
       "low_price": 20.99,
       "ph_ean": "5702018056530",
       "rating": 4.6,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "LEGO",
       "name": "DUPLO 3-in-1 Creatieve hellingen met voertuigen (10478)",
-      "price": 50.69,
+      "price": 49.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,1 van 5",
@@ -424,12 +432,15 @@
       "ph": {
         "2026-11-21": 50.69,
         "2026-11-22": 50.69,
-        "2026-11-23": 50.69
+        "2026-11-23": 50.69,
+        "2026-11-24": 49.99
       },
-      "low_price": 50.69,
+      "low_price": 49.99,
       "ph_ean": "5702018056561",
       "rating": 4.1,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 50.69,
+      "prev_date": "2026-11-23"
     }
   ],
   "verdict": "De DUPLO Interactieve avonturentrein (10427) is de beste DUPLO-set voor de meeste peuters vanaf 2 jaar: een trein die zelf rijdt en reageert op actiestenen, met 14 railelementen voor ongeveer 56 euro. De Kleurrijke creatieve doos (10479) is de beste prijs-kwaliteit met 80 stenen voor rond de 16 euro, al vanaf anderhalf jaar. Wil je groot uitpakken voor een kleuter vanaf 3 jaar, kies dan de 3in1 Boomhut (10993) met 126 stenen.",

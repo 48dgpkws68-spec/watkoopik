@@ -54,12 +54,13 @@
       "image": "https://media.s-bol.com/3n2QVp1KOz2n/mZmwlAR/550x582.jpg",
       "ph": {
         "2026-11-22": 28.49,
-        "2026-11-23": 28.49
+        "2026-11-23": 28.49,
+        "2026-11-24": 28.49
       },
       "low_price": 28.49,
       "ph_ean": "8717249196235",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "LEGO",
@@ -93,12 +94,13 @@
       "image": "https://media.s-bol.com/XE5NkxWLGoEm/l5vDgGg/550x405.jpg",
       "ph": {
         "2026-11-22": 39.99,
-        "2026-11-23": 39.99
+        "2026-11-23": 39.99,
+        "2026-11-24": 39.99
       },
       "low_price": 39.99,
       "ph_ean": "5702017584072",
       "rating": 4.8,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "LEGO",
@@ -132,12 +134,13 @@
       "image": "https://media.s-bol.com/94kXkWnjZxl8/4QN2qr1/550x443.jpg",
       "ph": {
         "2026-11-22": 110.49,
-        "2026-11-23": 110.49
+        "2026-11-23": 110.49,
+        "2026-11-24": 110.49
       },
       "low_price": 110.49,
       "ph_ean": "5702017584102",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Ravensburger",
@@ -171,12 +174,13 @@
       "image": "https://media.s-bol.com/YRgOvp403NBA/vO8PJr/550x614.jpg",
       "ph": {
         "2026-11-22": 41.49,
-        "2026-11-23": 41.49
+        "2026-11-23": 41.49,
+        "2026-11-24": 41.49
       },
       "low_price": 41.49,
       "ph_ean": "4005556224265",
       "rating": 4.8,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Days of Wonder",
@@ -210,17 +214,18 @@
       "image": "https://media.s-bol.com/475noPrDEQGn/gLg6RRY/550x579.jpg",
       "ph": {
         "2026-11-22": 29.49,
-        "2026-11-23": 29.49
+        "2026-11-23": 29.49,
+        "2026-11-24": 29.49
       },
       "low_price": 29.49,
       "ph_ean": "0824968717523",
       "rating": 4.8,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "LEGO",
       "name": "Harry Potter Het Huis van Loena Leeflang (76467)",
-      "price": 69.0,
+      "price": 68.99,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -249,12 +254,15 @@
       "image": "https://media.s-bol.com/2MpnyngEQJBN/8qZmL2r/550x839.jpg",
       "ph": {
         "2026-11-22": 69.0,
-        "2026-11-23": 69.0
+        "2026-11-23": 69.0,
+        "2026-11-24": 68.99
       },
-      "low_price": 69.0,
+      "low_price": 68.99,
       "ph_ean": "5702018063439",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 69.0,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Rubik's",
@@ -288,12 +296,13 @@
       "image": "https://media.s-bol.com/7P9oPnJAQP3Q/mqZ5423/550x544.jpg",
       "ph": {
         "2026-11-22": 9.99,
-        "2026-11-23": 9.99
+        "2026-11-23": 9.99,
+        "2026-11-24": 9.99
       },
       "low_price": 9.99,
       "ph_ean": "0778988419571",
       "rating": 4.5,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Zygomatic",
@@ -327,12 +336,13 @@
       "image": "https://media.s-bol.com/0GoVoxv4vYgv/A6QoVJ7/550x766.jpg",
       "ph": {
         "2026-11-22": 24.99,
-        "2026-11-23": 24.99
+        "2026-11-23": 24.99,
+        "2026-11-24": 24.99
       },
       "low_price": 24.99,
       "ph_ean": "3558387006384",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Nintendo",
@@ -366,12 +376,13 @@
       "image": "https://media.s-bol.com/3LYROvroB98x/w0VnZqw/518x840.jpg",
       "ph": {
         "2026-11-22": 69.99,
-        "2026-11-23": 69.99
+        "2026-11-23": 69.99,
+        "2026-11-24": 69.99
       },
       "low_price": 69.99,
       "ph_ean": "0045496312343",
       "rating": 4.6,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "BOFFIN",
@@ -405,12 +416,13 @@
       "image": "https://media.s-bol.com/jlynyro6QV5P/BL49Xlk/550x392.jpg",
       "ph": {
         "2026-11-22": 44.68,
-        "2026-11-23": 44.68
+        "2026-11-23": 44.68,
+        "2026-11-24": 44.68
       },
       "low_price": 44.68,
       "ph_ean": "8595142713915",
       "rating": 4.6,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     }
   ],
   "guide": [

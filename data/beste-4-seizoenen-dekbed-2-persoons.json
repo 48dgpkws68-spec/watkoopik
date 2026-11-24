@@ -34,7 +34,7 @@
     {
       "brand": "Castella",
       "name": "Sirius 4-Seizoenen Dekbed 90% Eendendons 200x220",
-      "price": 289.0,
+      "price": 279.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,6 van 5",
@@ -63,12 +63,15 @@
       "url": "https://www.bol.com/nl/nl/p/castella-sirius-4-seizoenen-dekbed-200x200-cm-90-eendendons-tweepersoons-dekbed-extra-lang-zomerdekbed-winterdekbed-anti-huisstofmijt-ventilerend-absorberend/9300000159366064/",
       "image": "https://media.s-bol.com/7P2PELVQz0LO/vQRQ7mX/550x362.jpg",
       "ph": {
-        "2026-11-23": 289.0
+        "2026-11-23": 289.0,
+        "2026-11-24": 279.0
       },
-      "low_price": 289.0,
+      "low_price": 279.0,
       "ph_ean": "8720701885332",
       "rating": 4.6,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 289.0,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Ten Cate",
@@ -103,12 +106,13 @@
       "url": "https://www.bol.com/nl/nl/p/ten-cate-premium-donzen-tweepersoons-4-seizoenen-dekbed-200x200-cm-100-ganzendons-geschikt-voor-alle-seizoenen-zomer-winter-dekbed-anti-huisstofmijt-ventilerend-absorberend/9200000102271386/",
       "image": "https://media.s-bol.com/qzmO7nJZNJ10/PjgzlAn/550x463.jpg",
       "ph": {
-        "2026-11-23": 399.99
+        "2026-11-23": 399.99,
+        "2026-11-24": 399.99
       },
       "low_price": 399.99,
       "ph_ean": "8718719728499",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Ducky Dons",
@@ -142,12 +146,13 @@
       "url": "https://www.bol.com/nl/nl/p/ducky-dons-nordic-4-seizoenen-dekbed-200x220/9200000040431638/",
       "image": "https://media.s-bol.com/pXmO7Q5zZyqy/G57nZ00/550x326.jpg",
       "ph": {
-        "2026-11-23": 255.95
+        "2026-11-23": 255.95,
+        "2026-11-24": 255.95
       },
       "low_price": 255.95,
       "ph_ean": "8718719723142",
       "rating": 4.8,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Ten Cate",
@@ -181,12 +186,13 @@
       "url": "https://www.bol.com/nl/nl/p/ten-cate-donzen-tweepersoons-4-seizoenen-dekbed-200x200-cm-90-eendendons-geschikt-voor-alle-seizoenen-zomer-winter-dekbed-anti-huisstofmijt-ventilerend-absorberend/9200000103074882/",
       "image": "https://media.s-bol.com/L3wK6xNnQGxg/jY5YDB4/550x452.jpg",
       "ph": {
-        "2026-11-23": 249.99
+        "2026-11-23": 249.99,
+        "2026-11-24": 249.99
       },
       "low_price": 249.99,
       "ph_ean": "8718719726396",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Terschellinger",
@@ -220,12 +226,13 @@
       "url": "https://www.bol.com/nl/nl/p/terschellinger-luxe-4-seizoenen-100-iws-zuiver-scheer-wollen-dekbed-zomer-en-winterdekbed-all-season-200x220cm/9300000009078154/",
       "image": "https://media.s-bol.com/qpp5oQqxjPmk/Wmj03J/550x353.jpg",
       "ph": {
-        "2026-11-23": 179.0
+        "2026-11-23": 179.0,
+        "2026-11-24": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "8720256479413",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Texels Comfort",
@@ -259,12 +266,13 @@
       "url": "https://www.bol.com/nl/nl/p/texels-comfort-luxe-4-seizoenen-wollen-dekbed-tweepersoons-extra-lang-200x220-cm/9300000221415238/",
       "image": "https://media.s-bol.com/gqm13xVwVrlD/o2P0gvB/550x394.jpg",
       "ph": {
-        "2026-11-23": 149.0
+        "2026-11-23": 149.0,
+        "2026-11-24": 149.0
       },
       "low_price": 149.0,
       "ph_ean": "8721067012035",
       "rating": 5.0,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Polydaun",
@@ -294,16 +302,17 @@
       "ideal": "Stellen met een huisstofmijt- of donsallergie die een warm synthetisch dekbed in extra lengte zoeken.",
       "text": "De Liv van Polydaun is een synthetisch 4-seizoenendekbed dat zich richt op mensen met een huisstofmijtallergie. De vulling is Isocraft van gerecycled polyester met het GRS-keurmerk. Een TripleGuard-behandeling zorgt volgens Polydaun dat bacteriën en schimmels geen kans krijgen. Het zomerdeel heeft 200 gram per m² in kleine blokken, het voor- en najaarsdeel 400 gram per m² in grote blokken. Polydaun noemt warmteklasse 1, 2 en 3 voor de drie standen.\n\nDe tijk is van 100% katoen met een satijnstreep, gladder en steviger dan een gewone katoenen tijk. De delen koppel je met drukknopen. Je krijgt 2 jaar garantie op fabricagefouten en het dekbed komt in een draagtas. Omdat er geen dons of veren in zit, is het ook geschikt bij een allergie voor dons. Gekoppeld heb je 600 gram vulling per m² voor koude nachten. Het wasadvies staat niet in de productinformatie, check daarvoor het label. De maat is 200x220, extra lang voor een tweepersoons bed.",
       "ean": "8717874010555",
-      "bol_title": "Polydaun Liv dekbed - 4-seizoenen - Consumentenbond \"beste uit de test\" oktober 2026 - anti-allergeen - vulling GRS 3D-Isocraft® met TripleGuard® behandeling - 200x220 cm",
+      "bol_title": "Polydaun Liv dekbed - 4-seizoenen - Consumentenbond \"beste uit de test\" oktober 2026 - anti-allergeen - vulling GRS 3D-Isocraft met TripleGuard behandeling - 200x220 cm",
       "url": "https://www.bol.com/nl/nl/p/polydaun-liv-dekbed-4-seizoenen-anti-allergeen-tripleguard-behandeling-tweepersooons-xl-200x220-cm/9200000049087546/",
       "image": "https://media.s-bol.com/qzBk99B6MxJy/lRmLgn6/550x550.jpg",
       "ph": {
-        "2026-11-23": 199.95
+        "2026-11-23": 199.95,
+        "2026-11-24": 199.95
       },
       "low_price": 199.95,
       "ph_ean": "8717874010555",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Snoozing",
@@ -337,12 +346,13 @@
       "url": "https://www.bol.com/nl/nl/p/snoozing-salzburg-synthetisch-4-seizoenen-dekbed-tweepersoons-200x220-cm-wit/9200000019686855/",
       "image": "https://media.s-bol.com/J66MJ6z7oEBl/550x310.jpg",
       "ph": {
-        "2026-11-23": 119.0
+        "2026-11-23": 119.0,
+        "2026-11-24": 119.0
       },
       "low_price": 119.0,
       "ph_ean": "8718801100219",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Fabiola",
@@ -377,12 +387,13 @@
       "url": "https://www.bol.com/nl/nl/p/fabiola-oostenrijks-dons-4-seizoenen-dekbed-halfdons-dekbed-luxe-en-lekker-zwaar-donsdeken-200x220-cm-tweepersoons-extra-lang/9300000188805782/",
       "image": "https://media.s-bol.com/ZK349DNlyNpg/G6EBMA8/550x359.jpg",
       "ph": {
-        "2026-11-23": 129.0
+        "2026-11-23": 129.0,
+        "2026-11-24": 129.0
       },
       "low_price": 129.0,
       "ph_ean": "8720618169723",
       "rating": 4.7,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Homescapes",
@@ -416,12 +427,13 @@
       "url": "https://www.bol.com/nl/nl/p/homescapes-4-seizoenen-combinatiedekbed-dekbed-met-eendenveren-en-dons-200-x-200-cm/9300000167979032/",
       "image": "https://media.s-bol.com/PwPEvlGqqV0W/L9RKKRD/550x550.jpg",
       "ph": {
-        "2026-11-23": 96.99
+        "2026-11-23": 96.99,
+        "2026-11-24": 96.99
       },
       "low_price": 96.99,
       "ph_ean": "5055967420939",
       "rating": 5.0,
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     }
   ],
   "guide": [

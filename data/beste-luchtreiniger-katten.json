@@ -61,10 +61,11 @@
         "2026-11-20": 239.0,
         "2026-11-21": 249.0,
         "2026-11-22": 249.0,
-        "2026-11-23": 249.0
+        "2026-11-23": 249.0,
+        "2026-11-24": 249.0
       },
       "low_price": 239.0,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "prev_price": 239.0,
       "prev_date": "2026-11-20"
     },
@@ -128,10 +129,11 @@
         "2026-11-20": 229.99,
         "2026-11-21": 229.99,
         "2026-11-22": 229.99,
-        "2026-11-23": 229.99
+        "2026-11-23": 229.99,
+        "2026-11-24": 229.99
       },
       "low_price": 229.99,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "ph_ean": "8809825509505",
       "rating": 4.6,
       "prev_price": 349.99,
@@ -172,11 +174,12 @@
       "rating": 4.5,
       "ph": {
         "2026-11-22": 132.99,
-        "2026-11-23": 132.99
+        "2026-11-23": 132.99,
+        "2026-11-24": 132.99
       },
       "low_price": 132.99,
       "ph_ean": "8716164992243",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Coway",
@@ -237,10 +240,11 @@
         "2026-11-20": 159.99,
         "2026-11-21": 159.99,
         "2026-11-22": 159.99,
-        "2026-11-23": 159.99
+        "2026-11-23": 159.99,
+        "2026-11-24": 159.99
       },
       "low_price": 159.99,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "prev_price": 239.99,
       "prev_date": "2026-11-19",
       "ph_ean": "8809239758704",
@@ -252,7 +256,7 @@
       "price": 241.99,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Krachtig en slim, met PM10-sensor die kattenstof meet.",
       "specs": {
         "CADR": "500 m³/u",
@@ -272,7 +276,7 @@
         "Filter niet los te wassen"
       ],
       "ideal": "Wie een krachtige reiniger met slimme bediening voor een woonkamer zoekt.",
-      "text": "Kattenallergenen zitten deels aan grotere stofdeeltjes vast. Daarom is het handig dat de Xiaomi Smart Air Purifier 4 Pro niet alleen PM2.5 meet maar ook PM10. Zie je die waarde stijgen nadat de kat over de bank heeft gerend, dan schakelt de automatische stand meteen hoger. Met een CADR van 500 m³/u haalt hij een woonkamer tot 60 m² snel schoon.\n\nHet ronde 3-in-1 filter combineert een voorfilter, een HEPA-laag en actieve koolstof. Op het OLED-scherm zie je de luchtkwaliteit en de resterende filterduur. In de Xiaomi Home-app stel je schema's in en hij werkt ook met Google Home en Alexa. De slaapstand ligt rond de 33 dB. Dat is hoorbaar zacht, maar niet zo stil als de Philips. Kopers geven hem een 4,3 en zijn vooral te spreken over de snelheid. Een vervangfilter kost rond de 57 euro.",
+      "text": "Kattenallergenen zitten deels aan grotere stofdeeltjes vast. Daarom is het handig dat de Xiaomi Smart Air Purifier 4 Pro niet alleen PM2.5 meet maar ook PM10. Zie je die waarde stijgen nadat de kat over de bank heeft gerend, dan schakelt de automatische stand meteen hoger. Met een CADR van 500 m³/u haalt hij een woonkamer tot 60 m² snel schoon.\n\nHet ronde 3-in-1 filter combineert een voorfilter, een HEPA-laag en actieve koolstof. Op het OLED-scherm zie je de luchtkwaliteit en de resterende filterduur. In de Xiaomi Home-app stel je schema's in en hij werkt ook met Google Home en Alexa. De slaapstand ligt rond de 33 dB. Dat is hoorbaar zacht, maar niet zo stil als de Philips. Kopers geven hem een 4,4 en zijn vooral te spreken over de snelheid. Een vervangfilter kost rond de 57 euro.",
       "ean": "6934177743665",
       "bol_title": "Xiaomi Smart Air Purifier 4 Pro | Luchtreiniger | 500 m³/u CADR | Tot 60 m² | PM2.5 en PM10 sensor | OLED display | App en spraakbediening | Automatische modus",
       "search": "Xiaomi Smart Air Purifier 4 Pro",
@@ -305,19 +309,20 @@
         "2026-11-20": 219.0,
         "2026-11-21": 241.99,
         "2026-11-22": 241.99,
-        "2026-11-23": 241.99
+        "2026-11-23": 241.99,
+        "2026-11-24": 241.99
       },
       "low_price": 219.0,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "prev_price": 219.0,
       "prev_date": "2026-11-20",
       "ph_ean": "6934177743665",
-      "rating": 4.3
+      "rating": 4.4
     },
     {
       "brand": "Shark",
       "name": "NeverChange5 HP150EU",
-      "price": 180.68,
+      "price": 182.5,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -373,12 +378,13 @@
         "2026-11-20": 182.5,
         "2026-11-21": 182.5,
         "2026-11-22": 182.5,
-        "2026-11-23": 180.68
+        "2026-11-23": 180.68,
+        "2026-11-24": 182.5
       },
       "low_price": 180.68,
-      "synced": "2026-11-23",
-      "prev_price": 182.5,
-      "prev_date": "2026-11-22",
+      "synced": "2026-11-24",
+      "prev_price": 180.68,
+      "prev_date": "2026-11-23",
       "ph_ean": "0622356281096",
       "rating": 4.3
     },
@@ -425,11 +431,12 @@
         "2026-11-20": 269.0,
         "2026-11-21": 265.0,
         "2026-11-22": 265.0,
-        "2026-11-23": 265.0
+        "2026-11-23": 265.0,
+        "2026-11-24": 265.0
       },
       "low_price": 265.0,
       "ph_ean": "0810043373685",
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "rating": 4.3,
       "prev_price": 269.0,
       "prev_date": "2026-11-20"
@@ -493,10 +500,11 @@
         "2026-11-20": 99.99,
         "2026-11-21": 99.99,
         "2026-11-22": 99.99,
-        "2026-11-23": 99.99
+        "2026-11-23": 99.99,
+        "2026-11-24": 99.99
       },
       "low_price": 99.99,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "prev_price": 120.63,
       "prev_date": "2026-11-05",
       "ph_ean": "8720389039416",
@@ -561,10 +569,11 @@
         "2026-11-20": 83.99,
         "2026-11-21": 83.99,
         "2026-11-22": 83.99,
-        "2026-11-23": 83.99
+        "2026-11-23": 83.99,
+        "2026-11-24": 83.99
       },
       "low_price": 83.99,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "ph_ean": "8809825508829",
       "rating": 4.6,
       "prev_price": 124.99,
@@ -628,10 +637,11 @@
         "2026-11-20": 109.0,
         "2026-11-21": 109.0,
         "2026-11-22": 109.0,
-        "2026-11-23": 109.0
+        "2026-11-23": 109.0,
+        "2026-11-24": 109.0
       },
       "low_price": 107.49,
-      "synced": "2026-11-23",
+      "synced": "2026-11-24",
       "prev_price": 107.49,
       "prev_date": "2026-11-02",
       "ph_ean": "0810043372190",

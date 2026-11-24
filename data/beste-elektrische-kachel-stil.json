@@ -34,7 +34,7 @@
     {
       "brand": "Dimplex",
       "name": "HeatLite Smart Convector 2kW",
-      "price": 79.0,
+      "price": 77.0,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,3 van 5",
@@ -65,16 +65,19 @@
       "image": "https://media.s-bol.com/3L1jglPROmKO/ZYqRxD2/550x515.jpg",
       "rating": 4.3,
       "ph": {
-        "2026-11-23": 79.0
+        "2026-11-23": 79.0,
+        "2026-11-24": 77.0
       },
-      "low_price": 79.0,
+      "low_price": 77.0,
       "ph_ean": "8716412237201",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 79.0,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Mill",
       "name": "CO1200WIFI3 convector",
-      "price": 204.19,
+      "price": 202.15,
       "score": 9.0,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -106,11 +109,14 @@
       "image": "https://media.s-bol.com/NgDlJEzQMVzv/2kQDEEz/550x632.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-23": 204.19
+        "2026-11-23": 204.19,
+        "2026-11-24": 202.15
       },
-      "low_price": 204.19,
+      "low_price": 202.15,
       "ph_ean": "7090019823830",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24",
+      "prev_price": 204.19,
+      "prev_date": "2026-11-23"
     },
     {
       "brand": "Mill",
@@ -147,11 +153,12 @@
       "image": "https://media.s-bol.com/gOYAVPmJwo5k/pYlLmzQ/550x693.jpg",
       "rating": 4.1,
       "ph": {
-        "2026-11-23": 289.0
+        "2026-11-23": 289.0,
+        "2026-11-24": 289.0
       },
       "low_price": 289.0,
       "ph_ean": "7090019823847",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Duux",
@@ -187,11 +194,12 @@
       "image": "https://media.s-bol.com/nwGr7Gy8N84R/Y7WvDXY/550x652.jpg",
       "rating": 4.1,
       "ph": {
-        "2026-11-23": 219.99
+        "2026-11-23": 219.99,
+        "2026-11-24": 219.99
       },
       "low_price": 219.99,
       "ph_ean": "8716164989038",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Mill",
@@ -227,11 +235,12 @@
       "image": "https://media.s-bol.com/7m8EE7Q1NG5w/jRN6PDz/550x707.jpg",
       "rating": 4.2,
       "ph": {
-        "2026-11-23": 78.8
+        "2026-11-23": 78.8,
+        "2026-11-24": 78.8
       },
       "low_price": 78.8,
       "ph_ean": "7090019821126",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Aigostar",
@@ -267,11 +276,12 @@
       "image": "https://media.s-bol.com/YKNKorjA8rqM/GZBN9GJ/461x840.jpg",
       "rating": 4.6,
       "ph": {
-        "2026-11-23": 99.99
+        "2026-11-23": 99.99,
+        "2026-11-24": 99.99
       },
       "low_price": 99.99,
       "ph_ean": "8719138877850",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Quality Heating",
@@ -307,11 +317,12 @@
       "image": "https://media.s-bol.com/BWP2Y5zGMyNo/qjNKlJD/550x668.jpg",
       "rating": 4.4,
       "ph": {
-        "2026-11-23": 109.0
+        "2026-11-23": 109.0,
+        "2026-11-24": 109.0
       },
       "low_price": 109.0,
       "ph_ean": "8720813382590",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Mill",
@@ -347,11 +358,12 @@
       "image": "https://media.s-bol.com/mx0w1NlMnGLE/pgLjxJ6/550x550.jpg",
       "rating": 4.6,
       "ph": {
-        "2026-11-23": 100.0
+        "2026-11-23": 100.0,
+        "2026-11-24": 100.0
       },
       "low_price": 100.0,
       "ph_ean": "7090019823731",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Tomado",
@@ -387,11 +399,12 @@
       "image": "https://media.s-bol.com/B2wxAOY71GgY/DXYJNx/550x477.jpg",
       "rating": 4.7,
       "ph": {
-        "2026-11-23": 59.99
+        "2026-11-23": 59.99,
+        "2026-11-24": 59.99
       },
       "low_price": 59.99,
       "ph_ean": "8712876501834",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     },
     {
       "brand": "Tristar",
@@ -427,11 +440,12 @@
       "image": "https://media.s-bol.com/gmJoDDvKZml3/81PZJll/550x550.jpg",
       "rating": 3.9,
       "ph": {
-        "2026-11-23": 49.99
+        "2026-11-23": 49.99,
+        "2026-11-24": 49.99
       },
       "low_price": 49.99,
       "ph_ean": "8711658522555",
-      "synced": "2026-11-23"
+      "synced": "2026-11-24"
     }
   ],
   "guide": [
