@@ -343,3 +343,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-gaming-stoel-onder-200-euro | gaming | gaming stoel onder 200 euro | De 10 beste gaming stoelen onder 200 euro van 2026 | 🎮 (google_wacht)
 [x] beste-tv-voor-slaapkamer | elektronica | tv voor slaapkamer | De 10 beste tv's voor de slaapkamer van 2026 | 📺 (google_wacht)
 [x] beste-smartphone-onder-200-euro | telefoon | smartphone onder 200 euro | De 10 beste smartphones onder 200 euro van 2026 | 📱 (google_wacht)
+[x] beste-oled-tv-onder-1000-euro | elektronica | oled tv onder 1000 euro | De 10 beste OLED tv's onder 1000 euro van 2026 | 📺 (google_wacht)
+[x] beste-kunstkerstboom-240-cm | wonen | kunstkerstboom 240 cm | De 10 beste kunstkerstbomen van 240 cm van 2026 | 🎄 (google_wacht)
