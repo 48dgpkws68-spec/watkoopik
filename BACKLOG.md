@@ -46,7 +46,7 @@ Formaat: slug | cat | query | titel | emoji
 # weekrapport 8 nov 2026: tv-accessoires, prullenbak, budget-smartphone en boxspring scoren (bol-orders + Umami-kliks); luchtreiniger-zoekvraag uit Search Console
 [ ] beste-prullenbak | huishouden | prullenbak | De 10 beste prullenbakken van 2026 | 🗑️
 [x] beste-tv-onder-200-euro | elektronica | tv onder 200 euro | De 10 beste tv's onder 200 euro van 2026 | 📺
-[ ] beste-smartphone-onder-200-euro | telefoon | smartphone onder 200 euro | De 10 beste smartphones onder 200 euro van 2026 | 📱
+[x] beste-smartphone-onder-200-euro | telefoon | smartphone onder 200 euro | De 10 beste smartphones onder 200 euro van 2026 | 📱
 
 # groeimotor 14 nov 2026 (AI1): smalle gidsen in de families die ChatGPT aanhaalt. In 28 dagen kwamen 667 van 988 bezoekers via ChatGPT en die landen op smalle gidsen (tv onder 500: 29, tv 55 inch: 22, tv onder 300: 21), niet op brede (televisie 3, laptop 0, smartphone 0).
 # Deze regels tellen als 'dure Black Friday-gids' (gemiddelde prijs vanaf 250 euro) en gaan vóór het blok D1 hieronder. Het tempo blijft zoals afgesproken (hoogstens 1 nieuwe gids per dag, N32).
@@ -341,3 +341,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-hoekbank-onder-1000-euro | wonen | hoekbank onder 1000 euro | De 10 beste hoekbanken onder 1000 euro van 2026 | 🛋️ (google_wacht)
 [x] beste-kunstkerstboom-smal | wonen | smalle kunstkerstboom | De 10 beste smalle kunstkerstbomen van 2026 | 🎄 (google_wacht)
 [x] beste-gaming-stoel-onder-200-euro | gaming | gaming stoel onder 200 euro | De 10 beste gaming stoelen onder 200 euro van 2026 | 🎮 (google_wacht)
+[x] beste-tv-voor-slaapkamer | elektronica | tv voor slaapkamer | De 10 beste tv's voor de slaapkamer van 2026 | 📺 (google_wacht)
+[x] beste-smartphone-onder-200-euro | telefoon | smartphone onder 200 euro | De 10 beste smartphones onder 200 euro van 2026 | 📱 (google_wacht)
