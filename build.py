@@ -956,7 +956,9 @@ home = '''
 home_ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": "watkoopik", "url": SITE + "/", "inLanguage": "nl-NL",
             "potentialAction": {"@type": "SearchAction", "target": SITE + "/gidsen.html?q={search_term_string}", "query-input": "required name=search_term_string"}},
            {"@context": "https://schema.org", "@type": "Organization", "name": "watkoopik", "url": SITE + "/", "logo": SITE + "/favicon.svg",
-            "sameAs": ["https://www.instagram.com/watkoopik/", "https://www.tiktok.com/@watkoopik", "https://www.pinterest.com/watkoopik/"]}]
+            "sameAs": ["https://www.instagram.com/watkoopik/", "https://www.tiktok.com/@watkoopik", "https://www.pinterest.com/watkoopik/"],
+            "founder": {"@type": "Person", "name": "Nick van Straaten", "url": SITE + "/over-ons.html#nick"},
+            "contactPoint": {"@type": "ContactPoint", "contactType": "customer support", "url": SITE + "/contact.html", "availableLanguage": "nl"}}]   # audit 24 nov 2026
 page("index.html", "watkoopik · De beste producten van %d vergeleken" % YEAR, "Onafhankelijke top 10-gidsen: de beste stofzuigers, airfryers, föhns en meer van %d. Vergeleken op prijs, specificaties en reviews." % YEAR, home,
      extra="".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in home_ld), img=(win(guides[0]).get("image") or ""))
 
