@@ -56,6 +56,7 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-tv-onder-1500-euro | elektronica | tv onder 1500 euro | De 10 beste tv's onder 1500 euro van 2026 | 📺 (google_wacht)
 [x] beste-laptop-onder-750-euro | computer | laptop onder 750 euro | De 10 beste laptops onder 750 euro van 2026 | 💻 (google_wacht)
 [x] beste-tv-40-inch | elektronica | 40 inch tv | De 10 beste 40 inch tv's van 2026 | 📺 (google_wacht)
+[x] beste-tv-75-inch-onder-750-euro | elektronica | 75 inch tv | De 10 beste tv's van 75 inch onder 750 euro van 2026 | 📺 (google_wacht, ChatGPT-spoor 24 nov middag)
 # groeimotor 18 nov 2026 (AI2, N40 stap 2 vervolg): zelf toegevoegde smalle varianten in families met ChatGPT-bezoek; alleen voor de N40-nachtruns (google_wacht), 2 per nacht.
 [x] beste-kunstkerstboom-180-cm | wonen | kunstkerstboom 180 cm | De 10 beste kunstkerstbomen van 180 cm van 2026 | 🎄
 [x] beste-kunstkerstboom-210-cm | wonen | kunstkerstboom 210 cm | De 10 beste kunstkerstbomen van 210 cm van 2026 | 🎄 (google_wacht)
