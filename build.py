@@ -33,6 +33,45 @@ def check(s, where):
     if "—" in s or "–" in s: raise SystemExit("streepje in " + where)
     if re.search(r", en\b", re.sub(r"<script.*?</script>", "", s, flags=re.S)): raise SystemExit("', en' in " + where)
 
+# ---------- title en description op maat (SEO-audit 24 nov 2026, zelfde regels als landensites) ----------
+# Google kapt titles af rond 60 tekens en descriptions rond 160. Title: de eerste kandidaat die past (zoekwoord voorop,
+# "| watkoopik" valt als eerste weg). Description: hele zinnen zolang het past (120-160), te lang = inkorten op een zinsdeel
+# of woordgrens zonder "...", te kort = aanvullen met algemene zinnen over de site.
+T_MAX, D_MIN, D_MAX = 60, 120, 160
+FILL = ["Onafhankelijke top 10-gidsen.", "Vergeleken op prijs, specificaties en kopersreviews."]
+def fit_title(*cands):
+    cands = [c for c in cands if c]
+    return next((c for c in cands if len(c) <= T_MAX), min(cands, key=len))
+def _zinnen(s):
+    out = []
+    for p in re.split(r"(?<=[.!?])\s+", (s or "").strip()):
+        if out and not (p[:1].isupper() or p[:1] in "\"'"): out[-1] += " " + p   # "Nr. 1", "ca. 49": geen nieuwe zin
+        elif p: out.append(p)
+    return out
+def _kort(z, lim=D_MAX):
+    if len(z) <= lim: return z
+    cut = z[:lim - 1]
+    for sep in (": ", "; ", ", ", " ("):
+        i = cut.rfind(sep)
+        if i >= lim * 0.55: return cut[:i].rstrip(" ,;:(") + "."
+    return cut[:cut.rfind(" ")].rstrip(" ,;:(") + "."
+def _deel(z, lim):
+    """Zin inkorten tot een volledig zinsdeel (alleen op een komma of dubbele punt), anders niets."""
+    if len(z) <= lim: return z
+    cut = z[:lim - 1]
+    i = max(cut.rfind(", "), cut.rfind(": "), cut.rfind("; "))
+    return cut[:i].rstrip(" ,;:") + "." if i >= 25 else ""
+def fit_desc(desc, fill=FILL):
+    if D_MIN <= len(desc) <= D_MAX: return desc
+    zs = _zinnen(desc)
+    if not zs: return desc
+    out = _kort(zs[0])
+    for z in zs[1:] + [x for x in fill if x not in zs]:
+        if len(out) >= D_MIN and z in fill: break
+        if len(out) + 1 + len(z) <= D_MAX: out += " " + z
+        elif z not in fill and len(out) < D_MIN and _deel(z, D_MAX - len(out) - 1): out += " " + _deel(z, D_MAX - len(out) - 1)
+    return out
+
 # ---------- G1 eigen datapunt: stroomkosten per kachel/deken/ontvochtiger (Google-plan, 23 nov 2026) ----------
 # Echte berekening: maximaal vermogen uit de specs x de stroomprijs van CBS (variabel leveringstarief + energiebelasting, incl. btw).
 # Elk kwartaal bijwerken uit CBS-tabel 85592NED (groeimotor).
@@ -330,6 +369,18 @@ def robots_meta(path):
 N_PROD = sum(len(g["products"]) for g in guides)
 N_REV = sum(len(p.get("ph") or {}) for g in guides for p in g["products"])  # echte prijsmetingen bij bol (reviews_total was een schatting, 17 nov)
 def win(g): return g["products"][0]
+# schema.org-availability uit eigen metingen (audit 24 nov 2026): bol_sync noteert alleen een prijs als bol een aanbieding heeft,
+# dus een meting van de laatste 2 dagen = te koop. Meldt tools/check_stock.py "geen aanbieding" of "product weg" = niet te koop.
+# Anders weten we het niet en laten we availability weg (niets verzinnen).
+try: _GEEN_AANBOD = {(x[2], x[3]) for x in json.load(open(os.path.join(DATA, "_candidates", "_stock.json"), encoding="utf-8")) if x[4] in ("geen aanbieding", "product weg")}
+except Exception: _GEEN_AANBOD = set()
+def beschikbaar(p):
+    ph = p.get("ph") or {}
+    if (p["brand"], p["name"]) in _GEEN_AANBOD: return "https://schema.org/OutOfStock"
+    recent = (TODAY - datetime.timedelta(days=2)).isoformat()
+    if ph and max(ph) >= recent: return "https://schema.org/InStock"
+    if ph and (p.get("synced") or "") >= recent and max(ph) < p["synced"]: return "https://schema.org/OutOfStock"   # gesynct zonder aanbieding
+    return None
 def img_of(p, cls=""):
     return ('<img src="%s" alt="%s %s" loading="lazy"%s>' % (e(p["image"]), e(p["brand"]), e(p["name"]), (' class="%s"' % cls) if cls else "")) if p.get("image") else '<span class="ph" aria-hidden="true">%s</span>' % e(p.get("_ico", "🛒"))
 for g in guides:
@@ -588,7 +639,7 @@ for c in json.load(open(os.path.join(ROOT, "_src", "clusters.json"), encoding="u
 HUBS = [c for c in CLUSTERS if c["hub"]]
 # Google-plan (Nick, 23 nov 2026): hubs (~206 eigen woorden) en vs-pagina's (~370) zijn dun en drukken Google's oordeel over
 # de hele site. Alleen voor Google noindex (googlebot) en uit sitemap; links blijven (follow), Bing/ChatGPT houden ze.
-NOINDEX |= {c["hub"] for c in HUBS} | {"vs/%s.html" % v["slug"] for v in VS_PAGES}
+NOINDEX |= {c["hub"] for c in HUBS} | {"vs/%s.html" % v["slug"] for v in VS_PAGES} | {"vs/index.html"}   # vs-overzicht sinds 24 nov 2026 ook (audit: stond indexeerbaar maar niet in sitemap; landensites doen dit al)
 # Zoekterm netjes in een zin (groeimotor 10 nov 2026): 'beste' vooraan en 'kopen' achteraan eraf, het-woorden en meervoud herkennen.
 HET_KOP = ("cadeau", "dekbed", "dekbedovertrek", "matras", "bedframe", "droogrek", "fornuis", "hoofdkussen", "scheerapparaat", "strijkijzer", "bureau", "warmtekussen", "massagepistool", "autostoeltje", "paneel", "sporthorloge", "bruiswatertoestel")
 def zoekterm(g):
@@ -742,9 +793,13 @@ def rev_txt(p):
     r = str(p.get("reviews") or "")
     return r if r.startswith("bol-score ") else ""
 
+OG_DEFAULT = SITE + "/og/default.jpg"   # standaard deelafbeelding (1200x630) voor pagina's zonder eigen kaart (audit 24 nov 2026)
 def page(path, title, desc, body, active=None, extra="", root=None, img=""):
     if root is None: root = "../" * path.count("/")
-    out = head(title, desc, path if path != "index.html" else "", root, extra, img) + chrome(active, root) + "<main>" + body + "</main>" + footer(root)
+    _zb = re.sub(r"\s*\|\s*watkoopik$", "", title); _kp = re.split(r": ", _zb, 1)[0]
+    title = fit_title(title, _zb, *(["%s | watkoopik" % _kp, _kp] if _kp != _zb and str(YEAR) in _kp else []))   # past hij niet: eerst "| watkoopik" eraf, dan de staart na de dubbele punt
+    desc = fit_desc(desc)
+    out = head(title, desc, path if path != "index.html" else "", root, extra, img or OG_DEFAULT) + chrome(active, root) + "<main>" + body + "</main>" + footer(root)
     out = out.replace("categorie/cadeaus.html", "cadeaus/")  # cadeau-hub woont op /cadeaus/
     check(out, path); wr(path, out)
 
@@ -1060,7 +1115,8 @@ for g in guides:
              "review": {"@type": "Review", "author": {"@type": "Organization", "name": "watkoopik"}, "reviewRating": {"@type": "Rating", "ratingValue": p["score"], "bestRating": 10, "worstRating": 1},
                         "positiveNotes": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": x} for i, x in enumerate(p["pros"])]},
                         "negativeNotes": {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": x} for i, x in enumerate(p["cons"])]}},
-             "offers": {"@type": "Offer", "price": "%.2f" % p["price"], "priceCurrency": "EUR", "availability": "https://schema.org/InStock", "url": p.get("url") or url_abs}}
+             "offers": {"@type": "Offer", "price": "%.2f" % p["price"], "priceCurrency": "EUR", "url": p.get("url") or url_abs}}
+        if beschikbaar(p): d["offers"]["availability"] = beschikbaar(p)   # was altijd InStock (audit 24 nov 2026)
         if p.get("image"): d["image"] = p["image"]
         if p.get("ean"): d["gtin13"] = str(p["ean"])
         return d
@@ -1103,13 +1159,15 @@ for g in guides:
     seo = zoekterm(g)  # zoekterm voor titel en meta; query blijft de bol-zoekterm
     lidw, _, ww = zoekterm_vorm(seo)
     if len(ps) != 10: body = body.replace("De top 10 in detail", "De top %d in detail" % len(ps))
-    title = "Beste %s %d: top 10 vergeleken | watkoopik" % (seo, YEAR)
-    if len(title) > 62: title = "%s | watkoopik" % g["title"]
+    # title max 60 (audit 24 nov 2026): zoekwoord voorop, eerst "| watkoopik" eraf, dan de staart; jaartal blijft
+    _b = "Beste %s %d" % (seo, YEAR)
+    title = fit_title("%s: top 10 vergeleken | watkoopik" % _b, "%s: top 10 vergeleken" % _b, "%s: top 10 | watkoopik" % _b, "%s | watkoopik" % _b, "%s: top 10" % _b, _b, g["title"])
     desc = "%s beste %s van %d %s de %s %s (%s). Slimste koop: %s %s voor %s. Bekijk de volledige top 10 met plus- en minpunten, koopgids en FAQ." % (
         lidw, seo, YEAR, ww, top["brand"], top["name"], eur(top["price"]), bv["brand"], bv["name"], eur(bv["price"]))
     # optionele vaste titel/meta op echte Search Console-zoekvragen ({top} = huidige nr. 1)
     if g.get("meta_title"): title = g["meta_title"]
     if g.get("meta_desc"): desc = g["meta_desc"].replace("{top}", "%s %s" % (top["brand"], top["name"]))
+    desc = fit_desc(desc, ["Bekijk de volledige top 10 met koopgids en FAQ.", "Bekijk de volledige top 10."] + FILL)
     page(g["url"], title, desc, body, extra=extra, img=og_img(g, top))
 
 # ---------- aanbiedingen ----------
@@ -1249,6 +1307,7 @@ def prijs_page(k, x):
     url = "prijs/%s.html" % x["slug"]
     prod = {"@context": "https://schema.org", "@type": "Product", "name": nm, "brand": {"@type": "Brand", "name": p["brand"]}, "description": p["oneliner"],
             "offers": {"@type": "Offer", "price": "%.2f" % p["price"], "priceCurrency": "EUR", "url": SITE + "/" + url, "seller": {"@type": "Organization", "name": "bol"}}}
+    if beschikbaar(p): prod["offers"]["availability"] = beschikbaar(p)   # audit 24 nov 2026: uit eigen metingen, anders weglaten
     if p.get("image"): prod["image"] = p["image"]
     if re.fullmatch(r"\d{13}", k): prod["gtin13"] = k
     ld = [prod, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"}, {"@type": "ListItem", "position": 2, "name": "Prijsverloop", "item": SITE + "/prijs/"}, {"@type": "ListItem", "position": 3, "name": nm, "item": SITE + "/" + url}]}]
@@ -1279,6 +1338,7 @@ page("cadeaus/index.html", "Cadeau-ideeën %d: de beste cadeaus per budget | wat
 BF = datetime.date(2026, 11, 27); BF_END = datetime.date(2026, 11, 30)
 bf_live = BF <= TODAY <= BF_END
 bf_deals = deals_body("../", "Black Friday", "Black Friday 2026: echte prijsdalingen", "Het is Black Friday. Hieronder staan alle producten uit onze top 10's die nu minstens 10%% goedkoper zijn dan wij de dertig dagen ervoor maten. Geen adviesprijzen, alleen gemeten bol-prijzen.")
+bf_deals = re.sub(r"<(/?)h1\b", r"<\1h2", bf_deals)   # één H1 per pagina (audit 24 nov 2026): de pagina-H1 staat hieronder
 bf_body = '''<div id="bf-live"%s>%s</div><section style="padding-top:34px"><div class="wrap"><nav class="crumbs"><a href="../">Home</a> › Black Friday</nav><span class="kick" style="margin-top:14px">Vrijdag 27 november 2026</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">Black Friday 2026: zo koop je slim</h1>
 <p class="muted" style="max-width:760px">Black Friday valt dit jaar op vrijdag 27 november, Cyber Monday op 30 november. Veel kortingen zijn dan minder groot dan ze lijken, omdat de van-prijs een adviesprijs is. Wij meten elke dag de echte bol-prijs van alle %d producten in onze gidsen. Op Black Friday verschijnen op deze pagina automatisch de producten die echt goedkoper zijn geworden. Tot die tijd vind je hieronder de gidsen die nu het meest bekeken worden, zodat je vooraf weet welk model je zoekt.</p>
 <p class="muted" style="font-size:.9rem"><a href="echte-kortingen-2026.html"><b>Zoveel kortingen zijn echt: onze eigen metingen</b></a> · <a href="../aanbiedingen/">Bekijk de prijsdalingen van vandaag</a> · <a href="../cadeaus/">Cadeaugidsen</a></p>
@@ -1410,7 +1470,7 @@ if BF_N:
                "url": SITE + "/black-friday/echte-kortingen-2026.html", "creator": {"@type": "Organization", "name": "watkoopik", "url": SITE}, "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": True,
                "temporalCoverage": "%s/%s" % (BF_FIRST, TODAY.isoformat()), "dateModified": TODAY.isoformat(), "distribution": [{"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": SITE + "/black-friday/echte-kortingen-2026.csv"}]},
               {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in bfe_faq]}]
-    page("black-friday/echte-kortingen-2026.html", "Black Friday 2026: zoveel kortingen zijn echt (eigen metingen) | watkoopik",
+    page("black-friday/echte-kortingen-2026.html", "Black Friday 2026: zoveel kortingen zijn echt | watkoopik",
          "%s van %d producten bij bol is nu echt 10%% of meer goedkoper dan de maand ervoor, %s werd juist duurder. Dagelijkse eigen prijsmetingen tot Black Friday." % (pct(BF_CNT["echt"]), BF_N, pct(BF_CNT["duur"])),
          bfe_body, root="../", extra="".join('<script type="application/ld+json">%s</script>' % json.dumps(x, ensure_ascii=False) for x in bfe_ld))
     # Persbericht met de cijfers van vandaag (groeimotor N29, 12 nov 2026). Staat buiten de site (groeimotor/persbericht.md),
@@ -1494,7 +1554,7 @@ def best_value(g):
     return lab or max(g["products"], key=lambda p: p["score"] / p["price"])
 sv = "".join('<a class="rw rv" href="%s"><div class="rw-img">%s</div><div><h3>%s %s</h3><small>Slimste koop bij %s · score %s</small></div><b style="font-family:Sora">%s</b></a>' % (
     g["url"], img_of(best_value(g)), e(best_value(g)["brand"]), e(best_value(g)["name"]), e(g["short"].lower()), best_value(g)["score"], eur(best_value(g)["price"])) for g in guides)
-page("slimste-koop.html", "De slimste koop per productsoort | watkoopik", "Per categorie het product met de beste prijs-kwaliteitverhouding uit onze top 10-gidsen.",
+page("slimste-koop.html", "De slimste koop per productsoort | watkoopik", "Per productsoort het product met de beste prijs-kwaliteitverhouding uit onze %d top 10-gidsen. Zo zie je in één lijst waar je het meest krijgt voor je geld." % len(guides),
      '<section data-hue="1" style="padding-top:34px"><div class="wrap narrow"><span class="kick">Prijs-kwaliteit</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3.2rem)">De slimste koop per productsoort</h1><p class="muted">Niet het duurste, wel het verstandigste: per gids het model dat de meeste kwaliteit per euro biedt.</p><div class="rows" style="margin-top:20px">%s</div></div></section>' % sv, "slimste-koop.html")
 
 # ---------- familie-overzichten "Welke X kopen?" (sinds 4 nov 2026) ----------
@@ -1543,19 +1603,19 @@ for c in HUBS: hub_page(c)
 # ---------- vaste pagina's ----------
 def prose(path, title, desc, inner, active=None):
     page(path, title + " | watkoopik", desc, '<section data-hue="1" style="padding-top:34px"><div class="wrap prose">%s</div></section>' % inner, active)
-prose("zo-kiezen-wij.html", "Zo kiezen wij", "Hoe watkoopik producten vergelijkt en rangschikt.", '''<span class="kick">Onze methode</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Zo komen onze top 10's tot stand</h1>
+prose("zo-kiezen-wij.html", "Zo kiezen wij: onze methode", "Zo komen de top 10's van watkoopik tot stand: een score van 1 tot 10 op prestaties, prijs-kwaliteit, betrouwbaarheid en gebruiksgemak. Prijzen meten we dagelijks.", '''<span class="kick">Onze methode</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Zo komen onze top 10's tot stand</h1>
 <div class="numbers" style="margin:20px 0"><div class="rv"><b>4</b><span>criteria</span></div><div class="rv"><b>''' + format(N_REV, ",").replace(",", ".") + '''</b><span>prijzen gemeten</span></div><div class="rv"><b>0</b><span>betaalde plekken</span></div><div class="rv"><b>Dagelijks</b><span>prijzen gecheckt</span></div></div>
 <h2>Wat we wegen</h2><p>Elk product krijgt een score van 1 tot 10. <b>Prestaties</b> (40%): hoe goed doet het product zijn werk, op basis van specificaties en terugkerende ervaringen in reviews. <b>Prijs-kwaliteit</b> (25%): wat krijg je voor je geld vergeleken met de rest van de lijst. <b>Betrouwbaarheid</b> (20%): garantie, merkreputatie en klachten over defecten. <b>Gebruiksgemak</b> (15%): bediening, onderhoud en ergernissen.</p>
 <h2>Onze bronnen</h2><p>Officiële specificaties van fabrikanten, productpagina's en reviewscores van grote Nederlandse winkels zoals bol. Waar beschikbaar gebruiken we ook onafhankelijke tests van gespecialiseerde media. Wij testen producten niet zelf in een lab. We zeggen dus nooit dat we iets getest hebben, wel dat we het vergeleken hebben.</p>
 <h2>Hoe we geld verdienen</h2><p>Koop je via een link op onze site, dan ontvangen wij soms een kleine vergoeding van de winkel. Jij betaalt niets extra. Dit heeft geen invloed op de volgorde: merken kunnen geen plek kopen.</p>
 <h2 id="stroomkosten">Stroomkosten</h2><p>Bij kachels, dekens, ontvochtigers, airfryers, koelkasten, vriezers, wasmachines, drogers en tv's rekenen we zelf uit wat een apparaat aan stroom kost. Voor apparaten die op vermogen draaien: het maximale vermogen volgens de fabrikant keer de tijd keer de stroomprijs. Voor koelen, wassen en drogen: het verbruik van het EU-energielabel keer de stroomprijs. Voor tv's: het aan-vermogen in SDR van het EU-energielabel (EPREL) keer 4 uur kijken per dag. De stroomprijs is het gemiddelde variabele leveringstarief plus energiebelasting inclusief btw van het CBS (tabel 85592NED), die we elk kwartaal bijwerken. Het zijn rekenvoorbeelden, geen metingen: een thermostaat, eco-stand of kortere sessie maakt de echte kosten lager.</p><h2>Actualiteit</h2><p>Prijzen controleren we dagelijks bij bol. Lijsten bekijken we minimaal elke maand opnieuw. Verdwijnt een product of komt er een beter model, dan passen we de lijst eerder aan.</p>''', "zo-kiezen-wij.html")
-prose("over-ons.html", "Over ons", "Over watkoopik: onafhankelijke koopgidsen.", '''<span class="kick">Over watkoopik</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Een eerlijk overzicht, zodat jij slim koopt</h1>
+prose("over-ons.html", "Over ons: de makers van onze top 10-gidsen", "watkoopik is opgezet door Nick van Straaten en maakt onafhankelijke top 10-koopgidsen. Merken kunnen geen plek kopen. Prijzen meten we elke dag bij bol.", '''<span class="kick">Over watkoopik</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Een eerlijk overzicht, zodat jij slim koopt</h1>
 <p>Wie een stofzuiger of koffiemachine zoekt, verdrinkt in honderden modellen en tegenstrijdige reviews. Wij wilden één plek waar je per productsoort in vijf minuten ziet wat de beste keuze is en waarom.</p>
 <p>Daarom maken we top 10-lijsten: precies tien modellen die ertoe doen, met eerlijke plus- en minpunten en voor wie elk product geschikt is. watkoopik is onderdeel van 4NEON en werkt onafhankelijk van merken en winkels.</p>
 <h2 id="nick">Wie zit erachter</h2>
 <p>watkoopik is opgezet door Nick van Straaten. Producten testen we niet zelf in een testlab. De gidsen schrijven we met hulp van AI-tools op basis van specificaties, prijzen en de ervaringen van kopers; Nick bewaakt de werkwijze en past gidsen aan als lezers of onze eigen controles een fout vinden. We zetten per productsoort tien modellen naast elkaar op specificaties, prijs en de ervaringen van kopers. De prijzen meten we elke dag bij bol, zodat je ziet welke korting echt is.</p>
 <p>Zie je een fout of mis je een model? Laat het weten via het <a href="contact.html">contactformulier</a>.</p>''')
-prose("contact.html", "Contact", "Neem contact op met watkoopik.", '''<span class="kick">Contact</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Vraag, tip of fout gezien?</h1>
+prose("contact.html", "Contact", "Vraag, tip of fout gezien in een van onze top 10-gidsen? Neem contact op met watkoopik via het formulier. We reageren binnen twee werkdagen.", '''<span class="kick">Contact</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Vraag, tip of fout gezien?</h1>
 <form action="https://formsubmit.co/nick@4neon.nl" method="POST" style="display:grid;gap:12px;max-width:520px;margin-top:16px"><input type="hidden" name="_subject" value="Contact via watkoopik.nl"><input type="text" name="_honey" style="display:none">
 <input name="naam" placeholder="Je naam" required style="padding:13px 16px;border:1.5px solid var(--line);border-radius:14px;font:inherit"><input type="email" name="email" placeholder="Je e-mailadres" required style="padding:13px 16px;border:1.5px solid var(--line);border-radius:14px;font:inherit"><textarea name="bericht" rows="6" placeholder="Je bericht" required style="padding:13px 16px;border:1.5px solid var(--line);border-radius:14px;font:inherit"></textarea><button class="btn btn-purple" type="submit">Versturen</button></form>''')
 prose("disclaimer.html", "Affiliate-disclaimer", "Hoe watkoopik geld verdient.", '''<h1 style="font-size:2rem">Affiliate-disclaimer</h1><p>watkoopik neemt deel aan het bol Partnerprogramma en aan het Amazon Associates-programma. Als Amazon-partner verdienen wij aan kwalificerende aankopen. Koop je via een link op onze site, dan kunnen wij een vergoeding ontvangen. De prijs die jij betaalt verandert niet. Deze vergoeding heeft geen invloed op de volgorde van onze lijsten. Prijzen zijn indicatief; de actuele winkelprijs is leidend.</p>''')
@@ -1591,7 +1651,16 @@ wr("search.json", json.dumps([{"t": g["title"], "u": g["url"], "c": CATS[g["cat"
 # llms.txt: compacte index voor AI-zoekmachines (chatgpt.com stuurt sinds 19 okt bezoekers), per categorie gids, nr. 1 en slimste koop
 if not PREVIEW:
     L = ["# watkoopik.nl", "", "> Onafhankelijke Nederlandse top 10-koopgidsen. Per productsoort tien modellen vergeleken op specificaties, prijs en reviews, met plus- en minpunten, een koopgids en veelgestelde vragen. Prijzen zijn indicatief en worden dagelijks bij bol bijgewerkt.", "",
-         "- [Alle gidsen](%s/gidsen.html)" % SITE, "- [Zo kiezen wij](%s/zo-kiezen-wij.html): werkwijze en hoe we geld verdienen" % SITE, ""]
+         # feitenalinea + belangrijkste pagina's (llmstxt.org-vorm, audit 24 nov 2026)
+         "watkoopik.nl is opgezet door Nick van Straaten. Per productsoort zetten we tien modellen naast elkaar op specificaties, prijs en de ervaringen van kopers. Producten testen we niet zelf in een lab; de gidsen schrijven we met hulp van AI-tools en Nick bewaakt de werkwijze. De bol-prijs van alle %d producten meten we elke dag. watkoopik verdient een vergoeding via affiliatelinks naar bol en Amazon; merken kunnen geen plek kopen. Contact: %s." % (N_PROD, CONTACT_MAIL), "",
+         "## Belangrijkste pagina's", "",
+         "- [Home](%s/): de populairste top 10-gidsen per categorie" % SITE,
+         "- [Alle gidsen](%s/gidsen.html): alle %d top 10-gidsen, te filteren per categorie" % (SITE, len(guides)),
+         "- [Zo kiezen wij](%s/zo-kiezen-wij.html): werkwijze, scores, stroomkostenberekening en hoe we geld verdienen" % SITE,
+         "- [Over ons](%s/over-ons.html): wie watkoopik maakt" % SITE,
+         "- [Cadeaus](%s/cadeaus/): cadeaugidsen per budget voor Sinterklaas en kerst" % SITE,
+         "- [Keuzehulp](%s/keuzehulp.html): drie vragen naar het product dat bij je budget past" % SITE,
+         "- [Slimste koop](%s/slimste-koop.html): per productsoort het model met de beste prijs-kwaliteitverhouding" % SITE, ""]
     # groeimotor 21 nov 2026 (uit E22 verloren): eigen prijsdata bovenaan voor AI-zoekmachines, Black Friday-regel tot en met 1 dec
     L += ["## Eigen prijsmetingen", ""]
     if BF_N and TODAY <= datetime.date(2026, 12, 1):
