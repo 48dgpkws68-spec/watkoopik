@@ -30,7 +30,7 @@
         "Capaciteit": "25 l/dag",
         "Reservoir": "4,8 l",
         "Geluid": "42 dB",
-        "Verbruik": "267 W",
+        "Vermogen": "267 W",
         "Wasdroogstand": "Ja"
       },
       "pros": [
@@ -72,7 +72,7 @@
         "Capaciteit": "20 l per dag",
         "Reservoir": "5,5 l",
         "Geluid": "Circa 45 dB",
-        "Verbruik": "Circa 400 W",
+        "Vermogen": "440 W",
         "Wasdroogstand": "Ja"
       },
       "pros": [
@@ -151,7 +151,7 @@
         "Capaciteit": "14 l per dag",
         "Reservoir": "2,1 l",
         "Geluid": "Circa 39 dB",
-        "Verbruik": "Circa 200 W",
+        "Vermogen": "300 W",
         "Wasdroogstand": "Ja"
       },
       "pros": [
@@ -231,7 +231,7 @@
         "Capaciteit": "Circa 20 l per dag",
         "Reservoir": "Circa 3 l",
         "Geluid": "Circa 45 dB",
-        "Verbruik": "Circa 300 W",
+        "Vermogen": "240 W",
         "Wasdroogstand": "Nee"
       },
       "pros": [
@@ -311,7 +311,7 @@
         "Capaciteit": "8 l per dag",
         "Reservoir": "2 l",
         "Geluid": "Circa 40 dB",
-        "Verbruik": "Circa 610 W (hoog)",
+        "Vermogen": "610 W",
         "Wasdroogstand": "Nee"
       },
       "pros": [
@@ -376,7 +376,7 @@
         "Capaciteit": "20 l per dag",
         "Reservoir": "Circa 4 l",
         "Geluid": "Circa 45 dB",
-        "Verbruik": "Circa 300 W",
+        "Vermogen": "330 W",
         "Wasdroogstand": "Ja"
       },
       "pros": [
@@ -456,7 +456,7 @@
         "Capaciteit": "20 l per dag",
         "Reservoir": "4 l",
         "Geluid": "Niet opgegeven",
-        "Verbruik": "Circa 330 W",
+        "Vermogen": "330 W",
         "Wasdroogstand": "Ja"
       },
       "pros": [
@@ -512,7 +512,7 @@
         "Capaciteit": "Circa 20 l per dag",
         "Reservoir": "Circa 4 l",
         "Geluid": "Circa 44 dB",
-        "Verbruik": "Circa 300 W",
+        "Vermogen": "420 W",
         "Wasdroogstand": "Ja"
       },
       "pros": [
@@ -590,7 +590,7 @@
         "Capaciteit": "16 l per dag",
         "Reservoir": "Circa 2,5 l",
         "Geluid": "Circa 45 dB",
-        "Verbruik": "Circa 250 W",
+        "Vermogen": "Niet bevestigd door fabrikant",
         "Wasdroogstand": "Ja"
       },
       "pros": [
@@ -662,7 +662,7 @@
         "Capaciteit": "10 l/dag",
         "Reservoir": "2 l",
         "Geluid": "36 dB",
-        "Verbruik": "200 W",
+        "Vermogen": "265 W",
         "Wasdroogstand": "Ja"
       },
       "pros": [
