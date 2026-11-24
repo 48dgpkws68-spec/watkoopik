@@ -620,82 +620,43 @@
       "prev_date": "2026-11-23"
     },
     {
-      "brand": "Tolino",
-      "name": "Vision Color",
-      "price": 244.2,
+      "brand": "PocketBook",
+      "name": "Era Color",
+      "price": 239.0,
       "score": 8.3,
       "label": null,
-      "reviews": "",
-      "oneliner": "Duitse kleuren-e-reader met bladertoetsen en open systeem.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Waterdichte kleuren-e-reader met bladertoetsen en een open systeem.",
       "specs": {
         "Scherm": "7 inch E Ink Kaleido 3",
         "Kleur": "Ja",
         "Waterdicht": "IPX8",
         "Opslag": "32 GB",
-        "Online Bibliotheek": "Ja, via de app"
+        "Online Bibliotheek": "Via bestanden (EPUB met DRM)"
       },
       "pros": [
-        "Kleurenscherm met bladertoetsen",
-        "Ondersteunt EPUB en Adobe DRM",
-        "Waterdicht",
-        "Stylus-ondersteuning"
+        "Kleurenscherm met fysieke bladertoetsen",
+        "Leest veel bestandsformaten, ook EPUB met Adobe DRM",
+        "Waterdicht volgens IPX8",
+        "Ruime opslag van 32 GB"
       ],
       "cons": [
-        "Kleiner boekenaanbod in Nederland",
-        "Software soms traag"
+        "Geen eigen Nederlandse boekwinkel op het apparaat",
+        "Lenen bij de Online Bibliotheek gaat via de computer"
       ],
-      "ideal": "Lezers die een open e-reader met kleur zoeken als alternatief voor Kobo.",
-      "text": "Tolino is een Duits merk dat net als Kobo inzet op een open systeem. De Vision Color heeft een 7-inch kleurenscherm met E Ink Kaleido 3 en fysieke bladertoetsen. Je leest EPUB en PDF zonder omwegen en ook boeken met Adobe DRM van Nederlandse winkels. Het apparaat is waterdicht en heeft 32 GB opslag. Met een losse stylus maak je markeringen en notities.\n\nDe Online Bibliotheek is via een aparte route beschikbaar, maar minder soepel dan bij Kobo. De Tolino-winkel richt zich vooral op Duitse lezers. Gebruikers waarderen de bouwkwaliteit en het scherm, maar noemen de software soms traag. Voor wie bewust een alternatief voor Amazon en Kobo zoekt is het een degelijke keuze.",
-      "ean": "4016621130183",
-      "bol_title": "Tolino 4016621130183 e-book reader Touchscreen Wifi Zwart",
-      "url": "https://www.bol.com/nl/nl/p/tolino-4016621130183-e-book-reader-touchscreen-wifi-zwart/9300000184726529/",
-      "image": "https://media.s-bol.com/pWpE7Y4QvoEy/o2X0KyY/550x611.jpg",
-      "synced": "2026-11-24",
+      "ideal": "Lezers die een open e-reader met kleur en bladertoetsen zoeken als alternatief voor Kobo.",
+      "text": "PocketBook is een Zwitsers merk dat inzet op een open systeem. De Era Color is de kleurenversie van de Era. Het 7-inch scherm met E Ink Kaleido 3 toont tekst scherp in zwart-wit en geeft strips, kookboeken en kaarten een rustige kleur. Aan de zijkant zitten fysieke bladertoetsen, zodat je met één hand leest. Het apparaat is waterdicht volgens IPX8 en heeft 32 GB opslag voor duizenden boeken.\n\nDe grote kracht is het aantal bestandsformaten. Je opent EPUB, PDF, MOBI en strips zonder omwegen, ook boeken met Adobe DRM van Nederlandse winkels. Boeken van de Online Bibliotheek zet je via je computer op het apparaat, wat minder soepel gaat dan bij Kobo. Op bol scoort hij een 5,0 van 5. Wil je een open e-reader met kleur en knoppen naast de Kobo Libra Colour, dan is dit een sterk alternatief.",
+      "ean": "7640152097294",
+      "rating": 5.0,
+      "bol_title": "PocketBook Era Color e-reader – 7 inch E Ink Kaleido 3 kleurenscherm – 32 GB – waterdicht – Stormy Sea",
+      "url": "https://www.bol.com/nl/nl/p/pocketbook-era-color-e-book-reader-7-touchscreen-32-gb-wifi-zwart-lichtblauw/9300000175945394/",
+      "image": "https://media.s-bol.com/yyvvqLEYw3Pn/ERGKqql/550x635.jpg",
       "ph": {
-        "2026-10-15": 229.29,
-        "2026-10-16": 229.29,
-        "2026-10-17": 229.29,
-        "2026-10-18": 245.88,
-        "2026-10-19": 229.19,
-        "2026-10-20": 229.19,
-        "2026-10-21": 229.19,
-        "2026-10-23": 228.13,
-        "2026-10-24": 228.13,
-        "2026-10-25": 227.0,
-        "2026-10-26": 224.8,
-        "2026-10-27": 224.8,
-        "2026-10-28": 224.8,
-        "2026-10-29": 229.41,
-        "2026-10-30": 229.41,
-        "2026-10-31": 229.41,
-        "2026-11-01": 238.22,
-        "2026-11-02": 233.99,
-        "2026-11-03": 233.1,
-        "2026-11-04": 233.1,
-        "2026-11-05": 233.1,
-        "2026-11-06": 233.1,
-        "2026-11-07": 233.1,
-        "2026-11-08": 225.57,
-        "2026-11-09": 225.57,
-        "2026-11-10": 225.57,
-        "2026-11-11": 231.91,
-        "2026-11-12": 231.91,
-        "2026-11-13": 231.91,
-        "2026-11-14": 225.57,
-        "2026-11-16": 231.91,
-        "2026-11-17": 231.91,
-        "2026-11-18": 231.91,
-        "2026-11-19": 231.91,
-        "2026-11-20": 238.25,
-        "2026-11-21": 235.07,
-        "2026-11-22": 235.07,
-        "2026-11-23": 238.25,
-        "2026-11-24": 244.2
+        "2026-11-24": 239.0
       },
-      "low_price": 224.8,
-      "prev_price": 238.25,
-      "prev_date": "2026-11-23",
-      "ph_ean": "4016621130183"
+      "low_price": 239.0,
+      "ph_ean": "7640152097294",
+      "synced": "2026-11-24"
     },
     {
       "brand": "PocketBook",
@@ -831,5 +792,13 @@
     }
   ],
   "published": "2026-10-14",
-  "noindex": true
+  "noindex": true,
+  "wissels": [
+    {
+      "d": "2026-11-24",
+      "uit": "Tolino Vision Color",
+      "in": "PocketBook Era Color",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

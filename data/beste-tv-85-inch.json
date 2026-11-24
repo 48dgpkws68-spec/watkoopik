@@ -413,44 +413,43 @@
       "ph_ean": "6941948709317"
     },
     {
-      "brand": "TCL",
-      "name": "85Q7D Pro",
-      "price": 1599.0,
+      "brand": "Samsung",
+      "name": "QE85QN70H",
+      "price": 999.0,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "85 inch SQD-Mini LED met 144 Hz en Google TV.",
+      "reviews": "",
+      "oneliner": "85 inch Neo QLED met Mini LED, Tizen en drie jaar extra garantie.",
       "specs": {
-        "Paneel": "SQD-Mini LED",
-        "Beeldfrequentie": "144 Hz",
-        "HDR": "Dolby Vision, HDR10+, HLG",
-        "Smart-tv": "Google TV",
+        "Paneel": "Neo QLED, Mini LED",
+        "Beeldfrequentie": "50 Hz (max. 60 Hz)",
+        "HDR": "HDR10+",
+        "Smart-tv": "Tizen",
         "Bouwjaar": "2026",
-        "Stroomverbruik (SDR)": "103 W · klasse D (EU-label)"
+        "Stroomverbruik (SDR)": "125 W · klasse E (EU-label)"
       },
       "pros": [
-        "Tot 2.000 nits piekhelderheid volgens TCL",
-        "144 Hz met VRR voor consoles en pc",
-        "Dolby Vision en HDR10+",
-        "2.1-geluid van Onkyo met Dolby Atmos"
+        "Mini LED voor meer contrast dan een gewone led-tv",
+        "Tizen met alle Nederlandse apps en Ziggo via CI+",
+        "Drie jaar extra garantie via bol",
+        "Made for NL-pakket met extra apps"
       ],
       "cons": [
-        "Duurder dan de TCL 85T8D op plek één",
-        "Minder dimzones dan de duurdere C-serie van TCL"
+        "Maximaal 60 Hz, minder geschikt voor fanatieke gamers",
+        "Geen Dolby Vision",
+        "Drie HDMI-poorten"
       ],
-      "ideal": "Wie een fel 85 inch Mini LED-scherm wil voor films en games in een lichte woonkamer.",
-      "text": "De TCL 85Q7D Pro is volgens TCL de toegankelijkste tv met Super Quantum Dot Mini LED uit de lijn van 2026. Hij gebruikt dezelfde basis als de duurdere C-serie, maar met minder dimzones en een lagere piekhelderheid. TCL noemt tot 2.000 nits, ruim genoeg voor HDR in een lichte woonkamer. Het HVA 2.0 Pro-paneel moet zorgen voor hoog contrast en ruimere kijkhoeken dan een standaard VA-paneel.\n\nVoor gamers ververst het scherm met 144 Hz en ondersteunt hij VRR, zodat een PlayStation 5, Xbox of pc vloeiend draait. Dolby Vision, HDR10+ en HLG worden alle drie ondersteund. Het 2.1-geluidssysteem van Onkyo met Dolby Atmos klinkt voller dan de meeste tv-luidsprekers. De tv draait op Google TV met alle grote streamingdiensten en Google Assistant. Op bol staat hij op 5,0 van 5. Met 1599 euro is hij duurder dan de 85T8D bovenaan, die voor de meeste mensen meer waar voor zijn geld geeft. Kies de Q7D Pro als je de extra helderheid wilt.",
-      "ean": "5901292531751",
-      "bol_title": "TCL 85Q7D Pro - 85 inch - 4K SQD-MiniLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-85q7d-pro-85-inch-4k-qd-miniled-2026-smart-tv/9300000273452858/",
-      "image": "https://media.s-bol.com/3LlzR445GlxR/vQqYOR0/550x330.jpg",
+      "ideal": "Wie een groot Samsung-scherm met Mini LED wil voor tv, sport en films.",
+      "text": "De Samsung QE85QN70H is het instapmodel in de Neo QLED-lijn van 2026 en een van de goedkoopste manieren om een 85 inch Mini LED van Samsung in huis te halen. Duizenden kleine leds achter het scherm regelen het licht nauwkeuriger dan bij een gewone led-tv, waardoor zwart dieper oogt en heldere delen beter uitkomen. De NQ4 AI-processor schaalt tv-zenders en streams op naar 4K en stemt beeld en geluid af op wat je kijkt.\n\nTizen is snel en heeft NPO Start, Videoland en de andere Nederlandse apps. Via CI+ kijk je Ziggo zonder los kastje en je krijgt het Made for NL-pakket. Bol levert deze versie met drie jaar extra garantie. Er zijn ook beperkingen. Het paneel haalt maximaal 60 Hz, wat prima is voor voetbal maar minder voor gamen op 120 frames. Samsung kiest voor HDR10+ en niet voor Dolby Vision. Wil je vooral gamen, dan is de TCL 85T8D bovenaan de betere koop.",
+      "ean": "8806099038472",
+      "bol_title": "Samsung QE85QN70H - 85 inch - 4K Neo QLED - 2026 + 3 jaar extra garantie - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/samsung-qe85qn70h-televisie-neo-qled-85-inch-wifi-smart-tv-motion-xcelerator-hdr-ondersteuning-tizen-benelux-model/9300000342303012/",
+      "image": "https://media.s-bol.com/3LYl36KDZ7y4/ywoPDL6/550x339.jpg",
       "ph": {
-        "2026-11-23": 1599.0,
-        "2026-11-24": 1599.0
+        "2026-11-24": 999.0
       },
-      "low_price": 1599.0,
-      "ph_ean": "5901292531751",
-      "rating": 5.0,
+      "low_price": 999.0,
+      "ph_ean": "8806099038472",
       "synced": "2026-11-24"
     },
     {
@@ -624,6 +623,12 @@
   "meta_title": "Beste 85 inch tv 2026: top 10 vergeleken",
   "meta_desc": "De beste 85 inch tv van 2026 is de {top}. Top 10 vergeleken op beeldkwaliteit, helderheid, gaming en prijs, zodat je in één keer goed kiest.",
   "wissels": [
+    {
+      "d": "2026-11-24",
+      "uit": "TCL 85Q7D Pro",
+      "in": "Samsung QE85QN70H",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-23",
       "uit": "Hisense 85E8S",

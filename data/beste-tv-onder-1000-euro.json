@@ -17,7 +17,7 @@
   "updated": "2026-10-27",
   "reviews_total": "3.500",
   "intro": "Met een budget onder 1000 euro koop je in 2026 een tv die vijf jaar geleden nog het dubbele kostte. Je kiest tussen een 55 inch OLED met perfect zwart, een felle mini-led op 65 inch of een grote QLED met budget over voor een soundbar. Wij vergeleken tv's onder 1000 euro op beeldtechniek, helderheid, HDMI 2.1, verversing, smart-tv en de score bij bol. Hieronder vind je de tien beste, met voor elke kamer en elk kijkgedrag een duidelijke keuze.",
-  "verdict": "De LG B5 is de beste tv onder 1000 euro: een echte OLED met 120 Hz en vier HDMI 2.1-poorten voor 849 euro. Zoek je de meeste tv voor je geld, dan haal je met de TCL 55T8D een mini-led met 144 Hz voor rond de 550 euro. Wil je juist groot kijken, dan geeft de Samsung UE65M82H een 65 inch mini-led met tot 144 Hz voor rond de 815 euro. De Philips 48OLED760 is de premiumkeuze voor wie een OLED met Ambilight wil. Kijk je vooral overdag in een lichte kamer, kies dan mini-led boven OLED.",
+  "verdict": "De LG B5 is de beste tv onder 1000 euro: een echte OLED met 120 Hz en vier HDMI 2.1-poorten voor 849 euro. Zoek je de meeste tv voor je geld, dan haal je met de TCL 55T8D een mini-led met 144 Hz voor rond de 550 euro. Wil je juist groot kijken, dan geeft de Samsung UE65M82H een 65 inch mini-led met tot 144 Hz voor rond de 815 euro. De Philips 55OLED761 is de premiumkeuze voor wie een OLED met Ambilight wil. Kijk je vooral overdag in een lichte kamer, kies dan mini-led boven OLED.",
   "products": [
     {
       "brand": "LG",
@@ -146,56 +146,42 @@
     },
     {
       "brand": "Philips",
-      "name": "48OLED760",
-      "price": 823.0,
+      "name": "55OLED761",
+      "price": 899.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "bol-score 4,7 van 5",
-      "oneliner": "48 inch OLED met driezijdige Ambilight en Titan OS.",
+      "reviews": "",
+      "oneliner": "55 inch OLED uit 2026 met Ambilight en Titan OS.",
       "specs": {
-        "Formaat": "48 inch",
+        "Formaat": "55 inch",
         "Paneel": "OLED",
-        "Verversing": "120 Hz, VRR",
+        "Verversing": "120 Hz, VRR tot 144 Hz",
         "HDR": "Dolby Vision, HDR10+",
         "Smart-tv": "Titan OS",
-        "Stroomverbruik (SDR)": "60 W · klasse F (EU-label)"
+        "Stroomverbruik (SDR)": "84 W · klasse G (EU-label)"
       },
       "pros": [
-        "OLED met driezijdige Ambilight",
+        "OLED met Ambilight",
         "Dolby Vision en HDR10+",
-        "120 Hz met VRR voor een console",
-        "48 inch past in een kleinere woonkamer of slaapkamer"
+        "VRR tot 144 Hz voor een console",
+        "Vier HDMI-aansluitingen"
       ],
       "cons": [
-        "Kleiner scherm dan de LG B5 voor een vergelijkbare prijs",
+        "Duurder dan de LG B5 met hetzelfde formaat",
         "Titan OS heeft minder apps dan Google TV"
       ],
-      "ideal": "Wie een OLED met Ambilight zoekt voor een kleinere woonkamer, slaapkamer of gamehoek.",
-      "text": "De Philips 48OLED760 is de OLED met Ambilight uit 2025 en staat bij bol voor rond 823 euro, ruim onder de grens van 1000 euro. Je betaalt voor de combinatie van een OLED-paneel en driezijdige Ambilight. De leds achter de tv kleuren de muur mee met het beeld, waardoor het scherm groter oogt en kijken in het donker rustiger is voor je ogen. Elke pixel geeft zijn eigen licht, dus zwart is echt zwart en de kijkhoek is breed.\n\nHet systeem is Titan OS, met de grote streamingdiensten maar minder apps dan Google TV. Dolby Vision en HDR10+ worden allebei ondersteund en het paneel werkt op 120 Hz met VRR, handig voor een console. Kopers op bol geven de tv een 4,7. Het nadeel is het formaat: 48 inch past goed in een kleinere woonkamer of slaapkamer, maar wie groot wil kijken kiest beter een andere tv uit deze lijst. De LG B5 geeft voor iets minder geld een 55 inch OLED, al mis je daar Ambilight.",
-      "ean": "8718863046753",
-      "bol_title": "Philips 48OLED760/12 - 48 inch - 4K OLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/philips-48oled760-12-48-inch-4k-oled-2025/9300000238165903/",
-      "image": "https://media.s-bol.com/YLnv7y3D8gzA/k5M7kPv/550x324.jpg",
+      "ideal": "Wie een OLED met Ambilight zoekt voor de woonkamer en onder 1000 euro wil blijven.",
+      "text": "De Philips 55OLED761 is de nieuwe OLED met Ambilight uit 2026 en staat bij bol voor rond 899 euro, onder de grens van 1000 euro. Je betaalt voor de combinatie van een OLED-paneel en Ambilight. De leds achter de tv kleuren de muur mee met het beeld, waardoor het scherm groter oogt en kijken in het donker rustiger is voor je ogen. Elke pixel geeft zijn eigen licht, dus zwart is echt zwart en de kijkhoek is breed.\n\nHet systeem is Titan OS, met de grote streamingdiensten maar minder apps dan Google TV. Dolby Vision en HDR10+ worden allebei ondersteund. Het paneel werkt op 120 Hz en haalt met VRR tot 144 Hz, handig voor een console. Er zijn vier HDMI-aansluitingen, waarvan één met eARC. Omdat hij net nieuw is, heeft hij bij bol nog geen score. De LG B5 geeft voor 100 euro minder ook een 55 inch OLED, al mis je daar Ambilight.",
+      "ean": "8718863052037",
+      "bol_title": "Philips 55OLED761/12 - 55 inch - 4K OLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/philips-55oled761-12-55-inch-4k-oled-2026-smart-tv/9300000347506271/",
+      "image": "https://media.s-bol.com/pyKV3EYwGDDr/w0nBwGJ/550x342.jpg",
       "ph": {
-        "2026-11-10": 823.0,
-        "2026-11-11": 823.0,
-        "2026-11-12": 823.0,
-        "2026-11-13": 823.0,
-        "2026-11-14": 823.0,
-        "2026-11-16": 823.0,
-        "2026-11-17": 823.0,
-        "2026-11-18": 823.0,
-        "2026-11-19": 823.0,
-        "2026-11-20": 823.0,
-        "2026-11-21": 823.0,
-        "2026-11-22": 823.0,
-        "2026-11-23": 823.0,
-        "2026-11-24": 823.0
+        "2026-11-24": 899.0
       },
-      "low_price": 823.0,
-      "synced": "2026-11-24",
-      "ph_ean": "8718863046753",
-      "rating": 4.7
+      "low_price": 899.0,
+      "ph_ean": "8718863052037",
+      "synced": "2026-11-24"
     },
     {
       "brand": "Samsung",
@@ -477,71 +463,44 @@
       "synced": "2026-11-24"
     },
     {
-      "brand": "Samsung",
-      "name": "UE65M74H",
-      "price": 689.0,
-      "score": 8.3,
+      "brand": "TCL",
+      "name": "65P79L",
+      "price": 599.0,
+      "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Instap-mini-led van Samsung op 65 inch, 2026-model.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "Betaalbare 65 inch QLED uit 2026 met Google TV.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "Mini-led",
+        "Paneel": "QLED",
         "Verversing": "60 Hz",
-        "HDR": "HDR10+, HLG",
-        "Smart-tv": "Tizen",
-        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
+        "HDR": "Dolby Vision, HDR10+, HLG",
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "klasse E (EU-label)"
       },
       "pros": [
-        "Samsung-kwaliteit op 65 inch voor 699 euro",
-        "Mini-led-verlichting voor meer contrast dan gewone led",
-        "Tizen met Samsung TV Plus",
-        "3 jaar extra garantie bij bol"
+        "Groot 65 inch scherm voor rond de 600 euro",
+        "Dolby Vision en HDR10+",
+        "Google TV met alle grote streamingapps",
+        "Quantum dots voor vollere kleuren"
       ],
       "cons": [
         "60 Hz is minder geschikt voor fanatieke gamers",
-        "Geen Dolby Vision"
+        "Geen Mini LED, dus minder diep zwart"
       ],
-      "ideal": "Wie een betrouwbare grote Samsung wil voor tv, streamen en sport zonder gamewensen.",
-      "text": "De Samsung UE65M74H is een van de nieuwe 2026-modellen en brengt mini-led naar Samsungs instaplijn. Je krijgt een 65 inch scherm met meer controle over licht en donker dan een gewone led-tv. Het beeld oogt fel en strak, ook in een lichte kamer. De 4K-processor schaalt tv-zenders netjes op en Tizen werkt snel, met alle grote streamingdiensten en gratis kanalen via Samsung TV Plus.\n\nHet paneel draait op 60 Hz. Voor tv kijken, streamen en voetbal is dat prima, maar wie een PS5 of Xbox op 120 frames wil spelen kiest beter de Hisense 65E7S PRO of de Samsung UE65M82H. Net als bij elke Samsung ontbreekt Dolby Vision. Bol-kopers geven 4,5 sterren en waarderen de bouwkwaliteit en de extra garantie. Wil je een grote, betrouwbare tv van een bekend merk zonder over instellingen na te denken, dan is dit een veilige keuze.",
-      "ean": "8806099134624",
-      "bol_title": "Samsung UE65M74H - 65 inch - 4K MiniLED - 2026 + 3 jaar extra garantie - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-65m74h-65-inch-4k-miniled-2026-smart-tv/9300000284690214/",
-      "image": "https://media.s-bol.com/qN3y5nM62zxy/P7oj3Vz/550x347.jpg",
+      "ideal": "Wie een groot scherm wil voor tv, streamen en sport en weinig gamet.",
+      "text": "De TCL 65P79L is een 65 inch QLED uit 2026 en kost rond de 599 euro. Daarmee is hij een van de goedkoopste grote tv's in deze lijst. Quantum dots maken de kleuren voller dan bij een gewone led-tv en de AiPQ-processor schaalt tv-zenders netjes op. Dolby Vision, HDR10+ en HLG worden ondersteund, dus series op Netflix en Disney+ tonen hun HDR-versie. Google TV werkt met alle grote streamingdiensten en je bedient de tv ook met je stem.\n\nHet paneel draait op maximaal 60 Hz. Voor tv kijken, streamen en voetbal is dat prima, maar wie een PS5 of Xbox op 120 frames wil spelen kiest beter de Hisense 65E7S PRO of de Samsung UE65M82H. De verlichting is direct-led zonder Mini LED, waardoor zwart minder diep oogt in een donkere kamer. Op bol scoort hij een 4,4 van 5. Wil je zo veel mogelijk scherm voor je geld, dan is dit een verstandige keuze.",
+      "ean": "5901292531348",
+      "rating": 4.4,
+      "bol_title": "TCL 65P79L - 65 inch - 4K QLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65p79l-65-inch-4k-qled-2026-smart-tv/9300000273452841/",
+      "image": "https://media.s-bol.com/Jm9NPm3MRGDK/D9oNEqA/550x341.jpg",
       "ph": {
-        "2026-10-27": 699.0,
-        "2026-10-28": 699.0,
-        "2026-10-29": 699.0,
-        "2026-10-30": 699.0,
-        "2026-10-31": 699.0,
-        "2026-11-01": 699.0,
-        "2026-11-02": 699.0,
-        "2026-11-03": 699.0,
-        "2026-11-04": 699.0,
-        "2026-11-05": 699.0,
-        "2026-11-06": 579.0,
-        "2026-11-07": 579.0,
-        "2026-11-08": 579.0,
-        "2026-11-09": 579.0,
-        "2026-11-10": 579.0,
-        "2026-11-11": 579.0,
-        "2026-11-12": 579.0,
-        "2026-11-13": 579.0,
-        "2026-11-14": 579.0,
-        "2026-11-16": 579.0,
-        "2026-11-17": 579.0,
-        "2026-11-18": 579.0,
-        "2026-11-19": 689.0,
-        "2026-11-21": 689.0,
-        "2026-11-22": 689.0,
-        "2026-11-23": 689.0
+        "2026-11-24": 599.0
       },
-      "low_price": 579.0,
-      "synced": "2026-11-24",
-      "prev_price": 579.0,
-      "prev_date": "2026-11-18",
-      "ph_ean": "8806099134624",
-      "rating": 4.6
+      "low_price": 599.0,
+      "ph_ean": "5901292531348",
+      "synced": "2026-11-24"
     },
     {
       "brand": "Philips",
@@ -571,7 +530,7 @@
         "Titan OS heeft minder apps"
       ],
       "ideal": "Wie een 65 inch van een bekend merk wil en geld overhoudt voor een soundbar.",
-      "text": "De Philips 65PQS7801/12 is samen met de Samsung UE65M74H de goedkoopste 65 inch van een groot A-merk in deze lijst. Het is een QLED uit 2026: quantum dots maken de kleuren voller dan bij een gewone led-tv en Philips houdt de beeldverwerking rustig, zonder overdreven scherpte. HDR10+ wordt ondersteund. Voor onder de 600 euro houd je van een budget van 1000 euro genoeg over voor een goede soundbar.\n\nWat je inlevert, is contrast. Local dimming ontbreekt, dus in een donkere kamer oogt zwart grijzer dan bij de Mini LED-modellen van TCL en Samsung in deze lijst. Het paneel draait op 60 Hz en is daarmee niet de keuze voor een PS5 op 120 Hz. Titan OS heeft de grote streamingdiensten zoals Netflix, NPO Start en Videoland, maar minder apps dan Google TV. Het geluid ondersteunt Dolby Atmos en DTS:X. Kopers op bol geven hem gemiddeld 4,5 uit 5.",
+      "text": "De Philips 65PQS7801/12 is een van de goedkoopste 65 inch-tv's in deze lijst. Het is een QLED uit 2026: quantum dots maken de kleuren voller dan bij een gewone led-tv en Philips houdt de beeldverwerking rustig, zonder overdreven scherpte. HDR10+ wordt ondersteund. Voor onder de 600 euro houd je van een budget van 1000 euro genoeg over voor een goede soundbar.\n\nWat je inlevert, is contrast. Local dimming ontbreekt, dus in een donkere kamer oogt zwart grijzer dan bij de Mini LED-modellen van TCL en Samsung in deze lijst. Het paneel draait op 60 Hz en is daarmee niet de keuze voor een PS5 op 120 Hz. Titan OS heeft de grote streamingdiensten zoals Netflix, NPO Start en Videoland, maar minder apps dan Google TV. Het geluid ondersteunt Dolby Atmos en DTS:X. Kopers op bol geven hem gemiddeld 4,5 uit 5.",
       "ean": "8718863051689",
       "bol_title": "Philips 65PQS7801/12 - 65 inch - 4K QLED - 2026",
       "url": "https://www.bol.com/nl/nl/p/philips-65pqs7801-12-65-inch-4k-qled-2026/9300000354155808/",
@@ -632,7 +591,7 @@
     },
     {
       "q": "Kan ik een OLED-tv kopen onder 1000 euro?",
-      "a": "Ja. De LG B5 in 55 inch kost rond 849 euro en de LG C5 in 42 inch rond 749 euro. De Philips 48OLED760 met Ambilight kost rond 823 euro. Een 65 inch OLED kost nog meer dan 1000 euro."
+      "a": "Ja. De LG B5 in 55 inch kost rond 849 euro en de LG C5 in 42 inch rond 749 euro. De Philips 55OLED761 met Ambilight kost rond 899 euro. Een 65 inch OLED kost nog meer dan 1000 euro."
     },
     {
       "q": "Is mini-led beter dan OLED?",
@@ -714,6 +673,18 @@
   "meta_title": "Beste tv onder 1000 euro 2026: top 10",
   "meta_desc": "De beste tv onder 1000 euro van 2026 is de {top}. Top 10 vergeleken op beeldkwaliteit, formaat, gaming en prijs, met oled en mini-led binnen budget.",
   "wissels": [
+    {
+      "d": "2026-11-24",
+      "uit": "Philips 48OLED760",
+      "in": "Philips 55OLED761",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-24",
+      "uit": "Samsung UE65M74H",
+      "in": "TCL 65P79L",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-21",
       "uit": "TCL 65C6KS",

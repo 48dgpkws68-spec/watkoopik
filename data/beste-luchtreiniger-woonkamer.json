@@ -28,7 +28,7 @@
     "beste-luchtreiniger-slaapkamer"
   ],
   "intro": "Een woonkamer is vaak de grootste ruimte van je huis, met een open keuken, een bank, een kleed en soms een houtkachel. Een luchtreiniger die op de slaapkamer prima werkt, komt daar tekort. Kijk daarom eerst naar de CADR: hoeveel kubieke meter schone lucht het apparaat per uur levert. Voor een woonkamer van 35 tot 50 m² wil je ongeveer 450 tot 650 m³/u. Daarnaast telt hoe hard hij op die hoge stand klinkt en wat een nieuw filter kost. Dit zijn tien luchtreinigers die nu bij bol te koop zijn, van 140 tot 399 euro.",
-  "verdict": "De Coway Airmega 350 is de beste luchtreiniger voor de woonkamer: 713 m³/u, een luchtinlaat rondom en een bediening zonder app voor 349,99 euro. De Philips PureProtect 3200 is de compacte keuze met 520 m³/u en minder geluid op de hoogste stand. Voor een kleinere woonkamer is de Duux Bright 2 de beste prijs-kwaliteit, met HEPA H13 en een app voor rond de 133 euro. Wil je het grootste apparaat met een app, dan is de Levoit Core 600S de premium keuze.",
+  "verdict": "De Coway Airmega 350 is de beste luchtreiniger voor de woonkamer: 713 m³/u, een luchtinlaat rondom en een bediening zonder app voor 349,99 euro. De Philips PureProtect 3200 is de compacte keuze met 520 m³/u en minder geluid op de hoogste stand. Voor een kleinere woonkamer is de Duux Bright 2 de beste prijs-kwaliteit, met HEPA H13 en een app voor rond de 133 euro. Wil je een groot apparaat met app, lasersensor en afstandsbediening, dan is de Levoit EverestAir de premium keuze.",
   "products": [
     {
       "brand": "Coway",
@@ -166,46 +166,40 @@
     },
     {
       "brand": "Levoit",
-      "name": "Core 600S",
+      "name": "EverestAir",
       "price": 399.0,
       "score": 8.6,
       "label": "Beste premium",
-      "reviews": "bol-score 4,0 van 5",
-      "oneliner": "Groot slim model met 697 m³/u en een apart koolfilter.",
+      "reviews": "",
+      "oneliner": "Groot slim model met lasersensor, afstandsbediening en app.",
       "specs": {
-        "CADR": "697 m³/u",
-        "Ruimte": "59 m² bij 5x verversen per uur",
-        "Geluid hoogste stand": "Niet vermeld bij bol",
+        "CADR": "Niet vermeld bij bol",
+        "Ruimte": "52 m² bij 5x verversen per uur",
+        "Geluid hoogste stand": "56 dB",
         "Vervangfilter bij bol": "Niet vermeld bij bol",
         "App": "Ja, VeSync"
       },
       "pros": [
-        "697 m³/u, op een na de hoogste CADR van de lijst",
-        "Apart actief koolfilter tegen geur, rook en VOC's",
-        "PM2,5-waarde op het display, app en spraakbediening"
+        "Lasersensor meet PM1,0, PM2,5 en PM10",
+        "Wasbaar voorfilter plus HEPA en actieve kool",
+        "App, spraakbediening en afstandsbediening"
       ],
       "cons": [
         "Duurste apparaat in deze vergelijking",
-        "Bol-score lager dan bij de rest van de top 5",
+        "Nog geen bol-score",
         "Geen origineel vervangfilter gezien bij bol"
       ],
       "ideal": "Wie een grote woonkamer heeft en alles via een app wil volgen.",
-      "text": "De Levoit Core 600S is het grootste model in deze vergelijking en met 399 euro ook de duurste. Bol vermeldt een CADR van 697 m³/u. Levoit noemt zelf 59 m², maar rekent dan met vijf keer per uur alle lucht verversen. Dat is een strengere maatstaf dan de meeste merken gebruiken, dus vergelijk hem vooral op de CADR. Daarmee hoort hij samen met de Coway Airmega 350 bij de twee krachtigste apparaten van de lijst.\n\nHet filter heeft drie lagen: een voorfilter, H13 True HEPA en een apart actief koolfilter tegen geur, rook en VOC's. Een laserstofsensor toont de PM2,5-waarde op het display en stuurt de automatische stand. In de VeSync-app volg je de luchtkwaliteit en de filterstatus. Ook Alexa en Google Assistant werken. Levoit noemt een laagste geluid van 26 dB, een betrouwbaar getal voor de hoogste stand staat niet bij bol. Wat hem lager in de lijst houdt: de bol-score ligt onder die van de rest van de top 5 en een origineel vervangfilter zagen wij niet bij bol.",
-      "ean": "0810043375214",
-      "bol_title": "Levoit Core 600S LAP-C601S Slimme luchtreiniger",
-      "url": "https://www.bol.com/nl/nl/p/levoit-smart-luchtreiniger-core-600s-lap-c601s/9300000098586396/",
-      "image": "https://media.s-bol.com/ZD86O2Ymjljw/zGM23O/550x764.jpg",
+      "text": "De Levoit EverestAir is het grootste model in deze vergelijking en met 399 euro ook de duurste. Levoit zegt dat hij de lucht in een ruimte tot 52 m² vijf keer per uur ververst. Dat is een strengere maatstaf dan de meeste merken gebruiken. Bol vermeldt ruimtes tot 130 m², maar dan ververst hij de lucht minder vaak. Een CADR-waarde staat niet in de productinfo bij bol.\n\nHet filter werkt in drie stappen: een wasbaar voorfilter, een HEPA-filter en actieve kool tegen geur en rook. De AirSight Plus-lasersensor meet PM1,0, PM2,5 en PM10 en stuurt de automatische stand. In de VeSync-app volg je de luchtkwaliteit en de filterstatus. Ook Alexa en Google Assistant werken en er zit een afstandsbediening bij. In de nachtmodus noemt Levoit 26 dB, op de hoogste stand vermeldt bol 56 dB. Wat hem lager in de lijst houdt: er is nog geen bol-score en een origineel vervangfilter zagen wij niet bij bol.",
+      "ean": "0810123670970",
+      "ph_ean": "0810123670970",
+      "bol_title": "Luchtreiniger - Levoit - Everest Air - 3-traps filtratie - Geschikt voor ruimtes tot 130 m² - Nachtmodus - 70 W - Grijs",
+      "url": "https://www.bol.com/nl/nl/p/luchtreiniger-levoit-everest-air-3-traps-filtratie-geschikt-voor-ruimtes-tot-130-m-nachtmodus-70-w-grijs/9300000172774700/",
+      "image": "https://media.s-bol.com/3LyJxqOQAWrA/08gqkq7/550x633.jpg",
       "ph": {
-        "2026-11-19": 399.0,
-        "2026-11-20": 399.0,
-        "2026-11-21": 399.0,
-        "2026-11-22": 399.0,
-        "2026-11-23": 399.0,
         "2026-11-24": 399.0
       },
       "low_price": 399.0,
-      "ph_ean": "0810043375214",
-      "rating": 4.0,
       "synced": "2026-11-24"
     },
     {
@@ -480,7 +474,7 @@
     },
     {
       "h": "Waarom de vierkante meters op de doos niet te vergelijken zijn",
-      "p": "Merken rekenen het oppervlak op verschillende manieren uit. Coway noemt 185 m² voor de Airmega 350, Levoit noemt 59 m² voor de Core 600S, terwijl beide ongeveer 700 m³/u leveren. Levoit rekent met vijf keer verversen per uur, andere merken soms met een keer per uur of minder. Vergelijk daarom altijd op de CADR in m³/u en reken zelf uit wat je kamer nodig heeft."
+      "p": "Merken rekenen het oppervlak op verschillende manieren uit. Coway noemt 185 m² voor de Airmega 350 bij ongeveer 700 m³/u, terwijl Levoit voor de EverestAir 52 m² noemt. Levoit rekent met vijf keer verversen per uur, andere merken soms met een keer per uur of minder. Vergelijk daarom altijd op de CADR in m³/u en reken zelf uit wat je kamer nodig heeft."
     },
     {
       "h": "Geluid op de hoogste stand",
@@ -488,7 +482,7 @@
     },
     {
       "h": "Filterkosten per jaar",
-      "p": "Een groot apparaat heeft een groot filter. Bij bol kost een origineel vervangfilter voor de modellen in deze lijst tussen € 46,92 (Rowenta) en € 69,95 (Xiaomi Elite). De meeste fabrikanten adviseren vervanging na zes tot twaalf maanden, afhankelijk van hoeveel uur per dag hij draait. Coway noemt ongeveer een jaar voor de filterset van de Airmega Mighty. Controleer voor je koopt of het vervangfilter te krijgen is: voor de Coway Airmega 350, de Duux Bright 2, de Philips PureProtect Quiet 2200 en de Levoit Core 600S vonden wij geen origineel filter bij bol."
+      "p": "Een groot apparaat heeft een groot filter. Bij bol kost een origineel vervangfilter voor de modellen in deze lijst tussen € 46,92 (Rowenta) en € 69,95 (Xiaomi Elite). De meeste fabrikanten adviseren vervanging na zes tot twaalf maanden, afhankelijk van hoeveel uur per dag hij draait. Coway noemt ongeveer een jaar voor de filterset van de Airmega Mighty. Controleer voor je koopt of het vervangfilter te krijgen is: voor de Coway Airmega 350, de Duux Bright 2, de Philips PureProtect Quiet 2200 en de Levoit EverestAir vonden wij geen origineel filter bij bol."
     },
     {
       "h": "Waar zet je hem neer in de woonkamer?",
@@ -496,7 +490,7 @@
     },
     {
       "h": "Open keuken, houtkachel en kookgeur",
-      "p": "Een HEPA-filter vangt fijnstof, pollen en huisstof. Tegen geur van bakken, sigarettenrook of de lucht van een houtkachel heb je actieve kool nodig. Alle tien apparaten in deze lijst hebben een koolfilter, bij de Levoit Core 600S zit dat los van het HEPA-filter. Een luchtreiniger vervangt geen afzuigkap: zet die tijdens het koken aan en laat de luchtreiniger daarna op een hogere stand de rest opruimen."
+      "p": "Een HEPA-filter vangt fijnstof, pollen en huisstof. Tegen geur van bakken, sigarettenrook of de lucht van een houtkachel heb je actieve kool nodig. Alle tien apparaten in deze lijst hebben een koolfilter. Een luchtreiniger vervangt geen afzuigkap: zet die tijdens het koken aan en laat de luchtreiniger daarna op een hogere stand de rest opruimen."
     }
   ],
   "faq": [
@@ -506,7 +500,7 @@
     },
     {
       "q": "Welke luchtreiniger is geschikt voor een woonkamer van 40 m²?",
-      "a": "Voor een woonkamer van 40 m² met een normaal plafond wil je ongeveer 520 m³/u om de lucht vijf keer per uur te verversen. De Philips PureProtect 3200 (520 m³/u) zit daar precies op. Met de Coway Airmega 350 of de Levoit Core 600S heb je ruim over."
+      "a": "Voor een woonkamer van 40 m² met een normaal plafond wil je ongeveer 520 m³/u om de lucht vijf keer per uur te verversen. De Philips PureProtect 3200 (520 m³/u) zit daar precies op. Met de Coway Airmega 350 heb je ruim over."
     },
     {
       "q": "Hoe hard is een luchtreiniger in de woonkamer op de hoogste stand?",
@@ -526,6 +520,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-24",
+      "uit": "Levoit Core 600S",
+      "in": "Levoit EverestAir",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-22",
       "uit": "Winix T800 Wifi",

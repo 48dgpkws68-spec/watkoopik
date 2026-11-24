@@ -408,52 +408,44 @@
       "prev_date": "2026-11-23"
     },
     {
-      "brand": "Samsung",
-      "name": "UE65M74H",
-      "price": 689.0,
-      "score": 8.5,
+      "brand": "TCL",
+      "name": "65P79L",
+      "price": 599.0,
+      "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Een 65 inch Mini LED van Samsung voor onder de 600 euro.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "Een 65 inch QLED met Google TV voor rond de 600 euro.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "Mini LED",
-        "Verversing": "50 Hz, tot 120 Hz",
-        "HDR": "HDR10+",
-        "Smart-tv": "Tizen",
-        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
+        "Paneel": "QLED, direct-led",
+        "Verversing": "50 Hz, max. 60 Hz",
+        "HDR": "Dolby Vision, HDR10+, HLG",
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "klasse E (EU-label)"
       },
       "pros": [
-        "Mini LED op 65 inch",
-        "Tizen met alle Nederlandse apps",
-        "Ziggo via CI+",
-        "Drie jaar extra garantie via bol"
+        "65 inch voor rond de 600 euro",
+        "Quantum dots voor vollere kleuren",
+        "Dolby Vision en HDR10+",
+        "Google TV met alle grote apps"
       ],
       "cons": [
-        "Geen quantum dots",
-        "Geen Dolby Vision"
+        "Geen Mini LED",
+        "Maximaal 60 Hz voor gamen"
       ],
-      "ideal": "Wie een groot Samsung-scherm wil zonder de prijs van een Neo QLED.",
-      "text": "De Samsung UE65M74H is de goedkoopste manier om een 65 inch Mini LED van Samsung in huis te halen. De kleine leds achter het scherm geven een beter contrast dan de gewone led-tv's van Samsung, met dieper zwart in donkere scènes. Motion Xcelerator houdt sport en actie vloeiend tot 120 Hz.\n\nHet menu is Tizen. Dat is snel en heeft NPO Start, Ziggo GO, Videoland en de rest. Via CI+ kijk je Ziggo zonder los kastje. Net als bij de QN82H krijg je het Made for NL-pakket met onder meer SkyShowtime en via bol drie jaar extra garantie. Er zijn ook beperkingen. Er zitten geen quantum dots in, dus kleuren zijn minder verzadigd dan bij de TCL en Hisense in deze lijst. Dolby Vision ontbreekt en er zijn drie HDMI-poorten. Kopers op bol geven gemiddeld 4,5 sterren en prijzen vooral het menu en het formaat.",
-      "ean": "8806099134624",
-      "bol_title": "Samsung UE65M74H - 65 inch - 4K MiniLED - 2026 + 3 jaar extra garantie - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-65m74h-65-inch-4k-miniled-2026-smart-tv/9300000284690214/",
-      "image": "https://media.s-bol.com/qN3y5nM62zxy/P7oj3Vz/550x347.jpg",
+      "ideal": "Wie zo groot mogelijk wil kijken voor een beperkt budget.",
+      "text": "De TCL 65P79L is een van de goedkoopste manieren om een 65 inch QLED uit 2026 in huis te halen. Quantum dots geven vollere kleuren dan een gewone led-tv en de AiPQ-processor stemt helderheid en beweging af op wat je kijkt. Dolby Vision, HDR10+ en HLG worden alle drie ondersteund, iets wat je bij Samsung niet krijgt.\n\nHet menu is Google TV, met NPO Start, Videoland, Netflix en de andere grote apps op één startscherm. Je bedient de tv ook met je stem. Er zijn ook beperkingen. De verlichting is direct-led zonder Mini LED, dus zwart is minder diep dan bij de Hisense 65E8S of de Xiaomi TV S Pro in deze lijst. Het paneel haalt maximaal 60 Hz, prima voor voetbal en series maar niet voor gamen op 120 frames. Het geluid van 20 watt vraagt om een soundbar via HDMI eARC. Op bol scoort hij een 4,4 van 5.",
+      "ean": "5901292531348",
+      "rating": 4.4,
+      "bol_title": "TCL 65P79L - 65 inch - 4K QLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65p79l-65-inch-4k-qled-2026-smart-tv/9300000273452841/",
+      "image": "https://media.s-bol.com/Jm9NPm3MRGDK/D9oNEqA/550x341.jpg",
       "ph": {
-        "2026-11-16": 579.0,
-        "2026-11-17": 579.0,
-        "2026-11-18": 579.0,
-        "2026-11-19": 689.0,
-        "2026-11-21": 689.0,
-        "2026-11-22": 689.0,
-        "2026-11-23": 689.0
+        "2026-11-24": 599.0
       },
-      "low_price": 579.0,
-      "ph_ean": "8806099134624",
-      "synced": "2026-11-24",
-      "rating": 4.6,
-      "prev_price": 579.0,
-      "prev_date": "2026-11-18"
+      "low_price": 599.0,
+      "ph_ean": "5901292531348",
+      "synced": "2026-11-24"
     },
     {
       "brand": "Philips",
@@ -557,6 +549,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-24",
+      "uit": "Samsung UE65M74H",
+      "in": "TCL 65P79L",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-22",
       "uit": "Xiaomi TV S Mini LED 65 (2025)",

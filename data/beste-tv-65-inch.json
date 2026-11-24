@@ -643,73 +643,44 @@
       "rating": 4.4
     },
     {
-      "brand": "Samsung",
-      "name": "UE65M74H",
-      "price": 689.0,
+      "brand": "TCL",
+      "name": "65P79L",
+      "price": 599.0,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Betaalbare Mini-LED van Samsung met Tizen en HDMI 2.1.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "Betaalbare 65 inch QLED uit 2026 met Google TV.",
       "specs": {
-        "Paneel": "Mini-LED",
-        "Beeldfrequentie": "50 Hz (Motion Xcelerator tot 120 Hz)",
-        "Smart-tv": "Tizen",
-        "HDMI 2.1": "ja, 3 poorten met eARC",
-        "Geluid": "20 W",
-        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
+        "Paneel": "QLED, direct-led",
+        "Beeldfrequentie": "50 Hz (max. 60 Hz)",
+        "Smart-tv": "Google TV",
+        "HDMI 2.1": "ja, met eARC",
+        "Geluid": "20 W, Dolby Atmos",
+        "Stroomverbruik (SDR)": "klasse E (EU-label)"
       },
       "pros": [
-        "Mini-LED voor dieper zwart dan een gewone LED-tv",
-        "Tizen met zeven jaar software-updates",
-        "Drie HDMI 2.1-poorten met eARC",
-        "3 jaar extra garantie via bol"
+        "Groot scherm voor rond de 600 euro",
+        "Dolby Vision en HDR10+",
+        "Google TV met alle grote streamingapps"
       ],
       "cons": [
-        "Geen Dolby Vision",
-        "Standaard 50 Hz-paneel",
+        "Geen Mini LED, minder diep zwart",
+        "Maximaal 60 Hz, niet voor fanatieke gamers",
         "Basaal geluid van 20 W"
       ],
-      "ideal": "Wie een moderne 65 inch tv van een groot merk wil zonder veel uit te geven.",
-      "text": "De Samsung M74H is het instapmodel met Mini-LED van 2026 en neemt de plek in van de oudere Crystal UHD-reeks. Kleinere ledjes achter het scherm regelen het licht nauwkeuriger dan bij een gewone LED-tv, waardoor zwart dieper oogt en heldere delen beter uitkomen. Pure Spectrum Color zorgt voor natuurlijke kleuren zonder overdreven verzadiging. Het paneel draait standaard op 50 Hz en Motion Xcelerator maakt beweging tot 120 Hz vloeiender, handig bij voetbal en actiefilms.\n\nTizen blijft het sterke punt: alle Nederlandse apps, Samsung TV Plus met gratis zenders en zeven jaar software-updates. Er zijn drie HDMI 2.1-poorten met eARC voor een soundbar, plus HDR10+. Dolby Vision ontbreekt, zoals bij alle Samsung-tv's. Kopers op bol geven hem een 4,5 en bij bol krijg je 3 jaar extra garantie. Het geluid van 20 W is basaal. Voor rond de 700 euro is dit een moderne, betrouwbare 65 inch tv van een A-merk.",
-      "ean": "8806099134624",
-      "bol_title": "Samsung UE65M74H - 65 inch - 4K MiniLED - 2026 + 3 jaar extra garantie - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-65m74h-65-inch-4k-miniled-2026-smart-tv/9300000284690214/",
-      "image": "https://media.s-bol.com/qN3y5nM62zxy/P7oj3Vz/550x347.jpg",
+      "ideal": "Wie een moderne 65 inch tv wil voor series en sport zonder veel uit te geven.",
+      "text": "De TCL 65P79L is het model uit 2026 in de P7-reeks van TCL en een van de goedkoopste 65 inch QLED-tv's uit 2026. Quantum dots geven vollere kleuren dan een gewone led-tv en de AiPQ-processor stemt helderheid en beweging automatisch af op wat je kijkt. Dolby Vision, HDR10+ en HLG worden alle drie ondersteund. Google TV zet alle grote streamingdiensten op één startscherm en luistert naar spraakopdrachten.\n\nTegenover de lage prijs staan duidelijke grenzen. De verlichting is direct-led zonder Mini LED, dus zwart is minder diep dan bij de duurdere modellen in deze lijst. Het paneel haalt maximaal 60 Hz, voldoende voor tv en voetbal maar niet voor gamen op 120 frames. Er is HDMI 2.1 met eARC voor een soundbar en dat is geen overbodige luxe bij 20 W geluid. Op bol scoort hij een 4,4 van 5. De 65P71K op plek 9 is het model uit 2025 in dezelfde reeks.",
+      "ean": "5901292531348",
+      "rating": 4.4,
+      "bol_title": "TCL 65P79L - 65 inch - 4K QLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65p79l-65-inch-4k-qled-2026-smart-tv/9300000273452841/",
+      "image": "https://media.s-bol.com/Jm9NPm3MRGDK/D9oNEqA/550x341.jpg",
       "ph": {
-        "2026-10-26": 699.0,
-        "2026-10-27": 699.0,
-        "2026-10-28": 699.0,
-        "2026-10-29": 699.0,
-        "2026-10-30": 699.0,
-        "2026-10-31": 699.0,
-        "2026-11-01": 699.0,
-        "2026-11-02": 699.0,
-        "2026-11-03": 699.0,
-        "2026-11-04": 699.0,
-        "2026-11-05": 699.0,
-        "2026-11-06": 579.0,
-        "2026-11-07": 579.0,
-        "2026-11-08": 579.0,
-        "2026-11-09": 579.0,
-        "2026-11-10": 579.0,
-        "2026-11-11": 579.0,
-        "2026-11-12": 579.0,
-        "2026-11-13": 579.0,
-        "2026-11-14": 579.0,
-        "2026-11-16": 579.0,
-        "2026-11-17": 579.0,
-        "2026-11-18": 579.0,
-        "2026-11-19": 689.0,
-        "2026-11-21": 689.0,
-        "2026-11-22": 689.0,
-        "2026-11-23": 689.0
+        "2026-11-24": 599.0
       },
-      "low_price": 579.0,
-      "synced": "2026-11-24",
-      "prev_price": 579.0,
-      "prev_date": "2026-11-18",
-      "ph_ean": "8806099134624",
-      "rating": 4.6
+      "low_price": 599.0,
+      "ph_ean": "5901292531348",
+      "synced": "2026-11-24"
     }
   ],
   "guide": [
@@ -830,6 +801,12 @@
   "meta_title": "Beste 65 inch tv 2026: OLED, QLED en Mini LED vergeleken",
   "meta_desc": "De beste 65 inch tv van 2026 is de {top}. Top 10 tv's van 65 inch vergeleken op beeld, HDR, gaming en prijs, met de beste prijs-kwaliteit.",
   "wissels": [
+    {
+      "d": "2026-11-24",
+      "uit": "Samsung UE65M74H",
+      "in": "TCL 65P79L",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-21",
       "uit": "TCL 65C6KS",

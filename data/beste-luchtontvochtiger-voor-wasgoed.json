@@ -197,42 +197,42 @@
     },
     {
       "brand": "Philips",
-      "name": "3000-serie DE3306/11",
-      "price": 406.81,
+      "name": "5000-serie DE5305/11",
+      "price": 485.0,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
-      "oneliner": "Krachtige ontvochtiger met wasmodus en draaiende luchtstroom.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Krachtige ontvochtiger met wasdrogermodus en ingebouwde HEPA-luchtreiniger.",
       "specs": {
-        "Type": "Compressor",
-        "Capaciteit": "34,3 l per dag",
-        "Wasstand": "Wasmodus",
-        "Reservoir": "4 l",
-        "Ruimte": "Tot 150 m³",
-        "Vermogen": "258 W"
+        "Type": "Ontvochtiger en luchtreiniger in één",
+        "Capaciteit": "26,5 l per dag",
+        "Wasstand": "Wasdrogermodus",
+        "Reservoir": "Niet vermeld bij bol",
+        "Ruimte": "Niet vermeld bij bol",
+        "Vermogen": "Niet vermeld bij bol"
       },
       "pros": [
-        "Hoogste capaciteit in deze lijst",
-        "Wasmodus: volgens Philips 20 T-shirts droog in minder dan 2 uur",
-        "Auto Swing stuurt droge lucht over het hele rek",
-        "Vier zwenkwielen en kinderslot"
+        "Tot 26,5 liter per dag",
+        "Wasdrogermodus voor wasgoed",
+        "HEPA NanoProtect-filter reinigt ook de lucht",
+        "AeriSense-sensor stuurt de automatische stand"
       ],
       "cons": [
-        "Duur",
-        "Verbruik in watt staat niet in de productinfo"
+        "Prijzig",
+        "Reservoir, verbruik en ruimte staan niet in de productinfo bij bol"
       ],
-      "ideal": "Wie grote hoeveelheden was droogt en zo snel mogelijk resultaat wil.",
-      "text": "De Philips 3000-serie DE3306/11 is de krachtpatser van deze lijst. Philips noemt een capaciteit tot 34,3 liter per dag voor ruimtes tot 150 m³. Volgens Philips daalt de luchtvochtigheid in 16 minuten van 90 naar 60 procent. Voor wasgoed is de wasmodus het interessantst: Philips zegt dat je daarmee 20 T-shirts in minder dan 2 uur droogt, tot 4,5 keer sneller dan aan de lucht.\n\nMet de Auto Swing-stand verdeelt hij de droge lucht gelijkmatig, zodat ook de binnenkant van het rek droog wordt. Daarnaast heb je een automatische stand op 60 procent, een continustand en een handmatige stand met drie ventilatorsnelheden en vier vochtigheidsniveaus. De timer loopt van 1 tot 9 uur. Het reservoir is 4 liter. Een aromadispenser voor etherische olie is een extraatje. Hij gebruikt R290 als koudemiddel en heeft vier zwenkwielen. Minpunten: hij is prijzig en een verbruik in watt staat niet in de productinfo.",
-      "ean": "8720389057618",
-      "bol_title": "Philips 3000-serie Luchtontvochtiger DE3306/11",
-      "url": "https://www.bol.com/nl/nl/p/philips-3000-series-3000-serie/9300000224784569/",
-      "image": "https://media.s-bol.com/mo3Aj1AV0129/7LrxxZj/550x778.jpg",
-      "rating": 4.7,
+      "ideal": "Wie veel was droogt en tegelijk schonere lucht in huis wil.",
+      "text": "De Philips 5000-serie DE5305/11 is een ontvochtiger en luchtreiniger in één apparaat. Philips noemt een capaciteit tot 26,5 liter per dag, ruim genoeg voor een volle gezinswas. Voor wasgoed heeft hij een aparte wasdrogermodus. Met die capaciteit hoort hij bij de krachtigere apparaten in deze lijst.\n\nWat hem anders maakt is het HEPA NanoProtect-filter. Daarmee reinigt hij de lucht met een CADR van 270 m³ per uur, dus hij vangt ook stof en pollen op terwijl hij ontvochtigt. Je kunt hem ook alleen als luchtreiniger laten draaien, bijvoorbeeld in de zomer als vocht geen probleem is. De AeriSense-sensor meet de luchtkwaliteit en stuurt de automatische stand. Op bol scoort hij gemiddeld 5,0 van 5. Minpunten: hij is prijzig en de productinfo bij bol noemt geen reservoir, verbruik of ruimtegrootte. Kijk die gegevens na bij Philips voor je koopt.",
+      "ean": "8720389057625",
+      "ph_ean": "8720389057625",
+      "bol_title": "Philips Air Treatment 5000 series",
+      "url": "https://www.bol.com/nl/nl/p/philips-air-treatment-5000-series/9300000224784571/",
+      "image": "https://media.s-bol.com/2VA3yRlNOmkN/wVRQkZJ/550x567.jpg",
       "ph": {
-        "2026-11-23": 406.81
+        "2026-11-24": 485.0
       },
-      "low_price": 406.81,
-      "ph_ean": "8720389057618",
+      "low_price": 485.0,
+      "rating": 5.0,
       "synced": "2026-11-24"
     },
     {
@@ -362,43 +362,42 @@
     },
     {
       "brand": "De'Longhi",
-      "name": "Tasciugo AriaDry Multi DEXD214RF",
-      "price": 248.0,
+      "name": "Tasciugo AriaDry Multi DEXD216RF",
+      "price": 259.0,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,8 van 5",
-      "oneliner": "Stille 14-liter ontvochtiger met wasdroogfunctie en drie filters.",
+      "reviews": "bol-score 3,7 van 5",
+      "oneliner": "Stille 16-liter ontvochtiger met wasdroogfunctie en drie filters.",
       "specs": {
         "Type": "Compressor",
-        "Capaciteit": "14 l per dag",
+        "Capaciteit": "16 l per dag",
         "Wasstand": "Wasdroogfunctie",
         "Reservoir": "2,1 l",
-        "Ruimte": "Niet vermeld",
+        "Ruimte": "Tot 75 m²",
         "Vermogen": "300 W"
       },
       "pros": [
         "Wasdroogfunctie verkort de droogtijd",
         "Drie filters: stof, allergenen en geur",
-        "Timer tot 12 uur",
-        "Afvoerslang meegeleverd"
+        "Timer van 12 uur en afvoerslang",
+        "Vijf zwenkwielen meegeleverd"
       ],
       "cons": [
         "Klein reservoir van 2,1 liter",
-        "Minder capaciteit dan de nummers 1 tot 3"
+        "Bol-score van 3,7 is lager dan bij de rest van de lijst"
       ],
-      "ideal": "Wie in een kleinere ruimte was droogt en last heeft van allergieën.",
-      "text": "De De'Longhi Tasciugo AriaDry Multi DEXD214RF is een compacte, stille ontvochtiger die ook de lucht filtert. De capaciteit is 14 liter per dag, gemeten bij 30 graden en 80 procent luchtvochtigheid. In een gewone woonkamer haal je dus minder. De wasdroogfunctie helpt volgens De'Longhi om de droogtijd van wasgoed te verkorten. Voor een klein rek in een appartement of slaapkamer is dat genoeg.\n\nHet filtersysteem bestaat uit een stoffilter, een uitneembaar allergeenfilter en een koolstoffilter tegen geurtjes. Dat is prettig als iemand in huis allergisch is. Hij heeft een digitaal display, een timer van 12 uur, een elektronische anti-vriesfunctie en een herstartfunctie. De behuizing is voor minimaal 30 procent gemaakt van gerecycleerd plastic. Minpunt is het reservoir van 2,1 liter: bij een natte was leeg je hem vaak. Sluit daarom de meegeleverde afvoerslang aan als je hem in de badkamer of het washok bij een afvoer zet.",
-      "ean": "8004399027763",
-      "bol_title": "De'Longhi Tasciugo AriaDry Multi DEXD214RF - Luchtontvochtiger - Wit",
-      "url": "https://www.bol.com/nl/nl/p/de-longhi-dexd214rf-tasciugo-ariadry-multi-luchtontvochtiger-wit/9300000159816163/",
-      "image": "https://media.s-bol.com/xB4JRqEBW6O9/Dynn66/520x840.jpg",
-      "rating": 4.8,
+      "ideal": "Wie was droogt in een slaapkamer of appartement en last heeft van allergieën.",
+      "text": "De De'Longhi Tasciugo AriaDry Multi DEXD216RF is de grotere uitvoering van de AriaDry Multi. Hij is stil en filtert ook de lucht. Bol vermeldt een capaciteit van 16 liter per dag voor ruimtes tot 75 m². Let op: De'Longhi meet de capaciteit bij 30 graden en 80 procent luchtvochtigheid, in een gewone woonkamer haal je dus minder. De wasdroogfunctie helpt volgens De'Longhi om de droogtijd van wasgoed te verkorten.\n\nHet filtersysteem bestaat uit een stoffilter, een uitneembaar allergeenfilter en een koolstoffilter tegen geurtjes. Dat is prettig als iemand in huis allergisch is. Hij heeft een digitaal display, een timer van 12 uur, een anti-vriesfunctie en vijf zwenkwielen. Minpunt is het reservoir van 2,1 liter: bij een natte was leeg je hem vaak. Sluit daarom de meegeleverde afvoerslang aan als je hem bij een afvoer zet. Op bol scoort hij gemiddeld 3,7 van 5, lager dan de andere beoordeelde apparaten in deze lijst.",
+      "ean": "8004399027770",
+      "ph_ean": "8004399027770",
+      "bol_title": "De'Longhi Tasciugo AriaDry Multi DEXD216RF - Luchtontvochtiger - Wit",
+      "url": "https://www.bol.com/nl/nl/p/de-longhi-dexd216rf-tasciugo-ariadry-multi-luchtontvochtiger-wit/9300000161805050/",
+      "image": "https://media.s-bol.com/yD332JOw1BO7/mDD6kr/516x840.jpg",
       "ph": {
-        "2026-11-23": 248.0,
-        "2026-11-24": 248.0
+        "2026-11-24": 259.0
       },
-      "low_price": 248.0,
-      "ph_ean": "8004399027763",
+      "low_price": 259.0,
+      "rating": 3.7,
       "synced": "2026-11-24"
     },
     {
@@ -449,11 +448,11 @@
     },
     {
       "h": "Hoeveel liter per dag heb je nodig voor wasgoed?",
-      "p": "Fabrikanten meten de capaciteit bij 30 graden en 80 procent luchtvochtigheid. In een gewone kamer haal je minder uit de lucht dan het getal op de doos. Voor een paar keer per week een rek in de badkamer is 13 tot 16 liter per dag genoeg. Droog je dagelijks een volle gezinswas, kies dan 20 liter of meer, zoals de Trotec TTK 66 E, Meaco Arete One of Philips DE3306/11. Een groter apparaat is ook sneller klaar en draait daardoor minder uren."
+      "p": "Fabrikanten meten de capaciteit bij 30 graden en 80 procent luchtvochtigheid. In een gewone kamer haal je minder uit de lucht dan het getal op de doos. Voor een paar keer per week een rek in de badkamer is 13 tot 16 liter per dag genoeg. Droog je dagelijks een volle gezinswas, kies dan 20 liter of meer, zoals de Trotec TTK 66 E, Meaco Arete One of Philips 5000-serie. Een groter apparaat is ook sneller klaar en draait daardoor minder uren."
     },
     {
       "h": "Luchtstroom en plek: zo zet je rek en ontvochtiger neer",
-      "p": "Droge lucht moet langs je kleding stromen. Zet de ontvochtiger op een tot twee meter van het rek met de uitblaas richting de was. Modellen met een draaiende luchtuitlaat, zoals de Pro Breeze, Eeese Otto en Philips met Auto Swing, verdelen de lucht over het hele rek. Doe deur en ramen dicht, anders ontvochtig je de hele gang of trekt er nieuwe vochtige lucht binnen. Een kleine ruimte zoals een badkamer of washok droogt het snelst."
+      "p": "Droge lucht moet langs je kleding stromen. Zet de ontvochtiger op een tot twee meter van het rek met de uitblaas richting de was. Modellen met een draaiende luchtuitlaat, zoals de Pro Breeze en Eeese Otto, verdelen de lucht over het hele rek. Doe deur en ramen dicht, anders ontvochtig je de hele gang of trekt er nieuwe vochtige lucht binnen. Een kleine ruimte zoals een badkamer of washok droogt het snelst."
     },
     {
       "h": "Energieverbruik: ontvochtiger of wasdroger?",
@@ -492,6 +491,20 @@
     {
       "q": "Wat is het verschil tussen een wasstand en de gewone automatische stand?",
       "a": "In de automatische stand schakelt de compressor uit zodra de ingestelde luchtvochtigheid bereikt is. Een wasstand of droogmodus blijft op volle kracht draaien tot de was droog is of de timer afloopt. De droogmodus van de Duux Bora blijft bijvoorbeeld actief nadat de streefwaarde bereikt is."
+    }
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-24",
+      "uit": "De'Longhi Tasciugo AriaDry Multi DEXD214RF",
+      "in": "De'Longhi Tasciugo AriaDry Multi DEXD216RF",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-24",
+      "uit": "Philips 3000-serie DE3306/11",
+      "in": "Philips 5000-serie DE5305/11",
+      "waarom": "niet meer leverbaar bij bol"
     }
   ]
 }
