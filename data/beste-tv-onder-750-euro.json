@@ -93,7 +93,8 @@
         "Paneel": "Neo QLED Mini LED",
         "Verversing": "144 Hz",
         "HDR": "HDR10+",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "64 W · klasse E (EU-label)"
       },
       "pros": [
         "Mini LED geeft diep zwart en fel wit",
@@ -140,7 +141,8 @@
         "Paneel": "Hi-QLED Mini LED",
         "Verversing": "144 Hz",
         "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "VIDAA"
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "84 W · klasse E (EU-label)"
       },
       "pros": [
         "65 inch met Mini LED onder 700 euro",
@@ -187,7 +189,8 @@
         "Paneel": "QLED (direct-led)",
         "Verversing": "Tot 120 Hz (gamemodus)",
         "HDR": "Dolby Vision, HDR10+, HLG",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "95 W · klasse F (EU-label)"
       },
       "pros": [
         "65 inch met Dolby Vision en HDR10+ voor rond de 475 euro",
@@ -229,7 +232,8 @@
         "Paneel": "QD-Mini LED",
         "Verversing": "144 Hz",
         "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "80 W · klasse G (EU-label)"
       },
       "pros": [
         "Piekhelderheid tot 1.700 nits",
@@ -277,7 +281,8 @@
         "Paneel": "QLED",
         "Verversing": "60 Hz (120 Hz op lagere resolutie)",
         "HDR": "HDR10+",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "100 W · klasse F (EU-label)"
       },
       "pros": [
         "Groot 65 inch scherm voor onder de 600 euro",
@@ -319,7 +324,8 @@
         "Paneel": "Hi-QLED",
         "Verversing": "144 Hz",
         "HDR": "Dolby Vision IQ",
-        "Smart-tv": "VIDAA"
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "84 W · klasse E (EU-label)"
       },
       "pros": [
         "Native 144 Hz met AMD FreeSync Premium",
@@ -364,7 +370,8 @@
         "Paneel": "QLED",
         "Verversing": "60 Hz",
         "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "Titan OS"
+        "Smart-tv": "Titan OS",
+        "Stroomverbruik (SDR)": "77 W · klasse F (EU-label)"
       },
       "pros": [
         "Driezijdig Ambilight",
@@ -413,7 +420,8 @@
         "Paneel": "Mini LED",
         "Verversing": "50 Hz, tot 120 Hz",
         "HDR": "HDR10+",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
       },
       "pros": [
         "Mini LED op 65 inch",
@@ -460,7 +468,8 @@
         "Paneel": "QLED",
         "Verversing": "60 Hz",
         "HDR": "HDR10+, HLG",
-        "Smart-tv": "Titan OS"
+        "Smart-tv": "Titan OS",
+        "Stroomverbruik (SDR)": "85 W · klasse E (EU-label)"
       },
       "pros": [
         "65 inch QLED voor onder de 600 euro",
@@ -509,7 +518,8 @@
         "Paneel": "LED",
         "Verversing": "60 Hz",
         "HDR": "HDR10, HLG",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "65 W · klasse E (EU-label)"
       },
       "pros": [
         "Natuurlijke kleuren en goede opschaling",

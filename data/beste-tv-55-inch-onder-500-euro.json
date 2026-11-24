@@ -42,7 +42,8 @@
         "Paneel": "QNED",
         "Verversing": "60 Hz",
         "HDR": "HDR10, HLG",
-        "Smart-tv": "webOS 25"
+        "Smart-tv": "webOS 25",
+        "Stroomverbruik (SDR)": "74,9 W · klasse F (EU-label)"
       },
       "pros": [
         "Quantum dots voor rijkere kleuren dan een gewone led-tv",
@@ -85,7 +86,8 @@
         "Paneel": "Hi-QLED",
         "Verversing": "60 Hz",
         "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "VIDAA"
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "63 W · klasse E (EU-label)"
       },
       "pros": [
         "Quantum dots voor verzadigde kleuren",
@@ -126,7 +128,8 @@
         "Paneel": "Hi-QLED",
         "Verversing": "144 Hz",
         "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "VIDAA"
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "63 W · klasse E (EU-label)"
       },
       "pros": [
         "Native 144 Hz met VRR en ALLM",
@@ -167,7 +170,8 @@
         "Paneel": "QLED Mini LED",
         "Verversing": "60 Hz, VRR via HDMI 2.1",
         "HDR": "Dolby Vision, HDR10",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "77 W · klasse F (EU-label)"
       },
       "pros": [
         "Mini LED met local dimming voor dieper zwart",
@@ -208,7 +212,8 @@
         "Paneel": "Mini LED",
         "Verversing": "60 Hz",
         "HDR": "HDR10+, HLG",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "77 W · klasse F (EU-label)"
       },
       "pros": [
         "Mini LED van een A-merk onder 500 euro",
@@ -251,7 +256,8 @@
         "Paneel": "QLED",
         "Verversing": "120 Hz gamestand",
         "HDR": "HDR10+",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "75 W · klasse F (EU-label)"
       },
       "pros": [
         "94 procent DCI-P3 volgens Xiaomi",
@@ -292,7 +298,8 @@
         "Paneel": "QLED",
         "Verversing": "Niet opgegeven",
         "HDR": "HDR10",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "76 W · klasse F (EU-label)"
       },
       "pros": [
         "QLED met 93 procent DCI-P3 volgens CHiQ",
@@ -333,7 +340,8 @@
         "Paneel": "LED",
         "Verversing": "60 Hz",
         "HDR": "HDR10, HDR10+, HLG",
-        "Smart-tv": "Titan OS"
+        "Smart-tv": "Titan OS",
+        "Stroomverbruik (SDR)": "77 W · klasse F (EU-label)"
       },
       "pros": [
         "Ambilight aan drie zijden",
@@ -373,7 +381,8 @@
         "Paneel": "LED",
         "Verversing": "60 Hz",
         "HDR": "HDR10+, HLG",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "77 W · klasse F (EU-label)"
       },
       "pros": [
         "Bij bol met drie jaar extra garantie",
@@ -414,7 +423,8 @@
         "Paneel": "LED",
         "Verversing": "50/60 Hz",
         "HDR": "HDR10",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "61 W · klasse E (EU-label)"
       },
       "pros": [
         "Google TV met Chromecast ingebouwd",

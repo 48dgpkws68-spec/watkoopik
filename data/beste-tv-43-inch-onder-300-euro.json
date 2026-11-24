@@ -44,7 +44,8 @@
         "Paneel": "QLED",
         "HDR": "HDR10+, HLG",
         "HDMI": "3x, eARC",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "50 W · klasse F (EU-label)"
       },
       "pros": [
         "4K, QLED en Google TV onder 300 euro",
@@ -86,7 +87,8 @@
         "Paneel": "QLED",
         "HDR": "Dolby Vision, HDR10+",
         "HDMI": "3x HDMI 2.1, eARC",
-        "Smart-tv": "VIDAA"
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "48 W · klasse F (EU-label)"
       },
       "pros": [
         "Dolby Vision én HDR10+",
@@ -127,7 +129,8 @@
         "Paneel": "LED",
         "HDR": "HDR10+, HLG",
         "HDMI": "3x HDMI 2.1, eARC",
-        "Smart-tv": "Titan OS"
+        "Smart-tv": "Titan OS",
+        "Stroomverbruik (SDR)": "42 W · klasse E (EU-label)"
       },
       "pros": [
         "A-merk uit 2026 voor 279 euro",
@@ -172,7 +175,8 @@
         "Paneel": "Direct led",
         "HDR": "Dolby Vision, HDR10",
         "HDMI": "3x HDMI 2.1, eARC",
-        "Smart-tv": "VIDAA"
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "42 W · klasse E (EU-label)"
       },
       "pros": [
         "Dolby Vision op een model uit 2026",
@@ -213,7 +217,8 @@
         "Paneel": "QLED",
         "HDR": "Dolby Vision, HDR10",
         "HDMI": "3x HDMI 2.0, ARC",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "50 W · klasse F (EU-label)"
       },
       "pros": [
         "QLED, Dolby Vision en Google TV",
@@ -255,7 +260,8 @@
         "Paneel": "QLED",
         "HDR": "HDR10, HLG",
         "HDMI": "4x HDMI 1.4, ARC",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "42 W · klasse E (EU-label)"
       },
       "pros": [
         "4K QLED met Google TV",
@@ -298,7 +304,8 @@
         "Paneel": "QLED",
         "HDR": "HDR10, HLG",
         "HDMI": "2x HDMI 1.4, ARC",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "45 W · klasse F (EU-label)"
       },
       "pros": [
         "Bijna 70 euro goedkoper dan de rest",
@@ -338,7 +345,8 @@
         "Paneel": "QLED",
         "HDR": "HDR10, HLG",
         "HDMI": "niet opgegeven",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "42 W · klasse E (EU-label)"
       },
       "pros": [
         "Lage prijs voor een QLED-paneel",
@@ -378,7 +386,8 @@
         "Paneel": "QLED",
         "HDR": "HDR10",
         "HDMI": "3x",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "50 W · klasse F (EU-label)"
       },
       "pros": [
         "4K QLED met Google TV",
@@ -418,7 +427,8 @@
         "Paneel": "LED",
         "HDR": "HDR10",
         "HDMI": "3x HDMI 2.0, ARC",
-        "Smart-tv": "VIDAA U"
+        "Smart-tv": "VIDAA U",
+        "Stroomverbruik (SDR)": "50 W · klasse F (EU-label)"
       },
       "pros": [
         "4K-scherm met smalle randen",

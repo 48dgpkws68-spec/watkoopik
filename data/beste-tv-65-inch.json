@@ -33,7 +33,8 @@
         "Beeldfrequentie": "144 Hz",
         "Smart-tv": "webOS 25",
         "HDMI 2.1": "4 poorten",
-        "Geluid": "2.2-kanaals, 40 W"
+        "Geluid": "2.2-kanaals, 40 W",
+        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
       },
       "pros": [
         "Perfect zwart en oneindig contrast door OLED",
@@ -115,7 +116,8 @@
         "Beeldfrequentie": "165 Hz",
         "Smart-tv": "Tizen",
         "HDMI 2.1": "4 poorten",
-        "Geluid": "4.2.2-kanaals, 70 W"
+        "Geluid": "4.2.2-kanaals, 70 W",
+        "Stroomverbruik (SDR)": "99 W · klasse F (EU-label)"
       },
       "pros": [
         "QD-OLED levert fellere kleuren dan gewoon OLED",
@@ -195,7 +197,8 @@
         "Beeldfrequentie": "120 Hz",
         "Smart-tv": "Google TV",
         "HDMI 2.1": "2 poorten",
-        "Geluid": "2.1-kanaals, 70 W"
+        "Geluid": "2.1-kanaals, 70 W",
+        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
       },
       "pros": [
         "Ambilight aan drie zijden maakt het beeld groter en rustiger voor de ogen",
@@ -273,7 +276,8 @@
         "Beeldfrequentie": "120 Hz",
         "Smart-tv": "Google TV",
         "HDMI 2.1": "2 poorten",
-        "Geluid": "2.1-kanaals, 40 W"
+        "Geluid": "2.1-kanaals, 40 W",
+        "Stroomverbruik (SDR)": "66 W · klasse D (EU-label)"
       },
       "pros": [
         "XR-processor levert de meest natuurlijke beeldverwerking",
@@ -351,7 +355,8 @@
         "Beeldfrequentie": "Tot 120 Hz, VRR",
         "Smart-tv": "Google TV",
         "HDMI 2.1": "ja, 3 poorten met VRR",
-        "Geluid": "20 W Onkyo, Dolby Atmos"
+        "Geluid": "20 W Onkyo, Dolby Atmos",
+        "Stroomverbruik (SDR)": "95 W · klasse F (EU-label)"
       },
       "pros": [
         "65 inch met Dolby Vision en HDR10+ voor rond de 475 euro",
@@ -394,7 +399,8 @@
         "Beeldfrequentie": "120 Hz",
         "Smart-tv": "Tizen",
         "HDMI 2.1": "4 poorten",
-        "Geluid": "Object Tracking Sound Lite"
+        "Geluid": "Object Tracking Sound Lite",
+        "Stroomverbruik (SDR)": "85 W · klasse E (EU-label)"
       },
       "pros": [
         "Mini LED met goede helderheid",
@@ -462,7 +468,8 @@
         "Beeldfrequentie": "100 Hz, tot 144 Hz",
         "Smart-tv": "Tizen",
         "HDMI 2.1": "Ja, 4 poorten met VRR",
-        "Geluid": "20 W stereo, soundbar aan te raden"
+        "Geluid": "20 W stereo, soundbar aan te raden",
+        "Stroomverbruik (SDR)": "65 W · klasse D (EU-label)"
       },
       "pros": [
         "Mini LED met tot 144 Hz",
@@ -518,7 +525,8 @@
         "Beeldfrequentie": "60 Hz",
         "Smart-tv": "Titan OS",
         "HDMI 2.1": "niet vermeld",
-        "Geluid": "niet vermeld"
+        "Geluid": "niet vermeld",
+        "Stroomverbruik (SDR)": "85 W · klasse E (EU-label)"
       },
       "pros": [
         "Driezijdige Ambilight voor minder dan 700 euro",
@@ -577,7 +585,8 @@
         "Beeldfrequentie": "60 Hz",
         "Smart-tv": "Google TV",
         "HDMI 2.1": "ja, met VRR en ALLM",
-        "Geluid": "2.0-kanaals, 20 W, Dolby Atmos"
+        "Geluid": "2.0-kanaals, 20 W, Dolby Atmos",
+        "Stroomverbruik (SDR)": "95 W · klasse F (EU-label)"
       },
       "pros": [
         "Rond de 500 euro voor 65 inch QLED",
@@ -646,7 +655,8 @@
         "Beeldfrequentie": "50 Hz (Motion Xcelerator tot 120 Hz)",
         "Smart-tv": "Tizen",
         "HDMI 2.1": "ja, 3 poorten met eARC",
-        "Geluid": "20 W"
+        "Geluid": "20 W",
+        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
       },
       "pros": [
         "Mini-LED voor dieper zwart dan een gewone LED-tv",

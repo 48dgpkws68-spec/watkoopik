@@ -119,8 +119,30 @@ def _kosten_label(g):
     return ('<h2 id="kosten" class="rv" style="margin-top:28px">%s</h2><p>%s</p>'
             '<div class="tbl rv"><table><thead><tr>%s</tr></thead><tbody>%s</tbody></table></div>'
             '<p class="muted" style="font-size:.9rem">Eigen berekening: %s %s Het labelverbruik is gemeten onder standaardomstandigheden; jouw verbruik hangt af van programma, belading en plaats van het apparaat.</p>') % (titel, zin, kop, trs, uitleg, _kosten_bron())
+def _tv_watt(p):
+    v = str((p.get("specs") or {}).get("Stroomverbruik (SDR)", ""))
+    m = re.search(r"(\d+(?:[.,]\d+)?)\s*W\b", v)
+    return float(m.group(1).replace(",", ".")) if m else 0
+def _kosten_tv(g):
+    # G1 tv's (24 nov 2026): aan-vermogen SDR van het EU-energielabel (EPREL, kWh/1000h) x CBS-stroomprijs, 4 uur kijken per dag.
+    s = g["slug"]
+    if not re.search(r"(^|-)tv(-|$)|oled-tv|qled-tv|mini-led-tv|gaming-tv", s): return ""
+    rij = [(p, _tv_watt(p)) for p in g["products"]]; rij = [(p, w) for p, w in rij if w]
+    if len(rij) < 4: return ""
+    prijs = STROOM_NL[0]
+    jaar = lambda w: w / 1000 * 4 * 365 * prijs
+    def kl(p):
+        m = re.search(r"klasse\s*([A-G])", str((p.get("specs") or {}).get("Stroomverbruik (SDR)", "")))
+        return m.group(1) if m else ""
+    trs = "".join('<tr><td class="nm">%s %s</td><td>%s</td><td>%s W</td><td><b>%s</b></td></tr>' % (e(p["brand"]), e(p["name"]), kl(p), ("%g" % w).replace(".", ","), _m2(jaar(w))) for p, w in rij)
+    lg = min(rij, key=lambda x: x[1]); hg = max(rij, key=lambda x: x[1])
+    zin = 'Zuinigst in deze lijst: <b>%s %s</b> met %s per jaar bij 4 uur kijken per dag. De grootste verbruiker (%s %s) kost %s per jaar, %s meer; over 7 jaar, een normale levensduur van een tv, is dat %s.' % (
+        e(lg[0]["brand"]), e(lg[0]["name"]), _m2(jaar(lg[1])), e(hg[0]["brand"]), e(hg[0]["name"]), _m2(jaar(hg[1])), _m2(jaar(hg[1]) - jaar(lg[1])), _m2((jaar(hg[1]) - jaar(lg[1])) * 7))
+    return ('<h2 id="kosten" class="rv" style="margin-top:28px">Wat ze per jaar kosten aan stroom</h2><p>%s</p>'
+            '<div class="tbl rv"><table><thead><tr><th>Model</th><th>Energieklasse (SDR)</th><th>Vermogen (SDR, EU-label)</th><th>Per jaar, 4 uur per dag</th></tr></thead><tbody>%s</tbody></table></div>'
+            '<p class="muted" style="font-size:.9rem">Eigen berekening: het aan-vermogen in SDR van het EU-energielabel (EPREL) keer 4 uur per dag keer 365 dagen keer %s HDR-films, een felle beeldstand of gamen op hoge helderheid verbruiken meer; een eco-stand minder.</p>') % (zin, trs, _kosten_bron())
 def kosten_html(g):
-    return _kosten_watt(g) or _kosten_airfryer(g) or _kosten_label(g)
+    return _kosten_watt(g) or _kosten_airfryer(g) or _kosten_label(g) or _kosten_tv(g)
 
 def eur(v):
     s = ("%.2f" % v).replace(".", ","); return "€ " + (s[:-3] if s.endswith(",00") else s)
@@ -1526,7 +1548,7 @@ prose("zo-kiezen-wij.html", "Zo kiezen wij", "Hoe watkoopik producten vergelijkt
 <h2>Wat we wegen</h2><p>Elk product krijgt een score van 1 tot 10. <b>Prestaties</b> (40%): hoe goed doet het product zijn werk, op basis van specificaties en terugkerende ervaringen in reviews. <b>Prijs-kwaliteit</b> (25%): wat krijg je voor je geld vergeleken met de rest van de lijst. <b>Betrouwbaarheid</b> (20%): garantie, merkreputatie en klachten over defecten. <b>Gebruiksgemak</b> (15%): bediening, onderhoud en ergernissen.</p>
 <h2>Onze bronnen</h2><p>Officiële specificaties van fabrikanten, productpagina's en reviewscores van grote Nederlandse winkels zoals bol. Waar beschikbaar gebruiken we ook onafhankelijke tests van gespecialiseerde media. Wij testen producten niet zelf in een lab. We zeggen dus nooit dat we iets getest hebben, wel dat we het vergeleken hebben.</p>
 <h2>Hoe we geld verdienen</h2><p>Koop je via een link op onze site, dan ontvangen wij soms een kleine vergoeding van de winkel. Jij betaalt niets extra. Dit heeft geen invloed op de volgorde: merken kunnen geen plek kopen.</p>
-<h2 id="stroomkosten">Stroomkosten</h2><p>Bij kachels, dekens, ontvochtigers, airfryers, koelkasten, vriezers, wasmachines en drogers rekenen we zelf uit wat een apparaat aan stroom kost. Voor apparaten die op vermogen draaien: het maximale vermogen volgens de fabrikant keer de tijd keer de stroomprijs. Voor koelen, wassen en drogen: het verbruik van het EU-energielabel keer de stroomprijs. De stroomprijs is het gemiddelde variabele leveringstarief plus energiebelasting inclusief btw van het CBS (tabel 85592NED), die we elk kwartaal bijwerken. Het zijn rekenvoorbeelden, geen metingen: een thermostaat, eco-stand of kortere sessie maakt de echte kosten lager.</p><h2>Actualiteit</h2><p>Prijzen controleren we dagelijks bij bol. Lijsten bekijken we minimaal elke maand opnieuw. Verdwijnt een product of komt er een beter model, dan passen we de lijst eerder aan.</p>''', "zo-kiezen-wij.html")
+<h2 id="stroomkosten">Stroomkosten</h2><p>Bij kachels, dekens, ontvochtigers, airfryers, koelkasten, vriezers, wasmachines, drogers en tv's rekenen we zelf uit wat een apparaat aan stroom kost. Voor apparaten die op vermogen draaien: het maximale vermogen volgens de fabrikant keer de tijd keer de stroomprijs. Voor koelen, wassen en drogen: het verbruik van het EU-energielabel keer de stroomprijs. Voor tv's: het aan-vermogen in SDR van het EU-energielabel (EPREL) keer 4 uur kijken per dag. De stroomprijs is het gemiddelde variabele leveringstarief plus energiebelasting inclusief btw van het CBS (tabel 85592NED), die we elk kwartaal bijwerken. Het zijn rekenvoorbeelden, geen metingen: een thermostaat, eco-stand of kortere sessie maakt de echte kosten lager.</p><h2>Actualiteit</h2><p>Prijzen controleren we dagelijks bij bol. Lijsten bekijken we minimaal elke maand opnieuw. Verdwijnt een product of komt er een beter model, dan passen we de lijst eerder aan.</p>''', "zo-kiezen-wij.html")
 prose("over-ons.html", "Over ons", "Over watkoopik: onafhankelijke koopgidsen.", '''<span class="kick">Over watkoopik</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Een eerlijk overzicht, zodat jij slim koopt</h1>
 <p>Wie een stofzuiger of koffiemachine zoekt, verdrinkt in honderden modellen en tegenstrijdige reviews. Wij wilden één plek waar je per productsoort in vijf minuten ziet wat de beste keuze is en waarom.</p>
 <p>Daarom maken we top 10-lijsten: precies tien modellen die ertoe doen, met eerlijke plus- en minpunten en voor wie elk product geschikt is. watkoopik is onderdeel van 4NEON en werkt onafhankelijk van merken en winkels.</p>
@@ -1545,7 +1567,7 @@ wr("stats.html", '<!doctype html><html lang="nl"><head><meta charset="utf-8"><me
 # lastmod volgt echte wijzigingen (nieuwste gids), niet de bouwdatum, zodat Google het signaal blijft vertrouwen
 LAST = max(gmod(g) for g in guides)
 urls = [("", LAST, "1.0"), ("gidsen.html", LAST, "0.8"), ("aanbiedingen/", TODAY.isoformat(), "0.8"), ("keuzehulp.html", LAST, "0.7"), ("slimste-koop.html", LAST, "0.7"),
-        ("zo-kiezen-wij.html", "2026-11-23", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
+        ("zo-kiezen-wij.html", "2026-11-24", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
 urls += [("categorie/%s.html" % k if k != "cadeaus" else "cadeaus/", max(gmod(g) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
 urls += [("black-friday/", TODAY.isoformat(), "0.8")] + ([("black-friday/echte-kortingen-2026.html", TODAY.isoformat(), "0.8")] if BF_N else [])
 # hubs niet meer in de sitemap (Google-plan 23 nov 2026)

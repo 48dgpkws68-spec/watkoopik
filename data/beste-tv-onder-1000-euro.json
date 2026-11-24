@@ -32,7 +32,8 @@
         "Paneel": "OLED",
         "Verversing": "120 Hz",
         "HDR": "Dolby Vision, HDR10, HLG",
-        "Smart-tv": "webOS 25"
+        "Smart-tv": "webOS 25",
+        "Stroomverbruik (SDR)": "77 W · klasse F (EU-label)"
       },
       "pros": [
         "Perfect zwart en oneindig contrast per pixel",
@@ -100,7 +101,8 @@
         "Paneel": "QD-Mini LED",
         "Verversing": "144 Hz",
         "HDR": "Dolby Vision, HDR10",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "70 W · klasse F (EU-label)"
       },
       "pros": [
         "QD-Mini LED voor rond de 550 euro",
@@ -155,7 +157,8 @@
         "Paneel": "OLED",
         "Verversing": "120 Hz, VRR",
         "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "Titan OS"
+        "Smart-tv": "Titan OS",
+        "Stroomverbruik (SDR)": "60 W · klasse F (EU-label)"
       },
       "pros": [
         "OLED met driezijdige Ambilight",
@@ -207,7 +210,8 @@
         "Paneel": "Neo QLED (mini-led)",
         "Verversing": "100 Hz",
         "HDR": "HDR10+, HLG",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "76 W · klasse F (EU-label)"
       },
       "pros": [
         "Quantum Mini LED met veel helderheid",
@@ -264,7 +268,8 @@
         "Paneel": "Mini LED",
         "Verversing": "100 Hz, tot 144 Hz",
         "HDR": "HDR10+, geen Dolby Vision",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "65 W · klasse D (EU-label)"
       },
       "pros": [
         "Mini LED met tot 144 Hz",
@@ -320,7 +325,8 @@
         "Paneel": "OLED evo",
         "Verversing": "144 Hz",
         "HDR": "Dolby Vision, HDR10, HLG",
-        "Smart-tv": "webOS 25"
+        "Smart-tv": "webOS 25",
+        "Stroomverbruik (SDR)": "52 W · klasse G (EU-label)"
       },
       "pros": [
         "OLED evo-paneel met hogere helderheid dan de B5",
@@ -371,7 +377,8 @@
         "Paneel": "QLED",
         "Verversing": "144 Hz",
         "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "VIDAA"
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "84 W · klasse E (EU-label)"
       },
       "pros": [
         "65 inch voor onder de 700 euro",
@@ -439,7 +446,8 @@
         "Paneel": "QLED (direct-led)",
         "Verversing": "Tot 120 Hz (gamemodus)",
         "HDR": "Dolby Vision, HDR10+, HLG",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "95 W · klasse F (EU-label)"
       },
       "pros": [
         "65 inch met Dolby Vision en HDR10+ voor rond de 475 euro",
@@ -481,7 +489,8 @@
         "Paneel": "Mini-led",
         "Verversing": "60 Hz",
         "HDR": "HDR10+, HLG",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
       },
       "pros": [
         "Samsung-kwaliteit op 65 inch voor 699 euro",
@@ -547,7 +556,8 @@
         "Paneel": "QLED",
         "Verversing": "60 Hz",
         "HDR": "HDR10+, HLG",
-        "Smart-tv": "Titan OS"
+        "Smart-tv": "Titan OS",
+        "Stroomverbruik (SDR)": "85 W · klasse E (EU-label)"
       },
       "pros": [
         "65 inch van een A-merk voor onder de 600 euro",

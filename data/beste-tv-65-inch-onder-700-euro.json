@@ -43,7 +43,8 @@
         "Verversing": "144 Hz, VRR",
         "HDR": "Dolby Vision IQ, HDR10+",
         "HDMI 2.1": "ja, met FreeSync Premium",
-        "Smart-tv": "VIDAA"
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "84 W · klasse E (EU-label)"
       },
       "pros": [
         "Mini LED met dimzones voor dieper zwart",
@@ -83,7 +84,8 @@
         "Verversing": "144 Hz, VRR",
         "HDR": "Dolby Vision, HDR10+",
         "HDMI 2.1": "ja, met VRR en ALLM",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "85 W · klasse E (EU-label)"
       },
       "pros": [
         "Mini LED met quantum dots en lokale dimming",
@@ -123,7 +125,8 @@
         "Verversing": "Tot 120 Hz, VRR",
         "HDR": "Dolby Vision, HDR10+, HLG",
         "HDMI 2.1": "ja, 3 poorten met VRR",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "95 W · klasse F (EU-label)"
       },
       "pros": [
         "Dolby Vision en HDR10+ voor onder 500 euro",
@@ -163,7 +166,8 @@
         "Verversing": "50 Hz (Motion Xcelerator tot 120 Hz)",
         "HDR": "HDR10+",
         "HDMI 2.1": "ja, 3 poorten met eARC",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
       },
       "pros": [
         "Mini LED voor dieper zwart dan een gewone led-tv",
@@ -203,7 +207,8 @@
         "Verversing": "144 Hz, VRR",
         "HDR": "Dolby Vision, HDR10+",
         "HDMI 2.1": "ja, met VRR en ALLM",
-        "Smart-tv": "VIDAA"
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "84 W · klasse E (EU-label)"
       },
       "pros": [
         "Native 144 Hz gamemodus",
@@ -243,7 +248,8 @@
         "Verversing": "60 Hz, VRR",
         "HDR": "Dolby Vision, HDR10",
         "HDMI 2.1": "ja, met VRR",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "95 W · klasse F (EU-label)"
       },
       "pros": [
         "Mini LED met local dimming onder 600 euro",
@@ -282,7 +288,8 @@
         "Verversing": "60 Hz",
         "HDR": "HDR10, HLG",
         "HDMI 2.1": "ALLM en eARC",
-        "Smart-tv": "webOS 25"
+        "Smart-tv": "webOS 25",
+        "Stroomverbruik (SDR)": "84,6 W · klasse E (EU-label)"
       },
       "pros": [
         "Quantum dots voor vollere kleuren",
@@ -322,7 +329,8 @@
         "Verversing": "60 Hz (120 Hz op lagere resolutie)",
         "HDR": "HDR10+, HLG",
         "HDMI 2.1": "niet vermeld, wel eARC",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "100 W · klasse F (EU-label)"
       },
       "pros": [
         "Volgens Xiaomi 94 procent DCI-P3",
@@ -363,7 +371,8 @@
         "Verversing": "60 Hz",
         "HDR": "HDR10+, HLG",
         "HDMI 2.1": "niet vermeld",
-        "Smart-tv": "Titan OS"
+        "Smart-tv": "Titan OS",
+        "Stroomverbruik (SDR)": "85 W · klasse E (EU-label)"
       },
       "pros": [
         "Driezijdige Ambilight",
@@ -405,7 +414,8 @@
         "Verversing": "60 Hz",
         "HDR": "HDR10+, HLG",
         "HDMI 2.1": "VRR en ALLM",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
       },
       "pros": [
         "Drie jaar extra garantie via bol",

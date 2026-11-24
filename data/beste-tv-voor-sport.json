@@ -35,7 +35,8 @@
         "Paneel": "OLED evo",
         "Verversing": "144 Hz",
         "HDMI 2.1": "4 poorten",
-        "Smart-tv": "webOS 25"
+        "Smart-tv": "webOS 25",
+        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
       },
       "pros": [
         "Pixels schakelen vrijwel direct, dus geen veegsporen achter de bal",
@@ -90,7 +91,8 @@
         "Paneel": "RGB-LED",
         "Verversing": "120 Hz",
         "HDMI 2.1": "2 poorten",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "63 W · klasse D (EU-label)"
       },
       "pros": [
         "Bewegingsverwerking van Sony staat bekend als de beste voor sport",
@@ -144,7 +146,8 @@
         "Paneel": "OLED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "4 poorten",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "85 W · klasse E (EU-label)"
       },
       "pros": [
         "Oled-beweging zonder veegsporen",
@@ -199,7 +202,8 @@
         "Paneel": "SQD-Mini LED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "Ja, met VRR en ALLM",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "85 W · klasse E (EU-label)"
       },
       "pros": [
         "Volgens TCL pieken tot circa 2.000 nits",
@@ -254,7 +258,8 @@
         "Paneel": "Mini LED",
         "Verversing": "100 Hz, tot 144 Hz",
         "HDMI 2.1": "Ja, 4 poorten met VRR",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "65 W · klasse D (EU-label)"
       },
       "pros": [
         "Mini LED en 100 Hz voor rond de 800 euro",
@@ -310,7 +315,8 @@
         "Paneel": "Neo QLED (Mini LED)",
         "Verversing": "120 Hz",
         "HDMI 2.1": "4 poorten",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "85 W · klasse E (EU-label)"
       },
       "pros": [
         "Fel Mini LED-beeld dat overdag goed blijft",
@@ -363,7 +369,8 @@
         "Paneel": "QD-Mini LED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "Ja, met VRR en ALLM",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "105 W · klasse E (EU-label)"
       },
       "pros": [
         "75 inch voor minder dan duizend euro",
@@ -419,7 +426,8 @@
         "Paneel": "SQD-Mini LED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "Ja, met VRR en ALLM",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "64 W · klasse E (EU-label)"
       },
       "pros": [
         "Zeer fel voor een 55 inch",
@@ -473,7 +481,8 @@
         "Paneel": "Hi-QLED Mini LED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "Ja, met VRR en ALLM",
-        "Smart-tv": "VIDAA"
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "84 W · klasse E (EU-label)"
       },
       "pros": [
         "Mini LED met meer dan honderd dimzones",
@@ -520,7 +529,8 @@
         "Paneel": "Hi-QLED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "Ja, met VRR en ALLM",
-        "Smart-tv": "VIDAA"
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "84 W · klasse E (EU-label)"
       },
       "pros": [
         "Native 144 Hz voor een lage prijs",

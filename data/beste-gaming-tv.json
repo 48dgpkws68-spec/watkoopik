@@ -90,7 +90,8 @@
         "Paneel": "QD-OLED, mat",
         "Verversing": "165 Hz",
         "HDMI 2.1": "4 poorten",
-        "HDR": "HDR10+, HLG"
+        "HDR": "HDR10+, HLG",
+        "Stroomverbruik (SDR)": "99 W · klasse F (EU-label)"
       },
       "pros": [
         "165 Hz, de hoogste verversing in deze lijst",
@@ -145,7 +146,8 @@
         "Paneel": "OLED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "4 poorten",
-        "HDR": "HDR10+, HLG"
+        "HDR": "HDR10+, HLG",
+        "Stroomverbruik (SDR)": "76 W · klasse F (EU-label)"
       },
       "pros": [
         "4K tot 144 Hz met VRR",
@@ -199,7 +201,8 @@
         "Paneel": "OLED",
         "Verversing": "120 Hz",
         "HDMI 2.1": "2 poorten",
-        "HDR": "Dolby Vision, HDR10"
+        "HDR": "Dolby Vision, HDR10",
+        "Stroomverbruik (SDR)": "77 W · klasse F (EU-label)"
       },
       "pros": [
         "OLED-reactiesnelheid voor de prijs van een betere led-tv",
@@ -252,7 +255,8 @@
         "Paneel": "SQD-Mini LED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "ja, met VRR en ALLM",
-        "HDR": "Dolby Vision IQ, HDR10+"
+        "HDR": "Dolby Vision IQ, HDR10+",
+        "Stroomverbruik (SDR)": "85 W · klasse E (EU-label)"
       },
       "pros": [
         "Volgens TCL pieken tot circa 2.000 nits",
@@ -307,7 +311,8 @@
         "Paneel": "OLED evo",
         "Verversing": "144 Hz",
         "HDMI 2.1": "4 poorten",
-        "HDR": "Dolby Vision, HDR10"
+        "HDR": "Dolby Vision, HDR10",
+        "Stroomverbruik (SDR)": "52 W · klasse G (EU-label)"
       },
       "pros": [
         "Past op een bureau of in een gamekamer",
@@ -359,7 +364,8 @@
         "Paneel": "Hi-QLED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "ja, met VRR en ALLM",
-        "HDR": "Dolby Vision, HDR10+"
+        "HDR": "Dolby Vision, HDR10+",
+        "Stroomverbruik (SDR)": "63 W · klasse E (EU-label)"
       },
       "pros": [
         "Native 144 Hz voor de prijs van een gewone 60 Hz-tv",
@@ -412,7 +418,8 @@
         "Paneel": "Mini LED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "ja, met VRR en ALLM",
-        "HDR": "Dolby Vision IQ, HDR10+"
+        "HDR": "Dolby Vision IQ, HDR10+",
+        "Stroomverbruik (SDR)": "64 W · klasse E (EU-label)"
       },
       "pros": [
         "Native 144 Hz met VRR en ALLM",
@@ -464,7 +471,8 @@
         "Paneel": "QD-Mini LED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "ja, met VRR en ALLM",
-        "HDR": "Dolby Vision, HDR10+"
+        "HDR": "Dolby Vision, HDR10+",
+        "Stroomverbruik (SDR)": "70 W · klasse F (EU-label)"
       },
       "pros": [
         "Mini LED en 144 Hz voor ruim 500 euro",
@@ -517,7 +525,8 @@
         "Paneel": "Mini LED met Ambilight",
         "Verversing": "120 Hz",
         "HDMI 2.1": "ja, met VRR",
-        "HDR": "Dolby Vision, HDR10+"
+        "HDR": "Dolby Vision, HDR10+",
+        "Stroomverbruik (SDR)": "77 W · klasse F (EU-label)"
       },
       "pros": [
         "Ambilight trekt de kleuren van je game door op de muur",
