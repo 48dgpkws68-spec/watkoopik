@@ -16,7 +16,7 @@
   ],
   "ico": "📺",
   "color": "#1b3fb3",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "published": "2026-11-24",
   "google_wacht": true,
   "reviews_total": "",
@@ -272,9 +272,9 @@
       "synced": "2026-11-25"
     },
     {
-      "brand": "Xiaomi",
-      "name": "TV A Pro 2026 43 inch",
-      "price": 289.0,
+      "brand": "CHiQ",
+      "name": "U43QST",
+      "price": 282.74,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -285,24 +285,30 @@
         "Paneel": "QLED",
         "Smart-tv": "Google TV",
         "Kijkafstand": "1,5 tot 2,5 m",
-        "Stroomverbruik (SDR)": "50 W · klasse F (EU-label)"
+        "Stroomverbruik (SDR)": "42 W · klasse E (EU-label)"
       },
       "pros": [
-        "4K QLED met 94 procent DCI-P3 volgens Xiaomi",
-        "Google TV met Google Cast, AirPlay en Miracast",
-        "Geschikt voor wandmontage via VESA",
-        "HDR10+ en Filmmaker Mode"
+        "4K QLED met Google TV voor rond de 283 euro",
+        "Chromecast ingebouwd",
+        "Licht: 5,5 kilo zonder voet",
+        "Zuinig: 42 watt en energielabel E"
       ],
       "cons": [
-        "Bescheiden helderheid voor HDR",
-        "Speakers klinken dun bij films"
+        "HDMI 1.4, geen eARC",
+        "Geen Dolby Vision of HDR10+",
+        "Kleiner servicenetwerk"
       ],
-      "ideal": "Wie 4K, QLED en Google TV wil voor de prijs van een gewone 40 inch.",
-      "text": "De Xiaomi TV A Pro 2026 is de goedkoopste manier om in deze lijst 4K, QLED en Google TV te combineren. Voor 289 euro krijg je een 43 inch paneel met quantum dots dat volgens Xiaomi 94 procent van de DCI-P3-kleurruimte haalt. HDR10+, HLG en een Filmmaker-modus zitten erop. Xiaomi noemt zelf een comfortabele kijkafstand van 1,8 tot 2,5 meter, wat goed past bij een gemiddelde slaapkamer.\n\nGoogle TV geeft je NPO Start, Videoland, Netflix, Disney+ en Ziggo GO via de Play Store. Je stuurt beeld vanaf je telefoon met Google Cast, AirPlay of Miracast en met de Google Assistant zoek je met je stem. De tv is geschikt voor wandmontage via VESA, handig als er geen plek is voor een dressoir. De gamemodus haalt 120 Hz op een lagere resolutie. De helderheid blijft bescheiden, dus HDR-films ogen netjes maar niet spectaculair. Voor films is een kleine soundbar een goede aanvulling.",
-      "ean": "6941948705630",
-      "bol_title": "Xiaomi TV A Pro 2026 43 inch | 4K QLED Google TV | HDR10+ & Filmmaker Mode | 120Hz gaming | Dolby Audio & DTS-X | 94% DCI-P3 | AirPlay, Google Cast & Miracast | Google Assistant",
-      "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-43-inch-4k-qled-tv/9300000231021635/",
-      "image": "https://media.s-bol.com/JoqgkJ41nrwv/Z4jn42J/550x330.jpg",
+      "ideal": "Wie in de slaapkamer een scherp 43 inch scherm met Google TV wil voor weinig geld.",
+      "text": "De CHiQ U43QST is de voordeligste manier om een 43 inch 4K-tv met Google TV in de slaapkamer te hangen. Voor rond de 283 euro krijg je een QLED-paneel met volle kleuren en een randloos ontwerp met metalen frame. Door de 4K-resolutie blijft het beeld scherp, ook als het bed dicht bij het scherm staat. HDR10 en HLG worden ondersteund, Dolby Vision en HDR10+ ontbreken.\n\nGoogle TV heeft alle Nederlandse apps en Chromecast is ingebouwd, dus een serie die je op je telefoon begon zet je zo op het grote scherm. Er zitten vier HDMI-poorten op, meer dan je in een slaapkamer nodig hebt. Het zijn HDMI 1.4-poorten met gewone ARC. Het geluid levert 16 watt met Dolby Audio, genoeg voor een kamer van normale grootte. Met 42 watt en energielabel E is hij zuinig en met 5,5 kilo zonder voet hang je hem makkelijk aan de muur. CHiQ is het tv-merk van het Chinese Changhong en is hier minder bekend. Check daarom de garantievoorwaarden van de verkoper. Kopers op bol geven hem gemiddeld 4,3 van de 5.",
+      "ean": "8592344206092",
+      "bol_title": "CHiQ U43QST - Smart TV 43 Inch - UHD 4K - QLED Pro - Google TV - Randloos Metal Design - Dolby Audio - Nieuw",
+      "url": "https://www.bol.com/nl/nl/p/chiq-u43qst-smart-tv-43-inch-qled-pro-google-tv-uhd-4k-randloos-metal-design-dolby-audio-2025-nieuw/9300000238936359/",
+      "image": "https://media.s-bol.com/B5E6KJPLrV4n/BLQBRXn/550x363.jpg",
+      "ph": {
+        "2026-11-25": 282.74
+      },
+      "low_price": 282.74,
+      "ph_ean": "8592344206092",
       "rating": 4.3,
       "synced": "2026-11-25"
     },
@@ -437,7 +443,7 @@
     },
     {
       "h": "Een smart-tv zodat er geen kastje naast het bed hoeft",
-      "p": "Alle tien de tv's in deze lijst hebben een ingebouwd smart-systeem: Tizen bij Samsung, webOS bij LG, Titan OS bij Philips en Google TV bij Sony, Xiaomi en CHiQ. Netflix, YouTube, Disney+ en Prime Video staan er bij allemaal op. Voor gewone zenders gebruik je de app van je provider, zoals Ziggo GO, of een CI+-module met smartcard als de tv daar een sleuf voor heeft. Dan heb je geen extra kastje, stick of losse afstandsbediening nodig. Google TV heeft de grootste appwinkel. Titan OS is nieuwer en heeft minder kleine apps, dus controleer even of jouw favoriete app erop staat."
+      "p": "Alle tien de tv's in deze lijst hebben een ingebouwd smart-systeem: Tizen bij Samsung, webOS bij LG, Titan OS bij Philips en Google TV bij Sony en CHiQ. Netflix, YouTube, Disney+ en Prime Video staan er bij allemaal op. Voor gewone zenders gebruik je de app van je provider, zoals Ziggo GO, of een CI+-module met smartcard als de tv daar een sleuf voor heeft. Dan heb je geen extra kastje, stick of losse afstandsbediening nodig. Google TV heeft de grootste appwinkel. Titan OS is nieuwer en heeft minder kleine apps, dus controleer even of jouw favoriete app erop staat."
     },
     {
       "h": "Licht en helderheid in een donkere kamer",
@@ -480,6 +486,14 @@
     {
       "q": "Hoe hoog hang je een tv in de slaapkamer?",
       "a": "Hang het midden van het scherm ongeveer op ooghoogte vanuit de houding waarin je kijkt. Kijk je vooral liggend of half zittend in bed, dan hangt de tv vaak iets hoger dan in de woonkamer. Een kantelbare beugel richt het scherm dan iets naar beneden, zodat je niet schuin omhoog kijkt."
+    }
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-25",
+      "uit": "Xiaomi TV A Pro 2026 43 inch",
+      "in": "CHiQ U43QST",
+      "waarom": "niet meer leverbaar bij bol"
     }
   ]
 }

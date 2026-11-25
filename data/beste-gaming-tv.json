@@ -16,7 +16,7 @@
   ],
   "ico": "🎮",
   "color": "#1b3fb3",
-  "updated": "2026-11-10",
+  "updated": "2026-11-25",
   "published": "2026-11-10",
   "reviews_total": "3.100",
   "intro": "Een gaming-tv herken je niet aan het woord gaming op de doos, maar aan wat er achterop zit: HDMI 2.1, een paneel van 120 Hz of sneller, VRR tegen haperingen en een gamestand met weinig vertraging. Zonder die vier haalt een PlayStation 5, Xbox Series X of gaming-pc nooit zijn volle snelheid. Wij vergeleken de tv's op verversing, aansluitingen, HDR en de ervaringen van kopers. Dit zijn de tien beste gaming-tv's van dit moment, van 499 euro tot een QD-OLED van 165 Hz.",
@@ -35,7 +35,8 @@
         "Paneel": "OLED evo",
         "Verversing": "144 Hz",
         "HDMI 2.1": "4 poorten",
-        "HDR": "Dolby Vision, HDR10"
+        "HDR": "Dolby Vision, HDR10",
+        "Stroomverbruik (SDR)": "102 W · klasse F (EU-label)"
       },
       "pros": [
         "Alle vier de HDMI-poorten zijn volwaardig HDMI 2.1",
@@ -467,59 +468,44 @@
       "ph_ean": "6942351437149"
     },
     {
-      "brand": "TCL",
-      "name": "55T8D",
+      "brand": "Hisense",
+      "name": "55E8S",
       "price": 549.0,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Voordelige Mini LED met 144 Hz en Google TV.",
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Mini LED met native 144 Hz voor rond de 550 euro.",
       "specs": {
         "Formaat": "55 inch",
-        "Paneel": "QD-Mini LED",
+        "Paneel": "Mini LED",
         "Verversing": "144 Hz",
-        "HDMI 2.1": "ja, met VRR en ALLM",
-        "HDR": "Dolby Vision, HDR10+",
-        "Stroomverbruik (SDR)": "70 W · klasse F (EU-label)"
+        "HDMI 2.1": "ja, met VRR",
+        "HDR": "Dolby Vision IQ, HDR10+",
+        "Stroomverbruik (SDR)": "64 W · klasse E (EU-label)"
       },
       "pros": [
-        "Mini LED en 144 Hz voor ruim 500 euro",
-        "VRR en ALLM voor console en pc",
-        "Google TV met veel apps",
-        "Hoge beoordeling op bol"
+        "Mini LED met local dimming voor de prijs",
+        "Native 144 Hz met VRR en AMD FreeSync Premium",
+        "Vier HDMI-poorten",
+        "Ingebouwde subwoofer en Dolby Atmos"
       ],
       "cons": [
-        "Minder dimzones dan duurdere modellen",
-        "Zichtbaar blooming in een donkere kamer",
-        "Minder fel dan de Q7D Pro"
+        "VIDAA heeft minder apps dan Google TV",
+        "Met 600 nits minder fel dan duurdere Mini LED-tv's"
       ],
-      "ideal": "Gamers die voor weinig geld zowel 144 Hz als Mini LED willen en Google TV prettig vinden.",
-      "text": "De TCL 55T8D zit qua prijs tussen de twee Hisense-modellen in deze lijst en combineert het beste van beide. Je krijgt een paneel dat native op 144 Hz draait, met VRR en ALLM. Daarbovenop komt QD-Mini LED met lokale dimming. Voor 50 euro meer dan de Hisense E7S PRO oogt zwart dieper en hebben HDR-games meer glans.\n\nHet aantal dimzones is lager dan bij de duurdere Q7D Pro. In een pikdonkere kamer zie je daardoor eerder een gloed rond heldere objecten, bijvoorbeeld rond een wit menu op een zwarte achtergrond. Met wat licht aan valt dat weinig op. Een voordeel tegenover Hisense is Google TV, dat meer apps heeft dan VIDAA en goed samenwerkt met een Android-telefoon. Dolby Vision en HDR10+ worden allebei ondersteund. Kopers op bol geven hem een bijna perfecte beoordeling en noemen vooral het beeld voor deze prijs. Twijfel je tussen deze en de E7S PRO, dan is de T8D de betere keuze als je ook veel films kijkt.",
-      "ean": "5901292531072",
-      "bol_title": "TCL 55T8D - 55 inch - 4K QD-MiniLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-55t8d-55-inch-4k-qd-miniled-2026-smart-tv/9300000273452838/",
-      "image": "https://media.s-bol.com/Y3N3w6GZgkN9/MZNZNOm/550x343.jpg",
+      "ideal": "Gamers die voor weinig geld zowel 144 Hz als Mini LED willen.",
+      "text": "De Hisense 55E8S is in deze lijst de goedkoopste manier om Mini LED en 144 Hz te combineren. Voor rond de 550 euro krijg je een paneel dat native op 144 Hz draait, met VRR en AMD FreeSync Premium. Een PlayStation 5 of Xbox Series X speelt er op 120 beelden per seconde en een gaming-pc benut de volle 144 Hz. Er zitten vier HDMI-poorten op, dus een console, een pc en een soundbar passen er tegelijk aan.\n\nHet verschil met de goedkopere Hisense 55E7S PRO op nr. 7 zit in de verlichting. Mini LED met local dimming maakt zwart dieper, wat je vooral merkt in donkere games en films. Hisense geeft 600 nits helderheid op. Dat is genoeg voor een gewone woonkamer, maar HDR is minder fel dan bij duurdere Mini LED-tv's. Dolby Vision IQ en HDR10+ worden ondersteund. De ingebouwde subwoofer moet voor meer bas zorgen dan je van een platte tv verwacht. VIDAA heeft de grote streamingapps, al is het aanbod kleiner dan bij Google TV. Kopers op bol geven hem gemiddeld 4,6 van de 5.",
+      "ean": "6942351434582",
+      "bol_title": "Hisense 55E8S SmartTV - 55 inch - 4K Hi-QLED MiniLED - 2026 - 600 nits - Native 144Hz Game Mode - Built-in Subwoofer - Hi-View AI Engine - Hi-QLED Colour - Total HDR Solution",
+      "url": "https://www.bol.com/nl/nl/p/hisense-55e8s-smarttv-55-inch-4k-hi-qled-miniled-2026-600-nits-native-144hz-game-mode-built-in-subwoofer-hi-view-ai-engine-hi-qled-colour-total-hdr-solution/9300000269685081/",
+      "image": "https://media.s-bol.com/yLowOL1wmLWw/PjmnKWA/550x350.jpg",
       "ph": {
-        "2026-11-10": 549.0,
-        "2026-11-11": 549.0,
-        "2026-11-12": 549.0,
-        "2026-11-13": 549.0,
-        "2026-11-14": 549.0,
-        "2026-11-16": 549.0,
-        "2026-11-17": 549.0,
-        "2026-11-18": 549.0,
-        "2026-11-19": 549.0,
-        "2026-11-20": 549.0,
-        "2026-11-21": 549.0,
-        "2026-11-22": 549.0,
-        "2026-11-23": 549.0,
-        "2026-11-24": 549.0,
         "2026-11-25": 549.0
       },
       "low_price": 549.0,
-      "synced": "2026-11-25",
-      "ph_ean": "5901292531072",
-      "rating": 5.0
+      "ph_ean": "6942351434582",
+      "rating": 4.6,
+      "synced": "2026-11-25"
     },
     {
       "brand": "Philips",
@@ -549,7 +535,7 @@
         "Minder dimzones dan de topmodellen"
       ],
       "ideal": "Consolegamers die sfeer belangrijker vinden dan de laatste paar hertz.",
-      "text": "De Philips 55MLED910 is de enige gaming-tv in deze lijst met Ambilight. Ledstrips aan de achterkant werpen licht op de muur in de kleuren van het beeld. Rijd je in een racegame een tunnel in, dan dimt de hele wand mee. Het scherm lijkt daardoor groter. Veel gebruikers vinden lang spelen in een donkere kamer met dat licht ook rustiger voor de ogen.\n\nQua snelheid is hij op consoles afgestemd. Het Mini LED-paneel ververst met 120 Hz en heeft VRR, precies wat een PlayStation 5 of Xbox Series X maximaal levert. Pc-gamers die 144 Hz willen, zijn beter af met een TCL of Hisense. Dolby Vision en HDR10+ worden allebei ondersteund. Het aantal dimzones en de helderheid liggen lager dan bij de TCL Q7D Pro, dus in donkere scènes zie je soms wat blooming. Je betaalt ook meer dan voor de TCL 55T8D met vergelijkbaar paneel. Daar staat tegenover dat geen ander merk Ambilight heeft.",
+      "text": "De Philips 55MLED910 is de enige gaming-tv in deze lijst met Ambilight. Ledstrips aan de achterkant werpen licht op de muur in de kleuren van het beeld. Rijd je in een racegame een tunnel in, dan dimt de hele wand mee. Het scherm lijkt daardoor groter. Veel gebruikers vinden lang spelen in een donkere kamer met dat licht ook rustiger voor de ogen.\n\nQua snelheid is hij op consoles afgestemd. Het Mini LED-paneel ververst met 120 Hz en heeft VRR, precies wat een PlayStation 5 of Xbox Series X maximaal levert. Pc-gamers die 144 Hz willen, zijn beter af met een TCL of Hisense. Dolby Vision en HDR10+ worden allebei ondersteund. Het aantal dimzones en de helderheid liggen lager dan bij de TCL Q7D Pro, dus in donkere scènes zie je soms wat blooming. Je betaalt ook meer dan voor de Hisense 55E8S, die ook Mini LED heeft. Daar staat tegenover dat geen ander merk Ambilight heeft.",
       "ean": "8718863048658",
       "bol_title": "Philips 55MLED910 - 55 inch - 4K QLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-55mled910-12-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000233566948/",
@@ -637,5 +623,13 @@
     "beste-playstation-5",
     "beste-nintendo-switch",
     "beste-oled-tv"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-25",
+      "uit": "TCL 55T8D",
+      "in": "Hisense 55E8S",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

@@ -86,59 +86,44 @@
     },
     {
       "brand": "Samsung",
-      "name": "RB38C7B5BS9/EF",
-      "price": 909.0,
+      "name": "RB38C7B5AB1/EF",
+      "price": 969.0,
       "score": 9.0,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Strakke combi in energieklasse B met slimme functies.",
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Zwarte combi in energieklasse A met slimme functies.",
       "specs": {
         "Type": "Vrijstaand combi",
         "Inhoud": "387 l",
-        "Energieklasse": "B",
+        "Energieklasse": "A",
         "Geluid": "35 dB",
         "NoFrost": "Ja",
-        "Energieverbruik": "134 kWh per jaar"
+        "Energieverbruik": "108 kWh per jaar"
       },
       "pros": [
-        "Ruime inhoud van 387 liter",
+        "Energieklasse A met 108 kWh per jaar",
         "SpaceMax-wanden geven meer binnenruimte",
         "Wifi met SmartThings-app",
-        "Tien jaar garantie op de compressor"
+        "Stil met 35 dB"
       ],
       "cons": [
         "Wifi-functies voegen weinig toe",
-        "Vriezer iets kleiner dan bij Bosch"
+        "Vriezer iets kleiner dan bij Bosch",
+        "Duurder dan de varianten in klasse C"
       ],
       "ideal": "Wie maximale koelruimte wil binnen een standaardbreedte van 60 cm.",
-      "text": "De RB38C7B5BS9 is een van de populairste koel-vriescombinaties in Nederland. Samsung haalt met dunnere isolatie in de wanden extra ruimte uit dezelfde buitenmaten, waardoor je op 387 liter uitkomt bij 203 cm hoogte. Het koelgedeelte heeft een grote groentelade en een flexibele schap voor flessen.\n\nDe digitale invertercompressor is stil met 35 dB en Samsung geeft er tien jaar garantie op. Het jaarverbruik ligt rond 158 kWh, wat in energieklasse B netjes is. Via de SmartThings-app kun je de temperatuur aanpassen en meldingen ontvangen, al vinden de meeste gebruikers dat geen reden om hem te kopen. Deze uitvoering is zilverkleurig. Reviews zijn lovend over de ruimte en de stilte. Minpunt is de vriezer van 114 liter met drie lades, iets krapper ingedeeld dan bij de Bosch, maar voor de meeste huishoudens ruim voldoende.",
-      "ean": "8806094768459",
-      "bol_title": "Samsung RB38C7B5BS9/EF - koel-vriescombinatie - 203 cm - No Frost - 0-gradenzone",
-      "url": "https://www.bol.com/nl/nl/p/samsung-rb38c7b5bs9-ef-koel-vriescombinatie-zilver-met-wi-fi/9300000148103811/",
-      "image": "https://media.s-bol.com/NnvE4D5OzOzD/kqwjgr/250x200.jpg",
+      "text": "De RB38C7B5AB1 is een zuinige uitvoering uit de RB38-reeks van Samsung. Met dunnere isolatie in de wanden, door Samsung SpaceMax genoemd, haalt het merk extra ruimte uit dezelfde buitenmaten. Zo kom je op 387 liter bij 203 cm hoogte en een breedte van 59,5 cm. Het koelgedeelte meet 276 liter en de vriezer 114 liter. Twin Cooling Plus regelt de lucht in koelkast en vriezer apart en dankzij No Frost hoef je nooit te ontdooien.\n\nHet jaarverbruik ligt volgens de gegevens op bol op 108 kWh, goed voor energieklasse A. Met 35 dB is hij stil genoeg voor een open keuken. Via de SmartThings-app kun je de temperatuur aanpassen en het verbruik volgen, al is dat voor de meeste gebruikers geen reden om hem te kopen. Deze uitvoering is zwart. Op bol krijgt hij gemiddeld een 4,5 van 5. Minpunt is de vriezer van 114 liter, iets krapper dan bij de Bosch, maar voor de meeste huishoudens ruim voldoende. Je betaalt wel meer dan voor de varianten in klasse C.",
+      "ean": "8806095078250",
+      "rating": 4.5,
+      "bol_title": "Samsung RB38C7B5AB1-EF - koel-vriescombinatie - 203 cm - No Frost - Bediening via app",
+      "url": "https://www.bol.com/nl/nl/p/samsung-bespoke-rb38c7b5ab1-ef-koel-vriescombinatie-zwart-met-wi-fi/9300000174895577/",
+      "image": "https://media.s-bol.com/7mNkmx0LWzxj/O7qLYnE/250x200.jpg",
       "ph": {
-        "2026-11-10": 929.0,
-        "2026-11-11": 929.0,
-        "2026-11-12": 929.0,
-        "2026-11-13": 909.0,
-        "2026-11-14": 909.0,
-        "2026-11-16": 909.0,
-        "2026-11-17": 909.0,
-        "2026-11-18": 909.0,
-        "2026-11-19": 909.0,
-        "2026-11-20": 909.0,
-        "2026-11-21": 909.0,
-        "2026-11-22": 909.0,
-        "2026-11-23": 909.0,
-        "2026-11-24": 909.0,
-        "2026-11-25": 909.0
+        "2026-11-25": 969.0
       },
-      "low_price": 909.0,
-      "synced": "2026-11-25",
-      "ph_ean": "8806094768459",
-      "prev_price": 929.0,
-      "prev_date": "2026-11-12",
-      "rating": 5.0
+      "low_price": 969.0,
+      "ph_ean": "8806095078250",
+      "synced": "2026-11-25"
     },
     {
       "brand": "Liebherr",
@@ -799,6 +784,12 @@
   ],
   "published": "2026-10-14",
   "wissels": [
+    {
+      "d": "2026-11-25",
+      "uit": "Samsung RB38C7B5BS9/EF",
+      "in": "Samsung RB38C7B5AB1/EF",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-19",
       "uit": "Siemens iQ300 KI86VVSE0",

@@ -330,61 +330,44 @@
       "rating": 4.5
     },
     {
-      "brand": "Sony",
-      "name": "LinkBuds Fit",
-      "price": 134.0,
+      "brand": "Apple",
+      "name": "AirPods Pro 3",
+      "price": 211.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Ultralichte oordopjes met vleugeltjes, voor sport en dagelijks gebruik.",
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Compacte oordopjes met hartslagsensor en sterke ruisonderdrukking, voor sport en dagelijks gebruik.",
       "specs": {
         "Type": "In-ear",
-        "Pasvorm": "Air Fitting Supporter",
-        "Waterdicht": "IPX4",
-        "Batterij": "21 u met case",
+        "Pasvorm": "Oortips in vijf maten, zonder haak",
+        "Waterdicht": "IP57",
+        "Batterij": "24 u met case",
         "Noise cancelling": "Ja"
       },
       "pros": [
-        "Slechts 4,8 gram per oordop",
-        "Zachte vleugeltjes houden ze stabiel zonder oorhaak",
-        "Goede ruisonderdrukking voor hun formaat",
-        "Compacte case"
+        "Ingebouwde hartslagsensor voor je training",
+        "IP57: bestand tegen stof, zweet en regen",
+        "Tot 8 uur per lading met noise cancelling",
+        "Transparantiemodus om het verkeer te horen"
       ],
       "cons": [
-        "Batterij per lading korter dan bij echte sportmodellen",
-        "IPX4, dus niet onderdompelen"
+        "Geen oorhaak of vleugeltje, minder vast bij sprints",
+        "Hartslagmeting werkt alleen met Apple-apparaten",
+        "Stevige prijs"
       ],
-      "ideal": "Wie één paar oordopjes zoekt voor de sportschool, yoga en daarna gewoon voor op kantoor.",
-      "text": "De Sony LinkBuds Fit is geen klassieke sportoordop met haak, maar wel een van de stabielste kleine oordopjes. De Air Fitting Supporter is een zacht siliconen vleugeltje dat zich in de rand van je oorschelp nestelt. Daardoor blijven ze zitten bij krachttraining, spinning en yoga. Met 4,8 gram per oordop voel je ze nauwelijks, ook niet als je met een muts of helm sport.\n\nDe ruisonderdrukking is voor zulke kleine oordopjes verrassend goed en filtert de muziek van de sportschool grotendeels weg. Per lading haal je ongeveer 5,5 uur met ANC, met de case 21 uur. Dat is minder dan bij JBL of Soundcore, maar ruim genoeg voor een week trainen. Met IPX4 kunnen ze tegen zweet en regen. De klank is gebalanceerd en via de Sony-app stel je de equalizer in. Gebruikers noemen ze ideaal als je één paar wilt voor sporten en dagelijks gebruik, maar fanatieke hardlopers kiezen liever een model met oorhaak.",
-      "ean": "4548736157934",
-      "bol_title": "Sony LinkBuds Fit – Draadloze oordopjes met Noise Cancelling - Wit",
-      "url": "https://www.bol.com/nl/nl/p/sony-linkbuds-fit-draadloze-oordopjes-met-noise-cancelling-wit/9300000187649793/",
-      "image": "https://media.s-bol.com/qWBK2lZXk05G/qxLN6GR/446x840.jpg",
+      "ideal": "iPhone-gebruikers die één paar oordopjes zoeken voor de sportschool, hardlopen en daarna gewoon voor op kantoor.",
+      "text": "De Apple AirPods Pro 3 zijn geen klassieke sportoordopjes met haak, maar Apple heeft ze duidelijk ook voor trainingen gemaakt. Er zit een hartslagsensor in, waarmee je je training volgt via de Gezondheid-app op je iPhone, net als bij de Powerbeats Pro 2 bovenaan. Met IP57 zijn ze bestand tegen stof, zweet en een regenbui. Je krijgt oortips in vijf maten, zodat je een afsluiting vindt die ook bij krachttraining en spinning blijft zitten.\n\nDe ruisonderdrukking filtert de muziek van de sportschool grotendeels weg. Buiten zet je de transparantiemodus aan, zodat je het verkeer blijft horen. Per lading haal je tot 8 uur met noise cancelling en tot 10 uur in transparantiemodus, ruim genoeg voor lange duurtrainingen. Een oorhaak of vleugeltje ontbreekt, dus fanatieke sprinters zitten veiliger met een model met haak. Ook de prijs is stevig en de hartslagmeting werkt alleen samen met Apple-apparaten. Kopers op bol geven ze gemiddeld een 4,5 van 5. Heb je een iPhone en wil je één paar voor sport en dagelijks gebruik, dan is dit een logische keuze.",
+      "ean": "0195950543742",
+      "ph_ean": "0195950543742",
+      "rating": 4.5,
+      "bol_title": "Apple Airpods Pro 3 - In-ear koptelefoon - USB-C",
+      "url": "https://www.bol.com/nl/nl/p/apple-airpods-pro-3-in-ear-koptelefoon-usb-c/9300000239314960/",
+      "image": "https://media.s-bol.com/yNOyG8Lw4Moz/1j7rONV/530x840.jpg",
       "ph": {
-        "2026-11-08": 134.0,
-        "2026-11-09": 134.0,
-        "2026-11-10": 134.0,
-        "2026-11-11": 134.0,
-        "2026-11-12": 133.58,
-        "2026-11-13": 133.0,
-        "2026-11-14": 134.0,
-        "2026-11-16": 133.56,
-        "2026-11-17": 134.0,
-        "2026-11-18": 133.4,
-        "2026-11-19": 133.0,
-        "2026-11-20": 132.94,
-        "2026-11-21": 134.0,
-        "2026-11-22": 133.13,
-        "2026-11-23": 134.0,
-        "2026-11-24": 133.17,
-        "2026-11-25": 134.0
+        "2026-11-25": 211.0
       },
-      "low_price": 132.94,
-      "synced": "2026-11-25",
-      "ph_ean": "4548736157934",
-      "prev_price": 133.17,
-      "prev_date": "2026-11-24",
-      "rating": 4.6
+      "low_price": 211.0,
+      "synced": "2026-11-25"
     },
     {
       "brand": "JLab",
@@ -409,7 +392,7 @@
       ],
       "cons": [
         "Merk minder bekend in Nederland",
-        "App oogt minder verfijnd dan bij Sony of JBL"
+        "App oogt minder verfijnd dan bij Apple of JBL"
       ],
       "ideal": "Sporters die veel batterij en ANC willen in een oordop met oorhaak.",
       "text": "De JLab Epic Sport ANC 3 is in Nederland minder bekend, maar in de VS een vaste naam in sportoordopjes. Voor 99 euro krijg je oordopjes met een oorhaak die stevig om je oor sluit, hybride ruisonderdrukking en een batterij die met de case 56 uur meegaat. Dat is de langste speeltijd van alle in-ear oordopjes in deze lijst. Met IP66 zijn ze bestand tegen zweet en harde regenbuien.\n\nOpvallend in deze prijsklasse is de ondersteuning voor LDAC, waarmee je op Android met hogere kwaliteit streamt. Multipoint laat je wisselen tussen telefoon en sporthorloge of laptop. De Be Aware-modus laat omgevingsgeluid door als je buiten loopt. In de JLab-app kies je uit equalizer-presets of maak je je eigen klankprofiel. Reviewers zijn positief over de pasvorm en de batterij, maar vinden de microfoon bij wind minder sterk dan bij Beats. De app werkt goed, al oogt hij eenvoudiger dan die van grotere merken.",
@@ -779,7 +762,7 @@
     },
     {
       "h": "Pasvorm: oorhaak, vleugeltjes of nekbeugel",
-      "p": "De pasvorm bepaalt of je oordopjes blijven zitten bij springen, sprinten en krachttraining. Een oorhaak, zoals bij de Powerbeats Pro 2 en de JBL Endurance Peak 4, is het stabielst. Vleugeltjes zoals bij de Sony LinkBuds Fit zijn compacter en werken goed bij fitness en yoga. Een nekbeugel bij botgeleiding zit stevig maar kan schuren tegen een hoge kraag of fietshelm. Probeer altijd alle meegeleverde oordopjes, want de juiste maat maakt meer verschil dan het model."
+      "p": "De pasvorm bepaalt of je oordopjes blijven zitten bij springen, sprinten en krachttraining. Een oorhaak, zoals bij de Powerbeats Pro 2 en de JBL Endurance Peak 4, is het stabielst. Compacte oordopjes zonder haak, zoals de Apple AirPods Pro 3, zitten minder vast maar werken goed bij fitness en yoga. Een nekbeugel bij botgeleiding zit stevig maar kan schuren tegen een hoge kraag of fietshelm. Probeer altijd alle meegeleverde oordopjes, want de juiste maat maakt meer verschil dan het model."
     },
     {
       "h": "Wat betekent de IP-waardering?",
@@ -824,5 +807,13 @@
       "a": "Veeg de oordopjes na elke training af met een droge of licht vochtige doek en laat ze drogen voordat je ze in de case legt. Modellen met IP67 of IP68 kun je kort afspoelen onder de kraan. Haal de siliconen dopjes er eens per week af en was ze met lauw water en een druppel zeep."
     }
   ],
-  "published": "2026-10-18"
+  "published": "2026-10-18",
+  "wissels": [
+    {
+      "d": "2026-11-25",
+      "uit": "Sony LinkBuds Fit",
+      "in": "Apple AirPods Pro 3",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

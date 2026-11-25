@@ -14,68 +14,17 @@
   ],
   "ico": "📺",
   "color": "#1b3fb3",
-  "updated": "2026-10-20",
+  "updated": "2026-11-25",
   "reviews_total": "2.800",
   "intro": "Een 43 inch tv koop je meestal voor een slaapkamer, studentenkamer, keuken of een kleine woonkamer waar je op twee tot drie meter van het scherm zit. Op dat formaat zijn er geen oled-tv's meer, dus de keuze draait om led, QLED en een enkele miniled. Wij vergeleken de 43 inch tv's die nu bij bol te koop zijn op beeld, helderheid, smart-tv, gamefuncties en geluid, aangevuld met de ervaringen van kopers. Dit zijn de tien beste.",
-  "verdict": "De Samsung QE43QN73H is de beste 43 inch tv van 2026: miniled met local dimming en quantum dots geven een contrast dat je op dit formaat bijna nergens anders vindt. De Hisense 43E7S PRO is de beste prijs-kwaliteit met 144 Hz en Dolby Vision voor rond 450 euro. Wil je een tv die als schilderij aan de muur hangt, dan is The Frame de premium keuze. Wil je een Samsung voor de slaapkamer met drie jaar extra garantie, dan is de UE43M74H een veilige keuze.",
+  "verdict": "De Hisense 43E7S PRO is de beste 43 inch tv van 2026: native 144 Hz, quantum dots en Dolby Vision voor rond 450 euro. De gewone Hisense 43E7S is de beste prijs-kwaliteit met hetzelfde soort paneel op 60 Hz voor 299 euro. Wil je een tv die als schilderij aan de muur hangt, dan is The Frame de premium keuze. Wil je een Samsung voor de slaapkamer met drie jaar extra garantie, dan is de UE43M74H een veilige keuze.",
   "products": [
-    {
-      "brand": "Samsung",
-      "name": "Neo QLED QE43QN73H",
-      "price": 529.0,
-      "score": 9.3,
-      "label": "Beste keuze",
-      "reviews": "bol-score 4,0 van 5",
-      "oneliner": "Betaalbare miniled van Samsung met het beste contrast op 43 inch.",
-      "specs": {
-        "Paneel": "Neo QLED (miniled)",
-        "Resolutie": "4K",
-        "Verversing": "tot 120 Hz",
-        "HDR": "HDR10+",
-        "Smart-tv": "Tizen",
-        "Stroomverbruik (SDR)": "45 W · klasse F (EU-label)"
-      },
-      "pros": [
-        "Miniled met local dimming voor dieper zwart",
-        "Quantum dots voor verzadigde kleuren",
-        "Slank ontwerp van 26 mm diep",
-        "Minimaal vijf jaar software-updates"
-      ],
-      "cons": [
-        "Geen Dolby Vision",
-        "Geen VRR volgens de specificaties",
-        "Nog weinig beoordelingen op bol"
-      ],
-      "ideal": "Wie op een klein formaat het beste contrast wil, bijvoorbeeld in een slaapkamer of studio.",
-      "text": "De QE43QN73H is het 2026-model waarmee Samsung zijn Neo QLED-techniek naar 43 inch brengt. Achter het scherm zitten duizenden kleine leds die per zone dimmen. Daardoor wordt zwart dieper en blijven heldere delen fel, een duidelijk verschil met de gewone led-panelen die je op dit formaat meestal krijgt. Een quantum dot-laag zorgt voor verzadigde kleuren, wat vooral opvalt bij natuurdocumentaires en animatiefilms.\n\nHet paneel haalt maximaal 120 Hz, genoeg voor vloeiend beeld bij sport. Volgens de specificaties ontbreekt VRR, dus fanatieke gamers kijken beter naar de Hisense 43E7S PRO. Samsung ondersteunt HDR10+ maar geen Dolby Vision. Tizen is snel en heeft alle Nederlandse apps, zoals NPO Start, Videoland en Ziggo GO. Met 26 mm is hij opvallend dun en er zitten drie HDMI-aansluitingen op, waarvan een met eARC voor een soundbar. Samsung belooft minimaal vijf jaar updates. Beoordelingen op bol zijn er nog nauwelijks, omdat het model nieuw is. Wie op 43 inch vooral het beste contrast zoekt, is hier aan het goede adres.",
-      "ean": "8806099124410",
-      "bol_title": "Samsung QE43QN73H - 43 inch - 4K Neo QLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-qe43qn73hauxxn-tv-109-2-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000301588007/",
-      "image": "https://media.s-bol.com/moo088RKzgB9/JqgGNm9/550x353.jpg",
-      "ph": {
-        "2026-11-17": 570.79,
-        "2026-11-18": 570.79,
-        "2026-11-19": 568.01,
-        "2026-11-20": 529.0,
-        "2026-11-21": 529.0,
-        "2026-11-22": 479.0,
-        "2026-11-23": 479.0,
-        "2026-11-24": 529.0,
-        "2026-11-25": 529.0
-      },
-      "low_price": 479.0,
-      "ph_ean": "8806099124410",
-      "synced": "2026-11-25",
-      "prev_price": 479.0,
-      "prev_date": "2026-11-23",
-      "rating": 4.0
-    },
     {
       "brand": "Hisense",
       "name": "43E7S PRO",
       "price": 444.0,
-      "score": 9.0,
-      "label": "Beste prijs-kwaliteit",
+      "score": 9.3,
+      "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
       "oneliner": "Native 144 Hz en Dolby Vision voor een middenklasseprijs.",
       "specs": {
@@ -147,6 +96,47 @@
       "rating": 4.7
     },
     {
+      "brand": "Hisense",
+      "name": "43E7S",
+      "price": 299.0,
+      "score": 9.0,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "bol-score 4,8 van 5",
+      "oneliner": "Hi-QLED met Dolby Vision op 43 inch voor 299 euro.",
+      "specs": {
+        "Paneel": "Hi-QLED",
+        "Resolutie": "4K",
+        "Verversing": "60 Hz, VRR",
+        "HDR": "Dolby Vision, HDR10+",
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "klasse E (EU-label)"
+      },
+      "pros": [
+        "Quantum dots voor volle kleuren",
+        "Dolby Vision IQ en Dolby Atmos",
+        "VRR via HDMI 2.1",
+        "Zo'n 140 euro goedkoper dan de PRO"
+      ],
+      "cons": [
+        "Paneel van 60 Hz, geen 144 Hz",
+        "VIDAA heeft minder apps dan Google TV",
+        "Geen local dimming"
+      ],
+      "ideal": "Wie een kleurrijke 43 inch tv wil voor rond de 300 euro en niet fanatiek gamet.",
+      "text": "De Hisense 43E7S is het gewone broertje van de PRO op nummer 1 en kost met 299 euro zo'n 140 euro minder. Je krijgt hetzelfde soort Hi-QLED-paneel met quantum dots, dat kleuren voller toont dan een gewone led-tv. Dolby Vision IQ past het beeld aan op het licht in de kamer en Dolby Atmos is aanwezig. De AI 4K Upscaler maakt van gewone tv-zenders een scherper beeld.\n\nHet verschil met de PRO zit in de snelheid. Dit paneel draait op 60 Hz in plaats van 144 Hz. Via HDMI 2.1 is er wel VRR, dus voor een console op 60 beelden per seconde is hij prima. Er zitten drie HDMI-poorten op, met eARC voor een soundbar. VIDAA start snel en heeft de grote streamingapps, al mist het soms een kleinere app. Met 5,9 kilo zonder voet hang je hem makkelijk op in een slaapkamer of werkkamer. Het energielabel E is gunstig. Kopers op bol geven hem gemiddeld 4,8 van de 5. Game je niet fanatiek, dan is dit de slimste koop op 43 inch.",
+      "ean": "6942351430973",
+      "bol_title": "Hisense 43E7S SmartTV - 43 inch - 4K Hi-QLED - 2026 - Hi-QLED Colour - Dolby Vision Atmos - AI 4K Upscaler - AI Smooth Motion - Game Mode Plus - Filmmaker Mode",
+      "url": "https://www.bol.com/nl/nl/p/hisense-43e7s-smarttv-43-inch-4k-hi-qled-2026-hi-qled-colour-dolby-vision-atmos-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-filmmaker-mode/9300000269685088/",
+      "image": "https://media.s-bol.com/D31qrV00OpMK/nRQ2J4P/550x342.jpg",
+      "ph": {
+        "2026-11-25": 299.0
+      },
+      "low_price": 299.0,
+      "ph_ean": "6942351430973",
+      "rating": 4.8,
+      "synced": "2026-11-25"
+    },
+    {
       "brand": "Samsung",
       "name": "The Frame QE43LS03H (2026)",
       "price": 799.0,
@@ -173,7 +163,7 @@
         "Geen Dolby Vision en geen 120 Hz op dit formaat"
       ],
       "ideal": "Wie een tv in de slaapkamer, hal of werkkamer wil die er uitgeschakeld uitziet als een schilderij.",
-      "text": "The Frame is de tv voor wie liever geen zwart vlak aan de muur heeft. Als je niet kijkt, schakelt hij naar de kunstmodus en toont hij een schilderij of foto. Een bewegingssensor zet het scherm uit als niemand in de kamer is. Het matte antireflectiescherm maakt dat zo overtuigend dat bezoekers vaak pas na een tijdje zien dat het een tv is.\n\nIn 43 inch is The Frame populair in slaapkamers en werkkamers, waar een gewone tv het interieur domineert. De meegeleverde muurbeugel hangt hem vrijwel vlak tegen de wand. Het QLED-paneel geeft mooie kleuren, maar op beeldkwaliteit verslaat de QN73H hem duidelijk. Ook draait hij in dit formaat op 60 Hz, dus voor fanatieke gamers is hij minder geschikt. Tizen heeft alle bekende apps en de Samsung Art Store biedt duizenden kunstwerken tegen een abonnement. Je betaalt een flinke premie voor het design, maar niets anders op 43 inch ziet er zo goed uit als hij uit staat.",
+      "text": "The Frame is de tv voor wie liever geen zwart vlak aan de muur heeft. Als je niet kijkt, schakelt hij naar de kunstmodus en toont hij een schilderij of foto. Een bewegingssensor zet het scherm uit als niemand in de kamer is. Het matte antireflectiescherm maakt dat zo overtuigend dat bezoekers vaak pas na een tijdje zien dat het een tv is.\n\nIn 43 inch is The Frame populair in slaapkamers en werkkamers, waar een gewone tv het interieur domineert. De meegeleverde muurbeugel hangt hem vrijwel vlak tegen de wand. Het QLED-paneel geeft mooie kleuren, maar voor veel minder geld krijg je bij de Hisense 43E7S PRO een sneller paneel. Ook draait hij in dit formaat op 60 Hz, dus voor fanatieke gamers is hij minder geschikt. Tizen heeft alle bekende apps en de Samsung Art Store biedt duizenden kunstwerken tegen een abonnement. Je betaalt een flinke premie voor het design, maar niets anders op 43 inch ziet er zo goed uit als hij uit staat.",
       "ean": "8806099242787",
       "bol_title": "Samsung QE43LS03HEUX The Frame 43 Inch (2026)",
       "url": "https://www.bol.com/nl/nl/p/samsung-qe43ls03heux-the-frame-43-inch/9300000284690240/",
@@ -429,140 +419,86 @@
       "rating": 5.0
     },
     {
-      "brand": "LG",
-      "name": "43QNED80T6A",
-      "price": 399.0,
+      "brand": "Philips",
+      "name": "43PQS7801/12",
+      "price": 349.0,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Betaalbare QNED-tv van LG met webOS en quantum-dot-kleuren.",
-      "specs": {
-        "Paneel": "QNED",
-        "Resolutie": "4K",
-        "Verversing": "60 Hz",
-        "HDR": "HDR10, HLG",
-        "Smart-tv": "webOS",
-        "Stroomverbruik (SDR)": "54 W · klasse G (EU-label)"
-      },
-      "pros": [
-        "Gebruiksvriendelijk webOS met alle apps",
-        "Quantum-dot-techniek voor levendige kleuren",
-        "Magic Remote met aanwijsfunctie",
-        "Compact en licht"
-      ],
-      "cons": [
-        "Geen echte 120 Hz",
-        "Beperkte helderheid voor HDR"
-      ],
-      "ideal": "Wie een eenvoudige 43 inch tv zoekt met een fijn menu.",
-      "text": "De LG 43QNED80T6A komt uit de QNED-serie van 2024. QNED combineert een led-paneel met een laag quantum dots, waardoor kleuren voller ogen dan bij een gewone led-tv. Op 43 inch is dat een prettige upgrade voor een slaapkamer, studeerkamer of keuken. Tegenover de nieuwere QNED84 hoger in deze lijst lever je weinig in voor dagelijks kijken.\n\nDe software is webOS, bekend om het overzichtelijke startscherm en de Magic Remote die werkt als een muisaanwijzer. Netflix, Disney+, Videoland en NPO Start zijn aanwezig. Het paneel draait op 60 Hz, prima voor series en voetbal, maar niet bedoeld voor serieus gamen op een console. HDR10 en HLG worden ondersteund, al haalt een tv in deze prijsklasse niet de helderheid van de duurdere modellen. Kopers op bol geven gemiddeld 4,3 sterren. Voor ongeveer 400 euro krijg je een nette tv zonder poespas.",
-      "ean": "8806091952202",
-      "bol_title": "LG 43QNED80T6A - 43 inch - 4K QNED - 2024",
-      "url": "https://www.bol.com/nl/nl/p/lg-43qned80t6a-43-inch-4k-qned-2024/9300000176724691/",
-      "image": "https://media.s-bol.com/DVjq1oWGKQLA/mZMGLDn/550x345.jpg",
-      "ph": {
-        "2026-11-03": 399.0,
-        "2026-11-04": 399.0,
-        "2026-11-05": 399.0,
-        "2026-11-06": 399.0,
-        "2026-11-07": 399.0,
-        "2026-11-08": 399.0,
-        "2026-11-09": 399.0,
-        "2026-11-10": 399.0,
-        "2026-11-11": 399.0,
-        "2026-11-12": 399.0,
-        "2026-11-13": 399.0,
-        "2026-11-14": 399.0,
-        "2026-11-16": 399.0,
-        "2026-11-17": 399.0,
-        "2026-11-18": 399.0,
-        "2026-11-19": 399.0,
-        "2026-11-20": 399.0,
-        "2026-11-21": 399.0,
-        "2026-11-22": 399.0,
-        "2026-11-23": 399.0,
-        "2026-11-24": 399.0,
-        "2026-11-25": 399.0
-      },
-      "low_price": 399.0,
-      "synced": "2026-11-25",
-      "ph_ean": "8806091952202",
-      "rating": 4.3
-    },
-    {
-      "brand": "Xiaomi",
-      "name": "TV A Pro 2026 43 inch",
-      "price": 289.0,
-      "score": 8.3,
-      "label": null,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Goedkope QLED met Google TV en een gamemodus tot 120 Hz.",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "43 inch QLED uit 2026 met HDR10+ en Dolby Atmos.",
       "specs": {
         "Paneel": "QLED",
         "Resolutie": "4K",
-        "Verversing": "60 Hz (120 Hz game)",
+        "Verversing": "60 Hz, VRR",
         "HDR": "HDR10+, HLG",
-        "Smart-tv": "Google TV",
-        "Stroomverbruik (SDR)": "50 W · klasse F (EU-label)"
+        "Smart-tv": "Titan OS",
+        "Stroomverbruik (SDR)": "51 W · klasse F (EU-label)"
       },
       "pros": [
-        "QLED voor ruim 300 euro",
-        "Google TV met Chromecast",
-        "Gamemodus tot 120 Hz",
-        "Metalen behuizing met dunne randen"
+        "Quantum dots voor volle kleuren",
+        "Dolby Atmos en DTS:X",
+        "VRR en ALLM voor consoles",
+        "AirPlay en Bluetooth 5.2"
       ],
       "cons": [
-        "120 Hz alleen in de gamemodus op lagere resolutie",
-        "Matige helderheid"
+        "Geen Dolby Vision",
+        "Geen Ambilight",
+        "Titan OS heeft minder apps dan Google TV"
       ],
-      "ideal": "Studenten en starters die voor weinig geld een complete 43 inch smart-tv willen.",
-      "text": "Met de TV A Pro 2026 laat Xiaomi zien hoeveel tv je voor ruim 300 euro kunt krijgen. Je krijgt een 4K-paneel met quantum dots, een dunne metalen behuizing en Google TV. Dat laatste is een groot voordeel ten opzichte van andere goedkope merken: alle apps zijn er en je cast met één tik vanaf je telefoon.\n\nDe gamemodus kan tot 120 Hz, maar dat werkt op een lagere resolutie. Voor een spelletje Fortnite of FIFA op een console is dat prima, al haalt hij niet het niveau van een echte 144 Hz-tv. HDR10+ en de Filmmaker-modus zitten erin, zodat films er zoals bedoeld uitzien. De helderheid is bescheiden, dus in een zonnige kamer moet je het beeld wat feller zetten. Kopers op bol geven hem gemiddeld 4,3 sterren en noemen vooral de prijs en het snelle menu. Als tweede tv of voor een studentenkamer is dit een van de verstandigste aankopen.",
-      "ean": "6941948705630",
-      "bol_title": "Xiaomi TV A Pro 2026 43 inch | 4K QLED Google TV | HDR10+ & Filmmaker Mode | 120Hz gaming | Dolby Audio & DTS-X | 94% DCI-P3 | AirPlay, Google Cast & Miracast | Google Assistant",
-      "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-43-inch-4k-qled-tv/9300000231021635/",
-      "image": "https://media.s-bol.com/JoqgkJ41nrwv/Z4jn42J/550x330.jpg",
-      "synced": "2026-11-25",
+      "ideal": "Wie een nette 43 inch QLED van Philips zoekt en vooral streamt.",
+      "text": "De Philips 43PQS7801/12 is een 43 inch QLED uit 2026 voor rond de 350 euro. Quantum dots zorgen voor heldere, volle kleuren en de Pixel Precise Ultra HD-processor verbetert scherpte, beweging en contrast. HDR10+ en HLG worden ondersteund, Dolby Vision niet. Het is het model zonder Ambilight. Wil je dat wel, dan kom je uit bij de Philips 43PQS8601 op nummer 4, die een stuk duurder is.\n\nVoor het geluid ondersteunt hij Dolby Atmos en DTS:X, al blijven de speakers van 20 watt bescheiden. Het paneel draait op 60 Hz. Voor gamers zijn er VRR, ALLM en de Gamebar 2.0, genoeg voor een console op standaardinstellingen. Titan OS geeft snel toegang tot Netflix, Disney+, YouTube en Prime Video, maar heeft minder apps dan Google TV. Met AirPlay stuur je beeld vanaf een iPhone naar de tv. Er zijn drie HDMI-aansluitingen met eARC en Bluetooth 5.2 voor een koptelefoon. Kopers op bol geven hem gemiddeld 4,7 van de 5. Een nette QLED voor wie vooral streamt.",
+      "ean": "8718863051658",
+      "bol_title": "Philips 43PQS7801/12 - 43 inch - 4K QLED - 2026",
+      "url": "https://www.bol.com/nl/nl/p/philips-43pqs7801-12-43-inch-4k-qled-2026/9300000301588086/",
+      "image": "https://media.s-bol.com/mJDpwRRloG3R/ROEoXJY/550x345.jpg",
       "ph": {
-        "2026-10-20": 306.0,
-        "2026-10-21": 308.1,
-        "2026-10-23": 308.1,
-        "2026-10-24": 308.1,
-        "2026-10-25": 308.1,
-        "2026-10-26": 308.1,
-        "2026-10-27": 308.1,
-        "2026-10-28": 308.1,
-        "2026-10-29": 299.0,
-        "2026-10-30": 299.0,
-        "2026-10-31": 289.0,
-        "2026-11-01": 289.0,
-        "2026-11-02": 289.0,
-        "2026-11-03": 289.0,
-        "2026-11-04": 289.0,
-        "2026-11-05": 289.0,
-        "2026-11-06": 289.0,
-        "2026-11-07": 289.0,
-        "2026-11-08": 289.0,
-        "2026-11-09": 289.0,
-        "2026-11-10": 289.0,
-        "2026-11-11": 289.0,
-        "2026-11-12": 289.0,
-        "2026-11-13": 289.0,
-        "2026-11-14": 289.0,
-        "2026-11-16": 289.0,
-        "2026-11-17": 289.0,
-        "2026-11-18": 289.0,
-        "2026-11-19": 289.0,
-        "2026-11-20": 289.0,
-        "2026-11-21": 289.0,
-        "2026-11-22": 289.0,
-        "2026-11-23": 289.0,
-        "2026-11-24": 289.0
+        "2026-11-25": 349.0
       },
-      "low_price": 289.0,
-      "prev_price": 299.0,
-      "prev_date": "2026-10-30",
-      "ph_ean": "6941948705630",
-      "rating": 4.3
+      "low_price": 349.0,
+      "ph_ean": "8718863051658",
+      "rating": 4.7,
+      "synced": "2026-11-25"
+    },
+    {
+      "brand": "CHiQ",
+      "name": "U43QST",
+      "price": 282.74,
+      "score": 8.3,
+      "label": null,
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "4K QLED met Google TV voor minder dan 300 euro.",
+      "specs": {
+        "Paneel": "QLED",
+        "Resolutie": "4K",
+        "Verversing": "60 Hz",
+        "HDR": "HDR10, HLG",
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "42 W · klasse E (EU-label)"
+      },
+      "pros": [
+        "4K QLED met Google TV",
+        "Vier HDMI-poorten",
+        "Randloos metalen ontwerp",
+        "Zuinig: 42 watt en energielabel E"
+      ],
+      "cons": [
+        "HDMI 1.4, geen eARC of VRR",
+        "Geen Dolby Vision of HDR10+",
+        "Kleiner servicenetwerk"
+      ],
+      "ideal": "Wie voor weinig geld een 43 inch 4K-tv met Google TV wil.",
+      "text": "CHiQ is het tv-merk van het Chinese Changhong, een grote schermfabrikant. De U43QST kost rond de 283 euro en is daarmee een van de goedkoopste 4K-tv's in deze lijst. Je krijgt een QLED-paneel, Google TV en een randloos ontwerp met een metalen frame dat er duurder uitziet dan de prijs. HDR10 en HLG worden ondersteund, Dolby Vision en HDR10+ ontbreken.\n\nEen praktisch pluspunt is het aantal aansluitingen: de tv heeft vier HDMI-poorten. Een tv-kastje, een console, een soundbar en een mediaspeler passen er dus tegelijk aan. Het zijn wel HDMI 1.4-poorten met gewone ARC, zonder VRR. Voor tv kijken en streamen is dat genoeg, voor nieuwe consolefuncties niet. Google TV werkt met alle Nederlandse apps en Chromecast is ingebouwd. Het geluid levert 16 watt met Dolby Audio. Met 42 watt en energielabel E is hij zuinig. Omdat CHiQ in Nederland minder bekend is, loont het om de garantievoorwaarden van de verkoper te checken voordat je bestelt. Kopers op bol geven hem gemiddeld 4,3 van de 5.",
+      "ean": "8592344206092",
+      "bol_title": "CHiQ U43QST - Smart TV 43 Inch - UHD 4K - QLED Pro - Google TV - Randloos Metal Design - Dolby Audio - Nieuw",
+      "url": "https://www.bol.com/nl/nl/p/chiq-u43qst-smart-tv-43-inch-qled-pro-google-tv-uhd-4k-randloos-metal-design-dolby-audio-2025-nieuw/9300000238936359/",
+      "image": "https://media.s-bol.com/B5E6KJPLrV4n/BLQBRXn/550x363.jpg",
+      "ph": {
+        "2026-11-25": 282.74
+      },
+      "low_price": 282.74,
+      "ph_ean": "8592344206092",
+      "rating": 4.3,
+      "synced": "2026-11-25"
     },
     {
       "brand": "Samsung",
@@ -710,7 +646,7 @@
     },
     {
       "h": "Waarom er geen 43 inch oled is",
-      "p": "Oled-panelen worden pas vanaf 42 en 48 inch gemaakt en een 42 inch oled kost al snel boven de 1.000 euro. In 43 inch kies je daarom tussen led, QLED en miniled. QLED geeft rijkere kleuren dan gewone led. Miniled, zoals bij de Samsung QN73H, heeft local dimming en komt qua contrast het dichtst bij oled."
+      "p": "Oled-panelen worden pas vanaf 42 en 48 inch gemaakt en een 42 inch oled kost al snel boven de 1.000 euro. In 43 inch kies je daarom tussen led, QLED en miniled. QLED geeft rijkere kleuren dan gewone led. Miniled, zoals bij de Samsung UE43M74H, gebruikt kleinere leds en geeft meer helderheid en contrast."
     },
     {
       "h": "Is 4K nodig op 43 inch?",
@@ -722,7 +658,7 @@
     },
     {
       "h": "Gamen op een 43 inch tv",
-      "p": "Een 43 inch tv is populair als gamescherm op een bureau of in een kinderkamer. Wil je een PS5, Xbox of pc op hoge framerates gebruiken, kies dan een paneel met echte 120 of 144 Hz en VRR. De Hisense 43E7S PRO haalt 144 Hz met VRR, de Samsung QN73H 120 Hz. Een gamemodus met 120 Hz op lagere resolutie is een compromis."
+      "p": "Een 43 inch tv is populair als gamescherm op een bureau of in een kinderkamer. Wil je een PS5, Xbox of pc op hoge framerates gebruiken, kies dan een paneel met echte 120 of 144 Hz en VRR. De Hisense 43E7S PRO haalt 144 Hz met VRR, de Sony BRAVIA 3 II 120 Hz. Een gamemodus met 120 Hz op lagere resolutie is een compromis."
     },
     {
       "h": "Ophangen en geluid",
@@ -732,7 +668,7 @@
   "faq": [
     {
       "q": "Welke 43 inch tv is het beste?",
-      "a": "De Samsung QE43QN73H is de beste 43 inch tv van 2026. Hij heeft miniled met local dimming, quantum dots en tot 120 Hz. Wil je minder uitgeven of veel gamen, dan biedt de Hisense 43E7S PRO 144 Hz en Dolby Vision voor rond 450 euro."
+      "a": "De Hisense 43E7S PRO is de beste 43 inch tv van 2026. Hij heeft een Hi-QLED-paneel met native 144 Hz, Dolby Vision en HDR10+ voor rond 450 euro. Wil je minder uitgeven en game je niet fanatiek, dan biedt de gewone Hisense 43E7S hetzelfde soort paneel op 60 Hz voor 299 euro."
     },
     {
       "q": "Wat kost een goede 43 inch tv?",
@@ -748,16 +684,17 @@
     },
     {
       "q": "Welke 43 inch tv is het beste om te gamen?",
-      "a": "De Hisense 43E7S PRO is de beste 43 inch tv om te gamen: hij haalt 144 Hz met VRR en een lage inputlag. De Samsung QE43QN73H en de Sony BRAVIA 3 II halen 120 Hz. De Sony heeft daarnaast extra functies voor de PS5."
+      "a": "De Hisense 43E7S PRO is de beste 43 inch tv om te gamen: hij haalt 144 Hz met VRR en een lage inputlag. De Sony BRAVIA 3 II haalt 120 Hz. De Sony heeft daarnaast extra functies voor de PS5."
     },
     {
       "q": "Bestaat er een 43 inch oled-tv?",
-      "a": "Nee, in 43 inch worden geen oled-tv's gemaakt. Het kleinste oled-formaat is 42 inch en dat kost veel meer. Wil je op 43 inch zo diep mogelijk zwart, kies dan een miniled zoals de Samsung QN73H."
+      "a": "Nee, in 43 inch worden geen oled-tv's gemaakt. Het kleinste oled-formaat is 42 inch en dat kost veel meer. Wil je op 43 inch zo diep mogelijk zwart, kies dan een miniled zoals de Samsung UE43M74H."
     }
   ],
   "published": "2026-10-20",
   "rel": [
     "beste-tv-50-inch",
+    "beste-tv-43-inch-onder-300-euro",
     "beste-tv-32-inch",
     "beste-tv-onder-500-euro",
     "beste-tv-onder-300-euro"
@@ -765,6 +702,24 @@
   "meta_title": "Beste 43 inch tv 2026: QLED, Mini LED en The Frame vergeleken",
   "meta_desc": "De beste 43 inch tv van 2026 is de {top}. Top 10 tv's van 43 inch vergeleken op beeld, HDR, gaming en prijs, met de beste prijs-kwaliteit.",
   "wissels": [
+    {
+      "d": "2026-11-25",
+      "uit": "Samsung Neo QLED QE43QN73H",
+      "in": "Hisense 43E7S",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-25",
+      "uit": "LG 43QNED80T6A",
+      "in": "Philips 43PQS7801/12",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-25",
+      "uit": "Xiaomi TV A Pro 2026 43 inch",
+      "in": "CHiQ U43QST",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-17",
       "uit": "Samsung Neo QLED QE43QN92F",

@@ -15,7 +15,7 @@
   ],
   "ico": "📺",
   "color": "#1b3fb3",
-  "updated": "2026-11-23",
+  "updated": "2026-11-25",
   "published": "2026-11-23",
   "google_wacht": true,
   "reviews_total": "",
@@ -28,7 +28,7 @@
     "beste-tv-55-inch-onder-500-euro"
   ],
   "intro": "Een 65 inch tv onder 700 euro is in 2026 geen uitzondering meer, maar je levert wel iets in. Voor dit geld kies je tussen een gewone LED, een QLED met vollere kleuren of een Mini LED met dimzones voor dieper zwart. Ook het paneel verschilt sterk: sommige tv's draaien op 50 of 60 Hz, andere native op 120 of 144 Hz met HDMI 2.1. Wij vergeleken de 65 inch modellen die nu bij bol onder 700 euro te koop zijn. Per tv lees je wat je krijgt en wat je mist.",
-  "verdict": "De Hisense 65E8S is de beste 65 inch tv onder 700 euro: Mini LED, native 144 Hz, Dolby Vision IQ en een Devialet-subwoofer voor 679 euro. De TCL 65T8D is de premium keuze voor wie het budget tot op de euro gebruikt en Google TV wil. Wil je zo weinig mogelijk uitgeven, dan krijg je met de TCL 65T69C voor rond de 476 euro QLED, Dolby Vision en Google TV. Game je niet en wil je vooral een bekend merk, kijk dan naar Samsung of LG.",
+  "verdict": "De Hisense 65E8S is de beste 65 inch tv onder 700 euro: Mini LED, native 144 Hz, Dolby Vision IQ en een Devialet-subwoofer voor 679 euro. De TCL 65T8D is de premium keuze voor wie het budget tot op de euro gebruikt en Google TV wil. Wil je zo weinig mogelijk uitgeven, dan krijg je met de TCL 65P71K voor rond de 510 euro QLED, Dolby Vision en Google TV. Game je niet en wil je vooral een bekend merk, kijk dan naar Samsung of LG.",
   "products": [
     {
       "brand": "Hisense",
@@ -116,44 +116,43 @@
     },
     {
       "brand": "TCL",
-      "name": "65T69C",
-      "price": 476.13,
+      "name": "65P71K",
+      "price": 509.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,9 van 5",
-      "oneliner": "QLED met Dolby Vision en Google TV voor rond de 476 euro.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "65 inch QLED met Dolby Vision en Google TV voor rond de 510 euro.",
       "specs": {
-        "Paneel": "QLED (direct-led)",
-        "Verversing": "Tot 120 Hz, VRR",
-        "HDR": "Dolby Vision, HDR10+, HLG",
-        "HDMI 2.1": "ja, 3 poorten met VRR",
+        "Paneel": "QLED",
+        "Verversing": "60 Hz, VRR",
+        "HDR": "Dolby Vision, HDR10+",
+        "HDMI 2.1": "ja, met VRR en ALLM",
         "Smart-tv": "Google TV",
         "Stroomverbruik (SDR)": "95 W · klasse F (EU-label)"
       },
       "pros": [
-        "Dolby Vision en HDR10+ voor onder 500 euro",
-        "Drie HDMI 2.1-poorten met VRR en eARC",
-        "Google TV met Chromecast en AirPlay 2",
-        "Onkyo-speakers met Dolby Atmos"
+        "Bijna 200 euro onder de grens van 700 euro",
+        "Dolby Vision en HDR10+ allebei",
+        "Google TV met Chromecast ingebouwd",
+        "HDMI 2.1 met VRR en ALLM"
       ],
       "cons": [
-        "Geen Mini LED, dus minder diep zwart",
-        "450 nits is bescheiden voor HDR"
+        "60 Hz, geen 120 Hz-gamen",
+        "Geen lokale dimming",
+        "Dun geluid van 20 watt"
       ],
-      "ideal": "Wie een complete 65 inch wil en ruim 200 euro van het budget wil overhouden.",
-      "text": "De TCL 65T69C laat zien hoe weinig je hoeft uit te geven voor een complete 65 inch. Voor rond de 476 euro krijg je een QLED uit 2025: quantum dots maken kleuren voller dan bij een gewone led-tv. De verlichting is direct-led zonder Mini LED, dus zwart is minder diep dan bij de twee tv's bovenaan. TCL geeft een helderheid van 450 nits en een contrast van 5000:1 op. Dolby Vision, HDR10+ en HLG worden alle drie ondersteund.\n\nEr zijn drie HDMI 2.1-poorten met VRR plus eARC voor een soundbar. Volgens de specificaties bij bol gaat het paneel in de gamemodus tot 120 Hz, met een input lag van 15 milliseconden. Google TV heeft alle Nederlandse apps, met Chromecast en AirPlay 2 voor je telefoon. Het geluid komt uit Onkyo-speakers van 20 watt met Dolby Atmos. Je houdt ruim 220 euro over tegenover het budget van 700 euro. Dat is genoeg voor een soundbar of een stevige muurbeugel.",
-      "ean": "5901292528584",
-      "bol_title": "TCL 65T69C - 65 inch - 4K QLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65t69c-65-inch-4k-qled-2025/9300000237197713/",
-      "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
+      "ideal": "Wie een 65 inch QLED met Google TV wil en geld wil overhouden voor een soundbar.",
+      "text": "De TCL 65P71K kost rond de 510 euro en blijft daarmee bijna 200 euro onder de grens van deze gids. Je krijgt 65 inch met quantum dots, die kleuren voller maken dan bij een gewone led-tv. Dolby Vision en HDR10+ worden allebei ondersteund. Google TV heeft alle Nederlandse apps, met Chromecast ingebouwd en spraakbediening via Google Assistant. Voor dit bedrag is dat een complete tv.\n\nHet verschil met de Mini LED-modellen op nr. 1 en 2 zit in contrast en snelheid. De verlichting is Direct LED zonder dimzones, dus zwart is in het donker grijzig. Het paneel draait op 60 Hz, waar de Hisense 65E8S en TCL 65T8D native 144 Hz halen. Via HDMI 2.1 krijg je wel VRR en ALLM, genoeg voor wie af en toe op een console speelt. Het geluid van 20 watt is dun. Met het geld dat je bespaart koop je er makkelijk een soundbar bij. Kopers op bol geven hem gemiddeld 4,4 van de 5. Kijk je vooral tv, films en series, dan is dit de slimste koop in deze lijst.",
+      "ean": "5901292526986",
+      "bol_title": "TCL 65P71K - 65 inch - 4K QLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65p71k-65-inch-4k-qled-2025/9300000228002734/",
+      "image": "https://media.s-bol.com/nqrYKR0YAqPE/ADzPJjj/550x340.jpg",
       "ph": {
-        "2026-11-23": 476.13,
-        "2026-11-24": 476.13,
-        "2026-11-25": 476.13
+        "2026-11-25": 509.0
       },
-      "low_price": 476.13,
-      "ph_ean": "5901292528584",
-      "rating": 4.9,
+      "low_price": 509.0,
+      "ph_ean": "5901292526986",
+      "rating": 4.4,
       "synced": "2026-11-25"
     },
     {
@@ -351,7 +350,7 @@
         "120 Hz alleen op lagere resolutie"
       ],
       "ideal": "Wie Google TV en rijke kleuren wil zonder over 600 euro te gaan.",
-      "text": "De Xiaomi TV A Pro 2026 is een 65 inch QLED voor rond de 579 euro. Een laag quantum dots geeft kleuren extra verzadiging en Xiaomi noemt een kleurbereik van 94 procent DCI-P3. Natuurdocumentaires en animatiefilms ogen daardoor voller dan op een gewone led-tv. HDR10+ en een Filmmaker-modus zijn aanwezig, Dolby Vision niet. De metalen behuizing met dunne randen ziet er strakker uit dan je bij deze prijs verwacht.\n\nGoogle TV geeft je alle Nederlandse apps en Google Assistant. Via Chromecast of AirPlay stuur je foto's en video's vanaf je telefoon naar het scherm. Voor games is er een 120 Hz-stand, al werkt die alleen op een lagere resolutie. Het paneel zelf draait op 60 Hz. Het geluid komt met Dolby Audio en DTS:X. Wat je mist is lokale dimming: zwart is minder diep, wat je in een donkere kamer bij nachtscènes ziet. Wil je Google TV met Dolby Vision voor minder geld, dan is de TCL 65T69C de logische tegenhanger.",
+      "text": "De Xiaomi TV A Pro 2026 is een 65 inch QLED voor rond de 579 euro. Een laag quantum dots geeft kleuren extra verzadiging en Xiaomi noemt een kleurbereik van 94 procent DCI-P3. Natuurdocumentaires en animatiefilms ogen daardoor voller dan op een gewone led-tv. HDR10+ en een Filmmaker-modus zijn aanwezig, Dolby Vision niet. De metalen behuizing met dunne randen ziet er strakker uit dan je bij deze prijs verwacht.\n\nGoogle TV geeft je alle Nederlandse apps en Google Assistant. Via Chromecast of AirPlay stuur je foto's en video's vanaf je telefoon naar het scherm. Voor games is er een 120 Hz-stand, al werkt die alleen op een lagere resolutie. Het paneel zelf draait op 60 Hz. Het geluid komt met Dolby Audio en DTS:X. Wat je mist is lokale dimming: zwart is minder diep, wat je in een donkere kamer bij nachtscènes ziet. Wil je Google TV met Dolby Vision voor minder geld, dan is de TCL 65P71K de logische tegenhanger.",
       "ean": "6941948705807",
       "bol_title": "Xiaomi TV A Pro 2026 65 inch | 4K QLED Google TV | HDR10+ & Filmmaker Mode | 120Hz gaming | Dolby Audio & DTS-X | 94% DCI-P3 | AirPlay, Google Cast & Miracast | Google Assistant",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-65inch-4k-qled-tv/9300000231465623/",
@@ -438,7 +437,7 @@
         "Bescheiden contrast en helderheid"
       ],
       "ideal": "Wie merk en garantie belangrijker vindt dan het rijkste beeld.",
-      "text": "De Samsung UE65U7090H is de 65 inch basis-tv van Samsung voor 2026 en kost 499 euro. Op papier verliest hij het van de QLED- en Mini LED-modellen hoger in deze lijst. Zijn troef is zekerheid: bol levert hem met drie jaar extra garantie. Samsung geeft er in Nederland een Made for NL-pakket bij met tijdelijke abonnementen. Het dunne ontwerp met smalle randen ziet er strakker uit dan je bij deze prijs verwacht.\n\nHet 4K-paneel is scherp en de Crystal Processor 4K schaalt gewone zenders netjes op. Zonder quantum dots zijn kleuren minder verzadigd dan bij de TCL 65T69C, die ruim 20 euro goedkoper is. HDR10+ en HLG worden ondersteund, al is het paneel niet fel genoeg om HDR echt te laten knallen. Dolby Vision ontbreekt. Tizen is snel en heeft alle Nederlandse apps, van NPO Start tot Ziggo GO. Voor consoles zijn er ALLM en VRR, maar het paneel blijft 60 Hz. Kies hem als merk en garantie voor jou zwaarder wegen dan het rijkste beeld.",
+      "text": "De Samsung UE65U7090H is de 65 inch basis-tv van Samsung voor 2026 en kost 499 euro. Op papier verliest hij het van de QLED- en Mini LED-modellen hoger in deze lijst. Zijn troef is zekerheid: bol levert hem met drie jaar extra garantie. Samsung geeft er in Nederland een Made for NL-pakket bij met tijdelijke abonnementen. Het dunne ontwerp met smalle randen ziet er strakker uit dan je bij deze prijs verwacht.\n\nHet 4K-paneel is scherp en de Crystal Processor 4K schaalt gewone zenders netjes op. Zonder quantum dots zijn kleuren minder verzadigd dan bij de TCL 65P71K, die maar 10 euro meer kost. HDR10+ en HLG worden ondersteund, al is het paneel niet fel genoeg om HDR echt te laten knallen. Dolby Vision ontbreekt. Tizen is snel en heeft alle Nederlandse apps, van NPO Start tot Ziggo GO. Voor consoles zijn er ALLM en VRR, maar het paneel blijft 60 Hz. Kies hem als merk en garantie voor jou zwaarder wegen dan het rijkste beeld.",
       "ean": "8806099133900",
       "bol_title": "Samsung UE65U7090H - 65 inch - 4K LED - 2026 +3 jaar extra garantie - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-ue65u7090h-65-inch-4k-led-2026-smart-tv/9300000332667097/",
@@ -461,7 +460,7 @@
     },
     {
       "h": "LED, QLED of Mini LED?",
-      "p": "Een gewone LED-tv zoals de Samsung UE65U7090H heeft geen quantum dots en geen dimzones. QLED voegt een laag quantum dots toe voor vollere kleuren, zoals bij de TCL 65T69C en Xiaomi TV A Pro. Mini LED gebruikt veel kleinere leds die per zone dimmen. Daardoor blijft zwart dieper en lichten HDR-highlights beter op. Op 65 inch zie je dat verschil sneller dan op een klein scherm, vooral in een donkere kamer."
+      "p": "Een gewone LED-tv zoals de Samsung UE65U7090H heeft geen quantum dots en geen dimzones. QLED voegt een laag quantum dots toe voor vollere kleuren, zoals bij de TCL 65P71K en Xiaomi TV A Pro. Mini LED gebruikt veel kleinere leds die per zone dimmen. Daardoor blijft zwart dieper en lichten HDR-highlights beter op. Op 65 inch zie je dat verschil sneller dan op een klein scherm, vooral in een donkere kamer."
     },
     {
       "h": "50 of 60 Hz tegenover 120 of 144 Hz",
@@ -495,7 +494,7 @@
     },
     {
       "q": "Wat is de goedkoopste goede 65 inch tv in deze lijst?",
-      "a": "De TCL 65T69C kost rond de 476 euro en heeft QLED, Dolby Vision, HDR10+ en Google TV. Dat is de beste prijs-kwaliteit in deze gids."
+      "a": "De TCL 65P71K kost rond de 510 euro en heeft QLED, Dolby Vision, HDR10+ en Google TV. Dat is de beste prijs-kwaliteit in deze gids."
     },
     {
       "q": "Welke kijkafstand past bij een 65 inch tv?",
@@ -507,6 +506,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-25",
+      "uit": "TCL 65T69C",
+      "in": "TCL 65P71K",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-24",
       "uit": "Samsung UE65M74H",

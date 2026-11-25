@@ -548,41 +548,40 @@
     },
     {
       "brand": "VH",
-      "name": "Superia 720 W 60 x 120 cm op wieltjes",
-      "price": 178.95,
+      "name": "Verona 700 W 60 x 120 cm met voetjes",
+      "price": 135.0,
       "score": 7.9,
       "label": null,
-      "reviews": "bol-score 3,0 van 5",
-      "oneliner": "Complete set met thermostaat, wifi, afstandsbediening en wieltjes.",
+      "reviews": "",
+      "oneliner": "Complete set met paneel, voetjes en wifi-stekkerthermostaat.",
       "specs": {
-        "Vermogen": "720 W",
-        "Thermostaat": "Ja, wifi en afstandsbediening",
-        "Montage": "Vrijstaand op wieltjes",
+        "Vermogen": "700 W",
+        "Thermostaat": "Ja, losse wifi-stekkerthermostaat",
+        "Montage": "Vrijstaand op voetjes of wand",
         "Indicatie ruimte": "ca. 10 tot 12 m²"
       },
       "pros": [
-        "Afstandsbediening meegeleverd",
-        "Verplaatsbaar op wieltjes met rem",
-        "Geschikt voor de badkamer (IP24)",
-        "Alles in de doos, geen losse thermostaat nodig"
+        "Voetjes en wifi-thermostaat meegeleverd",
+        "Licht met 4,6 kilo, dus makkelijk te verplaatsen",
+        "Temperatuur en tijden instellen via de app",
+        "Scherp geprijsd voor 60 bij 120 centimeter"
       ],
       "cons": [
-        "Alleen liggend te plaatsen, vraagt 120 cm breedte",
-        "Beoordeling lager dan bij de meeste panelen in deze lijst",
-        "Minder bekend merk"
+        "Geen afstandsbediening",
+        "IP20, dus niet voor de badkamer",
+        "Nog geen bol-score"
       ],
-      "ideal": "Wie een compleet paneel wil dat je zowel met de app als met een afstandsbediening regelt.",
-      "text": "De VH Superia is een paneel van 60 bij 120 centimeter en 720 watt dat compleet geleverd wordt. De thermostaat met wifi zit in het paneel ingebouwd en er zit een afstandsbediening in de doos. Je hoeft dus niets los bij te kopen. Deze uitvoering staat op metalen poten met wieltjes en een rem, zodat je hem makkelijk naar een slaapkamer of werkkamer van 10 tot 12 vierkante meter rolt. Let op: dit formaat kan alleen liggend, dus je hebt 120 centimeter in de breedte nodig.\n\nDe afstandsbediening is handig voor wie niet steeds de app wil openen, bijvoorbeeld voor oudere gebruikers. Via wifi stel je in de Tuya-app wel gewoon tijden in. Met beschermingsklasse IP24 mag hij volgens de fabrikant ook in de badkamer hangen. Op bol staat deze uitvoering op gemiddeld 3,0 van 5, lager dan de meeste panelen in deze lijst. Bij 720 watt blijft het bijverwarming: binnen een paar meter van het paneel merk je de warmte het best. Een degelijke middenmoter die vooral scoort op compleetheid.",
-      "ean": "8721184470800",
-      "ph_ean": "8721184470800",
-      "rating": 3.0,
-      "bol_title": "VH Infrarood paneel Superia - 60 x 120 cm - 720W - Verplaatsbaar op wieltjes - Wifi functie - Thermostaat - Incl. afstandsbediening",
-      "url": "https://www.bol.com/nl/nl/p/vh-infrarood-paneel-superia-60-x-120-cm-720w-verplaatsbaar-op-wieltjes-wifi-functie-thermostaat-incl-afstandsbediening/9300000343341337/",
-      "image": "https://media.s-bol.com/YgR8p9qPOVDn/xnjyr2B/550x520.jpg",
+      "ideal": "Wie voor weinig geld een groot verplaatsbaar paneel met thermostaat wil voor werkkamer of hobbyruimte.",
+      "text": "De VH Verona is een paneel van 60 bij 120 centimeter en 700 watt dat als complete set geleverd wordt. In de doos zitten voetjes om hem vrij neer te zetten en een wifi-thermostaat die je tussen de stekker en het stopcontact plaatst. Je hoeft dus niets los bij te kopen. Het paneel heeft een wit kader en weegt maar 4,6 kilo, zodat je hem makkelijk naar een slaapkamer of werkkamer van 10 tot 12 vierkante meter verplaatst. Aan de wand hangen kan ook.\n\nVia de app stel je de temperatuur en tijden in. Een afstandsbediening zit er niet bij. Let op de beschermingsklasse: met IP20 is dit paneel niet bedoeld voor de badkamer. Daarvoor kies je beter een van de Sani-panelen van Eurom uit deze lijst. Een bol-score heeft deze set nog niet, dus op ervaringen van kopers kun je nog niet leunen. Bij 700 watt blijft het bijverwarming: binnen een paar meter van het paneel merk je de warmte het best. Een eenvoudige set die vooral scoort op prijs en compleetheid.",
+      "ean": "8721184470527",
+      "bol_title": "VH verplaatsbaar infrarood paneel compleet met thermostaat - 60 x 120 cm - 700 watt - Wifi en programmeerbaar - Lichtgewicht",
+      "url": "https://www.bol.com/nl/nl/p/vh-verplaatsbaar-infrarood-paneel-compleet-met-thermostaat-60-x-120-cm-700-watt-wifi-en-programmeerbaar-lichtgewicht/9300000239547746/",
+      "image": "https://media.s-bol.com/mxy5zQyAKkG3/qjD9Ooy/550x557.jpg",
       "ph": {
-        "2026-11-24": 178.95
+        "2026-11-25": 135.0
       },
-      "low_price": 178.95,
+      "low_price": 135.0,
+      "ph_ean": "8721184470527",
       "synced": "2026-11-25"
     }
   ],
@@ -641,6 +640,12 @@
   "published": "2026-10-20",
   "seo": "infraroodpaneel",
   "wissels": [
+    {
+      "d": "2026-11-25",
+      "uit": "VH Superia 720 W 60 x 120 cm op wieltjes",
+      "in": "VH Verona 700 W 60 x 120 cm met voetjes",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-23",
       "uit": "Eurom Mon Soleil 720 Wi-Fi",

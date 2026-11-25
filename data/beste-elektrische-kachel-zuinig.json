@@ -630,13 +630,13 @@
       "rating": 4.4
     },
     {
-      "brand": "VH",
-      "name": "Infrarood paneel Superia 600 W",
-      "price": 139.95,
+      "brand": "Varin",
+      "name": "Smart Design infraroodpaneel 600 W",
+      "price": 193.95,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
-      "oneliner": "Infraroodpaneel van 600 watt met thermostaat, wifi en afstandsbediening.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Glazen infraroodpaneel van 600 watt met app, thermostaat en wielen.",
       "specs": {
         "Type": "Infraroodpaneel",
         "Vermogen": "600 W",
@@ -646,29 +646,26 @@
       },
       "pros": [
         "Laag vermogen van 600 watt",
-        "Thermostaat met tweede sensor, wifi en afstandsbediening",
-        "Aan de muur of vrijstaand te gebruiken",
-        "Spatwaterdicht (IPX4), ook voor de badkamer"
+        "Schema's en bediening via de app, met afstandsbediening",
+        "Open-raamdetectie voorkomt onnodig stoken",
+        "Aan de muur of verrijdbaar op de meegeleverde beugels met wielen"
       ],
       "cons": [
-        "Beoordelingen zijn wisselend",
-        "Paneel van 100 cm breed, alleen liggend te gebruiken"
+        "Duurder dan de kleinere panelen in deze lijst",
+        "Paneel van 100 cm breed vraagt ruimte"
       ],
-      "ideal": "Wie een thuiswerkplek, hal of badkamer zuinig warm wil houden met een paneel dat je ook kunt verplaatsen.",
-      "text": "Het VH Superia-paneel is een plat infraroodpaneel van 600 watt en 60 bij 100 centimeter dat je aan de muur hangt of op de meegeleverde voetjes zet. Net als bij de andere panelen in deze lijst zit de besparing in gericht verwarmen: je voelt de straling op je huid, waardoor de kamer zelf minder warm hoeft te zijn. De thermostaat zit in het paneel en werkt met een tweede temperatuursensor. Via wifi en de Tuya-app stel je vanaf je telefoon een schema in en er zit ook een afstandsbediening bij.\n\nBij 0,30 euro per kWh kost een uur op vol vermogen ongeveer 18 cent. Dat maakt hem geschikt voor een plek waar je lang zit, zoals een thuiswerkhoek. Het paneel is spatwaterdicht volgens IPX4, dus ook de badkamer is een optie. Let op de breedte: hij kan alleen liggend hangen en vraagt een meter ruimte. Kopers op bol geven hem gemiddeld een 4,2 van 5, met lof voor de warmte op korte afstand.",
-      "ean": "8719874750851",
-      "rating": 4.2,
-      "bol_title": "VH Infrarood paneel Superia - 60 x 100 cm - 600 Watt - Compleet met thermostaat - Wifi functie - Afstandsbediening - Wandmontage & Vrijstaand - Ideaal voor bijverwarming - Verplaatsbaar",
-      "url": "https://www.bol.com/nl/nl/p/vh-infrarood-paneel-superia-60x100cm-600w-wandmontage-vrijstaand/9200000106114995/",
-      "image": "https://media.s-bol.com/qvDJk7Y2GRNG/MQ5oOL5/550x568.jpg",
+      "ideal": "Wie een thuiswerkplek of hobbykamer zuinig warm wil houden met een paneel dat je ook kunt verplaatsen.",
+      "text": "Het Varin Smart Design is een infraroodpaneel van 600 watt met een voorkant van glas en een formaat van 100 bij 60 centimeter. Je hangt hem aan de muur of zet hem op de meegeleverde vloerbeugels met wielen, zodat je hem van werkkamer naar woonkamer rolt. Net als bij de andere panelen in deze lijst zit de besparing in gericht verwarmen: je voelt de straling op je huid, waardoor de kamer zelf minder warm hoeft te zijn. Via de app stel je schema's in en laat je hem op een vast tijdstip uitschakelen.\n\nBij 0,30 euro per kWh kost een uur op vol vermogen ongeveer 18 cent. De open-raamdetectie helpt verspilling voorkomen en er zit een beveiliging tegen oververhitting op. Met het kinderslot verandert niemand per ongeluk de temperatuur. Het paneel heeft beschermingsklasse IP24 en weegt 6,9 kilo. Kopers op bol geven hem gemiddeld een 4,3 van 5. Hij is wel duurder dan de kleine panelen in deze lijst, dus kies hem vooral als je de app en de wielen ook echt gebruikt.",
+      "ean": "8720828286470",
+      "rating": 4.3,
+      "bol_title": "Varin® Smart Design Infrarood verwarmingspaneel - 600W - 100x60cm - Zwart glas - IP24 - Met thermostaat - Wandmontage of verrijdbaar - Elektrische verwarming - Infrarood paneel verplaatsbaar - Kachel - Heater bureau - Terrasverwarmer - Tuya Wifi",
+      "url": "https://www.bol.com/nl/nl/p/varin-smart-design-infrarood-verwarmingspaneel-600w-100x60cm-zwart-glas-ip24-met-thermostaat-wandmontage-of-verrijdbaar-elektrische-verwarming-infrarood-paneel-verplaatsbaar-kachel-heater-bureau-terrasverwarmer-tuya-wifi/9300000242638635/",
+      "image": "https://media.s-bol.com/qzZj50Lj83q0/mqwkMxr/550x555.jpg",
       "ph": {
-        "2026-11-21": 139.95,
-        "2026-11-22": 139.95,
-        "2026-11-23": 139.95,
-        "2026-11-24": 139.95
+        "2026-11-25": 193.95
       },
-      "low_price": 139.95,
-      "ph_ean": "8719874750851",
+      "low_price": 193.95,
+      "ph_ean": "8720828286470",
       "synced": "2026-11-25"
     }
   ],
@@ -733,6 +730,12 @@
   "meta_title": "Zuinigste elektrische kachel 2026: top 10 vergeleken",
   "meta_desc": "De zuinigste elektrische kachel van 2026 is de {top}. Top 10 vergeleken op verbruik, thermostaat, warmte per watt en prijs, met rekenvoorbeeld per uur.",
   "wissels": [
+    {
+      "d": "2026-11-25",
+      "uit": "VH Infrarood paneel Superia 600 W",
+      "in": "Varin Smart Design infraroodpaneel 600 W",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-21",
       "uit": "VH Infrarood paneel Superia 450 W",

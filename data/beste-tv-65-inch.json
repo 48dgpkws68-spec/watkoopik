@@ -15,10 +15,10 @@
   ],
   "ico": "📺",
   "color": "#1d4ed8",
-  "updated": "2026-10-16",
+  "updated": "2026-11-25",
   "reviews_total": "7.900",
   "intro": "Een 65 inch tv is in 2026 het populairste formaat voor de woonkamer: groot genoeg voor een echte bioscoopervaring, maar nog te passen in een gemiddelde Nederlandse huiskamer. Het aanbod loopt uiteen van een QLED-model van rond de 500 euro tot een QD-OLED van ruim 2.000 euro. Wij vergeleken modellen op beeldkwaliteit, helderheid, gaming-functies, smart-tv-systeem en de score bij bol. Dit zijn de tien beste 65 inch tv's die je nu kunt kopen, voor elk budget.",
-  "verdict": "De LG C5 OLED is de beste 65 inch tv voor de meeste mensen: perfect zwart, vier HDMI 2.1-poorten en een prijs die voor OLED heel redelijk is. Wil je het allerbeste beeld, dan is de Samsung S95H QD-OLED de premium keuze met de hoogste helderheid van alle OLED's. Zoek je de slimste koop, dan biedt de TCL 65T69C met Dolby Vision, HDR10+ en Google TV verrassend veel voor rond de 475 euro.",
+  "verdict": "De LG C5 OLED is de beste 65 inch tv voor de meeste mensen: perfect zwart, vier HDMI 2.1-poorten en een prijs die voor OLED heel redelijk is. Wil je het allerbeste beeld, dan is de Samsung S95H QD-OLED de premium keuze met de hoogste helderheid van alle OLED's. Zoek je de slimste koop, dan biedt de Hisense 65E7S met quantum dots, Dolby Vision en HDR10+ verrassend veel voor rond de 550 euro.",
   "products": [
     {
       "brand": "LG",
@@ -349,47 +349,44 @@
       "rating": 4.7
     },
     {
-      "brand": "TCL",
-      "name": "65T69C",
-      "price": 476.13,
+      "brand": "Hisense",
+      "name": "65E7S",
+      "price": 548.0,
       "score": 8.8,
-      "reviews": "bol-score 4,9 van 5",
-      "oneliner": "65 inch QLED met Dolby Vision en HDR10+ voor rond de 475 euro.",
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "bol-score 4,8 van 5",
+      "oneliner": "65 inch Hi-QLED uit 2026 met Dolby Vision voor rond de 550 euro.",
       "specs": {
-        "Paneel": "QLED (direct-led)",
-        "Beeldfrequentie": "Tot 120 Hz, VRR",
-        "Smart-tv": "Google TV",
-        "HDMI 2.1": "ja, 3 poorten met VRR",
-        "Geluid": "20 W Onkyo, Dolby Atmos",
-        "Stroomverbruik (SDR)": "95 W · klasse F (EU-label)"
+        "Paneel": "Hi-QLED",
+        "Beeldfrequentie": "60 Hz",
+        "Smart-tv": "VIDAA",
+        "HDMI 2.1": "ja, met VRR",
+        "Geluid": "20 W, Dolby Atmos",
+        "Stroomverbruik (SDR)": "80 W · klasse E (EU-label)"
       },
       "pros": [
-        "65 inch met Dolby Vision en HDR10+ voor rond de 475 euro",
-        "Google TV met Chromecast en AirPlay 2",
-        "Drie HDMI 2.1-poorten met VRR en eARC",
-        "Onkyo-speakers met Dolby Atmos"
+        "Quantum dots voor verzadigde kleuren",
+        "Dolby Vision, HDR10+ en Dolby Atmos",
+        "Licht: 12,6 kilo zonder voet",
+        "Zuinig energielabel E"
       ],
       "cons": [
-        "Direct-led zonder Mini LED, dus minder diep zwart",
-        "Helderheid van 450 nits is bescheiden voor HDR"
+        "Geen 120 Hz",
+        "Geen local dimming",
+        "Geen KPN-app op VIDAA"
       ],
-      "ideal": "Wie groot wil kijken en niet meer dan 500 euro wil uitgeven.",
-      "text": "De TCL 65T69C is de goedkoopste 65 inch in deze lijst en kost bij bol rond de 475 euro. Het is een QLED uit 2025: quantum dots zorgen voor vollere kleuren dan bij een gewone led-tv. De verlichting is direct-led, dus zonder Mini LED en met minder diep zwart dan duurdere modellen. TCL geeft een helderheid van 450 nits en een contrast van 5000:1 op. Dolby Vision, HDR10+ en HLG worden alle drie ondersteund.\n\nEr zijn drie HDMI 2.1-poorten met VRR en eARC voor een soundbar. Volgens de specificaties bij bol gaat het paneel tot 120 Hz in de gamemodus, met een input lag van 15 milliseconden. Google TV heeft alle Nederlandse apps, met Chromecast en AirPlay 2 voor je telefoon. Het geluid komt van Onkyo-speakers van 20 watt met Dolby Atmos. De behuizing is frameloos met een metaalkleurige afwerking. Kopers op bol geven hem een 4,9 van 5. Wie groot wil kijken zonder veel uit te geven, vindt hier de slimste koop.",
-      "ean": "5901292528584",
-      "label": "Beste prijs-kwaliteit",
-      "rating": 4.9,
-      "bol_title": "TCL 65T69C - 65 inch - 4K QLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-65t69c-65-inch-4k-qled-2025/9300000237197713/",
-      "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
+      "ideal": "Wie voor rond de 550 euro een nieuwe 65 inch tv met volle kleuren wil.",
+      "text": "De Hisense 65E7S is de slimste koop in deze lijst. Voor rond de 550 euro krijg je een 65 inch model uit 2026 met een Hi-QLED-paneel. Zo noemt Hisense zijn quantum dots, die rood en groen voller maken dan bij een standaard led-tv. Dolby Vision en HDR10+ zitten er allebei in, net als Dolby Atmos. De AI-opschaling maakt van gewone zenders een net 4K-beeld, wat op dit formaat geen luxe is.\n\nTegenover de duurdere tv's hoger in de lijst lever je in op contrast en snelheid. Local dimming ontbreekt, dus zwart is in het donker minder diep dan bij OLED of Mini LED. Het paneel draait op 60 Hz. Via HDMI 2.1 is er wel VRR, waardoor een PS5 of Xbox zonder haperingen speelt. VIDAA start snel en heeft Netflix, YouTube, NPO Start en Videoland, maar de KPN-app ontbreekt. Met 12,6 kilo zonder voet hang je hem makkelijk zelf op. Het energielabel E is gunstig voor een 65 inch tv. Kopers op bol geven hem gemiddeld 4,8 van de 5.",
+      "ean": "6942351431710",
+      "bol_title": "Hisense 65E7S SmartTV - 65 inch - 4K Hi-QLED - 2026 - Hi-QLED Colour - Dolby Vision Atmos - AI 4K Upscaler - AI Smooth Motion - Game Mode Plus - Filmmaker Mode",
+      "url": "https://www.bol.com/nl/nl/p/hisense-65e7s-smarttv-65-inch-4k-hi-qled-2026-hi-qled-colour-dolby-vision-atmos-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-filmmaker-mode/9300000269685082/",
+      "image": "https://media.s-bol.com/qz7Q5kG9zr3R/DqNXEn5/550x342.jpg",
       "ph": {
-        "2026-11-21": 476.13,
-        "2026-11-22": 476.13,
-        "2026-11-23": 476.13,
-        "2026-11-24": 476.13,
-        "2026-11-25": 476.13
+        "2026-11-25": 548.0
       },
-      "low_price": 476.13,
-      "ph_ean": "5901292528584",
+      "low_price": 548.0,
+      "ph_ean": "6942351431710",
+      "rating": 4.8,
       "synced": "2026-11-25"
     },
     {
@@ -486,7 +483,7 @@
       ],
       "cons": [
         "Geen Dolby Vision",
-        "Duurder dan de TCL 65T69C, maar met Mini LED en 144 Hz",
+        "Duurder dan de Hisense 65E7S, maar met Mini LED en 144 Hz",
         "Bol-score lager dan bij de rest van de lijst"
       ],
       "ideal": "Wie een snelle 65 inch tv van een groot merk zoekt voor gamen en sport.",
@@ -776,6 +773,7 @@
   },
   "rel": [
     "beste-tv-55-inch",
+    "beste-tv-65-inch-onder-600-euro",
     "beste-tv-75-inch",
     "beste-tv-onder-1000-euro"
   ],
@@ -791,11 +789,11 @@
       },
       {
         "h": "Speel je games op 120 Hz of hoger?",
-        "p": "Voor een PS5, Xbox Series X of gaming-pc wil je minimaal 120 Hz met VRR. De nr. 7 Samsung UE65M82H haalt 144 Hz voor minder dan € 850, net als de duurdere nr. 1 LG C5. De nr. 5 TCL 65T69C gaat volgens bol tot 120 Hz in de gamemodus. De nr. 9 TCL 65P71K heeft een 60 Hz-paneel en de nr. 8 Philips 65PQS8501 is vooral gemaakt voor tv en streamen: prima voor series, minder geschikt voor snelle games."
+        "p": "Voor een PS5, Xbox Series X of gaming-pc wil je minimaal 120 Hz met VRR. De nr. 7 Samsung UE65M82H haalt 144 Hz voor minder dan € 850, net als de duurdere nr. 1 LG C5. De nr. 5 Hisense 65E7S en de nr. 9 TCL 65P71K hebben een 60 Hz-paneel met VRR en de nr. 8 Philips 65PQS8501 is vooral gemaakt voor tv en streamen: prima voor series, minder geschikt voor snelle games."
       },
       {
         "h": "Hoeveel wil je uitgeven?",
-        "p": "Onder de € 650 kom je meestal uit bij QLED zonder lokale dimming, zoals de nr. 9 TCL 65P71K (€ 509) of de nr. 8 Philips 65PQS8501 (€ 649) met Ambilight. De nr. 5 TCL 65T69C (€ 476) is de goedkoopste in deze lijst, met Dolby Vision en HDR10+ maar zonder Mini LED. Voor € 700 tot € 850 krijg je Mini LED met 144 Hz bij de nr. 7 Samsung UE65M82H. Voor OLED betaal je vanaf € 1.367 voor de nr. 1 LG C5."
+        "p": "Onder de € 650 kom je meestal uit bij QLED zonder lokale dimming, zoals de nr. 9 TCL 65P71K (€ 509) of de nr. 8 Philips 65PQS8501 (€ 649) met Ambilight. De nr. 5 Hisense 65E7S (€ 548) heeft quantum dots, Dolby Vision en HDR10+ maar geen Mini LED. Voor € 700 tot € 850 krijg je Mini LED met 144 Hz bij de nr. 7 Samsung UE65M82H. Voor OLED betaal je vanaf € 1.367 voor de nr. 1 LG C5."
       }
     ],
     "wanneer": [
@@ -812,6 +810,12 @@
   "meta_title": "Beste 65 inch tv 2026: OLED, QLED en Mini LED vergeleken",
   "meta_desc": "De beste 65 inch tv van 2026 is de {top}. Top 10 tv's van 65 inch vergeleken op beeld, HDR, gaming en prijs, met de beste prijs-kwaliteit.",
   "wissels": [
+    {
+      "d": "2026-11-25",
+      "uit": "TCL 65T69C",
+      "in": "Hisense 65E7S",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-24",
       "uit": "Samsung UE65M74H",
