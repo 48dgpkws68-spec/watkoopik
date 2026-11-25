@@ -16,20 +16,20 @@
   "ico": "📺",
   "color": "#1b3fb3",
   "seo": "tv onder 200 euro",
-  "updated": "2026-11-09",
+  "updated": "2026-11-25",
   "published": "2026-11-09",
   "reviews_total": "500",
   "intro": "Een goede tv onder 200 euro kopen kan, als je weet wat je inlevert. Voor dat geld koop je een 24 of 32 inch smart-tv, of een eenvoudige 40 inch. 4K en 43 inch zitten er niet in en de meeste modellen hebben HD in plaats van Full HD. Wij vergeleken de tv's die nu bij bol onder 200 euro te koop zijn op resolutie, paneel, smart-tv-systeem en beoordelingen van kopers. Dit zijn de tien beste voor slaapkamer, keuken of kleine woonkamer.",
-  "verdict": "De Xiaomi TV A Pro 32 2026 is de beste tv onder 200 euro: een QLED-paneel en Google TV voor 174 euro. De CHiQ LF32FT is de beste prijs-kwaliteit, want je krijgt Full HD met Google TV voor 159,99 euro. Wil je een A-merk met lange garantie, kies dan de Samsung UE32H5000F voor 199 euro. Zoek je een groter scherm, dan is de Koorui K40Q1F-T8 de enige smart 40 inch onder de grens.",
+  "verdict": "De Xiaomi TV A Pro 32 2026 is de beste tv onder 200 euro: een QLED-paneel en Google TV voor 159 euro. De CHiQ LF32FT is de beste prijs-kwaliteit, want je krijgt Full HD met Google TV voor 164,99 euro. Wil je een A-merk met lange garantie, kies dan de Samsung UE32H5000F voor 199 euro. Zoek je een groter scherm, dan is de Koorui K40Q1F-T8 de enige smart 40 inch onder de grens.",
   "products": [
     {
       "brand": "Xiaomi",
       "name": "TV A Pro 32 2026",
-      "price": 174.0,
+      "price": 159.0,
       "score": 9.1,
       "label": "Beste keuze",
       "reviews": "bol-score 4,3 van 5",
-      "oneliner": "QLED en Google TV op 32 inch voor 174 euro.",
+      "oneliner": "QLED en Google TV op 32 inch voor 159 euro.",
       "specs": {
         "Formaat": "32 inch",
         "Resolutie": "HD",
@@ -70,12 +70,14 @@
         "2026-11-22": 174.0,
         "2026-11-23": 174.0,
         "2026-11-24": 174.0,
-        "2026-11-25": 174.0
+        "2026-11-25": 159.0
       },
-      "low_price": 174.0,
+      "low_price": 159.0,
       "synced": "2026-11-25",
       "ph_ean": "6941948705524",
-      "rating": 4.3
+      "rating": 4.3,
+      "prev_price": 174.0,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "CHiQ",
@@ -84,7 +86,7 @@
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,5 van 5",
-      "oneliner": "Full HD met Google TV voor nog geen 160 euro.",
+      "oneliner": "Full HD met Google TV voor 165 euro.",
       "specs": {
         "Formaat": "32 inch",
         "Resolutie": "Full HD",
@@ -94,7 +96,7 @@
         "Stroomverbruik (SDR)": "26 W · klasse E (EU-label)"
       },
       "pros": [
-        "Full HD op 32 inch voor 160 euro",
+        "Full HD op 32 inch voor 165 euro",
         "Google TV met spraakbediening",
         "Drie HDMI-poorten en twee USB-poorten",
         "Dunne metalen rand"
@@ -104,7 +106,7 @@
         "Luidsprekers van 8 watt"
       ],
       "ideal": "Wie zo goedkoop mogelijk een scherpe 32 inch met alle grote streamingapps zoekt.",
-      "text": "De CHiQ LF32FT is de beste prijs-kwaliteit onder 200 euro. Voor 159,99 euro krijg je een 32 inch met Full HD-resolutie, waar de meeste concurrenten in deze prijsklasse blijven steken op HD. Op korte afstand, bijvoorbeeld in de slaapkamer, zie je dat verschil terug in scherpere tekst en details. CHiQ is het tv-merk van Changhong, een grote Chinese fabrikant met een Europese vestiging in Tsjechië.\n\nGoogle TV geeft je toegang tot meer dan 10.000 apps, waaronder NPO Start, Netflix en Videoland. Volgens de productinformatie op bol ontbreekt de Spotify-app wel. Met drie HDMI-poorten sluit je makkelijk een decoder, spelcomputer en soundbar aan. De metalen rand is dun en Dolby Audio met dbx-tv zit erop, al blijven de luidsprekers met 8 watt bescheiden. Kopers geven gemiddeld 4,5 sterren. CHiQ belooft minimaal een jaar updates, korter dan Xiaomi of Samsung.",
+      "text": "De CHiQ LF32FT is de beste prijs-kwaliteit onder 200 euro. Voor 164,99 euro krijg je een 32 inch met Full HD-resolutie, waar de meeste concurrenten in deze prijsklasse blijven steken op HD. Op korte afstand, bijvoorbeeld in de slaapkamer, zie je dat verschil terug in scherpere tekst en details. CHiQ is het tv-merk van Changhong, een grote Chinese fabrikant met een Europese vestiging in Tsjechië.\n\nGoogle TV geeft je toegang tot meer dan 10.000 apps, waaronder NPO Start, Netflix en Videoland. Volgens de productinformatie op bol ontbreekt de Spotify-app wel. Met drie HDMI-poorten sluit je makkelijk een decoder, spelcomputer en soundbar aan. De metalen rand is dun en Dolby Audio met dbx-tv zit erop, al blijven de luidsprekers met 8 watt bescheiden. Kopers geven gemiddeld 4,5 sterren. CHiQ belooft minimaal een jaar updates, korter dan Xiaomi of Samsung.",
       "ean": "8592344206016",
       "bol_title": "CHiQ LF32FT - Smart TV 32 Inch - Full HD - Metalen Randloos - Google TV - Dolby Audio - HDMI",
       "url": "https://www.bol.com/nl/nl/p/chiq-lf32ft-smart-tv-32-inch-fhd-metalen-randloos-google-tv-dolby-audio-hdmi-2025-nieuw/9300000238045547/",
@@ -202,7 +204,8 @@
         "Resolutie": "HD",
         "Paneel": "LED",
         "HDR": "HDR10",
-        "Smart-tv": "Google TV"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "niet opgegeven"
       },
       "pros": [
         "Google TV met Chromecast",
@@ -308,10 +311,11 @@
         "Resolutie": "Full HD",
         "Paneel": "QLED",
         "HDR": "Niet vermeld",
-        "Smart-tv": "Tizen"
+        "Smart-tv": "Tizen",
+        "Stroomverbruik (SDR)": "niet opgegeven"
       },
       "pros": [
-        "40 inch QLED voor 199,99 euro",
+        "40 inch QLED voor 194 euro",
         "Tizen met AirPlay",
         "Drie HDMI-poorten en CI+",
         "Volgens bol geassembleerd in Nederland"
@@ -589,7 +593,7 @@
     },
     {
       "h": "HD of Full HD?",
-      "p": "De meeste 32 inch tv's onder 200 euro hebben HD (1366 bij 768 pixels). Op 1,5 meter afstand zie je het verschil met Full HD nauwelijks bij tv-zenders, wel bij tekst en ondertitels van dichtbij. Zit je dichter op het scherm, kies dan de CHiQ LF32FT, die Full HD biedt voor minder dan 160 euro. Op 40 inch is Full HD het minimum."
+      "p": "De meeste 32 inch tv's onder 200 euro hebben HD (1366 bij 768 pixels). Op 1,5 meter afstand zie je het verschil met Full HD nauwelijks bij tv-zenders, wel bij tekst en ondertitels van dichtbij. Zit je dichter op het scherm, kies dan de CHiQ LF32FT, die Full HD biedt voor 165 euro. Op 40 inch is Full HD het minimum."
     },
     {
       "h": "Welk smart-tv-systeem kies je?",
@@ -607,7 +611,7 @@
   "faq": [
     {
       "q": "Welke tv onder 200 euro is het beste?",
-      "a": "De Xiaomi TV A Pro 32 2026 is de beste tv onder 200 euro. Je krijgt een 32 inch QLED-paneel, Google TV met Chromecast en AirPlay en minimaal vijf jaar updates voor 174 euro. Wil je Full HD, kies dan de CHiQ LF32FT voor 159,99 euro."
+      "a": "De Xiaomi TV A Pro 32 2026 is de beste tv onder 200 euro. Je krijgt een 32 inch QLED-paneel, Google TV met Chromecast en AirPlay en minimaal vijf jaar updates voor 159 euro. Wil je Full HD, kies dan de CHiQ LF32FT voor 164,99 euro."
     },
     {
       "q": "Kun je een 4K tv onder 200 euro kopen?",
@@ -642,7 +646,7 @@
     "keuzes": [
       {
         "h": "Hoe ver zit je van de tv?",
-        "p": "Zit je op 1,5 meter of dichterbij, zoals in de slaapkamer of keuken, dan is 32 inch genoeg. Kies dan de nr. 1 Xiaomi TV A Pro 32 2026 (€ 174) of de nr. 2 CHiQ LF32FT (€ 159,99). Op 2 meter of verder is 40 inch prettiger, zoals de nr. 6 Koorui K40Q1F-T8 (€ 199,99). Voor een keukenblad volstaat de nr. 8 Horizon of nr. 9 Philips op 24 inch."
+        "p": "Zit je op 1,5 meter of dichterbij, zoals in de slaapkamer of keuken, dan is 32 inch genoeg. Kies dan de nr. 1 Xiaomi TV A Pro 32 2026 (€ 159) of de nr. 2 CHiQ LF32FT (€ 164,99). Op 2 meter of verder is 40 inch prettiger, zoals de nr. 6 Koorui K40Q1F-T8 (€ 194). Voor een keukenblad volstaat de nr. 8 Horizon of nr. 9 Philips op 24 inch."
       },
       {
         "h": "Zit je dicht op het scherm?",
@@ -660,11 +664,11 @@
     "wanneer": [
       {
         "rank": 2,
-        "p": "Kies de CHiQ LF32FT als je zo weinig mogelijk wilt uitgeven of dicht op het scherm zit. Voor € 159,99 krijg je Full HD in plaats van HD, Google TV en drie HDMI-poorten. Dat is € 14 minder dan de Xiaomi. Je levert wel in op kleur, omdat er geen QLED-filter op zit. Ook belooft CHiQ minimaal een jaar updates in plaats van vijf."
+        "p": "Kies de CHiQ LF32FT als je dicht op het scherm zit. Voor € 164,99 krijg je Full HD in plaats van HD, Google TV en drie HDMI-poorten. Dat is ongeveer € 6 meer dan de Xiaomi. Je levert wel in op kleur, omdat er geen QLED-filter op zit. Ook belooft CHiQ minimaal een jaar updates in plaats van vijf."
       },
       {
         "rank": 3,
-        "p": "De Samsung UE32H5000F past beter als je het volle budget wilt besteden aan een betrouwbaar merk. Je krijgt Tizen met alle Nederlandse apps, minimaal vijf jaar updates en bij bol 3 jaar extra garantie. Hij kost € 199, € 25 meer dan de Xiaomi, met een HD-paneel zonder QLED. Er zijn maar twee HDMI-poorten."
+        "p": "De Samsung UE32H5000F past beter als je het volle budget wilt besteden aan een betrouwbaar merk. Je krijgt Tizen met alle Nederlandse apps, minimaal vijf jaar updates en bij bol 3 jaar extra garantie. Hij kost € 199, € 40 meer dan de Xiaomi, met een HD-paneel zonder QLED. Er zijn maar twee HDMI-poorten."
       }
     ]
   },

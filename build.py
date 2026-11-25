@@ -537,7 +537,12 @@ def dagmaand(iso):
 def _opsom(xs): return xs[0] if len(xs) == 1 else ", ".join(xs[:-1]) + " en " + xs[-1]
 def logboek_html(g):
     lb = LOGBOEK.get(g["slug"])
-    if not lb or g.get("noindex"): return ""
+    # G2 (25 nov 2026): optioneel veld "changelog" [{d,t}] = wat wij in de tekst aanvulden of rechtzetten; staat in dit logboek, geen tweede blok
+    cg = sorted(g.get("changelog") or [], key=lambda x: x["d"], reverse=True)
+    cg_html = ("<h3>Aanvullingen en correcties in de tekst</h3><ul>%s</ul>" % "".join("<li><b>%s</b>: %s</li>" % (dagmaand(x["d"]), e(x["t"])) for x in cg)) if cg else ""
+    if g.get("noindex") or not (lb or cg): return ""
+    if not lb:
+        return '<div class="guide logb rv" id="logboek"><h2>Logboek van deze gids</h2><p>Hier lees je wat wij in deze gids hebben aangepast. Het komt uit onze eigen administratie.</p>%s</div>\n' % cg_html
     pr = []
     for p in sorted(g["products"], key=lambda p: p["rank"])[:3]:
         h = hist_of(p)
@@ -566,7 +571,7 @@ def logboek_html(g):
     else: wis = "<p>Sinds de start op %s staan dezelfde %d producten in de lijst. De prijzen meten wij elke dag opnieuw.</p>" % (nldate(lb["start"]), lb.get("n", 10))
     prijs = ("<h3>De prijs van de top 3 bij bol</h3><ul>%s</ul>" % "".join(pr)) if pr else ""
     return ('<div class="guide logb rv" id="logboek"><h2>Logboek van deze gids</h2><p>Deze gids staat sinds %s online. Hier lees je wat wij sindsdien in de lijst hebben aangepast en hoe de prijs van de top 3 bewoog. '
-            'Het komt uit onze eigen administratie en onze dagelijkse prijsmetingen bij bol, niet van een fabrikant of winkel.</p>%s<h3>Wijzigingen in de lijst</h3>%s</div>\n') % (nldate(lb["start"]), prijs, wis)
+            'Het komt uit onze eigen administratie en onze dagelijkse prijsmetingen bij bol, niet van een fabrikant of winkel.</p>%s<h3>Wijzigingen in de lijst</h3>%s%s</div>\n') % (nldate(lb["start"]), prijs, wis, cg_html)
 
 # ---------- populair bij bol (groeimotor S5, 9 nov 2026) ----------
 # Plek van onze keuzes in bol's eigen sortering 'populariteit' op de bol-zoekterm van de gids (tools/bol_populair.py,
@@ -1133,6 +1138,15 @@ for g in guides:
         "".join("<h3>%s</h3><p>%s</p>" % (e(k["h"]), e(k["p"])) for k in kq.get("keuzes", [])),
         ("<h2>Wanneer kies je nr. 2 of 3?</h2>" + "".join('<h3>Nr. %d: %s %s</h3><p>%s</p><p>%s</p>' % (w["rank"], e(byr[w["rank"]]["brand"]), e(byr[w["rank"]]["name"]), e(w["p"]), shop_a(byr[w["rank"]], g, "btn btn-buy btn-sm", "wanneer"))
             for w in kq.get("wanneer", []) if w.get("rank") in byr)) if kq.get("wanneer") else "")) if kq.get("keuzes") else ""
+    # G2 (25 nov 2026, zelfde aanpak als landensites N56): optionele velden "niet_kopen" {h, items:[{b,p}]} en
+    # "onafhankelijk" {h, intro?, items:[{bron,url,p}], noot?}. Blok alleen als het veld bestaat; alleen bronnen die echt gelezen zijn.
+    nk = g.get("niet_kopen") or {}
+    nk_html = ('<div class="guide rv" id="wanneer-niet-kopen"><h2>%s</h2><ul>%s</ul></div>' % (e(nk.get("h") or "Wanneer niet kopen"),
+        "".join("<li><b>%s</b> %s</li>" % (e(x["b"]), e(x["p"])) for x in nk["items"]))) if nk.get("items") else ""
+    oh = g.get("onafhankelijk") or {}
+    oh_html = ('<div class="guide rv" id="onafhankelijke-tests"><h2>%s</h2>%s%s%s</div>' % (e(oh.get("h") or "Wat onafhankelijke tests zeggen"), ("<p>%s</p>" % e(oh["intro"])) if oh.get("intro") else "",
+        "".join('<h3><a href="%s" rel="nofollow noopener" target="_blank">%s</a></h3><p>%s</p>' % (e(x["url"]), e(x["bron"]), e(x["p"])) for x in oh["items"]),
+        ('<p class="muted" style="font-size:.9rem">%s</p>' % e(oh["noot"])) if oh.get("noot") else "")) if oh.get("items") else ""
     hubc = next((c for c in CL_OF.get(g["slug"], []) if c["hub"]), None)  # familie-overzicht in kruimelpad en schema
     hf = hist_faq(g)  # FAQ uit eigen prijsmetingen (alleen in de pagina, niet in de bron-json)
     if hf and not any(q["q"] == hf["q"] for q in g["faq"]): g["faq"] = g["faq"] + [hf]
@@ -1201,7 +1215,7 @@ for g in guides:
 </div>
 <div class="sticky-buy">%s<div><b>Nr. 1: %s %s</b>%s</div>%s</div>''' % (
         g["cat"], CATS[g["cat"]][0], (('<a href="../%s">%s</a> › ' % (hubc["hub"], e(cap1(hubc["meervoud"])))) if hubc else "") + e(g["short"]), cl_nav(g), CATS[g["cat"]][0], e(g["title"]), kort_antwoord(g, ps), e(g["intro"]), e(nldate(gmod(g))), len(ps), "",
-        own_pos(g, "boven"), podium, own_pos(g, "onder") + k2_html(g) + combi_html(g) + tvd_link(g) + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table + kosten_html(g), pop, cards, hist_section(g) + logboek_html(g), kies_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), '<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "", CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
+        own_pos(g, "boven"), podium, own_pos(g, "onder") + k2_html(g) + combi_html(g) + tvd_link(g) + "".join('<a class="vs-link" href="../vs/%s.html" data-umami-event="vs-link"><b>Twijfel je tussen nr. %d en nr. %d?</b> %s %s of %s %s: wie wint per situatie →</a>' % (v["slug"], v["pa"]["rank"], v["pb"]["rank"], e(v["pa"]["brand"]), e(v["pa"]["name"]), e(v["pb"]["brand"]), e(v["pb"]["name"])) for v in VS_BY_GUIDE.get(g["slug"], [])), len(ps), table + kosten_html(g), pop, cards, hist_section(g) + logboek_html(g), kies_html + nk_html + oh_html, e(g["verdict"]), shop_a(top, g, plek="eindoordeel"), zoekterm_vorm(zoekterm(g))[1], e(zoekterm(g)), guide_html, faq, PREF_BTN, toc, '<li><a href="#populair">Populair bij bol</a></li>' if pop else "", ('<li><a href="#prijsverloop">Prijsverloop</a></li>' if hist_section(g) else "") + ('<li><a href="#logboek">Logboek</a></li>' if logboek_html(g) else ""), ('<li><a href="#zo-kies-je">Zo kies je</a></li>' if kies_html else "") + ('<li><a href="#wanneer-niet-kopen">Wanneer niet kopen</a></li>' if nk_html else "") + ('<li><a href="#onafhankelijke-tests">Onafhankelijke tests</a></li>' if oh_html else ""), CATS[g["cat"]][0].lower(), g["cat"], len(by_cat[g["cat"]]), "".join(gcard(x, root) for x in rel),
         ('<img src="%s" alt="">' % e(top["image"])) if top.get("image") else "", e(top["brand"]), e(top["name"]), "" if ab_variant(g["slug"]) == "prijs" else eur(top["price"]), shop_a(top, g, "btn btn-buy btn-sm", "sticky"))
     bv = next((p for p in ps if p.get("label") == "Beste prijs-kwaliteit"), ps[1])
     seo = zoekterm(g)  # zoekterm voor titel en meta; query blijft de bol-zoekterm

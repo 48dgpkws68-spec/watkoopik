@@ -16,79 +16,18 @@
   "ico": "📺",
   "color": "#1b3fb3",
   "seo": "tv onder 300 euro",
-  "updated": "2026-11-02",
+  "updated": "2026-11-25",
   "published": "2026-11-02",
   "reviews_total": "1.900",
   "intro": "Een goede tv onder 300 euro bestaat, zolang je weet waar je op inlevert. Voor dat geld koop je tot 43 inch, soms met 4K en een QLED-paneel, maar nooit met echt fel HDR-beeld of 120 Hz. Wij vergeleken tv's die nu bij bol onder 300 euro te koop zijn op resolutie, paneel, smart-tv-systeem en wat kopers er na maanden van vinden. Dit zijn de tien beste, van een 32 inch voor de slaapkamer tot een 43 inch 4K voor de woonkamer.",
-  "verdict": "De Xiaomi TV A Pro 2026 43 inch is de beste tv onder 300 euro: 4K, QLED en Google TV voor 289 euro. De TCL 43S51K is de beste prijs-kwaliteit, want je krijgt 43 inch met Google TV voor 239 euro als je Full HD accepteert. Wil je Dolby Vision en alles eruit halen tot de grens van 300 euro, kies dan de Hisense 43A7Q. Zoek je iets kleins voor de slaapkamer, dan is de LG 32LQ63006LA de veiligste keuze.",
+  "verdict": "De Hisense 43A7Q is de beste tv onder 300 euro: 4K, QLED en als enige in deze lijst Dolby Vision én HDR10+ voor 299 euro. De CHiQ U43QST is de beste prijs-kwaliteit, want je krijgt 4K, QLED en Google TV voor 283 euro. Wil je zo weinig mogelijk uitgeven voor 43 inch, kies dan de CHiQ L43QM10V met Full HD voor 249 euro. Zoek je iets kleins voor de slaapkamer, dan is de LG 32LQ63006LA de veiligste keuze.",
   "products": [
-    {
-      "brand": "Xiaomi",
-      "name": "TV A Pro 2026 43 inch",
-      "price": 289.0,
-      "score": 9.0,
-      "label": "Beste keuze",
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "4K QLED met Google TV en HDR10+ net onder 300 euro.",
-      "specs": {
-        "Formaat": "43 inch",
-        "Resolutie": "4K",
-        "Paneel": "QLED",
-        "HDR": "HDR10+, HLG",
-        "Smart-tv": "Google TV",
-        "Stroomverbruik (SDR)": "50 W · klasse F (EU-label)"
-      },
-      "pros": [
-        "4K én QLED onder 300 euro",
-        "Google TV met ingebouwde Chromecast",
-        "Gamemodus tot 120 Hz",
-        "Metalen behuizing met dunne randen"
-      ],
-      "cons": [
-        "Geen Dolby Vision",
-        "Helderheid te laag voor echt HDR-effect"
-      ],
-      "ideal": "Wie onder 300 euro de meeste beeldkwaliteit wil op 43 inch, met de ruimste keuze aan apps.",
-      "text": "De Xiaomi TV A Pro 2026 is de enige tv in deze lijst die 4K, een QLED-paneel en Google TV combineert voor minder dan 300 euro. Het quantum dot-filter levert volgens Xiaomi 94 procent van de DCI-P3-kleurruimte, wat je terugziet in voller rood en groen dan bij een gewone ledtv in deze prijsklasse. HDR10+ en een Filmmaker-modus zitten erop, al is de helderheid te beperkt om HDR echt te laten knallen.\n\nGoogle TV is het sterkste punt voor dit budget. Netflix, Videoland, NPO Start, Disney+ en Ziggo GO staan allemaal in de Play Store en met Chromecast stuur je video direct vanaf je telefoon. AirPlay werkt ook, handig in een huis met iPhones. De gamemodus haalt 120 Hz op een lagere resolutie, prima voor een casual potje. Kopers op bol noemen het beeld scherp voor de prijs en de bediening vlot. Het geluid is dun, dus reken op een simpele soundbar als je veel films kijkt.",
-      "ean": "6941948705630",
-      "bol_title": "Xiaomi TV A Pro 2026 43 inch | 4K QLED Google TV | HDR10+ & Filmmaker Mode | 120Hz gaming | Dolby Audio & DTS-X | 94% DCI-P3 | AirPlay, Google Cast & Miracast | Google Assistant",
-      "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-43-inch-4k-qled-tv/9300000231021635/",
-      "image": "https://media.s-bol.com/JoqgkJ41nrwv/Z4jn42J/550x330.jpg",
-      "ph": {
-        "2026-11-02": 289.0,
-        "2026-11-03": 289.0,
-        "2026-11-04": 289.0,
-        "2026-11-05": 289.0,
-        "2026-11-06": 289.0,
-        "2026-11-07": 289.0,
-        "2026-11-08": 289.0,
-        "2026-11-09": 289.0,
-        "2026-11-10": 289.0,
-        "2026-11-11": 289.0,
-        "2026-11-12": 289.0,
-        "2026-11-13": 289.0,
-        "2026-11-14": 289.0,
-        "2026-11-16": 289.0,
-        "2026-11-17": 289.0,
-        "2026-11-18": 289.0,
-        "2026-11-19": 289.0,
-        "2026-11-20": 289.0,
-        "2026-11-21": 289.0,
-        "2026-11-22": 289.0,
-        "2026-11-23": 289.0,
-        "2026-11-24": 289.0
-      },
-      "low_price": 289.0,
-      "synced": "2026-11-25",
-      "ph_ean": "6941948705630",
-      "rating": 4.3
-    },
     {
       "brand": "Hisense",
       "name": "43A7Q",
       "price": 299.0,
       "score": 8.8,
-      "label": "Beste premium",
+      "label": "Beste keuze",
       "reviews": "",
       "oneliner": "4K QLED met Dolby Vision voor precies 299 euro.",
       "specs": {
@@ -107,7 +46,8 @@
       ],
       "cons": [
         "Kleiner app-aanbod dan Google TV",
-        "Zit precies op de grens van 300 euro"
+        "Zit precies op de grens van 300 euro",
+        "Geluid stelt teleur in de test van Altroconsumo"
       ],
       "ideal": "Wie het uiterste uit een budget van 300 euro wil halen en vooral via Netflix en Disney+ kijkt.",
       "text": "De Hisense 43A7Q is de duurste tv in deze vergelijking, maar met 299 euro blijft hij net onder de grens. Je krijgt 4K met een QLED-paneel en als enige in deze lijst zowel Dolby Vision als HDR10+. Dat betekent dat series op Netflix en Disney+ met scène-informatie binnenkomen, zodat de tv contrast en helderheid per shot kan bijsturen. Wonderen moet je niet verwachten, want de piekhelderheid blijft bescheiden, maar het beeld oogt rustiger dan bij goedkopere modellen.\n\nHisense gebruikt zijn eigen VIDAA-systeem. Dat start snel op en reageert vlot, maar het app-aanbod is kleiner dan bij Google TV. De grote diensten zoals Netflix, YouTube, Prime Video, Disney+ en NPO Start zijn er wel. Game Mode Plus verlaagt de input lag voor consoles en DTS Virtual:X maakt het geluid iets breder. Wie geen exotische apps nodig heeft, krijgt hier de meest complete beeldtechniek die je onder 300 euro vindt.",
@@ -145,74 +85,11 @@
       "ph_ean": "6942351420189"
     },
     {
-      "brand": "TCL",
-      "name": "43S51K",
-      "price": 239.0,
-      "score": 8.6,
-      "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,2 van 5",
-      "oneliner": "43 inch QLED met Google TV voor de prijs van een 32 inch.",
-      "specs": {
-        "Formaat": "43 inch",
-        "Resolutie": "Full HD",
-        "Paneel": "QLED",
-        "HDR": "HDR10, HLG",
-        "Smart-tv": "Google TV",
-        "Stroomverbruik (SDR)": "45 W · klasse F (EU-label)"
-      },
-      "pros": [
-        "43 inch voor nog geen 240 euro",
-        "Google TV met Chromecast",
-        "QLED-kleuren voor weinig geld"
-      ],
-      "cons": [
-        "Geen 4K",
-        "Geluid is dun"
-      ],
-      "ideal": "Wie een groot scherm wil voor zo weinig mogelijk geld en vooral tv kijkt en streamt.",
-      "text": "De TCL 43S51K kost ongeveer evenveel als een 32 inch van een A-merk, maar geeft je 43 inch beeld. TCL kiest bewust voor Full HD in plaats van 4K. Op 43 inch en een kijkafstand van ruim twee meter zie je dat verschil nauwelijks, zeker niet bij gewone tv-zenders die zelf in HD uitzenden. Het QLED-filter zorgt voor levendiger kleuren dan een standaard ledpaneel en HDR10 wordt ondersteund, al blijft het effect beperkt.\n\nGoogle TV maakt hem een volwaardige smart-tv: alle Nederlandse streamingdiensten zijn beschikbaar en Chromecast zit ingebouwd. Kopers op bol zijn vooral te spreken over de prijs in verhouding tot het formaat en de eenvoudige installatie. Het geluid is het zwakke punt, met weinig laag en een wat blikkerige klank bij hard volume. Voor een tweede tv, een studentenkamer of een eerste televisie in huis is dit de verstandigste aankoop onder 300 euro.",
-      "ean": "5901292527075",
-      "bol_title": "TCL 43S51K - 43 inch - Full HD QLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-43s51k-full-hd-43-qled-smart-tv/9300000250301883/",
-      "image": "https://media.s-bol.com/KD7lAKJ1DyPn/X6zgMPv/550x550.jpg",
-      "ph": {
-        "2026-11-02": 239.0,
-        "2026-11-03": 239.0,
-        "2026-11-04": 241.39,
-        "2026-11-05": 239.0,
-        "2026-11-06": 239.0,
-        "2026-11-07": 239.0,
-        "2026-11-08": 239.0,
-        "2026-11-09": 239.0,
-        "2026-11-10": 239.0,
-        "2026-11-11": 239.0,
-        "2026-11-12": 239.0,
-        "2026-11-13": 239.0,
-        "2026-11-14": 239.0,
-        "2026-11-16": 239.0,
-        "2026-11-17": 239.0,
-        "2026-11-18": 239.0,
-        "2026-11-19": 239.0,
-        "2026-11-20": 239.0,
-        "2026-11-21": 230.53,
-        "2026-11-22": 230.53,
-        "2026-11-23": 230.53,
-        "2026-11-24": 230.53,
-        "2026-11-25": 239.0
-      },
-      "low_price": 230.53,
-      "synced": "2026-11-25",
-      "prev_price": 230.53,
-      "prev_date": "2026-11-24",
-      "ph_ean": "5901292527075",
-      "rating": 4.2
-    },
-    {
       "brand": "CHiQ",
       "name": "U43QST",
       "price": 282.74,
-      "score": 8.5,
-      "label": null,
+      "score": 8.6,
+      "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,3 van 5",
       "oneliner": "Goedkoopste 4K QLED met Google TV in een metalen frame.",
       "specs": {
@@ -233,8 +110,8 @@
         "Onbekend merk met kleiner servicenetwerk",
         "Geen Dolby Vision"
       ],
-      "ideal": "Wie 4K en Google TV wil maar Xiaomi niet kan krijgen of het randloze ontwerp mooier vindt.",
-      "text": "CHiQ is het tv-merk van het Chinese Changhong, een van de grootste schermfabrikanten ter wereld. De U43QST is hun 4K-model op 43 inch en concurreert direct met de Xiaomi op de eerste plek. Je krijgt een QLED-paneel, Google TV en een randloos ontwerp met een metalen frame dat er duurder uitziet dan de prijs doet vermoeden. HDR10 en HLG worden ondersteund, Dolby Vision ontbreekt.\n\nIn de praktijk ligt de beeldkwaliteit dicht bij die van de Xiaomi. Het verschil zit in de details: Xiaomi heeft een iets bredere kleurweergave en HDR10+, CHiQ heeft het strakkere ontwerp. Google TV werkt vlot en Chromecast zit ingebouwd. Kopers op bol noemen de prijs scherp en de installatie eenvoudig, met de kanttekening dat de afstandsbediening wat goedkoop aanvoelt. Omdat CHiQ in Nederland minder bekend is, loont het om de garantievoorwaarden van de verkoper te checken voordat je bestelt.",
+      "ideal": "Wie 4K en Google TV wil voor minder dan de Hisense en het randloze ontwerp mooi vindt.",
+      "text": "CHiQ is het tv-merk van het Chinese Changhong, een van de grootste schermfabrikanten ter wereld. De U43QST is hun 4K-model op 43 inch en de goedkoopste 4K-tv met Google TV in deze lijst. Je krijgt een QLED-paneel, Google TV en een randloos ontwerp met een metalen frame dat er duurder uitziet dan de prijs doet vermoeden. HDR10 en HLG worden ondersteund, Dolby Vision ontbreekt.\n\nTen opzichte van de Hisense op de eerste plek lever je Dolby Vision en HDR10+ in. Daar krijg je Google TV met een ruimer app-aanbod en ongeveer 16 euro korting voor terug. Google TV werkt vlot en Chromecast zit ingebouwd. Kopers op bol noemen de prijs scherp en de installatie eenvoudig, met de kanttekening dat de afstandsbediening wat goedkoop aanvoelt. Omdat CHiQ in Nederland minder bekend is, loont het om de garantievoorwaarden van de verkoper te checken voordat je bestelt.",
       "ean": "8592344206092",
       "bol_title": "CHiQ U43QST - Smart TV 43 Inch - UHD 4K - QLED Pro - Google TV - Randloos Metal Design - Dolby Audio - Nieuw",
       "url": "https://www.bol.com/nl/nl/p/chiq-u43qst-smart-tv-43-inch-qled-pro-google-tv-uhd-4k-randloos-metal-design-dolby-audio-2025-nieuw/9300000238936359/",
@@ -270,11 +147,117 @@
       "rating": 4.3
     },
     {
+      "brand": "TCL",
+      "name": "43S51K",
+      "price": 279.0,
+      "score": 8.5,
+      "label": null,
+      "reviews": "bol-score 4,2 van 5",
+      "oneliner": "43 inch Full HD QLED met Google TV.",
+      "specs": {
+        "Formaat": "43 inch",
+        "Resolutie": "Full HD",
+        "Paneel": "QLED",
+        "HDR": "HDR10, HLG",
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "45 W · klasse F (EU-label)"
+      },
+      "pros": [
+        "QLED-kleuren op 43 inch",
+        "Google TV met Chromecast",
+        "Eenvoudige installatie volgens kopers op bol"
+      ],
+      "cons": [
+        "Geen 4K",
+        "Geluid is dun",
+        "Kost nu 279 euro, bijna evenveel als de 4K-modellen"
+      ],
+      "ideal": "Wie een groot scherm wil voor zo weinig mogelijk geld en vooral tv kijkt en streamt.",
+      "text": "De TCL 43S51K is een 43 inch QLED met Full HD en Google TV. TCL kiest bewust voor Full HD in plaats van 4K. Op 43 inch en een kijkafstand van ruim twee meter zie je dat verschil nauwelijks, zeker niet bij gewone tv-zenders die zelf in HD uitzenden. Het QLED-filter zorgt voor levendiger kleuren dan een standaard ledpaneel en HDR10 wordt ondersteund, al blijft het effect beperkt.\n\nGoogle TV maakt hem een volwaardige smart-tv: alle Nederlandse streamingdiensten zijn beschikbaar en Chromecast zit ingebouwd. Kopers op bol zijn vooral te spreken over de prijs in verhouding tot het formaat en de eenvoudige installatie. Het geluid is het zwakke punt, met weinig laag en een wat blikkerige klank bij hard volume. Let op de dagprijs: bij onze meting van 25 november kostte hij 279 euro, bijna evenveel als de 4K-modellen in deze lijst. Zakt hij weer richting 230 euro, dan is hij voor een tweede tv of studentenkamer een verstandige aankoop.",
+      "ean": "5901292527075",
+      "bol_title": "TCL 43S51K - 43 inch - Full HD QLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-43s51k-full-hd-43-qled-smart-tv/9300000250301883/",
+      "image": "https://media.s-bol.com/KD7lAKJ1DyPn/X6zgMPv/550x550.jpg",
+      "ph": {
+        "2026-11-02": 239.0,
+        "2026-11-03": 239.0,
+        "2026-11-04": 241.39,
+        "2026-11-05": 239.0,
+        "2026-11-06": 239.0,
+        "2026-11-07": 239.0,
+        "2026-11-08": 239.0,
+        "2026-11-09": 239.0,
+        "2026-11-10": 239.0,
+        "2026-11-11": 239.0,
+        "2026-11-12": 239.0,
+        "2026-11-13": 239.0,
+        "2026-11-14": 239.0,
+        "2026-11-16": 239.0,
+        "2026-11-17": 239.0,
+        "2026-11-18": 239.0,
+        "2026-11-19": 239.0,
+        "2026-11-20": 239.0,
+        "2026-11-21": 230.53,
+        "2026-11-22": 230.53,
+        "2026-11-23": 230.53,
+        "2026-11-24": 230.53,
+        "2026-11-25": 279.0
+      },
+      "low_price": 230.53,
+      "synced": "2026-11-25",
+      "prev_price": 239.0,
+      "prev_date": "2026-11-25",
+      "ph_ean": "5901292527075",
+      "rating": 4.2
+    },
+    {
+      "brand": "CHiQ",
+      "name": "L43QM10V",
+      "price": 249.0,
+      "score": 8.4,
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Goedkoopste 43 inch in deze lijst: Full HD QLED met Google TV.",
+      "specs": {
+        "Formaat": "43 inch",
+        "Resolutie": "Full HD",
+        "Paneel": "QLED",
+        "HDR": "HDR10, HLG",
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "42 W · klasse E (EU-label)"
+      },
+      "pros": [
+        "Lage prijs voor een QLED-paneel",
+        "Google TV met alle grote apps",
+        "Dunne metalen rand",
+        "Hoge score bij bol"
+      ],
+      "cons": [
+        "Full HD, geen 4K",
+        "Geen VRR of 120 Hz voor consoles"
+      ],
+      "ideal": "Wie een 43 inch tv voor de slaapkamer of keuken zoekt en geen 4K nodig heeft.",
+      "text": "De CHiQ L43QM10V is een 43 inch QLED met Full HD-resolutie en Google TV. Op 43 inch en een kijkafstand vanaf ongeveer twee meter is het verschil met 4K kleiner dan je zou denken, zeker bij gewone tv-zenders die nog steeds in HD uitzenden. Het QLED-paneel geeft vollere kleuren dan een standaard led-tv in dezelfde prijsklasse. HDR10 en HLG worden ondersteund, al haalt een betaalbaar paneel als dit geen hoge piekhelderheid.\n\nGoogle TV is het sterke punt: Netflix, Disney+, YouTube, Videoland en NPO Start staan er allemaal op, met Chromecast ingebouwd en spraakbediening via de afstandsbediening. De dunne metalen rand oogt netter dan je bij deze prijs verwacht. Voor een PlayStation of Xbox is hij minder geschikt, want 120 Hz en VRR ontbreken. Zoek je een tweede tv voor de slaapkamer of keuken, dan is dit de goedkoopste 43 inch in deze lijst, met een goede score bij bol.",
+      "ean": "8592344205651",
+      "bol_title": "CHiQ L43QM10V - Smart TV 43 Inch - QLED Pro Google TV - Full HD - Randloos Metal Design - Dolby Audio - 2025 Nieuw",
+      "url": "https://www.bol.com/nl/nl/p/chiq-l43qm10v-smart-tv-43-inch-qled-pro-google-tv-full-hd-randloos-metal-design-dolby-audio-2025-nieuw/9300000243402905/",
+      "image": "https://media.s-bol.com/YL4AEg9mJP0K/Y69PpzY/550x387.jpg",
+      "ph": {
+        "2026-11-23": 249.0,
+        "2026-11-24": 249.0,
+        "2026-11-25": 249.0
+      },
+      "low_price": 249.0,
+      "ph_ean": "8592344205651",
+      "rating": 4.6,
+      "synced": "2026-11-25",
+      "label": null
+    },
+    {
       "brand": "LG",
       "name": "32LQ63006LA",
       "price": 241.0,
       "score": 8.4,
-      "label": null,
+      "label": "Beste premium",
       "reviews": "bol-score 4,6 van 5",
       "oneliner": "Kleine A-merk tv met webOS en de beste reviews.",
       "specs": {
@@ -336,7 +319,7 @@
     {
       "brand": "Xiaomi",
       "name": "TV A Pro 32 2026",
-      "price": 174.0,
+      "price": 159.0,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -360,7 +343,7 @@
         "Klein formaat"
       ],
       "ideal": "Wie een tweede tv voor de slaapkamer of camper zoekt en vooral wil streamen.",
-      "text": "Voor nog geen 175 euro krijg je bij de Xiaomi TV A Pro 32 dezelfde basis als bij zijn grote broer op nummer 1: Google TV, een QLED-paneel en HDR10+. Het grote verschil is de resolutie. Dit is een HD-tv met 1366 bij 768 pixels, geen Full HD. Op 32 inch en een kijkafstand van anderhalve meter of meer valt dat mee, maar wie dichtbij zit ziet de pixels eerder dan bij de LG of Philips.\n\nDaar staat tegenover dat het smart-tv-gedeelte beter is dan bij de meeste kleine tv's. Alle apps uit de Play Store zijn beschikbaar, Chromecast en AirPlay zitten erin en Google Assistant reageert op spraak via de afstandsbediening. Dolby Audio en DTS:X geven het kleine luidsprekersysteem iets meer ruimte. Kopers waarderen vooral de prijs en het snelle menu. Als slaapkamer-tv of voor in de keuken is dit de slimste besteding van minder dan 200 euro.",
+      "text": "Voor 159 euro krijg je bij de Xiaomi TV A Pro 32 een QLED-paneel, Google TV en HDR10+. Het grote verschil is de resolutie. Dit is een HD-tv met 1366 bij 768 pixels, geen Full HD. Op 32 inch en een kijkafstand van anderhalve meter of meer valt dat mee, maar wie dichtbij zit ziet de pixels eerder dan bij de LG of Philips.\n\nDaar staat tegenover dat het smart-tv-gedeelte beter is dan bij de meeste kleine tv's. Alle apps uit de Play Store zijn beschikbaar, Chromecast en AirPlay zitten erin en Google Assistant reageert op spraak via de afstandsbediening. Dolby Audio en DTS:X geven het kleine luidsprekersysteem iets meer ruimte. Kopers waarderen vooral de prijs en het snelle menu. Als slaapkamer-tv of voor in de keuken is dit de slimste besteding van minder dan 200 euro.",
       "ean": "6941948705524",
       "bol_title": "Xiaomi TV A Pro 32 2026 | QLED Smart TV | 80 cm HD | Google TV | Dolby Audio en DTS:X | HDR10+ | Chromecast en AirPlay | Wifi en Bluetooth",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-32-inch-smart-tv-met-google-tv-google-assistant-spraakbediening-dolby-audio-ci-slot-google-cast/9300000234606853/",
@@ -388,12 +371,14 @@
         "2026-11-22": 174.0,
         "2026-11-23": 174.0,
         "2026-11-24": 174.0,
-        "2026-11-25": 174.0
+        "2026-11-25": 159.0
       },
-      "low_price": 174.0,
+      "low_price": 159.0,
       "synced": "2026-11-25",
       "ph_ean": "6941948705524",
-      "rating": 4.3
+      "rating": 4.3,
+      "prev_price": 174.0,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Philips",
@@ -456,7 +441,7 @@
       "score": 8.1,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
-      "oneliner": "40 inch met Google TV voor ongeveer 210 euro.",
+      "oneliner": "40 inch met Google TV voor ongeveer 220 euro.",
       "specs": {
         "Formaat": "40 inch",
         "Resolutie": "Full HD",
@@ -466,7 +451,7 @@
         "Stroomverbruik (SDR)": "37 W · klasse E (EU-label)"
       },
       "pros": [
-        "40 inch voor rond de 210 euro",
+        "40 inch voor rond de 220 euro",
         "Google TV met Chromecast",
         "Metalen randloos frame"
       ],
@@ -476,7 +461,7 @@
         "Kleiner merk"
       ],
       "ideal": "Wie net groter dan 32 inch wil zonder het budget van een 43 inch.",
-      "text": "Veertig inch is een handig tussenformaat: merkbaar groter dan 32 inch, maar het past nog op een smal tv-meubel of in een slaapkamer. De CHiQ L40FT vult dat gat voor ongeveer 210 euro. Het is een Full HD-tv met een gewoon ledpaneel, dus zonder het kleurfilter van QLED. Dat zie je aan iets minder verzadigde kleuren, maar voor tv-zenders en series is het beeld prima.\n\nGoogle TV zorgt dat je alle streamingdiensten hebt en Chromecast zit ingebouwd. Het metalen, bijna randloze frame oogt verzorgd. Kopers op bol geven hem gemiddeld ruim vier sterren en prijzen de snelle installatie en de verhouding tussen prijs en formaat. Het geluid is dun, wat bij deze prijs bijna standaard is. CHiQ is een kleiner merk in Nederland, maar wordt geproduceerd door Changhong, een van de grote paneelmakers. Wil je QLED, kies dan voor de TCL 43S51K voor iets meer geld.",
+      "text": "Veertig inch is een handig tussenformaat: merkbaar groter dan 32 inch, maar het past nog op een smal tv-meubel of in een slaapkamer. De CHiQ L40FT vult dat gat voor ongeveer 220 euro. Het is een Full HD-tv met een gewoon ledpaneel, dus zonder het kleurfilter van QLED. Dat zie je aan iets minder verzadigde kleuren, maar voor tv-zenders en series is het beeld prima.\n\nGoogle TV zorgt dat je alle streamingdiensten hebt en Chromecast zit ingebouwd. Het metalen, bijna randloze frame oogt verzorgd. Kopers op bol geven hem gemiddeld ruim vier sterren en prijzen de snelle installatie en de verhouding tussen prijs en formaat. Het geluid is dun, wat bij deze prijs bijna standaard is. CHiQ is een kleiner merk in Nederland, maar wordt geproduceerd door Changhong, een van de grote paneelmakers. Wil je QLED, kies dan de CHiQ L43QM10V voor ongeveer 30 euro meer.",
       "ean": "8592344206023",
       "bol_title": "CHiQ L40FT - Smart TV 40 Inch - Full HD - Google TV - Metalen Randloos - Dolby Audio - HDMI",
       "url": "https://www.bol.com/nl/nl/p/chiq-l40ft-smart-tv-40-inch-led-google-tv-fhd-1080p-randloos-metal-design-dolby-audio-2025-nieuw/9300000238031084/",
@@ -639,11 +624,11 @@
   "guide": [
     {
       "h": "Welk formaat haal je onder 300 euro?",
-      "p": "Met 300 euro kom je tot 43 inch. Een 50 inch van een bekend merk kost nu minimaal 309 euro, dus daarvoor moet je net iets meer uitgeven. Tussen 170 en 230 euro koop je een goede 32 of 40 inch. Meet je kijkafstand: op 2 meter is 43 inch prettig, op 1,5 meter of minder is 32 inch genoeg."
+      "p": "Met 300 euro kom je tot 43 inch. Een 50 inch van een bekend merk kost nu minimaal 309 euro, dus daarvoor moet je net iets meer uitgeven. Tussen 160 en 250 euro koop je een goede 32 of 40 inch. Meet je kijkafstand: op 2 meter is 43 inch prettig, op 1,5 meter of minder is 32 inch genoeg."
     },
     {
       "h": "4K of Full HD?",
-      "p": "Onder 300 euro is 4K alleen haalbaar op 43 inch en dan zit je meestal tussen 280 en 300 euro. Full HD scheelt 40 tot 60 euro. Op 43 inch en meer dan twee meter afstand zie je het verschil nauwelijks bij tv-zenders, wel bij 4K-series op Netflix. Vermijd HD (1366 bij 768) als je dichtbij zit."
+      "p": "Onder 300 euro is 4K alleen haalbaar op 43 inch en dan zit je meestal tussen 280 en 300 euro. Full HD scheelt ongeveer 35 tot 50 euro. Op 43 inch en meer dan twee meter afstand zie je het verschil nauwelijks bij tv-zenders, wel bij 4K-series op Netflix. Vermijd HD (1366 bij 768) als je dichtbij zit."
     },
     {
       "h": "Wat je inlevert bij een budget-tv",
@@ -665,11 +650,11 @@
   "faq": [
     {
       "q": "Welke tv onder 300 euro is het beste?",
-      "a": "De Xiaomi TV A Pro 2026 43 inch is de beste tv onder 300 euro. Je krijgt 4K, een QLED-paneel, HDR10+ en Google TV met Chromecast voor 289 euro. Wil je Dolby Vision, kies dan de Hisense 43A7Q voor 299 euro."
+      "a": "De Hisense 43A7Q is de beste tv onder 300 euro. Je krijgt 4K, een QLED-paneel, Dolby Vision en HDR10+ voor 299 euro. Wil je Google TV met meer apps, kies dan de CHiQ U43QST voor 283 euro."
     },
     {
       "q": "Kun je een 4K tv onder 300 euro kopen?",
-      "a": "Ja, op 43 inch. De Xiaomi TV A Pro 2026, de CHiQ U43QST en de Hisense 43A7Q zijn alle drie 4K en kosten tussen 283 en 299 euro. Bij 32 en 40 inch is Full HD of HD de norm in deze prijsklasse."
+      "a": "Ja, op 43 inch. De Hisense 43A7Q en de CHiQ U43QST zijn allebei 4K en kosten 299 en 283 euro. Bij 32 en 40 inch is Full HD of HD de norm in deze prijsklasse."
     },
     {
       "q": "Welk formaat tv koop je voor onder 300 euro?",
@@ -685,7 +670,7 @@
     },
     {
       "q": "Kun je gamen op een tv onder 300 euro?",
-      "a": "Voor casual gamen wel. Zet de gamemodus aan voor een lage input lag. De Xiaomi haalt 120 Hz op lagere resolutie, maar echte 4K op 120 Hz met HDMI 2.1 vind je pas boven de 400 euro."
+      "a": "Voor casual gamen wel. Zet de gamemodus aan voor een lage input lag. Onder 300 euro koop je een 60 Hz-paneel. De Hisense 43A7Q heeft VRR en ALLM voor een console. Echte 4K op 120 Hz met HDMI 2.1 en een 120 Hz-paneel vind je pas bij duurdere tv's."
     },
     {
       "q": "Wat is het verschil tussen QLED en een gewone led-tv?",
@@ -709,30 +694,87 @@
     "keuzes": [
       {
         "h": "Hoe ver zit je van de tv?",
-        "p": "Op ongeveer 2 meter afstand is 43 inch prettig. Daarvoor kies je de nr. 1 Xiaomi TV A Pro 2026 43 inch (€ 289) of de nr. 3 TCL 43S51K (€ 239). Zit je op 1,5 meter of dichterbij, bijvoorbeeld in de slaapkamer of keuken, dan is 32 inch genoeg, zoals de nr. 5 LG 32LQ63006LA of de nr. 10 Philips 32PQS6901/12."
+        "p": "Op ongeveer 2 meter afstand is 43 inch prettig. Daarvoor kies je de nr. 1 Hisense 43A7Q (€ 299) of de nr. 2 CHiQ U43QST (€ 283). Zit je op 1,5 meter of dichterbij, bijvoorbeeld in de slaapkamer of keuken, dan is 32 inch genoeg, zoals de nr. 5 LG 32LQ63006LA of de nr. 7 Philips 32PFS6050/12."
       },
       {
         "h": "Heb je 4K nodig?",
-        "p": "4K haal je onder € 300 alleen op 43 inch: de nr. 1 Xiaomi (€ 289), de nr. 2 Hisense 43A7Q (€ 299) en de nr. 4 CHiQ U43QST (€ 283). Kijk je vooral tv-zenders op meer dan twee meter afstand, dan zie je het verschil met Full HD nauwelijks. Dan bespaar je € 50 met de nr. 3 TCL 43S51K."
+        "p": "4K haal je onder € 300 alleen op 43 inch: de nr. 1 Hisense 43A7Q (€ 299) en de nr. 2 CHiQ U43QST (€ 283). Kijk je vooral tv-zenders op meer dan twee meter afstand, dan zie je het verschil met Full HD nauwelijks. Dan bespaar je € 34 tot € 50 met de nr. 4 CHiQ L43QM10V (€ 249)."
       },
       {
         "h": "Welk smart-tv-systeem wil je?",
-        "p": "Google TV heeft de meeste apps en ingebouwde Chromecast. Dat vind je op de nr. 1 Xiaomi, de nr. 3 TCL en de nr. 4 CHiQ. De nr. 2 Hisense draait op VIDAA en de Philips-modellen (nr. 7 en nr. 10) op Titan OS: snel, maar met minder apps. Check vooraf of jouw streamingdiensten erop staan."
+        "p": "Google TV heeft de meeste apps en ingebouwde Chromecast. Dat vind je op de nr. 2, nr. 3 en nr. 4, de nr. 6 Xiaomi en de nr. 8 CHiQ L40FT. De nr. 1 Hisense draait op VIDAA en de Philips-modellen (nr. 7 en nr. 10) op Titan OS: snel, maar met minder apps. Check vooraf of jouw streamingdiensten erop staan."
       },
       {
         "h": "Kijk je veel films en series?",
-        "p": "Wil je Dolby Vision, dan is de nr. 2 Hisense 43A7Q de enige in deze lijst die het ondersteunt. Verwacht geen echt HDR-effect: daarvoor is minstens 600 nits nodig en geen tv onder € 300 komt daar in de buurt. Reken bij veel films op een soundbar van € 50 tot € 100 extra, omdat de luidsprekers van budget-tv's dun klinken."
+        "p": "Wil je Dolby Vision, dan is de nr. 1 Hisense 43A7Q de enige in deze lijst die het ondersteunt. Verwacht geen echt HDR-effect: daarvoor is minstens 600 nits nodig en geen tv onder € 300 komt daar in de buurt. Reken bij veel films op een soundbar van € 50 tot € 100 extra, omdat de luidsprekers van budget-tv's dun klinken."
       }
     ],
     "wanneer": [
       {
         "rank": 2,
-        "p": "De Hisense 43A7Q past beter als je vooral via Netflix en Disney+ kijkt en Dolby Vision wilt. Hij ondersteunt zowel Dolby Vision als HDR10+, heeft een 4K QLED-paneel en Game Mode Plus met lage input lag. Hij kost € 299, € 10 meer dan de Xiaomi. Daar staat tegenover dat VIDAA minder apps heeft dan Google TV, dus check vooraf of al je diensten erop staan."
+        "p": "De CHiQ U43QST past beter als je Google TV wilt met het ruimste app-aanbod en ingebouwde Chromecast. Je krijgt net als bij de Hisense een 4K QLED-paneel en betaalt € 283, ongeveer € 16 minder. Daar staat tegenover dat Dolby Vision en HDR10+ ontbreken en dat CHiQ in Nederland een kleiner servicenetwerk heeft. Check de garantievoorwaarden van de verkoper."
       },
       {
         "rank": 3,
-        "p": "Kies de TCL 43S51K als je een groot scherm wilt voor zo weinig mogelijk geld. Je krijgt 43 inch QLED met Google TV en Chromecast voor € 239, € 50 minder dan de Xiaomi. Je levert wel 4K in: dit is een Full HD-tv. Kijk je vooral tv-zenders op meer dan twee meter afstand, dan valt dat nauwelijks op. Het geluid is dun."
+        "p": "Kies de TCL 43S51K als je Google TV wilt van een bekender merk en Full HD genoeg vindt. Je krijgt 43 inch QLED met Chromecast. Let op de prijs: bij onze meting van 25 november kostte hij € 279, bijna evenveel als de 4K-tv op nr. 2. Voor Full HD is de nr. 4 CHiQ L43QM10V met € 249 nu goedkoper. Het geluid is dun."
       }
     ]
-  }
+  },
+  "wissels": [
+    {
+      "d": "2026-11-25",
+      "uit": "Xiaomi TV A Pro 2026 43 inch",
+      "in": "CHiQ L43QM10V",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ],
+  "niet_kopen": {
+    "h": "Wanneer je beter geen tv onder 300 euro koopt",
+    "items": [
+      {
+        "b": "Je zit verder dan 2,5 meter van het scherm.",
+        "p": "Op die afstand is 43 inch klein en zie je het verschil tussen 4K en Full HD nauwelijks. Een 50 of 55 inch past dan beter, maar die begint boven dit budget: kijk bij de tv's onder 400 of 500 euro."
+      },
+      {
+        "b": "Je wilt op 120 Hz gamen met een PS5 of Xbox Series X.",
+        "p": "Onder 300 euro koop je een 60 Hz-paneel. Bij de LG 32LQ6300 noteert TechRadar twee HDMI 1.4-poorten en 50/60 Hz. Voor 4K op 120 Hz heb je HDMI 2.1 en een 120 Hz-paneel nodig en die vind je pas bij duurdere tv's."
+      },
+      {
+        "b": "Je kijkt overdag in een zonnige kamer of verwacht echt HDR.",
+        "p": "Waar onafhankelijke metingen bestaan, komen ze uit op 200 tot 350 nits: TechRadar mat 236 nits bij de LG 32LQ6300 en Choose.TV 220 tot 326 nits in HDR bij de Xiaomi A Pro 2026. Voor een zichtbaar HDR-effect is ongeveer 600 nits nodig. Van de meeste andere modellen vonden wij geen gemeten helderheid."
+      },
+      {
+        "b": "Je kijkt vaak met meerdere mensen schuin op het scherm.",
+        "p": "Altroconsumo noemt de kijkhoek van de Hisense 43A7Q vrij smal en Choose.TV mat bij de Xiaomi A Pro 2026 een helderheidsverlies van 63 procent onder een hoek van 45 graden. Zit iedereen recht voor de tv, dan merk je daar weinig van."
+      }
+    ]
+  },
+  "onafhankelijk": {
+    "h": "Wat onafhankelijke tests zeggen",
+    "intro": "Zelf testen wij geen tv's. Deze drie publicaties doen dat wel. Hieronder staat alleen wat op hun pagina's te lezen is over modellen of series uit onze lijst (gelezen op 25 november 2026).",
+    "items": [
+      {
+        "bron": "Altroconsumo (Italiaanse consumentenorganisatie): Hisense 43A7Q",
+        "url": "https://www.altroconsumo.it/hi-tech/televisori/comparatore/hisense-43a7q/15/120933",
+        "p": "Onderzocht de Hisense 43A7Q in oktober 2025 in het lab en geeft 55 van de 100 punten, met het label gemiddelde kwaliteit. Beeldkwaliteit krijgt 3 van 5 sterren, contrast met de beste instellingen 5 van 5, maximale helderheid 3 van 5 en het smart-tv-deel 4 van 5. Het geluid noemt de test teleurstellend, de kijkhoek vrij smal en reflecties goed zichtbaar. Gemeten vermogen: 42 W met fabrieksinstellingen en 58 W na het bijstellen van het beeld. Waar wij afwijken: bij ons staat hij op nr. 1 omdat hij als enige in deze lijst 4K, QLED, Dolby Vision en HDR10+ combineert onder 300 euro. Altroconsumo vergelijkt hem niet met de andere modellen uit onze lijst. Reken op matig geluid en stel het beeld zelf bij."
+      },
+      {
+        "bron": "TechRadar: LG 32LQ6300",
+        "url": "https://www.techradar.com/televisions/lg-32lq6300-review-a-small-reliable-tv-that-packs-great-performance",
+        "p": "Beoordeelde de LG 32LQ6300, de serie van onze nr. 5, met 4 van 5 sterren. In zijn koopgids voor 32 inch tv's (bijgewerkt op 18 november 2026) noemt TechRadar hem de beste 32 inch tv voor de meeste mensen. Gemeten piekhelderheid: 236 nits in de stand Standard en 216 nits in de filmstand, met 81,2 procent dekking van DCI-P3. Minpunten volgens de test: zwart oogt grijzig, de zwartuniformiteit is wisselend en het startmenu is rommelig. De tv heeft twee HDMI 1.4-poorten. Waar wij afwijken: wij zetten hem op nr. 5 omdat onze lijst ook 43 inch tv's met 4K bevat. Binnen de 32 inch modellen staat hij ook bij ons het hoogst."
+      },
+      {
+        "bron": "Choose.TV: Xiaomi A Pro 2026",
+        "url": "https://www.choose.tv/us/tv/reviews/xiaomi/xiaomi-a-pro-2026_AFY/43",
+        "p": "Mat de Xiaomi A Pro 2026 in de 4K-uitvoering (43 tot 75 inch) en geeft een 5,6. De 43 inch uit die serie stond bij ons tot 25 november 2026 op nr. 1 en is nu niet leverbaar bij bol. De 32 inch op nr. 6 is een HD-model dat niet in deze test zit. Gemeten: 220 tot 326 nits in HDR, geen local dimming, 60 Hz in 4K en 120 Hz alleen op 1080p en 1440p. De kijkhoek krijgt een 3 van 10. Als minpunten noemt de test lage helderheid, zwak geluid en haperingen in het systeem. Waar wij afwijken: wij beoordeelden de 43 inch gunstiger dan deze test. Komt hij terug bij bol, dan wegen wij deze metingen mee."
+      }
+    ],
+    "noot": "Van de CHiQ-modellen, de TCL 43S51K, de twee Philips-modellen en de Samsung UE32H5000F vonden wij geen onafhankelijke test die vrij te lezen is. Tests achter een ledenmuur nemen wij niet over."
+  },
+  "changelog": [
+    {
+      "d": "2026-11-25",
+      "t": "De Xiaomi TV A Pro 2026 43 inch is niet meer leverbaar bij bol en ging uit de lijst. De Hisense 43A7Q staat nu op nr. 1 en de CHiQ L43QM10V is nieuw. Toegevoegd: wanneer je beter geen tv onder 300 euro koopt en wat de tests van Altroconsumo, TechRadar en Choose.TV zeggen. Prijzen in de tekst bijgewerkt: TCL 43S51K nu 279 euro, Xiaomi TV A Pro 32 nu 159 euro."
+    }
+  ]
 }

@@ -553,7 +553,7 @@
     {
       "brand": "Triumph Tree",
       "name": "Bristlecone Pilar smal 185 cm",
-      "price": 104.85,
+      "price": 89.99,
       "score": 8.0,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -599,13 +599,13 @@
         "2026-11-22": 89.99,
         "2026-11-23": 101.15,
         "2026-11-24": 104.84,
-        "2026-11-25": 104.85
+        "2026-11-25": 89.99
       },
       "low_price": 89.99,
       "synced": "2026-11-25",
       "ph_ean": "8718861346312",
-      "prev_price": 101.15,
-      "prev_date": "2026-11-23",
+      "prev_price": 104.85,
+      "prev_date": "2026-11-25",
       "rating": 4.9
     }
   ],
