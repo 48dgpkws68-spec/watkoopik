@@ -15,7 +15,8 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-playmobil | speelgoed | playmobil | De 10 beste Playmobil-sets van 2026 | 🏰
 # weekrapport 22 nov 2026 (Black Friday-week, geen goedkope cadeaus): boxspring (24 bol-kliks), kerstbomen (41 kliks + 2 Everlands-orders), tv-cluster (~75 kliks), luchtreiniger (Philips-order + Search Console), dekbedden (21 kliks). Boxspring-regels hierheen verplaatst, niets verwijderd.
 [ ] beste-elektrische-boxspring | slapen | elektrische boxspring | De 10 beste elektrische boxsprings van 2026 | 🛏️
-[ ] beste-boxspring-180x200 | slapen | boxspring 180x200 | De 10 beste boxsprings van 180x200 van 2026 | 🛏️
+[x] beste-boxspring-180x200 | slapen | boxspring 180x200 | De 10 beste boxsprings van 180x200 van 2026 | 🛏️
+[x] beste-qled-tv-onder-500-euro | elektronica | qled tv | De 10 beste QLED-tv's onder 500 euro van 2026 | 📺
 [ ] beste-boxspring-onder-500-euro | slapen | boxspring onder 500 euro | De 10 beste boxsprings onder 500 euro van 2026 | 🛏️
 [ ] beste-kerstverlichting-binnen | wonen | kerstverlichting binnen | De 10 beste kerstlampjes voor binnen van 2026 | 💡
 [x] beste-kunstkerstboom-met-verlichting-210-cm | wonen | kunstkerstboom met verlichting 210 cm | De 10 beste kunstkerstbomen met verlichting van 210 cm van 2026 | 🎄
