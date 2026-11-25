@@ -56,11 +56,12 @@
         "2026-11-21": 1299.0,
         "2026-11-22": 1299.0,
         "2026-11-23": 1299.0,
-        "2026-11-24": 1299.0
+        "2026-11-24": 1299.0,
+        "2026-11-25": 1299.0
       },
       "low_price": 1299.0,
       "ph_ean": "0195950687408",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "ASUS",
@@ -106,11 +107,12 @@
         "2026-11-21": 699.0,
         "2026-11-22": 699.0,
         "2026-11-23": 699.0,
-        "2026-11-24": 699.0
+        "2026-11-24": 699.0,
+        "2026-11-25": 699.0
       },
       "low_price": 699.0,
       "ph_ean": "4711387879306",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "rating": 4.5
     },
     {
@@ -145,7 +147,7 @@
       "bol_title": "Apple MacBook Pro 2024 16,2'' - M4 Pro, 14 Core CPU, 20 Core GPU, 24GB RAM, 512GB SSD, Qwerty, Space Zwart",
       "url": "https://www.bol.com/nl/nl/p/apple-macbook-pro-2024-16-2-m4-pro-14-core-cpu-20-core-gpu-24gb-ram-512gb-ssd-qwerty-space-zwart/9300000195338163/",
       "image": "https://media.s-bol.com/3qKoRmJjPjZp/W6vlQk4/550x335.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-14": 2599.0,
         "2026-10-15": 2599.0,
@@ -186,7 +188,8 @@
         "2026-11-21": 2699.0,
         "2026-11-22": 2699.0,
         "2026-11-23": 2699.0,
-        "2026-11-24": 2699.0
+        "2026-11-24": 2699.0,
+        "2026-11-25": 2699.0
       },
       "low_price": 2599.0,
       "prev_price": 2599.0,
@@ -247,10 +250,11 @@
         "2026-11-21": 1399.0,
         "2026-11-22": 1399.0,
         "2026-11-23": 1399.0,
-        "2026-11-24": 1399.0
+        "2026-11-24": 1399.0,
+        "2026-11-25": 1399.0
       },
       "low_price": 1399.0,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "prev_price": 1673.0,
       "prev_date": "2026-11-12",
       "ph_ean": "0196388733477"
@@ -258,7 +262,7 @@
     {
       "brand": "Dell",
       "name": "XPS 13 9350 Intel Core Ultra 7 258V",
-      "price": 1691.0,
+      "price": 1690.0,
       "score": 8.7,
       "label": null,
       "reviews": "",
@@ -287,7 +291,7 @@
       "bol_title": "DELL XPS 13 9350 - Zakelijke Copilot+ Laptop - Intel Core Ultra 7 - 13.4 inch - 16 GB/512 GB - Windows 11 Pro",
       "url": "https://www.bol.com/nl/nl/p/dell-xps-13-9350-intel-core-ultra-7-256v-laptop-34-cm-full-hd-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-7-windows-11-pro-platina/9300000220261295/",
       "image": "https://media.s-bol.com/BJ4NYYqM8Avk/MjQ89DB/550x352.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-15": 1729.0,
         "2026-10-16": 1729.0,
@@ -327,11 +331,12 @@
         "2026-11-21": 1699.0,
         "2026-11-22": 1699.0,
         "2026-11-23": 1699.0,
-        "2026-11-24": 1691.0
+        "2026-11-24": 1691.0,
+        "2026-11-25": 1690.0
       },
-      "low_price": 1691.0,
-      "prev_price": 1699.0,
-      "prev_date": "2026-11-23",
+      "low_price": 1690.0,
+      "prev_price": 1691.0,
+      "prev_date": "2026-11-24",
       "ph_ean": "5397184928967"
     },
     {
@@ -366,7 +371,7 @@
       "bol_title": "ASUS Vivobook S14 OLED M3407KA-SFNADW - Copilot+ Laptop - 14 inch - Ryzen AI 5 - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/asus-vivobook-s14-oled-m3407ka-sfnadw-copilot-laptop-14-inch-ryzen-ai-5-16gb-512gb/9300000275890875/",
       "image": "https://media.s-bol.com/Jm7KoB4jEpXl/BL1QZRQ/550x385.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-15": 1099.0,
         "2026-10-16": 1099.0,
@@ -406,7 +411,8 @@
         "2026-11-21": 799.0,
         "2026-11-22": 799.0,
         "2026-11-23": 799.0,
-        "2026-11-24": 799.0
+        "2026-11-24": 799.0,
+        "2026-11-25": 799.0
       },
       "low_price": 799.0,
       "prev_price": 1099.0,
@@ -445,7 +451,7 @@
       "bol_title": "Lenovo LOQ 15AHP10 - Gaming Laptop - 15.6 inch - Ryzen 7 250 - RTX 5050 - 16 GB/512 GB - 144 Hz",
       "url": "https://www.bol.com/nl/nl/p/lenovo-loq-15ahp10-amd-ryzen-7-250-laptop-39-6-cm-full-hd-16-gb-ddr5-sdram-512-gb-ssd-nvidia-geforce-rtx-5050-wi-fi-6-windows-11-home-engels-grijs/9300000231792217/",
       "image": "https://media.s-bol.com/q4qv5BGYG2Lk/lOv6oG6/550x473.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-24": 1549.0,
         "2026-10-25": 1549.0,
@@ -477,7 +483,8 @@
         "2026-11-21": 1299.0,
         "2026-11-22": 1299.0,
         "2026-11-23": 1299.0,
-        "2026-11-24": 1299.0
+        "2026-11-24": 1299.0,
+        "2026-11-25": 1299.0
       },
       "low_price": 1299.0,
       "prev_price": 1549.0,
@@ -514,7 +521,7 @@
       "ideal": "Fanatieke gamers die een snel scherm en veel prestaties per euro willen.",
       "text": "De ROG Strix G16 is de middenklasser in de gaminglijn van ASUS en deze G614PP-versie draait op een NVIDIA RTX 5070. Dat is een stap hoger dan de RTX 5060 in de Acer Nitro V 15 uit deze lijst. In combinatie met DLSS 4 haal je in moderne games hoge framerates, ook op hogere instellingen. Het 16 inch scherm van 240 Hz laat die snelheid ook echt zien. Voor shooters en racegames is dat een groot voordeel tegenover een standaard 60 of 144 Hz-paneel.\n\nASUS combineert de videokaart met een AMD Ryzen 9-processor en geeft de Strix een stevige koeling met meerdere ventilatoren, die onder volle belasting goed hoorbaar zijn. Via Armoury Crate kies je tussen een stille stand en maximale prestaties. Met ongeveer 2,5 kilo is dit duidelijk een desktopvervanger en de accu houdt het tijdens gamen niet lang vol. Kopers op bol geven hem tot nu toe de hoogste score. Zoek je veel gamekracht met een snel scherm, dan zit je hier goed.",
       "ean": "4711387940549",
-      "bol_title": "ASUS ROG Strix G16 G614PP-RV046W",
+      "bol_title": "ASUS ROG Strix G16 G614PP-RV046W - QWERTY",
       "url": "https://www.bol.com/nl/nl/p/asus-rog-strix-g16-g614pp-rv046w-16-amd-ryzen-9-rtx-5070-qwerty/9300000332341638/",
       "image": "https://media.s-bol.com/R9wVLDOEDBwY/nxZPw4R/550x418.jpg",
       "ph": {
@@ -532,9 +539,10 @@
         "2026-11-21": 1826.95,
         "2026-11-22": 1826.95,
         "2026-11-23": 1826.95,
-        "2026-11-24": 1826.95
+        "2026-11-24": 1826.95,
+        "2026-11-25": 1826.95
       },
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "low_price": 1749.0,
       "prev_price": 1749.0,
       "prev_date": "2026-11-10",
@@ -600,10 +608,11 @@
         "2026-11-21": 1299.0,
         "2026-11-22": 1299.0,
         "2026-11-23": 1299.0,
-        "2026-11-24": 1299.0
+        "2026-11-24": 1299.0,
+        "2026-11-25": 1299.0
       },
       "low_price": 1299.0,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "prev_price": 1409.0,
       "prev_date": "2026-11-16",
       "ph_ean": "4711721048832",
@@ -640,7 +649,7 @@
       "bol_title": "Lenovo IdeaPad Slim 3 15AMN8 - Laptop - 15.6 inch - Ryzen 5 - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/lenovo-ideapad-slim-3-15amn8-amd-ryzen-5-40-laptop-39-6-cm-full-hd-16-gb-lpddr5-sdram-512-gb-ssd-wi-fi-6-windows-11-home-engels-grijs/9300000263613346/",
       "image": "https://media.s-bol.com/y3K2r6OAPM46/gL5Z2D3/550x427.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-16": 599.0,
         "2026-10-17": 599.0,
@@ -679,7 +688,8 @@
         "2026-11-21": 599.0,
         "2026-11-22": 599.0,
         "2026-11-23": 599.0,
-        "2026-11-24": 599.0
+        "2026-11-24": 599.0,
+        "2026-11-25": 599.0
       },
       "low_price": 599.0,
       "prev_price": 679.0,

@@ -50,7 +50,7 @@
       "bol_title": "Samsung Galaxy S26 Ultra - 512GB - White",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-s26-ultra-512gb-wit/9300000265030585/",
       "image": "https://media.s-bol.com/R3n3wMLWPNYK/GRQ6mjJ/550x558.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-16": 1059.0,
         "2026-10-17": 1059.0,
@@ -100,7 +100,7 @@
     {
       "brand": "Apple",
       "name": "iPhone 17 Pro 256GB",
-      "price": 1249.0,
+      "price": 1259.0,
       "score": 9.3,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -128,7 +128,7 @@
       "bol_title": "Apple iPhone 17 Pro - 256GB - Deep Blue",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-17-pro-256gb-blauw/9300000240171759/",
       "image": "https://media.s-bol.com/38E2Q7y4Aky9/Y6rooy0/550x679.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-16": 1138.0,
         "2026-10-17": 1137.0,
@@ -167,18 +167,19 @@
         "2026-11-21": 1249.0,
         "2026-11-22": 1249.0,
         "2026-11-23": 1249.0,
-        "2026-11-24": 1249.0
+        "2026-11-24": 1249.0,
+        "2026-11-25": 1259.0
       },
       "low_price": 999.0,
-      "prev_price": 1195.0,
-      "prev_date": "2026-11-20",
+      "prev_price": 1249.0,
+      "prev_date": "2026-11-24",
       "ph_ean": "0195950627640",
       "rating": 4.7
     },
     {
       "brand": "Apple",
       "name": "iPhone 17 Pro Max 256GB",
-      "price": 1259.0,
+      "price": 1334.95,
       "score": 9.2,
       "label": "Beste premium",
       "reviews": "bol-score 4,8 van 5",
@@ -206,7 +207,7 @@
       "bol_title": "Apple iPhone 17 Pro Max - 256GB - Deep Blue",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-17-pro-max-256gb-donkerblauw/9300000240171709/",
       "image": "https://media.s-bol.com/rDBR2gJVGEVE/X6qmmrk/550x679.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-16": 1189.0,
         "2026-10-17": 1199.0,
@@ -245,18 +246,19 @@
         "2026-11-21": 1259.0,
         "2026-11-22": 1259.0,
         "2026-11-23": 1259.0,
-        "2026-11-24": 1259.0
+        "2026-11-24": 1259.0,
+        "2026-11-25": 1334.95
       },
       "low_price": 1188.99,
-      "prev_price": 1295.0,
-      "prev_date": "2026-11-20",
+      "prev_price": 1259.0,
+      "prev_date": "2026-11-24",
       "ph_ean": "0195950639292",
       "rating": 4.8
     },
     {
       "brand": "Google",
       "name": "Pixel 10 Pro 16GB/128GB",
-      "price": 699.0,
+      "price": 563.0,
       "score": 9.0,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -285,7 +287,7 @@
       "bol_title": "Google Pixel 10 Pro - 5G - 16GB/128GB - Grijs",
       "url": "https://www.bol.com/nl/nl/p/google-pixel-10-pro-5g-16gb-128gb-maansteen-dual-sim/9300000238634865/",
       "image": "https://media.s-bol.com/gmKmk70l8yxl/6Wz8xjN/550x650.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-16": 719.9,
         "2026-10-17": 719.9,
@@ -324,18 +326,19 @@
         "2026-11-21": 699.0,
         "2026-11-22": 699.0,
         "2026-11-23": 699.0,
-        "2026-11-24": 699.0
+        "2026-11-24": 699.0,
+        "2026-11-25": 563.0
       },
       "low_price": 563.0,
-      "prev_price": 563.0,
-      "prev_date": "2026-11-14",
+      "prev_price": 699.0,
+      "prev_date": "2026-11-24",
       "ph_ean": "0840353926035",
       "rating": 5.0
     },
     {
       "brand": "Apple",
       "name": "iPhone 17 256GB",
-      "price": 959.0,
+      "price": 949.0,
       "score": 9.0,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -363,7 +366,7 @@
       "bol_title": "Apple iPhone 17 - 256GB - Black",
       "url": "https://www.bol.com/nl/nl/p/apple-iphone-17-256gb-zwart/9300000240171936/",
       "image": "https://media.s-bol.com/E3g6NGkDRO10/167plJo/550x682.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-16": 929.0,
         "2026-10-17": 959.0,
@@ -402,18 +405,19 @@
         "2026-11-21": 947.0,
         "2026-11-22": 947.0,
         "2026-11-23": 946.0,
-        "2026-11-24": 959.0
+        "2026-11-24": 959.0,
+        "2026-11-25": 949.0
       },
       "low_price": 885.99,
-      "prev_price": 946.0,
-      "prev_date": "2026-11-23",
+      "prev_price": 959.0,
+      "prev_date": "2026-11-24",
       "ph_ean": "0195950643589",
       "rating": 4.7
     },
     {
       "brand": "Samsung",
       "name": "Galaxy S26 256GB",
-      "price": 689.0,
+      "price": 759.0,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -441,7 +445,7 @@
       "bol_title": "Samsung Galaxy S26 - 256GB - Sky Blue",
       "url": "https://www.bol.com/nl/nl/p/samsung-sm-s942blbgeub-smartphone-6-3-inch-dynamic-amoled-256gb-opslag/9300000265030584/",
       "image": "https://media.s-bol.com/vG5GxZj5GyzV/lRMYK5j/550x559.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-16": 715.9,
         "2026-10-17": 715.9,
@@ -480,18 +484,19 @@
         "2026-11-21": 697.99,
         "2026-11-22": 697.99,
         "2026-11-23": 708.99,
-        "2026-11-24": 689.0
+        "2026-11-24": 689.0,
+        "2026-11-25": 759.0
       },
       "low_price": 679.0,
-      "prev_price": 708.99,
-      "prev_date": "2026-11-23",
+      "prev_price": 689.0,
+      "prev_date": "2026-11-24",
       "ph_ean": "8806097827634",
       "rating": 4.5
     },
     {
       "brand": "Nothing",
       "name": "Phone (3) 16GB/512GB",
-      "price": 669.84,
+      "price": 629.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -523,13 +528,14 @@
       "ph": {
         "2026-11-22": 629.0,
         "2026-11-23": 629.0,
-        "2026-11-24": 669.84
+        "2026-11-24": 669.84,
+        "2026-11-25": 629.0
       },
       "low_price": 629.0,
       "ph_ean": "6974434226180",
-      "synced": "2026-11-24",
-      "prev_price": 629.0,
-      "prev_date": "2026-11-23"
+      "synced": "2026-11-25",
+      "prev_price": 669.84,
+      "prev_date": "2026-11-24"
     },
     {
       "brand": "Xiaomi",
@@ -568,10 +574,11 @@
         "2026-11-21": 689.0,
         "2026-11-22": 689.0,
         "2026-11-23": 689.0,
-        "2026-11-24": 689.0
+        "2026-11-24": 689.0,
+        "2026-11-25": 689.0
       },
       "low_price": 689.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Google",
@@ -602,7 +609,7 @@
       "ideal": "Wie een betrouwbare telefoon met goede camera zoekt voor een middenbudget.",
       "text": "De Pixel 10a is de beste smartphone voor je geld in 2026. Voor 429 euro krijg je een 6,3 inch scherm met 2424 x 1080 pixels, een accu van 5100 mAh en een camera met een hoofdsensor van 48 megapixel. Dankzij de beeldverwerking van Google maakt hij foto's die in veel situaties nauwelijks onderdoen voor toestellen van het dubbele bedrag, vooral bij portretten en in het donker.\n\nNet als bij de duurdere Pixels belooft Google zeven jaar updates, uitzonderlijk lang voor een middenklasser. Daardoor kun je dit toestel jaren veilig gebruiken. Het toestel is waterdicht volgens IP68. Kopers op bol geven hem een 4,9 en noemen de accuduur en de schone Android-software als pluspunten. Er is geen telelens en 128 GB opslag is beperkt als je veel filmt. Voor de meeste mensen is dit genoeg telefoon.",
       "ean": "0840353949737",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "bol_title": "Google Pixel 10a - 8GB/128GB - Zwart",
       "url": "https://www.bol.com/nl/nl/p/google-pixel-10a-16-cm-dual-sim-android-16-0-5g-usb-type-c-8-gb-128-gb-5100-mah-zwart/9300000262830462/",
       "image": "https://media.s-bol.com/R3n3n0MJ2Z8q/LZ5gvmv/550x664.jpg",
@@ -637,7 +644,8 @@
         "2026-11-21": 469.0,
         "2026-11-22": 469.0,
         "2026-11-23": 469.0,
-        "2026-11-24": 469.0
+        "2026-11-24": 469.0,
+        "2026-11-25": 469.0
       },
       "low_price": 419.0,
       "prev_price": 439.0,
@@ -651,7 +659,7 @@
       "price": 406.99,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betaalbare Samsung met groot scherm en 256 GB.",
       "specs": {
         "Scherm": "6,7 inch, 2340 x 1080",
@@ -676,7 +684,7 @@
       "bol_title": "Samsung Galaxy A57 5G - 256GB - Awesome Icyblue",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a57-5g-256gb-lichtblauw/9300000271900485/",
       "image": "https://media.s-bol.com/Rz2436PvRNpL/zK6Q1ZY/550x663.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-16": 399.0,
         "2026-10-17": 399.0,
@@ -715,13 +723,14 @@
         "2026-11-21": 408.99,
         "2026-11-22": 408.99,
         "2026-11-23": 416.99,
-        "2026-11-24": 406.99
+        "2026-11-24": 406.99,
+        "2026-11-25": 406.99
       },
       "low_price": 389.0,
       "prev_price": 416.99,
       "prev_date": "2026-11-23",
       "ph_ean": "8806099025885",
-      "rating": 4.6
+      "rating": 4.7
     }
   ],
   "guide": [

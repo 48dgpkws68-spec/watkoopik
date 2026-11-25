@@ -22,6 +22,7 @@
   "meta_title": "Beste smartphone onder 200 euro 2026: 10 telefoons vergeleken",
   "meta_desc": "De beste smartphone onder 200 euro van 2026 is de {top}. Tien goedkope telefoons vergeleken op scherm, accu, updates en dagprijs bij bol.",
   "rel": [
+    "beste-smartphone-met-goede-camera-onder-300-euro",
     "beste-smartphone-onder-300-euro",
     "beste-smartphone",
     "beste-samsung-smartphone"
@@ -84,10 +85,10 @@
     {
       "brand": "Samsung",
       "name": "Galaxy A17 5G 128GB",
-      "price": 188.99,
+      "price": 185.99,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "AMOLED, camera met OIS en zes jaar updates onder 200 euro.",
       "specs": {
         "Scherm": "6,7 inch AMOLED, 90 Hz",
@@ -113,12 +114,15 @@
       "url": "https://www.bol.com/nl/nl/p/smartphone-samsung-galaxy-a17-5g-6-7-128-gb-zwart-6-gb-ram/9300000237500868/",
       "image": "https://media.s-bol.com/90B0MAJDZ1Zz/281R3kW/550x664.jpg",
       "ph": {
-        "2026-11-24": 188.99
+        "2026-11-24": 188.99,
+        "2026-11-25": 185.99
       },
-      "low_price": 188.99,
+      "low_price": 185.99,
       "ph_ean": "8806097642671",
-      "rating": 4.7,
-      "synced": "2026-11-24"
+      "rating": 4.6,
+      "synced": "2026-11-25",
+      "prev_price": 188.99,
+      "prev_date": "2026-11-24"
     },
     {
       "brand": "Samsung",
@@ -153,17 +157,18 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a17-4g-128gb-black-1-jaar-extra-garantie/9300000236944106/",
       "image": "https://media.s-bol.com/YLMYXNERZAq9/WnmAYXJ/550x665.jpg",
       "ph": {
-        "2026-11-24": 168.95
+        "2026-11-24": 168.95,
+        "2026-11-25": 168.95
       },
       "low_price": 168.95,
       "ph_ean": "8806097863854",
       "rating": 4.5,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Honor",
       "name": "400 Smart 4G 8/256GB",
-      "price": 189.0,
+      "price": 179.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -193,12 +198,15 @@
       "url": "https://www.bol.com/nl/nl/p/honor-400-smart-4g-8gb-256gb-velvet-black/9300000243353442/",
       "image": "https://media.s-bol.com/ozN6PxEJQK3B/KOV334G/550x664.jpg",
       "ph": {
-        "2026-11-24": 189.0
+        "2026-11-24": 189.0,
+        "2026-11-25": 179.0
       },
-      "low_price": 189.0,
+      "low_price": 179.0,
       "ph_ean": "6936520876358",
       "rating": 5.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25",
+      "prev_price": 189.0,
+      "prev_date": "2026-11-24"
     },
     {
       "brand": "Honor",
@@ -233,16 +241,17 @@
       "url": "https://www.bol.com/nl/nl/p/6-7-2412-x-1080-mediatek-dimensity-6080-8-256gb-5g-108-5-2mp-50mp-wi-fi-bluetooth-5-1-4500-mah-magicos-8-0/9300000187954446/",
       "image": "https://media.s-bol.com/ZE9pK6xLOrpg/68KXyyn/297x840.jpg",
       "ph": {
-        "2026-11-24": 189.0
+        "2026-11-24": 189.0,
+        "2026-11-25": 189.0
       },
       "low_price": 189.0,
       "ph_ean": "6936520841141",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Motorola",
       "name": "moto g35 5G 128GB",
-      "price": 188.85,
+      "price": 181.92,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 3,8 van 5",
@@ -272,12 +281,15 @@
       "url": "https://www.bol.com/nl/nl/p/motorola-moto-g35-5g-8-128gb-midnight-black/9300000187480220/",
       "image": "https://media.s-bol.com/Mn74oNwG4GzA/gJ8kk9Y/550x686.jpg",
       "ph": {
-        "2026-11-24": 188.85
+        "2026-11-24": 188.85,
+        "2026-11-25": 181.92
       },
-      "low_price": 188.85,
+      "low_price": 181.92,
       "ph_ean": "0840023269271",
       "rating": 3.8,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25",
+      "prev_price": 188.85,
+      "prev_date": "2026-11-24"
     },
     {
       "brand": "Samsung",
@@ -312,12 +324,13 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a07-128gb-black/9300000238677141/",
       "image": "https://media.s-bol.com/xMkqyGM6JrLr/qjMmAlr/550x679.jpg",
       "ph": {
-        "2026-11-24": 158.5
+        "2026-11-24": 158.5,
+        "2026-11-25": 158.5
       },
       "low_price": 158.5,
       "ph_ean": "8806097652205",
       "rating": 4.8,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Motorola",
@@ -352,11 +365,12 @@
       "url": "https://www.bol.com/nl/nl/p/motorola-moto-g17-17-1-cm-dual-sim-android-15-usb-type-c-4-gb-128-gb-5200-mah-paars/9300000267172521/",
       "image": "https://media.s-bol.com/rz0g01E8X342/K8j4Q3Y/550x666.jpg",
       "ph": {
-        "2026-11-24": 163.0
+        "2026-11-24": 163.0,
+        "2026-11-25": 163.0
       },
       "low_price": 163.0,
       "ph_ean": "0840493624310",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "OPPO",
@@ -391,12 +405,13 @@
       "url": "https://www.bol.com/nl/nl/p/oppo-a40-4gb-128gb-sparkle-zwart/9300000187560294/",
       "image": "https://media.s-bol.com/1Ok5zBoBxPE0/DkVLA6Y/550x708.jpg",
       "ph": {
-        "2026-11-24": 189.99
+        "2026-11-24": 189.99,
+        "2026-11-25": 189.99
       },
       "low_price": 189.99,
       "ph_ean": "6932169353984",
       "rating": 4.4,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Xiaomi",
@@ -431,12 +446,13 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-redmi-15c-4gb-ram-128gb-rom-zwart/9300000236139511/",
       "image": "https://media.s-bol.com/Y3nrwpM4EoPn/jYOyKmv/400x840.jpg",
       "ph": {
-        "2026-11-24": 169.9
+        "2026-11-24": 169.9,
+        "2026-11-25": 169.9
       },
       "low_price": 169.9,
       "ph_ean": "6932554444860",
       "rating": 3.3,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Motorola",
@@ -471,12 +487,13 @@
       "url": "https://www.bol.com/nl/nl/p/motorola-moto-g15-4g-4gb-128gb-blauw-dual-sim/9300000228872524/",
       "image": "https://media.s-bol.com/J3rVD1qBNKGg/57VWykx/550x720.jpg",
       "ph": {
-        "2026-11-24": 124.0
+        "2026-11-24": 124.0,
+        "2026-11-25": 124.0
       },
       "low_price": 124.0,
       "ph_ean": "0840023291227",
       "rating": 5.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     }
   ]
 }

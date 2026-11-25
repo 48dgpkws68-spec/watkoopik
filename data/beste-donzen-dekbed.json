@@ -37,7 +37,7 @@
       "price": 465.4,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,8 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Volumineus winterdekbed van Poolse ganzendons met vulkracht 700+.",
       "specs": {
         "Maat": "200x200 cm",
@@ -68,12 +68,13 @@
       "image": "https://media.s-bol.com/qpV8WZn0X533/JEGxXy/550x550.jpg",
       "ph": {
         "2026-11-23": 465.4,
-        "2026-11-24": 465.4
+        "2026-11-24": 465.4,
+        "2026-11-25": 465.4
       },
       "low_price": 465.4,
       "ph_ean": "3800235196984",
-      "rating": 4.8,
-      "synced": "2026-11-24"
+      "rating": 4.3,
+      "synced": "2026-11-25"
     },
     {
       "brand": "Ten Cate",
@@ -111,12 +112,13 @@
       "image": "https://media.s-bol.com/qzmO7nJZNJ10/PjgzlAn/550x463.jpg",
       "ph": {
         "2026-11-23": 399.99,
-        "2026-11-24": 399.99
+        "2026-11-24": 399.99,
+        "2026-11-25": 399.99
       },
       "low_price": 399.99,
       "ph_ean": "8718719728499",
       "rating": 4.7,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Ducky Dons",
@@ -154,12 +156,13 @@
       "image": "https://media.s-bol.com/7JMw1qEJ5pj8/Br4j4k/550x335.jpg",
       "ph": {
         "2026-11-23": 369.0,
-        "2026-11-24": 369.0
+        "2026-11-24": 369.0,
+        "2026-11-25": 369.0
       },
       "low_price": 369.0,
       "ph_ean": "8718719723319",
       "rating": 5.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Silently",
@@ -197,17 +200,18 @@
       "image": "https://media.s-bol.com/JOE52GZJnVJ/550x474.jpg",
       "ph": {
         "2026-11-23": 269.0,
-        "2026-11-24": 269.0
+        "2026-11-24": 269.0,
+        "2026-11-25": 269.0
       },
       "low_price": 269.0,
       "ph_ean": "7434043298224",
       "rating": 4.8,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Castella",
       "name": "Sirius 90% Eendendons 4-Seizoenen Dekbed 200x220",
-      "price": 279.0,
+      "price": 289.0,
       "score": 8.9,
       "label": "",
       "reviews": "bol-score 4,6 van 5",
@@ -240,14 +244,15 @@
       "image": "https://media.s-bol.com/7P2PELVQz0LO/vQRQ7mX/550x362.jpg",
       "ph": {
         "2026-11-23": 289.0,
-        "2026-11-24": 279.0
+        "2026-11-24": 279.0,
+        "2026-11-25": 289.0
       },
       "low_price": 279.0,
       "ph_ean": "8720701885332",
       "rating": 4.6,
-      "synced": "2026-11-24",
-      "prev_price": 289.0,
-      "prev_date": "2026-11-23"
+      "synced": "2026-11-25",
+      "prev_price": 279.0,
+      "prev_date": "2026-11-24"
     },
     {
       "brand": "Ten Cate",
@@ -285,12 +290,13 @@
       "image": "https://media.s-bol.com/L3wK6xNnQGxg/jY5YDB4/550x452.jpg",
       "ph": {
         "2026-11-23": 249.99,
-        "2026-11-24": 249.99
+        "2026-11-24": 249.99,
+        "2026-11-25": 249.99
       },
       "low_price": 249.99,
       "ph_ean": "8718719726396",
       "rating": 4.7,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Elegance",
@@ -328,12 +334,13 @@
       "image": "https://media.s-bol.com/mLRBZ5EAqZO/550x271.jpg",
       "ph": {
         "2026-11-23": 239.95,
-        "2026-11-24": 239.95
+        "2026-11-24": 239.95,
+        "2026-11-25": 239.95
       },
       "low_price": 239.95,
       "ph_ean": "7110939546722",
       "rating": 4.6,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Nordic Paradise",
@@ -371,12 +378,13 @@
       "image": "https://media.s-bol.com/gWEzVokJMpRr/0RDg7J5/550x531.jpg",
       "ph": {
         "2026-11-23": 237.02,
-        "2026-11-24": 237.02
+        "2026-11-24": 237.02,
+        "2026-11-25": 237.02
       },
       "low_price": 237.02,
       "ph_ean": "3800235190982",
       "rating": 4.4,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "sleepling",
@@ -415,11 +423,12 @@
       "image": "https://media.s-bol.com/BWVkkDm0LWDQ/qY723q0/550x286.jpg",
       "ph": {
         "2026-11-23": 229.99,
-        "2026-11-24": 229.99
+        "2026-11-24": 229.99,
+        "2026-11-25": 229.99
       },
       "low_price": 229.99,
       "ph_ean": "4251342703937",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Apollo",
@@ -458,12 +467,13 @@
       "image": "https://media.s-bol.com/N4AZjQVAOAyN/oVlDggA/550x364.jpg",
       "ph": {
         "2026-11-23": 209.0,
-        "2026-11-24": 209.0
+        "2026-11-24": 209.0,
+        "2026-11-25": 209.0
       },
       "low_price": 209.0,
       "ph_ean": "8720618169037",
       "rating": 4.2,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     }
   ],
   "guide": [

@@ -258,6 +258,7 @@ def kort_antwoord(g, ps):
     d = nldate(max((p.get("synced") or g.get("updated", TODAY.isoformat())) for p in ok))
     nm = lambda p: "%s %s" % (p["brand"], p["name"])
     s = "Kort antwoord (prijzen gecontroleerd op %s): de beste keuze is de <b>%s</b> voor %s bij bol." % (e(d), e(nm(top)), eur(top["price"]))
+    if g.get("kort_reden"): s += " " + e(g["kort_reden"])  # 25 nov 2026 (N54): optionele reden voor nr. 1
     if bv and bv is not lo: s += " Beste prijs-kwaliteit: %s voor %s." % (e(nm(bv)), eur(bv["price"]))
     if lo is not top: s += " Goedkoopste in deze top %d: %s voor %s." % (len(ps), e(nm(lo)), eur(lo["price"]))
     return '<p class="kort">%s</p>' % s

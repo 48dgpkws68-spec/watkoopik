@@ -348,3 +348,4 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-kunstkerstboom-240-cm | wonen | kunstkerstboom 240 cm | De 10 beste kunstkerstbomen van 240 cm van 2026 | 🎄 (google_wacht)
 [x] beste-tv-65-inch-onder-600-euro | elektronica | 65 inch tv onder 600 euro | De 10 beste tv's van 65 inch onder 600 euro van 2026 | 📺 (google_wacht)
 [x] beste-winterdekbed-onder-100-euro | slapen | winterdekbed onder 100 euro | De 10 beste winterdekbedden onder 100 euro van 2026 | ❄️ (google_wacht)
+[x] beste-smartphone-met-goede-camera-onder-300-euro | telefoon | smartphone met goede camera onder 300 euro | De 10 beste smartphones met een goede camera onder 300 euro van 2026 | 📷 (google_wacht, N54: Bing-vraag telefoon onder 300 met beste camera; gelinkt vanuit onder-200 en onder-300)

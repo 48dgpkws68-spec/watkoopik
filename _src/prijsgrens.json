@@ -1,4 +1,17 @@
 {
- "datum": "2026-11-24",
- "overtreders": []
+ "datum": "2026-11-25",
+ "overtreders": [
+  {
+   "slug": "beste-cadeau-voor-hem-onder-50-euro",
+   "grens": 50,
+   "plek": 3,
+   "product": "Braun Series 3 300s scheerapparaat",
+   "prijs": 51.47,
+   "ean": "4210201163305",
+   "laagste_30d": 48.46,
+   "dagen_boven": 5,
+   "dagen_gemeten": 32,
+   "reden": "boven grens"
+  }
+ ]
 }

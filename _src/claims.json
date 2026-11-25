@@ -1,1 +1,162 @@
-[]
+[
+ {
+  "gids": "beste-keramische-kachel",
+  "p": 4,
+  "naam": "Intense Comfort SO9360",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.7,
+  "bol": 4.5,
+  "zin": "e verplaatst hem makkelijk van kamer naar kamer. Op bol heeft hij een score van 4,7 van 5. Voor een badkamer is hij niet bedoeld."
+ },
+ {
+  "gids": "beste-kerstcadeau-voor-kinderen",
+  "p": 8,
+  "naam": "City Mega Garage",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.5,
+  "bol": 5.0,
+  "zin": "setje extra auto's maakt het cadeau compleet. Kopers op bol geven de garage een 4,5 van 5. Hij werkt zonder batterijen, maar neem"
+ },
+ {
+  "gids": "beste-loopband",
+  "p": 3,
+  "naam": "Senator iPlus",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.3,
+  "bol": 4.4,
+  "zin": "ouden op je telefoon of tablet. Kopers op bol geven de Focus Fitness-loopbanden gemiddeld een 4,3 en noemen vooral de stevige bouw en de "
+ },
+ {
+  "gids": "beste-sinterklaas-schoencadeautjes",
+  "p": 5,
+  "naam": "PAW Patrol Stickerpuzzel doeboek",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.6,
+  "bol": 4.7,
+  "zin": "er spelenderwijs cijfers mee en trainen hun fijne motoriek. Kopers op bol geven gemiddeld een 4,6. Het is een boek waar een kind zelfstan"
+ },
+ {
+  "gids": "beste-sinterklaas-schoencadeautjes",
+  "p": 5,
+  "naam": "PAW Patrol Stickerpuzzel doeboek",
+  "veld": "pros[0]",
+  "soort": "score",
+  "claim": 4.6,
+  "bol": 4.7,
+  "zin": "Kopers op bol geven gemiddeld een 4,6"
+ },
+ {
+  "gids": "beste-smartphone-onder-200-euro",
+  "p": 0,
+  "naam": "Galaxy A17 5G 128GB",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.7,
+  "bol": 4.6,
+  "zin": "izing is 7,5 mm dun en spatwaterdicht volgens IP54. Kopers op bol geven hem een 4,7 van 5. Minpunten zijn de 4 GB werkgeheugen, w"
+ },
+ {
+  "gids": "beste-smartphone-onder-300-euro",
+  "p": 9,
+  "naam": "Galaxy A17 5G 128GB",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.7,
+  "bol": 4.6,
+  "zin": "ens IP54 en het scherm wordt beschermd door Gorilla Glass Victus. Kopers op bol geven hem een 4,7. Met 4 GB werkgeheugen is hij wel trage"
+ },
+ {
+  "gids": "beste-smartphone",
+  "p": 9,
+  "naam": "Galaxy A57 5G 256GB",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.5,
+  "bol": 4.7,
+  "zin": "e processor ruim voldoende, maar zware games lopen minder soepel. Kopers op bol geven hem een 4,5 en noemen vooral het scherm en de accud"
+ },
+ {
+  "gids": "beste-steelstofzuiger",
+  "p": 9,
+  "naam": "Clean 5000 AP51UH18DG",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.4,
+  "bol": 4.3,
+  "zin": "s, zodat je hem ook als kruimeldief voor de auto of de bank gebruikt. Gemiddeld 4,4 sterren bij kopers op bol laat zien dat hij doe"
+ },
+ {
+  "gids": "beste-tablet-kinderen",
+  "p": 7,
+  "naam": "Redmi Pad 2 4 GB 128 GB",
+  "veld": "text",
+  "soort": "score",
+  "claim": 3.9,
+  "bol": 4.0,
+  "zin": " meeste apps en eenvoudige games. Kopers op bol geven deze uitvoering gemiddeld 3,9 van 5. Voor kinderen vanaf een jaar of zeven "
+ },
+ {
+  "gids": "beste-tv-65-inch-onder-1000-euro",
+  "p": 4,
+  "naam": "65QNED87A6B",
+  "veld": "text",
+  "soort": "score",
+  "claim": 3.8,
+  "bol": 4.0,
+  "zin": "erkt snel en heeft alle grote streamingdiensten. Op bol heeft hij een score van 3,8 van 5. Je betaalt hier vooral voor het systee"
+ },
+ {
+  "gids": "beste-videodeurbel-met-gong",
+  "p": 0,
+  "naam": "D235 met chime",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.1,
+  "bol": 4.2,
+  "zin": " en pakketten. Voor 99 euro krijg je een complete set en bij bol scoort hij een 4,1 van 5."
+ },
+ {
+  "gids": "beste-videodeurbel-met-gong",
+  "p": 3,
+  "naam": "D210 met gong",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.1,
+  "bol": 4.2,
+  "zin": "aanden mee en je kunt hem ook op je beldraad aansluiten. Bij bol scoort hij een 4,1 van 5."
+ },
+ {
+  "gids": "beste-videodeurbel-onder-50-euro",
+  "p": 0,
+  "naam": "D205",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.1,
+  "bol": 4.2,
+  "zin": ". Voor 38,90 euro is dit de slimste koop als je budget krap is. De bol-score is 4,1 van 5."
+ },
+ {
+  "gids": "beste-videodeurbel-op-accu",
+  "p": 0,
+  "naam": "D235 met gong",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.1,
+  "bol": 4.2,
+  "zin": "dieën zit erbij, wat de prijs van 99 euro extra sterk maakt. De D235 scoort een 4,1 van 5 bij bol."
+ },
+ {
+  "gids": "beste-warmtekussen",
+  "p": 9,
+  "naam": "HeatMat",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.9,
+  "bol": 4.5,
+  "zin": "koppelen van de bediening in de wasmachine. Op bol heeft hij een gemiddelde van 4,9 sterren, een van de hoogste scores in deze cate"
+ }
+]

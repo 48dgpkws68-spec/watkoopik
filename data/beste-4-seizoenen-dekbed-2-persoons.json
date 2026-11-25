@@ -34,7 +34,7 @@
     {
       "brand": "Castella",
       "name": "Sirius 4-Seizoenen Dekbed 90% Eendendons 200x220",
-      "price": 279.0,
+      "price": 289.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,6 van 5",
@@ -64,14 +64,15 @@
       "image": "https://media.s-bol.com/7P2PELVQz0LO/vQRQ7mX/550x362.jpg",
       "ph": {
         "2026-11-23": 289.0,
-        "2026-11-24": 279.0
+        "2026-11-24": 279.0,
+        "2026-11-25": 289.0
       },
       "low_price": 279.0,
       "ph_ean": "8720701885332",
       "rating": 4.6,
-      "synced": "2026-11-24",
-      "prev_price": 289.0,
-      "prev_date": "2026-11-23"
+      "synced": "2026-11-25",
+      "prev_price": 279.0,
+      "prev_date": "2026-11-24"
     },
     {
       "brand": "Ten Cate",
@@ -107,12 +108,13 @@
       "image": "https://media.s-bol.com/qzmO7nJZNJ10/PjgzlAn/550x463.jpg",
       "ph": {
         "2026-11-23": 399.99,
-        "2026-11-24": 399.99
+        "2026-11-24": 399.99,
+        "2026-11-25": 399.99
       },
       "low_price": 399.99,
       "ph_ean": "8718719728499",
       "rating": 4.7,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Ducky Dons",
@@ -147,12 +149,13 @@
       "image": "https://media.s-bol.com/pXmO7Q5zZyqy/G57nZ00/550x326.jpg",
       "ph": {
         "2026-11-23": 255.95,
-        "2026-11-24": 255.95
+        "2026-11-24": 255.95,
+        "2026-11-25": 255.95
       },
       "low_price": 255.95,
       "ph_ean": "8718719723142",
       "rating": 4.8,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Ten Cate",
@@ -187,12 +190,13 @@
       "image": "https://media.s-bol.com/L3wK6xNnQGxg/jY5YDB4/550x452.jpg",
       "ph": {
         "2026-11-23": 249.99,
-        "2026-11-24": 249.99
+        "2026-11-24": 249.99,
+        "2026-11-25": 249.99
       },
       "low_price": 249.99,
       "ph_ean": "8718719726396",
       "rating": 4.7,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Terschellinger",
@@ -227,12 +231,13 @@
       "image": "https://media.s-bol.com/qpp5oQqxjPmk/Wmj03J/550x353.jpg",
       "ph": {
         "2026-11-23": 179.0,
-        "2026-11-24": 179.0
+        "2026-11-24": 179.0,
+        "2026-11-25": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "8720256479413",
       "rating": 4.7,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Texels Comfort",
@@ -267,17 +272,18 @@
       "image": "https://media.s-bol.com/gqm13xVwVrlD/o2P0gvB/550x394.jpg",
       "ph": {
         "2026-11-23": 149.0,
-        "2026-11-24": 149.0
+        "2026-11-24": 149.0,
+        "2026-11-25": 149.0
       },
       "low_price": 149.0,
       "ph_ean": "8721067012035",
       "rating": 5.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Polydaun",
       "name": "Liv 4-Seizoenen Dekbed 200x220",
-      "price": 199.95,
+      "price": 199.65,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -307,12 +313,15 @@
       "image": "https://media.s-bol.com/qzBk99B6MxJy/lRmLgn6/550x550.jpg",
       "ph": {
         "2026-11-23": 199.95,
-        "2026-11-24": 199.95
+        "2026-11-24": 199.95,
+        "2026-11-25": 199.65
       },
-      "low_price": 199.95,
+      "low_price": 199.65,
       "ph_ean": "8717874010555",
       "rating": 4.7,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25",
+      "prev_price": 199.95,
+      "prev_date": "2026-11-24"
     },
     {
       "brand": "Snoozing",
@@ -347,12 +356,13 @@
       "image": "https://media.s-bol.com/J66MJ6z7oEBl/550x310.jpg",
       "ph": {
         "2026-11-23": 119.0,
-        "2026-11-24": 119.0
+        "2026-11-24": 119.0,
+        "2026-11-25": 119.0
       },
       "low_price": 119.0,
       "ph_ean": "8718801100219",
       "rating": 4.7,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Fabiola",
@@ -388,12 +398,13 @@
       "image": "https://media.s-bol.com/ZK349DNlyNpg/G6EBMA8/550x359.jpg",
       "ph": {
         "2026-11-23": 129.0,
-        "2026-11-24": 129.0
+        "2026-11-24": 129.0,
+        "2026-11-25": 129.0
       },
       "low_price": 129.0,
       "ph_ean": "8720618169723",
       "rating": 4.7,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Homescapes",
@@ -428,12 +439,13 @@
       "image": "https://media.s-bol.com/PwPEvlGqqV0W/L9RKKRD/550x550.jpg",
       "ph": {
         "2026-11-23": 96.99,
-        "2026-11-24": 96.99
+        "2026-11-24": 96.99,
+        "2026-11-25": 96.99
       },
       "low_price": 96.99,
       "ph_ean": "5055967420939",
       "rating": 5.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     }
   ],
   "guide": [

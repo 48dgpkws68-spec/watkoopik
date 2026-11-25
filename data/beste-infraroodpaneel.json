@@ -51,12 +51,13 @@
       "image": "https://media.s-bol.com/nY7xzpDoXpRP/550x373.jpg",
       "ph": {
         "2026-11-23": 230.89,
-        "2026-11-24": 230.89
+        "2026-11-24": 230.89,
+        "2026-11-25": 230.89
       },
       "low_price": 230.89,
       "ph_ean": "8713415361919",
       "rating": 5.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Könighaus",
@@ -96,12 +97,13 @@
         "2026-11-21": 229.9,
         "2026-11-22": 229.9,
         "2026-11-23": 229.9,
-        "2026-11-24": 229.9
+        "2026-11-24": 229.9,
+        "2026-11-25": 229.9
       },
       "low_price": 229.9,
       "ph_ean": "4063724063184",
       "rating": 5.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Quality Heating",
@@ -133,7 +135,7 @@
       "bol_title": "Slimme Quality Heating - QH-FR Serie infrarood verwarmingspaneel - infrarood paneel - infrarood heater - 90 x 119 cm - 1100Watt - wand en plafond montage - Wifi bedienbaar met bijgeleverde afstandsbediening - 5 Jaar garantie",
       "url": "https://www.bol.com/nl/nl/p/slimme-quality-heating-qh-fr-serie-infrarood-verwarmingspaneel-infrarood-paneel-infrarood-heater-90-x-119-cm-1100watt-wand-en-plafond-montage-wifi-bedienbaar-met-bijgeleverde-afstandsbediening-5-jaar-garantie/9300000163333405/",
       "image": "https://media.s-bol.com/Yn12PBO2kyxM/Xy7k5l/550x425.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-20": 399.0,
         "2026-10-21": 399.0,
@@ -168,7 +170,8 @@
         "2026-11-21": 399.0,
         "2026-11-22": 399.0,
         "2026-11-23": 399.0,
-        "2026-11-24": 399.0
+        "2026-11-24": 399.0,
+        "2026-11-25": 399.0
       },
       "low_price": 399.0,
       "ph_ean": "8720813382439",
@@ -209,12 +212,13 @@
         "2026-11-21": 239.0,
         "2026-11-22": 239.0,
         "2026-11-23": 239.0,
-        "2026-11-24": 239.0
+        "2026-11-24": 239.0,
+        "2026-11-25": 239.0
       },
       "low_price": 239.0,
       "ph_ean": "8720813382477",
       "rating": 1.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Eurom",
@@ -268,10 +272,11 @@
         "2026-11-21": 211.99,
         "2026-11-22": 211.99,
         "2026-11-23": 211.99,
-        "2026-11-24": 211.99
+        "2026-11-24": 211.99,
+        "2026-11-25": 211.99
       },
       "low_price": 211.99,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph_ean": "8713415361711"
     },
     {
@@ -312,17 +317,18 @@
         "2026-11-21": 129.0,
         "2026-11-22": 129.0,
         "2026-11-23": 129.0,
-        "2026-11-24": 129.0
+        "2026-11-24": 129.0,
+        "2026-11-25": 129.0
       },
       "low_price": 129.0,
       "ph_ean": "8720813382606",
       "rating": 4.4,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Eurom",
       "name": "Sani 600 Comfort Wi-Fi",
-      "price": 277.19,
+      "price": 280.99,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 3,9 van 5",
@@ -349,7 +355,7 @@
       "bol_title": "Eurom Sani 600 badkamer infrarood verwarming 600W met handdoekbeugels, WiFi en app (350333)",
       "url": "https://www.bol.com/nl/nl/p/sani-600-wifi-infrarood-badkamerkachel-wit-600-w-ip24/9300000098231679/",
       "image": "https://media.s-bol.com/NKmq5EoQAEj6/nJ2xqD/387x840.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-20": 264.99,
         "2026-10-21": 264.99,
@@ -384,18 +390,19 @@
         "2026-11-21": 266.19,
         "2026-11-22": 268.99,
         "2026-11-23": 272.89,
-        "2026-11-24": 277.19
+        "2026-11-24": 277.19,
+        "2026-11-25": 280.99
       },
       "low_price": 252.54,
-      "prev_price": 272.89,
-      "prev_date": "2026-11-23",
+      "prev_price": 277.19,
+      "prev_date": "2026-11-24",
       "ph_ean": "8713415350333",
       "rating": 3.9
     },
     {
       "brand": "Eurom",
       "name": "Sani 600 Mirror Wi-Fi",
-      "price": 220.0,
+      "price": 223.8,
       "score": 8.2,
       "label": null,
       "reviews": "",
@@ -422,7 +429,7 @@
       "bol_title": "Eurom Sani 600 Mirror Infraroodpaneel met spiegel 80x60cm - WiFi - 600 watt",
       "url": "https://www.bol.com/nl/nl/p/eurom-sani-600-mirror-infraroodpaneel-spiegel-80x60cm-wifi-600-watt/9300000071105019/",
       "image": "https://media.s-bol.com/xwP5v4vy2nkr/mw2M2Bp/550x414.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-20": 229.8,
         "2026-10-21": 221.0,
@@ -457,11 +464,12 @@
         "2026-11-21": 224.7,
         "2026-11-22": 227.5,
         "2026-11-23": 229.0,
-        "2026-11-24": 220.0
+        "2026-11-24": 220.0,
+        "2026-11-25": 223.8
       },
       "low_price": 218.0,
-      "prev_price": 229.0,
-      "prev_date": "2026-11-23",
+      "prev_price": 220.0,
+      "prev_date": "2026-11-24",
       "ph_ean": "8713415350432"
     },
     {
@@ -494,7 +502,7 @@
       "bol_title": "QH-HL Infrarood paneel met LED verlichting (400 - 840 Watt) - Wit - 700 Watt - 70 x 110 cm",
       "url": "https://www.bol.com/nl/nl/p/infrarood-paneel-wit-met-led-verlichting-70-x-110-cm-680watt-infrarood-verwarming-dimbaar-en-met-thermostaat-met-stekker-quality-heating/9300000085264155/",
       "image": "https://media.s-bol.com/3L0kADqzV93p/Rl53L5R/550x550.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-20": 299.0,
         "2026-10-21": 289.0,
@@ -529,7 +537,8 @@
         "2026-11-21": 289.0,
         "2026-11-22": 289.0,
         "2026-11-23": 289.0,
-        "2026-11-24": 299.0
+        "2026-11-24": 299.0,
+        "2026-11-25": 299.0
       },
       "low_price": 289.0,
       "prev_price": 289.0,
@@ -574,7 +583,7 @@
         "2026-11-24": 178.95
       },
       "low_price": 178.95,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     }
   ],
   "guide": [

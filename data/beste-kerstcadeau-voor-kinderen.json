@@ -24,7 +24,7 @@
     {
       "brand": "LEGO",
       "name": "Creator 3in1 Klassiek Reuzenrad 31389",
-      "price": 61.8,
+      "price": 61.85,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,9 van 5",
@@ -73,12 +73,13 @@
         "2026-11-21": 62.51,
         "2026-11-22": 62.47,
         "2026-11-23": 62.47,
-        "2026-11-24": 61.8
+        "2026-11-24": 61.8,
+        "2026-11-25": 61.85
       },
       "low_price": 55.09,
-      "synced": "2026-11-24",
-      "prev_price": 62.47,
-      "prev_date": "2026-11-23",
+      "synced": "2026-11-25",
+      "prev_price": 61.8,
+      "prev_date": "2026-11-24",
       "ph_ean": "5702018054826",
       "rating": 4.9
     },
@@ -134,10 +135,11 @@
         "2026-11-21": 41.62,
         "2026-11-22": 41.62,
         "2026-11-23": 41.62,
-        "2026-11-24": 41.62
+        "2026-11-24": 41.62,
+        "2026-11-25": 41.62
       },
       "low_price": 41.62,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph_ean": "4005556275977",
       "prev_price": 44.99,
       "prev_date": "2026-11-14",
@@ -178,11 +180,12 @@
       "ph": {
         "2026-11-22": 477.0,
         "2026-11-23": 477.0,
-        "2026-11-24": 477.0
+        "2026-11-24": 477.0,
+        "2026-11-25": 477.0
       },
       "low_price": 477.0,
       "ph_ean": "0045496337414",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Fujifilm",
@@ -221,11 +224,12 @@
         "2026-11-21": 86.0,
         "2026-11-22": 86.0,
         "2026-11-23": 86.0,
-        "2026-11-24": 84.0
+        "2026-11-24": 84.0,
+        "2026-11-25": 84.0
       },
       "low_price": 84.0,
       "ph_ean": "4547410564884",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "prev_price": 86.0,
       "prev_date": "2026-11-23"
     },
@@ -281,10 +285,11 @@
         "2026-11-21": 56.0,
         "2026-11-22": 56.1,
         "2026-11-23": 56.1,
-        "2026-11-24": 56.1
+        "2026-11-24": 56.1,
+        "2026-11-25": 56.1
       },
       "low_price": 47.99,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "prev_price": 56.0,
       "prev_date": "2026-11-21",
       "ph_ean": "5702017583822",
@@ -342,10 +347,11 @@
         "2026-11-21": 50.12,
         "2026-11-22": 44.99,
         "2026-11-23": 44.99,
-        "2026-11-24": 44.99
+        "2026-11-24": 44.99,
+        "2026-11-25": 44.99
       },
       "low_price": 44.99,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "prev_price": 50.12,
       "prev_date": "2026-11-21",
       "ph_ean": "5702017815206",
@@ -354,7 +360,7 @@
     {
       "brand": "LEGO",
       "name": "Harry Potter Het Monsterlijke Monsterboek 76449",
-      "price": 49.99,
+      "price": 44.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -403,12 +409,13 @@
         "2026-11-21": 49.99,
         "2026-11-22": 49.99,
         "2026-11-23": 49.99,
-        "2026-11-24": 49.99
+        "2026-11-24": 49.99,
+        "2026-11-25": 44.99
       },
       "low_price": 38.99,
-      "synced": "2026-11-24",
-      "prev_price": 44.99,
-      "prev_date": "2026-11-20",
+      "synced": "2026-11-25",
+      "prev_price": 49.99,
+      "prev_date": "2026-11-24",
       "ph_ean": "5702017812878",
       "rating": 4.9
     },
@@ -464,20 +471,21 @@
         "2026-11-21": 42.99,
         "2026-11-22": 42.99,
         "2026-11-23": 42.99,
-        "2026-11-24": 42.99
+        "2026-11-24": 42.99,
+        "2026-11-25": 42.99
       },
       "low_price": 42.99,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph_ean": "3417761938232",
       "rating": 4.4
     },
     {
       "brand": "Hot Wheels",
       "name": "City Mega Garage",
-      "price": 99.99,
+      "price": 129.99,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Parkeergarage met vier verdiepingen en een lift die je kind zelf bedient.",
       "specs": {
         "Leeftijd": "4+",
@@ -499,16 +507,20 @@
       "ideal": "Autofans van 4 tot 8 jaar die al een paar Hot Wheels-auto's hebben.",
       "text": "Voor kinderen die gek zijn op auto's is de Hot Wheels City Mega Garage een kerstcadeau waar ze lang mee bezig zijn. De parkeergarage heeft vier verdiepingen met plek voor meer dan 60 auto's. In het midden zit een lift die je kind met een handslinger bedient. Zo gaan de auto's naar boven en rijden ze daarna weer naar beneden of de baan op, zodat er steeds een nieuw verhaal ontstaat.\n\nOp de basis en op elke verdieping zitten verbindingspunten. Daarmee koppel je de garage aan andere Hot Wheels-sets of aan de bekende oranje baandelen, zodat de stad stap voor stap groter wordt. Er zit één auto op schaal 1:64 bij, dus een setje extra auto's maakt het cadeau compleet. Kopers op bol geven de garage een 4,5 van 5. Hij werkt zonder batterijen, maar neemt wel ruimte in. Met een prijs rond de 100 euro is het een opvallend cadeau onder de kerstboom.",
       "ean": "0887961700107",
-      "bol_title": "Hot Wheels City - Mega Garage met Racebaan - Hoogte 72 cm - Inclusief 1 Auto - Grote Parkeergarage met Lift en Racebanen en Parkeerplaatsen - Speelgoed vanaf 3 Jaar - Hotweels - Hotwheels Premium - Speelgoed Auto's - Speelgoed Autos Jongens Autootjes",
+      "bol_title": "Hot Wheels Monster Trucks T-Rex Volcano Arena Speelset – Dino Vulkaan – Met Licht en Geluid – Inclusief Monstertruck – Mattel",
       "url": "https://www.bol.com/nl/nl/p/hot-wheels-city-mega-garage-met-racebaan-hoogte-72-cm-inclusief-1-auto-grote-parkeergarage-met-lift-en-racebanen-en-parkeerplaatsen-speelgoed-vanaf-3-jaar-hotweels-hotwheels-premium-autootjes/9300000340237116/",
-      "image": "https://media.s-bol.com/N4o3n5BYvY9m/0YpQGJy/550x550.jpg",
+      "image": "https://media.s-bol.com/qylr1EgZER3R/83LGGy5/550x545.jpg",
       "ph": {
-        "2026-11-23": 99.99
+        "2026-11-23": 99.99,
+        "2026-11-24": 99.99,
+        "2026-11-25": 129.99
       },
       "low_price": 99.99,
       "ph_ean": "0887961700107",
-      "rating": 4.5,
-      "synced": "2026-11-24"
+      "rating": 5.0,
+      "synced": "2026-11-25",
+      "prev_price": 99.99,
+      "prev_date": "2026-11-24"
     },
     {
       "brand": "PLAYMOBIL",
@@ -562,10 +574,11 @@
         "2026-11-21": 35.99,
         "2026-11-22": 35.99,
         "2026-11-23": 35.99,
-        "2026-11-24": 35.99
+        "2026-11-24": 35.99,
+        "2026-11-25": 35.99
       },
       "low_price": 35.99,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph_ean": "4008789717429",
       "prev_price": 44.99,
       "prev_date": "2026-11-14",

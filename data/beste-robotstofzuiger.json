@@ -22,7 +22,7 @@
     {
       "brand": "Roborock",
       "name": "Saros 10R",
-      "price": 829.0,
+      "price": 818.99,
       "score": 9.4,
       "label": "Beste keuze",
       "reviews": "",
@@ -50,7 +50,7 @@
       "ean": "6970995783445",
       "url": "https://www.bol.com/nl/nl/p/robot-vacuum-cleaner-roborock-saros-10r/9300000227719517/",
       "image": "https://media.s-bol.com/4Z9WNzPVrAmg/k5DWv6x/550x616.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "bol_title": "Robot Vacuum Cleaner Roborock Saros 10R",
       "ph": {
         "2026-10-13": 860.88,
@@ -93,11 +93,12 @@
         "2026-11-21": 818.99,
         "2026-11-22": 829.0,
         "2026-11-23": 829.0,
-        "2026-11-24": 829.0
+        "2026-11-24": 829.0,
+        "2026-11-25": 818.99
       },
       "low_price": 818.99,
-      "prev_price": 818.99,
-      "prev_date": "2026-11-21",
+      "prev_price": 829.0,
+      "prev_date": "2026-11-24",
       "ph_ean": "6970995783445"
     },
     {
@@ -137,12 +138,13 @@
         "2026-11-21": 499.0,
         "2026-11-22": 499.0,
         "2026-11-23": 499.0,
-        "2026-11-24": 499.0
+        "2026-11-24": 499.0,
+        "2026-11-25": 499.0
       },
       "low_price": 499.0,
       "ph_ean": "6976233677194",
       "rating": 4.6,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Dreame",
@@ -176,7 +178,7 @@
       "bol_title": "Dreame X50 Ultra Complete - Robotstofzuiger met dweilfunctie - Geschikt voor huisdierharen - Complete Accessoires kit - Eenvoudig schoonmaken van laag meubilair - Zwart",
       "url": "https://www.bol.com/nl/nl/p/dreame-robotstofzuiger-x50-ultra-complete/9300000225954581/",
       "image": "https://media.s-bol.com/Nw9wqZRArKW6/nZNMpkl/550x675.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-13": 814.99,
         "2026-10-15": 827.99,
@@ -217,7 +219,8 @@
         "2026-11-21": 599.0,
         "2026-11-22": 599.0,
         "2026-11-23": 599.0,
-        "2026-11-24": 599.0
+        "2026-11-24": 599.0,
+        "2026-11-25": 599.0
       },
       "low_price": 599.0,
       "prev_price": 762.95,
@@ -258,18 +261,19 @@
       "image": "https://media.s-bol.com/1Zl8zlYv7g80/X608J9V/550x546.jpg",
       "ph": {
         "2026-11-23": 729.0,
-        "2026-11-24": 729.0
+        "2026-11-24": 729.0,
+        "2026-11-25": 729.0
       },
       "low_price": 729.0,
       "ph_ean": "6936905902788",
       "rating": 4.8,
       "reviews": "bol-score 4,8 van 5",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Ecovacs",
       "name": "Deebot T90 Pro Omni",
-      "price": 575.99,
+      "price": 512.62,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -327,19 +331,20 @@
         "2026-11-21": 577.99,
         "2026-11-22": 577.99,
         "2026-11-23": 577.99,
-        "2026-11-24": 575.99
+        "2026-11-24": 575.99,
+        "2026-11-25": 512.62
       },
-      "low_price": 575.99,
-      "synced": "2026-11-24",
+      "low_price": 512.62,
+      "synced": "2026-11-25",
       "ph_ean": "6970135039548",
       "rating": 4.5,
-      "prev_price": 577.99,
-      "prev_date": "2026-11-23"
+      "prev_price": 575.99,
+      "prev_date": "2026-11-24"
     },
     {
       "brand": "Narwal",
       "name": "Freo Z10 Ultra",
-      "price": 469.0,
+      "price": 449.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -368,7 +373,7 @@
       "bol_title": "Narwal Freo Z10 Ultra Robotstofzuiger met Zelflozend Basisstation, 18.000Pa Zuigkracht, AI Vision, DirtSense Technologie, Klitvrije Borstel, 45-75°C Heet Water Wassen, LDS Navigatie, 8N Dweilen, Grijs",
       "url": "https://www.bol.com/nl/nl/p/narwal-freo-z10-ultra-robotstofzuiger-met-zelfledigend-basisstation-18-000-pa-zuigkracht-ai-vision-dirtsense-technologie-klitvrije-borstel-45-75-c-warmwaterreiniging-lds-navigatie-8-n-dweilen-grijs/9300000230275135/",
       "image": "https://media.s-bol.com/Mv6wV591A9Y5/JZX2qmv/550x567.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-13": 499.0,
         "2026-10-14": 499.0,
@@ -410,11 +415,12 @@
         "2026-11-21": 469.0,
         "2026-11-22": 469.0,
         "2026-11-23": 469.0,
-        "2026-11-24": 469.0
+        "2026-11-24": 469.0,
+        "2026-11-25": 449.0
       },
-      "low_price": 469.0,
-      "prev_price": 499.0,
-      "prev_date": "2026-11-03",
+      "low_price": 449.0,
+      "prev_price": 469.0,
+      "prev_date": "2026-11-24",
       "ph_ean": "6972075735047",
       "rating": 4.2
     },
@@ -449,7 +455,7 @@
       "ean": "5060944999247",
       "url": "https://www.bol.com/nl/nl/p/irobot-roomba-combo-c10-max-autowash-dock-robotstofzuiger-en-dweilrobot-zelfreinigend-objectdetectie-en-vermijding-x085840/9300000183883271/",
       "image": "https://media.s-bol.com/RV4m06mE16WE/82Ox1ym/550x470.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "bol_title": "iRobot Roomba Combo 10 Max + AutoWash Dock - Robotstofzuiger en Dweilrobot - Zelfreinigend - Objectdetectie en vermijding - X0858",
       "ph": {
         "2026-10-13": 899.0,
@@ -492,7 +498,8 @@
         "2026-11-21": 599.0,
         "2026-11-22": 599.0,
         "2026-11-23": 599.0,
-        "2026-11-24": 599.0
+        "2026-11-24": 599.0,
+        "2026-11-25": 599.0
       },
       "low_price": 599.0,
       "prev_price": 669.0,
@@ -531,7 +538,7 @@
       "ean": "0194644209216",
       "url": "https://www.bol.com/nl/nl/p/eufy-robotstofzuiger-omni-c20-met-alles-in-een-station-automatisch-legen-dweilen-en-drogen-voor-handsfree-schoonmaken/9300000192293565/",
       "image": "https://media.s-bol.com/gqXwkAwg2mnk/Z6oV458/550x615.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "bol_title": "eufy Clean Omni C20 Robotstofzuiger met reinigingsstation - Robot Vacuum - 7.000Pa Zuigkracht - Ronddraaiende Dweilpads - Met Objectdetectie - 8-5cm Ultraplat Design - Zwart",
       "ph": {
         "2026-10-13": 599.0,
@@ -574,7 +581,8 @@
         "2026-11-21": 329.0,
         "2026-11-22": 329.0,
         "2026-11-23": 329.0,
-        "2026-11-24": 329.0
+        "2026-11-24": 329.0,
+        "2026-11-25": 329.0
       },
       "low_price": 320.0,
       "prev_price": 482.63,
@@ -585,7 +593,7 @@
     {
       "brand": "Xiaomi",
       "name": "Robot Vacuum X20 Max",
-      "price": 409.99,
+      "price": 331.31,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 3,0 van 5",
@@ -644,12 +652,13 @@
         "2026-11-21": 409.99,
         "2026-11-22": 409.99,
         "2026-11-23": 409.99,
-        "2026-11-24": 409.99
+        "2026-11-24": 409.99,
+        "2026-11-25": 331.31
       },
-      "low_price": 409.99,
-      "synced": "2026-11-24",
-      "prev_price": 414.93,
-      "prev_date": "2026-10-29",
+      "low_price": 331.31,
+      "synced": "2026-11-25",
+      "prev_price": 409.99,
+      "prev_date": "2026-11-24",
       "ph_ean": "6941812777206",
       "rating": 3.0
     },
@@ -684,7 +693,7 @@
       "ean": "6936905902177",
       "url": "https://www.bol.com/nl/nl/p/roborock-q10-pf-robotstofzuiger-met-dweilfunctie-10000pa-dubbele-anti-klit-automatisch-wissen-lidar-navigatie-8-mm-automatisch-liftend-mopsysteem-verboden-zone-q5-max-q8-max-upgrade/9300000236410763/",
       "image": "https://media.s-bol.com/q4k4rpLDMXRp/pgRQR4y/550x396.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "bol_title": "Roborock Q10 PF+ - Robotstofzuiger met dweilfunctie - 10000Pa - Dubbele anti-klit - automatisch wissen - LiDAR-navigatie - 8 mm automatisch liftend mopsysteem - verboden zone - S8+/Q8 Max+ upgrade (Q10 X5+)",
       "ph": {
         "2026-10-13": 339.99,
@@ -727,7 +736,8 @@
         "2026-11-21": 179.99,
         "2026-11-22": 179.99,
         "2026-11-23": 179.99,
-        "2026-11-24": 179.99
+        "2026-11-24": 179.99,
+        "2026-11-25": 179.99
       },
       "low_price": 179.99,
       "prev_price": 339.99,

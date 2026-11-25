@@ -55,17 +55,18 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-matterhorn-smalle-kunstkerstboom-h185-x-o84-cm-groen/9300000187225409/",
       "image": "https://media.s-bol.com/yLWYx0X518Og/lREjyrJ/364x840.jpg",
       "ph": {
-        "2026-11-24": 99.99
+        "2026-11-24": 99.99,
+        "2026-11-25": 99.99
       },
       "low_price": 99.99,
       "ph_ean": "8720967792108",
       "rating": 5.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Black Box Trees",
       "name": "Charlton smal 185 cm",
-      "price": 38.93,
+      "price": 39.92,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,8 van 5",
@@ -94,12 +95,15 @@
       "url": "https://www.bol.com/nl/nl/p/black-box-trees-charlton-pilar-kerstboom-groen-tips-280-h185xd53cm/9300000186169170/",
       "image": "https://media.s-bol.com/0Qrg6nLzKZ8L/BNvL7QY/253x840.jpg",
       "ph": {
-        "2026-11-24": 38.93
+        "2026-11-24": 38.93,
+        "2026-11-25": 39.92
       },
       "low_price": 38.93,
       "ph_ean": "8720967840212",
       "rating": 4.8,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25",
+      "prev_price": 38.93,
+      "prev_date": "2026-11-24"
     },
     {
       "brand": "Royal Christmas",
@@ -133,17 +137,18 @@
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-manhattan-promo-hinged-180-cm-groen-kunstkerstboom/9300000071071705/",
       "image": "https://media.s-bol.com/mx9Evy4MBLQp/GZXnGn5/454x840.jpg",
       "ph": {
-        "2026-11-24": 149.0
+        "2026-11-24": 149.0,
+        "2026-11-25": 149.0
       },
       "low_price": 149.0,
       "ph_ean": "8717931858038",
       "rating": 5.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Triumph Tree",
       "name": "Bristlecone Pilar smal 185 cm",
-      "price": 104.84,
+      "price": 104.85,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -172,12 +177,13 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-bristlecone-pilar-kerstboom-groen-tips-450-h185xd79cm/9300000187225406/",
       "image": "https://media.s-bol.com/J5gQXz3qLw1y/OMRLoXr/350x840.jpg",
       "ph": {
-        "2026-11-24": 104.84
+        "2026-11-24": 104.84,
+        "2026-11-25": 104.85
       },
       "low_price": 104.84,
       "ph_ean": "8720967792153",
       "rating": 4.9,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "KJ Kunstkerstbomen",
@@ -211,11 +217,12 @@
       "url": "https://www.bol.com/nl/nl/p/kj-kunstkerstbomen-kunstkerstboom-minnesota-met-ledverlichting-180-cm/9300000405967443/",
       "image": "https://media.s-bol.com/0GyMl5VDy6OG/oZ6958A/440x840.jpg",
       "ph": {
-        "2026-11-24": 179.0
+        "2026-11-24": 179.0,
+        "2026-11-25": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "8721632740530",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Everlands",
@@ -249,11 +256,12 @@
       "url": "https://www.bol.com/nl/nl/p/pencil-boom-prelit-d50h180c-groen-wit/9300000195893585/",
       "image": "https://media.s-bol.com/oxkynkyLDELB/5732qEA/250x200.jpg",
       "ph": {
-        "2026-11-24": 64.95
+        "2026-11-24": 64.95,
+        "2026-11-25": 64.95
       },
       "low_price": 64.95,
       "ph_ean": "8720194550601",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Triumph Tree",
@@ -287,12 +295,13 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-tuscan-smalle-kunstkerstboom-h185-x-o76-cm-groen/9300000187225404/",
       "image": "https://media.s-bol.com/8QrQBrlAmp2j/36JR1n9/334x840.jpg",
       "ph": {
-        "2026-11-24": 64.99
+        "2026-11-24": 64.99,
+        "2026-11-25": 64.99
       },
       "low_price": 64.99,
       "ph_ean": "8720967792054",
       "rating": 4.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "COSTWAY",
@@ -326,11 +335,12 @@
       "url": "https://www.bol.com/nl/nl/p/costway-smalle-kunstkerstboom-180-cm-potloodkerstboom-met-250-warmwitte-led-lampjes-500-takken-sneeuweffect-metalen-standaard-groen-en-wit/9300000412372371/",
       "image": "https://media.s-bol.com/kqx6yxnKm9Lv/LZBBqzj/550x600.jpg",
       "ph": {
-        "2026-11-24": 69.99
+        "2026-11-24": 69.99,
+        "2026-11-25": 69.99
       },
       "low_price": 69.99,
       "ph_ean": "0602226069931",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Treb",
@@ -364,12 +374,13 @@
       "url": "https://www.bol.com/nl/nl/p/treb-classic-pencil-pine-kunstkerstboom-180-cm-hoog-zonder-verlichting/9200000020437836/",
       "image": "https://media.s-bol.com/R342X809OnKz/qQqgMR2/250x200.jpg",
       "ph": {
-        "2026-11-24": 30.4
+        "2026-11-24": 30.4,
+        "2026-11-25": 30.4
       },
       "low_price": 30.4,
       "ph_ean": "8718533070835",
       "rating": 4.6,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Begoods",
@@ -403,11 +414,12 @@
       "url": "https://www.bol.com/nl/nl/p/begoods-smalle-kunstkerstboom-180-cm-met-sneeuw-slechts-55-cm-breed-besneeuwde-pencil-kerstboom-ruimtebesparende-kerstboom-inclusief-metalen-voet-groen-wit/9300000446873399/",
       "image": "https://media.s-bol.com/B3xy3Yg135ko/w0zm55r/550x613.jpg",
       "ph": {
-        "2026-11-24": 49.95
+        "2026-11-24": 49.95,
+        "2026-11-25": 49.95
       },
       "low_price": 49.95,
       "ph_ean": "8721746270817",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     }
   ],
   "guide": [

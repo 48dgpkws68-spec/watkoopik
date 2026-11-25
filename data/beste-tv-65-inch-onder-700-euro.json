@@ -64,12 +64,13 @@
       "image": "https://media.s-bol.com/E38q77j2ozWK/qQRgpAk/550x350.jpg",
       "ph": {
         "2026-11-23": 679.0,
-        "2026-11-24": 679.0
+        "2026-11-24": 679.0,
+        "2026-11-25": 679.0
       },
       "low_price": 679.0,
       "ph_ean": "6942351434773",
       "rating": 4.6,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "TCL",
@@ -105,12 +106,13 @@
       "image": "https://media.s-bol.com/90P0oJA57yK8/z6Q6Y45/550x342.jpg",
       "ph": {
         "2026-11-23": 699.0,
-        "2026-11-24": 699.0
+        "2026-11-24": 699.0,
+        "2026-11-25": 699.0
       },
       "low_price": 699.0,
       "ph_ean": "5901292531065",
       "rating": 5.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "TCL",
@@ -146,12 +148,13 @@
       "image": "https://media.s-bol.com/8JpNMm7X34Mr/zKvABxy/550x343.jpg",
       "ph": {
         "2026-11-23": 476.13,
-        "2026-11-24": 476.13
+        "2026-11-24": 476.13,
+        "2026-11-25": 476.13
       },
       "low_price": 476.13,
       "ph_ean": "5901292528584",
       "rating": 4.9,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "TCL",
@@ -188,11 +191,12 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-65p79l-65-inch-4k-qled-2026-smart-tv/9300000273452841/",
       "image": "https://media.s-bol.com/Jm9NPm3MRGDK/D9oNEqA/550x341.jpg",
       "ph": {
-        "2026-11-24": 599.0
+        "2026-11-24": 599.0,
+        "2026-11-25": 599.0
       },
       "low_price": 599.0,
       "ph_ean": "5901292531348",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Hisense",
@@ -228,12 +232,13 @@
       "image": "https://media.s-bol.com/B3p8xXVvD4Mx/lR8w8El/550x369.jpg",
       "ph": {
         "2026-11-23": 669.0,
-        "2026-11-24": 669.0
+        "2026-11-24": 669.0,
+        "2026-11-25": 669.0
       },
       "low_price": 669.0,
       "ph_ean": "6942351432595",
       "rating": 4.7,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "CHiQ",
@@ -268,12 +273,13 @@
       "image": "https://media.s-bol.com/ggDKB89Zm4Mk/86OzPoL/550x344.jpg",
       "ph": {
         "2026-11-23": 584.03,
-        "2026-11-24": 584.03
+        "2026-11-24": 584.03,
+        "2026-11-25": 584.03
       },
       "low_price": 584.03,
       "ph_ean": "8592344205514",
       "rating": 4.8,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "LG",
@@ -309,17 +315,18 @@
       "image": "https://media.s-bol.com/wL96lXmR2plw/8qBzr3g/550x434.jpg",
       "ph": {
         "2026-11-23": 599.0,
-        "2026-11-24": 599.0
+        "2026-11-24": 599.0,
+        "2026-11-25": 599.0
       },
       "low_price": 599.0,
       "ph_ean": "8806096422007",
       "rating": 5.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Xiaomi",
       "name": "TV A Pro 2026 65 inch",
-      "price": 578.97,
+      "price": 578.96,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -351,17 +358,18 @@
       "image": "https://media.s-bol.com/q3Y035zYqLGR/0gQ7V65/550x330.jpg",
       "ph": {
         "2026-11-23": 578.97,
-        "2026-11-24": 578.97
+        "2026-11-24": 578.97,
+        "2026-11-25": 578.96
       },
-      "low_price": 578.97,
+      "low_price": 578.96,
       "ph_ean": "6941948705807",
       "rating": 4.3,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Philips",
       "name": "65PQS8501/12 Ambilight",
-      "price": 613.45,
+      "price": 649.0,
       "score": 8.2,
       "label": null,
       "reviews": "",
@@ -393,13 +401,14 @@
       "image": "https://media.s-bol.com/qz1WvKDqnAkR/w0lRMVz/550x351.jpg",
       "ph": {
         "2026-11-23": 649.0,
-        "2026-11-24": 613.45
+        "2026-11-24": 613.45,
+        "2026-11-25": 649.0
       },
       "low_price": 613.45,
       "ph_ean": "8718863051764",
-      "synced": "2026-11-24",
-      "prev_price": 649.0,
-      "prev_date": "2026-11-23"
+      "synced": "2026-11-25",
+      "prev_price": 613.45,
+      "prev_date": "2026-11-24"
     },
     {
       "brand": "Samsung",
@@ -436,12 +445,13 @@
       "image": "https://media.s-bol.com/qzA9yRm5Rw73/991zyYB/550x412.jpg",
       "ph": {
         "2026-11-23": 499.0,
-        "2026-11-24": 499.0
+        "2026-11-24": 499.0,
+        "2026-11-25": 499.0
       },
       "low_price": 499.0,
       "ph_ean": "8806099133900",
       "rating": 4.6,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     }
   ],
   "guide": [

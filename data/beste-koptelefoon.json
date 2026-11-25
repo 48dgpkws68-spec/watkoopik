@@ -50,7 +50,7 @@
       "ean": "4548736162716",
       "url": "https://www.bol.com/nl/nl/p/sony-wh-1000xm6-draadloze-koptelefoon-met-noise-cancelling-blauw/9300000229857582/",
       "image": "https://media.s-bol.com/4oO4x9GlQp8k/wpMoY2z/550x827.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "bol_title": "Sony WH-1000XM6 - Draadloze Noise Cancelling Koptelefoon - Bluetooth - Over-ear – Blauw",
       "ph": {
         "2026-11-09": 322.0,
@@ -67,7 +67,8 @@
         "2026-11-21": 319.0,
         "2026-11-22": 319.0,
         "2026-11-23": 319.0,
-        "2026-11-24": 319.0
+        "2026-11-24": 319.0,
+        "2026-11-25": 319.0
       },
       "low_price": 319.0,
       "ph_ean": "4548736162716",
@@ -106,7 +107,7 @@
       "ean": "0194644291716",
       "url": "https://www.bol.com/nl/nl/p/soundcore-by-anker-space-one-pro-wireless-over-ear-headphones-white-headphones-active-noise-cancelling-multipoint-connection-60-hours-battery-life-bluetooth-5-3-ldac-hi-res-certified-small-foldable/9300000229292884/",
       "image": "https://media.s-bol.com/qzwJNDRpPK7R/79rnLMw/550x790.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "bol_title": "soundcore Space One Pro by Anker - Adaptieve actieve ruisonderdrukking - 6 microfoons - Opvouwbaar design - 60 uur lossless audio - Ultrasnel opladen - Hi-res draadloze audio via LDAC - Comfortabele pasvorm",
       "ph": {
         "2026-10-13": 169.0,
@@ -149,7 +150,8 @@
         "2026-11-21": 129.0,
         "2026-11-22": 129.0,
         "2026-11-23": 129.0,
-        "2026-11-24": 129.0
+        "2026-11-24": 129.0,
+        "2026-11-25": 129.0
       },
       "low_price": 129.0,
       "prev_price": 129.99,
@@ -192,10 +194,11 @@
       "url": "https://www.bol.com/nl/nl/p/apple-airpods-max-draadloze-bluetooth-koptelefoon-usb-c-oranje/9300000189542429/",
       "image": "https://media.s-bol.com/YDNpQPRmZR8A/G6z18JK/550x723.jpg",
       "ph": {
-        "2026-11-24": 499.0
+        "2026-11-24": 499.0,
+        "2026-11-25": 499.0
       },
       "low_price": 499.0,
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Bose",
@@ -229,7 +232,7 @@
       "bol_title": "Bose QuietComfort Ultra Headphones (2nd Gen) – Draadloze over-ear koptelefoon – Active Noise Cancelling - Hoofdtelefoon - Bluetooth – Zwart",
       "url": "https://www.bol.com/nl/nl/p/bose-quietcomfort-ultra-headphones-draadloze-over-ear-koptelefoon-active-noise-cancelling-zwart/9300000242085612/",
       "image": "https://media.s-bol.com/g0xWl30jOXl3/wjNO388/550x684.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph": {
         "2026-10-15": 354.0,
         "2026-10-16": 354.0,
@@ -269,7 +272,8 @@
         "2026-11-21": 319.0,
         "2026-11-22": 319.0,
         "2026-11-23": 319.0,
-        "2026-11-24": 319.0
+        "2026-11-24": 319.0,
+        "2026-11-25": 319.0
       },
       "low_price": 319.0,
       "prev_price": 329.0,
@@ -326,10 +330,11 @@
         "2026-11-21": 169.0,
         "2026-11-22": 169.0,
         "2026-11-23": 169.0,
-        "2026-11-24": 169.0
+        "2026-11-24": 169.0,
+        "2026-11-25": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph_ean": "4260752332590",
       "prev_price": 199.0,
       "prev_date": "2026-11-14",
@@ -370,16 +375,17 @@
       "image": "https://media.s-bol.com/gMLJEBpA8NpZ/w0kkgoX/545x840.jpg",
       "ph": {
         "2026-11-23": 239.0,
-        "2026-11-24": 239.0
+        "2026-11-24": 239.0,
+        "2026-11-25": 239.0
       },
       "low_price": 239.0,
       "ph_ean": "4548736132580",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Bowers & Wilkins",
       "name": "Px8",
-      "price": 339.99,
+      "price": 338.99,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -427,12 +433,13 @@
         "2026-11-21": 361.99,
         "2026-11-22": 346.99,
         "2026-11-23": 350.99,
-        "2026-11-24": 339.99
+        "2026-11-24": 339.99,
+        "2026-11-25": 338.99
       },
-      "low_price": 339.99,
-      "synced": "2026-11-24",
-      "prev_price": 350.99,
-      "prev_date": "2026-11-23",
+      "low_price": 338.99,
+      "synced": "2026-11-25",
+      "prev_price": 339.99,
+      "prev_date": "2026-11-24",
       "ph_ean": "0714346337859",
       "rating": 4.7
     },
@@ -482,10 +489,11 @@
         "2026-11-21": 189.0,
         "2026-11-22": 189.0,
         "2026-11-23": 189.0,
-        "2026-11-24": 189.0
+        "2026-11-24": 189.0,
+        "2026-11-25": 189.0
       },
       "low_price": 189.0,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph_ean": "0017817848985",
       "prev_price": 189.95,
       "prev_date": "2026-11-17",
@@ -522,7 +530,7 @@
       "ean": "1200130020919",
       "url": "https://www.bol.com/nl/nl/p/jbl-tour-one-m3-wireless-over-ear-nc-headphones-zwart/9300000193746668/",
       "image": "https://media.s-bol.com/lo8l2wNJly97/o2oqq4N/550x708.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "bol_title": "JBL Tour One M3 - Draadloze Noise Cancelling Koptelefoon - Bluetooth - Over-ear - Adaptive ANC - 70 uur batterij - Zwart",
       "ph": {
         "2026-10-13": 229.0,
@@ -565,7 +573,8 @@
         "2026-11-21": 199.0,
         "2026-11-22": 199.0,
         "2026-11-23": 199.0,
-        "2026-11-24": 199.0
+        "2026-11-24": 199.0,
+        "2026-11-25": 199.0
       },
       "low_price": 199.0,
       "prev_price": 229.0,
@@ -604,7 +613,7 @@
       "ean": "4260752330619",
       "url": "https://www.bol.com/nl/nl/p/accentum-plus-wireless-white/9300000171213182/",
       "image": "https://media.s-bol.com/BjqjojEPxrQW/YEEnGk2/550x611.jpg",
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "bol_title": "Sennheiser Accentum Plus Wireless - Draadloze over-ear koptelefoon met Noise Cancelling - 50u batterij - Snelladen – 2 Microfoons - Wit",
       "ph": {
         "2026-10-13": 135.0,
@@ -647,7 +656,8 @@
         "2026-11-21": 129.0,
         "2026-11-22": 129.0,
         "2026-11-23": 129.0,
-        "2026-11-24": 129.0
+        "2026-11-24": 129.0,
+        "2026-11-25": 129.0
       },
       "low_price": 119.99,
       "prev_price": 139.0,

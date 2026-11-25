@@ -25,7 +25,7 @@
     {
       "brand": "LEGO",
       "name": "City Brandweerkazerne en brandweerauto 60414",
-      "price": 55.98,
+      "price": 54.99,
       "score": 9.4,
       "label": "Beste keuze",
       "ean": "5702017582962",
@@ -79,12 +79,13 @@
         "2026-11-21": 55.98,
         "2026-11-22": 55.98,
         "2026-11-23": 55.98,
-        "2026-11-24": 55.98
+        "2026-11-24": 55.98,
+        "2026-11-25": 54.99
       },
-      "low_price": 55.98,
-      "synced": "2026-11-24",
-      "prev_price": 55.99,
-      "prev_date": "2026-11-14",
+      "low_price": 54.99,
+      "synced": "2026-11-25",
+      "prev_price": 55.98,
+      "prev_date": "2026-11-24",
       "ph_ean": "5702017582962",
       "rating": 4.9
     },
@@ -145,10 +146,11 @@
         "2026-11-21": 24.99,
         "2026-11-22": 24.99,
         "2026-11-23": 24.99,
-        "2026-11-24": 24.99
+        "2026-11-24": 24.99,
+        "2026-11-25": 24.99
       },
       "low_price": 23.09,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "prev_price": 23.09,
       "prev_date": "2026-11-09",
       "ph_ean": "4005556264421",
@@ -211,10 +213,11 @@
         "2026-11-21": 52.99,
         "2026-11-22": 52.99,
         "2026-11-23": 52.99,
-        "2026-11-24": 52.99
+        "2026-11-24": 52.99,
+        "2026-11-25": 52.99
       },
       "low_price": 52.99,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "prev_price": 71.22,
       "prev_date": "2026-11-14",
       "ph_ean": "3417765199233",
@@ -277,10 +280,11 @@
         "2026-11-21": 46.99,
         "2026-11-22": 46.99,
         "2026-11-23": 46.99,
-        "2026-11-24": 46.99
+        "2026-11-24": 46.99,
+        "2026-11-25": 46.99
       },
       "low_price": 46.99,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "prev_price": 49.99,
       "prev_date": "2026-11-11",
       "ph_ean": "0045496420314",
@@ -343,10 +347,11 @@
         "2026-11-21": 32.27,
         "2026-11-22": 32.27,
         "2026-11-23": 32.27,
-        "2026-11-24": 32.27
+        "2026-11-24": 32.27,
+        "2026-11-25": 32.27
       },
       "low_price": 32.27,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "prev_price": 41.36,
       "prev_date": "2026-11-14",
       "ph_ean": "4008789713292",
@@ -409,10 +414,11 @@
         "2026-11-21": 42.99,
         "2026-11-22": 42.99,
         "2026-11-23": 42.99,
-        "2026-11-24": 42.99
+        "2026-11-24": 42.99,
+        "2026-11-25": 42.99
       },
       "low_price": 42.99,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "prev_price": 49.99,
       "prev_date": "2026-11-14",
       "ph_ean": "4005556002092",
@@ -475,10 +481,11 @@
         "2026-11-21": 26.99,
         "2026-11-22": 26.99,
         "2026-11-23": 26.99,
-        "2026-11-24": 26.99
+        "2026-11-24": 26.99,
+        "2026-11-25": 26.99
       },
       "low_price": 26.99,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph_ean": "8005125562091",
       "prev_price": 27.99,
       "prev_date": "2026-11-16",
@@ -517,11 +524,12 @@
       "url": "https://www.bol.com/nl/nl/p/lego-42166-technic-neom-mclaren-extreme-e-racewagen-speelgoed-auto/9300000157956463/",
       "image": "https://media.s-bol.com/B3gD02lWAyJW/Z8Oro2J/550x342.jpg",
       "ph": {
-        "2026-11-24": 37.69
+        "2026-11-24": 37.69,
+        "2026-11-25": 37.69
       },
       "low_price": 37.69,
       "ph_ean": "5702017583518",
-      "synced": "2026-11-24"
+      "synced": "2026-11-25"
     },
     {
       "brand": "Hama",
@@ -580,10 +588,11 @@
         "2026-11-21": 15.99,
         "2026-11-22": 15.99,
         "2026-11-23": 15.99,
-        "2026-11-24": 15.99
+        "2026-11-24": 15.99,
+        "2026-11-25": 15.99
       },
       "low_price": 15.99,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "ph_ean": "0028178087449",
       "rating": 5.0
     },
@@ -617,7 +626,7 @@
       "text": "IQ Puzzler Pro van SmartGames is een klein denkspel in een handig doosje met een deksel dat dichtklikt. Je kind kiest een opdracht uit het boekje, legt een paar puzzelstukken neer zoals afgebeeld en moet de rest zelf passend maken. Er zijn 120 opdrachten, verdeeld over niveaus van starter tot expert. Een deel van de puzzels los je plat op en een deel in 3D als piramide.\n\nOmdat de opdrachten langzaam moeilijker worden, groeit het spel mee met je kind. Een kind van 6 begint bij de makkelijke puzzels en een kind van 11 bijt zich vast in de laatste. Kopers op bol geven gemiddeld een 4,8 en schrijven dat ook ouders het stiekem van tafel pakken. Met een prijs rond de 10 euro is dit het goedkoopste cadeau in deze lijst. Daarmee is het een slim schoencadeau in de weken voor 5 december of een extraatje bij een groter pakje.",
       "bol_title": "SmartGames IQ Puzzler Pro - Logisch Denkspel & Reispuzzel - 120 Opdrachten in 2D en 3D - Educatief Solospel voor Kinderen en Volwassenen - Vanaf 6 Jaar",
       "url": "https://www.bol.com/nl/nl/p/iq-puzzler-pro-denkspel/9200000055944519/",
-      "image": "https://media.s-bol.com/kqz18yyOz7vJ/OgjoQ5Y/550x570.jpg",
+      "image": "https://media.s-bol.com/7PlR1jjWlnQ8/OgjoQ5Y/487x840.jpg",
       "ph": {
         "2026-10-29": 10.0,
         "2026-10-30": 10.0,
@@ -644,10 +653,11 @@
         "2026-11-21": 12.99,
         "2026-11-22": 12.99,
         "2026-11-23": 12.99,
-        "2026-11-24": 12.99
+        "2026-11-24": 12.99,
+        "2026-11-25": 12.99
       },
       "low_price": 9.99,
-      "synced": "2026-11-24",
+      "synced": "2026-11-25",
       "prev_price": 9.99,
       "prev_date": "2026-11-08",
       "ph_ean": "5414301518587",
