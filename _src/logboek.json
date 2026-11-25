@@ -357,9 +357,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-25",
+    "t": "vervangen",
+    "uit": "Sony BRAVIA 7 II 75 inch",
+    "in": "TCL 75T8D",
+    "plek": 3,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "209cb4fb1a9ef2b6ae1529d346e66d77f48f34cb",
   "_ps": [
    {
     "brand": "Hisense",
@@ -372,9 +382,9 @@
     "ean": "5901292526658"
    },
    {
-    "brand": "Sony",
-    "name": "BRAVIA 7 II 75 inch",
-    "ean": "4548736178298"
+    "brand": "TCL",
+    "name": "75T8D",
+    "ean": "5901292531058"
    },
    {
     "brand": "Samsung",
@@ -535,7 +545,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "209cb4fb1a9ef2b6ae1529d346e66d77f48f34cb",
   "_ps": [
    {
     "brand": "LG",
@@ -2110,19 +2120,29 @@
     "in": "Philips 32PFS6050/12",
     "plek": 7,
     "paar": true
+   },
+   {
+    "d": "2026-11-25",
+    "t": "vervangen",
+    "uit": "Xiaomi TV A Pro 2026 43 inch",
+    "in": "CHiQ L43QM10V",
+    "plek": 4,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "209cb4fb1a9ef2b6ae1529d346e66d77f48f34cb",
   "_ps": [
-   {
-    "brand": "Xiaomi",
-    "name": "TV A Pro 2026 43 inch",
-    "ean": "6941948705630"
-   },
    {
     "brand": "Hisense",
     "name": "43A7Q",
     "ean": "6942351420189"
+   },
+   {
+    "brand": "CHiQ",
+    "name": "U43QST",
+    "ean": "8592344206092"
    },
    {
     "brand": "TCL",
@@ -2131,8 +2151,8 @@
    },
    {
     "brand": "CHiQ",
-    "name": "U43QST",
-    "ean": "8592344206092"
+    "name": "L43QM10V",
+    "ean": "8592344205651"
    },
    {
     "brand": "LG",
@@ -2189,7 +2209,7 @@
     "paar": true
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "209cb4fb1a9ef2b6ae1529d346e66d77f48f34cb",
   "_ps": [
    {
     "brand": "Royal Christmas",
@@ -2247,7 +2267,7 @@
   "start": "2026-11-06",
   "n": 10,
   "events": [],
-  "_tot": "eb61851f04f2b70096579da73c3c219dd70ebf5f",
+  "_tot": "209cb4fb1a9ef2b6ae1529d346e66d77f48f34cb",
   "_ps": [
    {
     "brand": "Everlands",
@@ -2305,7 +2325,7 @@
   "start": "2026-11-18",
   "n": 10,
   "events": [],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "209cb4fb1a9ef2b6ae1529d346e66d77f48f34cb",
   "_ps": [
    {
     "brand": "Triumph Tree",
@@ -2372,7 +2392,7 @@
     "paar": true
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "209cb4fb1a9ef2b6ae1529d346e66d77f48f34cb",
   "_ps": [
    {
     "brand": "Fabiola",
@@ -2517,7 +2537,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "eb61851f04f2b70096579da73c3c219dd70ebf5f",
+  "_tot": "209cb4fb1a9ef2b6ae1529d346e66d77f48f34cb",
   "_ps": [
    {
     "brand": "Xiaomi",
