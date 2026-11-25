@@ -2165,5 +2165,410 @@
     "ean": "8718863051580"
    }
   ]
+ },
+ "beste-kunstkerstboom-met-verlichting": {
+  "start": "2026-11-08",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-11-13",
+    "t": "vervangen",
+    "uit": "COSTWAY Kunstkerstboom 150 cm met 250 RGB LED",
+    "in": "COSTWAY Kunstkerstboom smal 180 cm met 250 RGB LED",
+    "plek": 9,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
+   },
+   {
+    "d": "2026-11-21",
+    "t": "vervangen",
+    "uit": "Black Box Trees Charlton smal 185 cm met LED",
+    "in": "Black Box Trees Charlton smal 215 cm met LED",
+    "plek": 8,
+    "paar": true
+   }
+  ],
+  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_ps": [
+   {
+    "brand": "Royal Christmas",
+    "name": "Bergen Premium 210 cm met 350 LED",
+    "ean": "8717591889304"
+   },
+   {
+    "brand": "Royal Christmas",
+    "name": "Vermont Spruce 210 cm met 450 LED",
+    "ean": "8717591890164"
+   },
+   {
+    "brand": "Everlands",
+    "name": "Grandis Fir 180 cm met 400 LED",
+    "ean": "8720093398496"
+   },
+   {
+    "brand": "Royal Christmas",
+    "name": "Alaska Premium smal 180 cm met 200 LED",
+    "ean": "8717591884897"
+   },
+   {
+    "brand": "Triumph Tree",
+    "name": "Bristlecone 215 cm met 240 LED",
+    "ean": "8712799346147"
+   },
+   {
+    "brand": "PristinePine",
+    "name": "Nordic Forest Fir 180 cm met 280 LED",
+    "ean": "8720929477647"
+   },
+   {
+    "brand": "Everlands",
+    "name": "Imperial Pine 180 cm met sneeuw en 260 LED",
+    "ean": "8719152783106"
+   },
+   {
+    "brand": "Black Box Trees",
+    "name": "Charlton smal 215 cm met LED",
+    "ean": "8720967840274"
+   },
+   {
+    "brand": "COSTWAY",
+    "name": "Kunstkerstboom smal 180 cm met 250 RGB LED",
+    "ean": "0602226109477"
+   },
+   {
+    "brand": "Black Box Trees",
+    "name": "Grimshaw 120 cm met LED op batterijen",
+    "ean": "8720983307294"
+   }
+  ]
+ },
+ "beste-kunstkerstboom": {
+  "start": "2026-11-06",
+  "n": 10,
+  "events": [],
+  "_tot": "eb61851f04f2b70096579da73c3c219dd70ebf5f",
+  "_ps": [
+   {
+    "brand": "Everlands",
+    "name": "Grandis Fir 210 cm",
+    "ean": "8718532241526"
+   },
+   {
+    "brand": "Royal Christmas",
+    "name": "Vermont Spruce 210 cm met 450 LED",
+    "ean": "8717591890164"
+   },
+   {
+    "brand": "Triumph Tree",
+    "name": "Tuscan 185 cm",
+    "ean": "0756770414904"
+   },
+   {
+    "brand": "Triumph Tree",
+    "name": "Matterhorn smal 185 cm",
+    "ean": "8720967792108"
+   },
+   {
+    "brand": "Everlands",
+    "name": "Grandis Fir 180 cm met 400 LED",
+    "ean": "8720093398496"
+   },
+   {
+    "brand": "Royal Christmas",
+    "name": "Washington 180 cm",
+    "ean": "8717931854375"
+   },
+   {
+    "brand": "Black Box Trees",
+    "name": "Charlton smal 215 cm",
+    "ean": "8720967840229"
+   },
+   {
+    "brand": "Triumph Tree",
+    "name": "Bristlecone 215 cm met 240 LED",
+    "ean": "8712799346147"
+   },
+   {
+    "brand": "Everlands",
+    "name": "Pencil Pine besneeuwd 240 cm",
+    "ean": "8718533661408"
+   },
+   {
+    "brand": "Triumph Tree",
+    "name": "Bristlecone Pilar smal 185 cm",
+    "ean": "8718861346312"
+   }
+  ]
+ },
+ "beste-kunstkerstboom-210-cm": {
+  "start": "2026-11-18",
+  "n": 10,
+  "events": [],
+  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_ps": [
+   {
+    "brand": "Triumph Tree",
+    "name": "Forest Frosted 215 cm",
+    "ean": "0756770520346"
+   },
+   {
+    "brand": "Royal Christmas",
+    "name": "Bergen 210 cm",
+    "ean": "8717591888970"
+   },
+   {
+    "brand": "Triumph Tree",
+    "name": "Bristlecone 215 cm",
+    "ean": "8711473866520"
+   },
+   {
+    "brand": "Royal Christmas",
+    "name": "Rockefeller 210 cm",
+    "ean": "8717591890119"
+   },
+   {
+    "brand": "Everlands",
+    "name": "Grandis Fir 210 cm",
+    "ean": "8718532241526"
+   },
+   {
+    "brand": "Triumph Tree",
+    "name": "Forrester 215 cm",
+    "ean": "8718861510645"
+   },
+   {
+    "brand": "Everlands",
+    "name": "Allison Fir 210 cm met 430 lampjes",
+    "ean": "8720194655191"
+   },
+   {
+    "brand": "Royal Christmas",
+    "name": "Cypress 210 cm smal",
+    "ean": "8717931858014"
+   },
+   {
+    "brand": "Royal Christmas",
+    "name": "Washington 210 cm",
+    "ean": "8717931854382"
+   },
+   {
+    "brand": "Everlands",
+    "name": "Pencil Pine Snowy 210 cm",
+    "ean": "8718533661392"
+   }
+  ]
+ },
+ "beste-4-seizoenen-dekbed": {
+  "start": "2026-10-31",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-11-07",
+    "t": "vervangen",
+    "uit": "HUSH Living 4 Seizoenen Dekbed 240x200",
+    "in": "HUSH Living 4 Seizoenen Dekbed 200x200",
+    "plek": 10,
+    "paar": true
+   }
+  ],
+  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_ps": [
+   {
+    "brand": "Fabiola",
+    "name": "Oostenrijks Halfdons 4-Seizoenen Dekbed 240x220",
+    "ean": "8720618169747"
+   },
+   {
+    "brand": "Avenue",
+    "name": "Geavanceerd 4 Seizoenen Dekbed 240x220",
+    "ean": "8720618169952"
+   },
+   {
+    "brand": "Terschellinger",
+    "name": "Luxe 4-Seizoenen Scheerwollen Dekbed 200x220",
+    "ean": "8720256479413"
+   },
+   {
+    "brand": "Castella",
+    "name": "Sirius 4 Seizoenen Dekbed 90% Eendendons 200x220",
+    "ean": "8720701885332"
+   },
+   {
+    "brand": "Ducky Dons",
+    "name": "Nordic 4-Seizoenen Dekbed 200x220",
+    "ean": "8718719723142"
+   },
+   {
+    "brand": "Texels Comfort",
+    "name": "Luxe 4-Seizoenen Wollen Dekbed 240x220",
+    "ean": "8721067012059"
+   },
+   {
+    "brand": "Slaapspeciaal",
+    "name": "Climate Control 4-Seizoenen Dekbed 240x220",
+    "ean": "8719425809946"
+   },
+   {
+    "brand": "Eastlands",
+    "name": "Vasse Bamboe 4-Seizoenen Dekbed 240x220",
+    "ean": "8719638068932"
+   },
+   {
+    "brand": "Sleep Comfy",
+    "name": "Thermo Balance 4 Seizoenen Dekbed 240x220",
+    "ean": "8720813992065"
+   },
+   {
+    "brand": "HUSH Living",
+    "name": "4 Seizoenen Dekbed 200x200",
+    "ean": "8721339407583"
+   }
+  ]
+ },
+ "beste-smartphone-onder-300-euro": {
+  "start": "2026-10-16",
+  "n": 10,
+  "events": [
+   {
+    "d": "2026-10-25",
+    "t": "vervangen",
+    "uit": "Xiaomi POCO M8 Pro 5G 8/256GB",
+    "in": "Xiaomi POCO M8 Pro 5G 12/512GB",
+    "plek": 10,
+    "paar": true
+   },
+   {
+    "d": "2026-10-29",
+    "t": "vervangen",
+    "uit": "Xiaomi POCO M8 Pro 5G 12/512GB",
+    "in": "Xiaomi POCO M8 Pro 5G 8/256GB",
+    "plek": 10,
+    "paar": true
+   },
+   {
+    "d": "2026-11-01",
+    "t": "vervangen",
+    "uit": "Xiaomi POCO M8 Pro 5G 8/256GB",
+    "in": "Samsung Galaxy A17 5G 128GB",
+    "plek": 10,
+    "paar": true
+   },
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "Motorola edge 60 fusion 8/256GB",
+    "in": "Honor 400 5G 8/256GB",
+    "plek": 2,
+    "paar": true
+   },
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "OnePlus Nord CE5 8/256GB",
+    "in": "Nothing Phone (3a) Lite 8/256GB",
+    "plek": 6,
+    "paar": false
+   },
+   {
+    "d": "2026-11-10",
+    "t": "vervangen",
+    "uit": "Xiaomi Redmi Note 15 5G 8/256GB",
+    "in": "Motorola moto g56 5G 8/256GB",
+    "plek": 8,
+    "paar": false
+   },
+   {
+    "d": "2026-11-12",
+    "t": "vervangen",
+    "uit": "Motorola moto g86 5G 8/256GB",
+    "in": "Xiaomi Redmi Note 14 Pro 5G 8/256GB",
+    "plek": 4,
+    "paar": true
+   },
+   {
+    "d": "2026-11-13",
+    "t": "vervangen",
+    "uit": "Xiaomi Redmi Note 14 Pro 5G 8/256GB",
+    "in": "Motorola moto g77 5G 8/256GB",
+    "plek": 4,
+    "paar": true,
+    "waarom": "kwam boven de prijsgrens van deze gids",
+    "bron": "data"
+   },
+   {
+    "d": "2026-11-20",
+    "t": "vervangen",
+    "uit": "Nothing Phone (3a) 8/128GB",
+    "in": "Xiaomi Redmi Note 14 Pro+ 5G 12/512GB",
+    "plek": 1,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
+   },
+   {
+    "d": "2026-11-23",
+    "t": "vervangen",
+    "uit": "Xiaomi Redmi Note 14 Pro+ 5G 12/512GB",
+    "in": "Xiaomi Redmi Note 17 Pro 5G 6/256GB",
+    "plek": 1,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
+   }
+  ],
+  "_tot": "eb61851f04f2b70096579da73c3c219dd70ebf5f",
+  "_ps": [
+   {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 17 Pro 5G 6/256GB",
+    "ean": "6939093009963"
+   },
+   {
+    "brand": "Honor",
+    "name": "400 5G 8/256GB",
+    "ean": "6936520867585"
+   },
+   {
+    "brand": "Samsung",
+    "name": "Galaxy A36 5G 128GB",
+    "ean": "8806095984438"
+   },
+   {
+    "brand": "Motorola",
+    "name": "moto g77 5G 8/256GB",
+    "ean": "0840493617213"
+   },
+   {
+    "brand": "Google",
+    "name": "Pixel 8a 128GB",
+    "ean": "0840244707958"
+   },
+   {
+    "brand": "Nothing",
+    "name": "Phone (3a) Lite 8/256GB",
+    "ean": "6974434227064"
+   },
+   {
+    "brand": "Samsung",
+    "name": "Galaxy A26 5G 128GB",
+    "ean": "8806097072829"
+   },
+   {
+    "brand": "Motorola",
+    "name": "moto g56 5G 8/256GB",
+    "ean": "0840023292316"
+   },
+   {
+    "brand": "Honor",
+    "name": "600 Lite 5G 8/256GB",
+    "ean": "6936520891986"
+   },
+   {
+    "brand": "Samsung",
+    "name": "Galaxy A17 5G 128GB",
+    "ean": "8806097640257"
+   }
+  ]
  }
 }
