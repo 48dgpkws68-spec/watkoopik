@@ -180,8 +180,53 @@ def _kosten_tv(g):
     return ('<h2 id="kosten" class="rv" style="margin-top:28px">Wat ze per jaar kosten aan stroom</h2><p>%s</p>'
             '<div class="tbl rv"><table><thead><tr><th>Model</th><th>Energieklasse (SDR)</th><th>Vermogen (SDR, EU-label)</th><th>Per jaar, 4 uur per dag</th></tr></thead><tbody>%s</tbody></table></div>'
             '<p class="muted" style="font-size:.9rem">Eigen berekening: het aan-vermogen in SDR van het EU-energielabel (EPREL) keer 4 uur per dag keer 365 dagen keer %s HDR-films, een felle beeldstand of gamen op hoge helderheid verbruiken meer; een eco-stand minder.</p>') % (zin, trs, _kosten_bron())
+# G1 kunstkerstbomen (25 nov 2026): prijs per 10 cm hoogte en lichtdichtheid, alleen uit echte hoogte en echt aantal lampjes in specs/naam.
+def _kb_cm(p):
+    hs = set()
+    v = str((p.get("specs") or {}).get("Hoogte", ""))
+    m = re.match(r"\s*(\d{2,3})\s*cm\b", v)
+    if m: hs.add(int(m.group(1)))
+    hs.update(int(x) for x in re.findall(r"(\d{2,3})\s*cm\b", p["name"]) if 60 <= int(x) <= 400)
+    return hs.pop() if len(hs) == 1 else None  # geen of tegenstrijdige hoogte: niet opgegeven
+def _kb_led(p):
+    sp = p.get("specs") or {}
+    v = " ".join(str(sp.get(k, "")) for k in ("Lampjes", "Verlichting") if k in sp)
+    if not v.strip(): return None
+    if re.fullmatch(r"\s*nee\s*", v, re.I): return 0
+    ns = set(int(x) for x in re.findall(r"(\d+)\s*(?:led|lampjes)\b", v, re.I))
+    ns.update(int(x) for x in re.findall(r"(\d+)\s*(?:rgb\s*)?(?:led|lampjes)\b", p["name"], re.I))
+    return ns.pop() if len(ns) == 1 else None
+def _eenheid_kerstboom(g):
+    if "kunstkerstboom" not in g["slug"]: return ""
+    rij = [(p, _kb_cm(p), _kb_led(p)) for p in g["products"]]
+    met_h = [(p, h) for p, h, l in rij if h]
+    if len(met_h) < 4: return ""
+    lit = [(p, h, l) for p, h, l in rij if h and l]
+    licht = len(lit) >= 3
+    def n1(v): return ("%.1f" % v).replace(".", ",")
+    NO = '<span class="muted">niet opgegeven</span>'
+    trs = ""
+    for p, h, l in rij:
+        c = '<td class="nm">%s %s</td><td>%s</td><td><b>%s</b></td>' % (e(p["brand"]), e(p["name"]), ("%d cm" % h) if h else NO, _m2(p["price"] / h * 10) if h else NO)
+        if licht:
+            if l == 0: c += '<td>geen</td><td>-</td><td>-</td>'
+            elif l and h: c += '<td>%d</td><td>%s</td><td>%s</td>' % (l, n1(l / h * 10), _m2(p["price"] / l * 100))
+            else: c += '<td>%s</td><td>%s</td><td>%s</td>' % (("%d" % l) if l else NO, NO, NO)
+        trs += "<tr>%s</tr>" % c
+    gk = min(met_h, key=lambda x: x[0]["price"] / x[1])
+    zin = 'De meeste boom voor je geld: <b>%s %s</b>, %s per 10 cm hoogte.' % (e(gk[0]["brand"]), e(gk[0]["name"]), _m2(gk[0]["price"] / gk[1] * 10))
+    kop = '<th>Model</th><th>Hoogte</th><th>Prijs per 10 cm</th>'
+    if licht:
+        dl = max(lit, key=lambda x: x[2] / x[1]); gl = min(lit, key=lambda x: x[0]["price"] / x[2])
+        zin += ' De meeste lampjes per 10 cm geeft de <b>%s %s</b>: %s.' % (e(dl[0]["brand"]), e(dl[0]["name"]), n1(dl[2] / dl[1] * 10))
+        zin += (' Die heeft met %s per 100 lampjes ook het voordeligste licht.' % _m2(dl[0]["price"] / dl[2] * 100)) if gl is dl else (' Het voordeligste licht: <b>%s %s</b>, %s per 100 lampjes.' % (e(gl[0]["brand"]), e(gl[0]["name"]), _m2(gl[0]["price"] / gl[2] * 100)))
+        kop += '<th>Lampjes</th><th>Lampjes per 10 cm</th><th>Prijs per 100 lampjes</th>'
+    return ('<h2 id="per-cm" class="rv" style="margin-top:28px">Wat je per centimeter betaalt</h2><p>%s</p>'
+            '<div class="tbl rv"><table><thead><tr>%s</tr></thead><tbody>%s</tbody></table></div>'
+            '<p class="muted" style="font-size:.9rem">Eigen berekening: de huidige prijs gedeeld door de hoogte volgens de fabrikant%s. Staat een waarde niet bij het product of spreken de gegevens elkaar tegen, dan rekenen we niet en staat er niet opgegeven. Een lage prijs per centimeter zegt niets over hoe vol de boom is: kijk daarvoor ook naar de diameter en het aantal takken.</p>') % (
+        zin, kop, trs, "; bij bomen met verlichting ook het aantal lampjes volgens de fabrikant gedeeld door de hoogte" if licht else "")
 def kosten_html(g):
-    return _kosten_watt(g) or _kosten_airfryer(g) or _kosten_label(g) or _kosten_tv(g)
+    return _kosten_watt(g) or _kosten_airfryer(g) or _kosten_label(g) or _kosten_tv(g) or _eenheid_kerstboom(g)
 
 def eur(v):
     s = ("%.2f" % v).replace(".", ","); return "€ " + (s[:-3] if s.endswith(",00") else s)
@@ -1611,7 +1656,7 @@ prose("zo-kiezen-wij.html", "Zo kiezen wij: onze methode", "Zo komen de top 10's
 <h2>Wat we wegen</h2><p>Elk product krijgt een score van 1 tot 10. <b>Prestaties</b> (40%): hoe goed doet het product zijn werk, op basis van specificaties en terugkerende ervaringen in reviews. <b>Prijs-kwaliteit</b> (25%): wat krijg je voor je geld vergeleken met de rest van de lijst. <b>Betrouwbaarheid</b> (20%): garantie, merkreputatie en klachten over defecten. <b>Gebruiksgemak</b> (15%): bediening, onderhoud en ergernissen.</p>
 <h2>Onze bronnen</h2><p>Officiële specificaties van fabrikanten, productpagina's en reviewscores van grote Nederlandse winkels zoals bol. Waar beschikbaar gebruiken we ook onafhankelijke tests van gespecialiseerde media. Wij testen producten niet zelf in een lab. We zeggen dus nooit dat we iets getest hebben, wel dat we het vergeleken hebben.</p>
 <h2>Hoe we geld verdienen</h2><p>Koop je via een link op onze site, dan ontvangen wij soms een kleine vergoeding van de winkel. Jij betaalt niets extra. Dit heeft geen invloed op de volgorde: merken kunnen geen plek kopen.</p>
-<h2 id="stroomkosten">Stroomkosten</h2><p>Bij kachels, dekens, ontvochtigers, airfryers, koelkasten, vriezers, wasmachines, drogers en tv's rekenen we zelf uit wat een apparaat aan stroom kost. Voor apparaten die op vermogen draaien: het maximale vermogen volgens de fabrikant keer de tijd keer de stroomprijs. Voor koelen, wassen en drogen: het verbruik van het EU-energielabel keer de stroomprijs. Voor tv's: het aan-vermogen in SDR van het EU-energielabel (EPREL) keer 4 uur kijken per dag. De stroomprijs is het gemiddelde variabele leveringstarief plus energiebelasting inclusief btw van het CBS (tabel 85592NED), die we elk kwartaal bijwerken. Het zijn rekenvoorbeelden, geen metingen: een thermostaat, eco-stand of kortere sessie maakt de echte kosten lager.</p><h2>Actualiteit</h2><p>Prijzen controleren we dagelijks bij bol. Lijsten bekijken we minimaal elke maand opnieuw. Verdwijnt een product of komt er een beter model, dan passen we de lijst eerder aan.</p>''', "zo-kiezen-wij.html")
+<h2 id="stroomkosten">Stroomkosten</h2><p>Bij kachels, dekens, ontvochtigers, airfryers, koelkasten, vriezers, wasmachines, drogers en tv's rekenen we zelf uit wat een apparaat aan stroom kost. Voor apparaten die op vermogen draaien: het maximale vermogen volgens de fabrikant keer de tijd keer de stroomprijs. Voor koelen, wassen en drogen: het verbruik van het EU-energielabel keer de stroomprijs. Voor tv's: het aan-vermogen in SDR van het EU-energielabel (EPREL) keer 4 uur kijken per dag. De stroomprijs is het gemiddelde variabele leveringstarief plus energiebelasting inclusief btw van het CBS (tabel 85592NED), die we elk kwartaal bijwerken. Het zijn rekenvoorbeelden, geen metingen: een thermostaat, eco-stand of kortere sessie maakt de echte kosten lager.</p><h2 id="prijs-per-cm">Prijs per centimeter bij kunstkerstbomen</h2><p>Bij kunstkerstbomen rekenen we uit wat je per 10 cm hoogte betaalt: de huidige prijs gedeeld door de hoogte volgens de fabrikant. Bij bomen met verlichting delen we ook het aantal lampjes door de hoogte (lampjes per 10 cm) en rekenen we de prijs per 100 lampjes uit. We gebruiken alleen de hoogte en het aantal lampjes die bij het product staan. Ontbreekt een waarde of spreken naam en specificaties elkaar tegen, dan laten we dat vak leeg.</p><h2>Actualiteit</h2><p>Prijzen controleren we dagelijks bij bol. Lijsten bekijken we minimaal elke maand opnieuw. Verdwijnt een product of komt er een beter model, dan passen we de lijst eerder aan.</p>''', "zo-kiezen-wij.html")
 prose("over-ons.html", "Over ons: de makers van onze top 10-gidsen", "watkoopik is opgezet door Nick van Straaten en maakt onafhankelijke top 10-koopgidsen. Merken kunnen geen plek kopen. Prijzen meten we elke dag bij bol.", '''<span class="kick">Over watkoopik</span><h1 class="split" style="font-size:clamp(1.9rem,5vw,3rem)">Een eerlijk overzicht, zodat jij slim koopt</h1>
 <p>Wie een stofzuiger of koffiemachine zoekt, verdrinkt in honderden modellen en tegenstrijdige reviews. Wij wilden één plek waar je per productsoort in vijf minuten ziet wat de beste keuze is en waarom.</p>
 <p>Daarom maken we top 10-lijsten: precies tien modellen die ertoe doen, met eerlijke plus- en minpunten en voor wie elk product geschikt is. watkoopik is onderdeel van 4NEON en werkt onafhankelijk van merken en winkels.</p>
@@ -1630,7 +1675,7 @@ wr("stats.html", '<!doctype html><html lang="nl"><head><meta charset="utf-8"><me
 # lastmod volgt echte wijzigingen (nieuwste gids), niet de bouwdatum, zodat Google het signaal blijft vertrouwen
 LAST = max(gmod(g) for g in guides)
 urls = [("", LAST, "1.0"), ("gidsen.html", LAST, "0.8"), ("aanbiedingen/", TODAY.isoformat(), "0.8"), ("keuzehulp.html", LAST, "0.7"), ("slimste-koop.html", LAST, "0.7"),
-        ("zo-kiezen-wij.html", "2026-11-24", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
+        ("zo-kiezen-wij.html", "2026-11-25", "0.4"), ("over-ons.html", "2026-10-13", "0.3"), ("contact.html", "2026-10-13", "0.3")]
 urls += [("categorie/%s.html" % k if k != "cadeaus" else "cadeaus/", max(gmod(g) for g in by_cat[k]), "0.7") for k in CATS if by_cat.get(k)]
 urls += [("black-friday/", TODAY.isoformat(), "0.8")] + ([("black-friday/echte-kortingen-2026.html", TODAY.isoformat(), "0.8")] if BF_N else [])
 # hubs niet meer in de sitemap (Google-plan 23 nov 2026)
