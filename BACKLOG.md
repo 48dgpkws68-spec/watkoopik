@@ -330,6 +330,8 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-kunstkerstboom-met-verlichting-180-cm | wonen | kunstkerstboom met verlichting 180 cm | De 10 beste kunstkerstbomen met verlichting van 180 cm van 2026 | 🎄 (google_wacht)
 [x] beste-tv-75-inch-onder-1000-euro | elektronica | 75 inch tv onder 1000 euro | De 10 beste tv's van 75 inch onder 1000 euro van 2026 | 📺 (google_wacht)
 [x] beste-robotstofzuiger-met-dweilfunctie-onder-300-euro | huishouden | robotstofzuiger met dweilfunctie onder 300 euro | De 10 beste robotstofzuigers met dweilfunctie onder 300 euro van 2026 | 🤖 (google_wacht)
+[x] beste-gaming-tv-onder-500-euro | elektronica | gaming tv onder 500 euro | De 10 beste gaming-tv's onder 500 euro van 2026 | 🎮 (google_wacht)
+[x] beste-boxspring-140x200 | slapen | boxspring 140x200 | De 10 beste boxsprings van 140x200 van 2026 | 🛏️ (google_wacht)
 [x] beste-tv-55-inch-onder-1000-euro | elektronica | 55 inch tv onder 1000 euro | De 10 beste tv's van 55 inch onder 1000 euro van 2026 | 📺 (google_wacht)
 [x] beste-elektrische-openhaard-onder-300-euro | wonen | elektrische openhaard onder 300 euro | De 10 beste elektrische openhaarden onder 300 euro van 2026 | 🔥 (google_wacht)
 [x] beste-videodeurbel-op-accu | elektronica | videodeurbel op accu | De 10 beste videodeurbellen op accu van 2026 | 🔔 (google_wacht, K5)

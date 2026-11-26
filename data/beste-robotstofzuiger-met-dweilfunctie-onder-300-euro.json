@@ -15,7 +15,7 @@
   ],
   "ico": "🤖",
   "color": "#1f6f8b",
-  "updated": "2026-11-22",
+  "updated": "2026-11-26",
   "published": "2026-11-22",
   "google_wacht": true,
   "reviews_total": "",
@@ -28,59 +28,14 @@
     "beste-robotstofzuiger-huisdieren"
   ],
   "intro": "Een robotstofzuiger met dweilfunctie onder 300 euro kan in 2026 veel meer dan een natte doek over de vloer slepen. Voor dat geld koop je draaiende dweilpads, een station dat de pads wast en droogt of een dweil die vanzelf omhoog gaat zodra de robot een vloerkleed ziet. Het verschil zit in het soort dweil, de grootte van het waterreservoir en wat het station voor je doet. Wij vergeleken de modellen die nu bij bol onder 300 euro te koop zijn op dweilen, zuigkracht en onderhoud.",
-  "verdict": "De Ecovacs Deebot T50 Omni Gen3 is de beste robotstofzuiger met dweilfunctie onder 300 euro: twee draaiende pads, een station dat ze op 75 graden wast en droogt en dat voor 249 euro. De T30e Omni is het alternatief met Carpets First voor huizen met veel vloerkleden. Wil je zo weinig mogelijk uitgeven, dan dweilt de Roborock Q10 PF+ met een liftende dweil voor rond de 180 euro.",
+  "verdict": "De Ecovacs Deebot T30e Omni is de beste robotstofzuiger met dweilfunctie onder 300 euro: twee draaiende pads, 25.000 Pa en een station dat de robot leegt, water bijvult en de pads droogt voor 264 euro. Wil je zo weinig mogelijk uitgeven, dan dweilt de Roborock Q10 PF+ met een liftende dweil voor rond de 180 euro. De Dreame L10s Ultra Gen 2 is de premium keuze: voor 289 euro wast en droogt het station de dweilpads voor je.",
   "products": [
-    {
-      "brand": "Ecovacs",
-      "name": "Deebot T50 Omni Gen3",
-      "price": 324.95,
-      "score": 9.2,
-      "label": "Beste keuze",
-      "reviews": "bol-score 4,5 van 5",
-      "oneliner": "Volledig dweilstation met heetwaterwas voor 249 euro.",
-      "specs": {
-        "Dweil": "2 draaiende pads",
-        "Zuigkracht": "25.000 Pa",
-        "Station": "Leegt, wast op 75 °C, droogt",
-        "Tapijt": "Pads 9 mm omhoog",
-        "Waterreservoir": "4 l schoon, 4 l vuil"
-      },
-      "pros": [
-        "Station wast de dweilpads met water tot 75 graden",
-        "Pads drogen met warme lucht, dus geen muffe geur",
-        "Doseert zelf schoonmaakmiddel",
-        "Slechts 8,1 cm hoog, past onder veel banken"
-      ],
-      "cons": [
-        "Station neemt flink wat ruimte in",
-        "Stofzakken in het station moet je bijkopen"
-      ],
-      "ideal": "Wie onder 300 euro een robot wil die dweilt zonder dat je zelf ooit een pad uitspoelt.",
-      "text": "De Ecovacs Deebot T50 Omni Gen3 geeft je voor 249 euro wat een paar jaar geleden alleen bij robots van 600 euro zat. Twee draaiende dweilpads schrobben de vloer met constante druk en het OMNI-station wast die pads daarna met water tot 75 graden. Vet en opgedroogde vlekken laten daardoor makkelijker los dan met koud water. Na het wassen droogt het station de pads met lucht van 45 graden, zodat ze niet gaan ruiken.\n\nHet station heeft een schoonwatertank en een vuilwatertank van elk 4 liter en doseert zelf schoonmaakmiddel. Ook het stofreservoir wordt automatisch geleegd in een stofzak van 3 liter. Ziet de robot tapijt, dan gaan de pads 9 mm omhoog. Met 25.000 Pa zuigkracht en ZeroTangle 3.0 tegen klittende haren is ook het stofzuigen sterk. De robot is 8,1 cm hoog en komt onder veel banken. Je hebt wel plek nodig voor het station.",
-      "ean": "6979463770543",
-      "bol_title": "ECOVACS – DEEBOT T50 OMNI Gen3 – Robotstofzuiger-mop – 25.000 Pa",
-      "url": "https://www.bol.com/nl/nl/p/ecovacs-deebot-t50-omni-gen3-0-26-l-wit/9300000318342723/",
-      "image": "https://media.s-bol.com/jDQP7xPKqYYW/l5ZWjWr/550x537.jpg",
-      "ph": {
-        "2026-11-22": 249.0,
-        "2026-11-23": 249.0,
-        "2026-11-24": 249.0,
-        "2026-11-25": 249.0,
-        "2026-11-26": 324.95
-      },
-      "low_price": 249.0,
-      "ph_ean": "6979463770543",
-      "rating": 4.5,
-      "synced": "2026-11-26",
-      "prev_price": 249.0,
-      "prev_date": "2026-11-25"
-    },
     {
       "brand": "Ecovacs",
       "name": "Deebot T30e Omni",
       "price": 264.0,
       "score": 9.0,
-      "label": "Beste premium",
+      "label": "Beste keuze",
       "reviews": "bol-score 4,5 van 5",
       "oneliner": "Zuigt eerst je tapijten en dweilt daarna de harde vloer.",
       "specs": {
@@ -97,11 +52,11 @@
         "Spot Cleaning voor een plek van 1,5 bij 1,5 meter"
       ],
       "cons": [
-        "Iets duurder dan de T50 Omni Gen3",
-        "Geen heetwaterwas zoals bij de T50"
+        "Geen heetwaterwas voor de dweilpads",
+        "Stofzakken in het station moet je bijkopen"
       ],
       "ideal": "Wie veel vloerkleden heeft en wil dat die gegarandeerd droog blijven.",
-      "text": "De Ecovacs Deebot T30e Omni is de robot voor huizen met een mix van harde vloer en vloerkleden. Met de stand Carpets First zuigt hij eerst alle tapijten, voordat de dweilpads nat worden. Komt hij onderweg toch een nieuw kleed tegen, dan tillen de pads zich 9 mm op. In de app kies je per tapijt of de robot het alleen stofzuigt of helemaal vermijdt. Zo blijft een hoogpolig kleed altijd droog.\n\nOp de harde vloer dweilt OZMO Turbo 2.0 met twee draaiende pads en een doorlopende watertoevoer, goed tegen opgedroogde koffie en kleverige saus. Het station leegt de robot in een stofzak van 3 liter, vult zijn water bij uit een tank van 4 liter en droogt de pads met warme lucht van 45 graden. De zuigkracht is 25.000 Pa. Ten opzichte van de T50 Omni Gen3 mis je de heetwaterwas. Je betaalt hier vooral voor het slimme tapijtbeleid.",
+      "text": "De Ecovacs Deebot T30e Omni is de robot voor huizen met een mix van harde vloer en vloerkleden. Met de stand Carpets First zuigt hij eerst alle tapijten, voordat de dweilpads nat worden. Komt hij onderweg toch een nieuw kleed tegen, dan tillen de pads zich 9 mm op. In de app kies je per tapijt of de robot het alleen stofzuigt of helemaal vermijdt. Zo blijft een hoogpolig kleed altijd droog.\n\nOp de harde vloer dweilt OZMO Turbo 2.0 met twee draaiende pads en een doorlopende watertoevoer, goed tegen opgedroogde koffie en kleverige saus. Het station leegt de robot in een stofzak van 3 liter, vult zijn water bij uit een tank van 4 liter en droogt de pads met warme lucht van 45 graden. De zuigkracht is 25.000 Pa. Een heetwaterwas voor de pads zit er voor dit geld niet op. Het sterke punt is hoe hij met vloerkleden omgaat.",
       "ean": "6979463770871",
       "bol_title": "Ecovacs DEEBOT T30e OMNI Robotstofzuiger met dweilfunctie - 25.000 Pa - Anti-klit - Autolegen",
       "url": "https://www.bol.com/nl/nl/p/ecovacs-deebot-t30e-omni-black/9300000269457540/",
@@ -162,6 +117,55 @@
       "synced": "2026-11-26"
     },
     {
+      "brand": "Dreame",
+      "name": "L10s Ultra Gen 2",
+      "price": 289.0,
+      "score": 8.8,
+      "label": "Beste premium",
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Station wast en droogt de pads, dweil schuift uit langs plinten.",
+      "specs": {
+        "Dweil": "2 draaiende pads, schuift uit",
+        "Zuigkracht": "10.000 Pa",
+        "Station": "Leegt, wast en droogt pads",
+        "Tapijt": "Pads 10,5 mm omhoog",
+        "Waterreservoir": "Niet opgegeven"
+      },
+      "pros": [
+        "Station wast de dweilpads en droogt ze met warme lucht",
+        "MopExtend RoboSwing dweilt tot langs plinten en tafelpoten",
+        "Pads gaan 10,5 mm omhoog op tapijt",
+        "Tot 75 dagen zonder stofzak legen"
+      ],
+      "cons": [
+        "Zuigkracht van 10.000 Pa is lager dan bij de Ecovacs",
+        "Station is groot: 47 bij 38 bij 40 cm",
+        "Met 289 euro de duurste robot in deze lijst"
+      ],
+      "ideal": "Wie nooit zelf een dweilpad wil uitspoelen en daarvoor het hele budget van 300 euro gebruikt.",
+      "text": "De Dreame L10s Ultra Gen 2 kost 289 euro en is daarmee de duurste robot in deze lijst. Je krijgt er het meest complete station voor terug. Het leegt de robot in een stofzak van 3,5 liter, wast de dweilpads, droogt ze met warme lucht en vult zelf water bij. Volgens Dreame kun je zo tot 75 dagen zonder de stofzak te legen. Een nat, vuil pad dat blijft liggen heb je hier dus niet.\n\nTwee draaiende pads doen het dweilwerk. Met MopExtend RoboSwing zwaait de robot een pad tot 4 cm naar buiten, zodat hij dichter langs plinten, stoelpoten en hoeken komt dan de meeste ronde robots. Op tapijt gaan de pads 10,5 mm omhoog. De zuigkracht is 10.000 Pa met een rubberen borstel waar haren minder snel in vastlopen. Dat is minder dan de 25.000 Pa van de Ecovacs op nummer 1. Reken ook op een fors station van 47 bij 38 bij 40 cm. Op bol scoort hij gemiddeld 4,6 van 5.",
+      "ean": "6976233677033",
+      "bol_title": "Dreame L10s Ultra Gen 2 - Robotstofzuiger en dweilcombinatie - Automatisch basisstation (75 dagen handsfree) - 10.000 Pa Vormax-zuigkracht - MopExtend RoboSwing randreiniging - DuoScrub en 10,5 mm dweiltilhoogte - App-bediening - Voor huisdierenhaar",
+      "url": "https://www.bol.com/nl/nl/p/dreame-l10s-ultra-gen-2-robotstofzuiger-met-dweilfunctie-groter-bereik-krachtige-tapijtreiniging-geschikt-voor-huisdierharen/9300000187073922/",
+      "rating": 4.6,
+      "image": "https://media.s-bol.com/Qr1JlAzGjYr7/2kOZkPJ/550x685.jpg",
+      "ph": {
+        "2026-11-19": 299.0,
+        "2026-11-20": 299.0,
+        "2026-11-21": 299.0,
+        "2026-11-22": 299.0,
+        "2026-11-23": 279.0,
+        "2026-11-24": 299.0,
+        "2026-11-25": 289.0,
+        "2026-11-26": 289.0
+      },
+      "low_price": 279.0,
+      "ph_ean": "6976233677033",
+      "synced": "2026-11-26",
+      "prev_price": 299.0,
+      "prev_date": "2026-11-24"
+    },
+    {
       "brand": "Xiaomi",
       "name": "Robot Vacuum H50",
       "price": 275.0,
@@ -186,7 +190,7 @@
         "Weinig informatie over tapijtherkenning"
       ],
       "ideal": "Wie een compleet station van een bekend merk wil en het budget van 300 euro bijna helemaal gebruikt.",
-      "text": "De Xiaomi Robot Vacuum H50 kost 282,99 euro en is daarmee de duurste robot in deze lijst. Je krijgt er een Omni-station bij met een schoonwatertank, een vuilwatertank en een wegwerpstofzak. De robot rijdt met twee dweilpadhouders over de vloer en het station vangt het vuile water op. Dat scheelt je het uitspoelen van doekjes na elke beurt.\n\nVoor de navigatie gebruikt de H50 LiDAR. Hij maakt een plattegrond van je woning en in de Xiaomi Home-app stel je schema's in en volg je de voortgang. Xiaomi is zuinig met details: een zuigkracht wordt niet genoemd en over tapijtherkenning tijdens het dweilen staat niets concreets in de productinformatie. Wie dat belangrijk vindt, is bij de Ecovacs T30e Omni beter af. Wil je vooral een Xiaomi met een volledig station onder 300 euro, dan is dit het model om naar te kijken.",
+      "text": "De Xiaomi Robot Vacuum H50 kost 275 euro en hoort daarmee bij de duurste robots in deze lijst. Je krijgt er een Omni-station bij met een schoonwatertank, een vuilwatertank en een wegwerpstofzak. De robot rijdt met twee dweilpadhouders over de vloer en het station vangt het vuile water op. Dat scheelt je het uitspoelen van doekjes na elke beurt.\n\nVoor de navigatie gebruikt de H50 LiDAR. Hij maakt een plattegrond van je woning en in de Xiaomi Home-app stel je schema's in en volg je de voortgang. Xiaomi is zuinig met details: een zuigkracht wordt niet genoemd en over tapijtherkenning tijdens het dweilen staat niets concreets in de productinformatie. Wie dat belangrijk vindt, is bij de Ecovacs T30e Omni beter af. Wil je vooral een Xiaomi met een volledig station onder 300 euro, dan is dit het model om naar te kijken.",
       "ean": "6932554458287",
       "bol_title": "Xiaomi Robot Vacuum H50 - Robotstofzuiger - LiDAR-navigatie - Dweilfunctie - Lange gebruiksduur - Geschikt voor meerdere vloertypen",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-robot-vacuum-h50-robotstofzuiger-lidar-navigatie-intelligente-mapping-app-bediening-lange-batterijduur-dweilfunctie-geschikt-voor-meerdere-vloertypes/9300000265580113/",
@@ -272,7 +276,7 @@
         "Pads spoel je zelf uit"
       ],
       "ideal": "Wie draaiende dweilpads wil voor randen en hoeken en geen station nodig heeft.",
-      "text": "De Xiaomi Robot Vacuum S40 Pro is de goedkoopste robot in deze lijst met twee draaiende dweilpads. Ze draaien tot 180 keer per minuut en nemen daardoor meer vuil mee dan een vlakke dweil. Het bijzondere is de uitschuivende pad: die reikt tot vlak langs muren, plinten en tafelpoten, de plekken waar veel dweilrobots een randje laten liggen.\n\nDe watertank in de robot is 310 ml en in de app stel je het waterniveau en de zuigkracht per zone in. Met 15.000 Pa en een stofbak van 430 ml pakt hij ook kruimels en huisdierharen aan. LDS-lasernavigatie en obstakeldetectie zorgen voor nette banen en volgens Xiaomi red je tot 180 m² op een acculading. Er zit alleen een laadstation bij. Stofbak legen en pads uitspoelen doe je dus zelf. Wil je dat niet, kijk dan naar de Ecovacs T50 Omni Gen3.",
+      "text": "De Xiaomi Robot Vacuum S40 Pro is de goedkoopste robot in deze lijst met twee draaiende dweilpads. Ze draaien tot 180 keer per minuut en nemen daardoor meer vuil mee dan een vlakke dweil. Het bijzondere is de uitschuivende pad: die reikt tot vlak langs muren, plinten en tafelpoten, de plekken waar veel dweilrobots een randje laten liggen.\n\nDe watertank in de robot is 310 ml en in de app stel je het waterniveau en de zuigkracht per zone in. Met 15.000 Pa en een stofbak van 430 ml pakt hij ook kruimels en huisdierharen aan. LDS-lasernavigatie en obstakeldetectie zorgen voor nette banen en volgens Xiaomi red je tot 180 m² op een acculading. Er zit alleen een laadstation bij. Stofbak legen en pads uitspoelen doe je dus zelf. Wil je dat niet, kijk dan naar de Dreame L10s Ultra Gen 2.",
       "ean": "6932554447052",
       "bol_title": "Xiaomi Robot Vacuum S40 Pro | Robotstofzuiger met dweilfunctie | 15.000 Pa zuigkracht | Uitschuivende dweil | LDS lasernavigatie | 5200 mAh tot 180 m² | App-bediening",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-robot-vacuum-s40-pro-slimme-robotstofzuiger-met-dweilfunctie-15-000-pa-zuigkracht-lds-lidar-navigatie-anti-klit-borstel-appbediening/9300000237525267/",
@@ -472,19 +476,19 @@
     },
     {
       "h": "Vlakke dweil, draaiende pads of trillende dweil?",
-      "p": "Een vlakke dweil sleept een vochtige doek over de vloer en haalt stof en lichte vlekken weg. Draaiende pads, zoals bij de Ecovacs-modellen en de Xiaomi S40 Pro, drukken op de vloer en schrobben opgedroogde vlekken los. Trillende dweilen zitten daar tussenin. Heb je vooral tegels in de keuken, kies dan voor draaiende pads."
+      "p": "Een vlakke dweil sleept een vochtige doek over de vloer en haalt stof en lichte vlekken weg. Draaiende pads, zoals bij de Ecovacs T30e Omni, de Dreame L10s Ultra Gen 2 en de Xiaomi S40 Pro, drukken op de vloer en schrobben opgedroogde vlekken los. Trillende dweilen zitten daar tussenin. Heb je vooral tegels in de keuken, kies dan voor draaiende pads."
     },
     {
       "h": "Hoe groot moet het waterreservoir zijn?",
-      "p": "Een watertank van 180 tot 310 ml in de robot is genoeg voor een appartement of een benedenverdieping. Voor een groot huis raakt hij halverwege leeg. Robots met een station vullen hun water bij uit een tank van een paar liter, zoals de 4 liter van de Ecovacs T30e en T50. Dan dweil je het hele huis in één keer."
+      "p": "Een watertank van 180 tot 310 ml in de robot is genoeg voor een appartement of een benedenverdieping. Voor een groot huis raakt hij halverwege leeg. Robots met een station vullen hun water bij uit een tank van een paar liter, zoals de 4 liter van de Ecovacs T30e Omni. Dan dweil je het hele huis in één keer."
     },
     {
       "h": "Tapijtherkenning: tillen of omrijden",
-      "p": "Heb je vloerkleden, dan wil je niet dat de robot ze nat maakt. Sommige robots tillen de dweil op, zoals de Roborock Q10 PF+ met 8 mm en de Ecovacs-modellen met 9 mm. Andere, zoals de Tapo RV30 Max Plus, rijden om tapijt heen als ze dweilen. Zonder een van beide haal je de dweil eraf of stel je een verboden zone in."
+      "p": "Heb je vloerkleden, dan wil je niet dat de robot ze nat maakt. Sommige robots tillen de dweil op, zoals de Roborock Q10 PF+ met 8 mm de Ecovacs T30e Omni met 9 mm en de Dreame L10s Ultra Gen 2 met 10,5 mm. Andere, zoals de Tapo RV30 Max Plus, rijden om tapijt heen als ze dweilen. Zonder een van beide haal je de dweil eraf of stel je een verboden zone in."
     },
     {
       "h": "Is een zuigstation met dweilwas zinvol bij dit budget?",
-      "p": "Ja, als je de robot vaak laat dweilen. Een vuil pad dat nat blijft liggen gaat ruiken en smeert vuil uit. Een station dat de pads wast en droogt, zoals bij de Ecovacs T50 Omni Gen3, lost dat op. Dweil je maar af en toe, dan is een simpel leegstation voor het stof genoeg en spoel je het pad zelf uit."
+      "p": "Ja, als je de robot vaak laat dweilen. Een vuil pad dat nat blijft liggen gaat ruiken en smeert vuil uit. Een station dat de pads wast en droogt, zoals bij de Dreame L10s Ultra Gen 2, lost dat op. Dweil je maar af en toe, dan is een simpel leegstation voor het stof genoeg en spoel je het pad zelf uit."
     },
     {
       "h": "Let op de kosten van onderhoud",
@@ -494,7 +498,7 @@
   "faq": [
     {
       "q": "Wat is de beste robotstofzuiger met dweilfunctie onder 300 euro?",
-      "a": "De Ecovacs Deebot T50 Omni Gen3 is de beste robotstofzuiger met dweilfunctie onder 300 euro. Voor 249 euro krijg je twee draaiende pads en een station dat ze op 75 graden wast, droogt en de robot leegt."
+      "a": "De Ecovacs Deebot T30e Omni is de beste robotstofzuiger met dweilfunctie onder 300 euro. Voor 264 euro krijg je twee draaiende pads, 25.000 Pa zuigkracht en een station dat de robot leegt, water bijvult en de pads droogt."
     },
     {
       "q": "Wat is de goedkoopste goede robotstofzuiger met dweilfunctie?",
@@ -502,11 +506,11 @@
     },
     {
       "q": "Koop je onder 300 euro een robotstofzuiger met dweilfunctie die zichzelf schoonmaakt?",
-      "a": "Ja. De Ecovacs Deebot T50 Omni Gen3 en T30e Omni hebben een station dat de dweilpads reinigt en droogt. De Xiaomi Robot Vacuum H50 heeft een Omni-station met schoon- en vuilwatertank."
+      "a": "Ja. De Dreame L10s Ultra Gen 2 heeft een station dat de dweilpads wast en droogt. Bij de Ecovacs Deebot T30e Omni vult het station water bij en droogt het de pads. De Xiaomi Robot Vacuum H50 heeft een Omni-station met schoon- en vuilwatertank."
     },
     {
       "q": "Maakt een robotstofzuiger met dweilfunctie mijn vloerkleden nat?",
-      "a": "Niet als hij tapijt herkent. De Ecovacs-modellen en de Roborock Q10 PF+ tillen de dweil op, de Tapo RV30 Max Plus rijdt om tapijt heen en de Roomba 205 dweilt geen vloerkleden. Bij andere robots stel je een verboden zone in."
+      "a": "Niet als hij tapijt herkent. De Ecovacs T30e Omni, de Dreame L10s Ultra Gen 2 en de Roborock Q10 PF+ tillen de dweil op, de Tapo RV30 Max Plus rijdt om tapijt heen en de Roomba 205 dweilt geen vloerkleden. Bij andere robots stel je een verboden zone in."
     },
     {
       "q": "Kan een robot met dweilfunctie een gewone dweilbeurt vervangen?",
@@ -515,6 +519,20 @@
     {
       "q": "Is een robotstofzuiger met dweilfunctie geschikt voor parket?",
       "a": "Ja, als je de waterhoeveelheid laag zet. De meeste robots in deze lijst laten je het waterniveau in de app kiezen. Gebruik geen agressieve schoonmaakmiddelen en kijk in de onderhoudsadviezen van je vloer hoeveel vocht die verdraagt."
+    }
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-26",
+      "uit": "Ecovacs Deebot T50 Omni Gen3",
+      "in": "Dreame L10s Ultra Gen 2",
+      "waarom": "prijs gestegen van 249 naar 324,95 euro, boven de grens van 300 euro"
+    }
+  ],
+  "changelog": [
+    {
+      "d": "2026-11-26",
+      "t": "De Ecovacs Deebot T50 Omni Gen3 steeg bij bol van 249 naar 324,95 euro en valt daarmee buiten het budget van 300 euro. Hij ging uit de lijst. De Ecovacs Deebot T30e Omni staat nu op nr. 1 en de Dreame L10s Ultra Gen 2 (289 euro) is nieuw. Oordeel, koopgids en veelgestelde vragen zijn daarop aangepast."
     }
   ]
 }

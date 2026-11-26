@@ -1,29 +1,4 @@
 {
  "datum": "2026-11-26",
- "overtreders": [
-  {
-   "slug": "beste-qled-tv-onder-500-euro",
-   "grens": 500,
-   "plek": 8,
-   "product": "Philips Ambilight 43PQS8601/12",
-   "prijs": 513.47,
-   "ean": "8718863052747",
-   "laagste_30d": 399.0,
-   "dagen_boven": 1,
-   "dagen_gemeten": 2,
-   "reden": "boven grens"
-  },
-  {
-   "slug": "beste-robotstofzuiger-met-dweilfunctie-onder-300-euro",
-   "grens": 300,
-   "plek": 1,
-   "product": "Ecovacs Deebot T50 Omni Gen3",
-   "prijs": 324.95,
-   "ean": "6979463770543",
-   "laagste_30d": 249.0,
-   "dagen_boven": 1,
-   "dagen_gemeten": 5,
-   "reden": "boven grens"
-  }
- ]
+ "overtreders": []
 }

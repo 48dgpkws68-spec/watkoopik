@@ -15,7 +15,7 @@
   ],
   "ico": "📺",
   "color": "#1b3fb3",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "published": "2026-11-25",
   "google_wacht": true,
   "reviews_total": "",
@@ -318,46 +318,45 @@
       "synced": "2026-11-26"
     },
     {
-      "brand": "Philips",
-      "name": "Ambilight 43PQS8601/12",
-      "price": 513.47,
+      "brand": "Hisense",
+      "name": "43E7S",
+      "price": 299.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Compacte 43 inch QLED met Ambilight en Dolby Vision.",
+      "reviews": "bol-score 4,8 van 5",
+      "oneliner": "Hi-QLED met Dolby Vision op 43 inch voor 299 euro.",
       "specs": {
         "Formaat": "43 inch",
-        "Paneel": "QLED + Ambilight",
+        "Paneel": "Hi-QLED",
         "Verversing": "60 Hz, VRR",
         "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "Titan OS"
+        "Smart-tv": "VIDAA"
       },
       "pros": [
-        "Ambilight aan drie zijden",
-        "Dolby Vision en HDR10+",
-        "VRR voor consoles",
+        "Goedkoopste QLED-tv in deze lijst",
+        "Dolby Vision IQ, HDR10+ en Dolby Atmos",
+        "VRR via HDMI 2.1",
         "Past op een smal meubel of in de slaapkamer"
       ],
       "cons": [
-        "Paneel van 60 Hz",
-        "Titan OS heeft een kleinere appwinkel"
+        "Paneel van 60 Hz, geen 144 Hz",
+        "VIDAA heeft minder apps dan Google TV",
+        "Geen local dimming"
       ],
-      "ideal": "Wie een kleine tv voor de slaapkamer of keuken wil met extra sfeer.",
-      "text": "Op 43 inch is Ambilight eigenlijk nog nuttiger dan op een grote tv. De leds aan de achterkant van de 43PQS8601/12 projecteren de kleuren van het beeld aan drie zijden op de muur. Daardoor lijkt het kleine scherm in een donkere kamer groter en voelt kijken minder vermoeiend. Dit model komt uit de 2026-lijn van Philips en kost 399 euro, net zoveel als de 55 inch Hisense 55E7S.\n\nHet QLED-paneel geeft levendige kleuren en ondersteunt Dolby Vision en HDR10+, plus Dolby Atmos voor het geluid. Het paneel draait op 60 Hz met VRR, wat voor een Nintendo Switch of af en toe een PS5-game prima is. Titan OS start snel en heeft Netflix, YouTube, Prime Video en NPO Start, maar minder kleinere apps dan Google TV. Op 43 inch zit je ideaal op 1 tot 1,5 meter afstand, dus denk aan een slaapkamer, keuken of studeerkamer.",
-      "ean": "8718863052747",
-      "bol_title": "Philips Ambilight 43PQS8601/12 - 43 inch - 4K QLED - 2026",
-      "url": "https://www.bol.com/nl/nl/p/philips-ambilight-43pqs8601-12-43-inch-4k-qled-2026/9300000301588088/",
-      "image": "https://media.s-bol.com/B55XX3ZwJDzN/4RoEG17/550x247.jpg",
+      "ideal": "Wie een kleurrijke 43 inch tv wil voor de slaapkamer of een kleine kamer en niet fanatiek gamet.",
+      "text": "De Hisense 43E7S is met 299 euro de goedkoopste QLED-tv in deze lijst. Het is de 43 inch versie van de 55E7S op nummer 2 en je krijgt hetzelfde soort Hi-QLED-paneel met quantum dots, dat kleuren voller toont dan een gewone led-tv. Dolby Vision IQ past het beeld aan op het licht in de kamer. HDR10+ en Dolby Atmos zijn ook aanwezig. De AI 4K Upscaler maakt van gewone tv-zenders een scherper beeld.\n\nHet paneel draait op 60 Hz. Via HDMI 2.1 is er wel VRR, dus voor een console op 60 beelden per seconde is hij prima. Wil je 144 Hz op dit formaat, dan kost de 43E7S PRO op nummer 9 zo'n 140 euro meer. Er zitten drie HDMI-poorten op, met eARC voor een soundbar. VIDAA start snel en heeft de grote streamingapps, al mist het soms een kleinere app. Op 43 inch zit je ideaal op 1 tot 1,5 meter afstand, dus denk aan een slaapkamer, keuken of studeerkamer. Kopers op bol geven hem gemiddeld 4,8 van de 5.",
+      "ean": "6942351430973",
+      "bol_title": "Hisense 43E7S SmartTV - 43 inch - 4K Hi-QLED - 2026 - Hi-QLED Colour - Dolby Vision Atmos - AI 4K Upscaler - AI Smooth Motion - Game Mode Plus - Filmmaker Mode",
+      "url": "https://www.bol.com/nl/nl/p/hisense-43e7s-smarttv-43-inch-4k-hi-qled-2026-hi-qled-colour-dolby-vision-atmos-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-filmmaker-mode/9300000269685088/",
+      "image": "https://media.s-bol.com/D31qrV00OpMK/nRQ2J4P/550x342.jpg",
       "ph": {
-        "2026-11-25": 399.0,
-        "2026-11-26": 513.47
+        "2026-11-25": 299.0,
+        "2026-11-26": 299.0
       },
-      "low_price": 399.0,
-      "ph_ean": "8718863052747",
-      "rating": 5.0,
-      "synced": "2026-11-26",
-      "prev_price": 399.0,
-      "prev_date": "2026-11-25"
+      "low_price": 299.0,
+      "ph_ean": "6942351430973",
+      "rating": 4.8,
+      "synced": "2026-11-26"
     },
     {
       "brand": "Hisense",
@@ -386,7 +385,7 @@
         "VIDAA mist enkele kleinere apps"
       ],
       "ideal": "Gamers die een klein scherm met hoge verversing zoeken voor slaapkamer of bureau.",
-      "text": "De Hisense 43E7S PRO is een kleine tv met een paneel dat je normaal alleen bij grotere modellen ziet: native 144 Hz. Op 43 inch werkt hij ook als groot gamescherm op een bureau of in een kleine gamehoek. Een PS5 of Xbox Series X draait er op 120 beelden per seconde met VRR en ALLM. Een gaming-pc gebruikt de volle 144 Hz.\n\nDe quantum dots geven verzadigde kleuren. Dolby Vision en HDR10+ zijn allebei aanwezig. Met ongeveer 50 W in SDR is hij zuinig. Wat je moet weten: voor 444 euro betaal je veel voor 43 inch. De 50 inch versie kost 479 euro en de 55 inch versie 499 euro. Kijk je vooral tv en game je niet, dan is de Philips op nummer 8 goedkoper en geeft Ambilight meer sfeer. VIDAA is snel en heeft Netflix, YouTube, NPO Start en Videoland, maar mist soms een kleinere app.",
+      "text": "De Hisense 43E7S PRO is een kleine tv met een paneel dat je normaal alleen bij grotere modellen ziet: native 144 Hz. Op 43 inch werkt hij ook als groot gamescherm op een bureau of in een kleine gamehoek. Een PS5 of Xbox Series X draait er op 120 beelden per seconde met VRR en ALLM. Een gaming-pc gebruikt de volle 144 Hz.\n\nDe quantum dots geven verzadigde kleuren. Dolby Vision en HDR10+ zijn allebei aanwezig. Met ongeveer 50 W in SDR is hij zuinig. Wat je moet weten: voor 439 euro betaal je veel voor 43 inch. De 50 inch versie kost 479 euro en de 55 inch versie 499 euro. Kijk je vooral tv en game je niet, dan is de gewone Hisense 43E7S op nummer 8 zo'n 140 euro goedkoper met hetzelfde soort paneel op 60 Hz. VIDAA is snel en heeft Netflix, YouTube, NPO Start en Videoland, maar mist soms een kleinere app.",
       "ean": "6942351432410",
       "bol_title": "Hisense 43E7S PRO SmartTV - 43 inch - 4K Hi-QLED - 2026 - Native 144Hz Game Mode - Hi-QLED Colour - Built-in Subwoofer - AI Picture - AI Smooth Motion - AMD FreeSync Premium - Dolby Vision Atmos",
       "url": "https://www.bol.com/nl/nl/p/hisense-43e7s-pro-smarttv-43-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000268019814/",
@@ -429,7 +428,7 @@
         "Geen Ambilight"
       ],
       "ideal": "Wie een eenvoudige, zuinige 50 inch QLED wil voor tv en streaming.",
-      "text": "De Philips 50PQS7801/12 is de goedkoopste 50 inch QLED-tv in deze lijst. Voor 389 euro krijg je een paneel uit 2026 met quantum dots, dus kleuren zijn verzadigder dan bij een gewone led-tv. Philips staat bekend om een rustige beeldverwerking: huidtinten blijven natuurlijk en beweging oogt vloeiend zonder het kunstmatige soapeffect. Met ongeveer 54 W in SDR en energieklasse E is hij ook zuinig.\n\nOm de prijs laag te houden levert Philips in op HDR. Je krijgt HDR10 en HLG, maar geen Dolby Vision of HDR10+. Films op Netflix en Disney+ springen daardoor minder uit het scherm dan op de Hisense-modellen. Ambilight zit er niet op. Het paneel draait op 60 Hz en local dimming ontbreekt. Titan OS heeft Netflix, YouTube, Prime Video, NPO Start en Videoland. Is 43 inch groot genoeg, dan krijg je voor 10 euro meer Dolby Vision en Ambilight bij de Philips op nummer 8.",
+      "text": "De Philips 50PQS7801/12 is de goedkoopste 50 inch QLED-tv in deze lijst. Voor 349 euro krijg je een paneel uit 2026 met quantum dots, dus kleuren zijn verzadigder dan bij een gewone led-tv. Philips staat bekend om een rustige beeldverwerking: huidtinten blijven natuurlijk en beweging oogt vloeiend zonder het kunstmatige soapeffect. Met ongeveer 54 W in SDR en energieklasse E is hij ook zuinig.\n\nOm de prijs laag te houden levert Philips in op HDR. Je krijgt HDR10 en HLG, maar geen Dolby Vision of HDR10+. Films op Netflix en Disney+ springen daardoor minder uit het scherm dan op de Hisense-modellen. Ambilight zit er niet op. Het paneel draait op 60 Hz en local dimming ontbreekt. Titan OS heeft Netflix, YouTube, Prime Video, NPO Start en Videoland. Is 43 inch groot genoeg, dan heeft de Hisense 43E7S op nummer 8 voor 50 euro minder wel Dolby Vision en HDR10+.",
       "ean": "8718863051665",
       "bol_title": "Philips 50PQS7801/12 - 50 inch - 4K QLED - 2026",
       "url": "https://www.bol.com/nl/nl/p/philips-50pqs7801-12-50-inch-4k-qled-2026/9300000301588079/",
@@ -479,7 +478,7 @@
     },
     {
       "q": "Wat is de goedkoopste goede QLED-tv onder 500 euro?",
-      "a": "De Philips 50PQS7801/12 kost 389 euro, maar mist Dolby Vision. Voor 399 euro krijg je bij de Hisense 55E7S een groter scherm met Dolby Vision en HDR10+. Voor de meeste mensen is dat de slimmere koop."
+      "a": "De Hisense 43E7S kost 299 euro en heeft Dolby Vision en HDR10+ op 43 inch. Wil je een groter scherm, dan krijg je voor 399 euro de Hisense 55E7S met dezelfde beeldtechniek op 55 inch. De Philips 50PQS7801/12 kost 349 euro, maar mist Dolby Vision."
     },
     {
       "q": "Kan ik een 65 inch QLED-tv onder 500 euro kopen?",
@@ -499,6 +498,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-26",
+      "uit": "Philips Ambilight 43PQS8601/12",
+      "in": "Hisense 43E7S",
+      "waarom": "prijs gestegen van 399 naar ruim 510 euro, boven de grens van 500 euro"
+    },
     {
       "d": "2026-11-25",
       "uit": "TCL 65T69C",
