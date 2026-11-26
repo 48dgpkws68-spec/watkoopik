@@ -1363,9 +1363,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-26",
+    "t": "vervangen",
+    "uit": "HP OMEN 35L GT16-1791nd (Ryzen 9 9900X3D, RTX 5080)",
+    "in": "HP OMEN 35L GT16-0260nd (Core Ultra 7 265K, RTX 5080)",
+    "plek": 2,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "c63761a8ca3e49dd986df21485820c09e3e71523",
+  "_tot": "47fbae2c503cf640dbc77f74fc4af4ded1dc170a",
   "_ps": [
    {
     "brand": "Lenovo",
@@ -1374,8 +1384,8 @@
    },
    {
     "brand": "HP",
-    "name": "OMEN 35L GT16-1791nd (Ryzen 9 9900X3D, RTX 5080)",
-    "ean": "0199896662369"
+    "name": "OMEN 35L GT16-0260nd (Core Ultra 7 265K, RTX 5080)",
+    "ean": "0198990504735"
    },
    {
     "brand": "HP",
@@ -1538,9 +1548,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-26",
+    "t": "vervangen",
+    "uit": "Samsung QE55QN83F",
+    "in": "Samsung QE55QN82H",
+    "plek": 4,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "9612bdf00b72771c26ec1b518c603d894770b6ba",
+  "_tot": "47fbae2c503cf640dbc77f74fc4af4ded1dc170a",
   "_ps": [
    {
     "brand": "LG",
@@ -1559,8 +1579,8 @@
    },
    {
     "brand": "Samsung",
-    "name": "QE55QN83F",
-    "ean": "8806097160953"
+    "name": "QE55QN82H",
+    "ean": "8806099129583"
    },
    {
     "brand": "Samsung",
@@ -2626,12 +2646,12 @@
     "bron": "data"
    }
   ],
-  "_tot": "f907ef29db1d962f5174b9aa579b5dd2d6a11b5d",
+  "_tot": "47fbae2c503cf640dbc77f74fc4af4ded1dc170a",
   "_ps": [
    {
     "brand": "Xiaomi",
     "name": "Redmi Note 17 Pro 5G 6/256GB",
-    "ean": "6939093009963"
+    "ean": "6939093009383"
    },
    {
     "brand": "Honor",

@@ -15,7 +15,7 @@
   ],
   "ico": "📺",
   "color": "#1b3fb3",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "reviews_total": "2.400",
   "intro": "Een 75 inch tv vult een woonkamer en maakt van films en voetbal een bioscoopervaring. Op dit formaat zie je elke zwakke plek van een paneel, dus helderheid, contrast en beeldverwerking tellen zwaarder dan bij een kleinere tv. Wij vergeleken tv's van exact 75 inch op paneeltype, beeldfrequentie, HDR-ondersteuning, software en reviews van kopers op bol. Dit zijn de tien beste 75 inch tv's die je nu in Nederland kunt kopen, van een instapper rond de 700 euro tot een Mini-LED-model van ruim 1.600 euro.",
   "verdict": "De Hisense 75U7Q is de beste 75 inch tv voor de meeste huiskamers: fel Mini-LED-beeld, diep zwart en tot 144 Hz voor gamers voor rond de 1.340 euro. Zoek je de slimste koop, dan biedt de TCL 75Q6C QD-MiniLED voor ongeveer 980 euro. Wil je een brede kijkhoek en webOS, dan is de LG 75QNED92A6A de premium keuze. Met een krap budget kies je de Xiaomi TV A Pro 2026.",
@@ -477,7 +477,7 @@
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
-      "oneliner": "75 inch Hi-QLED met Dolby Vision IQ voor 749 euro.",
+      "oneliner": "75 inch Hi-QLED met Dolby Vision IQ voor 699 euro.",
       "specs": {
         "Paneel": "Hi-QLED",
         "Beeldfrequentie": "60 Hz",
@@ -498,7 +498,7 @@
         "VIDAA heeft geen KPN-app"
       ],
       "ideal": "Wie zoveel mogelijk 75 inch beeld wil voor zo weinig mogelijk geld.",
-      "text": "De Hisense 75E7S is de 75 inch voor wie veel beeld wil zonder veel uit te geven. Voor 749 euro krijg je een model uit 2026 met Hi-QLED, de naam die Hisense geeft aan zijn paneel met quantum dots. Rood en groen ogen daardoor voller dan bij een gewone led-tv. De AI 4K Upscaler maakt van gewone tv-zenders een net beeld, wat telt op een scherm van 190 centimeter.\n\nVoor films ondersteunt hij Dolby Vision IQ en HDR10+, met een lichtsensor die de helderheid afstemt op het licht in je kamer. Dolby Atmos is aanwezig en de speakers leveren 30 watt. Het paneel draait op 60 Hz. Via HDMI 2.1 krijg je wel VRR en ALLM, dus een PS5 of Xbox speelt zonder haperingen. Voor 144 Hz kijk je naar de 75E7S PRO op nr. 7, die 150 euro meer kost. Local dimming ontbreekt, dus zwart is in het donker minder diep dan bij de Mini LED-modellen bovenaan. Met 107 watt en energielabel E is hij zuinig voor zijn formaat. Kopers op bol geven hem gemiddeld 4,8 van de 5.",
+      "text": "De Hisense 75E7S is de 75 inch voor wie veel beeld wil zonder veel uit te geven. Voor 699 euro krijg je een model uit 2026 met Hi-QLED, de naam die Hisense geeft aan zijn paneel met quantum dots. Rood en groen ogen daardoor voller dan bij een gewone led-tv. De AI 4K Upscaler maakt van gewone tv-zenders een net beeld, wat telt op een scherm van 190 centimeter.\n\nVoor films ondersteunt hij Dolby Vision IQ en HDR10+, met een lichtsensor die de helderheid afstemt op het licht in je kamer. Dolby Atmos is aanwezig en de speakers leveren 30 watt. Het paneel draait op 60 Hz. Via HDMI 2.1 krijg je wel VRR en ALLM, dus een PS5 of Xbox speelt zonder haperingen. Voor 144 Hz kijk je naar de 75E7S PRO op nr. 7, die 200 euro meer kost. Local dimming ontbreekt, dus zwart is in het donker minder diep dan bij de Mini LED-modellen bovenaan. Met 107 watt en energielabel E is hij zuinig voor zijn formaat. Kopers op bol geven hem gemiddeld 4,8 van de 5.",
       "ean": "6942351431901",
       "bol_title": "Hisense 75E7S SmartTV - 75 inch - 4K Hi-QLED - 2026 - Hi-QLED Colour - Dolby Vision Atmos - AI 4K Upscaler - AI Smooth Motion - Game Mode Plus - Filmmaker Mode",
       "url": "https://www.bol.com/nl/nl/p/hisense-75e7s-smarttv-75-inch-4k-hi-qled-2026-hi-qled-colour-dolby-vision-atmos-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-filmmaker-mode/9300000269685070/",
@@ -778,6 +778,12 @@
       "uit": "Philips Ambilight 75PQS9001/12",
       "in": "Xiaomi TV S Pro Mini LED 2026 75 inch",
       "waarom": "niet meer leverbaar bij bol"
+    }
+  ],
+  "changelog": [
+    {
+      "d": "2026-11-26",
+      "t": "Dagprijzen bij bol gecontroleerd, alle tien tv's zijn leverbaar. In de tekst rechtgezet: Hisense 75E7S kost 699 euro (was 749) en de 75E7S PRO is 200 euro duurder, niet 150."
     }
   ]
 }
