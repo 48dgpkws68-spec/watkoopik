@@ -373,48 +373,44 @@
     },
     {
       "brand": "Ring",
-      "name": "Battery Video Doorbell Plus met Chime (2nd Gen)",
-      "price": 164.9,
+      "name": "Battery Video Doorbell met Chime (2nd Gen)",
+      "price": 99.0,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Ring met verwisselbare accu, top-tot-teenbeeld en Chime.",
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Voordelige Ring met ingebouwde accu, top-tot-teenbeeld en Chime.",
       "specs": {
-        "Resolutie": "1536p HD+",
-        "Voeding": "Wisselaccu",
+        "Resolutie": "1440p HD",
+        "Voeding": "Ingebouwde accu of beldraad",
         "Opslag": "Cloud (Ring Protect)",
         "Gong": "Plug-in chime meegeleverd",
         "Extra van de gong": "Meer Chimes te koppelen"
       },
       "pros": [
-        "Verwisselbare accu: bel blijft aan de muur",
-        "Zicht van top tot teen",
+        "Zicht van top tot teen in 1440p",
         "Chime meldt aanbellen en beweging binnen",
-        "Kleurennachtzicht"
+        "Kleurennachtzicht",
+        "Laadt continu bij via bestaande beldraad"
       ],
       "cons": [
-        "Duurste set in deze lijst",
-        "Pakketmeldingen en opnames alleen met Ring Protect",
-        "Lagere resolutie dan de 2K-modellen"
+        "Accu zit vast: de bel moet van de muur om te laden",
+        "Opnames terugkijken alleen met een abonnement",
+        "Lagere resolutie dan de Ring 2K op plek drie",
+        "Wifi alleen op 2,4 GHz"
       ],
-      "ideal": "Wie in het Ring-systeem zit en de accu wil wisselen zonder te schroeven.",
-      "text": "De Ring Battery Video Doorbell Plus met Chime is de duurste set in deze vergelijking. Het grootste verschil met de goedkopere Ring 2K zit in de verwisselbare accu. Die klik je los om te laden, terwijl de deurbel aan de muur blijft hangen. Met een tweede accu heb je dus nooit een deur zonder bel. De Ring Chime in de bundel steek je in een stopcontact en geeft binnen een geluid bij aanbellen of beweging.\n\nDe camera filmt in 1536p met zicht van top tot teen, zodat je ook pakketten voor de deur ziet. Kleurennachtzicht en inzoomen in de app zijn standaard. Pakketmeldingen werken alleen met een Ring Protect-abonnement, net als opnames terugkijken. Zonder abonnement blijft het bij live kijken, praten en meldingen. Meerdere Chimes in huis koppel je zonder extra bedrading. Voor 179 euro betaal je vooral voor het wisselgemak en het Ring-ecosysteem. Bij bol staat hij op een 4,3 van 5.",
-      "ean": "0840268918316",
-      "rating": 4.3,
-      "bol_title": "Ring Battery Video Doorbell Plus met Chime (2nd Gen)",
-      "url": "https://www.bol.com/nl/nl/p/ring-battery-video-doorbell-plus-met-chime-slimme-deurbel-top-tot-teen-zicht-batterij-1536p-hd-video/9300000162078073/",
-      "image": "https://media.s-bol.com/M6EpKGVvrQmB/9qPK7D/550x431.jpg",
+      "ideal": "Wie in het Ring-systeem zit en een eenvoudige set met Chime zoekt.",
+      "text": "De Ring Battery Video Doorbell met Chime is de instapset van Ring voor een voordeur zonder bedrading. De camera filmt in 1440p met zicht van top tot teen, zodat je ook pakketten op de grond ziet. Kleurennachtzicht, inzoomen en tweerichtingsspraak zitten erop. De Ring Chime in de bundel steek je in een stopcontact en geeft binnen een geluid bij aanbellen of beweging. Meerdere Chimes in huis koppel je zonder extra bedrading.\n\nDe accu is ingebouwd. Om te laden haal je de deurbel met het meegeleverde gereedschap van de muur, dus je deur zit dan even zonder bel. Sluit je hem aan op bestaande beldraad, dan laadt hij continu bij. De wifi werkt alleen op 2,4 GHz. Opnames terugkijken en pakketmeldingen werken alleen met een abonnement van Ring. Zonder abonnement blijft het bij live kijken, praten en meldingen. De nieuwere Ring 2K op plek drie filmt scherper voor weinig meer. Bij bol staat deze set op een 4,5 van 5 en kost hij rond de 99 euro.",
+      "ean": "0840268997984",
+      "rating": 4.5,
+      "bol_title": "Ring Battery Video Doorbell Zilver met Chime (2nd Gen) - slimme deurbel - batterij",
+      "url": "https://www.bol.com/nl/nl/p/ring-battery-video-doorbell-zilver-met-chime-slimme-deurbel-batterij/9300000183916854/",
+      "image": "https://media.s-bol.com/qWYpX01nXqg2/mZGJJNn/550x473.jpg",
       "ph": {
-        "2026-11-23": 179.0,
-        "2026-11-24": 164.9,
-        "2026-11-25": 164.9,
-        "2026-11-26": 164.9
+        "2026-11-26": 99.0
       },
-      "low_price": 164.9,
-      "ph_ean": "0840268918316",
-      "synced": "2026-11-26",
-      "prev_price": 179.0,
-      "prev_date": "2026-11-23"
+      "low_price": 99.0,
+      "ph_ean": "0840268997984",
+      "synced": "2026-11-26"
     },
     {
       "brand": "EZVIZ",
@@ -509,6 +505,14 @@
     {
       "q": "Waar zet ik de gong van mijn videodeurbel neer?",
       "a": "Kies een stopcontact in de gang, de woonkamer of op de overloop, waar je hem vanuit de meeste kamers hoort. Werkt de gong ook als wifi-versterker, zet hem dan tussen de router en de voordeur. Zet hem niet in een dichte kast, want dan klinkt hij gedempt."
+    }
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-26",
+      "uit": "Ring Battery Video Doorbell Plus met Chime (2nd Gen)",
+      "in": "Ring Battery Video Doorbell met Chime (2nd Gen)",
+      "waarom": "bundel met de Plus niet meer leverbaar bij bol"
     }
   ]
 }

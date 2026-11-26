@@ -411,49 +411,41 @@
     },
     {
       "brand": "Bosch",
-      "name": "In'genius ProSilence BGL8SIL5",
-      "price": 179.0,
+      "name": "ProSilence Serie 6 BGB6SIL0L",
+      "price": 159.99,
       "score": 8.4,
-      "reviews": "bol-score 4,8 van 5",
-      "oneliner": "Zakstofzuiger uit de stille ProSilence-reeks van Bosch.",
+      "reviews": "bol-score 4,2 van 5",
+      "oneliner": "Zakstofzuiger van 66 dB met 12 meter bereik en HEPA-filter.",
       "specs": {
         "Type": "Stofzuiger met zak",
-        "Geluid": "ProSilence-uitvoering",
-        "Stofopvang": "Stofzak",
-        "Filter": "Zie productpagina"
+        "Geluid": "66 dB",
+        "Stofopvang": "Stofzak van 4 liter",
+        "Filter": "HEPA 13, wasbaar"
       },
       "pros": [
-        "Uit de ProSilence-reeks, door Bosch gebouwd voor weinig geluid",
-        "Stofzuiger met zak, dus de zak dempt geluid",
-        "Stof gooi je dicht weg in de zak",
-        "Bekend merk met goed verkrijgbare zakken"
+        "66 dB volgens de opgave van Bosch",
+        "Actieradius van 12 meter",
+        "Wasbaar HEPA-filter en grote stofzak van 4 liter",
+        "Zuigkracht regel je op het handvat"
       ],
       "cons": [
-        "Duurder dan de meeste modellen in deze lijst",
-        "Geluidswaarde in decibel staat niet in de bol-titel"
+        "Weegt 7 kilo",
+        "Je blijft stofzakken kopen"
       ],
-      "ideal": "Wie een zakstofzuiger uit de stille ProSilence-reeks van Bosch wil.",
-      "ean": "4242005202843",
-      "text": "De Bosch BGL8SIL5 is een stofzuiger met zak uit de In'genius ProSilence-reeks. Bosch bouwt die lijn speciaal voor wie weinig geluid wil. Dat past goed bij een model met stofzak, want de zak dempt het geluid van de luchtstroom en er is geen cycloon die lucht laat suizen. Een zak heeft nog een voordeel: je gooit het stof dicht weg, wat prettig is als je last hebt van allergie.\n\nDe exacte geluidswaarde en het filtertype staan niet in de productnaam. Kijk die op de productpagina na voordat je koopt, vooral als je hem wilt vergelijken met de AEG en de Rowenta bovenaan. Met een prijs rond de 248 euro zit hij boven het gemiddelde van deze lijst. Daar krijg je een bekend merk voor terug, met zakken en onderdelen die je ook over een paar jaar nog makkelijk vindt. Zoek je liever een zakloos model, kijk dan naar de Bosch BGS7SIL64 op plek vijf.",
+      "ideal": "Wie een stille zakstofzuiger van Bosch wil met een groot bereik.",
+      "ean": "4242005580828",
+      "text": "De Bosch BGB6SIL0L is een stofzuiger met zak uit de ProSilence-reeks, Serie 6. Bosch geeft een geluidsniveau van 66 dB op. Dat bereikt het merk met het SilenceSound System, waarbij motor, luchtstroom en mondstuk op weinig geluid zijn ontworpen. Een model met zak helpt daarbij, want de zak dempt het geluid van de luchtstroom. Het stof gooi je dicht weg, wat prettig is als je last hebt van allergie.\n\nDe stofzak van 4 liter is groot, dus je wisselt weinig. Het HEPA-filter houdt volgens Bosch 99,95 procent van het fijnstof tegen en is wasbaar. Met een actieradius van 12 meter zuig je een hele verdieping zonder van stopcontact te wisselen. De zuigkracht regel je met de bediening in het handvat en de zuigmond heeft ledverlichting. Een parketzuigmond zit erbij. Hij weegt 7 kilo, dus de trap op is even tillen. Bosch geeft na registratie 10 jaar garantie op de motor. Op bol staat hij op 4,2 van 5. Zoek je liever een zakloos model, kijk dan naar de Bosch BGS7SIL64 op plek vijf.",
       "label": null,
-      "bol_title": "BOSCH BGL8SIL5 In'genius ProSilence - Stofzuiger met zak",
-      "url": "https://www.bol.com/nl/nl/p/bosch-bgl8sil5-in-genius-prosilence-stofzuiger-met-zak/9300000022146977/",
-      "image": "https://media.s-bol.com/7XBx4P7NmzLr/489x840.jpg",
+      "rating": 4.2,
+      "bol_title": "Bosch ProSilence BGB6SIL0L Serie 6 - Stofzuiger met zak - 12mtr bereik - Voetverlichting - HEPA hygienefilter - 66db - Afstandsbediening in handvat - Wit",
+      "url": "https://www.bol.com/nl/nl/p/bosch-prosilence-bgb6sil0l-serie-6-stofzuiger-met-zak-12mtr-actieradius-hepa-hiegienefilter-66db-afstandbedining-in-handvat-wit/9300000260279443/",
+      "image": "https://media.s-bol.com/75OJl4GWpBMw/AP9650B/550x714.jpg",
       "ph": {
-        "2026-11-20": 248.0,
-        "2026-11-21": 179.0,
-        "2026-11-22": 179.0,
-        "2026-11-23": 179.0,
-        "2026-11-24": 179.0,
-        "2026-11-25": 179.0,
-        "2026-11-26": 179.0
+        "2026-11-26": 159.99
       },
-      "low_price": 179.0,
-      "ph_ean": "4242005202843",
-      "rating": 4.8,
-      "synced": "2026-11-26",
-      "prev_price": 248.0,
-      "prev_date": "2026-11-20"
+      "low_price": 159.99,
+      "ph_ean": "4242005580828",
+      "synced": "2026-11-26"
     },
     {
       "brand": "Nilfisk",
@@ -738,6 +730,12 @@
   ],
   "published": "2026-10-17",
   "wissels": [
+    {
+      "d": "2026-11-26",
+      "uit": "Bosch In'genius ProSilence BGL8SIL5",
+      "in": "Bosch ProSilence Serie 6 BGB6SIL0L",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-20",
       "uit": "Bosch ProSilence Serie 8 BGL8SIL0L",

@@ -620,66 +620,44 @@
     },
     {
       "brand": "Beko",
-      "name": "bB300 BM3WFT31041W",
-      "price": 399.0,
+      "name": "BM3WFU41041B EnergySpin",
+      "price": 486.66,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Betaalbare Beko met 10 kilo trommel en 1.400 toeren.",
       "specs": {
         "Vulgewicht": "10 kg",
         "Toerental": "1.400 tpm",
         "Energielabel": "A",
-        "Geluid centrifuge": "ca. 76 dB",
-        "Eco 40-60": "ca. 4 u",
+        "Geluid centrifuge": "75 dB",
+        "Eco 40-60": "ca. 3 u 48 min",
         "Energieverbruik": "51 kWh per 100 wasbeurten"
       },
       "pros": [
         "Lage prijs voor 10 kilo",
-        "Zuinige inverter-motor",
-        "Stoomprogramma tegen kreuken en geurtjes",
-        "Hoge waardering van kopers op bol"
+        "Energielabel A met 51 kWh per 100 wasbeurten",
+        "Kort programma van 14 minuten voor 2 kilo was",
+        "Koolborstelloze motor"
       ],
       "cons": [
         "Geen automatische dosering",
-        "Geen app of wifi"
+        "Geen app of wifi",
+        "Geen was toevoegen tijdens het programma"
       ],
       "ideal": "Wie een ruime wasmachine wil voor zo weinig mogelijk geld.",
-      "text": "De Beko bB300 BM3WFT31041W is de voordeligste machine in deze lijst met een grote trommel. Voor rond de 460 euro krijg je 10 kilo, 1.400 toeren en energielabel A. Dat maakt hem geschikt voor gezinnen die veel wassen maar niet de hoofdprijs willen betalen. De inverter-motor is zuiniger en stiller dan een klassieke motor met koolborstels.\n\nMet het stoomprogramma fris je kleding op en verminder je kreuken, handig voor overhemden of kleding die je maar kort hebt gedragen. Er zijn snelle programma's voor als je haast hebt en een Eco 40-60 programma voor de laagste stroomrekening. Automatische dosering en een app zitten er niet op, dus het wasmiddel doe je zelf in het bakje. Bij het centrifugeren is hij hoorbaar, maar niet luider dan andere machines in deze prijsklasse. Kopers op bol geven hem gemiddeld 4,5 sterren. Wie vooral op de aanschafprijs let, krijgt hier veel trommel voor weinig geld.",
-      "ean": "8690842671838",
-      "bol_title": "Beko bB300 BM3WFT31041W - Wasmachine - Voorlader - 10 kg - 1400 RPM - Wit",
-      "url": "https://www.bol.com/nl/nl/p/beko-bm3wft31041w-energyspin-10-kg-wasmachine/9300000180166925/",
-      "image": "https://media.s-bol.com/VBNNQxonpxo5/xvVyEMB/550x819.jpg",
+      "text": "De Beko BM3WFU41041B is de voordeligste machine in deze lijst met een trommel van 10 kilo. Voor rond de 487 euro krijg je 1.400 toeren en energielabel A, met een verbruik van 51 kWh per 100 wasbeurten. Dat maakt hem geschikt voor gezinnen die veel wassen maar niet de hoofdprijs willen betalen. De koolborstelloze motor is zuiniger en stiller dan een klassieke motor. EnergySpin lost het wasmiddel aan het begin sneller op door de trommel harder te laten draaien, zodat ook de gewone programma's minder stroom vragen.\n\nEr zijn vijftien programma's. Het Xpress-programma wast 2 kilo in 14 minuten, handig als je haast hebt. StainExpert pakt volgens Beko 24 soorten vlekken aan zonder voorbehandelen. Het Eco 40-60 programma duurt bijna vier uur. Automatische dosering en een app zitten er niet op, dus het wasmiddel doe je zelf in het bakje. Was toevoegen tijdens het programma kan niet. Bij het centrifugeren maakt hij 75 dB, geluidsklasse B. Kopers op bol geven hem een 4,0 van 5. Wie vooral op de aanschafprijs let, krijgt hier veel trommel voor weinig geld.",
+      "ean": "8690842653902",
+      "rating": 4.0,
+      "bol_title": "Beko Wasmachine 10kg BM3WFU41041B EnergySpin",
+      "url": "https://www.bol.com/nl/nl/p/beko-bm3wfu41041b-energyspin/9300000188809979/",
+      "image": "https://media.s-bol.com/6pE7w1zM2BwL/v2LOxz0/550x825.jpg",
       "ph": {
-        "2026-11-04": 458.0,
-        "2026-11-05": 458.0,
-        "2026-11-06": 399.0,
-        "2026-11-07": 399.0,
-        "2026-11-08": 399.0,
-        "2026-11-09": 399.0,
-        "2026-11-10": 399.0,
-        "2026-11-11": 399.0,
-        "2026-11-12": 399.0,
-        "2026-11-13": 399.0,
-        "2026-11-14": 399.0,
-        "2026-11-16": 399.0,
-        "2026-11-17": 399.0,
-        "2026-11-18": 399.0,
-        "2026-11-19": 399.0,
-        "2026-11-20": 399.0,
-        "2026-11-21": 399.0,
-        "2026-11-22": 399.0,
-        "2026-11-23": 399.0,
-        "2026-11-24": 399.0,
-        "2026-11-25": 399.0,
-        "2026-11-26": 399.0
+        "2026-11-26": 486.66
       },
-      "low_price": 399.0,
-      "synced": "2026-11-26",
-      "prev_price": 458.0,
-      "prev_date": "2026-11-05",
-      "ph_ean": "8690842671838",
-      "rating": 4.4
+      "low_price": 486.66,
+      "ph_ean": "8690842653902",
+      "synced": "2026-11-26"
     },
     {
       "brand": "Beko",
@@ -820,5 +798,13 @@
     "beste-warmtepompdroger",
     "beste-was-droogcombinatie",
     "beste-wasdroger"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-26",
+      "uit": "Beko bB300 BM3WFT31041W",
+      "in": "Beko BM3WFU41041B EnergySpin",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

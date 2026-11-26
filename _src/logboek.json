@@ -1711,7 +1711,7 @@
   "start": "2026-10-21",
   "n": 10,
   "events": [],
-  "_tot": "e273ad84c1d5d8718e1e2ba0ddb84e6baf137d10",
+  "_tot": "e7c14ba46c21cdfd0069d4b00959ed4fdbf0f76e",
   "_ps": [
    {
     "brand": "Anno 1588",
@@ -2367,7 +2367,7 @@
   "start": "2026-11-06",
   "n": 10,
   "events": [],
-  "_tot": "f907ef29db1d962f5174b9aa579b5dd2d6a11b5d",
+  "_tot": "e7c14ba46c21cdfd0069d4b00959ed4fdbf0f76e",
   "_ps": [
    {
     "brand": "Everlands",
@@ -2499,9 +2499,17 @@
     "in": "HUSH Living 4 Seizoenen Dekbed 200x200",
     "plek": 10,
     "paar": true
+   },
+   {
+    "d": "2026-11-26",
+    "t": "vervangen",
+    "uit": "Castella Sirius 4 Seizoenen Dekbed 90% Eendendons 200x220",
+    "in": "Castella Sirius 4 Seizoenen Dekbed 90% Eendendons 240x220",
+    "plek": 4,
+    "paar": true
    }
   ],
-  "_tot": "e273ad84c1d5d8718e1e2ba0ddb84e6baf137d10",
+  "_tot": "e7c14ba46c21cdfd0069d4b00959ed4fdbf0f76e",
   "_ps": [
    {
     "brand": "Fabiola",
@@ -2520,8 +2528,8 @@
    },
    {
     "brand": "Castella",
-    "name": "Sirius 4 Seizoenen Dekbed 90% Eendendons 200x220",
-    "ean": "8720701885332"
+    "name": "Sirius 4 Seizoenen Dekbed 90% Eendendons 240x220",
+    "ean": "8720701885356"
    },
    {
     "brand": "Ducky Dons",

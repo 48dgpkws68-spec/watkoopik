@@ -485,54 +485,44 @@
       "rating": 4.7
     },
     {
-      "brand": "Hisense",
-      "name": "65E8S",
-      "price": 679.0,
+      "brand": "TCL",
+      "name": "65T8D",
+      "price": 699.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "65 inch Mini LED met 144 Hz en subwoofer voor onder 700 euro.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Mini LED met native 144 Hz voor rond de 700 euro.",
       "specs": {
         "Formaat": "65 inch",
-        "Paneel": "Hi-QLED Mini LED",
+        "Paneel": "QD-Mini LED",
         "Verversing": "144 Hz",
         "HDMI 2.1": "Ja, met VRR en ALLM",
-        "Smart-tv": "VIDAA",
-        "Stroomverbruik (SDR)": "84 W · klasse E (EU-label)"
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "85 W · klasse E (EU-label)"
       },
       "pros": [
-        "Mini LED met meer dan honderd dimzones",
-        "Native 144 Hz-gamestand",
-        "Ingebouwde subwoofer afgestemd door Devialet",
-        "Dolby Vision IQ en HDR10+"
+        "Native 144 Hz houdt snelle acties scherp",
+        "Mini LED: fel genoeg voor een wedstrijd overdag",
+        "Google TV met Chromecast ingebouwd",
+        "Dolby Vision en HDR10+"
       ],
       "cons": [
-        "VIDAA heeft minder apps dan Google TV",
-        "Geen anti-reflectiescherm"
+        "Minder dimzones dan duurdere Mini LED-modellen",
+        "Gloed rond witte tekst in een donkere kamer"
       ],
-      "ideal": "Wie voetbal en games wil op een 65 inch Mini LED voor zo weinig mogelijk geld.",
-      "text": "De Hisense 65E8S is de goedkoopste Mini LED-tv in deze lijst. De verlichting is verdeeld over meer dan honderd dimzones en Hisense noemt een piekhelderheid van 600 nits. Bij een middagwedstrijd in een lichte kamer blijft het veld daardoor helder en bij een avondwedstrijd oogt het zwart van de tribunes dieper dan bij de E7S PRO op plek tien. Dolby Vision IQ past het beeld aan het licht in je kamer aan.\n\nVoor EA FC is er een native 144 Hz-gamestand met VRR, ALLM en AMD FreeSync Premium. Volgens bol is de input lag 4 milliseconden. Achterin zit een subwoofer die is afgestemd door Devialet, met Dolby Atmos, zodat stadiongeluid en commentaar voller klinken dan bij de meeste dunne tv's. Het menu is VIDAA. NPO Start, Netflix en Videoland staan erop, maar een kleinere sport-app ontbreekt soms. Een streamingstick lost dat op. Kopers op bol geven hem gemiddeld 4,6 sterren.",
-      "ean": "6942351434773",
-      "bol_title": "Hisense 65E8S Smart TV - 65 inch - 4K Hi-QLED MiniLED - 2026 - 600 nits - Native 144Hz Game Mode - Built-in Subwoofer - Hi-View AI Engine - Hi-QLED Colour - Dolby Vision Atmos",
-      "url": "https://www.bol.com/nl/nl/p/hisense-65e8s-smart-tv-65-inch-4k-hi-qled-miniled-2026-600-nits-native-144hz-game-mode-built-in-subwoofer-hi-view-ai-engine-hi-qled-colour-dolby-vision-atmos/9300000269685074/",
-      "image": "https://media.s-bol.com/E38q77j2ozWK/qQRgpAk/550x350.jpg",
+      "ideal": "Wie voor rond de 700 euro een grote, snelle tv voor voetbal en formule 1 wil.",
+      "text": "De TCL 65T8D laat zien dat een goede sport-tv geen duizend euro hoeft te kosten. Voor rond de 699 euro krijg je 65 inch met QD-Mini LED en een paneel dat native op 144 Hz draait. Die hoge verversing is wat je bij sport merkt: een bal, puck of raceauto blijft scherper in beeld dan op een paneel van 60 Hz en een camera die langs het veld beweegt hapert minder.\n\nMini LED helpt bij wedstrijden overdag. Kleine leds achter het scherm geven meer helderheid dan een gewone QLED, zodat het beeld overeind blijft met de gordijnen open. Dolby Vision en HDR10+ worden allebei ondersteund. Google TV heeft de grootste appwinkel, met Chromecast ingebouwd. Het aantal dimzones is lager dan bij duurdere modellen zoals de TCL 65Q7D Pro op nr. 4. In een donkere kamer zie je daardoor soms een lichte gloed rond een wit scorebord. Via HDMI 2.1 zijn er VRR en ALLM voor een console. Kopers op bol geven hem gemiddeld 5 van de 5. Wil je hetzelfde type tv groter, dan staat de 75T8D op nr. 7.",
+      "ean": "5901292531065",
+      "bol_title": "TCL 65T8D - 65 inch - 4K QD-MiniLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-65t8d-65-inch-4k-qd-miniled-2026-smart-tv/9300000273452867/",
+      "image": "https://media.s-bol.com/90P0oJA57yK8/z6Q6Y45/550x342.jpg",
       "ph": {
-        "2026-11-16": 679.0,
-        "2026-11-17": 679.0,
-        "2026-11-18": 679.0,
-        "2026-11-19": 679.0,
-        "2026-11-20": 679.0,
-        "2026-11-21": 679.0,
-        "2026-11-22": 679.0,
-        "2026-11-23": 679.0,
-        "2026-11-24": 679.0,
-        "2026-11-25": 679.0,
-        "2026-11-26": 679.0
+        "2026-11-26": 699.0
       },
-      "low_price": 679.0,
-      "ph_ean": "6942351434773",
-      "synced": "2026-11-26",
-      "rating": 4.6
+      "low_price": 699.0,
+      "ph_ean": "5901292531065",
+      "rating": 5.0,
+      "synced": "2026-11-26"
     },
     {
       "brand": "Hisense",
@@ -641,7 +631,7 @@
     },
     {
       "q": "Heb ik een soundbar nodig voor sport?",
-      "a": "Voor stadiongeluid en duidelijk commentaar is een soundbar een flinke verbetering, zeker bij dunne tv's met kleine luidsprekers. De Hisense 65E8S en 65E7S PRO hebben een kleine ingebouwde subwoofer en klinken beter dan gemiddeld. Bij de TCL 75T8D raden kopers een soundbar sterk aan."
+      "a": "Voor stadiongeluid en duidelijk commentaar is een soundbar een flinke verbetering, zeker bij dunne tv's met kleine luidsprekers. De Hisense 65E7S PRO heeft een kleine ingebouwde subwoofer en klinkt beter dan gemiddeld. Bij de TCL 75T8D raden kopers een soundbar sterk aan."
     }
   ],
   "rel": [
@@ -650,6 +640,12 @@
     "beste-mini-led-tv"
   ],
   "wissels": [
+    {
+      "d": "2026-11-26",
+      "uit": "Hisense 65E8S",
+      "in": "TCL 65T8D",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-16",
       "uit": "Philips 65MLED910",

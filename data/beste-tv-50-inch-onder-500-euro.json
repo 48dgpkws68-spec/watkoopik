@@ -113,47 +113,6 @@
       "synced": "2026-11-26"
     },
     {
-      "brand": "Samsung",
-      "name": "UE50M74H",
-      "price": 429.0,
-      "score": 8.9,
-      "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Mini LED van Samsung met drie jaar extra garantie.",
-      "specs": {
-        "Paneel": "Mini LED",
-        "Verversing": "60 Hz",
-        "HDR": "HDR10+, HLG",
-        "Smart-tv": "Tizen",
-        "HDMI 2.1": "Ja",
-        "Jaar": "2026",
-        "Stroomverbruik (SDR)": "65 W · klasse F (EU-label)"
-      },
-      "pros": [
-        "Mini LED-verlichting voor meer contrast",
-        "Tizen met alle grote Nederlandse apps",
-        "Drie jaar extra garantie via bol",
-        "Ruim 70 euro onder de grens"
-      ],
-      "cons": [
-        "Geen Dolby Vision",
-        "60 Hz en geen VRR volgens bol"
-      ],
-      "ideal": "Wie Mini LED wil van een groot merk met lange garantie.",
-      "text": "Met de UE50M74H brengt Samsung Mini LED naar 429 euro. De kleinere leds achter het paneel geven meer controle over licht en donker dan de verlichting van een gewone led-tv. Avondscènes ogen daardoor rustiger en witte ondertitels stralen minder uit. Het is een model uit 2026 en bol levert hem met drie jaar extra garantie bovenop de twee jaar van de fabrikant. Bij een tv die je jaren houdt, is dat een prettige zekerheid.\n\nTizen is snel en overzichtelijk. Netflix, NPO Start, Videoland en de apps van Ziggo en KPN staan erop. Voor HDR gebruikt Samsung HDR10+ en HLG. Dolby Vision ontbreekt, dus films op Netflix en Disney+ zie je in gewone HDR10. Het paneel werkt op 60 Hz en bol vermeldt geen VRR. Voor tv, films en casual gamen is dat genoeg, maar wie veel speelt is beter af met de Hisense 50E7S PRO of de TCL 50Q6C. Het EU-label noemt 65 watt in SDR, energieklasse F.",
-      "ean": "8806099134570",
-      "rating": 4.6,
-      "bol_title": "Samsung UE50M74H - 50 inch - 4K MiniLED - 2026 + 3 jaar extra garantie - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-50m74h-50-inch-4k-miniled-2026-smart-tv/9300000284690211/",
-      "image": "https://media.s-bol.com/B4WkpmRXYYMn/GvORpAK/550x347.jpg",
-      "ph": {
-        "2026-11-26": 429.0
-      },
-      "low_price": 429.0,
-      "ph_ean": "8806099134570",
-      "synced": "2026-11-26"
-    },
-    {
       "brand": "Philips",
       "name": "Ambilight 50PUS9000/12",
       "price": 489.0,
@@ -307,7 +266,7 @@
         "Geen VRR volgens bol"
       ],
       "ideal": "Wie een zorgeloze Samsung wil en geen bijzondere beeldtechniek nodig heeft.",
-      "text": "De Samsung UE50U7090H is de eenvoudigste Samsung in deze lijst. Het is een gewone 4K led-tv uit 2026 met een paneel van 60 Hz. Quantum dots en Mini LED krijg je niet. Daarvoor betaal je bij Samsung 74 euro meer voor de UE50M74H. Wat je wel krijgt, is de zekerheid van een groot merk: bol levert hem met drie jaar extra garantie.\n\nTizen is het sterkste punt. Het systeem werkt vlot, het menu is overzichtelijk en alle Nederlandse diensten staan erop, ook de apps van Ziggo en KPN. Dat scheelt een losse ontvanger of stick. Voor HDR gebruikt Samsung HDR10+ en HLG. Dolby Vision ontbreekt, dus Netflix en Disney+ zie je in gewone HDR10. Bol vermeldt HDMI 2.1 met eARC op drie poorten, maar geen VRR. Voor fanatieke gamers is dit dus niet de tv. De luidsprekers leveren 20 watt, genoeg voor nieuws en series. Het EU-label noemt 65 watt in SDR. Kijk je vooral gewone televisie, dan mis je hier weinig.",
+      "text": "De Samsung UE50U7090H is de eenvoudigste Samsung in deze lijst. Het is een gewone 4K led-tv uit 2026 met een paneel van 60 Hz. Quantum dots krijg je niet. Daarvoor betaal je bij Samsung 44 euro meer voor de QE50Q7F2A. Wat je wel krijgt, is de zekerheid van een groot merk: bol levert hem met drie jaar extra garantie.\n\nTizen is het sterkste punt. Het systeem werkt vlot, het menu is overzichtelijk en alle Nederlandse diensten staan erop, ook de apps van Ziggo en KPN. Dat scheelt een losse ontvanger of stick. Voor HDR gebruikt Samsung HDR10+ en HLG. Dolby Vision ontbreekt, dus Netflix en Disney+ zie je in gewone HDR10. Bol vermeldt HDMI 2.1 met eARC op drie poorten, maar geen VRR. Voor fanatieke gamers is dit dus niet de tv. De luidsprekers leveren 20 watt, genoeg voor nieuws en series. Het EU-label noemt 65 watt in SDR. Kijk je vooral gewone televisie, dan mis je hier weinig.",
       "ean": "8806099138974",
       "rating": 4.6,
       "bol_title": "Samsung UE50U7090H - 50 inch - 4K LED - 2026 + 3 jaar extra garantie - Smart TV",
@@ -318,6 +277,47 @@
       },
       "low_price": 355.0,
       "ph_ean": "8806099138974",
+      "synced": "2026-11-26"
+    },
+    {
+      "brand": "Samsung",
+      "name": "QE50Q7F2A",
+      "price": 399.0,
+      "score": 8.2,
+      "label": null,
+      "reviews": "bol-score 4,2 van 5",
+      "oneliner": "Samsung-QLED uit 2025 met Tizen voor rond de 400 euro.",
+      "specs": {
+        "Paneel": "QLED",
+        "Verversing": "60 Hz",
+        "HDR": "HDR10+",
+        "Smart-tv": "Tizen",
+        "HDMI 2.1": "Nee, HDMI 2.0 (opgave bol)",
+        "Jaar": "2025",
+        "Stroomverbruik (SDR)": "69 W · klasse G (EU-label)"
+      },
+      "pros": [
+        "Quantum dots voor vollere kleuren",
+        "Tizen met alle Nederlandse apps en Samsung TV Plus",
+        "Drie HDMI-poorten met eARC"
+      ],
+      "cons": [
+        "Paneel van 60 Hz zonder VRR",
+        "Geen Dolby Vision",
+        "Energieklasse G"
+      ],
+      "ideal": "Wie een Samsung met QLED-kleuren wil en niet gamet op 120 Hz.",
+      "text": "De Samsung QE50Q7F2A is de goedkoopste manier om in deze lijst een Samsung met quantum dots te kopen. Het is een QLED uit 2025 voor rond de 399 euro. De quantum dots geven vollere kleuren dan de gewone led-tv van Samsung in deze lijst, de UE50U7090H. De Q4 AI-processor schaalt gewone zenders op naar 4K. Voor HDR noemt bol alleen HDR10+. Dolby Vision ontbreekt, zoals bij elke Samsung.\n\nTizen is het sterkste punt. Het systeem is snel en heeft alle Nederlandse apps, plus gratis zenders via Samsung TV Plus. Voor gamers is dit niet de beste keus. Het paneel haalt maximaal 60 Hz en bol noemt HDMI 2.0 zonder VRR. Wil je snel gamen, dan kies je de Hisense 50E7S PRO of de TCL 50Q6C. Let ook op het verbruik: het EU-label geeft 69 watt in SDR en klasse G, de laagste klasse. Kopers op bol geven hem gemiddeld 4,2 van de 5. Kijk je vooral tv en series en wil je een Samsung, dan is dit een nette middenweg.",
+      "ean": "8806097122395",
+      "bol_title": "Samsung QE50Q7F2A - 50 inch - 4K QLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/samsung-qe50q7f2auxxn-qled-50-inch/9300000232174773/",
+      "image": "https://media.s-bol.com/k45zYv2xD1Y6/wjKxLpJ/550x351.jpg",
+      "ph": {
+        "2026-11-26": 399.0
+      },
+      "low_price": 399.0,
+      "ph_ean": "8806097122395",
+      "rating": 4.2,
       "synced": "2026-11-26"
     },
     {
@@ -457,7 +457,7 @@
     },
     {
       "h": "Led, QLED of Mini LED?",
-      "p": "Een gewone led-tv is het goedkoopst en geeft een degelijk beeld. QLED voegt quantum dots toe voor vollere kleuren. Mini LED gebruikt veel kleinere leds achter het paneel, zodat donkere delen donkerder worden terwijl lichte delen fel blijven. In deze lijst hebben de TCL 50Q6C en de Samsung UE50M74H Mini LED. Kijk je vooral overdag, dan is het verschil met QLED klein. In een donkere kamer zie je het wel."
+      "p": "Een gewone led-tv is het goedkoopst en geeft een degelijk beeld. QLED voegt quantum dots toe voor vollere kleuren. Mini LED gebruikt veel kleinere leds achter het paneel, zodat donkere delen donkerder worden terwijl lichte delen fel blijven. In deze lijst heeft alleen de TCL 50Q6C Mini LED. Kijk je vooral overdag, dan is het verschil met QLED klein. In een donkere kamer zie je het wel."
     },
     {
       "h": "60 Hz of 144 Hz?",
@@ -487,7 +487,7 @@
     },
     {
       "q": "Is er een 50 inch Mini LED-tv onder 500 euro?",
-      "a": "Ja, twee. De Samsung UE50M74H kost 429 euro en de TCL 50Q6C kost 489 euro. De TCL voegt quantum dots, Dolby Vision en 144 Hz toe. De Samsung heeft drie jaar extra garantie via bol."
+      "a": "Ja, één in deze lijst. De TCL 50Q6C kost 489 euro en combineert Mini LED met quantum dots, Dolby Vision en 144 Hz. Andere 50 inch tv's met Mini LED kosten bij bol op dit moment meer dan 500 euro."
     },
     {
       "q": "Op welke afstand kijk je naar een 50 inch tv?",
@@ -496,6 +496,14 @@
     {
       "q": "Moet ik wachten op Black Friday?",
       "a": "Rond Black Friday dalen de prijzen van tv's vaak. Wij tonen bij elke tv de actuele prijs bij bol. Zakt een tv uit deze lijst onder zijn normale prijs, dan is dat een goed moment om te kopen."
+    }
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-26",
+      "uit": "Samsung UE50M74H",
+      "in": "Samsung QE50Q7F2A",
+      "waarom": "niet meer leverbaar bij bol"
     }
   ]
 }

@@ -358,65 +358,42 @@
     },
     {
       "brand": "De'Longhi",
-      "name": "Olieradiator V551225.BG 2500 W",
-      "price": 139.0,
+      "name": "Radia S TRRS0715 1500 W",
+      "price": 131.99,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Olieradiator met drie vermogensstanden en Venturi-ribben voor snellere warmte.",
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Olieradiator van 1500 watt met drie standen en brede elementen.",
       "specs": {
         "Type": "Oliegevuld",
-        "Vermogen": "900, 1600 of 2500 W",
+        "Vermogen": "1500 W, 3 standen",
         "Thermostaat": "Draaiknop",
         "Timer": "Nee",
-        "Kosten per uur": "max. € 0,75"
+        "Kosten per uur": "max. € 0,45"
       },
       "pros": [
-        "Lage stand van 900 W voor een kleine kamer",
-        "Venturi-ribben verspreiden de warmte sneller",
-        "Kantelbeveiliging en zwenkwielen",
+        "Maximaal 1500 W, dus nooit meer dan 45 cent per uur",
+        "Drie warmtestanden en een regelbare thermostaat",
+        "Vorstvrijstand voor schuur of hobbykamer",
         "Geen app of account nodig"
       ],
       "cons": [
         "Geen timer en geen digitaal display",
-        "Weegt 16 kilo"
+        "Minder geschikt voor een grote woonkamer"
       ],
-      "ideal": "Wie een eenvoudige olieradiator van een bekend merk zoekt en het vermogen zelf laag wil houden.",
-      "text": "De V551225.BG is een olieradiator van De'Longhi met een speciale vorm van de ribben. Koude lucht wordt onderin aangezogen en stijgt langs het hete metaal snel op, wat De'Longhi het Venturi-effect noemt. Volgens de fabrikant circuleert de lucht daardoor tot 40 procent sneller dan bij een gewone olieradiator. Je houdt wel de stille, gelijkmatige warmte die oliekachels prettig maakt.\n\nVoor zuinig gebruik zijn de drie vermogensstanden belangrijk: 900, 1600 of 2500 watt. In een kleine kamer is de laagste stand vaak genoeg. Bij 0,30 euro per kWh kost die 27 cent per uur, tegen 75 cent op de hoogste stand. Met de draaiknop van de thermostaat schakelt de radiator af zodra de kamer warm genoeg is. Een timer, display of app ontbreekt, dus je zet hem zelf aan en uit. Met 16 kilo is hij zwaar, al helpen de zwenkwielen bij het verplaatsen. Kopers op bol geven hem een 5,0. Dit is een degelijke keuze voor een vaste kamer.",
-      "ean": "8004399027299",
-      "bol_title": "oliebadradiator 2500w zwart - delonghi - V551225.BG",
-      "url": "https://www.bol.com/nl/nl/p/delonghi-olieradiator-v551225-bg/9300000167287860/",
-      "image": "https://media.s-bol.com/7Ky23qYlvAjG/VmNO389/550x753.jpg",
+      "ideal": "Wie een eenvoudige olieradiator van een bekend merk zoekt voor een slaapkamer of werkkamer.",
+      "text": "De Radia S TRRS0715 is een olieradiator van De'Longhi met zeven verwarmingselementen. Die zijn volgens de fabrikant 35 procent breder dan bij een traditionele olieradiator, waardoor de warmte sneller de kamer in gaat. Je houdt wel de stille, gelijkmatige warmte die oliekachels prettig maakt. Het vermogen is maximaal 1500 watt en De'Longhi noemt hem geschikt voor ruimtes tot 45 kubieke meter. Dat is een kamer van ongeveer 18 vierkante meter.\n\nVoor zuinig gebruik helpt het lagere vermogen: bij 0,30 euro per kWh kost de hoogste stand 45 cent per uur. Je kiest uit drie warmtestanden en met de draaiknop van de thermostaat schakelt de radiator af zodra de kamer warm genoeg is. Er is ook een vorstvrijstand. Een timer, display of app ontbreekt, dus je zet hem zelf aan en uit. Hij weegt 9,9 kilo en staat op zwenkwielen. Kopers op bol geven hem een 4,5 van 5. De'Longhi raadt hem aan voor goed geïsoleerde ruimtes of incidenteel gebruik.",
+      "ean": "8004399850743",
+      "rating": 4.5,
+      "bol_title": "De'Longhi TRRS0715 - Elektrische Radiatoren Thermostaat",
+      "url": "https://www.bol.com/nl/nl/p/de-longhi-radia-s-trrs0715-oliegevulde-radiator-kachel/9200000047912674/",
+      "image": "https://media.s-bol.com/m40PJLqE46G0/Mj98lwR/454x840.jpg",
       "ph": {
-        "2026-11-04": 137.42,
-        "2026-11-05": 137.72,
-        "2026-11-06": 135.99,
-        "2026-11-07": 137.74,
-        "2026-11-08": 136.0,
-        "2026-11-09": 136.0,
-        "2026-11-10": 137.95,
-        "2026-11-11": 131.97,
-        "2026-11-12": 142.86,
-        "2026-11-13": 140.38,
-        "2026-11-14": 135.99,
-        "2026-11-16": 136.0,
-        "2026-11-17": 136.0,
-        "2026-11-18": 136.0,
-        "2026-11-19": 132.34,
-        "2026-11-20": 145.0,
-        "2026-11-21": 145.0,
-        "2026-11-22": 138.99,
-        "2026-11-23": 139.0,
-        "2026-11-24": 139.0,
-        "2026-11-25": 139.0,
-        "2026-11-26": 139.0
+        "2026-11-26": 131.99
       },
-      "low_price": 131.97,
-      "synced": "2026-11-26",
-      "prev_price": 145.0,
-      "prev_date": "2026-11-21",
-      "ph_ean": "8004399027299",
-      "rating": 5.0
+      "low_price": 131.99,
+      "ph_ean": "8004399850743",
+      "synced": "2026-11-26"
     },
     {
       "brand": "Dimplex",
@@ -742,6 +719,12 @@
   "meta_title": "Zuinigste elektrische kachel 2026: top 10 vergeleken",
   "meta_desc": "De zuinigste elektrische kachel van 2026 is de {top}. Top 10 vergeleken op verbruik, thermostaat, warmte per watt en prijs, met rekenvoorbeeld per uur.",
   "wissels": [
+    {
+      "d": "2026-11-26",
+      "uit": "De'Longhi Olieradiator V551225.BG 2500 W",
+      "in": "De'Longhi Radia S TRRS0715 1500 W",
+      "waarom": "niet meer leverbaar bij bol, vervangen door een leverbare olieradiator van hetzelfde merk"
+    },
     {
       "d": "2026-11-25",
       "uit": "VH Infrarood paneel Superia 600 W",

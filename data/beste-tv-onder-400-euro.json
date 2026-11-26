@@ -231,54 +231,44 @@
       "synced": "2026-11-26"
     },
     {
-      "brand": "Samsung",
-      "name": "UE55U7090H",
-      "price": 399.0,
-      "score": 8.5,
+      "brand": "CHiQ",
+      "name": "U50QST",
+      "price": 339.0,
+      "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Eenvoudige 55 inch van Samsung met drie jaar extra garantie.",
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "50 inch QLED met Google TV en een randloos metalen ontwerp.",
       "specs": {
-        "Formaat": "55 inch",
-        "Paneel": "LED",
+        "Formaat": "50 inch",
+        "Paneel": "QLED",
         "Verversing": "60 Hz",
-        "HDR": "HDR10+, HLG",
-        "Smart-tv": "Tizen",
-        "Stroomverbruik (SDR)": "77 W · klasse F (EU-label)"
+        "HDR": "HDR10, HLG",
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "54 W · klasse E (EU-label)"
       },
       "pros": [
-        "Drie jaar extra garantie via bol",
-        "Tizen met alle Nederlandse apps",
-        "VRR en ALLM voor consoles",
-        "Bekend merk met lange updates"
+        "QLED en Google TV voor rond de 339 euro",
+        "Chromecast ingebouwd",
+        "Randloos metalen ontwerp",
+        "Energieklasse E"
       ],
       "cons": [
-        "Geen quantum dots",
-        "Basis contrast en helderheid"
+        "Minder bekend merk met een kleiner servicenetwerk",
+        "Geen Dolby Vision"
       ],
-      "ideal": "Wie 55 inch wil van een A-merk en zekerheid belangrijker vindt dan topbeeld.",
-      "text": "De Samsung UE55U7090H is de 55 inch basis-tv van Samsung voor 2026. Op papier verliest hij het van de QLED-modellen van Hisense en TCL, maar hij heeft een troef die veel kopers belangrijk vinden: bij bol krijg je er drie jaar extra garantie bij. Samsung levert er in Nederland het Made for NL-pakket bij, met onder meer een paar maanden SkyShowtime en NLZIET.\n\nHet 4K-paneel is scherp en de Crystal Processor 4K schaalt gewone zenders goed op. Zonder quantum dots zijn de kleuren minder verzadigd dan bij de Hisense of LG, maar voor nieuws, series en voetbal oogt het beeld natuurlijk. HDR10+ wordt ondersteund, al is het paneel niet fel genoeg om HDR echt tot leven te brengen. Tizen is snel en heeft alle apps, van NPO Start tot Ziggo GO. Voor consoles zijn er ALLM en VRR, maar het paneel blijft 60 Hz. Kopers op bol geven hem een 4,6 uit 5 en noemen vooral het gemak.",
-      "ean": "8806099133863",
-      "bol_title": "Samsung UE55U7090H - 55 inch - 4K LED - 2026 + 3 jaar extra garantie - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-ue55u7090hu-55-inch-4k-led-2026-smart-tv/9300000332667098/",
-      "image": "https://media.s-bol.com/7PAEKoqW4Mjy/jYZwkkR/550x348.jpg",
+      "ideal": "Wie QLED-kleuren en Google TV wil en geen groot merk nodig heeft.",
+      "text": "De CHiQ U50QST is het grotere broertje van de U43QST op nr. 8 en kost rond de 339 euro. CHiQ is het tv-merk van het Chinese Changhong en in Nederland minder bekend dan Samsung, LG of Philips. De combinatie die je krijgt is onder 400 euro wel zeldzaam: een QLED-paneel met Google TV. Quantum dots geven vollere kleuren dan een gewone led-tv en Google TV heeft de grootste appwinkel, met Chromecast ingebouwd.\n\nDe randloze metalen behuizing oogt strakker dan je bij deze prijs verwacht. Het paneel draait op 60 Hz en voor HDR ondersteunt hij HDR10 en HLG. Dolby Vision staat niet in de specificaties, dus voor films op Netflix is de Hisense 50E7S op nr. 2 voor hetzelfde geld de betere keus. Het belangrijkste nadeel blijft het merk: bij problemen heb je minder zekerheid over service en updates. Met 54 watt in SDR en energielabel E is hij zuinig. Kopers op bol geven hem gemiddeld 4,3 van de 5. Wil je Google TV op 50 inch met QLED, dan is dit de voordeligste weg.",
+      "ean": "8592344206108",
+      "bol_title": "CHiQ U50QST - Smart TV 50 Inch - UHD 4K - QLED Pro - Google TV - Randloos Metal Design - Dolby Audio - Nieuw",
+      "url": "https://www.bol.com/nl/nl/p/chiq-u50qst-smart-tv-50-inch-4k-qled-google-tv-uhd-2025-nieuw/9300000237942072/",
+      "image": "https://media.s-bol.com/qzg5OG08V1m2/mqz22vG/550x355.jpg",
       "ph": {
-        "2026-11-16": 399.0,
-        "2026-11-17": 399.0,
-        "2026-11-18": 399.0,
-        "2026-11-19": 399.0,
-        "2026-11-20": 399.0,
-        "2026-11-21": 399.0,
-        "2026-11-22": 399.0,
-        "2026-11-23": 399.0,
-        "2026-11-24": 399.0,
-        "2026-11-25": 399.0,
-        "2026-11-26": 399.0
+        "2026-11-26": 339.0
       },
-      "low_price": 399.0,
-      "ph_ean": "8806099133863",
-      "synced": "2026-11-26",
-      "rating": 4.6
+      "low_price": 339.0,
+      "ph_ean": "8592344206108",
+      "rating": 4.3,
+      "synced": "2026-11-26"
     },
     {
       "brand": "Philips",
@@ -337,7 +327,7 @@
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
-      "oneliner": "De 50 inch Samsung met dezelfde garantie als nr. 5.",
+      "oneliner": "De 50 inch Samsung met drie jaar extra garantie via bol.",
       "specs": {
         "Formaat": "50 inch",
         "Paneel": "LED",
@@ -357,7 +347,7 @@
         "Matig contrast in een donkere kamer"
       ],
       "ideal": "Wie een betrouwbare 50 inch van een A-merk zoekt voor zo weinig mogelijk.",
-      "text": "De Samsung UE50U7090H is dezelfde tv als nummer 5, maar dan op 50 inch en 44 euro goedkoper. Ook hier krijg je bij bol drie jaar extra garantie en het Made for NL-pakket met tijdelijke abonnementen op onder meer SkyShowtime en NLZIET. Het dunne MetalStream-ontwerp met smalle randen ziet er strakker uit dan je bij deze prijs verwacht.\n\nHet beeld is scherp 4K met een Crystal Processor die gewone zenders netjes opschaalt. Zonder quantum dots zijn kleuren rustiger dan bij de Hisense 50E7S, die zestien euro goedkoper is. Wat je bij Samsung wel krijgt is Tizen: snel, overzichtelijk en met alle Nederlandse apps, inclusief Ziggo GO en KPN. Ziggo-kijkers kunnen bovendien een CI+-module gebruiken. Voor gamers zijn er ALLM, VRR en HGiG, op een 60 Hz-paneel. Kopers op bol geven hem een 4,6 uit 5. Kies hem als je het merk en de garantie belangrijker vindt dan de rijkste kleuren.",
+      "text": "De Samsung UE50U7090H is de instap-tv van Samsung voor 2026 op 50 inch. Je krijgt bij bol drie jaar extra garantie en het Made for NL-pakket met tijdelijke abonnementen op onder meer SkyShowtime en NLZIET. Het dunne MetalStream-ontwerp met smalle randen ziet er strakker uit dan je bij deze prijs verwacht.\n\nHet beeld is scherp 4K met een Crystal Processor die gewone zenders netjes opschaalt. Zonder quantum dots zijn kleuren rustiger dan bij de Hisense 50E7S, die zestien euro goedkoper is. Wat je bij Samsung wel krijgt is Tizen: snel, overzichtelijk en met alle Nederlandse apps, inclusief Ziggo GO en KPN. Ziggo-kijkers kunnen bovendien een CI+-module gebruiken. Voor gamers zijn er ALLM, VRR en HGiG, op een 60 Hz-paneel. Kopers op bol geven hem een 4,6 uit 5. Kies hem als je het merk en de garantie belangrijker vindt dan de rijkste kleuren.",
       "ean": "8806099138974",
       "bol_title": "Samsung UE50U7090H - 50 inch - 4K LED - 2026 + 3 jaar extra garantie - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/samsung-ue50u7090hu-50-inch-4k-led-2026-smart-tv/9300000332667100/",
@@ -522,7 +512,7 @@
   "guide": [
     {
       "h": "Wat krijg je voor 400 euro?",
-      "p": "Onder de 400 euro kies je tussen 43, 50 en 55 inch. Bij 55 inch zit je met de Hisense 55E7S en Samsung UE55U7090H precies op 399 euro. Voor 65 inch, miniled of 120 Hz moet je richting 500 euro. Bepaal eerst je kijkafstand: tot twee meter is 43 inch genoeg, op twee tot drie meter past 50 of 55 inch."
+      "p": "Onder de 400 euro kies je tussen 43, 50 en 55 inch. Bij 55 inch zit je met de Hisense 55E7S precies op 399 euro. Voor 65 inch, miniled of 120 Hz moet je richting 500 euro. Bepaal eerst je kijkafstand: tot twee meter is 43 inch genoeg, op twee tot drie meter past 50 of 55 inch."
     },
     {
       "h": "QLED of gewone led?",
@@ -538,11 +528,11 @@
     },
     {
       "h": "Gamen op een goedkope tv",
-      "p": "Alle tv's in deze lijst draaien op 60 Hz. Voor een PS5 of Xbox op standaardinstellingen is dat genoeg, zeker met een gamemodus voor lage inputlag. De Samsungs en de Philips hebben ook VRR en ALLM. Wil je echt 120 of 144 Hz in 4K, kijk dan naar de Hisense 55E7S PRO van rond 500 euro."
+      "p": "Alle tv's in deze lijst draaien op 60 Hz. Voor een PS5 of Xbox op standaardinstellingen is dat genoeg, zeker met een gamemodus voor lage inputlag. De Samsung en de Philips hebben ook VRR en ALLM. Wil je echt 120 of 144 Hz in 4K, kijk dan naar de Hisense 55E7S PRO van rond 500 euro."
     },
     {
       "h": "Garantie en merk",
-      "p": "Bij tv's onder 400 euro is de marge klein. Samsung geeft via bol drie jaar extra garantie op de UE50U7090H en UE55U7090H. LG en Samsung leveren doorgaans het langst software-updates. Hisense, TCL en CHiQ geven meer beeld voor hetzelfde geld. Let bij onbekende merken onder de 300 euro goed op de reviews: die tv's scoren vaak lager en missen soms Nederlandse apps."
+      "p": "Bij tv's onder 400 euro is de marge klein. Samsung geeft via bol drie jaar extra garantie op de UE50U7090H. LG en Samsung leveren doorgaans het langst software-updates. Hisense, TCL en CHiQ geven meer beeld voor hetzelfde geld. Let bij onbekende merken onder de 300 euro goed op de reviews: die tv's scoren vaak lager en missen soms Nederlandse apps."
     }
   ],
   "faq": [
@@ -552,7 +542,7 @@
     },
     {
       "q": "Kun je een 55 inch tv onder 400 euro kopen?",
-      "a": "Ja. De Hisense 55E7S en de Samsung UE55U7090H kosten allebei 399 euro bij bol. De Hisense heeft een QLED-paneel, de Samsung is een gewone led-tv met drie jaar extra garantie."
+      "a": "Ja. De Hisense 55E7S kost 399 euro bij bol en heeft een QLED-paneel met Dolby Vision en HDR10+. Het is de enige 55 inch tv in deze lijst, de andere modellen zijn 43 of 50 inch."
     },
     {
       "q": "Welke tv onder 400 euro heeft Dolby Vision?",
@@ -560,11 +550,11 @@
     },
     {
       "q": "Is een tv onder 400 euro goed genoeg om te gamen?",
-      "a": "Voor casual gamen wel. Alle tv's onder 400 euro in deze lijst draaien op 60 Hz met een gamemodus voor lage inputlag. De Samsungs en de Philips hebben VRR. Voor 144 Hz in 4K heb je een tv van rond de 500 euro nodig, zoals de Hisense 55E7S PRO."
+      "a": "Voor casual gamen wel. Alle tv's onder 400 euro in deze lijst draaien op 60 Hz met een gamemodus voor lage inputlag. De Samsung en de Philips hebben VRR. Voor 144 Hz in 4K heb je een tv van rond de 500 euro nodig, zoals de Hisense 55E7S PRO."
     },
     {
       "q": "Welke tv onder 400 euro heeft de beste apps?",
-      "a": "Google TV op de TCL 50P61K en CHiQ U43QST heeft de grootste appwinkel en ingebouwde Chromecast. webOS op de LG 43QNED84A6 en Tizen op de Samsungs hebben ook alle Nederlandse apps, inclusief KPN en Ziggo GO."
+      "a": "Google TV op de TCL 50P61K, CHiQ U50QST en CHiQ U43QST heeft de grootste appwinkel en ingebouwde Chromecast. webOS op de LG 43QNED84A6 en Tizen op de Samsung hebben ook alle Nederlandse apps, inclusief KPN en Ziggo GO."
     },
     {
       "q": "Wanneer is een tv het goedkoopst?",
@@ -575,19 +565,19 @@
     "keuzes": [
       {
         "h": "Hoe ver zit je van de tv?",
-        "p": "Zit je op twee tot drie meter, dan is 55 inch het fijnst. Nr. 1, de Hisense 55E7S (€ 399) en nr. 5, de Samsung UE55U7090H (€ 399) zijn dan de beste keus. Zit je dichterbij of is je tv-meubel smal, kies dan 50 inch zoals nr. 2, de Hisense 50E7S (€ 339) of nr. 4, de Hisense 50A6S (€ 355). Voor een slaapkamer of keuken is 43 inch genoeg."
+        "p": "Zit je op twee tot drie meter, dan is 55 inch het fijnst. Nr. 1, de Hisense 55E7S (€ 399), is dan de beste keus. Zit je dichterbij of is je tv-meubel smal, kies dan 50 inch zoals nr. 2, de Hisense 50E7S (€ 339) of nr. 4, de Hisense 50A6S (€ 355). Voor een slaapkamer of keuken is 43 inch genoeg."
       },
       {
         "h": "Welke apps en zenderpakketten gebruik je?",
-        "p": "Wil je de meeste apps en Chromecast, kies dan Google TV: nr. 8, de CHiQ U43QST (€ 283) of nr. 10, de TCL 50P61K (€ 329). Kijk je via KPN of Ziggo, dan zijn webOS op nr. 3 en Tizen op nr. 5 en nr. 7 de veiligste keuze."
+        "p": "Wil je de meeste apps en Chromecast, kies dan Google TV: nr. 5, de CHiQ U50QST (€ 339), nr. 8, de CHiQ U43QST (€ 283) of nr. 10, de TCL 50P61K (€ 329). Kijk je via KPN of Ziggo, dan zijn webOS op nr. 3 en Tizen op nr. 7 de veiligste keuze."
       },
       {
         "h": "Kijk je veel films en series op Netflix of Disney+?",
-        "p": "Dan telt Dolby Vision. De Hisense E7S-serie op nr. 1, nr. 2 en nr. 9 ondersteunt Dolby Vision en HDR10+. De Hisense 50A6S op nr. 4 heeft Dolby Vision. Bij de Samsungs, de Philips, de TCL en de LG ontbreekt Dolby Vision, waardoor films in HDR iets minder uit de verf komen."
+        "p": "Dan telt Dolby Vision. De Hisense E7S-serie op nr. 1, nr. 2 en nr. 9 ondersteunt Dolby Vision en HDR10+. De Hisense 50A6S op nr. 4 heeft Dolby Vision. Bij de Samsung, de Philips, de TCL, de CHiQ-modellen en de LG ontbreekt Dolby Vision, waardoor films in HDR iets minder uit de verf komen."
       },
       {
         "h": "Vind je zekerheid belangrijker dan het beste beeld?",
-        "p": "Kies dan een Samsung. Nr. 5, de UE55U7090H (€ 399) en nr. 7, de UE50U7090H (€ 355) krijgen via bol drie jaar extra garantie en Samsung levert lang software-updates. Je levert wel in op kleuren ten opzichte van de QLED-modellen van Hisense en TCL."
+        "p": "Kies dan een Samsung. Nr. 7, de UE50U7090H (€ 355), krijgt via bol drie jaar extra garantie en Samsung levert lang software-updates. Je levert wel in op kleuren ten opzichte van de QLED-modellen van Hisense en TCL."
       }
     ],
     "wanneer": [
@@ -597,11 +587,17 @@
       },
       {
         "rank": 3,
-        "p": "De LG 43QNED84A6 (€ 349) is de betere keus voor een slaapkamer, keuken of kleine woonkamer. Je krijgt het snelle webOS met de Magic Remote, alle Nederlandse apps en lange software-updates van LG. Daar staat tegenover dat het scherm met 43 inch een stuk kleiner is en Dolby Vision ontbreekt."
+        "p": "De LG 43QNED84A6 (€ 347) is de betere keus voor een slaapkamer, keuken of kleine woonkamer. Je krijgt het snelle webOS met de Magic Remote, alle Nederlandse apps en lange software-updates van LG. Daar staat tegenover dat het scherm met 43 inch een stuk kleiner is en Dolby Vision ontbreekt."
       }
     ]
   },
   "wissels": [
+    {
+      "d": "2026-11-26",
+      "uit": "Samsung UE55U7090H",
+      "in": "CHiQ U50QST",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-25",
       "uit": "Xiaomi TV A Pro 2026 43 inch",

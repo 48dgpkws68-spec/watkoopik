@@ -290,88 +290,81 @@
       "synced": "2026-11-26"
     },
     {
-      "brand": "Philips",
-      "name": "75PQS7801/12",
-      "price": 699.0,
+      "brand": "Sharp",
+      "name": "75JP7265E",
+      "price": 759.0,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
-      "oneliner": "Philips QLED op 75 inch met Dolby Vision voor 699 euro.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Mini LED met Google TV en Harman Kardon-geluid voor 759 euro.",
       "specs": {
-        "Paneel": "QLED",
-        "Verversing": "60 Hz",
-        "HDR": "Dolby Vision, HDR10+",
-        "Smart-tv": "Titan OS",
-        "Stroomverbruik (SDR)": "107 W · klasse E (EU-label)"
+        "Paneel": "QLED Mini LED",
+        "Verversing": "tot 144 Hz (opgave bol), VRR",
+        "HDR": "Dolby Vision, HDR10",
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "klasse E (EU-label)"
       },
       "pros": [
-        "Quantum dots voor voller kleur",
-        "Dolby Vision en HDR10+",
-        "Rustige, natuurlijke beeldverwerking van Philips"
+        "Mini LED met lokale dimming",
+        "Google TV met Google Cast",
+        "Luidsprekers van Harman Kardon met Dolby Atmos",
+        "Energieklasse E"
       ],
       "cons": [
-        "Geen local dimming",
-        "Titan OS heeft een kleinere appwinkel"
+        "Geen HDR10+ genoemd",
+        "Standaard verversing niet opgegeven"
       ],
-      "ideal": "Wie een groot scherm voor series, journaal en voetbal wil zonder veel uit te geven.",
-      "text": "De Philips 75PQS7801/12 is het instapmodel van Philips op 75 inch met een QLED-paneel. Voor 699 euro krijg je quantum dots, waardoor kleuren voller ogen dan bij een standaard led-tv. Philips staat bekend om een rustige beeldverwerking: kleuren worden niet opgeblazen en HD-zenders worden netjes opgeschaald. Dat komt goed uit op 75 inch, waar slechte opschaling snel opvalt.\n\nVoor HDR ondersteunt hij Dolby Vision en HDR10+, zodat Netflix en Prime Video allebei hun beste signaal sturen. Het paneel draait op 60 Hz zonder local dimming, dus zwart blijft grijzig en HDR knalt minder dan bij de Mini LED-tv's hoger in deze lijst. Titan OS heeft Netflix, Disney+, Videoland en NPO Start, maar de appwinkel is kleiner dan die van Google TV. Mis je een app, dan sluit je een streamingstick aan. Wil je vooral een groot, natuurlijk beeld voor dagelijks kijken, dan hou je met deze tv 300 euro over.",
-      "ean": "8718863051696",
-      "bol_title": "Philips 75PQS7801/12 - 75 inch - 4K QLED - 2026",
-      "url": "https://www.bol.com/nl/nl/p/philips-75pqs7801-12-75-inch-4k-qled-2026/9300000354155807/",
-      "image": "https://media.s-bol.com/74KYxxpz8ZzO/k8L8Jrv/550x247.jpg",
+      "ideal": "Wie op 75 inch Mini LED en Google TV wil voor minder dan 800 euro.",
+      "text": "De Sharp 75JP7265E is de goedkoopste tv met Mini LED in deze lijst. Voor rond de 759 euro krijg je een QLED-paneel van 75 inch uit 2026 met Mini LED-achtergrondverlichting. Volgens Sharp dimmen honderden kleine leds per zone, zodat donkere delen donker blijven terwijl lichte delen fel oplichten. Op een scherm van dit formaat zie je dat verschil met een gewone QLED snel, vooral bij films in de avond. Dolby Vision wordt ondersteund, HDR10+ noemt Sharp niet.\n\nGoogle TV geeft je alle Nederlandse apps, Google Cast en spraakbediening via Google Assistant. Het geluid komt uit een luidsprekersysteem van Harman Kardon met Dolby Atmos. Bol noemt een maximale verversing van 144 Hz en VRR via HDMI 2.1, maar geen standaardwaarde. Gamers die zekerheid willen, kiezen daarom de Hisense 75E7S PRO op nr. 1. Het EU-label geeft klasse E, zuinig voor 75 inch. Kopers op bol geven hem gemiddeld 5 van de 5. De TCL 75T8D op nr. 3 heeft ook Mini LED, maar kost bijna 190 euro meer.",
+      "ean": "5905683275071",
+      "bol_title": "SHARP 75JP7265E - 75 inch | 4K QLED TV | Smart TV | Google TV",
+      "url": "https://www.bol.com/nl/nl/p/sharp-75jp7265-75-inch-4k-qled-tv-smart-tv-google-tv/9300000256772054/",
+      "image": "https://media.s-bol.com/A3DQ4qvGQGmB/nxnP1oY/550x341.jpg",
       "ph": {
-        "2026-11-22": 699.0,
-        "2026-11-23": 699.0,
-        "2026-11-24": 699.0,
-        "2026-11-25": 699.0,
-        "2026-11-26": 699.0
+        "2026-11-26": 759.0
       },
-      "low_price": 699.0,
-      "ph_ean": "8718863051696",
-      "rating": 4.7,
+      "low_price": 759.0,
+      "ph_ean": "5905683275071",
+      "rating": 5.0,
       "synced": "2026-11-26"
     },
     {
       "brand": "TCL",
-      "name": "75P79L",
-      "price": 749.0,
+      "name": "75QLED780K",
+      "price": 699.0,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
-      "oneliner": "75 inch QLED uit 2026 met Dolby Vision en Google TV.",
+      "reviews": "",
+      "oneliner": "QLED uit 2025 met ingebouwde subwoofer en Google TV.",
       "specs": {
         "Paneel": "QLED",
-        "Verversing": "Niet opgegeven",
-        "HDR": "Dolby Vision, HDR10",
+        "Verversing": "60 Hz, VRR",
+        "HDR": "Dolby Vision, HDR10+",
         "Smart-tv": "Google TV",
-        "Stroomverbruik (SDR)": "105 W · klasse E (EU-label)"
+        "Stroomverbruik (SDR)": "klasse F (EU-label)"
       },
       "pros": [
-        "Dolby Vision op 75 inch voor 749 euro",
-        "Google TV met spraakbediening",
-        "Randloos ontwerp",
-        "AiPQ-processor voor opschaling"
+        "2.1-geluid met subwoofer en Dolby Atmos",
+        "Dolby Vision en HDR10+",
+        "Google TV",
+        "VRR via HDMI 2.1"
       ],
       "cons": [
-        "TCL noemt geen verversingssnelheid",
-        "Geen local dimming"
+        "Model uit 2025",
+        "Energieklasse F",
+        "Paneel van 60 Hz"
       ],
-      "ideal": "Wie een 75 inch QLED met Google TV en Dolby Vision zoekt voor films en series.",
-      "text": "De TCL 75P79L is een 75 inch QLED uit 2026 voor 749 euro. Het paneel met quantum dots geeft voller kleur dan een gewone led-tv en het 4K-scherm is scherp genoeg voor een kijkafstand van zo'n 2,5 meter. De AiPQ-processor past helderheid, scherpte en beweging continu aan, zodat ook gewone zenders op dit grote scherm netjes ogen.\n\nVoor HDR ondersteunt hij Dolby Vision en HDR10. Google TV heeft alle grote apps en je bedient de tv met je stem. Het geluid loopt via Dolby Audio, voor films wil je op 75 inch eigenlijk een soundbar. TCL spreekt over een lage input lag voor casual gaming, maar noemt geen verversingssnelheid. Fanatieke gamers kiezen daarom beter de Hisense 75E7S PRO. Local dimming ontbreekt, dus in een donkere kamer is zwart minder diep dan bij de TCL 75T8D. Voor dezelfde prijs biedt de Hisense 75E7S iets meer, maar wil je per se Google TV, dan is dit een goed alternatief.",
-      "ean": "5901292531331",
-      "bol_title": "TCL 75P79L - 75 inch - 4K QLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-75p79l-75-inch-4k-qled-2026-smart-tv/9300000273452872/",
-      "image": "https://media.s-bol.com/Nq6YEEE6wApv/KZyXEzx/550x341.jpg",
+      "ideal": "Wie een groot scherm met goed geluid wil zonder losse soundbar.",
+      "text": "De TCL 75QLED780K is een QLED uit 2025 en kost rond de 699 euro, 300 euro onder de grens van deze gids. Wat hem bijzonder maakt is het geluid. TCL bouwt een 2.1-systeem in met een subwoofer, Dolby Atmos en DTS Virtual:X. Daarmee klinkt hij voller dan de meeste tv's in deze lijst. Wil je geen losse soundbar onder een scherm van 75 inch, dan scheelt dat geld en kabels.\n\nHet beeld is dat van een degelijke QLED. Quantum dots geven volle kleuren en Dolby Vision, HDR10+ en HLG worden ondersteund. Dimzones heeft hij niet, dus zwart is minder diep dan bij de Mini LED-modellen in deze lijst. Het paneel blijft op 60 Hz, met VRR via HDMI 2.1 voor wie af en toe op een console speelt. Google TV heeft alle apps en spraakbediening via Google Assistant. Het EU-label geeft klasse F en op bol heeft hij nog geen beoordelingen. De nieuwere TCL 75T69C op nr. 9 heeft vergelijkbaar beeld voor 70 euro minder. Daar kies je voor als geluid minder telt.",
+      "ean": "5901292527679",
+      "bol_title": "TCL 75QLED780K - 75 inch - 4K QLED - 2025",
+      "url": "https://www.bol.com/nl/nl/p/tcl-75qled780k-tv-75-4k-uhd-qled-googletv/9300000231977100/",
+      "image": "https://media.s-bol.com/w3p1xl73wxZJ/Rg9OlvY/550x341.jpg",
       "ph": {
-        "2026-11-22": 749.0,
-        "2026-11-23": 749.0,
-        "2026-11-24": 749.0,
-        "2026-11-25": 749.0,
-        "2026-11-26": 749.0
+        "2026-11-26": 699.0
       },
-      "low_price": 749.0,
-      "ph_ean": "5901292531331",
-      "rating": 4.4,
+      "low_price": 699.0,
+      "ph_ean": "5901292527679",
       "synced": "2026-11-26"
     },
     {
@@ -514,6 +507,18 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-26",
+      "uit": "Philips 75PQS7801/12",
+      "in": "Sharp 75JP7265E",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-26",
+      "uit": "TCL 75P79L",
+      "in": "TCL 75QLED780K",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-25",
       "uit": "Hisense 75E8S",

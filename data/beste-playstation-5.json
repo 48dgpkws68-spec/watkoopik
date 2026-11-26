@@ -22,7 +22,7 @@
     {
       "brand": "Samsung",
       "name": "990 PRO 1 TB SSD met koelplaat",
-      "price": 339.0,
+      "price": 300.95,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,9 van 5",
@@ -45,21 +45,17 @@
       ],
       "ideal": "PS5-bezitters die steeds games moeten verwijderen om ruimte te maken.",
       "text": "Een volle PS5 is een bekend probleem. Een grote game neemt al snel 80 tot 150 GB in beslag, dus de interne opslag is na een handvol titels op. De Samsung 990 PRO met koelplaat is een M.2-SSD die je in het uitbreidingsslot van de PS5 plaatst. Met een leessnelheid tot 7.450 MB/s is hij ruim sneller dan wat Sony minimaal vraagt, dus games laden net zo snel als vanaf de interne opslag. De koelplaat zit er al op, zodat je geen los koelblokje hoeft te kopen.\n\nInbouwen lukt met een kleine schroevendraaier in een paar minuten: zijpaneel eraf, klepje los, SSD erin en de console formatteert hem zelf. Daarna verplaats je games met een paar klikken. Samsung geeft 5 jaar fabrieksgarantie. Op bol scoort hij een 4,9 van 5. Let op: SSD's zijn in 2026 flink duurder geworden, dus vergelijk de prijs. Omdat bij bol nu geen PS5-console leverbaar is, is extra opslag de nuttigste aankoop voor wie al een PS5 heeft.",
-      "ean": "8806094594645",
+      "ean": "8806094413748",
       "rating": 4.9,
-      "bol_title": "Samsung 990 PRO - Interne SSD met Heatsink - PCIe 4.0 - NVMe M.2 - PS5 Compatibel - (Gamers Pack) - 1 TB",
-      "url": "https://www.bol.com/nl/nl/p/samsung-990-pro-1000-gb-m-2/9300000146144214/",
-      "image": "https://media.s-bol.com/1oq0WRY1QpBR/R60w28z/550x170.jpg",
+      "ph_ean": "8806094413748",
+      "bol_title": "Samsung 990 PRO - Interne SSD met Heatsink - PCIe 4.0 - NVMe M.2 - PS5 Compatibel - (PC Pack) 1 TB",
+      "url": "https://www.bol.com/nl/nl/p/samsung-990-pro-1000-gb-m-2/9300000240292405/",
+      "image": "https://media.s-bol.com/JAll7mML81Xg/rDyJLL/550x168.jpg",
       "ph": {
-        "2026-11-24": 319.0,
-        "2026-11-25": 319.0,
-        "2026-11-26": 339.0
+        "2026-11-26": 300.95
       },
-      "low_price": 319.0,
-      "ph_ean": "8806094594645",
-      "synced": "2026-11-26",
-      "prev_price": 319.0,
-      "prev_date": "2026-11-25"
+      "low_price": 300.95,
+      "synced": "2026-11-26"
     },
     {
       "brand": "Sony",
@@ -521,7 +517,7 @@
   "seo": "PlayStation 5 bundel",
   "published": "2026-10-20",
   "meta_title": "Beste PlayStation 5 2026: consoles, bundels en accessoires",
-  "meta_desc": "De beste PlayStation 5 van 2026 is de {top}. Twee PS5-consoles plus acht accessoires vergeleken op prijs, opslag, disc of digitaal en inhoud van de doos.",
+  "meta_desc": "Tien uitbreidingen en accessoires voor je PS5 vergeleken op prijs, opslag, comfort en inhoud van de doos.",
   "rel": [
     "beste-nintendo-switch",
     "beste-gaming-tv",

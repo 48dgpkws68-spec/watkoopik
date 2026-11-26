@@ -367,7 +367,7 @@
         "Geen local dimming"
       ],
       "ideal": "Wie Ambilight en een rustig beeld belangrijker vindt dan felle kleuren.",
-      "text": "De Philips 55PUS8001/12 is de enige 55 inch onder 500 euro in deze lijst met Ambilight. Leds aan drie zijden van de tv laten de muur erachter oplichten in de kleuren van het beeld. Dat maakt het scherm groter in je beleving en is rustiger voor je ogen als je 's avonds kijkt. Het is een model uit 2026 voor 449 euro.\n\nPhilips staat bekend om een natuurlijke beeldverwerking. Kleuren worden niet opgeblazen en bewegingen zijn vloeiend zonder soap-effect, fijn bij films en drama. Het paneel is een gewoon led-paneel op 60 Hz zonder local dimming, dus zwart en helderheid liggen op het niveau van de Samsung UE55U7090H. Voor HDR ondersteunt hij HDR10, HDR10+ en HLG. Titan OS is snel en overzichtelijk, maar de appwinkel is kleiner dan bij Google TV of webOS. Mis je een app, dan sluit je een streamingstick aan. Wil je Ambilight op 55 inch zonder het budget te breken, dan is dit je tv.",
+      "text": "De Philips 55PUS8001/12 is de enige 55 inch onder 500 euro in deze lijst met Ambilight. Leds aan drie zijden van de tv laten de muur erachter oplichten in de kleuren van het beeld. Dat maakt het scherm groter in je beleving en is rustiger voor je ogen als je 's avonds kijkt. Het is een model uit 2026 voor 449 euro.\n\nPhilips staat bekend om een natuurlijke beeldverwerking. Kleuren worden niet opgeblazen en bewegingen zijn vloeiend zonder soap-effect, fijn bij films en drama. Het paneel is een gewoon led-paneel op 60 Hz zonder local dimming, dus zwart en helderheid zijn die van een gewone led-tv. Voor HDR ondersteunt hij HDR10, HDR10+ en HLG. Titan OS is snel en overzichtelijk, maar de appwinkel is kleiner dan bij Google TV of webOS. Mis je een app, dan sluit je een streamingstick aan. Wil je Ambilight op 55 inch zonder het budget te breken, dan is dit je tv.",
       "ean": "8718863051726",
       "bol_title": "Philips 55PUS8001/12 - 55 inch - 4K LED - 2026",
       "url": "https://www.bol.com/nl/nl/p/philips-55pus8001-12-55-inch-4k-led-2026/9300000291539577/",
@@ -386,47 +386,43 @@
       "rating": 5.0
     },
     {
-      "brand": "Samsung",
-      "name": "UE55U7090H",
-      "price": 399.0,
+      "brand": "TCL",
+      "name": "55P79L",
+      "price": 449.0,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Eenvoudige 55 inch Samsung met drie jaar extra garantie.",
+      "reviews": "bol-score 4,4 van 5",
+      "oneliner": "QLED uit 2026 met Google TV en Dolby Vision.",
       "specs": {
-        "Paneel": "LED",
+        "Paneel": "QLED",
         "Verversing": "60 Hz",
-        "HDR": "HDR10+, HLG",
-        "Smart-tv": "Tizen",
-        "Stroomverbruik (SDR)": "77 W · klasse F (EU-label)"
+        "HDR": "Dolby Vision, HDR10+, HLG",
+        "Smart-tv": "Google TV",
+        "Stroomverbruik (SDR)": "klasse F (EU-label)"
       },
       "pros": [
-        "Bij bol met drie jaar extra garantie",
-        "Tizen met alle Nederlandse apps",
-        "Bekend merk met lange updates",
-        "Dun design"
+        "Quantum dots voor vollere kleuren",
+        "Google TV met Chromecast",
+        "Dolby Vision",
+        "VRR via HDMI 2.1"
       ],
       "cons": [
-        "Geen quantum dots",
-        "Bescheiden contrast en helderheid"
+        "Geen local dimming",
+        "Maximaal 60 Hz",
+        "Energieklasse F"
       ],
-      "ideal": "Wie liever een A-merk met extra garantie koopt dan de beste specificaties.",
-      "text": "De Samsung UE55U7090H is de 55 inch basis-tv van Samsung voor 2026 en kost 399 euro. Op papier verliest hij het van de QLED- en Mini LED-modellen hoger in deze lijst. Zijn troef is zekerheid: bij bol krijg je drie jaar extra garantie, dus je bent vijf jaar lang gedekt. Dat is bij een tv van onder 500 euro uitzonderlijk.\n\nHet 4K-paneel is scherp en de Crystal-processor schaalt gewone zenders netjes op. Zonder quantum dots zijn de kleuren minder verzadigd dan bij de Hisense 55E7S of de LG, maar voor nieuws, series en voetbal oogt het beeld natuurlijk. HDR10+ wordt ondersteund, al is het paneel niet fel genoeg om HDR echt te laten knallen. Tizen is snel en heeft alle apps, van NPO Start tot Ziggo GO. Gamers vinden een gamemodus met lage inputlag, maar geen 120 Hz. Voor een tweede tv of een rustige kijker is dit een degelijke keus.",
-      "ean": "8806099133863",
-      "bol_title": "Samsung UE55U7090H - 55 inch - 4K LED - 2026 + 3 jaar extra garantie - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/samsung-ue55u7090hu-55-inch-4k-led-2026-smart-tv/9300000332667098/",
-      "image": "https://media.s-bol.com/7PAEKoqW4Mjy/jYZwkkR/550x348.jpg",
+      "ideal": "Wie een QLED met Google TV van een bekend merk wil en niet op 120 Hz gamet.",
+      "text": "De TCL 55P79L is een QLED van 55 inch uit 2026 en kost rond de 449 euro. Quantum dots maken kleuren voller dan bij een gewone led-tv en de AiPQ-processor stelt helderheid, scherpte en beweging automatisch bij. Dolby Vision is aanwezig, zodat series op Netflix en Disney+ hun HDR-versie tonen. De verlichting zit direct achter het scherm, zonder dimzones. In een donkere kamer is zwart daardoor grijzer dan bij de Mini LED-modellen van CHiQ en Samsung hoger in deze lijst.\n\nDe reden om hem te kiezen is Google TV. Je krijgt de grootste appwinkel, Chromecast ingebouwd en je zoekt met je stem. Het paneel haalt maximaal 60 Hz. Via HDMI 2.1 is er wel VRR, genoeg voor wie af en toe op een console speelt. Tegenover de Hisense 55E7S op nummer 2 betaal je 50 euro meer voor een vergelijkbaar paneel. Dat is het alleen waard als je Google TV boven VIDAA verkiest. Het EU-label geeft klasse F. Kopers op bol geven hem gemiddeld 4,4 van de 5.",
+      "ean": "5901292531355",
+      "bol_title": "TCL 55P79L - 55 inch - 4K QLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-55p79l-55-inch-4k-qled-2026-smart-tv/9300000273452839/",
+      "image": "https://media.s-bol.com/gg9nk6G8jgWl/OyDl6QN/550x345.jpg",
       "ph": {
-        "2026-11-21": 399.0,
-        "2026-11-22": 399.0,
-        "2026-11-23": 399.0,
-        "2026-11-24": 399.0,
-        "2026-11-25": 399.0,
-        "2026-11-26": 399.0
+        "2026-11-26": 449.0
       },
-      "low_price": 399.0,
-      "ph_ean": "8806099133863",
-      "rating": 4.6,
+      "low_price": 449.0,
+      "ph_ean": "5901292531355",
+      "rating": 4.4,
       "synced": "2026-11-26"
     },
     {
@@ -507,7 +503,7 @@
     },
     {
       "q": "Wat is de goedkoopste goede 55 inch tv?",
-      "a": "De Hisense 55E7S kost 399 euro en heeft Dolby Vision, HDR10+ en Dolby Atmos. De Samsung UE55U7090H kost ook 399 euro en komt bij bol met drie jaar extra garantie, maar heeft geen quantum dots."
+      "a": "De Hisense 55E7S kost 399 euro en heeft Dolby Vision, HDR10+ en Dolby Atmos. Voor rond de 400 euro krijg je bij de CHiQ U55QST een QLED met Google TV, maar zonder Dolby Vision."
     },
     {
       "q": "Koop je voor 500 euro een 55 inch Mini LED?",
@@ -524,6 +520,14 @@
     {
       "q": "Moet ik wachten op Black Friday?",
       "a": "Rond Black Friday dalen de prijzen van tv's vaak. Wij tonen bij elke tv de actuele prijs bij bol. Zakt een tv uit deze lijst onder zijn normale prijs, dan is dat een goed moment om te kopen."
+    }
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-26",
+      "uit": "Samsung UE55U7090H",
+      "in": "TCL 55P79L",
+      "waarom": "niet meer leverbaar bij bol"
     }
   ]
 }
