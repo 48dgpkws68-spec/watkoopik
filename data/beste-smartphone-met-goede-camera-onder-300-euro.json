@@ -115,12 +115,13 @@
       "url": "https://www.bol.com/nl/nl/p/google-pixel-8a-8-128gb-zwart/9300000179545228/",
       "image": "https://media.s-bol.com/j9zpWrymnLGv/2ROxqpN/550x649.jpg",
       "ph": {
-        "2026-11-25": 239.9
+        "2026-11-25": 239.9,
+        "2026-11-26": 239.9
       },
       "low_price": 239.9,
       "ph_ean": "0840244707934",
       "rating": 4.2,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Honor",
@@ -154,12 +155,13 @@
       "url": "https://www.bol.com/nl/nl/p/honor-400-5g-8gb-256gb-zwart-dual-sim/9300000229858367/",
       "image": "https://media.s-bol.com/7GBxG77pxWvB/Y6k8O30/550x675.jpg",
       "ph": {
-        "2026-11-25": 281.7
+        "2026-11-25": 281.7,
+        "2026-11-26": 281.7
       },
       "low_price": 281.7,
       "ph_ean": "6936520867585",
       "rating": 4.7,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Nothing",
@@ -196,10 +198,11 @@
       "url": "https://www.bol.com/nl/nl/p/nothing-phone-lite-8gb-ram-256gb-wit-6-7-120hz-amoled-50mp-dual-camera-5000mah-5g/9300000259292942/",
       "image": "https://media.s-bol.com/BWKgMB66wp0k/jqZXL9v/550x672.jpg",
       "ph": {
-        "2026-11-25": 269.0
+        "2026-11-25": 269.0,
+        "2026-11-26": 269.0
       },
       "low_price": 269.0,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Xiaomi",
@@ -233,17 +236,18 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-redmi-note-14-pro-5g-8gb-256gb-midnight-zwart/9300000220007798/",
       "image": "https://media.s-bol.com/xJnWo6lkngVn/83LARJl/550x649.jpg",
       "ph": {
-        "2026-11-25": 233.0
+        "2026-11-25": 233.0,
+        "2026-11-26": 233.0
       },
       "low_price": 233.0,
       "ph_ean": "6941812737118",
       "rating": 3.9,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Motorola",
       "name": "edge 50 fusion 5G 8/256GB",
-      "price": 294.35,
+      "price": 294.66,
       "score": 8.7,
       "label": null,
       "ean": "0840493605777",
@@ -272,17 +276,20 @@
       "url": "https://www.bol.com/nl/nl/p/smartphone-motorola-edge-50-fusion-5g-xt2429-2-6-7-octa-core-8-gb-ram-256-gb-green/9300000240859063/",
       "image": "https://media.s-bol.com/oxKx8mgnX7nj/k2ORmAx/550x693.jpg",
       "ph": {
-        "2026-11-25": 294.35
+        "2026-11-25": 294.35,
+        "2026-11-26": 294.66
       },
       "low_price": 294.35,
       "ph_ean": "0840493605777",
       "rating": 4.6,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26",
+      "prev_price": 294.35,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Samsung",
       "name": "Galaxy A36 5G 128GB",
-      "price": 283.99,
+      "price": 279.99,
       "score": 8.6,
       "label": null,
       "ean": "8806095984438",
@@ -311,12 +318,15 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a36-17-cm-dual-sim-android-15-5g-usb-type-c-6-gb-128-gb-5000-mah-lavendel/9300000225539103/",
       "image": "https://media.s-bol.com/gO3yRl4kzQB9/4xnyKY2/550x708.jpg",
       "ph": {
-        "2026-11-25": 283.99
+        "2026-11-25": 283.99,
+        "2026-11-26": 279.99
       },
-      "low_price": 283.99,
+      "low_price": 279.99,
       "ph_ean": "8806095984438",
       "rating": 4.5,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26",
+      "prev_price": 283.99,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Motorola",
@@ -350,12 +360,13 @@
       "url": "https://www.bol.com/nl/nl/p/motorola-moto-g86-5g-8-256gb-pantone-spellbound/9300000232342833/",
       "image": "https://media.s-bol.com/x4x6580RRKLP/P1Y39v2/550x550.jpg",
       "ph": {
-        "2026-11-25": 291.58
+        "2026-11-25": 291.58,
+        "2026-11-26": 291.58
       },
       "low_price": 291.58,
       "ph_ean": "0840023294891",
       "rating": 4.5,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Samsung",
@@ -389,12 +400,13 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a26-5g-128gb-zwart/9300000225539109/",
       "image": "https://media.s-bol.com/JM5mMMW2VL02/w0zQ3E1/550x718.jpg",
       "ph": {
-        "2026-11-25": 259.0
+        "2026-11-25": 259.0,
+        "2026-11-26": 259.0
       },
       "low_price": 259.0,
       "ph_ean": "8806097072829",
       "rating": 4.5,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Honor",
@@ -429,12 +441,13 @@
       "url": "https://www.bol.com/nl/nl/p/honor-400-lite-256gb-zwart/9300000229605474/",
       "image": "https://media.s-bol.com/wJ5J5vxJNgw1/ywJ89EP/550x630.jpg",
       "ph": {
-        "2026-11-25": 239.9
+        "2026-11-25": 239.9,
+        "2026-11-26": 239.9
       },
       "low_price": 239.9,
       "ph_ean": "6936520865079",
       "rating": 3.5,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Honor",
@@ -469,11 +482,12 @@
       "url": "https://www.bol.com/nl/nl/p/6-7-2412-x-1080-mediatek-dimensity-6080-8-256gb-5g-108-5-2mp-50mp-wi-fi-bluetooth-5-1-4500-mah-magicos-8-0/9300000187954446/",
       "image": "https://media.s-bol.com/ZE9pK6xLOrpg/68KXyyn/297x840.jpg",
       "ph": {
-        "2026-11-25": 189.0
+        "2026-11-25": 189.0,
+        "2026-11-26": 189.0
       },
       "low_price": 189.0,
       "ph_ean": "6936520841141",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     }
   ],
   "wissels": [

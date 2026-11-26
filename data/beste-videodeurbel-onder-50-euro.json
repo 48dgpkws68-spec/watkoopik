@@ -35,7 +35,7 @@
       "price": 38.9,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "2K-deurbel op accu met microSD-opslag voor nog geen 40 euro.",
       "specs": {
         "Resolutie": "2K (2304 x 1296)",
@@ -57,7 +57,7 @@
       "ideal": "Wie met een klein budget een betrouwbare merkdeurbel zonder maandkosten wil.",
       "text": "De Tapo D205 is de goedkoopste deurbel van een groot merk in deze lijst en toch zit er weinig op af te dingen. De camera filmt in 2K (2304 x 1296 pixels) met een kijkhoek van 160 graden diagonaal, zodat je bezoekers en pakketjes op de stoep goed in beeld hebt. 's Nachts schakelt hij over op infrarood. Persoonsdetectie en instelbare activiteitszones beperken het aantal meldingen tot wat er echt toe doet.\n\nTP-Link zegt duidelijk dat live beeld, persoonsdetectie en lokale opslag zonder abonnement werken. Je plaatst een microSD-kaart tot 512 GB en Tapo Care in de cloud is optioneel. De accu van 5.200 mAh gaat onder gunstige omstandigheden tot 180 dagen mee en laadt op via USB-C. Monteren doe je met schroeven of 3M-tape en een wig zit erbij. Een gong ontbreekt: zonder extra hub of bel hoor je het aanbellen alleen via je telefoon. Voor 38,90 euro is dit de slimste koop als je budget krap is. De bol-score is 4,2 van 5.",
       "ean": "1210002607810",
-      "rating": 4.2,
+      "rating": 4.1,
       "bol_title": "Tapo D205 Videodeurbel - Zonder abonnement - Draadloos op batterij - 2K - AI Detectie - IP54",
       "url": "https://www.bol.com/nl/nl/p/tapo-d205-draadloze-video-deurbel-op-batterij-2k-video-zonder-abonnement-ai-detectie-ip54-slimme-deurbel/9300000237818582/",
       "image": "https://media.s-bol.com/mxq6M48DZVNA/g566Qqr/301x840.jpg",
@@ -65,11 +65,12 @@
         "2026-11-22": 38.9,
         "2026-11-23": 38.9,
         "2026-11-24": 38.9,
-        "2026-11-25": 38.9
+        "2026-11-25": 38.9,
+        "2026-11-26": 38.9
       },
       "low_price": 38.9,
       "ph_ean": "1210002607810",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "EZVIZ",
@@ -106,11 +107,12 @@
         "2026-11-22": 49.99,
         "2026-11-23": 49.99,
         "2026-11-24": 49.99,
-        "2026-11-25": 49.99
+        "2026-11-25": 49.99,
+        "2026-11-26": 49.99
       },
       "low_price": 49.99,
       "ph_ean": "6941545607450",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Trust",
@@ -148,11 +150,12 @@
         "2026-11-22": 45.0,
         "2026-11-23": 45.0,
         "2026-11-24": 45.0,
-        "2026-11-25": 45.0
+        "2026-11-25": 45.0,
+        "2026-11-26": 45.0
       },
       "low_price": 45.0,
       "ph_ean": "8713439713879",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Ring",
@@ -189,11 +192,12 @@
         "2026-11-22": 49.99,
         "2026-11-23": 49.99,
         "2026-11-24": 49.99,
-        "2026-11-25": 49.99
+        "2026-11-25": 49.99,
+        "2026-11-26": 49.99
       },
       "low_price": 49.99,
       "ph_ean": "0840414681798",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "EZVIZ",
@@ -231,11 +235,12 @@
         "2026-11-22": 39.99,
         "2026-11-23": 39.99,
         "2026-11-24": 39.99,
-        "2026-11-25": 39.99
+        "2026-11-25": 39.99,
+        "2026-11-26": 39.99
       },
       "low_price": 39.99,
       "ph_ean": "6941545603131",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "EZVIZ",
@@ -271,11 +276,12 @@
         "2026-11-22": 49.99,
         "2026-11-23": 49.99,
         "2026-11-24": 49.99,
-        "2026-11-25": 49.99
+        "2026-11-25": 49.99,
+        "2026-11-26": 49.99
       },
       "low_price": 49.99,
       "ph_ean": "6941545607498",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Calex",
@@ -312,11 +318,12 @@
         "2026-11-22": 49.99,
         "2026-11-23": 49.99,
         "2026-11-24": 49.99,
-        "2026-11-25": 49.99
+        "2026-11-25": 49.99,
+        "2026-11-26": 49.99
       },
       "low_price": 49.99,
       "ph_ean": "8712879164890",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Nedis",
@@ -353,11 +360,12 @@
         "2026-11-22": 44.99,
         "2026-11-23": 44.99,
         "2026-11-24": 44.99,
-        "2026-11-25": 44.99
+        "2026-11-25": 44.99,
+        "2026-11-26": 44.99
       },
       "low_price": 44.99,
       "ph_ean": "5412810470006",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Steen",
@@ -394,11 +402,12 @@
         "2026-11-22": 25.0,
         "2026-11-23": 25.0,
         "2026-11-24": 25.0,
-        "2026-11-25": 23.75
+        "2026-11-25": 23.75,
+        "2026-11-26": 23.75
       },
       "low_price": 23.75,
       "ph_ean": "6152737318348",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 25.0,
       "prev_date": "2026-11-24"
     },
@@ -437,11 +446,12 @@
         "2026-11-22": 29.95,
         "2026-11-23": 29.95,
         "2026-11-24": 29.95,
-        "2026-11-25": 29.95
+        "2026-11-25": 29.95,
+        "2026-11-26": 29.95
       },
       "low_price": 29.95,
       "ph_ean": "8720812876403",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     }
   ],
   "guide": [

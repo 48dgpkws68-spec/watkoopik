@@ -22,7 +22,7 @@
     {
       "brand": "Samsung",
       "name": "Bespoke AI Jet Lite Pet VS80F28ELP",
-      "price": 407.11,
+      "price": 399.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 5,0 van 5",
@@ -54,14 +54,15 @@
       "ph": {
         "2026-11-23": 399.0,
         "2026-11-24": 399.0,
-        "2026-11-25": 407.11
+        "2026-11-25": 407.11,
+        "2026-11-26": 399.0
       },
       "low_price": 399.0,
       "ph_ean": "8806097264927",
       "rating": 5.0,
-      "synced": "2026-11-25",
-      "prev_price": 399.0,
-      "prev_date": "2026-11-24"
+      "synced": "2026-11-26",
+      "prev_price": 407.11,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Dyson",
@@ -94,7 +95,7 @@
       "bol_title": "Dyson V15 Detect Absolute - Steelstofzuiger - 230 Air Watt - Geavanceerde detectie - Nikkel/geel",
       "url": "https://www.bol.com/nl/nl/p/dyson-v15-detect-abosulte-bezemstofzuiger-zilver-one-size-eu-plug/9300000159972960/",
       "image": "https://media.s-bol.com/J36v9VGroW9D/BNl43qQ/527x840.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-13": 799.0,
         "2026-10-14": 799.0,
@@ -137,7 +138,8 @@
         "2026-11-22": 499.0,
         "2026-11-23": 499.0,
         "2026-11-24": 499.0,
-        "2026-11-25": 499.0
+        "2026-11-25": 499.0,
+        "2026-11-26": 499.0
       },
       "low_price": 499.0,
       "prev_price": 799.0,
@@ -176,7 +178,7 @@
       "bol_title": "Samsung Jet 75E Pet - Steelstofzuiger - VS20B75AGR5/WA - Zilver - Turbo Action Brush - Pet Tool",
       "url": "https://www.bol.com/nl/nl/p/samsung-jet-75e-pet-steelstofzuiger-vs20b75agr5-wa/9300000157551017/",
       "image": "https://media.s-bol.com/qrzQYzy1nzoy/zrpYB8/250x200.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-17": 249.0,
         "2026-10-18": 249.0,
@@ -215,7 +217,8 @@
         "2026-11-22": 244.99,
         "2026-11-23": 244.99,
         "2026-11-24": 244.99,
-        "2026-11-25": 249.0
+        "2026-11-25": 249.0,
+        "2026-11-26": 249.0
       },
       "low_price": 244.99,
       "prev_price": 244.99,
@@ -286,10 +289,11 @@
         "2026-11-22": 389.0,
         "2026-11-23": 389.0,
         "2026-11-24": 389.0,
-        "2026-11-25": 345.0
+        "2026-11-25": 345.0,
+        "2026-11-26": 345.0
       },
       "low_price": 345.0,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 389.0,
       "prev_date": "2026-11-24",
       "ph_ean": "4002516794509",
@@ -326,7 +330,7 @@
       "bol_title": "AEG AP91AB21DG Animal 9000 - Steelstofzuiger draadloos met 4 opzetstukken - Voor huisdieren - Lange accuduur tot 90 min - 360° LED-verlichting - Krachtig - Sterke zuigkracht - Vacuum cleaner - Dierenhaar - Draadloos zonder zak - Zonder zak op accu",
       "url": "https://www.bol.com/nl/nl/p/aeg-ap91ab21dg-animal-9000-draadloze-steelstofzuiger-90-min/9300000251721990/",
       "image": "https://media.s-bol.com/KpRwyJjR9qpn/nZEJlkY/550x617.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-17": 429.0,
         "2026-10-18": 429.0,
@@ -365,7 +369,8 @@
         "2026-11-22": 379.0,
         "2026-11-23": 379.0,
         "2026-11-24": 379.0,
-        "2026-11-25": 379.0
+        "2026-11-25": 379.0,
+        "2026-11-26": 379.0
       },
       "low_price": 374.49,
       "prev_price": 377.1,
@@ -425,10 +430,11 @@
         "2026-11-22": 339.0,
         "2026-11-23": 339.0,
         "2026-11-24": 339.0,
-        "2026-11-25": 339.0
+        "2026-11-25": 339.0,
+        "2026-11-26": 339.0
       },
       "low_price": 339.0,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph_ean": "4242005606917",
       "rating": 4.3
     },
@@ -463,7 +469,7 @@
       "bol_title": "Bosch BCS711PET - Steelstofzuiger - Rood",
       "url": "https://www.bol.com/nl/nl/p/bosch-steelstofzuiger-bcs711pet/9300000099535742/",
       "image": "https://media.s-bol.com/gMJ36MGZ3QZ3/57L6Kov/550x734.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-15": 319.99,
         "2026-10-16": 319.99,
@@ -504,7 +510,8 @@
         "2026-11-22": 275.0,
         "2026-11-23": 298.0,
         "2026-11-24": 298.0,
-        "2026-11-25": 298.0
+        "2026-11-25": 298.0,
+        "2026-11-26": 298.0
       },
       "low_price": 275.0,
       "prev_price": 275.0,
@@ -515,7 +522,7 @@
     {
       "brand": "Miele",
       "name": "Boost CX1 Cat & Dog PowerLine",
-      "price": 379.0,
+      "price": 369.0,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -572,13 +579,14 @@
         "2026-11-22": 379.0,
         "2026-11-23": 379.0,
         "2026-11-24": 379.0,
-        "2026-11-25": 379.0
+        "2026-11-25": 379.0,
+        "2026-11-26": 369.0
       },
-      "low_price": 379.0,
-      "synced": "2026-11-25",
+      "low_price": 369.0,
+      "synced": "2026-11-26",
       "ph_ean": "4002516384748",
-      "prev_price": 389.0,
-      "prev_date": "2026-11-19",
+      "prev_price": 379.0,
+      "prev_date": "2026-11-25",
       "rating": 5.0
     },
     {
@@ -612,7 +620,7 @@
       "bol_title": "AEG AB61A4DB Animal 6000 - Stofzuiger met zak - Parketborstel - Dierenhaar - Turboborstel - Hepa filtratie - Vacuum cleaner - Alle vloertypen - 650 watt - Lang snoer 12m bereik - Blauw - Compact design - 3 extra accessoires",
       "url": "https://www.bol.com/nl/nl/p/aeg-ab61a4db-animal-6000-stofzuiger-met-zak-stofzuigers-parketborstel-dierenhaar-hepa-13/9300000122258972/",
       "image": "https://media.s-bol.com/gXO9vJywO8Wl/G8EwG7/550x465.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-17": 154.99,
         "2026-10-18": 154.99,
@@ -651,7 +659,8 @@
         "2026-11-22": 146.0,
         "2026-11-23": 146.0,
         "2026-11-24": 146.0,
-        "2026-11-25": 146.0
+        "2026-11-25": 146.0,
+        "2026-11-26": 146.0
       },
       "low_price": 145.0,
       "prev_price": 145.0,
@@ -690,7 +699,7 @@
       "bol_title": "BISSELL Pet Hair Eraser Draadloze Kruimeldief - 15 Minuten Gebruikstijd - Verwijderd Huisdierharen 4200 r.p.m. - Kruimelzuiger Snoerloos - 0.6L Capaciteit - Oplaadbare Handstofzuiger 16 aW - Lichtgewicht - Incl. 2 Opzetstukken - 2278N",
       "url": "https://www.bol.com/nl/nl/p/bissell-pet-hair-eraser-2278n-kruimelzuiger-snoerloos-gemotoriseerde-borstelrol/9300000043996273/",
       "image": "https://media.s-bol.com/7zBmnqZrZoEA/q1Kmg7/550x526.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-17": 92.1,
         "2026-10-18": 92.1,
@@ -729,7 +738,8 @@
         "2026-11-22": 79.99,
         "2026-11-23": 79.99,
         "2026-11-24": 79.99,
-        "2026-11-25": 79.99
+        "2026-11-25": 79.99,
+        "2026-11-26": 79.99
       },
       "low_price": 79.99,
       "prev_price": 82.0,

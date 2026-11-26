@@ -82,10 +82,11 @@
         "2026-11-22": 45.75,
         "2026-11-23": 45.75,
         "2026-11-24": 45.75,
-        "2026-11-25": 45.75
+        "2026-11-25": 45.75,
+        "2026-11-26": 45.75
       },
       "low_price": 45.75,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,7 van 5",
       "ph_ean": "1200130034282",
       "rating": 4.7
@@ -93,7 +94,7 @@
     {
       "brand": "Philips",
       "name": "OneBlade 360 Face QP2724/23",
-      "price": 33.91,
+      "price": 33.78,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "oneliner": "Trimmen, scheren en contouren met één apparaat.",
@@ -141,19 +142,20 @@
         "2026-11-22": 31.99,
         "2026-11-23": 33.99,
         "2026-11-24": 33.97,
-        "2026-11-25": 33.91
+        "2026-11-25": 33.91,
+        "2026-11-26": 33.78
       },
       "low_price": 30.99,
-      "synced": "2026-11-25",
-      "prev_price": 33.97,
-      "prev_date": "2026-11-24",
+      "synced": "2026-11-26",
+      "prev_price": 33.91,
+      "prev_date": "2026-11-25",
       "ph_ean": "8720689029094",
       "rating": 4.6
     },
     {
       "brand": "Philips",
       "name": "Shaver 1000 Series S1141/00 scheerapparaat",
-      "price": 38.99,
+      "price": 48.9,
       "score": 8.6,
       "label": null,
       "oneliner": "Waterdicht scheerapparaat voor nat en droog scheren.",
@@ -182,11 +184,14 @@
       "url": "https://www.bol.com/nl/nl/p/philips-shaver-1000-series-elektrisch-apparaat-voor-droog-scheren/9300000153775246/",
       "image": "https://media.s-bol.com/8QQ3gg3nOLnW/gpER7Gr/550x761.jpg",
       "ph": {
-        "2026-11-25": 38.99
+        "2026-11-25": 38.99,
+        "2026-11-26": 48.9
       },
       "low_price": 38.99,
       "ph_ean": "8720689018814",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26",
+      "prev_price": 38.99,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Anker",
@@ -249,10 +254,11 @@
         "2026-11-22": 27.29,
         "2026-11-23": 27.29,
         "2026-11-24": 26.99,
-        "2026-11-25": 26.99
+        "2026-11-25": 26.99,
+        "2026-11-26": 26.99
       },
       "low_price": 26.99,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,6 van 5",
       "prev_price": 27.29,
       "prev_date": "2026-11-23",
@@ -320,10 +326,11 @@
         "2026-11-22": 41.99,
         "2026-11-23": 41.99,
         "2026-11-24": 41.99,
-        "2026-11-25": 43.66
+        "2026-11-25": 43.66,
+        "2026-11-26": 43.66
       },
       "low_price": 39.99,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,8 van 5",
       "prev_price": 41.99,
       "prev_date": "2026-11-24",
@@ -333,7 +340,7 @@
     {
       "brand": "Victorinox",
       "name": "Huntsman zakmes 15 functies",
-      "price": 36.08,
+      "price": 34.28,
       "score": 8.8,
       "label": null,
       "oneliner": "Klassiek Zwitsers zakmes met schaar en zaag.",
@@ -388,12 +395,15 @@
         "2026-11-22": 36.08,
         "2026-11-23": 36.08,
         "2026-11-24": 36.08,
-        "2026-11-25": 36.08
+        "2026-11-25": 36.08,
+        "2026-11-26": 34.28
       },
-      "low_price": 36.08,
-      "synced": "2026-11-25",
+      "low_price": 34.28,
+      "synced": "2026-11-26",
       "ph_ean": "7611160100283",
-      "rating": 4.6
+      "rating": 4.6,
+      "prev_price": 36.08,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Bialetti",
@@ -456,10 +466,11 @@
         "2026-11-22": 30.95,
         "2026-11-23": 30.95,
         "2026-11-24": 29.49,
-        "2026-11-25": 30.95
+        "2026-11-25": 30.95,
+        "2026-11-26": 30.95
       },
       "low_price": 27.99,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,6 van 5",
       "prev_price": 29.49,
       "prev_date": "2026-11-24",
@@ -469,7 +480,7 @@
     {
       "brand": "Apple",
       "name": "AirTag 2e generatie",
-      "price": 29.99,
+      "price": 28.79,
       "score": 8.3,
       "label": null,
       "oneliner": "Vind je sleutels of tas terug via je iPhone.",
@@ -527,15 +538,16 @@
         "2026-11-22": 30.99,
         "2026-11-23": 30.99,
         "2026-11-24": 30.99,
-        "2026-11-25": 29.99
+        "2026-11-25": 29.99,
+        "2026-11-26": 28.79
       },
-      "low_price": 29.99,
-      "synced": "2026-11-25",
+      "low_price": 28.79,
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,6 van 5",
       "ph_ean": "0195950667363",
       "rating": 4.6,
-      "prev_price": 30.99,
-      "prev_date": "2026-11-24"
+      "prev_price": 29.99,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "JBL",
@@ -598,10 +610,11 @@
         "2026-11-22": 48.99,
         "2026-11-23": 48.99,
         "2026-11-24": 48.99,
-        "2026-11-25": 48.99
+        "2026-11-25": 48.99,
+        "2026-11-26": 48.99
       },
       "low_price": 47.95,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,5 van 5",
       "prev_price": 48.29,
       "prev_date": "2026-11-11",
@@ -669,10 +682,11 @@
         "2026-11-22": 24.49,
         "2026-11-23": 24.49,
         "2026-11-24": 24.49,
-        "2026-11-25": 24.49
+        "2026-11-25": 24.49,
+        "2026-11-26": 24.49
       },
       "low_price": 22.99,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,3 van 5",
       "prev_price": 22.99,
       "prev_date": "2026-11-13",

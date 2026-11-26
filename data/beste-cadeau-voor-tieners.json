@@ -58,11 +58,12 @@
         "2026-11-22": 86.0,
         "2026-11-23": 86.0,
         "2026-11-24": 84.0,
-        "2026-11-25": 84.0
+        "2026-11-25": 84.0,
+        "2026-11-26": 84.0
       },
       "low_price": 84.0,
       "ph_ean": "4547410564884",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 86.0,
       "prev_date": "2026-11-23"
     },
@@ -122,10 +123,11 @@
         "2026-11-22": 106.0,
         "2026-11-23": 106.0,
         "2026-11-24": 106.0,
-        "2026-11-25": 106.0
+        "2026-11-25": 106.0,
+        "2026-11-26": 106.0
       },
       "low_price": 106.0,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 119.0,
       "prev_date": "2026-11-01",
       "ph_ean": "1200130019272",
@@ -187,10 +189,11 @@
         "2026-11-22": 25.49,
         "2026-11-23": 25.49,
         "2026-11-24": 25.49,
-        "2026-11-25": 25.49
+        "2026-11-25": 25.49,
+        "2026-11-26": 25.49
       },
       "low_price": 21.0,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 21.0,
       "prev_date": "2026-11-11",
       "ph_ean": "6974316992950",
@@ -202,7 +205,7 @@
       "price": 49.0,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Betaalbare draadloze oordopjes met adaptieve noise cancelling en lange accuduur.",
       "specs": {
         "Soort": "Oordopjes",
@@ -223,17 +226,18 @@
       "ideal": "Tieners die in de bus, trein of studiezaal hun eigen muziek willen horen.",
       "text": "De JBL Tune 255NC zijn draadloze oordopjes voor ongeveer 50 euro, precies het bedrag dat veel ouders en opa's aan een cadeau willen besteden. Ze hebben adaptieve noise cancelling: de oordopjes passen de demping aan op het geluid om je heen, zodat het geraas van een bus, trein of drukke kantine flink afneemt. Wil je juist je omgeving horen, dan schakel je over naar een stand die geluid van buiten doorlaat.\n\nDe accuduur is ruim. JBL belooft tot 48 uur muziek als je de oplaadcase meetelt, dus een week school zonder laden is goed te doen. Via de JBL Headphones-app pas je de klank en de bediening aan. Op bol scoren ze gemiddeld een 4,3 van 5. Wie de sterkste noise cancelling zoekt, moet een stuk meer uitgeven. Ook missen ze de open oordopjes die sommige andere JBL-modellen hebben. Als eerste echte noise cancelling-oordopjes voor een tiener zijn ze een veilige keuze.",
       "ean": "1200130028243",
-      "rating": 4.3,
+      "rating": 4.4,
       "bol_title": "JBL Tune 255NC – Draadloze Noise Cancelling Oordopjes – Bluetooth – 48 uur batterij – Adaptive ANC – Zwart",
       "url": "https://www.bol.com/nl/nl/p/jbl-tune-255nc-true-wireless-noise-cancelling-earbuds-black/9300000232598819/",
       "image": "https://media.s-bol.com/q3oqyEOKrB4y/Z4PBLLg/550x470.jpg",
       "ph": {
         "2026-11-24": 49.0,
-        "2026-11-25": 49.0
+        "2026-11-25": 49.0,
+        "2026-11-26": 49.0
       },
       "low_price": 49.0,
       "ph_ean": "1200130028243",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Nintendo",
@@ -291,10 +295,11 @@
         "2026-11-22": 46.99,
         "2026-11-23": 46.99,
         "2026-11-24": 46.99,
-        "2026-11-25": 46.99
+        "2026-11-25": 46.99,
+        "2026-11-26": 46.99
       },
       "low_price": 46.99,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 49.99,
       "prev_date": "2026-11-11",
       "ph_ean": "0045496420314",
@@ -303,7 +308,7 @@
     {
       "brand": "Fujifilm",
       "name": "Instax mini Link 3 fotoprinter",
-      "price": 99.99,
+      "price": 99.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -356,19 +361,20 @@
         "2026-11-22": 99.99,
         "2026-11-23": 99.99,
         "2026-11-24": 99.99,
-        "2026-11-25": 99.99
+        "2026-11-25": 99.99,
+        "2026-11-26": 99.0
       },
-      "low_price": 99.99,
-      "synced": "2026-11-25",
-      "prev_price": 108.0,
-      "prev_date": "2026-11-12",
+      "low_price": 99.0,
+      "synced": "2026-11-26",
+      "prev_price": 99.99,
+      "prev_date": "2026-11-25",
       "ph_ean": "4547410536362",
       "rating": 4.8
     },
     {
       "brand": "Huawei",
       "name": "Band 10",
-      "price": 46.06,
+      "price": 46.83,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -399,10 +405,13 @@
       "image": "https://media.s-bol.com/3g8M2QPKZWxR/QWrm9wG/333x840.jpg",
       "ph": {
         "2026-11-24": 46.06,
-        "2026-11-25": 46.06
+        "2026-11-25": 46.06,
+        "2026-11-26": 46.83
       },
       "low_price": 46.06,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26",
+      "prev_price": 46.06,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Kobo",
@@ -460,10 +469,11 @@
         "2026-11-22": 169.0,
         "2026-11-23": 169.0,
         "2026-11-24": 169.0,
-        "2026-11-25": 169.0
+        "2026-11-25": 169.0,
+        "2026-11-26": 169.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph_ean": "0681495009558",
       "rating": 4.4
     },
@@ -523,10 +533,11 @@
         "2026-11-22": 39.9,
         "2026-11-23": 39.9,
         "2026-11-24": 39.9,
-        "2026-11-25": 39.9
+        "2026-11-25": 39.9,
+        "2026-11-26": 39.9
       },
       "low_price": 39.9,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 47.99,
       "prev_date": "2026-11-05",
       "ph_ean": "3030050185782",
@@ -535,7 +546,7 @@
     {
       "brand": "Razer",
       "name": "BlackShark V2 X gaming headset",
-      "price": 49.0,
+      "price": 47.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,1 van 5",
@@ -588,12 +599,13 @@
         "2026-11-22": 47.99,
         "2026-11-23": 47.99,
         "2026-11-24": 47.99,
-        "2026-11-25": 49.0
+        "2026-11-25": 49.0,
+        "2026-11-26": 47.99
       },
       "low_price": 46.99,
-      "synced": "2026-11-25",
-      "prev_price": 47.99,
-      "prev_date": "2026-11-24",
+      "synced": "2026-11-26",
+      "prev_price": 49.0,
+      "prev_date": "2026-11-25",
       "ph_ean": "8887910060650",
       "rating": 4.1
     }

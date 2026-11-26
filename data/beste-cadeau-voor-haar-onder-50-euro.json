@@ -24,7 +24,7 @@
     {
       "brand": "Rituals",
       "name": "The Ritual of Ayurveda giftset",
-      "price": 42.99,
+      "price": 41.08,
       "score": 9.1,
       "label": "Beste keuze",
       "oneliner": "Verzorgingsset met douche-olie, crème en geurstokjes.",
@@ -82,20 +82,21 @@
         "2026-11-22": 42.53,
         "2026-11-23": 41.08,
         "2026-11-24": 41.08,
-        "2026-11-25": 42.99
+        "2026-11-25": 42.99,
+        "2026-11-26": 41.08
       },
       "low_price": 34.1,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 5,0 van 5",
-      "prev_price": 41.08,
-      "prev_date": "2026-11-24",
+      "prev_price": 42.99,
+      "prev_date": "2026-11-25",
       "ph_ean": "8719134201727",
       "rating": 5.0
     },
     {
       "brand": "LEGO",
       "name": "Botanicals Roze boeket 10342",
-      "price": 39.99,
+      "price": 35.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "oneliner": "Bloemenboeket van LEGO dat nooit verwelkt.",
@@ -153,13 +154,14 @@
         "2026-11-22": 39.99,
         "2026-11-23": 39.99,
         "2026-11-24": 39.99,
-        "2026-11-25": 39.99
+        "2026-11-25": 39.99,
+        "2026-11-26": 35.99
       },
-      "low_price": 39.99,
-      "synced": "2026-11-25",
+      "low_price": 35.99,
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,9 van 5",
-      "prev_price": 43.59,
-      "prev_date": "2026-11-20",
+      "prev_price": 39.99,
+      "prev_date": "2026-11-25",
       "ph_ean": "5702017812540",
       "rating": 4.9
     },
@@ -224,10 +226,11 @@
         "2026-11-22": 33.99,
         "2026-11-23": 33.99,
         "2026-11-24": 33.99,
-        "2026-11-25": 33.99
+        "2026-11-25": 33.99,
+        "2026-11-26": 33.99
       },
       "low_price": 33.99,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,4 van 5",
       "prev_price": 34.99,
       "prev_date": "2026-11-05",
@@ -295,10 +298,11 @@
         "2026-11-22": 32.99,
         "2026-11-23": 32.99,
         "2026-11-24": 32.99,
-        "2026-11-25": 32.99
+        "2026-11-25": 32.99,
+        "2026-11-26": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,5 van 5",
       "ph_ean": "4008496759323",
       "rating": 4.5
@@ -364,10 +368,11 @@
         "2026-11-22": 37.0,
         "2026-11-23": 37.0,
         "2026-11-24": 37.0,
-        "2026-11-25": 37.0
+        "2026-11-25": 37.0,
+        "2026-11-26": 37.0
       },
       "low_price": 34.99,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,4 van 5",
       "prev_price": 39.99,
       "prev_date": "2026-11-18",
@@ -377,7 +382,7 @@
     {
       "brand": "Yankee Candle",
       "name": "Autumn Daydream Large Jar",
-      "price": 32.28,
+      "price": 32.22,
       "score": 8.4,
       "label": null,
       "oneliner": "Grote geurkaars met tot 90 branduren.",
@@ -435,13 +440,14 @@
         "2026-11-22": 32.28,
         "2026-11-23": 32.22,
         "2026-11-24": 32.28,
-        "2026-11-25": 32.28
+        "2026-11-25": 32.28,
+        "2026-11-26": 32.22
       },
       "low_price": 31.41,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 5,0 van 5",
-      "prev_price": 32.22,
-      "prev_date": "2026-11-23",
+      "prev_price": 32.28,
+      "prev_date": "2026-11-25",
       "ph_ean": "5038581154046",
       "rating": 5.0
     },
@@ -506,10 +512,11 @@
         "2026-11-22": 16.5,
         "2026-11-23": 16.5,
         "2026-11-24": 16.5,
-        "2026-11-25": 16.5
+        "2026-11-25": 16.5,
+        "2026-11-26": 16.5
       },
       "low_price": 15.89,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "reviews": "bol-score 4,6 van 5",
       "prev_price": 17.49,
       "prev_date": "2026-11-14",
@@ -559,10 +566,11 @@
         "2026-11-22": 41.43,
         "2026-11-23": 41.43,
         "2026-11-24": 41.43,
-        "2026-11-25": 41.43
+        "2026-11-25": 41.43,
+        "2026-11-26": 41.43
       },
       "low_price": 41.43,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph_ean": "1210001965416"
     },
     {
@@ -590,7 +598,7 @@
       "ideal": "Wie minder vaak wil scheren en een betaalbare epilator zoekt om mee te beginnen.",
       "text": "De Braun Silk·épil 3 is al jaren een van de populairste instapepilators en de 3-277 is een complete set. Een epilator trekt haren met de wortel uit, waardoor de huid weken glad blijft in plaats van een paar dagen bij scheren. Dat doet hij met een systeem van 20 pincetten. In de doos zit naast de epilator ook een scheerkop en een trimmerkop, handig voor gevoelige zones waar je liever niet epileert.\n\nMassagerollers stimuleren de huid, wat het epileren volgens Braun minder pijnlijk maakt. Het Smartlight laat fijne haartjes beter zien. Omdat hij op snoer werkt, gaat hij nooit halverwege leeg, maar onder de douche gebruiken kan niet. Kopers op bol geven gemiddeld 4,2 sterren. Epileren voelt de eerste keren gevoelig, dat hoort bij deze manier van ontharen. Wie al ervaring heeft met epileren en een draadloos model wil, kijkt beter naar een duurdere Silk·épil 5 of 9. Als eerste kennismaking is dit een nette cadeauset die ruim onder de 50 euro blijft.",
       "ean": "4210201423508",
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "bol_title": "Braun Epilator Silk·épil 3 277 - Wit/Rose - Smartlight",
       "url": "https://www.bol.com/nl/nl/p/braun-silk-epil-3-277-epilator-voor-langdurige-ontharing-20-pincettensysteem-smartlight-technologie-massagerollers-en-scheerapparaat-en-trimmer-inbegrepen/9300000124325814/",
       "image": "https://media.s-bol.com/RKYED6RY2l9V/4kBNl2/550x548.jpg",
@@ -608,14 +616,15 @@
         "2026-11-22": 34.95,
         "2026-11-23": 34.95,
         "2026-11-24": 34.95,
-        "2026-11-25": 34.95
+        "2026-11-25": 34.95,
+        "2026-11-26": 34.95
       },
       "low_price": 34.29,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph_ean": "4210201423508",
       "prev_price": 34.29,
       "prev_date": "2026-11-11",
-      "rating": 4.2
+      "rating": 4.3
     },
     {
       "brand": "Philips",
@@ -662,10 +671,11 @@
         "2026-11-22": 29.78,
         "2026-11-23": 29.78,
         "2026-11-24": 29.04,
-        "2026-11-25": 29.04
+        "2026-11-25": 29.04,
+        "2026-11-26": 29.04
       },
       "low_price": 29.04,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph_ean": "8720689037846",
       "prev_price": 29.78,
       "prev_date": "2026-11-23",

@@ -58,11 +58,12 @@
       "image": "https://media.s-bol.com/xm27xLBoALwr/vWZ5ng/479x840.jpg",
       "ph": {
         "2026-11-24": 149.0,
-        "2026-11-25": 149.0
+        "2026-11-25": 149.0,
+        "2026-11-26": 149.0
       },
       "low_price": 149.0,
       "ph_ean": "8713439249088",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Arozzi",
@@ -97,11 +98,12 @@
       "image": "https://media.s-bol.com/npPgp7p2ryql/AP2lk5B/473x840.jpg",
       "ph": {
         "2026-11-24": 179.0,
-        "2026-11-25": 179.0
+        "2026-11-25": 179.0,
+        "2026-11-26": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "0850054766311",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Trust",
@@ -137,16 +139,17 @@
       "image": "https://media.s-bol.com/yNM72oLrQ83V/KOz3l4n/531x840.jpg",
       "ph": {
         "2026-11-24": 169.0,
-        "2026-11-25": 169.0
+        "2026-11-25": 169.0,
+        "2026-11-26": 169.0
       },
       "low_price": 169.0,
       "ph_ean": "8713439254396",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Corsair",
       "name": "TC100 Relaxed Fabric",
-      "price": 179.0,
+      "price": 170.0,
       "score": 8.7,
       "label": "Beste premium",
       "reviews": "bol-score 3,8 van 5",
@@ -177,11 +180,14 @@
       "image": "https://media.s-bol.com/J3qD50A34v62/lRQmy5r/550x571.jpg",
       "ph": {
         "2026-11-24": 179.0,
-        "2026-11-25": 179.0
+        "2026-11-25": 179.0,
+        "2026-11-26": 170.0
       },
-      "low_price": 179.0,
+      "low_price": 170.0,
       "ph_ean": "0840006694939",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26",
+      "prev_price": 179.0,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Huzaro",
@@ -216,16 +222,17 @@
       "image": "https://media.s-bol.com/NvnQYlGZ3KKD/8qjqO55/550x585.jpg",
       "ph": {
         "2026-11-24": 134.57,
-        "2026-11-25": 134.57
+        "2026-11-25": 134.57,
+        "2026-11-26": 134.57
       },
       "low_price": 134.57,
       "ph_ean": "5900415031314",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Genesis",
       "name": "Nitro 660",
-      "price": 178.43,
+      "price": 177.73,
       "score": 8.5,
       "label": null,
       "reviews": "",
@@ -255,18 +262,19 @@
       "image": "https://media.s-bol.com/Jp80OB547z2y/xG9j8OJ/476x840.jpg",
       "ph": {
         "2026-11-24": 178.73,
-        "2026-11-25": 178.43
+        "2026-11-25": 178.43,
+        "2026-11-26": 177.73
       },
-      "low_price": 178.43,
+      "low_price": 177.73,
       "ph_ean": "5901969445596",
-      "synced": "2026-11-25",
-      "prev_price": 178.73,
-      "prev_date": "2026-11-24"
+      "synced": "2026-11-26",
+      "prev_price": 178.43,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Trust",
       "name": "GXT 708 Resto",
-      "price": 147.88,
+      "price": 147.89,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -297,11 +305,12 @@
       "image": "https://media.s-bol.com/qLlkW9vKW1vy/jYvRLj5/496x840.jpg",
       "ph": {
         "2026-11-24": 147.88,
-        "2026-11-25": 147.88
+        "2026-11-25": 147.88,
+        "2026-11-26": 147.89
       },
       "low_price": 147.88,
       "ph_ean": "8713439244366",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "GTPLAYER",
@@ -337,11 +346,12 @@
       "image": "https://media.s-bol.com/N3q8w3Vr6ZXz/WPX85n4/550x546.jpg",
       "ph": {
         "2026-11-24": 106.99,
-        "2026-11-25": 106.99
+        "2026-11-25": 106.99,
+        "2026-11-26": 106.99
       },
       "low_price": 106.99,
       "ph_ean": "4255764504011",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "COMHOMA",
@@ -377,16 +387,17 @@
       "image": "https://media.s-bol.com/mrYM4wn7vMz9/EqonL9l/550x688.jpg",
       "ph": {
         "2026-11-24": 116.99,
-        "2026-11-25": 116.99
+        "2026-11-25": 116.99,
+        "2026-11-26": 116.99
       },
       "low_price": 116.99,
       "ph_ean": "4255764513754",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Diablo Chairs",
       "name": "X-One 2.0 Normale maat",
-      "price": 186.16,
+      "price": 185.44,
       "score": 8.0,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -417,13 +428,14 @@
       "image": "https://media.s-bol.com/v0vAyEl4vLrM/r07Jl46/550x597.jpg",
       "ph": {
         "2026-11-24": 186.47,
-        "2026-11-25": 186.16
+        "2026-11-25": 186.16,
+        "2026-11-26": 185.44
       },
-      "low_price": 186.16,
+      "low_price": 185.44,
       "ph_ean": "5902560337884",
-      "synced": "2026-11-25",
-      "prev_price": 186.47,
-      "prev_date": "2026-11-24"
+      "synced": "2026-11-26",
+      "prev_price": 186.16,
+      "prev_date": "2026-11-25"
     }
   ],
   "guide": [

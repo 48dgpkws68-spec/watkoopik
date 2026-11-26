@@ -21,7 +21,7 @@
     {
       "brand": "Black+Decker",
       "name": "Dustbuster Gen4 BHHV520BF",
-      "price": 89.55,
+      "price": 89.21,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,3 van 5",
@@ -50,7 +50,7 @@
       "bol_title": "BLACK+DECKER BHHV520BF - Kruimeldief - 18 V",
       "url": "https://www.bol.com/nl/nl/p/black-decker-bhhv520bf-kruimeldief-18-v/9200000128142629/",
       "image": "https://media.s-bol.com/jBw91kAE286y/xk8QGKE/550x461.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-15": 87.1,
         "2026-10-16": 87.1,
@@ -91,11 +91,12 @@
         "2026-11-22": 89.7,
         "2026-11-23": 89.7,
         "2026-11-24": 89.71,
-        "2026-11-25": 89.55
+        "2026-11-25": 89.55,
+        "2026-11-26": 89.21
       },
       "low_price": 87.1,
-      "prev_price": 89.71,
-      "prev_date": "2026-11-24",
+      "prev_price": 89.55,
+      "prev_date": "2026-11-25",
       "ph_ean": "5035048712795",
       "rating": 4.3
     },
@@ -141,16 +142,17 @@
         "2026-11-22": 229.0,
         "2026-11-23": 229.0,
         "2026-11-24": 229.0,
-        "2026-11-25": 229.0
+        "2026-11-25": 229.0,
+        "2026-11-26": 229.0
       },
       "low_price": 229.0,
       "ph_ean": "5025155118696",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Black+Decker",
       "name": "Dustbuster Pivot PD1820L",
-      "price": 83.0,
+      "price": 87.18,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 3,9 van 5",
@@ -179,7 +181,7 @@
       "bol_title": "BLACK+DECKER PD1820L - Kruimeldief",
       "url": "https://www.bol.com/nl/nl/p/black-decker-pd1820l-kruimeldief/9200000055240500/",
       "image": "https://media.s-bol.com/mkzWpGxALMxA/1wE2QBZ/550x391.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-15": 75.0,
         "2026-10-16": 87.18,
@@ -220,18 +222,19 @@
         "2026-11-22": 83.0,
         "2026-11-23": 83.0,
         "2026-11-24": 83.0,
-        "2026-11-25": 83.0
+        "2026-11-25": 83.0,
+        "2026-11-26": 87.18
       },
       "low_price": 75.0,
-      "prev_price": 87.18,
-      "prev_date": "2026-11-13",
+      "prev_price": 83.0,
+      "prev_date": "2026-11-25",
       "ph_ean": "5035048458624",
       "rating": 3.9
     },
     {
       "brand": "Makita",
       "name": "DCL180Z",
-      "price": 67.28,
+      "price": 65.05,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -260,7 +263,7 @@
       "bol_title": "Makita DCL180Z - Steelstofzuiger",
       "url": "https://www.bol.com/nl/nl/p/makita-dcl180z-steelstofzuiger/9200000069067788/",
       "image": "https://media.s-bol.com/vQY0wMkPx3QX/550x539.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-15": 65.19,
         "2026-10-16": 67.2,
@@ -301,11 +304,12 @@
         "2026-11-22": 67.28,
         "2026-11-23": 67.28,
         "2026-11-24": 67.28,
-        "2026-11-25": 67.28
+        "2026-11-25": 67.28,
+        "2026-11-26": 65.05
       },
       "low_price": 64.09,
-      "prev_price": 65.4,
-      "prev_date": "2026-11-18",
+      "prev_price": 67.28,
+      "prev_date": "2026-11-25",
       "ph_ean": "0088381658539",
       "rating": 4.6
     },
@@ -341,7 +345,7 @@
       "bol_title": "Black+Decker DVC320BRG-QW",
       "url": "https://www.bol.com/nl/nl/p/black-decker-dvc320brg-handstofzuiger-rosegoud-zakloos/9300000058758107/",
       "image": "https://media.s-bol.com/Gkx1jnzMykqL/KOYJvml/550x656.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-15": 73.02,
         "2026-10-16": 73.02,
@@ -382,7 +386,8 @@
         "2026-11-22": 85.9,
         "2026-11-23": 79.9,
         "2026-11-24": 73.02,
-        "2026-11-25": 73.02
+        "2026-11-25": 73.02,
+        "2026-11-26": 73.02
       },
       "low_price": 73.02,
       "prev_price": 79.9,
@@ -422,7 +427,7 @@
       "bol_title": "Ryobi RHV18-0 One+ 18V Accu Handstofzuiger body - 0,6L",
       "url": "https://www.bol.com/nl/nl/p/ryobi-rhv18-0-one-18v-accu-handstofzuiger-body-0-6l/9300000118790332/",
       "image": "https://media.s-bol.com/xmLOV4qg7xYE/rPylYW/550x426.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-15": 52.54,
         "2026-10-16": 52.54,
@@ -463,7 +468,8 @@
         "2026-11-22": 54.89,
         "2026-11-23": 54.89,
         "2026-11-24": 54.89,
-        "2026-11-25": 54.99
+        "2026-11-25": 54.99,
+        "2026-11-26": 54.99
       },
       "low_price": 52.39,
       "prev_price": 54.89,
@@ -519,10 +525,11 @@
         "2026-11-22": 48.0,
         "2026-11-23": 48.0,
         "2026-11-24": 39.99,
-        "2026-11-25": 39.99
+        "2026-11-25": 39.99,
+        "2026-11-26": 39.99
       },
       "low_price": 39.99,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph_ean": "6934177745959",
       "prev_price": 48.0,
       "prev_date": "2026-11-23",
@@ -531,7 +538,7 @@
     {
       "brand": "Bosch",
       "name": "Move BHN16L",
-      "price": 64.99,
+      "price": 66.99,
       "score": 8.1,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -560,7 +567,7 @@
       "bol_title": "Bosch BHN16L Move - Kruimeldief - Grijs",
       "url": "https://www.bol.com/nl/nl/p/bosch-move-lithium-16vmax-bhn16l-accustofzuiger-draadloos-spleetzuigmond-handstofzuiger-ideaal-als-autostofzuiger/9300000019915965/",
       "image": "https://media.s-bol.com/g22j2wXNlNqr/550x463.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-15": 64.99,
         "2026-10-16": 64.99,
@@ -601,18 +608,19 @@
         "2026-11-22": 64.99,
         "2026-11-23": 64.99,
         "2026-11-24": 64.99,
-        "2026-11-25": 64.99
+        "2026-11-25": 64.99,
+        "2026-11-26": 66.99
       },
       "low_price": 64.99,
       "ph_ean": "4242005190874",
-      "prev_price": 74.95,
-      "prev_date": "2026-11-16",
+      "prev_price": 64.99,
+      "prev_date": "2026-11-25",
       "rating": 4.5
     },
     {
       "brand": "Black+Decker",
       "name": "Dustbuster WDC215WA",
-      "price": 48.14,
+      "price": 47.87,
       "score": 8.0,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -641,7 +649,7 @@
       "bol_title": "BLACK+DECKER WDC 215 WA",
       "url": "https://www.bol.com/nl/nl/p/black-decker-wdc-215-wa/9200000116753125/",
       "image": "https://media.s-bol.com/J3x21wp3PPW9/K8zBVnl/550x551.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-15": 43.51,
         "2026-10-16": 43.51,
@@ -682,11 +690,12 @@
         "2026-11-22": 43.51,
         "2026-11-23": 43.51,
         "2026-11-24": 42.78,
-        "2026-11-25": 48.14
+        "2026-11-25": 48.14,
+        "2026-11-26": 47.87
       },
       "low_price": 42.78,
-      "prev_price": 42.78,
-      "prev_date": "2026-11-24",
+      "prev_price": 48.14,
+      "prev_date": "2026-11-25",
       "ph_ean": "5035048698181",
       "rating": 4.7
     },
@@ -722,7 +731,7 @@
       "bol_title": "Einhell Accu Nat-/Droogzuiger TE-VC 18/10 Li Solo - Power X-Change - 18 V/Li-Ion - 10 L - 90 mbar - Slanglengte/-diameter: 2.0 m/36 mm - 72 dB - Blaasfunctie - Incl. 6-delige Accessoireset - Excl. accu en lader",
       "url": "https://www.bol.com/nl/nl/p/einhell-accu-nat-droogzuiger-te-vc-18-10-li-solo-power-x-change/9200000119060326/",
       "image": "https://media.s-bol.com/m3Jzm2w3wD1A/MQ8roQQ/550x419.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-15": 62.99,
         "2026-10-16": 62.99,
@@ -763,7 +772,8 @@
         "2026-11-22": 74.99,
         "2026-11-23": 74.99,
         "2026-11-24": 74.99,
-        "2026-11-25": 74.99
+        "2026-11-25": 74.99,
+        "2026-11-26": 74.99
       },
       "low_price": 62.99,
       "prev_price": 65.88,

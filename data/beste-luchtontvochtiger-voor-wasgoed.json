@@ -67,11 +67,12 @@
       "ph": {
         "2026-11-23": 199.99,
         "2026-11-24": 199.99,
-        "2026-11-25": 199.99
+        "2026-11-25": 199.99,
+        "2026-11-26": 199.99
       },
       "low_price": 199.99,
       "ph_ean": "4052138015117",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Meaco",
@@ -109,11 +110,12 @@
       "ph": {
         "2026-11-23": 516.89,
         "2026-11-24": 516.89,
-        "2026-11-25": 516.89
+        "2026-11-25": 516.89,
+        "2026-11-26": 516.89
       },
       "low_price": 516.89,
       "ph_ean": "5060409601777",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Pro Breeze",
@@ -151,11 +153,12 @@
       "ph": {
         "2026-11-23": 179.99,
         "2026-11-24": 179.99,
-        "2026-11-25": 179.99
+        "2026-11-25": 179.99,
+        "2026-11-26": 179.99
       },
       "low_price": 179.99,
       "ph_ean": "5060596028203",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "De'Longhi",
@@ -163,7 +166,7 @@
       "price": 265.0,
       "score": 8.9,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Stille 16-liter ontvochtiger met Laundry-functie en vorstbeveiliging.",
       "specs": {
         "Type": "Compressor",
@@ -189,15 +192,16 @@
       "bol_title": "De’Longhi Tasciugo AriaDry Evo DEP216 - Luchtonvochtiger - Extra Stil - 16L per dag - Met Droogfunctie en Drievoudige Filtratie",
       "url": "https://www.bol.com/nl/nl/p/de-longhi-tasciugo-ariadry-evo-dep216-luchtonvochtiger-extra-stil-16l-per-dag-met-droogfunctie-en-drievoudige-filtratie/9300000267174472/",
       "image": "https://media.s-bol.com/r3D0NPvlo4yp/VPpRzO5/550x762.jpg",
-      "rating": 4.5,
+      "rating": 4.7,
       "ph": {
         "2026-11-23": 265.0,
         "2026-11-24": 265.0,
-        "2026-11-25": 265.0
+        "2026-11-25": 265.0,
+        "2026-11-26": 265.0
       },
       "low_price": 265.0,
       "ph_ean": "8004399037038",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Philips",
@@ -234,11 +238,12 @@
       "image": "https://media.s-bol.com/2VA3yRlNOmkN/wVRQkZJ/550x567.jpg",
       "ph": {
         "2026-11-24": 485.0,
-        "2026-11-25": 485.0
+        "2026-11-25": 485.0,
+        "2026-11-26": 485.0
       },
       "low_price": 485.0,
       "rating": 5.0,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Duux",
@@ -276,11 +281,12 @@
       "ph": {
         "2026-11-23": 216.49,
         "2026-11-24": 349.99,
-        "2026-11-25": 349.99
+        "2026-11-25": 349.99,
+        "2026-11-26": 349.99
       },
       "low_price": 216.49,
       "ph_ean": "8716164987508",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 216.49,
       "prev_date": "2026-11-23"
     },
@@ -320,11 +326,12 @@
       "ph": {
         "2026-11-23": 169.0,
         "2026-11-24": 169.0,
-        "2026-11-25": 169.0
+        "2026-11-25": 169.0,
+        "2026-11-26": 169.0
       },
       "low_price": 169.0,
       "ph_ean": "5704841025899",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "VONROC",
@@ -362,11 +369,12 @@
       "ph": {
         "2026-11-23": 148.95,
         "2026-11-24": 148.95,
-        "2026-11-25": 149.95
+        "2026-11-25": 149.95,
+        "2026-11-26": 149.95
       },
       "low_price": 148.95,
       "ph_ean": "8717479113781",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 148.95,
       "prev_date": "2026-11-24"
     },
@@ -405,11 +413,12 @@
       "image": "https://media.s-bol.com/yD332JOw1BO7/mDD6kr/516x840.jpg",
       "ph": {
         "2026-11-24": 259.0,
-        "2026-11-25": 259.0
+        "2026-11-25": 259.0,
+        "2026-11-26": 259.0
       },
       "low_price": 259.0,
       "rating": 3.7,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "EcoAir",
@@ -446,11 +455,12 @@
       "url": "https://www.bol.com/nl/nl/p/ecoair-dd1-simple-mk3-green-adsorptiedroger/9300000226922490/",
       "image": "https://media.s-bol.com/ooLwqz3m5KDA/W6A3WGg/500x840.jpg",
       "ph": {
-        "2026-11-25": 279.0
+        "2026-11-25": 279.0,
+        "2026-11-26": 279.0
       },
       "low_price": 279.0,
       "ph_ean": "5051462013737",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     }
   ],
   "guide": [

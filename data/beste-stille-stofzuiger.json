@@ -54,11 +54,12 @@
         "2026-11-22": 223.1,
         "2026-11-23": 227.7,
         "2026-11-24": 243.0,
-        "2026-11-25": 249.0
+        "2026-11-25": 249.0,
+        "2026-11-26": 249.0
       },
       "low_price": 223.1,
       "ph_ean": "7333394095967",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 243.0,
       "prev_date": "2026-11-24"
     },
@@ -105,11 +106,12 @@
         "2026-11-22": 243.29,
         "2026-11-23": 243.29,
         "2026-11-24": 273.99,
-        "2026-11-25": 273.99
+        "2026-11-25": 273.99,
+        "2026-11-26": 273.99
       },
       "low_price": 243.29,
       "ph_ean": "3221614007248",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 243.29,
       "prev_date": "2026-11-23",
       "rating": 4.4
@@ -173,10 +175,11 @@
         "2026-11-22": 174.99,
         "2026-11-23": 174.99,
         "2026-11-24": 177.9,
-        "2026-11-25": 177.9
+        "2026-11-25": 177.9,
+        "2026-11-26": 177.9
       },
       "low_price": 149.0,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 174.99,
       "prev_date": "2026-11-23",
       "ph_ean": "3221616107311",
@@ -212,7 +215,7 @@
       "bol_title": "AEG VX83-2DB - Stofzuiger met zak - Extreem stil 64 dB - Zeer stille stofzuiger - Sterke zuigkracht - HEPA filtratie - Vacuum cleaner - Harde vloeren en tapijt - Geschikt voor allergieën - 12m actieradius - Denim Blauw - 64 dB",
       "url": "https://www.bol.com/nl/nl/p/aeg-vx83-2db-vx8-3-stofzuiger-met-stofzak-allfloor-denim-blauw-64-db/9300000250725613/",
       "image": "https://media.s-bol.com/BW9kDG7JBgYo/Nxz515K/550x561.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-17": 163.99,
         "2026-10-18": 163.99,
@@ -251,7 +254,8 @@
         "2026-11-22": 159.95,
         "2026-11-23": 159.95,
         "2026-11-24": 159.95,
-        "2026-11-25": 163.49
+        "2026-11-25": 163.49,
+        "2026-11-26": 163.49
       },
       "low_price": 156.99,
       "prev_price": 159.95,
@@ -289,7 +293,7 @@
       "bol_title": "Bosch Prosilence BGS7SIL64 Serie 8 - Stofzuiger zonder zak - Zwart",
       "url": "https://www.bol.com/nl/nl/p/bosch-relaxx-x-bgs7sil64-stofzuiger-zonder-zak/9200000082583251/",
       "image": "https://media.s-bol.com/B9y96Wq2jK1x/y8n6NEw/550x623.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-17": 314.95,
         "2026-10-18": 314.95,
@@ -328,7 +332,8 @@
         "2026-11-22": 314.95,
         "2026-11-23": 314.95,
         "2026-11-24": 314.95,
-        "2026-11-25": 314.95
+        "2026-11-25": 314.95,
+        "2026-11-26": 314.95
       },
       "low_price": 314.95,
       "ph_ean": "4242002997957",
@@ -337,7 +342,7 @@
     {
       "brand": "Rowenta",
       "name": "Silence Force RO7450",
-      "price": 154.39,
+      "price": 154.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -394,12 +399,13 @@
         "2026-11-22": 154.39,
         "2026-11-23": 154.39,
         "2026-11-24": 154.39,
-        "2026-11-25": 154.39
+        "2026-11-25": 154.39,
+        "2026-11-26": 154.0
       },
-      "low_price": 154.39,
-      "synced": "2026-11-25",
-      "prev_price": 155.99,
-      "prev_date": "2026-11-20",
+      "low_price": 154.0,
+      "synced": "2026-11-26",
+      "prev_price": 154.39,
+      "prev_date": "2026-11-25",
       "ph_ean": "3221616020238",
       "rating": 4.3
     },
@@ -439,12 +445,13 @@
         "2026-11-22": 179.0,
         "2026-11-23": 179.0,
         "2026-11-24": 179.0,
-        "2026-11-25": 179.0
+        "2026-11-25": 179.0,
+        "2026-11-26": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "4242005202843",
       "rating": 4.8,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 248.0,
       "prev_date": "2026-11-20"
     },
@@ -478,7 +485,7 @@
       "bol_title": "Nilfisk Elite RCL14E08A2  - Stofzuiger met zak",
       "url": "https://www.bol.com/nl/nl/p/nilfisk-elite-rcl14e08a2-stofzuiger-met-zak/9200000083927729/",
       "image": "https://media.s-bol.com/qJqrwzGxQ2p/550x394.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-17": 289.0,
         "2026-10-18": 289.0,
@@ -517,7 +524,8 @@
         "2026-11-22": 299.0,
         "2026-11-23": 299.0,
         "2026-11-24": 299.0,
-        "2026-11-25": 299.0
+        "2026-11-25": 299.0,
+        "2026-11-26": 299.0
       },
       "low_price": 270.0,
       "prev_price": 270.0,
@@ -587,10 +595,11 @@
         "2026-11-22": 166.27,
         "2026-11-23": 164.53,
         "2026-11-24": 192.0,
-        "2026-11-25": 192.0
+        "2026-11-25": 192.0,
+        "2026-11-26": 192.0
       },
       "low_price": 164.53,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 164.53,
       "prev_date": "2026-11-23",
       "ph_ean": "7332543693887",
@@ -626,7 +635,7 @@
       "bol_title": "Tomado TVC3003B - Krachtige stofzuiger met zak - Extra stil - HEPA 13 filter - Snoerlengte 9 meter - Zwart",
       "url": "https://www.bol.com/nl/nl/p/tomado-tvc3003b-krachtige-stofzuiger-met-zak-hepa-13-filter-snoerlengte-9-meter-zwart/9300000007240498/",
       "image": "https://media.s-bol.com/g0BXVGg3QAZ3/Y6GJvQA/550x726.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-17": 69.0,
         "2026-10-18": 69.0,
@@ -665,7 +674,8 @@
         "2026-11-22": 59.99,
         "2026-11-23": 59.99,
         "2026-11-24": 59.99,
-        "2026-11-25": 59.99
+        "2026-11-25": 59.99,
+        "2026-11-26": 59.99
       },
       "low_price": 59.99,
       "prev_price": 61.99,

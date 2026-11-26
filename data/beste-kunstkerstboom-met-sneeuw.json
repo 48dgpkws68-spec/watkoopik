@@ -58,12 +58,13 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-forest-frosted-kunstkerstboom-h185-cm-groen/9200000019515481/",
       "image": "https://media.s-bol.com/4Xy87rx5M1Xn/wVxm8EX/550x826.jpg",
       "ph": {
-        "2026-11-25": 139.0
+        "2026-11-25": 139.0,
+        "2026-11-26": 139.0
       },
       "low_price": 139.0,
       "ph_ean": "0756770520339",
       "rating": 4.9,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Royal Christmas",
@@ -97,12 +98,13 @@
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-kunstkerstboom-chicago-180-cm-met-sneeuw-inclusief-led-verlichting/9200000089284180/",
       "image": "https://media.s-bol.com/B3rP055KQNXo/MZ87Y5B/515x840.jpg",
       "ph": {
-        "2026-11-25": 208.19
+        "2026-11-25": 208.19,
+        "2026-11-26": 208.19
       },
       "low_price": 208.19,
       "ph_ean": "8717591887676",
       "rating": 4.8,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Royal Christmas",
@@ -136,17 +138,18 @@
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-kunstkerstboom-iowa-deluxe-240cm-zonder-verlichting/9200000049874250/",
       "image": "https://media.s-bol.com/mvwLOGKjJEA3/J8Dl1zP/469x840.jpg",
       "ph": {
-        "2026-11-25": 151.05
+        "2026-11-25": 151.05,
+        "2026-11-26": 151.05
       },
       "low_price": 151.05,
       "ph_ean": "8717591880431",
       "rating": 5.0,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Everlands",
       "name": "Grandis Fir Prelit Snowy 210 cm met 550 LED",
-      "price": 182.99,
+      "price": 181.0,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -175,12 +178,15 @@
       "url": "https://www.bol.com/nl/nl/p/everlands-grandis-fir-prelit-snowy-groen-kerstboom-o152xh210-cm-550-led/9300000125590462/",
       "image": "https://media.s-bol.com/qpRqwVZw8RA2/zB39MZ/550x774.jpg",
       "ph": {
-        "2026-11-25": 182.99
+        "2026-11-25": 182.99,
+        "2026-11-26": 181.0
       },
-      "low_price": 182.99,
+      "low_price": 181.0,
       "ph_ean": "8720093398526",
       "rating": 5.0,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26",
+      "prev_price": 182.99,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Meisterhome",
@@ -214,12 +220,13 @@
       "url": "https://www.bol.com/nl/nl/p/meisterhome-kerstboom-grote-pvc-pe-210-cm-groen-sneeuw-inclusief-standaard-levensecht-2180-uiteinden-met-witte-sneeuw-montage-vereist-decoratieve-kerstboom/9300000191741677/",
       "image": "https://media.s-bol.com/lrZQ2QRM2LWg/79qg4nQ/439x840.jpg",
       "ph": {
-        "2026-11-25": 39.99
+        "2026-11-25": 39.99,
+        "2026-11-26": 39.99
       },
       "low_price": 39.99,
       "ph_ean": "5061001243266",
       "rating": 4.3,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Premfy",
@@ -253,12 +260,13 @@
       "url": "https://www.bol.com/nl/nl/p/premfy-deluxe-kunstkerstboom-180-cm-met-sneeuw-en-echte-dennenappels-mooi-volle-kerstboom-1200-pvc-pe-takken-mooi-versierd-decoratie-premium-5-jaar-garantie-inclusief-240-led-lampjes/9300000071697419/",
       "image": "https://media.s-bol.com/Jn1J7nR5mBKK/G62w6y8/550x757.jpg",
       "ph": {
-        "2026-11-25": 169.99
+        "2026-11-25": 169.99,
+        "2026-11-26": 169.99
       },
       "low_price": 169.99,
       "ph_ean": "8720387377145",
       "rating": 4.6,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Black Box Trees",
@@ -292,12 +300,13 @@
       "url": "https://www.bol.com/nl/nl/p/black-box-trees-harma-smalle-kunstkerstboom-h185-x-o63-cm-groen-frosted/9300000192212819/",
       "image": "https://media.s-bol.com/L4kJB2p5WYKp/k8PBlBr/285x840.jpg",
       "ph": {
-        "2026-11-25": 67.23
+        "2026-11-25": 67.23,
+        "2026-11-26": 67.23
       },
       "low_price": 67.23,
       "ph_ean": "8720983084713",
       "rating": 4.7,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "KJ Kunstkerstbomen",
@@ -331,11 +340,12 @@
       "url": "https://www.bol.com/nl/nl/p/kj-kunstkerstbomen-kunstkerstboom-memphis-besneeuwd-met-ledverlichting-180-cm/9300000405967396/",
       "image": "https://media.s-bol.com/K3kGWgqjE2pr/Rl5rz1R/473x840.jpg",
       "ph": {
-        "2026-11-25": 139.0
+        "2026-11-25": 139.0,
+        "2026-11-26": 139.0
       },
       "low_price": 139.0,
       "ph_ean": "8721632740141",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "COSTWAY",
@@ -369,12 +379,13 @@
       "url": "https://www.bol.com/nl/nl/p/costway-kunstkerstboom-met-sneeuw-en-warmwitte-ledverlichting-180-225-cm-dennenboom-met-metalen-standaard-kerstboom-pvc-naalden-kunstboom-kerstmis-klapsysteem/9300000240553121/",
       "image": "https://media.s-bol.com/wJBOZkP8Al5z/Y7N42AA/421x840.jpg",
       "ph": {
-        "2026-11-25": 69.99
+        "2026-11-25": 69.99,
+        "2026-11-26": 69.99
       },
       "low_price": 69.99,
       "ph_ean": "0672669048770",
       "rating": 5.0,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Everlands",
@@ -408,12 +419,13 @@
       "url": "https://www.bol.com/nl/nl/p/pencil-pine-snowy-kunstkerstboom-smal-wit-sneeuw-180cm/9300000014586886/",
       "image": "https://media.s-bol.com/gDGyE7w9XDPl/8K6kW5/250x200.jpg",
       "ph": {
-        "2026-11-25": 43.99
+        "2026-11-25": 43.99,
+        "2026-11-26": 43.99
       },
       "low_price": 43.99,
       "ph_ean": "8718533661385",
       "rating": 4.6,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     }
   ],
   "guide": [

@@ -355,3 +355,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-robotstofzuiger-met-zelflegend-station-onder-500-euro | robotstofzuiger | robotstofzuiger met zelflegend station onder 500 euro | De 10 beste robotstofzuigers met zelflegend station onder 500 euro van 2026 | 🤖 (google_wacht, N50 25 nov: robot dweil onder 300 7 ChatGPT-bezoekers 28d)
 [x] beste-kunstkerstboom-met-sneeuw | wonen | kunstkerstboom met sneeuw | De 10 beste kunstkerstbomen met sneeuw van 2026 | 🎄 (google_wacht, N50 25 nov 04:35: kerstboomfamilie grootste ChatGPT-familie, S9)
 [x] beste-loopband-onder-bureau-onder-300-euro | sport | loopband onder bureau onder 300 euro | De 10 beste loopbanden onder je bureau onder 300 euro van 2026 | 🚶 (google_wacht, N50 25 nov 04:35: loopband-onder-bureau 14 ChatGPT-bezoekers 7d)
+[x] beste-dashcam-onder-100-euro | elektronica | dashcam onder 100 euro | De 10 beste dashcams onder 100 euro van 2026 | 🚗 (google_wacht)
+[x] beste-tv-50-inch-onder-500-euro | elektronica | tv 50 inch onder 500 euro | De 10 beste 50 inch tv's onder 500 euro van 2026 | 📺 (google_wacht)

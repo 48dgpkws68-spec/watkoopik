@@ -34,7 +34,7 @@
     {
       "brand": "Philips",
       "name": "40PQS6901/12",
-      "price": 279.0,
+      "price": 299.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -64,13 +64,16 @@
       "url": "https://www.bol.com/nl/nl/p/philips-40pqs6901-12-tv-101-6-cm-full-hd-smart-tv-wifi-zwart/9300000266606830/",
       "image": "https://media.s-bol.com/N3j1pjWGw6G2/79D52oB/550x324.jpg",
       "rating": 4.7,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-11-24": 279.0,
-        "2026-11-25": 279.0
+        "2026-11-25": 279.0,
+        "2026-11-26": 299.0
       },
       "low_price": 279.0,
-      "ph_ean": "8718863051597"
+      "ph_ean": "8718863051597",
+      "prev_price": 279.0,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Samsung",
@@ -105,10 +108,11 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-ue43u7090h-43-inch-4k-led-2026-smart-tv/9300000332667099/",
       "image": "https://media.s-bol.com/K36gx5OzBzBl/28v1q1z/550x348.jpg",
       "rating": 4.6,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-11-24": 329.0,
-        "2026-11-25": 329.0
+        "2026-11-25": 329.0,
+        "2026-11-26": 329.0
       },
       "low_price": 329.0,
       "ph_ean": "8806099138912"
@@ -146,10 +150,11 @@
       "url": "https://www.bol.com/nl/nl/p/philips-32pqs6901/9300000275294534/",
       "image": "https://media.s-bol.com/Y3xXVWlXNy49/57A5XmX/550x324.jpg",
       "rating": 4.7,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-11-24": 249.0,
-        "2026-11-25": 249.0
+        "2026-11-25": 249.0,
+        "2026-11-26": 249.0
       },
       "low_price": 249.0,
       "ph_ean": "8718863051580"
@@ -187,10 +192,11 @@
       "url": "https://www.bol.com/nl/nl/p/sony-bravia-3-43-inch-4k-led-2025/9300000228487626/",
       "image": "https://media.s-bol.com/35wmNkXzn3lx/W7w8D2J/550x345.jpg",
       "rating": 4.6,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-11-24": 529.0,
-        "2026-11-25": 529.0
+        "2026-11-25": 529.0,
+        "2026-11-26": 529.0
       },
       "low_price": 529.0,
       "ph_ean": "4548736168145"
@@ -228,10 +234,11 @@
       "url": "https://www.bol.com/nl/nl/p/chiq-l40qm10v-smart-tv-40-inch-qled-pro-google-tv-fhd-1080p-randloos-metal-design-dolby-audio-2025-nieuw/9300000239182550/",
       "image": "https://media.s-bol.com/xDjlnKLWGJMr/oQ726Mz/550x338.jpg",
       "rating": 4.6,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-11-24": 229.0,
-        "2026-11-25": 229.0
+        "2026-11-25": 229.0,
+        "2026-11-26": 229.0
       },
       "low_price": 229.0,
       "ph_ean": "8592344205538"
@@ -269,7 +276,13 @@
       "url": "https://www.bol.com/nl/nl/p/lg-43qned84a6-43-inch-4k-qned-2025/9300000258904494/",
       "image": "https://media.s-bol.com/6Zo2kBPpo1AR/4RAmnvV/550x336.jpg",
       "rating": 5.0,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26",
+      "ph": {
+        "2026-11-25": 347.0,
+        "2026-11-26": 347.0
+      },
+      "low_price": 347.0,
+      "ph_ean": "8806096419038"
     },
     {
       "brand": "CHiQ",
@@ -305,12 +318,13 @@
       "url": "https://www.bol.com/nl/nl/p/chiq-u43qst-smart-tv-43-inch-qled-pro-google-tv-uhd-4k-randloos-metal-design-dolby-audio-2025-nieuw/9300000238936359/",
       "image": "https://media.s-bol.com/B5E6KJPLrV4n/BLQBRXn/550x363.jpg",
       "ph": {
-        "2026-11-25": 282.74
+        "2026-11-25": 282.74,
+        "2026-11-26": 282.74
       },
       "low_price": 282.74,
       "ph_ean": "8592344206092",
       "rating": 4.3,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Samsung",
@@ -345,10 +359,11 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-qe32q5fa-32-inch-full-hd-qled-2025-smart-tv/9300000284690241/",
       "image": "https://media.s-bol.com/2L41WMNnzQzv/WPym8ZW/550x349.jpg",
       "rating": 4.0,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-11-24": 289.26,
-        "2026-11-25": 289.26
+        "2026-11-25": 289.26,
+        "2026-11-26": 289.26
       },
       "low_price": 289.26,
       "ph_ean": "8806099013790"
@@ -386,10 +401,11 @@
       "url": "https://www.bol.com/nl/nl/p/lg-32lq63006la-32-inch-full-hd-led-2022/9300000074859721/",
       "image": "https://media.s-bol.com/0xv0jjNyQQWL/4R6L2k7/550x361.jpg",
       "rating": 4.6,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-11-24": 241.0,
-        "2026-11-25": 241.0
+        "2026-11-25": 241.0,
+        "2026-11-26": 241.0
       },
       "low_price": 241.0,
       "ph_ean": "8806091636959"
@@ -427,10 +443,11 @@
       "url": "https://www.bol.com/nl/nl/p/chiq-l32qst-smart-tv-32-inch-qled-full-hd-google-tv-randloos-metal-design-dolby-audio-2025-nieuw/9300000244126569/",
       "image": "https://media.s-bol.com/m3jKx386vO3R/j2y0ZL4/550x349.jpg",
       "rating": 4.3,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-11-24": 184.31,
-        "2026-11-25": 184.31
+        "2026-11-25": 184.31,
+        "2026-11-26": 184.31
       },
       "low_price": 184.31,
       "ph_ean": "8592344206221"

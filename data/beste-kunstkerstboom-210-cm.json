@@ -122,11 +122,12 @@
         "2026-11-22": 179.0,
         "2026-11-23": 179.0,
         "2026-11-24": 179.0,
-        "2026-11-25": 179.0
+        "2026-11-25": 179.0,
+        "2026-11-26": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "0756770520346",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Royal Christmas",
@@ -166,11 +167,12 @@
         "2026-11-22": 132.05,
         "2026-11-23": 132.05,
         "2026-11-24": 132.05,
-        "2026-11-25": 132.05
+        "2026-11-25": 132.05,
+        "2026-11-26": 132.05
       },
       "low_price": 132.05,
       "ph_ean": "8717591888970",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 139.0,
       "prev_date": "2026-11-21"
     },
@@ -212,11 +214,12 @@
         "2026-11-22": 159.95,
         "2026-11-23": 159.95,
         "2026-11-24": 159.95,
-        "2026-11-25": 159.95
+        "2026-11-25": 159.95,
+        "2026-11-26": 159.95
       },
       "low_price": 159.95,
       "ph_ean": "8711473866520",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Royal Christmas",
@@ -250,10 +253,11 @@
       "url": "https://www.bol.com/nl/nl/p/royal-christmas-halve-muur-nepkerstboom-dakota-lengte-180-cm-met-200-warme-led-lampjes-743-takken-ruimtebesparend/9200000081020769/",
       "image": "https://media.s-bol.com/mv8018W13p8O/99g9Zgx/528x840.jpg",
       "ph": {
-        "2026-11-25": 330.52
+        "2026-11-25": 330.52,
+        "2026-11-26": 330.52
       },
       "low_price": 330.52,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Everlands",
@@ -293,11 +297,12 @@
         "2026-11-22": 108.5,
         "2026-11-23": 109.0,
         "2026-11-24": 109.0,
-        "2026-11-25": 109.0
+        "2026-11-25": 109.0,
+        "2026-11-26": 109.0
       },
       "low_price": 102.8,
       "ph_ean": "8718532241526",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 108.5,
       "prev_date": "2026-11-22"
     },
@@ -307,7 +312,7 @@
       "price": 95.95,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 3,7 van 5",
       "oneliner": "Breedste boom onder de 100 euro, 912 takken op 215 cm.",
       "specs": {
         "Hoogte": "215 cm",
@@ -327,7 +332,7 @@
       "ideal": "Wie een grote boom wil voor een klein budget en hem toch royaal wil versieren.",
       "text": "De Forrester is de instapboom van Triumph Tree in de grote maten, maar daar merk je weinig van. Met 215 cm hoogte en een doorsnede van 135 cm is hij bijna even fors als de Forest Frosted bovenaan deze lijst. Hij telt 912 takken, wat voor deze prijs veel is. Dat is de reden dat hij in deze vergelijking de beste prijs-kwaliteit heeft.\n\nDe naalden zijn van PVC en hebben een egale groene kleur. Van een paar meter afstand oogt de boom vol en klassiek, van dichtbij zie je dat het een kunstboom is. Met een snoer van 400 tot 600 lampjes en een flinke set ballen maakt dat weinig uit. De takken steek je per laag in de stam, kleurcodes laten zien welke tak waar hoort. Let op de breedte: 135 cm is meer dan veel mensen verwachten, meet dus vooraf de hoek waar hij moet staan. Voor een kleine kamer is een smal model beter.",
       "ean": "8718861510645",
-      "rating": 4.2,
+      "rating": 3.7,
       "bol_title": "Triumph Tree Forrester Kunstkerstboom H215 x 135 cm - Kerstboom met Realistische Dennennaalden - Kunstboom 912 Takken - Kerstversiering met Standaard - Makkelijk Opzetten - Groen",
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-forrester-kunstkerstboom-h215-x-o135-cm-groen/9200000123487814/",
       "image": "https://media.s-bol.com/0QkL3ORn91xL/gZP8VL9/543x840.jpg",
@@ -339,18 +344,19 @@
         "2026-11-22": 71.99,
         "2026-11-23": 75.47,
         "2026-11-24": 69.99,
-        "2026-11-25": 95.95
+        "2026-11-25": 95.95,
+        "2026-11-26": 95.95
       },
       "low_price": 69.99,
       "ph_ean": "8718861510645",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 103.95,
       "prev_date": "2026-11-25"
     },
     {
       "brand": "Everlands",
       "name": "Allison Fir 210 cm met 430 lampjes",
-      "price": 154.95,
+      "price": 169.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -385,12 +391,13 @@
         "2026-11-22": 132.0,
         "2026-11-23": 154.0,
         "2026-11-24": 154.0,
-        "2026-11-25": 154.95
+        "2026-11-25": 154.95,
+        "2026-11-26": 169.0
       },
       "low_price": 131.99,
       "ph_ean": "8720194655191",
-      "synced": "2026-11-25",
-      "prev_price": 154.0,
+      "synced": "2026-11-26",
+      "prev_price": 154.95,
       "prev_date": "2026-11-25"
     },
     {
@@ -431,11 +438,12 @@
         "2026-11-22": 159.0,
         "2026-11-23": 159.0,
         "2026-11-24": 159.0,
-        "2026-11-25": 159.0
+        "2026-11-25": 159.0,
+        "2026-11-26": 159.0
       },
       "low_price": 159.0,
       "ph_ean": "8717931858014",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Royal Christmas",
@@ -475,11 +483,12 @@
         "2026-11-22": 109.0,
         "2026-11-23": 109.0,
         "2026-11-24": 109.0,
-        "2026-11-25": 109.0
+        "2026-11-25": 109.0,
+        "2026-11-26": 109.0
       },
       "low_price": 109.0,
       "ph_ean": "8717931854382",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Everlands",
@@ -519,11 +528,12 @@
         "2026-11-22": 49.99,
         "2026-11-23": 49.99,
         "2026-11-24": 49.99,
-        "2026-11-25": 49.99
+        "2026-11-25": 49.99,
+        "2026-11-26": 49.99
       },
       "low_price": 43.99,
       "ph_ean": "8718533661392",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 43.99,
       "prev_date": "2026-11-18"
     }

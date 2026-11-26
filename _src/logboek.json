@@ -97,7 +97,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "LG",
@@ -239,9 +239,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-25",
+    "t": "vervangen",
+    "uit": "TCL 65T69C",
+    "in": "Hisense 65E7S",
+    "plek": 5,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "LG",
@@ -264,9 +274,9 @@
     "ean": "4548736171350"
    },
    {
-    "brand": "TCL",
-    "name": "65T69C",
-    "ean": "5901292528584"
+    "brand": "Hisense",
+    "name": "65E7S",
+    "ean": "6942351431710"
    },
    {
     "brand": "Samsung",
@@ -367,9 +377,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-25",
+    "t": "vervangen",
+    "uit": "Hisense 75E8S",
+    "in": "Hisense 75E7S",
+    "plek": 8,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "209cb4fb1a9ef2b6ae1529d346e66d77f48f34cb",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "Hisense",
@@ -408,8 +428,8 @@
    },
    {
     "brand": "Hisense",
-    "name": "75E8S",
-    "ean": "6942351433967"
+    "name": "75E7S",
+    "ean": "6942351431901"
    },
    {
     "brand": "Xiaomi",
@@ -603,7 +623,7 @@
   "start": "2026-10-17",
   "n": 10,
   "events": [],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "Roborock",
@@ -823,7 +843,7 @@
   "start": "2026-10-21",
   "n": 10,
   "events": [],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "WOOOD",
@@ -988,9 +1008,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-25",
+    "t": "vervangen",
+    "uit": "TCL 65T69C",
+    "in": "TCL 65P71K",
+    "plek": 8,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "LG",
@@ -1029,8 +1059,8 @@
    },
    {
     "brand": "TCL",
-    "name": "65T69C",
-    "ean": "5901292528584"
+    "name": "65P71K",
+    "ean": "5901292526986"
    },
    {
     "brand": "Samsung",
@@ -1129,7 +1159,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "Hisense",
@@ -1488,9 +1518,29 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-25",
+    "t": "vervangen",
+    "uit": "TCL 55T8D",
+    "in": "Hisense 55E8S",
+    "plek": 2,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
+   },
+   {
+    "d": "2026-11-25",
+    "t": "vervangen",
+    "uit": "TCL 65T69C",
+    "in": "TCL 65P71K",
+    "plek": 8,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "LG",
@@ -1498,9 +1548,9 @@
     "ean": "8806096360576"
    },
    {
-    "brand": "TCL",
-    "name": "55T8D",
-    "ean": "5901292531072"
+    "brand": "Hisense",
+    "name": "55E8S",
+    "ean": "6942351434582"
    },
    {
     "brand": "Philips",
@@ -1529,8 +1579,8 @@
    },
    {
     "brand": "TCL",
-    "name": "65T69C",
-    "ean": "5901292528584"
+    "name": "65P71K",
+    "ean": "5901292526986"
    },
    {
     "brand": "TCL",
@@ -1583,7 +1633,7 @@
     "paar": true
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "Dimplex",
@@ -1641,7 +1691,7 @@
   "start": "2026-10-21",
   "n": 10,
   "events": [],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "Anno 1588",
@@ -1778,7 +1828,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "LG",
@@ -1970,19 +2020,49 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-25",
+    "t": "vervangen",
+    "uit": "Samsung Neo QLED QE43QN73H",
+    "in": "Hisense 43E7S",
+    "plek": 2,
+    "paar": false,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
+   },
+   {
+    "d": "2026-11-25",
+    "t": "vervangen",
+    "uit": "LG 43QNED80T6A",
+    "in": "Philips 43PQS7801/12",
+    "plek": 7,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
+   },
+   {
+    "d": "2026-11-25",
+    "t": "vervangen",
+    "uit": "Xiaomi TV A Pro 2026 43 inch",
+    "in": "CHiQ U43QST",
+    "plek": 8,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "a78a62f6dcd77e71836ec69d0af825d929730bdc",
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
-   {
-    "brand": "Samsung",
-    "name": "Neo QLED QE43QN73H",
-    "ean": "8806099124410"
-   },
    {
     "brand": "Hisense",
     "name": "43E7S PRO",
     "ean": "6942351432410"
+   },
+   {
+    "brand": "Hisense",
+    "name": "43E7S",
+    "ean": "6942351430973"
    },
    {
     "brand": "Samsung",
@@ -2005,14 +2085,14 @@
     "ean": "4548736177741"
    },
    {
-    "brand": "LG",
-    "name": "43QNED80T6A",
-    "ean": "8806091952202"
+    "brand": "Philips",
+    "name": "43PQS7801/12",
+    "ean": "8718863051658"
    },
    {
-    "brand": "Xiaomi",
-    "name": "TV A Pro 2026 43 inch",
-    "ean": "6941948705630"
+    "brand": "CHiQ",
+    "name": "U43QST",
+    "ean": "8592344206092"
    },
    {
     "brand": "Samsung",
@@ -2324,8 +2404,17 @@
  "beste-kunstkerstboom-210-cm": {
   "start": "2026-11-18",
   "n": 10,
-  "events": [],
-  "_tot": "209cb4fb1a9ef2b6ae1529d346e66d77f48f34cb",
+  "events": [
+   {
+    "d": "2026-11-25",
+    "t": "vervangen",
+    "uit": "Royal Christmas Rockefeller 210 cm",
+    "in": "Royal Christmas Rockefeller Premium 210 cm met 550 LED",
+    "plek": 4,
+    "paar": true
+   }
+  ],
+  "_tot": "2c0102c5edf4dccf4d9a64f50f4ab07c3f3114b5",
   "_ps": [
    {
     "brand": "Triumph Tree",
@@ -2344,8 +2433,8 @@
    },
    {
     "brand": "Royal Christmas",
-    "name": "Rockefeller 210 cm",
-    "ean": "8717591890119"
+    "name": "Rockefeller Premium 210 cm met 550 LED",
+    "ean": "8717591887546"
    },
    {
     "brand": "Everlands",

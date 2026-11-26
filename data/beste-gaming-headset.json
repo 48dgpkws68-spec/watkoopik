@@ -50,7 +50,7 @@
       "bol_title": "SteelSeries Arctis Nova 7 Gen 2 - Draadloze Gaming Headset - 50 uur accuduur - PC, PlayStation, Switch 1/2 & Mobiel - Zwart",
       "url": "https://www.bol.com/nl/nl/p/steelseries-arctis-nova-7-gen-2-draadloze-gamingheadset-zwart-50-uur-accuduur-2-4-ghz-bluetooth-pc-ps5-ps4-switch-mobiel/9300000242454183/",
       "image": "https://media.s-bol.com/1ZLXOGOzR59q/WnRxjMx/550x816.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-21": 162.0,
         "2026-10-23": 162.0,
@@ -85,7 +85,8 @@
         "2026-11-22": 186.99,
         "2026-11-23": 186.99,
         "2026-11-24": 186.99,
-        "2026-11-25": 170.0
+        "2026-11-25": 170.0,
+        "2026-11-26": 170.0
       },
       "low_price": 162.0,
       "prev_price": 186.99,
@@ -124,7 +125,7 @@
       "bol_title": "HyperX Cloud III Gaming Headset - PC, PS5, Xbox Series X|S - Zwart",
       "url": "https://www.bol.com/nl/nl/p/hyperx-cloud-iii-gaming-headset-pc-ps5-xbox-series-x-s-zwart/9300000150324579/",
       "image": "https://media.s-bol.com/77JR4BW4nlpj/74yDJO/550x591.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-21": 79.9,
         "2026-10-23": 79.9,
@@ -159,7 +160,8 @@
         "2026-11-22": 57.9,
         "2026-11-23": 57.9,
         "2026-11-24": 57.9,
-        "2026-11-25": 57.9
+        "2026-11-25": 57.9,
+        "2026-11-26": 57.9
       },
       "low_price": 57.9,
       "prev_price": 79.95,
@@ -209,17 +211,18 @@
         "2026-11-22": 329.0,
         "2026-11-23": 329.0,
         "2026-11-24": 329.0,
-        "2026-11-25": 329.0
+        "2026-11-25": 329.0,
+        "2026-11-26": 329.0
       },
       "low_price": 309.99,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "prev_price": 329.99,
       "prev_date": "2026-11-21"
     },
     {
       "brand": "Logitech G",
       "name": "PRO X 2 Lightspeed",
-      "price": 205.0,
+      "price": 197.73,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -255,11 +258,14 @@
         "2026-11-22": 205.0,
         "2026-11-23": 205.0,
         "2026-11-24": 205.0,
-        "2026-11-25": 205.0
+        "2026-11-25": 205.0,
+        "2026-11-26": 197.73
       },
-      "low_price": 205.0,
+      "low_price": 197.73,
       "ph_ean": "5099206109070",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26",
+      "prev_price": 205.0,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Sony",
@@ -292,7 +298,7 @@
       "bol_title": "Sony INZONE H9 II – Draadloze Gaming Headset - Noise Cancelling - PS4/5 & PC - Zwart",
       "url": "https://www.bol.com/nl/nl/p/sony-inzone-h9-ii-draadloze-gaming-headset-noise-cancelling-zwart/9300000238364057/",
       "image": "https://media.s-bol.com/go2oLWOANvwG/P1r8oXz/550x560.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-21": 215.95,
         "2026-10-23": 215.95,
@@ -327,7 +333,8 @@
         "2026-11-22": 186.0,
         "2026-11-23": 186.0,
         "2026-11-24": 186.0,
-        "2026-11-25": 186.0
+        "2026-11-25": 186.0,
+        "2026-11-26": 186.0
       },
       "low_price": 169.0,
       "prev_price": 203.0,
@@ -338,7 +345,7 @@
     {
       "brand": "Razer",
       "name": "BlackShark V2 Pro (2023)",
-      "price": 123.0,
+      "price": 124.0,
       "score": 8.9,
       "label": null,
       "reviews": "",
@@ -374,13 +381,14 @@
         "2026-11-22": 124.0,
         "2026-11-23": 124.0,
         "2026-11-24": 124.0,
-        "2026-11-25": 123.0
+        "2026-11-25": 123.0,
+        "2026-11-26": 124.0
       },
       "low_price": 123.0,
       "ph_ean": "8887910060131",
-      "synced": "2026-11-25",
-      "prev_price": 124.0,
-      "prev_date": "2026-11-24"
+      "synced": "2026-11-26",
+      "prev_price": 123.0,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "HyperX",
@@ -413,7 +421,7 @@
       "bol_title": "HyperX Cloud Alpha Draadloze Gaming Headset - Zwart/Rood",
       "url": "https://www.bol.com/nl/nl/p/hyperx-cloud-alpha-draadloze-gaming-headset-zwart-rood/9300000089627596/",
       "image": "https://media.s-bol.com/qkPPAgNXkNMR/P1Mrr1y/550x536.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-21": 109.0,
         "2026-10-23": 129.0,
@@ -448,7 +456,8 @@
         "2026-11-22": 129.0,
         "2026-11-23": 129.0,
         "2026-11-24": 129.0,
-        "2026-11-25": 129.0
+        "2026-11-25": 129.0,
+        "2026-11-26": 129.0
       },
       "low_price": 109.0,
       "prev_price": 109.0,
@@ -486,7 +495,7 @@
       "ean": "0840006605836",
       "bol_title": "Corsair Virtuoso RGB Wireless XT High-Fidelity Gaming Headset - Leigrijs (PS5/PS4/Xbox Series X/S/Xbox One/PC/Nintendo Switch/Mobile Devices)",
       "url": "https://www.bol.com/nl/nl/p/corsair-virtuoso-rgb-xt-draadloze-gaming-headset-ps5-4-xbox-series-x-s-xbox-one-pc/9300000042145611/",
-      "image": "https://media.s-bol.com/RM9oZorOX4M0/j2k16oy/550x654.jpg",
+      "image": "https://media.s-bol.com/m21vqDjyJEA3/qQBxRw3/550x654.jpg",
       "ph": {
         "2026-11-06": 201.0,
         "2026-11-07": 201.0,
@@ -506,10 +515,11 @@
         "2026-11-22": 159.9,
         "2026-11-23": 159.9,
         "2026-11-24": 159.9,
-        "2026-11-25": 159.9
+        "2026-11-25": 159.9,
+        "2026-11-26": 159.9
       },
       "low_price": 159.9,
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph_ean": "0840006605836",
       "prev_price": 201.0,
       "prev_date": "2026-11-14",
@@ -573,12 +583,13 @@
         "2026-11-22": 96.99,
         "2026-11-23": 94.99,
         "2026-11-24": 97.98,
-        "2026-11-25": 94.0
+        "2026-11-25": 94.0,
+        "2026-11-26": 94.0
       },
       "bol_title": "Turtle Beach Stealth 600p Gen 3 – Draadloze Gaming Headset – PS5, PS4, PC & Switch – Wit",
       "url": "https://www.bol.com/nl/nl/p/turtle-beach-stealth-600p-gen3-draadloos-multiplatform-gaming-headset-wit/9300000178970619/",
       "image": "https://media.s-bol.com/3gpQ4mEEjozx/PNVjpgA/550x721.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "low_price": 94.0,
       "ph_ean": "0731855031030",
       "rating": 4.3,
@@ -616,7 +627,7 @@
       "bol_title": "Razer Blackshark V2 X - Gaming Headset - 7.1 Surround - Voor PC/PS4/Xbox One/Nintendo Switch - Zwart",
       "url": "https://www.bol.com/nl/nl/p/razer-blackshark-v2-x-gaming-headset-geschikt-voor-pc-consoles-zwart/9300000003894968/",
       "image": "https://media.s-bol.com/xrRKrxWGAk93/lOXB7gg/550x696.jpg",
-      "synced": "2026-11-25",
+      "synced": "2026-11-26",
       "ph": {
         "2026-10-21": 44.99,
         "2026-10-23": 44.99,
@@ -651,7 +662,8 @@
         "2026-11-22": 40.99,
         "2026-11-23": 40.99,
         "2026-11-24": 40.99,
-        "2026-11-25": 41.99
+        "2026-11-25": 41.99,
+        "2026-11-26": 41.99
       },
       "low_price": 40.99,
       "prev_price": 40.99,

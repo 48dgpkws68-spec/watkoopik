@@ -56,17 +56,18 @@
       "image": "https://media.s-bol.com/yLWYx0X518Og/lREjyrJ/364x840.jpg",
       "ph": {
         "2026-11-24": 99.99,
-        "2026-11-25": 99.99
+        "2026-11-25": 99.99,
+        "2026-11-26": 99.99
       },
       "low_price": 99.99,
       "ph_ean": "8720967792108",
       "rating": 5.0,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Black Box Trees",
       "name": "Charlton smal 185 cm",
-      "price": 39.92,
+      "price": 39.65,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,8 van 5",
@@ -96,14 +97,15 @@
       "image": "https://media.s-bol.com/0Qrg6nLzKZ8L/BNvL7QY/253x840.jpg",
       "ph": {
         "2026-11-24": 38.93,
-        "2026-11-25": 39.92
+        "2026-11-25": 39.92,
+        "2026-11-26": 39.65
       },
       "low_price": 38.93,
       "ph_ean": "8720967840212",
       "rating": 4.8,
-      "synced": "2026-11-25",
-      "prev_price": 38.93,
-      "prev_date": "2026-11-24"
+      "synced": "2026-11-26",
+      "prev_price": 39.92,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Royal Christmas",
@@ -138,17 +140,18 @@
       "image": "https://media.s-bol.com/mx9Evy4MBLQp/GZXnGn5/454x840.jpg",
       "ph": {
         "2026-11-24": 149.0,
-        "2026-11-25": 149.0
+        "2026-11-25": 149.0,
+        "2026-11-26": 149.0
       },
       "low_price": 149.0,
       "ph_ean": "8717931858038",
       "rating": 5.0,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Triumph Tree",
       "name": "Bristlecone Pilar smal 185 cm",
-      "price": 104.85,
+      "price": 89.99,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -178,12 +181,15 @@
       "image": "https://media.s-bol.com/J5gQXz3qLw1y/OMRLoXr/350x840.jpg",
       "ph": {
         "2026-11-24": 104.84,
-        "2026-11-25": 104.85
+        "2026-11-25": 104.85,
+        "2026-11-26": 89.99
       },
-      "low_price": 104.84,
+      "low_price": 89.99,
       "ph_ean": "8720967792153",
       "rating": 4.9,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26",
+      "prev_price": 104.85,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "KJ Kunstkerstbomen",
@@ -218,10 +224,11 @@
       "url": "https://www.bol.com/nl/nl/p/kj-kunstkerstbomen-kunstkerstboom-minnesota-besneeuwd-met-ledverlichting-180-cm/9300000405967432/",
       "image": "https://media.s-bol.com/E37yNJ8wrzM4/J87jB4y/285x840.jpg",
       "ph": {
-        "2026-11-25": 199.0
+        "2026-11-25": 199.0,
+        "2026-11-26": 199.0
       },
       "low_price": 199.0,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Everlands",
@@ -256,11 +263,12 @@
       "image": "https://media.s-bol.com/oxkynkyLDELB/5732qEA/250x200.jpg",
       "ph": {
         "2026-11-24": 64.95,
-        "2026-11-25": 64.95
+        "2026-11-25": 64.95,
+        "2026-11-26": 64.95
       },
       "low_price": 64.95,
       "ph_ean": "8720194550601",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Triumph Tree",
@@ -295,12 +303,13 @@
       "image": "https://media.s-bol.com/8QrQBrlAmp2j/36JR1n9/334x840.jpg",
       "ph": {
         "2026-11-24": 64.99,
-        "2026-11-25": 64.99
+        "2026-11-25": 64.99,
+        "2026-11-26": 64.99
       },
       "low_price": 64.99,
       "ph_ean": "8720967792054",
       "rating": 4.0,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "COSTWAY",
@@ -335,16 +344,17 @@
       "image": "https://media.s-bol.com/kqx6yxnKm9Lv/LZBBqzj/550x600.jpg",
       "ph": {
         "2026-11-24": 69.99,
-        "2026-11-25": 69.99
+        "2026-11-25": 69.99,
+        "2026-11-26": 69.99
       },
       "low_price": 69.99,
       "ph_ean": "0602226069931",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     },
     {
       "brand": "Treb",
       "name": "Classic Pencil Pine 180 cm",
-      "price": 30.4,
+      "price": 29.89,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -374,12 +384,15 @@
       "image": "https://media.s-bol.com/R342X809OnKz/qQqgMR2/250x200.jpg",
       "ph": {
         "2026-11-24": 30.4,
-        "2026-11-25": 30.4
+        "2026-11-25": 30.4,
+        "2026-11-26": 29.89
       },
-      "low_price": 30.4,
+      "low_price": 29.89,
       "ph_ean": "8718533070835",
       "rating": 4.6,
-      "synced": "2026-11-25"
+      "synced": "2026-11-26",
+      "prev_price": 30.4,
+      "prev_date": "2026-11-25"
     },
     {
       "brand": "Begoods",
@@ -414,11 +427,12 @@
       "image": "https://media.s-bol.com/B3xy3Yg135ko/w0zm55r/550x613.jpg",
       "ph": {
         "2026-11-24": 49.95,
-        "2026-11-25": 49.95
+        "2026-11-25": 49.95,
+        "2026-11-26": 49.95
       },
       "low_price": 49.95,
       "ph_ean": "8721746270817",
-      "synced": "2026-11-25"
+      "synced": "2026-11-26"
     }
   ],
   "guide": [
