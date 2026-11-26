@@ -361,3 +361,5 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-loopband-onder-bureau-onder-300-euro | sport | loopband onder bureau onder 300 euro | De 10 beste loopbanden onder je bureau onder 300 euro van 2026 | 🚶 (google_wacht, N50 25 nov 04:35: loopband-onder-bureau 14 ChatGPT-bezoekers 7d)
 [x] beste-dashcam-onder-100-euro | elektronica | dashcam onder 100 euro | De 10 beste dashcams onder 100 euro van 2026 | 🚗 (google_wacht)
 [x] beste-tv-50-inch-onder-500-euro | elektronica | tv 50 inch onder 500 euro | De 10 beste 50 inch tv's onder 500 euro van 2026 | 📺 (google_wacht)
+[x] beste-tv-43-inch-onder-400-euro | elektronica | 43 inch tv onder 400 euro | De 10 beste tv's van 43 inch onder 400 euro van 2026 | 📺 (google_wacht, N50 26 nov: tv 43 inch onder 300 10 en tv onder 400 5 ChatGPT-bezoekers per week; gelinkt vanuit 43-inch-onder-300 via rel, 43-inch en onder-400 via combi_html; nog niet gebouwd)
+[x] beste-tv-32-inch-onder-200-euro | elektronica | 32 inch tv onder 200 euro | De 10 beste tv's van 32 inch onder 200 euro van 2026 | 📺 (google_wacht, N50 26 nov: gekozen omdat beste-tv-85-inch-onder-1000-euro afviel, bij bol maar 7 tv's van 85 inch onder 1000 euro)
