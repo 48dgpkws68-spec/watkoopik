@@ -376,3 +376,7 @@ Formaat: slug | cat | query | titel | emoji
 # ChatGPT-spoor 26 nov 2026 ochtend (C2: tv en kunstkerstboom)
 [x] beste-oled-tv-55-inch | elektronica | oled tv 55 inch | De 10 beste OLED-tv's van 55 inch van 2026 | 📺
 [x] beste-kunstkerstboom-met-verlichting-150-cm | wonen | kunstkerstboom met verlichting 150 cm | De 10 beste kunstkerstbomen met verlichting van 150 cm van 2026 | 🎄
+
+# ChatGPT-spoor 27 nov 2026 (ochtend): smalle varianten in de families tv en kunstkerstboom
+[x] beste-tv-24-inch | elektronica | tv 24 inch | Beste tv 24 inch 2026 | 📺
+[x] beste-kunstkerstboom-120-cm | wonen | kunstkerstboom 120 cm | Beste kunstkerstboom 120 cm 2026 | 🎄

@@ -835,7 +835,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "4fba02142ec94caec46ba2e7bfd5d84e039a8c27",
+  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
   "_ps": [
    {
     "brand": "Philips",
@@ -893,7 +893,7 @@
   "start": "2026-10-21",
   "n": 10,
   "events": [],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
   "_ps": [
    {
     "brand": "WOOOD",
@@ -933,7 +933,7 @@
    {
     "brand": "Beliani",
     "name": "Rokke elektrisch verstelbare hoekbank",
-    "ean": "4251682262453"
+    "ean": "4251682262460"
    },
    {
     "brand": "Lisomme",
@@ -1358,9 +1358,19 @@
     "in": "HP OmniBook 3 14-hz0714ndx Snapdragon X 16 GB 512 GB",
     "plek": 5,
     "paar": true
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "HP OmniBook 3 14-hz0714ndx Snapdragon X 16 GB 512 GB",
+    "in": "HP OmniBook 3 14-hz0710ndx Snapdragon X 8 GB 512 GB",
+    "plek": 5,
+    "paar": true,
+    "waarom": "bol verkoopt alleen nog de uitvoering met 8 GB werkgeheugen",
+    "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
   "_ps": [
    {
     "brand": "Apple",
@@ -1384,8 +1394,8 @@
    },
    {
     "brand": "HP",
-    "name": "OmniBook 3 14-hz0714ndx Snapdragon X 16 GB 512 GB",
-    "ean": "0826581670353"
+    "name": "OmniBook 3 14-hz0710ndx Snapdragon X 8 GB 512 GB",
+    "ean": "0826581670322"
    },
    {
     "brand": "Lenovo",
@@ -1660,7 +1670,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "4fba02142ec94caec46ba2e7bfd5d84e039a8c27",
+  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
   "_ps": [
    {
     "brand": "LG",
@@ -1958,7 +1968,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "4fba02142ec94caec46ba2e7bfd5d84e039a8c27",
+  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
   "_ps": [
    {
     "brand": "LG",
@@ -2342,7 +2352,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
   "_ps": [
    {
     "brand": "Hisense",
@@ -2419,7 +2429,7 @@
     "paar": true
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
   "_ps": [
    {
     "brand": "Royal Christmas",
@@ -2477,7 +2487,7 @@
   "start": "2026-11-06",
   "n": 10,
   "events": [],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
   "_ps": [
    {
     "brand": "Everlands",
@@ -2770,7 +2780,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
   "_ps": [
    {
     "brand": "Xiaomi",
