@@ -22,7 +22,7 @@
     {
       "brand": "Bosch",
       "name": "EasyDrill 18V-40 met 2,0 Ah-accu en lader",
-      "price": 77.89,
+      "price": 78.09,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,6 van 5",
@@ -55,12 +55,13 @@
       "ph": {
         "2026-11-24": 83.99,
         "2026-11-25": 83.99,
-        "2026-11-26": 77.89
+        "2026-11-26": 77.89,
+        "2026-11-27": 78.09
       },
       "low_price": 77.89,
-      "synced": "2026-11-26",
-      "prev_price": 83.99,
-      "prev_date": "2026-11-25"
+      "synced": "2026-11-27",
+      "prev_price": 77.89,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "Bosch",
@@ -93,7 +94,7 @@
       "bol_title": "Bosch AdvancedDrill 18V-80 QuickSnap 06039E2004 Accu-schroefboormachine 18.0 V",
       "url": "https://www.bol.com/nl/nl/p/bosch-home-and-garden-advanceddrill-18v-80-quicksnap-06039e2004-accu-schroefboormachine-18-0-v/9300000182925050/",
       "image": "https://media.s-bol.com/0Kp3Q0p7Q6QN/98M3E43/550x550.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-19": 192.99,
         "2026-10-20": 191.99,
@@ -131,7 +132,8 @@
         "2026-11-23": 172.03,
         "2026-11-24": 194.99,
         "2026-11-25": 194.99,
-        "2026-11-26": 194.99
+        "2026-11-26": 194.99,
+        "2026-11-27": 194.99
       },
       "low_price": 155.92,
       "prev_price": 172.03,
@@ -169,7 +171,7 @@
       "bol_title": "Makita Accuboor-/schroefmachine DF333DSAE 10,8V incl. 2x 2,0Ah accus & opbergkoffer",
       "url": "https://www.bol.com/nl/nl/p/makita-accuboor-schroefmachine-df333dsae-10-8v-incl-2x-2-0ah-accus-opbergkoffer/9200000107831244/",
       "image": "https://media.s-bol.com/VrqZJpDRRmO/550x778.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-14": 167.0,
         "2026-10-15": 167.0,
@@ -212,7 +214,8 @@
         "2026-11-23": 167.0,
         "2026-11-24": 167.0,
         "2026-11-25": 167.0,
-        "2026-11-26": 167.0
+        "2026-11-26": 167.0,
+        "2026-11-27": 167.0
       },
       "low_price": 159.87,
       "prev_price": 159.87,
@@ -251,7 +254,7 @@
       "bol_title": "VONROC Accuboormachine 20V – 19 schroefstanden + boorstand - Incl. 2x 2.0Ah accu, snellader en 46 accessoires in luxe koffer",
       "url": "https://www.bol.com/nl/nl/p/vonroc-accuboormachine-20v-19-schroefstanden-boorstand-incl-2x-2-0ah-accu-snellader-en-46-accessoires-in-luxe-koffer/9300000222709450/",
       "image": "https://media.s-bol.com/YLRMvl836y0Y/oYJ0zWY/550x542.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-19": 64.95,
         "2026-10-20": 64.95,
@@ -289,7 +292,8 @@
         "2026-11-23": 60.95,
         "2026-11-24": 60.95,
         "2026-11-25": 59.95,
-        "2026-11-26": 59.95
+        "2026-11-26": 59.95,
+        "2026-11-27": 59.95
       },
       "low_price": 59.95,
       "ph_ean": "8717479113231",
@@ -327,7 +331,7 @@
       "bol_title": "Bosch UniversalDrill 18V-60 Accuschroefboormachine - Met 2x 18 V Li-Ion accu (2,0 Ah) en lader",
       "url": "https://www.bol.com/nl/nl/p/bosch-universaldrill-18v-60-accuschroefboormachine-met-2x-18-v-li-ion-accu-en-lader/9300000074273874/",
       "image": "https://media.s-bol.com/w3mrQM1vYY0r/1jRnVWG/550x660.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-19": 114.95,
         "2026-10-20": 114.95,
@@ -365,7 +369,8 @@
         "2026-11-23": 110.0,
         "2026-11-24": 113.84,
         "2026-11-25": 117.41,
-        "2026-11-26": 127.0
+        "2026-11-26": 127.0,
+        "2026-11-27": 127.0
       },
       "low_price": 107.69,
       "prev_price": 117.41,
@@ -418,10 +423,11 @@
         "2026-11-23": 119.64,
         "2026-11-24": 119.64,
         "2026-11-25": 119.64,
-        "2026-11-26": 119.64
+        "2026-11-26": 119.64,
+        "2026-11-27": 119.64
       },
       "low_price": 119.64,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Metabo",
@@ -453,7 +459,7 @@
       "bol_title": "Metabo Powermaxx BS Basic 10.8V Li-Ion accu boor-/schroefmachine set (2x 2.0Ah accu)",
       "url": "https://www.bol.com/nl/nl/p/metabo-powermaxx-bs-basic-10-8v-li-ion-accu-boor-schroefmachine-set/9300000014699343/",
       "image": "https://media.s-bol.com/V049P3llrJ2B/wmBjXZg/550x453.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-19": 107.9,
         "2026-10-20": 107.9,
@@ -491,7 +497,8 @@
         "2026-11-23": 105.0,
         "2026-11-24": 105.0,
         "2026-11-25": 105.0,
-        "2026-11-26": 105.0
+        "2026-11-26": 105.0,
+        "2026-11-27": 105.0
       },
       "low_price": 101.0,
       "prev_price": 104.43,
@@ -502,7 +509,7 @@
     {
       "brand": "Makita",
       "name": "HP333DWAE",
-      "price": 150.01,
+      "price": 149.28,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -548,12 +555,13 @@
         "2026-11-23": 145.99,
         "2026-11-24": 145.99,
         "2026-11-25": 169.95,
-        "2026-11-26": 150.01
+        "2026-11-26": 150.01,
+        "2026-11-27": 149.28
       },
       "low_price": 131.0,
-      "synced": "2026-11-26",
-      "prev_price": 169.95,
-      "prev_date": "2026-11-25",
+      "synced": "2026-11-27",
+      "prev_price": 150.01,
+      "prev_date": "2026-11-26",
       "ph_ean": "0088381872973",
       "rating": 5.0
     },
@@ -587,7 +595,7 @@
       "bol_title": "BLACK+DECKER 18V schroefboormachine kit met accessoires flightcase - BDCDC18BAFC-QW",
       "url": "https://www.bol.com/nl/nl/p/black-decker-bdcd18bafc-qw-accuboormachine-kit-18v-80-accessoires-incl-2-accu-s-en-lader/9200000064428365/",
       "image": "https://media.s-bol.com/YEEW06O94Pl0/550x639.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-19": 80.07,
         "2026-10-20": 80.07,
@@ -625,7 +633,8 @@
         "2026-11-23": 77.09,
         "2026-11-24": 77.09,
         "2026-11-25": 77.09,
-        "2026-11-26": 77.09
+        "2026-11-26": 77.09,
+        "2026-11-27": 77.09
       },
       "low_price": 77.09,
       "prev_price": 89.39,
@@ -664,7 +673,7 @@
       "bol_title": "Einhell Accuboormachine TE-CD 12/1 X-Li incl. oplader en 2,0 Ah accu",
       "url": "https://www.bol.com/nl/nl/p/einhell-accuboormachine-te-cd-12-1-x-li-incl-oplader-en-2-0-ah-accu/9300000047788724/",
       "image": "https://media.s-bol.com/VZnVn3yMJNW9/5QBDW8/550x539.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-19": 79.99,
         "2026-10-20": 79.99,
@@ -702,7 +711,8 @@
         "2026-11-23": 79.99,
         "2026-11-24": 79.99,
         "2026-11-25": 79.99,
-        "2026-11-26": 79.99
+        "2026-11-26": 79.99,
+        "2026-11-27": 79.99
       },
       "low_price": 79.99,
       "ph_ean": "4006825628685"

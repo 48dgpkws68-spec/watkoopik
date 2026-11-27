@@ -65,12 +65,13 @@
       "url": "https://www.bol.com/nl/nl/p/lg-c5-oled55c56lb-55-inch-4k-oled-evo-2025/9300000229413535/",
       "image": "https://media.s-bol.com/rxgkOlMjBQ7p/wpz1y7M/550x343.jpg",
       "ph": {
-        "2026-11-26": 999.0
+        "2026-11-26": 999.0,
+        "2026-11-27": 999.0
       },
       "low_price": 999.0,
       "ph_ean": "8806096361924",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "LG",
@@ -105,12 +106,13 @@
       "url": "https://www.bol.com/nl/nl/p/lg-b5-oled55b56la-55-inch-4k-oled-2025/9300000229178469/",
       "image": "https://media.s-bol.com/oryjWjxALw2k/jRjPLg4/550x349.jpg",
       "ph": {
-        "2026-11-26": 799.0
+        "2026-11-26": 799.0,
+        "2026-11-27": 799.0
       },
       "low_price": 799.0,
       "ph_ean": "8806096360576",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "LG",
@@ -145,17 +147,18 @@
       "url": "https://www.bol.com/nl/nl/p/lg-g5-oled55g56ls-55-inch-4k-oled-evo-2025/9300000229178465/",
       "image": "https://media.s-bol.com/mpyYWq6Dwyz9/kRkPDjv/550x341.jpg",
       "ph": {
-        "2026-11-26": 1349.0
+        "2026-11-26": 1349.0,
+        "2026-11-27": 1349.0
       },
       "low_price": 1349.0,
       "ph_ean": "8806096363683",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Samsung",
       "name": "QE55S95H",
-      "price": 1549.0,
+      "price": 1489.0,
       "score": 8.9,
       "label": "Beste premium",
       "reviews": "bol-score 4,5 van 5",
@@ -185,20 +188,23 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-qe55s95hftxxn-qd-oled-55-inch/9300000278287560/",
       "image": "https://media.s-bol.com/qv8gzxxjxy42/Oyqq1Mg/550x487.jpg",
       "ph": {
-        "2026-11-26": 1549.0
+        "2026-11-26": 1549.0,
+        "2026-11-27": 1489.0
       },
-      "low_price": 1549.0,
+      "low_price": 1489.0,
       "ph_ean": "8806099136109",
       "rating": 4.5,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27",
+      "prev_price": 1549.0,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "LG",
       "name": "C6 OLED55C64LA",
-      "price": 1199.0,
+      "price": 1099.0,
       "score": 8.8,
       "label": null,
-      "reviews": "",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "De C-serie van 2026 met 165 Hz en α11-processor.",
       "specs": {
         "Paneel": "OLED evo",
@@ -225,11 +231,15 @@
       "url": "https://www.bol.com/nl/nl/p/lg-c6-oled55c64la-55-inch-4k-oled-2026-smart-tv/9300000290120821/",
       "image": "https://media.s-bol.com/ggWpV63yoBD3/XolWmBm/550x316.jpg",
       "ph": {
-        "2026-11-26": 1199.0
+        "2026-11-26": 1199.0,
+        "2026-11-27": 1099.0
       },
-      "low_price": 1199.0,
+      "low_price": 1099.0,
       "ph_ean": "8806096685815",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27",
+      "prev_price": 1199.0,
+      "prev_date": "2026-11-26",
+      "rating": 4.0
     },
     {
       "brand": "Sony",
@@ -264,17 +274,18 @@
       "url": "https://www.bol.com/nl/nl/p/sony-bravia-6-55-inch-4k-oled-2026-smart-tv/9300000360795475/",
       "image": "https://media.s-bol.com/3LPKEPrGkEBO/A6ABKMj/550x367.jpg",
       "ph": {
-        "2026-11-26": 1199.0
+        "2026-11-26": 1199.0,
+        "2026-11-27": 1199.0
       },
       "low_price": 1199.0,
       "ph_ean": "4548736182851",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Philips",
       "name": "Ambilight 55OLED911",
-      "price": 1699.0,
+      "price": 1599.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -304,12 +315,15 @@
       "url": "https://www.bol.com/nl/nl/p/philips-55oled911-12-55-inch-4k-oled-2026-smart-tv/9300000301588080/",
       "image": "https://media.s-bol.com/477vvBQ0Lyy1/l5ojEw7/550x250.jpg",
       "ph": {
-        "2026-11-26": 1699.0
+        "2026-11-26": 1699.0,
+        "2026-11-27": 1599.0
       },
-      "low_price": 1699.0,
+      "low_price": 1599.0,
       "ph_ean": "8718863052075",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27",
+      "prev_price": 1699.0,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "LG",
@@ -344,12 +358,13 @@
       "url": "https://www.bol.com/nl/nl/p/lg-g6-oled55g69ls-55-inch-4k-oled-2025-smart-tv/9300000270241067/",
       "image": "https://media.s-bol.com/Jml498ppZNAP/591387A/550x315.jpg",
       "ph": {
-        "2026-11-26": 1599.0
+        "2026-11-26": 1599.0,
+        "2026-11-27": 1599.0
       },
       "low_price": 1599.0,
       "ph_ean": "8806096685952",
       "rating": 4.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Philips",
@@ -380,20 +395,21 @@
       "ideal": "Wie Ambilight wil op een OLED-tv van 55 inch zonder de prijs van het topmodel.",
       "text": "De Philips 55OLED801/12 kost 1099 euro en is een model uit 2026 met OLED en Ambilight. De leds achter het scherm kleuren de muur mee met het beeld. In een donkere kamer oogt een scherm van 55 inch daardoor groter en is kijken rustiger voor je ogen. De omschrijving bij bol noemt Dolby Vision en Dolby Atmos, HDMI 2.1 en een verversing van 120 Hz. In de specificaties staan vier HDMI-aansluitingen met eARC en VRR met G-Sync en FreeSync.\n\nEen kanttekening: de gegevens bij bol zijn bij dit model niet overal consistent. De omschrijving noemt Titan OS, het specificatieveld een ander systeem. Wij gaan uit van Titan OS, het systeem van de andere Philips-tv's uit 2026. Dat heeft de grote streamingdiensten maar minder kleine apps dan webOS of Google TV. De speakers leveren 20 watt en het energielabel is F. Er staat nog geen score bij bol. Bol toont 1599 euro als doorgestreepte prijs. De LG C5 is 100 euro goedkoper en haalt 144 Hz, dus kies de Philips om Ambilight.",
       "ean": "8718863056172",
-      "bol_title": "Philips Ambilight 55OLED801/12 - 55 inch - 4K OLED - 2026",
+      "bol_title": "Philips Ambilight 55OLED801/12 - 55 inch - 4K OLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-55oled801-12-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000350127247/",
       "image": "https://media.s-bol.com/nKpoODW65DX4/OMxmmXB/550x339.jpg",
       "ph": {
-        "2026-11-26": 1099.0
+        "2026-11-26": 1099.0,
+        "2026-11-27": 1099.0
       },
       "low_price": 1099.0,
       "ph_ean": "8718863056172",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Samsung",
       "name": "QE55S83H",
-      "price": 899.0,
+      "price": 849.0,
       "score": 8.1,
       "label": null,
       "reviews": "",
@@ -423,11 +439,14 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-qe55s83h-55-inch-4k-oled-2026-smart-tv/9300000284305523/",
       "image": "https://media.s-bol.com/gmyLx9NvqOB9/36jBYRx/550x347.jpg",
       "ph": {
-        "2026-11-26": 899.0
+        "2026-11-26": 899.0,
+        "2026-11-27": 849.0
       },
-      "low_price": 899.0,
+      "low_price": 849.0,
       "ph_ean": "8806097979609",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27",
+      "prev_price": 899.0,
+      "prev_date": "2026-11-26"
     }
   ],
   "guide": [

@@ -76,10 +76,11 @@
         "2026-11-23": 999.0,
         "2026-11-24": 999.0,
         "2026-11-25": 999.0,
-        "2026-11-26": 999.0
+        "2026-11-26": 999.0,
+        "2026-11-27": 999.0
       },
       "low_price": 999.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "4242005376902"
     },
     {
@@ -112,7 +113,7 @@
       "bol_title": "Samsung WD90DG5B15BH 5000-serie -Was-droogcombinatie - EcoBubble™ - 9/6 kg",
       "url": "https://www.bol.com/nl/nl/p/samsung-wd90dg5b15bh-5000-serie-was-droogcombinatie-ecobubble-9-6-kg/9300000183388881/",
       "image": "https://media.s-bol.com/6AZkvX7o8xP7/AD9pk43/550x770.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-20": 690.0,
         "2026-10-21": 690.0,
@@ -149,7 +150,8 @@
         "2026-11-23": 690.0,
         "2026-11-24": 690.0,
         "2026-11-25": 690.0,
-        "2026-11-26": 690.0
+        "2026-11-26": 690.0,
+        "2026-11-27": 690.0
       },
       "low_price": 690.0,
       "ph_ean": "8806095589473",
@@ -188,10 +190,11 @@
       "url": "https://www.bol.com/nl/nl/p/siemens-wn54c2a0eu-iq700-was-droogcombinatie-10-kilo/9300000174897448/",
       "image": "https://media.s-bol.com/NBonQL3yozNv/5yRWzQv/550x766.jpg",
       "ph": {
-        "2026-11-26": 1184.0
+        "2026-11-26": 1184.0,
+        "2026-11-27": 1184.0
       },
       "low_price": 1184.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "AEG",
@@ -223,7 +226,7 @@
       "bol_title": "AEG LWR75Q164 7000 ProSteam® - Was-droogcombinatie - Autodose - Condensatie - 10 kg - NL/FR",
       "url": "https://www.bol.com/nl/nl/p/aeg-lwr75q164-7000-prosteam-was-droogcombinatie-autodose-condensatie-10-kg/9300000134929312/",
       "image": "https://media.s-bol.com/Bj6XrAm09j3J/mBlYLr/550x771.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-20": 993.3,
         "2026-10-21": 993.3,
@@ -260,7 +263,8 @@
         "2026-11-23": 982.53,
         "2026-11-24": 982.53,
         "2026-11-25": 982.54,
-        "2026-11-26": 979.0
+        "2026-11-26": 979.0,
+        "2026-11-27": 979.0
       },
       "low_price": 979.0,
       "prev_price": 982.54,
@@ -270,7 +274,7 @@
     {
       "brand": "LG",
       "name": "W4X1095NWB",
-      "price": 630.0,
+      "price": 629.0,
       "score": 8.8,
       "label": null,
       "reviews": "",
@@ -319,12 +323,13 @@
         "2026-11-23": 629.0,
         "2026-11-24": 629.0,
         "2026-11-25": 630.0,
-        "2026-11-26": 630.0
+        "2026-11-26": 630.0,
+        "2026-11-27": 629.0
       },
       "low_price": 613.0,
-      "synced": "2026-11-26",
-      "prev_price": 629.0,
-      "prev_date": "2026-11-24",
+      "synced": "2026-11-27",
+      "prev_price": 630.0,
+      "prev_date": "2026-11-26",
       "ph_ean": "8806096142653"
     },
     {
@@ -357,7 +362,7 @@
       "bol_title": "Samsung AI Wash was-droogcombinatie 6000-serie WD90DG6B85BK",
       "url": "https://www.bol.com/nl/nl/p/samsung-ai-wash-was-droogcombinatie-6000-serie-wd90dg6b85bk/9300000183388882/",
       "image": "https://media.s-bol.com/N64NBZ6mOlmK/0RXKNPy/550x756.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-20": 749.0,
         "2026-10-21": 749.0,
@@ -394,7 +399,8 @@
         "2026-11-23": 749.0,
         "2026-11-24": 749.0,
         "2026-11-25": 749.0,
-        "2026-11-26": 749.0
+        "2026-11-26": 749.0,
+        "2026-11-27": 749.0
       },
       "low_price": 749.0,
       "ph_ean": "8806095589589",
@@ -430,7 +436,7 @@
       "bol_title": "Bosch WNA13400NL - Serie 4 - Was-droogcombinatie Extra Stil - Wassen en drogen in 1 keer - 8KG/5KG - SpeedPerfect, tot 65% sneller wassen - Met stoom",
       "url": "https://www.bol.com/nl/nl/p/bosch-wna13400nl-serie-4-was-droogcombinatie/9300000020550028/",
       "image": "https://media.s-bol.com/7Ok9lQBkN4GG/k85KMKX/550x769.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-20": 749.0,
         "2026-10-21": 749.0,
@@ -467,7 +473,8 @@
         "2026-11-23": 749.0,
         "2026-11-24": 749.0,
         "2026-11-25": 749.0,
-        "2026-11-26": 749.0
+        "2026-11-26": 749.0,
+        "2026-11-27": 749.0
       },
       "low_price": 749.0,
       "ph_ean": "4242005250110",
@@ -476,7 +483,7 @@
     {
       "brand": "Beko",
       "name": "B5DT510446W AutoDose",
-      "price": 549.99,
+      "price": 529.0,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,0 van 5",
@@ -504,7 +511,7 @@
       "bol_title": "Beko B5DT510446W - AutoDose - RecycledTub™ - Was-droogcombinatie",
       "url": "https://www.bol.com/nl/nl/p/beko-b3dt58447w-recycledtub-was-droogcombinatie/9300000119917781/",
       "image": "https://media.s-bol.com/3p6nQ0Xr5xY9/5OLk4A/550x825.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-24": 552.99,
         "2026-10-25": 552.99,
@@ -538,11 +545,12 @@
         "2026-11-23": 529.0,
         "2026-11-24": 529.0,
         "2026-11-25": 529.0,
-        "2026-11-26": 549.99
+        "2026-11-26": 549.99,
+        "2026-11-27": 529.0
       },
       "low_price": 529.0,
-      "prev_price": 529.0,
-      "prev_date": "2026-11-25",
+      "prev_price": 549.99,
+      "prev_date": "2026-11-26",
       "ph_ean": "8690842533372",
       "rating": 4.0
     },
@@ -581,11 +589,12 @@
         "2026-11-23": 583.38,
         "2026-11-24": 583.38,
         "2026-11-25": 583.38,
-        "2026-11-26": 583.38
+        "2026-11-26": 583.38,
+        "2026-11-27": 583.38
       },
       "low_price": 583.38,
       "ph_ean": "8059019105093",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Hisense",
@@ -640,10 +649,11 @@
         "2026-11-23": 499.0,
         "2026-11-24": 499.0,
         "2026-11-25": 499.0,
-        "2026-11-26": 499.0
+        "2026-11-26": 499.0,
+        "2026-11-27": 499.0
       },
       "low_price": 499.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 515.0,
       "prev_date": "2026-11-05",
       "ph_ean": "6901101830166",

@@ -75,10 +75,11 @@
         "2026-11-23": 19.99,
         "2026-11-24": 19.99,
         "2026-11-25": 19.99,
-        "2026-11-26": 19.99
+        "2026-11-26": 19.99,
+        "2026-11-27": 19.99
       },
       "low_price": 19.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "8721017608868",
       "prev_price": 22.95,
       "prev_date": "2026-11-20",
@@ -90,7 +91,7 @@
       "price": 21.99,
       "score": 9.1,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Mandalorian-thema met Grogu in kersttrui en zeven minivoertuigen.",
       "specs": {
         "Voor wie": "Kinderen en Star Wars-fans",
@@ -138,14 +139,15 @@
         "2026-11-23": 21.99,
         "2026-11-24": 21.99,
         "2026-11-25": 21.99,
-        "2026-11-26": 21.99
+        "2026-11-26": 21.99,
+        "2026-11-27": 21.99
       },
       "low_price": 21.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 23.99,
       "prev_date": "2026-11-14",
       "ph_ean": "5702018062470",
-      "rating": 4.7
+      "rating": 4.8
     },
     {
       "brand": "LEGO",
@@ -153,7 +155,7 @@
       "price": 16.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 5,0 van 5",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Drie poppetjes en zes dieren voor minder dan 20 euro.",
       "specs": {
         "Voor wie": "Kinderen die graag rollenspellen spelen",
@@ -201,14 +203,15 @@
         "2026-11-23": 17.99,
         "2026-11-24": 16.99,
         "2026-11-25": 16.99,
-        "2026-11-26": 16.99
+        "2026-11-26": 16.99,
+        "2026-11-27": 16.99
       },
       "low_price": 16.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 17.99,
       "prev_date": "2026-11-23",
       "ph_ean": "5702018054697",
-      "rating": 5.0
+      "rating": 4.9
     },
     {
       "brand": "Yves Rocher",
@@ -264,10 +267,11 @@
         "2026-11-23": 46.99,
         "2026-11-24": 46.99,
         "2026-11-25": 46.99,
-        "2026-11-26": 46.99
+        "2026-11-26": 46.99,
+        "2026-11-27": 46.99
       },
       "low_price": 46.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "3660005424958",
       "rating": 5.0,
       "prev_price": 51.99,
@@ -324,10 +328,11 @@
         "2026-11-23": 71.99,
         "2026-11-24": 71.99,
         "2026-11-25": 67.99,
-        "2026-11-26": 63.0
+        "2026-11-26": 63.0,
+        "2026-11-27": 63.0
       },
       "low_price": 63.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "bol_title": "NIVEA Adventskalender Vrouwen 2026 – Geschenkset met 24 Verzorgende NIVEA Mini’s en Accessoires - Giftset - Aftelkalender - Kerstkalender - Sint Cadeau",
       "url": "https://www.bol.com/nl/nl/p/nivea-adventskalender-vrouwen-2025-kerst-en-sinterklaas-geschenkset-met-24-verzorgende-nivea-mini-s-en-accessoires-kerstcadeau/9300000239540729/",
       "image": "https://media.s-bol.com/BZKvVNWQxvqJ/y8vVvn6/550x363.jpg",
@@ -390,10 +395,11 @@
         "2026-11-23": 34.99,
         "2026-11-24": 32.99,
         "2026-11-25": 32.99,
-        "2026-11-26": 32.99
+        "2026-11-26": 32.99,
+        "2026-11-27": 32.99
       },
       "low_price": 32.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 34.99,
       "prev_date": "2026-11-23",
       "ph_ean": "8721184285022",
@@ -402,7 +408,7 @@
     {
       "brand": "Pukka",
       "name": "Adventskalender 2026",
-      "price": 12.44,
+      "price": 9.65,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -453,12 +459,13 @@
         "2026-11-23": 10.95,
         "2026-11-24": 9.89,
         "2026-11-25": 9.65,
-        "2026-11-26": 12.44
+        "2026-11-26": 12.44,
+        "2026-11-27": 9.65
       },
       "low_price": 9.65,
-      "synced": "2026-11-26",
-      "prev_price": 9.65,
-      "prev_date": "2026-11-25",
+      "synced": "2026-11-27",
+      "prev_price": 12.44,
+      "prev_date": "2026-11-26",
       "ph_ean": "5063270119464",
       "rating": 4.6
     },
@@ -468,7 +475,7 @@
       "price": 43.99,
       "score": 8.3,
       "label": null,
-      "reviews": "",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Een kerstwereld op de Noordpool die elke dag verder groeit.",
       "specs": {
         "Voor wie": "Kinderen die van kerst en fantasiespel houden",
@@ -513,18 +520,20 @@
         "2026-11-23": 35.6,
         "2026-11-24": 35.6,
         "2026-11-25": 39.99,
-        "2026-11-26": 43.99
+        "2026-11-26": 43.99,
+        "2026-11-27": 43.99
       },
       "low_price": 26.32,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 39.99,
       "prev_date": "2026-11-25",
-      "ph_ean": "4008789722263"
+      "ph_ean": "4008789722263",
+      "rating": 5.0
     },
     {
       "brand": "Yogi Tea",
       "name": "Adventskalender 2026",
-      "price": 14.55,
+      "price": 16.0,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -554,14 +563,15 @@
       "ph": {
         "2026-11-24": 14.55,
         "2026-11-25": 15.45,
-        "2026-11-26": 14.55
+        "2026-11-26": 14.55,
+        "2026-11-27": 16.0
       },
       "low_price": 14.55,
       "ph_ean": "4012824724136",
       "rating": 5.0,
-      "synced": "2026-11-26",
-      "prev_price": 15.45,
-      "prev_date": "2026-11-25"
+      "synced": "2026-11-27",
+      "prev_price": 14.55,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "Tony's Chocolonely",
@@ -617,10 +627,11 @@
         "2026-11-23": 10.99,
         "2026-11-24": 10.99,
         "2026-11-25": 10.99,
-        "2026-11-26": 10.99
+        "2026-11-26": 10.99,
+        "2026-11-27": 10.99
       },
       "low_price": 10.49,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "8720701146723",
       "prev_price": 11.04,
       "prev_date": "2026-11-20",

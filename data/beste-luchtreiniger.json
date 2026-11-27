@@ -64,10 +64,11 @@
         "2026-11-23": 249.0,
         "2026-11-24": 249.0,
         "2026-11-25": 249.0,
-        "2026-11-26": 239.0
+        "2026-11-26": 239.0,
+        "2026-11-27": 239.0
       },
       "low_price": 239.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 249.0,
       "prev_date": "2026-11-25"
     },
@@ -109,11 +110,12 @@
         "2026-11-23": 132.99,
         "2026-11-24": 132.99,
         "2026-11-25": 132.99,
-        "2026-11-26": 132.99
+        "2026-11-26": 132.99,
+        "2026-11-27": 132.99
       },
       "low_price": 132.99,
       "ph_ean": "8716164992243",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Dyson",
@@ -146,7 +148,7 @@
       "bol_title": "Dyson Purifier Humidify+Cool PH2 De-NOx - Luchtreiniger - Ventilator - HEPA filter - Wit/Goud",
       "url": "https://www.bol.com/nl/nl/p/dyson-purifier-humidify-cool-de-nox-ph05-luchtreiniger-hepa-filter-wit-goud/9300000226721806/",
       "image": "https://media.s-bol.com/mo4vMW8NvJ19/oQBoArk/550x819.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 749.0,
         "2026-10-16": 749.0,
@@ -188,7 +190,8 @@
         "2026-11-23": 649.0,
         "2026-11-24": 649.0,
         "2026-11-25": 649.0,
-        "2026-11-26": 649.0
+        "2026-11-26": 649.0,
+        "2026-11-27": 649.0
       },
       "low_price": 649.0,
       "prev_price": 699.0,
@@ -241,11 +244,12 @@
         "2026-11-23": 265.0,
         "2026-11-24": 265.0,
         "2026-11-25": 265.0,
-        "2026-11-26": 265.0
+        "2026-11-26": 265.0,
+        "2026-11-27": 265.0
       },
       "low_price": 265.0,
       "ph_ean": "0810043373685",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "rating": 4.3,
       "prev_price": 269.0,
       "prev_date": "2026-11-20"
@@ -282,7 +286,7 @@
       "bol_title": "Xiaomi Smart Air Purifier 4 Pro | Luchtreiniger | 500 m³/u CADR | Tot 60 m² | PM2.5 en PM10 sensor | OLED display | App en spraakbediening | Automatische modus",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-smart-air-purifier-4-pro-luchtreiniger/9300000072830557/",
       "image": "https://media.s-bol.com/BWVqEDQE5BAQ/RoO1LRE/345x840.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-14": 249.99,
         "2026-10-15": 249.99,
@@ -325,7 +329,8 @@
         "2026-11-23": 241.99,
         "2026-11-24": 241.99,
         "2026-11-25": 241.99,
-        "2026-11-26": 241.99
+        "2026-11-26": 241.99,
+        "2026-11-27": 241.99
       },
       "low_price": 219.0,
       "prev_price": 219.0,
@@ -396,10 +401,11 @@
         "2026-11-23": 139.99,
         "2026-11-24": 139.99,
         "2026-11-25": 139.99,
-        "2026-11-26": 139.99
+        "2026-11-26": 139.99,
+        "2026-11-27": 139.99
       },
       "low_price": 108.5,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 118.5,
       "prev_date": "2026-11-13",
       "ph_ean": "3121047260800",
@@ -437,7 +443,7 @@
       "bol_title": "Philips Luchtreiniger PureProtect Mini AC0921/14 - Tegen Hooikoorts, Huisstofmijt, Stof en Allergie - HEPA Filter - Ruimtes tot 65 m² - Fluisterstil met Slaapstand - Automatische Stand - Luchtkwaliteitsindicator - Beige",
       "url": "https://www.bol.com/nl/nl/p/philips-pureprotect-mini-900-serie-luchtzuiveraar-ac0921-14/9300000186181889/",
       "image": "https://media.s-bol.com/NqvN0nkJDBPL/xvE01mJ/476x840.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 133.0,
         "2026-10-16": 133.0,
@@ -479,7 +485,8 @@
         "2026-11-23": 99.99,
         "2026-11-24": 99.99,
         "2026-11-25": 99.99,
-        "2026-11-26": 99.99
+        "2026-11-26": 99.99,
+        "2026-11-27": 99.99
       },
       "low_price": 99.99,
       "prev_price": 120.63,
@@ -490,7 +497,7 @@
     {
       "brand": "Levoit",
       "name": "Core 300S",
-      "price": 162.99,
+      "price": 159.99,
       "score": 8.3,
       "reviews": "bol-score 4,6 van 5",
       "oneliner": "Slimme luchtreiniger met app en True HEPA, kleiner dan de Core 400S.",
@@ -536,12 +543,13 @@
         "2026-11-23": 165.99,
         "2026-11-24": 163.99,
         "2026-11-25": 157.99,
-        "2026-11-26": 162.99
+        "2026-11-26": 162.99,
+        "2026-11-27": 159.99
       },
       "low_price": 157.99,
-      "synced": "2026-11-26",
-      "prev_price": 157.99,
-      "prev_date": "2026-11-25",
+      "synced": "2026-11-27",
+      "prev_price": 162.99,
+      "prev_date": "2026-11-26",
       "ph_ean": "0810043373814",
       "rating": 4.6
     },
@@ -577,7 +585,7 @@
       "bol_title": "Coway Airmega 150 Luchtreiniger - Voor ruimtes tot 73m² - HEPA filter + koolstoffilter + Wasbaar pre-filter - 281 m³/u - Tegen stof, pollen en allergenen - Fluisterstil (20 dB) - ECARF & Quiet Mark gecertificeerd - Wit",
       "url": "https://www.bol.com/nl/nl/p/coway-airmega-150-luchtreiniger-met-greenhepa-technologie-wit/9300000075750686/",
       "image": "https://media.s-bol.com/qXgln7xLW3Bk/N3BXLv/550x772.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-13": 219.99,
         "2026-10-14": 219.99,
@@ -621,7 +629,8 @@
         "2026-11-23": 149.99,
         "2026-11-24": 149.99,
         "2026-11-25": 149.99,
-        "2026-11-26": 149.99
+        "2026-11-26": 149.99,
+        "2026-11-27": 149.99
       },
       "low_price": 149.99,
       "prev_price": 219.99,
@@ -635,7 +644,7 @@
       "price": 90.4,
       "score": 7.8,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Compacte, zuinige instapper met app en een stille slaapstand.",
       "specs": {
         "CADR": "180 m3/u",
@@ -669,12 +678,13 @@
         "2026-11-23": 90.4,
         "2026-11-24": 90.4,
         "2026-11-25": 90.4,
-        "2026-11-26": 90.4
+        "2026-11-26": 90.4,
+        "2026-11-27": 90.4
       },
       "low_price": 90.4,
       "ph_ean": "8720389081132",
-      "rating": 4.4,
-      "synced": "2026-11-26",
+      "rating": 4.3,
+      "synced": "2026-11-27",
       "prev_price": 90.5,
       "prev_date": "2026-11-19"
     }

@@ -24,10 +24,10 @@
     {
       "brand": "LEGO",
       "name": "DUPLO Interactieve avonturentrein (10427)",
-      "price": 56.0,
+      "price": 56.1,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "bol-score 5,0 van 5",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Trein die zelf rijdt, licht geeft en stopt op actiestenen.",
       "specs": {
         "Leeftijd fabrikant": "2+",
@@ -57,14 +57,15 @@
         "2026-11-23": 56.1,
         "2026-11-24": 56.1,
         "2026-11-25": 56.1,
-        "2026-11-26": 56.0
+        "2026-11-26": 56.0,
+        "2026-11-27": 56.1
       },
       "low_price": 56.0,
       "ph_ean": "5702017583822",
-      "rating": 5.0,
-      "synced": "2026-11-26",
-      "prev_price": 56.1,
-      "prev_date": "2026-11-25"
+      "rating": 4.9,
+      "synced": "2026-11-27",
+      "prev_price": 56.0,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "LEGO",
@@ -102,12 +103,13 @@
         "2026-11-23": 33.74,
         "2026-11-24": 33.74,
         "2026-11-25": 34.99,
-        "2026-11-26": 34.99
+        "2026-11-26": 34.99,
+        "2026-11-27": 34.99
       },
       "low_price": 33.74,
       "ph_ean": "5702016617757",
       "rating": 4.9,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 33.74,
       "prev_date": "2026-11-24"
     },
@@ -145,16 +147,17 @@
       "ph": {
         "2026-11-24": 31.95,
         "2026-11-25": 31.95,
-        "2026-11-26": 31.95
+        "2026-11-26": 31.95,
+        "2026-11-27": 31.95
       },
       "low_price": 31.95,
       "ph_ean": "5702017567457",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "LEGO",
       "name": "DUPLO 3in1 Boomhut (10993)",
-      "price": 102.94,
+      "price": 103.75,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,9 van 5",
@@ -187,14 +190,15 @@
         "2026-11-23": 104.99,
         "2026-11-24": 104.89,
         "2026-11-25": 102.08,
-        "2026-11-26": 102.94
+        "2026-11-26": 102.94,
+        "2026-11-27": 103.75
       },
       "low_price": 102.08,
       "ph_ean": "5702017417714",
       "rating": 4.9,
-      "synced": "2026-11-26",
-      "prev_price": 102.08,
-      "prev_date": "2026-11-25"
+      "synced": "2026-11-27",
+      "prev_price": 102.94,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "LEGO",
@@ -232,12 +236,13 @@
         "2026-11-23": 15.99,
         "2026-11-24": 15.99,
         "2026-11-25": 15.99,
-        "2026-11-26": 15.99
+        "2026-11-26": 15.99,
+        "2026-11-27": 15.99
       },
       "low_price": 15.99,
       "ph_ean": "5702018056578",
       "rating": 4.8,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "LEGO",
@@ -275,12 +280,13 @@
         "2026-11-23": 44.99,
         "2026-11-24": 44.99,
         "2026-11-25": 44.99,
-        "2026-11-26": 44.99
+        "2026-11-26": 44.99,
+        "2026-11-27": 44.99
       },
       "low_price": 44.99,
       "ph_ean": "5702018056479",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "LEGO",
@@ -318,12 +324,13 @@
         "2026-11-23": 19.0,
         "2026-11-24": 19.99,
         "2026-11-25": 17.64,
-        "2026-11-26": 17.64
+        "2026-11-26": 17.64,
+        "2026-11-27": 17.64
       },
       "low_price": 17.64,
       "ph_ean": "5702018032022",
       "rating": 5.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 19.99,
       "prev_date": "2026-11-24"
     },
@@ -363,12 +370,13 @@
         "2026-11-23": 16.29,
         "2026-11-24": 16.29,
         "2026-11-25": 16.29,
-        "2026-11-26": 16.29
+        "2026-11-26": 16.29,
+        "2026-11-27": 16.29
       },
       "low_price": 16.29,
       "ph_ean": "5702016911114",
       "rating": 4.8,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 16.39,
       "prev_date": "2026-11-22"
     },
@@ -408,20 +416,21 @@
         "2026-11-23": 20.99,
         "2026-11-24": 20.99,
         "2026-11-25": 20.99,
-        "2026-11-26": 20.99
+        "2026-11-26": 20.99,
+        "2026-11-27": 20.99
       },
       "low_price": 20.99,
       "ph_ean": "5702018056530",
       "rating": 4.6,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "LEGO",
       "name": "DUPLO 3-in-1 Creatieve hellingen met voertuigen (10478)",
-      "price": 50.17,
+      "price": 50.16,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Racebaan met hellingen en schansen voor twee raceauto's.",
       "specs": {
         "Leeftijd fabrikant": "3+",
@@ -451,14 +460,15 @@
         "2026-11-23": 50.69,
         "2026-11-24": 49.99,
         "2026-11-25": 49.99,
-        "2026-11-26": 50.17
+        "2026-11-26": 50.17,
+        "2026-11-27": 50.16
       },
       "low_price": 49.99,
       "ph_ean": "5702018056561",
-      "rating": 4.3,
-      "synced": "2026-11-26",
-      "prev_price": 49.99,
-      "prev_date": "2026-11-25"
+      "rating": 4.4,
+      "synced": "2026-11-27",
+      "prev_price": 50.17,
+      "prev_date": "2026-11-26"
     }
   ],
   "verdict": "De DUPLO Interactieve avonturentrein (10427) is de beste DUPLO-set voor de meeste peuters vanaf 2 jaar: een trein die zelf rijdt en reageert op actiestenen, met 14 railelementen voor ongeveer 56 euro. De Kleurrijke creatieve doos (10479) is de beste prijs-kwaliteit met 80 stenen voor rond de 16 euro, al vanaf anderhalf jaar. Wil je groot uitpakken voor een kleuter vanaf 3 jaar, kies dan de 3in1 Boomhut (10993) met 126 stenen.",

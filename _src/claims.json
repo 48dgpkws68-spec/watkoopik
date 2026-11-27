@@ -1,1 +1,82 @@
-[]
+[
+ {
+  "gids": "beste-kunstkerstboom-met-verlichting-210-cm",
+  "p": 7,
+  "naam": "Grandis Fir 210 cm met 550 LED",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.1,
+  "bol": 4.2,
+  "zin": "welk materiaal dat precies is staat niet bij bol. De score bij bol ligt met een 4,1 van 5 lager dan bij de meeste andere bomen hi"
+ },
+ {
+  "gids": "beste-luchtreiniger-allergie",
+  "p": 5,
+  "naam": "PureProtect 700 Series AC0721/13",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.4,
+  "bol": 4.3,
+  "zin": "r+-app stel je schema's en timers in, ook met Alexa of Google Assistant. Op bol staat hij op een 4,4. Voor een grote woonkamer is de capacit"
+ },
+ {
+  "gids": "beste-luchtreiniger",
+  "p": 9,
+  "naam": "PureProtect 700 Series AC0721/13",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.4,
+  "bol": 4.3,
+  "zin": "je schema's en timers in en bedien je hem met Alexa of Google Assistant. Op bol staat hij op een 4,4. Voor een woonkamer is de capaciteit be"
+ },
+ {
+  "gids": "beste-qled-tv",
+  "p": 6,
+  "naam": "65E7S",
+  "veld": "pros[3]",
+  "soort": "score",
+  "claim": 4.6,
+  "bol": 4.7,
+  "zin": "Beoordeeld met 4,6 uit 5 op bol"
+ },
+ {
+  "gids": "beste-qled-tv",
+  "p": 7,
+  "naam": "55E7S PRO",
+  "veld": "pros[3]",
+  "soort": "score",
+  "claim": 4.8,
+  "bol": 4.6,
+  "zin": "Beoordeeld met 4,8 uit 5 op bol"
+ },
+ {
+  "gids": "beste-robotstofzuiger-onder-300-euro",
+  "p": 0,
+  "naam": "Deebot T30e Omni",
+  "veld": "text",
+  "soort": "score",
+  "claim": 4.5,
+  "bol": null,
+  "zin": "rwerpen. Drempels tot 2 cm neemt hij zonder moeite. Op bol scoort hij gemiddeld 4,5 van 5."
+ },
+ {
+  "gids": "beste-tv-50-inch",
+  "p": 2,
+  "naam": "Ambilight 50PUS9000/12",
+  "veld": "pros[3]",
+  "soort": "score",
+  "claim": 4.6,
+  "bol": 4.8,
+  "zin": "Kopers geven gemiddeld een 4,6"
+ },
+ {
+  "gids": "beste-tv-50-inch",
+  "p": 5,
+  "naam": "50E7S PRO",
+  "veld": "pros[3]",
+  "soort": "score",
+  "claim": 4.8,
+  "bol": 4.6,
+  "zin": "Kopers geven gemiddeld een 4,8"
+ }
+]

@@ -36,7 +36,7 @@
       "price": 548.0,
       "score": 9.1,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,8 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Hi-QLED uit 2026 met Dolby Vision, HDR10+ en Atmos.",
       "specs": {
         "Paneel": "Hi-QLED",
@@ -65,12 +65,13 @@
       "ph": {
         "2026-11-24": 548.0,
         "2026-11-25": 548.0,
-        "2026-11-26": 548.0
+        "2026-11-26": 548.0,
+        "2026-11-27": 548.0
       },
       "low_price": 548.0,
       "ph_ean": "6942351431710",
-      "rating": 4.8,
-      "synced": "2026-11-26"
+      "rating": 4.7,
+      "synced": "2026-11-27"
     },
     {
       "brand": "Sharp",
@@ -100,23 +101,24 @@
       "ideal": "Wie onder 600 euro het meeste contrast op 65 inch wil.",
       "text": "De Sharp 65JP7265E is de goedkoopste manier om in deze lijst Mini LED te krijgen. Voor 579 euro blijf je onder de 600 euro en krijg je een QLED-paneel met Mini LED-achtergrondverlichting uit 2026. Bij Mini LED regelt de tv het licht met veel kleinere leds. Dat geeft meer contrast en helderheid dan de gewone direct-led tv's die hier verder staan, vooral bij films in een donkere kamer.\n\nGoogle TV heeft alle Nederlandse apps, Chromecast en spraakbediening via Google Assistant. Er zitten vier HDMI-poorten op, handig voor een decoder, console en soundbar tegelijk. Volgens bol ondersteunt hij VRR. Het paneel draait op 60 Hz, net als bij de andere tv's in deze lijst. Voor HDR noemt Sharp HDR10 Pro, Dolby Vision en HDR10+ ontbreken. Het geluid komt uit 2 keer 12 watt met Dolby Atmos. Met energielabel E is hij zuiniger dan veel goedkopere tv's hier. Wil je het beste beeld onder 600 euro, dan is dit de tv.",
       "ean": "5905683274425",
-      "bol_title": "SHARP 65JP7265E - 65 inch tv- 4K Ultra HD QLED MiniLED Google TV™",
+      "bol_title": "SHARP 65JP7265E - 65 inch tv- 4K Ultra HD QLED Google TV",
       "url": "https://www.bol.com/nl/nl/p/sharp-65jp7265e-65-inch-tv-4k-ultra-hd-qled-miniled-google-tv/9300000262068704/",
       "image": "https://media.s-bol.com/J52o8Ov0KEjg/wV7xxom/550x355.jpg",
       "ph": {
         "2026-11-24": 579.0,
         "2026-11-25": 579.0,
-        "2026-11-26": 579.0
+        "2026-11-26": 579.0,
+        "2026-11-27": 579.0
       },
       "low_price": 579.0,
       "ph_ean": "5905683274425",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Hisense",
       "name": "65A6S",
-      "price": 486.0,
+      "price": 449.0,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
       "reviews": "",
@@ -147,11 +149,14 @@
       "ph": {
         "2026-11-24": 486.0,
         "2026-11-25": 486.0,
-        "2026-11-26": 486.0
+        "2026-11-26": 486.0,
+        "2026-11-27": 449.0
       },
-      "low_price": 486.0,
+      "low_price": 449.0,
       "ph_ean": "6942351430751",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27",
+      "prev_price": 486.0,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "LG",
@@ -187,12 +192,13 @@
       "image": "https://media.s-bol.com/yG6NjmwKj3AP/W6rJ1qv/550x352.jpg",
       "ph": {
         "2026-11-25": 529.0,
-        "2026-11-26": 529.0
+        "2026-11-26": 529.0,
+        "2026-11-27": 529.0
       },
       "low_price": 529.0,
       "ph_ean": "8806096340394",
       "rating": 4.4,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "LG",
@@ -229,12 +235,13 @@
       "ph": {
         "2026-11-24": 599.0,
         "2026-11-25": 599.0,
-        "2026-11-26": 599.0
+        "2026-11-26": 599.0,
+        "2026-11-27": 599.0
       },
       "low_price": 599.0,
       "ph_ean": "8806096422007",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "TCL",
@@ -270,12 +277,13 @@
       "ph": {
         "2026-11-24": 509.0,
         "2026-11-25": 509.0,
-        "2026-11-26": 509.0
+        "2026-11-26": 509.0,
+        "2026-11-27": 509.0
       },
       "low_price": 509.0,
       "ph_ean": "5901292526986",
       "rating": 4.4,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Philips",
@@ -311,12 +319,13 @@
       "ph": {
         "2026-11-24": 549.0,
         "2026-11-25": 549.0,
-        "2026-11-26": 549.0
+        "2026-11-26": 549.0,
+        "2026-11-27": 549.0
       },
       "low_price": 549.0,
       "ph_ean": "8718863051733",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Philips",
@@ -351,12 +360,13 @@
       "url": "https://www.bol.com/nl/nl/p/philips-65pus7001-12-65-inch-4k-led-2026/9300000292271726/",
       "image": "https://media.s-bol.com/npqZGBV0ZDzl/BLGqOBJ/550x251.jpg",
       "ph": {
-        "2026-11-26": 499.0
+        "2026-11-26": 499.0,
+        "2026-11-27": 499.0
       },
       "low_price": 499.0,
       "ph_ean": "8718863051634",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "TCL",
@@ -392,12 +402,13 @@
       "ph": {
         "2026-11-24": 549.0,
         "2026-11-25": 549.0,
-        "2026-11-26": 549.0
+        "2026-11-26": 549.0,
+        "2026-11-27": 549.0
       },
       "low_price": 549.0,
       "ph_ean": "5901292531966",
       "rating": 4.4,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Horizon",
@@ -431,12 +442,13 @@
       "url": "https://www.bol.com/nl/nl/p/horizon-smart-tv-65-inch-4k-ultra-hd-led-xt-line-google-tv-wifi-voice-assistant-frameless-slim-design/9300000197763239/",
       "image": "https://media.s-bol.com/gjy2AA70q0yl/n5q797Y/550x362.jpg",
       "ph": {
-        "2026-11-26": 525.63
+        "2026-11-26": 525.63,
+        "2026-11-27": 525.63
       },
       "low_price": 525.63,
       "ph_ean": "5949494026323",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     }
   ],
   "guide": [

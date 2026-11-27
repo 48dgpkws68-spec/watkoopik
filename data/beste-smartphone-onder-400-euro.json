@@ -27,7 +27,7 @@
     {
       "brand": "Samsung",
       "name": "Galaxy A57 5G 128GB",
-      "price": 354.99,
+      "price": 354.88,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -58,11 +58,14 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a57-5g-128gb-awesome-navy/9300000271094372/",
       "image": "https://media.s-bol.com/35xqXEB7Gk1M/XolpWpm/550x668.jpg",
       "ph": {
-        "2026-11-26": 354.99
+        "2026-11-26": 354.99,
+        "2026-11-27": 354.88
       },
-      "low_price": 354.99,
+      "low_price": 354.88,
       "ph_ean": "8806099028305",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27",
+      "prev_price": 354.99,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "OnePlus",
@@ -98,11 +101,12 @@
       "url": "https://www.bol.com/nl/nl/p/oneplus-nord-5-5g-256gb-grijs/9300000236737430/",
       "image": "https://media.s-bol.com/r4jv4nwJRBvk/LgARp1A/550x679.jpg",
       "ph": {
-        "2026-11-26": 365.5
+        "2026-11-26": 365.5,
+        "2026-11-27": 365.5
       },
       "low_price": 365.5,
       "ph_ean": "6921815629856",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Google",
@@ -138,11 +142,12 @@
       "url": "https://www.bol.com/nl/nl/p/google-pixel-9a-128gb-paars/9300000229786987/",
       "image": "https://media.s-bol.com/M32Nqz7KKLVA/DqJBo0x/394x840.jpg",
       "ph": {
-        "2026-11-26": 359.9
+        "2026-11-26": 359.9,
+        "2026-11-27": 359.9
       },
       "low_price": 359.9,
       "ph_ean": "0840353922372",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Nothing",
@@ -178,11 +183,12 @@
       "url": "https://www.bol.com/nl/nl/p/nothing-phone-pro-12-256gb-grijs/9300000225807762/",
       "image": "https://media.s-bol.com/gOl4DWP2Vm6Y/W6AZzY4/550x652.jpg",
       "ph": {
-        "2026-11-26": 388.0
+        "2026-11-26": 388.0,
+        "2026-11-27": 388.0
       },
       "low_price": 388.0,
       "ph_ean": "6974434224438",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "POCO",
@@ -218,11 +224,12 @@
       "url": "https://www.bol.com/nl/nl/p/xiaomi-poco-x8-pro-8gb-512gb-zwart-6500mah-100w-hypercharge-dimensity-8500-ultra-ip68-120hz-amoled/9300000266610823/",
       "image": "https://media.s-bol.com/VBVy9O6NkMBv/N9BE2op/550x655.jpg",
       "ph": {
-        "2026-11-26": 319.9
+        "2026-11-26": 319.9,
+        "2026-11-27": 319.9
       },
       "low_price": 319.9,
       "ph_ean": "6932554412470",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Honor",
@@ -257,11 +264,12 @@
       "url": "https://www.bol.com/nl/nl/p/honor-600-serie-smartphone-5g-8gb-256gb/9300000280617876/",
       "image": "https://media.s-bol.com/kqKql1yAWAWY/83BqgR2/550x595.jpg",
       "ph": {
-        "2026-11-26": 389.09
+        "2026-11-26": 389.09,
+        "2026-11-27": 389.09
       },
       "low_price": 389.09,
       "ph_ean": "6936520895175",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Motorola",
@@ -297,11 +305,12 @@
       "url": "https://www.bol.com/nl/nl/p/motorola-moto-edge-70-fusion-8-256gb-pantone-sporting-green/9300000264483434/",
       "image": "https://media.s-bol.com/748Bjr5v0J7O/0VJGgV3/550x540.jpg",
       "ph": {
-        "2026-11-26": 379.0
+        "2026-11-26": 379.0,
+        "2026-11-27": 379.0
       },
       "low_price": 379.0,
       "ph_ean": "0840493621722",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Samsung",
@@ -337,11 +346,12 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a56-5g-128gb-awesome-grafiet/9300000225539116/",
       "image": "https://media.s-bol.com/3gA3D7PRM2MA/1wkvEVZ/550x709.jpg",
       "ph": {
-        "2026-11-26": 345.0
+        "2026-11-26": 345.0,
+        "2026-11-27": 345.0
       },
       "low_price": 345.0,
       "ph_ean": "8806095982885",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "OnePlus",
@@ -377,16 +387,17 @@
       "url": "https://www.bol.com/nl/nl/p/oneplus-nord-ce-6-5g-8gb-256gb-blauw-7500mah-batterij-80w-snel-laden/9300000294774121/",
       "image": "https://media.s-bol.com/gzJ6nXo9PVq9/wmQ19XR/550x655.jpg",
       "ph": {
-        "2026-11-26": 369.0
+        "2026-11-26": 369.0,
+        "2026-11-27": 369.0
       },
       "low_price": 369.0,
       "ph_ean": "6921815631972",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Xiaomi",
       "name": "Redmi Note 17 Pro Max 5G 8/256GB",
-      "price": 350.0,
+      "price": 343.76,
       "score": 8.2,
       "label": null,
       "reviews": "",
@@ -416,11 +427,14 @@
       "url": "https://www.bol.com/nl/nl/p/brussels-eu/9300000346209697/",
       "image": "https://media.s-bol.com/jpMp5GDNoONv/6Wz8O1L/550x623.jpg",
       "ph": {
-        "2026-11-26": 350.0
+        "2026-11-26": 350.0,
+        "2026-11-27": 343.76
       },
-      "low_price": 350.0,
+      "low_price": 343.76,
       "ph_ean": "6939093012178",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27",
+      "prev_price": 350.0,
+      "prev_date": "2026-11-26"
     }
   ],
   "guide": [

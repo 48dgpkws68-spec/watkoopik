@@ -23,7 +23,7 @@
     {
       "brand": "Rowenta",
       "name": "Instant Comfort Compact SO2321",
-      "price": 47.79,
+      "price": 51.99,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,5 van 5",
@@ -74,12 +74,13 @@
         "2026-11-23": 52.99,
         "2026-11-24": 54.99,
         "2026-11-25": 50.19,
-        "2026-11-26": 47.79
+        "2026-11-26": 47.79,
+        "2026-11-27": 51.99
       },
       "low_price": 43.99,
-      "synced": "2026-11-26",
-      "prev_price": 50.19,
-      "prev_date": "2026-11-25",
+      "synced": "2026-11-27",
+      "prev_price": 47.79,
+      "prev_date": "2026-11-26",
       "ph_ean": "3121040089613",
       "rating": 4.5
     },
@@ -131,10 +132,11 @@
         "2026-11-23": 37.95,
         "2026-11-24": 37.95,
         "2026-11-25": 37.95,
-        "2026-11-26": 37.95
+        "2026-11-26": 37.95,
+        "2026-11-27": 37.95
       },
       "low_price": 34.95,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "8717479083374",
       "prev_price": 34.95,
       "prev_date": "2026-11-12",
@@ -143,7 +145,7 @@
     {
       "brand": "Rowenta",
       "name": "Intense Comfort SO2360",
-      "price": 65.0,
+      "price": 65.19,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "",
@@ -182,18 +184,19 @@
         "2026-11-23": 66.13,
         "2026-11-24": 66.13,
         "2026-11-25": 65.0,
-        "2026-11-26": 65.0
+        "2026-11-26": 65.0,
+        "2026-11-27": 65.19
       },
       "low_price": 65.0,
       "ph_ean": "3121040094617",
-      "synced": "2026-11-26",
-      "prev_price": 66.13,
-      "prev_date": "2026-11-24"
+      "synced": "2026-11-27",
+      "prev_price": 65.0,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "Dreo",
       "name": "Atom 416",
-      "price": 44.84,
+      "price": 44.99,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -240,13 +243,14 @@
         "2026-11-23": 44.84,
         "2026-11-24": 44.84,
         "2026-11-25": 44.84,
-        "2026-11-26": 44.84
+        "2026-11-26": 44.84,
+        "2026-11-27": 44.99
       },
       "low_price": 44.84,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "0810181280197",
-      "prev_price": 45.99,
-      "prev_date": "2026-11-19",
+      "prev_price": 44.84,
+      "prev_date": "2026-11-26",
       "rating": 4.7
     },
     {
@@ -303,10 +307,11 @@
         "2026-11-23": 39.99,
         "2026-11-24": 39.99,
         "2026-11-25": 34.99,
-        "2026-11-26": 34.99
+        "2026-11-26": 34.99,
+        "2026-11-27": 34.99
       },
       "low_price": 34.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "5060596023833",
       "prev_price": 39.99,
       "prev_date": "2026-11-24",
@@ -365,10 +370,11 @@
         "2026-11-23": 30.36,
         "2026-11-24": 30.36,
         "2026-11-25": 30.36,
-        "2026-11-26": 30.19
+        "2026-11-26": 30.19,
+        "2026-11-27": 30.19
       },
       "low_price": 29.19,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 30.36,
       "prev_date": "2026-11-25",
       "ph_ean": "8713415350234",
@@ -377,10 +383,10 @@
     {
       "brand": "Eurom",
       "name": "EK2K Round Werkplaatskachel",
-      "price": 34.05,
+      "price": 34.25,
       "score": 8.7,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Robuuste ronde werkplaatskachel voor garage, schuur en hobbyruimte.",
       "specs": {
         "Type": "Werkplaats, ventilator",
@@ -393,14 +399,14 @@
         "Stevige metalen behuizing",
         "Draagbeugel die ook als standaard dient",
         "Kantelbaar om de warmte te richten",
-        "Gemiddeld 4,7 sterren bij kopers"
+        "Gemiddeld 4,5 sterren bij kopers"
       ],
       "cons": [
         "Niet gemaakt voor de woonkamer",
         "Ventilator is duidelijk hoorbaar"
       ],
       "ideal": "Wie een schuur, garage of hobbyruimte wil verwarmen met een kachel die tegen een stootje kan.",
-      "text": "De Eurom EK2K Round is een werkplaatskachel in een ronde metalen behuizing met een stevige beugel. Die beugel is handvat en standaard tegelijk, zodat je de kachel kunt kantelen en de warme lucht precies richt waar je staat te werken. Met 2000 watt in twee standen verwarm je een garage, schuur of hobbyruimte tot ongeveer 20 vierkante meter.\n\nDe thermostaat houdt de ingestelde temperatuur vast en een beveiliging schakelt de kachel uit als hij te warm wordt. Doordat de behuizing van metaal is, kan hij beter tegen stof en een stootje dan een plastic kachel voor binnen. Kopers op bol geven hem gemiddeld 4,7 sterren en noemen hem stevig en snel warm. Hij oogt wel industrieel en de ventilator is duidelijk hoorbaar, dus in de woonkamer zet je liever iets anders neer. Voor de werkplaats is het een van de beste kopen.",
+      "text": "De Eurom EK2K Round is een werkplaatskachel in een ronde metalen behuizing met een stevige beugel. Die beugel is handvat en standaard tegelijk, zodat je de kachel kunt kantelen en de warme lucht precies richt waar je staat te werken. Met 2000 watt in twee standen verwarm je een garage, schuur of hobbyruimte tot ongeveer 20 vierkante meter.\n\nDe thermostaat houdt de ingestelde temperatuur vast en een beveiliging schakelt de kachel uit als hij te warm wordt. Doordat de behuizing van metaal is, kan hij beter tegen stof en een stootje dan een plastic kachel voor binnen. Kopers op bol geven hem gemiddeld 4,5 sterren en noemen hem stevig en snel warm. Hij oogt wel industrieel en de ventilator is duidelijk hoorbaar, dus in de woonkamer zet je liever iets anders neer. Voor de werkplaats is het een van de beste kopen.",
       "ean": "8713415340143",
       "bol_title": "Eurom EK2K Round Werkplaatskachel",
       "search": "Eurom EK2K Round Werkplaatskachel",
@@ -428,14 +434,15 @@
         "2026-11-23": 34.25,
         "2026-11-24": 34.75,
         "2026-11-25": 34.75,
-        "2026-11-26": 34.05
+        "2026-11-26": 34.05,
+        "2026-11-27": 34.25
       },
       "low_price": 32.8,
-      "synced": "2026-11-26",
-      "prev_price": 34.75,
-      "prev_date": "2026-11-25",
+      "synced": "2026-11-27",
+      "prev_price": 34.05,
+      "prev_date": "2026-11-26",
       "ph_ean": "8713415340143",
-      "rating": 4.7
+      "rating": 4.5
     },
     {
       "brand": "Eurom",
@@ -443,7 +450,7 @@
       "price": 78.64,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Krachtige werkplaatskachel van 3000 watt met metalen behuizing.",
       "specs": {
         "Type": "Werkplaats, metalen behuizing",
@@ -464,7 +471,7 @@
         "Met 5,2 kilo zwaarder dan een kachel voor binnen"
       ],
       "ideal": "Klussers en hobbyisten die een krachtige kachel willen voor een grotere werkplaats of garage.",
-      "text": "De Eurom EK3000 Round is de grote broer van de EK2K Round die ook in deze lijst staat. Met 3000 watt levert hij de helft meer vermogen, wat je merkt in een koude garage, schuur of werkplaats. Je kiest uit drie standen en een thermostaat houdt de temperatuur vast, zodat hij niet onnodig blijft stoken als de ruimte eenmaal warm is.\n\nDe ronde behuizing is van metaal en kan tegen een stootje op een betonvloer. Een oververhittingsbeveiliging schakelt hem uit als het binnenin te heet wordt. Met 5,2 kilo draag je hem makkelijk mee, al is hij zwaarder dan een kachel voor binnen. Kopers op bol geven hem gemiddeld 4,7 sterren. Let wel op je stroomgroep: 3000 watt is veel, zet er dus geen waterkoker of andere zware verbruiker naast. Werk je vaak in een grotere, koude ruimte, dan is het extra vermogen de meerprijs waard.",
+      "text": "De Eurom EK3000 Round is de grote broer van de EK2K Round die ook in deze lijst staat. Met 3000 watt levert hij de helft meer vermogen, wat je merkt in een koude garage, schuur of werkplaats. Je kiest uit drie standen en een thermostaat houdt de temperatuur vast, zodat hij niet onnodig blijft stoken als de ruimte eenmaal warm is.\n\nDe ronde behuizing is van metaal en kan tegen een stootje op een betonvloer. Een oververhittingsbeveiliging schakelt hem uit als het binnenin te heet wordt. Met 5,2 kilo draag je hem makkelijk mee, al is hij zwaarder dan een kachel voor binnen. Kopers op bol geven hem gemiddeld 4,5 sterren. Let wel op je stroomgroep: 3000 watt is veel, zet er dus geen waterkoker of andere zware verbruiker naast. Werk je vaak in een grotere, koude ruimte, dan is het extra vermogen de meerprijs waard.",
       "ean": "8713415332964",
       "ph_ean": "8713415332964",
       "bol_title": "Eurom EK3000 Round Werkplaatskachel",
@@ -473,11 +480,12 @@
       "ph": {
         "2026-11-24": 78.64,
         "2026-11-25": 78.64,
-        "2026-11-26": 78.64
+        "2026-11-26": 78.64,
+        "2026-11-27": 78.64
       },
       "low_price": 78.64,
-      "rating": 4.7,
-      "synced": "2026-11-26"
+      "rating": 4.5,
+      "synced": "2026-11-27"
     },
     {
       "brand": "Bestron",
@@ -532,10 +540,11 @@
         "2026-11-23": 22.99,
         "2026-11-24": 22.99,
         "2026-11-25": 22.99,
-        "2026-11-26": 22.99
+        "2026-11-26": 22.99,
+        "2026-11-27": 22.99
       },
       "low_price": 22.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "8712184063901",
       "rating": 4.0
     },
@@ -545,7 +554,7 @@
       "price": 20.99,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 3,9 van 5",
+      "reviews": "bol-score 4,0 van 5",
       "oneliner": "Goedkoopste ventilatorkachel in deze lijst met regelbare thermostaat.",
       "specs": {
         "Type": "Ventilator, klassiek",
@@ -565,7 +574,7 @@
         "Behuizing van dun plastic"
       ],
       "ideal": "Wie voor zo min mogelijk geld af en toe een kleine ruimte wil verwarmen.",
-      "text": "De Tristar KA-5191 is de goedkoopste kachel in deze vergelijking en dat merk je aan de afwerking. Toch krijg je voor ongeveer 22 euro een volwaardige ventilatorkachel van 2000 watt. Je kiest uit drie warmtestanden en een koude stand, zodat je het vermogen fijner afstemt dan bij de meeste budgetmodellen. Met de regelbare thermostaat houdt hij de ingestelde temperatuur vast.\n\nDe kachel heeft een omvalbeveiliging die hem uitschakelt als hij kantelt, wat prettig is met kinderen of huisdieren in huis. Kopers op bol geven hem gemiddeld 3,9 sterren. Veel mensen zijn tevreden over de warmte voor dit geld, maar er zijn ook reviews over een kortere levensduur bij dagelijks gebruik. De ventilator maakt op de hoogste stand flink wat geluid. Gebruik je de kachel alleen af en toe in de schuur of op de camping, dan is hij een prima noodoplossing.",
+      "text": "De Tristar KA-5191 is de goedkoopste kachel in deze vergelijking en dat merk je aan de afwerking. Toch krijg je voor ongeveer 22 euro een volwaardige ventilatorkachel van 2000 watt. Je kiest uit drie warmtestanden en een koude stand, zodat je het vermogen fijner afstemt dan bij de meeste budgetmodellen. Met de regelbare thermostaat houdt hij de ingestelde temperatuur vast.\n\nDe kachel heeft een omvalbeveiliging die hem uitschakelt als hij kantelt, wat prettig is met kinderen of huisdieren in huis. Kopers op bol geven hem gemiddeld 4,0 sterren. Veel mensen zijn tevreden over de warmte voor dit geld, maar er zijn ook reviews over een kortere levensduur bij dagelijks gebruik. De ventilator maakt op de hoogste stand flink wat geluid. Gebruik je de kachel alleen af en toe in de schuur of op de camping, dan is hij een prima noodoplossing.",
       "ean": "8712836994980",
       "bol_title": "Tristar KA-5191 Ventilatorkachel 2000W – 3 Warmtestanden – Regelbare Thermostaat – Ventilatorstand – Omvalbeveiliging – Oververhittingsbeveiliging – Tot 20 m² – Zwart",
       "search": "Tristar KA-5191",
@@ -593,14 +602,15 @@
         "2026-11-23": 20.99,
         "2026-11-24": 20.99,
         "2026-11-25": 20.99,
-        "2026-11-26": 20.99
+        "2026-11-26": 20.99,
+        "2026-11-27": 20.99
       },
       "low_price": 20.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 21.99,
       "prev_date": "2026-11-10",
       "ph_ean": "8712836994980",
-      "rating": 3.9
+      "rating": 4.0
     }
   ],
   "guide": [

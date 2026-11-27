@@ -97,7 +97,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "c63761a8ca3e49dd986df21485820c09e3e71523",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "LG",
@@ -249,9 +249,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-26",
+    "t": "vervangen",
+    "uit": "Samsung QE65QN82H",
+    "in": "Samsung QE65QN83H",
+    "plek": 6,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol, de QN83H is het zustermodel dat bol nu wel levert",
+    "bron": "data"
    }
   ],
-  "_tot": "c63761a8ca3e49dd986df21485820c09e3e71523",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "LG",
@@ -280,8 +290,8 @@
    },
    {
     "brand": "Samsung",
-    "name": "QE65QN82H",
-    "ean": "8806099129606"
+    "name": "QE65QN83H",
+    "ean": "8806099129613"
    },
    {
     "brand": "Samsung",
@@ -387,9 +397,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-26",
+    "t": "vervangen",
+    "uit": "Philips 75PQS7801/12",
+    "in": "Samsung UE75U7090H",
+    "plek": 10,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "e273ad84c1d5d8718e1e2ba0ddb84e6baf137d10",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "Hisense",
@@ -437,9 +457,9 @@
     "ean": "6941948705043"
    },
    {
-    "brand": "Philips",
-    "name": "75PQS7801/12",
-    "ean": "8718863051696"
+    "brand": "Samsung",
+    "name": "UE75U7090H",
+    "ean": "8806099133924"
    }
   ]
  },
@@ -563,9 +583,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-26",
+    "t": "vervangen",
+    "uit": "Samsung UE55U7090H",
+    "in": "Samsung UE50U7090H",
+    "plek": 5,
+    "paar": true,
+    "waarom": "55 inch niet meer leverbaar bij bol, de 50 inch uit dezelfde serie wel",
+    "bron": "data"
    }
   ],
-  "_tot": "9612bdf00b72771c26ec1b518c603d894770b6ba",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "LG",
@@ -589,8 +619,8 @@
    },
    {
     "brand": "Samsung",
-    "name": "UE55U7090H",
-    "ean": "8806099133863"
+    "name": "UE50U7090H",
+    "ean": "8806099138974"
    },
    {
     "brand": "Philips",
@@ -843,7 +873,7 @@
   "start": "2026-10-21",
   "n": 10,
   "events": [],
-  "_tot": "c63761a8ca3e49dd986df21485820c09e3e71523",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "WOOOD",
@@ -1157,9 +1187,39 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-26",
+    "t": "vervangen",
+    "uit": "Samsung UE50M74H",
+    "in": "TCL 50Q6C",
+    "plek": 2,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
+   },
+   {
+    "d": "2026-11-26",
+    "t": "vervangen",
+    "uit": "LG 50QNED87A6D",
+    "in": "LG 50QNED86A6C",
+    "plek": 5,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
+   },
+   {
+    "d": "2026-11-26",
+    "t": "vervangen",
+    "uit": "Philips 50PQS7801/12",
+    "in": "Samsung UE50U7090H",
+    "plek": 10,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "c63761a8ca3e49dd986df21485820c09e3e71523",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "Hisense",
@@ -1167,9 +1227,9 @@
     "ean": "6942351434391"
    },
    {
-    "brand": "Samsung",
-    "name": "UE50M74H",
-    "ean": "8806099134570"
+    "brand": "TCL",
+    "name": "50Q6C",
+    "ean": "5901292528751"
    },
    {
     "brand": "Philips",
@@ -1183,8 +1243,8 @@
    },
    {
     "brand": "LG",
-    "name": "50QNED87A6D",
-    "ean": "8806096383827"
+    "name": "50QNED86A6C",
+    "ean": "8806096396520"
    },
    {
     "brand": "Hisense",
@@ -1207,9 +1267,9 @@
     "ean": "5901292528683"
    },
    {
-    "brand": "Philips",
-    "name": "50PQS7801/12",
-    "ean": "8718863051665"
+    "brand": "Samsung",
+    "name": "UE50U7090H",
+    "ean": "8806099138974"
    }
   ]
  },
@@ -1375,7 +1435,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "47fbae2c503cf640dbc77f74fc4af4ded1dc170a",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "Lenovo",
@@ -1711,7 +1771,7 @@
   "start": "2026-10-21",
   "n": 10,
   "events": [],
-  "_tot": "e7c14ba46c21cdfd0069d4b00959ed4fdbf0f76e",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "Anno 1588",
@@ -1848,7 +1908,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "c63761a8ca3e49dd986df21485820c09e3e71523",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "LG",
@@ -2072,7 +2132,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "e273ad84c1d5d8718e1e2ba0ddb84e6baf137d10",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "Hisense",
@@ -2147,7 +2207,7 @@
     "paar": true
    }
   ],
-  "_tot": "c63761a8ca3e49dd986df21485820c09e3e71523",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "Livn",
@@ -2309,7 +2369,7 @@
     "paar": true
    }
   ],
-  "_tot": "e273ad84c1d5d8718e1e2ba0ddb84e6baf137d10",
+  "_tot": "747a558f6045c8b5f7ab2b1912d17a6fe28a5cba",
   "_ps": [
    {
     "brand": "Royal Christmas",

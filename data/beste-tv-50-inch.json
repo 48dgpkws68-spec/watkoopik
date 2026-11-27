@@ -80,10 +80,11 @@
         "2026-11-23": 652.32,
         "2026-11-24": 652.32,
         "2026-11-25": 652.32,
-        "2026-11-26": 652.32
+        "2026-11-26": 652.32,
+        "2026-11-27": 652.32
       },
       "low_price": 499.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 499.0,
       "prev_date": "2026-11-20",
       "ph_ean": "6942351434391",
@@ -122,12 +123,13 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-50q6c-50-inch-4k-qd-miniled-2025/9300000228002743/",
       "image": "https://media.s-bol.com/DL9wVrgXjq5q/xkAnlrz/550x352.jpg",
       "ph": {
-        "2026-11-26": 489.0
+        "2026-11-26": 489.0,
+        "2026-11-27": 489.0
       },
       "low_price": 489.0,
       "ph_ean": "5901292528751",
       "rating": 4.8,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Philips",
@@ -149,7 +151,7 @@
         "Ambilight aan drie kanten laat het scherm groter lijken",
         "Dolby Vision en HDR10+",
         "Fraaie dunne behuizing",
-        "Kopers geven gemiddeld een 4,8"
+        "Kopers geven gemiddeld een 4,6"
       ],
       "cons": [
         "Titan OS heeft minder apps dan Google TV",
@@ -189,10 +191,11 @@
         "2026-11-23": 489.0,
         "2026-11-24": 489.0,
         "2026-11-25": 489.0,
-        "2026-11-26": 489.0
+        "2026-11-26": 489.0,
+        "2026-11-27": 489.0
       },
       "low_price": 489.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 529.0,
       "prev_date": "2026-11-17",
       "ph_ean": "8718863046074",
@@ -238,11 +241,12 @@
         "2026-11-23": 579.0,
         "2026-11-24": 579.0,
         "2026-11-25": 579.0,
-        "2026-11-26": 579.0
+        "2026-11-26": 579.0,
+        "2026-11-27": 579.0
       },
       "low_price": 565.0,
       "ph_ean": "8806099124434",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 565.0,
       "prev_date": "2026-11-22",
       "rating": 4.0
@@ -281,12 +285,13 @@
       "url": "https://www.bol.com/nl/nl/p/lg-50qned86a6c-50-inch-4k-qned-evo-2025-smart-tv/9300000235158454/",
       "image": "https://media.s-bol.com/NAK2QWjnnvL2/y8mPxRz/550x361.jpg",
       "ph": {
-        "2026-11-26": 533.0
+        "2026-11-26": 533.0,
+        "2026-11-27": 533.0
       },
       "low_price": 533.0,
       "ph_ean": "8806096396520",
       "rating": 4.2,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Hisense",
@@ -294,7 +299,7 @@
       "price": 479.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Hi-QLED met native 144 Hz voor een scherpe prijs.",
       "specs": {
         "Paneel": "Hi-QLED",
@@ -348,14 +353,15 @@
         "2026-11-23": 479.0,
         "2026-11-24": 479.0,
         "2026-11-25": 479.0,
-        "2026-11-26": 479.0
+        "2026-11-26": 479.0,
+        "2026-11-27": 479.0
       },
       "low_price": 479.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 564.0,
       "prev_date": "2026-11-01",
       "ph_ean": "6942351432977",
-      "rating": 4.7
+      "rating": 4.6
     },
     {
       "brand": "Hisense",
@@ -363,7 +369,7 @@
       "price": 339.0,
       "score": 8.5,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,8 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Hi-QLED met Dolby Vision en Dolby Atmos voor nog geen 350 euro.",
       "specs": {
         "Paneel": "Hi-QLED",
@@ -414,14 +420,15 @@
         "2026-11-23": 339.0,
         "2026-11-24": 339.0,
         "2026-11-25": 339.0,
-        "2026-11-26": 339.0
+        "2026-11-26": 339.0,
+        "2026-11-27": 339.0
       },
       "low_price": 330.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 330.0,
       "prev_date": "2026-11-09",
       "ph_ean": "6942351431161",
-      "rating": 4.8
+      "rating": 4.7
     },
     {
       "brand": "Sony",
@@ -464,12 +471,13 @@
         "2026-11-23": 549.0,
         "2026-11-24": 549.0,
         "2026-11-25": 549.0,
-        "2026-11-26": 549.0
+        "2026-11-26": 549.0,
+        "2026-11-27": 549.0
       },
       "low_price": 549.0,
       "ph_ean": "4548736180055",
       "rating": 4.3,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "TCL",
@@ -513,12 +521,13 @@
         "2026-11-23": 329.0,
         "2026-11-24": 329.0,
         "2026-11-25": 329.0,
-        "2026-11-26": 329.0
+        "2026-11-26": 329.0,
+        "2026-11-27": 329.0
       },
       "low_price": 329.0,
       "ph_ean": "5901292528683",
       "rating": 4.4,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Samsung",
@@ -553,12 +562,13 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-ue50u7090hu-50-inch-4k-led-2026-smart-tv/9300000332667100/",
       "image": "https://media.s-bol.com/Y3MzPgn7ky3A/vQo9x95/550x348.jpg",
       "ph": {
-        "2026-11-26": 355.0
+        "2026-11-26": 355.0,
+        "2026-11-27": 355.0
       },
       "low_price": 355.0,
       "ph_ean": "8806099138974",
       "rating": 4.6,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     }
   ],
   "guide": [

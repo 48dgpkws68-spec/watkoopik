@@ -51,7 +51,7 @@
       "bol_title": "Apple Watch 11 - Wifi - 46mm - Space Grey Aluminium Case with Black Sport Band - M/L",
       "url": "https://www.bol.com/nl/nl/p/apple-watch-11-wifi-46mm-space-grey-aluminium-case-with-black-sport-band-m-l/9300000240172011/",
       "image": "https://media.s-bol.com/qB64w7JzpnJ7/DRWqMgn/516x840.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 389.0,
         "2026-10-16": 419.0,
@@ -93,7 +93,8 @@
         "2026-11-23": 389.27,
         "2026-11-24": 389.27,
         "2026-11-25": 389.27,
-        "2026-11-26": 389.27
+        "2026-11-26": 389.27,
+        "2026-11-27": 389.27
       },
       "low_price": 377.0,
       "prev_price": 419.0,
@@ -136,10 +137,11 @@
       "url": "https://www.bol.com/nl/nl/p/amazfit-active-3-premium-aero-white-3-35-cm-amoled-digitaal-466-x-466-pixels-touchscreen-gps/9300000262976765/",
       "image": "https://media.s-bol.com/JovRp5ZQXxrP/BLgrq5n/550x796.jpg",
       "ph": {
-        "2026-11-26": 211.11
+        "2026-11-26": 211.11,
+        "2026-11-27": 211.11
       },
       "low_price": 211.11,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Garmin",
@@ -178,11 +180,12 @@
         "2026-11-23": 799.0,
         "2026-11-24": 799.0,
         "2026-11-25": 799.0,
-        "2026-11-26": 799.0
+        "2026-11-26": 799.0,
+        "2026-11-27": 799.0
       },
       "low_price": 799.0,
       "ph_ean": "0753759351007",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Samsung",
@@ -215,7 +218,7 @@
       "ean": "8806097802686",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-watch8-smartwatch-44mm-graphite-1-jaar-extra-garantie/9300000234703945/",
       "image": "https://media.s-bol.com/n4V1LyMAOvAY/k5oMBNE/550x735.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "bol_title": "Samsung Galaxy Watch8 - Smartwatch - 44mm - Graphite + 1 jaar extra garantie",
       "ph": {
         "2026-10-13": 235.0,
@@ -260,7 +263,8 @@
         "2026-11-23": 214.95,
         "2026-11-24": 214.95,
         "2026-11-25": 214.95,
-        "2026-11-26": 214.95
+        "2026-11-26": 214.95,
+        "2026-11-27": 214.95
       },
       "low_price": 214.95,
       "prev_price": 215.0,
@@ -271,7 +275,7 @@
     {
       "brand": "Google",
       "name": "Pixel Watch 4 45 mm",
-      "price": 379.99,
+      "price": 417.0,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -299,7 +303,7 @@
       "ean": "0840353931473",
       "url": "https://www.bol.com/nl/nl/p/google-pixel-watch-4-smartwatch-45mm-wifi-black-obsidian/9300000237956303/",
       "image": "https://media.s-bol.com/RG2o8pgPVNzK/58180jX/539x840.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "bol_title": "Google Pixel Watch 4 - Smartwatch - 45mm - WiFi -Black/Obsidian",
       "ph": {
         "2026-10-13": 417.0,
@@ -344,13 +348,14 @@
         "2026-11-23": 379.99,
         "2026-11-24": 379.99,
         "2026-11-25": 379.99,
-        "2026-11-26": 379.99
+        "2026-11-26": 379.99,
+        "2026-11-27": 417.0
       },
       "low_price": 379.99,
       "ph_ean": "0840353931473",
       "rating": 5.0,
-      "prev_price": 417.0,
-      "prev_date": "2026-11-22"
+      "prev_price": 379.99,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "Garmin",
@@ -383,7 +388,7 @@
       "ean": "0753759314743",
       "url": "https://www.bol.com/nl/nl/p/garmin-venu-3-smartwatch-sporthorloge-amoled-scherm-14-dagen-batterij-spraakassistent-muziek-garmin-pay-slaapcoaching-zwart/9300000157268943/",
       "image": "https://media.s-bol.com/rvpNxE1nBW5W/kA2ygv/550x825.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "bol_title": "Garmin Venu 3 - Smartwatch - Sporthorloge - 45 mm - AMOLED-Scherm - Zwart",
       "ph": {
         "2026-10-13": 355.0,
@@ -428,7 +433,8 @@
         "2026-11-23": 279.0,
         "2026-11-24": 289.0,
         "2026-11-25": 289.0,
-        "2026-11-26": 289.0
+        "2026-11-26": 289.0,
+        "2026-11-27": 289.0
       },
       "low_price": 279.0,
       "prev_price": 279.0,
@@ -476,18 +482,19 @@
         "2026-11-23": 309.0,
         "2026-11-24": 299.0,
         "2026-11-25": 279.0,
-        "2026-11-26": 279.0
+        "2026-11-26": 279.0,
+        "2026-11-27": 279.0
       },
       "low_price": 279.0,
       "ph_ean": "7694642609788",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 299.0,
       "prev_date": "2026-11-24"
     },
     {
       "brand": "Apple",
       "name": "Watch SE 3",
-      "price": 225.0,
+      "price": 273.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -516,7 +523,7 @@
       "bol_title": "Apple Watch SE 3 - Smartwatch - 44mm - Wifi - Midnight - M/L",
       "url": "https://www.bol.com/nl/nl/p/apple-watch-se-3-wifi-44mm-midnight-aluminium-case-with-midnight-sport-band-m-l/9300000240171951/",
       "image": "https://media.s-bol.com/mx8xlYZAZooO/nZ6gO24/481x840.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-13": 269.99,
         "2026-10-14": 269.99,
@@ -560,11 +567,12 @@
         "2026-11-23": 279.99,
         "2026-11-24": 225.0,
         "2026-11-25": 225.0,
-        "2026-11-26": 225.0
+        "2026-11-26": 225.0,
+        "2026-11-27": 273.0
       },
       "low_price": 225.0,
-      "prev_price": 279.99,
-      "prev_date": "2026-11-23",
+      "prev_price": 225.0,
+      "prev_date": "2026-11-26",
       "ph_ean": "0195950646153",
       "rating": 4.8
     },
@@ -600,7 +608,7 @@
       "bol_title": "Huawei WATCH GT 6 46mm Zwart | 21-Daagse Batterijduur - Nauwkeurige GPS- en Hartslagmeting - Innovatieve Pro-niveau Fietstracking – Analyse van Emotioneel Welzijn - Compatibel met iOS & Android",
       "url": "https://www.bol.com/nl/nl/p/huawei-watch-gt-6-46mm-black-21-day-battery-life-accurate-gps-heart-rate-tracking-innovative-pro-level-cycling-tracking-emotional-well-being-analysis-compatible-with-ios-android/9300000237081768/",
       "image": "https://media.s-bol.com/NwX502qj0kYN/Y6qEnBp/515x840.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-13": 195.0,
         "2026-10-14": 195.0,
@@ -644,7 +652,8 @@
         "2026-11-23": 189.0,
         "2026-11-24": 188.0,
         "2026-11-25": 188.0,
-        "2026-11-26": 188.0
+        "2026-11-26": 188.0,
+        "2026-11-27": 188.0
       },
       "low_price": 175.06,
       "prev_price": 189.0,
@@ -683,7 +692,7 @@
       "ean": "6932554430580",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-watch-s4-smartwatch-41mm-fluororubber-strap-zwart/9300000239464177/",
       "image": "https://media.s-bol.com/qNpPZVmn0rq0/xnlXrMl/550x481.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "bol_title": "Xiaomi Watch S4 41 mm - 1,32-inch AMOLED - Gezondheidsmonitoring - 8 dagen batterij - Zwart",
       "ph": {
         "2026-10-13": 135.89,
@@ -728,7 +737,8 @@
         "2026-11-23": 119.99,
         "2026-11-24": 119.99,
         "2026-11-25": 119.99,
-        "2026-11-26": 119.99
+        "2026-11-26": 119.99,
+        "2026-11-27": 119.99
       },
       "low_price": 119.99,
       "prev_price": 137.98,

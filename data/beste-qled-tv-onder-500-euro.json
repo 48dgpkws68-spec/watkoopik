@@ -36,7 +36,7 @@
       "price": 499.0,
       "score": 9.2,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "55 inch QLED met native 144 Hz voor gamen en films.",
       "specs": {
         "Formaat": "55 inch",
@@ -64,12 +64,13 @@
       "image": "https://media.s-bol.com/mv623VM2zKQG/k26vrgY/550x369.jpg",
       "ph": {
         "2026-11-25": 499.0,
-        "2026-11-26": 499.0
+        "2026-11-26": 499.0,
+        "2026-11-27": 499.0
       },
       "low_price": 499.0,
       "ph_ean": "6942351432779",
-      "rating": 4.7,
-      "synced": "2026-11-26"
+      "rating": 4.6,
+      "synced": "2026-11-27"
     },
     {
       "brand": "Hisense",
@@ -77,7 +78,7 @@
       "price": 399.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,8 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Dolby Vision en HDR10+ op 55 inch voor 399 euro.",
       "specs": {
         "Formaat": "55 inch",
@@ -105,12 +106,13 @@
       "image": "https://media.s-bol.com/2KxvK0qJw5MM/pZwJxA2/550x342.jpg",
       "ph": {
         "2026-11-25": 399.0,
-        "2026-11-26": 399.0
+        "2026-11-26": 399.0,
+        "2026-11-27": 399.0
       },
       "low_price": 399.0,
       "ph_ean": "6942351431352",
-      "rating": 4.8,
-      "synced": "2026-11-26"
+      "rating": 4.7,
+      "synced": "2026-11-27"
     },
     {
       "brand": "CHiQ",
@@ -146,12 +148,13 @@
       "image": "https://media.s-bol.com/YGYxoQx9M79Y/0VOovjN/550x354.jpg",
       "ph": {
         "2026-11-25": 429.0,
-        "2026-11-26": 429.0
+        "2026-11-26": 429.0,
+        "2026-11-27": 429.0
       },
       "low_price": 429.0,
       "ph_ean": "8592344205507",
       "rating": 4.8,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "TCL",
@@ -186,11 +189,12 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-50q6c-50-inch-4k-qd-miniled-2025/9300000228002743/",
       "image": "https://media.s-bol.com/DL9wVrgXjq5q/xkAnlrz/550x352.jpg",
       "ph": {
-        "2026-11-26": 489.0
+        "2026-11-26": 489.0,
+        "2026-11-27": 489.0
       },
       "low_price": 489.0,
       "ph_ean": "5901292528751",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "TCL",
@@ -226,12 +230,13 @@
       "image": "https://media.s-bol.com/gg9nk6G8jgWl/OyDl6QN/550x345.jpg",
       "ph": {
         "2026-11-25": 449.0,
-        "2026-11-26": 449.0
+        "2026-11-26": 449.0,
+        "2026-11-27": 449.0
       },
       "low_price": 449.0,
       "ph_ean": "5901292531355",
       "rating": 4.4,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Philips",
@@ -267,12 +272,13 @@
       "image": "https://media.s-bol.com/ZQWP16RypmJ2/y8X81Xw/550x387.jpg",
       "ph": {
         "2026-11-25": 489.0,
-        "2026-11-26": 489.0
+        "2026-11-26": 489.0,
+        "2026-11-27": 489.0
       },
       "low_price": 489.0,
       "ph_ean": "8718863046074",
       "rating": 4.8,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Hisense",
@@ -280,7 +286,7 @@
       "price": 479.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Echte 144 Hz op 50 inch voor console en gaming-pc.",
       "specs": {
         "Formaat": "50 inch",
@@ -308,12 +314,13 @@
       "image": "https://media.s-bol.com/R3nMzR4OkQQ0/QkAz6z9/550x369.jpg",
       "ph": {
         "2026-11-25": 479.0,
-        "2026-11-26": 479.0
+        "2026-11-26": 479.0,
+        "2026-11-27": 479.0
       },
       "low_price": 479.0,
       "ph_ean": "6942351432977",
-      "rating": 4.7,
-      "synced": "2026-11-26"
+      "rating": 4.6,
+      "synced": "2026-11-27"
     },
     {
       "brand": "Xiaomi",
@@ -321,7 +328,7 @@
       "price": 437.95,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "55 inch QLED met Google TV en 120 Hz-gamestand.",
       "specs": {
         "Formaat": "55 inch",
@@ -349,12 +356,13 @@
       "image": "https://media.s-bol.com/q3Y0BrO4kx10/Vm6jPqB/550x330.jpg",
       "ph": {
         "2026-11-25": 437.95,
-        "2026-11-26": 437.95
+        "2026-11-26": 437.95,
+        "2026-11-27": 437.95
       },
       "low_price": 437.95,
       "ph_ean": "6941948705722",
-      "rating": 4.3,
-      "synced": "2026-11-26"
+      "rating": 4.2,
+      "synced": "2026-11-27"
     },
     {
       "brand": "Hisense",
@@ -362,7 +370,7 @@
       "price": 299.0,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,8 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Hi-QLED met Dolby Vision op 43 inch voor 299 euro.",
       "specs": {
         "Formaat": "43 inch",
@@ -390,12 +398,13 @@
       "image": "https://media.s-bol.com/D31qrV00OpMK/nRQ2J4P/550x342.jpg",
       "ph": {
         "2026-11-25": 299.0,
-        "2026-11-26": 299.0
+        "2026-11-26": 299.0,
+        "2026-11-27": 299.0
       },
       "low_price": 299.0,
       "ph_ean": "6942351430973",
-      "rating": 4.8,
-      "synced": "2026-11-26"
+      "rating": 4.7,
+      "synced": "2026-11-27"
     },
     {
       "brand": "Philips",
@@ -430,12 +439,13 @@
       "url": "https://www.bol.com/nl/nl/p/philips-55pqs7801-12-55-inch-4k-qled-2026/9300000354155810/",
       "image": "https://media.s-bol.com/74KYxQonpnVA/NLBODKN/550x247.jpg",
       "ph": {
-        "2026-11-26": 452.54
+        "2026-11-26": 452.54,
+        "2026-11-27": 452.54
       },
       "low_price": 452.54,
       "ph_ean": "8718863051672",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     }
   ],
   "guide": [

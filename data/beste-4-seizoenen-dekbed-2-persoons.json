@@ -16,7 +16,7 @@
   ],
   "ico": "🛏️",
   "color": "#3f5f8f",
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "published": "2026-11-23",
   "google_wacht": true,
   "reviews_total": "",
@@ -42,9 +42,9 @@
       "specs": {
         "Maat": "200x220 cm",
         "Vulling": "90% eendendons",
-        "Vulgewicht": "Niet opgegeven",
+        "Vulgewicht": "770 g samen (bol-specificaties)",
         "Warmteklasse": "4 en 3, samen 1",
-        "Wasbaar": "Niet opgegeven"
+        "Wasbaar": "Ja, temperatuur niet opgegeven"
       },
       "pros": [
         "Gekoppeld warmteklasse 1, zo warm als een winterdekbed",
@@ -53,11 +53,11 @@
         "Extra lang: 200x220 cm"
       ],
       "cons": [
-        "Vulgewicht wordt niet genoemd",
-        "Geen wasadvies in de productinformatie"
+        "Vulgewicht staat alleen in de bol-specificaties: 770 gram samen",
+        "Bol noemt wasbaar, maar geen wastemperatuur"
       ],
       "ideal": "Stellen die één donsdekbed voor het hele jaar willen dat in de winter echt warm wordt.",
-      "text": "De Nordic van Ducky Dons bestaat uit een zomerdeel met warmteklasse 4 en een lente- en herfstdeel met warmteklasse 3. Koppel je ze, dan heb je een extra warm dekbed met warmteklasse 1. In de winter heb je dus geen apart dekbed nodig. De maat is 200x220, extra lang voor een tweepersoons bed van 120 of 140 cm breed. Dat is prettig als een van jullie lang is of graag de voeten onder het dekbed houdt.\n\nDe vulling is 90% nieuwe witte Europese eendendons van klasse 1, in een tijk van fijn perkal katoen met een soft finish. De tijk heeft het NOMITE-keurmerk: zo dicht geweven dat huisstofmijt er niet in komt. Het Downafresh-label zegt dat het dons zorgvuldig is gereinigd en gedroogd. Het vulgewicht en het wasadvies staan niet in de productinformatie, check daarvoor het label bij ontvangst. Het is ook goedkoper dan de twee dekbedden met ganzendons in deze lijst, van Ten Cate en Silently. Je weet alleen minder precies hoeveel dons er in elk deel zit.",
+      "text": "De Nordic van Ducky Dons bestaat uit een zomerdeel met warmteklasse 4 en een lente- en herfstdeel met warmteklasse 3. Koppel je ze, dan heb je een extra warm dekbed met warmteklasse 1. In de winter heb je dus geen apart dekbed nodig. De maat is 200x220, extra lang voor een tweepersoons bed van 120 of 140 cm breed. Dat is prettig als een van jullie lang is of graag de voeten onder het dekbed houdt.\n\nDe vulling is 90% nieuwe witte Europese eendendons van klasse 1, in een tijk van fijn perkal katoen met een soft finish. De tijk heeft het NOMITE-keurmerk: zo dicht geweven dat huisstofmijt er niet in komt. Het Downafresh-label zegt dat het dons zorgvuldig is gereinigd en gedroogd. In de omschrijving staat geen vulgewicht, in de specificaties bij bol wel: 770 gram in totaal, waarvan 440 gram in het lente- en herfstdeel. Bol noemt het dekbed wasbaar en geschikt voor de droger op lage temperatuur, zonder wastemperatuur. Check daarvoor het waslabel. Het is ook goedkoper dan de twee dekbedden met ganzendons in deze lijst, van Ten Cate en Silently.",
       "ean": "8718719723142",
       "bol_title": "Ducky Dons Nordic 4-Seizoenen dekbed - 200x220",
       "url": "https://www.bol.com/nl/nl/p/ducky-dons-nordic-4-seizoenen-dekbed-200x220/9200000040431638/",
@@ -66,12 +66,13 @@
         "2026-11-23": 255.95,
         "2026-11-24": 255.95,
         "2026-11-25": 255.95,
-        "2026-11-26": 259.0
+        "2026-11-26": 259.0,
+        "2026-11-27": 259.0
       },
       "low_price": 255.95,
       "ph_ean": "8718719723142",
       "rating": 4.8,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 255.95,
       "prev_date": "2026-11-25"
     },
@@ -111,12 +112,13 @@
         "2026-11-23": 399.99,
         "2026-11-24": 399.99,
         "2026-11-25": 399.99,
-        "2026-11-26": 399.99
+        "2026-11-26": 399.99,
+        "2026-11-27": 399.99
       },
       "low_price": 399.99,
       "ph_ean": "8718719728499",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Silently",
@@ -150,12 +152,13 @@
       "url": "https://www.bol.com/nl/nl/p/silently-ganzen-dons-4-seizoenen-dekbed-200x220-cm/9200000059911910/",
       "image": "https://media.s-bol.com/BMJN7JQ7VZWW/jRkXEEl/550x550.jpg",
       "ph": {
-        "2026-11-26": 289.95
+        "2026-11-26": 289.95,
+        "2026-11-27": 289.95
       },
       "low_price": 289.95,
       "ph_ean": "8438476408211",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Ten Cate",
@@ -192,12 +195,13 @@
         "2026-11-23": 249.99,
         "2026-11-24": 249.99,
         "2026-11-25": 249.99,
-        "2026-11-26": 249.99
+        "2026-11-26": 249.99,
+        "2026-11-27": 249.99
       },
       "low_price": 249.99,
       "ph_ean": "8718719726396",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Terschellinger",
@@ -234,12 +238,13 @@
         "2026-11-23": 179.0,
         "2026-11-24": 179.0,
         "2026-11-25": 179.0,
-        "2026-11-26": 179.0
+        "2026-11-26": 179.0,
+        "2026-11-27": 179.0
       },
       "low_price": 179.0,
       "ph_ean": "8720256479413",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Texels Comfort",
@@ -276,12 +281,13 @@
         "2026-11-23": 149.0,
         "2026-11-24": 149.0,
         "2026-11-25": 149.0,
-        "2026-11-26": 149.0
+        "2026-11-26": 149.0,
+        "2026-11-27": 149.0
       },
       "low_price": 149.0,
       "ph_ean": "8721067012035",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Polydaun",
@@ -318,12 +324,13 @@
         "2026-11-23": 199.95,
         "2026-11-24": 199.95,
         "2026-11-25": 199.65,
-        "2026-11-26": 199.95
+        "2026-11-26": 199.95,
+        "2026-11-27": 199.95
       },
       "low_price": 199.65,
       "ph_ean": "8717874010555",
       "rating": 4.8,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 199.65,
       "prev_date": "2026-11-25"
     },
@@ -362,12 +369,13 @@
         "2026-11-23": 119.0,
         "2026-11-24": 119.0,
         "2026-11-25": 119.0,
-        "2026-11-26": 119.0
+        "2026-11-26": 119.0,
+        "2026-11-27": 119.0
       },
       "low_price": 119.0,
       "ph_ean": "8718801100219",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Fabiola",
@@ -405,12 +413,13 @@
         "2026-11-23": 129.0,
         "2026-11-24": 129.0,
         "2026-11-25": 129.0,
-        "2026-11-26": 129.0
+        "2026-11-26": 129.0,
+        "2026-11-27": 129.0
       },
       "low_price": 129.0,
       "ph_ean": "8720618169723",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Homescapes",
@@ -447,12 +456,13 @@
         "2026-11-23": 96.99,
         "2026-11-24": 96.99,
         "2026-11-25": 96.99,
-        "2026-11-26": 96.99
+        "2026-11-26": 96.99,
+        "2026-11-27": 96.99
       },
       "low_price": 96.99,
       "ph_ean": "5055967420939",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     }
   ],
   "guide": [
@@ -513,6 +523,12 @@
       "uit": "Castella Sirius 4-Seizoenen Dekbed 90% Eendendons 200x220",
       "in": "Silently Ganzendons 4-Seizoenen Dekbed 200x220",
       "waarom": "de maat 200x220 is niet meer leverbaar bij bol"
+    }
+  ],
+  "changelog": [
+    {
+      "d": "2026-11-27",
+      "t": "Aangevuld uit de specificaties bij bol: de Ducky Dons Nordic heeft 770 gram vulling in totaal, waarvan 440 gram in het lente- en herfstdeel. Het is volgens bol wasbaar en geschikt voor de droger. Er stond dat vulgewicht en wasadvies niet zijn opgegeven. Een wastemperatuur noemt bol niet. De prijs is gecontroleerd: 259 euro."
     }
   ]
 }

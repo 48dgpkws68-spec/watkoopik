@@ -25,7 +25,7 @@
     {
       "brand": "LG",
       "name": "C5 OLED65C56LB",
-      "price": 1366.62,
+      "price": 1349.0,
       "score": 9.4,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -71,12 +71,13 @@
         "2026-11-23": 1366.62,
         "2026-11-24": 1366.62,
         "2026-11-25": 1366.62,
-        "2026-11-26": 1366.62
+        "2026-11-26": 1366.62,
+        "2026-11-27": 1349.0
       },
-      "low_price": 1366.62,
-      "synced": "2026-11-26",
-      "prev_price": 1366.63,
-      "prev_date": "2026-11-20",
+      "low_price": 1349.0,
+      "synced": "2026-11-27",
+      "prev_price": 1366.62,
+      "prev_date": "2026-11-26",
       "ph_ean": "8806096363430",
       "rating": 4.7
     },
@@ -131,10 +132,11 @@
         "2026-11-23": 1999.0,
         "2026-11-24": 1999.0,
         "2026-11-25": 1999.0,
-        "2026-11-26": 1999.0
+        "2026-11-26": 1999.0,
+        "2026-11-27": 1999.0
       },
       "low_price": 1999.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "4548736178335"
     },
     {
@@ -187,10 +189,11 @@
         "2026-11-23": 1689.0,
         "2026-11-24": 1689.0,
         "2026-11-25": 1696.0,
-        "2026-11-26": 1689.0
+        "2026-11-26": 1689.0,
+        "2026-11-27": 1689.0
       },
       "low_price": 1579.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 1696.0,
       "prev_date": "2026-11-25",
       "ph_ean": "8806099124229"
@@ -244,10 +247,11 @@
         "2026-11-23": 999.0,
         "2026-11-24": 988.0,
         "2026-11-25": 988.0,
-        "2026-11-26": 988.0
+        "2026-11-26": 988.0,
+        "2026-11-27": 988.0
       },
       "low_price": 988.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "5901292531775",
       "rating": 5.0,
       "prev_price": 999.0,
@@ -303,10 +307,11 @@
         "2026-11-23": 799.0,
         "2026-11-24": 799.0,
         "2026-11-25": 799.0,
-        "2026-11-26": 799.0
+        "2026-11-26": 799.0,
+        "2026-11-27": 799.0
       },
       "low_price": 799.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 815.0,
       "prev_date": "2026-11-19",
       "ph_ean": "8806099134341",
@@ -362,10 +367,11 @@
         "2026-11-23": 1049.0,
         "2026-11-24": 1049.0,
         "2026-11-25": 1049.0,
-        "2026-11-26": 1049.0
+        "2026-11-26": 1049.0,
+        "2026-11-27": 1049.0
       },
       "low_price": 1049.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "8806099129613"
     },
     {
@@ -418,10 +424,11 @@
         "2026-11-23": 946.0,
         "2026-11-24": 946.0,
         "2026-11-25": 946.0,
-        "2026-11-26": 946.0
+        "2026-11-26": 946.0,
+        "2026-11-27": 946.0
       },
       "low_price": 946.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 949.0,
       "prev_date": "2026-11-10",
       "ph_ean": "5901292531058",
@@ -477,10 +484,11 @@
         "2026-11-23": 899.0,
         "2026-11-24": 899.0,
         "2026-11-25": 899.0,
-        "2026-11-26": 899.0
+        "2026-11-26": 899.0,
+        "2026-11-27": 899.0
       },
       "low_price": 899.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "5901292531515",
       "rating": 4.7
     },
@@ -517,12 +525,13 @@
       "url": "https://www.bol.com/nl/nl/p/tcl-65t8d-65-inch-4k-qd-miniled-2026-smart-tv/9300000273452867/",
       "image": "https://media.s-bol.com/90P0oJA57yK8/z6Q6Y45/550x342.jpg",
       "ph": {
-        "2026-11-26": 699.0
+        "2026-11-26": 699.0,
+        "2026-11-27": 699.0
       },
       "low_price": 699.0,
       "ph_ean": "5901292531065",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Hisense",
@@ -530,7 +539,7 @@
       "price": 669.0,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Betaalbare 65 inch met native 144 Hz voor gamers.",
       "specs": {
         "Formaat": "65 inch",
@@ -551,7 +560,7 @@
         "Kijkhoek beperkt"
       ],
       "ideal": "Gamers die ook voetbal kijken en vooral op de prijs letten.",
-      "text": "De Hisense 65E7S PRO is de goedkoopste tv in deze lijst en vooral interessant als je naast voetbal kijken ook veel EA FC speelt. Hij draait native op 144 Hz met VRR en ALLM, met een input lag die in de spelmodus laag genoeg is voor online wedstrijden. Voor een 65 inch tv van rond de 670 euro is dat bijzonder.\n\nWat je inlevert ten opzichte van de Samsung UE65M82H is Mini LED. De E7S PRO heeft gewone verlichting met minder dimzones, dus het contrast is lager en de helderheid minder geschikt voor een zonnige kamer. Bij een avondwedstrijd met het licht gedimd zie je dat verschil minder. De sportmodus van Hisense maakt het veld levendig, al oogt de beweging bij snelle camerapans iets onrustiger dan bij duurdere modellen. Kopers op bol geven hem 4,8 van 5. Kun je ruim 100 euro meer missen, dan is de UE65M82H de betere keuze.",
+      "text": "De Hisense 65E7S PRO is de goedkoopste tv in deze lijst en vooral interessant als je naast voetbal kijken ook veel EA FC speelt. Hij draait native op 144 Hz met VRR en ALLM, met een input lag die in de spelmodus laag genoeg is voor online wedstrijden. Voor een 65 inch tv van rond de 670 euro is dat bijzonder.\n\nWat je inlevert ten opzichte van de Samsung UE65M82H is Mini LED. De E7S PRO heeft gewone verlichting met minder dimzones, dus het contrast is lager en de helderheid minder geschikt voor een zonnige kamer. Bij een avondwedstrijd met het licht gedimd zie je dat verschil minder. De sportmodus van Hisense maakt het veld levendig, al oogt de beweging bij snelle camerapans iets onrustiger dan bij duurdere modellen. Kopers op bol geven hem 4,6 van 5. Kun je ruim 100 euro meer missen, dan is de UE65M82H de betere keuze.",
       "ean": "6942351432595",
       "bol_title": "Hisense 65E7S PRO SmartTV - 65 inch - 4K Hi-QLED - 2026 - Native 144Hz Game Mode - Hi-QLED Colour - Built-in Subwoofer - AI Picture - AI Smooth Motion - AMD FreeSync Premium - Dolby Vision Atmos",
       "url": "https://www.bol.com/nl/nl/p/hisense-65e7s-pro-smarttv-65-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000269685075/",
@@ -574,12 +583,13 @@
         "2026-11-23": 669.0,
         "2026-11-24": 669.0,
         "2026-11-25": 669.0,
-        "2026-11-26": 669.0
+        "2026-11-26": 669.0,
+        "2026-11-27": 669.0
       },
       "low_price": 669.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "6942351432595",
-      "rating": 4.7
+      "rating": 4.6
     }
   ],
   "guide": [

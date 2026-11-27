@@ -22,7 +22,7 @@
     {
       "brand": "KitchenAid",
       "name": "Artisan 5KSM175PS",
-      "price": 481.0,
+      "price": 465.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,9 van 5",
@@ -50,7 +50,7 @@
       "ean": "5413184200466",
       "url": "https://www.bol.com/nl/nl/p/kitchenaid-artisan-5ksm175psebk-keukenmachine-vulkaanzwart/9200000068046291/",
       "image": "https://media.s-bol.com/ggr9K04kW4Q6/mq7963A/550x527.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "bol_title": "Kitchenaid Artisan 5KSM175PSEBK - Keukenmachine - Vulkaanzwart - 6 accessoires",
       "ph": {
         "2026-10-13": 484.0,
@@ -95,11 +95,12 @@
         "2026-11-23": 481.0,
         "2026-11-24": 481.0,
         "2026-11-25": 481.0,
-        "2026-11-26": 481.0
+        "2026-11-26": 481.0,
+        "2026-11-27": 465.0
       },
       "low_price": 458.47,
-      "prev_price": 458.47,
-      "prev_date": "2026-11-13",
+      "prev_price": 481.0,
+      "prev_date": "2026-11-26",
       "ph_ean": "5413184200466",
       "rating": 4.9
     },
@@ -135,7 +136,7 @@
       "bol_title": "Bosch MUM5 - MUM58L20 - Keukenmachine - 1000W - 3,9L - Grijs",
       "url": "https://www.bol.com/nl/nl/p/bosch-mum5-creationline-mum58l20-keukenmachine-grijs/9200000054541658/",
       "image": "https://media.s-bol.com/nkEAr04Yv0jY/kR7Z0NN/550x367.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 238.0,
         "2026-10-16": 238.0,
@@ -177,7 +178,8 @@
         "2026-11-23": 210.24,
         "2026-11-24": 210.24,
         "2026-11-25": 210.24,
-        "2026-11-26": 210.24
+        "2026-11-26": 210.24,
+        "2026-11-27": 210.24
       },
       "low_price": 210.24,
       "prev_price": 221.3,
@@ -222,11 +224,12 @@
         "2026-11-23": 800.0,
         "2026-11-24": 800.0,
         "2026-11-25": 800.0,
-        "2026-11-26": 800.0
+        "2026-11-26": 800.0,
+        "2026-11-27": 800.0
       },
       "low_price": 800.0,
       "ph_ean": "5011423206158",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Kenwood",
@@ -260,7 +263,7 @@
       "bol_title": "Kenwood kMix Keukenmachines KMX750WH",
       "url": "https://www.bol.com/nl/nl/p/kenwood-kmix-keukenmachines-kmx750wh/9200000075677182/",
       "image": "https://media.s-bol.com/xxqL6n2gwqGP/QW1ZAOM/550x533.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 239.95,
         "2026-10-16": 249.95,
@@ -302,7 +305,8 @@
         "2026-11-23": 249.95,
         "2026-11-24": 249.95,
         "2026-11-25": 229.95,
-        "2026-11-26": 229.95
+        "2026-11-26": 229.95,
+        "2026-11-27": 229.95
       },
       "low_price": 229.95,
       "prev_price": 249.95,
@@ -342,7 +346,7 @@
       "bol_title": "Magimix CS 5200 XL Foodprocessor - Keukenmachine - Zwart",
       "url": "https://www.bol.com/nl/nl/p/magimix-cs-5200-xl-foodprocessor-keukenmachine-zwart/9200000009886018/",
       "image": "https://media.s-bol.com/RXAJ11KxgRRz/ZNnn4g/402x840.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-13": 549.0,
         "2026-10-14": 549.0,
@@ -386,7 +390,8 @@
         "2026-11-23": 549.0,
         "2026-11-24": 549.0,
         "2026-11-25": 549.0,
-        "2026-11-26": 549.0
+        "2026-11-26": 549.0,
+        "2026-11-27": 549.0
       },
       "low_price": 549.0,
       "ph_ean": "3519280016757",
@@ -423,7 +428,7 @@
       "ean": "4242005109340",
       "url": "https://www.bol.com/nl/nl/p/bosch-multitalent-8-mc812m844-foodprocessor-zwart-rvs/9200000098451837/",
       "image": "https://media.s-bol.com/7NAmEG5qE91/550x381.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "bol_title": "Bosch MultiTalent 8 MC812M844 - Foodprocessor - Zwart/RVS",
       "ph": {
         "2026-10-13": 169.0,
@@ -468,7 +473,8 @@
         "2026-11-23": 168.0,
         "2026-11-24": 168.0,
         "2026-11-25": 168.0,
-        "2026-11-26": 168.0
+        "2026-11-26": 168.0,
+        "2026-11-27": 168.0
       },
       "low_price": 144.95,
       "prev_price": 168.99,
@@ -479,7 +485,7 @@
     {
       "brand": "Smeg",
       "name": "SMF03 Keukenmachine",
-      "price": 414.23,
+      "price": 429.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -508,7 +514,7 @@
       "bol_title": "SMEG SMF03WHEU Keukenmachine - Stand Mixer - 4,8 Liter - 800 Watt - 10 Snelheden - Planetaire Mengwerking - Inclusief 5 Accessoires - '50s Style - Wit",
       "url": "https://www.bol.com/nl/nl/p/smeg-smf03wheu-keukenmachine-wit-800-w-full-color/9300000020594367/",
       "image": "https://media.s-bol.com/2BqQvkjXEngP/RgL6QBE/550x640.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 420.23,
         "2026-10-16": 422.25,
@@ -550,18 +556,19 @@
         "2026-11-23": 414.2,
         "2026-11-24": 429.0,
         "2026-11-25": 429.0,
-        "2026-11-26": 414.23
+        "2026-11-26": 414.23,
+        "2026-11-27": 429.0
       },
       "low_price": 409.92,
-      "prev_price": 429.0,
-      "prev_date": "2026-11-25",
+      "prev_price": 414.23,
+      "prev_date": "2026-11-26",
       "ph_ean": "8017709277697",
       "rating": 4.2
     },
     {
       "brand": "Kenwood",
       "name": "Prospero+ KHC29.W0SI",
-      "price": 157.53,
+      "price": 163.99,
       "score": 8.3,
       "label": null,
       "reviews": "",
@@ -590,7 +597,7 @@
       "bol_title": "Kenwood KHC29.A0WH keukenmachine 1000 W 4,3 l Roestvrijstaal, Wit",
       "url": "https://www.bol.com/nl/nl/p/kenwood-khc29-a0wh-keukenmachine-1000-w-4-3-l-roestvrijstaal-wit/9300000139585243/",
       "image": "https://media.s-bol.com/k37Zvvg3kzmr/g5zrlk9/550x732.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 160.91,
         "2026-10-16": 160.91,
@@ -632,11 +639,12 @@
         "2026-11-23": 157.52,
         "2026-11-24": 157.52,
         "2026-11-25": 157.53,
-        "2026-11-26": 157.53
+        "2026-11-26": 157.53,
+        "2026-11-27": 163.99
       },
       "low_price": 152.73,
-      "prev_price": 163.99,
-      "prev_date": "2026-11-22",
+      "prev_price": 157.53,
+      "prev_date": "2026-11-26",
       "ph_ean": "5011423206394"
     },
     {
@@ -669,8 +677,8 @@
       "text": "De KitchenAid Classic is de goedkoopste manier om een echte KitchenAid in huis te halen. De machine deelt de gegoten metalen behuizing, de directe aandrijving en de planetaire beweging met de duurdere Artisan. De verschillen zijn praktisch: een motor van 275 in plaats van 300 watt, een kom van 4,3 liter zonder handgreep, geen spatdeksel en alleen de kleur wit. Voor wie dat niet uitmaakt, scheelt het 150 euro.\n\nIn de praktijk kneedt de Classic volgens gebruikers 800 gram tot 1 kilo brooddeeg zonder problemen en klopt hij slagroom en eiwit tot stevige pieken. Alle hulpstukken voor de voorzijde passen, van gehaktmolen tot groentesnijder. De reputatie: machines gaan tientallen jaren mee en onderdelen blijven leverbaar. Een spatdeksel koop je los bij. Voor wie met een beperkt budget toch de beste bouwkwaliteit wil, is dit de verstandige keuze.",
       "ean": "5413184602710",
       "url": "https://www.bol.com/nl/nl/p/kitchenaid-5k45ssebm-classic-keukenmachine-mat-zwart/9300000038342437/",
-      "image": "https://media.s-bol.com/qVllVvnoGq73/550x658.jpg",
-      "synced": "2026-11-26",
+      "image": "https://media.s-bol.com/xJ1xo5NAYzYz/K8qYk0R/506x840.jpg",
+      "synced": "2026-11-27",
       "bol_title": "KitchenAid 5K45SSEBM Classic - Keukenmachine - Mat Zwart",
       "ph": {
         "2026-10-13": 357.8,
@@ -715,7 +723,8 @@
         "2026-11-23": 309.0,
         "2026-11-24": 309.0,
         "2026-11-25": 309.0,
-        "2026-11-26": 309.0
+        "2026-11-26": 309.0,
+        "2026-11-27": 309.0
       },
       "low_price": 309.0,
       "prev_price": 314.3,
@@ -754,7 +763,7 @@
       "bol_title": "Philips Viva Collection - Keukenmachine - HR7510/10 - Zwart",
       "url": "https://www.bol.com/nl/nl/p/philips-viva-collection-compacte-keukenmachine-800-w-met-29-functies/9200000121137477/",
       "image": "https://media.s-bol.com/A4g0y3wvr7Kj/jZgNgyy/387x840.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-13": 109.0,
         "2026-10-15": 109.0,
@@ -797,7 +806,8 @@
         "2026-11-23": 96.0,
         "2026-11-24": 96.0,
         "2026-11-25": 96.0,
-        "2026-11-26": 96.0
+        "2026-11-26": 96.0,
+        "2026-11-27": 96.0
       },
       "low_price": 96.0,
       "prev_price": 109.0,

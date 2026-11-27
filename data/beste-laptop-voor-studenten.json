@@ -58,11 +58,12 @@
         "2026-11-23": 763.0,
         "2026-11-24": 763.0,
         "2026-11-25": 782.0,
-        "2026-11-26": 763.0
+        "2026-11-26": 763.0,
+        "2026-11-27": 763.0
       },
       "low_price": 763.0,
       "ph_ean": "0194253083252",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 782.0,
       "prev_date": "2026-11-25"
     },
@@ -97,7 +98,7 @@
       "bol_title": "Lenovo IdeaPad Slim 3 15AMN8 - Laptop - 15.6 inch - Ryzen 5 - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/lenovo-ideapad-slim-3-15amn8-amd-ryzen-5-40-laptop-39-6-cm-full-hd-16-gb-lpddr5-sdram-512-gb-ssd-wi-fi-6-windows-11-home-engels-grijs/9300000263613346/",
       "image": "https://media.s-bol.com/y3K2r6OAPM46/gL5Z2D3/550x427.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-16": 599.0,
         "2026-10-17": 599.0,
@@ -138,7 +139,8 @@
         "2026-11-23": 599.0,
         "2026-11-24": 599.0,
         "2026-11-25": 599.0,
-        "2026-11-26": 599.0
+        "2026-11-26": 599.0,
+        "2026-11-27": 599.0
       },
       "low_price": 599.0,
       "prev_price": 679.0,
@@ -149,7 +151,7 @@
     {
       "brand": "Apple",
       "name": "MacBook Air 13 inch M5 (2026) 16 GB 512 GB",
-      "price": 1323.0,
+      "price": 1245.0,
       "score": 9.3,
       "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
@@ -177,7 +179,7 @@
       "bol_title": "Apple MacBook Air (2026) 13.6 inch - M5 - 16 GB - 512 GB - Middernacht",
       "url": "https://www.bol.com/nl/nl/p/apple-macbook-air-13-m5-16-gb-512-gb-middernacht/9300000266631367/",
       "image": "https://media.s-bol.com/pyO17zBQZw2p/k2kqp7E/550x334.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-16": 1409.0,
         "2026-10-17": 1409.0,
@@ -218,11 +220,12 @@
         "2026-11-23": 1377.0,
         "2026-11-24": 1377.0,
         "2026-11-25": 1323.0,
-        "2026-11-26": 1323.0
+        "2026-11-26": 1323.0,
+        "2026-11-27": 1245.0
       },
-      "low_price": 1323.0,
-      "prev_price": 1377.0,
-      "prev_date": "2026-11-24",
+      "low_price": 1245.0,
+      "prev_price": 1323.0,
+      "prev_date": "2026-11-26",
       "ph_ean": "0195950690224",
       "rating": 4.7
     },
@@ -257,7 +260,7 @@
       "bol_title": "ASUS Zenbook 14 UX3480QA-SF003W - Copilot+ Laptop - 14 inch OLED - Snapdragon X - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/asus-zenbook-14-ux3480qa-sf003w-snapdragon-x1-26-100-14-inch-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-6e-windows-11-home/9300000330682162/",
       "image": "https://media.s-bol.com/J3379yrRWEgK/r2oyg06/550x380.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-16": 1099.0,
         "2026-10-17": 1099.0,
@@ -298,7 +301,8 @@
         "2026-11-23": 849.0,
         "2026-11-24": 849.0,
         "2026-11-25": 849.0,
-        "2026-11-26": 849.0
+        "2026-11-26": 849.0,
+        "2026-11-27": 849.0
       },
       "low_price": 849.0,
       "prev_price": 949.0,
@@ -345,10 +349,11 @@
         "2026-11-23": 799.0,
         "2026-11-24": 799.0,
         "2026-11-25": 649.0,
-        "2026-11-26": 649.0
+        "2026-11-26": 649.0,
+        "2026-11-27": 649.0
       },
       "low_price": 649.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 799.0,
       "prev_date": "2026-11-24"
     },
@@ -382,7 +387,7 @@
       "bol_title": "Lenovo IdeaPad Slim 5 15ARP10 - Laptop - 15.3 inch - Ryzen 5 - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/lenovo-ideapad-slim-5-15arp10-amd-ryzen-5-7535hs-laptop-38-9-cm-wuxga-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-6-windows-11-home-engels-grijs/9300000231229266/",
       "image": "https://media.s-bol.com/YKN2q8mj5P69/GZBJDx7/550x409.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-16": 899.0,
         "2026-10-17": 899.0,
@@ -423,7 +428,8 @@
         "2026-11-23": 899.0,
         "2026-11-24": 899.0,
         "2026-11-25": 899.0,
-        "2026-11-26": 899.0
+        "2026-11-26": 899.0,
+        "2026-11-27": 899.0
       },
       "low_price": 899.0,
       "ph_ean": "0199271275306",
@@ -490,13 +496,14 @@
         "2026-11-23": 749.95,
         "2026-11-24": 749.95,
         "2026-11-25": 749.95,
-        "2026-11-26": 749.95
+        "2026-11-26": 749.95,
+        "2026-11-27": 749.95
       },
       "low_price": 718.0,
       "bol_title": "ASUS Vivobook 15 X1504VA-BQ2961W Intel® Core™ i5 i5-1334U Laptop 39,6 cm (15.6\") Full HD 16 GB DDR4-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Home Blauw QWERTY Nederlands",
       "url": "https://www.bol.com/nl/nl/p/asus-vivobook-15-x1504va-bq2961w-intel-core-i5-i5-1334u-laptop-39-6-cm-full-hd-16-gb-ddr4-sdram-512-gb-ssd-wi-fi-6-windows-11-home-nederlands-blauw/9300000229858580/",
       "image": "https://media.s-bol.com/xEL2GQG6qx4B/9rwQELZ/550x324.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "4711636040044",
       "rating": 5.0
     },
@@ -531,7 +538,7 @@
       "bol_title": "Acer Aspire Go 15 AG15-72P-58FA - Laptop - 15 inch - Core 5 - 16GB - 512GB SSD - Zilver",
       "url": "https://www.bol.com/nl/nl/p/acer-aspire-go-15-ag15-72p-58fa-qwerty/9300000269811813/",
       "image": "https://media.s-bol.com/nKZNvyv0GqGY/L8QWyWW/550x373.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-24": 829.0,
         "2026-10-25": 829.0,
@@ -565,7 +572,8 @@
         "2026-11-23": 799.0,
         "2026-11-24": 799.0,
         "2026-11-25": 799.0,
-        "2026-11-26": 799.0
+        "2026-11-26": 799.0,
+        "2026-11-27": 799.0
       },
       "low_price": 799.0,
       "prev_price": 829.0,
@@ -604,7 +612,7 @@
       "bol_title": "HP OmniBook 5 Flip 14-fp0770nd - 2-in-1 Laptop - 14 Inch OLED Full HD 16:10 - Intel Core 7 - 16 GB - 512 GB - Touchscreen",
       "url": "https://www.bol.com/nl/nl/p/hp-omnibook-5-flip-14-fp0770nd-2-in-1-laptop-14-inch-touchscreen/9300000232681966/",
       "image": "https://media.s-bol.com/3W8X2RXoor9A/yovGyVw/550x310.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-16": 1009.0,
         "2026-10-17": 1049.0,
@@ -645,7 +653,8 @@
         "2026-11-23": 1199.0,
         "2026-11-24": 1089.0,
         "2026-11-25": 1089.0,
-        "2026-11-26": 1199.0
+        "2026-11-26": 1199.0,
+        "2026-11-27": 1199.0
       },
       "low_price": 974.0,
       "prev_price": 1089.0,
@@ -699,11 +708,12 @@
         "2026-11-23": 399.0,
         "2026-11-24": 399.0,
         "2026-11-25": 399.0,
-        "2026-11-26": 399.0
+        "2026-11-26": 399.0,
+        "2026-11-27": 399.0
       },
       "low_price": 399.0,
       "ph_ean": "4711721015643",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "rating": 4.8,
       "prev_price": 439.0,
       "prev_date": "2026-11-19"

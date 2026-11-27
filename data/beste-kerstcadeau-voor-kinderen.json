@@ -75,10 +75,11 @@
         "2026-11-23": 62.47,
         "2026-11-24": 61.8,
         "2026-11-25": 61.85,
-        "2026-11-26": 61.83
+        "2026-11-26": 61.83,
+        "2026-11-27": 61.83
       },
       "low_price": 55.09,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 61.85,
       "prev_date": "2026-11-25",
       "ph_ean": "5702018054826",
@@ -138,10 +139,11 @@
         "2026-11-23": 41.62,
         "2026-11-24": 41.62,
         "2026-11-25": 41.62,
-        "2026-11-26": 41.62
+        "2026-11-26": 41.62,
+        "2026-11-27": 41.62
       },
       "low_price": 41.62,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "4005556275977",
       "prev_price": 44.99,
       "prev_date": "2026-11-14",
@@ -150,7 +152,7 @@
     {
       "brand": "Nintendo",
       "name": "Switch 2 spelcomputer zwart",
-      "price": 477.0,
+      "price": 488.0,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,8 van 5",
@@ -184,11 +186,14 @@
         "2026-11-23": 477.0,
         "2026-11-24": 477.0,
         "2026-11-25": 477.0,
-        "2026-11-26": 477.0
+        "2026-11-26": 477.0,
+        "2026-11-27": 488.0
       },
       "low_price": 477.0,
       "ph_ean": "0045496337414",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27",
+      "prev_price": 477.0,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "Fujifilm",
@@ -229,21 +234,22 @@
         "2026-11-23": 86.0,
         "2026-11-24": 84.0,
         "2026-11-25": 84.0,
-        "2026-11-26": 84.0
+        "2026-11-26": 84.0,
+        "2026-11-27": 84.0
       },
       "low_price": 84.0,
       "ph_ean": "4547410564884",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 86.0,
       "prev_date": "2026-11-23"
     },
     {
       "brand": "LEGO",
       "name": "DUPLO Interactieve avonturentrein 10427",
-      "price": 56.0,
+      "price": 56.1,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
+      "reviews": "bol-score 4,9 van 5",
       "oneliner": "Rijdende trein die reageert op gekleurde actiestenen.",
       "specs": {
         "Leeftijd": "2+",
@@ -291,14 +297,15 @@
         "2026-11-23": 56.1,
         "2026-11-24": 56.1,
         "2026-11-25": 56.1,
-        "2026-11-26": 56.0
+        "2026-11-26": 56.0,
+        "2026-11-27": 56.1
       },
       "low_price": 47.99,
-      "synced": "2026-11-26",
-      "prev_price": 56.1,
-      "prev_date": "2026-11-25",
+      "synced": "2026-11-27",
+      "prev_price": 56.0,
+      "prev_date": "2026-11-26",
       "ph_ean": "5702017583822",
-      "rating": 5.0
+      "rating": 4.9
     },
     {
       "brand": "LEGO",
@@ -354,10 +361,11 @@
         "2026-11-23": 44.99,
         "2026-11-24": 44.99,
         "2026-11-25": 44.99,
-        "2026-11-26": 44.99
+        "2026-11-26": 44.99,
+        "2026-11-27": 44.99
       },
       "low_price": 44.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 50.12,
       "prev_date": "2026-11-21",
       "ph_ean": "5702017815206",
@@ -366,7 +374,7 @@
     {
       "brand": "LEGO",
       "name": "Harry Potter Het Monsterlijke Monsterboek 76449",
-      "price": 44.99,
+      "price": 50.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -417,12 +425,13 @@
         "2026-11-23": 49.99,
         "2026-11-24": 49.99,
         "2026-11-25": 44.99,
-        "2026-11-26": 44.99
+        "2026-11-26": 44.99,
+        "2026-11-27": 50.99
       },
       "low_price": 38.99,
-      "synced": "2026-11-26",
-      "prev_price": 49.99,
-      "prev_date": "2026-11-24",
+      "synced": "2026-11-27",
+      "prev_price": 44.99,
+      "prev_date": "2026-11-26",
       "ph_ean": "5702017812878",
       "rating": 4.9
     },
@@ -480,10 +489,11 @@
         "2026-11-23": 42.99,
         "2026-11-24": 42.99,
         "2026-11-25": 42.99,
-        "2026-11-26": 42.99
+        "2026-11-26": 42.99,
+        "2026-11-27": 42.99
       },
       "low_price": 42.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "3417761938232",
       "rating": 4.4
     },
@@ -493,7 +503,7 @@
       "price": 94.99,
       "score": 8.4,
       "label": null,
-      "reviews": "",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Parkeergarage met vier verdiepingen en een lift die je kind zelf bedient.",
       "specs": {
         "Leeftijd": "4+",
@@ -519,11 +529,13 @@
       "url": "https://www.bol.com/nl/nl/p/hot-wheels-city-mega-garage-met-racebaan-hoogte-72-cm-inclusief-1-auto-grote-parkeergarage-met-lift-en-racebanen-en-parkeerplaatsen-speelgoed-vanaf-3-jaar-hotweels-hotwheels-premium-speelgoed-auto-s-speelgoed-autos-jongens-autootjes/9300000449584992/",
       "image": "https://media.s-bol.com/BkPYO9AvR9JX/qQ4GXYp/550x550.jpg",
       "ph": {
-        "2026-11-26": 94.99
+        "2026-11-26": 94.99,
+        "2026-11-27": 94.99
       },
       "low_price": 94.99,
       "ph_ean": "0194735002474",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27",
+      "rating": 4.5
     },
     {
       "brand": "PLAYMOBIL",
@@ -579,10 +591,11 @@
         "2026-11-23": 35.99,
         "2026-11-24": 35.99,
         "2026-11-25": 35.99,
-        "2026-11-26": 35.99
+        "2026-11-26": 35.99,
+        "2026-11-27": 35.99
       },
       "low_price": 35.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "4008789717429",
       "prev_price": 44.99,
       "prev_date": "2026-11-14",

@@ -65,12 +65,13 @@
       "image": "https://media.s-bol.com/Kpqy5R5MQ5gY/XoxEj9A/550x550.jpg",
       "ph": {
         "2026-11-25": 850.0,
-        "2026-11-26": 850.0
+        "2026-11-26": 850.0,
+        "2026-11-27": 850.0
       },
       "low_price": 850.0,
       "ph_ean": "8719075338537",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Anno 1588",
@@ -106,12 +107,13 @@
       "image": "https://media.s-bol.com/xXMAwWxQoMvE/oVgw4Oz/550x550.jpg",
       "ph": {
         "2026-11-25": 750.0,
-        "2026-11-26": 750.0
+        "2026-11-26": 750.0,
+        "2026-11-27": 750.0
       },
       "low_price": 750.0,
       "ph_ean": "8719992840205",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Ayla Matrassen",
@@ -119,7 +121,7 @@
       "price": 569.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,9 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Dichte pocketvering en hoog hoofdbord voor een scherpe prijs.",
       "specs": {
         "Vering": "Pocket, 7 zones, 500/m²",
@@ -147,12 +149,13 @@
       "image": "https://media.s-bol.com/3L7VRKroZNP9/LZOWZOA/550x550.jpg",
       "ph": {
         "2026-11-25": 569.0,
-        "2026-11-26": 569.0
+        "2026-11-26": 569.0,
+        "2026-11-27": 569.0
       },
       "low_price": 569.0,
       "ph_ean": "8721352386230",
-      "rating": 4.9,
-      "synced": "2026-11-26"
+      "rating": 4.7,
+      "synced": "2026-11-27"
     },
     {
       "brand": "Anno 1588",
@@ -188,12 +191,13 @@
       "image": "https://media.s-bol.com/NqYg3K1qYpRz/W78x7wx/550x550.jpg",
       "ph": {
         "2026-11-25": 1600.0,
-        "2026-11-26": 1600.0
+        "2026-11-26": 1600.0,
+        "2026-11-27": 1600.0
       },
       "low_price": 1600.0,
       "ph_ean": "8720039729131",
       "rating": 4.5,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Meuba Home",
@@ -229,12 +233,13 @@
       "image": "https://media.s-bol.com/RnWJD11EYVjV/QwL797/550x366.jpg",
       "ph": {
         "2026-11-25": 639.11,
-        "2026-11-26": 639.11
+        "2026-11-26": 639.11,
+        "2026-11-27": 639.11
       },
       "low_price": 639.11,
       "ph_ean": "5407010605167",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Nessa",
@@ -269,12 +274,13 @@
       "image": "https://media.s-bol.com/3DVyZoz8KvAA/vgZ3Zvn/550x440.jpg",
       "ph": {
         "2026-11-25": 474.05,
-        "2026-11-26": 474.05
+        "2026-11-26": 474.05,
+        "2026-11-27": 474.05
       },
       "low_price": 474.05,
       "ph_ean": "8438478213035",
       "rating": 4.9,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "BoxspringFD",
@@ -310,17 +316,18 @@
       "image": "https://media.s-bol.com/nwWOyZMjjy2W/VvnDXjX/550x550.jpg",
       "ph": {
         "2026-11-25": 1359.0,
-        "2026-11-26": 1359.0
+        "2026-11-26": 1359.0,
+        "2026-11-27": 1359.0
       },
       "low_price": 1359.0,
       "ph_ean": "8721398284545",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Beddenbriljant",
       "name": "Opberg Boxspring Fenne 180x200 Beige",
-      "price": 699.0,
+      "price": 516.74,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -351,14 +358,15 @@
       "image": "https://media.s-bol.com/BAyV6plVYgJX/Z69rXYv/550x387.jpg",
       "ph": {
         "2026-11-25": 529.99,
-        "2026-11-26": 699.0
+        "2026-11-26": 699.0,
+        "2026-11-27": 516.74
       },
-      "low_price": 529.99,
+      "low_price": 516.74,
       "ph_ean": "7434015361352",
       "rating": 4.2,
-      "synced": "2026-11-26",
-      "prev_price": 529.99,
-      "prev_date": "2026-11-25"
+      "synced": "2026-11-27",
+      "prev_price": 699.0,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "Boxspring",
@@ -394,12 +402,13 @@
       "image": "https://media.s-bol.com/3XBLKmg5wDZp/VOQq05W/550x366.jpg",
       "ph": {
         "2026-11-25": 879.51,
-        "2026-11-26": 879.51
+        "2026-11-26": 879.51,
+        "2026-11-27": 879.51
       },
       "low_price": 879.51,
       "ph_ean": "6096119339357",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Beddenbriljant",
@@ -435,12 +444,13 @@
       "image": "https://media.s-bol.com/Bm7v74jl6gMx/1w68ozZ/550x388.jpg",
       "ph": {
         "2026-11-25": 389.99,
-        "2026-11-26": 389.99
+        "2026-11-26": 389.99,
+        "2026-11-27": 389.99
       },
       "low_price": 389.99,
       "ph_ean": "7434015354347",
       "rating": 4.2,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     }
   ],
   "guide": [

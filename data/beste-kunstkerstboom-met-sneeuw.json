@@ -59,12 +59,13 @@
       "image": "https://media.s-bol.com/4Xy87rx5M1Xn/wVxm8EX/550x826.jpg",
       "ph": {
         "2026-11-25": 139.0,
-        "2026-11-26": 139.0
+        "2026-11-26": 139.0,
+        "2026-11-27": 139.0
       },
       "low_price": 139.0,
       "ph_ean": "0756770520339",
       "rating": 4.9,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Royal Christmas",
@@ -99,12 +100,13 @@
       "image": "https://media.s-bol.com/B3rP055KQNXo/MZ87Y5B/515x840.jpg",
       "ph": {
         "2026-11-25": 208.19,
-        "2026-11-26": 208.19
+        "2026-11-26": 208.19,
+        "2026-11-27": 208.19
       },
       "low_price": 208.19,
       "ph_ean": "8717591887676",
       "rating": 4.8,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Royal Christmas",
@@ -139,17 +141,18 @@
       "image": "https://media.s-bol.com/mvwLOGKjJEA3/J8Dl1zP/469x840.jpg",
       "ph": {
         "2026-11-25": 151.05,
-        "2026-11-26": 151.05
+        "2026-11-26": 151.05,
+        "2026-11-27": 151.05
       },
       "low_price": 151.05,
       "ph_ean": "8717591880431",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Everlands",
       "name": "Grandis Fir Prelit Snowy 210 cm met 550 LED",
-      "price": 181.0,
+      "price": 182.99,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -179,14 +182,15 @@
       "image": "https://media.s-bol.com/qpRqwVZw8RA2/zB39MZ/550x774.jpg",
       "ph": {
         "2026-11-25": 182.99,
-        "2026-11-26": 181.0
+        "2026-11-26": 181.0,
+        "2026-11-27": 182.99
       },
       "low_price": 181.0,
       "ph_ean": "8720093398526",
       "rating": 5.0,
-      "synced": "2026-11-26",
-      "prev_price": 182.99,
-      "prev_date": "2026-11-25"
+      "synced": "2026-11-27",
+      "prev_price": 181.0,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "Meisterhome",
@@ -221,12 +225,13 @@
       "image": "https://media.s-bol.com/lrZQ2QRM2LWg/79qg4nQ/439x840.jpg",
       "ph": {
         "2026-11-25": 39.99,
-        "2026-11-26": 39.99
+        "2026-11-26": 39.99,
+        "2026-11-27": 39.99
       },
       "low_price": 39.99,
       "ph_ean": "5061001243266",
       "rating": 4.3,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Premfy",
@@ -261,12 +266,13 @@
       "image": "https://media.s-bol.com/Jn1J7nR5mBKK/G62w6y8/550x757.jpg",
       "ph": {
         "2026-11-25": 169.99,
-        "2026-11-26": 169.99
+        "2026-11-26": 169.99,
+        "2026-11-27": 169.99
       },
       "low_price": 169.99,
       "ph_ean": "8720387377145",
       "rating": 4.6,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Black Box Trees",
@@ -301,12 +307,13 @@
       "image": "https://media.s-bol.com/L4kJB2p5WYKp/k8PBlBr/285x840.jpg",
       "ph": {
         "2026-11-25": 67.23,
-        "2026-11-26": 67.23
+        "2026-11-26": 67.23,
+        "2026-11-27": 67.23
       },
       "low_price": 67.23,
       "ph_ean": "8720983084713",
       "rating": 4.7,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "KJ Kunstkerstbomen",
@@ -341,11 +348,12 @@
       "image": "https://media.s-bol.com/K3kGWgqjE2pr/Rl5rz1R/473x840.jpg",
       "ph": {
         "2026-11-25": 139.0,
-        "2026-11-26": 139.0
+        "2026-11-26": 139.0,
+        "2026-11-27": 139.0
       },
       "low_price": 139.0,
       "ph_ean": "8721632740141",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "COSTWAY",
@@ -380,12 +388,13 @@
       "image": "https://media.s-bol.com/wJBOZkP8Al5z/Y7N42AA/421x840.jpg",
       "ph": {
         "2026-11-25": 69.99,
-        "2026-11-26": 69.99
+        "2026-11-26": 69.99,
+        "2026-11-27": 69.99
       },
       "low_price": 69.99,
       "ph_ean": "0672669048770",
       "rating": 5.0,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Everlands",
@@ -420,12 +429,13 @@
       "image": "https://media.s-bol.com/gDGyE7w9XDPl/8K6kW5/250x200.jpg",
       "ph": {
         "2026-11-25": 43.99,
-        "2026-11-26": 43.99
+        "2026-11-26": 43.99,
+        "2026-11-27": 43.99
       },
       "low_price": 43.99,
       "ph_ean": "8718533661385",
       "rating": 4.6,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     }
   ],
   "guide": [

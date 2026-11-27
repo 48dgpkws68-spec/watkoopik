@@ -1,4 +1,17 @@
 {
- "datum": "2026-11-26",
- "overtreders": []
+ "datum": "2026-11-27",
+ "overtreders": [
+  {
+   "slug": "beste-dashcam-onder-100-euro",
+   "grens": 100,
+   "plek": 3,
+   "product": "AZDome M300S 2CH",
+   "prijs": 108.99,
+   "ean": "6973888261273",
+   "laagste_30d": 89.99,
+   "dagen_boven": 1,
+   "dagen_gemeten": 2,
+   "reden": "boven grens"
+  }
+ ]
 }

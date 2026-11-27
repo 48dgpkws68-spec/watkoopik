@@ -21,7 +21,7 @@
     {
       "brand": "Philips",
       "name": "Sonicare 9900 Prestige",
-      "price": 193.97,
+      "price": 194.94,
       "score": 9.4,
       "label": "Beste keuze",
       "reviews": "bol-score 4,4 van 5",
@@ -50,7 +50,7 @@
       "bol_title": "Philips Sonicare DiamondClean Prestige 9900 - Elektrische tandenborstel met SenseIQ - AI- Champagne - HX9992/11",
       "url": "https://www.bol.com/nl/nl/p/philips-sonicare-prestige-9900-hx9992-11-elektrische-tandenborstel-met-senseiq/9300000033062205/",
       "image": "https://media.s-bol.com/mv1mLPlrjm1n/lRy6YPM/550x550.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-13": 241.0,
         "2026-10-14": 241.0,
@@ -94,21 +94,22 @@
         "2026-11-23": 201.73,
         "2026-11-24": 193.99,
         "2026-11-25": 194.87,
-        "2026-11-26": 193.97
+        "2026-11-26": 193.97,
+        "2026-11-27": 194.94
       },
       "low_price": 193.97,
-      "prev_price": 194.87,
-      "prev_date": "2026-11-25",
+      "prev_price": 193.97,
+      "prev_date": "2026-11-26",
       "ph_ean": "8710103962878",
       "rating": 4.4
     },
     {
       "brand": "Oral-B",
       "name": "Pro Series 3 roze",
-      "price": 64.99,
+      "price": 67.99,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Zichtbare druksensor en bewezen poetskracht voor rond de 60 euro.",
       "specs": {
         "Techniek": "Oscillerend, 3D-beweging",
@@ -131,7 +132,7 @@
       "ideal": "Wie een degelijke elektrische tandenborstel wil zonder toeters en bellen, met lage vervolgkosten.",
       "text": "De Oral-B Pro Series 3 is de tandenborstel die tandartsen in Nederland het vaakst noemen als instapadvies. De ronde kop maakt een oscillerende en pulserende beweging die elke tand afzonderlijk omsluit. De druksensor is een lichtring rondom de hals die rood kleurt zodra je te hard drukt, zichtbaar in de spiegel zonder dat je op het handvat hoeft te kijken.\n\nDrie standen volstaan: dagelijks, gevoelig en whitening. De timer trilt elke dertig seconden zodat je elk kwadrant evenveel aandacht geeft. Opzetborstels kosten rond de 4 euro per stuk en liggen in elke supermarkt, een groot verschil met Philips. Minpunten zijn het duidelijk hoorbare geluid en de accu van twee weken. Voor wie geen app nodig heeft is dit de slimste koop in deze lijst.",
       "ean": "8006540802083",
-      "rating": 4.2,
+      "rating": 4.3,
       "bol_title": "Oral-B Pro Series 3 - Roze - Elektrische Tandenborstel",
       "url": "https://www.bol.com/nl/nl/p/oral-b-pro-series-3-roze-elektrische-tandenborstel/9300000153287265/",
       "image": "https://media.s-bol.com/ORx1gYyNBD1p/DzpL3x/250x200.jpg",
@@ -139,13 +140,14 @@
         "2026-11-23": 64.99,
         "2026-11-24": 65.99,
         "2026-11-25": 65.59,
-        "2026-11-26": 64.99
+        "2026-11-26": 64.99,
+        "2026-11-27": 67.99
       },
       "low_price": 64.99,
       "ph_ean": "8006540802083",
-      "synced": "2026-11-26",
-      "prev_price": 65.59,
-      "prev_date": "2026-11-25"
+      "synced": "2026-11-27",
+      "prev_price": 64.99,
+      "prev_date": "2026-11-26"
     },
     {
       "brand": "Oral-B",
@@ -179,7 +181,7 @@
       "bol_title": "Oral-B iO Series 9 Duo - Sonische Tandenborstel - 7 poetsmodi - Kleurendisplay & app - Druksensor - reisetui",
       "url": "https://www.bol.com/nl/nl/p/oral-b-io-series-9-duo-sonische-tandenborstel-7-poetsmodi-kleurendisplay-app-druksensor-2-reisetuis/9300000258110377/",
       "image": "https://media.s-bol.com/rO2g2A8LpoW2/6Rk9Nll/550x550.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-13": 309.0,
         "2026-10-14": 309.0,
@@ -223,7 +225,8 @@
         "2026-11-23": 309.0,
         "2026-11-24": 309.0,
         "2026-11-25": 295.0,
-        "2026-11-26": 295.0
+        "2026-11-26": 295.0,
+        "2026-11-27": 295.0
       },
       "low_price": 295.0,
       "ph_ean": "4210201425496",
@@ -263,7 +266,7 @@
       "bol_title": "Philips Sonicare Power Elektrische Tandenborstel Series 3100 - Zwart - HX3671/14",
       "url": "https://www.bol.com/nl/nl/p/philips-sonicare-power-elektrische-tandenborstel-series-3100-hx3671-14-zwart/9300000043847489/",
       "image": "https://media.s-bol.com/gPK0N5vnpMWG/pE9Eq2/550x550.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-13": 41.99,
         "2026-10-14": 41.99,
@@ -307,7 +310,8 @@
         "2026-11-23": 41.99,
         "2026-11-24": 41.99,
         "2026-11-25": 42.0,
-        "2026-11-26": 42.0
+        "2026-11-26": 42.0,
+        "2026-11-27": 42.0
       },
       "low_price": 41.99,
       "ph_ean": "8710103985587",
@@ -366,10 +370,11 @@
         "2026-11-23": 95.9,
         "2026-11-24": 95.9,
         "2026-11-25": 95.9,
-        "2026-11-26": 95.9
+        "2026-11-26": 95.9,
+        "2026-11-27": 95.9
       },
       "low_price": 92.0,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph_ean": "4210201414704",
       "rating": 4.3,
       "prev_price": 92.0,
@@ -409,11 +414,12 @@
       "url": "https://www.bol.com/nl/nl/p/philips-sonicare-5300-series-elektrische-tandenborstel-reisetui-zwart-wittere-tanden-hx7101-02/9300000184920244/",
       "image": "https://media.s-bol.com/qBPoJYB5JJB2/AnYvE5P/550x661.jpg",
       "ph": {
-        "2026-11-26": 59.99
+        "2026-11-26": 59.99,
+        "2026-11-27": 59.99
       },
       "low_price": 59.99,
       "ph_ean": "8720689025201",
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Oclean",
@@ -446,7 +452,7 @@
       "bol_title": "Oclean Sonic X Pro Digital Elektrische Tandenborstel Zilver One Size / EU Plug 220V",
       "url": "https://www.bol.com/nl/nl/p/oclean-x-pro-digital-elektrische-tandenborstel-personaliseerbaar-poetsplan-touchscreen-zilver/9300000130520119/",
       "image": "https://media.s-bol.com/3XEEXmGvVoY4/jRY6lmR/550x621.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 77.8,
         "2026-10-16": 77.8,
@@ -488,7 +494,8 @@
         "2026-11-23": 77.8,
         "2026-11-24": 77.8,
         "2026-11-25": 77.8,
-        "2026-11-26": 77.8
+        "2026-11-26": 77.8,
+        "2026-11-27": 77.8
       },
       "low_price": 77.8,
       "ph_ean": "6970810552560"
@@ -525,7 +532,7 @@
       "bol_title": "Philips Sonicare DiamondClean 9000 - Elektrische tandenborstel - Roze/Wit - Ombre - HX9911/84",
       "url": "https://www.bol.com/nl/nl/p/philips-sonicare-diamondclean-9000-hx9911-84-elektrische-tandenborstel-gradientpink/9300000085671784/",
       "image": "https://media.s-bol.com/xMWR0W3qogK9/lOkmAK6/550x608.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-13": 119.99,
         "2026-10-14": 119.99,
@@ -569,7 +576,8 @@
         "2026-11-23": 109.0,
         "2026-11-24": 109.0,
         "2026-11-25": 109.0,
-        "2026-11-26": 109.0
+        "2026-11-26": 109.0,
+        "2026-11-27": 109.0
       },
       "low_price": 99.99,
       "prev_price": 99.99,
@@ -580,10 +588,10 @@
     {
       "brand": "Oral-B",
       "name": "Vitality Pro",
-      "price": 24.49,
+      "price": 23.85,
       "score": 7.9,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 3,9 van 5",
       "oneliner": "De goedkoopste manier om elektrisch te gaan poetsen.",
       "specs": {
         "Techniek": "Oscillerend, 2D-beweging",
@@ -609,7 +617,7 @@
       "bol_title": "Oral-B Vitality Pro - Blauw - Elektrische Tandenborstel",
       "url": "https://www.bol.com/nl/nl/p/oral-b-vitality-pro-blauw-elektrische-tandenborstel/9300000153504088/",
       "image": "https://media.s-bol.com/xmMZoM5rwM0P/Z3qQO2/482x840.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-13": 28.95,
         "2026-10-14": 28.7,
@@ -653,18 +661,19 @@
         "2026-11-23": 31.25,
         "2026-11-24": 23.85,
         "2026-11-25": 23.85,
-        "2026-11-26": 24.49
+        "2026-11-26": 24.49,
+        "2026-11-27": 23.85
       },
       "low_price": 22.24,
-      "prev_price": 23.85,
-      "prev_date": "2026-11-25",
+      "prev_price": 24.49,
+      "prev_date": "2026-11-26",
       "ph_ean": "4210201446392",
-      "rating": 4.2
+      "rating": 3.9
     },
     {
       "brand": "Philips",
       "name": "Sonicare for Kids HX6352",
-      "price": 44.0,
+      "price": 43.0,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -693,7 +702,7 @@
       "bol_title": "Philips Sonicare For Kids - Elektrische tandenborstel voor kinderen - Roze - Met App - HX6352/42",
       "url": "https://www.bol.com/nl/nl/p/philips-sonicare-for-kids-hx6352-42-elektrische-tandenborstel-roze/9300000005081673/",
       "image": "https://media.s-bol.com/NAQylmR44Yj8/GZQRVWK/550x551.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-13": 44.99,
         "2026-10-14": 44.99,
@@ -737,11 +746,12 @@
         "2026-11-23": 46.99,
         "2026-11-24": 44.0,
         "2026-11-25": 46.99,
-        "2026-11-26": 44.0
+        "2026-11-26": 44.0,
+        "2026-11-27": 43.0
       },
       "low_price": 41.99,
-      "prev_price": 46.99,
-      "prev_date": "2026-11-25",
+      "prev_price": 44.0,
+      "prev_date": "2026-11-26",
       "ph_ean": "8710103948469",
       "rating": 4.2
     }

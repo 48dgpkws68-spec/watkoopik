@@ -64,10 +64,11 @@
         "2026-11-23": 177.0,
         "2026-11-24": 161.6,
         "2026-11-25": 177.0,
-        "2026-11-26": 177.0
+        "2026-11-26": 177.0,
+        "2026-11-27": 177.0
       },
       "low_price": 161.6,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 161.6,
       "prev_date": "2026-11-24",
       "rating": 4.4
@@ -136,10 +137,11 @@
         "2026-11-23": 54.99,
         "2026-11-24": 54.99,
         "2026-11-25": 54.99,
-        "2026-11-26": 54.99
+        "2026-11-26": 54.99,
+        "2026-11-27": 54.99
       },
       "low_price": 49.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 49.99,
       "prev_date": "2026-11-08",
       "ph_ean": "8720165578962",
@@ -148,10 +150,10 @@
     {
       "brand": "Lumie",
       "name": "Bodyclock Luxe 750DAB",
-      "price": 289.0,
+      "price": 267.0,
       "score": 9.0,
       "label": "Beste premium",
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Luxe lichtwekker met Bluetooth-speaker en 27 geluiden.",
       "specs": {
         "Lichtsterkte": "ca. 300 lux",
@@ -171,12 +173,12 @@
         "Minder bekend merk in Nederland"
       ],
       "ideal": "Wie een lichtwekker wil die ook als speaker op het nachtkastje dient.",
-      "text": "Lumie is een Brits merk dat al decennia lichttherapie-producten maakt. De Bodyclock Luxe 750DAB is een van hun duurste wake-up lights. De zonsopgang is in te stellen van 15 tot 90 minuten, veel ruimer dan bij Philips. Dat is prettig als je gevoelig bent en heel geleidelijk wakker wilt worden.\n\nIn de lamp zit een Bluetooth-speaker, zodat je je eigen muziek of podcast laat afspelen. Daarnaast zijn er 27 geluiden, waaronder witte ruis en natuurgeluiden, plus een DAB+-radio. Een nachtlampje met weinig blauw licht helpt als je 's nachts moet opstaan. Kopers op bol geven gemiddeld 4,3 sterren en zijn vooral te spreken over de lange zonsopkomst en de geluidskwaliteit. De prijs ligt flink hoger dan bij Philips. Er bestaat ook een DAB-versie, de Luxe 750DAB, die nog iets duurder is. Voor wie een allesomvattende lamp wil, is dit de beste premium keuze.",
+      "text": "Lumie is een Brits merk dat al decennia lichttherapie-producten maakt. De Bodyclock Luxe 750DAB is een van hun duurste wake-up lights. De zonsopgang is in te stellen van 15 tot 90 minuten, veel ruimer dan bij Philips. Dat is prettig als je gevoelig bent en heel geleidelijk wakker wilt worden.\n\nIn de lamp zit een Bluetooth-speaker, zodat je je eigen muziek of podcast laat afspelen. Daarnaast zijn er 27 geluiden, waaronder witte ruis en natuurgeluiden, plus een DAB+-radio. Een nachtlampje met weinig blauw licht helpt als je 's nachts moet opstaan. Kopers op bol geven gemiddeld 4,1 sterren en zijn vooral te spreken over de lange zonsopkomst en de geluidskwaliteit. De prijs ligt flink hoger dan bij Philips. Er bestaat ook een DAB-versie, de Luxe 750DAB, die nog iets duurder is. Voor wie een allesomvattende lamp wil, is dit de beste premium keuze.",
       "ean": "5060006627996",
       "bol_title": "Lumie Bodyclock Luxe 750DAB - Wake-up light - USB/DAB+/Bluetooth - Antraciet",
       "url": "https://www.bol.com/nl/nl/p/lumie-bodyclock-luxe-750dab-wake-up-light-usb-dab-bluetooth-antraciet/9300000005361752/",
       "image": "https://media.s-bol.com/BrBvxnm55ylQ/550x496.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-24": 267.0,
         "2026-10-25": 267.0,
@@ -210,13 +212,14 @@
         "2026-11-23": 289.0,
         "2026-11-24": 289.0,
         "2026-11-25": 289.0,
-        "2026-11-26": 289.0
+        "2026-11-26": 289.0,
+        "2026-11-27": 267.0
       },
       "low_price": 267.0,
-      "prev_price": 267.0,
-      "prev_date": "2026-11-18",
+      "prev_price": 289.0,
+      "prev_date": "2026-11-26",
       "ph_ean": "5060006627996",
-      "rating": 4.3
+      "rating": 4.1
     },
     {
       "brand": "Philips",
@@ -249,7 +252,7 @@
       "bol_title": "Philips HF3531/01 - Wake-Up-Light",
       "url": "https://www.bol.com/nl/nl/p/philips-hf3531-01-wake-up-light/9200000059519590/",
       "image": "https://media.s-bol.com/ZGwy5XYoxWlw/5AJOOZ/550x395.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 139.81,
         "2026-10-16": 139.81,
@@ -291,7 +294,8 @@
         "2026-11-23": 119.0,
         "2026-11-24": 119.0,
         "2026-11-25": 115.0,
-        "2026-11-26": 115.0
+        "2026-11-26": 115.0,
+        "2026-11-27": 115.0
       },
       "low_price": 115.0,
       "prev_price": 119.0,
@@ -302,7 +306,7 @@
     {
       "brand": "Philips",
       "name": "SmartSleep HF3650/01",
-      "price": 219.0,
+      "price": 214.99,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -329,7 +333,7 @@
       "bol_title": "Philips Wake-up Light - Smartsleep - Focus op ademhaling en helpt ontspannen - HF3650/01",
       "url": "https://www.bol.com/nl/nl/p/philips-hf3650-01-wake-up-light-bright-eyes/9200000081384702/",
       "image": "https://media.s-bol.com/Y8M14Q8m8YWY/vgMAVvg/550x614.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 199.99,
         "2026-10-16": 199.99,
@@ -371,11 +375,12 @@
         "2026-11-23": 219.0,
         "2026-11-24": 219.0,
         "2026-11-25": 219.0,
-        "2026-11-26": 219.0
+        "2026-11-26": 219.0,
+        "2026-11-27": 214.99
       },
       "low_price": 199.99,
-      "prev_price": 199.99,
-      "prev_date": "2026-10-17",
+      "prev_price": 219.0,
+      "prev_date": "2026-11-26",
       "ph_ean": "8710103819905",
       "rating": 5.0
     },
@@ -442,10 +447,11 @@
         "2026-11-23": 89.99,
         "2026-11-24": 89.99,
         "2026-11-25": 89.99,
-        "2026-11-26": 89.99
+        "2026-11-26": 89.99,
+        "2026-11-27": 89.99
       },
       "low_price": 89.99,
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "prev_price": 128.99,
       "prev_date": "2026-11-14",
       "ph_ean": "8710103945338",
@@ -454,7 +460,7 @@
     {
       "brand": "Philips",
       "name": "HF3521/01",
-      "price": 132.99,
+      "price": 133.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -481,7 +487,7 @@
       "bol_title": "Philips HF3521/01 - Wake-up light - Wit",
       "url": "https://www.bol.com/nl/nl/p/philips-hf3521-01-wake-up-light-wit/9200000079412069/",
       "image": "https://media.s-bol.com/Djq7WYy0WqAA/LgnnGAv/550x458.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 145.0,
         "2026-10-16": 145.0,
@@ -523,7 +529,8 @@
         "2026-11-23": 136.99,
         "2026-11-24": 132.99,
         "2026-11-25": 132.99,
-        "2026-11-26": 132.99
+        "2026-11-26": 132.99,
+        "2026-11-27": 133.0
       },
       "low_price": 132.99,
       "prev_price": 136.99,
@@ -567,10 +574,11 @@
       "image": "https://media.s-bol.com/Ryrq7vY5LJPL/J62KQk9/550x523.jpg",
       "ph": {
         "2026-11-25": 96.95,
-        "2026-11-26": 96.95
+        "2026-11-26": 96.95,
+        "2026-11-27": 96.95
       },
       "low_price": 96.95,
-      "synced": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "Lumie",
@@ -578,7 +586,7 @@
       "price": 111.0,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Compacte lichtwekker met eenvoudige bediening.",
       "specs": {
         "Lichtsterkte": "ca. 200 lux",
@@ -597,12 +605,12 @@
         "Minder fel dan grotere modellen"
       ],
       "ideal": "Wie vooral een rustige zonsopgang wil en weinig extra's nodig heeft.",
-      "text": "De Lumie Bodyclock Glow 150 is de instapper van Lumie. De lamp is compact en past op elk nachtkastje. De zonsopgang is instelbaar en gaat langzaam van zacht naar fel licht. Een zonsondergang helpt je 's avonds bij het inslapen en het nachtlicht is dimbaar.\n\nAan geluiden heeft de Glow 150 alleen een eenvoudige piep als back-up. Een radio of natuurgeluiden ontbreken. De lichtsterkte is lager dan bij de grotere modellen, wat in een kleine slaapkamer meestal genoeg is. Kopers op bol geven gemiddeld 4,3 sterren en waarderen vooral de eenvoud. Je stelt de wektijd en zonsopgang in en hoeft verder niets te doen. Voor iets meer geld krijg je bij Philips met de HF3521 meer functies. De Glow 150 is daarom vooral geschikt voor wie een klein, minimalistisch apparaat zoekt dat puur draait om licht.",
+      "text": "De Lumie Bodyclock Glow 150 is de instapper van Lumie. De lamp is compact en past op elk nachtkastje. De zonsopgang is instelbaar en gaat langzaam van zacht naar fel licht. Een zonsondergang helpt je 's avonds bij het inslapen en het nachtlicht is dimbaar.\n\nAan geluiden heeft de Glow 150 alleen een eenvoudige piep als back-up. Een radio of natuurgeluiden ontbreken. De lichtsterkte is lager dan bij de grotere modellen, wat in een kleine slaapkamer meestal genoeg is. Kopers op bol geven gemiddeld 4,1 sterren en waarderen vooral de eenvoud. Je stelt de wektijd en zonsopgang in en hoeft verder niets te doen. Voor iets meer geld krijg je bij Philips met de HF3521 meer functies. De Glow 150 is daarom vooral geschikt voor wie een klein, minimalistisch apparaat zoekt dat puur draait om licht.",
       "ean": "5060006628832",
       "bol_title": "Lumie Bodyclock Glow 150 - Sleep & Wake-up light - Nachtlamp - Slaaphulpmiddel - instelbare verlichting",
       "url": "https://www.bol.com/nl/nl/p/lumie-bodyclock-glow-150-wake-up-light-zwart/9300000005359428/",
       "image": "https://media.s-bol.com/Y7EZ8lGMwOnY/550x475.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 111.0,
         "2026-10-16": 111.0,
@@ -644,13 +652,14 @@
         "2026-11-23": 111.0,
         "2026-11-24": 111.0,
         "2026-11-25": 111.0,
-        "2026-11-26": 111.0
+        "2026-11-26": 111.0,
+        "2026-11-27": 111.0
       },
       "low_price": 103.83,
       "prev_price": 110.0,
       "prev_date": "2026-11-14",
       "ph_ean": "5060006628832",
-      "rating": 4.3
+      "rating": 4.1
     },
     {
       "brand": "Swiftvein",
@@ -682,7 +691,7 @@
       "bol_title": "Swiftvein Solara Wake up Light - Lichtwekker - Digitale wekker met 30 geluiden",
       "url": "https://www.bol.com/nl/nl/p/swiftvein-solara-wake-up-light-lichtwekker-digitale-wekker-met-30-geluiden/9300000188027886/",
       "image": "https://media.s-bol.com/JkvBv7kDPwXg/gJXGpml/550x541.jpg",
-      "synced": "2026-11-26",
+      "synced": "2026-11-27",
       "ph": {
         "2026-10-15": 59.99,
         "2026-10-16": 59.99,
@@ -724,7 +733,8 @@
         "2026-11-23": 49.99,
         "2026-11-24": 49.99,
         "2026-11-25": 49.99,
-        "2026-11-26": 49.99
+        "2026-11-26": 49.99,
+        "2026-11-27": 49.99
       },
       "low_price": 49.99,
       "prev_price": 59.99,
