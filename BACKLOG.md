@@ -368,6 +368,8 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-topper-onder-100-euro | slapen | topper onder 100 euro | De 10 beste toppers onder 100 euro van 2026 | 🛏️ (google_wacht)
 [x] beste-matras-140x200 | slapen | matras 140x200 | De 10 beste matrassen van 140x200 van 2026 | 🛏️ (google_wacht)
 [x] beste-luchtreiniger-onder-100-euro | huishouden | luchtreiniger onder 100 euro | De 10 beste luchtreinigers onder 100 euro van 2026 | 🌬️ (google_wacht)
+[x] beste-matras-160x200 | slapen | matras 160x200 | De 10 beste matrassen van 160x200 van 2026 | 🛏️ (google_wacht)
+[x] beste-torendroogrek | huishouden | torendroogrek | De 10 beste torendroogrekken van 2026 | 🧺 (google_wacht)
 
 # ChatGPT-spoor 26 nov 2026 ochtend (C2: tv en kunstkerstboom)
 [x] beste-oled-tv-55-inch | elektronica | oled tv 55 inch | De 10 beste OLED-tv's van 55 inch van 2026 | 📺
