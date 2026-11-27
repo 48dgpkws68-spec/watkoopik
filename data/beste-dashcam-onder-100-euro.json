@@ -15,7 +15,7 @@
   ],
   "ico": "🚗",
   "color": "#b91c1c",
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "published": "2026-11-26",
   "google_wacht": true,
   "reviews_total": "",
@@ -68,7 +68,7 @@
     },
     {
       "q": "Heeft een goedkope dashcam gps?",
-      "a": "Vanaf ongeveer 55 euro wel. De RedTiger F9 Lite van rond 58 euro heeft gps, net als de AZDome M330 Max, de Mio MiVue J35, de RedTiger F9 Dual, de AZDome M300S en de VIOFO A119 V3. Bij de goedkoopste modellen wordt gps niet genoemd."
+      "a": "Vanaf ongeveer 70 euro wel. De AZDome M330 Max van rond 70 euro heeft gps, net als de RedTiger F9 Lite, de Mio MiVue J35, de RedTiger F9 Dual, de AZDome M300S en de VIOFO A119 V3. Bij de goedkoopste modellen wordt gps niet genoemd."
     },
     {
       "q": "Werkt de parkeerstand zonder extra kabel?",
@@ -336,11 +336,11 @@
     {
       "brand": "RedTiger",
       "name": "F9 Lite",
-      "price": 57.95,
+      "price": 78.86,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
-      "oneliner": "Kleine 4K-camera met gps en kaart voor onder 60 euro.",
+      "reviews": "",
+      "oneliner": "Kleine 4K-camera met gps en geheugenkaart voor onder 80 euro.",
       "specs": {
         "Resolutie": "4K (3840 x 2160), 30 fps",
         "Camera's": "Alleen voor",
@@ -351,7 +351,7 @@
       },
       "pros": [
         "4K-opnames met 30 beelden per seconde",
-        "Gps en wifi voor onder 60 euro",
+        "Gps en wifi voor onder 80 euro",
         "Geheugenkaart van 32 GB meegeleverd",
         "Compact, past achter de spiegel"
       ],
@@ -360,18 +360,17 @@
         "Geen achtercamera",
         "Maximale kaartgrootte niet vermeld"
       ],
-      "ideal": "Wie voor weinig geld een 4K-camera voor alleen voor met gps zoekt.",
-      "text": "De RedTiger F9 Lite kost bij bol rond 58 euro en is een dashcam voor alleen de voorruit. Hij filmt in 4K met 3840 bij 2160 pixels en 30 beelden per seconde, met een Sony-sensor en een groothoeklens van 170 graden. Voor deze prijs is het opvallend dat gps aanwezig is: snelheid en locatie worden bij elke opname opgeslagen. Er zit bovendien een microSD-kaart van 32 GB in de doos.\n\nDe camera is klein en past achter je binnenspiegel. Via wifi en de RedTiger-app bekijk je livebeeld, download je fragmenten en pas je instellingen aan. Het rijhulpsysteem ADAS geeft waarschuwingen onderweg. De G-sensor zet beelden vast bij een klap, terwijl loop recording de oudste opnames overschrijft als de kaart vol is. Voor de parkeermodus van 24 uur heb je een hardwire-kit van RedTiger nodig, die je los koopt. RedTiger geeft 18 maanden garantie. Kopers op bol geven hem een 4,4 van 5. De maximale kaartgrootte staat niet op de bol-pagina. Wil je ook achter filmen, dan is de F9 Dual op plek 4 de set van hetzelfde merk.",
-      "ean": "8721082477369",
-      "rating": 4.4,
-      "bol_title": "RedTiger F9 Lite Dashcam voor auto - Ultra 4K - Voor Camera - WiFi en GPS - met App - Dashcams - Sony Sensor - Nachtzicht - Parkeerbewaking - G Sensor - Loop opname -",
-      "url": "https://www.bol.com/nl/nl/p/redtiger-f9-lite-dashcam-voor-auto-ultra-4k-voor-camera-wifi-en-gps-met-app-dashcams-sony-sensor-nachtzicht-parkeerbewaking-g-sensor-loop-opname/9300000233388371/",
-      "image": "https://media.s-bol.com/g483z0plG57r/KOQqANn/550x550.jpg",
+      "ideal": "Wie een compacte 4K-camera voor alleen voor met gps zoekt.",
+      "text": "De RedTiger F9 Lite kost bij bol rond 79 euro en is een dashcam voor alleen de voorruit. Hij filmt in 4K met 3840 bij 2160 pixels en 30 beelden per seconde, met een Sony-sensor en een groothoeklens van 170 graden. Gps is aanwezig: snelheid en locatie worden bij elke opname opgeslagen. Er zit bovendien een microSD-kaart van 32 GB in de doos.\n\nDe camera is klein en past achter je binnenspiegel. Via wifi en de RedTiger-app bekijk je livebeeld, download je fragmenten en pas je instellingen aan. Het rijhulpsysteem ADAS geeft waarschuwingen onderweg. De G-sensor zet beelden vast bij een klap, terwijl loop recording de oudste opnames overschrijft als de kaart vol is. Voor de parkeermodus van 24 uur heb je een hardwire-kit van RedTiger nodig, die je los koopt. RedTiger geeft 18 maanden garantie. Op deze bol-pagina staat nog geen beoordeling van kopers. De maximale kaartgrootte staat niet op de bol-pagina. Wil je ook achter filmen, dan is de F9 Dual op plek 4 de set van hetzelfde merk.",
+      "ean": "5905156108424",
+      "bol_title": "Redtiger - F9 Lite - Dashcam",
+      "url": "https://www.bol.com/nl/nl/p/redtiger-f9-lite-dashcam/9300000397007742/",
+      "image": "https://media.s-bol.com/90NymX2J6nN8/282rlgv/550x504.jpg",
       "ph": {
-        "2026-11-26": 57.95
+        "2026-11-27": 78.86
       },
-      "low_price": 57.95,
-      "ph_ean": "8721082477369",
+      "low_price": 78.86,
+      "ph_ean": "5905156108424",
       "synced": "2026-11-27"
     },
     {

@@ -15,7 +15,7 @@
   ],
   "ico": "📺",
   "color": "#1b3fb3",
-  "updated": "2026-11-25",
+  "updated": "2026-11-27",
   "reviews_total": "7.900",
   "intro": "Een televisie koop je voor zeven tot tien jaar, dus de keuze tussen OLED, QLED en een budgetmodel wil je in één keer goed maken. De verschillen in beeldkwaliteit, helderheid en gamingfuncties zijn groot, maar de prijzen lopen ook uiteen van 550 tot bijna 3.000 euro. Wij vergeleken televisies van 55 tot 65 inch op beeld, geluid, smart-tv-systeem, gaming en de score bij bol. Dit zijn de tien beste televisies die je in 2026 in Nederland kunt kopen.",
   "verdict": "De LG OLED C5 is de beste televisie van 2026 voor de meeste huiskamers: perfect zwart, prachtige kleuren, vier HDMI 2.1-poorten voor gamers en een prijs die sinds de introductie flink is gedaald. Wil je het absolute beste beeld, dan is de Samsung S95H met QD-OLED en antireflectiescherm de beste premium keuze. De LG OLED B5 biedt het OLED-beeld van zijn duurdere broer voor ruim 1.100 euro en is daarmee de beste prijs-kwaliteit.",
@@ -441,67 +441,42 @@
     },
     {
       "brand": "Philips",
-      "name": "55OLED811",
-      "price": 1249.0,
-      "score": 8.9,
-      "label": null,
+      "name": "55OLED761",
+      "price": 899.0,
+      "score": 8.8,
       "reviews": "",
-      "oneliner": "OLED met driezijdig Ambilight, de nieuwe opvolger van de OLED810.",
+      "oneliner": "Betaalbare OLED uit 2026 met Ambilight.",
       "specs": {
         "Formaat": "55 inch",
         "Paneel": "OLED",
-        "Verversing": "120 Hz, games tot 165 Hz",
-        "HDMI 2.1": "4 poorten volgens testsites",
-        "Smart-tv": "Smart TV met streamingapps"
+        "Verversing": "120 Hz, VRR tot 144 Hz",
+        "HDMI 2.1": "Ja, met VRR",
+        "Smart-tv": "Titan OS"
       },
       "pros": [
-        "Driezijdig Ambilight maakt het beeld groter en rustiger voor de ogen",
+        "Ambilight geeft sfeer en rust in het donker",
+        "OLED met perfect zwart",
         "Dolby Vision en HDR10+",
-        "Tot 165 Hz en VRR voor gamers",
-        "Vier HDMI 2.1-poorten volgens testsites"
+        "VRR tot 144 Hz voor console en pc"
       ],
       "cons": [
-        "Nog geen beoordelingen op bol",
-        "Hogere prijs dan de OLED810",
-        "Ambilight werkt alleen goed tegen een lichte muur"
+        "Titan OS heeft minder apps dan webOS of Tizen",
+        "Nieuw model, nog zonder beoordeling bij bol",
+        "Ambilight vraagt om een lichte, vlakke muur"
       ],
-      "ideal": "Wie een OLED wil met de sfeerverlichting van Ambilight en een goed uitgeruste gamer-tv zoekt.",
-      "text": "Philips is het enige merk met Ambilight, de ledverlichting aan de achterkant die de kleuren van het beeld op de muur projecteert. Het klinkt als een gimmick, maar wie het eenmaal heeft, wil vaak niet meer zonder: het beeld lijkt groter, je ogen worden minder moe in een donkere kamer en bij muziek werkt het als sfeerverlichting. De 55OLED811 heeft driezijdige Ambilight.\n\nHet OLED-paneel levert perfect zwart. Met VRR, beeld tot 165 Hz en volgens testsites vier HDMI 2.1-poorten is hij ook voor gamers met meerdere consoles geschikt. Dolby Vision en HDR10+ zijn allebei aanwezig. De helderheid blijft naar verwachting onder die van de LG C5. Het model is nieuw, dus er zijn op bol nog geen beoordelingen. Zoek je de meest onderscheidende televisie in de lijst voor in de huiskamer, dan is dit hem.",
-      "ean": "8718863052044",
-      "bol_title": "Philips 55OLED811 - 55 inch - 4K OLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/philips-55oled811-12-55-inch-4k-oled-2026-smart-tv/9300000342039426/",
-      "image": "https://media.s-bol.com/D4Ak1nONRQQK/K1Er83l/550x326.jpg",
+      "ideal": "Wie een onderscheidende OLED-tv met sfeerverlichting wil voor onder 1000 euro.",
+      "text": "Philips is het enige merk met Ambilight, de ledverlichting aan de achterkant die de kleuren van het beeld op de muur projecteert. Het klinkt als een gimmick, maar wie het eenmaal heeft, wil vaak niet meer zonder: het beeld lijkt groter, je ogen worden minder moe in een donkere kamer en bij muziek werkt het als sfeerverlichting. De 55OLED761 is het instapmodel uit 2026 dat Ambilight met een OLED-paneel combineert.\n\nHet OLED-paneel levert perfect zwart en een brede kijkhoek. Het draait op 120 Hz en haalt met VRR tot 144 Hz, prima voor een PS5, Xbox of pc. Dolby Vision en HDR10+ zijn allebei aanwezig. Er zijn vier HDMI-aansluitingen, waarvan één met eARC voor een soundbar. Titan OS is snel en heeft de grote streamingdiensten, maar minder apps dan webOS of Tizen. Het model is nieuw, dus er is op bol nog geen beoordeling. Voor 899 euro kost hij 100 euro meer dan de LG OLED55B5. Zoek je de meest onderscheidende televisie in de lijst voor in de huiskamer, dan is dit hem.",
+      "ean": "8718863052037",
+      "label": null,
+      "bol_title": "Philips 55OLED761/12 - 55 inch - 4K OLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/philips-55oled761-12-55-inch-4k-oled-2026-smart-tv/9300000347506271/",
+      "image": "https://media.s-bol.com/pyKV3EYwGDDr/w0nBwGJ/550x342.jpg",
       "ph": {
-        "2026-11-02": 1525.78,
-        "2026-11-03": 1499.0,
-        "2026-11-04": 1499.0,
-        "2026-11-05": 1499.0,
-        "2026-11-06": 1495.0,
-        "2026-11-07": 1399.0,
-        "2026-11-08": 1399.0,
-        "2026-11-09": 1495.0,
-        "2026-11-10": 1495.0,
-        "2026-11-11": 1399.0,
-        "2026-11-12": 1495.0,
-        "2026-11-13": 1495.0,
-        "2026-11-14": 1399.0,
-        "2026-11-16": 1495.0,
-        "2026-11-17": 1399.0,
-        "2026-11-18": 1399.0,
-        "2026-11-19": 1399.0,
-        "2026-11-20": 1495.0,
-        "2026-11-21": 1349.0,
-        "2026-11-22": 1349.0,
-        "2026-11-23": 1349.0,
-        "2026-11-24": 1349.0,
-        "2026-11-25": 1249.0,
-        "2026-11-26": 1249.0
+        "2026-11-27": 899.0
       },
-      "low_price": 1249.0,
-      "synced": "2026-11-27",
-      "prev_price": 1349.0,
-      "prev_date": "2026-11-24",
-      "ph_ean": "8718863052044"
+      "low_price": 899.0,
+      "ph_ean": "8718863052037",
+      "synced": "2026-11-27"
     },
     {
       "brand": "Philips",
@@ -792,7 +767,7 @@
     },
     {
       "q": "Heb ik een soundbar nodig bij een nieuwe televisie?",
-      "a": "Bij de meeste dunne televisies wel. De luidsprekers zitten achter of onder het scherm en klinken dun. De Philips OLED811 klinkt beter dan gemiddeld, maar een soundbar van 200 tot 400 euro verbetert elk model in deze lijst merkbaar. Sluit hem aan via de HDMI eARC-poort voor het beste resultaat."
+      "a": "Bij de meeste dunne televisies wel. De luidsprekers zitten achter of onder het scherm en klinken dun. Een soundbar van 200 tot 400 euro verbetert elk model in deze lijst merkbaar. Sluit hem aan via de HDMI eARC-poort voor het beste resultaat."
     },
     {
       "q": "Hoe lang gaat een televisie mee?",
@@ -817,6 +792,12 @@
       "d": "2026-11-16",
       "uit": "LG 65QNED84A6C",
       "in": "Philips 65PQS7801/12",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-27",
+      "uit": "Philips 55OLED811",
+      "in": "Philips 55OLED761",
       "waarom": "niet meer leverbaar bij bol"
     }
   ]

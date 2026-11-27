@@ -16,7 +16,7 @@
   ],
   "ico": "📺",
   "color": "#1b3fb3",
-  "updated": "2026-11-25",
+  "updated": "2026-11-27",
   "published": "2026-11-21",
   "google_wacht": true,
   "reviews_total": "",
@@ -172,51 +172,6 @@
       "synced": "2026-11-27"
     },
     {
-      "brand": "MEDION",
-      "name": "MD 843701",
-      "price": 279.95,
-      "score": 8.4,
-      "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "QLED met Dolby Vision en Google TV voor onder 280 euro.",
-      "specs": {
-        "Resolutie": "4K",
-        "Paneel": "QLED",
-        "HDR": "Dolby Vision, HDR10",
-        "HDMI": "3x HDMI 2.0, ARC",
-        "Smart-tv": "Google TV",
-        "Stroomverbruik (SDR)": "50 W · klasse F (EU-label)"
-      },
-      "pros": [
-        "QLED, Dolby Vision en Google TV",
-        "Opnamefunctie via USB (PVR)",
-        "Bluetooth voor koptelefoon",
-        "Model uit 2026"
-      ],
-      "cons": [
-        "HDMI met ARC, geen eARC",
-        "Minder bekend als tv-merk dan Philips of Hisense"
-      ],
-      "ideal": "Wie Dolby Vision en Google TV samen wil voor zo weinig mogelijk geld.",
-      "text": "MEDION is vooral bekend van laptops, maar de MD 843701 is een serieuze 43 inch voor 279,95 euro. Je krijgt een 4K QLED-paneel met Dolby Vision én Google TV. Die combinatie is onder 300 euro zeldzaam: de Xiaomi heeft Google TV zonder Dolby Vision, de Hisense 43A7Q Dolby Vision zonder Google TV. MEMC maakt snelle beelden bij sport vloeiender, al kan dat bij films een soap-effect geven. Zet het dan uit.\n\nGoogle TV geeft je alle Nederlandse apps en Chromecast. Via USB kun je programma's opnemen met de PVR-functie en een Bluetooth-koptelefoon koppel je direct. De drie HDMI-poorten zijn HDMI 2.0 met ARC, geen eARC. Voor een gewone soundbar is dat genoeg, voor Dolby Atmos via een soundbar niet. De tuner ondersteunt kabel en antenne, satelliet niet. MEDION is als tv-merk minder bekend dan Philips of Hisense. Kijk daarom even naar de garantievoorwaarden bij bestellen.",
-      "ean": "4061275250879",
-      "bol_title": "MEDION 4K QLED Smart TV 108 cm (43 inch) - MD 843701 | Dolby Vision HDR, Prime Video, Disney+, compatibel met Google TV, PVR, Bluetooth",
-      "url": "https://www.bol.com/nl/nl/p/medion-108-cm-43-qled-tv-smart-tv-4k-dolby-vision-hdr-prime-video-disney-compatibel-met-google-tv-pvr-bluetooth-md843701-dolby-vision-hdr-prime-video-disney-kompatibel-mit-google-tv-pvr-blu/9300000333315325/",
-      "image": "https://media.s-bol.com/E3Z99xVkpzMY/BrLEJOQ/550x440.jpg",
-      "ph": {
-        "2026-11-21": 279.95,
-        "2026-11-22": 279.95,
-        "2026-11-23": 279.95,
-        "2026-11-24": 279.95,
-        "2026-11-25": 279.95,
-        "2026-11-26": 279.95
-      },
-      "low_price": 279.95,
-      "ph_ean": "4061275250879",
-      "rating": 5.0,
-      "synced": "2026-11-27"
-    },
-    {
       "brand": "CHiQ",
       "name": "U43QST",
       "price": 282.74,
@@ -352,6 +307,46 @@
       "low_price": 249.0,
       "ph_ean": "8592344205651",
       "rating": 4.6,
+      "synced": "2026-11-27"
+    },
+    {
+      "brand": "MEDION",
+      "name": "MD 843602",
+      "price": 279.95,
+      "score": 8.1,
+      "reviews": "",
+      "oneliner": "4K QLED met Dolby Vision en VIDAA voor 279,95 euro.",
+      "specs": {
+        "Resolutie": "4K",
+        "Paneel": "QLED",
+        "HDR": "Dolby Vision, HDR10",
+        "HDMI": "3x HDMI 2.0, ARC",
+        "Smart-tv": "VIDAA",
+        "Stroomverbruik (SDR)": "klasse F (EU-label)"
+      },
+      "pros": [
+        "4K QLED met Dolby Vision",
+        "MEMC voor vloeiender sportbeeld",
+        "Spraakbediening via de VIDAA-app",
+        "Model uit 2026"
+      ],
+      "cons": [
+        "VIDAA mist de apps van KPN en Ziggo GO",
+        "HDMI 2.0 met ARC, geen eARC",
+        "Nog geen beoordeling bij bol"
+      ],
+      "ideal": "Wie QLED en Dolby Vision wil op 43 inch en genoeg heeft aan de grote streamingapps.",
+      "text": "MEDION is vooral bekend van laptops, maar de MD 843602 is een nette 43 inch voor 279,95 euro. Je krijgt een 4K QLED-paneel met quantum dots en Dolby Vision. Die combinatie is onder 300 euro niet vanzelfsprekend: de Philips in deze lijst heeft geen Dolby Vision en de TCL blijft op Full HD. MEMC maakt snelle beelden bij sport vloeiender, al kan dat bij films een soap-effect geven. Zet het dan uit.\n\nHet systeem is VIDAA, hetzelfde platform als op de Hisense-tv's. Netflix, Prime Video en Disney+ staan erop, maar bol vermeldt dat de apps van KPN en Ziggo GO ontbreken. Met de VIDAA-app op je telefoon bedien je de tv met je stem. De drie HDMI-poorten zijn HDMI 2.0 met ARC, geen eARC. Voor een gewone soundbar is dat genoeg. Het paneel ververst op 60 Hz zonder VRR, dus voor fanatiek gamen is dit niet de tv. Het model is uit 2026 en heeft bij bol nog geen beoordeling. MEDION is als tv-merk minder bekend dan Philips of Hisense. Kijk daarom even naar de garantievoorwaarden bij het bestellen.",
+      "ean": "4061275250664",
+      "label": null,
+      "bol_title": "MEDION 108 cm (43 inch) QLED-tv (Smart-TV, Dolby Vision HDR, HBO Max, MagentaTV, Prime Video, Disney+, DAZN, Paramount+, Dolby Atmos, VIDAA Store, PVR, Bluetooth, MD 843602) | Dolby Vision HDR, HBO Ma",
+      "url": "https://www.bol.com/nl/nl/p/medion-108-cm-qled-fernseher/9300000285270560/",
+      "image": "https://media.s-bol.com/npoqMwE2Vn27/qYrp3pp/550x332.jpg",
+      "ph": {
+        "2026-11-27": 279.95
+      },
+      "low_price": 279.95,
+      "ph_ean": "4061275250664",
       "synced": "2026-11-27"
     },
     {
@@ -499,11 +494,11 @@
     },
     {
       "h": "Google TV, VIDAA of Titan OS?",
-      "p": "Google TV heeft het grootste app-aanbod en Chromecast ingebouwd: je vindt het op de Xiaomi, MEDION, CHiQ, TCL en Metz. VIDAA van Hisense en Horizon start snel op en heeft de grote diensten, maar minder kleine apps. Titan OS van Philips is nieuw en heeft Netflix, Disney+, YouTube en Prime Video. Gebruik je de app van je tv-aanbieder, controleer dan vooraf of die beschikbaar is."
+      "p": "Google TV heeft het grootste app-aanbod en Chromecast ingebouwd: je vindt het op de Xiaomi, CHiQ, TCL en Metz. VIDAA van Hisense, MEDION en Horizon start snel op en heeft de grote diensten, maar minder kleine apps. Titan OS van Philips is nieuw en heeft Netflix, Disney+, YouTube en Prime Video. Gebruik je de app van je tv-aanbieder, controleer dan vooraf of die beschikbaar is."
     },
     {
       "h": "Dolby Vision of HDR10+?",
-      "p": "Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video HDR10+. De Hisense 43A7Q ondersteunt beide. De Hisense 43A6S en MEDION MD 843701 hebben Dolby Vision, de Philips 43PUS7001 HDR10+. Verwacht op 43 inch onder 300 euro geen spectaculair HDR-effect: de helderheid is beperkt. Een dynamisch formaat zorgt wel voor rustiger contrast in donkere scènes."
+      "p": "Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video HDR10+. De Hisense 43A7Q ondersteunt beide. De Hisense 43A6S en MEDION MD 843602 hebben Dolby Vision, de Philips 43PUS7001 HDR10+. Verwacht op 43 inch onder 300 euro geen spectaculair HDR-effect: de helderheid is beperkt. Een dynamisch formaat zorgt wel voor rustiger contrast in donkere scènes."
     },
     {
       "h": "Aansluitingen en gamen",
@@ -521,7 +516,7 @@
     },
     {
       "q": "Welke 43 inch tv onder 300 euro heeft Dolby Vision?",
-      "a": "De Hisense 43A7Q, Hisense 43A6S en MEDION MD 843701 ondersteunen Dolby Vision. De Hisense 43A7Q heeft daarnaast HDR10+ en is daarmee de meest complete voor films en series."
+      "a": "De Hisense 43A7Q, Hisense 43A6S en MEDION MD 843602 ondersteunen Dolby Vision. De Hisense 43A7Q heeft daarnaast HDR10+ en is daarmee de meest complete voor films en series."
     },
     {
       "q": "Is een 43 inch tv van een A-merk onder 300 euro te koop?",
@@ -552,6 +547,12 @@
       "uit": "Philips 43PQS7801/12",
       "in": "CHiQ L43QM10V",
       "waarom": "kwam boven de prijsgrens van deze gids"
+    },
+    {
+      "d": "2026-11-27",
+      "uit": "MEDION MD 843701",
+      "in": "MEDION MD 843602",
+      "waarom": "niet meer leverbaar bij bol"
     }
   ]
 }

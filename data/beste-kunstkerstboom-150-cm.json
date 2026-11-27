@@ -15,7 +15,7 @@
   ],
   "ico": "🎄",
   "color": "#1f5c3a",
-  "updated": "2026-11-22",
+  "updated": "2026-11-27",
   "published": "2026-11-22",
   "google_wacht": true,
   "reviews_total": "",
@@ -213,47 +213,6 @@
       "prev_date": "2026-11-25"
     },
     {
-      "brand": "Royal Christmas",
-      "name": "Spitsbergen Premium 150 cm",
-      "price": 122.55,
-      "score": 8.9,
-      "label": null,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Premium-boom van een Nederlands merk dat bekend is van PE-naalden.",
-      "specs": {
-        "Hoogte": "150 cm",
-        "Vorm": "Vol",
-        "Materiaal": "Niet vermeld bij bol",
-        "Verlichting": "Nee"
-      },
-      "pros": [
-        "Uit de Premium-lijn van Royal Christmas",
-        "Volle vorm die een kleine kamer goed vult",
-        "Klassieke groene kleur"
-      ],
-      "cons": [
-        "Duur voor een boom van 150 cm",
-        "Materiaal staat niet duidelijk op de bol-pagina"
-      ],
-      "ideal": "Wie een kleine boom van een bekend kerstboommerk wil en daar iets meer voor betaalt.",
-      "text": "Royal Christmas is het Nederlandse merk achter onder meer de Bergen en de Rockefeller uit onze vergelijking van grote bomen. De Spitsbergen komt uit de Premium-lijn van het merk en is in deze maat 150 cm hoog. Daarmee past hij in elke woonkamer, ook onder een laag plafond of op een zolderkamer met schuine wanden, zolang je hem bij het hoogste punt zet.\n\nDe vorm is vol en klassiek, zonder de extreme breedte van sommige Triumph Tree-modellen. Daardoor kun je er in een smalle kamer nog langs lopen. Welke naalden precies gebruikt worden, staat niet duidelijk op de bol-pagina. Kijk daarom bij de productfoto's of je de uitstraling mooi vindt voordat je bestelt. Voor ruim 120 euro betaal je vooral voor het merk en de afwerking. Vind je dat te veel, dan biedt de Grandis Fir een vergelijkbaar volume voor ongeveer de helft. Bij bol staat de Spitsbergen op een 4,3 van 5.",
-      "ean": "8717931858144",
-      "rating": 4.3,
-      "bol_title": "Royal Christmas - Kunstkerstboom Premium Spitsbergen - 150 cm - Groen",
-      "url": "https://www.bol.com/nl/nl/p/royal-christmas-kunstkerstboom-spitsbergen-premium-pe-pvc-150-cm-558-takken-groen/9200000060518679/",
-      "image": "https://media.s-bol.com/YLBxkDRxx92K/nZJZMJP/542x840.jpg",
-      "ph": {
-        "2026-11-22": 122.55,
-        "2026-11-23": 122.55,
-        "2026-11-24": 122.55,
-        "2026-11-25": 122.55,
-        "2026-11-26": 122.55
-      },
-      "low_price": 122.55,
-      "ph_ean": "8717931858144",
-      "synced": "2026-11-27"
-    },
-    {
       "brand": "Triumph Tree",
       "name": "Bristlecone 155 cm met 144 LED",
       "price": 169.99,
@@ -422,6 +381,43 @@
       "prev_date": "2026-11-26"
     },
     {
+      "brand": "Triumph Tree",
+      "name": "Tuscan 155 cm",
+      "price": 48.69,
+      "score": 8.3,
+      "label": null,
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Voordelige volle boom van Triumph Tree met 392 takken.",
+      "specs": {
+        "Hoogte": "155 cm",
+        "Vorm": "Vol, Ø 99 cm",
+        "Materiaal": "PVC",
+        "Verlichting": "Nee"
+      },
+      "pros": [
+        "392 takken voor onder de 50 euro",
+        "Insteektakken met kleurcodes",
+        "Met 4,9 kg makkelijk te tillen"
+      ],
+      "cons": [
+        "Naalden van PVC, minder verfijnd dan PE",
+        "Takken een voor een inhaken kost tijd"
+      ],
+      "ideal": "Wie een volle groene boom van een bekend merk wil voor een klein budget.",
+      "text": "De Tuscan is een van de voordeligste bomen van Triumph Tree, het merk dat ook de Forest Frosted en de Bristlecone bovenaan deze lijst maakt. Hij is 155 cm hoog en 99 cm breed en telt 392 takken met zachte naalden van PVC aan bruine takjes. Dat is minder verfijnd dan de PE-naalden van de Bristlecone, maar van een afstand oogt hij als een klassieke groene spar. Met een gewicht van 4,9 kg til je hem makkelijk naar zolder.\n\nHet opzetten gaat via een insteekconstructie met kleurcodes: elke tak haak je op de juiste hoogte aan de stam. Dat vraagt wat meer handwerk dan een boom met uitklaptakken, maar de losse takken berg je compact op. Verlichting zit er niet in, dus reken op een los snoer. Voor rond de 49 euro kost hij ongeveer evenveel als de Royal Christmas Dakota, terwijl hij 120 takken meer heeft. Bij bol staat deze Tuscan op een 4,5 van 5.",
+      "ean": "0756770414898",
+      "bol_title": "Triumph Tree Tuscan Kunstkerstboom - H155 x D99cm - Groen",
+      "url": "https://www.bol.com/nl/nl/p/triumph-tree-tuscan-kunstkerstboom-h155-x-o99-cm-groen/9200000019515495/",
+      "image": "https://media.s-bol.com/3Wxl5q1k8m9r/ROXor8V/490x840.jpg",
+      "rating": 4.5,
+      "ph": {
+        "2026-11-27": 48.69
+      },
+      "low_price": 48.69,
+      "ph_ean": "0756770414898",
+      "synced": "2026-11-27"
+    },
+    {
       "brand": "Royal Christmas",
       "name": "Dakota 150 cm",
       "price": 49.0,
@@ -512,6 +508,12 @@
       "uit": "Black Box Trees Grimshaw 155 cm",
       "in": "Black Box Trees Toronto Deluxe 155 cm",
       "waarom": "niet meer leverbaar bij bol in 155 cm"
+    },
+    {
+      "d": "2026-11-27",
+      "uit": "Royal Christmas Spitsbergen Premium 150 cm",
+      "in": "Triumph Tree Tuscan 155 cm",
+      "waarom": "niet meer leverbaar bij bol"
     }
   ]
 }

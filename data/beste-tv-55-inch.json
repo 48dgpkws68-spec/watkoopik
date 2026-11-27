@@ -14,7 +14,7 @@
   ],
   "ico": "📺",
   "color": "#1b3fb3",
-  "updated": "2026-10-16",
+  "updated": "2026-11-27",
   "reviews_total": "6.000",
   "intro": "Een 55 inch tv is voor de meeste Nederlandse woonkamers het ideale formaat: groot genoeg voor films en sport, maar niet zo groot dat hij de kamer overheerst. De verschillen tussen modellen zijn groot, van een eenvoudige led-tv tot een felle oled. Wij vergeleken de 55 inch tv's die nu bij bol te koop zijn op beeldtechniek, helderheid, HDR, gamefuncties en smart-tv, aangevuld met de ervaringen van kopers. Dit zijn de tien beste.",
   "verdict": "De LG C5 is de beste 55 inch tv van 2026: perfect zwart, vier HDMI 2.1-poorten en een snel smart-tv-systeem voor rond 1.100 euro. De LG B5 is de beste prijs-kwaliteit omdat je oled-beeld krijgt voor onder de 900 euro. Wil je het mooiste beeld, ook in een lichte kamer, kies dan de LG G5. Op een kleiner budget bieden de Hisense E8S en E7S PRO veel tv voor weinig geld.",
@@ -345,67 +345,42 @@
     },
     {
       "brand": "Philips",
-      "name": "55OLED811 Ambilight",
-      "price": 1249.0,
-      "score": 9.0,
-      "label": null,
+      "name": "55OLED761 Ambilight",
+      "price": 899.0,
+      "score": 8.8,
       "reviews": "",
-      "oneliner": "Oled met driezijdig Ambilight voor een groter beeldgevoel.",
+      "oneliner": "Betaalbare oled uit 2026 met Ambilight en beide HDR-formaten.",
       "specs": {
         "Paneel": "OLED",
-        "Verversing": "120 Hz, games tot 165 Hz",
-        "HDR": "Dolby Vision, HDR10+, HLG",
-        "Smart-tv": "Smart TV met streamingapps",
+        "Verversing": "120 Hz, VRR tot 144 Hz",
+        "HDR": "Dolby Vision, HDR10+",
+        "Smart-tv": "Titan OS",
         "Jaar": "2026",
         "Stroomverbruik (SDR)": "84 W · klasse G (EU-label)"
       },
       "pros": [
-        "Driezijdig Ambilight",
-        "Ondersteunt zowel Dolby Vision als HDR10+",
-        "VRR en tot 165 Hz voor gamers",
-        "Vier HDMI 2.1-poorten volgens testsites"
+        "Oled met Ambilight voor 899 euro",
+        "Dolby Vision en HDR10+",
+        "VRR tot 144 Hz voor console en pc",
+        "Vier HDMI-aansluitingen"
       ],
       "cons": [
-        "Ambilight werkt alleen goed op een lichte muur",
-        "Nog geen beoordelingen op bol"
+        "Titan OS heeft minder apps dan webOS of Google TV",
+        "Nieuw model, nog zonder beoordeling bij bol"
       ],
-      "ideal": "Wie een oled wil met de sfeer van Ambilight, vooral in de avonduren.",
-      "text": "De Philips 55OLED811 is een oled met een unieke extra: Ambilight. Aan drie kanten van de tv zitten leds die de kleuren van het beeld op de muur doortrekken. Daardoor lijkt het scherm groter en is kijken in het donker minder vermoeiend voor je ogen. Hij is in 2026 verschenen als opvolger van de 55OLED810.\n\nOok los van Ambilight is dit een interessante 55 inch tv. Het oled-paneel geeft diep zwart. Hij ondersteunt zowel Dolby Vision als HDR10+, wat bij LG en Sony ontbreekt, zodat je bij Netflix en Prime Video het beste HDR-formaat krijgt. Gamers krijgen VRR en beeld tot 165 Hz. Testsites noemen vier HDMI 2.1-poorten. Omdat het model nieuw is, heeft hij op bol nog geen beoordelingen. Let op dat Ambilight het mooist werkt op een lichte, vlakke muur.",
-      "ean": "8718863052044",
-      "bol_title": "Philips 55OLED811 - 55 inch - 4K OLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/philips-55oled811-12-55-inch-4k-oled-2026-smart-tv/9300000342039426/",
-      "image": "https://media.s-bol.com/D4Ak1nONRQQK/K1Er83l/550x326.jpg",
+      "ideal": "Wie oled en Ambilight wil zonder de prijs van een topmodel.",
+      "text": "De Philips 55OLED761 is een oled met een unieke extra: Ambilight. Leds aan de achterkant van de tv trekken de kleuren van het beeld door op de muur. Daardoor lijkt het scherm groter en is kijken in het donker minder vermoeiend voor je ogen. Hij is in 2026 verschenen als instapmodel in de oled-lijn van Philips en kost 899 euro. Dat is honderden euro's minder dan de meeste oled-tv's in deze lijst.\n\nOok los van Ambilight is dit een interessante 55 inch tv. Het oled-paneel geeft diep zwart en een brede kijkhoek. Hij ondersteunt zowel Dolby Vision als HDR10+, wat bij LG en Sony ontbreekt, zodat je bij Netflix en Prime Video het beste HDR-formaat krijgt. Het paneel draait op 120 Hz en haalt met VRR tot 144 Hz. Er zijn vier HDMI-aansluitingen, waarvan één met eARC. Titan OS heeft de grote streamingdiensten, maar minder apps dan webOS van LG. Omdat het model nieuw is, heeft hij op bol nog geen beoordelingen. Let op dat Ambilight het mooist werkt op een lichte, vlakke muur.",
+      "ean": "8718863052037",
+      "label": null,
+      "bol_title": "Philips 55OLED761/12 - 55 inch - 4K OLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/philips-55oled761-12-55-inch-4k-oled-2026-smart-tv/9300000347506271/",
+      "image": "https://media.s-bol.com/pyKV3EYwGDDr/w0nBwGJ/550x342.jpg",
       "ph": {
-        "2026-11-02": 1525.78,
-        "2026-11-03": 1499.0,
-        "2026-11-04": 1499.0,
-        "2026-11-05": 1499.0,
-        "2026-11-06": 1495.0,
-        "2026-11-07": 1399.0,
-        "2026-11-08": 1399.0,
-        "2026-11-09": 1495.0,
-        "2026-11-10": 1495.0,
-        "2026-11-11": 1399.0,
-        "2026-11-12": 1495.0,
-        "2026-11-13": 1495.0,
-        "2026-11-14": 1399.0,
-        "2026-11-16": 1495.0,
-        "2026-11-17": 1399.0,
-        "2026-11-18": 1399.0,
-        "2026-11-19": 1399.0,
-        "2026-11-20": 1495.0,
-        "2026-11-21": 1349.0,
-        "2026-11-22": 1349.0,
-        "2026-11-23": 1349.0,
-        "2026-11-24": 1349.0,
-        "2026-11-25": 1249.0,
-        "2026-11-26": 1249.0
+        "2026-11-27": 899.0
       },
-      "low_price": 1249.0,
-      "synced": "2026-11-27",
-      "prev_price": 1349.0,
-      "prev_date": "2026-11-24",
-      "ph_ean": "8718863052044"
+      "low_price": 899.0,
+      "ph_ean": "8718863052037",
+      "synced": "2026-11-27"
     },
     {
       "brand": "Samsung",
@@ -819,7 +794,7 @@
       },
       {
         "h": "Dolby Vision, HDR10+ of allebei?",
-        "p": "LG en Sony ondersteunen Dolby Vision zonder HDR10+, nr. 7 Samsung The Frame Pro (€ 1.149) juist HDR10+ zonder Dolby Vision. Wil je allebei, kijk dan naar nr. 5 Philips 55OLED811 Ambilight (€ 1.249) als oled of naar nr. 8 en 9 van Hisense. Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video ook HDR10+."
+        "p": "LG en Sony ondersteunen Dolby Vision zonder HDR10+, nr. 7 Samsung The Frame Pro (€ 1.149) juist HDR10+ zonder Dolby Vision. Wil je allebei, kijk dan naar nr. 5 Philips 55OLED761 Ambilight (€ 899) als oled of naar nr. 8 en 9 van Hisense. Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video ook HDR10+."
       },
       {
         "h": "Komt de tv aan de muur?",
@@ -844,6 +819,12 @@
       "d": "2026-11-13",
       "uit": "Samsung QE55S83H",
       "in": "Samsung QE55S93H",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-27",
+      "uit": "Philips 55OLED811 Ambilight",
+      "in": "Philips 55OLED761 Ambilight",
       "waarom": "niet meer leverbaar bij bol"
     }
   ]
