@@ -17,7 +17,7 @@
   "updated": "2026-11-27",
   "reviews_total": "",
   "intro": "Fijnstof van verkeer, pollen, kookdampen en huisdierenhaar blijven hangen in een goed geïsoleerd huis. Een luchtreiniger met HEPA-filter haalt een deel van die deeltjes uit de lucht. Ventileren blijft nodig en hard bewijs dat je gezondheid ervan verbetert is er volgens het Longfonds niet. Wij vergeleken de luchtreinigers die nu bij bol te koop zijn op CADR, kamergrootte, geluid op de laagste en hoogste stand, vermogen, filter en de score bij bol. Van een apparaat van 90 euro voor de slaapkamer tot een model met 520 kubieke meter per uur voor de woonkamer.",
-  "verdict": "De Philips PureProtect 3200 is de beste luchtreiniger voor de meeste woonkamers: 520 kubieke meter per uur, 15 dB op de laagste stand, 36 watt, een sensor en een app voor 239 euro. Voor een kleiner budget is de Duux Bright 2 de beste prijs-kwaliteit: een H13-filter, een sensor en een app voor 132,99 euro, passend bij een kamer van ongeveer 21 vierkante meter. Hij heeft wel een ionisator en is met 31 dB hoorbaarder. De Dyson PH2 bevochtigt en koelt ook, maar heeft volgens bol de laagste CADR van de lijst.",
+  "verdict": "De Philips PureProtect 3200 is de beste luchtreiniger voor de meeste woonkamers: 520 kubieke meter per uur, 15 dB op de laagste stand, 36 watt, een sensor en een app voor 239 euro. Voor een kleiner budget is de Duux Bright 2 de beste prijs-kwaliteit: een H13-filter, een sensor en een app voor 132,99 euro, passend bij een kamer van ongeveer 21 vierkante meter. Hij heeft wel een ionisator en is met 31 dB hoorbaarder. De Dyson PH2 staat op 8: hij bevochtigt en koelt ook, maar heeft volgens bol de laagste CADR.",
   "products": [
     {
       "brand": "Philips",
@@ -117,89 +117,6 @@
       "low_price": 132.99,
       "ph_ean": "8716164992243",
       "synced": "2026-11-27"
-    },
-    {
-      "brand": "Dyson",
-      "name": "Purifier Humidify+Cool PH2 De-NOx",
-      "price": 649.0,
-      "score": 9.0,
-      "label": "Beste premium",
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Luchtreiniger, luchtbevochtiger en ventilator in één premium toestel.",
-      "specs": {
-        "CADR": "67,8 m3/u volgens bol",
-        "Ruimte": "Tot 37 m2",
-        "Filter": "HEPA H13 + koolfilter (De-NOx)",
-        "Geluid": "45,9 tot 62,4 dB",
-        "Vermogen": "45 W"
-      },
-      "pros": [
-        "Reinigt, bevochtigt en koelt in één apparaat",
-        "Afgedichte HEPA H13-filtratie en een koolfilter gericht op stikstofdioxide",
-        "UV-licht behandelt het water in het reservoir",
-        "Tien snelheden, timer en app"
-      ],
-      "cons": [
-        "CADR volgens bol 67,8 m3/u, de laagste in deze lijst",
-        "45,9 dB op de laagste stand volgens bol",
-        "649 euro: ruim 2,5 keer de prijs van de Philips 3200"
-      ],
-      "ideal": "Wie in een droog huis lucht wil reinigen en bevochtigen met één apparaat en daar 649 euro voor over heeft.",
-      "text": "De Dyson Purifier Humidify+Cool PH2 De-NOx combineert drie functies: hij filtert de lucht, bevochtigt en werkt als ventilator. Het filter is volgens bol volledig afgedicht en van klasse HEPA H13, wat 99,95 procent van de ultrafijne deeltjes vangt. Het koolfilter is gericht op stikstofdioxide en een katalytisch filter breekt formaldehyde af. UV-licht behandelt het water in het reservoir.\n\nAls pure luchtreiniger is hij op papier de zwakste van deze lijst. Bol geeft een CADR van 67,8 kubieke meter per uur en ruimtes tot 37 vierkante meter op. Hier stond eerder ongeveer 80 vierkante meter en 25 dB: dat vonden wij bij bol niet terug. In de specificaties staat 45,9 dB als laagste en 62,4 dB als hoogste geluidsniveau, bij 45 watt. De omschrijving noemt de nachtstand wel fluisterstil, zonder getal. Gerekend met vier luchtwisselingen per uur is 67,8 kubieke meter genoeg voor ongeveer 7 vierkante meter. Voor 649 euro koop je dus vooral de bevochtiger en de ventilator erbij. Wil je alleen schone lucht, dan levert de Philips 3200 van 239 euro volgens bol ruim zeven keer zoveel CADR. De bol-score is 4,6 van 5.",
-      "ean": "5025155100875",
-      "bol_title": "Dyson Purifier Humidify+Cool PH2 De-NOx - Luchtreiniger - Ventilator - HEPA filter - Wit/Goud",
-      "url": "https://www.bol.com/nl/nl/p/dyson-purifier-humidify-cool-de-nox-ph05-luchtreiniger-hepa-filter-wit-goud/9300000226721806/",
-      "image": "https://media.s-bol.com/mo4vMW8NvJ19/oQBoArk/550x819.jpg",
-      "synced": "2026-11-27",
-      "ph": {
-        "2026-10-15": 749.0,
-        "2026-10-16": 749.0,
-        "2026-10-17": 749.0,
-        "2026-10-18": 749.0,
-        "2026-10-19": 749.0,
-        "2026-10-20": 749.0,
-        "2026-10-21": 749.0,
-        "2026-10-23": 749.0,
-        "2026-10-24": 749.0,
-        "2026-10-25": 799.0,
-        "2026-10-26": 799.0,
-        "2026-10-27": 749.0,
-        "2026-10-28": 749.0,
-        "2026-10-29": 699.0,
-        "2026-10-30": 749.0,
-        "2026-10-31": 699.0,
-        "2026-11-01": 699.0,
-        "2026-11-02": 699.0,
-        "2026-11-03": 699.0,
-        "2026-11-04": 699.0,
-        "2026-11-05": 749.0,
-        "2026-11-06": 699.0,
-        "2026-11-07": 699.0,
-        "2026-11-08": 699.0,
-        "2026-11-09": 649.0,
-        "2026-11-10": 649.0,
-        "2026-11-11": 649.0,
-        "2026-11-12": 649.0,
-        "2026-11-13": 649.0,
-        "2026-11-14": 649.0,
-        "2026-11-16": 649.0,
-        "2026-11-17": 649.0,
-        "2026-11-18": 649.0,
-        "2026-11-19": 649.0,
-        "2026-11-20": 649.0,
-        "2026-11-21": 649.0,
-        "2026-11-22": 649.0,
-        "2026-11-23": 649.0,
-        "2026-11-24": 649.0,
-        "2026-11-25": 649.0,
-        "2026-11-26": 649.0,
-        "2026-11-27": 649.0
-      },
-      "low_price": 649.0,
-      "prev_price": 699.0,
-      "prev_date": "2026-11-08",
-      "ph_ean": "5025155100875",
-      "rating": 4.6
     },
     {
       "brand": "Levoit",
@@ -524,7 +441,7 @@
       ],
       "ideal": "Wie een luchtreiniger met app en H13-filter zoekt voor een slaapkamer of werkkamer tot ongeveer 24 m2.",
       "ean": "0810043373814",
-      "text": "De Levoit Core 300S is de kleinere broer van de Core 400S op plek 4. Hier stond eerder dat bol de Core 400S niet meer verkoopt en dat de 300S rond de 179 euro kost. Beide klopten niet: de 400S is te koop voor 265 euro en de 300S kost 159,99 euro. De verkoper geeft een CADR van 240 kubieke meter per uur op en noemt 20 vierkante meter als ideale kamergrootte. Met vier luchtwisselingen per uur kom je op ongeveer 24 vierkante meter.\n\nHet filter heeft drie trappen: een voorfilter, een H13 HEPA-laag en actieve kool. Volgens de verkoper vangt het ten minste 99,97 procent van de deeltjes tot 0,3 micrometer. Het geluid is volgens de omschrijving 24 tot 48 dB. In de specificaties van bol staat bij de laagste stand ook 48 dB en bij geluidsniveau 0 dB, wat niet kan kloppen. Het vermogen is 26 watt, in stand-by minder dan 2 watt. Je bedient hem via een app en er is een timer van 1 tot 24 uur. Het apparaat is 36 cm hoog en weegt 2,7 kg. Een origineel Levoit-filter vonden wij vandaag niet bij bol. De bol-score is 4,6 van 5.",
+      "text": "De Levoit Core 300S is de kleinere broer van de Core 400S op plek 3. Hier stond eerder dat bol de Core 400S niet meer verkoopt en dat de 300S rond de 179 euro kost. Beide klopten niet: de 400S is te koop voor 265 euro en de 300S kost 159,99 euro. De verkoper geeft een CADR van 240 kubieke meter per uur op en noemt 20 vierkante meter als ideale kamergrootte. Met vier luchtwisselingen per uur kom je op ongeveer 24 vierkante meter.\n\nHet filter heeft drie trappen: een voorfilter, een H13 HEPA-laag en actieve kool. Volgens de verkoper vangt het ten minste 99,97 procent van de deeltjes tot 0,3 micrometer. Het geluid is volgens de omschrijving 24 tot 48 dB. In de specificaties van bol staat bij de laagste stand ook 48 dB en bij geluidsniveau 0 dB, wat niet kan kloppen. Het vermogen is 26 watt, in stand-by minder dan 2 watt. Je bedient hem via een app en er is een timer van 1 tot 24 uur. Het apparaat is 36 cm hoog en weegt 2,7 kg. Een origineel Levoit-filter vonden wij vandaag niet bij bol. De bol-score is 4,6 van 5.",
       "label": null,
       "search": "Levoit Core 300S",
       "bol_title": "Levoit Core 300S - Slimme Luchtreiniger",
@@ -555,6 +472,89 @@
       "prev_price": 162.99,
       "prev_date": "2026-11-26",
       "ph_ean": "0810043373814",
+      "rating": 4.6
+    },
+    {
+      "brand": "Dyson",
+      "name": "Purifier Humidify+Cool PH2 De-NOx",
+      "price": 649.0,
+      "score": 8.3,
+      "label": "Beste premium",
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Luchtreiniger, luchtbevochtiger en ventilator in één premium toestel.",
+      "specs": {
+        "CADR": "67,8 m3/u volgens bol",
+        "Ruimte": "Tot 37 m2",
+        "Filter": "HEPA H13 + koolfilter (De-NOx)",
+        "Geluid": "45,9 tot 62,4 dB",
+        "Vermogen": "45 W"
+      },
+      "pros": [
+        "Reinigt, bevochtigt en koelt in één apparaat",
+        "Afgedichte HEPA H13-filtratie en een koolfilter gericht op stikstofdioxide",
+        "UV-licht behandelt het water in het reservoir",
+        "Tien snelheden, timer en app"
+      ],
+      "cons": [
+        "CADR volgens bol 67,8 m3/u, de laagste in deze lijst",
+        "45,9 dB op de laagste stand volgens bol",
+        "649 euro: ruim 2,5 keer de prijs van de Philips 3200"
+      ],
+      "ideal": "Wie in een droog huis lucht wil reinigen en bevochtigen met één apparaat en daar 649 euro voor over heeft.",
+      "text": "De Dyson Purifier Humidify+Cool PH2 De-NOx combineert drie functies: hij filtert de lucht, bevochtigt en werkt als ventilator. Het filter is volgens bol volledig afgedicht en van klasse HEPA H13, wat 99,95 procent van de ultrafijne deeltjes vangt. Het koolfilter is gericht op stikstofdioxide en een katalytisch filter breekt formaldehyde af. UV-licht behandelt het water in het reservoir.\n\nAls pure luchtreiniger is hij op papier de zwakste van deze lijst. Bol geeft een CADR van 67,8 kubieke meter per uur en ruimtes tot 37 vierkante meter op. Hier stond eerder ongeveer 80 vierkante meter en 25 dB: dat vonden wij bij bol niet terug. In de specificaties staat 45,9 dB als laagste en 62,4 dB als hoogste geluidsniveau, bij 45 watt. De omschrijving noemt de nachtstand wel fluisterstil, zonder getal. Gerekend met vier luchtwisselingen per uur is 67,8 kubieke meter genoeg voor ongeveer 7 vierkante meter. Voor 649 euro koop je dus vooral de bevochtiger en de ventilator erbij. Daarom staat hij sinds 27 november 2026 op 8 in plaats van 3. Wil je alleen schone lucht, dan levert de Philips 3200 van 239 euro volgens bol ruim zeven keer zoveel CADR. De bol-score is 4,6 van 5.",
+      "ean": "5025155100875",
+      "bol_title": "Dyson Purifier Humidify+Cool PH2 De-NOx - Luchtreiniger - Ventilator - HEPA filter - Wit/Goud",
+      "url": "https://www.bol.com/nl/nl/p/dyson-purifier-humidify-cool-de-nox-ph05-luchtreiniger-hepa-filter-wit-goud/9300000226721806/",
+      "image": "https://media.s-bol.com/mo4vMW8NvJ19/oQBoArk/550x819.jpg",
+      "synced": "2026-11-27",
+      "ph": {
+        "2026-10-15": 749.0,
+        "2026-10-16": 749.0,
+        "2026-10-17": 749.0,
+        "2026-10-18": 749.0,
+        "2026-10-19": 749.0,
+        "2026-10-20": 749.0,
+        "2026-10-21": 749.0,
+        "2026-10-23": 749.0,
+        "2026-10-24": 749.0,
+        "2026-10-25": 799.0,
+        "2026-10-26": 799.0,
+        "2026-10-27": 749.0,
+        "2026-10-28": 749.0,
+        "2026-10-29": 699.0,
+        "2026-10-30": 749.0,
+        "2026-10-31": 699.0,
+        "2026-11-01": 699.0,
+        "2026-11-02": 699.0,
+        "2026-11-03": 699.0,
+        "2026-11-04": 699.0,
+        "2026-11-05": 749.0,
+        "2026-11-06": 699.0,
+        "2026-11-07": 699.0,
+        "2026-11-08": 699.0,
+        "2026-11-09": 649.0,
+        "2026-11-10": 649.0,
+        "2026-11-11": 649.0,
+        "2026-11-12": 649.0,
+        "2026-11-13": 649.0,
+        "2026-11-14": 649.0,
+        "2026-11-16": 649.0,
+        "2026-11-17": 649.0,
+        "2026-11-18": 649.0,
+        "2026-11-19": 649.0,
+        "2026-11-20": 649.0,
+        "2026-11-21": 649.0,
+        "2026-11-22": 649.0,
+        "2026-11-23": 649.0,
+        "2026-11-24": 649.0,
+        "2026-11-25": 649.0,
+        "2026-11-26": 649.0,
+        "2026-11-27": 649.0
+      },
+      "low_price": 649.0,
+      "prev_price": 699.0,
+      "prev_date": "2026-11-08",
+      "ph_ean": "5025155100875",
       "rating": 4.6
     },
     {
@@ -759,11 +759,11 @@
     "keuzes": [
       {
         "h": "Hoe groot is de kamer?",
-        "p": "Deel de CADR door tien: dat is de kamergrootte in vierkante meter bij vier luchtwisselingen per uur. Voor een slaapkamer of werkkamer is nr. 7 Philips PureProtect 900 (€ 100, 250 m3/u) of nr. 2 Duux Bright 2 (€ 133, 210 m3/u) genoeg. Nr. 4 Levoit Core 400S (€ 265, 400 m3/u) past bij een middelgrote woonkamer. Voor een grote woonkamer of open keuken kies je nr. 1 Philips PureProtect 3200 (€ 239, 520 m3/u)."
+        "p": "Deel de CADR door tien: dat is de kamergrootte in vierkante meter bij vier luchtwisselingen per uur. Voor een slaapkamer of werkkamer is nr. 6 Philips PureProtect 900 (€ 100, 250 m3/u) of nr. 2 Duux Bright 2 (€ 133, 210 m3/u) genoeg. Nr. 4 Levoit Core 400S (€ 265, 400 m3/u) past bij een middelgrote woonkamer. Voor een grote woonkamer of open keuken kies je nr. 1 Philips PureProtect 3200 (€ 239, 520 m3/u)."
       },
       {
         "h": "Staat hij naast je bed?",
-        "p": "Let dan op het geluid van de laagste stand. Onder de 25 dB kun je ernaast slapen. Volgens bol is nr. 10 Philips PureProtect 700 (€ 90) met 11 dB het stilst, gevolgd door nr. 1 Philips 3200 met 15 dB, nr. 6 Rowenta Pure Air XL (€ 140) met 17,5 dB en nr. 9 Coway Airmega 150 met 20 dB. Nr. 2 Duux Bright 2 begint bij 31 dB, nr. 5 Xiaomi 4 Pro bij 33 dB en nr. 3 Dyson PH2 bij 45,9 dB."
+        "p": "Let dan op het geluid van de laagste stand. Onder de 25 dB kun je ernaast slapen. Volgens bol is nr. 10 Philips PureProtect 700 (€ 90) met 11 dB het stilst, gevolgd door nr. 1 Philips 3200 met 15 dB, nr. 5 Rowenta Pure Air XL (€ 140) met 17,5 dB en nr. 9 Coway Airmega 150 met 20 dB. Nr. 2 Duux Bright 2 begint bij 31 dB, nr. 4 Xiaomi 4 Pro bij 33 dB en nr. 8 Dyson PH2 bij 45,9 dB."
       },
       {
         "h": "Gaat het om stof en pollen of ook om geur?",
@@ -775,7 +775,7 @@
       },
       {
         "h": "Wat kosten de filters?",
-        "p": "Een origineel filter kost bij bol 28,98 tot 56,95 euro, voor zover wij het konden vinden. Voor nr. 5 Xiaomi 4 Pro is dat 56,95 euro, voor nr. 6 Rowenta 44,94 euro en voor nr. 7 Philips 900 28,98 of 36,99 euro, afhankelijk van het type. Bij nr. 10 Philips PureProtect 700 (€ 90) gaat het originele filter volgens Philips drie jaar mee. Reken dus verder dan de aanschafprijs."
+        "p": "Een origineel filter kost bij bol 28,98 tot 56,95 euro, voor zover wij het konden vinden. Voor nr. 4 Xiaomi 4 Pro is dat 56,95 euro, voor nr. 5 Rowenta 44,94 euro en voor nr. 6 Philips 900 28,98 of 36,99 euro, afhankelijk van het type. Bij nr. 10 Philips PureProtect 700 (€ 90) gaat het originele filter volgens Philips drie jaar mee. Reken dus verder dan de aanschafprijs."
       }
     ],
     "wanneer": [
@@ -785,7 +785,7 @@
       },
       {
         "rank": 3,
-        "p": "De Dyson PH2 De-NOx is beter als je lucht niet alleen wilt reinigen maar ook bevochtigen of koelen. Dat is handig in een droog huis in de winter of op warme dagen. Het koolfilter is gericht op stikstofdioxide en UV-licht behandelt het water. Hij kost € 649, € 410 meer dan de Philips 3200. Voor alleen reinigen is de Philips de betere keuze: bol geeft 520 m3/u op tegen 67,8 m3/u voor de Dyson."
+        "p": "De Levoit Core 400S past bij een woonkamer tot ongeveer 40 m2 als je een app wilt en geen ionisator. Bol geeft 400 m3/u op, bijna twee keer de 210 m3/u van de Duux Bright 2. Met 24 dB op de laagste stand is hij ook stiller dan de Duux. Hij kost € 265, € 26 meer dan de Philips 3200. Die levert volgens bol 520 m3/u en draait op 15 dB. Voor de meeste woonkamers blijft de Philips dus de betere koop."
       }
     ]
   },
@@ -851,7 +851,7 @@
       {
         "bron": "Stiftung Warentest: Luftreiniger im Test (23 april 2026)",
         "url": "https://www.test.de/Luftreiniger-im-Test-5579439-0/",
-        "p": "De Duitse consumentenorganisatie onderzocht 16 luchtreinigers van rond 140 tot 650 euro. De methode lijkt op die van de Consumentenbond: druppeltjes van 0,12 tot 1 micrometer, de gassen formaldehyde en tolueen en filters die met de rook van 100 sigaretten zijn verouderd. Vrij te lezen is dat goede apparaten de vervuiling duidelijk verlagen, dat de filterwerking vaak sterk terugloopt als het filter ouder wordt en dat stroom en vervangfilters samen rond 65 tot 175 euro per jaar kosten. Ionisatoren zijn niet onderzocht. Onder de modellen die bij naam genoemd worden staat de Philips PureProtect Mini 900 Series AC0951/13. Bij ons staat de AC0921/14 uit dezelfde serie op 7. De cijfers en de winnaar staan achter een betaalmuur van 4,90 euro. Die hebben wij niet gelezen."
+        "p": "De Duitse consumentenorganisatie onderzocht 16 luchtreinigers van rond 140 tot 650 euro. De methode lijkt op die van de Consumentenbond: druppeltjes van 0,12 tot 1 micrometer, de gassen formaldehyde en tolueen en filters die met de rook van 100 sigaretten zijn verouderd. Vrij te lezen is dat goede apparaten de vervuiling duidelijk verlagen, dat de filterwerking vaak sterk terugloopt als het filter ouder wordt en dat stroom en vervangfilters samen rond 65 tot 175 euro per jaar kosten. Ionisatoren zijn niet onderzocht. Onder de modellen die bij naam genoemd worden staat de Philips PureProtect Mini 900 Series AC0951/13. Bij ons staat de AC0921/14 uit dezelfde serie op 6. De cijfers en de winnaar staan achter een betaalmuur van 4,90 euro. Die hebben wij niet gelezen."
       },
       {
         "bron": "Longfonds: Spreekuur: ventileren en luchtreinigers (geen datum op de pagina)",
@@ -862,6 +862,10 @@
     "noot": "Bij Milieu Centraal en het RIVM vonden wij vandaag geen pagina voor consumenten over het kopen van een luchtreiniger. Which? en Test-Aankoop hebben wij voor deze gids niet gelezen. Uitslagen achter een ledenmuur of betaalmuur nemen wij niet over."
   },
   "changelog": [
+    {
+      "d": "2026-11-27",
+      "t": "Volgorde herzien op CADR, kamergrootte, prijs en de score bij bol. De Dyson PH2 stond op 3, maar heeft volgens bol de laagste CADR van de lijst (67,8 m3/u), begint bij 45,9 dB en kost 649 euro. Hij staat nu op 8 en blijft de premium keuze voor wie ook wil bevochtigen en koelen. De Levoit Core 400S, de Xiaomi 4 Pro, de Rowenta, de Philips 900 en de Levoit Core 300S schuiven elk één plek op naar 3 tot en met 7. Het eindoordeel en de keuzehulp zijn daarop aangepast."
+    },
     {
       "d": "2026-11-27",
       "t": "Alle tien luchtreinigers nagelopen bij bol: allemaal leverbaar. Per apparaat staan nu CADR, kamergrootte, geluid op de laagste en hoogste stand en vermogen volgens bol in de tabel en de tekst. Toegevoegd: wanneer je beter geen luchtreiniger koopt en wat de Consumentenbond, Stiftung Warentest en het Longfonds schrijven. Rechtgezet: de Dyson PH2 heeft volgens bol een CADR van 67,8 m3/u, een ruimte tot 37 m2 en 45,9 dB op de laagste stand (er stond tot circa 80 m2 en circa 25 dB). De Philips 3200 draait op 15 dB, niet 20. De Duux Bright 2 begint bij 31 dB en heeft een ionisator. De Coway Airmega 150 heeft 281 m3/u, niet ongeveer 300. De Philips 900 heeft wel een luchtkwaliteitssensor. De Levoit Core 300S kost 159,99 euro en de Core 400S is gewoon te koop. De Xiaomi 4 Pro kost 241,99 euro, niet minder dan 200. Bij de Xiaomi noemt bol 500 m3/u in de titel en 185 m3/u in de specificaties: dat staat er nu eerlijk bij. Twee bol-scores in de tekst weken af en zijn gelijkgezet (Philips 900: 4,2 en Philips 700: 4,3). De zin dat hooikoortsklachten duidelijk afnemen is afgezwakt."

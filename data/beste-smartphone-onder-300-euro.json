@@ -18,57 +18,14 @@
  "updated": "2026-11-27",
  "reviews_total": "9.200",
  "intro": "Voor minder dan 300 euro koop je in 2026 een smartphone met 5G, een scherm van 6,1 tot 6,83 inch en een accu van 4.492 tot 8.340 mAh. De verschillen zitten in de chip, het werkgeheugen (4 tot 8 GB), het laadvermogen (18 tot 67 watt) en het jaar tot wanneer je updates krijgt (2028 tot 2031). Wij vergeleken de toestellen die nu bij bol te koop zijn op die getallen, op de prijs van 27 november 2026 en op de score bij bol. Zelf testen wij geen telefoons. Waar Notebookcheck een toestel wel in handen had, staat de uitkomst erbij.",
- "verdict": "De Xiaomi Redmi Note 17 Pro staat op 1: een accu van 8.340 mAh, 67 watt laden, 256 GB opslag en een 50 MP camera met OIS voor 260 euro. De chip is volgens Notebookcheck wel zwak. De Honor 400 is de beste prijs-kwaliteit: Snapdragon 7 Gen 3, 8 GB werkgeheugen, 200 MP met OIS en 81% bij Notebookcheck voor 281,70 euro. De Samsung Galaxy A36 is de premium keuze: zes OS-upgrades en zes jaar beveiligingsupdates, IP67 en 45 watt laden voor 275,99 euro. Prijzen zijn van 27 november 2026.",
+ "verdict": "De Honor 400 staat op 1: Snapdragon 7 Gen 3, 8 GB werkgeheugen, 200 MP met OIS en 81% bij Notebookcheck voor 281,70 euro. Honor noemt zelf wel beveiligingsupdates tot minstens juni 2028. De Xiaomi Redmi Note 17 Pro is de beste prijs-kwaliteit: een accu van 8.340 mAh, 67 watt laden en 256 GB opslag voor 260 euro. De chip is volgens Notebookcheck zwak. De Samsung Galaxy A36 is de premium keuze: zes OS-upgrades en zes jaar beveiligingsupdates, IP67 en 45 watt laden voor 275,99 euro. Prijzen zijn van 27 november 2026.",
  "products": [
-  {
-   "brand": "Xiaomi",
-   "name": "Redmi Note 17 Pro 5G 6/256GB",
-   "price": 260.0,
-   "score": 9.2,
-   "label": "Beste keuze",
-   "reviews": "bol-score 5,0 van 5",
-   "oneliner": "Accu van 8.340 mAh, 67 watt laden en 50 MP met OIS.",
-   "specs": {
-    "Chip": "Snapdragon 6s Gen 4",
-    "Scherm": "6,83 inch AMOLED, 120 Hz",
-    "Accu": "8.340 mAh, 67 W",
-    "Geheugen": "6 GB / 256 GB",
-    "Hoofdcamera": "50 MP met OIS"
-   },
-   "pros": [
-    "Accu van 8.340 mAh: de grootste in deze lijst",
-    "67 watt laden en 256 GB opslag",
-    "50 MP hoofdcamera met OIS",
-    "Notebookcheck noemt zes jaar beveiligingsupdates"
-   ],
-   "cons": [
-    "Notebookcheck noemt de chip zwak en de camera een stap terug",
-    "6 GB werkgeheugen",
-    "Bol noemt IP68 in de beschrijving en IP65 in de specificaties"
-   ],
-   "ideal": "Wie de grootste accu onder 300 euro zoekt en geen zware games speelt.",
-   "text": "De Xiaomi Redmi Note 17 Pro 5G kost vandaag 260 euro bij bol in de versie met 6 GB werkgeheugen en 256 GB opslag. De accu van 8.340 mAh is de grootste in deze lijst en laadt met maximaal 67 watt. Een adapter zit er volgens bol niet bij. De chip is een Snapdragon 6s Gen 4. Het AMOLED-scherm van 6,83 inch ververst op 120 Hz. Notebookcheck mat een helderheid van maximaal 1.072 cd/m². De hoofdcamera heeft 50 megapixel, een sensor van 1/1,3 inch en OIS. Daarnaast zit er een groothoekcamera van 8 megapixel op.\n\nNotebookcheck geeft het toestel 77% en noemt de accuduur en het scherm als pluspunten. Als minpunten noemt de site een zwakke chip, een stap terug in camerakwaliteit en alleen wifi 5. Bol spreekt zichzelf op twee punten tegen. De beschrijving noemt IP68, de specificaties IP65. Bij schermmaat staat 6,99 inch, in de beschrijving 6,83. Over updates noemt bol minimaal 24 maanden na introductie. Notebookcheck schrijft zes jaar beveiligingsupdates. De pagina van Xiaomi zelf konden wij niet openen, dus een eindjaar noemen wij niet. De bol-score is 5,0 van 5.",
-   "ean": "6939093009383",
-   "bol_title": "Redmi Note 17 Pro 5G - 6GB/256GB - Purple",
-   "url": "https://www.bol.com/nl/nl/p/redmi-note-17-pro-5g-6gb-256gb-purple/9300000346209706/",
-   "image": "https://media.s-bol.com/Z7y7xkqW3AAQ/w0RjJGw/550x588.jpg",
-   "ph_ean": "6939093009383",
-   "rating": 5.0,
-   "ph": {
-    "2026-11-26": 262.28,
-    "2026-11-27": 260.0
-   },
-   "low_price": 258.0,
-   "synced": "2026-11-27",
-   "prev_price": 258.0,
-   "prev_date": "2026-11-27"
-  },
   {
    "brand": "Honor",
    "name": "400 5G 8/256GB",
    "price": 281.7,
-   "score": 9.0,
-   "label": "Beste prijs-kwaliteit",
+   "score": 9.2,
+   "label": "Beste keuze",
    "reviews": "bol-score 4,7 van 5",
    "oneliner": "Snapdragon 7 Gen 3, 200 MP met OIS en 66 watt laden.",
    "specs": {
@@ -90,7 +47,7 @@
     "Geen microSD en geen oplader in de doos"
    ],
    "ideal": "Wie de snelste chip en de hoogste cameraresolutie in deze lijst wil en MagicOS geen bezwaar vindt.",
-   "text": "De Honor 400 kost vandaag 281,70 euro bij bol met 8 GB werkgeheugen en 256 GB opslag. De chip is een Snapdragon 7 Gen 3. Het AMOLED-scherm van 6,55 inch ververst op 120 Hz. Notebookcheck mat gemiddeld 1.607 cd/m² en bij HDR-video een piek van 4.913 cd/m². De 5.000 nits die Honor noemt, haalt het scherm volgens de site alleen bij HDR. De hoofdcamera heeft 200 megapixel met OIS, de groothoek 12 megapixel.\n\nDe accu is 5.300 mAh en laadt met 66 watt. Notebookcheck kwam in de wifi-test op 20 uur en 2 minuten. Een volle lading duurt minder dan een uur en de lader moet je los kopen. De site geeft 81%. Minpunten: IP65 en geen draadloos laden. Over updates lopen de bronnen uiteen. Notebookcheck schrijft zes jaar vanaf de introductie, bol minimaal 60 maanden. In de lijst van Honor zelf staat Android 16 en 17 en beveiligingsupdates tot minstens juni 2028. Bol spreekt zichzelf ook tegen: de specificaties noemen geen beeldstabilisatie en 80 watt laden, de beschrijving OIS en 66 watt. De bol-score is 4,7 van 5.",
+   "text": "De Honor 400 kost vandaag 281,70 euro bij bol met 8 GB werkgeheugen en 256 GB opslag. De chip is een Snapdragon 7 Gen 3. Het AMOLED-scherm van 6,55 inch ververst op 120 Hz. Notebookcheck mat gemiddeld 1.607 cd/m² en bij HDR-video een piek van 4.913 cd/m². De 5.000 nits die Honor noemt, haalt het scherm volgens de site alleen bij HDR. De hoofdcamera heeft 200 megapixel met OIS, de groothoek 12 megapixel.\n\nDe accu is 5.300 mAh en laadt met 66 watt. Notebookcheck kwam in de wifi-test op 20 uur en 2 minuten. Een volle lading duurt minder dan een uur en de lader moet je los kopen. De site geeft 81%. Daarom staat hij hier op 1. Minpunten: IP65 en geen draadloos laden. Over updates lopen de bronnen uiteen. Notebookcheck schrijft zes jaar vanaf de introductie, bol minimaal 60 maanden. In de lijst van Honor zelf staat Android 16 en 17 en beveiligingsupdates tot minstens juni 2028. Bol spreekt zichzelf ook tegen: de specificaties noemen geen beeldstabilisatie en 80 watt laden, de beschrijving OIS en 66 watt. De bol-score is 4,7 van 5.",
    "ean": "6936520867585",
    "bol_title": "Honor 400 16,6 cm (6.55\") MagicOS 9.0 5G 8 GB 256 GB 5300 mAh Zwart",
    "url": "https://www.bol.com/nl/nl/p/honor-400-5g-8gb-256gb-zwart-dual-sim/9300000229858367/",
@@ -118,6 +75,49 @@
    "synced": "2026-11-27",
    "ph_ean": "6936520867585",
    "rating": 4.7
+  },
+  {
+   "brand": "Xiaomi",
+   "name": "Redmi Note 17 Pro 5G 6/256GB",
+   "price": 260.0,
+   "score": 9.0,
+   "label": "Beste prijs-kwaliteit",
+   "reviews": "bol-score 5,0 van 5",
+   "oneliner": "Accu van 8.340 mAh, 67 watt laden en 50 MP met OIS.",
+   "specs": {
+    "Chip": "Snapdragon 6s Gen 4",
+    "Scherm": "6,83 inch AMOLED, 120 Hz",
+    "Accu": "8.340 mAh, 67 W",
+    "Geheugen": "6 GB / 256 GB",
+    "Hoofdcamera": "50 MP met OIS"
+   },
+   "pros": [
+    "Accu van 8.340 mAh: de grootste in deze lijst",
+    "67 watt laden en 256 GB opslag",
+    "50 MP hoofdcamera met OIS",
+    "Notebookcheck noemt zes jaar beveiligingsupdates"
+   ],
+   "cons": [
+    "Notebookcheck noemt de chip zwak en de camera een stap terug",
+    "6 GB werkgeheugen",
+    "Bol noemt IP68 in de beschrijving en IP65 in de specificaties"
+   ],
+   "ideal": "Wie de grootste accu onder 300 euro zoekt en geen zware games speelt.",
+   "text": "De Xiaomi Redmi Note 17 Pro 5G kost vandaag 260 euro bij bol in de versie met 6 GB werkgeheugen en 256 GB opslag. De accu van 8.340 mAh is de grootste in deze lijst en laadt met maximaal 67 watt. Een adapter zit er volgens bol niet bij. De chip is een Snapdragon 6s Gen 4. Het AMOLED-scherm van 6,83 inch ververst op 120 Hz. Notebookcheck mat een helderheid van maximaal 1.072 cd/m². De hoofdcamera heeft 50 megapixel, een sensor van 1/1,3 inch en OIS. Daarnaast zit er een groothoekcamera van 8 megapixel op.\n\nNotebookcheck geeft het toestel 77% en noemt de accuduur en het scherm als pluspunten. Als minpunten noemt de site een zwakke chip, een stap terug in camerakwaliteit en alleen wifi 5. Daarom staat hij op 2 en niet meer op 1. Bol spreekt zichzelf op twee punten tegen. De beschrijving noemt IP68, de specificaties IP65. Bij schermmaat staat 6,99 inch, in de beschrijving 6,83. Over updates noemt bol minimaal 24 maanden na introductie. Notebookcheck schrijft zes jaar beveiligingsupdates. De pagina van Xiaomi zelf konden wij niet openen, dus een eindjaar noemen wij niet. De bol-score is 5,0 van 5.",
+   "ean": "6939093009383",
+   "bol_title": "Redmi Note 17 Pro 5G - 6GB/256GB - Purple",
+   "url": "https://www.bol.com/nl/nl/p/redmi-note-17-pro-5g-6gb-256gb-purple/9300000346209706/",
+   "image": "https://media.s-bol.com/Z7y7xkqW3AAQ/w0RjJGw/550x588.jpg",
+   "ph_ean": "6939093009383",
+   "rating": 5.0,
+   "ph": {
+    "2026-11-26": 262.28,
+    "2026-11-27": 260.0
+   },
+   "low_price": 258.0,
+   "synced": "2026-11-27",
+   "prev_price": 258.0,
+   "prev_date": "2026-11-27"
   },
   {
    "brand": "Samsung",
@@ -617,7 +617,7 @@
  "faq": [
   {
    "q": "Wat is de beste smartphone onder 300 euro in 2026?",
-   "a": "In onze vergelijking staat de Xiaomi Redmi Note 17 Pro op 1: een accu van 8.340 mAh, 67 watt laden, een 50 MP camera met OIS en 256 GB opslag voor 260 euro (prijs van 27 november 2026). De Honor 400 is de beste prijs-kwaliteit met een Snapdragon 7 Gen 3 en 81% bij Notebookcheck."
+   "a": "In onze vergelijking staat de Honor 400 op 1: een Snapdragon 7 Gen 3, 8 GB werkgeheugen, een 200 MP camera met OIS en 81% bij Notebookcheck voor 281,70 euro (prijs van 27 november 2026). De Xiaomi Redmi Note 17 Pro is de beste prijs-kwaliteit met een accu van 8.340 mAh en 256 GB opslag voor 260 euro."
   },
   {
    "q": "Welke goedkope smartphone krijgt het langst updates?",
@@ -699,7 +699,7 @@
    {
     "bron": "Notebookcheck: Xiaomi Redmi Note 17 Pro 5G (score van 2 oktober 2026)",
     "url": "https://www.notebookcheck.net/Brilliant-battery-life-incredible-camera-Redmi-Note-17-Pro-5G-smartphone-review.1415600.0.html",
-    "p": "Score 77%. Pluspunten volgens de site: helder OLED-scherm (gemeten maximaal 1.072 cd/m²), stevige bouw, lange updates en een uitstekende accuduur. Minpunten: zwakke chip (Snapdragon 6s Gen 4), een stap terug in camerakwaliteit, veel plastic, alleen wifi 5 en luidsprekers zonder diepte. De hoofdsensor is volgens de site bijna half zo groot als die van de Note 15 Pro. Het oordeel: een zeer gemengde indruk. Waar wij afwijken: bij ons staat dit toestel op 1 om de accu van 8.340 mAh, de 256 GB opslag en de prijs van 260 euro. Notebookcheck rekende met straatprijzen vanaf ongeveer 350 euro. Vind je snelheid belangrijker dan accu, dan past de Honor 400 met 81% bij dezelfde site beter."
+    "p": "Score 77%. Pluspunten volgens de site: helder OLED-scherm (gemeten maximaal 1.072 cd/m²), stevige bouw, lange updates en een uitstekende accuduur. Minpunten: zwakke chip (Snapdragon 6s Gen 4), een stap terug in camerakwaliteit, veel plastic, alleen wifi 5 en luidsprekers zonder diepte. De hoofdsensor is volgens de site bijna half zo groot als die van de Note 15 Pro. Het oordeel: een zeer gemengde indruk. Wat wij aanpasten: dit toestel stond bij ons op 1 en staat sinds 27 november 2026 op 2 als beste prijs-kwaliteit. De Honor 400 kreeg bij dezelfde site 81% en heeft een snellere chip en meer werkgeheugen. De Xiaomi houdt de grootste accu (8.340 mAh) en kost met 260 euro ruim 20 euro minder. Notebookcheck rekende met straatprijzen vanaf ongeveer 350 euro."
    },
    {
     "bron": "Notebookcheck: Honor 400 (26 juni 2025)",
@@ -750,6 +750,10 @@
   "noot": "GSMArena stuurt geautomatiseerde lezers door naar een betaalde toegang, daarom hebben wij die reviews niet gelezen. Bij Tweakers vonden wij geen review van deze tien toestellen. De updatejaren van Honor komen uit de lijst op honor.com/ie/tech/security-update en de zeven jaar van Google van support.google.com/pixelphone/answer/4457705. De pagina's van Xiaomi, Samsung, Motorola en Nothing konden wij vandaag niet openen of ze noemden geen jaar."
  },
  "changelog": [
+  {
+   "d": "2026-11-27",
+   "t": "Volgorde herzien. De Xiaomi Redmi Note 17 Pro stond op 1, terwijl Notebookcheck de Honor 400 hoger zet (81% tegen 77%) en de chip van de Xiaomi zwak noemt. De Honor 400 staat nu op 1: Snapdragon 7 Gen 3, 8 GB werkgeheugen en 200 MP met OIS voor 281,70 euro. De Xiaomi staat op 2 als beste prijs-kwaliteit om de accu van 8.340 mAh, 256 GB opslag en de prijs van 260 euro. Bij de Honor staat erbij dat Honor zelf beveiligingsupdates tot minstens juni 2028 noemt."
+  },
   {
    "d": "2026-11-27",
    "t": "Alle tien toestellen bij bol gecontroleerd: leverbaar en vandaag onder 300 euro, van 199 tot 289 euro. Geen wissels. Per toestel staan nu chip, werkgeheugen en opslag, accu, laadvermogen, scherm met verversing, hoofdcamera met of zonder OIS en het updatejaar in tabel en tekst. Toegevoegd: wanneer je beter geen smartphone onder 300 euro koopt en wat Notebookcheck in acht reviews schrijft. Rechtgezet: de Xiaomi kost 260 euro (was 258), de Pixel 8a 239,90 (er stond 233), de Galaxy A26 275 (er stond rond 244) en de moto g56 259 (er stond rond 239). De Honor 600 Lite heeft niet de grootste accu, dat is de Xiaomi met 8.340 mAh. Honor noemt zelf beveiligingsupdates tot minstens juni 2028 voor de Honor 400 en maart 2028 voor de 600 Lite, niet zes en vijf jaar. De groothoek van de Galaxy A36 heeft 8 megapixel, niet 12. Bol vermeldt bij alle tien dat er geen adapter bij zit. De bol-score van de Honor 400 is 4,7, niet 4,0. Geschrapt omdat een bron ontbrak: dat de Galaxy A36 de populairste telefoon van Nederland in zijn prijsklasse is en dat de Pixel 8a de beste fotokwaliteit onder 300 euro heeft."
