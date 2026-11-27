@@ -564,10 +564,19 @@ def logboek_html(g):
             zinnen = ["%s ging eruit, %s kwam erin op plek %d.%s" % (e(ev["uit"]), e(ev["in"]), ev["plek"], (" Reden: %s." % e(ev["waarom"])) if ev.get("waarom") else "") for ev in evs]
         else:
             w = sorted({ev["waarom"] for ev in evs if ev.get("waarom")})
-            zinnen = ["Uit de lijst: %s. Nieuw in de lijst: %s.%s" % (e(_opsom([ev["uit"] for ev in evs])), e(_opsom([ev["in"] for ev in evs])), (" Reden: %s." % e(w[0])) if len(w) == 1 and all(ev.get("waarom") for ev in evs) else "")]
+            # 27 nov 2026: ook regels zonder 'uit' of 'in' (t = weg, bij, nr1 uit tools/logboek.py) zonder KeyError
+            uit = [ev["uit"] for ev in evs if ev.get("uit")]; bij = [ev["in"] for ev in evs if ev.get("in")]
+            zinnen = []
+            if uit: zinnen.append("Uit de lijst: %s." % e(_opsom(uit)))
+            if bij: zinnen.append("Nieuw in de lijst: %s." % e(_opsom(bij)))
+            if zinnen and len(w) == 1 and all(ev.get("waarom") for ev in evs): zinnen.append("Reden: %s." % e(w[0]))
+            for ev in evs:
+                if ev.get("t") == "nr1" and ev.get("van") and ev.get("naar"): zinnen.append("Nieuwe nummer 1: %s (was %s)." % (e(ev["naar"]), e(ev["van"])))
+            if not zinnen: continue
         ch.append("<li><b>%s</b>: %s</li>" % (dagmaand(d), " ".join(zinnen)))
-    n_ev = len(lb.get("events", []))
-    if ch: wis = "<p>Sinds de start wisselden wij %d keer een product in deze top %d. De nieuwste wijziging staat bovenaan.</p><ul>%s</ul>" % (n_ev, lb.get("n", 10), "".join(ch))
+    n_ev = sum(1 for ev in lb.get("events", []) if ev.get("uit") or ev.get("in"))
+    if ch and not n_ev: wis = "<p>Sinds de start staan dezelfde %d producten in de lijst, de volgorde veranderde wel. De nieuwste wijziging staat bovenaan.</p><ul>%s</ul>" % (lb.get("n", 10), "".join(ch))
+    elif ch: wis = "<p>Sinds de start wisselden wij %d keer een product in deze top %d. De nieuwste wijziging staat bovenaan.</p><ul>%s</ul>" % (n_ev, lb.get("n", 10), "".join(ch))
     else: wis = "<p>Sinds de start op %s staan dezelfde %d producten in de lijst. De prijzen meten wij elke dag opnieuw.</p>" % (nldate(lb["start"]), lb.get("n", 10))
     prijs = ("<h3>De prijs van de top 3 bij bol</h3><ul>%s</ul>" % "".join(pr)) if pr else ""
     return ('<div class="guide logb rv" id="logboek"><h2>Logboek van deze gids</h2><p>Deze gids staat sinds %s online. Hier lees je wat wij sindsdien in de lijst hebben aangepast en hoe de prijs van de top 3 bewoog. '

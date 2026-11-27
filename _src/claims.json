@@ -31,6 +31,16 @@
  },
  {
   "gids": "beste-qled-tv",
+  "p": 3,
+  "naam": "55E8S",
+  "veld": "pros[3]",
+  "soort": "score",
+  "claim": 4.7,
+  "bol": 4.6,
+  "zin": "Beoordeeld met 4,7 uit 5 op bol"
+ },
+ {
+  "gids": "beste-qled-tv",
   "p": 6,
   "naam": "65E7S",
   "veld": "pros[3]",
@@ -38,16 +48,6 @@
   "claim": 4.6,
   "bol": 4.7,
   "zin": "Beoordeeld met 4,6 uit 5 op bol"
- },
- {
-  "gids": "beste-qled-tv",
-  "p": 7,
-  "naam": "55E7S PRO",
-  "veld": "pros[3]",
-  "soort": "score",
-  "claim": 4.8,
-  "bol": 4.6,
-  "zin": "Beoordeeld met 4,8 uit 5 op bol"
  },
  {
   "gids": "beste-robotstofzuiger-onder-300-euro",

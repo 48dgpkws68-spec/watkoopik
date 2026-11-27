@@ -16,7 +16,7 @@
   ],
   "ico": "❄️",
   "color": "#b35c2d",
-  "updated": "2026-11-22",
+  "updated": "2026-11-27",
   "published": "2026-11-22",
   "google_wacht": true,
   "reviews_total": "",
@@ -29,7 +29,7 @@
     "beste-flanellen-dekbedovertrek"
   ],
   "intro": "Een winterdekbed 2 persoons moet voor twee slapers tegelijk kloppen. De een heeft het snel koud, de ander ligt na een uur te zweten. Wij vergeleken winterdekbedden in 200x200 en 200x220 die nu bij bol te koop zijn op vulling, vulgewicht, warmteklasse, tijk en wasbaarheid. Je vindt enkele winterdekbedden van dons en wol, maar ook 4-seizoenen dekbedden waarbij de winterlaag ontstaat door twee delen te koppelen. Van een wasbaar synthetisch dekbed rond de zestig euro tot ganzendons voor jaren.",
-  "verdict": "Het Silently donzen dekbed is het beste winterdekbed voor twee: 90% ganzendons, warmteklasse 1 en opstaande schotjes, zodat het licht blijft en toch zeer warm is. Het Fabiola halfdons dekbed is de beste prijs-kwaliteit: vol, zwaar en warm voor ruim honderd euro. Wil je één premium dekbed voor het hele jaar, dan is het Canada Vancouver met ganzendons in twee delen de keuze. Transpireert een van jullie snel, kijk dan naar wol van Terschellinger.",
+  "verdict": "Het Silently donzen dekbed is het beste winterdekbed voor twee: 90% ganzendons, warmteklasse 1 en opstaande schotjes, zodat het licht blijft en toch zeer warm is. Het Fabiola-dekbed is de beste prijs-kwaliteit: vol, zwaar en warm voor ruim honderd euro, al is de vulling in gewicht 85% veertjes. Wil je één premium dekbed voor het hele jaar, dan is het Canada Vancouver met ganzendons in twee delen de keuze. Transpireert een van jullie snel, kijk dan naar wol van Terschellinger.",
   "products": [
     {
       "brand": "Silently",
@@ -121,55 +121,10 @@
       "synced": "2026-11-27"
     },
     {
-      "brand": "Fabiola",
-      "name": "Oostenrijks Dons Winterdekbed Halfdons 200x220",
-      "price": 109.0,
-      "score": 9.0,
-      "label": "Beste prijs-kwaliteit",
-      "reviews": "bol-score 4,7 van 5",
-      "oneliner": "Vol, zwaar Oostenrijks halfdons dekbed voor wie gewicht prettig vindt.",
-      "specs": {
-        "Maat": "200x220 cm",
-        "Vulling": "15% eendendons, 85% veertjes",
-        "Vulgewicht": "575 g/m² (2.530 g totaal)",
-        "Warmteklasse": "Winter, geen klasse opgegeven",
-        "Wasbaar": "Ja, 30 °C"
-      },
-      "pros": [
-        "Rijk gevuld met 2.530 gram vulling, voelt vol en bol aan",
-        "RDS-dons en OEKO-TEX-katoenen tijk",
-        "Schuifvrij doorgestikt in gelijke vakken",
-        "Scherpe prijs voor een donzen winterdekbed van 200x220"
-      ],
-      "cons": [
-        "Zwaar: niet fijn als je een licht dekbed wilt",
-        "Doorgestikte naden zijn minder warm dan opstaande schotjes",
-        "Wasbaar tot maar 30 graden"
-      ],
-      "ideal": "Stellen die een warm, zwaar dekbed willen dat om het lichaam valt, voor een bescheiden budget.",
-      "text": "Fabiola maakt een klassiek Oostenrijks donsdekbed: vol, bol en bewust zwaar. De vulling is halfdons, op gewicht 15% eendendons en 85% eendenveertjes. Omdat dons veel lichter is, is dat op volume ongeveer half om half. Met 575 gram per m² en 2.530 gram in totaal is dit het zwaarst gevulde donsdekbed in deze lijst. Het gewicht geeft een lichte druk op je lichaam, iets wat veel slapers juist prettig vinden in de winter.\n\nHet dekbed is schuifvrij doorgestikt in gelijke vakken met een tijk van dichtgeweven wit katoen. Het dons heeft het RDS-keurmerk en de stoffen zijn OEKO-TEX gecertificeerd. Wassen kan in de machine tot 30 graden, reken voor een 2-persoons halfdons dekbed wel op een grote trommel. Het dekbed wordt geleverd in een ademende draagtas waarin je het in de zomer opbergt. Voor ruim honderd euro krijg je een donzen winterdekbed in 200x220: daarom is dit onze prijs-kwaliteitkeuze.",
-      "ean": "8720256479918",
-      "bol_title": "Fabiola Oostenrijks dons winterdekbed - Halfdons dekbed - Luxe en lekker zwaar donsdeken - 200x220 cm tweepersoons extra lang",
-      "url": "https://www.bol.com/nl/nl/p/fabiola-oostenrijks-dons-winterdekbed-halfdons-dekbed-luxe-en-lekker-zwaar-donsdeken-200x220cm-tweepersoons-extra-lang/9300000060664836/",
-      "image": "https://media.s-bol.com/qMozOP0345z0/2vqjmOJ/550x414.jpg",
-      "ph": {
-        "2026-11-22": 109.0,
-        "2026-11-23": 109.0,
-        "2026-11-24": 109.0,
-        "2026-11-25": 109.0,
-        "2026-11-26": 109.0,
-        "2026-11-27": 109.0
-      },
-      "low_price": 109.0,
-      "ph_ean": "8720256479918",
-      "rating": 4.7,
-      "synced": "2026-11-27"
-    },
-    {
       "brand": "Ducky Dons",
       "name": "Nordic 4-Seizoenen Dekbed 200x220",
       "price": 259.0,
-      "score": 8.9,
+      "score": 9.0,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
       "oneliner": "Eendendonzen 4-seizoenen dekbed dat gekoppeld warmteklasse 1 haalt.",
@@ -210,6 +165,51 @@
       "synced": "2026-11-27",
       "prev_price": 255.95,
       "prev_date": "2026-11-26"
+    },
+    {
+      "brand": "Fabiola",
+      "name": "Oostenrijks Dons Winterdekbed Halfdons 200x220",
+      "price": 109.0,
+      "score": 8.9,
+      "label": "Beste prijs-kwaliteit",
+      "reviews": "bol-score 4,7 van 5",
+      "oneliner": "Vol, zwaar dekbed met 15% dons en 85% veertjes, warmteklasse 1.",
+      "specs": {
+        "Maat": "200x220 cm",
+        "Vulling": "15% eendendons, 85% veertjes",
+        "Vulgewicht": "575 g/m² (2.530 g totaal)",
+        "Warmteklasse": "1 volgens bol",
+        "Wasbaar": "Ja, 30 °C"
+      },
+      "pros": [
+        "Rijk gevuld met 2.530 gram vulling, voelt vol en bol aan",
+        "RDS-dons en OEKO-TEX-katoenen tijk",
+        "Schuifvrij doorgestikt in gelijke vakken",
+        "Scherpe prijs voor een natuurlijk winterdekbed van 200x220 met warmteklasse 1"
+      ],
+      "cons": [
+        "In gewicht 85% veertjes: zwaar en geen licht donsdekbed",
+        "Doorgestikte naden zijn minder warm dan opstaande schotjes",
+        "Wasbaar tot maar 30 graden"
+      ],
+      "ideal": "Stellen die een warm, zwaar dekbed willen dat om het lichaam valt, voor een bescheiden budget.",
+      "text": "Fabiola maakt een klassiek Oostenrijks winterdekbed: vol, bol en bewust zwaar. De vulling is halfdons, op gewicht 15% eendendons en 85% eendenveertjes. Omdat dons veel lichter is, is dat op volume ongeveer half om half. Het is dus een verendekbed met dons erin. Met 575 gram per m² en 2.530 gram in totaal is dit het zwaarste dekbed met dons en veren in deze lijst. Bol geeft warmteklasse 1 op. Het gewicht geeft een lichte druk op je lichaam, iets wat veel slapers juist prettig vinden in de winter.\n\nHet dekbed is schuifvrij doorgestikt in gelijke vakken met een tijk van dichtgeweven wit katoen. Het dons heeft het RDS-keurmerk en de stoffen zijn OEKO-TEX gecertificeerd. Wassen kan in de machine tot 30 graden, reken voor een 2-persoons halfdons dekbed wel op een grote trommel. Het dekbed wordt geleverd in een ademende draagtas waarin je het in de zomer opbergt. Voor ruim honderd euro krijg je een natuurlijk winterdekbed met warmteklasse 1 in 200x220: daarom is dit onze prijs-kwaliteitkeuze.",
+      "ean": "8720256479918",
+      "bol_title": "Fabiola Oostenrijks dons winterdekbed - Halfdons dekbed - Luxe en lekker zwaar donsdeken - 200x220 cm tweepersoons extra lang",
+      "url": "https://www.bol.com/nl/nl/p/fabiola-oostenrijks-dons-winterdekbed-halfdons-dekbed-luxe-en-lekker-zwaar-donsdeken-200x220cm-tweepersoons-extra-lang/9300000060664836/",
+      "image": "https://media.s-bol.com/qMozOP0345z0/2vqjmOJ/550x414.jpg",
+      "ph": {
+        "2026-11-22": 109.0,
+        "2026-11-23": 109.0,
+        "2026-11-24": 109.0,
+        "2026-11-25": 109.0,
+        "2026-11-26": 109.0,
+        "2026-11-27": 109.0
+      },
+      "low_price": 109.0,
+      "ph_ean": "8720256479918",
+      "rating": 4.7,
+      "synced": "2026-11-27"
     },
     {
       "brand": "Terschellinger",

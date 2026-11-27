@@ -166,7 +166,7 @@
     {
       "brand": "AZDome",
       "name": "M300S 2CH",
-      "price": 108.99,
+      "price": 89.99,
       "score": 8.7,
       "label": "Beste premium",
       "reviews": "bol-score 4,3 van 5",
@@ -199,13 +199,11 @@
       "image": "https://media.s-bol.com/75EvOpwGZ1zj/OywMmYr/550x550.jpg",
       "ph": {
         "2026-11-26": 89.99,
-        "2026-11-27": 108.99
+        "2026-11-27": 89.99
       },
       "low_price": 89.99,
       "ph_ean": "6973888261273",
-      "synced": "2026-11-27",
-      "prev_price": 89.99,
-      "prev_date": "2026-11-26"
+      "synced": "2026-11-27"
     },
     {
       "brand": "RedTiger",
