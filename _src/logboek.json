@@ -95,9 +95,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "Philips 55OLED811 Ambilight",
+    "in": "Philips 55OLED761 Ambilight",
+    "plek": 5,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "4fba02142ec94caec46ba2e7bfd5d84e039a8c27",
   "_ps": [
    {
     "brand": "LG",
@@ -121,8 +131,8 @@
    },
    {
     "brand": "Philips",
-    "name": "55OLED811 Ambilight",
-    "ean": "8718863052044"
+    "name": "55OLED761 Ambilight",
+    "ean": "8718863052037"
    },
    {
     "brand": "Samsung",
@@ -813,14 +823,24 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "Philips 55OLED811",
+    "in": "Philips 55OLED761",
+    "plek": 1,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "4fba02142ec94caec46ba2e7bfd5d84e039a8c27",
   "_ps": [
    {
     "brand": "Philips",
-    "name": "55OLED811",
-    "ean": "8718863052044"
+    "name": "55OLED761",
+    "ean": "8718863052037"
    },
    {
     "brand": "Philips",
@@ -1048,9 +1068,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "Philips 55OLED811",
+    "in": "Philips 55OLED761",
+    "plek": 6,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "4fba02142ec94caec46ba2e7bfd5d84e039a8c27",
   "_ps": [
    {
     "brand": "LG",
@@ -1079,8 +1109,8 @@
    },
    {
     "brand": "Philips",
-    "name": "55OLED811",
-    "ean": "8718863052044"
+    "name": "55OLED761",
+    "ean": "8718863052037"
    },
    {
     "brand": "Philips",
@@ -1618,9 +1648,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "Samsung QE55QN82H",
+    "in": "TCL 55C89L",
+    "plek": 4,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "4fba02142ec94caec46ba2e7bfd5d84e039a8c27",
   "_ps": [
    {
     "brand": "LG",
@@ -1638,9 +1678,9 @@
     "ean": "8718863052037"
    },
    {
-    "brand": "Samsung",
-    "name": "QE55QN82H",
-    "ean": "8806099129583"
+    "brand": "TCL",
+    "name": "55C89L",
+    "ean": "5901292531515"
    },
    {
     "brand": "Samsung",
@@ -1906,9 +1946,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "Philips Ambilight 55OLED811 55 inch",
+    "in": "Philips Ambilight 55OLED911 55 inch",
+    "plek": 6,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "4fba02142ec94caec46ba2e7bfd5d84e039a8c27",
   "_ps": [
    {
     "brand": "LG",
@@ -1937,8 +1987,8 @@
    },
    {
     "brand": "Philips",
-    "name": "Ambilight 55OLED811 55 inch",
-    "ean": "8718863052044"
+    "name": "Ambilight 55OLED911 55 inch",
+    "ean": "8718863052075"
    },
    {
     "brand": "Samsung",

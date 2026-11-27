@@ -14,10 +14,10 @@
   ],
   "ico": "🎓",
   "color": "#0f4c81",
-  "updated": "2026-10-16",
+  "updated": "2026-11-27",
   "reviews_total": "3.900",
-  "intro": "Als student gebruik je je laptop elke dag: in de collegezaal, in de bibliotheek en 's avonds voor Netflix. Hij moet dus licht zijn, een hele dag op de accu halen en niet je hele studiebudget opeten. Wij vergeleken de laptops die nu bij bol te koop zijn op accuduur, gewicht, werkgeheugen, scherm en wat studenten er na een paar maanden van vinden. Dit zijn de tien beste keuzes, van een Chromebook rond de 450 euro tot de MacBook Air.",
-  "verdict": "De Apple MacBook Air met M2 is de beste laptop voor studenten: licht, stil en met een accu die makkelijk een volle collegedag haalt, voor rond 782 euro. Heb je minder te besteden, dan is de Lenovo IdeaPad Slim 3 met 16 GB werkgeheugen de beste prijs-kwaliteit. Wil je het beste dat er nu is, dan krijg je met de MacBook Air M5 meer werkgeheugen, meer opslag en extra rekenkracht voor jaren vooruit.",
+  "intro": "Als student gebruik je je laptop elke dag: in de collegezaal, in de bibliotheek en 's avonds voor Netflix. Hij moet dus licht zijn, een hele dag op de accu halen en niet je hele studiebudget opeten. Wij vergeleken de laptops die nu bij bol te koop zijn op accuduur, gewicht, werkgeheugen, scherm en wat studenten er na een paar maanden van vinden. Dit zijn de tien beste keuzes, van een Chromebook rond de 400 euro tot de MacBook Air.",
+  "verdict": "De Apple MacBook Air met M2 is de beste laptop voor studenten: licht, stil en met een accu die makkelijk een volle collegedag haalt, voor rond 763 euro. Heb je minder te besteden, dan is de Lenovo IdeaPad Slim 3 met 16 GB werkgeheugen de beste prijs-kwaliteit. Wil je het beste dat er nu is, dan krijg je met de MacBook Air M5 meer werkgeheugen, meer opslag en extra rekenkracht voor jaren vooruit.",
   "products": [
     {
       "brand": "Apple",
@@ -37,7 +37,7 @@
       "pros": [
         "Tot 18 uur accuduur volgens Apple",
         "Volledig stil door het ontwerp zonder ventilator",
-        "Bijna 600 euro goedkoper dan de M5-versie",
+        "Bijna 500 euro goedkoper dan de M5-versie",
         "Opladen via MagSafe, dus beide Thunderbolt-poorten blijven vrij"
       ],
       "cons": [
@@ -45,7 +45,7 @@
         "256 GB opslag is krap zonder clouddienst"
       ],
       "ideal": "Studenten die een betaalbare MacBook zoeken voor schrijfwerk, onderzoek en colleges.",
-      "text": "De MacBook Air met M2 is de voordeligste manier om als student een moderne MacBook te kopen. Bij bol staat hij nu voor rond 782 euro, bijna 600 euro minder dan de M5-versie in deze lijst. De M2-chip is ruim snel genoeg voor Word, Excel, online colleges, foto's bewerken en programmeren. Omdat er geen ventilator in zit, is hij volledig stil. Met 1,24 kilo en een dikte van 11,3 millimeter verdwijnt hij makkelijk in je tas.\n\nApple belooft tot 18 uur accuduur, genoeg voor een volle collegedag zonder lader. Het 13,6 inch scherm is helder met 500 nits en opladen gaat via MagSafe, zodat beide Thunderbolt-poorten vrij blijven. De grootste minpunten zijn de 8 GB werkgeheugen en de 256 GB opslag. Gebruik je OneDrive of iCloud en doe je vooral schrijfwerk en onderzoek, dan is dat genoeg. Werk je met video of zware software, kies dan de M5-versie. Op bol staat hij op een 4,8.",
+      "text": "De MacBook Air met M2 is de voordeligste manier om als student een moderne MacBook te kopen. Bij bol staat hij nu voor rond 763 euro, bijna 500 euro minder dan de M5-versie in deze lijst. De M2-chip is ruim snel genoeg voor Word, Excel, online colleges, foto's bewerken en programmeren. Omdat er geen ventilator in zit, is hij volledig stil. Met 1,24 kilo en een dikte van 11,3 millimeter verdwijnt hij makkelijk in je tas.\n\nApple belooft tot 18 uur accuduur, genoeg voor een volle collegedag zonder lader. Het 13,6 inch scherm is helder met 500 nits en opladen gaat via MagSafe, zodat beide Thunderbolt-poorten vrij blijven. De grootste minpunten zijn de 8 GB werkgeheugen en de 256 GB opslag. Gebruik je OneDrive of iCloud en doe je vooral schrijfwerk en onderzoek, dan is dat genoeg. Werk je met video of zware software, kies dan de M5-versie. Op bol staat hij op een 4,8.",
       "ean": "0194253083252",
       "rating": 4.8,
       "bol_title": "Apple MacBook Air (2022) MLY33N/A - 13.6 inch - Apple M2 - 256 GB - Middernacht",
@@ -170,7 +170,7 @@
         "Jarenlang macOS-updates"
       ],
       "cons": [
-        "Bijna 600 euro duurder dan de M2-versie",
+        "Bijna 500 euro duurder dan de M2-versie",
         "Voor gewoon studiewerk merk je weinig verschil met de M2"
       ],
       "ideal": "Studenten in creatieve of technische richtingen die extra rekenkracht en opslag willen voor de hele studie.",
@@ -312,50 +312,42 @@
     },
     {
       "brand": "HP",
-      "name": "OmniBook 3 14-hz0714ndx Snapdragon X 16 GB 512 GB",
-      "price": 649.0,
-      "score": 8.8,
+      "name": "OmniBook 3 14-hz0710ndx Snapdragon X 8 GB 512 GB",
+      "price": 549.0,
+      "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Zuinige Copilot+ laptop met 2K OLED-scherm voor minder dan duizend euro.",
+      "oneliner": "Zuinige Copilot+ laptop met OLED-scherm voor weinig geld.",
       "specs": {
         "Scherm": "14 inch 2K OLED",
         "Processor": "Snapdragon X",
-        "Werkgeheugen": "16 GB",
+        "Werkgeheugen": "8 GB",
         "Opslag": "512 GB SSD",
         "Gewicht": "ca. 1,4 kg"
       },
       "pros": [
-        "2K OLED-scherm voor een middenklasseprijs",
+        "OLED-scherm voor een instapprijs",
         "Lange accuduur door de zuinige Arm-chip",
-        "16 GB werkgeheugen en 512 GB opslag"
+        "512 GB opslag en verlicht toetsenbord"
       ],
       "cons": [
+        "8 GB werkgeheugen is niet uit te breiden",
         "Niet alle software werkt op Arm",
-        "Iets zwaarder dan de Zenbook 14",
         "Behuizing voelt minder luxe aan"
       ],
-      "ideal": "Studenten die een OLED-scherm en lange accuduur willen voor onder de duizend euro.",
-      "text": "De HP OmniBook 3 is een van de goedkoopste laptops met een Snapdragon X-processor en een OLED-scherm. HP richt zich met deze uitvoering duidelijk op studenten: je krijgt 16 GB werkgeheugen, 512 GB opslag en een 14 inch scherm met 2K-resolutie. Dat scherm is scherp genoeg om twee documenten naast elkaar te lezen en de kleuren zijn levendig bij films en series.\n\nDankzij de zuinige Arm-chip haalt de OmniBook 3 volgens gebruikers een volledige collegedag zonder stopcontact. De laptop blijft koel en meestal stil. Net als bij de Zenbook draaien Office, Teams, browsers en streamingapps zonder problemen, maar sommige gespecialiseerde programma's en games werken niet op Arm. Vraag bij je opleiding na welke software je nodig hebt. De behuizing is van degelijke kunststof en voelt minder luxe dan aluminium. Met 1,4 kilo is hij wat zwaarder dan de Zenbook. Kopers op bol waarderen vooral de verhouding tussen prijs, scherm en accuduur.",
-      "ean": "0826581670353",
-      "ph_ean": "0826581670353",
-      "rating": 4.6,
-      "bol_title": "HP OmniBook 3 14-hz0714ndx - Copilot+ Laptop - 14 inch OLED 2K - Snapdragon X X1-26-100 - 16 GB RAM - 512 GB SSD - Windows 11 Home - Qwerty",
-      "url": "https://www.bol.com/nl/nl/p/hp-omnibook-3-14-hz0714ndx-copilot-laptop-14-inch-snapdragon-x-16gb-512gb/9300000294512309/",
-      "image": "https://media.s-bol.com/mJBZPqYgZ8kO/q7G70pk/550x405.jpg",
+      "ideal": "Studenten die een OLED-scherm en lange accuduur willen voor zo weinig mogelijk geld.",
+      "text": "De HP OmniBook 3 is een van de goedkoopste laptops met een Snapdragon X-processor en een OLED-scherm. De uitvoering met 16 GB is bij bol niet meer te koop, daarom staat hier de 14-hz0710ndx met 8 GB werkgeheugen en 512 GB opslag. Het 14 inch scherm heeft volgens bol 1920 bij 1200 beeldpunten in een 16:10-verhouding. Dat is scherp genoeg om twee documenten naast elkaar te lezen en de kleuren zijn levendig bij films en series.\n\nDankzij de zuinige Arm-chip en de accu van 60 Wh haalt de OmniBook 3 volgens gebruikers een volledige collegedag zonder stopcontact. Office, Teams, browsers en streamingapps draaien zonder problemen, maar sommige gespecialiseerde programma's en games werken niet op Arm. Vraag bij je opleiding na welke software je nodig hebt. Het geheugen van 8 GB is niet uit te breiden. Voor aantekeningen, scripties en streamen is dat genoeg, met tientallen tabbladen en zware programma's tegelijk merk je de grens. Met 1,4 kilo is hij wat zwaarder dan de Zenbook.",
+      "ean": "0826581670322",
+      "bol_title": "HP OmniBook 3 14-hz0710ndx - Laptop - 14 inch OLED 2K - Snapdragon X X1-26-100 - 8 GB RAM - 512 GB SSD - Windows 11 Home - Qwerty - Nouvelle Silver",
+      "url": "https://www.bol.com/nl/nl/p/hp-omnibook-3-14-hz0710ndx-copilot-laptop-14-inch-snapdragon-x-8gb-512gb/9300000294512307/",
+      "image": "https://media.s-bol.com/3WmjDDpB8K0O/nxX7z9p/550x462.jpg",
       "ph": {
-        "2026-11-21": 799.0,
-        "2026-11-22": 799.0,
-        "2026-11-23": 799.0,
-        "2026-11-24": 799.0,
-        "2026-11-25": 649.0,
-        "2026-11-26": 649.0,
-        "2026-11-27": 649.0
+        "2026-11-27": 549.0
       },
-      "low_price": 649.0,
-      "synced": "2026-11-27",
-      "prev_price": 799.0,
-      "prev_date": "2026-11-24"
+      "low_price": 549.0,
+      "ph_ean": "0826581670322",
+      "rating": 4.6,
+      "synced": "2026-11-27"
     },
     {
       "brand": "Lenovo",
@@ -533,7 +525,7 @@
         "Iets zwaarder om mee te sjouwen"
       ],
       "ideal": "Studenten die een groot scherm willen en veel programma's tegelijk openen.",
-      "text": "De Acer Aspire Go 15 AG15-72P-58FA is een laptop zonder franje die doet wat een student nodig heeft. De Intel Core 5 120U is snel genoeg voor Word, Excel, online colleges en een stapel browsertabbladen tegelijk. Met 16 GB werkgeheugen blijft dat ook soepel als je naast je verslag nog Teams en Spotify open hebt.\n\nHet scherm van 15,6 inch Full HD geeft veel werkruimte. Je zet makkelijk twee vensters naast elkaar. De SSD van 512 GB biedt genoeg plek voor je studiebestanden. Aan de zijkanten vind je USB-C, USB-A en HDMI. Je sluit dus zonder adapter een extra monitor of beamer aan. Het scherm is niet heel helder en kleuren zijn wat vlak. Voor tekst en spreadsheets is dat geen bezwaar. Met ongeveer 1,8 kilo is hij wel zwaarder dan een MacBook Air. Kopers op bol zijn erg tevreden. Voor rond de 830 euro krijg je een ruime laptop met genoeg reserve voor je hele studie.",
+      "text": "De Acer Aspire Go 15 AG15-72P-58FA is een laptop zonder franje die doet wat een student nodig heeft. De Intel Core 5 120U is snel genoeg voor Word, Excel, online colleges en een stapel browsertabbladen tegelijk. Met 16 GB werkgeheugen blijft dat ook soepel als je naast je verslag nog Teams en Spotify open hebt.\n\nHet scherm van 15,6 inch Full HD geeft veel werkruimte. Je zet makkelijk twee vensters naast elkaar. De SSD van 512 GB biedt genoeg plek voor je studiebestanden. Aan de zijkanten vind je USB-C, USB-A en HDMI. Je sluit dus zonder adapter een extra monitor of beamer aan. Het scherm is niet heel helder en kleuren zijn wat vlak. Voor tekst en spreadsheets is dat geen bezwaar. Met ongeveer 1,8 kilo is hij wel zwaarder dan een MacBook Air. Kopers op bol zijn erg tevreden. Voor rond de 800 euro krijg je een ruime laptop met genoeg reserve voor je hele studie.",
       "ean": "4711721099780",
       "bol_title": "Acer Aspire Go 15 AG15-72P-58FA - Laptop - 15 inch - Core 5 - 16GB - 512GB SSD - Zilver",
       "url": "https://www.bol.com/nl/nl/p/acer-aspire-go-15-ag15-72p-58fa-qwerty/9300000269811813/",
@@ -781,6 +773,12 @@
     "beste-laptop-thuiswerken"
   ],
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "HP OmniBook 3 14-hz0714ndx Snapdragon X 16 GB 512 GB",
+      "in": "HP OmniBook 3 14-hz0710ndx Snapdragon X 8 GB 512 GB",
+      "waarom": "bol verkoopt alleen nog de uitvoering met 8 GB werkgeheugen"
+    },
     {
       "d": "2026-11-20",
       "uit": "Apple MacBook Air 13 inch M4 (2025) 16 GB 256 GB",
