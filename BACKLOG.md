@@ -380,3 +380,4 @@ Formaat: slug | cat | query | titel | emoji
 # ChatGPT-spoor 27 nov 2026 (ochtend): smalle varianten in de families tv en kunstkerstboom
 [x] beste-tv-24-inch | elektronica | tv 24 inch | Beste tv 24 inch 2026 | 📺
 [x] beste-kunstkerstboom-120-cm | wonen | kunstkerstboom 120 cm | Beste kunstkerstboom 120 cm 2026 | 🎄
+[x] beste-oled-tv-65-inch | elektronica | 65 inch oled tv | De 10 beste OLED-tv's van 65 inch van 2026 | 📺 (google_wacht, middagrun 27 nov)
