@@ -16,7 +16,7 @@
   ],
   "ico": "📺",
   "color": "#1b3fb3",
-  "updated": "2026-11-25",
+  "updated": "2026-11-27",
   "reviews_total": "650",
   "intro": "Een 85 inch tv is het grootste formaat dat nog in een gewone woonkamer past. Het scherm meet 216 cm diagonaal, weegt al snel 40 kg en vraagt minstens 2,7 meter kijkafstand. Op dit formaat zie je elke zwakke plek van een paneel, dus contrast en beeldverwerking tellen zwaar. Wij vergeleken tv's van 85 en 86 inch die nu bij bol te koop zijn op paneeltype, beeldfrequentie, HDR, prijs per inch en reviews van kopers. Dit zijn de tien beste.",
   "verdict": "De TCL 85T8D is de beste 85 inch tv voor de meeste huiskamers: QD-Mini LED, 144 Hz en Google TV voor rond de 1.300 euro. De Hisense 85E7S PRO is de beste prijs-kwaliteit met Hi-QLED en native 144 Hz voor ongeveer 1.200 euro. Wil je de mooiste kleuren en de beste beeldverwerking, dan is de Sony BRAVIA 7 II de premium keuze. Met een krap budget kies je de Samsung UE85U7090H.",
@@ -204,64 +204,45 @@
       "ph_ean": "4548736178250"
     },
     {
-      "brand": "TCL",
-      "name": "85RM7L",
-      "price": 1799.0,
-      "score": 9.0,
+      "brand": "Hisense",
+      "name": "85E8S",
+      "price": 1578.24,
+      "score": 8.9,
       "label": null,
-      "reviews": "bol-score 5,0 van 5",
-      "oneliner": "RGB Mini LED op 85 inch voor ruim de helft van de Sony-prijs.",
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Mini LED met native 144 Hz en een ingebouwde subwoofer.",
       "specs": {
-        "Paneel": "RGB Mini-LED",
+        "Paneel": "Hi-QLED Mini-LED",
         "Beeldfrequentie": "144 Hz",
         "HDR": "Dolby Vision IQ, HDR10+",
-        "Smart-tv": "Google TV",
+        "Smart-tv": "VIDAA",
         "Bouwjaar": "2026",
-        "Stroomverbruik (SDR)": "103 W · klasse D (EU-label)"
+        "Stroomverbruik (SDR)": "klasse E (EU-label)"
       },
       "pros": [
-        "RGB Mini-LED voor rijke kleuren tegen een redelijke prijs",
-        "Native 144 Hz met VRR",
+        "Mini LED met local dimming in meer dan honderd zones",
+        "Native 144 Hz met VRR via HDMI 2.1",
         "Dolby Vision IQ en HDR10+",
-        "Beoordeeld met 5 uit 5 op bol"
+        "Ingebouwde subwoofer, 40 watt"
       ],
       "cons": [
-        "Nieuwe techniek, nog weinig ervaring op lange termijn",
-        "Kijkhoek beperkt bij zitplaatsen ver opzij"
+        "Bijna 290 euro duurder dan de TCL 85T8D",
+        "VIDAA heeft minder apps dan Google TV",
+        "Hisense noemt 600 nits, minder dan de felste Mini LED-tv's"
       ],
-      "ideal": "Wie RGB-LED-kleuren wil op 85 inch zonder 3.000 euro uit te geven.",
-      "text": "De TCL 85RM7L brengt de RGB-techniek van de Sony naar een veel lagere prijs. De achtergrondverlichting bestaat uit rode, groene en blauwe mini-leds die per zone dimmen. Daardoor krijg je diepe kleuren en goed zwart, ook in grote felle vlakken zoals een zonnige voetbalwedstrijd. Met ongeveer 21 euro per inch zit hij tussen de Mini-LED-modellen en de Sony in.\n\nGamers krijgen native 144 Hz met VRR en ALLM. Dolby Vision IQ past het beeld aan het licht in je kamer aan, HDR10+ is ook aanwezig. Google TV maakt de software compleet met alle Nederlandse streamingdiensten. De eerste kopers op bol geven hem 5 uit 5. Het is wel een nieuwe techniek, dus over de levensduur is nog weinig bekend. De beeldverwerking haalt het niveau van Sony niet: slechte tv-zenders ogen iets zachter. Wie vooral streamt in 4K en graag gamet, krijgt hier wel het meeste kleurbeeld per euro op dit formaat.",
-      "ean": "5901292529970",
-      "bol_title": "TCL 85RM7L - 85 inch - 4K RGB MiniLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-85rm7l-85-inch-4k-rgb-miniled-2026-smart-tv/9300000265052580/",
-      "image": "https://media.s-bol.com/lGYpKvzmGLXJ/kZYy3VN/550x330.jpg",
+      "ideal": "Gamers en filmkijkers die op 85 inch Mini LED, 144 Hz en beide HDR-formaten willen.",
+      "text": "De Hisense 85E8S is de Mini LED-tv van Hisense uit 2026 en kost op 85 inch rond de 1.578 euro. De achtergrondverlichting is volgens Hisense verdeeld over meer dan honderd zones die apart dimmen. Donkere delen worden daardoor donkerder terwijl lichte delen fel blijven, wat je op een scherm van 216 centimeter direct ziet bij ondertitels en sterrenhemels. In de titel bij bol staat een helderheid van 600 nits. Dat is genoeg voor een normale woonkamer, maar geen uitschieter.\n\nVoor gamers is dit een van de snelste tv's in de lijst. Het paneel werkt native op 144 Hz, met VRR via HDMI 2.1 en vier HDMI-poorten. Hij speelt zowel Dolby Vision IQ als HDR10+ af, dus Netflix, Disney+ en Prime Video sturen steeds hun beste HDR-versie mee. Het geluid komt uit drie speakers met een ingebouwde subwoofer en levert 40 watt. VIDAA start snel op en heeft de grote diensten, maar minder kleine apps dan Google TV. De bol-score is 4,6 van 5. De TCL 85T8D op nummer 1 kost bijna 290 euro minder, dus kies de Hisense vooral om de subwoofer en de HDR-formaten.",
+      "rating": 4.6,
+      "ean": "6942351434148",
+      "bol_title": "Hisense 85E8S SmartTV - 85 inch - 4K Hi-QLED MiniLED - 2026 - 600 nits - Native 144Hz Game Mode - Built-in Subwoofer - Hi-View AI Engine - Hi-QLED Colour - Dolby Vision Atmos",
+      "url": "https://www.bol.com/nl/nl/p/hisense-85e8s-smarttv-85-inch-4k-hi-qled-miniled-2026-600-nits-native-144hz-game-mode-built-in-subwoofer-hi-view-ai-engine-hi-qled-colour-dolby-vision-atmos/9300000269685086/",
+      "image": "https://media.s-bol.com/jpZYVo6WvEry/z6Pr4Yq/550x350.jpg",
       "ph": {
-        "2026-11-06": 1799.0,
-        "2026-11-07": 1799.0,
-        "2026-11-08": 1799.0,
-        "2026-11-09": 1799.0,
-        "2026-11-10": 1799.0,
-        "2026-11-11": 1799.0,
-        "2026-11-12": 1799.0,
-        "2026-11-13": 1799.0,
-        "2026-11-14": 1799.0,
-        "2026-11-16": 1799.0,
-        "2026-11-17": 1799.0,
-        "2026-11-18": 1799.0,
-        "2026-11-19": 1799.0,
-        "2026-11-20": 1799.0,
-        "2026-11-21": 1799.0,
-        "2026-11-22": 1799.0,
-        "2026-11-23": 1799.0,
-        "2026-11-24": 1799.0,
-        "2026-11-25": 1799.0,
-        "2026-11-26": 1799.0,
-        "2026-11-27": 1799.0
+        "2026-11-27": 1578.24
       },
-      "low_price": 1799.0,
-      "synced": "2026-11-27",
-      "ph_ean": "5901292529970",
-      "rating": 5.0
+      "low_price": 1578.24,
+      "ph_ean": "6942351434148",
+      "synced": "2026-11-27"
     },
     {
       "brand": "LG",
@@ -655,6 +636,12 @@
   "meta_title": "Beste 85 inch tv 2026: top 10 vergeleken",
   "meta_desc": "De beste 85 inch tv van 2026 is de {top}. Top 10 vergeleken op beeldkwaliteit, helderheid, gaming en prijs, zodat je in één keer goed kiest.",
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "TCL 85RM7L",
+      "in": "Hisense 85E8S",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-25",
       "uit": "Samsung QE85QN70H",

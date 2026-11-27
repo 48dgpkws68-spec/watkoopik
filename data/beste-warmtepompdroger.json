@@ -14,7 +14,7 @@
   ],
   "ico": "🧺",
   "color": "#2f6f8f",
-  "updated": "2026-10-20",
+  "updated": "2026-11-27",
   "reviews_total": "4.800",
   "intro": "Een warmtepompdroger droogt je was op een lage temperatuur en hergebruikt de warmte. Daardoor verbruikt hij ongeveer de helft minder stroom dan een gewone condensdroger. Dat scheelt al snel 80 tot 120 euro per jaar als je vaak droogt. Wij vergeleken modellen die nu bij bol te koop zijn op capaciteit, energielabel, droogtijd, geluid en wat kopers erover schrijven. Dit zijn de tien beste warmtepompdrogers van 2026, van een zuinige instapper tot een premium droger met de nieuwste A-klasse.",
   "verdict": "De Samsung AI Dry DV90DG6845LBU3 is voor de meeste huishoudens de beste warmtepompdroger: 9 kilo, energielabel A en vijf jaar garantie voor rond de 760 euro. De Hisense 5S DH5S102BB is de beste prijs-kwaliteit, met 10 kilo en een app voor rond de 660 euro. Wil je het zuinigste en meest zorgvuldige droogprogramma voor wol en fijne was, dan is de AEG 9000X TR968V4C de premium keuze.",
@@ -633,79 +633,41 @@
     },
     {
       "brand": "Hisense",
-      "name": "3S Serie DH3S802BW2",
-      "price": 419.0,
+      "name": "3S Serie DH3S902BWCC",
+      "price": 499.0,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,9 van 5",
-      "oneliner": "Goedkoopste warmtepompdroger in deze lijst, met app en trommellamp.",
+      "reviews": "bol-score 4,2 van 5",
+      "oneliner": "Voordelige warmtepompdroger van 9 kilo met app en trommellamp.",
       "specs": {
-        "Capaciteit": "8 kg",
-        "Energielabel": "D",
+        "Capaciteit": "9 kg",
+        "Energielabel": "C",
         "Type": "Vrijstaand, warmtepomp",
         "Opvallend": "Trommelverlichting, ConnectLife-app",
-        "Energieverbruik": "119 kWh per 100 droogbeurten"
+        "Energieverbruik": "110 kWh per 100 droogbeurten"
       },
       "pros": [
-        "Laagste prijs in deze vergelijking",
+        "Laagste prijs in deze vergelijking, gelijk met de Beko",
         "Trommelverlichting en app-bediening",
-        "Beoordeling van 4,9 op bol"
+        "Ruime trommel van 9 kilo"
       ],
       "cons": [
-        "Energielabel D, het hoogste verbruik in deze lijst",
-        "Minder geschikt voor wie elke dag droogt"
+        "Energielabel C, minder zuinig dan de A-modellen",
+        "63 dB, niet de stilste"
       ],
       "ideal": "Wie een paar keer per week droogt en zo weinig mogelijk wil uitgeven.",
-      "text": "De Hisense 3S DH3S802BW2 is de goedkoopste warmtepompdroger in deze vergelijking. Voor ongeveer 440 euro krijg je 8 kilo capaciteit, trommelverlichting en bediening via de ConnectLife-app. Dat zijn functies die je in deze prijsklasse zelden ziet. Kopers op bol geven hem gemiddeld een 4,9 en noemen vooral de prijs en de stille werking.\n\nHet energielabel is D volgens het nieuwe label. Dat is nog altijd veel zuiniger dan een condensdroger of luchtafvoerdroger, maar duidelijk minder zuinig dan de A-modellen bovenaan deze lijst. Droog je dagelijks, dan verdien je het prijsverschil met een zuinigere droger in een paar jaar terug. Droog je twee of drie keer per week, dan is het verschil klein en is dit een slimme keuze. De droger heeft vijftien programma's, waaronder een snelprogramma en een stand voor beddengoed. Het pluizenfilter en het filter onderin moet je regelmatig schoonmaken.",
-      "ean": "6901101829634",
-      "bol_title": "Hisense 3S Serie DH3S802BW2 - Wasdroger met Energielabel D - Warmtepompdroger - 8kg - ConnectLife - Trommelverlichting - AutoDry - Allergy Care",
-      "url": "https://www.bol.com/nl/nl/p/hisense-3s-serie-dh3s802bw2-wasdroger-met-a-energielabel-warmtepompdroger-8kg-connectlife-trommelverlichting-autodry-allergy-care/9300000182888258/",
-      "image": "https://media.s-bol.com/BG114YAWqxON/ER10m6K/550x770.jpg",
+      "text": "De Hisense DH3S902BWCC is samen met de Beko de goedkoopste warmtepompdroger in deze vergelijking. Voor 499 euro krijg je 9 kilo capaciteit, trommelverlichting en bediening via de ConnectLife-app. Dat zijn functies die je in deze prijsklasse zelden ziet. Bij bol staat hij op een 4,2 van 5.\n\nHet energielabel is C volgens het nieuwe label, met een verbruik van 110 kWh per 100 droogbeurten. Dat is nog altijd veel zuiniger dan een condensdroger of luchtafvoerdroger, maar duidelijk minder zuinig dan de A-modellen bovenaan deze lijst. Droog je dagelijks, dan verdien je het prijsverschil met een zuinigere droger in een paar jaar terug. Droog je twee of drie keer per week, dan is het verschil klein en is dit een slimme keuze. Met 63 dB is hij niet de stilste. Er zijn programma's voor onder meer katoen, beddengoed, wol, sportkleding en dons, plus een kort programma en een anti-kreukfase. Een vochtsensor stopt de droger als de was droog is. Het pluizenfilter en het filter onderin moet je regelmatig schoonmaken.",
+      "ean": "6901101834690",
+      "bol_title": "Hisense DH3S902BWCC - Warmtepomp droger - 9 kg - Vrijstaand - Wit - Draaiknop - 63 dB(A) - Ion Refresh - Allergy Care - Auto Dry - ConnectLife - WIFI",
+      "url": "https://www.bol.com/nl/nl/p/hisense-dh3s902bwcc-condensdroger-9-kg-vrijstaand-voorbelading-warmtepomp-wit-draaiknop-touchcontrol-63-db-ion-refresh-allergy-care-auto-dry/9300000263492441/",
+      "image": "https://media.s-bol.com/mv2K1MNBg3zE/836kJY3/550x769.jpg",
       "synced": "2026-11-27",
+      "ph_ean": "6901101834690",
+      "rating": 4.2,
       "ph": {
-        "2026-10-20": 439.0,
-        "2026-10-21": 439.0,
-        "2026-10-23": 439.0,
-        "2026-10-24": 439.0,
-        "2026-10-25": 439.0,
-        "2026-10-26": 439.0,
-        "2026-10-27": 439.0,
-        "2026-10-28": 439.0,
-        "2026-10-29": 439.0,
-        "2026-10-30": 499.0,
-        "2026-10-31": 499.0,
-        "2026-11-01": 499.0,
-        "2026-11-02": 499.0,
-        "2026-11-03": 499.0,
-        "2026-11-04": 499.0,
-        "2026-11-05": 499.0,
-        "2026-11-06": 419.0,
-        "2026-11-07": 419.0,
-        "2026-11-08": 419.0,
-        "2026-11-09": 419.0,
-        "2026-11-10": 419.0,
-        "2026-11-11": 419.0,
-        "2026-11-12": 419.0,
-        "2026-11-13": 419.0,
-        "2026-11-14": 419.0,
-        "2026-11-16": 419.0,
-        "2026-11-17": 419.0,
-        "2026-11-18": 419.0,
-        "2026-11-19": 419.0,
-        "2026-11-20": 419.0,
-        "2026-11-21": 419.0,
-        "2026-11-22": 419.0,
-        "2026-11-23": 419.0,
-        "2026-11-24": 419.0,
-        "2026-11-25": 419.0,
-        "2026-11-26": 419.0,
-        "2026-11-27": 419.0
+        "2026-11-27": 499.0
       },
-      "low_price": 419.0,
-      "prev_price": 499.0,
-      "prev_date": "2026-11-05",
-      "ph_ean": "6901101829634",
-      "rating": 4.9
+      "low_price": 499.0
     }
   ],
   "guide": [
@@ -769,6 +731,12 @@
     "beste-wasmachine"
   ],
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "Hisense 3S Serie DH3S802BW2",
+      "in": "Hisense 3S Serie DH3S902BWCC",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-21",
       "uit": "AEG 9000X TR969V6C AbsoluteCare Pro",

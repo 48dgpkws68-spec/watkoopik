@@ -13,7 +13,7 @@
     "segway navimow"
   ],
   "ico": "🤖",
-  "updated": "2026-10-14",
+  "updated": "2026-11-27",
   "reviews_total": "9.400",
   "intro": "Een robotmaaier maait je gazon terwijl jij iets anders doet en houdt het gras elke dag even kort. In 2026 is de grootste verandering dat steeds meer modellen geen begrenzingsdraad meer nodig hebben: ze navigeren met RTK-gps, camera's of lidar. Wij vergeleken robotmaaiers op maaioppervlak, navigatie, hellingshoek, geluid, app en de score bij bol. Hieronder vind je tien modellen met en zonder draad, van een compacte maaier voor een stadstuin tot een allrounder voor een grote kavel.",
   "verdict": "De Segway Navimow i105E is de beste robotmaaier van 2026: geen draad, nette banen en een prijs die voor draadloos scherp is. De Gardena Sileno minimo 350 is de beste prijs-kwaliteit voor kleine tuinen tot 350 vierkante meter, betrouwbaar en fluisterstil. Wie een grote of heuvelachtige tuin heeft en het beste wil, kiest de Husqvarna Automower 405X als beste premium robotmaaier.",
@@ -509,77 +509,41 @@
     },
     {
       "brand": "Ecovacs",
-      "name": "GOAT O800 RTK",
-      "price": 519.0,
+      "name": "GOAT O1200 RTK",
+      "price": 649.95,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Draadloze RTK-maaier met camera voor gazons tot 800 m².",
+      "reviews": "",
+      "oneliner": "Draadloze RTK-maaier met camera voor gazons tot 1.200 m².",
       "specs": {
-        "Max. oppervlak": "800 m²",
+        "Max. oppervlak": "1.200 m²",
         "Begrenzing": "Geen draad (RTK + camera)",
         "Helling": "45%",
-        "Geluid": "ca. 60 dB",
-        "App": "Ja, wifi"
+        "Geluid": "57 dB volgens bol",
+        "App": "Ja, wifi en bluetooth"
       },
       "pros": [
         "Geen begrenzingsdraad nodig",
-        "Camera ontwijkt obstakels",
+        "Camera en 3D-sensor ontwijken obstakels",
         "Maait in nette rechte banen",
-        "Scherpe prijs voor RTK"
+        "Tot 1.200 m² voor rond de 650 euro"
       ],
       "cons": [
         "RTK-antenne moet vrij zicht op de lucht hebben",
-        "App vraagt even wennen"
+        "Nog geen score bij bol"
       ],
-      "ideal": "Wie een middelgroot gazon heeft en geen draad wil ingraven.",
-      "text": "De Ecovacs GOAT O800 RTK maait zonder begrenzingsdraad. Hij gebruikt RTK-satellietnavigatie met een losse antenne in je tuin om tot op een paar centimeter te weten waar hij is. Je tekent de grenzen van je gazon in de app door de maaier één keer langs de rand te sturen.\n\nDaarna maait hij in rechte banen, wat een strak streeppatroon oplevert en sneller werkt dan willekeurig rijden. Een camera aan de voorkant herkent obstakels zoals speelgoed, tuinslangen en egels en rijdt eromheen. Met een bereik tot 800 vierkante meter past hij bij de meeste Nederlandse tuinen. Hellingen tot 45 procent zijn geen probleem. De RTK-antenne moet wel vrij zicht op de lucht hebben. Onder dichte bomen of naast een hoog huis kan het signaal haperen. Kopers op bol geven hem gemiddeld 4,3 sterren. Voor rond de 600 euro is dit een betaalbare manier om draadloos te maaien.",
-      "ean": "6970135034789",
-      "bol_title": "ECOVACS - GOAT O800 RTK - Robotmaaier - voor oppervlakken tot 800m²",
-      "url": "https://www.bol.com/nl/nl/p/goat-o800-rtk/9300000226391551/",
-      "image": "https://media.s-bol.com/7ZAyzZJ10k2j/vgD6EQn/550x460.jpg",
+      "ideal": "Wie een middelgroot tot groot gazon heeft en geen draad wil ingraven.",
+      "text": "De Ecovacs GOAT O1200 RTK maait zonder begrenzingsdraad. Hij gebruikt RTK-satellietnavigatie met een losse antenne in je tuin en weet volgens Ecovacs tot op 2 centimeter waar hij is. Valt het satellietsignaal weg, dan neemt de camera de plaatsbepaling over. Je tekent de grenzen van je gazon in de app door de maaier één keer langs de rand te sturen.\n\nDaarna maait hij in rechte banen, wat een strak streeppatroon oplevert en sneller werkt dan willekeurig rijden. Een camera met groothoeklens en een 3D-sensor herkennen obstakels zoals speelgoed en tuinslangen en rijden eromheen. Met een bereik tot 1.200 vierkante meter is hij ruim genoeg voor de meeste Nederlandse tuinen. Hellingen tot 45 procent zijn volgens bol geen probleem en de maaihoogte stel je in van 3 tot 6 centimeter. In de app kies je ook de maairichting en de snelheid. De RTK-antenne moet wel vrij zicht op de lucht hebben. Bij bol heeft dit model nog geen score. Voor rond de 650 euro is dit een betaalbare manier om draadloos een groter gazon te maaien.",
+      "ean": "6970135034772",
+      "bol_title": "ECOVACS GOAT O1200 RTK - Robotmaaier - voor oppervlakken tot 1200m²",
+      "url": "https://www.bol.com/nl/nl/p/ecovacs-mahroboter-goat-o1200-rtk/9300000229128438/",
+      "image": "https://media.s-bol.com/rxmVqEJBAj1B/mZmV7K0/550x478.jpg",
       "synced": "2026-11-27",
+      "ph_ean": "6970135034772",
       "ph": {
-        "2026-10-24": 614.0,
-        "2026-10-25": 614.0,
-        "2026-10-26": 614.0,
-        "2026-10-27": 614.0,
-        "2026-10-28": 614.0,
-        "2026-10-29": 614.0,
-        "2026-10-30": 599.0,
-        "2026-10-31": 599.0,
-        "2026-11-01": 599.0,
-        "2026-11-02": 599.0,
-        "2026-11-03": 599.0,
-        "2026-11-04": 629.0,
-        "2026-11-05": 599.0,
-        "2026-11-06": 599.0,
-        "2026-11-07": 599.0,
-        "2026-11-08": 599.0,
-        "2026-11-09": 599.0,
-        "2026-11-10": 614.0,
-        "2026-11-11": 614.0,
-        "2026-11-12": 627.0,
-        "2026-11-13": 627.0,
-        "2026-11-14": 673.0,
-        "2026-11-16": 519.0,
-        "2026-11-17": 519.0,
-        "2026-11-18": 519.0,
-        "2026-11-19": 519.0,
-        "2026-11-20": 519.0,
-        "2026-11-21": 519.0,
-        "2026-11-22": 519.0,
-        "2026-11-23": 519.0,
-        "2026-11-24": 519.0,
-        "2026-11-25": 519.0,
-        "2026-11-26": 519.0,
-        "2026-11-27": 519.0
+        "2026-11-27": 649.95
       },
-      "low_price": 519.0,
-      "prev_price": 673.0,
-      "prev_date": "2026-11-14",
-      "ph_ean": "6970135034789",
-      "rating": 4.3
+      "low_price": 649.95
     },
     {
       "brand": "Worx",
@@ -854,5 +818,13 @@
     }
   ],
   "published": "2026-10-14",
-  "noindex": true
+  "noindex": true,
+  "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "Ecovacs GOAT O800 RTK",
+      "in": "Ecovacs GOAT O1200 RTK",
+      "waarom": "kleinere O800 niet meer leverbaar bij bol"
+    }
+  ]
 }

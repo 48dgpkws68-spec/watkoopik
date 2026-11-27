@@ -2778,19 +2778,25 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "nr1",
+    "van": "Xiaomi Redmi Note 17 Pro 5G 6/256GB",
+    "naar": "Honor 400 5G 8/256GB"
    }
   ],
-  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
+  "_tot": "e9cacc327769da3c28156878fbd5ee2d362864c5",
   "_ps": [
-   {
-    "brand": "Xiaomi",
-    "name": "Redmi Note 17 Pro 5G 6/256GB",
-    "ean": "6939093009383"
-   },
    {
     "brand": "Honor",
     "name": "400 5G 8/256GB",
     "ean": "6936520867585"
+   },
+   {
+    "brand": "Xiaomi",
+    "name": "Redmi Note 17 Pro 5G 6/256GB",
+    "ean": "6939093009383"
    },
    {
     "brand": "Samsung",

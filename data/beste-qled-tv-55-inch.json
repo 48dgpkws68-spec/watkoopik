@@ -38,7 +38,7 @@
     },
     {
       "h": "Wat kost een QLED-tv van 55 inch?",
-      "p": "Bij bol begint een QLED van 55 inch van een bekend merk nu op 399 euro met de Hisense 55E7S. Tussen 430 en 455 euro vind je de CHiQ, Xiaomi, TCL 55P79L en Philips 55PQS7801. Voor 499 euro krijg je 144 Hz, voor 549 euro Mini LED bij Hisense en TCL. Ambilight kost 589 euro en de Neo QLED van Samsung 799 euro. Ter vergelijking: een OLED-tv van 55 inch begint bij bol op 799 euro."
+      "p": "Bij bol begint een QLED van 55 inch van een bekend merk nu op 399 euro met de Hisense 55E7S. Tussen 430 en 450 euro vind je de CHiQ, Xiaomi, LG 55QNED84A6C en Sharp Aquos 55HP5265. Voor 499 euro krijg je 144 Hz, voor 549 euro Mini LED bij Hisense en TCL. Ambilight kost 589 euro en de Neo QLED van Samsung 799 euro. Ter vergelijking: een OLED-tv van 55 inch begint bij bol op 799 euro."
     },
     {
       "h": "Gewone QLED of QLED met Mini LED?",
@@ -54,7 +54,7 @@
     },
     {
       "h": "Dolby Vision, HDR10+ en het smart-tv-systeem",
-      "p": "Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video gebruikt HDR10+. Hisense en de Philips 55PQS8601 spelen beide af. Samsung, de Philips 55PQS7801 en Xiaomi doen alleen HDR10+, TCL en CHiQ alleen Dolby Vision. Bij het systeem hebben Google TV en Tizen het grootste app-aanbod. VIDAA van Hisense en Titan OS van Philips hebben de grote diensten, maar controleer vooraf de app van je tv-aanbieder."
+      "p": "Netflix en Disney+ gebruiken vooral Dolby Vision, Prime Video gebruikt HDR10+. Hisense en de Philips 55PQS8601 spelen beide af. Samsung en Xiaomi doen alleen HDR10+, TCL, CHiQ en Sharp alleen Dolby Vision. Bij de LG 55QNED84A6C noemt bol geen van beide. Bij het systeem hebben Google TV en Tizen het grootste app-aanbod. VIDAA van Hisense en Titan OS van Philips hebben de grote diensten, maar controleer vooraf de app van je tv-aanbieder."
     }
   ],
   "faq": [
@@ -151,7 +151,7 @@
         "VIDAA mist enkele kleinere apps"
       ],
       "ideal": "Wie voor 400 euro een QLED van 55 inch wil voor tv, series en films.",
-      "text": "De Hisense 55E7S laat zien hoe ver de prijs van QLED is gezakt. Voor 399 euro koop je een 55 inch scherm uit 2026 met quantum dots. Kleuren ogen daardoor voller dan op een gewone led-tv van hetzelfde bedrag, vooral bij natuurdocumentaires, sport en animatiefilms. Hij speelt Dolby Vision en HDR10+ af en heeft Dolby Atmos. Dat is in deze prijsklasse niet vanzelfsprekend: de Philips 55PQS7801 en de Xiaomi verderop in deze lijst missen Dolby Vision.\n\nJe levert in op de verlichting en de snelheid. Local dimming ontbreekt, dus de zwarte balken bij een film blijven in een donkere kamer wat grijs. Het paneel werkt op 60 Hz. Voor tv-zenders, streaming en een console op standaardinstellingen is dat genoeg en Hisense noemt bij bol VRR en ALLM. Wil je 120 beelden per seconde, dan heb je de PRO-versie van 499 euro nodig. Kijk je vooral overdag of met een lamp aan, dan merk je weinig verschil met tv's van 150 euro meer.",
+      "text": "De Hisense 55E7S laat zien hoe ver de prijs van QLED is gezakt. Voor 399 euro koop je een 55 inch scherm uit 2026 met quantum dots. Kleuren ogen daardoor voller dan op een gewone led-tv van hetzelfde bedrag, vooral bij natuurdocumentaires, sport en animatiefilms. Hij speelt Dolby Vision en HDR10+ af en heeft Dolby Atmos. Dat is in deze prijsklasse niet vanzelfsprekend: de LG 55QNED84A6C en de Xiaomi verderop in deze lijst missen Dolby Vision.\n\nJe levert in op de verlichting en de snelheid. Local dimming ontbreekt, dus de zwarte balken bij een film blijven in een donkere kamer wat grijs. Het paneel werkt op 60 Hz. Voor tv-zenders, streaming en een console op standaardinstellingen is dat genoeg en Hisense noemt bij bol VRR en ALLM. Wil je 120 beelden per seconde, dan heb je de PRO-versie van 499 euro nodig. Kijk je vooral overdag of met een lamp aan, dan merk je weinig verschil met tv's van 150 euro meer.",
       "ean": "6942351431352",
       "bol_title": "Hisense 55E7S SmartTV - 55 inch - 4K Hi-QLED - 2026 - Hi-QLED Colour - Dolby Vision Atmos - AI 4K Upscaler - AI Smooth Motion - Game Mode Plus - Filmmaker Mode",
       "url": "https://www.bol.com/nl/nl/p/hisense-55e7s-smarttv-55-inch-4k-hi-qled-2026-hi-qled-colour-dolby-vision-atmos-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-filmmaker-mode/9300000269685073/",
@@ -370,85 +370,83 @@
       "synced": "2026-11-27"
     },
     {
-      "brand": "TCL",
-      "name": "55P79L",
+      "brand": "Sharp",
+      "name": "Aquos 55HP5265",
       "price": 449.0,
       "score": 8.2,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 5,0 van 5",
       "oneliner": "Gewone QLED met Google TV en Dolby Vision.",
       "specs": {
         "Paneel": "QLED",
         "Local dimming": "Nee",
         "Verversing": "60 Hz",
-        "HDR": "Dolby Vision, HDR10",
+        "HDR": "Dolby Vision, HDR10, HLG",
         "Smart-tv": "Google TV"
       },
       "pros": [
-        "Google TV met alle grote streamingapps",
-        "Dolby Vision",
-        "Quantum dots voor vollere kleuren",
-        "HDMI 2.1 met eARC"
+        "Google TV met de grootste appwinkel",
+        "Dolby Vision en Dolby Atmos",
+        "Vier HDMI-poorten, HDMI 2.1 met eARC",
+        "Bol-score van 5,0 van 5"
       ],
       "cons": [
-        "Geen local dimming",
-        "Maximaal 60 Hz",
-        "Geluid van 20 watt is basaal"
+        "Geen VRR volgens bol",
+        "Geen HDR10+",
+        "Geen local dimming"
       ],
-      "ideal": "Wie een QLED van een bekend merk met Google TV wil en niet gamet op 120 Hz.",
-      "text": "De TCL 55P79L is een QLED-tv van 55 inch uit 2026 voor 449 euro. Quantum dots maken de kleuren voller dan bij een gewone led-tv en de AiPQ-processor past helderheid, scherpte en beweging automatisch aan. Dolby Vision en HDR10 worden ondersteund, dus series op Netflix en Disney+ tonen hun HDR-versie. De verlichting heeft geen Mini LED of dimzones. In een donkere kamer is zwart daardoor minder diep dan bij de TCL 55T8D van 100 euro meer.\n\nZijn sterkste punt is de software. Google TV bundelt alle grote streamingapps op één startscherm, heeft Chromecast ingebouwd en je zoekt met je stem. Tegenover de Hisense 55E7S van 399 euro is dat het enige echte voordeel: het paneel is vergelijkbaar en allebei draaien ze op 60 Hz. Je betaalt dus 50 euro extra voor Google TV. Heb je daar een app voor nodig die VIDAA mist, dan is dat het waard. Het geluid van 20 watt is basaal, reken voor films op een soundbar.",
-      "ean": "5901292531355",
-      "bol_title": "TCL 55P79L - 55 inch - 4K QLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-55p79l-55-inch-4k-qled-2026-smart-tv/9300000273452839/",
-      "image": "https://media.s-bol.com/gg9nk6G8jgWl/OyDl6QN/550x345.jpg",
+      "ideal": "Wie vooral streamt en een 55 inch QLED met Google TV en Dolby Vision wil.",
+      "text": "De Sharp Aquos 55HP5265 is een 55 inch QLED uit 2025 en kost 449 euro. Sharp is als tv-merk minder zichtbaar dan Samsung of LG, maar bestaat al tientallen jaren. Het paneel heeft quantum dots, door Sharp Q-Colour genoemd, voor vollere kleuren dan een gewone led-tv. Voor HDR speelt hij Dolby Vision, HDR10 en HLG af. HDR10+ staat er niet bij. De verlichting is direct-led zonder local dimming, dus zwart oogt in een donkere kamer wat grijzig.\n\nGoogle TV is het sterkste punt. Je krijgt de grootste appwinkel, Google Cast vanaf je telefoon en persoonlijke aanbevelingen op het startscherm. Bol noemt vier HDMI-poorten, HDMI 2.1 met eARC, bluetooth en speakers van 24 watt met Dolby Atmos en DTS:X. Het ontwerp is randloos. Voor gamers is hij minder geschikt: het paneel werkt op 60 Hz en VRR ontbreekt volgens bol. Bol noemt energielabel F en 73 watt. De bol-score is 5,0 van 5. Kies de Sharp als je Google TV en Dolby Vision wilt op 55 inch en niet op een console speelt.",
+      "rating": 5.0,
+      "ean": "5905683272896",
+      "bol_title": "Sharp Aquos 55HP5265 - 55 inch 4K UHD QLED met Google TV",
+      "url": "https://www.bol.com/nl/nl/p/sharp-aquos-55hp5265-55-inch-4k-uhd-qled-met-google-tv/9300000237520495/",
+      "image": "https://media.s-bol.com/Dn3Ek0PjJVkA/983gy8J/550x342.jpg",
       "ph": {
-        "2026-11-26": 449.0,
         "2026-11-27": 449.0
       },
       "low_price": 449.0,
-      "ph_ean": "5901292531355",
-      "rating": 4.4,
+      "ph_ean": "5905683272896",
       "synced": "2026-11-27"
     },
     {
-      "brand": "Philips",
-      "name": "55PQS7801/12",
-      "price": 452.54,
+      "brand": "LG",
+      "name": "55QNED84A6C",
+      "price": 445.95,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
-      "oneliner": "Philips-QLED zonder Ambilight, met rustige beeldverwerking.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "QNED van LG: quantum dots met webOS voor rond 446 euro.",
       "specs": {
-        "Paneel": "QLED",
-        "Local dimming": "Nee",
+        "Paneel": "QNED (quantum dots met NanoCell)",
+        "Local dimming": "Niet opgegeven",
         "Verversing": "60 Hz",
-        "HDR": "HDR10+, HLG",
-        "Smart-tv": "Titan OS"
+        "HDR": "HDR10, HLG",
+        "Smart-tv": "webOS 25"
       },
       "pros": [
-        "Rustige, natuurlijke beeldverwerking",
-        "VRR, ALLM en Gamebar",
-        "Dolby Atmos en DTS:X",
-        "Model uit 2026"
+        "Quantum dots voor rijkere kleuren dan een gewone led-tv",
+        "webOS 25 met alle Nederlandse apps",
+        "VRR via HDMI 2.1 met FreeSync (opgave bol)",
+        "Bol-score van 5,0 van 5"
       ],
       "cons": [
-        "Geen Ambilight",
-        "Geen Dolby Vision volgens bol",
-        "Titan OS heeft een beperkt aantal apps"
+        "Geen Dolby Vision en geen HDR10+",
+        "Edge-lit verlichting, zwart oogt grijzig in het donker",
+        "Paneel van 60 Hz"
       ],
-      "ideal": "Wie een Philips-QLED wil en Ambilight niet nodig heeft.",
-      "text": "De Philips 55PQS7801/12 is de QLED van Philips zonder Ambilight en kost bij bol ongeveer 453 euro. Het is een model uit 2026 met quantum dots voor volle kleuren. Philips staat bekend om een rustige beeldverwerking: huidtinten blijven natuurlijk en beweging oogt vloeiend zonder het kunstmatige soapeffect. Bij voetbal en series is dat prettig. Voor het geluid zijn er Dolby Atmos en DTS:X en voor een console noemt Philips VRR, ALLM en een gamebalk.\n\nOp HDR is hij zuiniger uitgerust dan de concurrentie. Bol noemt HDR10+ en HLG, maar geen Dolby Vision. De Hisense 55E7S speelt beide formaten af en is ruim 50 euro goedkoper. Local dimming ontbreekt en het paneel werkt op 60 Hz. Titan OS heeft Netflix, YouTube, Prime Video, NPO Start en Videoland, maar minder apps dan Google TV. Kies deze tv vooral als je de beeldstijl van Philips mooi vindt. Wil je Ambilight erbij, dan kost de 55PQS8601 ongeveer 135 euro meer.",
-      "ean": "8718863051672",
-      "bol_title": "Philips 55PQS7801/12 - 55 inch - 4K QLED - 2026",
-      "url": "https://www.bol.com/nl/nl/p/philips-55pqs7801-12-55-inch-4k-qled-2026/9300000354155810/",
-      "image": "https://media.s-bol.com/74KYxQonpnVA/NLBODKN/550x247.jpg",
+      "ideal": "Wie een 55 inch van LG wil met quantum dots en de software van webOS.",
+      "text": "LG gebruikt de naam QLED niet. De 55QNED84A6C is een QNED: een led-paneel met quantum dots en NanoCell, dezelfde kleurtechniek onder een andere naam. Hij kost rond de 446 euro. Rood en groen ogen voller dan bij een gewone led-tv. De α7-processor schaalt tv-zenders netjes op naar 4K en houdt huidtinten natuurlijk.\n\nHet grootste verschil met de andere merken in deze prijsklasse zit in de software. webOS 25 is snel, krijgt lang updates en heeft alle apps die je hier gebruikt, van NPO Start tot Ziggo GO en Videoland. De Magic Remote werkt als een muisaanwijzer, dus zoeken in apps gaat vlot. Er zijn ook minpunten. De verlichting is volgens bol edge-lit, dus in een donkere kamer is zwart eerder donkergrijs. Voor HDR staan alleen HDR10 en HLG vermeld: Dolby Vision en HDR10+ ontbreken. Het paneel draait op 60 Hz, met VRR via HDMI 2.1. De bol-score is 5,0 van 5. Kies hem om webOS en het merk, niet om de HDR-formaten.",
+      "rating": 5.0,
+      "ean": "8806096353134",
+      "bol_title": "LG 55QNED84A6C - 55 inch - 4K QNED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/lg-55qned84a6c-aeu-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000241396599/",
+      "image": "https://media.s-bol.com/rDv0ypOvr194/mwXyWPO/550x337.jpg",
       "ph": {
-        "2026-11-26": 452.54,
-        "2026-11-27": 452.54
+        "2026-11-27": 445.95
       },
-      "low_price": 452.54,
-      "ph_ean": "8718863051672",
-      "rating": 4.7,
+      "low_price": 445.95,
+      "ph_ean": "8806096353134",
       "synced": "2026-11-27"
     },
     {
@@ -478,7 +476,7 @@
         "120 Hz-stand zonder opgave van de resolutie"
       ],
       "ideal": "Wie Google TV in een strakke behuizing wil en vooral streamt.",
-      "text": "De Xiaomi TV A Pro 2026 is een QLED-tv van 55 inch met Google TV voor ongeveer 438 euro. Het paneel heeft quantum dots, waardoor kleuren voller zijn dan op een gewone led-tv. HDR10+ en Filmmaker Mode zijn aanwezig. De metalen behuizing met dunne randen ziet er strakker uit dan je bij deze prijs verwacht. Google TV geeft je alle Nederlandse streamingdiensten, spraakbediening en ingebouwde Chromecast.\n\nBij deze tv moet je de opgave goed lezen. In de titel bij bol staat 120 Hz gaming, maar het paneel werkt standaard op 60 Hz en schakelt volgens Xiaomi bij een HDMI-signaal naar 120 Hz. Op welke resolutie dat gebeurt, staat er niet bij. Bol vermeldt ook geen VRR en geen Dolby Vision. Voor gamers is de Hisense 55E7S PRO daarom een veiligere keuze. Local dimming ontbreekt en het energielabel is F. Stream je vooral en wil je Google TV, dan is de TCL 55P79L van 449 euro het alternatief met Dolby Vision.",
+      "text": "De Xiaomi TV A Pro 2026 is een QLED-tv van 55 inch met Google TV voor ongeveer 438 euro. Het paneel heeft quantum dots, waardoor kleuren voller zijn dan op een gewone led-tv. HDR10+ en Filmmaker Mode zijn aanwezig. De metalen behuizing met dunne randen ziet er strakker uit dan je bij deze prijs verwacht. Google TV geeft je alle Nederlandse streamingdiensten, spraakbediening en ingebouwde Chromecast.\n\nBij deze tv moet je de opgave goed lezen. In de titel bij bol staat 120 Hz gaming, maar het paneel werkt standaard op 60 Hz en schakelt volgens Xiaomi bij een HDMI-signaal naar 120 Hz. Op welke resolutie dat gebeurt, staat er niet bij. Bol vermeldt ook geen VRR en geen Dolby Vision. Voor gamers is de Hisense 55E7S PRO daarom een veiligere keuze. Local dimming ontbreekt en het energielabel is F. Stream je vooral en wil je Google TV, dan is de Sharp Aquos 55HP5265 van 449 euro het alternatief met Dolby Vision.",
       "ean": "6941948705722",
       "bol_title": "Xiaomi TV A Pro 2026 55 inch | 4K QLED Google TV | HDR10+ & Filmmaker Mode | 120Hz gaming | Dolby Audio & DTS-X | 94% DCI-P3 | AirPlay, Google Cast & Miracast | Google Assistant",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-tv-a-pro-2026-55-inch-4k-qled-tv/9300000231444129/",
@@ -494,6 +492,18 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "TCL 55P79L",
+      "in": "Sharp Aquos 55HP5265",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-27",
+      "uit": "Philips 55PQS7801/12",
+      "in": "LG 55QNED84A6C",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-27",
       "uit": "Samsung QE55QN82H",

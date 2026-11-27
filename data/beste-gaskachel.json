@@ -348,50 +348,44 @@
       "synced": "2026-11-27"
     },
     {
-      "brand": "MONZANA",
+      "brand": "SMH LINE",
       "name": "Mobiele Gaskachel 4200 W",
-      "price": 87.99,
+      "price": 90.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 3,4 van 5",
-      "oneliner": "Keramische straler van 4,2 kW met drie standen en zwenkwielen.",
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Keramische straler van 4,2 kW met slang en drukregelaar in de doos.",
       "specs": {
         "Vermogen": "4,2 kW",
-        "Geschikt tot": "niet opgegeven",
+        "Geschikt tot": "20 tot 60 m³ volgens verkoper",
         "Standen": "3",
-        "Gasfles": "tot 13 kg",
+        "Gasfles": "13 of 15 kg, bol noemt beide",
         "Beveiliging": "ODS, omval, oververhitting"
       },
       "pros": [
         "Drie standen: 1,5, 2,9 en 4,2 kW",
-        "Drie keramische verwarmingsplaten",
-        "Vier wielen en inklapbare zijwanden",
+        "Slang en drukregelaar meegeleverd",
+        "Vier wielen, handgrepen en inklapbare zijwanden",
         "Beveiliging tegen kantelen, oververhitting en zuurstoftekort"
       ],
       "cons": [
-        "Slang en regelaar zijn voor Duitsland, voor Nederland heb je een adapter nodig",
-        "Bol-score van 3,4 is matig",
+        "Controleer of de drukregelaar op een Nederlandse gasfles past",
+        "Omschrijving bij bol noemt 13 en 15 kg als grootste gasfles",
         "Geen vlameffect of sfeer"
       ],
-      "ideal": "Wie een garage, schuur of werkplaats goedkoop wil verwarmen en zelf een gasadapter regelt.",
-      "text": "De MONZANA GH4500 is een klassieke straler met drie keramische verwarmingsplaten. Je kiest uit drie standen: 1500, 2900 of 4200 watt. Hij werkt op propaan, butaan of een mengsel en is geschikt voor gasflessen tot 13 kg. Ontsteken gaat met een piëzo-knop, zodat je geen aansteker nodig hebt.\n\nEen slang met drukregelaar zit in de doos, maar die is gemaakt voor Duitsland, Oostenrijk, Zwitserland en Slowakije. Voor een Nederlandse gasfles heb je een Europese gasadapter nodig die niet wordt meegeleverd. Reken die kosten mee. De kachel meet 42 bij 38 bij 72 centimeter, rijdt op vier wielen en de zijwanden klappen in als je hem opbergt. MONZANA noemt een sensor voor zuurstoftekort, kantelbeveiliging en beveiliging tegen oververhitting. Kopers geven hem bij bol een 3,4 van 5. Een vlameffect ontbreekt. Voor een werkplaats, schuur of garage met goede ventilatie is dat geen bezwaar.",
-      "ean": "4251776934532",
-      "bol_title": "MONZANA Mobiele Gaskachel – 3 Warmteniveaus 4200W – Keramisch Zwart",
-      "url": "https://www.bol.com/nl/nl/p/monzana-mobiele-gaskachel-3-warmteniveaus-4500w-keramisch-zwart/9300000163543376/",
-      "image": "https://media.s-bol.com/gGAJBZnE59Qj/qg6Mv2/550x550.jpg",
+      "ideal": "Wie een garage, schuur of werkplaats goedkoop wil verwarmen met een kachel die compleet in de doos zit.",
+      "text": "De SMH LINE gaskachel is een klassieke straler met drie keramische verwarmingsplaten. Je kiest uit drie standen: 1,5, 2,9 of 4,2 kW. Hij werkt op propaan of butaan en ontsteken gaat met een piëzo-knop, zodat je geen aansteker of batterijen nodig hebt. Volgens de verkoper verbruikt hij 109 gram gas per uur op de laagste stand en 305 gram op de hoogste. Met een fles van 15 kg stook je dan ongeveer 49 uur op vol vermogen.\n\nEen slang met drukregelaar zit in de doos. De omschrijving bij bol zegt niet voor welke landen die regelaar bedoeld is, dus controleer bij aankomst of hij op je Nederlandse gasfles past. Ook over de grootste fles is de tekst niet eenduidig: er staat zowel 13 als 15 kg. De kachel rijdt op vier wielen, heeft handgrepen en de zijwanden klappen in als je hem opbergt. Er zit een sensor voor zuurstoftekort op, plus kantelbeveiliging en thermische beveiliging. Kopers geven hem bij bol een 4,5 van 5. Een vlameffect ontbreekt. Voor een werkplaats, schuur of garage met goede ventilatie is dat geen bezwaar.",
+      "ean": "8721321960669",
+      "url": "https://www.bol.com/nl/nl/p/smh-line-gaskachel-mobiele-gaskachel-4200w-3-standen-piezo-incl-slang-en-drukregelaar/9300000256285314/",
+      "image": "https://media.s-bol.com/NvY2jqQml3KK/1jRX65Z/550x501.jpg",
+      "bol_title": "SMH LINE® Gaskachel - Mobiele Gaskachel - 4200W - 3 standen - Piëzo - Incl. Slang en Drukregelaar",
+      "rating": 4.5,
       "ph": {
-        "2026-11-23": 85.99,
-        "2026-11-24": 85.99,
-        "2026-11-25": 85.99,
-        "2026-11-26": 87.99,
-        "2026-11-27": 87.99
+        "2026-11-27": 90.0
       },
-      "low_price": 85.99,
-      "ph_ean": "4251776934532",
-      "rating": 3.4,
-      "synced": "2026-11-27",
-      "prev_price": 85.99,
-      "prev_date": "2026-11-25"
+      "low_price": 90.0,
+      "ph_ean": "8721321960669",
+      "synced": "2026-11-27"
     },
     {
       "brand": "Eurocatch",
@@ -715,6 +709,12 @@
     "beste-elektrische-openhaard"
   ],
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "MONZANA Mobiele Gaskachel 4200 W",
+      "in": "SMH LINE Mobiele Gaskachel 4200 W",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-23",
       "uit": "Eurocatch Mobiele Gaskachel 4200 W",

@@ -19,7 +19,7 @@
   "published": "2026-10-24",
   "reviews_total": "",
   "intro": "Een keukencadeau valt bijna altijd goed: het wordt elke dag gebruikt en blijft jaren staan. Wij zetten tien apparaten en gadgets tot ongeveer 150 euro op een rij, van een airfryer met twee manden tot een draadloze vleesthermometer. We vergeleken specificaties, prijzen en gebruikersreviews op bol. Handig voor Sinterklaas of Kerst. Wil je wachten op Black Friday op 27 november 2026? Houd dan de prijzen in de gaten, maar reken niet op een vaste korting.",
-  "verdict": "De Ninja AF200EU dubbele airfryer is het beste keukencadeau omdat hij twee gerechten tegelijk klaarmaakt en bij bijna iedereen dagelijks gebruikt wordt. De Philips 1000 Series NA130 is de beste prijs-kwaliteit: groot, van een bekend merk en voor minder dan 80 euro. Voor wie iets bijzonders wil geven is de SMEG KLF03 waterkoker de premium keuze, een apparaat dat ook als decoratie op het aanrecht staat.",
+  "verdict": "De Ninja AF200EU dubbele airfryer is het beste keukencadeau omdat hij twee gerechten tegelijk klaarmaakt en bij bijna iedereen dagelijks gebruikt wordt. De Philips 1000 Series NA120 is de beste prijs-kwaliteit: compact, van een bekend merk en voor minder dan 80 euro. Voor wie iets bijzonders wil geven is de SMEG KLF03 waterkoker de premium keuze, een apparaat dat ook als decoratie op het aanrecht staat.",
   "products": [
     {
       "brand": "Ninja",
@@ -81,43 +81,41 @@
     },
     {
       "brand": "Philips",
-      "name": "1000 Series Airfryer NA130/00 6,2 l",
-      "price": 68.2,
+      "name": "1000 Series Airfryer NA120/00 4,2 l",
+      "price": 76.6,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
-      "oneliner": "Ruime airfryer van 6,2 liter voor weinig geld.",
+      "reviews": "bol-score 4,6 van 5",
+      "oneliner": "Compacte Philips-airfryer van 4,2 liter voor weinig geld.",
       "specs": {
         "Soort": "Airfryer",
-        "Voor wie": "Tot 5 personen",
-        "Formaat": "6,2 l",
+        "Voor wie": "Tot 4 personen",
+        "Formaat": "4,2 l",
         "Stroom": "1700 W"
       },
       "pros": [
-        "Ruime mand van 6,2 liter",
+        "Mand van 4,2 liter voor tot vier personen",
         "Twaalf bereidingsmethoden",
         "Onderdelen vaatwasserbestendig",
         "Scherpe prijs voor een Philips"
       ],
       "cons": [
         "Eén mand, dus geen twee gerechten tegelijk",
-        "Geen app",
-        "Bol-score van 4,0 is lager dan bij de Ninja"
+        "Draaiknoppen, geen display of bediening via een app",
+        "Voor een gezin van vijf te klein"
       ],
-      "ideal": "Wie een grote airfryer zoekt voor een prijs onder de 80 euro.",
-      "text": "Philips vond de airfryer ooit uit en de 1000 Series laat zien dat een grote airfryer niet duur hoeft te zijn. De NA130 heeft een mand van 6,2 liter, genoeg voor een gezin van vier of vijf personen. Met 1700 watt en de RapidAir-techniek van Philips circuleert hete lucht rond het eten, zodat friet en kip krokant worden met weinig of geen olie.\n\nJe stelt zelf tijd en temperatuur in en Philips noemt twaalf bereidingsmethoden, van frituren en bakken tot grillen, opwarmen, ontdooien en drogen. De losse onderdelen mogen in de vaatwasser. Een app heeft dit instapmodel niet. Op bol staat hij op gemiddeld 4,0 van 5, wat lager is dan bij de dubbele Ninja bovenaan deze lijst. Wie twee gerechten tegelijk wil maken kiest ook beter die dubbele airfryer. Voor de meeste mensen is dit een cadeau met een uitstekende prijs per gebruik: veel inhoud van een bekend merk voor rond de 70 euro.",
-      "ean": "8720389033780",
-      "reviews": "bol-score 4,0 van 5",
-      "rating": 4.0,
-      "bol_title": "Philips 1000 series NA130/00 Airfryer - 6,2 liter",
-      "url": "https://www.bol.com/nl/nl/p/philips-1000-series-na130-00-airfryer-1000-serie-6-2-liter/9300000177050952/",
-      "image": "https://media.s-bol.com/oqWZDOn3jkEk/9QNKOOY/550x510.jpg",
+      "ideal": "Wie een airfryer van een bekend merk zoekt voor een prijs onder de 80 euro.",
+      "text": "Philips vond de airfryer ooit uit en de 1000 Series laat zien dat een goede airfryer niet duur hoeft te zijn. De NA120 heeft een mand van 4,2 liter, volgens Philips genoeg voor maximaal vier personen. Met 1700 watt en de RapidAir-techniek circuleert hete lucht rond het eten, zodat friet en kip krokant worden met weinig of geen olie. Bol noemt een capaciteit van 900 gram friet.\n\nJe stelt tijd en temperatuur in met draaiknoppen, van 80 tot 200 graden. Philips noemt twaalf bereidingsmethoden, waaronder frituren, bakken, grillen en roosteren. Recepten vind je in de HomeID-app, maar de airfryer zelf bedien je niet via je telefoon. De losse onderdelen mogen in de vaatwasser. Op bol staat hij op gemiddeld 4,6 van 5. Wie twee gerechten tegelijk wil maken kiest beter de dubbele Ninja bovenaan deze lijst. Voor de meeste mensen is dit een cadeau met een uitstekende prijs per gebruik: een bekend merk voor rond de 67 euro.",
+      "ean": "8720389033827",
+      "url": "https://www.bol.com/nl/nl/p/philips-1000-series-airfryer-na120-00-4-2-l/9300000171550611/",
+      "image": "https://media.s-bol.com/Nm1WxmpXjg0v/PNoY5V4/550x525.jpg",
+      "bol_title": "Philips 1000 Series Airfryer - NA120/00 - Draaiknopbediening - 4.2L - Tot 4 Personen - Zwart",
+      "rating": 4.6,
       "ph": {
-        "2026-11-25": 68.2,
-        "2026-11-26": 68.2,
-        "2026-11-27": 68.2
+        "2026-11-27": 76.6
       },
-      "low_price": 68.2,
-      "ph_ean": "8720389033780",
+      "low_price": 76.6,
+      "ph_ean": "8720389033827",
       "synced": "2026-11-27"
     },
     {
@@ -703,6 +701,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "Philips 1000 Series Airfryer NA130/00 6,2 l",
+      "in": "Philips 1000 Series Airfryer NA120/00 4,2 l",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-25",
       "uit": "Philips 2000 Series Airfryer NA230/00 6,2 l",

@@ -394,44 +394,43 @@
       "rating": 5.0
     },
     {
-      "brand": "TCL",
-      "name": "55P79L",
+      "brand": "Sharp",
+      "name": "Aquos 55HP5265",
       "price": 449.0,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
-      "oneliner": "QLED uit 2026 met Google TV en Dolby Vision.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "QLED uit 2025 met Google TV en Dolby Vision.",
       "specs": {
         "Paneel": "QLED",
         "Verversing": "60 Hz",
-        "HDR": "Dolby Vision, HDR10+, HLG",
+        "HDR": "Dolby Vision, HDR10, HLG",
         "Smart-tv": "Google TV",
         "Stroomverbruik (SDR)": "klasse F (EU-label)"
       },
       "pros": [
-        "Quantum dots voor vollere kleuren",
-        "Google TV met Chromecast",
-        "Dolby Vision",
-        "VRR via HDMI 2.1"
+        "Google TV met de grootste appwinkel",
+        "Dolby Vision en Dolby Atmos",
+        "Vier HDMI-poorten, HDMI 2.1 met eARC",
+        "Bol-score van 5,0 van 5"
       ],
       "cons": [
-        "Geen local dimming",
-        "Maximaal 60 Hz",
-        "Energieklasse F"
+        "Geen VRR volgens bol",
+        "Geen HDR10+",
+        "Geen local dimming"
       ],
-      "ideal": "Wie een QLED met Google TV van een bekend merk wil en niet op 120 Hz gamet.",
-      "text": "De TCL 55P79L is een QLED van 55 inch uit 2026 en kost rond de 449 euro. Quantum dots maken kleuren voller dan bij een gewone led-tv en de AiPQ-processor stelt helderheid, scherpte en beweging automatisch bij. Dolby Vision is aanwezig, zodat series op Netflix en Disney+ hun HDR-versie tonen. De verlichting zit direct achter het scherm, zonder dimzones. In een donkere kamer is zwart daardoor grijzer dan bij de Mini LED-modellen van CHiQ en Samsung hoger in deze lijst.\n\nDe reden om hem te kiezen is Google TV. Je krijgt de grootste appwinkel, Chromecast ingebouwd en je zoekt met je stem. Het paneel haalt maximaal 60 Hz. Via HDMI 2.1 is er wel VRR, genoeg voor wie af en toe op een console speelt. Tegenover de Hisense 55E7S op nummer 2 betaal je 50 euro meer voor een vergelijkbaar paneel. Dat is het alleen waard als je Google TV boven VIDAA verkiest. Het EU-label geeft klasse F. Kopers op bol geven hem gemiddeld 4,4 van de 5.",
-      "ean": "5901292531355",
-      "bol_title": "TCL 55P79L - 55 inch - 4K QLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-55p79l-55-inch-4k-qled-2026-smart-tv/9300000273452839/",
-      "image": "https://media.s-bol.com/gg9nk6G8jgWl/OyDl6QN/550x345.jpg",
+      "ideal": "Wie vooral streamt en een 55 inch QLED met Google TV en Dolby Vision wil.",
+      "text": "De Sharp Aquos 55HP5265 is een 55 inch QLED uit 2025 en kost 449 euro. Sharp is als tv-merk minder zichtbaar dan Samsung of LG, maar bestaat al tientallen jaren. Het paneel heeft quantum dots, door Sharp Q-Colour genoemd, voor vollere kleuren dan een gewone led-tv. Voor HDR speelt hij Dolby Vision, HDR10 en HLG af. HDR10+ staat er niet bij. De verlichting is direct-led zonder local dimming, dus zwart oogt in een donkere kamer wat grijzig.\n\nGoogle TV is het sterkste punt. Je krijgt de grootste appwinkel, Google Cast vanaf je telefoon en persoonlijke aanbevelingen op het startscherm. Bol noemt vier HDMI-poorten, HDMI 2.1 met eARC, bluetooth en speakers van 24 watt met Dolby Atmos en DTS:X. Het ontwerp is randloos. Voor gamers is hij minder geschikt: het paneel werkt op 60 Hz en VRR ontbreekt volgens bol. Bol noemt energielabel F en 73 watt. De bol-score is 5,0 van 5. Kies de Sharp als je Google TV en Dolby Vision wilt op 55 inch en niet op een console speelt.",
+      "rating": 5.0,
+      "ean": "5905683272896",
+      "bol_title": "Sharp Aquos 55HP5265 - 55 inch 4K UHD QLED met Google TV",
+      "url": "https://www.bol.com/nl/nl/p/sharp-aquos-55hp5265-55-inch-4k-uhd-qled-met-google-tv/9300000237520495/",
+      "image": "https://media.s-bol.com/Dn3Ek0PjJVkA/983gy8J/550x342.jpg",
       "ph": {
-        "2026-11-26": 449.0,
         "2026-11-27": 449.0
       },
       "low_price": 449.0,
-      "ph_ean": "5901292531355",
-      "rating": 4.4,
+      "ph_ean": "5905683272896",
       "synced": "2026-11-27"
     },
     {
@@ -533,6 +532,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "TCL 55P79L",
+      "in": "Sharp Aquos 55HP5265",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-26",
       "uit": "Samsung UE55U7090H",

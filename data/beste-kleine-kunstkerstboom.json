@@ -231,43 +231,41 @@
     },
     {
       "brand": "Black Box Trees",
-      "name": "Nagoya 120 cm in pot met LED",
-      "price": 69.95,
+      "name": "Grimshaw 120 cm in pot met LED",
+      "price": 37.49,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,2 van 5",
       "oneliner": "Slanke boom in pot met 80 LED op batterijen en timer.",
       "specs": {
         "Hoogte": "120 cm",
         "Doorsnede": "60 cm",
-        "Takken": "212",
+        "Takken": "206",
         "Verlichting": "80 LED, batterij",
-        "Voet": "Zwarte kunststof pot"
+        "Voet": "Pot"
       },
       "pros": [
         "Werkt op 4 AA-batterijen, dus geen snoer over de vloer",
-        "Timerfunctie op de batterijdoos",
+        "Timerfunctie op de verlichting",
         "Met 60 cm doorsnede past hij in een hoek of hal",
-        "212 takken voor een slank model"
+        "Voordelig voor een verlichte boom van 120 cm"
       ],
       "cons": [
-        "Batterijen zitten er niet bij",
-        "Prijzig voor een boom van 120 cm",
-        "De zwarte basispot vraagt eigenlijk om een mand of sierpot"
+        "Batterijen moet je regelmatig vervangen of opladen",
+        "Lichtkleur ligt vast op warm wit"
       ],
       "ideal": "Wie een verlichte boom wil neerzetten op een plek zonder stopcontact, zoals een hal of kantoor.",
-      "text": "De Nagoya is de boom voor plekken waar geen stopcontact zit. De 80 warmwitte LED-lampjes werken op 4 AA-batterijen en de batterijdoos heeft een aan/uit-schakelaar met timerfunctie. Daardoor kan hij in de hal, op een overloop of bij de receptie staan zonder dat er een snoer over de vloer loopt. Batterijen worden niet meegeleverd. Oplaadbare AA's zijn hier de moeite waard, want een boom die elke avond brandt verbruikt in december meerdere setjes.\n\nDe boom zelf is 120 cm hoog en maar 60 cm breed, het slankste model van 120 cm in deze lijst. Bol geeft 212 takken op die je uitvouwt en in model brengt. Hij staat in een zwarte kunststof basispot. Die kun je zo neerzetten, maar hij is bedoeld om in een eigen bloempot of mand te plaatsen. Volgens bol weegt hij 4,9 kg, waardoor hij stevig staat. Voor 70 euro is hij niet goedkoop. Heb je wel een stopcontact, dan is de Royal Christmas voor hetzelfde geld voller.",
-      "ean": "8720983307171",
-      "bol_title": "Black Box Trees Nagoya Kunstkerstboom met Verlichting - Kerstboom H120 x 60 cm - Kunstboom in Pot met 80 LED's en Timer - 212 Takken met Realistische Uitstraling - Slank Model - Groen",
-      "url": "https://www.bol.com/nl/nl/p/black-box-trees-nagoya-kunstkerstboom-met-led-verlichting-en-timerfunctie-h120-x-o60-cm-groen/9300000240789570/",
-      "image": "https://media.s-bol.com/K4jQERROKx9Y/6XjGj6O/355x840.jpg",
+      "text": "De Grimshaw is de boom voor plekken waar geen stopcontact zit. De 80 warmwitte LED-lampjes werken op 4 AA-batterijen en hebben een timer. Daardoor kan hij in de hal, op een overloop of bij de receptie staan zonder dat er een snoer over de vloer loopt. Oplaadbare AA's zijn hier de moeite waard, want een boom die elke avond brandt verbruikt in december meerdere setjes.\n\nDe boom zelf is 120 cm hoog en maar 60 cm breed, een slank model voor een hoek of een smalle hal. Bol geeft 206 takken op van een mix van PE en PVC, die je uitvouwt en in model brengt. Hij staat in een pot, dus een losse kerstboomvoet heb je niet nodig. Wil je het mooier, dan zet je de pot in een mand of sierpot. Black Box Trees geeft 2 jaar garantie op boom en verlichting. Bij bol staat hij op 4,2 van 5. Voor rond de 37 euro is het een voordelige manier om een verlichte boom neer te zetten zonder snoer.",
+      "ean": "8720983307294",
+      "url": "https://www.bol.com/nl/nl/p/black-box-trees-grimshaw-kunstkerstboom-met-led-verlichting-op-batterijen-en-timerfunctie-h120-x-o60-cm-groen/9300000233061439/",
+      "image": "https://media.s-bol.com/rOl0wGMlK2vk/BNvL7xk/462x840.jpg",
+      "bol_title": "Black Box Trees Grimshaw Kunstkerstboom met LED-Verlichting op Batterijen en Timerfunctie- H120 x Ø60 cm - Groen",
+      "rating": 4.2,
       "ph": {
-        "2026-11-26": 69.95,
-        "2026-11-27": 69.95
+        "2026-11-27": 37.49
       },
-      "low_price": 69.95,
-      "ph_ean": "8720983307171",
-      "rating": 4.5,
+      "low_price": 37.49,
+      "ph_ean": "8720983307294",
       "synced": "2026-11-27"
     },
     {
@@ -487,10 +485,19 @@
     }
   ],
   "rel": [
+    "beste-kunstkerstboom-120-cm",
     "beste-kunstkerstboom",
     "beste-kunstkerstboom-150-cm",
     "beste-kunstkerstboom-smal",
     "beste-kunstkerstboom-met-verlichting-onder-100-euro",
     "beste-kunstkerstboom-onder-100-euro"
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "Black Box Trees Nagoya 120 cm in pot met LED",
+      "in": "Black Box Trees Grimshaw 120 cm in pot met LED",
+      "waarom": "niet meer leverbaar bij bol"
+    }
   ]
 }

@@ -15,7 +15,7 @@
   ],
   "ico": "🛏️",
   "color": "#2d9bb3",
-  "updated": "2026-10-26",
+  "updated": "2026-11-27",
   "published": "2026-10-26",
   "reviews_total": "3.300",
   "intro": "Een luchtreiniger in de slaapkamer moet vooral één ding: 's nachts stil zijn. Een apparaat dat bromt of met een fel display je kamer verlicht, zet je binnen een week uit. Daarom vergeleken wij modellen op geluid in de slaapstand, of de lampjes helemaal uit kunnen, de CADR voor een kamer van 10 tot 30 m² en de filterkosten per jaar. Dit zijn de tien beste stille luchtreinigers voor de slaapkamer, van een mini voor op het nachtkastje tot een fluisterstil topmodel.",
@@ -595,76 +595,43 @@
       "rating": 4.6
     },
     {
-      "brand": "Coway",
-      "name": "Airmega 50",
-      "price": 49.99,
+      "brand": "Philips",
+      "name": "PureProtect 500 Series AC0520/10",
+      "price": 52.9,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Goedkoopste A-merkreiniger in deze lijst met een stille slaapstand.",
+      "reviews": "",
+      "oneliner": "Kleinste Philips met een slaapstand van 12 dB en een filter dat drie jaar meegaat.",
       "specs": {
-        "CADR": "120 m³/u",
-        "Ruimte": "tot 31 m²",
-        "Geluid slaapstand": "ca. 22 dB",
-        "Lampjes uit": "ja, uitschakelbaar",
-        "Filter": "HEPA + actieve kool"
+        "CADR": "60 m³/u",
+        "Ruimte": "tot 25 m² volgens Philips",
+        "Geluid slaapstand": "12 dB",
+        "Lampjes uit": "niet opgegeven bij bol",
+        "Filter": "3-laags HEPA NanoProtect + actieve kool"
       },
       "pros": [
-        "Rond de 80 euro van een gevestigd merk",
-        "Stille slaapstand met lampjes uit",
-        "Compact en licht",
-        "Lage filterkosten"
+        "Slaapstand van 12 dB",
+        "Verbruikt maximaal 5 W",
+        "Filter gaat volgens Philips drie jaar mee",
+        "Klein en licht: 1,25 kg"
       ],
       "cons": [
-        "Beperkte CADR voor grotere slaapkamers",
-        "Geen app of luchtkwaliteitssensor"
+        "Lage CADR, alleen voor de lucht rond je bed",
+        "Geen app, timer of sensor",
+        "Nog geen score bij bol"
       ],
-      "ideal": "Wie met een klein budget een stille reiniger wil voor een slaapkamer tot 12 m².",
-      "text": "De Coway Airmega 50 is het instapmodel van Coway en de goedkoopste luchtreiniger van een gevestigd merk in deze lijst. Hij is compact genoeg voor op een ladekast of naast het bed. Met een CADR van 120 m³/u is hij geschikt voor slaapkamers tot ongeveer 12 m², waar hij de lucht zo'n vier keer per uur ververst. Coway noemt 31 m², maar dan op een tempo dat voor allergie of een benauwde kamer te laag is.\n\nIn de slaapstand zakt het geluid naar ongeveer 22 dB en gaan de lampjes uit. Er is geen app en geen sensor, dus je kiest zelf de stand. Dat maakt hem eenvoudig in gebruik. Het filter met HEPA en kool is goedkoop te vervangen. Kopers op bol geven hem een 4,5 en noemen vooral de prijs en het stille draaien. Heb je een grotere slaapkamer, kies dan de Airmega 100 die iets duurder is maar het dubbele vermogen heeft.",
-      "ean": "8809825509390",
-      "bol_title": "Coway Airmega 50 Luchtreiniger - Air Purifier – 120 m³/u - HEPA filter + koolstoffilter - Voor ruimtes tot 31m² - Tegen stof, pollen, allergenen en geuren - Fluisterstil (18 dB) - ECARF gecertificeerd",
-      "url": "https://www.bol.com/nl/nl/p/coway-luchtreiniger-airmega-50-ap-0425c-120-1-m-u-air-purifier-koolstoffilter-helpt-bij-allergie-luchtkwaliteit-sensor-stille-modus/9300000237910562/",
-      "image": "https://media.s-bol.com/qvlnWW7gkxjk/4R91Wog/550x779.jpg",
-      "ph": {
-        "2026-10-26": 79.99,
-        "2026-10-27": 79.99,
-        "2026-10-28": 79.99,
-        "2026-10-29": 79.99,
-        "2026-10-30": 79.99,
-        "2026-10-31": 79.99,
-        "2026-11-01": 79.99,
-        "2026-11-02": 79.99,
-        "2026-11-03": 79.99,
-        "2026-11-04": 79.99,
-        "2026-11-05": 79.99,
-        "2026-11-06": 79.99,
-        "2026-11-07": 79.99,
-        "2026-11-08": 79.99,
-        "2026-11-09": 79.99,
-        "2026-11-10": 79.99,
-        "2026-11-11": 79.99,
-        "2026-11-12": 79.99,
-        "2026-11-13": 79.99,
-        "2026-11-14": 79.99,
-        "2026-11-16": 79.99,
-        "2026-11-17": 79.99,
-        "2026-11-18": 79.99,
-        "2026-11-19": 79.99,
-        "2026-11-20": 49.99,
-        "2026-11-21": 49.99,
-        "2026-11-22": 49.99,
-        "2026-11-23": 49.99,
-        "2026-11-24": 49.99,
-        "2026-11-25": 49.99,
-        "2026-11-26": 49.99,
-        "2026-11-27": 49.99
-      },
-      "low_price": 49.99,
+      "ideal": "Wie met een klein budget een heel stille reiniger naast het bed wil in een kleine slaapkamer.",
+      "text": "De Philips PureProtect 500 is de kleinste luchtreiniger van Philips en de goedkoopste van een gevestigd merk in deze lijst. Hij is 27,5 cm hoog, weegt 1,25 kg en past op een nachtkastje. In de slaapstand maakt hij volgens Philips 12 dB, op de hoogste stand 38 dB. Het verbruik is maximaal 5 W. Er is een vakje voor een paar druppels etherische olie.\n\nDe capaciteit is laag. De CADR is 60 m³/u en de 25 m² die Philips noemt, geldt bij één luchtwisseling per uur. Voor een slaapkamer is ongeveer 5 tot 8 m² rond het bed realistischer. Zet hem dus dicht bij je hoofdeinde. Het filter met voorfilter, HEPA NanoProtect en actieve kool gaat volgens Philips drie jaar mee en kost bij bol rond de 18 euro. Een app, timer of sensor heeft hij niet: je kiest zelf uit slaap, medium en turbo. Bij bol heeft hij nog geen score. Heb je een grotere slaapkamer, kies dan de Coway Airmega 100 die duurder is maar vier keer zoveel lucht verplaatst.",
+      "ean": "8720389080739",
+      "bol_title": "Philips PureProtect 500 Series, Luchtreiniger - CADR 60 m3/u, Ruimtes tot 25m2, 3 Laags HEPA Filtratie, Ultrastil, Aromatherapie - Wit, AC0520/10",
+      "url": "https://www.bol.com/nl/nl/p/philips-pureprotect-500-series-luchtreiniger-cadr-60-m3-u-ruimtes-tot-25m2-3-laags-hepa-filtratie-ultrastil-aromatherapie-wit-ac0520-10/9300000330994904/",
+      "image": "https://media.s-bol.com/W4yVD4KER7l4/Mw6Y3V5/550x830.jpg",
       "synced": "2026-11-27",
-      "ph_ean": "8809825509390",
-      "rating": 4.6,
-      "prev_price": 79.99,
-      "prev_date": "2026-11-19"
+      "ph_ean": "8720389080739",
+      "ph": {
+        "2026-11-27": 52.9
+      },
+      "low_price": 52.9
     }
   ],
   "guide": [
@@ -708,7 +675,7 @@
     },
     {
       "q": "Welke luchtreiniger is het best voor een kleine slaapkamer?",
-      "a": "Voor een slaapkamer tot 12 m² zijn de Coway Airmega 50 en de Philips AC0650/10 goede keuzes. Voor een kinderkamer of logeerkamer past de Levoit Core Mini-P zelfs op het nachtkastje."
+      "a": "Voor een slaapkamer tot 12 m² is de Philips AC0650/10 een goede keuze. Voor een kinderkamer of logeerkamer past de Levoit Core Mini-P zelfs op het nachtkastje."
     },
     {
       "q": "Helpt een luchtreiniger in de slaapkamer om beter te slapen?",
@@ -728,6 +695,12 @@
   "meta_title": "Beste luchtreiniger slaapkamer 2026: stil in slaapstand",
   "meta_desc": "De beste luchtreiniger voor de slaapkamer van 2026 is de {top}. Top 10 stille HEPA-luchtreinigers vergeleken op geluid in slaapstand, CADR en filterkosten.",
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "Coway Airmega 50",
+      "in": "Philips PureProtect 500 Series AC0520/10",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-20",
       "uit": "Winix Zero-s",

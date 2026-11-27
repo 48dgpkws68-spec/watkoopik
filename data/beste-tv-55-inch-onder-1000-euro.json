@@ -285,46 +285,42 @@
     },
     {
       "brand": "Sony",
-      "name": "Bravia 5 55 inch",
-      "price": 969.0,
-      "score": 8.6,
+      "name": "BRAVIA 3 II 55 inch",
+      "price": 749.0,
+      "score": 8.5,
       "label": null,
-      "reviews": "bol-score 4,7 van 5",
-      "oneliner": "Mini LED met de natuurlijke beeldverwerking van Sony.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "Sony-beeldverwerking met 120 Hz en Google TV voor 749 euro.",
       "specs": {
-        "Paneel": "XR Mini LED",
+        "Paneel": "LED (direct-led)",
         "Verversing": "120 Hz",
-        "HDR": "Dolby Vision, HDR10, HLG",
+        "HDR": "Dolby Vision",
         "Smart-tv": "Google TV",
-        "Stroomverbruik (SDR)": "57 W · klasse E (EU-label)"
+        "Stroomverbruik (SDR)": "klasse G (EU-label)"
       },
       "pros": [
-        "XR Processor met sterke opschaling",
-        "XR Backlight Master Drive voor precieze dimming",
-        "Acoustic Multi-Audio met Voice Zoom 3",
-        "Google TV"
+        "XR-processor van Sony voor natuurlijk beeld",
+        "100 Hz-paneel, games tot 120 Hz met VRR",
+        "Google TV met alle Nederlandse apps",
+        "Dolby Vision en Dolby Atmos"
       ],
       "cons": [
-        "Met 969 euro dicht tegen de grens",
-        "Geen HDR10+"
+        "Geen Mini LED of OLED, dus minder diep zwart",
+        "Speakers van 20 watt",
+        "Energielabel G"
       ],
-      "ideal": "Wie natuurlijke kleuren en goede opschaling van tv-zenders belangrijker vindt dan specificaties.",
-      "text": "De Sony Bravia 5 kost 969 euro en is daarmee de duurste tv in deze gids. Je betaalt vooral voor de beeldverwerking. De XR Processor schaalt tv-zenders en oudere films op naar bijna 4K met weinig ruis, iets waar Sony bekend om staat. XR Mini LED met XR Backlight Master Drive stuurt de dimzones nauwkeurig aan, zodat felle delen niet uitlopen in donkere stukken. XR Triluminos Pro geeft natuurlijke huidtinten in plaats van schreeuwerige kleuren.\n\nDolby Vision en Dolby Atmos worden ondersteund, HDR10+ niet. Acoustic Multi-Audio laat het geluid uit de richting van het beeld komen en Voice Zoom 3 maakt stemmen duidelijker. Met een Sony-soundbar werkt de tv als middenluidspreker. Google TV heeft alle bekende apps. Voor gamers is er 120 Hz en VRR, al bieden TCL en Hisense voor minder geld 144 Hz. Let op: stijgt de prijs met een paar tientjes, dan zit je boven 1000 euro.",
-      "ean": "4548736171367",
-      "bol_title": "Sony Bravia 5 - 55 inch - 4K XR | MiniLED - 2025",
-      "url": "https://www.bol.com/nl/nl/p/sony-bravia-5-55-inch-4k-miniled-2025/9300000228487622/",
-      "image": "https://media.s-bol.com/JmQk5qmqJzyD/VP5N6G9/550x333.jpg",
+      "ideal": "Wie veel sport en gewone tv kijkt en de rustige beeldstijl van Sony wil zonder OLED-prijs.",
+      "text": "De Sony BRAVIA 3 II is het instapmodel van Sony uit 2026 en kost in 55 inch 749 euro. Het is een led-tv met directe achtergrondverlichting, zonder Mini LED of OLED. Wat je wel krijgt is de XR-processor van Sony. Die staat bekend om natuurlijke huidtinten en rustige bewegingsweergave, iets wat bij voetbal en schaatsen opvalt. Het paneel ververst op 100 Hz en gaat volgens bol tot 120 Hz.\n\nVoor gamers noemt bol HDMI 2.1 met VRR en vier HDMI-aansluitingen. Hoeveel daarvan de volle snelheid aankunnen, staat er niet bij. Dolby Vision en Dolby Atmos zijn aanwezig en Google TV heeft alle Nederlandse streamingdiensten. De bol-score is 5,0 van 5. Het zwart is minder diep dan bij de OLED- en Mini LED-tv's in deze lijst en de speakers leveren 20 watt. Het energielabel is G, dus zuinig is hij niet. Kies de Sony om de beeldverwerking. Wil je voor minder geld meer helderheid, dan is de Samsung UE55M82HA met Mini LED het alternatief.",
+      "rating": 5.0,
+      "ean": "4548736177703",
+      "bol_title": "Sony BRAVIA 3 II - 55 inch - 4K LED - 120Hz - 2026",
+      "url": "https://www.bol.com/nl/nl/p/sony-bravia-3-ii-55-inch-4k-led-2026/9300000269397858/",
+      "image": "https://media.s-bol.com/REoYAxB8glBq/J8gVxYy/550x338.jpg",
       "ph": {
-        "2026-11-22": 969.0,
-        "2026-11-23": 969.0,
-        "2026-11-24": 969.0,
-        "2026-11-25": 969.0,
-        "2026-11-26": 969.0,
-        "2026-11-27": 969.0
+        "2026-11-27": 749.0
       },
-      "low_price": 969.0,
-      "ph_ean": "4548736171367",
-      "rating": 4.7,
+      "low_price": 749.0,
+      "ph_ean": "4548736177703",
       "synced": "2026-11-27"
     },
     {
@@ -515,6 +511,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "Sony Bravia 5 55 inch",
+      "in": "Sony BRAVIA 3 II 55 inch",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-27",
       "uit": "Hisense 55U7SE",

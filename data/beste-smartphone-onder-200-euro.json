@@ -15,7 +15,7 @@
   ],
   "ico": "📱",
   "color": "#4a3fb3",
-  "updated": "2026-11-24",
+  "updated": "2026-11-27",
   "published": "2026-11-24",
   "google_wacht": true,
   "reviews_total": "",
@@ -36,7 +36,7 @@
     },
     {
       "h": "Updates zijn belangrijker dan specificaties",
-      "p": "Hoe lang een telefoon veilig blijft, hangt af van de beveiligingsupdates. Samsung belooft voor de Galaxy A07 en A17 tot zes jaar updates. Bij Motorola, Honor, OPPO en Xiaomi vermeldt bol 12 tot 36 maanden. Wil je je telefoon vier jaar of langer gebruiken, dan is een Samsung onder 200 euro de verstandigste keuze. Na het einde van de updates werkt een telefoon nog wel, maar banken en apps stoppen op den duur met ondersteuning."
+      "p": "Hoe lang een telefoon veilig blijft, hangt af van de beveiligingsupdates. Samsung belooft voor de Galaxy A07 en A17 tot zes jaar updates. Bij Motorola, Honor en Xiaomi vermeldt bol 12 tot 36 maanden. Wil je je telefoon vier jaar of langer gebruiken, dan is een Samsung onder 200 euro de verstandigste keuze. Na het einde van de updates werkt een telefoon nog wel, maar banken en apps stoppen op den duur met ondersteuning."
     },
     {
       "h": "AMOLED of LCD?",
@@ -48,7 +48,7 @@
     },
     {
       "h": "Accu en opladen",
-      "p": "Alle telefoons in deze lijst hebben een accu van minstens 4.500 mAh. Met 5.000 mAh kom je bij normaal gebruik de dag door. Wil je twee dagen zonder oplader, kijk dan naar de Honor 400 Smart met 6.500 mAh of de Xiaomi Redmi 15C met 6.000 mAh. Let op de laadsnelheid: de OPPO A40 laadt met 45 watt, Samsung met 25 watt. Een oplader zit bij de meeste toestellen niet meer in de doos."
+      "p": "Alle telefoons in deze lijst hebben een accu van minstens 4.500 mAh. Met 5.000 mAh kom je bij normaal gebruik de dag door. Wil je twee dagen zonder oplader, kijk dan naar de Honor 400 Smart met 6.500 mAh of de Xiaomi Redmi 15C met 6.000 mAh. Let op de laadsnelheid: de Samsungs in deze lijst laden met 25 watt. Een oplader zit bij de meeste toestellen niet meer in de doos."
     },
     {
       "h": "Voor wie is welke telefoon?",
@@ -62,7 +62,7 @@
     },
     {
       "q": "Welke smartphone onder 200 euro krijgt het langst updates?",
-      "a": "De Samsung Galaxy A17 en de Galaxy A07 krijgen volgens Samsung tot zes jaar software- en beveiligingsupdates. Bij Motorola, Honor, OPPO en Xiaomi vermeldt bol 12 tot 36 maanden. Wil je een telefoon onder 200 euro lang gebruiken, kies dan een Samsung."
+      "a": "De Samsung Galaxy A17 en de Galaxy A07 krijgen volgens Samsung tot zes jaar software- en beveiligingsupdates. Bij Motorola, Honor en Xiaomi vermeldt bol 12 tot 36 maanden. Wil je een telefoon onder 200 euro lang gebruiken, kies dan een Samsung."
     },
     {
       "q": "Welke telefoon onder 200 euro heeft de beste accu?",
@@ -283,7 +283,7 @@
         "Bol vermeldt 36 maanden updates"
       ],
       "ideal": "Wie veel video kijkt en een groot, scherp scherm met goed geluid wil.",
-      "text": "De moto g35 5G kost bij bol rond 189 euro. Het scherm van 6,72 inch heeft een Full HD-resolutie, ververst met 120 Hz en haalt volgens Motorola een piekhelderheid van 1000 nits. Dat is scherper dan de HD+-schermen van de Honor 400 Smart, OPPO en Xiaomi in deze lijst. Samen met de stereoluidsprekers met Dolby Atmos is dit een prettig toestel voor series en YouTube. Binnenin zit een Unisoc T760 met 4 GB werkgeheugen en 128 GB opslag.\n\nAchterop zit een hoofdcamera van 50 megapixel met Quad Pixel-technologie en een groothoeklens. Je betaalt contactloos via NFC en surft via 5G. De behuizing is dun en spatwaterdicht volgens IP54. Kopers op bol geven hem een 3,8 van 5, lager dan de Samsungs in deze lijst. Met 4 GB werkgeheugen is hij prima voor dagelijks gebruik, maar niet bedoeld voor zware games. Bol vermeldt minimaal 36 maanden updates. Dat is korter dan bij Samsung, maar langer dan bij Honor.",
+      "text": "De moto g35 5G kost bij bol rond 189 euro. Het scherm van 6,72 inch heeft een Full HD-resolutie, ververst met 120 Hz en haalt volgens Motorola een piekhelderheid van 1000 nits. Dat is scherper dan de HD+-schermen van de Honor 400 Smart en Xiaomi in deze lijst. Samen met de stereoluidsprekers met Dolby Atmos is dit een prettig toestel voor series en YouTube. Binnenin zit een Unisoc T760 met 4 GB werkgeheugen en 128 GB opslag.\n\nAchterop zit een hoofdcamera van 50 megapixel met Quad Pixel-technologie en een groothoeklens. Je betaalt contactloos via NFC en surft via 5G. De behuizing is dun en spatwaterdicht volgens IP54. Kopers op bol geven hem een 3,8 van 5, lager dan de Samsungs in deze lijst. Met 4 GB werkgeheugen is hij prima voor dagelijks gebruik, maar niet bedoeld voor zware games. Bol vermeldt minimaal 36 maanden updates. Dat is korter dan bij Samsung, maar langer dan bij Honor.",
       "ean": "0840023269271",
       "bol_title": "motorola moto g35 5G - 128GB - Midnight Black",
       "url": "https://www.bol.com/nl/nl/p/motorola-moto-g35-5g-8-128gb-midnight-black/9300000187480220/",
@@ -391,47 +391,44 @@
       "prev_date": "2026-11-26"
     },
     {
-      "brand": "OPPO",
-      "name": "A40 4/128GB",
-      "price": 189.99,
+      "brand": "Samsung",
+      "name": "Galaxy A16 4G 128GB",
+      "price": 174.99,
       "score": 8.1,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
-      "oneliner": "Stevige telefoon met 45 watt snelladen en NFC.",
+      "oneliner": "Groot AMOLED-scherm en zes jaar updates voor rond 175 euro.",
       "specs": {
-        "Scherm": "6,67 inch LCD, HD+",
-        "Accu": "5.100 mAh",
+        "Scherm": "6,7 inch AMOLED, 90 Hz",
+        "Accu": "5.000 mAh",
         "Geheugen": "4 GB / 128 GB",
         "Hoofdcamera": "50 MP",
         "Netwerk": "4G"
       },
       "pros": [
-        "Accu van 5.100 mAh met 45 watt SUPERVOOC",
-        "Stevige behuizing en IP54",
-        "NFC voor contactloos betalen",
-        "Opslag uit te breiden tot 1 TB"
+        "Super AMOLED-scherm met Full HD+",
+        "Zes jaar beveiligingsupdates volgens Samsung",
+        "Opslag uit te breiden tot 1 TB",
+        "Accu van 5.000 mAh"
       ],
       "cons": [
-        "HD+-resolutie",
-        "Selfiecamera van maar 5 MP",
-        "Bol vermeldt maar 12 maanden updates"
+        "Geen 5G",
+        "Maar 4 GB werkgeheugen",
+        "Geen lader in de doos"
       ],
-      "ideal": "Wie een robuuste telefoon zoekt die snel weer vol is.",
-      "text": "De OPPO A40 kost bij bol rond 190 euro en richt zich op stevigheid. OPPO noemt een behuizing die tegen een stootje kan en de telefoon is spatwaterdicht volgens IP54. Het scherm van 6,67 inch heeft een HD+-resolutie van 1604 bij 720 pixels. Dat is minder scherp dan bij de Samsungs en de Motorola g35, maar voor appen en browsen voldoende. Je krijgt 4 GB werkgeheugen en 128 GB opslag, uit te breiden met een microSD-kaart tot 1 TB.\n\nDe accu van 5.100 mAh laadt op met 45 watt SUPERVOOC, sneller dan de meeste telefoons in deze lijst. Na een korte laadbeurt tijdens het ontbijt kun je weer een groot deel van de dag vooruit. De hoofdcamera heeft 50 megapixel, de selfiecamera maar 5 megapixel. NFC is aanwezig en hij draait op Android 14. Kopers op bol geven hem een 4,4 van 5. Minpunt is het updatebeleid: bol vermeldt minimaal 12 maanden. Wil je de telefoon lang gebruiken, dan is de Galaxy A07 voor minder geld een betere keuze.",
-      "ean": "6932169353984",
-      "bol_title": "OPPO A40 - 4GB+128GB - Sparkle Zwart",
-      "url": "https://www.bol.com/nl/nl/p/oppo-a40-4gb-128gb-sparkle-zwart/9300000187560294/",
-      "image": "https://media.s-bol.com/1Ok5zBoBxPE0/DkVLA6Y/550x708.jpg",
-      "ph": {
-        "2026-11-24": 189.99,
-        "2026-11-25": 189.99,
-        "2026-11-26": 189.99,
-        "2026-11-27": 189.99
-      },
-      "low_price": 189.99,
-      "ph_ean": "6932169353984",
+      "ideal": "Wie een groot, scherp scherm en lange updates wil en geen 5G nodig heeft.",
+      "text": "De Samsung Galaxy A16 4G is de voorganger van de A17 en kost bij bol rond 175 euro. Je krijgt een groot Super AMOLED-scherm van 6,7 inch met Full HD+-resolutie, scherper en contrastrijker dan de HD+-schermen van de Honor 400 Smart en Xiaomi in deze lijst. Het toestel heeft 4 GB werkgeheugen en 128 GB opslag, uit te breiden met een microSD-kaart tot 1 TB. Er passen een simkaart en een geheugenkaart tegelijk in.\n\nDe accu van 5.000 mAh gaat bij normaal gebruik ruim een dag mee. Achterop zitten drie camera's met een hoofdcamera van 50 megapixel, de selfiecamera heeft 13 megapixel. Sterk punt is de ondersteuning: Samsung belooft bij dit model zes jaar beveiligingsupdates, veel langer dan de 12 tot 36 maanden die bol bij Motorola, Honor en Xiaomi vermeldt. De behuizing is van kunststof en in de doos zit alleen een kabel, geen lader. 5G heeft hij niet. Kopers op bol geven hem een 4,4 van 5. Wil je het nieuwere model, dan kost de Galaxy A17 4G op plek twee een paar euro minder.",
+      "ean": "8806095822846",
+      "bol_title": "Samsung Galaxy A16 4G (LTE) - 128GB - Grijs",
+      "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-a16-4g-128gb-grijs/9300000191610728/",
+      "image": "https://media.s-bol.com/X8w8k06DQ48W/gpQJjDj/550x700.jpg",
+      "ph_ean": "8806095822846",
       "rating": 4.4,
-      "synced": "2026-11-27"
+      "synced": "2026-11-27",
+      "ph": {
+        "2026-11-27": 174.99
+      },
+      "low_price": 174.99
     },
     {
       "brand": "Xiaomi",
@@ -519,6 +516,12 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "OPPO A40 4/128GB",
+      "in": "Samsung Galaxy A16 4G 128GB",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-26",
       "uit": "Motorola moto g15 4/128GB",

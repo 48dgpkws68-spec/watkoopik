@@ -14,10 +14,10 @@
   ],
   "ico": "🤖",
   "color": "#0f766e",
-  "updated": "2026-10-13",
+  "updated": "2026-11-27",
   "reviews_total": "9.800",
   "intro": "Een robotstofzuiger is in 2026 geen speeltje meer, maar een apparaat dat het dagelijkse vloerwerk echt overneemt. De verschillen zitten in hoe goed hij navigeert, of hij drempels neemt, hoe grondig hij dweilt en hoeveel het station zelf doet. Wij vergeleken modellen op zuigkracht, obstakelherkenning, dweilsysteem, station, app en de score bij bol. Dit zijn de tien beste robotstofzuigers die je nu kunt kopen, van een slimme instapper tot het complete topmodel.",
-  "verdict": "De Roborock Saros 10R is de beste robotstofzuiger van 2026: superplatte bouw, de slimste obstakelherkenning en een station dat alles zelf doet. Wil je bijna dezelfde ervaring voor veel minder geld, dan is de Dreame L40 Ultra de beste prijs-kwaliteit met uitklapbare dweilen en een compleet station. Zoek je het maximale, dan heeft de Dreame X50 Ultra pootjes waarmee hij trappetjes tot 6 centimeter neemt.",
+  "verdict": "De Roborock Saros 10R is de beste robotstofzuiger van 2026: superplatte bouw, de slimste obstakelherkenning en een station dat alles zelf doet. Wil je bijna dezelfde ervaring voor veel minder geld, dan is de Dreame L40 Ultra AE de beste prijs-kwaliteit met 19.000 Pa zuigkracht en een compleet station. Zoek je het maximale, dan heeft de Dreame X50 Ultra pootjes waarmee hij trappetjes tot 6 centimeter neemt.",
   "products": [
     {
       "brand": "Roborock",
@@ -105,50 +105,43 @@
     },
     {
       "brand": "Dreame",
-      "name": "L40 Ultra",
-      "price": 499.0,
+      "name": "L40 Ultra AE",
+      "price": 469.0,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Compleet station en uitklapbare dweil voor een middenklasseprijs.",
+      "oneliner": "Compleet station en 19.000 Pa voor een middenklasseprijs.",
       "specs": {
         "Type": "Zuigen + dweilen",
-        "Zuigkracht": "11.000 Pa",
+        "Zuigkracht": "19.000 Pa",
         "Accuduur": "tot 200 min",
-        "Station": "Legen, wassen, drogen, water",
+        "Station": "Legen, wassen, drogen",
         "Drempelhoogte": "tot 2 cm"
       },
       "pros": [
-        "Dweil klapt uit zodat hij tot aan de plint dweilt",
-        "Station doet alles: legen, wassen met warm water, drogen, bijvullen",
-        "Dweilen worden afgekoppeld op tapijt",
+        "Zuigkracht van 19.000 Pa",
+        "Station leegt, wast de dweilen op 75 graden en droogt ze",
+        "Twee borstels, waaronder een TriCut-borstel tegen haren",
         "Lange accuduur van 200 minuten"
       ],
       "cons": [
         "Neemt alleen lage drempels",
-        "Lasertoren maakt hem 10,4 cm hoog",
+        "Lasertoren maakt hem bijna 10 cm hoog",
         "App is uitgebreid maar niet altijd overzichtelijk"
       ],
-      "ideal": "Gezinnen die een volledig zelfonderhoudende robot willen zonder meer dan 800 euro uit te geven.",
-      "text": "De Dreame L40 Ultra biedt vrijwel alles wat je bij robots van 1.200 euro vindt, voor een fors lager bedrag. Het station leegt het stofreservoir in een zak, wast de twee roterende dweilen met warm water, droogt ze met hete lucht en vult de schoonwatertank van de robot bij. Je vult zelf eens per week of twee de tanks en vervangt eens per paar maanden de stofzak.\n\nSlim is de uitklapbare dweil: langs plinten en in hoeken schuift hij naar buiten, zodat je geen vieze rand overhoudt. Op tapijt laat hij de dweilen achter in het station en zuigt hij met 11.000 Pa, genoeg voor normaal tapijt. De obstakelherkenning met camera en ledlicht werkt goed op kabels en sokken. Reviews noemen vooral het gevoel dat je voor dit geld niets mist. Alleen hoge drempels zijn een beperking, hij komt tot ongeveer 2 centimeter.",
-      "ean": "6976233677194",
-      "bol_title": "Dreame L40 Ultra - Robotstofzuiger met Dweilfunctie - Automatisch ledigen - Vuildetectie - Geschikt voor harde vloeren en tapijten",
-      "url": "https://www.bol.com/nl/nl/p/dreame-l40-ultra-robotstofzuiger-met-dweilfunctie-automatisch-ledigen-vuildetectie-geschikt-voor-harde-vloeren-en-tapijten/9300000186298200/",
-      "image": "https://media.s-bol.com/3xB9w1jmLZnA/v2DkXm5/550x684.jpg",
-      "ph": {
-        "2026-11-20": 499.0,
-        "2026-11-21": 499.0,
-        "2026-11-22": 499.0,
-        "2026-11-23": 499.0,
-        "2026-11-24": 499.0,
-        "2026-11-25": 499.0,
-        "2026-11-26": 499.0,
-        "2026-11-27": 499.0
-      },
-      "low_price": 499.0,
-      "ph_ean": "6976233677194",
+      "ideal": "Gezinnen die een zelfonderhoudende robot willen voor minder dan 500 euro.",
+      "text": "De Dreame L40 Ultra AE biedt veel van wat je bij robots van 1.000 euro vindt, voor minder dan de helft. Het station leegt het stofreservoir in een zak, wast de twee roterende dweilen met water van 75 graden en droogt ze met warme lucht. Zo blijven de dweilen fris en hoef je er zelden met je handen aan te zitten. Je vult zelf af en toe de tanks en vervangt eens per paar maanden de stofzak.\n\nDe zuigkracht is volgens Dreame 19.000 Pa, ruim genoeg voor tapijt en dierenhaar. Er zitten twee verwisselbare borstels bij: een rubberen borstel voor grover vuil zoals kattenbakkorrels en een TriCut-borstel die haren doorsnijdt. De robot navigeert met een laser en herkent met een camera volgens Dreame ruim 120 soorten obstakels, zoals kabels en schoenen. De accu houdt het tot 200 minuten vol. Alleen hoge drempels zijn een beperking: hij komt volgens bol tot 2 centimeter. Dweilen die uitklappen tot aan de plint, zoals bij duurdere modellen, noemt de verkoper bij deze uitvoering niet. Bij bol staat hij op een 4,6 van 5.",
+      "ean": "6977328066374",
+      "bol_title": "Dreame L40 Ultra AE - Robotstofzuiger met Dweilfunctie - Automatisch Legen & Zelfreinigend Station - 19.000 Pa Zuigkracht - AI Navigatie - Geschikt voor Huisdierharen",
+      "url": "https://www.bol.com/nl/nl/p/dreame-l40-ultra-ae-robotstofzuiger-met-dweilfunctie-automatisch-legen-zelfreinigend-station-19-000-pa-zuigkracht-ai-navigatie-geschikt-voor-huisdierharen/9300000228748866/",
+      "image": "https://media.s-bol.com/q06Z2Yz4Z39y/73mNEpB/550x681.jpg",
+      "ph_ean": "6977328066374",
       "rating": 4.6,
-      "synced": "2026-11-27"
+      "synced": "2026-11-27",
+      "ph": {
+        "2026-11-27": 469.0
+      },
+      "low_price": 469.0
     },
     {
       "brand": "Dreame",
@@ -794,7 +787,7 @@
   "faq": [
     {
       "q": "Wat is de beste robotstofzuiger van 2026?",
-      "a": "Op basis van onze vergelijking is de Roborock Saros 10R de beste robotstofzuiger van 2026, dankzij de platte bouw, de beste obstakelherkenning en een station dat legen, wassen, drogen en bijvullen volledig overneemt. Zoek je de beste prijs-kwaliteit, kijk dan naar de Dreame L40 Ultra."
+      "a": "Op basis van onze vergelijking is de Roborock Saros 10R de beste robotstofzuiger van 2026, dankzij de platte bouw, de beste obstakelherkenning en een station dat legen, wassen, drogen en bijvullen volledig overneemt. Zoek je de beste prijs-kwaliteit, kijk dan naar de Dreame L40 Ultra AE."
     },
     {
       "q": "Kan een robotstofzuiger een gewone stofzuiger vervangen?",
@@ -826,6 +819,12 @@
     "beste-robotstofzuiger-huisdieren"
   ],
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "Dreame L40 Ultra",
+      "in": "Dreame L40 Ultra AE",
+      "waarom": "bol verkoopt alleen nog de AE-uitvoering"
+    },
     {
       "d": "2026-11-23",
       "uit": "Roborock Qrevo Curv",

@@ -14,7 +14,7 @@
   ],
   "ico": "🌡️",
   "color": "#b35c2d",
-  "updated": "2026-10-15",
+  "updated": "2026-11-27",
   "reviews_total": "5.900",
   "intro": "Met een slimme thermostaat bedien je de verwarming via je telefoon, verwarm je alleen als je thuis bent en zie je precies wat je stookt. Dat kan honderden euro's per jaar schelen, maar alleen als de thermostaat goed samenwerkt met jouw cv-ketel of warmtepomp. Wij vergeleken de slimme thermostaten die in Nederland te koop zijn op compatibiliteit, OpenTherm, regeling per kamer, app en gebruikerservaringen. Dit zijn de tien beste slimme thermostaten die je nu bij bol kunt kopen.",
   "verdict": "De tado Slimme Thermostaat X Starterskit is de beste keuze voor de meeste huishoudens: hij werkt met vrijwel elke cv-ketel, ondersteunt OpenTherm en Matter en is later uit te breiden met slimme radiatorknoppen. Zoek je de beste prijs-kwaliteit zonder abonnement, kies dan de Netatmo Slimme Thermostaat Original. Wil je elke kamer apart regelen, dan is Honeywell Evohome de meest complete oplossing.",
@@ -455,12 +455,12 @@
     },
     {
       "brand": "Vaillant",
-      "name": "sensoROOM VRT51F + myVAILLANT connect",
-      "price": 199.99,
+      "name": "sensoHOME VRT 380f + myVAILLANT connect",
+      "price": 340.0,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
-      "oneliner": "Draadloze set die perfect samenwerkt met Vaillant-ketels.",
+      "oneliner": "Draadloos pakket met internetmodule voor Vaillant-ketels.",
       "specs": {
         "Aansluiting": "Draadloos",
         "Regeling": "eBUS (Vaillant)",
@@ -469,71 +469,29 @@
         "Abonnement": "Nee"
       },
       "pros": [
-        "Optimale aansturing van Vaillant-ketels",
-        "Weersafhankelijke regeling mogelijk",
-        "Storingsmeldingen in de app",
+        "Afgestemd op Vaillant-ketels",
+        "Compleet pakket met internetmodule en houder",
+        "Draadloos, dus vrij te plaatsen",
         "Geen abonnement"
       ],
       "cons": [
         "Alleen voor Vaillant-ketels vanaf 2007",
+        "Scherm blijft zwart tot je het aanraakt",
         "Geen zoneregeling"
       ],
       "ideal": "Eigenaren van een Vaillant-ketel die de ketel optimaal willen laten draaien.",
-      "text": "Heb je een Vaillant-ketel, dan is de sensoROOM VRT51F met myVAILLANT connect een logische keuze. De thermostaat communiceert via het eBUS-protocol van Vaillant zelf, waardoor hij de ketel nauwkeuriger aanstuurt dan een universele thermostaat. De draadloze set bestaat uit de thermostaat aan de muur en een internetmodule bij de ketel.\n\nIn de myVAILLANT-app regel je de temperatuur op afstand, stel je schema's in en zie je je energieverbruik. Bij een storing krijg je direct een melding met de foutcode, wat handig is als je de installateur belt. Met een optionele buitenvoeler werkt de regeling weersafhankelijk. Gebruikers prijzen de stabiele werking, maar noemen de app minder uitgebreid dan die van tado. De set werkt alleen met Vaillant-ketels vanaf ongeveer 2007. Heb je een ander merk, kies dan tado of Netatmo. Wie de app wil gebruiken, moet de internetmodule goed binnen wifi-bereik bij de ketel plaatsen.",
-      "ean": "4024074895542",
-      "bol_title": "Vaillant - sensoROOM VRT51F + myVAILLANT connect 940F - Draadloze Thermostaatset voor CV-ketels vanaf 2007",
-      "url": "https://www.bol.com/nl/nl/p/vaillant-draadloze-sensoroom-thermostaat-plus-myvaillant-connect-internetmodule-voor-vaillant-cv-ketels/9300000160719366/",
-      "image": "https://media.s-bol.com/mngXX29qMGjG/qKLMr7/550x253.jpg",
+      "text": "Heb je een Vaillant-ketel, dan is de sensoHOME VRT 380f met myVAILLANT connect een logische keuze. Dit pakket bestaat uit een draadloze klokthermostaat met ontvanger, de internetmodule VR 940f en een houder om ontvanger en module samen onder de ketel te hangen. De thermostaat is van Vaillant zelf en is afgestemd op de modulerende ketels van het merk, wat een universele thermostaat niet altijd kan.\n\nIn de myVAILLANT-app regel je de temperatuur op afstand en stel je dag- en weekschema's in. De thermostaat werkt op batterijen. Om die te sparen blijft het scherm zwart tot je het aanraakt, iets om rekening mee te houden als je de temperatuur graag in het voorbijgaan afleest. Zoneregeling per kamer is er niet. De set werkt volgens de verkoper alleen met Vaillant-ketels vanaf 2007. Heb je een ander merk, kies dan tado of Netatmo. Met 340 euro is dit pakket duurder dan de meeste universele thermostaten. Bij bol staat het op een 5,0 van 5. Plaats de internetmodule binnen wifi-bereik bij de ketel.",
+      "ean": "9503895646342",
+      "bol_title": "Actiepakket Vaillant draadloze sensohome VRT380F klokthermostaat plus myVAILLANT connect internetmodule 940F",
+      "url": "https://www.bol.com/nl/nl/p/actiepakket-vaillant-draadloze-sensohome-vrt380f-klokthermostaat-plus-myvaillant-connect-internetmodule-940f/9300000249480418/",
+      "image": "https://media.s-bol.com/Y8qOZY06k5QW/Vmx2mk1/550x520.jpg",
       "synced": "2026-11-27",
+      "ph_ean": "9503895646342",
+      "rating": 5.0,
       "ph": {
-        "2026-10-15": 182.5,
-        "2026-10-16": 182.5,
-        "2026-10-17": 182.5,
-        "2026-10-18": 182.5,
-        "2026-10-19": 182.5,
-        "2026-10-20": 182.5,
-        "2026-10-21": 182.5,
-        "2026-10-23": 182.5,
-        "2026-10-24": 182.5,
-        "2026-10-25": 182.5,
-        "2026-10-26": 179.95,
-        "2026-10-27": 182.5,
-        "2026-10-28": 182.5,
-        "2026-10-29": 182.5,
-        "2026-10-30": 182.5,
-        "2026-10-31": 182.5,
-        "2026-11-01": 182.5,
-        "2026-11-02": 179.95,
-        "2026-11-03": 182.5,
-        "2026-11-04": 195.0,
-        "2026-11-05": 195.0,
-        "2026-11-06": 179.95,
-        "2026-11-07": 179.95,
-        "2026-11-08": 179.95,
-        "2026-11-09": 179.95,
-        "2026-11-10": 235.21,
-        "2026-11-11": 224.99,
-        "2026-11-12": 224.99,
-        "2026-11-13": 232.0,
-        "2026-11-14": 230.0,
-        "2026-11-16": 230.0,
-        "2026-11-17": 210.8,
-        "2026-11-18": 229.97,
-        "2026-11-19": 229.99,
-        "2026-11-20": 199.99,
-        "2026-11-21": 199.99,
-        "2026-11-22": 199.99,
-        "2026-11-23": 199.99,
-        "2026-11-24": 199.99,
-        "2026-11-25": 199.99,
-        "2026-11-26": 199.99,
-        "2026-11-27": 199.99
+        "2026-11-27": 340.0
       },
-      "low_price": 179.95,
-      "prev_price": 229.99,
-      "prev_date": "2026-11-19",
-      "ph_ean": "4024074895542",
-      "rating": 5.0
+      "low_price": 340.0
     },
     {
       "brand": "Honeywell",
@@ -820,5 +778,13 @@
       "a": "Alleen bij tado voor de automatische functies van Auto-Assist. Netatmo, Honeywell, Bosch en Vaillant werken volledig zonder abonnement."
     }
   ],
-  "published": "2026-10-15"
+  "published": "2026-10-15",
+  "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "Vaillant sensoROOM VRT51F + myVAILLANT connect",
+      "in": "Vaillant sensoHOME VRT 380f + myVAILLANT connect",
+      "waarom": "niet meer leverbaar bij bol"
+    }
+  ]
 }

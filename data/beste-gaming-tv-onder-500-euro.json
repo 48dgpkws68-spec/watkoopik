@@ -16,7 +16,7 @@
   ],
   "ico": "🎮",
   "color": "#1b3fb3",
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "published": "2026-11-26",
   "google_wacht": true,
   "reviews_total": "",
@@ -29,8 +29,8 @@
     "beste-playstation-5"
   ],
   "kort_reden": "Waarom: een paneel van 144 Hz met HDMI 2.1, VRR en volgens bol 6 milliseconden input lag, voor 479 euro op 50 inch.",
-  "intro": "Kies een gaming-tv onder 500 euro op verversing, niet op het woord gaming op de doos. Wil je op een PS5, Xbox Series X of pc 120 beelden per seconde in 4K, dan heb je een paneel van 120 of 144 Hz met HDMI 2.1 nodig. Dat is onder 500 euro schaars: bij bol begint het rond 420 euro, vooral bij Hisense en TCL. Speel je rustiger, dan volstaat 60 Hz met VRR vanaf 347 euro. Wij vergeleken de tv's die nu bij bol onder 500 euro te koop zijn op verversing, HDMI 2.1, VRR, input lag en prijs.",
-  "verdict": "De Hisense 50E7S PRO is de beste gaming-tv onder 500 euro: een paneel van 144 Hz, HDMI 2.1, VRR en volgens bol 6 milliseconden input lag voor 479 euro. Wil je dieper zwart in donkere games, dan is de TCL 50Q6C met Mini LED de beste premium keuze. De Hisense 43E7Q PRO is de beste prijs-kwaliteit, want voor ongeveer 420 euro heb je al 144 Hz. Speel je op 60 beelden per seconde, dan bespaar je met de Hisense 55E7S van 399 euro.",
+  "intro": "Kies een gaming-tv onder 500 euro op verversing, niet op het woord gaming op de doos. Wil je op een PS5, Xbox Series X of pc 120 beelden per seconde in 4K, dan heb je een paneel van 120 of 144 Hz met HDMI 2.1 nodig. Dat is onder 500 euro schaars: bij bol begint het rond 420 euro en in deze lijst alleen bij Hisense. Speel je rustiger, dan volstaat 60 Hz met VRR vanaf 329 euro. Wij vergeleken de tv's die nu bij bol onder 500 euro te koop zijn op verversing, HDMI 2.1, VRR, input lag en prijs.",
+  "verdict": "De Hisense 50E7S PRO is de beste gaming-tv onder 500 euro: een paneel van 144 Hz, HDMI 2.1, VRR en volgens bol 6 milliseconden input lag voor 479 euro. Wil je hetzelfde snelle paneel op een groter scherm, dan is de Hisense 55E7S PRO van 499 euro de beste premium keuze. De Hisense 43E7Q PRO is de beste prijs-kwaliteit, want voor ongeveer 420 euro heb je al 144 Hz. Speel je op 60 beelden per seconde, dan bespaar je met de Hisense 55E7S van 399 euro.",
   "products": [
     {
       "brand": "Hisense",
@@ -80,7 +80,7 @@
       "name": "55E7S PRO",
       "price": 499.0,
       "score": 9.1,
-      "label": null,
+      "label": "Beste premium",
       "reviews": "bol-score 4,6 van 5",
       "oneliner": "Dezelfde 144 Hz op 55 inch, maar krap onder 500 euro.",
       "specs": {
@@ -116,49 +116,6 @@
       },
       "low_price": 499.0,
       "ph_ean": "6942351432779",
-      "synced": "2026-11-27"
-    },
-    {
-      "brand": "TCL",
-      "name": "50Q6C",
-      "price": 489.0,
-      "score": 9.0,
-      "label": "Beste premium",
-      "reviews": "bol-score 4,8 van 5",
-      "oneliner": "Mini LED met 144 Hz, VRR en ALLM voor 489 euro.",
-      "specs": {
-        "Formaat": "50 inch",
-        "Paneel": "QD-Mini LED",
-        "Verversing": "144 Hz",
-        "HDMI 2.1": "Ja, 4 HDMI-poorten",
-        "VRR en ALLM": "VRR, FreeSync Premium Pro en ALLM",
-        "Input lag": "Niet opgegeven",
-        "Stroomverbruik (SDR)": "klasse E (EU-label)"
-      },
-      "pros": [
-        "Mini LED: dieper zwart in donkere games",
-        "144 Hz met VRR, FreeSync Premium Pro en ALLM",
-        "Google TV met een grote appwinkel",
-        "Vier HDMI-poorten en 30 watt geluid"
-      ],
-      "cons": [
-        "Met 489 euro krap onder de grens",
-        "Input lag niet opgegeven",
-        "Model uit 2025"
-      ],
-      "ideal": "Wie veel donkere games en films speelt en het beste contrast onder 500 euro wil.",
-      "text": "De TCL 50Q6C is de enige tv in deze lijst die een snel paneel combineert met Mini LED. Bol geeft 144 Hz op als standaard en maximale verversing. TCL noemt in de omschrijving ALLM, VRR tot 144 Hz, FreeSync Premium Pro en een Game Bar. Dat is het meest complete gamepakket onder 500 euro. Een PS5 of Xbox Series X speelt in 4K op 120 Hz en schakelt via ALLM vanzelf naar de gamestand.\n\nHet verschil met de Hisense-modellen zie je in donkere games. Achter het paneel zitten veel kleinere leds, zodat donkere delen verder dimmen terwijl lichte delen fel blijven. Een grot of nachtelijke straat oogt daardoor minder grijs. Voor HDR zijn Dolby Vision IQ, HDR10+, HDR10 en HLG aanwezig. Google TV heeft een grote appwinkel en de luidsprekers leveren 30 watt. Een cijfer voor de input lag geeft bol niet op. Het is een model uit 2025 en met 489 euro zit hij 11 euro onder de grens.",
-      "ean": "5901292528751",
-      "rating": 4.8,
-      "bol_title": "TCL 50Q6C - 50 inch - 4K QD-MiniLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-50q6c-50-inch-4k-qd-miniled-2025/9300000228002743/",
-      "image": "https://media.s-bol.com/DL9wVrgXjq5q/xkAnlrz/550x352.jpg",
-      "ph": {
-        "2026-11-26": 489.0,
-        "2026-11-27": 489.0
-      },
-      "low_price": 489.0,
-      "ph_ean": "5901292528751",
       "synced": "2026-11-27"
     },
     {
@@ -245,49 +202,6 @@
       },
       "low_price": 439.0,
       "ph_ean": "6942351432410",
-      "synced": "2026-11-27"
-    },
-    {
-      "brand": "Philips",
-      "name": "Ambilight 50PUS9000/12",
-      "price": 489.0,
-      "score": 8.5,
-      "label": null,
-      "reviews": "bol-score 4,8 van 5",
-      "oneliner": "Ambilight met 100 Hz en VRR via HDMI 2.1.",
-      "specs": {
-        "Formaat": "50 inch",
-        "Paneel": "QLED met Ambilight",
-        "Verversing": "100 Hz, maximaal 144 Hz (opgave bol)",
-        "HDMI 2.1": "Ja, 4 HDMI-poorten",
-        "VRR en ALLM": "VRR, ALLM niet opgegeven",
-        "Input lag": "Niet opgegeven",
-        "Stroomverbruik (SDR)": "65 W · klasse F (EU-label)"
-      },
-      "pros": [
-        "Ambilight aan drie zijden geeft games meer sfeer",
-        "Sneller paneel dan 60 Hz, met VRR",
-        "Vier HDMI-poorten en 40 watt geluid",
-        "Dolby Vision en HDR10+"
-      ],
-      "cons": [
-        "Input lag niet opgegeven",
-        "Titan OS mist Spotify, KPN en Ziggo GO",
-        "Met 489 euro krap onder de grens"
-      ],
-      "ideal": "Wie 's avonds gamet en sfeer net zo belangrijk vindt als snelheid.",
-      "text": "De Philips 50PUS9000/12 is de enige tv met Ambilight in deze lijst en hij is sneller dan 60 Hz. Bol geeft 100 Hz op als standaard verversing en 144 Hz als maximum, met VRR via HDMI 2.1. Ledjes aan drie zijden laten de muur meekleuren met het spel. Bij een racegame in de schemering of een horrorgame lijkt het beeld daardoor groter en is het rustiger voor je ogen.\n\nOp papier is hij minder duidelijk dan de Hisense-modellen. Bol noemt geen input lag en geen ALLM. Wil je zekerheid over de snelste reactie, dan kies je beter nummer 1. Het paneel is een QLED met verlichting vanaf de rand, zonder local dimming. Dolby Vision, HDR10+ en HLG zijn aanwezig. Er zitten vier HDMI-poorten op en de luidsprekers leveren 40 watt, het hoogste vermogen in deze lijst. Titan OS mist volgens bol Spotify, KPN en Ziggo GO. Het is een model uit 2025 en kost 489 euro.",
-      "ean": "8718863046074",
-      "rating": 4.8,
-      "bol_title": "Philips Ambilight 50PUS9000/12- 50 inch - 4K QLED - 2025 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/philips-ambilight-50pus9000-12-50-inch-4k-qled-2025/9300000229240638/",
-      "image": "https://media.s-bol.com/ZQWP16RypmJ2/y8X81Xw/550x387.jpg",
-      "ph": {
-        "2026-11-26": 489.0,
-        "2026-11-27": 489.0
-      },
-      "low_price": 489.0,
-      "ph_ean": "8718863046074",
       "synced": "2026-11-27"
     },
     {
@@ -419,15 +333,57 @@
       "synced": "2026-11-27"
     },
     {
+      "brand": "LG",
+      "name": "55QNED84A6C",
+      "price": 445.95,
+      "score": 7.9,
+      "label": null,
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "55 inch van LG met VRR en webOS, maar een paneel van 60 Hz.",
+      "specs": {
+        "Formaat": "55 inch",
+        "Paneel": "QNED",
+        "Verversing": "60 Hz",
+        "HDMI 2.1": "Ja, 3 HDMI-poorten met eARC",
+        "VRR en ALLM": "VRR en FreeSync, ALLM niet opgegeven",
+        "Input lag": "Niet opgegeven",
+        "Stroomverbruik (SDR)": "74,9 W · klasse F (EU-label)"
+      },
+      "pros": [
+        "VRR via HDMI 2.1 en AMD FreeSync (opgave bol)",
+        "55 inch van een A-merk voor rond 446 euro",
+        "webOS 25 met Magic Remote",
+        "Bol-score van 5,0 van 5"
+      ],
+      "cons": [
+        "Paneel van 60 Hz, dus geen 120 beelden per seconde",
+        "Geen Dolby Vision",
+        "Input lag niet opgegeven"
+      ],
+      "ideal": "Wie op 60 beelden per seconde speelt en een groot scherm van een bekend merk wil.",
+      "text": "De LG 55QNED84A6C is de 55 inch uitvoering van de LG 43QNED84A6 die ook in deze lijst staat. Hij kost rond 446 euro en heeft een QNED-paneel, de naam van LG voor een led-paneel met quantum dots en NanoCell. Het paneel werkt op 60 Hz. Een PS5 of Xbox Series X speelt er dus op maximaal 60 beelden per seconde in 4K. Voor verhalende games, racegames op de bank en de Switch 2 is dat genoeg. Voor snelle shooters op 120 Hz kies je een Hisense PRO-model.\n\nBol noemt HDMI 2.1 met eARC, drie HDMI-poorten en VRR met AMD FreeSync. VRR houdt het beeld vloeiend als de framerate schommelt, ook op 60 Hz. Een cijfer voor de input lag geeft bol niet op. Voor HDR staan alleen HDR10 en HLG vermeld, Dolby Vision ontbreekt. Sterk is de software: webOS 25 is snel en heeft alle Nederlandse apps. De bol-score is 5,0 van 5. Kies hem als je vooral een goede 55 inch tv zoekt waar je ook op gamet, niet als gamen het hoofddoel is.",
+      "rating": 5.0,
+      "ean": "8806096353134",
+      "bol_title": "LG 55QNED84A6C - 55 inch - 4K QNED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/lg-55qned84a6c-aeu-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000241396599/",
+      "image": "https://media.s-bol.com/rDv0ypOvr194/mwXyWPO/550x337.jpg",
+      "ph": {
+        "2026-11-27": 445.95
+      },
+      "low_price": 445.95,
+      "ph_ean": "8806096353134",
+      "synced": "2026-11-27"
+    },
+    {
       "brand": "TCL",
-      "name": "55P79L",
-      "price": 449.0,
+      "name": "43P79L",
+      "price": 329.0,
       "score": 7.9,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
-      "oneliner": "55 inch QLED met Google TV en VRR, maar een paneel van 60 Hz.",
+      "oneliner": "43 inch QLED met Google TV en VRR, maar een paneel van 60 Hz.",
       "specs": {
-        "Formaat": "55 inch",
+        "Formaat": "43 inch",
         "Paneel": "QLED",
         "Verversing": "60 Hz",
         "HDMI 2.1": "Ja, met eARC",
@@ -436,7 +392,7 @@
         "Stroomverbruik (SDR)": "klasse F (EU-label)"
       },
       "pros": [
-        "Groot QLED-scherm van 55 inch voor rond de 450 euro",
+        "QLED-scherm van 43 inch voor rond de 330 euro",
         "VRR via HDMI 2.1 en een gamestand",
         "Google TV met een grote appwinkel",
         "Dolby Vision voor films en series"
@@ -446,26 +402,67 @@
         "Input lag niet opgegeven",
         "Geen local dimming"
       ],
-      "ideal": "Wie af en toe op een console speelt en vooral een groot scherm met Google TV wil.",
-      "text": "De TCL 55P79L sluit deze lijst af als keuze voor wie af en toe gamet. Het is een QLED van 55 inch uit 2026 voor rond de 450 euro. Bol geeft 50 Hz op als standaard verversing en 60 Hz als maximum. Een PS5 of Xbox Series X speelt dus op hooguit 60 beelden per seconde. Voor avonturengames, racegames op de bank en voetbalgames is dat genoeg. Voor snelle shooters op 120 beelden per seconde kies je beter een van de Hisense PRO-modellen bovenaan.\n\nWat je wel krijgt is VRR via HDMI 2.1, zodat het beeld niet scheurt als de framerate schommelt, plus een gamestand. Een cijfer voor de input lag noemt bol niet en ALLM staat niet in de specificaties. Quantum dots geven vollere kleuren dan een gewone led-tv en Dolby Vision is aanwezig. Local dimming ontbreekt, dus donkere games ogen in een donkere kamer wat grijzig. Google TV heeft een grote appwinkel met Chromecast ingebouwd. Kopers op bol geven hem gemiddeld 4,4 van de 5.",
-      "ean": "5901292531355",
-      "bol_title": "TCL 55P79L - 55 inch - 4K QLED - 2026 - Smart TV",
-      "url": "https://www.bol.com/nl/nl/p/tcl-55p79l-55-inch-4k-qled-2026-smart-tv/9300000273452839/",
-      "image": "https://media.s-bol.com/gg9nk6G8jgWl/OyDl6QN/550x345.jpg",
-      "ph": {
-        "2026-11-26": 449.0,
-        "2026-11-27": 449.0
-      },
-      "low_price": 449.0,
-      "ph_ean": "5901292531355",
+      "ideal": "Wie af en toe op een console speelt in een slaapkamer of gamekamer en Google TV wil.",
+      "text": "De TCL 43P79L sluit deze lijst af als keuze voor wie af en toe gamet. Het is een QLED van 43 inch uit 2026 voor rond de 330 euro, de laagste prijs in deze lijst. Bol geeft 50 Hz op als standaard verversing en 60 Hz als maximum. Een PS5 of Xbox Series X speelt dus op hooguit 60 beelden per seconde. Voor avonturengames, racegames op de bank en voetbalgames is dat genoeg. Voor snelle shooters op 120 beelden per seconde kies je beter een van de Hisense PRO-modellen bovenaan.\n\nWat je wel krijgt is VRR via HDMI 2.1, zodat het beeld niet scheurt als de framerate schommelt, plus een gamestand. Een cijfer voor de input lag noemt bol niet en ALLM staat niet in de specificaties. Quantum dots geven vollere kleuren dan een gewone led-tv en Dolby Vision is aanwezig. Local dimming ontbreekt, dus donkere games ogen in een donkere kamer wat grijzig. Google TV heeft een grote appwinkel met Chromecast ingebouwd. Kopers op bol geven hem gemiddeld 4,4 van de 5.",
+      "ean": "5901292531379",
+      "bol_title": "TCL 43P79L - 43 inch - 4K QLED - 2026 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/tcl-43p79l-43-inch-4k-qled-2026-smart-tv/9300000273452845/",
+      "image": "https://media.s-bol.com/Jm9NQNXyEGjl/W70Oopv/550x349.jpg",
       "rating": 4.4,
+      "ph": {
+        "2026-11-27": 329.0
+      },
+      "low_price": 329.0,
+      "ph_ean": "5901292531379",
+      "synced": "2026-11-27"
+    },
+    {
+      "brand": "Hisense",
+      "name": "50E7Q",
+      "price": 399.0,
+      "score": 7.8,
+      "label": null,
+      "reviews": "bol-score 4,2 van 5",
+      "oneliner": "QLED van 50 inch met Dolby Vision en een gamestand op 60 Hz.",
+      "specs": {
+        "Formaat": "50 inch",
+        "Paneel": "QLED",
+        "Verversing": "60 Hz",
+        "HDMI 2.1": "Ja, 3 HDMI-poorten met eARC",
+        "VRR en ALLM": "VRR via HDMI 2.1 (opgave bol), ALLM niet opgegeven",
+        "Input lag": "16 ms (opgave bol)",
+        "Stroomverbruik (SDR)": "klasse E (EU-label)"
+      },
+      "pros": [
+        "QLED met Dolby Vision en HDR10+",
+        "HDMI 2.1 met eARC en Game Mode PLUS",
+        "Input lag van 16 milliseconden volgens bol",
+        "Energielabel E"
+      ],
+      "cons": [
+        "Paneel van 60 Hz",
+        "Model uit 2025",
+        "Nieuwere Hisense 55E7S is even duur en groter"
+      ],
+      "ideal": "Wie 50 inch zoekt, vooral films en series kijkt en daarnaast op 60 beelden per seconde speelt.",
+      "text": "De Hisense 50E7Q is de QLED van Hisense uit 2025 en kost 399 euro. Het paneel werkt op 60 Hz. Hisense noemt een Game Mode PLUS op 60 Hz en een High Speed Rate van 120 Hz. Dat laatste is geen paneel van 120 Hz: bol geeft 60 Hz op als maximum. Verder noemt bol HDMI 2.1 met eARC, drie HDMI-poorten en een input lag van 16 milliseconden. Bij VRR spreekt bol zichzelf tegen: er staat zowel geen VRR als VRR via HDMI 2.1.\n\nVoor films is hij sterker dan voor games. De quantum dots geven volle kleuren en hij speelt Dolby Vision IQ, HDR10+, HDR10 en HLG af. De speakers leveren 20 watt en VIDAA heeft de grote Nederlandse apps. De bol-score is 4,2 van 5. Eerlijk is eerlijk: de nieuwere Hisense 55E7S kost hetzelfde, is groter en heeft volgens bol een input lag van 10 milliseconden. Kies de 50E7Q als 50 inch precies de maat is die past. Voor 80 euro meer heeft de Hisense 50E7S PRO een paneel van 144 Hz.",
+      "rating": 4.2,
+      "ean": "6942351418636",
+      "bol_title": "Hisense 50E7Q - 50 inch - 4K QLED - 2025 - Smart TV",
+      "url": "https://www.bol.com/nl/nl/p/50e7q/9300000227859974/",
+      "image": "https://media.s-bol.com/M3wZgkmZ1L43/QkJoLwG/550x339.jpg",
+      "ph": {
+        "2026-11-27": 399.0
+      },
+      "low_price": 399.0,
+      "ph_ean": "6942351418636",
       "synced": "2026-11-27"
     }
   ],
   "guide": [
     {
       "h": "Wat krijg je als gamer voor minder dan 500 euro?",
-      "p": "Onder 500 euro bestaan twee soorten tv's voor gamers. De eerste groep heeft een paneel van 100 tot 144 Hz met HDMI 2.1 en VRR. Daarop speel je met een PS5 of Xbox Series X in 4K op 120 beelden per seconde. In deze lijst zijn dat de vier Hisense PRO-modellen, de TCL 50Q6C en de Philips 50PUS9000. De tweede groep werkt op 60 Hz en kost 347 tot 438 euro. OLED en fel Mini LED met veel dimzones vallen buiten dit budget."
+      "p": "Onder 500 euro bestaan twee soorten tv's voor gamers. De eerste groep heeft een paneel van 100 tot 144 Hz met HDMI 2.1 en VRR. Daarop speel je met een PS5 of Xbox Series X in 4K op 120 beelden per seconde. In deze lijst zijn dat de vier Hisense PRO-modellen. De tweede groep werkt op 60 Hz en kost 329 tot 446 euro. OLED en fel Mini LED met veel dimzones vallen buiten dit budget."
     },
     {
       "h": "Echte 120 Hz of alleen een gamestand?",
@@ -477,7 +474,7 @@
     },
     {
       "h": "Input lag: welke cijfers zijn bekend?",
-      "p": "Input lag is de tijd tussen een druk op de knop en de reactie op het scherm. Onder 20 milliseconden merk je er als gewone speler weinig van. Bol geeft het bij een deel van de tv's op: 6 of 7 milliseconden bij de Hisense PRO-modellen, 10 bij de Hisense 55E7S en 15 bij de Xiaomi. Bij TCL, Philips, LG en Samsung staat geen cijfer. Dat betekent niet dat ze traag zijn, alleen dat de opgave ontbreekt. Wij vullen zo'n cijfer niet zelf in."
+      "p": "Input lag is de tijd tussen een druk op de knop en de reactie op het scherm. Onder 20 milliseconden merk je er als gewone speler weinig van. Bol geeft het bij een deel van de tv's op: 6 of 7 milliseconden bij de Hisense PRO-modellen, 10 bij de Hisense 55E7S, 15 bij de Xiaomi en 16 bij de Hisense 50E7Q. Bij TCL en LG staat geen cijfer. Dat betekent niet dat ze traag zijn, alleen dat de opgave ontbreekt. Wij vullen zo'n cijfer niet zelf in."
     },
     {
       "h": "Welk formaat kies je: 43, 50 of 55 inch?",
@@ -491,11 +488,11 @@
   "faq": [
     {
       "q": "Wat is de beste gaming-tv onder 500 euro?",
-      "a": "De Hisense 50E7S PRO is de beste gaming-tv onder 500 euro. Je krijgt een paneel van 144 Hz, HDMI 2.1 met VRR, vier HDMI-poorten en volgens bol een input lag van 6 milliseconden voor 479 euro. Zoek je meer contrast, kies dan de TCL 50Q6C met Mini LED."
+      "a": "De Hisense 50E7S PRO is de beste gaming-tv onder 500 euro. Je krijgt een paneel van 144 Hz, HDMI 2.1 met VRR, vier HDMI-poorten en volgens bol een input lag van 6 milliseconden voor 479 euro. Wil je een groter scherm, kies dan de Hisense 55E7S PRO."
     },
     {
       "q": "Welke tv onder 500 euro heeft echt 120 Hz in 4K om te gamen?",
-      "a": "Bij bol geven vijf tv's onder 500 euro een paneel van 144 Hz op: de Hisense 43E7Q PRO, 43E7S PRO, 50E7S PRO en 55E7S PRO en de TCL 50Q6C. De Philips 50PUS9000 staat op 100 Hz standaard. De overige vier tv's in deze lijst hebben een paneel van 60 Hz."
+      "a": "In deze lijst geven vier tv's een paneel van 144 Hz op: de Hisense 43E7Q PRO, 43E7S PRO, 50E7S PRO en 55E7S PRO. De overige zes tv's in deze lijst hebben een paneel van 60 Hz."
     },
     {
       "q": "Kun je goed gamen op een tv van 60 Hz onder 500 euro?",
@@ -503,7 +500,7 @@
     },
     {
       "q": "Welke gaming-tv onder 500 euro past het best bij een PS5?",
-      "a": "Een PS5 levert maximaal 4K op 120 Hz met VRR. De Hisense 50E7S PRO, de Hisense 55E7S PRO en de TCL 50Q6C kunnen dat volgens de opgave bij bol aan. De TCL noemt daarbij ook ALLM. Speel je vooral verhalende games, dan volstaat een tv van 60 Hz."
+      "a": "Een PS5 levert maximaal 4K op 120 Hz met VRR. De Hisense 50E7S PRO en de Hisense 55E7S PRO kunnen dat volgens de opgave bij bol aan. Speel je vooral verhalende games, dan volstaat een tv van 60 Hz."
     },
     {
       "q": "Is een gaming-tv van 55 inch met 144 Hz haalbaar onder 500 euro?",
@@ -515,6 +512,24 @@
     }
   ],
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "TCL 50Q6C",
+      "in": "Hisense 50E7Q",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-27",
+      "uit": "Philips Ambilight 50PUS9000/12",
+      "in": "LG 55QNED84A6C",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-27",
+      "uit": "TCL 55P79L",
+      "in": "TCL 43P79L",
+      "waarom": "55 inch niet meer leverbaar bij bol, de 43 inch uit dezelfde serie wel"
+    },
     {
       "d": "2026-11-26",
       "uit": "Samsung UE55U7090H",

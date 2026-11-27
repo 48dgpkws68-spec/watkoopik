@@ -30,7 +30,7 @@
     "beste-luchtontvochtiger"
   ],
   "intro": "Wat krijg je voor een luchtreiniger onder 100 euro? Een CADR van 60 tot 260 m³/u, genoeg voor een kamer van 5 tot ruim 20 m² als je de lucht vijf keer per uur wilt verversen. Een woonkamer van 40 m² haal je voor dit geld niet. HEPA H13 staat lang niet overal bij: Coway, Philips en Xiaomi noemen geen klasse. Het geluid loopt van 11 dB in de slaapstand tot 50 dB op vol vermogen. Filters kosten 6 tot ruim 80 euro per jaar. Wij vergeleken de luchtreinigers die nu bij bol onder 100 euro te koop zijn.",
-  "verdict": "De Coway Airmega 100 is de beste luchtreiniger onder 100 euro: 244 m³/u, een sensor met automatische stand en een filterset van 29,99 euro per jaar voor 83,99 euro. De Xiaomi Smart Air Purifier 4 Compact is de beste prijs-kwaliteit met 230 m³/u en een app voor 74,99 euro. Slaap je licht, dan is de Philips PureProtect 700 met 11 dB en een filter voor drie jaar de luxere keuze. Voor rond de 50 euro kies je de Coway Airmega 50 of de BLANC SQUARE Pro.",
+  "verdict": "De Coway Airmega 100 is de beste luchtreiniger onder 100 euro: 244 m³/u, een sensor met automatische stand en een filterset van 29,99 euro per jaar voor 83,99 euro. De Xiaomi Smart Air Purifier 4 Compact is de beste prijs-kwaliteit met 230 m³/u en een app voor 74,99 euro. Slaap je licht, dan is de Philips PureProtect 700 met 11 dB en een filter voor drie jaar de luxere keuze. Voor rond de 50 euro kies je de BLANC SQUARE Pro of de Philips PureProtect 500.",
   "products": [
     {
       "brand": "Coway",
@@ -193,84 +193,84 @@
       "synced": "2026-11-27"
     },
     {
-      "brand": "Coway",
-      "name": "Airmega 50",
-      "price": 49.99,
-      "score": 8.5,
+      "brand": "Levoit",
+      "name": "Core Mini-P",
+      "price": 79.95,
+      "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
-      "oneliner": "Kleine Coway met sensor en 18,4 dB voor 50 euro.",
+      "oneliner": "Kleinste Levoit: 58 m³/u, vanaf 25 dB en een aromapad.",
       "specs": {
-        "CADR": "120 m³/u",
-        "Ruimte": "25 of 31 m² volgens bol",
-        "Filter": "Voorfilter + actieve kool + HEPA",
-        "Geluid": "18,4 dB in slaapstand, max niet opgegeven",
-        "Vermogen": "Niet opgegeven"
+        "CADR": "58 m³/u volgens bol",
+        "Ruimte": "Tot 20 m² volgens bol",
+        "Filter": "Voorfilter + hoofdfilter + actieve kool",
+        "Geluid": "Vanaf 25 dB, max niet opgegeven",
+        "Vermogen": "7 W"
       },
       "pros": [
-        "Sensor met automatische stand voor 49,99 euro",
-        "18,4 dB in de slaapstand",
-        "ECARF-keurmerk",
-        "Klein: 17 x 17 x 32 cm en 1,6 kg"
+        "Past op een nachtkastje: ongeveer een kilo",
+        "Draait vanaf 25 dB",
+        "Aromapad voor etherische olie",
+        "Verbruikt volgens bol 7 W"
       ],
       "cons": [
-        "Bol noemt drie verschillende kamergroottes",
-        "Vermogen en maximaal geluid staan nergens",
-        "Filter gaat acht maanden mee, prijs niet gevonden bij bol"
+        "CADR van 58 m³/u is de laagste van deze lijst",
+        "Geen HEPA-klasse vermeld",
+        "Maximaal geluid staat nergens"
       ],
-      "ideal": "Wie voor een kleine slaapkamer of werkplek tot ongeveer 10 m² een stille luchtreiniger met sensor zoekt.",
-      "text": "De Coway Airmega 50 is de kleine broer van onze nummer 1 en kost 49,99 euro. De CADR is 120,1 m³/u, precies de helft van de Airmega 100. Hij meet 17 bij 17 bij 32 cm en weegt 1,6 kg, dus hij past op een nachtkastje of bureau. Net als het grote model heeft hij een sensor met automatische stand, bediening met één knop en het ECARF-keurmerk. In de slaapstand maakt hij 18,4 dB.\n\nDe gegevens bij bol rammelen. De titel noemt ruimtes tot 31 m², de opsomming erboven 25 m² en de tabel 63 m². Ga bij 120 m³/u uit van ongeveer 10 m² als je de lucht vijf keer per uur wilt verversen. Het vermogen en het geluid op de hoogste stand staan nergens. Het filter gaat volgens Coway acht maanden mee, korter dan het jaar van de Airmega 100. Een losse filterset voor dit model vonden wij niet bij bol. Bij bol staat hij op een 4,6.",
-      "ean": "8809825509390",
+      "ideal": "Wie naast het bed of op het bureau een kleine, stille luchtreiniger van een bekend merk wil.",
+      "text": "De Levoit Core Mini-P is de kleinste luchtreiniger van Levoit en kost 79,95 euro. Hij weegt ongeveer een kilo en past op een nachtkastje of bureau. Het filter heeft drie lagen: een voorfilter voor haren en pluizen, een hoofdfilter voor fijnstof en pollen en actieve kool tegen geurtjes. De lucht wordt rondom aangezogen, dus hij hoeft niet in een bepaalde richting te staan. Op een aromapad doe je een paar druppels etherische olie.\n\nDe capaciteit is bescheiden. Bol noemt een CADR van 58 m³/u, nog iets lager dan de Philips PureProtect 500. Volgens bol is hij voor ruimtes tot 20 m². Wil je de lucht vijf keer per uur verversen, dan is ongeveer 5 m² realistischer. Zet hem dus dicht bij je bed of werkplek. Hij draait vanaf 25 dB en verbruikt volgens bol 7 W. Het geluid op de hoogste stand staat er niet bij. Een HEPA-klasse noemt Levoit bij dit model niet. Per kuub schone lucht betaal je hier meer dan bij Coway of Xiaomi. Bij bol staat hij op een 4,6.",
+      "ean": "8721569480523",
       "rating": 4.6,
-      "bol_title": "Coway Airmega 50 Luchtreiniger - Air Purifier – 120 m³/u - HEPA filter + koolstoffilter - Voor ruimtes tot 31m² - Tegen stof, pollen, allergenen en geuren - Fluisterstil (18 dB) - ECARF gecertificeerd",
-      "url": "https://www.bol.com/nl/nl/p/coway-luchtreiniger-airmega-50-ap-0425c-120-1-m-u-air-purifier-koolstoffilter-helpt-bij-allergie-luchtkwaliteit-sensor-stille-modus/9300000237910562/",
-      "image": "https://media.s-bol.com/qvlnWW7gkxjk/4R91Wog/550x779.jpg",
+      "bol_title": "Levoit Core Mini-P Luchtreiniger – 3-Laags Filtersysteem – Voor Slaapkamer & Kantoor – Tegen Stof, Pollen, Geurtjes & Huisdierharen – Aromatherapie – Stil vanaf 25 dB – Wit",
+      "url": "https://www.bol.com/nl/nl/p/levoit-core-mini-p-luchtreiniger-3-laags-filtersysteem-voor-slaapkamer-kantoor-tegen-stof-pollen-geurtjes-huisdierharen-aromatherapie-stil-vanaf-25-db-wit/9300000407875364/",
+      "image": "https://media.s-bol.com/B3jQRNKPqOGk/qQDGj9k/550x550.jpg",
+      "ph_ean": "8721569480523",
+      "synced": "2026-11-27",
       "ph": {
-        "2026-11-27": 49.99
+        "2026-11-27": 79.95
       },
-      "low_price": 49.99,
-      "ph_ean": "8809825509390",
-      "synced": "2026-11-27"
+      "low_price": 79.95
     },
     {
       "brand": "Vibrix",
-      "name": "PureFlow15",
-      "price": 69.95,
+      "name": "PureFlow15 Pro",
+      "price": 83.95,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
-      "oneliner": "HEPA H13 met app voor kamers tot 15 m², filter 25 euro.",
+      "oneliner": "Zes filterlagen en app voor kamers tot 15 m², filter 29 euro.",
       "specs": {
         "CADR": "100 m³/u",
         "Ruimte": "Tot 15 m²",
-        "Filter": "HEPA H13 + actieve kool + ionisator",
+        "Filter": "6 lagen: HEPA + actieve kool + ionisator",
         "Geluid": "25 tot 50 dB",
         "Vermogen": "5 tot 8 W"
       },
       "pros": [
-        "Vermeldt uitdrukkelijk HEPA H13",
+        "App, automatische stand en luchtkwaliteitsindicator",
         "Eerlijke opgave: aanbevolen tot 15 m²",
-        "Wifi-app, timer van 1 tot 8 uur en kinderslot",
-        "Origineel filter kost 25 euro en gaat tot 12 maanden mee"
+        "Timer, kinderslot en voeding via USB-C",
+        "Origineel filter kost 29 euro en gaat ongeveer 12 maanden mee"
       ],
       "cons": [
-        "100 m³/u is weinig voor 69,95 euro",
-        "De tabel bij bol noemt 50 m², de tekst 15 m²",
+        "100 m³/u is weinig voor 83,95 euro",
+        "Noemt geen HEPA-klasse",
         "50 dB op de hoogste stand"
       ],
-      "ideal": "Wie een kleine slaapkamer of babykamer tot 15 m² heeft en waarde hecht aan een H13-filter en een app.",
-      "text": "De Vibrix PureFlow15 is een van de weinige modellen onder 100 euro die de filterklasse hard noemt: HEPA H13, dat 99,97 procent van de deeltjes tot 0,3 micron afvangt. Daarnaast zitten er een voorfilter, actieve kool en een ionisator in. Die ionisator zet je in de app uit als je hem niet wilt gebruiken. Met een CADR van 100 m³/u adviseert Vibrix hem voor kamers tot 15 m². De tabel bij bol noemt 50 m², maar dat past niet bij deze capaciteit.\n\nDe bediening is ruim voor deze prijs: wifi met app, een timer van 1 tot 8 uur, kinderslot, een fijnstofsensor met automatische stand en een aansluiting via USB-C. Hij verbruikt 5 tot 8 W. Het geluid loopt van 25 dB in de slaapstand tot 50 dB op de hoogste stand. Een origineel filter kost bij bol 25 euro en gaat volgens Vibrix tot twaalf maanden mee. Per kuub schone lucht betaal je hier wel meer dan bij Coway of Xiaomi.",
-      "ean": "8721082170468",
+      "ideal": "Wie een kleine slaapkamer of babykamer tot 15 m² heeft en waarde hecht aan een app en een automatische stand.",
+      "text": "De Vibrix PureFlow15 Pro is de uitgebreidere versie van de PureFlow15 en kost 83,95 euro. Het filter telt volgens Vibrix zes lagen: een nanofilter, een voorfilter, actieve kool, een HEPA-filter, een koude katalysator en een ionisator zonder ozon. Een HEPA-klasse zoals H13 noemt Vibrix bij de Pro niet. Met een CADR van 100 m³/u adviseert het merk hem voor kamers tot 15 m². De tabel bij bol noemt 50 m², maar dat past niet bij deze capaciteit.\n\nDe bediening is ruim voor deze prijs: een app, een automatische stand met luchtkwaliteitsindicator, vier snelheden, een timer, kinderslot en een aansluiting via USB-C. Hij verbruikt 5 tot 8 W. Het geluid loopt van 25 dB in de slaapstand tot 50 dB op de hoogste stand. Het filter gaat volgens Vibrix ongeveer twaalf maanden mee en een origineel filter voor de Pro kost bij bol 29 euro. Per kuub schone lucht betaal je hier wel meer dan bij Coway of Xiaomi. Bij bol staat hij op een 4,6.",
+      "ean": "8721082170475",
       "rating": 4.6,
-      "bol_title": "Vibrix PureFlow15 Luchtreiniger / Air Purifier – HEPA H13 + koolstoffilter – 100 m³/u – Voor kamers tot 15 m² – Ionisator – App-bediening – Zeer stil met slaapstand – Luchtkwaliteitindicator",
-      "url": "https://www.bol.com/nl/nl/p/vibrix-pureflow15-wit-luchtreiniger/9300000231461303/",
-      "image": "https://media.s-bol.com/qzVgk55k6E33/Z8V3R58/550x550.jpg",
+      "bol_title": "Vibrix PureFlow15 Pro Luchtreiniger / Air Purifier – HEPA + koolstoffilter – 100 m³/u – Voor kamers tot 15 m² – Ionisator – App-bediening – Zeer stil met slaapstand – Luchtkwaliteitindicator",
+      "url": "https://www.bol.com/nl/nl/p/vibrix-pureflow15-pro-luchtreiniger/9300000231464346/",
+      "image": "https://media.s-bol.com/L3YQkgQnDp4A/qQYG1Ek/550x550.jpg",
+      "ph_ean": "8721082170475",
+      "synced": "2026-11-27",
       "ph": {
-        "2026-11-27": 69.95
+        "2026-11-27": 83.95
       },
-      "low_price": 69.95,
-      "ph_ean": "8721082170468",
-      "synced": "2026-11-27"
+      "low_price": 83.95
     },
     {
       "brand": "Dynter",
@@ -374,12 +374,12 @@
         "Vak voor etherische olie"
       ],
       "cons": [
-        "60 m³/u is de laagste CADR van deze lijst",
+        "60 m³/u is op één na de laagste CADR van deze lijst",
         "Geen app, timer of automatische stand",
         "Nog geen score bij bol"
       ],
       "ideal": "Wie naast het bed of op het bureau een heel stille, zuinige luchtreiniger wil voor een ruimte tot ongeveer 5 m².",
-      "text": "De Philips PureProtect 500 is de kleinste luchtreiniger van Philips: 27,5 cm hoog, 17 cm breed en 1,25 kg. Hij kost 52,90 euro. Het filter heeft dezelfde drie lagen als de duurdere 700: voorfilter, HEPA NanoProtect en actieve kool. Volgens Philips gaat het drie jaar mee. Het vervangfilter FY0500/30 kost bij bol 17,78 euro, omgerekend zes euro per jaar. In de slaapstand maakt hij 12 dB, op de hoogste stand 38 dB. Het verbruik is maximaal 5 W.\n\nDaar staat een lage capaciteit tegenover. De CADR is 60 m³/u, de laagste van deze lijst. De 25 m² die Philips noemt, geldt bij één luchtwisseling per uur. Wil je de lucht vijf keer per uur verversen, dan is 5 m² realistischer. Zet hem dus dicht bij je bed of bureau. Een app, timer of automatische stand heeft hij niet. Je kiest zelf uit slaap, medium en turbo. Hij is nieuw bij bol en heeft daar nog geen score.",
+      "text": "De Philips PureProtect 500 is de kleinste luchtreiniger van Philips: 27,5 cm hoog, 17 cm breed en 1,25 kg. Hij kost 52,90 euro. Het filter heeft dezelfde drie lagen als de duurdere 700: voorfilter, HEPA NanoProtect en actieve kool. Volgens Philips gaat het drie jaar mee. Het vervangfilter FY0500/30 kost bij bol 17,78 euro, omgerekend zes euro per jaar. In de slaapstand maakt hij 12 dB, op de hoogste stand 38 dB. Het verbruik is maximaal 5 W.\n\nDaar staat een lage capaciteit tegenover. De CADR is 60 m³/u, op de Levoit na de laagste van deze lijst. De 25 m² die Philips noemt, geldt bij één luchtwisseling per uur. Wil je de lucht vijf keer per uur verversen, dan is 5 m² realistischer. Zet hem dus dicht bij je bed of bureau. Een app, timer of automatische stand heeft hij niet. Je kiest zelf uit slaap, medium en turbo. Hij is nieuw bij bol en heeft daar nog geen score.",
       "ean": "8720389080739",
       "bol_title": "Philips PureProtect 500 Series, Luchtreiniger - CADR 60 m3/u, Ruimtes tot 25m2, 3 Laags HEPA Filtratie, Ultrastil, Aromatherapie - Wit, AC0520/10",
       "url": "https://www.bol.com/nl/nl/p/philips-pureprotect-500-series-luchtreiniger-cadr-60-m3-u-ruimtes-tot-25m2-3-laags-hepa-filtratie-ultrastil-aromatherapie-wit-ac0520-10/9300000330994904/",
@@ -443,15 +443,15 @@
     },
     {
       "h": "HEPA H13 of niet",
-      "p": "H13 is een filterklasse uit de Europese norm EN 1822 en houdt 99,95 procent van de moeilijkst te vangen deeltjes tegen. Onder 100 euro noemen vooral kleinere merken die klasse: Vibrix, Dynter, BLANC SQUARE en Sinji. Coway, Philips en Xiaomi geven wel een percentage op, zoals 99,97 procent bij 0,3 µm, maar geen klasse. Dat maakt hun filter niet slechter, alleen minder goed te vergelijken. Let ook op actieve kool: die is nodig tegen geur. De Philips AC0650/10 heeft volgens de specificaties geen koolfilter. Een ionisator zit in de Vibrix, Dynter en Sinji."
+      "p": "H13 is een filterklasse uit de Europese norm EN 1822 en houdt 99,95 procent van de moeilijkst te vangen deeltjes tegen. Onder 100 euro noemen vooral kleinere merken die klasse: Dynter, BLANC SQUARE en Sinji. Coway, Philips en Xiaomi geven wel een percentage op, zoals 99,97 procent bij 0,3 µm, maar geen klasse. Dat maakt hun filter niet slechter, alleen minder goed te vergelijken. Let ook op actieve kool: die is nodig tegen geur. De Philips AC0650/10 heeft volgens de specificaties geen koolfilter. Een ionisator zit in de Vibrix, Dynter en Sinji."
     },
     {
       "h": "Geluid: slaapstand en hoogste stand",
-      "p": "In de slaapstand zijn bijna alle luchtreinigers onder 100 euro stil: 11 tot 28 dB. Het verschil zit in de hoogste stand, waar de volledige CADR voor geldt. Die ligt volgens de opgaven tussen 35 en 52 dB, het niveau van een zacht gesprek. In de slaapstand lever je veel capaciteit in. Een praktische aanpak: laat hem een uur voor het slapen op de hoogste stand draaien en zet hem daarna in de slaapstand. Niet elk merk geeft het maximale geluid op. Bij de Xiaomi en de Coway Airmega 50 staat het nergens bij bol."
+      "p": "In de slaapstand zijn bijna alle luchtreinigers onder 100 euro stil: 11 tot 28 dB. Het verschil zit in de hoogste stand, waar de volledige CADR voor geldt. Die ligt volgens de opgaven tussen 35 en 52 dB, het niveau van een zacht gesprek. In de slaapstand lever je veel capaciteit in. Een praktische aanpak: laat hem een uur voor het slapen op de hoogste stand draaien en zet hem daarna in de slaapstand. Niet elk merk geeft het maximale geluid op. Bij de Xiaomi en de Levoit Core Mini-P staat het nergens bij bol."
     },
     {
       "h": "Filterkosten per jaar",
-      "p": "De aanschafprijs zegt weinig zonder de filterprijs. De Philips PureProtect 500 is het goedkoopst in gebruik: een filter van 17,78 euro dat drie jaar meegaat, dus zes euro per jaar. De Vibrix PureFlow15 komt op 25 euro per jaar, de Coway Airmega 100 op 30 euro. De Dynter is het andere uiterste: een filter van 54,95 euro per zes tot acht maanden, omgerekend 82 tot 110 euro per jaar. Bij de Sinji, de Coway Airmega 50 en de Philips 700 vonden wij geen los filter bij bol. Controleer dat voordat je bestelt."
+      "p": "De aanschafprijs zegt weinig zonder de filterprijs. De Philips PureProtect 500 is het goedkoopst in gebruik: een filter van 17,78 euro dat drie jaar meegaat, dus zes euro per jaar. De Vibrix PureFlow15 Pro komt op 29 euro per jaar, de Coway Airmega 100 op 30 euro. De Dynter is het andere uiterste: een filter van 54,95 euro per zes tot acht maanden, omgerekend 82 tot 110 euro per jaar. Bij de Sinji en de Philips 700 vonden wij geen los filter bij bol. Controleer dat voordat je bestelt."
     },
     {
       "h": "Stroomverbruik en plaatsing",
@@ -473,7 +473,7 @@
     },
     {
       "q": "Heeft een goedkope luchtreiniger een echt HEPA H13-filter?",
-      "a": "Soms. Vibrix, Dynter, BLANC SQUARE en Sinji vermelden HEPA 13 of H13. Coway, Philips en Xiaomi noemen een HEPA-filter en een afvangpercentage, maar geen klasse. Een onafhankelijk rapport bij die claim zie je in deze prijsklasse zelden. Het ECARF-keurmerk van Coway en de Philips 700 is wel een extern keurmerk."
+      "a": "Soms. Dynter, BLANC SQUARE en Sinji vermelden HEPA 13 of H13. Coway, Philips en Xiaomi noemen een HEPA-filter en een afvangpercentage, maar geen klasse. Een onafhankelijk rapport bij die claim zie je in deze prijsklasse zelden. Het ECARF-keurmerk van Coway en de Philips 700 is wel een extern keurmerk."
     },
     {
       "q": "Wat kost een luchtreiniger aan filters en stroom per jaar?",
@@ -481,7 +481,21 @@
     },
     {
       "q": "Kun je met een luchtreiniger onder 100 euro in de slaapkamer slapen?",
-      "a": "Ja. De slaapstand ligt in deze lijst tussen 11 en 28 dB en bij de meeste modellen dimt of dooft de verlichting. De Philips PureProtect 700 (11 dB), Philips PureProtect 500 (12 dB) en Coway Airmega 50 (18,4 dB) zijn het stilst. Laat hem voor het slapen een uur op de hoogste stand draaien."
+      "a": "Ja. De slaapstand ligt in deze lijst tussen 11 en 28 dB en bij de meeste modellen dimt of dooft de verlichting. De Philips PureProtect 700 (11 dB) en de Philips PureProtect 500 (12 dB) zijn het stilst. Laat hem voor het slapen een uur op de hoogste stand draaien."
+    }
+  ],
+  "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "Coway Airmega 50",
+      "in": "Levoit Core Mini-P",
+      "waarom": "niet meer leverbaar bij bol"
+    },
+    {
+      "d": "2026-11-27",
+      "uit": "Vibrix PureFlow15",
+      "in": "Vibrix PureFlow15 Pro",
+      "waarom": "gewone uitvoering niet meer leverbaar bij bol, de Pro wel"
     }
   ]
 }

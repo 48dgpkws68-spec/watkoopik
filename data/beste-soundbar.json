@@ -13,7 +13,7 @@
     "soundbar voor tv"
   ],
   "ico": "🔈",
-  "updated": "2026-10-14",
+  "updated": "2026-11-27",
   "reviews_total": "14.200",
   "intro": "De luidsprekers in een moderne tv zijn dun en klinken daardoor vaak blikkerig. Een soundbar lost dat op zonder een kast vol speakers. Wij vergeleken soundbars op kanalen, Dolby Atmos, basweergave, spraakverstaanbaarheid, aansluitingen en streaming. Per product staat de score bij bol erbij. Het resultaat zijn tien soundbars voor elk budget: van een compacte bar onder de tv in de slaapkamer tot een compleet thuisbioscoopsysteem met losse subwoofer en achterspeakers.",
   "verdict": "De Sonos Arc Ultra is de beste soundbar van 2026: hij geeft overtuigend Dolby Atmos uit één bar, verrassend veel bas zonder subwoofer en dialogen blijven goed verstaanbaar. De Sonos Beam (Gen 2) is de beste prijs-kwaliteit voor gemiddelde woonkamers. Wil je een echte thuisbioscoop met alles erbij, dan is de Samsung HW-Q990F de beste premium keuze met subwoofer en achterspeakers in de doos.",
@@ -538,66 +538,42 @@
     },
     {
       "brand": "LG",
-      "name": "DS80TR",
-      "price": 379.0,
+      "name": "DS70TY",
+      "price": 269.0,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,1 van 5",
-      "oneliner": "Complete 5.1.3 Atmos-set met draadloze subwoofer voor een middenprijs.",
+      "reviews": "bol-score 5,0 van 5",
+      "oneliner": "3.1.1 Atmos-set van 400 watt met draadloze subwoofer.",
       "specs": {
-        "Kanalen": "5.1.3",
+        "Kanalen": "3.1.1",
         "Dolby Atmos": "Ja",
         "Subwoofer": "Draadloos, meegeleverd",
         "Aansluiting": "HDMI eARC",
-        "Streaming": "Wifi, AirPlay 2, Bluetooth"
+        "Streaming": "Bluetooth"
       },
       "pros": [
-        "5.1.3 kanalen met naar boven gerichte speakers",
+        "3.1.1 kanalen met een naar boven gerichte speaker",
         "Draadloze subwoofer meegeleverd",
-        "Werkt samen met LG-tv's via WOW Orchestra",
-        "Dolby Atmos en DTS:X"
+        "Dolby Atmos en DTS:X",
+        "Aparte middenspeaker voor stemmen"
       ],
       "cons": [
-        "LG-app is minder prettig dan die van Sonos",
-        "Muziek klinkt wat minder levendig dan films"
+        "Geen achterspeakers",
+        "Streamen alleen via Bluetooth volgens de titel bij bol"
       ],
-      "ideal": "Filmkijkers die Atmos met echte hoogtekanalen willen zonder de prijs van een topmodel.",
-      "text": "De LG DS80TR is een complete Atmos-set voor wie meer wil dan een losse bar maar geen duizend euro wil uitgeven. Met 5.1.3 kanalen heeft hij drie naar boven gerichte speakers, zodat regen, helikopters en muziek in films ook van boven lijken te komen. De meegeleverde draadloze subwoofer zet je waar hij in de kamer het beste past.\n\nNaast Dolby Atmos speelt hij ook DTS:X af, handig als je Blu-rays of een mediaspeler gebruikt. Heb je een LG-tv uit de laatste jaren, dan werkt WOW Orchestra: tv en soundbar spelen dan samen voor een breder geluidsbeeld. Via wifi stream je met AirPlay 2 en via Bluetooth vanaf elke telefoon. De LG-app werkt wat stroever dan die van Sonos en voor muziek klinkt de bar wat vlakker dan voor films. Kopers op bol geven hem gemiddeld 4,1 sterren. Voor een stevige filmset met hoogtekanalen is dit een logische middenkeuze.",
-      "ean": "8806096043233",
-      "bol_title": "LG DS80TR - Soundbar – 5.1.3 kanaals – Dolby Atmos – Draadloze subwoofer",
-      "url": "https://www.bol.com/nl/nl/p/lg-ds80tr-soundbar/9300000182427199/",
-      "image": "https://media.s-bol.com/yvEZyJqrnvnV/9rLZGW3/550x161.jpg",
-      "ph": {
-        "2026-11-04": 549.0,
-        "2026-11-05": 549.0,
-        "2026-11-06": 389.0,
-        "2026-11-07": 389.0,
-        "2026-11-08": 389.0,
-        "2026-11-09": 389.0,
-        "2026-11-10": 389.0,
-        "2026-11-11": 379.0,
-        "2026-11-12": 389.0,
-        "2026-11-13": 389.0,
-        "2026-11-14": 389.0,
-        "2026-11-16": 389.0,
-        "2026-11-17": 379.0,
-        "2026-11-18": 379.0,
-        "2026-11-19": 379.0,
-        "2026-11-20": 389.0,
-        "2026-11-21": 389.0,
-        "2026-11-22": 379.0,
-        "2026-11-23": 379.0,
-        "2026-11-24": 379.0,
-        "2026-11-25": 379.0,
-        "2026-11-26": 379.0,
-        "2026-11-27": 379.0
-      },
-      "low_price": 379.0,
+      "ideal": "Filmkijkers die Atmos met subwoofer willen voor minder dan 300 euro.",
+      "text": "De LG DS70TY is een Atmos-set voor wie meer wil dan een losse bar maar geen vijfhonderd euro wil uitgeven. Met 3.1.1 kanalen heeft hij een aparte middenspeaker voor stemmen en één naar boven gerichte speaker, zodat regen en helikopters in films ook van boven lijken te komen. Het totale vermogen is volgens LG 400 watt. De meegeleverde draadloze subwoofer zet je waar hij in de kamer het beste past.\n\nNaast Dolby Atmos speelt hij ook DTS:X af, handig als je Blu-rays of een mediaspeler gebruikt. Je sluit hem aan via HDMI eARC en er is volgens bol één extra HDMI-ingang. Muziek stream je via Bluetooth 5.0. Achterspeakers zitten er niet bij, dus het geluid komt vooral van voren en van boven. Voor echt surroundgeluid kijk je naar de Samsung HW-Q990F hoger in deze lijst. Bij bol staat hij op een 5,0 van 5. Voor een filmset met subwoofer en een hoogtekanaal is dit een voordelige middenkeuze.",
+      "ean": "8806087999587",
+      "bol_title": "LG DS70TY 3.1.1 Dolby Atmos Soundbar – Bioscoopgeluid voor Thuis – 400 W – Draadloze Subwoofer – Bluetooth 5.0",
+      "url": "https://www.bol.com/nl/nl/p/lg-ds70ty-soundbar/9300000175056750/",
+      "image": "https://media.s-bol.com/kkx1YVWgWgPv/YE9gkLY/550x169.jpg",
       "synced": "2026-11-27",
-      "prev_price": 389.0,
-      "prev_date": "2026-11-21",
-      "ph_ean": "8806096043233",
-      "rating": 4.1
+      "ph_ean": "8806087999587",
+      "rating": 5.0,
+      "ph": {
+        "2026-11-27": 269.0
+      },
+      "low_price": 269.0
     },
     {
       "brand": "JBL",
@@ -783,6 +759,12 @@
   ],
   "published": "2026-10-14",
   "wissels": [
+    {
+      "d": "2026-11-27",
+      "uit": "LG DS80TR",
+      "in": "LG DS70TY",
+      "waarom": "niet meer leverbaar bij bol"
+    },
     {
       "d": "2026-11-22",
       "uit": "Bose Smart Ultra Soundbar",
