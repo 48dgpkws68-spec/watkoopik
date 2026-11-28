@@ -14,10 +14,10 @@
   ],
   "ico": "🫧",
   "color": "#0369a1",
-  "updated": "2026-10-15",
-  "reviews_total": "8.600",
-  "intro": "Met een bruiswatertoestel maak je spuitwater van kraanwater. Dat scheelt sjouwen met kratten en flessen, levert minder plastic afval op en kost per liter maar een paar cent. Wij vergeleken daarvoor de apparaten die nu bij bol te koop zijn op type cilinder, flessen, bediening, bouwkwaliteit en ervaringen van kopers. Dit zijn de tien beste bruiswatertoestellen, van een betaalbaar instapmodel tot een roestvrijstalen designapparaat dat jarenlang op je aanrecht staat.",
-  "verdict": "De SodaStream Duo is voor de meeste mensen de beste keuze, omdat je zowel een glazen karaf als een vaatwasserbestendige fles kunt gebruiken en de Quick Connect-cilinder in een klik wisselt. De SodaStream Terra is de beste prijs-kwaliteit: dezelfde cilinder en betrouwbare techniek voor veel minder geld. Zoek je een apparaat dat ook een mooi object is, dan is de Aarke Carbonator 3 de beste premium keuze.",
+  "updated": "2026-11-28",
+  "reviews_total": "",
+  "intro": "Met een bruiswatertoestel maak je spuitwater van kraanwater. Dat scheelt sjouwen met flessen en het scheelt afval. Of het ook beter is voor het milieu dan flessen, is volgens Milieu Centraal uit onderzoek niet bekend. Wij vergeleken de toestellen die nu bij bol te koop zijn op type cilinder, flessen, wat er in de doos zit, bediening, afmetingen en de score bij bol. Let vooral op de cilinder: drie toestellen in deze lijst komen zonder en dat maakt de echte prijs ongeveer 25 euro hoger. Dit zijn de tien, van een instapper van rond de 40 euro tot een roestvrijstalen toestel van 251 euro.",
+  "verdict": "De SodaStream Duo is onze eerste keuze: in de doos zitten een glazen karaf, een vaatwasbestendige fles van 1 liter en een Quick Connect-cilinder. De SodaStream Terra is de beste prijs-kwaliteit: dezelfde cilinder en een vaatwasbestendige fles voor ongeveer 17 euro minder, zonder karaf. De Aarke Carbonator 3 is de premium keuze, met een behuizing van roestvrij staal en een schroefcilinder. Wil je niet aan Quick Connect vastzitten, kijk dan ook naar de Mysoda Woody: schroefcilinder en fles in de doos voor ruim 60 euro.",
   "products": [
     {
       "brand": "SodaStream",
@@ -28,24 +28,24 @@
       "reviews": "bol-score 4,5 van 5",
       "oneliner": "Bruist in een glazen karaf of een kunststof fles.",
       "specs": {
-        "Cilinder": "Quick Connect 60 l",
-        "Flessen": "glas 1 l + kunststof 1 l",
-        "Stroom nodig": "nee",
+        "Cilinder": "Quick Connect (roze), tot 60 l",
+        "Flessen": "glazen karaf 1 l + kunststof fles 1 l",
+        "In de doos": "toestel, karaf, fles, cilinder",
         "Bediening": "drukknop",
-        "Materiaal": "kunststof en metaal"
+        "Afmetingen (b x h x d)": "15,5 x 43,5 x 27,3 cm"
       },
       "pros": [
         "Werkt met glazen karaf en kunststof fles",
-        "Glazen karaf mag in de vaatwasser",
-        "Quick Connect-cilinder in een klik geplaatst",
+        "Karaf en fles mogen volgens SodaStream in de vaatwasser",
+        "Quick Connect-cilinder in de doos",
         "Geen stroom nodig"
       ],
       "cons": [
-        "Glazen karaf is zwaar",
-        "Duurder dan de Terra"
+        "Werkt alleen met Quick Connect-cilinders",
+        "Weegt volgens bol 5 kg"
       ],
       "ideal": "Wie spuitwater op tafel wil zetten in glas zonder plastic flessen.",
-      "text": "De SodaStream Duo is het populairste model van SodaStream voor wie glas wil. Het apparaat heeft een klep die je openklapt om een glazen karaf van een liter te plaatsen. Sluit je de klep, dan beschermt die je tegen de druk tijdens het bruisen. Klap je hem niet open, dan gebruik je de meegeleverde kunststof fles. Zo heb je de keuze tussen een mooie karaf op tafel en een lichte fles voor onderweg.\n\nDe Quick Connect-cilinder van 60 liter klik je met een hendel op zijn plaats, zonder schroeven. Met de grote drukknop bepaal je zelf hoeveel bubbels je wilt. Kopers op bol zijn vooral blij met de glazen karaf, die in de vaatwasser mag en geen smaak afgeeft. De karaf is wel zwaar en extra karaffen zijn duurder dan kunststof flessen. Wil je zo min mogelijk plastic gebruiken, dan is de Duo de verstandigste keuze.",
+      "text": "De SodaStream Duo werkt met een glazen karaf en met een kunststof fles. In de doos zitten volgens bol het toestel, een glazen karaf van 1 liter, een herbruikbare fles van 1 liter en een Quick Connect-cilinder. Karaf en fles mogen volgens SodaStream in de vaatwasser. Vul nooit boven de vullijn: bij de kunststof fles ligt die volgens SodaStream op 0,84 liter.\n\nDe roze Quick Connect-cilinder klik je vast zonder schroeven. Schroefcilinders passen niet. SodaStream noemt tot 60 liter per cilinder, afhankelijk van hoeveel prik je wilt. Het toestel werkt zonder stroom en is volgens bol 15,5 cm breed, 43,5 cm hoog en 27,3 cm diep. Bol noemt een gewicht van 5 kg. Stiftung Warentest schrijft dat glas niet veroudert en in de vaatwasser kan, maar ruim twee keer zo zwaar is als kunststof. Which? nam de Duo in oktober 2023 mee in een test. Het oordeel is alleen met een account te lezen. De score bij bol is 4,5 van 5.",
       "ean": "8719128118352",
       "bol_title": "Sodastream Bruiswatermachine Duo Zwart",
       "url": "https://www.bol.com/nl/nl/p/sodastream-duo-zwart-incl-quick-connect-koolzuurcilinder-met-1-glazen-en-1-herbruikbare-plastic-fles/9300000040812379/",
@@ -105,30 +105,30 @@
     {
       "brand": "SodaStream",
       "name": "Terra",
-      "price": 76.05,
+      "price": 76.2,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,5 van 5",
-      "oneliner": "Betrouwbare SodaStream met snel wisselbare cilinder.",
+      "oneliner": "SodaStream met Quick Connect-cilinder en vaatwasbestendige fles in de doos.",
       "specs": {
-        "Cilinder": "Quick Connect 60 l",
-        "Flessen": "kunststof 1 l",
-        "Stroom nodig": "nee",
+        "Cilinder": "Quick Connect (roze), tot 60 l",
+        "Flessen": "kunststof fles 1 l",
+        "In de doos": "toestel, fles, cilinder",
         "Bediening": "drukknop",
-        "Materiaal": "kunststof"
+        "Afmetingen (b x h x d)": "12,2 x 42 x 23 cm"
       },
       "pros": [
-        "Scherpe prijs",
-        "Quick Connect-cilinder in een klik",
-        "Compact op het aanrecht",
-        "Vaatwasserbestendige fles verkrijgbaar"
+        "Ongeveer 17 euro goedkoper dan de Duo",
+        "Meegeleverde fles mag in de vaatwasser",
+        "Quick Connect-cilinder in de doos",
+        "Smal: 12,2 cm breed"
       ],
       "cons": [
         "Geen glazen karaf",
-        "Behuizing van kunststof"
+        "Werkt alleen met Quick Connect-cilinders"
       ],
       "ideal": "Iedereen die voor weinig geld zelf spuitwater wil maken.",
-      "text": "De SodaStream Terra is het instapmodel van SodaStream. Hij werkt zonder stroom: je schroeft een kunststof fles van een liter onder de kop en drukt een paar keer op de grote knop. Twee tot drie keer drukken geeft licht bruisend water, vijf keer drukken geeft echt spuitwater.\n\nDe Terra gebruikt de roze Quick Connect-cilinder van 60 liter, die je met een hendel aan de achterkant vastklikt. Dat gaat veel sneller dan de oudere schroefcilinders. Kopers op bol geven hem hoge cijfers voor eenvoud en betrouwbaarheid. Het verschil met de Duo is dat er geen glazen karaf in past. De kunststof flessen moeten na een paar jaar vervangen worden, of je kiest voor de vaatwasserbestendige variant. In een voordeelpak met extra flessen en cilinder wordt hij nog iets aantrekkelijker. Voor de meeste beginners is dit de logische start.",
+      "text": "De SodaStream Terra werkt zonder stroom. Je klikt de fles vast zonder draaien en drukt op de knop: één, twee of drie keer voor meer bruis. In de doos zitten volgens bol het toestel, een herbruikbare fles van 1 liter die in de vaatwasser mag en een Quick Connect-cilinder. Het toestel is 12,2 cm breed, 42 cm hoog en 23 cm diep en weegt 2,26 kg.\n\nDe Terra werkt alleen met de roze Quick Connect-cilinder. Schroefcilinders van andere merken passen niet. Een glazen karaf past er ook niet in: daarvoor heb je de Duo nodig. De behuizing is van kunststof. Stiftung Warentest onderzocht de Terra in juni 2025 en Which? in oktober 2023. De oordelen per model staan achter een betaalmuur of account. Die hebben wij niet gelezen. Vrij leesbaar is wel dat maar één van de zeven toestellen bij Stiftung Warentest een vaatwasserbestendige kunststof fles heeft. Omruilen van de cilinder kost bij SodaStream 12,99 euro. De score bij bol is 4,5 van 5.",
       "ean": "7290113763784",
       "bol_title": "Sodastream Bruiswatermachine Terra Zwart",
       "url": "https://www.bol.com/nl/nl/p/sodastream-terra-zwart-incl-quick-connect-koolzuurcilinder/9300000054509889/",
@@ -177,11 +177,11 @@
         "2026-11-25": 79.18,
         "2026-11-26": 75.21,
         "2026-11-27": 77.75,
-        "2026-11-28": 76.05
+        "2026-11-28": 76.2
       },
       "low_price": 66.46,
-      "prev_price": 77.75,
-      "prev_date": "2026-11-27",
+      "prev_price": 76.05,
+      "prev_date": "2026-11-28",
       "ph_ean": "7290113763784",
       "rating": 4.5
     },
@@ -194,24 +194,25 @@
       "reviews": "bol-score 5,0 van 5",
       "oneliner": "Roestvrijstalen designapparaat met hendelbediening.",
       "specs": {
-        "Cilinder": "schroefcilinder 60 l",
-        "Flessen": "kunststof 1 l",
-        "Stroom nodig": "nee",
+        "Cilinder": "schroefcilinder, tot 60 l",
+        "Flessen": "PET-fles 1 l (800 ml tot vulstreep)",
+        "In de doos": "toestel, fles, cilinder, lekbak",
         "Bediening": "hendel",
-        "Materiaal": "roestvrij staal"
+        "Afmetingen (b x h x d)": "15,3 x 41,4 x 25,8 cm"
       },
       "pros": [
-        "Volledig metalen behuizing",
-        "Hendel geeft fijne controle over de bubbels",
-        "Mooi Scandinavisch design",
-        "Werkt met standaard schroefcilinders"
+        "Behuizing van roestvrij staal",
+        "Hendelbediening",
+        "Werkt met schroefcilinders",
+        "Cilinder en fles in de starterkit"
       ],
       "cons": [
-        "Duur",
-        "Geen Quick Connect, je schroeft de cilinder"
+        "Ruim drie keer zo duur als de SodaStream Terra",
+        "Fles mag niet in de vaatwasser",
+        "Bol noemt 1 jaar fabrieksgarantie"
       ],
       "ideal": "Wie een apparaat zoekt dat net zo mooi is als het werkt.",
-      "text": "De Aarke Carbonator 3 komt uit Zweden en valt direct op door zijn behuizing van roestvrij staal. In plaats van een drukknop trek je een hendel naar beneden. Daarmee bepaal je heel precies hoeveel koolzuur er in het water gaat. Een lichte hissende klank laat horen wanneer de fles vol genoeg is.\n\nDe Carbonator 3 werkt met de gangbare schroefcilinders van 60 liter, die je in vrijwel elke supermarkt of bouwmarkt kunt omruilen. De Quick Connect-cilinders van SodaStream passen er niet op. In de starterkit zitten een vaatwasserbestendige PET-fles en een cilinder. Kopers zijn lovend over de bouwkwaliteit en het design, dat in veel keukens als decoratie dient. Het nadeel is de prijs: je betaalt drie tot vier keer zoveel als voor een SodaStream Terra, voor hetzelfde bruiswater. Wie design belangrijk vindt, kiest toch vaak deze.",
+      "text": "De Aarke Carbonator 3 heeft een behuizing van roestvrij staal. Je bedient hem met een hendel: omlaag duwen tot je een zoemend geluid hoort en dan loslaten. Hij is 15,3 cm breed, 41,4 cm hoog en 25,8 cm diep. In deze starterkit zitten volgens bol het toestel, een PET-fles, een CO2-cilinder, een lekbak en reserve-afdichtingen.\n\nDe fles is 1 liter, met 800 ml tot de vulstreep. Hij mag niet in de vaatwasser. In onze gids stond dat dit wel mag: dat is rechtgezet. De Carbonator 3 werkt met schroefcilinders voor tot 60 liter. Quick Connect-cilinders passen niet. Stroom is niet nodig. Bol noemt 1 jaar fabrieksgarantie, Aarke zelf 3 jaar na registratie. Stiftung Warentest onderzocht de Carbonator 3 in juni 2025 en Which? in oktober 2023. De oordelen staan achter een betaalmuur of account. Je betaalt ruim drie keer zoveel als voor een SodaStream Terra. De score bij bol is 5,0 van 5.",
       "ean": "8720615729159",
       "bol_title": "AARKE Carbonator 3 Starter Kit Staal incl. PET Fles 1L en CO2 Cilinder - Bruiswatermaker - Sodamaker",
       "url": "https://www.bol.com/nl/nl/p/aarke-carbonator-3-starter-kit-staal-incl-pet-fles-1l-en-co2-cilinder-bruiswatermaker-sodamaker/9300000271051498/",
@@ -267,106 +268,32 @@
       "rating": 5.0
     },
     {
-      "brand": "WMF",
-      "name": "Element One",
-      "price": 153.95,
-      "score": 8.7,
-      "label": null,
-      "reviews": "bol-score 4,5 van 5",
-      "oneliner": "Stalen bruiswatertoestel met drie vaste bruisstanden.",
-      "specs": {
-        "Cilinder": "schroefcilinder 60 l",
-        "Flessen": "kunststof (PET)",
-        "Stroom nodig": "niet vermeld",
-        "Bediening": "knop met 3 standen",
-        "Materiaal": "roestvrij staal"
-      },
-      "pros": [
-        "Drie vaste bruisniveaus met automatische stop",
-        "Werkt met standaard schroefcilinders",
-        "Behuizing van roestvrij staal",
-        "Compact op het aanrecht"
-      ],
-      "cons": [
-        "Fles mag niet in de vaatwasser",
-        "Duurder dan de Terra"
-      ],
-      "ideal": "Wie steeds dezelfde hoeveelheid bubbels wil uit een stalen toestel.",
-      "text": "De WMF Element One is een bruiswatertoestel van roestvrij staal met drie vaste bruisniveaus: grote, medium en fijne bubbels. Je kiest de stand met één druk op de knop en het apparaat stopt automatisch zodra het niveau is bereikt. Zo krijg je elke keer hetzelfde resultaat zonder zelf te tellen hoe vaak je drukt. Dat is fijn voor wie weinig kracht in de handen heeft.\n\nDe kunststof fles klik je met een korte draai vast. Het toestel werkt met standaard schroefcilinders van 60 liter, dus je zit niet vast aan één merk koolzuur. Let op: de fles mag niet in de vaatwasser en heeft een houdbaarheidsdatum, net als bij SodaStream. De behuizing van Cromargan-staal oogt strak naast andere keukenapparaten. Kopers op bol geven gemiddeld een 4,5 van 5. Wie het gemak van vaste standen wil en staal mooier vindt dan kunststof, zit hier goed.",
-      "ean": "4000530758835",
-      "bol_title": "WMF Element One - Bruiswater Machine - Roestvrij Staal - Modern Design - Compact",
-      "url": "https://www.bol.com/nl/nl/p/wmf-element-one-bruiswater-machine-roestvrij-staal-06-0811-6040/9300000238721686/",
-      "image": "https://media.s-bol.com/rD9Onoxpp7xk/vgDrDwM/250x200.jpg",
-      "ph": {
-        "2026-10-25": 106.0,
-        "2026-10-26": 106.0,
-        "2026-10-27": 107.0,
-        "2026-10-28": 107.0,
-        "2026-10-29": 107.0,
-        "2026-10-30": 104.99,
-        "2026-10-31": 104.99,
-        "2026-11-01": 104.99,
-        "2026-11-02": 104.99,
-        "2026-11-03": 104.99,
-        "2026-11-04": 99.74,
-        "2026-11-05": 99.74,
-        "2026-11-06": 99.74,
-        "2026-11-07": 99.74,
-        "2026-11-08": 99.74,
-        "2026-11-09": 99.74,
-        "2026-11-10": 99.74,
-        "2026-11-11": 99.74,
-        "2026-11-12": 99.74,
-        "2026-11-13": 99.74,
-        "2026-11-14": 103.0,
-        "2026-11-16": 151.0,
-        "2026-11-17": 151.0,
-        "2026-11-18": 151.0,
-        "2026-11-19": 153.95,
-        "2026-11-20": 153.95,
-        "2026-11-21": 153.95,
-        "2026-11-22": 153.95,
-        "2026-11-23": 153.95,
-        "2026-11-24": 153.95,
-        "2026-11-25": 153.95,
-        "2026-11-26": 153.95,
-        "2026-11-27": 153.95,
-        "2026-11-28": 153.95
-      },
-      "low_price": 99.74,
-      "synced": "2026-11-28",
-      "prev_price": 151.0,
-      "prev_date": "2026-11-18",
-      "ph_ean": "4000530758835",
-      "rating": 4.5
-    },
-    {
       "brand": "SodaStream",
       "name": "Art",
-      "price": 90.8,
-      "score": 8.6,
+      "price": 93.45,
+      "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
       "oneliner": "SodaStream in retrostijl met hendel.",
       "specs": {
-        "Cilinder": "Quick Connect 60 l",
-        "Flessen": "kunststof 1 l",
-        "Stroom nodig": "nee",
+        "Cilinder": "Quick Connect (roze), tot 60 l",
+        "Flessen": "kunststof fles 1 l",
+        "In de doos": "toestel, fles, cilinder",
         "Bediening": "hendel",
-        "Materiaal": "kunststof en metaal"
+        "Afmetingen (b x h x d)": "17,3 x 43 x 24,5 cm"
       },
       "pros": [
-        "Hendelbediening zoals bij een tapkraan",
-        "Opvallend retrodesign",
-        "Quick Connect-cilinder",
+        "Hendel in plaats van drukknop",
+        "Meegeleverde fles mag in de vaatwasser",
+        "Quick Connect-cilinder in de doos",
         "Geen stroom nodig"
       ],
       "cons": [
-        "Hendel vraagt wat kracht",
-        "Geen glazen karaf"
+        "Kost ongeveer evenveel als de Duo, zonder glazen karaf",
+        "Werkt alleen met Quick Connect-cilinders"
       ],
-      "ideal": "Wie de bediening van een Aarke wil voor een SodaStream-prijs.",
-      "text": "De SodaStream Art onderscheidt zich met een hendel in plaats van een drukknop. Je trekt de hendel naar beneden zoals bij een tapkraan, wat meer gevoel geeft voor de hoeveelheid koolzuur. Het design is geïnspireerd op oude sifons en ziet er met de metalen accenten luxer uit dan de Terra.\n\nTechnisch is het verder een vertrouwde SodaStream. Hij gebruikt de Quick Connect-cilinder van 60 liter en standaard kunststof flessen van een liter. Kopers op bol waarderen het uiterlijk en de prettige bediening. Sommige gebruikers vinden dat de hendel wat kracht vraagt. Een glazen karaf past er niet in, daarvoor heb je de Duo nodig. Wil je een apparaat dat er op het aanrecht mooi uitziet zonder de prijs van een Aarke, dan is de Art een sterke middenweg. Extra flessen zijn overal te koop.",
+      "ideal": "Wie een SodaStream met hendel wil en geen glazen karaf nodig heeft.",
+      "text": "De SodaStream Art heeft een hendel in plaats van een drukknop. In de doos zitten volgens bol het toestel, een herbruikbare fles van 1 liter en een Quick Connect-cilinder voor maximaal 60 liter. De fles mag in de vaatwasser. Je klikt hem vast met het snap-lock-systeem, zonder draaien. Het toestel is 17,3 cm breed, 43 cm hoog en 24,5 cm diep en weegt volgens bol 3 kg.\n\nDe Art werkt alleen met de roze Quick Connect-cilinder en met originele flessen van SodaStream. Een glazen karaf past er niet in. Stroom is niet nodig. Op sodastream.nl staat de Art niet meer, bij bol is hij leverbaar. Which? nam de Art in april 2026 mee in een test. Het oordeel is alleen met een account te lezen. Bij bol kost deze witte uitvoering ongeveer evenveel als de Duo, die er een glazen karaf bij heeft. Daarom staat de Duo hoger. De Art is er voor wie de hendel prettiger vindt dan een knop. De score bij bol is 4,5 van 5.",
       "ean": "7290113764422",
       "bol_title": "SodaStream ART - Wit - incl Quick Connect Koolzuurcilinder",
       "url": "https://www.bol.com/nl/nl/p/sodastream-art-wit-incl-quick-connect-koolzuurcilinder/9300000060296808/",
@@ -415,112 +342,41 @@
         "2026-11-25": 92.65,
         "2026-11-26": 92.29,
         "2026-11-27": 89.83,
-        "2026-11-28": 90.8
+        "2026-11-28": 93.45
       },
       "low_price": 89.83,
-      "prev_price": 89.83,
-      "prev_date": "2026-11-27",
+      "prev_price": 90.8,
+      "prev_date": "2026-11-28",
       "ph_ean": "7290113764422",
       "rating": 4.5
-    },
-    {
-      "brand": "Philips",
-      "name": "GoZero Soda Maker",
-      "price": 70.0,
-      "score": 8.4,
-      "label": null,
-      "reviews": "",
-      "oneliner": "Compacte bruiswatermaker van Philips die zonder stroom werkt.",
-      "specs": {
-        "Cilinder": "60 l, meegeleverd",
-        "Flessen": "kunststof (PET) 1 l",
-        "Stroom nodig": "nee",
-        "Bediening": "drukknop",
-        "Materiaal": "kunststof"
-      },
-      "pros": [
-        "Geen stroom nodig",
-        "Compact formaat voor een klein aanrecht",
-        "CO2-cilinder voor ongeveer 60 liter in de doos",
-        "BPA-vrije fles van 1 liter"
-      ],
-      "cons": [
-        "Nog weinig ervaringen van kopers op bol",
-        "Geen glazen karaf"
-      ],
-      "ideal": "Wie een eenvoudige bruiswatermaker van een bekend merk zoekt en geen SodaStream wil.",
-      "text": "De Philips GoZero is een eenvoudige bruiswatermaker die zonder stroom werkt. Je vult de fles met koud water, draait hem in het apparaat en drukt een paar keer op de knop tot het water genoeg prik heeft. Meer is het niet, waardoor ook wie nog nooit zelf bruiswater heeft gemaakt er meteen mee overweg kan. In de doos zit een CO2-cilinder waarmee je ongeveer 60 liter water laat bruisen.\n\nMet een hoogte van ruim 42 cm past hij onder de meeste keukenkastjes. De fles van 1 liter is gemaakt van BPA-vrij PET. Een glazen karaf zoals bij de SodaStream Duo past er niet in. De afwerking is eenvoudig en volledig van kunststof. Op bol staan nog weinig beoordelingen van kopers, dus je vertrouwt vooral op de naam van Philips. Voor rond de 75 euro is het een nette instapper voor wie geen SodaStream wil of een tweede apparaat zoekt voor de camping of een studentenkamer.",
-      "ean": "4897099301479",
-      "bol_title": "Philips GoZero - Saturator - Zwart - Zonder Stroom - Compact",
-      "url": "https://www.bol.com/nl/nl/p/philips-4897099301479-carbonator-kunststof-zwart/9300000141691980/",
-      "image": "https://media.s-bol.com/qnxJjwj9g7xr/gJZOM1D/485x840.jpg",
-      "ph": {
-        "2026-10-27": 75.0,
-        "2026-10-28": 75.0,
-        "2026-10-29": 75.0,
-        "2026-10-30": 66.65,
-        "2026-10-31": 66.65,
-        "2026-11-01": 66.65,
-        "2026-11-02": 66.65,
-        "2026-11-03": 66.65,
-        "2026-11-04": 66.65,
-        "2026-11-05": 66.65,
-        "2026-11-06": 66.65,
-        "2026-11-07": 66.65,
-        "2026-11-08": 66.65,
-        "2026-11-09": 66.65,
-        "2026-11-10": 69.0,
-        "2026-11-11": 69.0,
-        "2026-11-12": 69.0,
-        "2026-11-13": 69.0,
-        "2026-11-14": 69.0,
-        "2026-11-16": 66.65,
-        "2026-11-17": 66.65,
-        "2026-11-18": 66.65,
-        "2026-11-19": 66.65,
-        "2026-11-20": 69.0,
-        "2026-11-21": 69.0,
-        "2026-11-22": 70.0,
-        "2026-11-23": 70.0,
-        "2026-11-24": 65.6,
-        "2026-11-25": 65.3,
-        "2026-11-26": 65.5,
-        "2026-11-27": 70.0,
-        "2026-11-28": 70.0
-      },
-      "low_price": 65.3,
-      "synced": "2026-11-28",
-      "prev_price": 65.5,
-      "prev_date": "2026-11-26",
-      "ph_ean": "4897099301479"
     },
     {
       "brand": "Mysoda",
       "name": "Woody",
       "price": 62.57,
-      "score": 8.3,
+      "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
-      "oneliner": "Finse bruiswatermaker met behuizing van houtcomposiet.",
+      "oneliner": "Finse bruiswatermaker van houtcomposiet, met schroefcilinder in de doos.",
       "specs": {
-        "Cilinder": "schroefcilinder 60 l",
-        "Flessen": "kunststof 1 l",
-        "Stroom nodig": "nee",
+        "Cilinder": "schroefcilinder, tot 60 l",
+        "Flessen": "PET-fles 1 l",
+        "In de doos": "toestel, fles, cilinder",
         "Bediening": "drukknop",
-        "Materiaal": "biocomposiet op houtbasis"
+        "Afmetingen (b x h x d)": "13 x 40,8 x 24,5 cm"
       },
       "pros": [
-        "Behuizing van duurzaam biocomposiet",
-        "Werkt met standaard schroefcilinders",
-        "Warme, natuurlijke uitstraling",
-        "Lichte bediening"
+        "Schroefcilinder en fles in de doos",
+        "Behuizing van biocomposiet met 40 procent houtvezel",
+        "Onderzocht door Stiftung Warentest en Which?",
+        "2 jaar garantie volgens bol"
       ],
       "cons": [
-        "Mysoda-flessen minder breed verkrijgbaar",
-        "Minder bekend merk voor service"
+        "Alleen geschikt voor PET-flessen van Mysoda",
+        "Geen glazen fles mogelijk"
       ],
-      "ideal": "Wie een duurzaam ogend alternatief voor SodaStream zoekt.",
-      "text": "De Mysoda Woody komt uit Finland en heeft een behuizing van biocomposiet op basis van houtvezels. Dat geeft het apparaat een warme, natuurlijke uitstraling die afwijkt van de plastic SodaStreams. Het merk benadrukt dat er minder fossiele kunststof in zit.\n\nDe Woody werkt met de gangbare schroefcilinders van 60 liter en met Mysoda-flessen van een liter. De knop bovenop gaat licht en geeft gecontroleerde bubbels. Kopers op bol waarderen het design en de stevige bouw. Een aandachtspunt is dat je de flessen van Mysoda zelf nodig hebt, die minder makkelijk in winkels te vinden zijn dan SodaStream-flessen. Op bol zijn ze wel los te koop in sets van twee. Voor wie bruiswater wil maken met een apparaat dat bij een natuurlijk interieur past, is dit een mooie keuze. Zo heb je toch een goed apparaat in huis.",
+      "ideal": "Wie een compleet toestel met schroefcilinder zoekt voor ruim 60 euro.",
+      "text": "De Mysoda Woody komt uit Finland. De behuizing is van biocomposiet: volgens bol ongeveer 60 procent polypropyleen uit ruwe tallolie en 40 procent houtvezel. Hij is 13 cm breed, 40,8 cm hoog en 24,5 cm diep en weegt 2,62 kg met cilinder. In deze uitvoering zitten het toestel, een fles van 1 liter en een CO2-cilinder in de doos.\n\nDe Woody werkt zonder stroom met schroefcilinders. Quick Connect-cilinders passen niet. Je bepaalt de prik door vaker of langer op de knop te drukken. Hij is alleen geschikt voor PET-flessen van Mysoda van 1 liter of 0,5 liter. Glas kan niet. De fles heeft een vervaldatum. Bol noemt 2 jaar garantie. Stiftung Warentest onderzocht de Woody in juni 2025 en Which? in april 2026. De oordelen per model staan achter een betaalmuur of account. Er zit een cilinder bij voor 62,57 euro en twee testorganisaties hebben hem onderzocht. Daarom staat hij nu op 5 in plaats van 7. De score bij bol is 4,5 van 5.",
       "ean": "6430052009357",
       "bol_title": "Mysoda Woody Black bruiswatermaker – behuizing van biocomposiet op houtbasis – incl. CO2-cilinder en 1 liter fles – zonder stroom",
       "url": "https://www.bol.com/nl/nl/p/mysoda-woody-black-bruiswatertoestel-gemaakt-van-ecologisch-biocomposiet-incl-co2-cilinder-fles/9300000016733756/",
@@ -578,32 +434,229 @@
       "rating": 4.5
     },
     {
+      "brand": "WMF",
+      "name": "Element One",
+      "price": 153.95,
+      "score": 8.4,
+      "label": null,
+      "reviews": "bol-score 4,5 van 5",
+      "oneliner": "Stalen bruiswatertoestel met drie vaste bruisstanden.",
+      "specs": {
+        "Cilinder": "schroefcilinder 425 g, niet inbegrepen",
+        "Flessen": "PET-fles, inhoud niet opgegeven",
+        "In de doos": "toestel en fles, geen cilinder",
+        "Bediening": "knop met 3 standen",
+        "Afmetingen (b x h x d)": "11,7 x 44,1 x 24 cm"
+      },
+      "pros": [
+        "Drie vaste bruisniveaus met automatische stop",
+        "Werkt met standaard schroefcilinders",
+        "Behuizing van Cromargan-staal",
+        "Smal: 11,7 cm breed"
+      ],
+      "cons": [
+        "Geen CO2-cilinder in de doos",
+        "Fles mag niet in de vaatwasser",
+        "Niet duidelijk of het toestel stroom nodig heeft"
+      ],
+      "ideal": "Wie steeds dezelfde hoeveelheid bubbels wil uit een stalen toestel.",
+      "text": "De WMF Element One heeft drie vaste bruisniveaus: grote, medium en fijne bubbels. Je kiest de stand en het toestel stopt vanzelf als het niveau is bereikt. De behuizing is van Cromargan, het roestvrij staal van WMF. Het toestel is 11,7 cm breed, 44,1 cm hoog en 24 cm diep en weegt 2,1 kg.\n\nLet op wat er in de doos zit. Volgens WMF zijn dat het toestel en één PET-fles. Een CO2-cilinder zit er niet bij. Een reservecilinder kost bij SodaStream 24,99 euro. Het toestel werkt met standaard schroefcilinders van 425 gram, niet met Quick Connect. De fles mag niet in de vaatwasser. Volgens de omschrijving bij bol kan de houdbaarheidsdatum van de fles bij aankoop al minder dan 24 maanden ver weg liggen. Of het automatische bruisen stroom vraagt, staat niet in de omschrijving bij bol. Bij WMF vonden wij het ook niet. In een onafhankelijke test kwamen wij hem niet tegen. Daarom zakt hij van plek 4 naar 6. De score bij bol is 4,5 van 5.",
+      "ean": "4000530758835",
+      "bol_title": "WMF Element One - Bruiswater Machine - Roestvrij Staal - Modern Design - Compact",
+      "url": "https://www.bol.com/nl/nl/p/wmf-element-one-bruiswater-machine-roestvrij-staal-06-0811-6040/9300000238721686/",
+      "image": "https://media.s-bol.com/rD9Onoxpp7xk/vgDrDwM/250x200.jpg",
+      "ph": {
+        "2026-10-25": 106.0,
+        "2026-10-26": 106.0,
+        "2026-10-27": 107.0,
+        "2026-10-28": 107.0,
+        "2026-10-29": 107.0,
+        "2026-10-30": 104.99,
+        "2026-10-31": 104.99,
+        "2026-11-01": 104.99,
+        "2026-11-02": 104.99,
+        "2026-11-03": 104.99,
+        "2026-11-04": 99.74,
+        "2026-11-05": 99.74,
+        "2026-11-06": 99.74,
+        "2026-11-07": 99.74,
+        "2026-11-08": 99.74,
+        "2026-11-09": 99.74,
+        "2026-11-10": 99.74,
+        "2026-11-11": 99.74,
+        "2026-11-12": 99.74,
+        "2026-11-13": 99.74,
+        "2026-11-14": 103.0,
+        "2026-11-16": 151.0,
+        "2026-11-17": 151.0,
+        "2026-11-18": 151.0,
+        "2026-11-19": 153.95,
+        "2026-11-20": 153.95,
+        "2026-11-21": 153.95,
+        "2026-11-22": 153.95,
+        "2026-11-23": 153.95,
+        "2026-11-24": 153.95,
+        "2026-11-25": 153.95,
+        "2026-11-26": 153.95,
+        "2026-11-27": 153.95,
+        "2026-11-28": 153.95
+      },
+      "low_price": 99.74,
+      "synced": "2026-11-28",
+      "prev_price": 151.0,
+      "prev_date": "2026-11-18",
+      "ph_ean": "4000530758835",
+      "rating": 4.5
+    },
+    {
+      "brand": "Philips",
+      "name": "GoZero Soda Maker",
+      "price": 70.0,
+      "score": 8.3,
+      "label": null,
+      "reviews": "",
+      "oneliner": "Compacte bruiswatermaker van Philips die zonder stroom werkt.",
+      "specs": {
+        "Cilinder": "425 g, type niet opgegeven",
+        "Flessen": "PET-fles 1 l",
+        "In de doos": "toestel, fles, cilinder",
+        "Bediening": "drukknop",
+        "Afmetingen (b x h x d)": "12,5 x 42,4 x 24 cm"
+      },
+      "pros": [
+        "Geen stroom nodig",
+        "CO2-cilinder voor tot 60 liter in de doos",
+        "BPA-vrije fles van 1 liter"
+      ],
+      "cons": [
+        "Bol toont geen score",
+        "Omruilen van de cilinder in Nederland niet bevestigd",
+        "Geen glazen karaf"
+      ],
+      "ideal": "Wie een eenvoudige bruiswatermaker van een bekend merk zoekt en geen SodaStream wil.",
+      "text": "De Philips GoZero werkt zonder stroom met een mechanische knop. Je vult de fles met koud water, draait hem in het toestel en drukt tot er genoeg prik in zit. In de doos zitten volgens het productblad van Philips de sodamaker, één fles en één CO2-cilinder voor tot 60 liter. De fles is 1 liter en van BPA-vrij PET. Het toestel is 12,45 cm breed, 42,35 cm hoog en 23,95 cm diep.\n\nVolgens de omschrijving bij bol bevat de cilinder 425 gram. Welk type aansluiting hij heeft, noemt Philips in het productblad niet. Which? schrijft dat er in het Verenigd Koninkrijk voor de GoZero geen omruiloptie voor de cilinder is. Hoe dat in Nederland zit, konden wij niet bevestigen. Zoek dat uit voor je bestelt, want omruilen bepaalt wat een liter kost. Of de fles in de vaatwasser mag, staat er niet bij. Een glazen karaf past er niet in. Which? nam de GoZero in oktober 2023 mee in een test. Het oordeel is alleen met een account te lezen. Bol toont voor dit toestel geen score.",
+      "ean": "4897099301479",
+      "bol_title": "Philips GoZero - Saturator - Zwart - Zonder Stroom - Compact",
+      "url": "https://www.bol.com/nl/nl/p/philips-4897099301479-carbonator-kunststof-zwart/9300000141691980/",
+      "image": "https://media.s-bol.com/qnxJjwj9g7xr/gJZOM1D/485x840.jpg",
+      "ph": {
+        "2026-10-27": 75.0,
+        "2026-10-28": 75.0,
+        "2026-10-29": 75.0,
+        "2026-10-30": 66.65,
+        "2026-10-31": 66.65,
+        "2026-11-01": 66.65,
+        "2026-11-02": 66.65,
+        "2026-11-03": 66.65,
+        "2026-11-04": 66.65,
+        "2026-11-05": 66.65,
+        "2026-11-06": 66.65,
+        "2026-11-07": 66.65,
+        "2026-11-08": 66.65,
+        "2026-11-09": 66.65,
+        "2026-11-10": 69.0,
+        "2026-11-11": 69.0,
+        "2026-11-12": 69.0,
+        "2026-11-13": 69.0,
+        "2026-11-14": 69.0,
+        "2026-11-16": 66.65,
+        "2026-11-17": 66.65,
+        "2026-11-18": 66.65,
+        "2026-11-19": 66.65,
+        "2026-11-20": 69.0,
+        "2026-11-21": 69.0,
+        "2026-11-22": 70.0,
+        "2026-11-23": 70.0,
+        "2026-11-24": 65.6,
+        "2026-11-25": 65.3,
+        "2026-11-26": 65.5,
+        "2026-11-27": 70.0,
+        "2026-11-28": 70.0
+      },
+      "low_price": 65.3,
+      "synced": "2026-11-28",
+      "prev_price": 65.5,
+      "prev_date": "2026-11-26",
+      "ph_ean": "4897099301479"
+    },
+    {
+      "brand": "SodaStream",
+      "name": "Gaia",
+      "price": 59.99,
+      "score": 8.1,
+      "label": null,
+      "reviews": "bol-score 4,3 van 5",
+      "oneliner": "Basismodel van SodaStream met Quick Connect-cilinder in de doos.",
+      "specs": {
+        "Cilinder": "Quick Connect (roze), tot 60 l",
+        "Flessen": "kunststof fles 1 l",
+        "In de doos": "toestel, fles, cilinder",
+        "Bediening": "drukknop",
+        "Afmetingen (b x h x d)": "22 x 42,5 x 19,8 cm (bol)"
+      },
+      "pros": [
+        "Goedkoopste SodaStream in deze lijst",
+        "Cilinder en fles meegeleverd",
+        "Fles mag in de vaatwasser",
+        "Quick Connect-cilinder klikt er zonder draaien in"
+      ],
+      "cons": [
+        "Eenvoudige afwerking zonder extra functies",
+        "Werkt alleen met Quick Connect-cilinders"
+      ],
+      "ideal": "Wie een echte SodaStream wil voor de laagste prijs.",
+      "text": "De SodaStream Gaia is het basismodel van SodaStream. In de doos zitten volgens bol het toestel, een Quick Connect-cilinder voor tot 60 liter en een BPA-vrije fles van 1 liter die in de vaatwasser mag. Met de drukknop bepaal je zelf hoeveel prik er in het water komt. Stroom is niet nodig. Bol geeft 22 cm breedte, 42,5 cm hoogte en 19,8 cm lengte op en een gewicht van 2,36 kg.\n\nDe Gaia werkt alleen met de roze Quick Connect-cilinder. Omruilen kost bij SodaStream 12,99 euro. De behuizing is van mat kunststof. Op sodastream.nl staat de Gaia niet meer, bij bol is hij leverbaar. Met cilinder en vaatwasbestendige fles kost hij 59,99 euro. De CREATE van 39,95 euro komt met een losse cilinder erbij hoger uit. Daarom staat de Gaia nu een plek hoger, op 8. Een glazen karaf past er niet in en extra functies heeft hij niet. De score bij bol is 4,3 van 5.",
+      "ean": "7290116742366",
+      "bol_title": "sodastream GAIA ST+USR LIC 60 L BLACK BNL (DW)",
+      "url": "https://www.bol.com/nl/nl/p/frisdrankautomaat-sodastream-gaia-zwart/9300000150474858/",
+      "image": "https://media.s-bol.com/3N9rlRwAwElx/g5qoxwj/329x840.jpg",
+      "ph": {
+        "2026-11-16": 59.99,
+        "2026-11-17": 59.99,
+        "2026-11-18": 59.99,
+        "2026-11-19": 59.99,
+        "2026-11-20": 59.99,
+        "2026-11-21": 59.99,
+        "2026-11-22": 59.99,
+        "2026-11-23": 59.99,
+        "2026-11-24": 59.99,
+        "2026-11-25": 59.99,
+        "2026-11-26": 59.99,
+        "2026-11-27": 59.99,
+        "2026-11-28": 59.99
+      },
+      "low_price": 59.99,
+      "ph_ean": "7290116742366",
+      "synced": "2026-11-28",
+      "rating": 4.3
+    },
+    {
       "brand": "CREATE",
       "name": "Soda Maker Studio",
       "price": 39.95,
-      "score": 8.1,
+      "score": 8.0,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
       "oneliner": "Kleurige handmatige sodamaker die ook sap van prik voorziet.",
       "specs": {
-        "Cilinder": "schroefcilinder, apart",
-        "Flessen": "kunststof 1 l",
-        "Stroom nodig": "nee",
+        "Cilinder": "schroefcilinder, niet inbegrepen",
+        "Flessen": "PET-fles 1 l",
+        "In de doos": "toestel en fles, geen cilinder",
         "Bediening": "drukknop",
-        "Materiaal": "kunststof"
+        "Afmetingen (b x h x d)": "12,5 x 43 x 20,1 cm"
       },
       "pros": [
         "Lage aanschafprijs",
         "Werkt zonder stroom",
-        "Ook geschikt voor sap en limonade",
-        "Licht en compact, 580 gram"
+        "Volgens CREATE ook geschikt voor sap",
+        "Weegt 580 gram"
       ],
       "cons": [
         "CO2-cilinder zit er niet bij",
-        "Fles kan niet in de vaatwasser"
+        "Fles mag niet in de vaatwasser"
       ],
-      "ideal": "Wie voor weinig geld wil beginnen en ook graag sap of limonade bruisend maakt.",
-      "text": "De Soda Maker Studio van het Spaanse merk CREATE is een eenvoudige bruiswatermachine in een opvallende saliegroene kleur. Je schroeft een gangbare CO2-cilinder in de bovenkant, plaatst de fles van een liter en drukt op de knop. Voor meer prik druk je twee of drie keer. Stroom is niet nodig, dus hij kan overal staan.\n\nVolgens de fabrikant kun je naast water ook sap of limonade van bubbels voorzien. Bij de meeste toestellen van SodaStream mag dat niet. Het apparaat weegt maar 580 gram en meet ongeveer 20 x 13 x 43 centimeter. De keerzijde: een cilinder zit niet in de doos, dus die koop je er los bij. De BPA-vrije fles moet je met de hand afwassen. Kopers op bol geven hem een 5,0, al zijn het nog niet veel beoordelingen. De kunststof behuizing voelt lichter aan dan een Duo of Aarke. Wil je goedkoop ontdekken of zelf bruiswater maken bij je past, dan is dit een prima instap.",
+      "ideal": "Wie voor weinig geld wil beginnen, al een schroefcilinder heeft of ook sap wil bruisen.",
+      "text": "De Soda Maker Studio van CREATE is een handmatige bruiswatermachine in de kleur salie. Hij is 12,5 cm breed, 43 cm hoog en 20,1 cm diep en weegt 580 gram. In de doos zitten het toestel en een fles van 1 liter. Een CO2-cilinder zit er niet bij. Volgens CREATE passen inschroefbare cilinders van het type SodaStream of Philips. Je schroeft de bovenklep los en zet de cilinder erin.\n\nVolgens CREATE kun je naast water ook sap bruisen. Voor meer prik duw je twee tot drie keer. Stroom is niet nodig. De fles is BPA-vrij en mag niet in de vaatwasser. De behuizing is van ABS-kunststof, de fles van PET. CREATE geeft 2 jaar garantie. Reken de cilinder mee: een reservecilinder kost bij SodaStream 24,99 euro. Dan kom je op ongeveer 65 euro, meer dan de SodaStream Gaia met cilinder. In een onafhankelijke test kwamen wij hem niet tegen. Bol toont een score van 5,0 van 5. Hoeveel kopers daarachter zitten, geeft bol niet op.",
       "ean": "8435572634551",
       "bol_title": "CREATE - Bruiswatermachine 1L - SODA MAKER STUDIO",
       "url": "https://www.bol.com/nl/nl/p/create-bruiswatermachine-1l-soda-maker-studio/9300000233053535/",
@@ -631,83 +684,31 @@
       "prev_date": "2026-11-25"
     },
     {
-      "brand": "SodaStream",
-      "name": "Gaia",
-      "price": 59.99,
-      "score": 8.0,
-      "label": null,
-      "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Basismodel van SodaStream met Quick Connect-cilinder in de doos.",
-      "specs": {
-        "Cilinder": "Quick Connect 60 l, inbegrepen",
-        "Flessen": "kunststof 1 l",
-        "Stroom nodig": "nee",
-        "Bediening": "drukknop",
-        "Materiaal": "kunststof"
-      },
-      "pros": [
-        "Goedkoopste SodaStream in deze lijst",
-        "Cilinder en fles meegeleverd",
-        "Vaatwasbestendige fles",
-        "Quick Connect-cilinder klikt er snel in"
-      ],
-      "cons": [
-        "Eenvoudige afwerking zonder extra functies",
-        "Werkt alleen met Quick Connect-cilinders"
-      ],
-      "ideal": "Wie een echte SodaStream wil voor de laagste prijs.",
-      "text": "De Gaia is het instapmodel van SodaStream en richt zich op de basis. In de doos zitten het toestel, een Quick Connect-cilinder van 60 liter en een BPA-vrije fles van een liter die in de vaatwasser mag. Je kunt dus direct beginnen. Met de grote drukknop bepaal je zelf hoeveel prik er in het water komt.\n\nDe Quick Connect-cilinder plaats je met een klik in plaats van draaien. Dat is makkelijker dan bij oudere schroefmodellen. Lege cilinders ruil je bij supermarkten en bouwmarkten. Het toestel werkt zonder stroom, weegt ruim 2 kilo en meet ongeveer 22 x 13 x 43 centimeter. Kopers op bol geven gemiddeld een 4,3 en noemen het gemak en de prijs. De matte kunststof behuizing is eenvoudig, met minder luxe dan de Duo of de Art. Zoek je een betrouwbaar merk met cilinder erbij voor weinig geld, dan is de Gaia een logische keuze.",
-      "ean": "7290116742366",
-      "bol_title": "sodastream GAIA ST+USR LIC 60 L BLACK BNL (DW)",
-      "url": "https://www.bol.com/nl/nl/p/frisdrankautomaat-sodastream-gaia-zwart/9300000150474858/",
-      "image": "https://media.s-bol.com/3N9rlRwAwElx/g5qoxwj/329x840.jpg",
-      "ph": {
-        "2026-11-16": 59.99,
-        "2026-11-17": 59.99,
-        "2026-11-18": 59.99,
-        "2026-11-19": 59.99,
-        "2026-11-20": 59.99,
-        "2026-11-21": 59.99,
-        "2026-11-22": 59.99,
-        "2026-11-23": 59.99,
-        "2026-11-24": 59.99,
-        "2026-11-25": 59.99,
-        "2026-11-26": 59.99,
-        "2026-11-27": 59.99,
-        "2026-11-28": 59.99
-      },
-      "low_price": 59.99,
-      "ph_ean": "7290116742366",
-      "synced": "2026-11-28",
-      "rating": 4.3
-    },
-    {
       "brand": "JAP Appliances",
       "name": "XStream",
       "price": 39.49,
       "score": 7.9,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
-      "oneliner": "Betaalbare sodamaker met PET-fles.",
+      "oneliner": "Goedkoopste toestel in de lijst, met PET-fles en zonder cilinder.",
       "specs": {
-        "Cilinder": "schroefcilinder 60 l",
-        "Flessen": "PET 1 l",
-        "Stroom nodig": "nee",
+        "Cilinder": "schroefcilinder, niet inbegrepen",
+        "Flessen": "PET-fles 1 l",
+        "In de doos": "toestel en fles, geen cilinder",
         "Bediening": "drukknop",
-        "Materiaal": "kunststof"
+        "Afmetingen (b x h x d)": "12,5 x 42,3 x 24 cm"
       },
       "pros": [
-        "Lage prijs",
-        "Hoge waardering van kopers",
-        "Compact",
-        "Eenvoudig in gebruik"
+        "Laagste prijs in deze lijst",
+        "Werkt met schroefcilinders",
+        "Weegt 0,95 kg"
       ],
       "cons": [
-        "Werkt alleen met eigen flessen",
-        "Cilinder apart te koop"
+        "CO2-cilinder zit er niet bij",
+        "Bol noemt 1 jaar fabrieksgarantie"
       ],
       "ideal": "Wie een eenvoudig tweede apparaat zoekt of zuinig wil starten.",
-      "text": "De JAP Appliances XStream is een eenvoudig bruiswatertoestel dat op bol hoge waarderingen krijgt voor zijn prijs. Hij werkt zonder stroom met een schroefcilinder en een PET-fles van een liter. De bediening is dezelfde als bij een SodaStream: fles eronder en een paar keer drukken.\n\nLet wel op de flessen: het apparaat is volgens de fabrikant uitsluitend geschikt voor de eigen XStream-flessen. Extra flessen koop je dus bij hetzelfde merk. Een cilinder zit niet standaard in elke set. Kopers zijn positief over het gemak en de hoeveelheid bubbels, maar de afwerking is eenvoudiger dan bij de grote merken. Als tweede apparaat voor op de camping, in een studentenhuis of op kantoor is hij een praktische keuze. Voor dagelijks gebruik in een gezin ben je met een SodaStream Terra op termijn beter uit.",
+      "text": "De JAP Appliances XStream is het goedkoopste toestel in deze lijst. In de doos zitten volgens bol het toestel en één PET-fles van 1 liter. Een CO2-cilinder zit er niet bij: die bestel je apart. Volgens de titel bij bol is het toestel uitsluitend geschikt voor schroefcilinders. Quick Connect-cilinders passen dus niet. Het is 12,5 cm breed, 42,3 cm hoog en 24 cm diep en weegt 0,95 kg. De behuizing is van ABS-kunststof.\n\nDe verkoper rekent met 0,25 euro per liter bij 60 liter per cilinder. Dat is een som van de verkoper. De Consumentenbond mat bij verschillende toestellen 51 tot 142 liter per cilinder. Which? kwam bij steeds zeer bruisend water op ruim 30 liter. Bol noemt 1 jaar fabrieksgarantie, tegen 2 jaar bij SodaStream. Reken de cilinder mee: met een reservecilinder van 24,99 euro kom je op ongeveer 64 euro. In een onafhankelijke test kwamen wij hem niet tegen. De score bij bol is 4,3 van 5.",
       "ean": "8720929477982",
       "rating": 4.3,
       "bol_title": "JAP Appliances XStream - Bruiswatertoestel - PET fles (1 liter ) voor soda maker - (Uitsluitend geschikt voor schroefcilinder) - Co2 cilinder niet inbegrepen - Zwart",
@@ -733,45 +734,49 @@
   "guide": [
     {
       "h": "Quick Connect of schroefcilinder?",
-      "p": "Nieuwere SodaStreams gebruiken de roze Quick Connect-cilinder die je met een hendel vastklikt. Oudere modellen en veel andere merken werken met de blauwe schroefcilinder. Beide bevatten genoeg koolzuur voor ongeveer 60 liter bruiswater. Let bij aankoop goed op welk type je apparaat nodig heeft, want ze passen niet op elkaar."
+      "p": "De nieuwere SodaStreams gebruiken de roze Quick Connect-cilinder die je vastklikt. In deze lijst zijn dat de Duo, de Terra, de Art en de Gaia. Aarke, Mysoda, WMF, CREATE en JAP werken met een schroefcilinder. De twee typen passen niet op elkaars toestellen. Volgens de Consumentenbond bevatten beide 425 gram koolzuur. Omruilen kost bij SodaStream 12,99 euro voor beide typen, met 12 euro borg als je het online doet. Een losse reservecilinder kost daar 24,99 euro."
+    },
+    {
+      "h": "Wat zit er in de doos?",
+      "p": "Bij zeven toestellen in deze lijst zit een cilinder in de doos. Bij de WMF Element One, de CREATE Soda Maker Studio en de JAP XStream niet: daar komt de prijs van een cilinder bij. Een fles zit er bij alle tien bij. De flessen zijn 1 liter, maar je vult tot de vullijn: bij de fles van de SodaStream Duo ligt die op 0,84 liter en bij de Aarke op 800 ml. Bij de WMF geeft de fabrikant de inhoud van de fles niet op."
     },
     {
       "h": "Glas of kunststof?",
-      "p": "Kunststof flessen zijn licht en goedkoop, maar moeten na een paar jaar vervangen worden. Er zijn ook vaatwasserbestendige versies. Glazen karaffen zijn mooier op tafel, geven geen smaak af en gaan jaren mee. Alleen sommige apparaten, zoals de SodaStream Duo, zijn geschikt voor glas."
+      "p": "Alleen de SodaStream Duo in deze lijst werkt met een glazen karaf. Stiftung Warentest schrijft dat glas in de vaatwasser kan en niet veroudert, maar ruim twee keer zo zwaar is. De Consumentenbond schrijft dat plastic flessen meestal niet in de vaatwasser mogen, behalve die van SodaStream. Dat klopt met deze lijst: de flessen van de Duo, de Terra, de Art en de Gaia mogen erin, die van Aarke, WMF en CREATE niet. Vervang plastic flessen voor de houdbaarheidsdatum en volgens de bond uiterlijk na 4 jaar."
     },
     {
       "h": "Met of zonder stroom?",
-      "p": "De meeste bruiswatertoestellen werken zonder stroom. Je bepaalt zelf hoeveel je drukt. Automatische modellen zoals de WMF Element One hebben vaste standen en geven elke keer hetzelfde resultaat. Dat is handig voor wie weinig kracht in de handen heeft."
+      "p": "Negen van de tien toestellen werken volgens de verkoper zonder stroom. Je bepaalt de prik door vaker of langer te drukken, of met een hendel bij de Aarke en de SodaStream Art. De WMF Element One heeft drie vaste standen en stopt automatisch. Of daar stroom voor nodig is, vonden wij bij bol en bij WMF niet terug."
     },
     {
       "h": "Wat kost bruiswater per liter?",
-      "p": "Een cilinder van 60 liter omruilen kost ongeveer 15 tot 20 euro. Daarmee betaal je ongeveer 25 tot 35 cent per liter bruiswater, afhankelijk van hoeveel bubbels je wilt. Dat is goedkoper dan spa rood uit de supermarkt. Bovendien hoef je geen kratten meer te sjouwen."
+      "p": "Reken met de omruilprijs gedeeld door het aantal liters dat je echt uit een cilinder haalt. Bij 12,99 euro en de 60 liter die fabrikanten noemen is dat 22 cent per liter. Dat aantal liters haal je niet altijd. De Consumentenbond mat 51 tot 142 liter per cilinder, afhankelijk van het toestel. Het zuinigste goede toestel bij Stiftung Warentest haalde 48 liter. Which? kwam bij steeds zeer bruisend water op ruim 30 liter: dan betaal je ruim 40 cent per liter. De aanschaf van het toestel komt daar nog bij."
     },
     {
       "h": "Alleen water bruisen",
-      "p": "Bruis alleen koud kraanwater. Koud water neemt koolzuur beter op, dus zet de fles vooraf in de koelkast. Voeg siroop, citroen of fruit pas toe na het bruisen. Bruis je sap of limonade direct, dan kan het apparaat verstopt raken en schuimt het over."
+      "p": "Bruis alleen koud kraanwater en voeg siroop pas toe na het bruisen. Dat schrijft SodaStream ook voor. Alleen CREATE zegt dat je er ook sap mee kunt bruisen. De Consumentenbond schrijft dat de prik na 24 uur in de koelkast al flink weg kan zijn. Maak dus niet meer dan je die dag drinkt."
     }
   ],
   "faq": [
     {
       "q": "Wat is het beste bruiswatertoestel van 2026?",
-      "a": "Op basis van onze vergelijking is de SodaStream Duo het beste bruiswatertoestel van 2026. Je gebruikt er een glazen karaf of een kunststof fles mee en de cilinder wissel je in een klik. De SodaStream Terra is de beste prijs-kwaliteit."
+      "a": "In onze vergelijking staat de SodaStream Duo op 1. In de doos zitten een glazen karaf, een vaatwasbestendige fles en een Quick Connect-cilinder. De SodaStream Terra is de beste prijs-kwaliteit. Wij vergelijken specificaties, prijzen en de score bij bol. De oordelen van de Consumentenbond, Which? en Stiftung Warentest staan achter een ledenmuur."
     },
     {
       "q": "Waar kun je een lege cilinder omruilen?",
-      "a": "Bij veel supermarkten, bouwmarkten en elektronicawinkels kun je een lege cilinder inleveren voor een volle. Je betaalt dan alleen voor het koolzuur. Ook online kun je cilinders laten bezorgen en de lege terugsturen."
+      "a": "Bij winkels die cilinders van SodaStream omruilen en online bij SodaStream zelf. Online kost omruilen 12,99 euro, met 12 euro borg die je terugkrijgt. De Consumentenbond noemt zo'n 13 euro. Let op het type: Quick Connect en schroef zijn niet uitwisselbaar."
     },
     {
       "q": "Hoe lang gaat een cilinder mee?",
-      "a": "Een cilinder van 60 liter is goed voor ongeveer 60 liter bruiswater met gemiddelde bubbels. Hou je van veel prik, dan is hij eerder leeg. Gemiddeld doet een gezin er een tot twee maanden mee."
+      "a": "Fabrikanten noemen tot 60 liter. In metingen loopt dat uiteen. De Consumentenbond mat 51 tot 142 liter per cilinder, afhankelijk van het toestel. Stiftung Warentest noemt tot 61 liter, afhankelijk van de stand. Which? haalde bij steeds zeer bruisend water ruim 30 liter."
     },
     {
-      "q": "Passen SodaStream-flessen op andere apparaten?",
-      "a": "Soms. Aarke en een aantal budgetmerken gebruiken een vergelijkbare schroefdraad, maar niet alle combinaties zijn officieel goedgekeurd. Gebruik bij voorkeur de flessen die de fabrikant voorschrijft."
+      "q": "Passen flessen van het ene merk op het andere toestel?",
+      "a": "Ga daar niet van uit. SodaStream schrijft voor om alleen originele flessen en karaffen te gebruiken. De Mysoda Woody is volgens de verkoper alleen geschikt voor PET-flessen van Mysoda. Gebruik de flessen die de fabrikant voorschrijft."
     },
     {
       "q": "Moeten kunststof flessen vervangen worden?",
-      "a": "Ja. Op elke fles staat een houdbaarheidsdatum, meestal twee tot drie jaar na productie. Door de druk en het afwassen verzwakt het materiaal. Vervang ze op tijd voor je veiligheid."
+      "a": "Ja. Op elke fles staat een houdbaarheidsdatum. De Consumentenbond raadt aan plastic flessen voor die datum te vervangen en uiterlijk na 4 jaar. Bij de WMF Element One kan de datum volgens de omschrijving bij bol bij aankoop al minder dan 24 maanden ver weg liggen."
     }
   ],
   "published": "2026-10-15",
@@ -788,6 +793,65 @@
       "uit": "LunaVida Callisto SodaMaker",
       "in": "SodaStream Gaia",
       "waarom": "niet meer leverbaar bij bol"
+    }
+  ],
+  "niet_kopen": {
+    "h": "Wanneer je beter geen bruiswatertoestel koopt",
+    "items": [
+      {
+        "b": "Je koopt hem vooral om geld te besparen en houdt van veel prik.",
+        "p": "Omruilen van een cilinder kost bij SodaStream 12,99 euro. Bij de 60 liter die fabrikanten noemen is dat 22 cent per liter. Which? haalde bij steeds zeer bruisend water ruim 30 liter uit een cilinder: dan is het ruim 40 cent per liter. Daar komt het toestel van 39 tot 251 euro nog bij. Reken het uit met de literprijs die je nu in de winkel betaalt en met hoeveel liter je per week drinkt."
+      },
+      {
+        "b": "Je koopt hem voor het milieu.",
+        "p": "Milieu Centraal schrijft dat uit onderzoek niet bekend is of een bruiswatermachine beter is voor het milieu dan flessen. Het bespaart wel afval. Which? schrijft dat het koolzuur meestal een bijproduct is, maar dat het systeem nog steeds een flinke CO2-voetafdruk heeft. Wie echt wil besparen op klimaatimpact, drinkt kraanwater zonder prik: volgens Milieu Centraal is de klimaatimpact van één glas fleswater vergelijkbaar met zo'n zeventig glazen kraanwater."
+      },
+      {
+        "b": "Je wilt de fles in de vaatwasser doen en kiest Aarke, WMF of CREATE.",
+        "p": "Bij die drie mag de fles volgens de fabrikant niet in de vaatwasser. De Consumentenbond schrijft dat plastic flessen meestal niet in de vaatwasser mogen, behalve die van SodaStream. Bij Stiftung Warentest had maar één van de zeven onderzochte toestellen een vaatwasserbestendige kunststof fles. In deze lijst mogen de flessen van de SodaStream Duo, Terra, Art en Gaia erin, net als de glazen karaf van de Duo."
+      },
+      {
+        "b": "Je kiest een toestel zonder cilinder omdat het goedkoop lijkt.",
+        "p": "De CREATE Soda Maker Studio (39,95 euro) en de JAP XStream (39,49 euro) komen zonder cilinder. Een reservecilinder kost bij SodaStream 24,99 euro. Dan kom je op ongeveer 65 euro, meer dan de SodaStream Gaia van 59,99 euro met cilinder en vaatwasbestendige fles. Ook bij de WMF Element One van 153,95 euro zit geen cilinder. Heb je al een schroefcilinder in huis, dan vervalt dit bezwaar."
+      }
+    ]
+  },
+  "onafhankelijk": {
+    "h": "Wat onafhankelijke tests zeggen",
+    "intro": "Zelf testen wij geen bruiswatertoestellen. Wij vergelijken wat fabrikanten en verkopers bij bol opgeven en de score van kopers. De Consumentenbond, Stiftung Warentest en Which? meten bruiswatertoestellen wel. Bij alle drie staan de oordelen per model achter een ledenmuur, betaalmuur of account. Die hebben wij niet gelezen. Of onze volgorde overeenkomt met hun uitslagen, weten wij dus niet. Hieronder staat wat vrij leesbaar is (gelezen op 28 november 2026).",
+    "items": [
+      {
+        "bron": "Consumentenbond: Hoe wij bruiswatermachines testen (5 juni 2025)",
+        "url": "https://www.consumentenbond.nl/bruiswatermachine/hoe-wij-testen",
+        "p": "De bond meet met de meegeleverde cilinder hoeveel liter bruiswater een toestel uit een cilinder haalt, op de middelste stand en twee keer. De cilinder wordt voor en na gewogen. Daarnaast is er een smaaktest, direct en na 24 uur in de koelkast. Prestaties tellen voor 50 procent mee, gebruiksgemak voor 40 procent, geluid voor 5 procent en bouwkwaliteit voor 5 procent. Op de pagina met de beste bruiswatermachines (laatste update van de test: 2 maart 2026) staat vrij leesbaar dat duurder niet altijd beter is, dat de prik na 24 uur al flink weg kan zijn en dat de toestellen van zo'n 51 tot 142 liter uit een cilinder halen. Modelnamen, scores en predicaten staan achter de ledenmuur. Waar wij afwijken: wij rangschikken op wat er in de doos zit, type cilinder, flessen en prijs. Hoeveel liter elk toestel uit een cilinder haalt, weten wij van geen van onze tien."
+      },
+      {
+        "bron": "Consumentenbond: Bruiswatermachine kopen: waar let je op? (geen datum op de pagina)",
+        "url": "https://www.consumentenbond.nl/bruiswatermachine/kopen",
+        "p": "Koopadvies, geen uitslag per model. Omruilen van een cilinder kost volgens de bond zo'n 13 euro. Quick Connect-cilinders bevatten 425 gram, net als schroefcilinders. Glazen flessen mogen in de vaatwasser, plastic flessen meestal niet, behalve die van SodaStream. Vervang plastic flessen voor de houdbaarheidsdatum en uiterlijk na 4 jaar. Machines van minder dan 100 euro maken volgens de bond prima prikwater. Als metalen toestellen noemt de bond de Aarke Carbonator en de SodaStream Enso. Wat dit voor onze lijst betekent: acht van onze tien toestellen kosten minder dan 100 euro. De Aarke van 251 euro en de WMF van 153,95 euro zijn de uitzonderingen. Wat wij aanpasten: in onze gids stond dat omruilen 15 tot 20 euro kost en dat flessen twee tot drie jaar meegaan. Dat is vervangen door de bedragen en termijnen hierboven."
+      },
+      {
+        "bron": "Stiftung Warentest: Wassersprudler im Test: Vier sprudeln richtig prickelnd (26 juni 2025)",
+        "url": "https://www.test.de/Wassersprudler-im-Test-5485556-0/",
+        "p": "De Duitse consumentenorganisatie onderzocht zeven toestellen van 60 tot 219 euro. Drie daarvan staan in onze lijst: de SodaStream Terra (bij ons op 2), de Aarke Carbonator 3 (3) en de Mysoda Woody (5). De andere vier zijn de Brita SodaOne, de Grohe Blue Fizz Basic, de Sodapop Logan en de SodaStream Crystal 3.0. Vrij te lezen is dat vier toestellen 'gut' zijn en één 'mangelhaft', omdat het overloopt en uitvalt. Het zuinigste goede toestel haalt 48 liter uit een cilinder. Maar één onderzocht toestel heeft een vaatwasserbestendige kunststof fles. Glas kan in de vaatwasser en veroudert niet, maar is ruim twee keer zo zwaar. Volgens het persbericht kost omruilen van een merkcilinder in Duitsland 6,49 tot 12 euro. Welk oordeel bij welk toestel hoort, staat achter een betaalmuur van 4,90 euro. Dat hebben wij niet gelezen. Wat wij aanpasten: de Mysoda Woody staat nu op 5 in plaats van 7."
+      },
+      {
+        "bron": "Which?: Best Sodastreams and sparkling water makers 2026 (18 november 2026)",
+        "url": "https://www.which.co.uk/reviews/sodastreams-and-sparkling-water-makers/article/best-sodastreams-and-sparkling-water-makers-aopPV1w7JYXN",
+        "p": "De Britse consumentenorganisatie koopt de toestellen zelf en beoordeelt installatie, gebruiksgemak, de hoeveelheid prik en bouwkwaliteit. In april 2026 onderzocht Which? onder meer de SodaStream Art en de Mysoda Woody, in oktober 2023 de Aarke Carbonator 3, de Philips GoZero, de SodaStream Duo en de SodaStream Terra. Dat zijn zes van onze tien. Vrij te lezen is dat fabrikanten 60 liter per cilinder noemen, maar dat twee van de best scorende toestellen bij steeds zeer bruisend water op ruim 30 liter uitkwamen. Voor de Philips GoZero is er volgens Which? in het Verenigd Koninkrijk geen omruiloptie voor de cilinder. Het koolzuur is meestal een bijproduct, maar het systeem heeft volgens Which? nog steeds een flinke CO2-voetafdruk. Scores en aanraders zijn alleen met een account te lezen. Dat hebben wij niet gedaan. Wat wij aanpasten: de Philips GoZero zakt een plek en bij dat toestel staat nu dat omruilen in Nederland niet bevestigd is."
+      },
+      {
+        "bron": "Milieu Centraal: Duurzamere dranken (laatst gewijzigd op 19 oktober 2026)",
+        "url": "https://www.milieucentraal.nl/eten-en-drinken/drinken/duurzaam-water-drinken/",
+        "p": "Geen test, wel advies. Milieu Centraal schrijft dat uit onderzoek niet bekend is of een bruiswatermachine beter is voor het milieu dan flessen. Het bespaart wel afval. De klimaatimpact van één glas fleswater is volgens Milieu Centraal vergelijkbaar met zo'n zeventig glazen kraanwater. Wat wij aanpasten: in onze inleiding stond dat zelf bruisen minder plastic afval oplevert en per liter maar een paar cent kost. Het afval klopt. De prijs per liter is vervangen door een som met de omruilprijs."
+      }
+    ],
+    "noot": "Bij Test-Aankoop, Kassa en Radar vonden wij vandaag geen test van bruiswatertoestellen. De WMF Element One, de CREATE Soda Maker Studio en de JAP XStream kwamen wij in geen enkele onafhankelijke test tegen. Uitslagen achter een ledenmuur of betaalmuur nemen wij niet over, ook niet als andere sites ze navertellen."
+  },
+  "changelog": [
+    {
+      "d": "2026-11-28",
+      "t": "Alle tien toestellen nagelopen bij bol: allemaal leverbaar. Per toestel staan nu type cilinder, flessen, wat er in de doos zit en de afmetingen in de tabel. Toegevoegd: wanneer je beter geen bruiswatertoestel koopt en wat de Consumentenbond, Stiftung Warentest, Which? en Milieu Centraal schrijven. Volgorde aangepast: bij de WMF Element One zit geen cilinder in de doos en hij komt in geen test voor. Hij zakt van 4 naar 6. De SodaStream Art gaat naar 4. De Mysoda Woody gaat van 7 naar 5: cilinder in de doos en onderzocht door Stiftung Warentest en Which?. De Philips GoZero zakt van 6 naar 7. De SodaStream Gaia en de CREATE wisselen van plek (8 en 9), omdat de CREATE met een losse cilinder duurder uitkomt. Rechtgezet: de fles van de Aarke mag niet in de vaatwasser (er stond van wel). De meegeleverde fles van de Terra mag wel in de vaatwasser. Omruilen van een cilinder kost 12,99 euro, niet 15 tot 20. Bij de Philips GoZero toont bol geen score. Geschrapt omdat een bron ontbrak: zinnen over wat kopers zeggen, het verzonnen totaal aan reviews, de vergelijking met de prijs van spa rood en de zin dat een gezin een tot twee maanden met een cilinder doet."
     }
   ]
 }

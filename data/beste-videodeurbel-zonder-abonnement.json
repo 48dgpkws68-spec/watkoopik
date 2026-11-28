@@ -14,10 +14,10 @@
   ],
   "ico": "🔔",
   "color": "#3b4a8c",
-  "updated": "2026-10-19",
-  "reviews_total": "9.800",
-  "intro": "Een videodeurbel zonder abonnement bespaart je al snel 40 tot 100 euro per jaar. Toch zie je bij veel merken de beste functies pas na een maandelijkse betaling. Wij vergeleken deurbellen die opnames lokaal bewaren op een microSD-kaart, een HomeBase of een NVR. We keken naar beeldkwaliteit, persoonsdetectie, accuduur en wat kopers na maanden gebruik zeggen. Dit zijn de tien beste videodeurbellen zonder abonnement die je nu kunt kopen, van een budgetmodel onder de 50 euro tot een complete set met slimme thuisbasis.",
-  "verdict": "De eufy Video Doorbell 2K met HomeBase is de beste videodeurbel zonder abonnement: scherp 2K-beeld, opslag in je eigen huis en AI-detectie die zonder cloud werkt. Wil je zo weinig mogelijk uitgeven, dan is de Tapo D210 de beste prijs-kwaliteit met microSD en een gong in de doos. Zoek je het meeste overzicht, kies dan de eufy E340 met HomeBase 3 voor twee camera's en gezichtsherkenning.",
+  "updated": "2026-11-28",
+  "reviews_total": "",
+  "intro": "Bij veel videodeurbellen kun je opnames pas terugkijken met een abonnement. Stiftung Warentest rekent voor cloudopslag 3 tot 10 euro per maand. De tien deurbellen in deze lijst bewaren opnames lokaal: op een microSD-kaart, in ingebouwd geheugen, op een HomeBase of op een NVR. Wij vergeleken de modellen die nu bij bol te koop zijn op resolutie, kijkhoek, voeding, opslag, gong en de score bij bol. Van een accudeurbel van minder dan 40 euro tot een set met twee camera's en een thuisbasis van rond de 260 euro.",
+  "verdict": "De eufy Video Doorbell 2K met HomeBase is onze eerste keuze: 2560 x 1920 pixels, 16 GB opslag op een kastje in huis en persoonsdetectie zonder abonnement. De Tapo D210 is de beste prijs-kwaliteit, met een gong in de doos en een microSD-slot tot 512 GB. De eufy E340 met HomeBase 3 is de premium keuze: twee camera's, gezichtsherkenning en opslag die je met een harde schijf uitbreidt. Heb je een netwerkkabel bij de voordeur, kijk dan naar de Reolink PoE of de Aqara G400.",
   "products": [
     {
       "brand": "eufy",
@@ -28,23 +28,24 @@
       "reviews": "bol-score 4,2 van 5",
       "oneliner": "Bewaart alles op de HomeBase in huis, zonder maandkosten.",
       "specs": {
-        "Resolutie": "2K (2560 x 1920)",
-        "Voeding": "Accu of bedraad",
-        "Lokale opslag": "HomeBase, 16 GB",
+        "Resolutie": "2560 x 1920",
+        "Kijkhoek": "160°",
+        "Voeding": "Accu 6.500 mAh of bedraad 8-24 V",
+        "Lokale opslag": "HomeBase 2, 16 GB",
         "Gong": "Via HomeBase"
       },
       "pros": [
-        "Opnames blijven op de HomeBase in je eigen huis",
-        "Persoonsdetectie werkt lokaal, dus zonder abonnement",
-        "Hoog 4:3-beeld toont bezoekers van top tot teen",
-        "HomeBase doet ook dienst als gong"
+        "Opnames staan op de HomeBase in huis, niet in de deurbel",
+        "Persoonsdetectie op het apparaat, zonder abonnement",
+        "4:3-beeld van 2560 x 1920 pixels",
+        "Werkt bedraad met een bestaande gong (volgens eufy)"
       ],
       "cons": [
-        "16 GB is na een paar maanden vol en wordt dan overschreven",
-        "Accu laden betekent de deurbel even van de muur halen"
+        "16 GB opslag is niet uit te breiden",
+        "Model uit 2020: geen tweede camera en geen gezichtsherkenning"
       ],
       "ideal": "Wie een complete deurbel zonder maandkosten wil die opnames veilig binnen bewaart.",
-      "text": "De eufy Video Doorbell 2K is al jaren een van de populairste deurbellen voor wie geen abonnement wil. Het geheim zit in de HomeBase die je in huis neerzet. Alle opnames komen daar terecht op 16 GB interne opslag, zodat er niets naar een betaalde cloud hoeft. De HomeBase versterkt bovendien het wifi-signaal naar de deurbel en speelt een belgeluid af wanneer iemand aanbelt.\n\nDe camera filmt in 2K met een hoog 4:3-beeld. Daardoor zie je niet alleen het gezicht van je bezoeker maar ook het pakketje op de mat. Persoonsdetectie draait op het apparaat zelf, wat het aantal valse meldingen door auto's en katten flink verlaagt. Je kunt hem op de accu gebruiken of aansluiten op je bestaande beltrafo. Kopers zijn vooral positief over het heldere beeld en de snelle meldingen op de telefoon. Een minpunt is dat de opslag bij veel verkeer voor de deur sneller vol raakt. Oude clips worden dan automatisch overschreven.",
+      "text": "De eufy Video Doorbell 2K komt in deze set met de HomeBase 2, een kastje dat je binnen neerzet. Daarop staat 16 GB opslag. Volgens eufy is dat genoeg voor ongeveer 180 dagen als de deurbel 30 clips van 20 seconden per dag maakt. Is de opslag vol, dan worden de oudste clips overschreven. De HomeBase speelt ook het belgeluid af en verbindt de deurbel met je netwerk. Bol noemt 2020 als introductiejaar.\n\nDe camera filmt in 2560 x 1920 pixels met een kijkhoek van 160 graden en een beeldverhouding van 4:3. Zo zie je een bezoeker van top tot teen. Persoonsdetectie draait volgens eufy op het apparaat zelf. De accu is 6.500 mAh en gaat volgens eufy tot 180 dagen mee. Je kunt de deurbel ook aansluiten op bestaande beldraden van 8 tot 24 volt. Volgens eufy stuurt hij dan je bestaande gong aan. De behuizing is IP65. Gezichtsherkenning en een tweede camera voor pakketjes heeft dit model niet. De score bij bol is 4,2 van 5.",
       "ean": "0194644016975",
       "bol_title": "eufy Video Doorbell 2K (Battery-Powered) + HomeBase - Deurbelcamera",
       "url": "https://www.bol.com/nl/nl/p/eufy-by-anker-video-deurbel-draadloze-deurbelset-inclusief-homebase-2-wifi-vereist/9200000130319888/",
@@ -106,23 +107,25 @@
       "reviews": "bol-score 4,2 van 5",
       "oneliner": "Bedrade 5MP-deurbel met microSD en dual-band wifi.",
       "specs": {
-        "Resolutie": "5 MP (2560 x 1920)",
-        "Voeding": "Bedraad (beltrafo)",
-        "Lokale opslag": "microSD tot 512 GB",
-        "Gong": "Bestaande gong of Reolink Chime"
+        "Resolutie": "2560 x 1920 (5 MP)",
+        "Kijkhoek": "180° diagonaal",
+        "Voeding": "Bedraad 12-24 V of adapter",
+        "Lokale opslag": "microSD, NVR of NAS",
+        "Gong": "Reolink Chime inbegrepen"
       },
       "pros": [
-        "Scherp 5MP-beeld met breed 180 graden zicht",
-        "Opslag op microSD of een Reolink NVR",
-        "Dual-band wifi voor een stabiele verbinding",
-        "Werkt met je bestaande mechanische gong"
+        "5 megapixel in 4:3 met 180 graden diagonaal",
+        "Opslag op microSD, NVR, NAS of FTP",
+        "Wifi op 2,4 en 5 GHz",
+        "Chime en stroomadapter in de doos"
       ],
       "cons": [
-        "Heeft een beltrafo nodig, geen accu",
-        "App is functioneel maar minder gelikt dan die van eufy"
+        "Geen accu: er moet stroom naar de deur",
+        "Werkt volgens Reolink niet met een mechanische gong",
+        "Meldingen met voorbeeldfoto vragen een abonnement"
       ],
-      "ideal": "Wie al een bedrade deurbel heeft en maximale beeldkwaliteit zonder maandkosten wil.",
-      "text": "Reolink maakt camera's voor mensen die hun beelden liever in eigen beheer houden. De D340W past precies in die lijn. De deurbel neemt op in 5 megapixel op een microSD-kaart tot 512 GB, of op een Reolink NVR als je meer camera's rond het huis hebt. Een cloudabonnement is optioneel en voor de dagelijkse functies heb je het niet nodig.\n\nHet beeld is breed en hoog, waardoor je bezoekers van top tot teen ziet. Persoons- en voertuigdetectie draaien lokaal. Je krijgt dus alleen een melding als er echt iemand voor de deur staat. Dankzij dual-band wifi werkt hij ook betrouwbaar als je router wat verder weg staat. De deurbel moet wel op een beltrafo aangesloten worden. Daar staat tegenover dat je nooit meer een accu hoeft te laden. Kopers prijzen de scherpte bij nacht en het ontbreken van maandkosten. Kritiekpunten gaan vooral over de app, die veel instellingen heeft en wat zoekwerk vraagt.",
+      "ideal": "Wie stroom bij de voordeur heeft en opnames op een eigen kaart of recorder wil.",
+      "text": "De Reolink D340W is een bedrade deurbel met wifi op 2,4 en 5 GHz. Hij filmt in 2560 x 1920 pixels (5 megapixel) in 4:3 met een kijkhoek van 180 graden diagonaal. In de doos zitten volgens bol een Reolink Chime voor in het stopcontact en een stroomadapter. Je kunt hem dus ook zonder beltrafo aansluiten. Gebruik je bestaande beldraden, dan heb je 12 tot 24 volt wisselstroom nodig.\n\nOpnames gaan naar een microSD-kaart, een Reolink NVR, een NAS of een FTP-server. Bol noemt kaarten tot 512 GB, Reolink noemt op de eigen productpagina 256 GB. Een kaart zit er niet bij. Detectie van personen, voertuigen en dieren werkt zonder abonnement. Voor meldingen met een voorbeeldfoto vraagt Reolink volgens bol wel een abonnement, met een gratis deel tot 25 afbeeldingen per dag. Let op: volgens Reolink werkt hij niet met een mechanische gong. Die wordt bij het aansluiten overbrugd. De behuizing is IP65. Stiftung Warentest nam de D340W in oktober 2026 mee in een test. Het oordeel staat achter een betaalmuur. De score bij bol is 4,2 van 5.",
       "ean": "6975253983315",
       "bol_title": "Reolink Videodeurbel D340W Bedrade Voor Buiten - 2K 5MP - 4:3 Breedbeeld - Dual-band wifi - Lokale Opslag - Tweewegaudio - Slimme Detectie-1-pack Met Chime",
       "url": "https://www.bol.com/nl/nl/p/reolink-videodeurbel-met-bel-slimme-wifi-videodeurbel-5-mp-2-4-5ghz-dual-band-wifi-persoonsdetectie-tweewegaudio/9300000173981355/",
@@ -182,25 +185,27 @@
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,1 van 5",
-      "oneliner": "Betaalbare accudeurbel met microSD-slot en gong in de doos.",
+      "oneliner": "Accudeurbel met microSD-slot tot 512 GB en een gong in de doos.",
       "specs": {
-        "Resolutie": "2K (3 MP)",
-        "Voeding": "Accu of bedraad",
+        "Resolutie": "2304 x 1296 (3 MP)",
+        "Kijkhoek": "160° diagonaal",
+        "Voeding": "Accu 6.400 mAh",
         "Lokale opslag": "microSD tot 512 GB",
         "Gong": "Inbegrepen"
       },
       "pros": [
-        "Scherpe prijs inclusief gong",
-        "Opnames op een microSD-kaart in de deurbel",
-        "Werkt draadloos op de accu",
-        "Eenvoudige Tapo-app"
+        "Gong in de doos",
+        "microSD tot 512 GB in de deurbel",
+        "Detectie van personen, voertuigen, huisdieren en pakketten zonder abonnement",
+        "IP65 en nachtzicht in kleur"
       ],
       "cons": [
-        "Kijkhoek van 160 graden is smaller dan bij duurdere modellen",
-        "Een microSD-kaart moet je zelf kopen"
+        "Kaart zit in de deurbel: wie de deurbel meeneemt, heeft ook de opnames",
+        "Een microSD-kaart moet je zelf kopen",
+        "Werkt volgens de Consumentenbond niet met een bestaande bel"
       ],
       "ideal": "Wie zonder abonnement en zonder gedoe een goede eerste videodeurbel wil.",
-      "text": "De Tapo D210 bewijst dat een videodeurbel zonder abonnement niet duur hoeft te zijn. Voor rond de 74 euro krijg je een deurbel met 2K-beeld op 3 megapixel en een gong voor binnen. Opnames sla je op een microSD-kaart tot 512 GB op die je in de deurbel zelf steekt. Daarmee heb je alle basisfuncties zonder ooit maandkosten te betalen.\n\nDe deurbel werkt op een oplaadbare accu, dus je hoeft geen draden te trekken. Wil je niet laden, dan sluit je hem aan op een bestaande beltrafo. In de Tapo-app stel je bewegingszones in en krijg je meldingen met een miniatuurfoto. Persoonsdetectie werkt ook zonder Tapo Care-abonnement. Kopers noemen vooral de eenvoudige installatie en de lage prijs. Je moet wel zelf een microSD-kaart kopen, wat ongeveer tien euro extra kost. De kijkhoek is smaller dan bij topmodellen, maar voor een gewone voordeur is dat zelden een probleem.",
+      "text": "De Tapo D210 is een accudeurbel met een losse gong voor in het stopcontact. De camera filmt in 2304 x 1296 pixels (3 megapixel) met een kijkhoek van 160 graden diagonaal. Volgens TP-Link is dat 135 graden horizontaal en 109 graden verticaal. Test-Aankoop mat 153 graden horizontaal en 102 graden verticaal. 's Nachts geeft een spotlamp beeld in kleur.\n\nOpnames gaan naar een microSD-kaart tot 512 GB in de deurbel. Een kaart zit er niet bij. Detectie van personen, voertuigen, huisdieren en pakketten is volgens TP-Link gratis. Cloudopslag via Tapo Care is betaald en niet verplicht. De accu is 6.400 mAh en gaat volgens TP-Link tot 180 dagen mee bij 300 seconden gebruik per dag. Bol noemt ook een aansluiting op twee draden. TP-Link noemt die op de eigen productpagina niet en volgens de Consumentenbond werkt hij niet met een bestaande bel. Reken dus op laden. De behuizing is IP65. De verkoper noemt hem bij bol Beste Koop van de Consumentenbond. Dat predicaat staat achter een ledenmuur en konden wij niet nalezen. De score bij bol is 4,1 van 5.",
       "ean": "4897098688069",
       "bol_title": "Tapo D210 Draadloze Deurbel met Camera en Gong - 2K 3MP - Consumentenbond Beste Koop - 160° Beeld - Kleur Nachtzicht - Tot 6 Maanden Accu - Zonder Abonnement - IP65 - Tot 512GB Lokale Opslag - Alexa & Google",
       "url": "https://www.bol.com/nl/nl/p/tp-link-tapo-d210-slimme-deurbel-video-deurbel-inclusief-chime-gong-2k-3mp-batterij-ip65/9300000191578649/",
@@ -266,23 +271,24 @@
       "reviews": "bol-score 4,3 van 5",
       "oneliner": "Twee camera's en gezichtsherkenning, volledig lokaal opgeslagen.",
       "specs": {
-        "Resolutie": "2K + 1080p (twee camera's)",
-        "Voeding": "Accu of bedraad",
+        "Resolutie": "2048 x 1536 + 1600 x 1200",
+        "Kijkhoek": "Niet opgegeven bij bol",
+        "Voeding": "Accu of bedraad 16-24 V",
         "Lokale opslag": "HomeBase 3, 16 GB (uitbreidbaar)",
         "Gong": "Inbegrepen"
       },
       "pros": [
-        "Tweede camera kijkt naar beneden naar pakketjes",
-        "HomeBase 3 is uit te breiden met een harde schijf",
-        "Gezichtsherkenning zonder abonnement",
-        "Gong en HomeBase in één set"
+        "Tweede camera kijkt naar de mat voor pakketjes",
+        "Opnames op de HomeBase binnen, uit te breiden met een harde schijf",
+        "Gezichtsherkenning zonder abonnement (volgens bol)",
+        "Verwisselbaar accupakket"
       ],
       "cons": [
-        "Fors duurder dan een losse deurbel",
-        "Zonder HomeBase blijft de opslag beperkt"
+        "Duurste set in deze lijst",
+        "Onderste camera filmt in 1600 x 1200 pixels, niet in 2K"
       ],
       "ideal": "Wie de deurbel wil uitbreiden naar een compleet camerasysteem zonder maandkosten.",
-      "text": "De eufy E340 heeft twee camera's: een 2K-camera recht vooruit en een 1080p-camera die naar beneden kijkt. Daardoor zie je zowel het gezicht van de bezorger als het pakketje dat hij op de mat legt. In deze set komt de deurbel met een gong en met de HomeBase 3, de slimme thuisbasis van eufy.\n\nDie HomeBase maakt het verschil voor wie geen abonnement wil. Er zit 16 GB opslag in en je kunt er een harde schijf aan toevoegen voor maanden aan beeld. De ingebouwde AI herkent gezichten van huisgenoten en filtert zo onnodige meldingen weg. Dat alles gebeurt lokaal zonder cloud. Later koppel je er eenvoudig extra eufy-camera's aan. Kopers zijn enthousiast over het beeld van de tweede camera en de betrouwbare meldingen. De prijs ligt flink hoger dan bij een losse deurbel. Je betaalt hier voor een systeem dat met je meegroeit, niet voor alleen een bel.",
+      "text": "De eufy E340 heeft twee camera's. De voorste filmt in 2048 x 1536 pixels, de onderste kijkt naar de mat en filmt in 1600 x 1200 pixels. Eufy noemt dat 2K en 1080p. In deze set bij bol zitten de deurbel, een losse gong en de HomeBase S380, ook HomeBase 3 genoemd. De gong heeft acht belgeluiden en een microSD-slot voor kaarten tot 128 GB.\n\nDe deurbel heeft zelf 8 GB opslag. Met de HomeBase erbij staan opnames binnen en kun je een harde schijf toevoegen. Bol noemt gezichtsherkenning bij deze set, zonder abonnement. Je gebruikt de deurbel op de accu of bedraad op 16 tot 24 volt. Het accupakket is verwisselbaar, dus de deurbel hoeft tijdens het laden niet van de muur. Volgens eufy gaat een lading tot zes maanden mee en werkt hij bedraad met een mechanische gong. De behuizing is IP65. Stiftung Warentest nam de E340 in oktober 2026 mee in een test van twaalf deurbellen. Het oordeel staat achter een betaalmuur. De score bij bol is 4,3 van 5.",
       "ean": "8721082272483",
       "bol_title": "eufy Security E340 Video Doorbell met chime + HomeBase 3 S380 - Bundelvoordeel",
       "url": "https://www.bol.com/nl/nl/p/eufy-video-doorbell-e340-met-chime-homebase-3-s380-bundelvoordeel/9300000177037558/",
@@ -342,25 +348,27 @@
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
-      "oneliner": "Bedrade PoE-deurbel voor wie een netwerkkabel tot de voordeur heeft.",
+      "oneliner": "PoE-deurbel zonder wifi, met twee Chimes in de doos.",
       "specs": {
-        "Resolutie": "5 MP (2560 x 1920)",
-        "Voeding": "PoE (netwerkkabel)",
-        "Lokale opslag": "microSD of Reolink NVR",
-        "Gong": "Bestaande gong of Reolink Chime"
+        "Resolutie": "2560 x 1920 (5 MP)",
+        "Kijkhoek": "180° diagonaal",
+        "Voeding": "PoE of 12-24 V",
+        "Lokale opslag": "microSD, NVR, NAS of pc",
+        "Gong": "2 Reolink Chimes inbegrepen"
       },
       "pros": [
-        "Stroom en data via één netwerkkabel",
-        "Geen last van een zwak wifi-signaal",
-        "Werkt naadloos samen met een Reolink NVR",
-        "Breed 180 graden zicht"
+        "Stroom en netwerk via één kabel",
+        "Geen wifi nodig",
+        "Twee Chimes in de doos",
+        "Neemt 6 seconden voor de beweging al op"
       ],
       "cons": [
-        "Je hebt een netwerkkabel naar de voordeur nodig",
-        "Installatie vraagt meer werk dan een accudeurbel"
+        "Netwerkkabel naar de voordeur nodig",
+        "Werkt volgens Reolink niet met een mechanische gong",
+        "Bol noemt maar 12 maanden updates na de introductie in 2022"
       ],
       "ideal": "Wie een bekabeld camerasysteem met een NVR heeft of wil bouwen.",
-      "text": "De PoE-versie van de Reolink-deurbel krijgt stroom en internet via één netwerkkabel. Dat maakt hem de meest betrouwbare keuze in deze lijst, want wifi-storingen of lege accu's bestaan voor deze deurbel niet. Hij filmt in 5 megapixel met een breed 180 graden beeld in de verhouding 4:3.\n\nOpnames bewaar je op een microSD-kaart in de deurbel of op een Reolink NVR. Met zo'n recorder heb je wekenlang beeld van al je camera's op één plek en kijk je alles terug in de app of op de computer. Persoonsdetectie werkt zonder abonnement. Via ONVIF kun je de deurbel ook koppelen aan andere recorders. Het nadeel is duidelijk: je moet een netwerkkabel tot aan de voordeur hebben of trekken. Voor een nieuwbouwwoning of een verbouwing is dat geen probleem, in een bestaand huis soms wel. Kopers waarderen vooral de stabiliteit en het feit dat er nooit meer een maandbedrag bij komt.",
+      "text": "De Reolink Video Doorbell PoE krijgt stroom en netwerk via één netwerkkabel (PoE, 802.3af). Wifi heeft hij niet. Je kunt hem ook voeden met een adapter of met bestaande beldraden van 12 tot 24 volt, maar het netwerk loopt altijd via de kabel. Hij filmt in 2560 x 1920 pixels (5 megapixel) in 4:3 met 180 graden diagonaal. In deze set bij bol zitten twee Reolink Chimes voor in het stopcontact.\n\nOpnames bewaar je volgens bol op een microSD-kaart, een Reolink NVR, een NAS of een pc. Reolink noemt kaarten tot 256 GB. De deurbel neemt 6 seconden op voordat de beweging begint. Persoonsdetectie werkt zonder abonnement en bol noemt geen cloudopname. Volgens Reolink werkt hij niet met een mechanische gong. De behuizing is IP65. Bol noemt 2022 als introductiejaar en minimaal 12 maanden updates na de introductie. Het nadeel blijft de kabel: zonder netwerkkabel bij de voordeur valt hij af. De score bij bol is 4,9 van 5, de hoogste in deze lijst.",
       "ean": "6978285036691",
       "bol_title": "Reolink Bedrade PoE-deurbel - 2K+ 5 MP - 180° Breed Zicht - Slimme Detectie - 2-richtingsgesprek - Geen Maandelijkse Kosten - Snel Antwoord - Geen WiFi - 2 Chimes Inbegrepen",
       "url": "https://www.bol.com/nl/nl/p/reolink-videodeurbel-poe-camera-met-2-stuks-chime-v2-2k-ip-beveiligingscamera-buiten-4-3-beeldverhouding-180-diagonaal-tweewegcommunicatie-plug-play-beveiligde-lokale-opslag-geen-maandelijkse-kosten/9300000260927851/",
@@ -420,25 +428,27 @@
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 3,7 van 5",
-      "oneliner": "Dual-lens accudeurbel met 32 GB ingebouwde opslag.",
+      "oneliner": "Twee lenzen, 32 GB ingebouwde opslag en een zonnepaneel in de doos.",
       "specs": {
-        "Resolutie": "2K + 2K (twee camera's)",
-        "Voeding": "Accu",
+        "Resolutie": "2048 x 1296 + 1920 x 1080",
+        "Kijkhoek": "162° en 155° diagonaal",
+        "Voeding": "Accu met zonnepaneel of 8-24 V",
         "Lokale opslag": "32 GB ingebouwd",
-        "Gong": "Apart verkrijgbaar"
+        "Gong": "Niet inbegrepen"
       },
       "pros": [
-        "Opslag zit al in de deurbel, geen kaart nodig",
-        "Twee lenzen voor bezoeker en pakketje",
-        "Draadloos op de accu",
-        "Kleurennachtzicht"
+        "32 GB opslag ingebouwd, geen kaart nodig",
+        "Twee lenzen: bezoeker en mat",
+        "Zonnepaneel in de doos",
+        "Werkt bedraad met een bestaande gong (volgens EZVIZ)"
       ],
       "cons": [
-        "Gong zit niet in deze versie",
-        "App bevat regelmatig reclame voor de cloud"
+        "Bol-score van 3,7 van 5",
+        "Geen losse gong in de doos",
+        "Onderste lens is 1080p, niet 2K"
       ],
-      "ideal": "Wie een dual-camera deurbel zonder abonnement wil voor minder dan 100 euro.",
-      "text": "De EZVIZ EP3x Pro is een van de weinige deurbellen met opslag die al ingebouwd is. Er zit 32 GB eMMC-geheugen in, dus je hoeft geen microSD-kaart te kopen en niemand kan er een kaart uit trekken. Dat is precies wat je zoekt als je een videodeurbel zonder abonnement wilt.\n\nDe deurbel heeft twee lenzen. De bovenste filmt je bezoeker, de onderste kijkt naar de grond voor pakketjes. Beide leveren 2K-beeld en 's avonds schakelt hij over op kleurennachtzicht. Persoonsdetectie draait lokaal, waardoor je minder meldingen krijgt van voorbijrijdende auto's. De EP3x Pro werkt op een accu en je monteert hem zonder bedrading. Een gong zit niet in deze versie, die koop je los of in een kit. Kopers zijn tevreden over de prijs voor twee camera's. Wel merken ze op dat de app vaak aanbiedingen voor cloudopslag toont, die je gerust kunt negeren.",
+      "ideal": "Wie twee lenzen en ingebouwde opslag wil zonder een microSD-kaart te kopen.",
+      "text": "De EZVIZ EP3x Pro heeft 32 GB opslag ingebouwd. Een microSD-kaart is dus niet nodig. Er zitten twee lenzen in. De bovenste filmt volgens EZVIZ in 2048 x 1296 pixels met 162 graden diagonaal, de onderste in 1920 x 1080 pixels met 155 graden. Bol noemt beide lenzen in de titel 2K. Volgens de fabrikant geldt dat alleen voor de bovenste.\n\nIn deze uitvoering zit een zonnepaneel in de doos dat de accu van 5.200 mAh bijlaadt. Je kunt de deurbel ook aansluiten op 8 tot 24 volt wisselstroom. Volgens EZVIZ werkt hij dan met een bestaande mechanische of elektronische gong. Een losse gong zit er niet bij. Detectie van personen en pakketten werkt volgens bol zonder abonnement. Cloudopslag is betaald. De behuizing is IP65. Stiftung Warentest nam de EP3x Pro in oktober 2026 mee in een test. Het oordeel staat achter een betaalmuur. De score bij bol is 3,7 van 5, lager dan bij de vijf deurbellen erboven.",
       "ean": "6941545631455",
       "bol_title": "EZVIZ EP3X Pro + 32GB Opslag – Draadloze Video Deurbel – Dual-Lens 2K HD – Geen Abonnement – AI Detectie - Incl. Zonnepaneel - Zilver - 1 Stuk",
       "url": "https://www.bol.com/nl/nl/p/ezviz-ep3x-pro-slimme-deurbellen-2k-lens-1080p-dual-lens-nachtzicht-1080p-32-gb-emmc-opslag-bewegingsmelder-zonnepaneel-grijs/9300000171687550/",
@@ -498,25 +508,26 @@
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,0 van 5",
-      "oneliner": "2K-deurbel met PoE en lokale opslag zonder abonnement.",
+      "oneliner": "Bedrade 2K-deurbel met PoE, wifi 6 en een binnenbel in de doos.",
       "specs": {
-        "Resolutie": "2K",
-        "Voeding": "PoE (netwerkkabel)",
-        "Lokale opslag": "microSD",
-        "Gong": "Optioneel"
+        "Resolutie": "1536 x 2048",
+        "Kijkhoek": "165°",
+        "Voeding": "PoE of 8-24 V",
+        "Lokale opslag": "microSD tot 512 GB, NAS",
+        "Gong": "Inbegrepen"
       },
       "pros": [
-        "Stroom en internet via één netwerkkabel",
-        "Scherp 2K-beeld",
-        "Lokale opslag zonder abonnement",
-        "Werkt met Apple Home en andere systemen"
+        "PoE of 8 tot 24 volt, plus wifi 6",
+        "microSD tot 512 GB en NAS, ook doorlopend opnemen",
+        "Werkt met Apple Home, Google Home, Alexa en SmartThings",
+        "Binnenbel in de doos"
       ],
       "cons": [
-        "Je hebt een netwerkkabel naar de voordeur nodig",
-        "Gong zit niet standaard in de doos"
+        "Geen accu: er moet een kabel naar de deur",
+        "Werkt volgens Aqara niet met een traditionele gong"
       ],
-      "ideal": "Wie een stabiele bedrade deurbel wil en al een netwerkkabel bij de voordeur heeft.",
-      "text": "De Aqara G400 Select is een bedrade videodeurbel die stroom en internet via één netwerkkabel krijgt. Dat heet Power over Ethernet, kortweg PoE. Het voordeel is een stabiele verbinding zonder haperende wifi en je hoeft nooit een accu op te laden. Wel moet er een netwerkkabel naar je voordeur lopen, of je moet die laten aanleggen.\n\nDe camera filmt in 2K-resolutie, scherp genoeg om gezichten en pakketbezorgers duidelijk te herkennen. Opnames sla je lokaal op, zodat je geen maandelijks abonnement nodig hebt. Aqara staat bekend om goede koppeling met slimme huissystemen. De deurbel werkt samen met Apple Home, Google Home en Alexa. Een gong zit niet standaard in de doos, maar je krijgt meldingen op je telefoon of op een Aqara-hub. Er zijn nog weinig reviews op bol. Wie al een netwerkkabel bij de deur heeft, krijgt hier een betrouwbare deurbel voor weinig geld.",
+      "ideal": "Wie een kabel bij de voordeur heeft en de deurbel in Apple Home of Home Assistant wil.",
+      "text": "De Aqara G400 Select is een bedrade deurbel. Hij krijgt stroom via een netwerkkabel (PoE, 802.3af) of via 8 tot 24 volt wissel- of gelijkstroom. Wifi 6 op 2,4 en 5 GHz zit er ook in. De camera filmt staand in 1536 x 2048 pixels met een kijkhoek van 165 graden. Nachtzicht werkt met onzichtbaar infrarood van 940 nm. De behuizing is volgens Aqara IP65.\n\nOpnames gaan naar een microSD-kaart tot 512 GB of naar een NAS, ook 24 uur per dag. Bij de Select-versie zit volgens bol 3 maanden cloudopslag van HomeGuardian. Daarna is die optioneel. Detectie van personen werkt lokaal. De deurbel werkt met Apple Home, Google Home, Alexa en SmartThings. Via RTSP en ONVIF koppel je hem aan Home Assistant of een NVR. In de doos zit een binnenbel. Met een traditionele gong werkt hij volgens Aqara niet. Bol noemt maart 2026 als introductie. De score bij bol is 4,0 van 5.",
       "ean": "6978350350639",
       "bol_title": "Aqara Doorbell Camera G400 Select wired - 2K deurbelcamera met PoE",
       "url": "https://www.bol.com/nl/nl/p/aqara-doorbell-camera-g400-select-wired-2k-deurbelcamera-met-poe/9300000260317123/",
@@ -580,25 +591,27 @@
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,1 van 5",
-      "oneliner": "Goedkoopste serieuze videodeurbel zonder abonnement.",
+      "oneliner": "Goedkoopste deurbel in deze lijst, met microSD-slot tot 512 GB.",
       "specs": {
-        "Resolutie": "2K (3 MP)",
-        "Voeding": "Accu",
-        "Lokale opslag": "microSD of Tapo-hub",
-        "Gong": "Apart verkrijgbaar"
+        "Resolutie": "2304 x 1296 (3 MP)",
+        "Kijkhoek": "160° diagonaal",
+        "Voeding": "Accu 5.200 mAh",
+        "Lokale opslag": "microSD tot 512 GB",
+        "Gong": "Niet inbegrepen"
       },
       "pros": [
-        "Zeer lage prijs",
-        "Lokale opslag zonder maandkosten",
-        "AI-detectie van personen",
-        "IP54 spatwaterdicht"
+        "Laagste prijs in deze lijst",
+        "microSD tot 512 GB, zonder abonnement",
+        "Laden via usb-c zonder de deurbel los te halen",
+        "Volgens bol minimaal 48 maanden updates na introductie"
       ],
       "cons": [
         "Geen gong in de doos",
-        "Minder accucapaciteit dan duurdere modellen"
+        "IP54 in plaats van IP65",
+        "Nachtzicht in zwart-wit"
       ],
       "ideal": "Wie voor zo weinig mogelijk geld wil zien wie er aanbelt.",
-      "text": "De Tapo D205 is de instapper van TP-Link en een van de goedkoopste videodeurbellen van een bekend merk. Voor ruim 40 euro krijg je 2K-beeld op 3 megapixel en AI-detectie van personen. Opnames bewaar je lokaal, waardoor je ook bij deze prijs nooit vastzit aan een abonnement.\n\nDe deurbel werkt op een oplaadbare accu en heeft een IP54-behuizing die tegen regen kan. Je bevestigt hem met twee schroeven naast de deur. In de Tapo-app stel je zones in en krijg je meldingen op je telefoon. Praten met de bezorger gaat via tweeweg audio. Een gong zit niet in de doos, dus binnen hoor je de bel alleen via je telefoon of een losse Tapo-gong. Kopers vinden hem vooral voor deze prijs verrassend compleet. De accu gaat korter mee dan bij de D210, vooral bij een drukke straat. Voor een rustige voordeur of een achterdeur is het een prima keuze.",
+      "text": "De Tapo D205 is de goedkoopste deurbel in deze lijst. Hij filmt in 2304 x 1296 pixels met 160 graden diagonaal, net als de D210. Volgens TP-Link is dat 145 graden horizontaal en 83 graden verticaal: breder en minder hoog dan bij de D210. 's Nachts gebruikt hij infrarood, dus beeld in zwart-wit.\n\nOpnames gaan naar een microSD-kaart tot 512 GB in de deurbel. Volgens de omschrijving bij bol is dat goed voor ongeveer 44 dagen 2K-video. Een kaart zit er niet bij. Persoonsdetectie, live beeld en lokale opslag werken zonder abonnement. De accu is 5.200 mAh en gaat volgens TP-Link tot 180 dagen mee onder ideale omstandigheden. Laden gaat via usb-c zonder de deurbel van de muur te halen. Een gong zit er niet bij: je hoort de bel via je telefoon. De behuizing is IP54, tegen IP65 bij de D210. Test-Aankoop noemt de D205 bij naam als deurbel waarvoor geen abonnement nodig is. De score bij bol is 4,1 van 5.",
       "ean": "1210002607810",
       "bol_title": "Tapo D205 Videodeurbel - Zonder abonnement - Draadloos op batterij - 2K - AI Detectie - IP54",
       "url": "https://www.bol.com/nl/nl/p/tapo-d205-draadloze-video-deurbel-op-batterij-2k-video-zonder-abonnement-ai-detectie-ip54-slimme-deurbel/9300000237818582/",
@@ -658,25 +671,27 @@
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 3,8 van 5",
-      "oneliner": "Brede 176 graden blik en microSD-opslag voor weinig geld.",
+      "oneliner": "Kijkhoek van 176 graden, met de geheugenkaart in de gong binnen.",
       "specs": {
-        "Resolutie": "3K (5 MP)",
-        "Voeding": "Accu",
-        "Lokale opslag": "microSD tot 256 GB",
+        "Resolutie": "2544 x 1888 (ca. 4,8 MP)",
+        "Kijkhoek": "176° diagonaal",
+        "Voeding": "Accu 5.200 mAh",
+        "Lokale opslag": "microSD tot 256 GB, in de gong",
         "Gong": "Inbegrepen"
       },
       "pros": [
-        "Zeer brede kijkhoek van 176 graden",
-        "Gong inbegrepen",
-        "Grote accu",
-        "5MP voor dit prijsniveau"
+        "Kijkhoek van 176 graden diagonaal",
+        "Gong in de doos",
+        "Kaart zit in de gong binnen, niet in de deurbel",
+        "Accu van 5.200 mAh"
       ],
       "cons": [
-        "Nachtbeeld is minder scherp dan bij Reolink",
-        "Meldingen komen soms iets trager binnen"
+        "Bol-score van 3,8 van 5",
+        "Model uit 2022 met volgens bol minimaal 12 maanden updates",
+        "Nachtzicht in zwart-wit tot 5 meter"
       ],
-      "ideal": "Wie een brede blik op stoep en oprit wil zonder veel uit te geven.",
-      "text": "De EZVIZ DB2 Pro valt op door zijn brede kijkhoek van 176 graden. Daarmee zie je niet alleen je voordeur maar ook een groot deel van de stoep of oprit. De deurbel filmt in 5 megapixel, wat voor deze prijs veel is. Opnames sla je op een microSD-kaart tot 256 GB op, dus een abonnement is niet nodig.\n\nIn de doos zit een gong die je in een stopcontact steekt. De deurbel zelf werkt op een grote accu en hang je zonder bedrading op. Persoonsdetectie filtert voorbijgangers en auto's goed uit. Via tweeweg audio praat je met bezoekers. Kopers zijn positief over het brede beeld en de complete set. Wel merken sommigen dat meldingen een paar seconden later binnenkomen dan bij eufy of Tapo. Het nachtbeeld is bruikbaar maar minder scherp dan bij de duurdere bedrade modellen. Voor een budgetdeurbel zonder maandkosten krijg je toch veel functies.",
+      "ideal": "Wie een brede blik op stoep en oprit wil en de opnames binnen wil bewaren.",
+      "text": "De EZVIZ DB2 Pro is een accudeurbel met een wifi-gong in de doos. De camera heeft een kijkhoek van 176 graden diagonaal. EZVIZ geeft 2544 x 1888 pixels op, ongeveer 4,8 megapixel. Bol noemt hem in de titel 5MP en 3K en in de specificaties 2560 x 1920 pixels. Nachtzicht werkt met infrarood tot 5 meter.\n\nDe microSD-kaart gaat in de gong die binnen staat, niet in de deurbel. Zo blijven de opnames bewaard als iemand de deurbel meeneemt. Volgens EZVIZ past er een kaart tot 256 GB in. Een kaart zit er niet bij. De gong versterkt volgens bol ook het wifi-signaal naar de deurbel. De accu is 5.200 mAh en gaat volgens EZVIZ tot 115 dagen mee bij 5 minuten gebruik per dag. Persoonsdetectie werkt zonder abonnement, cloudopslag is betaald. De behuizing is IP65. Bol noemt 2022 als introductiejaar en minimaal 12 maanden updates na de introductie. De score bij bol is 3,8 van 5.",
       "ean": "6941545607450",
       "bol_title": "EZVIZ DB2 Pro 5MP - Slimme Draadloze Video Deurbel met Chime - 3K Resolutie - AI Persoonsdetectie - 176° Groothoek - Tweeweg Audio - 5200 mAh Batterij - Wit",
       "url": "https://www.bol.com/nl/nl/p/ezviz-battery-powered-2k-video-doorbell-kit-db2-pro/9300000070828214/",
@@ -738,23 +753,24 @@
       "reviews": "bol-score 3,4 van 5",
       "oneliner": "Deurbel en Matter-hub in één, met lokale opslag.",
       "specs": {
-        "Resolutie": "2K",
-        "Voeding": "Batterijen of bedraad",
-        "Lokale opslag": "microSD tot 512 GB",
-        "Gong": "Inbegrepen"
+        "Resolutie": "2048 x 1536",
+        "Kijkhoek": "175°",
+        "Voeding": "6 AA-batterijen of 12-24 V",
+        "Lokale opslag": "microSD tot 512 GB, NAS",
+        "Gong": "Inbegrepen, met hub"
       },
       "pros": [
-        "Ingebouwde Zigbee- en Matter-hub",
-        "Werkt met HomeKit, Alexa en Google Home",
-        "Gezichtsherkenning lokaal",
-        "Dual-band wifi"
+        "Hub voor Zigbee, Matter en Thread in de binnenbel",
+        "Werkt met Apple Home, Google Home, Alexa en SmartThings",
+        "Gezichtsherkenning lokaal (volgens bol)",
+        "Wifi op 2,4 en 5 GHz"
       ],
       "cons": [
-        "Duurder dan een gewone deurbel",
-        "Gemengde reviews over de installatie"
+        "Laagste bol-score in deze lijst: 3,4 van 5",
+        "Werkt op AA-batterijen, niet op een oplaadbare accu"
       ],
       "ideal": "Wie een slim huis bouwt en deurbel en hub wil combineren.",
-      "text": "De Aqara G410 is meer dan een deurbel. In de gong zit een hub voor Zigbee en Matter, waarmee je ook sensoren, slimme lampen en sloten kunt aansturen. Voor wie een slim huis opbouwt, scheelt dat een apart apparaat. De camera filmt in 2K en slaat beelden op een microSD-kaart tot 512 GB op.\n\nGezichtsherkenning gebeurt lokaal, net als bij de G4. De deurbel werkt met Apple HomeKit, Alexa en Google Home. Hij draait op batterijen of op een bestaande beltrafo. Dankzij dual-band wifi is de verbinding stabieler dan bij oudere Aqara-modellen. De reviews zijn wisselend. Kopers die al Aqara-apparaten hebben, zijn tevreden over de integratie. Anderen vinden de installatie en de app lastig. Daarom staat hij onderaan deze lijst. Zoek je alleen een videodeurbel zonder abonnement, dan zijn de eufy of Tapo eenvoudiger. Wil je ook een hub, dan is dit een slimme combinatie.",
+      "text": "De Aqara G410 Select is deurbel en smarthome-hub in één. In de binnenbel zit een hub voor Zigbee, een Matter-controller en een Thread border router. Daarmee stuur je ook sensoren, lampen en sloten aan. De camera filmt in 2K in 4:3 met een kijkhoek van 175 graden. Bol noemt 2048 x 1536 pixels. Een mmWave-radar merkt bezoekers op. Gezichtsherkenning werkt volgens bol lokaal, zonder abonnement.\n\nDe deurbel werkt op zes AA-batterijen, die in de doos zitten, of bedraad op 12 tot 24 volt. Aqara noemt een batterijduur tot 5 maanden. Opnames gaan naar een microSD-kaart tot 512 GB of naar een NAS. Bij de Select-versie zit 3 maanden cloudopslag. De bel klinkt volgens bol op 95 dB. Hij werkt met Apple Home, Google Home, Alexa en SmartThings. Stiftung Warentest nam de G410 Select in oktober 2026 mee in een test. Het oordeel staat achter een betaalmuur. De score bij bol is 3,4 van 5, de laagste in deze lijst. Daarom staat hij op 10.",
       "ean": "6975833358380",
       "bol_title": "Aqara Doorbell Camera Hub G410 Select - Zwart - 2K Slimme Deurbel - Dual-Band Wi-Fi - Matter & Zigbee Hub - Gezichtsherkenning",
       "url": "https://www.bol.com/nl/nl/p/aqara-doorbell-camera-hub-g410-select/9300000234146403/",
@@ -811,54 +827,113 @@
   "guide": [
     {
       "h": "Waarom een videodeurbel zonder abonnement?",
-      "p": "Bij Ring en Google Nest kun je zonder abonnement vaak alleen live meekijken. Opnames terugzien kost dan 4 tot 10 euro per maand. Over vijf jaar betaal je zo al snel meer dan de deurbel zelf. Merken als eufy, Reolink, Tapo, EZVIZ en Aqara bewaren opnames lokaal. Je betaalt eenmalig en hebt daarna alle basisfuncties gratis. Je beelden blijven bovendien in je eigen huis in plaats van op een server van de fabrikant."
+      "p": "Bij veel merken kun je zonder abonnement alleen live meekijken en meldingen krijgen. Opnames terugzien kost dan geld. Stiftung Warentest onderzocht in oktober 2026 twaalf slimme deurbellen: zeven slaan alleen in de cloud op, vijf kunnen lokaal opslaan. Cloudopslag kost volgens die test 3 tot 10 euro per maand, dus 36 tot 120 euro per jaar. De Consumentenbond telt abonnementskosten niet mee in de testscore, wel bij het bepalen van de Beste Koop. Merken als eufy, Reolink, Tapo, EZVIZ en Aqara bewaren opnames lokaal. De basisfuncties werken dan zonder maandbedrag."
     },
     {
       "h": "microSD, HomeBase of NVR?",
-      "p": "Een microSD-kaart in de deurbel is de goedkoopste oplossing. Het nadeel is dat een inbreker de deurbel met kaart kan meenemen. Een HomeBase of hub staat binnen en bewaart de beelden veilig. Een NVR is een recorder voor meerdere camera's, ideaal als je ook rond het huis wilt filmen. Voor de meeste huishoudens is een HomeBase de beste balans tussen gemak en veiligheid."
+      "p": "Een microSD-kaart in de deurbel is de goedkoopste oplossing. Het nadeel: wie de deurbel meeneemt, heeft ook de kaart. Dat geldt in deze lijst voor de Tapo D210, de Tapo D205 en de twee Reolinks. Bij de EZVIZ DB2 Pro zit de kaart in de gong die binnen staat. Bij de twee sets van eufy staan opnames op een HomeBase in huis. De EZVIZ EP3x Pro heeft 32 GB ingebouwd. Een NVR is een recorder voor meerdere camera's. De Reolinks en de Aqara's kunnen ook naar een NAS schrijven."
     },
     {
       "h": "Accu of bedraad?",
-      "p": "Een accudeurbel hang je in tien minuten op, maar je moet hem elke paar maanden opladen. Bij een drukke straat gaat de accu sneller leeg. Een bedrade deurbel sluit je aan op je bestaande beltrafo en laadt nooit meer leeg. Controleer wel of je trafo genoeg spanning levert, meestal 12 tot 24 volt wisselstroom. Een PoE-deurbel krijgt stroom via een netwerkkabel en is het meest betrouwbaar."
+      "p": "Een accudeurbel hang je zonder kabels op, maar je moet hem laden. Fabrikanten noemen 115 tot 180 dagen per lading, gerekend met ongeveer 5 minuten gebruik per dag. Aan een drukke stoep is dat korter. De Consumentenbond meet de accuduur niet, alleen het oplaadgemak. Een bedrade deurbel sluit je aan op beldraden. De modellen hier vragen 8 tot 24 of 12 tot 24 volt. Kijk op je beltrafo wat die levert. Een PoE-deurbel krijgt stroom en netwerk via één netwerkkabel en heeft geen wifi nodig."
     },
     {
       "h": "Welke functies werken echt zonder abonnement?",
-      "p": "Let goed op wat de fabrikant achter een betaalmuur zet. Bij de deurbellen in deze lijst werken live beeld, meldingen, opnames terugkijken en persoonsdetectie zonder abonnement. Soms zijn extra's zoals pakketdetectie of langere cloudopslag alleen betaald. Lees de productpagina en zoek naar termen als lokale AI of on-device detectie. Dan weet je dat de slimme functies op de deurbel zelf draaien."
+      "p": "Let op wat de fabrikant achter een betaalmuur zet. Live beeld, meldingen, opnames terugkijken en persoonsdetectie werken bij de deurbellen in deze lijst volgens de verkopers zonder abonnement. Extra's kunnen wel geld kosten. Bij de Reolink D340W vragen meldingen met een voorbeeldfoto volgens bol een abonnement, met een gratis deel tot 25 afbeeldingen per dag. Bij Tapo en EZVIZ is cloudopslag betaald. Bij de Select-modellen van Aqara zit 3 maanden cloudopslag in de prijs. Zoek op de productpagina naar termen als lokale AI of on-device detectie."
     },
     {
       "h": "Beeldkwaliteit en kijkhoek",
-      "p": "Een resolutie van 2K is in 2026 de standaard. Daarmee herken je gezichten en kentekens op een paar meter afstand. Nog belangrijker is de beeldverhouding. Een hoog 4:3- of vierkant beeld toont een bezoeker van top tot teen en het pakketje op de mat. Een kijkhoek van 160 tot 180 graden is ruim genoeg voor een gewone voordeur. Dual-camera modellen zoals de eufy E340 lossen het pakkethoekprobleem helemaal op."
+      "p": "De deurbellen in deze lijst filmen in 2048 x 1296 tot 2560 x 1920 pixels. Belangrijker dan het aantal pixels is de beeldverhouding. Een hoog 4:3-beeld toont een bezoeker van top tot teen en het pakketje op de mat. Fabrikanten geven de kijkhoek meestal diagonaal op: 160 tot 180 graden. Horizontaal is dat minder. Bij de Tapo D210 mat Test-Aankoop 153 graden horizontaal en 102 graden verticaal. De eufy E340 en de EZVIZ EP3x Pro hebben een tweede lens die naar de mat kijkt."
     },
     {
       "h": "Privacy en de wet",
-      "p": "Je mag met een videodeurbel je eigen voordeur en een klein stukje stoep filmen. De openbare weg of de tuin van de buren filmen mag niet zomaar. Stel daarom privacyzones in, die alle deurbellen in deze lijst ondersteunen. Lokale opslag helpt ook: je beelden staan dan niet op een server buiten Europa. Vertel je buren gerust dat je een camera hebt, dat voorkomt discussie."
+      "p": "De Autoriteit Persoonsgegevens schrijft dat je de openbare weg of je buren in principe niet mag filmen. Dat mag alleen met een aantoonbaar goede reden. Je moet mensen ook laten weten dat je een camera gebruikt. Richt de deurbel dus op je eigen deur en stoep. Stel in de app een privacyzone of activiteitszone in als die er is. Lokale opslag helpt: je beelden staan dan niet op een server van de fabrikant. Stiftung Warentest gaf vijf van de twaalf onderzochte deurbellen het oordeel 'ausreichend' voor gegevensbescherming. Welke dat zijn, staat achter een betaalmuur."
     }
   ],
   "faq": [
     {
       "q": "Welke videodeurbel werkt zonder abonnement?",
-      "a": "De eufy Video Doorbell 2K met HomeBase, de Reolink D340W en de Tapo D210 werken volledig zonder abonnement. Ze bewaren opnames lokaal op een HomeBase of microSD-kaart. Live beeld, meldingen en persoonsdetectie blijven gratis."
+      "a": "Alle tien in deze lijst. Ze bewaren opnames op een HomeBase, een microSD-kaart, ingebouwd geheugen of een NVR. Live beeld, meldingen en persoonsdetectie werken volgens de verkopers zonder maandbedrag. Cloudopslag is bij de meeste merken een betaalde extra."
     },
     {
       "q": "Wat is de beste videodeurbel zonder abonnement van 2026?",
-      "a": "Op basis van onze vergelijking is de eufy Video Doorbell 2K met HomeBase de beste videodeurbel zonder abonnement van 2026. Hij combineert 2K-beeld met veilige opslag in huis. Voor een kleiner budget is de Tapo D210 de beste prijs-kwaliteit."
+      "a": "In onze vergelijking staat de eufy Video Doorbell 2K met HomeBase op 1: 2560 x 1920 pixels en 16 GB opslag op een kastje in huis. Voor een kleiner budget is de Tapo D210 de beste prijs-kwaliteit. Wij vergelijken specificaties, prijzen en de score bij bol. Een eigen lab hebben wij niet."
     },
     {
       "q": "Kun je een Ring-deurbel zonder abonnement gebruiken?",
-      "a": "Ja, maar beperkt. Zonder Ring Protect kun je live meekijken en krijg je meldingen. Opnames terugkijken kan dan niet. Wil je echt geen maandkosten, kies dan een merk met lokale opslag zoals eufy, Reolink of Tapo."
+      "a": "Ja, maar beperkt. Zonder abonnement kun je live meekijken en krijg je meldingen. Opnames terugkijken kan dan niet. Wil je geen maandkosten, kies dan een merk met lokale opslag zoals eufy, Reolink of Tapo."
     },
     {
       "q": "Hoe groot moet de microSD-kaart in een videodeurbel zijn?",
-      "a": "Voor de meeste huishoudens is 64 of 128 GB ruim genoeg. Een deurbel neemt alleen op bij beweging, waardoor je daarmee weken aan clips bewaart. Kies een kaart met de aanduiding High Endurance, die is gemaakt voor continu schrijven."
+      "a": "Dat hangt af van hoeveel beweging er voor je deur is. Bij de Tapo D205 staat in de omschrijving bij bol dat 512 GB goed is voor ongeveer 44 dagen 2K-video. Een deurbel die alleen bij beweging opneemt, doet veel langer met een kaart. De Tapo's en de Aqara's nemen kaarten tot 512 GB, de EZVIZ DB2 Pro tot 256 GB. Kies een kaart met de aanduiding High Endurance, die is gemaakt voor veel schrijven."
     },
     {
       "q": "Is een videodeurbel zonder abonnement minder veilig?",
-      "a": "Nee, vaak juist veiliger voor je privacy omdat beelden in je eigen huis blijven. Het enige risico is dat een inbreker een deurbel met microSD meeneemt. Een HomeBase of NVR binnen voorkomt dat."
+      "a": "Voor je privacy vaak juist niet: de beelden blijven in huis. Het risico is dat iemand een deurbel met kaart meeneemt. Een HomeBase, een gong met kaartslot of een NVR binnen voorkomt dat."
     },
     {
       "q": "Werkt een videodeurbel zonder abonnement met mijn oude gong?",
-      "a": "Bij bedrade modellen zoals de Reolink D340W wel, die sluit je aan op je bestaande trafo en gong. Accudeurbellen werken los van je oude gong en gebruiken een draadloze gong of de HomeBase."
+      "a": "Dat verschilt per model. Volgens de fabrikant werken de eufy 2K, de eufy E340 en de EZVIZ EP3x Pro bedraad met een bestaande gong. De twee Reolinks en de Aqara G400 doen dat niet: daar zit een eigen gong in de doos. De Tapo D210 en de Tapo D205 werken volgens de Consumentenbond niet met een bestaande bel."
     }
   ],
-  "published": "2026-10-19"
+  "published": "2026-10-19",
+  "niet_kopen": {
+    "h": "Wanneer je beter geen videodeurbel zonder abonnement koopt",
+    "items": [
+      {
+        "b": "Je kunt hem alleen zo ophangen dat hij de stoep, de straat of de buren filmt.",
+        "p": "De Autoriteit Persoonsgegevens schrijft dat je de openbare weg of je buren in principe niet mag filmen, tenzij je een aantoonbaar goede reden hebt. De kijkhoeken in deze lijst zijn 160 tot 180 graden diagonaal. Bij een voordeur direct aan de stoep komt de straat dan al snel in beeld. Kun je dat met een montagewig of een zone in de app niet oplossen, dan past een gewone deurbel of een deurspion beter."
+      },
+      {
+        "b": "Je wilt je bestaande mechanische gong houden en kiest een Reolink, Aqara of Tapo.",
+        "p": "Volgens Reolink werken de D340W en de PoE-deurbel niet met een mechanische gong: die wordt bij het aansluiten overbrugd. Aqara zegt hetzelfde over de G400. De Tapo D210 en D205 werken volgens de Consumentenbond niet met een bestaande bel. Volgens de fabrikant werken de eufy 2K (8 tot 24 volt), de eufy E340 (16 tot 24 volt) en de EZVIZ EP3x Pro (8 tot 24 volt) bedraad wel met een bestaande gong."
+      },
+      {
+        "b": "Je voordeur ligt aan een drukke stoep en je kiest een accudeurbel.",
+        "p": "De accuduur die fabrikanten noemen, gaat uit van weinig gebruik: tot 180 dagen bij 300 seconden per dag bij de Tapo's en tot 115 dagen bij 5 minuten per dag bij de EZVIZ DB2 Pro. De Consumentenbond meet de accuduur niet. Stiftung Warentest schrijft dat accumodellen regelmatig geladen moeten worden. Loopt er de hele dag iemand langs, kies dan een bedrade deurbel: de Reolink D340W, de Reolink PoE of de Aqara G400."
+      },
+      {
+        "b": "Je wilt opnames die een dief niet kan meenemen en kiest een deurbel met de kaart erin.",
+        "p": "Bij de Tapo D210, de Tapo D205 en de twee Reolinks zit de microSD-kaart in de deurbel. Wordt de deurbel van de muur gehaald, dan zijn de opnames ook weg, tenzij je bij Reolink een NVR of NAS gebruikt. Bij de EZVIZ DB2 Pro zit de kaart in de gong binnen. Bij de eufy 2K en de eufy E340 staan de opnames op de HomeBase in huis."
+      }
+    ]
+  },
+  "onafhankelijk": {
+    "h": "Wat onafhankelijke tests zeggen",
+    "intro": "Zelf testen wij geen videodeurbellen. Wij vergelijken wat fabrikanten en verkopers bij bol opgeven en de score van kopers. De Consumentenbond, Test-Aankoop, Which? en Stiftung Warentest meten deurbellen wel. Bij alle vier staan de oordelen per model achter een ledenmuur of betaalmuur. Die hebben wij niet gelezen. Of onze volgorde overeenkomt met hun uitslagen, weten wij dus niet. Hieronder staat wat vrij leesbaar is (gelezen op 28 november 2026).",
+    "items": [
+      {
+        "bron": "Consumentenbond: Hoe wij deurbellen met camera testen (bijgewerkt op 14 september 2026)",
+        "url": "https://www.consumentenbond.nl/deurbel-met-camera/hoe-wij-testen",
+        "p": "De bond weegt gebruiksgemak voor 30 procent mee, beeldkwaliteit voor 25 procent, bewegingsdetectie en notificaties voor 25 procent, geluid voor 15 procent en digitale veiligheid voor 5 procent. Abonnementskosten tellen niet mee in de score, wel bij het bepalen van de Beste Koop. De accuduur meet de bond niet, alleen het oplaadgemak. Op de pagina met de beste deurbellen (laatste update van de test: 26 november 2026) staat vrij leesbaar dat bij sommige bellen een normaal gesprek niet mogelijk is door slecht geluid en dat vaak een betaald abonnement nodig is voor beeldopslag. In de vergelijker staan onder meer de Tapo D205, de Tapo D210 en een Reolink Video Doorbell WiFi met Home Hub Mini. Bij beide Tapo's staat vrij leesbaar: opslaan zonder abonnement ja, werkt met bestaande bel nee. De verkoper noemt de Tapo D210 bij bol Beste Koop van de Consumentenbond. Scores en predicaten staan achter de ledenmuur, dus dat konden wij niet nalezen. Wat wij aanpasten: bij de Tapo D210 stond dat je hem op een beltrafo kunt aansluiten. Dat is geschrapt. Waar wij afwijken: de bond weegt geluid mee. Daarover geven fabrikanten geen cijfers, dus geluid ontbreekt in onze vergelijking."
+      },
+      {
+        "bron": "Stiftung Warentest: Smarte Türklingeln im Test (22 oktober 2026)",
+        "url": "https://www.test.de/Smarte-Tuerklingeln-im-Test-Guck-mal-wer-da-klingelt-6334627-0/",
+        "p": "De Duitse consumentenorganisatie onderzocht twaalf slimme deurbellen. Vier daarvan staan in onze lijst: de Reolink D340W (bij ons op 2), de eufy E340 (4), de EZVIZ EP3x Pro (6) en de Aqara G410 Select (10). De weging is 25 procent video, 25 procent geluid, 25 procent bediening, 20 procent detectie en 5 procent gegevensbescherming. Vrij te lezen is dat acht modellen het oordeel 'gut' krijgen, dat zeven modellen alleen in de cloud opslaan en vijf lokaal, dat cloudopslag 3 tot 10 euro per maand kost en dat vijf modellen voor gegevensbescherming niet verder komen dan 'ausreichend'. Accumodellen moeten volgens de test regelmatig geladen worden. De oordelen per model staan achter een betaalmuur van 4,90 euro. Die hebben wij niet gelezen."
+      },
+      {
+        "bron": "Test-Aankoop: Wat is de beste deurbel met camera? (18 november 2026)",
+        "url": "https://www.test-aankoop.be/hightech/slimme-video-deurbellen/nieuws/beste-videodeurbellen-belgie",
+        "p": "De Belgische consumentenorganisatie onderzocht 33 modellen op beeld, gebruiksgemak en detectie en splitst ze in deurbellen met en zonder cloudabonnement. Bij naam genoemd in het vrije deel: de Tapo D205, met een microSD-kaart tot 512 GB en zonder dat een abonnement nodig is. Bij ons staat de D205 op 8, omdat er geen gong bij zit en de behuizing IP54 is. Op de productpagina van de Tapo D210 staan vrij leesbaar een gemeten kijkhoek van 153 graden horizontaal en 102 graden verticaal, IP65 en de aantekening dat hij geen bedrade voeding heeft. De scores zijn alleen voor leden."
+      },
+      {
+        "bron": "Which?: Best video doorbells 2026 (16 oktober 2026)",
+        "url": "https://www.which.co.uk/reviews/smart-video-doorbells/article/how-to-buy-the-best-smart-video-doorbell-aUBcm4n6bZbE",
+        "p": "De Britse consumentenorganisatie beoordeelt video, geluid, gebruiksgemak en detectie. Beveiliging beoordeelt Which? apart en telt niet mee in de score. Als deurbellen zonder abonnement noemt Which? de Ezviz DB1C, de Tapo D205 Mini, de Eufy Dual en de Ubiquiti G4. Dat zijn andere uitvoeringen dan de modellen in onze lijst. Scores, Best Buys en Don't Buys staan achter een ledenmuur. Geen van onze tien deurbellen staat met een oordeel in het vrije deel."
+      },
+      {
+        "bron": "Autoriteit Persoonsgegevens: Cameragebruik in en om het huis (bijgewerkt op 8 april 2025)",
+        "url": "https://www.autoriteitpersoonsgegevens.nl/themas/cameratoezicht/cameragebruik-in-en-om-het-huis",
+        "p": "Geen test, wel de regels. De toezichthouder schrijft dat je de openbare weg of je buren in principe niet mag filmen. Dat mag alleen met een aantoonbaar goede reden. Je moet mensen informeren over je cameragebruik. Zodra je voor beveiliging delen van de openbare ruimte filmt, geldt de privacywet AVG. Een bewaartermijn voor beelden staat niet op deze pagina. Wat wij aanpasten: in onze gids stond dat je een klein stukje stoep mag filmen. Dat is vervangen door wat de toezichthouder schrijft."
+      }
+    ],
+    "noot": "Tweakers konden wij vandaag niet openen. Bij Kassa en Radar hebben wij voor deze gids geen test gelezen. Uitslagen achter een ledenmuur of betaalmuur nemen wij niet over."
+  },
+  "changelog": [
+    {
+      "d": "2026-11-28",
+      "t": "Alle tien deurbellen nagelopen bij bol: allemaal leverbaar, prijzen kloppen. Per deurbel staan nu resolutie in pixels, kijkhoek, voeding, opslag en gong in de tabel en de tekst, volgens bol en de fabrikant. Toegevoegd: wanneer je beter geen videodeurbel zonder abonnement koopt en wat de Consumentenbond, Stiftung Warentest, Test-Aankoop, Which? en de Autoriteit Persoonsgegevens schrijven. Rechtgezet: de twee Reolinks werken volgens Reolink niet met een mechanische gong (er stond van wel). Bij de Reolink D340W zitten een Chime en een stroomadapter in de doos, bij de PoE-versie twee Chimes. De Tapo D210 kost 59 euro, niet rond de 74. De aansluiting op een beltrafo is geschrapt. De onderste lens van de EZVIZ EP3x Pro filmt in 1920 x 1080 pixels, niet in 2K. Er zit een zonnepaneel in de doos. De EZVIZ DB2 Pro heeft volgens EZVIZ 2544 x 1888 pixels, niet 3K. De geheugenkaart zit in de gong. Bij de Aqara G400 zit wel een binnenbel in de doos. De Tapo D205 heeft een accu van 5.200 mAh met volgens TP-Link dezelfde 180 dagen als de D210. Geschrapt omdat een bron ontbrak: zinnen over wat kopers zeggen en het verzonnen totaal aan reviews. De volgorde is niet veranderd."
+    }
+  ]
 }
