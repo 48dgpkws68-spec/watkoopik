@@ -372,6 +372,8 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-torendroogrek | huishouden | torendroogrek | De 10 beste torendroogrekken van 2026 | 🧺 (google_wacht)
 [x] beste-hoofdkussen-zijslaper | slapen | hoofdkussen voor zijslapers | De 10 beste hoofdkussens voor zijslapers van 2026 | 😴 (google_wacht)
 [x] beste-stoomreiniger-onder-100-euro | huishouden | stoomreiniger onder 100 euro | De 10 beste stoomreinigers onder 100 euro van 2026 | ♨️ (google_wacht)
+[x] beste-matras-90x200 | slapen | matras 90x200 | De 10 beste matrassen van 90x200 van 2026 | 🛏️ (google_wacht)
+[x] beste-topper-180x200 | slapen | topper 180x200 | De 10 beste toppers van 180x200 van 2026 | 🛏️ (google_wacht)
 
 # ChatGPT-spoor 26 nov 2026 ochtend (C2: tv en kunstkerstboom)
 [x] beste-oled-tv-55-inch | elektronica | oled tv 55 inch | De 10 beste OLED-tv's van 55 inch van 2026 | 📺
