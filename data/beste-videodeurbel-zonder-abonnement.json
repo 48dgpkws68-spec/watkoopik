@@ -22,7 +22,7 @@
     {
       "brand": "eufy",
       "name": "Video Doorbell 2K (Battery) + HomeBase",
-      "price": 113.0,
+      "price": 115.0,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,2 van 5",
@@ -90,11 +90,11 @@
         "2026-11-25": 119.0,
         "2026-11-26": 119.0,
         "2026-11-27": 114.0,
-        "2026-11-28": 113.0
+        "2026-11-28": 115.0
       },
       "low_price": 113.0,
-      "prev_price": 114.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 113.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "0194644016975",
       "rating": 4.2
     },
@@ -205,7 +205,7 @@
         "Werkt volgens de Consumentenbond niet met een bestaande bel"
       ],
       "ideal": "Wie zonder abonnement en zonder gedoe een goede eerste videodeurbel wil.",
-      "text": "De Tapo D210 is een accudeurbel met een losse gong voor in het stopcontact. De camera filmt in 2304 x 1296 pixels (3 megapixel) met een kijkhoek van 160 graden diagonaal. Volgens TP-Link is dat 135 graden horizontaal en 109 graden verticaal. Test-Aankoop mat 153 graden horizontaal en 102 graden verticaal. 's Nachts geeft een spotlamp beeld in kleur.\n\nOpnames gaan naar een microSD-kaart tot 512 GB in de deurbel. Een kaart zit er niet bij. Detectie van personen, voertuigen, huisdieren en pakketten is volgens TP-Link gratis. Cloudopslag via Tapo Care is betaald en niet verplicht. De accu is 6.400 mAh en gaat volgens TP-Link tot 180 dagen mee bij 300 seconden gebruik per dag. Bol noemt ook een aansluiting op twee draden. TP-Link noemt die op de eigen productpagina niet en volgens de Consumentenbond werkt hij niet met een bestaande bel. Reken dus op laden. De behuizing is IP65. De verkoper noemt hem bij bol Beste Koop van de Consumentenbond. Dat predicaat staat achter een ledenmuur en konden wij niet nalezen. De score bij bol is 4,1 van 5.",
+      "text": "De Tapo D210 is een accudeurbel met een losse gong voor in het stopcontact. De camera filmt in 2304 x 1296 pixels (3 megapixel) met een kijkhoek van 160 graden diagonaal. Volgens TP-Link is dat 135 graden horizontaal en 109 graden verticaal. Test-Aankoop mat 153 graden horizontaal en 102 graden verticaal. 's Nachts geeft een spotlamp beeld in kleur.\n\nOpnames gaan naar een microSD-kaart tot 512 GB in de deurbel. Een kaart zit er niet bij. Detectie van personen, voertuigen, huisdieren en pakketten is volgens TP-Link gratis. Cloudopslag via Tapo Care is betaald en niet verplicht. De accu is 6.400 mAh en gaat volgens TP-Link tot 180 dagen mee bij 300 seconden gebruik per dag. Bol noemt ook een aansluiting op twee draden. TP-Link noemt die op de eigen productpagina niet en volgens de Consumentenbond werkt hij niet met een bestaande bel. Reken dus op laden. De behuizing is IP65. De verkoper noemt hem bij bol Beste Koop van de Consumentenbond. Dat predicaat staat achter een ledenmuur en konden wij niet nalezen. Bol noemt op 28 november een levertijd van 11 dagen. De score bij bol is 4,1 van 5.",
       "ean": "4897098688069",
       "bol_title": "Tapo D210 Draadloze Deurbel met Camera en Gong - 2K 3MP - Consumentenbond Beste Koop - 160° Beeld - Kleur Nachtzicht - Tot 6 Maanden Accu - Zonder Abonnement - IP65 - Tot 512GB Lokale Opslag - Alexa & Google",
       "url": "https://www.bol.com/nl/nl/p/tp-link-tapo-d210-slimme-deurbel-video-deurbel-inclusief-chime-gong-2k-3mp-batterij-ip65/9300000191578649/",
@@ -266,7 +266,7 @@
       "brand": "eufy",
       "name": "Security E340 met chime + HomeBase 3",
       "price": 259.0,
-      "score": 9.1,
+      "score": 8.8,
       "label": "Beste premium",
       "reviews": "bol-score 4,3 van 5",
       "oneliner": "Twee camera's en gezichtsherkenning, volledig lokaal opgeslagen.",
@@ -345,7 +345,7 @@
       "brand": "Reolink",
       "name": "Video Doorbell PoE 2K+",
       "price": 123.99,
-      "score": 8.8,
+      "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
       "oneliner": "PoE-deurbel zonder wifi, met twee Chimes in de doos.",
@@ -931,6 +931,10 @@
     "noot": "Tweakers konden wij vandaag niet openen. Bij Kassa en Radar hebben wij voor deze gids geen test gelezen. Uitslagen achter een ledenmuur of betaalmuur nemen wij niet over."
   },
   "changelog": [
+    {
+      "d": "2026-11-28",
+      "t": "Scores rechtgezet zodat ze bij de volgorde passen. De eufy E340 stond op 4 met een 9,1, hoger dan de nummers 2 en 3. Hij kost 259 euro, ruim twee keer zoveel als nummer 1, terwijl de score bij bol met 4,3 van 5 maar 0,1 boven die van nummer 1 en 2 ligt. In onze score telt prijs-kwaliteit mee, dus hij krijgt een 8,8. De Reolink PoE gaat van 8,8 naar 8,7: zonder netwerkkabel bij de voordeur valt hij af. De volgorde is niet veranderd. De Tapo D210 heeft bij bol op 28 november een levertijd van 11 dagen. Dat staat nu in de tekst."
+    },
     {
       "d": "2026-11-28",
       "t": "Alle tien deurbellen nagelopen bij bol: allemaal leverbaar, prijzen kloppen. Per deurbel staan nu resolutie in pixels, kijkhoek, voeding, opslag en gong in de tabel en de tekst, volgens bol en de fabrikant. Toegevoegd: wanneer je beter geen videodeurbel zonder abonnement koopt en wat de Consumentenbond, Stiftung Warentest, Test-Aankoop, Which? en de Autoriteit Persoonsgegevens schrijven. Rechtgezet: de twee Reolinks werken volgens Reolink niet met een mechanische gong (er stond van wel). Bij de Reolink D340W zitten een Chime en een stroomadapter in de doos, bij de PoE-versie twee Chimes. De Tapo D210 kost 59 euro, niet rond de 74. De aansluiting op een beltrafo is geschrapt. De onderste lens van de EZVIZ EP3x Pro filmt in 1920 x 1080 pixels, niet in 2K. Er zit een zonnepaneel in de doos. De EZVIZ DB2 Pro heeft volgens EZVIZ 2544 x 1888 pixels, niet 3K. De geheugenkaart zit in de gong. Bij de Aqara G400 zit wel een binnenbel in de doos. De Tapo D205 heeft een accu van 5.200 mAh met volgens TP-Link dezelfde 180 dagen als de D210. Geschrapt omdat een bron ontbrak: zinnen over wat kopers zeggen en het verzonnen totaal aan reviews. De volgorde is niet veranderd."

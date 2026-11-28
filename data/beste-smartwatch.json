@@ -106,7 +106,7 @@
     {
       "brand": "Amazfit",
       "name": "Active 3 Premium",
-      "price": 211.11,
+      "price": 208.32,
       "score": 8.5,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,8 van 5",
@@ -140,10 +140,12 @@
       "ph": {
         "2026-11-26": 211.11,
         "2026-11-27": 211.11,
-        "2026-11-28": 211.11
+        "2026-11-28": 208.32
       },
-      "low_price": 211.11,
-      "synced": "2026-11-28"
+      "low_price": 208.32,
+      "synced": "2026-11-28",
+      "prev_price": 211.11,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Garmin",

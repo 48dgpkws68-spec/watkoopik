@@ -22,7 +22,7 @@
     {
       "brand": "Bosch",
       "name": "EasyDrill 18V-40 met 2,0 Ah-accu en lader",
-      "price": 86.5,
+      "price": 92.99,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,6 van 5",
@@ -57,12 +57,12 @@
         "2026-11-25": 83.99,
         "2026-11-26": 77.89,
         "2026-11-27": 78.09,
-        "2026-11-28": 86.5
+        "2026-11-28": 92.99
       },
       "low_price": 77.89,
       "synced": "2026-11-28",
-      "prev_price": 78.09,
-      "prev_date": "2026-11-27"
+      "prev_price": 86.5,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Bosch",
@@ -516,7 +516,7 @@
     {
       "brand": "Makita",
       "name": "HP333DWAE",
-      "price": 145.33,
+      "price": 151.85,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -564,12 +564,12 @@
         "2026-11-25": 169.95,
         "2026-11-26": 150.01,
         "2026-11-27": 149.28,
-        "2026-11-28": 145.33
+        "2026-11-28": 151.85
       },
       "low_price": 131.0,
       "synced": "2026-11-28",
-      "prev_price": 149.28,
-      "prev_date": "2026-11-27",
+      "prev_price": 145.33,
+      "prev_date": "2026-11-28",
       "ph_ean": "0088381872973",
       "rating": 5.0
     },

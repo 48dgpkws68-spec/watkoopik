@@ -72,7 +72,7 @@
     {
       "brand": "JBL",
       "name": "Flip 7 bluetooth speaker",
-      "price": 106.0,
+      "price": 104.99,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -128,12 +128,12 @@
         "2026-11-25": 106.0,
         "2026-11-26": 106.0,
         "2026-11-27": 106.0,
-        "2026-11-28": 106.0
+        "2026-11-28": 104.99
       },
-      "low_price": 106.0,
+      "low_price": 104.99,
       "synced": "2026-11-28",
-      "prev_price": 119.0,
-      "prev_date": "2026-11-01",
+      "prev_price": 106.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "1200130019272",
       "rating": 4.6
     },
@@ -386,7 +386,7 @@
     {
       "brand": "Huawei",
       "name": "Band 10",
-      "price": 46.02,
+      "price": 50.51,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,2 van 5",
@@ -420,12 +420,12 @@
         "2026-11-25": 46.06,
         "2026-11-26": 46.83,
         "2026-11-27": 46.84,
-        "2026-11-28": 46.02
+        "2026-11-28": 50.51
       },
       "low_price": 46.02,
       "synced": "2026-11-28",
-      "prev_price": 46.84,
-      "prev_date": "2026-11-27"
+      "prev_price": 46.02,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Kobo",

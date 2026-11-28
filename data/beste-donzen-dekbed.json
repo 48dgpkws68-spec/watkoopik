@@ -315,7 +315,7 @@
     {
       "brand": "Elegance",
       "name": "90% Ganzendons 4-Seizoenen Dekbed 240x220",
-      "price": 239.95,
+      "price": 237.5,
       "score": 8.6,
       "label": "",
       "reviews": "bol-score 4,6 van 5",
@@ -352,12 +352,14 @@
         "2026-11-25": 239.95,
         "2026-11-26": 239.95,
         "2026-11-27": 239.95,
-        "2026-11-28": 239.95
+        "2026-11-28": 237.5
       },
-      "low_price": 239.95,
+      "low_price": 237.5,
       "ph_ean": "7110939546722",
       "rating": 4.6,
-      "synced": "2026-11-28"
+      "synced": "2026-11-28",
+      "prev_price": 239.95,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Nordic Paradise",

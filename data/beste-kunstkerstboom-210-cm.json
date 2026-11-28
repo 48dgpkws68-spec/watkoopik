@@ -75,7 +75,7 @@
     },
     {
       "q": "Is een kunstkerstboom van 210 cm met verlichting de moeite waard?",
-      "a": "Als je geen zin hebt om elk jaar lampjes te draperen wel. De Everlands Allison Fir van 210 cm heeft 430 lampjes ingebouwd voor 152,49 euro. Wil je zelf de lichtkleur kiezen, neem dan een boom zonder verlichting en een los snoer."
+      "a": "Als je geen zin hebt om elk jaar lampjes te draperen wel. De Everlands Allison Fir van 210 cm heeft 430 lampjes ingebouwd voor 169 euro. Wil je zelf de lichtkleur kiezen, neem dan een boom zonder verlichting en een los snoer."
     },
     {
       "q": "Hoe lang gaat een kunstkerstboom mee?",
@@ -274,7 +274,7 @@
     {
       "brand": "Everlands",
       "name": "Grandis Fir 210 cm",
-      "price": 109.0,
+      "price": 105.0,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -313,13 +313,13 @@
         "2026-11-25": 109.0,
         "2026-11-26": 109.0,
         "2026-11-27": 109.0,
-        "2026-11-28": 109.0
+        "2026-11-28": 105.0
       },
       "low_price": 102.8,
       "ph_ean": "8718532241526",
       "synced": "2026-11-28",
-      "prev_price": 108.5,
-      "prev_date": "2026-11-22"
+      "prev_price": 109.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Triumph Tree",
@@ -374,7 +374,7 @@
     {
       "brand": "Everlands",
       "name": "Allison Fir 210 cm met 430 lampjes",
-      "price": 152.49,
+      "price": 169.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -396,7 +396,7 @@
         "Lichtkleur ligt vast"
       ],
       "ideal": "Wie geen zin heeft om elk jaar lampjes rond de takken te wikkelen.",
-      "text": "Een boom van 210 cm goed verlichten kost tijd: je slingert een lang snoer laag voor laag rond de takken. Bij de Allison Fir van Everlands is dat al gedaan. Er zitten 430 ledlampjes in de takken verwerkt, verdeeld over de hele hoogte. Je zet de delen op elkaar, steekt de stekker in het stopcontact en de boom brandt. Met 152,49 euro is hij de goedkoopste verlichte boom in deze lijst.\n\nDe naalden zijn volgens de omschrijving bij bol van hard PVC. Bol geeft 1.778 takpunten, een doorsnede van 127 cm en 9,6 kg op. Daarmee is hij goed gevuld zonder de kamer te domineren. Het nadeel van ingebouwde verlichting is dat je vastzit aan de lichtkleur en dat een kapot lampje lastiger te vervangen is dan een los snoer. Bij een boom die je vijf jaar of langer wilt gebruiken, is dat een afweging. Op bol staat hij op een 5,0.",
+      "text": "Een boom van 210 cm goed verlichten kost tijd: je slingert een lang snoer laag voor laag rond de takken. Bij de Allison Fir van Everlands is dat al gedaan. Er zitten 430 ledlampjes in de takken verwerkt, verdeeld over de hele hoogte. Je zet de delen op elkaar, steekt de stekker in het stopcontact en de boom brandt. Met 169 euro is hij de goedkoopste verlichte boom in deze lijst. Bol noemt op 28 november levering uiterlijk 7 december.\n\nDe naalden zijn volgens de omschrijving bij bol van hard PVC. Bol geeft 1.778 takpunten, een doorsnede van 127 cm en 9,6 kg op. Daarmee is hij goed gevuld zonder de kamer te domineren. Het nadeel van ingebouwde verlichting is dat je vastzit aan de lichtkleur en dat een kapot lampje lastiger te vervangen is dan een los snoer. Bij een boom die je vijf jaar of langer wilt gebruiken, is dat een afweging. Op bol staat hij op een 5,0.",
       "ean": "8720194655191",
       "rating": 5.0,
       "bol_title": "Everlands Allison fir verlichte kunstkerstboom groen 210cm, 430 lampjes",
@@ -413,12 +413,12 @@
         "2026-11-25": 154.95,
         "2026-11-26": 169.0,
         "2026-11-27": 169.0,
-        "2026-11-28": 152.49
+        "2026-11-28": 169.0
       },
       "low_price": 131.99,
       "ph_ean": "8720194655191",
       "synced": "2026-11-28",
-      "prev_price": 148.17,
+      "prev_price": 152.49,
       "prev_date": "2026-11-28"
     },
     {
@@ -612,6 +612,10 @@
     "noot": "Bij de Consumentenbond, Test-Aankoop en Stiftung Warentest vonden wij geen test van kunstkerstbomen die vrij te lezen is. Tests achter een ledenmuur nemen wij niet over."
   },
   "changelog": [
+    {
+      "d": "2026-11-28",
+      "t": "Derde controle op 28 november: alle tien bomen zijn te bestellen. De Everlands Allison Fir kost nu 169 euro (vanochtend 152,49) en bol noemt levering uiterlijk 7 december, vanochtend was dat 10 december. De Everlands Grandis Fir kost 105 euro (was 109) met levering uiterlijk 10 december."
+    },
     {
       "d": "2026-11-28",
       "t": "Tweede controle op 28 november: alle tien bomen zijn te bestellen. De Everlands Allison Fir kost nu 152,49 euro (eerder vandaag 148,17) en bol levert hem uiterlijk 10 december. De andere negen prijzen zijn gelijk aan bol."

@@ -22,7 +22,7 @@
     {
       "brand": "AndaSeat",
       "name": "Kaiser 3 L",
-      "price": 499.99,
+      "price": 499.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 5,0 van 5",
@@ -88,13 +88,13 @@
         "2026-11-25": 499.0,
         "2026-11-26": 499.0,
         "2026-11-27": 499.0,
-        "2026-11-28": 499.99
+        "2026-11-28": 499.0
       },
       "low_price": 499.0,
       "ph_ean": "6972417131865",
       "rating": 5.0,
-      "prev_price": 499.0,
-      "prev_date": "2026-11-27"
+      "prev_price": 499.99,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Trust",
@@ -489,7 +489,7 @@
     {
       "brand": "Corsair",
       "name": "TC100 Relaxed Fabric",
-      "price": 271.0,
+      "price": 267.0,
       "score": 8.4,
       "label": null,
       "reviews": "",
@@ -553,11 +553,11 @@
         "2026-11-25": 266.96,
         "2026-11-26": 266.96,
         "2026-11-27": 266.96,
-        "2026-11-28": 271.0
+        "2026-11-28": 267.0
       },
       "low_price": 256.0,
-      "prev_price": 266.96,
-      "prev_date": "2026-11-27",
+      "prev_price": 271.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "0840006694892"
     },
     {

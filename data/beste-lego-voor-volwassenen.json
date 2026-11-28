@@ -273,7 +273,7 @@
     {
       "brand": "LEGO",
       "name": "Star Wars X-Wing Starfighter UCS 75355",
-      "price": 276.0,
+      "price": 295.5,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -323,12 +323,12 @@
         "2026-11-25": 269.1,
         "2026-11-26": 263.95,
         "2026-11-27": 299.0,
-        "2026-11-28": 276.0
+        "2026-11-28": 295.5
       },
       "low_price": 259.95,
       "synced": "2026-11-28",
-      "prev_price": 299.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 276.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "5702017421384",
       "rating": 4.5
     },
@@ -459,7 +459,7 @@
     {
       "brand": "LEGO",
       "name": "Icons McLaren MP4/4 en Ayrton Senna 10330",
-      "price": 55.99,
+      "price": 54.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -509,13 +509,13 @@
         "2026-11-25": 55.99,
         "2026-11-26": 55.25,
         "2026-11-27": 55.99,
-        "2026-11-28": 55.99
+        "2026-11-28": 54.99
       },
       "low_price": 45.99,
       "synced": "2026-11-28",
       "ph_ean": "5702017583495",
-      "prev_price": 55.25,
-      "prev_date": "2026-11-26",
+      "prev_price": 55.99,
+      "prev_date": "2026-11-28",
       "rating": 4.7
     },
     {
@@ -564,7 +564,7 @@
     {
       "brand": "LEGO",
       "name": "Icons Boekensteun Sherlock Holmes 10351",
-      "price": 135.82,
+      "price": 139.95,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -614,13 +614,13 @@
         "2026-11-25": 131.0,
         "2026-11-26": 129.5,
         "2026-11-27": 131.0,
-        "2026-11-28": 135.82
+        "2026-11-28": 139.95
       },
       "low_price": 95.99,
       "synced": "2026-11-28",
       "ph_ean": "5702017824475",
-      "prev_price": 131.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 135.82,
+      "prev_date": "2026-11-28",
       "rating": 4.9
     }
   ],

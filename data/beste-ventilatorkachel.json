@@ -23,7 +23,7 @@
     {
       "brand": "Rowenta",
       "name": "Instant Comfort Compact SO2321",
-      "price": 53.99,
+      "price": 55.0,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,5 van 5",
@@ -76,12 +76,12 @@
         "2026-11-25": 50.19,
         "2026-11-26": 47.79,
         "2026-11-27": 51.99,
-        "2026-11-28": 53.99
+        "2026-11-28": 55.0
       },
       "low_price": 43.99,
       "synced": "2026-11-28",
-      "prev_price": 51.99,
-      "prev_date": "2026-11-27",
+      "prev_price": 53.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "3121040089613",
       "rating": 4.5
     },
@@ -147,7 +147,7 @@
     {
       "brand": "Rowenta",
       "name": "Intense Comfort SO2360",
-      "price": 63.0,
+      "price": 65.09,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "",
@@ -188,13 +188,13 @@
         "2026-11-25": 65.0,
         "2026-11-26": 65.0,
         "2026-11-27": 65.19,
-        "2026-11-28": 63.0
+        "2026-11-28": 65.09
       },
       "low_price": 63.0,
       "ph_ean": "3121040094617",
       "synced": "2026-11-28",
-      "prev_price": 65.19,
-      "prev_date": "2026-11-27"
+      "prev_price": 63.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Dreo",
@@ -325,7 +325,7 @@
     {
       "brand": "Eurom",
       "name": "VK2001",
-      "price": 29.09,
+      "price": 31.29,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -377,12 +377,12 @@
         "2026-11-25": 30.36,
         "2026-11-26": 30.19,
         "2026-11-27": 30.19,
-        "2026-11-28": 29.09
+        "2026-11-28": 31.29
       },
       "low_price": 29.09,
       "synced": "2026-11-28",
-      "prev_price": 30.19,
-      "prev_date": "2026-11-27",
+      "prev_price": 29.09,
+      "prev_date": "2026-11-28",
       "ph_ean": "8713415350234",
       "rating": 4.3
     },

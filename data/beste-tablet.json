@@ -223,7 +223,7 @@
     {
       "brand": "Samsung",
       "name": "Galaxy Tab S11 Wi-Fi 256 GB",
-      "price": 819.0,
+      "price": 899.0,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -296,18 +296,18 @@
         "2026-11-25": 899.0,
         "2026-11-26": 899.0,
         "2026-11-27": 945.0,
-        "2026-11-28": 819.0
+        "2026-11-28": 899.0
       },
       "low_price": 819.0,
-      "prev_price": 945.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 819.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "8806097712282",
       "rating": 4.5
     },
     {
       "brand": "Xiaomi",
       "name": "Pad 8 8 GB 128 GB",
-      "price": 394.94,
+      "price": 403.43,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -380,11 +380,11 @@
         "2026-11-25": 403.43,
         "2026-11-26": 403.43,
         "2026-11-27": 394.94,
-        "2026-11-28": 394.94
+        "2026-11-28": 403.43
       },
       "low_price": 339.0,
-      "prev_price": 403.43,
-      "prev_date": "2026-11-26",
+      "prev_price": 394.94,
+      "prev_date": "2026-11-28",
       "ph_ean": "6932554473006",
       "rating": 5.0
     },

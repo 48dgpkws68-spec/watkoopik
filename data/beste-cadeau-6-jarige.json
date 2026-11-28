@@ -71,7 +71,7 @@
     {
       "brand": "LEGO",
       "name": "City Brandweervliegtuig (60413)",
-      "price": 79.0,
+      "price": 89.99,
       "score": 9.2,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -108,14 +108,14 @@
         "2026-11-25": 79.0,
         "2026-11-26": 79.0,
         "2026-11-27": 89.99,
-        "2026-11-28": 79.0
+        "2026-11-28": 89.99
       },
       "low_price": 79.0,
       "ph_ean": "5702017582955",
       "rating": 4.9,
       "synced": "2026-11-28",
-      "prev_price": 89.99,
-      "prev_date": "2026-11-27"
+      "prev_price": 79.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "LEGO",

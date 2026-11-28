@@ -241,7 +241,7 @@
       "price": 899.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,0 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Nieuwe 48 inch OLED evo van LG met 165 Hz voor gamers.",
       "specs": {
         "Paneel": "OLED evo",
@@ -277,12 +277,12 @@
       "low_price": 899.0,
       "ph_ean": "8806096732182",
       "synced": "2026-11-28",
-      "rating": 4.0
+      "rating": 4.5
     },
     {
       "brand": "Philips",
       "name": "48OLED911",
-      "price": 1169.0,
+      "price": 1149.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -323,14 +323,14 @@
         "2026-11-25": 1179.0,
         "2026-11-26": 1169.0,
         "2026-11-27": 1169.0,
-        "2026-11-28": 1169.0
+        "2026-11-28": 1149.0
       },
-      "low_price": 1169.0,
+      "low_price": 1149.0,
       "ph_ean": "8718863052006",
       "synced": "2026-11-28",
       "rating": 5.0,
-      "prev_price": 1179.0,
-      "prev_date": "2026-11-25"
+      "prev_price": 1169.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Philips",
@@ -385,7 +385,7 @@
     {
       "brand": "Philips",
       "name": "48OLED811",
-      "price": 1069.0,
+      "price": 1049.0,
       "score": 8.3,
       "label": null,
       "reviews": "",
@@ -425,13 +425,13 @@
         "2026-11-25": 1099.0,
         "2026-11-26": 1099.0,
         "2026-11-27": 1079.0,
-        "2026-11-28": 1069.0
+        "2026-11-28": 1049.0
       },
-      "low_price": 1069.0,
+      "low_price": 1049.0,
       "ph_ean": "8718863051979",
       "synced": "2026-11-28",
-      "prev_price": 1079.0,
-      "prev_date": "2026-11-27"
+      "prev_price": 1069.0,
+      "prev_date": "2026-11-28"
     }
   ],
   "guide": [

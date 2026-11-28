@@ -75,7 +75,7 @@
     {
       "brand": "Samsung",
       "name": "QE75QN82H",
-      "price": 1299.0,
+      "price": 1229.0,
       "score": 9.2,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -116,13 +116,13 @@
         "2026-11-25": 1299.0,
         "2026-11-26": 1299.0,
         "2026-11-27": 1299.0,
-        "2026-11-28": 1299.0
+        "2026-11-28": 1229.0
       },
-      "low_price": 1299.0,
+      "low_price": 1229.0,
       "ph_ean": "8806099129620",
       "synced": "2026-11-28",
-      "prev_price": 1364.0,
-      "prev_date": "2026-11-23"
+      "prev_price": 1299.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "LG",
@@ -168,7 +168,7 @@
     {
       "brand": "LG",
       "name": "G5 OLED55G56LS",
-      "price": 1298.0,
+      "price": 1349.0,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
@@ -209,13 +209,13 @@
         "2026-11-25": 1349.0,
         "2026-11-26": 1349.0,
         "2026-11-27": 1349.0,
-        "2026-11-28": 1298.0
+        "2026-11-28": 1349.0
       },
       "low_price": 1298.0,
       "ph_ean": "8806096363683",
       "synced": "2026-11-28",
-      "prev_price": 1349.0,
-      "prev_date": "2026-11-27"
+      "prev_price": 1298.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Samsung",
@@ -312,7 +312,7 @@
       "price": 1099.0,
       "score": 8.9,
       "label": null,
-      "reviews": "bol-score 4,0 van 5",
+      "reviews": "bol-score 4,5 van 5",
       "oneliner": "Het nieuwste OLED evo-model van LG uit 2026 op 55 inch.",
       "specs": {
         "Formaat": "55 inch",
@@ -338,7 +338,7 @@
       "bol_title": "LG C6 OLED55C64LA - 55 inch - 4K OLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/lg-c6-oled55c64la-55-inch-4k-oled-2026-smart-tv/9300000290120821/",
       "image": "https://media.s-bol.com/ggWpV63yoBD3/XolWmBm/550x316.jpg",
-      "rating": 4.0,
+      "rating": 4.5,
       "ph": {
         "2026-11-27": 1099.0,
         "2026-11-28": 1099.0
@@ -452,7 +452,7 @@
     {
       "brand": "Hisense",
       "name": "65UR8S",
-      "price": 1188.0,
+      "price": 1149.0,
       "score": 8.5,
       "label": null,
       "reviews": "",
@@ -492,13 +492,13 @@
         "2026-11-25": 1188.0,
         "2026-11-26": 1188.0,
         "2026-11-27": 1188.0,
-        "2026-11-28": 1188.0
+        "2026-11-28": 1149.0
       },
       "low_price": 1149.0,
       "ph_ean": "6942351436630",
       "synced": "2026-11-28",
-      "prev_price": 1149.0,
-      "prev_date": "2026-11-18"
+      "prev_price": 1188.0,
+      "prev_date": "2026-11-28"
     }
   ],
   "guide": [

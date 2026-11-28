@@ -327,7 +327,7 @@
     {
       "brand": "White Goblin Games",
       "name": "Codenames partyspel",
-      "price": 24.95,
+      "price": 19.99,
       "score": 8.7,
       "label": null,
       "oneliner": "Woordspel voor twee teams dat elke avond anders uitpakt.",
@@ -368,10 +368,12 @@
         "2026-11-25": 24.95,
         "2026-11-26": 24.95,
         "2026-11-27": 24.95,
-        "2026-11-28": 24.95
+        "2026-11-28": 19.99
       },
-      "low_price": 24.95,
-      "rating": 4.8
+      "low_price": 19.99,
+      "rating": 4.8,
+      "prev_price": 24.95,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "LEGO",
@@ -471,7 +473,7 @@
     {
       "brand": "Weber",
       "name": "Digitale thermometer",
-      "price": 19.99,
+      "price": 22.99,
       "score": 8.4,
       "label": null,
       "oneliner": "Snelle vleesthermometer om kip en steak precies goed te garen.",
@@ -522,12 +524,12 @@
         "2026-11-25": 24.49,
         "2026-11-26": 24.49,
         "2026-11-27": 24.49,
-        "2026-11-28": 19.99
+        "2026-11-28": 22.99
       },
       "low_price": 19.99,
       "synced": "2026-11-28",
-      "prev_price": 24.49,
-      "prev_date": "2026-11-27",
+      "prev_price": 19.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "0077924048395",
       "rating": 4.3
     },

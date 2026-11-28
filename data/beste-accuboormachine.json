@@ -314,7 +314,7 @@
     {
       "brand": "DeWalt",
       "name": "DCD777S2T",
-      "price": 168.0,
+      "price": 169.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -349,12 +349,12 @@
         "2026-11-25": 164.99,
         "2026-11-26": 164.99,
         "2026-11-27": 164.99,
-        "2026-11-28": 168.0
+        "2026-11-28": 169.0
       },
       "low_price": 164.99,
       "synced": "2026-11-28",
-      "prev_price": 164.99,
-      "prev_date": "2026-11-27"
+      "prev_price": 168.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Bosch Professional",

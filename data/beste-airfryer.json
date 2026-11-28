@@ -21,7 +21,7 @@
     {
       "brand": "Philips",
       "name": "Airfryer 5000 Series XXL Connected NA555/00",
-      "price": 196.0,
+      "price": 178.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,5 van 5",
@@ -96,11 +96,11 @@
         "2026-11-25": 196.0,
         "2026-11-26": 196.0,
         "2026-11-27": 178.0,
-        "2026-11-28": 196.0
+        "2026-11-28": 178.0
       },
       "low_price": 178.0,
-      "prev_price": 178.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 196.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "8720389047558",
       "rating": 4.5
     },
@@ -183,7 +183,7 @@
     {
       "brand": "Ninja",
       "name": "Foodi FlexDrawer AF500EU",
-      "price": 217.0,
+      "price": 223.79,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
@@ -258,18 +258,18 @@
         "2026-11-25": 209.7,
         "2026-11-26": 223.39,
         "2026-11-27": 224.0,
-        "2026-11-28": 217.0
+        "2026-11-28": 223.79
       },
       "low_price": 159.0,
-      "prev_price": 224.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 217.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "0622356270373",
       "rating": 4.7
     },
     {
       "brand": "Ninja",
       "name": "Foodi 4-in-1 DualZone AF200EU 7,6 l",
-      "price": 140.99,
+      "price": 141.99,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -318,12 +318,12 @@
         "2026-11-25": 143.0,
         "2026-11-26": 143.0,
         "2026-11-27": 132.88,
-        "2026-11-28": 140.99
+        "2026-11-28": 141.99
       },
       "low_price": 132.88,
       "synced": "2026-11-28",
-      "prev_price": 132.88,
-      "prev_date": "2026-11-27",
+      "prev_price": 140.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "0622356320450",
       "rating": 4.7
     },

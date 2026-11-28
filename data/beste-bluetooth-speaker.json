@@ -200,7 +200,7 @@
     {
       "brand": "Ultimate Ears",
       "name": "WONDERBOOM 4",
-      "price": 81.87,
+      "price": 81.95,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -232,18 +232,18 @@
       "rating": 5.0,
       "ph": {
         "2026-11-27": 82.95,
-        "2026-11-28": 81.87
+        "2026-11-28": 81.95
       },
       "low_price": 81.87,
       "ph_ean": "5099206115262",
       "synced": "2026-11-28",
-      "prev_price": 82.95,
-      "prev_date": "2026-11-27"
+      "prev_price": 81.87,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "JBL",
       "name": "Flip 7",
-      "price": 106.0,
+      "price": 104.99,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -318,11 +318,11 @@
         "2026-11-25": 106.0,
         "2026-11-26": 104.99,
         "2026-11-27": 106.0,
-        "2026-11-28": 106.0
+        "2026-11-28": 104.99
       },
       "low_price": 104.99,
-      "prev_price": 104.99,
-      "prev_date": "2026-11-26",
+      "prev_price": 106.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "1200130019272",
       "rating": 4.6
     },
@@ -418,7 +418,7 @@
       "price": 74.99,
       "score": 8.3,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Robuuste IP68-speaker van 50 watt die zelfs blijft drijven.",
       "specs": {
         "Accuduur": "Tot 16 uur",
@@ -439,7 +439,7 @@
         "Uiterlijk is vrij stoer en niet voor elk interieur"
       ],
       "ideal": "Wie een stevige speaker zoekt voor boot, strand of zwembad zonder veel geld uit te geven.",
-      "text": "De Boom 3i is de buitenspeaker van soundcore, het audiomerk van Anker. Hij is gebouwd volgens IP68 en blijft drijven als hij in het water valt, wat hem populair maakt bij mensen met een boot, sup of zwembad. Het vermogen van 50 watt met BassUp geeft een volle bas die je bij kleinere speakers mist. Daarmee vult hij een tuin of strandplek zonder te vervormen.\n\nDe accu houdt het volgens de fabrikant ongeveer 16 uur vol, genoeg voor een lang weekend zonder stopcontact. Via de soundcore app pas je de klank aan en koppel je meerdere speakers voor meer volume. Kopers op bol geven hem gemiddeld een 4,5 en prijzen vooral de bas en de bouwkwaliteit. Minpunten zijn het gewicht van ongeveer een kilo en het stoere uiterlijk. Wil je een speaker die tegen een stootje en een duik kan, dan krijg je hier veel geluid voor je geld.",
+      "text": "De Boom 3i is de buitenspeaker van soundcore, het audiomerk van Anker. Hij is gebouwd volgens IP68 en blijft drijven als hij in het water valt, wat hem populair maakt bij mensen met een boot, sup of zwembad. Het vermogen van 50 watt met BassUp geeft een volle bas die je bij kleinere speakers mist. Daarmee vult hij een tuin of strandplek zonder te vervormen.\n\nDe accu houdt het volgens de fabrikant ongeveer 16 uur vol, genoeg voor een lang weekend zonder stopcontact. Via de soundcore app pas je de klank aan en koppel je meerdere speakers voor meer volume. Kopers op bol geven hem gemiddeld een 4,3 en prijzen vooral de bas en de bouwkwaliteit. Minpunten zijn het gewicht van ongeveer een kilo en het stoere uiterlijk. Wil je een speaker die tegen een stootje en een duik kan, dan krijg je hier veel geluid voor je geld.",
       "ean": "0194644279936",
       "bol_title": "soundcore Boom 3i van Anker - Robuuste outdoorluidspreker - Bluetooth-luidspreker - Waterdicht IP68 - 50W BassUp 2.0-geluid - Bluetooth 5.3 - 16 uur speeltijd - Lichtshow + TWS-stereo - Kajakken - Vissen - Kamperen",
       "url": "https://www.bol.com/nl/nl/p/soundcore-boom-3i-van-anker-robuuste-outdoorluidspreker-bluetooth-luidspreker-waterdicht-ip68-50-w-bassup-2-0-geluid-bluetooth-5-3-16-uur-speeltijd-lichtshow-tws-stereo-kajakken-vissen-kamperen/9300000234956098/",
@@ -479,7 +479,7 @@
       "prev_price": 126.0,
       "prev_date": "2026-11-05",
       "ph_ean": "0194644279936",
-      "rating": 4.4
+      "rating": 4.3
     },
     {
       "brand": "Sony",

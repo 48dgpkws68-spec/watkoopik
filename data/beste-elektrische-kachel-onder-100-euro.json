@@ -476,7 +476,7 @@
     {
       "brand": "Inventum",
       "name": "KC222WOS keramische kachel",
-      "price": 38.6,
+      "price": 39.99,
       "score": 8.0,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -515,14 +515,14 @@
         "2026-11-25": 39.99,
         "2026-11-26": 39.99,
         "2026-11-27": 38.6,
-        "2026-11-28": 38.6
+        "2026-11-28": 39.99
       },
       "low_price": 38.23,
       "ph_ean": "8712876044072",
       "rating": 4.5,
       "synced": "2026-11-28",
-      "prev_price": 39.99,
-      "prev_date": "2026-11-26"
+      "prev_price": 38.6,
+      "prev_date": "2026-11-28"
     }
   ],
   "guide": [

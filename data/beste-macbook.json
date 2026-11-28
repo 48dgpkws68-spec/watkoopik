@@ -105,7 +105,7 @@
     {
       "brand": "Apple",
       "name": "MacBook Neo 13 (256 GB)",
-      "price": 735.0,
+      "price": 719.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,8 van 5",
@@ -177,11 +177,11 @@
         "2026-11-25": 749.0,
         "2026-11-26": 725.0,
         "2026-11-27": 749.0,
-        "2026-11-28": 735.0
+        "2026-11-28": 719.0
       },
-      "low_price": 725.0,
-      "prev_price": 749.0,
-      "prev_date": "2026-11-27",
+      "low_price": 719.0,
+      "prev_price": 735.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "0195950850888",
       "rating": 4.8
     },
@@ -270,7 +270,7 @@
     {
       "brand": "Apple",
       "name": "MacBook Pro 14 M5",
-      "price": 2091.25,
+      "price": 2094.76,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -329,12 +329,12 @@
         "2026-11-25": 2099.0,
         "2026-11-26": 2099.0,
         "2026-11-27": 2099.0,
-        "2026-11-28": 2091.25
+        "2026-11-28": 2094.76
       },
       "low_price": 2039.0,
       "synced": "2026-11-28",
-      "prev_price": 2099.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 2091.25,
+      "prev_date": "2026-11-28",
       "ph_ean": "0195950490893",
       "rating": 5.0
     },

@@ -22,7 +22,7 @@
     {
       "brand": "AEG",
       "name": "Silent 7000 AB71U2DG",
-      "price": 249.0,
+      "price": 245.5,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,3 van 5",
@@ -57,18 +57,18 @@
         "2026-11-25": 249.0,
         "2026-11-26": 249.0,
         "2026-11-27": 249.0,
-        "2026-11-28": 249.0
+        "2026-11-28": 245.5
       },
       "low_price": 223.1,
       "ph_ean": "7333394095967",
       "synced": "2026-11-28",
-      "prev_price": 243.0,
-      "prev_date": "2026-11-24"
+      "prev_price": 249.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Rowenta",
       "name": "Silence Force EffiTech RO7473",
-      "price": 249.99,
+      "price": 273.99,
       "score": 9.0,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -111,13 +111,13 @@
         "2026-11-25": 273.99,
         "2026-11-26": 273.99,
         "2026-11-27": 273.99,
-        "2026-11-28": 249.99
+        "2026-11-28": 273.99
       },
       "low_price": 243.29,
       "ph_ean": "3221614007248",
       "synced": "2026-11-28",
-      "prev_price": 273.99,
-      "prev_date": "2026-11-27",
+      "prev_price": 249.99,
+      "prev_date": "2026-11-28",
       "rating": 4.4
     },
     {
@@ -194,7 +194,7 @@
     {
       "brand": "AEG",
       "name": "VX83-2DB",
-      "price": 159.95,
+      "price": 163.49,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,3 van 5",
@@ -263,11 +263,11 @@
         "2026-11-25": 163.49,
         "2026-11-26": 163.49,
         "2026-11-27": 163.49,
-        "2026-11-28": 159.95
+        "2026-11-28": 163.49
       },
       "low_price": 156.99,
-      "prev_price": 163.49,
-      "prev_date": "2026-11-27",
+      "prev_price": 159.95,
+      "prev_date": "2026-11-28",
       "ph_ean": "7333394096100",
       "rating": 4.3
     },
@@ -546,7 +546,7 @@
     {
       "brand": "Electrolux",
       "name": "Pure D8 PD82-4ST",
-      "price": 163.83,
+      "price": 163.65,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 3,8 van 5",
@@ -608,12 +608,12 @@
         "2026-11-25": 192.0,
         "2026-11-26": 192.0,
         "2026-11-27": 192.0,
-        "2026-11-28": 163.83
+        "2026-11-28": 163.65
       },
-      "low_price": 163.83,
+      "low_price": 163.65,
       "synced": "2026-11-28",
-      "prev_price": 192.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 163.83,
+      "prev_date": "2026-11-28",
       "ph_ean": "7332543693887",
       "rating": 3.8
     },

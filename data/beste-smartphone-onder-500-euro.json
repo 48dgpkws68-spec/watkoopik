@@ -313,7 +313,7 @@
     {
       "brand": "Motorola",
       "name": "edge 70 12/512GB",
-      "price": 410.19,
+      "price": 429.99,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -343,12 +343,14 @@
       "url": "https://www.bol.com/nl/nl/p/motorola-edge-70-512gb-bronze-green/9300000246262988/",
       "image": "https://media.s-bol.com/jpMp6545X2Vy/571y2LB/550x644.jpg",
       "ph": {
-        "2026-11-28": 410.19
+        "2026-11-28": 429.99
       },
       "low_price": 410.19,
       "ph_ean": "0840493608020",
       "rating": 5.0,
-      "synced": "2026-11-28"
+      "synced": "2026-11-28",
+      "prev_price": 410.19,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Samsung",

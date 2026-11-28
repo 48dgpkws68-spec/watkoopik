@@ -24,7 +24,7 @@
       "price": 122.99,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Krachtigste Braun met beweegbare voet en complete set hulpstukken.",
       "specs": {
         "Vermogen": "1.200 W",
@@ -101,7 +101,7 @@
       "prev_price": 144.0,
       "prev_date": "2026-11-19",
       "ph_ean": "8021098775177",
-      "rating": 4.3
+      "rating": 4.4
     },
     {
       "brand": "Braun",
@@ -388,7 +388,7 @@
     {
       "brand": "KitchenAid",
       "name": "5KHBV83EOB",
-      "price": 129.52,
+      "price": 132.77,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -434,13 +434,13 @@
         "2026-11-25": 132.0,
         "2026-11-26": 133.0,
         "2026-11-27": 133.0,
-        "2026-11-28": 129.52
+        "2026-11-28": 132.77
       },
       "low_price": 117.0,
       "synced": "2026-11-28",
       "rating": 4.9,
-      "prev_price": 133.0,
-      "prev_date": "2026-11-27"
+      "prev_price": 129.52,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Bosch",
@@ -529,7 +529,7 @@
     {
       "brand": "Smeg",
       "name": "HBF03WHEU",
-      "price": 101.48,
+      "price": 101.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -582,14 +582,14 @@
         "2026-11-25": 115.0,
         "2026-11-26": 113.24,
         "2026-11-27": 115.0,
-        "2026-11-28": 101.48
+        "2026-11-28": 101.99
       },
       "low_price": 101.48,
       "synced": "2026-11-28",
       "ph_ean": "8017709343811",
       "rating": 4.4,
-      "prev_price": 115.0,
-      "prev_date": "2026-11-27"
+      "prev_price": 101.48,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Russell Hobbs",

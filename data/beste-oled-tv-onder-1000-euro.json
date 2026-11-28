@@ -16,7 +16,7 @@
   ],
   "ico": "📺",
   "color": "#3b4a8c",
-  "updated": "2026-11-24",
+  "updated": "2026-11-28",
   "published": "2026-11-24",
   "google_wacht": true,
   "reviews_total": "",
@@ -121,7 +121,7 @@
     {
       "brand": "Samsung",
       "name": "QE55S83H 55 inch",
-      "price": 899.0,
+      "price": 819.0,
       "score": 9.0,
       "label": null,
       "reviews": "",
@@ -155,13 +155,13 @@
         "2026-11-25": 849.0,
         "2026-11-26": 849.0,
         "2026-11-27": 849.0,
-        "2026-11-28": 899.0
+        "2026-11-28": 819.0
       },
-      "low_price": 849.0,
+      "low_price": 819.0,
       "ph_ean": "8806097979609",
       "synced": "2026-11-28",
-      "prev_price": 849.0,
-      "prev_date": "2026-11-27"
+      "prev_price": 899.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Philips",
@@ -413,7 +413,7 @@
         "120 euro duurder dan de 48 inch C5"
       ],
       "ideal": "Wie een kleine OLED strak aan de muur wil hangen.",
-      "text": "De LG G5 is de topserie van LG en in 48 inch staat hij voor 929 euro bij bol. De grote G5-modellen hebben een nieuw, extra fel paneel, maar de 48 inch versie gebruikt een WOLED-paneel dat dichter bij de C5 zit. Wat je wel krijgt, is het Gallery-ontwerp: de tv is dun en hangt vrijwel vlak tegen de muur, als een schilderij.\n\nTechnisch krijg je 144 Hz, VRR, vier HDMI 2.1-poorten, Dolby Vision en de α11-processor, de snelste van LG. Die verwerkt bewegingen en tv-zenders net iets beter dan de C5. Toch is het verschil in beeld met de 48 inch C5 klein, terwijl je 120 euro meer betaalt. Het ontwerp is gemaakt voor aan de muur, dus reken een passende muurbeugel mee in je budget. Kies deze als het design voor jou belangrijk is.",
+      "text": "De LG G5 is de topserie van LG en in 48 inch staat hij voor 899 euro bij bol. De grote G5-modellen hebben een nieuw, extra fel paneel, maar de 48 inch versie gebruikt een WOLED-paneel dat dichter bij de C5 zit. Wat je wel krijgt, is het Gallery-ontwerp: de tv is dun en hangt vrijwel vlak tegen de muur, als een schilderij.\n\nTechnisch krijg je 144 Hz, VRR, vier HDMI 2.1-poorten, Dolby Vision en de α11-processor, de snelste van LG. Die verwerkt bewegingen en tv-zenders net iets beter dan de C5. Toch is het verschil in beeld met de 48 inch C5 klein, terwijl je 120 euro meer betaalt. Het ontwerp is gemaakt voor aan de muur, dus reken een passende muurbeugel mee in je budget. Kies deze als het design voor jou belangrijk is.",
       "ean": "8806096367445",
       "bol_title": "LG G5 OLED48G56LS - 48 inch - 4K OLED Evo Max - 2025 - Smart TV",
       "rating": 4.7,
@@ -435,7 +435,7 @@
     {
       "brand": "Philips",
       "name": "42OLED811 42 inch",
-      "price": 929.0,
+      "price": 899.0,
       "score": 8.4,
       "label": null,
       "reviews": "",
@@ -469,13 +469,13 @@
         "2026-11-25": 979.0,
         "2026-11-26": 979.0,
         "2026-11-27": 969.0,
-        "2026-11-28": 929.0
+        "2026-11-28": 899.0
       },
-      "low_price": 929.0,
+      "low_price": 899.0,
       "ph_ean": "8718863051948",
       "synced": "2026-11-28",
-      "prev_price": 969.0,
-      "prev_date": "2026-11-27"
+      "prev_price": 929.0,
+      "prev_date": "2026-11-28"
     }
   ],
   "guide": [

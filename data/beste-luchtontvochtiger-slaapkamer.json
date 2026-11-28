@@ -22,7 +22,7 @@
     {
       "brand": "Qlima",
       "name": "DD 808",
-      "price": 269.0,
+      "price": 259.77,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 4,6 van 5",
@@ -79,12 +79,12 @@
         "2026-11-25": 248.62,
         "2026-11-26": 254.1,
         "2026-11-27": 269.0,
-        "2026-11-28": 269.0
+        "2026-11-28": 259.77
       },
       "low_price": 241.27,
       "synced": "2026-11-28",
-      "prev_price": 254.1,
-      "prev_date": "2026-11-26",
+      "prev_price": 269.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "8713508793054",
       "rating": 4.6
     },
@@ -215,7 +215,7 @@
       "label": null,
       "brand": "EUROM",
       "name": "Drybest 20C",
-      "price": 166.49,
+      "price": 168.69,
       "score": 8.4,
       "reviews": "bol-score 4,6 van 5",
       "oneliner": "Compressor-ontvochtiger van 20 liter per dag van het Nederlandse merk EUROM.",
@@ -271,12 +271,12 @@
         "2026-11-25": 173.39,
         "2026-11-26": 173.49,
         "2026-11-27": 173.49,
-        "2026-11-28": 166.49
+        "2026-11-28": 168.69
       },
       "low_price": 166.49,
       "synced": "2026-11-28",
-      "prev_price": 173.49,
-      "prev_date": "2026-11-27",
+      "prev_price": 166.49,
+      "prev_date": "2026-11-28",
       "ph_ean": "8713415370980",
       "rating": 4.6
     },

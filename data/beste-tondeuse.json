@@ -402,7 +402,7 @@
     {
       "brand": "BaByliss",
       "name": "Super-X Metal",
-      "price": 59.99,
+      "price": 64.9,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -475,11 +475,11 @@
         "2026-11-25": 64.7,
         "2026-11-26": 64.3,
         "2026-11-27": 63.99,
-        "2026-11-28": 59.99
+        "2026-11-28": 64.9
       },
       "low_price": 59.99,
-      "prev_price": 63.99,
-      "prev_date": "2026-11-27",
+      "prev_price": 59.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "3030050165371",
       "rating": 4.7
     },
@@ -727,7 +727,7 @@
       "ean": "8720689021333",
       "bol_title": "Philips All-in-One Trimmer MG7940/75 Series 7000",
       "url": "https://www.bol.com/nl/nl/p/philips-all-in-one-trimmer-mg7940-75-series-7000/9300000190093259/",
-      "image": "https://media.s-bol.com/1RQ7JAqyMN4Z/4Q8YNBJ/550x565.jpg",
+      "image": "https://media.s-bol.com/4OVRloE4yGyx/pgpxjo6/550x552.jpg",
       "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 66.94,

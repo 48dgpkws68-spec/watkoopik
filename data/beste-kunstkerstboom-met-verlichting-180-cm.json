@@ -125,7 +125,7 @@
     {
       "brand": "Everlands",
       "name": "Allison Fir 180 cm met 320 LED",
-      "price": 108.81,
+      "price": 129.99,
       "score": 9.1,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 5,0 van 5",
@@ -159,13 +159,14 @@
         "2026-11-24": 116.6,
         "2026-11-25": 116.6,
         "2026-11-26": 107.58,
-        "2026-11-27": 108.81
+        "2026-11-27": 108.81,
+        "2026-11-28": 129.99
       },
       "low_price": 107.58,
       "ph_ean": "8720194653234",
       "synced": "2026-11-28",
-      "prev_price": 107.58,
-      "prev_date": "2026-11-26"
+      "prev_price": 108.81,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Black Box Trees",
@@ -349,7 +350,7 @@
     {
       "brand": "Black Box Trees",
       "name": "Harma smal 185 cm met 200 LED",
-      "price": 66.98,
+      "price": 76.99,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -384,13 +385,13 @@
         "2026-11-25": 89.99,
         "2026-11-26": 89.99,
         "2026-11-27": 89.99,
-        "2026-11-28": 66.98
+        "2026-11-28": 76.99
       },
       "low_price": 66.98,
       "ph_ean": "8720983084676",
       "synced": "2026-11-28",
-      "prev_price": 89.99,
-      "prev_date": "2026-11-27"
+      "prev_price": 66.98,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Buxibo",

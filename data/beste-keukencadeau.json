@@ -24,7 +24,7 @@
     {
       "brand": "Ninja",
       "name": "Foodi 4-in-1 DualZone Airfryer AF200EU 7,6 l",
-      "price": 140.99,
+      "price": 141.99,
       "score": 9.3,
       "label": "Beste keuze",
       "oneliner": "Twee lades, twee gerechten tegelijk klaar.",
@@ -71,12 +71,12 @@
         "2026-11-25": 143.0,
         "2026-11-26": 143.0,
         "2026-11-27": 140.99,
-        "2026-11-28": 140.99
+        "2026-11-28": 141.99
       },
       "low_price": 138.41,
       "synced": "2026-11-28",
-      "prev_price": 143.0,
-      "prev_date": "2026-11-26",
+      "prev_price": 140.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "0622356320450",
       "rating": 4.7
     },
@@ -125,7 +125,7 @@
     {
       "brand": "SMEG",
       "name": "KLF03CREU waterkoker 1,7 l",
-      "price": 127.31,
+      "price": 142.8,
       "score": 8.9,
       "label": "Beste premium",
       "oneliner": "Iconische retro-waterkoker die opvalt op elk aanrecht.",
@@ -186,13 +186,13 @@
         "2026-11-25": 126.88,
         "2026-11-26": 114.83,
         "2026-11-27": 114.83,
-        "2026-11-28": 127.31
+        "2026-11-28": 142.8
       },
       "low_price": 114.83,
       "synced": "2026-11-28",
       "reviews": "bol-score 4,4 van 5",
-      "prev_price": 114.83,
-      "prev_date": "2026-11-27",
+      "prev_price": 127.31,
+      "prev_date": "2026-11-28",
       "ph_ean": "8017709227852",
       "rating": 4.4
     },
@@ -588,7 +588,7 @@
     {
       "brand": "Philips",
       "name": "Senseo melkopschuimer CA6500/60",
-      "price": 41.99,
+      "price": 52.99,
       "score": 8.2,
       "label": null,
       "oneliner": "Eenvoudige melkopschuimer voor warm en koud schuim.",
@@ -648,13 +648,14 @@
         "2026-11-24": 52.99,
         "2026-11-25": 52.99,
         "2026-11-26": 52.99,
-        "2026-11-27": 41.99
+        "2026-11-27": 41.99,
+        "2026-11-28": 52.99
       },
       "low_price": 41.99,
       "synced": "2026-11-28",
       "reviews": "bol-score 4,4 van 5",
-      "prev_price": 52.99,
-      "prev_date": "2026-11-26",
+      "prev_price": 41.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "8720389007606",
       "rating": 4.4
     }

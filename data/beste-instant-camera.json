@@ -299,7 +299,7 @@
     {
       "brand": "Fujifilm",
       "name": "Instax mini Evo",
-      "price": 186.79,
+      "price": 179.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -348,14 +348,14 @@
         "2026-11-25": 194.0,
         "2026-11-26": 184.96,
         "2026-11-27": 179.59,
-        "2026-11-28": 186.79
+        "2026-11-28": 179.0
       },
       "low_price": 176.0,
       "synced": "2026-11-28",
       "ph_ean": "4547410462555",
       "rating": 4.4,
-      "prev_price": 179.59,
-      "prev_date": "2026-11-27"
+      "prev_price": 186.79,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Polaroid",

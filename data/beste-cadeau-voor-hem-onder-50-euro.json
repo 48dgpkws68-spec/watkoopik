@@ -606,7 +606,7 @@
     {
       "brand": "Weber",
       "name": "Digitale thermometer",
-      "price": 19.99,
+      "price": 22.99,
       "score": 8.0,
       "label": null,
       "oneliner": "Snel de kerntemperatuur van vlees meten.",
@@ -667,13 +667,13 @@
         "2026-11-25": 24.49,
         "2026-11-26": 24.49,
         "2026-11-27": 24.49,
-        "2026-11-28": 19.99
+        "2026-11-28": 22.99
       },
       "low_price": 19.99,
       "synced": "2026-11-28",
       "reviews": "bol-score 4,3 van 5",
-      "prev_price": 24.49,
-      "prev_date": "2026-11-27",
+      "prev_price": 19.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "0077924048395",
       "rating": 4.3
     }

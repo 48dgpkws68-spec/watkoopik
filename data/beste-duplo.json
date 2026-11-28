@@ -160,7 +160,7 @@
     {
       "brand": "LEGO",
       "name": "DUPLO 3in1 Boomhut (10993)",
-      "price": 99.67,
+      "price": 104.53,
       "score": 9.0,
       "label": "Beste premium",
       "reviews": "bol-score 4,9 van 5",
@@ -195,14 +195,14 @@
         "2026-11-25": 102.08,
         "2026-11-26": 102.94,
         "2026-11-27": 103.75,
-        "2026-11-28": 99.67
+        "2026-11-28": 104.53
       },
       "low_price": 99.67,
       "ph_ean": "5702017417714",
       "rating": 4.9,
       "synced": "2026-11-28",
-      "prev_price": 103.75,
-      "prev_date": "2026-11-27"
+      "prev_price": 99.67,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "LEGO",
@@ -391,7 +391,7 @@
     {
       "brand": "LEGO",
       "name": "DUPLO Brandweertruck met slang en brandweerman (10473)",
-      "price": 20.99,
+      "price": 24.99,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -426,12 +426,14 @@
         "2026-11-25": 20.99,
         "2026-11-26": 20.99,
         "2026-11-27": 20.99,
-        "2026-11-28": 20.99
+        "2026-11-28": 24.99
       },
       "low_price": 20.99,
       "ph_ean": "5702018056530",
       "rating": 4.6,
-      "synced": "2026-11-28"
+      "synced": "2026-11-28",
+      "prev_price": 20.99,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "LEGO",

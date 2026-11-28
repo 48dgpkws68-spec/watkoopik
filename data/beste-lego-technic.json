@@ -329,7 +329,7 @@
     {
       "brand": "LEGO",
       "name": "Technic Volvo FMX Truck en EC230 Electric Excavator 42175",
-      "price": 155.0,
+      "price": 164.86,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -378,14 +378,14 @@
         "2026-11-25": 139.0,
         "2026-11-26": 139.0,
         "2026-11-27": 114.99,
-        "2026-11-28": 155.0
+        "2026-11-28": 164.86
       },
       "low_price": 114.99,
       "synced": "2026-11-28",
       "ph_ean": "5702017584096",
       "rating": 4.9,
-      "prev_price": 114.99,
-      "prev_date": "2026-11-27"
+      "prev_price": 155.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "LEGO",
@@ -506,7 +506,7 @@
     {
       "brand": "LEGO",
       "name": "Technic Mack LR Electric Vuilniswagen 42167",
-      "price": 45.9,
+      "price": 48.99,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -555,12 +555,12 @@
         "2026-11-25": 46.49,
         "2026-11-26": 46.49,
         "2026-11-27": 49.95,
-        "2026-11-28": 45.9
+        "2026-11-28": 48.99
       },
       "low_price": 40.98,
       "synced": "2026-11-28",
-      "prev_price": 49.95,
-      "prev_date": "2026-11-27",
+      "prev_price": 45.9,
+      "prev_date": "2026-11-28",
       "ph_ean": "5702017583525",
       "rating": 4.9
     },

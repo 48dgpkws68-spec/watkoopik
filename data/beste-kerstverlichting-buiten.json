@@ -15,7 +15,7 @@
   "ico": "✨",
   "color": "#7a5a12",
   "seo": "kerstverlichting buiten",
-  "updated": "2026-11-09",
+  "updated": "2026-11-28",
   "published": "2026-11-09",
   "reviews_total": "1.000",
   "intro": "Goede kerstverlichting voor buiten moet tegen regen, wind en vorst kunnen en elke avond zonder gedoe aangaan. Wij vergeleken de sets die nu bij bol te koop zijn op IP-waarde, lengte, aantal leds, voeding, timer en lichtkleur. Daarbij lazen we de ervaringen van kopers. In deze top 10 vind je clusterverlichting voor een buitenboom, ijspegels voor de dakgoot, een lichtnet voor de heg, sfeervolle prikkabels voor het terras en twee slimme snoeren die je met een app bedient.",
@@ -143,7 +143,7 @@
     {
       "brand": "Anna's Collection",
       "name": "Clusterverlichting 1152 LED 15 meter warm wit",
-      "price": 34.5,
+      "price": 34.75,
       "score": 9.0,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,2 van 5",
@@ -190,12 +190,12 @@
         "2026-11-25": 34.5,
         "2026-11-26": 34.5,
         "2026-11-27": 34.5,
-        "2026-11-28": 34.5
+        "2026-11-28": 34.75
       },
       "low_price": 24.99,
       "synced": "2026-11-28",
-      "prev_price": 35.0,
-      "prev_date": "2026-11-21",
+      "prev_price": 34.5,
+      "prev_date": "2026-11-28",
       "ph_ean": "8713619379963",
       "rating": 4.2
     },
@@ -660,7 +660,7 @@
     "keuzes": [
       {
         "h": "Wat wil je verlichten?",
-        "p": "Voor een buitenboom of conifeer kies je clusterverlichting zoals de nr. 1 Lumineo (€ 32,95) of de nr. 3 Anna's Collection (€ 31,63). Voor de dakgoot neem je ijspegels: de nr. 5 Springos of de nr. 8 Lumineo. Een heg verlicht je het snelst met het lichtnet van de nr. 9 Anna's Collection."
+        "p": "Voor een buitenboom of conifeer kies je clusterverlichting zoals de nr. 1 Lumineo (€ 29,95) of de nr. 3 Anna's Collection (€ 34,75). Voor de dakgoot neem je ijspegels: de nr. 5 Springos of de nr. 8 Lumineo. Een heg verlicht je het snelst met het lichtnet van de nr. 9 Anna's Collection."
       },
       {
         "h": "Hoe groot is je boom of gevel?",
@@ -668,7 +668,7 @@
       },
       {
         "h": "Wil je slimme bediening?",
-        "p": "Gebruik je al Philips Hue, dan past de nr. 2 Hue Festavia (€ 179) met IP54 en schema's in je bestaande app. Zonder Hue is de nr. 4 Twinkly Strings (€ 98,39) de slimme keuze: elke led apart te programmeren en te koppelen aan HomeKit, Alexa en Google Home."
+        "p": "Gebruik je al Philips Hue, dan past de nr. 2 Hue Festavia (€ 181) met IP54 en schema's in je bestaande app. Zonder Hue is de nr. 4 Twinkly Strings (€ 98,39) de slimme keuze: elke led apart te programmeren en te koppelen aan HomeKit, Alexa en Google Home."
       },
       {
         "h": "Zoek je sfeer die blijft hangen?",
@@ -678,11 +678,11 @@
     "wanneer": [
       {
         "rank": 2,
-        "p": "De Philips Hue Festavia past beter als je al Hue-lampen hebt en je buitenverlichting slim wilt aansturen. Je kiest elke kleur of warm wit, zet hem op een schema en koppelt hem aan je andere lampen. Hij is IP54 en het hele jaar bruikbaar. Hij kost € 181, bijna zes keer zoveel als de Lumineo. Voor alle functies heb je een Hue Bridge nodig."
+        "p": "De Philips Hue Festavia past beter als je al Hue-lampen hebt en je buitenverlichting slim wilt aansturen. Je kiest elke kleur of warm wit, zet hem op een schema en koppelt hem aan je andere lampen. Hij is IP54 en het hele jaar bruikbaar. Hij kost € 181, ruim zes keer zoveel als de Lumineo. Voor alle functies heb je een Hue Bridge nodig."
       },
       {
         "rank": 3,
-        "p": "Kies de Anna's Collection clusterverlichting als je meer meters nodig hebt voor ongeveer hetzelfde geld. Je krijgt 15 meter met 1152 leds voor € 31,63, vijf meter meer dan de Lumineo. Ook hier zitten een timer van 8 of 16 uur en een dimmer op de trafo. De leds zitten wel iets ruimer verdeeld, dus het effect is net minder dicht."
+        "p": "Kies de Anna's Collection clusterverlichting als je meer meters nodig hebt voor een paar euro meer. Je krijgt 15 meter met 1152 leds voor € 34,75, vijf meter meer dan de Lumineo. Ook hier zitten een timer van 8 of 16 uur en een dimmer op de trafo. De leds zitten wel iets ruimer verdeeld, dus het effect is net minder dicht."
       }
     ]
   }

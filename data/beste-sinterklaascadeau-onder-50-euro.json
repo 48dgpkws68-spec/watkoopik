@@ -549,7 +549,7 @@
     {
       "brand": "Yankee Candle",
       "name": "Shimmering Christmas Tree Large Jar",
-      "price": 32.81,
+      "price": 34.56,
       "score": 8.1,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -596,12 +596,12 @@
         "2026-11-25": 33.57,
         "2026-11-26": 32.9,
         "2026-11-27": 33.0,
-        "2026-11-28": 32.81
+        "2026-11-28": 34.56
       },
       "low_price": 27.04,
       "synced": "2026-11-28",
-      "prev_price": 33.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 32.81,
+      "prev_date": "2026-11-28",
       "ph_ean": "5038581153957",
       "rating": 4.3
     }

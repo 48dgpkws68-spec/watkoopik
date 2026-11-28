@@ -24,7 +24,7 @@
     {
       "brand": "Qlima",
       "name": "GH 959 RF",
-      "price": 190.13,
+      "price": 191.23,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,3 van 5",
@@ -83,12 +83,12 @@
         "2026-11-25": 184.03,
         "2026-11-26": 186.08,
         "2026-11-27": 188.03,
-        "2026-11-28": 190.13
+        "2026-11-28": 191.23
       },
       "low_price": 173.9,
       "synced": "2026-11-28",
-      "prev_price": 188.03,
-      "prev_date": "2026-11-27",
+      "prev_price": 190.13,
+      "prev_date": "2026-11-28",
       "ph_ean": "8713508773247",
       "rating": 4.3
     },
@@ -237,7 +237,7 @@
     {
       "brand": "Qlima",
       "name": "GH 8034 design gaskachel",
-      "price": 264.22,
+      "price": 263.02,
       "score": 8.9,
       "label": "Beste premium",
       "reviews": "bol-score 4,3 van 5",
@@ -296,12 +296,12 @@
         "2026-11-25": 263.4,
         "2026-11-26": 269.9,
         "2026-11-27": 266.4,
-        "2026-11-28": 264.22
+        "2026-11-28": 263.02
       },
       "low_price": 261.7,
       "synced": "2026-11-28",
-      "prev_price": 266.4,
-      "prev_date": "2026-11-27",
+      "prev_price": 264.22,
+      "prev_date": "2026-11-28",
       "ph_ean": "8713508782034",
       "rating": 4.3
     },

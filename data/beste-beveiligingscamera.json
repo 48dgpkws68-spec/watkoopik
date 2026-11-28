@@ -105,7 +105,7 @@
     {
       "brand": "Tapo",
       "name": "C220",
-      "price": 29.1,
+      "price": 29.9,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,5 van 5",
@@ -177,11 +177,11 @@
         "2026-11-25": 29.1,
         "2026-11-26": 29.1,
         "2026-11-27": 29.1,
-        "2026-11-28": 29.1
+        "2026-11-28": 29.9
       },
       "low_price": 29.1,
-      "prev_price": 29.9,
-      "prev_date": "2026-11-14",
+      "prev_price": 29.1,
+      "prev_date": "2026-11-28",
       "ph_ean": "4895252500936",
       "rating": 4.5
     },

@@ -261,7 +261,7 @@
       "price": 99.99,
       "score": 8.8,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "Klein en stil met verrassend veel vermogen voor zijn formaat.",
       "specs": {
         "CADR": "250 m³/u",
@@ -326,7 +326,7 @@
       "prev_price": 120.63,
       "prev_date": "2026-11-05",
       "ph_ean": "8720389039416",
-      "rating": 4.2
+      "rating": 4.3
     },
     {
       "brand": "Levoit",
@@ -387,7 +387,7 @@
     {
       "brand": "Philips",
       "name": "AC0650/10",
-      "price": 63.99,
+      "price": 59.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -448,12 +448,12 @@
         "2026-11-25": 63.99,
         "2026-11-26": 63.99,
         "2026-11-27": 63.99,
-        "2026-11-28": 63.99
+        "2026-11-28": 59.99
       },
-      "low_price": 63.99,
+      "low_price": 59.99,
       "synced": "2026-11-28",
-      "prev_price": 80.0,
-      "prev_date": "2026-11-05",
+      "prev_price": 63.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "8720389025396",
       "rating": 4.4
     },

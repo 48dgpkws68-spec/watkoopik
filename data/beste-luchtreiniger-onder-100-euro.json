@@ -15,7 +15,7 @@
   ],
   "ico": "🌬️",
   "color": "#2d9bb3",
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "published": "2026-11-27",
   "google_wacht": true,
   "reviews_total": "",
@@ -160,7 +160,7 @@
     {
       "brand": "Philips",
       "name": "600i Series AC0650/10",
-      "price": 63.99,
+      "price": 59.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -173,7 +173,7 @@
         "Vermogen": "12 W"
       },
       "pros": [
-        "170 m³/u en app-bediening voor 63,99 euro",
+        "170 m³/u en app-bediening voor 59,99 euro",
         "Slaapstand van 19 dB",
         "Verbruikt maximaal 12 W",
         "Origineel filter FY0611/30 kost 29,99 euro"
@@ -184,7 +184,7 @@
         "Levensduur van het filter staat niet bij bol"
       ],
       "ideal": "Wie vooral stof en pollen wil afvangen in een kamer tot ongeveer 14 m² en een app van een bekend merk wil.",
-      "text": "De Philips AC0650/10 uit de 600i-serie is de goedkoopste luchtreiniger met app van een groot merk in deze lijst. Voor 63,99 euro krijg je een CADR van 170 m³/u, een slaapstand van 19 dB en een maximaal vermogen van 12 W. Het filter bestaat uit twee lagen: een voorfilter en het NanoProtect HEPA-filter, dat volgens Philips 99,97 procent van de deeltjes tot 0,003 micron afvangt. Via de Air+-app bedien je hem op afstand en lees je de luchtkwaliteit af.\n\nLet op de geur. De titel bij bol belooft dat hij geur en rook verwijdert, maar in de specificaties staat dat er geen koolstoffilter en geen geurfilter is. Voor kookluchtjes of rook is een model met actieve kool logischer. Bol is ook niet eenduidig over de kamergrootte: 44 m² in de titel, 39 m² in de tabel. Reken zelf op ongeveer 14 m². Op de hoogste stand maakt hij 49 dB. Een origineel filter kost 29,99 euro.",
+      "text": "De Philips AC0650/10 uit de 600i-serie is de goedkoopste luchtreiniger met app van een groot merk in deze lijst. Voor 59,99 euro krijg je een CADR van 170 m³/u, een slaapstand van 19 dB en een maximaal vermogen van 12 W. Het filter bestaat uit twee lagen: een voorfilter en het NanoProtect HEPA-filter, dat volgens Philips 99,97 procent van de deeltjes tot 0,003 micron afvangt. Via de Air+-app bedien je hem op afstand en lees je de luchtkwaliteit af.\n\nLet op de geur. De titel bij bol belooft dat hij geur en rook verwijdert, maar in de specificaties staat dat er geen koolstoffilter en geen geurfilter is. Voor kookluchtjes of rook is een model met actieve kool logischer. Bol is ook niet eenduidig over de kamergrootte: 44 m² in de titel, 39 m² in de tabel. Reken zelf op ongeveer 14 m². Op de hoogste stand maakt hij 49 dB. Een origineel filter kost 29,99 euro.",
       "ean": "8720389025396",
       "rating": 4.4,
       "bol_title": "Philips Luchtreiniger AC0650/10 - Met App - HEPA Filter Nanoprotect - Verwijdert Geur en Rook - Voor Ruimtes tot 44m² - 170 m³/u - Wit",
@@ -192,11 +192,13 @@
       "image": "https://media.s-bol.com/Djj62PVLXWg5/wjlDOKJ/550x825.jpg",
       "ph": {
         "2026-11-27": 63.99,
-        "2026-11-28": 63.99
+        "2026-11-28": 59.99
       },
-      "low_price": 63.99,
+      "low_price": 59.99,
       "ph_ean": "8720389025396",
-      "synced": "2026-11-28"
+      "synced": "2026-11-28",
+      "prev_price": 63.99,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Levoit",

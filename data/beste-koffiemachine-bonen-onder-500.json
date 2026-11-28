@@ -187,7 +187,7 @@
     {
       "brand": "De'Longhi",
       "name": "Magnifica Evo Next ECAM310.60.GB",
-      "price": 417.9,
+      "price": 455.0,
       "score": 8.9,
       "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
@@ -256,11 +256,11 @@
         "2026-11-25": 418.0,
         "2026-11-26": 418.0,
         "2026-11-27": 418.0,
-        "2026-11-28": 417.9
+        "2026-11-28": 455.0
       },
       "low_price": 417.9,
-      "prev_price": 418.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 417.9,
+      "prev_date": "2026-11-28",
       "ph_ean": "8004399029132",
       "rating": 4.7
     },
@@ -677,7 +677,7 @@
     {
       "brand": "Melitta",
       "name": "Latticia OT F300-103",
-      "price": 497.0,
+      "price": 475.66,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -746,11 +746,11 @@
         "2026-11-25": 457.76,
         "2026-11-26": 457.76,
         "2026-11-27": 497.0,
-        "2026-11-28": 497.0
+        "2026-11-28": 475.66
       },
       "low_price": 392.44,
-      "prev_price": 457.76,
-      "prev_date": "2026-11-26",
+      "prev_price": 497.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "4006508230143",
       "rating": 4.3
     }

@@ -245,7 +245,7 @@
     {
       "brand": "De'Longhi",
       "name": "Nespresso Citiz EN167.B",
-      "price": 124.0,
+      "price": 122.99,
       "score": 8.7,
       "label": null,
       "oneliner": "Retro cupmachine voor espresso en lungo.",
@@ -306,13 +306,13 @@
         "2026-11-25": 124.0,
         "2026-11-26": 124.0,
         "2026-11-27": 124.0,
-        "2026-11-28": 124.0
+        "2026-11-28": 122.99
       },
       "low_price": 120.99,
       "synced": "2026-11-28",
       "reviews": "bol-score 4,4 van 5",
-      "prev_price": 126.95,
-      "prev_date": "2026-11-21",
+      "prev_price": 124.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "8004399331389",
       "rating": 4.4
     },

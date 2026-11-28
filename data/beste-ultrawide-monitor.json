@@ -675,7 +675,7 @@
     {
       "brand": "ASUS",
       "name": "TUF Gaming VG34VQ3B",
-      "price": 259.0,
+      "price": 255.0,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -741,11 +741,11 @@
         "2026-11-25": 279.0,
         "2026-11-26": 279.0,
         "2026-11-27": 279.0,
-        "2026-11-28": 259.0
+        "2026-11-28": 255.0
       },
-      "low_price": 259.0,
-      "prev_price": 279.0,
-      "prev_date": "2026-11-27",
+      "low_price": 255.0,
+      "prev_price": 259.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "4711387530092",
       "rating": 4.5
     }

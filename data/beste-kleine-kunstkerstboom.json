@@ -195,7 +195,7 @@
     {
       "brand": "Triumph Tree",
       "name": "Bristlecone 120 cm",
-      "price": 57.0,
+      "price": 62.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -227,14 +227,14 @@
       "ph": {
         "2026-11-26": 62.99,
         "2026-11-27": 62.99,
-        "2026-11-28": 57.0
+        "2026-11-28": 62.0
       },
       "low_price": 57.0,
       "ph_ean": "8718861201147",
       "rating": 4.9,
       "synced": "2026-11-28",
-      "prev_price": 62.99,
-      "prev_date": "2026-11-27"
+      "prev_price": 57.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Black Box Trees",

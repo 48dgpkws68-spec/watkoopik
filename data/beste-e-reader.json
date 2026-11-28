@@ -343,7 +343,7 @@
       "price": 179.0,
       "score": 8.6,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,4 van 5",
       "oneliner": "Compacte e-reader met kleurenscherm voor een kleine meerprijs.",
       "specs": {
         "Scherm": "6 inch E Ink Kaleido 3",
@@ -419,7 +419,7 @@
       "prev_price": 189.0,
       "prev_date": "2026-11-17",
       "ph_ean": "0681495009541",
-      "rating": 4.3
+      "rating": 4.4
     },
     {
       "brand": "BOOX",
@@ -592,7 +592,7 @@
     {
       "brand": "PocketBook",
       "name": "Verse Pro Color",
-      "price": 172.5,
+      "price": 175.0,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -642,14 +642,14 @@
         "2026-11-25": 164.95,
         "2026-11-26": 164.95,
         "2026-11-27": 164.95,
-        "2026-11-28": 172.5
+        "2026-11-28": 175.0
       },
       "low_price": 164.8,
       "synced": "2026-11-28",
       "ph_ean": "7640152097270",
       "rating": 4.3,
-      "prev_price": 164.95,
-      "prev_date": "2026-11-27"
+      "prev_price": 172.5,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "PocketBook",

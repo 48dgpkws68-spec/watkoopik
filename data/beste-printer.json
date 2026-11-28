@@ -69,7 +69,7 @@
     {
       "brand": "Canon",
       "name": "PIXMA TS6550i",
-      "price": 64.99,
+      "price": 72.95,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,6 van 5",
@@ -141,18 +141,18 @@
         "2026-11-25": 65.95,
         "2026-11-26": 65.95,
         "2026-11-27": 62.99,
-        "2026-11-28": 64.99
+        "2026-11-28": 72.95
       },
       "low_price": 62.99,
-      "prev_price": 62.99,
-      "prev_date": "2026-11-27",
+      "prev_price": 64.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "4549292247985",
       "rating": 4.6
     },
     {
       "brand": "Epson",
       "name": "EcoTank ET-8550",
-      "price": 589.0,
+      "price": 749.95,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "bol-score 4,5 van 5",
@@ -189,13 +189,13 @@
         "2026-11-25": 599.0,
         "2026-11-26": 599.0,
         "2026-11-27": 749.95,
-        "2026-11-28": 589.0
+        "2026-11-28": 749.95
       },
       "low_price": 589.0,
       "ph_ean": "8715946676722",
       "synced": "2026-11-28",
-      "prev_price": 749.95,
-      "prev_date": "2026-11-27"
+      "prev_price": 589.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Brother",
@@ -283,7 +283,7 @@
     {
       "brand": "HP",
       "name": "OfficeJet Pro 9135e",
-      "price": 199.0,
+      "price": 185.0,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -355,11 +355,11 @@
         "2026-11-25": 209.0,
         "2026-11-26": 209.0,
         "2026-11-27": 199.0,
-        "2026-11-28": 199.0
+        "2026-11-28": 185.0
       },
-      "low_price": 199.0,
-      "prev_price": 209.0,
-      "prev_date": "2026-11-26",
+      "low_price": 185.0,
+      "prev_price": 199.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "0196786896095",
       "rating": 5.0
     },
@@ -514,7 +514,7 @@
     {
       "brand": "Brother",
       "name": "HL-L2400DWE",
-      "price": 126.6,
+      "price": 134.0,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -586,11 +586,11 @@
         "2026-11-25": 131.0,
         "2026-11-26": 131.0,
         "2026-11-27": 131.0,
-        "2026-11-28": 126.6
+        "2026-11-28": 134.0
       },
       "low_price": 107.23,
-      "prev_price": 131.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 126.6,
+      "prev_date": "2026-11-28",
       "ph_ean": "4977766831048",
       "rating": 4.7
     },

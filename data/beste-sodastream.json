@@ -105,7 +105,7 @@
     {
       "brand": "SodaStream",
       "name": "Terra",
-      "price": 76.2,
+      "price": 79.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,5 van 5",
@@ -177,10 +177,10 @@
         "2026-11-25": 79.18,
         "2026-11-26": 75.21,
         "2026-11-27": 77.75,
-        "2026-11-28": 76.2
+        "2026-11-28": 79.99
       },
       "low_price": 66.46,
-      "prev_price": 76.05,
+      "prev_price": 76.2,
       "prev_date": "2026-11-28",
       "ph_ean": "7290113763784",
       "rating": 4.5

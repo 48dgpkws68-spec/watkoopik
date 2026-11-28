@@ -395,7 +395,7 @@
     {
       "brand": "Inferno",
       "name": "Compact Kamado 13 inch",
-      "price": 189.0,
+      "price": 200.45,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -466,11 +466,11 @@
         "2026-11-25": 200.45,
         "2026-11-26": 200.45,
         "2026-11-27": 200.45,
-        "2026-11-28": 189.0
+        "2026-11-28": 200.45
       },
       "low_price": 189.0,
-      "prev_price": 200.45,
-      "prev_date": "2026-11-27",
+      "prev_price": 189.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "8719322163561",
       "rating": 5.0
     },
@@ -541,7 +541,7 @@
     {
       "brand": "Campingaz",
       "name": "2 Series Classic LX Plus",
-      "price": 188.89,
+      "price": 190.69,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -612,11 +612,11 @@
         "2026-11-25": 191.59,
         "2026-11-26": 199.99,
         "2026-11-27": 199.99,
-        "2026-11-28": 188.89
+        "2026-11-28": 190.69
       },
       "low_price": 188.89,
-      "prev_price": 199.99,
-      "prev_date": "2026-11-27",
+      "prev_price": 188.89,
+      "prev_date": "2026-11-28",
       "ph_ean": "3138522120436",
       "rating": 4.3
     },

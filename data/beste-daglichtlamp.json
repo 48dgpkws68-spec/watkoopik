@@ -22,7 +22,7 @@
     {
       "brand": "Beurer",
       "name": "TL 45 Perfect Day",
-      "price": 90.99,
+      "price": 94.95,
       "score": 9.1,
       "label": "Beste keuze",
       "reviews": "bol-score 4,5 van 5",
@@ -94,11 +94,11 @@
         "2026-11-25": 89.99,
         "2026-11-26": 89.99,
         "2026-11-27": 90.99,
-        "2026-11-28": 90.99
+        "2026-11-28": 94.95
       },
       "low_price": 76.99,
-      "prev_price": 89.99,
-      "prev_date": "2026-11-26",
+      "prev_price": 90.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "4211125608132",
       "rating": 4.5
     },
@@ -517,7 +517,7 @@
     {
       "brand": "Lumie",
       "name": "Vitamin L",
-      "price": 106.99,
+      "price": 109.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -576,14 +576,14 @@
         "2026-11-25": 109.0,
         "2026-11-26": 109.0,
         "2026-11-27": 107.99,
-        "2026-11-28": 106.99
+        "2026-11-28": 109.0
       },
       "low_price": 106.99,
       "synced": "2026-11-28",
       "ph_ean": "5060006628733",
       "rating": 5.0,
-      "prev_price": 107.99,
-      "prev_date": "2026-11-27"
+      "prev_price": 106.99,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Beurer",

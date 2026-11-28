@@ -275,7 +275,7 @@
     {
       "brand": "LG",
       "name": "G5 OLED55G56LS 55 inch",
-      "price": 1298.0,
+      "price": 1349.0,
       "score": 9.2,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -347,11 +347,11 @@
         "2026-11-25": 1349.0,
         "2026-11-26": 1349.0,
         "2026-11-27": 1349.0,
-        "2026-11-28": 1298.0
+        "2026-11-28": 1349.0
       },
       "low_price": 1298.0,
-      "prev_price": 1349.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 1298.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "8806096363683",
       "rating": 4.7
     },
@@ -434,7 +434,7 @@
     {
       "brand": "Philips",
       "name": "Ambilight 55OLED911 55 inch",
-      "price": 1679.0,
+      "price": 1669.0,
       "score": 9.0,
       "reviews": "bol-score 5,0 van 5",
       "oneliner": "Topmodel van Philips met OLED+, Ambilight rondom en uitgebreid geluid.",
@@ -466,14 +466,14 @@
       "image": "https://media.s-bol.com/477vvBQ0Lyy1/l5ojEw7/550x250.jpg",
       "ph": {
         "2026-11-27": 1695.0,
-        "2026-11-28": 1679.0
+        "2026-11-28": 1669.0
       },
       "low_price": 1599.0,
       "ph_ean": "8718863052075",
       "rating": 5.0,
       "synced": "2026-11-28",
-      "prev_price": 1695.0,
-      "prev_date": "2026-11-27"
+      "prev_price": 1679.0,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Samsung",

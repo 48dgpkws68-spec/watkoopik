@@ -22,7 +22,7 @@
     {
       "brand": "tado",
       "name": "Slimme Thermostaat X Starterskit",
-      "price": 129.95,
+      "price": 142.0,
       "score": 9.2,
       "label": "Beste keuze",
       "reviews": "bol-score 3,6 van 5",
@@ -94,11 +94,11 @@
         "2026-11-25": 141.0,
         "2026-11-26": 142.0,
         "2026-11-27": 141.0,
-        "2026-11-28": 129.95
+        "2026-11-28": 142.0
       },
       "low_price": 129.95,
-      "prev_price": 141.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 129.95,
+      "prev_date": "2026-11-28",
       "ph_ean": "4260328612132",
       "rating": 3.6
     },
@@ -326,7 +326,7 @@
       "price": 96.0,
       "score": 8.5,
       "label": null,
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "De nieuwste tado X op je bestaande draden, zonder Bridge in de doos.",
       "specs": {
         "Aansluiting": "Bedraad",
@@ -346,7 +346,7 @@
         "Geofencing en open-raamdetectie via het betaalde AI Assist"
       ],
       "ideal": "Wie een tado wil op de plek van de huidige bedrade thermostaat.",
-      "text": "De bedrade tado X van de tweede generatie kwam in september 2026 uit. Dit is de losse thermostaat, zonder Bridge X in de doos. Hij komt op de plek van je huidige kamerthermostaat en gebruikt de bestaande draden naar de ketel. Hij ondersteunt OpenTherm en gewone aan/uit-regeling. Volgens tado werkt hij met gasketels, warmtepompen en vloerverwarming op waterbasis. Het LED-display toont de temperatuur en de luchtvochtigheid.\n\nVoor de verbinding met internet heb je een Bridge X of een andere geschikte Thread Border Router nodig. Heb je die niet, reken dan de prijs van een Bridge X mee. Dankzij Matter werkt hij met Apple Home, Google Home, Alexa en SmartThings. Met radiatorknoppen X breid je later uit naar regeling per kamer. Let op: oudere tado V3+-onderdelen werken er niet mee. Geofencing en open-raamdetectie zitten achter het optionele AI Assist van 3,99 euro per maand. Kopers op bol geven hem gemiddeld een 4,4 en dat is hoog voor een slimme thermostaat.",
+      "text": "De bedrade tado X van de tweede generatie kwam in september 2026 uit. Dit is de losse thermostaat, zonder Bridge X in de doos. Hij komt op de plek van je huidige kamerthermostaat en gebruikt de bestaande draden naar de ketel. Hij ondersteunt OpenTherm en gewone aan/uit-regeling. Volgens tado werkt hij met gasketels, warmtepompen en vloerverwarming op waterbasis. Het LED-display toont de temperatuur en de luchtvochtigheid.\n\nVoor de verbinding met internet heb je een Bridge X of een andere geschikte Thread Border Router nodig. Heb je die niet, reken dan de prijs van een Bridge X mee. Dankzij Matter werkt hij met Apple Home, Google Home, Alexa en SmartThings. Met radiatorknoppen X breid je later uit naar regeling per kamer. Let op: oudere tado V3+-onderdelen werken er niet mee. Geofencing en open-raamdetectie zitten achter het optionele AI Assist van 3,99 euro per maand. Kopers op bol geven hem gemiddeld een 4,1 en dat is hoog voor een slimme thermostaat.",
       "ean": "4260328612743",
       "bol_title": "tado° Bedrade Slimme Thermostaat X (2e gen.) - Smart Thermostaat - OpenTherm & Relay - Matter - Google Home, Alexa & Apple Home - Wit",
       "url": "https://www.bol.com/nl/nl/p/tado-bedrade-slimme-thermostaat-x-opentherm-relay-matter-bridge-x-vereist-wit/9300000361731094/",
@@ -374,7 +374,7 @@
       "low_price": 96.0,
       "synced": "2026-11-28",
       "ph_ean": "4260328612743",
-      "rating": 4.4
+      "rating": 4.1
     },
     {
       "brand": "Honeywell",
@@ -669,7 +669,7 @@
       "name": "Slimme Thermostaat X draadloos (2e gen.) Starterskit",
       "price": 156.0,
       "score": 8.1,
-      "reviews": "bol-score 4,4 van 5",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Draadloze tado X voor OpenTherm-ketels en aan/uit-regeling, met Matter.",
       "specs": {
         "Aansluiting": "Draadloos",
@@ -689,7 +689,7 @@
         "Slimste functies alleen met abonnement"
       ],
       "ideal": "Wie tado wil met een draadloze thermostaat die je overal in huis kunt neerzetten.",
-      "text": "De tado Slimme Thermostaat X draadloos is de uitvoering voor wie de thermostaat niet op de plek van de oude bedrade wil hangen. Een module bij de ketel regelt de verwarming, terwijl de thermostaat zelf draadloos is en vrij in huis te plaatsen is. Hij werkt met OpenTherm, zodat een geschikte ketel traploos kan moduleren. Ook gewone aan/uit-regeling wordt ondersteund.\n\nDe X-serie gebruikt Thread en Matter. Daardoor werkt hij met Apple Home, Google Home en Alexa. Met de radiatorknoppen X breid je uit naar regeling per kamer. Bedienen via de app en schema's maken kan zonder abonnement. Voor extra's zoals automatisch aanpassen als iedereen weg is, vraagt tado een abonnement. De prijs ligt hoger dan die van de bedrade tado X op plek 1. Kun je de bestaande bedrading gebruiken, dan is die voordeliger. Kopers op bol geven de draadloze versie gemiddeld 4,4 sterren.",
+      "text": "De tado Slimme Thermostaat X draadloos is de uitvoering voor wie de thermostaat niet op de plek van de oude bedrade wil hangen. Een module bij de ketel regelt de verwarming, terwijl de thermostaat zelf draadloos is en vrij in huis te plaatsen is. Hij werkt met OpenTherm, zodat een geschikte ketel traploos kan moduleren. Ook gewone aan/uit-regeling wordt ondersteund.\n\nDe X-serie gebruikt Thread en Matter. Daardoor werkt hij met Apple Home, Google Home en Alexa. Met de radiatorknoppen X breid je uit naar regeling per kamer. Bedienen via de app en schema's maken kan zonder abonnement. Voor extra's zoals automatisch aanpassen als iedereen weg is, vraagt tado een abonnement. De prijs ligt hoger dan die van de bedrade tado X op plek 1. Kun je de bestaande bedrading gebruiken, dan is die voordeliger. Kopers op bol geven de draadloze versie gemiddeld 4,1 sterren.",
       "ean": "4260328612774",
       "label": null,
       "bol_title": "tado° Draadloze Slimme Thermostaat X (2e gen.) Starterskit - OpenTherm & Relay - Matter, Google Home, Alexa & Apple Home - Wit",
@@ -733,7 +733,7 @@
       "prev_price": 166.99,
       "prev_date": "2026-11-26",
       "ph_ean": "4260328612774",
-      "rating": 4.4
+      "rating": 4.1
     }
   ],
   "guide": [

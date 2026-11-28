@@ -352,7 +352,7 @@
     {
       "brand": "Yankee Candle",
       "name": "Home Inspiration Vanilla Frosting Large Jar",
-      "price": 24.41,
+      "price": 23.75,
       "score": 8.6,
       "label": null,
       "ean": "5038581028903",
@@ -414,11 +414,11 @@
         "2026-11-25": 23.75,
         "2026-11-26": 24.41,
         "2026-11-27": 24.41,
-        "2026-11-28": 24.41
+        "2026-11-28": 23.75
       },
       "low_price": 21.4,
-      "prev_price": 23.75,
-      "prev_date": "2026-11-25",
+      "prev_price": 24.41,
+      "prev_date": "2026-11-28",
       "ph_ean": "5038581028903",
       "rating": 5.0
     },

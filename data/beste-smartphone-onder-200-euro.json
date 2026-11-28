@@ -85,7 +85,7 @@
     {
       "brand": "Samsung",
       "name": "Galaxy A17 5G 128GB",
-      "price": 190.99,
+      "price": 196.99,
       "score": 9.1,
       "label": "Beste keuze",
       "reviews": "bol-score 4,6 van 5",
@@ -118,14 +118,14 @@
         "2026-11-25": 185.99,
         "2026-11-26": 187.99,
         "2026-11-27": 196.99,
-        "2026-11-28": 190.99
+        "2026-11-28": 196.99
       },
       "low_price": 185.99,
       "ph_ean": "8806097642671",
       "rating": 4.6,
       "synced": "2026-11-28",
-      "prev_price": 196.99,
-      "prev_date": "2026-11-27"
+      "prev_price": 190.99,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Samsung",
@@ -355,7 +355,7 @@
     {
       "brand": "Motorola",
       "name": "moto g17 4/128GB",
-      "price": 179.6,
+      "price": 179.8,
       "score": 8.2,
       "label": null,
       "reviews": "",
@@ -389,18 +389,18 @@
         "2026-11-25": 163.0,
         "2026-11-26": 162.75,
         "2026-11-27": 182.6,
-        "2026-11-28": 179.6
+        "2026-11-28": 179.8
       },
       "low_price": 162.75,
       "ph_ean": "0840493624310",
       "synced": "2026-11-28",
-      "prev_price": 182.6,
-      "prev_date": "2026-11-27"
+      "prev_price": 179.6,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Samsung",
       "name": "Galaxy A16 4G 128GB",
-      "price": 174.99,
+      "price": 186.99,
       "score": 8.1,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -434,9 +434,11 @@
       "synced": "2026-11-28",
       "ph": {
         "2026-11-27": 174.99,
-        "2026-11-28": 174.99
+        "2026-11-28": 186.99
       },
-      "low_price": 174.99
+      "low_price": 174.99,
+      "prev_price": 174.99,
+      "prev_date": "2026-11-28"
     },
     {
       "brand": "Xiaomi",

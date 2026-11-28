@@ -23,7 +23,7 @@
     {
       "brand": "Samsung",
       "name": "Galaxy S26 Ultra (256 GB)",
-      "price": 999.0,
+      "price": 1005.9,
       "score": 9.5,
       "label": "Beste keuze",
       "reviews": "bol-score 4,5 van 5",
@@ -94,11 +94,11 @@
         "2026-11-25": 1034.95,
         "2026-11-26": 999.9,
         "2026-11-27": 1039.0,
-        "2026-11-28": 999.0
+        "2026-11-28": 1005.9
       },
       "low_price": 924.0,
-      "prev_price": 1039.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 999.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "8806097827221",
       "rating": 4.5
     },
@@ -187,7 +187,7 @@
     {
       "brand": "Samsung",
       "name": "Galaxy Z Fold8 (256 GB)",
-      "price": 1325.0,
+      "price": 1395.0,
       "score": 9.3,
       "label": "Beste premium",
       "reviews": "",
@@ -259,11 +259,11 @@
         "2026-11-25": 1349.0,
         "2026-11-26": 1349.0,
         "2026-11-27": 1349.0,
-        "2026-11-28": 1325.0
+        "2026-11-28": 1395.0
       },
       "low_price": 1325.0,
-      "prev_price": 1349.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 1325.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "8806099348847"
     },
     {
@@ -391,7 +391,7 @@
     {
       "brand": "Samsung",
       "name": "Galaxy A57 5G (256 GB)",
-      "price": 402.99,
+      "price": 405.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,7 van 5",
@@ -462,18 +462,18 @@
         "2026-11-25": 406.99,
         "2026-11-26": 420.0,
         "2026-11-27": 420.0,
-        "2026-11-28": 402.99
+        "2026-11-28": 405.99
       },
       "low_price": 389.0,
-      "prev_price": 420.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 402.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "8806099025885",
       "rating": 4.7
     },
     {
       "brand": "Samsung",
       "name": "Galaxy A56 5G (128 GB)",
-      "price": 345.0,
+      "price": 354.99,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -544,11 +544,11 @@
         "2026-11-25": 345.0,
         "2026-11-26": 345.0,
         "2026-11-27": 345.0,
-        "2026-11-28": 345.0
+        "2026-11-28": 354.99
       },
       "low_price": 299.0,
-      "prev_price": 347.0,
-      "prev_date": "2026-11-23",
+      "prev_price": 345.0,
+      "prev_date": "2026-11-28",
       "ph_ean": "8806095982885",
       "rating": 4.4
     },
@@ -636,7 +636,7 @@
     {
       "brand": "Samsung",
       "name": "Galaxy A26 5G (128 GB)",
-      "price": 274.9,
+      "price": 275.0,
       "score": 8.0,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -708,18 +708,18 @@
         "2026-11-25": 259.0,
         "2026-11-26": 259.0,
         "2026-11-27": 275.0,
-        "2026-11-28": 274.9
+        "2026-11-28": 275.0
       },
       "low_price": 233.03,
-      "prev_price": 275.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 274.9,
+      "prev_date": "2026-11-28",
       "ph_ean": "8806097072829",
       "rating": 4.5
     },
     {
       "brand": "Samsung",
       "name": "Galaxy A17 5G (128 GB)",
-      "price": 190.99,
+      "price": 196.99,
       "score": 7.8,
       "label": null,
       "reviews": "bol-score 4,6 van 5",
@@ -791,11 +791,11 @@
         "2026-11-25": 185.99,
         "2026-11-26": 187.99,
         "2026-11-27": 196.99,
-        "2026-11-28": 190.99
+        "2026-11-28": 196.99
       },
       "low_price": 184.0,
-      "prev_price": 196.99,
-      "prev_date": "2026-11-27",
+      "prev_price": 190.99,
+      "prev_date": "2026-11-28",
       "ph_ean": "8806097642671",
       "rating": 4.6
     }

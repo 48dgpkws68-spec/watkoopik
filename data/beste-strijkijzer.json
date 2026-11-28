@@ -270,7 +270,7 @@
       "price": 260.0,
       "score": 8.9,
       "label": null,
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "oneliner": "Compacte generator met iCare-stand en een zool die achteruit strijkt.",
       "specs": {
         "Type": "Stoomgenerator",
@@ -348,7 +348,7 @@
       "prev_price": 259.0,
       "prev_date": "2026-11-27",
       "ph_ean": "8021098001023",
-      "rating": 4.5
+      "rating": 4.6
     },
     {
       "brand": "Philips",
@@ -717,7 +717,7 @@
     {
       "brand": "Rowenta",
       "name": "Effective DX1635",
-      "price": 41.49,
+      "price": 41.39,
       "score": 7.9,
       "label": null,
       "reviews": "bol-score 3,9 van 5",
@@ -790,11 +790,11 @@
         "2026-11-25": 45.89,
         "2026-11-26": 48.89,
         "2026-11-27": 41.39,
-        "2026-11-28": 41.49
+        "2026-11-28": 41.39
       },
       "low_price": 35.86,
-      "prev_price": 41.39,
-      "prev_date": "2026-11-27",
+      "prev_price": 41.49,
+      "prev_date": "2026-11-28",
       "ph_ean": "4210101969304",
       "rating": 3.9
     }

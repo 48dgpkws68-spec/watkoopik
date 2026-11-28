@@ -24,7 +24,7 @@
     {
       "brand": "tado",
       "name": "Slimme Radiatorknop X Starterskit",
-      "price": 91.05,
+      "price": 99.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,3 van 5",
@@ -81,12 +81,12 @@
         "2026-11-25": 89.9,
         "2026-11-26": 99.0,
         "2026-11-27": 99.0,
-        "2026-11-28": 91.05
+        "2026-11-28": 99.0
       },
       "low_price": 89.9,
       "synced": "2026-11-28",
-      "prev_price": 99.0,
-      "prev_date": "2026-11-27",
+      "prev_price": 91.05,
+      "prev_date": "2026-11-28",
       "ph_ean": "4260328612118",
       "rating": 4.3
     },
