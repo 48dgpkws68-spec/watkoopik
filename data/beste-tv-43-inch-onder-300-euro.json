@@ -142,7 +142,7 @@
         "HDR": "Dolby Vision, HDR10+",
         "HDMI": "3x HDMI 2.1, eARC",
         "Smart-tv": "VIDAA",
-        "Stroomverbruik (SDR)": "klasse E (EU-label)"
+        "Stroomverbruik (SDR)": "42 W · klasse E (EU-label)"
       },
       "pros": [
         "QLED met Dolby Vision én HDR10+",
@@ -567,6 +567,10 @@
     }
   ],
   "changelog": [
+    {
+      "d": "2026-11-28",
+      "t": "Bij de Hisense 43E7S staat nu het stroomverbruik uit het Europese productregister EPREL: 42 W in SDR, klasse E. De Hisense 43A7Q en de 43E7S kosten bij bol nog 299 euro."
+    },
     {
       "d": "2026-11-28",
       "t": "De TCL 43S51K kost bij bol nu 356,16 euro en staat daarmee boven de grens van 300 euro. Hij is uit de lijst gehaald. Nieuw op 3 staat de Hisense 43E7S uit 2026: 4K QLED met Dolby Vision en HDR10+ voor 299 euro. De Hisense 43A6S en de CHiQ U43QST schuiven een plek op naar 4 en 5. Rechtgezet: de Philips 43PUS7001 kost bij bol 279 euro (er stond 299)."

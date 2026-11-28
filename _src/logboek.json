@@ -2436,9 +2436,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-28",
+    "t": "vervangen",
+    "uit": "TCL 43S51K",
+    "in": "Philips 43PUS7001/12",
+    "plek": 3,
+    "paar": true,
+    "waarom": "kwam boven de prijsgrens van deze gids",
+    "bron": "data"
    }
   ],
-  "_tot": "819b19a9728b41088fa3e146217a399fc38c4f6a",
+  "_tot": "fe6e1211df87c8a8413f4316d09961529985989b",
   "_ps": [
    {
     "brand": "Hisense",
@@ -2451,9 +2461,9 @@
     "ean": "8592344206092"
    },
    {
-    "brand": "TCL",
-    "name": "43S51K",
-    "ean": "5901292527075"
+    "brand": "Philips",
+    "name": "43PUS7001/12",
+    "ean": "8718863051603"
    },
    {
     "brand": "CHiQ",
@@ -2515,7 +2525,7 @@
     "paar": true
    }
   ],
-  "_tot": "819b19a9728b41088fa3e146217a399fc38c4f6a",
+  "_tot": "fe6e1211df87c8a8413f4316d09961529985989b",
   "_ps": [
    {
     "brand": "Royal Christmas",
@@ -2640,7 +2650,7 @@
     "paar": true
    }
   ],
-  "_tot": "819b19a9728b41088fa3e146217a399fc38c4f6a",
+  "_tot": "fe6e1211df87c8a8413f4316d09961529985989b",
   "_ps": [
    {
     "brand": "Triumph Tree",
