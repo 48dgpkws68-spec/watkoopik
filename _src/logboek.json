@@ -2276,9 +2276,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-28",
+    "t": "vervangen",
+    "uit": "TCL 43S51K",
+    "in": "TCL 43P79L",
+    "plek": 10,
+    "paar": true,
+    "waarom": "prijs bij bol steeg naar 356 euro voor Full HD terwijl dit 4K model van TCL 329 euro kost",
+    "bron": "data"
    }
   ],
-  "_tot": "4b770ea9bc86253cdae03ff3798549d271166f55",
+  "_tot": "83617a0edd8b733d49755a79a9b7cf5c849e3f72",
   "_ps": [
    {
     "brand": "Hisense",
@@ -2327,8 +2337,8 @@
    },
    {
     "brand": "TCL",
-    "name": "43S51K",
-    "ean": "5901292527075"
+    "name": "43P79L",
+    "ean": "5901292531379"
    }
   ]
  },
@@ -2448,7 +2458,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "fe6e1211df87c8a8413f4316d09961529985989b",
+  "_tot": "83617a0edd8b733d49755a79a9b7cf5c849e3f72",
   "_ps": [
    {
     "brand": "Hisense",
@@ -2650,7 +2660,7 @@
     "paar": true
    }
   ],
-  "_tot": "fe6e1211df87c8a8413f4316d09961529985989b",
+  "_tot": "83617a0edd8b733d49755a79a9b7cf5c849e3f72",
   "_ps": [
    {
     "brand": "Triumph Tree",
@@ -2882,7 +2892,7 @@
     "naar": "Honor 400 5G 8/256GB"
    }
   ],
-  "_tot": "819b19a9728b41088fa3e146217a399fc38c4f6a",
+  "_tot": "83617a0edd8b733d49755a79a9b7cf5c849e3f72",
   "_ps": [
    {
     "brand": "Honor",
