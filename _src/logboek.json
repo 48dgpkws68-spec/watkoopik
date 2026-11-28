@@ -107,7 +107,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "4fba02142ec94caec46ba2e7bfd5d84e039a8c27",
+  "_tot": "22c5d55ebf2c2ce76b8088c3665a19b92fb757d7",
   "_ps": [
    {
     "brand": "LG",
@@ -269,14 +269,44 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol, de QN83H is het zustermodel dat bol nu wel levert",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "LG C5 OLED65C56LB",
+    "in": "LG C6 OLED65C64LA",
+    "plek": 1,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol, de C6 is de opvolger van hetzelfde model",
+    "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "Philips 65OLED850/12",
+    "in": "Philips 65OLED810/12",
+    "plek": 3,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol, de 65OLED810 is het zustermodel dat bol wel levert",
+    "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "Sony Bravia 5 65 inch",
+    "in": "Sony BRAVIA 3 II 65 inch",
+    "plek": 4,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "22c5d55ebf2c2ce76b8088c3665a19b92fb757d7",
   "_ps": [
    {
     "brand": "LG",
-    "name": "C5 OLED65C56LB",
-    "ean": "8806096363430"
+    "name": "C6 OLED65C64LA",
+    "ean": "8806096685983"
    },
    {
     "brand": "Samsung",
@@ -285,13 +315,13 @@
    },
    {
     "brand": "Philips",
-    "name": "65OLED850/12",
-    "ean": "8718863046715"
+    "name": "65OLED810/12",
+    "ean": "8718863046692"
    },
    {
     "brand": "Sony",
-    "name": "Bravia 5 65 inch",
-    "ean": "4548736171350"
+    "name": "BRAVIA 3 II 65 inch",
+    "ean": "4548736177680"
    },
    {
     "brand": "Hisense",
@@ -417,9 +447,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "Samsung UE75U7090H",
+    "in": "Philips 75PQS7801/12",
+    "plek": 10,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "22c5d55ebf2c2ce76b8088c3665a19b92fb757d7",
   "_ps": [
    {
     "brand": "Hisense",
@@ -443,8 +483,8 @@
    },
    {
     "brand": "Xiaomi",
-    "name": "TV S Pro Mini LED 2026 75 inch",
-    "ean": "6941948707771"
+    "name": "TV S Mini LED 2026 75 inch",
+    "ean": "6941948709300"
    },
    {
     "brand": "LG",
@@ -467,9 +507,9 @@
     "ean": "6941948705043"
    },
    {
-    "brand": "Samsung",
-    "name": "UE75U7090H",
-    "ean": "8806099133924"
+    "brand": "Philips",
+    "name": "75PQS7801/12",
+    "ean": "8718863051696"
    }
   ]
  },
@@ -605,7 +645,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "22c5d55ebf2c2ce76b8088c3665a19b92fb757d7",
   "_ps": [
    {
     "brand": "LG",
@@ -833,9 +873,19 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "Philips 65OLED850/12",
+    "in": "Philips 65OLED810/12",
+    "plek": 4,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol, de 65OLED810 is het zustermodel dat bol wel levert",
+    "bron": "data"
    }
   ],
-  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
+  "_tot": "22c5d55ebf2c2ce76b8088c3665a19b92fb757d7",
   "_ps": [
    {
     "brand": "Philips",
@@ -854,8 +904,8 @@
    },
    {
     "brand": "Philips",
-    "name": "65OLED850/12",
-    "ean": "8718863046715"
+    "name": "65OLED810/12",
+    "ean": "8718863046692"
    },
    {
     "brand": "Philips",
@@ -1078,14 +1128,24 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "LG OLED65C5",
+    "in": "LG OLED55C5",
+    "plek": 1,
+    "paar": true,
+    "waarom": "65 inch niet meer leverbaar bij bol, de 55 inch van hetzelfde model wel",
+    "bron": "data"
    }
   ],
-  "_tot": "4fba02142ec94caec46ba2e7bfd5d84e039a8c27",
+  "_tot": "22c5d55ebf2c2ce76b8088c3665a19b92fb757d7",
   "_ps": [
    {
     "brand": "LG",
-    "name": "OLED65C5",
-    "ean": "8806096363430"
+    "name": "OLED55C5",
+    "ean": "8806096361924"
    },
    {
     "brand": "LG",
@@ -1247,9 +1307,25 @@
     "paar": true,
     "waarom": "niet meer leverbaar bij bol",
     "bron": "data"
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "TCL 50Q6C",
+    "in": "Philips Ambilight 50PQS8601/12",
+    "plek": 3,
+    "paar": false
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "Philips Ambilight 50PUS9000/12",
+    "in": "CHiQ U50QST",
+    "plek": 9,
+    "paar": false
    }
   ],
-  "_tot": "6bccdf865dd6c087b8780a4df78daced98a0db79",
+  "_tot": "22c5d55ebf2c2ce76b8088c3665a19b92fb757d7",
   "_ps": [
    {
     "brand": "Hisense",
@@ -1257,14 +1333,14 @@
     "ean": "6942351434391"
    },
    {
-    "brand": "TCL",
-    "name": "50Q6C",
-    "ean": "5901292528751"
+    "brand": "Hisense",
+    "name": "50E7S PRO",
+    "ean": "6942351432977"
    },
    {
     "brand": "Philips",
-    "name": "Ambilight 50PUS9000/12",
-    "ean": "8718863046074"
+    "name": "Ambilight 50PQS8601/12",
+    "ean": "8718863052754"
    },
    {
     "brand": "Samsung",
@@ -1275,11 +1351,6 @@
     "brand": "LG",
     "name": "50QNED86A6C",
     "ean": "8806096396520"
-   },
-   {
-    "brand": "Hisense",
-    "name": "50E7S PRO",
-    "ean": "6942351432977"
    },
    {
     "brand": "Hisense",
@@ -1295,6 +1366,11 @@
     "brand": "TCL",
     "name": "50P61K",
     "ean": "5901292528683"
+   },
+   {
+    "brand": "CHiQ",
+    "name": "U50QST",
+    "ean": "8592344206108"
    },
    {
     "brand": "Samsung",
@@ -1475,7 +1551,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "22c5d55ebf2c2ce76b8088c3665a19b92fb757d7",
   "_ps": [
    {
     "brand": "Lenovo",
@@ -1968,7 +2044,7 @@
     "bron": "data"
    }
   ],
-  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
+  "_tot": "22c5d55ebf2c2ce76b8088c3665a19b92fb757d7",
   "_ps": [
    {
     "brand": "LG",
@@ -2059,9 +2135,19 @@
     "in": "Hisense 5S Serie DH5S102BB",
     "plek": 2,
     "paar": true
+   },
+   {
+    "d": "2026-11-27",
+    "t": "vervangen",
+    "uit": "Hisense 3S Serie DH3S802BW2",
+    "in": "Hisense 3S Serie DH3S902BWCC",
+    "plek": 10,
+    "paar": true,
+    "waarom": "niet meer leverbaar bij bol",
+    "bron": "data"
    }
   ],
-  "_tot": "e25c779fe89cd47d5314c922d47dc8f72667d7af",
+  "_tot": "22c5d55ebf2c2ce76b8088c3665a19b92fb757d7",
   "_ps": [
    {
     "brand": "Samsung",
@@ -2110,8 +2196,8 @@
    },
    {
     "brand": "Hisense",
-    "name": "3S Serie DH3S802BW2",
-    "ean": "6901101829634"
+    "name": "3S Serie DH3S902BWCC",
+    "ean": "6901101834690"
    }
   ]
  },
@@ -2487,7 +2573,7 @@
   "start": "2026-11-06",
   "n": 10,
   "events": [],
-  "_tot": "9416d27206af77c7e05d595bfa2e14c7f9950cc5",
+  "_tot": "22c5d55ebf2c2ce76b8088c3665a19b92fb757d7",
   "_ps": [
    {
     "brand": "Everlands",

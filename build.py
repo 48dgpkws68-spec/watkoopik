@@ -293,6 +293,14 @@ def own_pos(g, plek):
 def chk_date(p, g):
     """Datum van de laatste prijscontrole: synced uit bol_sync, anders de gidsdatum."""
     return nldate(p.get("synced") or g.get("updated", TODAY.isoformat()))
+# N60 (hefboom S20, 28 nov 2026): productnamen in het korte antwoord als bol-tekstlink (nr. 1 en de goedkoopste), Umami-plek "kort".
+# Met False is de uitvoer gelijk aan voorheen (terugdraaien = False).
+KORT_LINK_AAN = True  # aan sinds 28 nov 2026 (experiment E56)
+def kort_a(p, g, naam):
+    """Tekstlink in de zin (geen knop): zelfde partnerlink en bol-klik-event als shop_a, zonder A/B-variant (plek staat niet in AB_PLEKKEN)."""
+    if not KORT_LINK_AAN: return naam
+    return '<a href="%s" style="color:inherit;text-decoration:underline;text-underline-offset:2px" rel="sponsored nofollow noopener" target="_blank" data-umami-event="bol-klik" data-umami-event-gids="%s" data-umami-event-product="%s" data-umami-event-positie="%s" data-umami-event-plek="kort" data-umami-event-tekst="naam">%s</a>' % (
+        shop_link(p), g["slug"], e("%s %s" % (p["brand"], p["name"])), p.get("rank", ""), naam)
 def kort_antwoord(g, ps):
     """23 nov 2026 (ChatGPT-plan): het antwoord in de eerste 200 tekens onder de H1: nr. 1, beste prijs-kwaliteit en goedkoopste, met prijs en controledatum."""
     ok = [p for p in ps if p.get("price")]
@@ -302,10 +310,10 @@ def kort_antwoord(g, ps):
     lo = min(ok, key=lambda p: p["price"])
     d = nldate(max((p.get("synced") or g.get("updated", TODAY.isoformat())) for p in ok))
     nm = lambda p: "%s %s" % (p["brand"], p["name"])
-    s = "Kort antwoord (prijzen gecontroleerd op %s): de beste keuze is de <b>%s</b> voor %s bij bol." % (e(d), e(nm(top)), eur(top["price"]))
+    s = "Kort antwoord (prijzen gecontroleerd op %s): de beste keuze is de <b>%s</b> voor %s bij bol." % (e(d), kort_a(top, g, e(nm(top))), eur(top["price"]))
     if g.get("kort_reden"): s += " " + e(g["kort_reden"])  # 25 nov 2026 (N54): optionele reden voor nr. 1
     if bv and bv is not lo: s += " Beste prijs-kwaliteit: %s voor %s." % (e(nm(bv)), eur(bv["price"]))
-    if lo is not top: s += " Goedkoopste in deze top %d: %s voor %s." % (len(ps), e(nm(lo)), eur(lo["price"]))
+    if lo is not top: s += " Goedkoopste in deze top %d: %s voor %s." % (len(ps), kort_a(lo, g, e(nm(lo))), eur(lo["price"]))
     return '<p class="kort">%s</p>' % s
 
 def chk_html(p, g, short=False):
@@ -1047,7 +1055,7 @@ for k, v in CATS.items():
 # A/B-test C4 (groeimotor, 7 nov 2026): upgrade-tip onder de kaart van nr. 1 naar het premiummodel (hogere orderwaarde).
 # Verdeling los van C1 (md5 van "c4:" + slug even = tip), alleen als premium minstens 30% duurder is dan nr. 1.
 def c4_variant(slug):
-    return "tip" if int(hashlib.md5(("c4:" + slug).encode()).hexdigest(), 16) % 2 == 0 else "controle"
+    return "controle"  # E20 verloren (28 nov 2026): 0 upgrade-kliks op 380 weergaven, tip-gidsen 10% minder bol-kliks. Tip staat uit.
 def upgrade_tip(g):
     ps = g["products"]; top = ps[0]
     pr = next((p for p in ps[1:] if p.get("label") == "Beste premium"), None)
