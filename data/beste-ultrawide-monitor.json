@@ -21,7 +21,7 @@
     {
       "brand": "Dell",
       "name": "UltraSharp U3425WE",
-      "price": 809.0,
+      "price": 764.25,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -49,7 +49,7 @@
       "bol_title": "Dell UltraSharp U3425WE - Curved Ultrawide Monitor - 120 Hz - Thunderbolt 4 - Usb-Hub - 34 inch",
       "url": "https://www.bol.com/nl/nl/p/dell-ultrasharp-u3425we-led-monitor-gebogen-34-3440-x-1440-uwqhd-120-hz-ips-300-cdm-2000-1-5-ms-thunderbolt-4-hdmi-displayport-luidsprekers/9300000174724572/",
       "image": "https://media.s-bol.com/JrOM8nNlzo9o/ADn9JJO/550x315.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 769.0,
         "2026-10-24": 778.95,
@@ -85,11 +85,12 @@
         "2026-11-24": 769.0,
         "2026-11-25": 786.7,
         "2026-11-26": 772.81,
-        "2026-11-27": 809.0
+        "2026-11-27": 809.0,
+        "2026-11-28": 764.25
       },
       "low_price": 761.33,
-      "prev_price": 772.81,
-      "prev_date": "2026-11-26",
+      "prev_price": 809.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "5397184821503",
       "rating": 4.7
     },
@@ -125,7 +126,7 @@
       "bol_title": "Samsung Odyssey G5 LC34G55TWWPXEN - QHD Ultrawide Curved Gaming Monitor - 165Hz - 34 Inch",
       "url": "https://www.bol.com/nl/nl/p/samsung-g5-c34g55twwu-qhd-va-curved-ultrawide-165hz-gaming-monitor-34-inch/9300000018877944/",
       "image": "https://media.s-bol.com/8rQWZgv7yNx5/AnLBQgP/550x319.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 248.95,
         "2026-10-16": 248.95,
@@ -168,7 +169,8 @@
         "2026-11-24": 229.95,
         "2026-11-25": 229.0,
         "2026-11-26": 219.95,
-        "2026-11-27": 226.0
+        "2026-11-27": 226.0,
+        "2026-11-28": 226.0
       },
       "low_price": 219.95,
       "prev_price": 219.95,
@@ -208,7 +210,7 @@
       "bol_title": "Samsung Odyssey OLED G9 LS49DG912SUXEN - DQHD OLED Ultrawide Curved Gaming Monitor - 144Hz - 49 Inch",
       "url": "https://www.bol.com/nl/nl/p/samsung-odyssey-oled-g9-ls49dg912suxen-dual-qhd-monitor-144hz-49-inch/9300000198755960/",
       "image": "https://media.s-bol.com/3qnk7nkjVzyx/YEn4mXp/550x244.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 836.0,
         "2026-10-24": 836.0,
@@ -244,7 +246,8 @@
         "2026-11-24": 799.0,
         "2026-11-25": 749.0,
         "2026-11-26": 749.0,
-        "2026-11-27": 749.0
+        "2026-11-27": 749.0,
+        "2026-11-28": 749.0
       },
       "low_price": 749.0,
       "prev_price": 799.0,
@@ -255,7 +258,7 @@
     {
       "brand": "MSI",
       "name": "MPG 341CQPX QD-OLED",
-      "price": 649.0,
+      "price": 599.0,
       "score": 9.0,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -298,13 +301,14 @@
         "2026-11-24": 668.2,
         "2026-11-25": 668.2,
         "2026-11-26": 649.0,
-        "2026-11-27": 649.0
+        "2026-11-27": 649.0,
+        "2026-11-28": 599.0
       },
-      "low_price": 649.0,
+      "low_price": 599.0,
       "ph_ean": "4711377191302",
-      "synced": "2026-11-27",
-      "prev_price": 668.2,
-      "prev_date": "2026-11-25",
+      "synced": "2026-11-28",
+      "prev_price": 649.0,
+      "prev_date": "2026-11-27",
       "rating": 4.7
     },
     {
@@ -338,7 +342,7 @@
       "bol_title": "LG UltraGear 34GX900A-B - Curved QHD OLED Gaming Monitor - 240Hz - USB-C 65W - 34 Inch",
       "url": "https://www.bol.com/nl/nl/p/lg-34gx900a-b-wqhd-oled-curved-240hz-0-03ms-displayhdr-true-black-400-usb-c-65w-hdmi-2-1-34-inch/9300000233141183/",
       "image": "https://media.s-bol.com/xKxBwlyqMEol/WPpvAjW/550x412.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 799.0,
         "2026-10-24": 799.0,
@@ -374,7 +378,8 @@
         "2026-11-24": 689.95,
         "2026-11-25": 699.0,
         "2026-11-26": 649.0,
-        "2026-11-27": 649.0
+        "2026-11-27": 649.0,
+        "2026-11-28": 649.0
       },
       "low_price": 649.0,
       "prev_price": 699.0,
@@ -413,7 +418,7 @@
       "bol_title": "Philips 34E1C5600HE - QHD Curved Ultrawide Monitor - Webcam - Windows Hello - USB-C 65w - USB hub - 34 inch",
       "url": "https://www.bol.com/nl/nl/p/philips-34e1c5600he-qhd-ultrawide-monitor-webcam-usb-c-34-inch/9300000109295146/",
       "image": "https://media.s-bol.com/3A2kOlAq9l6Q/1jRvQ8P/550x327.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 299.0,
         "2026-10-24": 299.0,
@@ -449,7 +454,8 @@
         "2026-11-24": 338.0,
         "2026-11-25": 336.0,
         "2026-11-26": 336.0,
-        "2026-11-27": 336.0
+        "2026-11-27": 336.0,
+        "2026-11-28": 336.0
       },
       "low_price": 279.31,
       "prev_price": 338.0,
@@ -488,7 +494,7 @@
       "bol_title": "Dell Pro Plus P3425WE - Curved Ultrawide USB-C Docking Monitor - 90w - RJ45 - EPEAT Climate+ - 34 inch",
       "url": "https://www.bol.com/nl/nl/p/dell-pro-plus-p3425we-curved-ultrawide-usb-c-docking-monitor-90w-rj45-epeat-climate-34-inch/9300000227898301/",
       "image": "https://media.s-bol.com/L4JOz0BmyRWA/gL1PDy6/550x308.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 461.0,
         "2026-10-24": 458.95,
@@ -524,7 +530,8 @@
         "2026-11-24": 449.0,
         "2026-11-25": 440.16,
         "2026-11-26": 440.16,
-        "2026-11-27": 441.89
+        "2026-11-27": 441.89,
+        "2026-11-28": 441.89
       },
       "low_price": 437.77,
       "prev_price": 440.16,
@@ -564,7 +571,7 @@
       "bol_title": "AOC G4 CU34G4 - WQHD Curved Ultrawide Gaming Monitor - 180hz - 34 inch",
       "url": "https://www.bol.com/nl/nl/p/aoc-g4-cu34g4-computer-monitor-86-4-cm-3440-x-1440-pixels-wide-quad-hd-led-zwart-rood/9300000227611827/",
       "image": "https://media.s-bol.com/XEX922X7zjBl/jqLMYR4/550x387.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 219.0,
         "2026-10-24": 219.0,
@@ -600,7 +607,8 @@
         "2026-11-24": 199.0,
         "2026-11-25": 199.0,
         "2026-11-26": 199.0,
-        "2026-11-27": 199.0
+        "2026-11-27": 199.0,
+        "2026-11-28": 199.0
       },
       "low_price": 199.0,
       "prev_price": 249.0,
@@ -611,7 +619,7 @@
     {
       "brand": "LG",
       "name": "UltraWide 34U64XB-B",
-      "price": 279.0,
+      "price": 239.0,
       "score": 8.3,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -655,16 +663,19 @@
         "2026-11-24": 279.0,
         "2026-11-25": 279.0,
         "2026-11-26": 279.0,
-        "2026-11-27": 279.0
+        "2026-11-27": 279.0,
+        "2026-11-28": 239.0
       },
-      "low_price": 279.0,
-      "synced": "2026-11-27",
-      "rating": 4.3
+      "low_price": 239.0,
+      "synced": "2026-11-28",
+      "rating": 4.3,
+      "prev_price": 279.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "ASUS",
       "name": "TUF Gaming VG34VQ3B",
-      "price": 279.0,
+      "price": 259.0,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -693,7 +704,7 @@
       "bol_title": "ASUS TUF Gaming VG34VQ3B - WQHD Ultrawide Gaming Monitor - 180Hz - FreeSync Premium - USB Hub - 34 Inch",
       "url": "https://www.bol.com/nl/nl/p/asus-90lm0aa0-b01170/9300000181353240/",
       "image": "https://media.s-bol.com/m95N8P6OnOKG/xk7yxNP/550x309.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 299.0,
         "2026-10-24": 271.65,
@@ -729,11 +740,12 @@
         "2026-11-24": 279.0,
         "2026-11-25": 279.0,
         "2026-11-26": 279.0,
-        "2026-11-27": 279.0
+        "2026-11-27": 279.0,
+        "2026-11-28": 259.0
       },
-      "low_price": 271.43,
-      "prev_price": 289.95,
-      "prev_date": "2026-11-14",
+      "low_price": 259.0,
+      "prev_price": 279.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "4711387530092",
       "rating": 4.5
     }

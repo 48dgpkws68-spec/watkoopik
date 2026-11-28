@@ -56,16 +56,17 @@
       "image": "https://media.s-bol.com/rxgkOlMjBQ7p/wpz1y7M/550x343.jpg",
       "rating": 4.7,
       "ph": {
-        "2026-11-27": 999.0
+        "2026-11-27": 999.0,
+        "2026-11-28": 999.0
       },
       "low_price": 999.0,
       "ph_ean": "8806096361924",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Sony",
       "name": "BRAVIA 7 II 65 inch",
-      "price": 1999.0,
+      "price": 1899.0,
       "score": 9.2,
       "label": "Beste premium",
       "reviews": "",
@@ -94,7 +95,7 @@
       "ean": "4548736178335",
       "bol_title": "Sony BRAVIA 7 II - 65 inch - 4K RGB-LED TV - 2026 - Smart TV - True RGB",
       "url": "https://www.bol.com/nl/nl/p/sony-bravia-7-ii-65-inch-4k-rgb-miniled-2026-smart-tv/9300000301594038/",
-      "image": "https://media.s-bol.com/J3r7Epkz6Gw2/464lVG6/550x381.jpg",
+      "image": "https://media.s-bol.com/mrEYR7272Jvp/83ZzDj3/550x360.jpg",
       "ph": {
         "2026-11-08": 1999.0,
         "2026-11-09": 1999.0,
@@ -114,11 +115,14 @@
         "2026-11-24": 1999.0,
         "2026-11-25": 1999.0,
         "2026-11-26": 1999.0,
-        "2026-11-27": 1999.0
+        "2026-11-27": 1999.0,
+        "2026-11-28": 1899.0
       },
-      "low_price": 1999.0,
-      "synced": "2026-11-27",
-      "ph_ean": "4548736178335"
+      "low_price": 1899.0,
+      "synced": "2026-11-28",
+      "ph_ean": "4548736178335",
+      "prev_price": 1999.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Samsung",
@@ -171,10 +175,11 @@
         "2026-11-24": 1689.0,
         "2026-11-25": 1696.0,
         "2026-11-26": 1689.0,
-        "2026-11-27": 1689.0
+        "2026-11-27": 1689.0,
+        "2026-11-28": 1689.0
       },
       "low_price": 1579.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 1696.0,
       "prev_date": "2026-11-25",
       "ph_ean": "8806099124229"
@@ -182,7 +187,7 @@
     {
       "brand": "TCL",
       "name": "65Q7D Pro",
-      "price": 988.0,
+      "price": 929.0,
       "score": 9.0,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -229,19 +234,20 @@
         "2026-11-24": 988.0,
         "2026-11-25": 988.0,
         "2026-11-26": 988.0,
-        "2026-11-27": 988.0
+        "2026-11-27": 988.0,
+        "2026-11-28": 929.0
       },
-      "low_price": 988.0,
-      "synced": "2026-11-27",
+      "low_price": 929.0,
+      "synced": "2026-11-28",
       "ph_ean": "5901292531775",
       "rating": 5.0,
-      "prev_price": 999.0,
-      "prev_date": "2026-11-23"
+      "prev_price": 988.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Samsung",
       "name": "UE65M82H",
-      "price": 799.0,
+      "price": 789.0,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,5 van 5",
@@ -289,12 +295,13 @@
         "2026-11-24": 799.0,
         "2026-11-25": 799.0,
         "2026-11-26": 799.0,
-        "2026-11-27": 799.0
+        "2026-11-27": 799.0,
+        "2026-11-28": 789.0
       },
-      "low_price": 799.0,
-      "synced": "2026-11-27",
-      "prev_price": 815.0,
-      "prev_date": "2026-11-19",
+      "low_price": 789.0,
+      "synced": "2026-11-28",
+      "prev_price": 799.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "8806099134341",
       "rating": 4.5
     },
@@ -349,10 +356,11 @@
         "2026-11-24": 1049.0,
         "2026-11-25": 1049.0,
         "2026-11-26": 1049.0,
-        "2026-11-27": 1049.0
+        "2026-11-27": 1049.0,
+        "2026-11-28": 1049.0
       },
       "low_price": 1049.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "8806099129613"
     },
     {
@@ -406,10 +414,11 @@
         "2026-11-24": 946.0,
         "2026-11-25": 946.0,
         "2026-11-26": 946.0,
-        "2026-11-27": 946.0
+        "2026-11-27": 946.0,
+        "2026-11-28": 946.0
       },
       "low_price": 946.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 949.0,
       "prev_date": "2026-11-10",
       "ph_ean": "5901292531058",
@@ -466,10 +475,11 @@
         "2026-11-24": 899.0,
         "2026-11-25": 899.0,
         "2026-11-26": 899.0,
-        "2026-11-27": 899.0
+        "2026-11-27": 899.0,
+        "2026-11-28": 899.0
       },
       "low_price": 899.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "5901292531515",
       "rating": 4.7
     },
@@ -507,12 +517,13 @@
       "image": "https://media.s-bol.com/90P0oJA57yK8/z6Q6Y45/550x342.jpg",
       "ph": {
         "2026-11-26": 699.0,
-        "2026-11-27": 699.0
+        "2026-11-27": 699.0,
+        "2026-11-28": 699.0
       },
       "low_price": 699.0,
       "ph_ean": "5901292531065",
       "rating": 5.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Hisense",
@@ -520,7 +531,7 @@
       "price": 669.0,
       "score": 8.1,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Betaalbare 65 inch met native 144 Hz voor gamers.",
       "specs": {
         "Formaat": "65 inch",
@@ -541,7 +552,7 @@
         "Kijkhoek beperkt"
       ],
       "ideal": "Gamers die ook voetbal kijken en vooral op de prijs letten.",
-      "text": "De Hisense 65E7S PRO is de goedkoopste tv in deze lijst en vooral interessant als je naast voetbal kijken ook veel EA FC speelt. Hij draait native op 144 Hz met VRR en ALLM, met een input lag die in de spelmodus laag genoeg is voor online wedstrijden. Voor een 65 inch tv van rond de 670 euro is dat bijzonder.\n\nWat je inlevert ten opzichte van de Samsung UE65M82H is Mini LED. De E7S PRO heeft gewone verlichting met minder dimzones, dus het contrast is lager en de helderheid minder geschikt voor een zonnige kamer. Bij een avondwedstrijd met het licht gedimd zie je dat verschil minder. De sportmodus van Hisense maakt het veld levendig, al oogt de beweging bij snelle camerapans iets onrustiger dan bij duurdere modellen. Kopers op bol geven hem 4,6 van 5. Kun je ruim 100 euro meer missen, dan is de UE65M82H de betere keuze.",
+      "text": "De Hisense 65E7S PRO is de goedkoopste tv in deze lijst en vooral interessant als je naast voetbal kijken ook veel EA FC speelt. Hij draait native op 144 Hz met VRR en ALLM, met een input lag die in de spelmodus laag genoeg is voor online wedstrijden. Voor een 65 inch tv van rond de 670 euro is dat bijzonder.\n\nWat je inlevert ten opzichte van de Samsung UE65M82H is Mini LED. De E7S PRO heeft gewone verlichting met minder dimzones, dus het contrast is lager en de helderheid minder geschikt voor een zonnige kamer. Bij een avondwedstrijd met het licht gedimd zie je dat verschil minder. De sportmodus van Hisense maakt het veld levendig, al oogt de beweging bij snelle camerapans iets onrustiger dan bij duurdere modellen. Kopers op bol geven hem 4,7 van 5. Kun je ruim 100 euro meer missen, dan is de UE65M82H de betere keuze.",
       "ean": "6942351432595",
       "bol_title": "Hisense 65E7S PRO SmartTV - 65 inch - 4K Hi-QLED - 2026 - Native 144Hz Game Mode - Hi-QLED Colour - Built-in Subwoofer - AI Picture - AI Smooth Motion - AMD FreeSync Premium - Dolby Vision Atmos",
       "url": "https://www.bol.com/nl/nl/p/hisense-65e7s-pro-smarttv-65-inch-4k-hi-qled-2026-native-144hz-game-mode-hi-qled-colour-built-in-subwoofer-ai-picture-ai-smooth-motion-amd-freesync-premium-dolby-vision-atmos/9300000269685075/",
@@ -565,12 +576,13 @@
         "2026-11-24": 669.0,
         "2026-11-25": 669.0,
         "2026-11-26": 669.0,
-        "2026-11-27": 669.0
+        "2026-11-27": 669.0,
+        "2026-11-28": 669.0
       },
       "low_price": 669.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "6942351432595",
-      "rating": 4.6
+      "rating": 4.7
     }
   ],
   "guide": [

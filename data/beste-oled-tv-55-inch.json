@@ -67,12 +67,13 @@
       "image": "https://media.s-bol.com/rxgkOlMjBQ7p/wpz1y7M/550x343.jpg",
       "ph": {
         "2026-11-26": 999.0,
-        "2026-11-27": 999.0
+        "2026-11-27": 999.0,
+        "2026-11-28": 999.0
       },
       "low_price": 999.0,
       "ph_ean": "8806096361924",
       "rating": 4.7,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "LG",
@@ -108,17 +109,18 @@
       "image": "https://media.s-bol.com/oryjWjxALw2k/jRjPLg4/550x349.jpg",
       "ph": {
         "2026-11-26": 799.0,
-        "2026-11-27": 799.0
+        "2026-11-27": 799.0,
+        "2026-11-28": 799.0
       },
       "low_price": 799.0,
       "ph_ean": "8806096360576",
       "rating": 5.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "LG",
       "name": "G5 OLED55G56LS",
-      "price": 1349.0,
+      "price": 1298.0,
       "score": 9.0,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -149,17 +151,20 @@
       "image": "https://media.s-bol.com/mpyYWq6Dwyz9/kRkPDjv/550x341.jpg",
       "ph": {
         "2026-11-26": 1349.0,
-        "2026-11-27": 1349.0
+        "2026-11-27": 1349.0,
+        "2026-11-28": 1298.0
       },
-      "low_price": 1349.0,
+      "low_price": 1298.0,
       "ph_ean": "8806096363683",
       "rating": 4.7,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 1349.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Samsung",
       "name": "QE55S95H",
-      "price": 1489.0,
+      "price": 1479.0,
       "score": 8.9,
       "label": "Beste premium",
       "reviews": "bol-score 4,5 van 5",
@@ -190,14 +195,15 @@
       "image": "https://media.s-bol.com/qv8gzxxjxy42/Oyqq1Mg/550x487.jpg",
       "ph": {
         "2026-11-26": 1549.0,
-        "2026-11-27": 1489.0
+        "2026-11-27": 1489.0,
+        "2026-11-28": 1479.0
       },
-      "low_price": 1489.0,
+      "low_price": 1479.0,
       "ph_ean": "8806099136109",
       "rating": 4.5,
-      "synced": "2026-11-27",
-      "prev_price": 1549.0,
-      "prev_date": "2026-11-26"
+      "synced": "2026-11-28",
+      "prev_price": 1489.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "LG",
@@ -233,11 +239,12 @@
       "image": "https://media.s-bol.com/ggWpV63yoBD3/XolWmBm/550x316.jpg",
       "ph": {
         "2026-11-26": 1199.0,
-        "2026-11-27": 1099.0
+        "2026-11-27": 1099.0,
+        "2026-11-28": 1099.0
       },
       "low_price": 1099.0,
       "ph_ean": "8806096685815",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 1199.0,
       "prev_date": "2026-11-26",
       "rating": 4.0
@@ -273,20 +280,21 @@
       "ean": "4548736182851",
       "bol_title": "Sony Bravia 6 - 55 inch - 4K OLED - 2026 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/sony-bravia-6-55-inch-4k-oled-2026-smart-tv/9300000360795475/",
-      "image": "https://media.s-bol.com/3LPKEPrGkEBO/A6ABKMj/550x367.jpg",
+      "image": "https://media.s-bol.com/BknrKpDQggKx/79ZyB5B/550x342.jpg",
       "ph": {
         "2026-11-26": 1199.0,
-        "2026-11-27": 1199.0
+        "2026-11-27": 1199.0,
+        "2026-11-28": 1199.0
       },
       "low_price": 1199.0,
       "ph_ean": "4548736182851",
       "rating": 5.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Philips",
       "name": "Ambilight 55OLED911",
-      "price": 1599.0,
+      "price": 1679.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -317,19 +325,20 @@
       "image": "https://media.s-bol.com/477vvBQ0Lyy1/l5ojEw7/550x250.jpg",
       "ph": {
         "2026-11-26": 1699.0,
-        "2026-11-27": 1599.0
+        "2026-11-27": 1599.0,
+        "2026-11-28": 1679.0
       },
       "low_price": 1599.0,
       "ph_ean": "8718863052075",
       "rating": 5.0,
-      "synced": "2026-11-27",
-      "prev_price": 1699.0,
-      "prev_date": "2026-11-26"
+      "synced": "2026-11-28",
+      "prev_price": 1599.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "LG",
       "name": "G6 OLED55G69LS",
-      "price": 1599.0,
+      "price": 1529.0,
       "score": 8.5,
       "label": null,
       "reviews": "bol-score 4,0 van 5",
@@ -360,17 +369,20 @@
       "image": "https://media.s-bol.com/Jml498ppZNAP/591387A/550x315.jpg",
       "ph": {
         "2026-11-26": 1599.0,
-        "2026-11-27": 1599.0
+        "2026-11-27": 1599.0,
+        "2026-11-28": 1529.0
       },
-      "low_price": 1599.0,
+      "low_price": 1529.0,
       "ph_ean": "8806096685952",
       "rating": 4.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 1599.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Philips",
       "name": "Ambilight 55OLED801/12",
-      "price": 1099.0,
+      "price": 999.0,
       "score": 8.3,
       "label": null,
       "reviews": "",
@@ -401,16 +413,19 @@
       "image": "https://media.s-bol.com/nKpoODW65DX4/OMxmmXB/550x339.jpg",
       "ph": {
         "2026-11-26": 1099.0,
-        "2026-11-27": 1099.0
+        "2026-11-27": 1099.0,
+        "2026-11-28": 999.0
       },
-      "low_price": 1099.0,
+      "low_price": 999.0,
       "ph_ean": "8718863056172",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 1099.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Samsung",
       "name": "QE55S83H",
-      "price": 849.0,
+      "price": 899.0,
       "score": 8.1,
       "label": null,
       "reviews": "",
@@ -441,13 +456,14 @@
       "image": "https://media.s-bol.com/gmyLx9NvqOB9/36jBYRx/550x347.jpg",
       "ph": {
         "2026-11-26": 899.0,
-        "2026-11-27": 849.0
+        "2026-11-27": 849.0,
+        "2026-11-28": 899.0
       },
       "low_price": 849.0,
       "ph_ean": "8806097979609",
-      "synced": "2026-11-27",
-      "prev_price": 899.0,
-      "prev_date": "2026-11-26"
+      "synced": "2026-11-28",
+      "prev_price": 849.0,
+      "prev_date": "2026-11-27"
     }
   ],
   "guide": [

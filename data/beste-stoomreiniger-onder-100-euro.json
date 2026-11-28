@@ -64,11 +64,12 @@
       "url": "https://www.bol.com/nl/nl/p/leifheit-cleantenso-power-stoomreiniger-wit-gebruiksduur-50-min-xxl-watertank/9300000113111651/",
       "image": "https://media.s-bol.com/mNKvmPK8EgXG/jRBr6W/291x840.jpg",
       "ph": {
-        "2026-11-27": 86.95
+        "2026-11-27": 86.95,
+        "2026-11-28": 86.95
       },
       "low_price": 86.95,
       "ph_ean": "4006501119407",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Vileda",
@@ -104,11 +105,12 @@
       "url": "https://www.bol.com/nl/nl/p/vileda-steam-stoomreiniger-snoerlengte-6-m/9300000083267281/",
       "image": "https://media.s-bol.com/Y9ylDrM2Y19Y/xklmoQJ/279x840.jpg",
       "ph": {
-        "2026-11-27": 59.59
+        "2026-11-27": 59.59,
+        "2026-11-28": 59.59
       },
       "low_price": 59.59,
       "ph_ean": "4023103181267",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Techweise",
@@ -143,11 +145,12 @@
       "url": "https://www.bol.com/nl/nl/p/techweise-16-in-1-stoomreiniger-45-minuten-lang-stomen-4-bar-tapijtreiniger-reinigingsmachine-vlekkenreiniger/9300000170938736/",
       "image": "https://media.s-bol.com/7G2VKPqQ8jAG/WnYlWJo/550x506.jpg",
       "ph": {
-        "2026-11-27": 79.95
+        "2026-11-27": 79.95,
+        "2026-11-28": 79.95
       },
       "low_price": 79.95,
       "ph_ean": "8721008952079",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Kymo",
@@ -183,11 +186,12 @@
       "url": "https://www.bol.com/nl/nl/p/kymo-stoommop-stoomreiniger-vloer-geschikt-voor-alle-vloeren-stoomdweil-vloerreiniger-elektrische-dweil-handstoomreiniger-handstomer/9300000190089791/",
       "image": "https://media.s-bol.com/mvjgwOZqx5vG/6WGvVEL/550x594.jpg",
       "ph": {
-        "2026-11-27": 79.95
+        "2026-11-27": 79.95,
+        "2026-11-28": 79.95
       },
       "low_price": 79.95,
       "ph_ean": "8720892148391",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Vileda",
@@ -223,16 +227,17 @@
       "url": "https://www.bol.com/nl/nl/p/vileda-steam-plus-stoomreiniger/9300000061960429/",
       "image": "https://media.s-bol.com/B4WQJBJnKXlJ/lxl9mYg/550x562.jpg",
       "ph": {
-        "2026-11-27": 68.0
+        "2026-11-27": 68.0,
+        "2026-11-28": 68.0
       },
       "low_price": 68.0,
       "ph_ean": "4023103229716",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Kymo",
       "name": "Stoomreiniger Pro",
-      "price": 89.95,
+      "price": 79.95,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -262,11 +267,14 @@
       "url": "https://www.bol.com/nl/nl/p/kymo-stoomreiniger-pro-handstomer-tapijtreiniger-vlekkenreiniger-voor-vloer-en-badkamer-keuken-stoomreiniger-1500w-4-bar-stoomdruk-meubelreiniger/9300000263094887/",
       "image": "https://media.s-bol.com/jlQGRvoPpMwy/pQZDM6X/550x503.jpg",
       "ph": {
-        "2026-11-27": 89.95
+        "2026-11-27": 89.95,
+        "2026-11-28": 79.95
       },
-      "low_price": 89.95,
+      "low_price": 79.95,
       "ph_ean": "8721161662082",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 89.95,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Kymo",
@@ -302,11 +310,12 @@
       "url": "https://www.bol.com/nl/nl/p/kymo-handstoomreiniger-plus-reinigingsmachine-stoomapparaat-vloer-bank-badkamer-keuken-handstomer-stoomreiniger-badkamer-diverse-opzetstukken/9300000190087630/",
       "image": "https://media.s-bol.com/NozzBAzWMjpK/o2J09jX/550x525.jpg",
       "ph": {
-        "2026-11-27": 49.95
+        "2026-11-27": 49.95,
+        "2026-11-28": 49.95
       },
       "low_price": 49.95,
       "ph_ean": "8720892148353",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Black+Decker",
@@ -338,15 +347,16 @@
       "text": "De Black+Decker FSM1616 heeft met 1.600 watt het hoogste vermogen van de stoommops in deze lijst. Met AutoSelect kies je het vloertype en geeft hij zelf de bijpassende hoeveelheid stoom. De kop draait 180 graden. Het compacte stoomdeel haal je uit de brede voet om in hoeken te komen. Het reservoir van 0,35 liter is afneembaar en er zit een antikalksysteem in. Je krijgt twee doeken: een standaard en een deltavormige. Het snoer is 5 meter.\n\nDe keerzijde is de korte werktijd: 7 tot 14 minuten per tank volgens de omschrijving. Voor een benedenverdieping vul je dus tussendoor bij. Bol noemt twee opwarmtijden (20 seconden in de tabel, 30 in de tekst) en twee gewichten (3,02 en 2,7 kg). Een stoomdruk staat er niet. Opzetstukken voor voegen of ramen zijn er niet bij. Black+Decker zegt dat de stoom 99,9 procent van de bacteriën en stofmijten doodt. Dat is een claim van de fabrikant. Bij bol staat hij op een 4,1 voor 59,99 euro.",
       "ean": "5035048642344",
       "rating": 4.1,
-      "bol_title": "BLACK+DECKER STEAM MOP: Hygienisch, makkelijk, snel en chemicalienvrij voor alle gesloten vloeren. Variabele stoominstelling - FSM1616-QS",
+      "bol_title": "BLACK+DECKER STEAM MOP™: Hygienisch, makkelijk, snel en chemicalienvrij voor alle gesloten vloeren. Variabele stoominstelling - FSM1616-QS",
       "url": "https://www.bol.com/nl/nl/p/black-decker-fsm1616-qs-stoomreiniger-1600w/9200000057819593/",
       "image": "https://media.s-bol.com/7vvKRyyQn9w/307x840.jpg",
       "ph": {
-        "2026-11-27": 59.99
+        "2026-11-27": 59.99,
+        "2026-11-28": 59.99
       },
       "low_price": 59.99,
       "ph_ean": "5035048642344",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Ariete",
@@ -382,11 +392,12 @@
       "url": "https://www.bol.com/nl/nl/p/ariete-4179-01-easy-steam-steam-mop-elektrische-dweil-stoomreiniger-voor-harde-vloeren-en-tapijt/9300000240559430/",
       "image": "https://media.s-bol.com/goX724D3vxnr/GZWXpxL/359x840.jpg",
       "ph": {
-        "2026-11-27": 50.33
+        "2026-11-27": 50.33,
+        "2026-11-28": 50.33
       },
       "low_price": 50.33,
       "ph_ean": "8003705124431",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Kärcher",
@@ -421,11 +432,12 @@
       "url": "https://www.bol.com/nl/nl/p/karcher-stoomreiniger-sc-1-easyfix-inclusief-vloerreinigingsset-easyfix-1-200-w-opwarmtijd-3min-gebruiksoppervlakte-20-m-reservoir-200-ml-microvezeldoeken/9200000087364216/",
       "image": "https://media.s-bol.com/70BENAzmDzRO/0R004A7/550x563.jpg",
       "ph": {
-        "2026-11-27": 89.99
+        "2026-11-27": 89.99,
+        "2026-11-28": 89.99
       },
       "low_price": 89.99,
       "ph_ean": "4054278975733",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     }
   ],
   "guide": [

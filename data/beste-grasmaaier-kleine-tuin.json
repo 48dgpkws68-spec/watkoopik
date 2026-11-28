@@ -50,7 +50,7 @@
       "bol_title": "GARDENA PowerMax 30/18V P4A Read Grasmaaier Accu Incl. oplader 18 V Snijbreedte max. 300 mm",
       "url": "https://www.bol.com/nl/nl/p/gardena-14630-20-grasmaaier-duwgrasmaaier-batterij-accu-zwart-groen/9300000122123620/",
       "image": "https://media.s-bol.com/7MvjGL6VKoXr/vp5kOV/550x609.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-19": 219.0,
         "2026-10-20": 219.0,
@@ -89,7 +89,8 @@
         "2026-11-24": 204.82,
         "2026-11-25": 204.82,
         "2026-11-26": 204.82,
-        "2026-11-27": 204.82
+        "2026-11-27": 204.82,
+        "2026-11-28": 204.82
       },
       "low_price": 204.82,
       "prev_price": 209.0,
@@ -147,10 +148,11 @@
         "2026-11-24": 178.99,
         "2026-11-25": 178.99,
         "2026-11-26": 178.99,
-        "2026-11-27": 178.99
+        "2026-11-27": 178.99,
+        "2026-11-28": 178.99
       },
       "low_price": 178.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "4066407024212",
       "rating": 5.0,
       "prev_price": 179.99,
@@ -187,7 +189,7 @@
       "bol_title": "GARDENA SILENO minimo 350 Robotmaaier - voor gazons tot ca. 350 m²",
       "url": "https://www.bol.com/nl/nl/p/gardena-sileno-minimo-350-robotmaaier-voor-gazons-tot-ca-350-m/9300000236113421/",
       "image": "https://media.s-bol.com/q4mBMpn5zY4r/Mj9pP6R/550x307.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 459.0,
         "2026-10-16": 459.0,
@@ -230,7 +232,8 @@
         "2026-11-24": 518.0,
         "2026-11-25": 520.0,
         "2026-11-26": 520.0,
-        "2026-11-27": 520.0
+        "2026-11-27": 520.0,
+        "2026-11-28": 520.0
       },
       "low_price": 452.2,
       "prev_price": 518.0,
@@ -269,7 +272,7 @@
       "bol_title": "Bosch Rotak 18V-34 - Inclusief 1 18V 4.0 Ah accu en AL18V-44 lader - Mulchplug",
       "url": "https://www.bol.com/nl/nl/p/bosch-rotak-18v-34-inclusief-1-18v-4-0-ah-accu-en-al18v-44-lader-mulchplug/9300000244703056/",
       "image": "https://media.s-bol.com/y3kzLEmG5P0z/KOwE0YR/550x562.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 256.31,
         "2026-10-16": 256.31,
@@ -312,7 +315,8 @@
         "2026-11-24": 211.81,
         "2026-11-25": 211.81,
         "2026-11-26": 211.81,
-        "2026-11-27": 241.12
+        "2026-11-27": 241.12,
+        "2026-11-28": 241.12
       },
       "low_price": 211.81,
       "prev_price": 211.81,
@@ -323,7 +327,7 @@
     {
       "brand": "Einhell",
       "name": "GE-CM 18/33 Li Kit",
-      "price": 188.84,
+      "price": 193.36,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -351,7 +355,7 @@
       "bol_title": "Einhell Accu Grasmaaier GE-CM 18/33 Li Kit - Power X-Change - 18 V/Li-Ion - Maaibreedte: 33 cm - Aanbevolen gazonoppervlakte: tot 200 m² - 30 L opvangzak - Maaihoogte: 25-65 mm - Incl. 4.0 Ah Accu en lader",
       "url": "https://www.bol.com/nl/nl/p/einhell-accu-grasmaaier-ge-cm-18-33-li-kit-power-x-change/9300000031654180/",
       "image": "https://media.s-bol.com/1L9RpZopBAjo/k5xmMqr/550x570.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 193.36,
         "2026-10-16": 196.3,
@@ -394,11 +398,12 @@
         "2026-11-24": 188.84,
         "2026-11-25": 188.84,
         "2026-11-26": 188.84,
-        "2026-11-27": 188.84
+        "2026-11-27": 188.84,
+        "2026-11-28": 193.36
       },
       "low_price": 177.2,
-      "prev_price": 193.0,
-      "prev_date": "2026-11-23",
+      "prev_price": 188.84,
+      "prev_date": "2026-11-27",
       "ph_ean": "4006825646856",
       "rating": 4.7
     },
@@ -435,16 +440,17 @@
       "image": "https://media.s-bol.com/m9PkQM2Kk2ZO/9r35ZwB/550x420.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-27": 254.6
+        "2026-11-27": 254.6,
+        "2026-11-28": 254.6
       },
       "low_price": 254.6,
       "ph_ean": "0088381757942",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "GARDENA",
       "name": "HandyMower 22/18V P4A",
-      "price": 189.0,
+      "price": 175.0,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 3,8 van 5",
@@ -472,7 +478,7 @@
       "bol_title": "GARDENA HandyMower 22/18V P4A Accu Grasmaaier - Incl. 18V accu en lader",
       "url": "https://www.bol.com/nl/nl/p/gardena-handymower-22-18v-p4a-accu-grasmaaier-incl-18-v-accu-en-lader/9300000033693360/",
       "image": "https://media.s-bol.com/mzEnMzmXGMOr/O7EB8lp/370x840.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 189.0,
         "2026-10-16": 189.0,
@@ -515,11 +521,12 @@
         "2026-11-24": 189.0,
         "2026-11-25": 189.0,
         "2026-11-26": 189.0,
-        "2026-11-27": 189.0
+        "2026-11-27": 189.0,
+        "2026-11-28": 175.0
       },
       "low_price": 175.0,
-      "prev_price": 175.0,
-      "prev_date": "2026-11-21",
+      "prev_price": 189.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "4078500054157",
       "rating": 3.8
     },
@@ -554,7 +561,7 @@
       "bol_title": "Bosch EasyRotak 32-220 elektrische grasmaaier 1200W 32cm",
       "url": "https://www.bol.com/nl/nl/p/bosch-easyrotak-32-220-elektrische-grasmaaier-1200w-32cm/9300000193735243/",
       "image": "https://media.s-bol.com/q4RMy69O0NGR/RgP1G5z/550x582.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-19": 119.0,
         "2026-10-20": 119.0,
@@ -593,7 +600,8 @@
         "2026-11-24": 96.93,
         "2026-11-25": 96.93,
         "2026-11-26": 96.93,
-        "2026-11-27": 96.93
+        "2026-11-27": 96.93,
+        "2026-11-28": 96.93
       },
       "low_price": 96.93,
       "prev_price": 102.03,
@@ -631,7 +639,7 @@
       "bol_title": "GARDENA Powermax 32 Grasmaaier - Maaibreedte 32 cm - Gazons tot 200 m2",
       "url": "https://www.bol.com/nl/nl/p/gardena-powermax-32-grasmaaier-maaibreedte-32-cm-gazons-tot-200-m2/9200000075265902/",
       "image": "https://media.s-bol.com/rk0mvPB11ByB/550x600.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-19": 98.99,
         "2026-10-20": 98.0,
@@ -670,7 +678,8 @@
         "2026-11-24": 98.99,
         "2026-11-25": 98.99,
         "2026-11-26": 98.99,
-        "2026-11-27": 98.99
+        "2026-11-27": 98.99,
+        "2026-11-28": 98.99
       },
       "low_price": 88.3,
       "prev_price": 89.2,
@@ -709,7 +718,7 @@
       "bol_title": "VONROC Kooimaaier – handgrasmaaier - 300mm - 4 instelbare maaihoogtes (15-25-31-35mm) incl. muurbeugel en opvangzak",
       "url": "https://www.bol.com/nl/nl/p/vonroc-kooimaaier-handgrasmaaier-300mm-4-instelbare-maaihoogtes-incl-muurbeugel-en-opvangzak/9300000145559577/",
       "image": "https://media.s-bol.com/7z0OmX4rExyG/Ap4nGl/550x767.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-19": 59.95,
         "2026-10-20": 59.95,
@@ -748,7 +757,8 @@
         "2026-11-24": 52.95,
         "2026-11-25": 65.95,
         "2026-11-26": 65.95,
-        "2026-11-27": 65.95
+        "2026-11-27": 65.95,
+        "2026-11-28": 65.95
       },
       "low_price": 52.95,
       "prev_price": 52.95,

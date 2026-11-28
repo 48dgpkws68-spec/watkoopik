@@ -22,7 +22,7 @@
     {
       "brand": "Apple",
       "name": "MacBook Air 13 inch M5 (2026) 16 GB 512 GB",
-      "price": 1235.0,
+      "price": 1299.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -59,13 +59,14 @@
         "2026-11-24": 1299.0,
         "2026-11-25": 1299.0,
         "2026-11-26": 1299.0,
-        "2026-11-27": 1235.0
+        "2026-11-27": 1235.0,
+        "2026-11-28": 1299.0
       },
       "low_price": 1235.0,
       "ph_ean": "0195950687408",
-      "synced": "2026-11-27",
-      "prev_price": 1299.0,
-      "prev_date": "2026-11-26"
+      "synced": "2026-11-28",
+      "prev_price": 1235.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Lenovo",
@@ -98,7 +99,7 @@
       "bol_title": "Lenovo ThinkPad E14 Gen 7 (Intel) - Zakelijke Laptop - 14 inch - Core Ultra 5 - 16GB/512GB - Windows 11 Pro",
       "url": "https://www.bol.com/nl/nl/p/lenovo-thinkpad-e14-gen-7-zakelijke-laptop-14-inch-core-ultra-5-16gb-512gb-windows-11-pro/9300000259641193/",
       "image": "https://media.s-bol.com/YG5EkE4OyKMK/Q0O34x9/550x385.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-18": 1149.0,
         "2026-10-19": 1149.0,
@@ -138,7 +139,8 @@
         "2026-11-24": 1499.0,
         "2026-11-25": 1499.0,
         "2026-11-26": 1499.0,
-        "2026-11-27": 1499.0
+        "2026-11-27": 1499.0,
+        "2026-11-28": 1499.0
       },
       "low_price": 1149.0,
       "prev_price": 1299.0,
@@ -182,10 +184,11 @@
         "2026-11-24": 839.0,
         "2026-11-25": 839.0,
         "2026-11-26": 839.0,
-        "2026-11-27": 839.0
+        "2026-11-27": 839.0,
+        "2026-11-28": 839.0
       },
       "low_price": 839.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Microsoft",
@@ -219,7 +222,7 @@
       "bol_title": "Microsoft Surface Laptop 7 Copilot+ PC Intel Core Ultra 5 236V 35 cm (13.8\") Touchscreen 16 GB LPDDR5x-SDRAM 256 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Zwart",
       "url": "https://www.bol.com/nl/nl/p/microsoft-surface-laptop-7-intel-core-ultra-5-236v-35-cm-touchscreen-16-gb-lpddr5x-sdram-256-gb-ssd-wi-fi-7-windows-11-pro-zwart/9300000224609804/",
       "image": "https://media.s-bol.com/vG5Gpj82zM70/K85OoJz/550x378.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-24": 1643.22,
         "2026-10-25": 1643.22,
@@ -254,7 +257,8 @@
         "2026-11-24": 1448.76,
         "2026-11-25": 1448.76,
         "2026-11-26": 1448.76,
-        "2026-11-27": 1448.76
+        "2026-11-27": 1448.76,
+        "2026-11-28": 1448.76
       },
       "low_price": 1423.7,
       "prev_price": 1578.69,
@@ -292,7 +296,7 @@
       "bol_title": "Lenovo ThinkPad T14 Gen 6 (Intel) Copilot+ PC Intel Core Ultra 5 226V Laptop 35,6 cm (14\") WUXGA 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Zwart Engels",
       "url": "https://www.bol.com/nl/nl/p/lenovo-thinkpad-t14-gen-6-copilot-pc-intel-core-ultra-5-226v-laptop-35-6-cm-wuxga-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-7-windows-11-pro-engels-zwart/9300000251805813/",
       "image": "https://media.s-bol.com/Mr3r2rPkX9wA/oQ2pjM3/550x451.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-18": 1749.95,
         "2026-10-19": 1749.95,
@@ -332,7 +336,8 @@
         "2026-11-24": 1724.99,
         "2026-11-25": 1724.99,
         "2026-11-26": 1724.99,
-        "2026-11-27": 1724.99
+        "2026-11-27": 1724.99,
+        "2026-11-28": 1724.99
       },
       "low_price": 1724.99,
       "prev_price": 1739.99,
@@ -398,10 +403,11 @@
         "2026-11-24": 1089.0,
         "2026-11-25": 1089.0,
         "2026-11-26": 1199.0,
-        "2026-11-27": 1199.0
+        "2026-11-27": 1199.0,
+        "2026-11-28": 1199.0
       },
       "low_price": 974.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 1089.0,
       "prev_date": "2026-11-25",
       "ph_ean": "0199485111728",
@@ -438,7 +444,7 @@
       "bol_title": "ASUS Zenbook A14 UX3407QA-QD479W - Copilot+ Laptop - 14 inch - Snapdragon X - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/asus-zenbook-a14-ux3407qa-qd479w-copilot-laptop-14-inch-snapdragon-x-16gb-512gb/9300000275890881/",
       "image": "https://media.s-bol.com/p0XojJN821WX/mQ7Gmyp/550x346.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-18": 1125.01,
         "2026-10-19": 1125.01,
@@ -478,7 +484,8 @@
         "2026-11-24": 899.0,
         "2026-11-25": 899.0,
         "2026-11-26": 899.0,
-        "2026-11-27": 899.0
+        "2026-11-27": 899.0,
+        "2026-11-28": 899.0
       },
       "low_price": 899.0,
       "prev_price": 949.0,
@@ -539,10 +546,11 @@
         "2026-11-24": 1109.0,
         "2026-11-25": 1117.03,
         "2026-11-26": 1114.05,
-        "2026-11-27": 1109.0
+        "2026-11-27": 1109.0,
+        "2026-11-28": 1109.0
       },
       "low_price": 1049.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 1114.05,
       "prev_date": "2026-11-26",
       "ph_ean": "0199642758858"
@@ -579,7 +587,7 @@
       "bol_title": "Lenovo IdeaPad Slim 5 16AKP10 - Laptop - 16 inch WUXGA - AMD Ryzen AI 5 330 - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/lenovo-ideapad-slim-5-16akp10-laptop-16-inch-wuxga-amd-ryzen-ai-5-330-16gb-512gb/9300000263613481/",
       "image": "https://media.s-bol.com/Ow3wxz4NW79L/Q0WZvZG/550x462.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-24": 949.0,
         "2026-10-25": 949.0,
@@ -614,7 +622,8 @@
         "2026-11-24": 899.0,
         "2026-11-25": 899.0,
         "2026-11-26": 899.0,
-        "2026-11-27": 899.0
+        "2026-11-27": 899.0,
+        "2026-11-28": 899.0
       },
       "low_price": 899.0,
       "prev_price": 1029.0,
@@ -625,7 +634,7 @@
     {
       "brand": "Lenovo",
       "name": "Yoga Slim 7 14ILL10 Core Ultra 7 16 GB 512 GB",
-      "price": 1249.0,
+      "price": 1149.0,
       "score": 8.5,
       "label": null,
       "reviews": "",
@@ -653,7 +662,7 @@
       "bol_title": "Lenovo Yoga Slim 7 14ILL10 - Creator Laptop - 14 inch - Copilot+ - Core Ultra 7 - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/lenovo-yoga-slim-7-14ill10-copilot-pc-intel-core-ultra-7-256v-laptop-35-6-cm-wuxga-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-7-windows-11-home-engels-grijs/9300000273842434/",
       "image": "https://media.s-bol.com/oqV2J332WgnY/4RL7M7k/550x357.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-18": 1249.0,
         "2026-10-19": 1249.0,
@@ -693,11 +702,12 @@
         "2026-11-24": 1179.0,
         "2026-11-25": 1179.0,
         "2026-11-26": 1249.0,
-        "2026-11-27": 1249.0
+        "2026-11-27": 1249.0,
+        "2026-11-28": 1149.0
       },
-      "low_price": 1179.0,
-      "prev_price": 1179.0,
-      "prev_date": "2026-11-25",
+      "low_price": 1149.0,
+      "prev_price": 1249.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "0199275444869"
     }
   ],

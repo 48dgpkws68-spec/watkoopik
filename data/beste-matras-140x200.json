@@ -26,6 +26,7 @@
   "rel": [
     "beste-matras",
     "beste-matras-160x200",
+    "beste-matras-90x200",
     "beste-boxspring-140x200",
     "beste-matras-rugklachten",
     "beste-topper",
@@ -68,11 +69,12 @@
       "image": "https://media.s-bol.com/O9qrKNQ1LDAr/xnW8Z9/550x295.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-27": 499.0
+        "2026-11-27": 499.0,
+        "2026-11-28": 499.0
       },
       "low_price": 499.0,
       "ph_ean": "4251822526674",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Maan matras",
@@ -108,11 +110,12 @@
       "image": "https://media.s-bol.com/NqmJ9X0DByx8/0VngWm5/550x550.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-27": 189.95
+        "2026-11-27": 189.95,
+        "2026-11-28": 189.95
       },
       "low_price": 189.95,
       "ph_ean": "8721082562546",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Tempur",
@@ -147,11 +150,12 @@
       "url": "https://www.bol.com/nl/nl/p/tempur-form-original-matras-medium-140x200-cm-22-cm-hoog/9300000274121078/",
       "image": "https://media.s-bol.com/35wQ4kBz99pr/qYVxRo0/550x172.jpg",
       "ph": {
-        "2026-11-27": 1274.25
+        "2026-11-27": 1274.25,
+        "2026-11-28": 1274.25
       },
       "low_price": 1274.25,
       "ph_ean": "5714714436448",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Akkon",
@@ -187,16 +191,17 @@
       "image": "https://media.s-bol.com/x0WWvq4W0DXr/82xJqQm/550x368.jpg",
       "rating": 4.3,
       "ph": {
-        "2026-11-27": 319.0
+        "2026-11-27": 319.0,
+        "2026-11-28": 319.0
       },
       "low_price": 319.0,
       "ph_ean": "8720682559727",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Lexzurn",
       "name": "Pocketvering Matras met koudschuim 140x200",
-      "price": 175.49,
+      "price": 179.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -227,11 +232,14 @@
       "image": "https://media.s-bol.com/mrwOgMlNYWWr/J8gm63P/550x550.jpg",
       "rating": 4.9,
       "ph": {
-        "2026-11-27": 175.49
+        "2026-11-27": 175.49,
+        "2026-11-28": 179.99
       },
       "low_price": 175.49,
       "ph_ean": "4262475030876",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 175.49,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Maan matras",
@@ -267,11 +275,12 @@
       "image": "https://media.s-bol.com/ggmKvP2NPgZY/JqwO03K/550x518.jpg",
       "rating": 4.6,
       "ph": {
-        "2026-11-27": 129.95
+        "2026-11-27": 129.95,
+        "2026-11-28": 129.95
       },
       "low_price": 129.95,
       "ph_ean": "8721082562935",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Ada Sleep",
@@ -307,11 +316,12 @@
       "image": "https://media.s-bol.com/B44NoADqzPJX/p8Ako6V/550x528.jpg",
       "rating": 4.4,
       "ph": {
-        "2026-11-27": 133.2
+        "2026-11-27": 133.2,
+        "2026-11-28": 133.2
       },
       "low_price": 133.2,
       "ph_ean": "8720634904483",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Best Life",
@@ -347,11 +357,12 @@
       "image": "https://media.s-bol.com/RxmVMxVpY2qY/Q088Wq7/550x514.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-27": 152.99
+        "2026-11-27": 152.99,
+        "2026-11-28": 152.99
       },
       "low_price": 152.99,
       "ph_ean": "8720938061493",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Elekiatech",
@@ -387,11 +398,12 @@
       "image": "https://media.s-bol.com/moBwqN5D72nR/E95QYVY/550x550.jpg",
       "rating": 4.9,
       "ph": {
-        "2026-11-27": 249.99
+        "2026-11-27": 249.99,
+        "2026-11-28": 249.99
       },
       "low_price": 249.99,
       "ph_ean": "8721042021014",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "The White Stone",
@@ -427,11 +439,12 @@
       "image": "https://media.s-bol.com/qNWArXBw2Yxy/81AKMvj/550x183.jpg",
       "rating": 5.0,
       "ph": {
-        "2026-11-27": 213.1
+        "2026-11-27": 213.1,
+        "2026-11-28": 213.1
       },
       "low_price": 213.1,
       "ph_ean": "8052693632923",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     }
   ],
   "guide": [

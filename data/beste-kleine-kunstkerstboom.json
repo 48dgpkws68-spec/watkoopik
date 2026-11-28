@@ -59,12 +59,13 @@
       "image": "https://media.s-bol.com/5Yz85vy6N2Yv/MwXQm5m/490x840.jpg",
       "ph": {
         "2026-11-26": 36.99,
-        "2026-11-27": 36.99
+        "2026-11-27": 36.99,
+        "2026-11-28": 36.99
       },
       "low_price": 36.99,
       "ph_ean": "0756770889153",
       "rating": 4.5,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Triumph Tree",
@@ -100,12 +101,13 @@
       "image": "https://media.s-bol.com/E42OX122YnNK/mOM1WBR/550x754.jpg",
       "ph": {
         "2026-11-26": 44.99,
-        "2026-11-27": 44.99
+        "2026-11-27": 44.99,
+        "2026-11-28": 44.99
       },
       "low_price": 44.99,
       "ph_ean": "8712799298224",
       "rating": 4.9,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Black Box Trees",
@@ -140,12 +142,13 @@
       "image": "https://media.s-bol.com/3WpvYygA051Q/yo2mD5E/466x840.jpg",
       "ph": {
         "2026-11-26": 23.99,
-        "2026-11-27": 23.99
+        "2026-11-27": 23.99,
+        "2026-11-28": 23.99
       },
       "low_price": 23.99,
       "ph_ean": "8718861279337",
       "rating": 4.1,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Royal Christmas",
@@ -181,17 +184,18 @@
       "image": "https://media.s-bol.com/PyYmORNJAr66/76O0MKw/491x840.jpg",
       "ph": {
         "2026-11-26": 69.0,
-        "2026-11-27": 69.0
+        "2026-11-27": 69.0,
+        "2026-11-28": 69.0
       },
       "low_price": 69.0,
       "ph_ean": "8717591888567",
       "rating": 4.2,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Triumph Tree",
       "name": "Bristlecone 120 cm",
-      "price": 62.99,
+      "price": 57.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -222,12 +226,15 @@
       "image": "https://media.s-bol.com/8Q4qAxyPZ2kg/Y7m76mp/537x840.jpg",
       "ph": {
         "2026-11-26": 62.99,
-        "2026-11-27": 62.99
+        "2026-11-27": 62.99,
+        "2026-11-28": 57.0
       },
-      "low_price": 62.99,
+      "low_price": 57.0,
       "ph_ean": "8718861201147",
       "rating": 4.9,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 62.99,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Black Box Trees",
@@ -262,16 +269,17 @@
       "bol_title": "Black Box Trees Grimshaw Kunstkerstboom met LED-Verlichting op Batterijen en Timerfunctie- H120 x Ø60 cm - Groen",
       "rating": 4.2,
       "ph": {
-        "2026-11-27": 37.49
+        "2026-11-27": 37.49,
+        "2026-11-28": 37.49
       },
       "low_price": 37.49,
       "ph_ean": "8720983307294",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Black Box Trees",
       "name": "Glendon 90 cm in pot met LED",
-      "price": 34.99,
+      "price": 31.95,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -302,12 +310,15 @@
       "image": "https://media.s-bol.com/gzj2Xnwoy0D9/YWRrZgn/474x840.jpg",
       "ph": {
         "2026-11-26": 34.99,
-        "2026-11-27": 34.99
+        "2026-11-27": 34.99,
+        "2026-11-28": 31.95
       },
-      "low_price": 34.99,
+      "low_price": 31.95,
       "ph_ean": "8718861153293",
       "rating": 4.4,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 34.99,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Triumph Tree",
@@ -347,7 +358,7 @@
       "low_price": 43.0,
       "ph_ean": "8717669931195",
       "rating": 4.6,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Everlands",
@@ -383,17 +394,18 @@
       "image": "https://media.s-bol.com/xzVz8xzqg7Vn/M7OnYQ/431x840.jpg",
       "ph": {
         "2026-11-26": 18.99,
-        "2026-11-27": 18.99
+        "2026-11-27": 18.99,
+        "2026-11-28": 18.99
       },
       "low_price": 18.99,
       "ph_ean": "8717427380821",
       "rating": 4.1,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Mica Decorations",
       "name": "Mini kunstkerstboom 45 cm met sneeuw en 10 LED",
-      "price": 13.69,
+      "price": 13.44,
       "score": 7.9,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -424,12 +436,15 @@
       "image": "https://media.s-bol.com/YYYZPxWyzLX0/pYXpm8r/550x817.jpg",
       "ph": {
         "2026-11-26": 13.69,
-        "2026-11-27": 13.69
+        "2026-11-27": 13.69,
+        "2026-11-28": 13.44
       },
-      "low_price": 13.69,
+      "low_price": 13.44,
       "ph_ean": "8718861442434",
       "rating": 4.3,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 13.69,
+      "prev_date": "2026-11-27"
     }
   ],
   "guide": [

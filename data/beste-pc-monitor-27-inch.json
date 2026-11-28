@@ -21,7 +21,7 @@
     {
       "brand": "Dell",
       "name": "Plus S2725QC",
-      "price": 349.0,
+      "price": 379.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 5,0 van 5",
@@ -49,7 +49,7 @@
       "bol_title": "DELL Plus S2725QC - 4k IPS USB-C Monitor - 120hz - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/dell-plus-s2725qc-computer-monitor-68-6-cm-3840-x-2160-pixels-4k-ultra-hd-lcd-zilver/9300000228931933/",
       "image": "https://media.s-bol.com/WyqVAynOz4Eg/Z6x9GN6/550x495.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 379.0,
         "2026-10-16": 379.0,
@@ -92,18 +92,19 @@
         "2026-11-24": 371.0,
         "2026-11-25": 349.0,
         "2026-11-26": 349.0,
-        "2026-11-27": 349.0
+        "2026-11-27": 349.0,
+        "2026-11-28": 379.0
       },
       "low_price": 336.9,
-      "prev_price": 371.0,
-      "prev_date": "2026-11-24",
+      "prev_price": 349.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "5397184962367",
       "rating": 5.0
     },
     {
       "brand": "iiyama",
       "name": "ProLite XB2797QSU-B1",
-      "price": 171.43,
+      "price": 171.6,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,0 van 5",
@@ -162,19 +163,20 @@
         "2026-11-24": 180.5,
         "2026-11-25": 180.5,
         "2026-11-26": 180.5,
-        "2026-11-27": 171.43
+        "2026-11-27": 171.43,
+        "2026-11-28": 171.6
       },
       "low_price": 169.0,
-      "synced": "2026-11-27",
-      "prev_price": 180.5,
-      "prev_date": "2026-11-26",
+      "synced": "2026-11-28",
+      "prev_price": 171.43,
+      "prev_date": "2026-11-27",
       "ph_ean": "4948570125876",
       "rating": 4.0
     },
     {
       "brand": "Dell",
       "name": "UltraSharp U2724DE",
-      "price": 443.36,
+      "price": 446.58,
       "score": 9.2,
       "label": "Beste premium",
       "reviews": "bol-score 4,6 van 5",
@@ -202,7 +204,7 @@
       "bol_title": "Dell UltraSharp U2724DE - QHD IPS-Black Monitor - 98% DCI-P3 - RJ45 - Thunderbolt 4 - 120hz - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/dell-ultrasharp-u2724de-computer-monitor-68-6-cm-2560-x-1440-pixels-quad-hd-lcd-zwart-zilver/9300000168154030/",
       "image": "https://media.s-bol.com/xx600xyA2zBz/VOAXlzz/550x428.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 456.0,
         "2026-10-24": 456.0,
@@ -238,18 +240,19 @@
         "2026-11-24": 456.0,
         "2026-11-25": 456.0,
         "2026-11-26": 450.0,
-        "2026-11-27": 443.36
+        "2026-11-27": 443.36,
+        "2026-11-28": 446.58
       },
       "low_price": 389.95,
-      "prev_price": 450.0,
-      "prev_date": "2026-11-26",
+      "prev_price": 443.36,
+      "prev_date": "2026-11-27",
       "ph_ean": "5397184821480",
       "rating": 4.6
     },
     {
       "brand": "Samsung",
       "name": "ViewFinity S6 LS27D600UAUXEN",
-      "price": 250.4,
+      "price": 225.0,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -277,7 +280,7 @@
       "bol_title": "Samsung Viewfinity S6� LS27D600UAUXEN - QHD - IPS-paneel - 100 Hz - in hoogte verstelbaar - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/samsung-viewfinity-s6-ls27d600uauxen-qhd-ips-paneel-100-hz-in-hoogte-verstelbaar-27-inch/9300000178118149/",
       "image": "https://media.s-bol.com/rOL049xWNZr4/p8xXM81/550x426.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 257.6,
         "2026-10-24": 257.6,
@@ -313,11 +316,12 @@
         "2026-11-24": 258.8,
         "2026-11-25": 250.4,
         "2026-11-26": 250.4,
-        "2026-11-27": 250.4
+        "2026-11-27": 250.4,
+        "2026-11-28": 225.0
       },
       "low_price": 209.99,
-      "prev_price": 258.8,
-      "prev_date": "2026-11-24",
+      "prev_price": 250.4,
+      "prev_date": "2026-11-27",
       "ph_ean": "8806095524658",
       "rating": 4.7
     },
@@ -352,7 +356,7 @@
       "bol_title": "Dell S2725DS",
       "url": "https://www.bol.com/nl/nl/p/dell-s2725ds-27-inch-quad-hd-monitor-2560x1440-100hz-ips-4ms-2x-5w-speakers-dp-1-2-hdmi-2-1/9300000176849931/",
       "image": "https://media.s-bol.com/4jrB8QPAW3r0/PNV31j6/550x421.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 289.0,
         "2026-10-24": 289.0,
@@ -388,7 +392,8 @@
         "2026-11-24": 289.0,
         "2026-11-25": 289.0,
         "2026-11-26": 289.0,
-        "2026-11-27": 289.0
+        "2026-11-27": 289.0,
+        "2026-11-28": 289.0
       },
       "low_price": 289.0,
       "ph_ean": "5397184821633",
@@ -397,7 +402,7 @@
     {
       "brand": "LG",
       "name": "UltraFine 27UP850K",
-      "price": 235.0,
+      "price": 209.0,
       "score": 8.7,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -425,7 +430,7 @@
       "bol_title": "LG UltraFine 27UP850K - 4K IPS Monitor - USB-C 90w - 27 inch",
       "url": "https://www.bol.com/nl/nl/p/lg-27up850k-4k-ips-monitor-geschikt-voor-apple-macbook-usb-c-90w-27-inch/9300000220429352/",
       "image": "https://media.s-bol.com/RyZrWOr2YmqY/Z6R7WmE/550x514.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 279.0,
         "2026-10-16": 279.0,
@@ -468,11 +473,12 @@
         "2026-11-24": 249.0,
         "2026-11-25": 249.0,
         "2026-11-26": 244.0,
-        "2026-11-27": 235.0
+        "2026-11-27": 235.0,
+        "2026-11-28": 209.0
       },
-      "low_price": 235.0,
-      "prev_price": 244.0,
-      "prev_date": "2026-11-26",
+      "low_price": 209.0,
+      "prev_price": 235.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "8806096296233",
       "rating": 4.5
     },
@@ -507,7 +513,7 @@
       "bol_title": "ASUS ProArt Display PA278CV - 2K IPS Designer Monitor - Calman Gecertificeerd - USB-C 65W - 27 Inch",
       "url": "https://www.bol.com/nl/nl/p/monitor-asus-pa278cv-27-2k-ips-led/9300000025381233/",
       "image": "https://media.s-bol.com/xXLGXWyyz19q/vllor1m/550x426.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 298.7,
         "2026-10-24": 298.7,
@@ -543,7 +549,8 @@
         "2026-11-24": 289.0,
         "2026-11-25": 289.0,
         "2026-11-26": 289.0,
-        "2026-11-27": 289.0
+        "2026-11-27": 289.0,
+        "2026-11-28": 289.0
       },
       "low_price": 270.0,
       "prev_price": 279.0,
@@ -554,7 +561,7 @@
     {
       "brand": "iiyama",
       "name": "G-Master GB2771UHSU-B1 Red Eagle",
-      "price": 233.0,
+      "price": 237.8,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -582,7 +589,7 @@
       "bol_title": "iiyama G-Master GB2771UHSU-B1 Red Eagle - 27 inch - 4K - IPS - 144 Hz - Verstelbaar - HDR 400 - G-Sync Compatible",
       "url": "https://www.bol.com/nl/nl/p/iiyama-g-master-gb2771uhsu-b1-red-eagle-27-inch-4k-ips-144-hz-verstelbaar-hdr-400-g-sync-compatible/9300000245749907/",
       "image": "https://media.s-bol.com/RNg73mkLYnDV/GZNJxOr/550x597.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 239.0,
         "2026-10-24": 239.0,
@@ -618,13 +625,14 @@
         "2026-11-24": 239.0,
         "2026-11-25": 239.0,
         "2026-11-26": 239.0,
-        "2026-11-27": 233.0
+        "2026-11-27": 233.0,
+        "2026-11-28": 237.8
       },
       "low_price": 233.0,
       "ph_ean": "4948570127139",
       "rating": 4.8,
-      "prev_price": 239.0,
-      "prev_date": "2026-11-26"
+      "prev_price": 233.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Philips",
@@ -682,10 +690,11 @@
         "2026-11-24": 92.95,
         "2026-11-25": 89.0,
         "2026-11-26": 89.0,
-        "2026-11-27": 89.0
+        "2026-11-27": 89.0,
+        "2026-11-28": 89.0
       },
       "low_price": 89.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 92.95,
       "prev_date": "2026-11-24",
       "ph_ean": "8721038005455",
@@ -697,7 +706,7 @@
       "price": 119.1,
       "score": 8.0,
       "label": null,
-      "reviews": "bol-score 4,6 van 5",
+      "reviews": "bol-score 4,7 van 5",
       "oneliner": "Oogvriendelijke 27 inch Full HD-monitor met speakers.",
       "specs": {
         "Resolutie": "Full HD (1920 x 1080)",
@@ -716,12 +725,12 @@
         "Voet alleen kantelbaar"
       ],
       "ideal": "Wie vooral films, video en eenvoudig kantoorwerk doet en op afstand naar het scherm kijkt.",
-      "text": "De BenQ GW2790 is een eenvoudige 27 inch monitor met een Full HD-resolutie. Dat is op deze maat de zwakke plek: met 81 pixels per inch zie je bij tekst van dichtbij een lichte korrel. Zit je op een normale afstand van 70 tot 80 cm, dan valt dat mee. Voor films, YouTube en webbrowsen is het beeld prima, mede door het IPS-paneel met 99 procent sRGB.\n\nBenQ staat bekend om zijn Eye-Care-technologie. Het scherm is flikkervrij en heeft een filter voor blauw licht, wat prettig is als je lange dagen achter je bureau zit. De verversing van 100 Hz maakt scrollen net iets vloeiender dan bij een standaard 60 Hz-scherm. Twee kleine speakers vangen systeemgeluiden en videogesprekken op. Kopers op bol geven hem een 4,6. Voor ongeveer hetzelfde geld krijg je met de Philips 27E2N1500L wel QHD, dus kies de BenQ alleen als oogcomfort voorop staat.",
+      "text": "De BenQ GW2790 is een eenvoudige 27 inch monitor met een Full HD-resolutie. Dat is op deze maat de zwakke plek: met 81 pixels per inch zie je bij tekst van dichtbij een lichte korrel. Zit je op een normale afstand van 70 tot 80 cm, dan valt dat mee. Voor films, YouTube en webbrowsen is het beeld prima, mede door het IPS-paneel met 99 procent sRGB.\n\nBenQ staat bekend om zijn Eye-Care-technologie. Het scherm is flikkervrij en heeft een filter voor blauw licht, wat prettig is als je lange dagen achter je bureau zit. De verversing van 100 Hz maakt scrollen net iets vloeiender dan bij een standaard 60 Hz-scherm. Twee kleine speakers vangen systeemgeluiden en videogesprekken op. Kopers op bol geven hem een 4,7. Voor ongeveer hetzelfde geld krijg je met de Philips 27E2N1500L wel QHD, dus kies de BenQ alleen als oogcomfort voorop staat.",
       "ean": "4718755093050",
       "bol_title": "BenQ Full HD 27 inch Monitor GW2790 - 100Hz - IPS Beeldscherm Computer- 1920x1080p PC Scherm - 99% sRGB - EyeCare - 2 x HDMDI - 1 x DP port - 2 x 2W Speakers",
       "url": "https://www.bol.com/nl/nl/p/benq-full-hd-monitor-gw2790-100hz-ips-1920x1080p-eyecare-27-inch/9300000171261397/",
       "image": "https://media.s-bol.com/JBN9kky3Qk4J/zm8A1B2/550x426.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-23": 109.99,
         "2026-10-24": 109.99,
@@ -757,11 +766,12 @@
         "2026-11-24": 109.99,
         "2026-11-25": 109.99,
         "2026-11-26": 119.1,
-        "2026-11-27": 119.1
+        "2026-11-27": 119.1,
+        "2026-11-28": 119.1
       },
       "low_price": 109.99,
       "ph_ean": "4718755093050",
-      "rating": 4.6,
+      "rating": 4.7,
       "prev_price": 109.99,
       "prev_date": "2026-11-25"
     }

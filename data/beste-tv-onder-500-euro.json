@@ -52,7 +52,7 @@
       "bol_title": "LG 55QNED84A6C - 55 inch - 4K QNED - 2025 - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/lg-55qned84a6c-aeu-tv-139-7-cm-4k-ultra-hd-smart-tv-wifi-zwart/9300000241396599/",
       "image": "https://media.s-bol.com/rDv0ypOvr194/mwXyWPO/550x337.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-20": 478.9,
         "2026-10-21": 478.9,
@@ -90,7 +90,8 @@
         "2026-11-24": 445.6,
         "2026-11-25": 445.95,
         "2026-11-26": 445.95,
-        "2026-11-27": 445.95
+        "2026-11-27": 445.95,
+        "2026-11-28": 445.95
       },
       "low_price": 443.9,
       "prev_price": 445.6,
@@ -140,12 +141,13 @@
         "2026-11-24": 399.99,
         "2026-11-25": 399.99,
         "2026-11-26": 399.99,
-        "2026-11-27": 399.99
+        "2026-11-27": 399.99,
+        "2026-11-28": 399.99
       },
       "low_price": 399.99,
       "ph_ean": "8592344206115",
       "rating": 4.3,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "CHiQ",
@@ -196,10 +198,11 @@
         "2026-11-24": 429.0,
         "2026-11-25": 429.0,
         "2026-11-26": 429.0,
-        "2026-11-27": 429.0
+        "2026-11-27": 429.0,
+        "2026-11-28": 429.0
       },
       "low_price": 429.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "8592344205507",
       "rating": 4.8
     },
@@ -235,7 +238,7 @@
       "bol_title": "Hisense 55E7S SmartTV - 55 inch - 4K Hi-QLED - 2026 - Hi-QLED Colour - Dolby Vision Atmos - AI 4K Upscaler - AI Smooth Motion - Game Mode Plus - Filmmaker Mode",
       "url": "https://www.bol.com/nl/nl/p/hisense-55e7s-smarttv-55-inch-4k-hi-qled-2026-hi-qled-colour-dolby-vision-atmos-ai-4k-upscaler-ai-smooth-motion-game-mode-plus-filmmaker-mode/9300000269685073/",
       "image": "https://media.s-bol.com/2KxvK0qJw5MM/pZwJxA2/550x342.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-20": 450.67,
         "2026-10-21": 450.67,
@@ -273,7 +276,8 @@
         "2026-11-24": 399.0,
         "2026-11-25": 399.0,
         "2026-11-26": 399.0,
-        "2026-11-27": 399.0
+        "2026-11-27": 399.0,
+        "2026-11-28": 399.0
       },
       "low_price": 399.0,
       "prev_price": 419.0,
@@ -315,17 +319,18 @@
       "image": "https://media.s-bol.com/Y3MzPgn7ky3A/vQo9x95/550x348.jpg",
       "ph": {
         "2026-11-26": 355.0,
-        "2026-11-27": 355.0
+        "2026-11-27": 355.0,
+        "2026-11-28": 355.0
       },
       "low_price": 355.0,
       "ph_ean": "8806099138974",
       "rating": 4.6,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Philips",
       "name": "55PUS8001/12",
-      "price": 449.0,
+      "price": 419.0,
       "score": 8.5,
       "reviews": "bol-score 5,0 van 5",
       "oneliner": "55 inch 4K-tv met Ambilight en Titan OS onder de 450 euro.",
@@ -370,12 +375,15 @@
         "2026-11-24": 449.0,
         "2026-11-25": 449.0,
         "2026-11-26": 449.0,
-        "2026-11-27": 449.0
+        "2026-11-27": 449.0,
+        "2026-11-28": 419.0
       },
-      "low_price": 449.0,
-      "synced": "2026-11-27",
+      "low_price": 419.0,
+      "synced": "2026-11-28",
       "ph_ean": "8718863051726",
-      "rating": 5.0
+      "rating": 5.0,
+      "prev_price": 449.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Xiaomi",
@@ -383,7 +391,7 @@
       "price": 437.95,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,2 van 5",
+      "reviews": "bol-score 4,3 van 5",
       "oneliner": "55 inch QLED met Google TV en een 120 Hz-gamestand op 1080p.",
       "specs": {
         "Formaat": "55 inch",
@@ -438,19 +446,20 @@
         "2026-11-24": 437.96,
         "2026-11-25": 437.95,
         "2026-11-26": 437.95,
-        "2026-11-27": 437.95
+        "2026-11-27": 437.95,
+        "2026-11-28": 437.95
       },
       "low_price": 437.95,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "6941948705722",
-      "rating": 4.2,
+      "rating": 4.3,
       "prev_price": 447.99,
       "prev_date": "2026-11-20"
     },
     {
       "brand": "Samsung",
       "name": "UE55M74H",
-      "price": 499.0,
+      "price": 479.0,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -496,19 +505,20 @@
         "2026-11-24": 499.0,
         "2026-11-25": 499.0,
         "2026-11-26": 499.0,
-        "2026-11-27": 499.0
+        "2026-11-27": 499.0,
+        "2026-11-28": 479.0
       },
       "low_price": 479.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "8806099134334",
       "rating": 4.7,
-      "prev_price": 479.0,
-      "prev_date": "2026-11-23"
+      "prev_price": 499.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "TCL",
       "name": "55P61K",
-      "price": 479.0,
+      "price": 379.0,
       "score": 8.0,
       "label": null,
       "reviews": "bol-score 4,4 van 5",
@@ -568,12 +578,13 @@
         "2026-11-24": 479.0,
         "2026-11-25": 479.0,
         "2026-11-26": 479.0,
-        "2026-11-27": 479.0
+        "2026-11-27": 479.0,
+        "2026-11-28": 379.0
       },
-      "low_price": 399.0,
-      "synced": "2026-11-27",
-      "prev_price": 399.0,
-      "prev_date": "2026-11-01",
+      "low_price": 379.0,
+      "synced": "2026-11-28",
+      "prev_price": 479.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "5901292527044",
       "rating": 4.4
     },
@@ -630,10 +641,11 @@
         "2026-11-24": 486.0,
         "2026-11-25": 486.0,
         "2026-11-26": 486.0,
-        "2026-11-27": 449.0
+        "2026-11-27": 449.0,
+        "2026-11-28": 449.0
       },
       "low_price": 449.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "6942351430751",
       "prev_price": 486.0,
       "prev_date": "2026-11-26"

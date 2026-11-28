@@ -50,7 +50,7 @@
       "bol_title": "Ninja Foodi CB100EU - Power Nutri 2-in-1 Blender - 1100 Watt - Auto-iQ",
       "url": "https://www.bol.com/nl/nl/p/ninja-foodi-cb100eu-power-nutri-2-in-1-blender-1100-watt-auto-iq/9300000032739579/",
       "image": "https://media.s-bol.com/YMwAx4YZZrN2/550x394.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-24": 159.0,
         "2026-10-25": 172.0,
@@ -85,7 +85,8 @@
         "2026-11-24": 187.23,
         "2026-11-25": 187.23,
         "2026-11-26": 187.23,
-        "2026-11-27": 205.95
+        "2026-11-27": 205.95,
+        "2026-11-28": 205.95
       },
       "low_price": 159.0,
       "prev_price": 187.23,
@@ -96,7 +97,7 @@
     {
       "brand": "Philips",
       "name": "5000 Series Blender HR3030/00",
-      "price": 70.0,
+      "price": 79.99,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,3 van 5",
@@ -125,7 +126,7 @@
       "bol_title": "Philips 5000 series HR3030/00 - Blender - 1200 Watt - Zwart",
       "url": "https://www.bol.com/nl/nl/p/philips-5000-series-hr3030-00-blender-uit-de-5000-serie/9300000177050838/",
       "image": "https://media.s-bol.com/3Lk7Wzm6GE6n/EqgYy4l/550x715.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 88.0,
         "2026-10-16": 88.0,
@@ -168,11 +169,12 @@
         "2026-11-24": 79.99,
         "2026-11-25": 79.99,
         "2026-11-26": 79.99,
-        "2026-11-27": 70.0
+        "2026-11-27": 70.0,
+        "2026-11-28": 79.99
       },
       "low_price": 70.0,
-      "prev_price": 79.99,
-      "prev_date": "2026-11-26",
+      "prev_price": 70.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "8720389032639",
       "rating": 4.3
     },
@@ -207,7 +209,7 @@
       "bol_title": "Vitamix A2500i Ascent - high performance blender - 3 programma's - 2.2 PK motor - 2 liter kan - 10 jaar garantie - zwart",
       "url": "https://www.bol.com/nl/nl/p/vitamix-a2500i-ascent-blender-zwart/9200000084146403/",
       "image": "https://media.s-bol.com/9OWkZVxW3yGD/k86R5NN/463x840.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-24": 679.0,
         "2026-10-25": 679.0,
@@ -242,7 +244,8 @@
         "2026-11-24": 687.0,
         "2026-11-25": 687.0,
         "2026-11-26": 687.0,
-        "2026-11-27": 687.0
+        "2026-11-27": 687.0,
+        "2026-11-28": 687.0
       },
       "low_price": 679.0,
       "prev_price": 692.0,
@@ -284,16 +287,17 @@
       "image": "https://media.s-bol.com/qBp9NAO2gpKy/Y6qwP62/550x459.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-27": 77.95
+        "2026-11-27": 77.95,
+        "2026-11-28": 77.95
       },
       "low_price": 77.95,
       "ph_ean": "8720663026194",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "KitchenAid",
       "name": "Artisan K400 5KSB4026",
-      "price": 277.63,
+      "price": 270.4,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -321,7 +325,7 @@
       "ean": "8003437239632",
       "url": "https://www.bol.com/nl/nl/p/kitchenaid-blender-artisan-glazen-kan-van-1-4-l-1200w-smoothie-maker-almond-cream/9300000010380842/",
       "image": "https://media.s-bol.com/xEKR08qLk1kJ/y8YV8wP/403x840.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "bol_title": "KitchenAid Artisan K400 5KSB4026EAC - Blender - Amandelwit",
       "ph": {
         "2026-10-13": 283.06,
@@ -367,11 +371,12 @@
         "2026-11-24": 250.31,
         "2026-11-25": 250.31,
         "2026-11-26": 262.65,
-        "2026-11-27": 277.63
+        "2026-11-27": 277.63,
+        "2026-11-28": 270.4
       },
       "low_price": 250.31,
-      "prev_price": 262.65,
-      "prev_date": "2026-11-26",
+      "prev_price": 277.63,
+      "prev_date": "2026-11-27",
       "ph_ean": "8003437239632",
       "rating": 4.8
     },
@@ -417,11 +422,12 @@
         "2026-11-24": 129.0,
         "2026-11-25": 129.0,
         "2026-11-26": 129.0,
-        "2026-11-27": 129.0
+        "2026-11-27": 129.0,
+        "2026-11-28": 129.0
       },
       "low_price": 129.0,
       "ph_ean": "0622356233804",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Bosch",
@@ -471,10 +477,11 @@
         "2026-11-24": 169.0,
         "2026-11-25": 170.0,
         "2026-11-26": 170.0,
-        "2026-11-27": 170.0
+        "2026-11-27": 170.0,
+        "2026-11-28": 170.0
       },
       "low_price": 169.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "4242005216017",
       "prev_price": 169.0,
       "prev_date": "2026-11-24"
@@ -482,7 +489,7 @@
     {
       "brand": "Magimix",
       "name": "Power Blender 11628",
-      "price": 229.99,
+      "price": 217.99,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -511,7 +518,7 @@
       "bol_title": "Magimix Power Blender - Smoothie Maker 1,8 Liter - Ice Crusher - Zwart",
       "url": "https://www.bol.com/nl/nl/p/magimix-power-blender-smoothie-maker-1-8-liter-ice-crusher-zwart/9200000084416440/",
       "image": "https://media.s-bol.com/5PQ1665ZrZz8/Vmzgzqz/357x840.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-24": 188.0,
         "2026-10-25": 188.0,
@@ -546,11 +553,12 @@
         "2026-11-24": 227.99,
         "2026-11-25": 222.99,
         "2026-11-26": 229.99,
-        "2026-11-27": 229.99
+        "2026-11-27": 229.99,
+        "2026-11-28": 217.99
       },
       "low_price": 185.99,
-      "prev_price": 222.99,
-      "prev_date": "2026-11-25",
+      "prev_price": 229.99,
+      "prev_date": "2026-11-27",
       "ph_ean": "3519280020105",
       "rating": 4.5
     },
@@ -586,7 +594,7 @@
       "bol_title": "Tefal PerfectMix+ BL871A - High-Speed Blender - 1.5L - 1200W - Dune - Voor Smoothies en IJscrushen",
       "url": "https://www.bol.com/nl/nl/p/tefal-perfectmix-bl871a-high-speed-blender-dune/9300000140755803/",
       "image": "https://media.s-bol.com/7Pk3NB1OrRxB/qQDDB10/550x644.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 111.0,
         "2026-10-16": 112.0,
@@ -629,7 +637,8 @@
         "2026-11-24": 110.0,
         "2026-11-25": 108.0,
         "2026-11-26": 98.43,
-        "2026-11-27": 98.43
+        "2026-11-27": 98.43,
+        "2026-11-28": 98.43
       },
       "low_price": 98.43,
       "prev_price": 108.0,
@@ -640,7 +649,7 @@
     {
       "brand": "Tefal",
       "name": "BlendForce II BL4208",
-      "price": 44.95,
+      "price": 42.99,
       "score": 7.8,
       "label": null,
       "reviews": "bol-score 4,3 van 5",
@@ -701,12 +710,13 @@
         "2026-11-24": 44.95,
         "2026-11-25": 44.95,
         "2026-11-26": 44.95,
-        "2026-11-27": 44.95
+        "2026-11-27": 44.95,
+        "2026-11-28": 42.99
       },
-      "low_price": 44.95,
-      "synced": "2026-11-27",
-      "prev_price": 47.95,
-      "prev_date": "2026-11-14",
+      "low_price": 42.99,
+      "synced": "2026-11-28",
+      "prev_price": 44.95,
+      "prev_date": "2026-11-27",
       "ph_ean": "3016661151361",
       "rating": 4.3
     }

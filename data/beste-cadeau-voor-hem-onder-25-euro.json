@@ -82,10 +82,11 @@
         "2026-11-24": 23.76,
         "2026-11-25": 23.76,
         "2026-11-26": 23.76,
-        "2026-11-27": 23.76
+        "2026-11-27": 23.76,
+        "2026-11-28": 23.76
       },
       "low_price": 23.76,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "7611160100092",
       "rating": 4.8
     },
@@ -142,17 +143,18 @@
         "2026-11-24": 16.95,
         "2026-11-25": 16.95,
         "2026-11-26": 16.95,
-        "2026-11-27": 16.95
+        "2026-11-27": 16.95,
+        "2026-11-28": 16.95
       },
       "low_price": 16.95,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "6941812758663",
       "rating": 4.2
     },
     {
       "brand": "Black Diamond",
       "name": "Astro 300 hoofdlamp",
-      "price": 22.65,
+      "price": 22.0,
       "score": 9.0,
       "label": "Beste premium",
       "oneliner": "Lichte hoofdlamp voor hardlopen, kamperen of klussen in het donker.",
@@ -195,13 +197,14 @@
         "2026-11-24": 22.0,
         "2026-11-25": 22.0,
         "2026-11-26": 22.65,
-        "2026-11-27": 22.65
+        "2026-11-27": 22.65,
+        "2026-11-28": 22.0
       },
       "low_price": 18.7,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "0793661519881",
-      "prev_price": 22.0,
-      "prev_date": "2026-11-25",
+      "prev_price": 22.65,
+      "prev_date": "2026-11-27",
       "rating": 5.0
     },
     {
@@ -257,10 +260,11 @@
         "2026-11-24": 18.99,
         "2026-11-25": 18.99,
         "2026-11-26": 18.99,
-        "2026-11-27": 18.99
+        "2026-11-27": 18.99,
+        "2026-11-28": 18.99
       },
       "low_price": 18.89,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 19.99,
       "prev_date": "2026-11-18",
       "ph_ean": "0810083040387",
@@ -312,10 +316,11 @@
         "2026-11-24": 23.95,
         "2026-11-25": 23.95,
         "2026-11-26": 23.95,
-        "2026-11-27": 23.95
+        "2026-11-27": 23.95,
+        "2026-11-28": 23.95
       },
       "low_price": 23.95,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "8006363011686",
       "rating": 4.6
     },
@@ -349,7 +354,7 @@
       "bol_title": "White Goblin Games - Codenames - Partyspel - 4 tot 8 spelers - Vanaf 8 jaar - 15 minuten - Hit in binnen- en buitenland",
       "url": "https://www.bol.com/nl/nl/p/white-goblin-games-codenames-nieuw-artwork/9300000241246651/",
       "image": "https://media.s-bol.com/xM5NrKDn0Enz/mwNL6Wr/543x840.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "8718026307103",
       "ph": {
         "2026-11-17": 24.95,
@@ -362,7 +367,8 @@
         "2026-11-24": 24.95,
         "2026-11-25": 24.95,
         "2026-11-26": 24.95,
-        "2026-11-27": 24.95
+        "2026-11-27": 24.95,
+        "2026-11-28": 24.95
       },
       "low_price": 24.95,
       "rating": 4.8
@@ -401,11 +407,12 @@
       "ph": {
         "2026-11-25": 19.99,
         "2026-11-26": 19.99,
-        "2026-11-27": 19.99
+        "2026-11-27": 19.99,
+        "2026-11-28": 19.99
       },
       "low_price": 19.99,
       "ph_ean": "5702017816227",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Remington",
@@ -433,7 +440,7 @@
       "ideal": "Mannen met een stoppelbaard of korte baard die hem zelf op lengte willen houden.",
       "text": "Een baardtrimmer van een bekend merk onder de 25 euro is schaars, maar de Remington MB320C blijft er met 20 euro ruim onder. Hij heeft negen lengtestanden van 1,5 tot 18 millimeter, die je kiest met een zoomwiel op de handgreep. De gekozen stand vergrendelt, zodat de lengte tijdens het trimmen gelijk blijft. Een venster op de behuizing laat zien welke stand is ingesteld. Voor de randen van de baard zit er een uitschuifbare detailtrimmer op.\n\nDe messen hebben een keramische coating en zijn zelfslijpend. Op een volle accu trimt hij 40 minuten zonder snoer. Is de accu leeg, dan werkt hij ook aan het snoer. Het opladen duurt wel 16 uur, dus leg hem op tijd aan de lader. Op bol krijgt hij 4,5 sterren. Hij is niet geschikt voor nat scheren, maar wel afspoelbaar. Remington geeft 3 jaar fabrieksgarantie. Als cadeau voor hem onder 25 euro is dit een praktisch verzorgingsproduct. Combineer het eventueel met een klein flesje baardolie voor een persoonlijker pakketje.",
       "ean": "4008496590087",
-      "reviews": "bol-score 4,5 van 5",
+      "reviews": "bol-score 4,6 van 5",
       "bol_title": "Remington MB320C - Baardtrimmer",
       "url": "https://www.bol.com/nl/nl/p/remington-mb320c-baardtrimmer/9200000011860382/",
       "image": "https://media.s-bol.com/kVnx02qZDJBY/0GggRv/307x840.jpg",
@@ -453,17 +460,18 @@
         "2026-11-24": 19.99,
         "2026-11-25": 19.99,
         "2026-11-26": 19.99,
-        "2026-11-27": 19.99
+        "2026-11-27": 19.99,
+        "2026-11-28": 19.99
       },
       "low_price": 19.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "4008496590087",
-      "rating": 4.5
+      "rating": 4.6
     },
     {
       "brand": "Weber",
       "name": "Digitale thermometer",
-      "price": 24.49,
+      "price": 19.99,
       "score": 8.4,
       "label": null,
       "oneliner": "Snelle vleesthermometer om kip en steak precies goed te garen.",
@@ -513,12 +521,13 @@
         "2026-11-24": 24.49,
         "2026-11-25": 24.49,
         "2026-11-26": 24.49,
-        "2026-11-27": 24.49
+        "2026-11-27": 24.49,
+        "2026-11-28": 19.99
       },
-      "low_price": 22.99,
-      "synced": "2026-11-27",
-      "prev_price": 22.99,
-      "prev_date": "2026-11-13",
+      "low_price": 19.99,
+      "synced": "2026-11-28",
+      "prev_price": 24.49,
+      "prev_date": "2026-11-27",
       "ph_ean": "0077924048395",
       "rating": 4.3
     },
@@ -575,10 +584,11 @@
         "2026-11-24": 15.99,
         "2026-11-25": 15.99,
         "2026-11-26": 15.99,
-        "2026-11-27": 15.99
+        "2026-11-27": 15.99,
+        "2026-11-28": 15.99
       },
       "low_price": 15.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "8720174772405",
       "rating": 4.6
     }

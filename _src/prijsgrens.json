@@ -1,4 +1,29 @@
 {
  "datum": "2026-11-28",
- "overtreders": []
+ "overtreders": [
+  {
+   "slug": "beste-tv-43-inch-onder-300-euro",
+   "grens": 300,
+   "plek": 5,
+   "product": "TCL 43S51K",
+   "prijs": 356.16,
+   "ean": "5901292527075",
+   "laagste_30d": 230.53,
+   "dagen_boven": 1,
+   "dagen_gemeten": 8,
+   "reden": "boven grens"
+  },
+  {
+   "slug": "beste-tv-onder-300-euro",
+   "grens": 300,
+   "plek": 3,
+   "product": "TCL 43S51K",
+   "prijs": 356.16,
+   "ean": "5901292527075",
+   "laagste_30d": 230.53,
+   "dagen_boven": 1,
+   "dagen_gemeten": 26,
+   "reden": "boven grens"
+  }
+ ]
 }

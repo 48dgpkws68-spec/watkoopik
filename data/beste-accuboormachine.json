@@ -49,7 +49,7 @@
       "bol_title": "Makita DDF485RTJ accu-boor/schroefmachine",
       "url": "https://www.bol.com/nl/nl/p/makita-ddf485rtj-accu-boor-schroefmachine/9200000107796743/",
       "image": "https://media.s-bol.com/n3G6Mn6qK1Ql/KO3vD9n/496x840.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-14": 280.0,
         "2026-10-15": 280.0,
@@ -93,7 +93,8 @@
         "2026-11-24": 261.0,
         "2026-11-25": 261.0,
         "2026-11-26": 261.0,
-        "2026-11-27": 261.0
+        "2026-11-27": 261.0,
+        "2026-11-28": 261.0
       },
       "low_price": 241.0,
       "prev_price": 241.0,
@@ -104,7 +105,7 @@
     {
       "brand": "Milwaukee",
       "name": "M18 FPD3-0X (zonder accu)",
-      "price": 209.0,
+      "price": 255.0,
       "score": 9.2,
       "label": "Beste premium",
       "reviews": "",
@@ -136,10 +137,13 @@
       "image": "https://media.s-bol.com/Bm694mZyLBZn/kR8y3pJ/550x761.jpg",
       "ph": {
         "2026-11-26": 209.0,
-        "2026-11-27": 209.0
+        "2026-11-27": 209.0,
+        "2026-11-28": 255.0
       },
       "low_price": 209.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 209.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Bosch Professional",
@@ -172,7 +176,7 @@
       "bol_title": "Bosch Professional GSR 18V-55 Accu Schroefboormachine 18V 4.0Ah in L-Boxx - 06019H5200",
       "url": "https://www.bol.com/nl/nl/p/bosch-professional-gsr-18v-55-06019h5200-accu-schroefboormachine-18-v-4-0-ah-li-ion-brushless-incl-2-accus-incl-lader-incl-koffer/9300000050294302/",
       "image": "https://media.s-bol.com/VV9WmgVzqJrW/AD85pKz/550x816.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 299.0,
         "2026-10-16": 299.0,
@@ -215,7 +219,8 @@
         "2026-11-24": 299.0,
         "2026-11-25": 299.0,
         "2026-11-26": 299.0,
-        "2026-11-27": 299.0
+        "2026-11-27": 299.0,
+        "2026-11-28": 299.0
       },
       "low_price": 293.02,
       "prev_price": 293.02,
@@ -225,7 +230,7 @@
     {
       "brand": "Makita",
       "name": "DF333DSAE",
-      "price": 167.0,
+      "price": 155.99,
       "score": 8.8,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 5,0 van 5",
@@ -253,7 +258,7 @@
       "bol_title": "Makita Accuboor-/schroefmachine DF333DSAE 10,8V incl. 2x 2,0Ah accus & opbergkoffer",
       "url": "https://www.bol.com/nl/nl/p/makita-accuboor-schroefmachine-df333dsae-10-8v-incl-2x-2-0ah-accus-opbergkoffer/9200000107831244/",
       "image": "https://media.s-bol.com/VrqZJpDRRmO/550x778.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-14": 167.0,
         "2026-10-15": 167.0,
@@ -297,18 +302,19 @@
         "2026-11-24": 167.0,
         "2026-11-25": 167.0,
         "2026-11-26": 167.0,
-        "2026-11-27": 167.0
+        "2026-11-27": 167.0,
+        "2026-11-28": 155.99
       },
-      "low_price": 159.87,
-      "prev_price": 159.87,
-      "prev_date": "2026-11-10",
+      "low_price": 155.99,
+      "prev_price": 167.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "0088381872577",
       "rating": 5.0
     },
     {
       "brand": "DeWalt",
       "name": "DCD777S2T",
-      "price": 164.99,
+      "price": 168.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -342,15 +348,18 @@
         "2026-11-24": 164.99,
         "2026-11-25": 164.99,
         "2026-11-26": 164.99,
-        "2026-11-27": 164.99
+        "2026-11-27": 164.99,
+        "2026-11-28": 168.0
       },
       "low_price": 164.99,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 164.99,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Bosch Professional",
       "name": "GSR 12V-35 FC FlexiClick 06019H3009",
-      "price": 332.85,
+      "price": 363.86,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -393,13 +402,14 @@
         "2026-11-24": 336.9,
         "2026-11-25": 334.0,
         "2026-11-26": 332.85,
-        "2026-11-27": 332.85
+        "2026-11-27": 332.85,
+        "2026-11-28": 363.86
       },
       "low_price": 332.85,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "rating": 4.9,
-      "prev_price": 334.0,
-      "prev_date": "2026-11-25"
+      "prev_price": 332.85,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Bosch",
@@ -432,7 +442,7 @@
       "bol_title": "Bosch UniversalDrill 18V-60 Accuschroefboormachine - Met 18 V accu (2.0 Ah) en lader",
       "url": "https://www.bol.com/nl/nl/p/bosch-universaldrill-18v-60-accuschroefboormachine-met-18-v-accu-en-lader/9300000074273883/",
       "image": "https://media.s-bol.com/Nv98Y0XRx1Bm/g5zPPKG/550x838.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 89.0,
         "2026-10-16": 87.22,
@@ -475,7 +485,8 @@
         "2026-11-24": 107.93,
         "2026-11-25": 99.77,
         "2026-11-26": 99.77,
-        "2026-11-27": 99.99
+        "2026-11-27": 99.99,
+        "2026-11-28": 99.99
       },
       "low_price": 87.22,
       "prev_price": 99.77,
@@ -530,15 +541,16 @@
         "2026-11-24": 119.64,
         "2026-11-25": 119.64,
         "2026-11-26": 119.64,
-        "2026-11-27": 119.64
+        "2026-11-27": 119.64,
+        "2026-11-28": 119.64
       },
       "low_price": 119.64,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Einhell",
       "name": "TE-CD 18/40 Li Solo",
-      "price": 32.16,
+      "price": 32.46,
       "score": 7.9,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -566,7 +578,7 @@
       "bol_title": "Einhell Accu Boor-/Schroefmachine TE-CD 18/40 Li Solo - Power X-Change - 18 V/Li-Ion - 40 Nm - 0-400/0-1.500 t/min - 13 mm snelspanboorkop - Elektronische snelheidsregeling - Excl. accu en lader",
       "url": "https://www.bol.com/nl/nl/p/einhell-accu-boor-schroefmachine-te-cd-18-40-li-solo-power-x-change/9200000117880627/",
       "image": "https://media.s-bol.com/n3LLBA9ED1pE/N9LRrg6/550x670.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-14": 48.99,
         "2026-10-15": 48.99,
@@ -610,11 +622,12 @@
         "2026-11-24": 33.41,
         "2026-11-25": 39.04,
         "2026-11-26": 36.65,
-        "2026-11-27": 32.16
+        "2026-11-27": 32.16,
+        "2026-11-28": 32.46
       },
       "low_price": 32.16,
-      "prev_price": 36.65,
-      "prev_date": "2026-11-26",
+      "prev_price": 32.16,
+      "prev_date": "2026-11-27",
       "ph_ean": "4006825635768",
       "rating": 5.0
     },
@@ -672,10 +685,11 @@
         "2026-11-24": 51.6,
         "2026-11-25": 51.6,
         "2026-11-26": 51.6,
-        "2026-11-27": 51.6
+        "2026-11-27": 51.6,
+        "2026-11-28": 51.6
       },
       "low_price": 49.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 56.99,
       "prev_date": "2026-11-14",
       "ph_ean": "5035048645444",

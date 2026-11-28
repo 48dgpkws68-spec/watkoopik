@@ -57,11 +57,12 @@
         "2026-11-24": 269.0,
         "2026-11-25": 269.0,
         "2026-11-26": 269.0,
-        "2026-11-27": 241.0
+        "2026-11-27": 241.0,
+        "2026-11-28": 241.0
       },
       "low_price": 241.0,
       "ph_ean": "4002516833789",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 269.0,
       "prev_date": "2026-11-26"
     },
@@ -96,7 +97,7 @@
       "bol_title": "Philips 5000-serie Stofzuiger met zak - 900 W - TriActive-mondstuk - Meubelmondstuk & Geïntegreerde accessoires - HEPA-filter - Zachte bumper - Zwart - XD5123/10",
       "url": "https://www.bol.com/nl/nl/p/philips-5000-serie-triactive-led-xd5123-10-stofzuiger-met-zak/9300000171550613/",
       "image": "https://media.s-bol.com/YK18VMXNQDOp/VPmWp8B/550x638.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-17": 119.99,
         "2026-10-18": 119.99,
@@ -137,7 +138,8 @@
         "2026-11-24": 154.5,
         "2026-11-25": 154.5,
         "2026-11-26": 114.99,
-        "2026-11-27": 114.99
+        "2026-11-27": 114.99,
+        "2026-11-28": 114.99
       },
       "low_price": 109.99,
       "prev_price": 154.5,
@@ -148,7 +150,7 @@
     {
       "brand": "Miele",
       "name": "Guard L1 Comfort HEPA",
-      "price": 448.0,
+      "price": 409.0,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "bol-score 4,1 van 5",
@@ -176,7 +178,7 @@
       "bol_title": "Miele Guard L1 Comfort Titanium Pearlfinish HEPA - Stofzuiger met zak",
       "url": "https://www.bol.com/nl/nl/p/miele-guard-l1-comfort-titanium-pearlfinish-hepa-stofzuiger-met-zak/9300000188891920/",
       "image": "https://media.s-bol.com/ZxOkGwOOQWZw/0RPDP17/550x385.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-17": 448.0,
         "2026-10-18": 448.0,
@@ -217,11 +219,12 @@
         "2026-11-24": 448.0,
         "2026-11-25": 448.0,
         "2026-11-26": 448.0,
-        "2026-11-27": 448.0
+        "2026-11-27": 448.0,
+        "2026-11-28": 409.0
       },
       "low_price": 409.0,
-      "prev_price": 409.0,
-      "prev_date": "2026-11-14",
+      "prev_price": 448.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "4002516794578",
       "rating": 4.1
     },
@@ -256,7 +259,7 @@
       "bol_title": "Sebo Airbelt K2 - Stofzuiger met zak",
       "url": "https://www.bol.com/nl/nl/p/sebo-airbelt-k2-stofzuiger-met-zak/9200000104459592/",
       "image": "https://media.s-bol.com/qwkYrW7rPX0/415x840.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-17": 289.0,
         "2026-10-18": 289.0,
@@ -297,7 +300,8 @@
         "2026-11-24": 294.0,
         "2026-11-25": 294.0,
         "2026-11-26": 294.0,
-        "2026-11-27": 294.0
+        "2026-11-27": 294.0,
+        "2026-11-28": 294.0
       },
       "low_price": 289.0,
       "prev_price": 289.0,
@@ -338,10 +342,11 @@
       "bol_title": "Electrolux PURE D8.2 - Stofzuiger - Cilia stilte - SmartMode",
       "url": "https://www.bol.com/nl/nl/p/stofzuiger-electrolux-pd82-anima-rood-600-w/9300000077909247/",
       "image": "https://media.s-bol.com/6KwqJoGWN1gR/o1Lz0X/550x550.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "7332543693900",
       "ph": {
-        "2026-11-27": 186.5
+        "2026-11-27": 186.5,
+        "2026-11-28": 186.5
       },
       "low_price": 186.5
     },
@@ -383,18 +388,19 @@
         "2026-11-24": 243.0,
         "2026-11-25": 249.0,
         "2026-11-26": 249.0,
-        "2026-11-27": 249.0
+        "2026-11-27": 249.0,
+        "2026-11-28": 249.0
       },
       "low_price": 223.1,
       "ph_ean": "7333394095967",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 243.0,
       "prev_date": "2026-11-24"
     },
     {
       "brand": "Numatic",
       "name": "Henry Compact HVR160-11",
-      "price": 184.0,
+      "price": 178.84,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -423,7 +429,7 @@
       "bol_title": "Numatic Henry Compact HVR160-11 - Stofzuiger met zak - Rood",
       "url": "https://www.bol.com/nl/nl/p/numatic-henry-compact-hvr160-stofzuiger-met-zak-rood/9200000071467753/",
       "image": "https://media.s-bol.com/j179EZyyp15P/VmB6Xjo/550x550.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-17": 185.0,
         "2026-10-18": 185.0,
@@ -464,18 +470,19 @@
         "2026-11-24": 195.0,
         "2026-11-25": 183.0,
         "2026-11-26": 184.0,
-        "2026-11-27": 184.0
+        "2026-11-27": 184.0,
+        "2026-11-28": 178.84
       },
-      "low_price": 180.0,
-      "prev_price": 183.0,
-      "prev_date": "2026-11-25",
+      "low_price": 178.84,
+      "prev_price": 184.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "5028965701195",
       "rating": 4.7
     },
     {
       "brand": "Nilfisk",
       "name": "One Pet Care",
-      "price": 139.0,
+      "price": 136.0,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -503,7 +510,7 @@
       "bol_title": "Stofzuiger NILFISK 128390145 One Pet Care",
       "url": "https://www.bol.com/nl/nl/p/nilfisk-one-pet-care/9300000047981962/",
       "image": "https://media.s-bol.com/0jrA6jNOZM87/J6WyNR2/550x777.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-17": 138.0,
         "2026-10-18": 139.0,
@@ -544,18 +551,19 @@
         "2026-11-24": 139.0,
         "2026-11-25": 139.0,
         "2026-11-26": 139.0,
-        "2026-11-27": 139.0
+        "2026-11-27": 139.0,
+        "2026-11-28": 136.0
       },
       "low_price": 130.99,
-      "prev_price": 135.99,
-      "prev_date": "2026-11-19",
+      "prev_price": 139.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "5715492227884",
       "rating": 4.7
     },
     {
       "brand": "Siemens",
       "name": "VS06A111 SynchroPower",
-      "price": 91.99,
+      "price": 89.0,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -583,7 +591,7 @@
       "bol_title": "Siemens VS06A111 SynchroPower Stofzuiger met zak – Compact – 600 W – 4L stofzak – Blauw/Zwart",
       "url": "https://www.bol.com/nl/nl/p/siemens-vs06a111-synchropower-stofzuiger-met-zak/9200000069068636/",
       "image": "https://media.s-bol.com/NWRWV3qYPozD/WnKKYLx/423x840.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-17": 89.0,
         "2026-10-18": 89.0,
@@ -624,11 +632,12 @@
         "2026-11-24": 94.99,
         "2026-11-25": 89.99,
         "2026-11-26": 89.99,
-        "2026-11-27": 91.99
+        "2026-11-27": 91.99,
+        "2026-11-28": 89.0
       },
       "low_price": 89.0,
-      "prev_price": 89.99,
-      "prev_date": "2026-11-26",
+      "prev_price": 91.99,
+      "prev_date": "2026-11-27",
       "ph_ean": "4242003782002",
       "rating": 4.5
     },
@@ -663,7 +672,7 @@
       "bol_title": "Rowenta RO3923 Hygiene+ - Stofzuiger met Zak - Compact - Geschikt voor Allergieën - Stille Prestaties",
       "url": "https://www.bol.com/nl/nl/p/rowenta-ro3923ea-hygiene-stofzuiger-met-zak/9300000158815946/",
       "image": "https://media.s-bol.com/r4qnklB9BOA4/lOpYrAJ/451x840.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-17": 79.99,
         "2026-10-18": 79.99,
@@ -704,7 +713,8 @@
         "2026-11-24": 69.99,
         "2026-11-25": 69.99,
         "2026-11-26": 69.99,
-        "2026-11-27": 69.99
+        "2026-11-27": 69.99,
+        "2026-11-28": 69.99
       },
       "low_price": 69.99,
       "prev_price": 79.99,

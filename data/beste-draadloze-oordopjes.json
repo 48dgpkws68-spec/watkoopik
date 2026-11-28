@@ -25,7 +25,7 @@
       "price": 229.0,
       "score": 9.4,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,0 van 5",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Nieuwe topmodel van Sony met acht microfoons en sterke noise cancelling.",
       "specs": {
         "Noise cancelling": "Ja, adaptief",
@@ -72,14 +72,15 @@
         "2026-11-24": 229.0,
         "2026-11-25": 229.0,
         "2026-11-26": 229.0,
-        "2026-11-27": 229.0
+        "2026-11-27": 229.0,
+        "2026-11-28": 229.0
       },
       "low_price": 229.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 274.0,
       "prev_date": "2026-11-08",
       "ph_ean": "4548736171824",
-      "rating": 4.0
+      "rating": 4.1
     },
     {
       "brand": "Nothing",
@@ -112,7 +113,7 @@
       "ean": "6974434222199",
       "url": "https://www.bol.com/nl/nl/p/nothing-ear-true-wireless-draadloze-oordopjes-noice-cancelling-wit/9300000175300573/",
       "image": "https://media.s-bol.com/wqoXlVYQrmxX/Z6pZz8E/550x808.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "bol_title": "Nothing Ear (a) True Wireless Draadloze Oordopjes - Noise Cancelling - Wit",
       "ph": {
         "2026-10-13": 64.95,
@@ -158,7 +159,8 @@
         "2026-11-24": 62.37,
         "2026-11-25": 63.0,
         "2026-11-26": 63.0,
-        "2026-11-27": 63.0
+        "2026-11-27": 63.0,
+        "2026-11-28": 63.0
       },
       "low_price": 62.37,
       "prev_price": 62.37,
@@ -169,7 +171,7 @@
     {
       "brand": "Apple",
       "name": "AirPods Pro 3",
-      "price": 211.0,
+      "price": 207.5,
       "score": 9.2,
       "label": "Beste premium",
       "reviews": "bol-score 4,5 van 5",
@@ -197,7 +199,7 @@
       "ean": "0195950543742",
       "url": "https://www.bol.com/nl/nl/p/apple-airpods-pro-3-in-ear-koptelefoon-usb-c/9300000239314960/",
       "image": "https://media.s-bol.com/yNOyG8Lw4Moz/1j7rONV/530x840.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "bol_title": "Apple Airpods Pro 3 - In-ear koptelefoon - USB-C",
       "ph": {
         "2026-10-13": 215.95,
@@ -243,11 +245,12 @@
         "2026-11-24": 207.5,
         "2026-11-25": 207.5,
         "2026-11-26": 211.0,
-        "2026-11-27": 211.0
+        "2026-11-27": 211.0,
+        "2026-11-28": 207.5
       },
       "low_price": 202.0,
-      "prev_price": 207.5,
-      "prev_date": "2026-11-25",
+      "prev_price": 211.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "0195950543742",
       "rating": 4.5
     },
@@ -283,7 +286,7 @@
       "bol_title": "Bose QuietComfort Ultra – In-ear draadloze oordopjes – Bluetooth 5.3 – Active Noise Cancelling – Zwart",
       "url": "https://www.bol.com/nl/nl/p/bose-quietcomfort-ultra-in-ear-draadloze-oordopjes-bluetooth-5-3-active-noise-cancelling-zwart/9300000236077496/",
       "image": "https://media.s-bol.com/xK0N2gYV8DmB/46KqMZ2/550x550.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 299.0,
         "2026-10-16": 299.0,
@@ -326,7 +329,8 @@
         "2026-11-24": 199.0,
         "2026-11-25": 199.0,
         "2026-11-26": 199.0,
-        "2026-11-27": 199.0
+        "2026-11-27": 199.0,
+        "2026-11-28": 199.0
       },
       "low_price": 199.0,
       "prev_price": 199.95,
@@ -375,11 +379,12 @@
         "2026-11-24": 129.0,
         "2026-11-25": 149.99,
         "2026-11-26": 149.99,
-        "2026-11-27": 149.99
+        "2026-11-27": 149.99,
+        "2026-11-28": 149.99
       },
       "low_price": 129.0,
       "ph_ean": "8806095646787",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 129.0,
       "prev_date": "2026-11-24",
       "rating": 4.2
@@ -387,7 +392,7 @@
     {
       "brand": "Sennheiser",
       "name": "Momentum True Wireless 4",
-      "price": 146.0,
+      "price": 132.0,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 3,7 van 5",
@@ -415,7 +420,7 @@
       "ean": "4260752332408",
       "url": "https://www.bol.com/nl/nl/p/sennheiser-momentum-true-wireless-4-graphite/9300000170862499/",
       "image": "https://media.s-bol.com/YN36N0xxYL4n/jRRz1Ey/550x529.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "bol_title": "Sennheiser Momentum True Wireless 4 - Draadloze oordopjes met Noise Cancelling - 30u batterij - Snelladen - 6 Microfoons - Graphite",
       "ph": {
         "2026-10-13": 167.0,
@@ -461,18 +466,19 @@
         "2026-11-24": 149.0,
         "2026-11-25": 149.0,
         "2026-11-26": 146.0,
-        "2026-11-27": 146.0
+        "2026-11-27": 146.0,
+        "2026-11-28": 132.0
       },
-      "low_price": 146.0,
-      "prev_price": 149.0,
-      "prev_date": "2026-11-25",
+      "low_price": 132.0,
+      "prev_price": 146.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "4260752332408",
       "rating": 3.7
     },
     {
       "brand": "Google",
       "name": "Pixel Buds Pro 2",
-      "price": 169.0,
+      "price": 199.99,
       "score": 8.6,
       "label": null,
       "reviews": "",
@@ -500,7 +506,7 @@
       "ean": "0840244604646",
       "url": "https://www.bol.com/nl/nl/p/google-pixel-buds-pro-2-headset-true-wireless-stereo-in-ear-gesprekken-muziek-sport-elke-dag-usb-type-c-bluetooth-hazelnoot/9300000189329007/",
       "image": "https://media.s-bol.com/R39VAJggjpVY/MZAml51/550x813.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "bol_title": "Google Pixel Buds Pro 2 grijs",
       "ph": {
         "2026-10-13": 198.0,
@@ -546,11 +552,12 @@
         "2026-11-24": 199.99,
         "2026-11-25": 199.99,
         "2026-11-26": 169.0,
-        "2026-11-27": 169.0
+        "2026-11-27": 169.0,
+        "2026-11-28": 199.99
       },
       "low_price": 169.0,
-      "prev_price": 199.99,
-      "prev_date": "2026-11-25",
+      "prev_price": 169.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "0840244604646"
     },
     {
@@ -585,7 +592,7 @@
       "bol_title": "JBL Live Beam 3 - Draadloze Noise Cancelling Oordopjes - Oortjes Draadloos - Smart Charging Case met Display - Bluetooth - Stick Design - 48 uur batterij - Zwart",
       "url": "https://www.bol.com/nl/nl/p/jbl-live-beam-3-volledig-draadloze-oordopjes-zwart/9300000167137781/",
       "image": "https://media.s-bol.com/k0wYQ99QYOWr/rkYDPB6/523x840.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-13": 112.0,
         "2026-10-14": 112.0,
@@ -630,7 +637,8 @@
         "2026-11-24": 99.0,
         "2026-11-25": 99.0,
         "2026-11-26": 99.0,
-        "2026-11-27": 99.0
+        "2026-11-27": 99.0,
+        "2026-11-28": 99.0
       },
       "low_price": 99.0,
       "prev_price": 119.0,
@@ -669,7 +677,7 @@
       "ean": "8806097621041",
       "bol_title": "Samsung Galaxy Buds3 FE - Zwart",
       "url": "https://www.bol.com/nl/nl/p/oordopjes-samsung-sm-r420nzkaxef-zwart/9300000237365116/",
-      "image": "https://media.s-bol.com/RGpWDWAVoMxO/Rg8JVDY/550x554.jpg",
+      "image": "https://media.s-bol.com/NJZBW93jBrDv/mwompDp/550x760.jpg",
       "ph": {
         "2026-11-02": 85.49,
         "2026-11-03": 85.49,
@@ -695,10 +703,11 @@
         "2026-11-24": 85.45,
         "2026-11-25": 85.45,
         "2026-11-26": 85.45,
-        "2026-11-27": 85.45
+        "2026-11-27": 85.45,
+        "2026-11-28": 85.45
       },
       "low_price": 85.45,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "8806097621041",
       "prev_price": 85.49,
       "prev_date": "2026-11-22",
@@ -736,7 +745,7 @@
       "bol_title": "soundcore Liberty 4 NC - Wireless Noise Cancelling Earbuds (Light Blauw) - 98.5% Noise Reduction - draadloze oordopjes- Adaptive Noise Cancelling to Ears and Environment - Hi-Res Sound - 50H Battery",
       "url": "https://www.bol.com/nl/nl/p/soundcore-liberty-4-nc-wireless-noise-cancelling-earbuds-98-5-noise-reduction-adaptive-noise-cancelling-to-ears-and-environment-hi-res-sound-50h-battery/9300000169762239/",
       "image": "https://media.s-bol.com/JpmMowj22p3g/Nxyo2Bv/550x622.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-13": 69.99,
         "2026-10-14": 69.99,
@@ -781,7 +790,8 @@
         "2026-11-24": 69.99,
         "2026-11-25": 69.99,
         "2026-11-26": 69.99,
-        "2026-11-27": 69.99
+        "2026-11-27": 69.99,
+        "2026-11-28": 69.99
       },
       "low_price": 69.99,
       "prev_price": 79.0,

@@ -116,17 +116,18 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-forest-frosted-kunstkerstboom-h120-x-o99-cm-groen/9200000030876915/",
       "image": "https://media.s-bol.com/1Rvj8owgZOEP/ROXorkE/550x828.jpg",
       "ph": {
-        "2026-11-27": 67.99
+        "2026-11-27": 67.99,
+        "2026-11-28": 67.99
       },
       "low_price": 67.99,
       "ph_ean": "0756770416847",
       "rating": 4.9,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Triumph Tree",
       "name": "Bristlecone 120 cm",
-      "price": 62.99,
+      "price": 57.0,
       "score": 9.1,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -154,12 +155,15 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-bristlecone-kunstkerstboom-h120-x-o79-cm-groen/9200000100112737/",
       "image": "https://media.s-bol.com/8Q4qAxyPZ2kg/Y7m76mp/537x840.jpg",
       "ph": {
-        "2026-11-27": 62.99
+        "2026-11-27": 62.99,
+        "2026-11-28": 57.0
       },
-      "low_price": 62.99,
+      "low_price": 57.0,
       "ph_ean": "8718861201147",
       "rating": 4.9,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 62.99,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Triumph Tree",
@@ -193,17 +197,18 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-tuscan-kunstkerstboom-h120-x-o81-cm-groen/9200000030877123/",
       "image": "https://media.s-bol.com/5Yz85vy6N2Yv/MwXQm5m/490x840.jpg",
       "ph": {
-        "2026-11-27": 36.99
+        "2026-11-27": 36.99,
+        "2026-11-28": 36.99
       },
       "low_price": 36.99,
       "ph_ean": "0756770889153",
       "rating": 4.5,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Black Box Trees",
       "name": "Toronto Deluxe 120 cm",
-      "price": 64.95,
+      "price": 68.95,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -231,12 +236,15 @@
       "url": "https://www.bol.com/nl/nl/p/black-box-trees-toronto-kunstkerstboom-deluxe-h120-cm-groen/9200000124458568/",
       "image": "https://media.s-bol.com/vGlAp9NrxA6n/r2k2l7L/505x840.jpg",
       "ph": {
-        "2026-11-27": 64.95
+        "2026-11-27": 64.95,
+        "2026-11-28": 68.95
       },
       "low_price": 64.95,
       "ph_ean": "8718861334692",
       "rating": 4.8,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 64.95,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Black Box Trees",
@@ -270,12 +278,13 @@
       "url": "https://www.bol.com/nl/nl/p/black-box-trees-frasier-kunstkerstboom-met-led-verlichting-h120-cm-groen/9200000100112767/",
       "image": "https://media.s-bol.com/V7ypkN3Nq4xO/470x840.jpg",
       "ph": {
-        "2026-11-27": 99.99
+        "2026-11-27": 99.99,
+        "2026-11-28": 99.99
       },
       "low_price": 99.99,
       "ph_ean": "8718861130645",
       "rating": 5.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Triumph Tree",
@@ -309,12 +318,13 @@
       "url": "https://www.bol.com/nl/nl/p/triumph-tree-forest-frosted-kunstkerstboom-smal-h120-x-o69-cm-groen/9200000067189236/",
       "image": "https://media.s-bol.com/BR3VvMJXpRKY/VPGDElo/465x840.jpg",
       "ph": {
-        "2026-11-27": 71.95
+        "2026-11-27": 71.95,
+        "2026-11-28": 71.95
       },
       "low_price": 71.95,
       "ph_ean": "8718861129915",
       "rating": 4.6,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Black Box Trees",
@@ -349,11 +359,12 @@
       "bol_title": "Black Box Trees Grimshaw Kunstkerstboom met LED-Verlichting op Batterijen en Timerfunctie- H120 x Ø60 cm - Groen",
       "rating": 4.2,
       "ph": {
-        "2026-11-27": 37.49
+        "2026-11-27": 37.49,
+        "2026-11-28": 37.49
       },
       "low_price": 37.49,
       "ph_ean": "8720983307294",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Black Box Trees",
@@ -387,12 +398,13 @@
       "url": "https://www.bol.com/nl/nl/p/black-box-trees-charlton-kunstkerstboom-h120-x-o76-cm-groen-frosted/9300000233061446/",
       "image": "https://media.s-bol.com/mJ9wozYJ9XXR/jZBqVAy/490x840.jpg",
       "ph": {
-        "2026-11-27": 29.99
+        "2026-11-27": 29.99,
+        "2026-11-28": 29.99
       },
       "low_price": 29.99,
       "ph_ean": "8720967839629",
       "rating": 4.6,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Excellent Trees",
@@ -426,12 +438,13 @@
       "url": "https://www.bol.com/nl/nl/p/excellent-trees-led-stavanger-kunstkerstboom-groen-120-cm-160-leds/9200000082600509/",
       "image": "https://media.s-bol.com/kxOMBXWRJAPE/jRMMRNl/550x824.jpg",
       "ph": {
-        "2026-11-27": 89.83
+        "2026-11-27": 89.83,
+        "2026-11-28": 89.83
       },
       "low_price": 89.83,
       "ph_ean": "8719323084254",
       "rating": 4.3,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Black Box Trees",
@@ -465,12 +478,13 @@
       "url": "https://www.bol.com/nl/nl/p/black-box-trees-gerlos-smalle-kunstkerstboom-in-jute-h120-x-o51-cm-groen-frosted/9300000189494366/",
       "image": "https://media.s-bol.com/jpZl9W78OYBY/A6D6Yol/342x840.jpg",
       "ph": {
-        "2026-11-27": 31.7
+        "2026-11-27": 31.7,
+        "2026-11-28": 31.7
       },
       "low_price": 31.7,
       "ph_ean": "8720967812356",
       "rating": 3.7,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     }
   ],
   "wissels": [

@@ -66,11 +66,12 @@
       "image": "https://media.s-bol.com/npWRVXPPJM8l/6RNQLq7/550x316.jpg",
       "rating": 4.0,
       "ph": {
-        "2026-11-27": 1559.0
+        "2026-11-27": 1559.0,
+        "2026-11-28": 1559.0
       },
       "low_price": 1559.0,
       "ph_ean": "8806096685983",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "LG",
@@ -105,12 +106,13 @@
       "url": "https://www.bol.com/nl/nl/p/smart-tv-lg-oled65b56la-aeu-4k-ultra-hd-65-hdr-oled/9300000229178473/",
       "image": "https://media.s-bol.com/wDrK6kjoKLgg/0RNBOoN/550x341.jpg",
       "ph": {
-        "2026-11-27": 1099.0
+        "2026-11-27": 1099.0,
+        "2026-11-28": 1099.0
       },
       "low_price": 1099.0,
       "ph_ean": "8806096345863",
       "rating": 5.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "LG",
@@ -145,12 +147,13 @@
       "url": "https://www.bol.com/nl/nl/p/lg-g5-oled65g56ls-65-inch-4k-oled-evo-2025/9300000229178466/",
       "image": "https://media.s-bol.com/xE12W65RG6mr/mZmPG03/550x335.jpg",
       "ph": {
-        "2026-11-27": 1648.95
+        "2026-11-27": 1648.95,
+        "2026-11-28": 1648.95
       },
       "low_price": 1648.95,
       "ph_ean": "8806096363591",
       "rating": 4.7,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Samsung",
@@ -185,12 +188,13 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-qe65s95hftxxn-qd-oled-65-inch/9300000278246901/",
       "image": "https://media.s-bol.com/R3lkYEER70GO/J86WLy2/550x344.jpg",
       "ph": {
-        "2026-11-27": 1879.0
+        "2026-11-27": 1879.0,
+        "2026-11-28": 1879.0
       },
       "low_price": 1879.0,
       "ph_ean": "8806099136116",
       "rating": 4.5,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Philips",
@@ -226,11 +230,12 @@
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-65oled810-12-65-inch-4k-oled-2025/9300000241514415/",
       "image": "https://media.s-bol.com/wLO877VYkyOX/RgV5JK0/550x330.jpg",
       "ph": {
-        "2026-11-27": 1550.0
+        "2026-11-27": 1550.0,
+        "2026-11-28": 1550.0
       },
       "low_price": 1550.0,
       "ph_ean": "8718863046692",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Sony",
@@ -265,12 +270,13 @@
       "url": "https://www.bol.com/nl/nl/p/sony-bravia-6-65-inch-4k-oled-2026-smart-tv/9300000360795474/",
       "image": "https://media.s-bol.com/7QA9vR73Q1DA/ywNAvY6/550x342.jpg",
       "ph": {
-        "2026-11-27": 1599.0
+        "2026-11-27": 1599.0,
+        "2026-11-28": 1599.0
       },
       "low_price": 1599.0,
       "ph_ean": "4548736182868",
       "rating": 5.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Philips",
@@ -305,16 +311,17 @@
       "url": "https://www.bol.com/nl/nl/p/philips-ambilight-65oled801-12-65-inch-4k-oled-2026/9300000350127260/",
       "image": "https://media.s-bol.com/R9x0LLQXOj3z/zvOrMky/550x339.jpg",
       "ph": {
-        "2026-11-27": 1299.0
+        "2026-11-27": 1299.0,
+        "2026-11-28": 1299.0
       },
       "low_price": 1299.0,
       "ph_ean": "8718863056189",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "LG",
       "name": "B6 OLED65B68LA",
-      "price": 1179.0,
+      "price": 1196.7,
       "score": 8.4,
       "label": null,
       "reviews": "",
@@ -344,11 +351,14 @@
       "url": "https://www.bol.com/nl/nl/p/lg-b6-oled65b68la-65-inch-4k-oled-2026/9300000278204439/",
       "image": "https://media.s-bol.com/qN3Gy5AvjWjk/GvO1xG3/550x329.jpg",
       "ph": {
-        "2026-11-27": 1179.0
+        "2026-11-27": 1179.0,
+        "2026-11-28": 1196.7
       },
       "low_price": 1179.0,
       "ph_ean": "8806096768051",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 1179.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "LG",
@@ -381,14 +391,15 @@
       "ean": "8806096686119",
       "bol_title": "LG G6 OLED65G69LS - 65 inch - 4K OLED - 2026 - Met standaard - Smart TV",
       "url": "https://www.bol.com/nl/nl/p/lg-g6-oled65g69ls-65-inch-4k-oled-2025-smart-tv/9300000270241054/",
-      "image": "https://media.s-bol.com/gl2En03x6B5k/83Zogp2/550x366.jpg",
+      "image": "https://media.s-bol.com/Kw6mxAX8GR2r/83ZgGX3/550x330.jpg",
       "ph": {
-        "2026-11-27": 1989.0
+        "2026-11-27": 1989.0,
+        "2026-11-28": 1989.0
       },
       "low_price": 1989.0,
       "ph_ean": "8806096686119",
       "rating": 4.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Samsung",
@@ -423,11 +434,12 @@
       "url": "https://www.bol.com/nl/nl/p/samsung-qe65s83h-65-inch-4k-oled-2026-smart-tv/9300000284690232/",
       "image": "https://media.s-bol.com/p05RyW2zkBAV/G5kWRWr/550x346.jpg",
       "ph": {
-        "2026-11-27": 1249.0
+        "2026-11-27": 1249.0,
+        "2026-11-28": 1249.0
       },
       "low_price": 1249.0,
       "ph_ean": "8806097979623",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     }
   ],
   "guide": [

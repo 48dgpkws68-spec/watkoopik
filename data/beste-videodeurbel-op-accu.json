@@ -68,19 +68,20 @@
         "2026-11-24": 99.0,
         "2026-11-25": 99.0,
         "2026-11-26": 99.0,
-        "2026-11-27": 99.0
+        "2026-11-27": 99.0,
+        "2026-11-28": 99.0
       },
       "low_price": 99.0,
       "ph_ean": "4895252501254",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "eufy",
       "name": "Security E340",
-      "price": 130.0,
+      "price": 119.0,
       "score": 9.1,
       "label": "Beste premium",
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Twee camera's: één op je bezoeker, één op de deurmat.",
       "specs": {
         "Resolutie": "2K + 1080p",
@@ -100,9 +101,9 @@
         "Twee camera's kosten meer stroom dan één"
       ],
       "ideal": "Wie veel pakketten krijgt en die op de mat goed in beeld wil hebben.",
-      "text": "De eufy Security E340 is de beste premium deurbel op accu in deze vergelijking. Het bijzondere zit in de twee camera's. De bovenste filmt in 2K wie er voor de deur staat, de onderste kijkt omlaag naar de grond. Zo zie je ook een pakket dat vlak tegen de deur staat. Krijgt iemand je pakket in handen voordat jij het pakt, dan stuurt de slimme pakketdetectie een melding.\n\nOpnames gaan naar 8 GB ingebouwde opslag. Volgens eufy is dat genoeg voor ongeveer zestig dagen aan gebeurtenissen en je betaalt er geen abonnement voor. De deurbel werkt draadloos op de accu maar kan ook aan een bestaande beldraad. Aan de boven- en onderkant zitten lampjes die oplichten als iemand 's avonds aan komt lopen. Deze versie van 130 euro heeft geen gong, die koop je los of je gebruikt de melding op je telefoon. Bij bol staat de E340 op een 4,3 van 5. Kopers noemen vooral het extra zicht op de mat.",
+      "text": "De eufy Security E340 is de beste premium deurbel op accu in deze vergelijking. Het bijzondere zit in de twee camera's. De bovenste filmt in 2K wie er voor de deur staat, de onderste kijkt omlaag naar de grond. Zo zie je ook een pakket dat vlak tegen de deur staat. Krijgt iemand je pakket in handen voordat jij het pakt, dan stuurt de slimme pakketdetectie een melding.\n\nOpnames gaan naar 8 GB ingebouwde opslag. Volgens eufy is dat genoeg voor ongeveer zestig dagen aan gebeurtenissen en je betaalt er geen abonnement voor. De deurbel werkt draadloos op de accu maar kan ook aan een bestaande beldraad. Aan de boven- en onderkant zitten lampjes die oplichten als iemand 's avonds aan komt lopen. Deze versie van 130 euro heeft geen gong, die koop je los of je gebruikt de melding op je telefoon. Bij bol staat de E340 op een 4,1 van 5. Kopers noemen vooral het extra zicht op de mat.",
       "ean": "0194644151201",
-      "rating": 4.3,
+      "rating": 4.1,
       "bol_title": "eufy Security E340 Video Deurbel - Video Doorbell - Dual-Cam technologie - 2K Full HD-resolutie - Kleur nachtzicht - AI-pakketdetectie - Geen maandelijkse kosten - Draadloze installatie - Compatibel met Alexa en Google Assistant",
       "url": "https://www.bol.com/nl/nl/p/eufy-security-video-doorbell-e340-dubbele-camera-met-delivery-guard-2k-nachtzicht-in-kleur-bedraad-of-met-accu-draadloze-bel-uitbreidbare-lokale-opslag-tot-128-gb-geen-maandelijkse-kosten/9300000159974293/",
       "image": "https://media.s-bol.com/ByPgmjp3nGRQ/wXKYr1/286x840.jpg",
@@ -112,11 +113,14 @@
         "2026-11-24": 130.0,
         "2026-11-25": 130.0,
         "2026-11-26": 130.0,
-        "2026-11-27": 130.0
+        "2026-11-27": 130.0,
+        "2026-11-28": 119.0
       },
-      "low_price": 130.0,
+      "low_price": 119.0,
       "ph_ean": "0194644151201",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 130.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Ring",
@@ -156,11 +160,12 @@
         "2026-11-24": 49.99,
         "2026-11-25": 49.99,
         "2026-11-26": 49.99,
-        "2026-11-27": 49.99
+        "2026-11-27": 49.99,
+        "2026-11-28": 49.99
       },
       "low_price": 49.99,
       "ph_ean": "0840414681798",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "eufy",
@@ -200,11 +205,12 @@
         "2026-11-24": 54.99,
         "2026-11-25": 54.99,
         "2026-11-26": 49.0,
-        "2026-11-27": 49.0
+        "2026-11-27": 49.0,
+        "2026-11-28": 49.0
       },
       "low_price": 49.0,
       "ph_ean": "0194644295110",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 54.99,
       "prev_date": "2026-11-25"
     },
@@ -246,11 +252,12 @@
         "2026-11-24": 119.0,
         "2026-11-25": 119.0,
         "2026-11-26": 119.0,
-        "2026-11-27": 84.0
+        "2026-11-27": 84.0,
+        "2026-11-28": 84.0
       },
       "low_price": 84.0,
       "ph_ean": "0840268988173",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 119.0,
       "prev_date": "2026-11-26"
     },
@@ -288,10 +295,11 @@
       "image": "https://media.s-bol.com/Q9gWnBryE3xZ/79XPBrO/550x594.jpg",
       "ph": {
         "2026-11-26": 168.41,
-        "2026-11-27": 168.41
+        "2026-11-27": 168.41,
+        "2026-11-28": 168.41
       },
       "low_price": 168.41,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Arlo",
@@ -331,11 +339,12 @@
         "2026-11-24": 57.0,
         "2026-11-25": 57.0,
         "2026-11-26": 57.0,
-        "2026-11-27": 57.0
+        "2026-11-27": 57.0,
+        "2026-11-28": 57.0
       },
       "low_price": 54.0,
       "ph_ean": "0193108146449",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 54.0,
       "prev_date": "2026-11-23"
     },
@@ -378,11 +387,12 @@
         "2026-11-24": 179.95,
         "2026-11-25": 179.95,
         "2026-11-26": 179.95,
-        "2026-11-27": 179.95
+        "2026-11-27": 179.95,
+        "2026-11-28": 179.95
       },
       "low_price": 179.95,
       "ph_ean": "0193575008592",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 184.0,
       "prev_date": "2026-11-23"
     },
@@ -424,11 +434,12 @@
         "2026-11-24": 49.99,
         "2026-11-25": 49.99,
         "2026-11-26": 49.99,
-        "2026-11-27": 49.99
+        "2026-11-27": 49.99,
+        "2026-11-28": 49.99
       },
       "low_price": 49.99,
       "ph_ean": "6941545607498",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Trust",
@@ -468,11 +479,12 @@
         "2026-11-24": 45.0,
         "2026-11-25": 45.0,
         "2026-11-26": 45.0,
-        "2026-11-27": 45.0
+        "2026-11-27": 45.0,
+        "2026-11-28": 45.0
       },
       "low_price": 45.0,
       "ph_ean": "8713439713879",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     }
   ],
   "guide": [

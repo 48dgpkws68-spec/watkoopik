@@ -26,6 +26,7 @@
   "rel": [
     "beste-matras",
     "beste-matras-140x200",
+    "beste-matras-90x200",
     "beste-boxspring-160x200",
     "beste-topper",
     "beste-matras-rugklachten"
@@ -67,11 +68,12 @@
       "image": "https://media.s-bol.com/xj9DgRYOkqrJ/zvgQ0m/550x295.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-27": 539.5
+        "2026-11-27": 539.5,
+        "2026-11-28": 539.5
       },
       "low_price": 539.5,
       "ph_ean": "4251822526681",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Maan matras",
@@ -107,11 +109,12 @@
       "image": "https://media.s-bol.com/35nN1W8OQA4A/xv0GRn9/550x550.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-27": 199.95
+        "2026-11-27": 199.95,
+        "2026-11-28": 199.95
       },
       "low_price": 199.95,
       "ph_ean": "8721082562607",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Tempur",
@@ -146,11 +149,12 @@
       "url": "https://www.bol.com/nl/nl/p/tempur-form-original-matras-medium-160x200-cm-22-cm-hoog/9300000274121076/",
       "image": "https://media.s-bol.com/gg2ZrAXDwVq9/oQv2RmB/550x172.jpg",
       "ph": {
-        "2026-11-27": 1499.25
+        "2026-11-27": 1499.25,
+        "2026-11-28": 1499.25
       },
       "low_price": 1499.25,
       "ph_ean": "5714714436486",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Akkon",
@@ -186,11 +190,12 @@
       "image": "https://media.s-bol.com/8y94QyPM5485/jRMOvoB/550x383.jpg",
       "rating": 4.8,
       "ph": {
-        "2026-11-27": 245.0
+        "2026-11-27": 245.0,
+        "2026-11-28": 245.0
       },
       "low_price": 245.0,
       "ph_ean": "8720682558928",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Emma",
@@ -226,9 +231,10 @@
       "image": "https://media.s-bol.com/gJ5ODZGmN506/550x188.jpg",
       "rating": 4.0,
       "ph_ean": "4260568042294",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
-        "2026-11-27": 237.21
+        "2026-11-27": 237.21,
+        "2026-11-28": 237.21
       },
       "low_price": 237.21
     },
@@ -266,11 +272,12 @@
       "image": "https://media.s-bol.com/NrxMRBvG3l8D/QWXPWPZ/550x169.jpg",
       "rating": 5.0,
       "ph": {
-        "2026-11-27": 479.0
+        "2026-11-27": 479.0,
+        "2026-11-28": 479.0
       },
       "low_price": 479.0,
       "ph_ean": "8720847331755",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Maan matras",
@@ -306,11 +313,12 @@
       "image": "https://media.s-bol.com/BZRyOjgNrGzk/mw8pjEn/550x325.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-27": 179.95
+        "2026-11-27": 179.95,
+        "2026-11-28": 179.95
       },
       "low_price": 179.95,
       "ph_ean": "8721082562539",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Ada Sleep",
@@ -346,16 +354,17 @@
       "image": "https://media.s-bol.com/3W6xlW9oL37M/kZzLDkJ/550x550.jpg",
       "rating": 4.5,
       "ph": {
-        "2026-11-27": 143.1
+        "2026-11-27": 143.1,
+        "2026-11-28": 143.1
       },
       "low_price": 143.1,
       "ph_ean": "8720634902007",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "BSS Bedding",
       "name": "Sydney Pocketvering Matras 160x200 30 cm",
-      "price": 336.44,
+      "price": 336.0,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -386,11 +395,14 @@
       "image": "https://media.s-bol.com/jlZpVQ2gwzj5/G59Z0BQ/550x366.jpg",
       "rating": 4.9,
       "ph": {
-        "2026-11-27": 336.44
+        "2026-11-27": 336.44,
+        "2026-11-28": 336.0
       },
-      "low_price": 336.44,
+      "low_price": 336.0,
       "ph_ean": "5407012530658",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 336.44,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Cocoon Dreams",
@@ -426,11 +438,12 @@
       "image": "https://media.s-bol.com/nwM75qZ4N4o5/VvqD9nv/550x550.jpg",
       "rating": 4.7,
       "ph": {
-        "2026-11-27": 174.0
+        "2026-11-27": 174.0,
+        "2026-11-28": 174.0
       },
       "low_price": 174.0,
       "ph_ean": "8721264682208",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     }
   ],
   "guide": [

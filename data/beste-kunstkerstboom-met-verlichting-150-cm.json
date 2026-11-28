@@ -115,12 +115,13 @@
       "image": "https://media.s-bol.com/2pGOjNrWj3WJ/gJKXQP6/550x824.jpg",
       "ph": {
         "2026-11-26": 89.99,
-        "2026-11-27": 89.99
+        "2026-11-27": 89.99,
+        "2026-11-28": 89.99
       },
       "low_price": 89.99,
       "ph_ean": "8719323084322",
       "rating": 4.3,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Black Box Trees",
@@ -156,11 +157,12 @@
       "image": "https://media.s-bol.com/oLgYqBjLgJJY/nxlrVYp/550x766.jpg",
       "ph": {
         "2026-11-26": 89.99,
-        "2026-11-27": 89.99
+        "2026-11-27": 89.99,
+        "2026-11-28": 89.99
       },
       "low_price": 89.99,
       "ph_ean": "8720967839728",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Triumph Tree",
@@ -194,17 +196,18 @@
       "image": "https://media.s-bol.com/N3JY5XN7p9zz/pZPYgWQ/494x840.jpg",
       "ph": {
         "2026-11-26": 169.99,
-        "2026-11-27": 169.99
+        "2026-11-27": 169.99,
+        "2026-11-28": 169.99
       },
       "low_price": 169.99,
       "ph_ean": "8712799346116",
       "rating": 4.9,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Excellent Trees",
       "name": "Elverum Frosted 150 cm met 260 LED",
-      "price": 145.0,
+      "price": 139.0,
       "score": 8.8,
       "label": null,
       "reviews": "",
@@ -235,16 +238,19 @@
       "image": "https://media.s-bol.com/kPWWx2O5Kw5x/6g1Bvl/550x807.jpg",
       "ph": {
         "2026-11-26": 145.0,
-        "2026-11-27": 145.0
+        "2026-11-27": 145.0,
+        "2026-11-28": 139.0
       },
-      "low_price": 145.0,
+      "low_price": 139.0,
       "ph_ean": "8720629443379",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 145.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Everlands",
       "name": "Grandis Fir 150 cm met 250 LED",
-      "price": 106.89,
+      "price": 108.0,
       "score": 8.7,
       "label": null,
       "reviews": "",
@@ -275,16 +281,19 @@
       "image": "https://media.s-bol.com/qzmZp97BXgj2/QkvP3Lq/550x784.jpg",
       "ph": {
         "2026-11-26": 106.89,
-        "2026-11-27": 106.89
+        "2026-11-27": 106.89,
+        "2026-11-28": 108.0
       },
       "low_price": 106.89,
       "ph_ean": "8720093253719",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28",
+      "prev_price": 106.89,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Ozocozy",
       "name": "Kunstkerstboom 150 cm met sneeuw, 240 LED en opbergtas",
-      "price": 75.0,
+      "price": 99.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -316,13 +325,14 @@
       "image": "https://media.s-bol.com/pAmKvwjWQOKX/r07jRzW/550x643.jpg",
       "ph": {
         "2026-11-26": 99.99,
-        "2026-11-27": 75.0
+        "2026-11-27": 75.0,
+        "2026-11-28": 99.99
       },
       "low_price": 75.0,
       "ph_ean": "8721008069357",
-      "synced": "2026-11-27",
-      "prev_price": 99.99,
-      "prev_date": "2026-11-26"
+      "synced": "2026-11-28",
+      "prev_price": 75.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "KJ Kunstkerstbomen",
@@ -358,11 +368,12 @@
       "image": "https://media.s-bol.com/J3j1V4pgXr0P/XQkAJ5m/473x840.jpg",
       "ph": {
         "2026-11-26": 99.0,
-        "2026-11-27": 99.0
+        "2026-11-27": 99.0,
+        "2026-11-28": 99.0
       },
       "low_price": 99.0,
       "ph_ean": "8721632740134",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Costway",
@@ -398,11 +409,12 @@
       "image": "https://media.s-bol.com/nvRp69zQXYEW/vQ44DOV/550x667.jpg",
       "ph": {
         "2026-11-26": 89.99,
-        "2026-11-27": 89.99
+        "2026-11-27": 89.99,
+        "2026-11-28": 89.99
       },
       "low_price": 89.99,
       "ph_ean": "0602226142160",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Cheqo",
@@ -437,11 +449,12 @@
       "image": "https://media.s-bol.com/N3K3MQq7NP46/lRv3rD1/550x550.jpg",
       "ph": {
         "2026-11-26": 77.99,
-        "2026-11-27": 77.99
+        "2026-11-27": 77.99,
+        "2026-11-28": 77.99
       },
       "low_price": 77.99,
       "ph_ean": "8721458030808",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Black Box Trees",
@@ -476,12 +489,13 @@
       "image": "https://media.s-bol.com/gEw6xvj480DD/4xL8O10/453x840.jpg",
       "ph": {
         "2026-11-26": 49.11,
-        "2026-11-27": 49.11
+        "2026-11-27": 49.11,
+        "2026-11-28": 49.11
       },
       "low_price": 49.11,
       "ph_ean": "8718861279382",
       "rating": 4.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     }
   ],
   "wissels": [

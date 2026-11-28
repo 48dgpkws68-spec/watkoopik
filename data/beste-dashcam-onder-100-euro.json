@@ -116,10 +116,11 @@
       "image": "https://media.s-bol.com/q8P68DwN3W03/02mZLX/532x840.jpg",
       "ph": {
         "2026-11-26": 94.95,
-        "2026-11-27": 94.95
+        "2026-11-27": 94.95,
+        "2026-11-28": 94.95
       },
       "low_price": 94.95,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "AZDome",
@@ -157,11 +158,12 @@
       "image": "https://media.s-bol.com/3Njv5VPEPl0n/DROGYxK/550x549.jpg",
       "ph": {
         "2026-11-26": 69.99,
-        "2026-11-27": 69.99
+        "2026-11-27": 69.99,
+        "2026-11-28": 69.99
       },
       "low_price": 69.99,
       "ph_ean": "6973888262881",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "AZDome",
@@ -199,11 +201,12 @@
       "image": "https://media.s-bol.com/75EvOpwGZ1zj/OywMmYr/550x550.jpg",
       "ph": {
         "2026-11-26": 89.99,
-        "2026-11-27": 89.99
+        "2026-11-27": 89.99,
+        "2026-11-28": 89.99
       },
       "low_price": 89.99,
       "ph_ean": "6973888261273",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "RedTiger",
@@ -241,16 +244,17 @@
       "image": "https://media.s-bol.com/JrWBBxzO1kLv/NZzpLL/550x550.jpg",
       "ph": {
         "2026-11-26": 83.95,
-        "2026-11-27": 83.95
+        "2026-11-27": 83.95,
+        "2026-11-28": 83.95
       },
       "low_price": 83.95,
       "ph_ean": "8720892194893",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Mio",
       "name": "MiVue J35",
-      "price": 84.0,
+      "price": 86.0,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 5,0 van 5",
@@ -283,13 +287,14 @@
       "image": "https://media.s-bol.com/5p8ZlnDm15xZ/rkrZXxp/550x323.jpg",
       "ph": {
         "2026-11-26": 81.0,
-        "2026-11-27": 84.0
+        "2026-11-27": 84.0,
+        "2026-11-28": 86.0
       },
       "low_price": 81.0,
       "ph_ean": "4713264288645",
-      "synced": "2026-11-27",
-      "prev_price": 81.0,
-      "prev_date": "2026-11-26"
+      "synced": "2026-11-28",
+      "prev_price": 84.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "DDPAI",
@@ -327,11 +332,12 @@
       "image": "https://media.s-bol.com/xgyXZqXvWGQB/NxAYBKD/550x397.jpg",
       "ph": {
         "2026-11-26": 70.0,
-        "2026-11-27": 70.0
+        "2026-11-27": 70.0,
+        "2026-11-28": 70.0
       },
       "low_price": 70.0,
       "ph_ean": "6934915204946",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "RedTiger",
@@ -367,11 +373,12 @@
       "url": "https://www.bol.com/nl/nl/p/redtiger-f9-lite-dashcam/9300000397007742/",
       "image": "https://media.s-bol.com/90NymX2J6nN8/282rlgv/550x504.jpg",
       "ph": {
-        "2026-11-27": 78.86
+        "2026-11-27": 78.86,
+        "2026-11-28": 78.86
       },
       "low_price": 78.86,
       "ph_ean": "5905156108424",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "DDPAI",
@@ -409,11 +416,12 @@
       "image": "https://media.s-bol.com/m3k3nX31KK79/wjG4RWw/550x600.jpg",
       "ph": {
         "2026-11-26": 61.0,
-        "2026-11-27": 61.0
+        "2026-11-27": 61.0,
+        "2026-11-28": 61.0
       },
       "low_price": 61.0,
       "ph_ean": "6934915204359",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Botslab",
@@ -451,11 +459,12 @@
       "image": "https://media.s-bol.com/Nw68OWqA9xE2/0goqxzK/550x502.jpg",
       "ph": {
         "2026-11-26": 37.99,
-        "2026-11-27": 37.99
+        "2026-11-27": 37.99,
+        "2026-11-28": 37.99
       },
       "low_price": 37.99,
       "ph_ean": "6974772424590",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "AZDome",
@@ -493,11 +502,12 @@
       "image": "https://media.s-bol.com/zD5llB1O6pr2/G6rDyMK/550x538.jpg",
       "ph": {
         "2026-11-26": 44.99,
-        "2026-11-27": 44.99
+        "2026-11-27": 44.99,
+        "2026-11-28": 44.99
       },
       "low_price": 44.99,
       "ph_ean": "6973888261808",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     }
   ]
 }

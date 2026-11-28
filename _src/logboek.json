@@ -2872,12 +2872,17 @@
     "naar": "Honor 400 5G 8/256GB"
    }
   ],
-  "_tot": "e9cacc327769da3c28156878fbd5ee2d362864c5",
+  "_tot": "8e4062af6c06870786f37ba7bf3575853ff3a2a9",
   "_ps": [
    {
     "brand": "Honor",
     "name": "400 5G 8/256GB",
     "ean": "6936520867585"
+   },
+   {
+    "brand": "Google",
+    "name": "Pixel 8a 128GB",
+    "ean": "0840244707958"
    },
    {
     "brand": "Xiaomi",
@@ -2893,11 +2898,6 @@
     "brand": "Motorola",
     "name": "moto g77 5G 8/256GB",
     "ean": "0840493617213"
-   },
-   {
-    "brand": "Google",
-    "name": "Pixel 8a 128GB",
-    "ean": "0840244707958"
    },
    {
     "brand": "Nothing",

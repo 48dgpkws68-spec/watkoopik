@@ -21,10 +21,10 @@
     {
       "brand": "Apple",
       "name": "iPad Air M3 (2025) 11 inch Wi-Fi 128 GB",
-      "price": 679.0,
+      "price": 669.0,
       "score": 9.3,
       "label": "Beste keuze",
-      "reviews": "bol-score 4,7 van 5",
+      "reviews": "bol-score 4,8 van 5",
       "oneliner": "Pro-snelheid in een lichte tablet voor een middenklasseprijs.",
       "specs": {
         "Scherm": "11 inch, 60 Hz",
@@ -69,14 +69,15 @@
         "2026-11-24": 679.0,
         "2026-11-25": 714.0,
         "2026-11-26": 679.0,
-        "2026-11-27": 679.0
+        "2026-11-27": 679.0,
+        "2026-11-28": 669.0
       },
-      "low_price": 679.0,
-      "synced": "2026-11-27",
-      "prev_price": 714.0,
-      "prev_date": "2026-11-25",
+      "low_price": 669.0,
+      "synced": "2026-11-28",
+      "prev_price": 679.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "0195949997570",
-      "rating": 4.7
+      "rating": 4.8
     },
     {
       "brand": "Apple",
@@ -109,8 +110,8 @@
       "ean": "0195950086317",
       "bol_title": "Apple iPad (2025) - 11 inch - Wi-Fi - 128GB - Silver - 11e generatie",
       "url": "https://www.bol.com/nl/nl/p/apple-ipad-a16-11-inch-wi-fi-128gb-silver/9300000226757635/",
-      "image": "https://media.s-bol.com/D3r3wXrO3R9n/oZ62Bnj/550x624.jpg",
-      "synced": "2026-11-27",
+      "image": "https://media.s-bol.com/Wyw9mNzNqMGn/M8PzZo1/550x624.jpg",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 455.0,
         "2026-10-16": 458.0,
@@ -153,7 +154,8 @@
         "2026-11-24": 440.99,
         "2026-11-25": 440.99,
         "2026-11-26": 440.99,
-        "2026-11-27": 445.0
+        "2026-11-27": 445.0,
+        "2026-11-28": 445.0
       },
       "low_price": 429.0,
       "prev_price": 440.99,
@@ -210,17 +212,18 @@
         "2026-11-24": 1499.99,
         "2026-11-25": 1499.99,
         "2026-11-26": 1499.99,
-        "2026-11-27": 1499.99
+        "2026-11-27": 1499.99,
+        "2026-11-28": 1499.99
       },
       "low_price": 1499.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "0195950398168",
       "rating": 4.1
     },
     {
       "brand": "Samsung",
       "name": "Galaxy Tab S11 Wi-Fi 256 GB",
-      "price": 945.0,
+      "price": 819.0,
       "score": 8.9,
       "label": null,
       "reviews": "bol-score 4,5 van 5",
@@ -249,7 +252,7 @@
       "bol_title": "Samsung Galaxy Tab S11 - WiFi - 256GB - Grijs",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-tab-s11-wifi-256gb-grijs/9300000239737611/",
       "image": "https://media.s-bol.com/zM5M4DWPWK35/Eq6Rrk4/550x386.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 849.0,
         "2026-10-16": 849.0,
@@ -292,11 +295,12 @@
         "2026-11-24": 945.0,
         "2026-11-25": 899.0,
         "2026-11-26": 899.0,
-        "2026-11-27": 945.0
+        "2026-11-27": 945.0,
+        "2026-11-28": 819.0
       },
       "low_price": 819.0,
-      "prev_price": 899.0,
-      "prev_date": "2026-11-26",
+      "prev_price": 945.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "8806097712282",
       "rating": 4.5
     },
@@ -332,7 +336,7 @@
       "bol_title": "Xiaomi Pad 8 - 8 GB RAM - 128 GB - Groen",
       "url": "https://www.bol.com/nl/nl/p/xiaomi-pad-8-8gb-128gb-groen/9300000261524170/",
       "image": "https://media.s-bol.com/g3oNg4RE533Y/6Ro5kxV/550x545.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 339.0,
         "2026-10-16": 339.0,
@@ -375,7 +379,8 @@
         "2026-11-24": 404.99,
         "2026-11-25": 403.43,
         "2026-11-26": 403.43,
-        "2026-11-27": 394.94
+        "2026-11-27": 394.94,
+        "2026-11-28": 394.94
       },
       "low_price": 339.0,
       "prev_price": 403.43,
@@ -415,7 +420,7 @@
       "bol_title": "Samsung Galaxy Tab S10 FE - WiFi - 128GB - Gray + 1 jaar extra garantie",
       "url": "https://www.bol.com/nl/nl/p/samsung-galaxy-tab-s10-fe-wifi-128gb-gray-1-jaar-extra-garantie/9300000231520123/",
       "image": "https://media.s-bol.com/g4V97xrgZJWl/0g9DAVV/550x382.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 479.0,
         "2026-10-16": 479.0,
@@ -458,7 +463,8 @@
         "2026-11-24": 449.0,
         "2026-11-25": 449.0,
         "2026-11-26": 399.0,
-        "2026-11-27": 399.0
+        "2026-11-27": 399.0,
+        "2026-11-28": 399.0
       },
       "low_price": 399.0,
       "prev_price": 449.0,
@@ -502,10 +508,11 @@
       "image": "https://media.s-bol.com/ZL6WPlWBE062/2R5zjz1/550x526.jpg",
       "ph": {
         "2026-11-26": 249.0,
-        "2026-11-27": 249.0
+        "2026-11-27": 249.0,
+        "2026-11-28": 249.0
       },
       "low_price": 249.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Xiaomi",
@@ -554,10 +561,11 @@
         "2026-11-24": 185.0,
         "2026-11-25": 185.0,
         "2026-11-26": 185.0,
-        "2026-11-27": 185.0
+        "2026-11-27": 185.0,
+        "2026-11-28": 185.0
       },
       "low_price": 176.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 182.99,
       "prev_date": "2026-11-23",
       "rating": 4.0
@@ -600,7 +608,7 @@
       },
       "low_price": 207.95,
       "ph_ean": "8806097952510",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Lenovo",
@@ -634,11 +642,12 @@
       "bol_title": "Lenovo Idea Tab - 11 inch - 8GB/128GB - Grijs - met Tab Pen",
       "url": "https://www.bol.com/nl/nl/p/lenovo-idea-tab-8gb-ram-128gb-opslag-incl-tab-pen/9300000232643618/",
       "image": "https://media.s-bol.com/p35LVgJ0gQop/kZQxVrJ/550x363.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "0198157039940",
       "rating": 4.4,
       "ph": {
-        "2026-11-27": 195.0
+        "2026-11-27": 195.0,
+        "2026-11-28": 195.0
       },
       "low_price": 195.0
     }

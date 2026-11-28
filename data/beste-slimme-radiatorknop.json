@@ -24,7 +24,7 @@
     {
       "brand": "tado",
       "name": "Slimme Radiatorknop X Starterskit",
-      "price": 99.0,
+      "price": 91.05,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,3 van 5",
@@ -80,12 +80,13 @@
         "2026-11-24": 89.9,
         "2026-11-25": 89.9,
         "2026-11-26": 99.0,
-        "2026-11-27": 99.0
+        "2026-11-27": 99.0,
+        "2026-11-28": 91.05
       },
       "low_price": 89.9,
-      "synced": "2026-11-27",
-      "prev_price": 89.9,
-      "prev_date": "2026-11-25",
+      "synced": "2026-11-28",
+      "prev_price": 99.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "4260328612118",
       "rating": 4.3
     },
@@ -126,12 +127,13 @@
         "2026-11-24": 114.98,
         "2026-11-25": 114.98,
         "2026-11-26": 114.98,
-        "2026-11-27": 114.98
+        "2026-11-27": 114.98,
+        "2026-11-28": 114.98
       },
       "low_price": 114.98,
       "ph_ean": "4260012712353",
       "rating": 5.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Honeywell Home",
@@ -192,10 +194,11 @@
         "2026-11-24": 96.99,
         "2026-11-25": 96.99,
         "2026-11-26": 96.99,
-        "2026-11-27": 96.99
+        "2026-11-27": 96.99,
+        "2026-11-28": 96.99
       },
       "low_price": 96.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "5059085004187",
       "rating": 3.0
     },
@@ -258,17 +261,18 @@
         "2026-11-24": 199.99,
         "2026-11-25": 199.99,
         "2026-11-26": 199.99,
-        "2026-11-27": 199.99
+        "2026-11-27": 199.99,
+        "2026-11-28": 199.99
       },
       "low_price": 199.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "3700730501941",
       "rating": 3.6
     },
     {
       "brand": "brennenstuhl",
       "name": "Connect Zigbee Radiatorknop HT CZ 01",
-      "price": 49.99,
+      "price": 46.0,
       "score": 8.5,
       "label": null,
       "reviews": "",
@@ -308,21 +312,22 @@
         "2026-11-24": 34.89,
         "2026-11-25": 34.89,
         "2026-11-26": 34.89,
-        "2026-11-27": 49.99
+        "2026-11-27": 49.99,
+        "2026-11-28": 46.0
       },
       "low_price": 34.89,
       "ph_ean": "4007123672066",
-      "synced": "2026-11-27",
-      "prev_price": 34.89,
-      "prev_date": "2026-11-26"
+      "synced": "2026-11-28",
+      "prev_price": 49.99,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Danfoss",
       "name": "Eco elektronische radiatorknop",
-      "price": 54.99,
+      "price": 55.99,
       "score": 8.4,
       "label": null,
-      "reviews": "bol-score 4,3 van 5",
+      "reviews": "bol-score 4,1 van 5",
       "oneliner": "Losse radiatorknop die je via Bluetooth instelt, zonder hub of abonnement.",
       "specs": {
         "Inhoud": "1 radiatorknop",
@@ -342,7 +347,7 @@
         "Geen koppeling met Google Home, Alexa of Apple Home"
       ],
       "ideal": "Wie een paar kamers op schema wil zetten zonder hub, cloud of smart-home-systeem.",
-      "text": "De Danfoss Eco is een elektronische radiatorknop die volledig op zichzelf werkt. Je koppelt hem via Bluetooth met de Danfoss Eco-app, stelt een weekschema in en daarna regelt de knop de radiator zelf. Er is geen hub, router of account nodig. Het schema staat in de knop opgeslagen, dus hij blijft werken als je telefoon niet thuis is. In de doos zitten adapters voor Danfoss-kranen en de meeste andere radiatorventielen, waardoor je hem in een paar minuten monteert.\n\nDe beperking zit in Bluetooth. Je past de temperatuur alleen aan als je in de buurt bent, dus vanaf je werk de verwarming hoger zetten lukt niet. Koppelen met Google Home, Alexa of Apple Home kan ook niet. Daar staat tegenover dat je geen gegevens in een cloud zet en geen abonnement afsluit. Kopers op bol geven gemiddeld 4,3 sterren en noemen vooral de eenvoudige montage. De batterijen zitten er niet bij. Wil je de verwarming ook op afstand bedienen, kijk dan naar tado of Eurotronic.",
+      "text": "De Danfoss Eco is een elektronische radiatorknop die volledig op zichzelf werkt. Je koppelt hem via Bluetooth met de Danfoss Eco-app, stelt een weekschema in en daarna regelt de knop de radiator zelf. Er is geen hub, router of account nodig. Het schema staat in de knop opgeslagen, dus hij blijft werken als je telefoon niet thuis is. In de doos zitten adapters voor Danfoss-kranen en de meeste andere radiatorventielen, waardoor je hem in een paar minuten monteert.\n\nDe beperking zit in Bluetooth. Je past de temperatuur alleen aan als je in de buurt bent, dus vanaf je werk de verwarming hoger zetten lukt niet. Koppelen met Google Home, Alexa of Apple Home kan ook niet. Daar staat tegenover dat je geen gegevens in een cloud zet en geen abonnement afsluit. Kopers op bol geven gemiddeld 4,1 sterren en noemen vooral de eenvoudige montage. De batterijen zitten er niet bij. Wil je de verwarming ook op afstand bedienen, kijk dan naar tado of Eurotronic.",
       "ean": "5702425245329",
       "bol_title": "Danfoss ECO™ Elektronische radiatorthermostaat Elektronisch",
       "url": "https://www.bol.com/nl/nl/p/danfoss-eco-draadloze-radiatorthermostaat-elektronisch/9300000111286785/",
@@ -370,14 +375,15 @@
         "2026-11-24": 55.94,
         "2026-11-25": 55.94,
         "2026-11-26": 54.89,
-        "2026-11-27": 54.99
+        "2026-11-27": 54.99,
+        "2026-11-28": 55.99
       },
       "low_price": 51.97,
-      "synced": "2026-11-27",
-      "prev_price": 54.89,
-      "prev_date": "2026-11-26",
+      "synced": "2026-11-28",
+      "prev_price": 54.99,
+      "prev_date": "2026-11-27",
       "ph_ean": "5702425245329",
-      "rating": 4.3
+      "rating": 4.1
     },
     {
       "brand": "Meross",
@@ -427,10 +433,11 @@
         "2026-11-24": 77.95,
         "2026-11-25": 72.95,
         "2026-11-26": 72.95,
-        "2026-11-27": 72.95
+        "2026-11-27": 72.95,
+        "2026-11-28": 72.95
       },
       "low_price": 72.95,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "6973696562654",
       "prev_price": 77.95,
       "prev_date": "2026-11-24"
@@ -493,10 +500,11 @@
         "2026-11-24": 107.99,
         "2026-11-25": 109.29,
         "2026-11-26": 109.29,
-        "2026-11-27": 109.29
+        "2026-11-27": 109.29,
+        "2026-11-28": 109.29
       },
       "low_price": 104.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 107.99,
       "prev_date": "2026-11-24",
       "ph_ean": "3800235268322"
@@ -559,10 +567,11 @@
         "2026-11-24": 119.95,
         "2026-11-25": 119.95,
         "2026-11-26": 119.95,
-        "2026-11-27": 119.95
+        "2026-11-27": 119.95,
+        "2026-11-28": 119.95
       },
       "low_price": 119.95,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "5419980322166",
       "rating": 4.2
     },
@@ -616,10 +625,11 @@
         "2026-11-24": 134.99,
         "2026-11-25": 139.95,
         "2026-11-26": 139.95,
-        "2026-11-27": 139.95
+        "2026-11-27": 139.95,
+        "2026-11-28": 139.95
       },
       "low_price": 134.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 134.99,
       "prev_date": "2026-11-24",
       "ph_ean": "8719323919785",

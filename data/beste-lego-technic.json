@@ -75,7 +75,7 @@
         "2026-11-27": 139.99
       },
       "low_price": 139.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "5702017584119",
       "prev_price": 169.98,
       "prev_date": "2026-11-26",
@@ -84,7 +84,7 @@
     {
       "brand": "LEGO",
       "name": "Technic Oracle Red Bull Racing RB20 F1 42206",
-      "price": 149.99,
+      "price": 149.49,
       "score": 9.2,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -132,19 +132,20 @@
         "2026-11-24": 149.99,
         "2026-11-25": 149.99,
         "2026-11-26": 149.99,
-        "2026-11-27": 149.99
+        "2026-11-27": 149.99,
+        "2026-11-28": 149.49
       },
       "low_price": 131.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "5702017816296",
-      "prev_price": 154.0,
-      "prev_date": "2026-11-23",
+      "prev_price": 149.99,
+      "prev_date": "2026-11-27",
       "rating": 4.8
     },
     {
       "brand": "LEGO",
       "name": "Technic Ferrari Daytona SP3 42143",
-      "price": 450.0,
+      "price": 451.99,
       "score": 9.1,
       "label": "Beste premium",
       "reviews": "bol-score 4,7 van 5",
@@ -193,19 +194,20 @@
         "2026-11-24": 420.5,
         "2026-11-25": 469.0,
         "2026-11-26": 450.0,
-        "2026-11-27": 450.0
+        "2026-11-27": 450.0,
+        "2026-11-28": 451.99
       },
       "low_price": 410.0,
-      "synced": "2026-11-27",
-      "prev_price": 469.0,
-      "prev_date": "2026-11-25",
+      "synced": "2026-11-28",
+      "prev_price": 450.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "5702017159041",
       "rating": 4.7
     },
     {
       "brand": "LEGO",
       "name": "Technic McLaren P1 42172",
-      "price": 249.99,
+      "price": 340.0,
       "score": 9.0,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -253,19 +255,20 @@
         "2026-11-24": 299.99,
         "2026-11-25": 299.99,
         "2026-11-26": 299.99,
-        "2026-11-27": 249.99
+        "2026-11-27": 249.99,
+        "2026-11-28": 340.0
       },
       "low_price": 249.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "5702017595672",
       "rating": 4.9,
-      "prev_price": 299.99,
-      "prev_date": "2026-11-26"
+      "prev_price": 249.99,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "LEGO",
       "name": "Technic Ford GT 2022 42154",
-      "price": 69.99,
+      "price": 86.99,
       "score": 8.9,
       "label": "Beste prijs-kwaliteit",
       "reviews": "bol-score 4,8 van 5",
@@ -313,19 +316,20 @@
         "2026-11-24": 83.98,
         "2026-11-25": 86.99,
         "2026-11-26": 86.99,
-        "2026-11-27": 69.99
+        "2026-11-27": 69.99,
+        "2026-11-28": 86.99
       },
       "low_price": 69.99,
-      "synced": "2026-11-27",
-      "prev_price": 86.99,
-      "prev_date": "2026-11-26",
+      "synced": "2026-11-28",
+      "prev_price": 69.99,
+      "prev_date": "2026-11-27",
       "ph_ean": "5702017424965",
       "rating": 4.8
     },
     {
       "brand": "LEGO",
       "name": "Technic Volvo FMX Truck en EC230 Electric Excavator 42175",
-      "price": 114.99,
+      "price": 155.0,
       "score": 8.8,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -373,19 +377,20 @@
         "2026-11-24": 139.0,
         "2026-11-25": 139.0,
         "2026-11-26": 139.0,
-        "2026-11-27": 114.99
+        "2026-11-27": 114.99,
+        "2026-11-28": 155.0
       },
       "low_price": 114.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "5702017584096",
       "rating": 4.9,
-      "prev_price": 139.0,
-      "prev_date": "2026-11-26"
+      "prev_price": 114.99,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "LEGO",
       "name": "Technic Kawasaki Ninja H2R 42170",
-      "price": 48.99,
+      "price": 66.99,
       "score": 8.6,
       "label": null,
       "reviews": "bol-score 4,8 van 5",
@@ -433,19 +438,20 @@
         "2026-11-24": 66.99,
         "2026-11-25": 66.99,
         "2026-11-26": 66.99,
-        "2026-11-27": 48.99
+        "2026-11-27": 48.99,
+        "2026-11-28": 66.99
       },
       "low_price": 48.99,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph_ean": "5702017583556",
-      "prev_price": 66.99,
-      "prev_date": "2026-11-26",
+      "prev_price": 48.99,
+      "prev_date": "2026-11-27",
       "rating": 4.8
     },
     {
       "brand": "LEGO",
       "name": "Technic Koenigsegg Jesko Absolut witte hypercar 42184",
-      "price": 64.99,
+      "price": 59.97,
       "score": 8.4,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -488,18 +494,19 @@
         "2026-11-24": 64.42,
         "2026-11-25": 59.97,
         "2026-11-26": 65.21,
-        "2026-11-27": 64.99
+        "2026-11-27": 64.99,
+        "2026-11-28": 59.97
       },
       "low_price": 59.97,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "rating": 4.9,
-      "prev_price": 65.21,
-      "prev_date": "2026-11-26"
+      "prev_price": 64.99,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "LEGO",
       "name": "Technic Mack LR Electric Vuilniswagen 42167",
-      "price": 49.95,
+      "price": 45.9,
       "score": 8.2,
       "label": null,
       "reviews": "bol-score 4,9 van 5",
@@ -547,19 +554,20 @@
         "2026-11-24": 46.49,
         "2026-11-25": 46.49,
         "2026-11-26": 46.49,
-        "2026-11-27": 49.95
+        "2026-11-27": 49.95,
+        "2026-11-28": 45.9
       },
       "low_price": 40.98,
-      "synced": "2026-11-27",
-      "prev_price": 46.49,
-      "prev_date": "2026-11-26",
+      "synced": "2026-11-28",
+      "prev_price": 49.95,
+      "prev_date": "2026-11-27",
       "ph_ean": "5702017583525",
       "rating": 4.9
     },
     {
       "brand": "LEGO",
       "name": "Technic NEOM McLaren Extreme E racewagen 42166",
-      "price": 39.99,
+      "price": 37.69,
       "score": 8.0,
       "label": null,
       "reviews": "bol-score 4,7 van 5",
@@ -607,12 +615,13 @@
         "2026-11-24": 37.69,
         "2026-11-25": 37.69,
         "2026-11-26": 37.69,
-        "2026-11-27": 39.99
+        "2026-11-27": 39.99,
+        "2026-11-28": 37.69
       },
       "low_price": 37.69,
-      "synced": "2026-11-27",
-      "prev_price": 37.69,
-      "prev_date": "2026-11-26",
+      "synced": "2026-11-28",
+      "prev_price": 39.99,
+      "prev_date": "2026-11-27",
       "ph_ean": "5702017583518",
       "rating": 4.7
     }

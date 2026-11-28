@@ -21,7 +21,7 @@
     {
       "brand": "Apple",
       "name": "MacBook Air 13 inch M5 (2026) 16 GB 512 GB",
-      "price": 1235.0,
+      "price": 1299.0,
       "score": 9.3,
       "label": "Beste keuze",
       "reviews": "bol-score 4,7 van 5",
@@ -59,13 +59,14 @@
         "2026-11-24": 1299.0,
         "2026-11-25": 1299.0,
         "2026-11-26": 1299.0,
-        "2026-11-27": 1235.0
+        "2026-11-27": 1235.0,
+        "2026-11-28": 1299.0
       },
       "low_price": 1235.0,
       "ph_ean": "0195950687408",
-      "synced": "2026-11-27",
-      "prev_price": 1299.0,
-      "prev_date": "2026-11-26"
+      "synced": "2026-11-28",
+      "prev_price": 1235.0,
+      "prev_date": "2026-11-27"
     },
     {
       "brand": "Lenovo",
@@ -104,10 +105,11 @@
       "ph": {
         "2026-11-25": 649.0,
         "2026-11-26": 649.0,
-        "2026-11-27": 649.0
+        "2026-11-27": 649.0,
+        "2026-11-28": 649.0
       },
       "low_price": 649.0,
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Apple",
@@ -141,7 +143,7 @@
       "bol_title": "Apple MacBook Pro 2024 16,2'' - M4 Pro, 14 Core CPU, 20 Core GPU, 24GB RAM, 512GB SSD, Qwerty, Space Zwart",
       "url": "https://www.bol.com/nl/nl/p/apple-macbook-pro-2024-16-2-m4-pro-14-core-cpu-20-core-gpu-24gb-ram-512gb-ssd-qwerty-space-zwart/9300000195338163/",
       "image": "https://media.s-bol.com/3qKoRmJjPjZp/W6vlQk4/550x335.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-14": 2599.0,
         "2026-10-15": 2599.0,
@@ -185,7 +187,8 @@
         "2026-11-24": 2699.0,
         "2026-11-25": 2699.0,
         "2026-11-26": 2699.0,
-        "2026-11-27": 2699.0
+        "2026-11-27": 2699.0,
+        "2026-11-28": 2699.0
       },
       "low_price": 2599.0,
       "prev_price": 2599.0,
@@ -196,7 +199,7 @@
     {
       "brand": "Microsoft",
       "name": "Surface Laptop 8e editie 13,8 inch Snapdragon X2 Plus 16 GB 512 GB",
-      "price": 1399.0,
+      "price": 1199.0,
       "score": 8.8,
       "label": null,
       "reviews": "",
@@ -249,12 +252,13 @@
         "2026-11-24": 1399.0,
         "2026-11-25": 1399.0,
         "2026-11-26": 1399.0,
-        "2026-11-27": 1399.0
+        "2026-11-27": 1399.0,
+        "2026-11-28": 1199.0
       },
-      "low_price": 1399.0,
-      "synced": "2026-11-27",
-      "prev_price": 1673.0,
-      "prev_date": "2026-11-12",
+      "low_price": 1199.0,
+      "synced": "2026-11-28",
+      "prev_price": 1399.0,
+      "prev_date": "2026-11-27",
       "ph_ean": "0196388733477"
     },
     {
@@ -289,7 +293,7 @@
       "bol_title": "DELL XPS 13 9350 - Zakelijke Copilot+ Laptop - Intel Core Ultra 7 - 13.4 inch - 16 GB/512 GB - Windows 11 Pro",
       "url": "https://www.bol.com/nl/nl/p/dell-xps-13-9350-intel-core-ultra-7-256v-laptop-34-cm-full-hd-16-gb-lpddr5x-sdram-512-gb-ssd-wi-fi-7-windows-11-pro-platina/9300000220261295/",
       "image": "https://media.s-bol.com/BJ4NYYqM8Avk/MjQ89DB/550x352.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-15": 1729.0,
         "2026-10-16": 1729.0,
@@ -332,7 +336,8 @@
         "2026-11-24": 1691.0,
         "2026-11-25": 1690.0,
         "2026-11-26": 1690.0,
-        "2026-11-27": 1690.0
+        "2026-11-27": 1690.0,
+        "2026-11-28": 1690.0
       },
       "low_price": 1690.0,
       "prev_price": 1691.0,
@@ -374,11 +379,12 @@
       "image": "https://media.s-bol.com/J3379yrRWEgK/r2oyg06/550x380.jpg",
       "ph": {
         "2026-11-26": 849.0,
-        "2026-11-27": 849.0
+        "2026-11-27": 849.0,
+        "2026-11-28": 849.0
       },
       "low_price": 849.0,
       "ph_ean": "4711636590495",
-      "synced": "2026-11-27"
+      "synced": "2026-11-28"
     },
     {
       "brand": "Lenovo",
@@ -411,7 +417,7 @@
       "bol_title": "Lenovo LOQ 15AHP10 - Gaming Laptop - 15.6 inch - Ryzen 7 250 - RTX 5050 - 16 GB/512 GB - 144 Hz",
       "url": "https://www.bol.com/nl/nl/p/lenovo-loq-15ahp10-amd-ryzen-7-250-laptop-39-6-cm-full-hd-16-gb-ddr5-sdram-512-gb-ssd-nvidia-geforce-rtx-5050-wi-fi-6-windows-11-home-engels-grijs/9300000231792217/",
       "image": "https://media.s-bol.com/q4qv5BGYG2Lk/lOv6oG6/550x473.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-24": 1549.0,
         "2026-10-25": 1549.0,
@@ -446,7 +452,8 @@
         "2026-11-24": 1299.0,
         "2026-11-25": 1299.0,
         "2026-11-26": 1299.0,
-        "2026-11-27": 1299.0
+        "2026-11-27": 1299.0,
+        "2026-11-28": 1299.0
       },
       "low_price": 1299.0,
       "prev_price": 1549.0,
@@ -504,9 +511,10 @@
         "2026-11-24": 1826.95,
         "2026-11-25": 1826.95,
         "2026-11-26": 1826.95,
-        "2026-11-27": 1826.95
+        "2026-11-27": 1826.95,
+        "2026-11-28": 1826.95
       },
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "low_price": 1749.0,
       "prev_price": 1749.0,
       "prev_date": "2026-11-10",
@@ -575,10 +583,11 @@
         "2026-11-24": 1299.0,
         "2026-11-25": 1299.0,
         "2026-11-26": 1299.0,
-        "2026-11-27": 1249.0
+        "2026-11-27": 1249.0,
+        "2026-11-28": 1249.0
       },
       "low_price": 1249.0,
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "prev_price": 1299.0,
       "prev_date": "2026-11-26",
       "ph_ean": "4711721048832",
@@ -615,7 +624,7 @@
       "bol_title": "Lenovo IdeaPad Slim 3 15AMN8 - Laptop - 15.6 inch - Ryzen 5 - 16GB/512GB",
       "url": "https://www.bol.com/nl/nl/p/lenovo-ideapad-slim-3-15amn8-amd-ryzen-5-40-laptop-39-6-cm-full-hd-16-gb-lpddr5-sdram-512-gb-ssd-wi-fi-6-windows-11-home-engels-grijs/9300000263613346/",
       "image": "https://media.s-bol.com/y3K2r6OAPM46/gL5Z2D3/550x427.jpg",
-      "synced": "2026-11-27",
+      "synced": "2026-11-28",
       "ph": {
         "2026-10-16": 599.0,
         "2026-10-17": 599.0,
@@ -657,7 +666,8 @@
         "2026-11-24": 599.0,
         "2026-11-25": 599.0,
         "2026-11-26": 599.0,
-        "2026-11-27": 599.0
+        "2026-11-27": 599.0,
+        "2026-11-28": 599.0
       },
       "low_price": 599.0,
       "prev_price": 679.0,
