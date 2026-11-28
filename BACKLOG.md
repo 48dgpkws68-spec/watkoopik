@@ -18,6 +18,7 @@ Formaat: slug | cat | query | titel | emoji
 [x] beste-boxspring-180x200 | slapen | boxspring 180x200 | De 10 beste boxsprings van 180x200 van 2026 | 🛏️
 [x] beste-qled-tv-onder-500-euro | elektronica | qled tv | De 10 beste QLED-tv's onder 500 euro van 2026 | 📺
 [x] beste-qled-tv-55-inch | elektronica | qled tv 55 inch | De 10 beste QLED-tv's van 55 inch van 2026 | 📺
+[x] beste-qled-tv-65-inch | elektronica | qled tv 65 inch | De 10 beste QLED-tv's van 65 inch van 2026 | 📺 (google_wacht)
 [ ] beste-boxspring-onder-500-euro | slapen | boxspring onder 500 euro | De 10 beste boxsprings onder 500 euro van 2026 | 🛏️
 [ ] beste-kerstverlichting-binnen | wonen | kerstverlichting binnen | De 10 beste kerstlampjes voor binnen van 2026 | 💡
 [x] beste-kunstkerstboom-met-verlichting-210-cm | wonen | kunstkerstboom met verlichting 210 cm | De 10 beste kunstkerstbomen met verlichting van 210 cm van 2026 | 🎄
